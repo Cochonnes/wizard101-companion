@@ -1,0 +1,216 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 13,265
+| crecla = Irk
+| school = Death
+| school2 = Life
+| cheats = Yes
+| shadowslots = 1
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Fire;
+Storm;
+Life;
+
+| critical =
+354 Any;
+
+| criticalblock =
+128 Any;
+
+| outpierce =
+12%;
+
+| outboost =
+83%;
+
+| incboost =
+30% Death;
+
+| incresist =
+28% Fire, Ice, Storm, Myth, Balance, Shadow, Sun, Star, Moon;
+58% Life;
+
+| outhealing =
+11%;
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Novus
+| location = Conatus
+| subloc1 = Dueling Tent
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Global}} ''"Snicker"'' - Occasionally, Tantrum (Death-Life, Rank 22) will cast a Death Equalize Global, setting the Damage cap to '''5,000'''.
+
+| spellnotes =
+
+| casts =
+Brace;
+Plague;
+Regenerate;
+Balanceblade;
+Empower;
+Banshee (Tier 3a);
+Gravestorm;
+Skeletal Pirate (Tier 3a);
+Winged Sorrow;
+Bonetree Lord;
+Luminous Weaver (Tier 3b);
+Starspawn;
+Leafstorm;
+Moody Caterpillar;
+
+| quests =
+Piece Conference;
+
+| gold =
+2 - 49;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Glistening Balance Amulet;
+Glistening Death Amulet;
+Glistening Fire Amulet;
+Glistening Ice Amulet;
+Glistening Life Amulet;
+Glistening Myth Amulet*F3;
+Glistening Storm Amulet*F2;
+Golden Balance Amulet*F2;
+Golden Death Amulet;
+Golden Fire Amulet;
+Golden Ice Amulet*F2*WMV;
+Golden Life Amulet;
+Golden Myth Amulet;
+Golden Storm Amulet;
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Banshee (Tier 2b)*F2;
+Blood Bat (Tier 2b);
+Cyclops (Tier 2b);
+Dark Sprite (Tier 2b)*F2;
+Elemental Defuse;
+Evil Snowman (Tier 2b);
+Fire Elf (Tier 2b);
+Frost Beetle (Tier 2b);
+Leprechaun (Tier 2b);
+Link;
+Mass Triage;
+Nature's Wrath (Tier 2b)*F2;
+Scarab (Tier 2b);
+Scorpion (Tier 2b);
+Snow Serpent (Tier 2b);
+Storm Shark (Tier 2b)*F2;
+Sunbird (Tier 2b);
+Thunder Snake (Tier 2b);
+Troll (Tier 2b);
+
+| reagents =
+Bone;
+Bronze Gear;
+Pixels;
+
+| spellements =
+Barbarian's Saga;
+Blast Off!*F2;
+Dark & Stormy;
+Deathly Depths;
+Freeze Ray;
+Glimpse of Infinity;
+Gravestorm;
+Grim Reader;
+Grrnadier;
+Improbable Gaze;
+Lord of the Jungle;
+Mockenspiel;
+Old One's Endgame;
+S'more Machine*F2;
+Scales of Destiny;
+Shatterhorn;
+Snack Attack;
+Sound of Musicology;
+Starspawn;
+Tatzlewurm Terror;
+Tree of Strife*F2;
+
+| snacks =
+
+| jewels =
+Amazing Accurate Ruby +15%;
+Amazing Accurate Sapphire +15%;
+Amazing Health Opal +136;
+Amazing Health Opal +137;
+Amazing Health Opal +138;
+Amazing Health Opal +143;
+Amazing Health Opal +144;
+Dazzling Accurate Ruby +14%;
+Dazzling Accurate Sapphire +14%;
+Dazzling Health Opal +127;
+Dazzling Health Opal +130;
+Dazzling Mana Opal +54;
+Dazzling Mana Opal +56;
+Lord of Night Onyx;
+Lustrous PIP Opal +10%;
+
+| pins =
+Balance Crushing Pin (140, Storm);
+Balance Crushing Pin (150, Fire);
+Balance Crushing Pin (150, Storm);
+Balance Disabling Pin (150, Life);
+Balance Disabling Pin (150, Storm);
+Balance Punishing Pin (140, Storm);
+Balance Punishing Pin (150, Fire);
+Death Crushing Pin (150, Balance);
+Death Crushing Pin (150, Storm);
+Death Disabling Pin (140, Storm);
+Death Disabling Pin (150, Storm);
+Death Punishing Pin (150, Storm);
+Fire Crushing Pin (150, Storm);
+Fire Disabling Pin (140, Storm);
+Fire Disabling Pin (150, Ice);
+Ice Crushing Pin (140, Life);
+Ice Crushing Pin (140, Storm);
+Ice Crushing Pin (150, Storm);
+Ice Disabling Pin (150, Myth);
+Life Crushing Pin (140, Storm);
+Life Disabling Pin (150, Storm);
+Life Punishing Pin (140, Fire);
+Life Punishing Pin (140, Storm);
+Life Punishing Pin (150, Fire);
+Myth Crushing Pin (140, Death);
+Myth Crushing Pin (140, Storm);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

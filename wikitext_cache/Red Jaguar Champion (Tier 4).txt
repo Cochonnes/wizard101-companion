@@ -1,0 +1,94 @@
+{{Test|feb26}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 16,000
+| crecla = Jaguar
+| school = Fire
+| cheats = yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Fire;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Hidden Temple Gauntlet
+| subloc1 = 
+| descrip =
+
+| speech =
+
+| cheatnotes = 
+
+| spellnotes =
+
+| casts =
+Amplify;
+Furnace;
+Fireblade;
+Fire Trap;
+Raging Bull (Tier 2b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,168 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 9,100
+| crecla = Dog
+| school = Life
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+11%;
+
+| outboost =
+80%;
+
+| incboost =
+30% Death;
+
+| incresist =
+39% Fire, Ice, Storm, Myth, Balance, Shadow;
+69% Life;
+
+| outhealing =
+30%;
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| randomminions =
+Flames of Doom (Tier 3);
+History of Horrors (Tier 3);
+Malefic Mythology (Tier 3);
+Savage Stories (Tier 3);
+Terrors of the Deep (Tier 3);
+The Woeful Wastes (Tier 3);
+
+| totalminions = 1
+
+| world = Housing Instance
+| location = Forbidden Library Gauntlet
+| subloc1 = Forbidden Library Gauntlet (Tier 3)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Manipulation}} ''"Time for some research!"'' - At the beginning of the first Round and every three Rounds after, Imogen Nightgrove will cheat-cast {{Link|ItemCard|Arcane Deduction}} on a random Wizard, then cheat-cast a -20% {{Link|Spell|Brace}} Aura of the Wizard's School for 4 Rounds on herself.
+
+| spellnotes =
+
+| casts =
+Devotion;
+Spirit Shield;
+Satyr;
+Rebirth;
+Lifeblade (+40%);
+Life Feint;
+Spirit Trap;
+Luminous Weaver (Tier 4b);
+Leafstorm;
+Spirited Minotaur (Life);
+Eternal Leviathan (777);
+
+| quests =
+A Little Learning is a Dangerous Thing;
+
+| gold =
+37 - 95;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Astute Archival Dirk (Level 170+)*CR*F3;
+Baleful Archival Dirk (Level 170+)*CR;
+Epic Archival Dirk (Level 170+)*CR;
+Illuminated Archival Dirk (Level 170+)*CR;
+Vibrant Archival Dirk (Level 170+)*CR;
+
+| amulets =
+Astute Archival Ampul (Level 170+)*CR*F2;
+Baleful Archival Ampul (Level 170+)*CR;
+Chilling Archival Ampul (Level 170+)*CR;
+Fraught Archival Ampul (Level 170+)*CR*F2;
+Illuminated Archival Ampul (Level 170+)*CR;
+Vibrant Archival Ampul (Level 170+)*CR;
+
+| rings =
+Astute Archival Band (Level 170+)*CR;
+Baleful Archival Band (Level 170+)*CR;
+Chilling Archival Band (Level 170+)*CR;
+Fraught Archival Band (Level 170+)*CR*F2;
+Illuminated Archival Band (Level 170+)*CR;
+
+| wands =
+
+| decks =
+Astute Archival Array (Level 170+)*CR;
+Baleful Archival Array (Level 170+)*CR;
+Chilling Archival Array (Level 170+)*CR;
+Epic Archival Array (Level 170+)*CR;
+Fraught Archival Array (Level 170+)*CR;
+Illuminated Archival Array (Level 170+)*CR;
+Vibrant Archival Array (Level 170+)*CR;
+
+| items =
+Carved Bookshelf*F2;
+Grand Statue of Zeus;
+Lectern;
+Night Painting;
+Olympian Herb;
+Regent's Library Shelf*F4;
+Stack of 5 Books;
+Stack of Paper;
+
+| cards =
+
+| reagents =
+Myth Seed Farmer*F2;
+Potboiler Token;
+Shatter Token*F2;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Balance-Dealer Citrine;
+Balanceblade Talent Citrine*F3;
+Big Energy Opal;
+Blade Flurry Amethyst*F2;
+Bullheaded Peridot*F3;
+Energy Opal*F2;
+Fire-Dealer Ruby*F2;
+Get Sunbird Ruby*F2;
+Greensleeves Jade*F2;
+Huge Energy Opal;
+Ice-Dealer Sapphire*F2;
+Life-Bringer Jade*F2;
+Myth-Dealer Peridot*F3;
+Spartan Jade;
+Storm-Dealer Amethyst*F2;
+The Deer Knight Rises Onyx*F3;
+Ultra Energy Opal*F3;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,476 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 10,080
+| crecla = Gobbler
+| school = Balance
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+95;
+
+| criticalblock =
+77;
+
+| outpierce =
+3%;
+
+| outboost =
+40%;
+
+| incboost =
+5% Myth, Life, Death;
+
+| incresist =
+30% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Prickly Dire Bear
+
+| petbreed = GobblerBall
+| world = Mirage
+| location = Caterwaul Canyons
+| subloc1 = 
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Mirage
+| tome description =
+Two rules: don't mess with his pet, or his meal.
+
+| extract class =
+Gobbler;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| cheatnotes =
+{{Icon|Pet}} '''Interrupt Cycle''' (Resets every 7{{Icon|Round}})
+*''"Thanks, little buddy!"'' - At the beginning of the first Round in this cycle, Babbling Meints' Pet GobblerBall will give him a {{Link|Spell|Balanceblade (+30%)}}.
+*''"Best pet ever!"'' - At the beginning of the third Round in this cycle, his GobblerBall Pet will give him an {{Link|Spell|Elemental Blade}}.
+*''"Just what I need!"'' - At the beginning of the fifth Round in this cycle, his GobblerBall Pet will cast a {{Link|Spell|Donate Power (+3 Pips)}}.
+
+| spellnotes =
+'''Natural Attack:'''
+*Applies a Fire, Ice, or Storm DoT effect to the target, dealing 300 Damage over three Rounds.
+
+| casts =
+Weakness (-30%);
+Balanceblade;
+Elemental Blade;
+Donate Power (+3 Pips);
+Natural Attack (Balance 90-180-270);
+Spectral Blast (505-420-635);
+Gaze of Fate;
+Hydra (265);
+Power Nova (530);
+
+| quests =
+
+| gold =
+923 - 1,307;
+
+| hats =
+Alkali Kalpak of Fealty;
+Alkali Kalpak of Withering;
+Alkali Wintertide Kalpak;
+Eerem Headwrap of Harmony;
+Eerem Headwrap of Pulse*F3*WMV;
+Vizier's Desert Snow Mantle;
+Vizier's Mantle of Bustle;
+Vizier's Mantle of Dignity*F2*WMV;
+Vizier's Mantle of Smolders;
+Vizier's Windswept Mantle;
+
+| robes =
+Alkali Armor of Withering;
+Vizier's Raiment of Bustle*F2;
+Vizier's Raiment of Dignity*F2;
+Vizier's Raiment of Sagacity;
+Vizier's Raiment of Smolders;
+
+| boots =
+Alkali Walkers of Fealty;
+Alkali Walkers of Fiction*F2*WMV;
+Alkali Walkers of Vibrancy*F2*WMV;
+Alkali Walkers of Withering;
+Alkali Wintertide Walkers;
+Eerem Givehs of Clangor*F2*WMV;
+Eerem Givehs of Harmony;
+Eerem Givehs of Menace; 
+Sand Sea Shoes of Mischief;
+Sand Sea Striders of Havoc;
+Sand Sea Striders of Shivers;
+Vizier's Shoes of Bustle;
+Vizier's Shoes of Dignity;
+
+| athames =
+Charred Eerem Razor;
+Eerem Razor of Discovery;
+Eerem Razor of Menace*F2;
+Istanboa Khanjar of Icefall;
+Istanboa Khanjar of Ruin;
+Kobra Janbiya of Demise;
+Kobra Janbiya of Flashfloods;
+Kobra Janbiya of Fury;
+
+| amulets =
+Eerem Talisman of Char;
+Istanboa Pendant of Ruin;
+Sand Sea Amulet of Accord;
+Sand Sea Amulet of Blight;
+Sand Sea Amulet of Bolts;
+Sand Sea Amulet of Curiosity;
+Sand Sea Charm of Ashes;
+Sand Sea Charm of Decorum;
+Sand Sea Charm of Emptiness*F2;
+Sand Sea Charm of Havoc;
+Sand Sea Charm of Shivers*F2*WMV;
+
+| rings =
+Charred Eerem Band;
+Eerem Band of Harmony;
+Eerem Band of Menace; 
+Kobra Ringlet of Acumen;
+Kobra Ringlet of Amity*F2;
+Kobra Ringlet of Fury;
+Kobra Ringlet of Mettle;
+Kobra Ringlet of Rigor;
+Sand Sea Ring of Ashes*F2;
+Sand Sea Ring of Mischief;
+
+| wands =
+Algid Durvish Armaments;
+Durvish Armaments of Impulse;
+Durvish Armaments of Ire;
+Kobra Sceptor of Amity*F2*WMV;
+Kobra Sceptor of Flooding;
+Kobra Sceptor of Rigor;
+Myriarch Tabarzin of Fevers;
+Sceptor of Kobra Acumen;
+Sceptor of Kobra Mettle*F3*WMV;
+Scorpion Bow of Fervor;
+Scorpion Bow of Frenzy;
+Scorpion Bow of Numbing;
+
+| decks =
+Eerem Spread of Char;
+Eerem Spread of Clangor;
+Eerem Spread of Harmony;
+Eerem Spread of Menace;
+Gallant Istanboa Array;
+Istanboa Array of Icefall;
+Kobra Hand of Amity;
+Kobra Hand of Demise;
+Kobra Hand of Flashfloods;
+Sand Sea Deck of Ardor;
+Sand Sea Deck of Blight*F2*WMV;
+Sand Sea Deck of Blusters*F2*WMV;
+Sand Sea Deck of Curiosity;
+Sand Sea Deck of Explosion;
+
+| items =
+Mirage Canyon Combat Theme*F2*WMV;
+Mirage Canyon Theme 1*F2;
+Mirage Canyon Theme 2;
+Mirage Caravan Theme*F3*WMV;
+Mirage Chronoverge Theme*F2;
+Mirage City Combat Theme*F3*WMV;
+Mirage City Tense Theme*F6*WMV;
+Mirage City Theme*F3*WMV;
+Mirage Den of Thieves Theme;
+Mirage Desert Canyons Theme;
+Mirage Desert Combat Theme;
+Mirage Jungle Combat Theme*F2;
+Mirage Jungle Theme;
+Mirage Magic Carpet Theme;
+Mirage Palace Theme*F2*WMV;
+Mirage Serpent Theme*F3*WMV;
+Mirage Spider Speaks Theme*F2*WMV;
+
+| cards =
+Age of Reckoning;
+Arcticzilla*F2;
+Ashen Bones;
+Astraphobia*F3*WMV;
+Balefrost*F5*WMV;
+Blue Phoenix;
+Coldiron;
+Combustion*F4*WMV;
+Counterforce*F6*WMV;
+Crystal Spider*F4*WMV;
+Death Troll*F3*WMV;
+Deathspear*F2;
+Dragonspear*F2*WMV;
+Elemental Spear*F2*WMV;
+Fiery Colossus;
+Firespear;
+Frostfang*F5*WMV;
+Icebird*F3*WMV;
+Icespear*F2*WMV;
+Katabatic Wind;
+Lifespear*F2*WMV;
+Magma Colossus;
+Mutate Colossus (Storm)*F4*WMV;
+Mythspear*F2;
+Namaste*F5*WMV;
+Nested Fury;
+Obsidian Colossus (420)*F4*WMV;
+Raging Bull*F3*WMV;
+Saga of Heroes*F4*WMV;
+Sandstone Colossus;
+Shift;
+Shock Colossus*F2*WMV;
+Snowball Barrage;
+Spirit Spear*F2;
+Steel Colossus;
+Stone Colossus*F4*WMV;
+Stormspear*F2;
+Witch's House Call;
+Yellow Troll*F6*WMV;
+
+| reagents =
+Aether*F15*WMV;
+Agave Leaves*F9*WMV;
+Agave Nectar*F2;
+Amber*F5*WMV;
+Amber Dust*F15*WMV;
+Aquamarine*F23*WMV;
+Astral Shard*F10*WMV;
+Braided Vine*F2*WMV;
+Draconium*F2*WMV;
+Fire Blossom*F5*WMV;
+Fish Fin*F20*WMV;
+Glass Sliver*F7*WMV;
+Golden Pearl*F28*WMV;
+Merle's Whisker*F2*WMV;
+Mithril*F30*WMV;
+Orichalcum*F5*WMV;
+Red Mandrake;
+Sandstone*F2*WMV;
+Scales*F27*WMV;
+Silver*F27*WMV;
+Stardust*F5*WMV;
+Steel*F20*WMV;
+Sunstone*F27*WMV;
+Titanium*F10*WMV;
+Tungsten*F25*WMV;
+Turmeric*F2*WMV;
+Turquoise*F12*WMV;
+Vine*F11*WMV;
+
+| spellements =
+
+| snacks =
+Antheneum Delight*F4*WMV;
+Aztecan Hot Chocolate;
+Beast Wellington*F18*WMV;
+Beetle Cream Soda*F17*WMV;
+Bread Fruit Fruit;
+Chalupacabra*F15*WMV;
+Decimatoes*F4*WMV;
+Eye Candy*F23*WMV;
+Fern Jelly;
+Fire Passion Fruit*F2*WMV;
+Frosty Sugar Cubes*F4*WMV;
+Green Tomato*F2*WMV;
+Hard Boiled Beetle Eggs*F20*WMV;
+Hot Cross Buns*F22*WMV;
+Jolly Rancher;
+Mustachios*F14*WMV;
+Rhubarbed Wire*F2*WMV;
+Satyr Chow*F25*WMV;
+Ships 'n' Queso*F14*WMV;
+Veggie Juice*F25*WMV;
+Wheat Cracker*F3*WMV;
+
+| jewels =
+Chastisement Opal*F2*WMV;
+Lustrous Accurate Amethyst +11%*F3*WMV;
+Lustrous Accurate Jade +11%*F2*WMV;
+Lustrous Accurate Onyx +11%*F2*WMV;
+Lustrous Accurate Ruby +11%;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Amethyst +13*F2*WMV;
+Lustrous Blocking Citrine +13*F2*WMV;
+Lustrous Blocking Jade +13*F2*WMV;
+Lustrous Blocking Onyx +13;
+Lustrous Blocking Peridot +13;
+Lustrous Blocking Ruby +13*F2*WMV;
+Lustrous Blocking Sapphire +13;
+Lustrous Critical Amethyst +13*F2*WMV;
+Lustrous Critical Citrine +13*F2*WMV;
+Lustrous Critical Jade +13;
+Lustrous Critical Onyx +13*F2*WMV;
+Lustrous Critical Ruby +13;
+Lustrous Critical Sapphire +13;
+Lustrous Damage Amethyst +23;
+Lustrous Damage Citrine +23;
+Lustrous Damage Jade +23*F2*WMV;
+Lustrous Damage Onyx +23;
+Lustrous Damage Peridot +23;
+Lustrous Damage Ruby +23*F2*WMV;
+Lustrous Damage Sapphire +23;
+Lustrous Defense Amethyst +45*F2*WMV;
+Lustrous Defense Citrine +45;
+Lustrous Defense Jade +45;
+Lustrous Defense Onyx +45;
+Lustrous Defense Peridot +45*F2*WMV;
+Lustrous Defense Sapphire +45*F3*WMV;
+Lustrous Health Opal +96*F3*WMV;
+Lustrous Health Opal +97*F2*WMV;
+Lustrous Mana Opal +42;
+Lustrous PIP Opal +10%*F2*WMV;
+Polished Accurate Citrine +10%;
+Polished Accurate Onyx +10%;
+Polished Accurate Sapphire +10%;
+Polished Blocking Amethyst +11;
+Polished Damage Amethyst +21;
+Polished Damage Jade +21*F2;
+Polished Damage Onyx +21;
+Polished Damage Sapphire +21;
+Polished Defense Amethyst +41;
+Polished Defense Amethyst +42;
+Polished Defense Citrine +42*F2;
+Polished Defense Jade +41*F3*WMV;
+Polished Defense Jade +42;
+Polished Defense Peridot +41*F2;
+Polished Defense Peridot +42;
+Polished Defense Ruby +41*F2;
+Polished Defense Sapphire +41;
+Polished Defense Sapphire +42;
+Polished Health Opal +86;
+Polished Health Opal +87*F2;
+Polished Health Opal +89*F2;
+Polished Health Opal +92;
+Polished Health Opal +93;
+Polished Health Opal +95;
+Polished Mana Opal +37*F3;
+Polished Mana Opal +38;
+Polished Mana Opal +39*F3*WMV;
+Polished Mana Opal +40;
+Radical Opal;
+Reliquary Opal;
+Shiny Blocking Citrine +16;
+Shiny Blocking Hematite +16;
+Shiny Blocking Peridot +16*F2;
+Shiny Blocking Ruby +16;
+Shiny Blocking Sapphire +16*F2*WMV;
+Shiny Critical Amethyst +16;
+Shiny Critical Ruby +16;
+Shiny Damage Amethyst +26;
+Shiny Damage Hematite +52;
+Shiny Damage Peridot +26;
+Shiny Damage Ruby +26;
+Shiny Damage Sapphire +26;
+Shiny Defense Amethyst +51;
+Shiny Defense Citrine +52;
+Shiny Defense Hematite +52*F2*WMV;
+Shiny Defense Onyx +52;
+Shiny Defense Peridot +51;
+Shiny Defense Peridot +52;
+Shiny Defense Ruby +52;
+Shiny Defense Sapphire +51;
+Shiny Health Opal +111*F2*WMV;
+Shiny Health Opal +112;
+Shiny Health Opal +113;
+Shiny Health Opal +114*F4*WMV;
+Shiny Mana Opal +45*F3*WMV;
+Shiny Mana Opal +46*F3*WMV;
+Shiny Mana Opal +47*F6*WMV;
+
+| pins =
+
+| pets =
+GobblerBall*F4*WMV;
+MaCaw*CR*F12*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak*F2*WMV;
+Angora Bunny Ears*F4*WMV;
+Bell Pepper*F3*WMV;
+Blue Huckleberries*F2*WMV;
+Boiled Peanuts*F5*WMV;
+Boom Shroom*F2*WMV;
+Boon Tree*CR;
+Bread Fruit Bush*F4*WMV;
+Clockwork Flower;
+Cornbread Fruit Bush*F7*WMV;
+Couch Potatoes*CR*F5*WMV;
+Dandelion;
+Deadly Fly Trap;
+Deadly Ninja Fig*F4*WMV;
+Desparagus (Seed)*F2*WMV;
+Evil Magma Peas*CR;
+Evil Snow Peas*F2;
+Face Palm*F2*WMV;
+Fickle Pickle*F2*WMV;
+Fiery Boom Shroom;
+Fish on a Vine*F3*WMV;
+Frozen Fly Trap*F2*WMV;
+Golden Couch Potatoes*F6*WMV;
+Goose Tree;
+Grapes of Wrath*CR*F2;
+Green Snow Apples*F2*WMV;
+Helephant Ears*F3*WMV;
+Honey Bee Plant;
+Honey Sickle*F4*WMV;
+Ivy League*CR*F4*WMV;
+King Parsley*CR*F2*WMV;
+Laugh-O-Dil;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily*F5*WMV;
+Melting Cheese Tree;
+Moon Flower;
+Ninja Fig*CR*F2*WMV;
+Orange Bell Pepper*CR*F2*WMV;
+Orange Dandelion*F2*WMV;
+Pink Huckleberries*F6*WMV;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus*F3*WMV;
+Purple Bell Pepper;
+Purple Grapes of Wrath*F3*WMV;
+Queen Crape Myrtle*F2*WMV;
+Red Bell Pepper;
+Red Couch Potatoes*F4*WMV;
+Red Grapes of Wrath;
+Red Huckleberries*F5*WMV;
+Rye Bread Fruit Bush*F3*WMV;
+Saw Palmetto*F3*WMV;
+Silver Trumpet Vine*CR;
+Snap Dragon;
+Snow Apples*F2;
+Sour Fickle Pickle*F3*WMV;
+Sugar Khrystal*CR;
+Sunion*CR;
+Sword Fern*CR*F2;
+Tiger Lily (Seed);
+Trumpet Vine*F3*WMV;
+Venus Fly Trap;
+White Desparagus;
+White Laugh-O-Dil;
+White Tiger Lily;
+Yellow Bell Pepper*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,91 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 8
+| heal = 1,115
+| crecla = Rat
+| school = Death
+| startpips = 1
+| powerpips = Yes
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Life;
+
+| incresist =
+40% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minion = 
+| world = Marleybone
+| location = Regent's Square
+| subloc1 = Warehouse (Spiral Geographic)
+| descrip =
+The Rat Illusionist is a Minion to {{Link|Creature|Estrakir Gloomthorn}}. All drops, cheats, and speech should be recorded on that page.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 90 Life Damage per Pip.
+
+| casts =
+Tower Shield;
+Weakness;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Vampire;
+Skeletal Pirate;
+Scarecrow;
+Fire Elf (50+210);
+Lightning Bats;
+Ice Wyvern;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

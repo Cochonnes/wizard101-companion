@@ -1,0 +1,218 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 21,950
+| crecla = Pterodactyl
+| crecla2 = Dino
+| school = Storm
+| masteries =
+Balance;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+31%;
+
+| outboost =
+160%;
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Tzeltan Cohort (Tier 4);
+Tzeltan Cohort (Tier 4);
+Tzeltan Cohort (Tier 4);
+
+| world = Azteca
+| location = Three Points
+| subloc1 = Ixcax CursedWing's Chamber
+| badge = Ixnay on the Ixcax
+| descrip =
+Ixcax CursedWing (Tier 4) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Shaman's Spellemental Pack}}.
+*This Tier is for Level 110-{{MaxLevel}} Wizards.
+
+| speech =
+:''"Look at you, practically skipping along, happily venturing into some ancient Aztecan ritual chamber. Must be sooo much fun! Do you know what it's like to be cursed to maintain an endless vigil? Of course not! You have no idea! But I'll tell you, it stinks! When the Firstworld was destroyed, I bargained for our salvation, and I was given this! An eternity guarding an empty room! I am bound to attack any who venture in here. There was a time I resented it, but now I relish the chance to share my misery!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+You eat one bucket of Spicy Cursed Wings and suddenly it's your whole thing.
+
+| extract class =
+Dinos;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Aura}} ''"Vengeance will be mine!"'' - If an ally or enemy is defeated, she will cheat-cast {{Link|Spell|Berserk}}, and the remaining Minions will cast {{Link|Spell|Fortify}}.
+*{{Icon|Feint}} ''"Two can play at that game!"'' - If a Wizard places a {{Link|Spell|Feint}} on Ixcax, she will cheat-cast a Feint on the Wizard.
+**{{Link|Spell|Mass Feint}} does not trigger this cheat.
+*{{Icon|Manipulation}} ''"Time to mix things up"'' - At the end of every fifth Round, Ixcax cheat-casts a version of {{Link|Spell|Cleanse Ward (-All)}} that removes all negative Wards from her team, and casts a unique Storm School Mass Prism on all enemies that converts any incoming Damage to another School of magic (i.e.; Fire, Ice, Storm, Myth, Life, or Death).
+
+| spellnotes =
+
+| casts =
+Stormblade (+30%);
+Storm Trap;
+Windstorm;
+Enfeeble;
+Darkwind;
+Stormbird;
+Glowbug Squall;
+Thunderbird;
+Stormzilla (Tier 4a);
+Rusalka's Wrath;
+Sirens;
+Tempest;
+Savage Paw (Tier 5a);
+
+| quests =
+
+| gold =
+
+| hats =
+Black Star Eagle's Helm (Level 90+);
+Lost World Cloud Helm*F2;
+Lost World Cursed Visor;
+Lost World Ember Hood;
+Lost World Mystic Mask*F2;
+Lost World Soul Helm*F2;
+Lost World Survivor Mask;
+
+| robes =
+Lost World Cloud Mail;
+Lost World Cursed Vestment;
+Lost World Ember Jerkin;
+Lost World Fated Armor;
+Lost World Mystic;
+Lost World Soul Gear;
+Lost World Survivor Mail;
+Turquoise Eagle's Raiment (Level 80+)*CR;
+Turquoise Eagle's Raiment (Level 90+)*CR;
+
+| boots =
+Lost World Cloud Runners;
+Lost World Ember Footwraps;
+Lost World Fated Footwraps;
+Lost World Hail Boots;
+Lost World Mystic Trekkers;
+Lost World Survivor Footclaws*F2;
+Sun Eagle Striders (Level 80+)*CR;
+Sun Eagle Striders (Level 90+)*CR*F2;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Emerald Caiman's Scepter (Level 120+)*CR;
+Emerald Caiman's Scepter (Level 130+)*CR;
+Hungry Caiman's Staff (Level 130+)*CR;
+Lost World Fated Atlatl;
+Lost World Soul Spear;
+Staff of the Storm Caiman (Level 120+)*CR;
+Staff of the Storm Caiman (Level 130+)*CR;
+
+| decks =
+
+| items =
+Adept's Socket Wrench*F2;
+Azteca Fire Pit;
+Aztecan Coffee Table;
+Aztecan Couch*F3;
+Aztecan Dining Chair*F3;
+Aztecan Settee;
+Aztecan Sink;
+Aztecan Towel Rack*F2;
+Bundle of Wood;
+Butterfly Shrine;
+Gold Skeleton Key*CR*F4;
+King Acampi Bobblehead;
+Lava Bulb*F2;
+Pink Lily;
+Purple Lily*F2;
+Queen Chasca Bobblehead;
+Stone Azteca Head;
+Stone Skeleton Key*CR*F2;
+Tezcat Threestar Bobblehead;
+Wooden Skeleton Key*CR*F7;
+Zaylin Reedwalker Bobblehead;
+
+| cards =
+Azoth*F33;
+Lord of Night*F9;
+Savage Paw*F6;
+Winter Moon*F7;
+
+| reagents =
+
+| spellements =
+Lord of Night*F34;
+Savage Paw*F34;
+Winter Moon*F34;
+
+| snacks =
+
+| jewels =
+Dazzling Blocking Citrine +20;
+Dazzling Blocking Sapphire +19;
+Dazzling Critical Citrine +20;
+
+| pins = 
+
+| pets =
+Babydactyl;
+Death Scarab;
+Firestorm Quetzal;
+Leaf Foot;
+Life Scarab;
+Pesky Beetle;
+Royal Ibis*CR;
+Scarab;
+Stegosaurus;
+Therizinosaurus*F2;
+Velociraptor;
+
+| seeds =
+
+| mounts =
+Ankylosaurus*PERM*CR;
+Arcus Cloud*PERM*CR;
+Crokagator*PERM*CR;
+Feathered Raptor*PERM*CR;
+Gold-Wrought Eagle*PERM*CR;
+Jeweled Scarab*PERM*CR;
+Tyrannosaurus Rex*PERM*CR;
+
+| spells =
+
+}}

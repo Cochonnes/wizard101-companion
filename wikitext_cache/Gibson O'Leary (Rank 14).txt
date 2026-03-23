@@ -1,0 +1,103 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 12,040
+| crecla = Rat
+| school = Fire
+| cheats = Yes
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+20%;
+
+| outboost =
+45%;
+
+| incboost =
+30% Ice, Storm;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Meowiarty Exalted Challenge
+| subloc1 = 
+| descrip =
+Possible Minion to {{Link|Creature|Meowiarty (Rank 14)}}. All drops should be recorded on that page.
+
+| speech =
+
+| cheatnotes =
+*''"Uh oh, you dropped your little Blade!"'' - If a Wizard casts a [[:Category:Blade Spells|Blade]], Gibson O'Leary will cheat-cast Steal Charm on the receiver of the Blade, then he will proceed to destroy it.
+*''"I think that Blade would look better on me!"'' - If a universal [[:Category:Blade Spells|Blade]], {{Link|Spell|Elemental Blade}}, or {{Link|Spell|Fireblade}} is cast, he will cheat-cast Steal Charm on the receiver of the Blade.
+*''"You can't mess with us!"'' - If any type of universal [[:Category:Trap Spells|Trap]] is placed on Gibson, he will cheat-cast Backdraft on the Wizard who cast the Trap.
+*''"Allow me to lower the boom!"'' - When a single DoT is placed on a Wizard, he will cheat-cast Detonate on the Wizard.
+
+| spellnotes =
+
+| casts =
+Furnace;
+Fireblade;
+Backdraft;
+Steal Charm;
+Detonate;
+Fire from Above;
+Lava Lord;
+Fire Dragon;
+Rain of Fire;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,169 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,200
+| crecla = Bear
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Red Claw Charger;
+
+| world = Grizzleheim
+| location = Frostholm
+| descrip =
+Gunnar Quickaxe is the leader of the Red Claw in Frostholm.  He is with whom Wizards deal in attempting to gain in audience with Ivar Andersson, giving them tasks to prove their loyalty to the Red Claw.  However, working with the saboteur {{Link|NPC|Ulric Oathbreaker}}, Wizards are able to turn all of their seeming gestures of loyalty into acts of sabotage against Gunnar and his treacherous band.  Eventually, these acts can no longer go unnoticed, and Gunnar rallies his warriors to attack.
+
+Two additional Red Claw Chargers will appear if more than two Wizards are present.  These additional Red Claw Chargers will already be wandering the area prior to talking to {{Link|NPC|Gunnar Quickaxe}} and can be defeated before having to duel him.
+
+| speech =
+:''"You there! I've heard some troubling news... weapons destroyed... boars angry... and now escaped prisoners! You're not with us! Brothers of the Red Claw... attack!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 90 Ice Damage per Pip
+
+| casts =
+Snow Shield;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Ash Bats;
+Fire Shark;
+Fire Wyvern (335-395, 4 Pip);
+Heck Hound;
+Leprechaun;
+Banshee;
+
+| quests =
+The Eye Has It;
+
+| gold =
+50 - 92;
+
+| hats =
+Cowl of Winterbloom*F4*WMV;
+Crown of Achievement;
+Firekeeper's Mantle*F2*WMV;
+Hat of Consequence*F2*WMV;
+Mantle of Mortality*F13*WMV;
+Winterborn Shroud*F9*WMV;
+
+| robes =
+Alluvial Coat*F11*WMV;
+Coat of Forethought;
+Drape of the White Squall;
+Glacial Longcoat;
+Jerkin of Brio;
+Raiment of the Lifespring*F3*WMV;
+Robe of Elegies;
+Vestment of Serenity;
+Vestment of Versatility*F10*WMV;
+Winterwear Wrap;
+
+| boots =
+Indefatigable Striders*F2*WMV;
+Slippers of Sagacity*F14*WMV;
+
+| athames =
+Mistlore Blade*F13*WMV;
+
+| amulets =
+
+| rings =
+Band of the Answer;
+Rejuvenating Circlet;
+Signet of the North Wind;
+Stone of Confidence*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Large Evergreen Tree;
+
+| cards =
+Cyclops;
+Kraken;
+Sandstorm;
+Satyr;
+Sniper;
+Spirit Armor;
+Storm Trap;
+Time of Legend;
+
+| reagents =
+Bone;
+Brass*F3*WMV;
+Bronze Gear*F5*WMV;
+Iron*F6*WMV;
+Lead*F2*WMV;
+Nickel*F2*WMV;
+Pyrite*F5*WMV;
+Tin*F3*WMV;
+
+| spellements =
+
+| snacks =
+Buttered Popcorn*F6*WMV;
+Candy Bar*F2*WMV;
+Chocolate Peanut;
+Glowing Rock Candy*F4*WMV;
+Lollipop;
+Meat Soup*F6*WMV;
+Nettle Root*F2*WMV;
+Tasty Biscuit*F4*WMV;
+Tiny Fish*F2*WMV;
+
+| jewels =
+Chipped Defense Amethyst +13;
+Chipped Health Opal +18;
+Chipped Health Opal +19;
+Chipped Mana Opal +11;
+Cracked Damage Amethyst +6;
+Cracked Damage Onyx +6;
+Cracked Damage Opal +3;
+Cracked Damage Sapphire +4;
+Cracked Defense Onyx +9;
+Dependable Opal;
+Fire-Shot Ruby;
+Ice-Boon Sapphire;
+Sharp Opal;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Couch Potatoes*CR;
+Dandelion*F4*WMV;
+Laugh-O-Dil;
+Stinkweed*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

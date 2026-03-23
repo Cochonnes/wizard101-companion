@@ -1,0 +1,187 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 4,860
+| crecla = Dog
+| school = Fire
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Lanyon Scratcher;
+Lanyon Scratcher;
+Lanyon Scratcher;
+
+| world = Marleybone
+| location = Barkingham Palace
+| subloc1 = State Wing Wooden Key Room
+| badge = Cutter's Bane
+| descrip =
+*Billy the Cutter is the "Secret Boss" found in State Wing, the first Dungeon in Barkingham Palace. A {{Link|House|Wooden Skeleton Key}} is required to access this Boss.
+
+| speech =
+:''"Oy, what's all this then? You don't 'ave the credentials to be 'ere! Mister Meowiarty told me to introduce Catrin Chesire to Doctor Jackall, but he didn't say nothin' about you. You work for Bones, doncha? I can smell 'im on you. I guess it's up to me t'finish you off."''
+
+| cheatnotes =
+*{{Icon|Shield}}{{Icon|Absorb}} ''"I can use that!"'' - If a Wizard casts a universal Shield or single-target Absorb Spell, then Billy will interrupt-cast {{Link|Spell|Steal Ward}} on the receiver.
+**If a multi-target universal Shield Spell is cast, such as {{Link|Spell|Legion Shield}}, then Billy will only steal the Ward from the caster.
+*{{Icon|Blade}} ''"That'll help!"'' - If a Wizard casts an Ice, Fire, or universal Blade, then Billy will interrupt-cast {{Link|Spell|Steal Charm}} on the receiver.
+**If a multi-target universal Blade is cast, such as {{Link|Spell|Bladestorm}}, then Billy will only steal the Blade from the caster.
+**Using {{Link|Spell|Aegis}} will prevent this cheat.
+**Pet Spells and Maycasts will trigger this cheat.
+*{{Icon|Round}} ''"This will cool you off!"'' - At the end of the fourth Round, and at the end of every eighth Round after, Billy will interrupt-cast Frost Giant.
+*{{Icon|Round}} ''"This will warm you up!"'' - At the end of the eighth Round, and at the end of every eighth Round after, Billy will interrupt-cast an enhanced version of {{Link|Spell|Fire Dragon}} that deals [[Spell:Fire Dragon (495+395)|495 Fire Damage plus 395 Fire Damage over three Rounds]].
+*{{Icon|Spell}} ''"You'll pay for that!"'' - After casting Fire Serpent, Fire Dragon, Heck Hound, using his cool off or warm up cheat, sometimes after using his {{Link|Spell|Natural Attack}} and Scald, and rarely after Meteor Strike, Billy will interrupt-cast a Fire Prism on a random Wizard, and then use his Natural Attack on that Wizard.
+**If this cheat triggers while Billy has no Pips, then his Natural Attack will act as though he has one Pip.
+**Billy will only use this cheat after his Natural Attack if the sound that accompanies his Natural Attack is more of a growl than a grunt.
+**Although his Natural Attack is not cast when used through this cheat, it can still be Dispelled.
+
+| spellnotes =
+
+| casts =
+Fireblade;
+Fire Prism;
+Fire Trap;
+Natural Attack (Fire 120-235-350);
+Meteor Strike;
+Fire Serpent (525);
+Scald;
+Fire Dragon;
+Heck Hound;
+
+| quests =
+
+| gold =
+534 - 772;
+
+| hats =
+Barkingham Derby of Repose;
+Royal Cap of Alliance;
+
+| robes =
+
+| boots =
+Barkingham Cinder Shoes;
+Barkingham Clogs of Repose;
+Barkingham Frost Striders;
+Royal Boots of Alliance;
+
+| athames =
+Barkingham Blade of Blight*F7*WMV;
+Barkingham Claw of Insight*F6*WMV;
+Barkingham Dirk of Thunder*F3*WMV;
+Barkingham Firepoker*F7*WMV;
+Barkingham Palace Icepick*F7*WMV;
+Barkingham Steel Splinter*F6*WMV;
+Royal Cutlass of Efficacy*F7*WMV;
+
+| amulets =
+Amulet of the Misty Palace*F8*WMV;
+Barkingham Hearthfire Relic*F3*WMV;
+Barkingham Vial of Numbing*F4*WMV;
+Crown's Charm of Adroitness*F4*WMV;
+Empire's Torc of Calamity*F5*WMV;
+Jackall's Vial of Duplicity*F3*WMV;
+Necklace of the Monarchy*F5*WMV;
+
+| rings =
+Band of Royal Infallibility;
+Barkingham Band of Virtue;
+Bones Family Signet;
+Catrin's Aria Stone*F2*WMV;
+Chief Whip's Hail Stone;
+Duchess' Blazing Seal*F2;
+Jackall's Ring of Duality*F2*WMV;
+Kaninchen Hunter's Band;
+Scratcher's Fingerband*F2*WMV;
+Signet of the Yeoman Guard*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Black Waves Floor*F5*WMV;
+Blue Waves Floor*F2*WMV;
+Cyan Waves Floor*F4*WMV;
+Wooden Skeleton Key*CR*F7*WMV;
+
+| cards =
+
+| reagents =
+Bone*F4*WMV;
+Copper*F2*WMV;
+Ectoplasm*F4*WMV;
+Iron*F3;
+Lead;
+Leather Straps*F3;
+Mote of Beauty*F3*WMV;
+Nickel;
+Pyrite;
+Spider Silk*F3;
+
+| spellements =
+
+| snacks =
+Baby Carrot*F5*WMV;
+Crab Apples*F5;
+Dr. Jalapeno*F2*WMV;
+Dragonhorned Melon*F5*WMV;
+Flaming Soup*F2*WMV;
+Flapjacks*F4*WMV;
+Goat Cheese;
+Golden Grapes;
+Gummy Humongofrog*F2;
+Jelly Baby*F2;
+King Banana;
+Kola Nuts*F7*WMV;
+Sun Fruit*F2*WMV;
+
+| jewels =
+Chipped PIP Opal +2%;
+Chipped Damage Amethyst +7;
+Chipped Damage Sapphire +7;
+Chipped Damage Onyx +7;
+Chipped Health Opal +22;
+Deer Knight Onyx;
+Flawed Defense Jade +17;
+Flawed Defense Onyx +17;
+Flawed Defense Opal +9;
+Flawed Defense Opal +10;
+Flawed Defense Ruby +17;
+Spectral Blast Citrine;
+
+| pins =
+
+| pets =
+Dapper Corgi*CR*F3*WMV;
+
+| seeds =
+Deadly Fly Trap*F2*WMV;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR;
+Venus Fly Trap*F2;
+
+| mounts =
+
+| spells =
+
+}}

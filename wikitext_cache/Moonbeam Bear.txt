@@ -1,0 +1,172 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 15,960
+| crecla = Were-Bear
+| school = Myth
+| school2 = Moon
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+632 Any;
+
+| criticalblock =
+533 Any;
+
+| outpierce =
+37%;
+
+| outboost =
+136%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+39% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+69% Myth;
+
+| outhealing =
+4%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Happy Bear;
+Lucky Bear;
+Sunburn Bear;
+
+| world = Darkmoor
+| location = Howling Lands
+| subloc1 = Kingdom of Were-a-Lot
+| descrip =
+
+| speech =
+:''"Behold, mortal, the Kingdom of Were-a-Lot."''
+:''"We are the Werebears Who Care! Sound off, friends!"''
+:''"Do not despair, for we are the Were-Bears Who Care! We will bring peace between our kinds... by making everyone our kind."''
+:''"No more arguments, no more politics, just Were-Bears and only Were-Bears, and we will create a world where there is no more need to care."''
+
+| cheatnotes =
+'''Moonbeam Bear'''
+*{{Icon|Trap}} ''"Were-bears who care scare-stare!"'' - Were Bear will interrupt cast their natural attack, damaging a Wizard, then applying a +50% version of {{Link|Spell|Mass Hex}}.
+
+'''{{Link|Creature|Sunburn Bear}}'''
+*{{Icon|Global}} ''"Moonbeam, brighten up!"'' - Sunburn Bear will do a sun casting of {{Link|Spell|Time of Legend}} on their turn.
+**''"We fight for change!"'' - Sunburn Bear will do a sun spell on their turn after casting the global spell, causing Moonbeam Bear to do their natural attack.
+*{{Icon|Global}} ''"Happy, I am your sunshine!"'' - Sunburn Bear will do a sun casting of {{Link|Spell|Balance of Power}} on their turn.
+**''"You'll be happier when it's over!"'' - Sunburn Bear will do a sun spell their turn after casting the global spell, causing Happy Bear to do their natural attack.
+*{{Icon|Global}} ''"Lucky you, it's your lucky day!"'' - Sunburn Bear will do a sun casting of {{Link|Spell|Circle of Thorns}} on their turn.
+**''"How lucky are you, that you found us?"'' - Sunburn Bear will do a sun spell their turn after casting the global spell, causing Lucky Bear to do their natural attack.
+***This line will activate the following round, which causes all three natural attacks to occur at the same time. Then, this cycle repeats, though not repeating the first voice line despite still sun casting Time of Legend.
+*Wizards can replace these globals freely. Though, they will not stop the natural attack cheat casting.
+
+'''{{Link|Creature|Happy Bear}}'''
+*{{Icon|Weakness}} ''"Were-bears who care scare-stare!"'' - Happy Bear will interrupt cast their natural attack, damaging a Wizard, then applying a -50% version of {{Link|Spell|Mass Weakness}}.
+*''"Those who care, share!"'' - Happy Bear will respond after a Wizard casts particular hanging effects.
+**{{Icon|Ward}}{{Icon|Trap}} Casting a Ward or Trap will cause Happy Bear to cheat cast {{Link|Spell|Legion Shield}}.
+***Prisms and Stun Blocks ''will'' trigger this cheat.
+**{{Icon|Charm}} Casting a Charm spell will cause Happy Bear to cheat cast a +35% version of {{Link|Spell|Bladestorm}}.
+**{{Icon|Heal}} Casting a Heal spell will cause Happy Bear to cheat cast {{Link|Spell|Pigsie (Tier 2b)}}.
+
+'''{{Link|Creature|Lucky Bear}}'''
+*{{Icon|Blade}} ''"Were-bears who care scare-stare!"'' - Lucky Bear will interrupt cast their natural attack, damaging a Wizard, then applying a +50% version of {{Link|Spell|Bladestorm}}.
+*{{Icon|Round}} At the start of the round, Lucky Bear will say one of these voice lines, ''More testing is needed to figure out if these are random, follows a pattern, or is influenced by the wizard.''
+**''"Ooh, unlucky you!"'' - Lucky Bear will cast one of these damage spells directed at a Wizard,
+***A life casted {{Link|Spell|Insane Bolt}} that does life damage.
+***A life casted {{Link|Spell|Hammer of Thor}} that does storm damage.
+***{{Link|Spell|Leprechaun}}
+***{{Link|Spell|Luminous Weaver (Tier 2b)}}
+***{{Link|Spell|Burrowing Bane}}
+***{{Link|Spell|Seraph}}
+***{{Link|Spell|Forest Lord}}
+***{{Link|Spell|King Artorius (Life)}}
+***{{Link|Spell|Gnomes!}}
+**''"Lucky us!"'' - Lucky Bear will cast one of these supporting spells directed at a Were-Bear,
+***A life casted {{Link|Spell|Tower Shield}}
+***A life casted {{Link|Spell|Balanceblade}}
+***{{Link|Spell|Satyr}}
+**''"Jackpot!!"'' - ?????
+
+| spellnotes =
+Moonbeam Bear has some myth casted shift spells. One appears to be a shift Roberto, a hit and myth bomb spell. Another being a shift Diego, an all damage myth spell. And then a shift doll (of sorts) into a tower shield on self.
+
+| casts =
+Reliquary;
+Mythblade;
+Myth Trap;
+
+| quests = 
+Wereing is Caring;
+
+| gold =
+12 - 50;
+
+| hats =
+
+| robes =
+Ancient Dhampir Regalia;
+Ancient Hemavore Regalia;
+Ancient Immortal Regalia;
+Ancient Living Dead Regalia;
+Ancient Nightstalker Regalia;
+Ancient Nosferatu Regalia;
+Ancient Vampire Regalia;
+Fledgling Dhampir Regalia;
+Fledgling Hemavore Regalia;
+Fledgling Immortal Regalia;
+Fledgling Living Dead Regalia;
+Fledgling Nightstalker Regalia;
+Fledgling Nosferatu Regalia;
+Fledgling Vampire Regalia;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+Ammut;
+Anubis;
+Gravestorm;
+Heqet;
+Lord of the Jungle;
+Mortality;
+The Emperor;
+The Hierophant;
+Wobbegong Frenzy;
+
+| snacks =
+
+| jewels =
+Fire Trap Ruby;
+Incapacitate Amethyst;
+
+| pins =
+Death Crushing Pin (170, Ice);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

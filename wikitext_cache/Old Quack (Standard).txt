@@ -1,0 +1,123 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 19,605
+| crecla = Duck
+| school = Ice
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Ice;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+21%;
+
+| outboost =
+114%;
+
+| incboost =
+30% Fire;
+
+| incresist =
+46% Storm, Myth, Life, Death, Balance, Shadow;
+76% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Soul Eater (Rank 21);
+
+| world = Krokotopia
+| location = Selenopolis
+| subloc1 = Celestial Pyramid (Standard)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the Challenge version of this battle, see {{Link|Creature|Old Quack (Challenge)}}.
+*Two additional Soul Eaters will appear if more than two Wizards are present.
+
+| speech =
+:'''{{Link|NPC|Mellori}}''': ''"Are you okay there, Duck Guy? You're not secretly a Mander too?"''
+:'''{{Link|NPC|Old Quack}}''': ''"I'm worse. Like these wretched beasts, I am torn and shifted and morphed to fit the needs of the one who created the Moon School of Magic."''
+:'''Mellori''': ''"Khonsu? But Celestians created the Astral Schools."''
+:'''Old Quack''': ''"Well, I don't want to say he's Celestian... but he's Celestian. And... he won't let the Earthborn further contaminate his Spiral!"''
+
+| cheatnotes =
+*{{Icon|Blade}} ''"That's not the real you!"'' - If a Wizard casts a universal Helpful Charm, or a multi-blade Spell, such as {{Link|Spell|Elemental Blade}}, Old Quack will cast an Ice version of {{Link|Spell|Enfeeble}} on the receiver of the Blade.
+**If a multi-target Blade Spell is cast, such as {{Link|Spell|Bladestorm}}, Old Quack will cast an all enemies version of Enfeeble.
+**A Wizard casting a Blade-Type Spell that is not of their original School will also trigger this cheat.
+**Spells with secondary effects, such as {{Link|Spell|Savage Paw}}, will not trigger this cheat.
+**{{Link|Spell|Aegis}} '''will not''' prevent the removal of Blades.
+
+| spellnotes =
+
+| casts =
+Sleet Storm;
+Tower Shield;
+Ice Trap;
+Dark Surge;
+Icebird (270);
+Ice Bats (245-285);
+Frostfeather;
+Thieving Dragon;
+Volcanic Golem;
+Blizzard;
+Winter Moon (Tier 2b);
+Abominable Weaver;
+Freeze Ray;
+Snow Angel;
+
+| quests =
+Loonish Tunes;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Old Quack
+}}

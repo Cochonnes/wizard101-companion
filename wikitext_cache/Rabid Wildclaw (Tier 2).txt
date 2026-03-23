@@ -1,0 +1,94 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 2,720
+| crecla = Wolverine
+| school = Storm
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Myth;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 2)
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Stormblade (+30%);
+Storm Trap;
+Windstorm;
+Storm Serpent (230);
+Storman (265);
+Catalan;
+Storm Cat;
+Cloud Demon;
+Tempest;
+Natural Attack (Storm 150-2,425);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

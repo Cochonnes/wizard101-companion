@@ -1,0 +1,429 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 7,390
+| crecla = Elephant
+| crecla2 = Undead
+| school = Sun
+| masteries =
+Storm;
+Life;
+
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+22;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gorilla Spectral Guardian;
+Lion Spectral Guardian;
+Zebra Spectral Guardian;
+
+| world = Zafaria
+| location = Shining Mountain
+| subloc1 = 
+| lootchest = Spectral Guardian's Chest
+| descrip =
+The Elephant Spectral Guardian is the leader of the four Spectral Guardian spirits summoned by {{Link|NPC|Morganthe}} on Shining Mountain.
+
+| speech =
+:'''Morganthe:''' ''"Spectral Guardians of Shining Mountain - I am your master now. Destroy that Wizard!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Zafaria
+| tome description =
+Leader of the Guardian spirits, corrupted by Morganthe, this elephant spirit guards the Shining Mountain.
+
+| extract class =
+Elephant;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Shield}} At the beginning of the battle, the Elephant Spectral Guardian will cast a '''{{Link|Spell|Tower Shield (-90%)}}''' on himself. He replaces this Tower Shield every time he is attacked, until all of the other Spectral Guardians are defeated.
+**{{Link|Spell|Pierce}}, {{Link|Spell|Steal Ward}} and {{Link|Spell|Shatter}} can be used to safely remove the Tower Shield. (He will still replace it when attacked.)
+'''Marked Wizard Interrupt Cycle:''' (Resets every 5 {{Icon|Round}})
+*''"Only charms can save you now!"'' - At the beginning of the third round in the cycle, the Elephant Spectral Guardian will mark a random Wizard for the third and fourth round. 
+:*If a Marked Wizard casts a Charm, the Elephant Spectral Guardian will remove the Marked shield and all positive and negative wards from the Marked Wizard.
+::*Pet spells will not affect this cheat and do not remove the Marked shield.
+::*The Marked shield can be removed by the Lion Spectral Guardian's {{Link|Spell|Earthquake}}.
+:*At the beginning of the fifth round of the cycle, if a Wizard has a Marked shield active, the other Spectral Guardians will punish all Wizards with the following spells:
+:::{{Link|Creature|Gorilla Spectral Guardian}} will cast '''{{Link|Spell|Smoke Screen (-50%)}}'''.
+:::{{Link|Creature|Lion Spectral Guardian}} will cast a version of {{Link|Spell|Orthrus}} dealing '''700''' Myth Damage.
+:::{{Link|Creature|Zebra Spectral Guardian}} will cast a version of {{Link|Spell|Blizzard}} dealing '''750-790''' Ice Damage.
+:*''"Are you still marked?"'' - At the beginning of the fifth round, the Elephant Spectral Guardian will remove all positive and negative wards from the marked Wizard.
+:*Defeating all other Spectral Guardians or the Elephant Spectral Guardian stops this cheat.
+'''Scarecrow Interrupt Cycle:''' (Resets every 3 {{Icon|Round}})
+*''"We can't fail!"'' - If all the other Spectral Guardians have been defeated, the Elephant Spectral Guardian will remove all wards from himself (including his {{Link|Spell|Tower Shield}}).
+:*''"Your pursuit ends here!"'' - After all the other Spectral Guardians have been defeated, he will cast '''{{Link|Spell|Ominous Scarecrow (Death)}}''' every three Rounds.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Sun Damage for 1 Pip.
+*Deals 185 Sun Damage for 2 Pips.
+
+| casts =
+Solar Shield;
+Guiding Light;
+Regenerate;
+Rebirth;
+Dryad;
+Solar Blade;
+Solar Trap;
+Darkwind;
+Natural Attack (Sun 85-X Pips);
+Forest Lord;
+Wild Bolt;
+Kraken;
+Stormzilla;
+Triton;
+Leviathan;
+Sirens;
+Tempest;
+
+| quests =
+Wizard in the Mirror;
+
+| gold =
+158 - 419;
+
+| hats =
+Absolute Zero Brim*CR*F3;
+Boo Pumpkin Mask*CR*HOL;
+Cold Chieftain's Mask*F2;
+Cool Pumpkin Mask*CR*HOL;
+Cyclops Pumpkin Mask*CR*HOL;
+Decorous Brim*CR;
+Elephant Graveyard Shroud;
+Face of Baobab*F9*WMV;
+Flameborn Sidhe Cowl*CR;
+Ghostgrass Hood*F6*WMV;
+Hallowe'en Hat*CR*HOL;
+Happy Pumpkin Mask*CR*HOL;
+Hat of the Old Kings*F9;
+Headdress*CR*HOL;
+Hood of Chieftain's Honor;
+Hood of the Forgotten;
+Hot-Tempered Chieftain's Mask;
+Kitty Pumpkin Mask*CR*HOL;
+Ninja Pig Hat*CR*HOL;
+Pirate Pumpkin Mask*CR*HOL;
+River Captain's Hood;
+Santa Hat*CR*HOL*F2;
+Scary Pumpkin Mask*CR*HOL;
+Sidhe Cowl*CR*F2;
+Squamish Cowl of the Sidhe*CR;
+Stone Town Topper*F8*WMV;
+Turkey Hat*CR*HOL;
+
+| robes =
+Baxby's Noble Outfit;
+Cloak of Conformity;
+Darajani Havoc Robes;
+Flameborn Sidhe Cloak*CR;
+Frostborn Sidhe Cloak*CR*F2;
+Hunter Prey Jacket*F6*WMV;
+Lost Outsider Gear*F7*WMV;
+Mummy Costume Bodywraps*CR*HOL;
+Pilgrim Robe*CR*HOL;
+Restless Cloak of Oblivion*CR*F2;
+Scintillating Tunic*CR;
+Shaman's Mythic Armor;
+Shaman's Winter Protection;
+Sidhe Cloak*CR*F4*WMV;
+Sidhe Cloak of Attunement*CR;
+Sinister Juju Robes*F11*WMV;
+Splendid Tunic*CR*F2;
+Squamish Cloak of the Sidhe*CR;
+Storm Chaser's Outfit*F7*WMV;
+Storyborn Cloak of Mist*CR;
+Sun's Circle Cloak*F7*WMV;
+Tunic of Sudden Grief*CR;
+Unbroken Spiral Robe*F8*WMV;
+Vampire Costume Coat*CR*HOL;
+Vestment of the Thornwood*CR;
+Whiteblind Tunic*CR;
+Zafaria Tour Jacket*F3*WMV;
+
+| boots =
+Boots of Fire Dancing*CR;
+Doctor's Firestorm Walkers;
+Flameborn Sidhe Boots*CR;
+Hallowe'en Shoes*CR*HOL;
+Hot and Cold Rangers*F3;
+Hunter Prey Rangers;
+Mummy Costume Footwraps*CR*HOL;
+Nemean Rock Climbers;
+Pilgrim Boots*CR*HOL;
+Razzle Dazzle Boots*CR;
+Santa Boots*CR*HOL;
+Sidhe Shoes*CR;
+Sky Walking Boots*CR;
+Spider's Storied Wraps;
+Stone Town Storm Trackers;
+Vampire Costume Boots*CR*HOL;
+
+| athames =
+Great Ape's Tooth*F6;
+Kimba's Fang*F6*WMV;
+The Old Tusk-Tusk-Trunk*F3*WMV;
+Zanga's Blade*F2;
+
+| amulets =
+Berserker's Rage Pendant*F4*WMV;
+Nganga's Strong Muti Pendant*F3*WMV;
+Witch Doctor's Juju Pendant*F4*WMV;
+
+| rings =
+Amahle's Striped Band;
+Aryanah's Golden Loop;
+Council of Light's Band*F4*WMV;
+Kallah's Dread Stone;
+Mandisa's Star Stone;
+Nergal's Burning Brand*F2*WMV;
+Shaka's Lightning Loop;
+Spider Shadow's Stone*F6*WMV;
+Tanei's Ghost Ring;
+
+| wands =
+Baton of the Cottontail*CR*HOL;
+Clover of Prosperity*CR*HOL;
+Ghastly Gourd Wand*CR*HOL;
+Giggling Gourd Wand*CR*HOL;
+Grieving Gourd Wand*CR*HOL;
+Long-Eared Bunny Wand*CR*HOL;
+Quagga Blade*F3*WMV;
+Radiant Star Wand*CR*HOL*F2;
+Scepter of the Ardent Vow*CR*HOL;
+Sidhe Staff*CR*F2;
+Spear of the Trade Winds*F5*WMV;
+Staff of Corn Utopia*CR*HOL;
+Staff of Shadow and Light*F5*WMV;
+Staff of Solomon*F3*WMV;
+Sun's Light Spear*F4*WMV;
+Twilight of the Year Wand*CR*HOL;
+Waltzing Nutcracker Stave*CR*HOL;
+Wand of Fascination*CR*HOL;
+Wand of Rapt Joy*CR*HOL;
+Wand of the Egg Hunter*CR*HOL*F2;
+Wand of the Gingersnapper*CR*HOL;
+Wand of the Nestling*CR*HOL;
+Witch's Dirty Tricks Stick*CR*HOL;
+
+| decks =
+Hand-Chased Box of Destiny*F4*WMV;
+
+| items =
+Big Holiday Tree*CR*HOL;
+Carol of the Bells Theme*HOL*F2;
+Deck the Halls Theme*HOL*F2;
+Gingerbread House*HOL;
+Green Holiday Ornament*HOL*F2;
+Holiday Fireplace*HOL;
+Holiday Wreath*CR*HOL;
+Jingle Bells Theme*HOL;
+Large Snowflake*HOL;
+Milk and Cookies*HOL;
+Mint Standee*HOL;
+Nutcracker*HOL*F2;
+Small Snowflake*CR*HOL;
+Snowglobe*HOL*F3;
+Snowman*CR*HOL;
+Snowman Wrapped Gift*HOL;
+Spiral Wrapped Gift*HOL;
+Spooky Bob*CR*HOL;
+Star Wrapped Gift*HOL*F2;
+Tree Wrapped Gift*HOL*F2;
+Yuletide Lg. Keeper Aquarium*CR*HOL;
+Yuletide Lg. Small Fry Aquarium*CR*HOL;
+Yuletide Reg. Keeper Aquarium*CR*HOL;
+Yuletide Reg. Small Fry Aquarium*CR*HOL;
+Yuletide Reg. Whopper Aquarium*CR*HOL;
+Yuletide Tall Keeper Aquarium*CR*HOL*F2;
+Yuletide Tall Small Fry Aquarium*CR*HOL;
+Zafaria Stone Town Theme*F5*WMV;
+Zafaria Waterfront Theme*F6*WMV;
+
+| cards =
+Frozen Armor*F4*WMV;
+Fuel*F5*WMV;
+Infallible;
+Legion Shield*F8*WMV;
+Polymorph Colossus;
+Polymorph Elemental (Fire);
+Polymorph Elemental (Storm)*F2;
+Polymorph Treant;
+Power Link*F6*WMV;
+Shatter (2 Pip)*F7*WMV;
+Stun Block;
+Talos*F7*WMV;
+Tower Shield;
+
+| reagents =
+Bronze*F3*WMV;
+Cobalt*F5;
+Ectoplasm*F5*WMV;
+Nickel*F2;
+Spider Silk*F12*WMV;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F5*WMV;
+Cauliflowers*F5*WMV;
+Delicious Cookie;
+Dr. Jalapeno*F6*WMV;
+Flaming Soup*F2;
+Glowing Dragon Fruit*F3;
+Glowing Star Fruit*F6*WMV;
+Glowing Taffy*F2*WMV;
+Goat Cheese;
+Golden Apple;
+Golden Grapes*F2;
+Jelly Baby*F3;
+King Banana;
+Kola Nuts*F3;
+Salmonberry*F3;
+Shiny Tomato*F3;
+Spicy Drumstick;
+Strawberry Cupcake*F2*WMV;
+Submarine Sandwich;
+Uni-Corn*F6*WMV;
+
+| jewels =
+Balance-Off Citrine;
+Bananas! Opal;
+Big Hurry Opal;
+Big Rally Opal;
+Blade of Fire Ruby;
+Blizzard Lizard Sapphire;
+Bombardier Opal;
+Bummer Opal;
+Cat Bandit Opal;
+Catch Leader Opal;
+Death-Boon Onyx;
+Death-Shot Onyx;
+Deplete Opal;
+Frost Giant Sapphire;
+Go Humongo Peridot;
+Halt Leader Opal;
+Hexster Citrine;
+Huge Rally Opal;
+Ice-Boon Sapphire;
+Ice-Eye Sapphire;
+Life-Proof Jade;
+Mega-Leech Opal;
+No Pain, No Gain Onyx;
+Opaque Accurate Amethyst +8%;
+Opaque Accurate Jade +8%;
+Opaque Accurate Opal +4%;
+Opaque Accurate Peridot +8%;
+Opaque Blocking Onyx +7;
+Opaque Blocking Ruby +7;
+Opaque Blocking Sapphire +7;
+Opaque Critical Amethyst +8;
+Opaque Critical Citrine +7;
+Opaque Critical Citrine +8;
+Opaque Critical Onyx +8;
+Opaque Critical Opal +4;
+Opaque Critical Sapphire +7;
+Opaque Defense Onyx +33;
+Opaque Defense Opal +18;
+Opaque Defense Sapphire +33;
+Opaque Piercing Amethyst +4%;
+Opaque Piercing Citrine +4%;
+Opaque Piercing Onyx +4%;
+Opaque Piercing Sapphire +4%;
+Orthrus Peridot;
+Plain Damage Onyx +16;
+Plain Damage Peridot +16;
+Plain Damage Sapphire +16;
+Plain Defense Jade +32;
+Plain Defense Ruby +32;
+Power Nova Citrine;
+Rebirth Jade;
+Restorative Opal;
+Rugged Opal;
+Shh! Opal;
+Sniper Talent Opal;
+Storm-Eye Amethyst;
+Storm-Giver Amethyst;
+The Deer Knight Rises Onyx;
+Ultra Charge Opal;
+Ultra Exhaustion Opal;
+Unbalancer Citrine;
+Wipeout Opal*F2;
+
+| pins =
+
+| pets =
+Burning Pixie*CR*F3;
+Christmas Elf*CR*HOL;
+Cupig*CR*HOL*F2;
+Frostman*CR*HOL;
+Golden Goose*CR*HOL;
+Leopard*CR*F3;
+Lovely Ladybug*CR*HOL;
+Lovely Leopard*CR*HOL;
+Lucky Leprechaun*CR*HOL;
+Lump of Coal*CR*HOL*F2;
+Maple Moose*CR*HOL;
+Muscled Cat*CR*F2*WMV;
+Pet Egg*CR*HOL;
+Pink Jellyfish*CR*F3*WMV;
+Primal Wildclaw*CR;
+Rescue Rover*CR*HOL;
+Skeletal Knight*CR*F2;
+Skink*CR*F2;
+Valentine Pig*CR*HOL;
+
+| seeds =
+Boon Tree*CR*HOL;
+Burning Snap Dragon*F2*WMV;
+Deadly Fly Trap*F2*WMV;
+Deadly Helephant Ears*CR;
+Fickle Pickle*F3;
+Happy Holidaisy*CR*HOL*F2;
+Helephant Ears;
+King Parsley*CR*F2;
+Orange Bell Pepper*CR*F6*WMV;
+Orange Dandelion*F2;
+Red Bell Pepper*F4;
+Trumpet Vine*F4*WMV;
+White Desparagus*F4;
+White Laugh-O-Dil*F2*WMV;
+White Tiger Lily;
+
+| mounts =
+Stormrider Hare*PERM*CR*HOL;
+
+| spells =
+
+}}

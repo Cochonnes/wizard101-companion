@@ -1,0 +1,115 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 8,660
+| crecla = Mander
+| school = Fire
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+50%;
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Doomsday Krok Gauntlet
+| subloc1 = Doomsday Krok Gauntlet (Tier 4)
+| descrip =
+Fire Cybermander (Tier 4) is considered a Minion to {{Link|Creature|Balance Cybermander (Tier 4)}}.  All drops are recorded on that page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Strangely allergic to gold. Which doesn't really make sense. Gold's a great conductor. But eh, technology's weird.
+
+| extract class =
+Mander;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| altlink = Fire Cybermander
+
+| spellnotes =
+'''Natural Attack:'''
+*Four Pip maximum, despite what the Spell description indicates.
+
+| casts =
+Amplify;
+Vengeance;
+Glacial Shield;
+Smoke Screen (-45%);
+Fireblade;
+Fire Trap;
+Fuel (+35%);
+Natural Attack (Fire 120-240-360, 70%);
+Meteor Strike (355-395);
+Efreet;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

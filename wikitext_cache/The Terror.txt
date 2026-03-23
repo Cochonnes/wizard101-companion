@@ -1,0 +1,254 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 11,090
+| cheats = Yes
+| crecla = Havox
+| school = Sun
+| masteries =
+Fire;
+Ice;
+Storm;
+Balance;
+
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+144 Any;
+
+| criticalblock =
+160 Any;
+
+| outpierce =
+10%;
+
+| outboost =
+120%;
+
+| incboost =
+5% Myth, Life, Death;
+
+| incresist =
+50% Fire, Ice, Storm, Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Terrorling;
+
+| world = Empyrea
+| location = Outer Athanor
+| subloc1 = Access Tunnel
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"*ROOOAAARRR*"'' - If a Wizard joins the duel after the first Round, The Terror will cast Mana Burn (Sun) on the Wizard that pierces all resistance.
+*{{Icon|Round}} ''"*ROOOAAARRR*"'' - At the end of every 5th Round, The Terror will cast a Sun Spell that applies a protected '''+100%''' Fire, Ice, Storm, or Universal Blade.
+
+| spellnotes =
+*Casts a Mass version of Hex.
+
+| casts =
+Dark Nova;
+Shadow Sentinel;
+Frenzy;
+Tower Shield (-55%);
+Elemental Shield;
+Smoke Screen (-45%);
+Balanceblade;
+Elemental Blade;
+Hex;
+Windstorm (+25%);
+Loremaster (Sun);
+Sand Wurm (Sun);
+Savage Paw (Sun);
+Gaze of Fate (Sun);
+Ra (Sun);
+Nested Darkness;
+Natural Attack (Ice 105-210-315, 75%);
+Blizzard (290-330, 80%);
+Frost Giant (530);
+Lord of Winter (1,045-1,155);
+Natural Attack (Fire 120-240-360, 70%);
+Meteor Strike (355-395);
+Fire Dragon (495+395);
+Sun Serpent;
+Natural Attack (The Terror);
+Natural Attack (Storm 125-250-375, 65%);
+Storm Lord (775);
+Storm Owl;
+Tempest (85);
+
+| quests =
+Tunnel of Terror;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge and has not unlocked the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge, the following drops will be available:
+*6 Spellements will drop each time from '''any''' School for their respective rank 10, 11, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+87 - 287;
+
+| hats =
+Medic's Interstellar Helm;
+
+| robes =
+Interstellar Engineer Suit;
+Interstellar Explorer's Uniform;
+
+| boots =
+
+| athames =
+Interstellar Explorer's Knife;
+
+| amulets =
+Interstellar Navigator's Charm;
+Interstellar Warrior's Charm;
+
+| rings =
+Interstellar Hero's Band;
+
+| wands =
+Navigator's Hexacorder;
+
+| decks =
+Interstellar Engineer's Deck;
+Interstellar Navigator's Deck;
+Interstellar Warrior's Deck;
+
+| items =
+Empyrea Aeriel Theme*F2;
+Empyrea Athanor Combat Theme*F2*WMV;
+Empyrea Finale Combat Theme*F2*WMV;
+Empyrea Flotsam Combat Theme;
+Empyrea Inner Athanor Theme;
+Empyrea Jungle Theme*F3;
+
+| cards =
+Balefrost;
+Darkwind;
+Mass Fire Prism;
+Mass Myth Prism;
+Mass Storm Prism*F4*WMV;
+Mass Triage;
+Sanctuary;
+Time of Legend;
+
+| reagents =
+Ancient Scroll*F3*WMV;
+Antique Coins;
+Black Pearl*F2*WMV;
+Blood Moss*F2*WMV;
+Brass*F3*WMV;
+Bronze Gear*F3*WMV;
+Cobalt;
+Ectoplasm*F4*WMV;
+Nickel*F2*WMV;
+Scales*F2;
+Spider Silk*F3*WMV;
+Spring*F4*WMV;
+Tin*F2*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Climaclysm*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Rusalka's Wrath*BR;
+Scion of Balance*BR;
+Scion of Fire*BR;
+Scion of Life*BR;
+Scion of Myth*BR;
+Scorching Scimitars*BR;
+Sun Serpent*BR;
+Winged Sorrow*BR;
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate;
+Beast Wellington*F2;
+Discord Grape Jelly;
+Drumstick;
+Eye Candy;
+Glowing Taffy*F3*WMV;
+Hot Cross Buns;
+Pizza*F2*WMV;
+Rock and Roll Candy*F3;
+Satyr Chow*F2*WMV;
+Sprinkle Cupcake*F2;
+Veggie Juice*F2*WMV;
+Wheat Cracker;
+
+| jewels =
+Ally Dragonblade Citrine;
+Balance-Eye Citrine;
+Death Striker Onyx;
+Feeling Weak Citrine;
+Fire-Dealer Ruby;
+Fire-Eye Ruby;
+Fire-Giver Ruby;
+Fire Striker Ruby;
+Ice-Sniper Sapphire;
+Infector Onyx;
+Life-Boon Jade;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Amethyst +13*F2*WMV;
+Lustrous Damage Sapphire +23;
+Lustrous Defense Citrine +45;
+Lustrous Defense Sapphire +45;
+Lustrous Health Opal +100;
+Lustrous Mana Opal +41;
+Lustrous Mana Opal +42;
+Lustrous PIP Opal +10%;
+Rage of Winter Sapphire;
+Spell-Proof Opal;
+Storm-Boon Amethyst;
+Storm-Giver Amethyst;
+Storm-Sniper Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears*F4*WMV;
+Baby Carrots;
+Bell Pepper;
+Blue Huckleberries*F2;
+Boiled Peanuts*F3;
+Bread Fruit Bush*F4*WMV;
+Couch Potatoes*CR*F2*WMV;
+Cornbread Fruit Bush*F4*WMV;
+Face Palm;
+Fish on a Vine;
+Golden Couch Potatoes*F4*WMV;
+Grapes of Wrath*CR*F3*WMV;
+Ivy League*CR*F2*WMV;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily*F2;
+Pink Huckleberries;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Red Bell Pepper;
+Red Couch Potatoes*F2*WMV;
+Red Huckleberries*F2*WMV;
+Saw Palmetto;
+Tiger Lily (Seed);
+
+| mounts =
+
+| spells =
+
+}}

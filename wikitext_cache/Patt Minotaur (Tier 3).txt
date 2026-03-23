@@ -1,0 +1,129 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 3,480
+| crecla = Giant
+| school = Balance
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+14% Myth, Life, Death;
+
+| incresist =
+40% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Night Shadow (Fire) (Tier 3);
+Night Shadow (Ice) (Tier 3);
+
+| world = Housing Instance
+| location = Baddle of the Bands
+| subloc1 = Baddle of the Bands (Tier 3)
+| descrip =
+
+| speech =
+:''"Wizard! You and King Thermidor think you're tough cookies with a long history, but offstage, things are falling apart. I can hear your heartbeat. I hear the way it sounds. The way it pounds. Get nervous! Why don't you hit me with your best shot."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Balance Damage.
+
+| casts =
+Empowerment;
+Weakness;
+Black Mantle;
+Balanceblade;
+Bladestorm;
+Spirit Blast;
+Power Nova;
+Ra;
+
+| quests =
+Baddle of the Bands;
+
+| gold =
+73 - 95;
+
+| hats =
+Headbanger's Topper (Level 50+);
+Rocker's Top Hat (Level 50+);
+
+| robes =
+Rocker's Threads (Level 40+);
+
+| boots =
+Headbanger's Spiked Boots (Level 40+);
+Headbanger's Spiked Boots (Level 50+);
+Rocker's Stompers (Level 50+)*F2;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Rocker's Beat Set (Level 50+)*F2;
+Rockstar Thump Kit (Level 40+);
+Rockstar Thump Kit (Level 50+);
+
+| decks =
+
+| items =
+Arboreal Marker;
+Baddle Combat Theme;
+Baddle of the Bands Theme;
+Drake Marker;
+Medium Pillar;
+Playable Frankenjammer;
+Playable Keytar;
+Playable Polka Dot Flying V;
+Short Pillar;
+Snowflake Marker*F2;
+
+| cards =
+
+| reagents =
+Cobalt;
+Copper;
+Deep Mushroom*F2;
+Mist Wood;
+Stone Block;
+Tin;
+
+| spellements =
+
+| snacks =
+Square Root;
+Wheat Cracker;
+
+| jewels =
+Blemished Damage Onyx +11;
+Kraken Amethyst;
+
+| pins =
+
+| pets =
+Rockin' Roller;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

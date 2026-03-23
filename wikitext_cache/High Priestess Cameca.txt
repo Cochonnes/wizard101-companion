@@ -1,0 +1,129 @@
+{{Stub|Spell Casts|Stats}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 12,235
+| crecla = Parasaur
+| school = Storm
+| school2 = Ice
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+1150 Storm, Ice;
+
+| criticalblock =
+867;
+
+| outpierce =
+59% Storm, Ice;
+
+| outboost =
+216% Storm, Ice;
+
+| incboost =
+None;
+
+| incresist =
+40% Myth;
+60% Ice, Storm, Death, Balance, Sun, Moon, Star, Shadow;
+80% Fire, Life;
+
+| outhealing =
+88%;
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| randomminions =
+Crying Sky Barbarian;
+Crying Sky Greenhorn;
+Crying Sky Stomper;
+Crying Sky Thrall;
+Sky Crower;
+Sky Shrieker;
+
+| totalminions = 1
+| world = Raid
+| location = Crying Sky
+| subloc1 = Central Pyramid
+| lootchest = High Priestess Cameca's Chest
+| descrip =
+High Priestess Cameca is the Boss summoned on the Southern portion of the Central Pyramid, after inputting the wildlife, school, and astral tokens found in the {{Link|Location|Xibalba Wastes (South)}}. The drum used to spawn Cameca only appears after using the {{Link|Spell|Reveal Invisible}} Cantrip Spell.
+*When Cameca is defeated, the ''Shrine of Cameca'' spawns in the middle of the sigil, allowing the player who defeated Cameca to polymorph into {{Link|Polymorph|High Priestess Cameca}}.
+
+| speech =
+:''"Life is trial and torment, a long road of decay that ends in dissolution. Let us walk the path together."''
+
+| cheatnotes =
+*''"Life wears on us all!"'' - At the start of every Round, Cameca will add two -25% Damage negative Charms and two -50% Healing Charms on 2 random Wizards in battle.
+*''"Accept your end."'' - At the end of each Round, if any one Wizard has at least four Negative Healing Charms or four Negative Damage Charms on them, Cameca will cast a version of {{Link|Spell|Storm Owl}} that hits all enemies, and then removes all Negative Charms from all enemies.
+**Negative Charms not applied by the main cheat will count for both the Negative Healing Charm and Negative Damage Charm counts for this trigger, even if not the corresponding type of Negative Charm.
+
+| spellnotes =
+
+| casts =
+Weakness;
+Stormblade (+30%);
+Mass Ice Trap;
+Tempest (4 Pip);
+Blizzard (365);
+
+| quests =
+
+| dropnotes =
+All 12 Wizards in the Raid receive the drops, not just the ones within the battle.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Hunhau's Comet Athame (Level 160+);
+Hunhau's Crying Sky Athame (Level 160+);
+Hunhau's Heavenly Athame (Level 160+);
+Hunhau's Meteoric Athame (Level 160+);
+Hunhau's Singularity Athame (Level 160+);
+Hunhau's Vacuum Athame (Level 160+);
+Hunhau's Xenoform Athame (Level 160+);
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

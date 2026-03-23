@@ -1,0 +1,100 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 21,910
+| crecla = Wizard
+| school = Ice
+| shadowslots = 2
+| startpips = 7
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Khrysalis
+| location = Shadow Palace
+| subloc1 = Morganthe's Chamber
+| descrip =
+Ice Morganthe is one of the five Morganthe forms encountered during the final battle in Khrysalis. All drops, cheats, and speech are recorded on the {{Link|Creature|Morganthe (Death)}} page.
+*Morganthe (Ice) will always occupy the first duel circle slot.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Shadow Shrike;
+Dark Fiend;
+Fortify;
+Infallible;
+Legion Shield (-35%);
+Iceblade;
+Ice Trap;
+Ice Morganthe Attack;
+Natural Attack (Ice 158-250-345);
+Handsome Fomori;
+Frostbite (80+549);
+Frost Demon;
+Frost Giant (530);
+Lord of Winter;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

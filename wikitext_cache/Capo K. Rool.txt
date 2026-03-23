@@ -1,0 +1,289 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 15,350
+| crecla = Krokotopian
+| school = Moon
+| masteries =
+Ice;
+Death;
+
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+210 Any;
+
+| criticalblock =
+282 Any;
+
+| outpierce =
+26%;
+
+| outboost =
+130%;
+
+| incboost =
+5% Fire, Life;
+
+| incresist =
+73% Ice, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Banana Horde;
+Banana Horde;
+
+| world = Lemuria
+| location = Heap
+| subloc1 = Capo K. Rool's Hideout
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"As you can see, I do indeed have the last of the Banana Horde. They are my ticket to supremacy here in Heap. Say hello to the Wizard, boys. Never mind, I know you can't. They do not verbalize the speech, as they are not sentient beings, just lumps of banana and magic. I respect that. I believe in respect you see. But you, you refused an offer which I had previously established as ineligible for refusal. That was disrespectful. I am disrespected. And nobody disrespects Capo K. Rool and lives."''
+
+| spellnotes =
+*Casts a protected Tower Shield (Moon).
+
+| casts =
+Flawless (6 Rounds);
+Moon Shield;
+Tower Shield (Moon);
+Legion Shield;
+Mass Hex;
+Empower (Moon);
+Shift GreenOak;
+Shift Ogre;
+Shift Thornpaw;
+Natural Attack (Moon 105-210-315-420);
+Orthrus (Moon, 700);
+Shift Exemplar;
+Celestial Calendar (Moon);
+Call of Khrulhu;
+Winged Sorrow;
+Climaclysm;
+Freeze Ray (Tier 2a);
+
+| quests =
+K. Rool to Be Kind;
+
+| gold =
+281 - 298;
+
+| hats =
+
+| robes =
+Supreme Science Robe;
+
+| boots =
+Supreme Electric Shoes;
+
+| athames =
+Supreme Old Judge Athame;
+Supreme Stability Athame;
+
+| amulets =
+Supreme Preservation Talisman;
+
+| rings =
+Supreme Cold Steel Ring;
+Supreme Hex Ring;
+Supreme Undead Ring;
+
+| wands =
+Supreme Ferocious Staff;
+Supreme Freezer Staff;
+Supreme Hex Staff;
+Supreme Preservation Staff;
+Supreme Teleological Staff;
+
+| decks =
+Supreme Firewall Deck;
+Supreme Volcanic Deck;
+
+| items =
+Cargo;
+Lemuria Jungle Theme;
+Lemuria Mandoria Combat Theme;
+Lemuria Minds Theme;
+Lemuria Telos Theme 1;
+Lemuria Telos Theme 2;
+Lemuria Telos Theme 3;
+Periodic Table Poster;
+Puzzle Cube;
+
+| cards =
+Elemental Trap;
+Ether Shield;
+Feint;
+Guidance;
+Infallible;
+Mass Death Prism;
+Mass Fire Prism;
+Mass Ice Prism;
+Mass Life Prism;
+Mass Storm Prism;
+Mass Triage;
+Pacify;
+Rusalka's Wrath;
+Winged Sorrow;
+
+| reagents =
+Aether*F3;
+Agave Leaves;
+Amber;
+Amber Dust;
+Aquamarine;
+Astral Shard;
+Draconium;
+Fire Blossom;
+Fish Fin;
+Glass Sliver;
+Golden Pearl;
+Mithril*F2;
+Scales*F2;
+Silver;
+Stardust*F2;
+Steel;
+Sunstone*F2;
+Synthonium;
+Titanium;
+Tungsten*F2;
+Turquoise;
+Vine;
+
+| spellements =
+Barbarian's Saga;
+Dark & Stormy;
+Lord of the Jungle;
+
+| snacks =
+Bell Pepper Steak;
+Boiled Spider Legs;
+Boom Stroganoff*F2;
+Bread Fruit Fruit;
+Candlenut;
+Cauliflowers*F2;
+Chapulines*F2;
+Chili Peppers*F2;
+Crystal Custard;
+Crystalweb Candy;
+Desparagus Salad;
+Eggplant;
+Fish Egg Pancakes;
+Fizzing Fertilizer*F2;
+Flapjacks*F2;
+French Fries;
+Fried Ice Cream;
+Fried Worms*F2;
+Frojan Mousse;
+Frozen Perogies;
+Hive Rinds;
+Honey Bombs;
+Shanta Pudding;
+
+| jewels =
+Armor Piercer Opal;
+Balance-Boon Citrine;
+Balance-Dealer Citrine;
+Balance-Eye Citrine;
+Balance-It Citrine;
+Balance-Off Citrine;
+Balance-Ward Citrine;
+Dazzling Accurate Jade +14%;
+Dazzling Accurate Peridot +14%;
+Dazzling Accurate Sapphire +14%;
+Dazzling Blocking Amethyst +19;
+Dazzling Blocking Jade +19;
+Dazzling Critical Peridot +19;
+Dazzling Defense Peridot +60;
+Death Assailant Onyx;
+Death-Eye Onyx;
+Fire Striker Ruby;
+Fire-Away Ruby;
+Fire-Proof Ruby;
+Fire-Ward Ruby;
+Greensleeves Jade;
+Healer Opal;
+Ice-Away Sapphire;
+Ice-Boon Sapphire;
+Ice-Proof Sapphire;
+Ice-Shot Sapphire;
+Ice-Sniper Sapphire;
+Life Assailant Jade;
+Life Striker Jade;
+Life-Bringer Jade;
+Life-Shot Jade;
+Life-Ward Jade;
+Lively Opal;
+Myth Striker Peridot;
+Myth-Boon Peridot;
+Myth-Eye Peridot;
+Myth-Giver Peridot;
+Myth-Shot Peridot;
+Myth-Ward Peridot;
+Sparkling Health Opal +117;
+Sparkling Mana Opal +49;
+Storm Assailant Amethyst;
+Storm Striker Amethyst;
+Storm-Dealer Amethyst;
+Storm-Eye Amethyst;
+Storm-Proof Amethyst;
+Storm-Shot Amethyst;
+Unbalancer Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Blue Huckleberries;
+Boon Tree*CR;
+Clockwork Flower*F2;
+Dandelion;
+Deadly Helephant Ears*CR;
+Desparagus (Seed);
+Face Palm;
+Green Snow Apples;
+Honey Sickle;
+Ivy League*CR;
+Maltese Tiger Lily;
+Moon Flower*F2;
+Ninja Fig;
+Pink Huckleberries*F2;
+Prickly Bear Cactus;
+Purple Snow Apples;
+Red Bell Pepper*F2;
+Red Couch Potatoes;
+Red Huckleberries;
+Rotten Beets;
+Rye Bread Fruit Bush;
+Saw Palmetto*F2;
+Silver Trumpet Vine;
+Snap Dragon;
+Snow Apples;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Sword Fern*CR;
+Ultra Helephant Ears;
+Ultra Huckleberries;
+Ultra Snow Apples;
+Vampire Carrots;
+Venus Fly Trap;
+White Desparagus;
+White Laugh-O-Dil;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

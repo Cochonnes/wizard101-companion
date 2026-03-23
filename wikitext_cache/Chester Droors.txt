@@ -1,0 +1,199 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 675
+| crecla = Wizard
+| school = Life
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Barkskin Treant;
+Green Man Minion;
+
+| world = Wysteria
+| location = Pigswick Academy
+| subloc1 = School of Earth
+| descrip =
+Chester Droors is the Professor of Earth School magic at Pigswick Academy.<br/>The School of Earth was once a no-port zone. Wizards are now able to port to friends for this battle.<br/>This Boss is not repeatable, despite an update claiming the contrary.
+
+| speech =
+:''"I hadn't anticipated you discovering my connection to the Green Men so soon! You won't leave here to warn the others! Time to review your Homework. Today's subject: Traps!"''
+
+| cheatnotes =
+*''"Did you forget how to use traps?"'' - Starting at the beginning of the third round, if there are no traps placed on him, he will interrupt-cast a zero-pip {{Link|Spell|Helping Hands}} on himself. If a trap is placed on him, the Helping Hands does not cast the following round (after healing once more). When the healing effects wear off, he will use this cheat again if no traps are on him.
+
+| spellnotes =
+
+| casts =
+Weakness;
+Sprite;
+Helping Hands;
+Lifeblade;
+Life Trap;
+Imp;
+Leprechaun;
+Nature's Wrath;
+Seraph;
+Evil Snowman;
+Sunbird;
+Storm Shark;
+
+| quests =
+Step Into My Parlor;
+
+| gold =
+17 - 32;
+
+| hats =
+Cap of the Ice Wyvern*F2*WMV;
+Cowl of Diplomacy;
+Cowl of the Exceptional;
+Elegant Helm;
+Hat of Numbness*F5*WMV;
+Hat of the Enigma;
+Headwraps of Restoration;
+Helm of Chivalry*F2;
+Helm of Intolerance;
+Remarkable Cowl;
+Shroud of Paramount*F2*WMV;
+Smooth Spun Hat*F2;
+Stylish Hat;
+
+| robes =
+Brisk Robe;
+Distressing Garment;
+Masterful Canine Cloak;
+Medic's Robe*F2*WMV;
+Robe of Politeness;
+
+| boots =
+Animated Canine Shoes;
+Bandit's Footwraps;
+Brisk Robe;
+Cat Burglar's Shoes;
+Glowing Canine Shoes*F3*WMV;
+Masterful Canine Shoes*F2*WMV;
+Shoes of Anxiety*F2*WMV;
+Shoes of the Breakneck;
+Silent Canine Shoes*F3*WMV;
+Slippers of Definition*F3*WMV;
+Superstitious Canine Shoes*F3*WMV;
+
+| athames =
+Athame of Chivalry;
+Conventional Dagger;
+Graceful Stiletto;
+Librarian's Stylet;
+Pennon Poniard*F2;
+
+| amulets =
+
+| rings =
+Animated Ring*F4*WMV;
+Tournament Ring;
+Winged Circlet;
+
+| wands =
+
+| decks =
+Deck of the Banshee*F2;
+Deck of the Phoenix*F3*WMV;
+
+| items =
+Wysteria Theme 1;
+
+| cards =
+Banshee;
+Pest Zapper*F3*WMV;
+Sanctuary;
+Storm Shark;
+Weakness;
+Wyldfire;
+
+| reagents =
+Copper*F2;
+Ectoplasm*F2*WMV;
+Iron*F3;
+Nickel;
+Pyrite*F2*WMV;
+Spider Silk*F5*WMV;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F2*WMV;
+Cheese Broccoli;
+Chocolate Strawberry;
+Cracker*F2*WMV;
+Crunch Apple;
+Fire Cracker;
+Flapjacks*F8*WMV;
+Glowing Rock Candy;
+Golden Squash;
+Green Grapes*F3*WMV;
+Gummy Bloodbat;
+Gummy Firecat;
+Large Fish;
+Medium Fish;
+Moon Pie*F3*WMV;
+Nettle Root;
+Redskin Peanut*F2*WMV;
+Square Root;
+Stinky Cheese;
+Sugar Donut;
+Tasty Biscuit*F2*WMV;
+Tiny Fish*F3*WMV;
+
+| jewels =
+Chipped Defense Amethyst +13;
+Chipped Health Opal +17;
+Cracked Accurate Amethyst +2%;
+Cracked Damage Citrine +4;
+Cracked Damage Citrine +6;
+Cracked Damage Opal +1;
+Cracked Damage Sapphire +6;
+Cracked Defense Amethyst +10;
+Cracked Defense Jade +9;
+Fire-Boon Ruby;
+Myth Trap Peridot (Triangle);
+Snow Serpent Sapphire; 
+Storm-Boon Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Bell Pepper;
+Dandelion*F2*WMV;
+Desparagus (Seed);
+Honey Sickle*F4*WMV;
+Ivy League*CR;
+Orange Bell Pepper*CR*F3*WMV;
+Red Bell Pepper*F2*WMV;
+Tiger Lily (Seed);
+
+| mounts =
+
+| spells =
+
+}}

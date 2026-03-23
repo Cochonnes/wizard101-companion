@@ -1,0 +1,110 @@
+{{Stub|Immunities}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 2,720
+| crecla = Wyrm
+| school = Life
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+ 
+| world = Housing Instance
+| location = Grand Tourney Arena
+| subloc1 = Grand Tourney Arena (Tier 2)
+| descrip =
+Brulee Sucre (Tier 2) is a Minion to {{Link|Creature|Sir Claudas D'Agrodolce (Tier 2)}}. All drops are recorded on that page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Some say anxiety is the spice of life but when it comes to Brulee Sucre best to go bland.
+
+| extract class =
+Wyrm;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| casts =
+Legend Shield;
+Spirit Armor;
+Guidance;
+Sprite;
+Unicorn;
+Lifeblade;
+Life Trap;
+Imp;
+Leprechaun;
+Giant Spider;
+Nature's Wrath;
+Natural Attack (Life 105-205-305);
+Seraph;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

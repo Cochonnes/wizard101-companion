@@ -1,0 +1,238 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 13,265
+| crecla = Dog
+| school = Death
+| cheats = Yes
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| critical =
+250 Any;
+
+| criticalblock =
+250 Any;
+
+| outpierce =
+18%;
+
+| outboost =
+113%;
+
+| incboost =
+5% Life;
+
+| incresist =
+45% Fire, Ice, Storm, Myth, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Dogs of War (Sun);
+
+| world = Novus
+| location = Puerto Nuovo
+| subloc1 = Saboteur Cave
+| location2 = La Ville Rose
+| subloc2 = Matheus' House
+| descrip =
+Basil the Brigand is encountered multiple times in the Novus Storyline:
+*In Saboteur Cave, as the Boss in this battle,  all drops are recorded on this page.
+**If the Dogs of War (Sun) is defeated, it will not respawn upon fleeing and returning with Dungeon Recall.
+**Two additional Dogs of War (Sun) Minions appear if more than two Wizards are present
+*In Matheus' House, Basil the Brigand is considered a Minion to {{Link|Creature|Cabal Soldier (Fire)}}.  All drops are recorded on that page.
+
+| speech =
+:''"The Wizard, is it? They told me you might come. You fought well to get this far, but now you're done for!"''
+
+| cheatnotes =
+*{{Icon|Global}}{{Icon|Blade}}{{Icon|Trap}} ''"The dance of battle is child's play to one such as me!"'' - Occasionally, when any Global, Blade, or Trap Spell is cast by either side, excluding Prisms, Basil the Brigand will cast one of the following Spells:
+**{{Link|Spell|Plague}}
+**{{Link|Spell|Plague (-25%)}}
+**{{Link|Spell|Mass Weakness}}
+**{{Link|Spell|Tower Shield}}
+**Protected {{Link|Spell|Tower Shield (-55%)}}
+**{{Link|Spell|Legion Shield}}
+**Protected {{Link|Spell|Frozen Armor (185)}}
+
+| spellnotes =
+
+| casts =
+Virulence;
+Deathblade (+40%);
+Dark Tribute;
+Spirit Blade;
+Mass Feint (+70%);
+Banshee (Tier 3b);
+Winged Sorrow;
+Grim Reader (Tier 3a);
+Death Ninja Pig (Death);
+Monster Mash (Tier 3a);
+Death Seraph;
+Rotting Fomori;
+King Artorius (Death);
+
+| quests =
+Who Let the Monkeys Out?;
+Brigands and Beasties;
+
+| dropnotes =
+*A random mix of 5 Spellemental Treasure Cards and Spellements for any school will drop each time.
+
+| gold =
+9 - 17;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Artillery Officer Bayonet*F2;
+Cavalry Officer Bayonet;
+Infantry Officer Bayonet;
+Medic Officer Bayonet;
+Messenger Officer Bayonet*F2;
+Regulation Artillery Bayonet;
+Regulation Cavalry Bayonet*F2;
+Regulation Infantry Bayonet;
+Regulation Medic Bayonet;
+Regulation Messenger Bayonet*F3*WMV;
+Regulation Scout Bayonet;
+Regulation Trooper Bayonet;
+Scout Officer Bayonet*F2*WMV;
+Trooper Officer Bayonet;
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+Banshee (Tier 2b)*F2;
+Blood Bat (Tier 2b)*F2;
+Cyclops (Tier 2b);
+Dark Sprite (Tier 2b);
+Elemental Defuse;
+Evil Snowman (Tier 2b)*F2;
+Feint;
+Fire Cat (Tier 2b)*F2;
+Fire Elf (Tier 2b);
+Frost Beetle (Tier 2b);
+Ghoul (Tier 2b);
+Imp (Tier 2b)*F3;
+Leprechaun (Tier 2b);
+Lightning Bats (Tier 2b);
+Locust Swarm (Tier 2b)*F2;
+Nature's Wrath (Tier 2b);
+Scorpion (Tier 2b);
+Snow Serpent (Tier 2b);
+Snowball Barrage*TEST;
+Storm Shark (Tier 2b);
+Sunbird (Tier 2b);
+Thunder Snake (Tier 2b);
+Troll (Tier 2b);
+
+| reagents =
+Bone*F3*WMV;
+Bronze Gear;
+Pixels;
+Tin;
+
+| spellements =
+Barbarian's Saga;
+Blast Off!;
+Dark & Stormy;
+Deathly Depths;
+Freeze Ray;
+Gravestorm;
+Grim Reader*F2;
+Grrnadier*F3;
+Improbable Gaze;
+Lord of the Jungle*F2;
+Mockenspiel*F3;
+Old One's Endgame;
+S'more Machine;
+Shatterhorn;
+Snack Attack;
+Sound of Musicology*F2;
+Starspawn;
+Tatzlewurm Terror;
+Tree of Strife;
+
+| snacks =
+
+| jewels =
+Amazing Critical Amethyst +22;
+Amazing Critical Citrine +21;
+Amazing Critical Jade +22;
+Amazing Critical Onyx +21;
+Amazing Critical Onyx +22;
+Amazing Critical Peridot +21;
+Amazing Critical Ruby +21;
+Amazing Critical Sapphire +21;
+Amazing Critical Sapphire +22;
+Amazing Damage Amethyst +31;
+Amazing Damage Jade +32*F2*WMV;
+Amazing Damage Onyx +32;
+Amazing Damage Ruby +32;
+Amazing Damage Sapphire +31;
+Dazzling Critical Amethyst +20;
+Dazzling Critical Jade +20;
+Dazzling Critical Onyx +20;
+Dazzling Critical Peridot +19;
+Dazzling Critical Peridot +20;
+Dazzling Critical Sapphire +19;
+Dazzling Damage Jade +30;
+Dazzling Damage Onyx +30;
+Dazzling Damage Ruby +29;
+Dazzling Damage Sapphire +29;
+Dazzling Damage Sapphire +30;
+Dazzling Mending Opal +7%;
+Polished Piercing Amethyst +6%;
+Polished Piercing Citrine +6%;
+Polished Piercing Jade +6%*F2;
+Polished Piercing Onyx +6%;
+Polished Piercing Peridot +6%;
+Polished Piercing Ruby +6%;
+
+| pins =
+Balance Accurate Pin (100);
+Balance Conversion Pin (140);
+Balance Conversion Pin (150);
+Death Accurate Pin (100);
+Death Conversion Pin (150);
+Fire Accurate Pin (100);
+Fire Conversion Pin (150);
+Ice Accurate Pin (110);
+Ice Conversion Pin (140);
+Life Accurate Pin (100)*F2;
+Life Conversion Pin (140)*F2*WMV;
+Life Conversion Pin (150);
+Myth Accurate Pin (100)*F2;
+Myth Conversion Pin (140);
+Myth Conversion Pin (150);
+Storm Accurate Pin (80)*F2;
+Storm Conversion Pin (140);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

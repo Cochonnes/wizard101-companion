@@ -1,0 +1,110 @@
+PARSE LOG — MooShu
+============================================================
+
+AREA    : Mooshu Main Quest Line
+AREA    : Jade Palace
+QUEST#  1: Bad News                                 [talk]
+QUEST#  2: MooShu                                   [explore + talk]
+QUEST#  3: Welcome to MooShu?                       [talk]
+QUEST#  4: Mind Games                               [talk]
+QUEST#  5: Do You Mind?                             [explore + interact + talk]
+QUEST#  6: A Test of Strength                       [talk + explore + boss]
+QUEST#  7: The Great Mooddha                        [explore + talk]
+QUEST#  8: An Ailing Emperor                        [talk]
+AREA    : Hametsu Village
+QUEST#  9: War Pigs                                 [talk]
+QUEST# 10: Counting Sheep                           [explore + talk]
+QUEST# 11: Armed and Dangerous                      [interact + talk]
+QUEST# 12: Sneak Attack                             [mob + talk]
+QUEST# 13: Never Again                              [d&c + talk]
+QUEST# 14: Following Orders                         [boss + talk]
+AREA    : Tatakai Outpost
+QUEST# 15: Spies Like Us                            [talk]
+QUEST# 16: Inside Scoop                             [interact + talk]
+QUEST# 17: Cold Cut                                 [talk]
+QUEST# 18: Appetite for Destruction                 [interact + talk]
+QUEST# 19: Run Away, Run Away!                      [mob + talk]
+QUEST# 20: No Quarter                               [boss + talk]
+QUEST# 21: A Fighting Chance                        [talk]
+QUEST# 22: You’re Fired!                            [interact + talk]
+QUEST# 23: Key to Success                           [d&c + talk]
+QUEST# 24: Let Me Shek                              [boss + talk]
+QUEST# 25: A Tale of Two Brothers                   [talk]
+QUEST# 26: To the Front!                            [instance + boss + talk]
+AREA    : Crimson Fields
+QUEST# 27: The General                              [instance + talk]
+QUEST# 28: A Strong Defense…                        [instance + interact + talk]
+QUEST# 29: Is a Good Defense                        [instance + interact + talk]
+QUEST# 30: Scouring for Scouts                      [instance + talk]
+QUEST# 31: A Soldier’s Duty                         [instance + talk]
+QUEST# 32: Stone Cold                               [instance + boss + talk]
+QUEST# 33: Passing Stones                           [instance + interact + talk]
+QUEST# 34: Battle of Everymore                      [instance + mob + talk]
+QUEST# 35: Warlord Katsumori                        [instance + boss + talk]
+AREA    : Shoshun Village / Cave of Solitude
+QUEST# 36: Sword of Omens                           [talk]
+QUEST# 37: Clear Waters                             [talk]
+QUEST# 38: Patience                                 [talk]
+QUEST# 39: No Disassemble                           [d&c + talk]
+QUEST# 40: Second Serving                           [boss + talk]
+QUEST# 41: Hut Hut Hut!                             [explore + mob + talk]
+QUEST# 42: Pagoda Puzzle                            [puzzle + boss + talk]
+QUEST# 43: The Final Peace                          [boss + talk]
+QUEST# 44: Forest Flowers                           [collect + talk]
+QUEST# 45: Spiritual Offering                       [interact + talk]
+QUEST# 46: Jade Scepter                             [talk]
+AREA    : Kishibe Village
+QUEST# 47: Due Diligence                            [talk]
+QUEST# 48: Earth Day                                [talk]
+QUEST# 49: Crazy for You                            [collect + talk]
+QUEST# 50: Shrining Example                         [interact + talk]
+QUEST# 51: Happy Earth Spirits                      [talk]
+QUEST# 52: Water Everywhere…                        [mob + talk]
+QUEST# 53: Monknapping!                             [boss + talk]
+QUEST# 54: Did You Miss Me?                         [interact + talk]
+QUEST# 55: Beauty Is Shrine Deep                    [talk]
+QUEST# 56: A Good Guardian                          [talk]
+QUEST# 57: …Is Hard to Find                         [talk]
+QUEST# 58: For the Emperor!                         [mob + talk]
+QUEST# 59: Stolen Food                              [talk + d&c]
+QUEST# 60: Monk Follies                             [talk]
+QUEST# 61: Worthy Acts                              [boss + talk]
+QUEST# 62: Air Apparent                             [talk + interact]
+QUEST# 63: The Stuff of Epics                       [talk]
+QUEST# 64: Release                                  [instance + boss + talk]
+AREA    : Shirataki Temple
+QUEST# 65: River Temple                             [instance + boss + talk]
+QUEST# 66: Summoning the Spirit                     [instance + talk + mob + boss + interact]
+AREA    : Release (
+AREA    : Ancient Burial Grounds
+QUEST# 67: Contemplation                            [talk]
+QUEST# 68: Oni of Death                             [talk]
+QUEST# 69: The Only Way                             [explore + talk]
+QUEST# 70: A Hand from Beyond                       [interact + talk]
+QUEST# 71: Shadowy Secrets                          [explore + mob + interact + talk]
+QUEST# 72: Third Time’s the Charm                   [boss + interact + talk]
+QUEST# 73: Torchure                                 [boss + talk]
+QUEST# 74: A Dirty Job                              [interact + talk]
+QUEST# 75: To the Great Beyond                      [boss + talk]
+QUEST# 76: Grandpa Says Hi!                         [talk]
+AREA    : Village of Sorrow
+QUEST# 77: Desperate Measures                       [explore + talk]
+QUEST# 78: Be Very, Very Quiet                      [mob + talk]
+QUEST# 79: Or Call a Locksmith                      [d&c + talk]
+QUEST# 80: Spiritual Awakening                      [talk + boss]
+QUEST# 81: Chain Request                            [talk]
+QUEST# 82: Soooool Chain                            [d&c + talk + interact]
+QUEST# 83: A Good Forgery                           [talk]
+QUEST# 84: Smells Like Spirit                       [boss + talk]
+AREA    : Yoshihito Temple
+QUEST# 85: Carried Away                             [talk]
+QUEST# 86: Oni No Death                             [instance + boss + talk]
+AREA    : Oni No Death (
+AREA    : Instance name
+AREA    : Emperor’s Throne Room
+QUEST# 87: Left Behind                              [instance + talk + explore]
+QUEST# 88: Question of Faith                        [instance + talk + boss]
+QUEST# 89: Tree of Life                             [instance + interact + boss]
+
+SUMMARY: 89 quests in 11 areas
+Stats: {'total_quests': 88, 'mob_fights': None, 'dc_quests': 6, 'boss_fights': 1, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}

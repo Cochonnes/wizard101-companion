@@ -1,0 +1,115 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 7,585
+| crecla = Elemental
+| school = Balance
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Balance;
+
+| critical =
+38 Any;
+
+| criticalblock =
+32 Any;
+
+| outpierce =
+6%;
+
+| outboost =
+36%;
+
+| incboost =
+None;
+
+| incresist =
+13% Fire, Ice, Storm, Myth, Life, Death, Sun, Moon, Star, Shadow;
+43% Balance;
+
+| outhealing =
+1%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Monquistan Representative; 
+
+| world = Azteca
+| location = Zultun Dock
+| subloc1 = Abandoned House (Zultun Dock)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Curse}} ''"The end must be echoed or changed!"'' - At the beginning of every Round, Stone of Echoes will interrupt-cast to give all Wizards a -15% Charm and a DOT that does 150 Balance Damage over 3 Rounds.
+*{{Icon|Healing}} If Stone of Echoes is defeated while his Weakness cheat is still active, he will revive with full Health.
+*{{Icon|Spell}} ''"...Or the end comes to pass!"'' - At the end of the 3rd Round, and after Stone of Echoes revives, he will give each Wizard the following Spell:
+**{{GivesSpell|cards=1|size=x150px|Chimera (Tier 2b)}}
+*{{Icon|Balance}} ''"The end is delayed..."'' - If Chimera (Tier 2b) is used, Stone of Echoes will remove all negative Charms and DOTs.
+
+| spellnotes =
+
+| casts =
+Infallible;
+Vengeance;
+Balanceblade;
+Elemental Blade;
+Hex;
+Samoorai;
+Power Nova;
+Ra;
+Sabertooth;
+Judgement;
+
+| quests =
+Rock Around the Dock;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Weft Yarn @10 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Flawless Accurate Citrine +16%;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

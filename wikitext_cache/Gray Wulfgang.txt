@@ -1,0 +1,137 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 13,200
+| crecla = Bull
+| school = Death
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+26%;
+
+| outboost =
+130%;
+
+| incboost =
+5% Life;
+
+| incresist =
+73% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Lemuria
+| location = Heap
+| subloc1 = Tamarin House
+| descrip =
+Gray Wulfgang is encountered when a Wizard enters the Drawing Room in the Tamarin House during the Quest, ''{{Link|Quest|Detective Mission}}''.
+
+| speech =
+
+| spellnotes =
+*Casts an Aegis-protected Deathblade (+40%).
+
+| casts =
+Flawless (6 Rounds);
+Virulence (6 Rounds);
+Mass Infection;
+Deathblade (+40%);
+Malediction;
+Beguile;
+Doom and Gloom;
+Deer Knight;
+Headless Horseman;
+Qismah's Curse;
+Natural Attack (Death 105-210-315-420);
+Call of Khrulhu;
+Winged Sorrow;
+Grim Reader (Tier 3a);
+Skeletal Dragon;
+Dr. Von's Monster;
+
+| quests =
+
+| gold =
+175 - 194;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Supreme Founder's Staff;
+
+| decks =
+Supreme Freezer Deck;
+
+| items =
+Lemuria Lab Combat Theme;
+Lemuria Sky City Theme;
+Periodic Table Poster;
+
+| cards =
+Brilliant Light;
+Dream Shield;
+
+| reagents =
+Lord of the Jungle;
+
+| spellements = 
+Blast Off!;
+
+| snacks =
+Golden Biscuit;
+Golden Candy Bar;
+Golden Squash;
+Super Cold Popsicle;
+
+| jewels =
+Dazzling Critical Peridot +19;
+Dazzling Critical Sapphire +19;
+Dazzling Damage Hematite +60;
+Death-Boon Onyx;
+Fire Striker Ruby;
+Fire-Boon Ruby;
+Life-Bringer Jade;
+No Pain, No Gain Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Blue Huckleberries;
+Boiled Peanuts;
+Grapes of Wrath*CR;
+Rotten Beets;
+Saw Palmetto;
+Vampire Carrots;
+
+| mounts =
+
+| spells =
+
+}}

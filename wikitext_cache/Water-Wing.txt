@@ -1,0 +1,103 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 6,550
+| crecla = Fish
+| school = Fire
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = Crab Alley
+| subloc1 = Waterworks
+| descrip =
+The Water-Wing is a Minion to {{Link|Creature|Sylster Glowstorm}} in the Waterworks. All drops and cheats should be recorded on Sylster's page.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Fire Damage.
+
+| casts =
+Rebirth;
+Fireblade;
+Fire Trap;
+Cleanse Ward;
+Enfeeble;
+Doom and Gloom;
+Fire Shark;
+Meteor Strike;
+Scald;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

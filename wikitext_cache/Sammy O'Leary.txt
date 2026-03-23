@@ -1,0 +1,174 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 695
+| crecla = Cat
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+O'Leary Scurrier;
+
+| world = Marleybone
+| location = Hyde Park
+| subloc1 = Sammy's Clocktower
+| descrip =
+Sammy is apparently trying to take over the O'Leary gang.
+*Two additional O'Leary Scurrier Minions will appear if more than two Wizards are present.
+
+| speech =
+:''"I hope you're happy with the fate you've chosen by walking in here, kid."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Tower Shield;
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Ice Elf (30+210);
+Evil Snowman;
+Snow Shark;
+Banshee;
+
+| quests =
+Leader of the Pack;
+
+| gold =
+22 - 43;
+
+| hats =
+Affable Cowl*F3*WMV;
+Cap of the Black Mantle;
+Cowl of Diplomacy*F2*WMV;
+Cowl of Respect;
+Cowl of the Consummate*F2*WMV;
+Debonair Cap*F2*WMV;
+Exquisite Cowl;
+Feline Hat of Whimsy*F3*WMV;
+Finely Finished Mask;
+Headwrap of the Affected;
+Helm of Stasis*F3;
+Masterful Canine Cowl*F2*WMV;
+Savvy Cap*F2*WMV;
+Smooth Spun Hat;
+Thinker's Cap*F4*WMV;
+Visor of the Beacon*F4*WMV;
+Watchman's Hat;
+
+| robes =
+Distressing Garment;
+Jinxed Tunic;
+Skillful Cloak;
+Tunic of Incineration*F2;
+Vestment of Stasis*F5*WMV;
+Vestment of Tragedy*F6*WMV;
+
+| boots =
+Boots of Sparking Energy;
+Boots of the Supreme*F2*WMV;
+Dandy Boots*F4*WMV;
+Finely Finished Slippers*F2*WMV;
+Footwraps of Dreamland;
+Footwraps of Superiority*F3*WMV;
+Pastoral Boots;
+Shoes of Anxiety*F2*WMV;
+Shoes of Bottled Anger;
+Shoes of Humanity*F2*WMV;
+Shoes of the Breakneck;
+Slippers of Definition*F2*WMV;
+
+| athames =
+Athame of Chivalry*F3*WMV;
+Dirk of Nobles;
+Graceful Stiletto;
+
+| amulets =
+
+| rings =
+Cat Burglar's Ring;
+Tarnished Noble's Ring*F2*WMV;
+
+| wands =
+
+| decks =
+Deck of the Black Mantle*F4*WMV;
+Watchman's Deck*F2*WMV;
+
+| items =
+Crate of Vegetables*F3*WMV;
+Empty Tin Can;
+Ironwork Trash Can*F2*WMV;
+Litter;
+
+| cards =
+Giant;
+Ice Wyvern;
+Mutate Beetle (Fire);
+Spirit Armor;
+
+| reagents =
+Bone*F6*WMV;
+Copper*F3*WMV;
+Iron*F3;
+Lead*F2*WMV;
+Leather Straps*F7*WMV;
+Nickel*F4*WMV;
+Pyrite;
+Tin;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn*F2*WMV;
+Gummy Bloodbat*F2*WMV;
+Medium Fish*F4;
+Redskin Peanut;
+Square Watermelon*F4*WMV;
+Stinky Cheese*F2*WMV;
+Wheat Cracker*F4*WMV;
+
+| jewels =
+Add Health Opal;
+Banshee Onyx;
+Chipped Damage Amethyst +7;
+Chipped Damage Jade +7;
+Chipped Defense Opal +8;
+Chipped Health Opal +22;
+Chipped PIP Opal +2%;
+Evil Snowman Sapphire;
+Flawed Damage Opal +5*F2*WMV;
+Sunbird Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

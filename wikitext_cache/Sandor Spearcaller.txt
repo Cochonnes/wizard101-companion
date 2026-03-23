@@ -1,0 +1,219 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,600
+| crecla = Wizard
+| crecla2 = Undead
+| school = Ice
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Damage Pox;
+Damage Pox;
+
+| world = Dragonspyre
+| location = Plaza of Conquests
+| subloc1 = Spearcaller's Tower
+| descrip =
+
+| speech =
+:''"You're a powerful young Wizard... I'll grant you that. But let us see how you fare against one who's spent his lifetime mastering the use of traps!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+With a whistle and a yaulp, Sandor can summon a spear from across the room. Just don't let him summon his brother...
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Stun Block;
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Evil Snowman;
+Blizzard;
+Ice Wyvern;
+Blight Hound;
+Colossus;
+Troll;
+Vampire;
+Natural Attack (Balance 85x, 90%);
+
+| quests =
+Trapper Keeper;
+
+| gold =
+135 - 156;
+
+| hats =
+Bonfire Headdress;
+Cap of Chronicles;
+Cap of Constitution;
+Coif of Quietus*F4;
+Cowl of Morbidity;
+Equalizer's Coif;
+Halcyon Hood;
+Helm of Oblivion*F2*WMV;
+Ivy-Wrapped Cap;
+Lightning-Charged Mantle*F3*WMV;
+Mantle of the Icicle;
+Mythological Mantle;
+Shroud of the Equinox;
+Spearcaller's Deluge Mantle;
+Triton's Topper;
+Veil of Leaves;
+
+| robes =
+Blizzard Cloak;
+Chilling Cloak*F2;
+Cloak of the Seasons*F3*WMV;
+Fiery Tunic;
+Shibboleth Smock;
+Spearcaller's Smoldering Coat*F2*WMV;
+Storm Giant's Surcoat;
+Storyteller's Smock*F4;
+Terminus Wrap;
+Tunic of the Sphinx*F2;
+Verdant Vestment*F2;
+
+| boots =
+Ashen Footwraps;
+Boots of Equivalence*F2;
+Boots of the Bountiful;
+Burning Boots*F2;
+Earthrangers;
+Footgear of the North Wind;
+Frost Giant's Boots;
+Legend Walkers;
+Salamander-Hide Shoes;
+Sandals of Lost Aeons*F2;
+Sandals of Neutrality;
+Sandals of the Squall;
+Shoes of the Greatest Saga*F4*WMV;
+Shoes of the Whispering Dark*F2*WMV;
+Spearcaller's Snowboots*F3;
+Striders of the Thicket*F2*WMV;
+Undying Footwraps;
+
+| athames =
+Dauntless Dirk;
+Dragonblood Dirk;
+Sliver of Doubt*F2;
+Soothing Steel*F3;
+
+| amulets =
+
+| rings =
+Band of the Hearth;
+Ring of Dominance;
+Ring of the Carbuncle*F2;
+Ring of the Forefathers;
+Sapphire Studded Band*F3*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Memorial Fountain*F3*WMV;
+Small Corner Wall Ruins;
+Smoldering Tree;
+
+| cards =
+Dragonflies;
+Pest Zapper;
+
+| reagents =
+Cobalt;
+Ectoplasm*F5*WMV;
+Iron;
+Lead;
+Leather Straps*F5*WMV;
+Nickel*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F3*WMV;
+Goat Cheese*F3*WMV;
+Golden Grapes;
+Gummy Humongofrog*F4*WMV;
+King Banana*F3*WMV;
+
+| jewels =
+Baffle Opal;
+Balance-It Citrine;
+Blemished Defense Amethyst +22;
+Blemished Defense Onyx +22;
+Blemished Health Opal +42;
+Blemished PIP Opal +4%;
+Centaur Jade;
+Death-Eye Onyx;
+Donate Power Citrine;
+Dull Critical Citrine +2;
+Dull Critical Onyx +2;
+Dull Critical Peridot +2;
+Dull Critical Ruby +2;
+Dull Critical Sapphire +2*F2;
+Dull Defense Amethyst +25;
+Dull Defense Onyx +25;
+Dull Defense Sapphire +25;
+Dull Health Opal +49;
+Dull Health Opal +50*F2;
+Effective Opal;
+Effervescent Opal;
+Flawed Healing Opal +2%;
+Flawed Resilient Opal +2%;
+Storm-Boon Amethyst;
+Ultra Energy Opal;
+Ultra Rally Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fiery Boom Shroom;
+Maelstrom Snap Dragon*F2;
+Pink Dandelion*CR*F5;
+White Laugh-O-Dil*F5;
+
+| mounts =
+
+| spells =
+
+}}

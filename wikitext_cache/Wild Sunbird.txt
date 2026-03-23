@@ -1,0 +1,181 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 575
+| crecla = Crow
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Fire;
+
+| incresist =
+50% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sokkwi Ripper;
+
+| world = Krokotopia
+| location = Grand Arena
+| subloc1 = Bird Gate
+| descrip =
+*Two additional Sokkwi Rippers will appear if more than two Wizards are present.
+
+| speech =
+: ''"So, you are the new kid on the block? But maybe the block isn't big enough for the both of us. We'll see who stays, and who goes..."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 105 Fire Damage per Pip.
+
+| casts =
+Weakness;
+Fire Cat;
+Fire Elf;
+Leprechaun;
+Troll;
+Banshee;
+Scorpion;
+Locust Swarm;
+
+| quests =
+Battle of the Sunbird;
+
+| gold =
+25 - 41;
+
+| hats =
+Cowl of the Fortress;
+Cryptkeeper's Circlet;
+Durable Hood;
+Rough-Hewn Hood*F2*WMV;
+Sphinx's Circlet;
+Stout Hood;
+Sturdy Hood;
+Theurge's Hat;
+
+| robes =
+Glacial Tunic;
+Krokotopian Kaftan*F4;
+Powerful Vestment;
+Raiment of the Badlands;
+Robe of Talent;
+Robe of the Bastion;
+Robe of the Mirage;
+Sphinx's Vestment;
+Tunic of Energy;
+Vest of the Oasis;
+Vestment of Darkness;
+Vestment of Ignition;
+Vestment of the Arctic;
+
+| boots =
+Ancient Sandals;
+Biti Nirini's Torrid Boots;
+Boots of Talent;
+Boots of the Citadel;
+Boots of the Cyclone;
+Crystalline Footwraps;
+Flowering Shoes;
+Hardy Boots;
+Krokotopian Striders;
+Overseer's Shoes;
+Powerful Boots;
+Quartermaster's Boots;
+Sandals of Energy;
+Sandals of Tall Tales;
+Shoes of Adaptation;
+Shoes of the Desert;
+Slippers of the Oasis;
+
+| athames =
+Dagger of Solitude;
+Dirk of the Wasteland;
+Parched Kris;
+
+| amulets =
+
+| rings =
+Band of Equilibrium;
+Band of the Skies;
+Jewel of Obliteration;
+Loop of Quietude;
+Loop of the Defender;
+Ring of the Badlands;
+Sparkling Band;
+
+| wands =
+
+| decks =
+
+| items =
+Floor Torch;
+Hieroglyphic Ice Tablet;
+Krok Moon Plaque;
+Krok Sun Plaque;
+Purple Painted Column;
+Raised Storm Sarcophagus;
+Tall Palm Tree*CR;
+
+| cards =
+Accurate;
+Evil Snowman;
+Krokotillian*F3;
+Myth Trap;
+Sprite;
+Strong;
+Sunbird*F2*WMV;
+Weakness;
+
+| reagents =
+Copper*F2;
+Iron;
+Leather Straps*F2;
+Nickel;
+Spider Silk;
+
+| spellements =
+
+| snacks =
+Cracker*F6*WMV;
+Green Grapes*F3*WMV;
+Gummy Bloodbat;
+Nettle Root*F4;
+Tiny Fish*F5*WMV;
+
+| jewels =
+Chipped Mana Opal +11;
+Cracked Damage Jade +2;
+Cracked Defense Amethyst +12;
+Cracked Defense Opal +4*F2;
+Fire-Eye Ruby;
+Frost Beetle Sapphire;
+Steadfast Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Pink Dandelion*CR*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

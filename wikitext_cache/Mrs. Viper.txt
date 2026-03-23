@@ -1,0 +1,104 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 7,820
+| crecla = Viper
+| crecla2 = Snake
+| school = Storm
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+25%;
+
+| outboost =
+106%;
+
+| incboost =
+5% Myth;
+
+| incresist =
+70% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Diamondback;
+
+| world = Mirage
+| location = Thieves' Den
+| subloc1 = Backroom
+| descrip =
+Two {{Link|Creature|Social Club Snake}}s will appear if more than two Wizards enter the battle.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Storm Shield;
+Stormspear;
+Lightning Strike;
+Stormblade;
+Storm Trap;
+Storm Shark;
+Hammer of Thor;
+Natural Attack (Storm 130-260-390-520);
+Leviathan;
+Tempest;
+
+| quests =
+Old Is New Again;
+
+| gold =
+0;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

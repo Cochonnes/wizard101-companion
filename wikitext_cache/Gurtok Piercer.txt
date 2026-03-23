@@ -1,0 +1,323 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 5,600
+| crecla = Demon
+| crecla2 = Elephant
+| school = Ice
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Sharpshard Warrior;
+Sharpshard Warrior;
+
+| world = Dragonspyre
+| location = The Great Spyre
+| subloc1 = The Great Spyre (Upper)
+| lootchest = Piercer's Chest
+| descrip =
+Gurtok Piercer drops Level 50+ Athames for every School and is one of the two Gurtok Demons in The Great Spyre, the other being the {{Link|Creature|Gurtok Firebender}}.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+This demonic pachyderm chills in the higher levels of the Great Spyre.
+
+| extract class =
+Elephant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Death Damage per Pip
+
+| casts =
+Tower Shield;
+Stun Block;
+Ice Armor;
+Weakness;
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Ice Elf (30+210);
+Evil Snowman;
+Snow Shark;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Icezilla (650-730);
+Colossus;
+Troll;
+Vampire;
+
+| quests =
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:MooShu Badges|Oni Slayer]]''' {{Icon|Oni Slayer}} Badge and has not unlocked the '''[[Basic:Celestia Badges|Astrologist]]''' {{Icon|Astrologist}} Badge, the following drops will be available:
+*Chance of 1 Level 50+ Athame {{Icon|Athame}}
+*1-2 Claw {{Icon|Reagent}}
+*7 Spellements for Rank 2-6 Spells {{Icon|Spellement}}
+If a Wizard already has the Astrologist Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of The Great Spyre to acquire a [[Item:Level Scaling Elixir - 50|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+70 - 157;
+
+| hats =
+Equalizer's Coif*F2*WMV;
+Halcyon Hood*F2*WMV;
+Hood of the Vigilant*WMV;
+Mythological Mantle*WMV;
+Promethean Hood*F2*WMV;
+Reinforced Helmet*CR;
+Shroud of the Equinox*F2*WMV;
+Shroud of the Green;
+Triton's Topper;
+Wolverine's Helm*CR;
+
+| robes =
+Arbiter's Raiment*F2*WMV;
+Arboreal Robes*F2;
+Blizzard Cloak;
+Coat of the Zephyr*F2*WMV;
+Final Curtain*F2*WMV;
+Robe of Radiance*F2*WMV;
+Robe of the Deep*CR;
+Smock of the Frost Giant*F4*WMV;
+Storm Giant's Surcoat*WMV;
+Surcoat of the Charge*CR*F2*WMV;
+Tunic of Tradition*F2;
+Vestment of the Inferno*F3*WMV;
+Whirlwind Wrap*F2*WMV;
+
+| boots =
+Boots of Equivalence;
+Boots of the Titan*CR;
+Burning Boots;
+Dragonclaw Boots*F3*WMV;
+Footgear of the North Wind;
+Mocassins of the Oracle*F2*WMV;
+Sandals of Lost Aeons*WMV;
+Sandals of the Generous Earth;
+Sandals of the Squall;
+
+| athames =
+Claw of Conciliation;
+Dauntless Dirk;
+Dragon's Eye Dagger*F2*WMV;
+Gurtok Chill Spell Knife*BR*WMV;
+Gurtok Chillblade*BR*F2*WMV;
+Gurtok Ender's Blade*BR;
+Gurtok Ender's Spell Knife*BR*WMV;
+Gurtok Everthorn*BR*F2;
+Gurtok Everthorn Spell Knife*BR*WMV;
+Gurtok Firetusk*BR*F2;
+Gurtok Firetusk Spell Knife*BR*WMV;
+Gurtok Mythslayer*BR*F2*WMV;
+Gurtok Mythslayer Spell Knife*BR*WMV;
+Gurtok Scaleblade*BR;
+Gurtok Spell Knife*BR*WMV;
+Gurtok Telluric Spell Knife*BR*WMV;
+Gurtok Telluric Steel*BR;
+Searing Knife;
+
+| amulets =
+
+| rings =
+Dragonscale Ring*WMV;
+Rime-Edged Ring;
+Ring of Dominance*F2*WMV;
+Ring of the Forefathers*F2*WMV;
+Seal of the Gallium Paladin;
+
+| wands =
+
+| decks =
+
+| items =
+Jagged Rock Shard;
+Long Corner Wall Ruins*F3*WMV;
+Scorched Tree;
+Short Corner Wall Ruins;
+Singed Magic Book*F3;
+Small Corner Wall Ruins;
+
+| cards =
+Pest Zapper;
+
+| reagents =
+Brass*F2*WMV;
+Claw*BR*F2*WMV;
+Claw @ 2 Claw*BR;
+Cobalt*F3*WMV;
+Copper*F2*WMV;
+Lead;
+Nickel*F3*WMV;
+Spider Silk*F6*WMV;
+Tin*F3*WMV;
+
+| spellements =
+Banshee*BR;
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops*BR;
+Cyclops Minion*BR*F2*WMV;
+Earth Walker*BR;
+Evil Snowman*BR;
+Fire Elf*BR;
+Gearhead Destroyer*BR;
+Ghoul*BR;
+Helephant*BR*F2*WMV;
+Hydra*BR;
+Ice Wyvern*BR;
+Immolate*BR;
+Kraken*BR;
+Leprechaun*BR;
+Lightning Bats*BR*F2*WMV;
+Locust Swarm*BR*F2*WMV;
+Minotaur*BR;
+Nature's Wrath*BR;
+Phoenix*BR*F2*WMV;
+Scorpion*BR;
+Seraph*BR;
+Skeletal Pirate*BR;
+Snow Serpent*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Shark*BR*F2*WMV;
+Stormzilla*BR*F2*WMV;
+Sunbird*BR;
+Triton*BR;
+Troll*BR;
+Vampire*BR;
+Wraith*BR;
+
+| snacks =
+Flaming Soup*F4*WMV;
+Goat Cheese*F3*WMV;
+Golden Grapes*F4*WMV;
+Gummy Humongofrog*F3*WMV;
+King Banana*F2*WMV;
+
+| jewels =
+Blemished Damage Onyx +12*WMV;
+Blemished Damage Ruby +12*WMV;
+Blemished Defense Amethyst +21;
+Blemished Defense Amethyst +22*WMV;
+Blemished Defense Amethyst +23*WMV;
+Blemished Defense Amethyst +24;
+Blemished Defense Citrine +21;
+Blemished Defense Citrine +22;
+Blemished Defense Citrine +23;
+Blemished Defense Citrine +24;
+Blemished Defense Jade +21;
+Blemished Defense Jade +22*WMV;
+Blemished Defense Jade +23;
+Blemished Defense Jade +24*F2*WMV;
+Blemished Defense Onyx +21;
+Blemished Defense Onyx +22;
+Blemished Defense Onyx +23;
+Blemished Defense Onyx +24;
+Blemished Defense Opal +11*WMV;
+Blemished Defense Opal +12;
+Blemished Defense Peridot +21*WMV;
+Blemished Defense Peridot +22;
+Blemished Defense Peridot +23;
+Blemished Defense Peridot +24;
+Blemished Defense Ruby +21;
+Blemished Defense Ruby +22;
+Blemished Defense Ruby +23;
+Blemished Defense Ruby +24;
+Blemished Defense Sapphire +21;
+Blemished Defense Sapphire +22;
+Blemished Defense Sapphire +23;
+Blemished Defense Sapphire +24;
+Dull Accurate Citrine +6%;
+Dull Accurate Sapphire +6%;
+Dull Blocking Amethyst +4;
+Dull Blocking Onyx +4;
+Dull Blocking Opal +2;
+Dull Damage Peridot +13;
+Dull Health Opal +46*WMV;
+Dull Piercing Amethyst +2%*WMV;
+Flawed Damage Sapphire +10*WMV;
+Flawed Defense Amethyst +17;
+Flawed Defense Amethyst +18;
+Flawed Defense Amethyst +19;
+Flawed Defense Amethyst +20;
+Flawed Defense Citrine +17;
+Flawed Defense Citrine +18;
+Flawed Defense Citrine +19;
+Flawed Defense Citrine +20*WMV;
+Flawed Defense Jade +17;
+Flawed Defense Jade +18;
+Flawed Defense Jade +19;
+Flawed Defense Jade +20*WMV;
+Flawed Defense Onyx +17;
+Flawed Defense Onyx +18*F2;
+Flawed Defense Onyx +19;
+Flawed Defense Onyx +20;
+Flawed Defense Opal +9;
+Flawed Defense Opal +10;
+Flawed Defense Peridot +17;
+Flawed Defense Peridot +18;
+Flawed Defense Peridot +19;
+Flawed Defense Peridot +20;
+Flawed Defense Ruby +17;
+Flawed Defense Ruby +18*WMV;
+Flawed Defense Ruby +19;
+Flawed Defense Ruby +20;
+Flawed Defense Sapphire +17;
+Flawed Defense Sapphire +18;
+Flawed Defense Sapphire +19;
+Flawed Defense Sapphire +20;
+Flawed Resilient Opal +2%;
+Huge Energy Opal;
+Hydra Citrine;
+Plain Blocking Opal +3;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fiery Boom Shroom*F2*WMV;
+Maelstrom Snap Dragon*F2*WMV;
+Pink Dandelion*CR*F3*WMV;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

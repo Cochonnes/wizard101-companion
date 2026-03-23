@@ -1,0 +1,225 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 18,920
+| crecla = Dino
+| crecla2 = Raptor
+| school = Fire
+| startpips = 6
+| powerpips = Yes
+| critical =
+110 Any;
+
+| criticalblock =
+50 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Night Terror;
+
+| world = Azteca
+| location = Twin Giants
+| subloc1 = Lair of the Zero Hour
+| descrip =
+Two additional Night Terror Minions appear if more than two Wizards are present.
+
+| speech =
+:''"The Shadow Queen is all powerful. When Azteca is destroyed, those of us who have joined her will survive. You want this Key? Try to take it. I will catch you and peel your skin."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Joined up with the Shadow Queen so he could lean into some of his darker hobbies.
+
+| extract class =
+Dinos;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Glacial Shield;
+Black Mantle;
+Fireblade;
+Fire Trap;
+Fuel (+35%);
+Natural Attack (Fire 195-390-585);
+Meteor Strike (355-395);
+Phoenix (600-680);
+Efreet;
+Rain of Fire;
+Sun Serpent;
+
+| quests =
+Have You Seen Her Face;
+
+| gold =
+125 - 261;
+
+| hats =
+Coatl Lord's Hat;
+Sweet Kiss of Death Mask;
+Tree of Secrets Chac Mask;
+
+| robes =
+Black Sun Chac's Armor*F3*WMV;
+Glorious Xicolli Vest*F2;
+Grinning Death Xicolli Vest*F2;
+High Chac's Guarded Armor;
+Keeper of the Codex Vest;
+Lord of Night Robes*F2;
+Philososaur's Robes*F2;
+Song of the Lizard Coat;
+Tunic of the Broken Spear;
+Vestment of the Calavera;
+Vestment of the Hungry Lizard*F2*WMV;
+White Fire Chac's Armor*F2;
+
+| boots =
+Black Tears of Night Wraps*F2;
+Elite Jura Guard Stalkers;
+Heart of Sky Boots;
+Indigo Wing Striders*F2;
+Tree of Secrets Chac Runners;
+Twisted Fang Boots*F2*WMV;
+
+| athames =
+Thunder Horn's Rough Cutter;
+Wild Wing's Glorious Razor;
+Winged Tooth Knight's Hook;
+
+| amulets =
+Courage Charm of Jade Wings*F2*WMV;
+Golden Head of the Cold House;
+Home Hearth Relic*F2*WMV;
+Horizon of Underworld Charm;
+Necklace of Lost Ancestors;
+Pendant of the Wild Wings;
+Speaking Water Ornament;
+Thunder Horn's Coral Charm;
+
+| rings =
+
+| wands =
+New Moon Lance*F2*WMV;
+Spear of Breaking Dawn;
+Talon of the Storm Owl*F2;
+
+| decks =
+Calendar of the Spiral King*F2;
+King's Royal Portraits*F2*WMV;
+Lords of Night Pyramid Deck*F3;
+
+| items =
+Azteca Apocalypse Theme*F2*WMV;
+Azteca Main Theme;
+Azteca Pot;
+Bird Head Mount*F2;
+Clothesline;
+Starburst Frond;
+
+| cards =
+Chimera*F2;
+Colossal*F2;
+Extraordinary*F3*WMV;
+Forest Lord;
+Potent Trap*F2;
+Primordial;
+Ra;
+Rain of Fire;
+Sharpened Blade;
+Sirens;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F4*WMV;
+Black Pearl*F3;
+Blood Moss;
+Bone*F2*WMV;
+Bronze;
+Bronze Gear*F3*WMV;
+Cobalt*F2;
+Deep Mushroom*F2*WMV;
+Fire Blossom*F4*WMV;
+Fossil;
+Golden Pearl;
+Lava Lily*F3*WMV;
+Mist Wood*F5*WMV;
+Mithril;
+Nightshade;
+Ore*F2;
+Red Mandrake*F2;
+Silver*F2;
+Stone Block*F2*WMV;
+Sunstone*F3*WMV;
+Turquoise*F2*WMV;
+
+| spellements =
+
+| snacks =
+Apatotatoes;
+Aztecan Hot Chocolate;
+Chili Peppers*F3*WMV;
+Dr. Jalapeno;
+Glowing Star Fruit;
+Guava*F2;
+Gummy Wyrms;
+Jelly Baby*F2*WMV;
+Maize;
+Pterotomatoes;
+Quetzal Pretzel;
+Rex Tea*F2*WMV;
+Shiny Tomato*F2*WMV;
+Tamales;
+Zocalo Wings;
+
+| jewels =
+Blade of Life Jade;
+Blizzard Lizard Sapphire;
+Death-Shot Onyx;
+Mega Hurry Opal;
+Polished Blocking Citrine +11;
+Polished Critical Jade +11;
+Polished Critical Sapphire +11;
+Polished Damage Peridot +21;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Fiery Boom Shroom;
+Maelstrom Snap Dragon;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

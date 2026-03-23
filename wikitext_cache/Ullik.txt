@@ -1,0 +1,160 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 6,400
+| crecla = Grendel
+| school = Death
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Grendel Witch Doctor;
+Grendel Witch Doctor;
+
+| world = Grizzleheim
+| location = Helgrind Warren
+| location2 = Hall of Valor
+| descrip =
+Ullik is an ancient Grendel, one of {{Link|Creature|Jotun}}'s brothers. He is mightier than {{Link|Creature|Grettir}}, but not Jotun, and is proficient in the School of Death.
+
+| speech =
+(in Hall of Valor)
+:''"Come brothers, the fools have challenged all of us."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Balance Damage per Pip.
+
+| casts =
+Weakness;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Vampire;
+Skeletal Pirate;
+Scarecrow;
+Fire Elf (50+210);
+Lightning Bats;
+Locust Swarm;
+Ice Wyvern;
+
+| quests =
+
+| gold =
+95 - 129;
+
+| hats =
+Cap of Equilibrium;
+Circlet of the Unavoidable;
+Cowl of the Bolt*F2*WMV;
+Cryptid Hood*F2;
+Firebloom Cowl;
+Headgear of Revival;
+Hood of the Invariable;
+Igneous Cover;
+Mantle of Ingenuity;
+
+| robes =
+Gelid Garments;
+Harbinger's Smock;
+Inclement Wear*F2*WMV;
+Raiment of Rainfall;
+Robe of Remedy*F2*WMV;
+Thermic Longcoat;
+Tunic of Regularity;
+
+| boots =
+Contradictory Boots;
+Erudite Footwear;
+Firewalking Sandals*F2;
+Footgear of Acumen*F2*WMV;
+Footgear of the Undertow;
+Footwraps of Patience*F2;
+Iceclaw Boots*F2;
+Ranger's Boots;
+Slippers of the Seer;
+Telluric Striders;
+
+| athames =
+
+| amulets =
+
+| rings =
+Eye of the Ancients*F5*WMV;
+
+| wands =
+
+| decks =
+Runewarden's Deck*F6*WMV;
+
+| items =
+Heavy Dining Table*F2;
+
+| cards =
+Link;
+Skeletal Pirate;
+Steal Ward;
+
+| reagents =
+Bone*F3*WMV;
+Nickel;
+Pyrite;
+Red Mandrake;
+
+| spellements =
+
+| snacks =
+Glowing Rock Candy*F3;
+Meat Soup;
+Moon Pie*F2;
+Rock Candy;
+Spicy Chips*F2;
+Star Lollipop*F2*WMV;
+Tasty Biscuit;
+Wheat Cracker*F2*WMV;
+
+| jewels =
+Cracked Damage Amethyst +5;
+Dull Damage Jade +13;
+Dull Damage Onyx +13;
+Hydra Citrine;
+Myth-Proof Peridot;
+
+| pins =
+
+| pets =
+Red Cap*CR;
+
+| seeds =
+Couch Potatoes*CR;
+Evil Snow Peas*F2*WMV;
+Orange Dandelion;
+Pink Dandelion*CR;
+Pink Laugh-O-Dil;
+Rye Bread Fruit Bush;
+
+| mounts =
+
+| spells =
+
+}}

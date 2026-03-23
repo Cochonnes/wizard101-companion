@@ -1,0 +1,104 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 14,280
+| crecla = Tritop
+| school = Ice
+| masteries = Myth
+| startpips = 5
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Azteca
+| location = Pitch Black Lake
+| subloc1 = Corazon Cave
+| descrip =
+Wizards face this boss twice. This page is for the second encounter, in Corazon Cave. 
+
+After being defeated the first time, Zolo plots to ensure that the Wizard will fail to retrieve<br/>El Yollotl from Corazon Cave in {{Link|Location|Pitch Black Lake}}. This time, Zolo is a minion of the {{Link|Creature|Crimson Eagle}}<br/>so all drops from this encounter should be listed on that page.
+
+See {{Link|Creature|Zolo Stone Heart (Forest Clearing)}} for the first encounter with this boss.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Fortify;
+Tower Shield;
+Iceblade;
+Stun;
+Balefrost;
+Natural Attack (Ice 170-340-510, 70%);
+Handsome Fomori;
+Blizzard;
+Frost Giant;
+Woolly Mammoth;
+Lord of Winter;
+Earthquake;
+
+| quests = 
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

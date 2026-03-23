@@ -1,0 +1,196 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 22,005
+| crecla = Dino
+| crecla2 = Tritop
+| school = Life
+| school2 = Myth
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+19%;
+
+| outboost =
+98%;
+
+| incboost =
+30% Death;
+
+| incresist =
+41% Fire, Ice, Storm, Myth, Balance, Shadow;
+71% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Tut Tough (Balance);
+
+| world = Krokotopia
+| location = Vivarium
+| subloc1 = 
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"I shall hit you with sticks!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+Occasionally also hits with stones.
+
+| extract class =
+Dinos;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+'''Gorn Hits-With-Sticks'''
+*{{Icon|Round}} ''"Sticks and stones won't break these bones."'' - At the beginning of the first Round, or any Round Gorn doesn't have an Aura, he will cheat-cast an ''"Invulnerability"'' -300% Brace Aura for 99 Rounds.
+**This cheat will stop after Pork removes Gorn's Aura.
+*{{Icon|Damage}} ''"I shall hit you with sticks!"'' - Gorn will say this when he casts his Natural Attack.
+
+*Gorn's casts are scripted:
+**Round 1: Nature's Wrath
+**Round 2: Nature's Wrath (Tier 5a)
+**Rounds 3 & 4: Drop Bear Fury (Tier 4a)
+**Rounds 5 & 6: Centaur (Tier 5a)
+**Round 7: Forest Lord (Tier 5a)
+**Round 8: Natural Attack (Gorn Hits-With-Sticks)
+**Rounds 9 & 10: Bonetree Lord
+**Round 11+: Natural Attack (Gorn Hits-With-Sticks)
+
+'''{{Link|Minion|Captain Pork}}'''
+*{{Icon|Minion}} ''"But I can... with some preparation. Hold your ground, Wizard, I'll think of something."'' - Captain Pork will say this when he joins the battle.
+*{{Icon|Afterlife}} If Captain Pork is defeated, he will cast a version of Blessing, restoring himself to 100% Health.
+
+:{{Icon|Pip}} '''Pip Cycle''' - Captain Pork will repeat this cycle to give the Wizard the following "Pork's Request" Spells until he has all 3 School Pips.
+:*Round 1 - ''"Wizard, I need a Life Pip, quick!"'':
+:**{{GivesSpell|spells = 1|size = x150px|Pork's Request (Life)}}
+:*Round 2 - ''"Fire Pip incoming... right?"'':
+:**{{GivesSpell|spells = 1|size = x150px|Pork's Request (Fire)}}
+:*Round 3 - ''"Just a little Ice Pip to top this off."'':
+:**{{GivesSpell|spells = 1|size = x150px|Pork's Request (Ice)}}
+:*''"And now... try these sticks and stones, Gorn!"'' - When Captain Pork has a Life, Fire, and Ice Pip, he will use his turn to cast {{Link|Spell|Pork's Plan}}, which removes an Aura from, deals '''3,001''' Fire Damage to, and applies a +30,000 Damage Trap on all enemies.
+
+| spellnotes =
+*The Spells in the cast list below will be used during the Rounds specified in the cheat notes regardless of the caster's Pips.
+*As a Monstrology Minion, Gorn can only cast his Natural Attack.
+
+| casts =
+Nature's Wrath;
+Nature's Wrath (Tier 5a);
+Natural Attack (Gorn Hits-With-Sticks);
+Centaur (Tier 5a);
+Forest Lord (Tier 5a);
+Drop Bear Fury (Tier 4a);
+Bonetree Lord;
+
+| quests =
+Deep Pull 9;
+
+| gold =
+9 - 59;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Manifest Amulet of Bad Blood;
+Manifest Amulet of Revenge;
+Manifest Amulet of Wrath;
+Manifest Amulet of Vengeance;
+
+| rings =
+
+| wands =
+
+| decks =
+Manifest Cards of Payback;
+Manifest Cards of Reprisal;
+Manifest Cards of Retribution;
+Manifest Cards of Revenge*F2*WMV;
+Manifest Cards of Wrath;
+
+| items =
+
+| cards =
+Arcticzilla;
+Boreas Ifrit;
+Winged Sorrow;
+
+| reagents =
+
+| spellements =
+Bunyip's Rage;
+Count Croakula;
+Deathly Depths;
+Freeze Ray;
+Glimpse of Infinity;
+Gravestorm*F2*WMV;
+Improbable Gaze;
+Lord of the Jungle;
+Mockenspiel;
+Old One's Endgame*F3*WMV;
+Phantasmania!;
+Rainbow Serpent;
+S'more Machine;
+Scales of Destiny;
+Shu;
+Snack Attack;
+Taweret;
+Thoth;
+Tree of Strife;
+Wobbegong Frenzy;
+Zand the Bandit;
+
+| snacks =
+
+| jewels =
+Amazing Accurate Amethyst +15%;
+amazing Accurate Jade +15%;
+Amazing Health Opal +140;
+Amazing Health Opal +141;
+Amazing PIP Hematite +3;
+Deathly Depths Sapphire;
+Flawless Health Opal +148;
+Mandar Peridot;
+
+| pins =
+Balance Crushing Pin (140, Fire);
+Death Punishing Pin (140, Storm);
+Fire Disabling Pin (140, Death);
+Fire Disabling Pin (150, Myth)*F2*WMV;
+Ice Disabling Pin (140, Myth);
+Storm Disabling Pin (150, Myth);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

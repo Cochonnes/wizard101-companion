@@ -1,0 +1,95 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 16,480
+| crecla = Shadow Weaver
+| school = Ice
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Khrysalis
+| location = Fort Rachias
+| subloc1 = Metamorphosis Chamber
+| descrip =
+Gevan WishBleeder is considered a Minion to {{Link|Creature|Jovan HopeDrinker}}. All drops should go on Jovan's page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Volcanic Shield;
+Legion Shield (-35%);
+Iceblade;
+Ice Trap;
+Balefrost;
+Natural Attack (Ice 103-195-290);
+Frostbite (80+549);
+Frost Demon;
+Frost Giant (530);
+Lord of Winter;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

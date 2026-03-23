@@ -1,0 +1,121 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 13,860
+| crecla = Other Birds
+| school = Death
+| shadowslots = 2
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+27%;
+
+| outboost =
+137%;
+
+| incboost =
+5% Life;
+
+| incresist =
+73% Death;
+
+| outhealing =
+
+| inchealing =
+47%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Lemuria
+| location = Telos
+| subloc1 = Hall of Heroes (Challenge)
+| descrip =
+Solomon Crane is considered a Minion to [[Creature:Stallion Quartermane (Challenge)|Stallion Quartermane]]. All drops are recorded on that page.
+
+'''The First Team'''
+*{{Target|Dagger}} [[Creature:Solomon Crane (Challenge)|Solomon Crane]]
+*{{Target|Key}} [[Creature:Buck Gordon (Challenge)|Buck Gordon]]
+*{{Target|Gem}} [[Creature:The Shadoe (Challenge)|The Shadoe]]
+*{{Target|Spiral}} [[Creature:Dog Tracy (Challenge)|Dog Tracy]]
+
+'''The Second Team'''
+*{{Target|Book}} [[Creature:Mandar the Barbarian (Challenge)|Mandar the Barbarian]]
+*{{Target|Chalice}} [[Creature:Duck Savage (Challenge)|Duck Savage]]
+*{{Target|Wand}} [[Creature:Stallion Quartermane (Challenge)|Stallion Quartermane]]
+*{{Target|Potion}} [[Creature:The Bantam (Challenge)|The Bantam]]
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Dream Shield;
+Infection;
+Plague;
+Mass Infection;
+Virulent Plague;
+Deathblade;
+Dark Tribute;
+Mass Feint (+70%);
+Ghoul;
+Ship of Fools (Tier 3a);
+Deer Knight;
+Qismah's Curse;
+Natural Attack (Death 105-210-315-420);
+Snack Attack (Tier 3a);
+Winged Sorrow;
+Grim Reader (Tier 3a);
+Sleeping Toxin;
+Call of Khrulhu (Shadow);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Solomon Crane
+}}

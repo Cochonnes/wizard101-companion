@@ -1,0 +1,224 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 535
+| crecla = Krokotopian
+| crecla2 = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Life;
+
+| incresist =
+50% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Nirini Warrior;
+
+| world = Krokotopia
+| location = Palace of Fire
+| subloc1 = Akori's Chamber
+| descrip =
+Akori Nirini is one of the four members of the Nirini family in the Palace of Fire that is maintaining the spirit barrier for the {{Link|Location|Throne Room of Fire}}.  After [[Quest:Payback|helping]] the Royal Expeditionary Force beat back some of the Warriors and {{Link|Creature|Flame Guardian}}s, Wizards confront Akori and the other three Nirini in the final push into the Throne Room.
+*Two additional Nirini Warriors will appear if more than two Wizards are present.
+
+| speech =
+:''"You may have seen the fall of the other Nirini, but the next thing you will see is me celebrating my victory!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+Akori of the Nirini, the one who was lost first. Brought back to continue to serve the family in the Palace of Fire.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Weakness;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Lightning Bats;
+Evil Snowman;
+Cyclops;
+Natural Attack (Fire 100x);
+
+| quests =
+Give 'em Another Round;
+
+| gold =
+21 - 40;
+
+| hats =
+Conjurer's Hat;
+Cowl of Alacrity*F5*WMV;
+Cowl of Prediction*F4*WMV;
+Cowl of the Temple*F4*WMV;
+Durable Hood;
+Helm of the Bastion*F2;
+Helm of the Cyclone*F2;
+Mask of Humidity*F4*WMV;
+Mask of Proportions*F3*WMV;
+Necromancer's Ivory Hat*F6*WMV;
+Novitiate Hat;
+Pioneer's Helm*F3*WMV;
+
+| robes =
+Akori's Robe*F3*WMV;
+Balmy Tunic*F2*WMV;
+Cloak of Refuge*F2;
+Garment of Patience*F6*WMV;
+Glacial Tunic;
+Novitiate Robe;
+Raiment of the Badlands*F3;
+Robe of Reason*F3*WMV;
+Robe of Talent*F2;
+Runed Vestment*F2*WMV;
+Sorcerer's Maroon Cloak*F4*WMV;
+Sphinx's Vestment;
+Summertime Robes*F5*WMV;
+Torrid Cloak*F4*WMV;
+Tunic of Energy*F2;
+Tunic of Mortality*F2;
+Tunic of the Whirlwind;
+Vest of Alacrity*F3*WMV;
+Vestment of the Arctic;
+
+| boots =
+Ancient Sandals*F3*WMV;
+Boots of Imagination*F2;
+Boots of the Citadel*F2;
+Boots of the Cyclone;
+Crystalline Footwraps*F2;
+Diviner's Boots*F3*WMV;
+Initiate's Boots*F4*WMV;
+Novitiate Boots;
+Quartermaster's Boots;
+Shoes of Adaptation*F2;
+
+| athames =
+Akori's Dagger of Darkness*F5*WMV;
+Blade of Proportions*F6*WMV;
+Dagger of Solitude;
+Dirk of the Wasteland*F2;
+Knife of the Badlands*F4*WMV;
+Parched Kris*F2;
+Powerful Stiletto;
+Whirlwind Dagger*F4*WMV;
+
+| amulets =
+Akori's Deepwater Amulet*F4*WMV;
+
+| rings =
+Band of the Mirage*F2;
+Glittering Jewel*F4*WMV;
+Ring of the Badlands*F2;
+Sparkling Band;
+
+| wands =
+
+| decks =
+
+| items =
+Floor Torch*F2;
+Krok Sun Plaque*F2;
+Long Narrow Table*F5*WMV;
+Open Fire Sarcophagus*F6*WMV;
+
+| cards =
+Banshee;
+Evil Snowman;
+Fire Elf;
+Ghoul;
+Krokomummy;
+Krokotillian*F8*WMV;
+Meteor Strike*F2*WMV;
+Pixie*F2*WMV;
+Snow Serpent;
+Tempest*F2;
+
+| reagents =
+Bone*F3;
+Bronze Gear*F4*WMV;
+Copper*F3;
+Iron*F3*WMV;
+Nickel*F2;
+Pyrite*F4*WMV;
+
+| spellements =
+
+| snacks =
+Cracker*F5*WMV;
+Green Grapes*F3;
+Nettle Root*F6;
+Tiny Fish*F5*WMV;
+
+| jewels =
+Blood Bat Peridot;
+Chipped Damage Opal +4;
+Chipped Mana Opal +9;
+Chipped Mana Opal +10;
+Chipped Mana Opal +11;
+Cracked Accurate Ruby +2%;
+Cracked Damage Jade +4;
+Cracked Damage Onyx +4;
+Cracked Damage Opal +3;
+Cracked Damage Ruby +4*F2*WMV;
+Cracked Defense Amethyst +12;
+Cracked Defense Citrine +11;
+Cracked Defense Jade +12;
+Cracked Defense Peridot +12;
+Cracked Defense Ruby +12;
+Cracked Defense Sapphire +9;
+Cracked Defense Sapphire +10*F2*WMV;
+Determined Opal;
+Fire Cat Ruby*F2*WMV;
+Forceful Opal;
+Imp Jade*F3;
+Life-Away Jade;
+Life-Proof Jade;
+Life-Shot Jade;
+Mute Opal;
+Storm-Eye Amethyst;
+Storm-Proof Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F3;
+Pink Dandelion*CR*F12*WMV;
+
+| mounts =
+
+| spells =
+
+}}

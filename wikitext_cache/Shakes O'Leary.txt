@@ -1,0 +1,196 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 880
+| crecla = Rat
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+O'Leary Bruiser;
+
+| world = Marleybone
+| location = Chelsea Court
+| subloc1 = Shakes' Clocktower
+| descrip =
+*Two additional O'Leary Bruiser Minions will appear if more than two Wizards are present.
+*Wizards spell weaving into Storm can opt to defeat Shakes O'Leary 7 times for the "Shook O'Leary" badge.
+
+| speech =
+:''"You wanna play rough? Okay. Say hello to my little friend, Bruiser!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip.
+
+| casts =
+Storm Shield;
+Weakness;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Evil Snowman;
+
+| quests =
+Keeper of Secrets;
+Icon, I Can't;
+
+| gold =
+28 - 68;
+
+| hats =
+Cap of Ideals*F4*WMV;
+Cap of Symmetry;
+Cap of the Kraken*F9*WMV;
+Dandy Hat*F3*WMV;
+Enticing Cowl*F2;
+Grandiose Headwraps;
+Hat of Equation*F3*WMV;
+Headwrap of Incineration*F4*WMV;
+Helm of Horrors*F6*WMV;
+Opportunists' Cap;
+
+| robes =
+Affable Cloak*F2;
+Basking Robes;
+Charming Garment;
+Cloak of Civility;
+Debonair Garments;
+Delicate Garments*F2;
+Distinguished Robe*F2;
+Dramatic Uniform;
+Enticing Robe*F2;
+Frosty Vestment*F2;
+Garment of Preference*F2;
+Icy Tunic*F3*WMV;
+Mechanical Tunic*F6*WMV;
+Obligatory Cloak*F2*WMV;
+Robe of Extinction*F8*WMV;
+Robe of Paramount;
+Robe of the Affected*F2*WMV;
+Robe of the Aristocrat;
+Robe of the Exceptional;
+Robe of the Unicorn*F4*WMV;
+Urbane Robe;
+
+| boots =
+Boots of Fabrication;
+Boots of the Undisturbed;
+Clanker's Irritating Shoes*F2*WMV;
+Distinct Slippers;
+Flowering Canine Shoes*F5*WMV;
+Frozen Canine Shoes*F5*WMV;
+Graceful Slippers*F3*WMV;
+Jolting Boots;
+Pompous Footwraps*F3*WMV;
+Sandals of Civility*F2*WMV;
+Sandals of Dedication;
+Shoes of Inclination;
+Slippers of Tranquility*F2;
+
+| athames =
+Fink's Stiletto;
+Graceful Stiletto;
+
+| amulets =
+
+| rings =
+Ring of Rejuvenation*F2*WMV;
+Watchman's Decoder Ring*F7*WMV;
+
+| wands =
+Staff of Rejuvenation*F7*WMV;
+
+| decks =
+Deck of the Banshee;
+Deck of the Cyclops*F4*WMV;
+Enigmatic Deck*F8*WMV;
+
+| items =
+Bone;
+Empty Tin Cans;
+Engraved Pedestal*F7*WMV;
+Short Cement Post*F5*WMV;
+Silver Chest*F2;
+Square Metal Platform*F3*WMV;
+
+| cards =
+Giant;
+Heck Hound;
+Kraken;
+Satyr;
+Sniper;
+Vampire;
+
+| reagents =
+Bone*F14*WMV;
+Copper*F4*WMV;
+Iron*F4*WMV;
+Lead*F3*WMV;
+Leather Straps*F7*WMV;
+Nickel*F2*WMV;
+Pyrite;
+Tin*F6*WMV;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn*F3*WMV;
+Medium Fish*F2*WMV;
+Redskin Peanut*F2;
+Square Watermelon*F2;
+Stinky Cheese*F2*WMV;
+Wheat Cracker*F6*WMV;
+
+| jewels =
+Banshee Onyx;
+Chipped Accurate Amethyst +3%;
+Chipped Accurate Citrine +3%;
+Chipped Accurate Onyx +3%;
+Chipped Accurate Peridot +3%;
+Chipped Defense Opal +8;
+Chipped Defense Onyx +15;
+Chipped Defense Peridot +15;
+Cyclops Peridot*F2*WMV;
+Evil Snowman Sapphire;
+Flawed Accurate Opal +2%;
+Flawed Damage Opal +5*F3*WMV;
+Flawed Health Opal +26;
+Flawed Health Opal +29;
+Flawed Health Opal +30;
+Locust Swarm Citrine;
+Storm Shark Amethyst*F2;
+Sunbird Ruby*F2;
+
+| pins =
+
+| pets =
+Frog*F3;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

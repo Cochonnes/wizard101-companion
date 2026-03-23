@@ -1,0 +1,161 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 3,070
+| crecla = Dog
+| school = Balance
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Conscripted Mander (Tier 3);
+Conscripted Mander (Tier 3);
+
+| world = Housing Instance
+| location = Grand Tourney Arena
+| subloc1 = Grand Tourney Arena (Tier 3)
+| descrip =
+For the purpose of drops, Sir Steffan BadApple (Tier 3) is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+:''"Ah, the Stranger! I knew you would prove tougher than you looked, so I ensured you would fight Sir Dunc first. No matter who won, the winner would be worn down. Either way, I am fresh and eager to battle! I'll win praise from my master today!"''
+
+| cheatnotes =
+*{{Icon|Minion}} ''"I'm outnumbered! Mander, join your master!"'' - At the end of the first Round, Sir Steffan summons a Conscripted Mander (Tier 3).
+**At the end of the second Round, he summons another Conscripted Mander (Tier 3). He will continue summoning Minions throughout the battle whenever one is defeated or sacrificed.
+:*''"Mander, give me all your strength!"'' - When he is attacked, Sir Steffan BadApple sacrifices his Minions for 500 Health each.
+*{{Icon|Trap}} ''"Not Fair! You should be hamstrung!''" - If a Trap is placed on Sir Steffan, he will cast a Weakness on the Wizard.
+*{{Icon|Damage}} ''"Here's sand in your eye!"'' – Occasionally when attacked, Sir Steffan casts Sandstorm and places a {{Link|Spell|Black Mantle}} on one Wizard.
+
+| spellnotes =
+
+| casts =
+Spirit Shield;
+Weakness;
+Spirit Defuse;
+Balanceblade;
+Spirit Blade;
+Hex;
+Spirit Trap;
+Natural Attack (Balance 110-215-320);
+Spirit Blast;
+Power Nova;
+Judgement;
+
+| quest =
+Hedging Bets;
+
+| gold =
+108 – 259;
+
+| hats =
+Mask of the Faerie Court (Level 40+)*CR;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Bog Witch Bobblehead;
+Lady of the Lake Bobblehead;
+Large Willow Tree;
+
+| cards =
+Chimera;
+
+| reagents =
+Acorn;
+Aether;
+Aquamarine;
+Brass;
+Copper;
+Fire Blossom;
+Frost Flower;
+Grendelweed*F2;
+Kelp;
+Lava Lily*F2;
+Lead;
+Mist Wood;
+Nickel;
+Scrap Iron*F2;
+Shell;
+Spring;
+
+| spellements =
+
+| snacks =
+Arrow Root;
+Big Squash;
+Black Cap Crisps;
+Caliburnt Toast;
+Chocolate Comet*F2;
+Cow Pie;
+Crunch Apple;
+Crystal Custard;
+Deepwater Toffee;
+Glowing Rock Candy;
+Grilled Cheese*F2;
+Large Fish;
+Large Watermelon;
+Moon Pie;
+Pixie Parsnips;
+Pomegranite;
+Seraph Food Cake;
+Shepherd's Crook Pie;
+Weirwood Cake;
+Wormy Apple*F2;
+Wyrmy Apple;
+
+| jewels =
+Add Health Opal;
+Blemished Health Opal +40;
+Energy Opal;
+Flawed Damage Amethyst +10;
+Flawed Damage Sapphire +10;
+Power Play Citrine;
+
+| pins =
+
+| pets =
+Black Spider;
+Blue Ghost;
+Dark Sprite;
+
+| seeds =
+Silver Trumpet Vine*CR;
+
+| mounts =
+
+| spells =
+
+}}

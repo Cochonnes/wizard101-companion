@@ -1,0 +1,173 @@
+{{Stub|which version of the '''Mutate''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,555
+| crecla = Raven
+| school = Storm
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Darkwing Chopper;
+
+| world = Grizzleheim
+| location = Sudrilund
+| subloc1 = Kormak's Cave
+| descrip =
+Two additional {{Link|Creature|Darkwing Hewer}} Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Is this another of Vanir Stormroarer's envoys? No matter! You cannot bargain for peace with Sudri. I'll throw you in the cage with the other fool."''
+
+| cheatnotes =
+*{{Icon|Round}} ''"Help each other to defeat me!"'' - At the start of the battle, Kormak will cast a -65% Tower Shield.
+** {{Link|Spell|Steal Ward}} and {{Link|Spell|Pierce}} can be used to safely remove the Tower Shield.
+**After an attack against him (not including subsequent Damage over Time), he replenishes his -65% Tower Shield by interrupt.
+***If you use an Attack Spell that hits more than once, such as {{Link|Spell|Minotaur}} or {{Link|Spell|Hydra}}, he will put up Shields to match how many times he was hit.
+*{{Icon|Charm}} ''"Now's your chance!"'' - Whenever a Wizard casts a single-target Charm on a teammate, he will interrupt cast a version of Cleanse Ward to remove all Shields and Traps (including Prisms) that are on him.
+**Spells such as {{Link|Spell|Bladestorm}} do not trigger this cheat.
+**Spells from Pets do not trigger this cheat.
+**{{Link|Spell|Vaporize}} can dispel this cheat.
+
+| spellnotes =
+
+| casts =
+Stormblade;
+Storm Trap;
+Darkwind;
+Lightning Bats;
+Kraken;
+Stormzilla;
+Tempest (6 Pip);
+Triton;
+Tempest;
+Natural Attack (Storm 125x, 70%);
+
+| quests =
+Black Feathers;
+
+| gold =
+74 - 117;
+
+| hats =
+Blustering Bear Hat;
+Cowl of Justice*F3;
+Cowl of Spirit Calling*F2;
+Hopping Bear Hat;
+Horned Helm of Courage*F2;
+
+| robes =
+Bear's Heart Jerkin;
+Coat of Ages;
+Jerkin of the Great Bear;
+Raiment of Ash*F3;
+Raiment of Smoke*F3;
+
+| boots =
+Barbarian's Bold Boots*F2;
+Barbarian's Brave Boots*F3*WMV;
+Barbarian's Courage Boots*F2;
+Barbarian's Daring Boots*F3*WMV;
+Barbarian's Fearless Boots;
+Barbarian's Fierce Boots*F2*WMV;
+Barbarian's Valorous Boots*F2*WMV;
+Biting Bear Boots;
+Snarling Bear Boots;
+
+| athames =
+Bear's Claw of Balance*F3*WMV;
+
+| amulets =
+Valkyrie's Moonlight Charm;
+
+| rings =
+Ring of the Hunting Wolf;
+Ring of the Ravenous Wolf;
+Ring of the Wolf's Song;
+
+| wands =
+Staff of the Boreal Bear;
+
+| decks =
+
+| items =
+Austrilund Main Theme*F2;
+Sudrilund Main Theme;
+
+| cards =
+Enfeeble (-3)*F2;
+Giant;
+Insane Bolt*F4*WMV;
+Mutate Beetle;
+Precision;
+Sniper;
+Sunbird;
+Supercharge*F2*WMV;
+Talos;
+
+| reagents =
+Bone*F6*WMV;
+Brass;
+Bronze;
+Cobalt;
+Steel;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F2;
+Golden Grapes;
+Gummy Humongofrog;
+Salmonberry;
+Shiny Tomato*F2;
+Uni-Corn*F2*WMV;
+
+| jewels =
+Bananas! Opal;
+Balanceblade Talent Citrine;
+Clock Spider Citrine;
+Curse Giver Onyx;
+Mass Myth Prism Peridot;
+Plain Blocking Citrine +6;
+Plain Blocking Onyx +6;
+Plain Damage Citrine +15;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Evil Snow Peas;
+Orange Dandelion;
+Snap Dragon;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,236 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,890
+| crecla = Wizard
+| crecla2 = Golem
+| school = Storm
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Armada Marine;
+Armada Marine;
+Armada Marine;
+
+| world = Zafaria
+| location = Baobab Market
+| subloc1 = Telegraph Box (Zafaria)
+| descrip =
+During the [[Basic:Five B.O.X.E.S.|Five B.O.X.E.S. Event]], Custos Decimus can be found in the Telegraph Box (Zafaria) instance.
+*As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+A specialized unit customized for decimation. The name was a placeholder key that never got swapped out.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 145-285-435);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Water Efreet (-90%);
+Tempest;
+
+| quests =
+The Android Invasion;
+
+| gold =
+187 - 1,440;
+
+| hats =
+Bushfire Hat;
+Cold Chieftain's Mask;
+Courageous Grower's Hat;
+Greenwarden's Brilliant Mask (Level 60+)*CR;
+Greenwarden's Brilliant Mask (Level 70+)*CR;
+Greenwarden's Energetic Mask (Level 60+)*CR;
+Greenwarden's Energetic Mask (Level 70+)*CR;
+Greenwarden's Peaceful Mask (Level 60+)*CR;
+Greenwarden's Peaceful Mask (Level 70+)*CR;
+Hood of the Forgotten;
+Hot-Tempered Chieftain's Mask;
+Mask of the Great Patapon;
+Turban of the Olyphants;
+
+| robes =
+Cloak of Conformity*F2*WMV;
+Darajani Havoc Robes*F2;
+Fire Valley Outfit;
+Greenwarden's Brilliant Shroud (Level 70+)*CR;
+Greenwarden's Energetic Shroud (Level 70+)*CR;
+Greenwarden's Peaceful Shroud (Level 70+)*CR;
+Robes of the Cold Night;
+Shaman's Winter Protection;
+Storm Caller's Outfit*F2;
+Tunic of Darajani Honor;
+
+| boots =
+Baxby's Noble Trackers;
+Big Sky Striders;
+Doctor's Firestorm Walkers;
+Greenwarden's Brilliant Boots (Level 60+)*CR;
+Greenwarden's Brilliant Boots (Level 70+)*CR;
+Greenwarden's Energetic Boots (Level 60+)*CR;
+Greenwarden's Energetic Boots (Level 70+)*CR;
+Greenwarden's Peaceful Boots (Level 60+)*CR;
+Hot and Cold Rangers;
+Hunter Prey Rangers;
+Spider's Storied Wraps;
+
+| athames =
+
+| amulets =
+
+| rings =
+Amahle's Striped Band;
+Elissa's Chill Band;
+Mandisa's Star Stone;
+Mansa's Dream Stone;
+Shaka's Lightning Loop;
+Tanei's Ghost Ring;
+
+| wands =
+Greenwarden's Energetic Staff (Level 60+)*CR;
+Greenwarden's Peaceful Staff (Level 60+)*CR;
+
+| decks =
+
+| items =
+Birdbath;
+Birdcage*F2;
+Deep Sea Music Maker;
+Five B.O.X.E.S. Theme*F2*WMV;
+Pigswick Player;
+Skull Island Combat Theme;
+Skull Island Main Theme;
+
+| cards =
+Availing Hands*F9*WMV;
+Clockwork Spider*F7*WMV;
+Elemental Defuse*F6;
+Empower*F5;
+Enfeeble (-3);
+Gargantuan;
+Infallible*F2*WMV;
+Insane Bolt*F6*WMV;
+Pest Zapper*F4;
+Polymorph Elemental (Fire);
+Polymorph Elemental (Storm)*F2*WMV;
+Polymorph Treant;
+Regenerate @ Regenerate (Wyvern's Hoard Pack)*F3*WMV;
+Spirit Defuse*F8*WMV;
+Storm Efreet*F8*WMV;
+Supercharge*F3;
+Uncanny Magic @ Uncanny Magic (Wyvern's Hoard Pack)*F3*WMV;
+Unstoppable*F4*WMV;
+
+| reagents =
+Bronze;
+Bronze Gear*F3;
+Cobalt;
+Ectoplasm*F2;
+Nickel*F2;
+Sonic Spring*F2;
+Steel;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2*WMV;
+Flaming Soup;
+Flapjacks;
+Glowing Star Fruit;
+Glowing Taffy;
+Goat Cheese;
+Golden Apple;
+Golden Grapes*F2*WMV;
+Gummy Humongofrog;
+Jelly Baby*F2*WMV;
+Kola Nuts;
+Spicy Drumstick*F2*WMV;
+Strawberry Cupcake;
+Submarine Sandwich;
+
+| jewels =
+Big Rally Opal;
+Death-Proof Onyx;
+Ice-Shot Sapphire;
+Life-Away Jade;
+Opaque Blocking Jade +7;
+Opaque Blocking Ruby +7;
+Opaque Critical Ruby +7;
+Opaque Damage Opal +9;
+Opaque Defense Peridot +33;
+Opaque Health Opal +68;
+Opaque Piercing Amethyst +4%;
+Opaque Piercing Jade +4%;
+Plain Damage Jade +16;
+Plain Defense Amethyst +32;
+Plain Defense Jade +32;
+Sharp Opal;
+
+| pins =
+
+| pets =
+Imp*F5*WMV;
+
+| seeds =
+Burning Snap Dragon*F2;
+Couch Potatoes*CR*F3*WMV;
+Fickle Pickle;
+Helephant Ears*F3*WMV;
+King Parsley*CR*F2;
+Orange Dandelion;
+Trumpet Vine;
+
+| mounts =
+Digmoore Pogo Stick*7*F3*WMV;
+Orange Fairy Wings*1*F2;
+
+| spells =
+
+}}

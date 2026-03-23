@@ -1,0 +1,183 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 12,160
+| crecla = Goliath
+| school = Ice
+| startpips = 3
+| powerpips = Yes
+| critical =
+97;
+
+| criticalblock =
+57;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+70% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Painted Spider;
+
+| world = Khrysalis
+| location = Bastion
+| subloc1 = Weeping Tower
+| descrip =
+
+| speech =
+:''"I see you got by the Painted Spiders.  I drew the short lot and now I guess it is my job to face you.  You've traveled a long way just to die, stranger."''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Vengeance;
+Tower Shield;
+Iceblade;
+Ice Trap;
+Freeze;
+Balefrost;
+Natural Attack (Ice 153-245-340);
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Frostbite;
+Icezilla (650-730);
+Colossus;
+Frost Giant;
+Snow Angel;
+Woolly Mammoth;
+
+| quests =
+Quality of Mercy;
+
+| gold =
+141 - 233;
+
+| hats =
+Burrower's Barbed Helmet*F2*WMV;
+Kermes Fire Miner's Helmet*F3;
+
+| robes =
+Burrower's Rainstorm Gear*F5*WMV;
+Digger Drone Tactical Garb*F2;
+
+| boots =
+Flame Legs Coalwalkers;
+
+| athames =
+Burrower Claw of Unrest;
+
+| amulets =
+Amulet of the Mouse Scout;
+Blue Razor Collar;
+Locket of the QuietOne*F2*WMV;
+
+| rings =
+Royal Guard's Signet*F3*WMV;
+Tyrian Gorge Stone*F3*WMV;
+
+| wands =
+BlackFur's Blade;
+Long Edge of BrightEyes*F2;
+RunningBuck's Razor*F2*WMV;
+
+| decks =
+Bumbler's Sleetfall Pack;
+Case of Engulfing Flames;
+Lightning Rider's Deck;
+
+| items =
+Khrysalis Bastion Theme;
+Khrysalis Thrives Theme;
+
+| cards =
+Black Widow*F2;
+Choke;
+Death Scarab;
+Fire Beetle;
+Frost Beetle;
+Life Scarab;
+Mass Infection;
+Scarab;
+Storm Beetle;
+
+| reagents =
+Black Lotus;
+Blood Moss;
+Bone*F4*WMV;
+Bronze Gear*F3*WMV;
+Deep Mushroom*F3;
+Draconium;
+Fire Blossom;
+Fossil*F2*WMV;
+Golden Pearl*F3*WMV;
+Iron;
+Lava Lily*F2*WMV;
+Mist Wood*F3*WMV;
+Mithril;
+Nickel;
+Nightshade;
+Ore;
+Orichalcum;
+Pyrite;
+Red Mandrake*F4*WMV;
+Silver;
+Stone Block;
+Tungsten*F2;
+Turquoise*F2;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Dr. Jalapeno;
+Flaming Soup;
+Flapjacks;
+Glowing Dragon Fruit;
+Glowing Star Fruit;
+Goat Cheese;
+Golden Apple;
+Gummy Humongofrog;
+King Banana;
+Salmonberry;
+Shiny Tomato*F2*WMV;
+Submarine Sandwich;
+Uni-Corn*F3;
+
+| jewels =
+Blood Bat Peridot;
+Chipped PIP Opal +1%;
+Clear Blocking Opal +5;
+Cracked Defense Jade +12;
+Death-Eye Onyx;
+Polished Defense Hematite +41;
+Polished Defense Ruby +42;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Burning Snap Dragon;
+Queen Crape Myrtle;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

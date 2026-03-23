@@ -1,0 +1,335 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 12,800
+| crecla = Undead
+| school = Shadow
+| school2 = Death
+| masteries =
+Ice;
+
+| cheats = Yes
+| shadowslots = 3
+| startpips = 3
+| powerpips = Yes
+| critical =
+108 Any;
+
+| criticalblock =
+234 Any;
+
+| outpierce =
+5%;
+
+| outboost =
+120%;
+
+| incboost =
+10% Fire, Life;
+
+| incresist =
+40% Ice, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Mirage
+| location = Chronoverge
+| subloc1 = East Time Dunes
+| descrip =
+*Shadowbones is the Shadow version of [[Creature:Rattlebones (Rank 14)|Rattlebones]], after being resurrected by [[NPC:Old Cob|Grandfather Spider]]. He is the first Boss encountered in the {{Link|Location|Sands of Time}}.
+*Uses Pip Conversion.
+
+| speech =
+:''"I can't believe this! When Grandfather Spider dragged me from the grave, I thought he was pulling my leg, and he was! Ha! But how could I pass up even a remote chance to face you again? And with Shadow Magic? If only I had this before! Come! Give me my vengeance!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Mirage
+| tome description =
+Though once rattled by the sight of a mere apprentice, this resurrected, Shadow-enhanced entity has no fear whatsoever.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tardiness will not be tolerated!"'' - If a Wizard joins the duel after the Second Round, Shadowbones will cast {{Link|Spell|Mana Burn}} at the Wizard.
+*{{Icon|Manipulation}} ''"Shadow-shadow! I love shadow!"'' - He will randomly cast Dark Convert once in the fight, which converts three Pips into one Shadow Pip for himself.
+*{{Icon|Feint}} ''"Why don't we trade!"'' - If a Wizard places a {{Link|Spell|Feint}} on Shadowbones, he will cast an Ice version of {{Link|Spell|Swap Ward}} to exchange it with the Wizard.
+:*{{Link|Spell|Mass Feint (+75%)}} does not trigger this cheat.
+:*The Balance version of {{Link|ItemCard|Feint}} does not trigger this cheat.
+:*{{Link|Spell|Indemnity}} can be used to avoid this cheat.
+*{{Icon|Heal}} ''"Let's dampen the heals!"'' - If a Wizard casts a Healing Spell, he will cast {{Link|Spell|Doom and Gloom (-75%)}}.
+:*Pet Heals will trigger this cheat.
+*{{Icon|Aura}} ''"Oh, how cute!"'' - If any type of Fairy Spell is used (by friend or foe), he will cast {{Link|Spell|Magnify}} on himself.
+
+| spellnotes =
+*Casts a protected Tower Shield (-55%), Wraithblade, and Sharp Wraithblade.
+'''Natural Attack:'''
+*Deals 82.5 Shadow Damage per Pip to all enemies, rounded down
+
+| casts =
+Brace;
+Dream Shield (-75%);
+Tower Shield (-55%);
+Volcanic Shield (-75%);
+Plague (-25%);
+Wraithblade;
+Sharp Wraithblade;
+Feint (All Enemies);
+Dark Convert;
+Freeze (80%);
+Dark Sprite (Shadow);
+Deer Knight (Shadow);
+Natural Attack (Shadowbones);
+Red Banshee;
+Vampire (375);
+Call of Khrulhu;
+Winged Sorrow;
+Ominous Scarecrow (Death);
+Ice Bats (215);
+Abominable Weaver;
+Snow Angel (6 Pip);
+
+| quests =
+The Sands of Time;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' Badge and has not unlocked the '''[[Basic:Empyrea Badges|Hero of Light and Shadow]]''' Badge, the following drops will be available:
+*5 Spellements will drop each time from '''any''' School for their respective rank 9, 10, King Artorius, Polaris, and Mirage Spells.
+
+| gold =
+151 - 224;
+
+| hats =
+Time Warden Downpour Kavuk*F10*WMV;
+Time Warden Kavuk of Truth*F9*WMV;
+Time Warden Snowdrift Kavuk*F2*WMV;
+Time Warden's Ornate Kavuk*F5*WMV;
+
+| robes =
+Time Warden's Ornate Thobe*F3*WMV;
+
+| boots =
+Time Warden Galesh of Gloom*F8*WMV;
+Time Warden Galesh of Reason*F8*WMV;
+Time Warden's Ornate Galesh*F4*WMV;
+
+| athames =
+Khanjar of Tetrus Prison*F4*WMV;
+
+| amulets =
+Ampul of Tetrus Prison*F5*WMV;
+Tetrus Ampul of Isolation*F4*WMV;
+Tetrus Ampul of Purpose*F2*WMV;
+
+| rings =
+Ringlet of Tetrus Prison*F6*WMV;
+Tetrus Ringlet of Fusion*F2;
+Tetrus Ringlet of Purpose*F6*WMV;
+Tetrus Ringlet of Rumination*F6*WMV;
+
+| wands =
+Time Warden's Ornate Kilij*F3*WMV;
+
+| decks =
+Tetrus Prison Deck*F2*WMV;
+
+| items =
+Mirage Canyon Theme 1*F3*WMV;
+Mirage Canyon Theme 2*F2*WMV;
+Mirage Chronoverge Com Theme*F3;
+Mirage Chronoverge Theme;
+Mirage City Combat Theme*F2;
+Mirage City Tense Theme;
+Mirage City Theme;
+Mirage City Theme 2;
+Mirage Den of Thieves Theme*F2;
+Mirage Desert Canyons Theme*F2*WMV;
+Mirage Desert Combat Theme*F2;
+Mirage Jungle Combat Theme*F2*WMV;
+Mirage Jungle Theme;
+Mirage Magic Carpet Theme;
+Mirage Nomad Theme*F2*WMV;
+Mirage Palace Theme;
+Mirage Serpent Theme*F2;
+Mirage Spider Speaks Theme;
+
+| cards =
+
+| reagents =
+Aether*F14*WMV;
+Agave Leaves*F9*WMV;
+Agave Nectar*F5*WMV;
+Amber*F4*WMV;
+Amber Dust*F7*WMV;
+Aquamarine*F3*WMV;
+Astral Shard*F6*WMV;
+Braided Vine;
+Draconium*F2*WMV;
+Fire Blossom;
+Golden Pearl*F7*WMV;
+Iridium;
+Merle's Whisker;
+Mithril*F5*WMV;
+Orichalcum*F2*WMV;
+Scales*F4*WMV;
+Silver*F5*WMV;
+Stardust*F2*WMV;
+Steel*F14*WMV;
+Sunstone*F8*WMV;
+Titanium*F7*WMV;
+Tungsten*F6*WMV;
+Turmeric*F13*WMV;
+Turquoise*F8*WMV;
+Vine*F3*WMV;
+
+| spellements =
+Celestial Calendar*BR;
+Climaclysm*BR;
+Nested Fury*BR;
+Snowball Barrage*BR;
+Winged Sorrow*BR;
+
+| snacks =
+Beast Wellington*F4*WMV;
+Beetle Cream Soda*F3*WMV;
+Chalupacabra*F6*WMV;
+Eye Candy*F3*WMV;
+Hard Boiled Beetle Eggs*F2;
+Hot Cross Buns;
+Mustachios*F2*WMV;
+Satyr Chow*F2*WMV;
+Ships 'n' Queso*F4*WMV;
+Veggie Juice*F2*WMV;
+
+| jewels =
+Brace Opal*F2;
+Chastisement Opal;
+Cycle of Life Opal;
+Epic Opal;
+Magnify Opal;
+Punishment Opal;
+Radical Opal;
+Reliquary Opal*F3*WMV;
+Renew Opal;
+Shiny Blocking Amethyst +16;
+Shiny Blocking Citrine +16;
+Shiny Blocking Hematite +16;
+Shiny Blocking Jade +16;
+Shiny Blocking Onyx +16*F2;
+Shiny Blocking Sapphire +16;
+Shiny Critical Amethyst +16;
+Shiny Critical Citrine +16;
+Shiny Critical Hematite +16;
+Shiny Critical Jade +16;
+Shiny Critical Onyx +16*F2;
+Shiny Critical Ruby +16;
+Shiny Critical Sapphire +16*F2;
+Shiny Damage Amethyst +26;
+Shiny Damage Onyx +26;
+Shiny Damage Peridot +26*F3*WMV;
+Shiny Defense Amethyst +51;
+Shiny Defense Amethyst +52;
+Shiny Defense Hematite +52;
+Shiny Defense Jade +51;
+Shiny Defense Onyx +50;
+Shiny Defense Peridot +51;
+Shiny Defense Peridot +52;
+Shiny Defense Ruby +51;
+Shiny Defense Sapphire +51;
+Shiny Defense Sapphire +52*F2*WMV;
+Shiny Health Opal +111*F2*WMV;
+Shiny Health Opal +112*F2*WMV;
+Shiny Health Opal +113;
+Shiny Health Opal +114;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46*F2*WMV;
+Shiny Mana Opal +47*F2*WMV;
+Shiny PIP Hematite +2;
+
+| pins =
+
+| pets =
+MaCaw*CR*F10;
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears;
+Baby Carrots;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts;
+Boom Shroom;
+Boon Tree*CR;
+Bread Fruit Bush*F3*WMV;
+Clockwork Flower*F3*WMV;
+Cornbread Fruit Bush;
+Couch Potatoes*CR*F2*WMV;
+Dandelion;
+Deadly Fly Trap;
+Deadly Ninja Fig*F2*WMV;
+Desparagus (Seed)*F2*WMV;
+Evil Magma Peas*CR*F2*WMV;
+Evil Snow Peas;
+Face Palm*F2;
+Fickle Pickle*F2*WMV;
+Fish on a Vine*F2*WMV;
+Frozen Fly Trap;
+Golden Couch Potatoes*F2*WMV;
+Goose Tree;
+Green Snow Apples;
+Helephant Ears*F2*WMV;
+Honey Bee Plant;
+Honey Sickle;
+Ivy League*CR;
+King Parsley*CR*F2;
+Laugh-O-Dil;
+Maelstrom Snap Dragon*F2*WMV;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Missile Toe;
+Ninja Fig*CR*F3*WMV;
+Orange Bell Pepper*CR;
+Orange Dandelion;
+Pink Huckleberries*F2;
+Prickly Bear Cactus*F3*WMV;
+Purple Bell Pepper;
+Purple Grapes of Wrath*F2*WMV;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Red Couch Potatoes*F2*WMV;
+Red Grapes of Wrath;
+Red Huckleberries*F2;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Snap Dragon;
+Snow Apples;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Sunion*CR;
+Sword Fern*CR*F2*WMV;
+Trumpet Vine;
+Venus Fly Trap*F2;
+White Desparagus;
+White Laugh-O-Dil;
+White Tiger Lily*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

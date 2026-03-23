@@ -1,0 +1,118 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 24,000
+| crecla = Eagle
+| school = Sun
+| masteries =
+Fire;
+Ice;
+Storm;
+Myth;
+Life;
+Death;
+Balance;
+
+| shadowslots = 1
+| startpips = 7
+| powerpips = Yes
+| critical =
+122;
+
+| criticalblock =
+38;
+
+| outpierce =
+25%;
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Zeus Exalted Challenge
+| subloc1 = 
+| descrip =
+Cronus (Zeus Exalted Challenge) is considered a Minion to {{Link|Creature|Zeus Sky Father (Zeus Exalted Challenge)}}. All drops, cheats, and speech are recorded on that page.
+*Cronus will always occupy the duel circle's final spot.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Empowerment;
+Infallible;
+Dragonspear (+10%);
+Sun Blade (+35%);
+Balanceblade;
+Sun Trap (+25%);
+Hex;
+Natural Attack (Cronus Ice);
+Natural Attack (Cronus Death);
+Gaze of Fate;
+Natural Attack (Cronus Balance);
+Ra;
+Natural Attack (Cronus Storm);
+Natural Attack (Cronus Myth);
+Celestial Calendar;
+Natural Attack (Cronus Fire);
+Sun Serpent;
+Natural Attack (Cronus Life);
+Spinysaur;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

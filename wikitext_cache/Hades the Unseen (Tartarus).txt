@@ -1,0 +1,291 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 18,000
+| crecla = Other Birds
+| school = Death
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Poseidon Earth-Shaker (Tartarus);
+Zeus Sky Father (Tartarus);
+
+| world = Wizard City
+| location = Tartarus
+| subloc1 = Hall of Hades
+| lootchest = Hades' Chest
+| descrip =
+Hades the Unseen is the final Boss of Tartarus. Defeating him is the final step in completing the last trial of the Immortal Games, and becoming the [[Basic:Aquila Badges| Glorious Golden Archon]]. All drops received during this battle should be recorded on this page.
+*For the Challenge version of this battle, see {{Link|Creature|Hades the Unseen (Tartarus, Challenge)}}.
+
+| speech =
+:'''Hades:''' ''"Inglorious Wizard, you think you can topple the great Immortals of Aquila with your magic spells?  You have done well to get so far, granted.  But I don't think you have what it takes to defeat me... and my brothers!"''
+:'''Poseidon:''' ''"You have come far, little Wizard, since last we battled.  Are you ready to face the full fury of the sea?"''
+:'''Zeus:''' ''"Do not fear, Wizard.  We set the bar so high to ensure that only the truly heroic earn our greatest favors.  We will not hold back this time.  If you fall, you will live in the golden Elysian Fields for blessed eternity."''
+
+| cheatnotes =
+*Each of the Immortals may gain an extra Pip or Power Pip at the start of each Round.
+
+:'''Hades the Unseen'''
+*{{Icon|Round}} ''"The sands of your time are running out!"'' - Hades will use his turn to cast Impending Doom on a random Wizard.
+**If a Spell is used to push the Damage over Time, such as {{Link|Spell|Shift}}, Hades will use {{Link|Spell|Triage}} to remove it.
+*{{Icon|Damage}} ''"Ahhh, the glorious taste of defeat!"'' - If any Wizard is defeated, Hades will cast a Death Spell that restores '''1,890''' Health over 3 Rounds to all Allies.
+**This Spell will be cast up to 3 times, once for each Immortal present in the Battle.
+***This cheat will '''not''' trigger if a Wizard is not defeated during the same Round they were attacked, or if a Wizard is defeated by a Damage over Time.
+***This cheat '''will''' trigger if a Wizard defeats themselves, even if the Wizard is subsequently revived.
+*The above cheat is also noted to trigger if Hades is present, and Zeus is defeated.
+
+:'''Poseidon Earth-Shaker'''
+*{{Icon|Aura}} ''"We Immortals are infallible!"'' - During the first Round, and any other Round when he does not have an Aura, Poseidon will use his turn to cast {{Link|Spell|Infallible}}.
+*{{Icon|Jinx}} {{Icon|Curse}} ''"You seek to weaken me? Drink from the depths!"'' - If a Charm or Trap is cast on Poseidon, he will use his Natural Attack on the caster, which removes all Traps on him.
+**Fizzling will trigger this cheat.
+**Single-target Prisms will trigger this cheat.
+**Multi-target Spells, such as {{Link|Spell|Windstorm}} or {{Link|Spell|Mass Storm Prism}}, will not trigger this cheat.
+**Spells with secondary effects, such as {{Link|Spell|Efreet}} or {{Link|Spell|Dr. Von's Monster}}, will trigger this cheat.
+**Single-target Spells which have secondary effects that affect the Wizard, such as {{Link|Spell|Gnomes!}}, will trigger this cheat.
+**{{Link|Spell|Indemnity}} can be used to protect Charms and Wards from removal.
+
+:'''Zeus Sky Father'''
+*{{Icon|Spell}} ''"YOU HESITATE TOO MUCH!"'' - If a Wizard casts a Spell that costs 6 or more Pips, Zeus will cast a {{Link|Spell|Minotaur}} on the Wizard.
+**Healing Spells will trigger this cheat.
+**Shadow Spells will trigger an additional Minotaur.
+
+| spellnotes =
+
+| casts =
+Vengeance;
+Virulent Plague;
+Black Mantle;
+Deathblade;
+Balanceblade;
+Curse (+25%);
+Hex;
+Impending Doom;
+Natural Attack (Hades);
+Wraith (575);
+Ominous Scarecrow (Death);
+Skeletal Dragon;
+Avenging Fossil;
+
+| quests =
+Fall of Pompeii;
+Into the Depths;
+
+| dropnotes =
+When a Wizard has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge and has completed the '''{{Link|Quest|Sisyphus is Unhappy}}''' {{Icon|Swole Like Sisyphus}} Quest, the following drops will be guaranteed:
+*{{Icon|Spellement}} 14 Aquila Spellements of '''any''' School
+
+If a Wizard has already unlocked the Child of Light and Shadow Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} outside of the {{Link|Location|House of Faun}} to acquire a [[Item:Level Scaling Elixir - 90|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+1 - 39;
+
+| hats =
+Blackthunder Helm;
+Clangor from Olympus Brim*F2;
+Hades' Blackrain Helm;
+Hades' Crown of Blazes;
+Hades' Helm of Dread;
+Hades' Helm of Justice;
+Hades' Helm of Penance;
+Hades' Helm of Retribution;
+Hades' Helm of the Abyss;
+Hades' Helm of Torment;
+Hades' Helmet of Shivers;
+Hades' Veil of Woe*F2;
+Helm of the Frozen Wave;
+Helm of the Heavens;
+Helm of Unknown Tartarus;
+Helmet of Tranquil Seas;
+Poseidon's Brim of Ardor;
+Poseidon's Cowl of Flares;
+Poseidon's Sea Spray Helm*F2*WMV;
+Poseidon's Torrential Helm;
+Poseidon's Whirlpool Helm;
+Senator's Frostfall Laurel;
+Senator's Laurel of Demise*F2;
+Senator's Laurel of Sparks;
+Senator's Laurel of Wisdom;
+Senator's Monsoon Laurel*F4*WMV;
+Senator's Noble Laurel;
+Senator's Spirited Laurel*F2*WMV;
+Unseen Lord's Chill Helmet;
+Unseen Lord's Cinder Crown;
+Zeus' Divine Right Helm;
+Zeus' Eternal Flame Helm;
+Zeus' Helm of Kings;
+Zeus' Helm of the Moribund;
+Zeus' Helmet of Blizzards;
+
+| robes =
+Armor of a Sorrowful Life;
+Armor of Unknown Tartarus;
+Armor of Zeus' Law;
+Blackthunder Armor;
+Hades' Armor of Conscience;
+Hades' Armor of Mortality*F2;
+Hades' Armor of Tartarus;
+Hades' Armor of the Abyss;
+Hades' Armor of Torment;
+Hades' Frozen Over Armor;
+Hades' Inferno Plate;
+Hades' Raiment of Justice;
+Poseidon's Armor of Ages;
+Poseidon's Armor of Depths*F2;
+Poseidon's Armor of Fervor;
+Poseidon's Doldrums Armor;
+Poseidon's Firestream Garb;
+Poseidon's Glacial Armor;
+Poseidon's Maelstrom Gear;
+Raiment of Hades' Ruin;
+Senator's Frostfall Toga;
+Senator's Monsoon Toga;
+Senator's Noble Toga;
+Senator's Spirited Toga*F2*WMV;
+Senator's Toga of Demise*F2;
+Senator's Toga of Sparks;
+Senator's Toga of Wisdom;
+Unseen Lord's Chill Armor;
+Unseen Lord's Cinder Plate;
+Zeus' Frozen Skies Armor;
+Zeus' Garb of Mischief*F2*WMV;
+Zeus' Ominous Skies Armor;
+Zeus' Skyforged Plate;
+Zeus' War Eagle Raiment;
+Zeus' Wicked Ploy Armor*F3;
+
+| boots =
+Blackthunder Walkers*F2*WMV;
+Boots of the Uncharted Sea;
+Boots of Unknown Tartarus;
+Footgear of the Afterlife*F2*WMV;
+Hades' Boots of Justice;
+Hades' Brimstone Boots;
+Hades' Darkness Trekkers;
+Hades' Firestriders;
+Hades' Frost-Bound Boots;
+Hades' Furtive Stalkers;
+Hades' Striders of Torment;
+Hades' Tartarus Walkers;
+Poseidon's Boots of Vapors;
+Poseidon's Crest Walkers*F2*WMV;
+Poseidon's Engulfing Boots;
+Poseidon's Icebound Boots;
+Poseidon's Waterskimmers;
+Poseidon's Wavewalkers;
+Senator's Frostfall Shoes;
+Senator's Monsoon Sandals*F2*WMV;
+Senator's Noble Sandals;
+Senator's Shoes of Demise;
+Senator's Shoes of Wisdom*F2*WMV;
+Senator's Sparking Sandals;
+Senator's Spirited Shoes*F2*WMV;
+Unseen Lord's Chill Boots;
+Unseen Lord's Cinder Boots;
+Walkers of a Sorrowful Life;
+Zeus' Boots of Ambition;
+Zeus' Cloud Stalkers;
+Zeus' Majestic Skyriders;
+Zeus' Soulless Walkers*F2;
+Zeus' Striders of Vitality;
+Zeus's Flamewalkers;
+Zeus's Iceshelf Striders;
+
+| athames =
+
+| amulets =
+Amulet of Divine Influence*F3;
+
+| rings =
+
+| wands =
+Ares' Cyclone Spear;
+Ares' Numbing Spear;
+Ares' Scalding Spear;
+Ares' Spear of Guile;
+Ares' Spear of Nerve;
+Ares' Spear of Wits;
+Ares' Stout Spear;
+Bolt of Zeus' Justice;
+Hades' Flamemaker*F2*WMV;
+Hades' Soul Scythe*F4;
+Hades' Staff of Awakening*F2*WMV;
+Hades' Staff of Eternity;
+Hades' Staff of Frostbite;
+Hades' Staff of Reckoning;
+Hades' Staff of Tempests;
+Poseidon's Backdraft Stave;
+Poseidon's Numbing Staff;
+Poseidon's Open Seas Staff;
+Poseidon's Staff of Zeal;
+Poseidon's Wavemaker*F3;
+Staff of Poseidon's Angst;
+Staff of Zeus' Curses*F2;
+Trident of Shock Waves;
+Zeus' Bolt of Genius*F2*WMV;
+Zeus' Hailstone Bolt;
+Zeus' Scepter of Creation*F2*WMV;
+Zeus' Smoke Cloud Scepter;
+Zeus' Thunderstrike Staff*F2*WMV;
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Olympian Dust @ 30 Olympian Dust;
+Olympian Dust @ 31 Olympian Dust;
+Olympian Dust @ 32 Olympian Dust;
+Olympian Dust @ 35 Olympian Dust;
+Olympian Dust @ 45 Olympian Dust;
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Grim Skeleturion;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

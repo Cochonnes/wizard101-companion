@@ -1,0 +1,360 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 8,000
+| crecla = Polar Bear
+| school = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+3%;
+
+| outboost =
+45%;
+
+| incboost =
+15% Fire, Myth;
+
+| incresist =
+50% Ice, Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gulag Guard;
+
+| petbreed = Ivanenko's Tiger
+| world = Polaris
+| location = Urville Station
+| descrip =
+Colonel Ivanenko roams with the Gulag Guards in Urville Station.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Polaris
+| tome description =
+Painting is their true passion. With luck, they'll one day progress past painting stick figures.
+
+| extract class =
+Polar Bear;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tardiness will not be tolerated!"'' - If a Wizard joins after the duel has started, Colonel Ivanenko will cheat-cast Wild Bolt on the Wizard.
+*'{{Icon|Feint}} '"You can't fool me!"'' - If a {{Link|Spell|Feint}} is placed on Ivanenko, he will cheat-cast Tower Shield on himself.
+**{{Link|Spell|Melt}} can be used to Dispel this cheat.
+*{{Icon|Heal}} ''"In the Gulag, we share such things!"'' - If a Wizard casts a Healing Spell, he will cheat-cast Healing Current on himself.
+**Pet Spells will trigger this cheat.
+*{{Icon|Global}} ''"Prepare for a storm of pain!"'' - At the beginning of Round 4, he will cheat-cast Darkwind.
+*{{Icon|Global}} ''"It's cold in the Gulag!"'' - At the beginning of Round 8, he will cheat-cast Balefrost.
+*{{Icon|Global}} ''"You will not weather this battle!"'' - At the beginning of Round 12, he will cheat-cast Darkwind.
+*{{Icon|Pet}}{{Icon|Spell}} The Pet, Ivanenko's Tiger. may randomly cast Storm Cat, Ice Cat (75%) (removes one Pip/Power Pip), or Snow Serpent.
+
+| spellnotes =
+
+| casts =
+Tower Shield;
+Tower Shield (-55%);
+Stormspear;
+Lightning Strike;
+Healing Current;
+Darkwind;
+Balefrost;
+Wild Bolt;
+Storman (265);
+Natural Attack (Storm 125-245-365);
+Storm Cat;
+Glowbug Squall;
+Tempest;
+Ice Cat (75%);
+Snow Serpent;
+
+| quests =
+
+| gold =
+483 - 1,836;
+
+| hats =
+Enchanter's Fervid Hat;
+Enchanter's Hat of Poise;
+Enchanter's Lightning Hat;
+Evoker's Brim of Squalls;
+Evoker's Ember Brim*F2*WMV;
+Evoker's Forlorn Brim;
+Evoker's Gallant Brim;
+Evoker's Gelid Brim;
+Evoker's Stalwart Brim;
+The Goat Horns*CR;
+The Ice Horns*CR;
+The Manticore*CR;
+The Stalwart Guardian*CR;
+The Stardust*CR;
+The Warlock*CR;
+
+| robes =
+Enchanter's Drape of Courage;
+Enchanter's Lightning Vestment;
+Enchanter's Robes of Poise;
+Evoker's Cloak of Squalls;
+Evoker's Ember Brim;
+Evoker's Forlorn Robes*F2;
+Evoker's Gallant Drape;
+Evoker's Garb of Embers;
+Evoker's Gelid Robes;
+Evoker's Stalwart Cloak;
+
+| boots =
+Enchanter's Fervid Trekkers;
+Enchanter's Lightning Riders;
+Enchanter's Shoes of Reverie;
+Evoker's Boots of Squalls;
+Evoker's Ember Walkers*F2*WMV;
+Evoker's Gelid Striders;
+Evoker's Stalwart Footgear;
+
+| athames =
+Bleaks Cutter of Pyres;
+Bleaks Dagger of Frost;
+Bleaks Dagger of Vigor;
+Bleaks Dirk of Mischief*F2;
+Bleaks Knife of Snowstorms*F2*WMV;
+Noble Bleaks Lancet;
+Shortblade of the Bleaks;
+Tayg Bodkin of Folklore;
+Tayg Chisel of Leveling;
+
+| amulets =
+Bleaks Ampul of Pyres;
+Bleaks Choker of Despair;
+Bleaks Medallion of Vigor;
+Bleaks Torc of Snowstorms;
+Memento of the Bleaks;
+Noble Strand of the Bleaks;
+Relic of the Snowbound Tayg;
+Tayg Bauble of Harmony;
+Tayg Charm of Sleetfall;
+Tayg Collar of Folklore;
+Tayg Somber Ampul*F2;
+
+| rings =
+Bleaks Band of Snowstorms;
+Bleaks Loop of Vigor*F2;
+Charmed Ring of the Bleaks;
+
+| wands =
+Kossack Cutlass of Tempests;
+Kossack Saber of Chills;
+Kossack Saber of Purpose;
+Kossack Sword of Travail;
+Radiant Kossack Sword;
+Tundarian Bear's Saber;
+Tundarian Cutlass of Flux;
+
+| decks =
+Arcanum Enchanter's Deck;
+Enchanter's Bevy of Flux;
+Enchanter's Set of Frostbite;
+Kossack Array of Travail;
+Kossack Hand of Tempests;
+Kossack Set of Radiance*F2*WMV;
+Kossack Spread of Chills;
+Kossack Stack of Purpose;
+Polarian Kossack's Hand;
+
+| items =
+Arcanum Theme;
+Large Keeper Aquarium;
+Large Small Fry Aquarium;
+Large Whopper Aquarium*F2*WMV;
+Polaris Baba Yaga Theme*F2;
+Polaris Frozen Combat Theme;
+Polaris Frozen Forest Theme*F3*WMV;
+Polaris Gulag Combat Theme*F2;
+Polaris Gulag Theme*F2*WMV;
+Polaris Ice Block Theme*F4*WMV;
+Polaris Mine Combat Theme*F4*WMV;
+Polaris Mine Theme*F2*WMV;
+Polaris Opera Theme*F2*WMV;
+Regular Keeper Aquarium;
+Regular Small Fry Aquarium*F2*WMV;
+Regular Whopper Aquarium;
+Tall Small Fry Aquarium;
+Tall Whopper Aquarium;
+Walruskberg Combat Theme*F5*WMV;
+Walruskberg Liberated Theme*F2*WMV;
+Walruskberg Theme*F2*WMV;
+
+| cards =
+Ashen Bones;
+Astraphobia;
+Bronze Helephant;
+Combustion;
+Death Helephant (345-405);
+Frostfang;
+Helephant;
+Magma Colossus;
+Mass Triage;
+Mutate Banshee (Sun)*F2;
+Mutate Bats (Ice);
+Mutate Beetle (Fire);
+Mutate Beetle (Storm)*F2;
+Mutate Bird (Storm);
+Mutate Cat (Storm);
+Mutate Colossus (Storm);
+Mutate Helephant (Ice);
+Mutate Helephant (Storm);
+Mutate Hound (Storm);
+Mutate Kraken (Fire);
+Mutate Kraken (Sun);
+Mutate Minotaur (Sun);
+Mutate Monster (Fire);
+Mutate Phoenix (Storm);
+Mutate Phoenix (Sun);
+Mutate Serpent (Fire);
+Mutate Serpent (Storm);
+Mutate Shark (Fire);
+Mutate Shark (Ice);
+Mutate Snake (Fire);
+Mutate Snake (Ice);
+Mutate Swarm (Ice);
+Mutate Wyvern (Fire);
+Namaste;
+Punklops;
+Rat Illusionist;
+Sandstone Colossus;
+Steel Giant;
+War Helephant;
+
+| reagents =
+Aether;
+Agave Leaves;
+Amber;
+Amber Dust*F2*WMV;
+Ancient Scroll*F3*WMV;
+Aquamarine*F5*WMV;
+Astral Shard;
+Black Pearl*F3*WMV;
+Blood Moss*F3*WMV;
+Braided Vine;
+Brass*F4*WMV;
+Bronze;
+Bronze Gear*F5*WMV;
+Cobalt;
+Ectoplasm*F2*WMV;
+Fish Fin;
+Golden Pearl;
+Grendelweed*F2*WMV;
+Mithril;
+Nickel;
+Scales*F4*WMV;
+Silver;
+Spider Silk;
+Spring*F3;
+Steel*F3*WMV;
+Sunstone*F2;
+Tin*F3*WMV;
+Tungsten*F3*WMV;
+Turquoise;
+Vine*F2;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate;
+Beast Wellington*F3*WMV;
+Chalupacabra;
+Chili Cheese Fries*F2;
+Chili Peppers;
+Delicious Cookie;
+Eye Candy;
+French Fries*F2;
+Gourmet Yogurt*F2;
+Granny Snow Apple;
+Hot Cross Buns*F2;
+Huge Ice Cream*F2*WMV;
+Large Ice Cream*F3*WMV;
+Mustachios*F2*WMV;
+Penne Dreadful*F2;
+Polaris Fries;
+Rhubarbed Wire;
+Satyr Chow;
+Ships 'n' Queso*F2*WMV;
+Snow Apple Cider;
+Sprinkle Cupcake;
+Submarine Sandwich*F3*WMV;
+Super Cold Popsicle;
+Veggie Juice;
+
+| jewels =
+Critical Striker Opal;
+Life-Bringer Jade;
+Lustrous Critical Ruby +13;
+Lustrous Mana Opal +42;
+Myth Striker Peridot;
+Polished Accurate Amethyst +10%;
+Polished Accurate Peridot +10%;
+Polished Blocking Peridot +12;
+Polished Critical Peridot +11;
+Polished Damage Ruby +21;
+Polished Damage Sapphire +21;
+Polished Defense Sapphire +43;
+Stun Resistant Opal;
+
+| pins =
+
+| pets =
+Arctic Ninja Pig*CR*F2*WMV;
+Glacier Dragon*F2;
+Ivanenko's Tiger*F3;
+Mountain Yeti*CR;
+Nodori Winged Ram*CR*WMV;
+Snowball*CR;
+
+| seeds =
+Angel Oak;
+Baby Carrots;
+Burning Snap Dragon*F2;
+Cornbread Fruit Bush*F2;
+Evil Snow Peas*F2;
+Face Palm*F3*WMV;
+Fish on a Vine*F2*WMV;
+Frozen Fly Trap*F4*WMV;
+Goose Tree*F3*WMV;
+Grapes of Wrath*CR;
+Green Snow Apples*F2*WMV;
+Ivy League*CR;
+King Parsley*CR*F2*WMV;
+Maelstrom Snap Dragon;
+Moon Flower*F2*WMV;
+Purple Snow Apples;
+Queen Crape Myrtle*F2;
+Red Huckleberries;
+Snap Dragon;
+Snow Apples*F2;
+Ultra Snow Apples*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

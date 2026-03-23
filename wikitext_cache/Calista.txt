@@ -1,0 +1,198 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 9,680
+| crecla = Spriggan
+| school = Storm
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Black Cap;
+
+| world = Avalon
+| location = The Wild
+| subloc1 = Cave of Anguish
+| descrip =
+Calista is an evil Spriggan located in the Cave of Anguish.  Wizards must defeat her in order to rescue {{Link|NPC|Kerry Mustardseed}} during the Quest, Of Lost Liberty.
+*Two additional Black Cap Minions appear if more than two Wizards are present.
+
+| speech =
+:''"A Wizard? I'll drink the magic from your tears!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 150-250-450);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Tempest;
+
+| quests =
+Of Lost Liberty;
+
+| gold =
+85 - 106;
+
+| hats =
+Brisk Helmet of Nodor;
+Hood of the Sacred Lake*F3*WMV;
+Hunter's Helm of Mercy*F2*WMV;
+
+| robes =
+Burnt Coat;
+Catalan's Scales;
+Fire Spirits' Toasty Tunic;
+Jabberwock's Plate*F3;
+Windbreaker of Nodor*F2*WMV;
+
+| boots =
+Knight's Boots of Justice*F4;
+Loyal Knight's Boots*F3*WMV;
+Ponycorn Hoofers;
+Splashing Stream Waders;
+
+| athames =
+Loyal Steel;
+Noble Hunter's Dagger*F2*WMV;
+
+| amulets =
+Circlet of the Hardy Squire*F3;
+Unknowable Torc;
+
+| rings =
+Bannerman's Honorbound Ring;
+Ganelon's Lost Ring;
+Sir Malory's Seal*F3*WMV;
+
+| wands =
+Gallant Longbow*F2;
+Longbow of Integrity;
+
+| decks =
+Antikythera Deck*F8*WMV;
+
+| items =
+Avalon Tense Theme;
+Avalon Wyrd Theme;
+Square Pedestal;
+Tree Fountain*F2;
+
+| cards =
+Cleanse Charm*F5*WMV;
+Disarm*F7*WMV;
+Efreet;
+Enfeeble (-3)*F2;
+Fire Dragon*F2;
+Frost Giant;
+Gargantuan;
+Insane Bolt*F3*WMV;
+Leviathan;
+Medusa;
+Orthrus*F2;
+Ra;
+Scarecrow;
+Skeletal Dragon;
+Supercharge*F3*WMV;
+Unstoppable;
+Wild Bolt*F2*WMV;
+
+| reagents =
+Black Lotus*F3*WMV;
+Bronze;
+Cat Tail*F4;
+Cobalt;
+Deep Mushroom*F4*WMV;
+Frost Flower*F3*WMV;
+Lava Lily*F5*WMV;
+Mist Wood*F2*WMV;
+Nickel*F2;
+Ore*F4*WMV;
+Parchment*F4*WMV;
+Pearl*F6*WMV;
+Red Mandrake*F2*WMV;
+Shell*F2*WMV;
+Stone Block*F3;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Bogwich;
+Cauliflowers*F2*WMV;
+Cheese Broccoli*F2*WMV;
+Cracker;
+Deviled Eggs*F2;
+Glowing Star Fruit*F3;
+Green Grapes*F3;
+Gummy Humongofrog;
+Gummy Wyrms;
+Nettle Root;
+Pigeon Pie;
+Roasted Chickpeas*F2*WMV;
+
+| jewels =
+Clear Accurate Ruby +9%;
+Clear Blocking Sapphire +10;
+Clear Defense Opal +19;
+Clear Defense Ruby +37;
+Fire Trap Ruby (Triangle);
+Huge Energy Opal;
+Opaque Critical Onyx +7;
+Opaque Critical Sapphire +7;
+Opaque Defense Citrine +34;
+Opaque Defense Jade +34*F2;
+Opaque Healing Opal +4%;
+Opaque Mana Opal +30;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+Deadly Fly Trap;
+Evil Magma Peas*CR;
+Pink Dandelion*CR*F2*WMV;
+Pink Huckleberries;
+Red Huckleberries;
+Silver Trumpet Vine*CR*F2*WMV;
+Trumpet Vine;
+White Desparagus*F2;
+White Tiger Lily*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

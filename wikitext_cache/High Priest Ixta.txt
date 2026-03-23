@@ -1,0 +1,147 @@
+{{Stub|Crititical and Block}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 13,675
+| crecla = Parasaur
+| school = Fire
+| school2 = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+1085 Fire, Storm;
+
+| criticalblock =
+932;
+
+| outpierce =
+64% Fire, Storm;
+
+| outboost =
+207% Fire, Storm;
+
+| incboost =
+None;
+
+| incresist =
+45% Death;
+65% Fire, Storm, Life, Balance, Sun, Moon, Star, Shadow;
+85% Ice, Myth;
+
+| outhealing =
+88%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| randomminions =
+Crying Sky Minion;
+Crying Sky Stampeder;
+Crying Sky Stomper;
+Crying Sky Thrall;
+Sky Screamer (Fire-Death);
+Sky Squawker;
+
+| totalminions = 1
+| world = Raid
+| location = Crying Sky
+| subloc1 = Central Pyramid
+| lootchest = High Priestess Ixta's Chest
+| descrip =
+High Priest Ixta is the Boss summoned on the Eastern portion of the Central Pyramid, after completing ''The Dance of Ixta'' minigame in the {{Link|Location|Xibalba Wastes (East)}}.
+*When Ixta is defeated, the ''Shrine of Ixta'' spawns in the middle of the sigil, allowing the player who defeated Ixta to polymorph into {{Link|Polymorph|High Priest Ixta}}.
+
+| speech =
+:''"Death is the forge which tempers life. Let Xibalba cleanse the weak and leave Azteca to the strong!"''
+
+| cheatnotes =
+*''"Death is the test. I will pass it."'' - At the beginning of each Round, Ixta will add a Heal over Time effect that restores 500 Health over 5 Rounds on all allies. (940 Health with Outgoing Healing)
+*''"Only the strong will survive."'' - When Ixta has 2 or more Heal over Times on himself, he will cast a version of {{Link|Spell|Sun Serpent}} that hits all enemies once, and then removes all Heal over Time effects from himself.
+
+| spellnotes =
+*Casts Meteor Strike that deals 440 Fire Damage.
+*Casts Fire Dragon that deals 780 Fire Damage.
+*Casts Raging Bull that deals 1,110 Fire Damage.
+
+| casts =
+Mass Fire Trap;
+
+| quests =
+
+| dropnotes =
+All 12 Wizards in the Raid receive the drops, not just the ones within the battle.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Hunhau's Comet Amulet (Level 160+);
+Hunhau's Crying Sky Amulet (Level 160+);
+Hunhau's Heavenly Amulet (Level 160+);
+Hunhau's Meteoric Amulet (Level 160+);
+Hunhau's Singularity Amulet (Level 160+);
+Hunhau's Vacuum Amulet (Level 160+);
+Hunhau's Xenoform Amulet (Level 160+);
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+
+| spellements =
+Avenging Fossil;
+Chimera;
+Efreet;
+Fire Dragon;
+Forest Lord;
+Gnomes!;
+King Artorius (Death);
+King Artorius (Ice);
+Lord of Winter;
+Medusa;
+Power Nova;
+Rain of Fire;
+Rebirth;
+Sirens;
+Storm Owl;
+
+| snacks =
+
+| jewels =
+Amazing Mana Opal +59;
+Glimpse of Infinity Ruby;
+
+| pins =
+Ice Conversion Pin (160);
+Life Conversion Pin (160);
+Storm Accurate Pin (80);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

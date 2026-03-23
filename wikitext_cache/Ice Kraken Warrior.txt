@@ -1,0 +1,129 @@
+{{Stub|Spells and drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 1,700
+| crecla = Beastmoon Creature
+| school = Ice
+| startpips = 1
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Celestia Battlegrounds
+| descrip =
+Ice Kraken Warriors are one of the Boss monsters that can be encountered during the first Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events.  They will have 1 random, Rank 1 Elite, Stage 1 Minion present to assist them.
+
+'''Potential Minions:'''
+*{{Link|Creature|Ice Spriggan}}
+*{{Link|Creature|Monsoon Lagoony}}
+*{{Link|Creature|Paragonmaton}}
+*{{Link|Creature|Steamed Crab}}
+
+| speech =
+
+| spellnotes =
+*Casts a 75 Absorb version of Aegis of Artemis.
+*Casts a 2-Pip, 200 Absorb Ward.
+**Any potential secondary effects are unknown.
+*Casts a 100 Damage version of Snow Stalker that deals 150 Damage if the Clear effect occurs.
+
+| casts =
+Aegis of Artemis;
+Snow Stalker;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 5 - 10 Lunari.
+
+| gold =
+22 - 30;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone;
+Balance Rune*F4*WMV;
+Balance Thread*F3;
+Eldritch Thread*F9*WMV;
+Eldritch Thread @ Eldritch Thread 2*F4;
+Elemental Moonstone*F2;
+Elemental Thread*F5;
+Fire Rune*F2*WMV;
+Hunter's Moonstone*F14*WMV;
+Ice Rune*F2*WMV;
+
+| spellements =
+Blizzard*F2;
+Glacial Golem;
+Heck Hound;
+Inferno Salamander;
+Iron Curse;
+Meteor Strike*F2;
+Naphtha Scarab;
+Thermic Golem*F3;
+Thieving Dragon*F3;
+Thunderman;
+Volcanic Golem*F2;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Beastmoon Seed*F15*WMV;
+
+| mounts =
+
+| spells =
+
+| recipes = 
+Frostfeather Spellements @ Frostfeather 7;
+Iron Curse Spellements @ Iron Curse 7;
+Thermic Golem Spellements @ Thermic Golem 7;
+Volcanic Golem Spellements @ Volcanic Golem 7;
+
+}}

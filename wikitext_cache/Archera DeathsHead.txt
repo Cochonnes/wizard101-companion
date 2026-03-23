@@ -1,0 +1,227 @@
+{{Stub|which version of the Enfeeble Treasure Card this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 18,115
+| crecla = Moth
+| crecla2 = Insect
+| school = Fire
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Elder Magus;
+
+| world = Khrysalis
+| location = The Hive
+| subloc1 = Night Orb Chamber
+| descrip =
+
+| speech =
+:''"No, it cannot be you! How did you make it so far? I sense great magic in you. This is going to be rough!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+Sworn Protector of the Night Orb within reason.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Glacial Shield;
+Smoke Screen (-45%);
+Fireblade;
+Fire Trap;
+Fuel (+35%);
+Natural Attack (Fire 175-285-400);
+Meteor Strike (355-395);
+Phoenix (600-680);
+Efreet;
+Sun Serpent;
+
+| quests =
+Night Orb;
+
+| gold =
+131 - 168;
+
+| hats =
+Dragonfly Rider's Helm*F3*WMV;
+The Savvy Satyr*CR;
+
+| robes =
+Flame Legs Captain's Mail*F2*WMV;
+
+| boots =
+Boots of the BurrowBuilder*F5*WMV;
+Mantis Chitin Runners*F6*WMV;
+
+| athames =
+Sabina's Dagger of Revival*F2*WMV;
+
+| amulets =
+BurrowBuilder's Medallion*F2*WMV;
+Charm of the Fierce Mantis*F4*WMV;
+FireWing's Jewel*F2*WMV;
+
+| rings =
+Mantis Prophet's Ringlet*F3*WMV;
+Seal of the Lost King*F2*WMV;
+
+| wands =
+Cudgel of Frostbite*F2*WMV;
+Ice-Forged Burrower Steel;
+Staff of the Sand Devil*F2*WMV;
+Sweltering Desert Staff*F2*WMV;
+
+| decks =
+LimeBlight's Gallery*F4*WMV;
+Pack of Frozen Souls*F3*WMV;
+
+| items =
+Khrysalis Combat Theme 2*F4*WMV;
+Khrysalis Hive Combat Theme*F3*WMV;
+Wizard City Dreamworld Theme;
+
+| cards =
+Avenging Fossil;
+Black Widow;
+Chastisement;
+Cycle of Life;
+Death Scarab;
+Disarm;
+Doom and Gloom*F2*WMV;
+Enfeeble*F2; 
+Furnace;
+Galvanic Field;
+Hooligan;
+Legendary Treant (445)*F2*WMV;
+Locust Swarm;
+Lucius McTavish;
+Luminous Weaver;
+O'Leary Swindler*F2*WMV;
+Polar Swarm*F3*WMV;
+Reliquary*F3*WMV;
+Sanctuary;
+Shatter;
+Sleet Storm*F2;
+Spinysaur;
+Sprite Swarm (40+360)*F2*WMV;
+Storm Owl*F2*WMV;
+Sun Serpent;
+Wildfire Treant;
+
+| reagents =
+Agave Leaves;
+Astral Shard*F4*WMV;
+Black Lotus*F2*WMV;
+Blood Moss;
+Bone*F3*WMV;
+Bronze Gear*F4*WMV;
+Deep Mushroom*F2*WMV;
+Draconium*F3*WMV;
+Fire Blossom*F3*WMV;
+Fossil*F3*WMV;
+Golden Pearl*F4*WMV;
+Lava Lily*F4*WMV;
+Mist Wood*F3*WMV;
+Nightshade*F2*WMV;
+Ore*F4*WMV;
+Orichalcum*F3*WMV;
+Red Mandrake*F2*WMV;
+Silver;
+Stone Block*F2*WMV;
+Sunstone;
+Tungsten;
+Turquoise*F2*WMV;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F2*WMV;
+Cauliflowers*F2*WMV;
+Dr. Jalapeno*F3*WMV;
+Flaming Soup;
+Flapjacks;
+Glowing Dragon Fruit*F2*WMV;
+Glowing Star Fruit;
+Goat Cheese;
+Golden Apple;
+Golden Grapes*F2*WMV;
+Gummy Humongofrog*F2*WMV;
+King Banana*F2*WMV;
+Salmonberry*F3;
+Shiny Tomato*F2*WMV;
+Submarine Sandwich*F2*WMV;
+Uni-Corn*F2*WMV;
+
+| jewels =
+Disarmament Amethyst;
+Feeling Weak Citrine;
+Hexster Citrine;
+Malduit Onyx;
+Mokompo Amethyst;
+Polished Accurate Onyx +10%;
+Polished Blocking Opal +6;
+Polished Critical Onyx +12;
+Polished Damage Amethyst +21;
+Polished Damage Amethyst +22;
+Polished Damage Jade +22;
+Polished Damage Ruby +22;
+Polished Damage Sapphire +21;
+Polished Damage Sapphire +22;
+Polished Defense Opal +22;
+Polished Piercing Hematite +6%;
+Rage of Winter Sapphire;
+Sir Lamorak Ruby;
+Vassanji Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Blue Huckleberries;
+Moon Flower;
+Saw Palmetto*F2*WMV;
+Sugar Khrystal*CR;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,250 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 14,595
+| crecla = Dog
+| school = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical = 
+
+| criticalblock = 
+
+| outpierce =
+18%;
+
+| outboost =
+113%;
+
+| incboost =
+5% Life;
+
+| incresist =
+45% Fire, Ice, Storm, Myth, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Les Oiseaux Sournois (Myth);
+Les Oiseaux Sournois (Life);
+Les Oiseaux Sournois (Life);
+
+| world = Novus
+| location = La Ville Rose
+| subloc1 = Sournois Pas
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Damage}} ''"Bad timing"'' - When damaged, Rententen will cast a Moon version of Blessing, restoring 100% of his total Health.
+**This still happens even if Rententen is defeated by the Damage.
+*'{{Icon|Aura}} '"Take your Shot"'' - At the start of any Round that Rententen casts Snowball Barrage (150), he will gain an Aura.
+**Attacking Rententen during this turn will not result in him healing himself.
+***If Rententen is attacked during this turn before Legendary Spy is used, Rententen will still heal, even if he did use Snowball Barrage on that turn.
+*{{Icon|Manipulation}} ''"Missed your chance"'' - At the end of the Round Rententen used his Aura cheat, he will cast a 0 Damage Star version of Supernova on himself to remove this Aura.
+*{{Icon|Minion}}{{Icon|Afterlife}} ''"You can't spy on a legendary spy"'' - The turn after all of Rententen's Minions are defeated, or they're all beguiled, Rententen will give all Wizards a Legendary Spy card.
+**{{GivesSpell|Legendary Spy}}
+
+| spellnotes =
+
+| casts =
+Brace (6 Rounds);
+Plague;
+Virulent Plague;
+Deathblade (+40%);
+Mass Feint (+70%);
+Winged Sorrow;
+Grim Reader (Tier 3a);
+Sleeping Toxin;
+Scarecrow;
+Snowball Barrage (150);
+
+| quests =
+Tracked in Ice Country;
+
+| gold =
+20 - 92;
+
+| hats =
+
+| robes =
+
+| boots =
+Abstract Aeon Boots*F3;
+Abstract Masterpiece Boots;
+Crystalline Aeon Boots*F2;
+Crystalline Masterpiece Boots;
+Dreamscape Aeon Boots*F3;
+Dreamscape Masterpiece Boots*F2;
+Fractal Aeon Boots*F2;
+Fractal Masterpiece Boots;
+Inspired Aeon Boots;
+Inspired Masterpiece Boots*F2;
+Macabre Aeon Boots*F2*WMV;
+Macabre Masterpiece Boots*F2;
+Primordial Aeon Boots*F2;
+Primordial Masterpiece Boots*F2;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth*F4*WMV;
+Banshee (Tier 2b)*F3*WMV;
+Blood Bat (Tier 2b);
+Cyclops (Tier 2b)*F7*WMV;
+Dark Sprite (Tier 2b)*F4*WMV;
+Evil Snowman (Tier 2b)*F4*WMV;
+Fire Cat (Tier 2b)*F10*WMV;
+Fire Elf (Tier 2b)*F6*WMV;
+Frost Beetle (Tier 2b)*F2;
+Ghoul (Tier 2b)*F2;
+Imp (Tier 2b)*F6*WMV;
+Leprechaun (Tier 2b)*F8*WMV;
+Lightning Bats (Tier 2b)*F7*WMV;
+Locust Swarm (Tier 2b)*F4;
+Nature's Wrath (Tier 2b)*F4*WMV;
+Scarab (Tier 2b)*F3;
+Scorpion (Tier 2b)*F6*WMV;
+Snow Serpent (Tier 2b)*F7*WMV;
+Storm Shark (Tier 2b)*F4*WMV;
+Sunbird (Tier 2b)*F4;
+Thunder Snake (Tier 2b)*F6*WMV;
+Troll (Tier 2b)*F6*WMV;
+
+| reagents =
+Bone*F6*WMV;
+Bronze Gear*F8*WMV;
+Pixels*F21*WMV;
+Tin*F3*WMV;
+
+| spellements =
+Barbarian's Saga*F9*WMV;
+Blast Off!*F6*WMV;
+Dark & Stormy*F9*WMV;
+Deathly Depths*F8*WMV;
+Freeze Ray*F5*WMV;
+Glimpse of Infinity*F7*WMV;
+Gravestorm*F7*WMV;
+Grim Reader*F7*WMV;
+Grrnadier*F5*WMV;
+Improbable Gaze*F8;
+Lord of the Jungle*F7*WMV;
+Mockenspiel*F9*WMV;
+Old One's Endgame*F8*WMV;
+S'more Machine*F4*WMV;
+Scales of Destiny*F8*WMV;
+Shatterhorn*F7*WMV;
+Snack Attack*F7*WMV;
+Sound of Musicology*F10*WMV;
+Starspawn*F5*WMV;
+Tree of Strife*F11*WMV;
+
+| snacks =
+
+| jewels =
+Amazing Critical Amethyst +21;
+Amazing Critical Citrine +21*F3;
+Amazing Critical Citrine +22;
+Amazing Critical Jade +22*F2*WMV;
+Amazing Critical Onyx +21;
+Amazing Critical Onyx +22;
+Amazing Critical Peridot +21*F2;
+Amazing Critical Peridot +22;
+Amazing Critical Ruby +21;
+Amazing Critical Ruby +22;
+Amazing Critical Sapphire +21;
+Amazing Critical Sapphire +22;
+Amazing Damage Amethyst +31*F2;
+Amazing Damage Amethyst +32*F2*WMV;
+Amazing Damage Citrine +31;
+Amazing Damage Jade +31*F2*WMV;
+Amazing Damage Jade +32;
+Amazing Damage Onyx +31;
+Amazing Damage Onyx +32*F3*WMV;
+Amazing Damage Peridot +31;
+Amazing Damage Peridot +32;
+Amazing Damage Ruby +31;
+Amazing Damage Ruby +32*F2;
+Amazing Damage Sapphire +31;
+Amazing Damage Sapphire +32;
+Flawless Critical Amethyst +23;
+Flawless Critical Amethyst +24;
+Flawless Critical Citrine +23;
+Flawless Critical Citrine +24;
+Flawless Critical Jade +23;
+Flawless Critical Onyx +23;
+Flawless Critical Peridot +23;
+Flawless Critical Peridot +24;
+Flawless Critical Ruby +23*F2;
+Flawless Critical Ruby +24;
+Flawless Critical Sapphire +23*F2;
+Flawless Critical Sapphire +24;
+Flawless Damage Amethyst +34;
+Flawless Damage Citrine +33;
+Flawless Damage Jade +33;
+Flawless Damage Jade +34;
+Flawless Damage Onyx +33;
+Flawless Damage Onyx +34*F2;
+Flawless Damage Peridot +34;
+Flawless Damage Ruby +33;
+Flawless Damage Sapphire +33;
+Flawless Damage Sapphire +34;
+Flawless Mending Opal +8%*F2;
+Polished Piercing Amethyst +6%*F2*WMV;
+Polished Piercing Citrine +6%;
+Polished Piercing Jade +6%;
+Polished Piercing Onyx +6%*F2;
+Polished Piercing Peridot +6%;
+Polished Piercing Ruby +6%;
+Polished Piercing Sapphire +6%;
+
+| pins =
+Balance Accurate Pin (100);
+Balance Conversion Pin (150)*F2;
+Balance Conversion Pin (160);
+Death Accurate Pin (100);
+Death Conversion Pin (150)*F6*WMV;
+Death Conversion Pin (160)*F2*WMV;
+Fire Accurate Pin (100)*F8*WMV;
+Fire Conversion Pin (150)*F2*WMV;
+Fire Conversion Pin (160)*F2*WMV;
+Ice Accurate Pin (110)*F3;
+Ice Conversion Pin (150);
+Ice Conversion Pin (160);
+Life Accurate Pin (100)*F4*WMV;
+Life Conversion Pin (150);
+Life Conversion Pin (160)*F2;
+Myth Accurate Pin (100);
+Myth Conversion Pin (150)*F2;
+Myth Conversion Pin (160)*F2;
+Storm Accurate Pin (80)*F2;
+Storm Conversion Pin (150)*F3;
+Storm Conversion Pin (160)*F2;
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

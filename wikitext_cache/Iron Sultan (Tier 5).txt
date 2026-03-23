@@ -1,0 +1,237 @@
+{{Stub|clarification on Cheat details as noted.}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 11,100
+| crecla = Sultan
+| crecla2 = Golem
+| school = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+246 Any;
+
+| criticalblock =
+131 Any;
+
+| outpierce =
+27%;
+
+| outboost =
+110%;
+
+| incboost =
+10% Myth;
+
+| incresist =
+60% Storm;
+
+| outhealing =
+
+| inchealing =
+50%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Gold Dragon (Tier 5);
+Steeleton (Tier 5);
+
+| world = Housing Instance
+| location = Sinbad & the Iron Sultan Gauntlet
+| subloc1 = Metallos Summit
+| descrip =
+Having finally been cornered by {{Link|NPC|Sinbad}} and companion Wizards on the summit of Metallos, {{Link|NPC|Hari Houssen}} has used the transmutative power of the Iommi Stone to transform himself into the Iron Sultan, set on using its powers to restore Ferros to its place of power in the Spiral.
+*An additional Steeleton will appear if more than two Wizards are present.
+
+| speech =
+:''"I. Am. IRON SULTAN! Once I have taken Ferros I will return her to her former glory by resurrecting what first made her strong: METAL! But before I rule with an iron fist, I should practice wielding one. I think I'll start with your meaty faces!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+If the whole Sultan thing doesn't work out, he could always be a chef.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"You are late!"'' - If a Wizard is late to join the duel, then the Iron Sultan will interrupt-cast {{Link|Spell|Iron Sultan (Shadow)}} on the late Wizard.
+*{{Icon|Manipulation}} ''"Clever, but that is why I have a Golden Dragon!"'' - At the beginning of the first Round, the Gold Dragon will interrupt-cast a version of {{Link|Spell|Shadow Sentinel}} on itself that provides '''75%''' Intercept, '''100''' Critical Block, and '''-30%''' incoming Damage.
+*{{Icon|Damage}} ''"Time to strike while the Iron Sultan is hot!"'' - If Wizards cast an all-enemies or targeted enemies Spell, then the Iron Sultan will interrupt-cast a version of {{Link|Spell|Dryad}} that restores '''800''' Health to himself and all allies.
+*{{Icon|Feint}} ''"I am METAL!"'' - If a {{Link|Spell|Feint}} or {{Link|ItemCard|Mass Feint}} is cast on the Iron Sultan, he will use {{Link|Spell|Cleanse Ward (Shadow, -All)}} twice on himself to remove all harmful Wards.
+*{{Icon|Global}} ''"This one goes up to eleven!"'' - At the end of every fifth Round, the Iron Sultan will interrupt-cast a [[Spell:Darkwind (+35%)|+35% version of Darkwind]].
+**{{Icon|Damage}} ''"Heavy fists of lead, fill my victums full of dread!"'' - Immediately after Darkwind is cast, the Iron Sultan will cast {{Link|Spell|Iron Sultan}} on the Wizard with the lowest Health.
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Brace;
+Galvanic Field (6 Rounds);
+Stormblade;
+Disarm (1 Pip);
+Darkwind (+35%);
+Storm Serpent (230);
+Storm Cat;
+Iron Sultan;
+Stormzilla;
+Glowbug Squall (1,120);
+Rusalka's Wrath;
+Storm Lord;
+Storm Hound (150);
+Iron Sultan (Shadow);
+
+| quests =
+The Umpteenth Voyage of Sinbad;
+
+| dropnotes =
+*Wizards between levels 101-109 will only receive level 100+ versions of Items.
+*Wizards between levels 110-119 will only receive level 110+ versions of Items.
+*Wizards between levels 120-129 will only receive level 120+ versions of Items.
+*Wizards level 130+ will only receive level 130+ versions of Items.
+
+| gold =
+0 - 1,200;
+
+| hats =
+Fleet Kapudan's Turban (Level 100+)*CR;
+Fleet Kapudan's Turban (Level 110+)*CR;
+Fleet Kapudan's Turban (Level 120+)*CR*F2;
+Grand Admiral's Turban (Level 100+)*CR*F2;
+Sinbad's Turban*F2;
+Sky Captain's Turban (Level 100+)*CR*F2;
+Sky Captain's Turban (Level 110+)*CR;
+
+| robes =
+Fleet Kapudan's Armor (Level 100+)*CR*F2;
+Grand Admiral's Armor (Level 120+)*CR;
+Grand Admiral's Armor (Level 130+)*CR;
+Sinbad's Armor*F3;
+Sky Captain's Armor (Level 100+)*CR;
+Sky Captain's Armor (Level 130+)*CR;
+
+| boots =
+Fleet Kapudan's Boots (Level 110+)*CR;
+Grand Admiral's Boots (Level 120+)*CR;
+Grand Admiral's Boots (Level 130+)*CR;
+Sinbad's Boots*F3*WMV;
+Sky Captain's Boots (Level 100+)*CR;
+Sky Captain's Boots (Level 120+)*CR;
+Sky Captain's Boots (Level 130+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Admiral's Boarding Hook (Level 100+)*CR;
+Admiral's Boarding Hook (Level 110+)*CR;
+Admiral's Boarding Hook (Level 120+)*CR;
+Admiral's Boarding Hook (Level 130+)*CR*F2;
+Kapudan's Boarding Hook (Level 110+)*CR;
+Kapudan's Grappling Hook (Level 100+)*CR;
+Kapudan's Grappling Hook (Level 130+)*CR;
+Sky Captain's Boarding Hook (Level 100+)*CR;
+Sky Captain's Boarding Hook (Level 110+)*CR;
+Sky Captain's Boarding Hook (Level 120+)*CR;
+Sky Captain's Boarding Hook (Level 130+)*CR;
+
+| decks =
+
+| items =
+Archer Rack*CR;
+Blue Vase*CR;
+Desert Forge*CR;
+Double Scroll Case;
+Fence Post;
+Fence Segment*F2;
+Gilded Sarcophagus*F2;
+Glass of Hours;
+Istanboa Pillar;
+Istanboa Platform*CR;
+Map of Aggrobah*F4*WMV;
+Monkey Tail Goblet*CR;
+Novice's Socket Wrench*F4*WMV;
+Qhat Book Stand*F2*WMV;
+Qhat Shield*F2*WMV;
+Red Vase*CR*F2;
+Sand Device*CR;
+Scroll Case (Mirage)*CR;
+The Boat*CR*F2;
+
+| cards =
+Death Prism;
+Dryad;
+Fire Prism*F2*WMV;
+Heck Hound*F2*WMV;
+Ice Prism*F3*WMV;
+Judgement;
+Myth Prism*F2;
+Sandstone Colossus*F2;
+Sinbad*F4*WMV;
+
+| reagents =
+Brass;
+Bronze*F2;
+Cobalt*F3*WMV;
+Diamond*F2;
+Ectoplasm;
+Nickel*F3;
+Steel*F2;
+
+| spellements =
+
+| snacks =
+Ancient Date;
+Assaulted Caramels;
+Bunch of Figs;
+Cactus Fruit*F2*WMV;
+Eggplant;
+Fire Passion Fruit;
+Fuzzy Peach Fizz*F4*WMV;
+Honey Bombs*F3*WMV;
+Honeycombs*F2*WMV;
+Pollen Bombs*F3;
+Prickly Bear Punch*F3*WMV;
+Roasted Chickpeas;
+Salty Fish;
+Sandy Corn;
+Spicy Stingers;
+
+| jewels =
+Cracked Damage Opal +2*F3;
+Cracked Health Opal +7*F2;
+Cracked Mana Opal +5*F2;
+Cracked Resilient Opal +1%;
+
+| pins =
+
+| pets =
+Plucky Gryphon;
+Scrappy Gryphon;
+Snappy Gryphon;
+
+| seeds =
+
+| mounts =
+Roc*1*CR*F2;
+Roc*7*CR*F6*WMV;
+
+| spells =
+
+| altimage = Iron Sultan
+}}

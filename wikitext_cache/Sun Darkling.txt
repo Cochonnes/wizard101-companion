@@ -1,0 +1,213 @@
+{{Stub|which version of the ''{{Link|TreasureCard|Shatter}} Treasure Card'' this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 18,720
+| crecla = Rhino
+| crecla2 = Insect
+| school = Myth
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Spider Adept (The Hive);
+Corrupted Rhino (Elite);
+
+| world = Khrysalis
+| location = The Hive
+| subloc1 = The Black Hole
+| descrip =
+*The Minion for this duel is a {{Link|Creature|Spider Adept (The Hive)}}, but two {{Link|Creature|Corrupted Rhino}} Minons appear if more than two Wizards are present.
+
+| speech =
+:''"Go back, Spellbinder. Go back, Wizard. Go back! This path only ends in misery. Either I will slay you, or you will unlock the vaulted doors, and be annihilated."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+Guardians of the prison of Old Cob. They may channel the sun's power, but they will never see it.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Mythblade;
+Myth Trap;
+Time of Legend;
+Keeper of the Flame;
+Natural Attack (Myth 165-265-370, 80%);
+Ninja Pigs;
+Earthquake (425);
+Humongofrog (400-500);
+Medusa (865);
+Basilisk;
+Celestial Calendar;
+
+| quests =
+The Black Hole;
+ 
+| gold =
+160 - 323;
+
+| hats =
+
+| robes =
+
+| boots =
+Boots of the BurrowBuilder*F2*WMV;
+Kermes Fire Miner's Clogs;
+Mouse Knight's Footguards*F2;
+
+| athames =
+
+| amulets =
+Mantis Amulet of Fortitude*F3*WMV;
+
+| rings =
+Mantis Prophet's Ringlet;
+NightOrb's Ring of Havoc*F3*WMV;
+Seal of the Lost King;
+
+| wands =
+Cold Pits Stabber;
+
+| decks =
+Deck of Charred Shadows (Tear);
+Deck of Shadow Lightning (Square);
+Deck of Shadow Lightning (Triangle);
+Deck of the Shadow Web (Square)*F2*WMV;
+Deck of the Shadow Web (Tear)*F3;
+Deck of the Shadow Web (Triangle);
+
+| items =
+Khrysalis Desert Shadows Theme;
+Khrysalis Kondha Desert Theme;
+Khrysalis Shadow Combat Theme;
+
+| cards =
+Avenging Fossil*F2*WMV;
+Chastisement;
+Clockwork Spider*F2*WMV;
+Death Scarab;
+Doom and Gloom*F2;
+Enfeeble (-All);
+Galvanic Field;
+Legendary Treant (445);
+Life Scarab*F2*WMV;
+Locust Swarm*F2;
+Lord of Winter;
+Mass Infection;
+O'Leary Charlatan;
+O'Leary Swindler;
+Polar Swarm*F2*WMV;
+Punishment;
+Scarab;
+Shatter;
+Sleet Storm;
+Spinysaur*F2*WMV;
+Storm Owl*F2*WMV;
+Sun Serpent*F3*WMV;
+Wildfire Treant;
+
+| reagents =
+Astral Shard*F8*WMV;
+Black Lotus*F5*WMV;
+Black Pearl*F2*WMV;
+Blood Moss;
+Bone*F2;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F2*WMV;
+Draconium;
+Fire Blossom*F4*WMV;
+Golden Pearl*F3*WMV;
+Lava Lily*F6*WMV;
+Mist Wood*F2*WMV;
+Nightshade;
+Ore*F3*WMV;
+Orichalcum;
+Red Mandrake*F3*WMV;
+Stone Block*F3*WMV;
+Sunstone;
+Tungsten;
+Turquoise*F4*WMV;
+
+| spellements =
+
+| snacks =
+Alligator Pear;
+Bell Pepper Steak;
+Buttered Bread;
+Desparagus Quiche;
+Discord Grape Jelly;
+Evil Magma Soup*F2*WMV;
+Flaming Soup;
+Goat Cheese*F2;
+Golden Apple*F2*WMV;
+Golden Grapes*F2*WMV;
+Gummy Humongofrog;
+Key Lime Pie*F2;
+King Banana;
+King Parsley Soup*F2;
+Ninja Fig Bars;
+Prickly Bear Punch;
+Stuffed Bell Pepper*F4*WMV;
+Submarine Sandwich;
+Sweet Baby Carrots;
+
+| jewels =
+Aura Crush Citrine;
+Myth-Eye Peridot;
+Polished Blocking Sapphire +12;
+Polished Damage Sapphire +22;
+Polished Piercing Hematite +6%;
+Polished Piercing Ruby +6%;
+Slick-N-Slide Opal;
+Storm-Giver Amethyst;
+Treant Opal;
+
+| pins =
+
+| pets =
+Fennec Fox*CR;
+
+| seeds =
+Melting Cheese Tree;
+Saw Palmetto;
+Sugar Khrystal*CR;
+
+| mounts =
+
+| spells =
+
+}}

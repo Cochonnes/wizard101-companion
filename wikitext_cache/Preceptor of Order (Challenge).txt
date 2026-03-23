@@ -1,0 +1,97 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 20,325
+| crecla = Khrulhu
+| school = Ice
+| cheats = Yes
+| startpips = 
+| powerpips = Yes
+| schoolpips =
+Ice;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Darkmoor
+| location = Scholomance
+| subloc1 = Heretical Academy (Challenge)
+| descrip =
+This boss appears after completing the Lesson of Swords earlier in the instance.
+
+| speech = I will carve my will into stone and beat you into submission with it.
+
+| cheatnotes =
+*{{Icon|Shield}} ''"Be thorough!"'' - After casting any spell that places a shield on himself, the Preceptor of Order will cast either {{Link|Spell|Celestial Intervention (Tier 5b)}} or {{Link|Spell|Frozen Armor}}.
+
+| spellnotes =
+
+| casts =
+Stabilize;
+Tower Shield;
+Steal Pip;
+Volcanic Golem (Tier 2b);
+Lord of Winter (Tier 2b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Preceptor of Order (Standard)
+
+}}

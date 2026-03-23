@@ -1,0 +1,196 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 15,145
+| crecla = Scorpion
+| school = Myth
+| startpips = 7
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Rock Clinger;
+
+| world = Khrysalis
+| location = Crescent Beach
+| subloc1 = Aphotic Cave
+| descrip =
+
+| speech =
+:''"We come to you through a storm of lightning to drive this place totally insane!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Mythblade;
+Myth Trap;
+Time of Legend;
+Natural Attack (Myth 165-265-370, 80%);
+Ninja Pigs;
+Humongofrog (400-500);
+Medusa;
+Basilisk;
+Celestial Calendar;
+
+| quests =
+Fight of the Valkyries;
+Revenge of the Valkyrie;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*11 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+| gold =
+135 - 152;
+
+| hats =
+Helmet of Excavation*F2*WMV;
+Mantis Cowl of Honor;
+
+| robes =
+Mantis Robe of Secrecy*F2*WMV;
+
+| boots =
+Burrower Scout's Hoppers*F2;
+Flame Legs Captain's Boots*F3*WMV;
+Kermes Fire Miner's Clogs;
+
+| athames =
+Blue Razor Hailstone Blade;
+
+| amulets =
+Benzzi's Campaign Memento;
+Collar of the Besieged;
+Mantis Prophet's Ornament*F2*WMV;
+
+| rings =
+
+| wands =
+Umbra Spear of Suppression;
+
+| decks =
+Bumbler's Sleetfall Pack;
+Case of Engulfing Flames;
+House of the Old Times;
+
+| items =
+Khrysalis Desert Shadows Theme*F2*WMV;
+
+| cards =
+Avenging Fossil;
+Celestial Calendar;
+Fire Beetle;
+Mass Infection;
+Rat Illusionist;
+Scorpion;
+Storm Beetle;
+
+| reagents =
+Astral Shard*F3*WMV;
+Black Lotus*F2*WMV;
+Black Pearl*F2*WMV;
+Blood Moss;
+Bone*F2*WMV;
+Bronze Gear*F2;
+Deep Mushroom*F2;
+Fire Blossom*F2*WMV;
+Fossil;
+Iron;
+Lava Lily*F2*WMV;
+Mist Wood*F2*WMV;
+Mithril;
+Nightshade*F2*WMV;
+Ore*F2*WMV;
+Orichalcum;
+Red Mandrake*F2;
+Stone Block*F2;
+Sunstone;
+Tungsten;
+Turquoise*F2*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Chimera*BR*F2*WMV;
+Dr. Von's Monster*BR*F2;
+Efreet*BR*F2;
+Fire Dragon*BR;
+Forest Lord*BR*F2;
+Frost Giant*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR*F2;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR*F2*WMV;
+King Artorius (Life)*BR*F2;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR*F2;
+Snow Angel*BR*F2;
+Spinysaur*BR;
+Storm Lord*BR*F2;
+Storm Owl*BR;
+Sun Serpent*BR;
+Woolly Mammoth*BR*F2;
+
+| snacks =
+Dr. Jalapeno;
+Goat Cheese;
+Golden Apple;
+Gummy Humongofrog;
+King Banana;
+Shiny Tomato;
+Submarine Sandwich;
+
+| jewels =
+Clear Path Opal;
+Cracked Defense Jade +12;
+Gold Miner Opal;
+Polished Blocking Amethyst +12;
+Polished Defense Citrine +44;
+Polished Resilient Opal +5%;
+Scarab Citrine;
+Ultra Mute Opal;
+
+| pets =
+
+| seeds =
+Fish on a Vine;
+Queen Crape Myrtle;
+
+| mounts =
+
+| spells =
+
+}}

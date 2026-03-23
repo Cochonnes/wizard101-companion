@@ -1,0 +1,117 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,810
+| crecla = Goblin
+| school = Ice
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Frost Goblin;
+
+| world = Grizzleheim
+| location = Sudrilund
+| subloc1 = Nilbog's Warren
+| descrip = 
+A Frost Goblin chief who intends to feed his tribe with a captured Wyvern Egg, Nilbog must be defeated by Ice Wizards on their Level 58 Pet Quest.
+*This Boss is not repeatable.
+
+| speech =
+''Who interrupts us at our breakfast? Come on in... more for us to eat!''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 115 Ice Damage per Pip.
+
+| casts =
+Tower Shield;
+Stun Block;
+Iceblade;
+Ice Trap;
+Freeze;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Frostbite;
+Icezilla (650-730);
+Colossus;
+Frost Giant;
+Tundra Lord;
+
+| quests =
+Deviled Egg;
+
+| gold =
+53 - 68;
+
+| hats =
+Bitter Cold Bear Hat;
+
+| robes =
+Chill-Kissed Coat;
+
+| boots =
+Angry Bear Boots;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Frozen Armor*F2*WMV;
+Legion Shield*F2;
+
+| reagents =
+Ectoplasm;
+Leather Straps;
+
+| spellements =
+
+| snacks =
+Delicious Cookie;
+Glowing Star Fruit;
+Strawberry Cupcake;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

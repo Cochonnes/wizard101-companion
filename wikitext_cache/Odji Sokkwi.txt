@@ -1,0 +1,254 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 570
+| crecla = Krokotopian
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Fire;
+
+| incresist =
+50% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sokkwi Crusher;
+
+| world = Krokotopia
+| location = Hall of Champions
+| subloc1 = Odji's Chamber
+| descrip =
+A member of the Sokkwi family, Odji Sokkwi guards the Frozen Forge in the [[Location:Krokosphinx|Krokosphinx's]] Hall of Champions.  After finding {{Link|NPC|General Khaba}}, Wizards help Khaba gather the materials necessary to create a new sword with which he can lead the Order of the Fang against the reawakened Tuts.  Once all of the components are collected, the general sends his troops into the hall's passageways while Wizards confront Odji to gain access to the forge and complete Khaba's weapon.
+
+*Two additional Sokkwi Crushers will appear if more than two Wizards are present.
+
+| speech =
+:''"You will not evade me, Wizard. Prepare to meet your doom!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 105 Ice Damage per Pip
+
+| casts =
+Tower Shield;
+Iceblade;
+Ice Trap;
+Snow Serpent;
+Ice Elf (30+210);
+Evil Snowman;
+Snow Shark;
+Banshee;
+
+| quests =
+Taking it to the Tuts;
+
+| dropnotes =
+When a Wizard has unlocked the '''Wizard City Protector''' {{Icon|Wizard City Protector}} Badge and has not unlocked the '''Mastermind''' {{Icon|Mastermind}} Badge, the following drops will be available:
+*8 Spellements and Treasure Card Spellements will drop each time from the '''Elemental''' (Fire, Ice, Storm, Balance) Schools for their respective rank 1-3 Spells.
+
+| gold =
+19 - 38;
+
+| hats =
+Conjurer's Hat;
+Helm of the Bastion*F2*WMV;
+Helm of the Cyclone*F3*WMV;
+Hood of the Stronghold*F2*WMV;
+Krokotopian Balance Modius;
+Krokotopian Death Modius*F2*WMV;
+Krokotopian Ice Modius;
+Krokotopian Life Modius;
+Krokotopian Modius*F12*WMV;
+Krokotopian Myth Modius*F3;
+Krokotopian Storm Modius*F4*WMV;
+Odji's Hat of Artistry*F6*WMV;
+
+| robes =
+Ceremonial Vest*F3*WMV;
+Cloak of Refuge;
+Conjurer's Cloak;
+Durable Robe*F4*WMV;
+Garments of the Augur*F4*WMV;
+Necromancer's Ivory Cloak*F2;
+Pyromancer's Lambent Robe*F3*WMV;
+Raiment of the Badlands;
+Robe of Ingenuity*F2*WMV;
+Robe of Reason*F6*WMV;
+Robes of Dormancy*F2;
+Rugged Robe*F3*WMV;
+Runed Vestment;
+Sphinx's Vestment*F3;
+Threadbare Robe*F4*WMV;
+Tunic of the Whirlwind*F2*WMV;
+
+| boots =
+Boots of Imagination;
+Boots of the Citadel*F3*WMV;
+Boots of the Cyclone;
+Crystalline Footwraps;
+Odji Sokkwi's Bitter Boots*F6*WMV;
+Odji's Sandals of Repose*F3*WMV;
+Quartermaster's Boots;
+Shoes of Adaptation;
+Shoes of Annihilation;
+Shoes of the Fortress;
+Swindler Shoes*CR;
+
+| athames =
+Ancient Kris*F4*WMV;
+Athame of Mortality;
+Cryptkeeper's Shortsword*F2;
+Dagger of Solitude*F2*WMV;
+Flamedancer's Athame;
+Parched Kris*F2;
+Whirlwind Dagger;
+
+| amulets =
+Sokkwi's Necklace of Skies*F2*WMV;
+
+| rings =
+Advocate's Ring*F3*WMV;
+Band of Energy*F5*WMV;
+Band of the Mirage;
+Loop of Talent*F2*WMV;
+Loop of Tall Tales*F2*WMV;
+Partisan's Ring*F2*WMV;
+Ring of Mortality*F3*WMV;
+Ring of the Badlands*F2*WMV;
+Sparkling Band*F2;
+Victor's Signet*F5*WMV;
+
+| wands =
+Odji's Staff of Downpour*F5*WMV;
+
+| decks =
+Mummified Deck*F4;
+Pharaoh's Deck*F3*WMV;
+
+| items =
+Blue Krok Bust*F3*WMV;
+Bowl of Dates*F2;
+Krok Sun Plaque*F3*WMV;
+Krokotopia Theme 2*F5*WMV;
+Purple Painted Column*F2*WMV;
+
+| cards =
+Accurate;
+Blizzard;
+Evil Snowman;
+Evil Snowman (Tier 2b)*BR*F8*WMV;
+Fire Cat (Tier 2b)*BR*F5;
+Fire Elf;
+Fire Elf (Tier 2b)*BR*F4;
+Frost Beetle;
+Frost Beetle (Tier 2b)*BR*F5;
+Ice Trap;
+Krokotillian*F5*WMV;
+Lightning Bats (Tier 2b)*BR*F9*WMV;
+Locust Swarm;
+Meteor Strike;
+Mutate Cat (Storm);
+Sandstorm;
+Scarab (Tier 2b)*BR*F4;
+Scorpion (Tier 2b)*BR;
+Snow Serpent (Tier 2b)*BR*F4;
+Sprite;
+Storm Shark*F2;
+Storm Shark (Tier 2b)*BR*F10*WMV;
+Storm Trap;
+Sunbird*F2*WMV;
+Sunbird (Tier 2b)*BR*F6;
+Tempest;
+Thunder Snake (Tier 2b)*BR*F8*WMV;
+Vampire;
+
+| reagents =
+Bronze Gear*F2;
+Copper*F3*WMV;
+Iron*F3*WMV;
+Nickel;
+Pyrite*F6*WMV;
+Spider Silk;
+
+| spellements =
+Evil Snowman*BR*F8*WMV;
+Fire Cat*BR*F9*WMV;
+Fire Elf*BR*F13*WMV;
+Frost Beetle*BR*F8*WMV;
+Lightning Bats*BR*F6*WMV;
+Locust Swarm*BR*F5;
+Scarab*BR*F3;
+Scorpion*BR*F3;
+Snow Serpent*BR*F7*WMV;
+Storm Shark*BR*F7;
+Sunbird*BR*F7*WMV;
+Thunder Snake*BR*F7;
+
+| snacks =
+Cracker*F2*WMV;
+Green Grapes*F3*WMV;
+Nettle Root*F5*WMV;
+Tiny Fish*F2*WMV;
+
+| jewels =
+Balance-Giver Citrine;
+Big Boost Opal;
+Chipped Mana Opal +10*F2;
+Chipped Mana Opal +11;
+Cracked Damage Amethyst +2;
+Cracked Damage Citrine +2;
+Cracked Damage Ruby +2;
+Cracked Defense Amethyst +7*F2;
+Cracked Defense Amethyst +8;
+Cracked Defense Citrine +11;
+Cracked Defense Citrine +12*F3;
+Cracked Defense Jade +8;
+Cracked Defense Jade +12*F2*WMV;
+Cracked Defense Opal +3;
+Cracked Defense Opal +4*F2;
+Cracked Defense Onyx +8;
+Cracked Defense Sapphire +7;
+Cracked Defense Sapphire +8;
+Cracked Defense Sapphire +12;
+Cracked Health Opal +11;
+Cracked Health Opal +13;
+Cracked Health Opal +15;
+Cracked Mana Opal +5;
+Cracked Resilient Opal +1%;
+Fire Cat Ruby;
+Frost Beetle Sapphire*F2;
+Gold Miner Opal;
+Imp Jade*F3;
+Intrepid Opal;
+Life-Boon Jade;
+Thunder Snake Amethyst;
+Unbalancer Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2;
+Pink Dandelion*CR*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

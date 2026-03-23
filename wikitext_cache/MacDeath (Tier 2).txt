@@ -1,0 +1,206 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 3,360
+| crecla = Fox
+| crecla2 = Undead
+| school = Death
+| cheats = Yes
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions = 
+
+| summons =
+MacDeath Understudy (Tier 2);
+MacLife Understudy (Tier 2);
+MacStorm Understudy (Tier 2);
+
+| world = Housing Instance
+| location = Playhouse
+| subloc1 = Playhouse (Tier 2)
+| descrip =
+MacDeath (Tier 2) is considered a Boss for the purpose of drops.  All drops from this duel are recorded on this page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Some say he was spawned when a reviewer called his play "a tale told by an idiot" and the play just wasn't having it.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Late arrivals will not be seated"'' - MacDeath (Tier 2) will cast Feint (+75%), Curse (+25%), and Hex (+35%) on any Wizard who joins the battle after the second turn.
+*{{Icon|Minion}} ''"May a choir of understudies sing thee to thy rest"'' - MacDeath (Tier 2) will cast a Moon Spell to summon one of the following Minions:
+**{{Link|Creature|MacDeath Understudy (Tier 2)}}, {{Link|Creature|MacLife Understudy (Tier 2)}}, {{Link|Creature|MacStorm Understudy (Tier 2)}},
+*{{Icon|Global}}{{Icon|Healing}} ''"Out, out, brief candle!"'' - MacDeath (Tier 2) casts a 75% [[Spell:Doom and Gloom (-75%)|Doom and Gloom]] if a Global or Healing Spell is cast.
+*{{Icon|Damage over Time}} ''"Wizards die a thousand times before their death!"'' - If a Damage over Time is cast on MacDeath (Tier 2), he will cheat-cast {{Link|Spell|Shift}} on the caster.
+
+| spellnotes =
+
+| casts =
+Ether Shield (-75%);
+Deathblade (+40%);
+Curse (+25%);
+Death Trap (+35%);
+Feint (+75%);
+Stun (80%);
+Doom and Gloom (-75%);
+Ghoul (180);
+Vampire (375);
+Skeletal Pirate (500-580);
+Deer Knight (330+300);
+
+| quests =
+The Play's the Thing;
+
+| gold =
+0 - 19;
+
+| hats =
+
+| robes =
+
+| boots =
+Dragonrider's Vigilant Boots (Level 100+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Broken Dragon Bust;
+Dragonclaw Pedestal;
+Dragonfire Brazier;
+Dragonhorn Trophy;
+Dragonmoon Marker*F3*WMV;
+Dragonmoon Obelisk;
+Dragonskull Marker;
+Dragonskull Plaque;
+Dragonwing Bust;
+Dramaturgy MacDeath Theme;
+Dramaturgy Main Theme;
+Dramaturgy Stagehand Theme;
+Dramaturgy Student Theme*F2;
+Singed Dragon Handbook;
+Snapdragon Flowerbed;
+
+| cards =
+Blue Phoenix;
+Dr. Von's Monster*F3;
+Dragonflies;
+Evil Snowman;
+Frost Beetle;
+Frostbite;
+Ghoul;
+Harvest Lord*F2;
+Ice Wyvern*F2;
+Icebird;
+Imp*F3;
+Phoenix;
+Pigsie*F5*WMV;
+Punishment;
+Scarab*F2;
+Scarecrow;
+Skeletal Dragon;
+Snow Bird;
+Storm Bird*F2*WMV;
+Sunbird;
+Yellow Troll;
+
+| reagents =
+Brass;
+Bronze;
+Bronze Gear;
+Citrine;
+Copper;
+Iron;
+Lead;
+Onyx*F2;
+Perfect Citrine*F2;
+Perfect Onyx;
+Perfect Peridot;
+Perfect Ruby*F2;
+Perfect Sapphire;
+Peridot;
+Platinum;
+Pyrite*F2;
+Ruby;
+Sapphire;
+Scrap Iron*F2*WMV;
+Silver;
+Steel;
+Tin;
+
+| spellements =
+
+| snacks =
+Beetle Cream Soda*F2;
+Bunch of Figs*F2*WMV;
+Cranberry Frog;
+Dragon Fruit;
+Hard Boiled Beetle Eggs;
+Lemon Daisy;
+Salmon Joy*F2*WMV;
+Sweet Mango*F2;
+Wheat Cracker*F2;
+Wormy Apple*F2*WMV;
+
+| jewels =
+Chipped Defense Opal +7;
+Chipped Health Opal +17;
+Chipped Mana Opal +10;
+Flawed Mending Opal +2%;
+Flawed Resilient Opal +2%*F3;
+
+| pins =
+
+| pets =
+Assailing Dragon;
+Crimson Spectre*F2;
+Skeletal Gladiator;
+
+| seeds =
+Sunion*CR*F3*WMV;
+
+| mounts =
+Dragon Wings*PERM;
+
+| spells =
+
+}}

@@ -1,0 +1,191 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 13,655
+| crecla = Aberration
+| crecla2 = Wizard
+| school = Shadow
+| masteries =
+Storm;
+Myth;
+Death;
+Balance;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+561 Any;
+
+| criticalblock =
+536 Any;
+
+| outpierce =
+27%;
+
+| outboost =
+137%;
+
+| incboost =
+None;
+
+| incresist =
+45% Fire, Ice, Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+3%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Aberration (Fire, Challenge);
+Aberration (Ice, Challenge);
+Aberration (Storm, Challenge);
+
+| summons =
+Aberration (Myth, Challenge);
+Aberration (Death, Challenge);
+Aberration (Life, Challenge);
+Aberration (Shadow, Challenge);
+Aberration (Balance, Challenge);
+Aberration (Balance, Challenge);
+
+| world = Karamelle
+| location = Karamelle City
+| subloc1 = Cavity Chamber (Challenge)
+| descrip =
+The Aberrant Paradox is the final boss of Karamelle storyline.
+*The strategy of the battle is to defeat all the minions before finishing the Aberrant Paradox.
+
+This Creature and its Minions always occupy the same following slots:
+*{{Target|Dagger}} Aberrant Paradox {{Icon|Shadow}}
+*{{Target|Key}} Aberration (Fire, Challenge) {{Icon|Fire}}
+*{{Target|Gem}} Aberration (Ice, Challenge) {{Icon|Ice}}
+*{{Target|Spiral}} Aberration (Storm, Challenge) {{Icon|Storm}}
+
+*For the Standard version of this battle, see {{Link|Creature|Aberrant Paradox (Standard)}}.
+
+'''Advanced Combat Rules:'''
+*Spell Decks cannot be changed while in this instance. (Make sure to set the spells in a deck before entering this instance).
+*No-PvP spells are disallowed in this fight.
+*PvP-Only Spells are allowed in this fight.
+*Wizards cannot re-join combat after fleeing mid-combat.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} If a Wizard joins the duel late, Aberrant Paradox will cast a single-target version of Power Nova for that Wizard's maximum Health, ignoring all Resist and all Wards. This occurs at the beginning of the Round.
+*{{Icon|Global}} At the beginning of the first Round, the Divine Paradox in the background will cast a random School Global Spell. These Global Spells boost the Damage of their School and weaken the Damage of the opposite School. The only exception is the Balance School, which weakens the damage of all other Schools. The first Global Spell lasts two Rounds. All others last three Rounds.
+**When this Global Spell is cast, all Wizards will receive a card related to the School of the Global Spell in their hand that cannot be discarded. Reshuffle does not remove them. These cards either help the enemy team or hurt the Wizard's team.
+**Changing the Global Spell will make the Aberrant Paradox recast the previous Global Spell that was in effect.
+**If the Global spell is changed by an enemy spell, such as {{Link|Spell|Gaze of Fate}}, the Global will not be recast.
+*{{Icon|Fire}} '''Fire Phase''' - Wizards will receive one of the following Spells.
+**{{GivesSpell|spells = 3|size = x150px|Cursed Smoke Screen|Anti-Steal Charm|Anti-Scimitars}}
+
+*{{Icon|Ice}} '''Ice Phase''' - Wizards will receive one of the following Spells.
+**{{GivesSpell|spells = 3|size = x150px|Anti-Tower Shield|Cursed Taunt|Anti-Climaclysm}}
+
+*{{Icon|Storm}} '''Storm Phase''' - Wizards will receive one of the following Spells.
+**{{GivesSpell|spells = 3|size = x150px|Anti-Cleanse Charm|Anti-Disarm|Anti-Iron Sultan}}
+
+*{{Icon|Myth}} '''Myth Phase''' - Wizards will receive one of the following Spells.
+**{{GivesSpell|spells = 3|size = x150px|Cursed Cleanse Ward|Cursed Stun|Anti-Snake Charmer}}
+
+*{{Icon|Life}} '''Life Phase''' - Wizards will receive one of the following Spells.
+**{{GivesSpell|spells = 3|size = x150px|Cursed Armor|Cursed Pigsie|Anti-Lamassu}}
+
+*{{Icon|Death}} '''Death Phase''' - Wizards will receive one of the following Spells.
+**{{GivesSpell|spells = 3|size = x150px|Cursed Infection|Cursed Juju|Qismah's Curse (2 Pip)}}
+
+*{{Icon|Balance}} '''Balance Phase''' - Wizards will receive one of the following Spells.
+**{{GivesSpell|spells = 3|size = x150px|Cursed Balanceblade|Cursed Mass Hex|Anti-Sand Wurm}}
+
+*{{Icon|Heal}} If all Aberrations are not defeated before the Aberrant Paradox, it will respawn with 5,775 Health. This also applies if the Wizard defeats the last Aberration on the turn the Aberrant Paradox is defeated.
+*{{Icon|Minion}}{{Icon|Afterlife}} Defeating any of the initial Minion Aberrations in the specified slot will summon the following Minions in the same slot.
+**{{Target|Key}} {{Link|Creature|Aberration (Myth, Challenge)}} {{Icon|Myth}}
+**{{Target|Gem}} {{Link|Creature|Aberration (Death, Challenge)}} {{Icon|Death}}
+**{{Target|Spiral}} {{Link|Creature|Aberration (Life, Challenge)}} {{Icon|Life}}
+*{{Icon|Minion}}{{Icon|Afterlife}} Defeating any of the second Minion Aberrations in the specified slot will summon the following Minions in the same slot. No more will spawn after this.
+**{{Target|Key}} {{Link|Creature|Aberration (Shadow, Challenge)}} {{Icon|Shadow}}
+**{{Target|Gem}} {{Link|Creature|Aberration (Balance, Challenge)}} {{Icon|Balance}}
+**{{Target|Spiral}} {{Link|Creature|Aberration (Balance, Challenge)}} {{Icon|Balance}}
+
+| spellnotes =
+*Casts a protected Shadowblade.
+*Casts Feint (Shadow) that applies a +70% Trap to all enemies and does not apply a Trap on Self.
+*Casts an All Enemies version of Poison (Shadow).
+*Casts a Tatzlewurm Terror (Shadow) that has a chance to Confuse Wizards for '''two''' or '''three''' Rounds.
+
+| casts =
+Conviction;
+Vengeance (6 Rounds);
+Tower Shield;
+Bad Juju;
+Healing Current;
+Shadowblade;
+Feint (Shadow);
+Steal Charm (Shadow);
+Snow Drift (Shadow);
+Steal Ward (Shadow);
+Stun;
+Shift (4 Pip);
+Detonate;
+Triage;
+Natural Attack (Shadow 105-210-315-420);
+Poison (Shadow);
+Iron Sultan (Shadow);
+Minotaur (Shadow);
+Call of Khrulhu (Shadow);
+Tatzlewurm Terror (Shadow);
+Storm Lord (Shadow);
+Leviathan (Shadow);
+Snowball Barrage (Shadow);
+Vengeful Seraph (Shadow);
+Supernova;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

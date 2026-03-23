@@ -1,0 +1,151 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 4,000
+| crecla = Wizard
+| crecla2 = Undead
+| school = Storm
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Dragonspyre
+| location = The Crucible
+| descrip =
+
+| speech =
+:''"I am Valerik Brightsword. I defeated the Council Wizard Kildare. He had been corrupted by the Aldared Crystal. That crystal contained the Usurper's soul. Prove to me that you are above the influence of liars and leaders. Defeat me in fair battle to pass this lesson."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+His once gleaming armor is a little more see through now. One might say he lacks the substance he once possessed.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Myth Shield;
+Weakness;
+Sprite;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Shark;
+Kraken;
+Stormzilla;
+Tempest;
+Vampire;
+Natural Attack (Balance 85x, 90%);
+Heck Hound;
+ 
+| quests =
+It's an Honor;
+
+| gold =
+60 - 70;
+
+| hats =
+Cowl of Blazes*F4*WMV;
+Headgear of the Ice Pilot*F2;
+Hood of the Historian*F2;
+Ozone Shroud*F2;
+
+| robes =
+Cloak of the Seasons*F4*WMV;
+Drape of Symmetry*F2*WMV;
+Tunic of Effervescence*F2;
+Valerik's Chilled Vestment;
+
+| boots =
+Footgear of Craftsmanship*F3*WMV;
+Monsoon Mocassins*F4*WMV;
+Sandals of the Prophet*F5*WMV;
+Shoes of Gloom*F2;
+Slippers of the Ice Flow*F6*WMV;
+Slippers of the Slipstream*F2;
+Valerik's Sandals of Destiny*F2;
+
+| athames =
+Soothing Steel;
+Stonecutter*F5*WMV;
+
+| amulets =
+
+| rings =
+Signet of the Reaper;
+
+| wands =
+
+| decks =
+Deck of Perfect Harmony;
+
+| items =
+Drake Marker*F3*WMV;
+Snowflake Plaque*F2;
+
+| cards =
+
+| reagents =
+Brass;
+Cobalt*F2;
+Leather Straps*F8*WMV;
+Nickel*F3;
+Tin*F3;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Dull Blocking Onyx +4*F2;
+Dull Damage Citrine +13;
+Dull Damage Jade +13;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fiery Boom Shroom*F2;
+King Parsley*CR*F3*WMV;
+Maelstrom Snap Dragon*F4*WMV;
+Pink Dandelion*CR*F4*WMV;
+White Laugh-O-Dil*F2;
+
+| mounts =
+
+| spells =
+
+}}

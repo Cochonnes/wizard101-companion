@@ -1,0 +1,460 @@
+Zero quests parsed for MooShu.
+URL: https://finalbastion.com/wizard101-guides/w101-quest-guides/mooshu-main-quest-line-guide/
+
+Check mooshu_plain.txt and the parse log below.
+
+PARSE LOG — MooShu
+============================================================
+
+L0000 SKIP    : Home
+L0001 SKIP    : →
+L0002 IGNORED : Wizard101-Worlds
+L0003 SKIP    : →
+L0004 SKIP    : Mooshu
+L0005 SKIP    : →
+L0006 AREA    : Mooshu Main Quest Line Guide
+L0007 SKIP    : April 15, 2009
+L0008 SKIP    : October 21, 2024
+L0009 IGNORED : misthead
+L0010 AREA    : Wizard101 Main Quest Line
+L0011 SKIP    : Mooshu
+L0012 SKIP    : [Looking for a different part of this series? Click here]
+L0013 SKIP    : This guide is meant to give you courage while questing. By following the quests 
+L0014 IGNORED : I’m only listing the
+L0015 SKIP    : main quest line quests
+L0016 IGNORED : , aka
+L0017 SKIP    : storyline quests
+L0018 IGNORED : ,
+L0019 IGNORED : which means the ones you
+L0020 IGNORED : have
+L0021 IGNORED : to do in order to get to the next area. Side quests are not mentioned. For each
+L0022 IGNORED : world
+L0023 IGNORED : , I list the quests you have to do
+L0024 IGNORED : in a certain area
+L0025 IGNORED : . The areas are listed in the order you should do them in (unless otherwise spec
+L0026 SKIP    : Between brackets
+L0027 IGNORED : are the different parts of the quest, as sometimes a quest will require you to d
+L0028 SKIP    : I have divided the quests in the Spiral into the following groups:
+L0029 SKIP    : Talk:
+L0030 SKIP    : Quests that require an interaction with an NPC.
+L0031 SKIP    : Mob
+L0032 IGNORED : :
+L0033 SKIP    : Quests that require the defeat of regular monsters.
+L0034 SKIP    : D&C
+L0035 IGNORED : :
+L0036 SKIP    : Quests that require the collection of something from certain monsters (Defeat an
+L0037 SKIP    : Boss
+L0038 IGNORED : :
+L0039 SKIP    : Quests that require the defeat of a boss. Elite monsters are not counted as boss
+L0040 SKIP    : Cheat
+L0041 IGNORED : :
+L0042 SKIP    : Quests the require the defeat of a cheating boss.
+L0043 SKIP    : Instance
+L0044 IGNORED : :
+L0045 SKIP    : Quests that require the completion of a dungeon.
+L0046 SKIP    : Puzzle:
+L0047 SKIP    : Quests that require the solution to a puzzle.
+L0048 SKIP    : Interact:
+L0049 SKIP    : Quests that require interaction with a certain object.
+L0050 SKIP    : Collect
+L0051 SKIP    : : Quests that require interaction with multiple items of a kind.
+L0052 SKIP    : Explore
+L0053 SKIP    : : Quests that just require you to run towards a certain area, NPC or item.
+L0054 AREA    : Mooshu Main Quest Line
+L0055 SKIP    : Mooshu
+L0056 SKIP    : has a total of
+L0057 IGNORED : 88
+L0058 IGNORED : quests
+L0059 IGNORED : . There are
+L0060 IGNORED : 28
+L0061 IGNORED : bosses
+L0062 IGNORED : ,
+L0063 IGNORED : 10
+L0064 IGNORED : mob fights
+L0065 IGNORED : (Really? So few?) and
+L0066 IGNORED : 6
+L0067 AREA    : Defeat and Collect
+L0068 IGNORED : quests.
+L0069 IGNORED : The world has 3 instances, with Crimson Fields being the longest. That one takes
+L0070 IGNORED : Let’s mention some other of my favorite quests! There’s the Scout Towers you get
+L0071 AREA    : Jade Palace
+L0072 IGNORED : 1. Bad News (talk)
+L0073 IGNORED : 2. MooShu (explore + talk)
+L0074 IGNORED : 3. Welcome to MooShu? (talk)
+L0075 IGNORED : 4. Mind Games (talk)
+L0076 IGNORED : 5. Do You Mind? (explore + interact + talk + talk)
+L0077 IGNORED : 6. A Test of Strength (talk + explore +
+L0078 SKIP    : boss
+L0079 IGNORED : + talk)
+L0080 IGNORED : 7. The Great Mooddha (explore + talk + talk)
+L0081 IGNORED : 8. An Ailing Emperor (talk)
+L0082 AREA    : Hametsu Village
+L0083 IGNORED : 9. War Pigs (talk)
+L0084 IGNORED : 10. Counting Sheep (explore 4x + talk)
+L0085 IGNORED : 11. Armed and Dangerous (interact + talk)
+L0086 IGNORED : 12. Sneak Attack (
+L0087 SKIP    : mob
+L0088 IGNORED : +
+L0089 SKIP    : mob
+L0090 IGNORED : + talk)
+L0091 IGNORED : 13. Never Again (
+L0092 SKIP    : D&C
+L0093 IGNORED : + talk)
+L0094 IGNORED : 14. Following Orders (
+L0095 SKIP    : boss
+L0096 IGNORED : + talk)
+L0097 AREA    : Tatakai Outpost
+L0098 IGNORED : 15. Spies Like Us (talk)
+L0099 IGNORED : 16. Inside Scoop (interact 3x + talk)
+L0100 IGNORED : 17. Cold Cut (talk)
+L0101 IGNORED : 18. Appetite for Destruction (interact + talk)
+L0102 IGNORED : 19. Run Away, Run Away! (
+L0103 SKIP    : mob
+L0104 IGNORED : + talk)
+L0105 IGNORED : 20. No Quarter (
+L0106 SKIP    : boss
+L0107 IGNORED : + talk)
+L0108 IGNORED : 21. A Fighting Chance (talk)
+L0109 IGNORED : 22. You’re Fired! (interact + talk)
+L0110 IGNORED : 23. Key to Success (
+L0111 SKIP    : D&C
+L0112 IGNORED : + talk)
+L0113 IGNORED : 24. Let Me Shek (
+L0114 SKIP    : boss
+L0115 IGNORED : + talk)
+L0116 IGNORED : 25. A Tale of Two Brothers (talk)
+L0117 AREA    : Crimson Fields
+L0118 IGNORED : 26.
+L0119 AREA    : To the Front! (talk)
+L0120 IGNORED : 27. The General (
+L0121 SKIP    : instance
+L0122 IGNORED : : talk + talk)
+L0123 IGNORED : 28. A Strong Defense… (
+L0124 SKIP    : instance
+L0125 IGNORED : : interact + talk)
+L0126 IGNORED : 29. Is a Good Defense (
+L0127 SKIP    : instance
+L0128 IGNORED : : interact 3x + talk)
+L0129 IGNORED : 30. Scouring for Scouts (
+L0130 SKIP    : instance
+L0131 IGNORED : : talk 3x)
+L0132 IGNORED : 31. A Soldier’s Duty (
+L0133 SKIP    : instance
+L0134 IGNORED : : talk)
+L0135 IGNORED : 32. Stone Cold (
+L0136 SKIP    : instance
+L0137 IGNORED : :
+L0138 SKIP    : boss
+L0139 IGNORED : + talk)
+L0140 IGNORED : 33. Passing Stones (
+L0141 SKIP    : instance
+L0142 IGNORED : : interact + interact + talk + talk)
+L0143 IGNORED : 26.
+L0144 AREA    : To the Front! (
+L0145 SKIP    : instance
+L0146 IGNORED : :
+L0147 SKIP    : boss
+L0148 IGNORED : +
+L0149 SKIP    : boss
+L0150 IGNORED : + talk)
+L0151 IGNORED : 34. Battle of Everymore (
+L0152 SKIP    : instance
+L0153 IGNORED : :
+L0154 SKIP    : mob
+L0155 IGNORED : + talk)
+L0156 IGNORED : 35. Warlord Katsumori (
+L0157 SKIP    : instance
+L0158 IGNORED : :
+L0159 SKIP    : boss
+L0160 IGNORED : +
+L0161 SKIP    : boss
+L0162 IGNORED : + talk)
+L0163 IGNORED : 26.
+L0164 AREA    : To the Front! (talk)
+L0165 AREA    : Shoshun Village / Cave of Solitude
+L0166 IGNORED : 36. Sword of Omens (talk)
+L0167 IGNORED : 37. Clear Waters (talk)
+L0168 IGNORED : 38. Patience (talk)
+L0169 IGNORED : 39. No Disassemble (
+L0170 SKIP    : D&C
+L0171 IGNORED : + talk)
+L0172 IGNORED : 40. Second Serving (
+L0173 SKIP    : boss
+L0174 IGNORED : + talk)
+L0175 IGNORED : 41. Hut Hut Hut! (explore 2x +
+L0176 SKIP    : mob
+L0177 IGNORED : 2x + talk)
+L0178 IGNORED : 42. Pagoda Puzzle (
+L0179 SKIP    : boss
+L0180 IGNORED : + talk)
+L0181 IGNORED : 43. The Final Peace (
+L0182 SKIP    : boss
+L0183 IGNORED : + talk)
+L0184 IGNORED : 44. Forest Flowers (collect + talk)
+L0185 IGNORED : 45. Spiritual Offering (interact + talk)
+L0186 IGNORED : 46. Jade Scepter (talk)
+L0187 AREA    : Kishibe Village
+L0188 IGNORED : 47. Due Diligence (talk)
+L0189 IGNORED : 48. Earth Day (talk)
+L0190 IGNORED : 49. Crazy for You (collect + talk)
+L0191 IGNORED : 50. Shrining Example (interact + talk)
+L0192 IGNORED : 51. Happy Earth Spirits (talk)
+L0193 IGNORED : 52. Water Everywhere… (
+L0194 SKIP    : mob
+L0195 IGNORED : + talk)
+L0196 IGNORED : 53. Monknapping! (
+L0197 SKIP    : boss
+L0198 IGNORED : + talk + talk)
+L0199 IGNORED : 54. Did You Miss Me? (interact + talk)
+L0200 IGNORED : 55. Beauty Is Shrine Deep (talk)
+L0201 IGNORED : 56. A Good Guardian (talk + talk)
+L0202 IGNORED : 57. …Is Hard to Find (talk)
+L0203 IGNORED : 58. For the Emperor! (
+L0204 SKIP    : mob
+L0205 IGNORED : + talk)
+L0206 IGNORED : 59. Stolen Food (talk +
+L0207 SKIP    : D&C
+L0208 IGNORED : + talk)
+L0209 IGNORED : 60. Monk Follies (talk + talk)
+L0210 IGNORED : 61. Worthy Acts (
+L0211 SKIP    : boss
+L0212 IGNORED : + talk 3x)
+L0213 IGNORED : 62. Air Apparent (talk + interact + talk + talk)
+L0214 IGNORED : 63. The Stuff of Epics (talk)
+L0215 AREA    : Shirataki Temple
+L0216 IGNORED : 64.
+L0217 AREA    : Release (talk)
+L0218 IGNORED : 65. River Temple (
+L0219 SKIP    : instance
+L0220 IGNORED : :
+L0221 SKIP    : boss
+L0222 IGNORED : + talk +
+L0223 SKIP    : boss
+L0224 IGNORED : )
+L0225 IGNORED : 66. Summoning the Spirit (
+L0226 SKIP    : instance
+L0227 IGNORED : : talk +
+L0228 SKIP    : mob
+L0229 IGNORED : 3x +
+L0230 SKIP    : boss
+L0231 IGNORED : + interact 4x +
+L0232 SKIP    : boss
+L0233 IGNORED : )
+L0234 IGNORED : 64.
+L0235 AREA    : Release (
+L0236 SKIP    : instance
+L0237 IGNORED : :
+L0238 SKIP    : boss
+L0239 IGNORED : +
+L0240 SKIP    : boss
+L0241 IGNORED : + talk)
+L0242 AREA    : Ancient Burial Grounds
+L0243 IGNORED : 67. Contemplation (talk)
+L0244 IGNORED : 68. Oni of Death (talk)
+L0245 IGNORED : 69. The Only Way (explore + talk)
+L0246 IGNORED : 70. A Hand from Beyond (interact + talk)
+L0247 IGNORED : 71. Shadowy Secrets (explore +
+L0248 SKIP    : mob
+L0249 IGNORED : + interact + talk)
+L0250 IGNORED : 72. Third Time’s the Charm (
+L0251 SKIP    : boss
+L0252 IGNORED : + interact + talk)
+L0253 IGNORED : 73. Torchure (
+L0254 SKIP    : boss
+L0255 IGNORED : + talk)
+L0256 IGNORED : 74. A Dirty Job (interact + talk)
+L0257 IGNORED : 75. To the Great Beyond (
+L0258 SKIP    : boss
+L0259 IGNORED : + talk)
+L0260 IGNORED : 76. Grandpa Says Hi! (talk)
+L0261 AREA    : Village of Sorrow
+L0262 IGNORED : 77. Desperate Measures (explore + talk)
+L0263 IGNORED : 78. Be Very, Very Quiet (
+L0264 SKIP    : mob
+L0265 IGNORED : + talk)
+L0266 IGNORED : 79. Or Call a Locksmith (
+L0267 SKIP    : D&C
+L0268 IGNORED : + talk)
+L0269 IGNORED : 80. Spiritual Awakening (talk +
+L0270 SKIP    : boss
+L0271 IGNORED : + talk + talk)
+L0272 IGNORED : 81. Chain Request (talk)
+L0273 IGNORED : 82. Soooool Chain (
+L0274 SKIP    : D&C
+L0275 IGNORED : + talk + interact + talk)
+L0276 IGNORED : 83. A Good Forgery (talk)
+L0277 IGNORED : 84. Smells Like Spirit (
+L0278 SKIP    : boss
+L0279 IGNORED : + talk)
+L0280 AREA    : Yoshihito Temple
+L0281 IGNORED : 85. Carried Away (talk)
+L0282 IGNORED : 86.
+L0283 AREA    : Oni No Death (interact)
+L0284 IGNORED : 87. Left Behind (
+L0285 SKIP    : instance
+L0286 IGNORED : : talk + explore)
+L0287 IGNORED : 88. Question of Faith (
+L0288 SKIP    : instance
+L0289 IGNORED : : talk +
+L0290 SKIP    : boss
+L0291 IGNORED : + talk)
+L0292 IGNORED : 89. Tree of Life (
+L0293 SKIP    : instance
+L0294 IGNORED : : interact +
+L0295 SKIP    : boss
+L0296 IGNORED : )
+L0297 IGNORED : 86.
+L0298 AREA    : Oni No Death (
+L0299 SKIP    : instance
+L0300 IGNORED : :
+L0301 SKIP    : boss
+L0302 IGNORED : + talk + talk)
+L0303 AREA    : Instance name
+L0304 IGNORED : : Tree of Life
+L0305 AREA    : Emperor’s Throne Room
+L0306 IGNORED : 87. An Imperial Cure (interact +
+L0307 SKIP    : boss
+L0308 IGNORED : + talk)
+L0309 IGNORED : 88. The Key At Last (talk)
+L0310 SKIP    : Finished the Mooshu main quest line? Take a look below at what comes next!
+L0311 SKIP    : All Wizard101 Main Quest Line Guides
+L0312 SKIP    : Wizard City
+L0313 SKIP    : Krokotopia
+L0314 SKIP    : Marleybone
+L0315 SKIP    : Mooshu
+L0316 SKIP    : Dragonspyre
+L0317 SKIP    : Celestia
+L0318 SKIP    : Zafaria
+L0319 SKIP    : Avalon
+L0320 SKIP    : Azteca
+L0321 SKIP    : Khrysalis
+L0322 SKIP    : Polaris
+L0323 SKIP    : Mirage
+L0324 SKIP    : Empyrea
+L0325 SKIP    : Karamelle
+L0326 SKIP    : Lemuria
+L0327 SKIP    : Novus
+L0328 SKIP    : Wallaru
+L0329 SKIP    : Grizzleheim
+L0330 SKIP    : Wysteria
+L0331 SKIP    : Catacombs
+L0332 SKIP    : Happy Questing!
+L0333 SKIP    : Share your vote!
+L0334 SKIP    : No, thanks.
+L0335 SKIP    : Do you like this post?
+L0336 SKIP    : Fascinated
+L0337 AREA    : Happy
+L0338 AREA    : Sad
+L0339 AREA    : Angry
+L0340 SKIP    : Bored
+L0341 SKIP    : Afraid
+L0342 SKIP    : About the author
+L0343 SKIP    : Latest posts
+L0344 IGNORED : misthead
+L0345 IGNORED : While misthead has written all kinds of guides, the most popular by far are her 
+L0346 AREA    : Wizard101 Spider Pets Guide
+L0347 IGNORED : 2019-05-08 20:51:03
+L0348 AREA    : W101 Floor Tiles Organized By Color
+L0349 IGNORED : 2019-02-24 11:00:49
+L0350 AREA    : Level 48 School Pets and Hybrids
+L0351 IGNORED : 2019-02-14 20:20:44
+L0352 AREA    : Wizard101 Piggle Pets Guide
+L0353 IGNORED : 2019-02-08 15:14:27
+L0354 AREA    : W101 Wallpapers Organized by Color
+L0355 IGNORED : 2019-01-31 07:32:53
+L0356 IGNORED : 18 COMMENTS
+L0357 IGNORED : anon
+L0358 SKIP    : October 17, 2024
+L0359 AREA    : Reply
+L0360 IGNORED : 66 has 3 mob fights and 1 boss fight on the shrine portion (talk+mob 3x boss 1x)
+L0361 IGNORED : stormbreaker
+L0362 SKIP    : October 21, 2024
+L0363 AREA    : Reply
+L0364 IGNORED : Thanks, fixed.
+L0365 IGNORED : PKHacker1337
+L0366 SKIP    : June 20, 2023
+L0367 AREA    : Reply
+L0368 IGNORED : On Water Everywhere, fighting the minion is optional. You can just walk or telep
+L0369 AREA    : Anon
+L0370 SKIP    : September 6, 2022
+L0371 AREA    : Reply
+L0372 IGNORED : 66 should be updated to mob x4 then interact. You have to battle before you can 
+L0373 IGNORED : stormbreaker
+L0374 SKIP    : September 6, 2022
+L0375 AREA    : Reply
+L0376 IGNORED : Thanks, fixed.
+L0377 AREA    : Melz
+L0378 SKIP    : April 28, 2022
+L0379 AREA    : Reply
+L0380 IGNORED : Quest 66. Summoning the Spirit has you fight a mob or a boss before each interac
+L0381 AREA    : Zac Allen
+L0382 SKIP    : July 18, 2021
+L0383 AREA    : Reply
+L0384 IGNORED : ‘A test of strength’ is a solo boss
+L0385 AREA    : Scot JadeHand
+L0386 SKIP    : June 8, 2021
+L0387 AREA    : Reply
+L0388 AREA    : Quest 75 is a solo boss fight.
+L0389 AREA    : Whitney Serial
+L0390 SKIP    : May 31, 2021
+L0391 AREA    : Reply
+L0392 IGNORED : 82. is called Soooooul Chain
+L0393 IGNORED : anony mous
+L0394 SKIP    : April 24, 2021
+L0395 AREA    : Reply
+L0396 SKIP    : Shouldn’t “87. An Imperial Cure” and “88. The Key At Last” be changed to 90 and 
+L0397 IGNORED : mason
+L0398 SKIP    : December 18, 2020
+L0399 AREA    : Reply
+L0400 AREA    : Quest 6 and 75 are solo bosses.
+L0401 AREA    : Alex Wraith
+L0402 SKIP    : April 7, 2020
+L0403 AREA    : Reply
+L0404 AREA    : What does D&C mean?
+L0405 AREA    : Alex Wraith
+L0406 SKIP    : April 7, 2020
+L0407 AREA    : Reply
+L0408 IGNORED : nevermind figured it out lol defeat and collect
+L0409 AREA    : Cory
+L0410 SKIP    : July 15, 2019
+L0411 AREA    : Reply
+L0412 IGNORED : the quest: “To the Great Beyond” is a solo boss 🙂
+L0413 AREA    : Mateo
+L0414 SKIP    : February 2, 2019
+L0415 AREA    : Reply
+L0416 IGNORED : Hey, how come Tatakai Outpost is not listed? A lot of the quests under Hametsu V
+L0417 IGNORED : misthead
+L0418 SKIP    : February 2, 2019
+L0419 AREA    : Reply
+L0420 AREA    : I added Tatakai Outpost now! Thanks for noticing 🙂
+L0421 AREA    : Evan Wildeyes
+L0422 SKIP    : January 2, 2019
+L0423 AREA    : Reply
+L0424 IGNORED : I am in cave of solitude and the questing for this area is not listed.  do you m
+L0425 AREA    : Tony
+L0426 SKIP    : January 5, 2019
+L0427 AREA    : Reply
+L0428 IGNORED : The quest named “Patience”would be which you were looking for. I believe she joi
+L0429 AREA    : Good luck questing!
+L0430 SKIP    : Leave a Reply
+L0431 SKIP    : Cancel reply
+L0432 AREA    : Your email address will not be published.
+L0433 SKIP    : Required fields are marked
+L0434 IGNORED : *
+L0435 AREA    : Comment
+L0436 IGNORED : *
+L0437 AREA    : Name
+L0438 IGNORED : *
+L0439 AREA    : Email
+L0440 IGNORED : *
+L0441 AREA    : Website
+L0442 AREA    : Current ye@r
+L0443 IGNORED : *
+L0444 AREA    : Leave this field empty
+L0445 SKIP    : Previous Post
+L0446 IGNORED : Mooshu Zeke Quest – Blue Oysters
+L0447 SKIP    : Next Post
+L0448 AREA    : Mooshu Monstrology Creatures
+
+SUMMARY: 0 quests in 0 areas
+Stats: {'total_quests': 88, 'mob_fights': 10, 'dc_quests': 6, 'boss_fights': 28, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}

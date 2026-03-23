@@ -1,0 +1,233 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 16,920
+| crecla = Squid
+| school = Balance
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = Crab Alley
+| subloc1 = Waterworks
+| descrip =
+
+| speech =
+:''"Don't think you can mess with our gravy train and get away with it, little Wizard! You won't leave here alive!"''
+
+| cheatnotes =
+*{{Icon|Ward}} Luska will cast '''{{Link|Spell|Cleanse Ward}}''' to remove a Trap that is placed on him.
+**Pet spells will not trigger this cheat.
+**Only the first trap will be removed from spells that apply more than one trap.
+**Traps with {{Link|Spell|Indemnity}} enchantment will prevent any traps from being removed.
+**AoE traps such as {{Link|Spell|Windstorm}} will not trigger this cheat.
+*{{Icon|Round}} ''"Only attack if you have been inked!"'' - At the beginning of each Round, Luska will "Ink" the Wizard in the first spot (Sun spot), which applies a '''{{Link|Spell|Smoke Mantle}}'''. All other Wizards will receive a '''{{Link|Spell|Feint}}''' (this does not apply the +30% trap on himself).
+**{{Icon|Health}} ''"Still fighting? Have some more ink!"'' - When he loses 25% of his health (12,690 health remaining), he will also Ink the second Wizard (Eye spot) each Round.
+***When he loses 50% of his health (8,460 health remaining), he will also Ink the third Wizard (Star spot)<br/>each Round.
+***He will never Ink the fourth Wizard (Moon spot).
+*{{Icon|Damage}} {{Icon|Weakness}} {{Icon|Trap}} {{Icon|Aura}} ''"If you can still see me, don't look at me!"'' - If a non-inked Wizard casts a single-target spell at Luska (e.g. attacks, traps, negative charms and auras), he will interrupt to remove all wards from himself and all Wizards, then cast either '''{{Link|Spell|Skeletal Dragon}}''' (at the Wizard who cast the spell), dealing '''1,200''' Death damage or '''{{Link|Spell|Power Link}}''' (at the Wizard who cast the spell), dealing '''2,100''' Fire damage and 600 healing for 3 rounds.
+**Only Wizards who have been Inked can cast single-target spells at Luska without retaliation. He will still remove traps from himself.
+**Any Wizard can cast attack all-enemy spells without triggering this cheat.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 125 Storm Damage per Pip.
+
+| casts =
+Balanceblade;
+Elemental Blade;
+Hex;
+Elemental Trap;
+Sandstorm;
+Spectral Blast;
+Gearhead Destroyer;
+Hydra;
+Power Nova;
+Judgement;
+
+| quests =
+
+| gold =
+93 - 158;
+
+| hats =
+Facade of Fairness;
+Firestarter's Hood*F2*WMV;
+Forgotten Facade;
+Frostbit Hood;
+Hangman's Hood*F3;
+Helm of Burning Ambition*F2;
+Hood of Esprit*F3*WMV;
+Hood of Judgment*F2*WMV;
+Insightful Topper;
+Nereus's Hoarfrost Helm;
+Rising Tide Topper;
+Savory Shroud*CR*F2;
+Shroud of Solitude*F2;
+Skyscream Hood*F2*WMV;
+Storyteller's Cap;
+Synthesis Cover;
+Tricksy Hood*F3;
+Vital Headdress;
+
+| robes =
+Devoted Vestment*F5*WMV;
+Mysterious Costume;
+Reckless Raiment;
+Salgio's Tinder Cloak*F4*WMV;
+Storyteller's Tunic*F2;
+Tasty Tunic*CR;
+Tragic Tunic;
+Turbulent Tunic*F2;
+Whimsical Surcoat*F4;
+
+| boots =
+Boots of Catastrophe*F2;
+Brimstone Boots*F2;
+Delectable Hooves*CR;
+Frostbit Footguards*F2;
+Ice Rangers*F2*WMV;
+Icestar Stalkers*F4*WMV;
+Natural Boots*F3;
+Polar Boots;
+Rime Runners;
+Tolerant Boots;
+Virtue Shoes*F2;
+Wraps of Rapport*F2*WMV;
+
+| athames =
+Dagger of Typhoons*F3;
+Dirk of Delusion*F3;
+Kris of the Piscean Guard*F4;
+
+| amulets =
+Balance Mastery Amulet*CR;
+Death Mastery Amulet*CR;
+Fire Mastery Amulet*CR;
+Ice Mastery Amulet*CR;
+Life Mastery Amulet*CR*F2*WMV;
+Myth Mastery Amulet*CR;
+Storm Mastery Amulet*CR;
+
+| rings =
+Combustible Band*F3*WMV;
+Majestic Signet*F4;
+Ring of Rare Origins*F2;
+Typhoon Band;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Balefrost*F5*WMV;
+Darkwind*F3;
+Donate Power*F6*WMV;
+Doom and Gloom*F7*WMV;
+Dragonflies*F8;
+Empower*F10*WMV;
+Gargantuan*F5*WMV;
+Minotaur*F4*WMV;
+Mutate Snowman (Fire)*F5*WMV;
+Mutate Snowman (Storm);
+Pest Zapper*F2;
+Sanctuary*F7;
+Unstoppable*F9*WMV;
+Wyldfire*F8*WMV;
+
+| reagents =
+Bronze*F2;
+Fish Fin*F16*WMV;
+Mithril;
+Sandstone*F14*WMV;
+Scales*F4*WMV;
+Silver;
+Steel*F2;
+Sunstone*F6*WMV;
+Titanium;
+
+| spellements =
+
+| snacks =
+Baby Carrot;
+Captain Canteloupe*F3;
+Cauliflowers*F7*WMV;
+Cherry Tomato*F2*WMV;
+Cubby Broccoli;
+Delicious Cookie*F5*WMV;
+Dragonhorned Melon*F2*WMV;
+Fancy Yogurt*F2*WMV;
+Flowering Pineapple*F2*WMV;
+Glowing Star Fruit*F7;
+Glowing Taffy*F5;
+Golden Wheat Bread*F3*WMV;
+Green Tomato;
+Hambrosia;
+Mystic Dragon Fruit;
+Spicy Drumstick*F8*WMV;
+Strawberry Cupcake*F5;
+Submarine Sandwich*F8*WMV;
+Sun Fruit;
+Yellow Corn;
+
+| jewels =
+Black Widow Onyx;
+Buff Minion Peridot;
+Bullheaded Peridot;
+Clear Defense Hematite +40;
+Cyclops Minion Peridot;
+Draw Health Sapphire;
+Get Sunbird Ruby;
+Mander Minion Citrine;
+No Pain, No Gain Onyx;
+Polished Critical Citrine +11;
+Polished Damage Peridot +21;
+Polished Damage Sapphire +21;
+Polished Defense Opal +22*F2;
+Polished Health Opal +90;
+Sap Power Amethyst;
+Storm Elemental Opal;
+Take Power Ruby;
+Time Skip Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F3;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F3;
+Silver Trumpet Vine*CR*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

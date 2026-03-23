@@ -1,0 +1,151 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 12,920
+| crecla = Fox
+| school = Balance
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Cullen Mac Heath;
+Fell Jack Gryffud;
+
+| world = Avalon
+| location = High Road
+| subloc1 = Vortigern's Tower
+| descrip = 
+Conjurers must defeat Merewen 'o the Vale to earn their {{Link|Spell|Celestial Calendar}} Spell.
+
+| speech =
+:''"What's this, boys?  A lowly thief, come to steal from us bandits?  Not today!  Let's send 'em back home crying!"''
+
+| spellnotes =
+
+| casts =
+Infallible;
+Vengeance;
+Black Mantle;
+Availing Hands;
+Balanceblade;
+Hex;
+Mana Burn;
+Natural Attack (Balance 175-350-525);
+Samoorai;
+Power Nova;
+Sabertooth;
+Judgement;
+
+| quests =
+Mark Your Calendar
+
+| gold =
+190 - 220;
+
+| hats =
+Twisted Fang Mask;
+Tyrant of Beasts Mask;
+
+| robes =
+Black Sun Chac's Armor;
+Lord of Night Robes;
+
+| boots =
+Black Butterfly Guard's Wraps;
+Elite Jura Guard Stalkers;
+Five Fangs of Fury Boots;
+Indigo Wing Striders;
+Tree of Secrets Chac Runners;
+
+| athames =
+Winged Tooth Knight's Hook;
+
+| amulets =
+Courage Charm of Jade Wings;
+Horizon of Underworld Charm;
+Pendant of the Wild Wings;
+Thunder Horn's Coral Charm;
+
+| rings =
+Mother Moon's Count Ring;
+
+| wands =
+Spear of Breaking Dawn;
+
+| decks =
+Calendar of the Spiral King;
+King's Royal Portraits;
+Lords of Night Pyramid Deck*F2;
+
+| items =
+Azteca Apocalypse Theme;
+Starburst Frond;
+
+| cards =
+Colossal;
+Empowerment;
+Primordial*F3;
+Ra;
+Sharpened Blade;
+
+| reagents =
+Black Lotus*F2;
+Blood Moss;
+Bone*F2;
+Bronze Gear;
+Deep Mushroom;
+Fire Blossom*F2;
+Golden Pearl;
+Lava Lily;
+Mist Wood;
+Nickel;
+Nightshade;
+Ore;
+Stone Block*F2;
+Tin;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate;
+Caramel Apple;
+Chili Peppers;
+Guava;
+Stego Waffles;
+Tamales;
+Zocalo Wings*F2;
+
+| jewels =
+Blizzard Lizard Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+
+| mounts =
+
+| spells =
+
+}}

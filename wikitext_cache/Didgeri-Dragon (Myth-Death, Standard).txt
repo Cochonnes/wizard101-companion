@@ -1,0 +1,140 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 64,870
+| crecla = Wyrm
+| school = Myth
+| school2 = Death
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+600;
+
+| criticalblock =
+518;
+
+| outpierce =
+33%;
+
+| outboost =
+129%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+36% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+66% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Wallaru 
+| location = The Dreaming 
+| subloc1 = Nightmare (Standard)
+| descrip =
+Didgeri-Dragon is one of the second-stage bosses Wizards face in the Nightmare dungeon. Once Wizards defeat the Didgeri-Dragon, they must collect the token it drops, remember the animal that appears on the token, and turn the wheel at the start of the maze to match the animal. The other wheel must also be turned to match this Creature's secondary school. When both of the wheels are in the correct position, the pumps may be turned on to start the next phase of the maze. If a Wizard attempts to turn on the pumps before the two wheels are in the correct positions, Didgeri-Dragon will respawn. Besides the token, this Creature has no drops.
+
+There are five standard variations of this boss, and all of them are Myth with a different secondary school:
+*{{Link|Creature|Didgeri-Dragon (Myth-Death, Standard)}}
+*{{Link|Creature|Didgeri-Dragon (Myth-Fire, Standard)}}
+*{{Link|Creature|Didgeri-Dragon (Myth-Ice, Standard)}}
+*{{Link|Creature|Didgeri-Dragon (Myth-Life, Standard)}}
+*{{Link|Creature|Didgeri-Dragon (Myth-Storm, Standard)}}
+*For [[Location:Nightmare (Challenge)|Challenge mode]] versions of this Creature, see {{Link|Creature|Didgeri-Dragon}}.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Damage over Time}} ''"*GROWL!*"'' - If a Damage over Time Spell is cast on Didgeri-Dragon, it will cast {{Link|Spell|Shift}}.
+**If a Wizard casts Shift to push the Damage over Time back to Didgeri-Dragon, it will not cast Shift again.
+{{Icon|Shield}}'''Cheat Cycle''' (Resets every 3{{Icon|Round}})
+*''"ROAR!"'' - At the start of the first Round and every three Rounds after, Didgeri-Dragon casts a -25% Tower Shield.
+*''"ROOOOAAAAR!"'' - At the start of the second Round and every three Rounds after, Didgeri-Dragon casts a -50% Tower Shield.
+*''"ROOOOAAARRRRR!"'' - At the start of the third Round and every three Rounds after, Didgeri-Dragon casts a -90% Tower Shield.
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wallaru
+| tome description =
+Its roar is unique amongst dragons - lower and with less gravel - and so it is often called upon to sing in dragon ceremonies.
+
+| extract class =
+Wyrm;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+| altlink = Didgeri-Dragon
+}}
+
+| spellnotes =
+
+| casts =
+Reliquary;
+Mythspear;
+Mythblade;
+Deathblade (+40%);
+Mass Myth Trap;
+Keeper of the Flame;
+Drop Bear Fury;
+Mystic Colossus;
+Witch's House Call (No Minion);
+Orthrus;
+Scion of Myth;
+Scarecrow;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Didgeri-Dragon
+
+}}

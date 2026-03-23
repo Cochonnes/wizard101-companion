@@ -1,0 +1,216 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,560
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Kakeda Shadow;
+
+| world = MooShu
+| location = Ancient Burial Grounds
+| descrip =
+Tomugawa the Evil is an Undead Wraith that patrols the Spirit World in the Ancient Burial Grounds. 
+
+| speech =
+:''"They don't call me evil for nothing, I will show no mercy!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+Tomugawa was as evil in life as he is in undeath. Do not trust him lest you end up like the Kakeda Shadow.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Weakness;
+Black Mantle;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Vampire;
+Skeletal Pirate;
+Scarecrow;
+Natural Attack (Wraith);
+Fire Elf (50+210);
+Lightning Bats;
+Ice Wyvern;
+
+| quests =
+To the Great Beyond;
+
+| dropnotes =
+When a Wizard has unlocked the '''Mastermind''' {{Icon|Mastermind}} Badge and has not unlocked the '''Savior of the Spiral''' {{Icon|Savior of the Spiral}} Badge, the following drops will be available:
+*14 Spellements will drop each time from the '''Spiritual''' (Myth, Life, Death, Balance) Schools for their respective rank 1-5 Spells.
+
+| gold =
+70 - 89;
+
+| hats =
+Gallant Shroud;
+Hat of the Nimble;
+Headwraps of Resonance;
+Helm of Sandcastles*F3;
+Tormented Mask;
+War Oni's Disillusioned Hat*F2;
+Warbled Hat;
+
+| robes =
+Blended Wool Tunic;
+Cloak of Humor;
+Cloak of Rhyming;
+Euphonic Cloak;
+Evil Vestment of Disillusion;
+Garment of Dilemma*F5;
+Garment of Watchfulness;
+Garments of Explanation*F6;
+Heedful Robe;
+Profound Robes*F6;
+Robes of the Triad*F4*WMV;
+Tomugawa's Tunic*F2;
+Tunic of Preoccupation*F2*WMV;
+Tunic of Soul-Searching*F4;
+Vestment of Tribulations*F3;
+Vexing Tunic*F4;
+
+| boots =
+Blended Wool Footwraps*F3;
+Boots of Niceties;
+Footwraps of Anthems;
+Meticulous Footwraps;
+Sandals of Sympathy*F2;
+Shoes of the Whim*F4;
+Slippers of the Opus*F2;
+Slippers of Yodels*F2;
+Tomugawa's Kind Shoes*F2;
+Tomugawa's Slippers;
+
+| athames =
+Enfused Tanto of the Sea*F2;
+
+| amulets =
+
+| rings =
+Ring of the Naturewalker;
+
+| wands =
+Tomugawa's Onyx Blade*F4;
+
+| decks =
+Deck of the Lotus*F9;
+
+| items =
+Cloud Stage Set;
+Long Lantern;
+Lunar Tablet;
+MooShu Combat Theme*F4;
+Paper Lantern Stand*F2*WMV;
+Prayer Tablet*F3;
+
+| cards =
+Cloak;
+Deathblade;
+Doom and Gloom;
+Ice Wyvern;
+Kraken;
+Ninja Pigs*F3;
+Pest Zapper;
+Wyldfire;
+
+| reagents =
+Bone*F7;
+Brass;
+Cobalt;
+Copper;
+Ectoplasm*F8;
+Iron;
+Lead*F2;
+Nickel*F2;
+Tin*F5;
+
+| spellements =
+Banshee*BR*F23;
+Blood Bat*BR*F20;
+Cyclops*BR*F20;
+Cyclops Minion*BR*F24;
+Dark Sprite*BR*F24;
+Earth Walker*BR*F12;
+Gearhead Destroyer*BR*F12;
+Ghoul*BR*F18;
+Imp*BR*F21;
+Leprechaun*BR*F17;
+Locust Swarm*BR*F8;
+Minotaur*BR*F17;
+Nature's Wrath*BR*F23;
+Scarab*BR*F12;
+Scorpion*BR*F9;
+Seraph*BR*F14;
+Skeletal Pirate*BR*F25;
+Spectral Blast*BR*F9;
+Troll*BR*F17;
+Vampire*BR*F26;
+
+| snacks =
+Ape Grapes*F2;
+Crunch Apple*F2;
+Fire Cracker;
+Golden Peanut*F2;
+Golden Squash;
+Large Fish;
+Large Watermelon*F2;
+Square Root*F2;
+
+| jewels =
+Blemished Damage Sapphire +11;
+Blemished PIP Opal +4%;
+Flawed Defense Amethyst +19;
+Flawed Defense Ruby +19;
+Meteor Strike Ruby;
+Skeletal Pirate Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

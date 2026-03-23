@@ -1,0 +1,223 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 13,560
+| crecla = Dino
+| crecla2 = Undead
+| crecla3 = Tritop
+| school = Life
+| startpips = 5
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Thunder Horn Ghoul;
+
+| world = Azteca
+| location = Mangrove Marsh
+| subloc1 = Mozar Turtle Hunter's Tomb
+| descrip =
+*Two additional {{Link|Creature|Obsidian Beak}}s will appear if more than two Wizards are present.
+
+| speech =
+:''"What comes into my lair?  You wish a War Challenge?  It is a pretty, pretty thing.  I'll give you a War Challenge!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+AKA the Shredder.
+
+| extract class =
+Dinos;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Mend;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Empower;
+Nature's Wrath;
+Natural Attack (Life 155-310-465);
+Life Banshee (250);
+Seraph;
+Centaur;
+Forest Lord;
+Gnomes!;
+Spinysaur;
+
+| quests =
+War, What Is It Good For?;
+
+| gold =
+109 - 133;
+
+| hats =
+Dawn Hour Mantle*F2*WMV;
+Elite Jura Guard Helm*F2*WMV;
+Five Fangs of Fury Headdress;
+Heart of Sky Boots;
+Indigo Wing Crown;
+Thirteen Death Mask*F3*WMV;
+Tree of Secrets Chac Mask*F2;
+Twisted Fang Mask*F2;
+
+| robes =
+Coatl Lord's Robes;
+Elite Jura Guard Garb;
+High Chac's Guarded Armor;
+Tunic of the Broken Spear;
+Vestment of the Calavera;
+
+| boots =
+Black Tears of Night Wraps*F2;
+Elite Jura Guard Stalkers*F2;
+Five Fangs of Fury Boots*F3*WMV;
+Heart of Sky Boots*F2;
+Indigo Wing Striders;
+Tree of Secrets Chac Runners*F2;
+Twisted Fang Boots;
+
+| athames =
+Cut Rock Dagger;
+Sky Flower Sliver;
+Smoking Frog Cutter*F2;
+Snake Ink Fang*F3*WMV;
+
+| amulets =
+Golden Gaze Necklace;
+Laughing Chac's Talisman*F2;
+Sun's Death Smiling Pendant;
+
+| rings =
+
+| wands =
+Red Sky Snake Banner;
+Snake Staff of Frost and Hail;
+Staff of the Storm Quetzals;
+
+| decks =
+Calendar of the Spiral King*F2*WMV;
+Deck of the Jaguar Spirit;
+King's Royal Portraits;
+Lords of Night Pyramid Deck;
+
+| items =
+Azteca Apocalypse Theme*F3;
+Azteca Main Theme;
+Bird Head Mount;
+Broadhead;
+Clothesline;
+Hollow Log*F2;
+Pathfinder;
+
+| cards =
+Amplify*F2;
+Cloud Demon;
+Colossal;
+Efreet*F2;
+Empowerment;
+Forest Lord;
+Fortify;
+Lord of Night;
+Medusa*F2;
+Mend;
+Power Nova;
+Skeletal Dragon;
+Snow Angel;
+Vengeance;
+
+| reagents =
+Black Lotus*F5;
+Black Pearl*F2;
+Blood Moss;
+Bone*F2*WMV;
+Bronze Gear;
+Cobalt;
+Deep Mushroom*F4;
+Fire Blossom*F3*WMV;
+Fossil*F2*WMV;
+Golden Pearl*F3*WMV;
+Lava Lily*F4*WMV;
+Mist Wood*F3;
+Nightshade;
+Ore*F2*WMV;
+Red Mandrake*F3*WMV;
+Stone Block*F3;
+Sunstone*F2;
+Turquoise*F2*WMV;
+
+| spellements =
+
+| snacks =
+Avocado Milkshake*F2;
+Buttered Bread;
+Cactus Fruit;
+Caramel Apple;
+Chapulines;
+Fern Jelly;
+Glowing Dragon Fruit;
+Kola Nuts;
+Marzipan Maize;
+Pyramints;
+Rex Tea;
+Roasted Chickpeas;
+Tamales*F2;
+Tenochti-Flan*F2*WMV;
+Treant Bark*F2;
+Tricera-Pops;
+Yucca;
+
+| jewels =
+Polished Blocking Hematite +11;
+Polished Critical Ruby +11;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Blue Huckleberries;
+Fish on a Vine;
+Key Limes*CR;
+Pink Dandelion*CR;
+Red Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

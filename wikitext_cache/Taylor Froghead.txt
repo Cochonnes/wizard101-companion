@@ -1,0 +1,211 @@
+{{Stub|which version of the {{Link|TreasureCard|Fire Wyvern}} Treasure Card is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 1,290
+| crecla = Wizard
+| school = Ice
+| startpips = 1
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+1% Ice;
+
+| incboost =
+None;
+
+| incresist =
+5% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Ice Weaver;
+
+| world = Krokotopia
+| location = Grand Arena
+| subloc1 = Mysterious Tomb
+| descrip =
+Taylor Froghead is one of the members of the Carpe Diem Society, who has been possessed by "''The Book of Lost Pages''", that you must rescue during the [[Basic:The Lost Pages|Lost Pages Event]].
+*Two additional Ice Weaver Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Are you ready to face the sweeping blasts of winter?  You'll find no joy here, Wizard, until you read the'' Lost Pages ''and submit!"''
+
+| spellnotes =
+
+| casts =
+Tower Shield;
+Iceblade;
+Ice Trap;
+Ice Trap:0;
+Super Ice Shard:0;
+Frost Beetle;
+Snow Serpent;
+Ice Elf (30+210);
+Icebird (297);
+Evil Snowman;
+Snow Shark;
+
+| quests =
+Cool as Ice;
+Winter- A Dirge;
+
+| dropnotes =
+[[Item:Dragon's Hoard Pack|Dragon's Hoard Equipment]] and the [[Mount:Bone Dragon|Bone Dragon Mount]] will only drop for Wizards under Level 30.
+
+| gold =
+18 - 52;
+
+| hats =
+Cap of the Oasis;
+Dragonrider's Assailing Helm (Level 20+)*CR;
+Dragonrider's Utility Helm (Level 20+)*CR;
+Dragonrider's Vigilant Helm (Level 10+)*CR;
+Dragonrider's Vigilant Helm (Level 20+)*CR;
+Durable Hood;
+Odji's Hat of Artistry*F2;
+
+| robes =
+Ceremonial Vest;
+Conjurer's Cloak;
+Dragonrider's Assailing Robe (Level 20+)*CR;
+Dragonrider's Utility Robe (Level 20+)*CR;
+Dragonrider's Vigilant Robe (Level 20+)*CR;
+Durable Robe*F2;
+Garments of the Augur*F3*WMV;
+Krokotopian Kaftan;
+Necromancer's Ivory Cloak;
+Pyromancer's Lambent Robe*F2*WMV;
+Robe of Ingenuity*F3*WMV;
+Robe of Reason;
+Robes of Dormancy;
+Rugged Robe;
+Sphinx's Vestment;
+Threadbare Robe*F2;
+Tunic of Energy;
+Tunic of the Whirlwind*F2;
+
+| boots =
+Conjurer's Hat;
+Crystalline Footwraps;
+Dragonrider's Vigilant Boots (Level 20+)*CR*F2;
+Odji Sokkwi's Bitter Boots*F4*WMV;
+Odji's Sandals of Repose*F2;
+Shoes of Adaptation;
+Shoes of Annihilation;
+Shoes of the Fortress*F4*WMV;
+Swindler Shoes*CR*F2*WMV;
+
+| athames =
+Ancient Kris*F2*WMV;
+Athame of Mortality;
+Cryptkeeper's Shortsword;
+Dirk of the Wasteland;
+Parched Kris;
+Whirlwind Dagger;
+
+| amulets =
+Sokkwi's Necklace of Skies*F2*WMV;
+
+| rings =
+Advocate's Ring*F2*WMV;
+Band of Energy*F2*WMV;
+Band of the Mirage;
+Loop of Talent;
+Loop of Tall Tales;
+Partisan's Ring;
+Ring of Mortality*F2*WMV;
+Ring of the Badlands;
+Sparkling Band;
+Victor's Signet*F2*WMV;
+
+| wands =
+Dragonrider's Fire Blade*CR;
+Dragonrider's Ice Blade*CR;
+Odji's Staff of Downpour*F3;
+
+| decks =
+Mummified Deck;
+Pharaoh's Deck*F2*WMV;
+
+| items =
+Blue Krok Bust*F2*WMV;
+Bowl of Dates*F2*WMV;
+Dragonclaw Pedestal;
+Dragonhorn Trophy;
+Dragonmoon Obelisk;
+Dragonskull Plaque;
+Floor Torch;
+Krok Sun Plaque;
+Krokotopia Theme 2*F2*WMV;
+Purple Painted Column;
+Snapdragons*F2*WMV;
+
+| cards =
+Fire Trap;
+Fire Wyvern;
+Ice Wyvern;
+Sniper;
+Sprite;
+Squall Wyvern;
+Storm Shark;
+Tempest;
+Vampire;
+Weakness;
+
+| reagents =
+Iron;
+Pyrite;
+Spider Silk*F4*WMV;
+
+| spellements =
+
+| snacks =
+Buttered Popcorn*F5;
+Candy Bar;
+Cheese*F5;
+Cracker;
+Dragon Fruit*F3*WMV;
+Frosted Cupcake*F3;
+Green Grapes*F3*WMV;
+Mystic Dragon Fruit;
+Nettle Root*F3*WMV;
+Taffy;
+Tiny Fish*F2*WMV;
+Tiny Pretzel*F3;
+
+| jewels =
+Cracked Accurate Onyx +2%;
+Cracked Accurate Peridot +2%;
+Cracked Defense Citrine +10;
+Cracked Defense Ruby +9;
+Cracked Defense Sapphire +10;
+
+| pins =
+
+| pets =
+Sea Dragon*CR;
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Pink Dandelion*CR;
+
+| mounts =
+Blue Dragon;
+Bone Dragon*PERM*CR*F2;
+Dark Redwing;
+Faithful Dragoness;
+
+| spells =
+
+}}

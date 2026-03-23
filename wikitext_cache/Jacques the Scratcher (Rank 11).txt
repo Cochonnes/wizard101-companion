@@ -1,0 +1,103 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 9,985
+| crecla = Cat
+| school = Ice
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+40%;
+
+| incboost =
+50% Fire;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Meowiarty Archmage Challenge
+| subloc1 = 
+| descrip =
+Jacques the Scratcher is a possible Minion to {{Link|Creature|Meowiarty (Rank 12)}}. All drops should be recorded on that page.
+
+| speech =
+
+| cheatnotes =
+*''"For me? You shouldn't have!"'' - If any type of universal Shield is cast, Jacques the Scratcher will cheat-cast {{Link|Spell|Steal Ward}} on the receiver of the Shield.
+*''"No need for such things here!"'' - If any type of School-specific Shield is cast, he will cheat-cast {{Link|Spell|Steal Ward}} on the receiver of the Shield, and then proceed to destroy it.
+*''"You can't have nice things when there are cats around!"'' - If any type of [[:Category:Healing Spells|Heal]] over time spell is cast, he will cheat-cast {{Link|Spell|Snow Drift}} on the receiver of the heal.
+**Pet heals will trigger this cheat.
+*''"Allow me to scratch some of that dirt off you, friend."'' - If an enemy takes Damage from a DoT spell, he will cheat-cast {{Link|Spell|Cooldown}} on the ally.
+
+| spellnotes =
+
+| casts =
+Sleet Storm;
+Dragonspear;
+Iceblade;
+Freeze;
+Cooldown;
+Snow Drift;
+Steal Ward;
+Ice Hound (6 Pip);
+Frost Giant;
+Snow Angel;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

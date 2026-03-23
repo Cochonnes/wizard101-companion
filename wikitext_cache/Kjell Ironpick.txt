@@ -1,0 +1,296 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 11,360
+| crecla = Dwarf
+| school = Fire
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical = 
+120 Any;
+
+| criticalblock =
+105 Any;
+
+| outpierce =
+7%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Ice;
+
+| incresist =
+30% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minion = Ice Dwarf Fanatic
+| minion2 = 
+| world = Empyrea
+| location = Outer Athanor
+| subloc1 = Ice Cutting Complex
+| descrip =
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Glacial Shield;
+Tower Shield;
+Smoke Mantle;
+Smoke Screen;
+Fire Trap;
+Choke;
+Natural Attack (Fire 120-240-360, 75%);
+Sunbird (345-405);
+Firezilla;
+Grand Phoenix;
+Efreet;
+
+| quests =
+Steam Wrath;
+
+| gold =
+260 - 891;
+
+| hats =
+Cabalist Cleansing Hood;
+Cabalist Hood of Finality;
+Cabalist Hood of the First;
+Cabalist Hood of Vengeance;
+Nostalgic Cabal Hood;
+
+| robes =
+Cabal Schism Cloak;
+Interstellar Delegate's Suit;
+Interstellar Engineer Suit*F3*WMV;
+Interstellar Explorer's Uniform;
+Interstellar Hero's Uniform;
+Interstellar Navigator Suit;
+Interstellar Warrior Uniform;
+
+| boots =
+Cabal Schism Stompers;
+Cabal Stompers of Disruption*F2*WMV;
+Cabalist Stompers of the First;
+Cabalist Cleansing Stompers;
+Cabalist Stompers of Finality;
+
+| athames =
+Cabalist Cleansing Dagger;
+Cabalist Dagger of Finality;
+Cabalist Dagger of the First;
+Interstellar Delegate's Knife;
+Interstellar Engineer's Knife;
+Interstellar Officer's Knife;
+Interstellar Warrior's Knife*F2;
+Nostalgic Cabal Dagger;
+
+| amulets =
+Cabalist Amulet of Finality;
+Interstellar Engineer's Charm;
+
+| rings =
+
+| wands =
+Navigator's Hexacorder;
+Warrior's Hexacorder;
+
+| decks =
+Interstellar Medic's Deck;
+Interstellar Navigator's Deck;
+Interstellar Officer's Deck;
+
+| items =
+Dwarven Book Case*F3*WMV;
+Dwarven Dinner Table*F3*WMV;
+Dwarven Side Table*F2*WMV;
+Empyrea Dance Hall Theme*F2;
+Empyrea Inner Athanor Theme;
+Empyrea Jungle Theme*F4*WMV;
+Empyrea Khan Theme*F2;
+Empyrea Lava Lock Theme*F3*WMV;
+Empyrea Leisure Dome Theme*F3*WMV;
+Empyrea Outer Athanor Theme*F2*WMV;
+Empyrea Sepidious Theme*F5*WMV;
+Empyrea Zanadu Combat Theme*F2*WMV;
+Fire Dwarf Bed;
+Fire Dwarf Chair;
+Ice Dwarf Chair*F2;
+Pirate Party Barge Theme;
+
+| cards =
+Berserk;
+Dream Shield;
+Ether Shield*F6*WMV;
+Link*F2*WMV;
+Mass Ice Prism;
+Mass Life Prism;
+Mass Triage;
+Mutate Beetle (Fire);
+Mutate Colossus (Storm);
+Mutate Hound (Ice);
+Mutate Kraken (Fire)*F2;
+Mutate Shark (Ice)*F2;
+Mutate Snake (Ice);
+Mutate Snowman (Fire);
+
+| reagents =
+Ancient Scroll*F6*WMV;
+Antique Coins*F6*WMV;
+Black Pearl*F7*WMV;
+Blood Moss*F4*WMV;
+Brass*F5*WMV;
+Bronze Gear*F4*WMV;
+Cobalt*F2*WMV;
+Ectoplasm*F2*WMV;
+Flying Squid Ink*F8*WMV;
+Nickel*F2*WMV;
+Scales*F5*WMV;
+Spider Silk;
+Spring*F5*WMV;
+Tin*F6*WMV;
+
+| snacks =
+BBQ Drumstick;
+Beast Wellington*F5*WMV;
+Bread Fruit Fruit;
+Discord Grape Jelly*F3*WMV;
+Drumstick*F2*WMV;
+Eye Candy*F2*WMV;
+Fern Jelly;
+Glowing Taffy*F2*WMV;
+Hot Cross Buns*F3*WMV;
+Pizza*F2*WMV;
+Rock and Roll Candy;
+Satyr Chow*F3*WMV;
+Sprinkle Cupcake*F4*WMV;
+Wheat Cracker;
+
+| jewels =
+Ally Dragonblade Citrine;
+Balance-Giver Citrine;
+Balance-Off Citrine;
+Feinting Spell Onyx;
+Flawless Opal;
+Ice-Away Sapphire;
+Ice-Boon Sapphire;
+Ice-Proof Sapphire;
+Life-Boon Jade;
+Life-Sniper Jade;
+Lustrous Accurate Onyx +11%;
+Lustrous Accurate Sapphire +11%;
+Lustrous Damage Citrine +23;
+Lustrous Damage Jade +23;
+Lustrous Damage Ruby +23;
+Lustrous Defense Citrine +45;
+Lustrous Defense Onyx +45;
+Lustrous Health Opal +96;
+Lustrous Mana Opal +41;
+Lustrous PIP Opal +10%;
+Magnify Opal;
+Myth-Away Peridot;
+Myth-Eye Peridot;
+No Pain, No Gain Onyx;
+Radical Opal;
+Shiny Accurate Hematite +12%;
+Shiny Accurate Jade +12%;
+Shiny Blocking Opal +8;
+Shiny Critical Citrine +15;
+Shiny Critical Peridot +16;
+Shiny Damage Amethyst +26;
+Shiny Damage Onyx +26;
+Shiny Defense Hematite +49;
+Shiny Defense Onyx +52;
+Shiny Defense Peridot +49;
+Shiny Health Opal +111*F3*WMV;
+Shiny Health Opal +112*F2;
+Shiny Health Opal +113;
+Shiny Mana Opal +45*F3;
+Shiny PIP Hematite +2;
+Sparkling Blocking Peridot +17;
+Sparkling Blocking Sapphire +17;
+Sparkling Critical Amethyst +17*F3*WMV;
+Sparkling Critical Citrine +17;
+Sparkling Critical Jade +17;
+Sparkling Critical Onyx +17;
+Sparkling Critical Peridot +17;
+Sparkling Damage Citrine +27;
+Sparkling Damage Hematite +54;
+Sparkling Defense Amethyst +53;
+Sparkling Defense Citrine +54*F2*WMV;
+Sparkling Defense Hematite +53;
+Sparkling Defense Hematite +54;
+Sparkling Defense Jade +53;
+Sparkling Defense Opal +27;
+Sparkling Defense Sapphire +53;
+Sparkling Defense Sapphire +54*F2;
+Sparkling Health Opal +116*F2*WMV;
+Sparkling Health Opal +117;
+Sparkling Health Opal +118*F2;
+Sparkling Health Opal +119;
+Sparkling Mana Opal +49;
+Storm-Giver Amethyst*F2;
+Storm-Shot Amethyst;
+Stun Recalcitrant Opal;
+Stun Resistant Opal;
+Unbalancer Citrine;
+
+| pets =
+Blue Globulin;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears*F3*WMV;
+Baby Carrots;
+Bell Pepper*F5*WMV;
+Blue Huckleberries*F4*WMV;
+Boiled Peanuts;
+Boom Shroom;
+Boon Tree*CR;
+Bread Fruit Bush*F2;
+Burning Snap Dragon;
+Clockwork Flower*F2;
+Cornbread Fruit Bush;
+Couch Potatoes*CR*F3;
+Dandelion;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Face Palm;
+Fickle Pickle;
+Fish on a Vine*F3*WMV;
+Frozen Fly Trap;
+Golden Couch Potatoes*F4*WMV;
+Grapes of Wrath*CR*F6*WMV;
+Honey Sickle;
+Ivy League*CR*F3*WMV;
+King Parsley*CR;
+Orange Bell Pepper*CR;
+Pink Huckleberries*F2;
+Purple Snow Apples;
+Queen Crape Myrtle*F2;
+Red Bell Pepper;
+Red Couch Potatoes*F2*WMV;
+Sugar Khrystal*CR;
+Sunion*CR;
+Sword Fern*CR;
+Trumpet Vine;
+Ultra King Parsley*F2;
+Venus Fly Trap;
+White Desparagus;
+White Laugh-O-Dil;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,185 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,240
+| crecla = Goat
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Ice;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Infected Villager;
+
+| world = MooShu
+| location = Shirataki Temple
+| subloc1 = Air Shrine
+| descrip =
+'''Note''': KI developers have confirmed that the ''Goat Monk'' Spell no longer drops here.
+
+| speech =
+:''"You shame yourself by appearing in front of me!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Fire Damage.
+
+| casts =
+Snow Shield;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf;
+Sunbird;
+Meteor Strike;
+Raging Kraken (Fire);
+Heck Hound;
+Leprechaun;
+Cyclops;
+Vampire;
+
+| quests = 
+
+| gold =
+58 - 80;
+
+| hats =
+Cap of the Verse;
+Cap of Tribulations;
+Cowl of Cooperation;
+Cowl of Humor*F5*WMV;
+Cowl of Rhyming*F2*WMV;
+Cowl of Soul-Searching*F3*WMV;
+Cowl of Sympathy;
+Cowl of Tact;
+Hat of Discontent*F2*WMV;
+Hat of Nuisance;
+Headwraps of Generations*F2;
+Mask of the Chipper;
+Problematic Headwraps;
+Shroud of Conceit;
+Stressed Mask*F4*WMV;
+
+| robes =
+Cloak of Charity;
+Cloak of Deliberation;
+Concordant Robes;
+Gallant Tunic;
+Industrial Uniform;
+Problematic Tunic*F2;
+Quick-Witted Vestment;
+Robe of the Lithe;
+Zaneki's Cloak of Solitude*F5*WMV;
+
+| boots =
+Druidic Sandals;
+Engrossed Shoes*F2*WMV;
+Footwraps of Generations*F4*WMV;
+Footwraps of Predicament;
+Haskarr's Barbarish Boots*F2*WMV;
+Immersive Sandals;
+Sandals of Nuisance;
+Sandals of the Universe;
+Shoes of Deliberation*F6*WMV;
+Shoes of Dreaming*F3*WMV;
+Slippers of the Lotus*F4*WMV;
+Zaneki's Sandals of Tact*F2*WMV;
+Zaneki's Slippers*F2*WMV;
+
+| athames =
+Dagger of Detachment*F3*WMV;
+Knife of Preoccupation*F4*WMV;
+Zaneki's Knife of Cognition*F2*WMV;
+
+| amulets =
+
+| rings =
+Band of the Primitives*F2*WMV;
+Zaneki's Entranced Band*F2*WMV;
+
+| wands =
+Ruby Blade of the Forest*F2*WMV;
+
+| decks =
+
+| items =
+Bonsai Plant*F2*WMV;
+Hooked Lantern;
+Monk Shrine*F2*WMV;
+Mushroom*F2*WMV;
+Skull Obelisk*F3*WMV;
+Solar Obelisk;
+
+| cards =
+Darkwind;
+Donate Power*F2;
+Goat Monk*F3;
+Ice Wyvern;
+Kraken;
+Skeletal Pirate;
+Wyldfire;
+
+| reagents =
+Brass;
+Copper*F2;
+Ectoplasm*F7*WMV;
+Iron;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Crunch Apple*F2;
+Fire Cracker*F2;
+Golden Peanut;
+Golden Squash*F2*WMV;
+Large Fish*F2*WMV;
+Large Watermelon*F3*WMV;
+Square Root*F4;
+
+| jewels =
+Banana Peel Opal;
+Blemished Defense Jade +21;
+Blemished Defense Opal +12;
+Blemished Defense Ruby +21;
+Blemished Defense Sapphire +21;
+Flawed Accurate Amethyst +4%;
+Flawed Damage Opal +5;
+Flawed Defense Sapphire +19;
+Flawed Health Opal +35;
+Super-Pass Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+Fiery Boom Shroom;
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

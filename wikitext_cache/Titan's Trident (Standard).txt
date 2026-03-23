@@ -1,0 +1,243 @@
+{{Stub|which version of {{Link|TreasureCard|Mutate Helephant}} this Boss drops.}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 25,000
+| crecla = Titan
+| crecla2 = Triton
+| crecla3 = Elemental
+| school = Shadow
+| school2 = Storm
+| cheats = Yes
+| shadowslots = 5
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+20%;
+
+| outboost =
+120%;
+
+| incboost =
+5% Myth, Life;
+
+| incresist =
+20% Death, Balance;
+25% Fire, Ice;
+50% Shadow;
+70% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Empyrea
+| location = Husk
+| subloc1 = Storm Titan's Wake (Standard)
+| lootchest = Storm Titan Chest
+| descrip =
+Titan's Trident is the Storm Titan's weapon and the penultimate Boss of Empyrea.  In order to defeat it, Wizards must deal 7,750 Damage to it three times.
+*For the Challenge version of this battle, see {{Link|Creature|Titan's Trident (Challenge)}}.
+
+| speech =
+:''"Ruuuaargh! Foolish little creatures! I'll... *Yawn*... Buwuargh! I'll disperse you like specks of dust upon a raging wind! RUUUARGH!"''
+
+| cheatnotes =
+*{{Icon|Global}} On the first Round, Titan's Trident will cast an Equalize Global which sets the Damage cap to '''7,999''', and will recast it when replaced.
+**{{Link|Spell|Unbalance}} can dispel this cheat.
+**If a Wizard uses a {{Link|Spell|Nightbringer}} Enchanted Attack and changes the Global the next Round, the Global will not be changed back until after the next hit.
+
+{{Icon|Health}}{{Icon|Damage}} '''Cheats:'''
+*'''{{Link|NPC|Mellori}}''' - ''"Aww, you gotta be kidding me! The Paradox Chain just keeps charging him back up! Look out!"'' - After taking more than '''7,750''' Damage, the Storm Titan will emerge at the end of the Round and completely restore the Trident's Health by grasping the Paradox Chain.
+*'''Mellori''' - ''"The Paradox Chain just keeps recharging him. This is hopeless!"''
+*'''{{Link|NPC|Bat}}''' - ''"No it's not! I know what we have to do now! Wizard, just keep attacking!"'' - After taking another '''7,750''' Damage, the Storm Titan will again completely restore the Trident's Health by grasping the Paradox Chain.
+*After the Trident takes '''7,750''' Damage for a third time, a cutscene will occur where Mellori breaks the Paradox Chain, destroying the Trident, and defeating the Boss.
+
+| spellnotes =
+*Casts a protected Stormspear and Reaperblade (Storm-Shadow)
+
+| casts =
+Magnify;
+Brace;
+Quicken;
+Fire Shield (-85%);
+Life Shield (-85%);
+Stormspear;
+Power Current;
+Virulent Plague (Shadow);
+Mass Infection (Shadow);
+Healing Current;
+Reaperblade (Storm-Shadow);
+Enfeeble (Shadow);
+Queen Calypso (Shadow);
+Tempest (Shadow);
+Sirens (Shadow);
+Storm Owl (Shadow);
+Stormzilla (Tier 5b);
+Tempest (6 Pip);
+Storm Lord;
+Thundering Jinn;
+
+| quests =
+Storm the Titan;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge and has not unlocked the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge, the following drops will be available:
+*10 Spellements will drop each time from '''any''' School for their respective rank 10, 11, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+460;
+
+| hats =
+Icy Paradox Conical;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Aero Dwarf Blue Vase;
+Aero Dwarf Chair;
+Aero Dwarf Potted Plant;
+Empyrea Husk Theme;
+Kalamar Side Table;
+Khrysalis Combat Theme 2;
+Nimbari Chair;
+Nimbari Sword Rack;
+Tall Kalamar Vase;
+
+| cards =
+Mass Myth Prism;
+Mutate Helephant;
+Oni No Plague;
+
+| reagents =
+Amber;
+Draconium;
+Fire Blossom;
+Flying Squid Ink;
+Golden Pearl;
+Mithril;
+Scales;
+Stardust;
+Sunstone;
+Titanium;
+Turmeric;
+Turquoise;
+Vine;
+
+| spellements =
+Avenging Fossil*BR;
+Celestial Calendar*BR;
+Climaclysm*BR;
+Iron Sultan*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Lamassu*BR;
+Lord of Winter*BR;
+Qismah's Curse*BR;
+Raging Bull*BR;
+Rusalka's Wrath*BR;
+Sabertooth*BR;
+Sand Wurm*BR;
+Scion of Balance*BR;
+Scion of Death*BR;
+Scion of Fire*BR;
+Scion of Ice*BR;
+Scion of Life*BR;
+Scion of Myth*BR;
+Scorching Scimitars*BR;
+Snowball Barrage*BR;
+Spinysaur*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Wings of Fate*BR;
+Witch's House Call*BR;
+
+| snacks =
+Dastardly Radish;
+Dr. Jalapeno;
+Gator Tots;
+Hero Sandwich;
+Hive Rinds;
+Lemon Daisy;
+Minotarts;
+Pineapple Spears;
+Spicy Drumstick;
+
+| jewels =
+Amazing Health Opal +138;
+Shiny Health Opal +113;
+Shiny Health Opal +114;
+Sparkling Blocking Citrine +18;
+Sparkling Blocking Onyx +18;
+Sparkling Blocking Ruby +18;
+Sparkling Blocking Sapphire +18;
+Sparkling Critical Amethyst +18;
+Sparkling Critical Citrine +18;
+Sparkling Critical Ruby +17;
+Sparkling Critical Ruby +18;
+Sparkling Damage Hematite +56;
+Sparkling Damage Peridot +28;
+Sparkling Defense Onyx +55;
+Sparkling Defense Ruby +56;
+Sparkling Defense Sapphire +55;
+Sparkling Health Opal +116;
+Sparkling Health Opal +121;
+Sparkling Health Opal +124;
+Sparkling Health Opal +125;
+
+| pins =
+
+| pets =
+
+| seeds =
+Bamboo Shoots;
+Blue Huckleberries;
+Bread Fruit Bush;
+Couch Potatoes*CR;
+Dandelion;
+Face Palm;
+Fiery Boom Shroom;
+Fortune Cookie Tree;
+Golden Couch Potatoes;
+Honey Bee Plant;
+Key Limes*CR;
+Maelstrom Snap Dragon;
+Ninja Fig*CR;
+Pink Huckleberries; 
+Pink Laugh-O-Dil;
+Queen Crape Myrtle;
+Silver Trumpet Vine*CR;
+Ultra Snap Dragon;
+Ultra Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+| altimage = Titan's Trident
+}}

@@ -1,0 +1,465 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 13,975
+| crecla = Treant
+| school = Life
+| cheats = Yes
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+195 Any;
+
+| criticalblock =
+280 Any;
+
+| outpierce =
+24%;
+
+| outboost =
+125%;
+
+| incboost =
+5% Death;
+
+| incresist =
+73% Life;
+
+| outhealing =
+75%;
+
+| inchealing =
+75%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Humango Assistant;
+
+| world = Lemuria
+| location = Wildlands
+| subloc1 = Heart of the Wilds
+| descrip =
+*Once a normal, mild-mannered jungle plant, given unexpected powers when the skies changed, and for some reason it decided to use those powers for evil instead of good.
+*For the purpose of drops, Mandrake the Magician is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+:''"Welcome, disciple, I see you have questions. I have answers. I AM answers. Once I was but a normal mild-mannered jungle plant... But then the skies above changed and the world around me was infused with Mana radiation, giving me untold magical powers. And I knew then that I had an obligation to use these newfound powers only for evil, never for good. Thus was born MANDRAKE THE MALIGICIAN! And I am going to take over the world!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Lemuria
+| tome description =
+A malevolent supervillain with the utterly unusual power of MAGIC!
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Late Arrivals Disrupt the Show"'' - If a Wizard joins the battle late, Mandrake will cast {{Link|Spell|Camp Bandit (Tier 5a)}} on them.
+*{{Icon|Aura}} ''"I Am Unstoppable!"'' - At the start of the battle, Mandrake puts on a '''-10%''' version of {{Link|Spell|Fortify}} that lasts four Rounds. Each succeeding Round that he takes new Damage, Mandrake will cast a new version of the Aura Spell that increases his Resist by -10%, until it is at -100% Damage. (Note: This Resist Aura is not always shown in the Creature's effects.)
+**Later ticks of Damage over Time Spells do not appear to trigger this increase.
+*{{Icon|Health}} ''"Feel the Power of Mandrake"'' - If Mandrake is at full health at the end of a Round, he'll cast a '''-15%''' Health Leafstorm that removes 15% of the total Health of the target to all enemies.
+**After this spell is cast, {{Link|Spell|Enfeeble}} will be cast on all enemies.
+**Leafstorm will trigger {{Link|Spell|Adapt}}'s spell requirement giving a Power Pip.
+**If Mandrake is not at full health at the end of a Round, he'll cast a version of Blessing to restore '''5%''' of his total Health (+698).
+**{{Link|Spell|Entangle}} will not prevent this heal.
+*{{Icon|Healing}} ''"By the Power of Mali-Magic"'' - If a Healing Spell is cast, Mandrake will cast a '''+20%''' {{Link|Spell|Dragonspear}} on the healer.
+**Pet May Casts will trigger this cheat.
+*{{Icon|Manipulation}} ''"I knew you would try that!"'' - If Mandrake's Aura is removed or changed, he will change his Aura to a '''-100%''' version of Fortify.
+**If Mandrake's Aura is replaced with a negative Aura, such as with {{Link|Spell|Pathogen}}, this cheat will be activated and the Aura's appearance will be altered, but the effects of it will not.
+**If Humango Assistant is not defeated by the time Mandrake's -10% Aura expires, this cheat will be triggered. 
+**If Humango Assistant is defeated by the time Mandrake's -10% Aura expires, Mandrake will replace it with a '''-20%''' version of Fortify, triggering this cheat 1 Round later. (needs verification for trigger)
+
+| spellnotes =
+*Casts a version of Life Feint that affects all enemies.
+
+| casts =
+Guiding Light;
+Brilliant Light;
+Entangle;
+Weakness;
+Regenerate;
+Life Feint;
+Triage;
+Steal Pip;
+Ratatoskr's Spin;
+Camp Bandit (Tier 3b);
+Lamassu;
+Natural Attack (Life 100-200-300-400);
+Sacred Charge;
+Hungry Caterpillar;
+Grrnadier (Tier 3a);
+Wings of Fate;
+Lord of the Jungle (Tier 3a);
+Forest Lord;
+King Artorius (Life);
+
+| quests =
+Power Plant;
+
+| gold =
+322  -  430;
+
+| hats =
+Supreme Barbarian Hat;
+Supreme Detective Hat;
+Supreme Founder's Hat;
+Supreme Hex Hat;
+
+| robes =
+Magician's Balance Cloak;
+Magician's Death Cloak*F2;
+Magician's Fire Cloak;
+Magician's Ice Cloak*F2;
+Magician's Life Cloak;
+Magician's Power Cloak;
+Magician's Storm Cloak*F2;
+Malevolent Balance Cloak;
+Malevolent Death Cloak*F2;
+Malevolent Fire Cloak*F2;
+Malevolent Ice Cloak;
+Malevolent Life Cloak;
+Malevolent Myth Cloak*F3;
+Malevolent Power Cloak*F2;
+Malevolent Storm Cloak;
+Supreme Electric Robe;
+Supreme Teleological Robe;
+
+| boots =
+Supreme Firewall Shoes;
+Supreme Jungle Shoes;
+
+| athames =
+Supreme Ancient One Athame;
+Supreme Cold Steel Athame;
+Supreme Electric Athame;
+Supreme Freezer Athame;
+
+| amulets =
+Supreme Eruption Talisman;
+
+| rings =
+Supreme Ancient One Ring;
+Supreme Deadly Ring;
+Supreme Ferocious Ring;
+Supreme Freezer Ring;
+Supreme Hex Ring;
+Supreme Lifeforce Ring;
+Supreme Stability Ring;
+Supreme Undead Ring;
+Supreme Volcanic Ring;
+
+| wands =
+Supreme Cold Steel Staff;
+Supreme Deadly Staff;
+Supreme Lifeforce Staff;
+Supreme Volcanic Staff;
+
+| decks =
+Supreme Cold Steel Deck;
+Supreme Electric Deck;
+Supreme Horror Deck;
+Supreme Lifeforce Deck;
+Supreme Volcanic Deck;
+
+| items =
+Arcanum Combat Theme*F2*WMV;
+Cargo;
+Lemuria Jungle Theme;
+Lemuria Lab Combat Theme;
+Lemuria Minds Theme;
+Lemuria Mystery Theme*F2*WMV;
+Lemuria Noir Theme;
+Lemuria Sky City Theme;
+Lemuria Telos Theme 3;
+Lemuria Telos Theme 6;
+Lemuria Telos Theme 7;
+Periodic Table Poster;
+Puzzle Cube*F2*WMV;
+
+| cards =
+Berserk;
+Brilliant Light;
+Dream Shield*F2;
+Elemental Blade;
+Elemental Defuse;
+Elemental Shield;
+Ether Shield*F2;
+Flood;
+Frostbite;
+Galvanic Field;
+Link;
+Massive Pest Zapper;
+Miniature Bloodbats*F2;
+Nested Fury;
+Pest Zapper;
+Pungent Bug Spray;
+Putrid Bug Spray;
+Raging Bull*F2;
+Rusalka's Wrath;
+Sirens*F2;
+Snowball Barrage;
+Storm Shield*F2;
+Supreme Sunburst;
+Uncanny Magic;
+Winged Sorrow;
+Witch's House Call;
+Zounds...Bees!;
+
+| reagents =
+Aether*F2*WMV;
+Agave Leaves;
+Agave Nectar;
+Amber Dust*F2;
+Aquamarine*F2;
+Astral Shard*F2;
+Braided Vine;
+Draconium;
+Fire Blossom*F3*WMV;
+Golden Pearl*F2*WMV;
+Mithril;
+Orichalcum;
+Scales*F2*WMV;
+Silver*F2;
+Stardust;
+Steel;
+Sunstone;
+Synthonium;
+Titanium;
+Tungsten;
+Turquoise;
+
+| spellements =
+Barbarian's Saga;
+Blast Off!;
+Dark & Stormy;
+Lord of the Jungle;
+Old One's Endgame;
+
+| snacks =
+Beast Wellington;
+Crystal Custard;
+Crystalweb Candy;
+Dr. Jalapeno;
+Eye Candy*F2;
+Fin Flan;
+Fire Cracker;
+Fish Egg Pancakes;
+Fizzing Fertilizer;
+Flapjacks;
+Fried Ice Cream;
+Fried Worms;
+Frozen Perogies;
+Golden Biscuit;
+Golden Candy Bar;
+Golden Peanut;
+Golden Squash;
+Huge Ice Cream;
+Large Fish*F2*WMV;
+Large Watermelon;
+Marzipan Maize*F2;
+Moon Pie;
+MooShu Cheddar;
+Rock and Roll Candy;
+Super Cold Popsicle;
+
+| jewels =
+Ally Dragonblade Citrine;
+Ally Dream Shield Onyx;
+Ally Elemental Shield Citrine;
+Ally Precision Citrine;
+Ally Stun Block Sapphire;
+Animate Skeleton Onyx;
+Balance Assailant Citrine;
+Balance Striker Citrine;
+Balance-Boon Citrine;
+Balance-Dealer Citrine;
+Balance-Giver Citrine;
+Balance-It Citrine;
+Balance-Sniper Citrine;
+Critical Hitter Opal;
+Curse Giver Onyx;
+Dazzling Accurate Amethyst +14%;
+Dazzling Accurate Citrine +14%;
+Dazzling Accurate Hematite +14%;
+Dazzling Accurate Jade +14%;
+Dazzling Accurate Onyx +14%;
+Dazzling Accurate Peridot +14%*F2;
+Dazzling Accurate Ruby +14%;
+Dazzling Accurate Sapphire +14%;
+Dazzling Blocking Amethyst +19*F2*WMV;
+Dazzling Blocking Citrine +19;
+Dazzling Blocking Hematite +19;
+Dazzling Blocking Jade +19;
+Dazzling Blocking Onyx +19;
+Dazzling Blocking Opal +10;
+Dazzling Blocking Peridot +19;
+Dazzling Critical Ruby +19;
+Dazzling Critical Sapphire +19;
+Dazzling Damage Amethyst +29;
+Dazzling Damage Hematite +60;
+Dazzling Damage Jade +29;
+Dazzling Damage Onyx +29;
+Dazzling Damage Opal +15;
+Dazzling Damage Peridot +29;
+Dazzling Damage Ruby +29;
+Dazzling Damage Sapphire +29;
+Dazzling Defense Amethyst +58;
+Dazzling Defense Amethyst +60;
+Dazzling Defense Citrine +58;
+Dazzling Defense Hematite +58;
+Dazzling Defense Hematite +60;
+Dazzling Defense Onyx +60;
+Dazzling Defense Opal +29;
+Dazzling Defense Peridot +60;
+Dazzling Defense Sapphire +60;
+Death Assailant Onyx;
+Death-Boon Onyx;
+Death-Eye Onyx;
+Death-Proof Onyx;
+Fire Assailant Ruby;
+Fire Striker Ruby;
+Fire-Away Ruby;
+Fire-Eye Ruby;
+Fire-Giver Ruby;
+Fire-Proof Ruby;
+Healthy Opal;
+Ice Assailant Sapphire;
+Ice Striker Sapphire;
+Ice-Dealer Sapphire;
+Ice-Eye Sapphire;
+Ice-Proof Sapphire;
+Ice-Ward Sapphire;
+Life Striker Jade;
+Life-Away Jade;
+Life-Boon Jade;
+Life-Eye Jade;
+Life-Proof Jade;
+Life-Ward Jade;
+Lively Opal;
+Medic Opal;
+Myth Assailant Peridot;
+Myth Striker Peridot;
+Myth-Boon Peridot*F2;
+Myth-Dealer Peridot;
+Myth-Sniper Peridot;
+Myth-Ward Peridot;
+Sparkling Health Opal +116;
+Sparkling Health Opal +117;
+Sparkling Health Opal +119;
+Sparkling Mana Opal +49;
+Spell-Defying Opal;
+Storm Assailant Amethyst;
+Storm-Away Amethyst;
+Storm-Boon Amethyst;
+Storm-Dealer Amethyst;
+Storm-Eye Amethyst;
+Storm-Shot Amethyst;
+Storm-Sniper Amethyst;
+Storm-Ward Amethyst;
+Stun Resistant Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak;
+Angora Bunny Ears*F2*WMV;
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper;
+Blue Huckleberries*F3;
+Boiled Peanuts*F2;
+Boom Shroom;
+Boon Tree*CR;
+Bread Fruit Bush;
+Burning Snap Dragon*F2*WMV;
+Clockwork Flower;
+Cornbread Fruit Bush;
+Dandelion;
+Deadly Fly Trap;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Fickle Pickle;
+Fiery Boom Shroom;
+Fish on a Vine;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Goose Tree;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Helephant Ears;
+Honey Bee Plant;
+Honey Sickle;
+Ivy League*CR*F2;
+Key Limes*CR;
+King Parsley*CR;
+Laugh-O-Dil;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Missile Toe;
+Moon Flower;
+Ninja Fig*CR;
+Orange Bell Pepper*CR*F2;
+Orange Dandelion;
+Pink Huckleberries*F2;
+Prickly Bear Cactus*F2;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Red Couch Potatoes*F2;
+Red Grapes of Wrath;
+Red Huckleberries;
+Rotten Beets;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Silver Trumpet Vine*CR;
+Snap Dragon;
+Snow Apples;
+Sour Fickle Pickle;
+Sugar Khrystal*CR*F2;
+Sunion*CR;
+Sword Fern*CR;
+Tiger Lily (Seed);
+Trumpet Vine;
+Ultra Alligator Pear Tree;
+Ultra Boom Shroom;
+Ultra Dandelion;
+Ultra Fly Trap;
+Ultra Helephant Ears;
+Ultra Huckleberries;
+Ultra King Parsley;
+Ultra Snap Dragon;
+Ultra Tiger Lily;
+Vampire Carrots;
+Venus Fly Trap;
+White Desparagus;
+White Laugh-O-Dil;
+White Tiger Lily;
+Yellow Bell Pepper*F2;
+
+| mounts =
+
+| spells =
+
+}}

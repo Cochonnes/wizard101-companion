@@ -1,0 +1,191 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 925
+| crecla = Goat
+| school = Death
+| masteries =
+Fire;
+
+| startpips = 1
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Hoof Ninja;
+
+| world = Krokotopia
+| location = Kembaalung Village
+| subloc1 = Hamakala's Mausoleum
+| descrip =
+Two additional Hoof Ninjas appear if more than two Wizards are present.
+
+| speech =
+:''"The Great Hamakala will surely grant me a powerful governorship for dealing with you. Don't feel the need to die quietly! Ahahahaha!"''
+
+| spellnotes =
+
+| casts =
+Dream Shield;
+Glacial Shield;
+Death Prism;
+Curse;
+Feint;
+Wyldfire;
+Ghoul;
+Natural Attack (Death 110-215-320);
+Lord of Night;
+Vampire;
+Link;
+Meteor Strike;
+
+| quests =
+Harmony v. Discord;
+
+| gold =
+32 - 50;
+
+| hats =
+Helm of the Harmonious;
+Himoolayan Blizzard Helmet*F2*WMV;
+Mind Monk's Headgear*F2*WMV;
+Spirit Monk's Helmet;
+Vanquished Asura's Mantle*F2*WMV;
+
+| robes =
+Armor of the Mind Monk*F2*WMV;
+Armor of the Smoking Ember;
+Harmonious One's Vestment*F2;
+Himoolayan Blizzard Gear*F2;
+Himoolayan Snow Cover;
+Spirit Monk's Warplate*F2*WMV;
+Vanquished Asura's Raiment;
+
+| boots =
+Harmonious One's Striders;
+Himoolayan Blizzard Boots;
+Mind Monk's Footgear;
+Smoking Ember Walkers;
+Spirit Monk's Footwraps*F2*WMV;
+Vanquished Asura's Shoes*F2*WMV;
+
+| athames =
+Athame of Himoolayan Sleet*F2*WMV;
+Edge of the Beguiling Song*F2;
+Edge of the Himoolayan Sun*F2*WMV;
+Himoolayan Ice Pick;
+Mountain Paradise Claw*F2;
+Talon of the Harmonious One;
+Temple Scourge's Hook;
+
+| amulets =
+Ampul of the Discordant*F2;
+Himoolayan Hailstone Vial;
+Kembaalung Blizzard Charm;
+Monk's Charm of Aplomb*F2;
+Monk's Jewel of Radiance;
+Pagoda of Harmony Memento*F2*WMV;
+Spirit Monk's Torc of Grit;
+
+| rings =
+
+| wands =
+Blade of Himoolayan Ice;
+Kembaalung Sword of Guile;
+Longblade of the Asura;
+Scimitar of the Harmonious*F3;
+Snows of Kembaalung Saber;
+Stout Himoolayan Sword*F3*WMV;
+Sword of Fervent Resolve*F3;
+
+| decks =
+
+| items =
+
+| cards =
+Dragonflies*F2;
+Pest Zapper;
+
+| reagents =
+Bone*F4*WMV;
+Brass*F3*WMV;
+Cobalt*F3*WMV;
+Copper*F2*WMV;
+Ectoplasm*F8*WMV;
+Iron;
+Lead;
+Leather Straps*F9*WMV;
+Nickel*F3*WMV;
+Pyrite;
+Spider Silk*F5*WMV;
+Tin*F3;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F2*WMV;
+Crunch Apple*F2*WMV;
+Fire Cracker*F5*WMV;
+Golden Peanut*F2*WMV;
+Golden Squash*F4*WMV;
+Large Fish*F2*WMV;
+Large Watermelon*F3*WMV;
+Square Root*F3;
+
+| jewels =
+Balance-Boon Citrine;
+Blemished Damage Amethyst +11*F2;
+Blemished Damage Jade +11;
+Blemished Damage Peridot +11*F2;
+Blemished Damage Sapphire +11*F2;
+Blemished Defense Opal +11*F2;
+Blemished Mana Opal +17;
+Eager Opal;
+Flawed Accurate Peridot +4%;
+Flawed Accurate Ruby +4%;
+Flawed Defense Amethyst +19;
+Flawed Defense Jade +19;
+Flawed Health Opal +34;
+Humongofrog Peridot;
+Kraken Amethyst;
+Leech Opal;
+Power Play Citrine*F2;
+Seraph Jade;
+Skeletal Pirate Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+Fiery Boom Shroom*F3*WMV;
+Maelstrom Snap Dragon*F4*WMV;
+Ninja Fig*CR*F2;
+Orange Dandelion*F2*WMV;
+Pink Dandelion*CR*F2;
+Pink Laugh-O-Dil*F2;
+Venus Fly Trap*F2;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

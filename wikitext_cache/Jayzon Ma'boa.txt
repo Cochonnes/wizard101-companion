@@ -1,0 +1,133 @@
+{{Stub|Spells and drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 1,550
+| crecla = Beastmoon Creature
+| school = Myth
+| startpips = 1
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Avalon Battlegrounds
+| location2 = Arena
+| subloc2 = Mirage Battlegrounds
+| descrip =
+Jayzon Ma'boa is one of the Boss monsters that can be encountered during the first Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events. He will have 1 random, Rank 1 Elite, Stage 1 monster present to assist them.
+
+'''Potential Ice Minions:'''
+*{{Link|Creature|Ice Spriggan}}
+
+'''Potential Spirit Minions:'''
+*{{Link|Creature|Desert Scavenger}}
+*{{Link|Creature|Paragonmaton}}
+*{{Link|Creature|Trengil Scrounger}}
+
+| speech =
+
+| spellnotes =
+*Casts a 2-Pip version of {{Link|TreasureCard|Beastmoon Ward}} that applies a 200 Damage Absorb.
+*It is currently unknown if the Stun effect of Striking Ifrit occurs.
+
+| casts =
+Beastmoon Ward*TC;
+Pushback;
+Sly Mountebank;
+Striking Ifrit;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 5 - 9 Lunari.
+
+| gold =
+20 - 24;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone;
+Balance Rune;
+Balance Thread*F2;
+Death Rune;
+Eldritch Thread*F4*WMV;
+Eldritch Thread @ 2 Eldritch thread*F6;
+Hunter's Moonstone*F11*WMV;
+Ice Rune;
+Myth Rune;
+Spirit Moonstone*F3;
+Spirit Thread*F6;
+
+| spellements =
+Blizzard;
+Crimson Phantom*F3;
+Dream Golem*F3*WMV;
+Golem\: Taunt*F2;
+Humongofrog;
+Iron Curse;
+Legend Golem;
+Monster Mash*F2;
+Poison;
+Sandstorm;
+Sprite Swarm*F2;
+Vermin Virtuoso;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Beastmoon Seed*F12*WMV;
+
+| mounts =
+
+| spells =
+
+| recipes =
+7 Dream Golem Spellements;
+7 Sprite Swarm Spellements*F2;
+
+}}

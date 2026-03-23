@@ -1,0 +1,120 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,600
+| crecla = Undead
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| miniona =
+Nightmare Spirit;
+
+| world = Marleybone
+| location = Chelsea Court
+| subloc1 = Nimah the Wicked's Chambers
+| descrip = 
+Nimah the Wicked is a tough Boss that Thaumaturges have to fight for their Level 28 {{Link|Spell|Ice Guardian}} Spell.
+
+'''Retired Monstrology Description:'''
+:Keeps Nightmare Spirits in her Chambers just for fun!
+
+| speech =
+:''"Who are you? How did you get in here? You will never get my key!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Death Damage per Pip
+
+| casts =
+Storm Shield;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Ghoul;
+Fire Elf;
+Storm Shark;
+
+| quests =
+The Chest Awaits;
+
+| gold =
+0 - 34;
+
+| hats =
+Cryptkeeper's Circlet;
+
+| robes =
+Cloak of Fascination;
+Garment of the Supreme;
+Vestment of Ignition;
+
+| boots =
+
+| athames =
+Agent's Kris;
+
+| amulets =
+
+| rings =
+Band of Equilibrium;
+Loop of Quietude;
+
+| wands =
+
+| decks =
+
+| items =
+Raised Storm Sarcophagus;
+
+| cards =
+Ghost Touch;
+
+| reagents =
+Brass;
+Copper;
+Ectoplasm*F2;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Green Grapes;
+Medium Fish;
+Nettle Root;
+Redskin Peanut;
+Tiny Fish;
+Wheat Cracker;
+
+| jewels =
+Chipped Defense Citrine +13;
+Chipped Health Opal +18;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

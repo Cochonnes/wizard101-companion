@@ -1,0 +1,167 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,910
+| crecla = Undead
+| school = Death
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Life;
+
+| incresist =
+35% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Shadow-Web Mercenary;
+
+| world = Celestia
+| location = Stormriven
+| subloc1 = Duskweb's Barracks
+| descrip =
+
+| speech =
+:''"I know why you have come, lackey! You will not win their freedom! We will fight until time itself expires!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+Shrouded by darkness, this ghostly being can be found weaving intricate webs surrounded by skittering spiders.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Deathblade;
+Curse;
+Skeletal Pirate;
+Monster Mash;
+Scarecrow;
+Natural Attack (Death 85x);
+
+| quests =
+Never Let Me Go;
+
+| gold =
+59 - 74;
+
+| hats =
+Congruent Cover;
+Festive Facade;
+Incendiary Helm*F6;
+Mystical Headdress*F4;
+Storied Helm*F2;
+
+| robes =
+Armor of Celestian Totality;
+Bolt-Trimmed Tunic;
+Celestian Tempest Armor;
+Drape of Dragon Fire;
+Ensemble Uniform*F4*WMV;
+Wintery Raiment*F6*WMV;
+
+| boots =
+Boots of Dissonance;
+Frostbit Footguards;
+Insulated Greaves;
+Mystical Mukluks*F3;
+Thundercracked Clogs;
+Volatile Footwear*F3;
+
+| athames =
+Dirk of Discovery*F4*WMV;
+Duskweb's Dire Dirk*F3;
+Senator's Claw;
+
+| amulets =
+
+| rings =
+Duskweb's Corrupt Ring*F5*WMV;
+Remedy Ring;
+Tobiko's Scorched Signet*F4*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Survey Level*F4*WMV;
+
+| cards =
+Blizzard;
+Empower*F6*WMV;
+Evil Snowman;
+Fortify*F2;
+Gargantuan*F7*WMV;
+Humongofrog;
+Keen Eyes;
+Meteor Strike;
+Spirit Armor;
+Storm Trap*F2;
+Unstoppable*F4*WMV;
+
+| reagents =
+Cobalt*F2;
+Copper;
+Nickel;
+Steel*F3*WMV;
+
+| spellements =
+
+| snacks =
+Glowing Star Fruit*F2;
+Glowing Taffy;
+Spicy Drumstick;
+Strawberry Cupcake*F3*WMV;
+Submarine Sandwich*F4;
+
+| jewels =
+Dull Piercing Sapphire +2%;
+Fire-Away Ruby;
+Keen Eyes Talent Opal;
+Plain Blocking Jade +6;
+Plain Blocking Onyx +6;
+Plain Damage Amethyst +15;
+Plain Damage Jade +15;
+Unbalancer Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2;
+Maelstrom Snap Dragon*F4;
+Pink Dandelion*CR*F2*WMV;
+Silver Trumpet Vine*CR;
+
+| mounts =
+
+| spells =
+
+}}

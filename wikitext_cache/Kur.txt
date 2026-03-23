@@ -1,0 +1,108 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 4,760
+| crecla = Djinn
+| school = Myth
+| school2 = Balance
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+120 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+15%;
+
+| outboost =
+55%;
+
+| incboost =
+5% Life, Death;
+15% Storm;
+
+| incresist =
+25% Myth;
+30% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Mirage
+| location = Caterwaul Canyons
+| subloc1 = Traitor's Cave
+| descrip =
+Kur is a Minion to {{Link|Creature|Akbari}}. All drops and cheats should be recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Flawless;
+Mythspear (+10%);
+Mythblade;
+Balanceblade (+30%);
+Bladestorm (+25%);
+Myth Trap (+35%);
+Keeper of the Flame;
+Natural Attack (Myth 115-230-345, 75%);
+Athena Battle Sight;
+Punklops (Myth);
+Snake Charmer;
+Mystic Colossus;
+Minotaur (50+520);
+Orthrus (785);
+Boreas Ifrit (800);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

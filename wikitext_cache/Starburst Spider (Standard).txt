@@ -1,0 +1,93 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 17,805
+| crecla = Spider
+| school = Storm
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+27%;
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Tse Tse Rematch
+| descrip =
+Minion to {{Link|Creature|Tse-Tse Snaketail (Standard)}}.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Amplify;
+Stormspear;
+Stormblade (+30%);
+Elemental Blade;
+Wild Bolt;
+Morganthe's Angst;
+Tempest (4 Pip);
+Wrath of Zeus (Storm);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Starburst Spider (Rematch)
+}}

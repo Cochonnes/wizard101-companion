@@ -1,0 +1,554 @@
+Zero quests parsed for Zafaria.
+URL: https://finalbastion.com/wizard101-guides/w101-quest-guides/zafaria-main-quest-line-guide/
+
+Check zafaria_plain.txt and the parse log below.
+
+PARSE LOG — Zafaria
+============================================================
+
+L0000 SKIP    : Home
+L0001 SKIP    : →
+L0002 IGNORED : Wizard101
+L0003 SKIP    : →
+L0004 AREA    : W101 Quest Guides
+L0005 SKIP    : →
+L0006 AREA    : Zafaria Main Quest Line Guide
+L0007 SKIP    : November 15, 2011
+L0008 SKIP    : November 3, 2023
+L0009 IGNORED : misthead
+L0010 AREA    : Wizard101 Main Quest Line
+L0011 SKIP    : Zafaria
+L0012 SKIP    : [Looking for a different part of this series? Click here]
+L0013 SKIP    : Questing through the higher worlds can be time consuming. Especially if you’re q
+L0014 IGNORED : I’m only listing the
+L0015 SKIP    : main quest line quests
+L0016 IGNORED : , aka
+L0017 SKIP    : storyline quests
+L0018 IGNORED : ,
+L0019 IGNORED : which means the ones you
+L0020 IGNORED : have
+L0021 IGNORED : to do in order to get to the next area. Side quests are not mentioned. For each
+L0022 IGNORED : world
+L0023 IGNORED : , I list the quests you have to do
+L0024 IGNORED : in a certain area
+L0025 IGNORED : . The areas are listed in the order you should do them in (unless otherwise spec
+L0026 SKIP    : Between brackets
+L0027 IGNORED : are the different parts of the quest, as sometimes a quest will require you to d
+L0028 SKIP    : I have divided the quests in the Spiral into the following groups:
+L0029 SKIP    : Talk:
+L0030 SKIP    : Quests that require an interaction with an NPC.
+L0031 SKIP    : Mob
+L0032 IGNORED : :
+L0033 SKIP    : Quests that require the defeat of regular monsters.
+L0034 SKIP    : D&C
+L0035 IGNORED : :
+L0036 SKIP    : Quests that require the collection of something from certain monsters (Defeat an
+L0037 SKIP    : Boss
+L0038 IGNORED : :
+L0039 SKIP    : Quests that require the defeat of a boss. Elite monsters are not counted as boss
+L0040 SKIP    : Cheat
+L0041 IGNORED : :
+L0042 SKIP    : Quests the require the defeat of a cheating boss.
+L0043 AREA    : Double boss
+L0044 SKIP    : : Quests that require the defeat of two bosses at once.
+L0045 SKIP    : Instance
+L0046 IGNORED : :
+L0047 SKIP    : Quests that require the completion of a dungeon.
+L0048 SKIP    : Puzzle
+L0049 IGNORED : :
+L0050 SKIP    : Quests that require the solution to a puzzle.
+L0051 SKIP    : Interact:
+L0052 SKIP    : Quests that require interaction with a certain object.
+L0053 SKIP    : Collect
+L0054 SKIP    : : Quests that require interaction with multiple items of a kind.
+L0055 SKIP    : Explore
+L0056 SKIP    : : Quests that just require you to run towards a certain area, NPC or item.
+L0057 AREA    : Zafaria main quest line
+L0058 SKIP    : Zafaria
+L0059 IGNORED : has
+L0060 IGNORED : 148 quests
+L0061 IGNORED : , of which
+L0062 IGNORED : 19
+L0063 IGNORED : are
+L0064 AREA    : Defeat and Collect
+L0065 IGNORED : quests,
+L0066 IGNORED : 30
+L0067 IGNORED : regular mob fights
+L0068 IGNORED : and
+L0069 IGNORED : 24
+L0070 IGNORED : bosses
+L0071 IGNORED : . Of those bosses,
+L0072 IGNORED : 6
+L0073 IGNORED : are the
+L0074 IGNORED : cheating
+L0075 IGNORED : type. One of them only cheats with a tiny Minor Blessing, but hey! It’s still a 
+L0076 IGNORED : 4
+L0077 IGNORED : instances
+L0078 IGNORED : :
+L0079 IGNORED : Tomb of the Zebra King, The Black Palace, Elephant Graveyard and Mirror Lake.
+L0080 AREA    : My favorite quest
+L0081 IGNORED : in Zafaria is called “Shrimp and Algae!” Umlilo Sunchaser is just such a funny N
+L0082 AREA    : My favorite area
+L0083 IGNORED : was the whole of Elephant Graveyard. I just loved the bosses there and the gloom
+L0084 AREA    : Baobab Crossroads
+L0085 AREA    : Dire News From Abroad (talk)
+L0086 AREA    : Natural Born Pyromancer (talk)
+L0087 AREA    : Missing Class (talk)
+L0088 AREA    : Jambo Means Hello (talk)
+L0089 AREA    : Lion Around (talk)
+L0090 AREA    : Going to the Market (
+L0091 SKIP    : D&C
+L0092 IGNORED : + talk)
+L0093 AREA    : No Bother (talk)
+L0094 AREA    : Restricted Access (talk)
+L0095 AREA    : Baobab Crown
+L0096 IGNORED : 9. Meet the Elephants (talk)
+L0097 IGNORED : 10. I Intend to Have Other Plans (talk)
+L0098 IGNORED : 11. Lost Your Way (explore +
+L0099 SKIP    : boss
+L0100 IGNORED : + talk + talk)
+L0101 IGNORED : 12. Night Running (talk)
+L0102 IGNORED : 13. Lion Taming (
+L0103 SKIP    : mob
+L0104 IGNORED : + talk)
+L0105 IGNORED : 14. Wasn’t He Just Here? (talk)
+L0106 IGNORED : 15. Outlaws in the Market (
+L0107 SKIP    : D&C
+L0108 IGNORED : +
+L0109 SKIP    : D&C
+L0110 IGNORED : + talk)
+L0111 IGNORED : 16. Permission Granted (talk)
+L0112 IGNORED : 17. Into the Lion’s Jaws (talk)
+L0113 AREA    : Savannah
+L0114 IGNORED : 18. In The Grass (talk)
+L0115 IGNORED : 19. Master of Disaster (explore + talk)
+L0116 IGNORED : 20. Show of Strength (
+L0117 SKIP    : mob
+L0118 IGNORED : + talk)
+L0119 IGNORED : 21. All’s Well (interact + interact + talk)
+L0120 IGNORED : 22. Open Cages (interact + talk + talk)
+L0121 IGNORED : 23. Wild Lion Chase (talk)
+L0122 IGNORED : 24. Dangerous Attraction (
+L0123 SKIP    : mob
+L0124 IGNORED : + talk)
+L0125 IGNORED : 25. Living with Lions (
+L0126 SKIP    : D&C
+L0127 IGNORED : + talk)
+L0128 IGNORED : 26. Biltong (
+L0129 SKIP    : D&C
+L0130 IGNORED : + talk)
+L0131 IGNORED : 27. Walk on the Wild Side (talk)
+L0132 IGNORED : 28. Plight of the Lions (talk)
+L0133 IGNORED : 29. Picket Fences (interact + interact + talk)
+L0134 IGNORED : 30. In the Cold Distance (interact + talk)
+L0135 IGNORED : 31. Fight to Survive (
+L0136 SKIP    : mob
+L0137 IGNORED : + explore + talk)
+L0138 IGNORED : 32. Narley Dude (talk + talk)
+L0139 IGNORED : 33. Does Your Garden Grow (interact + talk)
+L0140 IGNORED : 34. My Work Is Done (talk)
+L0141 IGNORED : 35. Rock of Ages (talk)
+L0142 IGNORED : 36. Poisoned Well (
+L0143 SKIP    : D&C
+L0144 IGNORED : + talk)
+L0145 IGNORED : 37. Meddling Wizards (explore +
+L0146 SKIP    : boss
+L0147 IGNORED : + talk)
+L0148 IGNORED : 38. Fruit of Life (interact + interact + talk)
+L0149 IGNORED : 39. Lioness Sleeps Tonight (
+L0150 SKIP    : mob
+L0151 IGNORED : + explore +
+L0152 SKIP    : boss
+L0153 IGNORED : + talk)
+L0154 IGNORED : 40. Heal Me (talk)
+L0155 IGNORED : 41. Book of Babalawo (talk + interact + talk)
+L0156 IGNORED : 42. Local Treasures (talk 5x)
+L0157 IGNORED : 43. Off the Boil (interact + explore + talk)
+L0158 IGNORED : 44. Beat of a Different Drum (interact + interact + talk)
+L0159 IGNORED : 45. Drum Kit (
+L0160 SKIP    : D&C
+L0161 IGNORED : + talk)
+L0162 IGNORED : 46. Drum Queen (talk)
+L0163 IGNORED : 47. Top of the Rock (explore)
+L0164 IGNORED : 48. Pride in the Name (
+L0165 SKIP    : instance
+L0166 IGNORED : : explore +
+L0167 SKIP    : mob
+L0168 IGNORED : +
+L0169 SKIP    : cheat
+L0170 IGNORED : + interact)
+L0171 IGNORED : 47. Top of the Rock (interact + talk + talk)
+L0172 IGNORED : 49. Out of the Sun (explore + talk)
+L0173 AREA    : Zamunda Outskirts + Zamunda
+L0174 IGNORED : 50. Coming to Zamunda (talk + talk)
+L0175 IGNORED : 51. The Road to Zamunda (talk + talk)
+L0176 IGNORED : 52. Chaos Rains (interact + interact +
+L0177 SKIP    : mob
+L0178 IGNORED : + talk)
+L0179 IGNORED : 53. Tower Defense (
+L0180 SKIP    : mob
+L0181 IGNORED : + interact + talk)
+L0182 IGNORED : 54. Through the Zorse Gates (talk)
+L0183 IGNORED : 55. Back Into the Fray (
+L0184 SKIP    : D&C
+L0185 IGNORED : + interact + talk)
+L0186 IGNORED : 56. Muster the Troops (interact + explore +
+L0187 SKIP    : mob
+L0188 IGNORED : + talk)
+L0189 IGNORED : 57. The King’s Shadow (talk)
+L0190 IGNORED : 58. Don’t Impress Me Much (
+L0191 SKIP    : mob
+L0192 IGNORED : +
+L0193 SKIP    : mob
+L0194 IGNORED : + talk)
+L0195 IGNORED : 59. Prisoner of Zamunda (
+L0196 SKIP    : mob
+L0197 IGNORED : + interact + talk)
+L0198 IGNORED : 60. Helter Skelter (explore + interact + interact + talk)
+L0199 IGNORED : 61. Burning Tower (
+L0200 SKIP    : mob
+L0201 IGNORED : + explore + talk)
+L0202 IGNORED : 62. Master of the River (
+L0203 SKIP    : D&C
+L0204 IGNORED : + talk)
+L0205 IGNORED : 63. Water Beats Fire (
+L0206 SKIP    : mob
+L0207 IGNORED : + interact + talk)
+L0208 IGNORED : 64. Back on the Trail (explore + interact + talk)
+L0209 IGNORED : 65. Snake in the Grass (interact + talk)
+L0210 IGNORED : 66. Shadow of a King (explore + talk + talk)
+L0211 IGNORED : 67. Wild Zorses (
+L0212 SKIP    : mob
+L0213 IGNORED : + talk)
+L0214 IGNORED : 68. The Snake’s Footprints (talk + explore +
+L0215 SKIP    : boss
+L0216 IGNORED : + talk + talk)
+L0217 IGNORED : 69. Tomb Soldiers (explore + interact + talk)
+L0218 IGNORED : 70. Into the Zebra Tomb (
+L0219 SKIP    : D&C
+L0220 IGNORED : + interact + interact + explore)
+L0221 IGNORED : 71. Tomb of the Zebra Kings (
+L0222 SKIP    : instance
+L0223 IGNORED : :
+L0224 SKIP    : mob
+L0225 IGNORED : + explore +
+L0226 SKIP    : mob
+L0227 IGNORED : +
+L0228 SKIP    : boss
+L0229 IGNORED : + talk + interact)
+L0230 IGNORED : 70. Into the Zebra Tomb (talk)
+L0231 IGNORED : 72. Lust for Life (
+L0232 SKIP    : cheat
+L0233 IGNORED : + interact + talk)
+L0234 IGNORED : 73. Long Winded Warrior (talk)
+L0235 IGNORED : 74. Letter for the Queen (talk)
+L0236 IGNORED : 75. Savannah Run (talk)
+L0237 IGNORED : 76. Lawn Ornament (talk + interact + talk)
+L0238 IGNORED : 77. Give It Away Now (interact + talk)
+L0239 IGNORED : 78. Still Broke (talk + interact + explore + talk)
+L0240 AREA    : Stone Town
+L0241 IGNORED : 79. Drum Run (interact + talk)
+L0242 IGNORED : 80. On the Docks (talk)
+L0243 IGNORED : 81. Sharp as a Tusk (
+L0244 SKIP    : mob
+L0245 IGNORED : + talk)
+L0246 IGNORED : 82. Missing Stripes (talk)
+L0247 IGNORED : 83. The Silver Queen (talk)
+L0248 SKIP    : 84. Elephant March (talk + talk)
+L0249 IGNORED : 85. Orders from the Queen (talk + talk)
+L0250 IGNORED : 86. My Pen (
+L0251 SKIP    : D&C
+L0252 IGNORED : + talk)
+L0253 IGNORED : 87. All Access Pass (talk + talk)
+L0254 IGNORED : 88. Class Is Very Entertaining (talk)
+L0255 IGNORED : 89. Quiet Riot (talk)
+L0256 IGNORED : 90. Calm Like a Bomb (
+L0257 SKIP    : mob
+L0258 IGNORED : + talk)
+L0259 IGNORED : 91. Bulls on Parade (
+L0260 SKIP    : D&C
+L0261 IGNORED : + talk)
+L0262 IGNORED : 92. Know Your Enemy (talk 4x)
+L0263 IGNORED : 93. Across the Spiral (
+L0264 SKIP    : D&C
+L0265 IGNORED : + talk)
+L0266 IGNORED : 94. Welcome to the Jungle (talk)
+L0267 IGNORED : 95. River Rapids (
+L0268 SKIP    : mob
+L0269 IGNORED : + talk)
+L0270 IGNORED : 96. The Cat Who Could (talk)
+L0271 IGNORED : 97. Down the Crazy River (
+L0272 SKIP    : mob
+L0273 IGNORED : + talk)
+L0274 AREA    : Waterfront
+L0275 IGNORED : 98. Fastest Hunk of Junk (explore + talk)
+L0276 IGNORED : 99. Trail of the Trickster (
+L0277 SKIP    : mob
+L0278 IGNORED : + talk)
+L0279 IGNORED : 100. Under the Big Tent (explore + talk +
+L0280 SKIP    : cheat
+L0281 IGNORED : + talk + talk)
+L0282 IGNORED : 101. Barge Right In (explore +
+L0283 SKIP    : mob
+L0284 IGNORED : + interact + talk)
+L0285 IGNORED : 102. Down By The River (interact + talk)
+L0286 IGNORED : 103. Morning Report (talk + talk)
+L0287 IGNORED : 104. Arrest That Man (explore)
+L0288 IGNORED : 105. Catching Shadows (interact + talk)
+L0289 IGNORED : 106. Mission Impossible (
+L0290 SKIP    : D&C
+L0291 IGNORED : + talk)
+L0292 IGNORED : 107. Do I Look Fat In This? (talk + interact + explore)
+L0293 IGNORED : 108. The Black Palace (
+L0294 SKIP    : instance
+L0295 IGNORED : : explore +
+L0296 SKIP    : boss
+L0297 IGNORED : + explore +
+L0298 IGNORED : elite
+L0299 IGNORED : + interact 4x + explore +
+L0300 SKIP    : cheat
+L0301 IGNORED : )
+L0302 IGNORED : 107. Do I Look Fat In This? (talk)
+L0303 IGNORED : 109. Let Him Free (interact + talk)
+L0304 IGNORED : 110. Hannibal’s Queen (talk)
+L0305 IGNORED : 111. You Can Jive (talk)
+L0306 AREA    : Drum Jungle
+L0307 IGNORED : 112. Dancing Queen (explore + talk)
+L0308 IGNORED : 113. Lost in the Jungle (explore + talk)
+L0309 IGNORED : 114. Smoke Signals (
+L0310 SKIP    : mob
+L0311 IGNORED : + talk)
+L0312 IGNORED : 115. Escape From the Apes (
+L0313 SKIP    : mob
+L0314 IGNORED : + talk + talk)
+L0315 IGNORED : 116. Tragedy of the Apes (explore + talk)
+L0316 IGNORED : 117. Fall From Grace (
+L0317 SKIP    : D&C
+L0318 IGNORED : + talk)
+L0319 IGNORED : 118. Down in the Hole (explore + talk)
+L0320 IGNORED : 119. For My Next Trick (
+L0321 SKIP    : D&C
+L0322 IGNORED : + talk)
+L0323 IGNORED : 120. Making a Mask (
+L0324 SKIP    : D&C
+L0325 IGNORED : + interact + talk)
+L0326 IGNORED : 121. The Witch Doctor (explore + talk)
+L0327 IGNORED : 122. Shrimp and Algae! (
+L0328 SKIP    : mob
+L0329 IGNORED : + talk)
+L0330 IGNORED : 123. Caged Follies (interact 4x + talk)
+L0331 IGNORED : 124. What Is This Burning? (explore +
+L0332 SKIP    : boss
+L0333 IGNORED : + interact + explore + talk)
+L0334 IGNORED : 125. Ship of Tears (explore +
+L0335 SKIP    : boss
+L0336 IGNORED : + talk + interact + talk)
+L0337 IGNORED : 126. Kingdom of the Blind (talk)
+L0338 IGNORED : 127. Shango’s Swords (explore +
+L0339 SKIP    : boss
+L0340 IGNORED : + talk + explore +
+L0341 SKIP    : boss
+L0342 IGNORED : + talk)
+L0343 IGNORED : 128. Cutting Through the Mist (explore +
+L0344 SKIP    : boss
+L0345 IGNORED : + talk)
+L0346 IGNORED : 129. Spider Bridge (interact +
+L0347 SKIP    : D&C
+L0348 IGNORED : + talk + talk)
+L0349 IGNORED : 130. Knockin on Kallah’s Door (explore +
+L0350 SKIP    : cheat
+L0351 IGNORED : + talk)
+L0352 AREA    : Elephant Graveyard
+L0353 IGNORED : 131. I Can See Clearly Now (interact + talk)
+L0354 IGNORED : 132. Drum House (interact +
+L0355 SKIP    : mob
+L0356 IGNORED : + interact + talk)
+L0357 IGNORED : 133. Drum Circle (interact + interact + talk)
+L0358 IGNORED : 134. Pure Water (
+L0359 SKIP    : D&C
+L0360 IGNORED : + interact + talk)
+L0361 IGNORED : 135. Pool Cleaning (interact 4x + talk)
+L0362 IGNORED : 136. Drum Beat (interact 3x + talk)
+L0363 IGNORED : 137. Opening Beat (interact + talk)
+L0364 IGNORED : 138. Tomb Raiders (explore +
+L0365 SKIP    : boss
+L0366 IGNORED : + explore +
+L0367 SKIP    : boss
+L0368 IGNORED : + explore +
+L0369 SKIP    : boss
+L0370 IGNORED : + explore +
+L0371 SKIP    : boss
+L0372 IGNORED : + talk)
+L0373 IGNORED : 139. Tomb Sweet Tomb (interact)
+L0374 IGNORED : 140. You Think You Can Drum (
+L0375 SKIP    : instance
+L0376 IGNORED : : talk +
+L0377 SKIP    : puzzle
+L0378 IGNORED : + talk)
+L0379 IGNORED : 141. Spin Me Right Round (
+L0380 SKIP    : instance
+L0381 IGNORED : :
+L0382 SKIP    : mob
+L0383 IGNORED : + talk + interact 4x +
+L0384 SKIP    : mob
+L0385 IGNORED : + talk)
+L0386 IGNORED : 142. When Elephants Cry (
+L0387 SKIP    : instance
+L0388 IGNORED : : talk 3x)
+L0389 IGNORED : 143. Formerly Known As (
+L0390 SKIP    : instance
+L0391 IGNORED : : talk)
+L0392 IGNORED : 139. Tomb Sweet Tomb (talk)
+L0393 IGNORED : 144. Tree of Woe (talk 3x)
+L0394 IGNORED : 145. Heart of Darkness (interact + talk)
+L0395 AREA    : Mirror Lake
+L0396 IGNORED : 146. Wizard in the Mirror (
+L0397 SKIP    : instance
+L0398 IGNORED : : explore + talk +
+L0399 SKIP    : boss
+L0400 IGNORED : + explore + talk +
+L0401 IGNORED : quadruple
+L0402 SKIP    : cheat
+L0403 IGNORED : + explore +
+L0404 IGNORED : quadruple boss
+L0405 IGNORED : + explore +
+L0406 IGNORED : quadruple boss
+L0407 IGNORED : )
+L0408 IGNORED : 147. Chasing Shadows (talk)
+L0409 IGNORED : 148. Through Glass, Darkly (talk)
+L0410 SKIP    : Finished the Zafaria main quest line? Take a look below at what comes next!
+L0411 SKIP    : All Wizard101 Main Quest Line Guides
+L0412 SKIP    : Wizard City
+L0413 SKIP    : Krokotopia
+L0414 SKIP    : Marleybone
+L0415 SKIP    : Mooshu
+L0416 SKIP    : Dragonspyre
+L0417 SKIP    : Celestia
+L0418 SKIP    : Zafaria
+L0419 SKIP    : Avalon
+L0420 SKIP    : Azteca
+L0421 SKIP    : Khrysalis
+L0422 SKIP    : Polaris
+L0423 SKIP    : Mirage
+L0424 SKIP    : Empyrea
+L0425 SKIP    : Karamelle
+L0426 SKIP    : Lemuria
+L0427 SKIP    : Novus
+L0428 SKIP    : Wallaru
+L0429 SKIP    : Grizzleheim
+L0430 SKIP    : Wysteria
+L0431 SKIP    : Catacombs
+L0432 SKIP    : Happy Questing!
+L0433 SKIP    : Share your vote!
+L0434 SKIP    : No, thanks.
+L0435 SKIP    : Do you like this post?
+L0436 SKIP    : Fascinated
+L0437 AREA    : Happy
+L0438 AREA    : Sad
+L0439 AREA    : Angry
+L0440 SKIP    : Bored
+L0441 SKIP    : Afraid
+L0442 SKIP    : About the author
+L0443 SKIP    : Latest posts
+L0444 IGNORED : misthead
+L0445 IGNORED : While misthead has written all kinds of guides, the most popular by far are her 
+L0446 AREA    : Wizard101 Spider Pets Guide
+L0447 IGNORED : 2019-05-08 20:51:03
+L0448 AREA    : W101 Floor Tiles Organized By Color
+L0449 IGNORED : 2019-02-24 11:00:49
+L0450 AREA    : Level 48 School Pets and Hybrids
+L0451 IGNORED : 2019-02-14 20:20:44
+L0452 AREA    : Wizard101 Piggle Pets Guide
+L0453 IGNORED : 2019-02-08 15:14:27
+L0454 AREA    : W101 Wallpapers Organized by Color
+L0455 IGNORED : 2019-01-31 07:32:53
+L0456 SKIP    : 16 COMMENTS
+L0457 AREA    : Tarlac LifeFist
+L0458 SKIP    : July 15, 2024
+L0459 AREA    : Reply
+L0460 AREA    : Quest 130 has an explore + elite before the cheating boss
+L0461 AREA    : Matthew StormGrove
+L0462 SKIP    : June 10, 2023
+L0463 AREA    : Reply
+L0464 IGNORED : Same Not sure what the heck is the problem with this game. Have you ever figured
+L0465 IGNORED : I am stuck in Zafaria, and have the hero badge but cannot leave. All quests are 
+L0466 AREA    : I NEED HELP
+L0467 AREA    : Mashtyx
+L0468 SKIP    : September 5, 2022
+L0469 AREA    : Reply
+L0470 AREA    : I think Baobab Crossroads is incorrectly spelled as Baobab Crossrounds
+L0471 IGNORED : stormbreaker
+L0472 SKIP    : September 6, 2022
+L0473 AREA    : Reply
+L0474 IGNORED : Fixed, thanks.
+L0475 IGNORED : nuts
+L0476 SKIP    : March 19, 2022
+L0477 AREA    : Reply
+L0478 IGNORED : i have no quests i zafaria yet its not letting me into avalon
+L0479 IGNORED : stormbreaker
+L0480 SKIP    : March 20, 2022
+L0481 AREA    : Reply
+L0482 IGNORED : Hi, if you completed all Zafaria quests, speak to Merle Ambrose and he’ll give y
+L0483 AREA    : Leah
+L0484 SKIP    : March 18, 2021
+L0485 AREA    : Reply
+L0486 IGNORED : 70 is a defeat and collect quest
+L0487 AREA    : Amanda BattleSteed
+L0488 SKIP    : September 2, 2020
+L0489 AREA    : Reply
+L0490 IGNORED : “115. Escape From the Apes (mob + talk + talk)”
+L0491 IGNORED : Should be “115. Escape From the Apes (elite + talk + talk)”
+L0492 AREA    : Jwebb
+L0493 SKIP    : January 28, 2021
+L0494 AREA    : Reply
+L0495 IGNORED : Why can I not access Avalon I’m level 70 I got the hero of Zafaria badge checked
+L0496 AREA    : Jose Earth Mancer
+L0497 SKIP    : April 28, 2020
+L0498 AREA    : Reply
+L0499 IGNORED : Isn’t 48 an instance????
+L0500 AREA    : Cody RavenTamer
+L0501 SKIP    : April 30, 2020
+L0502 AREA    : Reply
+L0503 IGNORED : Fixed. Thanks! 🙂
+L0504 AREA    : Kevin StormSword/Kevin FireBlade
+L0505 SKIP    : April 13, 2020
+L0506 AREA    : Reply
+L0507 IGNORED : For The Black Palace quest, the second fight is an elite not a regular mob.
+L0508 AREA    : Cody RavenTamer
+L0509 SKIP    : April 14, 2020
+L0510 AREA    : Reply
+L0511 IGNORED : Fixed. Thanks!
+L0512 AREA    : Grace Rose
+L0513 SKIP    : December 13, 2019
+L0514 AREA    : Reply
+L0515 IGNORED : this helps a lot thank you
+L0516 IGNORED : .
+L0517 SKIP    : November 30, 2019
+L0518 AREA    : Reply
+L0519 AREA    : Yay! I love Greyhorn Mercenary genocide!
+L0520 AREA    : Logan Fell
+L0521 SKIP    : January 10, 2019
+L0522 AREA    : Reply
+L0523 IGNORED : Amazing quest guide! it goes into deep detail and that is what I like keep up th
+L0524 SKIP    : Leave a Reply
+L0525 SKIP    : Cancel reply
+L0526 AREA    : Your email address will not be published.
+L0527 SKIP    : Required fields are marked
+L0528 IGNORED : *
+L0529 AREA    : Comment
+L0530 IGNORED : *
+L0531 AREA    : Name
+L0532 IGNORED : *
+L0533 AREA    : Email
+L0534 IGNORED : *
+L0535 AREA    : Website
+L0536 AREA    : Current ye@r
+L0537 IGNORED : *
+L0538 AREA    : Leave this field empty
+L0539 SKIP    : Previous Post
+L0540 IGNORED : Zafaria Zeke Quest – Sock Monkeys
+L0541 SKIP    : Next Post
+L0542 AREA    : Zafaria Monstrology Creatures
+
+SUMMARY: 0 quests in 0 areas
+Stats: {'total_quests': None, 'mob_fights': None, 'dc_quests': None, 'boss_fights': 24, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}

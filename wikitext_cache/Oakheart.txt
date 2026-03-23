@@ -1,0 +1,299 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,760
+| crecla = Elemental
+| crecla2 = Plant
+| crecla3 = Treant
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Befouled Woodwalker;
+
+| world = MooShu
+| location = Village of Sorrow
+| subloc1 = Oakheart's Lair
+| descrip =
+*Two additional Befouled Woodwalkers will appear if more than two Wizards are present.
+
+| speech =
+:''"This affront to everything natural will cause you great torment, little Wizard..."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+The wood from this treant is prized for its durability.
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Black Mantle;
+Sprite;
+Lifeblade;
+Life Trap;
+Imp;
+Leprechaun;
+Seraph;
+Centaur;
+Natural Attack (Life 85x);
+Locust Swarm;
+Cyclops;
+Storm Shark;
+Fire Elf;
+Meteor Strike;
+Heck Hound;
+
+| quests =
+Forest Spirit;
+
+| gold =
+70 - 130;
+
+| hats =
+Benign Cap*F3*WMV;
+Cap of the Lithe;
+Concordant Headwraps*F2;
+Cowl of Discord;
+Forest Spirit's Cap of Belief*F5*WMV;
+Gallant Shroud*F2;
+Hat of Enthusiasm;
+Hat of the Nimble;
+Hat of the Triad;
+Headwraps of Resonance*F2;
+Helm of Sandcastles*F2*WMV;
+Hood of the Resolute;
+Light-As-Air Hat;
+Mask of Impression;
+Painful Cowl;
+Profound Hat;
+Shroud of Afterthoughts;
+Tormented Mask;
+Vigilant Cap*F2*WMV;
+Warbled Hat*F2*WMV;
+Zippy Shroud;
+
+| robes =
+Blended Wool Tunic;
+Cloak of Rhyming*F2*WMV;
+Euphonic Cloak*F2*WMV;
+Forest Spirit's Cloak*F2*WMV;
+Garments of Chants*F3*WMV;
+Garment of Dilemma*F4*WMV;
+Garment of Watchfulness;
+Profound Robes*F7*WMV;
+Robe of Conceit;
+Robe of Consideration;
+Robe of the Chipper;
+Robes of Struggling*F2;
+Robes of the Triad*F8*WMV;
+Sprightly Garments;
+Tunic of Preoccupation*F2*WMV;
+Tunic of Soul-Searching*F3*WMV;
+Vestment of Cooperation;
+Vestment of Tribulations;
+Vexing Tunic*F4*WMV;
+
+| boots =
+Blended Wool Footwraps;
+Boots of Chimes*F3*WMV;
+Boots of Commotion;
+Boots of Cooperation;
+Boots of Melodies;
+Footwraps of Anthems*F2;
+Footwraps of Chants*F2*WMV;
+Forest Spirit's Careful Boots*F2*WMV;
+Friendly Shoes*F2*WMV;
+Industrial Slippers;
+Profound Slippers*F2*WMV;
+Sandals of Exertion;
+Sandals of Sympathy;
+Shoes of Preoccupation;
+Shoes of Song;
+Shoes of Struggling;
+Shoes of the Whim*F5*WMV;
+Shoes of Woe;
+Slippers of the Eager*F2*WMV;
+Slippers of the Opus;
+Slippers of Yodels*F4*WMV;
+Spirit's Slippers of the Muse*F2*WMV;
+Sprightly Slippers;
+
+| athames =
+Athame of Attention;
+Athame of the Lotus*F2;
+Tanto of Fire*F2*WMV;
+
+| amulets =
+Spirit's Flowering Choker;
+
+| rings =
+Ring of the Naturewalker;
+Spirit's Ring of Deep Thought;
+
+| wands =
+Ruby Blade of the Forest*F5*WMV;
+
+| decks =
+Deck of the Lotus*F4*WMV;
+
+| items =
+Cherry Blossom Tree*F6*WMV;
+Imperial Banner;
+Long Lantern;
+Lunar Tablet;
+MooShu Haunted Theme*F2;
+Potted Bobtail;
+Potted Cattail*F5*WMV;
+Stone Marker;
+Tree Obelisk;
+Tree Stage Set*F2*WMV;
+Wooden Skeleton Key*CR*F5*WMV;
+Yellow and Blue Chest*F2;
+
+| cards =
+Black Mantle*F2;
+Cloak;
+Colossus;
+Dragonflies;
+Earthquake*F2*WMV;
+Giant;
+Hydra;
+Ice Wyvern;
+Krokotillian;
+Pest Zapper;
+Reshuffle;
+Satyr*F2*WMV;
+Scarecrow;
+Seraph;
+Skeletal Pirate;
+Sniper;
+Stormzilla;
+Strong;
+Time of Legend;
+Tough;
+Woodwalker*F6*WMV;
+
+| reagents =
+Brass*F3;
+Cat Tail;
+Cobalt*F4*WMV;
+Copper*F3;
+Iron*F2;
+Lead*F2*WMV;
+Nickel*F2;
+Pyrite;
+Spider Silk*F9*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Crunch Apple;
+Fire Cracker;
+Golden Peanut;
+Golden Squash*F3*WMV;
+Large Fish*F3*WMV;
+Large Watermelon*F3*WMV;
+Square Root*F2*WMV;
+
+| jewels =
+Adroit Opal;
+Balance-Eye Citrine;
+Balance-Off Citrine;
+Banana Peel Opal;
+Blemished Damage Amethyst +11;
+Blemished Damage Jade +11;
+Blemished Damage Onyx +11;
+Blemished Damage Peridot +11;
+Blemished Damage Sapphire +11;
+Blemished Defense Citrine +21;
+Blemished Defense Opal +11;
+Blemished Health Opal +40*F2;
+Blemished PIP Opal +4%;
+Boost Opal;
+Charge Opal;
+Death-Giver Onyx;
+Effervescent Opal;
+Fire-Boon Ruby;
+Fire-Giver Ruby;
+Flawed Accurate Amethyst +4%;
+Flawed Accurate Jade +4%;
+Flawed Accurate Onyx +4%;
+Flawed Accurate Opal +2%;
+Flawed Accurate Peridot +4%*F3;
+Flawed Accurate Ruby +4%;
+Flawed Accurate Sapphire +4%;
+Flawed Defense Amethyst +19;
+Flawed Defense Citrine +19*F2*WMV;
+Flawed Defense Jade +19;
+Flawed Defense Peridot +19;
+Flawed Defense Ruby +19;
+Flawed Defense Sapphire +19;
+Flawed Health Opal +34*F2*WMV;
+Gold Miner Opal;
+Humongofrog Peridot*F2;
+Ice Wyvern Sapphire;
+Kraken Amethyst*F2*WMV;
+Life-Away Jade;
+Meteor Strike Ruby;
+Power Play Citrine;
+Seraph Jade;
+Sharp Opal;
+Skeletal Pirate Onyx;
+Slow Motion Opal;
+Storm-Giver Amethyst;
+Storm-Proof Amethyst;
+
+| pins =
+
+| pets =
+Treant*F4*WMV;
+
+| seeds =
+Deadly Ninja Fig*F3*WMV;
+Fiery Boom Shroom*F5*WMV;
+Maelstrom Snap Dragon*F3*WMV;
+Ninja Fig*CR;
+Pink Dandelion*CR;
+White Laugh-O-Dil*F4*WMV;
+
+| mounts =
+
+| spells =
+
+}}

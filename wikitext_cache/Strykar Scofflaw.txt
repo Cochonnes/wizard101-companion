@@ -1,0 +1,133 @@
+{{Stub|which version of the '''Mutate''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 3,580
+| crecla = Raven
+| school = Life
+| startpips = 3
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Death, Fire;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Grizzleheim
+| location = Vestrilund
+| subloc1 = Vestri's Hall
+| descrip =
+Strykar Scofflaw is not repeatable. The only way to fight him again is to teleport to someone who has the quest ''That Was Easy...''.
+
+| speech =
+:''"My loyalty is to the Coven! I'll destroy you and see the Everwinter come upon this whole world!"''
+
+| spellnotes =
+
+| casts =
+Death Shield;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+ Giant Spider;
+Lifeclops;
+Seraph;
+Earth Walker;
+Centaur;
+Natural Attack (Life 85x);
+
+| quests =
+That Was Easy...
+
+| gold =
+38 - 58;
+
+| hats =
+Barbaric Helm*F2;
+Horned Helm of the Mighty*F2*WMV;
+
+| robes =
+Raiment of Smoke;
+
+| boots =
+Barbarian's Bold Boots;
+Barbarian's Brave Boots;
+Barbarian's Courage Boots*F2*WMV;
+Barbarian's Daring Boots*F2;
+Barbarian's Fearless Boots;
+Barbarian's Fierce Boots;
+Barbarian's Valorous Boots;
+
+| athames =
+Wolf's Ruby Claw*F4*WMV;
+
+| amulets =
+Dragon's Shield Amulet*F8*WMV;
+
+| rings =
+Ring of the Hungry Wolf;
+
+| wands =
+Cloudberry Staff*F2;
+Spear of Bear's Wrath*F4*WMV;
+
+| decks =
+
+| items =
+
+| cards =
+Dryad;
+Monstrous*F9*WMV;
+Mutate Beetle;
+Vengeance*F3*WMV;
+
+| reagents =
+Cobalt;
+Ectoplasm*F2*WMV;
+Nickel*F2;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Cauliflowers;
+Glowing Star Fruit;
+Salmonberry;
+Spicy Drumstick;
+Strawberry Cupcake;
+Uni-Corn;
+
+| jewels =
+Plain Defense Peridot +29;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Evil Snow Peas;
+Orange Dandelion;
+
+| mounts =
+
+| spells =
+
+}}

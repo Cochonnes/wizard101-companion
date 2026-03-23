@@ -1,0 +1,94 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 10,500
+| crecla = Dog
+| school = Myth
+| startpips = 2
+| powerpips = Yes
+| schoolpips =
+Myth;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = Tartarus (Challenge)
+| subloc1 = Courtyard of Tartarus (Challenge)
+| descrip =
+*For the Standard version of this Creature, see {{Link|Creature|Cerberus (Myth)}}.
+
+For the purpose of drops, Cerberus (Myth, Challenge) is considered a Minion to {{Link|Creature|Cerberus (Balance, Challenge)}}. All drops, cheats, and speech are recorded on that page.
+| speech =
+
+| spellnotes =
+
+| casts =
+Amplify;
+Mythblade;
+Myth Trap;
+Natural Attack (Myth 115-240-365);
+Minotaur;
+Ninja Pigs;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Cerberus (Myth)
+}}

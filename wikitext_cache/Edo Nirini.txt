@@ -1,0 +1,198 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 545
+| crecla = Krokotopian
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Ice;
+
+| incresist =
+50% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Desert Golem;
+
+| world = Krokotopia
+| location = Palace of Fire
+| subloc1 = Edo's Chamber
+| descrip =
+Edo Nirini is one of the four members of the Nirini family in the Palace of Fire that is maintaining the spirit barrier for the {{Link|Location|Throne Room of Fire}}.  After [[Quest:Payback|helping]] the Royal Expeditionary Force beat back some of the Warriors and {{Link|Creature|Flame Guardian}}s, Wizards confront Edo and the other three Nirini in the final push into the Throne Room.
+
+Two additional Desert Golems will appear if more than two Wizards are present.
+
+| speech =
+:''"Thus begins the draining of your strength... and the restoration of my glory!"''
+
+| spellnotes =
+
+| casts =
+Weakness;
+Fire Cat;
+Fire Elf (50+210);
+Sunbird;
+Natural Attack (Fire 100x);
+Leprechaun;
+Troll;
+Banshee;
+Scorpion;
+Locust Swarm;
+
+| quests =
+Give 'em Another Round;
+
+| gold =
+17 - 33;
+
+| hats =
+Conjurer's Hat;
+Durable Hood;
+Edo Nirini's Ardent Helm*F2*WMV;
+Helm of the Bastion*F2*WMV;
+Hood of the Stronghold*F4*WMV;
+Mask of Proportions;
+
+| robes =
+Cloak of Refuge;
+Conjurer's Cloak*F3*WMV;
+Durable Robe*F4*WMV;
+Edo's Shroud*F4*WMV;
+Garments of the Augur*F3;
+Glacial Tunic;
+Necromancer's Ivory Cloak;
+Pyromancer's Lambent Robe*F2*WMV;
+Raiment of the Badlands*F3*WMV;
+Robe of Ingenuity*F2;
+Rugged Robe*F4*WMV;
+Sphinx's Vestment;
+Tunic of Energy*F2*WMV;
+Tunic of Mortality*F2;
+Tunic of the Whirlwind;
+Vestment of the Arctic;
+
+| boots =
+Boots of Imagination;
+Boots of the Citadel;
+Cryptkeeper's Shoes;
+Quartermaster's Boots;
+Shoes of Annihilation*F3;
+Shoes of Figments*F3*WMV;
+Shoes of the Fortress*F4*WMV;
+
+| athames =
+Ancient Kris*F2*WMV;
+Athame of Mortality*F3*WMV;
+Cryptkeeper's Shortsword*F2*WMV;
+Dirk of the Wasteland*F2*WMV;
+Flamedancer's Athame*F3*WMV;
+Parched Kris;
+Powerful Stiletto*F2*WMV;
+Whirlwind Dagger;
+
+| amulets =
+
+| rings =
+Advocate's Ring*F3*WMV;
+Band of Energy*F2;
+Loop of Talent*F2*WMV;
+Loop of Tall Tales*F2*WMV;
+Partisan's Ring*F2*WMV;
+Ring of Mortality*F2*WMV;
+Sparkling Band*F2;
+Victor's Signet*F4*WMV;
+
+| wands =
+Edo's Glittering Staff*F3*WMV;
+
+| decks =
+Mummified Deck*F3*WMV;
+Pharaoh's Deck;
+
+| items =
+Fire Mummy;
+Floor Torch*F3*WMV;
+Krok Snake Plaque;
+Krok Sun Plaque*F2;
+Purple Painted Column*F3*WMV;
+Red Facetted Column*CR*F3*WMV;
+
+| cards =
+Fire Elf;
+Guiding Light;
+Humongofrog;
+Krokotillian*F2*WMV;
+Storm Shark;
+Time of Legend;
+Troll;
+
+| reagents =
+Copper*F2;
+Iron*F3;
+Leather Straps*F2*WMV;
+Nickel*F4*WMV;
+Pyrite*F5*WMV;
+
+| spellements =
+
+| snacks =
+Cracker*F4*WMV;
+Green Grapes*F2*WMV;
+Nettle Root*F4*WMV;
+Tiny Fish*F2;
+
+| jewels =
+Big Exhaust Opal;
+Blood Bat Peridot*F3*WMV;
+Check Opal;
+Chipped Mana Opal +10;
+Chipped PIP Opal +1%;
+Cracked Accurate Citrine +2%;
+Cracked Accurate Onyx +2%;
+Cracked Accurate Sapphire +2%;
+Cracked Damage Amethyst +4*F2*WMV;
+Cracked Damage Sapphire +4;
+Cracked Defense Citrine +9;
+Cracked Defense Citrine +11;
+Cracked Defense Citrine +12;
+Cracked Defense Jade +9;
+Cracked Defense Jade +12;
+Cracked Defense Onyx +12;
+Cracked Defense Peridot +10;
+Cracked Defense Ruby +9;
+Cracked Defense Ruby +10;
+Dark Sprite Onyx;
+Fire Cat Ruby*F2*WMV;
+Frost Beetle Sapphire;
+Ice-Away Sapphire;
+Imp Jade;
+Scarab Citrine*F2*WMV;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Pink Dandelion*CR*F4*WMV;
+
+| mounts =
+
+| spells =
+
+}}

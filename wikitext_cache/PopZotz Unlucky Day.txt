@@ -1,0 +1,122 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 16,840
+| crecla = Parrot
+| school = Balance
+| masteries =
+Death;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Azteca
+| location = Cloudburst Forest
+| subloc1 = Clearing
+| descrip =
+This Boss is considered a Minion to {{Link|Creature|Shemazan Blightmark}}. All drops should be recorded on that page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Shemazan Blightmark's hapless wingman in the Cloudburst Forest.
+
+| extract class =
+Parrot;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals full Damage, even against Shields.
+
+| casts =
+Conviction;
+Vengeance;
+Spirit Shield;
+Mass Infection;
+Balanceblade;
+Hex (+35%);
+Feint;
+Chimera (375);
+Sabertooth;
+Judgement;
+Natural Attack (PopZotz);
+Poison (45+450);
+Wraith (575);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,146 @@
+{{Stub|which version of the ''{{Link|TreasureCard|Shatter}} Treasure Card'' this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 7,840
+| crecla = Lion
+| school = Myth
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Thornpaw Hunter;
+
+| world = Zafaria
+| location = Savannah
+| subloc1 = Kiathi Nighthunter's Cave
+| descrip =
+Pyromancers must defeat this Boss for their Level 78 Quest to obtain the {{Link|Pet|Efreet}} Pet.
+*Kiathi Nighthunter is not repeatable after completing the Quest, Firestarter.
+
+| speech =
+:''"Who dares trespass! This black glass is mine! You will not take any from me, nor will you leave here alive!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals ~92 Death Damage per Pip
+
+| casts =
+Amplify;
+Infallible;
+Mythblade;
+Myth Trap;
+Yellow Troll;
+Humongofrog;
+Minotaur;
+Earthquake;
+Orthrus;
+Medusa;
+
+| quests =
+Firestarter;
+
+| gold =
+79 - 97;
+
+| hats =
+Hood of the Sacred Lake;
+Mask of the Catalan;
+Zebra's Zephyr Headdress;
+
+| robes =
+Catalan's Scales;
+Jabberwock's Plate*F2*WMV;
+Jambo Jacket;
+Outsider's Grim Garb;
+
+| boots =
+Knight's Boots of Justice;
+Merciful Knight's Boots;
+Steppers of Ice and Fire;
+
+| athames =
+Horn Handled Knife;
+Steel of the Wild Hunt;
+
+| amulets =
+Dependable Squire's Torc;
+Torc of Pluck;
+
+| rings =
+Amahle's Striped Band;
+Brisk Circle of Nodor;
+Esop's Dancing Ring;
+
+| wands =
+Crystal Cavern Cudgel;
+
+| decks =
+Silverweave Spread*F2*WMV;
+
+| items =
+Avalon Abbey Road Theme;
+Avalon Combat Theme;
+
+| cards =
+Blinding Light;
+Cleanse Ward;
+Gargantuan;
+Myth Prism;
+Orthrus;
+Pierce*F2*WMV;
+Shatter;
+
+| reagents =
+Black Lotus*F2*WMV;
+Deep Mushroom;
+Frost Flower;
+Mist Wood;
+Ore;
+Pearl;
+Red Mandrake;
+
+| spellements =
+
+| snacks =
+Cracker;
+Deviled Eggs;
+Glowing Star Fruit;
+Golden Grapes;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Evil Magma Peas*CR;
+Silver Trumpet Vine*CR;
+
+| mounts =
+
+| spells =
+
+}}

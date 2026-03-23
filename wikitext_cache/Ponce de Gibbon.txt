@@ -1,0 +1,238 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 15,000
+| crecla = Monquistan
+| school = Myth
+| masteries =
+Death;
+
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+86 Any;
+
+| criticalblock =
+69 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Monquistan;
+
+| world = Azteca
+| location = Saltmeadow Swamp
+| subloc1 = Ship Hold
+| lootchest = Ponce de Gibbon's Chest
+| descrip =
+Ponce de Gibbon is also known as "El Capitan".
+*Two additional Monquistans will appear if more than two Wizards are present.
+
+| speech =
+:''"Do not think you can resist my natural-born leadership! Let me put a shine on you, Wizard, and you'll see you must serve me! No? Very well, let me teach you how to spell servience! Uh, I mean subservience!"''
+
+| cheatnotes =
+'''Interrupt Cycle''' (Resets every 6{{Icon|Round}}
+This battle revolves around a cheat cycle that spans the length of five Rounds. This cheat repeats itself every five Rounds.
+*{{Icon|Round}} At the beginning of the first Round in this cycle (starting in Round 6), Ponce will remove marks he placed during the second Round in this cycle (see below). This is considered a normal Round.
+*{{Icon|Ward}} ''"First, Let's cloud the mind!"'' / ''"Mind Weakened"'' - At the beginning of the second Round in this cycle, Ponce will place a "mark" on a random Wizard, in the form of a Stun Shield.
+**{{Link|Spell|Melt}} can be placed on Ponce in order to Dispel this cheat.
+**The Stun Shield marker does not block Stuns.
+*{{Icon|Round}} The third Round in this cycle is considered a normal Round. However, it is the last Round for a marked Wizard to damage Ponce, in order to get rid of the mark. Failure to do so results in the worst part of his cheat to take place in the fourth and fifth Rounds of this cycle.
+**{{Icon|Round}} ''"Bah! You are too strong willed!"'' - If the marked Wizard attacks him, he will remove the Stun Shield mark and any other [[:Category:Ward Spells|Wards]] from the Wizard. Stun Shields aren't removed from this spell.
+**If Ponce has a Damage over Time effect already on him, this does not remove the mark, regardless if the marked Wizard cast it on him. 
+*{{Icon|Manipulation}} ''"Are you sure you won't join us?"'' - In Round 4, if a marked Wizard did not attack Ponce by the end of the third Round in this cycle, he will {{Link|Spell|Beguile}} the Wizard.
+*{{Icon|Manipulation}} ''"If you aren't with us, you're against us!"'' - At the beginning of the fifth Round in this cycle, he will interrupt-cast a version of Sacrifice that deals '''650''' Death Steal Damage to the Wizard, and heals Ponce for '''1,820''' Health, (as though the Wizard used Sacrifice on him).
+**Universal and Death [[:Category:Blade Spells|Blades]] that are active on the Wizard, will increase the amount of Damage dealt by the Sacrifice.
+**Universal and Death Shields that are active on the Wizard will decrease the amount of Damage dealt by the Sacrifice.
+**Infection will not lessen this Damage, however, it will decrease the Healing effect by -50%. ''Needs confirmation.''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Ether Shield (-75%);
+Infection;
+Mythblade;
+Spirit Blade;
+Curse (+25%);
+Myth Banshee (170);
+Natural Attack (Myth 185-370-555);
+Minotaur;
+Earthquake;
+Humongofrog (400-500);
+Orthrus;
+Medusa;
+Basilisk;
+Celestial Calendar;
+Vampire;
+Wraith (575);
+
+| quests =
+Monkey Shine;
+
+| gold =
+83 - 268;
+
+| hats =
+Cruel Star's Blazing Crown*F2*WMV;
+Great Coatl's Headdress*F4*WMV;
+Storm Caiman's Vicious Mask*F3;
+
+| robes =
+Cloak of the Tyrant of Beasts*F2*WMV;
+Coatl Lord's Robes*F2*WMV;
+Cruel Star's Blazing Armor*F3*WMV;
+Falling Star Chac's Armor;
+Glorious Xicolli Vest;
+High Chac's Guarded Armor;
+Song of the Lizard Coat;
+Tunic of the Broken Spear;
+Vestment of the Calavera;
+
+| boots =
+Falling Star Chac's Wraps*F4*WMV;
+
+| athames =
+Athame of the Falling Star;
+Beak Breaker's Antique Sliver*F3;
+Black Sky Barbed Hook*F3;
+Drowned Spirit Knife;
+King Acampi's Cruel Fang*F2;
+King Neza's Shining Talon*F2;
+
+| amulets =
+Heart of Sky Greenstone Relic*F3*WMV;
+
+| rings =
+Celestial Codex Ring*F3*WMV;
+Lords of Night Challenge Ring*F2*WMV;
+Signet of the Lizard Tyrant*F3;
+
+| wands =
+Serpent King's Turquoise Arrow*F2;
+
+| decks =
+Case of Mother Moon*F4*WMV;
+Case of the Worldtree*F3*WMV;
+
+| items =
+Azteca Combat Theme*F2*WMV;
+Azteca Haunted Theme;
+Azteca Mountain Theme*F2*WMV;
+Azteca Post Apocalypse Theme*F3;
+Gold Nugget;
+Sun Jar;
+Wide Drum*F2;
+
+| cards =
+Azoth;
+Chastisement*F2*WMV;
+Chimera;
+Colossal;
+Cycle of Life*F2;
+Dr. Von's Monster;
+Extraordinary;
+Frost Giant;
+Furnace*F2;
+Galvanic Field;
+Gnomes!;
+Orthrus;
+Polymorph Icehorn*F2;
+Polymorph Jaguar;
+Polymorph Pteranodon*F2;
+Potent Trap*F4*WMV;
+Primordial;
+Punishment;
+Rain of Fire;
+Reliquary;
+Sharpened Blade*F3*WMV;
+Sirens;
+Sleet Storm*F2;
+Virulence*F2*WMV;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F4;
+Black Pearl*F2*WMV;
+Blood Moss*F3*WMV;
+Bone*F3*WMV;
+Brass;
+Bronze;
+Bronze Gear*F2;
+Deep Mushroom*F5;
+Fire Blossom*F4*WMV;
+Fossil*F4;
+Lava Lily*F5*WMV;
+Mist Wood*F2*WMV;
+Mithril*F2;
+Nightshade*F4*WMV;
+Ore*F5;
+Red Mandrake*F3*WMV;
+Silver;
+Steel*F2;
+Stone Block*F3;
+Sunstone;
+Tungsten*F2;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Allocados;
+Avocado Milkshake;
+Bedrock Bonbons;
+Buttered Bread*F3*WMV;
+Cacao Beans*F2*WMV;
+Cactus Fruit;
+Chapulines*F3*WMV;
+Fern Jelly;
+Fried Ice Cream*F4;
+Maize;
+Marzipan Maize*F2;
+Quetzal Pretzel*F2;
+Saber-Tooth Cider*F2*WMV;
+Saursa;
+Tenochti-Flan*F2*WMV;
+Yucca*F2;
+Zocalo Wings*F2;
+
+| jewels =
+Aura Crush Citrine*F2;
+Berserk Talent Opal;
+Clear Blocking Opal +5;
+Golem Minion Peridot;
+Halt Leader Opal;
+Polished Health Opal +87;
+Take Power Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2;
+Deadly Fly Trap*F2;
+Red Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

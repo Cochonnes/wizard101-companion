@@ -1,0 +1,182 @@
+{{Stub|verification on Broodmother's cheats as noted}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 11,825
+| crecla = Butterfly
+| crecla2 = Insect
+| school = Myth
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+24%;
+
+| outboost =
+105%;
+
+| incboost =
+5% Storm;
+
+| incresist =
+70% Myth;
+
+| outhealing =
+45%;
+
+| inchealing =
+50%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Broodmother (Tier 5);
+Roberto (Tier 5);
+Young Morganthe (Tier 5);
+
+| world = Housing Instance
+| location = Doomsday Krok Gauntlet
+| subloc1 = Doomsday Krok Gauntlet (Tier 5)
+| descrip =
+For the purpose of drops, Time Butterfly (Tier 5) is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+A Time Butterfly flapping its wings in Krokotopia can cause Xibalba to hit Valencia.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"You're Late, or Are You Early?"'' - If a Wizard joins the battle late, Time Butterfly (Tier 5) will use {{Link|Spell|Stun (Shadow)}} that will last two turns.
+*{{Icon|Manipulation}} Time Butterfly (Tier 5) will cast a Mass Shadow version of Empower on itself and its allies to gain 1 Power Pip and hidden-casts a Spell that switches the first turn of the battle.
+*{{Icon|Feint}} If a Feint is placed on Time Butterfly (Tier 5), then it will cast an Ice version of {{Link|Spell|Swap Ward}} to switch the Traps with the Wizard who cast it.
+**{{Link|Spell|Melt}} can be used to dispel this cheat.
+**{{Link|ItemCard|Mass Feint}} will not trigger this cheat.
+**{{Link|Spell|Indemnity}} can be used to prevent this cheat.
+
+{{Icon|Minion}} '''Minions:'''
+*Time Butterfly (Tier 5) will summon Minions cast as Shadow, starting with {{Link|Creature|Young Morganthe (Tier 5)}} on the first turn. Occasionally, there will be three Minions summoned on the first turn rather than just one, in which case all three Minions will be resummoned once.
+*If Time Butterfly (Tier 5) is defeated before or on the same turn that all of the Minions are defeated, then it will revive itself and all of the Minions by casting a Mass Sun version of Blessing that restores 100% Health.
+*If all Minions in battle are defeated before Time Butterfly (Tier 5), then Time Butterfly (Tier 5) will re-summon the defeated Minions along with the next Minion with a Shadow Spell on the following turn. The Minions are summoned in order:
+**Example: (Morganthe, Morganthe & Roberto, Morganthe, Roberto, and Broodmother)
+***{{Link|Creature|Young Morganthe (Tier 5)}}
+***{{Link|Creature|Roberto (Tier 5)}}
+***{{Link|Creature|Broodmother (Tier 5)}}
+*When all three Minions have been defeated before Time Butterfly (Tier 5), then Time Butterfly (Tier 5) will stop respawning itself and its allies.
+*If Time Butterfly (Tier 5) is defeated on any turn it summons Minions, then it will not revive itself. It is unclear if this is a bug or not.
+
+{{Icon|Death}} '''Young Morganthe:'''
+*{{Icon|Pip}} ''"Time for a New Strategy"'' - Young Morganthe (Tier 5) will cast Mana Burn on a Wizard who collects more than 7 Pips.
+*{{Icon|Ward}} ''"No More of That!"'' - If a Ward is used, she'll use Power Nova, followed by Earthquake dealing 400 Myth Damage to all enemies, and 100 Fire Damage to self.
+
+{{Icon|Fire}} '''Broodmother:'''
+*{{Icon|Steal}} ''"Give me your health, drone!"'' - Broodmother (Tier 5) will cast {{Link|TreasureCard|Cheat}} to steal 15% max Health from Time Butterfly and restore 15% of its max Health, then a {{Link|Spell|Dragonblade}} to a random ally, and {{Link|Spell|Mass Tower Shield (Shadow)}} (-55%) to all allies. ''"Need to verify which Round this trigger happens."''
+
+| spellnotes =
+*Casts an Aegis-protected Mythblade.
+*Casts an Indemnity-protected Myth Trap (+35%).
+
+'''Natural Attack:'''
+*Deals an unknown quantity of Myth Damage for 4 Pips maximum.
+**Removes 1 Pip from target.
+
+| casts =
+Adapt;
+Reliquary;
+Mass Tower Shield (Shadow);
+Grendel's Amends;
+Mythblade;
+Myth Trap (+35%);
+Cleanse Ward;
+Pierce;
+Blinding Light (85%);
+Humongofrog (310-370);
+Keeper of the Flame (80%);
+Minotaur (50+520);
+Orthrus (785);
+Medusa (865);
+Basilisk;
+
+| quests =
+Doomsday Krok;
+
+| gold =
+
+| hats =
+Sokar's Khepresh (Level 110+);
+Sokar's Khepresh (Level 130+);
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Doohickey;
+Krok Statue Flex;
+Krokotopian Obelisk;
+Mini Pyramid;
+Novice's Socket Wrench;
+
+| cards =
+
+| reagents =
+Amber Dust;
+Elemental Retriever;
+Smoke Screen Token*F2;
+Spiritual Retriever;
+
+| spellements =
+
+| snacks =
+Ancient Date;
+Black Sun Seeds;
+Cactus Fruit;
+Loco Nut;
+Medium Fish*F2;
+
+| jewels =
+
+| pins =
+
+| pets =
+Apophis' Scarab;
+
+| seeds =
+
+| mounts =
+Apophis' Krokosphinx*7*CR;
+Setesh's Krokosphinx*7*CR;
+Sokar's Krokosphinx*7*CR;
+
+| spells =
+
+}}

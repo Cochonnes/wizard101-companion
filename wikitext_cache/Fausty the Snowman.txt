@@ -1,0 +1,113 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 7,015
+| crecla = Elemental
+| school = Ice
+| startpips = 5
+| powerpips = Yes
+| critical =
+Ice;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+Life, Storm, Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Grendel Darter;
+Grendel Darter;
+Grendel Urchin;
+
+| world = Grizzleheim
+| location = Savarstaad Pass
+| subloc1 = Fausty's Cave
+| descrip =
+Defeating Fausty the Snowman is part of the Initiate Life Weaving Quest, "Faust and About". {{Link|Minion|Aren Treebow}} will appear as a Minion, and must deliver the killing blow or the Player will not advance in the quest {{Link|Quest|Faust and About}}.
+
+| speech =
+:'''Fausty the Snowman''': ''"Yes, yes, my servants, build, build the toys. Toys for Death. We will split the veil and free the spirit of Haint Nick. Build faster!"''
+:'''{{Link|NPC|Aren Treebow}}''': ''"Awww, are your conscripts moving at too glacial a pace, Fausty?"''
+:'''Fausty the Snowman''': ''"You!"''
+:'''Aren Treebow''': ''"Me. And also the Wizard. Ha-ha. We will finish what I started all those years ago. We will end your master's reign right here and now!"''
+| spellnotes =
+
+| casts =
+Fortify;
+Vengeance;
+Tower Shield;
+Freeze;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Icezilla (515-595);
+Colossus;
+Snow Angel;
+
+| quests =
+Faust and About;
+
+| gold =
+31 - 32;
+
+| hats =
+Ice Raider's Hat;
+
+| robes =
+Drape of the White Squall;
+Vestment of Serenity;
+
+| boots =
+Slippers of Diligence;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Guiding Light;
+
+| reagents =
+Iron;
+Weft Yarn @ 15 Weft Yarn;
+
+| spellements =
+
+| snacks =
+Meat Soup;
+Moon Pie;
+Tasty Biscuit*F2;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

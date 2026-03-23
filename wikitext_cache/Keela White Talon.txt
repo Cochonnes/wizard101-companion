@@ -1,0 +1,212 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 8,320
+| crecla = Owl
+| school = Life
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Night Goblin;
+
+| world = Avalon
+| location = The Wild
+| subloc1 = White Owl Tower
+| descrip =
+
+| speech =
+: ''"Whooo are you? Prepare to have your flesh torn, vermin!"''
+
+| spellnotes =
+
+| casts =
+Empowerment;
+Mend;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Nature's Wrath;
+Natural Attack (Life 150-250-445);
+Life Banshee (250);
+Seraph;
+Centaur;
+Forest Lord;
+
+| quests =
+Into the Nest;
+
+| gold =
+83 - 105;
+
+| hats =
+Brisk Helmet of Nodor;
+Champion of Order's Icy Helm*F5*WMV;
+Chaos Knight's Blazing Helm*F6*WMV;
+Fire Spirits' Toasty Helm*F2;
+
+| robes =
+Bad Storm Armor;
+Hanging Stones Armor*F6*WMV;
+Honor Bound Surcoat;
+Knight of the Wyrd Armor*F4;
+Robes of the Silent Hunter;
+Windbreaker of Nodor;
+
+| boots =
+Courageous Knight's Boots*F5;
+Friend of the Fire Elf Boots*F2;
+Hanging Stones Striders;
+Noble Knight's Boots*F4*WMV;
+Splashing Stream Waders*F2*WMV;
+
+| athames =
+Savage Hunter's Edge*F4*WMV;
+Weirwood's Thorn*F7;
+
+| amulets =
+Druid's Amulet of Courage*F4*WMV;
+Pendant of Armiger's Tenacity*F4;
+
+| rings =
+Circle of Caliburn*F2;
+Dun Dara's Triskelion;
+Ganelon's Lost Ring*F2;
+Lake Spiral Ring;
+Toasty Band of the Fire Elves*F3*WMV;
+
+| wands =
+Balanced Longbow*F3*WMV;
+
+| decks =
+Clockwork Deck;
+Greenroot Gallery*F13*WMV;
+
+| items =
+Avalon Main Theme*F2*WMV;
+Avalon Wooden Table;
+Avalon Wyrd Theme*F4*WMV;
+Noble Owl Painting;
+Square Pedestal*F2*WMV;
+Stone Skeleton Key*CR*F3;
+
+| cards =
+Brilliant Light*F6*WMV;
+Efreet;
+Fire Dragon;
+Forest Lord;
+Frost Giant*F2;
+Guidance*F10*WMV;
+Guiding Light*F10*WMV;
+Helping Hands;
+Life Prism*F6*WMV;
+Lifeblade*F12*WMV;
+Medusa;
+Power Nova*F3;
+Ra;
+Rebirth;
+Scarecrow;
+Skeletal Dragon;
+Steal Ward;
+Storm Lord*F2;
+Triage*F4*WMV;
+Unstoppable;
+
+| reagents =
+Black Lotus*F6*WMV;
+Bronze*F3;
+Cat Tail*F7;
+Cobalt;
+Deep Mushroom*F4*WMV;
+Frost Flower*F7*WMV;
+Lava Lily*F7*WMV;
+Mist Wood*F4*WMV;
+Nickel*F2;
+Ore*F6*WMV;
+Parchment*F7*WMV;
+Pearl*F7*WMV;
+Red Mandrake*F8;
+Shell*F6*WMV;
+Stone Block*F4*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F3*WMV;
+Cheese Broccoli;
+Cracker*F2;
+Deviled Eggs;
+Glowing Star Fruit*F5;
+Golden Grapes;
+Green Grapes*F2;
+Gummy Firecat*F2*WMV;
+Gummy Humongofrog*F2*WMV;
+Gummy Wyrms;
+Jelly Baby;
+King Banana;
+Kola Nuts;
+Nettle Root*F2;
+Pigeon Pie*F2;
+Sugar Donut;
+Tiny Fish*F2*WMV;
+Treant Bark;
+
+| jewels =
+Bad Snowman Sapphire;
+Clear Blocking Amethyst +10;
+Dull Mending Opal +3%;
+Dumbfound Opal;
+Heart o'Pixie Jade;
+Life Trap Jade (Triangle);
+Myth-Shot Peridot;
+Opaque Critical Peridot +7;
+Opaque Critical Sapphire +7;
+Opaque Defense Onyx +34;
+Opaque Defense Ruby +34;
+Opaque Health Opal +72;
+Pipe Down! Opal;
+Plain Blocking Opal +3;
+Shh! Opal;
+Ultra Boost Opal;
+Ultra Mute Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+Deadly Fly Trap;
+Evil Magma Peas*CR;
+Key Limes*CR;
+Pink Dandelion*CR;
+Pink Huckleberries;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

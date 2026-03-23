@@ -1,0 +1,136 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 13,650
+| crecla = Gargoyle
+| crecla2 = Golem
+| school = Storm
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+80 Any;
+
+| criticalblock =
+478 Any;
+
+| outpierce =
+18%;
+
+| outboost =
+98%;
+
+| incboost =
+30% Myth;
+
+| incresist = 
+30% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+60% Storm;
+
+| outhealing =
+22%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Demimortal Vampire (5,010);
+
+| world = Darkmoor
+| location = Graveholm
+| subloc1 = Ghost Passage
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Darkmoor
+| tome description =
+He's big in spirit.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| can expel = No
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes = 
+*{{Icon|Harmful Aura}} ''"I may be demimortal, but you are half of even that!"'' At the beginning of the first round, Goliath will cast a spell affecting all wizards that does 50% max health damage, and create a -50% outgoing damage aura, lasting 99 rounds.
+**{{Icon|Late}} Goliath will cheat cast this on any late wizard, but not recasting on any wizards present in the battle.
+*{{Icon|Aura}} ''"In my presence, you shall always be semi-demi-mortal!"'' If the Wizard attempts to replace the Aura, it will be reapplied.
+
+| spellnotes =
+
+| casts =
+Frenzy;
+Stormblade (+30%);
+Unstable Charge;
+Elemental Blade;
+Star Blade;
+Catch of the Day (Tier 2c);
+Rusalka's Wrath;
+Storm Lord (Tier 2b);
+
+| quests =
+Dworgyn and Goliath;
+Escape From Graveholm;
+
+| gold =
+24 - 48;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Large Howling Lands Tree*CR;
+Outsiders Wagon*CR;
+
+| cards =
+Celestial Calendar;
+Dr. Von's Monster;
+Spinysaur;
+Storm Owl;
+
+| reagents =
+Mithril;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

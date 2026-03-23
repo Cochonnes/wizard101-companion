@@ -1,0 +1,112 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,400
+| crecla = Wolverine
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Myth;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wysteria
+| location = Pigswick Academy
+| subloc1 = Library Archives
+| descrip =
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Storm Damage.
+
+| casts =
+Myth Shield;
+Weakness;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Storm Serpent (155-195);
+Lightning Bats;
+Storm Shark;
+Squall Wyvern;
+Kraken;
+Banshee;
+Sunbird;
+
+| quests =
+In the Stacks;
+
+| gold =
+0 - 40;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Balefrost;
+Darkwind;
+Donate Power;
+Minotaur;
+
+| reagents =
+Bone*F2;
+Brass;
+Tin;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Chipped Defense Sapphire +13;
+Chipped Mana Opal +11;
+Fire Elf Ruby;
+Leprechaun Jade;
+Rally Opal;
+Troll Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

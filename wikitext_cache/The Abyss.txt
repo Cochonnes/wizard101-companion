@@ -1,0 +1,185 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 14,595
+| crecla = Elemental
+| school = Shadow
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+250 Any;
+
+| criticalblock =
+250 Any;
+
+| outpierce =
+18%;
+
+| outboost =
+113%;
+
+| incboost =
+None;
+
+| incresist =
+Immune;
+
+| outhealing =
+
+| inchealing =
+-200%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Novus
+| location = La Ville Rose
+| subloc1 = Hall of Purposeful Abstraction
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*The strategy to defeat The Abyss requires allowing it to Beguile you, and then Healing it, as it will convert Healing into Damage.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"You are tardy!"'' - If a Wizard joins after the battle has started, The Abyss casts a protected -75% version of Mass Infection.
+*''"The Abyss fears no attack!"'' - At the start of the first Round:
+**The Abyss casts {{Link|Spell|Doom and Gloom (-75%)}}
+**The Abyss casts a Shadow version of Guardian Spirit. (Unknown Effect)
+*{{Icon|Manipulation}} ''"The Abyss has a secret for you..."'' - At the beginning of every 2nd Round, The Abyss will Beguile a Wizard for 2 Rounds:
+**Round 2: Beguiles Slot 1 {{Target|Sun}}
+**Round 4: Beguiles Slot 2 {{Target|Eye}}
+**Round 6: Beguiles Slot 3 {{Target|Star}}
+**Round 8: Beguiles Slot 4 {{Target|Moon}}
+**This cycle repeats, so Sun will be beguiled again on Round 10, Eye on Round 12, Star on Round 14, and Moon on Round 16, and so on.
+**If a slot that would be targeted on a specific Round is empty, then The Abyss will skip this cheat.
+*{{Icon|Damage}} ''"The Abyss will defend itself"'' - At the beginning of every 3rd Round, The Abyss will use a Shadow Spell that applies a -80% Healing Shield on self
+**Though this hanging effect has the appearance of a shield, {{Link|Spell|Cleanse Ward}} can be used to remove it
+*{{Icon|Global}} ''"The Abyss cannot allow you to heal!"'' - At the beginning of the 4th Round, and every 2nd Round following, The Abyss will cast {{Link|Spell|Doom and Gloom (-75%)}}.
+**{{Link|Spell|Strangle}} can be used to prevent this cheat
+*{{Icon|Heal}} ''"The Abyss cannot tolerate these Heals..."'' - If a Wizard casts a Healing Spell, The Abyss may cast one of these Spells:
+**{{Link|Spell|Dragonlance}}
+**{{Link|Spell|Power Current}}
+**{{Link|Spell|Power Stunner}}
+**{{Link|Spell|Ominous Scarecrow (Death)}}
+**Applies a -20% incoming Healing Aura for 6 Rounds that increases Healing to Damage by 20%.
+***Aura resembles Virulence in appearance.
+
+| spellnotes =
+
+| casts =
+Frenzy;
+Infection;
+Mass Infection;
+Mass Infection (Shadow);
+Justiceblade (Balance);
+Mana Burn (Shadow);
+Queen Calypso (Shadow);
+Power Stunner;
+Spectral Blast (Shadow);
+Storm Lord (Shadow);
+Chimera (Shadow);
+
+| quests =
+Waiting for Who Knows;
+The Nonsense Stares Back;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Glistening Balance Dagger;
+Glistening Death Dagger;
+Glistening Fire Dagger;
+Glistening Ice Dagger;
+Glistening Life Dagger;
+Glistening Myth Dagger;
+Glistening Storm Dagger;
+Golden Balance Dagger;
+Golden Death Dagger;
+Golden Fire Dagger;
+Golden Ice Dagger;
+Golden Life Dagger;
+Golden Myth Dagger;
+Golden Storm Dagger;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Berserk;
+Fire Cat (Tier 2b);
+Fire Elf (Tier 2b);
+Leprechaun (Tier 2b);
+Nature's Wrath (Tier 2b);
+Scorpion (Tier 2b);
+Storm Shark (Tier 2b);
+Sunbird (Tier 2b);
+Thunder Snake (Tier 2b);
+Troll (Tier 2b);
+
+| reagents =
+Pixels;
+Tin;
+
+| spellements =
+Barbarian's Saga;
+Blast Off!;
+Dark & Stormy;
+Freeze Ray;
+Gravestorm;
+Improbable Gaze;
+Shatterhorn;
+Snack Attack;
+Sound of Musicology;
+Tatzlewurm Terror;
+
+| snacks =
+
+| jewels =
+Amazing Critical Citrine +22;
+Amazing Critical Onyx +21;
+Amazing Damage Peridot +32;
+Amazing Damage Ruby +32;
+Amazing Damage Sapphire +32;
+Dazzling Critical Citrine +19;
+Dazzling Critical Citrine +20;
+Dazzling Critical Peridot +19;
+Dazzling Damage Sapphire +30;
+Polished Piercing Peridot +6%;
+Polished Piercing Ruby +6%;
+
+| pins =
+Balance Accurate Pin (100);
+Death Conversion Pin (140);
+Fire Accurate Pin (100);
+Fire Conversion Pin (150);
+Ice Conversion Pin (140);
+Life Accurate Pin (100);
+Life Conversion Pin (140);
+Myth Accurate Pin (100);
+Myth Conversion Pin (140);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

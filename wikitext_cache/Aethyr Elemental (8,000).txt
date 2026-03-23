@@ -1,0 +1,126 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 8,000
+| crecla = Elemental
+| school = Shadow
+| school2 = Ice
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+20%
+
+| outboost =
+150%;
+
+| incboost =
+5% Fire, Life;
+
+| incresist =
+25% Storm, Myth, Death, Balance;
+50% Shadow;
+70% Ice;
+
+| outhealing =
+
+| inchealing =
+50%
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Empyrea
+| location = Northeast Aero Plains
+| descrip =
+Aethyr Elemental (8,000) is the third and last form of {{Link|Creature|Aethyr Elemental}}. All drops go on that page.
+*This boss has no Astral resist.
+
+| speech =
+
+| cheatnotes =
+{{Icon|Late}} ''"You're Late"'' - Casts Lord of Winter (Shadow) on any Wizard who is late in joining the duel. Each Boss that is present will cast this cheat.
+
+{{Icon|Feint}} Casting a Feint will trigger casting of a double Cleanse Ward.
+**Indemnity can prevent the Feint from being removed.
+**{{Link|ItemCard|Mass Feint}} will trigger this cheat.
+{{Icon|Heal over Time}} Casting a Heal Over Time Spell will trigger the Boss to cast {{Link|Spell|Snow Drift}}.
+{{Icon|Damage over Time}} Casting a Damage Over Time Spell will trigger the Boss to cast {{Link|Spell|Mass Triage}}.
+
+| spellnotes =
+*Casts a protected Icy Shadowblade.
+
+| casts =
+Dark Fiend;
+Brace;
+Vengeance (6 Rounds);
+Sleet Storm (6 Rounds);
+Frenzy;
+Impede;
+Volcanic Shield (-75%);
+Mass Tower Shield (Ice);
+Icy Shadowblade;
+Natural Attack (Shadow 105-210-315, 75%);
+Winter Moon (Shadow);
+Handsome Fomori (Shadow);
+Frost Giant (Shadow);
+Shadow Colossus;
+Angry Snowpig;
+Natural Attack (Ice 105-210-315, 75%);
+Climaclysm;
+Blizzard (290-330, 80%);
+Winter Moon;
+Handsome Fomori (500-580);
+Colossus (525-605);
+Frost Giant (530);
+Snowball Barrage;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

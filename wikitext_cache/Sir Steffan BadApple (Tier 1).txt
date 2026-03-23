@@ -1,0 +1,164 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 1,025
+| crecla = Dog
+| school = Balance
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+4% Myth, Life, Death;
+
+| incresist =
+40% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Grand Tourney Arena
+| subloc1 = Grand Tourney Arena (Tier 1)
+| descrip =
+
+| speech =
+:''"Ah, the Stranger! I knew you would prove tougher than you looked, so I ensured you would fight Sir Dunc first. No matter who won, the winner would be worn down. Either way, I am fresh and eager to battle! I'll win praise from my master today!"''
+
+| cheatnotes =
+*{{Icon|Trap}} ''"Not fair! You should be hamstrung!"'' - If a Damage Ward Trap is placed on Steffan, he will cast a Weakness on the Wizard.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 110 Balance Damage for 1 Pip.
+
+| casts =
+Weakness;
+Balanceblade;
+Scarab;
+Scorpion;
+Locust Swarm;
+
+| quests =
+Hedging Bets;
+
+| gold =
+8 – 20;
+
+| hats =
+Mask of the Faerie Court (Any Level)*CR;
+Pixie's Mask of Encanta (Any Level)*CR;
+World's Fool Mask (Any Level)*CR;
+
+| robes =
+
+| boots =
+Faerie Court Boots (Any Level)*CR;
+Pixie's Enchanted Boots (Level 10+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Avalon Main Theme;
+Birdcage;
+Crystal Ball;
+Grandfather Clock;
+Lady of the Lake Bobblehead;
+Sir Pike Del Lago Bobblehead;
+
+| cards =
+Basilisk;
+Dark Sprite;
+Dryad;
+Efreet;
+Fire Dragon;
+Fire Elf;
+Frost Giant;
+
+| reagents =
+Aether;
+Aquamarine;
+Fire Blossom;
+Frost Flower;
+Grendelweed;
+Kelp;
+Lava Lily*F2*WMV;
+Mist Wood;
+Nickel;
+Pyrite*F2;
+Scrap Iron;
+Shell;
+Spring*F2;
+
+| spellements =
+
+| snacks =
+Arrow Root*F2;
+Asparagus Spears;
+Big Squash;
+Black Cap Crisps;
+Caliburnt Toast;
+Chocolate Comet;
+Cow Pie;
+Crystal Custard;
+Glowing Rock Candy;
+Grilled Cheese;
+Large Fish;
+Large Watermelon;
+Moon Pie;
+Pixie Parsnips*F2;
+Seraph Food Cake;
+Weirwood Cake*F2*WMV;
+Wormy Apple*F2;
+Wyrmy Apple;
+
+| jewels =
+Cracked Defense Amethyst +6;
+Cracked Defense Citrine +4;
+Cracked Defense Jade +4;
+Cracked Defense Onyx +4;
+Cracked Defense Ruby +4;
+Cracked Health Opal +6;
+Cracked Health Opal +9*F2;
+Cracked Health Opal +10;
+Cracked Mana Opal +5;
+Cracked Resilient Opal +1%;
+
+| pins =
+
+| pets =
+Dark Sprite;
+Seraph*CR;
+
+| seeds =
+Couch Potatoes*CR;
+Helephant Ears;
+Red Bell Pepper;
+Rye Bread Fruit Bush;
+Silver Trumpet Vine*CR;
+
+| mounts =
+
+| spells =
+
+}}

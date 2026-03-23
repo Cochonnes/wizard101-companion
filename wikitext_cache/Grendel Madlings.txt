@@ -1,0 +1,140 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 5,600
+| crecla = Grendel
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Grendel Weirdling;
+
+| world = Grizzleheim
+| location = Hall of Valor
+| descrip = This is the second side boss within the Hall of Valor, and can be found patrolling a chamber on the far side of the main hall where Jotun is encountered. He used to be named "Lokar", but was renamed for an unknown reason.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 125 Storm Damage per Pip.
+
+| casts =
+Storm Shield;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Cyclops;
+Humongofrog;
+Scorpion;
+Sunbird;
+Storm Shark;
+
+| quests =
+
+| gold =
+56 - 116;
+
+| hats =
+Cap of the Finale*F3;
+Cap of the Stratosphere;
+Igneous Cover;
+Mantle of Ingenuity;
+Mortal Veil;
+Typhoon Crown*F2;
+Veil of Protocol*F2;
+
+| robes =
+Harbinger's Smock;
+Raiment of Rainfall;
+
+| boots =
+Boots of the Warlord;
+Broghans of the Wanderer;
+Erudite Footwear*F2;
+Footgear of the Undertow;
+Iceclaw Boots;
+Incandescent Footwraps*F2*WMV;
+Treaders of Tranquility*F4*WMV;
+Treads of Tribulation;
+
+| athames =
+Mortal Steel*F2;
+
+| amulets =
+
+| rings =
+Hailstone Ring*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Drinking Jug;
+Foul Cauldron;
+Heavy Dining Table*F3*WMV;
+
+| cards =
+
+| reagents =
+Bone*F3*WMV;
+Brass;
+Iron;
+Leather Straps*F4*WMV;
+Nickel*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Glowing Rock Candy*F4*WMV;
+Golden Peanut;
+Large Fish;
+Large Watermelon*F3;
+Meat Soup;
+Moon Pie*F2;
+Tasty Biscuit;
+
+| jewels =
+Colossus Sapphire;
+Cracked Damage Sapphire +5;
+Dull Blocking Citrine +4;
+Dull Damage Onyx +13;
+Dull Defense Opal +14;
+Energy Opal;
+Helephant Ruby;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+Zombie;
+
+| seeds =
+Pink Dandelion*CR*F3*WMV;
+Rye Bread Fruit Bush;
+
+| mounts =
+
+| spells =
+
+}}

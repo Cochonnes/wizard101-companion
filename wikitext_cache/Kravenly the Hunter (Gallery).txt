@@ -1,0 +1,291 @@
+{{Stub|which version of the Enfeeble Treasure Card this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 20,375
+| crecla = Lion
+| school = Life
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Ghost Dog (Gallery);
+Hagakure Blade;
+Seijun Killer;
+
+| world = Khrysalis
+| location = Shadow Palace
+| subloc1 = The Galleries
+| descrip =
+
+| speech =
+:'''Kravenly the Hunter:''' ''"The Shadow Queen has elevated me to your level, Wizard. It is time for a rematch of the most dangerous game!"''
+:'''[[Creature:Ghost Dog (Gallery)|Ghost Dog]]:''' ''"When one has made a decision to kill a person, it will not do to think about it in a long, roundabout way. The Way of the Samoorai is one of immediacy, and it is best to dash in headlong."''
+
+| cheatnotes =
+:'''Kravenly the Hunter'''
+*{{Icon|Curse}} Kravenly will remove any negative [[:Category:Charm Spells|charms]] that are placed on him (e.g. {{Link|Spell|Weakness}} or dispels).
+*{{Icon|Round}} At the beginning of every other Round, Kravenly will cheat-cast a {{Link|Spell|Natural Attack (Kravenly)}} at a random Wizard, which deals 340 initial Life damage plus 630 Life damage over 3 Rounds.
+*{{Icon|Health}} '''Health Thresholds'''
+**''"Health at 75%"'' - Once his health reaches 75% (19,100 health remaining), he will cast an multi-target version of {{Link|Spell|Spirit Blast}}, that deals '''1,120''' Death Damage, '''1,095''' Life Damage, or '''1,190''' Myth Damage on all Wizards.
+**''"Health at 50%"'' - When his health reaches 50% (12,733 health remaining), he will cast his {{Link|Spell|Spirit Blast}}.
+**''"Health at 25%"'' - When his health reaches 25% (6,366 health remaining), he will cast his {{Link|Spell|Spirit Blast}}.
+**His Backlash can trigger this cheat.
+**Bringing his health down to 50% or 25% from one attack, will still trigger each stage of this cheat to be cast consecutively.
+*{{Icon|Shadow Pip}} When Kravenly has 2 Shadow Pips, he will use his turn to cast {{Link|Spell|Dark Fiend}}.
+**Because of changes to Shadow Creatures and updates, attempting to cast Dark Fiend will cause Kravenly to always pass due to a targeting bug.
+
+:'''Ghost Dog'''
+*{{Icon|Minion}} ''"Your body and soul are mine once again!"'' - At the end of Round 1, [[Creature:Ghost Dog (Gallery)|Ghost Dog]] will summon one {{Link|Creature|Seijun Killer}} Minion and one {{Link|Creature|Hagakure Blade}} Minion. (They become active in Round 3.)
+*{{Icon|Damage over Time}}''"Again feel the poetry of war!"'' - At the end of Round 2 (and every 5 Rounds thereafter), he will cast a Damage over Time (DoT) spell that deals 400 Death Damage per Round for 10 Rounds (575 Death damage in Shadow form).
+**{{Icon|Manipulation}} ''"The way of the Samoorai is found in death!"'' - At the end of Round 5 (and every 5 Rounds thereafter), he will cast a version of {{Link|Spell|Detonate (Death)}} that detonates 5 DoTs on all Wizards dealing 2,800 Death Damage. This includes the "''poetry of war''" DoT, but DoTs placed before this cheat DoT will remain.
+***The target of these attacks will be the "most intimidating" Wizard (most [[:Category:Blade Spells|blades]] or casted [[:Category:Trap Spells|traps]]), or the Wizard in the first position (Sun spot) by default.
+***If the Detonate (Death) cheat fizzles, he'll cast it again to hit his target, then recast it two more times (for a total of 4 casts - though nothing actually occurs the last two times). This may be intentional, for the purpose of removing any {{Link|Spell|Strangle}} dispels that are placed on him.
+***{{Link|Spell|Shift}} or {{Link|Spell|Triage}} can be used to safely remove the DoT (make sure to time it in between the Detonate (Death).
+*{{Icon|Ward}} ''"I retain my resolve!"'' - If a Wizard casts a positive [[:Category:Ward Spells|ward]] (e.g. shields), he will cast a 0-pip {{Link|Spell|Shatter}} to remove the shields.
+**Shields placed on other Wizards will not trigger this cheat.
+**{{Link|Itemcard|Mass Feint}} will trigger this cheat.
+**Multi-target spells, such as {{Link|Spell|Legion Shield}} or the {{Link|Spell|Spirit Armor}} applied by {{Link|Spell|Rebirth}}, will trigger this cheat, but only for the Wizard that cast the spell.
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Fortify;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Natural Attack (Life 158-250-345);
+Goat Monk;
+Centaur (610-670);
+Bronze Helephant;
+Gnomes!;
+Spinysaur;
+
+| quests =
+The Galleries;
+
+| gold =
+175 - 352;
+
+| hats =
+Archangel's Hood*CR;
+Burrower's Rainstorm Cap;
+Happy Pumpkin Mask*CR*HOL;
+Kermes Fire Miner's Helmet*F3*WMV;
+Kitty Pumpkin Mask*CR*HOL;
+Last Wood Defender's Cap*F6*WMV;
+Mantis Cover of Frostfall;
+Ninja Pig Hat*CR*HOL;
+Turkey Hat*CR*HOL;
+
+| robes =
+Armor of the MouseHunter*F4*WMV;
+Last Wood Defender's Cloak*F4*WMV;
+
+| boots =
+CloudDancer's Footwraps*F2;
+Gorge Excavator's Trekkers*F3*WMV;
+Mantis Boots of Patience*F2*WMV;
+Mantis Stalkers of Secrecy*F4*WMV;
+
+| athames =
+Apidae Defender's Dagger*F2*WMV;
+Gloom Dancer's Talon*F2;
+Spike of the WoodWard*F3*WMV;
+
+| amulets =
+Last Wood Defender's Jewel*F3*WMV;
+
+| rings =
+Gloom Dancer's Band*F5*WMV;
+Mantis Prophet's Ringlet*F3*WMV;
+Moon's Tear Band*F5*WMV;
+Seal of the WoodWard;
+
+| wands =
+Baton of the Spring Hare*CR*HOL;
+Black Cloud Carnage*F3*WMV;
+Boo-Hooing Pumpkin Staff*CR*HOL;
+Bowstaff of the Cherubim*CR*HOL;
+Cold Pits Stabber*F3*WMV;
+Egg Hunter's Staff*CR*HOL;
+Long-Eared Bunny Scepter*CR*HOL;
+Nutcracker Knight Baton*CR*HOL;
+Staff of Heartbeats*CR*HOL;
+
+| decks =
+Mago's Death's Head Set*F3*WMV;
+Melting Beeswax Case*F3*WMV;
+Pack of Frozen Souls*F2*WMV;
+Spiked Set*F3*WMV;
+
+| items =
+Big Holiday Tree*CR*HOL;
+Khrysalis Combat Theme;
+Khrysalis Fort Rachias Theme*F5*WMV;
+Khrysalis Last Wood Theme*F3*WMV;
+Khrysalis Moon Cliffs Theme*F3*WMV;
+Krokopatra Exalted Duel*CR;
+Rattlebones Exalted Duel*CR;
+Wizard City Dreamworld Theme*F3;
+Yuletide Reg. Keeper Aquarium*CR*HOL;
+Zeus Exalted Duel*CR*F2;
+
+| cards =
+Avenging Fossil*F4*WMV;
+Black Widow;
+Celestial Calendar*F2*WMV;
+Choke*F2*WMV;
+Crystal Spider;
+Cycle of Life;
+Doom and Gloom*F3*WMV;
+Enfeeble*F2;
+Fire Beetle;
+Galvanic Field*F2*WMV;
+Hooligan*F3*WMV;
+Legendary Treant (445)*F5*WMV;
+Locust Swarm;
+Lord of Winter*F2*WMV;
+Lucius McTavish;
+Luminous Weaver*F2;
+Mass Infection;
+O'Leary Swindler*F3;
+Pierce*F2*WMV;
+Polar Swarm*F3*WMV;
+Punishment;
+Reliquary*F2*WMV;
+Sabertooth*F4*WMV;
+Sanctuary;
+Scorpion*F2;
+Scrounger;
+Shatter*F2;
+Sleet Storm;
+Spinysaur*F3*WMV;
+Sprite Swarm (40+360)*F4;
+Virulence;
+Wildfire Treant*F5*WMV;
+
+| reagents =
+Astral Shard*F9*WMV;
+Black Lotus*F6*WMV;
+Black Pearl;
+Blood Moss*F5*WMV;
+Bone*F8*WMV;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F3*WMV;
+Draconium*F4*WMV;
+Fire Blossom*F4*WMV;
+Fossil*F3;
+Golden Pearl*F2*WMV;
+Lava Lily*F5*WMV;
+Mist Wood*F4*WMV;
+Nightshade;
+Ore*F3*WMV;
+Orichalcum*F3*WMV;
+Red Mandrake*F6*WMV;
+Stone Block*F2*WMV;
+Sunstone*F4*WMV;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Alligator Pear*F3;
+Berry Poundcake*F2*WMV;
+Boom Stroganoff*F3*WMV;
+Cold Snap Peas*F2*WMV;
+Cornbread Fruit*F3*WMV;
+Dead Beet Risotto*F2;
+Desparagus Quiche;
+Desparagus Salad*F3;
+Discord Grape Jelly;
+Evil Magma Soup*F2*WMV;
+Flaming Soup;
+Goat Cheese*F3*WMV;
+Golden Apple;
+Golden Grapes;
+Granny Snow Apple;
+Gummy Humongofrog;
+Huckleberry Muffin;
+Key Lime Pie;
+Ninja Fig Bars*F2;
+Prickly Bear Punch*F2*WMV;
+Rye Bread Fruit*F2;
+Stuffed Bell Pepper*F3*WMV;
+Sweet Baby Carrots;
+Wrath's Grape Juice;
+
+| jewels =
+Bullheaded Peridot;
+Colossal Opal*F3;
+Extraordinary Opal*F2;
+Forceful Opal;
+Freddo Sapphire;
+Healthy Opal;
+Mokompo Amethyst;
+Nerys Citrine;
+Opaque Critical Opal +4;
+Polished Critical Amethyst +11*F2;
+Polished Critical Citrine +12;
+Polished Critical Jade +11;
+Polished Critical Onyx +12;
+Polished Critical Ruby +11;
+Polished Critical Sapphire +12;
+Polished Damage Hematite +44;
+Polished Damage Peridot +22;
+Polished Defense Amethyst +42;
+Polished Health Opal +91;
+Polished Health Opal +94;
+Polished Piercing Onyx +6%;
+Shh! Opal;
+Sir Bedevere Jade;
+Sir Lamorak Ruby;
+Wipeout Opal;
+
+| pins =
+
+| pets =
+Christmas Elf*CR*HOL;
+Flying Squirrel*CR*F2;
+Snowball*CR*F4*WMV;
+
+| seeds =
+Alligator Pear Tree*F6*WMV;
+Boon Tree*CR*HOL;
+Burning Snap Dragon*F2*WMV;
+Face Palm;
+Queen Crape Myrtle*F2*WMV;
+Red Bell Pepper;
+Saw Palmetto;
+Sword Fern*CR;
+Trumpet Vine;
+White Desparagus;
+
+| mounts =
+Stormrider Hare*PERM*CR*HOL*F3;
+
+| spells =
+
+}}

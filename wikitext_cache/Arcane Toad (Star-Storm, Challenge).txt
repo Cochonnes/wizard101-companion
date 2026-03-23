@@ -1,0 +1,104 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 10,200
+| crecla = Frog
+| school = Star
+| school2 = Storm
+| shadowslots = 1
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+44%;
+
+| outboost =
+172%;
+
+| incboost =
+None;
+
+| incresist =
+9% Fire, Ice;
+29% Storm, Myth, Life, Death, Balance, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wallaru
+| location = The Dreaming
+| subloc1 = Freddie's Domain (Challenge)
+| descrip =
+Arcane Toad (Star-Storm) is considered a Minion to [[Creature:Freddie Kroaker (Challenge)|Freddie Kroaker]]. All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Brace;
+Star Shield;
+Balanceblade;
+Wild Bolt (Star);
+Wraith (Star);
+Wrath of Zeus (Star);
+Catalan (Tier 3a);
+Thermic Golem (Tier 3a);
+Leviathan;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Arcane Toad (Challenge)
+
+}}

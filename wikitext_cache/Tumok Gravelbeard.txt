@@ -1,0 +1,169 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 6,400
+| crecla = Giant
+| crecla2 = Cyclops
+| school = Myth
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Vengeful Fireheart;
+Vengeful Fireheart;
+
+| world = Dragonspyre
+| location = The Great Spyre
+| subloc1 = Dragon's Maw
+| descrip =
+Tumok is an optional Boss that may be fought in the Dragon's Maw. His drops include Grandmaster level Hats.
+*A Vengeful Fireheart Minion will always respawn here, no matter how many times it is defeated.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+He used to have a fuller beard, but then there was an incident with some sandpaper.
+
+| extract class =
+Cyclops;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*This Creature's Natural Attack is unknown.
+
+| casts =
+Storm Shield;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Humongofrog;
+Minotaur;
+Earthquake;
+Scorpion;
+Sunbird;
+Storm Shark;
+
+| quests = 
+
+| gold =
+145 - 199;
+
+| hats =
+Blazing Bonnet*F2*WMV;
+Cap of Chronicles;
+Hood of the Ranger;
+Mythological Mantle;
+Promethean Hood;
+Shroud of the Equinox;
+Triton's Topper;
+
+| robes =
+Final Curtain;
+Robe of Radiance;
+Shibboleth Smock;
+Smock of the Frost Giant;
+Snowflower Cloak;
+Storm Giant's Surcoat;
+Terminus Wrap*F2;
+Tunic of the Sphinx;
+
+| boots =
+Ashen Footwraps;
+Burning Boots;
+Sandals of Lost Aeons;
+Sandals of the Squall;
+Slippers of the Slipstream;
+
+| athames =
+Blade of the Berserker*CR;
+Dragon's Eye Dagger;
+Infinity's Edge;
+Spiderkeeper's Flamestinger;
+
+| amulets =
+
+| rings =
+Dragonscale Ring;
+Heartwood Band;
+Kraysys' Quisling Signet;
+Signet of the Chimera;
+Spiderkeeper's Blizzardband;
+
+| wands =
+
+| decks =
+
+| items =
+Long Corner Wall Ruins;
+
+| cards =
+
+| reagents =
+Bone*F4*WMV;
+Brass;
+Bronze Gear;
+Nickel;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F3*WMV;
+Goat Cheese*F2*WMV;
+Golden Grapes*F2;
+Gummy Humongofrog;
+King Banana;
+
+| jewels =
+Dull Accurate Opal +3%;
+Hydra Citrine*F2*WMV;
+Wraith Onyx;
+
+| pins =
+
+| pets =
+Earth Walker*CR;
+Red Gobbler*CR;
+Skeletal Warrior;
+
+| seeds =
+Deadly Fly Trap;
+Fiery Boom Shroom*F2*WMV;
+King Parsley*CR;
+Maelstrom Snap Dragon*F2;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,159 @@
+{{Stub|Spells and drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 1,400
+| crecla = Beastmoon Creature
+| school = Storm
+| startpips = 3
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost = 
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions = 
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Celestia Battlegrounds
+| descrip =
+Marduk ThunderHeart is one of the Boss monsters that can be encountered during the second Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events.  They will have 1 random, Rank 2 Elite, Stage 2 monster and 1 random, Rank 1, Stage 2 monster present to assist them.
+
+'''Potential Rank 2 Elite Minions:'''
+*{{Link|Creature|Fried Crab}}
+*{{Link|Creature|Glacier Spriggan}}
+*{{Link|Creature|Electrical Storm Lagoony}}
+*{{Link|Creature|Responsi-Bot}}
+
+'''Potential Rank 1 Minions:'''
+*{{Link|Creature|Chilly Fishman}}
+*{{Link|Creature|Harmony Eel}}
+*{{Link|Creature|Seared Flyingfish}}
+*{{Link|Creature|Squall Squid}}
+
+| speech =
+
+| spellnotes =
+*Casts a +150/+150 version of Twin Blades.
+*Casts a 125 Damage version of Sheet Lightning.
+
+| casts =
+Twin Blades;
+Jolting Bolt;
+Thresher;
+Sheet Lightning;
+Bloodletter;
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 10 - 14 Lunari.
+
+| quests =
+
+| gold =
+51 - 64;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone*F4*WMV;
+Balance Rune;
+Balance Thread*F4*WMV;
+Colossus Idol (Fire);
+Colossus Idol (Ice);
+Draconian Idol (Fire);
+Eldritch Thread*F8*WMV;
+Eldritch Thread @ 2 Eldritch Thread*F4;
+Elemental Moonstone*F6*WMV;
+Elemental Thread*F7;
+Elf Idol (Balance);
+Enhanced Ice Rune;
+Fairy Idol (Storm);
+Fire Moonstone;
+Fire Rune;
+Fire Thread*F2*WMV;
+Hunter's Moonstone*F7*WMV;
+Hunter's Moonstone @ Hunter's Moonstone 2*F3;
+Ice Moonstone*F3*WMV;
+Ice Rune*F2*WMV;
+Krokomummy Idol (Ice);
+Minotaur Idol ();
+Minotaur Idol (Storm);
+Ninja Pig Idol (Balance);
+Rat Thief Idol (Storm);
+Storm Moonstone;
+Storm Rune*F3*WMV;
+Storm Thread;
+Wolf Warrior Idol (Balance);
+Wolf Warrior Idol (Storm);
+
+| spellements =
+Blizzard*F2;
+Elemental Golem*F2;
+Frostbite*F3;
+Glacial Golem*F3;
+Heck Hound*F2;
+Inferno Salamander;
+Iron Curse;
+Meteor Strike*F2;
+Naphtha Scarab*F6;
+Obsidian Colossus*F2;
+Sandstorm;
+Stormwing*F2;
+Thermic Golem*F2*WMV;
+Thieving Dragon;
+Thunderman*F2;
+Vermin Virtuoso;
+Volcanic Golem*F3;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+|recipes = 
+
+Dragon Thief Spellements @ Dragon Thief Spellements 7;
+Naptha Scarab Spellements @ Naptha Scarab Spellements 7;
+}}

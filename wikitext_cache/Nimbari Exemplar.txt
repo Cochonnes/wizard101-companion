@@ -1,0 +1,256 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 9,180
+| crecla = Nimbari
+| school = Death
+| school2 = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+173 Any;
+
+| criticalblock =
+198 Any;
+
+| outpierce =
+22%;
+
+| outboost =
+100%;
+
+| incboost =
+5% Myth, Life;
+
+| incresist =
+70% Storm, Death;
+
+| outhealing =
+
+| inchealing =
+45%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Nimbari Justicar (3,455);
+
+| world = Empyrea
+| location = Nimbus Citadel
+| subloc1 = Military Training Grounds
+| descrip =
+
+| speech =
+:''"I've trained against Minotaurs and monsters and Meowls, little Wizard, the worst that the savage Plains below can throw at us. And whatever you are, you are no Meowl."''
+
+| cheatnotes =
+*{{Icon|Late}} ''"You can't outsmart me!"'' - If a Wizard joins the duel late, then the Nimbari Exemplar will interrupt-cast a Shadow version of [[Spell:Bad Juju (Shadow)|Bad Juju]] on the late Wizard.
+
+| spellnotes =
+*Casts an Aegis-protected Deathblade, Stormblade, and Bladestorm
+*Casts a protected Weakness and Feint (All Enemies)
+'''Natural Attack:'''
+*Deals 500 Storm Damage for 4 Pips max
+
+| casts =
+Dark Shepherd;
+Galvanic Field;
+Virulence;
+Weakness;
+Deathblade;
+Stormblade;
+Bladestorm;
+Feint (All Enemies);
+Natural Attack (Death 105-210-315, 80%);
+Deer Knight;
+Headless Horseman;
+Scarecrow;
+Wild Bolt;
+Natural Attack (Storm 125-250-375, 65%);
+Catalan;
+Shadow Sultan;
+Gloambugs!;
+
+| quests =
+Sparck Seconds that Emotion;
+A Light Fight;
+
+| gold =
+80 - 127;
+
+| hats =
+Choice Kalamar Lid;
+
+| robes =
+
+| boots =
+Choice Kalamar Kicks;
+
+| athames =
+
+| amulets =
+
+| rings =
+Blazing Zanadu Band;
+Crackling Zanadu Band;
+Grim Zanadu Band;
+Illuminated Zanadu Band*F2;
+Verdant Zanadu Band;
+
+| wands =
+Hopeful Zanadu Lance;
+Mondo Kalakrys;
+Verdant Zanadu Lance;
+
+| decks =
+
+| items =
+Aero Dwarf Blue Vase;
+Aero Dwarf Chair;
+Aero Dwarf Potted Plant;
+Empyrea Husk Combat;
+Empyrea Husk Theme*F2;
+Kalamar Chair;
+Ornate Nimbari Vase;
+Wide Kalamar Vase;
+
+| cards =
+Cyclops;
+Death Prism;
+Elemental Spear;
+Fire Prism;
+Humongofrog;
+Icespear;
+Kraken;
+Lifespear;
+Lord of the Squall;
+Mass Fire Prism;
+Mass Myth Prism;
+Mass Storm Prism;
+Mega Soothe;
+Mega Subdue*F2*WMV;
+Mutate Cat (Storm);
+Mutate Colossus (Fire);
+Mutate Colossus (Storm);
+Mutate Kraken (Fire);
+Mutate Snowman (Fire);
+Oni No Plague;
+Storm Prism;
+
+| reagents =
+Aether;
+Agave Leaves;
+Amber Dust;
+Ancient Scroll;
+Antique Coins*F2;
+Aquamarine*F3*WMV;
+Astral Shard*F2;
+Blood Moss*F2*WMV;
+Bronze Gear*F2;
+Cobalt*F3*WMV;
+Draconium*F2*WMV;
+Ectoplasm;
+Flying Squid Ink*F4*WMV;
+Golden Pearl*F2;
+Merle's Whisker;
+Mithril*F3*WMV;
+Scales*F4*WMV;
+Silver*F3;
+Spider Silk*F3*WMV;
+Spring*F2;
+Stardust;
+Steel*F3*WMV;
+Sunstone*F2;
+Titanium*F2;
+Tungsten*F3;
+Turmeric;
+Turquoise*F2;
+Vine;
+
+| spellements =
+
+| snacks =
+Berry Poundcake*F3*WMV;
+Dastardly Radish*F4*WMV;
+Discord Grape Jelly;
+Fern Jelly;
+Gator Tots;
+Hot Cross Buns;
+Killer Tomato*F2;
+Meat Soup;
+Minotarts*F2;
+Oyster Shooter;
+Pizza*F2*WMV;
+Pyramints;
+Radioactive Pizza;
+Rock and Roll Candy;
+Salmon Joy;
+Satyr Chow;
+Spicy Drumstick;
+Super Cold Popsicle;
+Wheat Cracker;
+
+| jewels =
+Lustrous PIP Opal +10%;
+Ninja Piglets Citrine;
+Renew Opal;
+Shiny Accurate Onyx +12%;
+Shiny Accurate Ruby +12%;
+Shiny Critical Citrine +15;
+Shiny Critical Jade +15;
+Shiny Critical Peridot +15;
+Shiny Critical Ruby +15;
+Shiny Damage Peridot +25;
+Shiny Damage Ruby +25;
+Shiny Defense Sapphire +50;
+Shiny Health Opal +107*F2;
+Shiny Mana Opal +46;
+Sparkling Accurate Jade +13%;
+Sparkling Accurate Onyx +13%;
+Sparkling Critical Amethyst +18;
+Sparkling Critical Citrine +17;
+Sparkling Critical Peridot +18;
+Sparkling Critical Ruby +18;
+Sparkling Damage Ruby +28;
+Sparkling Defense Peridot +56;
+Sparkling Health Opal +118;
+Sparkling Health Opal +123;
+Sparkling Health Opal +124*F2*WMV;
+Sparkling Mana Opal +49;
+Sparkling Mana Opal +50;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears*F2;
+Blue Huckleberries*F3*WMV;
+Boon Tree*CR;
+Cornbread Fruit Bush;
+Couch Potatoes*CR*F2;
+Dandelion*F2;
+Deadly Fly Trap;
+Fish on a Vine;
+Helephant Ears*F2*WMV;
+Golden Couch Potatoes;
+King Parsley*CR;
+Maltese Tiger Lily;
+Pink Huckleberries;
+Red Bell Pepper;
+Red Huckleberries;
+Saw Palmetto;
+Silver Trumpet Vine*CR;
+Snow Apples;
+Sword Fern*CR;
+Ultra Boom Shroom;
+White Tiger Lily*F2*WMV;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

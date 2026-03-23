@@ -1,0 +1,124 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 999
+| heal = 125,000
+| crecla = Krokotopian
+| school = Death
+| masteries =
+Balance;
+
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+28%;
+
+| outboost =
+120%;
+
+| incboost =
+30% Life;
+
+| incresist =
+32% Fire, Ice, Storm, Myth, Balance, Shadow;
+62% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Tomb of the Forgotten (Krokotopia)
+| subloc1 = Krokosphinx Chamber
+| badge = Can't Remember Where I Got This Badge
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Brace (6 Rounds);
+Virulence (6 Rounds, +66%);
+Spirit Shield;
+Tower Shield (Star);
+Virulent Plague;
+Mass Weakness;
+Deathblade (+66%);
+Dark Tribute;
+Sharp Graveblade;
+Balanceblade (+35%);
+Spirit Blade;
+Mass Death Trap (+66%);
+Hex (+66%);
+Crimson Phantom (Tier 5);
+Colossafrog;
+Vampire (Tier 5b);
+Winged Sorrow;
+Wraith (Tier 5a);
+Monster Mash (Tier 5b);
+Scarecrow (Tier 5b);
+Anubis (Tier 3b);
+Scarecrow (Tier 5a);
+Dr. Von's Monster (Tier 5a);
+Avenging Fossil (Tier 5a);
+
+| quests =
+
+| gold =
+11 - 35;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Selenopolis Forgotten Theme;
+
+| cards =
+
+| reagents =
+Amber Dust;
+Titanium;
+Toffee Bean;
+
+| spellements =
+
+| snacks =
+Zen Poppers*F2*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+Bling Cobra*PERM;
+
+| spells =
+
+}}

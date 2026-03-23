@@ -1,0 +1,148 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 4,800
+| crecla = Dog
+| school = Life
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+35%;
+
+| incboost =
+30% Death;
+
+| incresist =
+9% Fire, Ice, Storm, Myth, Balance, Shadow;
+39% Life;
+
+| outhealing =
+10%;
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| randomminions =
+Flames of Doom (Tier 1);
+History of Horrors (Tier 1);
+Malefic Mythology (Tier 1);
+Savage Stories (Tier 1);
+Terrors of the Deep (Tier 1);
+The Woeful Wastes (Tier 1);
+
+| totalminions = 1
+
+| world = Housing Instance
+| location = Forbidden Library Gauntlet
+| subloc1 = Forbidden Library Gauntlet (Tier 1)
+| descrip =
+
+| speech =
+:'''Imogen Nightgrove:''' ''"The Order of Archival Mysteries thought they could keep this place hidden.  The fools secret away any text that frightens them!"
+:'''{{Link|NPC|Aegeus}}:''' ''"Blundering inkblots!  That's no the Bibliomancer, it's his Research Assistant!  But I wouldn't underestimate her.  You should see the damage she caused in the Corrosive Compendiums Section before you arrived!  It'll take us a year to reshelve everything."
+:'''Imogen Nightgrove:''' ''"You'll never have the chance!  Soon, Bodleian Harrow, The Great Bibliomancer, will be unstoppable!  The Unreadable Book will be his!  Only Bodleian could hope to decipher its unknown language.  He will succeed where so many others have failed!  The Order tried to conceal this tome without even knowing what it contained!  But Academia always leaves a paper trail... Bodleian and I combed through chronicles, followed endless footnotes, traced every reference through salvaged scraps of obscure histories.  Now the greatest discovery in all of Academia is at hand!  The Unreadable Book will be read!"''
+
+| cheatnotes =
+*{{Icon|Manipulation}} ''"Time for some research!"'' - At the beginning of the first Round and every three Rounds after, Imogen Nightgrove will cheat-cast {{Link|ItemCard|Arcane Deduction}} on a random Wizard, then cheat-cast a -20% {{Link|Spell|Brace}} Aura of the Wizard's School for 4 Rounds on herself.
+
+| spellnotes =
+
+| casts =
+Spirit Shield;
+Satyr;
+Lifeblade (+40%);
+Life Trap;
+Spirit Trap;
+Luminous Weaver (Tier 4b);
+Nature's Wrath (Tier 3b);
+Legend Golem;
+Leafstorm;
+Spirited Minotaur (Life);
+Earth Walker;
+
+| quests =
+A Little Learning is a Dangerous Thing;
+
+| gold =
+36 - 120;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Illuminated Archival Dirk (Level 50+);
+
+| amulets =
+Fraught Archival Ampul (Level 50+);
+
+| rings =
+Epic Archival Band (Level 50+);
+
+| wands =
+
+| decks =
+Baleful Archival Array (Level 50+);
+Epic Archival Array (Level 50+);
+
+| items =
+Books;
+Carved Bookshelf;
+Contemplative Aquilan Oracle*TEST;
+Grand Statue of Zeus;
+Lectern;
+Olympian Herb;
+
+| cards =
+
+| reagents =
+Potboiler Token;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Balance-Dealer Citrine;
+Balanceblade Talent Citrine;
+Big Energy Opal;
+Blade Flurry Amethyst;
+Bullheaded Peridot;
+Death-Dealer Onyx;
+Energy Opal;
+Fire-Dealer Ruby;
+Get Sunbird Ruby;
+Greensleeves Jade;
+Huge Energy Opal @ 3 Huge Energy Opals*TEST;
+Ice-Dealer Sapphire;
+Myth-Dealer Peridot;
+Spartan Jade*F2*WMV;
+Storm-Dealer Amethyst;
+The Deer Knight Rises Onyx;
+Ultra Energy Opal;
+Ultra Energy Opal @ 3 Ultra Energy Opals*TEST*F3*WMV;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,156 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 3,200
+| crecla = Raven
+| school = Death
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Winterwing Warden;
+
+| world = Grizzleheim
+| location = Ravenscar
+| subloc1 = Munin's House
+| descrip =
+Munin Mistweaver is a member of {{Link|Creature|The Coven}}. This is the second encounter with him. Two additional Winterwing Warden Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Did King Valgard send you? He was a fool to send you here... to your doom!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Death Damage per Pip.
+
+| casts =
+Weakness;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Vampire;
+Skeletal Pirate;
+Scarecrow;
+Fire Elf (50+210);
+Lightning Bats;
+Ice Wyvern;
+
+| quests =
+The Unusual Suspects;
+
+| gold =
+52 - 111;
+
+| hats =
+Cap of Cessation;
+Frost-Peaked Cap;
+Hood of the Flurry*F5;
+Insulated Helm;
+Mantle of Zest;
+Veil of Fulmination*F2;
+Veil of the Apologue;
+Vigorous Hood;
+
+| robes =
+Drape of the Deep Blue Sea;
+Lifeweave Robe;
+Robe of the Raging Fire;
+Winterweave Coat;
+
+| boots =
+Long Walkers*F2*WMV;
+Mocassins of the Green;
+Radiant Striders;
+Sandals of Retribution*F5*WMV;
+Sandals of the Shibboleth;
+Striders of Majesty*F5*WMV;
+
+| athames =
+Ember Blade*F3*WMV;
+Glyph-Etched Knife*F6*WMV;
+
+| amulets =
+
+| rings =
+Shadowstorm Jewel*F4*WMV;
+Signet of Fatality;
+
+| wands =
+
+| decks =
+
+| items =
+Jar of Bat Wings*F3*WMV;
+
+| cards =
+Hydra;
+Ice Wyvern;
+Satyr;
+Scarecrow;
+Skeletal Pirate;
+Stormzilla;
+Tough;
+
+| reagents =
+Ectoplasm*F2;
+Lead*F2;
+Leather Straps*F4*WMV;
+Nickel*F2;
+
+| spellements =
+
+| snacks =
+Fire Cracker;
+Glowing Rock Candy*F3*WMV;
+Golden Apple*F3*WMV;
+Golden Peanut;
+Golden Squash;
+Large Fish*F2;
+Large Watermelon*F2; 
+Moon Pie*F3*WMV;
+Square Root;
+
+| jewels =
+Balefrost Sapphire;
+Centaur Jade;
+Cracked Damage Onyx +5;
+Dull Defense Jade +25*F2;
+Dull Defense Onyx +25;
+Dull Health Opal +50;
+Eat My Dirt Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Couch Potatoes*CR*F2;
+Evil Snow Peas;
+Orange Dandelion;
+Pink Laugh-O-Dil*F3;
+
+| mounts =
+
+| spells =
+
+}}

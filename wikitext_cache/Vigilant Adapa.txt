@@ -1,0 +1,207 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 8,400
+| crecla = Luphilim
+| school = Sun
+| masteries =
+Fire;
+Myth;
+Life;
+
+| cheats = Yes
+| shadowslots = 1
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+3%;
+
+| outboost =
+65%;
+
+| incboost =
+15% Ice, Storm, Death;
+
+| incresist =
+30% Fire, Myth, Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Mirage
+| location = Zruvan Grotto
+| subloc1 = Timeless Tower
+| descrip =
+Vigilant Adapa is a Luphilim and "Protector of the Timeless Tower."
+
+| speech =
+:'''Vigilant Adapa:''' ''"Jehoha'qatan, Wanderers. I do not know what purpose brings you to the Timeless Tower, but by order of Grandmother Raven, entry is restricted."''
+:'''{{Link|NPC|Tyrehl}}:''' ''"It's nice to be greeted in such a civil fashion. We simply wish an audience with the Chronocle, if you can point us in the right direction..."''
+:'''Vigilant Adapa:''' ''"By the Spirals Light! Am I to be tested so soon? My fellow Luphilim have not arrived to establish the trials. I will do my duty, however. You will not gain entry to the Chronocle's Chamber! I will protect the portal with my life, if I must!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Dishonorable late entry!"'' - If a Wizard joins the duel after it has already begun, Vigilant Adapa will cast {{Link|Spell|Luminous Weaver}} on the Wizard.
+*{{Icon|Global}} ''"The Light subverts Shadow!"'' - At the beginning of Round 1, he will cast {{Link|Spell|Power Play (Sun)}} for -100% Shadow Pip chance.
+**''"The Light persists!"'' - If a Wizard casts a Global Spell, Adapa will recast the Power Play.
+*{{Icon|Friend}}{{Icon|Shadow Pip}} ''"I take your Shadow!"'' - If a Wizard gains a Shadow Pip, he will cast {{Link|Spell|Constrain}} on the Wizard, removing the Shadow Pip.
+*{{Icon|Shadow Pip}} ''"And turn it to Light!"'' - If Adapa has a Shadow Pip at the end of a Round, he will cast a Sun version of {{Link|Spell|Dark Empower}}, converting it to a Power Pip and a regular Pip.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 120 Sun Damage per Pip, despite the Spell card's 3-Pip maximum description.
+
+| casts =
+Brace;
+Magnify;
+Renew;
+Regenerate;
+Sun Blade (+45%);
+Sun Trap (+35%);
+Blinding Light (85%);
+Natural Attack (Sun 120-240-360);
+Athena Battle Sight;
+Noble Humongofrog;
+Meteor Strike (355-395);
+Fire Dragon (495+395);
+Enraged Forest Lord;
+
+| quests =
+Zruvan Grotto;
+
+| gold =
+127 - 250;
+
+| hats =
+Aridian Helm of Dunestorms;
+Helm of the Aridian Sun;
+
+| robes =
+Aridian Armor of Dunestorms;
+Aridian Armor of Numbing;
+Wayfarer's Scirocco Khalat;
+
+| boots =
+Wayfarer's Scirocco Galesh;
+
+| athames =
+Rubal Janbiya of Carnage;
+
+| amulets =
+Rubal Locket of Action;
+Rubal Locket of Formation;
+Rubal Locket of Frostbite;
+Rubal Thunder Necklace;
+
+| rings =
+Rubal Seal of Bitterness;
+Seal of Rubal Thunder;
+
+| wands =
+Conscript Tabar of Zeal;
+Electrified Restrictor Wand;
+Restrictor Wand of Vitality;
+Restrictor Wand of Wisdom;
+
+| decks =
+Viper Cards of Reflection;
+
+| items =
+Mirage Canyon Theme 1*F2;
+Mirage Canyon Theme 2;
+Mirage City Tense Theme;
+Mirage City Theme 2;
+Mirage Spider Speaks Theme;
+
+| cards =
+Astraphobia*F2*WMV;
+Mutate Bats (Ice);
+Mutate Bird (Ice);
+Mutate Minotaur (Sun);
+Mutate Serpent (Storm);
+Mutate Snake (Ice);
+Mutate Wyvern (Storm);
+Namaste;
+
+| reagents =
+Turmeric*F4*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F2*WMV;
+Beetle Cream Soda*F2;
+Chalupacabra;
+Fern Jelly;
+Fire Passion Fruit;
+Hard Boiled Beetle Eggs;
+Hot Cross Buns;
+Rhubarbed Wire;
+Satyr Chow;
+Veggie Juice;
+
+| jewels =
+Shiny Blocking Jade +16;
+Shiny Critical Hematite +16;
+Shiny Damage Amethyst +26;
+Shiny Damage Peridot +26;
+Shiny Damage Ruby +26;
+Shiny Defense Citrine +52;
+Shiny Defense Jade +52;
+Shiny Defense Onyx +52;
+Shiny Defense Peridot +51;
+Shiny Health Opal +112;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+Shiny PIP Hematite +2;
+
+| pins =
+
+| pets =
+MaCaw*CR;
+
+| seeds =
+Angora Bunny Ears;
+Baby Carrots*F2*WMV;
+Bell Pepper;
+Boon Tree*CR;
+Cornbread Fruit Bush;
+Couch Potatoes*CR*F2;
+Dandelion;
+Deadly Helephant Ears*CR*F2;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Fortune Cookie Tree;
+Goose Tree;
+Honey Sickle;
+Ivy League*CR;
+Key Limes*CR;
+Maelstrom Snap Dragon;
+Melting Cheese Tree*F2*WMV;
+Ninja Fig*CR;
+Orange Bell Pepper*CR;
+Pink Laugh-O-Dil;
+Red Couch Potatoes;
+Red Huckleberries*F2*WMV;
+Snap Dragon;
+Snow Apples;
+Sugar Khrystal*CR;
+Trumpet Vine;
+Venus Fly Trap;
+White Laugh-O-Dil;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

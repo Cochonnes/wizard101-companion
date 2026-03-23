@@ -1,0 +1,115 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 15,270
+| crecla = Werewolf
+| school = Fire
+| school2 = Moon
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+976 Any;
+
+| criticalblock =
+823 Any;
+
+| outpierce =
+52%;
+
+| outboost =
+196%;
+
+| incboost =
+None;
+
+| incresist =
+25% Storm, Life;
+45% Fire, Death, Balance, Sun, Moon, Star, Shadow;
+65% Ice, Myth;
+
+| outhealing =
+6%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Mysterious Werewolf (Werewolf Tracker, Challenge);
+Bauk Scavenger (Challenge);
+
+| world = Darkmoor
+| location = Howling Lands
+| subloc1 = Overgrown Estate (Challenge)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Afterlife}} ''"*growl* I'll get you yet."'' - When Mysterious Werewolf is defeated, he will revive himself for 100% of his max health and will exit combat at the end of the turn.
+
+'''Cheat Cycle'''
+
+This cheat cycle repeats every 4 rounds as long as the Mysterious Werewolf is still alive.
+*{{Icon|Blade}} ''"Sharpen your claws!"'' - At the beginning of the first round in this cycle, Mysterious Werewolf will cast a special version of {{Link|Spell|Bladestorm}} that applies two +30% damage charms to all allies.
+*{{Icon|Trap}} ''"We hunt as a pack!"'' - At the beginning of the second round in this cycle, Mysterious Werewolf will cast a Death spell that applies three +35% universal traps on a wizard.
+
+| spellnotes =
+
+| casts =
+Furnace;
+Fireblade;
+Fire Trap;
+Wyldfire;
+Heck Hound (Tier 2b);
+Glacial Golem (Tier 2b);
+Ammut (Tier 2b);
+Fire Dragon (Tier 2b);
+Shift White Fur;
+Shift Fire Dwarf;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Werewolf Tracker (Standard)
+}}

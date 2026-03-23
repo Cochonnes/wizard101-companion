@@ -1,0 +1,100 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 14,575
+| crecla = Demon
+| school = Fire
+| school2 = Life
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+49%;
+
+| incboost =
+Ice;
+
+| incresist =
+Fire;
+
+| outhealing =
+8%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Jade Oni Rematch
+| descrip =
+War Oni (Standard) is considered a Minion to {{Link|Creature|Jade Oni (Standard)}}.  All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Pigsie (Tier 4b);
+Fireblade;
+Lifeblade (+40%);
+Mass Fire Trap;
+Link;
+Phoenix (Tier 4b);
+Fire Dragon;
+Leprechaun (Tier 4b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = War Oni (Rematch)
+
+}}

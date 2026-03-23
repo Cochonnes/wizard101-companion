@@ -1,0 +1,271 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 6,335
+| crecla = Goliath
+| crecla2 = Insect
+| school = Ice
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Goliath Bruiser;
+Goliath Bruiser;
+Goliath Bruiser;
+
+| world = Zafaria
+| location = Mirror Lake
+| subloc1 = 
+| descrip =
+Four Goliath Bruisers are summoned by {{Link|NPC|Morganthe}} at the bottom of Mirror Lake.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Zafaria
+| tome description =
+Ironically, they bruise easily.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals ~90 Ice Damage per Pip.
+*Deals 270 Ice Damage for 3 Pips.
+
+| casts =
+Fortify;
+Vengeance;
+Tower Shield;
+Iceblade;
+Ice Trap;
+Freeze;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Frostbite;
+Icezilla (650-730);
+Colossus;
+Frost Giant;
+Snow Angel;
+
+| quests =
+Wizard in the Mirror;
+
+| gold =
+127 - 223;
+
+| hats =
+Bushfire Hat;
+Cold At Night Cover;
+Cold Chieftain's Mask*F2;
+Courageous Grower's Hat;
+Elephant Graveyard Shroud;
+Hood of Chieftain's Honor;
+Hood of the Forgotten;
+Hot-Tempered Chieftain's Mask*F2;
+Mantle of the Grasslands;
+Mask of Mirror Lake;
+Mask of the Great Patapon;
+River Captain's Hood;
+Wise Hunter's Helmet*F2;
+
+| robes =
+Baxby's Noble Outfit*F2;
+Cloak of Conformity;
+Cloak of Dreaming Medicine;
+Darajani Havoc Robes;
+Fire Valley Outfit;
+Graveyard Shift;
+Jacket of No Worries;
+Robes of the Cold Night;
+Shaman's Mythic Armor;
+Shaman's Winter Protection*F2;
+Storm Caller's Outfit;
+Tunic of Darajani Honor*F2*WMV;
+
+| boots =
+Ananse's Dark Rangers;
+Baxby's Noble Trackers*F2*WMV;
+Big Sky Striders;
+Dancing Queen Dancers;
+Doctor's Firestorm Walkers;
+Fire Lion's Storm Wraps;
+Hot and Cold Crushers;
+Hunter Prey Rangers;
+Nemean Rock Climbers;
+Stone Town Storm Trackers;
+
+| athames =
+Zebra's Hoof;
+
+| amulets =
+Storied Amber Shield Pendant;
+
+| rings =
+Amahle's Striped Band;
+Aryanah's Golden Loop;
+Elissa's Chill Band;
+Koko's Smoky Circle*F2*WMV;
+Mandisa's Star Stone*F2*WMV;
+Mansa's Dream Stone;
+Nergal's Burning Brand;
+Shaka's Lightning Loop;
+Tanei's Ghost Ring*F2;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Empower;
+Frozen Armor*F9*WMV;
+Gargantuan;
+Infallible*F2;
+Insane Bolt;
+Legion Shield*F11*WMV;
+Polymorph Colossus*F2;
+Polymorph Elemental (Storm);
+Polymorph Treant*F2*WMV;
+Stun Block;
+Supercharge;
+Unstoppable;
+
+| reagents =
+Bronze*F2*WMV;
+Cobalt;
+Ectoplasm;
+Nickel;
+Spider Silk*F5*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2*WMV;
+Delicious Cookie*F3;
+Flaming Soup*F2*WMV;
+Flapjacks;
+Glowing Star Fruit*F5;
+Glowing Taffy*F2;
+Goat Cheese;
+Golden Apple*F2*WMV;
+Golden Grapes*F2;
+Gummy Humongofrog*F3*WMV;
+Jelly Baby*F2;
+King Banana*F3*WMV;
+Kola Nuts*F2*WMV;
+Spicy Drumstick;
+Strawberry Cupcake*F4;
+Submarine Sandwich*F2*WMV;
+
+| jewels =
+Accurate Talent Opal;
+Add Health Opal;
+Adroit Opal;
+Bananas! Opal;
+Big Hurry Opal;
+Blade of Ice Sapphire;
+Boss Toad Peridot;
+Clock Spider Citrine;
+Conviction Talent Opal;
+Death-Away Onyx;
+Death-Eye Onyx;
+Disarmament Amethyst;
+Energy Opal;
+Fire Dragon Ruby;
+Fire-Away Ruby;
+Fire-Giver Ruby;
+Frost Giant Sapphire;
+Gargantuan Talent Opal;
+Ice-Proof Sapphire;
+Immunity Opal;
+Infector Onyx;
+Mega Hurry Opal;
+Mend Minion Talent Peridot;
+Mend Talent Opal;
+Myth-Giver Peridot;
+Opaque Accurate Onyx +8%;
+Opaque Critical Amethyst +8;
+Opaque Critical Citrine +8;
+Opaque Critical Onyx +7;
+Opaque Critical Opal +4;
+Opaque Critical Peridot +7;
+Opaque Critical Sapphire +8;
+Opaque Defense Citrine +33;
+Opaque Defense Jade +33;
+Opaque Defense Onyx +33;
+Opaque Defense Opal +17;
+Opaque Defense Ruby +33;
+Opaque Defense Sapphire +33;
+Opaque Piercing Jade +4%;
+Orthrus Peridot;
+Piercemonger Peridot;
+Pipe Down! Opal;
+Plain Damage Onyx +16;
+Plain Damage Peridot +16;
+Plain Defense Amethyst +32;
+Plain Defense Onyx +32;
+Power Nova Citrine;
+Rebirth Jade;
+Slick-N-Slide Opal;
+Stop Leader Opal;
+Storm Lord Amethyst;
+Stupefy Opal;
+The Deer Knight Rises Onyx;
+Tower Shield Sapphire;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Burning Snap Dragon*F2*WMV;
+Deadly Fly Trap*F2;
+Evil Snow Peas;
+Fickle Pickle;
+Helephant Ears;
+Orange Bell Pepper*CR;
+Trumpet Vine*F2;
+White Desparagus;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,180 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 5,070
+| crecla = Lion
+| school = Fire
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Thornpaw Lioness;
+
+| world = Zafaria
+| location = Savannah
+| subloc1 = Blackmane's Cave
+| descrip =
+This Boss is not repeatable.
+
+| speech =
+:''"I smell the stink of wizardry! This meddlesome sorcerer will meet his end at the point of my spear!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Fireblade;
+Fire Trap;
+Fire Shark;
+Meteor Strike;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Efreet;
+
+| quests =
+Mane of Terror;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Celestia Badges|Astrologist]]''' {{Icon|Astrologist}} Badge and has not unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge, the following drops will be available:
+*5 Spellements will drop each time for their respective rank 4-8 Spells.
+
+| gold =
+39 - 58;
+
+| hats =
+Elephant Graveyard Shroud;
+
+| robes =
+Baxby's Noble Outfit;
+Darajani Havoc Robes;
+Fire Valley Outfit;
+Shaman's Mythic Armor;
+Tunic of Long Memory;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+Amahle's Striped Band;
+Aryanah's Golden Loop*F2;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Availing Hands*F2*WMV;
+Elemental Defuse*F2*WMV;
+Fuel*F5*WMV;
+Leviathan;
+Polymorph Colossus;
+Polymorph Elemental (Storm)*F2;
+Polymorph Treant;
+Power Link*F4*WMV;
+Rebirth;
+Snow Angel;
+Spirit Defuse*F4*WMV;
+Strong*F2*WMV;
+
+| reagents =
+Bone*F5*WMV;
+Bronze*F2;
+Cobalt;
+Nickel;
+
+| spellements =
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops Minion*BR;
+Earth Walker*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*BR;
+Ice Wyvern*BR;
+Immolate*BR;
+Kraken*BR;
+Leviathan*BR;
+Medusa*BR;
+Minotaur*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Ra*BR;
+Rebirth*BR;
+Scarecrow*BR;
+Seraph*BR*F2*WMV;
+Skeletal Dragon*BR;
+Skeletal Pirate*BR;
+Snow Angel*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Stormzilla*BR;
+Triton*BR;
+Vampire*BR;
+Wraith*BR;
+
+| snacks =
+Cauliflowers;
+Delicious Cookie;
+Flapjacks;
+Glowing Taffy;
+Golden Apple;
+Kola Nuts;
+Submarine Sandwich;
+
+| jewels =
+Myth-Shot Peridot;
+Opaque Accurate Onyx +8%;
+Opaque Critical Onyx +8;
+Rebirth Jade;
+
+| pins =
+
+| pets =
+
+| seeds =
+Burning Snap Dragon;
+Deadly Fly Trap*F2;
+Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+}}

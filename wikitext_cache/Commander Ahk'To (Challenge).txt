@@ -1,0 +1,173 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 12,860
+| crecla = Gargoyle
+| school = Ice
+| school2 = Life
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+556 Any;
+
+| criticalblock =
+1,182 Any;
+
+| outpierce =
+25%;
+
+| outboost =
+144%;
+
+| incboost =
+None;
+
+| incresist =
+48% Fire, Myth;
+68% Ice, Life, Balance, Sun, Moon, Star, Shadow;
+88% Storm, Death;
+
+| outhealing =
+54%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gargoyle Underwing (Challenge);
+
+| world = Darkmoor
+| location = Graveholm
+| subloc1 = Gargoyle Watchhouse (Challenge)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+{{Icon|Blade}}{{Icon|Trap}}{{Icon|Aura}}{{Icon|Global}}{{Icon|Polymorph}} If a wizard casts a damage-increasing blade, trap, aura, global, or shadow polymorph, Commander Ahk'to will cheat-cast one of the following spells in order. After 5 buffs, the cycle repeats itself:
+*{{Link|Spell|Shadow Shepherd}} will not trigger this cheat.
+*''"I can match any offense!"'' - Casts an all-allies version of {{Link|Spell|Spirit Armor}} that absorbs 650 damage 
+*''"You do not learn! Shields!"'' - Casts {{Link|Spell|Mass Tower Shield}}
+*''"Learn this: No blade, no trap, nothing can harm me."'' - Casts an all-allies version of {{Link|Spell|Brace}} that gives -40% incoming damage for 4 rounds
+*''"Still, you fail to comprehend."'' Casts a global spell that decreases power pip chance by 25%. ''Needs confirmation on global effect''
+*''"So be it, let darkness consume!"'' Casts {{Link|Spell|Shadow Sentinel}}
+'''Interrupt Cycle''' (Resets every 2 {{Icon|Round}})
+:''"The house of swords shall never fall!"'' - At the end of every second round, Commander Ahk'to will interrupt to cast one of the following spells on all enemies:
+:*{{Icon|Absorb}} If the enemy creature is at full health, she will cast a version of {{Link|Spell|Spirit Armor}} that absorbs 735 damage.
+:*{{Icon|Heal}} If the enemy is below full health, she will cast {{Link|Spell|Minor Blessing}}. This can revive enemies defeated on the same turn.
+
+| spellnotes =
+
+| casts =
+Glacier Amplify;
+Tower Shield;
+Legion Shield;
+Iceblade (+40%);
+Glacier Blade;
+Frost Beetle (Tier 2b);
+Coolest Centaur;
+Abominable Weaver;
+
+| quests =
+
+| gold =
+7 - 63;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Broken Branch Loss Dagger;
+Broken Branch Luckless Dagger;
+Broken Branch Neglect Dagger;
+Broken Branch Panic Dagger;
+Broken Branch Sorrow Dagger;
+Broken Branch Terror Dagger;
+Dagger of the Burnt Forest;
+Dagger of the Coldhearted;
+Dagger of the Doomed;
+Dagger of False Promises;
+Dagger of the Turning Wheel;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Darkmoor Outsiders Theme;
+
+| cards =
+Deadly Minotaur;
+Nested Fury;
+Raging Bull;
+Rusalka's Wrath;
+Sirocco Djinni;
+Snowball Barrage;
+Winged Sorrow:
+
+| reagents =
+
+| spellements =
+Ammut;
+Anubis;
+Barbarian's Saga;
+Blast Off!;
+Bunyip's Rage;
+Chameleon Clash;
+Count Croakula;
+Drop Bear Fury;
+Freeze Ray;
+Glimpse of Infinity;
+Grim Reader;
+Heqet;
+Improbable Gaze;
+Lord of the Jungle;
+Old One's Endgame;
+Phantasmania!;
+Rainbow Serpent;
+Shu;
+Starspawn;
+Taweret;
+The Emperor;
+The Tower;
+The World;
+Tree of Strife;
+Wheel of Fortune;
+Wobbegong Frenzy;
+
+| snacks =
+
+| jewels =
+Flawless Blocking Onyx +24;
+Flawless Blocking Opal +12;
+Flawless Blocking Peridot +23;
+Flawless Blocking Ruby +23;
+Flawless Blocking Sapphire +23;
+Unearthly Blocking Citrine +53;
+Unearthly Blocking Ruby +52;
+Unearthly Mending Opal +8%;
+
+| pins =
+Ice Punishing Pin (160, Myth);
+Myth Disabling Pin (160, Fire);
+Myth Disabling Pin (170, Fire);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Commander Ahk'To (Standard)
+}}

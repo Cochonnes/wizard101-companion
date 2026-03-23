@@ -1,0 +1,156 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 5,595
+| crecla = Elephant
+| school = Myth
+| startpips = 4
+| powerpips = Yes
+| critical =
+31 Any;
+
+| criticalblock =
+24 Any;
+
+| outpierce =
+5%;
+
+| outboost =
+31%;
+
+| incboost =
+30% Fire, Life;
+
+| incresist =
+11% Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+41% Ice, Death;
+
+| outhealing =
+1%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Zafaria
+| location = Waterfront
+| subloc1 = King Tusk's Bungalow
+| descrip =
+*Defeating King Tusk is part of the Adept Fire Weaving quest, ''"The Way of Claw and Tusk"''. Wizards can also defeat King Tusk six times as one of their Fire Weaving lessons, which awards the badge, [[Basic:Fire Weaving Badges|Tusk Raider]].
+
+| speech =
+:'''King Tusk''': ''"Diamonds? Intriguing. I seem to recall my stash of diamonds was recently... burgled. And we have yet to find the fool."''
+:'''{{Link|NPC|Vinnie Vicegrip}}''': ''"Ain't it a coinkydink then that we got some new diamonds for you right here."''
+:'''King Tusk''': ''"Yes, isn't it? Allow me to express my gratitude-"''
+:'''Vinnie Vicegrip''': ''"Oh, don't worry about it."''
+:'''King Tusk''': ''"By ending you quickly.
+:'''Vinnie Vicegrip''': ''"Right, 'course. Help, Wizard?"''
+
+| cheatnotes =
+*{{Icon|Jinx}} ''"Watch out for the traps"'' - At the beginning of each Round, King Tusk will interrupt-cast one of the following Spells:
+**Myth Trap
+**{{Link|Spell|Mythic Fuel (+25%)}}
+**Yellow Troll
+**{{Link|Spell|Keeper of the Flame (Tier 5a)}}
+**{{Link|Spell|Hex}}
+*{{Icon|Fire}} If a Wizard casts a spell that removes harmful Wards for harmful Wards or Damage Over Times, he will remove all harmful Wards from Wizards and deactivate his Trap cheat.
+*{{Icon|Afterlife}} If King Tusk is defeated while his Trap cheat is still active, he will revive with full Health.
+*{{Icon|Spell}}  ''"You fell right into my trap. Try harder"'' - When King Tusk revives, he will cast Mythic Fuel (+25%) on the Wizard that defeated him, then give Wizards the following Spell:
+**{{GivesSpell|cards=1|size=x150px|Immolate (Tier 2b)}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Time of Legend;
+Mythblade;
+Myth Trap;
+Yellow Troll;
+Humongofrog;
+Myth Imp;
+Minotaur;
+Earthquake;
+Orthrus;
+Medusa;
+Basilisk;
+
+| quests =
+The Way of Claw and Tusk;
+
+| gold =
+3 - 25;
+
+| hats =
+Blackback Safari Brim;
+
+| robes =
+Outsider's Symmetrical Jacket;
+Shaman's Storm Sky Cloak;
+
+| boots =
+Charging Bull's Footguards;
+
+| athames =
+
+| amulets =
+
+| rings =
+Vir's Zafarite Stone;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Efreet (Tier 2b)*F2;
+Fire Cat (Tier 2b);
+Fire Dragon (Tier 2b);
+Fire Elf (Tier 2b);
+Fire Trap;
+Fireblade;
+Helephant (Tier 2b)*F2;
+Immolate (Tier 2b);
+Phoenix (Tier 2b);
+Rain of Fire (Tier 2b);
+Sunbird (Tier 2b);
+
+| reagents =
+Brass;
+Nickel;
+Spider Silk;
+Weft Yarn @ 10 Weft Yarn;
+Weft Yarn @ 12 Weft Yarn*F2;
+Weft Yarn @ 15 Weft Yarn*F2;
+Weft Yarn @ 50 Weft Yarn;
+
+| spellements =
+
+| snacks =
+Delicious Cookie;
+Flaming Soup;
+Goat Cheese;
+Gummy Humongofrog;
+King Banana;
+Kola Nuts;
+Submarine Sandwich;
+
+| jewels =
+Flawless Accurate Ruby +16%;
+Steadfast Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

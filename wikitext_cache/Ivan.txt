@@ -1,0 +1,323 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,240
+| crecla = Polar Bear
+| school = Fire
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+40% Ice, Storm;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Pit Fiend;
+Pit Fiend;
+Pit Fiend;
+
+| world = Polaris
+| location = Frigid Maw
+| subloc1 = Frigid Mine Docks
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Polaris
+| tome description =
+One-time circus strongman, adventurer, forest witch's errand-runner, freedom fighter, and stroganoff enthusiast.
+
+| extract class =
+Polar Bear;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Minion}} In the first Round, Ivan will cast a Balance Spell to summon three Pit Fiend Minions.<br/>They become active in Round 2.
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Furnace;
+Fireblade;
+Fireblade*TC;
+Backdraft;
+Wyldfire;
+Fire Beetle;
+Brimstone Revenant;
+Natural Attack (Fire 120-235-350);
+Meteor Strike;
+Fire from Above;
+Scald;
+Fire Dragon;
+Rain of Fire;
+
+| quests =
+The Secret Dock;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge and has not unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' {{Icon|Savior of the Sands}} Badge, the following drops will be available:
+*4 Spellements will drop each time from '''any''' School for their respective rank 8, 9, 10, King Artorius, and Polaris 6 Pip Spells.
+
+| gold =
+1,507 - 2,172;
+
+| hats =
+Enchanter's Hat of Courage*F2;
+The Goat Horns*CR*F2;
+The Manticore*CR;
+Tundarian Bear's Papakh;
+Tundarian Fur Hat of Dread;
+Tundarian Furcap of Flux*F2;
+Tundarian Icecap;
+Tundarian Papakh of Fusion;
+Tundarian Papakh of Resolve;
+
+| robes =
+Enchanter's Fervid Cloak;
+Enchanter's Lightning Vestment;
+Enchanter's New Horizon Garb;
+Tundarian Bear's Cherkesska;
+Tundarian Sleet Parka;
+Tundarian Uniform of Rage*F2;
+
+| boots =
+Enchanter's Fervid Trekkers;
+Enchanter's New Horizon Boots;
+Tundarian Boots of Resolve;
+Tundarian Icecleats;
+Tundarian Stalkers of Rage;
+Tundarian Walkers of Dread*F2;
+
+| athames =
+Athame of the Forlorn Tayg;
+Enchanter's Dirk of Lightning;
+Enchanter's Ice Floe Dagger*F3*WMV;
+Enchanter's Knife of Poise;
+Enchanter's Talon of Courage;
+Tayg Chisel of Leveling;
+Tayg Stylet of Vitality;
+
+| amulets =
+Amulet of the Forlorn Tayg;
+Enchanter's Ampul of Courage;
+Enchanter's Fervid Carcanet;
+Enchanter's Reverie Pendant;
+Enchanter's Terminus Amulet;
+Enchanter's Torc of Lightning*F2;
+
+| rings =
+Enchanter's Loop of Courage;
+
+| wands =
+Tayg Axe of Folklore*F2;
+Tayg Handaxe of Leveling;
+Tayg Hatchet of Sleetfall;
+Tayg Hatchet of Vitality;
+
+| decks =
+Enchanter's Fancy Parcel;
+Enchanter's Hand of Resolve;
+Enchanter's Set of Frostbite;
+Sleetfall Array of the Tayg;
+Snowbound Tayg Gallery;
+Tayg Deck of Wrath*F2;
+Tayg Hand of Folklore*F2;
+Tayg Pack of Vitality*F2*WMV;
+Tayg Pasteboards of Steam;
+
+| items =
+Arcanum Theme*F2;
+Lg Wood Wall Block;
+Md Wood Wall Block;
+Polaris Frozen Forest Theme;
+Polaris Gulag Combat Theme;
+Polaris Gulag Theme;
+Polaris Ice Block Theme;
+Polaris Mine Theme*F2;
+Polaris Opera Theme;
+Polaris Rasputin Combat Theme*F2;
+Walruskberg Combat Theme;
+Walruskberg Liberated Theme;
+Walruskberg Theme;
+Wood Arch Block*F2*WMV;
+Wood Corner Block*F2*WMV;
+Wood Post Block*F2;
+Wood Window Block;
+
+| cards =
+Age of Reckoning;
+Astraphobia;
+Death Helephant (345-405);
+Death Troll*F3*WMV;
+Fiery Colossus;
+Fiery Giant;
+Katabatic Wind;
+Mass Ice Prism*F2*WMV;
+Mass Myth Prism;
+Mutate Banshee (Sun);
+Mutate Beetle (Fire);
+Mutate Hound (Ice);
+Mutate Minotaur (Sun);
+Mutate Monster (Fire);
+Mutate Phoenix (Storm)*F2*WMV;
+Mutate Serpent (Storm);
+Mutate Shark (Ice);
+Mutate Snake (Ice);
+Mutate Wyvern (Storm);
+Namaste;
+Steel Giant;
+War Helephant;
+Yellow Troll;
+
+| reagents =
+Aether;
+Agave Leaves*F2;
+Amber Dust*F2;
+Ancient Scroll*F6*WMV;
+Aquamarine;
+Black Pearl*F3*WMV;
+Blood Moss*F3*WMV;
+Brass*F3*WMV;
+Bronze Gear*F4*WMV;
+Cobalt*F7*WMV;
+Ectoplasm*F3;
+Fish Fin*F2;
+Golden Pearl;
+Grendelweed*F3*WMV;
+Mithril;
+Nickel*F4*WMV;
+Scales*F5*WMV;
+Silver*F3*WMV;
+Spider Silk*F6*WMV;
+Spring*F4*WMV;
+Steel*F3;
+Sunstone*F3*WMV;
+Tin*F4*WMV;
+Tungsten*F2;
+Turquoise;
+Vine;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR*F2*WMV;
+Chimera*BR*F2*WMV;
+Efreet*BR*F3*WMV;
+Gnomes!*BR;
+King Artorius (Balance)*BR*F3*WMV;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR*F2*WMV;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR*F2*WMV;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR*F3*WMV;
+Lord of Winter*BR*F2*WMV;
+Medusa*BR;
+Nested Fury*BR*F2*WMV;
+Ra*BR*F2*WMV;
+Raging Bull*BR;
+Rain of Fire*BR*F2*WMV;
+Rebirth*BR*F2*WMV;
+Rusalka's Wrath*BR;
+Sabertooth*BR*F3*WMV;
+Sirens*BR*F6*WMV;
+Snowball Barrage*BR*F4*WMV;
+Spinysaur*BR*F5*WMV;
+Sun Serpent*BR*F3*WMV;
+Winged Sorrow*BR;
+Wings of Fate*BR;
+Witch's House Call*BR;
+Woolly Mammoth*BR*F3*WMV;
+
+| snacks =
+Aztecan Hot Chocolate;
+Beast Wellington;
+Chalupacabra*F3;
+Chili Cheese Fries*F5;
+Chili Peppers*F4*WMV;
+Delicious Cookie;
+Eye Candy*F2*WMV;
+French Fries;
+Frosty Sugar Cubes;
+Gourmet Yogurt*F3*WMV;
+Green Tomato;
+High Road Haggis;
+Huge Ice Cream;
+Large Ice Cream*F3*WMV;
+Mustachios*F2*WMV;
+Penne Dreadful*F4;
+Polaris Fries;
+Ships 'n' Queso*F2*WMV;
+Snow Apple Pie;
+Sprinkle Cupcake;
+Submarine Sandwich;
+Super Cold Popsicle*F3;
+Veggie Juice;
+
+| jewels =
+Polished Damage Citrine +21;
+Polished Damage Onyx +21;
+
+| pins =
+
+| pets =
+Nodori Winged Ram*CR;
+Snowball*CR;
+White Winter Owl*CR;
+
+| seeds =
+Angel Oak*F4*WMV;
+Bread Fruit Bush;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Deadly Fly Trap*F2*WMV;
+Evil Snow Peas*F3*WMV;
+Fish on a Vine*F3*WMV;
+Frozen Fly Trap*F4*WMV;
+Golden Couch Potatoes;
+Grapes of Wrath*CR;
+Green Snow Apples*F5*WMV;
+Moon Flower*F3*WMV;
+Pink Huckleberries;
+Purple Snow Apples;
+Queen Crape Myrtle*F4*WMV;
+Red Couch Potatoes;
+Red Huckleberries;
+Snow Apples*F6*WMV;
+Ultra Fly Trap;
+Venus Fly Trap*F2;
+
+| mounts =
+
+| spells =
+
+}}

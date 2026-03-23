@@ -1,0 +1,369 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,455
+| crecla = Shark
+| school = Fire
+| startpips = 4
+| powerpips = Yes
+| critical =
+25 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice;
+
+| incresist =
+35% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Celestia
+| location = The Chancel
+| lootchest = Big Salgio's Chest
+| descrip =
+
+| speech =
+:'''Big Salgio:''' ''"Whassamatter? Yous be thinkin' yous can come inta my place o' business and hassle me? Come and get some o' this!"''
+:'''Morganthe:''' ''"I should have known Ambrose was too much a coward to face me himself, but I would have never suspected he'd send a child! I have crossed the seas of centuries to claim what is rightfully mine... turned this ridiculous Crab Empire against itself... You cannot keep Celestia's magic from me! Now destroy this little Wizard, my pet!"''
+
+| spellnotes =
+ 
+| casts =
+Fireblade;
+Fire Trap;
+Fire Shark;
+Meteor Strike;
+Scald;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Natural Attack (Fire 100x);
+
+| quests =
+The Sun of All Fears;
+The Big Guy;
+
+| dropnotes = 
+When a Wizard has unlocked the '''[[Basic:Dragonspyre Badges|Savior of the Spiral]]''' {{Icon|Savior of the Spiral}} Badge and has not unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge, the following drops will be available:
+*14 Spellements will drop each time for their respective rank 3-7 Spells.
+
+| gold =
+0 - 34;
+
+| hats =
+Facade of the Firestar;
+Lifeforce Cover*F3*WMV;
+Stormy Cover;
+
+| robes =
+Salgio's Tinder Cloak*F2*WMV;
+Star Wisher's Robe*F3*WMV;
+
+| boots =
+Gale Force Greaves;
+Secret Shoes*F4*WMV;
+
+| athames =
+Engineer's Knife*F2*WMV;
+Ethereal Athame*F2*WMV;
+Flaming Dagger*F5*WMV;
+
+| amulets =
+Jewel of the Dragons;
+Vial of Stormy Seas*F2;
+
+| rings =
+Salgio's Loop of Lava*F3*WMV;
+Sublime Band*F2*WMV;
+
+| wands =
+Atavistic Balance Staff*F3*WMV;
+Atavistic Death Staff*F2;
+Atavistic Fire Tiki*F3;
+Atavistic Ice Trident;
+Atavistic Life Staff;
+Atavistic Myth Spyglass*F2;
+Atavistic Storm Trident;
+Bygone Balance Tiki;
+Bygone Death Tiki;
+Bygone Fire Tiki;
+Bygone Ice Tiki*F2;
+Bygone Life Tiki;
+Bygone Myth Tiki*F2;
+Bygone Storm Tiki;
+
+| decks =
+Atavistic Balance Cards;
+Atavistic Death Cards*F2;
+Atavistic Fire Cards*F2*WMV;
+Atavistic Ice Cards;
+Atavistic Life Cards;
+Atavistic Myth Cards*F2;
+Atavistic Storm Cards;
+Bygone Balance Cards;
+Bygone Death Cards;
+Bygone Fire Cards;
+Bygone Ice Cards;
+Bygone Life Cards;
+Bygone Myth Cards*F2;
+Bygone Storm Cards*F2;
+
+| items =
+Tall Tiki Totem*F2;
+
+| cards =
+Fire Trap;
+Monstrous*F4*WMV;
+Sniper;
+Vengeance*F5*WMV;
+
+| reagents =
+Cobalt;
+Fish Fin*F4*WMV;
+Nickel;
+Sandstone*F8*WMV;
+Scales*F2;
+Shark Tooth;
+Steel*F3;
+Sunstone*F2;
+Tin;
+
+| spellements =
+Banshee*BR*F2*WMV;
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops*BR;
+Cyclops Minion*BR;
+Earth Walker*BR;
+Evil Snowman*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*BR;
+Ice Wyvern*BR;
+Immolate*BR;
+Kraken*BR;
+Locust Swarm*BR;
+Minotaur*BR;
+Nature's Wrath*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Scarecrow*BR;
+Seraph*BR;
+Skeletal Pirate*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Storm Shark*BR;
+Stormzilla*BR;
+Sunbird*BR;
+Triton*BR;
+Vampire*BR;
+Wraith*BR;
+
+| snacks =
+Cauliflowers*F3*WMV;
+Delicious Cookie*F2*WMV;
+Glowing Star Fruit*F2;
+Glowing Taffy*F2;
+Strawberry Cupcake;
+Submarine Sandwich;
+
+| jewels =
+Blemished Damage Amethyst +12;
+Blemished Damage Jade +12;
+Dull Critical Opal +2;
+Mass Life Prism Jade;
+Piercemonger Peridot;
+Plain Blocking Opal +3;
+Plain Defense Opal +16;
+Power-Taker Ruby;
+Pyrosaurus Rex Ruby;
+Spirit Armor Jade;
+Vengeance Talent Opal;
+
+| pins =
+
+Balance Crushing Pin (60, Death);
+Balance Crushing Pin (60, Fire);
+Balance Crushing Pin (60, Ice);
+Balance Crushing Pin (60, Life);
+Balance Crushing Pin (60, Myth);
+Balance Crushing Pin (60, Storm);
+Balance Disabling Pin (60, Death);
+Balance Disabling Pin (60, Fire);
+Balance Disabling Pin (60, Ice);
+Balance Disabling Pin (60, Life);
+Balance Disabling Pin (60, Myth);
+Balance Disabling Pin (60, Storm);
+Balance Punishing Pin (50, Death);
+Balance Punishing Pin (50, Fire);
+Balance Punishing Pin (50, Ice);
+Balance Punishing Pin (50, Life);
+Balance Punishing Pin (50, Myth);
+Balance Punishing Pin (50, Storm);
+Balance Punishing Pin (60, Death);
+Balance Punishing Pin (60, Ice);
+Balance Punishing Pin (60, Myth);
+Death Crushing Pin (60, Balance);
+Death Crushing Pin (60, Fire);
+Death Crushing Pin (60, Ice);
+Death Crushing Pin (60, Life);
+Death Crushing Pin (60, Myth);
+Death Crushing Pin (60, Storm);
+Death Disabling Pin (60, Balance);
+Death Disabling Pin (60, Fire);
+Death Disabling Pin (60, Ice);
+Death Disabling Pin (60, Life);
+Death Disabling Pin (60, Myth);
+Death Disabling Pin (60, Storm);
+Death Punishing Pin (50, Balance);
+Death Punishing Pin (50, Fire);
+Death Punishing Pin (50, Ice);
+Death Punishing Pin (50, Life);
+Death Punishing Pin (50, Myth);
+Death Punishing Pin (50, Storm);
+Death Punishing Pin (60, Balance);
+Death Punishing Pin (60, Ice);
+Death Punishing Pin (60, Myth);
+Fire Crushing Pin (60, Balance);
+Fire Crushing Pin (60, Death);
+Fire Crushing Pin (60, Ice);
+Fire Crushing Pin (60, Life);
+Fire Crushing Pin (60, Myth);
+Fire Crushing Pin (60, Storm);
+Fire Disabling Pin (60, Balance);
+Fire Disabling Pin (60, Death);
+Fire Disabling Pin (60, Ice);
+Fire Disabling Pin (60, Life);
+Fire Disabling Pin (60, Myth);
+Fire Disabling Pin (60, Storm);
+Fire Punishing Pin (50, Balance);
+Fire Punishing Pin (50, Death);
+Fire Punishing Pin (50, Ice);
+Fire Punishing Pin (50, Life);
+Fire Punishing Pin (50, Myth);
+Fire Punishing Pin (50, Storm);
+Fire Punishing Pin (60, Balance);
+Fire Punishing Pin (60, Death);
+Fire Punishing Pin (60, Ice);
+Fire Punishing Pin (60, Myth);
+Ice Crushing Pin (60, Balance);
+Ice Crushing Pin (60, Death);
+Ice Crushing Pin (60, Fire);
+Ice Crushing Pin (60, Life);
+Ice Crushing Pin (60, Myth);
+Ice Crushing Pin (60, Storm);
+Ice Disabling Pin (60, Balance);
+Ice Disabling Pin (60, Death);
+Ice Disabling Pin (60, Fire);
+Ice Disabling Pin (60, Life);
+Ice Disabling Pin (60, Myth);
+Ice Disabling Pin (60, Storm);
+Ice Punishing Pin (50, Balance);
+Ice Punishing Pin (50, Death);
+Ice Punishing Pin (50, Fire);
+Ice Punishing Pin (50, Life);
+Ice Punishing Pin (50, Myth);
+Ice Punishing Pin (50, Storm);
+Ice Punishing Pin (60, Balance);
+Ice Punishing Pin (60, Death);
+Ice Punishing Pin (60, Myth);
+Life Crushing Pin (60, Balance);
+Life Crushing Pin (60, Death);
+Life Crushing Pin (60, Fire);
+Life Crushing Pin (60, Ice);
+Life Crushing Pin (60, Myth);
+Life Crushing Pin (60, Storm);
+Life Disabling Pin (60, Balance);
+Life Disabling Pin (60, Death);
+Life Disabling Pin (60, Fire);
+Life Disabling Pin (60, Ice);
+Life Disabling Pin (60, Myth);
+Life Disabling Pin (60, Storm);
+Life Punishing Pin (50, Balance);
+Life Punishing Pin (50, Death);
+Life Punishing Pin (50, Fire);
+Life Punishing Pin (50, Ice);
+Life Punishing Pin (50, Myth);
+Life Punishing Pin (50, Storm);
+Life Punishing Pin (60, Balance);
+Life Punishing Pin (60, Death);
+Life Punishing Pin (60, Ice);
+Life Punishing Pin (60, Myth);
+Myth Crushing Pin (60, Balance);
+Myth Crushing Pin (60, Death);
+Myth Crushing Pin (60, Fire);
+Myth Crushing Pin (60, Ice);
+Myth Crushing Pin (60, Life);
+Myth Crushing Pin (60, Storm);
+Myth Disabling Pin (60, Balance);
+Myth Disabling Pin (60, Death);
+Myth Disabling Pin (60, Fire);
+Myth Disabling Pin (60, Ice);
+Myth Disabling Pin (60, Life);
+Myth Disabling Pin (60, Storm);
+Myth Punishing Pin (50, Balance);
+Myth Punishing Pin (50, Death);
+Myth Punishing Pin (50, Fire);
+Myth Punishing Pin (50, Ice);
+Myth Punishing Pin (50, Life);
+Myth Punishing Pin (50, Storm);
+Myth Punishing Pin (60, Balance);
+Myth Punishing Pin (60, Death);
+Myth Punishing Pin (60, Ice);
+Storm Crushing Pin (60, Balance);
+Storm Crushing Pin (60, Death);
+Storm Crushing Pin (60, Fire);
+Storm Crushing Pin (60, Ice);
+Storm Crushing Pin (60, Life);
+Storm Crushing Pin (60, Myth);
+Storm Disabling Pin (60, Balance);
+Storm Disabling Pin (60, Death);
+Storm Disabling Pin (60, Fire);
+Storm Disabling Pin (60, Ice);
+Storm Disabling Pin (60, Life);
+Storm Disabling Pin (60, Myth);
+Storm Punishing Pin (50, Balance);
+Storm Punishing Pin (50, Death);
+Storm Punishing Pin (50, Fire);
+Storm Punishing Pin (50, Ice);
+Storm Punishing Pin (50, Life);
+Storm Punishing Pin (50, Myth);
+Storm Punishing Pin (60, Balance);
+Storm Punishing Pin (60, Death);
+Storm Punishing Pin (60, Ice);
+Storm Punishing Pin (60, Myth);
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fish on a Vine*F3*WMV;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F2;
+Silver Trumpet Vine*CR*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

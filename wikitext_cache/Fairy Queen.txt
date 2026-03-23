@@ -1,0 +1,140 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 1
+| heal = 235
+| crecla = Fairy
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Wizard City
+| location = Unicorn Way
+| subloc1 = 
+| descrip =
+'''Note:''' With the FTUE revamp in Wizard City, the Fairy Queen has been retired from the game.<br/><br/>
+The Fairy Queen was a semi-rare Boss on Unicorn Way that was different from most Bosses by the fact that she roams the streets like a common Creature. Also, she was the only Rank One Boss in the entire game. Her appearance is similar to a {{Link|Creature|Dark Fairy}}, with a slightly different color scheme: her wings are purple instead of red, and she has a crown instead of a hair band. Her dress and shoes are also dark purple. This allows you to tell the difference between a Dark Fairy and the Fairy Queen from a distance, with no visible name tags. She does count as a Dark Fairy for quest purposes. The Fairy Queen tends to stay around the far end of Unicorn Way near the {{Link|Location|Hedge Maze}}, where the Dark Fairies patrol. She used to also be found roaming by the {{Link|Creature|Lost Soul}}s, though much less commonly. The Fairy Queen appears to have had multiple spawn points. One was near the entrance to the Hedge Maze, while another was near the corner where {{Link|NPC|Private O'Ryan}}'s house is located.
+
+| speech =
+
+| spellnotes =
+*Despite the Spell Card's description, Fairy Queen's 90 Life Damage Natural Attack will deal 90, 95, or 100 Life Damage.
+
+| casts =
+Lifeblade;
+Life Trap;
+Natural Attack (Life 90);
+Natural Attack (Life 180);
+Leprechaun;
+Scarab;
+Blood Bat;
+Fire Cat;
+
+| quests =
+Magic Touch;
+Wings and Things;
+
+| gold =
+0 - 3;
+
+| hats =
+Adventurer's Helm;
+Antique Helm;
+Charged Cover;
+Crown of Seasons;
+Fur-Lined Hood;
+Martyr's Hat;
+Novice's Hat*F2*WMV;
+Soot Stained Hat;
+Sturdy Hat;
+
+| robes =
+Novice's Robe;
+Sturdy Coat;
+
+| boots =
+Plated Boots*F2;
+Roughspun Shoes;
+
+| athames =
+Novice's Athame;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Blood Bat;
+Fire Cat;
+Frost Beetle;
+Imp*F2;
+Scarab;
+Snow Shield;
+Storm Shield;
+
+| reagents =
+Spider Silk*F2;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+Auroch;
+Bat Wings;
+Black Stallion;
+Blue Dragon;
+Blue Fairy Wings;
+Enchanted Broom;
+Faithful Dragoness;
+Horned Sweeper;
+Jaguar;
+Nightflame Pegasus;
+Orange Fairy Wings;
+Owl;
+Sea Turtle;
+Seraph Wings;
+Starlight Pony;
+Swift Shark;
+Swiftshadow Wings;
+Tawny Ram;
+White Mare;
+
+| spells =
+
+}}

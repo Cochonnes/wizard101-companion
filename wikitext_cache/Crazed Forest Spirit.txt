@@ -1,0 +1,198 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,400
+| crecla = Elemental
+| crecla2 = Plant
+| crecla3 = Treant
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gloom Fairy;
+
+| world = MooShu
+| location = Ancient Burial Grounds
+| subloc1 = Forest Spirit Shrine
+| descrip =
+*Two additional Gloom Fairies will appear if more than two Wizards are present.
+
+| speech =
+:''"Spellcaster, your type has brought pain to our land. I must stop you before you destroy us all!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+It's not crazy, it's the only sane tree left.
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Sprite;
+Lifeblade;
+Life Trap;
+Imp;
+Leprechaun;
+Seraph;
+Natural Attack (Life 85x);
+Troll;
+Fire Elf (50+210);
+Kraken;
+
+| quests =
+Forest Foray;
+
+| gold =
+50 - 82;
+
+| hats =
+Brooding Cap*F3;
+Cap of Song;
+Cowl of Cooperation;
+Cowl of Humor*F2*WMV;
+Cowl of Rhyming*F3*WMV;
+Cowl of Soul-Searching*F2;
+Cowl of Sympathy;
+Crazed Forest Spirit's Hat*F2*WMV;
+Hat of Discontent*F4*WMV;
+Shroud of Music;
+
+| robes =
+Cloak of Charity;
+Cloak of Deliberation*F2*WMV;
+Forest Spirit Adroit Vest*F2*WMV;
+Garments of Generations;
+Garments of Unrest*F2;
+Impulsive Vestment;
+Nunu's Twisted Uniform*F2*WMV;
+Robe of the Lithe;
+Robe of the Verse*F2*WMV;
+Warbled Cloak*F2;
+
+| boots =
+Druidic Sandals;
+Ecstatic Boots*F2;
+Engrossed Shoes;
+Footwraps of Generations;
+Proficient Shoes;
+Shoes of Deliberation;
+Shoes of Dreaming*F3*WMV;
+Shoes of Scruples;
+Slippers of the Lotus;
+Vigilant Sandals*F2;
+
+| athames =
+Dagger of Detachment*F2*WMV;
+Forest Spirit's Kris*F3*WMV;
+Knife of Preoccupation*F2;
+Shortsword of Scrutiny;
+
+| amulets =
+
+| rings =
+Band of Sandcastles*F4;
+Band of the Primitives;
+Crazed Preoccupied Ring*F3*WMV;
+Spirit's Ring of Deep Thought*F3*WMV;
+
+| wands =
+
+| decks =
+Crazed Deck of Realization*F2*WMV;
+
+| items =
+Dresser with Flowers;
+Flower Petals*F2*WMV;
+Potted Purple Pansy*F3;
+Wild Bamboo*F3*WMV;
+
+| cards =
+Dark Sprite;
+Dragonflies*F2;
+Heck Hound*F2*WMV;
+Kraken*F2;
+Minotaur;
+Monstrous;
+Mutate Snowman (Storm);
+Sanctuary;
+Time of Legend;
+Tough;
+Woodwalker;
+
+| reagents =
+Nickel;
+Pyrite;
+Spider Silk*F8*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Crunch Apple;
+Golden Peanut;
+Golden Squash*F2;
+Large Watermelon;
+Square Root;
+
+| jewels =
+Blemished Defense Amethyst +21*F2;
+Blemished Defense Jade +21*F2*WMV;
+Blemished Defense Peridot +21;
+Blemished Defense Ruby +21;
+Blemished Defense Sapphire +21;
+Blemished Health Opal +36;
+Blemished PIP Opal +4%;
+Flawed Accurate Citrine +4%;
+Flawed Accurate Sapphire +4%;
+Flawed Damage Opal +5;
+Flawed Mending Opal +2%*F2;
+Steadfast Opal;
+
+| pins =
+
+| pets =
+Crabling*CR*F2;
+
+| seeds =
+Fiery Boom Shroom;
+Maelstrom Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

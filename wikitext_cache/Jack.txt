@@ -1,0 +1,99 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 15,150
+| crecla = Kangaroo
+| school = Myth
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Myth;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+33%;
+
+| outboost =
+129%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+36% Fire, Ice, Life, Death, Balance, Shadow;
+66% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wallaru
+| location = Eucalyptus Forest
+| subloc1 = Hex-Mangrove
+| descrip =
+Jack is considered a Minion to {{Link|Creature|Hugh}}. All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Frenzy;
+Bronze Armor;
+Stun;
+Splashsquatch;
+Minotaur (Tier 3a);
+Orthrus;
+Fable Lord;
+Sabertooth (Myth);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,127 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,600
+| crecla = Golem
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist = 
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Clinker;
+
+| world = Marleybone
+| location = Chelsea Court
+| subloc1 = Criminal Hideout
+| descrip = 
+Mr. Incinerator is a Golem stealing powerful magical artifacts. Fire Wizards must defeat this Boss on their Level 28 Spell Quest to obtain {{Link|Spell|Fire Elemental}}.
+
+| speech =
+:''"Ha! A "wizard" has come looking for some precious "magical" artifacts. Do you not understand the power of science! It's more powerful than magic! To show my contempt for your magic, I am burning all of it I can find. Yes, I will burn your book. Burn it in my Belly... Attack my pretty!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 105 Fire damage per pip.
+
+| casts =
+Myth Shield;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Storm Serpent (230);
+Lightning Bats;
+Storm Shark;
+Kraken;
+Ghoul;
+Troll;
+Banshee;
+
+| quests =
+Burning Books;
+
+| gold =
+21 -31;
+
+| hats =
+Exclusive Cap;
+Remarkable Cowl;
+Skillful Hat;
+Sophisticated Headwraps;
+Superstitious Canine Cowl;
+
+| robes =
+Cloak of Clarity;
+Feline's Invigorating Robe;
+Masterful Canine Cloak;
+Savvy Vestment;
+Vestment of Expertise;
+
+| boots =
+Admirable Shoes;
+Bandit's Footwraps;
+
+| athames =
+Detective's Dagger;
+Graceful Stiletto;
+
+| amulets =
+
+| rings =
+Mechanical Ring;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Bronze Gear;
+Lead;
+Nickel;
+Spider Silk;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Gummy Bloodbat;
+Medium Fish*F2;
+Stinky Cheese;
+Wheat Cracker;
+
+| jewels =
+Evil Snowman Sapphire;
+Sprite Jade;
+Storm Shark Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

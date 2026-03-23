@@ -1,0 +1,91 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 1,400
+| crecla = Polar Bear
+| school = Fire
+| school2 = Myth
+| startpips = 1
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
++25 Storm, Life;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Liches & Legends Gauntlet
+| subloc1 = 
+| descrip =
+Nefertus is considered a Minion to {{Link|Creature|King Avernus}}. All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+*Casts a 1-Pip version of Sunbird that deals 200 Fire Damage.
+*Casts a 2-Pip version of Glimpse of Infinity that deals 525 Fire Damage over 3 Rounds.
+*Casts a 1-Pip version of Cyclops that deals 200 Myth Damage.
+*Casts a 2-Pip version of Keeper of the Flame that deals 300 Myth Damage and applies a +100 Damage Ward on target.
+
+| casts =
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Nefertus
+}}

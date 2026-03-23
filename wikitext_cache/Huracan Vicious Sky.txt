@@ -1,0 +1,239 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 19,320
+| crecla = Dino
+| crecla2 = Tritop
+| school = Storm
+| startpips = 6
+| powerpips = Yes
+| critical =
+110 Any;
+
+| criticalblock =
+50 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Goliath Mauler;
+
+| world = Azteca
+| location = Twin Giants
+| subloc1 = Pyramid of the Falling Star
+| descrip =
+
+| speech =
+:''"Let the winds tear you down and send you to the nine levels of the Underworld!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Aptly named, given the world he's from.
+
+| extract class =
+Dinos;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Lightning Strike;
+Stormblade;
+Storm Trap;
+Windstorm;
+Enfeeble;
+Natural Attack (Storm 165-330-495, 80%);
+Storm Dragon;
+Sirens;
+Storm Owl;
+Tempest (85);
+
+| quests =
+Not A Cold Dead Place;
+Birth and Death of the Day;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge and has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge, the following drops will be available:
+*11 Spellements will drop each time from '''any''' School for their respective rank 6-10 Spells.
+
+| gold =
+125 - 175;
+
+| hats =
+Five Flowers Crown*F3;
+White Fire Chac's Helmet*F4*WMV;
+
+| robes =
+Cloak of the Tyrant of Beasts;
+Glorious Xicolli Vest;
+Ice Age Tyrant's Scales*F5*WMV;
+Smoking Obsidian Scales*F3*WMV;
+Tunic of the Broken Spear;
+
+| boots =
+
+| athames =
+
+| amulets =
+Courage Charm of Jade Wings*F3*WMV;
+Rising Sun Head Relic*F2*WMV;
+
+| rings =
+
+| wands =
+Green Maize Quintessence Wand;
+Storm Quetzal's Charged Mace;
+
+| decks =
+Case of the Worldtree*F3*WMV;
+Storm Sun Gallery*F4*WMV;
+
+| items =
+Azteca Combat Theme*F2;
+Azteca Mountain Theme;
+Parasaur Helm;
+Quetzal Straw Nest;
+
+| cards =
+Basilisk;
+Chastisement*F2*WMV;
+Cycle of Life*F2*WMV;
+Dr. Von's Monster;
+Fire Dragon;
+Furnace*F3;
+Gnomes!;
+Polymorph Icehorn*F2;
+Polymorph Jaguar;
+Polymorph Pteranodon;
+Primordial*F2;
+Punishment;
+Rain of Fire;
+Rebirth;
+Reliquary;
+Sharpened Blade;
+Sirens*F2;
+Sleet Storm;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F3;
+Black Pearl*F2*WMV;
+Blood Moss*F3*WMV;
+Bone*F2*WMV;
+Bronze Gear*F5*WMV;
+Deep Mushroom*F4*WMV;
+Fire Blossom*F3*WMV;
+Golden Pearl;
+Lava Lily*F2;
+Mist Wood*F3*WMV;
+Mithril;
+Nightshade;
+Ore*F2*WMV;
+Red Mandrake*F3*WMV;
+Steel;
+Stone Block*F3*WMV;
+Sunstone;
+Tin;
+Titanium*F2;
+Tungsten;
+Turquoise*F3*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR*F2;
+Centaur*BR*F2;
+Chimera*BR;
+Colossus*BR;
+Dr. Von's Monster*F2*BR*WMV;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR*F2;
+Gnomes!*BR;
+Helephant*BR;
+Hydra*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR*F2;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*F2*BR*WMV;
+Sirens*BR;
+Skeletal Dragon*BR*F2;
+Snow Angel*BR*F2;
+Spinysaur*BR;
+Stone Colossus*BR;
+Storm Lord*BR*F2;
+Storm Owl*BR;
+Sun Serpent*BR*F2;
+Triton*BR*F2;
+Woolly Mammoth*BR*F2;
+Wraith*BR*F2;
+
+| snacks =
+Allocados;
+Avocado Milkshake;
+Bedrock Bonbons;
+Cacao Beans*F2*WMV;
+Cactus Fruit;
+Chapulines*F2;
+Fried Ice Cream;
+Quetzal Pretzel*F2;
+Saber-Tooth Cider;
+Tenochti-Flan*F3*WMV;
+Yucca*F2;
+Zocalo Wings*F2;
+
+| jewels =
+Clear Critical Sapphire +9;
+Clear Mana Opal +34;
+Draw Health Sapphire*F2*WMV;
+Ice-Eye Sapphire;
+Polished Damage Peridot +21;
+Polished Health Opal +86;
+Polished Health Opal +89;
+Storm-Tooth Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Ninja Fig*CR;
+White Laugh-O-Dil*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

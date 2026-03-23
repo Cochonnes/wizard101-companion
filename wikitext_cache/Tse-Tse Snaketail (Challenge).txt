@@ -1,0 +1,150 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 10,000
+| crecla = Zebra
+| school = Storm
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost = 
+
+| incresist = 
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Starburst Spider (Challenge);
+Goliath Bruiser (Challenge);
+
+| world = Housing Instance
+| location = Tse Tse Rematch
+| descrip =
+*As the primary boss in this battle, all drops should be recorded on this page.
+*For the Standard version of this battle, see {{Link|Creature|Tse-Tse Snaketail (Standard)}}.
+
+| speech =
+
+| cheatnotes =
+*''"I am the master of disguise!"'' - At the end of the 1st Round, Tse-Tse Snaketail will Polymorph into one of the following listed below.
+*''"Curses! Let's try another guise"'' - After Tse-Tse Snaketail is defeated the first time, he will cast a version of {{Link|Spell|Blessing}} that restores 100% of his health. This cheat only activates once.
+
+{{Icon|Enemy}}{{Icon|Polymorph}} '''{{Link|Polymorph|Tim-tim Snakeeye (Challenge)}}''' - Elephant Polymorph Transformation
+
+*After Polymorphing, Tim-tim Snakeeye will cast an Aura that limits incoming damage on himself to a max of 100 for 99 Rounds.
+*''"An elephant never forgets, do you?"'' - At the beginning of the 2nd Round, and every 2 Rounds after, Tim-tim Snakeeye will cast 3 different Blades on himself. This indicates the order of which schools attacks he will need to be hit by. The 3 Blades will always be one of the following possibilities:
+**{{Icon|Death}} {{Icon|Life}} {{Icon|Myth}}
+**{{Icon|Fire}} {{Icon|Ice}} {{Icon|Storm}}
+**{{Icon|Balance}} {{Icon|Myth}} {{Icon|Ice}}
+**The progress made into finishing the 3 hits will not be reset when Tim-tim Snakeeye recasts the Blades every 2 Rounds.
+*''"You Remembered!"'' - Tim-tim Snakeeye will say this after each successful hit in the code.
+*''"Your memory is perfect!"'' - After getting the code correct, Tim-tim Snakeeye will replace his damage limit aura with {{Link|Spell|Frenzy}}.
+
+{{Icon|Enemy}}{{Icon|Polymorph}} '''{{Link|Polymorph|Tom-tom Snakeskin (Challenge)}}''' - Rhino Polymorph Transformation
+
+*''"This is gonna hurt!"'' - At the beginning of the first Round of this Polymorph, Tom-tom Snakeskin will cast a '''+15%''' per Pip version of {{Link|Spell|Supercharge}}, a '''+10%''' per Pip version of {{Link|Spell|Supercharge}} and a '''+35%''' {{Link|Spell|Stormblade}} on himself.
+**''"Charge!"'' - At the end of the first Round, Tom-tom Snakeskin will cast a non-dispellable version of {{Link|Spell|Storm Owl (Tier 5a)}}.
+
+{{Icon|Enemy}}{{Icon|Polymorph}} '''{{Link|Polymorph|Tik-tik Snaketongue (Challenge)}}''' - Lion Polymorph Transformation
+
+*''"Just a little catnap..."'' - If Tik-tik Snaketongue receives any damage during this Polymorph, he will cast a version of {{Link|ItemCard|Cat Nap}} that restores 100% max health. This cheat only activates once.
+
+{{Icon|Enemy}}{{Icon|Polymorph}} '''{{Link|Polymorph|Tse-Tse Snaketail (Challenge)}}''' - Spider Polymorph Transformation (3 {{Icon|Round}})
+
+*At the end of each Round, Tse-Tse Snaketail will cast a unique '''+30%''' {{Link|Spell|Shadowblade}} that stacks with all of his other Shadowblades.
+*''"The Shadow Queen sends her regards!"'' - At the end of the third Round of this Polymorph, Tse-Tse Snaketail will cast {{Link|Spell|Dark Fiend}} and a version of {{Link|Spell|Sacrifice}} on himself that deals 100% damage and restores no health, defeating him.
+
+| spellnotes =
+
+| casts =
+
+| quests =
+
+| dropnotes =
+This Boss will always drop the following:
+*{{Icon|Robe}} 3-4 Umbra Queen Athames or Decks
+*{{Icon|Reagent}} 12 Shadow Webbing
+*{{Icon|Spellement}} 16-17 groups of 2 Rank 8 Spellements
+*{{Icon|Treasure Card}} 7-8 Azoth Treasure Cards
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Umbra Queen's Chill Dirk (Level 170+);
+Umbra Queen's Dusty Dirk (Level 170+);
+Umbra Queen's Furious Dirk (Level 170+);
+Umbra Queen's Grim Dirk (Level 170+);
+Umbra Queen's Scorched Dirk (Level 170+);
+Umbra Queen's Shocked Dirk (Level 170+);
+Umbra Queen's Wild Dirk (Level 170+);
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Umbra Queen's Chill Cards (Level 170+);
+Umbra Queen's Dusty Cards (Level 170+);
+Umbra Queen's Furious Cards (Level 170+);
+Umbra Queen's Grim Cards (Level 170+);
+Umbra Queen's Scorched Cards (Level 170+);
+Umbra Queen's Shocked Cards (Level 170+);
+Umbra Queen's Wild Cards (Level 170+);
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Shadow Webbing @ 12 Shadow Webbing;
+
+| spellements =
+Efreet @ 2 Efreet;
+Forest Lord @ 2 Forest Lord;
+Leviathan @ 2 Leviathan;
+Medusa @ 2 Medusa;
+Ra @ 2 Ra;
+Rebirth @ 2 Rebirth;
+Skeletal Dragon @ 2 Skeletal Dragon;
+Snow Angel @ 2 Snow Angel;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Tse-Tse Snaketail
+}}

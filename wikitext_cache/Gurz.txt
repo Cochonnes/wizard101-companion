@@ -1,0 +1,172 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 4,650
+| crecla = Giant
+| school = Ice
+| startpips = 3
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Frost Goblin;
+
+| world = Grizzleheim
+| location = Vestrilund
+| subloc1 = Gurz's Cave
+| descrip =
+Two additional Frost Goblins appear if more than two Wizards are present.
+
+| speech =
+:''"Who dares step into my cave!"''
+
+| spellnotes =
+
+| casts =
+Stun Block;
+Iceblade;
+Ice Trap;
+Thieving Dragon;
+Blizzard;
+Ice Wyvern;
+Blight Hound;
+Colossus;
+Natural Attack (Ice 85x, 80%);
+
+| quests =
+Say it With Diamonds;
+
+| gold =
+58 - 89;
+
+| hats =
+Blasted Bear Hat;
+Grizzled Helm;
+Horned Helm of Bravery;
+Horned Helm of Courage*F2;
+Horned Helm of the North;
+Horned Helm of Valor*F2*WMV;
+
+| robes =
+Coat of the Crypt;
+Jerkin of the Bear's Shadow*F2;
+Jerkin of the Bleak Bear;
+Jerkin of the Iron Bear;
+Raiment of the Sun*F2*WMV;
+Raven's Eye Raiment;
+
+| boots =
+Angry Bear Boots;
+Barbarian's Bold Boots;
+Barbarian's Brave Boots*F3*WMV;
+Barbarian's Courage Boots*F2;
+Barbarian's Daring Boots;
+Barbarian's Fearless Boots*F2*WMV;
+Barbarian's Fierce Boots*F2;
+Barbarian's Valorous Boots*F4*WMV;
+Fighting Bear Boots;
+Roaring Bear Boots;
+
+| athames =
+Wolf's Ruby Claw*F6*WMV;
+
+| amulets =
+Elemental Defuse Amulet*F2*WMV;
+
+| rings =
+Ring of Fang*F2;
+Ring of the Ravenous Wolf;
+Ring of the Wolf's Howl;
+
+| wands =
+Juniper Staff*F2;
+Staff of Absolution*F2;
+
+| decks =
+
+| items =
+
+| cards =
+Accurate;
+Banshee*F2*WMV;
+Blizzard;
+Humongofrog;
+Ice Trap;
+Monstrous*F7*WMV;
+Sniper;
+Strong;
+Tempest;
+Vampire;
+Vengeance*F5*WMV;
+
+| reagents =
+Cobalt;
+Copper;
+Lead;
+Leather Straps*F8*WMV;
+Nickel*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2*WMV;
+Flaming Soup;
+Golden Apple;
+Glowing Star Fruit;
+Gummy Humongofrog;
+King Banana;
+Shiny Tomato;
+Submarine Sandwich;
+
+| jewels =
+Dull Critical Opal +2;
+Dull Healing Opal +3%;
+Dull Resilient Opal +3%;
+Ice-Eye Sapphire;
+Mega-Deplete Opal;
+Plain Defense Amethyst +29;
+Plain Defense Ruby +29;
+Plain Defense Sapphire +29;
+Plain Health Opal +60;
+Super Hurry Opal;
+Unbalance Citrine*F2;
+Vaporize Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots*F2*WMV;
+Burning Snap Dragon;
+Cornbread Fruit Bush;
+Evil Snow Peas*F2;
+Helephant Ears;
+Snap Dragon;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

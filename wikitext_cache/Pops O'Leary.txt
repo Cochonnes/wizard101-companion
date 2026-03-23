@@ -1,0 +1,182 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,200
+| crecla = Cat
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+O'Leary Napper (Fire);
+
+| world = Marleybone
+| location = The Ironworks
+| subloc1 = Hooder's Factory
+| descrip =
+Pops O'Leary is the final Boss of the The Ironworks.  He sends a band of O'Learys to {{Link|Location|Newgate Prison}} to bust {{Link|Creature|Meowiarty}} out.
+
+*An additional O'Leary Napper will appear if more than two Wizards are present.
+
+| speech =
+:''"How did you get through all my security?!? No matter... No measly little Wizard is going to derail my plans..."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Tower Shield;
+Black Mantle;
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Evil Snowman;
+Snow Shark;
+Ice Wyvern;
+Banshee;
+
+| quests =
+Knock on Wood;
+Internal Investigation;
+
+| dropnotes =
+When a Wizard has unlocked the '''Hero of Krokotopia''' {{Icon|Hero of Krokotopia}} Badge and has not unlocked the '''Oni Slayer''' {{Icon|Oni Slayer}} Badge, the following drops will be available:
+*5-7 Spellements and Treasure Card Spellements will drop each time from the '''Elemental''' (Fire, Ice, Storm, Balance) Schools for their respective rank 1-4 Spells.
+
+| gold =
+34 - 54;
+
+| hats =
+Artificial Headwrap;
+Cap of Expertise;
+Cap of Poise;
+Headwraps of Preference;
+Pops O'Leary's Sun Visor;
+Pops' Headwrap of Equity*F2;
+Pops' Icy Hat of the Feline*F2*WMV;
+Pops' Puzzling Cap*F3;
+Pops' Theraputic Hat;
+Shroud of Predominance;
+
+| robes =
+Animated Canine Cloak;
+Biting Garment;
+Finely Finished Cloak;
+Masterful Canine Cloak;
+Pops' Tunic of Severity*F2*WMV;
+Pops' Tunic of Subtlety;
+Pops' Uniform of Horrors*F3*WMV;
+Pops' Vest of Invigoration*F2*WMV;
+Rainslicker*F2*WMV;
+Remarkable Robe;
+Robe of Politeness;
+
+| boots =
+Bandit's Footwraps;
+Pops O'Leary Slippers;
+Pops O'Leary's Savvy Shoes*F2;
+Pops O'Leary's Shoes;
+Pops' Sandals of Expertise;
+Pops' Skillful Boots*F2*WMV;
+
+| athames =
+Athame of the Sleuth;
+Pops O'Leary Shifty Dagger*F3;
+
+| amulets =
+O'Leary's Briney Amulet*F2*WMV;
+
+| rings =
+O'Leary's Forest Band*F2*WMV;
+Pops' Band of Stability;
+Pops's Band of the Mender*F2;
+
+| wands =
+Staff of the Ice Wyvern;
+
+| decks =
+Pops' Deck of Stasis*F2*WMV;
+
+| items =
+Ball of Yellow Yarn*F2;
+Barkford*CR;
+Medium Purple Rug*F3*WMV;
+Metal Wall Lamp*F2;
+
+| cards =
+Evil Snowman (Tier 2b)*BR;
+Lightning Bats (Tier 2b)*BR;
+Power Play;
+Scorpion (Tier 2b)*BR*F2;
+Sniper;
+Snow Serpent (Tier 2b)*BR;
+Spirit Armor;
+Storm Shark (Tier 2b);
+Storm Trap;
+Sunbird (Tier 2b)*BR*F2;
+
+| reagents =
+Iron;
+Lead*F2;
+Leather Straps*F2;
+Spider Silk*F3*WMV;
+
+| spellements =
+Evil Snowman*BR*F2;
+Fire Elf*BR*F3;
+Frost Beetle*BR;
+Immolate*BR;
+Kraken*BR*F2;
+Lightning Bats*BR;
+Locust Swarm*BR;
+Scarab*BR;
+Snow Serpent*BR*F2;
+Storm Shark*BR;
+Sunbird*BR*F2;
+Thunder Snake*BR*F3;
+
+| snacks =
+Caramel Popcorn;
+Gummy Bloodbat;
+Medium Fish;
+Redskin Peanut;
+Square Watermelon;
+Stinky Cheese;
+Wheat Cracker;
+
+| jewels =
+Chipped Defense Opal +7;
+Evil Snowman Sapphire*F2;
+Flawed Health Opal +29;
+
+| pins = 
+
+| pets =
+Evil Snowman;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

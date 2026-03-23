@@ -1,0 +1,104 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 14,593
+| crecla = Penguin
+| crecla2 = Aberration
+| school = Shadow
+| masteries =
+Death;
+
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+18%;
+
+| outboost =
+113%;
+
+| incboost =
+None;
+
+| incresist =
+45% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Novus
+| location = La Ville Rose
+| subloc1 = Maxine's Office
+| descrip =
+Aberrant Maxine is summoned by {{Link|Creature|Maxine Rockhoppierre}}.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Justiceblade (Balance);
+Equalize;
+Colossafrog (Shadow);
+Spectral Blast (Shadow);
+Lord of Night (Shadow);
+Ship of Fools (Tier 3b);
+Gravestorm;
+Scarecrow;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

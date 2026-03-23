@@ -1,0 +1,115 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 12,995
+| crecla = Plant
+| crecla2 = Treant
+| school = Life
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Khrysalis
+| location = Shadow Palace
+| subloc1 = Spirit Plane
+| descrip = One of {{Link|NPC|Moros}}'s four main tree roots. All drops should be recorded on the {{Link|Creature|Tree Root (Death)}} page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+A root charged with keeping Moros alive, which with his diet and lack of exercise, is NOT easy. 
+
+| extract class =
+Treant;
+
+| summon animus = 10
+| summon gold = 500
+| guest animus = 20
+| guest gold = 1,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Mend;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Natural Attack (Life 158-250-345);
+Goat Monk;
+Centaur (610-670);
+Bronze Helephant;
+Gnomes!;
+Spinysaur;
+
+| quests =
+Doom Tree;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Tree Root (Death)
+}}

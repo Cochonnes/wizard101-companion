@@ -1,0 +1,154 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 3,600
+| crecla = Plant
+| crecla2 = Treant
+| school = Fire
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Ice;
+
+| incresist =
+70% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = Yes
+| minions =
+Forest Nymph (Tier 1);
+Forest Nymph (Tier 1);
+Forest Nymph (Tier 1);
+
+| world = Housing Instance
+| location = Tanglewood Terror
+| subloc1 = Tanglewood Terror (Tier 3)
+| descrip =
+The Minions on this Boss are probably the wrong Minions as they are only Rank 2 and do not match the rest of the mobs in this tier, which are all Rank 5. The {{Link|Creature|Forest Nymph (Tier 1)}} has the exact same stats and spells as the ones present here.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Its entire body ignited after using the incantation: "Flame on." Now it's just sort of stuck that way.
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Glacial Shield;
+Fireblade;
+Fire Trap;
+Fuel;
+Natural Attack (Fire 120-235-350);
+Power Link;
+Scald;
+Fire Dragon;
+
+| quests =
+Tanglewood Terror;
+
+| dropnotes =
+Wizards level 50+ will only receive level 50+ versions of Items.
+
+| gold =
+59-76;
+
+| hats =
+Cap of the Plant Punisher (Level 40+);
+Cap of the Tanglewood Hero (Level 40+);
+Cap of the Tanglewood Hero (Level 50+);
+Tanglewood Terror Coif (Level 40+);
+
+| robes =
+Terror of Tanglewood Robes (Level 40+);
+
+| boots =
+Plant Punisher's Boots (Level 40+);
+Plant Punisher's Boots (Level 50+);
+Tanglewood Hero's Footgear (Level 40+);
+Tanglewood Hero's Footgear (Level 50+);
+Terror of Tanglewood Shoes (Level 40+);
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Plant Punisher's Spike (Level 40+);
+Tanglewood Hero's Nettle (Level 40+);
+Tanglewood Terror Spear (Level 50+);
+
+| decks =
+
+| items =
+Axe;
+Clanker's Trapdoor;
+Crumpled Newspaper;
+Large Stone Fountain;
+Pigswick Student's Desk;
+Red Painted Column;
+Storm Sarcophagus;
+Well-Traveled Suitcase;
+
+| cards =
+Dark Sprite;
+Storm Shield;
+Strong;
+
+| reagents =
+Cat Tail;
+Copper;
+Fossil;
+Mist Wood;
+Nickel;
+Stone Block;
+Water Lily*F2;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Blemished Defense Opal +11;
+Humongofrog Peridot;
+
+| pins =
+
+| pets =
+Stained Glass Roller;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

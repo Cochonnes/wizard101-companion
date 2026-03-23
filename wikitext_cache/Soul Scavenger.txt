@@ -1,0 +1,223 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 565
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Life;
+
+| incresist =
+50% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sokkwi Crusher;
+
+| world = Krokotopia
+| location = Hall of Champions
+| subloc1 = Soul Chamber
+| descrip =
+A ghost that resides in the Krokosphinx's Hall of Champions, this Soul Scavenger has taken a special Coin of Destiny from the Order of the Fang's {{Link|NPC|General Khaba}}.  The loss of the coin following his reawakening from the Great Sleep has left Khaba sapped of strength, leading him to ask Wizards to help him recover his coin from this thief.
+
+*Two additional Sokkwi Crushers will appear if more than two Wizards are present.
+
+| speech =
+:''"I will feed on the light in your eyes..."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+Seeks the truth in the eyes of its opponents, and is always searching for a special coin.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Weakness;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Lightning Bats;
+Cyclops;
+Evil Snowman;
+Natural Attack (Ice 85x, 85%);
+
+| quests =
+Coin of Destiny;
+
+| gold =
+17 - 32;
+
+| hats =
+Cap of the Oasis;
+Conjurer's Hat;
+Cowl of Prediction*F2;
+Durable Hood;
+Helm of the Bastion;
+Helm of the Cyclone*F2*WMV;
+Hood of the Stronghold;
+Krokotopian Balance Modius;
+Krokotopian Ice Modius*F2;
+Krokotopian Life Modius;
+Krokotopian Modius*F7*WMV;
+Mask of Proportions*F2;
+
+| robes =
+Ceremonial Vest*F3*WMV;
+Conjurer's Cloak*F2*WMV;
+Durable Robe*F3;
+Garments of the Augur*F2*WMV;
+Pyromancer's Lambent Robe*F3*WMV;
+Robe of Ingenuity*F2;
+Robes of Dormancy*F2*WMV;
+Rugged Robe*F4*WMV;
+Runed Vestment*F2;
+Soul Scavenger's Shroud*F3*WMV;
+Threadbare Robe*F3*WMV;
+Tunic of Energy;
+Tunic of the Whirlwind;
+
+| boots =
+Boots of Imagination;
+Boots of the Citadel;
+Boots of the Cyclone;
+Crystalline Footwraps;
+Diviner's Boots*F3;
+Quartermaster's Boots*F2;
+Shoes of Adaptation;
+Shoes of the Fortress;
+Soul Scavenger's Boots*F3*WMV;
+
+| athames =
+Ancient Kris*F3*WMV;
+Athame of Mortality*F2*WMV;
+Cryptkeeper's Shortsword*F3;
+Dagger of Solitude*F2*WMV;
+Dirk of the Wasteland*F2;
+Flamedancer's Athame*F2*WMV;
+Powerful Stiletto;
+Whirlwind Dagger*F2;
+
+| amulets =
+Pendant of the Icy Soul*F3;
+
+| rings =
+Advocate's Ring;
+Band of Energy*F3*WMV;
+Loop of Talent*F3*WMV;
+Loop of Tall Tales;
+Partisan's Ring*F3*WMV;
+Ring of Mortality*F2*WMV;
+Ring of the Badlands*F2;
+Sparkling Band;
+Victor's Signet*F2*WMV;
+
+| wands =
+Scavenger's Staff of Sagas*F4*WMV;
+
+| decks =
+Mummified Deck;
+Pharaoh's Deck*F5*WMV;
+
+| items =
+Blue Floor Torch*F3*WMV;
+Ice Chameleon Statue*F3*WMV;
+Krok Sun Plaque;
+Purple Painted Column;
+
+| cards =
+Ghost Touch*F4*WMV;
+Ice Trap;
+Krokotillian*F3*WMV;
+Mutate Beetle (Storm);
+Spirit Armor;
+Storm Shark;
+Tempest;
+
+| reagents =
+Copper;
+Ectoplasm;
+Pyrite*F5;
+
+| spellements =
+
+| snacks =
+Cracker*F2*WMV;
+Green Grapes*F4;
+Nettle Root*F2;
+Submarine Sandwich;
+Tiny Fish*F3*WMV;
+
+| jewels =
+Chipped Mana Opal +10;
+Chipped Mana Opal +11;
+Cracked Accurate Onyx +2%;
+Cracked Accurate Sapphire +2%;
+Cracked Damage Amethyst +2*F2;
+Cracked Defense Amethyst +12;
+Cracked Defense Citrine +7;
+Cracked Defense Citrine +11;
+Cracked Defense Citrine +12;
+Cracked Defense Jade +12*F2;
+Cracked Defense Onyx +7;
+Cracked Defense Onyx +12;
+Cracked Defense Opal +3;
+Cracked Defense Opal +4;
+Cracked Defense Ruby +12;
+Cracked Defense Sapphire +7;
+Cracked Defense Sapphire +8;
+Cracked Defense Sapphire +12*F2;
+Cracked Health Opal +13;
+Cracked Mana Opal +5;
+Cracked Mana Opal +7;
+Exhaust Opal;
+Fire Cat Ruby;
+Frost Beetle Sapphire;
+Imp Jade*F2;
+Myth-Away Peridot;
+Myth-Shot Peridot;
+Restore Opal;
+Scarab Citrine;
+Siphonizer Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Pink Dandelion*CR*F8*WMV;
+
+| mounts =
+
+| spells =
+
+}}

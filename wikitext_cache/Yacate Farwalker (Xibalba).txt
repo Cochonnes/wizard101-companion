@@ -1,0 +1,257 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 18,040
+| crecla = Dino
+| crecla2 = Raptor
+| school = Myth
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Goliath Crusher;
+Goliath Crusher;
+Goliath Devastator;
+
+| world = Azteca
+| location = Xibalba
+| descrip =
+*The three Minions for this Boss are random. They include any combination of Goliath Crushers and Goliath Devastators.
+*''For the {{Link|Location|Xolotl Tower}} version of this Boss, see {{Link|Creature|Yacate Farwalker (Xolotl Tower)}}.''
+
+| speech =
+:''"Shaved jaguar cub, you continue to evolve. I have no idea how you got up here, but you are too late! The Shadow Queen, has chained the oldest ghosts. These Lords of Night know the song of creation, which they will teach her. Now, let me teach you a song of Armageddon!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Threatens to teach you the Song of Armageddon.  Pay attention, you don't want to miss a thing.
+
+| extract class =
+Dinos;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Mythblade;
+Myth Trap;
+Time of Legend;
+Keeper of the Flame;
+Natural Attack (Myth 170-340-510);
+Ninja Pigs;
+Earthquake;
+Humongofrog (400-500);
+Medusa;
+Basilisk;
+Celestial Calendar;
+
+| quests =
+This Is the Way the World Ends;
+
+| gold =
+128 - 242;
+
+| hats =
+Boo Pumpkin Mask*CR*HOL;
+Coatl Lord's Hat*F2*WMV;
+Glorious Feathered Mantle;
+Helm of the Broken Spear;
+High Chac's Guarded Helm;
+Mask of the Calavera;
+Sweet Kiss of Death Mask;
+Tyrant of Beasts Mask*F2;
+
+| robes =
+Black Sun Chac's Armor*F3*WMV;
+Grinning Death Xicolli Vest*F2*WMV;
+Keeper of the Codex Vest*F5;
+Lord of Night Robes;
+Philososaur's Robes*F2;
+Vestment of the Hungry Lizard;
+White Fire Chac's Armor*F3;
+
+| boots =
+Black Butterfly Guard's Wraps;
+Black Tears of Night Wraps*F2;
+Death Moon's Chosen Gliders;
+Elite Jura Guard Stalkers*F2;
+Fiery Chac's Great Boots;
+Five Fangs of Fury Boots*F2*WMV;
+Heart of Sky Boots*F4*WMV;
+Ice Age Tyrant's Walkers;
+Indigo Wing Striders*F3;
+Jaguar Prince's Leapers;
+Smoking Obsidian Rangers*F2;
+Tree of Secrets Chac Runners;
+Twisted Fang Boots;
+
+| athames =
+Moon Skull's Blessed Edge;
+Thunder Horn's Rough Cutter;
+
+| amulets =
+Courage Charm of Jade Wings;
+Golden Head of the Cold House;
+Horizon of Underworld Charm;
+Necklace of Lost Ancestors;
+Pendant of the Wild Wings;
+Thunder Horn's Coral Charm;
+
+| rings =
+Ring of Aztlan;
+Twin Giants Fashioned Stone;
+
+| wands =
+New Moon Lance;
+Spear of Breaking Dawn;
+Spring Fledgling Baton;
+Stave of the Protector*CR*HOL;
+Talon of the Storm Owl;
+Unpopped Corn Wand*CR*HOL;
+
+| decks =
+Calendar of the Spiral King*F3*WMV;
+King's Royal Portraits*F3;
+Lords of Night Pyramid Deck*F4;
+
+| items =
+Azteca Apocalypse Theme;
+Azteca Main Theme;
+Bird Head Mount*F3*WMV;
+Broadhead;
+Clothesline;
+Starburst Frond*F2;
+
+| cards =
+Basilisk;
+Chimera*F2;
+Colossal*F4;
+Dr. Von's Monster;
+Extraordinary;
+Orthrus;
+Potent Trap*F2;
+Primordial*F2*WMV;
+Rain of Fire;
+Scarecrow;
+Sharpened Blade*F2;
+Sirens;
+Vengeance;
+
+| reagents =
+Black Lotus*F4*WMV;
+Black Pearl*F3;
+Blood Moss*F2;
+Bone*F5*WMV;
+Brass*F3;
+Bronze*F4;
+Bronze Gear*F4;
+Cobalt*F3;
+Deep Mushroom*F7*WMV;
+Fire Blossom*F6*WMV;
+Fossil*F2*WMV;
+Lava Lily*F6*WMV;
+Mist Wood*F3*WMV;
+Mithril*F3*WMV;
+Nickel*F4;
+Nightshade;
+Ore*F4;
+Red Mandrake*F5*WMV;
+Silver*F2*WMV;
+Steel;
+Stone Block*F4*WMV;
+Sunstone*F2;
+Tungsten;
+Turquoise*F4*WMV;
+
+| spellements =
+
+| snacks =
+Apatotatoes;
+Avocado Milkshake*F3*WMV;
+Buttered Bread;
+Caramel Apple;
+Chapulines*F2*WMV;
+Dr. Jalapeno;
+Guava*F2;
+Maize;
+Marzipan Maize*F2;
+Pterotomatoes;
+Quetzal Pretzel*F4*WMV;
+Stego Waffles;
+Yucca*F3;
+
+| jewels =
+Clear Accurate Ruby +9%;
+Clear Defense Citrine +39;
+Clear Defense Peridot +38;
+Clear Defense Ruby +38;
+Clear Health Opal +81;
+Clear Health Opal +83;
+Clear Mana Opal +36;
+Clear Piercing Onyx +5%;
+Colossus Opal;
+Cyclops Minion Peridot;
+Draw Health Sapphire;
+Ice-Shot Sapphire;
+Polished Critical Hematite +11;
+Polished Critical Onyx +11;
+Polished Critical Ruby +11;
+Polished Health Opal +88;
+Storm Elemental Opal;
+Ultra Exhaustion Opal;
+
+| pins =
+
+| pets =
+Lovely Leopard*CR*HOL;
+Pet Egg*CR*HOL;
+Valentine Pig*CR*HOL;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Blue Huckleberries;
+Deadly Fly Trap;
+Fiery Boom Shroom;
+Fish on a Vine;
+Pink Dandelion*CR;
+White Desparagus;
+
+| mounts =
+Stormrider Hare*PERM*CR*HOL;
+
+| spells =
+
+}}

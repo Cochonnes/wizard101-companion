@@ -1,0 +1,173 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,420
+| crecla = Fish
+| school = Fire
+| startpips = 4
+| powerpips = Yes
+| critical =
+25 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice;
+
+| incresist =
+35% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Angler Goon;
+
+| world = Celestia
+| location = Crustacean Empire
+| subloc1 = Nuncio's Crag
+| descrip =
+*Nuncio is the thuggish leader of the Lophians.
+*Two additional {{Link|Creature|Angler Ruffian}} Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Who'sa that? Iffa the Crustaceans sent'cha, I'ma gonna senda you home... inna can!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip.
+
+| casts =
+Fireblade;
+Fire Trap;
+Sunbird;
+Meteor Strike;
+Phoenix;
+Colossus (Fire);
+Helephant;
+
+| quests =
+Fire in the Sea;
+
+| gold =
+69 - 82;
+
+| hats =
+Cowl of Creation*F3*WMV;
+Forgotten Facade;
+Helm of Burning Ambition*F2;
+Maelstrom Mask*F2;
+Nereus's Hoarfrost Helm;
+Rising Tide Topper;
+Vital Headdress;
+
+| robes =
+Arcane Outfit*F2*WMV;
+Wretched Jerkin*F3;
+
+| boots =
+Boots of Celestian Totality*F2;
+Brimstone Boots*F2;
+Celestian Tempest Trekkers;
+Frost Giant's Footguards*F3;
+Ice Rangers;
+Icestar Stalkers;
+Rime Runners;
+Vile Boots*F2;
+Virtue Shoes;
+Wraps of Rapport;
+
+| athames =
+Dagger of Typhoons;
+Dirk of Delusion;
+Edge of Equality*F2*WMV;
+Edge of Essence*F4*WMV;
+Kris of the Piscean Guard*F2;
+
+| amulets =
+Jewel of the Feint*F2;
+Spectral Choker*F5;
+
+| rings =
+Combustible Band;
+Eye of Insight*F2*WMV;
+Forsaken Signet*F2*WMV;
+Majestic Signet;
+Typhoon Band;
+
+| wands =
+
+| decks =
+
+| items =
+Water Pump*F3*WMV;
+
+| cards =
+Balefrost;
+Donate Power;
+Empower*F2*WMV;
+Gargantuan*F6;
+Precision;
+Sanctuary*F2*WMV;
+Sniper*F3;
+Unstoppable*F5*WMV;
+
+| reagents =
+Brass;
+Cobalt*F3;
+Fish Fin*F6*WMV;
+Nickel*F5;
+Sandstone*F9*WMV;
+Scales*F2;
+Sunstone*F2*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2;
+Delicious Cookie*F2*WMV;
+Glowing Star Fruit*F2*WMV;
+Glowing Taffy*F3;
+Spicy Drumstick*F4*WMV;
+Strawberry Cupcake*F3;
+Submarine Sandwich*F2*WMV;
+
+| jewels =
+Aura Crush Citrine;
+Dependable Opal;
+Deplete Opal;
+Dull PIP Opal +5%;
+Melt Sapphire;
+Plain Defense Amethyst +29;
+Plain Defense Opal +15;
+Plain Defense Ruby +29;
+Plain Defense Sapphire +29;
+Storm-Shot Amethyst;
+Strangle Onyx;
+Ultra Energy Opal;
+Unbalance Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2*WMV;
+Fish on a Vine;
+Maelstrom Snap Dragon*F2*WMV;
+Pink Dandelion*CR*F2;
+Silver Trumpet Vine*CR*F2;
+
+| mounts =
+
+| spells =
+
+}}

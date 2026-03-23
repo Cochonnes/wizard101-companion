@@ -1,0 +1,119 @@
+{{Stub|Spells and drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 1,850
+| crecla = Beastmoon Creature
+| school = Ice
+| startpips = 2
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions = 
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Avalon Battlegrounds
+| descrip =
+Ice Devil is one of the Boss monsters that can be encountered during the second Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events. They will have 1 random, Rank 2 Elite, Stage 2 Minion and 1 random, Rank 1, Stage 2 Minion present to assist them.
+
+'''Potential Rank 2 Elite Minions:'''
+*{{Link|Creature|Dune Raider}}
+*{{Link|Creature|Fried Crab}}
+*{{Link|Creature|Glacier Spriggan}}
+
+'''Potential Rank 1 Minions:'''
+*{{Link|Creature|Baboon Bandit}}
+*{{Link|Creature|Harmony Eel}}
+
+| speech =
+
+| spellnotes =
+*It is currently unknown whether the clear Charm effect of Shielded Beetle occurs.
+*Casts a 2-Pip version of Sleet Snake that deals 175 Ice Damage if caster has a Ward or Jinx.
+*Casts a 3-Pip version of Gelid Ancestor that deals 150 Ice Damage to all enemies or removes a positive Charm to deal 250 Ice Damage.
+
+| casts =
+Armory of Artemis;
+Shielded Beetle;
+Sleet Snake;
+Gelid Ancestor;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 10 - 12 Lunari.
+
+| gold =
+51 - 64;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone;
+Death Rune*F3*WMV;
+Eldritch Thread*F2*WMV;
+Elemental Thread;
+Elf Idol (Storm);
+Enhanced Death Rune;
+Enhanced Ice Rune;
+Fairy Idol (Ice);
+Fire Rune;
+Hunter's Moonstone*F2*WMV;
+Ice Rune;
+Spirit Thread;
+
+| spellements =
+Thermic Golem;
+Volcanic Golem;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

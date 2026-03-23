@@ -1,0 +1,214 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,000
+| crecla = Horse
+| crecla2 = Equine
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Ice;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Otomo Mercenary;
+
+| world = MooShu
+| location = Tatakai Outpost
+| subloc1 = Quartermaster's Dojo
+| descrip =
+*Two additional Otomo Mercenary Minions appear if more than two Wizards are present.
+
+| speech =
+:''"From the looks of you, you must have caught my men by surprise. Not me!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+Master of Quarters, Champion of Dimes, Occasional Hero to Nickels. Bane of Pennies.
+
+| extract class =
+Equine;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Myth Damage per Pip
+
+| casts =
+Snow Shield;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Sunbird;
+Meteor Strike;
+Raging Kraken (Fire);
+Colossus (Fire);
+Heck Hound;
+Leprechaun;
+Cyclops;
+
+| quests =
+No Quarter;
+
+| gold =
+56 - 105;
+
+| hats =
+Cap of Song*F2;
+Cowl of Watchfulness*F3;
+Enlivened Cowl;
+Gogi Berry Stained Cap;
+Hat of Discontent;
+Hat of the Eager*F3*WMV;
+Hat of the Observant*F4*WMV;
+Helm of Struggling*F3;
+Hood of Melodies*F3*WMV;
+Industrial Helm*F2;
+Otomo's Impulsive Helm;
+Problematic Headwraps;
+Shroud of the One;
+The Hexbreaker*CR*F3*WMV;
+
+| robes =
+Garments of Generations*F2;
+Garments of Unrest*F2;
+Impulsive Vestment*F2;
+Problematic Tunic;
+Quartermaster's Cloak;
+Robe of Song;
+Robe of the Lithe;
+Robe of the Verse*F2*WMV;
+Vestment of  Niceties;
+Warbled Cloak;
+
+| boots =
+Boots of Consideration*F4*WMV;
+Boots of the Triad;
+Footwraps of Charity;
+Footwraps of Generations;
+Immersive Sandals;
+Otomo's Footwraps of Unison;
+Otomo's Shroud of Disorder*F2*WMV;
+Sandals of Humor;
+Sandals of Nuisance;
+Shoes of Scruples;
+Vigilant Sandals;
+
+| athames =
+Kris of the Pensive Ones*F4*WMV;
+Shortblade of a Daydreamer*F2*WMV;
+Student's Shortblade*F2;
+
+| amulets =
+
+| rings =
+Band of Hope*F2*WMV;
+Ring of Detachment*F2*F2;
+Ring of Regard;
+
+| wands =
+Otomo's Staff of Dreaming*F2*WMV;
+
+| decks =
+
+| items =
+Marble Stool*F2*WMV;
+MooShu Dance Theme*F5*WMV;
+MooShu Pet Derby Theme*F3*WMV;
+Quartermaster's Naginatas*F2*WMV;
+Silver Lantern;
+Sky Painting;
+Table Chest;
+Throwing Star Display*F3;
+
+| cards =
+Cloak;
+Darkwind;
+Dragonflies;
+Ice Wyvern;
+Kraken;
+Pest Zapper;
+Wyldfire;
+
+| reagents =
+Brass;
+Bronze Gear*F5*WMV;
+Copper;
+Lead;
+Pyrite;
+Tin;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Crunch Apple*F2*WMV;
+Fire Cracker;
+Golden Peanut;
+Golden Squash;
+Large Watermelon;
+Square Root*F2;
+
+| jewels =
+Blemished Defense Amethyst +21*F2;
+Blemished Defense Jade +21*F3*WMV;
+Blemished Defense Onyx +21;
+Blemished Defense Opal +12;
+Blemished Defense Peridot +21;
+Blemished Defense Ruby +21;
+Blemished Defense Sapphire +21;
+Blemished PIP Opal +4%;
+Bomber Opal;
+Flawed Accurate Citrine +4%;
+Flawed Accurate Opal +2%;
+Flawed Accurate Peridot +4%*F2;
+Flawed Damage Opal +5;
+Flawed Defense Onyx +19;
+Flawed Defense Sapphire +19;
+Flawed Health Opal +34;
+Stall Opal;
+Storm-Giver Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+Maelstrom Snap Dragon;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

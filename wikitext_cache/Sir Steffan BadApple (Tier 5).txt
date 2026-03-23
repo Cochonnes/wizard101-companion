@@ -1,0 +1,203 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 5,120
+| crecla = Dog
+| school = Balance
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Conscripted Mander (Tier 5);
+Conscripted Mander (Tier 5);
+
+| world = Housing Instance
+| location = Grand Tourney Arena
+| subloc1 = Grand Tourney Arena (Tier 5)
+| descrip =
+
+| speech =
+:''"Ah, the Stranger! I knew you would prove tougher than you looked, so I ensured you would fight Sir Dunc first. No matter who won, the winner would be worn down. Either way, I am fresh and eager to battle! I'll win praise from my master today!"''
+
+| cheatnotes =
+*{{Icon|Minion}} ''"I'm outnumbered! Mander, join your master!"'' - At the end of the first Round, Sir Steffan summons a Conscripted Mander (Tier 5) Minion.
+**At the end of the second Round, he summons another Conscripted Mander (Tier 5) Minion.  He will continue summoning Minions throughout the battle whenever one is defeated or sacrificed.
+**{{Icon|Damage}} ''"Mander, give me all your strength!"'' - When he is attacked, Sir Steffan BadApple sacrifices his Minions for 500 health each.
+*{{Icon|Trap}} ''"Not Fair! You should be hamstrung!''" - If a Trap is placed on Steffan, he will cast a Weakness on the Wizard.
+*{{Icon|Manipulation}} ''"You are too strong, let's cut you down a size!"'' - Steffan interrupt-casts Mana Burn, while saying with an unknown trigger.
+*{{Icon|Damage}}{{Icon|Curse}} ''"Here's sand in your eye!"'' - Steffan casts Sandstorm with an unknown trigger that also places a {{Link|Spell|Black Mantle}} on one Wizard.
+**It has been observed that the Black Mantle is placed on the first Wizard versus a random one.
+
+| spellnotes =
+
+| casts =
+Chastisement;
+Spirit Shield;
+Weakness;
+Spirit Defuse;
+Balanceblade;
+Spirit Blade;
+Hex;
+Mana Burn;
+Counterforce;
+Sandstorm;
+Spirit Blast;
+Power Nova;
+Chimera;
+Sabertooth;
+
+| quests =
+Hedging Bets;
+
+| gold =
+62 - 204;
+
+| hats =
+Mask of the Faerie Court (Level 100+)*CR*F2;
+Pixie's Mask of Encanta (Level 100+)*CR;
+World's Fool Mask (Level 100+)*CR*F2*WMV;
+
+| robes =
+
+| boots =
+Faerie Court Boots (Level 100+)*CR;
+Pixie's Enchanted Boots (Level 100+)*CR;
+World's Fool Boots (Level 100+)*CR*F2*WMV;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Bog Witch Bobblehead*F2*WMV;
+Ceara Ashbury Bobblehead;
+Floor Brazier;
+Grandfather Clock;
+Great Spiral Glyph;
+Lady of the Lake Bobblehead*F3*WMV;
+Open Burned Book*F3*WMV;
+Sir Pike Del Lago Bobblehead;
+Spiral Shield;
+
+| cards =
+Basilisk*F4*WMV;
+Chimera*F7*WMV;
+Dark Sprite*F3*WMV;
+Dryad*F5*WMV;
+Efreet*F4*WMV;
+Fire Dragon*F6*WMV;
+Fire Elf*F6*WMV;
+Frost Giant*F2*WMV;
+
+| reagents =
+Acorn*F4*WMV;
+Aether*F4*WMV;
+Aquamarine*F5*WMV;
+Brass*F2*WMV;
+Bronze*F2*WMV;
+Cobalt*F4*WMV;
+Fire Blossom*F3*WMV;
+Frost Flower*F8*WMV;
+Grendelweed*F6*WMV;
+Kelp*F7*WMV;
+Lava Lily*F4*WMV;
+Mist Wood*F8*WMV;
+Nickel;
+Sandstone*F4*WMV;
+Scrap Iron*F9*WMV;
+Shell*F3*WMV;
+Spring*F3*WMV;
+Steel*F4*WMV;
+Sunstone*F5*WMV;
+
+| spellements =
+
+| snacks =
+Arrow Root*F5*WMV;
+Asparagus Spears*F6*WMV;
+Bearberry*F4*WMV;
+Big Squash*F2*WMV;
+Black Cap Crisps*F6*WMV;
+Bog Witch Beetroot*F2*WMV;
+Caliburnt Toast*F10*WMV;
+Chocolate Comet*F5*WMV;
+Cow Pie*F3*WMV;
+Crab Knight Cakes*F2*WMV;
+Crunch Apple*F2*WMV;
+Crystal Custard*F6*WMV;
+Glowing Rock Candy*F5*WMV;
+Grilled Cheese*F4*WMV;
+High Road Haggis*F3*WMV;
+Large Fish*F3*WMV;
+Large Watermelon*F3*WMV;
+Lemon Harts;
+Moon Pie*F4*WMV;
+Muscle Sprouts*F5*WMV;
+Ogre Meanies*F5*WMV;
+Pixie Parsnips*F5*WMV;
+Pomegranite*F3*WMV;
+Seraph Food Cake*F6*WMV;
+Shepherd's Crook Pie*F2*WMV;
+Toad in the Hole;
+Weirwood Cake*F6*WMV;
+Wormy Apple*F6*WMV;
+Wyrmy Apple*F2*WMV;
+
+| jewels =
+Clear Damage Onyx +19*F2*WMV;
+Clear Damage Peridot +19*F2;
+Myth-Giver Peridot;
+No Pain, No Gain Onyx;
+Opaque Blocking Opal +4*F3*WMV;
+Opaque Critical Opal +4;
+Opaque Damage Sapphire +18;
+Restorative Opal;
+SnowBorn Sapphire;
+Tower Shield Sapphire;
+
+| pins =
+
+| pets =
+Crabling*CR;
+Desert Beast;
+Leprechaun;
+Seraph;
+
+| seeds =
+Cornbread Fruit Bush*F6*WMV;
+Couch Potatoes*CR;
+Helephant Ears*F8*WMV;
+Red Bell Pepper*F6*WMV;
+Rye Bread Fruit Bush*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

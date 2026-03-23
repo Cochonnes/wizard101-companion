@@ -1,0 +1,189 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 2,560
+| crecla = Draconian
+| school = Ice
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Burning Hate;
+
+| world = Dragonspyre
+| location = Plaza of Conquests
+| subloc1 = Sysiphan's Tower
+| descrip =
+
+| speech =
+:''"What'sss thisss? Did sssomeone order roomssserviccce? Thisss one looksss tasssty!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+All this battling the humans, their ghosts, their recruits - it' like he's just pushing a rock uphill.
+
+| extract class =
+Draconians;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip.
+
+| casts =
+Tower Shield;
+Stun Block;
+Weakness;
+Iceblade;
+Ice Trap;
+Ice Prism;
+Frost Beetle;
+Snow Serpent;
+Ice Elf (30+210);
+Evil Snowman;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Icezilla (650-730);
+Colossus;
+Troll;
+Vampire;
+
+| quests = 
+Battle On;
+
+| gold =
+97 - 112;
+
+| hats =
+Bonfire Headdress;
+Cap of Chronicles;
+Cap of Constitution;
+Cowl of the Glacier;
+Equalizer's Coif;
+Halcyon Hood;
+Hood of the Vigilant;
+Mantle of the Icicle;
+Mantle of the Undying*F2*WMV;
+Mythological Mantle;
+Sysiphan's Mighty Mantle*F3;
+Triton's Topper;
+Veil of Fire;
+Veil of Leaves;
+
+| robes =
+Arbiter's Raiment*F2;
+Cloak of the Djinni*F2*WMV;
+Drape of Symmetry*F3*WMV;
+Fiery Tunic;
+Robe of Radiance;
+Salamander's Wrap*F5*WMV;
+Smock of the Frost Giant*F2;
+Sysiphan's Regal Raiment*F2;
+Terminus Wrap;
+Verdant Vestment;
+
+| boots =
+Ashen Footwraps;
+Dragonclaw Boots;
+Sandals of Lost Aeons;
+Sandals of the Squall;
+Shoes of Gloom;
+Slippers of the Ice Flow*F2;
+Sysiphan's Benevolent Boots*F3;
+
+| athames =
+Athame of Perserverance*F2;
+Athame of the Volcano*F3*WMV;
+Dragon's Eye Dagger;
+
+| amulets =
+
+| rings =
+Dragonscale Ring*F2;
+Ring of Equilibrium*F2;
+Ring of the Forefathers;
+
+| wands =
+
+| decks =
+Deck of Last Departure;
+
+| items =
+Long Corner Wall Ruins;
+Purple Stone Obelisk;
+Scarab Obelisk;
+Short Corner Wall Ruins;
+Singed Magic Book*F2;
+
+| cards =
+Dragonflies;
+
+| reagents =
+Ectoplasm*F4;
+Leather Straps*F3;
+Nickel*F4;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F2*WMV;
+Goat Cheese;
+Golden Grapes*F2;
+Gummy Humongofrog*F2*WMV;
+King Banana*F2;
+
+| jewels =
+Adroit Opal;
+Balefrost Sapphire;
+Blemished Health Opal +42;
+Centaur Jade;
+Donate Power Citrine;
+Doom and Gloom Onyx;
+Dull Critical Jade +2;
+Dull Critical Onyx +2;
+Dull Defense Onyx +25;
+Dull Defense Peridot +25;
+Dull Defense Ruby +25;
+Dull Mana Opal +22;
+Life-Giver Jade;
+Phoenix Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

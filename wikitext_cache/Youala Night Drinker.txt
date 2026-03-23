@@ -1,0 +1,120 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 18,800
+| crecla = Tritop
+| crecla2 = Undead
+| crecla3 = Dino
+| school = Ice
+| startpips = 6
+| powerpips = Yes
+| critical =
+61 Any;
+
+| criticalblock =
+89 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Azteca
+| location = Xibalba
+| descrip =
+Youala Night Drinker is a Minion to {{Link|Creature|Malistaire the Undying}} in {{Link|Location|Xibalba}}, the final Dungeon of {{Link|Location|Azteca}}. All drops should be recorded on Malistaire's page.
+
+'''Retired Monstrology Description:'''
+:Vehemently opposed to day drinking, they're known for sipping several glasses of warm milk throughout the night.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Extinction? Bah, it doesn't know the meaning of the word.
+
+| extract class =
+Dinos;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| casts =
+Fortify;
+Infallible;
+Volcanic Shield;
+Legion Shield;
+Iceblade;
+Ice Trap;
+Balefrost;
+Natural Attack (Ice 200-400-600);
+Frostbite (80+549);
+Frost Demon;
+Frost Giant;
+Frost Dragon (7 Pip);
+Lord of Winter;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

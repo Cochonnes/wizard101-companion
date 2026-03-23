@@ -1,0 +1,145 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 16,600
+| crecla = Mantis
+| school = Balance
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Khrysalis
+| location = Sardonyx
+| subloc1 = Zharellia's House
+| descrip =
+This Creature is not repeatable.
+
+| speech =
+:"''Yes?  Make it quick.  What's that?  Not join the Umbra Legion?  You sound like my mother!  Wait a second... I bet you're one of those vile Fifth Column rebel spies, aren't you?  Turning you in would gain me much favor with the Umbra Legion.  Surrender, you rebel scum!"''
+
+| spellnotes =
+ 
+| casts =
+Infallible;
+Vengeance;
+Black Mantle;
+Availing Hands (85+870);
+Balanceblade;
+Hex;
+Mana Burn (-4 Pips);
+Natural Attack (Balance 160-255-350);
+Samoorai;
+Power Nova;
+Sabertooth;
+Judgement;
+
+| quests = 
+Stop 'Em Before They Start;
+
+| gold =
+60 - 72;
+
+| hats =
+
+| robes =
+Mantis Robe of Secrecy*F2;
+
+| boots =
+Burrower Scout's Hoppers*F2*WMV;
+Flame Legs Captain's Boots*F3*WMV;
+
+| athames =
+Blue Razor Hailstone Blade;
+Hisser's Burning Cleaver;
+
+| amulets =
+Benzzi's Campaign Memento;
+Collar of the Besieged*F2;
+Mantis Prophet's Ornament;
+
+| rings =
+
+| wands =
+
+| decks =
+Bumbler's Sleetfall Pack;
+Case of Engulfing Flames;
+House of the Old Times;
+
+| items =
+Khrysalis Desert Shadows Theme;
+Khrysalis Hive Combat Theme*F2;
+
+| cards =
+Avenging Fossil;
+Clockwork Spider;
+Cycle of Life;
+Doom and Gloom;
+Galvanic Field;
+Legendary Treant (445);
+Locust Swarm;
+O'Leary Swindler;
+Polar Swarm;
+Storm Owl;
+Wildfire Treant;
+
+| reagents =
+Astral Shard*F3;
+Black Lotus*F2;
+Black Pearl;
+Bone*F2*WMV;
+Bronze Gear;
+Copper;
+Deep Mushroom;
+Fire Blossom;
+Iron;
+Mist Wood*F2*WMV;
+Nickel;
+Ore*F2*WMV;
+Stone Block;
+Sunstone;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Dr. Jalapeno;
+Glowing Dragon Fruit;
+Honeycrisp Apples;
+HoneyDon't Melon;
+
+| jewels =
+Dark Sprite Onyx;
+Thunder Snake Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+
+| mounts =
+
+| spells =
+
+}}

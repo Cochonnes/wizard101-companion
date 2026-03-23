@@ -1,0 +1,95 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 2,130
+| crecla = Samoorai
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Midnight Sun Pagoda
+| subloc1 = 
+| descrip =
+Takazane is considered a Minion to [[Creature:Yoshinobu (Tier 3)|Yoshinobu]].  All drops should be recorded on Yoshinobu's page.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 90 Life Damage for 1 Pip
+
+| casts =
+Death Shield;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Giant Spider;
+Lifeclops;
+Seraph;
+Earth Walker;
+Centaur;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

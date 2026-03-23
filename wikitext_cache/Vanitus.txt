@@ -1,0 +1,281 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 11,340
+| crecla = Nimbari
+| school = Star
+| masteries =
+Fire;
+Ice;
+Storm;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+246 Any;
+
+| criticalblock =
+237 Any;
+
+| outpierce =
+27%;
+
+| outboost =
+110%;
+
+| incboost =
+5% Myth;
+
+| incresist =
+65% Ice;
+70% Fire, Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| summons =
+Justicon (Storm);
+
+| world = Empyrea
+| location = Nimbus Citadel
+| subloc1 = Private Wing
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"Help! Save Me!"'' - If a Wizard is late to join the duel, Vanitus casts Beguile (Star) that lasts three Rounds on the Wizard, and casts a Star Spell to Summon one additional Justicon (Storm). Cannot summon more than three Minions.
+*{{Icon|Minion}}''"Servants!"'' - Starting on Round 2, he casts a Star Spell which summons [[Creature:Justicon (Storm)|Justicons]].
+*{{Icon|Damage}} ''"Justicons! Defend me!"'' - If attacked, he will casts a Star version of {{Link|Spell|Steal Health}} without the Heal, to remove all Health on one of his summoned Minions.
+*{{Icon|Round}} ''"I Surrender!"'' - Starting on Round 2, if the Boss is attacked without any Minions present, he will interrupt-cast a Spell that defeats himself.
+
+| spellnotes =
+*Casts an Aegis-protected Elemental Blade.
+*Casts +30% Mass Hex.
+'''Natural Attack:'''
+*Deals 420 Star Damage for 4 Pips maximum.
+
+| casts =
+Brace;
+Magnify;
+Elemental Blade;
+Hex;
+Elemental Trap;
+Natural Attack (Star 105-210-315);
+Scorching Scimitars;
+Meteor Strike;
+Fire Dragon;
+Frostbite;
+Frost Giant;
+Snowball Barrage;
+Glowbug Squall;
+Tempest;
+Crow (Shadow);
+
+| quests =
+The Only Thing to Fear...;
+
+| gold =
+95 - 315;
+
+| hats =
+
+| robes =
+Chill Kalamar Tunic*F2;
+Choice Kalamar Tunic;
+Freezing Zanadu Armor;
+Gnarly Kalamar Tunic*F4*WMV;
+Grim Zanadu Armor*F2;
+Heavy Kalamar Tunic;
+Illuminated Zanadu Armor;
+Mondo Kalamar Tunic*F4*WMV;
+Rad Kalamar Tunic*F4;
+Righteous Kalamar Tunic*F3*WMV;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Crackling Zanadu Deck;
+Freezing Zanadu Deck;
+Hopeful Zanadu Deck;
+Verdant Zanadu Deck*F2*WMV;
+
+| items =
+Aero Dwarf Blue Vase;
+Empyrea Chaos Jungle Theme;
+Empyrea Husk Storm Combat;
+Kalamar Side Table*F2*WMV;
+Nimbari Chair;
+Nimbari Sword Rack;
+Wide Kalamar Vase;
+
+| cards =
+Chinook Genie;
+Cyclops;
+Darkwind;
+Death Prism;
+Elemental Shield;
+Fable Lord;
+Ice Prism;
+Icespear*F3*WMV;
+Kraken;
+Life Prism;
+Lifespear*F2;
+Lord of the Squall*F2;
+Mass Ice Prism;
+Mega Soothe;
+Mutate Beetle (Fire);
+Mutate Kraken (Fire);
+Mutate Phoenix (Ice);
+Myth Prism*F2*WMV;
+Mythspear;
+Oni No Jade;
+Oni No Plague;
+Storm Prism*F2;
+Stormspear;
+Time of Legend;
+
+| reagents =
+Aether;
+Agave Leaves*F2*WMV;
+Amber Dust*F5;
+Ancient Scroll*F3*WMV;
+Antique Coins*F4*WMV;
+Aquamarine*F6*WMV;
+Astral Shard*F2*WMV;
+Black Pearl*F4*WMV;
+Blood Moss*F2;
+Braided Vine;
+Brass*F2;
+Bronze Gear*F2;
+Draconium*F2;
+Ectoplasm*F7*WMV;
+Fire Blossom*F3;
+Fish Fin*F6*WMV;
+Flying Squid Ink*F4;
+Glass Sliver;
+Golden Pearl;
+Merle's Whisker;
+Mithril*F4*WMV;
+Nickel;
+Scales*F6*WMV;
+Silver*F6*WMV;
+Spider Silk;
+Spring*F2*WMV;
+Stardust;
+Steel*F3*WMV;
+Sunstone*F6*WMV;
+Tin*F3*WMV;
+Titanium*F3;
+Tungsten*F4*WMV;
+Turquoise*F2*WMV;
+Vine;
+
+| spellements =
+
+| snacks =
+Athame Pop;
+Aztecan Hot Chocolate;
+BBQ Drumstick;
+Beast Wellington*F4;
+Berry Poundcake;
+Cherry Pie;
+Dastardly Radish*F2*WMV;
+Discord Grape Jelly*F3*WMV;
+Drumstick;
+Eye Candy*F5*WMV;
+Fetid Legumes*F2;
+Gator Tots;
+Glowing Taffy*F4*WMV;
+Gummy Humongofrog*F2;
+Hero Sandwich*F2;
+Hot Cross Buns*F4*WMV;
+Jolly Rancher;
+Lemon Daisy;
+Pineapple Spears;
+Pizza*F5*WMV;
+Redskin Peanut*F2;
+Rock and Roll Candy*F3*WMV;
+Salmon Joy;
+Satyr Chow*F2*WMV;
+Sprinkle Cupcake*F6*WMV;
+Squash;
+Super Cold Popsicle;
+Taco;
+Taco Town Special;
+Wheat Cracker;
+
+| jewels =
+Shiny Accurate Amethyst +12%*F2*WMV;
+Shiny Accurate Sapphire +12%*F2;
+Shiny Critical Jade +15*F2*WMV;
+Shiny Critical Onyx +15;
+Shiny Damage Amethyst +25;
+Shiny Damage Onyx +25;
+Shiny Defense Amethyst +50;
+Shiny Defense Jade +50;
+Shiny Defense Onyx +50;
+Shiny Mana Opal +46;
+Sparkling Blocking Jade +18;
+Sparkling Damage Onyx +28;
+Sparkling Damage Ruby +28;
+Sparkling Defense Amethyst +55;
+Sparkling Defense Opal +28;
+Sparkling Health Opal +124;
+Sparkling Health Opal +125;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears*F2;
+Baby Carrots;
+Bamboo Shoots;
+Blue Huckleberries;
+Boiled Peanuts*F2;
+Boon Tree*CR;
+Bread Fruit Bush;
+Clockwork Flower;
+Cornbread Fruit Bush*F2;
+Face Palm;
+Fish on a Vine;
+Fortune Cookie Tree;
+Ivy League*CR;
+Key Limes*CR;
+Maelstrom Snap Dragon*F2;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Ninja Fig*CR;
+Orange Bell Pepper;
+Pink Huckleberries;
+Red Couch Potatoes;
+Red Grapes of Wrath;
+Red Huckleberries*F2;
+Sugar Khrystal*CR;
+Ultra Alligator Pear Tree;
+Ultra Snap Dragon;
+Ultra Snow Apples;
+White Laugh-O-Dil;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

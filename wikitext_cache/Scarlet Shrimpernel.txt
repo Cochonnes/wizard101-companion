@@ -1,0 +1,189 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 8,705 
+| crecla = Prawn 
+| school = Fire
+| school2 = Myth
+| startpips = 5 
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+23%;
+
+| outboost =
+115%;
+
+| incboost =
+5% Ice;
+30% Storm;
+
+| incresist =
+30% Myth;
+70% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Khrysalis
+| location = Bastion
+| subloc1 = Shrimpernel's Hideout
+| descrip =
+Scarlet Shrimpernel's Minions can be any combination of {{Link|Creature|Arachna Soldier (Death)}}, {{Link|Creature|Arachna Soldier (Fire)}}, {{Link|Creature|Arachna Soldier (Shadow)}}, and {{Link|Creature|Arachna Soldier (Storm)}}.
+
+| speech =
+
+:'''Scarlet Shrimpernel:''' ''"Well, well. Look what the rat dragged in: the Divine Paradox. Before you, the Cabal had purpose, unity, a dream: to restore the First World. But now we're fragmented, disjointed, scraping for lost power, and forced to kowtow to one whose ambitions would destroy all that we are. Oh, you haven't heard? A new leader has emerged on Spider's wake, an Old One, ever watching, ever waiting. He has such plans for you. He will-"''
+
+:'''Dyvim WhiteHart:''' ''"Ugh, enough talk, you malodorous monster. To battle! Kiai!"''
+
+| spellnotes =
+*Casts a Mass version of Fire Trap (+25%).
+
+| casts =
+Glacial Shield;
+Fireblade;
+Fire Trap;
+Steal Charm;
+Stun;
+Power Link;
+Natural Attack (Fire 120-240-360-480);
+Immolate;
+Fire Dragon;
+Natural Attack (Myth 115-230-345-460);
+Minotaur;
+Orthrus;
+
+| quests =
+Prawn to King's Fourth;
+How Shellfish;
+
+| gold =
+174 - 351;
+
+| hats =
+Producer's Insulated Hood;
+
+| robes =
+
+| boots =
+Consultant Pressure Boots;
+
+| athames =
+Executive Thermal Knife;
+
+| amulets =
+Executive Cryo Rope;
+
+| rings =
+Contractor Survival Ring;
+
+| wands =
+Contractor Pressure Meter;
+Executive Biohazard Meter;
+Specialist Insulated Meter;
+
+| decks =
+
+| items =
+Karamelle Barrel;
+Karamelle Forest Combat Theme;
+Karamelle Jingle Theme;
+Licorice Tree;
+
+| cards =
+Berserk;
+Dream Shield;
+Flute Symphony;
+Galvanic Field;
+Mass Death Prism;
+Mass Myth Prism;
+Pest Zapper*F2*WMV;
+Putrid Bug Spray;
+
+| reagents =
+Aether;
+Agave Leaves;
+Agave Nectar;
+Amber;
+Amber Dust;
+Astral Shard;
+Brass;
+Bronze Gear*F3;
+Cobalt;
+Fire Blossom;
+Karamelle Chunk*F2;
+Nickel;
+Orichalcum;
+Scales*F3*WMV;
+Spider Silk*F3*WMV;
+Stardust;
+Sunstone;
+Tin;
+Titanium*F2*WMV;
+Toffee Bean*F2*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington;
+Eye Candy;
+Glowing Taffy*F2*WMV;
+Hot Cross Buns;
+Rock and Roll Candy*F2;
+Satyr Chow;
+Sprinkle Cupcake*F2*WMV;
+Veggie Juice*F2;
+Waterworks Wonton;
+
+| jewels =
+Shiny Blocking Citrine +15;
+Shiny Blocking Peridot +15;
+Shiny Critical Sapphire +15;
+Shiny Defense Onyx +50;
+Shiny Health Opal +112;
+Sparkling Damage Onyx +27;
+Sparkling Defense Citrine +54*F2;
+Sparkling Defense Opal +27;
+Sparkling Defense Peridot +53;
+Sparkling Health Opal +119;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Bell Pepper*F2;
+Blue Huckleberries*F2;
+Boiled Peanuts*F2*WMV;
+Bread Fruit Bush;
+Clockwork Flower;
+Cornbread Fruit Bush*F2;
+Evil Magma Peas*CR;
+Fiery Boom Shroom;
+Fish on a Vine;
+Grapes of Wrath*CR*F2*WMV;
+Ivy League*CR;
+Maelstrom Snap Dragon;
+Pink Huckleberries;
+Purple Grapes of Wrath;
+Red Huckleberries;
+Tiger Lily (Seed);
+Trumpet Vine*F2*WMV;
+Ultra Boom Shroom;
+Ultra Dandelion;
+
+| mounts =
+
+| spells =
+
+}}

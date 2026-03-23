@@ -1,0 +1,269 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 5,600
+| crecla = Mongu
+| school = Storm
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+7%;
+
+| outboost =
+60%;
+
+| incboost =
+15% Myth;
+
+| incresist =
+25% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Mirage
+| location = Rubal Wastes
+| subloc1 = Mongu Refuge
+| descrip =
+Ricky is one of three Mongu warrior brothers encountered in the Rubal Wastes - the others being {{Link|Creature|Tiki}} and {{Link|Creature|Taffy}}. Ricky is the youngest of the three brothers.
+
+| speech =
+:''"Who dares enter the Refuge of the Mongu Warriors? Ah, of course! It's an Outsider from another world. Otherwise, you would know better. I am sorry to tell you, however, that your ignorance will not afford you a free pass. Allowing trespassers would destroy our credibility. No, I'm afraid that, like so many who came before, you must give me an opportunity to freshen up my combat skills. En garde!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Cheater!"'' - If a Wizard joins the duel after it has already begun, then Ricky will interrupt-cast {{Link|Spell|Healing Current}} on himself three times in a row, healing for 100, 400, and 1,000 from each respective cast.
+*{{Icon|Blade}} ''"Nice try!"'' - If a Wizard casts a [[:Category:Blade Spells|Blade]] Spell, then Ricky will interrupt-cast {{Link|Spell|Steal Charm}} on the Wizard that received the Blade.
+**If a triple Blade Spell is cast, then only the last part of the Blade will be removed (Fire for {{Link|Spell|Elemental Blade}}s and Life for {{Link|Spell|Spirit Blade}}s).
+**If an all allies Blade Spell is cast, then Ricky will only interrupt-cast Steal Charm on the caster.
+**{{Link|Spell|Supercharge}} does not trigger this cheat.
+
+| spellnotes =
+*Uses Pip Conversion
+
+| casts =
+Flawless;
+Thermic Shield (-75%);
+Stormspear (+10%);
+Healing Current (325);
+Stormblade (+30%);
+Windstorm (+25%);
+Cleanse Charm;
+Lightning Bats (285-325);
+Queen Calypso;
+Natural Attack (Storm 125-250-375, 65%);
+Stormzilla (755-835);
+Storm Lord (775);
+Sirens (965);
+Storm Owl;
+Tempest (85);
+
+| quests =
+Mission Impossible (Mirage);
+
+| gold =
+264 - 346;
+
+| hats =
+Sand Sea Cowl of Hardiness;
+Sand Sea Cowl of Havoc*F2;
+
+| robes =
+Sand Sea Outfit of Emptiness;
+Zruvan Raiment of Amity;
+
+| boots =
+Vizier's Shoes of Smolders;
+Zruvan Galesh of Acumen;
+Zruvan Galesh of Amity;
+Zruvan Galesh of Rigor;
+
+| athames =
+Sand Sea Dagger of Accord;
+Sand Sea Dagger of Bolts;
+Sand Sea Dagger of Curiosity;
+Sand Sea Dagger of Decorum;
+Sand Sea Dagger of Emptiness;
+
+| amulets =
+Kobra Choker of Amity;
+Kobra Choker of Demise;
+Kobra Choker of Flashfloods;
+Kobra Choker of Fury;
+
+| rings =
+Sand Sea Ring of Accord*F2;
+Sand Sea Ring of Ardor;
+Sand Sea Ring of Blusters;
+Sand Sea Ring of Bolts;
+Sand Sea Ring of Emptiness;
+
+| wands =
+Durvish Armaments of Unrest*F2;
+Hardy Rubal Bow;
+Rubal Bow of Eradication*F2;
+Rubal Bow of Illusions;
+Rubal Sleetfall Bow;
+Wiley Durvish Armaments*F2*WMV;
+
+| decks =
+Hand of Kobra Acumen;
+Kobra Hand of Rigor;
+Sand Sea Hand of Emptiness;
+Sand Sea Hand of Hardiness;
+
+| items =
+
+| cards =
+Age of Reckoning;
+Ashen Bones;
+Astraphobia;
+Combustion;
+Counterforce;
+Frostfang;
+Katabatic Wind;
+Nested Fury;
+Raging Bull;
+Rusalka's Wrath;
+Saga of Heroes;
+Snowball Barrage;
+Winged Sorrow;
+Wings of Fate;
+
+| reagents =
+Aether*F4*WMV;
+Agave Leaves*F3*WMV;
+Agave Nectar;
+Amber;
+Amber Dust*F5*WMV;
+Aquamarine*F3*WMV;
+Astral Shard*F2*;
+Braided Vine*F2*WMV;
+Draconium;
+Fire Blossom*F5*WMV;
+Golden Pearl*F6*WMV;
+Iridium*F2;
+Merle's Whisker;
+Mithril*F3*WMV;
+Orichalcum*F2*WMV;
+Scales*F2;
+Silver;
+Steel*F3;
+Sunstone*F4*WMV;
+Titanium*F4;
+Tungsten*F2*WMV;
+Turmeric;
+Turquoise*F5*WMV;
+Vine*F2;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F2;
+Beetle Cream Soda;
+Chalupacabra;
+Hard Boiled Beetle Eggs;
+Hot Cross Buns;
+Mustachios*F2*WMV;
+Satyr Chow;
+Ships 'n' Queso;
+Veggie Juice;
+
+| jewels =
+Epic Opal;
+Radical Opal;
+Shiny Blocking Amethyst +16;
+Shiny Blocking Citrine +15;
+Shiny Blocking Citrine +16;
+Shiny Blocking Hematite +16;
+Shiny Blocking Jade +16;
+Shiny Blocking Sapphire +16;
+Shiny Critical Jade +16;
+Shiny Critical Onyx +15;
+Shiny Critical Onyx +16;
+Shiny Critical Ruby +16;
+Shiny Damage Amethyst +26;
+Shiny Damage Citrine +26;
+Shiny Defense Hematite +52*F2*WMV;
+Shiny Defense Jade +52;
+Shiny Defense Onyx +50;
+Shiny Defense Onyx +52;
+Shiny Defense Peridot +52;
+Shiny Health Opal +111;
+Shiny Health Opal +112;
+Shiny Health Opal +113;
+Shiny Health Opal +114;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak;
+Angora Bunny Ears*F2;
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper;
+Blue Huckleberries*F2;
+Boiled Peanuts;
+Bread Fruit Bush;
+Clockwork Flower;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Dandelion;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Evil Magma Peas*CR*F2;
+Face Palm*F2;
+Fickle Pickle;
+Fiery Boom Shroom;
+Fish on a Vine;
+Goose Tree*F2*WMV;
+Grapes of Wrath*CR;
+Helephant Ears*F2*WMV;
+Ivy League*CR;
+Key Limes*CR;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Moon Flower;
+Ninja Fig*CR;
+Orange Bell Pepper*CR;
+Orange Dandelion;
+Pink Huckleberries;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus;
+Purple Snow Apples;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Red Couch Potatoes;
+Red Grapes of Wrath*F2*WMV;
+Red Huckleberries;
+Saw Palmetto;
+Silver Trumpet Vine*CR;
+Snap Dragon;
+Snow Apples;
+Sugar Khrystal*CR;
+White Laugh-O-Dil;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

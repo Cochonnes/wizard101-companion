@@ -1,0 +1,182 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 7,360
+| crecla = Jackal
+| school = Balance
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+25% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Jackal Bandit;
+Jackal Bandit;
+
+| world = Zafaria
+| location = Zamunda Outskirts
+| subloc1 = Jungle Clearing (The Green Mile)
+| descrip =
+Life Wizards must defeat Razorjack in his Jungle Clearing for the Level 78 Pet Quest "The Green Mile".  He is guarding the Gnome Plant.
+*This Boss can be defeated multiple times by leaving and re-entering the instance. Otherwise, he is repeatable only by teleporting to a Wizard who has the proper Quest.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Conviction;
+Vengeance;
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Natural Attack (Balance 85-180-275);
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Ra;
+Judgement;
+
+| quests =
+The Green Mile;
+
+| gold =
+112 - 139;
+
+| hats =
+Champion of Order's Icy Helm*F4*WMV;
+Chaos Knight's Blazing Helm*F2;
+Fire Valley Headdress*F2;
+
+| robes =
+Cold River Cloak;
+Fire-Spitter Robes*F3*WMV;
+Outsider's Symmetrical Jacket;
+Shaman's Storm Sky Cloak;
+Winter Wyrm's Cloak;
+
+| boots =
+Courageous Knight's Boots*F2*WMV;
+Noble Knight's Boots*F5*WMV;
+
+| athames =
+Badger's Claw;
+
+| amulets =
+Druid's Amulet of Courage*F2*WMV;
+Pendant of Armiger's Tenacity*F2;
+
+| rings =
+Aryanah's Golden Loop;
+Toasty Band of the Fire Elves;
+Vir's Zafarite Stone;
+
+| wands =
+Bludgeon of Confidence*F3*WMV;
+Highland Shillelagh*F2*WMV;
+
+| decks =
+Clockwork Deck*F7*WMV;
+
+| items =
+Avalon Main Theme;
+Stone Skeleton Key*CR;
+
+| cards =
+Availing Hands*F2*WMV;
+Black Mantle*F2;
+Bladestorm*F4*WMV;
+Efreet;
+Elemental Defuse*F4*WMV;
+Frost Giant;
+Gargantuan*F3;
+Helping Hands*F3*WMV;
+Hex*F3*WMV;
+Keen Eyes;
+Spirit Defuse;
+Spirit Shield*F4*WMV;
+Storm Lord;
+Strong;
+
+| reagents =
+Black Lotus*F2;
+Bronze;
+Cat Tail*F2;
+Cobalt*F2;
+Deep Mushroom*F5*WMV;
+Frost Flower*F2*WMV;
+Lava Lily;
+Mist Wood*F2*WMV;
+Nickel;
+Ore*F2;
+Parchment*F2*WMV;
+Pearl*F2;
+Red Mandrake*F2;
+Shell*F2*WMV;
+Spider Silk*F3*WMV;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Bogwich*F2*WMV;
+Delicious Cookie;
+Flaming Soup*F2*WMV;
+Flapjacks;
+Glowing Star Fruit;
+Goat Cheese*F2;
+Golden Apple;
+Golden Grapes*F2;
+Gummy Wyrms;
+King Banana*F2;
+Kola Nuts;
+Pigeon Pie;
+Spicy Drumstick;
+Strawberry Cupcake;
+Submarine Sandwich;
+Treant Bark;
+
+| jewels =
+Plain Accurate Peridot +7%;
+Plain Accurate Ruby +7%;
+Plain Defense Amethyst +31;
+Weakenizer Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Evil Magma Peas*CR;
+Pink Huckleberries;
+Red Huckleberries;
+Silver Trumpet Vine*CR;
+Snap Dragon;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,116 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 7,740
+| crecla = Krokotopian
+| school = Fire
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Fire;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Storm, Life;
+
+| incresist =
+30% Ice, Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Dragonspyre
+| location = The Atheneum
+| subloc1 = Corruptor's Den
+| descrip =
+*Defeating Adherent of the Fang is part of the Apprentice Death Weaving quest, ''"Becoming Nethellnax"''. Wizards can also defeat Adherent of the Fang as one of their Death Weaving lessons, which awards the badge, [[Basic:Death Weaving Badges|Fighter of the Fang]].
+
+| speech =
+:'''Nethellnax:''' ''"Ah, there you are, the Corruptor we seek."''
+
+:'''Adherent of the Fang:''' ''"Is that what I'm doing? Ha! The Order of the Fang does not corrupt magic; we improve it, weave it to make new schools."''
+
+:'''Nethellnax:''' ''"You think you serve the Order of the Fang?"''
+
+:'''Adherent of the Fang:''' ''"Well, read works of the Order of the Fang."''
+
+:'''Nethellnax:''' ''"Fool. We are here for the Order. Your magic, your experiments, your discoveries belong to us."''
+
+:'''Adherent of the Fang:''' ''"The Order of the Fang died out long ago. Like you, Nethellnax, Icon of Death. I will certainly not share my discoveries with the likes of you!"''
+
+| spellnotes =
+
+| casts =
+Sprite;
+Regenerate;
+Fire Trap;
+Fuel;
+Pressure Cooker;
+Fire Elf (Tier 5b);
+Krampus (Tier 3b);
+Whitehart Fire (Tier 2a);
+Inferno Salamander (Tier 5a);
+
+| quests =
+Becoming Nethellnax;
+The Most Hated Man in Dragonspyre;
+
+| gold =
+11 - 35;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Draconian Gold Idol (Death)*F3;
+Weft Yarn @ 60 Weft Yarn;
+Weft Yarn @ 65 Weft Yarn;
+Weft Yarn @ 70 Weft Yarn;
+Weft Yarn @ 100 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

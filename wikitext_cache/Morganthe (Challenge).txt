@@ -1,0 +1,142 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 48,880
+| crecla = Wizard
+| school = Shadow
+| cheats = Yes
+| shadowslots = 7
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+29%;
+
+| outboost =
+70%;
+
+| incboost =
+None;
+
+| incresist =
+19% Shadow;
+300% Fire, Ice, Storm, Myth, Life, Death, Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Morganthe Rematch
+| subloc1 = 
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the Standard version of this battle, see {{Link|Creature|Morganthe (Standard)}}.
+
+'''Advanced Combat Rules:'''
+*Wizards stats and spells are scaled to Level 100.
+*Spell Decks cannot be changed while in this instance.
+*No-PvP spells are disallowed in this fight.
+*PvP-Only Spells are allowed in this fight.
+*Wizards cannot re-join combat after fleeing mid-combat.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Spell}} ''"Feed the Darkness"'':
+**At the beginning of the first Round, Morganthe will give all Wizards two Shadow Empower cards:
+**{{GivesSpell|spells = 1|size = x150px|Shadow Empower}}
+**At the beginning of the second Round, Morganthe will give all Wizards two Dark Nova cards:
+**{{GivesSpell|spells = 1|size = x150px|Dark Nova (Given)}}
+*{{Icon|Damage}} ''"Submit to Shadow"'' - At the end of every Round, Morganthe will cast a Shadow Natural Attack that deals 300 Shadow Damage or 600 Shadow Damage per Shadow Pip to all enemies.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Shadowspear;
+Shadowblade;
+Shadow Trap;
+Mass Hex;
+
+| quests =
+
+| dropnotes =
+This Boss will always drop the following:
+*{{Icon|Robe}} 1-2 Umbra Queen Hats or Robes
+*{{Icon|Reagent}} 12 Shadow Webbing
+*{{Icon|Spellement}} 16-17 groups of King Artorius Spellements
+*{{Icon|Treasure Card}} 12-13 Azoth Treasure Cards
+
+| gold =
+
+| hats =
+Umbra Queen's Chill Crown (Level 170+);
+Umbra Queen's Dusty Crown (Level 170+);
+Umbra Queen's Furious Crown (Level 170+);
+Umbra Queen's Grim Crown (Level 170+);
+Umbra Queen's Scorched Crown (Level 170+)*F2*WMV;
+Umbra Queen's Shocked Crown (Level 170+);
+Umbra Queen's Wild Crown (Level 170+);
+
+| robes =
+Umbra Queen's Chill Garment (Level 170+)*F2*WMV;
+Umbra Queen's Dusty Garment (Level 170+)*F2*WMV;
+Umbra Queen's Furious Garment (Level 170+);
+Umbra Queen's Grim Garment (Level 170+);
+Umbra Queen's Scorched Garment (Level 170+);
+Umbra Queen's Shocked Garment (Level 170+);
+Umbra Queen's Wild Garment (Level 170+);
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth*F7*WMV;
+
+| reagents =
+Shadow Webbing @ 12 Shadow Webbing*F7*WMV;
+
+| spellements =
+King Artorius (Balance) @ 2 King Artorius (Balance)*F7*WMV;
+King Artorius (Death) @ 2 King Artorius (Death)*F7*WMV;
+King Artorius (Fire) @ 2 King Artorius (Fire)*F7*WMV;
+King Artorius (Ice) @ 2 King Artorius (Ice)*F7*WMV;
+King Artorius (Life) @ 2 King Artorius (Life)*F7*WMV;
+King Artorius (Myth) @ 2 King Artorius (Myth)*F7*WMV;
+King Artorius (Storm) @ 2 King Artorius (Storm)*F7*WMV;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Morganthe (Standard)
+}}

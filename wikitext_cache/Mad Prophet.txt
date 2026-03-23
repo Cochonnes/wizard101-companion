@@ -1,0 +1,123 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 7,270
+| crecla = Parrot
+| school = Death
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+36 Any;
+
+| criticalblock =
+34 Any;
+
+| outpierce =
+6%;
+
+| outboost =
+38%;
+
+| incboost =
+9% Ice, Myth;
+
+| incresist =
+13% Fire, Death, Balance, Sun, Moon, Star, Shadow;
+43% Storm, Life;
+
+| outhealing =
+1%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Avian Citizen;
+
+| world = Azteca
+| location = Three Points
+| subloc1 = Heinous Shrine
+| descrip =
+
+| speech =
+'''Mad Prophet:'''
+:"Behold, friends, the rock that reveals the past and the future, secrets long frozen and hurdled through the sky. Now they thaw, now they speak. Say them with me: "Vermis mundum devorat!"
+
+'''Avian Citizen:'''
+:"Vermis mundum devorat!"
+
+'''Aztecosaur Citizen:'''
+:"Vermis mundum devorat!"
+
+'''Jaguar Citizen:'''
+:"Vermis mundum devorat?" Eh, if you say so.
+
+'''Mad Prophet:'''
+:"Now you, stranger in the back, now you too must say the words or all you know will be consumed. SAY THEM! Silence. The cry of the coward too weak to resist, too afraid to fight. You would drag us into the gullet with you. But I won't let you. We will convert your weakness into our salvation. You will be sacrificed that we may be spared!"
+
+| cheatnotes =
+*{{Icon|Curse}} ''"Your weakness is our salvation!"'' - At the beginning of every Round, Mad Prophet will interrupt-cast {{Link|Spell|Virulent Plague}}.
+*{{Icon|Healing}} If Mad Prophet is defeated while his Virulent Plague cheat is still active, he will revive with full Health.
+*{{Icon|Spell}} ''"As long as you are weak, we shall survive!"'' - At the end of the 3rd Round, and after Mad Prophet revives, he will give each Wizard the following Spell:
+**{{GivesSpell|cards=1|size=x150px|Evil Snowman (Tier 2b)}}
+*{{Icon|Ice}} ''"You defy prophecy!"'' - If Evil Snowman (Tier 2b) is used, Mad Prophet will remove all negative Charms and stop his Virulent Plague cheat.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Deathblade;
+Death Trap;
+Feint;
+Death Scarab (Death);
+Scarecrow;
+Dr. Von's Monster;
+Avenging Fossil;
+
+| quests =
+Ice, Ice Crazy;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

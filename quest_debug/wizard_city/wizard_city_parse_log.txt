@@ -1,0 +1,56 @@
+PARSE LOG — Wizard City
+============================================================
+
+AREA    : Wizard101
+AREA    : W101 Quest Guides
+AREA    : Wizard City Main Quest Line
+AREA    : Wizard City Main Quest Line
+AREA    : Giant Hunter
+AREA    : Unicorn Way
+QUEST#  1: Unicorn Way                              [explore + talk]
+QUEST#  2: Ghost Hunters                            [mob + talk]
+QUEST#  3: Skeleton Crew                            [mob + talk]
+QUEST#  4: Monsters and Mazes                       [explore + talk]
+QUEST#  5: Finding Out Why                          [interact + d&c + explore + talk]
+QUEST#  6: Who Could It Be Now?                     [talk]
+QUEST#  7: Sinister Skeleton                        [explore + boss + talk]
+QUEST#  8: Grim Tales                               [talk]
+QUEST#  9: To Ravenwood!                            [talk]
+QUEST# 10: Panic In Three Streets!                  [talk]
+QUEST# 11: Secret Strife of Pets                    [interact + explore + mob + talk]
+AREA    : Cyclops Lane
+QUEST# 12: A Good Day to Cyclops                    [explore + talk]
+QUEST# 13: A Stroll With Trolls                     [mob + talk]
+QUEST# 14: Run and Done                             [talk]
+AREA    : Talk 6x
+QUEST# 15: The Cave Escape                          [mob + explore + d&c + interact + talk]
+QUEST# 16: Oh Me, Oh Minotaur                       [mob + talk]
+QUEST# 17: Akilles’ Deal                            [explore + boss + interact + talk]
+AREA    : Firecat Alley
+QUEST# 18: Putting Out the Fire!                    [talk + mob]
+QUEST# 19: She Ran Crying Wildfire                  [talk + mob]
+QUEST# 20: Which Hunt?                              [talk + mob + d&c]
+QUEST# 21: 100% Not That Witch                      [d&c + talk + explore + boss]
+QUEST# 22: Which Craft?                             [talk + interact]
+QUEST# 23: The Cure                                 [explore + boss + talk]
+QUEST# 24: Firecat’s In the Bag                     [talk]
+AREA    : Triton Avenue
+QUEST# 25: Trouble on Triton Avenue                 [talk]
+QUEST# 26: Menacing Minions                         [mob + talk]
+QUEST# 27: The Shadow of Death Magic                [talk + d&c]
+QUEST# 28: Quest for Clues                          [d&c + talk]
+QUEST# 29: Catching a Glimpse                       [talk]
+QUEST# 30: Clear as Crystal                         [interact + d&c + talk + explore]
+QUEST# 31: Luminate                                 [talk]
+QUEST# 32: The Enemy Revealed                       [explore + boss + talk]
+QUEST# 33: To Tame a Tempest                        [talk + interact]
+QUEST# 34: Triton Report                            [talk]
+QUEST# 35: Calming the Chaos                        [talk]
+AREA    : Olde Town
+QUEST# 36: A Brief History of the Spiral            [talk + explore + boss]
+QUEST# 37: Throwing Nightshade                      [explore + boss + talk]
+QUEST# 38: Things and Stuff                         [d&c + talk]
+QUEST# 39: Take a Walk on the Nightside             [explore + talk]
+
+SUMMARY: 39 quests in 6 areas
+Stats: {'total_quests': 39, 'mob_fights': None, 'dc_quests': 8, 'boss_fights': None, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}

@@ -1,0 +1,157 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 6,000
+| crecla = Djinn
+| school = Myth
+| school2 = Balance
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+12%;
+
+| outboost =
+45%;
+
+| incboost =
+5% Life, Death;
+15% Storm;
+
+| incresist =
+25% Myth, Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Renegade Puppet;
+
+| world = Arcanum
+| location = Panopticon
+| subloc1 = Sand Sea
+| descrip =
+The Renegade Djinni guards the Sand Sea Door in the Sand Sea. He is the very first creature and boss to have two schools.
+*This Boss can be repeated within the instance.
+
+| cheatnotes =
+*{{Icon|Minion}} ''"Mekalekah-Minion!"'' - At the beginning of the first Round, Renegade Djinni will cast a Balance spell to summon a Renegade Puppet Minion.
+*{{Icon|Ward}} ''"Mekalekah-Shield!"'' - At the beginning of the second Round, he will use a {{Link|Spell|Shield Minion}} on his Renegade Puppet.
+*{{Icon|Polymorph}} ''"Mekalekah-Me!"'' - At the beginning of the fourth Round, he will cast a Polymorph spell on his Renegade Puppet, turning it into a [[Polymorph:Renegade Puppet|Colossus]], and increasing its health to 2,875, but it loses its other stats.
+
+| speech =
+
+| spellnotes =
+*This Boss can cast a Myth version of {{Link|Spell|Balanceblade (+30%)}}.
+*It has been observed this this Boss casts a {{Link|Spell|Mend Minion}} that restores 770 health.
+
+| casts =
+Flawless;
+Shield Minion;
+Mend Minion;
+Balanceblade (+30%);
+Bladestorm (+25%);
+Natural Attack (Myth 115-230-345, 75%);
+Athena Battle Sight;
+Punklops (Myth);
+Earthquake;
+Boreas Ifrit (800);
+Hydra;
+Ra (635-715);
+
+| quests =
+The Sand Sea;
+
+| gold =
+0;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Aquamarine*F2*WMV;
+Fish Fin*F3;
+Golden Pearl;
+Mithril*F2;
+Scales;
+Silver*F3*WMV;
+Stardust;
+Steel*F5*WMV;
+Sunstone*F5*WMV;
+Tungsten;
+Vine;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F3*WMV;
+Bread Fruit Fruit;
+Chalupacabra;
+Eye Candy;
+Fire Passion Fruit*F2*WMV;
+Green Tomato;
+Hard Boiled Beetle Eggs*F3*WMV;
+Hot Cross Buns*F2;
+Mustachios*F2;
+Rhubarbed Wire;
+Satyr Chow*F4;
+Ships 'n' Queso*F2;
+Veggie Juice;
+Wheat Cracker;
+
+| jewels =
+Lustrous Accurate Amethyst +11%;
+Lustrous Accurate Citrine +11%;
+Lustrous Accurate Jade +11%;
+Lustrous Blocking Jade +13;
+Lustrous Critical Amethyst +13;
+Lustrous Damage Citrine +23;
+Lustrous Damage Jade +23;
+Lustrous Damage Onyx +23;
+Lustrous Damage Ruby +23;
+Lustrous Defense Peridot +45;
+Lustrous Defense Ruby +45;
+Lustrous Defense Sapphire +45;
+
+| pins =
+
+| pets =
+
+| seeds =
+Fiery Boom Shroom;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Venus Fly Trap;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

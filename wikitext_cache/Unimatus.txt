@@ -1,0 +1,174 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,475
+| crecla = Celestian Protector
+| crecla2 = Golem
+| school = Myth
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm;
+
+| incresist =
+35% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Stellar Protector (Rank 9);
+
+| world = Celestia
+| location = The Stellarium
+| descrip =
+
+| speech =
+:''"Do not proceed. Your defeat is inevitable. Spare yourself the humiliation!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+He has a very high opinion of himself. But it's not his fault. Someone tampered with his arrogance settings.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Myth Trap;
+Yellow Troll;
+Gobbler;
+Humongofrog;
+Minotaur;
+Humongofrog (400-500);
+Orthrus;
+
+| quests =
+A Star Is Born;
+ 
+| gold =
+29 - 43;
+
+| hats =
+Facade of Fairness;
+Helm of Burning Ambition;
+Insightful Topper;
+Rising Tide Topper;
+Thundercloud Coif;
+Vital Headdress;
+
+| robes =
+Costume of Cold Intent;
+Salgio's Tinder Cloak;
+Tragic Tunic;
+Whimsical Surcoat;
+
+| boots =
+Boots of Celestian Totality*F3;
+Celestian Tempest Trekkers;
+Icestar Stalkers;
+Wraps of Rapport;
+
+| athames =
+Dagger of Typhoons;
+Dirk of Delusion;
+
+| amulets =
+
+| rings =
+Majestic Signet*F2;
+Ring of Rare Origins;
+Typhoon Band;
+
+| wands =
+
+| decks =
+
+| items =
+Celestia Mysterious Theme 1;
+
+| cards =
+Black Mantle*F2*WMV;
+Cloak;
+Fortify;
+Heck Hound;
+Keen Eyes;
+Pest Zapper;
+Strong;
+
+| reagents =
+Brass*F2;
+Bronze;
+Cobalt*F2*WMV;
+Copper;
+Lead;
+Nickel*F4;
+Steel*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Delicious Cookie;
+Glowing Taffy;
+Spicy Drumstick;
+Strawberry Cupcake;
+
+| jewels =
+Accurate Talent Opal;
+Balance-Giver Citrine;
+Balanceblade Talent Citrine;
+Black Widow Onyx;
+Brown Recluse Jade;
+Death-Boon Onyx;
+Disconcert Opal;
+Dull Critical Jade +3;
+Dull Defense Peridot +26;
+Dull PIP Opal +5%;
+Flawed Mending Opal +2%;
+Gobbler Opal;
+Mass Fire Prism Ruby;
+Mass Ice Prism Sapphire;
+Mega Hurry Opal;
+Plaguebringer Onyx;
+Plain Damage Jade +15;
+Plain Damage Onyx +15;
+Plain Defense Opal +16;
+Reshuffle Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fish on a Vine;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,188 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 4,400
+| crecla = Spider
+| school = Balance
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+17% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Faceted Spikespinner;
+
+| world = Dragonspyre
+| location = The Crystal Grove
+| subloc1 = Firewing Tower
+| descrip =
+
+| speech =
+:''"With crystal eyes I do perceive, a Wizard seeks my life to leave. Two legs carry you: no match for my eight. Survive you will not, simple truth I do state."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+She weaves webs as well as she weaves sick rhymes.
+
+| extract class =
+Spider;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Weakness;
+Balanceblade;
+Hex;
+Scarab;
+Scorpion;
+Locust Swarm;
+Sandstorm;
+Judgement;
+Evil Snowman;
+Vampire;
+Minotaur;
+
+| quests =
+Eight-Legged Queen;
+
+| gold =
+110 - 125;
+
+| hats =
+Crystalline Queen's Shard Cowl*F2*WMV;
+Equalizer's Coif;
+Halcyon Hood;
+Hood of the Vigilant;
+Mantle of the Icicle;
+Reaper's Hood*F3*WMV;
+Shroud of the Green*F2*WMV;
+Triton's Topper;
+Veil of Passage;
+
+| robes =
+Arbiter's Raiment;
+Coat of the Zephyr*F2*WMV;
+Crystalline Queen's Cloak*F2*WMV;
+Crystalline Queen's Shard Coat*F3;
+Final Curtain;
+Robe of Radiance;
+Robe of the Greatest Saga*F2;
+Smock of the Frost Giant*F2*WMV;
+Storm Giant's Surcoat;
+Terminus Wrap;
+Tunic of Tradition*F2*WMV;
+Vestment of the Inferno*F2*WMV;
+
+| boots =
+Crystalline Queen's Boots*F2*WMV;
+Crystalline Queen's Sandals*F2*WMV;
+Dragonclaw Boots;
+Footgear of the North Wind;
+Frost Giant's Boots;
+Legend Walkers;
+Mocassins of the Oracle*F2;
+Rainstorm Waders;
+Salamander-Hide Shoes;
+Sandals of Lost Aeons;
+Sandals of the Generous Earth*F2*WMV;
+
+| athames =
+Claw of Conciliation*F2*WMV;
+Crystalline Queen's Shardblade*F2*WMV;
+Dragon's Eye Dagger;
+Dragonblood Dirk;
+Searing Knife*F3*WMV;
+
+| amulets =
+
+| rings =
+Band of the Hearth;
+Crystalline Queen's Shard Seal*F4*WMV;
+Dragonscale Ring;
+Rime-Edged Ring;
+Seal of the Gallium Paladin*F4*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Crystal Storage Chest*F3*WMV;
+Dragonspyre Theme 2*F3*WMV;
+Gemcutter Table*CR*F2*WMV;
+Long Corner Wall Ruins*F3*WMV;
+Short Corner Wall Ruins*F2;
+Singed Magic Book;
+
+| cards =
+Dragonflies;
+Luminous Weaver*F3*WMV;
+
+| reagents =
+Cobalt;
+Copper;
+Nickel;
+Spider Silk*F6*WMV;
+Tin*F2*WMV;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F4*WMV;
+Goat Cheese*F3*WMV;
+Golden Grapes;
+Gummy Humongofrog*F2*WMV;
+King Banana;
+
+| jewels =
+Dull Critical Onyx +4;
+Dull Critical Opal +1;
+Dull Damage Ruby +13;
+Dull Piercing Amethyst +2%;
+Hearty Opal;
+Ultra Rally Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Fiery Boom Shroom;
+Maelstrom Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

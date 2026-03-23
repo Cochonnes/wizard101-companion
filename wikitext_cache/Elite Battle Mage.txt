@@ -1,0 +1,237 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 10,310
+| crecla = Wizard
+| school = Myth
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Battle Mage;
+
+| world = Avalon
+| location = Abbey Road
+| subloc1 = Telegraph Box (Avalon)
+| descrip =
+During the [[Basic:Five B.O.X.E.S.|Five B.O.X.E.S. Event]], this Elite Battle Mage can be found in the Telegraph Box (Avalon) instance.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Mythblade;
+Myth Trap;
+Time of Legend;
+Troll;
+Humongofrog;
+Myth Imp;
+Minotaur;
+Earthquake;
+Orthrus;
+Medusa;
+Boreas Ifrit (800);
+Basilisk;
+
+| quests =
+Arc of Infinity;
+
+| gold =
+114 - 239;
+
+| hats =
+Coatl Lord's Hat*F2;
+Glorious Feathered Mantle;
+Greenwarden's Brilliant Mask (Level 80+)*CR;
+Greenwarden's Energetic Mask (Level 80+)*CR;
+Greenwarden's Peaceful Mask (Level 80+)*CR*F2;
+Helm of the Broken Spear*F2;
+High Chac's Guarded Helm*F2;
+Mask of the Calavera*F2;
+Song of the Lizard Hood*F2*WMV;
+Sweet Kiss of Death Mask;
+Tyrant of Beasts Mask;
+
+| robes =
+Greenwarden's Brilliant Shroud (Level 80+)*CR;
+Greenwarden's Energetic Shroud (Level 80+)*CR;
+Greenwarden's Peaceful Shroud (Level 80+)*CR;
+
+| boots =
+Black Butterfly Guard's Wraps;
+Death Moon's Chosen Gliders;
+Fiery Chac's Great Boots*F2;
+Greenwarden's Brilliant Boots (Level 80+)*CR*F2*WMV;
+Greenwarden's Energetic Boots (Level 80+)*CR*F2*WMV;
+Greenwarden's Peaceful Boots (Level 80+)*CR;
+Ice Age Tyrant's Walkers*F3*WMV;
+Jaguar Prince's Leapers;
+Smoking Obsidian Rangers;
+Storm Owl's Favored Trackers;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Greenwarden's Energetic Staff (Level 80+)*CR;
+Greenwarden's Peaceful Staff (Level 80+)*CR;
+
+| decks =
+
+| items =
+Broadhead;
+Purple Teleporter*CR*F6*WMV;
+Quetzal Feathers;
+Red Teleporter*CR*F3;
+
+| cards =
+Amplify*F2;
+Berserk*F3;
+Boreas Ifrit*F17*WMV;
+Clockwork Spider*F16*WMV;
+Cloud Demon;
+Colossal;
+Empowerment;
+Extraordinary*F2;
+Forest Lord;
+Fortify;
+Infallible;
+Leviathan*F2;
+Massive Pest Zapper*F2;
+Medusa*F2;
+Mend*F3;
+Ra*F2*WMV;
+Rebirth*F3;
+Skeletal Dragon*F2*WMV;
+Snow Angel;
+Vengeance*F2;
+
+| reagents =
+Black Lotus*F15*WMV;
+Black Pearl*F3*WMV;
+Blood Moss*F7*WMV;
+Bone*F13*WMV;
+Brass*F4;
+Bronze*F4;
+Bronze Gear*F17*WMV;
+Cobalt*F3;
+Deep Mushroom*F13*WMV;
+Fire Blossom*F9*WMV;
+Fossil*F5*WMV;
+Golden Pearl*F2;
+Lava Lily*F8*WMV;
+Mist Wood*F9*WMV;
+Nightshade*F4*WMV;
+Ore*F10*WMV;
+Red Mandrake*F10*WMV;
+Sonic Spring*F5*WMV;
+Steel*F4*WMV;
+Stone Block*F9*WMV;
+Sunstone*F5*WMV;
+Tin*F3;
+Turquoise*F10*WMV;
+
+| spellements =
+
+| snacks =
+Cactus Fruit;
+Caramel Apple;
+Chili Peppers*F2*WMV;
+Deviled Eggs;
+Flapjacks*F2*WMV;
+Fried Ice Cream;
+Glowing Dragon Fruit*F2;
+Glowing Star Fruit;
+Guava*F7*WMV;
+Gummy Wyrms;
+Jelly Baby*F3;
+Kola Nuts;
+Papaya*F2;
+Pyramints*F2;
+Rex Tea*F2*WMV;
+Roasted Chickpeas*F3;
+Shiny Tomato;
+Tamales*F5;
+Tenochti-Flan*F2*WMV;
+Treant Bark*F2*WMV;
+Tricera-Pops*F3;
+
+| jewels =
+Balanceblade Talent Citrine;
+Big Sparky Amethyst;
+Blade of Fire Ruby;
+Clear Accurate Sapphire +9%;
+Clear Blocking Amethyst +9*F2;
+Clear Blocking Hematite +9;
+Clear Blocking Hematite +10*F2;
+Clear Blocking Jade +9;
+Clear Blocking Ruby +10;
+Clear Critical Onyx +10*F2*WMV;
+Clear Critical Sapphire +10;
+Clear Damage Citrine +19*F2;
+Clear Damage Onyx +19;
+Clear Damage Sapphire +19;
+Clear Defense Opal +20;
+Clear Piercing Jade +5%;
+Clear Piercing Peridot +5%;
+Clear Piercing Sapphire +5%;
+Death-Away Onyx;
+Empowerment Talent Opal;
+Energy Opal;
+Enfeeble Amethyst;
+Extra Mana Opal;
+Life-Eye Jade;
+Mass Infection Onyx;
+Mass Triage Jade;
+Opaque Blocking Opal +4;
+Opaque Damage Amethyst +18*F2;
+Opaque Damage Ruby +18;
+Opaque Defense Ruby +36;
+Spirit Trap Citrine (Triangle)*F3;
+Stormclaw Amethyst;
+Unbalancer Citrine;
+Wise Opal;
+
+| pins =
+
+| pets =
+Life Ghoul*F4;
+
+| seeds =
+Angora Bunny Ears;
+Pink Dandelion*CR;
+Pink Huckleberries;
+
+| mounts =
+Orange Fairy Wings*PERM*CR*F4;
+
+| spells =
+
+}}

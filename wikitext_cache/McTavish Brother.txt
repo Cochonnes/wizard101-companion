@@ -1,0 +1,93 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,040
+| crecla = Rat
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Marleybone
+| location = Chelsea Court
+| subloc1 = McTavish Hideout
+| descrip =
+McTavish Brother is considered a Minion to {{Link|Creature|Lucius McTavish}}.  All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Storm Shield;
+Black Mantle;
+Weakness;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Fire Elf;
+Storm Shark;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

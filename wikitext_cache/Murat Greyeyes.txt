@@ -1,0 +1,235 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 6,970
+| crecla = Elephant
+| school = Death
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Blackback Soldier;
+
+| world = Zafaria
+| location = Elephant Graveyard
+| subloc1 = Murat Greyeyes' Tomb
+| descrip =
+Murat Greyeyes is one of {{Link|NPC|Morganthe}}'s agents in the Elephant Graveyard. He guards {{Link|NPC|Queen Elissa}}'s Robes.
+
+| speech =
+:''"A so-called Wizard, hurmph. You're not even worth me sharpening my tusks."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Zafaria
+| tome description =
+One of Morganthe's wicked agents in the Elephant Graveyard. Murat revels in guarding Queen Elissa's Robes, and sharpening his tusks.
+
+| extract class =
+Elephant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Weakness;
+Deathblade;
+Death Trap;
+Feint;
+Empower;
+Vampire;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+Skeletal Dragon;
+Natural Attack (Death 85-X Pips);
+
+| quests =
+Tomb Raiders;
+
+| dropnotes = 
+When a Wizard has unlocked the '''[[Basic:Celestia Badges|Astrologist]]''' {{Icon|Astrologist}} Badge and has not unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge, the following drops will be available:
+*5 Spellements will drop each time for their respective rank 4-8 Spells.
+
+| gold =
+100 - 136;
+
+| hats =
+Cold Chieftain's Mask;
+Face of the Blinding Sun;
+Griot's Hood;
+Hat of the Old Kings;
+Hot-Tempered Chieftain's Mask;
+River Captain's Hood;
+War Olyphant's Wrap*F5*WMV;
+Wise Hunter's Helmet;
+
+| robes =
+Big Five Robe*F4*WMV;
+Darajani Havoc Robes;
+Hunter's Kin Garb*F2;
+Lost Outsider Gear;
+River Smuggler's Garb*F2*WMV;
+Shaman's Winter Protection;
+Sinister Juju Robes;
+Spider's Storied Robe*F2*WMV;
+Storm Chaser's Outfit*F2;
+Zafaria Tour Jacket*F2*WMV;
+
+| boots =
+Big Sky Striders;
+Graveyard Walkers*F2*WMV;
+Lion King's Balanced Pads*F2;
+Storm Caller's Rangers*F2*WMV;
+Witch Doctor's Spiral Boots*F2*WMV;
+
+| athames =
+Fire Valley Thorn;
+Ghost in the Darkness*F2*WMV;
+Scimitar of the Howling Wind*F3*WMV;
+
+| amulets =
+Ruby and Sapphire Bauble*F2*WMV;
+
+| rings =
+Koko's Smoky Circle;
+
+| wands =
+Spear of the Trade Winds*F3*WMV;
+Sun's Light Spear;
+
+| decks =
+Bundle of Eternal Flame*F2*WMV;
+Chieftain's Smiling Deck*F2;
+Hand-Chased Box of Winter;
+
+| items =
+
+| cards =
+Dark Tribute*F6*WMV;
+Efreet*F3*WMV;
+Forest Lord;
+Leviathan*F5*WMV;
+Medusa*F3*WMV;
+Precision*F2;
+Ra*F3*WMV;
+Skeletal Dragon*F4*WMV;
+Sniper*F3*WMV;
+Snow Angel*F2*WMV;
+Virulent Plague*F2*WMV;
+
+| reagents =
+Bronze;
+Leather Straps*F5*WMV;
+Nickel*F4*WMV;
+Steel;
+Tin;
+
+| spellements =
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops Minion*BR;
+Earth Walker*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*BR;
+Ice Wyvern*BR;
+Immolate*BR;
+Kraken*BR;
+Leviathan*BR;
+Medusa*BR;
+Minotaur*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Ra*BR;
+Rebirth*BR;
+Scarecrow*BR;
+Seraph*BR;
+Skeletal Dragon*BR;
+Skeletal Pirate*BR;
+Snow Angel*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Stormzilla*BR;
+Triton*BR;
+Vampire*BR;
+Wraith*BR;
+
+| snacks =
+Buttered Bread;
+Cauliflowers*F2*WMV;
+Delicious Cookie;
+Dr. Jalapeno;
+Glowing Dragon Fruit*F2*WMV;
+Glowing Star Fruit;
+Glowing Taffy;
+Goat Cheese;
+Gummy Humongofrog;
+Jelly Baby*F2*WMV;
+Kola Nuts*F2*WMV;
+Salmonberry*F2;
+Shiny Tomato;
+Spicy Drumstick;
+Uni-Corn;
+
+| jewels =
+Opaque Critical Amethyst +8;
+Opaque Defense Ruby +33;
+Stupefy Opal;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Burning Snap Dragon;
+Deadly Fly Trap;
+Fickle Pickle;
+Helephant Ears*F2*WMV;
+King Parsley*CR;
+Orange Bell Pepper*CR*F2*WMV;
+Red Bell Pepper;
+Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+}}

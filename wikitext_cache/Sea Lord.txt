@@ -1,0 +1,159 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 6,400
+| crecla = Kraken
+| school = Storm
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Myth;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Dragonspyre
+| location = Plaza of Conquests
+| descrip =
+The Sea Lord was the first great foe of Dragonspyre and the greatest warrior in the army of Drannik the Shrouded Wizard. He fought his way to the throne of Dragonspyre to claim it for his master. His spirit is kept within a Knowledge Crystal to honor his great achievement in battle. He is a Boss that Wizards can summon by activating the crystal in front of the Kraken statue in the Plaza of Conquests.
+
+| speech =
+
+| spellnotes =
+
+| casts = 
+Myth Shield;
+Sprite;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Shark;
+Kraken;
+Stormzilla;
+Storm Lord;
+Tempest;
+Natural Attack (Storm 125x, 75%);
+Vampire;
+Heck Hound;
+
+| quests =
+Foe of Foes;
+
+| dropnotes =
+When a Wizard has unlocked the '''Oni Slayer''' {{Icon|Oni Slayer}} Badge and has not unlocked the '''Astrologist''' {{Icon|Astrologist}} Badge, the following drops will be available:
+*14 Spellements will drop each time from the '''Elemental''' (Fire, Ice, Storm, Balance) Schools for their respective rank 2-6 Spells.
+
+| gold =
+60 - 70;
+
+| hats =
+Herbalist's Hood*F4*WMV;
+Hood of Propriety;
+Hood of the Gnome*F3*WMV;
+Mantle of the Undying*F2;
+Pyromancer's Veil*F3*WMV;
+Sea Lord's Hurricane Cowl;
+Veil of Clouds*F2*WMV;
+
+| robes =
+Chilling Cloak;
+Coat of Impartiality*F2*WMV;
+Dragonscale Wrap;
+Judge's Robe*F4*WMV;
+Leafy Jerkin*F2;
+
+| boots =
+Blizzard Boots*F3*WMV;
+Boots of the Emerald Grove;
+Firewalker's Footwraps*F2;
+Sea Lord's Iceberg Waders*F3*WMV;
+Shoes of Equilibrium*F4*WMV;
+
+| athames =
+Needle of the Eye*F2*WMV;
+Scaled Smallsword*F2*WMV;
+
+| amulets =
+
+| rings =
+Ring of Equilibrium;
+Seal of the Vigilant*F4*WMV;
+
+| wands =
+
+| decks =
+Sea Lord's Deck of Thunder*F2;
+
+| items =
+Draconic Street Lamp*F2;
+Dragonfire Brazier*F3;
+
+| cards =
+Kraken;
+
+| reagents =
+Brass*F3;
+Nickel*F5*WMV;
+Spider Silk*F3*WMV;
+Tin*F2;
+
+| spellements =
+Blight Hound*BR*F2;
+Colossus*BR*F3;
+Evil Snowman*BR*F2;
+Fire Elf*BR*F3;
+Gearhead Destroyer*BR*F2;
+Helephant*BR*F3;
+Hydra*BR*F2;
+Ice Wyvern*BR*F3;
+Immolate*BR*F2;
+Kraken*BR*F3;
+Lightning Bats*BR*F3;
+Locust Swarm*BR*F2;
+Phoenix*BR*F2;
+Scorpion*BR*F3;
+Spectral Blast*BR*F3;
+Snow Serpent*BR*F2;
+Storm Shark*BR*F2;
+Stormzilla*BR*F3;
+Sunbird*BR*F3;
+Triton*BR*F3;
+
+| snacks =
+
+| jewels =
+Dull Damage Citrine +13;
+Dull Damage Peridot +13;
+Dull Damage Sapphire +13;
+Shush! Opal;
+Sturdy Opal;
+
+| pins =
+
+| pets =
+Storm Snowman*F5*WMV;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

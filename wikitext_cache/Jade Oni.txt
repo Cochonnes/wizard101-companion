@@ -1,0 +1,372 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 6,000
+| crecla = Demon
+| crecla2 = Elephant
+| school = Life
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = MooShu
+| location = Jade Palace
+| subloc1 = Emperor's Throne Room
+| badge = Oni Slayer
+| lootchest = Jade Oni's Chest
+| descrip =
+The Jade Oni is the last Boss in MooShu. He holds the Spiral Key to {{Link|Location|Dragonspyre}} which can be obtained only by defeating him.
+*Completing the Quest, {{Link|Quest|Rematch}}, allows the Jade Oni to be summoned at any time by using the obelisk next to the {{Link|NPC|Jade Champion}}.
+
+| speech =
+:''"Fool! Did you think I would give up this shell so easily? I am not like the other Oni. You have woken me only to make me stronger! This land is mine!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+Why did this ornery elephant-demon have the Spiral Key to Dragonspyre? ...Because magic, that's why.
+
+| extract class =
+Elephant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Black Mantle;
+Sprite;
+Lifeblade;
+Life Trap;
+Imp;
+Leprechaun;
+Seraph;
+Centaur;
+Natural Attack (Life Oni);
+Locust Swarm;
+Cyclops;
+Storm Shark;
+Meteor Strike;
+Heck Hound;
+
+| quests =
+An Imperial Cure;
+
+| dropnotes =
+When a Wizard has unlocked the '''Mastermind''' {{Icon|Mastermind}} Badge and has not unlocked the '''Savior of the Spiral''' {{Icon|Savior of the Spiral}} Badge, the following drops will be available:
+*8 Spellements will drop each time from the '''Spiritual''' (Myth, Life, Death, Balance) Schools for their respective rank 1-5 Spells.<br/><br/>If a Wizard already has the Savior of the Spiral Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} in the Emperor's Throne Room to acquire a [[Item:Level Scaling Elixir - 40|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+60 - 70;
+
+| hats =
+Angelic Helm*CR*F2*WMV;
+Brooding Cap*F12*WMV;
+Cool Pumpkin Mask*CR*HOL;
+Cyclops Pumpkin Mask*CR*HOL*F2*WMV;
+Happy Pumpkin Mask*CR*HOL;
+Headgear of the Sylph*CR;
+Headwraps of the Zealous*F14*WMV;
+Helm of Disquiet*F13*WMV;
+Jade Oni's Cap*F5*WMV;
+Jade Oni's Shroud of Nothing*F12*WMV;
+Kitty Pumpkin Mask*CR*HOL;
+Mummy Costume Headwraps*CR*HOL;
+Ninja Pig Hat*CR*HOL;
+Pirate Pumpkin Mask*CR*HOL;
+Santa Hat*CR*HOL;
+Turkey Hat*CR*HOL;
+Vampire Costume Wig*CR*HOL;
+
+| robes =
+Bunny Suit*CR*HOL;
+Hallowe'en Robe*CR*HOL;
+Jade Oni's Garments*F5*WMV;
+Jade Oni's Vestment*F10*WMV;
+Nosferatu's Cloak*CR;
+Peculiar Garments*F14*WMV;
+Pilgrim Robe*CR*HOL;
+Santa Robe*CR*HOL;
+Tunic of Anthems*F11*WMV;
+Tunic of Discontent*F17*WMV;
+Tunic of Fiery Renewal*CR*F3*WMV;
+Vestment of the Lotus*F8*WMV;
+
+| boots =
+Brogans of Decrepitude*CR*F2;
+Bunny Feet*CR*HOL;
+Dashing Shoes*F15*WMV;
+Even Footing*CR*F3*WMV;
+Gogi Berry Stained Boots*F21*WMV;
+Jade Oni's Boots*F9*WMV;
+Mummy Costume Footwraps*CR*HOL;
+Ninja Pig Shoes*CR*HOL;
+Santa Boots*CR*HOL*F2;
+Slippers of Enthusiasm*F11*WMV;
+Slippers of Inflection*F15*WMV;
+Vampire Costume Boots*CR*HOL;
+Youkai's Shoes;
+
+| athames =
+
+| amulets =
+Jade Oni's Amulet of Duplicity*F6*WMV;
+
+| rings =
+
+| wands =
+Blubbering Pumpkin Scepter*CR*HOL;
+Cackling Pumpkin Scepter*CR*HOL;
+Candy Wand*CR*HOL;
+Chuckling Pumpkin Scepter*CR*HOL;
+Hatchling Scepter*CR*HOL*F4*WMV;
+Holiday Hook Wand*CR*HOL;
+Holiday Treat Wand*CR*HOL*F3*WMV;
+Jade Oni's Amethyst Blade*F10*WMV;
+Knotwork Wand*CR*HOL*F3;
+Lucky Shamrock Wand*CR*HOL*F2;
+Nutcracker Wand*CR*HOL;
+Sanguine Scepter*CR*HOL*F2;
+Scepter of Spring's Bounty*CR*HOL;
+Scepter of the Cherub*CR*HOL*F2;
+Spring Bunny Scepter*CR*HOL;
+Staff of the Crimson Hart*CR*HOL;
+Staff of the Harvest*CR*HOL;
+Staff of the White Rabbit*CR*HOL*F2*WMV;
+Star Staff*CR*HOL;
+Stave of the Holiday Flame*CR*HOL*F2*WMV;
+Sugar Cane Wand*CR*HOL;
+Wand of Compassion*CR*HOL*F2;
+Wand of Nature's Ebb*CR*HOL*F2;
+Wand of Wealth*CR*HOL;
+
+| decks =
+
+| items =
+Adept's Socket Wrench*F20*WMV;
+Big Holiday Tree*CR*HOL*F2*WMV;
+Blue Holiday Ornament*HOL;
+Carol of the Bells Theme*HOL;
+Deck the Halls Theme*HOL;
+Decorative Cannon*F6*WMV;
+Green Holiday Ornament*HOL;
+Holiday Fireplace*CR*HOL;
+Holiday Wreath*CR*HOL;
+Imperial Statue*F8*WMV;
+Jingle Bells Theme*HOL;
+Krokopatra Exalted Duel*CR*F5*WMV;
+Krokopatra Master Duel*CR*F3*WMV;
+Meowiarty Archmage Duel*CR*F11*WMV;
+Meowiarty Exalted Duel*CR*F4*WMV;
+Milk and Cookies*F2*HOL;
+Mint Standee*HOL;
+Mint Swirl*CR*HOL*F2*WMV;
+MooShu Main Theme*F19*WMV;
+MooShu Plague Theme*F10*WMV;
+Nutcracker*CR*HOL;
+Polka Dot Wrapped Gift*HOL;
+Rattlebones Exalted Duel*CR*F4*WMV;
+Rattlebones Master Duel*CR*F4*WMV;
+Red Holiday Ornament*HOL;
+Small Color Light Strand*CR*HOL;
+Snowglobe*HOL*F3*WMV;
+Snowman*CR*HOL*F2*WMV;
+Snowman Wrapped Gift*HOL;
+Spooky Bob*CR*HOL;
+Statue Base*F9*WMV;
+Statue of Koto*F16*WMV;
+Wooden Skeleton Key*CR*F21*WMV;
+Yuletide Lg. Keeper Aquarium*CR*HOL;
+Yuletide Lg. Small Fry Aquarium*CR*HOL;
+Yuletide Tall Keeper Aquarium*F2*CR*HOL;
+Yuletide Tall Small Fry Aquarium*CR*HOL;
+Zeus Exalted Duel*CR*F5*WMV;
+
+| cards =
+Colossus*F2*WMV;
+Earthquake*F2*WMV;
+Helephant;
+Hydra*F2*WMV;
+Reshuffle;
+Samoorai*F47*WMV;
+Scarecrow*F2*WMV;
+Seraph*F2*WMV;
+Stormzilla*F2*WMV;
+Strong*F2;
+To The Jade Palace*F7*WMV;
+
+| reagents =
+Brass*F6*WMV;
+Cobalt*F7*WMV;
+Copper*F3*WMV;
+Ectoplasm*F17*WMV;
+Lead*F6*WMV;
+Nickel*F7*WMV;
+Tin*F5*WMV;
+
+| spellements =
+Banshee*BR*F7;
+Blood Bat*BR*F3;
+Cyclops*BR*F6;
+Cyclops Minion*BR*F4;
+Dark Sprite*BR*F5;
+Earth Walker*BR*F5;
+Gearhead Destroyer*BR*F5;
+Ghoul*BR*F6;
+Imp*BR*F7;
+Leprechaun*BR*F5;
+Locust Swarm*BR*F2;
+Minotaur*BR*F5;
+Nature's Wrath*BR*F7;
+Scarab*BR*F4;
+Scorpion*BR*F6;
+Seraph*BR*F5;
+Skeletal Pirate*BR*F6;
+Spectral Blast*BR*F6;
+Troll*BR*F6;
+Vampire*BR*F4;
+
+| snacks =
+
+| jewels =
+Add Health Opal;
+Attentive Opal;
+Balance-Boon Citrine;
+Balance-Giver Citrine*F2;
+Banana Peel Opal;
+Big Boost Opal;
+Big Downer Opal*F2*WMV;
+Big Energy Opal;
+Big-Check Opal;
+Blemished Damage Amethyst +11*F2*WMV;
+Blemished Damage Citrine +11*F3*WMV;
+Blemished Damage Jade +11*F2*WMV;
+Blemished Damage Onyx +11*F2;
+Blemished Damage Peridot +11;
+Blemished Damage Ruby +11*F3*WMV;
+Blemished Damage Sapphire +11;
+Blemished Defense Citrine +21*F2*WMV;
+Blemished Defense Opal +11;
+Blemished Health Opal +40*F7*WMV;
+Charge Opal;
+Charge Up Opal;
+Check Opal;
+Cheeky Opal;
+Clay Post Opal;
+Clear Path Opal;
+Dawdle Opal;
+Dead End Opal;
+Death-Away Onyx;
+Death-Boon Onyx;
+Death-Giver Onyx;
+Dependable Opal;
+Determined Opal*F2;
+Dirt Post Opal;
+Downer Opal;
+Eager Opal;
+Effective Opal*F2;
+Exhaust Opal*F2*WMV;
+Extra Mana Opal;
+Fire-Away Ruby;
+Fire-Giver Ruby;
+Gold Miner Opal;
+Healer Opal;
+Huge Energy Opal;
+Humongofrog Peridot*F2;
+Hurry Opal;
+Ice Wyvern Sapphire*F2*WMV;
+Ice-Away Sapphire;
+Ice-Boon Sapphire*F2;
+Ice-Giver Sapphire;
+Intrepid Opal;
+Kraken Amethyst;
+Life-Boon Jade;
+Life-Eye Jade*F2*WMV;
+Life-Proof Jade;
+Mana Boost Opal;
+Mend Minion Talent Peridot;
+Meteor Strike Ruby*F2;
+Move It! Opal;
+Myth-Boon Peridot;
+Myth-Eye Peridot;
+Myth-Proof Peridot;
+Oil Slick Opal;
+Perplex Opal;
+Pip O'Plenty Opal;
+Power Play Citrine*F3;
+Restore Opal;
+Seraph Jade*F5*WMV;
+Skeletal Pirate Onyx*F3*WMV;
+Storm-Away Amethyst;
+Storm-Boon Amethyst;
+Storm-Eye Amethyst;
+Storm-Giver Amethyst;
+Stormclaw Amethyst;
+Super-Pass Opal;
+Super-Stall Opal;
+Ultra Energy Opal*F2*WMV;
+Unbalancer Citrine;
+Wise Opal;
+Wisp Bonus Opal;
+
+| pins =
+
+| pets =
+Black Cat*CR*HOL; 
+Christmas Elf*CR*HOL;
+Cupig*CR*HOL*F3;
+Frostman*CR*HOL*F3*WMV;
+Ghost Dragon*CR*HOL;
+Golden Goose*CR*HOL;
+Jade Oni*CR*F2*WMV;
+Lovely Ladybug*CR*HOL*F3;
+Lovely Leopard*CR*HOL*F2;
+Lucky Leprechaun*CR*HOL*F2;
+Lump of Coal*CR*HOL;
+Maple Moose*CR*HOL;
+Nutcracker*CR*HOL;
+Pet Egg*CR*HOL*F2*WMV;
+Rescue Rover*CR*HOL*F2;
+Snowball*CR*HOL;
+Valentine Pig*CR*HOL*F2;
+Yuletide Spirit*CR*HOL;
+
+| seeds =
+Boon Tree*CR*HOL*F2*WMV;
+Happy Holidaisy*CR*HOL*F2*WMV;
+
+| mounts =
+Stormrider Hare*PERM*CR*HOL*F2;
+
+| spells =
+To The Jade Palace*F5*WMV;
+
+}}

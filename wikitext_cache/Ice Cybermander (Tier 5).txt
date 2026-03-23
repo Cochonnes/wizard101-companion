@@ -1,0 +1,115 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 13,190
+| crecla = Mander
+| school = Ice
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+50%;
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Doomsday Krok Gauntlet
+| subloc1 = Doomsday Krok Gauntlet (Tier 5)
+| descrip =
+Ice Cybermander (Tier 5) is considered a Minion to {{Link|Creature|Balance Cybermander (Tier 5)}}.  All drops are recorded on that page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Created on a spaceship that is slowly falling into a black hole. No, not the Arcanum.
+
+| extract class =
+Mander;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| altlink = Ice Cybermander
+
+| spellnotes =
+'''Natural Attack:'''
+*Four Pip maximum, despite what the Spell description indicates.
+
+| casts =
+Fortify;
+Tower Shield;
+Volcanic Shield;
+Legion Shield;
+Ice Armor;
+Frozen Armor;
+Freeze;
+Cooldown;
+Natural Attack (Ice 105-210-315, 75%);
+Frost Giant (530);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

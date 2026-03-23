@@ -1,0 +1,137 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 16,810
+| crecla = Duck
+| school = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+41%;
+
+| outboost =
+194%;
+
+| incboost =
+None;
+
+| incresist =
+16% Ice;
+36% Storm, Myth, Life, Death, Balance, Shadow;
+56% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions = 
+Quentin Quail (Challenge);
+
+| world = Krokotopia
+| location = Selenopolis
+| subloc1 = Celestial Pyramid (Challenge)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the Standard version of this battle, see {{Link|Creature|Drake Lockley (Standard)}}.
+
+'''Advanced Combat Rules:'''
+*Wizards stats and Spells are scaled to Level 170.
+*Spell Decks cannot be changed while in this instance.
+*No-PvP Spells are disallowed in this fight.
+*PvP-Only Spells are allowed in this fight.
+*Snake Turn Order Combat.
+*Wizards cannot re-join combat after fleeing mid-combat.
+
+| speech =
+:'''{{Link|NPC|Drake Lockley}}''': ''"Hold on there, Earthborn."''
+:'''{{Link|NPC|Mellori}}''': ''"Why are there so many Ducks?"''
+:'''{{Link|NPC|Quentin Quail}}''': ''"We are what Khonsu needs us to be."''
+:'''Mellori''': ''"He needs you to be Ducks?"''
+:'''{{Link|NPC|Old Quack}}''': ''"He needs them to be... vengeance."''
+
+| spellnotes =
+
+| cheatnotes =
+'''Drake Lockley'''
+*{{Icon|Charm}} {{Icon|Trap}} {{Icon|Aura}} {{Icon|Global}} ''"Time for the old one, two PUNCH!"'' - If a Wizard casts a Damage or Pierce Charm, Trap, Aura, or Global, Drake will cast a Storm version of {{Link|ItemCard|Duck Savage}} that deals '''500''' Storm Damage on the receiver.
+**Multi-Target Spells will result in the Duck Savage being cast on the caster.
+**Secondary effects will trigger this cheat.
+'''Quentin Quail'''
+*''"Let me see. Oh, yes! That's the ticket!"'' - If a Wizard casts one of the following hanging effects, Quentin will cheat-cast one of the following Spells:
+**Secondary effects, such as the Blade on {{Link|Spell|Sound of Musicology}}, will trigger this cheat.
+**{{Icon|Friend}}{{Icon|Charm}} Single Target Helpful Charm - {{Link|Spell|Weakness}}
+**{{Icon|All Friends (Squared)}}{{Icon|Charm}} Helpful Charm on All Allies - {{Link|Spell|Mass Weakness}}
+**{{Icon|Enemy}}{{Icon|Curse}} Single Target Harmful Charm - {{Link|Spell|Balanceblade}}
+***{{Link|Spell|Starfall}} will also trigger this cheat.
+**{{Icon|All Enemies (Squared)}}{{Icon|Curse}} Harmful Charm on All Enemies - {{Link|Spell|Bladestorm (+25%)}}
+**{{Icon|Friend}}{{Icon|Ward}} Single Target Helpful Ward - {{Link|Spell|Hex}}
+**{{Icon|All Friends (Squared)}}{{Icon|Ward}} Helpful Ward on All Allies - {{Link|Spell|Mass Hex}}
+**{{Icon|Enemy}}{{Icon|Jinx}} Single Target Harmful Ward - {{Link|Spell|Tower Shield (Balance)}}
+***{{Link|Spell|Attenuate}} will also trigger this cheat.
+**{{Icon|All Enemies (Squared)}}{{Icon|Jinx}} Harmful Ward on All Enemies - {{Link|Spell|Legion Shield}}
+
+| casts =
+Stormblade (+30%);
+Windstorm;
+Storm Beetle (125);
+Lightning Bats (Tier 5b);
+Hammer of Thor (Tier 5b);
+Kraken (Tier 5a);
+Stormzilla (Tier 5b);
+
+| quests =
+Loonish Tunes;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Drake Lockley
+}}

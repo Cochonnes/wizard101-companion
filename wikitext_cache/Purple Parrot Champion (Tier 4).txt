@@ -1,0 +1,94 @@
+{{Test|feb26}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 16,000
+| crecla = Parrot
+| school = Storm
+| school2 = Death
+| cheats = yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Hidden Temple Gauntlet
+| subloc1 = 
+| descrip =
+
+| speech =
+
+| cheatnotes = 
+
+| spellnotes =
+
+| casts =
+Galvanic Field;
+Storm Trap;
+Heqet (Tier 4a);
+Jupiter's Might (Tier 5b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

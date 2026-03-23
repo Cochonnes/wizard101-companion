@@ -1,0 +1,117 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,800
+| crecla = Unicorn
+| school = Myth
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Arcanum
+| location = The Arcanum
+| subloc1 = Arbiter's Arena
+| descrip =
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Myth Damage.
+
+| casts =
+Mythblade;
+Spirit Blade;
+Mythic Fuel;
+Shatter;
+Time of Legend;
+Yellow Troll;
+White Rat Magician;
+Keeper of the Flame;
+Orthrus;
+
+| quests =
+Witch's House Call;
+
+| gold =
+56 - 98;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Polaris Baba Yaga Theme;
+Polaris Mine Combat Theme;
+Polaris Opera Theme;
+Polaris Rasputin Combat Theme;
+
+| cards =
+Wings of Fate;
+
+| reagents =
+Agave Nectar;
+Aquamarine;
+Golden Pearl;
+Mithril;
+Scales;
+Steel;
+Sunstone;
+
+| spellements =
+
+| snacks =
+Beast Wellington;
+Penne Dreadful;
+Ships 'n' Queso;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Frozen Fly Trap;
+Green Snow Apples;
+Ninja Fig*CR;
+Purple Snow Apples;
+Ultra Ninja Fig;
+White Desparagus;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,304 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 10,870
+| crecla = Boar
+| crecla2 = Pig
+| school = Myth
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| shadowslots = 2
+| critical =
+
+| criticalblock =
+
+| outpierce =
+27%;
+
+| outboost =
+126%;
+
+| incboost =
+5% Storm;
+
+| incresist =
+70% Myth;
+
+| outhealing =
+47%;
+
+| inchealing =
+52%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Grendelynn (Tier 4);
+
+| world = Grizzleheim
+| location = Savarstaad Pass
+| subloc1 = Savarstaad Pass Gold Key Room
+| badge = Borr, What Was He Good For?
+| descrip =
+King Borr (Tier 4) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Grizzleheim Lore Pack}}.
+*This Tier is for level 110-{{MaxLevel}} Wizards.
+
+| speech =
+:''"Who is this? You wretch, you wastrel, you petty, mortal thing. Do you know who I am? I AM BORR, KING OF... boars!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+He is King Borr! He has a mighty roar! Which he does for S'Mores! And then he snores a mighty snore! Because he is a bore!
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Round}} ''"You are my shield!"'' - Grendelynn (Tier 4) will cast a Shadow Sentinel that provides '''75%''' Intercept.
+**If Grendelynn is {{Link|Spell|Beguile}}d, the Intercept protects the Wizard team for as long as the Beguile is active.
+*{{Icon|Late}} ''"If you're late, you must wait!"'' - If a Wizard is late to combat, King Borr will cast Medusa (865) on the Wizard.
+*{{Icon|Minion}}{{Icon|Afterlife}} ''"You won't fall until I command it!"'' - If Grendelynn is defeated before King Borr, a Moon version of Blessing will be cast on Grendelynn that restores 100% Health.
+**If both King Borr and Grendelynn are defeated in the same round,  this cheat still activates.
+*{{Icon|Feint}} ''"I call your Feint!"'' - If a Feint is cast, King Borr will cast an AoE version of {{Link|Spell|Cleanse Ward (Shadow, -All)}} to remove all unprotected Traps.
+**Mass Feint will trigger this cheat.
+**The Balance version of {{Link|ItemCard|Feint}} does not trigger this cheat.
+*{{Icon|Afterlife}} ''"Avenge me!"'' - King Borr will say this if he is defeated before Grendelynn.
+
+| spellnotes =
+
+| casts =
+Frenzy;
+Quicken;
+Grendel's Amends (Tier 5a);
+Balanceblade (+30%);
+Bladestorm (+25%);
+Myth Prism;
+Cleanse Ward (-2);
+Shatter;
+Bestow;
+Keeper of the Flame;
+Athena Battle Sight;
+Humongofrog (310-370);
+Snake Charmer;
+Natural Attack (Myth 115-230-345-460);
+Mystic Colossus;
+Tatzlewurm Terror (Tier 3a);
+Earthquake (425);
+Orthrus;
+Medusa (865);
+
+| quests =
+
+| dropnotes =
+Along with other drops, a random mixture of 14 Lore Spellements are received when the Wizard is of the appropriate Level range.
+
+| gold =
+755 - 891;
+
+| hats =
+Allfather's Helm (Level 130+)*CR;
+Conjurer's Timeless Brim*F2*WMV;
+Diviner's Timeless Brim*F2;
+Necromancer's Timeless Brim;
+Odin's Helm (Level 130+)*CR;
+Odin's Helm (Level 140+)*CR*F2;
+Sorcerer's Timeless Brim*F3;
+Timeless Arboreal Brim;
+Thaumaturge's Timeless Brim;
+Theurge's Timeless Brim*F2*WMV;
+Wizard's Timeless Brim*F2;
+Wotan's Helm (Level 140+)*CR;
+
+| robes =
+Allfather's Raiment (Level 140+)*CR*F2;
+Conjurer's Timeless Tunic*F5*WMV;
+Diviner's Timeless Tunic*F2*WMV;
+Odin's Raiment (Level 130+)*CR*F4;
+Odin's Raiment (Level 140+)*CR*F2;
+Pyromancer's Timeless Tunic;
+Sorcerer's Timeless Tunic*F2*WMV;
+Thaumaturge's Timeless Tunic*F2;
+Theurge's Timeless Tunic*F2;
+Timeless Arboreal Tunic;
+Wotan's Raiment (Level 50+)*CR;
+Wotan's Raiment (Level 130+)*CR;
+
+| boots =
+Conjurer's Timeless Shoes*F2*WMV;
+Diviner's Timeless Shoes;
+Necromancer's Timeless Shoes;
+Odin's Boots (Level 130+)*CR*F2;
+Odin's Boots (Level 140+)*CR*F2;
+Pyromancer's Timeless Shoes*F2;
+Sorcerer's Timeless Shoes*F2;
+Thaumaturge's Timeless Shoes;
+Theurge's Timeless Shoes*F3;
+Timeless Astral Shoes*F3;
+Wizard's Timeless Shoes*F4*WMV;
+Wotan's Boots (Level 140+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Allfather's Gungnir (Level 120+)*CR;
+Allfather's Gungnir (Level 130+)*CR;
+Allfather's Gungnir (Level 140+)*CR;
+Odin's Gungnir (Level 130+)*CR*F4;
+Odin's Gungnir (Level 140+)*CR*F2;
+Wotan's Gungnir (Level 130+)*CR*F2;
+Wotan's Gungnir (Level 140+)*CR;
+
+| decks =
+
+| items =
+Adept's Socket Wrench;
+Austrilund Shield*F3*WMV;
+Broken Viking Statue;
+Cooking Fire*CR*F2*WMV;
+Expert's Socket Wrench;
+Fire Pit and Kettle*F2;
+Gold Skeleton Key*CR*F3*WMV;
+Grizzleheim Breadboard;
+Grizzleheim Furnace*F2*WMV;
+Grizzleheim Game Trap*F3;
+Grizzleheim Main Theme*F2;
+Grizzleheim Theme 1*F2;
+Hrundle Fjord Shield;
+Kitchen Ware Rack*F2;
+Legendary Socket Wrench*F2;
+Medium Fir Tree*F3;
+Ravenscar Anvil*CR;
+Ravenscar Throne;
+Redclaw Tent;
+Rough Wooden Shelf*F3*WMV;
+Stone Skeleton Key*CR*F7*WMV;
+Tall Wooden Shelf*F2;
+Viking Axe Statue;
+Wild Fern;
+Wild Mushrooms*F2;
+Wooden Skeleton Key*CR*F4*WMV;
+
+| cards =
+Azoth*F38*WMV;
+Dark Sprite;
+Dragonblade (Balance);
+Elemental Blade;
+Fireblade;
+Grendel's Amends*F13*WMV;
+Hammer of Thor*F12*WMV;
+Iceblade;
+Lifeblade;
+Mutate Helephant (Ice);
+Mutate Hound (Storm);
+Mythblade*F2;
+Ratatoskr's Spin*F15*WMV;
+Stormblade;
+
+| reagents =
+Ancient Scroll;
+Black Pearl;
+Blood Moss;
+Brass;
+Bronze;
+Cat Tail;
+Cobalt;
+Ectoplasm;
+Fire Blossom;
+Fish Fin;
+Golden Pearl;
+Leather Straps;
+Nickel;
+Nightshade;
+Pyrite;
+Scales;
+Scrap Iron;
+Spider Silk;
+Spring;
+Sunstone;
+Turquoise;
+Water Lily;
+
+| spellements =
+Grendel's Amends*F47*WMV;
+Hammer of Thor*F46*WMV;
+Ratatoskr's Spin*F45*WMV;
+
+| snacks =
+Beast Wellington;
+Bog Witch Beetroot;
+Bogwich;
+Boom Stroganoff;
+Bread Fruit Fruit;
+Cantajackalope;
+Caramel Apple;
+Cheese Cake;
+Fortified Cheese;
+Goat Cheese;
+Hero Sandwich;
+Kiwi Fruit;
+Kola Nuts;
+Squash;
+Swirled Lollipop;
+Tower Shield Tarts;
+Wampyrnickel Bread;
+Wormy Apple;
+
+| jewels =
+Dazzling Accurate Peridot +14%;
+Dazzling Blocking Citrine +19;
+Dazzling Blocking Onyx +20;
+Dazzling Critical Amethyst +20;
+Dazzling Critical Onyx +20;
+Dazzling Critical Peridot +20;
+Dazzling Critical Ruby +19;
+Dazzling Damage Amethyst +30;
+Dazzling Damage Jade +29;
+Dazzling Damage Onyx +30;
+Dazzling Damage Sapphire +29;
+Dazzling Defense Jade +60;
+Dazzling Healing Opal +7%;
+Sparkling PIP Hematite +2;
+
+| pins =
+
+| pets =
+Fenrir*CR*F2*WMV;
+Fenris*CR*F2;
+Fenric*CR;
+Harpy*CR;
+Imp;
+Night Hawk*F3;
+Pesky Beetle*CR;
+Raven*CR*F2;
+
+| seeds =
+Angora Bunny Ears;
+Blue Huckleberries;
+Cornbread Fruit Bush;
+Pink Huckleberries;
+Red Huckleberries;
+Trumpet Vine;
+
+| mounts =
+Raven*PERM*F2;
+Snow Ram*PERM*F2;
+Tawny Ram*PERM*F2;
+
+| spells =
+
+}}

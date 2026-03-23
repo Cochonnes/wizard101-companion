@@ -1,0 +1,104 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 15,935
+| crecla = 
+| school = Star
+| startpips = 6
+| powerpips = Yes
+| critical =
+139 Any;
+
+| criticalblock =
+554 Any;
+
+| outpierce =
+13%;
+
+| outboost =
+85%;
+
+| incboost =
+30% Ice;
+
+| incresist =
+40% Fire, Myth, Death, Balance, Sun, Moon, Star, Shadow;
+70% Storm, Life;
+
+| outhealing =
+31%;
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Arcanum
+| location = Lower Decks
+| subloc1 = Energy Corridor
+| descrip =
+The Lost Star is the weakened remnant of very old stars.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Starfall;
+Reinforce (+20%);
+Star Blade (0 Pip);
+Star Blade;
+Empower;
+Skeletal Pirate (Star);
+Forest Lord (Star);
+Tempest (Star);
+Ghoul (Tier 2a);
+Storm Shark (Tier 2b);
+Centaur (Tier 2a);
+
+| quests =
+Vent Control;
+
+| gold =
+0;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

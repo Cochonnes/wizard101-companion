@@ -1,0 +1,136 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 200,000
+| crecla = Plant
+| school = Death
+| masteries =
+Ice;
+Balance;
+
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+100%;
+
+| incboost =
+25% Life;
+
+| incresist =
+55% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Nettle Soldier (Tier 2);
+Nettle Soldier (Tier 2);
+Nettle Soldier (Tier 2);
+
+| world = Wysteria
+| location = Tanglewood Way
+| subloc1 = Von Bracken's Grove
+| badge = Bracken Clearer
+| descrip =
+Baron von Bracken (Tier 2) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Wysteria Spellemental Pack}}.
+*This Tier is for level 36-50 Wizards.
+
+| speech =
+:''"Who dares venture encroach upon the domain of Baron von Bracken, Lord Protector of the Underbrush? A Wizard? Hrmph. Step forth and be overtaken."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wysteria
+| tome description =
+Not to be confused with Baron von Brackish, who rules over seas and lakes.
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Death}} ''"Feel the sting of my nettles!"'' - If a Feint is cast on Baron von Bracken, he'll cast a Natural Attack dealing 210, 315, or 430 Death Damage on the Wizard.
+*{{Icon|Heal}} ''"Nature Will Always Find a Way!"'' - If a Wizard casts a Damage or Steal Spell on Baron von Bracken that deals less than 50% of the Boss's Max Health (< 100,000), he will cast a Moon version of Blessing, restoring 100% of his max Health, and use a Shadow version of Triage on himself.
+**Casting a Damage over Time Spell without the initial hit, such as {{Link|Spell|Scald}}, will trigger this cheat.
+**''"Curses!"'' - This cheat will not trigger if the Damage Spell deals more than 50% of the Boss's Max Health (> 100,000).
+
+| spellnotes =
+
+| casts =
+Deathblade (+40%);
+Spirit Blade;
+Dragonlance;
+Death Trap;
+Feint (All Enemies);
+Spirit Trap;
+Headless Horseman;
+Scarecrow;
+Angry Snowpig (Tier 2a);
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Participation Trophy;
+
+| spellements =
+Angry Snowpig;
+Ninja Piglets;
+Pigsie;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

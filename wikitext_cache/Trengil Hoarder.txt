@@ -1,0 +1,256 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 7,000
+| crecla = Trengil
+| school = Ice
+| school2 = Balance
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+15%;
+
+| outboost =
+35%;
+
+| incboost =
+15% Fire;
+
+| incresist =
+30% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Scaly Trengil;
+
+| world = Mirage
+| location = Caravan
+| subloc1 = Trengil Hidey-Hole
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"*Eyes Glower*"'' - If a Wizard joins the duel after it has already begun, he will cast {{Link|Spell|Steal Pips (Moon)}} stealing 1 Pip from the Wizard.
+*{{Icon|Blade}}{{Icon|Shield}} ''"*Eyes Widen*"'' / ''"*Eyes Shine*"'' - At the end of every Round if a positive Charm or Ward is cast, the Trengil Hoarder will cast an AoE {{Link|Spell|Steal Charm (Shadow)}} that steals one positive [[:Category:Blade Spells|Charm]] (including Pierce Charms), or an AoE {{Link|Spell|Steal Ward (Shadow)}} that steals one [[:Category:Ward Spells|Shield]] from all Wizards.
+**[[:Category:Trap Spells|Traps]] and {{Link|Spell|Stun Block}} will trigger the AoE Steal Ward (Shadow).
+**Using {{Link|Spell|Steal Charm}} and {{Link|Spell|Steal Ward}} on Trengil Hoarder won't trigger this cheat.
+**{{Link|Spell|Aegis}} can be used to prevent the steal.
+*{{Icon|Shadow}}{{Icon|Manipulation}} After casting his natural attack, Trengil Hoarder will use Steal Charm (Shadow) and Steal Ward (Shadow) on it's target.
+*{{Icon|Shadow}}{{Icon|Manipulation}} ''"*Eyes Sparkle*"'' - If the Trengil Hoarder casts {{Link|Spell|Bladestorm}} or {{Link|Spell|Legion Shield}}, he will cast Steal Charm (Shadow) or Steal Ward (Shadow) from his Minion.
+
+| spellnotes =
+
+| casts =
+Vengeance;
+Legion Shield (-35%);
+Bladestorm (+25%);
+Mass Ice Prism;
+Freeze (80%);
+Icebird (297);
+Natural Attack (Ice 105-210-315, 75%);
+Blizzard (290-330, 80%);
+Frost Giant (530);
+Hydra (265);
+Nested Fury;
+Wrath of Aquila;
+
+| quests =
+The Jeweled Box;
+
+| gold =
+133 - 367;
+
+| hats =
+Djinn Ghutrah of Durability*F2;
+Djinn Ghutrah of Patience;
+
+| robes =
+Mongu Frostfall Vestment;
+
+| boots =
+Djinn Slippers of Darkness;
+Djinn Slippers of Flux;
+Mongu Givehs of Ages;
+Mongu Givehs of Force;
+Nomad's Striders of Redress;
+Nomad's Striders of Solitude;
+Nomad's Sunfire Striders;
+
+| athames =
+Djinn Khanjar of Darkness;
+Djinn Khanjar of Durability;
+Djinn Khanjar of Flux;
+Djinn Khanjar of Sparks;
+Djinn Khanjar of Vim;
+
+| amulets =
+Djinn Pendant of Invention;
+Djinn Pendant of Justice;
+Fang Collar of Frostfall;
+
+| rings =
+Djinn Loop of Justice;
+Djinn Signet of Durability;
+
+| wands =
+Purrzian Bow of Redress;
+Purrzian Sunfire Bow;
+Sturdy Purrzian Axe & Shield;
+
+| decks =
+Fang Deck of Ages;
+
+| items =
+
+| cards =
+Ashen Bones;
+Astraphobia;
+Counterforce*F2;
+Mass Life Prism;
+Mutate Banshee (Sun);
+Mutate Elf (Storm);
+Mutate Helephant (Ice);
+Mutate Hound (Storm);
+Mutate Kraken (Ice);
+Mutate Minotaur (Sun);
+Mutate Monster (Fire);
+Mutate Serpent (Storm);
+Mutate Snake (Fire);
+Mutate Snake (Ice);
+Mutate Wyvern (Fire);
+Saga of Heroes;
+
+| reagents =
+Ancient Scroll;
+Antique Coins*F2;
+Black Pearl*F3*WMV;
+Blood Moss*F2;
+Brass*F2*WMV;
+Bronze Gear*F4*WMV;
+Cobalt*F3*WMV;
+Ectoplasm*F2;
+Nickel*F2;
+Scales*F4*WMV;
+Spider Silk;
+Spring*F8*WMV;
+Tin*F2*WMV;
+Turmeric*F2;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate*F2;
+Chalupacabra*F2*WMV;
+Chili Cheese Fries*F2*WMV;
+Chili Peppers*F2*WMV;
+Eye Candy*F2;
+Fire Passion Fruit;
+French Fries;
+Gourmet Yogurt;
+Green Tomato;
+Hard Boiled Beetle Eggs*F3;
+Hot Cross Buns*F3*WMV;
+Huge Ice Cream*F2;
+Large Ice Cream;
+Mustachios;
+Ships 'n' Queso;
+Submarine Sandwich*F3*WMV;
+Super Cold Popsicle;
+Veggie Juice;
+
+| jewels =
+Flawless Opal;
+Lustrous Blocking Amethyst +13;
+Lustrous Blocking Jade +13;
+Lustrous Critical Jade +13;
+Lustrous Critical Peridot +13;
+Lustrous Defense Ruby +45;
+Lustrous Health Opal +97;
+Lustrous Mana Opal +42;
+Magnify Opal;
+Polished Accurate Amethyst +10%;
+Polished Blocking Amethyst +11;
+Polished Defense Onyx +41;
+Polished Defense Peridot +42;
+Polished Defense Ruby +41;
+Polished Health Opal +90;
+Polished Health Opal +94;
+Polished Mana Opal +39*F2*WMV;
+Polished Mana Opal +40*F2;
+Renew Opal*F2; 
+Shiny Blocking Jade +16;
+Shiny Blocking Ruby +16;
+Shiny Blocking Sapphire +16;
+Shiny Critical Amethyst +16;
+Shiny Damage Citrine +26;
+Shiny Defense Ruby +51;
+Shiny Defense Ruby +52;
+Shiny Defense Sapphire +51;
+Shiny Health Opal +112;
+Shiny Health Opal +113;
+Shiny Health Opal +114*F3*WMV;
+Shiny Mana Opal +47*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears*F3*WMV;
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper;
+Blue Huckleberries*F2*WMV;
+Boiled Peanuts*F2;
+Boom Shroom;
+Boon Tree*CR;
+Bread Fruit Bush*F2;
+Clockwork Flower;
+Cornbread Fruit Bush*F7*WMV;
+Couch Potatoes*CR;
+Dandelion*F2*WMV;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Evil Snow Peas;
+Fickle Pickle*F2*WMV;
+Fish on a Vine*F2*WMV;
+Grapes of Wrath*CR*F2;
+Honey Sickle; 
+King Parsley*CR;
+Melting Cheese Tree;
+Moon Flower;
+Orange Bell Pepper*CR;
+Pink Huckleberries;
+Pink Laugh-O-Dil*F2*WMV;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Red Bell Pepper;
+Red Couch Potatoes*F2*WMV;
+Red Huckleberries*F4*WMV;
+Saw Palmetto;
+Snap Dragon;
+Sugar Khrystal*CR*F2;
+Sword Fern*CR;
+White Desparagus;
+White Laugh-O-Dil;
+White Tiger Lily*F3*WMV;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

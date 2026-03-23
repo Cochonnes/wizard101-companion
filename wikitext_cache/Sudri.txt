@@ -1,0 +1,105 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,520
+| crecla = Giant
+| school = Moon
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+25% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Grizzleheim
+| location = Nastrond
+| subloc1 = Jotengard
+| descrip =
+For the purpose of drops, Sudri is considered a Minion to {{Link|Creature|Nordri}}.  All drops, cheats, and speech are recorded on that page.
+
+| speech =
+
+| cheatnotes =
+*"Wrong brother! I'm it!" - Casting Spells at a Boss without the Stun Shield will trigger Sudri casting Hydra dealing '''190''' Fire, Ice & Storm Damage.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Ice Damage.
+
+| casts =
+Moon Shield;
+Moon Blade;
+Moon Trap;
+Freeze;
+Black Widow;
+Poison;
+Wraith;
+Ice Wyvern;
+Raging Kraken (Ice);
+Frostbite;
+Icezilla (650-730);
+Colossus;
+
+| quests =
+Rune With a View;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

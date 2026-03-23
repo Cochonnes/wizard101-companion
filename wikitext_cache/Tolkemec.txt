@@ -1,0 +1,146 @@
+{{Stub|confirmation whether it casts {{Link|Spell|Link}} or {{Link|Spell|Power Link}}}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 12,840
+| crecla = Raptor
+| school = Life
+| masteries =
+Fire;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+61 Any;
+
+| criticalblock =
+89 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Smoking Mirror Zombie;
+Smoking Mirror Zombie;
+
+| world = Azteca
+| location = Cenote
+| subloc1 = Azure Chamber
+| descrip =
+Pyromancers must defeat Tolkemec and his Minions to earn the {{Link|Spell|Sun Serpent}} Spell.
+*This Boss must be dueled solo.
+
+| speech =
+:''"One has come into this place... bones still wreathed in flesh. Let us free their bones from that weak, useless flesh!''
+
+| cheatnotes =
+
+| casts =
+Mend;
+Vengeance;
+Amplify (+25%);
+Guiding Light;
+Rebirth;
+Lifeblade;
+Fireblade;
+Luminous Weaver;
+Natural Attack (Life 175-350-525, 90%);
+Centaur (610-670);
+Forest Lord;
+Spinysaur;
+Fire Beetle;
+Link;
+Meteor Strike;
+Power Link;
+Efreet;
+
+| quests =
+Invisible Sun;
+
+| gold =
+175 - 191;
+
+| hats =
+Dawn Hour Mantle;
+Elite Jura Guard Helm;
+Twisted Fang Mask;
+
+| robes =
+
+| boots =
+Smoking Obsidian Rangers;
+
+| athames =
+Bleeding Sun Dagger;
+
+| amulets =
+Shining Cold House Amulet;
+Smoking Fang Talisman;
+Stone of the Green Skycarrier;
+
+| rings =
+Acampi Reedfist's Lost Seal;
+Bleeding Sun Warrior's Loop;
+Falling Star's End Time Band;
+Mother Moon's Count Ring;
+
+| wands =
+
+| decks =
+Codex of the Lost Fire*F2*WMV;
+Deck of the Jaguar Spirit;
+
+| items =
+Azteca Apocalypse Theme;
+
+| cards =
+Leviathan;
+
+| reagents =
+Black Pearl;
+Bone;
+Bronze Gear;
+Deep Mushroom;
+Fire Blossom;
+Fossil;
+Lava Lily;
+Mist Wood;
+Ore*F2*WMV;
+Red Mandrake;
+Stone Block*F2*WMV;
+
+| spellements =
+
+| snacks =
+Fern Jelly;
+Marzipan Maize;
+Pyramints;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+}}

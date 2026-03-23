@@ -1,0 +1,185 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 6,440
+| crecla = Giant
+| school = Ice
+| startpips = 3
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Snow Skull;
+
+| world = Grizzleheim
+| location = Vestrilund
+| subloc1 = Thurnir's Cave
+| descrip =
+Two additional Snow Skull Minions appear if more than two Wizards are present.
+
+| speech =
+:''"I don't remember ordering out for me meal... but you'll do!"''
+
+| casts =
+Stun Block;
+Iceblade;
+Ice Trap;
+Ice Prism;
+Thieving Dragon;
+Blizzard;
+Ice Wyvern;
+Blight Hound;
+Colossus;
+Tundra Lord;
+Natural Attack (Ice 85x, 80%);
+
+| quests =
+Golden Axe;
+
+| gold =
+62 - 89;
+
+| hats =
+Blustering Bear Hat*F3;
+Grizzled Helm*F2;
+Hopping Bear Hat;
+Horned Helm of the North;
+Horned Helm of Valor;
+
+| robes =
+Bear's Heart Jerkin;
+Chill-Kissed Coat;
+Coat of Ages;
+Jerkin of the Great Bear;
+Jerkin of the Howling Bear;
+Raiment of Sharp Talons*F2;
+Raiment of the Evil Eye*F4*WMV;
+
+| boots =
+Barbarian's Bold Boots;
+Barbarian's Brave Boots*F3;
+Barbarian's Courage Boots*F2;
+Barbarian's Daring Boots;
+Barbarian's Fearless Boots;
+Barbarian's Fierce Boots;
+Barbarian's Valorous Boots*F3*WMV;
+Biting Bear Boots;
+Slashing Bear Boots;
+Snarling Bear Boots*F2;
+
+| athames =
+Wolf's Silver Claw*F2*WMV;
+
+| amulets =
+Dragon's Shield Amulet*F5*WMV;
+Moon's Healing Charm;
+
+| rings =
+Ring of Sister Wolf;
+Ring of the Hungry Wolf*F3*WMV;
+Ring of the Hunting Wolf*F2*WMV;
+Ring of the Ravenous Wolf;
+Ring of the Wolf's Song;
+
+| wands =
+Horns of Winter Dreams*F2;
+Juniper Staff*F2*WMV;
+Staff of the Rushing Bear*F3;
+
+| decks =
+
+| items =
+
+| cards =
+Dryad;
+Fire Trap;
+Frozen Armor*F7*WMV;
+Legion Shield*F9*WMV;
+Pacify;
+Storm Trap;
+Sunbird;
+
+| reagents =
+Bone*F2*WMV;
+Brass;
+Bronze*F2;
+Cobalt;
+Nickel*F2;
+Spider Silk*F2*WMV;
+Steel;
+Tin;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F2;
+Cauliflowers;
+Flaming Soup;
+Glowing Star Fruit;
+Glowing Taffy;
+Goat Cheese;
+Golden Apple*F2;
+Golden Grapes;
+Gummy Humongofrog*F2;
+King Banana;
+Salmonberry*F2;
+Shiny Tomato;
+Spicy Drumstick;
+Strawberry Cupcake;
+Submarine Sandwich*F2*WMV;
+Uni-Corn*F5*WMV;
+
+| jewels =
+Dull Critical Citrine +3;
+Dull Critical Peridot +3;
+Fire Elemental Opal;
+Flawed Mending Opal +2%;
+Life-Proof Jade;
+Mass Death Prism Onyx;
+Mass Fire Prism Ruby;
+Mass Ice Prism Sapphire;
+Mass Life Prism Jade;
+Plain Blocking Citrine +6;
+Plain Blocking Opal +3;
+Plain Blocking Ruby +6;
+Plain Damage Citrine +15;
+Plain Damage Onyx +15;
+Plain Damage Sapphire +15;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Cornbread Fruit Bush;
+Evil Snow Peas;
+Orange Dandelion*F2;
+Snap Dragon;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

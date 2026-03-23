@@ -1,0 +1,140 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 11,600
+| crecla = Unicorn
+| school = Death
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Arcanum
+| location = The Arcanum
+| subloc1 = Arbiter's Arena
+| descrip = Death Wizards must pass this Arbiter's test. The battle may be repeated by re-entering the location, until the Wizard turns in the quest.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Dark Pact (+30%);
+Death Trap;
+Feint;
+Age of Reckoning;
+Death Scarab (Death);
+Death Troll (Death);
+Red Banshee;
+Natural Attack (Death 110-215-320);
+Death Cyclops;
+Skeletal Dragon;
+Avenging Fossil;
+
+| quests =
+Winged Sorrow;
+
+| gold =
+51 - 99;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Arcanum Theme;
+Polaris Frozen Combat Theme;
+Polaris Gulag Combat Theme;
+Polaris Gulag Theme;
+Polaris Rasputin Combat Theme;
+Small Enchanted Pot;
+Small Pot;
+Walruskberg Combat Theme*F2*WMV;
+Walruskberg Theme;
+
+| cards =
+Age of Reckoning;
+Saga of Heroes;
+
+| reagents =
+Aether;
+Amber;
+Amber Dust;
+Astral Shard*F2;
+Braided Vine;
+Fire Blossom;
+Golden Pearl*F4*WMV;
+Merle's Whisker;
+Mithril;
+Palladium*F2;
+Scales*F2*WMV;
+Steel*F2;
+Sunstone*F3;
+Titanium;
+Turquoise*F2;
+
+| spellements =
+
+| snacks =
+Eye Candy;
+Mustachios;
+Polaris Fries;
+Satyr Chow;
+Ships 'n' Queso;
+Veggie Juice;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Cornbread Fruit Bush*F2;
+Evil Snow Peas;
+Fish on a Vine;
+Goose Tree;
+King Parsley*CR*F2;
+Moon Flower;
+Purple Snow Apples*F2;
+Queen Crape Myrtle*F2*WMV;
+Ultra Ninja Fig;
+White Laugh-O-Dil;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

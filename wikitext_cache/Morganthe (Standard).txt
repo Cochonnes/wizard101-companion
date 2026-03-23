@@ -1,0 +1,125 @@
+{{Stub|Confirmation on Rounds when Cards are received.}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 140,000
+| crecla = Wizard
+| school = Shadow
+| cheats = Yes
+| shadowslots = 7
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+21%;
+
+| outboost =
+50%;
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Morganthe Rematch
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the Challenge version of this battle, see {{Link|Creature|Morganthe (Challenge)}}.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Spell}} ''"Feed the Darkness"'':
+**At the beginning of the first Round, Morganthe will give all Wizards two Shadow Empower cards:
+**{{GivesSpell|spells = 1|size = x150px|Shadow Empower}}
+**At the beginning of the second Round, Morganthe will give all Wizards two Dark Nova cards:
+**{{GivesSpell|spells = 1|size = x150px|Dark Nova (Given)}}
+*{{Icon|Damage}} ''"Submit to Shadow"'' - At the end of every Round, Morganthe will cast a Shadow Natural Attack that deals 300 Shadow Damage or 600 Shadow Damage per Shadow Pip to all enemies.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Shadowspear;
+Shadowblade;
+Shadow Trap;
+Mass Hex;
+
+| quests =
+
+| gold =
+
+| hats =
+Umbra Queen's Chill Crown (Level 170+);
+Umbra Queen's Dusty Crown (Level 170+);
+Umbra Queen's Furious Crown (Level 170+);
+Umbra Queen's Grim Crown (Level 170+);
+Umbra Queen's Scorched Crown (Level 170+);
+Umbra Queen's Shocked Crown (Level 170+);
+Umbra Queen's Wild Crown (Level 170+);
+
+| robes =
+Umbra Queen's Chill Garment (Level 170+);
+Umbra Queen's Dusty Garment (Level 170+);
+Umbra Queen's Furious Garment (Level 170+);
+Umbra Queen's Grim Garment (Level 170+);
+Umbra Queen's Scorched Garment (Level 170+);
+Umbra Queen's Shocked Garment (Level 170+);
+Umbra Queen's Wild Garment (Level 170+);
+
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth
+
+| reagents =
+Shadow Webbing;
+
+| spellements =
+King Artorius (Balance);
+King Artorius (Death);
+King Artorius (Fire);
+King Artorius (Ice);
+King Artorius (Life);
+King Artorius (Myth);
+King Artorius (Storm);
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

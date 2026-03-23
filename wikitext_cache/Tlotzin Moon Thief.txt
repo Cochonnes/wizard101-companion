@@ -1,0 +1,131 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 12,200
+| crecla = Raptor
+| school = Myth
+| masteries =
+Death;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+110 Any;
+
+| criticalblock =
+50 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Thunder Horn Ghoul;
+Thunder Horn Zombie;
+
+| world = Azteca
+| location = Mangrove Marsh
+| subloc1 = Falling Cavern
+| descrip =
+Thaumaturges must defeat this Boss during their Level 88 quest to obtain the {{Link|Spell|Lord of Winter}} spell.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Ether Shield;
+Infection;
+Mythblade;
+Spirit Blade;
+Curse (+25%);
+Myth Banshee (170);
+Natural Attack (Myth 170-340-510);
+Humongofrog;
+Humongofrog (400-500);
+Basilisk;
+Celestial Calendar;
+Wraith;
+
+| quests =
+Winter is Coming;
+
+| gold =
+177 - 198;
+
+| hats =
+Thirteen Death Mask;
+Tree of Secrets Chac Mask*F2*WMV;
+Twisted Fang Mask;
+
+| robes =
+
+| boots =
+Death Moon's Chosen Gliders;
+
+| athames =
+Burning Water Talon;
+
+| amulets =
+Smoking Fang Talisman;
+
+| rings =
+Falling Star's End Time Band;
+
+| wands =
+Eclipse Spear of Azteca;
+
+| decks =
+Deck of the Jaguar Spirit;
+
+| items =
+
+| cards =
+Colossal;
+Dr. Von's Monster;
+Primordial;
+
+| reagents =
+Bone;
+Bronze Gear*F2*WMV;
+Deep Mushroom;
+Lava Lily*F2*WMV;
+Ore;
+Red Mandrake*F2*WMV;
+Stone Block;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Maize;
+Stego Waffles;
+Zocalo Wings;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

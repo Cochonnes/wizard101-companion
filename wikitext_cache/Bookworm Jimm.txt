@@ -1,0 +1,202 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,155
+| crecla = Beastman
+| school = Death
+| startpips = 3
+| shadowslots = 2
+| powerpips = Yes
+| critical =
+120 Any;
+
+| criticalblock =
+107 Any;
+
+| outpierce =
+15%;
+
+| outboost =
+65%;
+
+| incboost =
+15% Life;
+
+| incresist =
+30% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Beastman Guard (Storm, Rank 15, H2415);
+
+| world = Empyrea
+| location = Aeriel Jungle
+| subloc1 = Beastman Leader's Cave
+| descrip =
+
+| speech =
+:"''Verily hath I consumed the book of knowledge and internalized its wisdom! I am become Sentience for Dumb-Dumbs. And with this power, I shall rid Aeriel of the slaver Caleban and the Outlanders of Nowhere!"''
+
+| spellnotes =
+
+| casts =
+Dark Shepherd;
+Empowerment;
+Infection;
+Plague;
+Mass Infection;
+Doom and Gloom;
+Natural Attack (Death 135-230-325);
+Lord of Night;
+Wraith;
+Scarecrow;
+Dr. Von's Monster;
+
+| quests =
+Destroyer of Words;
+
+| gold =
+336 - 709;
+
+| hats =
+Interstellar Hero's Helm;
+Interstellar Officer's Helm;
+
+| robes =
+Interstellar Hero's Uniform*F2*WMV;
+Interstellar Officer's Uniform;
+
+| boots =
+
+| athames =
+Interstellar Explorer's Knife;
+Interstellar Medic's Scalpel;
+
+| amulets =
+Interstellar Delegate's Charm*F2;
+Interstellar Engineer's Charm*F2*WMV;
+Interstellar Hero's Charm*F3*WMV;
+Interstellar Medic's Charm;
+Interstellar Navigator's Charm;
+Interstellar Officer's Charm*F2*WMV;
+Interstellar Warrior's Charm*F2;
+
+| rings =
+Interstellar Engineer's Band;
+
+| wands =
+
+| decks =
+
+| items =
+Empyrea Aeriel Theme*F3*WMV;
+Empyrea Flotsam Combat Theme*F2*WMV;
+Empyrea Inner Athanor Theme;
+
+| cards =
+Combustion;
+Doom and Gloom;
+Mass Death Prism*F2*WMV;
+Mass Storm Prism;
+Mass Triage;
+
+| reagents =
+Ancient Scroll;
+Antique Coins;
+Black Pearl*F5*WMV;
+Blood Moss*F2*WMV;
+Brass*F3*WMV;
+Bronze Gear*F2;
+Cobalt*F7*WMV;
+Ectoplasm*F2;
+Nickel*F4*WMV;
+Scales*F6*WMV;
+Spider Silk*F3*WMV;
+Spring*F4*WMV;
+Tin*F2*WMV;
+
+| spellements =
+
+| snacks =
+BBQ Drumstick;
+Beast Wellington;
+Bread Fruit Fruit;
+Eye Candy*F2*WMV;
+Glowing Taffy*F2*WMV;
+Hot Cross Buns;
+Pizza*F2;
+Rock and Roll Candy*F2*WMV;
+Satyr Chow;
+Sprinkle Cupcake*F2;
+Squash*F2*WMV;
+
+| jewels =
+Ally Glacial Shield Ruby;
+Ally Legend Shield Jade;
+Ally Precision Citrine;
+Ally Thermic Shield Amethyst;
+Balance Assailant Citrine;
+Balance-Boon Citrine;
+Balance-It Citrine*F2;
+Balance-Ward Citrine;
+Death-Shot Onyx*F2*WMV;
+Fire Striker Ruby;
+Fire-Proof Ruby;
+Ice-Away Sapphire;
+Ice-Shot Sapphire;
+Life-Bringer Jade;
+Life-Proof Jade;
+Lustrous Accurate Amethyst +11%;
+Lustrous Accurate Peridot +11%;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Ruby +13;
+Lustrous Blocking Sapphire +13*F2*WMV;
+Lustrous Critical Jade +13;
+Lustrous Critical Onyx +13;
+Lustrous Damage Jade +23;
+Lustrous Defense Amethyst +45;
+Lustrous Health Opal +96;
+Lustrous Health Opal +100;
+Lustrous Mana Opal +41;
+Myth Striker Peridot;
+Myth-Away Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears*F2*WMV;
+Baby Carrots*F3*WMV;
+Bell Pepper;
+Blue Huckleberries*F2;
+Boiled Peanuts;
+Bread Fruit Bush*F2*WMV;
+Cornbread Fruit Bush*F2;
+Couch Potatoes*CR*F2;
+Fickle Pickle;
+Fish on a Vine*F3*WMV;
+Golden Couch Potatoes*F3;
+Grapes of Wrath*CR*F5*WMV;
+Ivy League*CR*F3*WMV;
+Maltese Tiger Lily*F2;
+Pink Huckleberries;
+Prickly Bear Cactus;
+Red Bell Pepper;
+Red Couch Potatoes;
+Red Huckleberries;
+Saw Palmetto;
+Snow Apples*F2*WMV;
+Sugar Khrystal*CR;
+Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+}}

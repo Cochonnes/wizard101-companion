@@ -1,0 +1,166 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 4,010
+| crecla = Giant
+| school = Ice
+| startpips = 3
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Frost Bones;
+
+| world = Grizzleheim
+| location = Hrundle Fjord
+| subloc1 = Battlegloom's Cave
+| descrip =
+
+| speech =
+:''"You have the stink of strange magic on you, Outlander! I'll dunk you in the hot springs when I'm through with you!"''
+
+| spellnotes =
+
+| casts =
+Stun Block;
+Iceblade;
+Ice Trap;
+Blizzard;
+Ice Wyvern;
+Blight Hound;
+
+| quests =
+Just Trolling;
+
+| gold =
+46 - 70;
+
+| hats =
+Blasted Bear Hat;
+Burning Bear Hat;
+Horned Helm of Bravery*F2*WMV;
+Horned Helm of Courage*F2;
+Horned Helm of the Mighty;
+Horned Helm of Valor*F2*WMV;
+
+| robes =
+Blustering Coat*F2*WMV;
+Coat of Ages*F3;
+Coat of Justice*F2*WMV;
+Hardy Coat*F3*WMV;
+Jerkin of the Bear's Shadow*F2;
+Jerkin of the Bleak Bear;
+
+| boots =
+Angry Bear Boots;
+Barbarian's Courage Boots*F2;
+Biting Bear Boots*F2;
+Fighting Bear Boots*F2;
+Growling Bear Boots*F3*WMV;
+Roaring Bear Boots;
+Slashing Bear Boots*F2*WMV;
+Snarling Bear Boots;
+
+| athames =
+Wolf's Jade Claw*F7*WMV;
+
+| amulets =
+Dragon's Shield Amulet;
+Wyrm's Blessing Charm*F4*WMV;
+
+| rings =
+Ring of Brother Wolf;
+Ring of Fang;
+Ring of Sister Wolf;
+Ring of the Hungry Wolf;
+Ring of the Wolf's Song*F3*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Accurate*F3*WMV;
+Amplify*F3*WMV;
+Fire Elf;
+Giant*F5*WMV;
+Guiding Light;
+Keen Eyes;
+Legion Shield;
+Pierce;
+Pixie;
+Sprite;
+Strong;
+
+| reagents =
+Bone*F5*WMV;
+Brass;
+Cobalt;
+Copper;
+Lead;
+Nickel;
+Spider Silk*F4*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2*WMV;
+Delicious Cookie;
+Flaming Soup;
+Glowing Star Fruit*F2;
+Goat Cheese;
+Golden Apple*F2*WMV;
+Golden Grapes*F2;
+Gummy Humongofrog*F3*WMV;
+Strawberry Cupcake;
+Submarine Sandwich;
+
+| jewels =
+Aura Crush Citrine;
+Balanceblade Talent Citrine;
+Dissipate Amethyst;
+Dull Critical Citrine +3;
+Dull Critical Ruby +3;
+Dull Defense Peridot +26;
+Plain Defense Amethyst +29;
+Pyrosaurus Rex Ruby;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Burning Snap Dragon*F2;
+Evil Snow Peas*F2*WMV;
+Helephant Ears;
+Rye Bread Fruit Bush*F2;
+Snap Dragon;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

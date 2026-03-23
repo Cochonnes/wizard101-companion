@@ -1,0 +1,163 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,730
+| crecla = Shadow Weaver
+| school = Fire
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Longdreamer Shaman;
+
+| world = Zafaria
+| location = Drum Jungle
+| subloc1 = Overseer's Tower
+| descrip =
+
+| speech =
+:''"Shadowblight! I'll smoke your hide and crack your bones!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Fire Damage.
+
+| casts =
+Amplify;
+Infallible;
+Fireblade;
+Fire Trap;
+Fire Shark;
+Meteor Strike;
+Power Link;
+Scald;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Efreet;
+
+| quests =
+What Is This Burning?;
+ 
+| gold =
+80 - 120;
+
+| hats =
+Blackback Safari Brim*F2*WMV;
+Face of Baobab*F2*WMV;
+Hat of the Old Kings*F2*WMV;
+Hood of the Grasslands;
+Hood of the Hepheloomp;
+
+| robes =
+Big Sky Outfit*F2*WMV;
+Cold River Cloak*F2; 
+Graveyard Shift*F2;
+
+| boots =
+Big Five Trackers;
+Nemean Rock Climbers*F3*WMV;
+Shaman's Cold River Wraps*F2*WMV;
+
+| athames =
+Hot White Scimitar;
+
+| amulets =
+Collar of the Ice Hound*F2*WMV;
+
+| rings =
+Kallah's Dread Stone*F2*WMV;
+Mago's River Stone;
+
+| wands =
+Spear of the Trade Winds*F2*WMV;
+Staff of Shadow and Light*F2*WMV;
+
+| decks =
+Bundle of Ananse's Stories;
+Dead Chieftain's Fanged Deck*F2;
+Hand-Chased Box of Winter*F3*WMV;
+
+| items =
+
+| cards =
+Efreet*F2*WMV;
+Forest Lord;
+Fuel*F2*WMV;
+Leviathan*F2*WMV;
+Medusa*F2*WMV;
+Power Link*F4*WMV;
+Ra*F2*WMV;
+Skeletal Dragon*F2*WMV;
+Snow Angel;
+
+| reagents =
+Bronze Gear*F3*WMV;
+Leather Straps*F3*WMV;
+Nickel;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Delicious Cookie*F2*WMV;
+Flaming Soup;
+Goat Cheese;
+Golden Apple*F2*WMV;
+Golden Grapes;
+Gummy Humongofrog*F2*WMV;
+Jelly Baby;
+King Banana;
+Kola Nuts*F2*WMV;
+Salmonberry*F2*WMV;
+Shiny Tomato;
+Spicy Drumstick;
+Strawberry Cupcake;
+
+| jewels =
+Flummox Opal;
+Opaque Blocking Jade +7;
+Opaque Critical Citrine +7;
+Opaque Critical Jade +7;
+Opaque Piercing Sapphire +4%;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Evil Snow Peas*F2*WMV;
+Key Limes*CR;
+Orange Bell Pepper*CR;
+Orange Dandelion;
+Snap Dragon;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,251 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 60,000
+| crecla = Goliath
+| crecla2 = Insect
+| school = Shadow
+| masteries =
+Fire;
+Ice;
+Storm;
+Myth;
+Life;
+Death;
+Balance;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+421 Any;
+
+| criticalblock =
+
+| outpierce =
+29%;
+
+| outboost =
+49%;
+
+| incboost =
+None;
+
+| incresist =
+300% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Charming Trickster (Tier 3);
+Cursed Shrike (Tier 3);
+Frenzied Shrike (Tier 3);
+Mending Trickster (Tier 3);
+Mighty Sentinel (Tier 3);
+Mocking Sentinel (Tier 3);
+Mollifying Sentinel (Tier 3);
+Seraph of Blessings (Tier 3);
+Seraph of Sacred Ground (Tier 3);
+Seraph of Salvation (Tier 3);
+Sly Trickster (Tier 3);
+Trapper Shrike (Tier 3);
+
+| world = Khrysalis
+| location = Last Wood
+| subloc1 = General Lightbane's Chamber
+| badge = Main Lightbane Bane
+| descrip =
+General Lightbane (Tier 3) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Burrower's Rebellion Pack}}.
+*This Tier is for level 110-{{MaxLevel}} Wizards.
+
+| speech =
+
+| cheatnotes =
+*''"Scour the Light and Raise the Shadow!"'' - At the beginning of the first Round, General Lightbane will cast one of the versions of these following Spells. This cheat will repeat after attacking.
+**{{Link|Spell|Dark Nova}}, {{Link|Spell|Dark Shepherd}}, {{Link|Spell|Dark Fiend}}
+***These Spells are accelerated, adding a +40% Shadowblade at the end of Round 1, and the second effect Shadowspear and Shadow Trap Round two and attacking the same Round.
+
+*General Lightbane will cast a Shadow Spell to summon one of the following Minions, and they will affect the Spells it casts accordingly.
+**These cheats repeat after the two Round Shadow-Creature Spell cycle.
+
+*{{Icon|Healing|20px}} ''"Beware, my thrall, of Healing"'' - {{Link|Creature|Seraph of Salvation (Tier 3)}} {{Icon|Shadow}}{{Icon|Life}}.
+**General Lightbane will use his turns casting Minor Blessing & Fairy.
+***These will be cast on the minion.
+
+*{{Icon|Damage|20px}} ''"Beware, my thrall, of Damage"'' - {{Link|Creature|Frenzied Shrike (Tier 3)}} {{Icon|Shadow}}{{Icon|Death}}.
+**General Lightbane will use his turns casting Super Shadowplume & Headless Horseman (Shadow).
+
+*{{Icon|Heal over Time|20px}} ''"Beware, my thrall, of HOTs"'' - {{Link|Creature|Mending Trickster (Tier 3)}} {{Icon|Shadow}}{{Icon|Life}}.
+**General Lightbane will use his turns casting Vitamins & Regenerate.
+***These will be cast on the minion.
+
+*{{Icon|Damage over Time|20px}} ''"Beware, my thrall, of DOTs"'' - {{Link|Creature|Sly Trickster (Tier 3)}} {{Icon|Shadow}}{{Icon|Fire}}.
+**General Lightbane will use his turns casting Storm Elf (Shadow) & Heck Hound.
+
+*{{Icon|Blade|20px}} ''"Beware, my thrall, of Charms"'' - {{Link|Creature|Charming Trickster (Tier 3)}} {{Icon|Shadow}}{{Icon|Storm}}.
+**General Lightbane will use his turns casting Dragonblade & Chromatic Blast.
+
+*{{Icon|Curse|20px}} ''"Beware, my thrall, of Curses"'' - {{Link|Creature|Cursed Shrike (Tier 3)}} {{Icon|Shadow}}{{Icon|Storm}}.
+**General Lightbane will use his turns casting Weakness & Virulent Plague.
+
+*{{Icon|Ward|20px}} ''"Beware, my thrall, of Wards"'' - {{Link|Creature|Mighty Sentinel (Tier 3)}} {{Icon|Shadow}}{{Icon|Balance}}.
+**General Lightbane will use his turns casting Tower Shield & Frozen Armor.
+
+*{{Icon|Trap|20px}} ''"Beware, my thrall, of Jinxes"'' - {{Link|Creature|Trapper Shrike (Tier 3)}} {{Icon|Shadow}}{{Icon|Myth}}.
+**General Lightbane will use his turns casting Hex & Mass Feint (+70%).
+
+*{{Icon|Pacify|20px}} ''"Beware, my thrall, of Pacify"'' - {{Link|Creature|Mollifying Sentinel (Tier 3)}} {{Icon|Shadow}}{{Icon|Life}}.
+**General Lightbane will use his turns casting Pacify & Tranquilize.
+
+*{{Icon|Threat|20px}} ''"Beware, my thrall, of Taunts"'' - {{Link|Creature|Mocking Sentinel (Tier 3)}}{{Icon|Shadow}}{{Icon|Ice}}.
+**General Lightbane will use his turns casting Taunt & Mega Taunt.
+
+*{{Icon|Global|20px}} ''"Beware, my thrall, of Globals"'' - {{Link|Creature|Seraph of Sacred Ground (Tier 3)}} {{Icon|Shadow}}{{Icon|Balance}}.
+**General Lightbane will use his turns casting Doom and Gloom & Shadow Global.
+
+*{{Icon|Aura|20px}} ''"Beware, my thrall, of Auras"'' - {{Link|Creature|Seraph of Blessings (Tier 3)}}{{Icon|Shadow}}{{Icon|Star}}.
+**General Lightbane will use his turns casting Frenzy & Frenzy (5 Pip).
+
+*''"Your magic feeds the Shadow"'' - Using the wrong Spell type against a certain Cycle Phase will trigger the following response casts from General Lightbane:
+**{{Icon|Healing|20px}} - Healing will trigger {{Link|Spell|Blessing}} on his minion.
+**{{Icon|Damage|20px}} - Damage will trigger {{Link|Spell|Super Shadowplume}}.
+**{{Icon|Heal over Time|20px}} - Heal over Time will trigger {{Link|Spell|Sprite}} on his minion.
+**{{Icon|Damage over Time|20px}} - Damage over Time will trigger {{Link|Spell|Scald}}.
+**{{Icon|Blade|20px}} - Blades will trigger {{Link|Spell|Balanceblade}}.
+**{{Icon|Curse|20px}} - Negative Damage Charms will trigger {{Link|Spell|Plague}}.
+**{{Icon|Ward|20px}} - Shields will trigger {{Link|Spell|Legion Shield}}.
+**{{Icon|Trap|20px}} - Traps will trigger {{Link|Spell|Mass Hex}}.
+**{{Icon|Pacify|20px}} - Pacifies will trigger {{Link|Spell|Subdue}}.
+**{{Icon|Threat|20px}} - Taunts will trigger {{Link|Spell|Taunt}}.
+**{{Icon|Global|20px}} - Globals will trigger {{Link|Spell|Shadow Global}}.
+**{{Icon|Aura|20px}} - Auras will trigger {{Link|Spell|Frenzy}}.
+
+*''"Gah!"'' - Casting the opposite Spell Type of a given Minion will cause it to use Sacrifice on itself, losing 20% maximum Health. This will increase the backlash of the Boss by +10.
+**Seraph of Salvation -> Damage
+**Frenzied Shrike -> Healing
+**Mending Trickster -> Damage over Time
+**Sly Trickster -> Heal over Time
+**Charming Trickster -> Negative Damage Charm
+**Cursed Shrike -> Blade
+**Mighty Sentinel -> Trap
+**Trapper Shrike -> Positive Ward
+**Mollifying Sentinel -> Taunt
+**Mocking Sentinel -> Pacify
+**Seraph of Blessings -> Global
+**Seraph of Sacred Ground -> Aura
+
+| spellnotes =
+*Frenzy (5 Pip) provides +40% outgoing Damage, and Doubles Pip gain for 4 Rounds.
+
+| casts =
+Frenzy;
+Frenzy (5 Pip);
+Tower Shield;
+Frozen Armor;
+Weakness;
+Virulent Plague;
+Vitamins;
+Minor Blessing;
+Fairy;
+Regenerate;
+Dragonblade;
+Chromatic Blast;
+Hex;
+Mass Feint (+70%);
+Tranquilize;
+Pacify;
+Taunt;
+Mega Taunt;
+Shadow Global;
+Doom and Gloom;
+Super Shadowplume;
+Storm Elf (Shadow);
+Headless Horseman (Shadow);
+Heck Hound;
+
+| quests =
+
+| gold =
+
+| hats =
+Burrower's Conjuration Hood (Level 160+)*CR;
+Burrower's Divination Hood (Level 160+)*CR;
+Burrower's Sorcery Hood (Level 160+)*CR;
+Burrower's Thaumaturgy Hood (Level 160+)*CR;
+
+| robes =
+Burrower's Sorcery Robe (Level 160+)*CR;
+Burrower's Theurgy Robe (Level 160+)*CR;
+
+| boots =
+Burrower's Thaumaturgy Boots (Level 160+)*CR;
+
+| athames =
+Burrower's Conjuration Athame (Level 160+)*CR;
+Burrower's Divination Athame (Level 160+)*CR;
+Burrower's Necromancy Athame (Level 160+)*CR;
+
+| amulets =
+Burrower's Conjuration Amulet (Level 160+)*CR;
+Burrower's Divination Amulet (Level 160+)*CR;
+Burrower's Sorcery Amulet (Level 160+)*CR;
+Burrower's Thaumaturgy Amulet (Level 160+)*CR;
+Burrower's Theurgy Amulet (Level 160+)*CR;
+
+| rings =
+Burrower's Divination Ring (Level 160+)*CR;
+Burrower's Necromancy Ring (Level 160+)*CR;
+Burrower's Thaumaturgy Ring (Level 160+)*CR;
+Burrower's Theurgy Ring (Level 160+)*CR;
+
+| wands =
+Necromancer's Mystic Sphere (Level 160+)*CR;
+Theurgist's Mystic Sphere (Level 160+)*CR;
+
+| decks =
+Burrower's Conjuration Deck (Level 160+)*CR;
+Burrower's Divination Deck (Level 160+)*CR*F2;
+Burrower's Pyromancy Deck (Level 160+)*CR*F2;
+
+| items =
+
+| cards =
+Azoth*F2*WMV;
+
+| reagents =
+Sporecap @ 5 Sporecaps;
+
+| spellements =
+Burrowing Bane*F3*WMV;
+Deermouse Trap*F2*WMV;
+Dyvim's Resurgence*F3*WMV;
+Hero of Khrysalis*F3*WMV;
+Kiiii-Yaaaa!*F3*WMV;
+Revolutionary's Strike*F3*WMV;
+Whitehart Fire*F3*WMV;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+Dual Dragonflyer*PERM*CR;
+Monarch Butterfly*PERM*CR;
+Stonehopper*PERM*CR;
+
+| spells =
+
+}}

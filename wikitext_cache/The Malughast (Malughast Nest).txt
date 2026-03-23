@@ -1,0 +1,322 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 12,145
+| crecla = Undead
+| school = Shadow
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| outpierce =
+24%;
+
+| outboost =
+120%;
+
+| incboost =
+None;
+
+| incresist =
+68% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Lemur Thrall (Storm);
+
+| world = Lemuria
+| location = Night Forest
+| subloc1 = Malughast Nest
+| descrip =
+Two additional {{Link|Creature|Lemur Thrall (Fire)}} Minions appear if more than two Wizards are present.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Lemuria
+| tome description =
+Created by the Old One for unknown reasons. It controls the dead, turns invisible, sings soprano and makes a killer cheesecake.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+| altlink = The Malughast
+
+| cheatnotes =
+*{{Icon|Round}} ''"Roar!"'' - At the beginning of the battle, The Malughast will cast a Shadow Spell that gives each Wizard three copies of Malughast's Feint.
+**{{GivesSpell|Malughast's Feint|size = x150px}}
+**If a Wizard joins the battle late, they will receive the three cards on the next round.
+*{{Icon|Feint}} ''"Rooaarr!!"'' - If a {{Link|Spell|Feint}} is cast, The Malughast will cast a Shadow version of {{Link|Spell|Cleanse Ward (-2)}} on himself twice, making {{Link|Spell|Indemnity}} ineffective in protecting the removal.
+**{{Link|ItemCard|Mass Feint}} does trigger this cheat.
+**{{Link|Spell|Malughast's Feint}} does not trigger this cheat.
+**The Balance version of {{Link|ItemCard|Feint}} does not trigger this cheat.
+
+| spellnotes =
+*Casts a protected Curse (Shadow).
+
+| casts =
+Brace (6 Rounds);
+Legion Shield (Shadow);
+Shadowblade;
+Curse (Shadow);
+Snow Drift (Shadow);
+Steal Ward (Shadow);
+Snowball Strike (Shadow);
+Natural Attack (Shadow 105-210-315-420);
+Climaclysm (Shadow);
+Handsome Fomori (Shadow);
+Abominable Weaver (Shadow);
+Frost Giant (Shadow);
+Woolly Mammoth (Shadow);
+
+| quests =
+Gasp! Malughast!;
+
+| dropnotes = 
+Wizards receive Lemurian Spellements specific to their School.
+
+| gold =
+165 - 260;
+
+| hats =
+Lemurian Preservation Hat;
+
+| robes =
+Hierarch's Preservation Robe;
+Lemurian Cold Steel Robe;
+Lemurian Ferocious Robe;
+Lemurian Jungle Robe;
+Lemurian Undead Robe;
+
+| boots =
+Hierarch's Teleological Shoes;
+Lemurian Deflector Shoes;
+Lemurian Freezer Shoes;
+
+| athames =
+Hierarch's Firewall Athame;
+Lemurian Jungle Athame;
+
+| amulets =
+Lemurian Freezer Talisman;
+
+| rings =
+
+| wands =
+Hierarch's Deflector Staff;
+Hierarch's Horror Staff;
+Lemurian Jungle Staff;
+Lemurian Undaunting Staff;
+
+| decks =
+Lemurian Cold Steel Deck;
+
+| items =
+Cargo*F2;
+Lemuria Action Theme*F2;
+Lemuria Forest Combat Theme;
+Lemuria Heroic Theme;
+Lemuria Mandoria Theme;
+Lemuria Minds Theme;
+Lemuria Telos Theme 1;
+Lemuria Telos Theme 2;
+Lemuria Telos Theme 4;
+Lemuria Telos Theme 7;
+Lemuria Ursai Village Theme*F2;
+Periodic Table Poster*F3;
+Puzzle Cube*F4;
+
+| cards =
+Berserk;
+Blue Phoenix;
+Brilliant Light;
+Death Prism;
+Dream Shield;
+Frostbite;
+Galvanic Field;
+Link*F2;
+Nested Fury*F2;
+Raging Bull;
+Storm Prism;
+Wings of Fate;
+
+| reagents =
+Aether*F6;
+Agave Nectar*F2;
+Amber*F3;
+Amber Dust*F3;
+Aquamarine*F5;
+Astral Shard*F2;
+Braided Vine*F2;
+Brass*F5;
+Bronze Gear*F3;
+Cobalt*F5;
+Draconium*F3;
+Ectoplasm*F3*WMV;
+Fire Blossom*F3;
+Golden Pearl;
+Mithril;
+Nickel*F4;
+Orichalcum;
+Scales*F9*WMV;
+Silver*F3;
+Spider Silk*F3;
+Stardust;
+Steel*F3;
+Sunstone*F4;
+Synthonium*F3;
+Tin*F2;
+Titanium*F4;
+Tungsten;
+Turmeric;
+Turquoise*F3;
+Vine*F2;
+
+| spellements =
+Barbarian's Saga;
+Dark & Stormy;
+Freeze Ray*F12;
+Lord of the Jungle*F2;
+
+| snacks =
+Black Sun Seeds*F2;
+Breakfast Tacos*F2;
+Cracker;
+Crystal Custard*F2;
+Crystalweb Candy;
+Dr. Jalapeno*F2;
+Eggplant;
+Fetid Legumes;
+Fin Flan;
+Fizzing Fertilizer*F2;
+Flapjacks*F3;
+Fried Ice Cream*F2;
+Fried Worms;
+Frozen Perogies*F3;
+Moon Pie*F2;
+Poncherello Chips;
+Potato Chips*F2;
+Sliced Watermelon;
+Spicy Popcorn;
+Square Root;
+Squash*F2;
+Sugar Donut;
+Taco*F4;
+Tiny Fish*F2;
+Tomato Soup*F2;
+
+| jewels =
+Balance Striker Citrine;
+Balance-Dealer Citrine;
+Balance-Giver Citrine;
+Dazzling Accurate Amethyst +14%*F2;
+Dazzling Accurate Citrine +14%;
+Dazzling Accurate Hematite +14%;
+Dazzling Accurate Jade +14%;
+Dazzling Accurate Onyx +14%;
+Dazzling Accurate Ruby +14%;
+Dazzling Accurate Sapphire +14%;
+Dazzling Blocking Sapphire +19;
+Dazzling Critical Jade +19;
+Dazzling Critical Opal +10;
+Dazzling Critical Peridot +19;
+Dazzling Defense Amethyst +60;
+Dazzling Defense Onyx +58;
+Dazzling Defense Ruby +60;
+Death Assailant Onyx;
+Fire-Away Ruby;
+Fire-Boon Ruby;
+Healthy Opal;
+Hexster Citrine;
+Ice Striker Sapphire;
+Ice-Away Sapphire;
+Ice-Eye Sapphire;
+Ice-Giver Sapphire;
+Ice-Shot Sapphire;
+Myth-Dealer Peridot;
+Power-Taker Ruby;
+Sparkling Accurate Citrine +13%;
+Sparkling Accurate Onyx +13%;
+Sparkling Accurate Peridot +13%;
+Sparkling Accurate Ruby +13%;
+Sparkling Blocking Citrine +17;
+Sparkling Blocking Peridot +17;
+Sparkling Critical Peridot +17;
+Sparkling Critical Ruby +17;
+Sparkling Critical Sapphire +17;
+Sparkling Damage Sapphire +27;
+Sparkling Defense Hematite +54;
+Sparkling Defense Jade +54;
+Sparkling Defense Peridot +54;
+Sparkling Defense Sapphire +54;
+Sparkling Health Opal +116;
+Sparkling Health Opal +118;
+Sparkling Health Opal +119;
+Storm-Away Amethyst;
+Storm-Boon Amethyst;
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears*F4;
+Baby Carrots;
+Blue Huckleberries*F6;
+Boiled Peanuts;
+Boon Tree*CR;
+Bread Fruit Bush;
+Deadly Ninja Fig;
+Evil Magma Peas*CR*F2;
+Face Palm*F2;
+Fiery Boom Shroom;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Ivy League*CR*F6;
+King Parsley*CR*F2;
+Laugh-O-Dil;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily;
+Melting Cheese Tree*F2;
+Missile Toe;
+Ninja Fig;
+Orange Bell Pepper*CR;
+Orange Dandelion;
+Pink Huckleberries*F3;
+Prickly Bear Cactus*F4;
+Purple Bell Pepper;
+Purple Snow Apples;
+Red Couch Potatoes*F2;
+Red Grapes of Wrath*F3;
+Red Huckleberries;
+Rotten Beets*F2;
+Rye Bread Fruit Bush;
+Saw Palmetto*F6*WMV;
+Silver Trumpet Vine*CR;
+Snow Apples*F2;
+Sour Fickle Pickle*F2;
+Sugar Khrystal*CR*F2;
+Sunion*CR;
+Trumpet Vine;
+Vampire Carrots*F3;
+White Laugh-O-Dil*F2;
+White Tiger Lily;
+Yellow Bell Pepper*F2;
+
+| mounts =
+
+| spells =
+
+}}

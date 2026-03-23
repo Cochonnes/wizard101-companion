@@ -1,0 +1,733 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 13,860
+| crecla = Khrulhu
+| school = Star
+| masteries =
+Myth;
+Balance;
+
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Balance;
+
+| critical =
+235 Any;
+
+| criticalblock =
+244 Any;
+
+| outpierce =
+29%;
+
+| outboost =
+142%;
+
+| incboost =
+2% Life, Death;
+5% Storm;
+
+| incresist =
+71% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Evil Eye (Myth);
+ 
+| world = Lemuria
+| location = Telos
+| subloc1 = Scion's Chamber
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*An additional {{Link|Creature|Demon Eye (Ice)}} and {{Link|Creature|Prototype Manavore (Balance)}} appear when more than two Wizards are present.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Brace;
+Quicken;
+Tower Shield;
+Weakness;
+Balanceblade;
+Spirit Blade;
+Mass Hex;
+Pierce;
+Stun;
+Natural Attack (Star 115-230-345-460);
+Power Nova (Star);
+Chimera (Star);
+Humongofrog;
+Snake Charmer;
+Mystic Colossus;
+Minotaur;
+Earthquake;
+Barbarian's Saga (Tier 3a);
+Witch's House Call (No Minion);
+Spiritual Tribunal (Tier 3a);
+Spiritual Tribunal (Tier 3b);
+Spiritual Tribunal (Tier 3c);
+Sand Wurm;
+Gaze of Fate;
+Mockenspiel (Tier 3a);
+Old One's Endgame (Tier 3a);
+Nested Fury;
+Chimera;
+Judgement;
+
+| quests =
+Do or Scion;
+
+| dropnotes =
+If a Wizard has obtained the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge and has not obtained the '''[[Basic:Novus Badges|Ender of an Aeon]]''' Badge, the following drops will be available:
+*{{Icon|Spellement}} 4 Spellements will drop each time from '''any''' School for their respective Polaris, Mirage, Empyrea, Karamelle and Lemuria Spells.
+If a Wizard has obtained the ''Ender of an Aeon'' badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of the Hall of Heroes to acquire a [[Item:Level Scaling Elixir - 150|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+315 - 651;
+
+| hats =
+Lemurian Ancient One Hat;
+Lemurian Cold Steel Hat;
+Lemurian Detective Hat;
+Lemurian Founder's Hat;
+Lemurian Stability Hat;
+Lemurian Teleological Hat;
+Lemurian Undead Hat;
+Lemurian Volcanic Hat;
+Magician's Balance Cap*F4;
+Magician's Death Cap;
+Magician's Fire Cap;
+Magician's Ice Cap;
+Magician's Life Cap;
+Magician's Myth Cap*F2*WMV;
+Magician's Power Cap*F2;
+Magician's Storm Cap*F2;
+Malevolent Balance Cap*F3*WMV;
+Malevolent Death Cap;
+Malevolent Fire Cap*F2*WMV;
+Malevolent Ice Cap;
+Malevolent Life Cap*F2;
+Malevolent Myth Cap;
+Malevolent Power Cap;
+Malevolent Storm Cap*F2;
+Merciless Balance Cap;
+Merciless Death Cap;
+Merciless Fire Cap*F2;
+Merciless Ice Cap;
+Merciless Life Cap*F2;
+Merciless Myth Cap;
+Merciless Storm Cap;
+Supreme Barbarian Hat;
+Supreme Detective Hat;
+Supreme Founder's Hat;
+Supreme Freezer Hat;
+Supreme Hex Hat;
+Supreme Horror Hat;
+Supreme Lifeforce Hat;
+Supreme Preservation Hat;
+Supreme Teleological Hat;
+
+| robes =
+Lemurian Barbarian Robe;
+Lemurian Deadly Robe;
+Lemurian Firewall Robe;
+Lemurian Undaunting Robe;
+Supreme Ancient One Robe*F2*WMV;
+Supreme Barbarian Robe*F2;
+Supreme Cold Steel Robe;
+Supreme Deadly Robe;
+Supreme Deflector Robe*F2;
+Supreme Detective Robe*F2;
+Supreme Electric Robe;
+Supreme Eruption Robe;
+Supreme Ferocious Robe;
+Supreme Firewall Robe;
+Supreme Founder's Robe;
+Supreme Freezer Robe;
+Supreme Hex Robe;
+Supreme Horror Robe;
+Supreme Jungle Robe;
+Supreme Lifeforce Robe;
+Supreme Old Judge Robe;
+Supreme Preservation Robe*F2*WMV;
+Supreme Science Robe;
+Supreme Stability Robe;
+Supreme Teleological Robe*F2*WMV;
+Supreme Undaunting Robe;
+Supreme Undead Robe;
+Supreme Volcanic Robe*F4*WMV;
+
+| boots =
+Lemurian Barbarian Shoes;
+Lemurian Deadly Shoes;
+Lemurian Deflector Shoes;
+Lemurian Electric Shoes;
+Lemurian Ferocious Shoes;
+Lemurian Founder's Shoes;
+Supreme Ancient One Shoes;
+Supreme Barbarian Shoes;
+Supreme Cold Steel Shoes;
+Supreme Deadly Shoes;
+Supreme Deflector Shoes;
+Supreme Detective Shoes;
+Supreme Electric Shoes;
+Supreme Eruption Shoes;
+Supreme Ferocious Shoes;
+Supreme Firewall Shoes;
+Supreme Founder's Shoes;
+Supreme Freezer Shoes;
+Supreme Hex Shoes;
+Supreme Horror Shoes;
+Supreme Jungle Shoes;
+Supreme Lifeforce Shoes*F2;
+Supreme Old Judge Shoes;
+Supreme Preservation Shoes;
+Supreme Science Shoes*F3*WMV;
+Supreme Stability Shoes;
+Supreme Teleological Shoes*F2;
+Supreme Undaunting Shoes;
+Supreme Undead Shoes;
+Supreme Volcanic Shoes;
+
+| athames =
+Lemurian Electric Athame;
+Lemurian Founder's Athame;
+Lemurian Preservation Athame;
+Lemurian Volcanic Athame;
+Supreme Ancient One Athame;
+Supreme Cold Steel Athame;
+Supreme Deadly Athame;
+Supreme Detective Athame;
+Supreme Eruption Athame;
+Supreme Founder's Athame;
+Supreme Freezer Athame;
+Supreme Lifeforce Athame;
+Supreme Preservation Athame;
+Supreme Science Athame;
+Supreme Stability Athame; 
+Supreme Teleological Athame;
+Supreme Undaunting Athame;
+Supreme Undead Athame;
+
+| amulets =
+Lemurian Cold Steel Talisman;
+Lemurian Hex Talisman;
+Lemurian Horror Talisman;
+Lemurian Old Judge Talisman;
+Lemurian Undead Talisman;
+Supreme Ancient One Talisman;
+Supreme Barbarian Talisman;
+Supreme Ferocious Talisman;
+Supreme Firewall Talisman;
+Supreme Founder's Talisman;
+Supreme Freezer Talisman;
+Supreme Hex Talisman;
+Supreme Jungle Talisman;
+Supreme Old Judge Talisman;
+Supreme Preservation Talisman*F2;
+Supreme Teleological Talisman;
+Supreme Undaunting Talisman;
+Supreme Undead Talisman;
+
+| rings =
+Lemurian Deflector Ring;
+Lemurian Detective Ring;
+Lemurian Eruption Ring;
+Lemurian Horror Ring;
+Supreme Ancient One Ring;
+Supreme Barbarian Ring;
+Supreme Electric Ring;
+Supreme Eruption Ring;
+Supreme Ferocious Ring;
+Supreme Founder's Ring;
+Supreme Hex Ring;
+Supreme Jungle Ring;
+Supreme Old Judge Ring;
+Supreme Stability Ring;
+Supreme Undaunting Ring; 
+Supreme Volcanic Ring;
+
+| wands =
+Lemurian Deadly Staff;
+Lemurian Detective Staff;
+Lemurian Eruption Staff;
+Lemurian Horror Staff;
+Lemurian Preservation Staff;
+Magician's Balance Wand*F4*WMV;
+Magician's Death Wand;
+Magician's Fire Wand*F2;
+Magician's Ice Wand*F2*WMV;
+Magician's Life Wand;
+Magician's Myth Wand*F2*WMV;
+Magician's Power Wand;
+Magician's Storm Wand;
+Malevolent Balance Wand;
+Malevolent Death Wand;
+Malevolent Fire Wand;
+Malevolent Ice Wand;
+Malevolent Life Wand;
+Malevolent Myth Wand;
+Malevolent Power Wand;
+Malevolent Storm Wand;
+Merciless Balance Wand;
+Merciless Death Wand*F2;
+Merciless Fire Wand*F2;
+Merciless Ice Wand;
+Merciless Life Wand;
+Merciless Myth Wand;
+Merciless Storm Wand;
+Supreme Ancient One Staff;
+Supreme Barbarian Staff;
+Supreme Deflector Staff;
+Supreme Detective Staff;
+Supreme Electric Staff;
+Supreme Eruption Staff;
+Supreme Firewall Staff;
+Supreme Freezer Staff*F2;
+Supreme Lifeforce Staff;
+Supreme Teleological Staff;
+Supreme Undead Staff;
+Supreme Volcanic Staff;
+
+| decks =
+Lemurian Cold Steel Deck;
+Lemurian Science Deck;
+Lemurian Stability Deck;
+Supreme Ancient One Deck;
+Supreme Barbarian Deck;
+Supreme Cold Steel Deck;
+Supreme Deflector Deck;
+Supreme Founder's Deck;
+Supreme Freezer Deck;
+Supreme Hex Deck;
+Supreme Horror Deck;
+Supreme Lifeforce Deck;
+Supreme Old Judge Deck;
+Supreme Stability Deck;
+Supreme Undead Deck;
+Supreme Volcanic Deck;
+
+| items =
+Arcanum Combat Theme;
+Cargo*F2;
+Lemuria Action Theme;
+Lemuria Boss Combat Theme*F3*WMV;
+Lemuria Forest Combat Theme*F2;
+Lemuria Forest Theme;
+Lemuria Heroic Theme;
+Lemuria Jungle Combat Theme;
+Lemuria Lab Combat Theme*F2*WMV;
+Lemuria Mandoria Theme;
+Lemuria Minds Theme;
+Lemuria Mystery Theme*F2*WMV;
+Lemuria Noir Combat Theme;
+Lemuria Noir Theme;
+Lemuria Sky City Combat Theme;
+Lemuria Sky City Theme;
+Lemuria Telos Theme 1;
+Lemuria Telos Theme 2*F2;
+Lemuria Telos Theme 3;
+Lemuria Telos Theme 4;
+Lemuria Telos Theme 5;
+Lemuria Telos Theme 6;
+Lemuria Telos Theme 7;
+Lemuria Ursai Village Theme;
+Periodic Table Poster;
+Puzzle Cube;
+
+| cards =
+Baby Sunbird*F2*WMV;
+Berserk*F2;
+Blaze Beetle;
+Blood Bat;
+Blue Phoenix;
+Brilliant Light;
+Cat Thug*F2*WMV;
+Centaur;
+Crystal Spider;
+Death Prism;
+Dragonflies;
+Dream Shield;
+Elemental Blade;
+Elemental Defuse;
+Elemental Shield;
+Elemental Spear;
+Elemental Trap;
+Ether Shield*F2;
+Fire Prism;
+Flood*F2;
+Flute Symphony;
+Frostbite*F2*WMV;
+Galvanic Field*F2;
+Green Widow;
+Ice Prism;
+Life Prism;
+Link*F2;
+Massive Pest Zapper;
+Miniature Bloodbats;
+Myth Prism;
+Pest Zapper;
+Pungent Bug Spray;
+Putrid Bug Spray;
+Sirens;
+Storm Prism*F2*WMV;
+Storm Shield;
+Supreme Sunburst;
+Triage*F2*WMV;
+Uncanny Magic;
+Zounds...Bees!;
+
+| reagents =
+Brass*F4*WMV;
+Bronze Gear*F4;
+Cobalt*F4*WMV;
+Ectoplasm*F5*WMV;
+Nickel*F6*WMV;
+Scales*F3*WMV;
+Spider Silk*F5;
+Synthonium*F3*WMV;
+Tin*F7*WMV;
+Titanium;
+
+| spellements =
+Barbarian's Saga*BR;
+Blast Off!*BR;
+Climaclysm*BR;
+Dark & Stormy*BR;
+Freeze Ray*BR;
+Grrnadier*BR;
+Grim Reader*BR;
+Iron Sultan*BR;
+Lamassu*BR;
+Lord of the Jungle*BR;
+Mockenspiel*BR;
+Nested Fury*BR;
+Old One's Endgame*BR;
+Qismah's Curse*BR;
+Raging Bull*BR;
+Rusalka's Wrath*BR;
+Sand Wurm*BR;
+Scion of Balance*BR;
+Scion of Death*BR;
+Scion of Fire*BR;
+Scion of Ice*BR;
+Scion of Life*BR;
+Scion of Myth*BR;
+Scion of Storm*BR;
+Scorching Scimitars*BR;
+Shatterhorn*BR;
+S'more Machine*BR;
+Snack Attack*BR;
+Snake Charmer*BR;
+Snowball Barrage*BR;
+Sound of Musicology*BR;
+Tatzlewurm Terror*BR;
+Winged Sorrow*BR;
+Wings of Fate*BR;
+Witch's House Call*BR;
+
+| snacks =
+Beast Wellington*F3*WMV;
+Black Sun Seeds*F4*WMV;
+Breakfast Tacos;
+Chilly Con Queso*F2;
+Cracker*F2;
+Decimatoes;
+Eggplant;
+Eye Candy;
+Fetid Legumes;
+Fire Cracker;
+Golden Biscuit;
+Golden Candy Bar;
+Golden Peanut*F3;
+Golden Squash;
+Huge Ice Cream;
+Large Fish*F3;
+Large Watermelon*F3*WMV;
+Marzipan Maize;
+Moon Pie*F2;
+MooShu Cheddar;
+Pineapple Spears;
+Poncherello Chips*F2*WMV;
+Potato Chips*F3*WMV;
+Rock and Roll Candy;
+Sliced Watermelon*F2;
+Spicy Popcorn;
+Sprinkle Cupcake;
+Square Root;
+Squash*F3*WMV;
+Star Cookie*F2*WMV;
+Sugar Donut*F4*WMV;
+Super Cold Popsicle;
+Swirled Lollipop;
+Taco*F3*WMV;
+Taco Town Special;
+Tiny Fish*F3*WMV;
+Tomato Soup*F3;
+
+| jewels =
+Ally Dream Shield Onyx;
+Ally Precision Citrine;
+Balance Striker Citrine;
+Balance-Giver Citrine;
+Balance-It Citrine;
+Balance-Off Citrine;
+Balance-Sniper Citrine;
+Blade of Fire Ruby;
+Dazzling Accurate Amethyst +14%;
+Dazzling Accurate Citrine +14%;
+Dazzling Accurate Hematite +14%;
+Dazzling Accurate Jade +14%;
+Dazzling Accurate Onyx +14%;
+Dazzling Accurate Sapphire +14%;
+Dazzling Blocking Amethyst +19;
+Dazzling Blocking Citrine +19;
+Dazzling Blocking Hematite +19*F2;
+Dazzling Blocking Jade +19;
+Dazzling Blocking Opal +10;
+Dazzling Blocking Peridot +19;
+Dazzling Blocking Ruby +19;
+Dazzling Blocking Sapphire +19;
+Dazzling Critical Amethyst +19;
+Dazzling Critical Citrine +19;
+Dazzling Critical Hematite +19;
+Dazzling Critical Jade +19;
+Dazzling Critical Onyx +19;
+Dazzling Critical Peridot +19;
+Dazzling Critical Sapphire +19;
+Dazzling Damage Amethyst +29;
+Dazzling Damage Hematite +60;
+Dazzling Damage Jade +29;
+Dazzling Damage Onyx +29;
+Dazzling Damage Peridot +29*F2*WMV;
+Dazzling Damage Ruby +29;
+Dazzling Damage Sapphire +29*F2*WMV;
+Dazzling Defense Amethyst +58;
+Dazzling Defense Citrine +58;
+Dazzling Defense Citrine +60;
+Dazzling Defense Hematite +58;
+Dazzling Defense Hematite +60;
+Dazzling Defense Jade +58;
+Dazzling Defense Jade +60;
+Dazzling Defense Onyx +58*F2*WMV;
+Dazzling Defense Onyx +60;
+Dazzling Defense Opal +29;
+Dazzling Defense Peridot +58;
+Dazzling Defense Peridot +60;
+Dazzling Defense Ruby +58;
+Dazzling Defense Ruby +60;
+Dazzling Defense Sapphire +58;
+Dazzling Defense Sapphire +60;
+Death Striker Onyx*F2*WMV;
+Death-Away Onyx;
+Death-Boon Onyx;
+Death-Dealer Onyx;
+Death-Proof Onyx;
+Death-Shot Onyx*F2*WMV;
+Death-Sniper Onyx;
+Death-Ward Onyx;
+Elf on Fire Ruby;
+Fire Striker Ruby;
+Fire-Away Ruby*F2;
+Fire-Dealer Ruby;
+Fire-Giver Ruby;
+Fire-Proof Ruby;
+Fire-Ward Ruby;
+Healer Opal;
+Healthy Opal;
+Ice Assailant Sapphire;
+Ice Striker Sapphire;
+Ice-Away Sapphire;
+Ice-Dealer Sapphire;
+Ice-Eye Sapphire;
+Ice-Giver Sapphire;
+Ice-Proof Sapphire;
+Ice-Ward Sapphire;
+Life Striker Jade*F2*WMV;
+Life-Boon Jade;
+Life-Bringer Jade;
+Life-Eye Jade;
+Life-Giver Jade;
+Life-Proof Jade*F2*WMV;
+Life-Shot Jade;
+Life-Sniper Jade;
+Life-Ward Jade;
+Lively Opal;
+Medic Opal;
+Myth Assailant Peridot;
+Myth Striker Peridot;
+Myth-Boon Peridot;
+Myth-Giver Peridot;
+Myth-Proof Peridot;
+Myth-Sniper Peridot;
+Myth-Ward Peridot;
+No Pain, No Gain Onyx;
+Power-Taker Ruby;
+Pyrosaurus Rex Ruby;
+Quartermane Citrine*F6*WMV;
+Sparkling Accurate Amethyst +13%;
+Sparkling Accurate Citrine +13%*F2*WMV;
+Sparkling Accurate Hematite +13%;
+Sparkling Accurate Jade +13%;
+Sparkling Accurate Onyx +13%;
+Sparkling Accurate Peridot +13%;
+Sparkling Accurate Ruby +13%;
+Sparkling Accurate Sapphire +13%;
+Sparkling Blocking Amethyst +17;
+Sparkling Blocking Citrine +17;
+Sparkling Blocking Hematite +17*F3*WMV;
+Sparkling Blocking Jade +17;
+Sparkling Blocking Onyx +17;
+Sparkling Blocking Opal +9;
+Sparkling Blocking Peridot +17;
+Sparkling Blocking Ruby +17;
+Sparkling Blocking Sapphire +17;
+Sparkling Critical Amethyst +17;
+Sparkling Critical Citrine +17;
+Sparkling Critical Jade +17;
+Sparkling Critical Onyx +17;
+Sparkling Critical Peridot +17;
+Sparkling Critical Ruby +17;
+Sparkling Critical Sapphire +17;
+Sparkling Damage Amethyst +27;
+Sparkling Damage Hematite +54;
+Sparkling Damage Onyx +27;
+Sparkling Damage Opal +14*F2*WMV;
+Sparkling Damage Peridot +27;
+Sparkling Damage Ruby +27;
+Sparkling Damage Sapphire +27;
+Sparkling Defense Amethyst +53;
+Sparkling Defense Amethyst +54;
+Sparkling Defense Citrine +53;
+Sparkling Defense Hematite +53;
+Sparkling Defense Hematite +54;
+Sparkling Defense Jade +53;
+Sparkling Defense Jade +54*F2;
+Sparkling Defense Onyx +53*F2;
+Sparkling Defense Onyx +54;
+Sparkling Defense Opal +27;
+Sparkling Defense Peridot +53;
+Sparkling Defense Peridot +54;
+Sparkling Defense Ruby +53;
+Sparkling Defense Ruby +54;
+Sparkling Defense Sapphire +53;
+Sparkling Defense Sapphire +54;
+Sparkling Health Opal +116*F2*WMV;
+Sparkling Health Opal +117*F2;
+Sparkling Health Opal +118*F3*WMV;
+Sparkling Health Opal +119;
+Sparkling Mana Opal +49;
+Spell-Proof Opal;
+Storm-Away Amethyst;
+Storm-Boon Amethyst;
+Storm-Proof Amethyst;
+Storm-Shot Amethyst;
+Storm-Ward Amethyst;
+Stun Recalcitrant Opal;
+Stun Resistant Opal;
+Unbalancer Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Angel Oak;
+Angora Bunny Ears*F5;
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper;
+Blue Huckleberries*F7*WMV;
+Boiled Peanuts;
+Boom Shroom*F2*WMV;
+Boon Tree*CR;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Clockwork Flower*F2;
+Cornbread Fruit Bush;
+Dandelion*F2;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Face Palm;
+Fickle Pickle;
+Fiery Boom Shroom;
+Fish on a Vine;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Goose Tree;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Helephant Ears*F2*WMV;
+Honey Bee Plant;
+Honey Sickle;
+Ivy League*CR*F2;
+Key Limes*CR;
+Laugh-O-Dil*F2;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Missile Toe;
+Moon Flower;
+Ninja Fig*CR*F2*WMV;
+Orange Bell Pepper*CR*F2*WMV;
+Orange Dandelion*F2*WMV;
+Pink Huckleberries*F4*WMV;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus*F2*WMV;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Red Couch Potatoes*F6*WMV;
+Red Grapes of Wrath;
+Red Huckleberries*F5*WMV;
+Rotten Beets*F2*WMV;
+Rye Bread Fruit Bush*F4*WMV;
+Saw Palmetto*F3*WMV;
+Silver Trumpet Vine*CR;
+Snap Dragon;
+Snow Apples;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Sunion*CR*F2*WMV;
+Sword Fern*CR;
+Tiger Lily (Seed);
+Trumpet Vine;
+Ultra Alligator Pear Tree;
+Ultra Boom Shroom;
+Ultra Dandelion*F2*WMV;
+Ultra Fly Trap;
+Ultra Huckleberries;
+Ultra Ninja Fig*F2;
+Ultra Snap Dragon;
+Ultra Snow Apples;
+Ultra Tiger Lily;
+Ultra Trumpet Vine;
+Vampire Carrots*F3*WMV;
+Venus Fly Trap;
+White Desparagus;
+White Laugh-O-Dil*F3*WMV;
+White Tiger Lily*F2;
+Yellow Bell Pepper*F5*WMV;
+
+| mounts =
+
+| spells =
+
+}}

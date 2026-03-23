@@ -1,0 +1,322 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 12,080
+| crecla = Polar Bear
+| school = Ice
+| masteries = Balance
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+87 Any;
+
+| criticalblock =
+125 Any;
+
+| outpierce =
+2%;
+
+| outboost =
+10%;
+
+| incboost =
+15% Fire;
+
+| incresist =
+50% Ice;
+
+| stunable = No
+| beguilable = No
+| minions =
+Iron Paw;
+Iron Paw;
+
+| petbreed = Warden's Icehound
+| world = Polaris
+| location = The Basstille
+| subloc1 = Cell Block A
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"Confound it! Rasputin would not want us to risk the entire shipment. Go on, Minak. I'll deal with our guests, and the little speech-maker."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Polaris
+| tome description =
+He manages the Bastille Prison with an iron paw in service of the Empress.
+
+| extract class =
+Polar Bear;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tardiness Will Not Be Tolerated!"'' - If a Wizard joins after the duel has started, Warden Vissarovich will cheat-cast {{Link|Spell|Frostbite}} on the Wizard.
+*{{Icon|Absorb}} ''"Time for me to suit up!"'' - Warden Vissarovich will cast Frozen Armor on himself on the first Round.
+{{Icon|Round}} '''Cycle:'''
+:*{{Icon|Blade}} ''"Cold discipline always does the trick."'' - He will cast '''Iceblade''' on himself.
+:*{{Icon|Trap}}''"Welcome to your new home... the Basstille!"'' - He will cast '''Hailstorm'''.
+:*{{Icon|Damage}} ''"This is what you get for challenging authority!"'' - He will cast '''Blizzard'''.
+:*{{Icon|Aura}} ''"I've been trained to deal with such rabble."'' - He will cast '''Amplify'''.
+:*{{Icon|Damage}} ''"Smash one and the rest will scatter!"'' - He will cast '''Woolly Mammoth (600-700)''' if he has enough pips, otherwise he will pass.
+:*{{Icon|Heal over Time}}{{Icon|Blade}} ''"I didn't become warden by being weak!"'' - His Pet will cast '''Availing Hands (85+870)''' and he will cast {{Link|Spell|Balanceblade (+30%)}}.
+:*{{Icon|Round}} ''"A wise warden bides his time!"'' - He uses his turn to pass.
+:*{{Icon|Damage}}''"How about a taste of polarian justice!"'' - He will cast '''Judgement (125)'''.
+:*{{Icon|Shield}} ''"Tower defense is no game."'' - He will cast '''Tower Shield''' on himself.
+:*{{Icon|Blade}} ''"Cold discipline always does the trick."'' - The cycle repeats but gives him '''two''' Iceblades every repeated cycle.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Tower Shield;
+Frozen Armor;
+Availing Hands (85+870);
+Iceblade (+40%);
+Hailstorm;
+Blizzard (290-330, 80%);
+Woolly Mammoth (600-700);
+Judgement (125);
+
+| quests =
+The Basstille;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge and has not unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge, the following drops will be available:
+*14 Spellements will drop each time from '''any''' School for their respective rank 8, 9, 10, King Artorius and Polaris Spells.
+
+| gold =
+391 - 548;
+
+| hats =
+Blizzardy Tundra Ushanka;
+Hailstorm Tundra Ushanka;
+The Manticore*CR*WMV;
+The Warlock*CR*F2;
+Tundra Ushanka of Mayhem*F2;
+Urville Fur Hat of Elation;
+Urville Fur Hat of Snowgusts;
+Urville Papakh of Flames;
+
+| robes =
+Hailstorm Tundra Suit;
+Polarian Tundra Apparel;
+Sweltery Tundra Vestment;
+Tundra Coat of Sagacity;
+Tundra Garment of Loyalty;
+Tundra Raiment of Mayhem*F2;
+Tundra Ushanka of Sagacity;
+Urville Chokha of Elation;
+Urville Cloak of Flames;
+Urville Station Cherkesska;
+
+| boots =
+Blizzardy Tundra Snowshoes;
+Hailstorm Tundra Boots*F2*WMV;
+Polarian Tundra Snowboots;
+Sweltery Tundra Boots;
+Tundra Walkers of Survival;
+Urville Footgear of Anguish;
+
+| athames =
+Mage's Roughhewn Dagger;
+Urville Dagger of Flames;
+Urville Edge of Snowgusts;
+Urville Knife of Elation;
+Urville Spike of Honor;
+
+| amulets =
+Mage's Blustery Pendant;
+Mage's Smoldering Bauble;
+Mage's Torc of Guile;
+Memento of the Frigid Maw;
+Urville Pendant of Elation;
+Urville Relic of Wintertide;
+Urville Talisman of Guile;
+
+| rings =
+Chief Inspector's Signet;
+Inspector's Ring of Grief;
+Inspector's Seal of Pluck*F2;
+Mage's Hardy Band;
+
+| wands =
+Mage's Blustery Stave; 
+Mage's Dolorous Wand*F2;
+Mage's Stave of Aplomb;
+Mage's Wintry Wand;
+Tundra Axe of Hailstorms*F2*WMV;
+Tundra Axe of Loyalty;
+
+| decks =
+Hand of Tundra Blizzards;
+Mage's Cards of Aplomb;
+Mage's Smoldering Parcel;
+Tundra Cards of Disarray;
+Tundra Gallery of Hailstorms*F2*WMV;
+Tundra Survivor's Pack*F2*WMV;
+
+| items =
+Arcanum Theme*F4;
+Medium Pot;
+Polaris Baba Yaga Theme*F5;
+Polaris Frozen Combat Theme*F5;
+Polaris Frozen Forest Theme*F3;
+Polaris Ice Block Theme*F2;
+Polaris Gulag Combat Theme*F2;
+Polaris Gulag Theme*F3;
+Polaris Mine Combat Theme;
+Polaris Mine Theme*F3;
+Polaris Opera Theme*F4;
+Polaris Rasputin Combat Theme*F2;
+Small Enchanted Pot;
+Small Pot;
+Walruskberg Combat Theme;
+Walruskberg Liberated Theme*F2;
+Walruskberg Theme*F3;
+
+| cards =
+Age of Reckoning*F3*WMV;
+Arcticzilla;
+Ashen Bones*F2;
+Balefrost;
+Coldiron;
+Combustion;
+Counterforce;
+Death Troll;
+Deathspear;
+Dragonspear;
+Elemental Spear;
+Fiery Colossus;
+Firespear;
+Icespear;
+Magma Colossus*F2;
+Mythspear;
+Rusalka's Wrath;
+Saga of Heroes;
+Sandstone Colossus*F2;
+Shock Colossus*F2;
+Snowball Barrage;
+Steel Colossus;
+Stone Colossus;
+Winged Sorrow*F2*WMV;
+Witch's House Call;
+
+| reagents =
+Aether*F4*WMV;
+Agave Leaves*F3*WMV;
+Agave Nectar;
+Amber*F3;
+Amber Dust*F3;
+Aquamarine*F6*WMV;
+Astral Shard*F4*WMV;
+Braided Vine;
+Fire Blossom*F3*WMV;
+Fish Fin*F6*WMV;
+Golden Pearl*F6*WMV;
+Merle's Whisker*F2;
+Mithril*F7*WMV;
+Scales*F7*WMV;
+Silver*F6*WMV;
+Stardust*F2;
+Steel*F5*WMV;
+Sunstone*F4*WMV;
+Titanium*F3*WMV;
+Tungsten*F4*WMV;
+Turquoise*F7*WMV;
+Vine*F3*WMV;
+
+| spellements =
+Celestial Calendar*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR;
+Ra*BR;
+Rebirth*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate;
+Beast Wellington*F3*WMV;
+Chalupacabra*F4;
+Eye Candy*F2*WMV;
+Frosty Sugar Cubes*F2;
+Frozen Snails*F2*WMV;
+Granny Snow Apple*F3;
+Green Tomato;
+High Road Haggis;
+Hot Cross Buns*F3*WMV;
+Mustachios*F3*WMV;
+Penne Dreadful*F5*WMV;
+Polaris Fries*F3*WMV;
+Rhubarbed Wire*F2*WMV;
+Satyr Chow*F4*WMV;
+Ships 'n' Queso;
+Snow Apple Cider;
+Veggie Juice*F3*WMV;
+
+| jewels =
+Ice-Proof Sapphire;
+Lustrous Critical Citrine +13;
+Lustrous Health Opal +98;
+Lustrous Health Opal +100;
+Myth-Boon Peridot;
+Polished Defense Peridot +41;
+Polished Defense Ruby +42;
+
+| pins =
+
+| pets =
+Arctic Ninja Pig*CR;
+Mountain Yeti*CR;
+Polar Bear Cub*CR*F2*WMV;
+Warden's Icehound*F4*WMV;
+
+| seeds =
+Angel Oak*F2*WMV;
+Boiled Peanuts;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Evil Snow Peas*F2*WMV;
+Fish on a Vine*F4*WMV;
+Frozen Fly Trap*F3;
+Golden Couch Potatoes;
+Goose Tree*F4*WMV;
+Green Snow Apples;
+Ivy League*CR;
+King Parsley*CR*F4;
+Moon Flower*F3;
+Ninja Fig*CR*F5*WMV;
+Purple Snow Apples*F3*WMV;
+Queen Crape Myrtle;
+Snow Apples*F2*WMV;
+Ultra Snow Apples;
+White Desparagus*F3;
+White Laugh-O-Dil*F3*WMV;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

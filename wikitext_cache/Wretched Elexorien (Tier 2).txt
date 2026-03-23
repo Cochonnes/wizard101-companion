@@ -1,0 +1,172 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 3,660
+| crecla = Grendel
+| school = Life
+| cheats = Yes
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Death;
+
+| incresist =
+60% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Brume Goblin (Tier 2);
+Brume Goblin (Tier 2);
+Brume Goblin (Tier 2);
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 2)
+| descrip =
+
+| speech =
+:''"Loathed one, I have been anguished since I first heard news of your struggle with Tyrfing, my son.  I will ruin you, and then exact vengeance upon Jarl Whiteshield and all his kin!  Your heads will serve as warning to all who seek out Wretched Elexorien!"''
+
+| cheatnotes =
+*{{Icon|Weakness}} Elexorien will place a Weakness (-30%, 0 Pip) on all opponents at the start of the first Round, and will repeat this at the start of every third Round.
+
+| spellnotes =
+
+| casts =
+Spirit Armor (500);
+Guiding Light;
+Guidance;
+Brilliant Light (2 Pip);
+Lifeblade (+40%);
+Unicorn (550);
+Satyr;
+Giant Spider;
+Nature's Wrath (270-350);
+Earth Walker;
+Natural Attack (Life 123-1,700);
+
+| quests =
+Hall of the Bear;
+
+| gold =
+116 - 166;
+
+| hats =
+Raven Helm of Unkindness (Level 30+)*CR*F2*WMV;
+
+| robes =
+Ravenking's Battle Story Armor (Level 30+)*CR;
+
+| boots =
+Boots of Whispered Flight (Level 30+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Bloodvine Shield*F2*WMV;
+Hanging Lantern (Winterbane Hall);
+Lantern Post;
+Minor Runestone; 
+Standing Sconce*F2*WMV;
+Tree Lantern;
+Weapons Cache;
+Wooden Wagon (Grizzleheim);
+Wooden Wheelbarrow;
+
+| cards =
+Blue Phoenix;
+Colossus;
+Crow;
+Evil Snowman*F2*WMV;
+Freeze*F2*WMV;
+Frost Beetle;
+Frost Giant;
+Ice Wyvern;
+Icebird*F2*WMV;
+Leviathan;
+Phoenix;
+Regenerate*F2*WMV;
+Satyr;
+Skeletal Dragon;
+Snow Angel;
+Snow Serpent*F2;
+Sunbird;
+Thunderbird (515-595);
+
+| reagents =
+Acorn*F2*WMV;
+Blood Moss;
+Deep Mushroom;
+Diamond*F2*WMV;
+Fossil;
+Frost Flower;
+Mist Wood*F2*WMV;
+Nightshade;
+Ore*F2*WMV;
+Pyrite; 
+Red Mandrake;
+Spider Silk*F2;
+
+| spellements =
+
+| snacks =
+Beetle Cream Soda;
+Caramel Corn;
+Drumstick;
+Frosty Sugar Cubes;
+Frozen Snails;
+Fruit and Nut Bar;
+Fuzzy Peach Fizz;
+Lemon Daisy;
+Lime Peel Rickey;
+Peppercorn*F2;
+Pickled Garlic Grubs;
+Pollen Bombs;
+Salmon Joy;
+Salmonberry;
+Sunflower Hearts*F2*WMV;
+Sweet Mango;
+Tiny Fish;
+
+| jewels =
+
+| pins =
+
+| pets =
+Raven*CR;
+Red Cap*CR*F2;
+
+| seeds =
+Evil Snow Peas;
+Frozen Fly Trap;
+Moon Flower;
+White Desparagus*F2*WMV;
+White Laugh-O-Dil*F2;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

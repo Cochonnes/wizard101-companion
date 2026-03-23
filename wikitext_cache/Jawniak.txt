@@ -1,0 +1,114 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,240
+| crecla = Polar Bear
+| school = Death
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+4%;
+
+| outboost =
+
+| incboost =
+15% Life;
+
+| incresist =
+50% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Polaris
+| location = River of Frozen Tears
+| subloc1 = Sunless Shrine
+| descrip =
+Jawniak is a Minion to {{Link|Creature|Tajniak}}. All drops and Cheats are recorded on Tajniak's page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Polaris
+| tome description =
+His brother Tajniak is said to be dumb. But Jawniak is much, much dumber.
+
+| extract class =
+Polar Bear;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+*All negative Charms that this Boss casts will be Cloaked.
+*Casts a Cloaked version of Curse.
+
+| casts =
+Cloak;
+Plague (Cloaked);
+Deathblade;
+Curse;
+Deer Knight;
+Poison;
+Call of Khrulhu;
+
+| quests =
+Trial of Wisdom;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

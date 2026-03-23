@@ -1,0 +1,304 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 11,650
+| crecla = Gnome
+| school = Life
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| outpierce =
+22%;
+
+| outboost =
+110%;
+
+| incboost =
+5% Death;
+
+| incresist =
+70% Life;
+
+| outhealing =
+75%;
+
+| inchealing =
+75%;
+
+| stunable = No
+| beguilable = No
+| minion = 
+| world = Karamelle
+| location = Gumdrop Forest
+| subloc1 = Treemugger's Hideout
+| descrip =
+
+| speech =
+:''"Lousy trees, bah! Think they can just fall in the woods. I never heard anyone tell them they could do that! It makes me just want to PUNCH THEM so hard they all fall down. That will teach them. Who are you? Are you a tree? Can the trees disguise themselves now? I better punch you to be sure."''
+
+| cheatnotes =
+*''"More Wizards sprouting? Such a tree thing to do"'' If a Wizard joins the battle after the first Round, Treemugger casts {{Link|Spell|Stun (Shadow)}} on the late Wizard.
+*''"I will break this, with my rage!"'' - At the start of the duel, Treemugger will use a Shadow Spell to Remove all Pips from all Wizards, impose a 99-Round version of '''{{Link|Spell|Impede}}''', and use {{Link|Spell|Blinding Light (85%)}}.
+*''"One-two PUNCH!"'' - At the end of every Odd Round, Treemugger will say this.
+*''"Three-four PUNCH!"'' - At the end of every Even Round, Treemugger will say this.
+**In both these stages he will remove all existing Pips and use individual Donate Power Spells to sequentially increase the number of Pips based on the number of Rounds which have elapsed.
+**For example, on the first Round, each Wizard is given one white Pip; second Round, two white Pips, etc., until each Wizard is given seven Power Pips.
+**During the stage when Power Pips are given, even though all Pips get removed during the animation, the single pips return back to the Wizard when the next Round starts.
+*''"Make like a tree and fall down!"'' - If a Wizard doesn't have an '''Impede''' active on them and any Wizard in the fight casts any spell, Treemugger will cast the 99-Round '''Impede''' on all Wizards without an Impede on them.
+**Replacing the Aura will allow the Wizard to regain Pips, until any Wizard casts another spell, repeating this cheat.
+
+| spellnotes =
+
+| casts =
+Black Mantle;
+Weakness;
+Tower Shield;
+Lifeblade (+40%);
+Life Feint;
+Ratatoskr's Spin;
+Goat Monk;
+Lamassu;
+Seraph;
+Natural Attack (Life 100x, 4 Pip max);
+Sacred Charge;
+Hungry Caterpillar;
+Grrnadier;
+Wings of Fate;
+Centaur;
+Spinysaur;
+
+| quests =
+Mug vs. Nature;
+
+| gold =
+270 - 374;
+
+| hats =
+Executive Thermal Hood;
+
+| robes =
+Executive Insulated Suit;
+Executive Thermal Suit;
+
+| boots =
+Director Insulated Boots;
+Director Pressure Boots;
+Director Protective Boots*F3;
+Director Thermal Boots;
+Executive Biohazard Boots;
+Executive Hazmat Boots;
+Executive Insulated Boots;
+Executive Pressure Boots;
+Executive Protective Boots;
+Executive Survival Boots;
+Executive Thermal Boots;
+Producer's Biohazard Boots;
+Producer's Cryo Boots;
+Producer's Hazmat Boots;
+Producer's Insulated Boots;
+Producer's Pressure Boots;
+Producer's Protective Boots;
+Producer's Survival Boots;
+Producer's Thermal Boots;
+
+| athames =
+Director Pressure Knife;
+Director Survival Knife;
+Producer's Insulated Knife;
+
+| amulets =
+Producer's Cryo Rope;
+
+| rings =
+Director Insulated Ring;
+Director Protective Ring;
+
+| wands =
+Director Cryo Meter;
+Director Hazmat Meter*F2;
+Director Insulated Meter;
+Director Pressure Meter;
+Director Protective Meter;
+Director Survival Meter;
+Director Thermal Meter;
+Executive Biohazard Meter;
+Executive Cryo Meter*F2;
+Executive Hazmat Meter;
+Executive Insulated Meter;
+Executive Pressure Meter;
+Executive Protective Meter;
+Executive Survival Meter;
+Producer's Biohazard Meter;
+Producer's Hazmat Meter;
+Producer's Insulated Meter;
+Producer's Pressure Meter;
+Producer's Protective Meter;
+Producer's Survival Meter;
+Producer's Thermal Meter;
+
+| decks =
+Director Pressure Box;
+
+| items =
+Gum Drop Container;
+Karamelle Barrel;
+Karamelle Cavity Combat Theme;
+Karamelle Forest Theme;
+Karamelle Jingle Theme;
+Karamelle Rural Theme;
+Licorice Tree;
+Oil Drum;
+
+| cards =
+Brilliant Light;
+Dream Shield;
+Ether Shield;
+Galvanic Field;
+Nested Fury;
+Raging Bull;
+Rusalka's Wrath;
+Sirens;
+Snowball Barrage;
+Storm Shield;
+Winged Sorrow;
+Wings of Fate;
+
+| reagents =
+Aether;
+Agave Leaves;
+Agave Nectar;
+Amber*F2;
+Amber Dust;
+Aquamarine;
+Astral Shard;
+Braided Vine;
+Draconium;
+Fire Blossom;
+Golden Pearl;
+Karamelle Chunk*F3;
+Merle's Whisker*F2;
+Mithril;
+Orichalcum*F2;
+Silver*F2;
+Steel;
+Sunstone;
+Toffee Bean*F2;
+Titanium;
+Tungsten;
+Turmeric;
+Vine;
+
+| spellements =
+Grrnadier*F2;
+Mockenspiel;
+S'more Machine;
+Shatterhorn;
+Snack Attack;
+Sound of Musicology;
+Tatzlewurm Terror;
+
+| snacks =
+Aztecan Hot Chocolate*F2;
+Crackle Jacks Cereal;
+Discord Grape Jelly;
+Dragon Fruit;
+Glowing Star Fruit;
+Hot Cross Buns;
+Krakamari;
+Pizza;
+Roly Poly Fishheads;
+Sprinkle Cupcake;
+Tasty Rainbow;
+Waterworks Wonton;
+
+| jewels =
+Dazzling Accurate Amethyst +14%;
+Dazzling Accurate Hematite +14%;
+Dazzling Accurate Onyx +14%;
+Dazzling Accurate Opal +7%*F2;
+Dazzling Accurate Ruby +14%;
+Dazzling Blocking Amethyst +19;
+Dazzling Blocking Ruby +20;
+Dazzling Blocking Sapphire +19;
+Dazzling Critical Amethyst +20;
+Dazzling Critical Onyx +20;
+Dazzling Critical Opal +10;
+Dazzling Damage Amethyst +29;
+Dazzling Damage Citrine +29;
+Dazzling Damage Onyx +30;
+Dazzling Damage Opal +15;
+Dazzling Damage Peridot +30;
+Dazzling Damage Ruby +29;
+Dazzling Damage Ruby +30;
+Dazzling Defense Amethyst +59;
+Dazzling Defense Hematite +60;
+Dazzling Defense Jade +57;
+Dazzling Defense Peridot +60;
+Dazzling Defense Ruby +59;
+Dazzling Defense Sapphire +59;
+Dazzling Health Opal +126;
+Dazzling Health Opal +130;
+Dazzling Health Opal +132;
+Dazzling Health Opal +133;
+Dazzling Mana Opal +54;
+Dazzling Mending Opal +7%;
+Handsome Fomori Sapphire;
+Krampus Revenant Ruby;
+Lord of Night Onyx;
+Shiny Accurate Onyx +12%;
+Shiny Blocking Peridot +16;
+Shiny Critical Citrine +16;
+Shiny Critical Onyx +15;
+Shiny Defense Amethyst +49;
+Shiny Defense Hematite +49;
+Shiny Defense Hematite +50;
+Shiny Healing Opal +6%;
+Shiny Health Opal +111;
+Shiny Health Opal +112;
+Shiny Health Opal +113;
+Shiny Health Opal +114;
+Shiny Mana Opal +46;
+Shiny Mending Opal +6%;
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Baby Carrots;
+Bell Pepper;
+Boiled Peanuts;
+Boom Shroom;
+Boon Tree*CR;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Cornbread Fruit Bush;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Face Palm;
+Fish on a Vine;
+Fortune Cookie Tree;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Honey Sickle;
+King Parsley*CR;
+Laugh-O-Dil;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Moon Flower;
+Orange Dandelion;
+Purple Grapes of Wrath;
+Red Huckleberries;
+Silver Trumpet Vine*CR;
+Sword Fern*CR;
+Ultra Dandelion;
+Ultra King Parsley;
+Ultra Trumpet Vine;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

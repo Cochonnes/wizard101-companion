@@ -1,0 +1,181 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 2,815
+| crecla = Grendel
+| school = Fire
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Frost Goblin;
+
+| world = Grizzleheim
+| location = Nordrilund
+| subloc1 = Conal's Cave
+| descrip =
+
+| speech =
+:''"Hee hee hee! I'll hammer your head and put your feet in the forge!"''
+
+| spellnotes =
+
+| casts =
+Fireblade;
+Fire Trap;
+Sunbird;
+Meteor Strike;
+Phoenix;
+Magma Man;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Natural Attack (Fire 100x);
+
+| quests =
+There A Cave?;
+
+| gold =
+68 - 96;
+
+| hats =
+Bitter Cold Bear Hat;
+Blasted Bear Hat*F2;
+Cowl of Esprit*F2;
+Cowl of the Dark Waters*F2;
+Cowl of the One Eyed Crow;
+
+| robes =
+Armor of Elan*F2;
+Fire-Forged Warlord Armor*F3*WMV;
+Jerkin of the Bear's Shadow;
+Jerkin of the Bleak Bear*F2;
+Jerkin of the Roaring Bear;
+Storm Surge Armor;
+Valiant Armor;
+
+| boots =
+Barbarian's Fierce Boots;
+Boots of Ages;
+Boots of Anguish;
+Boots of Honor*F2;
+Fighting Bear Boots;
+Howling Bear Boots;
+Raven's Alert Boots;
+Raven's Boots of Balance*F2;
+Raven's Covered Boots;
+Raven's Guarded Boots*F3*WMV;
+Raven's Protected Boots;
+Raven's Shielded Boots*F3;
+Raven's Tricksy Boots*F2*WMV;
+Roaring Bear Boots;
+Thunderstrike Boots*F2;
+
+| athames =
+Bear's Claw of Fire*F4;
+
+| amulets =
+Amulet of Unweaving*F3;
+
+| rings =
+Ring of Fang;
+Ring of the Hungry Wolf;
+Ring of the Hunting Wolf;
+Ring of the Wolf Warrior;
+Ring of the Wolf's Howl;
+
+| wands =
+Cloudberry Staff*F3;
+Spear of Bear's Wrath*F2;
+Staff of Absolution;
+
+| decks =
+
+| items =
+
+| cards =
+Blizzard;
+Donate Power;
+Evil Snowman;
+Fortify*F2*WMV;
+Fuel*F7*WMV;
+Keen Eyes;
+Minotaur;
+Power Link*F3;
+Storm Shark;
+Strong;
+
+| reagents =
+Bronze;
+Cobalt;
+Ectoplasm*F5;
+Lead;
+Leather Straps*F3;
+Nickel;
+Steel;
+Tin;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F2;
+Cauliflowers;
+Glowing Star Fruit;
+Glowing Taffy;
+Goat Cheese;
+Salmonberry;
+Shiny Tomato*F2*WMV;
+Spicy Drumstick;
+Strawberry Cupcake;
+Submarine Sandwich;
+Uni-Corn*F3;
+
+| jewels =
+Attentive Opal;
+Dull Critical Amethyst +3;
+Mander Opal;
+Mass Storm Prism Amethyst;
+Plain Blocking Opal +3;
+Plain Damage Amethyst +15;
+Plain Damage Citrine +15;
+Reshuffle Citrine;
+Slick-N-Slide Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Burning Snap Dragon;
+Cornbread Fruit Bush;
+Evil Snow Peas;
+Snap Dragon;
+Venus Fly Trap*F2;
+
+| mounts =
+
+| spells =
+
+}}

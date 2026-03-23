@@ -1,0 +1,184 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 5,600
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Dragonspyre
+| location = The Grand Chasm
+| subloc1 = Vault 1933
+| descrip =
+Vasek Ashweaver is the last Boss in the Grand Chasm. After Wizards go to The Grand Chasm Past and get the key from Vasek's past self, they gain access to the vault that Vasek guards, which contains a Teleport Crystal that Wizards need to continue through Dragonspyre.
+
+| speech =
+:''"Who dares trespass in this place?! I cannot allow any to enter this vault. You will not leave here alive..."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+He takes his job as protector of portals very seriously.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Weakness;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Vampire;
+Skeletal Pirate;
+Scarecrow;
+Natural Attack (Death 85x);
+Fire Elf (50+210);
+Lightning Bats;
+Ice Wyvern;
+
+| quests = 
+One Good Deed;
+
+| dropnotes =
+When a Wizard has unlocked the '''Oni Slayer''' {{Icon|Oni Slayer}} Badge and has not unlocked the '''Astrologist''' {{Icon|Astrologist}} Badge, the following drops will be available:
+*14 Spellements will drop each time from the '''Spiritual''' (Myth, Life, Death, Balance) Schools for their respective rank 2-6 Spells.
+
+If a Wizard has already unlocked the Astrologist badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of {{Link|Location|The Great Spyre}} to acquire a [[Item:Level Scaling Elixir - 50|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+60 - 70;
+
+| hats =
+Ashweaver's Cowl of Quietude*F2;
+Cowl of Blazes*F2*WMV;
+Cowl of the Northern Wind*F2*WMV;
+Hood of the Historian*F3*WMV;
+Shroud of the Sylph;
+
+| robes =
+Cloak of the Seasons*F3*WMV;
+Drape of Symmetry*F2;
+Thunder Cloak*F3*WMV;
+Tunic of Typhoons*F3;
+
+| boots =
+Ashweaver's Sandals of Cinders*F2*WMV;
+Boots of Revelation*F2;
+Sandals of the Ancients*F2;
+Sandals of the Lost Epoch*F2;
+Shoes of Gloom;
+Slippers of the Ice Flow*F5*WMV;
+
+| athames =
+Soothing Steel;
+
+| amulets =
+
+| rings =
+Seal of the Watchful*F3*WMV;
+Signet of the Reaper*F3;
+
+| wands =
+
+| decks =
+Deck of the Ice Wyrm;
+
+| items =
+Dragonspyre Dance Theme*F4*WMV;
+Dragonspyre Sarcophagus*CR*F2*WMV;
+Thunder Obelisk*F2;
+
+| cards =
+
+| reagents =
+Brass*F3*WMV;
+Bronze Gear*F5*WMV;
+Cobalt*F5*WMV;
+Nickel*F2;
+Tin*F2;
+
+| spellements =
+Banshee*BR*F2*WMV;
+Centaur*BR*F2;
+Cyclops*BR*F2*WMV;
+Cyclops Minion*BR*F2;
+Earth Walker*BR;
+Gearhead Destroyer*BR*F2;
+Ghoul*BR*F3*WMV;
+Hydra*BR;
+Leprechaun*BR*F2*WMV;
+Locust Swarm*BR;
+Minotaur*BR*F3*WMV;
+Nature's Wrath*BR*F3*WMV;
+Scorpion*BR*F2;
+Seraph*BR*F2;
+Skeletal Pirate*BR*F2*WMV;
+Spectral Blast*BR*F2;
+Stone Colossus*BR*F2*WMV;
+Troll*BR*F2*WMV;
+Vampire*BR;
+Wraith*BR*F3*WMV;
+
+| snacks =
+
+| jewels =
+Colossus Sapphire;
+Dull Blocking Jade +4;
+Dull Defense Opal +14;
+Energy Opal;
+Huge Energy Opal;
+Sanctuary Jade*F2;
+Supercharge Opal;
+Wisp Bonus Opal;
+Wraith Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fiery Boom Shroom;
+King Parsley*CR*F3*WMV;
+Maelstrom Snap Dragon*F2*WMV;
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

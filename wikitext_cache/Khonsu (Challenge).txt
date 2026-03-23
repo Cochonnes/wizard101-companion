@@ -1,0 +1,134 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 80,000
+| crecla = Celestian
+| school = Moon
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Ice;
+Myth;
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Selenopolis
+| subloc1 = Khonsu's Sanctum (Challenge)
+| badge = Khonsu Challenger
+| lootchest = Khonsu Chest (Challenge)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the Standard version of this battle, see {{Link|Creature|Khonsu (Standard)}}.
+
+'''Advanced Combat Rules:'''
+*4 Wizards are required for this battle.
+*Wizards stats and spells are scaled to Level 170.
+*Spell Decks cannot be changed while in this instance.
+*No-PvP spells are disallowed in this fight.
+*PvP-Only Spells are allowed in this fight.
+*Snake Turn Order Combat.
+*Wizards cannot re-join combat after fleeing mid-combat.
+
+'''Additional Notes:'''
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Round}} ''"Combat prowess is inversely proportionate to adorability"'' - At the beginning of the first Round, Khonsu will Polymorph each Wizard into one of the following forms at random for 99 Rounds and remove all of their Pips:
+**{{Icon|Fire|25px}} {{Link|Polymorph|Marshfellow (Challenge)}} - {{Link|Spell|Mallow Inferno}}
+**{{Icon|Ice|25px}} {{Link|Polymorph|Snowball (Challenge)}} - {{Link|Spell|New Ice Age}}
+**{{Icon|Storm|25px}} {{Link|Polymorph|Glowbug Zapper (Challenge)}} - {{Link|Spell|Zap-aclysm}}
+**{{Icon|Myth|25px}} {{Link|Polymorph|Snipe (Challenge)}} - {{Link|Spell|Snipe Hunter}}
+**{{Icon|Life|25px}} {{Link|Polymorph|Horned Frog (Challenge)}} - {{Link|Spell|Plague of Frog}}
+**{{Icon|Death|25px}} {{Link|Polymorph|Gummy Bunny (Challenge)}} - {{Link|Spell|Hare Razer}}
+**{{Icon|Balance|25px}} {{Link|Polymorph|Wombat (Challenge)}} - {{Link|Spell|Wombat Evolved}}
+*If a Wizard casts their above Spell and does not meet its condition to deal Damage, a copy of the Spell will be added to their hand.
+*{{Icon|Spell}} ''"Hmm. Perhaps I should increase the adorability quotient"'' - After a Wizard successfully attacks Khonsu with one of the above Spells, Khonsu will Polymorph the Wizard who attacked him into another one of the above forms, remove their current Pips and give them 2 Power Pips. After Khonsu has been hit the same number of times as there are Wizards, Khonsu will unpolymorph all Wizards, and Polymorph himself into one of the following forms at random for 100 Rounds:
+**''"I will rain down death..."'' -  {{Link|Polymorph|Hunhau}}
+**''"Feel hatred, Wizard"'' -  {{Link|Polymorph|Malus}}
+**''"Your rules do not apply to me"'' -  {{Link|Polymorph|Personal Daemon}}
+**''"All shall be consumed"'' -  {{Link|Polymorph|The Devourer}}
+
+| spellnotes =
+
+| casts =
+Moon Blade (0 Pip);
+Dark Surge;
+Hypothermi-HIYA! (Moon);
+Death Scarab (Moon);
+Yellow Troll (Moon);
+Kiiii-Yaaaa! (Moon);
+Athena Battle Sight (Moon);
+Winter Moon (Moon);
+Scarecrow (Moon);
+Snow Angel (Moon);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Khonsu
+}}

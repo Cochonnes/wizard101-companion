@@ -1,0 +1,269 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 17,800
+| crecla = Plant
+| crecla2 = Treant
+| school = Myth
+| masteries =
+Death;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Shadow Weaver Prowler;
+
+| world = Azteca
+| location = Cloudburst Forest
+| subloc1 = House of Flowers
+| descrip =
+
+| speech =
+:''"Mana Bleeder, why do you intrude on this sacred place?! Storm wrecker! Fire quencher! Ice breaker! Whatever you wish from here, it is too late! The Shadow has passed through here and left her mark! Welcome to the Blight. Prepare for a long, long stay!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Twisted by darkness, the corrupted Spirit of the Forest is a thrall of evil.
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Ether Shield (-75%);
+Infection;
+Mythblade;
+Spirit Blade;
+Curse (+25%);
+Myth Banshee (170);
+Natural Attack (Myth 185-370-555);
+Humongofrog (400-500);
+Medusa;
+Basilisk;
+Celestial Calendar;
+Wraith (575);
+
+| quests =
+Wilting Flowers;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge and has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge, the following drops will be available:
+*6 Spellements will drop each time from '''any''' School for their respective rank 6-10 Spells.
+
+| gold =
+79 - 156;
+
+| hats =
+
+| robes =
+Black Butterfly Guard's Armor*F3*WMV;
+
+| boots =
+Elite Jura Guard Stalkers;
+Indigo Wing Striders;
+Keeper of the Codex Walkers*F6*WMV;
+Philosoraptor's Abstract Feet*F3*WMV;
+Smoking Obsidian Rangers;
+Storm Owl's Favored Trackers;
+
+| athames =
+Deathless Storm Horn Dagger*F2;
+King Acampi's Cruel Fang;
+
+| amulets =
+
+| rings =
+Acampi Reedfist's Lost Seal*F3*WMV;
+Apocalypto Ring;
+Chac's Challenge Loop;
+Falling Star's End Time Band;
+Storm Owl's Terror Ring;
+Twisting Season Ring;
+
+| wands =
+Fire Quetzal Wand;
+Heart of the Sky Scepter*F2*WMV;
+
+| decks =
+Case of Mother Moon;
+Deck of the Jaguar Spirit*F3;
+Lords of Night Pyramid Deck*F2*WMV;
+
+| items =
+Azteca Dungeon Theme*F2;
+Azteca Mountain Theme;
+Azteca Zultun Theme;
+Quetzal Root Nest;
+Quetzal Straw Nest;
+Sun Jar;
+
+| cards =
+Chastisement;
+Chimera;
+Colossal*F2*WMV;
+Cycle of Life;
+Dr. Von's Monster;
+Extraordinary;
+Furnace*F2*WMV;
+Galvanic Field*F2;
+Gnomes!*F2;
+Leviathan;
+Polymorph Icehorn*F2*WMV;
+Polymorph Jaguar;
+Polymorph Pteranodon*F2*WMV;
+Potent Trap;
+Punishment;
+Reliquary*F2;
+Sharpened Blade;
+Sirens;
+Sleet Storm;
+Vengeance;
+Virulence*F3*WMV;
+Woolly Mammoth*F2*WMV;
+
+| reagents =
+Black Lotus;
+Black Pearl;
+Blood Moss*F2*WMV;
+Bone*F3*WMV;
+Bronze;
+Bronze Gear*F4*WMV;
+Cobalt;
+Deep Mushroom*F2*WMV;
+Fire Blossom*F2*WMV;
+Fossil;
+Golden Pearl;
+Lava Lily*F2;
+Mist Wood*F5*WMV;
+Mithril;
+Nightshade;
+Ore*F3*WMV;
+Red Mandrake*F3*WMV;
+Silver;
+Steel*F3*WMV;
+Stone Block;
+Sunstone*F2*WMV;
+Tungsten;
+Turquoise*F2*WMV;
+
+| spellements =
+Avenging Fossil*F2*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Centaur*BR;
+Chimera*BR;
+Colossus*BR;
+Dr. Von's Monster*BR;
+Efreet*F2*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*F2*BR;
+Helephant*BR;
+Hydra*F2*BR;
+Leviathan*F2*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Triton*BR;
+Woolly Mammoth*BR;
+Wraith*BR;
+
+| snacks =
+Allocados;
+Bedrock Bonbons;
+Cacao Beans*F2*WMV;
+Cactus Fruit*F2;
+Caramel Apple;
+Chili Peppers;
+Fried Ice Cream;
+Glowing Star Fruit*F2*WMV;
+Guava;
+Gummy Wyrms;
+Papaya;
+Quetzal Pretzel*F2*WMV;
+Tamales;
+Tenochti-Flan*F3*WMV;
+Tortilla Chips;
+Zocalo Wings;
+
+| jewels =
+Aura Crush Citrine;
+Balance-Giver Citrine;
+Clear Health Opal +85;
+Minotaur Minion Peridot;
+Mulligan's Shuffle Citrine;
+Polished Blocking Jade +11;
+Polished Critical Peridot +11;
+Polished Damage Onyx +21;
+Polished Health Opal +90;
+Polished Piercing Citrine +6%;
+Unstoppable Talent Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries*F2*WMV;
+Burning Snap Dragon;
+King Parsley*CR;
+Maelstrom Snap Dragon;
+Ninja Fig*CR*F2*WMV;
+Red Bell Pepper;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

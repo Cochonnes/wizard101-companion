@@ -1,0 +1,105 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 18,390
+| crecla = Khrulhu
+| crecla2 = Undead
+| school = Life
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Darkmoor
+| location = Scholomance
+| subloc1 = Heretical Academy (Standard)
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Darkmoor
+| tome description =
+An Eldritch spirit that favored creature comforts, even in death
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1000
+| guest animus = 30
+| guest gold = 2,500
+}}
+| spellnotes =
+*Casts a Spell version of [[ItemCard:Spinysaur|Spinysaur (3rd Variant)]].
+
+| casts =
+Lifeblade;
+Balanceblade;
+Forest Lord;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

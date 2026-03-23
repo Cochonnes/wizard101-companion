@@ -1,0 +1,114 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 2,140
+| crecla = Mander
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Doomsday Krok Gauntlet
+| subloc1 = Doomsday Krok Gauntlet (Tier 1)
+| descrip =
+Ice Cybermander (Tier 1) is considered a Minion to {{Link|Creature|Balance Cybermander (Tier 1)}}.  All drops are recorded on that page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Manders from a parallel timeline where they were conscripted by Nanobots instead of Kroks.
+
+| extract class =
+Mander;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| altlink = Ice Cybermander
+
+| spellnotes =
+'''Natural Attack:'''
+*Four Pip maximum, despite what the Spell description indicates.
+
+| casts =
+Tower Shield;
+Ice Armor;
+Iceblade;
+Ice Trap;
+Snow Serpent;
+Evil Snowman;
+Snow Shark;
+Blizzard;
+Natural Attack (Ice 105-210-315, 75%);
+Sunbird;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

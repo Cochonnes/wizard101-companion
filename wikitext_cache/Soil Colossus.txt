@@ -1,0 +1,104 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 5,135
+| crecla = Colossus
+| school = Balance
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Avalon
+| location = High Road
+| subloc1 = Memory Hollow
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Attenuate;
+Tower Shield;
+Weakness;
+Balanceblade;
+Hex;
+Locust Swarm (Tier 2b);
+Iron Curse;
+Hydra (Tier 2b);
+Power Nova (Tier 2b);
+Ra (Tier 2b);
+
+| quests =
+The Lively Hollows;
+Pigswick and the Sorcerous Stone;
+
+| gold =
+8-35;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Colossus Idol (Life);
+Cyclops Idol (Life);
+Elf Idol (Life);
+Weft Yarn @ 25 Weft Yarn;
+Weft Yarn @ 30 Weft Yarn*F2;
+Weft Yarn @ 35 Weft Yarn;
+Weft Yarn @ 100 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

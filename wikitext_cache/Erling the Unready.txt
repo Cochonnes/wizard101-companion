@@ -1,0 +1,190 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 2,815
+| crecla = Wolf
+| school = Balance
+| startpips = 3
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Snowfang Ranger;
+
+| world = Grizzleheim
+| location = Austrilund
+| subloc1 = Erling's Cave
+| descrip =
+
+| speech =
+:''"Have you come to show me the ways of battle? I am ready to learn!"''
+
+| spellnotes =
+
+| casts =
+Balanceblade;
+Sandstorm;
+Gearhead Destroyer;
+Spirit Blast;
+Spectral Blast;
+Natural Attack (Balance 85x, 85%);
+
+| quests =
+Unready or Not;
+
+| gold =
+49 - 78;
+
+| hats =
+Barbaric Helm;
+Bitter Cold Bear Hat;
+Blasted Bear Hat;
+Burning Bear Hat*F2;
+Grizzled Helm;
+Horned Helm of Bravery*F3*WMV;
+Horned Helm of Courage*F3;
+Horned Helm of the Mighty;
+Horned Helm of the North;
+Horned Helm of Valor;
+
+| robes =
+Burnt Coat*F2;
+Chill-Kissed Coat;
+Coat of Justice;
+Coat of the Crypt*F2;
+Jerkin of the Bear's Shadow;
+Jerkin of the Bleak Bear;
+Jerkin of the Iron Bear;
+Jerkin of the Roaring Bear;
+
+| boots =
+Angry Bear Boots*F2;
+Barbarian's Courage Boots;
+Barbarian's Fierce Boots;
+Biting Bear Boots*F3;
+Fighting Bear Boots;
+Growling Bear Boots*F5;
+Howling Bear Boots;
+Roaring Bear Boots;
+Slashing Bear Boots*F2*WMV;
+Snarling Bear Boots*F4*WMV;
+
+| athames =
+Wolf's Jade Claw*F4*WMV;
+
+| amulets =
+Wyrm's Curse Charm*F4*WMV;
+
+| rings =
+Ring of Claw;
+Ring of Fang*F2;
+Ring of the Wolf Warrior;
+Ring of the Wolf's Howl;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Availing Hands*F4;
+Banshee;
+Blizzard;
+Elemental Defuse*F3*WMV;
+Evil Snowman;
+Fire Elf;
+Fortify;
+Keen Eyes;
+Locust Swarm;
+Meteor Strike;
+Pixie;
+Snow Serpent;
+Spirit Defuse*F5;
+Sprite;
+Strong;
+Tempest;
+Troll;
+Weakness;
+
+| reagents =
+Bronze Gear*F7*WMV;
+Cobalt*F2;
+Copper;
+Nickel*F4;
+Tin;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F2*WMV;
+Cauliflowers;
+Delicious Cookie;
+Flaming Soup*F2;
+Glowing Star Fruit*F2;
+Glowing Taffy;
+Goat Cheese;
+Golden Apple;
+Golden Grapes*F3;
+King Banana;
+Salmonberry*F2;
+Shiny Tomato*F4;
+Spicy Drumstick;
+Submarine Sandwich;
+Uni-Corn;
+
+| jewels =
+Blade Flurry Amethyst;
+Clock Spider Citrine;
+Conviction Talent Opal;
+Dull Critical Opal +2;
+Dull Health Opal +51;
+Plain Defense Jade +29;
+Plain Defense Ruby +29;
+Plain Defense Sapphire +29;
+Plain Health Opal +59;
+Quench Ruby;
+Spirit Armor Jade;
+Strangle Onyx;
+Super-Lock Opal;
+The Deer Knight Rises Onyx;
+Vaporize Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots*F2;
+Burning Snap Dragon;
+Evil Snow Peas;
+Helephant Ears;
+Rye Bread Fruit Bush;
+Snap Dragon*F3;
+Venus Fly Trap*F2;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

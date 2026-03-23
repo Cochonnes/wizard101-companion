@@ -1,0 +1,140 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 21,145
+| crecla = Krokotopian
+| school = Life
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical =
+58 Any;
+
+| criticalblock =
+631 Any;
+
+| outpierce =
+14%;
+
+| outboost =
+84%;
+
+| incboost =
+30% Death;
+
+| incresist =
+41% Fire, Ice, Storm, Myth, Balance, Shadow;
+71% Life;
+
+| outhealing =
+40%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Balance Player;
+
+| world = Krokotopia
+| location = Underground Market
+| subloc1 = The Moonseum
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*The strategy is to simply attack Taweret's Tower Shields.
+**Prior to the January 2026 update, Wizards would have defeated Taweret on the third round of the cycle, where she would cast an attack on the Wizard.
+*Two additional Balance Player Minions will appear if more than two Wizards are present.
+
+| speech =
+:'''Taweret''': ''"I AM TAWERET!"''
+:'''{{Link|NPC|Brother Flare}}''': ''"Wow. Actual hippo. Didn't see that coming."''
+:'''Taweret''': ''"WHAT ELSE WOULD YOU EXPECT IN A MUSEUM DEDICATED TO MY GREAT WORKS?"''
+:'''Brother Flare''': ''"You can hear me?"''
+:'''Taweret''': ''"I HEAR ALL!"''
+:'''Brother Flare''': ''"Then hear this: for the crimes you committed in the name of your false king, the Covenant of Ra shall pass sentence upon you! Go get 'em, Wizard!"''
+
+| cheatnotes =
+*{{Icon|Round}} ''"I AM THE SHIELD OF VENGEANCE!"'' - At the beginning of the first Round, Taweret will cast a -25% {{Link|Spell|Tower Shield}}.
+**Taweret will reapply the Shield if she does not have one after each Spell.
+*{{Icon|Round}} ''"I WILL PROTECT THE PEOPLE!"'' - At the end of the first Round and at the end of every fourth Round, Taweret will cast a Mega Taunt.
+*{{Icon|Round}} ''"YOU LIE TRAMPLED AT MY MIGHTY FEET!"'' - At the beginning of every third Round, Taweret will cast one of the following attacks:
+**{{Link|Spell|Earth Walker}}
+**{{Link|Spell|Gnomes!}}
+**{{Link|Spell|Forest Lord}}
+**{{Link|Spell|Wings of Fate}}
+*{{Icon|Afterlife}} ''"You shouldn't skip the story."'' - If Taweret is defeated without triggering the "HA! WELL DONE!" cheat, she will cast {{Link|Spell|Blessing}}, reviving herself.
+**This cheat can only trigger once.
+*{{Icon|Damage}} ''"MY PROTECTION SHALL NOT BE BREACHED!"'' - If a Wizard hits Taweret while she does not have a Tower Shield, she will cast her Natural Attack on the offending Wizard, dealing 1,500 Life Damage.
+*{{Icon|Damage}} ''"HA! WELL DONE!"'' - If a Wizard hits Taweret while she has a Tower Shield, she will say this.
+**After triggering this cheat, she will no longer revive.
+**This cheat can only be triggered once.
+*{{Icon|All Enemies (Squared)}} ''"I HEAR ALL!"'' - If a Wizard casts an All Enemies Spell, she will cast her Natural Attack on the offending Wizard. 
+
+| spellnotes =
+
+| casts =
+Spirit Armor;
+Guiding Light;
+Sprite;
+Pixie;
+Pigsie (Tier 2b);
+Lifeblade (+40%);
+Sanctuary;
+
+| quests =
+Angry, Angry Hippo;
+Tawarest in Peace;
+
+| gold =
+1 - 18;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Selenopolis Zigazag Market Theme;
+
+| cards =
+Gnomes!;
+Skeletal Dragon;
+
+| reagents =
+Turquoise;
+
+| spellements =
+
+| snacks =
+Baby Carrot;
+Crab Apples;
+Cubby Broccoli;
+Killer Kumquat;
+Spicy Stingers*F2;
+Zen Poppers;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

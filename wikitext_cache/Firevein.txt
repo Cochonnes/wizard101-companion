@@ -1,0 +1,189 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 2,560
+| crecla = Elemental
+| crecla2 = Colossus
+| school = Fire
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Ghastly Slave;
+
+| world = Dragonspyre
+| location = Plaza of Conquests
+| subloc1 = 
+| descrip =
+Firevein is one of two Bosses that roam the streets of the Plaza of Conquests.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+Technically, it's magma in his veins.
+
+| extract class =
+Colossus;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip.
+
+| casts =
+Snow Shield;
+Spirit Armor;
+Smoke Screen;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf;
+Sunbird;
+Fire Shark;
+Meteor Strike;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Heck Hound;
+
+| quests =
+Stop the Advance;
+
+| gold =
+93 - 163;
+
+| hats =
+Brimstone Hood*F2;
+Cowl of the Necromancer*F2*WMV;
+Cyclone Coif;
+Firevein's Omnipotent Shroud*F2;
+Gallows Hood;
+Headgear of Resistance*F7*WMV;
+Hood of the Tempest;
+Veil of the Guardian*F2;
+
+| robes =
+Cloak of Mortality;
+Firevein's Cloak of Cooling*F2;
+Gardener's Smock;
+Robe of the Earth Dragon*F4*WMV;
+Robe of the Efreet*F3;
+Robe of the Magister*F5;
+Sorcerer's Robe;
+Vestment of Fable;
+
+| boots =
+Firevein's Flaming Sandals;
+Footgear of the Forgotten;
+Footwraps of the Whirlwind;
+Mocassins of the Embers;
+Mocassins of the Healer*F2;
+Mythmaker Boots*F2*WMV;
+Sandals of Sleet*F2;
+Shoes of the Gardener*F2*WMV;
+Slippers of the Quiet;
+Storyteller's Shoes*F6*WMV;
+Sunwalkers;
+Talespinner's Footgear;
+Thunderbird Shoes*F2;
+
+| athames =
+Dirk of the Daring*F2;
+Indomitable Knife;
+Poniard of the Wyrms*F4*WMV;
+
+| amulets =
+
+| rings =
+Lavastone Ring;
+Tornado Wring*F6*WMV;
+
+| wands =
+
+| decks =
+Deck of Nature's Bounty;
+
+| items =
+Long Corner Wall Ruins;
+Singed Book;
+Stone Plinth*F2;
+
+| cards =
+Dragonflies*F3;
+
+| reagents =
+Bone*F9*WMV;
+Cobalt;
+Copper;
+Ectoplasm*F9*WMV;
+Nickel*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F3;
+Goat Cheese;
+Golden Grapes;
+Gummy Humongofrog*F4*WMV;
+King Banana*F2;
+
+| jewels =
+Balefrost Sapphire;
+Blemished Defense Citrine +22;
+Blemished Defense Sapphire +22;
+Blemished Health Opal +42;
+Donate Power Citrine*F2*WMV;
+Doom and Gloom Onyx;
+Dull Critical Peridot +2;
+Dull Critical Ruby +2*F2;
+Dull Critical Sapphire +2;
+Dull Defense Jade +25;
+Gold Miner Opal;
+Life-Eye Jade;
+Life-Giver Jade;
+Phoenix Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+Fiery Boom Shroom;
+Pink Dandelion*CR;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,231 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 13,200
+| crecla = Lemur
+| school = Shadow
+| masteries =
+Balance;
+
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+210 Any;
+
+| criticalblock =
+236 Any;
+
+| outpierce =
+26%;
+
+| outboost =
+130%;
+
+| incboost =
+None;
+
+| incresist =
+68% Balance;
+
+| outhealing =
+
+| inchealing =
+45%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Banana Horde;
+
+| world = Lemuria
+| location = Telos
+| subloc1 = Donny Kong's House
+| descrip =
+
+| speech =
+:''"You! I know you! You bested the thieving Kroks and recovered my Banana Hoard. Silly reptiles never understood its true power. POTASSIUM! Who wants a squishy army of fruit monsters? What can they do? But with a spell of Potassium Steal, their power will become mine! Infested with Potassium and vitamins, I will become big and strong. Big enough to stomp houses, strong enough to throw trees like spears. Donny Kong will become King! And nothing will be able to stop me!
+
+| spellnotes =
+*Casts a protected and unprotected Shadowblade.
+*Casts a protected Shadow Trap that affects all enemies.
+
+| casts =
+Vengeance (6 Rounds);
+Bad Juju (Shadow);
+Shadowblade;
+Shadow Trap;
+Enfeeble (Shadow);
+Iron Sultan (Shadow);
+Athena Battle Sight (Shadow);
+Deer Knight (Shadow);
+Glowbug Squall (Shadow, 1,120);
+Storm Lord (Shadow);
+Medusa (Shadow);
+Leviathan (Shadow);
+Nested Fury;
+Mockenspiel (Tier 3a);
+
+| quests =
+Banana-Fana-Foe;
+
+| gold =
+161 - 384;
+
+| hats =
+Supreme Horror Hat;
+
+| robes =
+Supreme Firewall Robe;
+
+| boots =
+Supreme Science Shoes;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Cargo;
+Lemuria Forest Combat Theme;
+Lemuria Mystery Theme;
+Lemuria Telos Theme 1;
+Lemuria Telos Theme 4;
+Lemuria Telos Theme 7;
+Puzzle Cube;
+
+| cards =
+Ether Shield;
+Fortify;
+Infallible;
+Link;
+Mass Ice Prism;
+Mass Life Prism*F2;
+Mass Storm Prism;
+Nested Fury;
+Pacify;
+Raging Bull;
+
+| reagents =
+Aether;
+Amber;
+Aquamarine;
+Draconium;
+Fire Blossom;
+Fish Fin;
+Glass Sliver;
+Golden Pearl;
+Mithril;
+Orichalcum;
+Scales*F3;
+Silver*F3;
+Stardust;
+Steel*F2;
+Sunstone;
+Synthonium;
+Titanium;
+Tungsten*F3;
+Turquoise;
+Vine;
+
+| spellements =
+Blast Off!;
+Dark & Stormy;
+
+| snacks =
+Bell Pepper Steak;
+Boom Stroganoff;
+Bread Fruit Fruit;
+Candlenut;
+Catfish Stevens;
+Cauliflowers;
+Chalupacabra;
+Chapulines;
+Chili Peppers;
+Crystal Custard;
+Desparagus Salad;
+Eggplant;
+Fin Flan;
+Fish Egg Pancakes;
+Fizzing Fertilizer;
+Fried Ice Cream;
+Fried Worms;
+Frozen Perogies*F2;
+Goat Cheese;
+Hickory Chicory;
+Honey Bombs;
+Kraken Jacks;
+
+| jewels =
+Balance Striker Citrine;
+Balance-Off Citrine*F2;
+Dazzling Blocking Ruby +19;
+Dazzling Critical Hematite +19;
+Dazzling Defense Citrine +60;
+Dazzling Defense Peridot +58;
+Dazzling Defense Ruby +58;
+Feeling Weak Citrine;
+Fire Striker Ruby;
+Fire-Dealer Ruby;
+Fire-Eye Ruby;
+Healthy Opal;
+Ice-Boon Sapphire;
+Ice-Eye Sapphire;
+Ice-Shot Sapphire;
+Life Assailant Jade;
+Life-Shot Jade;
+Medic Opal;
+Myth-Away Peridot*F2;
+Sparkling Health Opal +116;
+Storm Assailant Amethyst;
+Storm Striker Amethyst;
+Storm-Eye Amethyst;
+Storm-Proof Amethyst;
+Stun Resistant Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears;
+Cornbread Fruit Bush;
+Dandelion;
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Fiery Boom Shroom;
+Fish on a Vine;
+Helephant Ears;
+Ivy League*CR;
+Key Limes*CR;
+King Parsley*CR;
+Maelstrom Snap Dragon;
+Missile Toe;
+Pink Huckleberries;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Queen Crape Myrtle;
+Red Couch Potatoes;
+Red Huckleberries;
+Rotten Beets;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Trumpet Vine;
+Ultra Snap Dragon;
+Vampire Carrots*F2;
+Yellow Bell Pepper*F2;
+
+| mounts =
+
+| spells =
+
+}}

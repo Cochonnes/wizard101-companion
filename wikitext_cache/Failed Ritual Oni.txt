@@ -1,0 +1,125 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 3,800
+| crecla = Demon
+| crecla2 = Elephant
+| school = Balance
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+2%;
+
+| outboost =
+
+| incboost =
+30% Balance;
+
+| incresist =
+4% Fire, Ice, Storm, Myth, Life, Death, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = MooShu
+| location = Jade Palace
+| subloc1 = Oni Dojo
+| descrip =
+*Defeating the Failed Ritual Oni is part of the Novice Balance Weaving Quest, ''"Piggle Power!"''. Wizards can also defeat Failed Ritual Oni 6 times as one of their Balance Weaving lessons, which awards the badge, [[Basic:Balance Weaving Badges|Succeeded at Failure]].
+
+| speech =
+:''"Yes, this place will serve as my temple, my shrine, my tribute to me. Let all who pass know the fear of mistakes, the grim consequence of messing up. And you, Wizard, the only one who could defeat me, you will be the first sacrifice on the Altar of Eternal Boo-Boos!"''
+
+| cheatnotes =
+*{{Icon|Ward}}{{Icon|Jinx}} ''"My tactics are flawless!"'' - At the beginning of every Round, Failed Ritual Oni will interrupt-cast a -25% Shield on itself, and a +15% Trap on all Wizards.
+*{{Icon|Healing}} If Failed Ritual Oni is defeated while their Shield and Trap cheat is still active, they will revive with full Health.
+*{{Icon|Spell}} ''"I am failure incarnate! So here's a card!"'' - At the beginning of the fourth Round, or after it respawns, Failed Ritual Oni will give each Wizard the following Spell:
+::{{GivesSpell|size = x150px|Locust Swarm (Tier 2b)}}
+*{{Icon|Balance}} ''"No, I've made a mistake!"'' - When Locust Swarm (Tier 2b) is used, Failed Ritual Oni will remove all Wards from itself, remove all Traps from all Wizards, and stop its Shield and Trap cheat.
+**''"I did not see that coming!"'' - Other Balance Spells that Echo Traps will cause Failed Ritual Oni to remove all Wards from itself, remove all Traps from all Wizards, and stop its Shield and Trap cheat.
+
+| spellnotes =
+
+| casts =
+Balanceblade;
+Elemental Blade;
+Elemental Trap;
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Judgement;
+
+| quests =
+Piggle Power!;
+
+| dropnotes =
+Wizards will receive Jewels that are appropriate for their Level.
+
+| gold =
+1 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Balanceblade;
+Gearhead Destroyer (Tier 2b)*F2;
+Hex*F4;
+Hydra (Tier 2b);
+Locust Swarm (Tier 2b);
+Scarab (Tier 2b);
+Scorpion (Tier 2b);
+Spectral Blast (Tier 2b)*F3*WMV;
+
+| reagents =
+Weft Yarn @ 10 Weft Yarn;
+Weft Yarn @ 12 Weft Yarn;
+Weft Yarn @ 15 Weft Yarn*F2;
+Weft Yarn @ 50 Weft Yarn*F2*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Clear Accurate Citrine +9%;
+Dull Accurate Citrine +6%;
+Flawless Accurate Citrine +16%;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

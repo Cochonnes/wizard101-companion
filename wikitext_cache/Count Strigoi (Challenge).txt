@@ -1,0 +1,142 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 16,110
+| crecla = Vampire
+| crecla2 = Undead
+| school = Death
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+834 Any;
+
+| criticalblock =
+830 Any;
+
+| outpierce =
+42%;
+
+| outboost =
+199%;
+
+| incboost =
+None;
+
+| incresist =
+33% Ice, Myth;
+53% Fire, Death, Balance, Sun, Moon, Star, Shadow;
+73% Storm, Life;
+
+| outhealing =
+6%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Ascended Guard;
+Ascended Guard;
+Ascended Guard;
+
+| world = Darkmoor
+| location = Mortal Plain
+| subloc1 = Castle Strigoi (Challenge)
+| descrip =
+
+| speech =
+
+| cheatnotes = 
+*{{Icon|Minion}} ''"They... ascended"'' - At the beginning of Round 1, Strigoi will summon 3 Ascended Guards.
+*{{Icon|Manipulation}} ''"I told you child... I protect you from the dangers beyond"'' - At the beginning of the round, Count Strigoi will cast Confusion on on a random wizard and heal himself for 6600 HP.
+*{{Icon|Afterlife}} ''"And now my hunger returns!"'' - When {{Link|Creature|Ascended Guard}} dies, Strigoi will cast {{Link|Spell|Sacrifice}} to revive them with 20% of their max HP at the cost of 2000 of his HP. If multiple Ascended Guards are defeated in 1 spell, he will cast Sacrifice multiple times. 
+*{{Icon|Damage}} ''"We turn our pain into the master's boon!"'' - When {{Link|Creature|Ascended Guard}} is hit with an attack, if they are not defeated, they will heal Count Strigoi for 5000 HP.
+*{{Icon|Health}} ''"Eh, I'm feeling a little overstuffed"'' - Count Strigoi will say this when he is at full HP at the start of a turn, allowing the Wizards to defeat him.
+*{{Icon|Health}} ''"The only thing I feel is hunger pangs!"'' - Count Strigoi will say this when he is not at full HP at the start of a turn. Defeating him in this state will result in him casting Scarecrow and reviving.
+*{{Icon|Steal}} ''"Are you alone? Let me fix that!"'' - If Count Strigoi is not defeated from full HP in a single attack, he will cast Scarecrow and revive himself.
+*{{Icon|Steal}} ''"You don't drain us, we drain you!"'' - If either Count Strigoi or an Ascended Guard is hit with a Drain spell, the enemy that was hit will cheat-cast one of the following spells on himself:
+** If he is not defeated by the attack, he will cast an {{Link|Spell|Aegis}}-protected +100% {{Link|Spell|Balanceblade}} on himself.
+** If he is defeated by the attack, he will cast a version of {{Link|Spell|Minor Blessing}} on himself that heals for 100% of his max health.
+*{{Icon|Spell}} ''"Is that the sun?!"'' - If either Count Strigoi or an Ascended Guard is hit by a spell with a sun in it (such as {{Link|Spell|Sun Serpent}}, {{Link|Spell|Ra}}, or {{Link|Spell|Climaclysm}}) and are not defeated by it, they will cast a protected universal dispel on themself.
+
+| spellnotes =
+
+| casts =
+Dark Tribute;
+Dragonblade;
+Steal Pip;
+Vampire;
+Wraith;
+
+| quests =
+
+| gold =
+19;
+
+| hats =
+
+| robes =
+
+| boots =
+Broken Branch Loss Walkers;
+Walkers of the Living Lie;
+
+| athames =
+
+| amulets =
+Amulet of the Coldhearted;
+Broken Branch Panic Amulet;
+
+| rings =
+
+| wands =
+Scepter of the Doomed;
+
+| decks =
+
+| items =
+
+| cards =
+Raging Bull;
+Rusalka's Wrath;
+
+| reagents =
+
+| spellements =
+Ammut;
+Anubis;
+Freeze Ray;
+Gravestorm;
+Lord of the Jungle;
+Mortality;
+Old One's Endgame;
+Scales of Destiny;
+Shu;
+The Chariot;
+The Emperor;
+The Hierophant;
+The World;
+Wobbegong Frenzy;
+
+| snacks =
+
+| jewels =
+Cleanse Ward Ruby;
+Flawless Accurate Onyx +16%;
+
+| pins =
+Balance Resist Pin (140, Fire);
+Life Resist Pin (140, Death);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

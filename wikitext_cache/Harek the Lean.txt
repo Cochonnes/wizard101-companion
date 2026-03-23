@@ -1,0 +1,166 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 3,080
+| crecla = Raven
+| school = Myth
+| startpips = 3
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Darkwing Hewer;
+
+| world = Grizzleheim
+| location = Hrundle Fjord
+| subloc1 = Harek the Lean's Cave
+| descrip =
+'''Notes:'''
+*Two additional {{Link|Creature|Darkwing Chopper}}s appear if more than two Wizards are present. (''needs confirmation'')
+
+| speech =
+:''"Ketil Blackheart told me to guard this pick! You won't take it without a fight!"''
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Myth Trap;
+Gobbler;
+Vermin Virtuoso;
+Humongofrog;
+Minotaur;
+Humongofrog (400-500);
+Natural Attack (Myth 100x, 80%);
+
+| quests =
+Calling Ketil Black;
+
+| gold =
+69 - 95;
+
+| hats =
+Blustering Bear Hat*F2;
+Cold-Kissed Cowl;
+Cowl of Crackling*F2*WMV;
+Hearty Bear Hat;
+Hopping Bear Hat;
+Horned Helm of Courage;
+
+| robes =
+Bear's Heart Jerkin;
+Chill-Kissed Coat;
+Jerkin of the Great Bear*F2;
+Jerkin of the Howling Bear;
+Mocking Raiment;
+Raven's Eye Raiment*F2;
+
+| boots =
+Barbarian's Bold Boots*F3;
+Barbarian's Brave Boots*F2;
+Barbarian's Courage Boots*F3*WMV;
+Barbarian's Daring Boots*F2;
+Barbarian's Fearless Boots*F2*WMV;
+Barbarian's Fierce Boots*F2;
+Barbarian's Valorous Boots;
+Growling Bear Boots;
+Slashing Bear Boots;
+
+| athames =
+Wolf's Tanzanite Talon*F4;
+
+| amulets =
+Charm of the Black Pearl*F2*WMV;
+
+| rings =
+Ring of Brother Wolf*F2;
+Ring of Sister Wolf;
+Ring of the Ravenous Wolf*F3*WMV;
+Ring of the Wolf's Song*F2;
+
+| wands =
+Staff of Absolution*F2*WMV;
+Staff of the Rushing Bear*F4;
+
+| decks =
+
+| items =
+
+| cards =
+Giant;
+Humongofrog;
+Shatter (2 Pip)*F7*WMV;
+Spirit Armor;
+Sprite;
+Storm Shark;
+Talos*F10*WMV;
+Weakness;
+
+| reagents =
+Bone*F3*WMV;
+Cobalt*F2;
+Nickel*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F2;
+Cauliflowers;
+Delicious Cookie;
+Glowing Star Fruit*F2*WMV;
+Glowing Taffy;
+Goat Cheese;
+Golden Grapes;
+Gummy Humongofrog;
+King Banana;
+Shiny Tomato;
+Spicy Drumstick;
+Strawberry Cupcake;
+Uni-Corn*F3;
+
+| jewels =
+Death-Giver Onyx;
+Dull Mending Opal +3%;
+Entangle Jade;
+Plain Health Opal +60;
+Quench Ruby*F2;
+Strangle Onyx;
+Vaporize Peridot;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Baby Carrots*F2*WMV;
+Cornbread Fruit Bush*F2;
+Evil Snow Peas;
+Orange Dandelion*F2*WMV;
+Snap Dragon*F2;
+Venus Fly Trap*F3;
+
+| mounts =
+
+| spells =
+
+}}

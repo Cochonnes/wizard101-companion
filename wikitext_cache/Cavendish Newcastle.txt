@@ -1,0 +1,126 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,800
+| crecla = Fish
+| school = Death
+| startpips = 4
+| powerpips = Yes
+| critical =
+72;
+
+| criticalblock =
+38;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Wizard City
+| location = Deep Warrens
+| subloc1 = Tower of Peladon
+| descrip =
+Conjurers must defeat Cavendish Newcastle during the Quest, ''The Sixth Professor''.
+*This Boss is not repeatable.
+*This Boss is located in a solo dungeon. Other Wizards will not be able to port into the dungeon.
+
+| speech =
+:''"Eh, what's this?  A spy for Cromshell?  You say you aren't?  Of course, that's what any good spy would say!  Whether you are a spy or not, you will pay for disrupting my plans!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Death Damage.
+
+| casts =
+Fortify;
+Deathblade;
+Feint;
+Empower;
+Vampire;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+
+| quests =
+The Sixth Professor;
+
+| gold =
+43 - 47;
+
+| hats =
+
+| robes =
+
+| boots =
+Charging Bull's Footguards;
+Cold Storm Trackers;
+Friend of the Fire Elf Boots;
+Long as Night Walkers;
+Luck Smithed Boots;
+Ponycorn Hoofers;
+Splashing Stream Waders;
+Witch Doctor's Juju Rangers*F2;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Colossus;
+Earthquake;
+Satyr;
+Skeletal Pirate;
+Stormzilla;
+Triton;
+Wraith;
+
+| reagents =
+Bronze;
+Deep Mushroom;
+Frost Flower;
+Lava Lily;
+Mist Wood;
+Ore*F2;
+Stone Block;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Big Sparky Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

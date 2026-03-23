@@ -1,0 +1,189 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 3,335
+| crecla = Water-Lurker
+| school = Fire
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice;
+
+| incresist =
+35% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Water Lurker;
+
+| world = Celestia
+| location = The Floating Land
+| subloc1 = Gahlwok's Lair
+| descrip =
+
+| speech =
+:''"You will not take magic stick from me! Gahlwok using it to break open shells!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Fire Damage.
+
+| casts =
+Fireblade;
+Fire Trap;
+Sunbird;
+Meteor Strike;
+Scald;
+Phoenix;
+Magma Man;
+Colossus (Fire);
+Helephant;
+
+| quests =
+Gahlwok This Way;
+
+| gold =
+54 - 68;
+
+| hats =
+Congruent Cover;
+Festive Facade*F2;
+Headwrap of Rapport;
+Iced Cap;
+Jolted Cowl*F3*WMV;
+Shivering Mask*F3*WMV;
+Smokey Shroud;
+Surging Storm Helm*F2;
+Volcanic Mask;
+Whimsical Cowl;
+
+| robes =
+Armor of Celestian Totality;
+Bolt-Trimmed Tunic;
+Celestian Abyss Armor;
+Celestian Frostbit Armor;
+Drape of Dragon Fire;
+Fire-Forged Flame Armor*F3*WMV;
+Forgotten Outfit*F4*WMV;
+Longcoat of Long Life;
+Storied Celestian Armor;
+Thundercloud Cloak*F2*WMV;
+Versatile Celestian Armor;
+
+| boots =
+Ember Boots*F2*WMV;
+Forgotten Footwear*F3;
+Frostbit Footguards*F2;
+Insulated Greaves;
+Kindred Walkers*F3*WMV;
+Mercurial Mukluks;
+Proportional Shoes;
+Thundercloud Walkers;
+Thundercracked Clogs;
+
+| athames =
+Blade of Bloom*F5*WMV;
+Crab Claw*F2;
+Longevity Twin Blades*F3*WMV;
+Senator's Claw*F2;
+Tenacious Blade*F2;
+
+| amulets =
+
+| rings =
+Band of the Briny Deep;
+Remedy Ring;
+Ring of Exploration;
+Seal of the Steadfast*F5*WMV;
+Tangleroot's Blooming Band*F3*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Water-Mole Statue*F3;
+
+| cards =
+Accurate;
+Amplify*F3*WMV;
+Blizzard;
+Fire Trap;
+Giant*F3*WMV;
+Pest Zapper;
+Precision*F4;
+Sniper*F2*WMV;
+Sprite;
+Sunbird;
+Tempest;
+Vampire;
+Weakness;
+
+| reagents =
+Brass*F2*WMV;
+Cobalt*F3;
+Fish Fin*F2*WMV;
+Nickel*F3;
+Scales*F5*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F3*WMV;
+Delicious Cookie*F4;
+Glowing Star Fruit;
+Glowing Taffy;
+Spicy Drumstick*F2*WMV;
+Submarine Sandwich*F2;
+
+| jewels =
+Animate Skeleton Onyx;
+Dull Damage Onyx +14;
+Dull Piercing Opal +1%;
+Entangle Jade;
+Plain Accurate Onyx +7%;
+Plain Blocking Peridot +5;
+Plain Critical Ruby +6;
+Plain Defense Jade +29;
+Plain Defense Onyx +29*F2;
+Plain Defense Opal +15;
+Plain Defense Sapphire +29;
+Plain Health Opal +58;
+Plain Health Opal +59;
+Plain Piercing Citrine +3%;
+Plain Piercing Onyx +3%;
+Quench Ruby;
+Strangle Onyx;
+The Deer Knight Rises Onyx;
+Unbalance Citrine;
+Vaporize Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2;
+Maelstrom Snap Dragon*F2*WMV;
+Pink Dandelion*CR*F3;
+Silver Trumpet Vine*CR*F3;
+
+| mounts =
+
+| spells =
+
+}}

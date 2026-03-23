@@ -1,0 +1,264 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 18,040
+| crecla = Eagle
+| school = Storm
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+86 Any;
+
+| criticalblock =
+69 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Pampero Spirit;
+
+| world = Azteca
+| location = Floating Mountains
+| subloc1 = Seven Stabs of the Knife Temple
+| descrip =
+Two additional Pampero Spirits appear if more than two Wizards are present.
+
+| speech =
+:''"What are you? I cannot stand Aztecosaurs, nor do I have time for Jaguars. Who sent you? The Oracle? She means nothing to me. But I will make you a deal. If you defeat me in a duel, I will help you reach the Twin Giants. If you fail, I'll take your Mana!"'' 
+
+| cheatnotes =
+*{{Icon|Damage}} ''"Trying to soften me up?"'' - If a Wizard casts a Wand attack at Guaman, he will place a [[Spell:Stun Block|Stun Shield]] "mark" on the Wizard, indicating it is safe to attack.
+**If a Wizard has been marked and casts a single-target attack Spell at Guaman (excluding Wand attacks), he will remove the [[Spell:Stun Block|Stun Shield]] mark and all other Wards. Another Wand attack must be used in order to obtain the mark again.
+**Only one mark can be present on a Wizard at any given time.
+*{{Icon|Damage}} ''"Your wand might help... next time!"'' - If a Wizard has not been "marked" with a [[Spell:Stun Block|Stun Shield]] and casts a single-target attack Spell at Guaman (excluding Wand attacks), he will cheat-cast a 0-Pip enhanced version of {{Link|Spell|Leviathan}}, which deals '''2,030''' Storm Damage.
+**All Enemy Spells, such as {{Link|Spell|Scarecrow}} and {{Link|Spell|Humongofrog}}, will not trigger this cheat.
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Lightning Strike;
+Stormblade;
+Windstorm;
+Enfeeble;
+Natural Attack (Storm 210-420-630);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Storm Dragon;
+Leviathan;
+Sirens;
+Storm Owl;
+Tempest;
+
+| quests =
+Snow and Lights;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge and has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge, the following drops will be available:
+*7 Spellements will drop each time from '''any''' School for their respective rank 6-10 Spells.
+
+| gold =
+139 - 170;
+
+| hats =
+Crown of the Vicious Sky*F2*WMV;
+Glorious Feathered Mantle;
+Helm of the Broken Spear;
+High Chac's Guarded Helm;
+Night Caiman's Smiling Mask*F3*WMV;
+Thirteen Death Mask;
+
+| robes =
+High Chac's Guarded Armor;
+Indigo Wing Raiment;
+Tunic of the Broken Spear;
+Xicolli Vest of Vicious Sky*F2*WMV;
+
+| boots =
+Black Butterfly Guard's Boots*F2;
+Footwraps of the Vicious Sky;
+
+| athames =
+Black Blade of Five Deaths*F2*WMV;
+Captain of the Sky's Talon*F2*WMV;
+Mother's New Moon Athame*F2*WMV;
+Smoking Mirror's Final Touch*F2;
+Storm Caiman's Cruel Fang*F4*WMV;
+
+| amulets =
+Memento of the Sun Caiman*F2*WMV;
+Shining Horns of Light Relic;
+
+| rings =
+Lords of Night Challenge Ring*F2;
+Storm Owl's Terror Ring*F3*WMV;
+Tears of the Sun Band*F2*WMV;
+
+| wands =
+Caiman's Storm Arrow Wand;
+
+| decks =
+Case of the Worldtree;
+Storm Caimans Pyramid Deck*F2*WMV;
+White Fire Case*F3*WMV;
+
+| items =
+Azteca Combat Theme*F2*WMV;
+Azteca Mountain Theme*F2*WMV;
+Azteca Post Apocalypse Theme;
+Azteca Zultun Theme*F2*WMV;
+Gold Nugget*F2;
+Palma Dino;
+Toucan Mask;
+
+| cards =
+Basilisk;
+Chastisement*F2*WMV;
+Chimera;
+Cloud Demon;
+Colossal;
+Cycle of Life;
+Dr. Von's Monster*F2;
+Extraordinary*F2;
+Frost Demon;
+Furnace;
+Galvanic Field;
+Gnomes!;
+Leviathan;
+Mend;
+Polymorph Icehorn;
+Polymorph Jaguar*F2*WMV;
+Polymorph Pteranodon*F2*WMV;
+Potent Trap*F2*WMV;
+Primordial*F2*WMV;
+Punishment*F2*WMV;
+Ra;
+Rain of Fire;
+Reliquary;
+Sharpened Blade*F2*WMV;
+Sirens;
+Sleet Storm;
+Virulence;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus;
+Black Pearl;
+Blood Moss;
+Bone*F3*WMV;
+Bronze;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F3*WMV;
+Fire Blossom*F2;
+Fossil;
+Golden Pearl*F3;
+Lava Lily*F3*WMV;
+Mist Wood*F3*WMV;
+Mithril;
+Nightshade;
+Ore*F4*WMV;
+Red Mandrake*F4*WMV;
+Silver;
+Stone Block*F3*WMV;
+Sunstone;
+Tungsten;
+Turquoise*F4*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Centaur*BR;
+Chimera*BR;
+Colossus*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+Helephant*BR;
+Hydra*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Triton*BR;
+Woolly Mammoth*BR;
+Wraith*BR;
+
+| snacks =
+Allocados*F2*WMV;
+Cactus Fruit;
+Caramel Apple;
+Chili Peppers;
+Flapjacks;
+Fried Ice Cream;
+Glowing Star Fruit;
+Gummy Wyrms;
+Jelly Baby;
+Quetzal Pretzel*F3*WMV;
+Saber-Tooth Cider;
+Shiny Tomato;
+Tamales;
+Tenochti-Flan;
+Tortilla Chips*F3*WMV;
+Zocalo Wings*F2*WMV;
+
+| jewels =
+Blade of Life Jade;
+Polished Blocking Ruby +11;
+Polished Critical Amethyst +11;
+Polished Health Opal +89;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak;
+Deadly Fly Trap;
+Deadly Ninja Fig;
+Pink Huckleberries;
+Red Bell Pepper;
+Red Huckleberries;
+Silver Trumpet Vine*CR;
+
+| mounts =
+
+| spells =
+
+}}

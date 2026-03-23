@@ -1,0 +1,718 @@
+{{Stub|update to the cheats in this encounter after the 2023 July update}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 13,860
+| crecla = Horse
+| school = Balance
+| cheats = Yes
+| shadowslots = 2
+| startpips = 2
+| powerpips = Yes
+| critical =
+227 Any;
+
+| criticalblock =
+244 Any;
+
+| outpierce =
+27%;
+
+| outboost =
+137%;
+
+| incboost =
+2% Myth, Life, Death;
+
+| incresist =
+73% Balance;
+
+| outhealing =
+42%;
+
+| inchealing =
+47%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Solomon Crane (Challenge);
+Buck Gordon (Challenge);
+The Shadoe (Challenge);
+Dog Tracy (Challenge);
+Duck Savage (Challenge);
+Mandar the Barbarian (Challenge);
+The Bantam (Challenge);
+
+| world = Lemuria
+| location = Telos
+| subloc1 = Hall of Heroes (Challenge)
+| lootchest = Heroes' Chest
+| descrip =
+'''Note:''' Hats, Athames, Amulets, Wands, and Decks no longer drop in Hall of Heroes as of the [https://www.wizard101.com/game/community/update-notes/april2022 2022 Spring Update]:
+
+'''"Gear from Dragonspyre, Khrysalis, and Lemuria has shifted around a bit. To diversify the play experience, we're distributing the gear to multiple bosses."'''
+
+As the Boss in this battle, all drops are recorded on this page.
+*For the Standard version of this battle, see {{Link|Creature|Stallion Quartermane (Standard)}}.
+
+'''The First Team'''
+*{{Target|Dagger}} [[Creature:Solomon Crane (Challenge)|Solomon Crane]]
+*{{Target|Key}} [[Creature:Buck Gordon (Challenge)|Buck Gordon]]
+*{{Target|Gem}} [[Creature:The Shadoe (Challenge)|The Shadoe]]
+*{{Target|Spiral}} [[Creature:Dog Tracy (Challenge)|Dog Tracy]]
+
+'''The Second Team'''
+*{{Target|Book}} [[Creature:Mandar the Barbarian (Challenge)|Mandar the Barbarian]]
+*{{Target|Chalice}} [[Creature:Duck Savage (Challenge)|Duck Savage]]
+*{{Target|Wand}} [[Creature:Stallion Quartermane (Challenge)|Stallion Quartermane]]
+*{{Target|Potion}} [[Creature:The Bantam (Challenge)|The Bantam]]
+
+'''Advanced Combat Rules:'''
+*Spell Decks cannot be changed while in this instance. (Make sure to set the spells in a deck before entering this instance).
+*PvP-Only Spells are allowed in this fight.
+*Wizards cannot re-join combat after fleeing mid-combat.
+
+'''Duel Circle Notes:'''
+*Each team takes a Round to cast their Spells.
+**For example: Team 1 takes first Round, Team 2 takes second Round.
+*Rounds in this battle are counted only when a team has their turn.
+*Effects that last over a few Rounds will last twice as long.
+*Gaining Pips or Power Pips are only granted when the First Team has their turn.
+*All Enemy Spells only affect 1 of the 2 teams at a time. Thus all enemies Spells will become targeting Spells when choosing which team to use them on.
+*All Ally Spells used by the bosses only affect 1 team.
+
+'''Second Hand Chest:'''
+
+| speech =
+
+| cheatnotes =
+{{Icon|Late}} '''Late Cheats''' - When a Wizard joins after the 2nd Round, the following cheats will occur:
+*''"I find your etiquette lacking"'' - Solomon Crane casts {{Link|Spell|Bad Juju}} on the Wizard.
+*''"More of you? No problem!"'' - Buck Gordon casts {{Link|Spell|Smoke Mantle}} on the Wizard.
+*''"You're never too late"'' - The Shadoe casts Shadow Spell to give the late Wizard the following Spells:
+**{{GivesSpell|cards=3|size=x150px|Card Limit (0 Pip)|Card Limit (7 Pip)|Card Limit (2 Shadow Pip)}}
+*''"Late to the party, ain't ya?"'' - Dog Tracy casts a Moon version of {{Link|Spell|Insane Bolt}}, dealing '''1,500''' Moon Damage.
+*''"Ha-ha! The more the merrier!"'' - Stallion Quartermane casts Mana Burn on the Wizard.
+*''"More foes? HA! I am ready for you!"'' - Mandar casts a Myth Spell to Confuse the Wizard for 2 Rounds.
+*''"Ha! I saw your ambush coming!"'' - Duck Savage casts {{Link|Spell|Stun}} on the Wizard.
+*''"Tsk, tsk. You're late!"'' - The Bantam casts {{Link|Spell|Infection}} and Angel casts {{Link|ItemCard|Entangle}} on the Wizard.
+
+{{Icon|Balance}} '''Stallion Quartermane'''
+*{{Icon|Spell}} ''"Good show!"'' - Stallion will say this when casting his Natural Attack.
+*{{Icon|Health}} ''"Ah-ah-ah, Never say die!"'' - If any Boss is low on health, there's a chance he'll cast a Life version of Blessing that restores '''10%''' of the target's max Health.
+*{{Icon|Pip}} ''"I claim these pips for the queen!"'' - Stallion Quartermane will use {{Link|Spell|Steal Pip}} whenever a Wizard has a bunch of Pips.
+**Stallion can use a version of Steal Pip that steals 1 or 2 Power Pips.
+
+{{Icon|Myth}} '''Mandar the Barbarian'''
+*{{Icon|Aura}} ''"Flee! Flee from the savage sword of Mandar!"'' - At the end of Round 2, Mandar will cast {{Link|Spell|Frenzy (+40%)}}.
+*{{Icon|Aura}} ''"By Grom, you'll pay for that!"'' - If Mandar's Aura is replaced by Stallion Quartermane's {{Link|Spell|Quicken}}, Mandar will replace it with {{Link|Spell|Frenzy (5 Pip)}} that applies a +40% outgoing Damage and Quicken Aura for 4 Rounds.
+*{{Icon|Damage}} ''"Is that the best you can do, Dog?"'' - At the beginning of every 7th Round, Mandar will cast a version of Earthquake that deals '''145''' Damage and removes 1 positive Charm and Ward.
+*{{Icon|Heal}} ''"Grom, give me strength!"'' - Mandar will cast a version of Blessing that restores 5% of his max HP, ('''652''' Health).
+
+{{Icon|Ice}} '''Duck Savage'''
+*{{Icon|Damage}} ''"Feel my Fists of Bronze!"'' - Duck Savage will say this when using the 5-Pip version of her Natural Attack and will apply a '''+75%''' protected Damage Trap on the target.
+*{{Icon|Protected Absorb}} ''"I am the duck of Bronze!"'' - At the beginning of the first Round, Duck Savage will interrupt-cast a protected '''5,000''' Damage Absorb version of Frozen Armor on herself.
+**{{Icon|Manipulation}} ''No, I don't think so"'' - If a Wizard casts Steal Ward on her '''5,000''' Damage Absorb, she'll cast {{Link|Spell|Steal Ward (Star, -All)}} to steal all positive Wards from the caster.
+*{{Icon|Heal over Time}} ''"Don't worry. I'm a doctor"'' - If a Heal over Time effect is cast by the opponents, such as Buck Gordon casting Power Link, Duck Savage will extend the Heal over Time effect by 1 Round.
+*{{Icon|Damage over Time}} ''"I can formulate an antidote!"'' - If a Damage over Time effect is cast she will interrupt-cast either Cooldown, or a single-target version of Cooldown, on the receivers.
+**Pet Spells will trigger this cheat.
+*{{Icon|Aura}} ''"My stamina has no limits!"'' - When Duck Savage's '''5,000''' Damage Absorb is gone, she'll interrupt cast a 99 Round '''-50%''' version of Fortify on herself.
+**This Aura will be recast if it is removed.
+
+{{Icon|Life}} '''The Bantam'''
+*{{Icon|Pacify}} ''"I need a minute. Talk amongst yourselves."'' - At the beginning of the first Round, The Bantam will cast a version of {{Link|Spell|Pacify}} that lasts 3 Rounds.
+*{{Icon|Blade}} ''"I'll be taking that, thanks!"'' - Whenever a Blade is cast on another Wizard or summoned Minion, The Bantam will interrupt-cast a Life Spell on the receiver, replacing it with a Balance Damage Blade equal to half the percent of the original Blade.
+**For multi-Blade Spells, such as Elemental and Spirit Blade, only the first Blade is removed.
+**For Blade Spells that target all allies, such as Bladestorm, only the caster's Blade is removed.
+*{{Icon|Round}} ''"Get ready, Angel"'' - The Bantam will shout this line at the end of the Round in which he'll cast Mass Sacred Charge next Round.
+*{{Icon|All Friends}}{{Icon|Damage}} ''"Angel to the rescue!"'' - The Bantam will cast Mass Sacred Charge (840).
+
+{{Icon|Death}} '''Solomon Crane'''
+*{{Icon|Harmful Aura}} ''"Curses be upon thee!"'' - At the beginning of Round 1 and every 11th Round following, Solomon Crane casts a Damage Aura on all Wizards, starting at -10% Damage and decreasing by 10% each time it is cast, up to a maximum of -50%.
+*{{Icon|Aura}} ''"Steel your resolve"'' - At the end of Round 6 and every 12th Round following, Solomon Crane casts a Resist Aura on his Team, starting at -10% Damage and decreasing by 10% each time it is cast, up to a maximum of -50%.
+*{{Icon|Shield}} ''"May your wards crumble upon you"'' - If a Shield is cast, Solomon Crane will cast a Shadow Spell to convert one Ward to half of the original percent as a Tower Shield.
+**{{Link|Spell|Aegis}} is ineffective in preventing this cheat.
+**For Shields Spells targeting all allies, such as Legion Shield, he will convert all Shields for half the percent.
+**Absorb Wards trigger this cheat, but the Spell doesn't affect them.
+*{{Icon|Trap}} ''"A crude tactic"'' - If a Wizard casts a Trap, he'll convert the Trap into half the percent as a universal Trap.
+**Traps placed on all enemies will also be converted.
+*{{Icon|Shield}}{{Icon|Damage over Time}} ''"Your end is nigh!"'' - If a Wizard casts a Shield and has a Damage over Time, Solomon Crane will cast Detonate on them.
+
+{{Icon|Fire}} '''Buck Gordon'''
+*{{Icon|Blade}} ''"All right!"'' - Whenever a Blade is cast on Buck Gordon, he will convert it to a Fire Blade with double the percent.
+**This cheat sometimes activates when Stallion Quartermane casts Bladestorm, but it doesn't do anything as Buck Gordon didn't get the Blade. However, this cheat will activate the second Blade from Solomon's Dark Pact.
+*{{Icon|Damage over Time}} '''Rain of Fire Cheat Cycle:'''
+**''"You're going down!"''  - Warning call for the {{Link|Spell|Rain of Fire}} cheat.
+**''"Oh, come on!"'' - If Buck Gordon takes Damage, he'll refrain from casting Rain of Fire.
+**''"Here it comes..."'' - Buck Gordon will cheat-cast Rain of Fire.
+
+{{Icon|Shadow}} '''The Shadoe'''
+*{{Icon|Round}} '''Round 1 Cheats:''' - Beginning of Round 1 The Shadoe will cast the following cheats.
+**{{Icon|Damage}} The Shadoe will cast a version of Dark Fiend from {{Link|ItemCard|The Shadoe}}.
+**{{Icon|Spell}} ''"Mind Talisman... Activate?"'' - The Shadoe will cast a Shadow spell giving wizards {{Link|Spell|Card Limit (0 Pip)}} and {{Link|Spell|Card Limit (2 Shadow Pip)}}.
+**''"I'll shoulder some of the burden"'' - The Shadoe will cast a version of Shadow Sentinel which intercepts 25% of Damage.
+**{{Icon|Global}} ''"Synthesizer's on the blink!"'' - The Shadoe will cast a Balance Equalize Global which sets the Damage limit to '''9,999'''.
+***''"That solves nothing"'' - If a Global is cast, The Shadoe will cast a Balance version of {{Link|Spell|Equalize}} which limits the Damage cap to '''9,999'''.
+*{{Icon|Manipulation}} ''"I believe in you!"'' - Randomly The Shadoe will cast {{Link|Spell|Donate Shadow}} on a random ally of either team.
+*{{Icon|Trap}} ''"The Shadoe says 'No.'"'' - Shadoe will cast a Shadow Spell to steal a Trap from an ally to herself.
+**If Traps are placed on multiple enemies at once, she'll only move the Trap from the first recipient.
+*{{Icon|Damage}} ''"I can shoulder no more!"'' - The Shadoe will occasionally cast the Damage attack from {{Link|Spell|Shadow Seraph}}.
+**''"Hahahahahahahaha!"'' - After this cheat, she will cast a version of Dark Feind from {{Link|ItemCard|The Shadoe}}.
+
+{{Icon|Storm}} '''Dog Tracy'''
+*{{Icon|Heal}} ''"Hey, don't quit your day job"'' - Dog Tracy will cast a version of {{Link|Spell|Healing Current (Shadow)}} that affects all allies.
+*{{Icon|Pacify}} ''"You're now in witness protection"'' - Dog Tracy will cast a version of {{Link|Spell|Mega Soothe}} on an ally that lasts 3 Rounds.
+*{{Icon|Damage}} ''"That's our prime suspect. Get 'em!"'' - Dog Tracy will say this when casting his Natural Attack. The Natural Attack will taunt himself after dealing Damage.
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Black Mantle;
+Weakness;
+Availing Hands;
+Balanceblade;
+Bladestorm;
+Mass Hex;
+Elemental Trap;
+Spirit Trap;
+Steal Pip;
+Donate Power;
+Mana Burn;
+Loremaster;
+Spiritual Tribunal (Tier 3b);
+Sand Wurm;
+Sandstorm;
+Natural Attack (Balance 105-210-315-420);
+Spectral Blast;
+Mockenspiel (Tier 3a);
+Power Nova;
+Ra;
+King Artorius (Balance);
+Judgement;
+
+| quests =
+
+| gold =
+0;
+
+| hats =
+
+| robes =
+Magician's Balance Cloak;
+Magician's Death Cloak;
+Magician's Fire Cloak*F2;
+Magician's Ice Cloak*F2*WMV;
+Magician's Life Cloak*F2;
+Magician's Myth Cloak*F2;
+Magician's Power Cloak*F4*WMV;
+Magician's Storm Cloak;
+Malevolent Balance Cloak*F2*WMV;
+Malevolent Death Cloak*F2*WMV;
+Malevolent Fire Cloak*F4*WMV;
+Malevolent Ice Cloak*F2;
+Malevolent Life Cloak;
+Malevolent Myth Cloak*F2;
+Malevolent Power Cloak*F4;
+Malevolent Storm Cloak;
+Merciless Balance Cloak;
+Merciless Death Cloak*F3;
+Merciless Fire Cloak*F2;
+Merciless Ice Cloak;
+Merciless Life Cloak*F2;
+Merciless Myth Cloak;
+Merciless Power Cloak*F2;
+Merciless Storm Cloak*F2*WMV;
+
+| boots =
+Magician's Balance Boots;
+Magician's Death Boots*F2*WMV;
+Magician's Fire Boots*F2*WMV;
+Magician's Ice Boots*F2*WMV;
+Magician's Life Boots;
+Magician's Myth Boots;
+Magician's Storm Boots;
+Malevolent Balance Boots;
+Malevolent Death Boots;
+Malevolent Fire Boots*F3;
+Malevolent Ice Boots*F3*WMV;
+Malevolent Life Boots*F5*WMV;
+Malevolent Myth Boots*F2;
+Malevolent Storm Boots;
+Merciless Balance Boots;
+Merciless Death Boots;
+Merciless Fire Boots*F3;
+Merciless Ice Boots*F2*WMV;
+Merciless Life Boots*F2;
+Merciless Myth Boots*F2*WMV;
+Merciless Storm Boots;
+
+| athames =
+
+| amulets =
+
+| rings =
+Magician's Balance Ring;
+Magician's Death Ring;
+Magician's Fire Ring;
+Magician's Ice Ring;
+Magician's Life Ring*F3*WMV;
+Magician's Myth Ring;
+Magician's Storm Ring;
+Malevolent Balance Ring*F2*WMV;
+Malevolent Death Ring*F3;
+Malevolent Fire Ring;
+Malevolent Ice Ring;
+Malevolent Life Ring;
+Malevolent Myth Ring;
+Malevolent Storm Ring;
+Merciless Balance Ring*F2;
+Merciless Death Ring;
+Merciless Fire Ring;
+Merciless Ice Ring*F4*WMV;
+Merciless Life Ring;
+Merciless Myth Ring*F4*WMV;
+Merciless Storm Ring*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Arcanum Combat Theme;
+Cargo*F4;
+Lemuria Boss Combat Theme;
+Lemuria Forest Combat Theme;
+Lemuria Forest Theme;
+Lemuria Heroic Theme;
+Lemuria Jungle Combat Theme;
+Lemuria Jungle Theme;
+Lemuria Lab Combat Theme;
+Lemuria Mandoria Combat Theme;
+Lemuria Mandoria Theme;
+Lemuria Minds Theme;
+Lemuria Mystery Theme;
+Lemuria Noir Combat Theme;
+Lemuria Noir Theme*F2*WMV;
+Lemuria Sky City Combat Theme;
+Lemuria Sky City Theme;
+Lemuria Telos Theme 1;
+Lemuria Telos Theme 2;
+Lemuria Telos Theme 3;
+Lemuria Telos Theme 4;
+Lemuria Telos Theme 5;
+Lemuria Telos Theme 6;
+Lemuria Telos Theme 7;
+Lemuria Ursai Village Theme;
+Periodic Table Poster*F5;
+Puzzle Cube*F4*WMV;
+
+| cards =
+Berserk*F2;
+Blood Bat;
+Brilliant Light*F2*WMV;
+Cat Thug;
+Centaur;
+Crystal Spider;
+Death Prism;
+Dream Shield;
+Elemental Blade;
+Elemental Shield;
+Elemental Spear*F2;
+Elemental Trap;
+Ether Shield*F2;
+Feint;
+Fire Prism;
+Fortify;
+Frostbite;
+Galvanic Field;
+Gargantuan;
+Green Widow;
+Guidance*F2;
+Ice Prism;
+Infallible*F2;
+Life Prism;
+Link;
+Mass Death Prism*F2*WMV;
+Mass Fire Prism;
+Mass Ice Prism*F4;
+Mass Life Prism;
+Mass Myth Prism;
+Mass Storm Prism*F2*WMV;
+Mass Triage*F3;
+Nested Fury*F4*WMV;
+Pacify*F2*WMV;
+Raging Bull;
+Rusalka's Wrath;
+Sirens;
+Snowball Barrage;
+Storm Prism;
+Storm Shield*F3*WMV;
+Triage;
+Winged Sorrow*F3*WMV;
+Wings of Fate;
+Witch's House Call*F2;
+
+| reagents =
+Aether*F6*WMV;
+Agave Leaves*F3;
+Agave Nectar*F2;
+Amber*F4*WMV;
+Amber Dust*F2;
+Aquamarine*F7*WMV;
+Astral Shard*F5;
+Black Lotus*F2*WMV;
+Blood Moss*F2*WMV;
+Bone;
+Braided Vine*F2*WMV;
+Brass*F5*WMV;
+Bronze Gear*F6*WMV;
+Cobalt*F2*WMV;
+Deep Mushroom;
+Draconium*F5*WMV;
+Ectoplasm*F3;
+Fire Blossom*F2;
+Fish Fin*F2*WMV;
+Fossil;
+Glass Sliver;
+Golden Pearl*F3*WMV;
+Mist Wood;
+Mithril*F5*WMV;
+Nickel*F6*WMV;
+Orichalcum*F2*WMV;
+Pearl;
+Red Mandrake;
+Scales*F14*WMV;
+Silver*F4*WMV;
+Spider Silk*F7*WMV;
+Stardust;
+Steel*F9*WMV;
+Stone Block;
+Sunstone*F10*WMV;
+Synthonium*F5*WMV;
+Tin*F6*WMV;
+Titanium*F4*WMV;
+Tungsten*F5*WMV;
+Turmeric;
+Turquoise*F4*WMV;
+Vine*F7*WMV;
+
+| spellements =
+Barbarian's Saga*F6*WMV;
+Blast Off!;
+Dark & Stormy*F6*WMV;
+Freeze Ray;
+Grim Reader*F12*WMV;
+Lord of the Jungle*F15;
+Old One's Endgame;
+
+| snacks =
+Bell Pepper Steak*F2;
+Boiled Spider Legs;
+Boom Stroganoff*F3;
+Bread Fruit Fruit*F2*WMV;
+Candlenut*F2*WMV;
+Catfish Stevens;
+Cauliflowers*F2;
+Chalupacabra;
+Chapulines;
+Chili Peppers*F2;
+Crab Louie;
+Crystal Custard*F3*WMV;
+Crystalweb Candy;
+Desparagus Salad*F2;
+Dr. Jalapeno; 
+Eggplant*F2*WMV;
+Fin Flan*F2*WMV;
+Fish Egg Pancakes*F2*WMV;
+Fizzing Fertilizer*F4*WMV;
+Flapjacks*F2*WMV;
+French Fries;
+Fried Ice Cream*F2;
+Fried Worms*F2*WMV;
+Frojan Mousse*F2*WMV;
+Frozen Perogies*F4*WMV;
+Ginger Mint Tea;
+Gingerbread Wizard*F2*WMV;
+Goat Cheese*F2*WMV;
+Golden Apple;
+Hespermint;
+Hickory Chicory;
+Hive Rinds;
+Honey Bombs;
+Hot and Sour Bits;
+Kraken Jacks*F2*WMV;
+Manticoreos;
+Shanta Pudding;
+
+| jewels =
+Ally Legend Shield Jade;
+Amazing Accurate Amethyst +15%;
+Amazing Accurate Citrine +15%;
+Amazing Accurate Hematite +15%;
+Amazing Accurate Peridot +15%;
+Amazing Accurate Ruby +15%;
+Amazing Accurate Sapphire +15%;
+Amazing Blocking Amethyst +22;
+Amazing Blocking Citrine +22;
+Amazing Blocking Hematite +22;
+Amazing Blocking Jade +22;
+Amazing Blocking Onyx +22;
+Amazing Blocking Peridot +21;
+Amazing Blocking Peridot +22;
+Amazing Blocking Ruby +21;
+Amazing Blocking Ruby +22;
+Amazing Blocking Sapphire +21;
+Amazing Critical Amethyst +21;
+Amazing Critical Amethyst +22;
+Amazing Critical Citrine +21;
+Amazing Critical Hematite +21;
+Amazing Critical Hematite +22;
+Amazing Critical Jade +21;
+Amazing Critical Jade +22;
+Amazing Critical Peridot +21;
+Amazing Critical Peridot +22;
+Amazing Critical Sapphire +22;
+Amazing Damage Amethyst +31;
+Amazing Damage Amethyst +32; 
+Amazing Damage Citrine +31;
+Amazing Damage Hematite +62;
+Amazing Damage Hematite +64;
+Amazing Damage Jade +31;
+Amazing Damage Onyx +31;
+Amazing Damage Onyx +32;
+Amazing Damage Opal +16;
+Amazing Damage Peridot +32;
+Amazing Damage Ruby +31;
+Amazing Damage Ruby +32;
+Amazing Damage Sapphire +31;
+Amazing Damage Sapphire +32;
+Amazing Defense Amethyst +64;
+Amazing Defense Citrine +63;
+Amazing Defense Hematite +63;
+Amazing Defense Hematite +64;
+Amazing Defense Jade +61;
+Amazing Defense Jade +64;
+Amazing Defense Onyx +61;
+Amazing Defense Onyx +62;
+Amazing Defense Onyx +63;
+Amazing Defense Opal +31;
+Amazing Defense Opal +32;
+Amazing Defense Peridot +62;
+Amazing Defense Ruby +63;
+Amazing Defense Ruby +64;
+Amazing Defense Sapphire +63;
+Amazing Health Opal +136;
+Amazing Health Opal +137;
+Amazing Health Opal +138;
+Amazing Health Opal +139;
+Amazing Health Opal +140;
+Amazing Health Opal +141;
+Amazing Health Opal +142;
+Amazing Health Opal +143;
+Amazing Health Opal +144*F2*WMV;
+Amazing Health Opal +145;
+Amazing Mana Opal +57;
+Amazing Mana Opal +58;
+Amazing Mana Opal +59;
+Amazing Mana Opal +60*F3*WMV;
+Amazing PIP Hematite +3;
+Balance Assailant Citrine;
+Balance Striker Citrine; 
+Balance-Eye Citrine;
+Balance-Giver Citrine;
+Balance-It Citrine;
+Balance-Sniper Citrine;
+Balance-Ward Citrine;
+Buck Gordon Ruby;
+Dazzling Accurate Ruby +14%;
+Dazzling Blocking Citrine +19;
+Dazzling Blocking Onyx +19;
+Dazzling Critical Sapphire +19;
+Dazzling Damage Onyx +29;
+Dazzling Damage Sapphire +29;
+Dazzling Defense Citrine +58;
+Dazzling Defense Citrine +60;
+Dazzling Defense Jade +60;
+Dazzling Defense Opal +29;
+Death Assailant Onyx;
+Death Striker Onyx;
+Death-Away Onyx;
+Death-Dealer Onyx;
+Death-Eye Onyx;
+Death-Shot Onyx;
+Dog Tracy Amethyst*F2*WMV;
+Duck Savage Sapphire*F3*WMV;
+Fire Assailant Ruby;
+Fire-Away Ruby;
+Fire-Boon Ruby;
+Fire-Eye Ruby;
+Fire-Proof Ruby;
+Fire-Shot Ruby;
+Fire-Sniper Ruby;
+Fire-Ward Ruby;
+Healer Opal;
+Healthy Opal;
+Ice Assailant Sapphire;
+Ice-Boon Sapphire;
+Ice-Eye Sapphire;
+Ice-Proof Sapphire;
+Ice-Shot Sapphire;
+Ice-Sniper Sapphire;
+Ice-Ward Sapphire;
+Krampus Revenant Ruby;
+Life Assailant Jade;
+Life Striker Jade;
+Life-Bringer Jade;
+Life-Giver Jade;
+Life-Proof Jade;
+Life-Shot Jade;
+Life-Sniper Jade;
+Life-Ward Jade*F2*WMV;
+Lively Opal;
+Mandar Peridot;
+Medic Opal;
+Myth Assailant Peridot;
+Myth Striker Peridot;
+Myth-Away Peridot;
+Myth-Boon Peridot;
+Myth-Dealer Peridot;
+Myth-Proof Peridot;
+Myth-Shot Peridot;
+Myth-Sniper Peridot;
+Myth-Ward Peridot;
+Quartermane Citrine;
+Sharp-Eye Opal;
+Sharp-Shot Opal;
+Solomon Crane Onyx;
+Sparkling Accurate Citrine +13%;
+Sparkling Accurate Hematite +13%;
+Sparkling Accurate Jade +13%;
+Sparkling Accurate Ruby +13%;
+Sparkling Blocking Amethyst +17;
+Sparkling Blocking Opal +9;
+Sparkling Blocking Ruby +17;
+Sparkling Critical Amethyst +17;
+Sparkling Critical Jade +17;
+Sparkling Critical Opal +9;
+Sparkling Critical Ruby +17;
+Sparkling Damage Amethyst +27;
+Sparkling Damage Jade +27;
+Sparkling Damage Opal +14;
+Sparkling Damage Peridot +27;
+Sparkling Damage Ruby +27;
+Sparkling Damage Sapphire +27;
+Sparkling Defense Amethyst +53;
+Sparkling Defense Citrine +53;
+Sparkling Defense Jade +53;
+Sparkling Defense Onyx +53;
+Sparkling Defense Peridot +54;
+Sparkling Defense Ruby +53;
+Sparkling Defense Sapphire +53;
+Sparkling Defense Sapphire +54;
+Sparkling Health Opal +117*F2*WMV;
+Sparkling Health Opal +119;
+Storm-Away Amethyst;
+Storm-Boon Amethyst;
+Storm-Dealer Amethyst;
+Storm-Eye Amethyst;
+Storm-Shot Amethyst;
+Storm-Ward Amethyst;
+The Bantam Jade;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak;
+Angora Bunny Ears;
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper;
+Blue Huckleberries; 
+Boiled Peanuts;
+Boom Shroom;
+Boon Tree*CR;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Clockwork Flower;
+Cornbread Fruit Bush;
+Dandelion;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR*F2;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Face Palm;
+Fickle Pickle*F2*WMV;
+Fiery Boom Shroom*F3*WMV;
+Fish on a Vine*F2;
+Fortune Cookie Tree;
+Frozen Fly Trap*F2*WMV;
+Goose Tree;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Helephant Ears;
+Honey Bee Plant;
+Honey Sickle;
+Ivy League*CR*F2;
+Key Limes*CR*F2*WMV;
+King Parsley*CR*F2;
+Laugh-O-Dil;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Missile Toe;
+Moon Flower;
+Ninja Fig*CR;
+Orange Bell Pepper*CR;
+Orange Dandelion;
+Pink Huckleberries;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus*F2*WMV;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Purple Snow Apples*F2;
+Red Bell Pepper;
+Red Grapes of Wrath;
+Red Huckleberries;
+Rye Bread Fruit Bush;
+Queen Crape Myrtle;
+Saw Palmetto*F2*WMV;
+Silver Trumpet Vine*CR*F2;
+Snap Dragon*F2;
+Snow Apples;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Sunion*CR*F2;
+Sword Fern*CR;
+Tiger Lily (Seed);
+Trumpet Vine;
+Ultra Boom Shroom;
+Ultra Dandelion*F2;
+Ultra Fly Trap;
+Ultra Helephant Ears*F2*WMV;
+Ultra Huckleberries;
+Ultra King Parsley*F3*WMV;
+Ultra Ninja Fig*F3*WMV;
+Ultra Snap Dragon;
+Ultra Snow Apples*F2*WMV;
+Ultra Tiger Lily;
+Ultra Trumpet Vine;
+Venus Fly Trap;
+White Desparagus;
+White Laugh-O-Dil;
+White Tiger Lily;
+Yellow Bell Pepper*F2*WMV;
+
+| mounts =
+
+| spells =
+
+| altimage = Stallion Quartermane
+}}

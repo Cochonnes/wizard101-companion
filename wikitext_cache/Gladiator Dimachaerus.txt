@@ -1,0 +1,138 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 24,000
+| crecla = Bear
+| school = Balance
+| startpips = 7
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Doomed Bones;
+
+| world = Wizard City
+| location = Mount Olympus
+| subloc1 = Pit of the Noxii
+| descrip =
+Gladiator Dimachaerus is the "secret Boss" in Mount Olympus and is meant to be fought by Level 90 Wizards. He was deemed as "[[:File:(Quest) Pit of the Noxii Dialogue 3.png|The most fearsome and notorious gladiator of all time]]".
+*For the Challenge version of this battle, see {{Link|Creature|Gladiator Dimachaerus (Challenge)}}.
+*Two additional Doomed Bones will appear if more than two Wizards are present.
+
+| speech =
+:''"What comes before me?  A Wizard?  To battle me, father of war and fang and claw? Let me taste the way that sounds. You have come to the slaughterhouse of Olympus, little Wizard, and you are the meat."''
+
+| spellnotes =
+
+| casts =
+Infallible;
+Vengeance;
+Black Mantle;
+Availing Hands (85+870);
+Balanceblade;
+Hex;
+Mana Burn (-4 Pips);
+Samoorai;
+Natural Attack (Dimachaerus);
+Power Nova;
+Sabertooth;
+Judgement;
+
+| quests =
+Pit of the Noxii;
+
+| dropnotes =
+When a Wizard has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge and has completed the '''{{Link|Quest|Sisyphus is Unhappy}}''' {{Icon|Swole Like Sisyphus}} Quest, the following drops will be guaranteed:
+*{{Icon|Spellement}} 1-2 Aquila Spellements of '''any''' School
+
+If a Wizard already has the Child of Light and Shadow Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} inside the Pit of the Noxii to acquire a [[Item:Level Scaling Elixir - 90|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+1 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Exalted Balance Amulet*F2*WMV;
+Exalted Death Amulet*F3;
+Exalted Fire Amulet;
+Exalted Ice Amulet*F2;
+Exalted Life Amulet*F4*WMV;
+Exalted Myth Amulet*F3*WMV;
+Exalted Storm Amulet*F3*WMV;
+
+| rings =
+Alpha and Omega Ring*F15*WMV;
+
+| wands =
+
+| decks =
+Board of Gorgon Imprisonment (Level 90+)*F3;
+Board of Gorgon Infamy (Level 90+);
+Board of Gorgon Petrification (Level 90+)*F3;
+Board of Gorgon Suffering (Level 90+)*F4;
+Board of Gorgon Venom (Level 90+)*F4;
+Board of Gorgon Volatility (Level 90+)*F2;
+Board of Gorgon's Gaze (Level 90+);
+
+| items =
+Aquila Atlantea Theme*F2;
+Aquila Boss Combat Theme;
+Aquila Combat Theme*F6*WMV;
+Aquila Epic Combat Theme*F2;
+Aquila Olympus Theme;
+Aquila Tartarus Theme;
+
+| cards =
+
+| reagents =
+Amber*F38*WMV;
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

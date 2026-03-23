@@ -1,0 +1,93 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,315
+| crecla = Cat
+| crecla2 = Qhat
+| school = Death
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+66% Myth;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+
+| world = Marleybone
+| location = Regent's Square
+| subloc1 = Hiram Lodge
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Deathblade;
+Curse;
+Feint;
+Skeletal Pirate;
+Scarecrow;
+
+| quests =
+All in the Crime Family;
+
+| gold =
+7 - 34;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Orthrus;
+
+| reagents =
+Weft Yarn @ 15 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

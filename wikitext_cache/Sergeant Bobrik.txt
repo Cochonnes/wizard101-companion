@@ -1,0 +1,242 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,130
+| crecla = Polar Bear
+| school = Fire
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm
+
+| incresist =
+80% Fire
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Gulag Guard;
+
+| world = Polaris
+| location = Frigid Maw
+| subloc1 = Lair of the Pit Boss
+| descrip =
+
+| speech =
+:'''Gulag Guard:''' ''"It's not fair. How did we even get stationed down here? These Pit Fiends have no respect. They never let us do anything!"''
+:'''Sergeant Bobrik:''' ''"And you're complaining about this? Be careful what you wish for, comrade... uh-oh. You see? I think we've got trouble! This is your fault!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Polaris
+| tome description =
+Babrik dutifully serves the Imperial Army in the depths of the Frigid Maw with no complaints.  Because he's well aware things could be worse...
+
+| extract class =
+Polar Bear;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| casts =
+Fortify;
+Glacial Shield (-50%);
+Smoke Mantle;
+Choke;
+Natural Attack (Fire 120-235-350);
+Grand Phoenix;
+Efreet;
+Shift Grendel;
+
+| quests =
+Lair of the Pit Boss;
+
+| gold =
+911 - 1,536;
+
+| hats =
+Enchanter's Fervid Hat;
+The Goat Horns*CR;
+The Kroktop*CR*F2*WMV;
+The Warlock*CR;
+Tundarian Cap of Rage*F2*WMV;
+Tundarian Furcap of Flux*F2;
+Tundarian Icecap*F2;
+Tundarian Papakh of Fusion;
+
+| robes =
+Enchanter's Lightning Vestment;
+Tundarian Sleet Parka;
+Tundarian Uniform of Rage;
+
+| boots =
+Tundarian Boots of Resolve;
+Tundarian Osky's Snowshoes;
+Tundarian Stalkers of Rage;
+Tundarian Striders of Flux;
+Tundarian Walkers of Dread;
+
+| athames =
+Enchanter's Blade of Reverie;
+Enchanter's Knife of Poise;
+Snowbound Tayg Dirk;
+
+| amulets =
+Enchanter's Ampul of Courage;
+Enchanter's Fervid Carcanet;
+Enchanter's Ice Floe Charm*F2;
+Enchanter's Pendant of Poise;
+Enchanter's Reverie Pendant;
+Enchanter's Terminus Amulet*F2;
+Enchanter's Torc of Lightning;
+Tayg Bauble of Harmony;
+Tayg Pendant of Vitality;
+
+| rings =
+Enchanter's Loop of Courage;
+Tayg Ring of the Crypt;
+
+| wands =
+Tayg Bardiche of Steam*F2;
+Tayg Hatchet of Sleetfall*F2;
+Tundarian Saber of Rage;
+Tundarian Sword of Dread;
+
+| decks =
+Hand of the Forlorn Tayg;
+Sleetfall Array of the Tayg*F2;
+Tayg Deck of Wrath;
+Tayg Pasteboards of Steam*F2;
+
+| items =
+Arcanum Theme*F2;
+Lg Wood Wall Block;
+Md Wood Wall Block*F2*WMV;
+Polaris Baba Yaga Theme;
+Polaris Frozen Combat Theme;
+Polaris Frozen Forest Theme*F3;
+Polaris Gulag Combat Theme;
+Polaris Gulag Theme;
+Polaris Ice Block Theme*F2;
+Polaris Mine Combat Theme;
+Polaris Opera Theme;
+Walruskberg Combat Theme;
+Walruskberg Theme*F2;
+Wood Corner Block*F2;
+
+| cards =
+Age of Reckoning;
+Ashen Bones;
+Astraphobia;
+Bronze Helephant;
+Frostfang;
+Magma Colossus;
+Mass Death Prism;
+Namaste*F2;
+Nested Fury;
+Punklops;
+Snowball Barrage;
+Wings of Fate;
+
+| reagents =
+Aether*F3*WMV;
+Agave Leaves*F2;
+Agave Nectar*F2;
+Amber;
+Amber Dust*F3*WMV;
+Ancient Scroll*F2*WMV;
+Aquamarine*F2;
+Astral Shard*F2*WMV;
+Black Pearl;
+Blood Moss*F2;
+Brass*F4*WMV;
+Bronze Gear;
+Cobalt*F3*WMV;
+Draconium;
+Ectoplasm*F2;
+Fire Blossom*F2;
+Golden Pearl*F5*WMV;
+Grendelweed*F2*WMV;
+Merle's Whisker*F4*WMV;
+Mithril;
+Nickel*F3*WMV;
+Orichalcum;
+Scales*F3*WMV;
+Silver*F2;
+Spider Silk*F3*WMV;
+Spring*F3*WMV;
+Stardust;
+Steel*F3*WMV;
+Sunstone*F4*WMV;
+Tin;
+Titanium*F3;
+Tungsten;
+Turquoise*F3*WMV;
+Vine*F3*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington;
+Chalupacabra*F2;
+Chili Cheese Fries*F2*WMV;
+French Fries*F3*WMV;
+Gourmet Yogurt*F2;
+Hot Cross Buns;
+Huge Ice Cream*F2;
+Large Ice Cream*F2;
+Mustachios*F2;
+Penne Dreadful;
+Polaris Fries*F2;
+Satyr Chow;
+Ships 'n' Queso*F2;
+Submarine Sandwich;
+Super Cold Popsicle;
+Veggie Juice*F2*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+Glacier Dragon;
+Polar Bear Cub*CR;
+White Winter Owl;
+
+| seeds =
+Angel Oak*F3*WMV;
+Bread Fruit Bush;
+Deadly Fly Trap;
+Evil Snow Peas*F2*WMV;
+Fish on a Vine*F4*WMV;
+Frozen Fly Trap*F5*WMV;
+Green Snow Apples*F2*WMV;
+Moon Flower*F2;
+Purple Snow Apples*F3;
+Queen Crape Myrtle*F3*WMV;
+Snow Apples*F2;
+Ultra Fly Trap;
+Venus Fly Trap*F2;
+
+| mounts =
+
+| spells =
+
+}}

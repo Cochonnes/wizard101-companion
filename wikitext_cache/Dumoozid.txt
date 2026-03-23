@@ -1,0 +1,237 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 5,200
+| crecla = Djinn
+| school = Storm
+| school2 = Ice
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+7%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Fire, Myth;
+
+| incresist =
+30% Ice, Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Mirage
+| location = Caravan
+| subloc1 = Dumoozid's Tent
+| descrip =
+
+| speech =
+:''"What? Now you would contaminate my private chambers? By all that is clean and good, why? Do you hate sparkling clean? I just don't understand... Actually, it doesn't matter. I don't care about your reasons. You have violated my personal space, and you will now suffer my immaculate wrath!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"More mess?? I'll have none of that!"'' - If a Wizard joins the duel after it has already begun, Dumoozid will cast {{Link|Spell|Lord of Winter}} at the Wizard.
+*{{Icon|Storm}}{{Icon|Manipulation}} ''"Behold the power of pure clean!"'' - Dumoozid will randomly interrupt-cast a Storm version of {{Link|Spell|Empower}} that gives him 1 Pip.
+*{{Icon|Damage}} ''"Let's clean this up!"'' - Dumoozid will randomly interrupt-cast a version of {{Link|Spell|Tempest}} which removes all Charms and Wards from all Wizards.
+**{{Link|Spell|Aegis}} can be used to prevent the removal of the Charm
+*{{Icon|Storm}}{{Icon|Manipulation}} ''"So much mess, I can't take it!"'' - Dumoozid will randomly interrupt-cast a Storm version of {{Link|Spell|Mana Burn}}
+
+| spellnotes =
+
+| casts =
+Brace;
+Thermic Shield (-75%);
+Volcanic Shield (-75%);
+Stormblade (+30%);
+Iceblade (+40%);
+Lightning Bats (285-325);
+Natural Attack (Storm 125-250-375, 65%);
+Berzerk Kraken;
+Storm Lord (775);
+Water Efreet (-90%);
+Ice Bats (215);
+Frozen Kraken;
+Frost Giant (530);
+Ice Efreet;
+
+| quests =
+Tent Immaculate;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' Badge and has not unlocked the '''[[Basic:Empyrea Badges|Hero of Light and Shadow]]''' Badge, the following drops will be available:
+*6 Spellements will drop each time from '''any''' School for their respective rank 9, 10, King Artorius, Polaris, and Mirage Spells.
+
+| gold =
+63 - 120;
+
+| hats =
+Mongu Kabalak of Force;
+
+| robes =
+Djinn Vestment of Radiance;
+Mongu Vestment of Ages;
+Mongu Vestment of Frenzy;
+
+| boots =
+Mongu Givehs of Ages;
+Mongu Givehs of Umbrage;
+Nomad's Striders of Tenacity*F2;
+
+| athames =
+Djinn Khanjar of Darkness;
+Djinn Khanjar of Flux;
+Djinn Khanjar of Justice;
+Djinn Khanjar of Patience;
+Djinn Khanjar of Sparks;
+
+| amulets =
+Djinn Pendant of Justice;
+Djinn Pendant of Swells;
+Djinn Pendant of Wintertide;
+Fang Collar of Ages;
+
+| rings =
+Djinn Loop of Justice;
+Djinn Loop of Reverie;
+Djinn Signet of Flux;
+Djinn Signet of Patience;
+Djinn Signet of Radiance;
+
+| wands =
+Purrzian Bow of Redress;
+Purrzian Sunfire Bow;
+Somber Purrzian Axe & Shield;
+
+| decks =
+
+| items =
+Mirage Canyon Theme 1;
+Mirage Chronoverge Com Theme;
+Mirage City Tense Theme;
+Mirage Desert Combat Theme;
+Mirage Jungle Combat Theme;
+Mirage Magic Carpet Theme;
+Mirage Nomad Theme;
+Mirage Palace Theme;
+Mirage Serpent Theme;
+Mirage Spider Speaks Theme;
+
+| cards =
+Astraphobia;
+Combustion;
+Frostfang;
+Namaste;
+Nested Fury;
+Raging Bull;
+Saga of Heroes;
+Snowball Barrage;
+Witch's House Call;
+
+| reagents =
+Turmeric*F6*WMV;
+
+| spellements =
+Chimera*BR;
+Climaclysm*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Qismah's Curse*BR;
+Sabertooth*BR;
+Scorching Scimitars*BR;
+Sirens*BR;
+Spinysaur*BR;
+
+| snacks =
+Beast Wellington*F2*WMV;
+Beetle Cream Soda;
+Chalupacabra*F2;
+Eye Candy;
+Hard Boiled Beetle Eggs;
+Hot Cross Buns*F3*WMV;
+Mustachios*F2*WMV;
+Satyr Chow*F2;
+Ships 'n' Queso*F2;
+Veggie Juice;
+
+| jewels =
+Brace Opal;
+Lustrous Accurate Sapphire +11%;
+Renew Opal;
+Shiny Blocking Onyx +16;
+Shiny Blocking Ruby +16;
+Shiny Critical Hematite +16;
+Shiny Critical Jade +16;
+Shiny Critical Onyx +16;
+Shiny Critical Ruby +16;
+Shiny Damage Citrine +26;
+Shiny Damage Sapphire +26;
+Shiny Defense Hematite +52;
+Shiny Defense Onyx +52*F2*WMV;
+Shiny Defense Ruby +52;
+Shiny Health Opal +111;
+Shiny Health Opal +113*F4;
+Shiny Health Opal +114*F3*WMV;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46*F2*WMV;
+
+| pins =
+
+| pets =
+MaCaw*CR*F3*WMV;
+
+| seeds =
+Angora Bunny Ears;
+Baby Carrots*F3*WMV;
+Bamboo Shoots;
+Bell Pepper*F2;
+Blue Huckleberries*F2;
+Boiled Peanuts;
+Boom Shroom*F2;
+Bread Fruit Bush*F2*WMV;
+Cornbread Fruit Bush*F3*WMV;
+Couch Potatoes*CR*F3;
+Deadly Fly Trap;
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Fiery Boom Shroom;
+Fish on a Vine;
+Golden Couch Potatoes;
+Goose Tree*F2*WMV;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Helephant Ears;
+Key Limes*CR;
+Orange Bell Pepper*CR;
+Pink Huckleberries;
+Prickly Bear Cactus*F2*WMV;
+Red Grapes of Wrath*F2*WMV;
+Red Huckleberries;
+Saw Palmetto;
+Snap Dragon*F2;
+Snow Apples;
+Tiger Lily (Seed);
+Trumpet Vine*F2*WMV;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

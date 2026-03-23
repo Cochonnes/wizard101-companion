@@ -1,0 +1,203 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 16,680
+| crecla = Shadow Weaver
+| school = Life
+| masteries =
+Fire;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+PopZotz Unlucky Day;
+
+| world = Azteca
+| location = Cloudburst Forest
+| subloc1 = Clearing
+| descrip =
+Two additional {{Link|Creature|Splinter Wing}} Minions appear if more than two Wizards are present.
+
+| speech =
+:'''Shemazan Blightmark:''' ''"How could you have lost that songbird, Lady Zenzen!?"''
+:'''Popzotz Unlucky Day:''' ''"It wasn't me that first found her.  It was you!"''
+:'''Shemazan:''' ''"I knocked her out of the sky!"''
+:'''Popzotz:''' ''"You barely scratched her!  So she got away from me!"''
+:'''Shemazan:''' ''"Never mind.  We have her scepter and cloak and a handful of feathers.  We can use that to convince King Neza she is our prisoner."
+:'''Popzotz:''' ''"He will have no choice but to believe us.  Wait, what was that noise?"''
+:'''Shemazan:''' ''"The Wizard!"''
+
+| spellnotes =
+
+| casts =
+Amplify (+25%);
+Vengeance;
+Guiding Light;
+Rebirth;
+Lifeblade;
+Luminous Weaver;
+Natural Attack (Life 165-330-495);
+Centaur (610-670);
+Forest Lord (715-775);
+Spinysaur;
+Fire Beetle;
+Efreet;
+
+| quests =
+Ain't Goin' Nowhere;
+
+| gold =
+130 - 242;
+
+| hats =
+Cloak of the Tyrant of Beasts;
+Dawn Hour Mantle;
+Elite Jura Guard Helm*F2;
+Five Fangs of Fury Headdress*F3*WMV;
+Indigo Wing Crown*F4*WMV;
+Thirteen Death Mask*F2;
+Tree of Secrets Chac Mask*F3;
+Twisted Fang Mask*F4*WMV;
+
+| robes =
+
+| boots =
+
+| athames =
+Bleeding Sun Dagger;
+Burning Water Talon;
+Fang of the Night Sky;
+Tears of Mother Moon Blade;
+
+| amulets =
+Charm of the Gold Aztecosaur;
+House of Plague Greenstone*F3;
+Pitch Black Lake Plague Shell;
+Rising Sun Head Relic*F3*WMV;
+Shining Cold House Amulet;
+Smoking Fang Talisman;
+
+| rings =
+Acampi Reedfist's Lost Seal*F4;
+Bleeding Sun Warrior's Loop*F4*WMV;
+Falling Star's End Time Band*F2*WMV;
+Mother Moon's Count Ring*F4*WMV;
+
+| wands =
+Eclipse Spear of Azteca*F2;
+Lance of Night Fire*F2;
+Tears of Night Lance;
+
+| decks =
+Codex of the Lost Fire*F2;
+Deck of the Jaguar Spirit*F3*WMV;
+Storm Sun Gallery*F4;
+Winter's Pyramid Deck;
+
+| items =
+Azteca Apocalypse Theme;
+Hollow Log;
+Star Clothesline;
+Starburst Frond*F2;
+
+| cards =
+Basilisk;
+Colossal;
+Dr. Von's Monster;
+Extraordinary*F4*WMV;
+Gnomes!;
+Potent Trap*F2;
+Primordial*F2;
+Rain of Fire*F2;
+Sharpened Blade*F3;
+Sirens;
+Woolly Mammoth*F2;
+
+| reagents =
+Black Lotus*F2*WMV;
+Black Pearl*F2;
+Blood Moss*F3*WMV;
+Bone*F3;
+Bronze;
+Bronze Gear;
+Deep Mushroom*F5*WMV;
+Fire Blossom*F5*WMV;
+Fossil*F2*WMV;
+Golden Pearl*F3*WMV;
+Lava Lily*F2;
+Mist Wood*F2*WMV;
+Mithril*F2;
+Nightshade*F3;
+Ore*F7*WMV;
+Red Mandrake*F3*WMV;
+Silver;
+Steel*F2;
+Stone Block*F2*WMV;
+Sunstone*F2;
+Titanium;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Apatotatoes;
+Aztecan Hot Chocolate*F2;
+Chapulines;
+Dr. Jalapeno;
+Fern Jelly;
+Guava;
+Maize*F2*WMV;
+Pterotomatoes*F2;
+Quetzal Pretzel*F3;
+Rex Tea*F3*WMV;
+Stego Waffles*F2*WMV;
+Yucca;
+Zocalo Wings*F2;
+
+| jewels =
+Buff Minion Peridot;
+Curse Giver Onyx;
+Cyclops Minion Peridot;
+Polished Critical Citrine +11;
+Polished Damage Citrine +21;
+Polished Damage Onyx +21;
+Polished Damage Ruby +21*F2;
+Polished Health Opal +86;
+Power Player Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Fish on a Vine;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

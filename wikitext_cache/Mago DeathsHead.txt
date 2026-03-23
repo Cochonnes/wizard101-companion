@@ -1,0 +1,204 @@
+{{Stub|which versions of the ''{{Link|TreasureCard|Enfeeble}}'' and ''{{Link|TreasureCard|Shatter}} Treasure Cards'' this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 21,850
+| crecla = Moth
+| crecla2 = Insect
+| school = Death
+| startpips = 5
+| powerpips = Yes
+| critical =
+110 Any;
+
+| criticalblock =
+50 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Sassafras Man;
+
+| world = Khrysalis
+| location = Moon Cliffs
+| subloc1 = Hidden Cave
+| descrip =
+Called "BeeRobber" by the locals, this Death's Head moth enjoys snatching choice items of loot and retreating to his hidden lair. He receives two more {{Link|Creature|Sassafras Man}} minions if more than two Wizards are present.
+
+| speech =
+:''"Did the sniveling Bumblers send you after me?  See the Death's Head and die!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+Known as the BeeRobber, MantisThiever and MouseThingTaker. Guy likes stealing.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Infection;
+Mass Infection;
+Deathblade;
+Death Trap;
+Feint;
+Death Scarab (Death);
+Natural Attack (Death 155-250-345);
+Wraith (575);
+Scarecrow;
+Dr. Von's Monster;
+Avenging Fossil;
+
+| quests = 
+Waggle Dance;
+
+| gold =
+135 - 166;
+
+| hats =
+The Savvy Satyr*CR*WMV;
+
+| robes =
+Battle-Worn Burrower Armor;
+Kermes Fire Miner's Tunic*F3*WMV;
+Mantis Armor of Purpose*F2*WMV;
+Mantis Plate of Frostfall*F2*WMV;
+Robes of Burrower Strife*F5*WMV;
+
+| boots =
+Blighted Burrower Boots*F4*WMV;
+Digger Drone's Dirty Boots*F5*WMV;
+
+| athames =
+Besieged Burrower's Knife*F2;
+Jewel of the Apiary*F2;
+
+| amulets =
+Benzzi's Campaign Memento;
+Collar of the Besieged*F2*WMV;
+Jewel of the Apiary*F3;
+Mantis Prophet's Ornament;
+
+| rings =
+
+| wands =
+Banetail's Charged Sting*F2;
+Goliath's Savage Slasher*F2;
+Yellow Jacket's Avenger;
+
+| decks =
+Cell of Survival*F3*WMV;
+Gallery of the Woebegone*F5*WMV;
+LimeBlight's Gallery*F4;
+
+| items =
+Khrysalis Bastion Theme;
+Khrysalis Thrives Theme*F3;
+
+| cards =
+Clockwork Spider;
+Death Scarab;
+Enfeeble;
+Legendary Treant (445)*F3;
+Life Scarab;
+Locust Swarm;
+Lucius McTavish;
+Luminous Weaver;
+O'Leary Charlatan (Storm);
+O'Leary Swindler*F2;
+Patches O'Leary;
+Pierce;
+Polar Swarm*F2;
+Rat Illusionist*F2;
+Scrounger;
+Shatter;
+Sprite Swarm (40+360)*F2*WMV;
+Wildfire Treant;
+
+| reagents =
+Black Lotus*F8*WMV;
+Black Pearl;
+Blood Moss*F2*WMV;
+Bone*F5*WMV;
+Bronze Gear;
+Copper*F3;
+Deep Mushroom*F4*WMV;
+Fire Blossom*F3*WMV;
+Golden Pearl;
+Lava Lily*F3*WMV;
+Mist Wood*F5*WMV;
+Nickel;
+Nightshade*F2;
+Ore*F8*WMV;
+Orichalcum;
+Pyrite*F4;
+Red Mandrake*F6*WMV;
+Stone Block*F2;
+Sunstone;
+Turquoise*F3;
+
+| spellements =
+
+| snacks =
+Dr. Jalapeno*F4*WMV;
+Flaming Soup;
+Flapjacks*F3*WMV;
+Glowing Dragon Fruit*F2;
+Goat Cheese;
+Golden Apple;
+Golden Grapes;
+Gummy Bees;
+Gummy Humongofrog*F2;
+King Banana*F3;
+
+| jewels =
+Blood Bat Peridot;
+Dark Sprite Onyx;
+Fire Cat Ruby;
+Life-Boon Jade;
+Polished Health Opal +94;
+Ultra Exhaustion Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Blue Huckleberries;
+Fiery Boom Shroom;
+Saw Palmetto;
+Sugar Khrystal*CR;
+
+| mounts =
+
+| spells =
+
+}}

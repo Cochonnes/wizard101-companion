@@ -1,0 +1,284 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 11,440
+| crecla = Polar Bear
+| school = Death
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Tundarian Enforcer;
+Tundarian Enforcer;
+
+| world = Polaris
+| location = Walruskberg
+| subloc1 = Walruskberg Armory
+| descrip =
+Marshal Kamensky is located on the second floor in the Walruskberg Armory Instance. This Boss may respawn after being defeated.
+
+| speech =
+:''"It's about time! I've been waiting over an hour. That stroganoff better not be cold! Wait a minute. You don't look like the serving girl. What are you doing in here?"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Polaris
+| tome description =
+This Imperial officer likes his stroganoff served hot, and his justice served cold.
+
+| extract class =
+Polar Bear;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Empowerment;
+Infection;
+Mass Infection;
+Doom and Gloom;
+Natural Attack (Death 110-215-320);
+Lord of Night;
+Call of Khrulhu;
+Wraith;
+Scarecrow;
+Dr. Von's Monster;
+
+| quests =
+Papers, Please;
+
+| gold =
+380 - 561;
+
+| hats =
+Hailstorm Tundra Ushanka;
+Polarian Tundra Ushanka;
+Sweltery Tundra Ushanka*F2;
+The Goat Horns*CR;
+The Ice Horns*CR;
+The Stardust*CR;
+Tundra Ushanka of Loyalty*F2;
+Tundra Ushanka of Survival;
+Urville Papakh of Flames;
+
+| robes =
+Blizzardy Tundra Pelage;
+Hailstorm Tundra Suit;
+Sweltery Tundra Vestment;
+Tundra Coat of Sagacity;
+Tundra Garment of Loyalty;
+Tundra Walkers of Survival;
+Urville Robes of Wintertide;
+
+| boots =
+Blizzardy Tundra Snowshoes;
+Sweltery Tundra Boots;
+Urville Boots of Flames;
+Urville Striders of Honor;
+
+| athames =
+Frigid Maw Shortblade;
+Mage's Hardy Edge*F2;
+Urville Chaplet of Anguish;
+Urville Knife of Elation*F2;
+Urville Kris of Wintertide*F3*WMV;
+Urville Lancet of Anguish;
+
+| amulets =
+Mage's Blustery Pendant;
+Mage's Dolorous Amulet*F2*WMV;
+Mage's Torc of Guile;
+Memento of the Frigid Maw;
+Urville Bauble of Flames;
+Urville Charm of Snowgusts;
+Urville Necklace of Honor;
+Urville Pendant of Elation;
+Urville Relic of Wintertide*F2*WMV;
+
+| rings =
+Inspector's Ring of Grief;
+Inspector's Scorched Ring;
+Inspector's Seal of Pluck*F2*WMV;
+Mage's Blustery Seal;
+Mage's Signet of Justice;
+
+| wands =
+Axe of Tundra Blizzards;
+Mage's Wintry Wand;
+Tundra Bardiche of Ferocity;
+Tundra Survival Hatchet*F2;
+
+| decks =
+Deck of the Tundra Sage;
+Hand of Tundra Blizzards;
+Mage's Blustery Stack;
+Tundra Cards of Disarray*F2;
+Tundra Gallery of Hailstorms;
+
+| items =
+Arcanum Theme;
+Medium Enchanted Pot;
+Polaris Baba Yaga Theme;
+Polaris Gulag Combat Theme;
+Polaris Ice Block Theme*F2;
+Polaris Mine Combat Theme;
+Polaris Mine Theme*F2;
+Polaris Opera Theme;
+Polaris Rasputin Combat Theme;
+Small Enchanted Pot*F2*WMV;
+Walruskberg Combat Theme;
+Walruskberg Liberated Theme*F2;
+Walruskberg Theme;
+
+| cards =
+Age of Reckoning*F2;
+Ashen Bones;
+Astraphobia;
+Combustion;
+Frostfang;
+Katabatic Wind*F4*WMV;
+Mutate Banshee (Life);
+Mutate Bats (Ice);
+Mutate Beetle (Fire);
+Mutate Bird (Ice)*F3*WMV;
+Mutate Bird (Storm)*F2;
+Mutate Cat (Storm);
+Mutate Elf (Ice);
+Mutate Elf (Storm)*F2*WMV;
+Mutate Helephant (Ice);
+Mutate Hound (Ice);
+Mutate Kraken (Fire)*F2;
+Mutate Minotaur (Sun);
+Mutate Phoenix (Sun);
+Mutate Snake (Ice);
+Mutate Wyvern (Fire);
+Rusalka's Wrath;
+Saga of Heroes;
+Winged Sorrow;
+Wings of Fate;
+
+| reagents =
+Aether*F5*WMV;
+Agave Leaves*F11*WMV;
+Agave Nectar;
+Amber*F2;
+Amber Dust*F4*WMV;
+Aquamarine*F10*WMV;
+Astral Shard*F5*WMV;
+Braided Vine*F4*WMV;
+Fire Blossom*F3*WMV;
+Fish Fin*F5*WMV;
+Golden Pearl*F7*WMV;
+Mithril*F8*WMV;
+Orichalcum;
+Scales*F6*WMV;
+Silver*F9*WMV;
+Stardust*F2*WMV;
+Steel*F6*WMV;
+Sunstone*F4*WMV;
+Titanium*F6*WMV;
+Tungsten*F7*WMV;
+Turquoise*F4*WMV;
+Vine*F2*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F3*WMV;
+Chalupacabra*F3*WMV;
+Deepwater Toffee;
+Eye Candy*F5*WMV;
+Frosty Sugar Cubes;
+Granny Snow Apple*F2;
+High Road Haggis*F2*WMV;
+Hot Cross Buns*F7*WMV;
+Jolly Rancher;
+Mustachios*F3*WMV;
+Penne Dreadful*F2*WMV;
+Polaris Fries*F3*WMV;
+Rhubarbed Wire;
+Satyr Chow*F4*WMV;
+Ships 'n' Queso*F3*WMV;
+Snow Apple Cider;
+Veggie Juice*F4*WMV;
+
+| jewels =
+Dual Balanceblade Citrine;
+Dual Deathblade Onyx*F3*WMV;
+Dual Fireblade Ruby;
+Dual Iceblade Sapphire*F2;
+Dual Lifeblade Jade*F2*WMV;
+Dual Mythblade Peridot*F2;
+Dual Shadowblade Hematite*F2;
+Dual Stormblade Amethyst*F2;
+Lustrous Critical Onyx +13;
+Lustrous Damage Amethyst +23*F2;
+Lustrous Damage Onyx +23;
+Lustrous Defense Citrine +45;
+Lustrous Defense Peridot +46;
+Lustrous Health Opal +104;
+Polished Blocking Peridot +11*F2;
+Polished Damage Sapphire +21;
+
+| pins =
+
+| pets =
+Glacier Dragon;
+Ice Bird;
+Intrepid Seal Pup;
+Nodori Winged Ram*CR;
+Snowball*CR*F2*WMV;
+
+| seeds =
+Angel Oak*F5*WMV;
+Boiled Peanuts;
+Cornbread Fruit Bush*F3*WMV;
+Couch Potatoes*CR;
+Evil Snow Peas*F4*WMV;
+Fish on a Vine*F5*WMV;
+Frozen Fly Trap*F3;
+Goose Tree*F2*WMV;
+Green Snow Apples*F2*WMV;
+King Parsley*CR*F2;
+Moon Flower*F3*WMV;
+Ninja Fig*CR*F2*WMV;
+Pink Huckleberries;
+Purple Snow Apples*F3*WMV;
+Queen Crape Myrtle*F3*WMV;
+Snow Apples*F2*WMV;
+Ultra Snow Apples*F2*WMV;
+White Desparagus*F5*WMV;
+White Laugh-O-Dil*F7*WMV;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

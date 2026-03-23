@@ -1,0 +1,190 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 13,930
+| crecla = Undead
+| crecla2 = Vampire
+| school = Death
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+55%;
+
+| outboost =
+
+| incboost =
+30% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Scarlet Wampyr;
+Scarlet Wampyr;
+Scarlet Wampyr;
+
+| world = Wizard City
+| location = Castle Darkmoor (Location)
+| subloc1 = Castle Darkmoor (Dungeon)
+| descrip =
+Count Bela BlackSleep will sometimes appear when Wizards fail to complete the puzzle in the Observatory while inside of Castle Darkmoor (Dungeon). This fight may result in four Scarlet Wampyrs appearing without the Boss present.<br/>
+All drops should be listed on this page, regardless of whether this Boss is present or not.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+Cast out by his flock, he found a home in the Darkmoor Observatory with a group of like-minded, puzzle-loving, blood-drinkers.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Deathspear;
+Infection;
+Mass Infection;
+Deathblade;
+Curse;
+Death Trap;
+Feint;
+Natural Attack (Death 110-215-425);
+Vampire;
+Scarecrow;
+Dr. Von's Monster;
+
+| quests =
+
+| gold =
+321 - 374;
+
+| hats =
+
+| robes =
+Brimstone Gear of Darkmoor;
+
+| boots =
+Brimstone Boots of Darkmoor;
+Herald of Darkmoor's Shoes;
+
+| athames =
+Herald of Darkmoor's Knife;
+
+| amulets =
+Vial From the Fetid Lagoon;
+
+| rings =
+Wolfbane Loop;
+
+| wands =
+Morning Star of Kan Davasi;
+
+| decks =
+
+| items =
+
+| cards =
+Avenging Fossil;
+Black Cat;
+Celestial Calendar*F2;
+Chastisement*F2*WMV;
+Dark Tribute;
+Galvanic Field*F3;
+Hex*F2;
+Lady Blackhope;
+Lord of Winter;
+Plague;
+Poison*F2;
+Skeletal Dragon*F3*WMV;
+Sleet Storm;
+Storm Owl*F2;
+Sun Serpent*F2*WMV;
+The Bonekeeper*F2;
+Virulence*F2*WMV;
+
+| reagents =
+Astral Shard*F3*WMV;
+Black Lotus*F2*WMV;
+Black Pearl;
+Blood Moss*F2*WMV;
+Bone*F2*WMV;
+Brass;
+Bronze Gear*F6*WMV;
+Cobalt*F4*WMV;
+Deep Mushroom*F3;
+Fire Blossom*F2*WMV;
+Fossil*F3;
+Golden Pearl*F2*WMV;
+Lava Lily*F7*WMV;
+Mist Wood*F3;
+Nickel*F2*WMV;
+Nightshade*F2;
+Ore*F3*WMV;
+Red Mandrake*F4*WMV;
+Steel*F2;
+Stone Block*F3;
+Sunstone;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Discord Grape Jelly;
+Gummy Bees;
+Honeycombs*F2;
+Ninja Fig Bars;
+Prickly Bear Punch;
+Sugar Khrystals*F2;
+
+| jewels =
+Balance-Off Citrine;
+Mega-Boost Opal;
+Opaque Piercing Opal +2%;
+Rugged Opal;
+
+| pins =
+
+| pets =
+Forgotten Grimoire;
+Incendiary Grimoire*F2;
+Verglas Grimoire*F2;
+
+| seeds =
+Angel Oak*F2*WMV;
+Angora Bunny Ears*F2;
+Blue Huckleberries*F3*WMV;
+Frozen Fly Trap;
+Honey Bee Plant*F2;
+Key Limes*CR;
+Melting Cheese Tree*F2;
+Pink Dandelion*CR;
+Pink Huckleberries;
+Red Huckleberries;
+Saw Palmetto;
+
+| mounts =
+
+| spells =
+
+}}

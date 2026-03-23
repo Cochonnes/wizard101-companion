@@ -1,0 +1,174 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 960
+| crecla = Giant
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Troll Mercenary;
+
+| world = MooShu
+| location = Hametsu Village
+| subloc1 = Groostak's Lair
+| descrip =
+*Two additional Troll Mercenaries will appear if more than two Wizards are present.
+
+| speech =
+:''"You are not fit to join my ranks! Begone, Wizard!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Myth Damage per Pip.
+
+| casts =
+Storm Shield;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Humongofrog;
+Snow Serpent;
+Sunbird;
+Storm Shark;
+
+| quests =
+Too Many Enemies;
+
+| gold =
+53 - 65;
+
+| hats =
+Cap of Hinderance;
+Cowl of Arias;
+Druidic Cowl;
+Friendly Helm;
+Groostak's Mindful Cap*F2;
+Headwraps of Anthems;
+Headwraps of the Whim;
+Helm of Struggling;
+Hood of Chimes*F2*WMV;
+Hood of Melodies;
+Immersive Cowl;
+Meticulous Headwraps;
+Proficient Hat;
+Shroud of Deliberation;
+Shroud of Scruples;
+Sprightly Hood*F2*WMV;
+
+| robes =
+Abstract Vestment;
+Groostak's Steadfast Robe*F2*WMV;
+Vestment of Fiction;
+
+| boots =
+Abstract Footwraps;
+Benign Slippers;
+Boots of Consideration;
+Concordant Shoes;
+Gallant Sandals;
+Groostak's Agile Shoes;
+Groostak's Boots*F2;
+Nunu's Twisted Slippers;
+Painful Slippers;
+Prospective Boots;
+Systematic Boots;
+Warbled Shoes;
+Zippy Footwraps;
+
+| athames =
+Kris of the Pensive Ones*F2*WMV;
+Shortblade of a Daydreamer*F2;
+
+| amulets =
+
+| rings =
+Band of Hope*F2;
+Drifting Ring;
+Ring of Detachment;
+
+| wands =
+Groostak's Prudent Staff*F4*WMV;
+
+| decks =
+
+| items =
+Fancy Bench;
+Green Banner*F3*WMV;
+Haystack;
+MooShu Dance Theme;
+Small Woodpile;
+Tree Painting (MooShu)*F2*WMV;
+Wooden Pedestal*F3*WMV;
+
+| cards =
+Accurate;
+Balefrost;
+Cloak;
+Donate Power;
+Doom and Gloom;
+Dragonflies;
+Heck Hound;
+Ice Wyvern;
+Kraken;
+Monstrous;
+Mutate Snowman (Storm);
+Skeletal Pirate*F2*WMV;
+Tough;
+Troll*F2;
+
+| reagents =
+Bone*F4;
+Brass;
+Tin;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Golden Peanut*F2*WMV;
+Golden Squash*F2*WMV;
+Square Root*F2;
+
+| jewels =
+Blemished Defense Onyx +21*F2;
+Blemished Defense Opal +12;
+Blemished Defense Sapphire +21*F2;
+Flawed Defense Jade +18;
+Flawed Defense Onyx +18;
+Flawed Healing Opal +2%*F2*WMV;
+Unbalancer Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Fiery Boom Shroom;
+Maelstrom Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

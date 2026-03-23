@@ -1,0 +1,200 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 20,000
+| crecla = 
+| school = Fire
+| school2 = Ice
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical = 450
+| criticalblock = 450
+
+| outpierce =
+50%;
+
+| outboost =
+150%;
+
+| incboost =
+None;
+
+| incresist =
+40% Fire, Life;
+70% Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+100% Ice, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| randomminions =
+Djinn Bandit;
+Forest Demon;
+Grimtusk Bandit;
+Moosetaur Bandit;
+Stingtail Bandit;
+Stormasaur Bandit;
+Yeti Bandit;
+
+| totalminions = 1
+
+| world = Raid
+| location = Voracious Void
+| subloc1 = 
+| descrip =
+
+| speech =
+
+| cheatnotes =
+The Wizard can cast {{Link|Spell|Brush Fire}}, {{Link|Spell|Levin Bruin}}, {{Link|Spell|Rotting Fomori}}, and {{Link|Spell|War Oracle}} as inspired Casts during this battle. 
+*At the end of every Round, Big Cat Burglar will cast {{Link|Spell|Power Current}} on itself.
+*After casting Scion of Fire, Big Cat Burglar will cast {{Link|Spell|Fire Elf (Tier 5b)}}.
+*After casting Scion of Ice, Big Cat Burglar will cast {{Link|Spell|Snow Serpent (Tier 5b)}}.
+*''"I counter your charms!"'' - If a Wizard casts a Blade, Big Cat Burglar will cast {{Link|Spell|Wall of Blades}}.
+*''"I counter your jinxes!"'' - If a Wizard casts a trap on Big Cat Burglar, Big Cat Burglar will cast {{Link|Spell|Backfire}}.
+This battle uses snake turn order (Beastmoon).
+
+| spellnotes =
+*Casts an Ice version of [[:File:(Item Card) Sabertooth Variation6.png|Sabertooth]].
+*Casts a Fire version of [[:File:(Item Card) Sabertooth Variation2.png|Sabertooth]].
+
+| casts =
+Furnace;
+Brace;
+Tower Shield;
+Legion Shield;
+Fireblade; 
+Bladestorm;
+Inferno Salamander;
+Blast Off!;
+Fire Dragon;
+Bernie Notice;
+Frostbite;
+Kelvin's Icy Gaze;
+Snowball Barrage;
+
+| quests =
+
+| dropnotes =
+All 12 Wizards in the Raid receive the drops, not just the ones within the battle.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+Donate Power 2;
+Donate Power 3;
+Fiery Explosion 3;
+Locust Swarm (Tier 2b);
+Restoring Rain 3;
+Snow Serpent (Tier 2b);
+Sprite Swarm 3;
+Sun Blade;
+Sunbird (Tier 2b);
+Virulent Plague 1;
+Virulent Plague 3;
+
+| reagents =
+
+| spellements =
+Angry Snowpig;
+Banshee;
+Beary Surprise;
+Blight Hound;
+Blood Bat;
+Brimstone Revenant;
+Centaur;
+Colossus;
+Cyclops;
+Cyclops Minion;
+Dark Sprite;
+Earth Walker;
+Evil Snowman;
+Fire Elf;
+Frost Beetle;
+Gearhead Destroyer;
+Ghoul;
+Grendel's Amends;
+Hammer of Thor;
+Helephant;
+Hydra;
+Ice Wyvern;
+Immolate;
+Imp;
+Keeper of the Flame;
+Kraken;
+Leprechaun;
+Lightning Bats;
+Locust Swarm;
+Luminous Weaver;
+Minotaur;
+Nature's Wrath;
+Ninja Piglets;
+Ninja Pigs;
+Phoenix;
+Pigsie;
+Samoorai;
+Scarab;
+Scorpion;
+Seraph;
+Skeletal Pirate;
+Snow Serpent;
+Spectral Blast;
+Splashsquatch;
+Stone Colossus;
+Storm Shark;
+Stormzilla;
+Sunbird;
+Thunder Snake;
+Triton;
+Troll;
+Vampire;
+Wraith;
+
+| snacks =
+
+| jewels =
+Amazing Accurate Hematite +15%;
+Amazing Critical Sapphire +22;
+Amazing Damage Hematite +64;
+Amazing Defense Amethyst +62;
+Amazing Defense Sapphire +63;
+Amazing Mana Opal +58;
+Amazing Mana Opal +60;
+Polished Piercing Ruby +6%;
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

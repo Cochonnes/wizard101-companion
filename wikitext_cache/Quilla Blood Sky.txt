@@ -1,0 +1,242 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 16,080
+| crecla = Dino
+| crecla2 = Pterodactyl
+| school = Storm
+| startpips = 5
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Obsidian Beak;
+
+| world = Azteca
+| location = Mangrove Marsh
+| subloc1 = Quilla Blood Sky Hideout
+| descrip =
+*Two additional Obsidian Beaks appear if more than two Wizards are present.
+
+| speech =
+:''"I greet you with thunder and lightning! You may not have my precious stone! I need this to survive the coming dark days!"'''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Greets guests with thunder and lightning. They seldom ever return.
+
+| extract class =
+Dinos;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 180-360-540, 70%);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Sirens;
+Tempest;
+
+| quests =
+Song of the Swamp;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge and has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge, the following drops will be available:
+*5 Spellements will drop each time from '''any''' School for their respective rank 6-10 Spells.
+
+| gold =
+107 - 233;
+
+| hats =
+Elite Jura Guard Helm;
+Five Fangs of Fury Headdress*F2;
+Indigo Wing Crown*F2*WMV;
+Thirteen Death Mask*F2*WMV;
+Tree of Secrets Chac Mask*F2;
+Twisted Fang Mask*F3*WMV;
+
+| robes =
+Coatl Lord's Robes;
+Dawn Hour Mantle*F2;
+Glorious Xicolli Vest;
+High Chac's Guarded Armor;
+Tunic of the Broken Spear;
+Vestment of the Calavera*F3*WMV;
+
+| boots =
+Black Tears of Night Wraps;
+Elite Jura Guard Stalkers*F3;
+Five Fangs of Fury Boots*F2;
+Heart of Sky Boots*F2*WMV;
+Tree of Secrets Chac Runners*F2;
+
+| athames =
+Cut Rock Dagger;
+Smoking Frog Cutter;
+Snake Ink Fang;
+
+| amulets =
+Laughing Chac's Talisman*F3*WMV;
+Sun's Death Smiling Pendant*F2*WMV;
+
+| rings =
+
+| wands =
+Red Sky Snake Banner;
+Snake Staff of Frost and Hail;
+Staff of the Storm Quetzals;
+
+| decks =
+Calendar of the Spiral King*F2;
+Deck of the Jaguar Spirit;
+King's Royal Portraits;
+Lords of Night Pyramid Deck;
+
+| items =
+Azteca Apocalypse Theme;
+Hollow Log;
+
+| cards =
+Amplify;
+Berserk;
+Efreet;
+Extraordinary;
+Forest Lord;
+Frost Demon;
+Infallible*F2*WMV;
+Mend;
+Power Nova;
+Snow Angel;
+Vengeance;
+
+| reagents =
+Black Lotus*F2*WMV;
+Bone*F3*WMV;
+Brass;
+Bronze*F2*WMV;
+Bronze Gear*F2;
+Cobalt;
+Deep Mushroom*F2*WMV;
+Fire Blossom*F5*WMV;
+Fossil*F2*WMV;
+Golden Pearl*F2*WMV;
+Lava Lily;
+Mist Wood*F2*WMV;
+Nightshade;
+Ore*F2*WMV;
+Red Mandrake*F3;
+Steel*F2;
+Stone Block*F4*WMV;
+Sunstone*F3;
+Tin;
+Tungsten;
+Turquoise*F2;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Centaur*BR;
+Chimera*BR;
+Colossus*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+Helephant*BR;
+Hydra*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Triton*BR;
+Woolly Mammoth*BR;
+Wraith*BR;
+
+| snacks =
+Buttered Bread*F2*WMV;
+Cactus Fruit;
+Caramel Apple*F2*WMV;
+Glowing Dragon Fruit*F2*WMV;
+Maize;
+Pyramints;
+Rex Tea*F2*WMV;
+Roasted Chickpeas;
+Tamales;
+Treant Bark;
+Yucca;
+
+| jewels =
+Intrepid Opal;
+Opaque Healing Opal +4%;
+Polished Defense Amethyst +41;
+Polished Health Opal +88;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Fish on a Vine;
+
+| mounts =
+
+| spells =
+
+}}

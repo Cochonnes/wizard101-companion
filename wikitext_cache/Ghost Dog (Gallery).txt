@@ -1,0 +1,100 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 20,825
+| crecla = Dog
+| school = Death
+| shadowslots = 1
+| startpips = 7
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Khrysalis
+| location = Shadow Palace
+| subloc1 = The Galleries
+| descrip =
+For the purpose of drops, Ghost Dog is considered a Minion to [[Creature:Kravenly the Hunter (Gallery)|Kravenly the Hunter]].  All drops, cheats, and speech are recorded on that page.
+
+| spellnotes =
+
+| casts =
+Shadow Shrike;
+Amplify;
+Fortify;
+Mass Infection;
+Deathblade;
+Death Trap;
+Feint;
+Shatter;
+Death Scarab (Death);
+Natural Attack (Death 160-255-350);
+Wraith (575);
+Scarecrow;
+Skeletal Dragon;
+Dr. Von's Monster;
+Avenging Fossil;
+
+| quests =
+The Galleries;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

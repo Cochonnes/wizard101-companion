@@ -1,0 +1,116 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 17,295
+| crecla = Aberration
+| school = Shadow
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+35% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+
+| world = Darkmoor
+| location = Black Lagoon
+| subloc1 = Dark Bog
+| descrip =
+*Wizards must move all Damage over Time effects to their side and all Heal over Time effects to the Shadow Self Magician in order to remove the Invulnerability Aura.
+
+| speech =
+
+| cheatnotes=
+*{{Icon|Aura}} ''"I am your mirror. Speak your words, feel your heart."'' - At the beginning of the First Round, Shadow Self Magician will cast an Invulnerability Aura with no round limit.
+**This Aura can be replaced with Negative Auras such as {{Link|Spell|Attenuate}} without penalty, but the Invulnerability effect will not be removed.
+*{{Icon|Damage over Time}}{{Icon|Heal over Time}} ''"You must acknowledge painful truths and comfortable lies."'' - At the beginning of the Second Round, Shadow Self Magician will apply as many Damage over Time effects dealing 1035 damage over 10 Rounds to itself as there are Wizards in the duel, and will apply a Heal over Time effect healing 555 health over 10 Rounds to each Wizard.
+**Starting at the end of the Fourth Round and every other Round thereafter, Shadow Self Magician will add one Damage over Time effect to itself or one Heal over Time effect to a random Wizard and restore its Invulnerability Aura.
+*{{Icon|Charm}}{{Icon|Ward}} ''"Yes. See the obvious. Embrace the hurt. Ignore the lies."'' - Triggers when a Wizard casts a Charm or Ward.
+**If a Wizard casts a Positive Charm or Ward, Shadow Self Magician will shift one Healing Over Time effect from the Wizard who cast the spell onto itself.
+***Positive Charms or Wards that apply multiple hanging effects such as {{Link|Spell|Elemental Blade}} and {{Link|Spell|Elemental Shield}} will cause multiple Heal over Time effects to be shifted.
+**If a Wizard casts a Negative Charm or Ward, Shadow Self Magician will shift one Damage over Time effect from itself to the Wizard that cast the spell.
+***Negative Charms or Wards that apply multiple hanging effects such as {{Link|Spell|Elemental Trap}} and {{Link|Spell|Fuel}} will cause multiple Damage over Time effects to be shifted.
+**{{Link|Spell|Feint}}, which places a Negative Ward on both the caster and Shadow Self Magician, will cause Shadow Self Magician to shift one Damage over Time effect, and one Heal over Time effect.
+*{{Icon|Manipulation}} ''"Are you seeing the truth beyond the comfortable lie?"'' - When all Healing over Time effects are applied to Shadow Self Magician and all Damage over Time effects are applied to the Wizard(s), Shadow Self Magician's Invulnerability Aura will be removed.
+**If a Negative Aura has been used to replace Shadow Self Magician's Invulnerability Aura, it will be removed.
+*{{Icon|Afterlife}} ''"You deny pain, but its shadow lingers."'' - If Shadow Self Magician is defeated by a Wizard who does not have a Damage over Time effect shifted to them, it will revive after being defeated.
+
+| spellnotes =
+
+| casts =
+Shadowblade;
+Shadow Trap;
+Mass Feint (Shadow);
+Bad Juju (Shadow);
+Lord of Night (Shadow);
+Wraith (Shadow);
+Sirens (Shadow);
+Leviathan (Shadow);
+
+| quests =
+Third, It Devours;
+
+| gold =
+4 - 26;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Darkmoor Roses;
+
+| cards =
+
+| reagents =
+Titanium;
+
+| spellements =
+
+| snacks =
+Butter Worms;
+Locust Kabob;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

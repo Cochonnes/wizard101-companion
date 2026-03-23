@@ -1,0 +1,266 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 16,150
+| crecla = Elemental
+| school = Shadow
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+27%;
+
+| outboost =
+119%;
+
+| incboost =
+30% Life;
+
+| incresist =
+37% Fire, Ice, Storm, Myth, Balance, Shadow;
+67% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Jake the Smoke Monster (Minion);
+Jake the Smoke Monster (Minion);
+
+| summons =
+Spiderling;
+
+| world = Wallaru
+| location = Wobbegong Territory
+| subloc1 = Mystery Box
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"Hey, I'm Jake. These are my clones. Or evil duplicates. It doesn't matter. Remember clones? Clones are cool. So I'm going to rewrite reality or whatever, really make my unique stamp. I've got some great new ideas. Like plays. That rhyme. And maybe make sense sometimes. Gonna do that on like every world. And references to things! People love those! Oh, and get this, my best idea yet: what if... Somehow, Malistaire returned. This is the future, Wizard: the past, forever rehashed and regurgitated. And you can't stop me!"''
+
+| cheatnotes =
+*{{Icon|Damage}} ''"Who misses Malistaire? I do!"'' - At the beginning of every second Round, Jake the Smoke Monster will cast Shift Malistaire on a random Wizard, dealing 85 Death Damage per Pip.
+*{{Icon|Aura}} ''"In my version... Xibalba hit Celestia!"'' - If a Wizard casts an Aura, Jake the Smoke Monster will cast {{Link|ItemCard|Mass Supernova}}.
+*{{Icon|Minion}} ''"Everything Old is mine now!"'' - Jake the Smoke Monster will summon a Spiderling Minion.
+*{{Icon|Minion}} ''"Behold my originality!"'' - If no Minions are left, Jake the Smoke Monster will summon another Jake the Smoke Monster (Minion).
+*{{Icon|Curse}} ''"Electromagnetism!"'' - If a Wizard casts a harmful Charm, Jake the Smoke Monster will cast a Moon version of Insane Bolt, dealing either '''550''', '''1,050''', or '''1,550''' Damage to all enemies.
+**Spells that apply harmful Charms as a secondary effect will trigger this cheat.
+*{{Icon|Damage}} ''"Boom! Morganthe is back!"'' - After an unknown number of turns, Jake the Smoke Monster will cast a version of {{Link|Spell|Death Morganthe Attack}} that deals 100% of the Wizard's Health.
+
+{{Icon|Blade}}{{Icon|Global}}{{Icon|Trap}} '''When 2 or more Wizards are present'''
+*''"Ooooh mystery!"'' - If a Wizard casts a Blade, Global, or a Trap Spell, Jake the Smoke Monster will respond with this.
+*''"I dont like themes!"'' - If another Wizard casts a second Blade Spell, Global, or Trap on the same turn:
+**Second Blade and/or Global Spell: Jake the Smoke Monster will use an Ice version of {{Link|Spell|Enfeeble}} that removes all Blades from all enemies.
+**Second Trap Spell: Jake the Smoke Monster will use a Fire version of {{Link|Spell|Cleanse Ward}} that removes all Traps from all allies.
+**Note: Both a Blade/Global and a Trap can be cast in the same turn. The cheat only triggers if two of the ''same'' hanging effects are cast.
+
+| spellnotes =
+
+| casts =
+Magnify;
+Shadowblade;
+Shadow Trap;
+Disarm (Shadow);
+Vampire (Shadow);
+Lord of Night (Shadow);
+Wraith (Shadow);
+Ominous Scarecrow (Shadow);
+Dr. Von's Monster (Shadow);
+
+| quests =
+Wha?;
+
+| gold =
+39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Dynamic Enforcer's Gavel;
+Dynamic Protector's Gavel;
+Furious Enforcer's Gavel;
+Furious Protector's Gavel;
+Just Enforcer's Gavel;
+Just Protector's Gavel;
+Legendary Enforcer's Gavel;
+Legendary Protector's Gavel;
+Morbid Enforcer's Gavel;
+Morbid Protector's Gavel;
+Steely Enforcer's Gavel;
+Steely Protector's Gavel;
+Thunderous Enforcer's Gavel;
+Thunderous Protector's Gavel;
+
+| decks =
+Dynamic Enforcer's Deck*F2*WMV;
+Dynamic Protector's Deck;
+Furious Enforcer's Deck;
+Furious Protector's Deck*F2*WMV;
+Just Enforcer's Deck;
+Just Protector's Deck;
+Legendary Enforcer's Deck;
+Legendary Protector's Deck;
+Morbid Enforcer's Deck;
+Morbid Protector's Deck;
+Steely Enforcer's Deck;
+Steely Protector's Deck*F2;
+Thunderous Enforcer's Deck*F2;
+Thunderous Protector's Deck;
+
+| items =
+
+| cards =
+Arcticzilla;
+Ashen Bones;
+Banshee (Tier 2b);
+Blood Bat (Tier 2b);
+Boreas Ifrit;
+Deadly Minotaur;
+Evil Snowman (Tier 2b)*F2;
+Fire Cat (Tier 2b);
+Fire Elf (Tier 2b);
+Frost Beetle (Tier 2b);
+Ghoul (Tier 2b);
+Imp (Tier 2b);
+Lightning Bats (Tier 2b);
+Locust Swarm (Tier 2b);
+Lord of the Squall;
+Nature's Wrath (Tier 2b);
+Nested Fury;
+Raging Bull;
+Rusalka's Wrath;
+Scarab (Tier 2b);
+Sirocco Djinni;
+Snow Serpent (Tier 2b);
+Snowball Barrage;
+Storm Shark (Tier 2b);
+Sunbird (Tier 2b);
+Thunder Snake (Tier 2b);
+Troll (Tier 2b);
+Winged Sorrow;
+Wings of Fate;
+Witch's House Call;
+
+| reagents =
+
+| spellements =
+Barbarian's Saga;
+Blast Off!;
+Bunyip's Rage;
+Count Croakula;
+Dark & Stormy;
+Deathly Depths;
+Drop Bear Fury;
+Freeze Ray;
+Glimpse of Infinity;
+Gravestorm;
+Grim Reader;
+Grrnadier*F2;
+Improbable Gaze;
+Lord of the Jungle;
+Mockenspiel*F2*WMV;
+Old One's Endgame;
+Phantasmania!;
+Rainbow Serpent*F2*WMV;
+S'more Machine;
+Scales of Destiny;
+Shatterhorn;
+Snack Attack;
+Sound of Musicology*F2*WMV;
+Starspawn;
+Tatzlewurm Terror*F2;
+Tree of Strife;
+Wobbegong Frenzy;
+Zand the Bandit;
+
+| snacks =
+
+| jewels =
+Amazing Critical Amethyst +21;
+Amazing Critical Citrine +21;
+Amazing Critical Citrine +22;
+Amazing Critical Jade +21;
+Amazing Critical Onyx +21;
+Amazing Critical Onyx +22;
+Amazing Critical Ruby +22;
+Amazing Critical Sapphire +21;
+Amazing Critical Sapphire +22;
+Amazing Damage Amethyst +31;
+Amazing Damage Citrine +31;
+Amazing Damage Citrine +32;
+Amazing Damage Jade +31;
+Amazing Damage Jade +32;
+Amazing Damage Onyx +32;
+Amazing Damage Ruby +31;
+Amazing Damage Sapphire +32;
+Flawless Critical Amethyst +24;
+Flawless Critical Citrine +23;
+Flawless Critical Jade +23;
+Flawless Critical Jade +24;
+Flawless Critical Onyx +23;
+Flawless Critical Onyx +24;
+Flawless Critical Peridot +23;
+Flawless Critical Peridot +24;
+Flawless Critical Ruby +23;
+Flawless Critical Ruby +24;
+Flawless Critical Sapphire +24;
+Flawless Damage Amethyst +33;
+Flawless Damage Jade +33;
+Flawless Damage Onyx +33;
+Flawless Damage Onyx +34;
+Flawless Damage Peridot +34;
+Flawless Damage Ruby +33;
+Flawless Damage Ruby +34;
+Flawless Damage Sapphire +33;
+Flawless Mending Opal +8%*F4;
+Polished Piercing Peridot +6%;
+Polished Piercing Ruby +6%;
+Polished Piercing Sapphire +6%;
+
+| pins =
+Balance Accurate Pin (100);
+Balance Conversion Pin (160);
+Death Accurate Pin (100);
+Death Conversion Pin (150);
+Death Conversion Pin (160)*F2*WMV;
+Fire Accurate Pin (100);
+Fire Conversion Pin (150);
+Fire Conversion Pin (160);
+Ice Accurate Pin (110);
+Ice Conversion Pin (160);
+Life Accurate Pin (100);
+Life Conversion Pin (150);
+Life Conversion Pin (160);
+Myth Accurate Pin (100);
+Myth Conversion Pin (150);
+Myth Conversion Pin (160);
+Storm Accurate Pin (80);
+Storm Conversion Pin (150);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

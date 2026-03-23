@@ -1,0 +1,227 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 585
+| crecla = Giant
+| crecla2 = Cyclops
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Storm;
+
+| incresist =
+50% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sokkwi Gouger;
+
+| world = Krokotopia
+| location = Grand Arena
+| subloc1 = Snake Gate
+| descrip =
+*Two additional Sokkwi Gougers will appear if more than two Wizards are present.
+
+| speech =
+:''"You think I will give up all the fame and glory without a fight? Ha! You don't even have the showmanship to be a star like me! Really, you are no warrior..."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+Comes from a long line of Malletmanes. That he uses a hammer in combat is just a happy coincidence.
+
+| extract class =
+Cyclops;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Natural Attack (Myth 100x, 75%);
+Snow Serpent;
+Leprechaun;
+Fire Elf;
+
+| quests =
+Malletmane;
+Hammer Time!;
+
+| gold =
+20 - 35;
+
+| hats =
+Bitter Cap;
+Blazing Helm;
+Cap of the Oasis;
+Conjurer's Hat;
+Diviner's Hat of Squalls*F3*WMV;
+Durable Hood;
+Hat of the Mirage;
+Headwrap of Annihilation;
+Helm of the Bastion;
+Rough-Hewn Hood;
+Sphinx's Circlet;
+Stout Hood;
+Thaumaturge's Cowl of Awe*F2;
+Threadbare Hood;
+
+| robes =
+Cloak of Harmony;
+Cloak of Refuge;
+Diviner's Tunic of Squalls;
+Necromancer's Ivory Cloak;
+Raiment of the Badlands*F2*WMV;
+Robe of Talent*F2;
+Rough-Hewn Robe;
+Sphinx's Vestment*F4*WMV;
+Stout Robe;
+Sturdy Robe;
+Tunic of Energy;
+Tunic of Mortality;
+Tunic of the Whirlwind;
+Vest of the Desert;
+Vest of the Oasis;
+Vestment of Darkness*F2;
+Vestment of the Arctic;
+
+| boots =
+Boots of Imagination;
+Boots of the Citadel;
+Boots of the Cyclone*F2;
+Charged Sandals*F3*WMV;
+Cryptkeeper's Shoes;
+Footwraps of the Arctic;
+Krokotopian Balance Striders;
+Krokotopian Ice Striders*F2;
+Krokotopian Storm Striders;
+Krokotopian Striders*F3;
+Quartermaster's Boots;
+Sandals of Energy;
+Sandals of Refuge;
+Sandals of Tall Tales*F2;
+Shoes of Annihilation*F2;
+Shoes of Mortality;
+Shoes of the Desert;
+
+| athames =
+Dagger of Solitude;
+Dirk of Harmony;
+Dirk of the Wasteland;
+Parched Kris*F3*WMV;
+Powerful Stiletto*F2;
+Whirlwind Dagger*F2*WMV;
+
+| amulets =
+
+| rings =
+Band of the Mirage*F2*WMV;
+Ring of the Badlands*F5;
+Sparkling Band;
+
+| wands =
+
+| decks =
+
+| items =
+Bushy Palm Tree;
+Floor Torch;
+Krok Sun Plaque*F2*WMV;
+Red Floor Torch;
+
+| cards =
+Banshee;
+Blizzard;
+Cyclops*F2*WMV;
+Evil Snowman*F2;
+Humongofrog;
+Krokotillian*F2;
+Sprite;
+Storm Shark;
+Tempest;
+
+| reagents =
+Bronze Gear;
+Copper*F4;
+Iron;
+Leather Straps*F2;
+Pyrite;
+
+| spellements =
+
+| snacks =
+Cracker*F4*WMV;
+Green Grapes*F5*WMV;
+Nettle Root*F2;
+Tiny Fish*F3;
+
+| jewels =
+Add Health Opal;
+Adroit Opal;
+Balance-It Citrine;
+Big Drain Opal;
+Chipped Health Opal +16;
+Chipped Health Opal +18*F2;
+Chipped Mana Opal +10*F2;
+Chipped PIP Opal +1%*F3;
+Cracked Accurate Onyx +2%;
+Cracked Accurate Peridot +2%;
+Cracked Accurate Sapphire +2%;
+Cracked Damage Citrine +4;
+Cracked Damage Jade +4;
+Cracked Damage Onyx +4;
+Cracked Damage Ruby +4;
+Cracked Defense Citrine +9;
+Cracked Defense Citrine +11;
+Cracked Defense Citrine +12;
+Cracked Defense Onyx +10;
+Cracked Defense Onyx +12;
+Cracked Defense Opal +4;
+Cracked Defense Peridot +10;
+Cracked Defense Peridot +12*F2;
+Cracked Defense Ruby +12;
+Cracked Defense Sapphire +9;
+Cracked Defense Sapphire +12;
+Dark Sprite Onyx;
+Dawdle Opal;
+Imp Jade;
+Thunder Snake Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Pink Dandelion*CR*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

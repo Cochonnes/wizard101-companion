@@ -1,0 +1,210 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 8,260
+| crecla = 
+| school = Balance
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical = 475
+| criticalblock = 475
+
+| outpierce =
+35%;
+
+| outboost =
+150%;
+
+| incboost =
+None;
+
+| incresist =
+70% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+
+| randomminions =
+Djinn Bandit;
+Forest Demon;
+Grimtusk Bandit;
+Moosetaur Bandit;
+Stingtail Bandit;
+Stormasaur Bandit;
+Yeti Bandit;
+
+| totalminions = 1 
+
+| world = Raid
+| location = Voracious Void
+| subloc1 = 
+| descrip =
+
+| speech =
+
+| cheatnotes =
+The Wizard can cast {{Link|Spell|Brush Fire}}, {{Link|Spell|Dismal Seraph}}, {{Link|Spell|Fabled Revenant}}, {{Link|Spell|Levin Bruin}}, {{Link|Spell|Rotting Fomori}}, and {{Link|Spell|War Oracle}} as inspired Casts during this battle.
+*At the end of every Round, Unfun Guy will cast {{Link|Spell|Power Current}} on itself.
+*Unfun Guy can cast Sprite, and a version of Donate Power that gives him 4 Power Pips.
+*''"I counter your Charms!"'' - If a Wizard uses a Blade, Unfun Guy will cast {{Link|Spell|Eye of Vigilance}}.
+*''"I counter your Damage Over Time!"'' - If a Wizard uses a Damage over Time, Unfun Guy will cast {{Link|Spell|Jinn's Fortune}} (currently bugged).
+This battle uses snake turn order (Beastmoon).
+
+| spellnotes =
+
+| casts =
+Mass Weakness;
+Weakening Mantle;
+Mass Hex;
+Balanceblade;
+Equalize;
+Loremaster;
+Obsidian Colossus;
+Hydra (Tier 5b);
+Tribunal Oni;
+Duststorm Jinn;
+Niles' Knock-Out;
+
+| quests =
+
+| dropnotes =
+All 12 Wizards in the Raid receive the drops, not just the ones within the battle.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+The Void's Balanced Athame (Level 150+);
+The Void's Deadly Athame (Level 150+);
+The Void's Fiery Athame (Level 150+);
+The Void's Frigid Athame (Level 150+);
+The Void's Lively Athame (Level 150+);
+The Void's Mythic Athame (Level 150+);
+The Void's Stormy Athame (Level 150+);
+
+| amulets =
+The Void's Balanced Totem (Level 150+);
+The Void's Deadly Totem (Level 150+);
+The Void's Fiery Totem (Level 150+);
+The Void's Frigid Totem (Level 150+);
+The Void's Lively Totem (Level 150+);
+The Void's Mythic Totem (Level 150+);
+The Void's Stormy Totem (Level 150+);
+
+| rings =
+The Void's Balanced Ring (Level 150+);
+The Void's Deadly Ring (Level 150+);
+The Void's Fiery Ring (Level 150+);
+The Void's Frigid Ring (Level 150+);
+The Void's Lively Ring (Level 150+);
+The Void's Mythic Ring (Level 150+);
+The Void's Stormy Ring (Level 150+);
+
+| wands =
+
+| decks =
+The Void's Balanced Cards (Level 150+);
+The Void's Deadly Cards (Level 150+);
+The Void's Fiery Cards (Level 150+);
+The Void's Frigid Cards (Level 150+);
+The Void's Lively Cards (Level 150+);
+The Void's Mythic Cards (Level 150+);
+The Void's Stormy Cards (Level 150+);
+
+| items =
+
+| cards =
+Azoth;
+Dual Strike 2;
+Dual Strike 3;
+Restoring Rain 1;
+Snow Serpent (Tier 2b);
+Storm Shark (Tier 2b);
+Thunder Snake (Tier 2b);
+
+| reagents =
+
+| spellements =
+Angry Snowpig;
+Banshee;
+Beary Surprise;
+Blight Hound;
+Blood Bat;
+Camp Bandit;
+Centaur;
+Cyclops;
+Dark Sprite;
+Earth Walker;
+Evil Snowman;
+Fire Cat;
+Frost Beetle;
+Gearhead Destroyer;
+Ghoul;
+Goat Monk;
+Grendel's Amends;
+Hammer of Thor;
+Helephant;
+Hydra;
+Ice Wyvern;
+Immolate;
+Imp;
+Kraken;
+Leprechaun;
+Lightning Bats;
+Locust Swarm;
+Loremaster;
+Luminous Weaver;
+Minotaur;
+Nature's Wrath;
+Ninja Piglets;
+Ninja Pigs;
+Phoenix;
+Pigsie;
+Ratatoskr's Spin;
+Samoorai;
+Scarab;
+Scorpion;
+Seraph;
+Skeletal Pirate;
+Spectral Blast;
+Splashsquatch;
+Stone Colossus;
+Storm Shark;
+Stormzilla;
+Sunbird;
+Thunder Snake;
+Troll;
+Vampire;
+Wraith;
+
+| snacks =
+
+| jewels =
+Amazing Blocking Sapphire +21;
+Amazing Defense Onyx +61;
+Amazing Defense Sapphire +64;
+Amazing Health Opal +140;
+Amazing Mana Opal +60;
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

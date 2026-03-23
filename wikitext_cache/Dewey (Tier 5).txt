@@ -1,0 +1,183 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 5,270
+| crecla = Crab
+| school = Death
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+4%;
+
+| outboost =
+50%;
+
+| incboost =
+15% Life;
+
+| incresist =
+50% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+Luminous Troglodyte (Tier 5);
+Luminous Troglodyte (Tier 5);
+
+| world = Housing Instance
+| location = Fantastic Voyage Expedition
+| subloc1 = Fantastic Voyage Expedition (Tier 5)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tisk tisk, you'll have to pay the late fees!"'' - If a Wizard joins the duel after it has already started, Dewey will cast a Sun version of {{Link|Spell|Mana Burn}} that deals no Damage at the wizard removing 3 pips.
+*{{Icon|Damage over Time}} ''"I have to do everything around here!"'' - If a DoT (Damage over Time) Spell is used, Dewey will cast {{Link|Spell|Mass Triage}}.
+*{{Icon|Blade}}{{Icon|Global}} ''"Defend the Sanctuary!"'' - If a Damage Charm Blade or Damage Global is cast, Dewey will cast Tower Shield on himself.
+:*''"I'm sick of all this noise!"'' - If a second Blade is cast, Dewey will cast Plague.
+::*''"Fight, or no dinner for you!"'' - If a third Blade is cast, Dewey will cast Legion Shield.
+:::*''"Maybe this will quiet you down..."'' - If a fourth Blade is cast, Dewey will cast Virulent Plague.
+::::* Cheat recycles after this line.
+*{{Icon|Damage}} ''"This racket will not be tolerated!"'' - After an attack, Dewey will cast a matching Shield based on the School Damage, on the ally of his that was hit.
+:*If an AoE Spell is used, he will state this line three times, casting a Shield one after another on each ally.
+:*For Balance Damage, he will cast Tower Shield.
+:*For Multi-attacks, he will cast the corresponding Shield for every hit.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Death Damage.
+
+| casts =
+Death Shield;
+Dream Shield;
+Fire Shield;
+Life Shield;
+Myth Shield;
+Storm Shield;
+Tower Shield;
+Legion Shield;
+Plague;
+Mass Infection;
+Virulent Plague;
+Deathblade;
+Feint;
+Deer Knight;
+Wraith;
+Scarecrow;
+Dr. Von's Monster;
+
+| quests =
+Fantastic Voyage of Discovery;
+
+| gold =
+522 - 704;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Azteca Palm Tree*F2;
+Broken Palm Tree;
+Bushy Palm Tree*F2*WMV;
+Cephalopod Obelisk*F3;
+Clam Chair;
+Coconut Drink;
+Crab Table;
+Curving Palm Tree*F2;
+Fish Basket*F2*WMV;
+Fish Drying Rack;
+Fish Pot;
+Fishbones;
+Giant Crab;
+Lava Bulb;
+Leaning Palm Tree;
+Outrigger Paddles;
+Palm Shrub*CR;
+Potted Palm;
+Shell Shield;
+Spiral Crab Table;
+Spread Tube Coral;
+Tall Palm Tree*CR;
+Water-Mole Plate*F2;
+Water-Mole Spear*F2;
+
+| cards =
+Accurate*F3;
+Dream Shield*F2*WMV;
+Ether Shield*F2*WMV;
+Giant*F2;
+Glacial Shield*F3;
+Keen Eyes*F2;
+Legend Shield*F2;
+Strong*F3;
+Thermic Shield*F3*WMV;
+Volcanic Shield*F3;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Big Papa Paya*F2;
+Candlenut;
+Crab Apples;
+Crab Knight Cakes;
+Guava;
+Kahuna Tuna*F2;
+Large Fish;
+Lava Guava*F3;
+Loco Nut;
+Medium Fish*F2*WMV;
+Papaya*F2;
+Pineapple Spears*F2;
+Salty Fish;
+Sandy Corn;
+Tiki Tea;
+Wiki Peas;
+Winged Bean*F2;
+
+| jewels =
+
+| pins =
+
+| pets =
+Frosty Fish*F2;
+Sun Bird;
+Tiki Kahuna*CR;
+
+| seeds =
+Boiled Peanuts;
+Key Limes*CR;
+
+| mounts =
+Hippogriff*PERM*CR;
+
+| spells =
+
+}}

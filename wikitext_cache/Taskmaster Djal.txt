@@ -1,0 +1,252 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 800
+| crecla = Krokotopian
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth;
+
+| incresist =
+60% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Karanahn Barracks
+| subloc1 = Lair of Taskmaster Djal
+| descrip =
+Taskmaster Djal is the Krok in charge of the enslavement of the Manders in the Karanahn Barracks.  Wizards are sent by {{Link|NPC|Salid K'fur}} to face him during the Quest "The Betrayer".  Wizards can place a sleep potion obtained from the [[Quest:The Awakening|prior Quest]] to poison Djal's guards' food, located behind {{Link|Creature|Kiwu}}, so that he may be fought alone; if his guards' food remains unpoisoned, then there will be 4 {{Link|Creature|Karanahn Elite Guard}} minions present to assist him.
+
+| speech =
+(Activated only if Kiwu's table is not interacted with)
+:'''Narrator:''' ''"You have yet to put the sleep potion in the food that the mander trader supplies. The taskmaster's guards are still strong enough to fight."''
+
+(Activated only if Kiwu's table is interacted with)
+:''"Where are my guards? I'll bet you had something to do with this. You will pay for your meddling, wizard!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 125 Storm Damage per Pip.
+
+| casts =
+Weakness;
+Stormblade;
+Thunder Snake;
+Storm Elf (30+210);
+Lightning Bats;
+Evil Snowman (Storm);
+Storm Shark;
+Squall Wyvern;
+Leprechaun;
+Cyclops;
+
+| quests =
+The Betrayer;
+
+| gold =
+21 - 33;
+
+| hats =
+Bitter Cap;
+Cap of Burning Sands*F3*WMV;
+Cowl of Alacrity*F4;
+Cowl of Sensibility*F4*WMV;
+Cowl of Summertime*F5*WMV;
+Cryptkeeper's Circlet*F2;
+Destructive Cowl*F3;
+Diviner's Hat of Squalls;
+Djal's Flowering Circlet*F3;
+Djal's Hood of Darkness*F3*WMV;
+Helm of the Citadel;
+Krokotopian Balance Modius*F3;
+Krokotopian Death Modius*F2;
+Krokotopian Ice Modius*F2;
+Krokotopian Life Modius*F3;
+Krokotopian Modius*F14;
+Krokotopian Myth Modius;
+Krokotopian Storm Modius*F3;
+Rough-Hewn Hood*F2;
+Taskmaster's Parched Cap*F3;
+Theurge's Hat;
+Threadbare Hood;
+
+| robes =
+Cloak of Humility*F2*WMV;
+Djal's Scorching Cloak*F3*WMV;
+Dusty Robe;
+Maker's Vestment*F4;
+Powerful Vestment;
+Quixotic Robes*F2;
+Robe of the Bastion*F5*WMV;
+Robe of the Mirage*F2;
+Sphinx's Vestment*F2;
+Sturdy Robe;
+Taskmaster's Polar Cloak*F3*WMV;
+Theurge's Brown Cloak;
+Vest of the Oasis;
+Vestment of Darkness*F2;
+Vestment of Ignition;
+
+| boots =
+Biti Nirini's Torrid Boots;
+Boots of Talent;
+Boots of the Whirlwind;
+Djal's Boots of Ruination*F4;
+Flowering Shoes;
+Footwraps of the Arctic;
+Hardy Boots;
+Overseer's Shoes;
+Powerful Boots;
+Runed Boots;
+Sandals of Darkness;
+Sandals of Energy;
+Sandals of Ignition;
+Sandals of Refuge*F3;
+Shoes of Mortality*F2;
+Slippers of the Oasis*F2;
+Taskmaster's Footwraps*F2;
+
+| athames =
+Dagger of Dissolution*F3*WMV;
+Dirk of Harmony*F3;
+Glacial Dagger*F3;
+Parched Kris;
+Stiletto of Ignition*F4*WMV;
+Whirlwind Dagger;
+
+| amulets =
+
+| rings =
+Band of Equilibrium;
+Band of the Oasis*F3*WMV;
+Band of the Skies*F2;
+Flowering Band;
+Jewel of Obliteration;
+Loop of Quietude*F2;
+Loop of the Defender;
+Ring of the Badlands;
+Signet of Ancients*F3*WMV;
+Sparkling Band*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Hieroglyphic Ice Tablet;
+Krok Moon Plaque*F2;
+Potted Palm*F2;
+Purple Krok Bust*F2;
+Purple Urn;
+Tall Palm Tree*CR*F2*WMV;
+Turkey Platter*CR*F3*WMV;
+Wrapped Long Bench;
+
+| cards =
+Blizzard;
+Dryad;
+Fire Trap;
+Krokotillian*F3*WMV;
+Sniper;
+Sprite;
+Storm Shark;
+Storm Trap;
+Sunbird*F2;
+Tempest;
+Vampire;
+
+| reagents =
+Bone*F4;
+Brass;
+Copper;
+Iron;
+Lead*F5;
+Nickel;
+Pyrite;
+Tin*F3;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn*F2;
+Cracker*F6;
+Green Grapes*F9*WMV;
+Nettle Root*F11*WMV;
+Redskin Peanut;
+Square Watermelon;
+Stinky Cheese*F2;
+Tiny Fish*F9*WMV;
+Wheat Cracker;
+
+| jewels =
+Balance-Off Citrine;
+Big Boost Opal;
+Big Energy Opal;
+Chipped Accurate Citrine +3%;
+Chipped Accurate Onyx +3%;
+Chipped Damage Opal +4;
+Chipped Defense Amethyst +13;
+Chipped Defense Citrine +13;
+Chipped Defense Jade +13;
+Chipped Defense Onyx +13;
+Chipped Defense Peridot +13;
+Chipped Mana Opal +11;
+Chipped Mana Opal +12;
+Cracked Damage Amethyst +5;
+Cracked Damage Citrine +5*F3;
+Cracked Damage Jade +5*F2;
+Cracked Damage Onyx +5;
+Cracked Damage Opal +2;
+Cracked Damage Peridot +5;
+Cracked Damage Sapphire +5;
+Cracked Defense Opal +5;
+Cracked Defense Sapphire +11;
+Fire Elf Ruby;
+Fire-Giver Ruby;
+Fire-Shot Ruby;
+Ghoul Onyx;
+Glacial Shield Ruby;
+Gold Miner Opal;
+Huge Energy Opal;
+Ice-Proof Sapphire;
+Leech Opal;
+Leprechaun Jade;
+Life-Giver Jade;
+Life-Proof Jade;
+Mute Opal;
+Myth-Shot Peridot;
+Pip O'Plenty Opal;
+Snow Serpent Sapphire;
+Ultra Energy Opal;
+Volcanic Shield Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F5;
+Pink Dandelion*CR*F11*WMV;
+
+| mounts =
+
+| spells =
+
+}}

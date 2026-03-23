@@ -1,0 +1,100 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 2,905
+| crecla = Giant
+| school = Life
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Grizzleheim
+| location = Nastrond
+| subloc1 = Jotengard
+| descrip =
+For the purpose of drops, Vestri is considered a Minion to {{Link|Creature|Nordri}}.  All drops, cheats, and speech are recorded on that page.
+
+| speech =
+
+| cheatnotes =
+*"Wrong brother! I'm it!" - Casting Spells at a Boss without the Stun Shield will trigger Vestri casting Rebirth for 750 Healing, without the Absorb.
+
+| spellnotes =
+
+| casts =
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Nature's Wrath;
+Life Banshee (250);
+Seraph;
+Centaur;
+Natural Attack (Ice 85x, 80%);
+
+| quests =
+Rune With a View;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

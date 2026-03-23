@@ -1,0 +1,152 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 12,330
+| crecla = Frog
+| school = Star
+| school2 = Storm
+| cheats = Yes
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| critical =
+583 Any;
+
+| criticalblock =
+435 Any;
+
+| outpierce =
+29%;
+
+| outboost =
+121%;
+
+| incboost =
+30% Myth;
+
+| incresist =
+24% Fire, Ice, Life, Death, Balance, Shadow;
+54% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Arcane Toad (Star-Storm, Standard);
+
+| world = Wallaru
+| location = Wobbegong Territory
+| subloc1 = Bunyip Warrens
+| location2 = The Dreaming
+| subloc2 = Freddie's Domain (Standard)
+| descrip =
+Arcane Toad (Star-Storm) is encountered multiple times throughout the Wallaru storyline:
+*In Bunyip Warrens, Arcane Toad (Star-Storm) is considered a Boss.  All drops are recorded on this page.
+*In Freddie's Domain, Arcane Toad (Star-Storm) is considered a Minion to [[Creature:Freddie Kroaker (Standard)|Freddie Kroaker]].  All drops are recorded on that page.
+
+| speech =
+:'''{{Link|NPC|Freddie Kroaker}}:''' ''"This won't do. I'm not all here. Need more water maybe?"''
+:'''{{Link|NPC|Judge Veg}}:''' ''"Freddie?"''
+:'''Freddie Kroaker:''' ''"Oh, hey, Judge. Find yourself yet?"''
+:'''Judge Veg:''' ''"Working on it."''
+:'''Freddie Kroaker:''' ''"I found myself. Right here. The Dreamer speaks to me, you know, gives me its power, its mastery, its will."''
+:'''Judge Veg:''' ''"Uh-huh."''
+:'''Freddie Kroaker:''' ''"Let us show you what we can create!"''
+
+| cheatnotes =
+When this battle begins, one Arcane Toad will control the cheats.
+*{{Icon|Damage}} ''"One, two, Freddie's not done with you!"'' - If that Arcane Toad is targeted, or an All Enemies Spell is cast, it will give all Wizards a Living Nightmare card:
+**{{GivesSpell|size = x150px|Living Nightmare}}
+
+| spellnotes =
+
+| casts =
+Brace;
+Star Shield;
+Balanceblade;
+Wild Bolt (Star);
+Loremaster (Star);
+Wraith (Star);
+Colossus (Star);
+Chimera (Star);
+Wrath of Zeus (Star);
+Iron Sultan;
+Glowbug Squall;
+King Artorius (Storm);
+
+| quests =
+Smoothie Operator;
+What Dreams May Bun;
+
+| gold =
+3 - 16;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Resort Chair*CR*F41;
+
+| cards =
+Basilisk;
+Efreet;
+Gnomes!;
+Lord of Winter;
+Medusa;
+Mythblade;
+Sabertooth;
+Sirens;
+Skeletal Dragon;
+Storm Owl;
+Woolly Mammoth;
+
+| reagents =
+Amber Dust;
+Astral Shard;
+Draconium;
+Ectoplasm;
+Iron;
+Platinum;
+Toffee Bean;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Atomic Fireball;
+Baby Carrot;
+Dr. Jalapeno;
+Kiwi Fruit;
+
+| jewels =
+
+| pins =
+
+| pets =
+Mischievous Devil*F3;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Arcane Toad
+
+}}

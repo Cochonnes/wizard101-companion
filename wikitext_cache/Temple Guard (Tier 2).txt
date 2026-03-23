@@ -1,0 +1,85 @@
+{{Test|feb26}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 12,000
+| crecla = Calaca
+| crecla2 = Dino
+| crecla3 = Undead
+| school = Myth
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Hidden Temple Gauntlet
+| subloc1 = 
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

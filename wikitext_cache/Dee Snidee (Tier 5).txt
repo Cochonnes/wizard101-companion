@@ -1,0 +1,149 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 3,840
+| crecla = Giant
+| school = Fire
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Twisted Kin (Tier 5);
+Twisted Kin (Tier 5);
+Twisted Kin (Tier 5);
+
+| world = Housing Instance
+| location = Baddle of the Bands
+| subloc1 = Baddle of the Bands (Tier 5)
+| descrip =
+
+| speech =
+:''"A challenger for the crown of rock? Meet the bad boys of rock'n'roll. You're so condescending, and your gall is never ending. If that's your best, Wizard, your best won't do. We're not gonna take it! Are you listening to me, Wizard? What do you want to do with your life!?"''
+
+| spellnotes =
+
+| casts =
+Furnace;
+Vengeance;
+Firespear;
+Fireblade;
+Fire Trap;
+Backdraft;
+Natural Attack (Fire 120-235-350);
+Scald;
+Fire Dragon;
+Lord of Blazes;
+Rain of Fire;
+
+| quests =
+Baddle of the Bands;
+
+| gold =
+139 - 158;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Burnt Book;
+Dragonspyre Gate*F2;
+Jagged Rock Shard;
+Magma-Filled Fountain;
+Medium Column;
+Memorial Fountain;
+Thunder Plaque;
+Wall Chains;
+
+| cards =
+Monstrous;
+Vengeance;
+
+| reagents =
+Acorn;
+Brass;
+Bronze;
+Cobalt;
+Deep Mushroom*F2;
+Diamond*F2;
+Fire Blossom*F2;
+Fossil;
+Lava Lily*F2;
+Mist Wood;
+Nickel;
+Nightshade*F2;
+Ore;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Glowing Star Fruit;
+Salmonberry;
+Shiny Tomato*F2;
+Uni-Corn;
+
+| jewels =
+Accurate Talent Opal;
+Clear Critical Peridot +9;
+Clear Critical Sapphire +9;
+Clear Damage Amethyst +19;
+Clear Damage Sapphire +19;
+Detonate Ruby;
+Fire Elemental Opal;
+Opaque Accurate Jade +8%;
+Opaque Accurate Onyx +8%;
+Opaque Blocking Opal +4;
+Opaque Critical Opal +4;
+Opaque Defense Citrine +35;
+Opaque Defense Sapphire +35;
+Opaque Mending Opal +4%;
+Opaque Piercing Jade +4%;
+Opaque Piercing Peridot +4%;
+Opaque Piercing Ruby +4%;
+Snow Drift Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+Ninja Fig*CR;
+Sunion*CR*F2;
+
+| mounts =
+
+| spells =
+
+}}

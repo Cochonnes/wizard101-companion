@@ -1,0 +1,345 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 20,450
+| crecla = Undead
+| school = Death
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+Immune;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Grim Calaca;
+Xipe Flayed One;
+Youala Night Drinker;
+
+| world = Azteca
+| location = Xibalba
+| subloc1 = 
+| descrip =
+:''For the {{link|Location|Castle Darkmoor}} version of this creature, see {{link|Creature|Malistaire the Undying (Shadow)}}.
+Malistaire the Undying is {{Link|NPC|Morganthe}}'s {{Link|NPC|Dark Servant}}, after being resurrected by the Umbra Queen to help her finish her plans. He is the final Boss of Xibalba in the Azteca storyline.
+*Malistaire the Undying is immune to all Damage. Piercing cannot overcome the Resist.
+
+| speech =
+:''"Young Wizard, I had nearly forgotten how much I despise you. Now that I lay eyes upon you again, my fury is a black hole of rage, swallowing the light of a thousand dying suns."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Resurrected by Morganthe, Malistaire the Undying serves as her dark servant and is nearly impossible to defeat!
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Afterlife}} Malistaire the Undying will defeat himself the Round after all his Minions are defeated.
+
+| spellnotes =
+*This Boss uses a '''+75%/+25%''' version of {{Link|Spell|Feint}}.
+
+| casts =
+Amplify;
+Infallible;
+Vengeance;
+Virulent Plague;
+Mass Infection (-65%);
+Deathblade (+45%);
+Curse (+25%);
+Feint (+75%);
+Deer Knight;
+Natural Attack (Death 225-450-675);
+Poison (45+450);
+Scarecrow;
+Skeletal Dragon;
+Dr. Von's Monster;
+Avenging Fossil;
+
+| quests =
+This Is the Way the World Ends;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge and has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge, the following drops will be available:
+*20 Spellements will drop each time from '''any''' School for their respective rank 6-10 Spells.
+
+| gold =
+279 - 320;
+
+| hats =
+Boo Pumpkin Mask*CR*HOL;
+Coatl Lord's Hat;
+Dawn Hour Mantle*F2;
+Elite Jura Guard Helm;
+Five Fangs of Fury Headdress*F2*WMV;
+Indigo Wing Crown;
+Mantle of the Last Codex*F4*WMV;
+Sweet Kiss of Death Mask;
+Thirteen Death Mask*F5*WMV;
+Tree of Secrets Chac Mask*F2;
+Twisted Fang Mask*F3;
+
+| robes =
+Black Sun Chac's Armor*F2*WMV;
+Grinning Death Xicolli Vest*F3*WMV;
+Keeper of the Codex Vest;
+Lord of Night Robes;
+Night Caiman's Gaunt Robes*F2*WMV;
+Philososaur's Robes;
+Vestment of the Calavera;
+Vestment of the Hungry Lizard;
+White Fire Chac's Armor*F3*WMV;
+
+| boots =
+Black Tears of Night Wraps*F3*WMV;
+Elite Jura Guard Stalkers*F2*WMV;
+Five Fangs of Fury Boots*F2;
+Heart of Sky Boots*F2*WMV;
+Night Caiman's Tomb Wraps*F3*WMV;
+Tree of Secrets Chac Runners;
+Twisted Fang Boots;
+
+| athames =
+Bleeding Sun Dagger;
+Moon Skull's Blessed Edge*F2;
+Mother's New Moon Athame*F4*WMV;
+Seven Stabs of the Sky Athame*F3;
+Tears of Mother Moon Blade;
+Thunder Horn's Rough Cutter;
+Wild Wing's Glorious Razor*F2;
+Winged Tooth Knight's Hook*F2;
+
+| amulets =
+Charm of the Gold Aztecosaur;
+Golden Head of the Cold House*F2*WMV;
+Home Hearth Relic;
+Horizon of Underworld Charm;
+House of Plague Greenstone;
+Judgement of Pitch Black Lake*F3;
+Pendant of the Wild Wings;
+Speaking Water Ornament;
+Stone of the Green Skycarrier;
+Thunder Horn's Coral Charm;
+
+| rings =
+Acampi Reedfist's Lost Seal*F3*WMV;
+Bleeding Sun Warrior's Loop*F5*WMV;
+Falling Star's End Time Band;
+Lords of Night Challenge Ring*F4*WMV;
+Mother Moon's Count Ring*F2;
+
+| wands =
+Arrow of the Hungry Dead*F2;
+Eclipse Spear of Azteca;
+Gingerbread Runner's Wand*CR*HOL;
+Lance of Night Fire;
+New Moon Lance*F2;
+Spear of Breaking Dawn*F2;
+Spring Fledgling Baton;
+Talon of the Storm Owl;
+Tears of Night Lance*F2*WMV;
+Winter Lord's Obsidian Shard*F3;
+
+| decks =
+Calendar of the Spiral King*F3;
+Cipactli's Lost Cards*F2;
+Codex of the Lost Fire;
+Cold Codex*F5*WMV;
+Deck of the Jaguar Spirit*F2*WMV;
+King's Royal Portraits*F3*WMV;
+Lords of Night Pyramid Deck*F3*WMV;
+Storm Sun Gallery;
+Winter's Pyramid Deck*F3;
+
+| items =
+Azteca Apocalypse Theme*F2;
+Azteca Dungeon Theme*F2*WMV;
+Azteca Mountain Theme*F2;
+Azteca Post Apocalypse Theme;
+Bird Head Mount;
+Earth Codex;
+Magic Orb;
+Master's Socket Wrench;
+Meowiarty Archmage Duel*CR;
+Meowiarty Exalted Duel*F2*CR;
+Rattlebones Exalted Duel*F2*CR;
+Star Clothesline*F2;
+Starburst Frond*F2;
+
+| cards =
+Azoth;
+Basilisk;
+Chastisement*F2*WMV;
+Chimera*F2;
+Colossal*F5;
+Cycle of Life;
+Dr. Von's Monster;
+Extraordinary*F4*WMV;
+Furnace*F4*WMV;
+Galvanic Field*F3*WMV;
+Gnomes!*F2*WMV;
+Lord of Night*F3*WMV;
+Medusa;
+Polymorph Icehorn;
+Polymorph Jaguar*F4*WMV;
+Polymorph Pteranodon*F2*WMV;
+Potent Trap*F2*WMV;
+Primordial*F3*WMV;
+Punishment;
+Rain of Fire*F3;
+Reliquary*F2;
+Sharpened Blade*F2*WMV;
+Sirens;
+Sleet Storm;
+Virulence*F3*WMV;
+Woolly Mammoth*F2;
+
+| reagents =
+Amber Dust*F6*WMV;
+Black Lotus*F3*WMV;
+Black Pearl;
+Blood Moss*F3;
+Bone*F7*WMV;
+Bronze*F2*WMV;
+Bronze Gear*F8*WMV;
+Deep Mushroom*F4*WMV;
+Fire Blossom*F4*WMV;
+Fossil*F2;
+Golden Pearl*F3*WMV;
+Lava Lily*F5*WMV;
+Merle's Whisker*F2*WMV;
+Mist Wood*F5*WMV;
+Mithril*F2*WMV;
+Nightshade*F3*WMV;
+Ore*F7*WMV;
+Red Mandrake*F6*WMV;
+Silver*F5*WMV;
+Steel*F4*WMV;
+Stone Block*F5*WMV;
+Sunstone*F2;
+Titanium*F4*WMV;
+Tungsten; 
+Turquoise*F7*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Centaur*BR;
+Chimera*BR;
+Colossus*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+Helephant*BR;
+Hydra*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*F2*BR*WMV;
+Orthrus*BR;
+Power Nova*F2*BR*WMV;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*F2*BR*WMV;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Stone Colossus*F2*BR*WMV;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Triton*F2*BR*WMV;
+Woolly Mammoth*BR;
+Wraith*BR;
+
+| snacks =
+Allocados*F3*WMV;
+Bedrock Bonbons*F4*WMV;
+Cacao Beans*F2*WMV;
+Cactus Fruit*F3;
+Flapjacks;
+Fried Ice Cream*F3*WMV;
+Glowing Star Fruit*F2;
+Guava;
+Gummy Wyrms;
+Jelly Baby;
+Papaya; 
+Quetzal Pretzel*F2;
+Saber-Tooth Cider*F3*WMV;
+Saursa*F2*WMV;
+Tenochti-Flan*F4*WMV;
+Tortilla Chips;
+Zocalo Wings*F6*WMV;
+
+| jewels =
+Blade of Fire Ruby;
+Blizzard Lizard Sapphire*F2;
+Button Tom Peridot;
+Clear Defense Hematite +40;
+Draw Health Sapphire;
+Golem Minion Peridot;
+Polished Accurate Ruby +10%;
+Polished Critical Peridot +11*F2;
+Polished Damage Citrine +21;
+Polished Damage Ruby +21;
+Polished Health Opal +89;
+Time Skip Sapphire;
+Vengeance Talent Opal;
+Wisp Bonus Opal;
+
+| pins =
+
+| pets =
+Cupig*CR*HOL;
+Valentine Pig*CR*HOL;
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears;
+Deadly Fly Trap;
+Deadly Ninja Fig*F2;
+Fish on a Vine;
+Silver Trumpet Vine *CR;
+White Laugh-O-Dil;
+
+| mounts =
+Stormrider Hare*PERM*CR*HOL;
+
+| spells =
+
+}}

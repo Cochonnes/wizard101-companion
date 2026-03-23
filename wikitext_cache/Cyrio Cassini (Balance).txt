@@ -1,0 +1,118 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 13,200
+| crecla = Unicorn
+| school = Balance
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+40% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Arcanum
+| location = The Arcanum
+| subloc1 = Arbiter's Arena
+| descrip =
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Balance Damage.
+
+| casts =
+Black Mantle;
+Balanceblade;
+Hex;
+Loremaster;
+Savage Paw;
+Judgement;
+Shift Thornpaw;
+
+| quests =
+Nested Fury;
+
+| gold =
+52 - 92;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Arcanum Theme;
+Polaris Baba Yaga Theme;
+Polaris Frozen Combat Theme;
+Polaris Gulag Theme;
+Polaris Ice Block Theme;
+Small Pot;
+
+| cards =
+Combustion;
+
+| reagents =
+Aether;
+Aquamarine;
+Fire Blossom;
+Silver;
+Steel*F2;
+Sunstone;
+Tungsten;
+Vine;
+
+| spellements =
+
+| snacks =
+Hot Cross Buns;
+Polaris Fries;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Cornbread Fruit Bush;
+Goose Tree;
+Moon Flower;
+Queen Crape Myrtle*F2;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

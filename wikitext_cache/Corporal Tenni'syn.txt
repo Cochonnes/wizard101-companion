@@ -1,0 +1,343 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 64,000
+| crecla = Alphoi
+| school = Storm
+| cheats = Yes
+| shadowslots = 7
+| startpips = 3
+| powerpips = Yes
+| critical =
+197 Any;
+
+| criticalblock =
+93 Any;
+
+| outpierce =
+30%;
+
+| outboost =
+125%;
+
+| incboost =
+5% Myth;
+
+| incresist =
+60% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Empyrea
+| location = Zanadu
+| subloc1 = Corporal Tenni'syn Stone Key Room
+| badge = Winned Against Ten... ni'syn
+| descrip =
+Corporal Tenni'syn is a Boss located in Zanadu Sewers, which requires a {{Link|House|Stone Skeleton Key}} to access.
+
+| speech =
+:"''Who is this?  Who sent you?  That fiend Electryk sent you, didn't he?  DIDN'T HE?!?  Electryk, he took all the glory that was mine - MINE!  I will do whatever it takes to win my rightful place as general of the Light Brigade - my military genius will not be denied!  The minions of Shadow will win me the respect I deserve.  But my bold plan is not yet ready - I cannot let you tip my hand too early!  Into the valley of Death, young Wizard, you've blundered.  Yours is not to reason why, yours is but to lose and die!''"
+
+| cheatnotes =
+{{Icon|Late}} ''"Reinforcements? HA! You're late!"'' - If a Wizard joins the duel after the second Round, then Tenni'syn will interrupt-cast his natural attack on the Wizard.
+*{{Icon|Pip}} At the end of every Round, Tenni'syn will gain a number of additional power pips that is equal to the number of Wizards that is present in the duel minus one.
+*{{Icon|Shadow Pip}} ''"Into the jaws of Death with you!"'' - Tenni'syn will say this at the beginning of the Round that he gains his seventh Shadow pip to cast Lord of the Squall (Shadow).
+
+{{Icon|Dispel}} '''Dispel Cycle:'''
+*''"Ah, clever! Don't do that again"'' - When the first Dispel is cast on Tenni'syn, he uses {{Link|Spell|Cleanse Charm (Shadow)}}.
+*''"Oh no - I'm ready for you this time!"'' - When the second Dispel is cast on Tenni'syn, he uses Cleanse Charm (Shadow).
+*''"I'm warning you! No more!"'' - When the third Dispel is cast on Tenni'syn, he uses  Cleanse Charm (Shadow).
+*''"You can't hurt me - you've made me stronger!"'' - When the fourth Dispel is cast on Tenni'syn, he uses Cleanse Charm (Shadow) and {{Link|Spell|Healing Current}} on himself.
+**''"Volley and thunder! Shatter and sunder!"''' - After the cheat above triggers, he'll cast Cleanse Charm (Shadow), cast his Natural Attack then proceed with the cheat below.
+**''"Lightning from the left of you! Lightning from the right!"'' - After casting his Natural Attack, Tenni'syn will repeatedly cast Wild Bolt on random Wizards up to seven times.
+
+{{Icon|Feint}} '''Feint Cycle:'''
+*''"Ah, clever! Don't do that again"'' - Tenni'syn will say this when the first Feint per Round is cast on him.
+**{{Link|Spell|Mass Feint}} will trigger this cheat
+**Balance Feint will '''not''' trigger this cheat
+
+*''"Oh no - I'm ready for you this time!"'' - For every second Feint per Round that is cast on Tenni'syn, he will cast a Shadow version of {{Link|Spell|Cleanse Ward (-2)}} on himself removing 2 Traps.
+
+*{{Icon|Damage over Time}} ''"You can't hurt me - you've made me stronger!"'' - When a Damage over Time is used after a Feint is cast on him on the same turn, then Tenni'syn will interrupt-cast a {{Link|Spell|Windstorm}}, a Supercharge (+12%), a '''+12%''' version of Stormspear, and a version of {{Link|Spell|Storm Hound (150)}} that attacks all Wizards, followed up by {{Link|Spell|Shift}} on a random Wizard and {{Link|Spell|Incindiate}} on all Wizards then use Cleanse Ward (Shadow, -All) on himself to remove all Traps.
+
+*{{Icon|Round}} ''"Time to finish this!"'' - Every four Rounds, Tenni'syn will use his ''Natural Attack'' dealing Storm Damage.
+**''"Lightning from the left of you! Lightning from the right!"'' - After casting his Natural Attack, Tenni'syn will repeatedly cast Wild Bolt on random Wizards up to seven times.
+**If Tenni'syn is damaged on the Round before this cheat occurs, he will use Wild Bolt for every trap that was consumed when he was damaged.
+
+| spellnotes =
+*Casts a protected Stormblade.
+*Casts both a protected and unprotected Reaperblade (Storm-Shadow).
+*Casts both a protected and unprotected Windstorm (+25%).
+*Casts Lord of the Squall (Shadow) that removes all Charms, Wards, Pips, and Shadow Pips from all Wizards.
+*Casts a Shadow Cleanse Ward that removes all negative Wards.
+'''Natural Attack:'''
+*Deals an unknown quantity of Storm Damage.
+
+| casts =
+Myth Shield (-85%);
+Stormspear (+10%);
+Stormblade (+30%);
+Supercharge (+12%);
+Reaperblade (Storm-Shadow);
+Mass Storm Prism;
+Windstorm (+25%);
+Enfeeble (2 Pip);
+Cleanse Ward (Shadow, -All);
+Insane Bolt;
+Wild Bolt;
+Catch of the Day;
+Iron Sultan;
+Storm Cat;
+Berzerk Kraken;
+Cloud Demon;
+Stormzilla (755-835);
+Gloambugs!;
+Triton (920-1,000);
+Rusalka's Flood;
+Storm Lord (775);
+Storm Dragon;
+Leviathan (1,150);
+Sirens (965);
+Storm Owl;
+Tempest (85);
+Lord of the Squall (Shadow);
+
+| quests =
+
+| gold =
+5,605 - 10,831;
+
+| hats =
+Comfort Zone Hat (Level 120+)*CR*F4;
+Conical of Fire Light;
+Conical of Refraction*F4;
+Conical of the Brief Candle*F2*WMV;
+Heat Lightning Conical;
+Interstellar Delegate's Helm;
+Interstellar Engineer Helm;
+Interstellar Explorer's Helm;
+Interstellar Hero's Helm;
+Interstellar Navigator Helm*F2;
+Interstellar Officer's Helm*F6;
+Interstellar Warrior Helm*F2;
+Leisure Dome Cap (Level 120+)*CR*F3;
+Leisure Dome Topper (Level 120+)*CR;
+Medic's Interstellar Helm*F3*WMV;
+Spark of Life Conical*F4;
+Twilight Conical*F2;
+Will-O'-The-Wisp Conical*F3;
+
+| robes =
+Armor of the Light Brigade*F6*WMV;
+Baleful Light Brigade Armor*F3*WMV;
+Cape of Fire Light*F2;
+Cape of Refraction*F3;
+Cape of the Brief Candle;
+Charged Light Brigade Armor*F2;
+Comfort Zone Leisure Suit (Level 120+)*CR*F3;
+Frosty Light Brigade Armor*F3*WMV;
+Heat Lightning Robes*F2;
+Leisure Dome Suit (Level 120+)*CR*F2;
+Ornate Light Brigade Armor*F5;
+Quixotic Light Brigade Armor;
+Radiant Light Brigade Armor;
+Spark of Life Cape*F2;
+Twilight Cape;
+Virtuous Light Brigade Armor*F2;
+Will-O'-The-Wisp Cape*F3;
+
+| boots =
+Boots of Fire Light;
+Boots of Refraction*F2;
+Boots of the Brief Candle*F2;
+Comfort Zone Stompers (Level 120+)*CR*F4*WMV;
+Heat Lightning Boots*F2;
+Leisure Dome Dancing Shoes (Level 120+)*CR*F2;
+Leisure Dome Steppers (Level 120+)*CR;
+Spark of Life Boots*F5;
+Twilight Boots*F2;
+Will-O'-The-Wisp Boots*F3;
+
+| athames =
+Interstellar Engineer's Knife;
+Interstellar Explorer's Knife;
+Interstellar Hero's Knife;
+Interstellar Medic's Scalpel*F2;
+Interstellar Navigator's Knife;
+Interstellar Officer's Knife*F2*WMV;
+Interstellar Warrior's Knife;
+
+| amulets =
+Interstellar Delegate's Charm;
+Interstellar Engineer's Charm;
+Interstellar Explorer's Charm*F2;
+Interstellar Medic's Charm*F4;
+Interstellar Navigator's Charm;
+Interstellar Officer's Charm*F2*WMV;
+Interstellar Warrior's Charm;
+
+| rings =
+Interstellar Delegate's Band*F2;
+Interstellar Engineer's Band;
+Interstellar Explorer's Band;
+Interstellar Hero's Band;
+Interstellar Medic's Band*F3;
+Interstellar Navigator's Band;
+Interstellar Officer's Band*F4*WMV;
+Interstellar Warrior's Band;
+
+| wands =
+Alphoi Reflector Relic (Level 120+)*CR*F3;
+Mirrorsphere Relic (Level 120+)*CR*F4*WMV;
+Zanadu Mirror Relic (Level 120+)*CR*F5*WMV; 
+
+| decks =
+Interstellar Delegate's Deck*F2;
+Interstellar Engineer's Deck;
+Interstellar Explorer's Deck*F3;
+Interstellar Medic's Deck*F6*WMV;
+Interstellar Officer's Deck*F4*WMV;
+Interstellar Warrior's Deck;
+
+| items =
+Artisan's Socket Wrench*F3*WMV;
+Empyrea Aeriel Theme*F2;
+Empyrea Athanor Combat Theme*F3*WMV;
+Empyrea Finale Combat Theme;
+Empyrea Flotsam Combat Theme*F5*WMV;
+Empyrea Inner Athanor Theme*F2;
+Empyrea Jungle Theme*F4;
+Empyrea Khan Theme*F4*WMV;
+Empyrea Outer Athanor Theme*F2;
+Empyrea Sepidious Combat Theme*F2;
+Master's Socket Wrench*F4;
+
+| cards =
+
+| reagents =
+Aether*F4;
+Agave Leaves*F2*WMV;
+Agave Nectar;
+Amber*F3;
+Amber Dust*F4*WMV;
+Aquamarine*F2*WMV;
+Astral Shard;
+Braided Vine;
+Draconium*F3*WMV;
+Fire Blossom*F2;
+Flying Squid Ink*F3*WMV;
+Golden Pearl*F3;
+Merle's Whisker;
+Mithril*F2;
+Orichalcum*F3*WMV;
+Scales*F2;
+Stardust*F2*WMV;
+Steel;
+Sunstone*F2*WMV;
+Titanium*F2;
+Tungsten*F2;
+Turmeric;
+Turquoise*F2*WMV;
+Vine*F2*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Adapt Opal;
+Chastisement Opal;
+Shiny Accurate Amethyst +12%;
+Shiny Accurate Citrine +12%;
+Shiny Accurate Hematite +12%;
+Shiny Accurate Ruby +12%;
+Shiny Blocking Amethyst +15;
+Shiny Blocking Jade +16;
+Shiny Blocking Onyx +15;
+Shiny Blocking Opal +8;
+Shiny Blocking Ruby +15*F2*WMV;
+Shiny Blocking Ruby +16;
+Shiny Blocking Sapphire +16;
+Shiny Critical Hematite +15;
+Shiny Critical Hematite +16;
+Shiny Critical Jade +16;
+Shiny Critical Opal +8*F2;
+Shiny Critical Peridot +15;
+Shiny Critical Ruby +16;
+Shiny Damage Citrine +25;
+Shiny Damage Jade +26;
+Shiny Damage Peridot +25;
+Shiny Damage Sapphire +25;
+Shiny Defense Citrine +52;
+Shiny Defense Hematite +52;
+Shiny Defense Onyx +50*F2;
+Shiny Defense Onyx +52;
+Shiny Defense Ruby +51;
+Shiny Defense Ruby +52;
+Shiny Healing Opal +6%*F2;
+Shiny Health Opal +108;
+Shiny Mana Opal +45;
+Shiny Mending Opal +6%;
+Shiny PIP Hematite +2;
+Sparkling Accurate Hematite +13%;
+Sparkling Blocking Citrine +17;
+Sparkling Blocking Ruby +17;
+Sparkling Blocking Sapphire +17;
+Sparkling Critical Citrine +17;
+Sparkling Critical Peridot +17;
+Sparkling Critical Sapphire +17;
+Sparkling Damage Amethyst +27;
+Sparkling Damage Peridot +27;
+Sparkling Damage Ruby +27;
+Sparkling Defense Amethyst +53;
+Sparkling Defense Amethyst +54;
+Sparkling Defense Citrine +54;
+Sparkling Defense Onyx +53;
+Sparkling Defense Opal +27;
+Sparkling Defense Peridot +53;
+
+| pins =
+
+| pets =
+Black Cat*F4;
+Blue Globulin*F6*WMV;
+Green Globulin*F3*WMV;
+Grizzley Boar*F4*WMV;
+Lifebat*F5*WMV;
+Midnight Sprite*F4;
+Tough Troll*F6*WMV;
+
+| seeds =
+Angora Bunny Ears*F2;
+Baby Carrots;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts*F2;
+Bread Fruit Bush*F4*WMV;
+Couch Potatoes*CR*F5*WMV;
+Fish on a Vine*F4*WMV;
+Golden Couch Potatoes;
+Grapes of Wrath*CR*F4*WMV;
+Ivy League*CR*F3;
+Pink Huckleberries*F2;
+Red Couch Potatoes*F4*WMV;
+Red Huckleberries*F2*WMV;
+
+| mounts =
+Gobbler*1;
+Gobbler*7*F2;
+Light Blades*1*F3;
+Light Blades*7*F3*WMV;
+Junk-Copter*1*F4*WMV;
+Junk-Copter*7*F3*WMV;
+Royal Lioness*1*F3;
+
+| spells =
+
+}}

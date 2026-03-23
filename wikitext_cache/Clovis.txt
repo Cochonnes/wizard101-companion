@@ -1,0 +1,117 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 7,320
+| crecla = Penguin
+| school = Ice
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+3%;
+
+| outboost =
+50%;
+
+| incboost = 
+15% Fire;
+
+| incresist =
+30% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| petname = Inspector Borealis Roche
+| petbreed = Borealis Golem
+| world = Polaris
+| location = Walruskberg
+| subloc1 = Clovis' Headquarters
+| descrip =
+Clovis is a corrupt member of Polaris's Inspector Brigade, who plans to use [[Creature:The Rat|The Rat's]] Borealis technology to create an army of Borealis Golems. Thaumaturges must defeat him during their Level 118 Pet Quest.
+
+| speech =
+
+| spellnotes =
+*Clovis's Pet, Borealis Golem, casts the following Spells:  Smoke Screen, Fireblade, Choke (85%), Ice Hound.
+
+| casts =
+Sleet Storm;
+Smoke Screen;
+Fireblade;
+Ice Trap;
+Freeze;
+Steal Ward;
+Choke (85%);
+Balefrost;
+Katabatic Wind;
+Frost Snake (80);
+Ice Bats (215);
+Icebird (270);
+Evil Snowman;
+Natural Attack (Ice 105-210-315, 75%);
+Ice Wyvern;
+Winter Moon;
+Frostbite (80+549);
+Frost Giant (530);
+Ice Hound (7 Pip);
+
+| quests =
+Pilfered Pod Problem;
+
+| gold =
+0 - 3,569;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Extra Mana Opal;
+Fortify Talent Opal;
+Sap Health Talent Citrine*F2*WMV;
+Sprite Time Jade;
+Tower Shield Sapphire;
+Wisp Bonus Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

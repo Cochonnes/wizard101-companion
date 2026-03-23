@@ -1,0 +1,129 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 8,400
+| crecla = Mongu
+| school = Fire
+| startpips = 5
+| powerpips = 
+| outpierce =
+2%;
+
+| outboost =
+
+| incboost =
+Ice;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minion = 
+| world = Mirage
+| location = Caravan
+| subloc1 = Mottoman Treasure Cave
+| descrip =
+Fire Wizards must defeat Zuliman Mongu during their Level 118 Spell Quest.
+
+| spellnotes =
+
+| casts =
+
+Eruption;
+Furnace;
+Glacial Shield (-75%);
+Backdraft (+20%);
+Choke;
+Fire Beetle;
+Meteor Strike;
+Scald;
+Rain of Fire;
+
+| quests =
+Scorching Scimitars;
+
+| gold =
+289 - 506;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Sand Sea Dagger of Decorum;
+
+| amulets =
+Kobra Choker of Demise;
+
+| rings =
+Sand Sea Ring of Accord;
+Sand Sea Ring of Decorum;
+
+| wands =
+Dutiful Durvish's Armaments;
+
+| decks =
+
+| items =
+Mirage Chronoverge Com Theme;
+Mirage City Theme;
+Mirage Jungle Theme;
+Mirage Magic Carpet Theme;
+Mirage Serpent Theme;
+Mirage Spider Speaks Theme;
+
+| cards =
+Helephant;
+
+| reagents =
+Aether;
+Agave Leaves;
+Amber;
+Astral Shard;
+Fire Blossom;
+Golden Pearl;
+Iridium;
+Silver;
+Spider Silk;
+Stardust;
+Steel;
+Tungsten;
+Turmeric;
+Vine;
+
+| snacks =
+Beast Wellington*F2*WMV;
+Chalupacabra;
+Mustachios;
+Ships 'n' Queso;
+
+| jewels =
+Radical Opal;
+Shiny Damage Sapphire +26;
+Shiny Defense Ruby +52;
+Shiny Mana Opal +45;
+Shiny Mana Opal +47;
+
+| pets =
+
+| seeds =
+Bell Pepper;
+Boiled Peanuts;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Orange Bell Pepper*CR;
+Orange Dandelion;
+Sour Fickle Pickle;
+Sword Fern*CR;
+
+| mounts =
+
+| spells =
+
+}}

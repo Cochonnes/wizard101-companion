@@ -1,0 +1,266 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 50,000
+| crecla = Celestian
+| school = Moon
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Ice;
+Myth;
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+27%;
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist = 
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Selenopolis
+| subloc1 = Khonsu's Sanctum (Standard)
+| lootchest = Khonsu Chest (Standard)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the Challenge version of this battle, see {{Link|Creature|Khonsu (Challenge)}}.
+
+| speech =
+:'''Khonsu''': ''"At last you arrive. But I have been observing, measuring. My Avatars have watched you, tested you, questioned you, studied you. I know your tactics, your spells, your powers and motivations. I am unafraid."''
+:'''{{Link|NPC|Mellori}}''': ''"Says every disposable villan we've ever met."''
+:'''Khonsu''': ''"True. And there have been many. The Tut remnants,  various bovine warlords, servants of the one called Malistaire, Shadow Weavers...Arachna, executives of the Nana corporation, discharged soldiers of Marleybone, Monquista, Valencia, Polaris, numerous angry Qhats...The list goes on and on, Earthborn, of the power structures you broke. They followed legend and hearsay to find me and beg my aid. An outsider to crush an outsider. A Moon Wizard to transform THE Wizard into something more easily destroyed. And I agreed. You are a pebble that hits a pond like a meteor, sending ripples that turn into floods. And, like a meteor, you do not belong in this ecosystem. Thus, student of Ravenwood, it is finally time you were expelled."''
+
+| cheatnotes =
+*{{Icon|Round}} ''"Combat prowess is inversely proportionate to adorability"'' - At the beginning of the first Round, Khonsu will Polymorph each Wizard into one of the following forms at random and remove all of their Pips:
+**{{Icon|Fire|25px}} {{Link|Polymorph|Marshfellow (Standard)}} - {{Link|Spell|Marsh of War}} (added to hand by {{Link|Spell|Cuteness Overload}})
+**{{Icon|Ice|25px}} {{Link|Polymorph|Snowball (Standard)}} - {{Link|Spell|Splat Flurry}}
+**{{Icon|Storm|25px}} {{Link|Polymorph|Glowbug Zapper (Standard)}} - {{Link|Spell|Zap, Crackle, Pop!}}
+**{{Icon|Myth|25px}} {{Link|Polymorph|Snipe (Standard)}} - {{Link|Spell|Fur Baby}} (cast on Minion after meeting condition)
+**{{Icon|Life|25px}} {{Link|Polymorph|Horned Frog (Standard)}} - {{Link|Spell|Everyone Croaks}} (added to hand by {{Link|Spell|Nature Call}})
+**{{Icon|Death|25px}} {{Link|Polymorph|Gummy Bunny (Standard)}} - {{Link|Spell|Sweet Death}}
+**{{Icon|Balance|25px}} {{Link|Polymorph|Wombat (Standard)}} - {{Link|Spell|Wombat Frenzy}}
+**If a Wizard joins the battle after the second Round, Khonsu will Polymorph each Wizard into one of the above forms at random and remove all of their Pips, then heal himself to 100% Health.
+**The Snipe Polymorph will not be assigned to any Wizard if there are 4 Wizards present.
+*{{Icon|Friend}} ''"Hmm. Perhaps I should increase the adorability quotient"'' - If there is more than 1 Wizard in battle when attacked, Khonsu will Polymorph the Wizard who attacked him into another one of the above forms and remove their Pips.
+**Sometimes this cheat may activate more than once from only a single attack, which will lower the amount of times needed to attack before the following cheat activates.
+*{{Icon|Spell}} After the above cards have been used the same number of times as wizards in the duel (IE if there are 2 wizards in the duel, 2 spells need to be used), Khonsu will give all Wizards the following:
+**{{GivesSpell|spells = 1|size = x150px|Break Free (Moon)}}
+**It is not necessary to use the 'Break Free' Spell. Wizards may continue to obtain copies of their Spell and fight as their Polymorph, regardless of the number of Wizards present.
+{{Icon|Polymorph}} '''Polymorph Cycle'''
+*After Wizards have been given a 'Break Free' Card, Khonsu will begin to Polymorph into one of the following forms on that Round and the end of every 5th Round afterward.
+**''"If I can't change you, I will upgrade myself"'' - Polymorphs into {{Link|Polymorph|Malistaire Drake}} for 3 Rounds.
+**''"The Shadow shall fall!"'' - Polymorphs into {{Link|Polymorph|Morganthe}} for 3 Rounds.
+**''"Perhaps something more chaotic..."'' - Polymorphs into {{Link|Polymorph|Grandfather Spider}} for 3 Rounds.
+**''"You will learn to fear Nothing..."'' - Polymorphs into {{Link|Polymorph|Dasein}} for 3 Rounds.
+
+| spellnotes =
+
+| casts =
+Moon Blade (0 Pip);
+Dark Surge;
+Hypothermi-HIYA! (Moon);
+Death Scarab (Moon);
+Yellow Troll (Moon);
+Kiiii-Yaaaa! (Moon);
+Athena Battle Sight (Moon);
+Winter Moon (Moon);
+Scarecrow (Moon);
+Orthrus (Moon, 700);
+Snow Angel (Moon);
+
+| quests =
+From Moon to the Earth;
+
+| dropnotes =
+Defeating Khonsu grants each Wizard the following rewards:
+*1-2 Moon Dust {{Icon|Reagent}}
+*6-7 Spellements from Karamelle, Lemuria, Novus, Wallaru, and Selenopolis {{Icon|Spellement}}
+*1 Hat, Robe, Jewel, or Pin
+
+| gold =
+1 - 55;
+
+| hats =
+Avatar's Crown of Bad Blood;
+Avatar's Crown of Payback;
+Avatar's Crown of Reprisal;
+Avatar's Crown of Retribution;
+Avatar's Crown of Revenge*F2;
+Avatar's Crown of Vengeance*F3;
+Avatar's Crown of Wrath;
+Manifest Crown of Bad Blood;
+Manifest Crown of Payback;
+Manifest Crown of Reprisal;
+Manifest Crown of Retribution;
+Manifest Crown of Revenge;
+Manifest Crown of Vengeance;
+Manifest Crown of Wrath;
+
+| robes =
+Avatar's Armor of Bad Blood;
+Avatar's Armor of Payback;
+Avatar's Armor of Reprisal;
+Avatar's Armor of Retribution;
+Avatar's Armor of Revenge;
+Avatar's Armor of Vengeance;
+Avatar's Armor of Wrath;
+Manifest Armor of Bad Blood;
+Manifest Armor of Payback;
+Manifest Armor of Reprisal;
+Manifest Armor of Retribution;
+Manifest Armor of Revenge;
+Manifest Armor of Vengeance;
+Manifest Armor of Wrath;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Moon Dust @ 1 Moon Dust*F5*WMV;
+Moon Dust @ 2 Moon Dust*F4;
+
+| spellements =
+Ammut*F2*WMV;
+Anubis*F2;
+Barbarian's Saga*F4;
+Blast Off!*F2*WMV;
+Bunyip's Rage*F3*WMV;
+Chameleon Clash;
+Count Croakula*F3*WMV;
+Dark & Stormy*F3*WMV;
+Deathly Depths;
+Drop Bear Fury*F3;
+Freeze Ray*F3*WMV;
+Glimpse of Infinity*F3*WMV;
+Gravestorm*F2*WMV;
+Grim Reader*F2*WMV;
+Grrnadier*F2;
+Heqet*F2*WMV;
+Improbable Gaze*F5*WMV;
+Lord of the Jungle*F2;
+Mockenspiel;
+Old One's Endgame*F3*WMV;
+Phantasmania!*F3*WMV;
+Rainbow Serpent*F2*WMV;
+S'more Machine*F2;
+Scales of Destiny;
+Shatterhorn;
+Shu*F2;
+Snack Attack*F3*WMV;
+Sound of Musicology;
+Starspawn*F3*WMV;
+Taweret*F2;
+Tatzlewurm Terror*F2;
+Thoth;
+Tree of Strife;
+Wobbegong Frenzy;
+Zand the Bandit;
+
+| snacks =
+
+| jewels =
+Cleanse Charm Sapphire;
+Cleanse Ward Ruby;
+Death Trap Onyx (Tear);
+Disarm Sapphire;
+Elemental Trap Citrine (Tear);
+Fire Trap Ruby (Tear);
+Flawless Accurate Amethyst +16%;
+Flawless Accurate Citrine +16%;
+Flawless Accurate Jade +16%;
+Flawless Accurate Onyx +16%;
+Flawless Accurate Peridot +16%;
+Flawless Accurate Ruby +16%;
+Flawless Accurate Sapphire +16%;
+Flawless Mana Opal +61;
+Flawless Mana Opal +62;
+Flawless Mana Opal +63;
+Flawless Mana Opal +64;
+Ice Trap Sapphire (Tear);
+Incapacitate Amethyst;
+Life Trap Jade (Tear);
+Lustrous PIP Opal +10%;
+Myth Trap Peridot (Tear);
+Pierce Peridot;
+Potent Trap Opal;
+Sharpened Blade Opal*F2;
+Spirit Trap Citrine (Tear);
+Storm Trap Amethyst (Tear);
+Sun Trap Opal;
+Triage Jade;
+Unearthly Archmastery Opal +45;
+Unearthly Conversion Amethyst +60;
+Unearthly Conversion Citrine +62;
+Unearthly Conversion Jade +62;
+Unearthly Conversion Onyx +62;
+Unearthly Conversion Peridot +61;
+Unearthly Conversion Ruby +60;
+Unearthly Conversion Sapphire +61*F2*WMV;
+Unearthly Mana Opal +68;
+Unearthly Shadow Hematite +10;
+
+| pins =
+Balance Accurate Pin (100);
+Balance Conversion Pin (160);
+Balance Conversion Pin (170);
+Death Accurate Pin (100)*F2*WMV;
+Death Conversion Pin (160);
+Death Conversion Pin (170);
+Fire Accurate Pin (100);
+Fire Conversion Pin (160);
+Fire Conversion Pin (170);
+Ice Accurate Pin (110);
+Ice Conversion Pin (160);
+Ice Conversion Pin (170);
+Life Accurate Pin (100);
+Life Conversion Pin (160)*F2*WMV;
+Life Conversion Pin (170);
+Myth Accurate Pin (100);
+Myth Conversion Pin (160);
+Myth Conversion Pin (170);
+Storm Accurate Pin (80)*F2;
+Storm Conversion Pin (160);
+Storm Conversion Pin (170);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Khonsu
+}}

@@ -1,0 +1,262 @@
+{{Stub|which version of the '''Mutate''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 8,400
+| crecla = Conscript
+| crecla2 = Undead
+| school = Balance
+| cheats = Yes
+| shadowslots = 1
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+3%;
+
+| outboost =
+65%;
+
+| incboost =
+5% Myth, Life, Death;
+
+| incresist =
+30% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Forgotten Conscript;
+
+| world = Mirage
+| location = Alkali Barrows
+| subloc1 = Tomb of the Forgotten (Mirage)
+| descrip =
+*Boss has Pip Conversion.
+
+| speech =
+:''"Aha! I knew Xerses wouldn't raise me and then leave me here! I was his chief advisor! He's testing me - he sent you so I can prove myself!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Mirage
+| tome description =
+Though he promised that he would be one of the greatest viziers in history, these days, no one even remembers how to pronounce Rafaj's name.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Weakness}} ''"Feel the rot!"'' - At the end of every Round, he will place a {{Link|Spell|Weakness (-30%)}} on a random Wizard.
+*{{Icon|Late}} ''"You're late to the party!"'' - If a Wizard joins after the duel has started, Vizier Rafaj will cast {{Link|Spell|Mana Burn}} on the Wizard.
+*{{Icon|Trap}} ''"Oldest trick on the Tablet!"'' - If a Wizard places a Trap on Vizier Rafaj or his Minion, he will place a {{Link|Spell|Hex (+35%)}} on the Wizard.
+*{{Icon|Blade}}{{Icon|Global}} ''"Oldest trick on the Tablet!"'' - If a Wizard casts a Blade or Global spell, he will cast {{Link|Spell|Balanceblade (+30%)}} on himself.
+
+| spellnotes =
+
+| casts =
+Recompense;
+Berserk;
+Elemental Shield (-55%);
+Spirit Shield (-55%);
+Dragonblade;
+Natural Attack (Balance 110-220-330);
+Savage Paw;
+Morganthe's Will;
+Gaze of Fate;
+Power Nova (530);
+Ra (635-715);
+Judgement (125);
+
+| quests =
+A Helping Hand (Mirage);
+Tomb of the Forgotten;
+
+| gold =
+139 - 213;
+
+| hats =
+Djinn Ghutrah of Dreams;
+Mongu Kabalak of Umbrage*F2;
+Nomad's Frostdune Torboosh;
+Nomad's Sandstorm Torboosh;
+Nomad's Torboosh of Solitude;
+
+| robes =
+Djinn Vestment of Darkness;
+Djinn Vestment of Durability*F2;
+Mongu Vestment of Frenzy;
+Nomad's Thobe of Tenacity;
+
+| boots =
+Mongu Givehs of Frenzy;
+Nomad's Sandstorm Striders;
+
+| athames =
+Djinn Khanjar of Swells;
+
+| amulets =
+Fang Collar of Frostfall;
+
+| rings =
+Fang Loop of Ages;
+Immaculate Djinn Signet;
+
+| wands =
+Frosty Purrzian Axe & Shield;
+Smoky Purrzian Axe & Shield;
+Viper Stave of Bitterness;
+
+| decks =
+Djinn Array of Swells;
+Djinn Cards of Darkness;
+Fang Deck of Ages*F2*WMV;
+
+| items =
+
+| cards =
+Astraphobia;
+Combustion;
+Counterforce;
+Mass Myth Prism;
+Metalops;
+Mutate Beetle*F2;
+Mutate Elf (Ice);
+Mutate Hound (Storm);
+Mutate Kraken (Fire);
+Mutate Phoenix (Ice);
+Mutate Phoenix (Sun);
+Mutate Snowman (Fire);
+Mutate Wyvern (Fire);
+
+| reagents =
+Ancient Scroll*F3*WMV;
+Antique Coins;
+Black Pearl*F2;
+Blood Moss;
+Brass;
+Bronze Gear*F4*WMV;
+Cobalt*F2;
+Ectoplasm;
+Nickel;
+Scales*F7*WMV;
+Spider Silk;
+Spring*F3*WMV;
+Tin*F2;
+Turmeric*F3*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F2*WMV;
+Beetle Cream Soda;
+Chalupacabra*F2;
+Chili Cheese Fries;
+Decimatoes;
+French Fries;
+Gourmet Yogurt*F2*WMV;
+Green Tomato;
+Hard Boiled Beetle Eggs*F2;
+Huge Ice Cream*F2;
+Jolly Rancher*F2;
+Mustachios*F2*WMV;
+Rhubarbed Wire;
+Satyr Chow*F2;
+Ships 'n' Queso*F3*WMV;
+Submarine Sandwich*F3*WMV;
+Veggie Juice*F3;
+
+| jewels =
+Lustrous Blocking Onyx +13;
+Lustrous Critical Amethyst +13;
+Lustrous Critical Peridot +13*F2;
+Lustrous Critical Ruby +13;
+Lustrous Damage Jade +23;
+Lustrous Damage Onyx +23*F2;
+Lustrous Damage Peridot +23*F2;
+Lustrous Damage Ruby +23*F2;
+Lustrous Defense Ruby +45;
+Lustrous Health Opal +96;
+Lustrous PIP Opal +10%;
+Shiny Blocking Ruby +16;
+Shiny Damage Amethyst +26;
+Shiny Defense Amethyst +52;
+Shiny Defense Citrine +52;
+Shiny Defense Hematite +52;
+Shiny Defense Jade +51;
+Shiny Defense Onyx +50;
+Shiny Defense Onyx +52;
+Shiny Defense Sapphire +51;
+Shiny Health Opal +111;
+Shiny Health Opal +113*F2;
+Shiny Mana Opal +45*F2;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2;
+Angora Bunny Ears*F4*WMV;
+Baby Carrots*F3*WMV;
+Bell Pepper*F4*WMV;
+Blue Huckleberries;
+Boiled Peanuts*F4*WMV;
+Boon Tree*CR;
+Bread Fruit Bush*F3*WMV;
+Burning Snap Dragon;
+Cornbread Fruit Bush*F2*WMV;
+Couch Potatoes*CR;
+Dandelion;
+Deadly Helephant Ears*CR*F2;
+Desparagus (Seed)*F4*WMV;
+Evil Magma Peas*CR*F2;
+Face Palm;
+Fish on a Vine;
+Frozen Fly Trap*F2;
+Golden Couch Potatoes;
+Goose Tree;
+Grapes of Wrath*CR;
+Helephant Ears;
+Honey Bee Plant;
+Honey Sickle;
+Ivy League*CR*F2*WMV;
+Melting Cheese Tree;
+Ninja Fig*CR;
+Pink Huckleberries;
+Pink Laugh-O-Dil;
+Red Bell Pepper;
+Red Couch Potatoes*F4*WMV;
+Red Huckleberries*F2;
+Silver Trumpet Vine*CR;
+Snap Dragon;
+Snow Apples;
+Sour Fickle Pickle;
+Sword Fern*CR;
+Tiger Lily (Seed);
+Trumpet Vine;
+White Tiger Lily*F2*WMV;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,101 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 7,300
+| crecla = Elemental
+| school = Balance
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+36%;
+
+| incboost =
+None;
+
+| incresist =
+30% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Bewitched Apprentice (Balance);
+
+| world = Azteca
+| location = Mangrove Marsh
+| subloc1 = Condemned Temple
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Amplify;
+Weakness;
+Helping Hands;
+Mass Hex;
+Dyvim's Resurgence (Tier 2b);
+Spiritual Tribunal (Tier 2b);
+Locust Swarm (Tier 2b);
+Obsidian Colossus (Tier 2b);
+Ra;
+Chimera (Tier 2a);
+
+| quests =
+Tula Loop;
+The Rock that Screams;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,112 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 19
+| heal = 13,200
+| crecla = Demon
+| crecla2 = Elephant
+| school = Balance
+| school2 = Fire
+| masteries =
+Death;
+
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+50%;
+
+| outboost =
+110%;
+
+| incboost =
+None;
+
+| incresist =
+30% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Jade Oni Rematch
+| subloc1 = Jade Oni Challenge (Tier 3)
+| descrip =
+Plague Oni (Tier 3) is considered a Minion to {{Link|Creature|Jade Oni (Tier 3)}}. All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Punishment (6 Rounds);
+Balanceblade;
+Spirit Blade;
+Scorpion (Tier 5b);
+Loremaster;
+Sandstorm;
+Gaze of Fate;
+Hydra (Tier 5a);
+Nested Fury;
+Fire Elf (Tier 5b);
+Phoenix (Tier 5b);
+S'more Machine (Tier 2a);
+Dark Sprite (Tier 5b);
+Banshee (Tier 5b);
+Call of Khrulhu;
+Grim Reader (Tier 2a);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Plague Oni (Rematch)
+
+}}

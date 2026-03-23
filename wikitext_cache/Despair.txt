@@ -1,0 +1,143 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 16,810
+| crecla = Irk
+| school = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+406;
+
+| criticalblock =
+607;
+
+| outpierce =
+21%;
+
+| outboost =
+104%;
+
+| incboost =
+30% Life;
+
+| incresist =
+42% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+72% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wallaru
+| location = Wobbegong Territory
+| subloc1 = Despair Dream
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+*''*SIGH*'':
+**{{Icon|Global}} At the beginning of the first Round, Despair will cast a '''-100%''' version of {{Link|Spell|Doom and Gloom}} and will recast this Spell when replaced.
+**{{Icon|Blade}} If Despair casts a Spell on a Wizard, it will follow it up with a {{Link|Spell|Deathblade (+45%)}}.
+**{{Icon|Damage}} If Despair takes Damage, it will cast a {{Link|Spell|Virulent Plague}} on itself.
+***Multi-Hit Spells will trigger this cheat multiple times.
+***Damage over Time effects will not trigger this cheat.
+**If a Wizard casts one of the following Spell Effects, Despair will cast the Spells:
+***{{Icon|Caster}}{{Icon|Damage}} - Self-Damage Spells, like {{Link|Spell|Empower}}, will trigger a protected {{Link|Spell|Balanceblade (+100%)}} on Despair.
+***{{Icon|Aura}} - Auras will trigger {{Link|Spell|Supernova (Shadow)}} on the caster.
+****If a negative Aura is cast on Despair, it will cast the Supernova on itself.
+***{{Icon|Charm}} - Positive Charms will trigger {{Link|Spell|Enfeeble (Shadow)}} on the caster.
+****{{Link|Spell|Aegis}} can protect against this cheat.
+***{{Icon|Ward}} - Positive Wards will trigger a Shadow All Enemies version of {{Link|Spell|Shatter}} on the caster.
+****Aegis can protect against this cheat.
+***{{Icon|Feint}} {{Link|Spell|Feint}} or {{Link|ItemCard|Mass Feint}}, including Pet Item Cards, will trigger an Ice version of {{Link|Spell|Swap Ward}} on the caster.
+****{{Link|Spell|Indemnity}} or {{Link|Spell|Melt}} can protect against this cheat.
+
+| spellnotes =
+
+| casts =
+Virulence;
+Virulent Plague;
+Deathblade;
+Dark Tribute;
+Empower (Death);
+Black Widow;
+Deer Knight (Tier 4b);
+Death Cyclops;
+Death Helephant (Death);
+Monk of Mourning (450-530);
+Winged Sorrow;
+Skeletal Dragon (180+660);
+Bonetree Lord;
+
+| quests =
+Despairing is Caring;
+
+| gold =
+2 - 16;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Wallaru Billabong Resort Com Theme;
+Wallaru Eucalyptus Forest Com Theme;
+
+| cards =
+Feint;
+Ice Trap;
+Life Trap;
+Spirit Blade
+
+| reagents =
+Bone;
+Leather Straps;
+Scales;
+
+| spellements =
+
+| snacks =
+Heavenly Bubblegum;
+Lava Guava;
+Marzipan Maize;
+Nana's Pumpkin Spice Milkshake;
+Nutty Truffle;
+Spicy Chips;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

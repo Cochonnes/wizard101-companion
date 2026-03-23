@@ -1,0 +1,149 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 12,560
+| crecla = Tritop
+| school = Myth
+| startpips = 6
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Deathless Storm Horn;
+Deathless Storm Horn;
+
+| world = Azteca
+| location = Cenote
+| subloc1 = Chamber
+| descrip =
+Necromancers must defeat Tezomoc Stone Singer to earn their {{Link|Spell|Avenging Fossil}} Spell.
+
+| speech =
+:''"Your blood... will feed... the song of the stones!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Myth Damage.
+
+| casts =
+Amplify;
+Vengeance;
+Mythblade;
+Myth Trap;
+Time of Legend;
+Ninja Pigs;
+Earthquake;
+Humongofrog (400-500);
+Medusa;
+Basilisk;
+Celestial Calendar;
+
+| quests =
+Avenging Assembly;
+
+| gold =
+163 - 185;
+
+| hats =
+Dawn Hour Mantle;
+Indigo Wing Crown;
+Tree of Secrets Chac Mask;
+
+| robes =
+
+| boots =
+Death Moon's Chosen Gliders;
+
+| athames =
+Burning Water Talon;
+
+| amulets =
+House of Plague Greenstone;
+Pitch Black Lake Plague Shell;
+
+| rings =
+Acampi Reedfist's Lost Seal*F2;
+Bleeding Sun Warrior's Loop;
+
+| wands =
+Eclipse Spear of Azteca;
+Lance of Night Fire;
+Winter Lord's Obsidian Shard*F2;
+
+| decks =
+Deck of the Jaguar Spirit*F2;
+Winter's Pyramid Deck;
+
+| items =
+Azteca Apocalypse Theme;
+
+| cards =
+Colossal;
+Dr. Von's Monster;
+Fire Dragon;
+Rain of Fire;
+
+| reagents =
+Black Lotus;
+Black Pearl;
+Bone;
+Brass;
+Bronze Gear*F2;
+Cobalt*F4;
+Fire Blossom*F2;
+Lava Lily*F4;
+Mist Wood*F4;
+Ore;
+Red Mandrake*F2;
+Silver;
+Steel;
+Sunstone;
+Tungsten;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Apatotatoes;
+Aztecan Hot Chocolate;
+Marzipan Maize;
+Rex Tea;
+Stego Waffles;
+Yucca;
+Zocalo Wings*F2;
+
+| jewels =
+Clear Accurate Amethyst +9%;
+Infallible Talent Opal*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

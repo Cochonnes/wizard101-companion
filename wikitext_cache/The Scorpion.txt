@@ -1,0 +1,388 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 16,800
+| crecla = Scorpion
+| school = Shadow
+| masteries =
+Fire;
+Ice;
+Storm;
+Myth;
+Life;
+Death;
+Balance;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+120;
+
+| criticalblock =
+97;
+
+| outpierce =
+7%;
+
+| outboost =
+55%;
+
+| incboost =
+None;
+
+| incresist =
+30% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Body Guard;
+Body Guard;
+Body Guard;
+
+| world = Mirage
+| location = Aggrobah
+| subloc1 = North Gate
+| lootchest = Scorpions Chest
+| descrip =
+The Scorpion, also known as {{Link|NPC|Overlord Xerxes}}, is one of [[NPC:Old Cob|Grandfather Spider's]] children. He is the second born child, and brother to {{Link|Creature|The Rat}}.
+*If a Wizard flees this duel and returns, then [[NPC:Ozzy (Mirage)|Ozzy's]]  ''5% Armor-Piercing bonus'' will be lost.
+
+| speech =
+:''"That reanimated corpse was just a ruse. I am Scorpion, son of Spider, and brother of the Rat, who I will avenge today upon this meddling Wizard!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Oh, yes...you will fall, too."'' - If a Wizard is late to join the duel, starting on the third Round The Scorpion will cheat-cast Bad Juju (Shadow) on the Wizard.
+*{{Icon|Damage}} ''"I invoke the power of Shadow!"'' - At the end of every third Round, he will cheat-cast {{Link|Spell|Poison (Shadow)}} to all Wizards.
+*{{Icon|Manipulation}} ''"Now... your doom!"'' - At the end of every Round, he will cheat-cast a Shadow version of {{Link|Spell|Detonate}} to all Wizards, as long as one Wizard has a DoT.
+:*The HoT portion of Healing Spells, such as from {{Link|PetAbility|Spritely}}, can prevent a DoT from detonating when the HoT is positioned before the DoT. The HoT does not get removed by the Detonate.
+*{{Icon|Feint}} ''"The Rat warned me of that!"'' - If a Wizard places a {{Link|Spell|Feint}} on The Scorpion, he will cast {{Link|Spell|Cleanse Ward (Shadow, -All)}} to remove all unprotected Traps from himself.
+:*{{Link|ItemCard|Mass Feint}} does not trigger this cheat.
+:*{{Link|Spell|Indemnity}} can be used to avoid this cheat.
+:*The Balance version of {{Link|ItemCard|Feint}} does not trigger this cheat.
+*{{Icon|Heal}} ''"I planned this special for you!"'' - If a Wizard uses a Healing Spell, he will cast his Natural Attack (Shadow 75+1430) at the Wizard.
+:*The HoT portion of Healing Spells, such as from {{Link|PetAbility|Spritely}}, will not trigger this cheat.
+:*''Maycast'' Pet Heals only seem to occasionally trigger this cheat.
+
+| spellnotes =
+*Uses Pip Conversion.
+*Casts protected Tower Shield (Shadow), Shadowblade, and Shadow Trap.
+'''Natural Attack:'''
+*Deals 75 Shadow Damage and 110 Shadow damage per pip minus one pip over 3 Rounds, despite the Spell's text.
+
+| casts =
+Dark Fiend;
+Brace;
+Magnify;
+Tower Shield (Shadow);
+Spirit Armor (500);
+Bad Juju (Shadow);
+Shadowblade;
+Shadow Trap;
+Steal Ward;
+Choke (85%);
+Enfeeble (2 Pip);
+Shatter;
+Beguile (100%);
+Storm Elf (Shadow);
+Shadow Banshee;
+Deer Knight (Shadow);
+Glowbug Squall (Shadow, 1,120);
+Ominous Scarecrow (Shadow);
+Natural Attack (The Scorpion);
+Supernova (535, 75%);
+
+| quests =
+Enemy at the Gate (Mirage);
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' Badge and has not unlocked the '''[[Basic:Empyrea Badges|Hero of Light and Shadow]]''' Badge, the following drops will be available:
+*7 Spellements will drop each time from '''any''' School for their respective rank 9, 10, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+846 - 1,177;
+
+| hats =
+Alkali Kalpak of Fealty*F2;
+Alkali Kalpak of Withering*F2*WMV;
+Alkali Wintertide Kalpak;
+Eerem Headwrap of Harmony;
+Rubal Kufiya of Acerbity;
+Rubal Kufiya of Illusions;
+Rubal Kufiya of Renewal;
+
+| robes =
+Alkali Armor of Withering;
+Eerem Raiment of Hail*F2;
+Eerem Raiment of Harmony;
+Eerem Raiment of Menace;
+Parched Wayfarer's Khalat;
+Rubal Khalat of Acerbity;
+Rubal Khalat of Renewal;
+
+| boots =
+Alkali Monsoon Walkers;
+Alkali Walkers of Fiction;
+Alkali Wintertide Walkers;
+Aridian Shoes of Reflection;
+Eerem Givehs of Clangor;
+Rubal Babouches of Acerbity;
+
+| athames =
+Eerem Razor of Hail;
+Eerem Razor of Harmony*F2;
+Istanboa Khanjar of Scruples;
+
+| amulets =
+Eerem Talisman of Harmony;
+Eerem Talisman of Menace;
+Eerem Talisman of Pulse;
+Istanboa Pendant of Scruples;
+Rubal Janbiya of Competence;
+Rubal Necklace of Loyalty;
+Viper Talisman of Numbing;
+Viper Talisman of Splendor;
+
+| rings =
+Charred Eerem Band;
+Eerem Band of Discovery;
+Eerem Band of Harmony;
+Eerem Band of Menace;
+Eerem Band of Pulse;
+Eerem Hailstone Band*F3*WMV;
+Istanboa Heatwave Signet;
+Rubal Band of Lightning;
+Viper Ring of Numbing;
+Viper Ring of Strife;
+Viper Ring of Sunstoke;
+
+| wands =
+Alkali Bow of Monsoons;
+Alkali Bow of Vibrancy;
+Restrictor Wand of Destiny;
+Scorpion Bow of Frenzy;
+
+| decks =
+Eerem Hailstone Spread;
+Eerem Spread of Menace;
+Eerem Spread of Pulse;
+Gallant Istanboa Array;
+Rubal Cards of Cessation;
+Rubal Deck of Illusions;
+
+| items =
+Mirage Canyon Combat Theme;
+Mirage Canyon Theme 1*F2;
+Mirage Canyon Theme 2;
+Mirage Chronoverge Com Theme*F2*WMV;
+Mirage Chronoverge Theme;
+Mirage City Theme;
+Mirage Den of Thieves Theme;
+Mirage Desert Combat Theme;
+Mirage Jungle Theme;
+Mirage Magic Carpet Theme*F2;
+Mirage Nomad Theme;
+
+| cards =
+Fiery Giant;
+Mass Fire Prism;
+Mass Myth Prism;
+Metalops*F2*WMV;
+Mutate Helephant (Ice);
+Sandstone Colossus;
+Stone Colossus;
+
+| reagents =
+Aether*F7*WMV;
+Agave Leaves;
+Agave Nectar;
+Amber*F2;
+Amber Dust*F8*WMV;
+Ancient Scroll*F4*WMV;
+Antique Coins*F2*WMV;
+Aquamarine*F6*WMV;
+Astral Shard*F3*WMV;
+Black Pearl*F2;
+Blood Moss*F8*WMV;
+Braided Vine;
+Brass*F4*WMV;
+Bronze Gear*F4*WMV;
+Cobalt*F3*WMV;
+Draconium;
+Ectoplasm*F3*WMV;
+Fire Blossom*F2*WMV;
+Golden Pearl*F5*WMV;
+Iridium;
+Merle's Whisker;
+Mithril*F3*WMV;
+Nickel*F3*WMV;
+Orichalcum*F2;
+Scales*F7*WMV;
+Silver*F7*WMV;
+Spider Silk*F4*WMV;
+Spring*F6*WMV;
+Stardust*F2;
+Steel*F3*WMV;
+Sunstone*F3;
+Tin*F6*WMV;
+Titanium*F3*WMV;
+Tungsten*F4*WMV;
+Turmeric*F4;
+Turquoise*F9*WMV;
+Vine*F5*WMV;
+
+| spellements =
+Basilisk;
+Chimera*BR;
+Climaclysm*BR;
+Iron Sultan;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Qismah's Curse;
+Rain of Fire;
+Sand Wurm;
+Snake Charmer*BR;
+Spinysaur;
+Witch's House Call;
+
+| snacks =
+Antheneum Delight;
+Beast Wellington*F3*WMV;
+Beetle Cream Soda*F5*WMV;
+Chili Peppers*F3;
+Chalupacabra*F2*WMV;
+Decimatoes;
+Delicious Cookie;
+Eye Candy*F3*WMV;
+French Fries*F3*WMV;
+Gourmet Yogurt*F2*WMV;
+Hard Boiled Beetle Eggs*F4*WMV;
+Hot Cross Buns*F2;
+Huge Ice Cream*F3;
+Large Ice Cream;
+Mustachios*F4*WMV;
+Satyr Chow*F4*WMV;
+Ships 'n' Queso;
+Sprinkle Cupcake;
+Submarine Sandwich*F3*WMV;
+Super Cold Popsicle*F4*WMV;
+Veggie Juice*F6*WMV;
+
+| jewels =
+Cycle of Life Opal;
+Lustrous Accurate Citrine +11%;
+Lustrous Accurate Onyx +11%;
+Lustrous Accurate Peridot +11%;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Amethyst +13*F2;
+Lustrous Blocking Citrine +13;
+Lustrous Blocking Jade +13;
+Lustrous Blocking Onyx +13;
+Lustrous Blocking Peridot +13;
+Lustrous Blocking Sapphire +13;
+Lustrous Critical Citrine +13;
+Lustrous Critical Onyx +13*F2;
+Lustrous Damage Onyx +23;
+Lustrous Damage Peridot +23;
+Lustrous Damage Sapphire +23;
+Lustrous Defense Amethyst +45;
+Lustrous Defense Citrine +45;
+Lustrous Defense Jade +45*F2;
+Lustrous Defense Onyx +45;
+Lustrous Defense Peridot +45;
+Lustrous Defense Sapphire +45*F2*WMV;
+Lustrous Health Opal +96;
+Lustrous Health Opal +97;
+Lustrous Health Opal +100;
+Lustrous Mana Opal +41;
+Lustrous PIP Opal +10%;
+Shiny Blocking Sapphire +16;
+Shiny Critical Citrine +16;
+Shiny Critical Sapphire +16*F2;
+Shiny Damage Citrine +26;
+Shiny Damage Ruby +26;
+Shiny Damage Sapphire +26;
+Shiny Defense Amethyst +51;
+Shiny Defense Amethyst +52;
+Shiny Defense Jade +52;
+Shiny Defense Ruby +51;
+Shiny Health Opal +112;
+Shiny Health Opal +114*F3;
+Shiny Mana Opal +47;
+Shiny PIP Hematite +2;
+
+| pins =
+
+| pets =
+MaCaw*CR*F2*WMV;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears*F2*WMV;
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper*F2*WMV;
+Blue Huckleberries;
+Boiled Peanuts*F4*WMV;
+Boom Shroom;
+Boon Tree*CR;
+Bread Fruit Bush*F2;
+Burning Snap Dragon;
+Cornbread Fruit Bush*F3*WMV;
+Couch Potatoes*CR*F2;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Desparagus (Seed);
+Evil Magma Peas*CR*F2*WMV;
+Evil Snow Peas*F3*WMV;
+Fickle Pickle*F2;
+Fish on a Vine*F7*WMV;
+Fortune Cookie Tree;
+Golden Couch Potatoes*F2;
+Grapes of Wrath*CR*F2;
+Green Snow Apples;
+Helephant Ears;
+Honey Bee Plant;
+Ivy League*CR*F2;
+Maelstrom Snap Dragon*F2;
+Moon Flower;
+Ninja Fig*CR;
+Orange Dandelion;
+Pink Huckleberries*F3*WMV;
+Pink Laugh-O-Dil*F3;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Purple Snow Apples;
+Queen Crape Myrtle;
+Red Bell Pepper*F2;
+Red Couch Potatoes*F5*WMV;
+Red Grapes of Wrath;
+Red Huckleberries*F5*WMV;
+Saw Palmetto;
+Snap Dragon;
+Snow Apples;
+Sunion*CR*F2;
+Sour Fickle Pickle*F3;
+Tiger Lily (Seed);
+Venus Fly Trap;
+White Desparagus;
+White Laugh-O-Dil;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

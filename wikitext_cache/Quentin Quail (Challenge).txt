@@ -1,0 +1,100 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 16,920
+| crecla = Duck
+| school = Balance
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+38%;
+
+| outboost =
+178%;
+
+| incboost =
+None;
+
+| incresist =
+53% Fire, Ice, Storm, Myth, Life, Death, Shadow;
+73% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Selenopolis
+| subloc1 = Celestial Pyramid (Challenge)
+| descrip =
+Quentin Quail is considered a Minion to {{Link|Creature|Drake Lockley (Challenge)}}. All drops are recorded on those pages.
+*For the Standard version of this battle, see {{Link|Creature|Quentin Quail (Standard)}}.
+
+| speech =
+
+| spellnotes =
+*Casts a version of Sandstorm that deals 375 Balance Damage.
+
+| casts =
+Bladestorm;
+Loremaster;
+Locust Swarm (Tier 5b);
+Gearhead Destroyer (Tier 5b);
+Judgement;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Quentin Quail
+}}

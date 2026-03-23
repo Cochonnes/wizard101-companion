@@ -1,0 +1,122 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 970
+| crecla = Wizard
+| school = Fire
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+15% Ice;
+
+| incresist =
+25% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Phantom Kenneth (Tier 1);
+
+| world = Housing Instance
+| location = Playhouse
+| subloc1 = Playhouse (Tier 1)
+| descrip =
+Phantom Olivier (Tier 1) is considered a Boss for the purpose of drops.  All drops from this duel are recorded on this page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Fireblade;
+Fire Trap;
+Fire Cat;
+Fire Elf (50+210);
+Ash Bats;
+Sunbird;
+Fire Wyvern (335-395, 4 Pip);
+Cyclops;
+
+| quests =
+The Play's the Thing;
+
+| gold =
+5 - 9;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Dragon Bust;
+Dragon Claw;
+Dragon Shield;
+Dragon Skull;
+Dragonflame Torch;
+Dragonhorn Trophy;
+Dragonmoon Marker;
+Dragonmoon Obelisk;
+Dragonmoon Plaque;
+Dragonskull Marker;
+Dragonskull Plaque;
+Singed Dragon Handbook;
+Snapdragon Flowerbed;
+Tall Dragon Vase;
+
+| cards =
+
+| reagents =
+Amethyst;
+Citrine;
+Jade;
+Perfect Citrine;
+Perfect Peridot;
+Perfect Ruby;
+Perfect Sapphire*F2;
+Peridot;
+
+| spellements =
+
+| snacks =
+French Fries;
+Frosted Drakes Cereal;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Burning Snap Dragon;
+Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

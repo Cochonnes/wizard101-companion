@@ -1,0 +1,181 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 5,360
+| crecla = Elemental
+| crecla2 = Colossus
+| school = Ice
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Fire;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Glacier Walker;
+
+| world = Grizzleheim
+| location = Ravenscar
+| subloc1 = Frostmantle's Chamber
+| descrip =
+Two additional Glacier Walker Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Freeze, Wizard! There is no escaping from me!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+He wasn't always so frosty. But guarding the Heart of Winter is a remarkably chill experience.
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Tower Shield;
+Stun Block;
+Fire Shield;
+Weakness;
+Iceblade;
+Ice Trap;
+Snow Serpent;
+Ice Elf (30+210);
+Ice Bats (245-285);
+Evil Snowman;
+Snow Shark;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Icezilla (650-730);
+Troll;
+
+| quests =
+Cups and Hearts;
+
+| gold =
+82 - 97;
+
+| hats =
+Arctic Shroud*F4;
+Cap of Cessation;
+Insulated Helm;
+Mantle of Zest;
+Veil of Fulmination;
+Veil of the Apologue;
+
+| robes =
+Apothecary's Robe*F4*WMV;
+Coat of the Firebird*F2;
+Drape of the Deep Blue Sea;
+Garment of Generality;
+Hiemal Robe*F2;
+Jerkin of the Seer;
+Lifeweave Robe*F2*WMV;
+Robe of the Nemesis*F5*WMV;
+Robe of the Raging Fire;
+Winterweave Coat;
+
+| boots =
+Boots of Composure;
+Boots of the Cornucopia*F3*WMV;
+Boots of the Vortex*F2*WMV;
+Brumal Boots;
+Galvanic Boots*F5*WMV;
+Long Walkers;
+Mocassins of the Green;
+
+| athames =
+
+| amulets =
+
+| rings =
+Band of the Snow Owl;
+Ring of the Glacier*F4*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Jar of Bat Wings*F4*WMV;
+Wooden Trough;
+
+| cards =
+Blizzard;
+Earthquake*F2;
+Heck Hound;
+Humongofrog;
+Ice Wyvern;
+Satyr;
+Sprite;
+Tempest;
+Tough;
+
+| reagents =
+Bone*F2;
+Cobalt;
+Copper;
+Ectoplasm*F3*WMV;
+Iron;
+Nickel*F2;
+
+| spellements =
+
+| snacks =
+Arrow Root;
+Cow Pie;
+Glowing Rock Candy*F4*WMV;
+Golden Apple*F3*WMV;
+Grilled Cheese*F2;
+Moon Pie*F4*WMV;
+Tiki Banana*F2;
+Wormy Apple;
+
+| jewels =
+Cracked Damage Citrine +5;
+Cracked Damage Onyx +5;
+Darkwind Amethyst;
+Dull Defense Sapphire +25;
+
+| pins =
+
+| pets =
+
+| seeds =
+Evil Snow Peas*F2*WMV;
+Orange Dandelion*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

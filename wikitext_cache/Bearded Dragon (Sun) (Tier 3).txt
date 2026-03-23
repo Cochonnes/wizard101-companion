@@ -1,0 +1,166 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 17,065
+| crecla = Wyrm
+| school = Sun
+| masteries =
+Fire;
+Myth;
+Life;
+Balance;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Fire;
+Myth;
+
+| critical =
+275 Any;
+
+| criticalblock =
+225 Any;
+
+| outpierce =
+18%;
+
+| outboost =
+124%;
+
+| incboost =
+None;
+
+| incresist =
+40% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Bearded Dragon (Moon) (Tier 3);
+Bearded Dragon (Star) (Tier 3);
+
+| world = Housing Instance
+| location = Night Mire Gauntlet
+| subloc1 = Night Mire Gauntlet (Tier 3)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Its glowing personality can win over even the staunchest critics.
+
+| extract class =
+Wyrm;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"Just what we needed- time to bask under the sun!"'' - If a Wizard joins after the first Round, Bearded Dragon (Sun) will cast a Sun version of Blessing, restoring 100% Health to all allies.
+*{{Icon|Round}} ''"Moon and Stars keep Sun eternal!"'' - At the start of the battle, Bearded Dragon (Sun) says this. 
+*{{Icon|Afterlife}} ''"You cannot defeat us at full strength!"'' - If Bearded Dragon (Sun) is defeated before or at the same time as Moon and Star Bearded Dragons, Bearded Dragon (Sun) will cast a Sun version of Ra, dealing 75% of Wizard's max Health, and use a Sun version of Blessing restoring 100% Health to all allies.
+*{{Icon|Afterlife}} ''"As long as two remain we shall survive!"'' - If Bearded Dragon (Sun) is defeated before or at the same time as one other Boss, Bearded Dragon (Sun) will cast a Sun version of Power Nova, dealing 50% of Wizard's max Health, and use a Sun version of Blessing restoring 100% Health to all allies.
+
+'''Cheat Cycle:'''
+*Beginning of Round 2:
+**{{Icon|Trap}} ''"The Sun Rises"'' - Bearded Dragon (Sun) will cast {{Link|Spell|Sun Trap (+25%)}}.
+**{{Icon|Blade}} ''"The Stars Twinkle"'' - Either Moon or Star Bearded Dragon will cast {{Link|Spell|Star Blade}} on a random ally.
+**{{Icon|Shield}} ''"The Moon Glows"'' - Either Moon or Star Bearded Dragon will cast {{Link|Spell|Moon Shield}} on a random ally.
+
+*{{Icon|Spell}} End of Round 2:
+**''"The Radiant Sun Glows"'' - Bearded Dragon (Sun) will cast one of the following Spells:
+***{{Link|Spell|Blinding Light}}, {{Link|Spell|Guardian Spirit}}, {{Link|Spell|Smoke Screen}}
+****(Note: Guardian Spirit will only target either Moon or Star Bearded Dragon)
+**''"Star Light Shine Bright"'' - Moon or Star Bearded Dragon will cast one of the following Spells:
+***{{Link|Spell|Unicorn}}, {{Link|TreasureCard|Restoring Rain 2}}, {{Link|Spell|Virulent Plague}}
+**''"We Dance in the Moonlight"'' - Moon or Star Bearded Dragon will cast one of the following Spells:
+***{{Link|Spell|Legion Shield}}, {{Link|Spell|Grendel's Amends (Tier 3b)}}, {{Link|Spell|Mass Infection}}
+
+| spellnotes =
+
+| casts =
+Frenzy;
+Sun Blade (+35%);
+Dragonlance;
+Mystic Colossus (Sun);
+Sound of Musicology (Star);
+Venom;
+Starspawn;
+Troll (Tier 3b);
+Yellow Fire Elf (Myth);
+Noble Humongofrog;
+Fire Elf (Tier 3b);
+Glimpse of Infinity;
+Power Link;
+Rain of Fire;
+Call of Khrulhu (Moon);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Cyclops Ally (Tier 2b)*F2;
+Empower;
+Evil Snowman (Tier 2b);
+Fuel;
+Ice Wyvern (Tier 2b);
+Locust Swarm (Tier 2b);
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Stormy Ringtail*CR;
+
+| seeds =
+
+| mounts =
+Gator Glider*CR*F2;
+Gator Glider*7*CR;
+Gator Glider*PERM*CR;
+
+| spells =
+
+}}

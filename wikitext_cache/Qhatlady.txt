@@ -1,0 +1,291 @@
+{{Stub|which version of the '''Mutate''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 11,705
+| crecla = Qhat
+| school = Balance
+| school2 = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+96 Any;
+
+| criticalblock =
+87 Any;
+
+| outpierce =
+6%;
+
+| outboost =
+75%;
+
+| incboost =
+5% Myth;
+10% Life;
+
+| incresist =
+45% Death;
+50% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gamma Globulin;
+Globulin;
+
+| world = Empyrea
+| location = Sepidious
+| subloc1 = The Heart
+| descrip =
+
+| speech =
+:''"Crazy? I'm not crazy. I'm just passionate about my work! You wanna see crazy? Take a few steps closer and I'll show you crazy! MEEEOOOOWWW!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"You've got to be kitten me..."'' - If a Wizard joins the duel after Round 1, Qhatlady will cast {{Link|Spell|Mana Burn}} on the Wizard.
+*{{Icon|Aura}} ''"You're purrfect without that!"'' - If a Wizard casts an [[:Category:Aura Spells|Aura]] Spell, she will cast {{Link|Spell|Supernova}} on the Wizard.
+*{{Icon|Manipulation}} ''"Sparkly!"'' - After casting her Balance Natural Attack, Qhatlady will cast {{Link|Spell|Steal Charm}} and {{Link|Spell|Steal Ward}} on the Wizard.
+
+| spellnotes =
+*Casts a Death version of Sabertooth.
+
+| casts =
+Dark Shepherd;
+Frenzy;
+Elemental Shield (-55%);
+Spirit Shield (-55%);
+Black Mantle (-55%, 0 Pip);
+Virulent Plague;
+Spirit Blade;
+Deathblade (+40%);
+Spirit Trap;
+Mass Feint (+75%);
+Cat Thug (180);
+Loremaster;
+Natural Attack (Balance 110-220-330);
+Savage Paw;
+Abyssal Wurm;
+Shadow of Fate;
+Mighty Judgement;
+Nested Darkness;
+Chimera (375);
+Sabertooth;
+Red Banshee;
+Natural Attack (Death 110-220-330, 80%);
+Deer Knight;
+Qismah's Wrath;
+From Beyond;
+Black Cat (660-700);
+Sorrow's Shadow;
+Ominous Scarecrow (Death);
+
+| quests =
+He's Good for the Heart;
+Qhatastrophe;
+
+| gold =
+505 - 851;
+
+| hats =
+Cabalist Hood of Vengeance;
+Interstellar Hero's Helm;
+Nostalgic Cabal Hood;
+
+| robes =
+Interstellar Explorer's Uniform;
+
+| boots =
+Cabalist Stompers of Finality;
+Interstellar Explorer's Trekkers;
+
+| athames =
+Cabalist Dagger of Vengeance;
+Cabalist Schism Dagger;
+Interstellar Hero's Knife;
+
+| amulets =
+Cabalist Amulet of the First;
+
+| rings =
+Interstellar Delegate's Band*F2*WMV;
+Interstellar Engineer's Band;
+Interstellar Explorer's Band;
+Interstellar Medic's Band;
+Interstellar Officer's Band;
+Interstellar Warrior's Band*F3*WMV;
+
+| wands =
+Medic's Hexacorder;
+
+| decks =
+
+| items =
+Dwarven Book Case*F3;
+Dwarven Dinner Table*F2*WMV;
+Dwarven File*F3;
+Dwarven Side Table*F3*WMV;
+Empyrea Aeriel Theme*F2*WMV;
+Empyrea Athanor Combat Theme;
+Empyrea Brain Theme 2;
+Empyrea Dance Hall Theme;
+Empyrea Flotsam Combat Theme*F4*WMV;
+Empyrea Jungle Theme;
+Empyrea Lava Lock Theme;
+Empyrea Leisure Dome Theme*F2*WMV;
+Empyrea Outer Athanor Theme*F2*WMV;
+Empyrea Sepidious Combat Theme;
+Empyrea Sepidious Theme;
+Empyrea Sewer Theme;
+Empyrea Zanadu Theme*F2*WMV;
+Fire Dwarf Chair;
+Ice Dwarf Bed;
+Ice Dwarf Chair;
+Pirate Party Barge Theme*F2*WMV;
+
+| cards =
+Berserk*F2;
+Brilliant Light*F2*WMV;
+Ether Shield;
+Galvanic Field;
+Link;
+Mass Death Prism;
+Mass Storm Prism*F2*WMV;
+Mutate Cat (Ice);
+Mutate Elf (Ice);
+Mutate Elf (Storm);
+Mutate Helephant (Ice);
+Mutate Kraken (Ice);
+Mutate Phoenix (Storm);
+Mutate Snowman (Storm);
+Mutate Swarm;
+Storm Shield;
+
+| reagents =
+Ancient Scroll*F6*WMV;
+Antique Coins*F3*WMV;
+Black Pearl*F3;
+Blood Moss*F2*WMV;
+Brass*F4*WMV;
+Bronze Gear;
+Cobalt*F3*WMV;
+Ectoplasm*F3*WMV;
+Flying Squid Ink*F7*WMV;
+Nickel*F2*WMV;
+Scales*F3*WMV;
+Spider Silk;
+Spring;
+Tin*F2*WMV;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate*F2*WMV;
+Beast Wellington*F5*WMV;
+Drumstick;
+Eye Candy*F3*WMV;
+Glowing Taffy*F3*WMV;
+Hot Cross Buns*F3;
+Pizza*F2;
+Rock and Roll Candy*F3*WMV;
+Satyr Chow*F3*WMV;
+Sprinkle Cupcake*F4*WMV;
+Veggie Juice;
+
+| jewels =
+Ally Precision Citrine;
+Ally Stun Block Sapphire;
+Ally Volcanic Shield Sapphire;
+Balance-Dealer Citrine;
+Death Assailant Onyx;
+Death-Shot Onyx;
+Fire-Eye Ruby;
+Get Sunbird Ruby;
+Life-Away Jade;
+Lustrous Accurate Onyx +11%;
+Lustrous Blocking Jade +13;
+Lustrous Blocking Ruby +13;
+Lustrous Critical Ruby +13*F2*WMV;
+Lustrous Defense Amethyst +45;
+Lustrous Defense Sapphire +45;
+Lustrous Health Opal +100;
+Renew Opal;
+Sap Health Talent Citrine;
+Shiny Critical Peridot +15;
+Shiny Critical Ruby +15;
+Shiny Damage Hematite +50;
+Shiny Damage Onyx +25;
+Shiny Damage Peridot +25;
+Shiny Health Opal +112;
+Shiny Health Opal +113*F2*WMV;
+Shiny Health Opal +114;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+Sparkling Accurate Amethyst +13%;
+Sparkling Accurate Onyx +13%;
+Sparkling Blocking Jade +17;
+Sparkling Blocking Ruby +17*F2*WMV;
+Sparkling Critical Onyx +17;
+Sparkling Critical Sapphire +17;
+Sparkling Damage Amethyst +27;
+Sparkling Damage Jade +27;
+Sparkling Defense Peridot +53;
+Sparkling Health Opal +117;
+Sparkling Health Opal +118*F3;
+Sparkling Health Opal +119*F2*WMV;
+Sparkling Mana Opal +49;
+Spell-Defying Opal;
+
+| pins =
+
+| pets =
+Blue Globulin;
+Green Globulin;
+
+| seeds =
+Angora Bunny Ears*F3*WMV;
+Baby Carrots;
+Bell Pepper*F4*WMV;
+Blue Huckleberries*F5*WMV;
+Boiled Peanuts*F5*WMV;
+Bread Fruit Bush*F4*WMV;
+Clockwork Flower*F2;
+Couch Potatoes*CR*F6*WMV;
+Deadly Fly Trap;
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Face Palm*F2;
+Fiery Boom Shroom;
+Fish on a Vine*F4*WMV;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Golden Couch Potatoes*F3;
+Grapes of Wrath*CR*F3;
+Ivy League*CR*F5*WMV;
+Ninja Fig*CR*F2*WMV;
+Orange Bell Pepper;
+Pink Huckleberries*F3*WMV;
+Pink Laugh-O-Dil;
+Purple Grapes of Wrath*F2*WMV;
+Red Couch Potatoes;
+Red Grapes of Wrath;
+Red Huckleberries;
+Rye Bread Fruit Bush;
+Sour Fickle Pickle;
+Sugar Khrystal*CR*F2*WMV;
+Trumpet Vine;
+Ultra Trumpet Vine;
+White Laugh-O-Dil;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

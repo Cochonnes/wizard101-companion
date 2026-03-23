@@ -1,0 +1,126 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 14
+| heal = 11,265
+| crecla = Demon
+| crecla2 = Elephant
+| school = Life
+| school2 = Storm
+| cheats = Yes
+| shadowslots = 1
+| startpips = 4
+| powerpips = Yes
+| outpierce =
+10%;
+
+| outboost =
+60%;
+
+| incboost =
+None;
+
+| incresist =
+20% Any;
+
+| outhealing =
+80%;
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Death Oni (Tier 2);
+Plague Oni (Tier 2);
+War Oni (Tier 2);
+
+| world = Housing Instance
+| location = Jade Oni Rematch
+| subloc1 = Jade Oni Challenge (Tier 2)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+'''Jade Oni:'''
+*''"Your Doom is Imminent"'' - Jade Oni (Tier 2) casts Spirit Blade on himself.
+*''"You were warned. Bwahaha!"'' - Jade Oni (Tier 2) casts Primal Oni.
+
+'''Death Oni:'''
+*''"You dare mock Death?"'' - Whenever a Blade is cast, Death Oni (Tier 2) casts {{Link|Spell|Putrefaction}}.
+**Damage Global spells will trigger this cheat.
+*''"Spirits of the Dead Protect Me!"'' - Death Oni (Tier 2) casts {{Link|Spell|Spirit Shield}} on self.
+*''"Think you're tough?"'' - Death Oni (Tier 2) casts {{Link|Spell|Doom Oni}}.
+
+'''Plague Oni:'''
+*''"A Pox Upon your House!"'' - On the third Round, Plague Oni (Tier 2) casts {{Link|Spell|Plague}}.
+*''"Those with the Most have the Most to Lose!"'' - Plague Oni (Tier 2) casts a version of {{Link|Spell|Oni's Shadow}} that gives the Wizard and himself a Shadow Pip without removing Pips.
+
+'''War Oni:'''
+*''"Your Armaments are No Match for the Heat of the Forge!"'' - If a Wizard casts a Shield, War Oni (Tier 2) casts {{Link|Spell|Oni's Forge}}.
+**'''Note: '''Oni's Forge removes up to 3 Shields, and gives an Overtime Heal for 5 Rounds per Shield removed.
+*''"Let the war rage on!"'' - War Oni (Tier 2) casts {{Link|Spell|Sprite}} on himself.
+
+| spellnotes =
+
+| casts =
+Devotion;
+Lifeblade (+40%);
+Spirit Blade;
+Darkwind (+35%);
+Nature's Wrath (Tier 3b);
+Hungry Caterpillar;
+Centaur (Tier 3b);
+Wings of Fate;
+Primal Oni;
+Thunder Snake (Tier 3b);
+Storm Shark (Tier 3b);
+Hammer of Thor (Tier 3b);
+Rusalka's Wrath;
+Storm Lord;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Jade Oni (Rematch)
+
+}}

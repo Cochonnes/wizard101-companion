@@ -1,0 +1,192 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 6,400
+| crecla = Wyrm
+| school = Fire
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+15% Life, Balance;
+
+| incresist =
+30% Death;
+40% Fire;
+60% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Thundersnow Troll (Tier 2);
+Thundersnow Troll (Tier 2);
+Thundersnow Troll (Tier 2);
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 2)
+| descrip =
+
+| speech =
+:''"Ssss... I see you there, vermin. Through luck or courage, you have made it this far, Wizard. May your bones split, your guts burst, and your tower burn to ash! Come closer and let me vomit coldfire upon you!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Unlike most dragons, he doesn't spit fire. Instead he spits water so cold it instantly frostburns whatever it touches.
+
+| extract class =
+Wyrm;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Absorb}} On the first Round, receives a Frozen Armor on self that absorbs 400 Damage.
+**When two of his Minions are defeated, receives a second Frozen Armor that absorbs 800 Damage.
+**When his final Minion is defeated, receives a third Frozen Armor that absorbs 1,600 Damage.
+***Defeating all of his Minions, or [[Spell:Beguile|Beguiling]] him, will cause him to add the last two Absorbs.
+*{{Icon|Manipulation}} If a Wizard uses {{Link|Spell|Steal Ward}}, Eirikur will cast {{Link|Spell|Brimstone Revenant}} dealing 500 Fire Damage, without the Fire Trap, and then cast Steal Ward to take back the Absorb.
+
+| spellnotes =
+
+| casts =
+Smoke Screen;
+Fireblade;
+Fire Trap;
+Choke;
+Fire Elf (55+240);
+Meteor Strike (355-395);
+Fire Serpent (525);
+Phoenix;
+Natural Attack (Eirikur Fire);
+
+| quests =
+Hall of the Bear;
+
+| gold =
+151 - 166;
+
+| hats =
+Steel Raven Helmet (Level 30+)*CR;
+
+| robes =
+Everwinter Plate (Level 30+)*CR;
+
+| boots =
+Boots of Steel Wings (Level 30+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Trickster's Lying Bow (Level 30+)*CR*F2*WMV;
+
+| decks =
+
+| items =
+Barbaric Throne*F2*WMV;
+Clawed Runestone;
+Heroic Runestone;
+Raven Tree Statue*F2*WMV;
+Runestone Spiral;
+Sigiled Runestone*F2*WMV;
+
+| cards =
+Colossus*F2*WMV;
+Frost Giant*F2*WMV;
+Leviathan*F2*WMV;
+Orthrus*F2*WMV;
+Ra;
+Rebirth;
+Regenerate*F2*WMV;
+Satyr*F3*WMV;
+Skeletal Dragon;
+Snow Angel;
+Woolly Mammoth*F2*WMV;
+
+| reagents =
+Acorn*F2*WMV;
+Copper;
+Deep Mushroom;
+Diamond;
+Fossil;
+Frost Flower;
+Grendelweed;
+Iron;
+Mist Wood;
+Ore;
+Red Mandrake*F2*WMV;
+Spider Silk*F2*WMV;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Bad Honeyed Dates;
+Beetle Cream Soda*F2*WMV;
+Bunch of Figs;
+Cranberry Frog;
+Drumstick;
+Fried Worms;
+Frosty Sugar Cubes;
+Fruit and Nut Bar;
+Fuzzy Peach Fizz;
+Hard Boiled Beetle Eggs;
+Lemon Daisy*F2*WMV;
+Lime Peel Rickey;
+Peppercorn*F3*WMV;
+Pollen Bombs;
+Salmon Joy;
+Salmonberry;
+Spicy Drumstick;
+Sunflower Hearts;
+Tiny Fish;
+Wheat Cracker*F2*WMV;
+Wormy Apple;
+
+| jewels =
+Cracked Damage Amethyst +5;
+Cracked Damage Sapphire +5;
+
+| pins =
+
+| pets =
+Arctic Serpent;
+Snow Serpent;
+
+| seeds =
+Evil Snow Peas;
+Frozen Fly Trap;
+Moon Flower;
+Snow Apples;
+White Desparagus;
+White Laugh-O-Dil;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

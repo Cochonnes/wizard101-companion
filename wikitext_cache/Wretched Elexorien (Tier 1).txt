@@ -1,0 +1,196 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,560
+| crecla = Grendel
+| school = Life
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Brume Goblin (Tier 1);
+Brume Goblin (Tier 1);
+Brume Goblin (Tier 1);
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 1)
+| descrip =
+
+| speech =
+:''"Loathed one, I have been anguished since I first heard news of your struggle with Tyrfing, my son. I will ruin you, and then exact vengeance upon Jarl Whiteshield and all his kin! Your heads will serve as warning to all who seek out Wretched Elexorien!"''
+
+| cheatnotes =
+*{{Icon|Weakness}} At the beginning of the first Round, and every 3 Rounds after, Wrethced Elexorien casts {{Link|Spell|Weakness (-30%)}} on all allies.
+
+| spellnotes =
+
+| casts =
+Guiding Light;
+Guidance;
+Life Bat;
+Fairy (480);
+Unicorn (315);
+Lifeblade (+40%);
+Imp (80-120);
+Life Scarab;
+Nature's Wrath;
+Natural Attack (Life 123-1,700);
+
+| quests =
+Hall of the Bear;
+
+| gold =
+47 - 117;
+
+| hats =
+Raven Helm of Unkindness (Level 10+)*CR;
+Thought and Memory Helm (Level 10+)*CR;
+
+| robes =
+Armor of Many Winters (Level 10+)*CR;
+
+| boots =
+Boots of Whispered Flight (Any Level);
+Boots of Whispered Flight (Level 10+)*CR;
+Unkind Winter Boots (Any Level);
+Unkind Winter Boots (Level 10+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Raven's Bow of Unkind Winter (Level 10+)*CR;
+
+| decks =
+
+| items =
+Bloodvine Shield*F2;
+Hanging Lantern (Winterbane Hall);
+Lantern Post;
+Minor Runestone*F2;
+Standing Sconce;
+Tree Lantern;
+Weapons Cache;
+Wooden Barrow;
+Wooden Wagon (Grizzleheim);
+Wooden Wheelbarrow;
+
+| cards =
+Blizzard;
+Blue Phoenix;
+Colossus;
+Crow;
+Evil Snowman;
+Freeze*F2;
+Frost Beetle;
+Frost Giant;
+Frostbite;
+Harvest Lord;
+Ice Wyvern;
+Icebird;
+Orthrus;
+Phoenix;
+Ra;
+Rebirth;
+Regenerate;
+Satyr*F2;
+Skeletal Dragon;
+Snow Angel;
+Snow Bird*F2;
+Snow Serpent;
+Storm Bird;
+Sunbird;
+Thunderbird (515-595);
+Woolly Mammoth;
+
+| reagents =
+Acorn;
+Blood Moss*F2;
+Deep Mushroom;
+Diamond;
+Frost Flower*F2*WMV;
+Grendelweed*F2;
+Mist Wood;
+Nightshade;
+Ore;
+Pyrite*F2;
+Red Mandrake;
+Spider Silk;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Bad Honeyed Dates;
+Beetle Cream Soda;
+Black Sun Seeds;
+Bunch of Figs;
+Caramel Corn;
+Cranberry Frog*F2;
+Drumstick;
+Fried Worms;
+Frozen Snails;
+Fruit and Nut Bar;
+Fuzzy Peach Fizz;
+Hard Boiled Beetle Eggs*F2;
+Lemon Daisy;
+Lime Peel Rickey;
+Peppercorn*F2;
+Pickled Garlic Grubs;
+Pollen Bombs*F2;
+Salmon Joy;
+Salmonberry;
+Simple Sugar Pop;
+Spicy Drumstick;
+Sweet Mango;
+Tiny Fish;
+Wheat Cracker;
+Wormy Apple;
+
+| jewels =
+Cracked Damage Citrine +3;
+Cracked Health Opal +8;
+Cracked Mana Opal +4;
+Cracked Mending Opal +1%;
+
+| pins =
+
+| pets =
+Raven*CR;
+Red Cap*CR;
+
+| seeds =
+Evil Snow Peas;
+Frozen Fly Trap*F2;
+Moon Flower;
+Snow Apples;
+White Desparagus*F2;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

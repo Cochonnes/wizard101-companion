@@ -1,0 +1,119 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,800
+| crecla = Witch
+| school = Fire
+| startpips = 4
+| powerpips = Yes
+| critical =
+72;
+
+| criticalblock =
+38;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Wizard City
+| location = Deep Warrens
+| subloc1 = Tower of Peladon
+| descrip =
+Thaumaturges must defeat Brunach Sorrow Heart during the Quest, ''The Fourth Professor''.
+*This Boss is not repeatable.
+*This Boss is located in a solo dungeon. Other Wizards will not be able to port into the dungeon.
+
+| speech =
+:''"Stay out, Wizard, or I'll curse ye so's yuir pets never hatch an yuir clothes never stitch!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Fireblade;
+Fire Trap;
+Fire Shark;
+Meteor Strike;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Efreet;
+
+| quests =
+The Fourth Professor;
+
+| gold =
+44 - 60;
+
+| hats =
+
+| robes =
+
+| boots =
+Finely Balanced Boots;
+Hanging Stones Striders*F2;
+Ponycorn Hoofers;
+Steppers of Ice and Fire;
+Witch Doctor's Juju Rangers;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Colossus;
+Helephant;
+Stormzilla;
+Triton;
+Wraith;
+
+| reagents =
+Bronze;
+Deep Mushroom;
+Mist Wood;
+Ore;
+Pearl;
+Shell;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

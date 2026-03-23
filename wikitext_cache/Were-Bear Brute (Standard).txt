@@ -1,0 +1,113 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 14,475
+| crecla = Were-Bear
+| school = Storm
+| school2 = Moon
+| cheats = Yes
+
+| startpips = 6
+| powerpips = Yes
+| critical = 
+672 Storm;
+
+| criticalblock =
+570 Any;
+
+| outpierce =
+24% Storm;
+
+| outboost =
+104% Storm;
+
+| incboost =
+66% Myth;
+
+| incresist =
+36% Any;
+66% Storm;
+
+| outhealing =
+22%;
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Mysterious Werewolf (Were-Bear Brute, Standard);
+
+| world = Darkmoor
+| location = Howling Lands
+| subloc1 = Overgrown Estate (Standard)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Afterlife}} ''"*growl* I'll get you yet."'' - When Mysterious Werewolf is defeated, he will revive himself for 100% of his max health and will exit combat at the end of the turn.
+
+'''Cheat Cycle'''
+
+This cheat cycle repeats every 4 rounds as long as the Mysterious Werewolf is still alive.
+*{{Icon|Heal}} ''"You will not fall!"'' - At the beginning of the first round in this cycle, Mysterious Werewolf will cast a special version of {{Link|Spell|Pigsie}} that heals all allies and applies 3 heal over times for 4 rounds.
+*{{Icon|Blade}} ''"Sharpen your claws!"'' - At the beginning of the fourth round in this cycle, Mysterious Werewolf will cast a special version of {{Link|Spell|Bladestorm}} that applies two +30% damage charms to all allies.
+
+| spellnotes =
+
+| casts =
+Inferno Attenuate;
+Galvanic Field;
+Inferno Blade;
+Elemental Blade;
+Mass Storm Trap;
+Empower;
+Kraken (Tier 2b);
+Storm Lord (Tier 5b);
+Heqet (Tier 2b);
+Lightning Goon;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

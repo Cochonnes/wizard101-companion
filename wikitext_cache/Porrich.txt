@@ -1,0 +1,186 @@
+{{Stub|which version of the ''{{Link|TreasureCard|Shatter}} Treasure Card'' this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 8,240
+| crecla = Ogre
+| school = Myth
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Night Goblin;
+
+| world = Avalon
+| location = High Road
+| subloc1 = Red Thorn Tower
+| descrip =
+Porrich is an ogre that guards the Red Thorn Tower Dungeon.<br/>Two additional {{Link|Creature|Hobgoblin Fiend}}s appear if more than two Wizards are present.
+
+| speech =
+:''"Lord Thornwhip sent me a new toy! A Wizard toy, not knight! Come here..."''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Mythblade;
+Myth Trap;
+Yellow Troll;
+Natural Attack (Myth 140-280-430);
+Humongofrog;
+Myth Imp;
+Minotaur;
+Earthquake;
+Orthrus;
+Medusa;
+
+| quests =
+Every Rose Has Its Thorn;
+
+| gold =
+86 - 102;
+
+| hats =
+Brisk Helmet of Nodor;
+Fire Spirits' Toasty Helm;
+Helm of Nature's Wrath;
+Hood of the Sacred Lake*F2;
+Mask of the Catalan*F3;
+Mask of the Silent Hunter;
+
+| robes =
+Catalan's Scales*F3*WMV;
+Jabberwock's Plate*F3*WMV;
+Robes of the Silent Hunter;
+
+| boots =
+Friend of the Fire Elf Boots;
+Knight's Boots of Justice*F3*WMV;
+Merciful Knight's Boots*F3*WMV;
+Ponycorn Hoofers;
+Slick Road Grippers;
+Splashing Stream Waders;
+
+| athames =
+Horn Handled Knife;
+Steel of the Wild Hunt;
+
+| amulets =
+Dependable Squire's Torc*F2;
+Torc of Pluck*F2*WMV;
+
+| rings =
+Brisk Circle of Nodor*F3*WMV;
+Circle of Caliburn;
+Ganelon's Lost Ring;
+
+| wands =
+Club of the Heath*F2*WMV;
+Crystal Cavern Cudgel*F2*WMV;
+
+| decks =
+Silverweave Spread*F3*WMV;
+
+| items =
+Avalon Abbey Road Theme*F2*WMV;
+Avalon Combat Theme;
+
+| cards =
+Blinding Light*F3*WMV;
+Cleanse Ward*F4*WMV;
+Fire Dragon;
+Gargantuan;
+Myth Prism*F5*WMV;
+Orthrus;
+Pierce*F3*WMV;
+Ra;
+Rebirth;
+Shatter*F4*WMV;
+Snow Angel;
+Storm Lord;
+Unstoppable;
+
+| reagents =
+Black Lotus*F2*WMV;
+Cat Tail*F5*WMV;
+Cobalt;
+Deep Mushroom*F3*WMV;
+Frost Flower*F3*WMV;
+Lava Lily*F3*WMV;
+Mist Wood*F3*WMV;
+Ore*F3*WMV;
+Parchment*F3*WMV;
+Pearl*F2*WMV;
+Red Mandrake*F4*WMV;
+Shell*F3*WMV;
+Stone Block*F3*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2*WMV;
+Cheese Broccoli;
+Chocolate Strawberry*F2*WMV;
+Cracker;
+Deviled Eggs;
+Glowing Star Fruit;
+Golden Grapes*F3*WMV;
+Green Grapes*F2;
+Gummy Firecat;
+Gummy Humongofrog;
+Gummy Wyrms*F3*WMV;
+King Banana;
+Kola Nuts*F3*WMV;
+Nettle Root;
+Pigeon Pie;
+Tiny Fish;
+Treant Bark;
+
+| jewels =
+Clear Accurate Ruby +9%;
+Fire-Eye Ruby;
+Life-Eye Jade;
+Myth-Boon Peridot;
+Opaque Critical Jade +7;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+Deadly Fly Trap;
+Evil Magma Peas*CR;
+Key Limes*CR;
+Pink Dandelion*CR*F2;
+Pink Huckleberries;
+White Tiger Lily*F2;
+
+| mounts =
+
+| spells =
+
+}}

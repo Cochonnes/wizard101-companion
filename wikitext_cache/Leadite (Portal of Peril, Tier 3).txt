@@ -1,0 +1,151 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 14,860
+| crecla = Undead
+| school = Death
+| school2 = Balance
+| cheats = Yes
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Death;
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+20%;
+
+| outboost =
+96%;
+
+| incboost =
+30% Life;
+
+| incresist =
+36% Fire, Ice, Storm, Myth, Balance, Shadow;
+66% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+
+| summons =
+Uraniumite;
+Uraniumite;
+
+| world = Portal of Peril
+| location = Sinbad & the Iron Sultan Gauntlet (Portal of Peril)
+| subloc1 = Metallos (Portal of Peril)
+| descrip =
+Leadite is one of two secret bosses that can appear in the Sinbad & the Iron Sultan Gauntlet, the other of which being [[Creature:Metallossus (Portal of Peril, Tier 3)|Metallossus]]. Found behind a false wall between the [[Creature:Metaltaur (Portal of Peril, Tier 3)|Metaltaur]] and [[Creature:Chromeclops (Portal of Peril, Tier 3)|Chromeclops]] encounters, Leadite will not appear during every run, and will only be present if the Metallossus is not.
+*This version of the Boss is unique to the Portal of Peril event.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+Would you believe he died of lead poisoning?
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| altlink = Leadite
+
+| cheatnotes =
+*''"Lead is heat resistant!"'' - If Leadite is damaged by a Damage over Time Spell, then he will interrupt-cast the following Spells in order:
+**{{Link|Spell|Chromatic Blast}}
+**{{Link|Spell|Frenzy}}
+**{{Link|Spell|Iron Curse (Tier 5a)}}
+*''"My half-life means you're half done!"'' - When Leadite is defeated, at the end of the Round, two {{Link|Creature|Uraniumite}}s will join the duel.
+*''"Ha! Even my half-lives have half-lives."'' - When a Uraniumite is defeated, at the end of the Round, two {{Link|Creature|Protactimite}}s will join the duel.
+
+| spellnotes =
+
+| casts =
+Magnify;
+Dark Tribute;
+Balanceblade;
+Spirit Blade;
+Ghoul (Tier 2b);
+Kiiii-Yaaaa! (Tier 2a);
+Dream Golem (Tier 2a);
+Call of Khrulhu;
+Wraith (Tier 5b);
+Avenging Fossil;
+Spiritual Tribunal (Tier 2b);
+Savage Paw (Tier 2a);
+Nested Fury;
+Chimera;
+
+| quests =
+
+| dropnotes =
+This Boss will always drop 5 Fortune Coins.
+
+| gold =
+14 - 46;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Fortune Coin @ 5 Fortune Coins*F3*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Plucky Gryphon*CR;
+Scrappy Gryphon*CR;
+Snappy Gryphon*CR;
+
+| seeds =
+
+| mounts =
+Roc*PERM*CR;
+
+| spells =
+
+| altimage = Leadite
+}}

@@ -1,0 +1,206 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,200
+| crecla = Robot
+| crecla2 = Spider
+| crecla3 = Golem
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Death;
+
+| incresist =
+70% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Clockwork Warrior;
+
+| world = Marleybone
+| location = Katzenstein's Lab
+| descrip =
+Two additional Clockwork Warrior Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Prepare to be broken, kid!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Marleybone
+| tome description =
+Stands for Creepy-Little-Arachnid-Not-Kind-Eradication-Robot. Also cause of the sound it makes.
+
+| extract class =
+Golems;
+Spider;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Storm Damage per Pip.
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Black Mantle;
+Sprite;
+Lifeblade;
+Life Trap;
+Imp;
+Leprechaun;
+Nature's Wrath;
+Seraph;
+Evil Snowman;
+Sunbird;
+Storm Shark;
+
+| quests =
+Gate Is Enough;
+
+| gold =
+35 - 57;
+
+| hats =
+Cat Burglar's Cap;
+Clanker's High Quality Cowl;
+Clanker's Magnificent Hat*F3*WMV;
+Clanker's Premium Cap*F2*WMV;
+Clanker's Refined Cap*F2;
+
+| robes =
+Artificial Robe;
+Clanker's Exquisite Cloak*F4*WMV;
+Clanker's Noteworthy Robe*F2*WMV;
+Clanker's Robe*F2;
+Clanker's Vest of Certainty*F2;
+Cloak of Fascination;
+Dexterous Vest;
+Garment of the Supreme;
+Polished Garments;
+Precious Cloak;
+Robe of Superiority;
+Savvy Vestment;
+Thinker's Robe;
+Vestment of Expertise;
+Vestment of the Beacon;
+
+| boots =
+Boots of the Nucleus*F2;
+Clanker's Boots of Lucidity;
+Clanker's Convulsive Shoes*F3*WMV;
+Clanker's Irritating Shoes*F2;
+Clanker's Provoked Boots*F2;
+Distinguished Slippers;
+Exclusive Boots;
+High Quality Boots;
+Noteworthy Slippers;
+Sandals of Paramount;
+Shoes of Sentiments;
+Shoes of the Chimera;
+Shoes of the Devoted*F2;
+Slippers of Gusto*F2*WMV;
+Slippers of the Worrier*F3;
+
+| athames =
+Clanker's Dirk of Endurance*F3;
+Clanker's Lifeline Dagger*F4*WMV;
+Electrified Kris*F2*WMV;
+Informant's Dirk;
+Old Smokey's Dagger;
+Watchman's Athame*F2;
+
+| amulets =
+Clanker's Choker of Bones*F2*WMV;
+
+| rings =
+Clanker's Ring of Symmetry*F2*WMV;
+Clanker's Soothing Ring;
+Thinker's Ring;
+
+| wands =
+Clanker's Enigmatic Staff*F3*WMV;
+
+| decks =
+Clanker's Deck of Mending*F3*WMV;
+
+| items =
+Altar with Candles;
+Clanker's Trapdoor*F2*WMV;
+Large Maroon Rug;
+Marleybone Dance Theme*F2;
+Stein;
+
+| cards =
+Pacify;
+Satyr;
+Skeletal Pirate;
+Tough;
+
+| reagents =
+Bronze Gear*F3*WMV;
+Copper*F3*WMV;
+Iron*F2;
+Lead*F3;
+Nickel;
+Spider Silk*F2*WMV;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Gummy Bloodbat*F4*WMV;
+Medium Fish*F4*WMV;
+Redskin Peanut*F2*WMV;
+Square Watermelon;
+Stinky Cheese;
+Wheat Cracker;
+
+| jewels =
+Banshee Onyx;
+Chipped Damage Amethyst +8;
+Chipped Damage Sapphire +8;
+Cyclops Peridot;
+Dawdle Opal;
+Drain Opal;
+Energy Opal;
+Evil Snowman Sapphire;
+Life-Proof Jade;
+Locust Swarm Citrine;
+Storm Shark Amethyst;
+Storm-Proof Amethyst;
+
+| pins =
+
+| pets =
+Storm Serpent*F4*WMV;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

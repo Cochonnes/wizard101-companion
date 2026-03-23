@@ -1,0 +1,231 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 11,000
+| crecla = Deer
+| school = Death
+| startpips = 4
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Stag Charger;
+
+| world = Avalon
+| location = Caer Lyon
+| subloc1 = Morag Bloodtine's House
+| descrip =
+Morag Bloodtine is the holder of Angela's Mace.
+*Two additional Stag Charger Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Strange days, to have my home invaded by Wizards. Well, I'll put an end to that soon enough."''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Deathblade;
+Feint;
+Empower;
+Natural Attack (Death 170-335-500);
+Vampire;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+Skeletal Dragon;
+Dr. Von's Monster;
+
+| quests =
+Crush Crush Crush;
+ 
+| gold =
+69 - 269;
+
+| hats =
+Chaos Lord's Helm*F2*WMV;
+Fire Elf Champion's Helm;
+Great Faerie Knight Helm;
+Helm of the Lady's Chosen One*F2;
+Honor Bound Helm;
+Lightning Lizard Rider's Helm;
+Paladin's Frosty Helmet;
+
+| robes =
+Brave One's Plate;
+Courageous Armiger's Vestment;
+High Court Robes*F4*WMV;
+Honor Bound Surcoat;
+Horned One's Tunic*F2*WMV;
+Hospitable Armiger's Tartan;
+Noble Armiger's Armor;
+
+| boots =
+Deep Is The Well Waders*F3*WMV;
+Hundred Year Bridge Walkers*F5*WMV;
+Jouster's Footguards;
+
+| athames =
+Guest Right Blade*F2;
+Inhospitable Knife*F4*WMV;
+
+| amulets =
+Knight's Torc of Virtue*F2;
+Seely Wizard's Torc;
+
+| rings =
+Bad Host Band;
+Bannerman's Honorbound Ring*F2*WMV;
+Black Annie's Band;
+Crystal Cave Rose*F3*WMV;
+Knight of the Wyrd's Band;
+
+| wands =
+Blade of Mettle*F2*WMV;
+Steel-Bladed Doom*F3*WMV;
+
+| decks =
+Druid's Knot Deck*F3;
+Silvershield Cards*F4*WMV;
+
+| items =
+Avalon Combat Theme*F2*WMV;
+Avalon Glorious Theme;
+Avalon Statue*F2;
+Covered Wagon (Avalon)*F2*WMV;
+Small Arms Weapons Rack;
+Wooden Mirror*F2*WMV;
+
+| cards =
+Amplify*F3*WMV;
+Beguile*F5*WMV;
+Berserk*F4*WMV;
+Colossal*F4*WMV;
+Dark Tribute*F5*WMV;
+Deer Knight*F3*WMV;
+Empowerment*F3*WMV;
+Extraordinary*F3*WMV;
+Fire Dragon*F2;
+Fortify*F3*WMV;
+Frost Giant;
+Gargantuan*F3*WMV;
+Infallible*F2;
+Mend*F4*WMV;
+Orthrus;
+Plague*F6*WMV;
+Poison*F3*WMV;
+Power Nova*F2;
+Ra;
+Rebirth*F2*WMV;
+Sacrifice*F5*WMV;
+Scarecrow*F3*WMV;
+Storm Lord*F3*WMV;
+Unstoppable;
+Vengeance*F3*WMV;
+Virulent Plague*F2*WMV;
+
+| reagents =
+Black Lotus*F4*WMV;
+Brass;
+Bronze*F2*WMV;
+Cat Tail*F4*WMV;
+Cobalt*F3*WMV;
+Deep Mushroom*F4*WMV;
+Frost Flower*F3*WMV;
+Lava Lily*F4*WMV;
+Mist Wood*F4*WMV;
+Nickel;
+Ore*F5*WMV;
+Parchment*F5*WMV;
+Pearl*F2*WMV;
+Red Mandrake*F5*WMV;
+Shell*F5*WMV;
+Steel*F2*WMV;
+Stone Block*F5*WMV;
+Tin*F3;
+
+| spellements =
+
+| snacks =
+Bogwich*F2*WMV;
+Buttered Bread;
+Delicious Cookie;
+Deviled Eggs;
+Flaming Soup*F2*WMV;
+Flapjacks;
+Glowing Star Fruit;
+Glowing Taffy;
+Goat Cheese*F2*WMV;
+Golden Apple*F3*WMV;
+Golden Grapes;
+Gummy Humongofrog;
+Gummy Wyrms*F2*WMV;
+Jelly Baby*F2*WMV;
+King Banana;
+Kola Nuts;
+Pigeon Pie;
+Roasted Chickpeas*F2*WMV;
+Salmonberry;
+Shiny Tomato*F2;
+Spicy Drumstick;
+Strawberry Cupcake;
+Submarine Sandwich*F2*WMV;
+Treant Bark*F2*WMV;
+Uni-Corn*F3*WMV;
+
+| jewels =
+Bad Snowman Sapphire;
+Bummer Opal;
+Clear Blocking Opal +5;
+Clear Critical Peridot +9;
+Clear Defense Ruby +37;
+Deplete Opal;
+Enfeeble Amethyst;
+Flummox Opal;
+Great Learner Opal;
+Mander Opal;
+Pipe Down! Opal;
+Spirit Trap Citrine (Triangle);
+
+| pins =
+
+| pets =
+Hollow Knight*CR*F2;
+
+| seeds =
+Angel Oak*F2;
+Angora Bunny Ears*F3*WMV;
+Blue Huckleberries;
+Burning Snap Dragon;
+Deadly Helephant Ears*CR;
+Ninja Fig*CR;
+Pink Huckleberries*F3;
+Red Huckleberries*F2;
+Venus Fly Trap*F2;
+
+| mounts =
+
+| spells =
+
+}}

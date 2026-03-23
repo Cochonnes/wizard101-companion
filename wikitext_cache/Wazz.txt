@@ -1,0 +1,191 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 12,570
+| crecla = Bee
+| crecla2 = Insect
+| school = Life
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Black Shield;
+
+| world = Khrysalis
+| location = Fort Rachias
+| subloc1 = Saqqara Bird
+| descrip =
+
+| speech =
+:''"Who are you?  Egads, it's the Spellbinder!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+A famed collector of bird totems. Too bad he no longer has that Saqqara Bird in his collection.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Mend;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Natural Attack (Life 158-250-345);
+Goat Monk;
+Centaur (610-670);
+Bronze Helephant;
+Gnomes!;
+Spinysaur;
+
+| quests =
+Alone, Alone, All, All, Alone;
+
+| gold =
+124 - 151;
+
+| hats =
+
+| robes =
+Battle-Worn Burrower Armor;
+Kermes Fire Miner's Tunic;
+Mantis Plate of Frostfall*F3;
+Mantis Robe of Secrecy*F4*WMV;
+
+| boots =
+Burrower Scout's Hoppers*F5*WMV;
+Flame Legs Captain's Boots*F5*WMV;
+
+| athames =
+Blue Razor Hailstone Blade*F2*WMV;
+Hisser's Burning Cleaver*F2;
+
+| amulets =
+Benzzi's Campaign Memento*F2;
+Collar of the Besieged*F2;
+Mantis Prophet's Ornament*F3*WMV;
+
+| rings =
+
+| wands =
+Dirk of Burrower Harmony;
+Stave of Duststorms;
+Umbra Spear of Suppression;
+
+| decks =
+Bumbler's Sleetfall Pack*F2*WMV;
+Case of Engulfing Flames*F2;
+
+| items =
+Khrysalis Combat Theme 2;
+Khrysalis Desert Shadows Theme;
+Khrysalis Hive Combat Theme;
+
+| cards =
+Choke;
+Death Scarab;
+Fire Beetle;
+Frost Beetle*F2;
+Mass Infection*F2;
+Rat Illusionist*F2;
+
+| reagents =
+Astral Shard*F5*WMV;
+Black Lotus*F2;
+Black Pearl;
+Blood Moss*F2*WMV;
+Bone*F2;
+Bronze Gear*F2;
+Copper;
+Deep Mushroom*F5*WMV;
+Fire Blossom*F4*WMV;
+Fossil;
+Golden Pearl*F2*WMV;
+Lava Lily*F5*WMV;
+Mist Wood*F4*WMV;
+Nickel;
+Nightshade;
+Ore*F2*WMV;
+Orichalcum;
+Pyrite;
+Red Mandrake*F4*WMV;
+Stone Block*F3;
+Tungsten;
+Turquoise*F2;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Cauliflowers;
+Flaming Soup;
+Glowing Dragon Fruit;
+Glowing Star Fruit;
+Goat Cheese;
+Golden Apple;
+Golden Grapes;
+King Banana;
+Salmonberry;
+Uni-Corn;
+
+| jewels =
+Balance-Giver Citrine;
+Frost Beetle Sapphire;
+Polished Blocking Jade +12;
+Polished Blocking Ruby +12;
+Polished Defense Jade +44;
+Polished Health Opal +94;
+Polished Piercing Citrine +6%;
+Polished Piercing Jade +6%;
+Storm-Shot Amethyst; 
+Super-Dizzy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+Deadly Ninja Fig;
+Fiery Boom Shroom;
+Fish on a Vine;
+Frozen Fly Trap;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

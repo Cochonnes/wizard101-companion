@@ -1,0 +1,200 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 20,000
+| crecla = Pig
+| school = Fire
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Hanadzura (Tier 5);
+Hebitoho Wyrmling (Tier 5);
+Kuchisaki (Tier 5);
+
+| world = Housing Instance
+| location = Midnight Sun Pagoda
+| subloc1 = 
+| descrip =
+
+| speech =
+:''"I see you liberated Yoshinobu and his students. If you can't stop my halberd, you will find that we are not pushovers... like those "honorable" samoorai."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+He's easily angered. It doesn't take much to get him to throw down his shields and come out swinging.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Shield}} At the beginning of the first Round, Kaizoku will interrupt-cast a '''-90%''' version of Tower Shield on himself.
+**{{Icon|Damage}} If Kaizoku is damaged by any Spell, then he will interrupt-cast to replace the Tower Shield.
+**{{Icon|Manipulation}} Manipulation Spells that remove helpful Wards can be used to remove Kaizoku's Tower Shield without causing him to replace it.
+**This cheat will stop occurring after all of Kaizoku's Minions have been defeated.
+*{{Icon|Trap}} If a Trap is cast on Kaizoku, then he will interrupt-cast {{Link|Spell|Cleanse Ward}} on himself to remove it.
+*{{Icon|Damage}} At the beginning of every second Round, Kaizoku will interrupt-cast a Star Spell that deals '''600''' Star Damage to all Wizards.
+**The first time this cheat occurs, Wizards will be damaged in the normal order from right to left.  The second time this cheat occurs, Wizards will be damaged from left to right.  The order in which Wizards are damaged alternates every time this cheat occurs.
+**{{Icon|Minion}}{{Icon|Afterlife}} After all of Kaizoku's Minions have been defeated, Kaizoku will begin interrupt-casting this Spell ''every'' Round.
+**{{Icon|Ward}} ''"You stopped my Halberd?"'' - If a Wizard that is damaged by this cheat had any Wards, not including Damage Absorption Wards, then the Spell will not damage any other Wizards, and Kaizoku will interrupt-cast a Spell to remove all Wards from that Wizard and himself.  This will not trigger if the Wizard that has a Ward is the last Wizard to be damaged.
+*{{Icon|Minion}}{{Icon|Afterlife}} ''"Time to turn things up!"''  - After all of Kaizoku's Minions have been defeated, he will remove all Wards from himself.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip
+
+| casts =
+Amplify;
+Infallible;
+Fireblade;
+Fire Trap;
+Wyldfire;
+Fire Shark;
+Meteor Strike;
+Scald;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Efreet;
+Rain of Fire;
+
+| quests =
+Journey Into Midnight;
+
+| gold =
+62 - 206;
+
+| hats =
+Kozane Helm (Level 80+)*CR;
+Rokugo Helmet (Level 80+)*CR;
+Rokugo Helmet (Level 90+)*CR;
+
+| robes =
+
+| boots =
+Kozane Boots (Level 80+)*CR;
+Oyoroi Sandals (Level 80+)*CR;
+Rokugo Footwear (Level 80+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Ringed Broadsword (Level 80+)*CR;
+
+| decks =
+
+| items =
+Crossed Naginata Spears;
+Iron Tea Pot;
+Green Sword Display*F2;
+MooShu Combat Theme*F2;
+Ninja Pig Bobblehead;
+Oni Bobblehead*F2;
+Small Wooden Table;
+
+| cards =
+Amplify;
+Berserk*F2;
+Colossal;
+Empowerment;
+Extraordinary*F4;
+Forest Lord*F2;
+Fortify*F6;
+Frost Giant;
+Gargantuan*F2
+Infallible*F4;
+Medusa;
+Mend*F2;
+Power Nova;
+Rebirth;
+Scarecrow;
+Storm Lord;
+Unstoppable*F2;
+Vengeance;
+
+| reagents =
+Brass*F4;
+Bronze;
+Citrine*F3;
+Cobalt*F2;
+Crystal Vial;
+Jade*F2;
+Leather Straps*F3;
+Ruby*F3;
+Sapphire*F2;
+Shadow Oil;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Basil Poodle Noodles;
+Chow Chow Chow*F2;
+Crunch Apple*F2;
+Fire Passion Fruit;
+Golden Squash;
+Hot and Sour Bits*F2;
+Hot Ginger Snaps*F2;
+Jade Palace Tempura;
+Jar of Jelly Beans;
+Kapow Pug Poppers;
+King Banana;
+Large Watermelon;
+MooShu Broccoli;
+MooShu Tofu;
+Sweet and Sour Chow*F2;
+Zen Poppers;
+
+| jewels =
+Unstoppable Talent Opal;
+
+| pins =
+
+| pets =
+Stone Colossus;
+
+| seeds =
+Angel Oak;
+Orange Dandelion;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

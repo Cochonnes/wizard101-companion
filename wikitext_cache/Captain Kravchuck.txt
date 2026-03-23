@@ -1,0 +1,254 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 13,000
+| crecla = Polar Bear
+| school = Balance
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gulag Guard;
+
+| world = Polaris
+| location = Urville Station
+| subloc1 = Solitary Confinement Cave
+| descrip =
+
+| speech =
+*'''Captain Kravchuck:''' ''"What do you think you're doing? This is SO-LI-TAR-Y. One prisoner only, and we already have one. Wait a minute... you're not a guard!"''
+*'''{{Link|NPC|Ivan the Great}}:''' ''"No. You speak to Ivan the Great! And he did not come here to drop off prisoner; he came to pick one up! The Pingouin comes with us."''
+*'''Captain Kravchuck:''' ''"Oh yeah? Maybe when Pingouins fly, comrade. We have orders to keep this one here until she breaks. She isn't going anywhere."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Polaris
+| tome description =
+After a promising start to His military career, a poorly timed joke about the Empress' weight got him assigned to Solitary Confinement duty.
+
+| extract class =
+Polar Bear;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Elemental Defuse;
+Spirit Defuse;
+Donate Power;
+Balance of Power;
+Counterforce;
+Mana Burn;
+Loremaster;
+Supernova;
+Natural Attack (Balance 110-215-320);
+Savage Paw;
+Gaze of Fate;
+Mighty Judgement;
+Sabertooth;
+Judgement;
+
+| quests =
+Darling Clementine;
+
+| gold =
+953 - 1,525;
+
+| hats =
+Enchanter's Hat of Courage;
+The Goat Horns*CR;
+The Enchanter*CR;
+The Ice Horns*CR;
+The Manticore*CR;
+Tundarian Bear's Papakh;
+Tundarian Papakh of Fusion;
+Tundarian Papakh of Resolve;
+
+| robes =
+Enchanter's Cloak of Reverie*F2*WMV;
+Fancy Tundarian Chokha;
+Tundarian Bear's Cherkesska;
+Tundarian Coat of Fusion;
+Tundarian Jacket of Resolve*F2;
+Tundarian Sleet Parka;
+Tundarian Uniform of Rage;
+
+| boots =
+Enchanter's Boots of Courage;
+Enchanter's Fervid Trekkers;
+Tundarian Boots of Resolve;
+Tundarian Mukluks of Fusion;
+Tundarian Striders of Flux;
+
+| athames =
+Enchanter's Blade of Reverie;
+Enchanter's Fervid Blade;
+Enchanter's New Horizon Razor;
+Tayg Bodkin of Folklore;
+
+| amulets =
+Enchanter's Ampul of Courage*F2*WMV;
+Enchanter's Fervid Carcanet;
+Enchanter's Torc of Lightning;
+
+| rings =
+Band of the Forlorn Tayg;
+Enchanter's Fervid Circle;
+Enchanter's Ice Floe Charm;
+Enchanter's Loop of Courage;
+Enchanter's Terminus Ring;
+Snowbound Tayg Ringlet;
+
+| wands =
+Axe of the Snowbound Tayg;
+Tayg Axe of Folklore;
+Tayg Handaxe of Leveling;
+Tayg Hatchet of Sleetfall;
+Tayg Hatchet of Vitality;
+Tundarian Saber of Rage;
+
+| decks =
+Enchanter's Sheaf of Dread;
+Sleetfall Array of the Tayg;
+Tayg Hand of Folklore;
+Tayg Pack of Vitality;
+Tayg Pasteboards of Steam;
+
+| items =
+Arcanum Theme;
+Md Wood Wall Block;
+Polaris Frozen Combat Theme;
+Polaris Frozen Forest Theme;
+Polaris Gulag Combat Theme*F2;
+Polaris Gulag Theme;
+Polaris Ice Block Theme;
+Polaris Mine Combat Theme;
+Polaris Mine Theme;
+Polaris Opera Theme;
+Walruskberg Combat Theme;
+Walruskberg Liberated Theme*F2;
+Wood Arch Block*F2;
+Wood Corner Block;
+Wood Post Block;
+Wood Window Block*F2;
+
+| cards =
+Age of Reckoning;
+Ashen Bones*F2*WMV;
+Combustion;
+Helephant;
+Katabatic Wind;
+Mutate Helephant (Storm);
+Rusalka's Wrath;
+Winged Sorrow;
+
+| reagents =
+Aether*F3;
+Agave Leaves*F2*WMV;
+Agave Nectar;
+Amber*F2;
+Amber Dust*F2*WMV;
+Ancient Scroll;
+Aquamarine*F4*WMV;
+Astral Shard*F7*WMV;
+Black Pearl*F3*WMV;
+Blood Moss*F3*WMV;
+Braided Vine;
+Brass*F3*WMV;
+Bronze Gear*F2;
+Cobalt*F2*WMV;
+Draconium*F2;
+Ectoplasm*F2*WMV;
+Fire Blossom*F2*WMV;
+Golden Pearl*F2*WMV;
+Grendelweed*F2*WMV;
+Merle's Whisker*F2;
+Mithril*F3*WMV;
+Nickel;
+Orichalcum;
+Scales*F4*WMV;
+Silver*F2;
+Spider Silk;
+Spring*F2*WMV;
+Steel;
+Sunstone*F2*WMV;
+Tin*F3;
+Titanium;
+Tungsten*F2;
+Turquoise;
+Vine*F3*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F2*WMV;
+Chili Cheese Fries;
+Delicious Cookie*F2*WMV;
+Eye Candy*F2*WMV;
+Gourmet Yogurt;
+Mustachios;
+Penne Dreadful;
+Polaris Fries;
+Satyr Chow;
+Sprinkle Cupcake;
+Submarine Sandwich*F2;
+Super Cold Popsicle;
+Veggie Juice;
+
+| jewels =
+Lustrous Accurate Amethyst +11%;
+
+| pins =
+
+| pets =
+Arctic Ninja Pig*CR;
+Nodori Winged Ram*CR;
+
+| seeds =
+Angel Oak*F4*WMV;
+Deadly Fly Trap*F2*WMV;
+Evil Snow Peas*F2*WMV;
+Fish on a Vine;
+Frozen Fly Trap*F2;
+Green Snow Apples*F2*WMV;
+Moon Flower*F5;
+Purple Snow Apples*F3*WMV;
+Queen Crape Myrtle*F3;
+Snow Apples*F2;
+Ultra Fly Trap;
+Ultra Snow Apples*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

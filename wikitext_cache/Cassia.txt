@@ -1,0 +1,113 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 7,895
+| crecla = Giant
+| school = Ice
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Ice;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Fire, Myth;
+
+| incresist =
+30% Storm, Death; 
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Avalon
+| location = Lake Shore
+| subloc1 = Freezer's Roaming
+| descrip =
+Defeating Cassia is part of the Adept Ice Weaving quest, ''"The Rot in the Heavens"''. Wizards can also defeat Cassia twice as one of their three Ice Weaving lessons, which rewards the badge [[Basic:Ice Weaving Badges|Cassia Dismissed]].
+| speech =
+:'''Julius Freezer''': ''"Sweet Cassia, why do you vex me so?"''
+:'''Cassia''': ''"You stole my job!''"
+:'''Julius Freezer''': ''"Then take the job, become the Dean, if it ends the enmity between us.''"
+:'''Cassia''': ''"That's not- wait really? I can just have the job? I mean, I spent all this time learning all the schools of magic to counter your every spell... I dug through the upper planes of existence, sifted the energy that streams from the center and found the malignance that hides above. But I mean, if you're willing to step aside, then I can let bygones...''"
+:'''Julius Freezer''': ''"Cassia?"''
+:'''Cassia''': ''"BEGONE!''"
+
+| spellnotes =
+
+| casts =
+Tower Shield;
+Weakness;
+Mass Ice Trap;
+Ice Fuel;
+Ice Elemental (Tier 5a);
+Evil Snowman (Tier 2b);
+Volcanic Golem (Tier 5b);
+Ice Wyvern (Tier 5b);
+Winter Moon (Tier 5b);
+Colossus (Tier 5b);
+
+| quests =
+The Tragedy of Freezer;
+The Rot in the Heavens;
+
+| gold =
+25;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Cyclops Gold Idol (Ice)*F2;
+Weft Yarn @ 10 Weft Yarn;
+Weft Yarn @ 35 Weft Yarn;
+Weft Yarn @ 55 Weft Yarn;
+Weft Yarn @ 60 Weft Yarn;
+Weft Yarn @ 65 Weft Yarn;
+Weft Yarn @ 100 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

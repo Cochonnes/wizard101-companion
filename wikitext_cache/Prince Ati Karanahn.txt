@@ -1,0 +1,161 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 700
+| crecla = Krokotopian
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Myth;
+
+| incresist =
+50% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Karanahn Deathfeeder;
+
+| world = Krokotopia
+| location = Karanahn Palace
+| descrip =
+
+| speech =
+:''"Fool! If you do not bow before me, you will fall before me!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 125 Storm Damage per Pip.
+
+| casts =
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Evil Snowman (Storm);
+Storm Shark;
+Scorpion;
+Dark Sprite;
+Banshee;
+Sunbird;
+
+| quests =
+The Key to the Temple;
+The Four Princes;
+
+| gold =
+23 - 37;
+
+| hats =
+Cowl of Prediction;
+Cowl of Sensibility;
+Cowl of the Temple*F2*WMV;
+Helm of the Citadel;
+Krokotopian Ice Modius;
+Krokotopian Modius;
+Mask of Humidity*F2*WMV;
+Necromancer's Ivory Hat*F3*WMV;
+Pioneer's Helm*F2*WMV;
+Rugged Hood;
+Sphinx's Circlet;
+Thaumaturge's Cowl of Awe*F2;
+
+| robes =
+Balmy Tunic*F2*WMV;
+Cloak of Harmony;
+Diviner's Tunic of Squalls;
+Garment of Patience*F5*WMV;
+Karanahn's Brilliant Cloak;
+Necromancer's Ivory Cloak;
+Robe of Reason*F2*WMV;
+Robe of the Oracle;
+Rough-Hewn Robe;
+Sorcerer's Maroon Cloak*F2;
+Stout Robe;
+Summertime Robes*F5*WMV;
+Vest of Alacrity*F2;
+Vest of the Desert;
+Vestment of the Arctic;
+
+| boots =
+Boots of the Citadel;
+Diviner's Boots;
+Initiate's Boots*F4*WMV;
+Sandals of Energy;
+Shoes of Mortality;
+
+| athames =
+Blade of Proportions*F3*WMV;
+Glacial Dagger*F2*WMV;
+Knife of the Badlands;
+Parched Kris;
+Prince's Dirk of Tempests*F3*WMV;
+
+| amulets =
+
+| rings =
+Karanahn's Signet;
+Ring of the Badlands;
+Sparkling Band;
+
+| wands =
+
+| decks =
+
+| items =
+Krok Snake Tablet*F2;
+Royal Krokotopian Vase*CR*F2;
+
+| cards =
+Blizzard;
+Ghost Touch*F3*WMV;
+Spirit Armor;
+Storm Shark;
+
+| reagents =
+Copper*F2;
+Ectoplasm;
+Iron*F2;
+Leather Straps*F3*WMV;
+Nickel;
+Pyrite*F3;
+
+| spellements =
+
+| snacks =
+Cracker*F2*WMV;
+Nettle Root*F2*WMV;
+Tiny Fish;
+
+| jewels =
+Cracked Damage Amethyst +4;
+Cracked Defense Citrine +12;
+Cracked Defense Jade +12;
+Cracked Defense Onyx +10;
+Cracked Defense Opal +4;
+Fire Cat Ruby*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+
+| mounts =
+
+| spells =
+
+}}

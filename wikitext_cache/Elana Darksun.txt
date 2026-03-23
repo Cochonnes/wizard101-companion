@@ -1,0 +1,237 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 18,365
+| crecla = Mouse
+| crecla2 = Undead
+| school = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 7
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Wraith Knight;
+Deer Mouse Revenant;
+
+| world = Khrysalis
+| location = Kondha Desert
+| subloc1 = Chamber of the Sun's Shadow
+| descrip =
+Wizards face Elana Darksun during the Quest, ''Creatures of Shadows and Light'', after which she becomes a Shadow Spell Trainer.
+*Two additional Wraith Knight  Minions appear if more than two Wizards are present.
+
+| speech =
+:''"I am trapped in the Shadow Queen's web, languishing in pain, and forced to follow her instructions. You are far from the sun's light, Wizard. You shall be trapped, cold, weak, in the Shadow evermore!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+She spent untold years ensnared in the Shadow web, proving definitively that Shadow Webs are the better mousetraps.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Round}} ''"Come, join me!"'' - At the end of the first Round, Elana will summon a Deer Mouse Revenant.
+
+| spellnotes =
+
+| casts =
+Shadow Seraph;
+Dark Shepherd;
+Amplify;
+Fortify;
+Mass Infection;
+Deathblade;
+Death Trap;
+Feint;
+Natural Attack (Death 160-255-350);
+Vampire (375);
+Lord of Night (500);
+Wraith (575);
+Scarecrow (600);
+Dr. Von's Monster (950);
+
+| quests =
+Creatures of Shadows and Light;
+
+| gold =
+124 - 238;
+
+| hats =
+Burrower's Barbed Helmet;
+Burrower's Rainstorm Cap;
+Kermes Fire Miner's Helmet;
+Mouse Skirmisher's Helmet*F2*WMV;
+The Dreamweaver*CR*F2;
+
+| robes =
+Besieged Burrower Armor*F2*WMV;
+Gorge Excavator's Outfit*F2*WMV;
+Mantis Chitin Armor*F2*WMV;
+Scuffed Burrower Armor*F2*WMV;
+
+| boots =
+CloudDancer's Footwraps;
+Flame Legs Coalwalkers;
+Last Wood Defender's Boots*F4*WMV;
+Mantis Guard Stonesteppers*F5*WMV;
+
+| athames =
+
+| amulets =
+Last Wood Defender's Jewel*F3;
+Memento of the Moon Cliffs*F2*WMV;
+Sacred Burrower Pendant*F2*WMV;
+
+| rings =
+Moon's Tear Band*F2;
+Ring of Kermes Fire*F5*WMV;
+
+| wands =
+Trader's Staff of Scarcity*F4*WMV;
+
+| decks =
+Box of Indomitable Spirit*F5*WMV;
+Case of Engulfing Flames;
+
+| items =
+Khrysalis Dreamworld Theme*F2;
+Khrysalis Kondha Desert Theme*F2;
+Khrysalis Shadow Combat Theme*F2;
+
+| cards =
+Avenging Fossil;
+Chastisement;
+Clockwork Spider;
+Death Scarab;
+Doom and Gloom*F2*WMV;
+Furnace;
+Galvanic Field;
+Legendary Treant (445)*F2*WMV;
+Life Scarab*F2*WMV;
+Locust Swarm;
+Luminous Weaver;
+Mass Infection;
+O'Leary Swindler;
+Polar Swarm*F3*WMV;
+Punishment;
+Scarab;
+Scrounger;
+Sleet Storm;
+Spinysaur*F2*WMV;
+Sprite Swarm (40+360)*F2*WMV;
+Storm Beetle;
+Storm Owl;
+Sun Serpent;
+Virulence*F2*WMV;
+White Rat Magician;
+Wildfire Treant;
+
+| reagents =
+Astral Shard*F11*WMV;
+Black Lotus*F7*WMV;
+Black Pearl;
+Blood Moss;
+Bone*F2*WMV;
+Bronze Gear*F4*WMV;
+Deep Mushroom*F7*WMV;
+Draconium*F2;
+Fire Blossom*F4*WMV;
+Fossil*F2;
+Golden Pearl;
+Lava Lily*F2*WMV;
+Mist Wood*F2*WMV;
+Mithril;
+Nightshade*F3;
+Ore*F6*WMV;
+Orichalcum*F3*WMV;
+Red Mandrake*F3*WMV;
+Silver;
+Stone Block*F3;
+Sunstone*F2;
+Titanium;
+Tungsten;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Alligator Pear*F2*WMV;
+Bell Pepper Steak*F2;
+Dead Beet Risotto*F3;
+Desparagus Quiche*F2;
+Discord Grape Jelly;
+Evil Magma Soup*F2;
+Flaming Soup;
+Goat Cheese*F3*WMV;
+Golden Apple*F2*WMV;
+Golden Grapes*F2*WMV;
+Gummy Humongofrog;
+Key Lime Pie*F2*WMV;
+King Banana;
+King Parsley Soup*F2*WMV;
+Ninja Fig Bars*F3*WMV;
+Prickly Bear Punch;
+Stuffed Bell Pepper;
+Sweet Baby Carrots;
+
+| jewels =
+Clock Spider Citrine;
+Fire-Shot Ruby;
+Malduit Onyx;
+Nerys Citrine;
+Polished Blocking Hematite +12;
+Polished Critical Amethyst +12;
+Polished Damage Sapphire +21;
+Polished Defense Citrine +42;
+Polished Defense Citrine +44;
+Vassanji Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Frozen Fly Trap;
+Pink Dandelion*CR;
+Pink Huckleberries;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Saw Palmetto*F2;
+Sugar Khrystal*CR;
+Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,97 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 13
+| heal = 9,820
+| crecla = Demon
+| crecla2 = Elephant
+| school = Fire
+| school2 = Life
+| shadowslots = 1
+| startpips = 4
+| powerpips = Yes
+| outpierce =
+20%;
+
+| outboost =
+80%;
+
+| incboost =
+None;
+
+| incresist =
+10% Any;
+
+| outhealing =
+60%;
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minion = 
+| world = Housing Instance
+| location = Jade Oni Rematch
+| subloc1 = Jade Oni Challenge (Tier 2)
+| descrip =
+War Oni (Tier 2) is considered a Minion to {{Link|Creature|Jade Oni (Tier 2)}}.  All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Furnace;
+Fireblade;
+Fuel (+35%);
+Power Link;
+Immolate (Tier 3b);
+Phoenix (Tier 3b);
+Scald;
+Fire from Above;
+Imp (Tier 3b);
+Centaur (Tier 3b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = War Oni (Rematch)
+
+}}

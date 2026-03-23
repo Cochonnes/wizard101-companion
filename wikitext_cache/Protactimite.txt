@@ -1,0 +1,111 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 3,715
+| crecla = Undead
+| school = Death
+| school2 = Balance
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| schoolpips = 
+Death;
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+20%;
+
+| outboost =
+96%;
+
+| incboost =
+30% Life;
+
+| incresist =
+36% Fire, Ice, Storm, Myth, Balance, Shadow;
+66% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+
+| world = Portal of Peril
+| location = Sinbad & the Iron Sultan Gauntlet (Portal of Peril)
+| subloc1 = Metallos (Portal of Peril)
+| descrip =
+Half-lives of {{Link|Creature|Uraniumite}}, three of these steel skeletons are summoned whenever a Uraniumite is defeating during the duel against [[Creature:Leadite (Portal of Peril, Tier 3)|Leadite]] on Metallos through the Portal of Peril. All drops from this fight should be recorded on Leadite's page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Magnify;
+Dark Tribute;
+Balanceblade;
+Spirit Blade;
+Ghoul (Tier 2b);
+Kiiii-Yaaaa! (Tier 2a);
+Dream Golem (Tier 2a);
+Call of Khrulhu;
+Wraith (Tier 5b);
+Avenging Fossil;
+Spiritual Tribunal (Tier 2b);
+Savage Paw (Tier 2a);
+Nested Fury;
+Chimera;
+
+| quests =
+
+| dropnotes =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Leadite
+}}

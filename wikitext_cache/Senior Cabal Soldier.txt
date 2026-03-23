@@ -1,0 +1,129 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 13,930
+| crecla = Wizard
+| school = Balance
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+250 Any;
+
+| criticalblock =
+250 Any;
+
+| outpierce =
+18%;
+
+| outboost =
+113%;
+
+| incboost =
+5% Myth, Life, Death;
+
+| incresist =
+45% Fire, Ice, Storm, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Cabal Soldier (Fire);
+Cabal Soldier (Fire);
+
+| petbreed = Frozen Pet Peeve
+| world = Novus
+| location = La Ville Rose
+| subloc1 = Matheus' House
+| descrip =
+For the purpose of drops, Senior Cabal Soldier is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+:''"So Wizard, you came looking for the cause of the earthquakes, the sabotage across Novus. And all you found... ...is me. I've been thinking about our last battle since Karamelle. You humiliated me in Les Bon-Bon Mots. I told you I would get stronger, and I have. I farmed Evil Magma Peas and Couch Potatoes until my hands grew raw. I searched for hours for the perfect reagents to craft my weapons. And I have a Pet! Now you face your equal, Wizard! You face THE DIVINE CABALIST! HAHAHAHAHA!"''
+
+| cheatnotes =
+*{{Icon|Aura}}{{Icon|Armor Piercing}} ''"All those Mega-Snacks were worth it!"'' - Senior Cabal Soldier's Pet will cast the following Spells:
+**{{Link|Spell|Brace}}
+**{{Link|Spell|Dragonlance}}
+
+| spellnotes =
+
+| casts =
+Brace;
+Balanceblade;
+Mana Burn;
+Sandstorm;
+Hydra (Tier 3b);
+
+| quests =
+The Quakespiracy;
+Revenge!;
+
+| gold =
+15 - 47;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Novus La Ville Rose Combat Theme;
+Novus Puerto Nuovo Combat Theme;
+Novus Stone of Heaven Theme;
+Valencia Kane Theme;
+
+| cards =
+Elemental Shield;
+Galvanic Field;
+Taunt;
+Triage;
+
+| reagents =
+Astral Shard;
+Draconium;
+Platinum;
+Toffee Bean;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Bearberry;
+Colossal Rutabaga;
+Fuzzy Peach Fizz*F2;
+Jolly Rancher;
+Kalua Kebab;
+Peppercorn;
+Street Pizza;
+Zeus Newton;
+
+| jewels =
+
+| pins =
+
+| pets =
+Frozen Pet Peeve*F2*WMV;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

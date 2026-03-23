@@ -1,0 +1,143 @@
+{{Stub|Spells and drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 1,850
+| crecla = Beastmoon Creature
+| school = Ice
+| startpips = 2
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions = 
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Celestia Battlegrounds
+| descrip =
+Ice Kraken Gladiators are one of the Boss monsters that can be encountered during the second Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events.  They will have 1 random, Rank 2 Elite, Stage 2 Minion and 1 random, Rank 1, Stage 2 Minion present to assist them.
+
+'''Potential Rank 2 Elite Minions:'''
+*{{Link|Creature|Fried Crab}}
+*{{Link|Creature|Glacier Spriggan}}
+*{{Link|Creature|Electrical Storm Lagoony}}
+*{{Link|Creature|Responsi-Bot}}
+
+'''Potential Rank 1 Minions:'''
+*{{Link|Creature|Harmony Eel}}
+*{{Link|Creature|Seared Flyingfish}}
+*{{Link|Creature|Squall Squid}}
+
+| speech =
+
+| spellnotes =
+*Casts a 100 Damage version of {{Link|Spell|Sleet Snake}}.
+**It is currently unknown whether the additional Damage occurs.
+*Casts a 3-Pip, 150 Damage version of {{Link|Spell|Gelid Ancestor}}.
+**It is currently unknown whether the Clear effect occurs.
+*Casts a 250 Damage version of {{Link|Spell|Shivering Marid}}.
+**It is currently unknown whether the extra Damage occurs.
+
+| casts =
+Shielded Beetle;
+Sleet Snake;
+Gelid Ancestor;
+Shivering Marid
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 10 - 24 Lunari.
+
+| gold =
+55 - 59;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone*F2;
+Balance Rune*F2*WMV;
+Balance Thread*F2;
+Colossus Idol (Ice);
+Cyclops Idol (Fire);
+Eldritch Thread;
+Eldritch Thread @ Eldritch Thread 2*F2;
+Elemental Thread*F3;
+Enhanced Storm Rune;
+Hunter's Moonstone @ Hunter's Moonstone 2;
+Fairy Idol (Fire);
+Fire Moonstone;
+Fire Rune*F2;
+Krokomummy Idol (Storm);
+Ice Moonstone;
+Ice Rune;
+Storm Moonstone;
+Storm Rune;
+Storm Thread*F3*WMV;
+
+| spellements =
+Elemental Golem*F2*WMV;
+Frostfeather;
+Glacial Golem;
+Inferno Salamander;
+Iron Curse;
+Judgement;
+Obsidian Colossus*F2;
+Sandstorm;
+Thermic Golem;
+Thunderman;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| recipes = 
+
+Blizzard Spellements 7 @ Blizzard Spellements;
+
+}}

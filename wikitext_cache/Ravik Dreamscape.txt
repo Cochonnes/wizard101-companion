@@ -1,0 +1,211 @@
+{{Stub|which versions of the ''{{Link|TreasureCard|Enfeeble}}'' and ''{{Link|TreasureCard|Shatter}} Treasure Cards'' this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 20,600
+| crecla = Shadow Weaver
+| school = Ice
+| masteries =
+Death;
+
+| cheats = Yes
+| shadowslots = 1
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Cursed Mouse Knight;
+
+| world = Khrysalis
+| location = Moon Cliffs
+| subloc1 = Eclipse Tower (Right)
+| descrip =
+
+| speech =
+:''"You, the Light Bringer!  The guardians of this place were powerless to stop us as we dragged the Moon into the Shadow.  The Shadow Queen placed me here to oversee this relic of the Old Times.  I know its every secret.  I've been here so long.  So very long.  No one ever comes to visit.  I have no idea what happens outside these walls.  No matter!  You have no idea what horrors I am about to show you!  Maybe the Shadow Queen will summon me to her palace..."''
+
+| cheatnotes =
+*{{Icon|Global}} ''"Behold the horrors!"'' - At the beginning of the first Round and every 5th Round, Ravik will interrupt-cast a -5% version of {{Link|Spell|Doom and Gloom}}.
+*{{Icon|Minion}} ''"Your curse is not complete!"'' - At the beginning of the 3rd Round and every other Round thereafter, Ravik will summon a new Cursed Mouse Knight. If his first Minion has been defeated or the battle reaches the 10th Round, Ravik will summon a new Cursed Mouse Knight at the end of every Round thereafter.  This will also occur if a negative Ward is cast on Ravik.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 153 Ice Damage for 1 Pip, 245 Ice Damage for 2 Pips, or 340 Ice Damage for 3 Pips and +35% Ice Trap on target.
+
+| casts =
+Shadow Shrike MOB;
+Fortify;
+Infallible;
+Iceblade;
+Elemental Blade;
+Ice Trap;
+Curse;
+Balefrost;
+Age of Reckoning;
+Natural Attack (Ravik Dreamscape);
+Frostbite (80+549);
+Frost Demon;
+Frost Giant;
+Lord of Winter;
+Deer Knight;
+
+| quests = 
+Moonlight Shadows;
+
+| gold =
+294 - 512;
+
+| hats =
+Burrower's Barbed Helmet;
+Burrower's Rainstorm Cap;
+Digger's Mining Helmet*F5*WMV;
+Kermes Fire Miner's Helmet*F2;
+Mantis Cover of Frostfall;
+
+| robes =
+Mantis Hunter's Raiment*F6*WMV;
+
+| boots =
+CloudDancer's Footwraps*F2;
+Flame Legs Coalwalkers;
+Knight's Boots of Justice;
+Mantis Boots of Patience*F2;
+
+| athames =
+
+| amulets =
+Collar of the Royal Guard*F3;
+FireWing's Jewel*F3*WMV;
+
+| rings =
+
+| wands =
+Bastion's Sentinel*F2;
+Cold Pits Stabber;
+
+| decks =
+Bumbler's Sleetfall Pack*F2*WMV;
+Cell of Survival*F2*WMV;
+Gallery of the Woebegone;
+Mago's Death's Head Set*F3*WMV;
+
+| items =
+Khrysalis Arachna Theme*F4*WMV;
+Khrysalis Combat Theme*F2;
+
+| cards =
+Clockwork Spider*F2;
+Disarm;
+Doom and Gloom;
+Enfeeble;
+Fire Beetle;
+Gibson O'Leary;
+Hooligan;
+Legendary Treant (445);
+Locust Swarm*F3*WMV;
+Luminous Weaver*F3*WMV;
+Mass Infection;
+O'Leary Charlatan (Storm)*F2*WMV;
+Patches O'Leary;
+Polar Swarm*F2;
+Rat Illusionist;
+Sanctuary;
+Shatter*F3;
+Sprite Swarm (40+360);
+Storm Beetle;
+Wild Bolt;
+Wildfire Treant*F2*WMV;
+
+| reagents =
+Black Lotus;
+Bone*F7*WMV;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F5*WMV;
+Fire Blossom*F2*WMV;
+Golden Pearl*F2*WMV;
+Iron*F2*WMV;
+Lava Lily*F4*WMV;
+Mist Wood*F2*WMV;
+Nickel*F2*WMV;
+Nightshade*F2;
+Ore*F7*WMV;
+Orichalcum;
+Pyrite; 
+Red Mandrake*F2*WMV;
+Silver;
+Stone Block*F2*WMV;
+Sunstone*F3*WMV;
+Titanium;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F2*WMV;
+Flapjacks;
+Goat Cheese*F2;
+Golden Apple*F2*WMV;
+Golden Grapes;
+Gummy Bees*F2;
+Gummy Humongofrog;
+Hive Rinds;
+Honey Bombs;
+Honeycombs*F2;
+Honeycrisp Apples*F4*WMV;
+HoneyDon't Melon*F4*WMV;
+King Banana*F3;
+Peanut Butterflies;
+Punk Rock Candy*F2;
+Sugar Khrystals;
+
+| jewels =
+Big Hurry Opal;
+Exhaust Opal;
+Fire Cat Ruby;
+Fire-Eye Ruby;
+Frost Beetle Sapphire;
+Ice-Boon Sapphire;
+Ice-Proof Sapphire;
+Lock Opal;
+Polished Critical Ruby +11*F2;
+Polished Defense Hematite +41;
+Polished Defense Jade +42;
+Siphonizer Opal;
+
+| pins =
+
+| pets =
+Bronze Golem*CR*F2;
+
+| seeds =
+Angora Bunny Ears;
+Burning Snap Dragon;
+Maelstrom Snap Dragon;
+Pink Dandelion;
+Queen Crape Myrtle;
+Saw Palmetto;
+Sugar Khrystal*CR;
+
+| mounts =
+
+| spells =
+
+}}

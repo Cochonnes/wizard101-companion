@@ -1,0 +1,180 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 11,405
+| crecla = Golem
+| school = Star
+| masteries =
+Fire;
+Ice;
+Storm;
+Balance;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 7
+| powerpips = Yes
+| critical =
+57;
+
+| criticalblock =
+394;
+
+| outpierce =
+16%;
+
+| outboost =
+87%;
+
+| incboost =
+57% Myth;
+
+| incresist =
+27% Fire, Ice, Death, Life, Balance, Star, Sun, Moon, Shadow;
+40% Storm;
+
+| outhealing =
+26%;
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| summons =
+Clockworker (Portal of Peril, Tier 3);
+Clockworker (Portal of Peril, Tier 3);
+Clockworker (Portal of Peril, Tier 3);
+
+| world = Portal of Peril
+| location = The Great Clock (Portal of Peril)
+| subloc1 = 
+| descrip =
+Lucia is the Cuckoo of Valencia's Great Clock, crafted by Master Gazpaccio to keep track of the time by singing at the arrival of every hour.  Like all of his creations, Gazpaccio magically imbued Lucia with emotions, granting her a sense of pride which serves as her drive to perform precisely on the hour.  After years of impeccable timekeeping, Lucia's pride has warped into vanity, and she now sings every few minutes, throwing the Great Clock and Valencian timekeeping into disarray.  After Wizards assist {{Link|NPC|Bernardo Dondi}}, Gazpaccio's Apprentice, with tuning the Great Clock's Core Mechanism, they ascend the to the Cuckoo's Nest to humble the Prima Cuckoo.
+
+| speech =
+:''"Go away!  I've no time for autographs.  I've a show to...  Oh, it's you.  Last time I entrust dressing room security to someone named [[Creature:Lugs (Portal of Peril, Tier 3)|Lugs]]. Oh well, let's get your thrashing over with quickly then.  I've an important performance to give, you know.  Clockworkers, on the ready!  Your star needs the supporting cast for a little preshow exercise!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+Is she a good singer?  Debatable.  She relies a lot on auto-tune.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+| altlink = Lucia
+
+| cheatnotes =
+*''"Tardiness will not be tolerated!"'' - If a Wizard joins the Duel after the first Round, then Lucia will interrupt-cast a Star version of [[Spell:Mana Burn (Star)|Mana Burn]] that Pierces through all Resist and deals '''500''' Damage ('''1,585''' Damage after applying Lucia's outgoing Damage boost).
+*''"The star is only as good as her supporting cast!"'' - In response to most Spells cast by Wizards, Lucia will interrupt-cast a Sun version of {{Link|Spell|Blessing}} that restores 100% max Health to all allies.
+**This Spell is not affected by harmful Charms, Wards, or Globals that affect Healing Spells.
+**The following types of Spells will ''not'' trigger this cheat:
+***Harmful Charms
+***Minion Spells
+*''"Let's even the odds!"'' - At the beginning of any Round, if there are more Wizards on the Wizards' team than there are enemies on Lucia's team, then Lucia will interrupt-cast a Star Spell that summons a Clockworker until the Wizards' and enemies' teams have an equal number of members.
+**Summoning a Minion will not trigger this cheat.
+*''"This is my show! MINE!"'' - At the start of every fifth Round, Lucia will interrupt-cast a Star version of {{Link|Spell|Steal Charm}} that steals all helpful Charms from all Wizards, and a Star version of [[Spell:Steal Ward (Star, -All)|Steal Ward]] that steals all helpful Wards from all Wizards.
+
+'''Cheat Cycle:'''
+*''"Cuckoo!"'' - At the end of the first Round in this cycle, Lucia will interrupt-cast a version of [[Spell:Sprite (50+300)|Sprite]] on herself that restores '''50''' Health and '''300''' Health over 3 Rounds ('''63''' Health and '''378''' Health over 3 Rounds after applying Lucia's outgoing Healing boost).
+*''"Cuckoo!  Cuckoo!"'' - At the end of the second Round in this cycle, Lucia will interrupt-cast {{Link|Spell|Magnify}}.
+*''"Cuckoo!  Cuckoo!"  Cuckoo!"'' - At the end of the third Round in this cycle, Lucia will interrupt-cast a Star Spell that applies the following helpful Charms on all allies:
+**A +30% universal Blade
+**A +20% Accuracy Charm
+**A +10% universal Spear
+**A +30% Healing Charm
+*''"Time to even the score a bit!"'' - At the end of the fourth Round in this cycle, Lucia will interrupt-cast an all-enemies version of {{Link|Spell|Mockenspiel}} that deals '''830-950''' Balance Damage ('''2,630 - 3,010''' Balance Damage after applying Lucia's outgoing Damage boost) and does not apply any Charms.
+**The cycle resets after this cheat occurs.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Fire Damage per Pip
+*Deals an unknown quantity of Ice Damage per Pip
+*Deals an unknown quantity of Storm Damage per Pip
+
+| casts =
+Sunbird;
+Phoenix;
+Raging Bull;
+Gaze of Fate;
+Chimera;
+Glowbug Squall;
+Sirens;
+Tempest;
+
+| quests =
+The Great Clock!;
+
+| gold =
+24 - 60;
+
+| hats =
+Helmet of Royal Retribution (Level 100+)*CR*TEST*F2*WMV;
+Smoldering Vengeance Helm (Level 50+)*CR*F2;
+
+| robes =
+
+| boots =
+Marvelous Avenging Boots (Level 100+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Flashing Dragon Spear (Level 50+)*CR;
+Glinting Dragon Lance (Level 100+)*CR;
+Sinister Dragon Pike (Level 50+)*CR;
+
+| decks =
+
+| items =
+
+| cards =
+Chimenea*F4*WMV;
+Coldiron*F4*WMV;
+Clockwork*F3;
+Clockwork Spider*TEST*F4*WMV;
+Firegut*F9*WMV;
+Franklinstove*F3*WMV;
+Gear Spinner*F5*WMV;
+Gearhead*F6*WMV;
+Gearhead Destroyer*F4*WMV;
+Kettleblack*F3*WMV;
+Potboiler*F5;
+Rocketstove*F3;
+
+| reagents =
+Fortune Coin @ 10 Fortune Coins*F18*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Lucia (The Great Clock)
+
+}}

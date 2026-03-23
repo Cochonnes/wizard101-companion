@@ -1,0 +1,118 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 430
+| crecla = Wizard
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Fire;
+
+| incresist =
+30% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = Firecat Alley
+| subloc1 = Bernice & Larry's House
+| descrip =
+
+| speech =
+:'''Bernice:''' ''"Buuggaah! Larry, you blockhead! You bought fancy security Elementals - who have destroyed my living room - but didn't lock the stinkin' door?"''
+:'''Larry:''' ''"Aw. Oops. Don't I get credit for braving the Fire Elf pandemonium to steal that Firekitten in the first place?"''
+:'''Bernice:''' ''"Cheese and crackers, Larry. Write out a formal confession, why don't ya."''
+:'''Larry:''' ''"Oh, OK, I can do that, Dear. Where do you keep those papers?"''
+:'''Bernice:''' ''"Oh, for the love of... This is MY Firekitten. Just get rid of the stinkin' wizard already, you slack-jawed jackanape!"''
+:'''Larry:''' ''"Yes, Dear. You heard the lady of the house, meathead. We ain't giving Eleanor's Firekitty back. So git out, or git hurt!"''
+
+| spellnotes =
+
+| casts =
+Fire Shield;
+Frost Beetle;
+Snowsnake;
+Snow Serpent;
+Dark Sprite;
+Blood Bat;
+
+| quests =
+What's In a Pet Name?;
+
+| gold =
+7 - 12;
+
+| hats =
+Cowl of the Discreet*F2*WMV;
+Hardened Cap*F4*WMV;
+Venomous Cowl*F5*WMV;
+
+| robes =
+Cloak of Vigilance*F2*WMV;
+Robe of Embers*F6*WMV;
+
+| boots =
+Antique Footguards*F6*WMV;
+Boots of Embers*F6*WMV;
+Fireguard Slippers*F4*WMV;
+Stormcaller's Boots*F2;
+Symmetrical Shoes*F7*WMV;
+
+| athames =
+Dulled Athame*F6*WMV;
+Knife of Winter;
+
+| amulets =
+Flash Frozen Choker*F2;
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Small Orange Symbol Rug*F3*WMV;
+
+| cards =
+Fire Elf;
+Ghoul;
+Keen Eyes*F4*WMV;
+Tough*F2*WMV;
+Troll;
+
+| reagents =
+Leather Straps;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

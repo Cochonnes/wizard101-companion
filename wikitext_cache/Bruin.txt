@@ -1,0 +1,110 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 17,005
+| crecla = Were-Bear
+| school = Myth
+| school2 = Moon
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Myth;
+
+| critical =
+503 Any;
+
+| criticalblock =
+625 Any;
+
+| outpierce =
+28%;
+
+| outboost =
+112%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+45% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+75% Myth;
+
+| outhealing =
+37%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Were-Bear (Elite);
+
+| world = Darkmoor
+| location = Howling Lands
+| subloc1 = Bruin Hunting Grounds
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Mythspear;
+Mythblade;
+Athena Battle Sight;
+Stone Colossus;
+Shift Dread Paladin;
+Shift White Fur;
+Shift Piscean;
+
+| quests =
+Talking About Bruno;
+Were-Bear Picnic;
+
+| gold =
+10 - 46;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Efreet;
+Rebirth;
+
+| reagents =
+Merle's Whisker;
+Mithril;
+
+| spellements =
+
+| snacks =
+Locust Kabob;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

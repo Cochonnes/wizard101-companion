@@ -1,0 +1,182 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 800
+| crecla = Cat
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+O'Leary Brute;
+
+| world = Marleybone
+| location = Newgate Prison
+| subloc1 = O'Leary's Tower
+| descrip =
+*Two additional O'Leary Brutes will appear if more than two Wizards are present.
+
+| speech =
+:''"Hey, what are you doing here? No trespassing, you see?"''
+
+| spellnotes =
+
+| casts =
+Death Shield;
+Black Mantle;
+Weakness;
+Sprite;
+Lifeblade;
+Life Trap;
+Imp;
+Leprechaun;
+Nature's Wrath;
+Seraph;
+Evil Snowman;
+Sunbird;
+Storm Shark;
+
+| quests =
+Take Him Down!;
+
+| gold =
+26 - 49;
+
+| hats =
+Cap of Ideals;
+Cap of Symmetry;
+Cap of the Ice Wyvern*F2;
+Enticing Cowl;
+Grandiose Headwraps*F2;
+Hat of Excellence;
+Hat of Numbness*F4;
+Hat of the Enigma*F2;
+Headwraps of Restoration*F3;
+Helm of Chivalry*F4;
+
+| robes =
+Affable Cloak;
+Brisk Robe*F11;
+Comedian's Robe;
+Garment of Preference*F2;
+Medic's Robe*F9*WMV;
+Obligatory Cloak;
+Robe of Paramount;
+Robe of the Aristocrat;
+Sophisticated Tunic*F2;
+
+| boots =
+Animated Canine Shoes;
+Boots of Fabrication;
+Boots of the Detached;
+Boots of the Undisturbed;
+Cat Burglar's Shoes;
+Crackling Boots*F2;
+Distinct Slippers;
+Glowing Canine Shoes*F7;
+Halcyon's Shoes;
+Jolting Boots;
+Masterful Canine Shoes*F5;
+Sandals of Dedication;
+Sensitive Slippers;
+Shoes of Certainty;
+Shoes of Inclination*F2;
+Silent Canine Shoes*F3;
+Slippers of Grief;
+Slippers of Tranquility*F2;
+Superstitious Canine Shoes*F5;
+
+| athames =
+Dirk of Nobles;
+Fink's Stiletto;
+
+| amulets =
+
+| rings =
+Animated Ring*F6;
+Commoner's Ring*F2;
+
+| wands =
+
+| decks =
+Deck of the Banshee;
+Deck of the Phoenix*F3*WMV;
+
+| items =
+Blue Street Light*F6;
+Bone;
+Empty Tin Cans*F2;
+Gas Can*F2;
+Thick Roof Vent*F4;
+
+| cards =
+Cloak;
+Kraken;
+Storm Trap;
+
+| reagents =
+Bone;
+Copper*F3;
+Iron*F2;
+Lead*F2;
+Leather Straps*F6;
+Nickel*F3;
+Pyrite*F2;
+Spider Silk*F12;
+Tin*F3*WMV;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn*F2;
+Medium Fish*F2;
+Redskin Peanut*F2;
+Square Watermelon;
+Stinky Cheese*F3;
+Wheat Cracker;
+
+| jewels =
+Chipped Damage Jade +7;
+Chipped Damage Onyx +7;
+Chipped Defense Opal +7;
+Chipped Defense Opal +8*F2;
+Chipped Defense Peridot +14;
+Chipped Health Opal +21;
+Flawed Damage Opal +5;
+Flawed Healing Opal +2%;
+Flawed Health Opal +30;
+Life-Boon Jade;
+Locust Swarm Citrine;
+Move It! Opal;
+Quick Learner Opal;
+Sprite Jade;
+Storm Shark Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

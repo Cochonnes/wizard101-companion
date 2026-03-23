@@ -1,0 +1,186 @@
+{{Stub|confirmation on cheats}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 11,120
+| crecla = Pig
+| school = Myth
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce = 
+
+| outboost = 
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing = 
+
+| inchealing = 
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Kasuka Monk (Tier 5);
+Kyoukontei Treant (Tier 5);
+Zoraimei Wildclaw (Tier 5);
+
+| world = Housing Instance
+| location = Midnight Sun Pagoda
+| subloc1 = 
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+This ninja sometimes casts Vampire Death spells. Because he is the gothiest thing alive.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Damage}} ''"You won't last long without shields!"'' - If a Wizard casts a Damage Spell on Kurokage and does not have a Shield, then Kurokage will interrupt-cast a version of {{Link|Spell|Vampire}} that deals '''600''' Damage on the Wizard that damaged him.
+**(Cheat only triggers with 6+ Ranked Spells?)
+**This cheat doesn't activate for damage over time spells.
+*{{Icon|Manipulation}} Every other Round, Kurokage will interrupt-cast a Myth Spell that removes all Wards from a random Wizard.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Mythblade;
+Myth Trap;
+Time of Legend;
+Humongofrog;
+Myth Imp;
+Minotaur;
+Earthquake;
+Orthrus;
+Medusa;
+Basilisk;
+
+| quests =
+
+| gold =
+46 - 129;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Bamboo Barrier*F2;
+Crossed Naginata Spears;
+Green Sword Display;
+Iron Tea Pot*F3;
+Low Purple Vase*F2;
+Moodha Bust*F2;
+MooShu Combat Theme;
+Pearl Orchid;
+Small Wooden Table;
+Tatami Floor Mat;
+Treant Bobblehead;
+Wooden Memorial;
+
+| cards =
+Amplify*F2;
+Berserk*F2;
+Colossal*F2;
+Empowerment*F2;
+Extraordinary;
+Fortify*F2;
+Frost Giant;
+Gargantuan;
+Infallible;
+Mend;
+Orthrus;
+Power Nova;
+Storm Lord;
+Unstoppable*F2;
+
+| reagents =
+Amethyst*F2;
+Brass;
+Bronze;
+Citrine*F2;
+Crystal Vial;
+Ghost Fire;
+Jade*F3;
+Leather Straps*F5;
+Onyx*F2;
+Peridot;
+Steel;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Crunch Apple;
+Fire Cracker;
+Flaming Soup*F2;
+Golden Peanut;
+Golden Pizza;
+Golden Squash;
+Large Fish*F2;
+Large Watermelon;
+MooShu Broccoli*F3;
+Sweet Pineapple*F2;
+Zen Poppers;
+
+| jewels =
+Curse Giver Onyx;
+Opaque Defense Amethyst +36;
+
+| pins =
+
+| pets =
+Brown Spider;
+Goat Monk;
+Ninja Pig;
+Yellow Ghost;
+
+| seeds =
+Angel Oak;
+Orange Dandelion;
+Pink Laugh-O-Dil;
+Venus Fly Trap*F2;
+
+| mounts =
+
+| spells =
+
+}}

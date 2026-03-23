@@ -1,0 +1,245 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,760
+| crecla = Demon
+| crecla2 = Elephant
+| school = Balance
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+17% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Imitsu Defouler;
+Imitsu Defouler;
+
+| world = MooShu
+| location = Shirataki Temple
+| subloc1 = River Temple
+| lootchest = Plague Oni's Chest
+| descrip =
+The Plague Oni is the final Boss in Shirataki Temple. {{Link|Creature|Ideyoshi}} turns into this Demon after being defeated.
+*The Spell Recipe Vendor, {{Link|NPC|Master Yan Kan Kook}}, will appear after defeating this Boss for the first time.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+He thought transforming into the frosty Ideyoshi would help him fit in, but everyone still avoids him like the plague.
+
+| extract class =
+Elephant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Weakness;
+Black Mantle;
+Balanceblade;
+Hex;
+Scarab;
+Scorpion;
+Locust Swarm;
+Sandstorm;
+Natural Attack (Balance 85x, 90%);
+Judgement;
+Evil Snowman;
+Vampire;
+Minotaur;
+
+| quests =
+Release;
+Beat the Plague;
+Cleaning Up a Mess;
+Sickness and Health;
+
+| dropnotes =
+When a Wizard has unlocked the '''Mastermind''' {{Icon|Mastermind}} Badge and has not unlocked the '''Savior of the Spiral''' {{Icon|Savior of the Spiral}} Badge, the following drops will be available:
+*8 Spellements will drop each time from '''any''' School for their respective rank 1-5 Spells.
+
+| gold =
+64 - 98;
+
+| hats =
+Cowl of Rhyming;
+Cowl of Tact;
+Euphonic Cap*F2;
+Hat of Niceties*F2;
+Hat of the Lotus;
+Heedful Headwraps;
+Industrial Helm*F2;
+Mask of the Chipper;
+Plagued Cowl of Aspirations*F2;
+Shroud of Chants;
+Shroud of Music;
+Shroud of the Opus;
+Stressed Mask;
+
+| robes =
+Ecstatic Garments;
+Friendly Garments*F3*WMV;
+Garment of Sandcastles*F4*WMV;
+Garment of Yodels*F3*WMV;
+Garments of the Opus;
+Plague Oni's Vacant Robe;
+Quick-Witted Vestment;
+Tunic of Chimes*F3*WMV;
+Tunic of the Whim*F2*WMV;
+Vestment of Niceties;
+Zippy Tunic*F2*WMV;
+
+| boots =
+Druidic Sandals;
+Footwraps of Charity;
+Footwraps of Pictures*F5*WMV;
+Plague Oni's Footwraps*F2*WMV;
+Plagued Boots*F3*WMV;
+Proficient Shoes; 
+Slippers of the Opus;
+Vexing Boots*F3*WMV;
+Vigilant Sandals;
+
+| athames =
+
+| amulets =
+Plagued Collar of the Beast*F2*WMV;
+
+| rings =
+Band of the Primitives;
+Dreamer's Band of Reality*F2;
+Ring of Regard;
+
+| wands =
+Plague Oni's Sapphire Blade*F2*WMV;
+
+| decks =
+
+| items =
+Green Samoorai Armor;
+Hooked Lantern;
+Imperial Shrine*F4*WMV;
+MooShu Battle Theme*F2;
+MooShu Mystical Theme;
+MooShu Plague Theme;
+MooShu War Theme*F2*WMV;
+Silver Lantern;
+Tea Plant*F2*WMV;
+Wooden Skeleton Key*CR*F2*WMV;
+
+| cards =
+Ninja Pigs*F3*WMV;
+Samoorai*F7*WMV;
+Scarecrow*F2;
+Seraph;
+Tough;
+
+| reagents =
+Bone*F4*WMV;
+Cobalt;
+Copper*F4;
+Ectoplasm*F2*WMV;
+Lead*F3;
+Nickel;
+Tin;
+
+| spellements =
+Banshee*BR;
+Blight Hound*BR;
+Blood Bat*BR*F2;
+Cyclops*BR;
+Cyclops Minion*BR;
+Dark Sprite*BR;
+Earth Walker*BR;
+Evil Snowman*BR;
+Fire Cat*BR;
+Fire Elf*BR;
+Frost Beetle*BR*F2;
+Gearhead Destroyer*BR*F2;
+Immolate*BR;
+Imp*BR;
+Kraken*BR;
+Leprechaun*BR*F2;
+Lightning Bats*BR;
+Locust Swarm*BR*F2;
+Minotaur*BR*F2;
+Phoenix*BR*F2;
+Scarab*BR*F2;
+Scorpion*BR*F2;
+Skeletal Pirate*BR*F2;
+Spectral Blast*BR*F2;
+Storm Shark*BR;
+Stormzilla*BR;
+Sunbird*BR*F2;
+Thunder Snake*BR;
+Troll*BR*F3;
+Vampire*BR;
+
+| snacks =
+Crunch Apple*F2;
+Fire Cracker;
+Golden Peanut;
+Golden Squash;
+Large Fish;
+Large Watermelon;
+Square Root*F3*WMV;
+
+| jewels =
+Death-Boon Onyx;
+Flawed Defense Jade +18;
+Flawed Health Opal +31; 
+Flawed Health Opal +32; 
+Flawed Mending Opal +2%;
+Flawed PIP Opal +3%;
+Healer Opal;
+Humongofrog Peridot;
+Ice Wyvern Sapphire;
+Kraken Amethyst;
+Seraph Jade;
+Skeletal Pirate Onyx;
+
+| pins =
+
+| pets =
+Life Scarab*F5*WMV;
+Tough Troll*F3*WMV;
+
+| seeds =
+Fiery Boom Shroom;
+Pink Dandelion*CR;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

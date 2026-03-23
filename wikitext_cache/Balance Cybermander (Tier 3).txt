@@ -1,0 +1,143 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 5,690
+| crecla = Mander
+| school = Balance
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+70%;
+
+| incboost =
+3% Myth, Life, Death;
+
+| incresist =
+60% Balance;
+
+| outhealing =
+
+| inchealing =
+45%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Fire Cybermander (Tier 3);
+Myth Cybermander (Tier 3);
+
+| world = Housing Instance
+| location = Doomsday Krok Gauntlet
+| subloc1 = Doomsday Krok Gauntlet (Tier 3)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Do NOT join its social network. It's a trap. It'll make you into a Cybermander too.
+
+| extract class =
+Mander;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| altlink = Balance Cybermander
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 420 Balance Damage for 4 Pips maximum.
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Elemental Trap;
+Sandstorm;
+Natural Attack (Balance 105-210-315, 80%);
+Spectral Blast;
+Hydra;
+Power Nova;
+Judgement;
+
+| quests =
+
+| gold = 
+100;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Krok Doomsday Combat Theme*F10;
+Krok Fire Plaque;
+Krok Insect Plaque*F2;
+Krok Tree Plaque;
+
+| cards =
+Locust Swarm;
+Myth Prism*F2;
+Namaste;
+Nekhbet;
+Phoenix;
+Plague;
+Scarab;
+Wormguts*F2;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Buttered Popcorn;
+Cactus Fruit*F2;
+Cracker;
+Fries;
+Gator Tots*F2;
+Prickly Bear Punch;
+Raising Bran Cereal;
+Square Root*F2;
+Star Fruit;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

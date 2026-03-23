@@ -1,0 +1,141 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 960
+| crecla = Wolf
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Life;
+
+| incresist =
+70% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Moonstrider Howler;
+
+| world = Grizzleheim
+| location = Mirkholm Keep
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Weakness;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Skeletal Pirate;
+Fire Elf;
+Storm Shark;
+Natural Attack (Myth 100x, 85%);
+
+| quests =
+Clean Them Out;
+
+| gold =
+34 - 92;
+
+| hats =
+Crown of Hardiness;
+Fabled Coif*F3*WMV;
+Hat of Constancy*F2*WMV;
+Penumbra Cowl;
+
+| robes =
+Arctic Robe;
+Boreal Tunic*F6*WMV;
+Coat of Utility;
+Coldgrave Garments;
+Jerkin of the Bygone Age*F4;
+Jerkin of the Rime*F2;
+Robe of Mourning;
+Robe of Subsistence;
+Smock of Cinders;
+Survivalist's Tunic;
+Vestment of Poise*F2;
+Vine-Woven Coat*F4*WMV;
+
+| boots =
+Fountain Waders;
+Glacier Walkers;
+Tattersea Footwear*F4;
+
+| athames =
+Shortblade of Valor*F2;
+
+| amulets =
+
+| rings =
+Burnished Band;
+
+| wands =
+
+| decks =
+
+| items =
+Tanglebrush;
+Trowel;
+
+| cards =
+Cloak;
+Fire Trap;
+Spirit Armor;
+
+| reagents =
+Bone*F4*WMV;
+Brass;
+Bronze Gear*F2;
+Iron;
+Nickel;
+Pyrite*F3;
+Tin*F2*WMV;
+
+| spellements =
+
+| snacks =
+Chocolate Peanut;
+Glowing Rock Candy*F3*WMV;
+Meat Soup;
+Moon Pie*F4;
+Sliced Watermelon;
+Tasty Biscuit;
+Wafer Biscuit*F2;
+
+| jewels =
+Cracked Damage Jade +6;
+Volcanic Shield Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Bread Fruit Bush*F2;
+Couch Potatoes*CR*F3;
+Helephant Ears;
+Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

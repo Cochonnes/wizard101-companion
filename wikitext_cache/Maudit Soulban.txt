@@ -1,0 +1,226 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 10,520
+| crecla = Giant
+| school = Fire
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Fomori Giant;
+
+| world = Avalon
+| location = The Wild
+| subloc1 = Dread Keep
+| descrip =
+*Two additional {{Link|Creature|Fomori Giant}}s appear if more than two Wizards are present.
+
+| speech =
+:''"How did you get in here? I am Maudit Soulban, lord of the Dread Keep. Soon your blood-splattered garb will hang from my walls!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Fireblade;
+Fire Trap;
+Fire Shark;
+Natural Attack (Fire 145-285-440);
+Meteor Strike;
+Scald;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Efreet;
+
+| quests =
+Dread of Knight;
+
+| gold =
+88 - 111;
+
+| hats =
+Bad Storm Shroud;
+Brisk Helmet of Nodor;
+Champion of Order's Icy Helm*F2*WMV;
+Fire Spirits' Toasty Helm;
+Mask of the Catalan*F4*WMV;
+Mask of the Silent Hunter;
+
+| robes =
+Bad Storm Armor;
+Fire-Spitter Robes*F3*WMV;
+Honor Bound Surcoat;
+Knight of Flame Armor;
+Sunken Giant's Tartan*F2;
+Winter Wyrm's Cloak*F2*WMV;
+
+| boots =
+Friend of the Fire Elf Boots;
+Merciful Knight's Boots*F3;
+Noble Knight's Boots*F2*WMV;
+Slick Road Grippers;
+Splashing Stream Waders;
+Winter Wyrm Cleats;
+
+| athames =
+Hound's Tooth*F2;
+Nodor's Brisk Blade*F2;
+Wild Tangle Blade*F3;
+
+| amulets =
+Armiger's Bravura Necklace*F3*WMV;
+Strength of the Oak Pendant;
+Wise Wood Amulet;
+
+| rings =
+Bannerman's Honorbound Ring;
+Circle of Caliburn;
+Crystal Cave Rose;
+Ganelon's Lost Ring;
+Lady of the Lake's Signet*F3*WMV;
+Lake Spiral Ring;
+
+| wands =
+Bow of the Wildgrave*F3;
+Truesight Bow*F2*WMV;
+Wyrd-Oak Staff*F2;
+
+| decks =
+Antikythera Deck;
+Beleno's Chivalric Gallery;
+Tanglewood Cards*F6*WMV;
+
+| items =
+Avalon Haunting Theme*F2;
+Avalon Tense Theme*F2;
+Avalon Wooden Table;
+Tree with Lantern;
+
+| cards =
+Berserk*F2;
+Choke*F4;
+Disarm*F3;
+Fire Dragon;
+Forest Lord;
+Fortify;
+Frost Giant;
+Fuel*F2*WMV;
+Gargantuan*F3*WMV;
+Handsome Fomori*F3;
+Immolate*F5*WMV;
+Infallible*F3;
+Insane Bolt*F2;
+Orthrus;
+Power Link*F2*WMV;
+Power Nova*F2*WMV;
+Rebirth;
+Scald*F6*WMV;
+Scarecrow;
+Skeletal Dragon;
+Snow Angel;
+Steal Charm*F3*WMV;
+Supercharge*F3;
+Unstoppable;
+Vengeance*F2;
+Wild Bolt*F2;
+
+| reagents =
+Black Lotus*F2;
+Cat Tail*F5*WMV;
+Deep Mushroom*F2;
+Frost Flower*F4*WMV;
+Lava Lily*F4*WMV;
+Mist Wood*F4*WMV;
+Nickel;
+Ore*F3*WMV;
+Parchment*F3;
+Pearl*F5*WMV;
+Red Mandrake*F6*WMV;
+Shell*F2*WMV;
+Stone Block*F5*WMV;
+Tin;
+
+| spellements =
+
+
+| snacks =
+Bogwich;
+Buttered Bread;
+Cauliflowers*F2*WMV;
+Cheese Broccoli;
+Chocolate Strawberry*F2*WMV;
+Cracker*F2*WMV;
+Glowing Star Fruit;
+Golden Grapes;
+Green Grapes;
+Gummy Firecat;
+Gummy Humongofrog;
+Gummy Wyrms*F3*WMV;
+Jelly Baby;
+Nettle Root;
+Pigeon Pie*F3;
+Roasted Chickpeas*F4;
+Sugar Donut;
+Tiny Fish;
+Treant Bark*F3*WMV;
+Uni-Corn;
+
+| jewels =
+Balance-Boon Citrine;
+Clear Defense Peridot +37;
+Death Trap Onyx (Triangle);
+Eat My Dirt Opal;
+Enfeeble Amethyst;
+Mass Triage Jade;
+Opaque Defense Sapphire +34;
+Opaque Health Opal +71;
+Shift Peridot;
+Ultra Hurry Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+Deadly Fly Trap;
+Evil Magma Peas*CR;
+Key Limes*CR*F2;
+Pink Dandelion*CR;
+Red Huckleberries*F2;
+Silver Trumpet Vine*CR;
+Trumpet Vine;
+White Desparagus;
+White Tiger Lily*F2;
+
+| mounts =
+
+| spells =
+
+}}

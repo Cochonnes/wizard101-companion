@@ -1,0 +1,346 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 2,990
+| crecla = Bear
+| crecla2 = Undead
+| school = Myth
+| startpips = 3
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Frost Bones;
+
+| world = Grizzleheim
+| location = Vestrilund
+| subloc1 = Asrik's Cave
+| descrip =
+
+| speech =
+:''"The stench of magic is all over you. If you've come to cast some dark curse upon me, think again. I seek an honest end in battle, and must pit myself against all who come to this cave of exile."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+He may be dead, but this ferocious Warrior's appetite for destruction hasn't waned in the least bit.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Myth Trap;
+White Rat Magician;
+Gobbler;
+Minotaur;
+Earthquake;
+Humongofrog (400-500);
+Natural Attack (Myth 100x, 80%);
+
+| quests =
+Warriors Three;
+
+| gold =
+57 - 91;
+
+| hats =
+Barbaric Helm*F2*WMV;
+Bitter Cold Bear Hat*F2*WMV;
+Blasted Bear Hat*F2*WMV;
+Burning Bear Hat*F3*WMV;
+Grizzled Helm*F3*WMV;
+Horned Helm of Bravery*F7*WMV;
+Horned Helm of Courage*F8*WMV;
+Horned Helm of the North*F2*WMV;
+Horned Helm of Valor*F4*WMV;
+
+| robes =
+Burnt Coat*F2*WMV;
+Coat of Justice*F2*WMV;
+Coat of the Crypt*F3*WMV;
+Jerkin of the Bear's Shadow*F6*WMV;
+Jerkin of the Bleak Bear*F2*WMV;
+Jerkin of the Iron Bear*F2*WMV;
+Jerkin of the Roaring Bear*F3*WMV;
+Mocking Raiment*F11*WMV;
+Raiment of the Sun*F4*WMV;
+Raven's Eye Raiment*F4*WMV;
+
+| boots =
+Angry Bear Boots*F3*WMV;
+Barbarian's Brave Boots*F7*WMV;
+Barbarian's Courage Boots*F7*WMV;
+Barbarian's Daring Boots*F4*WMV;
+Barbarian's Fearless Boots*F6*WMV;
+Barbarian's Fierce Boots*F9*WMV;
+Barbarian's Valorous Boots*F5*WMV;
+Fighting Bear Boots*F3*WMV;
+Howling Bear Boots*F3*WMV;
+Roaring Bear Boots*F3*WMV;
+
+| athames =
+Wolf's Emerald Talon*F16*WMV;
+
+| amulets =
+Dragon's Shield Amulet*F16*WMV;
+
+| rings =
+Ring of Claw*F3*WMV;
+Ring of Fang*F3*WMV;
+Ring of the Hungry Wolf*F12*WMV;
+Ring of the Wolf Warrior*F4*WMV;
+Ring of the Wolf's Howl*F4*WMV;
+Storied Signet;
+
+| wands =
+Juniper Staff*F10*WMV;
+Staff of the Boreal Bear*F4*WMV;
+
+| decks =
+
+| items =
+
+| cards =
+Banshee;
+Blizzard;
+Cyclops*F3*WMV;
+Dark Sprite;
+Dryad*F2*WMV;
+Evil Snowman*F3*WMV;
+Fire Trap*F2*WMV;
+Fortify*F4*WMV;
+Giant;
+Humongofrog*F2*WMV;
+Ice Trap;
+Keen Eyes*F5*WMV;
+Meteor Strike*F2*WMV;
+Pacify*F2*WMV;
+Sandstorm;
+Shatter (2 Pip)*F16*WMV;
+Sniper*F3*WMV;
+Spirit Armor*F2*WMV;
+Sprite*F4*WMV;
+Storm Shark*F4*WMV;
+Storm Trap*F3*WMV;
+Strong*F6*WMV;
+Sunbird;
+Talos*F27*WMV;
+Tempest*F3*WMV;
+Vampire;
+Weakness*F2*WMV;
+
+| reagents =
+Bone*F17*WMV;
+Brass*F2*WMV;
+Cobalt*F11*WMV;
+Copper*F3*WMV;
+Grendelweed;
+Lead;
+Leather Straps*F23*WMV;
+Nickel*F9*WMV;
+Sunstone;
+Tin*F3*WMV;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F4*WMV;
+Cauliflowers*F6*WMV;
+Delicious Cookie*F4*WMV;
+Flaming Soup*F5*WMV;
+Glowing Star Fruit*F5*WMV;
+Glowing Taffy*F4*WMV;
+Goat Cheese*F4*WMV;
+Golden Apple*F6*WMV;
+Golden Grapes*F4*WMV;
+Gummy Humongofrog*F3*WMV;
+King Banana*F3*WMV;
+Salmonberry*F4*WMV;
+Shiny Tomato*F2*WMV;
+Spicy Drumstick*F4*WMV;
+Strawberry Cupcake*F3*WMV;
+Submarine Sandwich*F3*WMV;
+Uni-Corn*F3*WMV;
+
+| jewels =
+Add Health Opal;
+Amplify Talent Opal;
+Aura Crush Citrine;
+Balance-Boon Citrine;
+Balance-Eye Citrine;
+Balance-Off Citrine;
+Bananas! Opal*F2*WMV;
+Berserk Talent Opal;
+Big Hurry Opal;
+Big Sparky Amethyst;
+Black Widow Onyx;
+Blade of Fire Ruby;
+Blade of Life Jade;
+Boss Toad Peridot*F2*WMV;
+Brown Recluse Jade;
+Buff Minion Talent Peridot;
+Bullheaded Peridot;
+Calculating Opal;
+Clock Spider Citrine;
+Colossus Opal;
+Crystallize Sapphire;
+Death-Giver Onyx;
+Disarmament Amethyst;
+Dissipate Amethyst*F3*WMV;
+Dogged Opal;
+Dull Critical Amethyst +3;
+Dull Critical Citrine +3;
+Dull Critical Jade +3*F2*WMV;
+Dull Critical Onyx +3*F2*WMV;
+Dull Critical Opal +2;
+Dull Critical Peridot +3*F2*WMV;
+Dull Critical Ruby +3;
+Dull Critical Sapphire +3*F2*WMV;
+Dull Defense Amethyst +26;
+Dull Defense Citrine +26;
+Dull Defense Jade +26;
+Dull Defense Onyx +26;
+Dull Defense Peridot +26*F2*WMV;
+Dull Defense Ruby +26*F2*WMV;
+Dull Defense Sapphire +26*F2;
+Dull Healing Opal +3%;
+Dull Health Opal +51*F3*WMV;
+Dull Health Opal +52;
+Dull Health Opal +53*F3*WMV;
+Dull Mana Opal +22;
+Dull Mana Opal +23*F2;
+Dull PIP Opal +5%;
+Dull Resilient Opal +3%*F2;
+Dumbfound Opal;
+Eat My Dust Opal;
+Effective Opal;
+Enfeeblement Opal;
+Entangle Jade*F2*WMV;
+Exhausted Opal;
+Feeling Weak Citrine;
+Feinting Spell Onyx;
+Fire Elemental Opal;
+Fire-Boon Ruby;
+Flawed Mending Opal +2%;
+Flummox Opal;
+Forceful Opal;
+Fortify Talent Opal;
+Gargantuan Talent Opal*F2*WMV;
+Giant Talent Opal*F2*WMV;
+Go Humongo Peridot;
+Gold Miner Opal;
+Greensleeves Jade;
+Healer Opal;
+Healthy Opal*F2;
+Heart o'Pixie Jade;
+Huge Energy Opal;
+Huge Rally Opal;
+Ice-Giver Sapphire*F2*WMV;
+Immunity Opal;
+Keen Eyes Talent Opal;
+Mana Boost Opal;
+Mander Opal;
+Mega Hurry Opal*F2*WMV;
+Mega-Boost Opal;
+Mega-Upset Opal;
+Melt Sapphire*F2*WMV;
+Mend Talent Opal*F2*WMV;
+Monstrous Talent Opal*F3*WMV;
+Mulligan's Shuffle Citrine;
+Musical Lane Opal;
+Myth-Boon Peridot;
+Myth-Eye Peridot;
+Ninja Pig Opal;
+No Pain, No Gain Onyx*F2;
+Pip O'Plenty Opal;
+Plain Defense Amethyst +29*F2*WMV;
+Plain Defense Citrine +29*F5*WMV;
+Plain Defense Jade +29*F2*WMV;
+Plain Defense Onyx +29*F4*WMV;
+Plain Defense Opal +15*F6*WMV;
+Plain Defense Peridot +29*F3*WMV;
+Plain Defense Ruby +29*F3*WMV;
+Plain Defense Sapphire +29*F3*WMV;
+Plain Health Opal +59*F4*WMV;
+Plain Health Opal +60*F5*WMV;
+Quench Ruby*F2*WMV;
+Rage of Winter Sapphire;
+Sap Health Talent Citrine;
+Shush! Opal*F2;
+Spartan Jade;
+Sprite Time Jade;
+Steadfast Opal;
+Stonewall Opal;
+Storm Elemental Opal*F2*WMV;
+Storm-Away Amethyst;
+Storm-Eye Amethyst;
+Storm-Proof Amethyst;
+Stormclaw Amethyst*F2*WMV;
+Strangle Onyx*F3*WMV;
+Stupefy Opal;
+Super-Lock Opal;
+The Deer Knight Rises Onyx;
+Time Skip Sapphire;
+Treant Opal;
+Ultra Boost Opal*F2*WMV;
+Ultra Energy Opal;
+Ultra Mute Opal;
+Ultra Rally Opal;
+Unbalance Citrine*F5*WMV;
+Unbreakable Opal;
+Vaporize Peridot*F3*WMV;
+Vengeance Talent Opal;
+Wisp Bonus Opal*F2*WMV;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Baby Carrots*F2*WMV;
+Burning Snap Dragon*F2*WMV;
+Cornbread Fruit Bush*F3*WMV;
+Evil Snow Peas*F4*WMV;
+Helephant Ears*F3*WMV;
+Orange Dandelion*F5*WMV;
+Rye Bread Fruit Bush*F2*WMV;
+Snap Dragon*F4*WMV;
+Venus Fly Trap*F3*WMV;
+White Laugh-O-Dil*F4*WMV;
+
+| mounts =
+
+| spells =
+
+}}

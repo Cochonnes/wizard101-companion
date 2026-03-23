@@ -1,0 +1,194 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 11,000
+| crecla = Spriggan
+| school = Balance
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Spriggan;
+
+| world = Avalon
+| location = The Wyrd
+| subloc1 = Ginther's House
+| descrip =
+*Two additional {{Link|Creature|Scurvy Skirker}}s appear if more than two Wizards are present.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Conviction;
+Vengeance;
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Natural Attack (Balance 160-320-480);
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Ra;
+Chimera;
+Judgement;
+
+| quests =
+Knight Blind;
+
+| gold =
+65 - 143;
+
+| hats =
+Jouster's Helm*F2*WMV;
+Lake Knight's Helm*F2*WMV;
+
+| robes =
+Brave One's Plate*F2*WMV;
+Courageous Armiger's Vestment;
+Honor Bound Surcoat;
+Storm Crown Tunic*F4*WMV;
+Weirwood Champion's Armor*F5;
+
+| boots =
+Dread Keep Strollers*F2*WMV;
+Scaith Striders*F3*WMV;
+Splashing Stream Waders;
+Whitehaven Boots;
+
+| athames =
+Lord of the Wild Hunt's Steel*F2*WMV;
+Spriggan's Wicked Spike*F2*WMV;
+
+| amulets =
+Barbarian Philosopher's Mark*F2*WMV;
+Chosen Chief's Amulet*F3*WMV;
+
+| rings =
+Stone of the Other Side*F2;
+
+| wands =
+Antlered Staff*F2;
+Highland Walking Stick*F2;
+
+| decks =
+Astrological Gallery*F3*WMV;
+Clockwork Deck*F3;
+
+| items =
+Avalon Statue;
+Avalon Tense Theme*F2*WMV;
+Avalon Wyrd Theme*F2;
+Square Pedestal;
+
+| cards =
+Amplify;
+Availing Hands*F3*WMV;
+Berserk*F2*WMV;
+Black Mantle*F5;
+Bladestorm*F2*WMV;
+Colossal*F3*WMV;
+Elemental Defuse*F2*WMV;
+Empowerment*F4*WMV;
+Extraordinary*F4*WMV;
+Fire Dragon*F2*WMV;
+Fortify*F4;
+Frost Giant;
+Helping Hands*F3*WMV;
+Hex*F2;
+Infallible*F2;
+Insane Bolt;
+Mend*F3*WMV;
+Orthrus*F2*WMV;
+Power Nova*F2;
+Rebirth*F3*WMV;
+Scarecrow;
+Spirit Defuse*F4*WMV;
+Spirit Shield*F3*WMV;
+Storm Lord*F2;
+Unstoppable*F2*WMV;
+Vengeance*F3*WMV;
+
+| reagents =
+Black Lotus*F3*WMV;
+Brass;
+Bronze;
+Cat Tail;
+Cobalt;
+Deep Mushroom*F4*WMV;
+Frost Flower*F4*WMV;
+Lava Lily*F5*WMV;
+Mist Wood*F4*WMV;
+Ore*F2*WMV;
+Parchment*F2*WMV;
+Pearl*F3*WMV;
+Red Mandrake*F3*WMV;
+Shell*F3*WMV;
+Steel;
+Stone Block*F3*WMV;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Deviled Eggs;
+Flapjacks;
+Glowing Star Fruit;
+Goat Cheese;
+Golden Grapes*F2;
+Green Grapes;
+Pigeon Pie;
+Salmonberry;
+Shiny Tomato;
+Treant Bark*F2*WMV;
+
+| jewels =
+Buff Minion Talent Peridot;
+Clear Critical Ruby +10;
+Clear Damage Ruby +19;
+Dimension Shift Peridot;
+Mass Triage Jade;
+Sniper Talent Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak*F2*WMV;
+Angora Bunny Ears;
+Blue Huckleberries*F3*WMV;
+Deadly Helephant Ears*CR;
+Pink Huckleberries*F2;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

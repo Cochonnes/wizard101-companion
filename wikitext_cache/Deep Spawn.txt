@@ -1,0 +1,272 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 11,745
+| crecla = Insect
+| school = Storm
+| startpips = 7
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Khrysalis
+| location = Crescent Beach
+| subloc1 = StarFall Sea
+| location2 = Ruined Alcazar
+| subloc2 = Crab Cave
+| descrip =
+Three of these Creatures must be battled at once in the StarFall Sea instance.<br/>Two of these Creatures must be battled at once in Crab Cave.
+
+| speech =
+:'''(in StarFall Sea)'''
+::''"Ph'nglui mglw'nafh Morganthe Shogg wgah'nagl fhtagn!"''
+:'''(in Crab Cave)'''
+::''"Flee this place, Shadow Blight! The Celestial Crab is ours."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+It's deep because it's from the abyss of the Starfall Sea. But also because it's really in touch with its feelings.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Lightning Strike;
+Stormblade;
+Supercharge;
+Storm Trap;
+Windstorm;
+Enfeeble;
+Natural Attack (Storm 200-340-480);
+Storm Dragon;
+Sirens;
+Storm Owl;
+Tempest (85);
+
+| quests =
+Maelstrom Rising;
+Deep Blue Something;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*4 Spellements per Deep Spawn will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+| gold =
+58 - 72;
+
+| hats =
+Beleaguered Mouse Cowl*F4*WMV;
+Dragonfly Keeper's Cap;
+Flame Legs Captain's Helm*F6*WMV;
+Mantis Shroud of Secrecy*F7*WMV;
+
+| robes =
+Dragonfly Rider's Garment*F8*WMV;
+
+| boots =
+Last Wood Defender's Boots*F6*WMV;
+Mantis Guard Stonesteppers*F11*WMV;
+
+| athames =
+Corrupted Queen's Barb*F3*WMV;
+Revenant's Edge of Strife*F10*WMV;
+
+| amulets =
+Mouse Revenant's Talisman*F5*WMV;
+Stinger's Carcanet*F2*WMV;
+ToeBiter's Cursed Relic*F3*WMV;
+
+| rings =
+
+| wands =
+Edge of the Lost King*F3*WMV;
+Pepper Grass Blade*F3*WMV;
+Razor of the Felled Forest*F2*WMV;
+Sword of Bastion's Revival*F3*WMV;
+
+| decks =
+Cell of Survival*F4*WMV;
+Gallery of the Woebegone*F2*WMV;
+Spiked Set*F4*WMV;
+
+| items =
+Khrysalis Boris Theme*F2*WMV;
+Khrysalis Combat Theme 2*F6*WMV;
+Khrysalis Hive Combat Theme*F3*WMV;
+
+| cards =
+Avenging Fossil*F3*WMV;
+Black Widow;
+Choke*F2;
+Crystal Spider;
+Death Scarab;
+Disarm;
+Doom and Gloom;
+Frost Beetle*F3;
+Giant Spider*F3*WMV;
+Life Scarab*F2*WMV;
+Loremaster;
+Mass Infection*F2;
+O'Leary Charlatan (Storm);
+Pierce;
+Rat Illusionist;
+Sanctuary;
+Scarab*F2*WMV;
+Scorpion*F2;
+Sun Serpent;
+
+| reagents =
+Astral Shard*F14*WMV;
+Black Lotus*F4*WMV;
+Black Pearl*F3*WMV;
+Blood Moss*F4*WMV;
+Bone*F5*WMV;
+Bronze Gear*F9*WMV;
+Copper*F5*WMV;
+Deep Mushroom*F3*WMV;
+Fire Blossom*F3*WMV;
+Fossil*F3*WMV;
+Golden Pearl*F3*WMV;
+Iron;
+Lava Lily*F7*WMV;
+Mist Wood*F7*WMV;
+Nickel*F3*WMV;
+Nightshade*F4*WMV;
+Ore*F3*WMV;
+Orichalcum*F2*WMV;
+Pyrite*F4*WMV;
+Red Mandrake*F7*WMV;
+Stone Block*F7*WMV;
+Sunstone*F3*WMV;
+Turquoise*F5*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Chimera*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Buttered Bread*F3*WMV;
+Cauliflowers*F5*WMV;
+Dr. Jalapeno;
+Flapjacks*F2*WMV;
+Glowing Dragon Fruit;
+Glowing Star Fruit*F2*WMV;
+Salmonberry*F3*WMV;
+Shiny Tomato*F2*WMV;
+Submarine Sandwich*F3*WMV;
+Uni-Corn*F2*WMV;
+
+| jewels =
+Blood Bat Peridot;
+Boost Opal;
+Chipped Mana Opal +10;
+Chipped PIP Opal +1%;
+Clear Blocking Opal +5;
+Cracked Defense Amethyst +12;
+Cracked Defense Jade +12*F2;
+Cracked Defense Onyx +12*F2;
+Cracked Defense Opal +4*F2;
+Cracked Defense Ruby +12;
+Energy Opal;
+Fire Cat Ruby;
+Frost Beetle Sapphire;
+Imp Jade;
+Polished Blocking Amethyst +12;
+Polished Blocking Citrine +12;
+Polished Blocking Onyx +12;
+Polished Blocking Peridot +12;
+Polished Defense Peridot +44;
+Polished Defense Ruby +44;
+Polished Defense Sapphire +44;
+Scarab Citrine;
+Sharp Opal;
+Slow Leader Opal;
+Storm-Eye Amethyst;
+Thunder Snake Amethyst;
+Water Elemental Amethyst;
+
+| pins =
+
+| pets =
+Finned Assassin*F2*WMV;
+
+| seeds =
+Deadly Ninja Fig;
+Fish on a Vine*F3*WMV;
+Queen Crape Myrtle*F2*WMV;
+Saw Palmetto;
+White Laugh-O-Dil*F2;
+
+| mounts =
+
+| spells =
+
+}}

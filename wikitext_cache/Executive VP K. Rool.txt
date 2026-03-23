@@ -1,0 +1,241 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 13,975
+| crecla = Krokotopian
+| school = Sun
+| masteries =
+Fire;
+Life;
+
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+291 Any;
+
+| criticalblock =
+280 Any;
+
+| outpierce =
+31%;
+
+| outboost =
+150%;
+
+| incboost =
+2% Life, Death;
+5% Ice, Myth;
+
+| incresist =
+73% Fire;
+
+| outhealing =
+
+| inchealing =
+75%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Banana Horde;
+
+| world = Lemuria
+| location = Sky City
+| subloc1 = K. Roolity Inn
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"You've come for the Bananas, have you? Well, you're too late. Office hours are over for today. Come back next week. No, can't be tomorrow. Going on a business trip, you see. Got a hostile takeover of the world scheduled. With the Banana Horde, exactly. Took a pretty penny to lure them over from Donny Kong. Literally. I attracted them with shiny things. And now these fellows here are on the fast track to middle management. All they have to do is show me that they're willing to make... sacrifices."''
+
+| spellnotes =
+*Casts a protected Bladestorm.
+
+| casts =
+Frenzy;
+Sun Shield (Storm-Life-Fire);
+Rebirth (Sun);
+Balanceblade;
+Bladestorm;
+Mass Feint (+75%);
+Swap Ward;
+Meteor Strike (Sun);
+Athena Battle Sight (Sun, 5 Pip);
+Mystic Colossus (Sun);
+Helephant (Sun);
+Sound of Musicology (Sun);
+Ra (Sun);
+Lamassu;
+S'more Machine (Tier 2a);
+
+| quests =
+Hostility Industry;
+
+| gold =
+190 - 199;
+
+| hats =
+Supreme Deflector Hat;
+
+| robes =
+Supreme Cold Steel Robe;
+
+| boots =
+Supreme Deflector Shoes;
+Supreme Science Shoes;
+
+| athames =
+
+| amulets =
+
+| rings =
+Supreme Founder's Ring;
+
+| wands =
+Supreme Electric Staff;
+Supreme Stability Staff;
+Supreme Undaunting Staff;
+
+| decks =
+Supreme Barbarian Deck;
+Supreme Teleological Deck;
+
+| items =
+Arcanum Combat Theme;
+Cargo;
+Lemuria Forest Combat Theme;
+Lemuria Sky City Combat Theme;
+Puzzle Cube*F2;
+
+| cards =
+Berserk*F2;
+Elemental Spear;
+Fortify;
+Mass Death Prism;
+Mass Fire Prism;
+Mass Life Prism;
+Mass Myth Prism;
+Mass Triage;
+Pacify;
+Raging Bull;
+Snowball Barrage;
+Storm Shield;
+
+| reagents =
+Aether;
+Agave Leaves;
+Amber*F3;
+Amber Dust;
+Aquamarine;
+Astral Shard;
+Braided Vine;
+Fire Blossom;
+Fish Fin;
+Golden Pearl;
+Mithril*F2;
+Orichalcum;
+Scales;
+Silver*F2;
+Stardust;
+Steel;
+Sunstone;
+Titanium;
+Tungsten;
+Turquoise;
+Vine;
+
+| spellements =
+Blast Off!;
+Dark & Stormy;
+
+| snacks =
+Bell Pepper Steak;
+Boom Stroganoff;
+Bread Fruit Fruit;
+Candlenut;
+Cauliflowers;
+Chili Peppers;
+Crab Louie;
+Crystalweb Candy;
+Desparagus Salad;
+Fin Flan;
+Fish Egg Pancakes;
+Fizzing Fertilizer;
+Flapjacks;
+Fried Ice Cream;
+Fried Worms*F2;
+Ginger Mint Tea;
+Goat Cheese;
+Shanta Pudding;
+
+| jewels =
+Ally Dream Shield Onyx;
+Ally Stun Block Sapphire;
+Animate Skeleton Onyx;
+Balance-Giver Citrine;
+Balance-Off Citrine;
+Balance-Ward Citrine;
+Button Tom Peridot;
+Dazzling Accurate Citrine +14%;
+Dazzling Blocking Hematite +19;
+Dazzling Blocking Opal +10;
+Dazzling Blocking Sapphire +19;
+Dazzling Critical Citrine +19;
+Dazzling Defense Jade +60;
+Dazzling Defense Peridot +60;
+Death-Away Onyx;
+Fire-Eye Ruby;
+Fire-Sniper Ruby;
+Ice Assailant Sapphire;
+Ice-Away Sapphire;
+Ice-Proof Sapphire;
+Ice-Shot Sapphire;
+Ice-Sniper Sapphire;
+Life Assailant Jade;
+Life-Away Jade;
+Life-Eye Jade;
+Life-Sniper Jade;
+Lively Opal;
+Medic Opal;
+Myth-Away Peridot;
+Myth-Proof Peridot;
+Sparkling Health Opal +117;
+Storm Assailant Amethyst;
+Storm-Proof Amethyst;
+Unbalancer Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Blue Huckleberries;
+Burning Snap Dragon;
+Clockwork Flower;
+Deadly Fly Trap*F2;
+Deadly Helephant Ears*CR;
+Evil Snow Peas;
+Frozen Fly Trap;
+Helephant Ears;
+Ivy League*CR;
+King Parsley*CR;
+Pink Huckleberries;
+Prickly Bear Cactus*F2;
+Purple Grapes of Wrath;
+Queen Crape Myrtle;
+Red Couch Potatoes;
+Red Huckleberries;
+Rotten Beets;
+Rye Bread Fruit Bush;
+Sour Fickle Pickle;
+Tiger Lily (Seed);
+Vampire Carrots;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

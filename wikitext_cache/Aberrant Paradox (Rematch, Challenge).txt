@@ -1,0 +1,86 @@
+{{Test|feb26}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 20,000
+| crecla = Aberration
+| school = Shadow
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Aberration (Fire, Rematch, Challenge);
+Aberration (Ice, Rematch, Challenge);
+Aberration (Storm, Rematch, Challenge);
+
+| world = Housing Instance
+| location = Aberrant Paradox Rematch (Challenge)
+| subloc1 = 
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

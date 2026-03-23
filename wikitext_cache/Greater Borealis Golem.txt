@@ -1,0 +1,267 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,000
+| crecla = Elemental
+| crecla2 = Golem
+| school = Storm
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Greater Borealis Golem;
+
+| world = Polaris
+| location = Kataba IceBlock
+| subloc1 = Titan Forge
+| descrip =
+
+| speech =
+:'''[[NPC:Rasputin|Voice of Rasputin]]:''' ''"You pesky mongrels! Why won't you just give up? You may have already defeat one of my [[Creature:Ivan the Greater|larger golems]], but let's see how you handle two!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Polaris
+| tome description =
+You're darn tooting it's greater.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+
+| spellnotes =
+
+| casts =
+Galvanic Field;
+Stormblade;
+Supercharge;
+Balanceblade;
+Elemental Blade;
+Windstorm;
+Darkwind;
+Storm Beetle (125);
+Storm Serpent (230);
+Natural Attack (Storm 125-245-365);
+Storm Cat;
+Storm Owl;
+Tempest;
+
+| quests =
+The Titan Forge;
+
+| gold =
+1,340 - 3,274;
+
+| hats =
+Kataba Furcap of Glaciers;
+Kataba Iceblock Furcap*F2*WMV;
+The Manticore*CR;
+The Stardust*CR;
+The Warlock*CR;
+Walrusk Fur Hat of Dignity*F3;
+Walrusk Fur Hat of Wit*F2;
+Walrusk Furcap of Intensity*F2*WMV;
+Walrusk Papakh of Frenzy;
+Walrusk Papakh of Graupel;
+
+| robes =
+Walrusk Chokha of Frenzy;
+Walrusk Cloak of Intensity;
+Walrusk Coat of Rime*F3*WMV;
+Walrusk Robes of Wit;
+Walrusk Uniform of Calamity;
+
+| boots =
+Imperial Walrusk Footguards;
+Kataba Iceblock Runners*F3*WMV;
+Kataba Shoes of Glaciers;
+Kataba Stalkers of Havoc;
+Walrusk Boots of Intensity*F2;
+Walrusk Footgear of Rime*F2;
+Walrusk Mukluks of Frenzy;
+Walrusk Runners of Wit;
+Walrusk Shoes of Dignity;
+
+| athames =
+Imperial Walrusk Dagger*F2;
+Kataba Athame of Zeal*F2;
+Kataba Dagger of Cinders;
+Kataba Iceblock Smallblade;
+Kataba Lancet of Havoc*F3*WMV;
+Kataba Skewer of Toil*F2;
+Kataba Stiletto of Destiny;
+Walrusk Knife of Intensity;
+Walrusk Lancet of Graupel;
+
+| amulets =
+Imperial Walrusk Medallion*F2;
+Kataba Ampul of Glaciers;
+Kataba Amulet of Zeal;
+Kataba Stone of Cinders*F2*WMV;
+Kataba Torc of Parables;
+Walrusk Charm of Intensity;
+
+| rings =
+Imperial Walrusk Seal;
+Kataba Band of Misery*F2;
+Kataba Loop of Havoc;
+Kataba Ring of Destiny*F2;
+Kataba Ringlet of Zeal*F2*WMV;
+Kataba Seal of Parables*F2*WMV;
+Walrusk Seal of Graupel;
+
+| wands =
+Imperial Walrusk Cutlass;
+Kataba Bardiche of Havoc;
+Kataba Iceblock Crescent Axe*F3;
+Walrusk Cutlass of Frenzy;
+Walrusk Cutlass of Graupel;
+Walrusk Saber of Dignity*F2*WMV;
+Walrusk Saber of Intensity*F2*WMV;
+Walrusk Saber of Rime*F2;
+Walrusk Sword of Wit*F2;
+
+| decks =
+Hand of the Kataba Iceblock;
+Kataba Assemblage of Toil;
+Kataba Fascicle of Glaciers;
+Kataba Pasteboards of Zeal*F2;
+Walrusk Array of Graupel;
+Walrusk Cards of Intensity;
+Walrusk Hand of Dignity;
+Walrusk Pack of Rime*F2;
+Walrusk Spread of Frenzy;
+
+| items =
+Blue Teleporter*CR;
+Cyan Teleporter*CR*F3*WMV;
+Green Teleporter*CR*F2*WMV;
+Orange Teleporter*CR*F2*WMV;
+Purple Teleporter*CR*F2*WMV;
+Red Teleporter*CR;
+White Teleporter*CR;
+Yellow Teleporter*CR;
+
+| cards =
+Ashen Bones;
+Frostfang;
+Mutate Bats (Fire);
+Mutate Bats (Ice);
+Mutate Beetle (Fire);
+Mutate Bird (Ice);
+Mutate Elf (Storm);
+Mutate Helephant (Ice);
+Mutate Kraken (Fire);
+Mutate Kraken (Ice)*F2;
+Mutate Monster (Ice);
+Mutate Phoenix (Sun)*F2*WMV;
+Mutate Serpent (Fire);
+Mutate Serpent (Storm);
+Mutate Shark (Fire);
+Mutate Shark (Ice);
+Mutate Snake (Fire);
+Mutate Snake (Ice);
+Mutate Snowman (Fire);
+Mutate Snowman (Storm);
+Mutate Swarm (Ice)*F2*WMV;
+Mutate Wyvern (Storm)*F2;
+Namaste;
+
+| reagents =
+Aether*F2*WMV;
+Agave Leaves*F3*WMV;
+Amber Dust*F3*WMV;
+Aquamarine*F5*WMV;
+Astral Shard*F7*WMV;
+Fish Fin;
+Golden Pearl*F2;
+Mithril*F4*WMV;
+Scales*F4*WMV;
+Silver*F5*WMV;
+Steel*F4*WMV;
+Sunstone*F3*WMV;
+Tungsten*F6*WMV;
+Turquoise*F2;
+Vine*F3;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Beast Wellington*F2*WMV;
+Chalupacabra*F2*WMV;
+Eye Candy*F2*WMV;
+Frosty Sugar Cubes*F2;
+Frozen Snails*F2*WMV;
+Granny Snow Apple*F2*WMV;
+Green Tomato*F2;
+High Road Haggis;
+Hot Cross Buns*F2;
+Jolly Rancher;
+Mustachios*F5*WMV;
+Penne Dreadful*F4*WMV;
+Polaris Fries*F2*WMV;
+Satyr Chow*F2*WMV;
+Ships 'n' Queso*F2;
+Veggie Juice;
+
+| jewels =
+
+| pins =
+
+| pets =
+Arctic Ninja Pig;
+Glacier Dragon;
+Nodori Winged Ram*CR;
+Polar Bear Cub*CR;
+Snowball*CR;
+
+| seeds =
+Deadly Helephant Ears*CR*F2*WMV;
+Evil Snow Peas*F5*WMV;
+Fish on a Vine*F5*WMV;
+Frozen Fly Trap*F9*WMV;
+Green Snow Apples*F5*WMV;
+Helephant Ears*F7*WMV;
+Purple Snow Apples*F3*WMV;
+Queen Crape Myrtle*F5*WMV;
+Snow Apples*F4*WMV;
+Ultra Helephant Ears*F4*WMV;
+Ultra Snow Apples*F2;
+White Desparagus*F4*WMV;
+White Laugh-O-Dil*F7*WMV;
+White Tiger Lily*F3;
+
+| mounts =
+
+| spells =
+
+}}

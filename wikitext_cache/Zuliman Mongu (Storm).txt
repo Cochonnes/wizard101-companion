@@ -1,0 +1,182 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 8,400
+| crecla = Mongu
+| school = Storm
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+5%;
+
+| outboost =
+
+| incboost =
+15% Myth;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Mirage
+| location = Caravan
+| subloc1 = Mottoman Treasure Cave
+| descrip =
+Storm Wizards must defeat Zuliman Mongu during their Level 118 Spell Quest.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Flawless;
+Outpouring;
+Thermic Shield (-75%);
+Healing Current (325);
+Stormblade;
+Storm Trap (+35%);
+Storm Serpent (230);
+Catalan;
+Leviathan;
+Sirens (965);
+
+| quests =
+Iron Sultan;
+
+| gold =
+258 - 444;
+
+| hats =
+
+| robes =
+Sand Sea Outfit of Ashes;
+Sand Sea Outfit of Havoc;
+
+| boots =
+Vizier's Shoes of Apathy;
+Zruvan Galesh of Acumen;
+Zruvan Galesh of Demise;
+
+| athames =
+Sand Sea Dagger of Emptiness;
+
+| amulets =
+Kobra Choker of Amity;
+Kobra Choker of Flashfloods;
+Sand Sea Dagger of Bolts;
+
+| rings =
+Sand Sea Ring of Bolts;
+Sand Sea Ring of Decorum;
+
+| wands =
+Rubal Bow of Conflagration;
+Rubal Bow of Eradication;
+
+| decks =
+
+| items =
+Mirage Canyon Theme 1;
+Mirage City Combat Theme;
+Mirage City Tense Theme;
+Mirage City Theme 2;
+Mirage Desert Combat Theme;
+Mirage Jungle Combat Theme;
+Mirage Magic Carpet Theme;
+Mirage Nomad Theme;
+
+| cards =
+Age of Reckoning;
+Namaste;
+Rusalka's Wrath;
+Saga of Heroes;
+Witch's House Call;
+
+| reagents =
+Aether;
+Agave Leaves;
+Amber*F2;
+Amber Dust;
+Aquamarine*F2;
+Astral Shard*F2*WMV;
+Braided Vine;
+Fire Blossom;
+Golden Pearl*F2;
+Iridium;
+Merle's Whisker;
+Mithril*F2;
+Scales;
+Silver;
+Stardust;
+Steel*F2*WMV;
+Sunstone;
+Titanium;
+Turquoise*F2;
+Vine;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F2;
+Beetle Cream Soda;
+Hard Boiled Beetle Eggs;
+Hot Cross Buns;
+Mustachios;
+
+| jewels =
+Shiny Blocking Jade +16;
+Shiny Critical Citrine +16;
+Shiny Critical Hematite +16;
+Shiny Damage Peridot +26;
+Shiny Health Opal +111;
+Shiny Health Opal +113;
+Shiny Mana Opal +45;
+Shiny Mana Opal +47;
+
+| pins =
+
+| pets =
+MaCaw*CR;
+
+| seeds =
+Baby Carrots;
+Blue Huckleberries;
+Boiled Peanuts;
+Bread Fruit Bush;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Deadly Ninja Fig;
+Fickle Pickle;
+Fish on a Vine;
+Ivy League*CR;
+Key Limes*CR;
+Maelstrom Snap Dragon;
+Melting Cheese Tree;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Red Bell Pepper;
+Red Couch Potatoes;
+Red Grapes of Wrath;
+Red Huckleberries;
+Silver Trumpet Vine*CR;
+Sunion*CR;
+Sword Fern*CR;
+Tiger Lily (Seed);
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

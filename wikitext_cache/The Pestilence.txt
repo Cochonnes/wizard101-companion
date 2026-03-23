@@ -1,0 +1,278 @@
+{{CreatureInfobox
+| cretype = Boss 
+| rank = 17
+| heal = 6,000
+| crecla = Elemental
+| school = Storm
+| masteries =
+Balance;
+
+| startpips = 3
+| powerpips = Yes
+| critical =
+221 Any;
+
+| criticalblock =
+111 Any;
+
+| outpierce =
+22%;
+
+| outboost =
+85%;
+
+| incboost =
+10% Myth;
+
+| incresist =
+60% Storm;
+
+| outhealing =
+35%;
+
+| inchealing =
+40%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Rot Spore;
+
+| world = Wizard City
+| location = Ravenwood
+| subloc1 = Root System
+| descrip =
+
+| speech =
+:''"*Sniiiff* How's this? You've the smell of a delicious Tree, but not the look of one. Perhaps a bite or two of your bark will help me understand."''
+
+| spellnotes =
+*Casts a protected Myth Shield, Stormblade, and Bladestorm.
+
+| casts =
+Flawless;
+Galvanic Field (6 Rounds);
+Myth Shield;
+Healing Current;
+Stormblade;
+Bladestorm;
+Windstorm;
+Enfeeble;
+Astraphobia;
+Queen Calypso;
+Natural Attack (Storm 125-250-375, 65%);
+Catch of the Day;
+Storm Lord;
+Storm Hound (150);
+
+| quests =
+Finally Growing Into It;
+
+| gold =
+97 - 814;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Freezing Zanadu Dagger;
+Grim Zanadu Dagger;
+Immutable Zanadu Dagger;
+Verdant Zanadu Dagger;
+
+| amulets =
+Crackling Zanadu Pendant;
+Grim Zanadu Pendant;
+Illuminated Zanadu Pendant;
+Immutable Zanadu Pendant;
+Verdant Zanadu Pendant;
+
+| rings =
+
+| wands =
+
+| decks =
+Bodacious Kalamar Deck;
+Chill Kalamar Deck;
+Choice Kalamar Deck*F2;
+Gnarly Kalamar Deck*F2;
+Heavy Kalamar Deck;
+Mondo Kalamar Deck;
+Rad Kalamar Deck;
+
+| items =
+Aero Dwarf Chair;
+Empyrea Husk Storm Combat*F2*WMV;
+Empyrea Husk Theme;
+Kalamar Chair;
+Kalamar Side Table;
+
+| cards =
+Cyclops;
+Darkwind;
+Death Prism;
+Diablo Qarin;
+Fable Lord;
+Humongofrog;
+Ice Prism;
+Kraken*F2*WMV;
+Lord of Blazes;
+Lord of the Squall*F2;
+Maelstrom Marid;
+Mass Storm Prism;
+Mega Subdue*F2;
+Mutate Banshee (Life);
+Mutate Bats (Ice);
+Mutate Beetle (Storm);
+Mutate Elf (Ice);
+Mutate Helephant (Ice);
+Mutate Minotaur (Sun);
+Mutate Phoenix (Ice);
+Mutate Snake (Fire);
+Mythspear;
+Oni No Jade;
+Oni No Plague*F2;
+Spirit Spear;
+Storm Prism;
+Sunbird;
+Tower Shield;
+Tundra Lord;
+
+| reagents =
+Aether*F2*WMV;
+Agave Leaves;
+Agave Nectar;
+Amber;
+Amber Dust;
+Ancient Scroll;
+Aquamarine*F4*WMV;
+Astral Shard*F3*WMV;
+Black Pearl;
+Blood Moss;
+Braided Vine;
+Brass;
+Bronze Gear;
+Cobalt;
+Draconium;
+Ectoplasm;
+Fire Blossom*F4*WMV;
+Fish Fin;
+Flying Squid Ink*F4*WMV;
+Golden Pearl;
+Merle's Whisker;
+Mithril*F3*WMV;
+Nickel;
+Scales*F6*WMV;
+Silver*F2;
+Spider Silk*F2*WMV;
+Spring;
+Stardust;
+Steel*F3*WMV;
+Sunstone*F2;
+Tin;
+Titanium*F3*WMV;
+Tungsten*F3;
+Turquoise*F2*WMV;
+Vine;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate*F2*WMV;
+Beast Wellington;
+Berry Poundcake;
+Boiled Spider Legs*F2;
+Crackle Jacks Cereal;
+Dastardly Radish;
+Discord Grape Jelly*F2;
+Eye Candy*F3;
+Fern Jelly;
+Fetid Legumes;
+Gator Tots;
+Ginger Mint Tea*F2*WMV;
+Golden Squash;
+Gummy Humongofrog;
+Hero Sandwich;
+Hive Rinds;
+Hot Cross Buns*F2;
+Killer Tomato;
+Lemon Daisy;
+Meat Soup*F2*WMV;
+Minotarts;
+Pineapple Spears;
+Redskin Peanut;
+Rock and Roll Candy*F3*WMV;
+Satyr Chow;
+Spicy Drumstick;
+Sprinkle Cupcake;
+Taco Town Special;
+
+| jewels =
+Lustrous PIP Opal +10%;
+Shiny Accurate Citrine +12%;
+Shiny Accurate Sapphire +12%;
+Shiny Blocking Amethyst +15;
+Shiny Damage Ruby +25;
+Shiny Damage Sapphire +25;
+Shiny Defense Ruby +50;
+Sparkling Blocking Peridot +18;
+Sparkling Critical Citrine +18;
+Sparkling Damage Amethyst +28*F2;
+Sparkling Defense Hematite +55;
+Sparkling Defense Peridot +55;
+Sparkling Defense Ruby +55;
+Sparkling Health Opal +122;
+Sparkling Health Opal +123;
+Sparkling Health Opal +125;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears*F2*WMV;
+Baby Carrots*F2*WMV;
+Bell Pepper*F2;
+Boom Shroom;
+Blue Huckleberries;
+Boiled Peanuts;
+Bread Fruit Bush;
+Clockwork Flower*F2*WMV;
+Dandelion;
+Deadly Fly Trap;
+Deadly Ninja Fig;
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Face Palm;
+Fickle Pickle;
+Fiery Boom Shroom;
+Fish on a Vine*F2;
+Frozen Fly Trap;
+Golden Couch Potatoes*F2*WMV;
+Grapes of Wrath*CR*F2;
+Honey Sickle;
+Key Limes*CR;
+King Parsley*CR;
+Maltese Tiger Lily;
+Pink Huckleberries*F2*WMV;
+Pink Laugh-O-Dil;
+Red Huckleberries;
+Saw Palmetto;
+Sword Fern*CR;
+Ultra Dandelion;
+Ultra Huckleberries;
+Ultra Ninja Fig;
+Ultra Snow Apples;
+Venus Fly Trap;
+White Desparagus;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

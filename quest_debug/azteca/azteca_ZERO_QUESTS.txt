@@ -1,0 +1,852 @@
+Zero quests parsed for Azteca.
+URL: https://finalbastion.com/wizard101-guides/w101-quest-guides/azteca-main-quest-line/
+
+Check azteca_plain.txt and the parse log below.
+
+PARSE LOG — Azteca
+============================================================
+
+L0000 SKIP    : Home
+L0001 SKIP    : →
+L0002 IGNORED : Wizard101-Worlds
+L0003 SKIP    : →
+L0004 SKIP    : Azteca
+L0005 SKIP    : →
+L0006 AREA    : Azteca Main Quest Line Guide
+L0007 SKIP    : November 15, 2012
+L0008 SKIP    : November 3, 2023
+L0009 IGNORED : misthead
+L0010 AREA    : Wizard101 Main Quest Line:
+L0011 SKIP    : Azteca
+L0012 SKIP    : [Looking for a different part of this series? Click here]
+L0013 SKIP    : Questing through the higher worlds can be time consuming. Especially if you’re q
+L0014 IGNORED : I’m only listing the
+L0015 SKIP    : main quest line quests
+L0016 IGNORED : , aka
+L0017 SKIP    : storyline quests
+L0018 IGNORED : ,
+L0019 IGNORED : which means the ones you
+L0020 IGNORED : have
+L0021 IGNORED : to do in order to get to the next area. Side quests are not mentioned. For each
+L0022 IGNORED : world
+L0023 IGNORED : , I list the quests you have to do
+L0024 IGNORED : in a certain area
+L0025 IGNORED : . The areas are listed in the order you should do them in (unless otherwise spec
+L0026 SKIP    : Between brackets
+L0027 IGNORED : are the different parts of the quest, as sometimes a quest will require you to d
+L0028 SKIP    : I have divided the quests in the Spiral into the following groups:
+L0029 SKIP    : Talk:
+L0030 SKIP    : Quests that require an interaction with an NPC.
+L0031 SKIP    : Mob
+L0032 IGNORED : :
+L0033 SKIP    : Quests that require the defeat of regular monsters.
+L0034 SKIP    : D&C
+L0035 IGNORED : :
+L0036 SKIP    : Quests that require the collection of something from certain monsters (Defeat an
+L0037 SKIP    : Boss
+L0038 IGNORED : :
+L0039 SKIP    : Quests that require the defeat of a boss. Elite monsters are not counted as boss
+L0040 SKIP    : Minor Cheat
+L0041 SKIP    : : Quests that require the befeat of a boss that cheats, but whose cheats you can
+L0042 SKIP    : Cheat
+L0043 IGNORED : :
+L0044 SKIP    : Quests the require the defeat of a cheating boss.
+L0045 AREA    : Double boss
+L0046 SKIP    : : Quests that require the defeat of two bosses at once.
+L0047 SKIP    : Instance
+L0048 IGNORED : :
+L0049 SKIP    : Quests that require the completion of a place behind a sigil with at least 2 bat
+L0050 SKIP    : Puzzle:
+L0051 SKIP    : Quests that require the solution to a puzzle.
+L0052 SKIP    : Interact:
+L0053 SKIP    : Quests that require interaction with a certain object.
+L0054 SKIP    : Collect
+L0055 SKIP    : : Quests that require interaction with multiple items of a kind.
+L0056 SKIP    : Explore
+L0057 SKIP    : : Quests that just require you to run towards a certain area, NPC or item.
+L0058 AREA    : Azteca Main Quest Line
+L0059 SKIP    : Azteca
+L0060 SKIP    : has a total of
+L0061 IGNORED : 197 quests
+L0062 IGNORED : . Of those quests,
+L0063 IGNORED : 48
+L0064 IGNORED : contain
+L0065 IGNORED : regular mob fights
+L0066 IGNORED : , and
+L0067 IGNORED : 25
+L0068 AREA    : Defeat and Collect
+L0069 SKIP    : quests. There is a total of
+L0070 IGNORED : 57
+L0071 IGNORED : bosses
+L0072 IGNORED : , with
+L0073 IGNORED : 6
+L0074 IGNORED : of them
+L0075 IGNORED : cheaters
+L0076 IGNORED : . Not counted as cheaters are the ones that only have a mastery of another schoo
+L0077 IGNORED : Azteca is a difficult world to cut into areas. So much running back and forth be
+L0078 AREA    : My
+L0079 IGNORED : favorite quest
+L0080 IGNORED : has to be the one where you have to catch the cute little fish in Pitch Black La
+L0081 AREA    : The Commons + Marleybone
+L0082 IGNORED : 1. First Star I See Tonight (interact + explore +
+L0083 SKIP    : mob
+L0084 IGNORED : + talk)
+L0085 IGNORED : 2. A Little Knowledge (talk + talk)
+L0086 IGNORED : 3. Way of the Dodo (interact + talk)
+L0087 IGNORED : 4. Land Before Time (talk)
+L0088 IGNORED : 5. Life Finds a Way (talk)
+L0089 AREA    : The Zocalo + Three Points
+L0090 IGNORED : 6. Million Years in the Making (talk)
+L0091 IGNORED : 7. The Savage Land (
+L0092 SKIP    : D&C
+L0093 IGNORED : + talk)
+L0094 IGNORED : 8. Walk the Aztecosaur (talk)
+L0095 IGNORED : 9. Toward Shadowed Places (explore + talk)
+L0096 IGNORED : 10. A Stranger in Paradise (talk)
+L0097 IGNORED : 11. Brief Encounters (talk + talk +
+L0098 SKIP    : D&C
+L0099 IGNORED : + talk + collect + talk)
+L0100 AREA    : Cenote
+L0101 IGNORED : 12. Break Stuff (interact + talk)
+L0102 IGNORED : 13. Into the Maw! (
+L0103 SKIP    : mob
+L0104 IGNORED : + talk)
+L0105 IGNORED : 14. The Everbroken Axe (
+L0106 SKIP    : D&C
+L0107 IGNORED : + talk)
+L0108 AREA    : The Zocalo + Three Points
+L0109 IGNORED : 15. Back from the Brink (talk)
+L0110 IGNORED : 16. Here There Be Dinos (talk)
+L0111 IGNORED : 17. Trouble in Paradise (explore)
+L0112 IGNORED : 18. The Black Sun’s Wake (
+L0113 SKIP    : instance
+L0114 IGNORED : :
+L0115 SKIP    : mob
+L0116 IGNORED : +
+L0117 SKIP    : mob
+L0118 IGNORED : + talk +
+L0119 SKIP    : boss
+L0120 IGNORED : + interact)
+L0121 IGNORED : 17. Trouble in Paradise (talk)
+L0122 IGNORED : 19. Tides of Dreads (talk)
+L0123 IGNORED : 20. The Highway (talk + talk)
+L0124 IGNORED : 21. Outsider (interact + interact + talk)
+L0125 AREA    : Cenote
+L0126 IGNORED : 22. King of Fang and Claw (explore + talk)
+L0127 IGNORED : 23. Black Orchid (
+L0128 SKIP    : mob
+L0129 IGNORED : +
+L0130 SKIP    : mob
+L0131 IGNORED : + talk)
+L0132 IGNORED : 24. Healing Light (collect + talk)
+L0133 IGNORED : 25. The Lightless Depths (explore)
+L0134 IGNORED : 26. Cold Dead Hands (
+L0135 SKIP    : instance
+L0136 IGNORED : :
+L0137 SKIP    : mob
+L0138 IGNORED : +
+L0139 SKIP    : mob
+L0140 IGNORED : + explore +
+L0141 SKIP    : boss
+L0142 IGNORED : + interact)
+L0143 IGNORED : 25. The Lightless Depths (talk)
+L0144 IGNORED : 27. Broken Idols (collect + interact +
+L0145 SKIP    : D&C
+L0146 IGNORED : + talk)
+L0147 IGNORED : 28. Living Dead Girl (explore +
+L0148 SKIP    : boss
+L0149 IGNORED : + interact + talk)
+L0150 AREA    : Three Points
+L0151 IGNORED : 29. Day Watch (talk)
+L0152 IGNORED : 30. Center of the Sun (explore)
+L0153 IGNORED : 31. The Clamor and the Chaos (
+L0154 SKIP    : instance
+L0155 IGNORED : :
+L0156 SKIP    : mob
+L0157 IGNORED : +
+L0158 SKIP    : mob
+L0159 IGNORED : + explore +
+L0160 SKIP    : boss
+L0161 IGNORED : + explore)
+L0162 IGNORED : 30. Center of the Sun (talk)
+L0163 IGNORED : 32. Geometry of Shadows (talk + talk)
+L0164 IGNORED : 33. Little Talks (talk)
+L0165 AREA    : Mangrove Marsh
+L0166 SKIP    : 34. The Truth May Vary (talk)
+L0167 IGNORED : 35. Screams All Sound the Same (
+L0168 SKIP    : mob
+L0169 IGNORED : + explore +
+L0170 SKIP    : boss
+L0171 IGNORED : + talk)
+L0172 IGNORED : 36. Don’t Know If I Am Wrong (
+L0173 SKIP    : mob
+L0174 IGNORED : + talk)
+L0175 IGNORED : 37. War, What Is It Good for? (explore +
+L0176 SKIP    : boss
+L0177 IGNORED : + interact + talk)
+L0178 IGNORED : 38. They Say We Must Fight (explore +
+L0179 SKIP    : mob
+L0180 IGNORED : + talk)
+L0181 IGNORED : 39. War Means Tears (talk + talk)
+L0182 IGNORED : 40. Induction Then Destruction (collect +
+L0183 SKIP    : mob
+L0184 IGNORED : + talk)
+L0185 IGNORED : 41. Nothing But a Heartbreaker (talk)
+L0186 IGNORED : 42. Enemy to All Azteca Kind (
+L0187 SKIP    : instance
+L0188 IGNORED : : talk +
+L0189 SKIP    : mob
+L0190 IGNORED : +
+L0191 SKIP    : mob
+L0192 IGNORED : + interact +
+L0193 SKIP    : boss
+L0194 IGNORED : )
+L0195 IGNORED : 41. Nothing But a Heartbreaker (talk)
+L0196 IGNORED : 43. There’s Got to Be a Better Way (talk + talk)
+L0197 IGNORED : 44. Thorn in My Pride (interact +
+L0198 SKIP    : mob
+L0199 IGNORED : + talk)
+L0200 AREA    : Saltmeadow Swamp
+L0201 IGNORED : 45. My Only Hope (explore +
+L0202 SKIP    : mob
+L0203 IGNORED : + interact + talk)
+L0204 IGNORED : 46. Rattle and Horn (explore)
+L0205 IGNORED : 47. Funky Monkey (
+L0206 SKIP    : mob
+L0207 IGNORED : + talk)
+L0208 IGNORED : 48. Monkey Men (collect +
+L0209 SKIP    : mob
+L0210 IGNORED : + talk)
+L0211 IGNORED : 49. Monkey Business (
+L0212 SKIP    : mob
+L0213 IGNORED : + talk)
+L0214 IGNORED : 50. Brass Monkey (
+L0215 SKIP    : mob
+L0216 IGNORED : + talk)
+L0217 IGNORED : 51. Monkey Racket (
+L0218 SKIP    : mob
+L0219 IGNORED : + talk)
+L0220 IGNORED : 52. Monkey Shine (explore +
+L0221 SKIP    : cheat
+L0222 IGNORED : + talk)
+L0223 IGNORED : 53. Monkey Wrench (talk)
+L0224 IGNORED : 54. Art of Song (talk)
+L0225 IGNORED : 55. No Time to Cry (explore +
+L0226 SKIP    : boss
+L0227 IGNORED : + talk)
+L0228 IGNORED : 56. Dino Days Are Over (
+L0229 SKIP    : D&C
+L0230 IGNORED : + talk)
+L0231 IGNORED : 57. Raise It Up (explore + collect + talk)
+L0232 IGNORED : 58. Snake Song (interact + talk)
+L0233 IGNORED : 59. Floodland (
+L0234 SKIP    : D&C
+L0235 IGNORED : + collect + talk)
+L0236 IGNORED : 60. The Damage Done (collect + talk)
+L0237 IGNORED : 61. Vision Things (interact + explore)
+L0238 IGNORED : 62. This Corrosion (
+L0239 SKIP    : instance
+L0240 IGNORED : :
+L0241 SKIP    : mob
+L0242 IGNORED : + talk + interact + talk + explore +
+L0243 SKIP    : boss
+L0244 IGNORED : + interact + explore +
+L0245 SKIP    : boss
+L0246 IGNORED : )
+L0247 IGNORED : 61. Vision Things (talk)
+L0248 AREA    : Cenote/Zocalo/Three Points/Mangrove Marsh/Saltmeadow Swamp
+L0249 IGNORED : 63. Under the Spear (talk)
+L0250 IGNORED : 64. Shadow of the Past (talk)
+L0251 IGNORED : 65. Hungry Like the Lizard (
+L0252 SKIP    : mob
+L0253 IGNORED : + explore +
+L0254 SKIP    : boss
+L0255 IGNORED : + talk)
+L0256 IGNORED : 66. Into the Marsh (interact + explore +
+L0257 SKIP    : boss
+L0258 IGNORED : + interact + talk)
+L0259 IGNORED : 67. King and Stoneheart (talk + interact + talk)
+L0260 IGNORED : 68. Slow and Steady (talk)
+L0261 IGNORED : 69. Carnosaur (talk)
+L0262 IGNORED : 70. Journey to the Cenote of the Earth (
+L0263 SKIP    : mob
+L0264 IGNORED : + explore +
+L0265 SKIP    : boss
+L0266 IGNORED : + collect + talk)
+L0267 IGNORED : 71. Grave Concerns (talk)
+L0268 IGNORED : 72. 13 Death (
+L0269 SKIP    : D&C
+L0270 IGNORED : + explore +
+L0271 SKIP    : boss
+L0272 IGNORED : + interact + talk)
+L0273 IGNORED : 73. The Hour of Dark Dawn (talk)
+L0274 IGNORED : 74. Apocalypto Now (explore +
+L0275 SKIP    : boss
+L0276 IGNORED : + talk)
+L0277 IGNORED : 75. Hollow at the Core (explore + collect + talk + collect + explore +
+L0278 SKIP    : mob
+L0279 IGNORED : + interact + talk)
+L0280 IGNORED : 76. King of the Lost (talk)
+L0281 IGNORED : 77. How Do Dinosaurs Fly? (interact +
+L0282 SKIP    : boss
+L0283 IGNORED : + interact + talk)
+L0284 IGNORED : 78. Flying Boats Need Rudders (talk)
+L0285 IGNORED : 79. Welcome to the Monkey House (
+L0286 SKIP    : D&C
+L0287 IGNORED : + talk)
+L0288 IGNORED : 80. The Monkey and the Serpent (explore +
+L0289 SKIP    : boss
+L0290 IGNORED : + interact + talk)
+L0291 IGNORED : 81. Tail Rudder (interact + talk)
+L0292 IGNORED : 82. Secrets of the Wind (
+L0293 SKIP    : boss
+L0294 IGNORED : +
+L0295 SKIP    : boss
+L0296 IGNORED : +
+L0297 SKIP    : boss
+L0298 IGNORED : + talk)
+L0299 IGNORED : 83. How Do Dinosaurs Build a Raft (explore + interact + talk)
+L0300 IGNORED : 84. Mystics of a Feather (talk)
+L0301 AREA    : Zultun Dock
+L0302 IGNORED : 85. Fine Furry Friend (interact + talk)
+L0303 IGNORED : 86. Sideways (
+L0304 SKIP    : mob
+L0305 IGNORED : + talk)
+L0306 IGNORED : 87. Feel the Pain (explore +
+L0307 SKIP    : boss
+L0308 IGNORED : + talk)
+L0309 IGNORED : 88. Getting Rough (
+L0310 SKIP    : D&C
+L0311 IGNORED : + talk)
+L0312 IGNORED : 89. Start Choppin (explore + talk)
+L0313 IGNORED : 90. Back to Your Heart (talk)
+L0314 IGNORED : 91. Pieces (collect +
+L0315 SKIP    : D&C
+L0316 IGNORED : + talk)
+L0317 IGNORED : 92. Imagination Blind (explore +
+L0318 SKIP    : boss
+L0319 IGNORED : + interact + talk)
+L0320 IGNORED : 93. Lemon Scented (interact + explore +
+L0321 SKIP    : boss
+L0322 IGNORED : + collect + talk)
+L0323 IGNORED : 94. I Live for that Look (talk)
+L0324 IGNORED : 95. Out There (
+L0325 SKIP    : D&C
+L0326 IGNORED : + interact + talk)
+L0327 AREA    : Cloudburst Forest
+L0328 IGNORED : 96. Blue Bird Rockies (
+L0329 SKIP    : mob
+L0330 IGNORED : + talk)
+L0331 IGNORED : 97. Ain’t Goin’ Nowhere (explore +
+L0332 IGNORED : double boss
+L0333 IGNORED : + interact + talk)
+L0334 IGNORED : 98. Don’t Be Long (talk)
+L0335 IGNORED : 99. Wind Driving In My Face (
+L0336 SKIP    : mob
+L0337 IGNORED : +
+L0338 SKIP    : boss
+L0339 IGNORED : + interact + talk)
+L0340 IGNORED : 100. The Smell of Prickly Pear (
+L0341 SKIP    : mob
+L0342 IGNORED : +
+L0343 SKIP    : boss
+L0344 IGNORED : + interact + talk)
+L0345 IGNORED : 101. Touch the Sky (interact + talk)
+L0346 AREA    : Alto Alto
+L0347 IGNORED : 102. Last Known Surroundings (
+L0348 SKIP    : mob
+L0349 IGNORED : + talk)
+L0350 IGNORED : 103. Look into the Air (collect + talk)
+L0351 IGNORED : 104. Give Me a Sign (talk)
+L0352 IGNORED : 105. Keep Us Together (collect + talk)
+L0353 IGNORED : 106. Need for Seed (
+L0354 SKIP    : D&C
+L0355 IGNORED : + talk)
+L0356 IGNORED : 107. Cloud Sign (talk)
+L0357 IGNORED : 108. Painting Clouds (talk)
+L0358 IGNORED : 109. Idlewild Blue (
+L0359 SKIP    : D&C
+L0360 IGNORED : + interact + talk)
+L0361 IGNORED : 110. Bookpeople (explore +
+L0362 SKIP    : boss
+L0363 IGNORED : + talk + talk)
+L0364 IGNORED : 111. Paint the Past (talk + talk)
+L0365 IGNORED : 112. Red Paint (collect + explore +
+L0366 SKIP    : boss
+L0367 IGNORED : + talk)
+L0368 IGNORED : 113. Brush with the Blues (
+L0369 SKIP    : D&C
+L0370 IGNORED : + talk)
+L0371 IGNORED : 114. Painting the Invisible (interact + talk)
+L0372 IGNORED : 115. Shadow of the Day (explore +
+L0373 SKIP    : boss
+L0374 IGNORED : + talk + talk)
+L0375 AREA    : Cloudburst Forest
+L0376 IGNORED : 116. Chasing the Sun (talk)
+L0377 IGNORED : 117. Broken Sun (
+L0378 SKIP    : D&C
+L0379 IGNORED : + talk)
+L0380 IGNORED : 118. Yellow of Sun (explore + talk)
+L0381 IGNORED : 119. The World Drags Me Down (
+L0382 SKIP    : D&C
+L0383 IGNORED : + talk)
+L0384 IGNORED : 120. Element of Boldness (
+L0385 SKIP    : D&C
+L0386 IGNORED : + collect + interact + talk)
+L0387 IGNORED : 121. Universal Language (
+L0388 SKIP    : mob
+L0389 IGNORED : + talk)
+L0390 IGNORED : 122. Attractive Force (
+L0391 SKIP    : D&C
+L0392 IGNORED : + collect + talk)
+L0393 IGNORED : 123. With Teeth (talk)
+L0394 IGNORED : 124. The Hand that Feeds (
+L0395 SKIP    : D&C
+L0396 IGNORED : + talk)
+L0397 IGNORED : 125. Underneath It All (talk)
+L0398 IGNORED : 126. Wilting Flowers (explore +
+L0399 SKIP    : boss
+L0400 IGNORED : + interact + talk)
+L0401 IGNORED : 127. Head Down (interact + talk)
+L0402 AREA    : Tierra de Brea
+L0403 IGNORED : 128. Lost Key (
+L0404 SKIP    : mob
+L0405 IGNORED : + talk)
+L0406 IGNORED : 129. Tarnished Gold (explore +
+L0407 SKIP    : boss
+L0408 IGNORED : + interact + talk)
+L0409 IGNORED : 130. Children’s Lament (
+L0410 SKIP    : mob
+L0411 IGNORED : + talk + talk)
+L0412 IGNORED : 131. Dead Man’s Will (
+L0413 SKIP    : mob
+L0414 IGNORED : + explore +
+L0415 SKIP    : boss
+L0416 IGNORED : + interact + talk)
+L0417 IGNORED : 132. Reforging the Bond (talk + talk)
+L0418 IGNORED : 133. Major Key (interact + talk)
+L0419 IGNORED : 134. Sign of Cipactli (collect + talk)
+L0420 IGNORED : 135. Lying in Bait (collect + talk)
+L0421 IGNORED : 136. Sign of Hunger (explore + talk)
+L0422 IGNORED : 137. Proper Challenge (talk)
+L0423 IGNORED : 138. Showing Teeth (collect + talk)
+L0424 IGNORED : 139. Safe Guard (talk)
+L0425 IGNORED : 140. Properly Petrified (talk)
+L0426 IGNORED : 141. Old Wounds (interact +
+L0427 SKIP    : D&C
+L0428 IGNORED : + talk + talk)
+L0429 IGNORED : 142. Fan Service (talk + talk)
+L0430 IGNORED : 143. Snake Bite (
+L0431 SKIP    : D&C
+L0432 IGNORED : + talk)
+L0433 IGNORED : 144. The Jaws of Defeat (explore +
+L0434 SKIP    : cheat
+L0435 IGNORED : + interact + talk)
+L0436 IGNORED : 145. Black Hole Moon (
+L0437 SKIP    : mob
+L0438 IGNORED : + explore + interact + talk)
+L0439 IGNORED : 146. In My Eyes (explore + talk)
+L0440 AREA    : Pitch Black Lake
+L0441 IGNORED : 147. Straight and Narrow Track (
+L0442 SKIP    : D&C
+L0443 IGNORED : + talk)
+L0444 IGNORED : 148. Six Days at the Bottom (explore +
+L0445 SKIP    : boss
+L0446 IGNORED : + interact + talk)
+L0447 IGNORED : 149. When the Thunder Rolls (interact +
+L0448 SKIP    : mob
+L0449 IGNORED : + talk)
+L0450 IGNORED : 150. Don’t Have to Worry (explore + talk)
+L0451 IGNORED : 151. Walk Through the Garden (
+L0452 SKIP    : D&C
+L0453 IGNORED : + interact + talk)
+L0454 IGNORED : 152. Pretty Teeth Dear (talk +
+L0455 SKIP    : boss
+L0456 IGNORED : + talk)
+L0457 IGNORED : 153. Scarlet Billows (collect + talk)
+L0458 IGNORED : 154. A Fish Called Vonda (collect + explore + talk)
+L0459 IGNORED : 155. Schooling Fish (
+L0460 SKIP    : mob
+L0461 IGNORED : 3x +
+L0462 SKIP    : boss
+L0463 IGNORED : + talk)
+L0464 IGNORED : 156. Friend Not Food (collect + talk)
+L0465 IGNORED : 157. Go With the Flow (interact + explore +
+L0466 SKIP    : boss
+L0467 IGNORED : + talk)
+L0468 IGNORED : 158. Hum a Few Bars (interact)
+L0469 IGNORED : 159. The Moon is Down (
+L0470 SKIP    : instance
+L0471 IGNORED : :
+L0472 SKIP    : mob
+L0473 IGNORED : +
+L0474 SKIP    : mob
+L0475 IGNORED : + explore +
+L0476 IGNORED : double
+L0477 SKIP    : boss
+L0478 IGNORED : )
+L0479 IGNORED : 158. Hum a Few Bars (talk)
+L0480 AREA    : Cloudburst Forest
+L0481 IGNORED : 160. Let the Only Sound Be the Overflow (talk)
+L0482 IGNORED : 161. World’s a Beast of Burden (talk)
+L0483 IGNORED : 162. Smart Food (
+L0484 SKIP    : D&C
+L0485 IGNORED : + talk)
+L0486 IGNORED : 163. Land that Time Forgot (talk)
+L0487 AREA    : Alto Alto
+L0488 IGNORED : 164. Wasn’t Born to Follow (talk)
+L0489 IGNORED : 165. Catastrophe and the Cure (
+L0490 SKIP    : D&C
+L0491 IGNORED : + talk)
+L0492 IGNORED : 166. Chimes of Freedom (interact + talk)
+L0493 IGNORED : 167. Hickory Wind (talk)
+L0494 IGNORED : 168. Your Hand in Mine (interact + talk)
+L0495 AREA    : Floating Mountains
+L0496 IGNORED : 169. Lost Land of the Jaguars (
+L0497 SKIP    : boss
+L0498 IGNORED : + interact + talk + interact + talk)
+L0499 IGNORED : 170. Place of the Cactus Stone (interact + explore + talk)
+L0500 IGNORED : 171. The Fire and the Fury (explore +
+L0501 SKIP    : boss
+L0502 IGNORED : + interact + talk + talk)
+L0503 IGNORED : 172. The Wrong Hands (explore +
+L0504 SKIP    : boss
+L0505 IGNORED : + talk)
+L0506 IGNORED : 173. Sky Walker (interact + interact +
+L0507 SKIP    : mob
+L0508 IGNORED : + explore +
+L0509 SKIP    : boss
+L0510 IGNORED : + talk)
+L0511 IGNORED : 174. The Sun is Down (talk + explore +
+L0512 SKIP    : boss
+L0513 IGNORED : + talk)
+L0514 IGNORED : 175. Wait Wait Don’t Tell Me (explore + talk)
+L0515 IGNORED : 176. Snow and Lights (explore +
+L0516 SKIP    : cheat
+L0517 IGNORED : + talk)
+L0518 IGNORED : 177. Eagle of Fire (interact + talk)
+L0519 AREA    : Twin Giants
+L0520 IGNORED : 178. The Walking Dead (
+L0521 SKIP    : mob
+L0522 IGNORED : + talk)
+L0523 IGNORED : 179. Glittering Blackness (
+L0524 SKIP    : boss
+L0525 IGNORED : + talk)
+L0526 IGNORED : 180. Behind Closed Doors (explore + talk)
+L0527 IGNORED : 181. Explosions in the Sky (interact +
+L0528 SKIP    : mob
+L0529 IGNORED : + talk)
+L0530 IGNORED : 182. Strong Smooth Words (collect + explore + interact +
+L0531 IGNORED : double boss
+L0532 IGNORED : + talk)
+L0533 IGNORED : 183. The Sun Will Light the Way (explore +
+L0534 SKIP    : boss
+L0535 IGNORED : + interact + talk)
+L0536 IGNORED : 184. Have You Seen Her Face (interact + talk +
+L0537 SKIP    : D&C
+L0538 IGNORED : +
+L0539 SKIP    : boss
+L0540 IGNORED : + talk)
+L0541 IGNORED : 185. One Voice Above the Din (explore +
+L0542 SKIP    : cheat
+L0543 IGNORED : + interact + talk)
+L0544 SKIP    : 186. The Long March (
+L0545 SKIP    : mob
+L0546 IGNORED : + talk)
+L0547 IGNORED : 187.
+L0548 AREA    : Not a Cold Dead Place (explore)
+L0549 IGNORED : 188. Birth and Death of the Day (
+L0550 SKIP    : instance
+L0551 IGNORED : :
+L0552 SKIP    : mob
+L0553 IGNORED : + explore +
+L0554 SKIP    : mob
+L0555 IGNORED : + explore +
+L0556 SKIP    : boss
+L0557 IGNORED : )
+L0558 IGNORED : 187.
+L0559 AREA    : Not a Cold Dead Place (talk)
+L0560 IGNORED : 189. Remember Me As a Time of Day (talk)
+L0561 IGNORED : 190. Sky Above, Fields Below (talk)
+L0562 IGNORED : 191. Jaguar Pounces on a Wizard (
+L0563 SKIP    : boss
+L0564 IGNORED : + talk)
+L0565 IGNORED : 192. It’s the End of the World As We Know It (explore + talk)
+L0566 IGNORED : 193. The Lost World (talk)
+L0567 IGNORED : 194. Song of the Swamp (interact + explore +
+L0568 SKIP    : boss
+L0569 IGNORED : + interact + talk)
+L0570 IGNORED : 195. Tall Enough to Meet the Sun (interact + explore)
+L0571 IGNORED : 196. This Is the Way the World Ends (
+L0572 SKIP    : instance
+L0573 IGNORED : :
+L0574 SKIP    : boss
+L0575 IGNORED : + interact 3x + explore +
+L0576 SKIP    : cheat
+L0577 IGNORED : + interact 3x +
+L0578 SKIP    : boss
+L0579 IGNORED : + interact 3x + explore +
+L0580 SKIP    : cheat
+L0581 IGNORED : )
+L0582 IGNORED : 195. Tall Enough to Meet the Sun (talk)
+L0583 IGNORED : 197. Speaker for the Dead (talk + talk)
+L0584 SKIP    : Finished the Azteca main quest line? Take a look below at what comes next!
+L0585 SKIP    : All Wizard101 Main Quest Line Guides
+L0586 SKIP    : Wizard City
+L0587 SKIP    : Krokotopia
+L0588 SKIP    : Marleybone
+L0589 SKIP    : Mooshu
+L0590 SKIP    : Dragonspyre
+L0591 SKIP    : Celestia
+L0592 SKIP    : Zafaria
+L0593 SKIP    : Avalon
+L0594 SKIP    : Azteca
+L0595 SKIP    : Khrysalis
+L0596 SKIP    : Polaris
+L0597 SKIP    : Mirage
+L0598 SKIP    : Empyrea
+L0599 SKIP    : Karamelle
+L0600 SKIP    : Lemuria
+L0601 SKIP    : Novus
+L0602 SKIP    : Wallaru
+L0603 SKIP    : Grizzleheim
+L0604 SKIP    : Wysteria
+L0605 SKIP    : Catacombs
+L0606 SKIP    : Happy Questing!
+L0607 SKIP    : Share your vote!
+L0608 SKIP    : No, thanks.
+L0609 SKIP    : Do you like this post?
+L0610 SKIP    : Fascinated
+L0611 AREA    : Happy
+L0612 AREA    : Sad
+L0613 AREA    : Angry
+L0614 SKIP    : Bored
+L0615 SKIP    : Afraid
+L0616 SKIP    : About the author
+L0617 SKIP    : Latest posts
+L0618 IGNORED : misthead
+L0619 IGNORED : While misthead has written all kinds of guides, the most popular by far are her 
+L0620 AREA    : Wizard101 Spider Pets Guide
+L0621 IGNORED : 2019-05-08 20:51:03
+L0622 AREA    : W101 Floor Tiles Organized By Color
+L0623 IGNORED : 2019-02-24 11:00:49
+L0624 AREA    : Level 48 School Pets and Hybrids
+L0625 IGNORED : 2019-02-14 20:20:44
+L0626 AREA    : Wizard101 Piggle Pets Guide
+L0627 IGNORED : 2019-02-08 15:14:27
+L0628 AREA    : W101 Wallpapers Organized by Color
+L0629 IGNORED : 2019-01-31 07:32:53
+L0630 IGNORED : 47 COMMENTS
+L0631 AREA    : David Raven Dust
+L0632 SKIP    : May 28, 2025
+L0633 AREA    : Reply
+L0634 IGNORED : Quest no. 31 The Clamor and the Chaos the boss is actually a cheating boss (Bell
+L0635 AREA    : Wolf
+L0636 SKIP    : September 6, 2025
+L0637 AREA    : Reply
+L0638 IGNORED : No he is not. Yes its that boss but he does not cheat that battle.
+L0639 AREA    : Jake
+L0640 SKIP    : April 6, 2025
+L0641 AREA    : Reply
+L0642 IGNORED : The Quest “Thorn In My Pride” does not have any mob battle. It should be Interac
+L0643 AREA    : AJ
+L0644 SKIP    : June 30, 2024
+L0645 AREA    : Reply
+L0646 IGNORED : would love to see the bosses school in these lists!
+L0647 AREA    : Glamorous Gem
+L0648 SKIP    : August 11, 2022
+L0649 AREA    : Reply
+L0650 IGNORED : In 159. The Moon Is Down, the bosses spawn separately, not at the same time. You
+L0651 AREA    : Glamorous Gem
+L0652 SKIP    : August 11, 2022
+L0653 AREA    : Reply
+L0654 IGNORED : In 159. The Moon Is Down, the bosses spawn separately, not at the same time. You
+L0655 IGNORED : nick
+L0656 SKIP    : August 9, 2022
+L0657 AREA    : Reply
+L0658 IGNORED : The Monkey and the Serpent quest has a mob fight before the boss, instead of exp
+L0659 IGNORED : stormbreaker
+L0660 SKIP    : August 10, 2022
+L0661 AREA    : Reply
+L0662 IGNORED : The Tomb of the Sacred Spring has only the boss and its minion inside, there is 
+L0663 AREA    : Saffron Lightbloom
+L0664 SKIP    : May 9, 2022
+L0665 AREA    : Reply
+L0666 IGNORED : I actually love/hate this world. It’s one of the prettiest and has really nice b
+L0667 AREA    : Ez
+L0668 SKIP    : February 20, 2022
+L0669 AREA    : Reply
+L0670 IGNORED : If this helps anyone out you can press CTRL + G and search for you quests name 🙂
+L0671 IGNORED : dgvert
+L0672 SKIP    : March 29, 2022
+L0673 AREA    : Reply
+L0674 IGNORED : CTRL+F is the correct command for page search; G causes the windows sound to fla
+L0675 AREA    : Human McRealperson
+L0676 SKIP    : July 1, 2022
+L0677 AREA    : Reply
+L0678 IGNORED : Actually, on Chrome, CTRL+G also works the same as CTRL+F
+L0679 AREA    : Callum Ferguson
+L0680 SKIP    : June 6, 2023
+L0681 AREA    : Reply
+L0682 IGNORED : or you can do CTRL + F
+L0683 AREA    : Callum Ferguson
+L0684 SKIP    : June 6, 2023
+L0685 AREA    : Reply
+L0686 IGNORED : i did not see dgvert’s comment lol
+L0687 AREA    : Keegoo
+L0688 SKIP    : September 4, 2021
+L0689 AREA    : Reply
+L0690 IGNORED : Wouldn’t quest 26 include a puzzle?
+L0691 AREA    : Keegoo
+L0692 SKIP    : September 7, 2021
+L0693 AREA    : Reply
+L0694 IGNORED : 70 is also boss + explore + boss, not mob + explore + boss
+L0695 AREA    : Keegoo
+L0696 SKIP    : September 7, 2021
+L0697 AREA    : Reply
+L0698 IGNORED : ignore this, its like 4 am for me and I realized I was wrong.
+L0699 IGNORED : echooooo
+L0700 SKIP    : August 24, 2021
+L0701 AREA    : Reply
+L0702 IGNORED : I just spent a week breezing through the world, and I personally LOVED Azteca. I
+L0703 IGNORED : As someone who goes through the game for the story, I thought it was fairly comp
+L0704 AREA    : Overall it’s actually my favorite so far!
+L0705 AREA    : Cody RavenTamer
+L0706 SKIP    : August 24, 2021
+L0707 AREA    : Reply
+L0708 AREA    : In my opinion, it keeps getting better and better from here <3
+L0709 AREA    : Jack PingYT
+L0710 SKIP    : March 2, 2021
+L0711 AREA    : Reply
+L0712 IGNORED : dang why do y’all hate this world so much
+L0713 AREA    : Aurockson
+L0714 SKIP    : April 17, 2021
+L0715 AREA    : Reply
+L0716 IGNORED : Its needlessly long and repetitive while your character gains only slightly more
+L0717 AREA    : JackPingYT
+L0718 SKIP    : April 20, 2021
+L0719 AREA    : Reply
+L0720 AREA    : I see why now
+L0721 AREA    : Soraya
+L0722 SKIP    : January 25, 2021
+L0723 AREA    : Reply
+L0724 AREA    : Oh my god
+L0725 AREA    : DWCombatWarrior
+L0726 SKIP    : September 2, 2020
+L0727 AREA    : Reply
+L0728 AREA    : On 41 Nothing but a Heart Breaker, there is a boss fight.
+L0729 AREA    : Camille Smith
+L0730 SKIP    : August 4, 2020
+L0731 AREA    : Reply
+L0732 IGNORED : 174 is actually in salt meadow swamp not in floating mountains, thanks for the g
+L0733 IGNORED : roadwalker
+L0734 SKIP    : July 31, 2020
+L0735 AREA    : Reply
+L0736 IGNORED : worst world to go through in this game
+L0737 IGNORED : thehouse01
+L0738 SKIP    : August 11, 2020
+L0739 AREA    : Reply
+L0740 IGNORED : bruh 10/10 agree this is taking bricksssss
+L0741 AREA    : TheFlameBringer
+L0742 SKIP    : May 18, 2020
+L0743 AREA    : Reply
+L0744 IGNORED : i hate this world. avalon and celestia were so much more fun than this.
+L0745 IGNORED : jupiter ttr
+L0746 SKIP    : June 5, 2020
+L0747 AREA    : Reply
+L0748 IGNORED : good taste
+L0749 AREA    : S
+L0750 SKIP    : October 15, 2020
+L0751 AREA    : Reply
+L0752 IGNORED : zafaria was my favorite
+L0753 IGNORED : vdadpoggers
+L0754 SKIP    : December 10, 2021
+L0755 AREA    : Reply
+L0756 IGNORED : celestia is the worst place ever you have only one mention of morganths bro
+L0757 AREA    : Callum Ferguson
+L0758 SKIP    : June 6, 2023
+L0759 AREA    : Reply
+L0760 IGNORED : i personally disagree, i think that celestia was horrible, and although avalon w
+L0761 AREA    : Callum Ferguson
+L0762 SKIP    : December 30, 2023
+L0763 AREA    : Reply
+L0764 IGNORED : I personally disliked Celestia. I felt that is was really slow, although on the 
+L0765 IGNORED : sahnash123
+L0766 SKIP    : October 13, 2019
+L0767 AREA    : Reply
+L0768 IGNORED : ya i found that i was so confused lol.
+L0769 IGNORED : anthony
+L0770 SKIP    : July 25, 2019
+L0771 AREA    : Reply
+L0772 IGNORED : castastrophe and the cure is a defeat and collect quest
+L0773 AREA    : Cody RavenTamer
+L0774 SKIP    : July 26, 2019
+L0775 AREA    : Reply
+L0776 AREA    : Edited! Many thanks, Anthony 🙂
+L0777 AREA    : Tony
+L0778 SKIP    : June 23, 2019
+L0779 AREA    : Reply
+L0780 IGNORED : The instance “Enemy to all Azteca Kind” has two mobs at the start not only one.
+L0781 IGNORED : logan
+L0782 SKIP    : May 3, 2020
+L0783 AREA    : Reply
+L0784 IGNORED : i hate this world so much xD
+L0785 AREA    : Marcus Wildcrafter
+L0786 SKIP    : April 29, 2019
+L0787 AREA    : Reply
+L0788 IGNORED : During strong smooth words I had too fight the bosses 2 times so if you wanna ch
+L0789 IGNORED : tist
+L0790 SKIP    : June 2, 2019
+L0791 AREA    : Reply
+L0792 IGNORED : Happened to me, too. You have to open the cage first. Otherwise the boss respawn
+L0793 AREA    : Gorman
+L0794 SKIP    : December 22, 2018
+L0795 AREA    : Reply
+L0796 IGNORED : 188, “Not a Cold Dead Place” should be a sigil quest as follows: mob; explore; m
+L0797 AREA    : Tony
+L0798 SKIP    : December 9, 2018
+L0799 AREA    : Reply
+L0800 IGNORED : by the way, #62 is an instance quest, I was just letting you know
+L0801 IGNORED : misthead
+L0802 SKIP    : December 9, 2018
+L0803 AREA    : Reply
+L0804 AREA    : Thank you! Added that.
+L0805 IGNORED : zack
+L0806 SKIP    : November 25, 2018
+L0807 AREA    : Reply
+L0808 IGNORED : this is really helpful also gives me motivation to finish the area
+L0809 IGNORED : before i stop playing
+L0810 AREA    : Shelbz
+L0811 SKIP    : October 24, 2018
+L0812 AREA    : Reply
+L0813 AREA    : I found it lol
+L0814 IGNORED : shelbz
+L0815 SKIP    : October 24, 2018
+L0816 AREA    : Reply
+L0817 IGNORED : I’ve searched this page many times but cannot find the quest “The Smell of Prick
+L0818 AREA    : Chris L
+L0819 SKIP    : June 1, 2023
+L0820 AREA    : Reply
+L0821 AREA    : It’s #100, during your first visit to the Cloudburst Forest 👍
+L0822 SKIP    : Leave a Reply
+L0823 SKIP    : Cancel reply
+L0824 AREA    : Your email address will not be published.
+L0825 SKIP    : Required fields are marked
+L0826 IGNORED : *
+L0827 AREA    : Comment
+L0828 IGNORED : *
+L0829 AREA    : Name
+L0830 IGNORED : *
+L0831 AREA    : Email
+L0832 IGNORED : *
+L0833 AREA    : Website
+L0834 AREA    : Current ye@r
+L0835 IGNORED : *
+L0836 AREA    : Leave this field empty
+L0837 SKIP    : Previous Post
+L0838 AREA    : Azteca Rank 10 Spells Overview
+L0839 SKIP    : Next Post
+L0840 AREA    : Mastery Amulets in Midlevel PvP
+
+SUMMARY: 0 quests in 0 areas
+Stats: {'total_quests': 197, 'mob_fights': None, 'dc_quests': 25, 'boss_fights': 57, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}

@@ -1,0 +1,102 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 12,210
+| crecla = Demon
+| school = Balance
+| school2 = Death
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Death;
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+47%;
+
+| incboost =
+Myth, Life, Death;
+
+| incresist =
+Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Jade Oni Rematch
+| descrip =
+Plague Oni (Standard) is considered a Minion to {{Link|Creature|Jade Oni (Standard)}}.  All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Balanceblade;
+Spirit Blade;
+Mass Hex;
+Scarab (Tier 4b);
+Savage Paw (Tier 4a);
+Sandstorm;
+Obsidian Colossus (Tier 4a);
+Power Nova;
+Kiiii-Yaaaa! (Tier 4a);
+Banshee (Tier 4b);
+Vampire (Tier 4b);
+Wraith (Tier 4b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Plague Oni (Rematch)
+
+}}

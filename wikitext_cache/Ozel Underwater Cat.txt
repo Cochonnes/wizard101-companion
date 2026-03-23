@@ -1,0 +1,230 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 15,320
+| crecla = Jaguar
+| crecla2 = Undead
+| school = Life
+| masteries =
+Fire;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Tempest Eel;
+
+| world = Azteca
+| location = Pitch Black Lake
+| subloc1 = Ozel Underwater Cat's Tomb
+| descrip =
+
+| speech =
+:''"Aztecosaur! I'll feast upon your heart, even as my last embers slowly fade away!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Has developed a taste for char-broiled Aztecosaur.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Vengeance;
+Amplify (+25%);
+Guiding Light;
+Regenerate;
+Rebirth;
+Lifeblade;
+Luminous Weaver;
+Natural Attack (Life 160-320-480);
+Centaur (610-670);
+Forest Lord (715-775);
+Spinysaur;
+Fire Beetle;
+Efreet;
+
+| quests =
+Go With the Flow;
+ 
+| gold =
+70 - 154;
+
+| hats =
+Dawn Hour Mantle*F2;
+Elite Jura Guard Helm*F2*WMV;
+Five Fangs of Fury Headdress;
+Indigo Wing Crown*F2;
+Thirteen Death Mask*F2;
+Tree of Secrets Chac Mask*F2*WMV;
+Twisted Fang Mask*F2;
+
+| robes =
+
+| boots =
+Fiery Chac's Great Boots;
+Storm Owl's Favored Trackers;
+
+| athames =
+Bleeding Sun Dagger; 
+Burning Water Talon;
+Fang of the Night Sky;
+Tears of Mother Moon Blade;
+
+| amulets =
+Charm of the Gold Aztecosaur*F2*WMV;
+House of Plague Greenstone*F2*WMV;
+Rising Sun Head Relic;
+Shining Cold House Amulet;
+Smoking Fang Talisman*F2*WMV;
+Stone of the Green Skycarrier;
+
+| rings =
+Acampi Reedfist's Lost Seal*F2;
+Bleeding Sun Warrior's Loop*F4*WMV;
+Chac's Challenge Loop;
+Falling Star's End Time Band*F3;
+Mother Moon's Count Ring*F2;
+Storm Quetzal's Signet;
+Twin Giants Fashioned Stone;
+Twisting Season Ring;
+
+| wands =
+Eclipse Spear of Azteca;
+Lance of Night Fire*F2;
+Tears of Night Lance;
+Winter Lord's Obsidian Shard*F2*WMV;
+
+| decks =
+Codex of the Lost Fire*F2;
+Deck of the Jaguar Spirit*F3*WMV;
+Storm Sun Gallery;
+Winter's Pyramid Deck*F3*WMV;
+
+| items =
+Azteca Apocalypse Theme;
+Hollow Log;
+Star Clothesline;
+Starburst Frond*F2;
+
+| cards =
+Colossal*F3;
+Fortify;
+Gnomes!;
+Medusa;
+Mend;
+Potent Trap;
+Primordial*F4*WMV;
+Rain of Fire;
+Savage Paw*F4*WMV;
+Sharpened Blade;
+Skeletal Dragon;
+Vengeance;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F3*WMV;
+Black Pearl*F2*WMV;
+Blood Moss*F3*WMV;
+Bone;
+Bronze;
+Bronze Gear*F3*WMV;
+Deep Mushroom*F3*WMV;
+Fire Blossom*F6*WMV;
+Fossil;
+Golden Pearl*F2*WMV;
+Lava Lily*F2*WMV;
+Mist Wood*F3*WMV;
+Mithril;
+Nightshade*F4*WMV;
+Ore*F2*WMV;
+Red Mandrake*F4*WMV;
+Silver;
+Steel;
+Stone Block*F2;
+Sunstone*F2;
+Titanium;
+Tungsten*F2*WMV;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Apatotatoes*F2;
+Aztecan Hot Chocolate;
+Caramel Apple*F2*WMV;
+Chili Peppers*F2*WMV;
+Dr. Jalapeno*F2;
+Flapjacks;
+Fried Ice Cream;
+Glowing Star Fruit*F3*WMV;
+Guava;
+Gummy Wyrms;
+Jelly Baby;
+Maize;
+Papaya;
+Pterotomatoes;
+Quetzal Pretzel;
+Rex Tea;
+Shiny Tomato;
+Tamales;
+Zocalo Wings*F2;
+
+| jewels =
+Aura Crush Citrine;
+Balanceblade Talent Citrine;
+Black Widow Onyx;
+Clear Defense Hematite +39;
+Clear Defense Jade +40;
+Polished Critical Ruby +11;
+Polished Health Opal +89;
+Shh! Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Fiery Boom Shroom;
+Fish on a Vine;
+Red Huckleberries;
+
+| mounts =
+
+| spells =
+
+}}

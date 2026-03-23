@@ -1,0 +1,420 @@
+{{Stub|which version of the '''Mutate''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 9,920
+| crecla = Beastman
+| school = Life
+| startpips = 3
+| shadowslots = 2
+| powerpips = Yes
+| critical =
+125 Any;
+
+| criticalblock =
+106 Any;
+
+| outpierce =
+10%;
+
+| outboost =
+50%;
+
+| incboost =
+15% Death;
+
+| incresist =
+30% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minion = Burny Bug
+| minion2 = 
+| petbreed = Life Wartle
+| world = Empyrea
+| location = Aeriel Jungle
+| subloc1 = Crusher's Lair
+| descrip =
+
+| speech =
+:''"Go away, puny human! Crusher crush you!"''
+
+| spellnotes =
+Legend Shield can be cast as an interrupt by her Pet, Life Wartle, randomly.
+
+| casts =
+Dark Shepherd;
+Legend Shield;
+Guidance;
+Lifeblade;
+Lifeblade*TC;
+Namaste;
+Life Scarab;
+Giant Spider;
+Natural Attack (Life 108-200-295);
+Goat Monk;
+Life Banshee (250);
+Forest Lord;
+Spinysaur;
+
+| quests =
+Crusher? We Barely Know Her!;
+
+| gold =
+282 - 809;
+
+| hats =
+Cabal Hood of Disruption*F3*WMV;
+Cabalist Cleansing Hood*F3;
+Cabalist Hood of Finality;
+Cabalist Hood of the First*F2;
+Cabalist Hood of Vengeance;
+Interstellar Engineer Helm;
+Interstellar Explorer's Helm;
+Interstellar Hero's Helm;
+Interstellar Warrior Helm;
+Medic's Interstellar Helm;
+Nostalgic Cabal Hood;
+
+| robes =
+Interstellar Explorer's Uniform;
+Interstellar Hero's Uniform;
+Interstellar Navigator Suit;
+Interstellar Officer's Uniform;
+Interstellar Warrior Uniform*F2*WMV;
+
+| boots =
+Cabal Schism Stompers;
+Cabal Stompers of Disruption;
+Cabalist Stompers of Finality;
+Cabalist Stompers of the First;
+Cabalist Stomps of Vengeance;
+Interstellar Hero's Trekkers;
+Interstellar Officer's Boots;
+Nostalgic Cabal Stompers;
+
+| athames =
+Interstellar Hero's Knife;
+Interstellar Officer's Knife;
+Interstellar Warrior's Knife;
+
+| amulets =
+Cabalist Amulet of Vengeance;
+Interstellar Delegate's Charm;
+Interstellar Explorer's Charm;
+Interstellar Hero's Charm;
+Interstellar Navigator's Charm;
+Interstellar Officer's Charm;
+Interstellar Warrior's Charm;
+Nostalgic Cabal Amulet;
+
+| rings =
+Interstellar Delegate's Band*F4*WMV;
+Interstellar Engineer's Band*F3*WMV;
+Interstellar Explorer's Band*F2;
+Interstellar Hero's Band;
+Interstellar Medic's Band*F3;
+Interstellar Navigator's Band*F4*WMV;
+Interstellar Officer's Band*F5*WMV;
+Interstellar Warrior's Band*F2;
+
+| wands =
+Engineer's Hexacorder;
+Explorer's Hexacorder*F2*WMV;
+Navigator's Hexacorder;
+Officer's Hexacorder;
+
+| decks =
+Interstellar Engineer's Deck;
+Interstellar Hero's Deck;
+Interstellar Navigator's Deck;
+
+| items =
+Dwarven Book Case*F5*WMV;
+Dwarven Dinner Table*F3;
+Dwarven File;
+Dwarven Side Table*F5*WMV;
+Empyrea Aeriel Theme*F3*WMV;
+Empyrea Athanor Combat Theme*F2*WMV;
+Empyrea Brain Theme 1;
+Empyrea Brain Theme 2;
+Empyrea Dance Hall Theme*F2;
+Empyrea Finale Combat Theme*F2;
+Empyrea Flotsam Combat Theme*F4*WMV;
+Empyrea Inner Athanor Theme;
+Empyrea Jungle Theme*F3*WMV;
+Empyrea Khan Theme*F9*WMV;
+Empyrea Lava Lock Theme*F4;
+Empyrea Leisure Dome Theme*F2;
+Empyrea Outer Athanor Theme*F4*WMV;
+Empyrea Sepidious Combat Theme;
+Empyrea Sepidious Theme;
+Empyrea Zanadu Combat Theme;
+Empyrea Zanadu Theme*F4*WMV;
+Fire Dwarf Bed*F2;
+Fire Dwarf Chair;
+Ice Dwarf Bed*F4*WMV;
+Ice Dwarf Chair*F2;
+Pirate Party Barge Theme*F7*WMV;
+
+| cards =
+Balefrost;
+Berserk*F4*WMV;
+Brilliant Light;
+Combustion*F2*WMV;
+Darkwind;
+Doom and Gloom;
+Dream Shield;
+Ether Shield*F5*WMV;
+Frostbite*F3*WMV;
+Galvanic Field*F5*WMV;
+Link*F3;
+Mass Life Prism;
+Mass Myth Prism;
+Mass Storm Prism;
+Mass Triage;
+Mutate Banshee (Life)*F2*WMV;
+Mutate Bats;
+Mutate Cat (Ice);
+Mutate Colossus (Storm)*F2;
+Mutate Helephant (Ice);
+Mutate Hound (Ice);
+Mutate Kraken (Ice);
+Mutate Minotaur (Sun)*F2;
+Mutate Phoenix (Storm);
+Mutate Serpent (Fire);
+Mutate Snowman (Storm);
+Power Play;
+Sanctuary;
+Sirens*F4*WMV;
+Storm Shield*F2*WMV;
+
+| reagents =
+Ancient Scroll*F12*WMV;
+Antique Coins*F13*WMV;
+Black Pearl*F18*WMV;
+Blood Moss*F12*WMV;
+Brass*F14*WMV;
+Bronze Gear*F19*WMV;
+Cobalt*F9*WMV;
+Ectoplasm*F12*WMV;
+Flying Squid Ink*F26*WMV;
+Nickel*F13*WMV;
+Scales*F14*WMV;
+Spider Silk*F7*WMV;
+Spring*F11*WMV;
+Tin*F15*WMV;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate*F3*WMV;
+BBQ Drumstick;
+Beast Wellington*F5*WMV;
+Decimatoes;
+Discord Grape Jelly*F5*WMV;
+Eye Candy*F7*WMV;
+Fern Jelly;
+Glowing Taffy*F6*WMV;
+Hot Cross Buns*F9*WMV;
+Pizza*F7*WMV;
+Rock and Roll Candy*F5*WMV;
+Satyr Chow*F5*WMV;
+Sprinkle Cupcake*F10*WMV;
+Squash*F4*WMV;
+Veggie Juice*F2*WMV;
+Wheat Cracker;
+
+| jewels =
+Ally Legend Shield Jade;
+Ally Precision Citrine;
+Ally Thermic Shield Amethyst;
+Balance-It Citrine;
+Balance-Off Citrine;
+Critical Striker Opal;
+Feinting Spell Onyx;
+Fire Striker Ruby;
+Fire-Away Ruby*F2*WMV;
+Fire-Boon Ruby;
+Fire-Shot Ruby;
+Fire-Sniper Ruby;
+Fire-Ward Ruby;
+Healer Opal;
+Healthy Opal*F3;
+Ice Assailant Sapphire*F2;
+Ice Striker Sapphire;
+Ice-Away Sapphire;
+Ice-Dealer Sapphire;
+Ice-Shot Sapphire*F2*WMV;
+Infector Onyx;
+Life Striker Jade;
+Life-Boon Jade;
+Life-Bringer Jade;
+Life-Shot Jade;
+Life-Ward Jade;
+Lively Opal;
+Lustrous Accurate Amethyst +11%;
+Lustrous Accurate Jade +11%;
+Lustrous Blocking Amethyst +13*F2;
+Lustrous Blocking Sapphire +13;
+Lustrous Critical Amethyst +13*F3*WMV;
+Lustrous Critical Citrine +13;
+Lustrous Damage Amethyst +23;
+Lustrous Damage Citrine +23*F2;
+Lustrous Damage Jade +23*F2;
+Lustrous Damage Peridot +23;
+Lustrous Damage Sapphire +23;
+Lustrous Defense Sapphire +45;
+Lustrous Mana Opal +41;
+Lustrous PIP Opal +10%;
+Magnify Opal*F2;
+Myth-Away Peridot;
+Myth-Boon Peridot;
+Pain-Bringer Opal;
+Screen Ruby*F2*WMV;
+Shiny Accurate Opal +6%;
+Shiny Blocking Hematite +15;
+Shiny Blocking Onyx +15;
+Shiny Blocking Onyx +16;
+Shiny Blocking Peridot +15;
+Shiny Blocking Sapphire +15;
+Shiny Blocking Sapphire +16;
+Shiny Critical Onyx +16;
+Shiny Damage Hematite +52;
+Shiny Damage Onyx +26;
+Shiny Damage Ruby +25;
+Shiny Defense Amethyst +50;
+Shiny Defense Citrine +49;
+Shiny Defense Onyx +49;
+Shiny Defense Onyx +51;
+Shiny Defense Opal +25;
+Shiny Defense Peridot +49;
+Shiny Defense Ruby +52;
+Shiny Defense Sapphire +49;
+Shiny Healing Opal +6%;
+Shiny Health Opal +108;
+Shiny Health Opal +110;
+Shiny Health Opal +111;
+Shiny Health Opal +112*F4*WMV;
+Shiny Health Opal +113*F2;
+Shiny Health Opal +114;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47;
+Shiny Mending Opal +6%;
+Sparkling Blocking Hematite +17;
+Sparkling Blocking Onyx +17;
+Sparkling Blocking Ruby +17;
+Sparkling Blocking Sapphire +17;
+Sparkling Critical Amethyst +17;
+Sparkling Critical Peridot +17*F2;
+Sparkling Damage Amethyst +27;
+Sparkling Damage Citrine +27;
+Sparkling Damage Hematite +54;
+Sparkling Damage Peridot +27*F2;
+Sparkling Damage Ruby +27;
+Sparkling Defense Amethyst +53;
+Sparkling Defense Amethyst +54;
+Sparkling Defense Citrine +54;
+Sparkling Defense Hematite +54*F2;
+Sparkling Defense Jade +53;
+Sparkling Defense Jade +54*F2;
+Sparkling Defense Opal +27;
+Sparkling Defense Peridot +53*F3*WMV;
+Sparkling Defense Peridot +54*F2;
+Sparkling Defense Ruby +53;
+Sparkling Defense Ruby +54;
+Sparkling Defense Sapphire +53;
+Sparkling Defense Sapphire +54;
+Sparkling Health Opal +116*F2*WMV;
+Sparkling Health Opal +117*F3;
+Sparkling Health Opal +119;
+Sparkling Mana Opal +49*F2*WMV;
+Spell-Defying Opal;
+Spell-Proof Opal;
+Storm Striker Amethyst;
+Storm-Shot Amethyst*F2*WMV;
+The Deer Knight Rises Onyx;
+Time Skip Sapphire;
+
+| pets =
+Blue Globulin*F2*WMV;
+Life Wartle*F5*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak*F3*WMV;
+Angora Bunny Ears*F7*WMV;
+Baby Carrots*F6*WMV;
+Bamboo Shoots;
+Bell Pepper*F4*WMV;
+Blue Huckleberries*F10*WMV;
+Boiled Peanuts*F7*WMV;
+Boom Shroom;
+Boon Tree*CR*F2;
+Bread Fruit Bush*F9*WMV;
+Burning Snap Dragon*F2;
+Cornbread Fruit Bush*F12*WMV;
+Couch Potatoes*CR*F9*WMV;
+Deadly Fly Trap*F3*WMV;
+Deadly Ninja Fig*F2*WMV;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Face Palm*F2;
+Fiery Boom Shroom;
+Fish on a Vine*F6*WMV;
+Fortune Cookie Tree*F2;
+Frozen Fly Trap;
+Golden Couch Potatoes*F14*WMV;
+Grapes of Wrath*CR*F7*WMV;
+Green Snow Apples*F3;
+Helephant Ears*F2*WMV;
+Ivy League*CR*F14*WMV;
+Key Limes*CR;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily*F2*WMV;
+Melting Cheese Tree*F4*WMV;
+Missile Toe*F2;
+Moon Flower;
+Ninja Fig*CR;
+Orange Bell Pepper;
+Pink Huckleberries*F4*WMV;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Queen Crape Myrtle*F2;
+Red Bell Pepper*F2;
+Red Couch Potatoes*F6*WMV;
+Red Grapes of Wrath;
+Red Huckleberries*F9*WMV;
+Saw Palmetto*F2;
+Snap Dragon*F2;
+Snow Apples*F4*WMV;
+Sour Fickle Pickle*F4*WMV;
+Sugar Khrystal*CR*F2;
+Sunion*CR;
+Sword Fern*CR*F2;
+Tiger Lily (Seed);
+Ultra Alligator Pear Tree*F2;
+Ultra Boom Shroom;
+Ultra Fly Trap;
+Ultra Huckleberries;
+Ultra Snap Dragon;
+Ultra Tiger Lily;
+Ultra Trumpet Vine;
+White Desparagus;
+White Laugh-O-Dil;
+White Tiger Lily*F2*WMV;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

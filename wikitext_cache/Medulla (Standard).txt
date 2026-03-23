@@ -1,0 +1,226 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 33,880
+| crecla = Titan
+| school = Myth
+| school2 = Shadow
+| masteries =
+Balance;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+98 Any;
+
+| criticalblock =
+97 Any;
+
+| outpierce =
+15%;
+
+| outboost =
+100%;
+
+| incboost =
+10% Storm;
+
+| incresist =
+20% Life, Death, Balance;
+25% Fire, Ice;
+50% Myth, Shadow;
+
+| outhealing =
+
+| inchealing =
+75%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Beans (Standard);
+Pork (Standard);
+Sparck (Standard);
+
+| world = Empyrea
+| location = Sepidious
+| subloc1 = The Headquarters (Standard)
+| lootchest = Medulla's Chest
+| descrip =
+Medulla is the final Boss in the first half of Empyrea.  Wizards must defeat him to recover their mind-controlled friends, and to rescue {{Link|NPC|Mellori}}.
+*For the Challenge version of this battle, see {{Link|Creature|Medulla (Challenge)}}.
+
+| speech =
+:'''Medulla:''' ''"Oh, hello, Bat. Wizard. Surprised to see me? I know you thought I'd be running around investigating your sabotage, but I'm too smart for that."''
+:'''Bat:''' ''"Perhaps. Or did we want you to think we thought that, knowing you'd overthink things, thus playing right into our hand?"
+:'''Medulla:''' ''"No! It's what I said! It's my hand that's been played into! I have you right where I want you. Prepare to bear witness to my genius!"''
+:'''Bat:''' ''"Your genius? All I see is a workshop of stolen ideas. MY ideas. But what I don't see are any of your minions. Oh no! Did they desert you?"''
+:'''Medulla:''' ''"Meh. I've got new mini-"''
+:'''Mellori:''' ''"Wizard... Run! Stop yammering and just go!"''
+:'''Medulla:''' ''"SHUSH! Save your strength, Mellori. I'm going to need it. Hehehe. Now where was I? Oh, yes... ...Meh. I've got new minions now. Isn't that right, Crew? Ahehehehehe!"''
+:'''Mind-Meddled Crew:''' ''"Yes, Master Medulla. We live to serve you. You are the smartest and toughest and most handsome boss that ever lived."''
+:'''Bat:''' ''"You mind-meddling monster! This ends now!"''
+:'''Medulla:''' ''"Ah, I love it when a plan comes together. Sorry yours didn't work out, Wizard. I mean, I'm not sorry. Obviously. Whatever. Let's just fight!"''
+
+| cheatnotes =
+{{Icon|Spell}} At the end of the first Round, all Wizards will be given 3 of the following Spell, which instantly removes Pork, Beans, or Sparck from combat, and moves them to the Wizard team:
+*{{GivesSpell|size = x150px|Clear Mind}}
+*If Pork, Beans, or Sparck is healed on the same Round that Clear Mind is cast on them, they regain their prior Health, and remain on Medulla's team.
+
+{{Icon|Friend}} '''Ally Cheats'''
+*''"Pork!" / "You freed my mind, Wizard. Let's finish this!"'' - When Pork is defeated, he will assist the Wizard team.
+**''"We must work together!"'' - Randomly at the beginning of the Round, Pork will cast {{Link|Spell|Smoke Screen (-45%)}} at the enemy team.
+
+*''"Beans!" / "The doctor is in!"'' - When Beans is defeated, he will assist the Wizard team.
+**''"Hold still - I'll have you fixed up in a jiffy!"'' - If an ally is less than 50% Health, Beans will randomly cast a version of {{Link|Spell|Pigsie}}, restoring 550 Health to all Wizards.
+
+*''"Sparck!" / "Medulla's mind-control spell is broken. Fascinating!"''  - When Sparck is defeated, he will assist the Wizard team.
+**''"Preparing to fire the Essence Cannon"'' - At the end of every 5th Round, Sparck will cast a Shadow Spell to fire the Essence Cannon, which deals '''6,000''' Shadow Damage to all enemies and removes one Shadow Pip from each enemy.
+
+| spellnotes =
+*Casts protected Reaperblade (Myth-Shadow) and Bladestorm.
+*Casts a version of Celestial Calendar that deals 1,177-1,287 Myth Damage.
+*Casts an all enemies version of Hex.
+
+| casts =
+Brace;
+Magnify;
+Reaperblade (Myth-Shadow);
+Bladestorm;
+Mass Myth Trap;
+Hex;
+Blinding Light (85%);
+Shatter;
+Humongofrog (310-370);
+Serpent Beguiler;
+Cursed Colossus;
+Earthquake (525);
+Orthrus (785);
+Medusa (865);
+Basilisk (290+870);
+
+| quests =
+Brain Drain;
+Massive Headache;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge and has not unlocked the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge, the following drops will be available:
+*7 Spellements will drop each time from '''any''' School for their respective rank 10, 11, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+132;
+
+| hats =
+Cabal Hood of Disruption;
+Cabalist Cleansing Hood;
+Cabalist Hood of Finality;
+Cabalist Hood of the First;
+
+| robes =
+Cabal Cloak of Disruption;
+Cabal Schism Cloak;
+Cabalist Cloak of Finality;
+
+| boots =
+Cabalist Cleansing Stompers;
+Cabalist Stompers of Finality;
+Cabalist Stompers of the First;
+Nostalgic Cabal Stompers;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Cabalist Banner of Vengeance;
+Cabalist Schism Banner;
+
+| decks =
+
+| items =
+Dwarven Dinner Table;
+Dwarven Side Table;
+Empyrea Dance Hall Theme;
+Empyrea Leisure Dome Theme;
+Ice Dwarf Bed;
+Ice Dwarf Chair;
+Pirate Party Barge Theme;
+
+| cards =
+Berserk;
+Mutate Beetle (Fire);
+Mutate Elf (Storm);
+Mutate Phoenix (Storm);
+Mutate Shark (Fire);
+Raging Bull;
+
+| reagents =
+Aether;
+Agave Leaves;
+Amber;
+Ancient Scroll*F2;
+Astral Shard;
+Bronze Gear;
+Ectoplasm;
+Flying Squid Ink;
+Golden Pearl;
+Nickel;
+Silver;
+Stardust;
+Steel;
+Sunstone;
+
+| spellements =
+Climaclysm*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Lord of Winter*BR;
+Scion of Fire*BR;
+Scion of Ice*BR;
+Scion of Storm*BR;
+Snake Charmer*BR;
+Snowball Barrage*BR;
+Spinysaur*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+
+| snacks =
+Glowing Star Fruit;
+Tasty Rainbow;
+Veggie Juice;
+
+| jewels =
+Sparkling Blocking Onyx +17;
+Sparkling Health Opal +118;
+Sparkling Health Opal +120;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Blue Huckleberries;
+Couch Potatoes*CR;
+Face Palm;
+Golden Couch Potatoes;
+Orange Dandelion;
+Red Huckleberries;
+Snap Dragon;
+Ultra Snap Dragon*F2;
+
+| mounts =
+
+| spells =
+
+| altimage = Medulla
+}}

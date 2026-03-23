@@ -1,0 +1,103 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 19,945
+| crecla = Hamster
+| school = Ice
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Ice;
+
+| critical =
+629 Any;
+
+| criticalblock =
+496 Any;
+
+| outpierce =
+29%;
+
+| outboost =
+128%;
+
+| incboost =
+30% Fire;
+
+| incresist =
+40% Storm, Myth, Life, Balance, Sun, Moon, Star, Shadow;
+70% Ice, Death;
+
+| outhealing =
+14%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions = 
+Angry Nana;
+
+| world = Karamelle
+| location = Gutenstadt
+| subloc1 = Vana's Varieties
+| descrip =
+
+| speech =
+
+| spellnotes = 
+
+| casts =
+Stabilize;
+Tower Shield;
+Techmancer Aegis;
+Volcanic Golem (Tier 3b);
+Winter Moon (Tier 3c);
+King Artorius (Ice) (Tier 3b);
+Lord of Winter (Tier 5b);
+
+| quests =
+As the Wheel Learns;
+
+| gold =
+4;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

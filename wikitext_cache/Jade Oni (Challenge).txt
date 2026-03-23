@@ -1,0 +1,158 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 8,500
+| crecla = Demon
+| school = Life
+| school2 = Storm
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+125 Any;
+
+| outpierce =
+
+| outboost =
+50%;
+
+| incboost =
+None;
+
+| incresist =
+20% Any;
+
+| outhealing =
+60%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+War Oni (Challenge);
+Plague Oni (Challenge);
+Death Oni (Challenge);
+
+| world = Housing Instance
+| location = Jade Oni Rematch
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the Standard version of this battle, see {{Link|Creature|Jade Oni (Standard)}}.
+
+'''Advanced Combat Rules:'''
+*Wizards stats and spells are scaled to Level 50.
+*Spell Decks cannot be changed while in this instance. (Make sure to set the spells in a deck before entering this instance).
+*No-PvP spells are disallowed in this fight.
+*PvP-Only Spells are allowed in this fight.
+*Wizards cannot re-join combat after fleeing mid-combat.
+
+| speech =
+
+| cheatnotes =
+{{Icon|Life}}{{Icon|Storm}} '''Jade Oni'''
+*{{Icon|Absorb}} ''"Jade ancestors, protect me!"'' - On the fifth Round, Jade Oni will cast a {{Link|Spell|Spirit Armor}} on himself.
+*{{Icon|Blade}} ''"Your Doom is Imminent"'' - Jade Oni casts a {{Link|Spell|Spirit Blade}} on self, warning of the impending gambit.
+*'''x4''' {{Icon|Blade|20px}} '''Gambit:'''
+**''"You were warned. Bwahaha!"'' - If Jade Oni reaches a gambit of having four Blades, he will cast {{Link|Spell|Primal Oni}}. Blades will be removed after this gambit has been used.
+
+{{Icon|Death}}{{Icon|Ice}} '''Death Oni'''
+*{{Icon|Shield}} ''"Spirits of the Dead Protect Me!"'' - Death Oni casts a {{Link|Spell|Spirit Shield}} on himself after using a Shield spell.
+*'''x4''' {{Icon|Ward|20px}} '''Gambit:'''
+**''"Think you're tough?"'' - If Death Oni reaches a gambit of having four Shields, he will cast {{Link|Spell|Doom Oni}}. Wards will be removed after this gambit has been used.
+
+{{Icon|Balance}}{{Icon|Death}} '''Plague Oni'''
+*{{Icon|All Friends (Squared)}}{{Icon|Weakness}} ''"A pox upon your house!"'' - On the third Round, Plague Oni casts {{Link|Spell|Plague}}.
+*{{Icon|Blade}} ''"Your Doom is Imminent"'' - Plague Oni casts a {{Link|Spell|Balanceblade}} on itself and {{Link|Spell|Mass Infection}}, when it has a Blade, and a Wizard has a negative Charm. This warns of the impending gambit.
+**This Balanceblade can stack with the Balanceblade he casts from his hand.
+*'''x2''' {{Icon|Blade|20px}} '''& x2''' {{Icon|Curse|20px}} '''Gambit:'''
+**''"Greed will be your downfall!"'' - If Plague Oni reaches a gambit of having two Blades on itself, and 2 harmful Charms on the Wizard, he will cast {{Link|Spell|Tribunal Oni}}. All Charms will be removed after this gambit on both teams.
+
+{{Icon|Fire}}{{Icon|Life}} '''War Oni'''
+*{{Icon|Heal over Time}} ''"Let the war rage on!"'' - War Oni casts {{Link|Spell|Sprite}} on himself after he has a HOT on himself.
+*'''x2''' {{Icon|Heal over Time|20px}} '''Gambit:'''
+**''"Survival is the dominian of the fittest!"'' - If War Oni reaches a gambit of having two HOTs, he will cast {{Link|Spell|Infernal Oni}}. HOTs will be removed after this gambit has been used.
+
+| spellnotes =
+
+| casts =
+Lifeblade;
+Stormblade;
+Mass Life Trap;
+Luminous Weaver (Tier 4b);
+Nature's Wrath (Tier 4b);
+Centaur (Tier 4b);
+Thunder Snake (Tier 4b);
+Hammer of Thor (Tier 2b);
+Catch of the Day (Tier 2b);
+Triton (Tier 4b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+Malistaire's Chilly Boots (Level 160+);
+Malistaire's Ghostly Boots (Level 160+);
+Malistaire's Harmonic Boots (Level 160+);
+Malistaire's Infamous Boots (Level 160+);
+Malistaire's Squall Boots (Level 160+);
+Malistaire's Thorny Boots (Level 160+);
+Malistaire's Vengeance Boots (Level 160+);
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Malistaire's Chilly Deck (Level 160+);
+Malistaire's Ghostly Deck (Level 160+);
+Malistaire's Harmonic Deck (Level 160+);
+Malistaire's Infamous Deck (Level 160+);
+Malistaire's Squall Deck (Level 160+);
+Malistaire's Thorny Deck (Level 160+);
+Malistaire's Vengeance Deck (Level 160+);
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Malistaire's Whisker @ 12 Malistaire's Whisker;
+
+| spellements =
+Blight Hound;
+Earth Walker;
+Minotaur;
+Phoenix;
+Skeletal Pirate;
+Spectral Blast;
+Stormzilla;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Jade Oni (Rematch)
+}}

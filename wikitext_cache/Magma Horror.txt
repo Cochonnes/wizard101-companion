@@ -1,0 +1,161 @@
+{{CreatureInfobox
+| cretype = Boss 
+| rank = 16
+| heal = 13,120
+| crecla = Elemental
+| crecla2 = Titan
+| school = Fire
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+120 Any;
+
+|criticalblock =
+105 Any;
+
+| outpierce =
+7%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Ice;
+
+| incresist =
+30% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Empyrea
+| location = Inner Athanor
+| subloc1 = Cistern
+| descrip =
+
+| speech =
+:''"RAAAAHHHHHH!!!"''
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Glacial Shield;
+Tower Shield;
+Smoke Mantle;
+Smoke Screen;
+Fire Trap;
+Choke;
+Natural Attack (Fire 120-240-360, 75%);
+Sunbird (345-405);
+Firezilla;
+Grand Phoenix;
+Efreet;
+
+| quests =
+Cistern, Turn, Turn;
+Lava at First Sight;
+
+| gold =
+74 - 130;
+
+| hats =
+Interstellar Navigator Helm;
+
+| robes =
+Interstellar Delegate's Suit;
+
+| boots =
+Interstellar Engineer Trekkers;
+
+| athames =
+Interstellar Warrior's Knife;
+
+| amulets =
+Interstellar Medic's Charm*F2;
+
+| rings =
+
+| wands =
+Warrior's Hexacorder;
+
+| decks =
+Interstellar Hero's Deck;
+
+| items =
+Empyrea Aeriel Theme;
+Empyrea Athanor Combat Theme;
+Empyrea Jungle Theme;
+
+| cards =
+Mass Fire Prism;
+Mass Myth Prism;
+Time of Legend;
+
+| reagents =
+Black Pearl;
+Blood Moss*F2*WMV;
+Brass*F5*WMV;
+Bronze Gear*F2*WMV;
+Ectoplasm*F2;
+Nickel;
+Scales;
+Spider Silk*F3*WMV;
+Spring*F2*WMV;
+
+| spellements =
+
+| snacks =
+Eye Candy;
+Glowing Taffy;
+Hot Cross Buns;
+Pizza*F3*WMV;
+Rock and Roll Candy*F2*WMV;
+Sprinkle Cupcake;
+Squash;
+
+| jewels =
+Armor Breaker Opal;
+Balance Assailant Citrine;
+Balance Striker Citrine;
+Balance-Off Citrine;
+Death-Away Onyx;
+Fire-Giver Ruby;
+Ice-Boon Sapphire;
+Lustrous Blocking Amethyst +13;
+Lustrous Critical Peridot +13;
+Lustrous Defense Ruby +45;
+Fire-Ward Ruby;
+Storm-Away Amethyst*F2;
+Storm-Shot Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots*F2;
+Bell Pepper*F2;
+Boiled Peanuts*F3*WMV;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Desparagus (Seed);
+Fiery Boom Shroom;
+Golden Couch Potatoes*F2;
+Grapes of Wrath*CR*F2;
+Ivy League*CR*F3*WMV;
+Orange Dandelion;
+Pink Huckleberries;
+Red Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

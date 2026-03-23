@@ -1,0 +1,99 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 6,140
+| crecla = Moose
+| school = Ice
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+66% Myth;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Marleybone
+| location = Regent's Square
+| subloc1 = Archie Fan Club
+| descrip =
+
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Stun Block;
+Tower Shield;
+Iceblade;
+Freeze;
+Blizzard;
+Raging Kraken (Ice);
+Blight Hound;
+Colossus;
+
+| quests =
+All in the Crime Family
+
+| gold =
+20 - 21;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Stone Colossus;
+
+| reagents =
+Weft Yarn;
+Weft Yarn @ 15 Weft Yarn;
+Weft Yarn @ 20 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Flawless Accurate Peridot +16%;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

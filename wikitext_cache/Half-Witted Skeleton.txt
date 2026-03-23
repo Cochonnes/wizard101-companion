@@ -1,0 +1,109 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 1,115
+| crecla = Undead
+| school = Ice
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Fire;
+
+| incresist =
+40% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Marleybone
+| location = Regent's Square
+| subloc1 = Warehouse (Spiral Geographic)
+| descrip =
+The Half-Witted Skeleton is a Minion to {{Link|Creature|General Stormclaw}}.  All drops, cheats, and speech are recorded on that page.
+
+'''Monstrology Description'''
+*Let's just say, they aren't the brightest crayon in the box.
+
+| speech =
+
+| cheatnotes =
+* ''"I saw that!!"'' - After a Tired Fighter is damaged, this Creature casts {{Link|Spell|Colossus}} after {{Link|Creature|Lazy Henchman}} uses Rebirth.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Death Damage per Pip.
+
+| casts =
+Tower Shield;
+Weakness;
+Iceblade;
+Ice Trap;
+Snow Serpent;
+Ice Elf (30+210);
+Evil Snowman;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Arcticzilla;
+Colossus;
+Frost Giant;
+Troll;
+Vampire;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

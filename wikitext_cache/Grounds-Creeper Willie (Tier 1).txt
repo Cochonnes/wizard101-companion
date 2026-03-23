@@ -1,0 +1,149 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 4,500
+| crecla = Undead
+| school = Myth
+| cheats =  Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+55%;
+
+| incboost =
+None;
+
+| incresist =
+Immune;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Unforgiven Dead Gauntlet
+| subloc1 = Unforgiven Dead Gauntlet (Tier 1)
+| descrip =
+Grounds-Creeper Willie (Tier 1) is immune to all Damage.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+No one knows how he died. Legends say he lost a battle to a wolf made of rakes.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Oh no, ye found me one weakness: showing up late."'' If a Wizard is late to combat, he'll cast a Moon Spell giving all Wizards ''Banish! (7 Pip)''.
+**{{GivesSpell|Banish! (7 Pip)|size = x150px}}
+**This spell seems to be automatically cast when selected rather than targeting.
+*{{Icon|Spell}} ''"Ach! I cannae be beaten, only banished! - "'' After the end of the first Round, Grounds-Creeper Willie (Tier 1) will give Wizards ''Banish! (7 Pip)''.
+*{{Icon|Damage}} ''"Ach! Get 'Em, Bitey!"'' - If Grounds-Creeper Willie (Tier 1) is attacked, he will interrupt-cast Orthrus.
+*{{Icon|Shield}} ''"Hide behind yer shields then!"'' - If a Wizard casts a Shield, Boss will cast {{Link|Spell|Guidance}} on all Wizards.
+**This will only trigger once per Round.
+*{{Icon|Manipulation}} ''"Time for a controlled Mana Burn"'' - Boss will cast an all enemies version of {{Link|Spell|Mana Burn (Shadow)}} that also removes 1 Shadow Pip.
+**This spell will be cast repeatedly.
+***''"Think ye can banish me? Try!"'' - Boss will say this line after he uses Mana Burn.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Mythblade;
+Balanceblade;
+Myth Trap;
+Pierce;
+Cyclops;
+Humongofrog;
+Ninja Pigs;
+Orthrus;
+
+| quests =
+
+| gold =
+202 - 328;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Highlands Champion's Staff (Level 50+)*CR;
+Highlands Fighter's Staff (Level 50+)*CR;
+Highlands Raider's Staff (Level 50+)*CR;
+Highlands Soldier's Staff (Level 20+)*CR;
+
+| decks =
+
+| items =
+
+| cards =
+Harvest Lord;
+Pierce;
+Plague;
+Steal Ward;
+Triage;
+Weakness;
+Wild Bolt;
+
+| reagents =
+Amber Dust;
+Elemental Retriever;
+Golden Pearl;
+Merle's Whisker;
+Potboiler Token;
+Spiritual Retriever;
+Sunstone;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+Dire Loch Monster*7*CR;
+Dread Loch Monster*PERM*CR;
+Grim Loch Monster*1*CR;;
+Grim Loch Monster*7*CR;
+Grim Loch Monster*PERM*CR;
+
+| spells =
+
+}}

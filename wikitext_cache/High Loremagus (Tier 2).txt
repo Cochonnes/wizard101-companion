@@ -1,0 +1,163 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 10,500
+| crecla = Wizard
+| crecla2 = Undead
+| school = Balance
+| masteries =
+Fire;
+Ice;
+Storm;
+Myth;
+Life;
+Death;
+
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+19%;
+
+| outboost =
+150%;
+
+| incboost =
+15% Myth, Life, Death;
+
+| incresist =
+40% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Font of Life (Tier 2);
+Font of Strength (Tier 2);
+Font of Weakness (Tier 2);
+
+| world = Dragonspyre
+| location = The Atheneum
+| subloc1 = High Loremagus' Chamber
+| badge = Loremagus Master
+| descrip =
+The High Loremagus (Tier 2) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Keeper's Spellemental Pack}}.
+*This Tier is for level 51-109 Wizards.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+Hopes to one day be the Supreme High Loremagus+ w/ Optional Cable
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Round}} ''"Only a true master of lore can defeat me!"'' - At the start of every Round when a Wizard or Minion lacks an Aura, High Loremagus (Tier 2) will cast a Star School Spell on each Wizard or Minion, applying a '''-200%''' Accuracy Aura of the targets School that lasts for 99 turns.
+**Summoned Monstrology Minions that are Astral or Shadow School will be targeted by this cheat, but no Aura will be applied to them as there's no Aura for those Schools.
+**Summoned Monstrology Minions that are dual schooled will get a '''-200%''' Accuracy Aura for their second school.
+*{{Icon|Aura}} ''"You know nothing of lore. Do your research!"'' - If a Wizard or Minion casts an Aura, High Loremagus (Tier 2) will recast the Aura on them.
+*{{Icon|Feint}} ''"Uh oh... Watch out for vermin!"'' - If a {{Link|Spell|Feint}} or {{Link|ItemCard|Mass Feint}} is cast on her, she will cast {{Link|Spell|Camp Bandit (Tier 4a)}}.
+
+| spellnotes =
+
+| casts =
+Celestial Intervention (Tier 4b);
+Loremaster (Tier 4c);
+Spiritual Tribunal (Tier 4c);
+Loremaster (Tier 4b);
+Spiritual Tribunal (Tier 4b);
+Ninja Piglets (Tier 4a);
+Savage Paw (Tier 4a);
+Samoorai (Tier 4a);
+Ratatoskr's Spin (Tier 3a);
+Goat Monk (Tier 4b);
+Ship of Fools (Tier 4b);
+Lord of Night (Tier 4a);
+Deer Knight (Tier 4a);
+Brimstone Revenant (Tier 4a);
+Hephaestus (Tier 4);
+Nautilus Unleashed (Tier 4a);
+Nautilus Unleashed (Tier 4b);
+Beary Surprise (Tier 4b);
+Queen Calypso (Tier 4b);
+Beary Surprise (Tier 4a);
+Catalan (Tier 4a);
+Angry Snowpig (Tier 4a);
+Handsome Fomori (Tier 4a);
+Winter Moon (Tier 4a);
+Splashsquatch (Tier 4b);
+Keeper of the Flame (Tier 4a);
+Splashsquatch (Tier 4a);
+Athena Battle Sight (Tier 4a);
+Ninja Pigs (Tier 4a);
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Participation Trophy;
+
+| spellements =
+Brimstone Revenant;
+Loremaster;
+Luminous Weaver;
+Keeper of the Flame;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

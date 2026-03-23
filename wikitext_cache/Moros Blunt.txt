@@ -1,0 +1,220 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 10,960
+| crecla = Deer
+| school = Fire
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Great Horned Knight;
+
+| world = Avalon
+| location = Outer Yard
+| subloc1 = Sworn Tower
+| descrip =
+Two additional {{Link|Creature|Horned Brocket}}s appear if more than two Wizards are present.
+
+| speech =
+:''"It gives me great pleasure to welcome you to the Sworn Tower, Knight of the Wyrd. By the Horned Crown, I swear I will honor you by mounting your head upon the wall there!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Fireblade;
+Fire Trap;
+Fire Shark;
+Natural Attack (Fire 165-330-495);
+Meteor Strike;
+Scald;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Efreet;
+Rain of Fire;
+
+| quests =
+In the Dark;
+
+| gold =
+141 - 174;
+
+| hats =
+Champion of Order's Icy Helm;
+Chaos Lord's Helm*F4*WMV;
+Great Faerie Knight Helm;
+Helm of the Lady's Chosen One*F2;
+Mother Oak's Guard;
+Order's Princely Guard;
+
+| robes =
+Courageous Armiger's Vestment;
+High Court Robes;
+Horned One's Tunic;
+Jouster's Plate;
+Kin Bound Robes;
+Leprechaun Smithed Armor;
+
+| boots =
+Boots of the Lake Shore;
+Deep Is The Well Waders;
+Froudling Creepers;
+Hundred Year Bridge Walkers*F2;
+Jouster's Footguards;
+Long as Night Walkers;
+
+| athames =
+Guest Right Blade;
+Inhospitable Knife*F2*WMV;
+
+| amulets =
+Knight's Torc of Virtue*F2*WMV;
+Seely Wizard's Torc;
+
+| rings =
+Black Annie's Band;
+Crystal Cave Rose;
+
+| wands =
+Blade of Mettle;
+Steel-Bladed Doom*F3;
+
+| decks =
+Braided Silver Deck;
+Tanglewood Cards*F5*WMV;
+
+| items =
+Avalon Combat Theme;
+Avalon Glorious Theme;
+Avalon Owl Stained Glass;
+Dread Keep Throne;
+Fox Head Statue;
+Marleybone Pet Derby Theme;
+MooShu Pet Derby Theme;
+Wizard City Pet Derby Theme;
+
+| cards =
+Amplify*F2;
+Berserk;
+Choke*F2*WMV;
+Colossal*F2*WMV;
+Deer Knight*F2;
+Efreet;
+Empowerment*F2;
+Extraordinary*F2*WMV;
+Fire Dragon*F2;
+Fortify;
+Frost Giant*F3;
+Fuel;
+Gargantuan*F3*WMV;
+Immolate*F3*WMV;
+Infallible*F3;
+Medusa;
+Mend*F3*WMV;
+Orthrus;
+Power Link*F4*WMV;
+Power Nova*F2*WMV;
+Rebirth;
+Scald*F4*WMV;
+Scarecrow*F2*WMV;
+Steal Charm*F3*WMV;
+Storm Lord*F2;
+Unstoppable*F2;
+Vengeance*F3*WMV;
+
+| reagents =
+Black Lotus*F3*WMV;
+Brass;
+Bronze;
+Cat Tail*F3*WMV;
+Cobalt*F2*WMV;
+Deep Mushroom*F2*WMV;
+Frost Flower*F2;
+Lava Lily;
+Mist Wood*F4*WMV;
+Nickel;
+Ore*F2*WMV;
+Parchment*F2;
+Pearl*F2*WMV;
+Red Mandrake*F2*WMV;
+Shell*F2;
+Steel*F2;
+Stone Block*F2*WMV;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F2*WMV;
+Delicious Cookie;
+Deviled Eggs;
+Flaming Soup;
+Glowing Taffy;
+Goat Cheese;
+Golden Apple*F2*WMV;
+Golden Grapes*F3;
+Gummy Humongofrog;
+Gummy Wyrms;
+Jelly Baby;
+Kola Nuts;
+Pigeon Pie;
+Roasted Chickpeas;
+Salmonberry;
+Shiny Tomato;
+Strawberry Cupcake;
+Submarine Sandwich*F4*WMV;
+Treant Bark;
+Uni-Corn;
+
+| jewels =
+Clear Blocking Onyx +9;
+Clear Defense Opal +20;
+Greensleeves Jade;
+Mass Infection Onyx;
+Mass Triage Jade;
+Opaque Damage Amethyst +18;
+Storm-Shot Amethyst;
+
+| pins =
+
+| pets =
+Hollow Knight*CR;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Blue Huckleberries*F2*WMV;
+Deadly Helephant Ears*CR;
+Pink Huckleberries;
+Red Huckleberries*F2;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

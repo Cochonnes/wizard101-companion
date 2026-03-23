@@ -1,0 +1,180 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 19,320
+| crecla = Spider Mage
+| crecla2 = Spider
+| school = Balance
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions = 
+Cave Crawler;
+
+| world = Khrysalis
+| location = The Hive
+| subloc1 = Answer Chamber
+| descrip =
+
+| speech =
+:''"What are you doing here? You aim to rescue the Barbarian? Tssk, tssk... That's not what I wanted to hear. Bawb here refuses to talk to me. Perhaps he just needs to see what I'm capable of when I don't hear what I want to hear. Let's talk!"
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+The man knows what he likes to hear and what he doesn't like to hear. He has very strong opinions about music.
+
+| extract class =
+Spider;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Infallible;
+Vengeance;
+Black Mantle;
+Availing Hands (85+870);
+Balanceblade;
+Hex;
+Mana Burn (-4 Pips);
+Natural Attack (Balance 160-255-350);
+Samoorai;
+Power Nova;
+Ra;
+Sabertooth;
+Judgement;
+
+| quests =
+A Voice for the Silent;
+
+| gold =
+137 - 163;
+
+| hats =
+Dragonfly Rider's Helm*F2;
+Mantis Guard's Headgear;
+The Savvy Satyr*CR;
+
+| robes =
+Flame Legs Captain's Mail*F2;
+
+| boots =
+Boots of the BurrowBuilder;
+Mantis Chitin Runners*F2;
+Mouse Knight's Footguards;
+
+| athames =
+
+| amulets =
+BurrowBuilder's Medallion*F3*WMV;
+
+| rings =
+
+| wands =
+Ice-Forged Burrower Steel;
+Sweltering Desert Staff;
+
+| decks =
+Lightning Rider's Deck;
+LimeBlight's Gallery;
+Pack of Frozen Souls*F2;
+
+| items =
+Khrysalis Combat Theme 2;
+
+| cards =
+Avenging Fossil*F2;
+Black Widow;
+Celestial Calendar;
+Chastisement;
+Furnace;
+Galvanic Field;
+Hooligan;
+Legendary Treant (445)*F2;
+Locust Swarm;
+Lord of Winter;
+Luminous Weaver;
+O'Leary Swindler;
+Polar Swarm;
+Reliquary;
+Sanctuary;
+Scrounger;
+Spinysaur*F2;
+Sprite Swarm (40+360);
+
+| reagents =
+Astral Shard*F4;
+Black Lotus*F2;
+Blood Moss;
+Bronze Gear;
+Deep Mushroom*F4;
+Draconium;
+Fossil;
+Golden Pearl;
+Lava Lily;
+Mist Wood*F2;
+Nightshade;
+Ore;
+Orichalcum;
+Red Mandrake*F3;
+Stone Block;
+Sunstone;
+Tungsten;
+Turquoise*F3;
+
+| spellements =
+
+| snacks =
+Golden Apple*F2*WMV;
+Golden Grapes;
+Gummy Bees*F2;
+Honeycombs;
+Honeycrisp Apples;
+HoneyDon't Melon;
+Peanut Butterflies;
+Spicy Stingers;
+Sugar Khrystals;
+
+| jewels =
+Polished Critical Opal +6;
+Polished Critical Peridot +12;
+Sir Lamorak Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

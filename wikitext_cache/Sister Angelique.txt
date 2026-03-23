@@ -1,0 +1,111 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 21,165
+| crecla = 
+| school = Life
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+59 Any;
+
+| criticalblock =
+643 Any;
+
+| outpierce =
+14%;
+
+| outboost =
+85%;
+
+| incboost =
+30% Death;
+
+| incresist =
+41% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+71% Life;
+
+| outhealing =
+42%;
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Bauk (Death);
+
+| world = Darkmoor
+| location = Graveholm
+| subloc1 = Witch's Den
+| descrip =
+This Scholomari is behind the curse of the demimortals.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Devotion;
+Guiding Light;
+Lifeblade (+40%);
+Thorns!;
+Luminous Weaver;
+Goat Monk (Tier 2b);
+Hungry Caterpillar;
+Forest Lord;
+Primal Oni;
+
+| quests =
+City of Angel;
+
+| gold =
+6 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Sabertooth;
+Woolly Mammoth;
+
+| reagents =
+Silver;
+
+| spellements =
+
+| snacks =
+Chocolate Crickets;
+Granny Snow Apple;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

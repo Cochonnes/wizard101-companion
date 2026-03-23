@@ -1,0 +1,111 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 20,000
+| crecla = Eagle
+| school = Storm
+| masteries =
+Ice;
+
+| cheats = Yes
+| shadowslots = 1
+| startpips = 7 
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+25%;
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Zeus Exalted Challenge
+| subloc1 = 
+| descrip =
+*Poseidon Earth-Shaker (Zeus Exalted Challenge) is considered a Minion to {{Link|Creature|Zeus Sky Father (Zeus Exalted Challenge)}}.  All drops are recorded on that page.
+*Either Poseidon or [[Creature:Ares Savage Spear (Zeus Exalted Challenge)|Ares]] will spawn to occupy the duel circle's second spot.
+
+| cheatnotes =
+*''"Observe the might of a true weapon!"'' - If a [[:Category:Blade Spells|Blade]] Spell is used, Poseidon will shift into {{Link|Creature|Atlantean Trierarch}}, then cast {{Link|Spell|Enfeeble}} on the Wizard who received the Blade(s).
+**Aegis-enchantment can be used to prevent any positive Charms from being removed.
+**{{Link|Spell|Bladestorm}} will only affect the caster.
+**Pet casts will also trigger this cheat.
+*''"The Sea is but a puddle without the stars."'' - If an [[:Category:Aura Spells|Aura]] or [[:Category:Shadow Spells|Shadow Spell]] is used, Poseidon will place a {{Link|Spell|Tower Shield}} on the caster.
+**Pet casts will also trigger this cheat.
+*''"The Sea mourns for mighty Zeus!"'' - If Zeus is defeated, Poseidon will cast his '''Tempest''' Natural Attack every three rounds.
+
+| spellnotes =
+'''Natural Attack:'''
+*Casts an enhanced AoE version of {{Link|Spell|Snow Shark}} that steals 1 Positive Ward and deals 650 Ice Damage to all enemies.
+*Casts an enhanced version of Tempest dealing 960 Storm Damage that steals 1 Pip from all Wizards and gains 4 Pips afterwards.
+
+| casts =
+Vengeance;
+Stormspear (+10%);
+Stormblade (+30%);
+Storm Trap;
+Windstorm;
+Triton;
+Leviathan;
+Storm Owl;
+Tempest;
+Abominable Weaver;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

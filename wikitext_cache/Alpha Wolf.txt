@@ -1,0 +1,142 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 16,205
+| crecla = Werewolf
+| school = Death
+| school2 = Myth
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+516 Any;
+
+| criticalblock =
+193 Any;
+
+| outpierce =
+17%;
+
+| outboost =
+114%;
+
+| incboost =
+30% Life;
+
+| incresist =
+38% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+68% Death;
+
+| outhealing =
+11%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Howling Lands
+| subloc1 = Alpha House
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Aura}} ''"Don't even try to wear me down!"'' - At the start of the First Round, Alpha Wolf will cast a Domination Aura on himself for 99 Rounds that makes all incoming attacks result in 1 Damage.
+**To remove the Aura, Wizards must pass through three phases by placing the following hanging effects on Alpha Wolf:
+***Phase 1: 4 Damage over Time effects
+***Phase 2: 4 Negative Wards
+***Phase 3: 4 Negative Charms
+****To move to the next phase, all four Hanging effects must be active at the same time. If any of the necessary hanging effects are removed before all four are placed (ie.: the first Damage over Time expiring before a fourth can be placed,) the phase will not change.
+**Attempting to remove this Aura without passing through the phases will cause Alpha Wolf to use {{Link|Spell|Exit Combat}} on the caster.
+{{Icon|Heal over Time}} Phase 1:
+*''"Ha! I supplement my Health!"'' - At the start of the First Round, Alpha Wolf will heal himself for 11 Health, and place 3 Heal over Times that each heal him for 111 Health over 50 rounds.
+**''"You know, these little bites are annoying."'' - Any time a Damage over Time is placed on Alpha Wolf during this phase, he will say this once.
+**''"No... Not my supplements!"'' - Once 4 or more Damage over Times are on Alpha Wolf at the same time, he will remove all hanging effects on himself and deal 4,051 Damage to himself as an interrupt cast.
+***Removing the Heal over Times other than by placing 4 or more Damage over Times on Alpha Wolf will cause him to recast his Heal over Times.
+{{Icon|Shield}} Phase 2:
+*''"You won't trick me again! I'm too smart for any trap!"'' - After Alpha Wolf removes the 3 Heal over Times from himself, he will heal himself for 11 health and cast 3 -50% Damage Wards on himself as an interrupt cast.
+**''"Gah! Who put that there?"'' - Any time a Negative Ward is placed on Alpha Wolf during this phase, he will say this once.
+**''"Enough Games! I'll just dominate you"'' - Once 4 or more Negative Wards are on Alpha Wolf at the same time, he will remove all hanging effects on himself and deal 4,051 Damage to himself.
+***Removing the -50% Damage Wards other than by placing 4 or more Negative Wards on Alpha Wolf will cause him to recast his -50% Damage Wards.
+{{Icon|Blade}} Phase 3:
+*''"Weakling."'' - After Alpha Wolf removes the 3 -50% Damage Wards from himself, he will heal himself for 11 health and cast 3 +50% Charms on himself as an interrupt cast.
+**''"Whoa! Where'd my muscles go?"'' - Any time a Negative Charm is placed on Alpha Wolf during this phase, he will say this once.
+**''"No! You found my only weakness! That's cheating!"'' - Once 4 or more Negative Charms are on Alpha Wolf at the same time, he will remove all hanging effects on himself and deal 4,051 Damage to himself.
+*After the third phase is completed, Alpha Wolf will interrupt cast an Aura on himself called Dominated which will allow Wizards to deal more than 1 Damage.
+
+| spellnotes =
+
+| casts =
+Deathblade;
+Deer Knight;
+Dream Golem (Tier 2b);
+Monster Mash;
+Minotaur;
+Saturn's Reaping;
+Shift Sugar Glider;
+
+| quests =
+Alpha Slog;
+
+| gold =
+1 - 28;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Creepy Bed*CR;
+Creepy Footstool*CR;
+Darkmoor Vanity*CR;
+Mortal Plains Hay*CR;
+
+| cards =
+Avenging Fossil;
+Chimera;
+Dr. Von's Monster;
+Sirens;
+
+| reagents =
+Astral Shard*F2;
+Mithril*F2;
+Orichalcum;
+Titanium;
+
+| spellements =
+
+| snacks =
+Cubby Broccoli;
+Fiddleheads;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

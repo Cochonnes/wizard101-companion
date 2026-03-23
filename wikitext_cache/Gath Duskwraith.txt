@@ -1,0 +1,155 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,200
+| crecla = Wolf
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Moonstrider Scout;
+
+| world = Grizzleheim
+| location = Mirkholm Keep
+| subloc1 = Duskwraith's Cave
+| descrip =
+
+| speech =
+:''"So many fools come to steal my spear... you will not live to see the Dawn!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 90 Ice Damage per Pip.
+
+| casts =
+Snow Shield;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Ash Bats;
+Fire Shark;
+Fire Wyvern (335-395, 4 Pip);
+Heck Hound;
+Leprechaun;
+Banshee;
+
+| quests =
+From Dusk the Dawn;
+
+| gold =
+34 - 83;
+
+| hats =
+Circlet of Flame*F2*WMV;
+Crown of Hardiness;
+Helm of the Morticutor*F4*WMV;
+Penumbra Cowl;
+Veil of the Garden*F2*WMV;
+
+| robes =
+Arctic Robe;
+Coat of Utility;
+Longcoat of the Librarian;
+Maelstrom Vestment;
+Mortal Vestment*F2*WMV;
+Mythologist's Raiment*F2;
+Robe of Subsistence;
+Robe of the Waterdeep*F4;
+Vestment of Poise;
+
+| boots =
+Boots of the Frosty Plain;
+Fountain Waders;
+Glacier Walkers;
+Parallel Striders*F4*WMV;
+Sandals of the Haruspex*F3*WMV;
+Scorched Footwraps*F2*WMV;
+Wild Rover's Boots;
+
+| athames =
+Poniard of the Last Rune;
+Shortblade of Valor;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Cyclops;
+Spirit Armor;
+Storm Trap;
+
+| reagents =
+Bone*F2;
+Brass;
+Bronze Gear*F3;
+Copper;
+Iron;
+Nickel*F2;
+Pyrite*F2*WMV;
+
+| spellements =
+
+| snacks =
+Cheese Broccoli;
+Glowing Rock Candy*F3*WMV;
+Gummy Firecat;
+Moon Pie;
+Sugar Donut;
+Taco;
+Tasty Biscuit;
+Tomato Soup*F2*WMV;
+
+| jewels =
+Chipped Damage Opal +4;
+Chipped Health Opal +19;
+Chipped Mana Opal +10;
+Cracked Accurate Jade +2%;
+Cracked Damage Ruby +2;
+Cracked Health Opal +15;
+Cracked Mana Opal +7;
+Fire Elf Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Bread Fruit Bush;
+Couch Potatoes*CR;
+Helephant Ears;
+Snap Dragon*F2;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,227 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 750
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Life;
+
+| incresist =
+60% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Vault Haunter;
+
+| world = Krokotopia
+| location = The Vault of Ice
+| subloc1 = 
+| descrip =
+*Two additional Vault Haunters will appear if more than two Wizards are present.
+
+| speech =
+:''"This is my domain!! You will pay for your trespasses, young Wizard!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+Keeper of the Fang, Protector of the Fang, Guardian of the Fang and Defender of the Fang. These together are the Sisters of the Fang!
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 90 Death Damage per Pip.
+
+| casts =
+Black Mantle;
+Deathblade;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Snow Serpent;
+Thunder Snake;
+Lightning Bats;
+Sunbird;
+
+| quests =
+Find the Fang;
+Breaking the Vault;
+
+| dropnotes =
+When a Wizard has unlocked the '''Wizard City Protector''' {{Icon|Wizard City Protector}} Badge and has not unlocked the '''Mastermind''' {{Icon|Mastermind}} Badge, the following drops will be available:
+*A random mixture of 8 Spellements and Treasure Card Spellements will drop each time from the '''Spiritual''' (Myth, Life, Death, Balance) Schools for their respective rank 1-3 Spells.
+
+| gold =
+16 - 37;
+
+| hats =
+Blazing Helm;
+Hat of the Mirage*F2*WMV;
+Helm of the Citadel;
+Keeper's Hat of the Sage;
+Rough-Hewn Hood;
+Rugged Hood;
+Sphinx's Circlet*F2;
+Stout Hood*F2;
+Thaumaturge's Cowl of Awe;
+Threadbare Hood;
+
+| robes =
+Cloak of the Fathomable*F3*WMV;
+Diviner's Tunic of Squalls;
+Krokotopian Death Kaftan;
+Krokotopian Ice Kaftan;
+Krokotopian Kaftan*F2;
+Krokotopian Life Kaftan;
+Krokotopian Myth Kaftan;
+Necromancer's Ivory Cloak;
+Rough-Hewn Robe*F2*WMV;
+Shroud of Rationality*F5*WMV;
+Stout Robe;
+Sturdy Robe;
+Thaumaturge's Cloak of Awe*F2*WMV;
+Vest of Humidity*F4*WMV;
+Vestment of Darkness;
+
+| boots =
+Boots of the Citadel;
+Boots of the Whirlwind*F2;
+Footwraps of the Arctic;
+Necromancer's Ivory Boots*F2;
+Quixotic Boots*F7*WMV;
+Rugged Boots*F4*WMV;
+Sandals of Energy;
+Sandals of Refuge*F2;
+Sandals of Tall Tales;
+Shoes of Mortality;
+Shoes of the Desert;
+Shrewd Footwraps*F5*WMV;
+Slippers of the Oasis;
+Thaumaturge's Boots of Awe*F3*WMV;
+Vest of Humidity;
+
+| athames =
+Dagger of Downpour*F2;
+Keen-Edged Dirk*CR;
+Keeper's Blade of Runes*F2;
+Parched Kris;
+Pharaoh's Shortsword*F4;
+Whirlwind Dagger;
+
+| amulets =
+
+| rings =
+Band of the Bastion;
+Youthful Seal*CR*F3*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Krok Ice Tablet*F2*WMV;
+Krokotopia Combat Theme*F3*WMV;
+Red Floor Torch;
+
+| cards =
+Banshee (Tier 2b)*BR*F2;
+Blood Bat (Tier 2b)*BR;
+Cyclops (Tier 2b)*BR*F2;
+Dark Sprite (Tier 2b)*BR;
+Ghost Touch*F3*WMV;
+Ghoul (Tier 2b)*BR*F2*WMV;
+Giant;
+Imp (Tier 2b)*BR*F5;
+Leprechaun (Tier 2b)*BR*F2;
+Locust Swarm (Tier 2b)*BR*F2;
+Mutate Beetle (Fire);
+Nature's Wrath (Tier 2b)*BR*F3*WMV;
+Pacify;
+Scarab (Tier 2b)*BR;
+Sniper;
+Storm Shark;
+Strong;
+Sunbird;
+Tempest;
+Troll (Tier 2b)*BR*F3;
+
+| reagents =
+Brass*F3*WMV;
+Copper*F2;
+Ectoplasm*F2*WMV;
+Iron*F4*WMV;
+Lead;
+Nickel*F2*WMV;
+Pyrite*F2;
+
+| spellements =
+Banshee*BR*F3;
+Blood Bat*BR*F4*WMV;
+Cyclops*BR*F2;
+Dark Sprite*BR*F2;
+Ghoul*BR;
+Imp*BR*F3;
+Leprechaun*BR;
+Locust Swarm*BR*F2;
+Nature's Wrath*BR*F4*WMV;
+Scarab*BR*F3;
+Troll*BR*F2;
+
+| snacks =
+Green Grapes*F2*WMV;
+Nettle Root*F2*WMV;
+Tiny Fish*F2;
+
+| jewels =
+Chipped Damage Opal +4;
+Chipped Defense Peridot +13;
+Chipped Health Opal +16;
+Chipped Health Opal +20*F2;
+Cracked Accurate Jade +2%;
+Cracked Damage Citrine +4;
+Cracked Damage Ruby +6;
+Cracked Defense Citrine +10;
+Dream Shield Onyx;
+Snow Serpent Sapphire;
+Troll Peridot;
+Volcanic Shield Sapphire;
+
+| pins =
+
+| pets =
+Krokomummy*F4*WMV;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

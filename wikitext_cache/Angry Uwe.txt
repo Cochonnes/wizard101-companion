@@ -1,0 +1,112 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 14,205
+| crecla = Hamster
+| school = Balance
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+28%;
+
+| outboost =
+98%;
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+30% Fire, Ice, Storm, Shadow;
+60% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+The Spiral;
+Twisted Magic;
+
+| world = Wallaru
+| location = Hope Springs
+| subloc1 = 4th Lark
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Bladestorm;
+Loremaster;
+Locust Swarm (Tier 4a);
+Sandstorm;
+Gearhead Destroyer;
+Judgement;
+
+| quests =
+
+| gold =
+21 - 44;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Theater Poster*CR;
+
+| cards =
+Chimera*F2;
+Sirens;
+
+| reagents =
+Merle's Whisker;
+Orichalcum;
+Platinum;
+Titanium;
+Toffee Bean;
+
+| spellements =
+
+| snacks =
+Atomic Fireball;
+Cowboy Chili;
+Kiwi Fruit;
+Venison Chili;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,122 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 3,380
+| crecla = Gorilla
+| crecla2 = Undead
+| school = Fire
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Ice, Storm;
+
+| incresist =
+40% Fire
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Zafaria
+| location = Shining Mountain
+| subloc1 = 
+| descrip =
+The Gorilla Spectral Guardian is a Minion to the {{Link|Creature|Elephant Spectral Guardian}}. Though ranked as a Boss, he only has normal creature boost and resist values.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Zafaria
+| tome description =
+Using a screen of smoke, the Gorilla Spectral Guardian can cause an attacking Wizard some trouble.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*Casts {{Link|Spell|Smoke Screen (-50%)}} if a player does not cast a Charm Spell within 2 Rounds of being '''Marked''' by Elephant Spectral Guardian.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Fireblade;
+Fire Trap;
+Fire Shark;
+Meteor Strike;
+Scald;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Efreet;
+
+| quests =
+Wizard in the Mirror;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

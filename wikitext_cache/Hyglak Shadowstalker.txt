@@ -1,0 +1,153 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 880
+| crecla = Wolf
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Moonstrider Scout;
+
+| world = Grizzleheim
+| location = Mirkholm Keep
+| subloc1 = Hyglak's Cave
+| descrip =
+*Two additional Moonstrider Scouts will appear if more than two Wizards are present.
+
+| speech =
+:''"Who dares challenge me?! You'll pay for that!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Myth Damage.
+
+| casts =
+Myth Shield;
+Weakness;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Storm Serpent (155-195);
+Lightning Bats;
+Storm Shark;
+Squall Wyvern;
+Kraken;
+Banshee;
+Sunbird;
+
+| quests =
+Leaders of the Pack;
+
+| gold =
+56 - 86;
+
+| hats =
+Flaring Cap*F4*WMV;
+Hood of the Hallowed*F4*WMV;
+Poniard of the Last Rune;
+
+| robes =
+Cloak of Nephele;
+Coat of Utility;
+Coldgrave Garments;
+Flamewoven Garments*F4*WMV;
+Jerkin of the Just;
+Mythologist's Raiment*F2;
+Smock of Cinders;
+Survivalist's Tunic;
+Wrap of the Woods;
+
+| boots =
+Fountain Waders;
+Placid Boots*F3*WMV;
+Scorched Footwraps*F2;
+Winter-Soled Shoes*F3*WMV;
+
+| athames =
+Banewarden's Cutter;
+Shortblade of Valor;
+
+| amulets =
+
+| rings =
+Burnished Band;
+
+| wands =
+
+| decks =
+
+| items =
+Tanglebrush;
+
+| cards =
+Cyclops;
+Kraken;
+Mutate Beetle (Fire);
+Mutate Elf (Storm);
+Skeletal Pirate;
+Spirit Armor;
+Vampire;
+
+| reagents =
+Bone*F3;
+Bronze Gear*F2;
+Copper*F2*WMV;
+Iron;
+Nickel;
+Pyrite*F3*WMV;
+
+| spellements =
+
+| snacks =
+Candy Bar;
+Chocolate Peanut;
+Glowing Rock Candy*F2;
+Lollipop;
+Meat Soup;
+Moon Pie*F3;
+Nettle Root;
+Tasty Biscuit;
+
+| jewels =
+Chipped Mana Opal +9;
+Cracked Damage Citrine +6;
+Cracked Damage Ruby +2;
+Cracked Damage Sapphire +6;
+Ghoul Onyx;
+Glacial Shield Ruby;
+Scorpion Citrine;
+Snow Serpent Sapphire;
+Weakness Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Couch Potatoes*CR;
+Helephant Ears;
+
+| mounts =
+
+| spells =
+
+}}

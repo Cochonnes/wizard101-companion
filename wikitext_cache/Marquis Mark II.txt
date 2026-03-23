@@ -1,0 +1,109 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 6,085
+| crecla = Monquistan
+| school = Storm
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Ice, Death;
+
+| incresist =
+30% Fire, Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Halls of Taweret
+| subloc1 = Chamber of Legends
+| descrip =
+*Defeating Marquis Mark II is part of the Initiate Myth Weaving quest, ''"Archie Mastery"''. Wizards can also defeat Marquis Mark II as one of their Myth Weaving lessons, which awards the badge, [[Basic:Myth Weaving Badges|I Am Marquis Now]].
+
+| speech =
+:'''{{Link|Creature|The Mentor}}''': ''"And here is our mark at last."''
+:'''Marquis Mark II''': ''"What is this? A robbery? Whoa, that's not cool, guy. I don't go around robbing you, do I? Who even are you, you fink?"''
+:'''{{Link|NPC|Archibald Ratfink}}''': ''"Just that... just a fink. A ratfink if you will. Now, if you'll hand over the jewels."''
+:'''Marquis Mark II''': ''"Jewels... well now... I don't... I don't..."''
+:'''Archibald Ratfink''': ''"Why, what seems to be the matter?
+:'''Marquis Mark II (speaking as [[:File:(Quest) Dragon-Denier Dialogue 4.png|Fae Victus]])''': ''"I did it! I defeated them! Now, I have to get out of here."''
+:'''Archibald Ratfink''': ''"That's... not supposed to happen. What are you-"''
+:'''Marquis Mark II (speaking as [[:File:(Quest) Dragon-Denier Dialogue 11.png|Fae Victus]])''': ''"VAE VICTUS!"''
+
+| spellnotes =
+
+| casts =
+Weakness;
+Stormblade (+30%);
+Lightning Bats (Tier 2b);
+Catch of the Day (Tier 2b);
+Catalan (Tier 2a);
+Kraken (Tier 2b);
+Triton (Tier 2b);
+
+| quests =
+Archie Mastery;
+Fought the Law and What;
+
+| gold =
+7;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Rat Thief Gold Idol (Myth)*F2;
+Weft Yarn @ 60 Weft Yarn;
+Weft Yarn @ 100 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

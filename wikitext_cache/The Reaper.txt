@@ -1,0 +1,201 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 800
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Life;
+
+| incresist =
+60% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Death Whisperer;
+
+| world = Wizard City
+| location = Ravenwood
+| subloc1 = Hallowe'en Adept Tower
+| descrip =
+The Reaper is the Boss in the Adept Tower during {{Link|Basic|Hallowe'en}}.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+Seasons don't fear the Reaper, but visitors to the Hallowe'en Adept Tower probably should.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Deathblade;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Natural Attack (Wraith);
+Thunder Snake;
+Snow Serpent;
+Sunbird;
+
+| quests =
+
+| dropnotes =
+The Black Cat Treasure Card is a guaranteed drop from this Boss.
+
+| gold =
+40 - 75;
+
+| hats =
+Conventional Cap*F3*WMV;
+Cowl of Diplomacy;
+Cowl of Respect*F2*WMV;
+Cowl of the Consummate*F4*WMV;
+Cryptkeeper's Circlet;
+Cyclops Pumpkin Mask*CR*HOL;
+Debonair Cap*F2*WMV;
+Distinguished Cap*F3*WMV;
+Finely Finished Mask*F2*WMV;
+Goofy Pumpkin Mask*CR*HOL;
+Headwrap of the Affected*F5*WMV;
+Helm of Intolerance;
+Helm of the Citadel;
+Masterful Canine Cowl;
+Savvy Cap;
+Smooth Spun Hat*F2*WMV;
+Stout Hood;
+Sturdy Hood;
+Threadbare Hood;
+
+| robes =
+Distressing Garment;
+Masterful Canine Cloak;
+Powerful Vestment;
+Robe of the Bastion;
+Robe of the Mirage*F3*WMV;
+Skillful Cloak;
+Sturdy Robe;
+Theurge's Brown Cloak;
+Vest of the Desert;
+Vest of the Oasis*F2;
+
+| boots =
+Biti Nirini's Torrid Boots;
+Boots of Sparking Energy*F2*WMV;
+Boots of the Citadel;
+Cat Burglar's Shoes;
+Flowering Shoes;
+Footwraps of Dreamland*F2*WMV;
+Footwraps of the Arctic;
+Pastoral Boots*F3*WMV;
+Sandals of Energy;
+Sandals of Refuge;
+Shoes of Anxiety*F4*WMV;
+Shoes of Bottled Anger*F5*WMV;
+Shoes of Humanity*F2;
+Shoes of Mortality*F2*WMV;
+Shoes of the Breakneck*F3*WMV;
+Shoes of the Desert*F2*WMV;
+Slippers of Definition;
+Sphinx's Vestment;
+
+| athames =
+Athame of Chivalry*F2;
+Athame of the Sleuth;
+Conventional Dagger;
+Detective's Dagger;
+Dirk of Harmony;
+Dirk of Nobles;
+Parched Kris*F2*WMV;
+Whirlwind Dagger;
+
+| amulets =
+
+| rings =
+Band of Equilibrium;
+Jewel of Obliteration;
+Ring of Rejuvenation*F2;
+Sparkling Band;
+
+| wands =
+
+| decks =
+
+| items =
+Hieroglyphic Storm Tablet;
+Krok Insect Tablet*F2*WMV;
+Krok Moon Plaque*F3*WMV;
+
+| cards =
+Black Cat*F17*WMV;
+
+| reagents =
+Brass*F2;
+Iron*F2;
+Lead;
+Nickel*F2;
+Pyrite*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Cracker*F3;
+Green Grapes;
+Nettle Root*F3*WMV;
+Tiny Fish*F4*WMV;
+Wheat Cracker;
+
+| jewels =
+Chipped Defense Onyx +13;
+Chipped Health Opal +18;
+Chipped Mana Opal +12;
+Cracked Accurate Onyx +2%;
+Cracked Defense Amethyst +8;
+Cracked Defense Citrine +7;
+Cracked Health Opal +13;
+Cracked Resilient Opal +1%;
+Storm-Proof Amethyst;
+Troll Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F3;
+
+| mounts =
+
+| spells =
+
+}}

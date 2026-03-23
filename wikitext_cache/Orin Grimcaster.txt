@@ -1,0 +1,191 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 3,040
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Firerock Stomper;
+
+| world = Dragonspyre
+| location = The Crucible
+| subloc1 = Fleshless Tower
+| descrip =
+
+| speech =
+:''"You have made a terrible mistake, coming here, living one. These crystals are mine to treasure, mine to keep. You'll get my crystal when you pry it from my cold, undead hands!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+Orin Grimcaster snatched the Crystal of Battle, and protects it deep within the Fleshless Tower.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| casts =
+Weakness;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Vampire;
+Skeletal Pirate;
+Scarecrow;
+Natural Attack (Death 85x);
+Fire Elf (50+210);
+Lightning Bats;
+Ice Wyvern;
+
+| quests =
+You Call This Easy?;
+
+| gold =
+96 - 114;
+
+| hats =
+Cap of Constitution*F2;
+Cowl of Blazes*F3;
+Equalizer's Coif;
+Headdress of Refutation;
+Hood of the Historian*F2*WMV;
+Ivy-Wrapped Cap;
+Mantle of Fortitude*F3;
+Mantle of the Icicle*F2;
+Veil of Passage;
+Veil of Sleet;
+
+| robes =
+Cloak of the Seasons*F3;
+Coat of the Cryptid*F2*WMV;
+Coat of the Zephyr*F4;
+Crow's Wrap*F3*WMV;
+Drape of Symmetry*F3*WMV;
+Shibboleth Smock;
+Tunic of the Sphinx;
+
+| boots =
+Boots of Equivalence*F3*WMV;
+Boots of the Bountiful;
+Burning Boots;
+Earthrangers;
+Footgear of the North Wind;
+Footgear of the Tempest*F6*WMV;
+Frost Giant's Boots;
+Legend Walkers*F2;
+Salamander-Hide Shoes;
+Sandals of Neutrality;
+Sandals of the Squall*F2;
+Shoes of Gloom*F5*WMV;
+Slippers of the Glacier*F2;
+Slippers of the Ice Flow*F4;
+
+| athames =
+Soothing Steel;
+
+| amulets =
+
+| rings =
+Band of the Hearth;
+Ring of Dominance;
+Ring of the Forefathers*F2;
+Signet of the Reaper*F2*WMV;
+Tiny Bauble*F3*WMV;
+
+| wands =
+Grimcaster's Blade of Severity;
+
+| decks =
+Grimcaster's Doomfaring Deck*F2*WMV;
+
+| items =
+Great Spiral Glyph;
+Short Corner Wall Ruins;
+Short Pillar*F2*WMV;
+
+| cards =
+Brimstone Revenant*F3;
+Pest Zapper;
+
+| reagents =
+Bone*F5*WMV;
+Brass*F2;
+Cobalt*F4;
+Ectoplasm*F5*WMV;
+Nickel*F3;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F2;
+Goat Cheese*F4;
+Golden Grapes*F"2*WMV;
+Gummy Humongofrog*F2;
+King Banana*F2;
+
+| jewels =
+Blemished Damage Jade +12;
+Dull Accurate Onyx +6%;
+Dull Accurate Peridot +6%;
+Dull Blocking Jade +4*F2;
+Dull Blocking Opal +2;
+Dull Blocking Peridot +4;
+Dull Damage Onyx +13;
+Dull Defense Opal +13;
+Dull Health Opal +47;
+Helephant Ruby;
+Hydra Citrine;
+Ice-Giver Sapphire;
+Restorative Opal;
+Stormzilla Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fiery Boom Shroom*F3;
+King Parsley*CR;
+Maelstrom Snap Dragon*F5*WMV;
+Pink Dandelion*CR*F3*WMV;
+White Laugh-O-Dil*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

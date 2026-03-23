@@ -1,0 +1,209 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 600
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Life;
+
+| incresist =
+20% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Vault Haunter;
+
+| world = Krokotopia
+| location = The Vault of Ice
+| descrip =
+*Two additional Vault Haunters will appear if more than two Wizards are present.
+
+| speech =
+:''"Fair is foul, and foul is fair. Try and take this Fang if you so dare..."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+So protective of the Fang, she never lets it out of her sight, but never touches it either.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Weakness;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Natural Attack (Death 85x);
+Lightning Bats;
+Evil Snowman;
+Cyclops;
+
+| quests =
+Breaking the Vault;
+Need Some Soul;
+
+| gold =
+17 - 48;
+
+| hats =
+Bitter Cap*F2;
+Blazing Helm;
+Cryptkeeper's Circlet;
+Destructive Cowl;
+Diviner's Hat of Squalls;
+Hat of the Mirage*F2*WMV;
+Headwrap of Annihilation;
+Helm of the Citadel*F2;
+Rough-Hewn Hood;
+Sphinx's Circlet*F2;
+Sturdy Hood;
+Thaumaturge's Cowl of Awe*F2*WMV;
+Theurge's Hat*F2*WMV;
+Threadbare Hood;
+
+| robes =
+Cloak of Harmony;
+Krokotopian Death Kaftan;
+Krokotopian Ice Kaftan;
+Krokotopian Kaftan*F3;
+Necromancer's Ivory Cloak;
+Powerful Vestment;
+Robe of the Bastion*F4;
+Robe of the Mirage;
+Robe of the Oracle;
+Shroud of Rationality;
+Sphinx's Vestment;
+Thaumaturge's Cloak of Awe;
+Theurge's Brown Cloak;
+Vest of the Desert*F4*WMV;
+Vest of the Oasis;
+Vestment of Darkness;
+Vestment of Ignition*F3;
+Vestment of the Arctic;
+
+| boots =
+Biti Nirini's Torrid Boots;
+Boots of Talent;
+Boots of the Bastion;
+Boots of the Citadel;
+Boots of the Whirlwind;
+Flowering Shoes;
+Footwraps of the Arctic*F2;
+Overseer's Shoes;
+Sandals of Energy;
+Sandals of Refuge;
+Sandals of Tall Tales*F2;
+Shoes of Mortality*F2*WMV;
+Shoes of the Desert;
+Slippers of the Oasis*F2*WMV;
+
+| athames =
+Dirk of Harmony;
+Parched Kris*F2;
+Whirlwind Dagger;
+
+| amulets =
+
+| rings =
+Band of Equilibrium;
+Band of the Skies;
+Flowering Band;
+Jewel of Obliteration;
+Loop of Quietude;
+Loop of the Defender;
+Ring of the Badlands;
+Sparkling Band;
+
+| wands =
+
+| decks =
+
+| items =
+Hieroglyphic Ice Tablet*F2*WMV;
+Krok Insect Plaque;
+Krok Moon Plaque;
+Krok Skull Plaque;
+Raised Storm Sarcophagus;
+Wrapped Long Bench;
+
+| cards =
+Accurate;
+Blizzard;
+Ghost Touch*F4*WMV;
+Humongofrog;
+Meteor Strike;
+Sprite;
+Storm Shark;
+
+| reagents =
+Copper;
+Ectoplasm;
+Iron*F4*WMV;
+Lead;
+Nickel;
+Parchment;
+Pyrite*F3*WMV;
+
+| spellements =
+
+| snacks =
+Cracker*F3*WMV;
+Green Grapes*F3*WMV;
+Nettle Root*F4;
+Redskin Peanut;
+Square Watermelon;
+Stinky Cheese;
+Tiny Fish*F2*WMV;
+
+| jewels =
+Chipped Defense Peridot +13;
+Chipped Health Opal +17*F2;
+Cracked Accurate Citrine +2%;
+Cracked Damage Amethyst +6;
+Cracked Damage Jade +6;
+Cracked Damage Ruby +6;
+Fire Elf Ruby*F2*WMV;
+Lightning Bats Amethyst;
+Mute Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Pink Dandelion*CR*F3;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,107 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 1
+| crecla = Undead
+| school = Star
+| masteries =
+Fire;
+Ice;
+
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+25%;
+
+| outboost =
+120%;
+
+| incboost =
+5% Storm;
+
+| incresist =
+65% Fire, Ice;
+70% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = The Catacombs
+| subloc1 = Crannoc Dorcha
+| descrip =
+The Renegade Druid (Star) is a Minion to {{Link|Creature|Renegade Druid}}.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Brace;
+Tower Shield (-55%);
+Legion Shield (-35%);
+Fire Prism;
+Fire Trap;
+Ice Prism;
+Ice Trap;
+Storm Prism;
+Myth Trap;
+Stun;
+Natural Attack (Star 105-210-315-420);
+Rain of Fire (330+880);
+Frost Giant (530);
+Snow No Mercy;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

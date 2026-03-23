@@ -1,0 +1,163 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,490
+| crecla = Crab
+| school = Life
+| startpips = 4
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Death;
+
+| incresist =
+35% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Crustacean Clawcutter;
+Crustacean Clawcutter;
+Crustacean Clawcutter;
+
+| world = Celestia
+| location = Crustacean Empire
+| subloc1 = Nellek's Sanctum
+| descrip =
+This Crustacean claims to be a Senator. But is he being honest?
+
+| speech =
+:''"You believed him, eh? Oh well... I'm afraid I can't allow any witnesses to my crime!"''
+
+| spellnotes =
+
+| casts =
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Lifeclops;
+Nature's Wrath;
+Life Banshee (250);
+Seraph;
+Centaur;
+Natural Attack (Life 85x);
+
+| quests =
+Quick Change;
+
+| gold =
+58 - 120;
+
+| hats =
+Celestian Cinder Helm;
+Celestian Tempest Helm;
+Curious Mask;
+Drafty Cap;
+Ember Helm;
+Frost Giant's Helm*F2;
+Frozen Hat;
+Gravedigger's Helm;
+Helm of Celestian Totality*F2;
+Helm of Equilibrium*F2*WMV;
+Versatile Veil;
+Wintery Veil;
+
+| robes =
+Incendiary Armor*F2;
+Innocent Outfit;
+Rime Raiment*F2*WMV;
+Torched Tunic*F2*WMV;
+
+| boots =
+Balanced Boots;
+Chaos Greaves*F2;
+Frozen Frostwalkers;
+Lightning Riders;
+Pandemonium Stalkers*F2;
+Vital Footwear;
+
+| athames =
+Dancing Dirk;
+Dirk of the Deluge*F2;
+Living Claw;
+Razor of Rapture*F2*WMV;
+
+| amulets =
+Nellek's Regenerating Jewel*F3*WMV;
+Windstorm Choker;
+
+| rings =
+Band of Bliss;
+Circle of Life;
+Nellek's Willow Ring*F3*WMV;
+Polar Ring*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Tube Coral*F4*WMV;
+
+| cards =
+Accurate*F2;
+Amplify*F4*WMV;
+Banshee;
+Dragonflies;
+Fortify;
+Giant*F3*WMV;
+Keen Eyes;
+Meteor Strike;
+Sprite;
+Storm Shark;
+Wyldfire;
+
+| reagents =
+Bronze*F2*WMV;
+Lead;
+Nickel;
+Scales*F4*WMV;
+Steel*F2*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Delicious Cookie*F3*WMV;
+Glowing Star Fruit*F2*WMV;
+Glowing Taffy*F2*WMV;
+Strawberry Cupcake*F2;
+Submarine Sandwich;
+
+| jewels =
+Dull Critical Peridot +3;
+Dull Defense Citrine +26;
+Plain Damage Onyx +15;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Maelstrom Snap Dragon*F2;
+Pink Dandelion*CR*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

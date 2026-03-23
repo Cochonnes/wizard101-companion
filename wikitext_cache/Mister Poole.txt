@@ -1,0 +1,93 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 4,340
+| crecla = Cat
+| school = Fire
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Marleybone
+| location = Barkingham Palace
+| subloc1 = Royal Airship
+| descrip =
+All drops and tag team cheats should be recorded on {{Link|Creature|Mister Utterson}}'s page.
+
+| spellnotes =
+
+| casts =
+Glacial Shield;
+Smoke Screen;
+Fireblade;
+Fire Trap;
+Fuel;
+Wyldfire;
+Brimstone Revenant;
+Natural Attack (Fire 120-235-350);
+Meteor Strike;
+Scald;
+Phoenix;
+Magma Man;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,291 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 9,180
+| crecla = Nimbari
+| school = Death
+| school2 = Storm
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+173 Any;
+
+| criticalblock =
+198 Any;
+
+| outpierce =
+22%;
+
+| outboost =
+100%;
+
+| incboost =
+5% Myth, Life;
+
+| incresist =
+70% Storm, Death;
+
+| outhealing =
+
+| inchealing =
+45%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| summons =
+Giles;
+
+| world = Empyrea
+| location = Nimbus Citadel
+| subloc1 = New School of Magic
+| descrip =
+*In the Quest dialogue, Exemplar Commander is called Exemplar Anthea.
+*During the first encounter with this Boss, Giles is spawned in as a Minion by the Quest Dialogue. Commander Exemplar will not cast her summon spell as Giles is already in combat.
+
+| speech =
+:''"Good work, Technologist Giles, you led the Shadow Wizard right into our trap. Is that what made you adopt Shadow Magic, Wizard, the force that bends reality, that feeds chaos and obscures the creation of Raven? I don't care what you've done or what anyone says. You wield the power of our enemy, so you are our enemy. The Justicaria are the light that pierces the darkness. We cannot stop until all darkness is destroyed."''
+
+| cheatnotes =
+*{{Icon|Late}} If a Wizard joins late, Exemplar Commander casts {{Link|Spell|Bad Juju (Shadow)}} on the Wizard.
+*{{Icon|Minion}} At the start of combat, Exemplar Commander casts a Shadow Spell to summon Giles.
+
+| spellnotes =
+*Casts a protected Weakness.
+*Casts a protected Deathblade (+40%), Stormblade (+30%), and Bladestorm.
+
+| casts =
+Galvanic Field (6 Rounds);
+Virulence;
+Weakness;
+Deathblade (+40%);
+Stormblade (+30%);
+Bladestorm;
+Feint (All Enemies);
+Natural Attack (Death 105-210-315, 80%);
+Deer Knight;
+Headless Horseman;
+Scarecrow;
+Wild Bolt;
+Natural Attack (Storm 125-250-375, 65%);
+Catalan;
+
+| quests =
+That New Black Magic;
+
+| gold =
+154 - 181;
+
+| hats =
+
+| robes =
+Hopeful Zanadu Armor;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+Hopeful Zanadu Band;
+Illuminated Zanadu Band;
+Verdant Zanadu Band;
+
+| wands =
+Freezing Zanadu Lance;
+Grim Zanadu Lance;
+Verdant Zanadu Lance*F2;
+
+| decks =
+
+| items =
+Aero Dwarf Blue Vase;
+Aero Dwarf Potted Plant*F2;
+Empyrea Aero Plains Theme;
+Empyrea Husk Combat;
+Empyrea Husk Storm Combat;
+Kalamar Side Table;
+Wide Kalamar Vase;
+
+| cards =
+Cyclops;
+Death Prism;
+Elemental Defuse;
+Elemental Spear;
+Fable Lord;
+Humongofrog;
+Kraken;
+Life Prism;
+Lord of the Squall;
+Mass Death Prism;
+Mass Storm Prism;
+Mega Soothe;
+Mega Subdue*F2;
+Mutate Bats (Fire);
+Mutate Kraken (Sun);
+Mutate Monster (Ice);
+Mutate Phoenix (Storm)*F2;
+Mutate Snowman (Fire);
+Mutate Sprite (Death);
+Mutate Swarm (Ice)*F2;
+Mutate Wyvern (Fire);
+Myth Prism;
+Oni No Jade;
+Oni No Plague;
+Storm Prism;
+
+| reagents =
+Aether*F3;
+Agave Leaves*F2;
+Agave Nectar;
+Amber*F2;
+Amber Dust;
+Ancient Scroll;
+Antique Coins;
+Aquamarine*F5;
+Astral Shard*F2;
+Blood Moss*F3;
+Braided Vine;
+Brass*F3*WMV;
+Bronze Gear;
+Cobalt;
+Ectoplasm;
+Fire Blossom*F2;
+Fish Fin*F2*WMV;
+Flying Squid Ink*F4;
+Glass Sliver;
+Golden Pearl*F3*WMV;
+Merle's Whisker;
+Mithril*F5;
+Nickel*F2;
+Orichalcum;
+Scales*F4;
+Silver*F5*WMV;
+Spider Silk;
+Spring;
+Stardust;
+Steel*F4*WMV;
+Stone Block;
+Sunstone*F5;
+Tin;
+Titanium*F2;
+Tungsten*F3;
+Turquoise;
+Vine*F3;
+
+| spellements =
+
+| snacks =
+Athame Pop*F2;
+Beast Wellington*F3;
+Berry Poundcake;
+Boiled Spider Legs;
+Crackle Jacks Cereal;
+Dastardly Radish;
+Discord Grape Jelly*F2;
+Dr. Jalapeno;
+Dragon Fruit;
+Eye Candy;
+Glowing Taffy;
+Hero Sandwich*F3*WMV;
+Hot Cross Buns*F2;
+Jolly Rancher;
+Killer Tomato*F2;
+Lollipop;
+Pyramints*F3;
+Radioactive Pizza;
+Redskin Peanut;
+Rock and Roll Candy*F2;
+Salmon Joy*F2;
+Satyr Chow*F4*WMV;
+Spicy Drumstick;
+Sprinkle Cupcake*F2*WMV;
+Wheat Cracker;
+
+| jewels =
+Headless Horseman Onyx;
+Shiny Accurate Amethyst +12%;
+Shiny Accurate Citrine +12%;
+Shiny Accurate Onyx +12%;
+Shiny Accurate Sapphire +12%*F2;
+Shiny Blocking Citrine +15;
+Shiny Blocking Sapphire +15;
+Shiny Critical Amethyst +15;
+Shiny Critical Peridot +15;
+Shiny Damage Amethyst +25;
+Shiny Damage Citrine +25;
+Shiny Damage Ruby +25;
+Shiny Defense Ruby +50;
+Shiny Health Opal +108;
+Shiny Mana Opal +45;
+Sparkling Blocking Ruby +18;
+Sparkling Critical Citrine +18;
+Sparkling Critical Jade +18;
+Sparkling Critical Ruby +17;
+Sparkling Critical Ruby +18;
+Sparkling Damage Jade +28;
+Sparkling Defense Amethyst +55;
+Sparkling Defense Hematite +55;
+Sparkling Defense Jade +56;
+Sparkling Defense Onyx +56;
+Sparkling Defense Peridot +56;
+Sparkling Defense Ruby +56;
+Sparkling Health Opal +116;
+Sparkling Health Opal +123;
+Sparkling Health Opal +124;
+Sparkling Health Opal +125;
+Sparkling Mana Opal +50;
+Sparkling Mana Opal +51;
+Sparkling Mana Opal +52;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak;
+Angora Bunny Ears*F2;
+Bamboo Shoots;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts;
+Boom Shroom;
+Boon Tree*CR;
+Bread Fruit Bush*F2;
+Clockwork Flower*F2;
+Cornbread Fruit Bush;
+Couch Potatoes*CR*F3;
+Deadly Fly Trap;
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Golden Couch Potatoes;
+Grapes of Wrath*CR;
+Ivy League*CR;
+King Parsley*CR;
+Maelstrom Snap Dragon;
+Orange Dandelion*F3;
+Prickly Bear Cactus;
+Purple Grapes of Wrath;
+Queen Crape Myrtle;
+Red Grapes of Wrath;
+Red Huckleberries;
+Snow Apples;
+Sour Fickle Pickle;
+Sword Fern*CR;
+Sugar Khrystal*CR;
+Trumpet Vine;
+Ultra Dandelion;
+Ultra Helephant Ears;
+Venus Fly Trap;
+White Desparagus;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

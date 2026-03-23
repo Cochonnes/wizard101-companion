@@ -1,0 +1,365 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 14,000
+| crecla = Wizard
+| school = Death
+| school2 = Balance
+| cheats = Yes
+| shadowslots = 1
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+5%;
+
+| outboost =
+50%;
+
+| incboost =
+5% Myth;
+35% Life;
+
+| incresist =
+35% Death;
+40% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Ossuary Conscript;
+Ossuary Conscript;
+Ossuary Conscript;
+
+| world = Mirage
+| location = Alkali Barrows
+| subloc1 = Overlord's Ossuary
+| lootchest = Xerxes Chest
+| descrip =
+*Overlord Xerxes' Health starts at 4,000.
+
+| speech =
+:''"Wait! We have another guest who's joined us... an uninvited guest... someone upon whom I can freely vent my frustrations!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Another intruder! Interesting"'' - If a Wizard joins after the duel has started, then Overlord Xerxes will cast a version of Steal Health on the Wizard, which deals 1,596 Damage and Pierces through all Resist, healing him for 100% of the Damage.
+*{{Icon|Steal}} ''"All right, no more playing around"'' - At the beginning of Round 1, he will cast an enhanced version of Steal Health on all of his Minions, dealing 9,378 Damage to each them and healing Xerxes for 100% of the Damage.
+**If a Minion has the first position, then the Minion will not be sacrificed.
+**If no Minions are present, Xerxes will cast a version of Blessing on himself that restores 10,000 Health.
+*{{Icon|Feint}} ''"Your modern tactics are weak"'' - If a {{Link|Spell|Feint}} is placed on Xerxes or a Minion, he will cast {{Link|Spell|Sacrifice (Death)}} on himself.
+**{{Link|ItemCard|Mass Feint}} will trigger this cheat.
+*{{Icon|Blade}} ''"Let's see how you handle this"'' - If a Wizard casts a Blade Spell, he will cast a Steal Charm (Star) that steals all Blades from all Wizards.
+**Global Spells will trigger this cheat.
+**Pet casts will trigger this cheat.
+**{{Link|Spell|Aegis}} can be used to protect your Blades once. Casting a second Charm will cause Xerxes to remove the first Charm.
+
+| spellnotes =
+*Uses Pip Conversion.
+*Casts an all-enemies version of Curse (95%).
+
+| casts =
+Adapt;
+Magnify;
+Curse (95%);
+Feint (All Enemies);
+Death Scarab (Death);
+Natural Attack (Death 110-220-330, 80%);
+Vampire (375);
+Call of Khrulhu;
+Wraith (575);
+Locust Swarm (285-345);
+Spectral Blast (505-420-635);
+Gaze of Fate;
+Power Nova (530);
+Chimera (375);
+Sabertooth;
+
+| quests =
+Xerxes' Wrath;
+Overlord's Ossuary;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' Badge and has not unlocked the '''[[Basic:Empyrea Badges|Hero of Light and Shadow]]''' Badge, the following drops will be available:
+*8 Spellements will drop each time from '''any''' School for their respective rank 9, 10, King Artorius, Polaris, and Mirage Spells.
+
+| gold =
+327 - 441;
+
+| hats =
+Djinn Ghutrah of Flux;
+Mongu Kabalak of Frenzy;
+Mongu Kabalak of Tantrums;
+Nomad's Frostdune Torboosh;
+
+| robes =
+Mongu Vestment of Honor;
+Nomad's Frostdune Thobe;
+Nomad's Thobe of Praxis;
+Nomad's Thobe of Redress;
+Nomad's Thobe of Tenacity;
+
+| boots =
+Djinn Slippers of Darkness*F2;
+Djinn Slippers of Flux;
+Mongu Givehs of Ages;
+Mongu Givehs of Umbrage;
+Nomad's Frostdune Striders;
+
+| athames =
+Djinn Khanjar of Radiance;
+Djinn Khanjar of Sparks;
+Fang Dirk of Tantrums;
+
+| amulets =
+Djinn Amulet of Durability;
+Djinn Amulet of Flux;
+Djinn Pendant of Reverie*F3*WMV;
+Djinn Pendant of Swells;
+Djinn Pendant of Vim;
+Djinn Pendant of Wintertide*F2;
+Fang Collar of Frenzy;
+Fang Collar of Frostfall*F2;
+
+| rings =
+Djinn Loop of Invention;
+Djinn Loop of Swells;
+Djinn Loop of Vim;
+Djinn Signet of Durability;
+Djinn Signet of Flux;
+Immaculate Djinn Signet;
+
+| wands =
+Frosty Purrzian Axe & Shield*F2*WMV;
+Purrzian Bow of Sandstorms;
+Smoky Purrzian Axe & Shield*F2*WMV;
+Sturdy Purrzian Axe & Shield;
+Wise Purrzian Axe & Shield;
+
+| decks =
+Djinn Array of Justice;
+Djinn Array of Swells;
+Djinn Array of Wintertide;
+Djinn Cards of Flux;
+Djinn Cards of Patience;
+Fang Deck of Ages;
+Fang Deck of Force;
+Fang Deck of Honor;
+Fang Deck of Tantrums;
+
+| items =
+Mirage Canyon Combat Theme;
+Mirage Caravan Theme;
+Mirage Chronoverge Theme;
+Mirage City Tense Theme;
+Mirage City Theme;
+Mirage Den of Thieves Theme;
+Mirage Desert Canyons Theme;
+Mirage Jungle Combat Theme;
+Mirage Jungle Theme;
+
+| cards =
+Age of Reckoning;
+Ashen Bones*F2;
+Combustion;
+Counterforce;
+Death Helephant (345-405);
+Frostfang;
+Helephant;
+Mass Ice Prism;
+Mutate Helephant (Storm);
+Namaste;
+Nested Fury;
+Raging Bull;
+Rusalka's Wrath;
+Snowball Barrage*F3;
+Steel Giant;
+
+| reagents =
+Aether*F7*WMV;
+Agave Leaves*F2*WMV;
+Agave Nectar*F2;
+Amber;
+Amber Dust*F5*WMV;
+Ancient Scroll*F6*WMV;
+Antique Coins*F5*WMV;
+Aquamarine*F5*WMV;
+Astral Shard*F6*WMV;
+Black Pearl*F4*WMV;
+Blood Moss*F6*WMV;
+Braided Vine*F2*WMV;
+Brass*F3*WMV;
+Bronze Gear*F5*WMV;
+Cobalt*F6*WMV;
+Draconium;
+Ectoplasm*F2;
+Fire Blossom*F4*WMV;
+Golden Pearl*F11*WMV;
+Iridium*F2;
+Merle's Whisker;
+Mithril;
+Nickel*F8*WMV;
+Scales*F6*WMV;
+Silver*F3*WMV;
+Spider Silk*F5*WMV;
+Spring*F4*WMV;
+Steel*F3*WMV;
+Sunstone*F3*WMV;
+Tin*F3*WMV;
+Titanium*F5*WMV;
+Tungsten*F7*WMV;
+Turmeric*F2*WMV;
+Turquoise*F8*WMV;
+Vine*F2;
+
+| spellements =
+Celestial Calendar*BR;
+Climaclysm*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Lamassu*BR;
+
+| snacks =
+Beast Wellington*F2;
+Beetle Cream Soda;
+Chalupacabra*F2*WMV;
+Chili Cheese Fries*F3*WMV;
+Chili Peppers*F3*WMV;
+Delicious Cookie*F2;
+Eye Candy*F2*WMV;
+French Fries*F3*WMV;
+Gourmet Yogurt*F2*WMV;
+Hard Boiled Beetle Eggs*F3*WMV;
+Hot Cross Buns*F4*WMV;
+Huge Ice Cream*F2;
+Mustachios*F3*WMV;
+Satyr Chow;
+Ships 'n' Queso*F4;
+Sprinkle Cupcake*F2;
+Submarine Sandwich;
+Super Cold Popsicle*F2*WMV;
+Veggie Juice*F4*WMV;
+
+| jewels =
+Lustrous Accurate Amethyst +11%;
+Lustrous Accurate Citrine +11%;
+Lustrous Accurate Onyx +11%*F2;
+Lustrous Accurate Ruby +11%;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Amethyst +13;
+Lustrous Blocking Citrine +13*F2;
+Lustrous Blocking Jade +13;
+Lustrous Blocking Onyx +13;
+Lustrous Blocking Sapphire +13;
+Lustrous Blocking Peridot +13;
+Lustrous Critical Citrine +13*F2*WMV;
+Lustrous Critical Onyx +13;
+Lustrous Critical Peridot +13*F2*WMV;
+Lustrous Critical Ruby +13;
+Lustrous Critical Sapphire +13*F3*WMV;
+Lustrous Damage Jade +23;
+Lustrous Damage Onyx +23*F2*WMV;
+Lustrous Damage Sapphire +23;
+Lustrous Defense Amethyst +45*F2;
+Lustrous Defense Citrine +45;
+Lustrous Defense Ruby +45;
+Lustrous Defense Sapphire +45;
+Lustrous Health Opal +96*F2*WMV;
+Lustrous Health Opal +100*F2;
+Lustrous Mana Opal +41*F3*WMV;
+Lustrous Mana Opal +42*F3;
+Lustrous PIP Opal +10%*F3*WMV;
+Magnify Opal;
+Shiny Blocking Onyx +16;
+Shiny Blocking Peridot +16;
+Shiny Blocking Ruby +16;
+Shiny Critical Citrine +16;
+Shiny Critical Jade +16*F2*WMV;
+Shiny Critical Onyx +16;
+Shiny Critical Ruby +16;
+Shiny Damage Sapphire +26;
+Shiny Defense Amethyst +52*F2;
+Shiny Defense Citrine +52*F2;
+Shiny Defense Hematite +51;
+Shiny Defense Jade +51*F3;
+Shiny Defense Sapphire +52;
+Shiny Health Opal +113;
+Shiny Health Opal +114;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47;
+
+| pins =
+
+| pets =
+MaCaw*CR*F2*WMV;
+
+| seeds =
+Alligator Pear Tree*F2;
+Angora Bunny Ears*F4*WMV;
+Baby Carrots*F4*WMV;
+Bamboo Shoots;
+Bell Pepper*F3*WMV;
+Blue Huckleberries*F2;
+Boiled Peanuts*F5*WMV;
+Boom Shroom;
+Boon Tree*CR;
+Bread Fruit Bush*F4;
+Burning Snap Dragon*F2*WMV;
+Cornbread Fruit Bush*F4*WMV;
+Couch Potatoes*CR*F3*WMV;
+Dandelion;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Evil Magma Peas*CR;
+Face Palm*F2;
+Fickle Pickle;
+Fiery Boom Shroom*F2;
+Fish on a Vine*F5*WMV;
+Golden Couch Potatoes*F5*WMV;
+Goose Tree;
+Grapes of Wrath*CR*F6*WMV;
+Green Snow Apples;
+Helephant Ears;
+Honey Bee Plant;
+Honey Sickle;
+Ivy League*CR*F3*WMV; 
+Laugh-O-Dil;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Missile Toe;
+Ninja Fig*CR;
+Orange Bell Pepper*CR*F2*WMV;
+Orange Dandelion;
+Pink Huckleberries*F3*WMV;
+Prickly Bear Cactus*F3*WMV;
+Purple Grapes of Wrath*F3;
+Red Couch Potatoes*F5*WMV;
+Red Grapes of Wrath;
+Red Huckleberries*F4;
+Silver Trumpet Vine*CR;
+Snow Apples*F2*WMV;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Sunion*CR;
+Tiger Lily (Seed);
+Trumpet Vine;
+Venus Fly Trap;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

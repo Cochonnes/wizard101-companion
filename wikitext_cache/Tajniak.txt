@@ -1,0 +1,270 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,240
+| crecla = Polar Bear
+| school = Life
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+2%;
+
+| outboost =
+40%;
+
+| incboost =
+15% Death;
+
+| incresist =
+50% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Jawniak;
+
+| world = Polaris
+| location = River of Frozen Tears
+| subloc1 = Sunless Shrine
+| descrip =
+All drops should be recorded on this page.
+
+| speech =
+:'''Tajniak:''' ''"Look, I'm going to tell it to you straight, my brother is the one who cannot be honest."''
+:'''{{Link|Creature|Jawniak}}:''' ''"That's not true. He's the liar. I would never deceive you."''
+:'''Tajniak:''' ''"I'll tell you this much, if you asked him, he'd tell you that I'm the one with poisoned claws."''<br><br>
+
+| monstrology =
+{{Monstrology Info
+| tome world = Polaris
+| tome description =
+Tajniak's signature style caused great torment when he was in school.  Now that style is considered hipster.
+
+| extract class =
+Polar Bear;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*The goal of this battle is to defeat the untruthful bear before the honest bear. ''Jawniak is the liar.''
+*This Boss will shout statements about Jawniak's attacks every few Rounds.
+*Jawniak will shout statements about Tajniak's attacks every few Rounds.
+
+'''Tajniak'''
+*{{Icon|Charm}} Tajniak will always cast Cloaked versions of positive [[:Category:Charm Spells|Charms]].
+*{{Icon|Feint}} ''"Why don't we trade!"'' - If a {{Link|Spell|Feint}} is placed on Tajniak, he will cast an Ice version of {{Link|Spell|Swap Ward}} that switches the [[:Category:Trap Spells|Traps]] between himself and the caster.
+**{{Link|Spell|Melt}} can be used to dispel this cheat.
+**{{Link|Spell|Mass Feint (+75%)}} will not trigger this cheat.
+'''Jawniak'''
+*{{Icon|Curse}} Jawniak will always cast Cloaked versions of negative [[:Category:Charm Spells|Charms]].
+*{{Icon|Afterlife}} If Tajniak is defeated first, Jawniak will cast {{Link|Spell|Poison}} on the Wizard in the first position, and then detonate it immediately for ~33,000 Death Damage.
+**Every Round, he will cast Poison on another Wizard, going in order of battle position.
+**Fleeing or porting will not stop this cheat.
+
+| spellnotes =
+*This Creature's Brilliant Light (Cloaked) is a single target Spell.
+
+| casts =
+Cloak;
+Spirit Armor;
+Brilliant Light (Cloaked);
+Rebirth;
+Lifeblade (Cloaked);
+Luminous Weaver;
+Natural Attack (Life 105-205-305);
+Hungry Caterpillar;
+Centaur;
+
+| quests =
+Trial of Wisdom;
+
+| gold =
+420 - 1,006;
+
+| hats =
+Evoker's Brim of Acuity;
+Evoker's Brim of Squalls;
+Evoker's Forlorn Brim;
+Evoker's Gallant Brim;
+Evoker's Gelid Brim;
+Evoker's Stalwart Brim*F2;
+The Warlock*CR;
+
+| robes =
+Evoker's Cloak of Squalls*F2*WMV;
+Evoker's Forlorn Robes;
+Evoker's Gallant Drape;
+Evoker's Garb of Embers;
+Evoker's Stalwart Cloak*F2*WMV;
+
+| boots =
+Evoker's Boots of Squalls;
+Evoker's Ember Walkers;
+Evoker's Forlorn Stalkers;
+Evoker's Gelid Striders;
+Evoker's Stalwart Footgear;
+
+| athames =
+Bleaks Cutter of Despair;
+Bleaks Cutter of Pyres;
+Bleaks Dagger of Frost;
+Bleaks Dagger of Vigor;
+Bleaks Dirk of Mischief;
+Bleaks Knife of Snowstorms;
+
+| amulets =
+Bleaks Ampul of Pyres*F3*WMV;
+Bleaks Amulet of Frost;
+Bleaks Choker of Despair;
+Bleaks Medallion of Vigor*F3;
+Bleaks Pendant of Mischief;
+Bleaks Torc of Snowstorms;
+Noble Strand of the Bleaks;
+
+| rings =
+Bleaks Band of Snowstorms;
+Bleaks Circle of Pyres;
+Bleaks Loop of Vigor*F4*WMV;
+
+| wands =
+Kossack Saber of Chills;
+Kossack Sword of Travail;
+Radiant Kossack Sword;
+Tundarian Iceblade;
+
+| decks =
+Kossack Array of Travail*F2;
+Kossack Parcel of Redress*F2;
+Kossack Set of Radiance;
+Kossack Spread of Chills*F2*WMV;
+Kossack Stack of Purpose*F3;
+
+| items =
+Arcanum Theme;
+Large Keeper Aquarium;
+Large Small Fry Aquarium;
+Large Whopper Aquarium;
+Polaris Baba Yaga Theme;
+Polaris Frozen Combat Theme;
+Polaris Frozen Forest Theme;
+Polaris Gulag Combat Theme;
+Polaris Gulag Theme*F3;
+Polaris Ice Block Theme*F3;
+Polaris Mine Combat Theme;
+Polaris Mine Theme;
+Polaris Opera Theme*F2;
+Polaris Rasputin Combat Theme*F3;
+Regular Keeper Aquarium;
+Tall Keeper Aquarium;
+Tall Small Fry Aquarium*F2;
+Tall Whopper Aquarium;
+Walruskberg Combat Theme*F3;
+Walruskberg Liberated Theme;
+Walruskberg Theme*F2;
+
+| cards =
+Combustion;
+Frostfang;
+Mutate Banshee (Life);
+Mutate Beetle (Fire);
+Mutate Cat (Ice);
+Mutate Colossus (Fire);
+Mutate Colossus (Storm);
+Mutate Elf (Ice);
+Mutate Kraken (Fire);
+Mutate Kraken (Sun);
+Mutate Phoenix (Ice)*F2;
+Mutate Snake (Ice);
+Mutate Snowman (Fire);
+Mutate Snowman (Storm);
+Mutate Wyvern (Fire);
+Namaste;
+Saga of Heroes;
+
+| reagents =
+Aether*F2;
+Agave Leaves*F2*WMV;
+Amber;
+Amber Dust*F4*WMV;
+Aquamarine*F5*WMV;
+Astral Shard*F3*WMV;
+Fish Fin*F3*WMV;
+Golden Pearl*F4*WMV;
+Mithril;
+Scales*F2*WMV;
+Silver*F9*WMV;
+Steel*F4*WMV;
+Sunstone*F4*WMV;
+Tungsten*F4*WMV;
+Turquoise*F3*WMV;
+Vine*F3;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Beast Wellington*F3*WMV;
+Chalupacabra*F3*WMV;
+Deepwater Toffee;
+Eye Candy*F3;
+High Road Haggis;
+Hot Cross Buns*F2;
+Mustachios*F3*WMV;
+Polaris Fries*F3*WMV;
+Satyr Chow*F3*WMV;
+Ships 'n' Queso;
+Snow Apple Cider;
+Veggie Juice;
+
+| jewels =
+
+| pins =
+
+| pets =
+Arctic Ninja Pig*CR;
+Intrepid Seal Pup*F2*WMV;
+Nodori Winged Ram*CR;
+Polar Bear Cub*CR;
+White Winter Owl;
+
+| seeds =
+Angel Oak*F5;
+Burning Snap Dragon*F3*WMV;
+Cornbread Fruit Bush*F4;
+Evil Snow Peas*F4*WMV;
+Face Palm*F3*WMV;
+Fish on a Vine*F2*WMV;
+Frozen Fly Trap*F2;
+Goose Tree*F3*WMV;
+Green Snow Apples*F5*WMV;
+King Parsley*CR;
+Maelstrom Snap Dragon*F5*WMV;
+Moon Flower*F2;
+Purple Snow Apples*F3*WMV;
+Queen Crape Myrtle*F4*WMV;
+Snap Dragon*F4*WMV;
+Snow Apples;
+Ultra Snap Dragon*F2;
+Ultra Snow Apples*F2;
+
+| mounts =
+
+| spells =
+
+}}

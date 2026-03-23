@@ -1,0 +1,196 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 19,230
+| crecla = Shadow Weaver
+| school = Balance
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+15%;
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Leaf Shield
+
+| world = Khrysalis
+| location = Silent Market
+| subloc1 = LimeBlight's Lair
+| descrip =
+Wizards confront Vekan LimeBlight during the Quest, For All the Tea.<br/>Two additional {{Link|Creature|Painted Spider}}s appear if more than two Wizards are present.
+
+| speech =
+:''"You want some Tea?  Who told you I had some?  They are lying liars who lie!  I won't give you a leaf.  Not that I have any!"''
+
+| spellnotes =
+
+| casts =
+Infallible;
+Vengeance;
+Black Mantle;
+Availing Hands (85+870);
+Balanceblade;
+Hex;
+Mana Burn (-4 Pips);
+Natural Attack (Balance 155-250-345);
+Samoorai;
+Power Nova;
+Sabertooth;
+Judgement;
+
+| quests =
+For All the Tea;
+
+| gold =
+133 - 167;
+
+| hats =
+Burrower's Barbed Helmet;
+Burrower Coronet of Strife*F8*WMV;
+Digger's Helm of Symmetry*F11*WMV;
+
+| robes =
+Battle-Worn Burrower Armor;
+Kermes Fire Miner's Tunic;
+Mantis Plate of Frostfall*F2*WMV;
+
+| boots =
+
+| athames =
+Sky Terror's Ghastly Razor*F3;
+Stiletto of the Vespula*F2;
+
+| amulets =
+Mouse Revenant's Talisman*F4*WMV;
+Stinger's Carcanet*F3;
+ToeBiter's Cursed Relic*F5;
+
+| rings =
+Digger Captain's Ring*F9*WMV;
+Stone of the Huntress*F7*WMV;
+
+| wands =
+Fang of the Burning Spider*F3*WMV;
+Lance of Chill Ichor;
+Lance of the Umbra Legion*F3;
+Venomtail's Bite*F3*WMV;
+
+| decks =
+Barbed Case of Stratagem*F7*WMV;
+Bumbler's Sleetfall Pack*F3;
+Case of Engulfing Flames*F2;
+Lightning Rider's Deck*F3*WMV;
+
+| items =
+Burrower Warrior Statue on Pedestal;
+Khrysalis Bastion Theme*F5*WMV;
+Khrysalis Thrives Theme*F6;
+
+| cards =
+Clockwork Spider;
+Doom and Gloom*F2;
+Enfeeble;
+Legendary Treant (445);
+Locust Swarm*F3;
+Lucius McTavish;
+Luminous Weaver;
+Mass Infection;
+O'Leary Charlatan (Storm);
+O'Leary Swindler*F2;
+Polar Swarm*F4;
+Scrounger;
+Shatter (3 Pip)*F2;
+Sprite Swarm (40+360)*F4;
+Wildfire Treant;
+
+| reagents =
+Black Lotus*F7*WMV;
+Black Pearl;
+Blood Moss*F4;
+Bone*F8*WMV;
+Copper*F3;
+Deep Mushroom*F4;
+Fire Blossom*F8*WMV;
+Fossil*F2;
+Golden Pearl;
+Iron;
+Lava Lily*F6*WMV;
+Mist Wood*F7*WMV;
+Mithril*F2;
+Nickel*F2;
+Nightshade*F3;
+Ore*F11*WMV;
+Orichalcum;
+Pyrite*F3;
+Red Mandrake*F8*WMV;
+Stone Block*F4*WMV;
+Sunstone*F3;
+Titanium*F3;
+Turquoise*F3;
+
+| spellements =
+
+| snacks =
+Dr. Jalapeno*F4*WMV;
+Flaming Soup;
+Flapjacks*F6*WMV;
+Glowing Dragon Fruit*F3;
+Goat Cheese;
+Golden Grapes*F2;
+Gummy Bees*F2;
+Gummy Humongofrog;
+King Banana*F3*WMV;
+Salmonberry;
+Sugar Khrystals;
+
+| jewels =
+Clear Blocking Opal +5;
+Cracked Defense Amethyst +12;
+Cracked Defense Citrine +11;
+Cracked Defense Jade +12;
+Cracked Defense Opal +4;
+Cracked Defense Ruby +12;
+Dark Sprite Onyx;
+Death-Away Onyx;
+Health Boost Opal;
+Life-Proof Jade;
+Myth-Eye Peridot;
+Opaque Critical Opal +4;
+Polished Blocking Ruby +12;
+Polished Health Opal +95;
+Scarab Citrine*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+Fish on a Vine;
+Frozen Fly Trap;
+Pink Dandelion*CR;
+Pink Huckleberries;
+Queen Crape Myrtle;
+Saw Palmetto; 
+White Laugh-O-Dil*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

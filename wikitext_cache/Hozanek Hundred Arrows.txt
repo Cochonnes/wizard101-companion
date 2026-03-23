@@ -1,0 +1,188 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 18,360
+| crecla = Toucan
+| school = Fire
+| startpips = 6
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Beak Breaker;
+
+| world = Azteca
+| location = Floating Mountains
+| subloc1 = Fire Cave
+| descrip =
+*Two additional Beak Breaker Minions appear if more than two Wizards are present.
+
+| speech =
+:''"I will blacken the air with a hundred smoking arrows to lance your flesh! The Shadow Queen will reward me!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Glacial Shield;
+Smoke Screen;
+Fireblade;
+Fuel (+35%);
+Natural Attack (Fire 185-370-555);
+Meteor Strike (355-395);
+Phoenix (600-680);
+Efreet;
+Sun Serpent;
+
+| quests =
+The Fire and the Fury;
+
+| gold =
+123 - 149;
+
+| hats =
+
+| robes =
+Black Sun Chac's Armor;
+Keeper of the Codex Vest*F2*WMV;
+Lord of Night Robes*F2;
+Philososaur's Robes;
+Vestment of the Hungry Lizard*F2*WMV;
+White Fire Chac's Armor;
+
+| boots =
+Death Moon's Chosen Gliders;
+Elite Jura Guard Stalkers;
+Five Fangs of Fury Boots;
+Heart of Sky Boots;
+Indigo Wing Striders*F2;
+Tree of Secrets Chac Runners*F2*WMV;
+Twisted Fang Boots*F2;
+
+| athames =
+Moon Skull's Blessed Edge*F2;
+
+| amulets =
+Courage Charm of Jade Wings;
+Golden Head of the Cold House*F2*WMV;
+Necklace of Lost Ancestors*F2*WMV;
+Pendant of the Wild Wings;
+
+| rings =
+Bleeding Sun Warrior's Loop;
+Chac's Challenge Loop;
+Storm Quetzal's Signet;
+Twin Giants Fashioned Stone;
+Underworld Stone;
+
+| wands =
+New Moon Lance*F2*WMV;
+Spear of Breaking Dawn;
+Talon of the Storm Owl*F2*WMV;
+
+| decks =
+Calendar of the Spiral King*F2*WMV;
+King's Royal Portraits;
+Lords of Night Pyramid Deck;
+
+| items =
+Azteca Main Theme;
+Azteca Pot;
+Bird Head Mount;
+Clothesline;
+Starburst Frond;
+
+| cards =
+Colossal;
+Dr. Von's Monster;
+Extraordinary;
+Forest Lord;
+Potent Trap*F2;
+Primordial;
+Rain of Fire;
+Sharpened Blade*F3;
+Sirens;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F2*WMV;
+Bone*F2*WMV;
+Brass*F2;
+Bronze;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F4;
+Fire Blossom*F3;
+Golden Pearl*F2;
+Lava Lily*F2*WMV;
+Mist Wood*F2*WMV;
+Nightshade;
+Ore*F2*WMV;
+Red Mandrake*F3*WMV;
+Silver;
+Steel;
+Stone Block*F2*WMV;
+Sunstone;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate;
+Caramel Apple*F3*WMV;
+Chili Peppers;
+Flapjacks;
+Glowing Star Fruit;
+Guava;
+Gummy Wyrms;
+Jelly Baby;
+Pterotomatoes;
+Rex Tea;
+Shiny Tomato;
+Stego Waffles*F3*WMV;
+Zocalo Wings*F2*WMV;
+
+| jewels =
+Clear Piercing Jade +5%;
+Delay Opal;
+Draconian Opal;
+Feeling Weak Citrine;
+Ninja Pig Opal;
+Polished Critical Hematite +11;
+Polished Damage Citrine +21;
+Troll Minion Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Maelstrom Snap Dragon;
+Red Huckleberries;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

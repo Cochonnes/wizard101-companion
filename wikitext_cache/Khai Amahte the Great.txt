@@ -1,0 +1,218 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 700
+| crecla = Krokotopian
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Death;
+
+| incresist =
+60% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sand Stalker;
+
+| world = Krokotopia
+| location = Grand Arena
+| subloc1 = Khai's Trophy Room
+| descrip =
+*Two additional Sand Stalkers will appear if more than two Wizards are present.
+
+| speech =
+:''"I am the undefeated one, the only, Khai Amahte."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Spirit Armor;
+Death Shield;
+Black Mantle;
+Lifeblade;
+Life Trap;
+Imp;
+Leprechaun;
+Nature's Wrath;
+Seraph;
+Cyclops;
+Storm Shark;
+Sandstorm;
+
+| quests =
+The Ultimate Battle;
+
+| dropnotes =
+When a Wizard has unlocked the '''Wizard City Protector''' {{Icon|Wizard City Protector}} Badge and has not unlocked the '''Mastermind''' {{Icon|Mastermind}} Badge, the following drops will be available:
+*A random mixture of 8 either Spellements or No Auction/No Trade versions of Treasure Cards will drop each time from the '''Spiritual''' (Myth, Life, Death, Balance) Schools for their respective rank 1-3 Spells.
+
+| gold =
+19 - 49;
+
+| hats =
+Diviner's Hat of Squalls;
+Headwrap of Annihilation;
+Khai's Entrancing Circlet*F2;
+Rough-Hewn Hood;
+Rugged Hood;
+Thaumaturge's Cowl of Awe*F2;
+
+| robes =
+Cloak of Harmony*F2*WMV;
+Cloak of the Phantom*F2;
+Krokotopian Death Kaftan;
+Krokotopian Ice Kaftan;
+Krokotopian Kaftan*F2*WMV;
+Necromancer's Ivory Cloak*F2;
+Robe of Composure;
+Robe of the Oracle;
+Rough-hewn Robe;
+Soothsayer's Cloak*F4*WMV;
+Stout Robe;
+Sturdy Robe;
+Torrid Cloak*F5*WMV;
+Vest of Somnolence;
+Vest of the Desert;
+Vest of the Oasis;
+Vestment of the Arctic*F2;
+Vestment of Vision*F3*WMV;
+
+| boots =
+Boots of the Citadel;
+Boots of the Whirlwind*F2;
+Footwraps of the Arctic;
+Footwraps of the Mirage;
+Sandals of Energy;
+Sandals of Tall Tales;
+Sandals of Vision*F4*WMV;
+Shoes of Mortality;
+Shoes of Originality*F4*WMV;
+Shoes of the Augur;
+Sorcerer's Sandals*F2*WMV;
+Stout Boots*F4;
+
+| athames =
+Amahte's Dagger of Sagas*F3*WMV;
+Athame of Pyramids*F2;
+Whirlwind Dagger*F2;
+
+| amulets =
+Amulet of Eyes*F2*WMV;
+Choker of Ferocity;
+
+| rings =
+Powerful Ring*F3;
+Ring of the Badlands*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Blue Ancient Statue*F2*WMV;
+Khai Amahte Statue*F4*WMV;
+Red Floor Torch;
+
+| cards =
+Accurate;
+Banshee*F2*WMV;
+Banshee (Tier 2b)*BR*F5;
+Blood Bat (Tier 2b)*BR*F6;
+Cyclops (Tier 2b)*BR*F4*WMV;
+Dark Sprite (Tier 2b)*BR*F2;
+Evil Snowman;
+Ghoul (Tier 2b)*BR*F3*WMV;
+Humongofrog;
+Ice Trap;
+Imp (Tier 2b)*BR*F3;
+Leprechaun (Tier 2b)*BR*F4;
+Locust Swarm (Tier 2b)*BR*F2*WMV;
+Meteor Strike;
+Nature's Wrath (Tier 2b)*BR*F2;
+Pacify;
+Scarab (Tier 2b)*BR*F5;
+Scorpion (Tier 2b)*BR*F2;
+Sprite;
+Sunbird;
+Tempest;
+Troll (Tier 2b)*BR*F5;
+Vampire;
+Weakness;
+
+| reagents =
+Brass;
+Bronze Gear*F2;
+Copper;
+Lead*F2;
+Nickel*F2;
+Pyrite*F2;
+
+| spellements =
+Banshee*BR*F5;
+Blood Bat*BR*F2;
+Cyclops*BR*F4;
+Dark Sprite*BR*F6;
+Ghoul*BR*F5;
+Imp*BR*F4*WMV;
+Leprechaun*BR*F5*WMV;
+Locust Swarm*BR*F5*WMV;
+Nature's Wrath*BR*F4;
+Scarab*BR*F2;
+Scorpion*BR*F8;
+Troll*BR*F7*WMV;
+
+| snacks =
+Cracker*F3*WMV;
+Green Grapes*F2;
+Nettle Root*F2;
+Tiny Fish*F4;
+
+| jewels =
+Attentive Opal;
+Cheeky Opal;
+Chipped Defense Citrine +13;
+Chipped Defense Peridot +13;
+Chipped Health Opal +18;
+Cracked Accurate Amethyst +2%;
+Cracked Damage Amethyst +4;
+Cracked Damage Citrine +4;
+Cracked Damage Jade +6;
+Cracked Damage Ruby +6;
+Cracked Defense Jade +9;
+Cracked Defense Peridot +10;
+Dawdle Opal;
+Ghoul Onyx;
+Hurry Opal;
+Sturdy Opal;
+Volcanic Shield Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2;
+Pink Dandelion*CR*F2;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,308 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 5,600
+| crecla = Demon
+| crecla2 = Elephant
+| school = Fire
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Feral Lavaling;
+Magma Fury;
+
+| world = Dragonspyre
+| location = The Great Spyre
+| subloc1 = The Great Spyre (Upper)
+| lootchest = Firebender's Chest
+| descrip =
+The Gurtok Firebender drops Level 50+ Rings for every School and is one of the two Gurtok Demons in The Great Spyre, the other being the {{Link|Creature|Gurtok Piercer}}.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+This elephantine demon burns with the fury of a thousand suns atop the Great Spyre.
+
+| extract class =
+Elephant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Spirit Armor;
+Smoke Screen;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Sunbird;
+Fire Shark;
+Meteor Strike;
+Raging Kraken (Fire);
+Firezilla;
+Colossus (Fire);
+Helephant;
+Natural Attack (Fire 100x);
+Heck Hound;
+Minotaur;
+
+| quests =
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:MooShu Badges|Oni Slayer]]''' {{Icon|Oni Slayer}} Badge and has not unlocked the '''[[Basic:Celestia Badges|Astrologist]]''' {{Icon|Astrologist}} Badge, the following drops will be available:
+*Chance of 1 Level 50+ Ring {{Icon|Ring}}
+*1 Claw {{Icon|Reagent}}
+*7 Spellements for Rank 2-6 Spells {{Icon|Spellement}}
+If a Wizard already has the Astrologist Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of The Great Spyre to acquire a [[Item:Level Scaling Elixir - 50|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+50 - 200;
+
+| hats =
+Bonfire Headdress;
+Cap of the Frontier*CR*F2*WMV;
+Cowl of Morbidity;
+Equalizer's Coif;
+Halcyon Hood*WMV;
+Hat of the Endless*F4*WMV;
+Headdress of Refutation*F3*WMV;
+Hood of Hibernation*F2*WMV;
+Hood of the Vigilant;
+Mantle of the Icicle;
+Promethean Hood;
+Shroud of the Equinox;
+Triton's Topper;
+Veil of Leaves;
+Veil of Passage;
+Wolverine's Helm*CR*F2*WMV;
+
+| robes =
+Arbiter's Raiment*F2*WMV;
+Arboreal Robes*F3*WMV;
+Blizzard Cloak;
+Fiery Tunic*WMV;
+Final Curtain;
+Raiment of the Judge*CR;
+Robe of Radiance*F2*WMV;
+Robe of the Greatest Saga*F2*WMV;
+Shibboleth Smock;
+Smock of the Frost Giant*F2*WMV;
+Storm Giant's Surcoat*F2*WMV;
+Surcoat of the Charge*CR;
+Terminus Wrap;
+Tunic of the Sphinx*F2*WMV;
+Verdant Vestment;
+Vestment of the Chill*CR;
+Vestment of the Spring;
+Whirlwind Wrap*F2*WMV;
+Wrap of the Monsoon*F2*WMV;
+
+| boots =
+Ashen Footwraps;
+Burning Boots;
+Dragonclaw Boots*F2*WMV;
+Dune Striders*CR;
+Footgear of the North Wind;
+Sandals of Neutrality;
+Sandals of the Squall;
+Stormbreaker Sandals;
+Vineyard Shoes;
+Warded Footwear*CR;
+
+| athames =
+Dauntless Dirk;
+Dragon's Claw Blade*F2*WMV;
+Dragon's Eye Dagger*F2*WMV;
+Dragonblood Dirk*WMV;
+
+| amulets =
+
+| rings =
+Band of the Hearth;
+Dragonscale Ring*F2*WMV;
+Gurtok Apotheosis Coil*BR;
+Gurtok Apotheosis Ringlet*BR;
+Gurtok Celsius Band*BR*F3*WMV;
+Gurtok Celsius Coil*BR*F2;
+Gurtok Fulgis Circlet*BR;
+Gurtok Fulgis Coil*BR;
+Gurtok Ignus Coil*BR;
+Gurtok Ignus Signet*BR;
+Gurtok Mortis Coil*BR*WMV;
+Gurtok Mortis Seal*BR;
+Gurtok Oroboros Coil*BR*WMV;
+Gurtok Oroboros Loop*BR;
+Gurtok Vivus Coil*BR;
+Gurtok Vivus Ring*BR*F2*WMV;
+Rime-Edged Ring*F2*WMV;
+Ring of the Forefathers*WMV;
+Seal of the Saga;
+
+| wands =
+Ascendant Staff*CR;
+
+| decks =
+
+| items =
+Copper Urn*F3*WMV;
+Dark Sun Obelisk*F3*WMV;
+Long Corner Wall Ruins;
+Short Corner Wall Ruins;
+Singed Magic Book*F2*WMV;
+Short Corner Wall Ruins;
+Small Corner Wall Ruins;
+
+| cards =
+Dragonflies;
+Pest Zapper;
+
+| reagents =
+Bone*F4*WMV;
+Brass*F2*WMV;
+Claw*BR*F2*WMV;
+Cobalt;
+Copper*WMV;
+Ectoplasm*F4*WMV;
+Lead;
+Nickel*F5*WMV;
+Tin;
+
+| spellements =
+Banshee*BR;
+Blight Hound*BR*F2*WMV;
+Centaur*BR;
+Colossus*BR;
+Cyclops*BR;
+Cyclops Minion*BR;
+Earth Walker*BR*F2*WMV;
+Evil Snowman*BR;
+Fire Elf*BR;
+Gearhead Destroyer*BR;
+Ghoul*BR;
+Helephant*BR;
+Hydra*BR;
+Ice Wyvern*BR;
+Immolate*BR*F2*WMV;
+Kraken*BR;
+Leprechaun*BR*F2*WMV;
+Lightning Bats*BR;
+Locust Swarm*BR;
+Minotaur*BR;
+Nature's Wrath*BR;
+Phoenix*BR;
+Scorpion*BR;
+Seraph*BR;
+Skeletal Pirate*BR;
+Snow Serpent*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Shark*BR;
+Stormzilla*BR;
+Sunbird*BR;
+Triton*BR;
+Troll*BR;
+Vampire*BR*F2*WMV;
+Wraith*BR*F2*WMV;
+
+| snacks =
+Flaming Soup*F4*WMV;
+Goat Cheese*F5*WMV;
+Golden Grapes*F3*WMV;
+Gummy Humongofrog*F4*WMV;
+King Banana*F3*WMV;
+
+| jewels =
+Blemished Damage Amethyst +11;
+Blemished Damage Amethyst +12*WMV;
+Blemished Damage Citrine +11;
+Blemished Damage Citrine +12;
+Blemished Damage Jade +11*WMV;
+Blemished Damage Jade +12;
+Blemished Damage Onyx +11;
+Blemished Damage Onyx +12*WMV;
+Blemished Damage Peridot +11;
+Blemished Damage Peridot +12*WMV;
+Blemished Damage Ruby +11;
+Blemished Damage Ruby +12;
+Blemished Damage Sapphire +11;
+Blemished Damage Sapphire +12*WMV;
+Dull Accurate Jade +6%;
+Dull Accurate Peridot +6%;
+Dull Blocking Jade +4;
+Dull Blocking Onyx +4*WMV;
+Dull Critical Jade +4*WMV;
+Dull Critical Sapphire +4;
+Dull Damage Ruby +13;
+Dull Health Opal +46*WMV;
+Dull Piercing Onyx +2%;
+Dull Piercing Peridot +2%;
+Dull Piercing Ruby +2%;
+Flawed Damage Amethyst +9;
+Flawed Damage Amethyst +10;
+Flawed Damage Citrine +9;
+Flawed Damage Citrine +10;
+Flawed Damage Jade +9;
+Flawed Damage Jade +10;
+Flawed Damage Onyx +9;
+Flawed Damage Onyx +10;
+Flawed Damage Opal +5;
+Flawed Damage Peridot +9*WMV;
+Flawed Damage Peridot +10;
+Flawed Damage Ruby +9*F2*WMV;
+Flawed Damage Ruby +10;
+Flawed Damage Sapphire +9;
+Flawed Damage Sapphire +10*WMV;
+Flawed Mending Opal +2%;
+Health Boost Opal;
+Hydra Citrine;
+Quick Learner Opal;
+Stormzilla Amethyst;
+Ultra Boost Opal*WMV;
+Wraith Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F2*WMV;
+White Laugh-O-Dil*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

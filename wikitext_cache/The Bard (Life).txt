@@ -1,0 +1,127 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 18,075
+| crecla = Llama
+| school = Life
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+11%;
+
+| outboost =
+80%;
+
+| incboost =
+30% Death;
+
+| incresist =
+39% Fire, Ice, Storm, Myth, Balance, Sun, Shadow;
+69% Life;
+
+| outhealing =
+30%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+"Draconian";
+"Grand Nana";
+"Shadow Weaver";
+
+| world = Krokotopia
+| location = Marketplace of Ideas
+| subloc1 = Rogue Theater
+| location2 = Marketplace of Ideas
+| subloc2 = Rogue Theater: Act II
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+This boss is behind '''Door III''' in the {{Link|Location|Rogue Theater}}.
+
+| speech =
+:'''"Draconian"''': ''"Dogs, Weasels, Corvidae - lend us your ears. We come to bury the Wizard, not to praise them! They hath bought many boons to Avalon... ...But Nana says they're ambitious and Nana is an honorable Ham...ster."''
+:'''"Grand Nana"''': ''"The Wizard is ambitious! Ambitious, I tell you!"''
+:'''"Draconian"''': ''"Exactly. Thus we beseech you all to join us. With your arms and gold and knowledge. Let us find the weapon that Wizards cannot survive."''
+:'''"Shadow Weaver"''': ''"Help us find the fabled Moon King, entreat his aid and his followers. Let us stand together, we few, we angry few, we band of bothered!"''
+:'''"Grand Nana"''': ''"So rouse yourselves in the name of Nana!"''
+:'''The Bard''': ''"And so to Krokotopia we came... to Khonsu... to vengeance."''
+
+| cheatnotes =
+*{{Icon|Damage}} ''"Beware the ides... of Bard!"'' - Beginning on Round 3, each time someone takes Damage, The Bard will cast one of the following:
+**{{Link|Spell|Mass Spirit Armor}}
+**A 2-Pip version of Spirit Armor that applies a 300 Damage Absorb Ward
+**{{Link|Spell|Spirit Armor}}
+**{{Link|Spell|Spirit Armor (500)}}
+**A 4-Pip version of Spirit Armor that applies a 600 Damage Absorb Ward
+{{Icon|Round}} '''Cycle''':
+*''"Mischief, thou art afoot!"'' - At the beginning of every 3rd Round, The Bard will cheat-cast {{Link|Spell|Gnomes!}}.
+*''"Wizards die many times..."'' - At the beginning of every 5th Round, The Bard will cheat-cast {{Link|Spell|Regenerate}}.
+
+| spellnotes =
+
+| casts =
+Adapt;
+Legend Shield;
+Pigsie;
+Satyr;
+Lifeblade (+40%);
+Life Trap;
+Mass Life Trap;
+Ratatoskr's Spin;
+Centaur;
+King Artorius (Life);
+
+| quests =
+Plots Have I Laid;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

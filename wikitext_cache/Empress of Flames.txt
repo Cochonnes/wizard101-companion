@@ -1,0 +1,129 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 16,080
+| crecla = Wizard
+| school = Fire
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Fire;
+
+| critical =
+75 Any;
+
+| criticalblock =
+589 Any;
+
+| outpierce =
+23%;
+
+| outboost =
+94%;
+
+| incboost =
+30% Ice;
+
+| incresist =
+36% Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+66% Fire;
+
+| outhealing =
+33%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Broken Branch Knight;
+
+| world = Darkmoor
+| location = Graveholm
+| subloc1 = Dark Hallways
+| descrip =
+
+| speech =
+"Prepare yourself, false Scion, for mine are the fires of the Scholomance, the searing rage of evil itself."
+
+| cheatnotes =
+*{{Icon|Damage over Time}} ''"My rage burns hotter than any sun!"''- At the beginning of the first Round, and every six Rounds after, she casts a Damage Over Time dealing 12,610 Damage over five Rounds to all enemies.
+**If the Damage Over Time is removed or pushed away from all Wizards, the Cheat cycle will reset two turns later, replacing the Damage Over Time.
+
+| spellnotes =
+Casts a +30% version of Fire Trap.
+
+| casts =
+Fireblade;
+Mass Fire Trap;
+Fire Trap;
+Fire Elf (Tier 2b);
+Burning Rampage;
+Immolate;
+Fire Dragon;
+Scion of Fire (Tier 2b);
+
+| quests =
+Glam Rock;
+Breaking Branch;
+
+| gold =
+22 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Creepy Bed;
+Creepy Chair;
+Creepy Couch;
+Darkmoor Bench;
+Darkmoor Vanity;
+Outsiders Wagon;
+Scholomance Combat Theme;
+
+| cards =
+Leviathan;
+Life Trap;
+Lord of Winter;
+Spinysaur;
+
+| reagents =
+Merle's Whisker;
+Orichalcum;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Heavenly Bubblegum;
+Shepherd's Crook Pie;
+Wolfbane Tea;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

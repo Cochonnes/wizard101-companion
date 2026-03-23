@@ -1,0 +1,229 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 6,335
+| crecla = Gorilla
+| school = Ice
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Shadow-Web Haunt (Zafaria);
+
+| world = Zafaria
+| location = Elephant Graveyard
+| subloc1 = Ada Razorwhip's Tomb
+| descrip =
+Ada Razorwhip is one of {{Link|NPC|Morganthe}}'s agents in the Elephant Graveyard.  She guards {{Link|NPC|Queen Elissa}}'s bracelets.
+
+| speech =
+:''"Your petty magics are naught compared to the tendrils of power at my command!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Ice Damage
+
+| casts =
+Fortify;
+Vengeance;
+Tower Shield;
+Iceblade;
+Ice Trap;
+Freeze;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Frostbite;
+Icezilla (650-730);
+Colossus;
+Frost Giant;
+Snow Angel;
+
+| quests =
+Tomb Raiders;
+
+| dropnotes = 
+When a Wizard has unlocked the '''[[Basic:Celestia Badges|Astrologist]]''' {{Icon|Astrologist}} Badge and has not unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge, the following drops will be available:
+*5 Spellements will drop each time for their respective rank 4-8 Spells.
+
+| gold =
+99 - 140;
+
+| hats =
+Courageous Grower's Hat;
+Face of Baobab*F2;
+Ghostgrass Hood*F2*WMV;
+Jungle Lord's Winter Cap;
+River Captain's Hood;
+Stone Town Topper*F2*WMV;
+Wise Hunter's Helmet;
+
+| robes =
+Baxby's Noble Outfit;
+Fire Valley Outfit;
+Hail and Thunder Raiment*F2*WMV;
+Hunter Prey Jacket*F3*WMV;
+Olyphant's Balanced Jacket*F3*WMV;
+Sinister Medicine Cloak*F2*WMV;
+Storm Caller's Outfit;
+Sun's Circle Cloak*F2*WMV;
+Tunic of Long Memory;
+Unbroken Spiral Robe*F2*WMV;
+Wicked Cold Clothes*F2;
+Wildfire Garb*F3*WMV;
+
+| boots =
+Big Sky Striders;
+Cold Climate Climbers*F3*WMV;
+No Worries Footgear*F2*WMV;
+Shaman's Fire-Feather Wraps;
+Spider's Storied Wraps;
+Spirit Drummer's Boots*F3*WMV;
+Stone Town Storm Trackers;
+
+| athames =
+Peace of the Oasis*F2*WMV;
+Savannah Hunter's Claw*F3*WMV;
+Spearblade of Stories*F3*WMV;
+
+| amulets =
+Olyphant's Power Pendant*F2*WMV;
+
+| rings =
+Amahle's Striped Band;
+Aryanah's Golden Loop;
+Inyanga's Baobab Loop*F3*WMV;
+
+| wands =
+Quagga Blade;
+Spear of the Trade Winds;
+Staff of Solomon*F2*WMV;
+
+| decks =
+Bundle of Eternal Flame;
+Chieftain's Smiling Deck;
+Hand-Chased Box of Destiny;
+Hand-Chased Box of Thunder;
+
+| items =
+
+| cards =
+Efreet*F2*WMV;
+Forest Lord;
+Frozen Armor*F3*WMV;
+Legion Shield*F3*WMV;
+Leviathan*F2*WMV;
+Medusa*F2*WMV;
+Polymorph Elemental (Storm);
+Ra*F2*WMV;
+Skeletal Dragon*F3*WMV;
+Snow Angel*F3*WMV;
+
+| reagents =
+Bronze Gear*F5*WMV;
+Cobalt;
+Leather Straps*F2*WMV;
+Nickel*F2;
+
+| spellements =
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops Minion*BR;
+Earth Walker*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*BR;
+Ice Wyvern*BR;
+Immolate*BR;
+Kraken*BR;
+Leviathan*BR;
+Medusa*BR;
+Minotaur*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Ra*BR;
+Rebirth*BR;
+Scarecrow*BR;
+Seraph*BR;
+Skeletal Dragon*BR;
+Skeletal Pirate*BR;
+Snow Angel*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Stormzilla*BR;
+Triton*BR;
+Vampire*BR;
+Wraith*BR;
+
+| snacks =
+Buttered Bread*F2*WMV;
+Cauliflowers;
+Delicious Cookie;
+Dr. Jalapeno;
+Flaming Soup;
+Glowing Dragon Fruit*F2*WMV;
+Glowing Star Fruit;
+Golden Grapes;
+Gummy Humongofrog;
+Jelly Baby;
+Kola Nuts;
+Shiny Tomato;
+Submarine Sandwich;
+Uni-Corn*F2;
+
+| jewels =
+Myth-Boon Peridot;
+No Passing Opal;
+Opaque Blocking Peridot +7;
+Opaque Critical Sapphire +8;
+Opaque Defense Ruby +33;
+Ultra Charge Opal;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fickle Pickle;
+King Parsley*CR*F2;
+Orange Bell Pepper*CR*F3*WMV;
+Orange Dandelion;
+Red Bell Pepper*F2*WMV;
+Trumpet Vine;
+White Desparagus;
+White Laugh-O-Dil*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

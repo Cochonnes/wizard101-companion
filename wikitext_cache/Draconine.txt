@@ -1,0 +1,106 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 6,290
+| crecla = Wyrm
+| school = Death
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Ice, Myth;
+
+| incresist =
+30% Storm, Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Dragonspyre
+| location = The Crystal Grove
+| subloc1 = Chamber of Trials
+| descrip =
+*Defeating Draconine is part of the Apprentice Fire Weaving quest, ''"Smoke and Memories"''. Wizards can also defeat Draconine as one of their Fire Weaving lessons, which awards the badge, [[Basic:Fire Weaving Badges| Draconine Demolisher]].
+
+| speech =
+:'''Draconine:''' ''"*ROOOOOOOOOOAAAAAAAARRRRRRRRR!!!!!!!!!*"''
+
+:'''Fae Victus:''' ''"No, no, I won't die here, but you will. You will feel the suffering of the conquered, the woe of the fallen. I WILL BURN YOU! VAE VICTUS!"''
+
+| spellnotes =
+
+| casts =
+Tower Shield;
+Weakness;
+Deathblade (+40%);
+Headless Horseman (Tier 2b);
+Dream Golem (Tier 2b);
+Skeletal Pirate (Tier 2b);
+Monster Mash (Tier 2a);
+
+| quests =
+Dragon-Denier;
+Smoke and Memories;
+
+| gold =
+11 - 35;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Fairy Gold Idol (Fire)*F2;
+Weft Yarn @ 60 Weft Yarn*F2;
+Weft Yarn @ 65 Weft Yarn*F2*WMV;
+Weft Yarn @ 70 Weft Yarn;
+Weft Yarn @ 100 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,195 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 520
+| crecla = Krokotopian
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Ice;
+
+| incresist =
+50% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Flame Servant;
+
+| world = Krokotopia
+| location = Chamber of Fire
+| subloc1 = Champion's Chamber
+| descrip =
+The Nirini Champion is one of the Kroks responsible for enslaving the Manders in the {{Link|Location|Pyramid of the Sun}}.  Using enchanted Collars of Assent, he and his forces have charmed the Pyarmid's Mander population and are prepared to force them to do the Tuts' bidding.  After some of [[NPC:Salam Ibn'Dur|Salam Ibn'Dur's]] allies report on the Champion's plans, Salam requests that Wizards defeat him once and for all in his chamber, which would be a great victory towards the emancipation of the Mander peoples.
+
+Two additional Flame Servants will appear if more than two Wizards are present.
+
+| speech =
+:''"A Wizard?!? Maybe you are here to free these pathetic Manders... Such a pity. Your good nature will be your own undoing..."''
+
+| spellnotes =
+
+| casts =
+Weakness;
+Fire Cat;
+Fire Elf (50+210);
+Sunbird;
+Natural Attack (Fire 100x);
+Leprechaun;
+Troll;
+Banshee;
+Scorpion;
+Locust Swarm;
+
+| quests =
+Secret Idol;
+
+| gold =
+18 - 46;
+
+| hats =
+Cap of the Oasis;
+Conjurer's Hat;
+Durable Hood;
+Helm of the Bastion;
+Helm of the Cyclone;
+Hood of the Stronghold*F2;
+Mask of Proportions;
+Swindler Mask*CR;
+Torrid Champion's Cap*F2;
+
+| robes =
+Ceremonial Vest*F2*WMV;
+Cloak of Refuge;
+Conjurer's Cloak*F2;
+Durable Robe*F4*WMV;
+Garments of the Augur*F2;
+Glacial Tunic;
+Necromancer's Ivory Cloak;
+Pyromancer's Lambent Robe*F2*WMV;
+Robe of Ingenuity*F3*WMV;
+Robe of Talent*F2;
+Robes of Dormancy;
+Rugged Robe;
+Runed Vestment*F2;
+Sorcerer's Maroon Cloak*F3;
+Sphinx's Vestment;
+Threadbare Robe*F2*WMV;
+Tunic of Energy;
+Tunic of Mortality;
+Tunic of the Whirlwind*F2;
+Vestment of the Arctic;
+
+| boots =
+Ancient Sandals;
+Boots of Imagination;
+Boots of the Citadel*F2;
+Boots of the Cyclone;
+Crystalline Footwraps*F3*WMV;
+Nirini Champion's Sandals*F2*WMV;
+Rough-Hewn Boots*F3*WMV;
+Shoes of Adaptation;
+Shoes of Annihilation;
+Shoes of the Fortress*F4;
+
+| athames =
+Ancient Kris;
+Athame of Mortality*F3;
+Cryptkeeper's Shortsword;
+Dagger of Solitude;
+Flamedancer's Athame*F2;
+Parched Kris*F2;
+Whirlwind Dagger;
+
+| amulets =
+Champion's Decoy Choker*F2;
+
+| rings =
+Sparkling Band*F2*WMV;
+
+| wands =
+Nirini Champion's Staff*F2*WMV;
+
+| decks =
+
+| items =
+Axe;
+Floor Torch;
+Krok Scarab Pillar*F2*WMV;
+Krokotopia Theme 1*F3*WMV;
+Prince Biti Nirini*CR*F2*WMV;
+Prince Suten Sokkwi*F2*WMV;
+Purple Painted Column;
+
+| cards =
+Banshee;
+Fire Elf*F2*WMV;
+Ghoul;
+Guiding Light;
+Krokotillian*F2*WMV;
+Locust Swarm;
+Meteor Strike;
+Snow Serpent;
+
+| reagents =
+Bronze Gear;
+Copper;
+Iron*F2;
+Leather Straps;
+Nickel;
+Pyrite*F2;
+
+| spellements =
+
+| snacks =
+Cracker;
+Green Grapes;
+Nettle Root;
+Tiny Fish*F3*WMV;
+
+| jewels =
+Blood Bat Peridot;
+Cracked Accurate Peridot +2%;
+Cracked Defense Amethyst +12;
+Cracked Defense Citrine +7;
+Cracked Defense Citrine +11;
+Cracked Defense Jade +12;
+Cracked Defense Onyx +8;
+Cracked Defense Onyx +12;
+Cracked Defense Opal +4;
+Cracked Defense Peridot +8;
+Cracked Defense Ruby +8;
+Cracked Defense Ruby +12;
+Cracked Defense Sapphire +12;
+Cracked Mana Opal +6;
+Fire-Proof Ruby;
+Imp Jade;
+Scarab Citrine;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F3;
+Pink Dandelion*CR*F4*WMV;
+
+| mounts =
+
+| spells =
+
+}}

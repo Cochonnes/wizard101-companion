@@ -1,0 +1,142 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,435
+| crecla = Gorilla
+| school = Storm
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Blackback Soldier;
+
+| world = Zafaria
+| location = Drum Jungle
+| subloc1 = Bolu Bigfist's Hut
+| descrip =
+
+| speech =
+:''"My back is black, not yellow! Prepare for the fight of your life!"
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Windstorm;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 125-265-405, 70%);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Tempest;
+
+| quests =
+Four Feathers;
+
+| gold =
+80 - 108;
+
+| hats =
+Hood of Chieftain's Honor*F2*WMV;
+Hood of the Forgotten;
+Hot-Tempered Chieftain's Mask;
+
+| robes =
+Darajani Havoc Robes;
+
+| boots =
+Baxby's Noble Trackers;
+Hunter Prey Rangers;
+Nemean Rock Climbers;
+Spider's Storied Wraps;
+Stone Town Storm Trackers;
+
+| athames =
+
+| amulets =
+
+| rings =
+Amahle's Striped Band;
+Kallah's Dread Stone;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Infallible;
+Insane Bolt*F4*WMV;
+Polymorph Colossus;
+Polymorph Treant;
+Sniper*F2*WMV;
+Stun Block;
+Supercharge*F2*WMV;
+
+| reagents =
+Leather Straps*F2;
+Nickel;
+Spider Silk*F3*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2*WMV;
+Delicious Cookie;
+Glowing Star Fruit*F2;
+Goat Cheese;
+Golden Apple*F2;
+Golden Grapes;
+Gummy Humongofrog*F3*WMV;
+Jelly Baby;
+King Banana;
+Kola Nuts;
+Spicy Drumstick;
+Submarine Sandwich*F2;
+
+| jewels =
+Exhausted Opal;
+Life-Away Jade;
+Opaque Critical Sapphire +7;
+
+| pins =
+
+| pets =
+
+| seeds =
+Burning Snap Dragon;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,144 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 1,450
+| crecla = Raven
+| school = Storm
+| startpips = 3
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Coven Runeclaw;
+
+| world = Grizzleheim
+| location = Hrundle Fjord
+| subloc1 = Morn's Tower
+| descrip =
+Morn Shadowbrew is not repeatable. The only way to fight her again is via the Team Up kiosk or porting to a friend who has the Springtime for Hrundle quest.
+
+| speech =
+:''"Who's this? You're not frozen? No matter... you'll join the others in their wintry doom!"''
+
+| spellnotes =
+
+| casts =
+Stormblade;
+Storm Trap;
+Wild Bolt;
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Tempest;
+Natural Attack (Storm 125x, 70%);
+
+| quests =
+Springtime for Hrundle;
+
+| gold =
+45 - 68;
+
+| hats =
+Blasted Bear Hat;
+Grizzled Helm*F3;
+Horned Helm of the North*F3*WMV;
+
+| robes =
+Coat of Justice*F2*WMV;
+Coat of the Crypt*F2;
+Jerkin of the Bear's Shadow;
+
+| boots =
+Barbarian's Brave Boots;
+Biting Bear Boots*F2*WMV;
+Fighting Bear Boots;
+Growling Bear Boots*F3;
+Howling Bear Boots;
+Roaring Bear Boots;
+Slashing Bear Boots*F2;
+Snarling Bear Boots*F3*WMV;
+
+| athames =
+Wolf's Garnet Claw*F3*WMV;
+
+| amulets =
+Wyrm's Blessing Charm*F6*WMV;
+
+| rings =
+Ring of Brother Wolf;
+Ring of Claw;
+Ring of Fang;
+Ring of the Hungry Wolf;
+Ring of the Wolf's Howl;
+Ring of the Wolf's Song*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Accurate*F2;
+Amplify*F5*WMV;
+Fortify;
+Giant*F3*WMV;
+Meteor Strike;
+Strong;
+Tempest;
+Troll;
+
+| reagents =
+Cobalt*F2;
+Ectoplasm*F5*WMV;
+Nickel*F2;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2;
+Flaming Soup*F2*WMV;
+Glowing Star Fruit*F2;
+Glowing Taffy;
+Gummy Humongofrog*F3;
+Golden Apple*F3;
+Strawberry Cupcake*F2;
+
+| jewels =
+Hexster Citrine;
+Vaporize Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Burning Snap Dragon*F2;
+Evil Snow Peas*F2;
+Rye Bread Fruit Bush;
+
+| mounts =
+
+| spells =
+
+}}

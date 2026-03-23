@@ -1,0 +1,107 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 7,310
+| crecla = Giant
+| crecla2 = Cyclops
+| school = Ice
+| startpips = 4
+| powerpips = Yes
+| critical =
+27 Any;
+
+| criticalblock =
+27 Any;
+
+| outpierce =
+4%;
+
+| outboost =
+28%;
+
+| incboost =
+30% Fire, Myth;
+
+| incresist =
+12% Ice, Life, Balance, Sun, Moon, Star, Shadow;
+42% Storm, Death;
+
+| outhealing =
+1%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Freezer's Legion;
+
+| world = Krokotopia
+| location = Selenopolis
+| subloc1 = Freezer's Battleground
+| descrip =
+Wizards who are weaving into the school of Ice must battle this enemy.
+
+| speech =
+"Your impetuous experiments risk us all. You have no idea the things you are unleashing. And I will stop you!"
+
+| spellnotes =
+
+| casts =
+Tower Shield;
+Weakness;
+Undermine;
+Parry Pig;
+Eye Spy;
+Snow Shark;
+Blizzard (Tier 5a);
+
+| quests =
+The Rot in the Heavens;
+
+| gold =
+29;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Frost Beetle (Tier 2b);
+
+| reagents =
+Weft Yarn @ 10 Weft Yarn;
+Weft Yarn @ 12 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Flawless Accurate Sapphire +16%;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

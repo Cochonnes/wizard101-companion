@@ -1,0 +1,162 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 5,760
+| crecla = Witch
+| school = Balance
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+7%;
+
+| outboost =
+45%;
+
+| incboost =
+5% Myth, Life, Death;
+
+| incresist =
+30% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Empyrea
+| location = Aeriel Jungle
+| subloc1 = Cave of Sycorax
+| descrip =
+Uses Pip Conversion.
+
+| speech =
+:''"You would steal the secrets of Sycorax? You shall pay for your hubris!"''
+
+
+| spellnotes =
+
+| casts =
+Dark Shepherd;
+Elemental Shield;
+Spirit Shield;
+Black Mantle;
+Weakness;
+Cat Thug (160);
+Loremaster;
+Natural Attack (Balance 110-205-300, 85%);
+Obsidian Colossus (420);
+Power Nova;
+Sabertooth;
+
+| quests =
+Incantation Investigation;
+
+| gold =
+86 - 347;
+
+| hats =
+
+| robes =
+Interstellar Delegate's Suit*F2*WMV;
+
+| boots =
+Interstellar Explorer's Trekkers;
+
+| athames =
+
+| amulets =
+Interstellar Medic's Charm;
+
+| rings =
+Interstellar Hero's Band;
+Interstellar Warrior's Band;
+
+| wands =
+Officer's Hexacorder;
+
+| decks =
+
+| items =
+Empyrea Aeriel Theme;
+Empyrea Athanor Combat Theme;
+Empyrea Flotsam Combat Theme;
+Empyrea Jungle Theme*F2*WMV;
+Empyrea Outer Athanor Theme;
+
+| cards =
+Mass Ice Prism;
+Mass Life Prism;
+
+| reagents =
+Ancient Scroll;
+Antique Coins*F2;
+Black Pearl;
+Blood Moss;
+Brass*F3;
+Cobalt*F2;
+Scales*F3*WMV;
+Spider Silk*F2;
+
+| spellements =
+
+| snacks =
+Beast Wellington;
+Decimatoes;
+Discord Grape Jelly;
+Eye Candy;
+Glowing Taffy;
+Hot Cross Buns*F2*WMV;
+Pizza;
+Rock and Roll Candy;
+Satyr Chow;
+Sprinkle Cupcake;
+
+| jewels =
+Balance-Eye Citrine;
+Balance-Ward Citrine;
+Death Assailant Onyx;
+Death-Boon Onyx;
+Death-Eye Onyx;
+Death-Proof Onyx;
+Fire-Away Ruby;
+Hexster Citrine;
+Lustrous Critical Citrine +13;
+Lustrous Damage Peridot +23;
+Lustrous Damage Ruby +23;
+Lustrous Defense Amethyst +45;
+Lustrous Health Opal +97;
+Myth-Proof Peridot;
+Storm-Ward Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears*F2;
+Baby Carrots;
+Blue Huckleberries;
+Bread Fruit Bush*F2;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Evil Magma Peas*CR;
+Grapes of Wrath*CR;
+Ivy League*CR;
+Pink Huckleberries;
+Red Couch Potatoes;
+Red Huckleberries;
+Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+}}

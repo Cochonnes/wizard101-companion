@@ -1,0 +1,247 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 12,640
+| crecla = Shadow Trickster
+| school = Shadow
+| school2 = Balance
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+15%;
+
+| outboost =
+85%;
+
+| incboost =
+5% Myth, Life, Death;
+
+| incresist =
+30% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Shadow Shrike;
+Shadow Sentinel;
+
+| petbreed = Balance Wartle
+| world = Empyrea
+| location = Zanadu
+| descrip =
+Trickster Jack wanders among the Shadow Creatures in Zanadu near King Kahn's Palace in front of the Pillar of Hope.
+
+| speech =
+
+| cheatnotes =
+*''"Protect Me!"''  His Pet Wartle will cast a {{Link|ItemCard|Spirit Shield}} Item Card.
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Balanceblade;
+Bladestorm;
+Hex;
+Counterforce;
+Natural Attack (Shadow 165-305-465);
+Loremaster;
+Savage Paw;
+Samoorai;
+Judgement;
+
+| quests =
+
+| gold =
+205 - 235;
+
+| hats =
+Interstellar Hero's Helm;
+Medic's Interstellar Helm*F2*WMV;
+
+| robes =
+Interstellar Engineer Suit;
+Interstellar Hero's Uniform*F2*WMV;
+Medic's Interstellar Uniform;
+
+| boots =
+Interstellar Explorer's Trekkers;
+Interstellar Warrior Trekkers;
+Medic's Interstellar Trekkers;
+
+| athames =
+Interstellar Delegate's Knife;
+Interstellar Warrior's Knife;
+
+| amulets =
+
+| rings =
+Interstellar Engineer's Band;
+Interstellar Navigator's Band;
+Interstellar Officer's Band;
+
+| wands =
+Delegate's Hexacorder;
+Explorer's Hexacorder;
+Medic's Hexacorder;
+Warrior's Hexacorder;
+
+| decks =
+Interstellar Engineer's Deck;
+Interstellar Navigator's Deck;
+Interstellar Officer's Deck;
+
+| items =
+Empyrea Aeriel Theme*F2*WMV;
+Empyrea Athanor Combat Theme*F5*WMV;
+Empyrea Finale Combat Theme;
+Empyrea Flotsam Combat Theme*F5*WMV;
+Empyrea Inner Athanor Theme*F2*WMV;
+Empyrea Jungle Theme*F3*WMV;
+Empyrea Outer Athanor Theme*F2*WMV;
+
+| cards =
+Mass Life Prism*F2*WMV;
+Mass Storm Prism*F2*WMV;
+Mass Triage;
+
+| reagents =
+Ancient Scroll*F6*WMV;
+Antique Coins*F4*WMV;
+Black Pearl*F9*WMV;
+Blood Moss*F8*WMV;
+Brass*F6*WMV;
+Bronze Gear*F2*WMV;
+Cobalt*F10*WMV;
+Ectoplasm*F5*WMV;
+Nickel*F7*WMV;
+Scales*F7*WMV;
+Spider Silk*F7*WMV;
+Spring*F11*WMV;
+Tin*F10*WMV;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate;
+BBQ Drumstick*F2*WMV;
+Beast Wellington*F6*WMV;
+Bread Fruit Fruit*F2*WMV;
+Cherry Pie;
+Discord Grape Jelly*F6*WMV;
+Drumstick*F2*WMV;
+Eye Candy*F8*WMV;
+Fern Jelly*F2*WMV;
+Glowing Taffy*F2*WMV;
+Hot Cross Buns*F8*WMV;
+Pizza*F6*WMV;
+Rock and Roll Candy*F3*WMV;
+Satyr Chow*F5*WMV;
+Sprinkle Cupcake*F7*WMV;
+Squash;
+Veggie Juice*F2*WMV;
+Wheat Cracker*F2*WMV;
+
+| jewels =
+Ally Legend Shield Jade;
+Ally Spirit Shield Citrine;
+Death Striker Onyx*F2*WMV;
+Death-Away Onyx;
+Death-Dealer Onyx;
+Death-Proof Onyx;
+Elf on Fire Ruby;
+Fire Assailant Ruby;
+Fire Striker Ruby;
+Fire-Away Ruby;
+Fire-Dealer Ruby;
+Fire-Giver Ruby;
+Fire-Sniper Ruby;
+Ice Assailant Sapphire;
+Ice Striker Sapphire;
+Ice-Dealer Sapphire*F2*WMV;
+Ice-Eye Sapphire;
+Ice-Giver Sapphire;
+Ice-Sniper Sapphire;
+Ice-Ward Sapphire;
+Infector Onyx;
+Life-Away Jade;
+Life-Shot Jade;
+Lustrous Accurate Amethyst +11%;
+Lustrous Accurate Jade +11%;
+Lustrous Accurate Peridot +11%;
+Lustrous Blocking Citrine +13;
+Lustrous Critical Amethyst +13*F2*WMV;
+Lustrous Critical Citrine +13;
+Lustrous Critical Jade +13;
+Lustrous Critical Ruby +13;
+Lustrous Critical Sapphire +13*F2*WMV;
+Lustrous Damage Amethyst +23*F2;
+Lustrous Damage Citrine +23;
+Lustrous Damage Jade +23;
+Lustrous Damage Onyx +23;
+Lustrous Damage Ruby +23;
+Lustrous Defense Amethyst +45;
+Lustrous Defense Peridot +45;
+Lustrous Defense Sapphire +45;
+Myth-Boon Peridot;
+Myth-Eye Peridot;
+Myth-Proof Peridot*F2;
+Myth-Shot Peridot;
+Pip O'Plenty Opal;
+Spell-Defying Opal;
+Storm Striker Amethyst;
+Storm-Away Amethyst;
+Storm-Boon Amethyst;
+Storm-Dealer Amethyst;
+Stun Recalcitrant Opal;
+Stun Resistant Opal;
+Unbalancer Citrine;
+
+| pins =
+
+| pets =
+Balance Wartle*F2;
+
+| seeds =
+Angora Bunny Ears;
+Baby Carrots*F8*WMV;
+Bell Pepper*F3*WMV;
+Blue Huckleberries*F4*WMV;
+Boiled Peanuts*F6*WMV;
+Bread Fruit Bush*F5*WMV;
+Cornbread Fruit Bush*F5*WMV;
+Couch Potatoes*CR*F2*WMV;
+Dandelion;
+Deadly Ninja Fig;
+Evil Magma Peas*CR;
+Fish on a Vine*F3*WMV;
+Frozen Fly Trap;
+Golden Couch Potatoes*F4*WMV;
+Grapes of Wrath*CR*F4*WMV;
+Helephant Ears;
+Honey Sickle*F2*WMV;
+Ivy League*CR*F6*WMV;
+Maelstrom Snap Dragon;
+Pink Huckleberries*F6*WMV;
+Pink Laugh-O-Dil;
+Queen Crape Myrtle*F2;
+Red Couch Potatoes;
+Red Grapes of Wrath;
+Red Huckleberries*F7*WMV;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,96 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 16,240
+| crecla = Dino
+| crecla2 = Parasaur
+| school = Death
+| startpips = 3
+| powerpips = Yes
+| critical =
+453;
+
+| criticalblock =
+120;
+
+| outpierce =
+29%;
+
+| outboost =
+100%;
+
+| incboost =
+29% Life;
+2% Myth;
+
+| incresist =
+18% Fire, Ice, Storm, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Huac Cries Blood Rematch
+| descrip =
+Skurkis Screaming Moon is considered a Minion to {{Link|Creature|Huac Cries Blood (Challenge)}}. All drops are recorded on that page.
+
+| speech =
+
+| cheatnotes =
+
+| spellnotes =
+
+| casts =
+Deathblade (+40%);
+Balanceblade (+35%);
+Skeletal Dragon (Tier 5b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Skurkis Screaming Moon (Rematch)
+}}

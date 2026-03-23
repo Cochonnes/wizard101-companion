@@ -1,0 +1,178 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 14,720
+| crecla = Mantis
+| crecla2 = Insect
+| school = Myth
+| startpips = 5
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Leaf Shield;
+
+| world = Khrysalis
+| location = Silent Market
+| subloc1 = The QuietOne's Cache
+| descrip =
+
+| speech =
+:''"Who are you?  Well now, I didn't think anyone would ever believe that blind fool, Romo.  Looks like I have a loose end to cut off..."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+She says she's so sneaky, she can steal the ends of sentences. But no one really believes...
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| casts =
+Amplify;
+Infallible;
+Mythblade;
+Myth Trap;
+Time of Legend;
+Yellow Troll;
+Natural Attack (Myth 135-235-340);
+Humongofrog;
+Myth Imp;
+Minotaur;
+Earthquake;
+Orthrus;
+Medusa;
+Basilisk;
+
+| quests = 
+Robbing Us Blind;
+ 
+| gold =
+128 - 152;
+
+| hats =
+Digger Drone Tactical Helm*F3;
+Mantis Cowl of Purpose*F2*WMV;
+
+| robes =
+Battle-Worn Burrower Armor;
+Mantis Plate of Frostfall;
+
+| boots =
+Digger Drone Boots of Duty*F2;
+Leaf Shield Brisk Walkers*F4*WMV;
+
+| athames =
+Mouse Knight's Shortsword*F2*WMV;
+SkyScreamer's Cutter*F3*WMV;
+
+| amulets =
+Night Flame Choker;
+Relic of Thriving Bastion*F2*WMV;
+
+| rings =
+
+| wands =
+Blade of CinderHart;
+SnowFur's Longblade;
+StormSky's Edge;
+
+| decks =
+Barbed Case of Stratagem;
+Cell of Survival;
+LimeBlight's Gallery;
+
+| items =
+Khrysalis Bastion Theme*F3*WMV;
+Khrysalis Thrives Theme;
+
+| cards =
+Choke;
+Death Scarab;
+Fire Beetle;
+Frost Beetle;
+Life Scarab;
+Scorpion;
+Storm Beetle;
+
+| reagents =
+Black Lotus*F2*WMV;
+Black Pearl*F2;
+Blood Moss*F2;
+Bone*F2;
+Bronze Gear;
+Copper;
+Deep Mushroom;
+Fire Blossom;
+Fossil*F2*WMV;
+Lava Lily*F2*WMV;
+Mist Wood*F2;
+Nightshade;
+Ore*F3;
+Orichalcum;
+Pyrite;
+Red Mandrake*F3;
+Stone Block;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F3;
+Flaming Soup;
+Glowing Dragon Fruit*F2;
+Glowing Star Fruit;
+Goat Cheese;
+King Banana;
+Submarine Sandwich*F2*WMV;
+Uni-Corn*F2;
+
+| jewels =
+Adroit Opal;
+Amplify Talent Opal;
+Fire-Proof Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Fish on a Vine;
+Pink Huckleberries;
+Saw Palmetto;
+
+| mounts =
+
+| spells =
+
+}}

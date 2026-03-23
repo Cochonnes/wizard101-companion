@@ -1,0 +1,241 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 13,200
+| crecla = Lemur
+| crecla2 = Koolakamba
+| school = Star
+| masteries =
+Myth;
+Balance;
+
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| outpierce =
+28%;
+
+| outboost =
+135%;
+
+| incboost =
+2% Life, Death;
+5% Storm;
+
+| incresist =
+71% Myth;
+
+| outhealing =
+45%;
+
+| inchealing =
+50%;
+
+| stunable = Yes
+| beguilable = Yes
+| minion = Koolakamba Warrior
+| minion2 = 
+| world = Lemuria
+| location = Wildlands
+| subloc1 = Koolakamba Ritual Combat Clearing
+| descrip =
+
+| spellnotes =
+*Casts a Mass version of Hex.
+
+| casts =
+Adapt;
+Sugar Rush;
+Star Surge;
+Hex;
+Mass Hex;
+Mass Feint (+70%);
+Cleanse Ward (Star, -All);
+Wild Bolt (Star);
+Natural Attack (Star 115-230-345-460);
+Wraith (Star);
+Power Nova (Star);
+Wrath of Zeus (Star);
+Chimera (Star);
+Snake Charmer;
+Mystic Colossus;
+Old One's Endgame (Tier 2a);
+Nested Fury;
+
+| quests =
+On Your Feat;
+
+| gold =
+132 - 211;
+
+| hats =
+Lemurian Detective Hat;
+Supreme Eruption Hat;
+
+| robes =
+Lemurian Preservation Robe;
+Supreme Teleological Robe;
+
+| boots =
+Lemurian Hex Shoes;
+
+| athames =
+
+| amulets =
+Lemurian Ancient One Talisman;
+
+| rings =
+
+| wands =
+Lemurian Founder's Staff;
+Lemurian Hex Staff;
+
+| decks =
+Lemurian Undead Deck;
+
+| items =
+Cargo;
+Lemuria Action Theme;
+Lemuria Mandoria Theme;
+Lemuria Mystery Theme;
+Periodic Table Poster;
+Puzzle Cube;
+
+| cards =
+Berserk;
+Brilliant Light;
+Death Prism;
+Frostbite;
+Life Prism;
+Raging Bull;
+Sirens;
+Winged Sorrow;
+Witch's House Call;
+
+| reagents =
+Aether;
+Agave Leaves;
+Agave Nectar*F2;
+Astral Shard;
+Brass*F2;
+Bronze Gear;
+Cobalt*F2;
+Ectoplasm*F2;
+Fire Blossom;
+Golden Pearl*F2;
+Mithril;
+Nickel;
+Scales;
+Spider Silk;
+Steel;
+Sunstone*F2;
+Tin;
+Titanium*F2;
+Tungsten;
+Turmeric;
+Turquoise;
+Vine;
+
+| spellements =
+Barbarian's Saga;
+Blast Off!;
+Dark & Stormy;
+
+| snacks =
+Black Sun Seeds;
+Breakfast Tacos;
+Chilly Con Queso;
+Cracker;
+Crystal Custard;
+Crystalweb Candy;
+Dr. Jalapeno;
+Fin Flan*F2;
+Flapjacks*F2;
+Fried Ice Cream;
+Fried Worms;
+Frozen Perogies;
+Large Fish;
+Poncherello Chips;
+Potato Chips;
+Sliced Watermelon;
+Square Root;
+Squash;
+Sugar Donut;
+Swirled Lollipop;
+Taco;
+Tiny Fish;
+
+| jewels =
+Balance-Off Citrine;
+Dazzling Accurate Jade +14%;
+Dazzling Blocking Amethyst +19;
+Dazzling Blocking Onyx +19;
+Dazzling Blocking Sapphire +19;
+Dazzling Damage Peridot +29;
+Dazzling Defense Hematite +60;
+Dazzling Defense Peridot +58;
+Death-Giver Onyx;
+Fire-Proof Ruby;
+Fire-Sniper Ruby;
+Ice Striker Sapphire;
+Life-Giver Jade;
+Life-Sniper Jade;
+Myth-Sniper Peridot;
+Sparkling Accurate Peridot +13%;
+Sparkling Accurate Sapphire +13%;
+Sparkling Blocking Amethyst +17;
+Sparkling Blocking Hematite +17;
+Sparkling Damage Peridot +27;
+Sparkling Defense Peridot +54;
+Sparkling Defense Ruby +53;
+Sparkling Health Opal +116;
+Sparkling Health Opal +119;
+Storm-Away Amethyst;
+Storm-Shot Amethyst;
+
+| pets =
+
+| seeds =
+Bamboo Shoots;
+Bell Pepper;
+Blue Huckleberries;
+Boon Tree*CR;
+Clockwork Flower;
+Dandelion;
+Deadly Fly Trap*F2;
+Evil Snow Peas;
+Fickle Pickle;
+Fiery Boom Shroom;
+Fish on a Vine;
+Helephant Ears;
+Ivy League*CR;
+King Parsley*CR;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Moon Flower;
+Pink Huckleberries;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus*F2;
+Purple Grapes of Wrath*F2;
+Red Couch Potatoes;
+Red Grapes of Wrath;
+Red Huckleberries;
+Rotten Beets;
+Rye Bread Fruit Bush;
+Saw Palmetto*F2;
+Snow Apples;
+Ultra Boom Shroom;
+Ultra Helephant Ears;
+Ultra King Parsley;
+Ultra Snow Apples;
+Vampire Carrots*F2;
+White Laugh-O-Dil;
+White Tiger Lily*F2;
+Yellow Bell Pepper*F2;
+
+| mounts =
+
+| spells =
+
+}}

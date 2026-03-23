@@ -1,0 +1,100 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 27,260
+| crecla = Scholomari
+| school = Life
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+61 Life;
+
+| criticalblock =
+681 Any;
+
+| outpierce =
+16% Life;
+
+| outboost =
+88% Life;
+
+| incboost =
+30% Death;
+
+| incresist =
+41% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+71% Life;
+
+| outhealing =
+42%;
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| world = Darkmoor
+| location = Graveholm
+| subloc1 = Sanderson House (Standard)
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Renew;
+Lifeblade (+40%);
+Zand the Bandit;
+Seraph;
+Gnomes! (Tier 2b);
+Scion of Life (Tier 2b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

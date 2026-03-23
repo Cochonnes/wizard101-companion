@@ -1,0 +1,127 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 14,000
+| crecla = Unicorn
+| school = Ice
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Arcanum
+| location = The Arcanum
+| subloc1 = Arbiter's Arena
+| descrip =
+
+| speech =
+:''"You look out and wonder... where are we? Where is the library? But your thinking is too traditional. As an initiate, you must let that go. Like the Arcanum itself, this chamber exists in a place of its own, between, beneath, behind, and beyond the rings of the Spiral. Likewise, your success as an Initiate depends upon your ability to transcend your knowledge, your skills, and your philosophy. I warn you now. I am here to test the very limits of your magical prowess. I will not pull any punches."''
+
+| spellnotes =
+
+| casts =
+Sleet Storm;
+Tower Shield;
+Iceblade;
+Elemental Blade;
+Balefrost;
+Frost Snake (80);
+Icebird (270);
+Natural Attack (Ice 115-225-335);
+Handsome Fomori;
+Blizzard;
+Snow Angel (6 Pip);
+
+| quests =
+Snowball Barrage;
+
+| gold =
+58 - 100;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Polaris Baba Yaga Theme;
+Polaris Frozen Combat Theme*F2*WMV;
+
+| cards =
+
+| reagents =
+Agave Leaves*F2;
+Amber Dust;
+Braided Vine;
+Fire Blossom;
+Golden Pearl;
+Palladium;
+Scales;
+Stardust;
+Steel;
+Sunstone*F2;
+Titanium*F2;
+Tungsten;
+Turquoise;
+Vine;
+
+| spellements =
+
+| snacks =
+Eye Candy*F3*WMV;
+Hot Cross Buns;
+Penne Dreadful*F2;
+
+| jewels =
+Lustrous PIP Hematite +1;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Cornbread Fruit Bush;
+Evil Snow Peas*F2;
+Fish on a Vine*F2*WMV;
+Goose Tree*F2;
+Green Snow Apples*F2;
+King Parsley*CR;
+Snow Apples;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

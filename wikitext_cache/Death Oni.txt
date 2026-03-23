@@ -1,0 +1,257 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 2,000
+| crecla = Demon
+| crecla2 = Elephant
+| school = Death
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Kakeda Spirit Slave;
+
+| world = MooShu
+| location = Tree of Life
+| lootchest = Death Oni's Chest
+| descrip =
+The Death Oni is the final Boss in the Tree of Life. {{Link|Creature|Kagemoosha}} turns into this Demon after being defeated.
+
+| speech =
+:''"Too late! The Tree of Life is already doomed! You cannot stop the tide of darkness. Surrender ... and know the cold hand of despair!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+The reincarnated spirit of the evil Kagemoosha, the Death Oni wanted to make your visit to the Spirit World a permanent one.
+
+| extract class =
+Elephant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Weakness;
+Black Mantle;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Vampire;
+Skeletal Pirate;
+Scarecrow;
+Natural Attack (Death 85x);
+Fire Elf (50+210);
+Lightning Bats;
+Ice Wyvern;
+
+| quests =
+Tree of Life;
+Oni No Death;
+
+| dropnotes =
+When a Wizard has unlocked the '''Mastermind''' {{Icon|Mastermind}} Badge and has not unlocked the '''Savior of the Spiral''' {{Icon|Savior of the Spiral}} Badge, the following drops will be available:
+*8 Spellements will drop each time from the '''Spiritual''' (Myth, Life, Death, Balance) Schools for their respective rank 1-5 Spells.
+
+| gold =
+60 - 94;
+
+| hats =
+Cowl of Cooperation;
+Cowl of Soul-Searching;
+Cowl of Sympathy;
+Cowl of Tact;
+Death Oni's Abstract Hat;
+Engrossed Hat;
+Hat of Discontent;
+Hat of Unison*F5*WMV;
+Headgear of the Sylph*CR;
+Headwraps of Generations;
+Headwraps of Nourishment*F2*WMV;
+Heedful Headwraps;
+Industrial Helm;
+Nunu's Mask of the Twisted;
+Shroud of Chants;
+Shroud of Conceit*F2*WMV;
+Shroud of the Opus;
+
+| robes =
+Cloak of Clarity;
+Cloak of Deliberation;
+Death Oni's Garments;
+Death Oni's Tunic*F2;
+Ecstatic Garments;
+Enlivened Garment*F3*WMV;
+Gallant Tunic;
+Garments of Generations;
+Garments of the Observant*F3*WMV;
+Impulsive Vestment;
+Industrial Uniform;
+Nosferatu's Cloak*CR;
+Painful Vestment;
+Robe of Song;
+Robe of the Lithe;
+Tunic of Melodies*F3*WMV;
+Vestment of Commotion*F4*WMV;
+Vestment of Niceties;
+
+| boots =
+Boots of the Verse;
+Brogans of Decrepitude*CR;
+Death Oni's Introverted Shoes*F2;
+Engrossed Shoes;
+Footwraps of Charity;
+Immersive Sandals;
+Peculiar Boots*F2*WMV;
+Proficient Shoes;
+Sandals of Hymns*F4*WMV;
+Sandals of the Universe;
+Shoes of Dilemma*F3*WMV;
+Shoes of Hinderance;
+Shoes of Scruples*F2*WMV;
+Stressed Sandals*F3*WMV;
+Vigilant Sandals;
+
+| athames =
+
+| amulets =
+Death Oni's Necklace of Doom;
+
+| rings =
+Band of the Primitives;
+Ring of Regard;
+Sapphire Ring of Power;
+
+| wands =
+Death Oni's Peridot Blade;
+
+| decks =
+
+| items =
+Bell Pagoda;
+Dirt Pile;
+Gong of the Oni;
+Hooked Lantern;
+MooShu Haunted Theme;
+Samoorai Statue*F2*WMV;
+Tall Boulder;
+Votive Tablet*F2*WMV;
+Wing Chun Dummy*F2*WMV;
+Wooden Skeleton Key*CR*F3*WMV;
+
+| cards =
+Black Mantle*F2*WMV;
+Colossus;
+Helephant;
+Hydra;
+Ice Wyvern;
+Monstrous;
+Ninja Pigs*F2*WMV;
+Samoorai*F5*WMV;
+Satyr;
+Scarecrow;
+
+| reagents =
+Brass;
+Cat Tail;
+Copper;
+Ectoplasm*F4*WMV;
+Lead;
+Nickel;
+Pyrite;
+Spider Silk*F4*WMV;
+
+| spellements =
+Banshee*BR;
+Blood Bat*BR;
+Cyclops*BR*F2;
+Cyclops Minion*BR;
+Dark Sprite*BR;
+Earth Walker*BR;
+Gearhead Destroyer*BR;
+Ghoul*BR*F2;
+Imp*BR*F2;
+Leprechaun*BR*F2;
+Nature's Wrath*BR;
+Scorpion*BR;
+Seraph*BR;
+Skeletal Pirate*BR*F2;
+Spectral Blast*BR;
+Troll*BR;
+Vampire*BR*F2;
+
+| snacks =
+Ape Grapes;
+Crunch Apple;
+Fire Cracker;
+Golden Squash;
+Large Fish*F2*WMV;
+Large Watermelon;
+Square Root;
+Square Watermelon;
+
+| jewels =
+Balance-Eye Citrine;
+Blemished Defense Onyx +21*F2;
+Blemished Defense Opal +12;
+Blemished Defense Ruby +21;
+Flawed Damage Opal +5;
+Flawed Defense Citrine +18;
+Flawed Defense Jade +18;
+Flawed Defense Onyx +18;
+Flawed Defense Ruby +18;
+Flawed Health Opal +32;
+Flawed Health Opal +33;
+Flawed Mana Opal +15;
+Flawed Mending Opal +2%;
+Leech Opal;
+Silence Opal;
+Wisp Bonus Opal;
+
+| pins =
+
+| pets =
+Deathbat;
+Dire Ghoul;
+Leprechaun*F4*WMV;
+
+| seeds =
+Deadly Ninja Fig*F2*WMV;
+Fiery Boom Shroom*F3;
+Maelstrom Snap Dragon*F3*WMV;
+Pink Dandelion*CR*F2*WMV;
+White Laugh-O-Dil*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

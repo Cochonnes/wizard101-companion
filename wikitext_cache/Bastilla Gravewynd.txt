@@ -1,0 +1,196 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 440
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Life;
+
+| incresist =
+50% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Fire Elf Hunter;
+
+| world = Wizard City
+| location = Firecat Alley
+| subloc1 = Bastilla's Bastion
+| descrip =
+Once the Prima Donna of the {{Link|Location|Fireglobe Theatre}}, Bastilla Gravewynd has returned to the land of the living and cursed the Fire Elves of Firecat Alley as part of [[NPC:Malistaire Drake|Malistaire's]] plans. Wizards confront Bastilla to record her wail on a Herkimer Stone to unravel the curse.
+
+Two additional Fire Elf Hunter Minions appear if more than two Wizards are present.
+
+| speech =
+:''"At last! I've been eagerly awaiting a review of the performance I gave for the Fire Elves. What, are you not a fan? Well, Malistaire is. None of you wretched living creatures' opinions will matter once the Dark Master's plan is fulfilled. And there's nothing you can do about it!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+She likes her house tidy, and her attacks tidier.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Death Trap;
+Dark Sprite;
+Natural Attack (Death 180);
+Natural Attack (Death 85x);
+Imp;
+Scarab;
+Fire Cat;
+Thunder Snake;
+
+| quests =
+100% Not That Witch;
+
+| gold =
+7 - 25;
+
+| hats =
+Bastilla's Hood*F5*WMV;
+Cowl of Comparison*F14*WMV;
+Cowl of Wisdom;
+Firestorm Cap;
+Helm of Audacity;
+Helm of Stability;
+Imp Lord's Helm;
+Novice's Hat;
+Novitiate Hat;
+Sapphyra's Studded Helm*F13*WMV;
+Troubled Helm*F12*WMV;
+
+| robes =
+Chillcloak*F2;
+Cloak of Calamity*F2;
+Cloak of Foresight;
+Fairy Cloak*F2;
+Gravewynd's Tunic*F3*WMV;
+Novice's Robe;
+Novitiate Robe*F3*WMV;
+Robe of Antiquities;
+Roughspun Robe*F2;
+Stormcaller's Robe;
+Sturdy Coat;
+Twice Stitched Robe;
+
+| boots =
+Adventurer's Boots;
+Bastilla's Shoes*F4*WMV;
+Boots of the Adverse*F2*WMV;
+Explorer Boots;
+Fairy Shoes;
+Novice's Shoes;
+Novitiate Boots;
+Plated Boots;
+Roughspun Shoes*F2*WMV;
+Slippers of Repose*F8*WMV;
+Slippers of Rites;
+Soot Stained Boots;
+Sturdy Boots;
+
+| athames =
+Bastilla's Flame Dagger*F4*WMV;
+Ritual Athame;
+Simple Dirk*F2*WMV;
+
+| amulets =
+Bastilla's Deadly Choker*F5*WMV;
+Choker of Ferocity*F12*WMV;
+Choker of Swarms*F16*WMV;
+
+| rings =
+Bastilla's Onyx Ring*F2;
+Bastilla's Seal*F3*WMV;
+Flawed Opal Band;
+Gravewynd's Circle*F2;
+
+| wands =
+Bastilla's Dread Staff*F4*WMV;
+Gravewynd's Earth Staff*F5*WMV;
+Symmetrical Wand*F2*WMV;
+
+| decks =
+
+| items =
+Carved Armoire*F6*WMV;
+Fire Stone Fence*F3*WMV;
+Padded Chair; 
+Prop House 2;
+Small Snowy Pine*F7*WMV;
+Wizard City Theme 3*F14*WMV;
+Wooden Skeleton Key*CR*F5*WMV;
+
+| cards =
+Banshee*F7*WMV;
+Fire Elf*F6*WMV;
+Fire Shield;
+Ghoul*F2*WMV;
+Guiding Light;
+Imp;
+Keen Eyes;
+Lightning Bats*F2*WMV;
+Locust Swarm*F2;
+Pixie;
+Scarab;
+Snow Serpent;
+Snow Shield;
+Thunder Snake;
+Time of Legend;
+Troll;
+
+| reagents =
+Ectoplasm*F4;
+Leather Straps*F6*WMV;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry*F4*WMV;
+Cheese Broccoli*F4*WMV;
+Chocolate Strawberry*F4*WMV;
+Gummy Firecat*F5*WMV;
+Sugar Donut*F4*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+Dark Sprite*F4*WMV;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

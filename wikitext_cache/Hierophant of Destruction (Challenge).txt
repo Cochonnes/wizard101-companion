@@ -1,0 +1,115 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 20,220
+| crecla = 
+| school = Ice
+| school2 = Storm
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Darkmoor
+| location = Black Lagoon
+| subloc1 = Bog of Vengeance (Challenge)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Round}} ''"No child dares disobey the Scholomari"'' - Hierophant of Destruction will say this at the beginning of the first round and after she casts a Blade, Trap, Aura, or Global with no effect.
+*{{Icon|Random}} ''"My turn is when I say it is."'' - Randomly, Hierophant of Destruction will interrupt and cheat-cast {{Link|Spell|Chain Lightning}}.
+{{Icon|Round}} '''Cheat Cycle'''
+
+This cheat cycle begins at the end of the first round and repeats from the beginning starting on the next turn after the cycle ends.
+
+*''"You will cast what I tell you!"'' - Hierophant of Destruction will interrupt and force a random wizard to cast one of the following spells:
+**{{Icon|Elemental}} {{Icon|Weakness}} A special 15% version of {{Link|Spell|Elemental Weakness}}
+**{{Icon|Deferred Damage}} A triple Bomb DoT that deals 50 Fire damage after 5 rounds.
+**{{Icon|Heal over Time}} A triple HoT that heals 50 health over 5 rounds.
+**{{Icon|Spirit}}{{Icon|Blade}} A special 15% version of {{Link|Spell|Spirit Blade}}
+*''"The willful student hurts themselves''" - At the end of the round two rounds after forcing a wizard to cast a spell (e.g. round 3 for the first cycle), Hierophant of Destruction casts a special Ice (if the hanging effect was blades or weaknesses) or Storm (if the hanging effect was DoTs or HoTs) damage spell that clears the hanging effects that wizards were forced to cast and deals 10% of the wizard's max health per hanging effect cleared.
+
+| spellnotes =
+Casts a version of {{Link|Spell|Iceblade}} that applies two +40% Ice Blades
+
+| casts =
+Empowerment;
+Legion Shield;
+Stormblade (+30%);
+Dark Tribute;
+Mass Ice Trap;
+Ice Feint;
+Mass Storm Trap;
+Empower;
+Ice Wyvern;
+Frost Minotaur;
+Ice Helephant;
+Furious Hail;
+Tempest (6 Pip);
+Abominable Weaver (Shadow);
+Triton (Shadow);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Hierophant of Destruction (Standard)
+}}

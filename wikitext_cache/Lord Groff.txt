@@ -1,0 +1,218 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 9,880
+| crecla = Elf
+| school = Storm
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Iceblight Elf;
+
+| world = Polaris
+| location = River of Frozen Tears
+| subloc1 = Lord Groff's Cave
+| descrip =
+
+| speech =
+:''"Excuse me? Did I invite you into my glen? I don't think so. You're going to get a cold reception."''
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Infallible;
+Thermic Shield (-50%);
+Tower Shield;
+Cleanse Charm;
+Disarm;
+Enfeeble;
+Natural Attack (Lord Groff);
+Catalan;
+Glowbug Squall;
+Storm Lord;
+Leviathan;
+Sirens;
+
+| quests =
+The Other Yeti;
+
+| gold =
+436 - 711;
+
+| hats =
+Bleaks Ushanka of Vigor;
+Evoker's Ember Brim;
+Evoker's Forlorn Brim;
+Evoker's Stalwart Brim*F2*WMV;
+The Goat Horns*CR;
+The Kroktop*CR;
+The Manticore*CR;
+
+| robes =
+Evoker's Wrap of Acuity;
+
+| boots =
+Bleaks Shoes of Snowstorms;
+Bleaks Trekkers of Vigor;
+Evoker's Ember Walkers*F2;
+Evoker's Forlorn Stalkers*F4;
+Evoker's Gelid Striders;
+Evoker's Stalwart Footgear;
+
+| athames =
+Bleaks Cutter of Despair;
+Bleaks Dagger of Vigor;
+Bleaks Knife of Snowstorms*F2;
+
+| amulets =
+Bleaks Ampul of Pyres;
+Bleaks Amulet of Frost;
+Bleaks Choker of Despair;
+Bleaks Medallion of Vigor;
+Bleaks Torc of Snowstorms*F3*WMV;
+
+| rings =
+Bleaks Band of Snowstorms;
+Bleaks Circle of Pyres;
+Bleaks Loop of Vigor;
+Bleaks Seal of Despair;
+Kossack Loop of Tempests;
+Noble Band of the Bleaks;
+Radiant Kossack Ring;
+
+| wands =
+Kossack Cutlass of Redress*F2;
+Kossack Cutlass of Tempests;
+Kossack Saber of Purpose*F2;
+Kossack Sword of Travail;
+Polarian Kossack Saber;
+
+| decks =
+Kossack Array of Travail*F2*WMV;
+Kossack Stack of Purpose;
+Polarian Kossack's Hand;
+
+| items =
+Arcanum Theme*F2;
+Large Small Fry Aquarium;
+Polaris Frozen Combat Theme;
+Polaris Frozen Forest Theme*F2;
+Polaris Gulag Theme;
+Polaris Mine Combat Theme;
+Polaris Opera Theme*F2;
+Polaris Rasputin Combat Theme;
+Regular Keeper Aquarium;
+Regular Whopper Aquarium;
+Regular Small Fry Aquarium;
+Tall Whopper Aquarium*F2*WMV;
+
+| cards =
+Age of Reckoning;
+Bronze Helephant;
+Combustion;
+Mutate Bats (Fire);
+Mutate Beetle (Storm);
+Mutate Hound (Storm);
+Mutate Wyvern (Storm);
+Saga of Heroes;
+
+| reagents =
+Aether;
+Agave Leaves*F2;
+Amber Dust*F2;
+Ancient Scroll*F2;
+Aquamarine*F3;
+Black Pearl*F2;
+Blood Moss*F3*WMV;
+Brass;
+Bronze Gear;
+Cobalt*F2*WMV;
+Ectoplasm;
+Fish Fin*F2;
+Golden Pearl;
+Mithril*F2*WMV;
+Nickel*F3;
+Scales*F3*WMV;
+Silver*F2;
+Spider Silk*F3*WMV;
+Spring;
+Steel*F2;
+Sunstone*F4*WMV;
+Tin*F3;
+
+| spellements =
+
+| snacks =
+Antheneum Delight*F2;
+Aztecan Hot Chocolate;
+Beast Wellington;
+Chalupacabra;
+Chili Cheese Fries*F2*WMV;
+French Fries;
+Huge Ice Cream;
+Jolly Rancher*F2;
+Mustachios;
+Polaris Fries;
+Ships 'n' Queso;
+Sprinkle Cupcake;
+Submarine Sandwich*F2;
+Super Cold Popsicle*F2*WMV;
+Veggie Juice*F2;
+
+| jewels =
+Polished Blocking Peridot +11;
+
+| pins =
+
+| pets =
+Glacier Dragon;
+Ice Bird;
+Mountain Yeti*CR;
+White Winter Owl*CR;
+
+| seeds =
+Angel Oak*F2;
+Boiled Peanuts;
+Burning Snap Dragon;
+Cornbread Fruit Bush*F3*WMV;
+Evil Snow Peas*F2;
+Face Palm*F5*WMV;
+Fish on a Vine;
+Frozen Fly Trap*F3;
+Goose Tree*F2;
+Green Snow Apples*F2*WMV;
+King Parsley*CR*F3*WMV;
+Maelstrom Snap Dragon*F3;
+Moon Flower*F2*WMV;
+Purple Snow Apples*F3*WMV;
+Queen Crape Myrtle*F2;
+Snap Dragon;
+Ultra Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

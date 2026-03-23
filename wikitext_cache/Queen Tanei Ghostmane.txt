@@ -1,0 +1,158 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,890
+| crecla = Lion
+| school = Fire
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Zafaria
+| location = Savannah
+| subloc1 = Queen Tanei Ghostmane's Cave
+| descrip =
+
+| speech =
+:''"I hid myself away for a reason! None should see me like this. Now, you can never leave!"''
+
+| spellnotes =
+
+| casts =
+Fireblade;
+Fire Trap;
+Sunbird;
+Meteor Strike;
+Phoenix;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+
+| quests =
+Lioness Sleeps Tonight;
+
+| gold =
+77 - 121;
+
+| hats =
+Mantle of the Grasslands*F2*WMV;
+Mask of the Great Patapon*F3*WMV;
+Wrathful Wraith's Headdress;
+Zebra's Zephyr Headdress;
+
+| robes =
+Cloak of Dreaming Medicine*F3*WMV;
+Fire-Feather Robes*F3*WMV;
+Irontrunk Cloak of Dreams;
+Mantle of the Grasslands;
+Outsider's Grim Garb*F2;
+
+| boots =
+Ananse's Dark Rangers;
+Dancing Queen Dancers*F3*WMV;
+Doctor's Firestorm Walkers;
+Steppers of Ice and Fire;
+Witch Doctor's Juju Rangers;
+
+| athames =
+Striped Spear Blade*F5*WMV;
+
+| amulets =
+Collar of the Storm Hound*F4*WMV;
+
+| rings =
+Hathi's Victory Band;
+Mansa's Dream Stone*F4*WMV;
+Tanei's Ghost Ring;
+Unathi's Nighttime Circle;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Fuel*F9*WMV;
+Monstrous*F2*WMV;
+Power Link*F3*WMV;
+Precision;
+Sniper;
+Vengeance*F6*WMV;
+
+| reagents =
+Bone*F2*WMV;
+Bronze*F3*WMV;
+Bronze Gear*F3*WMV;
+Cobalt*F4*WMV;
+Nickel;
+Steel*F2;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Cheese Broccoli;
+Chocolate Strawberry;
+Cracker;
+Flapjacks*F2;
+Glowing Star Fruit;
+Golden Apple;
+Golden Grapes;
+Gummy Firecat;
+Gummy Humongofrog*F2;
+Jelly Baby;
+King Banana;
+Kola Nuts;
+Nettle Root;
+Sugar Donut;
+
+| jewels =
+Fire-Away Ruby;
+Plain Defense Amethyst +32;
+Power Nova Citrine;
+Storm-Giver Amethyst;
+Sturdy Opal;
+Weakenizer Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Burning Snap Dragon;
+Helephant Ears;
+Orange Bell Pepper*CR;
+Rye Bread Fruit Bush;
+Venus Fly Trap*F2;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

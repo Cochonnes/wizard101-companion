@@ -1,0 +1,422 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 20,275
+| crecla = Treant
+| school = Life
+| school2 = Death
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+20%;
+
+| outboost =
+104%;
+
+| incboost =
+30% Death;
+
+| incresist =
+37% Fire, Ice, Storm, Myth, Balance, Shadow;
+67% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Wandering Weed (Standard);
+
+| world = Krokotopia
+| location = Vivarium
+| subloc1 = Dark Abode (Standard)
+| lootchest = Taking Tree Chest (Standard)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the Challenge version of this battle, see {{Link|Creature|Taking Tree (Challenge)}}.
+
+| speech =
+:'''Taking Tree''': ''"I am the rot you do not see, the weakness your Wizard fosters, the resentment of the fallen. I am that which spurns and spits and spites."''
+:'''{{Link|NPC|Istar}}''': ''"Uhh... neat. I was just asking if this is still Krokotopia though? Not the citadel with the mean purple ladies?"''
+:'''Taking Tree''': ''"All worlds cower under the shade of the Scion, shrouded eternally in the darkness of indolence."''
+:'''Istar''': ''"Fine, I'll just wing it. Boppity-bippity-Boop!"''
+:'''Taking Tree''': ''"You see the effect you have, little blossom? You think you are doing good, saving us all. But I am your true face, not the story you tell yourself. You are not an apple tree, Wizard, you are a weed. And it is time you were uprooted."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+This guy just desperately needs to know someone cares. This is why tree huggers are so important.
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Charm}}{{Icon|Curse}}{{Icon|Ward}}{{Icon|Jinx}}{{Icon|Heal over Time}}{{Icon|Damage over Time}} ''"Take this...and I'll take that"'':
+**If a Wizard casts a Helpful Charm, Helpful Ward, or Healing over Time effect, Taking Tree will swap the effects with the receiver.
+**If a Wizard casts a Harmful Charm, Harmful Ward, or Damage over Time effect, Taking Tree will swap the effects with the caster.
+***If a multi-target Spell is cast, such as {{Link|Spell|Bladestorm}}, Taking Tree will swap with the caster only.
+***If a multi-effect Spell is cast, such as {{Link|Spell|Elemental Blade}}, only the last effect will be swapped (e.g. Fire for Elemental Blade).
+***Secondary Spell effects, such as the Damage over Time from {{Link|Spell|Fire Dragon}}, will trigger this cheat. 
+***{{Link|Spell|Aegis}} and {{Link|Spell|Indemnity}} can be used to avoid the removal of Charms or Wards once.
+*{{Icon|Round}} ''"Virtue dies when truth is realized"'' - At the end of the first Round, and any Round where a Wizard triggered the above cheat, Taking Tree will cheat-cast one of the following Spells:
+**{{Link|Spell|Regenerate (Tier 5a)}}
+**{{Link|Spell|Regenerate (Tier 5b)}}
+**A version of Dark Tribute that deals 300 Moon Damage and applies a +35% Damage Charm
+**A 2-Pip version of Dark Tribute that deals 450 Moon Damage and applies a +45% Damage Charm
+**A 4-Pip version of Spirit Armor that applies a 600 Damage Absorb Ward
+
+| spellnotes =
+
+| casts =
+Adapt;
+Threefold Fever;
+Rebirth (Tier 5b);
+Dark Tribute;
+Steal Pip;
+Doom and Gloom;
+Burrowing Bane;
+Forest Lord (Tier 5b);
+Spinysaur (Tier 2b);
+Vampire (Tier 5b);
+Skeletal Pirate (Tier 5b);
+Monster Mash (Tier 5b);
+Scarecrow (Tier 5b);
+
+| quests =
+The Mean Tree;
+
+| dropnotes =
+Defeating Taking Tree grants each Wizard the following rewards:
+*1 Amulet, Wand, Circle Jewel, or Shield Pin {{Icon|Amulet}}{{Icon|Wand}}{{Icon|Circle Jewel}}{{Icon|Shield Pin}}
+*1 Moon Dust {{Icon|Reagent}}
+*4-5 Spellements from Karamelle, Lemuria, Novus, Wallaru, and Selenopolis {{Icon|Spellement}}
+
+| gold =
+5 - 78;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Avatar's Amulet of Bad Blood*F2;
+Avatar's Amulet of Payback;
+Avatar's Amulet of Reprisal;
+Avatar's Amulet of Retribution;
+Avatar's Amulet of Revenge*F2*WMV;
+Avatar's Amulet of Vengeance*F2;
+Avatar's Amulet of Wrath*F2;
+Manifest Amulet of Bad Blood;
+Manifest Amulet of Payback*F2;
+Manifest Amulet of Reprisal;
+Manifest Amulet of Retribution*F3;
+Manifest Amulet of Revenge;
+Manifest Amulet of Vengeance;
+Manifest Amulet of Wrath*F2*WMV;
+
+| rings =
+
+| wands =
+Avatar's Chakram of Bad Blood;
+Avatar's Chakram of Payback;
+Avatar's Chakram of Reprisal*F2;
+Avatar's Chakram of Retribution;
+Avatar's Chakram of Revenge;
+Avatar's Chakram of Vengeance;
+Avatar's Chakram of Wrath;
+Manifest Chakram of Bad Blood;
+Manifest Chakram of Payback;
+Manifest Chakram of Reprisal;
+Manifest Chakram of Retribution*F2;
+Manifest Chakram of Revenge*F5;
+Manifest Chakram of Vengeance*F2;
+Manifest Chakram of Wrath*F2;
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Moon Dust*F22*WMV;
+
+| spellements =
+Ammut*F7*WMV;
+Anubis*F3;
+Barbarian's Saga*F4;
+Blast Off!*F4*WMV;
+Bunyip's Rage*F3;
+Chameleon Clash*F2*WMV;
+Count Croakula;
+Dark & Stormy*F3;
+Deathly Depths;
+Drop Bear Fury*F3*WMV;
+Freeze Ray*F4;
+Glimpse of Infinity*F4;
+Gravestorm;
+Grim Reader*F6;
+Grrnadier*F7*WMV;
+Heqet*F3;
+Improbable Gaze*F2;
+Lord of the Jungle*F4;
+Mockenspiel*F5;
+Old One's Endgame*F4;
+Phantasmania!*F4;
+Rainbow Serpent;
+S'more Machine*F8;
+Scales of Destiny*F3;
+Shatterhorn*F3*WMV;
+Shu;
+Snack Attack*F4*WMV;
+Sound of Musicology*F5*WMV;
+Starspawn*F6*WMV;
+Tatzlewurm Terror*F3;
+Taweret*F3;
+Thoth*F9;
+Tree of Strife*F5*WMV;
+Wobbegong Frenzy*F3*WMV;
+Zand the Bandit*F3;
+
+| snacks =
+
+| jewels =
+Flawless Critical Amethyst +23;
+Flawless Critical Amethyst +24;
+Flawless Critical Citrine +23*F2;
+Flawless Critical Citrine +24*F2;
+Flawless Critical Jade +23;
+Flawless Critical Jade +24;
+Flawless Critical Onyx +23;
+Flawless Critical Onyx +24*F5;
+Flawless Critical Peridot +23;
+Flawless Critical Peridot +24*F3*WMV;
+Flawless Critical Ruby +23;
+Flawless Critical Ruby +24;
+Flawless Critical Sapphire +23;
+Flawless Critical Sapphire +24*F2;
+Polished Piercing Amethyst +6%;
+Polished Piercing Citrine +6%;
+Polished Piercing Jade +6%;
+Polished Piercing Onyx +6%*F2;
+Polished Piercing Peridot +6%;
+Polished Piercing Ruby +6%;
+Polished Piercing Sapphire +6%*F2;
+Unearthly Critical Amethyst +42 (Ice);
+Unearthly Critical Amethyst +44 (Life);
+Unearthly Critical Amethyst +46 (Death);
+Unearthly Critical Amethyst +48 (Balance);
+Unearthly Critical Amethyst +50 (Fire);
+Unearthly Critical Amethyst +51 (Myth);
+Unearthly Critical Amethyst +54 (Storm);
+Unearthly Critical Citrine +42 (Ice);
+Unearthly Critical Citrine +44 (Life);
+Unearthly Critical Citrine +46 (Death);
+Unearthly Critical Citrine +48 (Balance);
+Unearthly Critical Citrine +50 (Fire);
+Unearthly Critical Citrine +51 (Myth);
+Unearthly Critical Citrine +54 (Storm);
+Unearthly Critical Jade +42 (Ice);
+Unearthly Critical Jade +44 (Life);
+Unearthly Critical Jade +46 (Death);
+Unearthly Critical Jade +48 (Balance);
+Unearthly Critical Jade +50 (Fire);
+Unearthly Critical Jade +51 (Myth);
+Unearthly Critical Jade +54 (Storm);
+Unearthly Critical Onyx +42 (Ice);
+Unearthly Critical Onyx +44 (Life);
+Unearthly Critical Onyx +46 (Death);
+Unearthly Critical Onyx +48 (Balance);
+Unearthly Critical Onyx +50 (Fire);
+Unearthly Critical Onyx +51 (Myth);
+Unearthly Critical Onyx +54 (Storm)*F2;
+Unearthly Critical Peridot +42 (Ice);
+Unearthly Critical Peridot +44 (Life);
+Unearthly Critical Peridot +46 (Death);
+Unearthly Critical Peridot +48 (Balance);
+Unearthly Critical Peridot +50 (Fire);
+Unearthly Critical Peridot +51 (Myth);
+Unearthly Critical Peridot +54 (Storm);
+Unearthly Critical Ruby +42 (Ice);
+Unearthly Critical Ruby +44 (Life);
+Unearthly Critical Ruby +46 (Death);
+Unearthly Critical Ruby +48 (Balance);
+Unearthly Critical Ruby +50 (Fire);
+Unearthly Critical Ruby +51 (Myth);
+Unearthly Critical Ruby +54 (Storm);
+Unearthly Critical Sapphire +42 (Ice);
+Unearthly Critical Sapphire +44 (Life);
+Unearthly Critical Sapphire +46 (Death);
+Unearthly Critical Sapphire +48 (Balance);
+Unearthly Critical Sapphire +50 (Fire);
+Unearthly Critical Sapphire +51 (Myth);
+Unearthly Critical Sapphire +54 (Storm);
+Unearthly Damage Amethyst +9% (Ice);
+Unearthly Damage Amethyst +9% (Life);
+Unearthly Damage Amethyst +10% (Balance);
+Unearthly Damage Amethyst +10% (Fire);
+Unearthly Damage Amethyst +10% (Myth);
+Unearthly Damage Amethyst +11% (Death);
+Unearthly Damage Amethyst +11% (Storm);
+Unearthly Damage Citrine +9% (Ice);
+Unearthly Damage Citrine +9% (Life);
+Unearthly Damage Citrine +10% (Balance);
+Unearthly Damage Citrine +10% (Fire);
+Unearthly Damage Citrine +10% (Myth);
+Unearthly Damage Citrine +11% (Death);
+Unearthly Damage Citrine +11% (Storm);
+Unearthly Damage Jade +9% (Ice);
+Unearthly Damage Jade +9% (Life);
+Unearthly Damage Jade +10% (Balance);
+Unearthly Damage Jade +10% (Fire);
+Unearthly Damage Jade +10% (Myth);
+Unearthly Damage Jade +11% (Death);
+Unearthly Damage Jade +11% (Storm);
+Unearthly Damage Onyx +9% (Ice);
+Unearthly Damage Onyx +9% (Life);
+Unearthly Damage Onyx +10% (Balance);
+Unearthly Damage Onyx +10% (Fire);
+Unearthly Damage Onyx +10% (Myth);
+Unearthly Damage Onyx +11% (Death);
+Unearthly Damage Onyx +11% (Storm);
+Unearthly Damage Peridot +9% (Ice);
+Unearthly Damage Peridot +9% (Life);
+Unearthly Damage Peridot +10% (Balance);
+Unearthly Damage Peridot +10% (Fire);
+Unearthly Damage Peridot +10% (Myth);
+Unearthly Damage Peridot +11% (Death);
+Unearthly Damage Peridot +11% (Storm);
+Unearthly Damage Ruby +9% (Ice);
+Unearthly Damage Ruby +9% (Life);
+Unearthly Damage Ruby +10% (Balance);
+Unearthly Damage Ruby +10% (Fire);
+Unearthly Damage Ruby +10% (Myth);
+Unearthly Damage Ruby +11% (Death);
+Unearthly Damage Ruby +11% (Storm);
+Unearthly Damage Sapphire +9% (Ice);
+Unearthly Damage Sapphire +9% (Life);
+Unearthly Damage Sapphire +10% (Balance);
+Unearthly Damage Sapphire +10% (Fire);
+Unearthly Damage Sapphire +10% (Myth);
+Unearthly Damage Sapphire +11% (Death);
+Unearthly Damage Sapphire +11% (Storm);
+
+| pins =
+Balance Blocking Pin (150, Death);
+Balance Blocking Pin (150, Fire);
+Balance Blocking Pin (150, Ice);
+Balance Blocking Pin (150, Life);
+Balance Blocking Pin (150, Myth);
+Balance Blocking Pin (150, Storm);
+Balance Blocking Pin (160, Death);
+Balance Blocking Pin (160, Fire);
+Balance Blocking Pin (160, Ice);
+Balance Blocking Pin (160, Life);
+Balance Blocking Pin (160, Myth);
+Balance Blocking Pin (160, Storm);
+Balance Mending Pin (140);
+Balance Mending Pin (160);
+Balance Resist Pin (140, Death);
+Balance Resist Pin (140, Fire);
+Balance Resist Pin (140, Ice);
+Balance Resist Pin (140, Life);
+Balance Resist Pin (140, Myth);
+Balance Resist Pin (140, Storm);
+Death Blocking Pin (150, Balance);
+Death Blocking Pin (150, Ice);
+Death Blocking Pin (150, Myth);
+Death Blocking Pin (160, Balance);
+Death Blocking Pin (160, Ice);
+Death Blocking Pin (160, Myth);
+Death Resist Pin (150, Balance);
+Death Resist Pin (150, Ice);
+Death Resist Pin (150, Myth);
+Fire Blocking Pin (150, Balance);
+Fire Blocking Pin (150, Life);
+Fire Blocking Pin (150, Storm)*F2;
+Fire Blocking Pin (160, Balance);
+Fire Blocking Pin (160, Life)*F2;
+Fire Blocking Pin (160, Storm);
+Fire Mending Pin (140);
+Fire Mending Pin (160);
+Fire Resist Pin (120, Balance);
+Fire Resist Pin (140, Balance);
+Fire Resist Pin (140, Life);
+Fire Resist Pin (140, Storm);
+Ice Blocking Pin (150, Balance);
+Ice Blocking Pin (150, Fire);
+Ice Blocking Pin (150, Myth);
+Ice Blocking Pin (160, Balance);
+Ice Blocking Pin (160, Fire);
+Ice Blocking Pin (160, Myth);
+Ice Resist Pin (140, Balance);
+Ice Resist Pin (140, Fire);
+Ice Resist Pin (140, Myth);
+Life Blocking Pin (150, Balance);
+Life Blocking Pin (150, Death);
+Life Blocking Pin (150, Storm);
+Life Blocking Pin (160, Balance);
+Life Blocking Pin (160, Death);
+Life Blocking Pin (160, Storm);
+Life Mending Pin (140);
+Life Mending Pin (160);
+Life Resist Pin (140, Balance);
+Life Resist Pin (140, Death);
+Life Resist Pin (140, Storm);
+Myth Blocking Pin (150, Balance);
+Myth Blocking Pin (150, Fire);
+Myth Blocking Pin (150, Life);
+Myth Blocking Pin (160, Balance);
+Myth Blocking Pin (160, Fire);
+Myth Blocking Pin (160, Life);
+Myth Resist Pin (140, Balance);
+Myth Resist Pin (140, Fire);
+Myth Resist Pin (140, Life);
+Storm Blocking Pin (150, Balance);
+Storm Blocking Pin (150, Death);
+Storm Blocking Pin (150, Ice);
+Storm Blocking Pin (160, Balance);
+Storm Blocking Pin (160, Death);
+Storm Blocking Pin (160, Ice);
+Storm Mending Pin (140);
+Storm Mending Pin (160);
+Storm Resist Pin (130, Balance);
+Storm Resist Pin (130, Death);
+Storm Resist Pin (130, Ice);
+Storm Resist Pin (160, Balance);
+Storm Resist Pin (160, Death);
+Storm Resist Pin (160, Ice);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Taking Tree
+}}

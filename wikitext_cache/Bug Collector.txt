@@ -1,0 +1,236 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 9,840
+| crecla = Beastman
+| school = Myth
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+15%;
+
+| outboost =
+65%;
+
+| incboost =
+15% Storm;
+
+| incresist =
+30% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Zappy Bug;
+Zappy Bug;
+Zappy Bug;
+
+| world = Empyrea
+| location = Aeriel Jungle
+| subloc1 = Bug Collector
+| descrip =
+
+| speech =
+:"''Hey, why you fight my bugs? They not hurt anybody. They just burn down whole Jungle. It stupid Jungle. Has pollen. Make me sneeze. But once it gone, I plant better Jungle. Hypoallergenic Jungle. And you not stop me, Outlander!''"
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Ether Shield;
+Mythblade;
+Blinding Light;
+Keeper of the Flame;
+Natural Attack (Myth 115-230-345, 80%);
+Humongofrog (310-370);
+Legendary Treant (445);
+Basilisk;
+
+| quests =
+Bug's Strife;
+
+| gold =
+121 - 739;
+
+| hats =
+Cabal Schism Hood;
+Cabalist Chaotic Hood;
+Nostalgic Cabal Hood;
+
+| robes =
+Interstellar Warrior Uniform*F2;
+
+| boots =
+Cabalist Stompers of the First;
+Interstellar Explorer's Trekkers;
+
+| athames =
+Interstellar Officer's Knife*F2;
+Nostalgic Cabal Dagger;
+
+| amulets =
+Cabalist Chaotic Amulet;
+
+| rings =
+Interstellar Delegate's Band*F2;
+Interstellar Officer's Band;
+Interstellar Warrior's Band;
+
+| wands =
+Hero's Hexacorder;
+
+| decks =
+Interstellar Delegate's Deck;
+Interstellar Officer's Deck;
+
+| items =
+Dwarven Dinner Table;
+Dwarven File;
+Dwarven Side Table;
+Empyrea Aeriel Theme*F2;
+Empyrea Flotsam Combat Theme;
+Empyrea Inner Athanor Theme;
+Empyrea Jungle Theme;
+Empyrea Khan Theme;
+Empyrea Lava Lock Theme;
+Empyrea Leisure Dome Theme;
+Empyrea Outer Athanor Theme;
+Empyrea Sepidious Combat Theme*F2*WMV;
+Empyrea Sepidious Theme*F4;
+Empyrea Sewer Theme;
+Empyrea Zanadu Combat Theme*F2;
+Empyrea Zanadu Theme;
+Fire Dwarf Bed*F2;
+Fire Dwarf Chair*F3*WMV;
+Ice Dwarf Chair;
+Pirate Party Barge Theme;
+
+| cards =
+Berserk;
+Brilliant Light*F2;
+Combustion;
+Darkwind;
+Ether Shield;
+Frostbite;
+Mass Death Prism;
+Mass Storm Prism;
+Mutate Phoenix (Storm);
+Mutate Serpent (Fire);
+Sirens;
+
+| reagents =
+Ancient Scroll;
+Antique Coins*F4*WMV;
+Black Pearl*F2*WMV;
+Blood Moss*F5*WMV;
+Brass;
+Bronze Gear*F3*WMV;
+Cobalt*F5*WMV;
+Ectoplasm*F6*WMV;
+Flying Squid Ink*F6;
+Nickel*F2;
+Scales*F2;
+Spider Silk*F4*WMV;
+Spring*F2;
+Tin*F7;
+
+| spellements =
+
+| snacks =
+Beast Wellington;
+Discord Grape Jelly;
+Drumstick;
+Eye Candy*F3*WMV;
+Glowing Taffy;
+Hot Cross Buns*F2;
+Pizza*F2;
+Rock and Roll Candy*F2*WMV;
+Satyr Chow*F2*WMV;
+Sprinkle Cupcake;
+Squash;
+Veggie Juice*F2;
+
+| jewels =
+Ally Dragonblade Citrine;
+Critical Hitter Opal;
+Death-Eye Onyx;
+Fire Assailant Ruby;
+Fire-Ward Ruby;
+Ice-Ward Sapphire;
+Life-Sniper Jade;
+Lively Opal;
+Lustrous Critical Citrine +13;
+Lustrous Critical Jade +13;
+Lustrous Damage Sapphire +23;
+Lustrous Defense Citrine +45;
+Lustrous Defense Onyx +45;
+Lustrous PIP Opal +10%;
+Medic Opal;
+Myth-Away Peridot;
+Screen Ruby;
+Sharp-Shot Opal;
+Shiny Blocking Peridot +15;
+Shiny Defense Amethyst +51;
+Shiny Defense Onyx +49;
+Shiny Defense Opal +26;
+Shiny Health Opal +111;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47*F2;
+Sparkling Blocking Jade +17;
+Sparkling Health Opal +118;
+Sparkling Mana Opal +49;
+Stun Recalcitrant Opal;
+
+| pins =
+
+| pets =
+Blue Globulin;
+
+| seeds =
+Angora Bunny Ears*F3;
+Baby Carrots;
+Bell Pepper*F5;
+Blue Huckleberries*F4*WMV;
+Boiled Peanuts;
+Bread Fruit Bush*F2*WMV;
+Clockwork Flower;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Deadly Fly Trap;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Fish on a Vine*F2*WMV;
+Fortune Cookie Tree;
+Golden Couch Potatoes;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Ivy League*CR;
+Key Limes*CR;
+King Parsley*CR;
+Maltese Tiger Lily;
+Missile Toe;
+Pink Huckleberries*F2;
+Purple Bell Pepper;
+Red Bell Pepper;
+Red Couch Potatoes;
+Red Huckleberries*F4*WMV;
+Silver Trumpet Vine*CR;
+Sugar Khrystal*CR;
+Ultra Huckleberries;
+Ultra Snow Apples;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

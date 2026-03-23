@@ -1,0 +1,184 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 11,680
+| crecla = Raven
+| school = Death
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Black Cap;
+
+| world = Avalon
+| location = The Wild
+| subloc1 = Hrefna's Cave
+| descrip =
+Wizards must defeat Hrefna Nightfeather during the Level 75 Spell Quest, ''Always After Me Charms''.
+
+| speech =
+:''"The stench of Fianna Yellowknife is upon you. Has she sent you for her Charm Bag? Afraid to take it herself? Try and claim it!"''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Deathblade;
+Feint;
+Empower;
+Natural Attack (Death 145-290-440);
+Vampire;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+Skeletal Dragon;
+Dr. Von's Monster;
+
+| quests =
+Always After Me Charms;
+
+| gold =
+104 - 125;
+
+| hats =
+Helm of Night's Bannerman;
+Shroud of the One*F4*WMV;
+
+| robes =
+Loyal Banner's Coat*F2*WMV;
+Royal Jouster's Armor*F3*WMV;
+
+| boots =
+Friend of the Fire Elf Boots;
+Other Side Striders*F2;
+Owl Friend Talons;
+
+| athames =
+Dagger of the King's Court*F2;
+Fire Elf's Toasty Bodkin;
+
+| amulets =
+Great Wild Wood Pendant*F2;
+Knight's Noble Amulet*F2;
+
+| rings =
+Circle of Caliburn;
+Dun Dara's Triskelion;
+Ganelon's Lost Ring;
+Stone of the Other Side*F3*WMV;
+
+| wands =
+Staff of the Druid;
+Valiant Longsword*F3;
+
+| decks =
+Druid's Knot Deck*F4*WMV;
+Silvershield Cards*F2;
+
+| items =
+
+| cards =
+Amplify*F2;
+Beguile;
+Berserk*F2;
+Colossal;
+Dark Tribute*F5*WMV;
+Empowerment*F3*WMV;
+Extraordinary*F5*WMV;
+Fire Dragon;
+Fortify*F2;
+Gargantuan;
+Infallible*F2;
+Luminous Weaver*F2;
+Mend*F2;
+Orthrus*F2*WMV;
+Plague;
+Poison*F4;
+Sacrifice*F5*WMV;
+Scarecrow*F2;
+Storm Lord;
+Unstoppable*F2;
+Vengeance*F3*WMV;
+Virulent Plague*F3;
+
+| reagents =
+Black Lotus;
+Brass;
+Bronze;
+Cat Tail*F5;
+Cobalt;
+Deep Mushroom*F2*WMV;
+Frost Flower*F3;
+Lava Lily*F3*WMV;
+Mist Wood;
+Ore*F2;
+Parchment;
+Pearl*F3*WMV;
+Red Mandrake*F3*WMV;
+Shell*F2;
+Stone Block*F2;
+
+| spellements =
+
+| snacks =
+Bogwich;
+Buttered Bread;
+Cheese Broccoli*F2*WMV;
+Deviled Eggs;
+Glowing Star Fruit;
+Golden Grapes;
+Green Grapes;
+Gummy Wyrms;
+Nettle Root;
+Pigeon Pie*F2;
+Roasted Chickpeas;
+Salmonberry*F2*WMV;
+Shiny Tomato;
+Tiny Fish*F2;
+Uni-Corn;
+
+| jewels =
+Clear Blocking Hematite +10;
+Clear Critical Ruby +10;
+Clear Damage Amethyst +19;
+Get Sunbird Ruby;
+Snow Drift Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears*F2;
+Blue Huckleberries;
+Frozen Fly Trap;
+Key Limes*CR;
+Red Huckleberries*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

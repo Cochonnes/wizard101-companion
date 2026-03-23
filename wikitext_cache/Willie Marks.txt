@@ -1,0 +1,175 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 725
+| crecla = Cat
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+O'Leary Napper (Fire);
+
+| world = Marleybone
+| location = Hyde Park
+| subloc1 = Willie's Clocktower
+| descrip =
+Two additional O'Leary Nappers appear if more than two Wizards are present.
+
+| speech =
+:''"What a pathetic excuse for an opponent you are, Wizard."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Snow Shield;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Fire Elf (50+210);
+Ash Bats;
+Sunbird;
+Fire Wyvern (335-395, 4 Pip);
+Ghoul;
+Cyclops;
+
+| quests =
+Springing the Snitch;
+
+| gold =
+23 - 64;
+
+| hats =
+Cap of Poise;
+Cap of the Black Mantle*F3;
+Cowl of the Exceptional;
+Delicate Hat;
+Dexterous Cap;
+Famous Cap*F2;
+Feline Hat of Whimsy*F7;
+Headwraps of Preference;
+Headwraps of Superiority*F2;
+Helm of Stasis*F7;
+Skillful Hat*F2;
+Sophisticated Headwraps;
+Thinker's Cap*F6;
+Visor of the Beacon*F4*WMV;
+
+| robes =
+Animated Canine Cloak;
+Cloak of Diplomacy;
+Doctor's Uniform*F2;
+Finely Finished Cloak*F2;
+Masterful Canine Cloak;
+Rainslicker*F2;
+Remarkable Robe*F2;
+Robe of Politeness;
+Tunic of Incineration*F5*WMV;
+Vestment of Stasis*F4*WMV;
+Vestment of Tragedy*F2;
+
+| boots =
+Boots of the Supreme*F8;
+Dandy Boots*F6;
+Finely Finished Slippers*F4*WMV;
+Footwraps of Superiority*F2;
+
+| athames =
+Athame of the Sleuth*F2;
+Conventional Dagger*F3;
+Detective's Dagger*F2;
+Dirk of Nobles;
+Watchman's Athame;
+
+| amulets =
+
+| rings =
+Cat Burglar's Ring*F3;
+Tarnished Noble's Ring*F4*WMV;
+
+| wands =
+
+| decks =
+Deck of the Black Mantle;
+Watchman's Deck*F5*WMV;
+
+| items =
+Ball of Yellow Yarn;
+Crate of Vegetables*F5*WMV;
+Ironwork Trash Can*F4*WMV;
+
+| cards =
+Dryad*F2;
+Ice Wyvern;
+Kraken;
+Sandstorm;
+Satyr*F3;
+Skeletal Pirate;
+Sniper;
+Storm Trap;
+Vampire;
+
+| reagents =
+Copper;
+Iron*F2;
+Lead*F3;
+Leather Straps*F9*WMV;
+Spider Silk*F11;
+Tin;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn*F2;
+Gummy Bloodbat*F2;
+Medium Fish;
+Redskin Peanut*F2;
+Square Watermelon*F2;
+Stinky Cheese;
+Wheat Cracker*F3;
+
+| jewels =
+Chipped Defense Opal +7;
+Chipped Defense Ruby +14;
+Chipped Health Opal +21;
+Chipped Health Opal +22;
+Chipped Mana Opal +10;
+Cyclops Peridot;
+Evil Snowman Sapphire;
+Fire-Giver Ruby;
+Flawed Accurate Opal +2%;
+Flawed Healing Opal +2%;
+Flawed Health Opal +30;
+Sprite Jade;
+Storm Shark Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

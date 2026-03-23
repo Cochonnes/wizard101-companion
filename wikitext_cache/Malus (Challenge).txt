@@ -1,0 +1,222 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 62,930
+| crecla = 
+| school = Fire
+| school2 = Myth
+| cheats = Yes
+| shadowslots = 3
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Fire;
+Myth;
+
+| critical =
+858;
+
+| criticalblock =
+735;
+
+| outpierce =
+49%;
+
+| outboost =
+183%;
+
+| incboost =
+None
+
+| incresist =
+18% Storm;
+38% Fire, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+58% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = No
+| minions =
+Ghost Drover;
+Ghost Judge;
+Ghost Ned;
+
+| world = Wallaru
+| location = The Dreaming
+| subloc1 = Nightmare (Challenge)
+| lootchest = Malus' Chest (Challenge)
+| descrip =
+Malus is the final Boss within Nightmare. To avoid the Meteor Strike cheat, Wizards must use 4 Dream Water, collected from the leaky pipes in the maze, on each of the sleeping avatars around him to dismiss the Minions.
+*For the Standard version of this battle, see {{Link|Creature|Malus (Standard)}}.
+*{{Link|NPC|Dream Morp}} will appear after the duel.
+
+| speech =
+
+| cheatnotes =	
+*{{Icon|Damage}} ''"Their hatred is a tonic. It fuels me."'' - At the beginning of the first Round, if Malus has any Minions, he will cast a Death version of {{Link|Spell|Meteor Strike}} that deals 100% max Health Damage to all Wizards. Max Health Damage ignores all Resist.
+*{{Icon|Round}} ''"Embrace your hatred!"'' - At the beginning of every Round, Malus will cast one of the following Spells:
+**{{Link|Spell|Black Mantle (-55%, 3 Pip)}}
+**{{Link|Spell|Choke}}
+**{{Link|Spell|Efreet (1,000)}} - Targets Wizard with the lowest amount of Health
+**{{Link|Spell|Monster Mash (1,170)}} - Targets Wizard with the highest amount of Health
+**{{Link|Spell|Muzzle}}
+**{{Link|Spell|Tower Shield (Sun -90%)}}
+**Dispels can prevent these cheats.
+*{{Icon|Aura}} ''"Let your rage drive you. Strike me down!"'' - Randomly, at the end of a Round, Malus will cast a "Flames of Hatred" Aura on himself.
+*{{Icon|Manipulation}} ''"Heroism is vanity. FIGHT ME!"'' - If a Wizard targets Malus while his "Flames of Hatred" Aura is active, he will cast a 0 Damage Star version of Supernova on himself, removing the Aura.
+*{{Icon|Afterlife}} ''"Good. AGAIN!"'' - If Malus is defeated while the "Flames of Hatred" Aura is active, Malus will heal himself for 50% Health, and applies a '''+200%''' outgoing Damage Aura on himself. 
+
+| spellnotes =
+
+| casts =
+Dragonspear;
+Fireblade;
+Mythblade;
+Mass Fire Trap;
+Brimstone Revenant;
+Glimpse of Infinity;
+Drop Bear Fury;
+
+| quests =
+Malus in Sundered Land;
+Malus Shouldn't Live Here Anymore;
+
+| gold =
+
+| hats =
+Bold Dream Reaver Hood;
+Bold Dream Warper Hood;
+Cruel Dream Reaver Hood;
+Cruel Dream Warper Hood;
+Deft Dream Reaver Hood;
+Deft Dream Warper Hood;
+Fabled Dream Reaver Hood;
+Fabled Dream Warper Hood;
+Fell Dream Reaver Hood;
+Fell Dream Warper Hood;
+Fervid Dream Reaver Hood;
+Fervid Dream Warper Hood;
+Fierce Dream Reaver Hood;
+Fierce Dream Warper Hood;
+
+| robes =
+Bold Dream Reaver Armor;
+Bold Dream Warper Armor;
+Cruel Dream Reaver Armor;
+Cruel Dream Warper Armor;
+Deft Dream Reaver Armor;
+Deft Dream Warper Armor;
+Fabled Dream Reaver Armor;
+Fabled Dream Warper Armor;
+Fell Dream Reaver Armor;
+Fell Dream Warper Armor;
+Fervid Dream Reaver Armor;
+Fervid Dream Warper Armor;
+Fierce Dream Reaver Armor;
+Fierce Dream Warper Armor;
+
+| boots =
+Bold Dream Reaver Boots;
+Bold Dream Warper Boots;
+Cruel Dream Reaver Boots;
+Cruel Dream Warper Boots;
+Deft Dream Reaver Boots;
+Deft Dream Warper Boots;
+Fabled Dream Reaver Boots;
+Fabled Dream Warper Boots;
+Fell Dream Reaver Boots;
+Fell Dream Warper Boots;
+Fervid Dream Reaver Boots;
+Fervid Dream Warper Boots;
+Fierce Dream Reaver Boots;
+Fierce Dream Warper Boots;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Bold Dream Reaver Boomerang;
+Bold Dream Warper Boomerang;
+Cruel Dream Reaver Boomerang;
+Cruel Dream Warper Boomerang;
+Deft Dream Reaver Boomerang;
+Deft Dream Warper Boomerang;
+Fabled Dream Reaver Boomerang;
+Fabled Dream Warper Boomerang;
+Fell Dream Reaver Boomerang;
+Fell Dream Warper Boomerang;
+Fervid Dream Reaver Boomerang;
+Fervid Dream Warper Boomerang;
+Fierce Dream Reaver Boomerang;
+Fierce Dream Warper Boomerang;
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Dream Water @ 16 Dream Water;
+Dream Water @ 17 Dream Water;
+
+| spellements =
+Barbarian's Saga;
+Blast Off!;
+Bunyip's Rage;
+Count Croakula;
+Dark & Stormy;
+Deathly Depths;
+Drop Bear Fury;
+Freeze Ray;
+Glimpse of Infinity;
+Gravestorm;
+Grim Reader;
+Grrnadier;
+Improbable Gaze;
+Lord of the Jungle;
+Mockenspiel;
+Old One's Endgame;
+Phantasmania!;
+Rainbow Serpent;
+S'more Machine;
+Scales of Destiny;
+Shatterhorn;
+Snack Attack;
+Sound of Musicology;
+Starspawn;
+Tatzlewurm Terror;
+Tree of Strife;
+Wobbegong Frenzy;
+Zand the Bandit;
+
+| snacks =
+
+| jewels =
+Flawless Critical Amethyst +23;
+Flawless Critical Citrine +23;
+Flawless Critical Jade +24;
+Flawless Critical Onyx +23;
+Polished Piercing Citrine +6%;
+Polished Piercing Ruby +6%;
+
+| pins =
+Life Disabling Pin (160, Storm);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Malus
+}}

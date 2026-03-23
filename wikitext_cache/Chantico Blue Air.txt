@@ -1,0 +1,206 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 16,200
+| crecla = Parrot
+| school = Ice
+| startpips = 6
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Copper Wing Guard;
+
+| world = Azteca
+| location = Zultun Dock
+| subloc1 = Guard Nest
+| descrip =
+
+| speech =
+:''"Another one of the Shadow Queen's minions!  Prepare to taste defeat!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+This Aztecan Avian protects the Zultun Dock with their icy demeanor and a taste for victory.
+
+| extract class =
+Parrot;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Volcanic Shield;
+Legion Shield (-35%);
+Iceblade;
+Ice Trap;
+Balefrost;
+Natural Attack (Ice 170-340-510, 80%);
+Frostbite (80+549);
+Frost Demon;
+Frost Giant (530);
+Lord of Winter;
+
+| quests =
+Feel the Pain;
+
+| gold =
+124 - 152;
+
+| hats =
+Death Moon's Chosen Gliders;
+Elite Jura Guard Helm*F2;
+Five Fangs of Fury Headdress;
+Indigo Wing Crown;
+Thirteen Death Mask;
+Tree of Secrets Chac Mask*F4*WMV;
+Twisted Fang Mask;
+
+| robes =
+
+| boots =
+Black Butterfly Guard's Wraps;
+Fiery Chac's Great Boots;
+Smoking Obsidian Rangers;
+
+| athames =
+Bleeding Sun Dagger;
+Fang of the Night Sky;
+Tears of Mother Moon Blade*F2*WMV;
+
+| amulets =
+Charm of the Gold Aztecosaur;
+Pitch Black Lake Plague Shell;
+Smoking Fang Talisman;
+Stone of the Green Skycarrier;
+
+| rings =
+Acampi Reedfist's Lost Seal*F3;
+Bleeding Sun Warrior's Loop*F4*WMV;
+Falling Star's End Time Band*F2*WMV;
+Mother Moon's Count Ring;
+Smoking Mirror's War Ring;
+Storm Quetzal's Signet;
+Twisting Season Ring;
+Underworld Stone*F2;
+
+| wands =
+Eclipse Spear of Azteca*F3*WMV;
+Lance of Night Fire*F2;
+Tears of Night Lance;
+Winter Lord's Obsidian Shard;
+
+| decks =
+Codex of the Lost Fire*F2;
+Deck of the Jaguar Spirit*F3*WMV;
+Storm Sun Gallery*F4*WMV;
+Winter's Pyramid Deck*F4*WMV;
+
+| items =
+Azteca Apocalypse Theme;
+Azteca Main Theme;
+Starburst Frond*F2;
+
+| cards =
+Colossal*F3;
+Dr. Von's Monster;
+Extraordinary;
+Potent Trap;
+Rain of Fire;
+Sharpened Blade;
+Sirens*F3*WMV;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F3*WMV;
+Black Pearl*F3;
+Blood Moss;
+Bone*F3*WMV;
+Brass;
+Bronze*F2*WMV;
+Bronze Gear*F5;
+Cobalt;
+Deep Mushroom*F4*WMV;
+Fire Blossom*F3*WMV;
+Fossil*F2*WMV;
+Golden Pearl;
+Lava Lily*F2*WMV;
+Mist Wood*F3*WMV;
+Mithril;
+Nickel;
+Nightshade;
+Ore*F2*WMV;
+Red Mandrake*F3*WMV;
+Stone Block*F5*WMV;
+Sunstone*F2;
+Titanium;
+Tungsten;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Chili Peppers*F3*WMV;
+Dr. Jalapeno;
+Fried Ice Cream;
+Glowing Star Fruit;
+Guava*F2;
+Jelly Baby;
+Maize;
+Pterotomatoes*F3;
+Quetzal Pretzel*F3*WMV;
+Rex Tea*F2*WMV;
+Stego Waffles;
+Tamales;
+Zocalo Wings*F2*WMV;
+
+| jewels =
+Clear Critical Sapphire +9;
+Polished Damage Jade +21;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+Fiery Boom Shroom;
+Maelstrom Snap Dragon;
+Red Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

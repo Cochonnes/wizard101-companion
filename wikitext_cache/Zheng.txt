@@ -1,0 +1,203 @@
+{{Stub|which variations of ''Dazzling Archmastery Opal +13'' are dropped?}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 15,920
+| crecla = Cat
+| school = Life
+| cheats = Yes
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+16%;
+
+| outboost =
+101%;
+
+| incboost =
+None;
+
+| incresist =
+50% Fire, Ice, Storm, Myth, Life, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+100%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| randomminions =
+Avatar of Cucumbers;
+Avatar of Dogs;
+Avatar of Sudden Noises;
+Avatar of Water;
+
+| totalminions = 1
+| world = MooShu
+| location = Catmandu
+| subloc1 = Cave of Terrors
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:'''String Caster Fuzhi:''' ''"Ah, there it is. The great Cat of the Skies, the guardian of our Terrors: the Zheng."''
+
+:'''Zheng:''' ''"*ROOOOOOOAAAAAARRRRRR*"''
+
+:'''String Caster Fuzhi:''' ''"Prove your strength to this beast of lore and it will carry you on its back to the Stone of Heavens.
+
+| cheatnotes =
+*{{Icon|Round}} ''"ROARRR!!!"'' - At the beginning of the first Round, Zheng casts a Shadow Spell to give all Wizards four Crippling Fear cards.
+**{{GivesSpell|Crippling Fear|size = x150px}}
+*{{Icon|Spell}} ''"SNARL!!"'' - Casts another Shadow Spell to give all Wizards Crippling Fear.
+
+| spellnotes =
+
+| casts =
+Frenzy;
+Guiding Light;
+Lifeblade (+40%);
+Spirit Blade;
+Leprechaun (Tier 3b);
+Goat Monk (Tier 3b);
+Delphic Lamassu;
+Hungry Caterpillar;
+Grrnadier;
+Hunting Wyrm;
+Wings of Fate;
+Lord of the Jungle;
+Centaur (Tier 3b);
+Levin Bruin;
+King Artorius (Life);
+
+| quests =
+Scaredy Cats;
+Ba-Zheng-A;
+
+| gold =
+25 - 83;
+
+| hats =
+Artillery Officer Hat;
+Cavalry Officer Hat*F2*WMV;
+Infantry Officer Hat;
+Medic Officer Hat;
+Messenger Officer Hat*F2*WMV;
+Regulation Artillery Hat*F2*WMV;
+Regulation Cavalry Hat;
+Regulation Infantry Hat;
+Regulation Medic Hat*F2*WMV;
+Regulation Messenger Hat*F2*WMV;
+Regulation Scout Hat;
+Regulation Trooper Hat*F2;
+Scout Officer Hat;
+Trooper Officer Hat;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Novus Puerto Nuovo Theme*TEST;
+
+| cards =
+Azoth;
+Berserk;
+Feint;
+Mass Triage;
+Wings of Fate;
+
+| reagents =
+Bone;
+Bronze Gear;
+Pixels*F2*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Amazing Blocking Amethyst +21;
+Amazing Blocking Jade +21;
+Amazing Blocking Jade +22;
+Amazing Blocking Onyx +22;
+Amazing Blocking Sapphire +21;
+Amazing Defense Citrine +63;
+Amazing Defense Onyx +64;
+Amazing Defense Opal +32;
+Amazing Defense Ruby +64;
+Dazzling Archmastery Opal +13;
+Dazzling Blocking Jade +20;
+Dazzling Blocking Onyx +19;
+Dazzling Blocking Opal +10;
+Dazzling Blocking Ruby +20;
+Dazzling Defense Amethyst +59;
+Dazzling Defense Amethyst +60;
+Dazzling Defense Citrine +59;
+Dazzling Defense Citrine +60;
+Dazzling Defense Onyx +60;
+Dazzling Defense Opal +30;
+Dazzling Defense Peridot +59*F2;
+Dazzling Defense Peridot +60;
+Dazzling Defense Ruby +60;
+
+| pins =
+Balance Crushing Pin (140, Life);
+Balance Crushing Pin (140, Storm);
+Balance Crushing Pin (150, Storm);
+Balance Disabling Pin (150, Myth);
+Balance Punishing Pin (140, Myth);
+Death Crushing Pin (140, Storm);
+Death Crushing Pin (150, Life);
+Death Disabling Pin (140, Balance);
+Death Disabling Pin (150, Storm);
+Death Punishing Pin (140, Fire);
+Fire Crushing Pin (140, Storm);
+Fire Disabling Pin (140, Storm);
+Fire Disabling Pin (150, Death);
+Fire Disabling Pin (150, Storm);
+Fire Punishing Pin (140, Death);
+Fire Punishing Pin (140, Storm);
+Ice Crushing Pin (140, Storm);
+Ice Disabling Pin (150, Storm);
+Ice Punishing Pin (150, Fire);
+Ice Punishing Pin (150, Storm);
+Life Crushing Pin (140, Myth);
+Life Disabling Pin (150, Myth);
+Life Disabling Pin (150, Storm);
+Life Punishing Pin (150, Storm);
+Myth Crushing Pin (140, Storm);
+Myth Disabling Pin (150, Storm);
+Myth Punishing Pin (140, Balance);
+Myth Punishing Pin (140, Life);
+Myth Punishing Pin (140, Storm);
+Myth Punishing Pin (150, Storm);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

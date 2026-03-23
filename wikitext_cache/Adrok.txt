@@ -1,0 +1,148 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 17,710
+| crecla = Beastman
+| school = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+195 Any;
+
+| criticalblock =
+90 Any;
+
+| outpierce =
+20%;
+
+| outboost =
+130%;
+
+| incboost =
+10% Myth;
+
+| incresist =
+25% Fire, Ice, Life, Death, Balance, Shadow;
+75% Storm;
+
+| outhealing =
+
+| inchealing =
+100%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Beets;
+
+| world = Empyrea
+| location = Aeriel Shores
+| subloc1 = Beastman Fight Club
+| descrip =
+*Adrok is the second Boss in the Beastman Fight Club instance.
+
+| speech =
+:''"What'cha want? To fight? Uggg. Me tell Yowck not to talk about fight club. That make us champions by default. Now me have to crush you."''
+
+| cheatnotes =
+'''Adrok'''
+
+{{Icon|Late}} ''"I'm gonna set you straight for bein' late"'' - If a Wizard enters the battle late, Adrok will cheat-cast Rocklops that Stuns for two Rounds, and places a '''-100%''' Accuracy Charm on the Wizard.
+
+{{Icon|Accuracy}} ''"Check your head!"'' - If Adrok or an ally fizzles, he will cast {{Link|Spell|Lightning Strike}} on the fizzler.
+
+{{Icon|Curse}} "Leave Adrok alone!" - If a harmful Charm is cast on {{Link|Creature|Yowck}}, Adrok will cast {{Link|Spell|Cleanse Charm (Star)}} to remove it.
+
+{{Icon|Damage}} After casting his Natural Attack, Adrok will cheat-cast {{Link|Spell|Healing Current (325)}} on a random ally.
+
+'''Adrok's Interrupt Cycle'''
+
+{{Icon|Minion}} ''"Feel the Beet!"'' - At the end of every Round that the Boss does not have a Minion, Adrok will use a Moon Spell to summon a Beets Minion.
+
+{{Icon|Round}} ''"This gonna hurt!"'' - If a Wizard has not been defeated two Rounds after the Beets Minion is summoned, and no Trap has been placed on Adrok in the last two Rounds, Adrok casts a Spell to instantly defeat the Beets Minion and a random Wizard.
+**''"Eh, the beets are mmm.... stopped"'' - This cycle can be reset by casting a Trap on Adrok.
+***Prisms will not reset this cycle.
+
+'''Beets'''
+
+{{Icon|Afterlife}} If a Wizard is defeated, Beets will cheat-cast a Shadow Spell that immediately defeats itself and a random Wizard.
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Adapt;
+Brace;
+Magnify (6 Rounds);
+Vengeance (6 Rounds);
+Galvanic Field (6 Rounds);
+Conviction;
+Thermic Shield (-75%);
+Myth Shield (-85%);
+Stormspear;
+Stormblade;
+Supercharge (+12%);
+Windstorm (+25%);
+Cleanse Charm;
+Disarm;
+Queen Calypso;
+Natural Attack (Storm 125-250-375, 65%);
+Catalan;
+Iron Sultan;
+Kraken (605-665);
+Glowbug Squall;
+Rocklops;
+Rusalka's Flood;
+Storm Lord (775);
+Leviathan (1,150);
+Sirens (965);
+Tempest (85);
+
+| quests =
+Fight For Your Right (Instance);
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

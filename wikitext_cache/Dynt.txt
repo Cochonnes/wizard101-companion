@@ -1,0 +1,227 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 10,165
+| crecla = 
+| school = Fire
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+147 Any;
+
+| criticalblock =
+40 Any;
+
+| outpierce =
+7%;
+
+| outboost =
+60%
+
+| incboost =
+5% Ice;
+
+| incresist =
+50% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gamma Globulin;
+Gamma Globulin;
+
+| world = Empyrea
+| location = Sepidious
+| subloc1 = Ink Gland
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*''"YAR! What in the seventy skies do you scallywags think you're doing?!"'' - If a Wizard joins the battle after the first Round, Dynt will cast '''Grand Phoenix''' on the Wizard.
+*After casting his Natural Attack, Dynt will follow up with a '''+40%''' Fireblade.
+
+'''Interrupt Cycle''' (resets every 8 {{Icon|Round}})
+*''"Good Heads"'' / ''"Bad Heads"'' - At the end of each Round, Dynt will "flip a coin" to determine what type of random Spell he will cast on the Wizard team:
+**Round 1: '''+10%''' version of {{Link|Spell|Guidance}} / {{Link|Spell|Smoke Screen (-45%)}}
+**Round 2: {{Link|Spell|Sprite Swarm (2 Pip)}} / {{Link|Spell|Scald (567)}}
+**Round 3: {{Link|Spell|Stun Block}} / {{Link|Spell|Choke (85%)}}
+**Round 4: '''650''' Health version of {{Link|Spell|Rebirth}} / '''Rain of Fire (330+880)'''
+**Round 5: {{Link|Spell|Bladestorm}} / {{Link|Spell|Backdraft (+20%)}}
+**Round 6: '''275''' version of {{Link|Spell|Unicorn}} / '''Wicked Bull'''
+**Round 7: '''-30%''' version of {{Link|Spell|Legion Shield}} / '''+25%''' version of {{Link|Spell|Fuel}}
+**Round 8: '''1,000''' version of {{Link|Spell|Spirit Armor}} / {{Link|Spell|Lava Giant}}
+
+| spellnotes =
+*Casts an all-enemies version of Fire Trap.
+
+| casts =
+Dark Nova;
+Brace;
+Frenzy;
+Conviction;
+Glacial Shield (-75%);
+Firespear;
+Fireblade;
+Fire Trap (+25%);
+Backdraft (6 Pip);
+Double Steal Charm;
+Krampus;
+Brimstone Revenant;
+Natural Attack (Fire 120-240-360, 70%);
+Hephaestus;
+Burning Rampage;
+Meteor Strike (355-395);
+Shade Scimitars;
+Night Raid;
+Grand Phoenix;
+Wicked Bull;
+Fire Dragon (495+395);
+Efreet (1,000);
+Rain of Fire (330+880);
+Sun Serpent;
+
+| quests =
+Disappearing Ink;
+The Other Side of the Coin;
+
+| gold =
+452 - 589;
+
+| hats = 
+Medic's Interstellar Helm;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+Interstellar Engineer's Band*F3*WMV;
+Interstellar Explorer's Band;
+Interstellar Hero's Band;
+Interstellar Medic's Band*F2*WMV;
+
+| wands =
+
+| decks =
+Interstellar Officer's Deck;
+
+| items =
+Empyrea Aeriel Theme;
+Empyrea Athanor Combat Theme;
+Empyrea Finale Combat Theme;
+Empyrea Jungle Theme*F2*WMV;
+Empyrea Outer Athanor Theme*F3*WMV;
+
+| cards =
+Darkwind;
+Mass Death Prism;
+Mass Fire Prism;
+Mass Life Prism*F2*WMV;
+Mass Myth Prism;
+
+| reagents =
+Ancient Scroll*F2;
+Antique Coins;
+Black Pearl*F6*WMV;
+Blood Moss*F2*WMV;
+Brass*F6*WMV;
+Bronze Gear*F7*WMV;
+Cobalt*F4*WMV;
+Ectoplasm*F6*WMV;
+Nickel*F5*WMV;
+Scales*F5*WMV;
+Spider Silk*F4;
+Spring*F2;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+BBQ Drumstick;
+Beast Wellington*F3*WMV;
+Discord Grape Jelly*F2;
+Eye Candy*F3*WMV;
+Fern Jelly*F2*WMV;
+Glowing Taffy*F2*WMV;
+Hot Cross Buns*F2*WMV;
+Rock and Roll Candy*F4*WMV;
+Satyr Chow*F3*WMV;
+Sprinkle Cupcake*F5;
+Veggie Juice;
+
+| jewels =
+Balance Assailant Citrine;
+Balance-Giver Citrine;
+Death-Dealer Onyx;
+Elf on Fire Ruby;
+Feeling Weak Citrine;
+Fire-Dealer Ruby;
+Fire-Ward Ruby;
+Ice Assailant Sapphire;
+Ice Striker Sapphire;
+Ice-Eye Sapphire*F2*WMV;
+Ice-Proof Sapphire;
+Ice-Sniper Sapphire;
+Life Striker Jade;
+Life-Bringer Jade;
+Lustrous Accurate Amethyst +11%;
+Lustrous Accurate Onyx +11%;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Jade +13;
+Lustrous Blocking Peridot +13;
+Lustrous Critical Jade +13;
+Lustrous Critical Peridot +13;
+Lustrous Critical Sapphire +13;
+Lustrous Damage Sapphire +23;
+Lustrous Defense Jade +45;
+Lustrous Defense Peridot +45;
+Lustrous Health Opal +96;
+Lustrous Health Opal +97;
+Myth-Boon Peridot;
+Myth-Dealer Peridot;
+Pip O'Plenty Opal;
+Sparkling Defense Opal +28;
+Storm-Proof Amethyst*F2;
+Unbalancer Citrine;
+
+| pins =
+
+| pets =
+Green Globulin;
+
+| seeds =
+Angora Bunny Ears*F2;
+Baby Carrots*F4*WMV;
+Bell Pepper*F4*WMV;
+Boiled Peanuts*F2*WMV;
+Bread Fruit Bush*F5*WMV;
+Cornbread Fruit Bush*F4*WMV;
+Couch Potatoes*CR*F2*WMV;
+Fish on a Vine*F2;
+Golden Couch Potatoes*F3*WMV;
+Grapes of Wrath*CR*F6*WMV;
+Honey Sickle;
+Ivy League*CR*F2*WMV;
+Maltese Tiger Lily;
+Pink Huckleberries*F2*WMV;
+Red Couch Potatoes*F4*WMV;
+Red Huckleberries;
+Sugar Khrystal*CR;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

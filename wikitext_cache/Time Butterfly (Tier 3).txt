@@ -1,0 +1,157 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 5,570
+| crecla = Butterfly
+| crecla2 = Insect
+| school = Myth
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+75%;
+
+| incboost =
+20% Storm;
+
+| incresist =
+60% Myth;
+
+| outhealing =
+45%;
+
+| inchealing =
+50%;
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Doomsday Krok Gauntlet
+| subloc1 = Doomsday Krok Gauntlet (Tier 3)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+One is bad. But if you get an infestation, consider moving to a new reality continuum.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold =
+}}
+
+| cheatnotes =
+*{{Icon|Manipulation}} Every two Rounds, Time Butterfly (Tier 3) will cast a Shadow version of Empower to give 1 Power Pip to all allies, and hidden-casts a Spell that switches the first turn of the duel.
+*{{Icon|Late}} ''"You're Late, or Are You Early?"'' - If a Wizard joins the battle late, Time Butterfly (Tier 3) will use Stun that will last two turns.
+
+{{Icon|Minion}}'''Minions:'''
+*Time Butterfly (Tier 3) will summon Minions starting with {{Link|Creature|Young Morganthe (Tier 3)}} on the first turn. If Young Morganthe (Tier 3) is defeated before Time Butterfly (Tier 3), both Young Morganthe (Tier 3) and {{Link|Creature|Roberto (Tier 3)}} will be summoned on the following turn. If Young Morganthe (Tier 3) and Roberto (Tier 3) are defeated, Time Butterfly (Tier 3) will resummon both of them, and also {{Link|Creature|Broodmother (Tier 3)}} on the following turn.
+
+{{Icon|Death}} '''Young Morganthe:'''
+*{{Icon|Pip}} ''"Time for a New Strategy"'' - Young Morganthe (Tier 3) will cast {{Link|Spell|Mana Burn}} on a Wizard who collects more than 7 Pips.
+*{{Icon|Ward}} ''"No More of That!"'' - If a Ward is used, she'll use Power Nova, followed by Earthquake dealing 400 Myth damage to all enemies, and 100 Fire Damage to self.
+
+{{Icon|Fire}} '''Broodmother:'''
+*{{Icon|Steal}} ''"Give me your health, drone!"'' - Every 3 Rounds Broodmother (Tier 3) will cast {{Link|TreasureCard|Cheat}} to steal 15% max Health from Time Butterfly and restores 15% of its max Health
+**Sometimes after this cheat, a {{Link|Spell|Dragonblade}} is cast on a random ally, and {{Link|Spell|Mass Tower Shield (Shadow)}} (-55%) to all allies.
+
+| spellnotes =
+*Casts an Aegis-protected Mythblade.
+
+'''Natural Attack:'''
+*Deals 115 Myth Damage for 1 Pip.
+*Deals 230 Myth Damage for 2 Pips.
+*Deals 345 Myth Damage for 3 Pips.
+*Deals 460 Myth Damage for 4 Pips.
+**Removes 1 Pip from target.
+
+| casts =
+Empowerment;
+Mass Tower Shield (Ice);
+Grendel's Amends;
+Mythblade;
+Myth Trap (+35%);
+Cleanse Ward;
+Pierce;
+Blinding Light (85%);
+Humongofrog (310-370);
+Natural Attack (Time Butterfly);
+Minotaur (50+520);
+Medusa (865);
+Basilisk;
+
+| quests =
+Doomsday Krok;
+
+| gold = 
+1,000;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Doohickey;
+Krok Insect Plaque;
+Krok Statue Flex;
+Mini Pyramid;
+
+| cards =
+
+| reagents =
+Leather Straps;
+Smoke Screen Token;
+Spiritual Retriever;
+
+| spellements =
+
+| snacks =
+Black Sun Seeds;
+Gator Tots;
+Sandy Corn;
+Square Root;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+Apophis' Krokosphinx*7;
+
+| spells =
+
+}}

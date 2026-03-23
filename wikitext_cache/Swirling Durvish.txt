@@ -1,0 +1,130 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 1,400
+| crecla = Beastmoon Creature
+| school = Death
+| startpips = 2
+| powerpips =
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Mirage Battlegrounds
+| descrip =
+Swirling Durvish is one of the Boss monsters that can be encountered during the first Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events.  They will have 1 random, Rank 1 Elite, Stage 1 monster present to assist them.
+
+'''Potential Minions:'''
+*{{Link|Creature|Desert Scavenger}}
+*{{Link|Creature|Muck Elemental}}
+*{{Link|Creature|Paragonmaton}}
+*{{Link|Creature|Trengil Scrounger}}
+
+| speech =
+
+| spellnotes =
+*Casts a version of Grasping Ghost that applies a +150 Damage Trap.
+*It is currently unknown whether the Trap effect of Death's Champion occurs.
+
+| casts =
+Grasping Ghost;
+Pluto;
+Festering Wound;
+Death's Champion;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 5 - 10 Lunari.
+
+| gold =
+20 - 30;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone;
+Balance Rune;
+Balance Thread;
+Cyclops Idol (Balance);
+Death Rune*F2*WMV;
+Eldritch Thread*F4*WMV;
+Eldritch Thread @ 2 Eldritch Thread*F5;
+Hunter's Moonstone*F14*WMV;
+Life Moonstone;
+Life Rune*F2*WMV;
+Life Thread;
+Minotaur Idol (Life);
+Myth Rune*F2*WMV;
+Rat Thief Idol (Death);
+Spirit Moonstone*F2;
+Spirit Thread*F6*WMV;
+
+| spellements =
+Dream Golem*F3;
+Elemental Golem*F4*WMV;
+Ether Golem*F2;
+Golem\: Taunt;
+Humongofrog;
+Infestation;
+Iron Curse*F2;
+Legend Golem*F2;
+Monster Mash*F2;
+Obsidian Colossus;
+Poison*F2;
+Sprite Swarm;
+Vermin Virtuoso;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Beastmoon Seed*F14*WMV;
+
+| mounts =
+
+| spells =
+
+}}

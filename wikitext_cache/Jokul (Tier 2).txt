@@ -1,0 +1,176 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 4,800
+| crecla = Yeti
+| school = Ice
+| cheats = Yes
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+15% Myth;
+25% Fire;
+
+| incresist =
+30% Storm;
+60% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Rabid Wildclaw (Tier 2);
+Untamed Wildclaw (Tier 2);
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 2)
+| descrip =
+
+| speech =
+:''"You smell like wet bear.  You are the one who defeated Wretched Elexorien and her spawn, Tyrfing?  My master, Eirikur Axebreaker, is not pleased.  I'll rain blows of fury upon you, and snatch your spirit for the great wyrm!"''
+
+| cheatnotes =
+*{{Icon|All Enemies Spell}} If an ''Attack All Enemies'' Spell is cast, Jokul cheat-casts an Ice Trap, then uses an enhanced version of Blizzard (290-330, 80%).
+**A Wand hit dealing 125 Fire Damage can sometimes trigger this cheat.
+*{{Icon|Trap}} If any Trap is cast on Jokul, he will interrupt and remove it.
+
+| spellnotes =
+
+| casts =
+Iceblade (+40%);
+Ice Trap;
+Freeze;
+Balefrost;
+Handsome Fomori;
+Blizzard (290-330, 80%);
+Ice Wyvern;
+Natural Attack (Ice 233-1,810);
+
+| quests =
+Hall of the Bear;
+
+| gold =
+104 - 131;
+
+| hats =
+Raven Helm of Unkindness (Level 30+)*CR;
+Steel Raven Helmet (Level 30+)*CR;
+Thought and Memory Helm (Level 30+)*CR;
+
+| robes =
+Everwinter Plate (Level 30+)*CR;
+Ravenking's Battle Story Armor (Level 30+)*CR;
+
+| boots =
+Boots of Steel Wings (Level 30+)*CR;
+Boots of Whispered Flight (Level 30+)*CR;
+Unkind Winter Boots (Level 30+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Dark Wing Bow (Level 30+)*CR;
+Raven's Storied Razor (Level 30+)*CR;
+Trickster's Lying Bow (Level 30+)*CR;
+
+| decks =
+
+| items =
+Dewberries;
+Felled Birch Tree*F2*WMV;
+Felled Evergreen*F2*WMV;
+Leaf-Bare Tree;
+Purple Dewberries;
+Stumpworm Stump;
+Tanglebrush;
+Wild Brush;
+
+| cards =
+Colossus*F2*WMV;
+Frost Giant*F2*WMV;
+Leviathan;
+Orthrus;
+Ra;
+Rebirth;
+Regenerate;
+Satyr*F2*WMV;
+Skeletal Dragon;
+Snow Angel;
+Woolly Mammoth;
+
+| reagents =
+Acorn;
+Deep Mushroom;
+Fossil;
+Frost Flower*F2*WMV;
+Grendelweed; 
+Mist Wood;
+Nickel;
+Nightshade;
+Ore;
+Red Mandrake;
+Sandstone*F2*WMV;
+Spider Silk;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Bad Honeyed Dates*F2*WMV;
+Caramel Corn*F2*WMV;
+Fried Worms;
+Frosty Sugar Cubes;
+Frozen Snails*F2*WMV;
+Fruit and Nut Bar;
+Fuzzy Peach Fizz;
+Lime Peel Rickey;
+Peppercorn;
+Pollen Bombs*F2*WMV;
+Salmonberry*F2*WMV;
+Simple Sugar Pop;
+Spicy Drumstick*F2*WMV;
+Sunflower Hearts;
+
+| jewels =
+Chipped Damage Opal +4;
+Chipped Health Opal +17;
+Chipped Health Opal +18;
+Fire Elf Ruby;
+Troll Peridot;
+
+| pins =
+
+| pets =
+Primal Wildclaw*CR;
+Silverback Wildclaw;
+
+| seeds =
+Evil Snow Peas*F2*WMV;
+Frozen Fly Trap*F2*WMV;
+Moon Flower;
+Snow Apples;
+White Desparagus;
+White Laugh-O-Dil;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

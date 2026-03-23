@@ -1,0 +1,117 @@
+PARSE LOG — Wallaru
+============================================================
+
+AREA    : Wizard101
+AREA    : W101 Quest Guides
+AREA    : Wallaru Main Quest Line
+AREA    : Wallaru Quest Line
+AREA    : The Arcanum / Conatus
+QUEST#  1: Das Day Afternoon                        [talk + interact + elite + solo]
+QUEST#  2: The Quest For Dirt!                      [explore + collect + talk]
+QUEST#  3: Walla-Me-And-You                         [talk + explore]
+AREA    : Hope Springs
+QUEST#  4: Gatekeepers Galore                       [explore + mob + talk]
+QUEST#  5: Woop Woop Workaround                     [talk]
+QUEST#  6: Desperate Times, Desperate Dingoes       [explore + mob + minor cheat + talk]
+QUEST#  7: Another Day, Another Ambush              [explore + mob + talk]
+QUEST#  8: The Only Way Out Is Under                [talk + explore]
+QUEST#  9: A Tun of Tunnel Trouble                  [instance + explore + mob]
+AREA    : Kingsland
+QUEST# 10: Wrong Place, Wrong Shrine                [explore + minor cheat + talk]
+QUEST# 11: Deathly Dependents                       [d&c + talk]
+QUEST# 12: The Outback Steps In                     [explore + talk]
+QUEST# 13: Two Rivals, One Mine                     [instance + explore + mob + minor cheat]
+AREA    : Outback
+QUEST# 14: Out And Walkabout                        [mob + talk]
+QUEST# 15: Stop And Goanna                          [explore + mob + talk]
+QUEST# 16: Ride Or Cry                              [explore + mob + talk]
+QUEST# 17: What A Crock… Hunter                     [d&c + interact + talk]
+QUEST# 18: The Great Emu Warrior                    [explore]
+QUEST# 19: Little Big Man                           [instance + mob + explore + cheat]
+QUEST# 20: I Dream Of Meanie                        [interact + minor cheat + solo + talk + explore]
+QUEST# 21: Up In The Sky, It’s A Bird!              [explore + talk]
+AREA    : Hope Springs
+QUEST# 22: Bank Run                                 [instance + minor cheat + explore + mob]
+AREA    : Outback
+QUEST# 23: There And Outback Again                  [interact + explore + mob + elite + talk]
+QUEST# 24: Hero Of The Trails                       [explore + talk]
+QUEST# 25: Ridgy-Didge                              [instance + mob + interact + explore + cheat]
+QUEST# 26: The Way Of The Wombat                    [talk + mob]
+QUEST# 27: Perchance To Scream                      [interact + cheat + solo + talk]
+AREA    : Wobbegong Territory
+QUEST# 28: Wobbegong With The Wind                  [explore + mob + talk]
+AREA    : Collie Ranch
+QUEST# 29: Judicial Ranch                           [explore + mob + talk]
+QUEST# 30: Mortal Wombat!                           [d&c + talk]
+QUEST# 31: Good Golly, Ned Collie!                  [explore]
+QUEST# 32: Wild West Pasture                        [instance + mob + explore + cheat]
+QUEST# 33: Talk Of The Town                         [talk]
+AREA    : Wobbegong Territory
+QUEST# 34: Drove Me Crazy                           [explore + mob + talk]
+QUEST# 35: Funyips With Bunyips                     [explore + talk + d&c + collect]
+QUEST# 36: Smoothie Operator                        [collect + talk]
+QUEST# 37: What Dreams May Bun                      [instance + elite + explore + double cheat]
+QUEST# 38: Collie Collared                          [explore + cheat + talk]
+QUEST# 39: Despairing Is Caring                     [interact + cheat + solo + talk]
+AREA    : Collie Ranch
+QUEST# 40: Judging Judges                           [talk + explore + mob + collect]
+QUEST# 42: Dirty Judges                             [instance + explore + elite]
+QUEST# 41: Bombshell Report                         [talk]
+QUEST# 43: Next At Wombat                           [d&c + talk]
+QUEST# 44: Hems For All He’s Worth                  [explore + talk]
+QUEST# 45: War, What Is He Good For?                [instance + explore + elite]
+QUEST# 46: Red Ned Redemption                       [interact + explore]
+QUEST# 47: You Can Go Home Again                    [instance + elite + explore + cheat]
+AREA    : Wobbegong Territory
+QUEST# 48: The Little Prince                        [explore + cheat + talk]
+AREA    : Eucalyptus Forest
+QUEST# 49: Drop Bear Gorgeous                       [explore + mob + talk]
+QUEST# 50: Mighty Drover Kanga-Rangers              [explore + talk + mob]
+QUEST# 51: Dreamwalking, Dreamtalking               [d&c + explore + talk]
+AREA    : Billabong Resort
+QUEST# 52: Thrills And Bills                        [talk + elite]
+QUEST# 53: Not-So-Jolly Rozzer                      [talk + interact + explore + mob + elite]
+QUEST# 54: Paranoia Activity                        [interact + minor cheat + solo + talk]
+QUEST# 55: The Great Explo-Dition                   [talk + explore]
+QUEST# 56: Creatures From Billabong Lagoons         [instance + explore + mob + elite + cheat]
+QUEST# 57: The Key To Locke                         [talk + explore]
+QUEST# 58: Lake Of Ire                              [explore]
+AREA    : Eucalyptus Forest
+QUEST# 59: Dreampunk                                [instance + explore + elite + mob]
+QUEST# 60: Morp And Memories                        [talk + explore + cheat]
+AREA    : Billabong Resort
+QUEST# 61: Cane-Do Attitude                         [explore + cheat + talk]
+AREA    : Wobbegong Territory
+QUEST# 62: The Woe Warrior                          [explore + elite + talk]
+QUEST# 63: Furryosa Woe                             [explore + elite + talk]
+AREA    : Eucalyptus Forest
+QUEST# 64: The Great Dreamscape                     [interact + explore + minor cheat + solo + talk]
+AREA    : The Dreaming
+QUEST# 65: The Dream Master                         [explore + mob + talk]
+QUEST# 66: Nightmare On Memory Lane                 [explore]
+QUEST# 67: A New Nightmare                          [instance + explore + elite + mob]
+QUEST# 68: Veggie’s Revenge                         [explore + elite + talk]
+QUEST# 69: The Dream Child                          [explore]
+QUEST# 70: The Dream Warriors                       [instance + mob + explore]
+AREA    : Challenge Instance
+QUEST# 71: Freddie’s Dread                          [explore + talk]
+QUEST# 72: The Final Nightmare                      [instance + explore + cheat]
+QUEST# 73: Dreams of Nothing                        [interact]
+QUEST# 74: Yes, To Novus!                           [explore + talk]
+AREA    : Conatus / La Ville Rose
+QUEST# 75: Novus, No More                           [talk + explore + mob]
+AREA    : Telos / Wildlands
+QUEST# 76: Heroes Of Old                            [explore + elite]
+AREA    : Challenge Instance
+QUEST# 77: Bam, Zoom, To The Doom                   [explore + interact]
+AREA    : Conatus / Doom Moon
+QUEST# 78: The Man On The Moon Is The Engineer      [instance + mob + explore + cheat]
+QUEST# 79: Moon Magic!                              [explore]
+QUEST# 80: Wailers On The Moon                      [instance + mob + explore + elite]
+AREA    : Challenge Instance
+QUEST# 81: Wizard Vs. Spiral                        [explore + interact + talk]
+QUEST# 82: Doom Moon 101                            [instance + explore + quadruple cheat]
+QUEST# 83: Pax Arcana                               [explore + talk]
+
+SUMMARY: 83 quests in 24 areas
+Stats: {'total_quests': None, 'mob_fights': None, 'dc_quests': None, 'boss_fights': None, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}

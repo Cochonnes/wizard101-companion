@@ -1,0 +1,156 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 600
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Life;
+
+| incresist =
+50% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minion =
+
+| world = Krokotopia
+| location = Temple of Storms
+| descrip =
+Tempestra is the first of three Bosses that you encounter in the Test of Strength Quest.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+The first in strength and in love with the way the wind can blow right through her.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Weakness;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Lightning Bats;
+Cyclops;
+Evil Snowman;
+Natural Attack (Ice 85x, 85%);
+
+| quests =
+Test of Strength;
+
+| gold =
+12 - 23;
+
+| hats =
+Hat of Figments*F4*WMV;
+Helm of Ingenuity*F2*WMV;
+Hood of the Phantom*F4*WMV;
+Krokotopian Modius*F2;
+Krokotopian Storm Modius;
+Sweltering Helm*F5*WMV;
+Tempestra's Severe Cap*F2*WMV;
+
+| robes =
+Cloak of Prediction*F2*WMV;
+Frigid Vestment;
+Garments of Repose*F2;
+
+| boots =
+Durable Boots*F3*WMV;
+Slippers of Burning Sands*F3;
+Soothsayer's Sandals*F5*WMV;
+Tempestra's Sandals*F6*WMV;
+
+| athames =
+
+| amulets =
+
+| rings =
+Jewel of Obliteration*F2;
+Loop of the Defender*F3*WMV;
+
+| wands =
+Tempestra's Staff*F2;
+
+| decks =
+Tempestra's Onyx Deck*F3*WMV;
+
+| items =
+Krok Tree Tablet;
+Purple Ancient Statue*F2;
+
+| cards =
+Ghost Touch;
+Giant;
+Ice Trap;
+Pacify*F2;
+Sandstorm;
+Sniper;
+Storm Trap;
+
+| reagents =
+Copper*F2;
+Ectoplasm*F3;
+Iron*F6*WMV;
+Nickel;
+Pyrite*F2;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Chipped Mana Opal +10;
+Cracked Defense Amethyst +12;
+Cracked Defense Citrine +12;
+Cracked Defense Peridot +12;
+Cracked Defense Onyx +8;
+Dark Sprite Onyx;
+Fire Cat Ruby;
+Frost Beetle Sapphire;
+Ice-Eye Sapphire;
+Imp Jade;
+Myth-Away Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

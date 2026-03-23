@@ -1,0 +1,197 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 780
+| crecla = Spider
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Ice;
+
+| incresist =
+60% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Webwood Scuttler;
+
+| world = Grizzleheim
+| location = Savarstaad Pass
+| subloc1 = Skathi's Nest
+| descrip =
+Skathi is the Spider Queen of Webwood, nesting in a cave deep within the region.  Wizards are sent to her nest by {{Link|NPC|Einar Thunderhammer}}, who requires her stinger as the final component in forging a blade capable of slaying the Grendels at [[Location:Draugarth Fort|Draugarth]].
+
+Two additional Webwood Scuttlers will appear if more than two Wizards are present.
+
+| speech =
+:''"I can hear your little footsteps... intrude into my web and you shall pay the price!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+One of several Spider Queens scattered throughout the Spiral. Sometimes they exchange messages on the Worlds-Wide Web.
+
+| extract class =
+Spider;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fireblade;
+Fire Trap;
+Fire Cat;
+Fire Elf (50+210);
+Ash Bats;
+Sunbird;
+Fire Wyvern (335-395, 4 Pip);
+Ghoul;
+Cyclops;
+Natural Attack (Ice 85x, 85%);
+
+| quests =
+The Spider Queen;
+
+| gold =
+34 - 60;
+
+| hats =
+Cap of Dread;
+Hallowed Hood;
+Headcloth of the Fray*F2*WMV;
+Ice Raider's Hat*F3*WMV;
+Snowthorn Hat;
+Veil of Verdancy*F9*WMV;
+
+| robes =
+Birdcaller's Costume*CR;
+Garments of Zeal;
+Mystifying Raiment;
+Glacial Longcoat;
+Raiment of the Lifespring; 
+Robe of the Firebloom;
+Runeweave Clothing;
+Thanatoid Vestment;
+Tritonscale Coat*F7*WMV;
+Tunic of Terror*F4*WMV;
+Vestment of Serenity;
+
+| boots =
+Boots of Precipitation;
+Doomstriders;
+Footgear of the Firehaze*F2;
+Footguards of the Disciple*F2*WMV;
+Hibernal Footwraps;
+Mythkeeper's Walkers*F10*WMV;
+Relentless Footguards*F13*WMV;
+Striders of Strife;
+Thane's Boots;
+
+| athames =
+Athame of the Allfather*F7*WMV;
+Bodkin of Fury*F2*WMV;
+Iceshadow's Athame;
+
+| amulets =
+
+| rings =
+Circlet of Fortune;
+Circlet of the Fallen;
+Golden Ring of Valor*F6*WMV;
+Ice Raider's Ring;
+Ring of Revivification*F7*WMV;
+Seal of the Tundra;
+Stone of Confidence;
+
+| wands =
+
+| decks =
+
+| items =
+Fish Bones;
+
+| cards =
+Fire Trap;
+Ice Trap;
+Pacify;
+Pixie;
+Snow Serpent;
+Vampire;
+
+| reagents =
+Copper*F4;
+Iron*F4;
+Nickel*F5*WMV;
+Pyrite*F5*WMV;
+Spider Silk*F2;
+
+| spellements =
+
+| snacks =
+Dragon Fruit;
+Frosted Cupcake;
+Meat Soup*F3*WMV;
+Moon Pie*F6*WMV;
+MooShu Broccoli*F3*WMV;
+Orange Jalapeno*F3;
+Spicy Bubblegum*F3*WMV;
+Taffy;
+Tasty Biscuit*F5*WMV;
+Tiny Pretzel*F3*WMV;
+Wild Strawberry;
+
+| jewels =
+Blood Bat Peridot;
+Chipped Mana Opal +10;
+Cracked Accurate Peridot +2%;
+Cracked Damage Jade +2;
+Cracked Damage Peridot +2;
+Cracked Defense Opal +3;
+Cracked Defense Opal +4;
+Cracked Defense Peridot +12;
+Cracked Defense Sapphire +12;
+Cracked Health Opal +14;
+Dark Sprite Onyx;
+Fire Cat Ruby;
+Imp Jade*F2*WMV;
+Scarab Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Boom Shroom*F2;
+Couch Potatoes*CR;
+Dandelion*F3;
+Desparagus (Seed)*F2*WMV;
+Laugh-O-Dil;
+Stinkweed;
+
+| mounts =
+
+| spells =
+
+}}

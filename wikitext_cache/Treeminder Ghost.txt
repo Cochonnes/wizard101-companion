@@ -1,0 +1,150 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,400
+| crecla = Undead
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+15% Ice;
+
+| incresist =
+30% Fire;
+75% Moon;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = Olde Town Drains
+| subloc1 = Section C
+| descrip =
+When Wizards arrive in Service Tunnel C to retrieve the missing {{Link|NPC|Landscaper Doug}}, they find him cornered by this angry arboreal spirit, whose grave has been disturbed due to Wizard City's above-ground renovations.
+
+| speech =
+:'''Landscaper Doug:''' "''I swear on me shovel, mate, I weren't trying to disturb no one's eternal sleep!  I was just digging cuz the Boss told me to.''"
+:'''Treeminder Ghost:''' "''Silence, Dog-man!  Desecrating the grave of a felled Treeminder is punishable by death- wait, who is this?  Your graverobbing accomplice?''"
+:'''Landscaper Doug:''' "''OH!  Spectacular timing, Wizard!  'ELP!''"
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+Unlike the rest of his ilk, this Treeminder doesn't have time to wax poetic, not with all that resting his spirit is doing.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Ash Bats;
+Fire Shark;
+Heck Hound;
+Leprechaun;
+Banshee;
+
+| quests =
+Dog Gone Doug;
+Bugs Dig Doug;
+
+| gold =
+0;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Brain Jar;
+Crab Alley Chaise;
+Fish*F4*WMV;
+Ginormous Apple;
+Mystic Pizza;
+Watermelon Slice;
+WC Catacombs Combat Theme*F2;
+WC Catacombs Theme;
+WC Drains Combat Theme;
+WC Elsewhere Combat Theme;
+
+| cards =
+
+| reagents =
+Antique Coins*F2;
+Black Pearl*F2;
+Blood Moss*F2*WMV;
+Brass*F5*WMV;
+Bronze Gear*F3*WMV;
+Cobalt;
+Ectoplasm*F2*WMV;
+Nickel;
+Spider Silk;
+Spring*F4*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+BBQ Drumstick;
+Beast Wellington;
+Eye Candy*F2*WMV;
+Glowing Taffy;
+Hot Cross Buns*F2*WMV;
+Satyr Chow*F3;
+Sprinkle Cupcake;
+Wheat Cracker;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

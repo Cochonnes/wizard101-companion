@@ -1,0 +1,259 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,150
+| crecla = Boar
+| crecla2 = Pig
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+33%;
+
+| incboost =
+20% Storm;
+
+| incresist =
+45% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Grendelynn (Tier 1);
+
+| world = Grizzleheim
+| location = Savarstaad Pass
+| subloc1 = Savarstaad Pass Gold Key Room
+| badge = Borr, What Was He Good For?
+| descrip =
+King Borr (Tier 1) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Grizzleheim Lore Pack}}.
+*This Tier is for level 1-30 Wizards.
+*Unlike other versions of King Borr, Tier 1 does not appear to have any cheats.
+
+| speech =
+:''"Who is this? You wretch, you wastrel, you petty, mortal thing. Do you know who I am? I AM BORR, KING OF... boars!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+He's ever so tedious.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 460 Myth Damage for 4 Pips maximum.
+
+| casts =
+Grendel's Amends;
+Balanceblade;
+Cleanse Ward;
+Pierce;
+Keeper of the Flame;
+Cyclops;
+Humongofrog;
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+
+| hats =
+Allfather's Helm (Level 20+)*CR*F2;
+Allfather's Helm (Level 30+)*CR*F4;
+Conjurer's Timeless Brim*F2;
+Diviner's Timeless Brim*F2;
+Odin's Helm (Level 20+)*CR*F3;
+Odin's Helm (Level 30+)*CR*F3;
+Pyromancer's Timeless Brim;
+Sorcerer's Timeless Brim*F2;
+Thaumaturge's Timeless Brim*F3;
+Theurge's Timeless Brim*F2;
+Timeless Arboreal Brim*F2;
+Timeless Astral Brim*F3;
+Wizard's Timeless Brim*F4;
+Wotan's Helm (Level 20+)*CR*F4;
+Wotan's Helm (Level 30+)*CR;
+
+| robes =
+Allfather's Raiment (Level 20+)*CR*F2;
+Allfather's Raiment (Level 30+)*CR*F3;
+Conjurer's Timeless Tunic*F4;
+Diviner's Timeless Tunic*F2;
+Necromancer's Timeless Tunic*F2;
+Odin's Raiment (Level 20+)*CR*F2;
+Odin's Raiment (Level 30+)*CR*F3;
+Odin's Raiment (Level 40+)*CR;
+Pyromancer's Timeless Tunic*F2;
+Sorcerer's Timeless Tunic*F3;
+Thaumaturge's Timeless Tunic*F2;
+Theurge's Timeless Tunic*F2;
+Timeless Arboreal Tunic*F4*WMV;
+Timeless Astral Tunic*F2;
+Wizard's Timeless Tunic*F2;
+Wotan's Raiment (Level 20+)*CR;
+Wotan's Raiment (Level 30+)*CR*F5;
+
+| boots =
+Allfather's Boots (Level 20+)*CR;
+Allfather's Boots (Level 30+)*CR;
+Conjurer's Timeless Shoes*F2;
+Diviner's Timeless Shoes*F2;
+Necromancer's Timeless Shoes*F3;
+Odin's Boots (Level 20+)*CR;
+Odin's Boots (Level 30+)*CR*F3;
+Pyromancer's Timeless Shoes*F3;
+Sorcerer's Timeless Shoes;
+Thaumaturge's Timeless Shoes*F3;
+Theurge's Timeless Shoes*F6;
+Timeless Arboreal Shoes*F2;
+Timeless Astral Shoes*F5;
+Wizard's Timeless Shoes;
+Wotan's Boots (Level 30+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Allfather's Gungnir (Level 20+)*CR*F5;
+Allfather's Gungnir (Level 30+)*CR*F2;
+Odin's Gungnir (Level 20+)*CR;
+Odin's Gungnir (Level 30+)*CR*F2;
+Wotan's Gungnir (Level 20+)*CR*F4;
+Wotan's Gungnir (Level 30+)*CR*F4;
+
+| decks =
+
+| items =
+Adept's Socket Wrench*F5;
+Austrilund Shield*F3;
+Barbaric Wood Shelf*F5;
+Broken Viking Statue*F2;
+Cooking Fire*CR*F4;
+Fire Pit and Kettle*F3;
+Gold Skeleton Key*CR*F6;
+Grizzleheim Breadboard*F4;
+Grizzleheim Carved Wallpaper;
+Grizzleheim Combat Theme*F3;
+Grizzleheim Furnace*F4;
+Grizzleheim Game Trap*F3;
+Grizzleheim Main Theme*F4;
+Grizzleheim Stone Oven*F6;
+Grizzleheim Theme 1*F6;
+Hrundle Fjord Shield*F3;
+Kitchen Ware Pots*F2;
+Kitchen Ware Rack*F5;
+Medium Fir Tree*F7*WMV;
+Northguard Shield*F3;
+Ravenscar Anvil*CR*F3;
+Ravenscar Throne*F4;
+Redclaw Tent*CR*F2;
+Rough Wooden Shelf*F3*WMV;
+Stone Skeleton Key*CR*F6;
+Tall Wooden Shelf*F3;
+Viking Axe Statue*F4;
+Viking Sword Statue*F5;
+Wild Fern*F5;
+Wild Mushrooms*F3;
+Wooden Skeleton Key*CR*F8;
+
+| cards =
+Azoth*F146;
+Grendel's Amends*F34;
+Hammer of Thor*F38*WMV;
+Ratatoskr's Spin*F16;
+
+| reagents =
+Copper*F6;
+Iron*F3;
+Lead;
+Nickel*F3;
+Participation Trophy;
+Pyrite;
+Tin*F4;
+
+| spellements =
+Grendel's Amends*F252*WMV;
+Grendel's Amends @ 2 Grendel's Amends*F24;
+Grendel's Amends @ 4 Grendel's Amends;
+Grendel's Amends @ 8 Grendel's Amends;
+Hammer of Thor*F270*WMV;
+Hammer of Thor @ 2 Hammer of Thor*F26;
+Hammer of Thor @ 4 Hammer of Thor*F4;
+Hammer of Thor @ 8 Hammer of Thor;
+Hammer of Thor @ 16 Hammer of Thor;
+Ratatoskr's Spin*F246*WMV;
+Ratatoskr's Spin @ 2 Ratatoskr's Spin*F25;
+Ratatoskr's Spin @ 4 Ratatoskr's Spin*F3;
+Ratatoskr's Spin @ 8 Ratatoskr's Spin*F2;
+Ratatoskr's Spin @ 16 Ratatoskr's Spin*F3;
+
+| snacks =
+
+| jewels =
+Add Health Opal;
+Chipped Damage Opal +4;
+Chipped Defense Citrine +13;
+Chipped Defense Jade +13;
+Chipped Defense Peridot +13*F2;
+Chipped Health Opal +16;
+Chipped Health Opal +19*F2;
+Chipped Mana Opal +9;
+Clay Post Opal;
+Clear Path Opal*F2;
+Cracked Damage Citrine +6;
+Cracked Damage Peridot +6;
+Hearty Opal;
+Leprechaun Jade;
+Lightning Bats Amethyst;
+Myth Trap Peridot (Triangle);
+Rugged Opal;
+Snow Serpent Sapphire*F2;
+Steadfast Opal;
+
+| pins =
+
+| pets =
+Fenric*CR*F2;
+Fenrir*CR*F4;
+Fenris*CR*F2;
+Harpy*CR*F6;
+Imp*F3;
+Night Hawk*CR*F2;
+Pesky Beetle*CR;
+Raven*CR*F3;
+
+| seeds =
+
+| mounts =
+Snow Ram*PERM*CR;
+Tawny Ram*PERM;
+
+| spells =
+
+}}

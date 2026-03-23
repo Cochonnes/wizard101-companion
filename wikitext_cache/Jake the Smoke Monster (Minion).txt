@@ -1,0 +1,97 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 11,321
+| crecla = Elemental
+| school = Shadow
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+47%;
+
+| outboost =
+119%;
+
+| incboost =
+None;
+
+| incresist =
+37% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wallaru
+| location = Wobbegong Territory
+| subloc1 = Mystery Box
+| descrip =
+Jake the Smoke Monster (Minion) is considered a Minion to {{Link|Creature|Jake the Smoke Monster}}. All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Magnify;
+Shadowblade;
+Shadow Trap;
+Disarm (Shadow);
+Vampire (Shadow);
+Lord of Night (Shadow);
+Wraith (Shadow);
+Ominous Scarecrow (Shadow);
+Dr. Von's Monster (Shadow);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Jake the Smoke Monster
+}}

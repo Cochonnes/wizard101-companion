@@ -1,0 +1,156 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 6,775
+| crecla = Grendel
+| school = Storm
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Winterwing Battler;
+
+| world = Grizzleheim
+| location = Sudrilund
+| subloc1 = Skabrok's Cave
+| descrip =
+Skabrok is the Level 55 School Spell Boss. He is located in Sudrilund, the third area in Wintertusk.  Skabrok is a non-repeatable Boss that Wizards must fight solo during the quest, ''The Runedown''. There is no Sigil outside Skabrok's Cave, and friends will not be able to port into the instance.
+
+| speech =
+:''"Good... more magic for me! I might just eat you now, though..."''
+
+| spellnotes =
+
+| casts =
+Stormblade;
+Storm Trap;
+Darkwind;
+Lightning Bats;
+Wild Bolt;
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Tempest;
+Natural Attack (Storm 125x, 70%);
+
+| quests =
+The Runedown;
+
+| gold =
+48 - 74;
+
+| hats =
+Coif of the Antithesis*F2*WMV;
+Cowl of Crackling;
+Grizzled Helm;
+Veil of Fulmination;
+
+| robes =
+Burnt Coat*F2*WMV;
+Coat of the Crypt;
+Garment of Generality;
+Hardy Coat;
+Jerkin of the Seer;
+
+| boots =
+Barbarian's Brave Boots;
+Brumal Boots;
+Raven's Alert Boots;
+Sapient Walkers;
+
+| athames =
+Bodkin of Battlefrenzy;
+
+| amulets =
+
+| rings =
+Ring of the Ravenous Wolf;
+Ring of the Wolf Warrior;
+Ruby Ring of Battle;
+
+| wands =
+
+| decks =
+
+| items =
+Jar of Bat Wings*F2;
+
+| cards =
+Enfeeble (-3)*F2;
+Insane Bolt*F5*WMV;
+Monstrous;
+Skeletal Pirate;
+Supercharge*F3*WMV;
+
+| reagents =
+Bronze*F2;
+Cobalt;
+Ectoplasm*F5*WMV;
+Lead;
+Leather Straps*F3;
+Nickel;
+Tin;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Glowing Rock Candy;
+Glowing Taffy;
+Golden Apple;
+Golden Grapes;
+Gummy Humongofrog;
+King Banana;
+Moon Pie;
+Shiny Tomato*F2;
+Strawberry Cupcake*F2;
+Submarine Sandwich;
+
+| jewels =
+Cracked Damage Amethyst +5;
+Cracked Damage Opal +2;
+Mass Ice Prism Sapphire;
+Mass Myth Prism Peridot;
+Plain Blocking Amethyst +6;
+Plain Blocking Opal +3;
+Sniper Talent Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Burning Snap Dragon;
+Couch Potatoes*CR*F2;
+Deadly Fly Trap;
+Orange Dandelion*F2*WMV;
+Pink Laugh-O-Dil;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

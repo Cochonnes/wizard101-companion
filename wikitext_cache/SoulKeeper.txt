@@ -1,0 +1,235 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 525
+| crecla = Krokotopian
+| crecla2 = Undead
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Fire;
+
+| incresist =
+30% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Soul of the Charmed;
+Soul of the Charmed;
+Soul of the Charmed;
+
+| world = Krokotopia
+| location = Chamber of Fire
+| subloc1 = Chamber of the Charmed
+| descrip =
+Originally thought to be a myth, the SoulKeeper is responsible for the enslavement of Manders that have passed on to the afterlife.  He is located in the Chamber of the Charmed within the [[Location:Pyramid of the Sun|Pyramid of the Sun's]] {{Link|Location|Chamber of Fire}}, where all of the Mander souls that he has enslaved restlessly wander.  After finding and translating an ancient scroll that reveals the location and existence of the chamber, {{Link|NPC|Hetch Al'Dim}} asks Wizards to confront the SoulKeeper and free the Manders that he has bound so that they may pass on peacefully to the rest of their afterlives.
+
+| speech =
+:''"Fool! You think you can just come in here and take my Manders! They are mine for all eternity!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+Guides the spirits of the manders into the Chamber of the Charmed to trap them in their afterlife.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+| retired expel = Yes
+}}
+
+| spellnotes =
+
+| casts =
+Tower Shield;
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Ice Elf (30+210);
+Evil Snowman;
+Snow Shark;
+Natural Attack (Ice 85x, 85%);
+Banshee;
+
+| quests =
+Lucky Charmed;
+
+| gold =
+23 - 46;
+
+| hats =
+Cap of the Oasis;
+Charred Cowl;
+Cowl of Summertime*F3*WMV;
+Cryptkeeper's Circlet*F2;
+Crystalline Helm;
+Destructive Cowl*F2;
+Diviner's Hat of Squalls;
+Durable Hood*F2*WMV;
+Helm of Refuge;
+Helm of the Citadel;
+Helm of the Cyclone;
+Snowflake Cowl;
+Sphinx's Circlet;
+Stout Hood;
+Sturdy Hood;
+Theurge's Hat*F3*WMV;
+Threadbare Hood;
+
+| robes =
+Crystalline Vest;
+Flowering Mantle;
+Powerful Vestment;
+Robe of the Bastion;
+Robe of the Mirage;
+Sphinx's Vestment;
+Sturdy Robe;
+Tunic of Tall Tales;
+Vest of the Cyclone;
+Vest of the Oasis;
+Vestment of Darkness;
+Vestment of Ignition;
+
+| boots =
+Ancient Sandals*F2*WMV;
+Biti Nirini's Torrid Boots;
+Blazing Boots;
+Boots of Talent;
+Boots of the Bastion;
+Boots of the Citadel;
+Boots of the Cyclone;
+Boots of the Whirlwind;
+Cryptkeeper's Shoes;
+Flowering Shoes*F2*WMV;
+Footwraps of the Arctic;
+Glacial Slippers;
+Hardy Boots;
+Overseer's Shoes;
+Powerful Boots;
+Runed Boots;
+Sandals of Refuge;
+Sandals of Tall Tales*F2*WMV;
+Shoes of Adaptation;
+Shoes of Mortality;
+Shoes of the Desert;
+Slippers of the Badlands;
+Slippers of the Oasis;
+Sphinx's Footwraps;
+
+| athames =
+Dagger of Talent;
+Parched Kris;
+Whirlwind Dagger;
+
+| amulets =
+
+| rings =
+Band of Equilibrium;
+Band of the Skies;
+Cryptkeeper's Band*F2;
+Flowering Band;
+Jewel of Obliteration*F3;
+Loop of Quietude*F2;
+Loop of the Defender;
+Ring of the Badlands;
+Sparkling Band;
+Superstitious Band;
+
+| wands =
+
+| decks =
+
+| items =
+Bushy Palm Tree;
+Hieroglyphic Ice Tablet;
+Krok Skull Plaque;
+Potted Palm;
+Raised Storm Sarcophagus*F2*WMV;
+Tall Palm Tree*CR;
+
+| cards =
+Accurate;
+Ghoul;
+Guiding Light;
+Humongofrog;
+Krokotillian*F2;
+Lightning Bats;
+Myth Trap;
+Pixie;
+Sprite;
+Sunbird;
+Troll;
+Weakness;
+
+| reagents =
+Bronze Gear;
+Copper*F3;
+Iron;
+Nickel;
+Pyrite;
+Spider Silk*F3*WMV;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Cracker*F10*WMV;
+Green Grapes*F7*WMV;
+Gummy Bloodbat;
+Medium Fish;
+Nettle Root*F3;
+Square Watermelon*F2;
+Tiny Fish*F7*WMV;
+Wheat Cracker*F2;
+
+| jewels =
+Calculating Opal;
+Chipped Mana Opal +10;
+Chipped PIP Opal +1%;
+Clay Post Opal;
+Cracked Accurate Jade +2%;
+Cracked Accurate Sapphire +2%;
+Cracked Defense Onyx +7*F2;
+Cracked Defense Opal +4;
+Cracked Defense Sapphire +8;
+Death-Eye Onyx;
+Fire Cat Ruby;
+Imp Jade*F2;
+Scarab Citrine;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2;
+Pink Dandelion*CR*F5*WMV;
+
+| mounts =
+
+| spells =
+
+}}

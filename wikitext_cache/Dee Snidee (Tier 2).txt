@@ -1,0 +1,109 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,535
+| crecla = Giant
+| school = Fire
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Twisted Kin (Tier 2);
+Twisted Kin (Tier 2);
+Twisted Kin (Tier 2);
+
+| world = Housing Instance
+| location = Baddle of the Bands
+| subloc1 = Baddle of the Bands (Tier 2)
+| descrip =
+
+| speech =
+:''"A challenger for the crown of rock? Meet the bad boys of rock'n'roll. You're so condescending, and your gall is never ending. If that's your best, Wizard, your best won't do. We're not gonna take it! Are you listening to me, Wizard? What do you want to do with your life!?"''
+
+| spellnotes =
+
+| casts =
+Fire Shield;
+Fire Prism;
+Fire Trap;
+Fire Bats (190-230);
+Natural Attack (Fire 120-235-350);
+Immolate;
+
+| quests =
+Baddle of the Bands;
+
+| gold =
+67 - 75;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Broken Pillar and Crown;
+Magma Blister;
+
+| cards =
+
+| reagents =
+Copper;
+Deep Mushroom;
+Fossil;
+Iron;
+Mist Wood;
+Pyrite;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Cheese Broccoli;
+Chocolate Strawberry;
+Gummy Bloodbat;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Helephant Ears;
+
+| mounts =
+
+| spells =
+
+}}

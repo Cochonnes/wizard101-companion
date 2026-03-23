@@ -1,0 +1,104 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss 
+| rank = 19
+| heal = 13,200
+| crecla = Demon
+| crecla2 = Elephant
+| school = Death
+| school2 = Ice
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| outpierce =
+50%;
+
+| outboost =
+110%;
+
+| incboost =
+None;
+
+| incresist =
+30% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minion = 
+| world = Housing Instance
+| location = Jade Oni Rematch
+| subloc1 = Jade Oni Challenge (Tier 3)
+| descrip =
+Death Oni (Tier 3) is considered a Minion to {{Link|Creature|Jade Oni (Tier 3)}}.  All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+*Casts an Aegis-Protected Deathblade (+40%).
+
+| casts =
+Brace (6 Rounds);
+Spirit Shield;
+Legion Shield;
+Plague;
+Deathblade (+40%);
+Ship of Fools (Tier 5a);
+Vampire (Tier 5a);
+Call of Khrulhu;
+Scarecrow;
+Snack Attack (Tier 3a);
+Skeletal Dragon;
+Grim Reader (Tier 3a);
+Snow Serpent (Tier 5b);
+Evil Snowman (Tier 5b);
+Reindeer Knight (Tier 3b);
+Abominable Weaver;
+Shatterhorn (Tier 2a);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Death Oni (Rematch)
+
+}}

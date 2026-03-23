@@ -1,0 +1,139 @@
+{{Stub|Spells and drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,850
+| crecla = Beastmoon Creature
+| school = Myth
+| startpips = 3
+| powerpips = 
+| critical =
+
+| criticalblock = 
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions = 
+ 
+| world = Wizard City
+| location = Arena
+| subloc1 = Mirage Battlegrounds
+| descrip =
+Mohn'ti Python is one of the Boss monsters that can be encountered during the third Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events. They will have 1 random, Rank 3 Elite, Stage 3 monster and 2 random, Rank 2, Stage 3 monsters present to assist them.
+
+'''Potential Rank 3 Elite Minions:'''
+*{{Link|Creature|Carrion Craver}}
+*{{Link|Creature|Scrutinizer}}
+*{{Link|Creature|Trengil Burrower}}
+
+'''Potential Rank 2 Minions:'''
+*{{Link|Creature|Baboon Goon}}
+*{{Link|Creature|Desert Beetle}}
+*{{Link|Creature|Mongu Gasher}}
+*{{Link|Creature|Stasis Eel}}
+
+| speech =
+
+| spellnotes =
+*It is currently unknown whether the push effect of Pushback occurs.
+*Casts a 1-Pip version of Sly Mountebank that deals 125 Myth Damage.
+**It is currently unknown whether the Trap effect occurs.
+*It is currently unknown whether the Stun effect of Striking Ifrit occurs.
+*Casts a version of Cursed Medusa.
+
+| casts =
+Pushback;
+Sly Mountebank;
+Striking Ifrit;
+Cursed Medusa;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 7-24 Lunari.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone*F2;
+Balance Thread;
+Colossus Idol (Life);
+Death Moonstone;
+Draconian Idol (Death);
+Eldritch Thread @ 2 Eldritch Thread*F2;
+Harmonious Thread;
+Hunter's Moonstone*F3;
+Hunter's Moonstone @ 2 Hunter's Moonstone;
+Life Moonstone*F2*WMV;
+Life Thread*F2;
+Minotaur Idol (Balance);
+Minotaur Idol (Life);
+Myth Thread;
+Rat Thief Idol (Balance);
+Spirit Moonstone;
+Spirit Thread;
+Wolf Warrior Idol (Life);
+
+| spellements =
+Crimson Phantom;
+Dream Golem*F2;
+Ether Golem;
+Golem\: Taunt;
+Infestation*F2;
+Iron Curse;
+Legend Golem*F2;
+Monster Mash;
+Regenerate;
+Sandstorm*F2;
+Sprite Swarm;
+Vermin Virtuoso;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Beastmoon Seed*F2;
+
+| mounts =
+
+| spells =
+
+}}

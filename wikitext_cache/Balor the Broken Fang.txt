@@ -1,0 +1,226 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 15,545
+| crecla = Bear
+| school = Storm
+| cheats = Yes
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Balor's Behemoth;
+Balor's Behemoth;
+
+| world = Khrysalis
+| location = Sardonyx
+| subloc1 = Soothsayer Gate
+| descrip =
+
+| speech =
+:''"I'll bite your head off and place it on a stake! But first, Spellbinder, we fight. This will be a joy, with the scent of hot blood and the sound of screams."''
+
+| cheatnotes =
+*{{Icon|Shield}} ''"Prepare for Battle!"'' - Every second (or third) Round, he will hidden cast a Tower Shield (Sun -70%) on himself or a Minion.
+**{{Link|Spell|Melt}} cannot dispel this cheat.
+**{{Link|Spell|Pierce}} can be safely used to remove the Shield.
+*{{Icon|Damage over Time}} At the start of every third Round, he will cast his Damage over Time (DoT) Natural Attack (over 3 Rounds) at the most "intimidating" Wizard (most-cast [[:Category:Blade Spells|Blades]] and/or [[:Category:Trap Spells|Traps]]).
+
+| spellnotes =
+
+| casts =
+Shadow Shrike;
+Fortify;
+Infallible;
+Lightning Strike;
+Stormblade;
+Storm Trap;
+Enfeeble;
+Storm Dragon;
+Sirens;
+Storm Owl;
+Natural Attack (Balor);
+Tempest (85);
+
+| quests =
+Broken Fang;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*8 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+| gold =
+220 - 263;
+
+| hats =
+Gloom Dancer's Shroud;
+Mouse Knight's Helmet;
+The Kroktop*CR*F2;
+
+| robes =
+Armor of the QuietBlade*F3*WMV;
+Burrower Robe of Ingenuity*F3;
+Burrower Scout's Jerkin;
+
+| boots =
+Digger Lieutenant's Boots*F3;
+Gorge Excavator's Trekkers*F2*WMV;
+Mantis Stalkers of Secrecy*F2*WMV;
+
+| athames =
+King Alric's Royal Athame*F2*WMV;
+Stinger's Razor of Fortune*F2;
+
+| amulets =
+
+| rings =
+Ghost Dog's Samoorai Band*F3*WMV;
+Gloom Dancer's Band*F4*WMV;
+
+| wands =
+
+| decks =
+Deck of Sinister Shadows (Square);
+Deck of Sinister Shadows (Tear)*F4*WMV;
+Deck of Sinister Shadows (Triangle);
+Deck of the Shadow Web (Tear)*F3*WMV;
+Deck of the Shadow Web (Triangle);
+
+| items =
+Khrysalis Boris Theme*F2*WMV;
+Khrysalis Sardonyx Theme*F2;
+Khrysalis Starfall Sea Theme;
+
+| cards =
+Avenging Fossil;
+Celestial Calendar;
+Death Scarab;
+Disarm*F2*WMV;
+Frost Beetle*F2;
+Scarab;
+Scorpion*F2;
+
+| reagents =
+Astral Shard*F7*WMV;
+Black Lotus*F3;
+Black Pearl;
+Blood Moss*F2;
+Bone*F5*WMV;
+Bronze Gear*F5*WMV;
+Copper;
+Deep Mushroom*F3*WMV;
+Fire Blossom*F4*WMV;
+Golden Pearl;
+Iron*F2;
+Lava Lily*F4*WMV;
+Mist Wood*F2*WMV;
+Nickel*F3;
+Nightshade;
+Ore*F5*WMV;
+Orichalcum;
+Pyrite*F3;
+Red Mandrake*F3*WMV;
+Silver;
+Stone Block*F2*WMV;
+Sunstone;
+Titanium;
+Tungsten;
+Turquoise*F4;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Chimera*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR*F2*WMV;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Flaming Soup;
+Goat Cheese;
+Golden Apple;
+Gummy Bees*F2;
+Gummy Humongofrog*F2*WMV;
+Hive Rinds*F2;
+Honey Bombs*F2*WMV;
+Honeycombs;
+Honeycrisp Apples;
+HoneyDon't Melon*F2*WMV;
+King Banana;
+Punk Rock Candy*F2*WMV;
+Sugar Khrystals*F4;
+
+| jewels =
+Cracked Defense Amethyst +12;
+Cracked Defense Jade +12;
+Cracked Defense Onyx +12*F2;
+Death-Proof Onyx;
+Fire Elemental Opal;
+Ice-Eye Sapphire;
+Polished Blocking Amethyst +12;
+Polished Defense Onyx +43;
+Polished Healing Opal +5%;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Angora Bunny Ears;
+Burning Snap Dragon*F2;
+Face Palm;
+
+| mounts =
+
+| spells =
+
+}}

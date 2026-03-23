@@ -1,0 +1,347 @@
+{{Stub|which version of the '''''Mutate''''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 11,680
+| crecla = Moose
+| school = Death
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Borealis Golem;
+
+| world = Polaris
+| location = Borealis Peaks
+| subloc1 = Jeweled Slopes
+| descrip =
+Warlord Minak is a Shard Warrior encountered in the {{Link|Location|Jeweled Slopes}} instance.
+
+| speech =
+:''"So it's come to this, has it? A final battle as the Spiral ends? I wouldn't have it any other way. I will exalt in your defeat!"''
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Dream Shield (-50%);
+Plague;
+Virulent Plague;
+Deathblade;
+Minotaur Minion;
+Bad Juju;
+Natural Attack (Death 110-215-320);
+Deer Knight;
+Poison;
+Death Ninja Pig (Death);
+Shift Sugar Glider;
+
+| quests =
+The Jeweled Slopes;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge and has not unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' {{Icon|Savior of the Sands}} Badge, the following drops will be available:
+*13 Spellements will drop each time from '''any''' School for their respective rank 8, 9, 10, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+1,997 - 3,399;
+
+| hats =
+Arcanum Diviner's Spire;
+Arcanum Thaumaturge's Spire;
+Borealis Cowl of Schisms;
+Spire of the Arcanum*F2;
+The Goat Horns*CR*F2;
+The Ice Horns*CR;
+The Kroktop*CR;
+The Manticore*CR*F2*WMV;
+The Stalwart Guardian*CR;
+The Warlock*CR*F2*WMV;
+Titan Warrior Brim of Waves*F2;
+Titan Warrior Cowl of Bite;
+Titan Warrior Cowl of Mettle;
+Titan Warrior Helm of Logic;
+Titan Warrior Helm of Torpor*F2;
+Titan Warrior Honesty Cowl;
+
+| robes =
+Arcanum Diviner's Vestment;
+Arcanum Pyromancer's Garb;
+Arcanum Theurgist's Wraps;
+Timeless Borealis Vestment;
+Titan Warrior Garb of Logic;
+Titan Warrior Gear of Waves*F2;
+Titan Warrior Honesty Drape;
+Titan Warrior Skyfire Robe;
+Titan Warrior Wrap of Mettle;
+
+| boots =
+Arcanum Conjurer's Boots*F3*WMV;
+Titan Warrior Boots of Logic;
+Titan Warrior Honesty Boots;
+Titan Warrior Shoes of Waves*F2*WMV;
+Titan Warrior Torpor Riders*F3;
+Titan Warrior's Mettle Boots;
+
+| athames =
+Arcanum Exile Claw of Strife;
+Arcanum Exile Dagger of Vim;
+Arcanum Exile Scorched Blade;
+Arcanum Pyromancer's Edge;
+Arcanum Sorcerer's Dagger;
+Auroracle's Point of Energy;
+Horizon Hold Kris of Cold;
+Horizon Hold Searing Spike;
+Razor of the Arcanum Exile;
+
+| amulets =
+Arcanum Exile Amulet of Vim;
+Arcanum Exile Burning Charm;
+Arcanum Exile Relic of Gales;
+Arcanum Exile Torc of Strife;
+Arcanum Necromancer's Charm;
+Bitter Relic of Horizon Hold;
+Steady Arcanum Exile Ampul;
+
+| rings =
+Arcanum Exile Band of Strife;
+Arcanum Exile Burning Band;
+Arcanum Exile Galeforce Ring*F3*WMV;
+Arcanum Exile Loop of Ideas;
+Arcanum Exile Ringlet of Vim*F2;
+Arcanum Exile Snowflake Seal;
+Arcanum Theurgist's Loop;
+Northern Ring of Ruses;
+Ring of the Northern Sea;
+Steady Arcanum Exile Signet;
+
+| wands =
+Arcanum Diviner's Stave;
+Arcanum Necromancer's Wand;
+Borealis Relic of Windswirls;
+Borealis Remnant of Schisms;
+Charmed Wand of the Arcanum;
+Keepsake of Titan Equity;
+Portion of Titantic Mettle;
+Relic of the Titan Warrior;
+Titan Warrior Curio of Bite;
+Titan Warrior Focus of Waves;
+Titanic Fragment of Torpor;
+Volatile Borealis Remnant;
+
+| decks =
+Arcanum Exile Bevy of Strife*F2*WMV;
+Arcanum Exile Galeforce Set*F2*WMV;
+Arcanum Exile Pack of Fever*F2*WMV;
+Arcanum Exile Snowflake Set;
+Arcanum Necromancer's Set;
+Arcanum Pyromancer's Deck;
+Arcanum Thaumaturge's Set;
+Assemblage of the Arcanum;
+Case of Arcanum Exile Ideas;
+Gallant Hand of Horizon Hold;
+Horizon Hold Deck of Icefog;
+Parcel of the Arcanum Exile;
+Steady Arcanum Exile Hand*F2;
+
+| items =
+Arcanum Theme*F2;
+Medium Enchanted Planter*CR*F3*WMV;
+Medium Normal Planter*CR;
+Polaris Baba Yaga Theme*F2;
+Polaris Frozen Combat Theme*F2;
+Polaris Frozen Forest Theme*F2;
+Polaris Gulag Combat Theme*F3;
+Polaris Gulag Theme*F4;
+Polaris Ice Block Theme*F3;
+Polaris Mine Combat Theme*F2;
+Polaris Mine Theme*F3;
+Polaris Opera Theme;
+Polaris Rasputin Combat Theme*F6;
+Small Enchanted Planter*CR*F2*WMV;
+Small Normal Planter*CR*F3;
+Walruskberg Combat Theme*F4;
+Walruskberg Liberated Theme;
+Walruskberg Theme;
+
+| cards =
+Age of Reckoning;
+Ashen Bones;
+Balefrost;
+Combustion*F2*WMV;
+Counterforce;
+Fiery Colossus;
+Frostfang;
+Icespear;
+Katabatic Wind;
+Lifespear*F2*WMV;
+Magma Colossus*F2;
+Mutate Colossus;
+Mythspear;
+Nested Fury;
+Obsidian Colossus (420);
+Rusalka's Wrath*F2;
+Shock Colossus;
+Stone Colossus*F2;
+Stormspear;
+Winged Sorrow*F2;
+
+| reagents =
+Aether*F8*WMV;
+Agave Leaves*F5*WMV;
+Agave Nectar*F2;
+Amber;
+Amber Dust*F3;
+Aquamarine*F6*WMV;
+Astral Shard*F5*WMV;
+Braided Vine*F2;
+Draconium;
+Fire Blossom*F3;
+Fish Fin*F5*WMV;
+Golden Pearl*F3;
+Merle's Whisker;
+Mithril*F4*WMV;
+Orichalcum;
+Palladium*F3;
+Scales*F4*WMV;
+Silver*F5*WMV;
+Stardust*F2*WMV;
+Steel*F7*WMV;
+Sunstone*F5*WMV;
+Titanium*F5*WMV;
+Tungsten*F5*WMV;
+Turquoise*F3*WMV;
+Vine*F7*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Chimera*BR;
+Dr. Von's Monster*BR;
+Efreet*BR*F2;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR*F3;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR*F3;
+King Artorius (Life)*BR*F2;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR*F2;
+Raging Bull*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Rusalka's Wrath*BR;
+Sabertooth*BR*F2;
+Sirens*BR*F2;
+Snowball Barrage*BR;
+Spinysaur*BR;
+Storm Owl*BR*F2;
+Sun Serpent*BR;
+Wings of Fate*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Beast Wellington*F6*WMV;
+Chalupacabra*F4*WMV;
+Deepwater Toffee;
+Eye Candy*F4*WMV;
+Frozen Snails;
+Green Tomato*F2;
+Hot Cross Buns*F4*WMV;
+Mustachios*F2;
+Penne Dreadful*F4*WMV;
+Polaris Fries*F6*WMV;
+Satyr Chow*F7*WMV;
+Ships 'n' Queso;
+Snow Apple Cider;
+Veggie Juice*F3*WMV;
+
+| jewels =
+Lustrous Accurate Citrine +11%;
+Lustrous Defense Hematite +47;
+Lustrous PIP Opal +10%;
+Polished Accurate Amethyst +10%;
+Polished Accurate Peridot +10%;
+Polished Accurate Ruby +10%;
+Polished Critical Amethyst +11;
+Polished Defense Jade +44;
+Polished Defense Ruby +44;
+Polished Piercing Ruby +6%;
+
+| pins =
+
+| pets =
+Glacier Dragon;
+Ice Bird;
+Intrepid Seal Pup*F2;
+Mountain Yeti*CR*F2;
+Nodori Winged Ram*CR*F2*WMV;
+Polar Bear Cub*CR*F2;
+Snowball*CR*F2;
+White Winter Owl*CR*F2;
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Blue Huckleberries;
+Boom Shroom*F2;
+Burning Snap Dragon*F3*WMV;
+Couch Potatoes*CR;
+Dandelion*F2*WMV;
+Deadly Fly Trap*F2;
+Deadly Helephant Ears*CR*F3*WMV;
+Deadly Ninja Fig*F4;
+Evil Snow Peas;
+Fiery Boom Shroom*F2*WMV;
+Frozen Fly Trap;
+Green Snow Apples*F4*WMV;
+Helephant Ears;
+Ivy League*CR;
+King Parsley*CR*F2;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily;
+Ninja Fig*CR;
+Orange Dandelion*F2;
+Pink Dandelion*CR*F2*WMV;
+Pink Huckleberries*F3*WMV;
+Purple Snow Apples*F2;
+Red Couch Potatoes;
+Red Huckleberries;
+Snow Apples;
+Tiger Lily (Seed)*F2;
+Trumpet Vine;
+Ultra Alligator Pear Tree;
+Ultra Dandelion;
+Ultra Huckleberries;
+Ultra King Parsley;
+Ultra Snow Apples;
+Venus Fly Trap;
+White Tiger Lily*F3;
+
+| mounts =
+Himoolayan Yak*PERM*CR;
+
+| spells =
+
+}}

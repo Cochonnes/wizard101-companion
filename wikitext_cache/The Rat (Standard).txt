@@ -1,0 +1,115 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 99,999
+| crecla = Rat
+| school = Shadow
+| shadowslots = 7
+| startpips = 6
+| powerpips = Yes
+| critical =
+377 Any;
+
+| criticalblock =
+102 Any;
+
+| outpierce =
+15%;
+
+| outboost =
+82%;
+
+| incboost =
+30% Myth;
+
+| incresist =
+28% Any;
+
+| outhealing =
+6%;
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Titan Experiment 07 (Stage 1, Standard);
+Titan Experiment 291 (Stage 1, Standard);
+Titan Experiment 34 (Stage 1, Standard);
+
+| world = Housing Instance
+| location = The Rat Rematch
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Animated Deity Dirk (Level 170+);
+Classical Deity Dirk (Level 170+);
+Cool Deity Dirk (Level 170+);
+Grimdark Deity Dirk (Level 170+);
+Infamous Deity Dirk (Level 170+);
+Inflammatory Deity Dirk (Level 170+);
+Snappy Deity Dirk (Level 170+);
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Animated Deity Cards (Level 170+);
+Classical Deity Cards (Level 170+);
+Cool Deity Cards (Level 170+);
+Grimdark Deity Cards (Level 170+);
+Infamous Deity Cards (Level 170+);
+Inflammatory Deity Cards (Level 170+);
+Snappy Deity Cards (Level 170+);
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Aethyr Crystal @ 10 Aethyr Crystal;
+
+| spellements =
+Nested Fury;
+Raging Bull;
+Rusalka's Wrath;
+Snowball Barrage;
+Winged Sorrow;
+Wings of Fate;
+Witch's House Call;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

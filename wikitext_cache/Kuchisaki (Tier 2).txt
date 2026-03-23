@@ -1,0 +1,111 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 1,570
+| crecla = Pig
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Midnight Sun Pagoda
+| subloc1 = 
+| descrip =
+Kuchisaki is considered a Minion to [[Creature:Kaizoku (Tier 2)|Kaizoku]].  All drops should be recorded on Kaizoku's page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Even though he works for the hot-tempered Kaizoku, he manages to stay pretty chill.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Tower Shield;
+Weakness;
+Iceblade;
+Frost Beetle;
+Snow Serpent;
+Evil Snowman;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Icezilla (650-730);
+Troll;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

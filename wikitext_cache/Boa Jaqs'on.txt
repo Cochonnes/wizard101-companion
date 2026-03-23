@@ -1,0 +1,156 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 1,700
+| crecla = Beastmoon Creature
+| school = Death
+| startpips = 2
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Mirage Battlegrounds
+| descrip =
+Boa Jaqs'on is one of the Boss monsters that can be encountered during the second Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events. They will have 1 random, Rank 2 Elite, Stage 2 Minion and 1 random, Rank 1, Stage 2 Minion present to assist them.
+
+'''Potential Rank 2 Elite Minions:'''
+*{{Link|Creature|Dune Raider}}
+*{{Link|Creature|Responsi-Bot}}
+*{{Link|Creature|Trengil Gouger}}
+
+'''Potential Rank 1 Minions:'''
+*{{Link|Creature|Baboon Bandit}}
+*{{Link|Creature|Mongu Slicer}}
+*{{Link|Creature|Sand Scarab}}
+
+| speech =
+
+| spellnotes =
+*Casts a version of Borrowed Time that applies a 200 Damage Absorb.
+*Casts a 200 Myth Damage version of Sly Mountebank without the trap effect.
+
+| casts =
+Borrowed Time;
+Pushback;
+Sly Mountebank;
+Striking Ifrit;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 10 - 15 Lunari.
+
+| gold =
+54 - 63;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Thread*F3*WMV;
+Cyclops Idol (Balance);
+Cyclops Idol (Life)*F2;
+Death Moonstone;
+Death Thread*F5;
+Draconian Idol (Myth);
+Eldritch Thread*F2;
+Eldritch Thread @ 2 Eldritch Thread*F8;
+Elemental Moonstone;
+Elemental Thread;
+Fairy Idol (Life)*F2;
+Fairy Idol (Myth);
+Fire Moonstone;
+Fire Thread;
+Harmonious Moonstone;
+Hunter's Moonstone*F13*WMV;
+Hunter's Moonstone @ 2 Hunter's Moonstone*F3;
+Ice Thread;
+Krokomummy Idol (Death);
+Krokomummy Idol (Storm);
+Life Moonstone;
+Minotaur Idol (Balance);
+Minotaur Idol (Death);
+Minotaur Idol (Fire);
+Myth Thread*F3;
+Ninja Pig Idol (Death)*F2*WMV;
+Rat Thief Idol (Life);
+Spirit Thread*F11;
+Wolf Warrior Idol (Myth)*F2;
+
+| spellements =
+Blizzard;
+Crimson Phantom*F2;
+Dream Golem;
+Elemental Golem*F2;
+Ether Golem*F4;
+Frostbite;
+Golem\: Taunt;
+Humongofrog*F4;
+Infestation*F5;
+Iron Curse*F4*WMV;
+Judgement*F2;
+Legend Golem*F2;
+Monster Mash*F2;
+Poison*F2;
+Regenerate*F2;
+Sandstorm*F2;
+Sprite Swarm*F2;
+Thermic Golem;
+Vermin Virtuoso;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| recipes =
+7 Crimson Phantom Spellements;
+7 Ether Golem Spellements;
+
+}}

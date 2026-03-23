@@ -1,0 +1,132 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 20
+| heal = 13,200
+| crecla = Undead
+| school = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| outpierce =
+40%;
+
+| outboost =
+150%;
+
+| incboost =
+None;
+
+| incresist =
+60% Any;
+
+| outhealing =
+40%;
+
+| inchealing =
+45%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Lord Nightshade Rematch
+| subloc1 = Lord Nightshade Challenge (Tier 3)
+| descrip =
+
+| cheatnotes =
+*''"Tardiness is unacceptable"'' - If a Wizard is late after the second Round, Boss will cast a Moon version of Ship of Fools dealing '''100,000''' Moon Damage.
+**Damage will be limited by the Equalize Global until the Equalize is changed.
+*''"Your doom approaches"'' - At the beginning of the first Round, Boss will cast a Death version Equalize, which sets the Damage cap to 500.
+*''"You wish to hasten your doom?"'' - If a Wizard changes the Global, Boss will cast {{Link|Spell|Tower Shield (Moon)}}.
+**This does not change the Global, and the Deer Knight will deal it's full damage amplified by the Damage Outboost.
+*''"Kneel! For I am the harbinger of your demise!"'' - At the end of every Round, Lord Nightshade will interrupt with a Moon version of '''Deer Knight''' dealing '''100,000''' Moon Damage.
+**Damage will be limited by the Equalize Global until the Equalize is changed.
+*''"Closer"'' - At the beginning of the third Round, Boss will cast a Death version Equalize, which sets the Damage cap to 1,000.
+*''"and closer..."'' - At the beginning of the fifth Round, Boss will cast a Death version Equalize, which sets the Damage cap to 2,000.
+*''"It's almost here"'' - At the beginning of the seventh Round, Boss will cast a Death version Equalize, which sets the Damage cap to 4,000.
+
+| spellnotes =
+*Casts an Aegis-Protected Deathblade (+40%).
+
+'''Natural Attack:'''
+*Deals 85 Death Damage per Pip.
+
+| casts =
+Adapt;
+Mass Infection;
+Virulent Plague;
+Deathblade (+40%);
+Dark Tribute;
+Vampire (Tier 5b);
+Qismah's Curse;
+Snack Attack;
+Call of Khrulhu;
+Wraith (Tier 5b);
+Winged Sorrow;
+Grim Reader (Tier 3a);
+
+| quests =
+
+| gold =
+1,119 - 1,166;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Broken Chair*CR;
+Nightshade's Bones;
+
+| cards =
+Azoth;
+Thunder Snake (Tier 2b);
+To The Commons;
+
+| reagents =
+Red Mandrake;
+
+| spellements =
+Blood Bat*F2;
+Dark Sprite;
+Fire Cat;
+Fire Elf;
+Frost Beetle*F2;
+Ghoul;
+Imp;
+Leprechaun*F2;
+Lightning Bats*F2;
+Scarab*F2;
+Snow Serpent;
+Thunder Snake;
+Troll*F2;
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Lord Nightshade (Rematch)
+}}

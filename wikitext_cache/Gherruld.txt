@@ -1,0 +1,277 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 8,130
+| crecla = Goliath
+| crecla2 = Insect
+| school = Life
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Gorilla Spider Witch;
+
+| world = Zafaria
+| location = Elephant Graveyard
+| subloc1 = Gherruld's Tomb
+| descrip =
+Gherruld is one of {{Link|NPC|Morganthe}}'s Agents in the Elephant Graveyard.  He guards {{Link|NPC|Queen Elissa}}'s Ring.
+
+| speech =
+:''"Fleshling... must... taste..."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Zafaria
+| tome description =
+Ooh-Eee, it looks like a purple people-eater to me.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 270 Life Damage for 3 Pips.
+
+| casts =
+Empowerment;
+Mend;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Nature's Wrath;
+Life Banshee (250);
+Seraph;
+Centaur;
+Forest Lord;
+Natural Attack (Life 83-X Pips);
+
+| quests =
+Tomb Raiders;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Celestia Badges|Astrologist]]''' {{Icon|Astrologist}} Badge and has not unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge, the following drops will be available:
+*4 Spellements will drop each time for their respective rank 4-8 Spells.
+
+| gold =
+105 - 150;
+
+| hats =
+Branded Chapeau*CR;
+Courageous Grower's Hat;
+Face of the Blinding Sun*F4*WMV;
+Griot's Hood*F4*WMV;
+Hood of the Forgotten;
+Hot-Tempered Chieftain's Mask;
+Jungle Lord's Winter Cap*F4*WMV;
+Mischievous Brim*CR;
+River Captain's Hood;
+Stone Town Topper;
+War Olyphant's Wrap*F2;
+Wild Monsoon Brim*CR*F2*WMV;
+
+| robes =
+Baxby's Noble Outfit;
+Big Five Robe*F3;
+Fire-Feather Robes;
+Hail and Thunder Raiment*F3*WMV;
+Hunter's Kin Garb*F4*WMV;
+River Smuggler's Garb*F4*WMV;
+Robes of the Cold Night;
+Shaman's Winter Protection;
+Sinister Juju Robes;
+Sinister Medicine Cloak*F5*WMV;
+Spider's Storied Robe*F5;
+Storm Caller's Outfit*F3*WMV;
+Tunic of Darajani Honor;
+Tunic of the Paragon*CR;
+Whiteblind Tunic*CR;
+Wicked Cold Clothes*F2*WMV;
+Wildfire Garb*F3;
+
+| boots =
+Baxby's Noble Trackers;
+Big Sky Striders;
+Cold Climate Climbers;
+Life's Circle Safari Boots;
+Lion King's Balanced Pads*F5*WMV;
+No Worries Footgear*F4*WMV;
+Quick Stepping Boots*F2*CR;
+Soul Stepping Boots*CR;
+Spider's Storied Wraps;
+Splendid Boots*CR;
+Stone Town Storm Trackers;
+Storm Caller's Rangers*F2;
+
+| athames =
+Jungle King's Roar*F6*WMV;
+Spear of Ice and Hail;
+
+| amulets =
+Mirror Light Pendant*F3*WMV;
+
+| rings =
+Aryanah's Golden Loop;
+Elissa's Chill Band*F4*WMV;
+Mansa's Dream Stone;
+Tanei's Ghost Ring*F2*WMV;
+
+| wands =
+Quagga Blade*F3*WMV;
+Staff of Solomon*F3*WMV;
+
+| decks =
+Bundle of Eternal Flame*F3;
+Dead Chieftain's Fanged Deck*F3*WMV;
+Hand-Chased Box of Destiny*F3*WMV;
+Hand-Chased Box of Winter;
+
+| items =
+
+| cards =
+Brilliant Light*F12*WMV;
+Efreet*F2;
+Forest Lord*F4*WMV;
+Leviathan*F2;
+Medusa*F5*WMV;
+Polymorph Colossus;
+Polymorph Elemental (Storm);
+Polymorph Treant;
+Ra*F4*WMV;
+Skeletal Dragon*F5*WMV;
+Snow Angel*F4*WMV;
+Stun Block;
+Triage*F10*WMV;
+
+| reagents =
+Bone*F11*WMV;
+Brass;
+Bronze*F2;
+Cobalt*F3;
+Ectoplasm*F5*WMV;
+Nickel;
+
+| spellements =
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops Minion*BR;
+Earth Walker*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*BR;
+Ice Wyvern*BR;
+Immolate*BR;
+Kraken*BR;
+Leviathan*BR;
+Medusa*BR;
+Minotaur*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Ra*BR;
+Rebirth*BR;
+Scarecrow*BR;
+Seraph*BR;
+Skeletal Dragon*BR;
+Skeletal Pirate*BR;
+Snow Angel*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Stormzilla*BR;
+Triton*BR;
+Vampire*BR;
+Wraith*BR;
+
+| snacks =
+Buttered Bread*F2;
+Cauliflowers;
+Delicious Cookie;
+Dr. Jalapeno*F3*WMV;
+Flaming Soup;
+Flapjacks*F3*WMV;
+Glowing Dragon Fruit*F2;
+Glowing Star Fruit*F2;
+Glowing Taffy;
+Goat Cheese*F2*WMV;
+Golden Apple;
+Golden Grapes;
+Gummy Humongofrog;
+Jelly Baby*F4;
+King Banana*F3*WMV;
+Kola Nuts;
+Salmonberry*F4;
+Shiny Tomato*F2;
+Spicy Drumstick;
+Strawberry Cupcake;
+Submarine Sandwich;
+
+| jewels =
+Bananas! Opal;
+Death-Away Onyx;
+Death-Proof Onyx;
+Extra Mana Opal;
+Frost Giant Sapphire;
+Mega-Boost Opal;
+Opaque Accurate Citrine +8%;
+Opaque Accurate Sapphire +8%;
+Opaque Defense Peridot +33*F2*WMV;
+Opaque Defense Ruby +33;
+Opaque Piercing Ruby +4%;
+Orthrus Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Burning Snap Dragon*F2;
+Deadly Fly Trap;
+Fickle Pickle*F2;
+King Parsley*CR*F2*WMV;
+Orange Bell Pepper*CR;
+Orange Dandelion*F2;
+Red Bell Pepper*F2;
+Trumpet Vine*F2;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

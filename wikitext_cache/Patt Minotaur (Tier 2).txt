@@ -1,0 +1,121 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 2,320
+| crecla = Giant
+| school = Balance
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+10% Myth, Life, Death;
+
+| incresist =
+30% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Night Shadow (Fire) (Tier 2);
+Night Shadow (Ice) (Tier 2);
+
+| world = Housing Instance
+| location = Baddle of the Bands
+| subloc1 = Baddle of the Bands (Tier 2)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"Wizard! You and King Thermidor think you're tough cookies with a long history, but offstage, things are falling apart. I can hear your heartbeat. I hear the way it sounds. The way it pounds. Get nervous! Why don't you hit me with your best shot."''
+
+| spellnotes =
+
+| casts =
+Black Mantle;
+Weakness;
+Balanceblade;
+Scorpion;
+Locust Swarm;
+Natural Attack (Balance 110-215-320);
+Sandstorm;
+Judgement;
+
+| quests =
+Baddle of the Bands;
+
+| gold =
+55 - 77;
+
+| hats =
+Headbanger's Topper (Level 30+);
+
+| robes =
+Headbanger's Getup (Level 30+);
+Rockstar Threads (Level 20+);
+Rockstar Threads (Level 30+);
+
+| boots =
+Headbanger's Spiked Boots (Level 20+);
+Rocker's Stompers (Level 20+);
+Rocker's Stompers (Level 30+);
+Rockstar Kicks (Level 20+);
+Rockstar Kicks (Level 30+);
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Arboreal Obelisk;
+Baddle Combat Theme;
+Baddle of the Bands Theme;
+Playable Xanadu Smashers;
+Pointed Rock Shard;
+
+| cards =
+Sprite;
+
+| reagents =
+Iron;
+Pyrite;
+Stone Block*F2;
+
+| spellements =
+
+| snacks =
+Chocolate Strawberry;
+
+| jewels =
+Cracked Defense Jade +10;
+Cracked Defense Sapphire +9;
+
+| pins =
+
+| pets =
+Rockin' Roller;
+
+| seeds =
+
+| mounts =
+White-Striped Ziger*PERM;
+
+| spells =
+
+}}

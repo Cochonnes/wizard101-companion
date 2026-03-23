@@ -1,0 +1,208 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 5,030
+| crecla = Krokotopian
+| school = Fire
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Ice;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Ravenous Tooth (Life);
+Ravenous Tooth (Life);
+Ravenous Tooth (Life);
+
+| world = Krokotopia
+| location = Lower Zigazag
+| subloc1 = Toll House
+| descrip =
+
+| speech =
+:''"Well hello there, Wizard!  I thought tourists were off limits here, these days.  Looking to lower the Toll Bridge are you?  Aww... sorry.  I can't do that.  Apep wouldn't like it.  But don't worry, you still get to pay the toll!"''
+
+| cheatnotes =
+*{{Icon|Spell}} ''"We all give to the Toll Taker!"'' - The Ravenous Tooth (Life) will cast {{Link|Spell|Brilliant Light}} (triggering Kus'Bhid to cast {{Link|Spell|Link}}).
+**This cheat has no effect if Kus'Bhid is not present.
+*{{Icon|Spell}} ''"The Toll Taker accepts!"'' - Kus'Bhid replies to his Minions by casting {{Link|Spell|Power Link}} on a random Wizard.
+{{Icon|Round}} '''Cycle'''
+*''"Time to pay the toll!"'' - At the end of every second Round, Kus'Bhid will cast {{Link|Spell|Brimstone Revenant}} on a random Wizard.
+*''"No one crosses the toll bridge for free!"'' - At the end of every fourth Round, Kus'Bhid will cast {{Link|Spell|Efreet}} on a random Wizard.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals ~120 Fire Damage per Pip.
+
+| casts =
+Vengeance;
+Glacial Shield;
+Fire Prism;
+Fire Trap;
+Fuel;
+Brimstone Revenant;
+Meteor Strike;
+Power Link;
+Scald;
+Fire Dragon;
+Efreet;
+Heck Hound;
+
+| quests =
+Take A Bite Out Of Crime;
+
+| gold =
+65 - 227;
+
+| hats =
+
+| robes =
+
+| boots =
+Ancient Rebus Sandals;
+Ancient Sage Sandals*F2;
+Anubis' Boots of Guidance*F3;
+Anubis' Boots of Rebirth;
+Boots of the Fire Sands;
+Cold Bones Footwraps;
+Footwraps of the Devoured;
+Hands of Anubis Boots*F2;
+Sandsquall Boots*F2*WMV;
+Shoes of Anubis' Judgment;
+Soul Devourer's Footwraps;
+
+| athames =
+
+| amulets =
+Ampul of Desert Squalls*F2;
+Hands of Anubis Pendant*F4*WMV;
+Jewel of Anubis' Judgment;
+Medallion of the Condemned*F2;
+Rebus Medallion*F2*WMV;
+Relic of the Brisk Breeze*F2*WMV;
+Zigazag Desert Relic*F2;
+
+| rings =
+Band of the Sistrum*F2*WMV;
+Band of Upper Zigazag;
+Hall of Justice Signet*F2;
+Hands of Anubis Ring*F2*WMV;
+Kus'Bhid's Ring of Biting;
+Loop of Lower Zigazag;
+Mander Ring of Liberation*F3*WMV;
+Rebus Seal*F2;
+Ring of the Ravenous Teeth*F3*WMV;
+Ring of the Simmering Evil*F2*WMV;
+Scales of Justice Band;
+Seal of the Condemned;
+Stone of the Longest Hall;
+
+| wands =
+Hands of Anubis Staff;
+Rod of the Burning Scales;
+Stave of Cold Justice*F2*WMV;
+Stave of the Devoured;
+
+| decks =
+
+| items =
+Stone Skeleton Key*CR*F3*WMV;
+
+| cards =
+Efreet*F3*WMV;
+Fire Serpent*F3*WMV;
+Krokotillian*F4*WMV;
+Locust Swarm*F7*WMV;
+Ra*F6*WMV;
+Scarab*F4;
+Scorpion*F6*WMV;
+Stone Colossus*F3*WMV;
+Sunbird*F3*WMV;
+
+| reagents =
+Amber Dust;
+Bone*F2;
+Brass*F2;
+Bronze Gear*F3*WMV;
+Cobalt*F3*WMV;
+Copper;
+Ectoplasm*F2*WMV;
+Leather Straps*F4*WMV;
+Merle's Whisker*F2;
+Nickel*F2;
+Spider Silk*F2*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Cheese Broccoli*F3*WMV;
+Chocolate Strawberry;
+Cracker*F5*WMV;
+Glowing Star Fruit*F2;
+Green Grapes;
+Gummy Firecat*F3*WMV;
+Jelly Baby*F2;
+Kola Nuts*F2*WMV;
+Nettle Root*F2;
+Sugar Donut;
+Tiny Fish*F3*WMV;
+
+| jewels =
+Colossus Sapphire*F2*WMV;
+Dull Accurate Citrine +6%;
+Dull Accurate Onyx +6%;
+Dull Blocking Amethyst +4;
+Dull Blocking Jade +4;
+Dull Blocking Ruby +2;
+Dull Blocking Ruby +4;
+Dull Damage Peridot +13;
+Dull Damage Ruby +13;
+Dull Piercing Sapphire +2%;
+Exhausted Opal;
+
+| pins = 
+
+| pets =
+Fabled Grimoire*F6*WMV;
+
+| seeds =
+Baby Carrots;
+Burning Snap Dragon*F3;
+Deadly Fly Trap;
+Evil Snow Peas*F2*WMV;
+Helephant Ears*F2*WMV;
+Orange Bell Pepper*CR*F2;
+Rye Bread Fruit Bush;
+Snap Dragon*F2*WMV;
+Trumpet Vine;
+Venus Fly Trap;
+White Desparagus;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

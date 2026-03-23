@@ -1,0 +1,205 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 8,400
+| crecla = Mongu
+| school = Death
+| startpips = 3
+| powerpips = Yes
+| critical =
+96 Any;
+
+| criticalblock =
+87 Any;
+
+| outpierce =
+4%;
+
+| outboost =
+65%;
+
+| incboost =
+15% Life;
+
+| incresist =
+50% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minion = 
+| minion2 = 
+| world = Mirage
+| location = Caravan
+| subloc1 = Mottoman Treasure Cave
+| descrip =
+Death Wizards must defeat Zuliman Mongu during their Level 118 Spell Quest.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Brace;
+Sacrifice (Death);
+Deathblade (+40%);
+Dark Pact (+30%);
+Feint (+75%);
+Ghoul (180);
+Natural Attack (Death 110-220-330, 80%);
+Vampire (375);
+Wraith (575);
+Dr. Von's Monster (900);
+
+| quests =
+Qismah's Curse;
+
+| gold =
+268 - 439;
+
+| hats =
+Sand Sea Cowl of Hardiness;
+Zruvan Helmet of Mettle;
+
+| robes =
+Sand Sea Outfit of Ashes;
+
+| boots =
+Zruvan Galesh of Mettle;
+Zruvan Galesh of Rigor;
+
+| athames =
+Sand Sea Dagger of Ardor;
+
+| amulets =
+Sand Sea Amulet of Ardor;
+Sand Sea Amulet of Blusters;
+
+| rings =
+
+| wands =
+Rubal Bow of Conflagration;
+Rubal Sleetfall Bow;
+
+| decks =
+Kobra Hand of Mettle;
+Sand Sea Hand of Emptiness;
+Sand Sea Hand of Havoc;
+Sand Sea Hand of Mischief;
+
+| items =
+Mirage Canyon Theme 1;
+Mirage Caravan Theme;
+Mirage City Combat Theme;
+Mirage Chronoverge Theme;
+Mirage Desert Combat Theme;
+Mirage Jungle Theme;
+Mirage Magic Carpet Theme;
+Mirage Nomad Theme;
+Mirage Palace Theme;
+
+| cards =
+Ashen Bones;
+Astraphobia;
+Frostfang;
+Katabatic Wind;
+Namaste;
+Saga of Heroes;
+Snowball Barrage;
+
+| reagents =
+Aether;
+Agave Leaves*F2;
+Agave Nectar;
+Amber;
+Amber Dust;
+Aquamarine;
+Astral Shard*F2;
+Draconium;
+Fire Blossom*F2;
+Golden Pearl*F2*WMV;
+Iridium;
+Merle's Whisker;
+Mithril;
+Orichalcum;
+Scales;
+Silver*F3*WMV;
+Stardust;
+Steel;
+Sunstone;
+Titanium*F2;
+Tungsten;
+Turmeric;
+Turquoise;
+Vine;
+
+| spellements =
+
+| snacks =
+Beast Wellington;
+Beetle Cream Soda;
+Chalupacabra;
+Eye Candy;
+Hard Boiled Beetle Eggs;
+Mustachios;
+Satyr Chow;
+Ships 'n' Queso;
+Veggie Juice;
+
+| jewels =
+Epic Opal;
+Shiny Blocking Onyx +16;
+Shiny Blocking Ruby +16;
+Shiny Critical Hematite +16;
+Shiny Critical Onyx +16;
+Shiny Critical Sapphire +16;
+Shiny Defense Amethyst +51;
+Shiny Defense Amethyst +52;
+Shiny Health Opal +111;
+Shiny Health Opal +112;
+Shiny Health Opal +113;
+Shiny Mana Opal +45;
+
+| pets =
+MaCaw*CR*F3*WMV;
+
+| seeds =
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper;
+Boiled Peanuts*F2*WMV;
+Bread Fruit Bush;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR*F2;
+Evil Magma Peas*CR;
+Fickle Pickle;
+Fish on a Vine;
+Golden Couch Potatoes;
+Green Snow Apples;
+Honey Sickle;
+Ivy League*CR;
+Key Limes*CR;
+Maelstrom Snap Dragon;
+Ninja Fig*CR;
+Pink Huckleberries;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Red Bell Pepper;
+Red Couch Potatoes;
+Red Huckleberries;
+Silver Trumpet Vine*CR;
+Snow Apples;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Sunion*CR;
+Sword Fern*CR;
+Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+}}

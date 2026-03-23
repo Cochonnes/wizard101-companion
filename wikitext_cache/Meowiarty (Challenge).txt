@@ -1,0 +1,153 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 6,115
+| crecla = Cat
+| school = Myth
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Myth;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+50%;
+
+| incboost =
+None;
+
+| incresist =
+20% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Protection Pox (Challenge);
+
+| world = Housing Instance
+| location = Meowiarty Rematch
+| badge = Out-Matched Meowiarty
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the Standard version of this battle, see {{Link|Creature|Meowiarty (Standard)}}.
+
+'''Advanced Combat Rules:'''
+*Wizards stats and Spells are scaled to Level 50.
+*Spell Decks cannot be changed while in this instance.
+*No-PvP Spells are disallowed in this fight.
+*PvP-Only Spells are allowed in this fight.
+*Snake Turn Order Combat.
+*Wizards cannot re-join combat after fleeing mid-combat.
+
+'''Additional Notes:'''
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Stun}} ''"I've taken the liberty of inviting some of your old friends"'' - At the beginning of the first Round, Meowiarty will interrupt-cast a Star Spell to summon three Protection Pox (Challenge) minions, and a version of {{Link|Spell|Blinding Light}} that doesn't place a stun shield.
+*{{Icon|Afterlife}} ''"Settle in. We've much to catch up on."'' - At the beginning of the second Round, Meowiarty will interrupt-cast a Star version of {{Link|Spell|Guardian Spirit}} that restores 100% Health after defeat on all allies.
+*{{Icon|Shield}} ''"Shields up!"'' - At the beginning of the second Round, and every three Rounds after, Meowiarty will interrupt-cast {{Link|Spell|Legion Shield}}.
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Mass Myth Trap;
+Mythic Fuel;
+Time of Legend;
+Splashsquatch (Tier 2b);
+Cyclops (Tier 2b);
+Minotaur (Tier 2b);
+Stone Colossus (Tier 2b);
+Natural Attack (Meowiarty);
+
+| quests =
+
+| dropnotes =
+Wizards will receive Level 50+ gear if they have not reached Level 100, and Level 100+ gear if they have not reached Level 160.
+Wizards will always receive the following drops:
+*{{Icon|Spellement}} 32 Rank 4 Spellements for '''any''' School
+*{{Icon|Treasure Card}} 7 Azoth Treasure Cards
+*{{Icon|Reagent}} 12 Malistaire's Whisker
+*{{Icon|Athame}}{{Icon|Ring}} 3 Malistaire's Band or Blade drops for '''any''' School
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Malistaire's Chilly Blade (Level 160+);
+Malistaire's Ghostly Blade (Level 160+);
+Malistaire's Harmonic Blade (Level 50+);
+Malistaire's Harmonic Blade (Level 160+);
+Malistaire's Infamous Blade (Level 160+);
+Malistaire's Squall Blade (Level 160+);
+Malistaire's Thorny Blade (Level 160+);
+Malistaire's Vengeance Blade (Level 160+);
+
+| amulets =
+
+| rings =
+Malistaire's Chilly Band (Level 50+);
+Malistaire's Chilly Band (Level 160+);
+Malistaire's Ghostly Band (Level 160+);
+Malistaire's Harmonic Band (Level 160+);
+Malistaire's Infamous Band (Level 160+);
+Malistaire's Squall Band (Level 160+);
+Malistaire's Thorny Band (Level 160+);
+Malistaire's Vengeance Band (Level 160+);
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Malistaire's Whisker @ 12 Malistaire's Whisker;
+
+| spellements =
+Cyclops Minion @ 2 Cyclops Minion;
+Gearhead Destroyer @ 2 Gearhead Destroyer;
+Ice Wyvern @ 2 Ice Wyvern;
+Immolate @ 2 Immolate;
+Kraken @ 2 Kraken;
+Seraph @ 2 Seraph;
+Vampire @ 2 Vampire;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Meowiarty (Rematch)
+
+}}

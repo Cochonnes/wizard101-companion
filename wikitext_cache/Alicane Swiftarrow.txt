@@ -1,0 +1,218 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 480
+| crecla = Elf
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Ice;
+
+| incresist =
+40% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Magma Man;
+
+| world = Wizard City
+| location = Firecat Alley
+| subloc1 = Fireglobe Theatre
+| descrip =
+The most famous living Fire Elf actor, Wizards confront Alicane Swiftarrow so that he may help distribute the cure to the curse that has been placed upon the Fire Elves of Firecat Alley.
+
+Two additional Magma Man Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Firefrorefriddle! The greatest magicians have something to learn. Firefrorefriddle! Wizard City must BURN! Firefrorefriddle! Whoohoo! Aahaha!"''
+
+| spellnotes =
+
+| casts =
+Snow Shield (-25%);
+Fire Cat;
+Flamesnake;
+Natural Attack (Fire 210);
+Sunbird;
+Natural Attack (Fire 100x);
+Imp;
+Blood Bat;
+
+| quests =
+The Cure;
+Shard Trek;
+
+| gold =
+8 - 28;
+
+| hats =
+Alicane's Cowl*F3*WMV;
+Alicane's Helm;
+Firestorm Cap;
+Healer's Cowl*F2;
+Helm of Stability;
+Helm of Supremacy*F15*WMV;
+Hood of Storms;
+Imp Lord's Helm;
+Novice's Hat*F2*WMV;
+Roughspun Hat;
+Soft Hood;
+
+| robes =
+Barkskin Tunic*F12*WMV;
+Chillcloak;
+Cloak of Calamity*F2*WMV;
+Cloak of Foresight;
+Elven Fire Robe*CR*F2;
+Fairy Cloak;
+Novice's Robe*F2*WMV;
+Robe of Antiquities;
+Senior Novice's Robe*F2*WMV;
+Sturdy Coat*F2;
+Swiftarrow's Mantle*F5*WMV;
+Swiftarrow's Windmane*F4*WMV;
+Twice Stitched Robe*F2*WMV;
+Vestment of the Adverse*F2;
+
+| boots =
+Adventurer's Boots*F2*WMV;
+Barkskin Boots*F12*WMV;
+Boots of the Adverse;
+Branded Footguards*F9*WMV;
+Canvas Wraps;
+Explorer Boots;
+Fairy Shoes;
+Firestorm Wraps*F3*WMV;
+Hardened Boots;
+Martyr's Wraps*F2;
+Novice's Shoes;
+Plated Boots*F2*WMV;
+Slippers of Rites;
+Soldiers Wraps;
+Sturdy Boots*F2;
+Swiftarrow's Boots*F2*WMV;
+
+| athames =
+Alicane's Dirk*F4*WMV;
+Jeweled Dagger*F13*WMV;
+Ritual Athame;
+Shortblade of the Quick*CR*F3*WMV;
+Simple Dirk;
+
+| amulets =
+Swiftarrow's Necklace*F4*WMV;
+
+| rings =
+Alicane's Band*F2*WMV;
+Flawed Opal Band;
+Flawed Pearl Ring;
+Hallowed Band*F13*WMV;
+Swiftarrow's Signet*F5*WMV;
+
+| wands =
+Alicane's Flame Staff*F2*WMV;
+Swiftarrow's Staff*F6*WMV;
+
+| decks =
+
+| items =
+Fire Bush*F6*WMV;
+Firecat Statue*F5*WMV;
+Prop House 2*F2;
+Prop Mountains 1;
+Prop Mountains 2;
+Small Fern*F3;
+Wizard101 Theme*F9*WMV;
+
+| cards =
+Blood Bat;
+Death Trap;
+Evil Snowman*F9*WMV;
+Fire Cat;
+Fire Elf*F8*WMV;
+Fire Shield*F2;
+Frost Beetle;
+Ghoul;
+Guiding Light;
+Imp*F2*WMV;
+Keen Eyes;
+Lightning Bats;
+Locust Swarm*F2;
+Myth Shield;
+Pixie;
+Scarab*F2*WMV;
+Snow Shield;
+Time of Legend*F2;
+Tough;
+
+| reagents =
+Leather Straps*F3;
+Spider Silk*F4*WMV;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry*F4*WMV;
+Cheese Broccoli*F7*WMV;
+Chocolate Strawberry*F5*WMV;
+Gummy Firecat*F4*WMV;
+Sugar Donut*F4*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+Sprite*F5*WMV;
+
+| seeds =
+
+| mounts =
+Ancient Koi;
+Ankylosaurus;
+Auroch*F2;
+Bat Wings;
+Bengal Tiger;
+Black Stallion;
+Chestnut Pony;
+Crokagator;
+Dark Redwing*F2;
+Enchanted Broom;
+Faithful Dragoness;
+Hippogriff;
+Horned Sweeper*F3*WMV;
+Moonlight Pony*F2;
+Nightflame Pegasus;
+Orange Fairy Wings*F2*WMV;
+Panther;
+Renaissance Wings;
+Rugged Seahorse;
+Sea Turtle;
+Seraph Wings*F3*WMV;
+Snappy Lobster;
+Snow Ram;
+Spritely Seahorse;
+Starlight Pony;
+Sunshine Pony;
+Swift Gryphon;
+Swift Shark;
+Swiftshadow Wings;
+White Mare;
+
+| spells =
+
+}}

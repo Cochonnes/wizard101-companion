@@ -1,0 +1,137 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 4,920
+| crecla = Samoorai
+| school = Storm
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+60%;
+
+| incboost =
+40% Myth;
+
+| incresist =
+70% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Bladeless Ronin (Tier 2);
+Bladeless Ronin (Tier 2);
+Bladeless Ronin (Tier 2);
+
+| world = MooShu
+| location = Cave of Solitude
+| subloc1 = Cave of Solitude Gold Key Room
+| badge = Master of the Masterless
+| descrip =
+Takanobu the Masterless (Tier 2) is a unique boss who drops Gear and Spellements from the {{Link|Item|Ninja's Spellemental Pack}}.
+*This Tier is for level 46-50 Wizards.
+
+| speech =
+:''"Wizard! You face none other than Takanobu the Masterless. I will not be bound by any lord or lady. I will not be bound by you. If you do not control the enemy, they will control you. KIAI!"''
+
+| cheatnotes =
+'''Takanobu the Masterless'''
+*{{Icon|Blade}} ''"No! I disarm you."'' - If a Wizard casts a Blade Spell, Takanobu the Masterless will cast Disarm on the Wizard who received the Blade.
+**If a triple Blade is cast (e.g. {{Link|Spell|Elemental Blade}} or {{Link|Spell|Spirit Blade}}), he will only remove the last Blade (Fire or Life).
+**If a multi-target Blade is cast (e.g. {{Link|Spell|Bladestorm}}), he will only remove the Blade from the Wizard that cast the Spell.
+*{{Icon|Shield}} ''"My katana dances around your shield."'' - If a Wizard casts {{Link|Spell|Storm Shield}}, {{Link|Spell|Volcanic Shield}}, or {{Link|Spell|Glacial Shield}}, he will cheat-cast Storm Prism on the Wizard who received the Shield.
+*{{Icon|Pip}} ''"KIAI!"'' - If Takanobu has 5 Pips at the end of a Round, he will cheat-cast Supercharge on himself.
+*{{Icon|Pip}} ''"This wind is an omen!"'' - If Takanobu has 6 or more Pips at the beginning of the Round, he will cheat-cast Darkwind.
+
+{{Icon|Damage}} '''Bladeless Ronin'''
+*''"We must stay centered!"'' - If a Wizard attacks any enemy with a Balance Spell, the Bladeless Ronin in the first position (Dagger) will cheat-cast {{Link|Spell|Unbalance}} on the Wizard.
+**If an All Enemies attack is used, the Bladeless Ronin will cast Unbalance for each enemy that was hit.
+**Attacking with {{Link|Spell|Chimera}} results in the Bladeless Ronin casting three separate {{Link|Spell|Spirit Defuse}}s.
+**Attacking with {{Link|Spell|Hydra}} results in the Bladeless Ronin casting three separate {{Link|Spell|Elemental Defuse}}s.
+**Attacks which deal no direct damage, but apply aura effects, such as {{Link|Spell|Scald}} or {{Link|Spell|Heck Hound}} will not activate any cheats by the Bladeless Ronin.
+*''"Guard against the elements!"'' - If a Wizard attacks any enemy with a Fire, Ice, or Storm Spell, the Bladeless Ronin in the second position (Key) will cheat-cast Elemental Defuse on the Wizard.
+**If an All Enemies attack is used, the Bladeless Ronin will cast Elemental Defuse for each enemy that was hit.
+**Triggering a Prism that converts damage to Life, Death, or Myth, will result in the Bladeless Ronin casting Spirit Defuse instead of Elemental Defuse.
+*''"Spirits, guard us!"'' - If a Wizard attacks any enemy with a Life, Death, or Myth Spell, the Bladeless Ronin in the third position (Gem) will cheat-cast Spirit Defuse on the Wizard.
+**If an All Enemies attack is used, the Bladeless Ronin will cast Spirit Defuse for each enemy that was hit.
+**Attacks that hit multiple times, such as {{Link|Spell|Minotaur}}, will trigger the Bladeless Ronin to cast a separate Spirit Defuse for each hit.
+**Triggering a Prism that converts Damage to Fire, Ice, or Storm, will result in the Bladeless Ronin casting Elemental Defuse instead of Spirit Defuse.
+
+| spellnotes =
+
+| casts =
+Lightning Strike (+10%);
+Stormblade (+30%);
+Supercharge;
+Storm Trap;
+Cleanse Charm;
+Natural Attack (Storm 125-245-365);
+Catch of the Day;
+Kraken (Tier 2a);
+Storm Lord;
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Participation Trophy;
+Sword Oil;
+
+| spellements =
+A-baahh-calypse;
+Catch of the Day;
+Goat Monk;
+Ice Elemental;
+Monk of Mourning;
+Ninja Pigs;
+Samoorai;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

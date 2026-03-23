@@ -1,0 +1,98 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,575
+| crecla = Bear
+| school = Balance
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+25% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Grizzleheim
+| location = Nastrond
+| subloc1 = Rune Chamber
+| descrip =
+Njal Silversong is a Minion to {{Link|Creature|Agnetta Broadblade}}. All drops, cheats, and speech are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Elemental Trap;
+Sandstorm;
+Spectral Blast;
+Hydra;
+Natural Attack (Balance 85x, 85%);
+Judgement;
+
+| quests =
+The Magic Flute;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

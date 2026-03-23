@@ -1,0 +1,126 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 13,260
+| crecla = Colossus
+| school = Balance
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+22%;
+
+| outboost =
+100%;
+
+| incboost =
+2% Myth, Life, Death;
+
+| incresist =
+60% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Housing Instance
+| location = Sinbad & the Iron Sultan Gauntlet
+| subloc1 = Metallos
+| descrip =
+Metallossus is one of two secret bosses that can appear in the Sinbad & the Iron Sultan Gauntlet, the other of which being [[Creature:Leadite (Tier 5)|Leadite]]. Found behind a false wall between the [[Creature:Metaltaur (Tier 5)|Metaltaur]] and [[Creature:Chromeclops (Tier 5)|Chromeclops]] encounters, Metallossus will not appear during every run, and will only be present if the Leadite is not.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+If you want to beat it easily, all you have to do is [redacted].
+
+| extract class =
+Colossus;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| casts =
+Conviction;
+Magnify (6 Rounds);
+Black Mantle (-55%, 0 Pip);
+Weakness (-30%);
+Balanceblade (+30%);
+Cat Thug (160);
+Loremaster;
+Samoorai;
+Hydra;
+Chimera;
+Judgement;
+
+| quests =
+
+| gold =
+100 - 400;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Archer Rack*CR;
+Blue Vase*CR;
+Gilded Sarcophagus*F2*WMV;
+Monkey Tail Goblet;
+Qhat Shield;
+Sinbad Boss Combat Theme;
+Sinbad Combat Theme*F2*WMV;
+Sinbad Metallos Roaming Theme*F2*WMV;
+
+| cards =
+Ice Prism*F2*WMV;
+Tempest;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+Roc*PERM*CR*F3;
+
+| spells =
+
+| altimage = Metallossus
+}}

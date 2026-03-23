@@ -1,0 +1,163 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 12,205
+| crecla = Frog
+| school = Moon
+| school2 = Storm
+| cheats = Yes
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+28%;
+
+| outboost =
+119%;
+
+| incboost =
+30% Myth;
+
+| incresist =
+24% Fire, Ice, Life, Death, Balance, Shadow;
+54% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Air Rider;
+Punk Wallaby (Death);
+
+| world = Wallaru
+| location = Outback
+| subloc1 = Outback Ridge
+| descrip =
+Arcane Toad (Moon-Storm) is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"Late? Sweet dreams, wizard."'' - If a Wizard joins the battle after the first Round, Arcane Toad will cast {{Link|Spell|Choke (Shadow)}}, then cast a 'Nightmare Prone' Stun Shield on a random Wizard.
+*{{Icon|Round}} ''"Sweet dreams, wizard."'' - At the beginning of the first Round, Arcane Toad casts a 'Nightmare Prone' Stun Shield on a random Wizard.
+*{{Icon|Round}} ''"One, two, here's a nightmare for you!"'' - At the end of the first Round, if a Wizard has the 'Nightmare Prone' mark, Arcane Toad casts one of the following Spells on the marked Wizard:
+**{{Link|Spell|From Beyond}}
+**{{Link|Spell|Monster Mash (Tier 5a)}}
+**{{Link|Spell|Winged Sorrow}}
+**{{Link|Spell|Headless Horseman}}
+*{{Icon|Heal}} ''"This better not be love conquering all!"'' - If a Wizard casts a Healing Spell, Arcane Toad will cast a version of Cleanse Ward, removing all negative Wards (including the 'Nightmare Prone' mark) from the caster.
+
+| spellnotes =
+
+| casts =
+Empowerment;
+Balanceblade;
+Disarm;
+Power Current;
+Dark Surge;
+Doom and Gloom (Moon);
+Shift Piscean;
+Shift Krokopatra;
+Orthrus (Moon, 700);
+Shift Bunferatu;
+
+| quests =
+Hero of the Trails;
+Ridgy-Didge;
+
+| gold =
+7 - 52;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Drover's Pack*CR;
+Wallaru Billabong Resort Theme;
+Wallaru Doom Moon Combat Theme;
+Wallaru Doom Moon Theme;
+Wallaru Eucalyptus Forest Theme;
+Wallaru Outback Theme*F2;
+Wallaru The Dreaming Theme;
+Wallaru Wobbegong Theme;
+
+| cards =
+Avenging Fossil;
+Chimera;
+Dr. Von's Monster;
+Elemental Trap;
+Gnomes!;
+Leviathan;
+Life Trap*F2;
+Rebirth;
+Sabertooth;
+Sirens;
+Spinysaur;
+Storm Owl;
+
+| reagents =
+Amber Dust*F2;
+Astral Shard;
+Brass;
+Copper;
+Ectoplasm;
+Mithril;
+Nickel;
+Platinum;
+Spider Silk;
+Tin;
+Toffee Bean;
+Tungsten;
+Turmeric*F2;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Atomic Fireball;
+Baby Carrot;
+Cowboy Chili;
+Deepwater Toffee;
+Fern Jelly;
+Flaming Carrot*F2;
+Flaming Jalapeno;
+Flaming Pineapple;
+Nana's Pumpkin Spice Milkshake;
+PB Cookie;
+Spicy Chips;
+
+| jewels =
+
+| pins =
+
+| pets =
+Mischievous Devil;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Arcane Toad
+}}

@@ -1,0 +1,220 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,440
+| crecla = Pig
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Ronin Blademaster;
+
+| world = MooShu
+| location = Kishibe Village
+| subloc1 = Kyuto's Dojo
+| descrip =
+*Two additional Ronin Blademaster Minions appear if more than two Wizards are present.
+
+| speech =
+:''"The spirits will help me vanquish you from this land..."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+Kyuto has such a strong will to live, he will often forget he has died.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Balance Damage per Pip.
+
+| casts =
+Tower Shield;
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Evil Snowman;
+Snow Shark;
+Blizzard;
+Ice Wyvern;
+Sunbird;
+
+| quests =
+Worthy Acts;
+
+| dropnotes =
+When a Wizard has unlocked the '''Mastermind''' {{Icon|Mastermind}} Badge and has not unlocked the '''Savior of the Spiral''' {{Icon|Savior of the Spiral}} Badge, the following drops will be available: 
+*8 Spellements will drop each time from the '''Elemental''' (Fire, Ice, Storm, Balance) Schools for their respective rank 1-5 Spells.
+
+| gold =
+50 - 108;
+
+| hats =
+Benign Cap*F2;
+Cap of the Lithe;
+Concordant Headwraps*F5;
+Gallant Shroud*F2;
+Hat of Enthusiasm*F3*WMV;
+Hat of the Nimble*F2;
+Hat of the Triad;
+Hood of the Resolute;
+Light-As-Air Hat;
+Painful Cowl;
+Warbled Hat*F3;
+Zippy Shroud*F4;
+
+| robes =
+Blended Wool Tunic;
+Cloak of Humor;
+Concordant Headwraps;
+Euphonic Cloak*F3*WMV;
+Garments of Chants*F2;
+Kyuto's Vestment of Disquiet*F3;
+Kyuto's Vestment of Frailty*F5*WMV;
+Robe of the Chipper;
+
+| boots =
+Blended Wool Footwraps;
+Boots of Cooperation*F3*WMV;
+Boots of Melodies;
+Entranced Slippers*F3;
+Footwraps of Anthems*F5;
+Footwraps of Chants*F4;
+Footwraps of Sandcastles*F3;
+Kyuto's Lively Footwraps*F5;
+Profound Slippers;
+Sandals of Exertion*F4*WMV;
+Sandals of Soul-Searching*F2;
+Sandals of Sympathy;
+Sandals of the Quick-Witted*F3;
+Shoes of the Observant;
+Shoes of Preoccupation;
+Slippers of the Eager;
+Sprightly Slippers;
+
+| athames =
+Athame of Attention*F2;
+Dirk of Sandcastles*F3*WMV;
+Kyuto's Kris of Questions;
+
+| amulets =
+
+| rings =
+Discerning Ring;
+Kyuto's Apprehensive Ring*F8*WMV;
+
+| wands =
+
+| decks =
+Kyuto's Deck of Expectations*F3;
+
+| items =
+Mantis Tablet;
+Rectangular Wooden Table*F2;
+Small Stone Pagoda;
+Vase Case*F2;
+Yellow and Blue Chest;
+
+| cards =
+Black Mantle;
+Dragonflies*F2*WMV;
+Kraken;
+Tough;
+
+| reagents =
+Copper*F2;
+Iron;
+Leather Straps*F11*WMV;
+Nickel*F3;
+
+| spellements =
+Blight Hound*BR*F8;
+Evil Snowman*BR*F15;
+Fire Cat*BR*F12;
+Fire Elf*BR*F18;
+Frost Beetle*BR*F15;
+Gearhead Destroyer*BR*F2;
+Ice Wyvern*BR*F12;
+Immolate*BR*F10;
+Kraken*BR*F10;
+Lightning Bats*BR*F14;
+Locust Swarm*BR*F4;
+Phoenix*BR*F14;
+Scarab*BR*F9;
+Scorpion*BR*F7;
+Snow Serpent*BR*F16;
+Spectral Blast*BR*F4;
+Storm Shark*BR*F20;
+Stormzilla*BR*F12;
+Sunbird*BR*F8;
+Thunder Snake*BR*F11;
+
+| snacks =
+Ape Grapes*F2;
+Crunch Apple;
+Fire Cracker;
+Golden Peanut*F2;
+Golden Squash*F4;
+Large Fish;
+Large Watermelon*F2;
+Square Root;
+
+| jewels =
+Blemished Defense Jade +21*F3*WMV;
+Blemished Defense Peridot +21*F2;
+Blemished Defense Ruby +21;
+Blemished Defense Sapphire +21;
+Blemished Mana Opal +17;
+Flawed Accurate Opal +2%;
+Flawed Accurate Ruby +4%;
+Flawed Damage Opal +5;
+Flawed Defense Peridot +19;
+Flawed Health Opal +34;
+Quick-Witted Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig*F4*WMV;
+Fiery Boom Shroom*F3;
+Maelstrom Snap Dragon*F4*WMV;
+Pink Dandelion*CR*F3*WMV;
+White Laugh-O-Dil*F6;
+
+| mounts =
+
+| spells =
+
+}}

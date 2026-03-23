@@ -1,0 +1,158 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 3,040
+| crecla = Fox
+| school = Life
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+2%;
+
+| outboost =
+10%;
+
+| incboost =
+15% Death;
+
+| incresist =
+40% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Sapoti's Minion;
+
+| world = Krokotopia
+| location = The Oasis
+| subloc1 = Sapoti's Treasure Chamber
+| badge = Sapoti's Savior
+| descrip =
+*Sapoti is a Boss located in  Sapoti's Treasure Chamber, which requires a {{Link|House|Wooden Skeleton Key}} to access.
+
+| speech =
+:''"Aha! My unwitting savior finally makes an appearance. I knew it! Just be patient, I told myself. The opportunity will someday come. See, I snuck into this chamber to claim its treasures, but how was I to know the door automatically locks? It's terrible. No sign or nothing! So I've been stuck in here for... a long time, but today, after I defeat you, I will walk free, and you... hehe... you will take my place!"''
+
+| spellnotes =
+
+| casts =
+Legend Shield;
+Legion Shield;
+Life Trap;
+Imp;
+Leprechaun;
+Nature's Wrath;
+Natural Attack (Life 105-210-315, 85%);
+
+| quests =
+
+| gold =
+51 - 96;
+
+| hats =
+Cowl of Prediction*F2;
+Cowl of the Temple*F6*WMV;
+Headwrap of Originality;
+Hood of the Stronghold*F4*WMV;
+Kebi's Quixotic Hood*F7*WMV;
+
+| robes =
+Garment of Patience*F8*WMV;
+Garments of Repose*F2;
+Kebi's Tunic of Slumber*F8*WMV;
+Pyromancer's Lambent Robe*F2;
+Robe of Ingenuity*F2;
+Robe of Reason*F9*WMV;
+Robes of Dormancy;
+Sorcerer's Maroon Cloak*F2;
+
+| boots =
+Rough-Hewn Boots*F4*WMV;
+Shoes of Figments*F2*WMV;
+Shoes of the Fortress*F4;
+Slippers of Sensibility*F5;
+Threadbare Boots*F5*WMV;
+
+| athames =
+Ancient Kris*F4;
+
+| amulets =
+Sokkwi's Weathered Amulet*F9*WMV;
+
+| rings =
+Kebi's Blustery Seal*F5*WMV;
+Ring of Mortality*F2;
+Victor's Signet*F3;
+
+| wands =
+Fenix Ashen Staff*F2;
+Fenix Bleak Staff*F2;
+Fenix Blight Staff;
+Fenix Dream Staff;
+Fenix Honor Staff*F4*WMV;
+Fenix Sky Staff*F3*WMV;
+Fenix Vitality Staff*F4*WMV;
+
+| decks =
+
+| items =
+A Scroll*F5;
+Adept's Socket Wrench*F6;
+Expert's Socket Wrench*F2;
+Fang Harp*F6*WMV;
+Novice's Socket Wrench*F2;
+Pickaxe*F3;
+Pile of Dirt*F3;
+Pile of Sand*F4;
+Potted Palm*F5*WMV;
+Rope Fence*F7*WMV;
+Scaffolding*F5;
+Sledgehammer (Krokotopia)*F6*WMV;
+Stone Block*F2;
+Stone Skeleton Key*CR;
+Wooden Skeleton Key*CR*F5*WMV;
+Worn Shovel*F5*WMV;
+
+| cards =
+Banshee*F3*WMV;
+Black Cat;
+Dark Tribute*F2;
+Dark Tribute;
+Dragonblade (Balance)*F4*WMV;
+Dryad*F3;
+Elemental Blade*F4*WMV;
+Fortify*F3;
+Imp*F3;
+Minotaur*F11*WMV;
+Sandstorm*F5;
+Snow Serpent*F8*WMV;
+
+| reagents =
+Stone Block*F3*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Foxy Dragon*F12*WMV;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,353 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 8,480
+| crecla = Spider Mage
+| crecla2 = Spider
+| school = Storm
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+27%;
+
+| outboost =
+110%;
+
+| incboost =
+5% Myth;
+
+| incresist =
+70% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Arachna Gladiator;
+
+| world = Empyrea
+| location = Husk
+| subloc1 = Elemental Grove
+| descrip =
+
+| speech =
+:''"At last, the opportunity to sit at Spider's side through the End Times presents itself! For the glory of the Shadow!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Empyrea
+| tome description =
+Chosen to lead Spider's forces in Empyrea. Because he is, by his own estimation, magna-ificent.
+
+| extract class =
+Spider;
+
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| spellnotes =
+*Casts a protected Stormspear and Stormblade (+30%).
+
+| casts =
+Frenzy;
+Quicken;
+Stormspear;
+Healing Current;
+Stormblade (+30%);
+Mass Storm Prism;
+Windstorm;
+Queen Calypso;
+Stormzilla;
+Storm Lord;
+Leviathan;
+Tempest;
+
+| quests =
+Battling the Elementals;
+In the Elemental Groove;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge and has not unlocked the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge, the following drops will be available:
+*9 Spellements will drop each time from '''any''' School for their respective rank 10, 11, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+134 - 162;
+
+| hats =
+
+| robes =
+Hopeful Zanadu Armor;
+
+| boots =
+Kermes Fire Miner's Clogs*F5;
+Mantis Hunter's Footwraps;
+Mouse Knight's Footguards;
+
+| athames =
+Balanced Paradox Dagger*F3;
+Deathly Paradox Dagger*F2*WMV;
+Divine Paradox Dagger*F6;
+Fiery Paradox Dagger*F3;
+Icy Paradox Dagger;
+Lively Paradox Dagger*F3;
+Mythic Paradox Dagger*F4;
+Stormy Paradox Dagger*F7;
+
+| amulets =
+
+| rings =
+Grim Zanadu Band*F3;
+Freezing Zanadu Band;
+Hopeful Zanadu Band;
+Immutable Zanadu Band*F2;
+Mantis Prophet's Ringlet*F6*WMV;
+Seal of the Lost King*F5*WMV;
+Verdant Zanadu Band;
+
+| wands =
+Blazing Zanadu Lance*F3;
+Crackling Zanadu Lance;
+Freezing Zanadu Lance*F3;
+Grim Zanadu Lance*F3;
+Hopeful Zanadu Lance;
+Illuminated Zanadu Lance;
+Immutable Zanadu Lance*F3;
+Verdant Zanadu Lance;
+
+| decks =
+Balanced Paradox Deck*F4;
+Deathly Paradox Deck*F4;
+Divine Paradox Deck*F6;
+Fiery Paradox Deck*F3;
+Icy Paradox Deck*F3;
+Lively Paradox Deck*F3;
+Mythic Paradox Deck*F4;
+Stormy Paradox Deck*F2;
+
+| items =
+Aero Dwarf Chair;
+Aero Dwarf Potted Plant;
+Empyrea Husk Aethyr Combat;
+Empyrea Husk Combat;
+Empyrea Husk Theme*F3;
+Empyrea Mandalla Combat;
+Empyrea Nimbus Combat;
+Empyrea Reverie Dream Shrine Theme*F2;
+Kalamar Chair;
+Kalamar Side Table*F2;
+Nimbari Chair*F4;
+Nimbari Sword Rack*F2;
+Ornate Nimbari Vase;
+Tall Kalamar Vase*F4;
+Wide Kalamar Vase*F2*WMV;
+
+| cards =
+Chastisement;
+Chinook Genie;
+Crystal Spider;
+Cycle of Life*F2*WMV;
+Cyclops;
+Diablo Qarin;
+Fable Lord;
+Forest Lord;
+Frost Beetle;
+Galvanic Field;
+Kraken;
+Lord of Atonement;
+Lord of Blazes;
+Lord of the Squall*F4;
+Mega Soothe;
+Mega Subdue*F2*WMV;
+Mutate Cat (Storm);
+Mutate Colossus (Storm);
+Mutate Phoenix (Ice);
+Mutate Snake (Ice)*F2*WMV;
+Mutate Wyvern (Storm);
+Oni No Jade;
+Oni No Plague*F2;
+Sanctuary;
+Sun Serpent;
+Virulent Plague;
+
+| reagents =
+Aether;
+Agave Leaves;
+Agave Nectar;
+Amber*F4*WMV;
+Aquamarine*F3;
+Astral Shard*F11*WMV;
+Black Lotus*F4;
+Bone*F4;
+Braided Vine;
+Bronze Gear;
+Deep Mushroom*F6*WMV;
+Draconium*F2;
+Fire Blossom*F4;
+Flying Squid Ink*F8*WMV;
+Golden Pearl*F4*WMV;
+Lava Lily*F5*WMV;
+Merle's Whisker*F3*WMV;
+Mist Wood*F3*WMV;
+Mithril*F3*WMV;
+Ore*F3*WMV;
+Orichalcum;
+Pure Aethyr*F19*WMV;
+Red Mandrake*F4*WMV;
+Scales*F2*WMV;
+Silver*F5*WMV;
+Stardust;
+Steel*F2;
+Stone Block*F2*WMV;
+Sunstone*F2;
+Titanium;
+Tungsten*F2;
+Vine*F2;
+
+| spellements =
+Celestial Calendar*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Scion of Death*BR;
+Storm Owl*BR;
+
+| snacks =
+Athame Pop;
+Berry Poundcake*F3*WMV;
+Boiled Spider Legs*F2*WMV;
+Cauliflowers;
+Cow Pie;
+Dastardly Radish*F3;
+Dr. Jalapeno;
+Flaming Soup;
+Gator Tots*F3*WMV;
+Goat Cheese*F2;
+Golden Apple*F2;
+Golden Grapes;
+Golden Squash;
+Gummy Humongofrog*F3;
+Hero Sandwich;
+Hive Rinds;
+Killer Tomato*F3;
+King Banana;
+Lollipop;
+Meat Soup;
+Minotarts*F3*WMV;
+Oyster Shooter;
+Pineapple Spears;
+Pyramints;
+Radioactive Pizza;
+Redskin Peanut;
+Salmon Joy;
+Spicy Drumstick;
+Submarine Sandwich;
+Super Cold Popsicle;
+Taco;
+
+| jewels =
+Intrepid Opal;
+Mega-Leech Opal;
+Myth-Away Peridot;
+Polished Accurate Peridot +10%;
+Polished Accurate Ruby +10%;
+Polished Damage Sapphire +21;
+Polished Defense Hematite +44;
+Sparkling Blocking Amethyst +18;
+Sparkling Blocking Onyx +18;
+Sparkling Blocking Ruby +18;
+Sparkling Critical Amethyst +18;
+Sparkling Critical Citrine +18;
+Sparkling Critical Jade +18;
+Sparkling Critical Onyx +18*F3;
+Sparkling Critical Peridot +18;
+Sparkling Critical Ruby +18;
+Sparkling Damage Hematite +56*F2*WMV;
+Sparkling Defense Amethyst +55*F2;
+Sparkling Defense Citrine +55;
+Sparkling Defense Hematite +56*F2;
+Sparkling Defense Jade +55;
+Sparkling Defense Onyx +55;
+Sparkling Defense Onyx +56;
+Sparkling Defense Opal +28;
+Sparkling Defense Peridot +55;
+Sparkling Defense Peridot +56;
+Sparkling Defense Ruby +55;
+Sparkling Defense Ruby +56;
+Sparkling Defense Sapphire +56*F2;
+Sparkling Health Opal +122;
+Sparkling Health Opal +123*F5;
+Sparkling Health Opal +124*F6*WMV;
+Sparkling Health Opal +125*F3;
+Sparkling Mana Opal +50*F3;
+Sparkling Mana Opal +51*F11*WMV;
+Sparkling Mana Opal +52*F2*WMV;
+Storm-Giver Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears;
+Baby Carrots;
+Bell Pepper*F2;
+Blue Huckleberries;
+Boiled Peanuts;
+Boon Tree*CR;
+Bread Fruit Bush;
+Cornbread Fruit Bush*F2;
+Couch Potatoes*CR*F3*WMV;
+Deadly Fly Trap;
+Evil Magma Peas*CR*F2;
+Face Palm;
+Fickle Pickle;
+Fish on a Vine;
+Goose Tree;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Honey Sickle;
+Ivy League*CR;
+King Parsley*CR;
+Laugh-O-Dil;
+Missile Toe*F2;
+Pink Huckleberries;
+Purple Snow Apples;
+Red Bell Pepper;
+Red Grapes of Wrath;
+Red Huckleberries;
+Queen Crape Myrtle*F2*WMV;
+Saw Palmetto;
+Silver Trumpet Vine*CR;
+Snow Apples;
+Ultra Boom Shroom;
+Ultra Snap Dragon;
+Ultra Snow Apples;
+Ultra Tiger Lily*F2;
+Ultra Trumpet Vine;
+White Laugh-O-Dil;
+White Tiger Lily;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

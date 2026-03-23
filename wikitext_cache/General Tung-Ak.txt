@@ -1,0 +1,290 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 11,145
+| crecla = Golden Horde Soldier
+| crecla2 = Horse
+| crecla3 = Equine 
+| school = Storm
+| school2 = Life
+| cheats = Yes
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Fire;
+Life;
+
+| critical =
+300 Any;
+
+| criticalblock =
+200 Any;
+
+| outpierce =
+21%;
+
+| outboost =
+135%;
+
+| incboost =
+14% Myth;
+
+| incresist =
+36% Fire, Ice, Storm, Life, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+50%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Golden Tung (Balance-Storm);
+
+| world = Novus
+| location = Stone of Heaven
+| subloc1 = Tung-Ak's Stronghold
+| descrip =
+
+| speech =
+
+:'''General Tung-Ak:''' ''"Welcome sacrifices. Gaze upon the resplendence, the effulgence, the glorious shininess of Tung-Ak the Infinite!"''
+:'''Moo Bu:''' ''"We get it. You have an ego."'' 
+
+:'''General Tung-Ak:''' ''"Ego? Ha! I have will! It demanded and the Heavens obeyed. It spoke to the Stone and it heard me, saw me, knew me, changed me. It bent to my will, became my instrument of conquest and turned me into a being that transcends magicks! I am invincible!"''
+
+:'''Moo Bu:''' ''"Then it will just be more impressive when we beat you."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Novus
+| tome description =
+He's not a narcissist. He's just amazing and really thinks everyone should know that.
+
+| extract class =
+Equine;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold =
+}}
+
+| cheatnotes =
+*{{Icon|Protected Absorb}}{{Icon|Protected Blade}} ''"My armory is infinite"'' - At the beginning of every Round, General Tung-Ak casts one of the following Shadow Spells.
+**Protected 1,500 Absorb Damage Ward.
+**Protected +500 Flat Damage Charm.
+*{{Icon|Manipulation}} ''"Even the ancestors are mine to command!"'' - General Tung-Ak casts {{Link|Spell|Guardian Spirit (20%)}} on himself.
+
+| spellnotes =
+
+| casts =
+Empowerment;
+Guiding Light;
+Stormblade (+30%);
+Lifeblade (+40%);
+Balanceblade;
+Storm Shark (Tier 3b);
+Tree of Strife;
+Thunderman (Tier 3);
+Thermic Golem;
+Glowbug Squall;
+Stormzilla (Tier 3b);
+Dismal Seraph;
+Nature's Wrath (Tier 3b);
+Starspawn;
+Wings of Fate;
+King Artorius (Life);
+
+| quests =
+Tung-Lashing;
+
+| gold =
+49 - 51;
+
+| hats =
+Glistening Balance Helmet;
+Glistening Death Helmet;
+Glistening Fire Helmet*F3;
+Glistening Ice Helmet;
+Glistening Life Helmet;
+Glistening Myth Helmet;
+Glistening Storm Helmet;
+Golden Balance Helmet;
+Golden Death Helmet;
+Golden Fire Helmet;
+Golden Ice Helmet;
+Golden Life Helmet;
+Golden Myth Helmet;
+Golden Storm Helmet;
+
+| robes =
+Glistening Balance Lamellar*F2;
+Glistening Death Lamellar;
+Glistening Fire Lamellar*F2;
+Glistening Ice Lamellar*F2;
+Glistening Life Lamellar;
+Glistening Myth Lamellar*F2;
+Glistening Storm Lamellar;
+Golden Balance Lamellar;
+Golden Death Lamellar;
+Golden Fire Lamellar;
+Golden Ice Lamellar;
+Golden Life Lamellar;
+Golden Myth Lamellar;
+Golden Storm Lamellar*F2;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+Banshee (Tier 2b);
+Blood Bat (Tier 2b)*F2;
+Cyclops (Tier 2b)*F2;
+Dark Sprite (Tier 2b);
+Evil Snowman (Tier 2b);
+Fire Cat (Tier 2b)*F2;
+Fire Elf (Tier 2b);
+Fortify;
+Frost Beetle (Tier 2b);
+Ghoul (Tier 2b);
+Imp (Tier 2b);
+Leprechaun (Tier 2b);
+Lightning Bats (Tier 2b);
+Link;
+Locust Swarm (Tier 2b)*F3;
+Mass Triage;
+Nature's Wrath (Tier 2b);
+Raging Bull;
+Scarab (Tier 2b);
+Scorpion (Tier 2b);
+Snow Serpent (Tier 2b)*F2;
+Snowball Barrage;
+Storm Shark (Tier 2b);
+Sunbird (Tier 2b)*F2;
+Thunder Snake (Tier 2b);
+Troll (Tier 2b);
+Wings of Fate;
+Witch's House Call;
+
+| reagents =
+Bone;
+Bronze Gear;
+Pixels*F2;
+Tin;
+
+| spellements =
+Barbarian's Saga;
+Blast Off!*F3*WMV;
+Dark & Stormy;
+Deathly Depths;
+Freeze Ray*F3;
+Glimpse of Infinity*F2;
+Gravestorm*F3;
+Grrnadier;
+Improbable Gaze;
+Lord of the Jungle;
+Mockenspiel;
+Old One's Endgame*F2;
+S'more Machine*F4;
+Scales of Destiny*F6;
+Shatterhorn;
+Snack Attack;
+Sound of Musicology;
+Starspawn*F3;
+Tatzlewurm Terror*F2;
+Tree of Strife;
+
+| snacks =
+
+| jewels =
+Amazing Archmastery Opal +14 (Square)*F2;
+Amazing Blocking Amethyst +21;
+Amazing Blocking Amethyst +22;
+Amazing Blocking Citrine +21;
+Amazing Blocking Citrine +22;
+Amazing Blocking Jade +21;
+Amazing Blocking Jade +22;
+Amazing Blocking Onyx +21;
+Amazing Blocking Onyx +22;
+Amazing Blocking Peridot +21;
+Amazing Blocking Peridot +22;
+Amazing Blocking Ruby +21;
+Amazing Defense Amethyst +63;
+Amazing Defense Amethyst +64;
+Amazing Defense Citrine +63;
+Amazing Defense Citrine +64;
+Amazing Defense Jade +64;
+Amazing Defense Opal +32;
+Amazing Defense Peridot +64;
+Amazing Defense Ruby +63*F2;
+Amazing Defense Ruby +64;
+Amazing Defense Sapphire +64;
+Dazzling Archmastery Opal +13 (Square);
+Dazzling Blocking Citrine +19;
+Dazzling Blocking Citrine +20;
+Dazzling Blocking Jade +19;
+Dazzling Blocking Onyx +20;
+Dazzling Blocking Peridot +19*F2;
+Dazzling Blocking Ruby +19*F2;
+Dazzling Blocking Ruby +20;
+Dazzling Blocking Sapphire +19;
+Dazzling Defense Amethyst +59;
+Dazzling Defense Amethyst +60;
+Dazzling Defense Citrine +59;
+Dazzling Defense Jade +59;
+Dazzling Defense Onyx +59;
+Dazzling Defense Opal +29;
+Dazzling Defense Peridot +59;
+Dazzling Defense Ruby +60;
+Dazzling Defense Sapphire +59;
+Dazzling Defense Sapphire +60;
+
+| pins =
+Balance Accurate Pin (100);
+Balance Conversion Pin (140);
+Balance Conversion Pin (150);
+Death Accurate Pin (100)*F2;
+Death Conversion Pin (140);
+Death Conversion Pin (150);
+Fire Accurate Pin (100)*F2;
+Fire Conversion Pin (140);
+Fire Conversion Pin (150);
+Ice Accurate Pin (110)*F2;
+Ice Conversion Pin (140);
+Ice Conversion Pin (150)*F2;
+Life Accurate Pin (100)*F2;
+Life Conversion Pin (140);
+Life Conversion Pin (150);
+Myth Accurate Pin (100);
+Myth Conversion Pin (140)*F2;
+Myth Conversion Pin (150);
+Storm Accurate Pin (80);
+Storm Conversion Pin (140);
+Storm Conversion Pin (150);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

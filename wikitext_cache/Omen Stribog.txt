@@ -1,0 +1,328 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 32,000
+| crecla = Luphilim
+| school = Shadow
+| cheats = Yes
+| shadowslots = 7
+| startpips = 3
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+20%;
+
+| outboost =
+100%;
+
+| incboost =
+15% Life, Balance;
+
+| incresist =
+30% Fire, Ice, Storm, Myth, Death, Shadow;
+
+| outhealing =
+
+| inchealing =
+50%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Dark Fiend;
+Dark Sentinel;
+Dark Seraph;
+
+| world = Polaris
+| location = River of Frozen Tears
+| subloc1 = Omen's Hideout
+| badge = Omen's Adversary
+| descrip =
+Omen Stribog is a Boss located in Omen's Hideout, which requires a {{Link|House|Stone Skeleton Key}} to access.
+*Omen Stribog has no Power Pip chance, but starts combat with a Power Pip.
+
+| speech =
+:''"So it seems this cave is not quite as obscure as I hoped. Who are you? Some prodding young ally of the Vigilants? They have eluded us for all these centuries, but now we know where they are, and we know what they're doing. Whether you are allied with the Vigilants or not, your demise has already been etched into the pillars of fate. I shall merely hasten it."''
+
+| cheatnotes =
+'''Omen Stribog'''
+*{{Icon|Late}} ''"Tardiness will not be tolerated!"'' - If a Wizard joins after the duel has already started, then Omen will cast an enchanted version of {{Link|Spell|Mana Burn}} dealing 1,500 base Damage.
+**{{Link|Spell|Unbalance}} can be used to bypass this cheat.
+*{{Icon|Feint}} ''"We are not so easily fooled!"'' - If a Wizard casts {{Link|Spell|Feint}} on any enemy, then Omen will then remove the Feint from himself or his allies, unless it's protected.
+**{{Link|ItemCard|Mass Feint}} will remove the trap placed on the user of the spell.
+** The Balance version of {{Link|ItemCard|Feint}} does not trigger this.
+*{{Icon|Polymorph}} ''"You are darkened by Shadow as well?"'' - If a Wizard casts a Shadow Creature Spell, then Omen will cast a Moon Spell that adds '''+40''' Backlash to the Wizard.
+**Because of updates to Shadow mechanisms, this cheat no longer uses Backlash system.
+*{{Icon|Aura}} If Omen is the last Boss remaining, he will cast these variations of {{Link|Spell|Amplify}}. (Needs clarification on how often Aura changes)
+**+10% outgoing Damage for 99 Rounds.
+**+20% outgoing Damage for 99 Rounds.
+**+30% outgoing Damage for 99 Rounds.
+**+40% outgoing Damage for 99 Rounds.
+**+50% outgoing Damage for 99 Rounds.
+***This Aura has the appearance of {{Link|Spell|Berserk}}.
+***If a Wizard removes the Aura, he will recast it.
+
+'''Dark Sentinel'''
+*{{Icon|Round}} At the beginning of the first Round, Dark Sentinel will cheat-cast an enhanced version of {{Link|Spell|Shadow Sentinel}}, which intercepts '''75%''' Damage, lasts '''99''' Rounds, and has no contract.
+**If Dark Sentinel is revived from a Heal All Spell, then it will not cheat-cast {{Link|Spell|Shadow Sentinel}}.
+*{{Icon|Charm}} ''"Your parlor tricks are to no avail"'' - If a Wizard casts any type of Charm, Dark Sentinel will cheat-cast {{Link|Spell|Enfeeble (Shadow)}} on both the caster and receiver.
+**If a Wizard casts a Blade on themself, then the Dark Sentinel will cast Enfeeble on them twice.
+**Negative charms such as {{Link|Spell|Entangle}} will result in all blades being removed from the targeted opponent as well as the caster.
+**If a multi-target Spell is cast (e.g. {{Link|Spell|Bladestorm}}), then the Dark Sentinel will only remove the Blade from the Wizard who cast the Spell.
+*{{Icon|Ward}} If a Wizard casts any type of Ward Spell, there is a chance that Dark Sentinel will cheat-cast {{Link|Spell|Steal Ward}} on the Wizard who cast the Spell.
+
+'''Dark Seraph'''
+*{{Icon|Ward}} Whenever the Dark Seraph uses a Healing Spell, an [[Spell:Spirit Armor|Absorb]] will be placed on all enemies, similar to the legacy {{Link|Spell|Shadow Seraph}} effect.
+
+| spellnotes =
+*{{Link|Spell|Shadow Decrease Backlash}} gives '''-10''' Backlash to any Shadow Spells on himself.
+**Because of new Shadow mechanisms, the Bashlash system has been retired.
+'''Natural Attack:'''
+*Deals 100 Shadow Damage per Pip despite the Spell's 3-Pip maximum description.
+**The Natural Attack is a Steal that heals '''100%''' of the Damage dealt.
+
+| casts =
+Dark Fiend;
+Dark Nova;
+Dark Shepherd;
+Mend;
+Shadowblade;
+Shadow Decrease Backlash;
+Shadow Trap;
+Cleanse Ward (Shadow, -1);
+Dark Empower;
+Natural Attack (Shadow 100-200-300);
+
+| quests =
+
+| gold =
+5,602 - 10,704;
+
+| hats =
+Luphilim's Blazing Helm;
+Luphilim's Eternal Helm*F3*WMV;
+Luphilim's Grim Visage;
+Luphilim's Howling Great Helm;
+Luphilim's Legend Visor;
+Luphilim's Piercing Visage;
+Luphilim's Rapture Helmet;
+Luphilim's Valiant Greathelm;
+Seal Team Assault Helmet (Level 110+)*CR;
+Seal Team Demolitions Helmet (Level 110+)*CR;
+Seal Team Recon Helmet (Level 110+)*CR;
+
+| robes =
+Luphilim's Blazing Plate*F2*WMV;
+Luphilim's Eternal Platemail;
+Luphilim's Grim Raiment;
+Luphilim's Howling Hauberk;
+Luphilim's Legend Armor;
+Luphilim's Rapture Suit*F2;
+Luphilim's Valiant Armor;
+Seal Team Assault Suit (Level 110+)*CR*F2;
+Seal Team Demolitions Suit (Level 110+)*CR;
+Seal Team Recon Suit (Level 110+)*CR*F2*WMV;
+
+| boots =
+Luphilim's Blazing Boots*F2;
+Luphilim's Eternal Sabatons*F2;
+Luphilim's Grim Footguards;
+Luphilim's Howling Stompers;
+Luphilim's Legend Boots;
+Luphilim's Piercing Sabatons;
+Luphilim's Rapture Soilerets*F3*WMV;
+Luphilim's Valiant Footgear;
+Seal Team Assault Fins (Level 110+)*CR;
+Seal Team Demolitions Fins (Level 110+)*CR;
+Seal Team Recon Fins (Level 110+)*CR;
+
+| athames =
+Luphilim's Blazing Pick;
+Luphilim's Eternal Spike*F2;
+Luphilim's Grim Spike;
+Luphilim's Howling Pick;
+Luphilim's Legend Spike;
+Luphilim's Piercing Spike;
+Luphilim's Rapture Pick;
+Luphilim's Valiant Spike;
+
+| amulets =
+Luphilim's Blazing Bauble*F2;
+Luphilim's Eternal Chain*F3;
+Luphilim's Grim Chain*F3*WMV;
+Luphilim's Howling Chain;
+Luphilim's Legend Necklace*F2;
+Luphilim's Piercing Choker*F7*WMV;
+Luphilim's Rapture Pendant*F2;
+Luphilim's Valiant Pendant*F3*WMV;
+
+| rings =
+Luphilim's Blazing Band;
+Luphilim's Eternal Ring*F2*WMV;
+Luphilim's Grim Hoop;
+Luphilim's Howling Hoop*F2;
+Luphilim's Legend Ring;
+Luphilim's Piercing Ring*F2;
+Luphilim's Rapture Band;
+Luphilim's Valiant Band;
+
+| wands =
+Luphilim's Blazing Saber;
+Luphilim's Eternal Blade*F2*WMV;
+Luphilim's Grim Longsword;
+Luphilim's Howling Razor;
+Luphilim's Legend Sword;
+Luphilim's Piercing Blade*F2;
+Luphilim's Rapture Blade*F3;
+Luphilim's Valiant Saber;
+Seal Team Assault Hammer (Level 110+)*CR;
+Seal Team Demolitions Hammer (Level 110+)*CR;
+Seal Team Recon Hammer (Level 110+)*CR;
+
+| decks =
+Luphilim's Blazing Array;
+Luphilim's Eternal Deck*F3*WMV;
+Luphilim's Grim Gallery;
+Luphilim's Howling Case*F2;
+Luphilim's Legend Cards;
+Luphilim's Piercing Pack;
+Luphilim's Rapture Deck*F3*WMV;
+Luphilim's Valiant Set;
+
+| items =
+Artisan's Socket Wrench;
+Bromeliad Vase;
+Extra Large Fish Cart;
+Frozen Fish Block;
+Grand Walruskberg Lamp Post;
+Lydia's Chesterfield*F2*WMV;
+Lydia's Chill Dining Chair*F3*WMV;
+Lydia's Chilly Larder*F4*WMV;
+Lydia's Cold Table;
+Lydia's Frosty Night Table;
+Lydia's Frozen Cathedra*F2;
+Lydia's Frozen Pantry;
+Lydia's Frozen Shelf*F2*WMV;
+Lydia's Frozen Waterbed;
+Lydia's Ice Bath;
+Lydia's Iced Coffee Table;
+Lydia's Icicle Towel Rod*F2;
+Lydia's Icy Floor*F3*WMV;
+Lydia's Icy Hearth*F2*WMV;
+Lydia's Icy Kitchen Counter;
+Lydia's Wintry Wallcovering*F2*WMV;
+Lydia's Wintry Wash Basin*F2*WMV;
+Master's Socket Wrench*F5*WMV;
+Pingouin Breakfast Table;
+Pingouin Butler's Pantry;
+Pingouin Potted Plant;
+Pingouin Round Table;
+Pingouin Side Chair;
+Pingouin Teapot;
+Polarian Cathedral Window;
+Polarian Well;
+Simple Walruskberg Lamp Post;
+Snowy Walruskberg Guard Booth;
+Stacked Ice Blocks;
+Unlocked Pingouin Trunk;
+Walruskberg Guard Booth;
+Walrusk Empress Caricature;
+Walrusk End Table;
+Walrusk Feasting Table;
+Walrusk Officer's Desk;
+Walrusk Potted Plant;
+Walrusk Round Table;
+Walrusk Vanity;
+Walrusk Wooden Settee;
+Walruskberg Palace Painting;
+
+| cards =
+Coldiron;
+Deathspear;
+Dragonblade (Balance)*F2*WMV;
+Dryad;
+Elemental Spear;
+Firespear;
+Frozen Armor;
+Ice Armor;
+Ice Guardian*F2;
+Mutate Bird (Ice);
+Mutate Helephant (Ice);
+Mutate Hound (Ice);
+Mutate Phoenix (Storm);
+Mutate Wyvern (Fire);
+Polar Swarm;
+Snow Angel;
+Wild Bolt*F2*WMV;
+Woolly Mammoth;
+
+| reagents =
+Agave Nectar;
+Amber;
+Draconium;
+Mote of Beauty;
+Mote of Eternity;
+Mote of Severity;
+Mote of Transport;
+Mote of Wisdom;
+Orichalcum*F2;
+
+| spellements =
+
+| snacks =
+Crystal Bites;
+Frosty Sugar Cubes;
+Rhubarbed Wire;
+Skeletal Treebark;
+Snow Apple Cider;
+Snow Apple Pie*F2*WMV;
+
+| jewels =
+Ice-Shot Sapphire;
+Ice-Ward Sapphire;
+Lustrous Accurate Onyx +11%;
+Lustrous Blocking Peridot +13;
+Lustrous Damage Amethyst +23;
+Lustrous Defense Jade +48;
+Lustrous PIP Opal +10%;
+Myth-Sniper Peridot;
+
+| pins =
+
+| pets =
+Arctic Ninja Pig*CR*F3;
+Frosty Fish*F3*WMV;
+Glacier Dragon;
+Ice Bird*F6*WMV;
+Ice Floe Siren*CR*HOL*F2*WMV;
+Icebat*F2;
+Intrepid Seal Pup*F3;
+Polar Fox*CR*F2*WMV;
+Proper Penguin*CR*F3*WMV;
+Snow Beast*F3*WMV;
+Snowball*CR*F2;
+White Winter Owl*CR*F4*WMV;
+
+| seeds =
+Evil Snow Peas;
+Purple Snow Apples*F2*WMV;
+White Tiger Lily;
+
+| mounts =
+Frostfang Tiger*PERM*CR*F4*WMV;
+Himoolayan Yak*PERM*CR*F2;
+Luphilim Wings*PERM*F4*WMV;
+Owl*PERM*CR*F3;
+Snow Ram*PERM*CR*F2*WMV;
+White Stag*PERM*CR;
+Winter Treant*PERM*CR;
+WinterGlide Skates*PERM*CR*F3*WMV;
+
+| spells =
+
+}}

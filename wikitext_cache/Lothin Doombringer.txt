@@ -1,0 +1,175 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,000
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical = 
+
+| criticalblock = 
+
+| outpierce = 
+
+| outboost = 
+
+| incboost =
+
+| incresist =
+
+| outhealing = 
+
+| inchealing = 
+
+| stunable = Yes
+| beguilable = Yes
+| minions = Forgotten Clansman;
+
+| world = Grizzleheim
+| location = Vigrid Roughland
+| subloc1 = Vigrid Roughland Crypt
+| descrip =
+This specter is found deep within Vigrid Roughland's Crypt.  Wizards encounter him while venturing inside to try and locate the Eye of Truth.
+
+*Two additional Forgotten Clansmen will appear if more than two Wizards are present.
+
+| speech =
+:''"This is no place for the living... you will join me in the darkness of the afterlife!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+Brings doom to every party. Just once, it'd be nice if he brought chips.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Weakness;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Vampire;
+Skeletal Pirate;
+Natural Attack (Death 85x);
+Fire Elf (50+210);
+Storm Shark;
+
+| quests =
+The Eye of Truth;
+
+| gold =
+45 - 93;
+
+| hats =
+Circlet of Fortune*F3*WMV;
+Circlet of the Nemesis*F6*WMV;
+Crown of Achievement;
+Firekeeper's Mantle;
+Hat of Consequence*F2;
+Headgear of the Haze*F2;
+Helm of Determination*F2*WMV;
+Snowy Veil*F10*WMV;
+Umbral Headgear*F4*WMV;
+
+| robes =
+Coat of Forethought;
+Drape of the White Squall;
+Flarestarter's Garments*F3*WMV;
+Glacial Longcoat*F3;
+Igneous Robe;
+Lifewarden's Raiment*F3*WMV;
+Raiment of the Lifespring;
+Robe of Elegies*F2*WMV;
+Vestment of Yesteryear;
+Winterwear Wrap;
+
+| boots =
+Footguards of Consideration;
+Frostsoled Boots*F5*WMV;
+Indefatigable Striders;
+Sandals of Expiry*F4*WMV;
+
+| athames =
+
+| amulets =
+Bodkin of Fury;
+
+| rings =
+Icebound Sigil*F4*WMV;
+Loop of Retribution;
+Rejuvenating Circlet*F2*WMV;
+Signet of the North Wind;
+Stone of Confidence*F2*WMV;
+Thane's Circlet;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Giant;
+Pacify*F2*WMV;
+Satyr*F2*WMV;
+Spirit Armor;
+
+| reagents =
+Brass;
+Copper*F5*WMV;
+Ectoplasm*F2*WMV;
+Iron*F2;
+Lead;
+Nickel;
+Pyrite*F2*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Diamond Carrot*F3*WMV;
+Flaming Jalapeno;
+Fries*F2*WMV;
+Glowing Rock Candy*F5*WMV;
+Green Banana*F3*WMV;
+Heavenly Bubblegum;
+Tasty Biscuit*F3*WMV;
+
+| jewels =
+Chipped Health Opal +16;
+Cracked Damage Ruby +4;
+Cracked Defense Jade +10;
+Legend Shield Jade;
+Slow Leader Opal;
+Weakness Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Couch Potatoes*CR*F3;
+Dandelion;
+Laugh-O-Dil*F2*WMV;
+Stinkweed*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

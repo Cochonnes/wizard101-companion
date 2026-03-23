@@ -1,0 +1,169 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 5,120
+| crecla = Dog
+| school = Balance
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Conscripted Mander (Tier 4);
+Conscripted Mander (Tier 4);
+Conscripted Mander (Tier 4);
+
+| world = Housing Instance
+| location = Grand Tourney Arena
+| subloc1 = Grand Tourney Arena (Tier 4)
+| descrip =
+
+| speech =
+:''"Ah, the Stranger! I knew you would prove tougher than you looked, so I ensured you would fight Sir Dunc first. No matter who won, the winner would be worn down. Either way, I am fresh and eager to battle! I'll win praise from my master today!"''
+
+| cheatnotes =
+*{{Icon|Minion}} ''"I'm outnumbered! Mander, join your master!"'' - At the end of Round 1 (and after a Minion is defeated), Sir Steffan BadApple will summon a Conscripted Mander (Tier 4).
+:*At the end of Round 2, he will summon another Conscripted Mander (Tier 4).
+:*At the end of Round 3, he will summon another Conscripted Mander (Tier 4).
+*{{Icon|Damage}} ''"Mander, give me all your strength!"'' - When he is attacked, Sir Steffan BadApple may sacrifice his Minions for 500 health each.
+*{{Icon|Trap}} ''"Not fair! You should be hamstrung!''" - If a Wizard places a Trap on Steffan, he will cast Weakness at the Wizard.
+*{{Icon|Damage}}{{Icon|Curse}}''"Here's sand in your eye!"'' - He will cast {{Link|Spell|Sandstorm}} and place a Black Mantle on the first Wizard
+*{{Icon|Pip}} ''"You are too strong! Let's cut you down to size!"'' - If a Wizard gains 5 or more Pip slots, he may cast Mana Burn at the Wizard.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Balance Damage
+
+| casts =
+Amplify;
+Spirit Shield;
+Black Mantle;
+Weakness;
+Spirit Defuse;
+Balanceblade;
+Spirit Blade;
+Hex;
+Spirit Trap;
+Mana Burn;
+Sandstorm;
+Spirit Blast;
+Power Nova;
+Chimera;
+
+| quests =
+Hedging Bets;
+
+| gold =
+100 – 298;
+
+| hats =
+Mask of the Faerie Court (Level 70+)*CR;
+
+| robes =
+
+| boots =
+Faerie Court Boots (Level 70+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Avalon Glorious Theme;
+Floor Brazier;
+Grandfather Clock;
+
+| cards =
+Chimera;
+Dryad;
+
+| reagents =
+Acorn*F2;
+Aether;
+Aquamarine*F3;
+Brass;
+Cobalt;
+Fire Blossom;
+Frost Flower*F3;
+Grendelweed*F2;
+Kelp*F2;
+Lava Lily*F4;
+Mist Wood*F5;
+Scrap Iron*F4;
+Shell;
+Spring*F2;
+Steel;
+Tin;
+
+| spellements =
+
+| snacks =
+Arrow Root*F2;
+Bearberry;
+Big Squash*F3;
+Black Cap Crisps;
+Bog Witch Beetroot;
+Caliburnt Toast*F2;
+Chocolate Comet*F4;
+Cow Pie;
+Crunch Apple*F2;
+Crystal Custard*F3;
+Glowing Rock Candy*F3;
+Grilled Cheese;
+Large Fish*F2;
+Large Watermelon*F2;
+Lemon Harts;
+Moon Pie*F2;
+Ogre Meanies;
+Pixie Parsnips*F2;
+Seraph Food Cake*F2;
+Weirwood Cake*F3;
+Wormy Apple*F2;
+Wyrmy Apple;
+
+| jewels =
+Colossus Opal;
+Determined Opal;
+Dull Defense Amethyst +28;
+Plain Blocking Citrine +6;
+Plain Blocking Sapphire +6;
+
+| pins =
+
+| pets =
+Black Spider;
+
+| seeds =
+Cornbread Fruit Bush;
+Helephant Ears;
+
+| mounts =
+
+| spells =
+
+}}

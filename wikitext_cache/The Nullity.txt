@@ -1,0 +1,296 @@
+{{Stub|more information on Cheats|providing Spellement versions of Spells that are used}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 40,000
+| crecla = Elemental
+| school = Shadow
+| masteries =
+Fire;
+Ice;
+Storm;
+Myth;
+Life;
+Death;
+Balance;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical = 500
+| criticalblock = 375
+
+| outpierce =
+70%;
+
+| outboost =
+200%;
+
+| incboost =
+None;
+
+| incresist =
+100% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| randomminions =
+Djinn Bandit;
+Grimtusk Bandit;
+Forest Demon;
+Moosetaur Bandit;
+Stingtail Bandit;
+Stormasaur Bandit;
+Yeti Bandit;
+
+| totalminions = 1
+| world = Raid
+| location = Voracious Void
+| descrip =
+For this Boss, the Minions are Rank 21 instead of the normal Rank 20.
+
+| speech =
+
+| cheatnotes =
+'''Buffs:'''
+*During this fight a Wizard can cast {{Link|Spell|Shadow Surge}} and {{Link|Spell|Retribution}} during this battle.
+*Additionally, Wizards can use all previously available inspired casts spells including: {{Link|Spell|Brush Fire}}, {{Link|Spell|Dismal Seraph}}, {{Link|Spell|Fabled Revenant}}, {{Link|Spell|Levin Bruin}}, {{Link|Spell|Rotting Fomori}}, {{Link|Spell|War Oracle}}, and {{Link|Spell|Monumental (All Allies)}} which gives all Wizards one {{Link|Spell|Monumental}} card.
+*Inspire Cantrips may also be cast into this fight by anyone who hasn't joined after a player initiates the fight.
+
+'''The Nullity:'''
+*At the beginning of the first Round, The Nullity will cast a Shadow Spell that forces all Wizards to pass.
+*At the end of every Round, The Nullity will cast {{Link|Spell|Power Current}} on itself.
+
+The Nullity will announce a School at the beginning of the battle and will choose another School every three Rounds. The new School will be announced after the fourth turn begins. These Schools conform to Roshambo rules and govern what Charms, Wards, Heal- or Damage over Time Spells may be used. At the end of the third Round, The Nullity will cast an all enemies Power Nova version of the Scion Spells that benefits based on the chosen School.
+
+Schools are announced in text as follows:
+*''"The Nullity is Fired Up"'' - Fire Phase: {{Icon|Fire}}
+**At the end of the first turn of this cycle, The Nullity will cast {{Link|Spell|Fire Elf}} on a wizard.
+**At the end of the second turn of this cycle, The Nullity will cast {{Link|Spell|Scald}} on all wizards.
+***The Scion is powered up if two or more Damage over Time effects are on a Wizard.
+
+*''"The Nullity Keeps Its Cool"'' - Ice Phase: {{Icon|Ice}}
+**At the end of the first turn of this cycle, The Nullity will cast {{Link|Spell|Tower Shield}} on itself.
+**At the end of the second turn of this cycle, The Nullity will cast {{Link|Spell|Shield Wall}} on itself.
+***The Scion is powered up if four or more positive Wards are on the Nullity.
+
+*''"The Nullity is Electrifying"'' - Storm Phase: {{Icon|Storm}}
+**At the end of the first turn of this cycle, The Nullity will cast {{Link|Spell|Star Blade}} on itself.
+**At the end of the second turn of this cycle, The Nullity will cast {{Link|Spell|Guiding Light}} (x3) on itself.
+***The Scion is powered up if four or more positive Charms are on the Nullity.
+
+*''"The Nullity Ascends to Legend"'' - Myth Phase: {{Icon|Myth}}
+**At the end of the first turn of this cycle, The Nullity will cast {{Link|Spell|Mythic Fuel}} on a wizard.
+**At the end of the second turn of this cycle, The Nullity will cast {{Link|Spell|Mass Myth Trap}} on all wizards.
+***The Scion is powered up if four or more negative Wards are on a Wizard.
+
+*''"The Nullity Feels Alive"'' - Life Phase: {{Icon|Life}}
+**At the end of the first turn of this cycle, The Nullity will cast {{Link|Spell|Sprite}} on itself.
+**At the end of the second turn of this cycle, The Nullity will cast {{Link|Spell|Sprite Swarm}} on all allies.
+***The Scion is powered up if two or more Heal over Time effects are on the Nullity.
+
+*''"The Nullity Foresees your Doom"'' - Death Phase: {{Icon|Death}}
+**At the end of the first turn of this cycle, The Nullity will cast {{Link|Spell|Threefold Fever}} on a wizard.
+**At the end of the second turn of this cycle, The Nullity will cast {{Link|Spell|Mass Infection}} on all wizards.
+***The Scion is powered up if four or more negative Charms are on a Wizard.
+
+The Nullity is joined in battle by an elite Minion from a random School, both of which also follow Roshambo rules to counter Wizard Spells.  Fire counters positive and negative wards.  Ice counters positive and negative Charms.  Storm counters Damage over Time and Heal over Time effects.  Myth counters negative Charms and positive Wards.  Death counters positive Charms and Heal over Time effects.  Life counters negative Wards and Damage over Time effects.  Balance counters when over nine Pips.
+
+This battle uses snake turn order (Beastmoon).
+
+| spellnotes =
+*Casts a 6 Pip version of Blizzard that deals 555 Ice Damage and removes 3 positive Charms from all enemies.
+*Casts a 6 Pip version of Ratatoskr's Spin that deals 555 Life Damage, and removes 3 negative Wards from all allies.
+
+| casts =
+Frenzy;
+Shield Wall;
+Weakening Mantle;
+Dark Tribute;
+Cyclops;
+Minotaur;
+Fire Elf (Tier 5b);
+Scald;
+Phoenix;
+Storm Shark;
+Stormzilla (Tier 5b);
+Colossus;
+Earth Walker;
+Brulee Sucre;
+Centaur (Tier 5b);
+Banshee;
+Monster Mash;
+Spectral Blast;
+Hydra (Tier 5a);
+Hydra (Tier 5b);
+
+| quests =
+
+| dropnotes =
+All 12 Wizards in the Raid receive the drops, not just the ones within the battle.
+
+| gold =
+
+| hats = 
+Balanced Conical of The Nullity (Level 150+);
+Balanced Conical of The Void (Level 150+);
+Deadly Conical of The Nullity (Level 150+);
+Deadly Conical of The Void (Level 150+);
+Fiery Conical of The Nullity (Level 150+);
+Fiery Conical of The Void (Level 150+);
+Frigid Conical of The Nullity (Level 150+);
+Frigid Conical of The Void (Level 150+);
+Lively Conical of The Nullity (Level 150+);
+Lively Conical of The Void (Level 150+);
+Mythic Conical of The Nullity (Level 150+);
+Mythic Conical of The Void (Level 150+);
+Stormy Conical of The Nullity (Level 150+);
+Stormy Conical of The Void (Level 150+);
+
+| robes =
+Balanced Robe of The Nullity (Level 150+);
+Balanced Robe of The Void (Level 150+);
+Deadly Robe of The Nullity (Level 150+);
+Deadly Robe of The Void (Level 150+);
+Fiery Robe of The Nullity (Level 150+);
+Fiery Robe of The Void (Level 150+);
+Frigid Robe of The Nullity (Level 150+);
+Frigid Robe of The Void (Level 150+);
+Lively Robe of The Nullity (Level 150+);
+Lively Robe of The Void (Level 150+);
+Mythic Robe of The Nullity (Level 150+);
+Mythic Robe of The Void (Level 150+);
+Stormy Robe of The Nullity (Level 150+);
+Stormy Robe of The Void (Level 150+);
+
+| boots =
+Balanced Boots of The Nullity (Level 150+);
+Balanced Boots of The Void (Level 150+);
+Deadly Boots of The Nullity (Level 150+);
+Deadly Boots of The Void (Level 150+);
+Fiery Boots of The Nullity (Level 150+);
+Fiery Boots of The Void (Level 150+);
+Frigid Boots of The Nullity (Level 150+);
+Frigid Boots of The Void (Level 150+);
+Lively Boots of The Nullity (Level 150+);
+Lively Boots of The Void (Level 150+);
+Mythic Boots of The Nullity (Level 150+);
+Mythic Boots of The Void (Level 150+);
+Stormy Boots of The Nullity (Level 150+);
+Stormy Boots of The Void (Level 150+);
+
+| athames = 
+
+| amulets =
+
+| rings =
+
+| wands =
+Nullity's Balanced Blade (Level 150+);
+Nullity's Deadly Blade (Level 150+);
+Nullity's Fiery Blade (Level 150+);
+Nullity's Frigid Blade (Level 150+);
+Nullity's Lively Blade (Level 150+);
+Nullity's Mythic Blade (Level 150+);
+Nullity's Stormy Blade (Level 150+);
+The Void's Balanced Blade (Level 150+);
+The Void's Deadly Blade (Level 150+);
+The Void's Fiery Blade (Level 150+);
+The Void's Frigid Blade (Level 150+);
+The Void's Lively Blade (Level 150+);
+The Void's Mythic Blade (Level 150+);
+The Void's Stormy Blade (Level 150+);
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+Dark Sprite;
+Sprite Swarm 2;
+
+| reagents =
+Fire Blossom;
+
+| spellements =
+Angry Snowpig;
+Banshee;
+Beary Surprise;
+Blight Hound;
+Blood Bat;
+Brimstone Revenant;
+Camp Bandit;
+Centaur;
+Cyclops Minion;
+Dark Sprite;
+Earth Walker;
+Evil Snowman;
+Ghoul;
+Goat Monk;
+Grendels Amends;
+Hammer of Thor;
+Hydra;
+Ice Wyvern;
+Imp;
+Keeper of the Flame;
+Kraken;
+Leprechaun;
+Lightning Bats;
+Luminous Weaver;
+Minotaur;
+Nature's Wrath;
+Ninja Piglets;
+Ninja Pigs;
+Phoenix;
+Pigsie;
+Ratatoskr's Spin;
+Samoorai;
+Scorpion;
+Seraph;
+Skeletal Pirate;
+Spectral Blast;
+Splashsquatch;
+Stone Colossus;
+Storm Shark;
+Stormzilla;
+Troll;
+Vampire;
+Wraith;
+
+| snacks =
+
+| jewels =
+Amazing Accurate Jade +15%;
+Amazing Damage Jade +32;
+Amazing Damage Onyx +32;
+Amazing Damage Peridot +32;
+Amazing Mana Opal +58;
+Buck Gordon Ruby;
+Dog Tracy Amethyst;
+
+| pins =
+
+| pets =
+Deadly Null Dragon;
+Fiery Null Dragon;
+Frigid Null Dragon;
+Lively Null Dragon;
+Mythic Null Dragon;
+Steady Null Dragon;
+Stormy Null Dragon;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

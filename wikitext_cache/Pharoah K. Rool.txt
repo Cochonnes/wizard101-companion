@@ -1,0 +1,344 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 13,200
+| crecla = Krokotopian
+| school = Star
+| masteries =
+Myth;
+Balance;
+
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+224 Any;
+
+| criticalblock =
+232 Any;
+
+| outpierce =
+28%;
+
+| outboost =
+135%;
+
+| incboost =
+2% Life, Death;
+5% Storm;
+
+| incresist =
+71% Myth;
+
+| outhealing =
+
+| inchealing =
+50%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Banana Horde;
+
+| world = Lemuria
+| location = Night Forest
+| subloc1 = Horde Thief's House
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"How dare you enter the abode of Pharoah K. Rool! But at least you did so in time for lunch."''
+
+| spellnotes =
+*Casts a protected Bladestorm.
+
+| casts =
+Brace (6 Rounds);
+Flawless (6 Rounds);
+Balanceblade;
+Bladestorm;
+Cleanse Ward (Star, All Allies);
+Pierce (Star, All Enemies);
+Blizzard (Star);
+Power Nova (Star);
+Dr. Von's Monster (Star);
+Wrath of Zeus (Star);
+Mystic Colossus;
+Tatzlewurm Terror (Tier 2a);
+Sand Wurm;
+Old One's Endgame (Tier 2a);
+
+| quests =
+Barrel of Monkeys;
+
+| gold =
+120 - 239;
+
+| hats =
+Supreme Deadly Hat;
+Supreme Electric Hat;
+Supreme Ferocious Hat;
+Supreme Founder's Hat;
+Supreme Preservation Hat;
+Supreme Stability Hat;
+Supreme Teleological Hat;
+
+| robes =
+Supreme Freezer Robe;
+Supreme Stability Robe;
+
+| boots =
+Supreme Detective Shoes;
+Supreme Hex Shoes;
+Supreme Old Judge Shoes;
+Supreme Undead Shoes;
+
+| athames =
+Supreme Cold Steel Athame;
+Supreme Firewall Athame;
+Supreme Founder's Athame;
+Supreme Jungle Athame;
+
+| amulets =
+Supreme Ferocious Talisman;
+Supreme Firewall Talisman;
+Supreme Founder's Talisman;
+Supreme Preservation Talisman;
+Supreme Undead Talisman;
+
+| rings =
+Supreme Electric Ring;
+Supreme Jungle Ring;
+Supreme Old Judge Ring;
+
+| wands =
+Supreme Detective Staff;
+Supreme Electric Staff;
+Supreme Eruption Staff;
+Supreme Ferocious Staff;
+Supreme Freezer Staff;
+Supreme Hex Staff;
+Supreme Horror Staff;
+Supreme Jungle Staff;
+Supreme Old Judge Staff;
+Supreme Preservation Staff;
+
+| decks =
+Supreme Deadly Deck;
+Supreme Electric Deck;
+Supreme Freezer Deck;
+Supreme Stability Deck;
+Supreme Volcanic Deck;
+
+| items =
+Cargo;
+Lemuria Action Theme;
+Lemuria Boss Combat Theme;
+Lemuria Heroic Theme;
+Lemuria Minds Theme;
+Lemuria Noir Combat Theme;
+Lemuria Telos Theme 1;
+Lemuria Telos Theme 3;
+Lemuria Telos Theme 4;
+Lemuria Telos Theme 5;
+Periodic Table Poster;
+
+| cards =
+Berserk;
+Blizzard;
+Brilliant Light;
+Dream Shield;
+Elemental Shield;
+Fortify;
+Frostbite*F2;
+Galvanic Field;
+Gargantuan;
+Infallible;
+Mass Death Prism;
+Mass Ice Prism;
+Mass Life Prism;
+Myth Shield;
+Nested Fury*F2;
+Pacify;
+Raging Bull;
+Rusalka's Wrath;
+Snowball Barrage;
+Storm Shield;
+Sunbird;
+Tempest;
+Winged Sorrow;
+Wings of Fate;
+
+| reagents =
+Aether;
+Agave Leaves;
+Amber;
+Amber Dust;
+Aquamarine;
+Astral Shard;
+Braided Vine*F2;
+Draconium;
+Fire Blossom;
+Fish Fin;
+Glass Sliver;
+Golden Pearl*F2;
+Mithril*F2;
+Scales;
+Silver;
+Stardust;
+Steel;
+Sunstone*F2;
+Titanium;
+Tungsten*F2;
+Turquoise;
+Vine;
+
+| spellements =
+Barbarian's Saga;
+Dark & Stormy;
+Lord of the Jungle;
+Old One's Endgame;
+
+| snacks =
+Bell Pepper Steak*F2;
+Boom Stroganoff;
+Bread Fruit Fruit;
+Candlenut;
+Cauliflowers;
+Catfish Stevens;
+Chalupacabra;
+Chapulines;
+Chili Peppers*F2;
+Crab Louie;
+Crystalweb Candy;
+Desparagus Salad*F2;
+Eggplant;
+Fin Flan;
+Fish Egg Pancakes;
+Flapjacks;
+Fried Ice Cream;
+Fried Worms;
+Frozen Perogies;
+Golden Apple;
+Hive Rinds;
+Shanta Pudding;
+
+| jewels =
+Ally Spirit Shield Citrine;
+Armor Breaker Opal;
+Balance Striker Citrine;
+Balance-Boon Citrine;
+Balance-Sniper Citrine;
+Critical Striker Opal;
+Dazzling Accurate Citrine +14%;
+Dazzling Accurate Hematite +14%;
+Dazzling Accurate Jade +14%;
+Dazzling Accurate Peridot +14%;
+Dazzling Accurate Ruby +14%;
+Dazzling Accurate Sapphire +14%;
+Dazzling Blocking Amethyst +19;
+Dazzling Blocking Opal +10;
+Dazzling Critical Amethyst +19;
+Dazzling Critical Citrine +19;
+Dazzling Critical Hematite +19;
+Dazzling Critical Ruby +19;
+Dazzling Critical Sapphire +19;
+Dazzling Damage Onyx +29;
+Dazzling Damage Ruby +29;
+Dazzling Defense Citrine +58;
+Dazzling Defense Citrine +60;
+Dazzling Defense Hematite +58;
+Dazzling Defense Jade +60;
+Dazzling Defense Onyx +60;
+Dazzling Defense Peridot +60;
+Dazzling Defense Ruby +58;
+Death-Away Onyx;
+Death-Giver Onyx;
+Elf on Fire Ruby;
+Fire Striker Ruby;
+Fire-Sniper Ruby;
+Fire-Boon Ruby;
+Fire-Dealer Ruby;
+Ice Assailant Sapphire;
+Ice Striker Sapphire*F2;
+Ice-Dealer Sapphire;
+Ice-Shot Sapphire;
+Ice-Ward Sapphire;
+Life Striker Jade;
+Life-Away Jade;
+Life-Bringer Jade;
+Life-Giver Jade;
+Medic Opal;
+Myth-Away Peridot;
+Myth-Dealer Peridot;
+Myth-Eye Peridot;
+Myth-Giver Peridot;
+Myth-Proof Peridot;
+Myth-Ward Peridot;
+Pyrosaurus Rex Ruby;
+Sparkling Health Opal +118;
+Sparkling Health Opal +119;
+Sparkling Mana Opal +49*F2;
+Spell-Proof Opal;
+Storm Assailant Amethyst;
+Storm-Away Amethyst;
+Storm-Giver Amethyst;
+Storm-Shot Amethyst;
+Storm-Sniper Amethyst;
+Stun Recalcitrant Opal;
+Time Skip Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Baby Carrots;
+Bamboo Shoots;
+Blue Huckleberries*F2;
+Boiled Peanuts;
+Boon Tree*CR;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Clockwork Flower;
+Cornbread Fruit Bush;
+Dandelion;
+Deadly Helephant Ears*CR;
+Desparagus (Seed);
+Evil Snow Peas;
+Fiery Boom Shroom*F2;
+Fish on a Vine*F2;
+Frozen Fly Trap;
+Helephant Ears;
+Honey Bee Plant;
+Ivy League*CR*F2;
+Key Limes*CR;
+Maelstrom Snap Dragon;
+Orange Bell Pepper*CR;
+Orange Dandelion;
+Pink Huckleberries*F2;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Red Bell Pepper;
+Red Couch Potatoes;
+Red Grapes of Wrath;
+Red Huckleberries*F2;
+Rotten Beets;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Silver Trumpet Vine*CR;
+Tiger Lily (Seed);
+Trumpet Vine;
+Ultra Fly Trap;
+Ultra Ninja Fig;
+Ultra Snow Apples;
+Vampire Carrots;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

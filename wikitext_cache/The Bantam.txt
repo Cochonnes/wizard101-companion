@@ -1,0 +1,278 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 12,580
+| crecla = Chicken
+| school = Life
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| outpierce =
+22%;
+
+| outboost =
+113%;
+
+| incboost =
+5% Death;
+
+| incresist =
+73% Life;
+
+| outhealing =
+68%;
+
+| inchealing =
+68%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Koolakamba Believer (Balance);
+
+| petname = Angel
+| petbreed = Wildlands Wolf
+| world = Lemuria
+| location = Wildlands
+| subloc1 = Temple of Truth
+| lootchest = Bantam's Chest
+| descrip =
+
+| speech =
+:''"Sorry, Stranger, but this is where your little temple adventure ends. Turn around, or face the wrath of... The Bantam! SQUAAAAWKAW! Huh. People usually flee in terror when I do that. What do you mean you've heard that shtick before? There are Chicken heroes with mighty squawks where you come from too? Well, then you're aware of what comes next. Angel, to me!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tsk, tsk, You're late!"'' - If a Wizard enters combat late, he will cast Infection, and Angel casts Entangle on the Wizard.
+*{{Icon|Round}} ''"I need a minute. Talk amongst yourselves."'' - At the beginning of the first round, and intermittently thereafter, The Bantam will use his Natural Attack on a random Wizard. After casting his Natural Attack, Boss will be Pacified for 3 Rounds, and immune to being targeted.
+*{{Icon|Blade}} ''"I'll be taking that, thanks!"'' - If a Blade is cast on another Wizard, The Bantam will exchange the given blade for a Balanceblade of half the original value.
+**For {{Link|Spell|Elemental Blade}} and {{Link|Spell|Spirit Blade}}, only the first blade of the three (Fire, Life) is exchanged.
+*{{Icon|Round}} ''"Get ready, Angel"'' - The Bantam will shout this line at the end of the round in which he'll cast Mass Sacred Charge next Round.
+*{{Icon|All Friends}}{{Icon|Damage}} ''"Angel to the rescue!"'' - The Bantam will cast Mass Sacred Charge (840).
+
+| spellnotes =
+*Casts an Aegis-Protected Lifeblade (+40%).
+*Casts a Mass Sacred Charge (840) with an Aegis-Protected Absorb.
+*Angel casts Empower (Life) giving a Power Pip to all allies.
+
+| casts =
+Legend Shield;
+Guiding Light;
+Entangle;
+Pigsie;
+Regenerate;
+Lifeblade (+40%);
+Life Feint;
+Empower (Life);
+Triage;
+Ratatoskr's Spin;
+Camp Bandit (Tier 3b);
+Lamassu;
+Natural Attack (Life 100-200-300-400);
+Sacred Charge;
+Hungry Caterpillar;
+Grrnadier (Tier 3a);
+Wings of Fate;
+Lord of the Jungle (Tier 3a);
+Forest Lord;
+Spinysaur;
+Sacred Charge (840);
+
+| quests =
+Real Lies;
+
+| dropnotes =
+If a Wizard has obtained the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge and has not obtained the '''[[Basic:Novus Badges|Ender of an Aeon]]''' Badge, the following drops will be available:
+*{{Icon|Spellement}} 8-9 Spellements will drop each time from '''any''' School for their respective Polaris, Mirage, Empyrea, Karamelle and Lemuria Spells.
+If a Wizard has obtained the ''Ender of an Aeon'' badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of the Hall of Heroes to acquire a [[Item:Level Scaling Elixir - 150|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+166 - 222;
+
+| hats =
+Hierarch's Cold Steel Hat;
+Hierarch's Hex Hat;
+
+| robes =
+
+| boots =
+
+| athames =
+Lemurian Deadly Athame;
+
+| amulets =
+
+| rings =
+
+| wands =
+Hierarch's Horror Staff;
+
+| decks =
+
+| items =
+Arcanum Combat Theme;
+Lemuria Action Theme;
+Lemuria Heroic Theme;
+Lemuria Noir Combat Theme;
+Lemuria Telos Theme 4;
+Periodic Table Poster*F2;
+Puzzle Cube;
+
+| cards =
+Blue Phoenix;
+Death Prism;
+Dream Shield;
+Frostbite;
+Nested Fury;
+Raging Bull;
+Snowball Barrage;
+Storm Shield;
+
+| reagents =
+Aether*F2;
+Amber;
+Amber Dust;
+Astral Shard*F2*WMV;
+Braided Vine;
+Bronze Gear;
+Cobalt;
+Ectoplasm*F2*WMV;
+Golden Pearl*F2;
+Nickel*F2*WMV;
+Scales;
+Silver;
+Spider Silk;
+Stardust;
+Steel*F2;
+Sunstone;
+Synthonium;
+Tin*F2;
+Titanium*F2*WMV;
+Tungsten;
+Turmeric;
+Turquoise;
+Vine;
+
+| spellements =
+Barbarian's Saga*BR;
+Blast Off!*BR;
+Climaclysm*BR;
+Dark & Stormy*BR;
+Freeze Ray*BR;
+Grrnadier*BR;
+Grim Reader*BR;
+Iron Sultan*BR;
+Lamassu*BR;
+Lord of the Jungle*BR;
+Mockenspiel*BR;
+Nested Fury*BR;
+Old One's Endgame*BR;
+Qismah's Curse*BR;
+Raging Bull*BR;
+Rusalka's Wrath*BR;
+Sand Wurm*BR;
+Scion of Balance*BR;
+Scion of Death*BR;
+Scion of Fire*BR;
+Scion of Ice*BR;
+Scion of Life*BR;
+Scion of Myth*BR;
+Scion of Storm*BR;
+Scorching Scimitars*BR;
+Shatterhorn*BR;
+S'more Machine*BR;
+Snack Attack*BR;
+Snake Charmer*BR;
+Snowball Barrage*BR;
+Sound of Musicology*BR;
+Tatzlewurm Terror*BR;
+Winged Sorrow*BR;
+Wings of Fate*BR;
+Witch's House Call*BR;
+
+| snacks =
+Crystal Custard;
+Dr. Jalapeno;
+Eggplant;
+Fetid Legumes;
+Fried Ice Cream;
+Fried Worms;
+Frozen Perogies;
+Potato Chips;
+Spicy Popcorn;
+Square Root;
+Squash;
+Sugar Donut*F2*WMV;
+Taco;
+Tomato Soup;
+
+| jewels =
+Balance-Giver Citrine;
+Balance-Off Citrine;
+Dazzling Accurate Citrine +14%*F2*WMV;
+Dazzling Accurate Peridot +14%;
+Dazzling Accurate Ruby +14%;
+Dazzling Blocking Citrine +19;
+Dazzling Critical Opal +10;
+Dazzling Damage Onyx +29;
+Dazzling Damage Sapphire +29;
+Dazzling Defense Ruby +60;
+Fire-Eye Ruby;
+Ice-Giver Sapphire;
+Ice-Proof Sapphire;
+Life Striker Jade;
+Lively Opal;
+Myth-Eye Peridot;
+Sparkling Blocking Onyx +17;
+Sparkling Defense Citrine +54;
+Sparkling Health Opal +118;
+Sparkling Mana Opal +49;
+Storm Assailant Amethyst;
+Storm Striker Amethyst;
+Storm-Shot Amethyst;
+The Bantam Jade*F3;
+
+| pets =
+Wildlands Wolf;
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears;
+Boom Shroom;
+Boon Tree*CR;
+Deadly Fly Trap;
+Deadly Ninja Fig;
+Evil Magma Peas*CR;
+Face Palm;
+Fickle Pickle;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Helephant Ears;
+Ivy League*CR;
+Maelstrom Snap Dragon;
+Ninja Fig*CR;
+Orange Bell Pepper*CR;
+Pink Huckleberries*F2;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus;
+Red Grapes of Wrath;
+Red Huckleberries;
+Rotten Beets;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Snow Apples;
+Sunion*CR;
+Tiger Lily (Seed);
+White Desparagus;
+Vampire Carrots;
+Venus Fly Trap;
+Yellow Bell Pepper*F3;
+
+| mounts =
+
+| spells =
+
+}}

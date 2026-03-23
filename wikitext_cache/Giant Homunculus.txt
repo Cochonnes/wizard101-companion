@@ -1,0 +1,197 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 2,880
+| crecla = Elemental
+| crecla2 = Colossus
+| school = Storm
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Myth;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Wandering Firesoul;
+
+| world = Dragonspyre
+| location = The Drake Hatchery
+| subloc1 = Homunculus' Tower
+| descrip =
+The Giant Homunculus is a shiny-black colossus.
+
+| speech =
+:''"Mind all full of mud... what to do? No answer! What? Smash is the answer! Smash!!!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+He guards the spirits of fallen drakes. And also a charm bracelet.
+
+| extract class =
+Colossus;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Myth Shield;
+Sprite;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Shark;
+Kraken;
+Stormzilla;
+Storm Lord;
+Tempest;
+Natural Attack (Storm 125x, 70%);
+Vampire;
+Heck Hound;
+
+| quests =
+Cry Freedom;
+
+| gold =
+58 - 124;
+
+| hats =
+Bonfire Headdress;
+Cap of Constitution;
+Cowl of Morbidity;
+Halcyon Hood;
+Hood of the Homunculus*F2*WMV;
+Promethean Hood*F2;
+Reaper's Hood*F2;
+Shroud of the Equinox;
+Shroud of the Green*F3*WMV;
+Triton's Topper*F2;
+Veil of Leaves;
+Veil of Passage;
+
+| robes =
+Blizzard Cloak;
+Coat of the Zephyr*F3*WMV;
+Surcoat of the Homunculus*F3;
+Terminus Wrap;
+Tunic of Tradition*F3;
+Verdant Vestment;
+Vestment of the Inferno*F3*WMV;
+
+| boots =
+Ashen Footwraps*F2;
+Burning Boots;
+Footgear of the North Wind;
+Frost Giant's Boots;
+Legend Walkers;
+Mocassins of the Oracle;
+Sandals of Neutrality;
+Sandals of the Generous Earth*F3*WMV;
+Sandals of the Homunculus*F3;
+Shoes of the Whispering Dark;
+
+| athames =
+Blade of the Homunculus*F6*WMV;
+Claw of Conciliation*F2*WMV;
+Dragonblood Dirk;
+Searing Knife*F3;
+
+| amulets =
+
+| rings =
+Rime-Edged Ring*F5*WMV;
+Ring of Dominance;
+Ring of the Forefathers*F3*WMV;
+Seal of the Gallium Paladin*F5*WMV;
+Signet of the Homunculus*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Dragonspyre Theme 3*F4*WMV;
+Regal Dragon Statue;
+Short Column*F2;
+Small Corner Wall Ruins*F2;
+Upright Brazier*F4*WMV;
+
+| cards =
+Dragonflies;
+Pest Zapper*F2;
+
+| reagents =
+Brass;
+Bronze Gear*F8*WMV;
+Cobalt*F3*WMV;
+Copper*F3*WMV;
+Ectoplasm*F7*WMV;
+Nickel*F3*WMV;
+Stone Block;
+Tin;
+
+| spellements =
+
+| snacks =
+Flaming Soup;
+Goat Cheese*F2;
+Golden Grapes*F2*WMV;
+Gummy Humongofrog;
+King Banana;
+
+| jewels =
+Blemished Damage Citrine +12;
+Blemished Defense Sapphire +24;
+Colossus Sapphire;
+Death-Boon Onyx;
+Determined Opal;
+Dull Blocking Citrine +3;
+Dull Blocking Jade +4;
+Dull Damage Jade +13*F2*WMV;
+Dull Damage Onyx +13;
+Dull Damage Ruby +13;
+Dull Defense Opal +14;
+Dull Health Opal +47;
+Dull Piercing Citrine +2%;
+Dull Piercing Peridot +2%;
+Enfeeblement Opal;
+Helephant Ruby;
+Hydra Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Maelstrom Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

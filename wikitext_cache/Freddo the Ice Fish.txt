@@ -1,0 +1,124 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,520
+| crecla = Fish
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Fire;
+
+| incresist =
+70% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Deep Angler;
+
+| world = Zafaria
+| location = Stone Town
+| subloc1 = Kasbah of Zanj
+| descrip =
+This Blue Angler is under the thumb of a local sorcerer, and Thaumaturges will need to clear his debt during their Level 75 Minion Quest.
+
+| speech =
+:''"You, Spellslinger, do you know who I am?  I'm Freddo the Ice Fish!  I made my bones when you were still learnin' to build a deck!  Horned Nimon holds my marker, and he wants me to kill anybody who sticks their nose in here.  So guess what I'mma do to you?"''
+
+| spellnotes =
+
+| casts =
+Tower Shield;
+Weakness;
+Iceblade;
+Ice Trap;
+Snow Serpent;
+Evil Snowman;
+Ice Wyvern;
+Raging Kraken (Ice);
+Troll;
+
+| quests =
+Line in the Water;
+
+| gold =
+42 - 52;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Colossus;
+Earthquake;
+Hydra;
+Ice Wyvern;
+Minotaur;
+Phoenix*F2;
+Satyr;
+Stormzilla*F2*WMV;
+Triton;
+Wraith;
+
+| reagents =
+Black Lotus*F3;
+Deep Mushroom*F2*WMV;
+Frost Flower*F2*WMV;
+Mist Wood*F2*WMV;
+Nickel;
+Ore;
+Parchment;
+Pearl;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Glowing Dragon Fruit;
+Golden Apple;
+Gummy Humongofrog*F3*WMV;
+King Banana;
+Salmonberry;
+Shiny Tomato*F2;
+Uni-Corn;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

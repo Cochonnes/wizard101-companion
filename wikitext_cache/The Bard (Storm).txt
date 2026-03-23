@@ -1,0 +1,118 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 13,145
+| crecla = Llama
+| school = Storm
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+30%;
+
+| outboost =
+136%;
+
+| incboost =
+20% Myth;
+
+| incresist =
+24% Fire, Ice, Life, Death, Balance, Shadow;
+54% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Malcontent;
+Malcontent;
+
+| world = Krokotopia
+| location = Marketplace of Ideas
+| subloc1 = Rogue Theater
+| location2 = Marketplace of Ideas
+| subloc2 = Rogue Theater: Act II
+| descrip =
+This boss is located behind '''Door II''' of the {{Link|Location|Rogue Theater}}.
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:'''Malcontent''': ''"The king returns! Once dragon, once lost, he is back and brings dire cost. Once this land was open, its bounty was free. We'd help ourselves to whatever we did see. But the king, the king, now that he's back, our efforts were thwarted by knightly attack."''
+:'''The Bard''': ''"And who was it that plucked the king from his cave and restored him to lordship over you knaves?"''
+:'''Malcontent''': ''"The Wizard, the Scion, Earthborn from beyond. Now we are here so they can be gone!"''
+
+| cheatnotes =
+*''"The gentler gamester is the soonest loser."'' - The Bard will cast one of the following:
+**{{Link|Spell|Storm Fuel}}
+**{{Link|Spell|Storm Trap (+35%)}}
+{{Icon|Round}} '''Cycle''':
+*''"Once more unto the breach!"'' - At the beginning of every 3rd Round, The Bard will cast {{Link|Spell|Windstorm}}.
+*''"Let life be short, else shame will be too long."'' - At the end of the 12th Round, and every other Round following, The Bard will cast {{Link|Spell|Insane Bolt}}.
+
+| spellnotes =
+
+| casts =
+Adapt;
+Stormblade (+30%);
+Stormblade;
+Storm Trap;
+Hammer of Thor;
+Stormwing;
+Tempest (6 Pip);
+Water Efreet (-90%);
+Leviathan;
+
+| quests =
+Plots Have I Laid;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

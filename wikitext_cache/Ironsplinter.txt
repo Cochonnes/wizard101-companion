@@ -1,0 +1,206 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 700
+| crecla = Elemental
+| crecla2 = Plant
+| crecla3 = Treant
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Forest Pest;
+
+| world = Grizzleheim
+| location = Savarstaad Pass
+| subloc1 = Ironsplinter's Forest
+| descrip =
+Wizards arrive in Ironsplinter's Forest after {{Link|NPC|Einar Thunderhammer}} helps them forge a blade meant specifically to slay Grendels.  The second of three spirits that Wizards seek to bless their new blade, Ironsplinter initially mistakes Wizards for a threat, requiring them to defeat him before he will grant them his blessing.
+
+Two additional Forest Pests will appear if more than two Wizards are present.
+
+| speech =
+:''"Who trespasses upon my domain?"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+He believes he is the ruler of all lower plantlife. The grass knows well to fear his wrath.
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Spirit Armor;
+Death Shield;
+Lifeblade;
+Life Trap;
+Imp;
+Leprechaun;
+Nature's Wrath;
+Seraph;
+Natural Attack (Life 85x);
+Cyclops;
+Storm Shark;
+Sandstorm;
+
+| quests =
+Thrice-Blessed Blade;
+
+| gold =
+29 - 55;
+
+| hats =
+Cap of Dread;
+Circlet of Fortune;
+Circlet of the Fallen;
+Cloud Cover;
+Hallowed Hood;
+Headcloth of the Fray;
+Ice Raider's Hat*F2;
+Snowthorn Hat;
+Torrential Cap;
+Wildfang Veil*F8*WMV;
+
+| robes =
+Coat of Pouring Rain;
+Drape of the White Squall*F2*WMV;
+Garments of Zeal;
+Glacial Longcoat;
+Igneous Robe;
+Mystifying Raiment*F3*WMV;
+Raiment of the Last Stand*F11*WMV;
+Raiment of the Lifespring;
+Robe of Elegies*F2*WMV;
+Robe of the Firebloom;
+Thanatoid Vestment*F2*WMV;
+Tunic of Ataraxia*F2;
+Vestment of Serenity*F2;
+Vestment of Yesteryear;
+
+| boots =
+Boots of Havoc;
+Boots of Precipitation*F2*WMV;
+Drizzling Boots*F10*WMV;
+Footgear of Attention*F8*WMV;
+Footgear of the Firehaze;
+Footguards of Consideration;
+Footguards of the Jarl;
+Hibernal Footwraps;
+Indefatigable Striders;
+Slippers of Diligence;
+Striders of Strife;
+Thane's Boots;
+
+| athames =
+Bodkin of Fury;
+Iceshadow's Athame*F2*WMV;
+Wildbrand's Dagger*F9*WMV;
+
+| amulets =
+
+| rings =
+Ice Raider's Ring*F3*WMV;
+Seal of the Tundra;
+Signet of the Icecap*F7*WMV;
+Stone of Confidence;
+
+| wands =
+
+| decks =
+
+| items =
+Fish Bones;
+
+| cards =
+Cyclops;
+Dryad;
+Guiding Light;
+Ice Trap;
+Imp*F3*WMV;
+Lightning Bats;
+Locust Swarm*F2;
+Mutate Cat (Storm);
+Pacify;
+Pixie;
+Power Play;
+Sandstorm;
+Snow Serpent;
+Storm Trap;
+Troll*F2;
+Vampire;
+Woodwalker*F3*WMV;
+
+| reagents =
+Bronze Gear*F4;
+Copper;
+Iron*F2*WMV;
+Nickel*F2*WMV;
+Pyrite*F4*WMV;
+
+| spellements =
+
+| snacks =
+Dragon Fruit*F2*WMV;
+Flaming Carrot;
+Meat Soup*F6*WMV;
+Moon Pie*F5*WMV;
+Orange Jalapeno*F3*WMV;
+Spicy Bubblegum;
+Taffy;
+Tasty Biscuit*F6*WMV;
+Tiny Pretzel*F2;
+Wild Strawberry;
+
+| jewels =
+Chipped Mana Opal +11;
+Cracked Damage Jade +2;
+Cracked Damage Jade +4;
+Cracked Health Opal +12;
+Cracked Mending Opal +1%;
+Fire Cat Ruby;
+Thunder Snake Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Boom Shroom;
+Couch Potatoes*CR*F2*WMV;
+Honey Sickle;
+
+| mounts =
+
+| spells =
+
+}}

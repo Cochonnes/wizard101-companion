@@ -1,0 +1,190 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 3,190
+| crecla = Ant
+| crecla2 = Insect
+| school = Ice
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Fire;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Aunt Eunice;
+
+| world = MooShu
+| location = Jade Palace
+| subloc1 = Telegraph Box (MooShu)
+| descrip =
+*During the [[Basic:Five B.O.X.E.S.|Five B.O.X.E.S. Event]], Aunt Millicent can be found in the Telegraph Box (MooShu) instance.
+*All drops from this duel should be recorded on this page.
+*Wizards are accompanied by {{Link|NPC|Dworgyn}} as an ally in this duel, who provides +10% resistance and +15% incoming healing.
+
+| speech =
+:''"What a foul rapscallion you are! It's as I've always said: Wizards, especially those from Wizard City, are blackguards and liars. Dworgyn, dearie, work hard and maybe next season we'll send you to Wysteria. But spite us and you'll never see your wand again!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+Not fond of wizards. She sprays for them, lays down traps, but they keep coming back.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Tower Shield;
+Weakness;
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Ice Elf (30+210);
+Evil Snowman;
+Natural Attack (Ice 105-195-300);
+Snow Shark;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Arcticzilla;
+Colossus;
+Troll;
+
+| quests =
+Carnival of Monsters;
+
+| gold =
+107 - 205;
+
+| hats =
+Greenwarden's Brilliant Mask (Level 40+)*CR*F2;
+Greenwarden's Energetic Mask (Level 40+)*CR;
+Greenwarden's Peaceful Mask (Level 40+)*CR;
+
+| robes =
+Robe of Radiance;
+Greenwarden's Brilliant Shroud (Level 40+)*CR;
+Greenwarden's Energetic Shroud (Level 40+)*CR;
+Greenwarden's Peaceful Shroud (Level 40+)*CR;
+
+| boots =
+Ashen Footwraps;
+Greenwarden's Brilliant Boots (Level 40+)*CR;
+Greenwarden's Energetic Boots (Level 40+)*CR;
+Greenwarden's Peaceful Boots (Level 50+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Greenwarden's Brilliant Staff (Level 40+)*CR;
+Greenwarden's Energetic Staff (Level 40+)*CR;
+Greenwarden's Peaceful Staff (Level 40+)*CR;
+Greenwarden's Peaceful Staff (Level 50+)*CR;
+
+| decks =
+
+| items =
+Blue Vine Wallpaper*F2;
+Cobblestone Flooring*F2;
+Cross Section Floor Tile;
+Fish Fountain*F2;
+Marble Diner Floor Tile;
+Small Corner Wall Ruins;
+Stone Block Wallpaper*F3;
+Stucco Wallpaper*F2;
+Wavy Stalk Wallpaper;
+
+| cards =
+Black Mantle;
+Clockwork Spider*F3*WMV;
+Coldiron*F7*WMV;
+Ice Wyvern;
+Imitsu Punisher;
+Leprechaun*F3;
+Monstrous;
+Ninja Pigs;
+Potboiler*F8*WMV;
+Skeletal Pirate;
+Sprite*F2;
+Tough*F2;
+
+| reagents =
+Black Lotus;
+Bone*F3;
+Bronze Gear*F2;
+Cobalt*F3;
+Deep Mushroom*F2;
+Lava Lily;
+Nickel*F7*WMV;
+Sonic Spring*F6*WMV;
+
+| spellements =
+
+| snacks =
+Goat Cheese;
+
+| jewels =
+Balefrost Sapphire;
+Catch Opal;
+Centaur Jade;
+Doom and Gloom Onyx*F2*WMV;
+Dull Blocking Opal +1;
+Dull Defense Amethyst +25;
+Dull Defense Peridot +25;
+Dull Defense Ruby +25;
+Dull Health Opal +49;
+Dull Health Opal +50;
+Dull Mana Opal +22*F2;
+Effective Opal;
+Myth-Giver Peridot;
+Pip O'Plenty Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Evil Snow Peas;
+Fickle Pickle;
+Helephant Ears;
+Honey Sickle*F2;
+Pink Dandelion*CR*F2;
+
+| mounts =
+
+| spells =
+
+}}

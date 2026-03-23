@@ -1,0 +1,123 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,800
+| crecla = Dog
+| school = Death
+| startpips = 4
+| powerpips = Yes
+| critical =
+72;
+
+| criticalblock =
+38;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Wizard City
+| location = Deep Warrens
+| subloc1 = Tower of Peladon
+| descrip =
+Theurgists must defeat High King Finnegan during the Quest, ''The Fifth Professor''.
+*This Boss is not repeatable.
+*This Boss is located in a solo dungeon. Other Wizards will not be able to port into the dungeon.
+
+| speech =
+:''"An intruder!  I'll give ye a belt in the gob for comin' in here an' disruptin' me rest!"''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Deathblade;
+Vampire;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+
+| quests =
+The Fifth Professor;
+
+| gold =
+40 - 59;
+
+| hats =
+
+| robes =
+
+| boots =
+Charging Bull's Footguards;
+Finely Balanced Boots*F2*WMV;
+Friend of the Fire Elf Boots;
+Ironhide Boots;
+Ponycorn Hoofers;
+Slick Road Grippers;
+Splashing Stream Waders;
+Witch Doctor's Juju Rangers;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Colossus;
+Earthquake;
+Hydra;
+Ice Wyvern;
+Phoenix*F2;
+Satyr;
+Skeletal Pirate;
+Spectral Blast;
+Wraith;
+
+| reagents =
+Bronze*F2*WMV;
+Cat Tail;
+Frost Flower;
+Parchment*F2;
+Pearl*F2;
+Red Mandrake;
+Stone Block;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

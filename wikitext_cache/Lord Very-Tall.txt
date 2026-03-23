@@ -1,0 +1,346 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 14,905
+| crecla = Emu Rider
+| school = Fire
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Fire;
+Myth;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+24%;
+
+| outboost =
+98%;
+
+| incboost =
+30% Ice;
+
+| incresist =
+30% Storm, Myth, Life, Death, Balance, Shadow;
+60% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Emu Rider (Death);
+Punk Wallaby (Storm);
+
+| world = Wallaru
+| location = Outback
+| subloc1 = Rebel Mine
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Round}} ''"Power Pips? What a puny plan!"'' - At the beginning of the first Round, Lord Very-Tall will cast a Sun School version of Power Play that applies -100% Power Pip gain, and then a Fire School version of Mana Burn on all Wizards, removing all their Pips.
+**This Global gets recast whenever the Global is changed.
+
+| spellnotes =
+
+| casts =
+Empowerment;
+Fireblade;
+Fire Trap;
+Fuel;
+Power Current;
+Krampus (Tier 3b);
+Glimpse of Infinity (Tier 3b);
+Burning Rampage (Tier 3a);
+Immolate (Tier 3b);
+Rain of Fire;
+
+| quests =
+The Great Emu Warrior;
+Little Big Man;
+
+| gold =
+10 - 49;
+
+| hats =
+Crisp City Dweller Kanga-Cap;
+Crisp Townie Kanga-Cap;
+Elegant City Dweller Kanga-Cap;
+Elegant Townie Kanga-Cap;
+Flashy City Dweller Kanga-Cap;
+Flashy Townie Kanga-Cap;
+Gothic City Dweller Kanga-Cap;
+Gothic Townie Kanga-Cap;
+Iconic City Dweller Kanga-Cap*F2;
+Iconic Townie Kanga-Cap;
+Striking City Dweller Kanga-Cap*F2*WMV;
+Striking Townie Kanga-Cap*F2*WMV;
+Vibrant City Dweller Kanga-Cap;
+Vibrant Townie Kanga-Cap;
+
+| robes =
+Crisp City Dweller Vest;
+Crisp Townie Vest*F2;
+Elegant City Dweller Vest;
+Elegant Townie Vest*F2*WMV;
+Flashy City Dweller Vest*F2;
+Flashy Townie Vest*F2;
+Gothic City Dweller Vest*F2*WMV;
+Gothic Townie Vest*F2;
+Iconic City Dweller Vest;
+Iconic Townie Vest;
+Striking City Dweller Vest;
+Striking Townie Vest;
+Vibrant City Dweller Vest;
+Vibrant Townie Vest;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Wallaru Billabong Resort Com Theme;
+Wallaru Billabong Resort Theme;
+Wallaru Doom Moon Theme;
+Wallaru Eucalyptus Forest Com Theme;
+Wallaru Eucalyptus Forest Theme;
+Wallaru Hope Springs Theme*F2*WMV;
+Wallaru Outback Combat Theme;
+Wallaru Ranch Combat Theme;
+Wallaru The Dreaming Combat Theme;
+Wallaru The Dreaming Theme*F2*WMV;
+Wallaru Wobbegong Combat Theme;
+Wallaru Wobbegong Theme;
+
+| cards =
+Arcticzilla;
+Ashen Bones;
+Balanceblade;
+Banshee (Tier 2b);
+Blood Bat (Tier 2b);
+Boreas Ifrit*F2;
+Cleanse Charm;
+Cyclops (Tier 2b);
+Dark Sprite (Tier 2b);
+Deadly Minotaur;
+Death Trap;
+Deathblade;
+Elemental Blade;
+Elemental Trap;
+Empower*F2*WMV;
+Evil Snowman (Tier 2b);
+Feint;
+Fire Cat (Tier 2b);
+Fire Elf (Tier 2b);
+Fire Trap;
+Frost Beetle (Tier 2b);
+Fireblade;
+Ghoul (Tier 2b);
+Harmattan Maxios;
+Hex;
+Ice Trap;
+Iceblade;
+Imp (Tier 2b);
+Leprechaun (Tier 2b);
+Life Trap;
+Lifeblade;
+Lightning Bats (Tier 2b);
+Locust Swarm (Tier 2b);
+Lord of the Squall;
+Myth Trap*F2;
+Mythblade;
+Nature's Wrath (Tier 2b);
+Nested Fury;
+Pierce;
+Raging Bull;
+Reshuffle*F2;
+Rusalka's Wrath;
+Scorpion (Tier 2b);
+Sirocco Djinni;
+Snow Serpent (Tier 2b);
+Snowball Barrage;
+Spirit Blade;
+Spirit Trap;
+Storm Shark (Tier 2b);
+Storm Trap;
+Stormblade;
+Sunbird (Tier 2b)*F2*WMV;
+Thunder Snake (Tier 2b);
+Troll (Tier 2b);
+Winged Sorrow*F2;
+Wings of Fate;
+Witch's House Call;
+
+| reagents =
+Bone;
+Brass;
+Bronze Gear;
+Cobalt;
+Copper;
+Ectoplasm;
+Fish Fin;
+Lead;
+Leather Straps;
+Nickel;
+Pyrite*F2;
+Scales;
+Spider Silk;
+Tungsten;
+Turmeric;
+
+| spellements =
+Barbarian's Saga*F3*WMV;
+Blast Off!*F2;
+Bunyip's Rage*F3;
+Count Croakula*F4*WMV;
+Dark & Stormy;
+Deathly Depths*F3*WMV;
+Drop Bear Fury*F4*WMV;
+Freeze Ray;
+Glimpse of Infinity*F2;
+Gravestorm;
+Grim Reader*F4*WMV;
+Grrnadier;
+Improbable Gaze*F5*WMV;
+Lord of the Jungle*F4*WMV;
+Mockenspiel*F2*WMV;
+Old One's Endgame*F2*WMV;
+Phantasmania!*F4*WMV;
+Rainbow Serpent;
+Scales of Destiny;
+Scion of Balance;
+Scion of Fire;
+Shatterhorn*F2;
+Snack Attack*F4*WMV;
+Sound of Musicology*F2*WMV;
+Starspawn*F3*WMV;
+Tatzlewurm Terror*F3*WMV;
+Tree of Strife*F5*WMV;
+Wobbegong Frenzy*F3*WMV;
+Zand the Bandit;
+
+| snacks =
+Bell Pepper Steak;
+Black Sun Seeds;
+Cracker;
+Fern Jelly;
+Flaming Jalapeno;
+Flaming Pineapple;
+Glowing Dragon Fruit;
+Heavenly Bubblegum;
+Lava Guava;
+Marzipan Maize;
+Misfortune Cookie;
+Nana's Pumpkin Spice Milkshake;
+Nutty Truffle;
+Orange Jalapeno;
+PB Cookie;
+Popsicle;
+Spicy Drumstick;
+Tamales;
+Tasty Biscuit;
+Wild Strawberry;
+Wrath's Grape Juice;
+
+| jewels =
+Amazing Critical Amethyst +21;
+Amazing Critical Amethyst +22;
+Amazing Critical Citrine +21;
+Amazing Critical Citrine +22;
+Amazing Critical Onyx +21;
+Amazing Critical Peridot +22;
+Amazing Critical Ruby +21;
+Amazing Critical Ruby +22;
+Amazing Critical Sapphire +21;
+Amazing Critical Sapphire +22*F2;
+Amazing Damage Citrine +31;
+Amazing Damage Citrine +32;
+Amazing Damage Jade +31;
+Amazing Damage Jade +32;
+Amazing Damage Onyx +31;
+Amazing Damage Onyx +32;
+Amazing Damage Peridot +31;
+Amazing Damage Peridot +32;
+Amazing Damage Ruby +31;
+Amazing Damage Ruby +32;
+Amazing Damage Sapphire +31*F2;
+Amazing Damage Sapphire +32;
+Flawless Critical Amethyst +23;
+Flawless Critical Amethyst +24;
+Flawless Critical Citrine +23;
+Flawless Critical Citrine +24;
+Flawless Critical Jade +23;
+Flawless Critical Jade +24;
+Flawless Critical Onyx +23;
+Flawless Critical Onyx +24;
+Flawless Critical Peridot +23;
+Flawless Critical Peridot +24;
+Flawless Critical Ruby +24;
+Flawless Critical Sapphire +23*F2;
+Flawless Critical Sapphire +24;
+Flawless Damage Amethyst +33;
+Flawless Damage Citrine +34;
+Flawless Damage Jade +33;
+Flawless Damage Jade +34;
+Flawless Damage Onyx +33;
+Flawless Damage Onyx +34;
+Flawless Damage Peridot +33;
+Flawless Damage Peridot +34;
+Flawless Damage Ruby +33;
+Flawless Damage Ruby +34;
+Flawless Damage Sapphire +34*F2;
+Flawless Mending Opal +8%;
+Polished Piercing Amethyst +6%;
+Polished Piercing Citrine +6%;
+Polished Piercing Jade +6%;
+Polished Piercing Onyx +6%;
+Polished Piercing Peridot +6%*F2*WMV;
+Polished Piercing Ruby +6%;
+
+| pins =
+Balance Accurate Pin (100)*F2;
+Balance Conversion Pin (150);
+Balance Conversion Pin (160)*F2*WMV;
+Death Accurate Pin (100);
+Death Conversion Pin (150)*F3;
+Death Conversion Pin (160);
+Fire Accurate Pin (100)*F2*WMV;
+Fire Conversion Pin (150);
+Fire Conversion Pin (160);
+Ice Accurate Pin (110)*F4*WMV;
+Ice Conversion Pin (150);
+Life Accurate Pin (100)*F2;
+Life Conversion Pin (150);
+Life Conversion Pin (160)*F2*WMV;
+Death Accurate Pin (100);
+Myth Accurate Pin (100);
+Myth Conversion Pin (150);
+Myth Conversion Pin (160);
+Storm Conversion Pin (150);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

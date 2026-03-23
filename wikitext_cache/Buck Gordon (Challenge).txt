@@ -1,0 +1,118 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 12,890
+| crecla = Deer
+| school = Fire
+| shadowslots = 2
+| startpips = 2
+| powerpips = Yes
+| outpierce =
+29%;
+
+| outboost =
+156%;
+
+| incboost =
+5% Ice;
+
+| incresist =
+73% Fire;
+
+| outhealing =
+47%;
+
+| inchealing =
+52%;
+
+| stunable = No
+| beguilable = No
+| minion = 
+| world = Lemuria
+| location = Telos
+| subloc1 = Hall of Heroes (Challenge)
+| descrip =
+Buck Gordon is considered a Minion to [[Creature:Stallion Quartermane (Challenge)|Stallion Quartermane]]. All drops are recorded on that page.
+
+'''The First Team'''
+*{{Target|Dagger}} [[Creature:Solomon Crane (Challenge)|Solomon Crane]]
+*{{Target|Key}} [[Creature:Buck Gordon (Challenge)|Buck Gordon]]
+*{{Target|Gem}} [[Creature:The Shadoe (Challenge)|The Shadoe]]
+*{{Target|Spiral}} [[Creature:Dog Tracy (Challenge)|Dog Tracy]]
+
+'''The Second Team'''
+*{{Target|Book}} [[Creature:Mandar the Barbarian (Challenge)|Mandar the Barbarian]]
+*{{Target|Chalice}} [[Creature:Duck Savage (Challenge)|Duck Savage]]
+*{{Target|Wand}} [[Creature:Stallion Quartermane (Challenge)|Stallion Quartermane]]
+*{{Target|Potion}} [[Creature:The Bantam (Challenge)|The Bantam]]
+
+| speech =
+
+| spellnotes =
+*Casts a protected Fireblade.
+'''Natural Attack:'''
+*Deals an unknown quantity of Fire Damage.
+
+| casts =
+Glacial Shield;
+Firespear (+10%);
+Smoke Screen;
+Fireblade;
+Fire Trap;
+Backdraft;
+Detonate;
+Steal Charm;
+Sunbird;
+Power Link;
+Scorching Scimitars;
+Meteor Strike;
+Fire from Above;
+S'more Machine (Tier 3a);
+Scald;
+Raging Bull;
+Blast Off! (Tier 3a);
+Fire Dragon;
+Rain of Fire;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Buck Gordon
+}}

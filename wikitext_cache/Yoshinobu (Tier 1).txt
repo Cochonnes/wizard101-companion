@@ -1,0 +1,230 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 695
+| crecla = Samoorai
+| school = Storm
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+10% Myth;
+
+| incresist =
+40% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Hisamoto (Tier 1);
+Kensaburo (Tier 1);
+Takazane (Tier 1);
+
+| world = Housing Instance
+| location = Midnight Sun Pagoda
+| subloc1 = 
+| descrip =
+
+| speech =
+:'''Student:''' ''"Sensei, we will follow you to the ends of the Spiral... but your path leads to dark places."''
+:'''Yoshinobu:''' ''"Our new allegiance with Kaizoku will bring power to our clan.  Do not worry!  With my best students at my side we are invincible!"''
+
+| cheatnotes =
+*{{Icon|Round}} During the first Round, the following Bosses will cast the following Spells using their turn but not using Pips:
+**{{Icon|Curse}} Yoshinobu will cast Mass Infection.
+**{{Icon|Shield}} Hisamoto will cast {{Link|Spell|Legion Shield}}
+***Hisamoto will use his turn to cast Legion Shield every three Rounds after the first Round.
+
+*{{Icon|Damage}} ''"Chain Reaction!"'' - If a Wizard damages Yoshinobu with a Spell that costs at least 6 Pips, then the following cheats will occur:
+**{{Icon|Curse}} Yoshinobu interrupt-casts a '''-60%''' version of {{Link|Spell|Smoke Screen}}.
+**{{Icon|Healing}} Hisamoto interrupt-casts a version of {{Link|Spell|Unicorn}} that restores '''350''' Health.
+**{{Icon|Damage}} Kensaburo interrupt-casts a version of [[Spell:Meteor Strike (355-395)|Meteor Strike]] that deals '''355-395''' Fire Damage.
+
+*{{Icon|Damage}} ''"The Chain Continues!"'' - If a Wizard damages Yoshinobu with a Spell that costs at least 6 Pips after Hisamoto is defeated, then the following cheats will occur:
+**If Kensaburo is not defeated:
+***{{Icon|Damage}} Yoshinobu interrupt-casts {{Link|Spell|Blizzard}}.
+***{{Icon|Healing}} Kensaburo individually interrupt-casts a version of {{Link|Spell|Minor Blessing}} that restores '''100''' Health on each Samoorai.
+***{{Icon|Trap}}{{Icon|Weakness}} Yoshinobu individually interrupt-casts a Balance Spell that places '''+25%''' version of {{Link|Spell|Hex}} and a '''-30%''' version of [[Spell:Weakness (-30%)|Weakness]] on all Wizards.
+**If Kensaburo is defeated:
+***{{Icon|Damage}} Yoshinobu interrupt-casts Blizzard and {{Link|Spell|Sandstorm}}.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Storm Damage per Pip
+
+| casts =
+Myth Shield;
+Weakness;
+Mass Infection;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Storm Serpent (155-195);
+Lightning Bats;
+Storm Shark;
+Squall Wyvern;
+Kraken;
+Banshee;
+Sunbird;
+
+| quests =
+Journey Into Midnight;
+
+| gold =
+30 - 81;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Bamboo Barrier;
+Crossed Naginata Spears;
+Goat Monk Bobblehead;
+Green Sword Display*F2;
+Iron Tea Pot;
+Low Purple Vase;
+Moodha Bust;
+MooShu Combat Theme*F5*WMV;
+Ninja Pig Bobblehead*F2;
+Oni Bobblehead*F2;
+Pearl Orchid;
+Small Wooden Table*F2;
+Tatami Floor Mat;
+Wooden Memorial;
+
+| cards =
+Accurate;
+Aiuchi;
+Do-Daga*F2;
+Doom and Gloom;
+Kakeda Painbringer;
+Koto*F3*WMV;
+Minotaur;
+Ninja Pigs*F3;
+Otomo Fury*F2;
+Tamauji*F3;
+Yochimo*F3*WMV;
+
+| reagents =
+Amethyst;
+Brass*F2;
+Citrine;
+Copper;
+Crystal Vial;
+Ghost Fire;
+Iron;
+Leather Straps*F2*WMV;
+Nickel;
+Peridot;
+Pyrite*F4;
+Ruby;
+Sapphire;
+Shadow Oil;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F2;
+Basil Poodle Noodles;
+Chow Chow Chow;
+Crunch Apple;
+Eggplant*F3;
+Fido's Fortune Puffs;
+Fire Cracker;
+Fire Passion Fruit;
+Flaming Soup;
+Goat Cheese;
+Golden Peanut;
+Golden Pizza;
+Golden Squash*F2;
+Hot and Sour Bits;
+Jade Palace Tempura;
+Jar of Jelly Beans*F2;
+Kapow Pug Poppers;
+Killer Tomato*F2;
+King Banana;
+Large Fish;
+Large Watermelon;
+MooShu Broccoli;
+MooShu Tofu;
+Square Root*F2;
+Sweet Pineapple;
+Taco Town Special;
+
+| jewels =
+Chipped Defense Onyx +13;
+Chipped Defense Ruby +13;
+Chipped Health Opal +20;
+Chipped Mana Opal +12;
+Cracked Accurate Amethyst +1%;
+Cracked Accurate Jade +1%;
+Cracked Accurate Onyx +1%;
+Cracked Accurate Peridot +1%;
+Cracked Accurate Ruby +1%;
+Cracked Defense Amethyst +4;
+Cracked Defense Amethyst +5;
+Cracked Defense Citrine +5;
+Cracked Defense Onyx +4;
+Cracked Defense Opal +6;
+Cracked Defense Peridot +4;
+Cracked Defense Peridot +5;
+Cracked Defense Ruby +4;
+Cracked Defense Sapphire +4;
+Cracked Defense Sapphire +5;
+Cracked Healing Opal +1%;
+Cracked Health Opal +6;
+Cracked Health Opal +7;
+Cracked Health Opal +9;
+Cracked Mana Opal +5;
+Cracked Mending Opal +1%;
+Legend Shield Jade;
+Scoot Opal;
+Snow Serpent Sapphire;
+
+| pins =
+
+| pets =
+Brown Spider;
+Goat Monk;
+Jade Oni*CR*F2;
+Ninja Pig*F2;
+Plague Ninja;
+Stone Colossus;
+Yellow Ghost*F2;
+
+| seeds =
+Ninja Fig*CR;
+Orange Dandelion*F3;
+Pink Laugh-O-Dil;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

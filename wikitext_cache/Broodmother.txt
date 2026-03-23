@@ -1,0 +1,214 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 18,360
+| crecla = Bee
+| crecla2 = Insect
+| school = Fire
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Royal Guard (Khrysalis);
+
+| world = Khrysalis
+| location = Moon Cliffs
+| subloc1 = Golden Horde Chamber
+| descrip =
+
+| speech =
+:''"HISSSSSSSSSSSSSSSSSSSSS! You do not understand what you're dealing with, do you? I am the perfect organism. My structural perfection is matched only by my hostility!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+She may call herself the perfect organism, but she's a bee-list villain at best.
+
+| extract class =
+Insects;
+
+| summon_animus = 20
+| summon_gold = 1,000
+| guest_animus = 30
+| guest_gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 170 Fire Damage for 1 Pip.
+*Deals 290 Fire Damage for 2 Pips.
+*Deals 435 Fire Damage for 3 Pips.
+**Deals 630 Fire Damage over 3 Rounds.
+
+| casts =
+Amplify;
+Vengeance;
+Glacial Shield;
+Smoke Screen (-45%);
+Fireblade;
+Fire Trap;
+Fuel (+35%);
+Natural Attack (Brood Mother);
+Meteor Strike (355-395);
+Phoenix (600-680);
+Efreet;
+Sun Serpent;
+
+| quests =
+First Through the Breach;
+
+| gold =
+81 - 221;
+
+| hats =
+Gloom Dancer's Shroud;
+The Savvy Satyr*CR*F2;
+
+| robes =
+Armor of the Mouse Knight;
+Mantis Armor of Purpose*F5*WMV;
+Robes of Burrower Strife*F5*WMV;
+
+| boots =
+Blighted Burrower Boots*F3*WMV;
+CloudDancer's Footwraps;
+Digger Drone's Dirty Boots*F4*WMV;
+Mantis Boots of Patience;
+
+| athames =
+Besieged Burrower's Knife;
+
+| amulets =
+Benzzi's Campaign Memento;
+Collar of the Besieged;
+Jewel of the Apiary*F2*WMV;
+Mantis Prophet's Ornament;
+
+| rings =
+Mouse Knight's Loop*F2;
+Seal of the WoodWard;
+
+| wands =
+Banetail's Charged Sting;
+Goliath's Savage Slasher;
+Kermes Fireclaw;
+Yellow Jacket's Avenger*F2;
+
+| decks =
+Barbed Case of Stratagem;
+Cell of Survival*F2*WMV;
+Gallery of the Woebegone*F3*WMV;
+LimeBlight's Gallery*F3*WMV;
+Mago's Death's Head Set;
+
+| items =
+Khrysalis Bastion Theme*F2;
+Khrysalis Fort Rachias Theme;
+Khrysalis Thrives Theme;
+
+| cards =
+Choke;
+Doom and Gloom;
+Legendary Treant (445);
+Lucius McTavish;
+O'Leary Charlatan (Storm)*F2*WMV;
+O'Leary Swindler;
+Patches O'Leary;
+Polar Swarm;
+Scrounger;
+Sprite Swarm (40+360);
+
+| reagents =
+Black Lotus;
+Black Pearl*F2*WMV;
+Blood Moss*F2;
+Bone*F3*WMV;
+Bronze Gear*F2;
+Copper;
+Deep Mushroom*F5*WMV;
+Fire Blossom;
+Golden Pearl;
+Iron*F2;
+Lava Lily*F4;
+Mist Wood*F7*WMV;
+Nickel*F2;
+Nightshade;
+Ore*F2*WMV;
+Orichalcum;
+Pyrite;
+Red Mandrake*F2*WMV;
+Stone Block*F2*WMV;
+Sunstone;
+Titanium;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Dr. Jalapeno*F2;
+Flapjacks*F2;
+Glowing Dragon Fruit;
+Golden Grapes;
+Gummy Bees;
+Gummy Humongofrog;
+Honey Bombs;
+Honeycrisp Apples;
+King Banana;
+Shiny Tomato;
+Sugar Khrystals;
+Uni-Corn*F2*WMV;
+
+| jewels =
+Big Recovery Opal;
+Cracked Defense Amethyst +12;
+Cracked Defense Citrine +11;
+Cracked Defense Citrine +12;
+Cracked Defense Sapphire +12;
+Drain Opal;
+Fire-Shot Ruby;
+Overtake Opal;
+Polished Critical Amethyst +11;
+Polished Critical Peridot +11;
+Polished Defense Opal +21;
+Polished Defense Ruby +44;
+Polished Mana Opal +40;
+Storm-Boon Amethyst;
+Water Elemental Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Fiery Boom Shroom;
+Saw Palmetto;
+Sugar Khrystal*CR;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

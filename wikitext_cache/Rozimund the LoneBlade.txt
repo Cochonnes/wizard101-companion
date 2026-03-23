@@ -1,0 +1,176 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 15,850
+| crecla = Mantis
+| crecla2 = Insect
+| school = Fire
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Khrysalis
+| location = Sardonyx
+| subloc1 = Rozimund's House
+| descrip =
+
+| speech =
+:''"I suppose you've come for the Tarantula Hawk?  You can't have her!  She's my new pet now.  I've named her Baby Abby.  No, the only person in the wrong here is you, Spellbinder.  You are trespassing.  And for that you must pay!  I don't care if Chaz the WhateverFace was her rightful owner.  She flew into my house, so by rights, she's mine now.  Finder's keepers!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+More like Rozimund the LonelyBlade. She should really get a pet.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts = 
+Amplify;
+Vengeance;
+Glacial Shield;
+Smoke Mantle;
+Fireblade;
+Fire Trap;
+Fuel (+35%);
+Natural Attack (Fire 175-285-400);
+Meteor Strike (355-395);
+Phoenix (600-680);
+Efreet;
+Sun Serpent
+
+| quests = 
+Irregular Creatures;
+
+| gold =
+58 - 71;
+
+| hats =
+
+| robes =
+Mantis Robe of Secrecy*F2;
+
+| boots =
+Burrower Scout's Hoppers*F3*WMV;
+Flame Legs Captain's Boots*F3*WMV;
+
+| athames =
+Blue Razor Hailstone Blade;
+
+| amulets =
+Benzzi's Campaign Memento*F2;
+Collar of the Besieged*F2;
+Hisser's Burning Cleaver;
+
+| rings =
+
+| wands =
+Dirk of Burrower Harmony;
+Halberd of Fulmination;
+Umbra Spear of Suppression;
+
+| decks =
+Case of Engulfing Flames;
+House of the Old Times;
+
+| items =
+Khrysalis Combat Theme 2*F2;
+Khrysalis Hive Combat Theme;
+
+| cards =
+Avenging Fossil;
+Chastisement;
+Clockwork Spider;
+Cycle of Life;
+Doom and Gloom;
+Furnace;
+Galvanic Field;
+Legendary Treant (445);
+Locust Swarm*F2;
+Luminous Weaver;
+O'Leary Swindler;
+Polar Swarm;
+Reliquary;
+Spinysaur*F2;
+Sprite Swarm (40+360)*F2;
+Storm Owl;
+
+| reagents =
+Astral Shard*F6*WMV;
+Black Lotus;
+Bone;
+Bronze Gear*F2;
+Deep Mushroom*F2;
+Fire Blossom*F2*WMV;
+Iron;
+Lava Lily;
+Mist Wood;
+Nickel;
+Ore;
+Orichalcum;
+Red Mandrake;
+Stone Block*F3;
+Sunstone*F2*WMV;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Alligator Pear;
+Bell Pepper Steak;
+Dead Beet Risotto;
+Desparagus Quiche;
+Discord Grape Jelly*F2;
+Evil Magma Soup*F2;
+Key Lime Pie;
+King Parsley Soup;
+Ninja Fig Bars*F2;
+Prickly Bear Punch;
+Stuffed Bell Pepper;
+
+| jewels =
+Fire Cat Ruby;
+Thunder Snake Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Fish on a Vine;
+
+| mounts =
+
+| spells =
+
+}}

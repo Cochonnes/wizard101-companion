@@ -1,0 +1,163 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,640
+| crecla = Thuggie
+| school = Myth
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+3%;
+
+| outboost =
+55%;
+
+| incboost =
+15% Storm;
+
+| incresist =
+30% Myth;
+
+| stunable = Yes
+| beguilable = Yes
+| minion = Thuggie Lieutenant
+| minion2 = 
+| world = Mirage
+| location = Aggrobah
+| subloc1 = Thuggie Salon
+| descrip =
+Two additional {{Link|Creature|Thuggie Goon}}s will appear if more than two Wizards are present.
+
+| spellnotes =
+
+| casts =
+Apologue;
+Reliquary;
+Ether Shield (-75%);
+Mythspear (+10%);
+Mythblade;
+Blinding Light (85%);
+Yellow Troll;
+Natural Attack (Myth 115-230-345, 75%);
+Humongofrog (310-370);
+Minotaur (50+520);
+Orthrus (785);
+Medusa (865);
+
+| quests =
+Home Invasions!;
+
+| gold =
+287 - 431;
+
+| hats =
+Aridian Helm of Reflection;
+Wayfarer's Scirocco Fez;
+
+| robes =
+Armor of the Aridian Sun;
+Rubal Thunder Khalat;
+
+| boots =
+Rubal Babouches of Carnage;
+Rubal Babouches of Renewal;
+
+| athames =
+Viper Edge of Reflection;
+
+| amulets =
+Rubal Locket of Formation*F2;
+
+| rings =
+Rubal Band of Cessation;
+Rubal Seal of Carnage;
+Viper Ring of Dunestorms;
+
+| wands =
+Conscript Tabar of Ague;
+
+| decks =
+
+| items =
+
+| cards =
+Astraphobia;
+Counterforce;
+Katabatic Wind;
+Mutate Bird (Storm);
+Mutate Elf (Ice);
+Mutate Elf (Storm);
+Mutate Phoenix (Sun);
+
+| reagents =
+Ancient Scroll;
+Antique Coins;
+Black Pearl;
+Bronze Gear;
+Cobalt*F2;
+Scales*F2;
+Spring;
+
+| snacks =
+Beetle Cream Soda*F2;
+Chalupacabra;
+Chili Cheese Fries;
+Chili Peppers;
+Delicious Cookie;
+Eye Candy*F2*WMV;
+Gourmet Yogurt;
+Green Tomato;
+Satyr Chow;
+Ships 'n' Queso;
+Submarine Sandwich;
+Veggie Juice*F2;
+Wheat Cracker;
+
+| jewels =
+Epic Opal;
+Lustrous Accurate Onyx +11%;
+Lustrous Blocking Peridot +13;
+Lustrous Blocking Ruby +13;
+Lustrous Critical Ruby +13;
+Lustrous Mana Opal +41;
+Shiny Blocking Onyx +16;
+Shiny Blocking Peridot +16;
+Shiny Health Opal +113;
+Shiny Mana Opal +45*F2;
+Shiny Mana Opal +47;
+
+| pets =
+
+| seeds =
+Baby Carrots*F2;
+Bamboo Shoots;
+Blue Huckleberries;
+Boiled Peanuts;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Cornbread Fruit Bush*F2;
+Couch Potatoes*CR*F2;
+Dandelion;
+Deadly Fly Trap;
+Face Palm;
+Fickle Pickle;
+Fish on a Vine*F2;
+Frozen Fly Trap;
+Grapes of Wrath*CR;
+Helephant Ears;
+Ivy League*CR;
+Pink Huckleberries;
+Pink Laugh-O-Dil;
+Purple Grapes of Wrath;
+Red Bell Pepper;
+Red Couch Potatoes;
+Red Grapes of Wrath;
+Red Huckleberries;
+Rye Bread Fruit Bush;
+Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+}}

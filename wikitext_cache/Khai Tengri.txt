@@ -1,0 +1,137 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,435
+| crecla = Samoorai
+| school = Fire
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice;
+
+| incresist =
+35% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Student of Khai;
+
+| world = MooShu
+| location = Jade Palace
+| subloc1 = Khai Tengri's Dojo
+| descrip =
+Diviners must defeat Khai Tengri during the Quest, ''Dig It (Storm)'', in order to receive their Level 58 Spell, {{Link|Spell|Leviathan}}.
+*This Boss is not repeatable.
+*This Boss is located in a solo dungeon. Other Wizards will not be able to port into the dungeon.
+
+| speech =
+:''Who disturbs me in the midst of my snack? A Wizard? I'll have you for dessert!''
+
+| cheatnotes =
+*''"A Charm! Let's even the playing field!"'' - Casting a Blade will cause him to interrupt-cast a {{Link|Spell|Hex (+35%)}} on the Wizard who cast it.
+**Global Spells will trigger this cheat, but Aura Spells will not.
+**Pet Spells will not trigger this cheat.
+*''"A ward! Let's even the playing field!"'' - Casting a Trap (including Feint) or a Shield will cause him to interrupt-cast a '''Hex (+35%)''' on the Wizard who cast it.
+**The text for this cheat only appears after Khai casts the Hex.
+
+| spellnotes =
+
+| casts =
+Fireblade;
+Fire Trap;
+Fire Shark;
+Meteor Strike;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+
+| quests =
+Dig It (Storm);
+
+| gold =
+72 - 84;
+
+| hats =
+Insightful Topper;
+Synthesis Cover;
+Thundercloud Coif;
+
+| robes =
+Salgio's Tinder Cloak;
+Storyteller's Tunic;
+Turbulent Tunic;
+Whimsical Surcoat;
+
+| boots =
+Boots of Catastrophe;
+Boots of Celestian Totality;
+Frostbit Footguards;
+Versatile Celestian Boots;
+Virtue Shoes;
+Wraps of Rapport;
+
+| athames =
+Kris of the Piscean Guard;
+
+| amulets =
+
+| rings =
+Combustible Band;
+Majestic Signet;
+Ring of Rare Origins;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Empower*F3;
+Gargantuan*F2*WMV;
+Unstoppable*F2;
+
+| reagents =
+Bronze;
+Tin*F2*WMV;
+
+| spellements =
+
+| snacks =
+Glowing Taffy;
+
+| jewels =
+Dull Damage Citrine +14;
+Dull Defense Sapphire +28;
+Mass Death Prism Onyx;
+Musical Lane Opal;
+Plain Blocking Sapphire +6;
+
+| pins =
+
+| pets =
+
+| seeds =
+Silver Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+}}

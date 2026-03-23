@@ -1,0 +1,262 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 17,560
+| crecla = Draconian
+| school = Storm
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Lyon Lorestriker (Minion);
+
+| world = Wysteria
+| location = Pegasus Place
+| subloc1 = Tower of the Helephant
+| badge = Liberator of the Helephant
+| descrip =
+Lyon Lorestriker is the final Boss of Tower of the Helephant, who has stolen the mystical Heart of the Helephant and imprisoned within it the soul of Kogasha, who is enthralled to serve as Lyon's guardian.
+
+| speech =
+:''"Is that you, Kogasha? Oh, it is a mere thief, come to steal my power. With the power of the Helephant, I will make short work of you. But Kogasha, hear me now! You failed me as a guardian. For that you will suffer, once I have dealt with this trespass!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+He has the power to pluck stellar beings from the skies. And that was before he had the Heart of the Helephant!
+
+| extract class =
+Draconians;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+{{Icon|Minion}} '''Minion Cycle:'''
+*''"Welcome to the party!"'' - At the end of every Round, he will summon one Lyon Lorestriker (Minion) starting with 1,200 Health.
+**''”Friends, stay a bit longer!”'' - If Lyon has 50% or less of his total health remaining, the new minions summoned start with 2,000 Health and an extra Power Pip. Any existing minions will not be replaced until they are defeated.
+**Rarely, Lyon Lorestriker may summon multiple minions, or not summon a minion at all.
+**''"Tsk tsk. Another friend for you!"'' - Lyon Lorestriker will summon an additional minion during the same round if the Wizard casts any following spells:
+***If a Wizard uses a Heal Over Time spell (e.g. Regenerate, Sprite), he will cast a Life Spell that removes the HoT on the Wizard who received it.
+****Pet spells do not trigger this cheat.
+****{{Link|Spell|Availing Hands}} does not trigger this cheat.
+***If a Trap or Prism is placed on him, he will use {{Link|Spell|Cleanse Ward}}.
+****Multi-target Traps or Prisms such as {{Link|Spell|Windstorm}} and {{Link|Spell|Mass Storm Prism}} do not activate this cheat.
+****This cheat can be avoided using {{Link|Spell|Indemnity}} or {{Link|Spell|Vaporize}}.
+**{{Icon|Ice}} ''"Crowds just warm my icy heart!"'' - Once Lyon Lorestriker acquires three minions, he will cast a version of {{Link|Spell|Blizzard}}  dealing '''750-790''' Ice Damage at the beginning of every Round.
+**''"We need a bigger crowd!"'' - If all Minions are defeated, he will once again summon them at the end of each Round.
+
+| spellnotes =
+
+| casts =
+Stormblade;
+Storm Trap;
+Wild Bolt;
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Tempest;
+Natural Attack (Fire 100x);
+
+| quests =
+Tower of the Helephant;
+The Helephant's Heart;
+
+| gold =
+238 - 584;
+
+| hats =
+Absolute Zero Brim*CR;
+Corrupt Cover;
+Epic Helmet;
+Frostbit Mantle*F2;
+Fuming Hat*F3;
+Headdress of the Heart;
+Persistent Helmet*F3;
+Riddled Hood;
+Shroud of Cinders;
+Shroud of the Storm Star*F2;
+Steady Helmet;
+Thundercracked Cover;
+Tinder Topper;
+Turbulent Topper*F2;
+Wintergale Headwrap;
+
+| robes =
+Armor of Celestian Totality*F8;
+Brimstone Tunic*F2;
+Celestian Abyss Armor;
+Chilled Clothing*F2;
+Corrupt Jerkin*F2;
+Diamond Dust Drape*F2;
+Drape of Dissonance;
+Everlasting Celestian Armor;
+Forbidden Costume*F3*WMV;
+Iced Outfit;
+Raiment of Resolution;
+Rain Dance Raiment;
+Versatile Celestian Armor*F2;
+Vital Vestment*F2;
+Whispering Raiment;
+
+| boots =
+Chilled Clogs;
+Corrupt Deathstriders;
+Curious Clogs*F2;
+Iced Boots;
+Inspired Shoes;
+Medley Mukluks;
+Menacing Stalkers;
+Merry Mukluks;
+Mystifying Footgear;
+Runners of Resolution;
+Sub Zero Shoes;
+Whispering Runners;
+Wraps of Rapport;
+
+| athames =
+Curing Claw*F2;
+Dagger of Redemption*F3*WMV;
+Dirk of the Dragon*F3;
+Engineer's Knife;
+Stellar Shortblade;
+
+| amulets =
+Balance Mastery Amulet*CR;
+Fire Mastery Amulet*CR;
+Ice Mastery Amulet*CR;
+Jewel of the Dragons*F2;
+Life Mastery Amulet*CR*F2*WMV;
+Myth Mastery Amulet*CR;
+Scorched Talisman*F3*WMV;
+Storm Mastery Amulet*CR*F2*WMV;
+
+| rings =
+Aureate Band*F13;
+Piscean Ring*F2*WMV;
+Ring of Reasoning*F2*WMV;
+Ring of Redemption;
+Signet of Shivers;
+Volatile Ring;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Balefrost;
+Dark Sprite;
+Darkwind*F3*WMV;
+Donate Power*F2;
+Doom and Gloom*F3*WMV;
+Dragonflies*F2;
+Fire Cat;
+Fire Shield;
+Fortify*F2;
+Frost Beetle;
+Imp;
+Keen Eyes*F3;
+Minotaur;
+Mutate Snowman (Fire);
+Mutate Snowman (Storm)*F2;
+Pest Zapper*F2;
+Pixie;
+Sanctuary;
+Storm Shield;
+Strong*F2;
+Tough;
+Wyldfire*F4;
+
+| reagents =
+Amber Dust;
+Brass*F5;
+Cobalt*F7;
+Draconium;
+Merle's Whisker;
+Nickel*F6;
+Orichalcum;
+Steel;
+Tin*F4;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F4;
+Delicious Cookie*F3;
+Flapjacks;
+Glowing Star Fruit*F2;
+Glowing Taffy*F3;
+Hambrosia;
+Spicy Drumstick*F4;
+Strawberry Cupcake*F3*WMV;
+Submarine Sandwich*F3*WMV;
+
+| jewels =
+Balance-Eye Citrine;
+Buff Minion Talent Peridot;
+Dimension Shift Peridot;
+Dull Blocking Citrine +4;
+Dull Blocking Onyx +4;
+Dull Blocking Ruby +4;
+Dull Blocking Sapphire +4;
+Dull Damage Onyx +13;
+Earthquake Peridot;
+Effective Opal;
+Giant Talent Opal;
+Helephant Ruby;
+Hydra Citrine;
+Mega Hurry Opal;
+Rugged Opal;
+Sanctuary Jade;
+Steadfast Opal; 
+Storm-Giver Amethyst;
+Super-Sap Opal*F2;
+Wraith Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2;
+Maelstrom Snap Dragon*F2;
+Pink Dandelion*CR*F4;
+Silver Trumpet Vine*CR*F3;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

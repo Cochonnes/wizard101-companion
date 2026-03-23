@@ -1,0 +1,97 @@
+{{Test|feb26}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 15,000
+| crecla = Fish
+| school = Ice
+| cheats = yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Ice;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = yes
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Hidden Temple Gauntlet
+| subloc1 = 
+| descrip =
+
+| speech =
+
+| cheatnotes = 
+*{{Icon | Shield}} ''"Shields of Life up from the Blue Baracudas. What will our heroes do?"'' - At the beginning of the first round, Blue Batacuda will put three -200% Tower Shields on itself.
+** All three shields reapply themselves 3 rounds after their destruction.
+
+| spellnotes =
+
+| casts =
+Weakness;
+Iceblade;
+Ice Trap;
+Evil Snowman (Tier 5b);
+Colossus;
+Lord of Winter (Tier 5a);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

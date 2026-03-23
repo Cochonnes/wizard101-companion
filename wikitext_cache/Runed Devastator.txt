@@ -1,0 +1,164 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 5,200
+| crecla = Elemental
+| crecla2 = Colossus
+| crecla3 = Golem
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Myth;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Rubble Reaver;
+
+| world = Grizzleheim
+| location = Hall of Valor
+| subloc1 = 
+| descrip = 
+The Runed Devastator (spelled "Dev'''e'''stator" in-game) is a side Boss in the Hall of Valor, found in a room to the left of the entrance. As with {{Link|Creature|Frithir}}, some Minions may need to be defeated first to clear access to the Boss himself.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+It's so devastating, even it's own name couldn't survive unscathed.
+
+| extract class =
+Colossus;
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Myth Shield;
+Weakness;
+Sprite;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Shark;
+Kraken;
+Stormzilla;
+Tempest;
+Vampire;
+Natural Attack (Myth 95x);
+Heck Hound;
+
+| quests =
+
+| gold =
+70 - 97;
+
+| hats =
+Cap of Equilibrium;
+Cap of the Stratosphere;
+Curative Coif;
+Frostwoven Hood;
+Hoarfrost Hat*F2*WMV;
+Mortal Veil;
+
+| robes =
+Gelid Garments;
+Harbinger's Smock;
+Postulant's Smock*F2;
+Robe of the Nereid;
+Thermic Longcoat;
+
+| boots =
+Footgear of the Undertow;
+Footwraps of the Efreet;
+Footwraps of the Icedrake*F4*WMV;
+Footwraps of Patience;
+Frigid Footwear;
+Iceclaw Boots;
+Slippers of the Seer;
+Telluric Striders;
+
+| athames =
+Mending Athame;
+
+| amulets =
+
+| rings =
+Frostbright Loop*F4*WMV;
+Living Loop*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Heavy Dining Table*F3*WMV;
+Heroic Runestone;
+Standing Sconce;
+
+| cards =
+Wyldfire;
+
+| reagents =
+Bronze Gear*F2*WMV;
+Ectoplasm*F3*WMV;
+Nickel;
+
+| spellements =
+
+| snacks =
+Arrow Root;
+Cow Pie;
+Glowing Rock Candy*F2*WMV;
+Grilled Cheese;
+Meat Soup;
+Moon Pie;
+Tasty Biscuit*F2*WMV;
+Tiki Banana;
+Wormy Apple;
+
+| jewels =
+Balefrost Sapphire;
+Donate Power Citrine;
+
+| pins =
+
+| pets =
+Silver Colossus;
+
+| seeds =
+Pink Dandelion*CR;
+Rye Bread Fruit Bush*F2;
+
+| mounts =
+
+| spells =
+
+}}

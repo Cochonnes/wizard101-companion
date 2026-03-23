@@ -1,0 +1,110 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 17,780
+| crecla = 
+| school = Ice
+| school2 = Death
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Ice;
+Myth;
+Death;
+
+| critical =
+Ice, Death;
+
+| criticalblock =
+Any;
+
+| outpierce =
+26%;
+
+| outboost =
+165% Ice, Death;
+
+| incboost =
+None;
+
+| incresist =
+0% Moon;
+55% Fire, Ice, Storm, Myth, Life, Death, Balance, Sun, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Novus
+| location = Doom Moon
+| subloc1 = Invading Fleets (Challenge)
+| descrip =
+Polarian Naval Fleet is considered a Minion to [[Creature:Valencian Naval Fleet (Challenge)|Valencian Naval Fleet]]. All drops and cheats are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Tres Powerful;
+Grave Blade;
+Iceblade (+40%);
+Deathblade (+40%);
+Disarm (Ice);
+Evil Snowman (Tier 5b);
+Count Croakula (Tier 3a);
+Deathly Depths (Tier 3b);
+Banshee (Tier 5b);
+Wobbegong Frenzy (Tier 3a);
+Vampire (Tier 5b);
+Skeletal Pirate (Tier 5b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Polarian Naval Fleet
+
+}}

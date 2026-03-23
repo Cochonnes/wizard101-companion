@@ -1,0 +1,173 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,130
+| crecla = Crab
+| school = Death
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Life;
+
+| incresist =
+70% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Brulee Sucre (Tier 4);
+
+| world = Housing Instance
+| location = Grand Tourney Arena
+| subloc1 = Grand Tourney Arena (Tier 4)
+| descrip =
+
+| speech =
+:'''Sir Claudas D'Agrodolce:'''
+:''"My companion is the deadly wyrm, Brulee Sucre, Wizard. We will steam you and crisp you and broil you and deglaze what remains! And then the Duchess Blackthorn will fall under my power, and all will fear to break the bread with me!"''
+
+:'''Brulee Sucre:'''
+:''"I smell the heady spices of fear, anxiety, bitterness, and discontent. Delicious."''
+
+| cheatnotes =
+'''Sir Claudas D'Agrodolce:'''
+
+*{{Icon|Blade}} ''"I'll give a little to sharpen my blade!"'' - Claudas will cast {{Link|Spell|Dark Tribute}}.
+*{{Icon|Manipulation}} ''"I'll give a lot to get an edge on you!"'' - Claudas will cast {{Link|Spell|Empower}}.
+*{{Icon|Damage}} ''"We are in this together, yes? Give me your health!"'' - When Claudas is attacked, he will use {{Link|Spell|Steal Health}} on Brulee Sucre (Tier 4).
+
+'''Brulee Sucre:'''
+*{{Icon|Blade}} ''"My wyrm sight will guide you!"'' - Whenever Claudas uses a Blade, Brulee Sucre (Tier 4) will cast {{Link|Spell|Guidance}}.
+*{{Icon|Absorb}} ''"Hiss! I encase myself in armor!"'' - Brulee will cast {{Link|Spell|Spirit Armor}} after taking damage.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Death Damage.
+
+| casts =
+Berserk;
+Virulent Plague;
+Deathblade;
+Dark Tribute;
+Empower;
+Deer Knight;
+Poison;
+Skeletal Dragon;
+
+| quests =
+Hedging Bets;
+
+| gold =
+38 - 114;
+
+| hats =
+Mask of the Faerie Court (Level 60+)*CR;
+Mask of the Faerie Court (Level 70+)*CR;
+World's Fool Mask (Level 60+)*CR;
+World's Fool Mask (Level 70+)*CR*F2;
+
+| robes =
+
+| boots =
+Faerie Court Boots (Level 70+)*CR;
+Pixie's Enchanted Boots (Level 60+)*CR;
+Pixie's Enchanted Boots (Level 70+)*CR;
+World's Fool Boots (Level 70+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Avalon Main Theme;
+Ceara Ashbury Bobblehead;
+Crystal Ball;
+Floor Brazier;
+Grandfather Clock;
+King Artorius Bobblehead;
+Open Burned Book;
+
+| cards =
+Frost Giant;
+
+| reagents =
+Aether;
+Aquamarine;
+Brass;
+Cobalt;
+Grendelweed*F2;
+Lava Lily;
+Nickel;
+Scrap Iron;
+Spring;
+Steel*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Asparagus Spears*F3;
+Bearberry;
+Bog Witch Beetroot;
+Caliburnt Toast;
+Chocolate Comet*F2;
+Crab Knight Cakes*F3;
+Crystal Custard*F2;
+Deepwater Toffee;
+Muscle Sprouts;
+Ogre Meanies;
+Pixie Parsnips*F2;
+Pomegranite;
+Shepherd's Crook Pie;
+Toad in the Hole*F2;
+Wormy Apple;
+Wyrmy Apple;
+
+| jewels =
+Colossus Opal;
+Mass Storm Prism Amethyst;
+Plaguebringer Onyx;
+Plain Blocking Jade +6;
+Plain Damage Ruby +15;
+Plain Defense Opal +16;
+Reshuffle Citrine;
+Sap Health Talent Citrine;
+Tower Shield Sapphire; 
+
+| pins =
+
+| pets =
+Forest Beast;
+Seraph*CR;
+Snow Beast*F2;
+
+| seeds =
+Cornbread Fruit Bush;
+Red Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,285 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 19,470
+| crecla = Undead
+| school = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+40%;
+
+| outboost =
+
+| incboost =
+20% Life;
+
+| incresist =
+50% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| randomminions =
+Darkmoor Serf;
+Darkmoor Gargoyle;
+
+| totalminions = 3
+| world = Wizard City
+| location = Castle Darkmoor (Location)
+| subloc1 = Upper Halls
+| descrip =
+
+| speech =
+:''"Remarkable, to say the least, that you have made it this far. Truly remarkable. This is a repository of learning, foolish Seeker. I shall document every one of your cries and whimpers for future generations. I will destroy you and prove to Malistaire that I am worthy of his boon. To have my true love restored to me, for us to live in bliss."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+Rightful Lord of Castle Darkmoor, this vampiric noble hates the living, but he sure does love a good murder gauntlet.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Feint}} ''"I can see through you!"'' - If {{Link|Spell|Feint}} is cast on Shane von Shane, then he will interrupt-cast {{Link|Spell|Dark Pact (+30%)}} on himself.
+**{{Link|ItemCard|Mass Feint}} does not trigger this cheat.
+**The Balance version of {{Link|ItemCard|Feint}} does not trigger this cheat.
+*{{Icon|Curse}} ''"I will not bow down to you!"'' - If a harmful Charm is cast on Shane von Shane, then he will interrupt-cast {{Link|Spell|Sacrifice (Death)}} on himself.
+**All-enemies harmful Charms such as {{Link|Spell|Plague}} do not trigger cheat.
+*{{Icon|Heal}} ''"More life for me!"'' - If a Wizard casts a Healing Spell, then Shane von Shane will interrupt-cast a version of {{Link|Spell|Vampire}} that deals '''1,050''' Death Drain Damage and returns half Health to the caster.
+**Pet Maycast Heals will trigger this cheat.
+**This cheat will not trigger for [[Spell:Monster Mash (1,170)|Beguiled]] Wizards.
+
+{{Icon|Death}} '''Interrupt Cycle:'''
+*''"We feast tonight!"'' - At the beginning of the second Round in this cycle, Shane von Shane will interrupt-cast a version of Vampire that deals '''1,050''' Death Drain Damage to a random Wizard and returns half Health to the caster.
+*''"The monster begins to rise!"'' - At the beginning of the third Round in this cycle, Shane von Shane will interrupt-cast a version of [[Spell:Dr. Von's Monster (900)|Dr. Von's Monster]] that deals '''900''' Death Drain Damage to a random Wizard and returns half Health to the caster.
+*''"It's a graveyard smash!"'' - At the beginning of the fourth Round in this cycle, Shane von Shane will interrupt-cast a version of [[Spell:Monster Mash (1,170)|Monster Mash]] that deals '''1,170''' Death Damage to and {{Link|Spell|Beguile}}s a random Wizard.
+**This cheat repeats at the beginning of every Round until this cycle is reset.
+**A wizard joining late will trigger an additional cycle starting at vampire, activating an additional cheat in the same cycle for extra wizards joining late.
+'''Cycle Reset:'''
+:*''"Hiss!"'' - If Shane von Shane is damaged at any point during the above interrupt cycle, then he will reset back to the start of the cycle.
+::*Damage over Time effects will reset this cycle.
+::*[[:Category:Steal Spells|Steal Spells]] will not reset this cycle.
+::*[[:Category:Manipulation Spells|Manipulation Spells]] that have Damage-dealing effects, such as {{Link|Spell|Mana Burn}} and {{Link|Spell|Supernova}}, will not reset this cycle.
+
+| spellnotes =
+
+| casts =
+Virulence;
+Dream Shield;
+Deathspear;
+Infection;
+Mass Infection;
+Deathblade (+40%);
+Curse;
+Feint;
+Doom and Gloom;
+Age of Reckoning;
+Natural Attack (Death 110-215-425);
+Lord of Night;
+Call of Khrulhu;
+Scarecrow;
+Dr. Von's Monster;
+Avenging Fossil;
+
+| quests =
+Ghosts of the Past;
+
+| gold =
+155 - 480;
+
+| hats =
+Brimstone Helm of Darkmoor;
+Darkmoor Barbut of Delusion;
+Darkmoor Helmet of Shivers*F2*WMV;
+Darkmoor Herald's Mantle;
+Depths of Darkmoor Cover*F3*WMV;
+Helm of the Living Dead*F2;
+Raging Blackwater's Helm*F2*WMV;
+
+| robes =
+Darkmoor Armor of Delusion;
+Darkmoor Armor of Shivers;
+Plate of the Living Dead*F4*WMV;
+Raging Blackwater's Plate*F2*WMV;
+
+| boots =
+Brimstone Boots of Darkmoor;
+Darkmoor Boots of Delusion;
+Herald of Darkmoor's Shoes;
+Raging Blackwater's Boots;
+Sabatons of the Living Dead*F2;
+
+| athames =
+
+| amulets =
+Amulet of Neverwhere*F2;
+Brimstone Torc of Darkmoor;
+Death Seeker's Talisman*F2;
+FlyGob's Medallion*F2;
+Spirit of Darkmoor's Jewel*F2;
+Talisman of the Daystar;
+Travelling Dead's Charm*F4;
+Universal Memento*F2;
+Vial From the Fetid Lagoon;
+
+| rings =
+Signet of the Howling Wolf;
+
+| wands =
+Bludgeon of the Dark Skies*F3*WMV;
+Mace of the Dark Flame*F3*WMV;
+Mace of the Outer Void*F2*WMV;
+Mace of the Undying*F2*WMV;
+Morning Star of Kan Davasi;
+Morning Star of Misery*F2;
+Virge of the Bitter Ghost*F2*WMV;
+
+| decks =
+Arcana of Kan Davasi*F2*WMV;
+Cards of the Blue Ague;
+Darkmoor's Brimstone Deck;
+Darkmoor's Case of Scrutiny;
+Deck of Unchecked Passion;
+Thunderous Darkmoor Hand;
+Von Shane's Hand of Doom;
+
+| items =
+
+| cards =
+Avenging Fossil*F3*WMV;
+Banshee*F2;
+Black Cat;
+Catalan;
+Celestial Calendar*F3*WMV;
+Chastisement;
+Cycle of Life*F2*WMV;
+Dr. Von's Monster*F3*WMV;
+Furnace;
+Galvanic Field;
+Goat Monk;
+Handsome Fomori;
+Hex*F2;
+Keeper of the Flame;
+Lady Blackhope*F3*WMV;
+Lord of Winter;
+Plague*F5*WMV;
+Poison*F3*WMV;
+Punishment*F2*WMV;
+Reliquary;
+Savage Paw*F2*WMV;
+Skeletal Dragon*F2*WMV;
+Sleet Storm*F5*WMV;
+Spinysaur*F2;
+Storm Owl*F3*WMV;
+Sun Serpent;
+The Bonekeeper;
+Vampire;
+Virulence*F2;
+Winter Moon*F2;
+
+| reagents =
+Amber;
+Astral Shard*F3*WMV;
+Black Lotus*F3*WMV;
+Black Pearl*F2*WMV;
+Blood Moss*F4*WMV;
+Bone*F5*WMV;
+Brass;
+Bronze Gear*F3*WMV;
+Cobalt;
+Deep Mushroom*F5*WMV;
+Fire Blossom*F5*WMV;
+Fossil*F3;
+Golden Pearl*F3;
+Lava Lily*F6*WMV;
+Mist Wood*F8*WMV;
+Nightshade*F7*WMV;
+Ore*F6*WMV;
+Orichalcum;
+Red Mandrake*F4*WMV;
+Silver;
+Steel;
+Stone Block*F6*WMV;
+Sunstone*F2;
+Turquoise*F2;
+
+| spellements =
+
+| snacks =
+Boom Stroganoff*F3*WMV;
+Bread Fruit Fruit*F2;
+Cold Snap Peas*F5*WMV;
+Cornbread Fruit*F2*WMV;
+Desparagus Salad*F4*WMV;
+Granny Snow Apple*F2*WMV;
+Gummy Bees;
+Honeycombs;
+Honeycrisp Apples;
+HoneyDon't Melon*F3*WMV;
+Huckleberry Pie*F2;
+Rye Bread Fruit;
+Snow Apple Pie*F2*WMV;
+Sugar Khrystals;
+Wrath's Grape Juice*F4*WMV;
+
+| jewels =
+Add Health Opal;
+Balance-It Citrine;
+Boss Toad Peridot;
+Clear Damage Amethyst +20;
+Clear Damage Ruby +20;
+Clear Defense Onyx +40;
+Curse Giver Onyx;
+Disarmament Amethyst;
+Energy Opal;
+Freddo Sapphire;
+Polished Blocking Opal +6;
+Polished Critical Amethyst +12;
+Polished Critical Opal +6;
+Polished Critical Peridot +12;
+Polished Piercing Hematite +6%;
+Polished Piercing Sapphire +6%;
+Rugged Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Blue Huckleberries*F2;
+Fiery Boom Shroom*F2;
+Frozen Fly Trap*F3*WMV;
+Honey Bee Plant*F2;
+Red Huckleberries;
+Saw Palmetto;
+
+| mounts =
+
+| spells =
+
+}}

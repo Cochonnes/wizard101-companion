@@ -1,0 +1,198 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 2,225
+| crecla = Spider
+| school = Balance
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Myth, Life, Death;
+
+| incresist =
+40% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Chelicaran Stalker;
+Chelicaran Stalker;
+Chelicaran Stalker;
+
+| world = Wysteria
+| location = Pegasus Place
+| subloc1 = Tower of the Helephant
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+A species known for its pincers. They're strong enough to pince steel.
+
+| extract class =
+Spider;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Ice Damage.
+
+| casts =
+Elemental Shield;
+Balanceblade;
+Elemental Blade;
+Hex;
+Elemental Trap;
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Judgement;
+
+| quests =
+
+| gold =
+133 - 149;
+
+| hats =
+Cowl of Creation*F4;
+Grim Helmet;
+Hood of Dissonance;
+Icestar Cover;
+Maelstrom Mask*F4*WMV;
+Mercurial Mantle;
+Mythical Mantle;
+Rising Tide Topper;
+Rumbling Cover;
+Secret Mask;
+Shroud of Solitude;
+Wintertide Topper;
+
+| robes =
+Arcane Outfit;
+Frostbit Jerkin;
+Innate Tunic*F3;
+Insightful Cloak;
+Longcoat of Long Life*F2;
+Rising Tide Raiment;
+Tunic of Tolerance;
+Wretched Jerkin*F2;
+
+| boots =
+Cinder Striders;
+Examiner's Boots;
+Festive Footwear;
+Frost Giant's Footguards;
+Grim Greaves;
+Innate Striders;
+Scorched Footguards;
+Storied Stalkers;
+Vile Boots*F2;
+
+| athames =
+Edge of Equality;
+Edge of Essence*F2*WMV;
+Supreme Stiletto;
+Wave Cutter;
+
+| amulets =
+Jewel of the Feint*F3*WMV;
+Spectral Choker*F2;
+
+| rings =
+Circle of Squalls;
+Eye of Insight;
+Forsaken Signet*F2*WMV;
+Ring of Memories*F2;
+Swirling Signet;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Balefrost*F3;
+Banshee;
+Darkwind*F3;
+Donate Power*F3*WMV;
+Doom and Gloom*F2;
+Evil Snowman;
+Minotaur;
+Mutate Snowman (Fire);
+Mutate Snowman (Storm);
+Precision*F2;
+Sniper;
+Storm Shark*F2*WMV;
+Tempest;
+Wyldfire*F3*WMV;
+
+| reagents =
+Brass;
+Cobalt;
+Nickel;
+Steel*F2*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F3;
+Delicious Cookie*F2;
+Flapjacks;
+Glowing Star Fruit;
+Glowing Taffy;
+Spicy Drumstick;
+Strawberry Cupcake;
+Submarine Sandwich*F2;
+
+| jewels =
+Big Recovery Opal;
+Blade of Ice Sapphire;
+Dull Critical Jade +3;
+Dull Critical Ruby +3;
+Empowerment Talent Opal;
+Keen Eyes Talent Opal;
+Life-Away Jade;
+Lock Opal;
+Myth-Shot Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2;
+Maelstrom Snap Dragon*F2;
+Pink Dandelion*CR*F2;
+Silver Trumpet Vine*CR;
+White Tiger Lily*F2;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,203 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 16,760
+| crecla = Shadow Weaver
+| school = Storm
+| masteries =
+Death;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Shadow Weaver Prowler;
+
+| world = Azteca
+| location = Alto Alto
+| subloc1 = Calmecac Library
+| descrip =
+Two additional Shadow Weaver Glider Minions appear if more than two Wizards are present.
+
+| speech =
+:''"By the darkest corners of the Spiral, and the sounds men cannot hear, it is the Shadowblight of Wizard City! Yes, I've been catching up on my reading in my spare time. Why do you ask?"''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Virulent Plague;
+Stormblade;
+Curse;
+Feint;
+Natural Attack (Storm 205-410-615);
+Catalan;
+Leviathan;
+Storm Owl;
+Tempest (85);
+Wraith (575);
+
+| quests =
+Bookpeople;
+
+| gold =
+75 - 275;
+
+| hats =
+
+| robes =
+Black Sun Chac's Armor;
+Grinning Death Xicolli Vest*F2;
+Keeper of the Codex Vest;
+Lord of Night Robes;
+Philososaur's Robes*F2*WMV;
+Vestment of the Hungry Lizard;
+
+| boots =
+Black Tears of Night Wraps*F2;
+Elite Jura Guard Stalkers*F4*WMV;
+Five Fangs of Fury Boots*F2;
+Heart of Sky Boots;
+Indigo Wing Striders*F2;
+Storm Owl's Favored Trackers*F2*WMV;
+Tree of Secrets Chac Runners*F3*WMV;
+Twisted Fang Boots*F3*WMV;
+
+| athames =
+Moon Skull's Blessed Edge;
+Talon of the Storm Owl;
+Thunder Horn's Rough Cutter;
+Wild Wing's Glorious Razor;
+Winged Tooth Knight's Hook;
+
+| amulets =
+Courage Charm of Jade Wings;
+Golden Head of the Cold House*F2;
+Speaking Water Ornament*F2*WMV;
+Thunder Horn's Coral Charm;
+
+| rings =
+Bleeding Sun Warrior's Loop;
+Chac's Challenge Loop;
+Mother Moon's Count Ring;
+Seal of Thunder Horn's Glory;
+Storm Quetzal's Signet;
+Twin Giants Fashioned Stone*F2;
+
+| wands =
+New Moon Lance;
+Spear of Breaking Dawn*F2;
+Talon of the Storm Owl;
+
+| decks =
+Calendar of the Spiral King;
+King's Royal Portraits*F5*WMV;
+Lords of Night Pyramid Deck*F2*WMV;
+
+| items =
+Azteca Apocalypse Theme;
+Azteca Main Theme;
+Azteca Pot;
+Bird Head Mount*F3*WMV;
+Clothesline;
+Pathfinder;
+Starburst Frond;
+
+| cards =
+Colossal*F2;
+Extraordinary*F2*WMV;
+Gnomes!;
+Mend;
+Potent Trap;
+Primordial;
+Sharpened Blade*F3;
+Sirens*F2*WMV;
+
+| reagents =
+Black Lotus;
+Black Pearl*F2*WMV;
+Blood Moss;
+Bone*F3;
+Bronze;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F6*WMV;
+Fire Blossom*F3*WMV;
+Fossil;
+Golden Pearl;
+Lava Lily*F4*WMV;
+Mist Wood*F2*WMV;
+Nightshade;
+Ore*F3;
+Red Mandrake*F6*WMV;
+Silver;
+Steel*F2;
+Stone Block*F3*WMV;
+Sunstone*F2;
+Tungsten*F4*WMV;
+Turquoise*F5*WMV;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate*F2*WMV;
+Dr. Jalapeno;
+Glowing Star Fruit*F2*WMV;
+Guava;
+Gummy Wyrms;
+Jelly Baby;
+Maize*F3*WMV;
+Pterotomatoes*F2*;
+Quetzal Pretzel;
+Rex Tea;
+Shiny Tomato;
+Stego Waffles;
+Zocalo Wings*F2;
+
+| jewels =
+Big Energy Opal;
+Ice-Proof Sapphire;
+Mega-Boost Opal;
+Polished Damage Jade +21;
+Polished Damage Ruby +21;
+Polished Health Opal +87;
+Take Power Ruby;
+Troll Minion Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Burning Snap Dragon;
+Fiery Boom Shroom;
+Fish on a Vine*F3*WMV;
+Pink Huckleberries;
+Red Huckleberries;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

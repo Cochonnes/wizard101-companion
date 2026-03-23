@@ -1,0 +1,173 @@
+{{Stub|clarification for conditions on the ''Trap and Blizzard'' cheat note.}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 14,400
+| crecla = Yeti
+| school = Ice
+| masteries =
+Storm;
+
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+25% Myth;
+35% Fire;
+
+| incresist =
+40% Storm;
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Rabid Wildclaw (Tier 4);
+Untamed Wildclaw (Tier 4);
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 4)
+| descrip =
+For the purpose of drops, Jokul (Tier 4) is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+:''"You smell like wet bear. You are the one who defeated Wretched Elexorien and her spawn, Tyrfing? My master, Eirikur Axebreaker, is not pleased. I'll rain blows of fury upon you, and snatch your spirit for the great wyrm!"''
+
+| cheatnotes =
+*{{Icon|Damage}} If Jokul (Tier 4) is hit for ~2,000 Damage, he may cast an Ice Trap on all Wizards, then use a version of Blizzard, dealing '''400-500''' Ice Damage.  ''Needs verification for conditions.''
+*{{Icon|Trap}}{{Icon|Jinx}} If a Trap or Prism is cast on Jokul (Tier 4), he will cast '''{{Link|Spell|Cleanse Ward}}''' on himself.
+**Mass Traps and Mass Prisms do not trigger this cheat.
+**{{Link|Spell|Vaporize}} can dispel this cheat.
+
+| spellnotes =
+
+| casts =
+Sleet Storm;
+Tower Shield;
+Iceblade (+40%);
+Elemental Blade (Ice-Storm);
+Ice Trap (+35%);
+Balefrost;
+Blizzard;
+Ice Helephant;
+Colossus (525-605);
+Ice Hound (7 Pip);
+Natural Attack (Ice 233-1,810);
+Stormzilla;
+Storm Lord;
+
+| quests =
+Hall of the Bear;
+
+| gold =
+156 - 304;
+
+| hats =
+
+| robes =
+Ravenking's Battle Story Armor (Level 70+)*CR;
+
+| boots =
+Unkind Winter Boots (Level 70+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Dewberries;
+Felled Birch Tree;
+Leaf-Bare Tree;
+Purple Dewberries;
+Tanglebrush*F2;
+Weapons Cache;
+Wild Brush;
+
+| cards =
+Colossus;
+Crow;
+Frost Giant;
+Leviathan;
+Orthrus;
+Ra;
+Rebirth;
+Regenerate;
+Satyr;
+Snow Angel;
+
+| reagents =
+Acorn;
+Brass*F2;
+Deep Mushroom;
+Diamond;
+Fossil;
+Frost Flower;
+Grendelweed*F2;
+Mist Wood;
+Nickel;
+Nightshade;
+Ore*F2;
+Red Mandrake;
+Sandstone*F2;
+Spider Silk*F2;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Bad Honeyed Dates;
+Caramel Corn*F2;
+Fried Worms;
+Frosty Sugar Cubes;
+Fruit and Nut Bar;
+Fuzzy Peach Fizz*F2;
+Lime Peel Rickey;
+Peppercorn;
+Pollen Bombs;
+Salmonberry*F2;
+Simple Sugar Pop*F2;
+Spicy Drumstick;
+
+| jewels =
+Plain Blocking Peridot +6;
+Plain Damage Citrine +15;
+
+| pins =
+
+| pets =
+Diseased Wildclaw*CR;
+Primal Wildclaw*CR;
+Silverback Wildclaw;
+
+| seeds =
+Evil Snow Peas;
+Frozen Fly Trap;
+Moon Flower;
+Snow Apples;
+White Desparagus*F2;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

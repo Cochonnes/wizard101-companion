@@ -1,0 +1,123 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 7,000
+| crecla = Qhat
+| school = Storm
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+7%;
+
+| outboost =
+50%;
+
+| incboost =
+15% Myth;
+
+| incresist =
+30% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| petname = Mr. Fluffy
+| petbreed = Rain Core
+| world = Mirage
+| location = Aggrobah
+| subloc1 = Indra's House
+| descrip =
+Diviners must fight Indra to retrieve Ione Virga's Storm Supercells during the Level 118 Storm School Pet Quest to receive their ''Pet Rain Core''.
+
+| speech =
+:''"Oh, I suppose Ione sent you to retrieve her Supercells? I'm afraid I've already used some of them. But you're just in time to see why... Behold: The first sentient Storm Cloud. He hatched hatched! I call him Mr. Fluffy. His sibling is due to hatch any moment now! Soon, I'll have hatched a system of Storm Clouds large enough to dictate the weather of an entire world. Kings will kneel to the Storm Bringer! Bwaahaha! So no, Ione can't have her Supercells back. And you're not leaving here alive. Mr. Fluffy needs to practice!"''
+
+| spellnotes =
+Indra's Pet Rain Core casts Stormblade, Supercharge (+12%), Darkwind (+35%), and Storm Cat.
+*Casts a Spell version of {{Link|TreasureCard|Rocketstove}}.
+'''Natural Attack:'''
+*Deals 250 Storm Damage for 2 Pips.
+*Deals 375 Storm Damage for 3 Pips maximum.
+
+| casts =
+Thermic Shield (-75%);
+Healing Current (325);
+Stormblade (+30%);
+Stormblade;
+Supercharge (+12%);
+Storm Trap (+35%);
+Disarm;
+Darkwind (+35%);
+Storm Serpent (230);
+Wild Bolt;
+Storm Shark;
+Catalan;
+Storm Cat;
+Kraken;
+
+| quests =
+Unnatural Disaster;
+
+| gold =
+4,115 - 4,981;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+War Helephant;
+
+| reagents =
+Sandstone;
+Stone Block;
+Tin;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Fortify Talent Opal;
+Infector Onyx;
+Medic Opal;
+Sap Health Talent Citrine;
+Sprite Time Jade;
+Tower Shield Sapphire;
+Wisp Bonus Opal*F2*WMV;
+
+| pins =
+
+| pets =
+
+| seeds =
+Couch Potatoes*CR;
+
+| mounts =
+
+| spells =
+
+}}

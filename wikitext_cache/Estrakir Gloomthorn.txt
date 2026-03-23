@@ -1,0 +1,166 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 8
+| heal = 2,880
+| crecla = Shadow Weaver
+| school = Fire
+| cheats = Yes
+| startpips = 1
+| powerpips = Yes
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Knuckles McCloud;
+Rat Illusionist;
+Rat Illusionist;
+
+| world = Marleybone
+| location = Regent's Square
+| subloc1 = Warehouse (Spiral Geographic)
+| descrip =
+Estrakir Gloomthorn is the last Boss in the Spiral Geographic Society Archives Warehouse. He is one of four cheating Bosses in the instance. Estrakir must be defeated in order to obtain the Spiral Key to {{Link|Location|Celestia}}, during the Quest, Swimming with Stars.<br/>
+*'''Note:''' This Boss and the Quest, Swimming with Stars, are no longer required to enter Celestia.
+
+| speech =
+:'''Rat Illusionist:''' ''"I've got me a bad feeling about this..."''
+:'''Estrakir Gloomthorn:''' ''"You will be greatly rewarded if I succeed. I need you to keep the young Wizards busy while I prepare my attacks. Do not let them cast any Global spells."''
+:'''Rat Illusionist:''' ''"Oh my... It seems we have some eavesdroppers."''
+:'''Estrakir Gloomthorn:''' ''"It matters not. Let's finish this quickly. My master grows impatient."''
+
+| cheatnotes =
+:'''Estrakir Gloomthorn'''
+*If Estrakir is attacked (or defeated) before Knuckles McCloud, then Knuckles will give him a {{Link|Spell|Helping Hands}} out of turn. Estrakir will then cast Fire Dragon out of turn.
+**Meteor Strike will trigger this cheat if Estrakir casts this Spell.
+**Estrakir will sometimes cast Fire Dragon even when he is not hit.
+**{{Link|Spell|Morganthe's Requiem}} does not trigger either cheat.
+*Estrakir will cast {{Link|Spell|Cleanse Ward}} on himself or any minion of his that receives a Shield.
+**Only the first Trap of a Tri-Trap Spell will be removed.
+**All-Enemy Trap Spells, such as {{Link|Spell|Windstorm}} or {{Link|Spell|Mass Fire Prism}}, will not trigger this cheat.
+**Pet Spells will not trigger this cheat, though he may randomly remove the Traps later on.
+**Secondary Spell effects will also be removed.(e.g. {{Link|Spell|Brimstone Revenant}}, {{Link|Spell|Keeper of the Flame}}).
+*''"Power Spell!"'' - If a Global Spell is not active around the battlefield (even if the Global Spell is active(?)), Estrakir will cast a Fire version of Power Nova dealing '''770''' Fire Damage every three turns.
+**If a Wizard casts a Global Spell, Estrakir or a Wizard will shout out, ''"Interrupt Charge!"''.
+**''"Power Spell!"'' - Sometime after his Minions have been defeated, Estrakir will start using a version of {{Link|Spell|Scarecrow (600)}} every other turn.
+
+:'''{{Link|Creature|Rat Illusionist}}'''
+*On their first turn, the Rat Illusionists will shield Knuckles McCloud and Estrakir with '''-90%''' [[Spell:Tower Shield (-90%)|Tower Shields]], and will replace these out of turn whenever they are broken.
+**Each of the Rat Illusionists will choose either Knuckles or Estrakir, and cast the Tower Shield on that Boss. If only one of the Rats is defeated, then the remaining Rat will cast a Shield on Knuckles before Estrakir.
+**Defeating Estrakir or Knuckles will end this cheat.
+
+:'''{{Link|Creature|Knuckles McCloud}}'''
+*''"Yeah, we can Heal Too!"'' - If a Wizard casts a [[:Category:Healing Spells|Healing]] Spell, Knuckles will cast a 750 Healing {{Link|Spell|Rebirth}} (without Absorb Shields).
+**Pet heals will not trigger this cheat.
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Spirit Armor;
+Weakness;
+Fireblade;
+Fire Trap;
+Cleanse Ward;
+Fire Cat;
+Link;
+Ash Bats;
+Fire Elf;
+Sunbird;
+Fire Shark;
+Meteor Strike;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Heck Hound;
+Minotaur;
+Scarecrow;
+
+| quests =
+Swimming with Stars;
+
+| gold =
+133 - 178;
+
+| hats =
+Shroud of the Equinox;
+Wayfinder Helmet*F7*WMV;
+
+| robes =
+Fiery Tunic;
+Wayfinder Uniform*F4*WMV;
+
+| boots =
+Boots of the Bountiful;
+Burning Boots;
+Rainstorm Waders*F2*WMV;
+Salamander-Hide Shoes;
+Sandals of Lost Aeons;
+Sandals of Neutrality;
+Shoes of the Whispering Dark*F2;
+
+| athames =
+
+| amulets =
+
+| rings =
+Ring of the Forefathers;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Copper*F2;
+Iron*F3;
+Lead*F5;
+Nickel;
+Tin;
+
+| spellements =
+
+| snacks =
+Flaming Soup;
+Goat Cheese;
+Golden Grapes;
+Gummy Humongofrog;
+King Banana;
+
+| jewels =
+Blizzard Sapphire;
+Deer Knight Onyx;
+Flawed Damage Onyx +10;
+Flawed Damage Sapphire +10;
+Flawed Defense Citrine +17;
+Flawed Defense Opal +9*F2*WMV;
+Myth-Proof Peridot;
+Silence Opal;
+Wyldfire Ruby;
+
+| pets =
+Blustering Scamp*F5*WMV;
+
+| seeds =
+Maelstrom Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,240 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 16,120
+| crecla = Eagle
+| school = Balance
+| startpips = 6
+| powerpips = Yes
+| critical =
+110 Any;
+
+| criticalblock =
+50 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Zolo Stone Heart (Corazon Cave);
+
+| world = Azteca
+| location = Pitch Black Lake
+| subloc1 = Corazon Cave
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Infallible;
+Vengeance;
+Black Mantle;
+Availing Hands;
+Balanceblade;
+Hex;
+Mana Burn;
+Natural Attack (Balance 180-360-540);
+Samoorai;
+Power Nova;
+Sabertooth;
+Judgement;
+
+| quests =
+The Crimson Eagle;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge and has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge, the following drops will be available:
+*11 Spellements will drop each time from '''any''' School for their respective rank 6-10 Spells.
+
+| gold =
+123 - 210;
+
+| hats =
+Dawn Hour Mantle;
+Elite Jura Guard Helm;
+Five Fangs of Fury Headdress;
+Indigo Wing Crown*F3;
+Thirteen Death Mask;
+Tree of Secrets Chac Mask*F2;
+Twisted Fang Mask;
+
+| robes =
+Black Tears of the Sky Drape;
+Dawn Hour Xicolli Vest;
+Elite Jura Guard Garb*F2;
+Indigo Wing Raiment*F3;
+Thirteen Death Robe*F2*WMV;
+Tree of Secrets Chac Armor;
+Twisted Fang Vestments;
+
+| boots =
+
+| athames =
+Brutal Azteca Horn;
+Fang of the Night Sky;
+Tears of Mother Moon Blade;
+Zero Hour Eagle Talon;
+
+| amulets =
+Amulet of the Third Sun;
+Children of the Sea Medallion;
+House of Plague Greenstone;
+Pitch Black Lake Plague Shell;
+Shining Cold House Amulet;
+Stone of the Green Skycarrier;
+Tears of the Sky Jade Charm;
+
+| rings =
+Acampi Reedfist's Lost Seal*F2*WMV;
+Bleeding Sun Warrior's Loop*F2;
+Chac's Challenge Loop;
+Falling Star's End Time Band*F2*WMV;
+Mother Moon's Count Ring;
+Seal of Thunder Horn's Glory;
+Storm Quetzal's Signet;
+Twin Giants Fashioned Stone;
+Twisting Season Ring*F3;
+Underworld Stone*F3;
+
+| wands =
+Eclipse Spear of Azteca;
+Green Standard of Mother Moon;
+Sign of Cipactli;
+Winter Lord's Obsidian Shard;
+
+| decks =
+Codex of the Lost Fire*F2*WMV;
+Deck of the Jaguar Spirit;
+Storm Sun Gallery*F3*WMV;
+Winter's Pyramid Deck*F2;
+
+| items =
+Azteca Apocalypse Theme;
+Sparse Frond*F3;
+Star Clothesline;
+Starburst Frond;
+
+| cards =
+Cloud Demon;
+Colossal*F2*WMV;
+Extraordinary;
+Frost Demon;
+Infallible;
+Medusa;
+Potent Trap*F2;
+Primordial;
+Ra;
+Sharpened Blade;
+Sirens;
+Vengeance*F2;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F5*WMV;
+Black Pearl;
+Blood Moss*F3;
+Bone*F2*WMV;
+Bronze;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F4;
+Fire Blossom;
+Fossil*F2;
+Golden Pearl;
+Lava Lily;
+Mist Wood*F3;
+Mithril;
+Nightshade*F2;
+Ore*F4;
+Red Mandrake;
+Silver;
+Stone Block*F3*WMV;
+Sunstone;
+Tungsten;
+Turquoise;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR*F2;
+Celestial Calendar*BR;
+Centaur*BR;
+Chimera*BR;
+Colossus*BR;
+Dr. Von's Monster*BR*F2;
+Efreet*BR*F2;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+Helephant*BR*F2;
+Hydra*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR*F2;
+Power Nova*BR;
+Ra*BR*F2;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR*F2;
+Spinysaur*BR*F2;
+Stone Colossus*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Triton*BR*F2;
+Woolly Mammoth*BR;
+Wraith*BR;
+
+| snacks =
+Cactus Fruit*F3*WMV;
+Caramel Apple*F3*WMV;
+Kola Nuts;
+Maize;
+Pyramints;
+Rex Tea*F2;
+Roasted Chickpeas;
+Treant Bark;
+Zocalo Wings;
+
+| jewels =
+Effervescent Opal;
+Minotaur Minion Peridot;
+Polished Accurate Jade +10%;
+Polished Blocking Amethyst +11;
+Polished Critical Sapphire +11;
+Polished Damage Citrine +21;
+Strong Talent Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Maelstrom Snap Dragon;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

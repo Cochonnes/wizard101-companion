@@ -1,0 +1,352 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 13,860
+| crecla = Frog
+| school = Death
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+28%;
+
+| outboost =
+105%;
+
+| incboost =
+30% Life;
+
+| incresist =
+Sun;
+32% Fire, Ice, Storm, Myth, Balance;
+62% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Judge Nelson;
+Hostage (Male);
+Hostage (Female);
+
+| world = Wallaru
+| location = Billabong Resort
+| subloc1 = Cabin
+| descrip =
+The Hostages in this battle will always pass.
+
+| speech =
+:'''Joan Locke:''' ''"Cane! What in the blazes are you doing, man?"''
+:'''Mr Cane:''' ''"Maintaining my investment. Absent that Dream Water, what do we have? A cozy, mid-tier resort? Bah! I can't charge 500,000 gold a night for that!"''
+:'''Joan Locke:''' ''"But that wasn't the point! We were meant to create a refuge, a haven in the desert, for everyone."''
+:'''Mr Cane:''' ''"Oh, don't give me that. Your eyes glinted gold just as mine did when the prices went up. It was your idea, Ms. Locke, your dream."''
+:'''Judge Nelson:''' ''"If the Dreaming so enlightened you, shouldn't you want everyone to try it? And nothing wrong with making money for our efforts."''
+:'''Mr Cane:''' ''"Placebos won't work forever. We have to sell the real thing. The Dreaming stays here. The prices stay high. And, Wizard, I should get a nice reward for shipping you off to Lord Rottingham personally."''
+
+| cheatnotes =
+*{{Icon|Aura}} ''"Careful now. Mind the Hostages."'' - At the beginning of Round 1, Mr. Cane will cast a 6,000 "Restraints" Damage Absorb Virulence Aura for 99 Rounds on both Hostages.
+**The Aura can sometimes prevent Criticals from doubling Damage, or prevent Traps from being activated.
+**{{Icon|Afterlife}} If Mr. Cane is defeated while either of the Hostages are still in combat, he will use a Sun version of Blessing, restoring 100% max Health to all allies, and will recast the Auras.
+***Removing the Aura will also trigger this cheat.
+*{{Icon|Damage}} ''"Worthless hostages can't even stay captured!"'' - If a Hostage takes more than 0 Damage (more than 6,000 after the Absorb Aura) in one hit, Mr. Cane will force the Wizard to cast {{Link|TreasureCard|Exit Combat}} on the Hostage, removing them from combat.
+**Drain Spells will go directly through the Aura, triggering this cheat.
+*{{Icon|Damage over Time}} ''"I'll show you corruption!"'' - At the beginning of every third Round, Mr. Cane will cast {{Link|Spell|Poison}}.
+
+| spellnotes =
+
+| casts =
+Virulence;
+Infection;
+Mass Infection;
+Deathblade (+40%);
+Gravestorm (Tier 3b);
+Colossafrog;
+Vampire (Tier 3a);
+Wraith (Tier 3b);
+Scarecrow;
+Dr. Von's Monster;
+
+| quests =
+Cane-Do Attitude;
+
+| gold = 
+16 - 38;
+
+| hats =
+
+| robes =
+Dynamic Enforcer's Uniform;
+Dynamic Protector's Uniform;
+Furious Enforcer's Uniform;
+Furious Protector's Uniform*F2;
+Just Enforcer's Uniform;
+Just Protector's Uniform;
+Legendary Enforcer's Uniform;
+Legendary Protector's Uniform;
+Morbid Enforcer's Uniform;
+Morbid Protector's Uniform;
+Steely Enforcer's Uniform;
+Steely Protector's Uniform;
+Thunderous Enforcer's Uniform;
+Thunderous Protector's Uniform;
+
+| boots =
+Dynamic Enforcer's Boots;
+Dynamic Protector's Boots;
+Furious Enforcer's Boots;
+Furious Protector's Boots;
+Just Enforcer's Boots;
+Just Protector's Boots;
+Legendary Enforcer's Boots;
+Legendary Protector's Boots;
+Morbid Enforcer's Boots;
+Morbid Protector's Boots;
+Steely Enforcer's Boots;
+Steely Protector's Boots*F2;
+Thunderous Enforcer's Boots;
+Thunderous Protector's Boots;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Wallaru Billabong Resort Com Theme;
+Wallaru Billabong Resort Theme;
+Wallaru Doom Moon Combat Theme;
+Wallaru Doom Moon Theme;
+Wallaru Eucalyptus Forest Com Theme;
+Wallaru Eucalyptus Forest Theme;
+Wallaru Hope Springs Theme;
+Wallaru Outback Theme;
+Wallaru Ranch Combat Theme;
+Wallaru The Dreaming Theme;
+Wallaru Wobbegong Combat Theme;
+Wallaru Wobbegong Theme;
+
+| cards =
+Arcticzilla;
+Ashen Bones;
+Balanceblade;
+Banshee (Tier 2b);
+Blood Bat (Tier 2b);
+Cleanse Charm;
+Cyclops (Tier 2b);
+Dark Sprite (Tier 2b);
+Deadly Minotaur;
+Elemental Blade;
+Elemental Trap;
+Evil Snowman (Tier 2b);
+Fire Cat (Tier 2b);
+Fire Elf (Tier 2b);
+Fire Trap;
+Fireblade;
+Frost Beetle (Tier 2b);
+Ghoul (Tier 2b);
+Harmattan Maxios;
+Hex;
+Iceblade;
+Imp (Tier 2b);
+Leprechaun (Tier 2b);
+Lifeblade;
+Lightning Bats (Tier 2b);
+Locust Swarm (Tier 2b);
+Lord of the Squall;
+Myth Trap;
+Nature's Wrath (Tier 2b)*F2;
+Pierce;
+Raging Bull;
+Reshuffle;
+Rusalka's Wrath*F2;
+Scarab (Tier 2b);
+Scorpion (Tier 2b);
+Sirocco Djinni;
+Snow Serpent (Tier 2b);
+Snowball Barrage;
+Spirit Blade;
+Spirit Trap;
+Storm Shark (Tier 2b);
+Storm Trap;
+Stormblade;
+Sunbird (Tier 2b);
+Thunder Snake (Tier 2b);
+Troll (Tier 2b);
+Winged Sorrow;
+Wings of Fate;
+Witch's House Call;
+
+| reagents =
+Bone;
+Brass;
+Cobalt;
+Copper;
+Ectoplasm*F2;
+Fish Fin;
+Nickel;
+Tungsten;
+Turmeric;
+
+| spellements =
+Barbarian's Saga;
+Blast Off!;
+Bunyip's Rage;
+Count Croakula;
+Dark & Stormy*F2;
+Deathly Depths;
+Drop Bear Fury;
+Freeze Ray;
+Glimpse of Infinity*F2;
+Gravestorm;
+Grim Reader;
+Grrnadier*F3;
+Improbable Gaze;
+Lord of the Jungle;
+Mockenspiel;
+Old One's Endgame*F2;
+Phantasmania!;
+Rainbow Serpent*F2;
+S'more Machine;
+Scales of Destiny;
+Scion of Balance;
+Scion of Ice;
+Shatterhorn;
+Snack Attack;
+Sound of Musicology;
+Starspawn;
+Tatzlewurm Terror*F2;
+Tree of Strife;
+Wobbegong Frenzy;
+Zand the Bandit;
+
+| snacks =
+Bell Pepper Steak;
+Black Sun Seeds;
+Cracker;
+Evil Carrot;
+Fern Jelly;
+Flaming Carrot;
+Flaming Jalapeno;
+Glowing Dragon Fruit;
+Heavenly Bubblegum;
+Lava Guava;
+Mini Pumpkin;
+Misfortune Cookie;
+Nana's Pumpkin Spice Milkshake;
+PB Cookie;
+Popsicle;
+Spicy Chips;
+Tamales;
+Wrath's Grape Juice;
+
+| jewels =
+Amazing Accurate Amethyst +15%;
+Amazing Accurate Citrine +15%;
+Amazing Accurate Jade +15%;
+Amazing Accurate Onyx +15%;
+Amazing Accurate Peridot +15%;
+Amazing Accurate Sapphire +15%;
+Amazing Archmastery Opal +14 (Tear);
+Amazing Health Opal +136;
+Amazing Health Opal +137;
+Amazing Health Opal +139;
+Amazing Health Opal +140;
+Amazing Health Opal +143;
+Amazing Health Opal +144;
+Amazing Health Opal +145;
+Amazing Mana Opal +58;
+Amazing Mana Opal +59;
+Dog Tracy Amethyst;
+Duck Savage Sapphire;
+Flawless Accurate Citrine +16%;
+Flawless Accurate Onyx +16%;
+Flawless Accurate Peridot +16%;
+Flawless Accurate Sapphire +16%;
+Flawless Archmastery Opal +15 (Tear);
+Flawless Health Opal +147;
+Flawless Health Opal +148;
+Flawless Health Opal +149;
+Flawless Health Opal +150;
+Flawless Health Opal +151;
+Flawless Health Opal +152;
+Flawless Health Opal +153;
+Flawless Health Opal +154;
+Flawless Health Opal +155;
+Flawless Mana Opal +61;
+Flawless Mana Opal +62;
+Flawless Mana Opal +63;
+Flawless Mana Opal +64;
+Glimpse of Infinity Ruby;
+Mandar Peridot;
+Scales of Destiny Citrine;
+Solomon Crane Onyx;
+Starspawn Jade;
+
+| pins =
+Balance Crushing Pin (150, Storm);
+Balance Crushing Pin (160, Life);
+Balance Crushing Pin (160, Storm);
+Balance Disabling Pin (150, Storm);
+Balance Disabling Pin (160, Storm);
+Balance Punishing Pin (150, Storm);
+Balance Punishing Pin (160, Fire);
+Balance Punishing Pin (160, Storm);
+Death Crushing Pin (150, Storm);
+Death Crushing Pin (160, Storm);
+Death Disabling Pin (150, Fire);
+Death Disabling Pin (150, Storm);
+Death Punishing Pin (150, Myth);
+Death Punishing Pin (150, Storm);
+Death Punishing Pin (160, Storm);
+Fire Crushing Pin (150, Myth);
+Fire Crushing Pin (150, Storm);
+Fire Crushing Pin (160, Storm);
+Fire Disabling Pin (150, Storm);
+Fire Disabling Pin (160, Storm);
+Fire Punishing Pin (150, Storm);
+Ice Crushing Pin (150, Myth);
+Ice Crushing Pin (150, Storm);
+Ice Disabing Pin (150, Storm);
+Ice Disabling Pin (160, Storm);
+Ice Punishing Pin (150, Storm);
+Ice Punishing Pin (160, Storm);
+Life Crushing Pin (150, Fire);
+Life Crushing Pin (160, Storm);
+Life Disabling Pin (150, Fire);
+Life Disabling Pin (150, Storm);
+Life Disabling Pin (160, Storm);
+Life Punishing Pin (150, Storm);
+Myth Crushing Pin (150, Storm);
+Myth Crushing Pin (160, Balance);
+Myth Crushing Pin (160, Storm);
+Myth Disabling Pin (150, Storm);
+Myth Disabling Pin (160, Storm);
+Myth Punishing Pin (150, Storm);
+Myth Punishing Pin (160, Death);
+Myth Punishing Pin (160, Storm);
+Storm Punishing Pin (150, Life);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

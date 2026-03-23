@@ -1,0 +1,138 @@
+{{Stub|cheats}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 8,785
+| crecla = Undead
+| school = Fire
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+50%;
+
+| incboost =
+30% Ice;
+
+| incresist =
+60% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Skirker Buster (Tier 1);
+Skirker Buster (Tier 1);
+Skirker Buster (Tier 1);
+
+| world = Avalon
+| location = Crystal Caves
+| subloc1 = Crystal Caves Gold Key Room
+| badge = Lambent's Damper
+| descrip =
+Lambent Fire (Tier 1) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Knight's Spellemental Pack}}.
+*This Tier is for level 1-50 Wizards.
+
+| monstrology =
+{{Monstrology Info
+| tome world = Avalon
+| tome description =
+Fire too has a spirit, which persists after it has been extinguished. Which is absolutely terrifying when you think about it.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| speech =
+:''"Wizard of Light, I am a wretched spirit, once long ago a noble knight. I quested to find the Horn of Glory. But I fell, and remained trapped here to flicker like the dying of the day! Die with me!"''
+
+| cheatnotes =
+*{{Icon|Damage}} ''"Fire pierces all!"'' - After Lambent Fire casts a Damage Spell, he receives a {{Link|Spell|Firespear}}.
+**{{Icon|Manipulation}} ''"Your edge is mine!"'' - If a Wizard casts a universal Blade, Lambent Fire will cast {{Link|Spell|Steal Charm}} on the receiver.*{{Icon|Jinx}}''"Your world shall burn!"'' - If a Wizard casts a universal Trap on Lambent Fire, he will cast {{Link|Spell|Immolate}} on the caster.
+**Mass Feint will trigger this cheat.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 235 Fire Damage for 2 Pips.
+*Deals 350 Fire Damage for 3 Pips maximum.
+
+| casts =
+Smoke Screen;
+Fireblade;
+Fire Trap;
+Wyldfire;
+Burning Rampage;
+Meteor Strike;
+Phoenix;
+Helephant (Tier 2a);
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Participation Trophy;
+Spectral Shard;
+
+| spellements =
+Brave Sir Badger;
+Burning Rampage;
+Catalan;
+Deer Knight;
+Handsome Fomori;
+Sacred Charge;
+Wreckin' Ettin;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

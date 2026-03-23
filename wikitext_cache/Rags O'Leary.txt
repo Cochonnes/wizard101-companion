@@ -1,0 +1,158 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 7,360
+| crecla = Cat
+| school = Life
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+O'Leary Burglar;
+O'Leary Burglar;
+O'Leary Burglar;
+
+| world = Marleybone
+| location = The Ironworks
+| subloc1 = Ironworks Warehouse
+| descrip =
+Necromancers must defeat Rags O'Leary for the Level 78 Death Pet Quest.
+*This Boss is not repeatable.
+
+| speech =
+:'''Devon Atwell:''' ''"You there! Help! Please... stop these ruffians!"''
+:'''Rags O'Leary:''' ''"Shut it and sit tight, old man. We'll get back to you when we're done with this nosy little spell-flinger... Hey... I know about you! You caused my family a lot of trouble when I was out of town! This'll be fun!''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Life Damage per Pip
+
+| casts =
+Empowerment;
+Mend;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Nature's Wrath;
+Seraph;
+Centaur;
+Forest Lord;
+
+| quests =
+Bag of Bones;
+
+| gold =
+78 - 86;
+
+| hats =
+Cowl of Diplomacy;
+Headwrap of the Affected;
+Hood of the Sacred Lake;
+Mask of the Catalan;
+
+| robes =
+Catalan's Scales;
+Distressing Garment;
+Jabberwock's Plate;
+
+| boots =
+Knight's Boots of Justice*F2;
+Merciful Knight's Boots;
+Shoes of Anxiety;
+Shoes of Humanity;
+
+| athames =
+Athame of Chivalry;
+Graceful Stiletto;
+Steel of the Wild Hunt;
+
+| amulets =
+Dependable Squire's Torc;
+Torc of Pluck;
+
+| rings =
+Brisk Circle of Nodor*F3;
+Ring of Rejuvenation;
+
+| wands =
+Club of the Heath;
+Crystal Cavern Cudgel;
+
+| decks =
+Greenroot Gallery;
+
+| items =
+Avalon Abbey Road Theme*F3;
+
+| cards =
+Brilliant Light*F3;
+Cyclops;
+Gargantuan;
+Guidance*F2;
+Guiding Light*F2;
+Life Prism;
+Lifeblade;
+Orthrus;
+Triage*F2;
+
+| reagents =
+Black Lotus;
+Bronze*F2;
+Cat Tail*F2;
+Deep Mushroom*F2;
+Ectoplasm*F2;
+Ore;
+Parchment;
+Pearl*F3;
+Red Mandrake;
+Shell*F2;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F3;
+Glowing Star Fruit;
+Medium Fish;
+Wheat Cracker;
+
+| jewels =
+Chipped Defense Peridot +14;
+Chipped Health Opal +24;
+Clear Blocking Ruby +9;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Evil Magma Peas*CR;
+
+| mounts =
+
+| spells =
+
+}}

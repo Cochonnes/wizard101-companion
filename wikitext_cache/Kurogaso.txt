@@ -1,0 +1,106 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,440
+| crecla = Pig
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Imitsu Punisher;
+ 
+| world = MooShu
+| location = Kishibe Village
+| subloc1 = Angoro's Tower
+| descrip =
+*Conjurers must defeat Kurogaso during the Quest, Mything Link, in order to receive their Level 38 Myth Spell, {{Link|Spell|Minotaur Minion}}.
+
+| speech =
+:''"Mandrake roots?!? You came here for that? I am trying to wage war and create chaos and you want roots!?! I'll teach you a lesson..."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Balance Damage.
+
+| casts =
+Tower Shield;
+Ice Armor;
+Weakness;
+Black Mantle;
+Iceblade;
+Ice Trap;
+Snow Serpent;
+Evil Snowman;
+Blizzard;
+Ice Wyvern;
+Frostbite;
+Troll;
+
+| quests =
+Mything Link;
+
+| gold =
+0 - 50;
+
+| hats =
+Cap of the Lithe;
+
+| robes =
+Cloak of Rhyming;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Long Lantern;
+
+| cards =
+
+| reagents =
+Lead;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Maelstrom Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

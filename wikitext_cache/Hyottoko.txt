@@ -1,0 +1,121 @@
+{{Stub|Immunities}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,440
+| crecla = Pig
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Storm;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No 
+| beguilable = 
+| minions =
+Kakeda Stalker;
+
+| world = MooShu
+| location = Cave of Solitude
+| subloc1 = Green Pagoda
+| descrip =
+Sorcerers must defeat Hyottoko and recover the Gem of Balance as part of their Level 38 Spell Quest, "Present Danger".
+*This Boss is not repeatable.
+
+| speech =
+:"''What? You have come for the Gem? Never! It is the key to my Kingdom. It will bring me great wealth and power! Hahahahaha!''"
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Myth Damage per Pip.
+
+| casts =
+Elemental Shield;
+Weakness;
+Balanceblade;
+Scarab;
+Scorpion;
+Locust Swarm;
+Sandstorm;
+Evil Snowman;
+Vampire;
+
+| quests =
+Present Danger;
+
+| gold =
+31 - 43;
+
+| hats =
+Cap of Song;
+Painful Cowl;
+
+| robes =
+Tormented Cloak;
+Tunic of Preoccupation;
+Vestment of Cooperation;
+Vestment of Niceties;
+
+| boots =
+Ecstatic Boots;
+
+| athames =
+Athame of the Lotus;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Deck of the Lotus;
+
+| items =
+
+| cards =
+Ninja Pigs;
+
+| reagents =
+Bone;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Crunch Apple;
+Golden Peanut;
+Large Watermelon;
+Square Root;
+
+| jewels =
+Blemished Defense Opal +12;
+Drain Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

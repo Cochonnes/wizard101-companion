@@ -1,0 +1,309 @@
+{{Stub| which version of the '''Mutate''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 4,560
+| crecla = Ghulture
+| crecla2 = Undead
+| school = Life
+| school2 = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+5%;
+
+| outboost =
+60%;
+
+| incboost =
+None;
+
+| incresist =
+15% Life, Death;
+
+| outhealing =
+75%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Ghulture (Death) (Ghulture Nest);
+Ghulture (Myth) (Ghulture Nest);
+
+| world = Mirage
+| location = Caravan
+| subloc1 = Ghulture Nest
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Mirage
+| tome description =
+A mother's instinct can overcome even death; she will guard her petrified eggs until they hatch, or forever.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*''"Squawk!"'' - Mother Ghulture will shout this before the following cheats:
+:*{{Icon|Minion}} At the beginning of the first three Rounds, she will cast a Shadow Spell to summon either a Death or a Myth Ghulture Minion.
+::*{{Icon|Afterlife}} When the three Minions have been summoned, she will cast a version of Guardian Spirit for 33% Health restored after defeat on them.
+:::*{{Link|Spell|Entangle}} can be used to dispel one Guardian Spirit per dispel.
+:*{{Icon|Late}} If a Wizard joins the duel after it has already begun, she will cast Luminous Weaver on the Wizard.
+
+| spellnotes =
+
+| casts =
+Renew;
+Berserk;
+Virulent Plague;
+Unicorn (315);
+Rebirth;
+Sacrifice;
+Bladestorm (+25%);
+Guardian Spirit;
+Luminous Weaver;
+Natural Attack (Life 105-210-315, 85%);
+Wings of Fate;
+Centaur;
+Deer Knight;
+
+| quests =
+Mother Ghulture;
+
+| gold =
+63 - 395;
+
+| hats =
+Djinn Ghutrah of Durability;
+Djinn Ghutrah of Flux*F2;
+Nomad's Sandstorm Torboosh;
+
+| robes =
+Djinn Vestment of Flux;
+Immaculate Djinn Vestment;
+Mongu Frostfall Vestment;
+Mongu Vestment of Tantrums;
+Nomad's Thobe of Praxis;
+
+| boots =
+Mongu Givehs of Frostfall;
+Mongu Givehs of Umbrage;
+Nomad's Frostdune Striders;
+Nomad's Sandstorm Striders;
+Nomad's Striders of Redress;
+
+| athames =
+Djinn Khanjar of Darkness;
+Djinn Khanjar of Patience;
+Djinn Khanjar of Sparks;
+Djinn Khanjar of Swells;
+Immaculate Djinn Khanjar;
+
+| amulets =
+Djinn Pendant of Invention;
+Djinn Pendant of Reverie;
+Djinn Pendant of Swells*F2;
+Djinn Pendant of Wintertide;
+Fang Collar of Frostfall;
+
+| rings =
+Djinn Loop of Invention;
+Djinn Loop of Reverie;
+Djinn Loop of Wintertide;
+Djinn Signet of Darkness;
+Djinn Signet of Patience;
+Djinn Signet of Radiance;
+
+| wands =
+Purrzian Bow of Redress;
+Purrzian Bow of Sandstorms;
+Purrzian Sunfire Bow;
+Sturdy Purrzian Axe & Shield;
+
+| decks =
+Fang Deck of Ages;
+Fang Deck of Tantrums;
+Fang Deck of Umbrage;
+
+| items =
+
+| cards =
+Age of Reckoning;
+Astraphobia;
+Mass Death Prism;
+Mutate Banshee (Life)*F2;
+Mutate Beetle;
+Mutate Bird (Ice);
+Mutate Colossus (Storm);
+Mutate Elf (Storm);
+Mutate Helephant (Storm);
+Mutate Hound (Ice);
+Mutate Kraken (Sun);
+Mutate Minotaur (Sun);
+Mutate Snowman (Storm)*F2;
+Mutate Sprite (Death);
+
+| reagents =
+Ancient Scroll*F2;
+Antique Coins;
+Black Pearl*F2;
+Blood Moss*F3;
+Brass;
+Cobalt*F3*WMV;
+Ectoplasm*F3;
+Nickel;
+Scales*F2;
+Turmeric*F4*WMV;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate*F2;
+Beast Wellington*F2;
+Beetle Cream Soda*F2*WMV;
+Bread Fruit Fruit;
+Chili Peppers;
+Decimatoes;
+Eye Candy;
+Frosty Sugar Cubes;
+Green Tomato;
+Hard Boiled Beetle Eggs*F3*WMV;
+High Road Haggis;
+Hot Cross Buns*F3*WMV;
+Large Ice Cream;
+Mustachios*F2*WMV;
+Rhubarbed Wire;
+Satyr Chow*F2;
+Ships 'n' Queso*F2;
+Veggie Juice;
+
+| jewels =
+Lustrous Accurate Amethyst +11%;
+Lustrous Accurate Peridot +11%;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Jade +13;
+Lustrous Critical Citrine +13;
+Lustrous Critical Peridot +13;
+Lustrous Damage Amethyst +23;
+Lustrous Damage Peridot +24;
+Lustrous Damage Sapphire +23;
+Lustrous Defense Onyx +45;
+Lustrous Health Opal +97;
+Lustrous Health Opal +100;
+Lustrous Mana Opal +41;
+Lustrous Mana Opal +42;
+Lustrous PIP Opal +10%;
+Radical Opal*F2;
+Shiny Blocking Hematite +16;
+Shiny Blocking Onyx +16;
+Shiny Blocking Peridot +16;
+Shiny Critical Amethyst +16;
+Shiny Critical Citrine +16;
+Shiny Critical Hematite +16;
+Shiny Critical Onyx +16*F2;
+Shiny Critical Peridot +16;
+Shiny Critical Sapphire +16;
+Shiny Damage Hematite +52;
+Shiny Damage Jade +26*F2;
+Shiny Damage Ruby +26;
+Shiny Defense Citrine +50;
+Shiny Defense Hematite +51;
+Shiny Defense Hematite +52;
+Shiny Defense Jade +51;
+Shiny Defense Onyx +52;
+Shiny Defense Peridot +50;
+Shiny Defense Ruby +51;
+Shiny Defense Sapphire +51;
+Shiny Defense Sapphire +52;
+Shiny Health Opal +111;
+Shiny Health Opal +112*F3*WMV;
+Shiny Health Opal +113*F2;
+Shiny Health Opal +114;
+Shiny Mana Opal +45*F2*WMV;
+Shiny Mana Opal +46*F2;
+Shiny Mana Opal +47*F4*WMV;
+Shiny PIP Hematite +2*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Angora Bunny Ears;
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper*F2;
+Blue Huckleberries*F3;
+Boiled Peanuts;
+Boom Shroom;
+Boon Tree*CR*F2*WMV;
+Bread Fruit Bush*F2;
+Burning Snap Dragon;
+Clockwork Flower;
+Cornbread Fruit Bush;
+Couch Potatoes*CR*F4*WMV;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Evil Magma Peas*CR;
+Evil Snow Peas*F2*WMV;
+Face Palm*F2;
+Fickle Pickle*F2;
+Fiery Boom Shroom;
+Fish on a Vine;
+Frozen Fly Trap;
+Golden Couch Potatoes;
+Grapes of Wrath*CR;
+Helephant Ears*F2;
+Honey Bee Plant;
+Honey Sickle;
+Ivy League*CR*F3*WMV;
+King Parsley*CR;
+Maelstrom Snap Dragon;
+Missile Toe*F2;
+Orange Bell Pepper*CR;
+Pink Huckleberries*F2;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus;
+Purple Grapes of Wrath;
+Queen Crape Myrtle;
+Red Couch Potatoes;
+Red Grapes of Wrath*F2;
+Red Huckleberries*F4*WMV;
+Rye Bread Fruit Bush;
+Snap Dragon;
+Snow Apples;
+Sugar Khrystal*CR;
+Sunion*CR;
+Sword Fern*CR;
+Tiger Lily (Seed);
+Venus Fly Trap;
+White Tiger Lily*F2;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

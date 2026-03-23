@@ -1,0 +1,216 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,430
+| crecla = Plant
+| crecla2 = Treant
+| school = Life
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Death;
+
+| incresist =
+35% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Junglethorn;
+
+| world = Celestia
+| location = The Floating Land
+| subloc1 = Tangleroot's Grove
+| descrip =
+
+| speech =
+:''"You do not belong here. You have no roots. I will bury you!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+Mind your footing. You don't want to get tangled in these roots.
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Nature's Wrath;
+Life Banshee (250);
+Seraph;
+Centaur;
+Natural Attack (Life 85x);
+
+| quests =
+Almost Friends;
+
+| dropnotes = 
+When a Wizard has unlocked the '''[[Basic:Dragonspyre Badges|Savior of the Spiral]]''' {{Icon|Savior of the Spiral}} Badge and has not unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge, the following drops will be available:
+*4 Spellements will drop each time for their respective rank 3-7 Spells.
+
+| gold =
+55 - 67;
+
+| hats =
+Frostbit Mantle;
+Polar Cap*F2*WMV;
+Riddled Hood;
+Shroud of Shadows*F4*WMV;
+Synthesis Cover*F3*WMV;
+Tangleroot's Spirit Mask;
+Wintergale Headwrap;
+
+| robes =
+Armor of Celestian Totality*F2*WMV;
+Celestian Abyss Armor;
+Celestian Tempest Armor;
+Corrupt Jerkin;
+Drape of Dissonance*F2*WMV;
+Everlasting Celestian Armor;
+Iced Outfit;
+Raiment of Rapport*F2;
+Storied Armor*F2;
+Tangleroot's Spirit Gear*F2;
+
+| boots =
+Blistering Greaves;
+Devoted Greaves;
+Medley Mukluks;
+Menacing Stalkers;
+Merry Mukluks;
+Mystifying Footgear;
+Tangleroot's Spirit Greaves*F3*WMV;
+
+| athames =
+Ethereal Athame*F3*WMV;
+Longevity Twin Blades*F5;
+
+| amulets =
+Vial of Stormy Seas*F3;
+
+| rings =
+Piscean Ring;
+Ring of Hidden Treasures*F2*WMV;
+Ring of Redemption;
+Tangleroot's Blooming Band*F3*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Tiki Torch*F2*WMV;
+
+| cards =
+Blizzard;
+Cyclops;
+Empower*F5*WMV;
+Fortify*F2*WMV;
+Gargantuan*F4*WMV;
+Storm Trap;
+Strong;
+Unstoppable*F6*WMV;
+
+| reagents =
+Brass;
+Cobalt*F2;
+Nickel;
+Steel;
+Tin;
+
+| spellements =
+Banshee*BR;
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops*BR;
+Cyclops Minion*BR;
+Earth Walker*BR;
+Evil Snowman*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*BR*F2*WMV;
+Ice Wyvern*BR;
+Immolate*BR;
+Kraken*BR;
+Locust Swarm*BR;
+Minotaur*BR;
+Nature's Wrath*BR;
+Orthrus*BR;
+Phoenix*BR*F2*WMV;
+Power Nova*BR;
+Scarecrow*BR*F2*WMV;
+Seraph*BR;
+Skeletal Pirate*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Storm Shark*BR;
+Stormzilla*BR;
+Sunbird*BR;
+Triton*BR;
+Vampire*BR;
+Wraith*BR;
+
+| snacks =
+Cauliflowers*F2;
+Delicious Cookie;
+Glowing Star Fruit;
+Glowing Taffy*F4;
+Spicy Drumstick*F2*WMV;
+Strawberry Cupcake;
+Submarine Sandwich;
+
+| jewels =
+Dull Defense Ruby +26;
+Keen Eyes Talent Opal;
+Mass Death Prism Onyx;
+Plain Blocking Peridot +6;
+Plain Damage Peridot +15;
+Reshuffle Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F3*WMV;
+Maelstrom Snap Dragon*F5*WMV;
+Pink Dandelion*CR*F3;
+Silver Trumpet Vine*CR;
+
+| mounts =
+
+| spells =
+
+}}

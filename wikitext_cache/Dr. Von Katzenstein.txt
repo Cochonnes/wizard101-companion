@@ -1,0 +1,207 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,600
+| crecla = Cat
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Myth;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Potbelly;
+
+| world = Marleybone
+| location = Katzenstein's Lab
+| lootchest = Dr. Von Katzenstein's Chest
+| descrip =
+Dr. Von Katzenstein is a cat scientist in Marleybone who broke out of prison. He aids the O'Leary gang by providing Clockworks to assist in crimes. Wizards must put an end to the production of Clockwork soldiers after defeating him in Katzenstein's Lab.
+
+| speech =
+:''"I've got the brains and the brawn, you stand no chance!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 125 Storm Damage per Pip.
+
+| casts =
+Myth Shield;
+Weakness;
+Black Mantle;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Storm Serpent (155-195);
+Storm Elf (30+210);
+Lightning Bats;
+Storm Shark;
+Kraken;
+Colossus (Storm);
+Tempest;
+Troll;
+Banshee;
+
+| quests =
+Weird Science;
+
+| dropnotes =
+When a Wizard has unlocked the '''Hero of Krokotopia''' {{Icon|Hero of Krokotopia}} Badge and has not unlocked the '''Oni Slayer''' {{Icon|Oni Slayer}} Badge, the following drops will be available:
+*6-8 Spellements and Treasure Card Spellements will drop each time from the '''Elemental''' (Fire, Ice, Storm, Balance) Schools for their respective rank 1-4 Spells.
+
+| gold =
+38 - 61;
+
+| hats =
+Brisk Cap;
+Cap of the Unicorn*F2;
+Doctor's Visor of Severity*F3*WMV;
+Glowing Canine Hat;
+Katzenstein's Facemask*F2;
+Katzenstein's Helm*F2*WMV;
+Katzenstein's Tragic Helm*F3;
+Puppetmaster's Facade*CR;
+Shaman's Hat;
+Superstitious Canine Cowl;
+Winter Canine Cowl;
+
+| robes =
+Alluring Robes;
+Artificial Robe*F2;
+Dexterous Vest;
+Doctor's Robe of Aurora*F4*WMV;
+Doctor's Robe of the Kraken*F3*WMV;
+Dr. Von's Shrouded Tunic*F3*WMV;
+Fancy Garments*F2;
+Feline's Invigorating Robe*F2;
+Feline's Somber Robe;
+Garment of the Supreme*F2*WMV;
+High Quality Cloak;
+Katzenstein's Robe*F2;
+Katzenstein's Tunic*F2*WMV;
+Marvelous Shroud;
+Puppetmaster's Costume*CR;
+Robe of the Bubble*F2;
+Savvy Vestment*F2*WMV;
+Tunic of Chivalry;
+Tunic of Symmetry;
+Vestment of Assistance*CR;
+Vestment of Expertise;
+
+| boots =
+Doctor's Urbane Shoes*F3*WMV;
+Dr. Von's Affable Shoes*F3;
+Exacting Boots*F2;
+Katzenstein's Boots;
+Katzenstein's Slippers;
+Magnificent Boots;
+Premium Footwraps;
+Puddle Stompers;
+Puppetmaster's Footwear*CR;
+Remarkable Sandals*F2*WMV;
+Shoes of Sentiments;
+Shoes of the Chimera;
+Shoes of the Windless;
+Slippers of Gusto;
+Slippers of the Worrier;
+
+| athames =
+Doctor's Surgical Knife*F3*WMV;
+Galvanic Glaive;
+Katzenstein's Athame*F2*WMV;
+
+| amulets =
+Katzenstein's Necklace;
+
+| rings =
+Katzenstein's Band;
+Mechanical Ring;
+
+| wands =
+
+| decks =
+
+| items =
+Marleybone Combat Theme*F4;
+Tall Meter Stand*F2*WMV;
+Tin Can;
+Tri-Gage Meter Stand;
+Wide Meter Stand*F3*WMV;
+
+| cards =
+Azoth;
+Dryad;
+Fire Elf (Tier 2b)*BR;
+Frost Beetle (Tier 2b)*BR;
+Sandstorm;
+Spirit Armor;
+Storm Shark (Tier 2b)*BR;
+
+| reagents =
+Bronze Gear*F5*WMV;
+Copper;
+Ectoplasm*F2;
+Lead*F2;
+Nickel*F3;
+
+| spellements =
+Evil Snowman*BR*F3;
+Fire Cat*BR;
+Fire Elf*BR;
+Frost Beetle*BR*F3;
+Gearhead Destroyer*BR;
+Ice Wyvern*BR*F3;
+Immolate*BR*F2;
+Lightning Bats*BR*F2;
+Snow Serpent*BR;
+Storm Shark*BR;
+Sunbird*BR*F2;
+Thunder Snake*BR*F2;
+
+| snacks =
+Caramel Popcorn*F2;
+Gummy Bloodbat*F4*WMV;
+Medium Fish;
+Redskin Peanut;
+Square Watermelon*F4*WMV;
+Stinky Cheese;
+Wheat Cracker*F2;
+
+| jewels =
+Attentive Opal;
+Chipped Accurate Jade +3%;
+Flawed Damage Amethyst +10;
+Flawed Damage Onyx +10;
+Satyr Jade;
+
+| pins =
+
+| pets =
+Brown Rat Magician*F3*WMV;
+Lava Spider*CR;
+Magma Spider*CR*F3;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,256 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 12,130
+| crecla = Monquistan
+| school = Life
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sea Chicken Pirate;
+Sea Chicken Pirate;
+Sea Chicken Pirate;
+
+| world = Polaris
+| location = Walruskberg Harbor
+| subloc1 = Sea Chicken
+| descrip =
+
+| speech =
+:''"Welcome to your doom, landlubbers. Someday, I will be making Captain. Then you can say you were beaten by Captain Cranetail! Haha!"''
+
+| spellnotes =
+
+| casts =
+Dark Shepherd;
+Legend Shield (-50%);
+Spirit Armor;
+Satyr;
+Regenerate;
+Luminous Weaver;
+Natural Attack (Life 105-205-305);
+Goat Monk;
+Hungry Caterpillar;
+Centaur;
+Gnomes!;
+
+| quests =
+Sea Chicken;
+
+| gold =
+389 - 574;
+
+| hats =
+Blizzardy Tundra Pelage;
+Sweltery Tundra Ushanka;
+Tundra Ushanka of Sagacity;
+Tundra Ushanka of Survival*F2;
+Urville Papakh of Flames;
+
+| robes =
+Hailstorm Tundra Suit*F2*WMV;
+Sweltery Tundra Vestment;
+Tundra Jacket of Survival*F2*WMV;
+Tundra Raiment of Mayhem;
+Urville Cloak of Flames;
+
+| boots =
+Tundra Boots of Mayhem*F2;
+Tundra Footwear of Loyalty;
+Tundra Walkers of Survival*F2*WMV;
+Urville Boots of Flames;
+
+| athames =
+Mage's Blustery Razor*F2;
+Mage's Dirk of Guile;
+Urville Dagger of Flames;
+Urville Edge of Snowgusts;
+Urville Knife of Elation;
+Urville Kris of Wintertide*F2;
+Urville Spike of Honor;
+
+| amulets =
+Ampul of the Polarian Mage;
+Mage's Collar of Aplomb;
+Mage's Dolorous Amulet;
+Mage's Hardy Carcanet;
+Urville Chaplet of Anguish; 
+Urville Charm of Snowgusts*F2;
+Urville Pendant of Elation;
+Urville Relic of Wintertide;
+
+| rings =
+Inspector's Band of Shivers;
+Inspector's Ring of Grief;
+Iron Paw's Band of Clangor;
+Mage's Dolorous Ring;
+Mage's Wintry Ringlet*F2*WMV;
+
+| wands =
+Axe of Tundra Blizzards;
+Mage's Dolorous Wand;
+Polarian Mage's Wand*F2*WMV;
+Polarian Tundra Bardiche;
+Tundra Axe of Hailstorms;
+Tundra Axe of Loyalty;
+Tundra Bardiche of Ferocity;
+Tundra Bardiche of Mayhem;
+
+| decks =
+Mage's Case of Guile;
+Mage's Wintry Fascicle;
+Polarian Tundra Spelldeck;
+Tundra Deck of Swelters;
+Tundra Gallery of Hailstorms;
+Tundra Survivor's Pack;
+
+| items =
+Arcanum Theme;
+Medium Enchanted Pot*F2*WMV;
+Medium Pot;
+Polaris Baba Yaga Theme*F3;
+Polaris Frozen Combat Theme*F3;
+Polaris Frozen Forest Theme;
+Polaris Gulag Theme;
+Polaris Opera Theme*F4*WMV;
+Small Enchanted Pot;
+Small Pot*F2;
+Walruskberg Combat Theme;
+Walruskberg Liberated Theme;
+Walruskberg Theme;
+
+| cards =
+Age of Reckoning; 
+Ashen Bones;
+Bronze Helephant;
+Fiery Colossus;
+Mass Death Prism;
+Mass Fire Prism*F3*WMV;
+Mass Ice Prism;
+Mutate Banshee (Sun);
+Mutate Bats (Fire);
+Mutate Beetle (Storm);
+Mutate Cat (Ice)*F2*WMV;
+Mutate Colossus (Storm);
+Mutate Elf (Ice);
+Mutate Helephant (Ice);
+Mutate Helephant (Storm);
+Mutate Snake (Fire);
+Mutate Snowman (Storm);
+Mutate Wyvern (Storm);
+Namaste;
+Punklops*F2;
+Saga of Heroes;
+Steel Colossus;
+
+| reagents =
+Aether*F4*WMV;
+Agave Leaves*F4*WMV;
+Amber Dust;
+Ancient Scroll*F5*WMV;
+Aquamarine*F3*WMV;
+Astral Shard*F2;
+Black Pearl*F3*WMV;
+Blood Moss*F3*WMV;
+Brass*F5*WMV;
+Bronze Gear*F5*WMV;
+Cobalt*F4*WMV;
+Ectoplasm*F3;
+Fish Fin*F2*WMV;
+Golden Pearl;
+Grendelweed*F7*WMV;
+Mithril*F6*WMV;
+Nickel*F2;
+Scales*F6*WMV;
+Silver*F3;
+Spider Silk*F5*WMV;
+Spring*F4*WMV;
+Steel*F4*WMV;
+Sunstone;
+Tin*F4*WMV;
+Tungsten*F2*WMV;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F2;
+Chalupacabra;
+Chili Cheese Fries;
+Delicious Cookie*F4*WMV;
+Eye Candy*F2*WMV;
+French Fries*F2*WMV;
+Frosty Sugar Cubes*WMV;
+Gourmet Yogurt;
+High Road Haggis;
+Huge Ice Cream*F2*WMV;
+Jolly Rancher*F2;
+Large Ice Cream*F3*WMV;
+Mustachios*F3*WMV;
+Penne Dreadful*F3;
+Polaris Fries*F3*WMV;
+Satyr Chow*F4*WMV;
+Ships 'n' Queso*F2;
+Snow Apple Cider;
+Sprinkle Cupcake*F2*WMV;
+Submarine Sandwich*F3*WMV;
+Super Cold Popsicle*F2*WMV;
+Veggie Juice*F2*WMV;
+
+| jewels =
+Polished Blocking Peridot +11;
+
+| pins =
+
+| pets =
+Arctic Ninja Pig*CR*F2;
+Glacier Dragon*F2;
+Ice Bird*F3*WMV;
+Intrepid Seal Pup;
+Mountain Yeti*CR;
+Polar Bear Cub*CR;
+
+| seeds =
+Angel Oak*F2*WMV;
+Cornbread Fruit Bush*F2;
+Evil Snow Peas*F3*WMV;
+Fish on a Vine*F3*WMV;
+Frozen Fly Trap*F2;
+Golden Couch Potatoes;
+Goose Tree*F3*WMV;
+King Parsley*CR*F4*WMV;
+Moon Flower*F2;
+Ninja Fig*CR*F4*WMV;
+Purple Snow Apples*F3*WMV;
+Queen Crape Myrtle*F3*WMV;
+Ultra Snow Apples;
+White Desparagus*F3;
+White Laugh-O-Dil*F2;
+White Tiger Lily*F5*WMV;
+
+| mounts =
+
+| spells =
+
+}}

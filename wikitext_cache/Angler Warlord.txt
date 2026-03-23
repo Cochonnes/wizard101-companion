@@ -1,0 +1,100 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,125
+| crecla = Fish
+| school = Balance
+| startpips = 6
+| powerpips = Yes
+| critical =
+25 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life, Death;
+
+| incresist =
+35% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Celestia
+| location = Crustacean Empire
+| subloc1 = Senate Chamber
+| descrip =
+*This Boss is a Minion to {{Link|Creature|Glauco}}.  All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Elemental Trap;
+Spirit Trap;
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Natural Attack (Balance 85x, 85%);
+Judgement;
+
+| quests =
+Armed to the Gills;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

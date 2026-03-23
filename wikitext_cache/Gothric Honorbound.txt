@@ -1,0 +1,168 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,030
+| crecla = Bear
+| crecla2 = Undead
+| school = Death
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Grizzleheim
+| location = Sudrilund
+| subloc1 = Barrow
+| descrip =
+*Gothric Honorbound is encountered as a Boss as the first fight in Barrow.
+*If a Wizard is present in the duel who has already completed the Quest, Going Underground, {{Link|Creature|Rathe Coinsharp}} also appears in the duel as a Minion to Gothric Honorbound.  For this duel, all drops are recorded on this page also.
+
+| speech =
+:''"Thief! Even death is no ward against your crime! I will not let you rob my grave, as that other one tried!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+In life, nothing meant more to Gothric than his honor. In death, nothing means more to him than avenging it.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Deathblade;
+Curse;
+Vampire;
+Skeletal Pirate;
+Wraith;
+Monster Mash;
+Scarecrow;
+Natural Attack (Death 85x);
+
+| quests =
+Going Underground;
+
+| gold =
+42 - 62;
+
+| hats =
+Cold-Kissed Cowl*F4*WMV;
+Cowl of Crackling*F2*WMV;
+Cowl of Esprit;
+Cowl of the Dark Waters;
+Cowl of the One Eyed Crow*F2;
+
+| robes =
+Raiment of Smoke*F2;
+Raiment of the Sun;
+Raven's Eye Raiment*F3;
+
+| boots =
+Barbarian's Bold Boots;
+Barbarian's Brave Boots;
+Barbarian's Courage Boots*F2;
+Barbarian's Daring Boots;
+Barbarian's Fearless Boots;
+Barbarian's Fierce Boots;
+Barbarian's Valorous Boots*F2*WMV;
+
+| athames =
+Wolf's Emerald Talon*F5*WMV;
+Wolf's Tanzanite Talon*F2;
+
+| amulets =
+Burning Ties Amulet*F4;
+Valkyrie's Pearl Pendant*F2*WMV;
+
+| rings =
+Ring of the Hunting Wolf;
+
+| wands =
+Cloudberry Staff*F2;
+Staff of Absolution;
+
+| decks =
+
+| items =
+
+| cards =
+Availing Hands;
+Dark Tribute*F6*WMV;
+Elemental Defuse*F2;
+Ice Trap;
+Spirit Armor;
+Spirit Defuse;
+Storm Trap;
+Virulent Plague*F5*WMV;
+
+| reagents =
+Bronze;
+Bronze Gear*F3;
+Nickel;
+Ore;
+Tin;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Cauliflowers;
+Glowing Star Fruit;
+Salmonberry*F2;
+Shiny Tomato;
+
+| jewels =
+Amplify Talent Opal*F2;
+Feinting Spell Onyx;
+Plain Blocking Opal +3;
+Plain Damage Ruby +15;
+Pyrosaurus Rex Ruby;
+Treant Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Orange Dandelion*F2;
+Snap Dragon*F2;
+Venus Fly Trap*F2;
+Cornbread Fruit Bush;
+
+| mounts =
+
+| spells =
+
+}}

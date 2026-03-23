@@ -1,0 +1,103 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 13,095
+| crecla = Luphilim
+| school = Fire
+| school2 = Death
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+36%;
+
+| outboost =
+114%;
+
+| incboost =
+30% Ice;
+
+| incresist =
+25% Storm, Myth, Life, Death, Balance, Shadow;
+55% Fire;
+
+| outhealing =
+17%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Tomb of the Forgotten (Krokotopia)
+| subloc1 = Chamber of Phoebe
+| descrip =
+Enki the Heretic is considered a Minion to {{Link|Creature|The Prophet (Chamber of Phoebe)}}. All drops are recorded on that page.
+*For the first battle, see {{Link|Creature|Enki the Heretic}}.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Glacial Shield;
+Weakness;
+Fireblade;
+Fire Trap;
+Curse;
+Helephant (Tier 3a);
+Inferno Salamander (Tier 3a);
+Monk of Mourning (Tier 3a);
+Headless Horseman (Tier 3a);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

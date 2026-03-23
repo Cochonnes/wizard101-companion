@@ -1,0 +1,122 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 4,620
+| crecla = Deer
+| school = Shadow
+| masteries =
+Life;
+
+| shadowslots = 2
+| startpips = 1
+| powerpips = Yes
+| critical =
+74 Any;
+
+| criticalblock =
+248 Any;
+
+| outpierce =
+9%;
+
+| outboost =
+
+| incboost =
+15% Balance;
+
+| incresist =
+None;
+
+| outhealing =
+42%;
+
+| inchealing =
+47%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Lemuria
+| location = Telos
+| subloc1 = Hall of Heroes (Standard)
+| descrip =
+The Shadoe is considered a Minion to [[Creature:Stallion Quartermane (Standard)|Stallion Quartermane]]. All drops are recorded on that page.
+
+'''The First Team'''
+*{{Target|Dagger}} [[Creature:Solomon Crane (Standard)|Solomon Crane]]
+*{{Target|Key}} [[Creature:Buck Gordon (Standard)|Buck Gordon]]
+*{{Target|Gem}} [[Creature:The Shadoe (Standard)|The Shadoe]]
+*{{Target|Spiral}} [[Creature:Dog Tracy (Standard)|Dog Tracy]]
+
+'''The Second Team'''
+*{{Target|Book}} [[Creature:Mandar the Barbarian (Standard)|Mandar the Barbarian]]
+*{{Target|Chalice}} [[Creature:Duck Savage (Standard)|Duck Savage]]
+*{{Target|Wand}} [[Creature:Stallion Quartermane (Standard)|Stallion Quartermane]]
+*{{Target|Potion}} [[Creature:The Bantam (Standard)|The Bantam]]
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Legion Shield;
+Bad Juju (Shadow);
+Guiding Light;
+Dryad (Shadow);
+Unicorn (315);
+Shadowblade;
+Bladestorm;
+Feint (Shadow);
+Dark Empower;
+Mana Burn (Shadow);
+Natural Attack (Shadow 105-210-315-420);
+Brimstone Revenant (Shadow);
+Minotaur (Shadow);
+Deer Knight (Shadow);
+Chimera (Shadow);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = The Shadoe
+}}

@@ -1,0 +1,97 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 9,300
+| crecla = Eagle
+| school = Myth
+| school2 = Storm
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = Tartarus (Challenge)
+| subloc1 = Hall of Hades (Challenge)
+| descrip =
+*For the Standard version of this Creature, see {{Link|Creature|Zeus Sky Father (Tartarus)}}.
+
+For the purpose of drops, Zeus Sky Father (Tartarus, Challenge) is considered a Minion to {{Link|Creature|Hades the Unseen (Tartarus, Challenge)}}. All drops, cheats, and speech are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Epiphany Attenuate;
+Amplify;
+Mythblade;
+Stormblade (+30%);
+Epiphany Blade;
+Mass Myth Trap;
+Mass Storm Trap;
+Medusa (Tier 2b);
+Celestial Calendar (Tier 2b);
+Natural Attack (Tartarus Zeus);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Zeus Sky Father (Tartarus)
+}}

@@ -1,0 +1,149 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 16,190
+| crecla = Vampire
+| crecla2 = Undead
+| school = Death
+| school2 = Ice
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+510 Any;
+
+| criticalblock =
+191 Any;
+
+| outpierce =
+17%;
+
+| outboost = 
+113%;
+
+| incboost =
+30% Life;
+
+| incresist =
+37% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+67% Death;
+
+| outhealing =
+11%;
+
+| inchealing = 
+
+| stunable = No
+| beguilable = No
+| minions =
+Vampire Guard (Death-Myth);
+
+| world = Darkmoor
+| location = Mortal Plain
+| subloc1 = Ascension Chapel
+| descrip =
+
+| speech =
+''"I do not converse with feral swine. Nothing you have done matters. We will harvest every creature here to fill our larders. Then we will cultivate a new generation of mortals from other Plains. There will be no memory of what you have done here. You will have died for nothing. Oh, yes, the Gray Man can rot for all I care. The old order is falling. The Broken Branch's cure will cleanse the lesser houses. But we will survive. For we are the lords of night, and our cups are always full!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Darkmoor
+| tome description =
+Last seen disappearing into the woods with someone called Red Death. She's probably fine.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| can expel = No
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes = 
+*{{Icon|Steal}} ''"You don't drain us, we drain you!"'' - If either Cleric Elezar or her minions are hit with a Drain spell, the enemy that was hit will cheat-cast one of the following spells on themself:
+**If they are not defeated by the attack, they will cast an {{Link|Spell|Aegis}}-protected +100% {{Link|Spell|Balanceblade}} on himself.
+**If they are defeated by the attack, they will cast a version of {{Link|Spell|Minor Blessing}} on themself that heals for 100% of their max health.
+*{{Icon|Spell}} ''"Is that the sun?!"'' - If either Cleric Elezar or her minions are hit by a spell with a sun in it (such as {{Link|Spell|Sun Serpent}}, {{Link|Spell|Ra}}, or {{Link|Spell|Climaclysm}}) and are not defeated by it, they will cast a protected universal dispel on themself.
+
+| spellnotes =
+
+| casts =
+Stabilize;
+Tower Shield;
+Moon Shield;
+Empower;
+Scarecrow;
+Doom Oni;
+Blizzard;
+
+| quests =
+Interlude With a Vampire;
+Descent;
+
+| gold = 
+15 - 40;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Creepy Bookshelf*CR;
+Creepy Chair*CR;
+Darkmoor Roses*CR;
+Mortal Plains Hay*CR;
+Outsiders Abode*CR;
+Vampire Lord Casket*CR;
+
+| cards =
+Avenging Fossil;
+Basilisk;
+Chimera;
+Dr. Von's Monster;
+Rebirth;
+Woolly Mammoth;
+
+| reagents =
+Amber Dust;
+Astral Shard;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Cubby Broccoli;
+Pickled Garlic Grubs;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,140 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 3,085
+| crecla = Undead
+| school = Fire
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+3%;
+
+| outboost =
+35%;
+
+| incboost =
+30% Storm, Life;
+
+| incresist =
+4% Fire, Death, Balance, Shadow;
+34% Ice, Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = Triton Avenue
+| subloc1 = Rotten Rob's Hideout
+| descrip =
+Defeating Rotten Rob is part of the Novice Storm Weaving Quest, ''"Life After Undeath"''. Wizards can also defeat Rotten Rob 6 times as one of their Storm Weaving lessons, which awards the badge, [[Basic:Storm Weaving Badges|Re-Deaded The Undead]].
+
+| speech =
+:'''Rotten Rob''': ''"Why isn't it working? Work! I command you!"''
+:'''{{Link|NPC|Daisy Willowmancer}}''': ''"There you are, Life-Thief! Give me back my magic!"''
+:'''Rotten Rob''': ''"No, I need it! With enough Life Magic, I will undo the curse of Death. I will be Rotten Rob no longer. I will become my true self: Fiery Fred the No-Longer-Dead."''
+:'''Daisy Willowmancer''': ''"Willikers! That's why you did this? It doesn't work that way. You can't just pump Life into the dead."''
+:'''Rotten Rob''': ''"Of course I can! But maybe I just need to balance the scales. Maybe I just need... a sacrifice."''
+
+| cheatnotes =
+*During the first Round, Rotten Rob will use his turn to cast {{Link|Spell|Scald}}.
+**{{Link|Spell|Quench}} can be used to prevent this spell.
+*{{Icon|Damage over Time}} ''"Oh, he's doing that Fire school thing, I think Storms can counter it!"'' - At the end of every Round, Rotten Rob will cast a version of {{Link|Spell|Efreet (Tier 2b)}} that deals 100 Fire Damage and deals 450 Fire Damage over 6 Rounds if target has a Damage over Time effect.
+**{{Link|Spell|Quench}} can be used to prevent this cheat.
+**If Rotten Rob's initial {{Link|Spell|Scald}} fizzles, or is prevented with {{Link|Spell|Quench}}, he will continue to cast Efreet without any Damage over Time effect. 
+** If the Wizard is second to cast, {{Link|Spell|Triage}} can be used to remove the Damage over Time and prevent additional Damage over Time effects when Efreet is cast.
+*{{Icon|Healing}} If Rotten Rob is defeated while his Efreet cheat is still active, then he will revive with full Health.
+*{{Icon|Spell}} *''"Hang on! Try this on him!"'' - At the beginning of the 4th Round, or after Rotten Rob has revived and then randomly at the end of subsequent Rounds, Daisy Willowmancer will give all Wizards the following Spell:
+**{{GivesSpell|cards=1|size=x150px|Stormzilla (Tier 2b)}}
+*{{Icon|Storm}} ''"Wowzer, Storm douses Fire, huh?"'' - If a Wizard casts {{Link|Spell|Stormzilla (Tier 2b)}}, Rotten Rob will remove all Damage over Time effects on all Wizards and stop his Efreet cheat.
+**''"How'd you do that?"'' - If a Wizard uses another Storm Spell that removes Damage over Time effects, such as {{Link|Spell|Lightning Bats (Tier 2b)}}, Rotten Rob will remove all Damage over Time effects from all Wizards and stop his Efreet cheat.
+
+| spellnotes =
+
+| casts =
+Fireblade;
+Fire Trap;
+Sunbird;
+Fire Shark;
+Meteor Strike;
+Scald;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+
+| quests =
+Life After Undeath;
+
+| dropnotes =
+Wizards will receive Jewels that are appropriate for their Level.
+
+| gold =
+3 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Kraken (Tier 2b)*F3;
+Lightning Bats (Tier 2b)*F3;
+Storm Shark (Tier 2b)*F4*WMV;
+Storm Trap*F3*WMV;
+Stormblade*F6*WMV;
+Thunder Snake (Tier 2b)*F2;
+Triton (Tier 2b)*F8*WMV;
+
+| reagents =
+Weft Yarn @ 10 Weft Yarn*F6*WMV;
+Weft Yarn @ 12 Weft Yarn*F3;
+Weft Yarn @ 15 Weft Yarn*F8;
+Weft Yarn @ 50 Weft Yarn*F2*WMV;
+Weft Yarn @ 100 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Amazing Accurate Amethyst +15%;
+Dazzling Accurate Amethyst +14%;
+Flawless Accurate Amethyst +16%;
+Opaque Accurate Amethyst +8%;
+Shiny Accurate Amethyst +12%;
+Sparkling Accurate Amethyst +13%*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

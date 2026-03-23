@@ -1,0 +1,180 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,085
+| crecla = Grendel
+| school = Life
+| startpips = 3
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Svini Beserker;
+
+| world = Grizzleheim
+| location = Vestrilund
+| subloc1 = Sveipr's Cave
+| descrip =
+Two additional Svini Beserker Minions appear if more than two Wizards are present.
+
+| speech =
+:''"The golden one is mine! I took it, square and fair!"''
+
+| spellnotes =
+
+| casts =
+Regenerate;
+Lifeblade;
+Life Trap;
+Nature's Wrath;
+Life Banshee (250);
+Seraph;
+Earth Walker;
+Centaur;
+Natural Attack (Life 85x);
+
+| quests = 
+Brothers Grim;
+ 
+| gold =
+51 - 88;
+
+| hats =
+Barbaric Helm;
+Bitter Cold Bear Hat;
+Blasted Bear Hat;
+Grizzled Helm;
+Horned Helm of Bravery;
+Horned Helm of Courage*F2*WMV;
+Horned Helm of the Mighty;
+Horned Helm of Valor;
+
+| robes =
+Jerkin of the Bear's Shadow;
+Jerkin of the Iron Bear;
+Jerkin of the Roaring Bear;
+Raiment of Smoke*F3;
+Raiment of the Evil Eye*F2;
+
+| boots =
+Angry Bear Boots*F2;
+Barbarian's Bold Boots*F2;
+Barbarian's Brave Boots;
+Barbarian's Courage Boots*F2;
+Barbarian's Daring Boots;
+Barbarian's Fearless Boots;
+Barbarian's Fierce Boots;
+Barbarian's Valorous Boots*F4*WMV;
+Fighting Bear Boots;
+
+| athames =
+Wolf's Emerald Talon*F2;
+
+| amulets =
+Moon's Healing Charm*F4*WMV;
+
+| rings =
+Ring of Claw*F2*WMV;
+Ring of the Ravenous Wolf*F2;
+Ring of the Wolf's Howl*F2;
+
+| wands =
+Cloudberry Staff;
+Staff of the Boreal Bear*F2;
+Staff of the Rushing Bear;
+
+| decks =
+
+| items =
+
+| cards =
+Brilliant Light*F3;
+Cyclops;
+Fire Trap;
+Ice Trap;
+Storm Shark*F2;
+Strong;
+Triage*F5*WMV;
+Unicorn;
+Weakness;
+
+| reagents =
+Brass;
+Bronze;
+Bronze Gear*F2;
+Cobalt;
+Nickel;
+Spider Silk*F5*WMV;
+Steel;
+Tin;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Cauliflowers*F2*WMV;
+Delicious Cookie*F2;
+Flaming Soup;
+Glowing Star Fruit*F3*WMV;
+Golden Grapes;
+Gummy Humongofrog*F2;
+Salmonberry;
+Shiny Tomato;
+Spicy Drumstick;
+Strawberry Cupcake;
+
+| jewels =
+Buff Minion Talent Peridot;
+Button Tom Peridot;
+Effervescent Opal;
+Empowerment Talent Opal;
+Mander Opal;
+Mass Fire Prism Ruby;
+Mass Myth Prism Peridot;
+Mass Storm Prism Amethyst;
+Plain Blocking Amethyst +6;
+Plain Blocking Opal +3;
+Plain Damage Onyx +15;
+Plain Damage Ruby +15;
+Sturdy Opal;
+Thunder Lizard Amethyst;
+Treant Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Cornbread Fruit Bush;
+Evil Snow Peas*F2;
+Helephant Ears;
+Orange Dandelion*F2*WMV;
+Snap Dragon;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

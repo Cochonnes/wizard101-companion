@@ -1,0 +1,75 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 17
+| heal = 9,800
+| crecla = Shadow Trickster
+| school = Shadow
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| incboost =
+
+| incresist =
+Storm;
+
+| stunable = 
+| beguilable = 
+| minion = 
+| world = Arcanum
+| location = The Arcanum
+| subloc1 = Tricksters Lair
+| descrip = The Shadow Trickster, along with its associated Quest, was accidentally released among some bug fixes and small updates that were applied to Wizard101 on July 27, 2017.  It was removed from Wizard101 the following day, but it has since returned in the November 2017 Update (See: {{Link|Creature|Shadow Trickster}}).
+
+'''Speech:'''
+:''"Haha! The Child of Light and Shadow, here in Darkmoor? To what do I owe the honor? You came all this way to see me? Why... I'm flattered! But flattery will get you nowhere, of course. I prefer the reward Grandfather Spider's offering for your capture. Yes. Let us duel!"''
+
+| spellnotes =
+
+| casts =
+Infection;
+Shadowblade;
+Dark Pact (+30%);
+Glowbug Squall (Shadow, 1,120);
+Leviathan (Shadow);
+
+| quests =
+Shadow Trickster (Retired);
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

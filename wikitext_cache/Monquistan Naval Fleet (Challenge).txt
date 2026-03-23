@@ -1,0 +1,110 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 14,620
+| crecla = 
+| school = Myth
+| school2 = Fire
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Fire;
+Myth;
+Life;
+
+| critical =
+Fire, Myth;
+
+| criticalblock =
+Any;
+
+| outpierce =
+42%;
+
+| outboost =
+184% Fire, Myth;
+
+| incboost =
+None;
+
+| incresist =
+0% Moon;
+48% Fire, Ice, Storm, Myth, Life, Death, Balance, Sun, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Novus
+| location = Doom Moon
+| subloc1 = Invading Fleets (Challenge)
+| descrip =
+Monquistan Naval Fleet is considered a Minion to [[Creature:Valencian Naval Fleet (Challenge)|Valencian Naval Fleet]]. All drops and cheats are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+I am Blessed!;
+Mythic Fuel;
+Fireblade;
+Pierce (Fire);
+Cleanse Charm (Ice);
+Blood Bat (Tier 5a);
+Drop Bear Fury (Tier 3a);
+Minotaur (Tier 5b);
+Fire Elf (Tier 5b);
+Phantasmania! (Tier 3a);
+Glimpse of Infinity (Tier 3b);
+Fire Dragon;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Monquistan Naval Fleet
+
+}}

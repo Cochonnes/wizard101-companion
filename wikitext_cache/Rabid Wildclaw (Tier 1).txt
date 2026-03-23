@@ -1,0 +1,90 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 1,360
+| crecla = Wolverine
+| school = Storm
+| startpips = 
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 1)
+| descrip =
+All drops for this creature go on [[Creature:Jokul (Tier 1)|Jokul (Tier 1)'s]] page
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Stormblade;
+Storm Trap;
+Storm Beetle (125);
+Storm Serpent (230);
+Lightning Bats;
+Storman (265);
+Natural Attack (Storm 150-2,425);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

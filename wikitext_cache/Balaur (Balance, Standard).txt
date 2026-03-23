@@ -1,0 +1,227 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 12,000
+| crecla = Wyrm
+| school = Balance
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Balaur (Life-Myth, Standard);
+Balaur (Death-Fire, Standard);
+Balaur (Ice-Storm, Standard);
+
+| world = Darkmoor
+| location = Scholomance
+| subloc1 = Heretical Academy (Standard)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"Fool! You dare to sneak in late?"'' - If a wizard joins the battle late, Balaur (Ice-Storm) will cheat-cast a version of {{Link|Spell|Mana Burn}} that removes all of the wizard's pips.
+*{{Icon|Round}} ''"Let the world turn to my will!"'' - At the start of combat, Balaur (Balance) designates himself as "active" and all other Balaurs as "inactive".
+**All spells can only target the "active" Balaur, including AOE spells.
+**"Inactive" Balaurs will always pass until they are able to use a 7 pip or stronger spell.
+**Once the "active" Balaur is defeated, the next Balaur in sequence will become "active". The order of Balaurs is as follows:
+***{{Icon|Balance}} {{Link|Creature|Balaur (Balance, Standard)}}
+***{{Icon|Life}} {{Icon|Myth}} {{Link|Creature|Balaur (Life-Myth, Standard)}}
+***{{Icon|Death}} {{Icon|Fire}} {{Link|Creature|Balaur (Death-Fire, Standard)}}
+***{{Icon|Ice}} {{Icon|Storm}} {{Link|Creature|Balaur (Ice-Storm, Standard)}}
+*{{Icon|Afterlife}} ''"Even death cannot fell me!"'' ''"The wheel of fortune turns without you"'' - When the "active" Balaur dies, the next Balaur in sequence will become "active" and begin its cheats. All cheats from the previous defeated Balaur will be removed.
+*{{Icon|Feint}} At the start of the round, if Balaur has a feint on it, it will remove the feint. {{Link|Spell|Indemnity}} does not stop this cheat. Other traps are not affected.
+*{{Icon|Global}} ''"I am the emperor of this realm. I decide its state."'' - If a wizard casts a Global spell, the "active" Balaur will replace it with its own Global.
+
+{{Icon|Balance}} '''{{Link|Creature|Balaur (Balance, Standard)}}'''
+*''"Let Spring rejuvenate our strength"'' - Casts {{Link|Spell|Balance of Power}} upon becoming "active".
+*''"The star itself will replenish my pips"'' - At the end of the first round and every 4 rounds thereafter while it is "active", Balaur (Balance) gains 7 power pips.
+
+{{Icon|Life}} {{Icon|Myth}} '''{{Link|Creature|Balaur (Life-Myth, Standard)}}'''
+*''"Let Summer sear with the sun"'' - Casts {{Link|Spell|Circle of Thorns}} upon becoming "active".
+*At the end of each round while it is "active", Balaur (Life-Myth) places a 20% shield on itself. This shield increases by 20% potency after each cast. Once it reaches 100%, this cheat stops. 
+
+{{Icon|Death}} {{Icon|Fire}} '''{{Link|Creature|Balaur (Death-Fire, Standard)}}'''
+*''"Let Autumn balance the scales of justice"'' - Removes all blades and shields from all wizards and casts {{Link|Spell|Deadzone}} upon becoming "active".
+
+{{Icon|Ice}} {{Icon|Storm}} '''{{Link|Creature|Balaur (Ice-Storm, Standard)}}'''
+*''"Let Winter's temperance wither you all"'' - Removes all pips from all wizards and casts {{Link|Spell|Balefrost}} upon becoming "active".
+*''"My power is towering, now for the destruction"'' - At the end of each round while it is "active", Balaur (Ice-Storm) grants itself 2 power pips.
+
+| monstrology =
+{{Monstrology Info
+| tome world = Darkmoor
+| tome description =
+Before the golem bodies, Balaur was a brain in a jar. Before that, he was this. Before this? that'd be telling.
+
+| extract class =
+Wyrm;
+
+| summon animus = 20
+| summon gold = 1000
+| guest animus = 30
+| guest gold = 2,500
+}}
+| spellnotes =
+Casts a Natural Attack for 7 pips that deals 780 Balance Damage to all wizards
+
+| casts =
+Scarab (Tier 5a);
+Obsidian Colossus (Tier 3b);
+Mind Blown!;
+
+| quests =
+The Databrain That Wouldn't Die;
+Scholhouse Rock;
+
+| gold =
+
+| hats =
+Chilling Abomination Crown;
+Doomed Abomination Crown;
+Mythic Abomination Crown;
+Sanguine Abomination Crown;
+Scary Abomination Crown;
+Scholomantic Death Crown;
+Scholomantic Destructive Crown;
+Scholomantic Devilish Crown;
+Scholomantic Fortune Crown;
+Scholomantic Justice Crown;
+Scholomantic Strength Crown;
+Scholomantic Worldly Crown;
+Shocking Abomination Crown;
+Tense Abomination Crown;
+
+| robes =
+
+| boots =
+Chilling Abomination Stompers;
+Doomed Abomination Stompers;
+Mythic Abomination Stompers;
+Sanguine Abomination Stompers;
+Scary Abomination Stompers;
+Scholomantic Death Paws;
+Scholomantic Destructive Paws;
+Scholomantic Devilish Paws;
+Scholomantic Fortune Paws;
+Scholomantic Justice Paws;
+Scholomantic Strength Paws;
+Scholomantic Worldly Paws;
+Shocking Abomination Stompers;
+Tense Abomination Stompers;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Chilling Abomination Glaive;
+Doomed Abomination Glaive;
+Mythic Abomination Glaive;
+Sanguine Abomination Glaive;
+Scary Abomination Glaive;
+Scholomantic Death Axe;
+Scholomantic Destructive Axe;
+Scholomantic Devilish Axe;
+Scholomantic Fortune Axe;
+Scholomantic Justice Axe;
+Scholomantic Strength Axe;
+Scholomantic Worldly Axe;
+Shocking Abomination Glaive;
+Tense Abomination Glaive;
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Outsider Relic @ 6 Outsider Relic;
+Outsider Relic @ 7 Outsider Relic;
+Outsider Relic @ 8 Outsider Relic;
+Outsider Relic @ 9 Outsider Relic;
+
+| spellements =
+Ammut;
+Anubis;
+Barbarian's Saga;
+Bunyip's Rage;
+Dark & Stormy;
+Deathly Depths;
+Drop Bear Fury;
+Freeze Ray;
+Glimpse of Infinity;
+Gravestorm;
+Grim Reader;
+Improbable Gaze;
+Lord of the Jungle;
+Mortality;
+Phantasmania!;
+Rainbow Serpent;
+Scales of Destiny;
+Shu;
+Starspawn;
+Taweret;
+The Chariot;
+The Emperor;
+The Hierophant;
+The Tower;
+The World;
+Tree of Strife;
+Wheel of Fortune;
+Wobbegong Frenzy;
+Zand the Bandit;
+
+| snacks =
+
+| jewels =
+Bright Conversion Onyx +67;
+Bright Conversion Peridot +66;
+Cleanse Charm Peridot;
+Feint Citrine;
+Flawless Mana Opal +62;
+Potent Trap Opal;
+Spirit Blade Citrine;
+Spirit Trap Citrine;
+Storm Trap Amethyst (Tear);
+Triage Jade;
+Unearthly Mana Opal +68;
+
+| pins =
+Fire Disabling Pin (180, Death);
+Fire Punishing Pin (180, Death);
+Ice Disabling Pin (180, Death);
+Ice Punishing Pin (180, Death);
+Life Punishing Pin (180, Death);
+Storm Crushing Pin (180, Death);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

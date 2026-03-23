@@ -1,0 +1,260 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 23,600
+| crecla = Undead
+| school = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+40%;
+
+| outboost =
+
+| incboost =
+30% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| randomminions =
+Darkmoor Squire;
+Scarlet Wampyr;
+
+| totalminions = 3
+| world = Wizard City
+| location = Upper Halls
+| subloc1 = Bunferatu's Chamber
+| badge = Bunferatu's Downfall
+| descrip =
+Bunferatu is a "Secret Boss" found in Castle Darkmoor's Upper Halls. A {{Link|House|Gold Skeleton Key}} is required to access him.
+*This Boss's three Minions include any combination of Darkmoor Squires and Scarlet Wampyrs.
+
+| speech =
+:''"Blah ah ah! Good evening, sweet Wizard. We get visitors like you so rarely in Darkmoor. Won't you come in to the warmth? You're just in time for dinner! Here, let me serve you. My vegetable varlets and I are famished!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+He stalks the desolate fields and hopeless warrens of Darkmoor with an unquenchable thirst for mayhem. And juice!
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*''"Doom and gloom!"'' - At the beginning of Round 1, Bunferatu casts {{Link|Spell|Doom and Gloom (-75%)}}.
+:*Attempting to replace the Global will have this cheat recast.
+*''"I plague you!"'' - If a Wizard attacks Bunferatu, he will cast {{Link|Spell|Infection}} on the Wizard.
+
+'''Interrupt Cycle:'''
+*''"Death sharpens my bite!"'' - At the end of every second Round in this cycle, Bunferatu will cast {{Link|Spell|Dark Tribute (+30%)}}, {{Link|Spell|Deathblade}}, and {{Link|Spell|Balanceblade (+30%)}}.
+*''"Death swallow you!"'' - At the beginning of every third Round in this cycle, Bunferatu will cast Call of Khrulhu.
+
+| spellnotes =
+
+| casts =
+Berserk;
+Virulence;
+Mass Infection;
+Sacrifice;
+Deathblade (+40%);
+Curse;
+Death Trap;
+Natural Attack (Death 110-215-425);
+Call of Khrulhu;
+Monster Mash (1,170);
+Scarecrow;
+Avenging Fossil;
+
+| quests =
+
+| dropnotes =
+Wizards will receive 3 or 4 guaranteed Headless Horseman spellements after each fight during the Hallowe'en event.
+
+| gold =
+1,236 - 1,739;
+
+| hats =
+Brimstone Helm of Darkmoor*F2;
+Darkmoor Barbut of Delusion;
+Darkmoor Helmet of Shivers*F2;
+Darkmoor Herald's Mantle*F2;
+Depths of Darkmoor Cover*F3;
+Helm of the Living Dead*F3;
+Raging Blackwater's Helm*F2;
+
+| robes =
+Brimstone Gear of Darkmoor*F2;
+Darkmoor Armor of Delusion*F3;
+Darkmoor Armor of Shivers*F4;
+Darkmoor Herald's Gear*F3;
+Depths of Darkmoor Raiment*F3;
+Plate of the Living Dead;
+Raging Blackwater's Plate*F3;
+
+| boots =
+Brimstone Boots of Darkmoor*F3;
+Darkmoor Boots of Delusion*F3*WMV;
+Depths of Darkmoor Stalkers*F2;
+Herald of Darkmoor's Shoes*F2;
+Raging Blackwater's Boots*F3*WMV;
+Sabatons of Frozen Furor;
+Sabatons of the Living Dead*F2;
+
+| athames =
+
+| amulets =
+Embodiment of Death Charm;
+Vial From the Fetid Lagoon;
+
+| rings =
+Band of Exultance*F2;
+Band of the Cold Grave;
+Blackwater's Band;
+Cirque of Neverwhere*F2;
+Gargoyle's Circle;
+Herald of Darkmoor's Seal;
+Ring of Mortis;
+Ring of the Ceaseless Dark;
+Ring of the Seeker*F2;
+Scarlet Wampyr's Ringlet;
+Signet of the Howling Wolf;
+Spirit of Darkmoor's Band*F2;
+Von Shane Family Signet;
+Wolfbane Loop*F2;
+
+| wands =
+Bludgeon of the Dark Skies;
+Mace of the Dark Flame;
+Mace of the Outer Void;
+Mace of the Undying*F3*WMV;
+Morning Star of Kan Davasi*F2;
+Morning Star of Misery;
+Virge of the Bitter Ghost*F2;
+
+| decks =
+Arcana of Kan Davasi;
+Cards of the Blue Ague;
+Darkmoor's Brimstone Deck;
+Darkmoor's Case of Scrutiny;
+Deck of Unchecked Passion;
+Thunderous Darkmoor Hand;
+Von Shane's Hand of Doom;
+
+| items =
+Lilac Waves Floor;
+Red Waves Wallpaper;
+Salmon Waves Wallpaper*F2;
+
+| cards =
+Celestial Calendar*F2;
+Chastisement*F2;
+Dark Tribute;
+Deer Knight;
+Furnace;
+Galvanic Field*F2;
+Hex;
+Lady Blackhope*F2;
+Lord of Night;
+Luminous Weaver;
+Plague;
+Poison;
+Sabertooth;
+Samoorai;
+Savage Paw;
+Sleet Storm*F2;
+Spinysaur*F2;
+Storm Owl;
+Sun Serpent;
+The Bonekeeper*F2;
+Vampire*F2;
+Virulence;
+
+| reagents =
+Astral Shard*F2;
+Black Lotus*F3;
+Black Pearl*F5;
+Blood Moss;
+Bone;
+Bronze Gear*F2;
+Cobalt*F2;
+Copper;
+Deep Mushroom*F3;
+Fire Blossom;
+Golden Pearl;
+Iron;
+Lava Lily*F4;
+Mist Wood*F4;
+Mote of Eternity;
+Nickel;
+Ore;
+Pyrite;
+Red Mandrake*F3;
+Stone Block*F2;
+Turquoise*F3;
+
+| spellements =
+Headless Horseman*HOL*F5;
+
+| snacks =
+Boom Stroganoff;
+Cold Snap Peas;
+Cornbread Fruit;
+Granny Snow Apple*F3*WMV;
+Gummy Bees;
+Honeycombs;
+Honeycrisp Apples;
+HoneyDon't Melon;
+Huckleberry Pie;
+Rye Bread Fruit;
+Snow Apple Pie*F2;
+Wrath's Grape Juice;
+
+| jewels =
+Gold Miner Opal;
+Polished Piercing Onyx +6%;
+Storm-Giver Amethyst;
+
+| pins =
+
+| pets =
+Beguiled Gargoyle*F2;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears*F2;
+Frozen Fly Trap;
+Key Limes*CR*F2;
+Melting Cheese Tree;
+Moon Flower;
+
+| mounts =
+
+| spells =
+
+}}

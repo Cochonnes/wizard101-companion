@@ -1,0 +1,155 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 15,920
+| crecla = Golden Horde Soldier
+| crecla2 = Horse
+| crecla3 = Equine
+| school = Life
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+16%;
+
+| outboost =
+101%;
+
+| incboost =
+None;
+
+| incresist =
+50% Fire, Ice, Storm, Myth, Life, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+100%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| randomminions =
+Golden Horde Soldier (Fire);
+Golden Horde Soldier (Myth);
+
+| totalminions = 1
+
+| world = MooShu
+| location = Catmandu
+| subloc1 = Sacred Yarn Temple
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*Two additional [[Creature:Bankhar (Balance)|Bankhars]] will appear if more than two Wizards are present.
+
+| speech =
+:'''Golden Horde Captain:''' ''"Just tell me how to reach the Stone of Heaven! Tell me what it is!"''
+:'''{{Link|NPC|Acolyte Ang}}''' ''"It is but a knot in the yarn of life. Each of us must unravel it on our own."''
+:'''Golden Horde Captain:''' ''"And when you unraveled it, what did you find?"''
+:'''Acolyte Ang:''' ''"Only more knots."''
+:'''Golden Horde Captain:''' ''"AHHH, enough of this! I already have what I want from you. So let's get back to breaking things. And people."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Novus
+| tome description =
+Won his title in a shouting contest: a bunch of guys yelling battle cries. The others were all a little hoarse.
+
+| extract class =
+Equine;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Round}} ''"Feel the wrath of the Horde"'' - At the end of every two Rounds, Golden Horde Captain will cast one of the following spells:
+**Unicorn, Sacred Charge, {{Link|Spell|Centaur}}, {{Link|Spell|Headless Horseman}},
+**{{Link|Spell|Chivalrous Centaur}}, {{Link|Spell|Snow Angel}}, {{Link|ItemCard|Shift Otomo}}, {{Link|ItemCard|Shift Margherita}}
+
+| spellnotes =
+
+| casts =
+Empowerment;
+Legend Shield;
+Tower Shield;
+Guiding Light;
+Brilliant Light;
+Weakness;
+Unicorn;
+Rebirth;
+Luminous Weaver;
+Legend Golem;
+Sacred Charge;
+
+| quests =
+The Longest Yarn;
+Gold Meddlers;
+
+| gold =
+7;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Fish Fence;
+Novus Conatus Combat Theme*F2;
+Novus Dasein Theme 2;
+Novus La Ville Rose Combat Theme;
+Novus La Ville Rose Theme;
+Novus New Vicorgia Combat Theme;
+Novus Manticore Madness Theme 2;
+Novus Puerto Nuovo Theme;
+Novus Stone of Heaven Theme;
+Novus War Combat Theme;
+
+| cards =
+Guidance*TEST;
+Mass Storm Prism;
+
+| reagents =
+Amber Dust;
+Astral Shard;
+Draconium;
+Steel;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

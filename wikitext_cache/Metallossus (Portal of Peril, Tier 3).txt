@@ -1,0 +1,151 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 14,590
+| crecla = Colossus
+| school = Balance
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+| masteries =
+Fire;
+Ice;
+Storm;
+Myth;
+Life;
+Death;
+
+| criticalblock =
+
+| outpierce =
+14%;
+
+| outboost =
+89%;
+
+| incboost =
+None;
+
+| incresist =
+300% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Runic Fragment;
+
+| world = Portal of Peril
+| location = Sinbad & the Iron Sultan Gauntlet (Portal of Peril)
+| subloc1 = Metallos (Portal of Peril)
+| descrip =
+The Metallossus is one of two secret bosses that can appear in the Sinbad & the Iron Sultan Gauntlet, the other of which being [[Creature:Leadite (Portal of Peril, Tier_3)|Leadite]]. Found behind a false wall between the [[Creature:Metaltaur (Portal of Peril, Tier 3)|Metaltaur]] and [[Creature:Chromeclops (Portal of Peril, Tier 3)|Chromeclops]] encounters, Metallossus will not appear during every run, and will only be present if the Leadite is not.
+*This version of the Boss is unique to the Portal of Peril event.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+Better than being a Plastillossus.  They just break all the time.
+
+| extract class =
+Colossus;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+| altlink = Metallossus
+
+| spellnotes = 
+
+| cheatnotes = 
+*''"Only Dispels can pierce my metal!"'' - At the beginning of the first Round, the Metallossus will cheat-cast a version of Mighty Judgement that damages all enemies and applies the same two Dispels on all enemies.
+*''"Oof, Smart Move!"'' - If Metallossus is hit, the Metallossus will steal all Dispels from that Wizard and place them onto himself.
+*''"Trying to pierce through my defense?"'' - If a Wizard casts an Armor Piercing Charm, Metallossus will cheat-cast {{Link|Spell|Enfeeble (Shadow)}} on the caster.
+**{{Link|Spell|Aegis}} is ineffective in protecting against this cheat.
+*''"Only Dispels can supress my magic!"'' - If a Wizard casts a harmful Charm that is not a Dispel, Metallossus will cheat-cast {{Link|Spell|Cleanse Charm (Shadow)}}, removing all harmful Charms from himself.
+*''"Argh- 6 dispels is too much to handle!"'' - At the end of a Round, if the Metallossus has 6 or more Dispels, then he will remove all Dispels on himself to apply a +300% Armor Piercing Ward on himself.
+**''"Fragment!"'' - At the beginning of the next Round, the Metallossus will summon a Runic Fragment.
+***An additional Runic Fragment is summoned when the Metallossus is defeated.
+*''"My Fragment protects me from Dispels!"'' - If a Dispel is placed on then Metallossus while a Runic Fragment is in the duel, then the Metallossus will push all Dispels to the Runic Fragment.
+
+| casts =
+Unbalance (All Enemies);
+Elemental Defuse; 
+Spirit Defuse;
+Quench (All Enemies);
+Melt (All Enemies);
+Dissipate (All Enemies);
+Vaporize (All Enemies);
+Entangle (All Enemies);
+Strangle (All Enemies);
+Dark Surge;
+Mighty Judgement;
+Myth Imp (325);
+Fiery Giant;
+Mighty Judgement (Shadow);
+
+| quests =
+
+| dropnotes =
+This Boss will always drop 5 Fortune Coins.
+
+| gold =
+16 - 47
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Fortune Coin @ 5 Fortune Coins*F4*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Plucky Gryphon*CR;
+
+| seeds =
+
+| mounts =
+Roc*7*CR*F2;
+Roc*PERM*CR;
+
+| spells =
+
+| altimage = Metallossus
+}}

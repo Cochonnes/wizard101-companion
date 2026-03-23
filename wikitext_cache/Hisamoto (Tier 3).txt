@@ -1,0 +1,94 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,935
+| crecla = Samoorai
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Midnight Sun Pagoda
+| subloc1 = 
+| descrip =
+Hisamoto is considered a Minion to [[Creature:Yoshinobu (Tier 3)|Yoshinobu]].  All drops and cheats should be recorded on Yoshinobu's page.
+
+| speech =
+
+| spellnotes =
+*Hisamoto will always cast Legion Shield on Round 1, and then again every 3 Rounds after.
+
+'''Natural Attack:'''
+*Deals an unknown quantity of Myth Damage for 1 Pip
+
+| casts =
+Legion Shield;
+Mythblade;
+Yellow Troll;
+White Rat Magician;
+Myth Imp;
+Minotaur;
+Earthquake;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

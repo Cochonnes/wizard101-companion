@@ -1,0 +1,119 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 13,045
+| crecla = Mander
+| school = Myth
+| shadowslots = 2
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+29%;
+
+| outboost =
+142%;
+
+| incboost =
+5% Storm;
+
+| incresist =
+73% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Lemuria
+| location = Telos
+| subloc1 = Hall of Heroes (Challenge)
+| descrip =
+Mandar the Barbarian is considered a Minion to [[Creature:Stallion Quartermane (Challenge)|Stallion Quartermane]]. All drops are recorded on that page.
+
+'''The First Team'''
+*{{Target|Dagger}} [[Creature:Solomon Crane (Challenge)|Solomon Crane]]
+*{{Target|Key}} [[Creature:Buck Gordon (Challenge)|Buck Gordon]]
+*{{Target|Gem}} [[Creature:The Shadoe (Challenge)|The Shadoe]]
+*{{Target|Spiral}} [[Creature:Dog Tracy (Challenge)|Dog Tracy]]
+
+'''The Second Team'''
+*{{Target|Book}} [[Creature:Mandar the Barbarian (Challenge)|Mandar the Barbarian]]
+*{{Target|Chalice}} [[Creature:Duck Savage (Challenge)|Duck Savage]]
+*{{Target|Wand}} [[Creature:Stallion Quartermane (Challenge)|Stallion Quartermane]]
+*{{Target|Potion}} [[Creature:The Bantam (Challenge)|The Bantam]]
+
+| speech =
+
+| spellnotes =
+*Casts a protected Mythblade.
+
+| casts =
+Frenzy (+40%);
+Ether Shield;
+Mythspear;
+Grendel's Amends (Tier 3a);
+Mythblade;
+Pierce;
+Stun;
+Blinding Light;
+Athena Battle Sight;
+Humongofrog;
+Snake Charmer;
+Natural Attack (Myth 115-230-345-460);
+Mystic Colossus;
+Minotaur;
+Earthquake;
+Orthrus;
+Medusa;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Mandar the Barbarian (Hall of Heroes)
+}}

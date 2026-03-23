@@ -1,0 +1,107 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 15,625
+| crecla = 
+| school = Death
+| school2 = Balance
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Demimortal Gargoyle (Challenge);
+Demimortal Vampire (Challenge);
+
+| world = Darkmoor
+| location = Graveholm
+| subloc1 = Secret Lab (Challenge)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Manipulation}} ''"You cannot kill the undying"'' - At the beginning of the first round, The Gray Man will receive a {{Link|Spell|Guardian Spirit}} effect
+*{{Icon|Round}} ''"Magic is mine to wield, your power strengthens me!"'' - At the end of each round, if there is at least one wizard with a Positive Charm, The Gray Man will target a random wizard and receive a number of Power Pips depending on the amount of Positive Charms.
+** 1 charm = 1 Power Pip
+** 2 charm = 2 Power Pip
+** 3 charms = 3 Power Pips
+** 4+ charms = 4 Power Pips
+*{{Icon|Health}} ''"Pain is my strength"'' - At the beginning of each round, if The Gray Man is not at full health, he will cast a special version of {{Link|Spell|Bladestorm}} that increases in value the lower his health is.
+** The minimum blade value is 20% and the maximum blade value is 100%. If the blade is 100%, it will also be Protected.
+** Further testing is required to determine blade values between the minimum and maximum and their corresponding HP thresholds.
+
+| spellnotes =
+
+| casts =
+Weakness;
+Deathblade (+40%);
+Balanceblade;
+Tomb Blade;
+Empower;
+Dream Golem (Tier 2b);
+Grim Reader;
+Skeletal Raider;
+
+| quests =
+
+| gold =
+9;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = The Gray Man (Standard)
+}}

@@ -1,0 +1,278 @@
+{{Stub|which version of the '''''Mutate''''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 12,880
+| crecla = Luphilim
+| school = Balance
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Vigilant of Simargl;
+
+| world = Polaris
+| location = River of Frozen Tears
+| subloc1 = Sunless Shrine
+| descrip =
+All drops from this fight should be recorded on this page.
+
+| speech =
+:''"The Auroracle has foreseen that you will visit her, but only when you are worthy. It may be that you will have to return another time. Even if I wished to, I could not go easy on you. It is my sacred duty to ensure you are prepared for what is to come."''
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Black Mantle;
+Weakness;
+Cat Thug (160);
+Loremaster;
+Natural Attack (Vigilant Jarilo);
+Gaze of Fate;
+Obsidian Colossus (420);
+Power Nova;
+Sabertooth;
+
+| quests =
+Trial of Valor;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge and has not unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' {{Icon|Savior of the Sands}} Badge, the following drops will be available:
+*12 Spellements will drop each time from '''any''' School for their respective rank 8, 9, 10, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+419 - 1,006;
+
+| hats =
+Evoker's Brim of Acuity;
+Evoker's Brim of Squalls;
+Evoker's Gallant Brim*F2;
+Evoker's Stalwart Brim;
+The Goat Horns*CR*F2;
+The Kroktop*CR;
+The Warlock*CR;
+
+| robes =
+Enchanter's Fervid Cloak;
+Evoker's Forlorn Robes*F2;
+Evoker's Gallant Drape;
+Evoker's Gelid Robes;
+Evoker's Stalwart Cloak;
+Evoker's Wrap of Acuity;
+
+| boots =
+Evoker's Boots of Squalls;
+Evoker's Ember Walkers;
+Evoker's Forlorn Stalkers;
+Evoker's Gallant Footwear;
+Evoker's Stalwart Footgear*F2*WMV;
+Polarian Evoker's Boots;
+
+| athames =
+Bleaks Cutter of Despair;
+Bleaks Dagger of Vigor;
+Bleaks Dirk of Mischief;
+Bleaks Knife of Snowstorms;
+Tayg Chisel of Leveling;
+
+| amulets =
+Bleaks Medallion of Vigor*F2;
+Bleaks Pendant of Mischief;
+Bleaks Torc of Snowstorms*F2*WMV;
+Memento of the Bleaks;
+Noble Strand of the Bleaks;
+Tayg Pendant of Vitality;
+
+| rings =
+Bleaks Band of Snowstorms*F2;
+Bleaks Circle of Pyres;
+Bleaks Seal of Despair*F2*WMV;
+
+| wands =
+Kossack Saber of Chills;
+Kossack Sword of Counsel;
+Kossack Sword of Travail;
+Radiant Kossack Sword;
+Tundarian Iceblade;
+Tundarian Sword of Dread;
+
+| decks =
+Enchanter's Set of Frostbite;
+Kossack Parcel of Redress;
+Kossack Spread of Chills;
+Kossack Stack of Purpose;
+
+| items =
+Arcanum Theme*F2;
+Large Keeper Aquarium;
+Large Small Fry Aquarium*F2;
+Polaris Baba Yaga Theme*F4;
+Polaris Frozen Combat Theme;
+Polaris Frozen Forest Theme*F3;
+Polaris Gulag Combat Theme*F3;
+Polaris Gulag Theme*F2;
+Polaris Ice Block Theme;
+Polaris Mine Combat Theme*F2;
+Polaris Mine Theme;
+Polaris Opera Theme*F2;
+Polaris Rasputin Combat Theme*F2;
+Regular Keeper Aquarium;
+Regular Small Fry Aquarium*F3;
+Walruskberg Combat Theme*F3;
+Walruskberg Liberated Theme*F2;
+Walruskberg Theme*F2;
+
+| cards =
+Arcticzilla;
+Balefrost;
+Counterforce*F3*WMV;
+Deathspear;
+Fiery Colossus;
+Frostfang;
+Icebird;
+Katabatic Wind;
+Mutate Colossus;
+Mythspear;
+Namaste;
+Obsidian Colossus (420);
+Sandstone Colossus;
+Shock Colossus;
+Stone Colossus;
+Winged Sorrow;
+
+| reagents =
+Aether*F4*WMV;
+Agave Leaves*F3*WMV;
+Agave Nectar*F3;
+Amber;
+Amber Dust*F3;
+Aquamarine*F9*WMV;
+Astral Shard*F5*WMV;
+Fire Blossom*F3*WMV;
+Fish Fin*F2*WMV;
+Golden Pearl*F3;
+Mithril*F5*WMV;
+Orichalcum;
+Palladium*F2;
+Scales*F4*WMV;
+Silver*F3*WMV;
+Stardust;
+Steel*F7*WMV;
+Sunstone*F5*WMV;
+Titanium*F2;
+Tungsten*F5*WMV;
+Turquoise*F5*WMV;
+Vine*F2*WMV;
+
+| spellements =
+Efreet*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR*F2;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Medusa*BR*F2;
+Ra*BR;
+Raging Bull*BR;
+Rain of Fire*BR;
+Rusalka's Wrath*BR*F2;
+Sabertooth*BR*F2;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Snowball Barrage*BR;
+Spinysaur*BR;
+Storm Owl*BR;
+Winged Sorrow*BR;
+Witch's House Call*BR;
+Woolly Mammoth*BR*F2;
+
+| snacks =
+Beast Wellington*F3*WMV;
+Chalupacabra*F2*WMV;
+Deepwater Toffee;
+Eye Candy*F5*WMV;
+Frosty Sugar Cubes;
+High Road Haggis;
+Hot Cross Buns*F3;
+Mustachios*F5*WMV;
+Penne Dreadful*F3*WMV;
+Polaris Fries*F4*WMV;
+Satyr Chow*F2*WMV;
+Ships 'n' Queso*F4;
+Veggie Juice*F2;
+
+| jewels =
+Dual Balanceblade Citrine*F2; 
+Dual Deathblade Onyx;
+Dual Fireblade Ruby*F4*WMV;
+Dual Iceblade Sapphire;
+Dual Lifeblade Jade*F3*WMV;
+Dual Mythblade Peridot*F3;
+Dual Shadowblade Hematite;
+Dual Stormblade Amethyst*F3;
+Lustrous Accurate Jade +11%;
+Lustrous Damage Opal +12*F2;
+Lustrous Damage Ruby +24;
+Lustrous Defense Jade +48;
+
+| pins =
+
+| pets =
+Glacier Dragon;
+Nodori Winged Ram*CR;
+Polar Bear Cub*CR;
+
+| seeds =
+Angel Oak*F3*WMV;
+Boiled Peanuts;
+Burning Snap Dragon*F4*WMV;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Evil Snow Peas*F3*WMV;
+Face Palm;
+Fish on a Vine*F2*WMV;
+Frozen Fly Trap;
+Goose Tree*F2;
+Green Snow Apples;
+King Parsley*CR*F3;
+Maelstrom Snap Dragon*F2;
+Moon Flower*F6*WMV;
+Pink Huckleberries;
+Purple Snow Apples*F2*WMV;
+Queen Crape Myrtle*F3;
+Red Huckleberries;
+Snap Dragon;
+Snow Apples;
+Ultra Snap Dragon;
+Ultra Snow Apples;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,146 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 2,400
+| crecla = Elemental
+| crecla2 = Colossus
+| school = Balance
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+16% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Loathsome Creeper;
+
+| world = Dragonspyre
+| location = The Tower Archives
+| subloc1 = Oskar's Tower
+| descrip =
+Blackblade's name floater lacks the Boss tag, but his Health and Resistances reveal him to be one.  He is not repeatable, except by teaming up with a Wizard who has the Quest.
+
+'''Retired Monstrology Description:'''
+:Collects ghosts in orbs. He just couldn't get into stamp collecting.
+
+| speech =
+:''"Your reckless vandalism will cost you! You'll suffer for that, and your ghost will spend eternity in one of my orbs!"''
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Weakness;
+Balanceblade;
+Hex;
+Scarab;
+Scorpion;
+Locust Swarm;
+Sandstorm;
+Judgement;
+Evil Snowman;
+Vampire;
+Minotaur;
+Natural Attack (Fire 100x);
+
+| quests =
+A Cage of Orbs;
+
+| gold =
+92 - 108;
+
+| hats =
+Blackblade's Baleful Hood;
+Cap of Fables;
+Cowl of Resilience*F4*WMV;
+Flame Shroud*F2;
+Frostwrapped Hood*F2*WMV;
+Headdress of the Grove;
+Hood of Permafrost;
+Shroud of Sagas*F3;
+Veil of the Guardian;
+
+| robes =
+Blackblade's Frostweave Robe;
+Cloak of Mortality;
+Raiment of Legend;
+Shroud of the Spider*F2*WMV;
+Stormcaller's Smock;
+Vestment of Fable;
+
+| boots =
+Arboreal Boots;
+Boots of the Forgotten;
+Boots of the Hurricane;
+Footwraps of the Whirlwind*F2*WMV;
+Lore-Striders;
+Slippers of the Zephyr*F3;
+
+| athames =
+Dirk of the Daring;
+
+| amulets =
+
+| rings =
+Serpent Eye Band*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Sun Dial;
+
+| cards =
+
+| reagents =
+Bone*F6*WMV;
+Nickel;
+Tin;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F2;
+Goat Cheese;
+Golden Grapes;
+Gummy Humongofrog*F3*WMV;
+
+| jewels =
+Blemished Mana Opal +20;
+Dull Critical Jade +2*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F3;
+Fiery Boom Shroom;
+King Parsley*CR;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F2;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,160 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 20
+| heal = 13,975
+| crecla = Demon
+| crecla2 = Elephant
+| school = Life
+| school2 = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| outpierce =
+40%;
+
+| outboost =
+100%;
+
+| incboost =
+None;
+
+| incresist =
+40% Any;
+
+| outhealing =
+90%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Death Oni (Tier 3);
+Plague Oni (Tier 3);
+War Oni (Tier 3);
+
+| world = Housing Instance
+| location = Jade Oni Rematch
+| subloc1 = Jade Oni Challenge (Tier 3)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+'''Jade Oni'''
+*''"Jade ancestors, protect me!"'' - On the fifth Round, Jade Oni (Tier 3) will cast a Spirit Armor on himself.
+*''"Sharing is caring. Bwahaha!"'' - Whenever a DoT is cast, Jade Oni (Tier 3) casts Seraph (Tier 5b), shifting the DoT on him to the caster.
+**If the target dies, then a DoT is removed from all allies.
+*''"Your tricks become my treasure"'' - Whenever a Trap is cast, Jade Oni (Tier 3) will cast Oni's Naturalism.
+**AoE Traps such as {{Link|Spell|Windstorm}} will trigger this cheat.
+*''"Your Doom is Imminent"'' - Jade Oni (Tier 3) casts a Spirit Blade on self.
+**''"You were warned. Bwahaha!"'' - Jade Oni (Tier 3) casts Primal Oni.
+*''"Think you're clever do you?"'' - Jade Oni (Tier 3) casts a Shadow Confuse on the Wizard. (Needs clarification on Trigger)
+
+'''Death Oni''' 
+*''"You Dare Mock Death!"'' - Whenever a Blade is cast, Death Oni (Tier 3) casts {{Link|Spell|Putrefaction}} on the receiver.
+**Aegis cannot be used to protect it.
+*''"You must play by the Death Oni's rules!"'' - Whenever an Overtime Heal is cast, Death Oni (Tier 3) will cast {{Link|Spell|Oni's Morbidity}} on the receiver.
+*''"Spirits of the Dead Protect Me!"'' - Death Oni (Tier 3) casts a Spirit Shield on self.
+*''"Think you're tough?"'' - Death Oni (Tier 3) casts {{Link|Spell|Doom Oni}}.
+'''Unconfirmed Cheat:'''
+*''"Your doom has been sealed"'' - If Feint is cast on him, he will cast Dark Pact on himself. (Needs confirmation of cheat)
+**Mass Feint will trigger this cheat.
+
+'''Plague Oni'''
+*''"Those with the Most have the Most to Lose!"'' - Plague Oni (Tier 3) casts a version of {{Link|Spell|Oni's Shadow}} that gives the Wizard and himself a Shadow Pip.
+*''"A Pox Upon your House!"'' - On the third Round, he casts {{Link|Spell|Plague}}.
+*''"Time for the tables to turn"'' - Whenever a Trap is cast on him, he will cast {{Link|Spell|Righting the Scales}}.
+*''"Greed will be your downfall!"'' - Plague Oni (Tier 3) casts {{Link|Spell|Tribunal Oni}} on the Wizard with the most Pips.
+'''War Oni'''
+*''"Your Armaments are No Match for the Heat of the Forge!"'' - If a Wizard casts a Shield, War Oni (Tier 3) casts {{Link|Spell|Oni's Forge}}.
+*''"Let the war rage on!"'' - War Oni (Tier 3) casts {{Link|Spell|Sprite}} on himself.
+
+| spellnotes =
+*Casts an Aegis-protected Lifeblade (+40%).
+*Uses Pip Conversion.
+
+| casts =
+Devotion (6 Rounds);
+Spirit Armor;
+Sprite Swarm (Tier 5a);
+Lifeblade (+40%);
+Spirit Blade;
+Oni's Naturalism;
+Darkwind (+35%);
+Nature's Wrath (Tier 5b);
+Seraph (Tier 5b);
+Hungry Caterpillar;
+Centaur (Tier 5b);
+Wings of Fate;
+Lord of the Jungle (Tier 3a);
+Primal Oni;
+Thunder Snake (Tier 5b);
+Storm Shark (Tier 5b);
+Hammer of Thor (Tier 5b);
+Rusalka's Wrath;
+Storm Lord;
+Dark & Stormy (Tier 2a);
+
+| quests =
+
+| gold = 
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Death Oni Bobblehead;
+Jade Oni Bobblehead;
+Plague Oni Bobblehead;
+War Oni Bobblehead;
+
+| cards =
+Azoth;
+
+| reagents =
+Black Lotus;
+
+| spellements =
+Blight Hound;
+Earth Walker;
+Minotaur;
+Phoenix;
+Skeletal Pirate;
+Spectral Blast;
+Stormzilla;
+
+| snacks =
+
+| jewels =
+Amazing Accurate Sapphire +15%;
+Duck Savage Sapphire;
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+To The Jade Palace;
+
+| altimage = Jade Oni (Rematch)
+
+}}

@@ -1,0 +1,96 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 12,539
+| crecla = Chicken
+| school = Myth
+| school2 = Fire
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+30%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+20% Fire, Ice, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Novus
+| location = La Ville Rose
+| subloc1 = Cabal Base
+| descrip =
+Quake Charmer is considered a Minion to {{Link|Creature|Copy Qhat (Ice-Myth)}}.  All drops and cheats are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Troll (Tier 3a);
+Humongofrog;
+Mystic Colossus;
+Stone Colossus (Tier 3b);
+Orthrus;
+Medusa;
+
+| quests =
+Thanks for All the Fish;
+Dupli-Qhat;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

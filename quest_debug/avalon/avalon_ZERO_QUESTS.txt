@@ -1,0 +1,640 @@
+Zero quests parsed for Avalon.
+URL: https://finalbastion.com/wizard101-guides/w101-quest-guides/avalon-main-quest-line-guide/
+
+Check avalon_plain.txt and the parse log below.
+
+PARSE LOG — Avalon
+============================================================
+
+L0000 SKIP    : Home
+L0001 SKIP    : →
+L0002 IGNORED : Wizard101-Worlds
+L0003 SKIP    : →
+L0004 SKIP    : Avalon
+L0005 SKIP    : →
+L0006 AREA    : Avalon Main Quest Line Guide
+L0007 SKIP    : May 15, 2012
+L0008 SKIP    : April 18, 2025
+L0009 IGNORED : misthead
+L0010 AREA    : Wizard101 Main Quest Line
+L0011 SKIP    : Avalon
+L0012 SKIP    : [Looking for a different part of this series? Click here]
+L0013 SKIP    : Questing through the higher worlds can be time consuming. Especially if you’re q
+L0014 IGNORED : I’m only listing the
+L0015 SKIP    : main quest line quests
+L0016 IGNORED : , aka
+L0017 SKIP    : storyline quests
+L0018 IGNORED : ,
+L0019 IGNORED : which means the ones you
+L0020 IGNORED : have
+L0021 IGNORED : to do in order to get to the next area. Side quests are not mentioned. For each
+L0022 IGNORED : world
+L0023 IGNORED : , I list the quests you have to do
+L0024 IGNORED : in a certain area
+L0025 IGNORED : . The areas are listed in the order you should do them in (unless otherwise spec
+L0026 SKIP    : Between brackets
+L0027 IGNORED : are the different parts of the quest, as sometimes a quest will require you to d
+L0028 SKIP    : I have divided the quests in the Spiral into the following groups:
+L0029 SKIP    : Talk:
+L0030 SKIP    : Quests that require an interaction with an NPC.
+L0031 SKIP    : Mob
+L0032 IGNORED : :
+L0033 SKIP    : Quests that require the defeat of regular monsters.
+L0034 SKIP    : D&C
+L0035 IGNORED : :
+L0036 SKIP    : Quests that require the collection of something from certain monsters (Defeat an
+L0037 SKIP    : Boss
+L0038 IGNORED : :
+L0039 SKIP    : Quests that require the defeat of a boss. Elite monsters are not counted as boss
+L0040 SKIP    : Cheat
+L0041 IGNORED : :
+L0042 SKIP    : Quests the require the defeat of a cheating boss.
+L0043 AREA    : Double boss
+L0044 SKIP    : : Quests that require the defeat of two bosses at once.
+L0045 SKIP    : Instance
+L0046 IGNORED : :
+L0047 SKIP    : Quests that require the completion of a dungeon.
+L0048 SKIP    : Puzzle
+L0049 IGNORED : :
+L0050 SKIP    : Quests that require the solution to a puzzle.
+L0051 SKIP    : Interact:
+L0052 SKIP    : Quests that require interaction with a certain object.
+L0053 SKIP    : Collect
+L0054 SKIP    : : Quests that require interaction with multiple items of a kind.
+L0055 SKIP    : Explore
+L0056 SKIP    : : Quests that just require you to run towards a certain area, NPC or item.
+L0057 AREA    : Avalon Main Quest Line
+L0058 SKIP    : Avalon
+L0059 IGNORED : has
+L0060 IGNORED : 161 quests
+L0061 IGNORED : :
+L0062 IGNORED : 27
+L0063 SKIP    : D&C
+L0064 IGNORED : quests,
+L0065 IGNORED : 17
+L0066 IGNORED : regular mob fights
+L0067 IGNORED : ,
+L0068 IGNORED : 43
+L0069 IGNORED : regular
+L0070 IGNORED : bosses
+L0071 IGNORED : and
+L0072 IGNORED : 4
+L0073 IGNORED : cheating
+L0074 IGNORED : bosses
+L0075 IGNORED : . There are
+L0076 IGNORED : 5
+L0077 SKIP    : instance
+L0078 IGNORED : quests in Avalon.
+L0079 AREA    : My favorite quest
+L0080 IGNORED : is called “Being the Third Number”. It’s my favorite for two reasons: first, bec
+L0081 AREA    : Monty Python
+L0082 IGNORED : : “First shalt thou raise the Blessed Pomegranata. Then, shalt thou count to thr
+L0083 AREA    : My favorite boss
+L0084 IGNORED : is the Jabberwock. He’s just so easy once you figure out how to beat him 🙂 I rem
+L0085 IGNORED : Do you have a favorite quest or favorite boss in Avalon? Share your story in the
+L0086 AREA    : High Road
+L0087 AREA    : This Little Light of Mine (talk)
+L0088 AREA    : Positively Absolutely (explore +
+L0089 SKIP    : solo
+L0090 SKIP    : boss
+L0091 IGNORED : + interact + talk)
+L0092 AREA    : Light Shine Down (talk)
+L0093 AREA    : Signs and Portents (explore)
+L0094 AREA    : Who Knows? (talk)
+L0095 AREA    : Steamed Crab (
+L0096 SKIP    : D&C
+L0097 IGNORED : +
+L0098 SKIP    : D&C
+L0099 IGNORED : + talk)
+L0100 AREA    : Crab Leg (talk)
+L0101 AREA    : A Taste of Poison (
+L0102 SKIP    : D&C
+L0103 IGNORED : + talk)
+L0104 AREA    : Well Poisoned (
+L0105 SKIP    : boss
+L0106 IGNORED : + talk)
+L0107 AREA    : That Miracle Clove (interact + talk)
+L0108 AREA    : Pound Some Sense (
+L0109 SKIP    : D&C
+L0110 IGNORED : + talk)
+L0111 AREA    : I’m Getting Better (talk + talk)
+L0112 AREA    : Fields of Gold (talk)
+L0113 AREA    : Fields of Barley (interact + talk)
+L0114 AREA    : Sumner’s Tale (talk)
+L0115 AREA    : A Very Brave and Noble Thing (
+L0116 SKIP    : mob
+L0117 IGNORED : + talk)
+L0118 AREA    : Vexing Thoughts (
+L0119 SKIP    : D&C
+L0120 IGNORED : + talk)
+L0121 AREA    : Every Rose Has Its Thorn (
+L0122 SKIP    : instance
+L0123 IGNORED : : interact + explore +
+L0124 SKIP    : boss
+L0125 IGNORED : +
+L0126 SKIP    : boss
+L0127 IGNORED : + talk)
+L0128 AREA    : On One Hand (talk)
+L0129 AREA    : A Brave and Noble Thing (talk)
+L0130 AREA    : Arrow to the Face (
+L0131 SKIP    : D&C
+L0132 IGNORED : +
+L0133 SKIP    : D&C
+L0134 IGNORED : + interact + talk)
+L0135 AREA    : To Bravely Go (talk)
+L0136 AREA    : Caer Lyon
+L0137 IGNORED : 23. Fool’s Knight (talk +
+L0138 SKIP    : boss
+L0139 IGNORED : + explore + talk)
+L0140 IGNORED : 24. Around Here Someplace (
+L0141 SKIP    : D&C
+L0142 IGNORED : +
+L0143 SKIP    : D&C
+L0144 IGNORED : + talk)
+L0145 IGNORED : 25. Broken Signs (talk)
+L0146 IGNORED : 26. Displacing Beasts (
+L0147 SKIP    : mob
+L0148 IGNORED : + talk)
+L0149 IGNORED : 27. Songs of Bravery (talk 3x)
+L0150 IGNORED : 28. Cloud Trail (
+L0151 SKIP    : D&C
+L0152 IGNORED : + explore + talk + talk)
+L0153 IGNORED : 29. Painting the Town Red (
+L0154 SKIP    : D&C
+L0155 IGNORED : +
+L0156 SKIP    : boss
+L0157 IGNORED : + interact + talk)
+L0158 IGNORED : 30. From Here to Eternity (interact + interact + talk)
+L0159 IGNORED : 31. Paint My Masterpiece (talk)
+L0160 IGNORED : 32. Nice Part of Town (
+L0161 SKIP    : mob
+L0162 IGNORED : +
+L0163 SKIP    : mob
+L0164 IGNORED : + talk)
+L0165 IGNORED : 33. Hurry Up and Leaf (talk)
+L0166 IGNORED : 34. Little Willow (
+L0167 SKIP    : D&C
+L0168 IGNORED : + explore + talk + talk)
+L0169 IGNORED : 35. A Joyous Occasion (talk + talk)
+L0170 IGNORED : 36. Great Wild Wood (
+L0171 SKIP    : boss
+L0172 IGNORED : + interact + interact + talk)
+L0173 IGNORED : 37. Appeal to Civility (talk + talk)
+L0174 AREA    : The Wild
+L0175 IGNORED : 38. Into the Wild (talk)
+L0176 IGNORED : 39. Into the Nest (
+L0177 SKIP    : instance
+L0178 IGNORED : : explore +
+L0179 SKIP    : boss
+L0180 IGNORED : + explore + interact + interact +
+L0181 SKIP    : puzzle
+L0182 IGNORED : +
+L0183 SKIP    : boss
+L0184 IGNORED : + interact + talk + talk + interact)
+L0185 IGNORED : 40. Owls of a Feather (talk + talk)
+L0186 IGNORED : 41. Friends of the Family (talk)
+L0187 IGNORED : 42. Bravest Knight (explore + talk)
+L0188 IGNORED : 43. White Out (explore + talk)
+L0189 IGNORED : 44. Broken Vows (talk + talk)
+L0190 IGNORED : 45. Dread of Knight (explore +
+L0191 SKIP    : boss
+L0192 IGNORED : + interact + talk + talk)
+L0193 IGNORED : 46. Light My Fire (interact + talk)
+L0194 IGNORED : 47. Shoes Are Made For Walking (talk)
+L0195 IGNORED : 48. Weirwood Rover (
+L0196 SKIP    : D&C
+L0197 IGNORED : + talk)
+L0198 IGNORED : 49. In These Shoes (talk)
+L0199 IGNORED : 50. Lair of the Winter Wyrm (explore +
+L0200 SKIP    : boss
+L0201 IGNORED : + talk + talk)
+L0202 IGNORED : 51. Out of the Woods (interact + talk)
+L0203 IGNORED : 52. Bravely Bold Sir Robin (talk 4x)
+L0204 AREA    : Caer Lyon
+L0205 IGNORED : 53. Lost the Music (
+L0206 SKIP    : D&C
+L0207 IGNORED : + talk)
+L0208 IGNORED : 54. Head Held Low (interact + interact + talk)
+L0209 IGNORED : 55. Greatest of Sports (explore +
+L0210 SKIP    : boss
+L0211 IGNORED : + interact + talk)
+L0212 AREA    : Abbey Road
+L0213 IGNORED : 56. Show Me the Way (talk)
+L0214 IGNORED : 57. Burning Iron (interact + talk)
+L0215 IGNORED : 58. If I Had a Hammer (talk + interact + talk)
+L0216 IGNORED : 59. Six to Go (
+L0217 SKIP    : mob
+L0218 IGNORED : +
+L0219 SKIP    : boss
+L0220 IGNORED : + talk)
+L0221 IGNORED : 60. The Parting Glass (talk)
+L0222 IGNORED : 61. Warbird (interact + talk)
+L0223 AREA    : Caer Lyon
+L0224 IGNORED : 62. On a Steel Mount I Ride (talk)
+L0225 IGNORED : 63. Lute Drop (
+L0226 SKIP    : D&C
+L0227 IGNORED : +
+L0228 SKIP    : boss
+L0229 IGNORED : + talk)
+L0230 IGNORED : 64. I Wanna Be Adored (interact + talk)
+L0231 AREA    : The Wild
+L0232 IGNORED : 65. Bye Bye Bad Man (talk)
+L0233 IGNORED : 66. Worst Day Since Yesterday (
+L0234 SKIP    : mob
+L0235 IGNORED : + talk)
+L0236 IGNORED : 67. Far Away Girls (interact + talk)
+L0237 IGNORED : 68. Of Lost Liberty (
+L0238 SKIP    : boss
+L0239 IGNORED : + talk + talk)
+L0240 IGNORED : 69. The Rare Ould Times (talk + talk)
+L0241 IGNORED : 70. ‘Tis a Magical Place (explore + talk)
+L0242 IGNORED : 71. To the Pipes of Pan (talk)
+L0243 IGNORED : 72. Dark Night Rises (
+L0244 SKIP    : boss
+L0245 IGNORED : + talk)
+L0246 IGNORED : 73. ‘Twas Brillig (explore +
+L0247 SKIP    : cheat
+L0248 IGNORED : + interact + talk)
+L0249 IGNORED : 74. O Frabjous Day (talk)
+L0250 IGNORED : 75. Beneath the Haunted Moon (interact + talk)
+L0251 AREA    : The Wyrd
+L0252 IGNORED : 76. Wyrd to Your Mother (explore +
+L0253 SKIP    : D&C
+L0254 IGNORED : + talk)
+L0255 IGNORED : 77. Speed of Darkness (explore +
+L0256 SKIP    : boss
+L0257 IGNORED : + talk)
+L0258 IGNORED : 78. Man With No Country (explore + talk)
+L0259 IGNORED : 79. Sky Full of Sulfur (interact + interact + talk)
+L0260 IGNORED : 80. Two Heads Are Worse (talk)
+L0261 IGNORED : 81. Billy Brute (interact + talk)
+L0262 IGNORED : 82. Walk the Lonesome Hills (interact +
+L0263 SKIP    : D&C
+L0264 IGNORED : +
+L0265 SKIP    : D&C
+L0266 IGNORED : + talk 3x)
+L0267 IGNORED : 83. Bloody Good (talk)
+L0268 IGNORED : 84. Knight Blind (interact +
+L0269 SKIP    : mob
+L0270 IGNORED : +
+L0271 SKIP    : boss
+L0272 IGNORED : + interact + talk)
+L0273 IGNORED : 85. Pair of Brown Eyes (interact + talk)
+L0274 IGNORED : 86. Paths of Sorrow (explore)
+L0275 IGNORED : 87. Haunted (
+L0276 SKIP    : instance
+L0277 IGNORED : :
+L0278 SKIP    : mob
+L0279 IGNORED : +
+L0280 SKIP    : puzzle
+L0281 IGNORED : +
+L0282 SKIP    : boss
+L0283 IGNORED : )
+L0284 IGNORED : 86. Paths of Sorrow (talk)
+L0285 IGNORED : 88. Tomb of Broken Dreams (interact + talk)
+L0286 IGNORED : 89. Family Values (talk + talk)
+L0287 IGNORED : 90. Guest Right (instance: explore +
+L0288 SKIP    : boss
+L0289 IGNORED : + talk + explore +
+L0290 SKIP    : boss
+L0291 IGNORED : + talk)
+L0292 IGNORED : 91. Man In the Mirror (explore +
+L0293 SKIP    : boss
+L0294 IGNORED : + talk)
+L0295 IGNORED : 92. The Rainbow’s End (talk + talk)
+L0296 IGNORED : 93. A Strange Race of People (explore + talk)
+L0297 IGNORED : 94. Where the Demons Dwell (explore +
+L0298 SKIP    : boss
+L0299 IGNORED : + interact 3x + talk)
+L0300 AREA    : Dun Dara
+L0301 IGNORED : 95. And They Do Live Well (explore + talk)
+L0302 IGNORED : 96.Queen of Light Took Her Bow (talk)
+L0303 IGNORED : 97. Walk the Night Alone (explore + talk)
+L0304 IGNORED : 98. A Song of George (explore +
+L0305 SKIP    : boss
+L0306 IGNORED : + talk)
+L0307 IGNORED : 99. Taste of Victory (talk)
+L0308 IGNORED : 100. The Pain of War (talk + explore +
+L0309 SKIP    : boss
+L0310 IGNORED : + interact + talk + interact + talk)
+L0311 IGNORED : 101. Stairway to Belle Regard (talk + explore +
+L0312 SKIP    : boss
+L0313 IGNORED : + talk + talk)
+L0314 IGNORED : 102. Over the Hills and Far Away (
+L0315 SKIP    : D&C
+L0316 IGNORED : + talk)
+L0317 IGNORED : 103. Many Dreams Come True (talk + talk)
+L0318 IGNORED : 104. Silver Linings (talk + talk)
+L0319 IGNORED : 105. Kiss From a Rose (explore + interact + talk)
+L0320 IGNORED : 106. Just the Pacts (talk 4x)
+L0321 IGNORED : 107. Alas Poor Wyrm (interact + talk)
+L0322 IGNORED : 108. Vigor of Death (
+L0323 SKIP    : D&C
+L0324 IGNORED : + talk)
+L0325 IGNORED : 109. Charmed Life (talk + interact + talk)
+L0326 IGNORED : 110. Dressing the Part (interact + talk)
+L0327 AREA    : Abbey Road
+L0328 IGNORED : 111. Ten Years Gone (talk)
+L0329 IGNORED : 112. Smog and Stone (explore +
+L0330 SKIP    : boss
+L0331 IGNORED : + interact + talk)
+L0332 IGNORED : 113. Stone Smith (talk)
+L0333 IGNORED : 114. The Stonecutter (
+L0334 SKIP    : D&C
+L0335 IGNORED : + talk + talk)
+L0336 IGNORED : 115. The Shape of the Rose (explore + talk)
+L0337 IGNORED : 116. Call the Banners (talk 9x)
+L0338 AREA    : Outer Yard
+L0339 IGNORED : 117. Throw Down the Gauntlet (explore +
+L0340 SKIP    : boss
+L0341 IGNORED : + explore + talk)
+L0342 IGNORED : 118. Constant and True (explore +
+L0343 SKIP    : boss
+L0344 IGNORED : + explore + talk + talk)
+L0345 IGNORED : 119. Wisdom of Owls (talk)
+L0346 IGNORED : 120. Break the Hand (
+L0347 SKIP    : mob
+L0348 IGNORED : + talk)
+L0349 IGNORED : 121. Who’s Gonna Ride (talk)
+L0350 IGNORED : 122. Follow the Music (explore +
+L0351 SKIP    : boss
+L0352 IGNORED : + talk)
+L0353 IGNORED : 123. Seek and Hide (explore + talk)
+L0354 IGNORED : 124. Happy Trails (talk)
+L0355 IGNORED : 125. Sacred Text (interact + talk)
+L0356 IGNORED : 126. Don’t Say No (talk)
+L0357 IGNORED : 127. In the Dark (explore +
+L0358 SKIP    : boss
+L0359 IGNORED : + talk)
+L0360 IGNORED : 128. Creatures of Habit (explore +
+L0361 SKIP    : mob
+L0362 IGNORED : + interact + talk)
+L0363 IGNORED : 129. Being the Third Number (explore + talk)
+L0364 IGNORED : 130. The Long Way Down (explore +
+L0365 SKIP    : boss
+L0366 IGNORED : + interact + talk)
+L0367 AREA    : Lake Shore
+L0368 IGNORED : 131. Step Down (explore + talk)
+L0369 IGNORED : 132. The Razor’s Edge (explore + talk)
+L0370 IGNORED : 133. The Simplest Answer (
+L0371 SKIP    : D&C
+L0372 IGNORED : + interact 3x+ talk)
+L0373 IGNORED : 134. Straight Edge (
+L0374 SKIP    : mob
+L0375 IGNORED : + interact + talk)
+L0376 IGNORED : 135. A Wee Bit O The Brogue (
+L0377 SKIP    : mob
+L0378 IGNORED : + interact + talk)
+L0379 IGNORED : 136. Waving the Olive Branch (interact + explore + talk)
+L0380 IGNORED : 137. Black Magic Woman (interact + interact + explore +
+L0381 SKIP    : cheat
+L0382 IGNORED : + explore + talk)
+L0383 IGNORED : 138. A Hero by Any Other Name (explore + talk + talk)
+L0384 IGNORED : 139. As Above So Below (
+L0385 SKIP    : D&C
+L0386 IGNORED : +
+L0387 SKIP    : D&C
+L0388 IGNORED : + talk)
+L0389 AREA    : Deepwater
+L0390 IGNORED : 140. Down in the Depths (interact + explore + talk)
+L0391 IGNORED : 141. Get a Piece of the Rock (explore +
+L0392 SKIP    : boss
+L0393 IGNORED : + interact + talk)
+L0394 IGNORED : 142. A Piece of Mine (explore +
+L0395 SKIP    : boss
+L0396 IGNORED : + interact + talk)
+L0397 IGNORED : 143. I’se the B’y (explore +
+L0398 SKIP    : boss
+L0399 IGNORED : + interact + talk)
+L0400 IGNORED : 144. And the Deep Blue Sea (explore +
+L0401 SKIP    : boss
+L0402 IGNORED : + interact + talk)
+L0403 AREA    : The Catacombs
+L0404 IGNORED : 145. Come A’Knocking at My Door (interact + explore + talk)
+L0405 IGNORED : 146. Fear of the Dark (
+L0406 SKIP    : D&C
+L0407 IGNORED : + talk)
+L0408 IGNORED : 147. Revelations (explore + explore + talk)
+L0409 IGNORED : 148. Running Free (explore + talk)
+L0410 IGNORED : 149. Another Life (explore +
+L0411 SKIP    : mob
+L0412 IGNORED : + talk + talk)
+L0413 IGNORED : 150. Drifter (talk)
+L0414 IGNORED : 151. Hallowed Be Thy Name (
+L0415 SKIP    : D&C
+L0416 IGNORED : + talk)
+L0417 IGNORED : 152. Strange World (interact + talk)
+L0418 AREA    : Crystal Caves
+L0419 IGNORED : 153. Run Silent Run Deep (
+L0420 SKIP    : mob
+L0421 IGNORED : + interact + talk)
+L0422 IGNORED : 154. Déjà Vu (explore + talk 5x)
+L0423 IGNORED : 155. Ghost of the Navigator (
+L0424 SKIP    : D&C
+L0425 IGNORED : + interact + talk)
+L0426 IGNORED : 156. Where Owls Dare (explore + talk)
+L0427 IGNORED : 157. Caught Somewhere in Time (explore)
+L0428 IGNORED : 158. Take Me to the Other Side (
+L0429 SKIP    : instance
+L0430 IGNORED : : talk +
+L0431 SKIP    : mob
+L0432 IGNORED : + talk +
+L0433 SKIP    : boss
+L0434 IGNORED : + talk + talk +
+L0435 SKIP    : cheat
+L0436 IGNORED : +
+L0437 SKIP    : boss
+L0438 IGNORED : + interact + talk)
+L0439 IGNORED : 157. Caught Somewhere in Time (talk)
+L0440 IGNORED : 159. The Head of the Dragon (
+L0441 SKIP    : instance
+L0442 IGNORED : :
+L0443 SKIP    : mob
+L0444 IGNORED : + interact + talk +
+L0445 SKIP    : mob
+L0446 IGNORED : +
+L0447 SKIP    : cheat
+L0448 IGNORED : + talk + talk +
+L0449 IGNORED : double boss
+L0450 IGNORED : + interact + talk + talk)
+L0451 IGNORED : 160. The Guns of Avalon (talk)
+L0452 IGNORED : 161. A Great Storm Coming (talk)
+L0453 SKIP    : Finished the Avalon main quest line? Take a look below at what comes next!
+L0454 SKIP    : All Wizard101 Main Quest Line Guides
+L0455 SKIP    : Wizard City
+L0456 SKIP    : Krokotopia
+L0457 SKIP    : Marleybone
+L0458 SKIP    : Mooshu
+L0459 SKIP    : Dragonspyre
+L0460 SKIP    : Celestia
+L0461 SKIP    : Zafaria
+L0462 SKIP    : Avalon
+L0463 SKIP    : Azteca
+L0464 SKIP    : Khrysalis
+L0465 SKIP    : Polaris
+L0466 SKIP    : Mirage
+L0467 SKIP    : Empyrea
+L0468 SKIP    : Karamelle
+L0469 SKIP    : Lemuria
+L0470 SKIP    : Novus
+L0471 SKIP    : Wallaru
+L0472 SKIP    : Grizzleheim
+L0473 SKIP    : Wysteria
+L0474 SKIP    : Catacombs
+L0475 SKIP    : Happy Questing!
+L0476 SKIP    : Share your vote!
+L0477 SKIP    : No, thanks.
+L0478 SKIP    : Do you like this post?
+L0479 SKIP    : Fascinated
+L0480 AREA    : Happy
+L0481 AREA    : Sad
+L0482 AREA    : Angry
+L0483 SKIP    : Bored
+L0484 SKIP    : Afraid
+L0485 SKIP    : About the author
+L0486 SKIP    : Latest posts
+L0487 IGNORED : misthead
+L0488 IGNORED : While misthead has written all kinds of guides, the most popular by far are her 
+L0489 AREA    : Wizard101 Spider Pets Guide
+L0490 IGNORED : 2019-05-08 20:51:03
+L0491 AREA    : W101 Floor Tiles Organized By Color
+L0492 IGNORED : 2019-02-24 11:00:49
+L0493 AREA    : Level 48 School Pets and Hybrids
+L0494 IGNORED : 2019-02-14 20:20:44
+L0495 AREA    : Wizard101 Piggle Pets Guide
+L0496 IGNORED : 2019-02-08 15:14:27
+L0497 AREA    : W101 Wallpapers Organized by Color
+L0498 IGNORED : 2019-01-31 07:32:53
+L0499 SKIP    : 26 COMMENTS
+L0500 IGNORED : a
+L0501 SKIP    : April 18, 2025
+L0502 AREA    : Reply
+L0503 IGNORED : Can the first boss fight in quest 2 be updated to solo boss? I can’t group up wi
+L0504 AREA    : Cody RavenTamer
+L0505 SKIP    : April 18, 2025
+L0506 AREA    : Reply
+L0507 IGNORED : Updated. Thanks!
+L0508 AREA    : Joseph MagmaPaint
+L0509 SKIP    : April 24, 2025
+L0510 AREA    : Reply
+L0511 IGNORED : When is the next Spell Maker Update? Also, are there plans on a Gear Maker or Pi
+L0512 AREA    : Mure
+L0513 SKIP    : November 21, 2024
+L0514 AREA    : Reply
+L0515 IGNORED : Quest n. 92 “The Rainbow’s End” – after talking you have to deafeat 2 mob
+L0516 IGNORED : caasssiiiiieeee
+L0517 SKIP    : October 19, 2024
+L0518 AREA    : Reply
+L0519 IGNORED : all of Abbey Road is all in the Wild, i’m in that quest now and it was hard to f
+L0520 AREA    : Catori
+L0521 SKIP    : June 14, 2024
+L0522 AREA    : Reply
+L0523 AREA    : The quest throw down the gauntlet is actually in Cear Lyon
+L0524 AREA    : Anthony Signorelli
+L0525 SKIP    : May 7, 2023
+L0526 AREA    : Reply
+L0527 IGNORED : the specifics for the final dungeon are wrong, there are 2 bosses and 1 double b
+L0528 AREA    : Janay AKA KatiePixieWeave
+L0529 SKIP    : August 1, 2021
+L0530 AREA    : Reply
+L0531 IGNORED : Has anyone had the problem of missing the spell quest for “Guardian Spirit”? I w
+L0532 AREA    : Dawny
+L0533 SKIP    : August 3, 2021
+L0534 AREA    : Reply
+L0535 IGNORED : Have you done the prerequisite quests in Grizzleheim? You need the level 35 and 
+L0536 AREA    : Andrew
+L0537 SKIP    : January 5, 2022
+L0538 AREA    : Reply
+L0539 SKIP    : maybe because you didn’t complete the prequests. Go to Eryk or in caliburn. ther
+L0540 AREA    : StormBoi
+L0541 SKIP    : October 16, 2020
+L0542 AREA    : Reply
+L0543 AREA    : Quest #160 has a cheating boss, it isn’t only talking
+L0544 AREA    : Cody RavenTamer
+L0545 SKIP    : October 25, 2020
+L0546 AREA    : Reply
+L0547 IGNORED : That would be quest no. 159. This is because it is an instance quest.
+L0548 AREA    : Haven
+L0549 SKIP    : July 13, 2020
+L0550 AREA    : Reply
+L0551 AREA    : Dark Knight Rises is a part of caer lyon, not the wild. 😮
+L0552 AREA    : Pyro
+L0553 SKIP    : July 8, 2020
+L0554 AREA    : Reply
+L0555 AREA    : Mine’s pendragon kuz well I have him as mount and am dragon fanatic c:
+L0556 AREA    : Elior Vertenstein
+L0557 SKIP    : May 1, 2020
+L0558 AREA    : Reply
+L0559 AREA    : Mine from avalon is the last duo: the black and white drakes
+L0560 AREA    : In general my fav boss is malistaire kuz ge totally obsessed in drakes
+L0561 AREA    : Anonymous
+L0562 SKIP    : April 24, 2020
+L0563 AREA    : Reply
+L0564 AREA    : On quests 53-55, why does it say Caer Lyon on the right of each quest?
+L0565 AREA    : ImmortalSlayer
+L0566 SKIP    : May 13, 2020
+L0567 AREA    : Reply
+L0568 IGNORED : Thanks for letting us know that. I just fixed the issue now. If you see any othe
+L0569 AREA    : Linda Martinez
+L0570 SKIP    : April 15, 2020
+L0571 AREA    : Reply
+L0572 IGNORED : For number 160 it’s actually (Explore, mob, talk, boss, talk, double boss, inter
+L0573 AREA    : Nathaniel Swauger
+L0574 SKIP    : March 25, 2020
+L0575 AREA    : Reply
+L0576 IGNORED : the jabberwock is in high road not the wild
+L0577 IGNORED : alia
+L0578 SKIP    : March 27, 2020
+L0579 AREA    : Reply
+L0580 IGNORED : im p sure it’s because you’re questing through the wild at the time
+L0581 AREA    : Austin
+L0582 SKIP    : June 24, 2019
+L0583 AREA    : Reply
+L0584 IGNORED : Quest 160: “The Guns of Avalon” is a cheating boss fight with the Pendragon
+L0585 AREA    : Tony
+L0586 SKIP    : December 5, 2018
+L0587 AREA    : Reply
+L0588 AREA    : The quest “Paths of Sorrow” has a boss in it, it isn’t only talking.
+L0589 IGNORED : misthead
+L0590 SKIP    : December 5, 2018
+L0591 AREA    : Reply
+L0592 IGNORED : The quest “Paths of Sorrow” only requires exploring and talking, while the quest
+L0593 AREA    : So it goes:
+L0594 AREA    : Path of Sorrow: explore
+L0595 IGNORED : Haunted: (instance: mob + puzzle + boss)
+L0596 AREA    : Path of Sorrow: talk
+L0597 IGNORED : I was missing the beginning of that quest though, thanks for noticing that there
+L0598 AREA    : Joshua Farnsworth
+L0599 SKIP    : June 21, 2025
+L0600 AREA    : Reply
+L0601 IGNORED : The dungeon for the quest take me to the other side doesn’t have a cheat boss.
+L0602 IGNORED : stormbreaker
+L0603 SKIP    : June 26, 2025
+L0604 AREA    : Reply
+L0605 AREA    : It does, Young Morganthe is cheating.
+L0606 AREA    : Anonomys
+L0607 SKIP    : December 1, 2018
+L0608 AREA    : Reply
+L0609 AREA    : Is it possible to add a description for the quest?
+L0610 SKIP    : Leave a Reply
+L0611 SKIP    : Cancel reply
+L0612 AREA    : Your email address will not be published.
+L0613 SKIP    : Required fields are marked
+L0614 IGNORED : *
+L0615 AREA    : Comment
+L0616 IGNORED : *
+L0617 AREA    : Name
+L0618 IGNORED : *
+L0619 AREA    : Email
+L0620 IGNORED : *
+L0621 AREA    : Website
+L0622 AREA    : Current ye@r
+L0623 IGNORED : *
+L0624 AREA    : Leave this field empty
+L0625 SKIP    : Previous Post
+L0626 IGNORED : Avalon Zeke Quest – Black Crows
+L0627 SKIP    : Next Post
+L0628 AREA    : Avalon Monstrology Creatures
+
+SUMMARY: 0 quests in 0 areas
+Stats: {'total_quests': None, 'mob_fights': 2, 'dc_quests': None, 'boss_fights': 2, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}

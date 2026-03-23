@@ -1,0 +1,166 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 880
+| crecla = Bear
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth;
+
+| incresist =
+60% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Red Claw Striker;
+
+| world = Grizzleheim
+| location = Frostholm
+| subloc1 = 
+| descrip =
+Haldor Stormwatcher is the quartermaster of the Red Claw, maintaining the raiders' armory in their fort of Frostholm with ambitions of invading {{Link|Location|Northguard}}.  When arriving in Frostholm to reach Ivar Andersson, Wizards are sent by {{Link|NPC|Gunnar Quickaxe}} to give Haldor the weapon which they presented as an offering to the Red Claw.  When Wizards arrive at the armory but refuse to give Haldor their weapon, he takes offense and attacks them.
+
+Two additional Red Claw Strikers will appear if more than two Wizards are present.  These additional Red Claw Strikers will already be wandering the area prior to talking to {{Link|NPC|Haldor Stormwatcher}} and can be defeated before having to duel him.
+
+| speech =
+:''"You there!  I am Haldor Stormwatcher.  I'm the quarter-master here.  With these weapons I've gathered, the Red Claw will easily defeat all our foes.  We'll take the King's own city from him, and we'll rule all of Grizzleheim!  What do you have for me?  What do you mean, it's not for me?  Foolish young cub... step a bit closer and I'll take it from you!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip
+
+| casts =
+Weakness;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Storm Elf (30+210);
+Lightning Bats;
+Evil Snowman (Storm);
+Storm Shark;
+Squall Wyvern;
+Leprechaun;
+Cyclops;
+
+| quests =
+The Traitor Within;
+
+| gold =
+33 - 106;
+
+| dropnotes =
+*Currently the Wood-Carven Bench is no longer a dropped Item from this Boss.
+
+| hats =
+Birdcaller's Mask*CR*F2*WMV;
+Crown of Achievement*F2*WMV;
+Firekeeper's Mantle;
+Hat of Consequence*WMV;
+Helm of Determination;
+Hood of Sorrow*F5*WMV;
+Lifewarden's Veil*F2*WMV;
+
+| robes =
+Coat of Forethought*F2*WMV;
+Jerkin of Brio;
+Raiment of the Lifespring*F3*WMV;
+Robe of Elegies*F3*WMV;
+Tunic of Quietus;
+Tunic of the Torchbearer*F11*WMV;
+Vestment of Serenity;
+Vestment of Yesteryear*F2*WMV;
+
+| boots =
+Brightbrand Walkers*F10*WMV;
+Footguards of Consideration;
+Indefatigable Striders*F2*WMV;
+Mocassins of the Mirage*F14*WMV;
+
+| athames =
+Dagger of the Ice Drake*F17*WMV;
+Glyphcarver;
+
+| amulets =
+
+| rings =
+Band of the Answer;
+Ring of the Everwinter*F17*WMV;
+Seal of the Tundra*F2*WMV;
+Stone of Confidence;
+Thane's Circlet;
+
+| wands =
+
+| decks =
+
+| items =
+Wood-Carven Bench;
+
+| cards =
+Black Mantle;
+Cloak*F2*WMV;
+Heck Hound;
+Mutate Cat (Storm);
+
+| reagents =
+Bronze Gear*F2*WMV;
+Copper*F3*WMV;
+Iron*F2*WMV;
+Nickel*F4*WMV;
+Pyrite*F4*WMV;
+Spider Silk*F4*WMV;
+
+| spellements =
+
+| snacks =
+Chocolate Peanut;
+Glowing Rock Candy*F3*WMV;
+Lollipop*F3*WMV;
+Meat Soup*F6*WMV;
+Potato Chips*F4*WMV;
+Sliced Watermelon*F2*WMV;
+Squash*F3*WMV;
+Tasty Biscuit*F7*WMV;
+Wafer Biscuit*F3*WMV;
+
+| jewels =
+Chipped Damage Opal +4*F2*WMV;
+Chipped Mana Opal +11*F2*WMV;
+Cracked Defense Citrine +11;
+Cracked Defense Citrine +12;
+Cracked Defense Jade +12;
+Cracked Defense Onyx +9;
+Cracked Defense Onyx +12;
+Cracked Defense Peridot +12;
+Dawdle Opal;
+Frost Beetle Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Dandelion*F2*WMV;
+Laugh-O-Dil*F2*WMV;
+Stinkweed*F4*WMV;
+
+| mounts =
+
+| spells =
+
+}}

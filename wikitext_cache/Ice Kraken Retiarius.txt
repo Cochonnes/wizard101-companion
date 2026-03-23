@@ -1,0 +1,131 @@
+{{Stub|Spells and drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 2,000
+| crecla = Beastmoon Creature
+| school = Ice
+| startpips = 3
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Celestia Battlegrounds
+| descrip =
+Ice Kraken Retiarius is one of the Boss monsters that can be encountered during the third Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events. He will have 1 random, Rank 3 Elite, Stage 3 monster and 2 random, Rank 2, Stage 3 monsters present to assist them.
+
+'''Potential Rank 3 Elite Minions:'''
+*{{Link|Creature|Boiled Crab}}
+*{{Link|Creature|Ice Floe Spriggan}}
+*{{Link|Creature|Scrutinizer}}
+
+'''Potential Rank 2 Minions:'''
+*{{Link|Creature|Frosty Trawler}}
+*{{Link|Creature|Lightning Squid}}
+*{{Link|Creature|Smoked Flyingfish}}
+*{{Link|Creature|Stasis Eel}}
+
+| speech =
+
+| spellnotes =
+*Casts a 3 pip, +150 Trap version of Debilitate.
+*Casts a version of Shielded Beetle that places a 200 Absorb on the caster if the Clear effect occurs.
+*Casts a 3-Pip, 150 Damage version of Gelid Ancestor that deals 250 Damage if the Clear effect occurs.
+*Casts a 250 Damage version of Shivering Marid.
+**It is currently unknown whether the extra Damage effect occurs.
+*Casts a 300 Damage version of Cold-Fired Phoenix.
+**It is currently unknown whether the Damage increase effect occurs.
+
+| casts =
+Debilitate;
+Shielded Beetle;
+Gelid Ancestor;
+Shivering Marid;
+Cold-Fired Phoenix;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 18 - 29 Lunari.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone*F2;
+Draconian Idol (Fire);
+Elemental Moonstone;
+Harmonious Thread;
+Ice Moonstone;
+Fire Thread;
+Ninja Pig Idol (Fire);
+Rat Thief Idol (Balance);
+Storm Moonstone;
+Storm Thread;
+Wolf Warrior Idol (Ice);
+
+| spellements =
+Iron Curse;
+Thieving Dragon*F2;
+Thermic Golem;
+Volcanic Golem;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| recipes =
+Obsidian Colossus Spellements @ Obsidian Colossus Spellements 7;
+Stormwing Spellements;
+Stormwing Spellements @ Stormwing Spellements 7;
+
+}}

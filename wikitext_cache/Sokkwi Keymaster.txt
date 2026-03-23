@@ -1,0 +1,192 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 750
+| crecla = Elemental
+| crecla2 = Colossus
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Fire;
+
+| incresist =
+50% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sokkwi High Guard;
+
+| world = Krokotopia
+| location = Emperor's Retreat
+| subloc1 = Sokkwi Keymaster Arena
+| descrip =
+Two additional Sokkwi High Guard Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Are you the Gatekeeper? I must put you to the ultimate test!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+No, he hasn't seen the Gatekeeper. Stop asking him that.
+
+| extract class =
+Colossus;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Ice Bats (245-285);
+Evil Snowman;
+Ghoul;
+Leprechaun;
+Sandstorm;
+
+| quests =
+The Right Combination (Krokotopia);
+
+| gold =
+24 - 38;
+
+| hats =
+Bitter Cap;
+Cowl of the Fortress*F2;
+Destructive Cowl*F2*WMV;
+Keymaster's Visor*F2*WMV;
+Rough-Hewn Hood;
+Sphinx's Circlet;
+Sturdy Hood*F2;
+Theurge's Hat*F2*WMV;
+Threadbare Hood;
+
+| robes =
+Cloak of Prediction;
+Dusty Robe*F2;
+Powerful Vestment*F2;
+Robe of the Bastion;
+Robe of the Mirage;
+Sturdy Robe;
+Theurge's Brown Cloak*F2;
+Vestment of Ignition;
+
+| boots =
+Boots of Talent;
+Boots of the Bastion;
+Boots of the Whirlwind*F2*WMV;
+Flowering Shoes;
+Hardy Boots;
+Keymaster's Languid Boots*F4*WMV;
+Krokotopian Striders;
+Powerful Boots*F2;
+Runed Boots*F2*WMV;
+Sandals of Darkness*F3;
+Sandals of Energy;
+Sandals of Ignition;
+Sandals of Tall Tales;
+Shoes of Mortality;
+Shoes of the Desert;
+Slippers of the Oasis;
+
+| athames =
+Sandblasted Dagger*F10*WMV;
+Whirlwind Dagger;
+
+| amulets =
+
+| rings =
+Band of Equilibrium;
+Band of the Skies*F4;
+Flowering Band;
+Jewel of Obliteration;
+Loop of Quietude*F3*WMV;
+Loop of the Defender;
+Sphinx's Circlet;
+
+| wands =
+Sokkwi Keymaster's Wand;
+
+| decks =
+
+| items =
+Ice Sarcophagus*F2*WMV;
+Krok Moon Plaque;
+Krok Moon Tablet;
+Raised Storm Sarcophagus;
+Tall Palm Tree*CR;
+Wide Blue Pedestal*F2*WMV;
+
+| cards =
+Dryad;
+Ice Trap;
+Krokotillian;
+Sprite;
+Storm Shark;
+
+| reagents =
+Bone*F3*WMV;
+Brass;
+Copper;
+Ectoplasm;
+Iron;
+Lead;
+Pyrite*F2;
+
+| spellements =
+
+| snacks =
+Cracker;
+Green Grapes*F2*WMV;
+Nettle Root;
+Tiny Fish*F3*WMV;
+
+| jewels =
+Chipped Defense Peridot +13;
+Chipped Health Opal +16;
+Chipped Mana Opal +10;
+Cracked Damage Peridot +6;
+Cracked Defense Opal +5;
+Eager Opal;
+Troll Peridot;
+
+| pins =
+
+| pets =
+Snow Serpent;
+
+| seeds =
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

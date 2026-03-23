@@ -1,0 +1,140 @@
+{{Stub|the spell reveal for Sabertooth listed in Spell Notes.}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 18,885
+| crecla = Irk
+| school = Ice
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Ice;
+
+| critical =
+348;
+
+| criticalblock =
+609;
+
+| outpierce =
+15%;
+
+| outboost =
+91%;
+
+| incboost =
+30% Fire;
+
+| incresist =
+44% Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+74% Ice;
+
+| outhealing =
+24%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wallaru
+| location = Outback
+| subloc1 = Desperation Dream
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+*''"GAH!"'':
+**{{Icon|Global}} At the beginning of the first Round, Desperation will cast {{Link|Spell|Katabatic Wind}} and will recast this spell when replaced.
+**{{Icon|Feint}} If a {{Link|Spell|Feint}} or {{Link|ItemCard|Mass Feint}} is cast, Desperation will cast a protected '''5,000''' Damage Absorb version of {{Link|Spell|Frozen Armor}} on itself.
+***{{Link|Spell|Melt}} can be used to prevent this cheat.
+**{{Icon|Health}} '''Health Threshold Cheats:''' If Desperation's Health reaches the following percent health thresholds, the following cheats will occur.
+***{{Icon|Heal}} Below 80% Health - If Desperation takes Damage, it casts an Ice version of {{Link|Spell|Healing Current}} restoring 100, 400, or 1,000 Health to itself.
+***{{Icon|Shield}} Below 50% Health - At the beginning of every Round, Desperation will cast a -80% Random School Shield or a Tower Shield on itself.
+***{{Icon|Feint}}{{Icon|Manipulation}} Below 25% Health:
+****Casts an Ice version of {{Link|Spell|Life Feint}} that applies a +30% Damage Trap on caster and a +75% Ice Trap on target.
+****Casts {{Link|Spell|Resuscitate}}.
+
+| spellnotes =
+*Desperation's Brace has the appearance of {{Link|Spell|Sleet Storm}}.
+*Casts an Ice version of {{Link|ItemCard|Sabertooth}}.
+
+| casts =
+Brace;
+Tower Shield;
+Celestial Intervention (Tier 4a);
+Disarm (Ice);
+Freeze;
+Polar Swarm (40+300);
+Climaclysm;
+Blizzard;
+Icezilla (455-535);
+Frostbite;
+Ice Efreet;
+
+| quests =
+Perchance to Scream;
+
+| gold =
+2 - 6;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Wallaru Ranch Combat Theme;
+Wallaru Wobbegong Combat Theme;
+
+| cards =
+Balanceblade;
+Empower;
+Iceblade;
+Mythblade;
+
+| reagents =
+Brass;
+Copper;
+Leather Straps;
+Tungsten;
+
+| spellements =
+
+| snacks =
+Carrot;
+Frosted Cupcake;
+Mini Pumpkin;
+Nutty Truffle;
+Tamales;
+Tasty Biscuit;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

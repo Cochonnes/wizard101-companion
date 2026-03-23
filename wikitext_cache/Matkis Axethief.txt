@@ -1,0 +1,194 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 9,040
+| crecla = Deer
+| school = Fire
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Storm Elemental;
+
+| world = Avalon
+| location = Abbey Road
+| subloc1 = Hart's Hideaway
+| descrip =
+
+| speech =
+:''"Your time is going to come! You'll be trampled under hoof!"''
+
+| cheatnotes =
+*{{Icon|Round}} During the first Round, Matkis Axethief will use his turn to cast Reshuffle for zero pips on all Wizards.
+*{{Icon|Jinx}} If a single target Trap or Prism is cast on Matkis Axethief, he will cheat-cast a version of {{Link|Spell|Cleanse Ward}} that removes all harmful Wards from himself.
+:*Spells such as {{Link|Spell|Mass Fire Prism}} and {{Link|Spell|Windstorm}} will not trigger this cheat.
+*{{Icon|Manipulation}} ''"Don't Get Too Comfortable!"'' For every Spell cast by Wizards (including Pet casts) or enemies, there is a random chance Matkis Axethief will cheat-cast Reshuffle for zero Pips on all Wizards.
+**This cheat can repeat multiple times in a row.
+**Wizards under the effect of {{Link|Spell|Empowerment}} will gain a Pip.
+*{{Icon|Damage}} ''"Hah! Your miss leaves you open!"'' If a Wizard fizzles, then Matkis Axethief will cast an enhanced version of {{Link|Spell|Link}} on the Wizard who fizzled (100+600 Fire Damage, 30+600 Health).
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Fireblade;
+Fire Trap;
+Reshuffle;
+Fire Shark;
+Natural Attack (Fire 145-280-440);
+Meteor Strike;
+Scald;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Efreet;
+
+| quests =
+Coda;
+
+| gold =
+93 - 113;
+
+| hats =
+Catacombs Helm;
+Honor Bound Helm;
+Hunter's Helm of Mercy*F4*WMV;
+
+| robes =
+Bane Wyrm's Tartan*F4*WMV;
+Honor Bound Surcoat;
+Three Color Serpent's Robes*F2;
+Tunic of Nature's Wrath;
+
+| boots =
+Hospitable Knight's Boots*F6*WMV;
+Loyal Knight's Boots*F4*WMV;
+
+| athames =
+Dryad's Burning Nettle*F2;
+Owl's Talon*F2;
+
+| amulets =
+Mystery of the Druids*F2;
+Proven Armiger's Pendant;
+
+| rings =
+Band of the War Ostrich;
+Bannerman's Honorbound Ring;
+Circle of High Order;
+Deep Water Rising Ring*F3*WMV;
+
+| wands =
+Chivalric Mallet*F2;
+Rosewood Persuader*F2;
+
+| decks =
+Tanglewood Cards*F7*WMV;
+
+| items =
+Avalon Combat Theme*F3;
+Avalon Glorious Theme*F2*WMV;
+Avalon Weapons Rack;
+Jousting Rack*F3*WMV;
+
+| cards =
+Choke*F5*WMV;
+Deer Knight*F2;
+Fire Dragon*F2*WMV;
+Frost Giant;
+Fuel*F5*WMV;
+Gargantuan;
+Immolate*F5*WMV;
+Leviathan;
+Orthrus;
+Power Link*F4*WMV;
+Power Nova;
+Scald*F7*WMV;
+Scarecrow*F2;
+Snow Angel;
+Steal Charm*F3;
+Storm Lord;
+Unstoppable;
+
+| reagents =
+Black Lotus*F2;
+Bronze*F2;
+Cat Tail*F5*WMV;
+Deep Mushroom*F4*WMV;
+Frost Flower*F4*WMV;
+Lava Lily*F4*WMV;
+Mist Wood*F5*WMV;
+Nickel;
+Ore*F4;
+Parchment*F6*WMV;
+Pearl*F4*WMV;
+Red Mandrake*F5*WMV;
+Shell;
+Steel;
+Stone Block*F2;
+
+| spellements =
+
+| snacks =
+Bogwich*F2*WMV;
+Cracker;
+Delicious Cookie;
+Goat Cheese;
+Golden Grapes;
+Gummy Humongofrog;
+Gummy Wyrms;
+Jelly Baby;
+King Banana*F2;
+Pigeon Pie;
+Spicy Drumstick*F2*WMV;
+Strawberry Cupcake;
+Treant Bark*F3;
+
+| jewels =
+Clear Piercing Sapphire +5%;
+Opaque Health Opal +72;
+Storm-Shot Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Evil Magma Peas*CR;
+Frozen Fly Trap;
+Pink Huckleberries;
+Red Huckleberries;
+Trumpet Vine;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

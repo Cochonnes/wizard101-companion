@@ -1,0 +1,285 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 10,460
+| crecla = Robot
+| crecla2 = Golem
+| school = Moon
+| masteries =
+Ice;
+Myth;
+Death;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+182 Any;
+
+| criticalblock =
+237 Any;
+
+| outpierce =
+22%;
+
+| outboost =
+80%;
+
+| incboost =
+5% Fire, Storm, Life;
+
+| incresist =
+70% Ice, Myth, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Bat Bot (Storm);
+
+| world = Empyrea
+| location = Zanadu
+| subloc1 = Beacon of Hope
+| descrip =
+
+| speech =
+:''"You are not welcome here. Lord Bat has specifically decreed no Alphoi, no Nimbari, no brain things, no spiders and NO WIZARDS! Please exit peacefully or you will be tumbled. You have twenty seconds to comply."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Empyrea
+| tome description =
+He was originally designed to build bridges. True story.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Delay .. recorded!"'' - If a Wizard is late to join the duel, Tumbler will cast {{Link|Spell|Mana Burn}} on the Wizard.
+*{{Icon|Late}} ''"New Target Acquired!"'' - If a Wizard returns to the duel after fleeing, Tumbler will cast Mana Burn on the Wizard.
+{{Icon|Aura}} '''Interrupt Cycle:''' (Resets every 3 {{Icon|Round}})
+*''"Offense Mode Engage"'' - At the start of the Round, Tumbler gets a '''+100%''' {{Link|Spell|Berserk}} Aura for 98 Rounds, increased by an additional +100% for each Wizard beyond the first in the duel, up to a maximum of '''+400%'''.
+*''"Defense Mode Engage"'' - At the beginning of the fourth Round, it changes to a '''-100%''' {{Link|Spell|Brace}} Aura on self for 98 Rounds, increased by an additional -5% for each Wizard beyond the first in the duel, up to a maximum of '''-115%'''.
+**''"Anomaly detected...corrected"'' If a Wizard removes Tumbler's Aura, Tumbler will recast it.
+
+| spellnotes =
+*Casts an Aegis-protected Bladestorm.
+*Casts Mass Moon Trap.
+*Casts an Indemnity-protected Feint.
+
+| casts =
+Frozen Armor;
+Moon Blade;
+Bladestorm;
+Moon Trap;
+Feint;
+Natural Attack (Moon 115-230-345);
+Red Banshee;
+Wraith;
+Chivalrous Centaur;
+Mystic Colossus;
+Orthrus;
+Icezilla (650-730);
+Snowball Barrage;
+
+| quests =
+At the End of His Hope;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge and has not unlocked the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge, the following drops will be available:
+*7 Spellements will drop each time from '''any''' School for their respective rank 10, 11, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+224 - 247;
+
+| hats =
+Crackling Zanadu Helm;
+Illuminated Zanadu Helm;
+Interstellar Engineer Helm;
+
+| robes =
+Choice Kalamar Tunic;
+Interstellar Engineer Suit;
+
+| boots =
+Crackling Zanadu Boots;
+
+| athames =
+Interstellar Engineer's Knife;
+Interstellar Explorer's Knife;
+
+| amulets =
+
+| rings =
+
+| wands =
+Hero's Hexacorder;
+
+| decks =
+
+| items =
+Aero Dwarf Blue Vase;
+Aero Dwarf Chair;
+Aero Dwarf Potted Plant;
+Empyrea Flotsam Combat Theme*F2;
+Empyrea Husk Theme;
+Empyrea Inner Athanor Theme;
+Kalamar Side Table;
+Nimbari Sword Rack;
+
+| cards =
+Cyclops;
+Fable Lord*F2;
+Humongofrog;
+Kraken*F3;
+Lord of the Squall*F3;
+Mass Fire Prism;
+Mass Ice Prism;
+Mega Soothe;
+Mutate Bats (Fire);
+Mutate Colossus (Storm);
+Mutate Kraken (Ice);
+Mutate Monster (Fire);
+Mutate Monster (Ice);
+Mutate Serpent (Fire);
+Mutate Wyvern (Fire);
+Oni No Jade;
+Oni No Plague;
+
+| reagents =
+Aether*F2;
+Agave Leaves;
+Agave Nectar;
+Ancient Scroll;
+Antique Coins;
+Aquamarine;
+Black Pearl;
+Blood Moss;
+Braided Vine;
+Brass;
+Bronze Gear;
+Cobalt*F2;
+Ectoplasm*F2*WMV;
+Flying Squid Ink*F4*WMV;
+Golden Pearl*F3;
+Merle's Whisker;
+Mithril*F2;
+Nickel;
+Orichalcum;
+Scales*F3;
+Silver*F3*WMV;
+Spring*F2;
+Sunstone;
+Tin;
+Titanium*F4*WMV;
+Tungsten*F2;
+Turquoise;
+Vine;
+
+| spellements =
+Celestial Calendar*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Lord of Winter*BR;
+Raging Bull*BR;
+Sand Wurm*BR;
+Scion of Death*BR;
+Wings of Fate*BR;
+
+| snacks =
+Athame Pop;
+Boiled Spider Legs;
+Cherry Pie;
+Dastardly Radish;
+Eye Candy;
+Flaming Jalapeno;
+Gator Tots;
+Gummy Humongofrog*F2*WMV;
+Hero Sandwich;
+Hot Cross Buns;
+Meat Soup*F2;
+Oyster Shooter;
+Pizza*F3*WMV;
+Pyramints;
+Salmon Joy*F2;
+Satyr Chow;
+
+| jewels =
+Life-Away Jade;
+Lustrous Blocking Onyx +13;
+Lustrous PIP Opal +10%;
+Myth-Boon Peridot;
+Sparkling Blocking Peridot +18;
+Sparkling Blocking Ruby +18;
+Sparkling Blocking Sapphire +18;
+Sparkling Damage Amethyst +28;
+Sparkling Damage Jade +28;
+Sparkling Defense Jade +55;
+Sparkling Defense Peridot +55;
+Sparkling Defense Sapphire +55;
+Sparkling Health Opal +123;
+Sparkling Health Opal +124;
+Sparkling Health Opal +125*F2;
+Sparkling Mana Opal +52;
+The Deer Knight Rises Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears*F5*WMV;
+Baby Carrots;
+Bell Pepper;
+Boiled Peanuts;
+Boom Shroom*F2*WMV;
+Bread Fruit Bush;
+Cornbread Fruit Bush*F2;
+Couch Potatoes*CR;
+Desparagus (Seed);
+Fiery Boom Shroom;
+Frozen Fly Trap;
+Golden Couch Potatoes;
+Goose Tree;
+Grapes of Wrath*CR*F4*WMV;
+Green Snow Apples;
+Helephant Ears;
+Key Limes*CR;
+Missile Toe;
+Moon Flower;
+Ninja Fig*CR;
+Pink Huckleberries*F2*WMV;
+Purple Bell Pepper;
+Red Bell Pepper;
+Red Couch Potatoes;
+Red Huckleberries;
+Saw Palmetto;
+Sour Fickle Pickle;
+Tiger Lily (Seed);
+Ultra Helephant Ears;
+Ultra Tiger Lily;
+White Desparagus;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

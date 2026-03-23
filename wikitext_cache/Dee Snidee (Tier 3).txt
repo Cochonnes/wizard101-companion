@@ -1,0 +1,117 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 2,305
+| crecla = Giant
+| school = Fire
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Twisted Kin (Tier 3);
+Twisted Kin (Tier 3);
+Twisted Kin (Tier 3);
+
+| world = Housing Instance
+| location = Baddle of the Bands
+| subloc1 = Baddle of the Bands (Tier 3)
+| descrip =
+
+| speech =
+:''"A challenger for the crown of rock? Meet the bad boys of rock'n'roll. You're so condescending, and your gall is never ending. If that's your best, Wizard, your best won't do. We're not gonna take it! Are you listening to me, Wizard? What do you want to do with your life!?"''
+
+| spellnotes =
+
+| casts =
+Fire Shield;
+Fireblade;
+Fire Prism;
+Fire Trap;
+Natural Attack (Fire 120-235-350);
+Immolate;
+Scald;
+Helephant;
+
+| quests =
+Baddle of the Bands;
+
+| gold =
+88-104;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Inferno Obelisk;
+Phoenix Obelisk;
+Short Pillar;
+Tall Pillar;
+Thunder Obelisk;
+Wooden Well Bucket;
+
+| cards =
+Blizzard;
+Donate Power;
+Tempest;
+
+| reagents =
+Acorn;
+Copper;
+Diamond;
+Fossil;
+Mist Wood;
+Nightshade;
+Ore;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Wheat Cracker;
+
+| jewels =
+Flawed Accurate Ruby +4%;
+
+| pins =
+
+| pets =
+
+| seeds =
+Burning Snap Dragon;
+Prickly Bear Cactus;
+
+| mounts =
+
+| spells =
+
+}}

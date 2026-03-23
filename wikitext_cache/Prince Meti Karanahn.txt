@@ -1,0 +1,158 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 600
+| crecla = Krokotopian
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Myth;
+
+| incresist =
+50% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Karanahn Deathfeeder;
+
+| world = Krokotopia
+| location = Karanahn Palace
+| descrip =
+
+| speech =
+:''"It would be quicker if you just admitted defeat now..."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 125 Storm Damage per Pip.
+
+| casts =
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Evil Snowman (Storm);
+Storm Shark;
+Dark Sprite;
+Scorpion;
+Sunbird;
+
+| quests =
+The Key to the Temple;
+The Four Princes;
+
+| gold =
+17 - 33;
+
+| hats =
+Blazing Helm*F2*WMV;
+Hat of Figments*F2;
+Headwrap of Originality*F3*WMV;
+Helm of Ingenuity*F2*WMV;
+Hood of the Phantom*F2;
+Krokotopian Modius*F2;
+Krokotopian Myth Modius;
+Rugged Hood;
+Sweltering Helm*F3*WMV;
+
+| robes =
+Cloak of Prediction*F2*WMV;
+Diviner's Tunic of Squalls;
+Frigid Vestment*F4*WMV;
+Meti's Robes of Peace*F3;
+Necromancer's Ivory Cloak;
+Vest of the Desert;
+Vest of the Oasis;
+
+| boots =
+Boots of the Citadel*F3*WMV;
+Durable Boots*F2;
+Footwraps of the Arctic;
+Prince Meti's Shoes*F3*WMV;
+Sandals of Tall Tales;
+Shoes of Mortality;
+Shoes of the Desert;
+Slippers of Burning Sands*F2*WMV;
+Soothsayer's Sandals*F2;
+
+| athames =
+Dirk of Harmony;
+Parched Kris;
+Whirlwind Dagger;
+
+| amulets =
+
+| rings =
+Band of Equilibrium*F3*WMV;
+Loop of Quietude*F4*WMV;
+Sparkling Band;
+
+| wands =
+Meti's Staff of Talent*F3*WMV;
+
+| decks =
+Prince's Peridot Deck*F2*WMV;
+
+| items =
+Prince Meti Karanahn*CR*WMV;
+
+| cards =
+Evil Snowman;
+Ghost Touch*F3*WMV;
+Giant;
+Spirit Armor;
+Sunbird; 
+Vampire;
+
+| reagents =
+Ectoplasm;
+Iron*F2;
+Leather Straps*F2*WMV;
+Nickel;
+Pyrite;
+
+| spellements =
+
+| snacks =
+Cracker;
+Green Grapes;
+Nettle Root*F3*WMV;
+Tiny Fish*F3*WMV;
+
+| jewels =
+Chipped Mana Opal +11;
+Cracked Defense Amethyst +10;
+Cracked Defense Amethyst +12;
+Cracked Defense Citrine +12;
+Cracked Defense Onyx +10;
+Cracked Defense Opal +4;
+Dark Sprite Onyx;
+Frost Beetle Sapphire;
+Imp Jade;
+Scarab Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+
+| mounts =
+
+| spells =
+
+}}

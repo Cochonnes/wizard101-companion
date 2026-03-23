@@ -1,0 +1,209 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 3,600
+| crecla = Wizard
+| crecla2 = Undead
+| school = Death
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Barbarian Spirit;
+Hardrock Cyclops;
+
+| world = Dragonspyre
+| location = The Labyrinth
+| subloc1 = 
+| descrip =
+Devora Shadowcrown is a roaming Boss in the Labyrinth. She spawns with the Barbarian Spirits and Hardrock Cyclops in the southwest area of the map.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+Some may prefer a golden crown, but upon hearing of the dangerous heft, she opted for a lighter, shadow version.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Weakness;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Vampire;
+Skeletal Pirate;
+Scarecrow;
+Fire Elf (50+210);
+Ice Wyvern;
+Lightning Bats;
+Natural Attack (Storm 125x, 70%);
+
+| quests =
+Jail Break;
+
+| gold =
+61 - 112;
+
+| hats =
+Blazing Bonnet*F3*WMV;
+Bonfire Headdress;
+Cap of Chronicles;
+Cap of Constitution;
+Cowl of Morbidity;
+Halcyon Hood;
+Herbalist's Hood*F2*WMV;
+Hood of the Vigilant;
+Ivy-Wrapped Cap;
+Mantle of the Icicle;
+Mantle of the Undying*F2;
+Promethean Hood;
+Shroud of the Equinox*F2;
+Veil of Leaves;
+Veil of Passage;
+
+| robes =
+Arbiter's Raiment;
+Arboreal Robes;
+Blizzard Cloak;
+Chilling Cloak*F2;
+Coat of Impartiality*F2*WMV;
+Fiery Tunic;
+Librarian's Robes*F3*WMV;
+Robe of Radiance*F2;
+Robe of the Greatest Saga*F3;
+Shibboleth Smock;
+Smock of the Frost Giant;
+Storm Giant's Surcoat;
+Terminus Wrap;
+Tunic of the Sphinx;
+Verdant Vestment*F2*WMV;
+Whirlwind Wrap*F2*WMV;
+Wrap of the Monsoon;
+
+| boots =
+Ashen Footwraps;
+Blizzard Boots*F3*WMV;
+Boots of Equivalence;
+Burning Boots;
+Dragonclaw Boots;
+Footgear of Corporeality*F5*WMV;
+Frost Giant's Boots*F2*WMV;
+Legend Walkers;
+Sandals of Lost Aeons*F2*WMV;
+Shoes of Equilibrium*F4*WMV;
+Shoes of the Whispering Dark;
+Stormbreaker Sandals;
+Vineyard Shoes*F3*WMV;
+
+| athames =
+Dragon's Eye Dagger;
+Dragonblood Dirk*F2*WMV;
+Scaled Smallsword;
+Talon of the Wyrmkin*F3*WMV;
+
+| amulets =
+
+| rings =
+Dragonscale Ring;
+Heartwood Band*F2;
+Ring of Equilibrium*F4;
+Ring of the Forefathers*F2*WMV;
+Sapphire Studded Band;
+
+| wands =
+Shadowcrown's Icy Blade*F2*WMV;
+
+| decks =
+Shadowcrown's Hurricane Deck*F3;
+
+| items =
+Dragonspyre Combat Theme*F2*WMV;
+Long Corner Wall Ruins*F2;
+Phoenix Marker*F3*WMV;
+Short Corner Wall Ruins;
+Singed Magic Book;
+Small Corner Wall Ruins;
+Thunder Plaque*F2;
+
+| cards =
+Dragonflies;
+Pest Zapper;
+
+| reagents =
+Brass;
+Bronze Gear*F6*WMV;
+Cobalt*F2;
+Copper;
+Leather Straps*F5;
+Nickel;
+Tin*F3;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F3;
+Goat Cheese*F4*WMV;
+Golden Grapes*F3*WMV;
+Gummy Humongofrog*F2;
+King Banana*F4*WMV;
+
+| jewels =
+Add Health Opal;
+Blemished Defense Citrine +23;
+Blemished Health Opal +44;
+Dull Blocking Citrine +2;
+Dull Blocking Jade +4;
+Dull Blocking Ruby +2;
+Dull Damage Amethyst +13;
+Dull Damage Sapphire +13;
+Dull Healing Opal +3%;
+Dull Mana Opal +21;
+Dull Resilient Opal +3%;
+Healthy Opal*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+White Laugh-O-Dil*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

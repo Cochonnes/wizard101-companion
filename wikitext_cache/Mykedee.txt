@@ -1,0 +1,145 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 19,825
+| crecla = Beastman
+| school = Death
+| masteries =
+Life;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+120 Any;
+
+| criticalblock =
+120 Any;
+
+| outpierce =
+15%;
+
+| outboost =
+155%;
+
+| incboost =
+10% Life;
+
+| incresist =
+25% Fire, Ice, Storm, Myth, Balance, Shadow;
+75% Death;
+
+| outhealing =
+
+| inchealing =
+100%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Empyrea
+| location = Aeriel Shores
+| subloc1 = Beastman Fight Club
+| descrip =
+Mykedee is the first Boss in the Beastman Fight Club instance.
+
+| speech =
+:''"Hey, you make some noise! In Intergalactic, Interplanetary Fight Club, that mean only one thing… you gotta fight!"''
+
+| cheatnotes =
+{{Icon|Late}} ''"You ready to fight for your right to be tardy?"'' - If a Wizard enters the duel late, Mykedee will cheat-cast Metalops that leaves a '''+200%''' protected Death Trap on the Wizard and {{Link|Spell|Beguile}}s the Wizard for three Rounds.
+:*Cheat will also trigger if Yowck and Adrok are defeated, leaving Mykedee the last one in the duel, and it will trigger on all Wizards that aren't already Beguiled.
+{{Icon|Blade}} If a Wizard casts a Blade Spell on another target, Mykedee will perform one of the following actions:
+:*''"No way, Wizard"'' - The first time, Mykedee will cast a {{Link|Spell|Bad Juju}} on the target.
+:*''"This ain't no Charm School"'' - The second time, Mykedee will cast Virulent Plague.
+:*''"Third time ain't a charm!"'' - The third time, Mykedee will cast Metalops. After the third time, the cycle begins again.
+:*Damage Spells with a secondary effect Blade, like on {{Link|Spell|Savage Paw}}, will result in the action being cast on the target of the Damage.
+:*All Ally Blade Spells '''will not''' trigger this cheat.
+{{Icon|Healing}} If a Wizard casts a Healing spell, Mykedee will perform one of the following actions:
+:*''"No healing, it time to get ill!"'' - The first time, Mykedee will cast {{Link|Spell|Infection}} on the Wizard.
+:*''"Feeling better? I fix that!"'' - The second time, Mykedee will cast Infection on the Wizard.
+:*''"Ha! Now everyone get ill!"'' - The third time, Mykedee will cast Mass Infection. After the third time, the cycle begins again.
+*{{Icon|Feint}} ''"Hold it -- now hit it!"'' - After casting his Natural Attack, Mykedee will follow up with a {{Link|Spell|Feint (+75%)}} on the target.
+*{{Icon|Random}} ''"Time for one last Beatdown"'' - Randomly, if Beets is in the battle, Mykedee will use his turn to cast Guardian Spirit (20%) on Beets.
+
+| spellnotes =
+*Casts an all enemies version of Curse (95%).
+
+| casts =
+Dark Shepherd;
+Adapt;
+Brace;
+Flawless;
+Magnify (6 Rounds);
+Vengeance (6 Rounds);
+Conviction;
+Dream Shield (-75%);
+Life Shield (-85%);
+Deathspear (+10%);
+Plague (-25%);
+Mass Infection;
+Virulent Plague;
+Sacrifice (Death);
+Deathblade (+40%);
+Curse (95%);
+Guardian Spirit (20%);
+Natural Attack (Death 110-220-330, 80%);
+Lord of Night;
+Deer Knight;
+Headless Horseman;
+Qismah's Wrath;
+Vampire (375);
+Call of Khrulhu;
+Sorrow's Shadow;
+Scarecrow;
+Metalops (800);
+Ominous Scarecrow (Death);
+Skeletal Dragon (225+910);
+Avenging Fossil;
+
+| quests =
+Fight For Your Right (Instance);
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

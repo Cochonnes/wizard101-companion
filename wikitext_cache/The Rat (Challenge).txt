@@ -1,0 +1,110 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 20,000
+| crecla = Rat
+| school = Shadow
+| shadowslots = 7
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = No
+| minions =
+Titan Experiment 07 (Stage 1, Challenge);
+Titan Experiment 291 (Stage 1, Challenge);
+Titan Experiment 34 (Stage 1, Challenge);
+
+| world = Housing Instance
+| location = The Rat Rematch
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Animated Deity Dirk (Level 170+);
+Classical Deity Dirk (Level 170+);
+Cool Deity Dirk (Level 170+);
+Grimdark Deity Dirk (Level 170+);
+Infamous Deity Dirk (Level 170+);
+Inflammatory Deity Dirk (Level 170+);
+Snappy Deity Dirk (Level 170+);
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Animated Deity Cards (Level 170+);
+Classical Deity Cards (Level 170+);
+Cool Deity Cards (Level 170+);
+Grimdark Deity Cards (Level 170+);
+Infamous Deity Cards (Level 170+);
+Inflammatory Deity Cards (Level 170+);
+Snappy Deity Cards (Level 170+);
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Aethyr Crystal @ 12 Aethyr Crystal;
+
+| spellements =
+Nested Fury;
+Raging Bull;
+Rusalka's Wrath;
+Snowball Barrage;
+Winged Sorrow;
+Wings of Fate;
+Witch's House Call;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

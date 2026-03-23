@@ -1,0 +1,210 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 11,200
+| crecla = Qhat
+| school = Balance
+| shadowslots = 1
+| startpips = 3
+| powerpips = Yes
+| critical =
+81 Any;
+
+| criticalblock =
+97 Any;
+
+| outpierce =
+15%;
+
+| outboost =
+40%;
+
+| incboost =
+5% Myth, Life, Death;
+
+| incresist =
+30% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Mirage
+| location = Thieves' Den
+| subloc1 = Ali Baboon's Private Lounge
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Berserk;
+Elemental Shield (-55%);
+Spirit Shield (-55%);
+Dragonblade;
+Loremaster;
+Natural Attack (Balance 110-220-330);
+Savage Paw;
+Gaze of Fate;
+Power Nova;
+Ra (635-715);
+Judgement (125);
+
+| quests =
+Ali Baboon's Last Stand;
+
+| gold =
+470 - 550;
+
+| hats =
+Alkali Kalpak of Fiction;
+Alkali Kalpak of Withering;
+Alkali Monsoon Kalpak*F2*WMV;
+
+| robes =
+Alkali Armor of Vibrancy*F2;
+Alkali Armor of Withering;
+Alkali Monsoon Armor;
+Eerem Raiment of Harmony;
+
+| boots =
+Alkali Monsoon Walkers;
+Alkali Walkers of Withering;
+Eerem Givehs of Clangor;
+Eerem Givehs of Discovery;
+
+| athames = 
+Eerem Razor of Pulse;
+Istanboa Heatwave Khanjar;
+
+| amulets =
+Eerem Hailstone Talisman;
+Eerem Talisman of Discovery;
+Istanboa Heatwave Pendant;
+
+| rings =
+
+| wands =
+Myriarch Tabarzin of Fevers;
+Myriarch Tabarzin of Musing;
+Myriarch Tabarzin of Rime;
+Scorpion Bow of Answers;
+
+| decks =
+Eerem Spread of Discovery;
+Eerem Spread of Menace;
+
+| items =
+Mirage Canyon Combat Theme;
+Mirage Canyon Theme 2;
+Mirage Caravan Theme;
+Mirage City Combat Theme;
+Mirage Den of Thieves Theme;
+Mirage Jungle Combat Theme;
+Mirage Jungle Theme;
+Mirage Magic Carpet Theme;
+
+| cards =
+Age of Reckoning;
+Astraphobia*F2;
+Frostfang;
+Katabatic Wind;
+Namaste;
+Rusalka's Wrath;
+Saga of Heroes;
+Snowball Barrage;
+Wings of Fate;
+
+| reagents =
+Aether*F5*WMV;
+Agave Leaves*F2*WMV;
+Agave Nectar;
+Amber Dust*F4*WMV;
+Aquamarine*F2;
+Astral Shard*F2;
+Fire Blossom*F2;
+Golden Pearl*F4*WMV
+Merle's Whisker;
+Mithril*F4*WMV;
+Orichalcum*F2;
+Scales*F2;
+Silver*F3*WMV;
+Steel;
+Sunstone;
+Titanium*F2;
+Tungsten*F8*WMV;
+Turmeric;
+Turquoise*F6*WMV;
+Vine*F4*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F2;
+Beetle Cream Soda;
+Chalupacabra;
+Eye Candy;
+Hard Boiled Beetle Eggs;
+Mustachios;
+Satyr Chow;
+Ships 'n' Queso;
+Veggie Juice;
+
+| jewels =
+Chastisement Opal;
+Shiny Blocking Peridot +16;
+Shiny Critical Amethyst +16;
+Shiny Damage Amethyst +26;
+Shiny Damage Citrine +26;
+Shiny Damage Peridot +26;
+Shiny Defense Amethyst +52;
+Shiny Defense Hematite +51;
+Shiny Defense Jade +51;
+Shiny Defense Peridot +52;
+Shiny Defense Ruby +52;
+Shiny Health Opal +112*F2;
+Shiny Health Opal +114*F2*WMV;
+
+| pins =
+
+| pets =
+MaCaw*CR*F3;
+
+| seeds =
+Bell Pepper;
+Boiled Peanuts;
+Boom Shroom;
+Boon Tree*CR;
+Clockwork Flower;
+Dandelion;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Face Palm;
+Fickle Pickle*F2*WMV;
+Honey Bee Plant;
+Honey Sickle;
+Key Limes*CR;
+King Parsley*CR;
+Melting Cheese Tree;
+Moon Flower;
+Ninja Fig*CR;
+Orange Bell Pepper*CR;
+Pink Huckleberries;
+Snow Apples;
+Sour Fickle Pickle;
+Sword Fern*CR;
+Tiger Lily (Seed);
+White Laugh-O-Dil*F2;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

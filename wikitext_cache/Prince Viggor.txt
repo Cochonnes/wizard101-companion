@@ -1,0 +1,236 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 41,300
+| crecla = Undead
+| crecla2 = 
+| school = Myth
+| school2 = Death
+| cheats = Yes
+| shadowslots = 5
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+24%;
+
+| outboost =
+105%;
+
+| incboost =
+5% Storm, Life;
+
+| incresist =
+70% Myth, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Viggor's Crusader (Death);
+Viggor's Crusader (Ice);
+Viggor's Havox (Balance);
+Viggor's Havox (Shadow);
+Viggor's Vanguard (Fire);
+Viggor's Vanguard (Life);
+Viggor's Lorekeeper (Myth);
+Viggor's Lorekeeper (Storm);
+
+| world = Wizard City
+| location = The Catacombs
+| subloc1 = Viggor's Tomb
+| descrip =
+
+| speech =
+:''"I did not succeed. I tried to keep the knowledge of Dragonspyre in the hands of the worthy, the aristocracy. But, according to your historian, the peasantry and the rank-and-file took it for themselves and used it to wake a Titan. I tried to create a new Dragonspyre here, one where the royalty would protect its citizens from the things they cannot know. But I was defeated. And my soldiers are now trapped in the purgatory of that failure. And my punishment, it seems, is to know this, to watch it over and over. Even now, I feel the tug of the crystal, pulling me back to my recorded path. I must break its chains, break history's chains. If I am the last record of Prince Viggor, then I will do as he would do: I will fight!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+He's not so bad, except for the elitism, the arrogance, and the warmongering. Apart from that, he's okay.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Minion}} ''"Knights of Dragonspyre, to me!"''' - Casts a Sun Spell to summon a combination of the following Minions:
+**Summons 1 Minion if only 1 Wizard is present.
+**Summons 2 Minions if 2 Wizards are present.
+***{{Link|Creature|Viggor's Crusader (Death)}}
+***{{Link|Creature|Viggor's Crusader (Ice)}}
+***{{Link|Creature|Viggor's Vanguard (Fire)}}
+***{{Link|Creature|Viggor's Vanguard (Life)}}
+***{{Link|Creature|Viggor's Lorekeeper (Myth)}}
+***{{Link|Creature|Viggor's Lorekeeper (Storm)}}
+***{{Link|Creature|Viggor's Havox (Balance)}}
+***{{Link|Creature|Viggor's Havox (Shadow)}}
+**''"The cycle repeats..."''' - Starting on Round 3, Prince Viggor will recast his Sun Summon Spell to summon one additional Minion.
+*{{Icon|Feint}} ''"That knowledge is beyond you!"'' - If a Feint is cast on Boss, he will cast a Shadow Spell to remove all Traps.
+**{{Link|Spell|Indemnity}} can be used to preserve the Feint if Viggor's Lorekeeper isn't present.
+*{{Icon|Round}} ''"Steel yourselves!"'' - At the end of Round 2, Prince Viggor will cast a '''-55%''' {{Link|Spell|Mass Tower Shield (Shadow)}}.
+*{{Icon|Spell}} ''"This is for your own good"'' - Prince Viggor will cast a '''-30%''' {{Link|Spell|Mass Weakness}}.
+*{{Icon|Spell}} ''"Attack!"'' - Viggor will cast {{Link|Spell|Bladestorm (+25%)}}.
+*{{Icon|Spell}} ''"Feel our fury!"'' - Viggor will cast '''+70%''' {{Link|Spell|Feint (Shadow)}} universal Trap on all Wizards.
+*{{Icon|Late}} ''"You can't sneak up on me!"'' - If a Wizard is late to combat, Prince Viggor will cast '''+25%''' Bladestorm, '''-30%''' Mass Weakness,  a '''-55%''' Mass Tower Shield (Shadow) that applies 3 shields per ally, and an AoE '''+70%''' Feint (Shadow).
+
+'''Minion Cheats:'''
+
+{{Icon|Life}} {{Icon|Death}}
+*{{Icon|Shield}} If a Shield is cast, these Minions will use {{Link|Spell|Pierce (Star)}} to remove 1 Shield then proceed to cast {{Link|Spell|Tower Shield (-55%)}} on themselves.
+**AoE Shields only trigger this spell on the caster.
+{{Icon|Fire}} {{Icon|Ice}}
+*{{Icon|Blade}} If a Blade is cast, these Minions will use {{Link|Spell|Cleanse Charm (Star)}} to remove all Negative Charms from the receiver of the Blade and then proceed to cast {{Link|Spell|Balanceblade (+30%)}} on themselves.
+**For multi-target spells such as {{Link|Spell|Bladestorm}}, only the caster will be cleansed.
+{{Icon|Storm}} {{Icon|Myth}}
+*{{Icon|Trap}} If a Trap is cast, these Minions will cast {{Link|Spell|Cleanse Ward (Shadow, -1)}} to remove 1 Trap from their ally and places a {{Link|Spell|Feint (+75%)}} on the Wizard that cast the Trap.
+**Multi-target Traps such as {{Link|Spell|Windstorm}} will cause the Minions to cast this spell on the caster.
+{{Icon|Balance}} {{Icon|Shadow}}
+*{{Icon|Curse}} If a Negative Charm is cast, these Minions will use Cleanse Charm (Star) on the target it was used on then proceed to cast a '''-30%''' Weakness on the Wizard.
+
+| spellnotes =
+*Casts a Mass version of Stun (80%).
+
+| casts =
+Dark Shepherd;
+Adapt;
+Flawless;
+Vengeance;
+Quicken;
+Tower Shield (-55%);
+Life Shield (-85%);
+Storm Shield (-85%);
+Balanceblade (+30%);
+Mass Hex;
+Feint (All Enemies);
+Stun (80%);
+Cleanse Ward (Life);
+Athena Battle Sight;
+Natural Attack (Myth 115-230-345-460);
+Serpent Beguiler;
+Minotaur (50+520);
+Cursed Colossus;
+Earthquake (425);
+Hex House;
+Orthrus (785);
+Medusa (865);
+Headless Horseman;
+Natural Attack (Death 105-210-315-420);
+Qismah's Wrath;
+Call of Khrulhu;
+Deadly Minotaur (70+660);
+Sorrow's Shadow;
+Ominous Scarecrow (Death);
+Avenging Fossil;
+Vengeful Seraph;
+
+| quests =
+The More He Knows;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+Dragonspyre Vanguard's Boots*F2;
+Vanguard's Balanced Boots*F2;
+Vanguard's Deadly Boots*F2;
+Vanguard's Fiery Boots*F2;
+Vanguard's Icy Boots;
+Vanguard's Mythic Boots*F5;
+Vanguard's Shocking Boots;
+Vanguard's Vibrant Boots*F4;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Brain Jar;
+Crab Alley Chaise;
+Fish;
+Ginormous Apple;
+Mystic Pizza;
+Watermelon Slice;
+WC Catacombs Combat Theme;
+WC Catacombs Theme;
+WC Drains Combat Theme;
+
+| cards =
+
+| reagents =
+Alchemical Crystals*F4*WMV;
+Alchemical Extract*F12*WMV;
+Alchemical Salts*F6*WMV;
+Antique Coins;
+Black Pearl;
+Blood Moss*F2*WMV;
+Bronze Gear;
+Cobalt;
+Ectoplasm;
+Nickel;
+Scales;
+Spider Silk;
+Spring;
+Tin;
+
+| spellements =
+Daybreaker*F12*WMV;
+Nightbringer*F2;
+
+| snacks =
+Beast Wellington*F2*WMV;
+Decimatoes;
+Discord Grape Jelly;
+Pizza;
+Rock and Roll Candy;
+Satyr Chow;
+Squash;
+Veggie Juice;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Boom Shroom;
+Bread Fruit Bush;
+Deadly Ninja Fig;
+Evil Magma Peas*CR*F2;
+Face Palm;
+Frozen Fly Trap;
+Red Bell Pepper;
+Snow Apples;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}*

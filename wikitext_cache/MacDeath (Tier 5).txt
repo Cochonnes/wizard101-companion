@@ -1,0 +1,166 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 7,680
+| crecla = Fox
+| crecla2 = Undead
+| school = Death
+| masteries =
+Myth;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+30%;
+
+| incboost =
+25% Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| summons =
+MacDeath Understudy (Tier 5);
+MacLife Understudy (Tier 5);
+MacStorm Understudy (Tier 5);
+
+| world = Housing Instance
+| location = Playhouse
+| subloc1 = Playhouse (Tier 5)
+| descrip =
+MacDeath (Tier 5) is considered a Boss for the purpose of drops.  All drops from this duel are recorded on this page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Speak the name of his play and he appears. Speak the name of his character and he's got better things to do.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Late arrivals may not be seated!"'' - MacDeath will cast {{Link|Spell|Feint (+75%)}}, {{Link|Spell|Curse (+25%)}}, and {{Link|Spell|Hex (+35%)}} on the late Wizard.
+*{{Icon|Minion}} ''"May a choir of understudies sing thee to thy rest"'' - MacDeath will cast a Moon Spell to summon one of the following Minions:  {{Link|Creature|MacDeath Understudy (Tier 5)}}, {{Link|Creature|MacLife Understudy (Tier 5)}}, {{Link|Creature|MacStorm Understudy (Tier 5)}}.
+*{{Icon|Aura}} ''"To be or not to be? To be obviously"'' - Casts a '''-100%''' version of Fortify with a 99 Round timer.
+**{{Icon|Damage}}{{Icon|Steal}} ''"Et tu, Wizard?"'' - Recasts previous Aura to be by 10% lower. Cheat repeats until Boss has a -10% Incoming Aura which expires after 4 Rounds.
+*{{Icon|Global}}{{Icon|Healing}} ''"Out, out brief candle"'' - Boss cheat-casts a '''-75%''' {{Link|Spell|Doom and Gloom}}, if a Wizard casts any Healing Spell.
+*{{Icon|Manipulation}} ''"We few, we happy few, we band of beguileds"'' - Boss will cast Beguile on a Wizard.
+
+| spellnotes =
+*Casts an Aegis-protected Deathblade (+40%).
+
+| casts =
+Fortify;
+Ether Shield (-75%);
+Virulent Plague;
+Deathblade (+40%);
+Feint;
+Beguile;
+Blinding Light (85%);
+Shatter;
+Qismah's Curse;
+Call of Khrulhu;
+Deer Knight (330+300);
+Winged Sorrow;
+Wraith (575);
+Scarecrow;
+Avenging Fossil;
+
+| quests =
+The Play's the Thing;
+
+| gold =
+79 - 387;
+
+| hats =
+
+| robes =
+Dragonrider's Utility Robe (Level 100+)*CR;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Dragonmoon Obelisk;
+Singed Dragon Handbook;
+Snapdragon Flowerbed;
+
+| cards =
+Accurate;
+Blizzard;
+Dr. Von's Monster;
+Evil Snowman;
+Harvest Lord;
+Imp;
+Krokomummy;
+Pigsie*F2;
+Skeletal Dragon;
+Snow Bird;
+Snow Serpent;
+Sunbird;
+
+| reagents =
+Iron;
+Silver;
+
+| spellements =
+
+| snacks =
+Hard Boiled Beetle Eggs;
+Salmon Joy;
+
+| jewels =
+Clear Critical Opal +5;
+Clear Damage Opal +10;
+Polished Health Opal +87;
+Polished Resilient Opal +5%;
+
+| pins =
+
+| pets =
+
+| seeds =
+Sunion*CR;
+
+| mounts =
+Dark Redwing*1;
+
+| spells =
+
+}}

@@ -1,0 +1,142 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 14,460
+| crecla = Mander
+| school = Fire
+| school2 = Death
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+19%;
+
+| outboost =
+105%;
+
+| incboost =
+30% Ice;
+
+| incresist =
+27% Storm, Myth, Life, Death, Balance, Shadow;
+57% Fire;
+
+| outhealing =
+7%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Carrion Beetle;
+
+| world = Krokotopia
+| location = Tomb of the Forgotten (Krokotopia)
+| subloc1 = Chamber of Tethys
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*Two additional Carrion Beetle Minions will appear if more than two Wizards are present.
+
+| speech =
+:''" Khonsu demands vengeance!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+Actually has no kids.
+
+| extract class =
+Mander;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fireblade;
+Balanceblade;
+Death Trap;
+Glacial Golem (Tier 4b);
+Lord of Night;
+Poison;
+Shift Chaney (3 Pip);
+Shift Krokopatra;
+Shift Black Knight;
+
+| quests =
+Are You My Mummy?;
+
+| gold =
+19 - 29;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Selenopolis Blended Grove Theme*F2;
+Selenopolis Combat Theme*F2;
+Selenopolis Field of Reeds Theme;
+Selenopolis Garden Theme;
+Selenopolis Theme;
+Selenopolis Zig Zag Market Com Theme;
+
+| cards =
+Efreet;
+Fireblade;
+Medusa;
+
+| reagents =
+Bone;
+Cobalt;
+Titanium;
+
+| spellements =
+
+| snacks =
+Killer Kumquat;
+Orange Jalapeno;
+PB Cookie;
+Veggie Juice;
+Zen Poppers;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,156 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 6,100
+| crecla = Dog
+| shadowslots = 2
+| school = Balance
+| masteries =
+Storm;
+
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+11%;
+
+| outboost =
+62%;
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+12% Fire, Ice, Storm, Shadow;
+42% Balance;
+
+| outhealing =
+10%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Flames of Doom (Tier 2);
+History of Horrors (Tier 2);
+Malefic Mythology (Tier 2);
+Savage Stories (Tier 2);
+Terrors of the Deep (Tier 2);
+The Woeful Wastes (Tier 2);
+
+| world = Housing Instance
+| location = Forbidden Library Gauntlet
+| subloc1 = Forbidden Library Gauntlet (Tier 2)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"Who are you? Ha! A stooge of the cowardly librarians who fret over forbidden lore. Those fools in their pathetic secret club waste their time cowering from greatness. Unlike the spineless Order of Archival Misfits, I, the greatest Bibliomancer to ever live, will coax the secrets from this so-called Unreadable Book. There is no text of any origin, written or yet undreamt of, that will not bend itself to my will. I will be the first to read the Unreadable Book!"''
+
+| cheatnotes =
+{{Icon|Balance}} '''Bodleian Harrow'''
+*{{Icon|Trap}} ''"I'm turning over a new page!"'' - If a Wizard casts a Trap, Bodleian Harrow will cast a Balance version of {{Link|Spell|Cleanse Ward}} to remove all Traps on him.
+*{{Icon|Round}} ''"I read from the restricted section."'' - At the beginning of every third Round, Bodleian Harrow will cast one of the following:
+**{{Link|Spell|Monk of Mourning (450-530)}}
+**{{Link|Spell|Monster Mash (1,170)}}
+**{{Link|Spell|Shield Wall}}
+**{{Link|Spell|Spirited Minotaur (Life)}}
+**{{Link|Spell|Wrath of Aquila}}
+**A 4-Pip version of Loremaster that deals 390-470 Balance Damage to and applies -20% Damage and -35% Accuracy Charms on target
+**A version of Efreet that deals 895 Fire Damage to and applies a -90% Damage Charm on target
+*{{Icon|Polymorph}} '''Polymorph:''' ''"At last I will read The- wait a minute!"'' - After Bodleian Harrow (Balance) is defeated, he will Polymorph himself into a Shadow version.
+
+{{Icon|Shadow}} '''{{Link|Polymorph|Bodleian Harrow (Tier 2)}}'''
+*{{Icon|Minion}} ''"Knowledge is power!"'' - On the first Round after being Polymorphed, Bodleian Harrow will cast a Shadow Spell that summons two random Minions:
+**{{Link|Creature|Flames of Doom (Tier 2)}}
+**{{Link|Creature|History of Horrors (Tier 2)}}
+**{{Link|Creature|Malefic Mythology (Tier 2)}}
+**{{Link|Creature|Savage Stories (Tier 2)}}
+**{{Link|Creature|Terrors of the Deep (Tier 2)}}
+**{{Link|Creature|The Road to Ruin (Tier 2)}}
+**{{Link|Creature|The Woeful Wastes (Tier 2)}}
+*{{Icon|Trap}} ''"Literacy dies in darkness."'' - If a Wizard casts a Trap, Bodleian Harrow will cast {{Link|Spell|Cleanse Ward (Shadow, -All)}}, and then cast an all enemies version of {{Link|Spell|Shadow Trap}}.
+*{{Icon|Steal}} ''"Reading is a great restorative!"'' - At the end of every fourth Round after summoning Minions, Bodleian Harrow will cast {{Link|Spell|Sacrifice}} on a random Minion, defeating it and healing himself for '''2,000''' Health.
+*{{Icon|Minion}}''"Time for a book recall!"'' - When all of Bodleian Harrow's Minions are defeated, he will resummon more Minions at the beginning of the next Round.
+
+| spellnotes =
+*Casts Hex (1 Pip) on all enemies.
+
+| casts =
+Empowerment;
+Smoke Screen;
+Healing Current;
+Balanceblade;
+Hex (1 Pip);
+Balance of Power;
+Spiritual Tribunal (Tier 3a);
+Sand Wurm;
+Mighty Judgement;
+Power Nova;
+Chimera;
+
+| quests =
+A Little Learning is a Dangerous Thing;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+Illuminated Page Treaders (Level 100+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Books;
+Bookshelf;
+Lectern;
+Pen and Ink;
+Regent's Library Shelf;
+Stone Brazier;
+
+| cards =
+
+| reagents =
+Unreadable Ink @ 3 Unreadable Ink;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Armor Piercer Opal;
+Greensleeves Jade;
+Huge Energy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

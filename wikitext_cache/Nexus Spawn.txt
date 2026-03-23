@@ -1,0 +1,216 @@
+{{Stub|Spells and drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,850
+| crecla = Beastmoon Creature
+| school = Balance
+| startpips = 3
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost = 
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions = 
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Celestia Battlegrounds
+| location2 = Arena
+| subloc2 = Mirage Battlegrounds
+| descrip =
+Nexus Spawn are one of the Boss monsters that can be encountered during the third Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events.  They will have 1 random, Rank 3 Elite, Stage 3 monster and 2 random, Rank 2, Stage 3 monsters present to assist them.
+
+'''Potential Rank 3 Celestia Elite Minions:'''
+*{{Link|Creature|Boiled Crab}}
+*{{Link|Creature|Ice Floe Spriggan}}
+*{{Link|Creature|Scrutinizer}}
+*{{Link|Creature|Thunderous Lagoony}}
+
+'''Potential Rank 2 Celestia Minions:'''
+*{{Link|Creature|Frosty Trawler}}
+*{{Link|Creature|Lightning Squid}}
+*{{Link|Creature|Smoked Flyingfish}}
+*{{Link|Creature|Stasis Eel}}
+
+'''Potential Rank 3 Mirage Elite Minions:'''
+*{{Link|Creature|Carrion Craver}}
+*{{Link|Creature|Scrutinizer}}
+*{{Link|Creature|Silt Elemental}}
+*{{Link|Creature|Trengil Burrower}}
+
+'''Potential Rank 2 Mirage Minions:'''
+*{{Link|Creature|Baboon Goon}}
+*{{Link|Creature|Desert Beetle}}
+*{{Link|Creature|Mongu Gasher}}
+*{{Link|Creature|Stasis Eel}}
+
+| speech =
+
+| spellnotes =
+*Casts a 2-Pip version of Power Conversion that gives the target 1 regular Pip upon casting and grants the target 1 Pip from incoming Spells ranked 2+.
+*Casts a 4-Pip version of Invigorate that lasts for 4 Rounds.
+*Casts a version of Spiked Buckler that applies a +75 Damage Blade and an unprotected 75 Damage Absorb Ward.
+*Casts a 5-Pip version of Phalanx that applies +125 Damage Blades and unprotected 150 Damage Absorb Wards on all allies.
+*Casts a 3-Pip, 200 Balance Damage version of Stunning Swarm.
+
+| casts =
+Power Conversion;
+Invigorate;
+Spiked Buckler;
+Phalanx;
+Stalking Smilodon;
+Stunning Swarm;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 10 - 30 Lunari.
+
+| gold =
+96 - 110;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone*F3;
+Balance Rune*F2*WMV;
+Balance Thread;
+Colossus Idol (Death);
+Colossus Idol (Fire);
+Colossus Idol (Ice);
+Colossus Idol (Storm);
+Cyclops Idol (Balance);
+Cyclops Idol (Ice)*F2*WMV;
+Cyclops Idol (Life);
+Draconian Idol (Balance);
+Draconian Idol (Death)*F2;
+Draconian Idol (Life)*F2;
+Death Rune*F2*WMV;
+Death Thread*F2;
+Eldritch Thread*F3;
+Eldritch Thread @ 2 Eldritch Thread;
+Elemental Moonstone*F8*WMV;
+Elf Idol (Balance);
+Elf Idol (Death);
+Elf Idol (Fire);
+Elf Idol (Ice);
+Enhanced Death Rune;
+Enhanced Fire Rune;
+Enhanced Storm Rune;
+Fairy Idol (Death);
+Fire Moonstone;
+Fire Rune*F3*WMV;
+Fire Thread*F3;
+Harmonious Moonstone*F2*WMV;
+Harmonious Thread*F3;
+Hunter's Moonstone*F7;
+Hunter's Moonstone @ 2 Hunter's Moonstone*F2;
+Ice Moonstone*F2*WMV;
+Ice Rune*F4*WMV;
+Ice Thread*F4*WMV;
+Krokomummy Idol (Storm);
+Life Moonstone;
+Life Thread*F2;
+Minotaur Idol (Balance)*F2;
+Minotaur Idol (Death);
+Minotaur Idol (Fire)*F2;
+Minotaur Idol (Ice);
+Minotaur Idol (Life);
+Minotaur Idol (Storm);
+Myth Moonstone;
+Myth Rune;
+Myth Thread;
+Ninja Pig Idol (Myth);
+Ninja Pig Idol (Storm);
+Rat Thief Idol (Fire);
+Rat Thief Idol (Life);
+Spirit Moonstone*F3;
+Spirit Thread*F4;
+Storm Moonstone*F5*WMV;
+Storm Rune*F4*WMV;
+Storm Thread*F5*WMV;
+Wolf Warrior Idol (Death)*F3;
+Wolf Warrior Idol (Fire);
+Wolf Warrior Idol (Ice);
+
+| spellements =
+Blizzard;
+Crimson Phantom*F2;
+Dream Golem*F3;
+Elemental Golem*F6;
+Ether Golem*F3;
+Golem\: Taunt*F3;
+Heck Hound*F2;
+Humongofrog*F3;
+Iron Curse*F4;
+Judgement*F2;
+Legend Golem*F4;
+Meteor Strike*F5;
+Monster Mash*F2;
+Naphtha Scarab*F3*WMV;
+Obsidian Colossus*F7*WMV;
+Poison*F3;
+Regenerate*F4;
+Sandstorm*F2;
+Sprite Swarm*F3;
+Stormwing*F5*WMV
+Thermic Golem*F4;
+Thieving Dragon;
+Thunderman*F4*WMV;
+Vermin Virtuoso*F2;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Beastmoon Seed*F2;
+
+| mounts =
+
+| spells =
+
+| recipes =
+7 Frostbite Spellements;
+7 Heck Hound Spellements;
+7 Vermin Virtuoso Spellements;
+
+}}

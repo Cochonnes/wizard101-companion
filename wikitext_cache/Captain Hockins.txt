@@ -1,0 +1,172 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 4,480
+| crecla = Rat
+| school = Death
+| masteries =
+Fire;
+
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+20%;
+
+| incboost =
+None;
+
+| incresist =
+85% Life;
+100% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+150% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Witch Doctor;
+
+| petbreed = Burlap Boy
+| world = Zafaria
+| location = Waterfront
+| subloc1 = Waterfront Stone Key Room
+| badge = Hockins' Hex
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:'''Captain Hockins:''' ''"Eh? What's this, then? Well I'll be a Jurbil's uncle. It's a Wizard! Didn't I tell you I was hexed? That some crazy Wizard had it in for me?"''
+:'''[[Creature:Witch Doctor|Witch Doctor Enkeezee]]:''' ''"Um... yes, Captain Hockins. I believe that is what you said."''
+:'''Captain Hockins:''' ''"Exactly. And you said you were going to remove the curse, didn't you? Well, clearly you didn't, and now we're both gonna pay for it."''
+:'''Witch Doctor Enkeezee:''' ''"Wait a minute. That's not fair. I did not have time to remove the curse..."''
+:'''Captain Hockins:''' ''"Oh no, you don't. I brought my spoils as payment. You're not wriggling out of this, Witch Doctor. If I have to defend myself, then so do you..."''
+:'''Witch Doctor Enkeezee:''' ''"Very well then. I've fought Wizards before. This should be easy."''
+
+| cheatnotes =
+'''Captain Hockins'''
+*{{Icon|Charm}} ''"I won't go down easy!"'' - When hit once, Hockins gives the Wizard who attacked a {{Link|Spell|Dragonspear}}.
+**''"Still got a few tricks up my sleeve!"'' - When hit a second time, Hockins gives the Wizard who attacked a  '''+20%''' Dragonspear.
+**''"I'll shake this curse yet!"'' - When hit a third time, Hockins gives the Wizard who attacked a  '''+30%''' Dragonspear.
+***The speech recycles after Hockins is hit for a fourth time, but the Dragonspears continue to gain +10% Armor Piercing with each attack up to +100% maximum.
+***Damage over Time Spells will not trigger the Dragonspear cheats.
+*{{Icon|Minion}}{{Icon|Afterlife}} ''"Uh Oh! That's...not good"'' - Hockins shouts this when the Witch Doctor is defeated.
+'''Witch Doctor'''
+*{{Icon|Global}} ''"Let's keep things under control"'' - At start of the Duel, the Witch Doctor interrupt casts a version of {{Link|Spell|Saga of Heroes}} which lowers a Wizard's critical chance by -75.
+**''"Uh uh uh! We'll have none of that!"'' - If a Wizard casts a Global spell, then the Witch Doctor will replace it with his {{Link|Spell|Saga of Heroes}}.
+*{{Icon|Late}} ''"A curse on the un-punctual!"'' - If a Wizard joins late, then the Witch Doctor will cast {{Link|Spell|Steal Pips (Moon)}} that steals 1 Pip.
+
+| spellnotes =
+*Captain Hockins's Deathblade stacks with Witch Doctor's Deathblade.
+*The Burlap Boy Pet casts the Spell Poison.
+
+| casts =
+Deathblade;
+Feint;
+Choke;
+Natural Attack (Death 110-220-330, 80%);
+Poison;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+
+| quests =
+
+| gold =
+500 - 975;
+
+| hats = 
+Cold At Night Cover*F3*WMV;
+Mask of Mirror Lake;
+Turban of the Olyphants;
+
+| robes =
+Big Sky Outfit*F2*WMV;
+Robes of the Cold Night*F2*WMV;
+Tunic of Long Memory;
+
+| boots =
+Ananse's Dark Rangers*F4*WMV;
+Dancing Queen Dancers*F2*WMV;
+Nemean Rock Climbers*F2;
+
+| athames =
+Great Ape's Tooth*F2;
+Kimba's Fang*F2*WMV;
+The Old Tusk-Tusk-Trunk*F2*WMV;
+
+| amulets =
+Berserker's Rage Pendant*F3*WMV;
+Nganga's Strong Muti Pendant;
+Witch Doctor's Juju Pendant*F2;
+
+| rings =
+Kallah's Dread Stone;
+Mansa's Dream Stone*F2;
+Tanei's Ghost Ring*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Adept's Socket Wrench;
+Clay Teapot*F2*WMV;
+Desert Festive Table*F2*WMV;
+Expert's Socket Wrench*F2;
+Lion Plank Wall Covering*F3*WMV;
+Novice's Socket Wrench;
+Primitive Firepit*F4*WMV;
+Rhino Wall Covering*F3*WMV;
+Sandstone Brick*F3*WMV;
+Savannah Wallpaint*F2*WMV;
+Short Woven Basket*F4*WMV;
+Stone Skeleton Key*CR*F3*WMV;
+Tall Woven Basket*F3*WMV;
+Wooden Skeleton Key*CR;
+Zafarian Hide Rug*F6*WMV;
+
+| cards =
+Banshee;
+Black Cat*F5*WMV;
+Dark Tribute;
+Dragonblade (Balance);
+Dryad*F5*WMV;
+Elemental Blade*F2*WMV;
+Fortify;
+Imp*F3*WMV;
+Minotaur*F2*WMV;
+Sandstorm*F3*WMV;
+Snow Serpent*F3*WMV;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Burlap Boy*F2*WMV;
+
+| seeds =
+
+| mounts =
+Pirate Rowboat*PERM*CR*F6*WMV;
+
+| spells =
+
+}}

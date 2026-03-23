@@ -1,0 +1,384 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 5,675
+| crecla = Zebra
+| crecla2 = Equine 
+| school = Storm
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Shadow-Web Haunt (Zafaria);
+
+| world = Zafaria
+| location = Mirror Lake
+| descrip =
+Tse-Tse Snaketail is one of {{Link|NPC|Morganthe}}'s dark agents, and has been active throughout Zafaria furthering the Shadow Queen's plans.
+*If Tse-Tse Snaketail is defeated before his Minion, he will respawn at the end of the following Round.
+
+| speech =
+:''"I knew you'd come! She said you'd come! She knows you better than you know yourself! It's up to me to stop you so you can't disrupt her ritual. You may have beaten me in our last duel, but she has given me new life! Once you are destroyed, I'll take the path up to the top of Shining Mountain and rejoin my Lady of Shadows!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Zafaria
+| tome description =
+Creepy smile, staff of skulls, name with the word 'snake' in it - he just seemed so trustworthy.
+
+| extract class =
+Equine;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,000
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 125-265-405, 70%);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Tempest;
+
+| quests =
+Wizard in the Mirror;
+
+| gold =
+89 - 155;
+
+| hats =
+Boo Pumpkin Mask*CR*HOL;
+Cold Chieftain's Mask;
+Courageous Grower's Hat;
+Cowl of Thornwood*CR*F2*WMV;
+Cyclops Pumpkin Mask*CR*HOL;
+Elephant Graveyard Shroud;
+Espirit Chapeau*CR;
+Face of Baobab;
+Flameborn Sidhe Cowl*CR*F2*WMV;
+Forlorn Chapeau*CR;
+Frostborn Sidhe Cowl*CR;
+Goofy Pumpkin Mask*CR*HOL;
+Hat of the Old Kings;
+Headdress*CR*HOL;
+Hood of Chieftain's Honor*F2;
+Hood of the Forgotten;
+Hot-Tempered Chieftain's Mask;
+Mantle of the Grasslands;
+Mask of the Great Patapon*F15*WMV;
+Restless Cowl of Oblivion*CR;
+River Captain's Hood;
+Santa Hat*CR*HOL*F2;
+Sidhe Cowl*CR*F5*WMV;
+Sidhe Cowl of Attunement*CR*F4;
+Splendid Chapeau*CR*F2;
+Squamish Cowl of the Sidhe*CR*F2;
+Storyborn Cowl of Mist*CR;
+Turban of the Olyphants*F8*WMV;
+Turkey Hat*CR*HOL;
+Wise Hunter's Helmet;
+
+| robes =
+Baxby's Noble Outfit;
+Big Sky Outfit*F6*WMV;
+Cloak of Conformity;
+Cloak of Dreaming Medicine;
+Darajani Havoc Robes*F2;
+Electrifyin' Tunic*CR;
+Fire Quenching Tunic*CR*F3*WMV;
+Fire Valley Outfit;
+Fire-Feather Robes;
+Graveyard Shift;
+Hunter Prey Jacket;
+Jacket of No Worries;
+Lucas' Tunic of the Wars*CR;
+Robes of the Cold Night;
+Santa Robe*CR*HOL*F2;
+Shaman's Mythic Armor;
+Shaman's Winter Protection;
+Storm Caller's Outfit;
+Tunic of Darajani Honor;
+Tunic of Long Memory*F10*WMV;
+
+| boots =
+Ananse's Dark Rangers;
+Baxby's Noble Trackers;
+Big Sky Striders*F2;
+Boots of Sincerity*CR;
+Dancing Queen Dancers;
+Doctor's Firestorm Walkers;
+Hot and Cold Rangers*F3;
+Hunter Prey Rangers;
+Nemean Rock Climbers*F11*WMV;
+Santa Boots*CR*HOL*F2;
+Shaman's Cold River Wraps*F8*WMV;
+Sidhe Shoes*CR*F2;
+Snowbank Boots*CR;
+Spider's Storied Wraps;
+Stone Town Storm Trackers*F2;
+Vampire Costume Boots*CR*HOL;
+
+| athames =
+Pride's Maul*F6*WMV;
+
+| amulets =
+Star Shard Charm*F5;
+
+| rings =
+Amahle's Striped Band*F2;
+Elissa's Chill Band;
+Inyanga's Baobab Loop*F8*WMV;
+Kallah's Dread Stone;
+Koko's Smoky Circle;
+Mansa's Dream Stone;
+Spider Shadow's Stone;
+Tanei's Ghost Ring*F2*WMV;
+Vir's Zafarite Stone;
+
+| wands =
+Adventurer's Shillelagh*CR*HOL;
+Baton of the Cottontail*CR*HOL*F2;
+Clover of Prosperity*CR*HOL;
+Giggling Gourd Wand*CR*HOL;
+Long-Eared Bunny Wand*CR*HOL;
+Lovestruck Stave*CR*HOL;
+Quagga Blade*F8*WMV;
+Radiant Star Wand*CR*HOL;
+Spellbinder's Scepter*CR*HOL;
+Staff of Corn Utopia*CR*HOL;
+Staff of Gracious Fortune*CR*HOL;
+Staff of Shadow and Light;
+Twilight of the Year Wand*CR*HOL;
+Waltzing Nutcracker Stave*CR*HOL;
+Wand of Fascination*CR*HOL;
+Wand of the Egg Hunter*CR*HOL*F2;
+Wand of the Gingersnapper*CR*HOL*F2;
+Wand of the Nestling*CR*HOL;
+
+| decks =
+Bundle of Eternal Flame*F8*WMV;
+Chieftain's Smiling Deck*F9*WMV;
+Hand-Chased Box of Winter*F6;
+
+| items =
+Blue Holiday Ornament*HOL;
+Carol of the Bells Theme*HOL;
+Color Light Strand*CR*HOL;
+Deck the Halls Theme*HOL;
+Expert's Socket Wrench*F6;
+Gingerbread House*CR*HOL*F2;
+Green Holiday Ornament*HOL;
+Holiday Fireplace*HOL;
+Holiday Wreath*CR*HOL;
+Jingle Bells Theme*HOL;
+Krokopatra Exalted Duel*CR;
+Krokopatra Master Duel*CR;
+Large Snowflake*CR*HOL;
+Meowiarty Archmage Duel*CR*F4*WMV;
+Meowiarty Exalted Duel*CR*F2;
+Milk and Cookies*HOL*F2;
+Mint Swirl*CR*HOL;
+Rattlebones Exalted Duel*CR;
+Rattlebones Master Duel*CR;
+Small Color Light Strand*CR*HOL;
+Snowflake Wrapped Gift*HOL;
+Snowglobe*HOL;
+Snowman Wrapped Gift*CR*HOL;
+Yuletide Lg. Small Fry Aquarium*CR*HOL*F2;
+Yuletide Reg. Keeper Aquarium*CR*HOL;
+Yuletide Reg. Small Fry Aquarium*CR*HOL;
+Yuletide Tall Keeper Aquarium*CR*HOL;
+Yuletide Tall Small Fry Aquarium*CR*HOL*F2;
+Zafaria Combat Theme*F6*WMV;
+Zafaria Main Theme;
+Zafaria Zamunda Theme*F7*WMV;
+Zeus Exalted Duel*CR*F3*WMV;
+
+| cards =
+Empower*F18*WMV;
+Enfeeble (-3)*F7;
+Gargantuan*F22*WMV;
+Infallible*F2*WMV;
+Insane Bolt*F22*WMV;
+Medusa;
+Polymorph Colossus;
+Polymorph Elemental (Storm)*F3;
+Polymorph Treant;
+Ra;
+Skeletal Dragon;
+Stun Block;
+Supercharge*F5*WMV;
+Unstoppable*F18*WMV;
+
+| reagents =
+Brass;
+Bronze*F4;
+Cobalt*F3*WMV;
+Ectoplasm*F11*WMV;
+Leather Straps*F15*WMV;
+Nickel*F4;
+Spider Silk;
+Steel*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F4*WMV;
+Cauliflowers*F4;
+Delicious Cookie*F5*WMV;
+Dr. Jalapeno*F2;
+Flaming Soup;
+Flapjacks*F2;
+Glowing Star Fruit*F6*WMV;
+Glowing Taffy*F3;
+Goat Cheese;
+Golden Apple;
+Golden Grapes*F2*WMV;
+Gummy Humongofrog*F3;
+Jelly Baby*F6;
+King Banana*F4*WMV;
+Kola Nuts*F5*WMV;
+Salmonberry*F4*WMV;
+Shiny Tomato*F2*WMV;
+Spicy Drumstick*F5*WMV;
+Strawberry Cupcake;
+Submarine Sandwich;
+Uni-Corn;
+
+| jewels =
+Accurate Opal*F8;
+Balance-Eye Citrine;
+Balanceblade Talent Citrine;
+Bummer Opal;
+Calculating Opal;
+Cat Bandit Opal;
+Catch Opal;
+Death-Proof Onyx;
+Deplete Opal;
+Dull Piercing Opal +1%;
+Effervescent Opal;
+Energy Opal;
+Fire Dragon Ruby;
+Fire-Away Ruby;
+Frost Giant Sapphire;
+Giant Opal*F6*WMV;
+Halt Leader Opal;
+Huge Energy Opal;
+Ice-Shot Sapphire;
+Life-Eye Jade;
+Mega Hurry Opal;
+Mega-Leech Opal;
+Mega-Upset Opal;
+Myth-Giver Peridot;
+Opaque Accurate Citrine +8%;
+Opaque Accurate Opal +4%;
+Opaque Accurate Ruby +8%;
+Opaque Blocking Citrine +7;
+Opaque Blocking Jade +7;
+Opaque Critical Amethyst +8;
+Opaque Critical Citrine +8;
+Opaque Critical Jade +8;
+Opaque Critical Sapphire +7;
+Opaque Defense Amethyst +33;
+Opaque Defense Onyx +33;
+Opaque Defense Opal +18;
+Opaque Health Opal +67;
+Opaque Health Opal +68;
+Opaque Piercing Amethyst +4%;
+Opaque Piercing Jade +4%;
+Opaque Piercing Onyx +4%;
+Opaque Piercing Peridot +4%;
+Opaque Piercing Ruby +4%;
+Orthrus Peridot;
+Plain Damage Citrine +16;
+Plain Damage Jade +16;
+Plain Defense Onyx +32;
+Plain Defense Ruby +32;
+Plain Defense Sapphire +32;
+Rebirth Jade;
+Scarecrow Onyx;
+Sharp Opal;
+Slick-N-Slide Opal;
+Steadfast Opal;
+Sturdy Opal;
+Super-Lock Opal;
+Ultra Energy Opal;
+Ultra Exhaustion Opal;
+
+| pins =
+
+| pets =
+Cupig*CR*HOL*F2;
+Frostman*CR*HOL*F2;
+Ghost Dragon*CR*HOL;
+Golden Goose*CR*HOL*F2;
+Lovely Ladybug*CR*HOL*F2;
+Lovely Leopard*CR*HOL;
+Lump of Coal*CR*HOL;
+Maple Moose*CR*HOL*F2;
+Nightmare*CR*HOL;
+Nutcracker*CR*HOL*F2;
+Rescue Rover*CR*HOL;
+Snowball*CR*HOL*F2;
+Yuletide Spirit*CR*HOL*F2;
+
+| seeds =
+Baby Carrots*F2;
+Boon Tree*CR*HOL*F2;
+Burning Snap Dragon;
+Cornbread Fruit Bush;
+Evil Snow Peas*F3*WMV;
+Fickle Pickle;
+Helephant Ears*F2;
+Key Limes*CR;
+King Parsley*CR;
+Orange Bell Pepper*CR*F5*WMV;
+Orange Dandelion*F3;
+Red Bell Pepper*F3;
+Snap Dragon;
+Trumpet Vine;
+Venus Fly Trap*F3;
+White Laugh-O-Dil*F2;
+
+| mounts =
+Stormrider Hare*PERM*CR*HOL;
+
+| spells =
+
+}}

@@ -1,0 +1,157 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 960
+| crecla = Cat
+| school = Myth
+| startpips = 1
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Scrounger;
+
+| world = Marleybone
+| location = The Ironworks
+| subloc1 = Sneak's Warehouse
+| descrip =
+Brady the Sneak works for {{Link|Creature|Pops O'Leary}}, and in defeat gives up the secret knock to Pops' lair.
+*Two additional Scrounger Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Think you can get ta Pops through me? Ha, you wish. But I'll introduce you ta someone else first. Prepare to say hello ta my paw, Wizard..."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Death Damage per Pip.
+
+| casts =
+Storm Shield;
+Weakness;
+Black Mantle;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Ghoul;
+Fire Elf;
+Evil Snowman;
+
+| quests =
+Knock on Wood;
+
+| gold =
+31 - 48;
+
+| hats =
+Brady's Hat of Extinction*F2*WMV;
+Brady's Hat of History;
+Brady's Hat of Reverence;
+Brady's Solar Cowl;
+Cap of Symmetry;
+Sneak's Frightful Hat*F2*WMV;
+Sneak's Frosty Headwrap*F2*WMV;
+
+| robes =
+Affable Cloak;
+Brady's Frigid Garment*F2*WMV;
+Brady's Robe of the Cyclops;
+Charming Garment;
+Cloak of Civility;
+Comedian's Robe;
+Distinguished Robe;
+Robe of Paramount;
+Sneak's Robe of Parity*F2*WMV;
+The Sneak's Phobic Robe;
+The Sneak's Puzzling Robes*F2;
+Urbane Robe;
+
+| boots =
+Boots of Fabrication;
+Boots of Heartache;
+Brady's Boots of the Cultured*F3*WMV;
+Brady's Formal Slippers*F2*WMV;
+Brady's Stylish Sandals*F5*WMV;
+Jolting Boots;
+Slippers of Tranquility;
+The Sneak's Noble Shoes*F2*WMV;
+
+| athames =
+Brady's Provincial Kris*F2;
+
+| amulets =
+
+| rings =
+Brady's Conventional Ring;
+Brady's Provincial Ring*F2*WMV;
+
+| wands =
+Brady's Staff of Intensity;
+
+| decks =
+Brady's Deck of the Kraken*F3;
+Brady's Distressed Deck*F3*WMV;
+
+| items =
+Crumpled Newspaper;
+Empty Tin Cans;
+High Statue Base*F2*WMV;
+Short Roof Vent;
+Stack of 3 Books;
+
+| cards =
+Monstrous;
+Sandstorm;
+
+| reagents =
+Bone*F3;
+Copper;
+Iron*F2*WMV;
+Pyrite;
+Spider Silk*F4;
+Tin;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Medium Fish;
+Redskin Peanut;
+Square Watermelon*F2*WMV;
+Stinky Cheese;
+Wheat Cracker*F2*WMV;
+
+| jewels =
+Banshee Onyx;
+Locust Swarm Citrine;
+Sprite Jade;
+Sunbird Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

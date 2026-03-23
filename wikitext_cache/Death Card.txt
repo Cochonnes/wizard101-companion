@@ -1,0 +1,118 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 16,115
+| crecla = 
+| school = Death
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+485 Any;
+
+| criticalblock =
+185 Any;
+
+| outpierce =
+16%;
+
+| outboost =
+111%;
+
+| incboost =
+30% Life;
+
+| incresist =
+36% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+66% Death;
+
+| outhealing =
+11%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Outsiders Camp
+| subloc1 = Zone of Fortune
+| descrip =
+The final Tarot card of the Wizard's reading, the Death Card represents the fate the Wizard is being pulled toward. "it does not have to be an ending; it is simply a change of state."
+
+| speech =
+
+| cheatnotes = 
+*{{Icon|Health}} ''"Embrace Your Truth, Use It."'' - At the beginning of the First Round, the Death Card will cast a Spell that deals 80% of each Wizard's maximum Health, then give each Wizard a copy of {{Link|Spell|Healing Current (The Death Card)}}.
+**{{GivesSpell|Healing Current (The Death Card)|size = x150px}}
+** This spell is not required to be cast in order to defeat The Death Card.
+
+| spellnotes =
+
+| casts =
+Pathogen;
+Infection;
+Doom and Gloom;
+Banshee (Tier 2b);
+Lord of Night (Tier 3a);
+Monster Mash (Tier 3a);
+Death Seraph;
+
+| quests =
+The You You Are;
+The More You Tarot;
+
+| gold =
+2 - 25;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Creepy Bed*CR;
+Creepy Couch*CR*F3;
+Creepy Footstool*CR;
+Darkmoor Vanity;
+Mortal Plains Hay*CR*F2;
+Small Howling Lands Tree;
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Wolfbane Tea;
+
+| jewels =
+
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

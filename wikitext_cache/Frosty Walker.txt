@@ -1,0 +1,193 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 895
+| crecla = Elemental
+| school = Ice
+| startpips = 1
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Fire;
+
+| incresist =
+50% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Malformed Snowball;
+Malformed Snowball;
+
+| world = Wizard City
+| location = Olde Town
+| subloc1 = Telegraph Box (Wizard City)
+| descrip =
+During the [[Basic:Five B.O.X.E.S.|Five B.O.X.E.S. Event]], the Frosty Walker can be found in the Telegraph Box (Wizard City) instance.  Summoned to be [[NPC:Dalia Falmea|Dalia Falmea's]] latest test as a Student of Ice, she is certain that she will be expelled from Ravenwood if she fails.  She desperately needs Wizards' help in defeating this frosty foe.
+
+| speech =
+:''"Professor Greyrose summoned me to challenge you. If you fail to stop me, you'll get an absolute zero on your exam!"''
+
+| spellnotes =
+
+| casts =
+Fire Shield;
+Frost Beetle;
+Snow Serpent;
+Ice Elf (30+210);
+Evil Snowman;
+Coldiron;
+Blood Bat;
+Troll;
+
+| quests =
+The Ordeal;
+
+| gold =
+26 - 88;
+
+| hats =
+Cap of Dread;
+Circlet of Fortune*F4*WMV;
+Circlet of the Fallen*F3*WMV;
+Cloud Cover*F3*WMV;
+Cowl of the Flamesinger*F3*WMV;
+Greenwarden's Brilliant Mask (Level 10+)*CR;
+Greenwarden's Peaceful Mask (Level 10+)*CR;
+Hallowed Hood*F2*WMV;
+Headcloth of the Fray;
+Ice Raider's Hat*F3*WMV;
+Novitiate Hat;
+Snowthorn Hat*F2*WMV;
+
+| robes =
+Coat of Pouring Rain*F2*WMV;
+Drape of the White Squall*F2*WMV;
+Garments of Zeal*F2*WMV;
+Greenwarden's Energetic Shroud (Level 20+)*CR;
+Glacial Longcoat*F6*WMV;
+Igneous Robe*F3*WMV;
+Mystifying Raiment*F2*WMV;
+Novitiate Robe;
+Raiment of the Lifespring*F3*WMV;
+Robe of the Firebloom*F5*WMV;
+Runeweave Clothing;
+Thanatoid Vestment*F2*WMV;
+Tunic of Ataraxia*F2*WMV;
+Vestment of Serenity*F2*WMV;
+Vestment of Yesteryear*F2*WMV;
+
+| boots =
+Boots of Precipitation*F2*WMV;
+Boots of Reflexive Might*F2*WMV;
+Doomstriders*F3*WMV;
+Footgear of the Firehaze*F2*WMV;
+Footguards of the Disciple;
+Greenwarden's Brilliant Boots (Level 10+)*CR;
+Greenwarden's Brilliant Boots (Level 20+)*CR*F2;
+Hibernal Footwraps*F2*WMV;
+Novitiate Boots;
+Slippers of Diligence*F2*WMV;
+Striders of Strife*F2*WMV;
+
+| athames =
+Bodkin of Fury*F4*WMV;
+Iceshadow's Athame;
+
+| amulets =
+
+| rings =
+Ice Raider's Ring*F4*WMV;
+Seal of the Tundra*F4*WMV;
+Stone of Confidence*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Broken Palm Tree;
+Bushy Palm Tree*F2*WMV;
+Coniferous Tree;
+Great Pine Tree;
+Large Evergreen Tree*F6*WMV;
+Large Fir Tree;
+Leaning Palm Tree;
+Medium Evergreen Tree;
+Medium Fir Tree*F2*WMV;
+Medium Pine Tree;
+Small Evergreen Tree*F2*WMV;
+Small Fir Tree*F3*WMV;
+
+| cards =
+Clockwork Spider*F12*WMV;
+Coldiron*F12*WMV;
+Fire Elf*F2*WMV;
+Guiding Light*F2*WMV;
+Lightning Bats;
+Pixie*F3*WMV;
+Snow Serpent*F3*WMV;
+Sprite*F2*WMV;
+Time of Legend;
+Troll;
+
+| reagents =
+Copper*F4*WMV;
+Iron*F2*WMV;
+Nickel*F3*WMV;
+Pyrite*F2;
+Sonic Spring*F7*WMV;
+
+| spellements =
+
+| snacks =
+Meat Soup*F9*WMV;
+Moon Pie*F7*WMV;
+Tasty Biscuit*F10*WMV;
+
+| jewels =
+Balance-Eye Citrine;
+Blood Bat Peridot;
+Chipped Mana Opal +11;
+Cracked Defense Citrine +11;
+Cracked Defense Citrine +12;
+Cracked Defense Jade +12;
+Cracked Defense Opal +4*F2*WMV;
+Cracked Defense Peridot +12;
+Dawdle Opal;
+Fire Cat Ruby;
+Frost Beetle Sapphire;
+Gold Miner Opal;
+Myth-Away Peridot;
+Quick-Witted Opal;
+Scarab Citrine*F2*WMV;
+Stall Opal;
+Thunder Snake Amethyst;
+Wisp Bonus Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Boom Shroom*F3*WMV;
+Couch Potatoes*CR*F4*WMV;
+Desparagus (Seed)*F4*WMV;
+Honey Sickle*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

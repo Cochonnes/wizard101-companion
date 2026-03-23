@@ -1,0 +1,122 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 19,135
+| crecla = 
+| school = Life
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| scholpips =
+Life;
+
+| critical =
+456 Any;
+
+| criticalblock =
+191 Any;
+
+| outpierce =
+14%;
+
+| outboost =
+99%;
+
+| incboost =
+30% Death;
+
+| incresist =
+33% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+63% Life;
+
+| outhealing =
+11%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Enthralled Villager (Balance);
+Enthralled Villager (Life);
+Enthralled Villager (Storm);
+
+| world = Darkmoor
+| location = Mortal Plain
+| subloc1 = Whispering Woods
+| descrip =
+*The strategy to defeat Mayor McCreary is to first defeat his minions, then defeat him '''within two rounds'''.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Minion}} ''"My people won't let me fall!"'' - At the beginning of Round 1, Mayor McCreary will cast a Sun spell to summon {{Link|Creature|Enthralled Villager (Balance)}}, {{Link|Creature|Enthralled Villager (Life)}}, and {{Link|Creature|Enthralled Villager (Storm)}} and will cast an Invulnerability Aura lasting indefinitely.
+** The aura can be replaced with negative auras like {{Link|Spell|Attenuate}} without penalty, but the Invulnerability effect will not be removed.
+*{{Icon|Aura}} ''"You think I was their only enabler?"'' - At the beginning of the Round after all Enthralled Villager minions are defeated, Mayor McCreary will cast {{Link|Spell|Frenzy}}, replacing his Invulnerability Aura. If Mayor McCreary is not defeated within three Rounds of his {{Link|Spell|Frenzy}} cast (including the round he casts it), he will re-summon his minions and Invulnerability Aura.
+
+| spellnotes =
+
+| casts =
+Pigsie;
+Lifeblade (+40%);
+Circle of Thorns;
+Luminous Weaver (Tier 2b);
+Centaur (Tier 2b);
+Primal Oni;
+
+| quests =
+These Mobs Are Revolting;
+Mayoral Dejection;
+
+| gold =
+6 - 32;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Creepy Bed;
+Darkmoor Vanity;
+Darkmoor Wagon;
+
+| cards =
+Woolly Mammoth;
+
+| reagents =
+Amber Dust;
+Draconium;
+Titanium;
+
+| spellements =
+
+| snacks =
+Shepherd's Crook Pie;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

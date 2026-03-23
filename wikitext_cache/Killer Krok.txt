@@ -1,0 +1,174 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 11,705
+| crecla = Krokotopian
+| school = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+96 Any;
+
+| criticalblock =
+87 Any;
+
+| outpierce =
+5%;
+
+| outboost =
+75%;
+
+| incboost =
+10% Life;
+
+| incresist =
+50% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Empyrea
+| location = Zanadu
+| subloc1 = Palace
+| descrip =
+
+| speech =
+:'''Killer Krok:''' ''"Why are you being so difficult? Medulla comes to help. We know you learned something from those Manuscripts. Was it about Mellori?"''
+:'''{{Link|NPC|Bat}}:''' ''"Just superstitious nonsense. They weren't helpful. Like you Cabalists. Just a waste of my time.
+:'''Killer Krok:''' ''"You're the one wasting time, Bat. We can help you expedite things. Just tell me... where is the Raven-Child?"''
+:'''Bat:''' ''"Behind you."''
+:'''Killer Krok:''' ''"That's not... wait! *Cough Cough* AHHHH! At least I can bring Medulla the head of the interfering Wizard!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tick-tock, Tick-tock, says the Krok"'' - If a Wizard joins the battle after the first Round, Killer Krok will cast {{Link|Spell|Bad Juju}} on the late Wizard.
+*{{Icon|Trap}}{{Icon|Curse}} ''"That won't even chip my scales"'' - If a Trap or Harmful Charm is placed on Killer Krok, he will cast '''Sacrifice (Death)'''.
+*{{Icon|Shadow}} ''"Now you'll see why they call me Killer Krok"'' - He will cast '''Dark Fiend'''.
+*{{Icon|Manipulation}} ''"*Growls*"'' - After Killer Krok casts Bad Juju, he will follow up with {{Link|Spell|Sacrifice (Death)}}.
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Brace;
+Death Shield (-85%);
+Tower Shield (-55%);
+Virulent Plague;
+Bad Juju;
+Mass Feint (+75%);
+Natural Attack (Death 110-220-330, 80%);
+Deer Knight;
+Headless Horseman;
+Ominous Scarecrow (Death);
+Skeletal Dragon (225+910);
+Avenging Fossil;
+
+| quests =
+Such a Krok;
+The Return of the King;
+
+| gold =
+74 - 130;
+
+| hats =
+Interstellar Navigator Helm;
+
+| robes =
+Interstellar Engineer Suit;
+
+| boots =
+Interstellar Engineer Trekkers;
+
+| athames =
+
+| amulets =
+Interstellar Hero's Charm;
+
+| rings =
+
+| wands =
+
+| decks =
+Interstellar Engineer's Deck;
+Interstellar Explorer's Deck;
+Interstellar Medic's Deck;
+Interstellar Navigator's Deck;
+
+| items =
+Empyrea Athanor Combat Theme;
+Empyrea Finale Combat Theme*F2*WMV;
+Empyrea Flotsam Combat Theme;
+Empyrea Inner Athanor Theme;
+
+| cards =
+Balefrost;
+Darkwind;
+Mass Triage;
+
+| reagents =
+Ancient Scroll;
+Antique Coins;
+Black Pearl;
+Blood Moss*F4*WMV;
+Brass;
+Bronze Gear*F2;
+Cobalt*F4*WMV;
+Ectoplasm*F2*WMV;
+Nickel;
+Scales;
+Spider Silk*F2;
+Tin*F4*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington;
+Discord Grape Jelly;
+Eye Candy;
+Hot Cross Buns;
+Rock and Roll Candy*F3*WMV;
+Satyr Chow;
+
+| jewels =
+Balance-Eye Citrine;
+Ice Striker Sapphire;
+Ice-Away Sapphire;
+Lustrous Accurate Amethyst +11%;
+Lustrous Accurate Peridot +11%;
+Lustrous Critical Ruby +13;
+Lustrous Damage Onyx +23;
+Lustrous Damage Peridot +23;
+Medic Opal;
+Storm Striker Amethyst;
+Storm-Boon Amethyst;
+Unbalancer Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Baby Carrots;
+Bell Pepper;
+Boiled Peanuts;
+Bread Fruit Bush*F3*WMV;
+Cornbread Fruit Bush*F2;
+Couch Potatoes*CR;
+Frozen Fly Trap;
+Laugh-O-Dil;
+Red Huckleberries;
+Rye Bread Fruit Bush;
+
+| mounts =
+
+| spells =
+
+}}

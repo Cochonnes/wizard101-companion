@@ -1,0 +1,256 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 3,840
+| crecla = Wizard
+| school = Storm
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Kyanite Crystalmancer;
+
+| world = Dragonspyre
+| location = The Crystal Grove
+| subloc1 = Emberlight's Tower
+| descrip =
+*Two additional Kyanite Crystalmancers will appear if more than two Wizards are present.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Death Damage per Pip.
+
+| casts =
+Myth Shield;
+Sprite;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Shark;
+Kraken;
+Stormzilla;
+Tempest;
+Vampire;
+Heck Hound;
+
+| quests =
+Whistle-Stop Tour;
+
+| gold =
+96 - 187;
+
+| hats =
+Bonfire Headdress;
+Cap of Chronicles;
+Cap of Constitution;
+Cowl of Blazes*F4*WMV;
+Cowl of Morbidity;
+Equalizer's Coif;
+Halcyon Hood;
+Headdress of Refutation*F3*WMV;
+Hood of the Historian;
+Ivy-Wrapped Cap;
+Mantle of Fortitude*F3*WMV;
+Mantle of the Icicle;
+Mythical Mantle;
+Promethean Hood;
+Shroud of the Equinox;
+Triton's Topper;
+Veil of Leaves;
+Veil of Passage;
+Veil of Sleet;
+
+| robes =
+Blizzard Cloak;
+Cloak of the Seasons*F3*WMV;
+Coat of the Cryptid*F2*WMV;
+Coat of the Zephyr*F2*WMV;
+Crow's Wrap*F2;
+Drape of Symmetry*F2*WMV;
+Fiery Tunic;
+Shibboleth Smock;
+Storm Giant's Surcoat;
+Terminus Wrap;
+Tunic of the Sphinx;
+Verdant Vestment;
+
+| boots =
+Ashen Footwraps;
+Boots of Equivalence;
+Boots of the Bountiful;
+Earthrangers;
+Footgear of the North Wind;
+Footgear of the Tempest*F2*WMV;
+Frost Giant's Boots;
+Legend Walkers*F2*WMV;
+Rainstorm Waders;
+Salamander-Hide Shoes;
+Sandals of Lost Aeons;
+Sandals of Neutrality;
+Sandals of the Squall;
+Shoes of Gloom*F4*WMV;
+Shoes of the Whispering Dark;
+Slippers of the Glacier*F3;
+Slippers of the Ice Flow*F4*WMV;
+
+| athames =
+Athame of Awakening*F2;
+Dauntless Dirk;
+Dragonblood Dirk;
+Soothing Steel*F2*WMV;
+
+| amulets =
+
+| rings =
+Band of the Hearth;
+Ring of Dominance;
+Ring of the Forefathers;
+Signet of the Reaper*F2;
+Tiny Bauble;
+
+| wands =
+Grimcaster's Blade of Severity;
+
+| decks =
+Grimcaster's Doomfaring Deck*F2*WMV;
+
+| items =
+Arboreal Obelisk;
+Great Spiral Glyph*F3*WMV;
+Short Corner Wall Ruins;
+Short Pillar*F2;
+Small Corner Wall Ruins;
+
+| cards =
+Brimstone Revenant*F2;
+Pest Zapper;
+
+| reagents =
+Brass;
+Cobalt;
+Copper;
+Lead;
+Leather Straps*F6*WMV;
+Nickel;
+Tin;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F2*WMV;
+Goat Cheese*F2*WMV;
+Golden Grapes;
+Gummy Humongofrog;
+King Banana*F2*WMV;
+
+| jewels =
+Adroit Opal;
+Attentive Opal;
+Blemished Damage Citrine +12;
+Blemished Damage Peridot +12;
+Blemished Damage Ruby +12;
+Blemished Defense Amethyst +24;
+Blemished Defense Peridot +24;
+Blemished Defense Sapphire +24;
+Catch Opal;
+Colossus Sapphire;
+Dependable Opal;
+Dull Accurate Amethyst +6%;
+Dull Blocking Amethyst +3;
+Dull Blocking Amethyst +4;
+Dull Blocking Citrine +3;
+Dull Blocking Citrine +4;
+Dull Blocking Jade +3;
+Dull Blocking Jade +4;
+Dull Blocking Onyx +3;
+Dull Blocking Onyx +4;
+Dull Blocking Opal +2;
+Dull Blocking Peridot +3;
+Dull Blocking Peridot +4;
+Dull Blocking Ruby +3;
+Dull Blocking Ruby +4;
+Dull Blocking Sapphire +4;
+Dull Critical Citrine +4;
+Dull Critical Jade +4;
+Dull Critical Onyx +4;
+Dull Critical Opal +1;
+Dull Damage Amethyst +13;
+Dull Damage Citrine +13;
+Dull Damage Jade +13;
+Dull Damage Onyx +13;
+Dull Damage Peridot +13;
+Dull Damage Ruby +13;
+Dull Damage Sapphire +13;
+Dull Defense Opal +13;
+Dull Defense Opal +14;
+Dull Health Opal +48;
+Dull Piercing Amethyst +2%;
+Dull Piercing Jade +2%;
+Dull Piercing Ruby +2%;
+Earthquake Peridot;
+Eat My Dirt Opal;
+Effervescent Opal;
+Fire-Eye Ruby;
+Forceful Opal;
+Healer Opal;
+Healthy Opal;
+Helephant Ruby;
+Hydra Citrine;
+Ice-Shot Sapphire;
+Life-Boon Jade;
+Life-Eye Jade;
+Life-Giver Jade;
+Myth-Away Peridot;
+Myth-Boon Peridot;
+Rugged Opal;
+Sanctuary Jade;
+Stop Leader Opal;
+Storm-Boon Amethyst;
+Storm-Eye Amethyst;
+Storm-Giver Amethyst;
+Storm-Proof Amethyst;
+Stormzilla Amethyst;
+Stupefy Opal;
+Super-Lock Opal;
+Ultra Hurry Opal;
+Unbreakable Opal;
+Wipeout Opal;
+Wise Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F3;
+Fiery Boom Shroom*F2;
+King Parsley*CR*F2*WMV;
+Maelstrom Snap Dragon*F3*WMV;
+Pink Dandelion*CR*F4*WMV;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

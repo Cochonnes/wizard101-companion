@@ -1,0 +1,158 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 2,785
+| crecla = Wolverine
+| school = Storm
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth;
+
+| incresist =
+35% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Jungle Wildclaw;
+
+| world = Celestia
+| location = The Floating Land
+| subloc1 = Wildcrag's Hideout
+| descrip =
+Wizards confront {{Link|Creature|Bristleclaw}} and Wildcrag in order to pacify the wild Jungletooth of The Floating Land.
+*Two additional Jungle Wildclaw Minions appear if more than two Wizards are present.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Stormblade;
+Storm Trap;
+Darkwind;
+Lightning Bats;
+Kraken;
+Stormzilla;
+Tempest (6 Pip);
+Triton;
+Tempest;
+Natural Attack (Storm 125x, 70%);
+
+| quests =
+Claw of the Jungle;
+
+| gold =
+50 - 65;
+
+| hats =
+Frostbit Mantle;
+Fuming Hat*F2;
+Thundercracked Cover;
+Tinder Topper*F2;
+Turbulent Topper;
+Wildcrag's Typhoon Helm*F8*WMV;
+Wintertide Topper*F3*WMV;
+
+| robes =
+Armor of Celestian Totality*F3;
+Congruent Costume*F4;
+Icestar Outfit*F3*WMV;
+Rain Dance Raiment;
+Vital Vestment;
+
+| boots =
+Attuned Footguards*F6*WMV;
+Corrupt Deathstriders;
+Curious Clogs;
+Forsaken Footguards*F5;
+Medley Mukluks;
+Mystifying Footgear*F2*WMV;
+Runners of Resolution*F2;
+Wraps of Rapport;
+
+| athames =
+Blistering Bodkin*F3*WMV;
+Dagger of Redemption;
+Examiner's Shortblade*F2*WMV;
+
+| amulets =
+
+| rings =
+Echo Ring*F7*WMV;
+Piscean Ring*F2;
+Survivor's Signet*F4*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Stellar Protector Statue*F7*WMV;
+
+| cards =
+Dryad;
+Fortify;
+Humongofrog;
+Ice Trap;
+Keen Eyes*F2;
+Monstrous*F5*WMV;
+Sprite;
+Storm Shark;
+Vengeance*F6*WMV;
+
+| reagents =
+Brass*F2;
+Bronze*F3;
+Cobalt*F2;
+Nickel*F2;
+Steel;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F4*WMV;
+Delicious Cookie*F4;
+Glowing Taffy*F2;
+Spicy Drumstick*F2*WMV;
+Strawberry Cupcake*F2*WMV;
+Submarine Sandwich*F2;
+
+| jewels =
+Draconian Opal;
+Dull Critical Amethyst +3;
+Forceful Opal;
+Mass Fire Prism Ruby*F2;
+Mass Life Prism Jade;
+Plain Blocking Peridot +6;
+Unbreakable Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F4*WMV;
+Silver Trumpet Vine*CR;
+
+| mounts =
+
+| spells =
+
+}}

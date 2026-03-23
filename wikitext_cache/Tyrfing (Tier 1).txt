@@ -1,0 +1,219 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 2,000
+| crecla = Grendel
+| school = Myth
+| cheats = Yes
+| startpips = 
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+15% Storm, Life;
+
+| incresist =
+20% Death;
+40% Myth
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Grendel Cracknail (Tier 1);
+Grendel Ransacker (Tier 1);
+Grendel Scavenger (Tier 1);
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 1)
+| descrip =
+
+| speech =
+:''"Has the weak-kneed Jarl sent you here, into the bowels of the earth?  I have turned the thane's longhall into a house of hatred!  Taste sorrow and shame!  Long will be the season of your suffering!"''
+
+| cheatnotes =
+*{{Icon|Damage}} The boss cheat casts a {{Link|Spell|Humongofrog}} spell when the {{Link|Creature|Grendel Ransacker (Tier 1)}} is defeated at the beginning of the next round.
+*{{Icon|Stun}} The boss cheat casts a {{Link|Spell|Blinding Light}} after the {{Link|Creature|Grendel Cracknail (Tier 1)}} or {{Link|Creature|Grendel Scavenger (Tier 1)}} is defeated at the beginning of the next round.
+**Boss will also casts these cheats if he does not begin a battle with these minions.
+**All cheat-spells will be casted at the same time if all minions are defeated on one round.
+**If Boss starts out with no minions, all cheat-spells will be casted at the same time on first Round.
+
+{{Icon|Minion}} '''Minion Cheat Cycle''' (Resets every 3{{Icon|Round}})
+*{{Icon|Shield}} His [[Creature:Grendel Ransacker (Tier 1)|Grendel Ransacker]] Minion casts a {{Link|Spell|Tower Shield (Sun -55%)}}, starting on Round 1.
+*{{Icon|Blade}} His [[Creature:Grendel Cracknail (Tier 1)|Grendel Cracknail]] Minion casts a {{Link|TreasureCard|Dragonblade (Sun +30%)}}, starting on Round 2.
+*{{Icon|Healing}} His [[Creature:Grendel Scavenger (Tier 1)|Grendel Scavenger]] Minion casts a {{Link|Spell|Sprite (50+250)}}, starting on Round 3.
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Myth Trap;
+Stun;
+Blinding Light;
+Yellow Troll;
+Troll;
+Keeper of the Flame;
+Cyclops;
+Humongofrog;
+Natural Attack (Myth 140-1835);
+Ghoul;
+
+| quests =
+Hall of the Bear;
+
+| gold =
+80 - 126;
+
+| hats =
+Raven Helm of Unkindness (Level 10+)*CR;
+Thought and Memory Helm  (Level 10+)*CR;
+
+| robes =
+Ravenking's Battle Story Armor (Any Level)*CR;
+Ravenking's Battle Story Armor (Level 10+)*CR;
+
+| boots =
+Boots of Whispered Flight (Level 10+)*CR;
+Unkind Winter Boots (Level 10+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Great Axe of the Storyteller (Level 10+)*CR;
+Winter's Whispering Axe (Level 10+)*CR;
+
+| decks =
+
+| items =
+Bloodvine Shield;
+Decorative Basket;
+Fish Pot;
+Hanging Lantern (Winterbane Hall);
+Hatchet*F2*WMV;
+Lantern Post;
+Log;
+Minor Runestone*F2;
+Pitchfork;
+Rough Wooden Shelf;
+Small Wheelbarrow*F2;
+Standing Sconce;
+Tree Lantern;
+Trowel;
+Weapons Cache;
+Wood-Carven Stool;
+Wooden Barrow*F2;
+Wooden Mallet;
+Wooden Trough;
+Wooden Urn;
+Wooden Wagon (Grizzleheim);
+Wooden Wheelbarrow*F2*WMV;
+Work Hammer;
+
+| cards =
+Blizzard;
+Blue Phoenix;
+Colossus;
+Crow;
+Evil Snowman*F2;
+Freeze;
+Frost Beetle*F2;
+Frost Giant;
+Frostbite;
+Harvest Lord*F2*WMV;
+Ice Wyvern;
+Icebird;
+Orthrus*F2;
+Ra;
+Rebirth;
+Regenerate*F2*WMV;
+Satyr;
+Skeletal Dragon*F2;
+Snow Angel;
+Snow Bird;
+Snow Serpent;
+Storm Bird;
+Sunbird;
+Thunderbird (515-595);
+Woolly Mammoth;
+
+| reagents =
+Acorn;
+Blood Moss;
+Deep Mushroom;
+Fossil;
+Frost Flower;
+Grendelweed;
+Mist Wood*F2*WMV;
+Nightshade;
+Ore*F2*WMV;
+Red Mandrake;
+Sandstone;
+Spider Silk;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Bad Honeyed Dates;
+Black Sun Seeds;
+Bunch of Figs;
+Caramel Corn;
+Cranberry Frog;
+Drumstick;
+Fried Worms*F2*WMV;
+Frosty Sugar Cubes;
+Frozen Snails;
+Fuzzy Peach Fizz*F2;
+Hard Boiled Beetle Eggs;
+Lemon Daisy;
+Lime Peel Rickey;
+Peppercorn;
+Pickled Garlic Grubs;
+Pollen Bombs*F2*WMV;
+Salmon Joy*F2*WMV;
+Salmonberry*F2;
+Simple Sugar Pop;
+Spicy Drumstick;
+Sunflower Hearts;
+Sweet Mango;
+Tiny Fish;
+Wheat Cracker;
+Wormy Apple;
+
+| jewels =
+Cracked Mana Opal +4;
+
+| pins =
+
+| pets =
+Frost Beetle;
+Icebat;
+
+| seeds =
+Evil Snow Peas*F2;
+Frozen Fly Trap;
+Moon Flower;
+Snow Apples;
+White Desparagus*F2;
+White Laugh-O-Dil;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,200 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,070
+| crecla = Goliath
+| crecla2 = Insect
+| school = Ice
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Black Tusk Cultist;
+Black Tusk Cultist;
+Black Tusk Cultist;
+
+| world = Zafaria
+| location = Waterfront
+| subloc1 = Black Palace
+| descrip =
+
+| speech =
+:'''[[NPC:Rasik Pridefall|Councilor Rasik Pridefall]]:''' ''"Wizard! You've found naught but your death! My little pet will see to you while we make our escape."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Zafaria
+| tome description =
+Rasik Pridefall's personal pet and bodyguard.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Ice Damage.
+
+| casts =
+Tower Shield;
+Iceblade;
+Ice Trap;
+Ice Prism;
+Freeze;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Frostbite;
+Icezilla (650-730);
+Colossus;
+Frost Giant;
+Tundra Lord;
+
+| quests  =
+The Black Palace;
+ 
+| gold =
+157 - 193;
+
+| hats =
+Blackback Safari Brim;
+Elephant Graveyard Shroud*F3*WMV;
+Fire Valley Headdress;
+Hood of the Grasslands;
+Hood of the Hepheloomp;
+Hot-Tempered Chieftain's Mask;
+Mask of Mirror Lake*F3*WMV;
+
+| robes =
+Baxby's Noble Outfit;
+Cloak of Dreaming Medicine*F2;
+Darajani Havoc Robes;
+Jacket of No Worries*F3*WMV;
+Shaman's Storm Sky Cloak;
+
+| boots =
+Baxby's Noble Trackers;
+Big Five Trackers;
+Charging Bull's Footguards*F3;
+Fire Lion's Storm Wraps*F3*WMV;
+Life's Circle Safari Boots*F3*WMV;
+
+| athames =
+Herd's Stampede*F3*WMV;
+
+| amulets =
+Spider's Shadow Amulet*F2*WMV;
+
+| rings =
+Aryanah's Golden Loop;
+Hannibal's Bronze Ring;
+Kakenya's Broken Band*F2;
+Kallah's Dread Stone*F2*WMV;
+Mago's River Stone*F2;
+Mandisa's Star Stone;
+Tanei's Ghost Ring;
+
+| wands =
+Staff of Shadow and Light*F3*WMV;
+
+| decks =
+Hand-Chased Box of Destiny;
+Hand-Chased Box of Thunder*F3*WMV;
+Hand-Chased Box of Winter;
+
+| items =
+
+| cards =
+Empower*F2*WMV;
+Frozen Armor*F7*WMV;
+Gargantuan*F5*WMV;
+Legion Shield*F2*WMV;
+Precision*F2*WMV;
+Sniper*F2*WMV;
+Unstoppable*F3*WMV;
+
+| reagents =
+Brass;
+Cobalt;
+Nickel;
+Spider Silk*F5*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Cornbread Fruit;
+Delicious Cookie*F2;
+Dr. Jalapeno;
+Flaming Soup;
+Glowing Taffy*F3*WMV;
+Golden Apple;
+Golden Grapes*F3*WMV;
+Gummy Humongofrog*F2*WMV;
+Jelly Baby*F3*WMV;
+King Banana*F3*WMV;
+Kola Nuts*F3;
+Salmonberry;
+Shiny Tomato;
+Spicy Drumstick*F3*WMV;
+Strawberry Cupcake*F2*WMV;
+Submarine Sandwich*F2*WMV;
+Uni-Corn;
+
+| jewels =
+Opaque Blocking Ruby +7;
+Opaque Critical Amethyst +8;
+Opaque Resilient Opal +4%;
+Plain Critical Amethyst +5;
+Plain Defense Onyx +31;
+Plain Mana Opal +28;
+Plain Piercing Amethyst +3%;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots*F2;
+Cornbread Fruit Bush;
+Evil Snow Peas;
+Key Limes*CR;
+Orange Bell Pepper*CR;
+Snap Dragon*F3*WMV;
+Venus Fly Trap*F2*WMV;
+White Laugh-O-Dil*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

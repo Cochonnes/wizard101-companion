@@ -1,0 +1,180 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 11,880
+| crecla = Dino
+| crecla2 = Undead
+| crecla3 = Parasaur
+| school = Life
+| masteries =
+Myth;
+
+| startpips = 5
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Moon Skull Zombie;
+
+| world = Azteca
+| location = Cenote
+| subloc1 = Motecuma's Mine
+| descrip =
+
+| speech =
+:''"I will smash you on the rocks below!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+You could say they are masked by death.
+
+| extract class =
+Dinos;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Mend;
+Guiding Light;
+Regenerate;
+Rebirth;
+Lifeblade (+45%);
+Spirit Blade;
+Natural Attack (Life 130-260-390);
+Bronze Helephant;
+Forest Lord (715-775);
+Keeper of the Flame;
+Legendary Treant (445);
+
+| quests =
+
+| gold =
+104 - 124;
+
+| hats =
+Dawn Hour Mantle;
+Elite Jura Guard Helm*F3;
+Indigo Wing Crown;
+Thirteen Death Mask;
+Tree of Secrets Chac Mask;
+Twisted Fang Mask*F2;
+
+| robes =
+
+| boots =
+Black Tears of Night Wraps;
+Elite Jura Guard Stalkers*F3;
+Five Fangs of Fury Boots;
+Heart of Sky Boots;
+Indigo Wing Striders*F2;
+Twisted Fang Boots;
+
+| athames =
+Cut Rock Dagger;
+Sky Flower Sliver*F2;
+
+| amulets =
+Laughing Chac's Talisman*F2;
+Snake Ink Fang;
+
+| rings =
+
+| wands =
+
+| decks =
+Calendar of the Spiral King*F3;
+Deck of the Jaguar Spirit;
+King's Royal Portraits;
+Lords of Night Pyramid Deck;
+
+| items =
+Azteca Main Theme;
+
+| cards =
+Forest Lord;
+Fortify;
+
+| reagents =
+Black Lotus*F2;
+Black Pearl*F2;
+Blood Moss;
+Bone*F4;
+Brass;
+Bronze;
+Bronze Gear*F2;
+Cobalt*F2;
+Deep Mushroom*F3;
+Fire Blossom*F3;
+Fossil*F2;
+Golden Pearl;
+Lava Lily;
+Mist Wood*F3;
+Ore;
+Red Mandrake*F5;
+Stone Block;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Cactus Fruit;
+Kola Nuts*F2;
+Maize;
+Pyramints;
+Rex Tea;
+Tamales;
+Treant Bark;
+Yucca;
+
+| jewels =
+Balance-Boon Citrine;
+Clear Defense Onyx +40;
+Clear Defense Sapphire +38;
+Clear PIP Opal +8%;
+Polished Blocking Onyx +11;
+
+| pins =
+
+| pets =
+
+| seeds =
+Pink Huckleberries;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

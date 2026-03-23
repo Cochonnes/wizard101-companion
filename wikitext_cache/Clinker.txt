@@ -1,0 +1,93 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 800
+| crecla = Spider
+| school = Myth
+| startpips = 1
+| powerpips = 
+| incboost =
+
+| incresist =
+
+| stunable = Yes
+| beguilable = Yes
+| minion = 
+| world = Marleybone
+| location = Chelsea Court
+| subloc1 = Criminal Hideout
+| descrip =
+Clinker is a Minion to {{Link|Creature|Mr. Incinerator}}.  All drops should be recorded on that page.
+
+| monstrology =
+{{Monstrology Info
+| tome world = Marleybone
+| tome description =
+Sometimes, amidst all the clink-clink-clink, if you listen very carefully, you'll hear "HOGAN!"
+
+| extract class =
+Golem;
+Spider;
+
+| summon animus = 
+| summon gold = 
+| guest animus = 
+| guest gold = 
+| expel animus = 
+| expel gold = 
+| retired = Yes
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 125 Storm Damage per Pip
+
+| casts =
+Storm Shield;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Fire Elf;
+Storm Shark;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

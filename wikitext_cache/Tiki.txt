@@ -1,0 +1,247 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 6,720
+| crecla = Mongu
+| school = Life
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+3%;
+
+| outboost =
+45%;
+
+| incboost =
+15% Death;
+
+| incresist =
+30% Life;
+
+| stunable = Yes
+| beguilable = Yes
+| minion = Ricky
+| minion2 = 
+| world = Mirage
+| location = Rubal Wastes
+| subloc1 = Mongu Refuge
+| descrip =
+Tiki is one of three Mongu warrior brothers encountered in the Rubal Wastes - the others being Ricky and {{Link|Creature|Taffy}}. Tiki is the middle brother.
+
+| speech =
+:''"Yes, little brother. I see what you are saying. I welcome this challenge. It is an excellent opportunity for me to teach you some new tactics. Come at us, Wizard. We are always eager to test our skills, particularly against a foe we have never faced."''
+
+| cheatnotes =
+'''Tiki'''
+*{{Icon|Late}} ''"You should be ashamed!"'' - If a Wizard joins the duel after it has already begun, Tiki will cast {{Link|Spell|Guiding Light}} on his teammate(s) and an {{Link|Spell|Aegis}} version of {{Link|Spell|Spirit Armor}} on a random ally.
+*{{Icon|Damage over Time}} ''"Let's spice things up!"'' - If a DoT is cast on anyone in the duel, he will cast {{Link|Spell|Lifeblade}}, remove the DoT, and heal with Sprite Swarm (2 Pip).
+:*Pet spells will trigger this cheat.
+
+'''Ricky'''
+*{{Icon|Late}} ''"Cheater!"'' - If a Wizard joins the duel after it has already begun, then Ricky will triple-cast {{Link|Spell|Healing Current}} on himself, healing 100, 400, then 1,000 Health.
+*{{Icon|Blade}} ''"Nice try!"'' - If a Wizard casts a [[:Category:Blade Spells|Blade]] spell, then Ricky will cast {{Link|Spell|Steal Charm}} on the Wizard that received the Blade.
+:*{{Link|Spell|Quench}} can be used to dispel this cheat.
+:*Aegis can be used to prevent removal.
+:*If a tri-Blade spell is used, then only the last part of the Blade will be removed (Fire for {{Link|Spell|Elemental Blade}}s and Life for {{Link|Spell|Spirit Blade}}s).
+:*If a multi-target blade spell is used (e.g. {{Link|Spell|Bladestorm}}), only the Wizard who cast the Spell will be affected.
+:*Steal Charm can be used to steal back the Blade without a penalty.
+:*{{Link|Spell|Supercharge}} does not trigger this cheat.
+
+| spellnotes =
+*Uses Pip Conversion.
+
+| casts =
+Renew;
+Legend Shield (-75%);
+Spirit Armor (500);
+Guiding Light;
+Guidance;
+Sprite Swarm (2 Pip);
+Unicorn (315);
+Satyr (990);
+Rebirth (730, 90%);
+Dryad (225);
+Lifeblade (+40%);
+Mass Triage;
+Natural Attack (Life 105-210-315, 85%);
+Nature's Wrath (270-350);
+Sacred Charge;
+Handsome Fomori (Life);
+Spinysaur (660+825);
+
+| quests =
+Mission Impossible (Mirage);
+
+| gold =
+405 - 795;
+
+| hats =
+Sand Sea Cowl of Decorum*F2;
+Sand Sea Cowl of Mischief;
+Sand Sea Cowl of Shivers;
+Zruvan Helmet of Fury;
+Zruvan Helmet of Rigor;
+
+| robes =
+Sand Sea Outfit of Emptiness;
+Sand Sea Outfit of Hardiness;
+Sand Sea Outfit of Mischief;
+Zruvan Flashflood Raiment;
+Zruvan Raiment of Amity;
+
+| boots =
+Vizier's Shoes of Apathy;
+Zruvan Galesh of Amity;
+
+| athames =
+Sand Sea Dagger of Ardor;
+Sand Sea Dagger of Bolts;
+Sand Sea Dagger of Emptiness;
+
+| amulets =
+Kobra Choker of Fury;
+Kobra Choker of Mettle*F2*WMV;
+Sand Sea Amulet of Explosion;
+
+| rings =
+Sand Sea Ring of Ardor*F2;
+Sand Sea Ring of Blight;
+Sand Sea Ring of Decorum;
+Sand Sea Ring of Explosion;
+
+| wands =
+Thundering Rubal Bow;
+
+| decks =
+Kobra Hand of Rigor;
+Sand Sea Hand of Havoc*F3*WMV;
+Sand Sea Hand of Shivers;
+
+| items =
+
+| cards =
+Age of Reckoning;
+Ashen Bones;
+Combustion;
+Counterforce;
+Katabatic Wind;
+Namaste;
+Nested Fury*F2*WMV;
+Rusalka's Wrath;
+Winged Sorrow*F2;
+Wings of Fate;
+
+| reagents =
+Aether*F13*WMV;
+Agave Leaves*F3*WMV;
+Agave Nectar;
+Amber*F3;
+Amber Dust*F3*WMV;
+Aquamarine*F8*WMV;
+Astral Shard*F5;
+Braided Vine;
+Draconium*F2;
+Fire Blossom*F5*WMV;
+Golden Pearl*F11*WMV;
+Iridium;
+Merle's Whisker;
+Mithril;
+Orichalcum;
+Scales*F2;
+Silver*F4*WMV;
+Stardust*F4*WMV;
+Steel*F7*WMV;
+Sunstone*F5*WMV;
+Titanium*F8*WMV;
+Tungsten*F4*WMV;
+Turmeric;
+Turquoise*F5;
+Vine*F9*WMV;
+
+| spellements =
+
+| snacks =
+Beetle Cream Soda;
+Chalupacabra*F3;
+Eye Candy*F2*WMV;
+Hot Cross Buns*F4*WMV;
+Mustachios*F6*WMV;
+Satyr Chow;
+Ships 'n' Queso;
+Veggie Juice*F3*WMV;
+
+| jewels =
+Flawless Opal;
+Renew Opal;
+Shiny Blocking Sapphire +16*F2;
+Shiny Critical Hematite +16;
+Shiny Critical Peridot +16;
+Shiny Damage Amethyst +26;
+Shiny Damage Onyx +26;
+Shiny Damage Peridot +26;
+Shiny Defense Citrine +52;
+Shiny Defense Jade +52;
+Shiny Defense Onyx +52*F2;
+Shiny Defense Peridot +52*F2*WMV;
+Shiny Defense Ruby +51;
+Shiny Healing Opal +6%;
+Shiny Health Opal +113*F2;
+Shiny Health Opal +114*F3;
+Shiny Mana Opal +45*F2*WMV;
+Shiny Mending Opal +6%;
+Shiny PIP Hematite +2;
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Baby Carrots*F2;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts;
+Boom Shroom;
+Bread Fruit Bush*F2*WMV;
+Burning Snap Dragon;
+Clockwork Flower;
+Cornbread Fruit Bush;
+Dandelion*F2;
+Deadly Fly Trap*F2*WMV;
+Deadly Helephant Ears*CR*F2;
+Deadly Ninja Fig;
+Evil Snow Peas;
+Fickle Pickle*F2;
+Golden Couch Potatoes*F2*WMV;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Helephant Ears;
+Honey Bee Plant;
+Honey Sickle;
+Ivy League*CR;
+King Parsley*CR*F2*WMV;
+Missile Toe;
+Moon Flower;
+Orange Bell Pepper*CR;
+Pink Huckleberries;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus*F2*WMV;
+Purple Bell Pepper;
+Purple Grapes of Wrath*F2;
+Purple Snow Apples;
+Red Couch Potatoes*F4*WMV;
+Red Huckleberries;
+Rye Bread Fruit Bush*F2*WMV;
+Sugar Khrystal*CR;
+Sunion*CR;
+Sword Fern*CR;
+Venus Fly Trap;
+White Desparagus*F2*WMV;
+White Tiger Lily;
+Yellow Bell Pepper*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

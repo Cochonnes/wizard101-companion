@@ -1,0 +1,110 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 35,000
+| crecla = Demox
+| school = Death
+| school2 = Fire
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical = 
+
+| criticalblock =
+649 Any;
+
+| outpierce =
+32% Fire, Death;
+
+| outboost =
+141% Fire, Death;
+
+| incboost =
+30% Life;
+
+| incresist =
+42% Fire, Ice, Storm, Myth, Balance, Moon, Shadow;
+72% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Scholomance
+| subloc1 = Heretical Academy (Standard)
+| descrip =
+*The strategy to defeat this boss is to defeat it while it has 0 {{Icon|Ward}} and 0 {{Icon|Heal over Time}}. Defeating the boss while any of these effects are active on it will cause it to revive. 
+
+| cheatnotes =
+*{{Icon|Round}} At the beginning of round 1, Entrance Exam will cheat-cast one of the following on itself:
+**{{Icon|Shield}} 7 -80% Shields, one for each school including {{Icon|Balance}}.
+**{{Icon|Heal over Time}} 4 Heal over Times, each lasting 50 {{Icon|Round}}.
+
+*{{Icon|Charm}}{{Icon|Trap}} "A conventional technique. We are prepared." - Each time a Wizard casts a Charm or a Trap on Entrance Exam, each Wizard will be drained of 20% of their max HP.
+**"*Grim Laughter*" - This will become the new line of the previous cheat if triggered more than 2 times. 
+
+| speech =
+
+| spellnotes =
+
+| casts = 
+Empower;
+Immolate;
+Phoenix;
+Helephant;
+Wraith;
+Anubis;
+
+| quests =
+Scholhouse Rock;
+
+| gold =
+27 - 33;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Sirens;
+Sun Serpent;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Butter Worms;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

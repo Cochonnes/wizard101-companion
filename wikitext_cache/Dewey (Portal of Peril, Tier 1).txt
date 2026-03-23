@@ -1,0 +1,98 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,630
+| crecla = Crab
+| school = Death
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Luminous Troglodyte (Portal of Peril, Tier 1);
+Luminous Troglodyte (Portal of Peril, Tier 1);
+
+| world = Portal of Peril
+| location = Fantastic Voyage Expedition (Portal of Peril)
+| subloc1 = Data Caverns (Portal of Peril)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tisk, tisk! You'll have to pay the late fees!"'' - If a Wizard joins the Duel after the first Round, then Dewey will interrupt-cast a Sun version of Mana Burn that deals no Damage and removes 2 Pips.
+*{{Icon|Damage}} ''"This racket will not be tolerated!"'' - If a Wizard casts a Damage Spell on an enemy, then Dewey will interrupt-cast a Shield of the Damage's School on the recipient of the Damage.
+**Spells that deal Damage multiple times or to multiple targets will result in Dewey casting a Shield for each hit that occurred.
+**Balance Damage will result in Dewey interrupt-casting {{Link|Spell|Tower Shield}} on the recipient.
+*{{Icon|Damage over Time}} ''"I have to do everything around here!"'' - If a Wizard casts a Damage over Time Spell on an enemy, then Dewey will interrupt-cast {{Link|Spell|Mass Triage}}.
+*{{Icon|Blade}} / {{Icon|Global}} ''"Defend the sanctuary!"'' - The first time that any Friend or Enemy casts a [[:Category:Blade Spells|Blade]] or Damage Global, Dewey will interrupt-cast Tower Shield on himself.
+**''"I'm sick of all this noise!"'' - The second time that any Friend or Enemy casts a Blade or Damage Global, Dewey will interrupt-cast {{Link|Spell|Plague}}.
+**''"Fight, or no dinner for you!"'' - The third time that any Friend or Enemy casts a Blade or Damage Global, Dewey will interrupt-cast {{Link|Spell|Legion Shield}}.
+**''"Maybe this will quiet you down..."'' - The fourth time that any Friend or Enemy casts a Blade or Damage Global, Dewey will interrupt-cast {{Link|Spell|Virulent Plague}}.
+**If any Friend or Enemy casts a fifth Blade or Damage Global, then the cycle resets back to ''"Defend the sanctuary!"''
+
+| spellnotes =
+
+| casts =
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Dewey (Fantastic Voyage Expedition)
+}}

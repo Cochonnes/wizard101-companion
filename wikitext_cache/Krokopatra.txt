@@ -1,0 +1,309 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 960
+| crecla = Krokotopian
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Myth;
+
+| incresist =
+70% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Karanahn Queen Guard;
+
+| world = Krokotopia
+| location = Temple of Storms
+| badge = Hero of Krokotopia
+| lootchest = Krokopatra's Chest
+| descrip =
+Krokopatra is the supreme ruler of Krokotopians in Krokotopia. Her second in command is {{Link|Creature|Krokhotep}} and her third is {{Link|Creature|Krokenkahmen}}. Her purple color may be related to her affinity to Storm, like the Manders in the Temple of Storms.
+
+| speech =
+:''"Who dares enter my inner sanctum? You! A member of the Order of the Fang? No doubt you've come for the Krokonomicon... It shall never fall into your foul hands. Prepare to be vanquished!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 125 Storm Damage per Pip.
+
+| casts =
+Myth Shield;
+Weakness;
+Black Mantle;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Storm Serpent (155-195);
+Lightning Bats;
+Storm Shark;
+Squall Wyvern;
+Kraken;
+Banshee;
+Sunbird;
+
+| quests =
+Temple Dweller;
+
+| gold =
+32 - 66;
+
+| dropnotes =
+A number of the items dropped by this Boss are holiday items and are only available during their respective holidays.<br/>
+When a Wizard has unlocked the '''Wizard City Protector''' {{Icon|Wizard City Protector}} Badge and has not unlocked the '''Mastermind''' {{Icon|Mastermind}} Badge, the following drops will be available:
+*8 Spellements and Treasure Card Spellements will drop each time from the '''Elemental''' (Fire, Ice, Storm, Balance) Schools for their respective rank 1-3 Spells.
+
+| hats =
+Augmented Mantle*CR;
+Boo Pumpkin Mask*CR*HOL;
+Cowl of the Fortress*F2;
+Cryptkeeper's Circlet*F2;
+Diviner's Hat of Squalls*F2;
+Goofy Pumpkin Mask*CR*HOL;
+Helm of the Citadel;
+Krokopatra's Cap*F4*WMV;
+Krokopatra's Circlet;
+Krokotopian Balance Modius;
+Krokotopian Death Modius*F2;
+Krokotopian Life Modius;
+Krokotopian Modius*F3*WMV;
+Krokotopian Storm Modius*F2;
+Rough-Hewn Hood;
+Runed Hood*F5*WMV;
+Santa Hat*CR*HOL;
+Soothsayer's Helm*F5*WMV;
+Stout Hood;
+Sturdy Hood;
+Theurge's Hat;
+Threadbare Hood;
+
+| robes =
+Cloak of the Skies*F2;
+Dusty Robe;
+Hallowe'en Robe*CR*HOL;
+Krokopatra's Garments*F2;
+Krokopatra's Robe*F4*WMV;
+Krokopatra's Silent Cloak*F4*WMV;
+Mummy Costume Bodywraps*CR*HOL;
+Phantasmal Raiment*CR;
+Powerful Vestment;
+Robe of the Bastion;
+Robe of the Mirage;
+Shroud of Rationality*F4*WMV;
+Sphinx's Vestment;
+Sturdy Robe;
+Vest of Somnolence*F2;
+Vest of the Desert;
+Vest of the Oasis;
+Vestment of Darkness;
+Vestment of Ignition;
+
+| boots =
+Biti Nirini's Torrid Boots;
+Boots of Talent;
+Boots of the Citadel;
+Boots of the Whirlwind;
+Footwraps of the Arctic;
+Hardy Boots;
+Ill-Omened Striders*CR;
+Krokopatra's Footwraps*F2*WMV;
+Krokopatra's Shoes;
+Magma-Walkers*CR;
+Mummy Costume Footwraps*CR*HOL;
+Parched Sandals*F2;
+Polar Shoes*F2*WMV;
+Sandals of Energy;
+Shoes of the Desert*F2*WMV;
+
+| athames =
+Athame of Adaption*F3*WMV;
+Dagger of Annihilation*F2;
+Dagger of Downpour*F5*WMV;
+Dirk of Harmony;
+Parched Kris;
+Whirlwind Dagger*F2*WMV;
+
+| amulets =
+Amulet of Eyes*F4*WMV;
+
+| rings =
+Band of the Bastion*F4*WMV;
+Band of the Skies*F2;
+Flowering Band;
+Loop of Quietude*F2*WMV;
+Loop of the Defender*F2;
+Powerful Ring;
+Ring of the Badlands;
+Seal of the Conqueror*F3*WMV;
+Silent Jewel*F2*WMV;
+Sparkling Band;
+
+| wands =
+Bountiful Wand*CR*HOL;
+Bunny Wand*CR*HOL;
+Charmed Clover Wand*CR*HOL;
+Egg Basket Wand*CR*HOL;
+Gingerbread Wand*CR*HOL;
+Harp of the Lucky*CR*HOL*F2;
+Rod of Regard*CR*HOL;
+Shamrock Scepter*CR*HOL;
+Spring Chicken Scepter*CR*HOL*F2;
+Staff of Commitment*CR*HOL;
+Sweet Staff*CR*HOL;
+
+| decks =
+
+| items =
+Boat Tent*F2;
+Hieroglyphic Ice Tablet*CR*F2;
+Krokopatra Exalted Duel*CR*F4*WMV;
+Krokopatra Master Duel*CR*F6*WMV;
+Krokotopia Theme 4*F6;
+Large Archway*F3*WMV;
+Novice's Socket Wrench*F4;
+Raised Storm Sarcophagus;
+Row of Scrolls*F3*WMV;
+Snowglobe*HOL;
+Snowman*CR*HOL;
+Tall Palm Tree*CR;
+Tree Wrapped Gift*CR*HOL*F2;
+Yuletide Lg. Small Fry Aquarium*CR*HOL;
+
+| cards =
+Dryad;
+Evil Snowman;
+Evil Snowman (Tier 2b)*BR*F4*WMV;
+Fire Cat (Tier 2b)*BR*F4;
+Fire Elf (Tier 2b)*BR*F2;
+Frost Beetle (Tier 2b)*BR;
+Humongofrog;
+Ice Trap;
+Krokotillian*F2;
+Lightning Bats (Tier 2b)*BR*F2*WMV;
+Locust Swarm (Tier 2b)*BR;
+Scarab (Tier 2b)*BR;
+Scorpion (Tier 2b)*BR;
+Sniper;
+Snow Serpent (Tier 2b)*BR;
+Sprite;
+Storm Shark;
+Storm Shark (Tier 2b)*BR;
+Sunbird (Tier 2b)*BR*F3*WMV;
+Thunder Snake (Tier 2b)*BR*F2;
+To The Oasis*F2;
+Weakness;
+
+| reagents =
+Bone*F2;
+Brass;
+Copper;
+Iron*F2*WMV;
+Lead*F2;
+Nickel*F3;
+Pyrite*F3;
+Spider Silk*F5*WMV;
+Tin;
+
+| spellements =
+Evil Snowman*BR;
+Fire Cat*BR*F4*WMV;
+Fire Elf*BR;
+Frost Beetle*BR*F2*WMV;
+Lightning Bats*BR;
+Locust Swarm*BR;
+Scarab*BR*F2;
+Scorpion*BR;
+Snow Serpent*BR*F3;
+Storm Shark*BR*F3;
+Sunbird*BR*F2*WMV;
+Thunder Snake*BR*F3*WMV;
+
+| snacks =
+Cracker*F3*WMV;
+Green Grapes*F7*WMV;
+Nettle Root*F7*WMV;
+Redskin Peanut;
+Square Watermelon;
+Stinky Cheese;
+Tiny Fish*F4*WMV;
+
+| jewels =
+Big Boost Opal;
+Chipped Accurate Amethyst +3%;
+Chipped Accurate Jade +3%;
+Chipped Defense Citrine +13*F2;
+Chipped Defense Onyx +13;
+Chipped Defense Ruby +13;
+Chipped Health Opal +16;
+Chipped Mana Opal +9;
+Chipped Mana Opal +11;
+Chipped Mana Opal +12;
+Clay Post Opal;
+Clear Path Opal;
+Cracked Damage Amethyst +5;
+Cracked Damage Onyx +6;
+Cracked Damage Opal +2;
+Cracked Damage Sapphire +5*F2*WMV;
+Cracked Damage Sapphire +6;
+Cracked Defense Jade +11;
+Death-Boon Onyx;
+Death-Shot Onyx;
+Dependable Opal;
+Ghoul Onyx;
+Glacial Shield Ruby;
+Ice-Boon Sapphire;
+Lightning Bats Amethyst;
+Myth-Shot Peridot;
+Overtake Opal;
+Pip O'Plenty Opal;
+Scorpion Citrine;
+Silence Opal;
+Storm-Away Amethyst;
+Storm-Shot Amethyst;
+Troll Peridot;
+Volcanic Shield Sapphire*F2;
+
+| pins =
+
+| pets =
+Cupig*CR*HOL;
+Black Cat*CR*HOL;
+Fang Bat;
+Golden Goose*CR*HOL;
+Life Troll*F3*WMV;
+Lovely Leopard*CR*HOL;
+Maple Moose*CR*HOL;
+Pet Egg*CR*HOL;
+Rescue Rover*CR*HOL;
+Snowball*CR*HOL;
+Yuletide Spirit*CR*HOL;
+
+| seeds =
+Alligator Pear Tree*F3;
+Happy Holidaisy*CR*HOL;
+Pink Dandelion*CR*F6*WMV;
+
+| mounts =
+Seraph Wings;
+Stormrider Hare*PERM*CR*HOL;
+
+| spells =
+To The Oasis;
+
+}}

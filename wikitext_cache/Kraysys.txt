@@ -1,0 +1,205 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 4,000
+| crecla = Draconian
+| school = Storm
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Myth;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Fangtooth Lavaspinner;
+
+| world = Dragonspyre
+| location = The Forum
+| subloc1 = Kraysys' Tower
+| descrip =
+
+| speech =
+:''"Thessse cryssstalsss belongsss to Kraysssysss! Sssecretsss of dragonriding are mine to ussse!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+Folks said he was crazy for wanting to ride dragons. They said he basically already was a dragon. Yep, they said that.
+
+| extract class =
+Draconians;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Myth Shield;
+Sprite;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Shark;
+Kraken;
+Stormzilla;
+Tempest;
+Vampire;
+Natural Attack (Fire 100x);
+Heck Hound;
+
+| quests =
+Overdue Fees;
+
+| gold =
+101 - 119;
+
+| hats =
+Cap of the Archivist;
+Cowl of the Necromancer;
+Cyclone Coif;
+Hat of the Ever Watchful;
+Headdress of the Grove;
+Headgear of the Absolute;
+Headgear of the Ice Pilot;
+Hood of Ashes;
+Hood of Lost Light;
+Hood of the Tempest;
+Icefire Hood;
+Librarian's Mantle;
+Mantle of Order;
+Mantle of Thunder*F3;
+Veil of the Guardian;
+
+| robes =
+Gardener's Smock;
+Robe of the Conflagration;
+Robes of the Ice Queen;
+Sorcerer's Robe;
+Tunic of Effervescence*F3*WMV;
+Vestment of Fable;
+Vestment of the Howling Wind;
+Wrap of Equity*F2*WMV;
+
+| boots =
+Boots of the Hurricane*F2*WMV;
+Footgear of Craftsmanship;
+Footgear of the Forgotten;
+Mocassins of the Embers*F2;
+Mocassins of the Healer;
+Mocassins of the Polar Ice;
+Robes of the Ice Queen;
+Sandals of Sleet;
+Sandals of the Remortal;
+Sandals of the Shaman;
+Shoes of the Phoenix*F8*WMV;
+Slippers of Deftness;
+Slippers of the Quiet;
+Sunwalkers*F2*WMV;
+Talespinner's Footgear;
+
+| athames =
+Athame of Awakening*F4*WMV;
+Dirk of the Daring*F2;
+Kraysys' Blade of Traitors*F2*WMV;
+Lancet of Equality;
+
+| amulets =
+
+| rings =
+Band of Balance*F2;
+Glimmering Band;
+Kraysys' Quisling Signet*F2*WMV;
+Kraysys' Ring of Betrayal*F4;
+Lavastone Ring;
+Ring of the Harpy*F3*WMV;
+Sapphire Studded Band;
+
+| wands =
+
+| decks =
+
+| items =
+Dragonspyre Ruins;
+Professor Falmea*CR;
+Regal Dragon Statue*F2;
+Spouted Lava Fountain*F4*WMV;
+
+| cards =
+
+| reagents =
+Cobalt;
+Copper;
+Lead;
+Leather Straps*F4*WMV;
+Nickel;
+Spider Silk*F6;
+Tin;
+
+| spellements =
+
+| snacks =
+Flaming Soup;
+Goat Cheese*F2;
+Golden Grapes;
+Gummy Humongofrog*F2;
+King Banana;
+
+| jewels =
+Balance-Boon Citrine;
+Blemished Defense Onyx +23;
+Dull Blocking Amethyst +4;
+Dull Blocking Citrine +4;
+Dull Blocking Ruby +4;
+Dull Blocking Sapphire +4;
+Dull Defense Opal +14;
+Dull Piercing Citrine +1%;
+Fire-Away Ruby;
+Hydra Citrine*F2;
+Pip O'Plenty Opal;
+Plain Blocking Opal +3;
+Storm-Away Amethyst;
+Stupefy Opal;
+Ultra Energy Opal;
+Wraith Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F4;
+Fiery Boom Shroom;
+King Parsley*CR*F4;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F2*WMV;
+White Laugh-O-Dil*F3;
+
+| mounts =
+
+| spells =
+
+}}

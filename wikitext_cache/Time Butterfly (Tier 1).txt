@@ -1,0 +1,200 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 1,915
+| crecla = Butterfly
+| crecla2 = Insect
+| school = Myth
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+55%;
+
+| incboost =
+20% Storm;
+
+| incresist =
+50% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Doomsday Krok Gauntlet
+| subloc1 = Doomsday Krok Gauntlet (Tier 1)
+| descrip =
+For the purpose of drops, Time Butterfly (Tier 1) is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Not half as annoying as Multiverse Moths. Once they get into your cosmos, they'll leave black holes all over your realities.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"You're late! Or are you early?"'' - Casts a {{Link|Spell|Stun (Shadow)}} on any Wizard who joins the duel after the first Round.
+*{{Icon|Manipulation}} Every two Rounds, Time Butterfly (Tier 1) will cast a Shadow version of Empower to give 1 Power Pip to all allies, and hidden-casts a Spell that switches the first turn of the duel.
+*{{Icon|Feint}} If a Feint is placed on Time Butterfly (Tier 1), then it will cast an Ice version of {{Link|Spell|Swap Ward}} to switch the Traps with the Wizard who cast it.
+*{{Icon|Afterlife}} If Time Butterfly (Tier 1) is defeated before or on the same turn that all of the Minions are defeated, then it will cast a Sun version of Blessing to restore 100% Health on all allies.
+** This Spell will revive any Minions defeated during the Round.
+
+{{Icon|Minion}} '''Minion Summon Cycle:'''
+*'''Stage 1:'''
+**At the start of the battle, Time Butterfly (Tier 1) will cast a Shadow Spell to summon '''{{Link|Creature|Young Morganthe (Tier 1)}}'''. Occasionally, three of the Minions will be summoned.
+
+*'''Stage 2:'''
+**On the following Round after '''Young Morganthe (Tier 1)''' has been defeated, Time Butterfly (Tier 1) casts a Shadow Spell to summon Young Morganthe (Tier 1) and '''{{Link|Creature|Roberto (Tier 1)}}'''.
+
+*'''Stage 3:'''
+**On the following Round after '''Young Morganthe (Tier 1)''' and '''Roberto (Tier 1)''' have been defeated, Time Butterfly (Tier 1) casts a Shadow Spell to summon Young Morganthe (Tier 1), Roberto (Tier 1) and '''{{Link|Creature|Broodmother (Tier 1)}}'''.
+
+*'''Variation:'''
+**On the first Round, three Young  Morganthe (Tier 1) will be summoned instead of just one.  In this case, the Stage 2 summon will be omitted, and the Round after the three Minions are defeated, the Stage 3 summon will occur.
+
+{{Icon|Fire}} ''Broodmother:'''
+*{{Icon|Steal}} ''"Give me your health, drone!"'' - Broodmother (Tier 1) will cast {{Link|TreasureCard|Cheat}} to steal 15% max Health from Time Butterfly and restores 15% of its max Health, then a {{Link|Spell|Dragonblade}} to a random ally, and {{Link|Spell|Mass Tower Shield (Shadow)}} (-55%) to all allies.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 115 Myth Damage for 1 Pip.
+*Deals 230 Myth Damage for 2 Pips.
+*Deals 345 Myth Damage for 3 Pips.
+*Deals 460 Myth Damage for 4 Pips.
+**Removes 1 Pip from target.
+
+| casts =
+Tower Shield;
+Grendel's Amends;
+Mythblade;
+Myth Trap;
+Cleanse Ward;
+Pierce;
+Stun;
+Cyclops;
+Humongofrog;
+Natural Attack (Time Butterfly);
+
+| quests =
+Doomsday Krok;
+
+| gold =
+1,000;
+
+| hats =
+Apophis' Khepresh (Any Level)*CR;
+Setesh's Khepresh (Level 10+)*CR;
+Setesh's Khepresh (Level 20+)*CR;
+Sokar's Khepresh (Any Level)*CR;
+Sokar's Khepresh (Level 10+)*CR;
+Sokar's Khepresh (Level 20+)*CR*F2;
+
+| robes =
+Apophis' Raiment (Level 20+)*CR;
+Setesh's Raiment (Level 10+)*CR;
+Sokar's Raiment (Any Level)*CR;
+
+| boots =
+Apophis' Boots (Any Level)*CR;
+Setesh's Boots (Any Level)*CR;
+Setesh's Boots (Level 10+)*CR;
+Sokar's Boots (Level 20+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Apophis' Javelin (Level 20+)*CR;
+Sokar's Javelin (Level 10+)*CR;
+
+| decks =
+
+| items =
+Doohickey;
+Krok Statue Flex;
+Krok Statue Thumbs Up;
+Krokotopian Bridge*F2*WMV;
+Krokotopian Obelisk*F2;
+Krokotopian Pillar*F2;
+Mini Pyramid*F3*WMV;
+Novice's Socket Wrench;
+
+| cards =
+
+| reagents =
+Amber Dust;
+Bone*F2;
+Diamond*F2;
+Elemental Retriever;
+Leather Straps;
+Scales;
+Smoke Screen Token*F2;
+Spiritual Retriever*F3;
+Sunstone;
+
+| spellements =
+
+| snacks =
+Ancient Date;
+Black Sun Seeds;
+Cactus Fruit;
+Gator Tots;
+Loco Nut;
+Medium Fish*F2;
+Prickly Bear Punch;
+Raising Bran Cereal*F2;
+Sandy Corn;
+Square Root;
+
+| jewels =
+Cracked Health Opal +7;
+Cracked Mana Opal +5*F2;
+Cracked Resilient Opal +1%;
+
+| pins =
+
+| pets =
+Apophis' Scarab;
+Setesh's Scarab;
+Sokar's Scarab*F3*WMV;
+
+| seeds =
+
+| mounts =
+Apophis' Krokosphinx*7*CR;
+Setesh's Krokosphinx*7*CR*F4;
+Sokar's Krokosphinx*7*CR;
+
+| spells =
+
+| elixirs =
+Major Gold Elixir;
+
+}}

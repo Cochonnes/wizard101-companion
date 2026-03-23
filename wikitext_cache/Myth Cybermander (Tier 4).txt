@@ -1,0 +1,108 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 8,660
+| crecla = Mander
+| school = Myth
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+50%;
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Doomsday Krok Gauntlet
+| subloc1 = Doomsday Krok Gauntlet (Tier 4)
+| descrip =
+Myth Cybermander (Tier 4) is considered a Minion to {{Link|Creature|Balance Cybermander (Tier 4)}}.  All drops are recorded on that page.
+
+| speech =
+
+| monstrotomedescrip =
+Infected with a virus that loops unending lists in its head. Apparently, Krokhotep is only the third hunkiest Krok.
+
+| summon_animus = 20
+| summon_gold = 1,000
+| guest_animus = 30
+| guest_gold = 2,500
+| can_expel = No
+| altlink = Myth Cybermander
+
+| spellnotes =
+'''Natural Attack:'''
+*Four Pip maximum, despite what the Spell description indicates.
+
+| casts =
+Amplify;
+Vengeance;
+Mythblade;
+Myth Trap;
+Time of Legend;
+Keeper of the Flame;
+Natural Attack (Myth 115-230-345, 75%);
+Ninja Pigs;
+Earthquake (425);
+Humongofrog (400-500);
+Medusa (865);
+Basilisk;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,398 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 21,125
+| crecla = Wizard
+| school = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Morganthe (Balance);
+Morganthe (Ice);
+Morganthe (Storm);
+
+| world = Khrysalis
+| location = Shadow Palace
+| subloc1 = Morganthe's Chamber
+| lootchest = Morganthe's Chest
+| descrip =
+{{Link|NPC|Morganthe}}'s power over Death and Shadow magic allows her to bend reality to her whim, materializing all five forms of herself before the Wizards' eyes.  This is the final battle in Khrysalis.  Death Morganthe is considered the main Boss for the purpose of drops.  All drops from this fight are recorded on this page.<br/>This Boss will always occupy the third circle duel slot.
+
+| speech =
+:'''Morganthe:''' ''"I have long dreamed this. I may not have the pleasure of killing Ambrose with my own hand, but sending him your head may be sweeter, still. I forget myself. A queen should not act so basely. Such a threat is beneath me, especially on the eve of my victory. Mirror Lake broke, then Huracan, the horned one, called to Xibalba. And then I brought down the sky. And you failed and failed and failed. But really, in the face of prophecy, what choice did you have? You dabble in Shadow, but you have no idea what it truly means. Shadow bends to reality. And reality bends to my whim. Face me in all my forms, and despair!"'' 
+:'''Shadow Morganthe:''' ''"Your blood shall water the foundations of my new universe, the Shadow Web!"''
+
+| cheatnotes =
+*{{Icon|Manipulation}} If a prism is placed on Death Morganthe (including Mass Prisms), she will cast a DoT on herself that deals 350 Damage over one Round, and use {{Link|Spell|Cleanse Ward}} to remove the Prism. (DOT does not deal Death Damage).
+**{{Icon|Global}} Storm Morganthe places this DoT on herself after a Global is used.
+**{{Icon|Damage}} Ice Morganthe reacts to any enemy attacks.
+*{{Icon|Damage}} At the beginning of every fourth Round, Ice Morganthe will cast a Shadow Spell that summons Shadow Morganthe (the giant spider in the background) to hit all Wizards for 600 Shadow Damage at the same time.
+**If Ice Morganthe is defeated, Death Morganthe will take over casting the Shadow Morganthe cheat. If Death Morganthe is defeated, Storm Morganthe will cast it, and finally Balance Morganthe will cast the cheat if all other forms have been defeated.
+*{{Icon|Damage}} Each Morganthe has a Natural Attack, and a special personal attack. The Natural Attack sends spiders to wrap the Wizard in a web. The special attack morphs many spiders into one giant shadow spider (does not do Shadow Damage though).  The following is a list of the special personalized attacks:
+**{{Link|Spell|Balance Morganthe Attack}}
+**{{Link|Spell|Death Morganthe Attack}}
+**{{Link|Spell|Ice Morganthe Attack}}
+**{{Link|Spell|Storm Morganthe Attack}}
+*{{Icon|Shadow}} When each Morganthe has 2 Shadow Pips, they will use their turn to cast the following Shadow Spells, even if they have existing pacts:
+**Balance Morganthe and Ice Morganthe will cast {{Link|Spell|Dark Fiend}}.
+**Death Morganthe will cast {{Link|Spell|Dark Shepherd}}.
+**Storm Morganthe will cast {{Link|Spell|Dark Nova}}.
+***Because of changes to Shadow Creatures and updates, attempting to cast their respective shadow spells (with the exception of Dark Nova) will cause each Morganthe (except Storm) to always pass due to a targeting bug.
+
+
+| spellnotes =
+
+| casts =
+Shadow Shrike;
+Dark Shepherd;
+Amplify;
+Fortify;
+Mass Infection;
+Deathblade;
+Death Trap;
+Death Morganthe Attack;
+Natural Attack (Death 160-255-350);
+Lord of Night;
+Poison;
+Wraith (575);
+Scarecrow;
+Dr. Von's Monster;
+Avenging Fossil;
+
+| quests =
+End Game;
+Final Challenge;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*Chance of 2 Level 100+ Exalted Athame, Amulet, or Ring drop.
+*2 Pollen Motes
+*9 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+If a Wizard already has the Defender of Land & Sky Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of Morganthe's Chamber to acquire a [[Item:Level Scaling Elixir - 100|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+80 - 100;
+
+| hats =
+Huntress' Mirrormask*F6*WMV;
+
+| robes =
+Aged Hundred Legger Armor*F3*WMV;
+Archangel's Vestment*CR*F2*WMV;
+Armor of the BurrowBreaker*F4*WMV;
+Armor of the QuietBlade*F11*WMV;
+Burrower Robe of Ingenuity*F8*WMV;
+Digger's Mail of Symmetry*F4*WMV;
+Leaf Shield Armor of Vigor*F6*WMV;
+Lost Mouse King's Raiment*F3*WMV;
+Mouse Vestment of Mourning*F6*WMV;
+Scorched Armor of the Burn*F3*WMV;
+
+| boots =
+Boots of the BurrowBreaker*F3*WMV;
+Mouse Boots of Rebellion*F5*WMV;
+
+| athames =
+Athame of the Chosen One*BR;
+Blade of the Shadow Palace*BR;
+Brood Mother's Regal Blade*F8*WMV;
+Edge of the Shadow Web*BR;
+Kris of Shadow and Light*BR;
+Kris of the Chosen One*BR;
+Kris of the Shadow Palace*BR;
+Kris of the Shadow Web*BR;
+Mercy of Shadow and Light*BR;
+Morganthe's Bite*BR;
+Morganthe's Kris*BR;
+Shadow Spider's Kris*BR;
+Shadow Spider's Sting*BR;
+The Dark Woman's Dagger*BR;
+The Dark Woman's Kris*BR*F2*WMV;
+
+| amulets =
+Amulet of the Grand Prophecy*BR;
+Amulet of the Shadow Palace*BR;
+Amulet of the Shadow Web*BR;
+Gem of the Grand Prophecy*BR;
+Jewel of the Shadow Web*BR*F3*WMV;
+Lady of Spiders' Amulet*BR;
+Morganthe's Amulet of Amber*BR;
+Morganthe's Dark Amulet*BR*F2*WMV;
+Morganthe's Dark Charm*BR;
+Morganthe's Shadow of Amber*BR*WMV;
+Relic of the Shadow Palace*BR;
+Shadow Queen's Amulet*BR;
+Shadow Queen's Grace*BR;
+
+| rings =
+Band of the Shadow Web*BR;
+Geometry of Shadows*BR;
+Insignia of the Dark Woman*BR;
+Lady of Spiders' Royal Ring*BR;
+Lady of Spiders' Royal Sigil*BR;
+Loop of the Umbra Legion*BR;
+Ring of the Dying Star*F6*WMV;
+Seal of the Shadow Palace*BR;
+Sigil of Shadows*BR;
+Sigil of the Dark Woman*BR;
+Sigil of the Shadow Palace*BR;
+Sigil of the Shadow Queen*BR;
+Sigil of the Shadow Web*BR;
+Sigil of the Umbra Legion*BR;
+Signet of the Shadow Queen*BR;
+
+| wands =
+Crystal Staff of Mirages*F3*WMV;
+
+| decks =
+Deck of Shadow Lightning (Square);
+Deck of Shadow Lightning (Tear)*F7*WMV;
+Deck of Shadow Lightning (Triangle)*F3*WMV;
+Deck of Shadow Prophecy (Square)*F2;
+Deck of Shadow Prophecy (Tear)*F4*WMV;
+Deck of Shadow Prophecy (Triangle)*F2*WMV;
+Deck of the Shadow Heart (Triangle);
+
+| items =
+Artisan's Socket Wrench*F4*WMV;
+Khrysalis Hive Theme*F5*WMV;
+Khrysalis Starfall Sea Theme*F7*WMV;
+Krokopatra Exalted Duel*CR*F3*WMV;
+Meowiarty Archmage Duel*CR*F3*WMV;
+Meowiarty Exalted Duel*CR;
+Rattlebones Exalted Duel*CR;
+Wizard City Dreamworld Theme*F9*WMV;
+Zeus Exalted Duel*CR*F2;
+
+| cards =
+Avenging Fossil*F4*WMV;
+Black Widow*F3*WMV;
+Celestial Calendar*F4*WMV;
+Chastisement*F3*WMV;
+Choke*F2*WMV;
+Crystal Spider*F3*WMV;
+Cycle of Life*F4*WMV;
+Doom and Gloom*F5*WMV;
+Enfeeble (-All)*F6*WMV;
+Furnace*F3*WMV;
+Galvanic Field*F4*WMV;
+Hooligan*F7*WMV;
+Legendary Treant (445)*F4*WMV;
+Locust Swarm*F2*WMV;
+Lord of Winter*F3*WMV;
+Lucius McTavish*F2*WMV;
+Luminous Weaver*F4*WMV;
+O'Leary Swindler*F2*WMV;
+Pierce*F2*WMV;
+Polar Swarm*F4*WMV;
+Punishment*F2*WMV;
+Reliquary*F2*WMV;
+Sabertooth*F4*WMV;
+Sanctuary*F2*WMV;
+Scorpion*F4*WMV;
+Scrounger*F2*WMV;
+Shatter (3 Pip)*F3*WMV;
+Sleet Storm*F3*WMV;
+Spinysaur*F4*WMV;
+Sprite Swarm (40+360)*F4*WMV;
+Virulence*F2;
+Wildfire Treant*F3*WMV;
+
+| reagents =
+Amber Dust*F2*WMV;
+Astral Shard*F33*WMV;
+Black Lotus*F7*WMV;
+Black Pearl*F3*WMV;
+Blood Moss*F10*WMV;
+Bone*F7*WMV;
+Bronze Gear*F7*WMV;
+Deep Mushroom*F7*WMV;
+Draconium*F17*WMV;
+Fire Blossom*F5*WMV;
+Fossil*F4*WMV;
+Golden Pearl*F3*WMV;
+Lava Lily*F5*WMV;
+Merle's Whisker*F3*WMV;
+Mist Wood*F11*WMV;
+Nightshade*F5*WMV;
+Ore*F7*WMV;
+Orichalcum*F15*WMV;
+Participation Trophy;
+Pollen Mote*BR*F2;
+Red Mandrake*F9*WMV;
+Stone Block*F6*WMV;
+Sunstone*F3*WMV;
+Turquoise*F6*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Chimera*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR;
+Lord of Winter*BR*F2*WMV;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR*F2*WMV;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Berry Poundcake*F2*WMV;
+Boom Stroganoff*F7*WMV;
+Bread Fruit Fruit*F5*WMV;
+Cold Snap Peas*F4*WMV;
+Cornbread Fruit*F3*WMV;
+Desparagus Salad*F4*WMV;
+Granny Snow Apple*F3*WMV;
+Huckleberry Muffin*F3*WMV;
+Huckleberry Pie*F3*WMV;
+Rye Bread Fruit*F4*WMV;
+Snow Apple Pie*F4*WMV;
+Wrath's Grape Juice*F3*WMV;
+
+| jewels =
+Accurate Talent Opal;
+Animate Skeleton Onyx;
+Aura Crush Citrine;
+Balanceblade Talent Citrine;
+Berserk Talent Opal;
+Big Sparky Amethyst;
+Blade Flurry Amethyst;
+Blade of Fire Ruby;
+Blade of Ice Sapphire;
+Blazing Oak Ruby;
+Button Tom Peridot*F2;
+Clear Damage Amethyst +19;
+Clock Spider Citrine;
+Devotion Opal;
+Draconian Opal;
+Elf on Fire Ruby;
+Empowerment Talent Opal*F2;
+Feeling Weak Citrine;
+Feinting Spell Onyx*F2;
+Freddo Sapphire*F3*WMV;
+Get Sunbird Ruby;
+Giant Talent Opal*F2;
+Go Humongo Peridot;
+Greensleeves Jade;
+Keen Eyes Talent Opal*F2*WMV;
+Malduit Onyx*F2*WMV;
+Mander Opal;
+Mega Hurry Opal;
+Mokompo Amethyst;
+Mulligan's Shuffle Citrine;
+Nerys Citrine;
+No Pain, No Gain Onyx;
+Piercemonger Peridot;
+Plaguebringer Onyx;
+Polished Accurate Hematite +10%*F3*WMV;
+Polished Blocking Opal +6;
+Polished Critical Amethyst +12;
+Polished Critical Citrine +12;
+Polished Critical Hematite +11;
+Polished Critical Jade +12*F3*WMV;
+Polished Critical Onyx +12;
+Polished Critical Opal +6;
+Polished Critical Peridot +12*F2*WMV;
+Polished Critical Ruby +12*F2*WMV;
+Polished Critical Sapphire +12*F2;
+Polished Damage Amethyst +22*F2*WMV;
+Polished Damage Citrine +22*F2*WMV;
+Polished Damage Hematite +42;
+Polished Damage Hematite +44;
+Polished Damage Jade +22;
+Polished Damage Onyx +22*F3*WMV;
+Polished Damage Peridot +22*F2*WMV;
+Polished Damage Ruby +22;
+Polished Damage Sapphire +22;
+Polished Defense Hematite +44*F2*WMV;
+Polished Defense Opal +22*F2*WMV;
+Polished Health Opal +94;
+Polished Health Opal +95*F2;
+Polished Piercing Citrine +6%;
+Polished Piercing Hematite +5%*F3*WMV;
+Polished Piercing Hematite +6%;
+Polished Piercing Ruby +6%;
+Polished PIP Hematite +1;
+Pyrosaurus Rex Ruby;
+Rage of Winter Sapphire;
+Sap Health Talent Citrine;
+Sir Bedevere Jade*F2*WMV;
+Sir Lamorak Ruby;
+SnowBorn Sapphire*F2*WMV;
+Spirit Armor Jade;
+Sprite Time Jade;
+Steal Health Talent Onyx;
+Storm-Tooth Amethyst;
+Strong Talent Opal;
+The Deer Knight Rises Onyx;
+Thunder Lizard Amethyst;
+Time Skip Sapphire;
+Tower Shield Sapphire;
+Treant Opal;
+Unstoppable Talent Opal;
+Vassanji Peridot;
+
+| pins =
+
+| pets =
+Pesky Beetle*CR*F10*WMV;
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Burning Snap Dragon*F6*WMV;
+Face Palm*F4*WMV;
+Queen Crape Myrtle*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

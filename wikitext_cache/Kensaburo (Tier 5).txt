@@ -1,0 +1,101 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 11,000
+| crecla = Samoorai
+| school = Balance
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Housing Instance
+| location = Midnight Sun Pagoda
+| subloc1 = 
+| descrip =
+Kensaburo is considered a Minion to [[Creature:Yoshinobu (Tier 5)|Yoshinobu]].  All drops and cheats should be recorded on Yoshinobu's page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Conviction;
+Vengeance;
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Ra;
+Chimera;
+Natural Attack (Balance 85x, 90%);
+Judgement;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

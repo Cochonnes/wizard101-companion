@@ -1,0 +1,222 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 13,070
+| crecla = Treant 
+| crecla2 = Plant
+| school = Balance
+| masteries =
+Death;
+
+| cheats = Yes
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| critical =
+110 Any;
+
+| criticalblock =
+50 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Laughing Calaca;
+Laughing Calaca;
+Laughing Calaca;
+
+| world = Khrysalis
+| location = Moon Cliffs
+| subloc1 = Eclipse Tower (Left)
+| descrip =
+
+| speech =
+:''"Shadow is the cruelest art, breeding shapes out of the formless mist, mixing memory and desire, stirring dull thoughts with fervid mana. I will show you fear in a handful of spells."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+Covers all bellow in the shadow of its mighty branches.
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Damage}} At the beginning of every fifth round, Shadow of the Land will interrupt with {{Link|Spell|Power Nova}} dealing damage based on how many Laughing Calaca minions are in the duel.
+**''"My Shadow brings ruin to all!"'' - No Minions: Deals '''400''' Balance damage.
+**''"This Undead doubles your doom!"'' - 1 Minion: Deals '''800''' Balance damage.
+**''"Every soul feeds the power of my Shadow!"'' - 2 Minions: Deals '''1,600''' Balance damage.
+**''"Undead darkness fuels my Shadow!"'' - 3 Minions: Deals '''3,200''' Balance damage.
+**{{Link|Spell|Unbalance}} on the boss can dispel this cheat.
+*{{Icon|Minion}} ''"Rise from the Dead!"'' - He will randomly summon another minion after any of them are defeated.
+
+| spellnotes =
+*The Shadow of the Land uses a version of Shadow Sentinel with '''+15''' Backlash.
+
+| casts =
+Shadow Sentinel MOB;
+Fortify;
+Infallible;
+Volcanic Shield;
+Legion Shield (-35%);
+Plague (-25%);
+Death Trap (+35%);
+Doom and Gloom;
+
+| quests =
+Touching Shadow;
+
+| gold =
+279 - 388;
+
+| hats =
+Mouse Knight's Helmet*F9*WMV;
+The Dreamweaver*CR;
+The Stardust*CR*F2*WMV;
+
+| robes =
+Battle-Worn Burrower Armor*F3*WMV;
+Kermes Fire Miner's Tunic*F3;
+Mantis Hunter's Raiment*F7*WMV;
+Mantis Plate of Frostfall*F5*WMV;
+
+| boots =
+
+| athames =
+
+| amulets =
+Mantis Huntress' Pendant*F3*WMV;
+
+| rings =
+
+| wands =
+Scarlet Woolly's Rampage*F3;
+Tygron's Ferocity*F4*WMV;
+
+| decks =
+Gallery of the Woebegone*F8*WMV;
+
+| items =
+Khrysalis Arachna Theme*F2*WMV;
+Khrysalis Combat Theme;
+
+| cards =
+Choke;
+Crystal Spider;
+Death Scarab;
+Disarm;
+Giant Spider;
+Life Scarab;
+Mass Infection;
+Pierce;
+Rat Illusionist;
+Sanctuary*F2*WMV;
+Scarab;
+Scorpion;
+White Rat Magician;
+
+| reagents =
+Black Lotus;
+Blood Moss*F3;
+Bone*F5*WMV;
+Bronze Gear*F5*WMV;
+Copper*F3;
+Deep Mushroom*F7*WMV;
+Draconium*F3;
+Fire Blossom*F5*WMV;
+Golden Pearl;
+Iron;
+Lava Lily*F10*WMV;
+Mist Wood*F5*WMV;
+Mithril;
+Nickel;
+Ore*F11*WMV;
+Orichalcum*F2;
+Pyrite;
+Red Mandrake*F6*WMV;
+Silver;
+Stone Block*F4*WMV;
+Sunstone;
+Titanium;
+Tungsten;
+Turquoise*F4;
+
+| spellements =
+
+| snacks =
+Dr. Jalapeno*F2*WMV;
+Flaming Soup;
+Glowing Dragon Fruit;
+Glowing Star Fruit;
+Goat Cheese;
+Golden Apple*F3*WMV;
+Golden Grapes*F2;
+Gummy Humongofrog*F3;
+King Banana*F2;
+Salmonberry*F2;
+Shiny Tomato;
+Submarine Sandwich*F2*WMV;
+Uni-Corn*F2;
+
+| jewels =
+Big Energy Opal;
+Chipped Mana Opal +10;
+Chipped Mana Opal +11;
+Clear Critical Hematite +10;
+Cracked Defense Opal +4;
+Cracked Defense Ruby +12;
+Fire Cat Ruby;
+Frost Beetle Sapphire;
+Healer Opal;
+Life-Giver Jade;
+Opaque Critical Opal +4;
+Polished Blocking Amethyst +12;
+Polished Critical Jade +11;
+Polished Critical Onyx +11;
+Polished Defense Sapphire +42;
+Polished Defense Sapphire +44;
+Polished Healing Opal +5%;
+Polished Mana Opal +38;
+Slow Leader Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Blue Huckleberries;
+Frozen Fly Trap*F2;
+Key Limes*CR;
+Pink Huckleberries;
+Red Huckleberries;
+Saw Palmetto;
+
+| mounts =
+
+| spells =
+
+}}

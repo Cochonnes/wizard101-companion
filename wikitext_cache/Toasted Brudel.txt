@@ -1,0 +1,251 @@
+{{Stub|verification for the correct ''Trash Pile'' Housing Item that is dropped. See details [http://www.wizard101central.com/forums/showthread.php?514797-Housing-Item-Trash-Pile here.]}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 10,350
+| crecla = Brudel
+| school = Myth
+| school2 = Fire
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+26%;
+
+| outboost =
+120%;
+
+| incboost =
+5% Ice, Storm;
+
+| incresist =
+70% Fire, Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Karamelle
+| location = Candy Corn Farm
+| subloc1 = Candy Corn Silo
+| descrip =
+
+| speech =
+:''"RRRRRRROOOOOOOOOOOAAAAAAAAAARRRRRRRRR!"''
+
+| spellnotes =
+
+| casts =
+Fire Shield;
+Mythblade;
+Pierce;
+Stun;
+Blinding Light;
+Blood Bat;
+Cyclops;
+Athena Battle Sight;
+Snake Charmer;
+Mystic Colossus; 
+Witch's House Call (No Minion);
+Sunbird;
+Burning Rampage;
+Scorching Scimitars;
+Immolate;
+Fire from Above;
+S'more Machine (Tier 3a);
+Raging Bull;
+
+| quests =
+Brudel Legend;
+What's the Farm?;
+
+| gold =
+109 - 276;
+
+| hats =
+Executive Biohazard Hood;
+
+| robes =
+
+| boots =
+
+| athames =
+Producer's Biohazard Knife;
+
+| amulets =
+Executive Cryo Rope; 
+Producer's Insulated Rope;
+
+| rings =
+Specialist Hazmat Ring;
+
+| wands =
+
+| decks =
+
+| items =
+Gumdrop Tree;
+Karamelle City Combat Theme;
+Karamelle Crate;
+Karamelle Forest Combat Theme*F2;
+Karamelle Forest Theme;
+Karamelle Neglected Com Theme*F3;
+Karamelle Rural Theme;
+Licorice Tree;
+Trash Pile;
+Von Trap Estate Poster;
+
+| cards =
+Baby Sunbird;
+Berserk*F2;
+Brilliant Light;
+Doom and Gloom;
+Elemental Blade*F2;
+Elemental Shield;
+Elemental Trap;
+Ether Shield;
+Flute Symphony;
+Mass Death Prism;
+Miniature Bloodbats*F2;
+Putrid Bug Spray;
+Sirens;
+Storm Shield;
+Supreme Sunburst;
+Uncanny Magic;
+Zounds...Bees!;
+
+| reagents =
+Aether*F2;
+Agave Nectar;
+Amber;
+Amber Dust;
+Aquamarine*F3*WMV;
+Braided Vine;
+Brass;
+Bronze Gear;
+Draconium;
+Ectoplasm;
+Fire Blossom;
+Golden Pearl*F2;
+Karamelle Chunk*F3;
+Merle's Whisker;
+Mithril*F2*WMV;
+Nickel;
+Orichalcum;
+Scales;
+Silver;
+Steel*F2;
+Sunstone*F2;
+Tin*F2;
+Titanium*F2;
+Toffee Bean*F4*WMV;
+Tungsten; 
+Turmeric;
+Turquoise;
+
+|spellements =
+Grrnadier*F4*WMV;
+Mockenspiel;
+S'more Machine;
+Shatterhorn;
+Snack Attack;
+Sound of Musicology*F2;
+Tatzlewurm Terror;
+
+| snacks =
+Aztecan Hot Chocolate;
+Beast Wellington; 
+Crackle Jacks Cereal;
+Decimatoes;
+Discord Grape Jelly*F2;
+Dragon Fruit; 
+Eye Candy;
+Glowing Star Fruit*F2;
+Krakamari;
+Pizza;
+Rock and Roll Candy;
+Roly Poly Fishheads;
+Satyr Chow;
+Ships 'n' Queso;
+Sprinkle Cupcake*F2*WMV;
+Squash*F2;
+Veggie Juice;
+
+| jewels =
+Shiny Accurate Citrine +12%;
+Shiny Critical Onyx +16;
+Shiny Defense Amethyst +51;
+Shiny Defense Citrine +50;
+Shiny Health Opal +111;
+Shiny Health Opal +112;
+Shiny Health Opal +114;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+Sparkling Accurate Hematite +13%;
+Sparkling Accurate Ruby +13%;
+Sparkling Blocking Jade +17;
+Sparkling Blocking Onyx +17;
+Sparkling Critical Peridot +17;
+Sparkling Damage Sapphire +27;
+Sparkling Defense Citrine +53;
+Sparkling Defense Hematite +53;
+Sparkling Defense Peridot +54;
+Sparkling Defense Ruby +53;
+Sparkling Defense Ruby +54;
+Sparkling Health Opal +117;
+Sparkling Health Opal +119;
+Sparkling Mana Opal +49;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears;
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper;
+Boiled Peanuts;
+Boom Shroom;
+Bread Fruit Bush*F2;
+Deadly Ninja Fig;
+Fiery Boom Shroom;
+Fish on a Vine;
+Grapes of Wrath*CR*F3;
+Green Snow Apples;
+Honey Sickle;
+Ivy League*CR*F2;
+King Parsley*CR;
+Maltese Tiger Lily;
+Missile Toe;
+Ninja Fig*CR;
+Orange Bell Pepper*CR;
+Pink Huckleberries;
+Purple Snow Apples;
+Red Bell Pepper;
+Red Huckleberries*F3;
+Silver Trumpet Vine*CR;
+Sugar Khrystal*CR;
+Sword Fern*CR;
+Tiger Lily (Seed);
+Ultra King Parsley;
+Ultra Ninja Fig;
+Ultra Snow Apples;
+White Laugh-O-Dil;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

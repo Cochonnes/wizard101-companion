@@ -1,0 +1,323 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 19,815
+| crecla = Unicorn
+| crecla2 = Equine 
+| school = Life
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Fire;
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+38%;
+
+| outboost =
+94%;
+
+| incboost =
+30% Death;
+
+| incresist =
+40% Fire, Ice, Storm, Myth, Balance, Shadow;
+70% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+Huntsman Spider (Balance);
+Huntsman Spider (Life);
+
+| world = Wallaru
+| location = Wobbegong Territory
+| subloc1 = Hostage Cave
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:'''Matilda Collie:''' ''"I told you to get, you lousy neigh-sayer. These are my hostages and they ain't leavin' just cause Prince Mario says so."''
+:'''Luigi di Mario:''' ''"*Yawn* Sorry, threats, boring. Toadies, eat-wait... wait one second. Is that the Wizard? THE Wizard? The one my little bro is always whining about? Luigi di Mario, Prince of House Mario, at your service. Well, I say service. I know, I know, people often go blind basking in my presence. But don't, we've got stuff. Honor and all that. You offended the family Mario on Novus, so I plumbed the depths of a fallen world for toadies..."''
+:'''Huntsman Toadie:''' ''"That's us."''
+:'''Luigi di Mario:''' ''"That's right. To hunt you down and bring you to me. But they Failed. Of course. And I hear you already scrapped my theme park venture. No big deal. I'm the Hunter of Giant Ghosts, Stepper-Onner of Angry Mushroom Things and Stomper of Thwompers. The park was just... a hobby, I guess. Uh-huh, uh-huh, Dingoes, ranchers, disruption *YAWN* Sorry, peasents, boring. So let's fight - Scion of Bartleby vs. Champion of House Mario - legends in the flesh. And, yes, when I defeat you, I will sign your gravestone."''
+
+| cheatnotes =
+*{{Icon|Shadow Pip}} ''"Shadow Pips? *Yawn*"'' - At the beginning of each Round, if a Wizard has a Shadow Pip, Luigi di Mario will cast a Sun Spell to remove all Shadow Pips from all Wizards, and then casts {{Link|Spell|Blinding Light}}.
+**Conviction or Stun Block can be used to block the Stun.
+*{{Icon|Blade}} ''"I use the best Power-ups!"'' - If Luigi di Mario casts a Damage Blade Spell, he will follow it up with one of the following Spells:
+**{{Link|Spell|Balanceblade (+30%)}}
+**{{Link|Spell|Dragonblade}}
+**{{Link|Spell|Lifeblade (+45%)}}
+**{{Link|Spell|Lifespear}}
+*{{Icon|Fire}}{{Icon|Damage}} ''"You bring the Fire, I bring the Flower"'' - Each time a Wizard or enemy in combat takes Fire Damage, he will cast one of the following Spells on a random Wizard:
+**{{Link|Spell|Centaur (Tier 3b)}}
+**{{Link|Spell|Earth Walker (Tier 3b)}}
+**Damage over Time and All Enemy Spells will trigger this cheat multiple times.
+***Damage over Times created from Luigi di Mario's Starspawn will trigger this cheat.
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wallaru
+| tome description =
+The true champion of House Mario. After all, whenever anyone thinks 'Mario,' they immediately think 'Luigi.'
+
+| extract class =
+Equine;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Devotion;
+Rebirth;
+Lifeblade (+40%);
+Life Feint;
+Luminous Weaver (Tier 3b);
+Starspawn (Tier 3b);
+Sacred Charge (Tier 3b);
+Forest Lord;
+Gnomes!;
+
+| quests =
+The Little Prince;
+
+| gold = 
+8 - 58;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Dynamic Enforcer's Amulet;
+Dynamic Protector's Amulet;
+Furious Enforcer's Amulet;
+Furious Protector's Amulet;
+Just Enforcer's Amulet;
+Just Protector's Amulet;
+Legendary Enforcer's Amulet;
+Legendary Protector's Amulet;
+Morbid Enforcer's Amulet;
+Morbid Protector's Amulet;
+Steely Enforcer's Amulet;
+Steely Protector's Amulet*F2;
+Thunderous Enforcer's Amulet*F2;
+Thunderous Protector's Amulet;
+
+| rings =
+Dynamic Enforcer's Ring;
+Dynamic Protector's Ring;
+Furious Enforcer's Ring;
+Furious Protector's Ring;
+Just Enforcer's Ring;
+Just Protector's Ring;
+Legendary Enforcer's Ring;
+Legendary Protector's Ring*F2;
+Morbid Enforcer's Ring;
+Morbid Protector's Ring*F2;
+Steely Enforcer's Ring;
+Steely Protector's Ring*F2;
+Thunderous Enforcer's Ring;
+Thunderous Protector's Ring;
+
+| wands =
+
+| decks =
+
+| items =
+Wallaru Billabong Resort Com Theme;
+Wallaru Billabong Resort Theme;
+Wallaru Doom Moon Combat Theme;
+Wallaru Doom Moon Theme*F2;
+Wallaru Eucalyptus Forest Com Theme*F2;
+Wallaru Eucalyptus Forest Theme;
+Wallaru Hope Springs Theme;
+Wallaru Outback Combat Theme*F2;
+Wallaru Outback Theme;
+Wallaru The Dreaming Combat Theme;
+Wallaru Wobbegong Combat Theme;
+Wallaru Wobbegong Theme;
+
+| cards =
+Arcticzilla;
+Balanceblade;
+Banshee (Tier 2b);
+Boreas Ifrit;
+Cleanse Charm;
+Cyclops (Tier 2b);
+Dark Sprite (Tier 2b);
+Deadly Minotaur;
+Deathblade;
+Empower;
+Evil Snowman (Tier 2b);
+Feint;
+Fire Cat (Tier 2b);
+Fire Elf (Tier 2b);
+Fire Trap;
+Frost Beetle (Tier 2b);
+Ice Trap;
+Iceblade;
+Imp (Tier 2b);
+Life Trap;
+Lifeblade;
+Lightning Bats (Tier 2b);
+Locust Swarm (Tier 2b);
+Mythblade;
+Nature's Wrath (Tier 2b);
+Pierce;
+Raging Bull;
+Reshuffle;
+Rusalka's Wrath;
+Scarab (Tier 2b);
+Scorpion (Tier 2b);
+Snowball Barrage;
+Spirit Blade;
+Spirit Trap;
+Storm Shark (Tier 2b);
+Storm Trap;
+Sunbird (Tier 2b)*F3;
+Thunder Snake (Tier 2b);
+Witch's House Call;
+
+| reagents =
+Bone;
+Brass;
+Bronze Gear;
+Cobalt;
+Copper;
+Ectoplasm*F2;
+Fish Fin;
+Lead;
+Leather Straps;
+Nickel;
+Pyrite;
+Scales;
+Spider Silk;
+Tin;
+Tungsten;
+Turmeric;
+
+| spellements =
+Barbarian's Saga*F2;
+Blast Off!*F2;
+Count Croakula;
+Dark & Stormy;
+Deathly Depths;
+Drop Bear Fury;
+Freeze Ray*F2;
+Glimpse of Infinity;
+Gravestorm;
+Grim Reader;
+Grrnadier;
+Improbable Gaze;
+Lord of the Jungle*F2;
+Mockenspiel;
+Old One's Endgame;
+Phantasmania!;
+S'more Machine;
+Scales of Destiny;
+Shatterhorn*F3;
+Snack Attack;
+Sound of Musicology;
+Starspawn;
+Tatzlewurm Terror;
+Tree of Strife;
+Wobbegong Frenzy*F2*WMV;
+Zand the Bandit;
+
+| snacks =
+Carrot;
+Cracker;
+Dragon Fruit;
+Evil Carrot;
+Fern Jelly;
+Flaming Jalapeno;
+Flaming Pineapple;
+Frosted Cupcake;
+Glowing Dragon Fruit;
+Golden Biscuit;
+Marzipan Maize;
+Misfortune Cookie;
+Nutty Truffle;
+Orange Jalapeno;
+PB Cookie;
+Salty Fish;
+Spicy Drumstick;
+Tamales;
+Wild Strawberry;
+
+| jewels =
+Amazing Archmastery Opal +14 (Square);
+Amazing Blocking Amethyst +22;
+Amazing Blocking Onyx +21;
+Amazing Blocking Peridot +22;
+Amazing Blocking Ruby +21;
+Amazing Blocking Ruby +22;
+Amazing Blocking Sapphire +22;
+Amazing Defense Jade +64;
+Amazing Defense Ruby +64;
+Amazing Defense Sapphire +63;
+Flawless Blocking Amethyst +23;
+Flawless Blocking Citrine +23;
+Flawless Blocking Citrine +24;
+Flawless Blocking Jade +23;
+Flawless Blocking Onyx +23;
+Flawless Blocking Onyx +24;
+Flawless Blocking Ruby +24;
+Flawless Blocking Sapphire +23;
+Flawless Defense Onyx +68;
+Flawless Defense Opal +33;
+Flawless Defense Peridot +67;
+Flawless Defense Peridot +68;
+Flawless Defense Ruby +67;
+Flawless Defense Ruby +68;
+
+| pins =
+Balance Accurate Pin (100)*F2;
+Balance Conversion Pin (150);
+Balance Conversion Pin (160);
+Death Accurate Pin (100);
+Death Conversion Pin (150);
+Death Conversion Pin (160);
+Fire Accurate Pin (100)*F2;
+Fire Conversion Pin (150);
+Fire Conversion Pin (160);
+Ice Accurate Pin (110);
+Ice Conversion Pin (150);
+Ice Conversion Pin (160);
+Life Accurate Pin (100);
+Life Conversion Pin (150);
+Life Conversion Pin (160);
+Myth Accurate Pin (100);
+Myth Conversion Pin (160);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

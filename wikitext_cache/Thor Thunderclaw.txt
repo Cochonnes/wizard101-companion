@@ -1,0 +1,106 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 6,460
+| crecla = Bear
+| school = Life
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Storm, Death;
+
+| incresist =
+30% Fire, Myth;
+
+| outhealing =
+-75%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Marleybone
+| location = Regent's Square
+| subloc1 = Winterized Hall
+| descrip =
+*Defeating Thor Thunderclaw is part of the Novice Ice Weaving quest, ''"Winter is Communicating"''. Wizards can also defeat Thor Thunderclaw as one of their Ice Weaving lessons, which awards the badge, [[Basic:Ice Weaving Badges|Mightier Than Thor]].
+
+| speech =
+:'''{{Link|NPC|Thrym Winterhowl}}''': ''"And there, behind the sleet and the fog and the thunder... was its cause: Thor Thunderclaw."''
+:'''Thor Thunderclaw''': ''"Speaketh my name with awe, creature. Whisper it in stunned dread, preach it with a reverence reserved for the Immortals themselves. For am I not an Immortal's son? Am I not the true heir of a Titan? Am I not thy rightful king?"''
+:'''Thrym Winterhowl''': ''"Nay, thou art but an animal, a beast of the wilds who makes play at civility. No Immortal birthed thee, no Titan wouldst acknowledge thee. But I will happily vanquish thee."''
+ 
+| spellnotes =
+
+| casts =
+Lifeblade (+40%);
+Poisoned Pig;
+Goat Monk (Tier 2b);
+Legend Golem (Tier 2b);
+Hunting Wyrm;
+Earth Walker (Tier 2b);
+Centaur (Tier 2b);
+
+| quests =
+It's the Thor, Fantastic Thor;
+Winter is Communicating;
+
+| gold =
+8 - 22;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents = 
+Weft Yarn;
+Weft Yarn @ 65 Weft Yarn;
+Weft Yarn @ 70 Weft Yarn;
+Wolf Gold Idol (Ice)*F2;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,293 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 11,760
+| crecla = Djinn
+| school = Life
+| startpips = 3
+| powerpips = Yes
+| critical =
+125 Any;
+
+| criticalblock =
+86 Any;
+
+| outpierce =
+2% Any;
+
+| outboost =
+45% Any;
+
+| incboost =
+15% Death;
+
+| incresist =
+30% Life;
+
+| outhealing =
+97%;
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Djinni Guard;
+
+| world = Mirage
+| location = Eerem Palace
+| subloc1 = Eerem Gardens
+| descrip =
+*Uses Pip Conversion.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Renew;
+Legend Shield (-75%);
+Spirit Armor (500);
+Brilliant Light;
+Satyr (990);
+Lifeblade (+40%);
+Life Scarab;
+Luminous Weaver;
+Natural Attack (Life 105-210-315, 85%);
+Life Banshee (275);
+Centaur (610-670);
+Enraged Forest Lord;
+
+| quests =
+Eerkala's Secret;
+
+| gold =
+933 - 2,133;
+
+| hats =
+Alkali Kalpak of Vibrancy*F2*WMV;
+Eerem Headwrap of Clangor;
+Eerem Headwrap of Discovery;
+Eerem Headwrap of Menace*F2;
+Mottoman Helm of Icefall;
+Mottoman Helm of Scruples;
+
+| robes =
+Alkali Armor of Fiction;
+Eerem Raiment of Discovery;
+Eerem Raiment of Menace;
+Mottoman Icefall Uniform;
+Mottoman Uniform of Enigmas;
+Mottoman Uniform of Scruples;
+
+| boots =
+Eerem Givehs of Clangor;
+Eerem Givehs of Discovery;
+
+| athames =
+Eerem Razor of Agony*F2;
+Eerem Razor of Clouds;
+Eerem Razor of Hail;
+Gallant Istanboa Khanjar;
+
+| amulets =
+Eerem Hailstone Talisman;
+Eerem Necklace of Agony;
+Eerem Necklace of Eruption;
+Eerem Talisman of Clangor;
+Eerem Talisman of Menace;
+Istanboa Sandspouts Pendant;
+
+| rings =
+Charred Eerem Band;
+Eerem Band of Discovery;
+Eerem Hailstone Band;
+Eerem Razor of Eruption;
+Eerem Signet of Agony*F2;
+Eerem Signet of Ciphers;
+Eerem Signet of Clouds*F2;
+Eerem Signet of Frostfall*F2;
+Istanboa Sandspouts Signet;
+Istanboa Signet of Enigmas*F2*WMV;
+
+| wands =
+Scorpion Bow of Fervor;
+Scorpion Bow of Lightning;
+Tetrus Baton of Blizzards;
+Tetrus Baton of Sophistry;
+
+| decks =
+Eerem Gallery of Eruption;
+Eerem Gallery of Frostfall;
+Eerem Spread of Pulse;
+Istanboa Array of Enigmas;
+Istanboa Array of Ruin;
+
+| items =
+Mirage Canyon Theme 2;
+Mirage Caravan Theme*F2*WMV;
+Mirage Chronoverge Com Theme;
+Mirage Chronoverge Theme;
+Mirage Den of Thieves Theme;
+Mirage Jungle Theme;
+Mirage Nomad Theme;
+Mirage Spider Speaks Theme;
+
+| cards =
+Age of Reckoning;
+Arcticzilla;
+Ashen Bones*F2*WMV;
+Astraphobia;
+Balefrost;
+Blue Phoenix;
+Crystal Spider;
+Deathspear;
+Dragonspear;
+Fiery Colossus*F2;
+Firespear;
+Katabatic Wind;
+Magma Colossus;
+Mythspear*F2;
+Namaste*F2*WMV;
+Raging Bull*F2;
+Saga of Heroes;
+Sandstone Colossus;
+Shift*F2*WMV;
+Shock Colossus;
+Spirit Spear*F2*WMV;
+Steel Colossus*F2*WMV;
+Stormspear;
+Wings of Fate;
+
+| reagents =
+Aether*F4;
+Agave Leaves;
+Amber Dust*F2*WMV;
+Aquamarine*F3*WMV;
+Astral Shard*F6*WMV;
+Braided Vine*F3*WMV;
+Draconium;
+Fire Blossom*F3*WMV;
+Fish Fin*F3*WMV;
+Glass Sliver*F3*WMV;
+Golden Pearl*F7*WMV;
+Iridium;
+Merle's Whisker;
+Mithril*F8*WMV;
+Scales*F3*WMV;
+Silver*F7*WMV;
+Stardust*F2;
+Steel*F11*WMV;
+Sunstone*F6*WMV;
+Titanium*F2;
+Tungsten*F5*WMV;
+Turquoise*F7*WMV;
+Vine*F3*WMV;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Beast Wellington*F3*WMV;
+Beetle Cream Soda*F5*WMV;
+Chalupacabra*F4*WMV;
+Eye Candy*F4*WMV;
+Frosty Sugar Cubes;
+Green Tomato;
+Hard Boiled Beetle Eggs*F2*WMV;
+High Road Haggis;
+Hot Cross Buns*F5*WMV;
+Jolly Rancher;
+Mustachios*F2;
+Rhubarbed Wire*F4;
+Satyr Chow*F4*WMV;
+Ships 'n' Queso*F5*WMV;
+Veggie Juice*F7*WMV;
+
+| jewels =
+Lustrous Accurate Jade +11%;
+Lustrous Blocking Onyx +13;
+Lustrous Blocking Ruby +13;
+Lustrous Damage Jade +23;
+Lustrous Defense Citrine +45;
+Magnify Opal;
+Polished Blocking Amethyst +12;
+Polished Blocking Citrine +12;
+Polished Blocking Hematite +11;
+Polished Blocking Peridot +12;
+Polished Critical Amethyst +11;
+Polished Critical Citrine +11;
+Polished Critical Onyx +11;
+Polished Damage Peridot +21*F2*WMV;
+Polished Damage Sapphire +21;
+Polished Defense Citrine +43*F2;
+Polished Defense Citrine +44;
+Polished Defense Peridot +43;
+Polished Defense Peridot +44*F3*WMV;
+Polished Defense Ruby +44*F2*WMV;
+Polished Defense Sapphire +43;
+Polished Piercing Citrine +6%;
+Polished Piercing Sapphire +6%;
+Radical Opal;
+Shiny Blocking Peridot +16;
+Shiny Critical Citrine +16;
+Shiny Critical Peridot +16;
+Shiny Damage Jade +26;
+Shiny Damage Peridot +26;
+Shiny Damage Ruby +26;
+Shiny Defense Amethyst +49;
+Shiny Defense Citrine +50;
+Shiny Defense Peridot +51;
+Shiny Defense Sapphire +52;
+Shiny Health Opal +111*F2;
+Shiny Mana Opal +45;
+Shiny Mana Opal +47;
+Shiny Mending Opal +6%;
+
+| pins =
+
+| pets =
+MaCaw*CR*F2*WMV;
+
+| seeds =
+Bell Pepper;
+Boiled Peanuts;
+Boon Tree*CR;
+Bread Fruit Bush;
+Cornbread Fruit Bush*F2*WMV;
+Dandelion;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Fickle Pickle;
+Fiery Boom Shroom;
+Fish on a Vine;
+Frozen Fly Trap;
+Golden Couch Potatoes;
+Key Limes*CR;
+King Parsley*CR;
+Laugh-O-Dil;
+Maelstrom Snap Dragon;
+Missile Toe;
+Moon Flower;
+Ninja Fig*CR;
+Pink Huckleberries;
+Pink Laugh-O-Dil;
+Queen Crape Myrtle*F2;
+Rye Bread Fruit Bush;
+Saw Palmetto*F2;
+Silver Trumpet Vine*CR;
+Snap Dragon;
+Snow Apples;
+Sour Fickle Pickle*F2*WMV;
+Tiger Lily (Seed);
+Venus Fly Trap;
+White Laugh-O-Dil;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

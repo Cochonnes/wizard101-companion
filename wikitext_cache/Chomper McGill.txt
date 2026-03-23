@@ -1,0 +1,198 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,770
+| crecla = Shark
+| school = Storm
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Cutthroat;
+
+| world = Zafaria
+| location = Baobab Market
+| subloc1 = Telegraph Box (Zafaria)
+| descrip =
+During the [[Basic:Five B.O.X.E.S.|Five B.O.X.E.S. Event]], Chomper McGill can be found in the Telegraph Box (Zafaria) instance.
+*As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"Oy, this is a Cutthroat place. Who let you in here? I don't like your looks. Whaddya want? Speak fast before I bite your face off. The Maestro? Yeah, I've heard of him. He's been stirrin' things up. Looking for a couple a, whaddyacall'ems, troublemakers. Posted a big bounty for their capture, in fact. Didn't say why, but I don't think you'll have time to care!"''
+
+| spellnotes =
+
+| casts =
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 145-285-435);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Water Efreet (-90%);
+Tempest;
+
+| quests =
+The Android Invasion;
+
+| gold =
+88 - 245;
+
+| hats =
+Courageous Grower's Hat*F3;
+Greenwarden's Brilliant Mask (Level 70+)*CR;
+Greenwarden's Energetic Mask (Level 60+)*CR;
+Greenwarden's Energetic Mask (Level 70+)*CR;
+Greenwarden's Peaceful Mask (Level 70+)*CR;
+Hood of Chieftain's Honor;
+Hood of the Forgotten;
+Hot-Tempered Chieftain's Mask;
+Turban of the Olyphants;
+
+| robes =
+Fire Valley Outfit;
+Fire-Feather Robes;
+Graveyard Shift;
+Greenwarden's Energetic Shroud (Level 60+)*CR;
+Shaman's Mythic Armor;
+Shaman's Winter Protection;
+Tunic of Darajani Honor*F2;
+
+| boots =
+Doctor's Firestorm Walkers;
+Greenwarden's Energetic Boots (Level 70+)*CR;
+Greenwarden's Peaceful Boots (Level 70+)*CR;
+Hot and Cold Crushers;
+Hot and Cold Rangers;
+Hunter Prey Rangers;
+
+| athames =
+
+| amulets =
+
+| rings =
+Koko's Smoky Circle;
+Mandisa's Star Stone;
+Shaka's Lightning Loop;
+Tanei's Ghost Ring;
+
+| wands =
+Greenwarden's Brilliant Staff (Level 70+)*CR;
+Greenwarden's Energetic Staff (Level 70+)*CR;
+Greenwarden's Peaceful Staff (Level 70+)*CR;
+
+| decks =
+
+| items =
+Bamboo Fountain;
+
+| cards =
+Clockwork Spider*F3*WMV;
+Efreet*F2*WMV;
+Enfeeble (-3)*F2*WMV;
+Flute Symphony @ Flute Symphony (Wyvern's Hoard Pack)*F4*WMV;
+Forest Lord;
+Frozen Armor*F4*WMV;
+Infallible;
+Insane Bolt*F4*WMV;
+Legion Shield*F4*WMV;
+Leviathan*F2;
+Medusa;
+Polymorph Colossus;
+Polymorph Elemental (Fire)*F2;
+Polymorph Elemental (Storm);
+Polymorph Treant;
+Ra;
+Skeletal Dragon*F4*WMV;
+Snow Angel;
+Storm Efreet*F6*WMV;
+Stun Block;
+Supercharge*F6*WMV;
+Triage;
+Zounds...Bees! @ Zounds...Bees! (Wyvern's Hoard Pack);
+
+| reagents =
+Bronze;
+Cobalt;
+Nickel;
+Sonic Spring*F4*WMV;
+Spider Silk*F2;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Flaming Soup;
+Flapjacks;
+Goat Cheese*F2;
+Golden Grapes;
+Gummy Humongofrog;
+Jelly Baby;
+King Banana*F2;
+Kola Nuts;
+Spicy Drumstick*F2;
+Submarine Sandwich*F2*WMV;
+
+| jewels =
+Attentive Opal;
+Big Rally Opal;
+Catch Opal;
+Fire Dragon Ruby;
+Intrepid Opal;
+Opaque Accurate Citrine +8%;
+Opaque Blocking Citrine +7;
+Opaque Blocking Onyx +7;
+Opaque Blocking Ruby +7;
+Opaque Critical Sapphire +7;
+Opaque Piercing Sapphire +4%;
+Plain Damage Sapphire +16;
+Plain Defense Ruby +32;
+Storm-Eye Amethyst;
+Super Hurry Opal;
+
+| pins =
+
+| pets =
+Treant*F2;
+
+| seeds =
+Burning Snap Dragon;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR*F3*WMV;
+Fickle Pickle;
+Helephant Ears;
+Ninja Fig*CR*F3;
+Orange Dandelion;
+White Desparagus;
+White Laugh-O-Dil;
+
+| mounts =
+Orange Fairy Wings*F3*WMV;
+
+| spells =
+
+}}

@@ -1,0 +1,223 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 140,000
+| crecla = Undead
+| school = Storm
+| cheats = Yes
+| shadowslots = 4
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+27%;
+
+| outboost =
+110%;
+
+| incboost =
+5% Myth;
+
+| incresist =
+50% Storm;
+
+| outhealing =
+45%;
+
+| inchealing =
+50%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Renegade Druid (Moon);
+Renegade Druid (Star);
+Renegade Druid (Shadow);
+
+| world = Wizard City
+| location = The Catacombs
+| subloc1 = Crannoc Dorcha
+| badge = Renegade Wrangler
+| lootchest = Renegade Druid Chest
+| descrip =
+Renegade Druid is the final Boss in the ''Crannoc Dorcha'' Instance.
+
+| speech =
+:''"Wait... You are the Great Tree's Scion? I have grown far beyond the paltry powers I once sought! I pity you, who are now Bartleby's slave. I shall free you from your misery - and then I shall release an eldritch plague that will consume the Spiral!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+All he ever wanted was to be Bartleby's Scion. But he couldn't open the fancy door, so he went a little nuts.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"An ambush? I'm unafraid, latecomer!"''  If a Wizard is late joining the duel, he will cast Impede on the late Wizard.
+*{{Icon|Minion}} ''"I unleash my spite upon you!"''  In the beginning of the first Round, casts a Moon Spell to summon the following Minions:
+**{{Link|Creature|Renegade Druid (Moon)}}
+**{{Link|Creature|Renegade Druid (Star)}}
+**{{Link|Creature|Renegade Druid (Shadow)}}
+*{{Icon|Round}} ''"My envy burns, let it burn you!"''  In the beginning of the second Round, casts a version of Shadow Sentinel with 100% intercept.
+*{{Icon|Feint}} ''"Did you really think that would work?"'' If a Feint is placed on Renegade Druid, he will remove all Wards from himself. Casting Mass Feint results in removal of all Wards from Druid Minions as well. If a Feint with Indemnity is placed on Renegade Druid, any Traps or conversions will be removed and only the Feint will remain.
+**The Balance version of {{Link|ItemCard|Feint}} will not trigger this cheat.
+*{{Icon|Minion}} If any of the Minions are defeated before the Renegade Druid, he will cast {{Link|Spell|Rebirth}} and revive any defeated Minions at the end of the Round. 
+'''Interrupt Cycle'''
+
+This cycle repeats every 12 Rounds.
+*{{Icon|Round}} ''"My rage is free - it will destroy you!"''  At the end of the fourth Round in this cycle, '''Renegade Druid (Star)''' will cast an AoE version of one of the following Auras:
+**{{Link|Spell|Brace}}
+**{{Link|Spell|Quicken}}
+**{{Link|Spell|Vengeance}}
+*{{Icon|Round}} ''"My spite will fuel my powers!"''  At the end of the eighth Round in this cycle, '''Renegade Druid (Shadow)''' will cast an AoE version of {{Link|Spell|Donate Shadow}}, giving a Shadow Pip to all his allies.
+*{{Icon|Round}} ''"Brace yourself, Scion!"''  At the end of the twelfth Round in this cycle, '''Renegade Druid (Moon)''' will attack each Wizard with one of the following spells:
+**{{Link|Spell|Shift Grendel}}
+**{{Link|Spell|Shift Dread Paladin}}
+**{{Link|Spell|Shift Piscean}}
+**{{Link|Spell|Shift Ogre}}
+**{{Link|Spell|Shift GreenOak}}
+**{{Link|Spell|Shift Sugar Glider}}
+**{{Link|Spell|Shift Thornpaw}}
+
+| spellnotes =
+*Casts an Aegis-protected Stormspear and Stormblade (+30%).
+
+| casts =
+Dark Nova;
+Brace;
+Stormspear;
+Weakness (-30%);
+Healing Current;
+Stormblade (+30%);
+Supercharge;
+Storm Prism;
+Windstorm (+25%);
+Cleanse Charm;
+Wild Bolt;
+Natural Attack (Storm 125-250-375-500);
+Shadow Sultan;
+Gloambugs!;
+Rusalka's Flood;
+Storm Lord (775);
+Sirens (965);
+Tempest (85);
+
+| quests =
+Return to Avalon;
+Tempus Fugitives;
+
+| gold =
+1,510 - 1,836;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Dragonspyre Vanguard's Dagger;
+Vanguard's Balanced Dagger;
+Vanguard's Deadly Dagger;
+Vanguard's Fiery Dagger;
+Vanguard's Icy Dagger;
+Vanguard's Mythic Dagger;
+Vanguard's Vibrant Dagger;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Brain Jar;
+Ginormous Apple;
+Mystic Pizza;
+Roasted Drumstick;
+Watermelon Slice*F2*WMV;
+WC Catacombs Theme;
+WC Catacombs Combat Theme;
+WC Drains Combat Theme;
+WC Drains Theme;
+WC Elsewhere Combat Theme*F2*WMV;
+
+| cards =
+Darkwind;
+Donate Power;
+Minotaur;
+Mutate Snowman (Storm);
+Wyldfire;
+
+| reagents =
+Alchemical Crystals*F2*WMV;
+Alchemical Extract*F12*WMV;
+Alchemical Salts*F4*WMV;
+Antique Coins;
+Aquamarine;
+Black Pearl*F2*WMV;
+Blood Moss*F2*WMV;
+Cobalt;
+Ectoplasm*F2*WMV;
+Fossil;
+Scales;
+Shell;
+Spider Silk;
+Spring;
+Sunstone;
+Tin*F3*WMV;
+
+| spellements =
+Daybreaker;
+
+| snacks =
+Beast Wellington*F2*WMV;
+Bread Fruit Fruit;
+Decimatoes;
+Discord Grape Jelly;
+Drumstick*F2*WMV;
+Eye Candy;
+Fern Jelly;
+Glowing Taffy*F2*WMV;
+Hot Cross Buns*F2*WMV;
+Pizza;
+Satyr Chow*F2*WMV;
+Sprinkle Cupcake*F2;
+Squash;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Burning Snap Dragon;
+Evil Snow Peas;
+Golden Couch Potatoes;
+Orange Dandelion;
+Purple Bell Pepper;
+Saw Palmetto;
+
+| mounts =
+
+| spells =
+
+}}

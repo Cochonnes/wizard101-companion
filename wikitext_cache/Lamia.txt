@@ -1,0 +1,123 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 10,880
+| crecla = Shark
+| school = Death
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Storm Shark;
+
+| world = Wizard City
+| location = Atlantea
+| subloc1 = House of Lost Sailors
+| descrip =
+Two additional Storm Sharks will appear if more than two Wizards are present.
+
+| speech =
+:''"A mouth-breather in my home!  What a splendid surprise.  It has been some time since I've worked up an appetite."''
+
+| cheatnotes =
+*{{Icon|Global}} On the first Round, Lamia will cast a '''+35%''' Death Damage Global Spell.
+*{{Icon|Global}}''"You are not the master down here!"'' - If the Global is replaced, she will re-cast her Global.
+**{{Link|Spell|Strangle}} will dispel this cheat.
+**{{Icon|Damage}}''"You are slow to take in the world around us!"'' - If you have not tried to replace this Global (Globals don't need to stay active), she will cheat-cast Scarecrow, that deals 620 Health Steal Damage to all enemies and returns half to the caster approximately every four Rounds.  However, from the 30th Round onward, she will cast the Scarecrow regardless of whether you have tried to replace her Global or not.
+
+| spellnotes =
+
+| casts =
+Vengeance;
+Virulent Plague;
+Deathblade (+40%);
+Curse;
+Death Trap;
+Feint;
+Natural Attack (Lamia);
+Lord of Night;
+Deer Knight;
+Skeletal Pirate;
+Wraith;
+Scarecrow;
+
+| quests =
+Under the Sea;
+
+| dropnotes =
+When a Wizard has not unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge and has completed the '''{{Link|Quest|Sisyphus is Unhappy}}''' {{Icon|Swole Like Sisyphus}} Quest, the following drops will be guaranteed:
+*{{Icon|Spellement}} 1-2 Aquila Spellements of '''any''' School
+
+If a Wizard already has the Hero of Avalon Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of Atlantea to acquire a [[Item:Level Scaling Elixir - 70|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+1 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

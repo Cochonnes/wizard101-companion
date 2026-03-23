@@ -1,0 +1,244 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 7,840
+| crecla = Qhat
+| school = Fire
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+2%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Ice;
+
+| incresist =
+30% Fire;
+
+| inchealing =
+
+| outhealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+House Tabbi Warrior
+
+| world = Mirage
+| location = Caterwaul Canyons
+| subloc1 = Lord's Retreat
+| descrip =
+*Uses Pip Conversion.
+
+| speech =
+:''"I knew it would eventually come to this. I might have helped you, you know. [[:NPC:Pol Atraydies|Atraydies]] will only do so if it suits the {{Link|Creature|Binny Jezzerit}}. I realize it would be impossible for me to remain lord at this point, but I will not compromise. Let us delay the inevitable no further."''
+
+| spellnotes =
+
+| casts =
+Eruption;
+Furnace;
+Glacial Shield (-75%);
+Backdraft (+20%);
+Choke;
+Fire Beetle;
+Natural Attack (Fire 120-240-360, 70%);
+Meteor Strike (355-395);
+Scald (567);
+Fire Dragon (495+395);
+Rain of Fire;
+
+| quests =
+The Claim and the Fury;
+
+| gold =
+212 - 799;
+
+| hats =
+Aridian Helm of Dunestorms;
+Aridian Helm of Numbing;
+Aridian Helm of Strife;
+Aridian Helm of Thriving;
+Helm of the Aridian Sun;
+Rubal Kufiya of Loyalty*F2*WMV;
+Wayfarer's Khalat of Grit;
+
+| robes =
+Aridian Armor of Strife;
+
+| boots =
+Aridian Shoes of Splendor;
+Wayfarer's Galesh of Repine;
+
+| athames =
+Rubal Janbiya of Cessation;
+Rubal Janbiya of Frostbite;
+Rubal Thunder Janbiya;
+Viper Edge of Dunestorms;
+Viper Edge of Numbing;
+Viper Edge of Splendor;
+
+| amulets =
+Rubal Locket of Frostbite;
+Rubal Locket of Lightning;
+Rubal Necklace of Bitterness;
+Rubal Necklace of Illusions;
+Rubal Necklace of Loyalty;
+
+| rings =
+Flameforged Rubal Band;
+Rubal Band of Formation;
+Rubal Seal of Loyalty;
+Viper Ring of Strife;
+
+| wands =
+Burning Sands of Alkali Bow;
+Conscript Tabar of Delusion;
+Restrictor Wand of Destiny;
+
+| decks =
+Viper Cards of Numbing;
+
+| items =
+Mirage Canyon Combat Theme*F2*WMV;
+Mirage City Tense Theme;
+Mirage City Theme 2;
+Mirage Desert Combat Theme;
+Mirage Magic Carpet Theme;
+Mirage Nomad Theme*F2;
+Mirage Serpent Theme;
+
+| cards =
+Counterforce;
+Magma Colossus;
+Mass Myth Prism;
+Mass Triage;
+Mutate Banshee (Sun);
+Mutate Helephant (Ice);
+Mutate Hound (Ice);
+Mutate Kraken (Fire);
+Mutate Kraken (Sun);
+Mutate Wyvern (Fire);
+Mutate Wyvern (Storm);
+
+| reagents =
+Ancient Scroll*F3*WMV;
+Antique Coins*F4*WMV;
+Black Pearl*F2*WMV;
+Blood Moss*F4*WMV;
+Brass*F2*WMV;
+Bronze Gear*F3*WMV;
+Cobalt;
+Ectoplasm*F3;
+Nickel*F3;
+Scales;
+Spider Silk*F3;
+Spring*F2*WMV;
+Tin*F2*WMV;
+Turmeric*F2*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington;
+Chalupacabra*F2;
+Chili Cheese Fries*F2;
+Chili Peppers*F2*WMV;
+Delicious Cookie*F3*WMV;
+Eye Candy;
+Hard Boiled Beetle Eggs*F3;
+Hot Cross Buns*F2;
+Huge Ice Cream;
+Large Ice Cream;
+Mustachios;
+Satyr Chow*F2;
+Sprinkle Cupcake;
+Super Cold Popsicle*F2*WMV;
+Veggie Juice*F2*WMV;
+Wheat Cracker;
+
+| jewels =
+Lustrous Accurate Jade +11%;
+Lustrous Blocking Citrine +13;
+Lustrous Blocking Jade +13;
+Lustrous Blocking Peridot +13;
+Lustrous Blocking Sapphire +13;
+Lustrous Critical Onyx +13;
+Lustrous Damage Jade +23;
+Lustrous Damage Ruby +23;
+Lustrous Defense Amethyst +45;
+Lustrous Defense Jade +45;
+Lustrous Defense Onyx +45;
+Lustrous Defense Peridot +45;
+Lustrous Defense Sapphire +45;
+Lustrous Mana Opal +42;
+Lustrous PIP Opal +10%;
+Shiny Critical Peridot +16;
+Shiny Damage Citrine +26;
+Shiny Damage Onyx +26;
+Shiny Damage Ruby +26;
+Shiny Defense Amethyst +52;
+Shiny Defense Citrine +50;
+Shiny Defense Onyx +50;
+Shiny Defense Onyx +52;
+Shiny Defense Peridot +51;
+Shiny Mana Opal +47*F3*WMV;
+Shiny PIP Hematite +2;
+
+| pins =
+
+| pets =
+MaCaw*CR*F2;
+
+| seeds =
+Angora Bunny Ears*F3;
+Baby Carrots*F3*WMV;
+Bamboo Shoots;
+Bell Pepper*F2;
+Blue Huckleberries;
+Boiled Peanuts;
+Boom Shroom;
+Bread Fruit Bush*F2*WMV;
+Clockwork Flower;
+Cornbread Fruit Bush*F2;
+Deadly Ninja Fig;
+Evil Snow Peas;
+Frozen Fly Trap;
+Golden Couch Potatoes*F5*WMV;
+Grapes of Wrath*CR*F4;
+Helephant Ears;
+Ivy League*CR*F4;
+Key Limes*CR;
+King Parsley*CR;
+Maelstrom Snap Dragon;
+Melting Cheese Tree;
+Pink Huckleberries;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Purple Snow Apples;
+Red Couch Potatoes*F2;
+Red Huckleberries*F4*WMV;
+Rye Bread Fruit Bush;
+Queen Crape Myrtle*F2*WMV;
+Snap Dragon;
+Snow Apples;
+Sugar Khrystal*CR;
+Sword Fern*CR;
+Tiger Lily (Seed);
+Venus Fly Trap;
+White Desparagus;
+White Laugh-O-Dil*F2;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,237 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,325
+| crecla = Bear
+| crecla2 = Polar Bear
+| school = Life
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Njal Silversong;
+Thorfin Treetamer;
+Ulfang Greathorn;
+
+| world = Grizzleheim
+| location = Nastrond
+| subloc1 = Rune Chamber
+| descrip =
+Agnetta Broadblade and three of her war-band allies have been ensorcelled by Eitri Shadowmirk, a member of The Coven, and can only be freed from the enchantment by being defeated.
+
+| speech =
+:'''Eitri Shadowmirk:''' ''"You may have gotten this far, but here is where you stop! My magic has ensnared Dulin's war-band to my will!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+A proud she-bear warrior, her knowledge of ancient lore proves she has brains to match her brawn.
+
+| extract class =
+Polar Bear;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Nature's Wrath;
+Life Banshee (250);
+Seraph;
+Centaur;
+Natural Attack (Life 85x);
+
+| quests =
+The Magic Flute;
+
+| gold =
+204 - 298;
+
+| hats =
+Cold-Kissed Cowl*F2;
+Cowl of Crackling;
+Cowl of Esprit*F2;
+Cowl of Justice*F4;
+Cowl of Spirit Calling*F2;
+Cowl of the Dark Waters;
+Cowl of the One Eyed Crow*F2*WMV;
+Fire-Forged Horns*F3;
+Hardy Horns*F3*WMV;
+Horns of Absolution*F4*WMV;
+Horns of Calamity*F3;
+Horns of Havoc;
+Horns of Winter Dreams;
+Poetic Horns*F2;
+Wintry Horns;
+
+| robes =
+Armor of Elan*F2;
+Armor of the Poets;
+Baneful Armor*F5*WMV;
+Black Ice Armor*F3;
+Fire-Forged Warlord Armor*F3;
+Storm Surge Armor*F4;
+Valiant Armor*F4;
+
+| boots =
+Boots of Ages;
+Boots of Anguish*F4*WMV;
+Boots of Honor;
+Esprit Boots*F2;
+Firewalker Boots;
+Raven's Alert Boots*F2*WMV;
+Raven's Boots of Balance*F6*WMV;
+Raven's Covered Boots*F5;
+Raven's Guarded Boots*F4*WMV;
+Raven's Protected Boots*F7*WMV;
+Raven's Shielded Boots*F6*WMV;
+Raven's Tricksy Boots*F3*WMV;
+Thunderstrike Boots;
+White Frost Boots*F2*WMV;
+
+| athames =
+Bear's Claw of Ice;
+Bear's Claw of Life;
+Bear's Claw of Myth*F2;
+Bear's Claw of Storm*F2*WMV;
+Claw of the Ghost Wolf;
+Claw of the Spirit Wolf*F2*WMV;
+
+| amulets =
+Baleful Star Necklace;
+Dragon Smoke Amulet*F2;
+Valkyrie's Star Necklace;
+Witch's Star Necklace;
+Wyrm's Bite Amulet;
+
+| rings =
+Amethyst Ring of Battle*F3;
+Black Spinel of Battle*F3;
+Golden Ring of Battle;
+Jade Ring of Battle*F3*WMV;
+Peridot Ring of Battle*F2*WMV;
+Ring of Wolf Blood*F2;
+Ring of Wolf Lore*F4*WMV;
+Ruby Ring of Battle*F4;
+Sapphire Ring of Battle*F5*WMV;
+
+| wands =
+Cloudberry Staff*F4*WMV;
+Horns of Winter Dreams*F2;
+Juniper Staff*F2;
+Spear of Bear's Wrath;
+Staff of Absolution;
+Staff of the Boreal Bear;
+Staff of the Rushing Bear*F2*WMV;
+
+| decks =
+
+| items =
+
+| cards =
+Availing Hands*F6*WMV;
+Brilliant Light*F7;
+Elemental Defuse*F2;
+Enfeeble (-3);
+Fuel*F5*WMV;
+Insane Bolt*F3*WMV;
+Minotaur;
+Power Link*F8*WMV;
+Sanctuary;
+Spirit Defuse*F4*WMV;
+Supercharge*F3*WMV;
+Triage*F6*WMV;
+
+| reagents =
+Brass*F3;
+Bronze;
+Bronze Gear*F7*WMV;
+Cobalt*F2;
+Leather Straps*F5*WMV;
+Nickel;
+Steel*F4;
+Tin;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F3*WMV;
+Cauliflowers*F4*WMV;
+Glowing Dragon Fruit*F2*WMV;
+Glowing Star Fruit*F5*WMV;
+Salmonberry*F3*WMV;
+Shiny Tomato*F5;
+Uni-Corn*F5*WMV;
+
+| jewels =
+Aura Crush Citrine;
+Balanceblade Talent Citrine;
+Buff Minion Talent Peridot;
+Hexster Citrine;
+Mass Fire Prism Ruby;
+Mass Ice Prism Sapphire;
+Mass Life Prism Jade;
+Mass Myth Prism Peridot;
+Mass Storm Prism Amethyst;
+Plaguebringer Onyx;
+Plain Blocking Amethyst +6;
+Plain Blocking Citrine +6;
+Plain Blocking Jade +6;
+Plain Blocking Onyx +6;
+Plain Blocking Ruby +6*F2;
+Plain Damage Jade +15;
+Plain Damage Onyx +15*F2;
+Plain Damage Peridot +15;
+Plain Defense Opal +16*F2;
+SnowBorn Sapphire;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Burning Snap Dragon;
+Deadly Fly Trap;
+Fickle Pickle*F3*WMV;
+Helephant Ears*F5*WMV;
+Orange Dandelion*F5;
+Trumpet Vine*F3*WMV;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

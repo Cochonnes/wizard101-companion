@@ -1,0 +1,115 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,000
+| crecla = Unicorn
+| school = Fire
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Ice;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Arcanum
+| location = The Arcanum
+| subloc1 = Arbiter's Arena
+| descrip =
+
+| speech =
+:''"You look out and wonder... where are we? Where is the library? But your thinking is too traditional. As an Initiate, you must let that go. Like the Arcanum itself, this chamber exists in a place of its own, between, beneath, behind, and beyond the rings of the spiral. Likewise, your success as an Initiate depends upon your ability to transcend your knowledge, your skills, and your philosophy. I warn you now. I am here to test the very limits of your magical prowess. I will not pull any punches."''
+
+| spellnotes =
+
+| casts =
+Furnace;
+Fireblade;
+Backdraft;
+Brimstone Revenant;
+Meteor Strike;
+Scald;
+Fire Dragon;
+Rain of Fire;
+
+| quests =
+Raging Bull;
+
+| gold =
+63 - 84;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Medium Enchanted Pot*CR;
+Polaris Gulag Combat Theme;
+Polaris Gulag Theme;
+Polaris Mine Combat Theme;
+
+| cards =
+Snowball Barrage;
+Witch's House Call;
+
+| reagents =
+Fire Blossom;
+Golden Pearl*F2;
+Orichalcum;
+Palladium;
+Silver;
+Sunstone*F2*WMV;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Chalupacabra;
+Satyr Chow;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Fish on a Vine;
+Frozen Fly Trap;
+Goose Tree;
+White Laugh-O-Dil;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

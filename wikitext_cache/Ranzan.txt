@@ -1,0 +1,175 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,070
+| crecla = Goliath
+| crecla2 = Insect
+| school = Balance
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+25% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Blackback Soldier;
+
+| world = Zafaria
+| location = Drum Jungle
+| subloc1 = Ranzan's Jungle Clearing
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Zafaria
+| tome description =
+Little known fact about Goliaths: they're omnivorous. They eat plants, meat and old swords.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Elemental Trap;
+Natural Attack (Balance 85-X Pips);
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Chimera;
+Judgement;
+
+| quests =
+Shango's Swords;
+
+| gold =
+94 - 125;
+
+| hats =
+Cold At Night Cover*F3*WMV;
+Elephant Graveyard Shroud*F4*WMV;
+
+| robes =
+Big Sky Outfit*F2*WMV;
+Fire-Feather Robes*F2*WMV;
+Shaman's Winter Protection;
+Tunic of Darajani Honor;
+
+| boots =
+Dancing Queen Dancers*F2*WMV;
+Doctor's Firestorm Walkers;
+Life's Circle Safari Boots*F2*WMV;
+Spider's Storied Wraps;
+
+| athames =
+Berserker's Blade;
+
+| amulets =
+Mirror Shard Charm;
+
+| rings =
+Inyanga's Baobab Loop;
+Kallah's Dread Stone;
+Nergal's Burning Brand*F3*WMV;
+
+| wands =
+Sun's Light Spear*F3*WMV;
+
+| decks =
+Bundle of Ananse's Stories;
+Hand-Chased Box of Thunder*F2*WMV;
+
+| items =
+
+| cards =
+Availing Hands*F5*WMV;
+Elemental Defuse*F2*WMV;
+Empower*F3*WMV;
+Gargantuan*F2*WMV;
+Sniper;
+Spirit Defuse*F2*WMV;
+Unstoppable*F2*WMV;
+
+| reagents =
+Bronze*F2*WMV;
+Leather Straps*F3*WMV;
+Nickel;
+Spider Silk*F2*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Delicious Cookie;
+Dr. Jalapeno;
+Flaming Soup*F2*WMV;
+Flapjacks;
+Glowing Taffy;
+Goat Cheese;
+Golden Apple*F2;
+Golden Grapes;
+Jelly Baby;
+King Banana*F2*WMV;
+Kola Nuts;
+Salmonberry;
+Shiny Tomato*F2;
+Spicy Drumstick;
+Submarine Sandwich;
+Uni-Corn*F2*WMV;
+
+| jewels =
+Deplete Opal;
+Plain Damage Onyx +16;
+Plain Damage Ruby +16;
+Storm Lord Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Cornbread Fruit Bush*F2*WMV;
+Key Limes*CR;
+Orange Bell Pepper*CR*F2*WMV;
+Snap Dragon;
+White Desparagus*F2;
+
+| mounts =
+
+| spells =
+
+}}

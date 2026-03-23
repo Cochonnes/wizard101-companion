@@ -1,0 +1,220 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 2,200
+| crecla = Golem
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Myth;
+
+| incresist =
+70% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Splinterbot;
+Splinterbot;
+
+| world = Marleybone
+| location = Kensington Park
+| descrip =
+The second Boss encountered in Kensington Park, Clonky must be defeated to retrieve a Sprocket Idler needed to repair the Clockwork assistant of the kidnapped {{Link|NPC|H.G. Waggs}}.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Marleybone
+| tome description =
+He chose his name based on the sound of his fists impacting his enemies. Well, he thought it sounded intimidating.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 125 Storm Damage per Pip.
+
+| casts =
+Black Mantle;
+Weakness;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Storm Serpent (155-195);
+Storm Elf (30+210);
+Lightning Bats;
+Evil Snowman (Storm);
+Storm Shark;
+Squall Wyvern;
+Banshee;
+Sunbird;
+
+| quests =
+War of the Weird;
+
+| gold =
+10 - 68;
+
+| hats =
+Abstract Shroud;
+Blended Wool Cap;
+Brisk Cap;
+Cap of Hinderance;
+Cap of Preoccupation;
+Cap of the Banshee;
+Cap of the Inventor;
+Cap of the Unicorn;
+Cat Burglar's Cap*F2;
+Cowl of Arias;
+Cowl of Fiction;
+Cowl of Watchfulness;
+Exclusive Cap*F3*WMV;
+Feline's Charged Hat*F2;
+Hat of Charity;
+Hat of the Eager;
+Headwraps of Anthems;
+Headwraps of the Whim;
+Immersive Cowl;
+Jinxed Hat;
+Meticulous Headwraps;
+Proficient Hat;
+Shaman's Hat;
+Shroud of Deliberation;
+Shroud of Predicament*F2*WMV;
+Shroud of Scruples*F2;
+Silent Canine Cowl;
+Sprightly Hood;
+Winter Canine Cowl;
+
+| robes =
+Abstract Vestment;
+Alluring Robes;
+Benign Robe;
+Boots of Captivation;
+Dexterous Vest*F2*WMV;
+Druidic Tunic*F2;
+Engrossed Robes;
+Fancy Garments;
+Garments of Predicament*F2*WMV;
+Haskarr's Barbarish Tunic*F2;
+High Quality Cloak;
+Light-As-Air Cloak*F3*WMV;
+Marvelous Shroud;
+Proficient Cloak*F2*WMV;
+Robe of Excellence;
+Robe of Superiority;
+Stylish Garments;
+Tunic of Symmetry;
+Vest of Predominance;
+Vestment of Fiction;
+
+| boots =
+Abstract Footwraps;
+Admirable Shoes;
+Benign Slippers;
+Boots of Captivation;
+Boots of Disillusion;
+Boots of the Lithe;
+Exacting Boots;
+Exquisite Slippers;
+Footwraps of Anguish;
+Gripping Boots;
+Nunu's Twisted Slippers;
+Painful Slippers;
+Shoes of Preference;
+Shoes of Sentiments;
+Slippers of Gusto;
+Slippers of the Worrier;
+Systematic Boots*F2*WMV;
+Warbled Shoes;
+
+| athames =
+Informant's Dirk;
+Watchman's Athame
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Deck of Chivalry;
+
+| items =
+Angled Gravemarker;
+Brick Fireplace;
+Carved Pew;
+Crossbone Gravestone*F2*WMV;
+Fire Hydrant;
+Yellow Foodcart;
+
+| cards =
+Black Mantle;
+Ice Wyvern;
+
+| reagents =
+Bronze Gear*F7*WMV;
+Copper;
+Iron;
+Lead;
+Nickel;
+Tin;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn*F6*WMV;
+Golden Peanut;
+Golden Squash;
+Gummy Bloodbat*F2*WMV;
+Large Watermelon;
+Medium Fish*F2*WMV;
+Redskin Peanut*F3*WMV;
+Square Root;
+Square Watermelon*F2*WMV;
+Stinky Cheese;
+Wheat Cracker*F3*WMV;
+
+| jewels =
+Chipped Damage Citrine +8;
+Flawed Damage Opal +5;
+Flawed Health Opal +29;
+Sunbird Ruby;
+Wisp Bonus Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

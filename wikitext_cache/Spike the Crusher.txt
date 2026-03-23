@@ -1,0 +1,182 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 2,800
+| crecla = Cat
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Potbelly;
+Potbelly;
+
+| world = Marleybone
+| location = Royal Museum
+| subloc1 = Big Ben
+| badge = Crusher Crusher
+| lootchest = Spike the Crusher's Chest
+| descrip =
+Spike the Crusher is an optional Boss that Wizards can summon in Big Ben by spilling the three milk bottles encountered throughout the dungeon. Wizards are able to face him without his Minions by first defeating the Potbelly's and then going back to spill the third bottle of milk. 
+
+| speech =
+:'''1st spill:''' ''"Did I just hear someone spill some milk? Don't you do that again! Milk is too good to waste!"''
+:'''2nd spill:''' ''"Ah-oh! That's another one! Do that again and you'll be sorry, milk spiller!"''
+:'''3rd spill:''' ''"Oh, that's it, you're going to pay for that now! Just wait until I get my paws on you, milk waster!"''
+:'''Before battle:''' ''"So, you think that knocking over my bottles is funny? Well, I'm not one to cry over spilled milk. Let me introduce myself. Spike is my name and crushing Wizards is my game."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Snow Shield;
+Weakness;
+Black Mantle;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Ash Bats;
+Fire Elf;
+Sunbird;
+Fire Shark;
+Fire Wyvern (335-395, 4 Pip);
+Heck Hound;
+Leprechaun;
+Banshee;
+
+| quests =
+
+| gold =
+61 - 90;
+
+| hats =
+Brisk Cap;
+Cap of the Unicorn;
+Cat Burglar's Cap;
+Crusher's Hat;
+Crusher's Mysterious Cap*F4*WMV;
+Exclusive Cap;
+Glowing Canine Hat;
+Jinxed Hat;
+Spike's Icicle-Spiked Hat*F2;
+Spike's Mechanical Visor *F3*WMV;
+
+| robes =
+Alluring Robes;
+Cloak of Clarity;
+Cloak of Fascination;
+Crusher's Deathly Robe*F3*WMV;
+Crusher's Winter Vestment*F3*WMV;
+Feline's Invigorating Robe;
+Garment of the Supreme*F2;
+Infernal Drape*CR;
+Robe of Excellence;
+Robe of the Bubble;
+Savvy Vestment*F2*WMV;
+Spike's Robe of the Phoenix*F2*WMV;
+Spike's Vestment of History;
+Tunic of Symmetry;
+Tunic of the Clever*F2;
+Vest of Predominance;
+Vestment of Assistance*CR;
+
+| boots =
+Admirable Shoes;
+Bewitching Shoes;
+Crusher's Dexterous Shoes*F4*WMV;
+Shoes of the Chimera;
+Slippers of the Worrier*F2;
+Spike's Boots of Diplomacy*F4*WMV;
+Spike's Boots of Excellence*F4*WMV;
+Striders of the Verge*CR;
+
+| athames =
+
+| amulets =
+Spike's Amulet of Smiting;
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Crossbone Gravestone*F2;
+Crusher's Milk Bottle*F2;
+Empty Milk Cartons;
+Milk Carton*F3;
+Tin Can;
+
+| cards =
+Ice Trap;
+Regenerate*F2;
+Sandstorm;
+Spirit Armor;
+Storm Trap;
+Vampire;
+
+| reagents =
+Bronze Gear*F5*WMV;
+Copper*F2;
+Iron*F2;
+Leather Straps*F3*WMV;
+Nickel*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Gummy Bloodbat*F2;
+Medium Fish;
+Redskin Peanut*F3*WMV;
+Square Watermelon*F2;
+Stinky Cheese*F2;
+Wheat Cracker;
+
+| jewels =
+Big Energy Opal;
+Chipped Accurate Ruby +3%;
+Chipped Damage Ruby +8*F2*WMV;
+Chipped Defense Amethyst +15;
+Chipped Mana Opal +11;
+Deer Knight Onyx;
+Flawed Defense Citrine +17;
+Flawed Defense Opal +10;
+Flawed Defense Ruby +17;
+Grass Post Opal;
+Time of Legend Peridot;
+
+| pins =
+
+| pets =
+Myth Ghoul*CR;
+White Rat Magician*F5*WMV;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

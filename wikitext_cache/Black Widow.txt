@@ -1,0 +1,206 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,200
+| crecla = Spider
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Brown Recluse;
+
+| world = Marleybone
+| location = Knight's Court
+| subloc1 = Black Widow's Tower
+| descrip =
+*The Black Widow is a Boss found on the far side of Knight's Court in Marleybone and must be defeated in the Quest, Off With Her Head!.
+*Two additional Brown Recluse Minions appear when more than two Wizards are present.
+
+| speech =
+:''"The power of my venom will overtake you. Verily, you will become a tasty morsel for my children!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Marleybone
+| tome description =
+Her mate's disappearance was ruled an accident. She had nothing to do with it! Really!
+
+| extract class =
+Spider;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Black Mantle;
+Sprite;
+Lifeblade;
+Life Trap;
+Imp;
+Leprechaun;
+Nature's Wrath;
+Seraph;
+Sunbird;
+Storm Shark;
+Evil Snowman;
+Natural Attack (Ice 85x, 85%);
+
+| quests =
+Off With Her Head!;
+
+| gold =
+45 - 89;
+
+| hats =
+Black Widow's Fancy Cap*F2*WMV;
+Brisk Cap;
+Cap of the Inventor;
+Cap of the Unicorn;
+Widow's Bewitching Hat*F2*WMV;
+Widow's Charming Cap*F2*WMV;
+Widow's Furious Hat*F2*WMV;
+Widow's Noteworthy Cap*F2*WMV;
+
+| robes =
+Alluring Robes;
+Black Widow's Dandy Robe*F3*WMV;
+Cloak of Clarity;
+Cloak of Fascination;
+Dexterous Vest*F2;
+Garment of the Supreme;
+High Quality Cloak*F2;
+Polished Garments;
+Robe of the Bubble;
+Savvy Vestment;
+Stylish Garments;
+Vestment of Expertise;
+Widow's Bewitching Cloak*F2*WMV;
+Widow's Magnificent Vest*F2*WMV;
+Widow's Refined Robe*F2*WMV;
+
+| boots =
+Boots of the Nucleus;
+Exacting Boots;
+Footwraps of Anguish;
+Opportunists' Sandals;
+Shoes of Sentiments*F2*WMV;
+Shoes of the Chimera*F2*WMV;
+Shoes of the Devoted;
+Shoes of the Windless;
+Slippers of the Worrier;
+Widow's Collected Shoes*F2*WMV;
+Widow's Frenzied Shoes*F2*WMV;
+Widow's Indignant Boots*F3*WMV;
+Widow's Shoes of Fantasia*F4*WMV;
+
+| athames =
+Dream Dagger*F2*WMV;
+Watchman's Athame*F2*WMV;
+Widow's Dirk of Fulfillment*F2*WMV;
+Widow's Engraved Athame*F2*WMV;
+
+| amulets =
+Widow's Red Rising Amulet*F2*WMV;
+
+| rings =
+Ring of Effect;
+Widow's Breakneck Ring*F5;
+Widow's Noteworthy Ring*F3*WMV;
+Widow's Pilfered Ring*F3*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Crossbone Gravestone;
+Snapped Plank;
+Tin Can;
+Well-Traveled Suitcase*F2*WMV;
+
+| cards =
+Dryad*F2*WMV;
+Giant;
+Heck Hound;
+Pacify;
+Satyr;
+Sniper;
+Spirit Armor;
+
+| reagents =
+Copper;
+Iron*F2*WMV;
+Lead;
+Nickel;
+Spider Silk*F3*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn*F3*WMV;
+Gummy Bloodbat;
+Medium Fish;
+Redskin Peanut;
+Square Watermelon*F3*WMV;
+Stinky Cheese;
+Wheat Cracker*F2*WMV;
+
+| jewels =
+Banshee Onyx;
+Cheeky Opal;
+Chipped Damage Peridot +8;
+Chipped Defense Amethyst +15;
+Chipped Defense Peridot +15;
+Cyclops Peridot;
+Death-Proof Onyx;
+Death-Shot Onyx;
+Effervescent Opal;
+Flawed Health Opal +29;
+Flawed Health Opal +30;
+Flawed Mending Opal +2%;
+Gold Miner Opal;
+Locust Swarm Citrine;
+Myth-Eye Peridot;
+Sprite Jade;
+
+| pins =
+
+| pets =
+Black Spider*F2*WMV;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

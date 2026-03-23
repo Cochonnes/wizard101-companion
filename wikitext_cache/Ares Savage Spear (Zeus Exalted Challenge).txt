@@ -1,0 +1,109 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 18,800
+| crecla = Eagle
+| school = Fire
+| cheats = Yes
+| shadowslots = 1
+| startpips = 7
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+25%;
+
+| outboost =
+
+| incboost =
+40% Ice, Storm;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Zeus Exalted Challenge
+| subloc1 = 
+| descrip =
+Ares Savage Spear (Zeus Exalted Challenge) is considered a Minion to {{Link|Creature|Zeus Sky Father (Zeus Exalted Challenge)}}.  All drops are recorded on that page.
+*Either Ares or [[Creature:Poseidon Earth-Shaker (Zeus Exalted Challenge)|Poseidon]] will spawn to occupy the duel circle's second spot.
+
+| speech =
+
+| cheatnotes =
+*At the beginning of the first Round after [[Creature:Hades the Unseen (Zeus Exalted Challenge)|Hades]] or [[Creature:Apollo Bright One (Zeus Exalted Challenge)|Apollo]] used their Natural Attacks, Ares will use his AoE Natural Attack, then {{Link|Spell|Detonate}} all DoT.
+*"''Your underhanded tactics are unbefitting!''" - If a [[:Category:Trap Spells|Trap]] is placed on an enemy, Ares will cheat-cast an {{Link|Spell|Efreet (1,000)}} that applies a -95% Damage Charm on the Wizard who cast the Spell.
+**If Apollo and Zeus have been defeated, this Cheat can be prevented by using {{Link|Spell|Quench}}.
+*''"Such prowess! But I think you can do better."'' - If a Damage Spell is used, Ares will give the Wizard a [[:Category:Blade Spells|Blade]] by casting {{Link|Spell|Dark Pact (+30%)}}.
+*''"We battle on! For Zeus!"'' - If Zeus has been defeated, Ares will use his Natural Attack at the start of each second Round.
+
+| spellnotes =
+
+'''Natural Attack:'''
+*Casts a Spell similar to {{Link|ItemCard|Wrath of Ares}}, dealing 705 Fire Damage to all opponents, and Detonates all Tics, which acts like a Natural Attack.
+
+| casts =
+Furnace;
+Firespear (+10%);
+Fireblade;
+Fire Trap;
+Feint;
+Fire from Above;
+Helephant;
+Fire Dragon;
+Ashen Bones;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,270 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 510
+| crecla = Krokotopian
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Ice;
+
+| incresist =
+50% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Nirini Sentry;
+
+| world = Krokotopia
+| location = Royal Hall
+| subloc1 = Biti's Chamber
+| descrip =
+Biti Nirini is the leader of the Kroks in the Royal Hall of the {{Link|Location|Pyramid of the Sun}}.  After the Kroks woke up, {{Link|NPC|Professor Winthrop}} saw Biti take an ancient tablet which he is sure has vital information about the Order of the Fang.  After Wizards [[Quest:Fragments of a Key|acquire]] a key to his chamber, they go after him to obtain the tablet.
+*Two additional Nirini Sentry Minions appear if more than two Wizards are present.
+*Wizards who are spellweaving into Storm can choose to defeat Biti Nirini as part of the requirements for the Novice Storm Supporter badge.
+
+| speech =
+:''"You are not worthy of standing before me, Wizard. Fall to the floor! Maybe then I shall show mercy on you!"''
+
+| spellnotes =
+
+| casts =
+Weakness;
+Fire Cat;
+Fire Elf (50+210);
+Sunbird;
+Natural Attack (Fire 100x);
+Leprechaun;
+Troll;
+Banshee;
+Scorpion;
+Locust Swarm;
+
+| quests =
+The Final Rubbing;
+Shard Trek;
+Life After Undeath;
+
+| dropnotes =
+When a Wizard has unlocked the '''Wizard City Protector''' {{Icon|Wizard City Protector}} Badge and has not unlocked the '''Mastermind''' {{Icon|Mastermind}} Badge, the following drops will be available:
+*8 Spellements and Treasure Card Spellements will drop each time from the '''Elemental''' (Fire, Ice, Storm, Balance) Schools for their respective rank 1-3 Spells.
+
+| gold =
+11 - 39;
+
+| hats =
+Ancient Circlet*F2*WMV;
+Biti Nirini's Hood*F4*WMV;
+Cap of the Oasis*F3*WMV;
+Charred Cowl;
+Cowl of Summertime*F9*WMV;
+Crystalline Helm;
+Durable Hood*F4*WMV;
+Hat of Figments*F9*WMV;
+Helm of Ingenuity*F9*WMV;
+Helm of Refuge*F2*WMV;
+Helm of the Cyclone*F3*WMV;
+Hood of the Phantom*F14*WMV;
+Novitiate Hat;
+Snowflake Cowl*F2;
+Sweltering Helm*F12*WMV;
+Tempest Cowl*F3*WMV;
+
+| robes =
+Ancient Cloak;
+Blazing Vest*F3*WMV;
+Cloak of Prediction*F7*WMV;
+Cryptkeeper's Cloak*F4*WMV;
+Crystalline Vest*F2*WMV;
+Flowering Mantle*F3*WMV;
+Frigid Vestment*F10*WMV;
+Initiate's Uniform*F4;
+Tunic of Tall Tales*F2;
+Vest of the Cyclone*F2;
+
+| boots =
+Ancient Sandals*F4*WMV;
+Biti Nirini's Torrid Boots*F6*WMV;
+Blazing Boots*F2*WMV;
+Boots of the Cyclone;
+Cryptkeeper's Shoes*F5*WMV;
+Durable Boots*F10*WMV;
+Glacial Slippers*F2;
+Shoes of Adaptation;
+Slippers of Burning Sands*F9*WMV;
+Slippers of the Badlands*F4*WMV;
+Soothsayer's Sandals*F10*WMV;
+Sphinx's Footwraps*F5*WMV;
+Threadbare Boots*F6*WMV;
+
+| athames =
+Dagger of Talent*F3*WMV;
+Glittering Dagger*F2;
+
+| amulets =
+
+| rings =
+Band of the Skies*F5*WMV;
+Cryptkeeper's Band*F3*WMV;
+Flowering Band*F7*WMV;
+Superstitious Band;
+
+| wands =
+Biti's Flamelicked Staff*F6*WMV;
+
+| decks =
+Biti Nirini's Citrine Deck*F7*WMV;
+
+| items =
+Krok Fire Tablet*F9*WMV;
+Krok Hourglass Pillar*F6*WMV;
+Krokotopia Dance Theme*F5*WMV;
+
+| cards =
+Cyclops;
+Death Trap;
+Evil Snowman (Tier 2b)*BR*F11;
+Fire Cat (Tier 2b)*BR*F9;
+Fire Elf*F2;
+Fire Elf (Tier 2b)*BR*F8*WMV;
+Fire Trap;
+Frost Beetle (Tier 2b)*BR*F7;
+Ghoul*F3*WMV;
+Giant*F3;
+Krokotillian*F6*WMV;
+Lightning Bats*F2*WMV;
+Lightning Bats (Tier 2b)*BR*F12*WMV;
+Locust Swarm (Tier 2b)*BR*F5;
+Mutate Cat (Storm);
+Pacify*F2;
+Pixie;
+Power Play;
+Sandstorm;
+Scarab (Tier 2b)*BR*F5;
+Scorpion (Tier 2b)*BR*F5;
+Sniper;
+Snow Serpent*F2;
+Snow Serpent (Tier 2b)*BR*F12*WMV;
+Spirit Armor;
+Storm Shark (Tier 2b)*BR*F6;
+Storm Trap;
+Sunbird (Tier 2b)*BR*F5;
+Thunder Snake (Tier 2b)*BR*F11;
+Time of Legend;
+Troll;
+Vampire*F2;
+
+| reagents =
+Copper*F5*WMV;
+Iron*F10*WMV;
+Leather Straps*F8*WMV;
+Nickel*F9*WMV;
+Pyrite*F13*WMV;
+
+| spellements =
+Evil Snowman*BR*F10;
+Fire Cat*BR*F14*WMV;
+Fire Elf*BR*F12*WMV;
+Frost Beetle*BR*F16*WMV;
+Lightning Bats*BR*F17*WMV;
+Locust Swarm*BR*F12;
+Scarab*BR*F5;
+Scorpion*BR*F5;
+Snow Serpent*BR*F14*WMV;
+Storm Shark*BR*F11*WMV;
+Sunbird*BR*F18*WMV;
+Thunder Snake*BR*F16*WMV;
+
+| snacks =
+Cracker*F6*WMV;
+Green Grapes*F7*WMV;
+Nettle Root*F5*WMV;
+Tiny Fish*F9*WMV;
+
+| jewels =
+Balance-Eye Citrine;
+Blood Bat Peridot;
+Canny Opal;
+Chipped Mana Opal +10;
+Chipped Mana Opal +11;
+Chipped PIP Opal +1%*F2;
+Cracked Accurate Amethyst +2%*F2;
+Cracked Accurate Sapphire +2%;
+Cracked Damage Amethyst +2;
+Cracked Damage Citrine +2;
+Cracked Damage Peridot +2*F3*WMV;
+Cracked Damage Ruby +2;
+Cracked Defense Amethyst +7;
+Cracked Defense Amethyst +12;
+Cracked Defense Citrine +7;
+Cracked Defense Citrine +8;
+Cracked Defense Citrine +11;
+Cracked Defense Citrine +12*F3;
+Cracked Defense Jade +8;
+Cracked Defense Jade +12*F2;
+Cracked Defense Onyx +7;
+Cracked Defense Onyx +8*F2;
+Cracked Defense Onyx +12*F2*WMV;
+Cracked Defense Opal +3;
+Cracked Defense Opal +4;
+Cracked Defense Peridot +8;
+Cracked Defense Peridot +12;
+Cracked Defense Ruby +8*F3*WMV;
+Cracked Defense Ruby +12;
+Cracked Healing Opal +1%;
+Cracked Health Opal +11;
+Cracked Health Opal +12;
+Cracked Mana Opal +8;
+Cracked Mending Opal +1%;
+Cracked Resilient Opal +1%;
+Dark Sprite Onyx*F3*WMV;
+Dead End Opal;
+Death-Away Onyx;
+Death-Boon Onyx;
+Death-Shot Onyx;
+Dirt Post Opal;
+Effervescent Opal;
+Fire Cat Ruby;
+Forceful Opal;
+Frost Beetle Sapphire;
+Healthy Opal;
+Ice-Away Sapphire;
+Ice-Boon Sapphire;
+Ice-Giver Sapphire;
+Imp Jade;
+Mana Boost Opal;
+Myth-Boon Peridot;
+Rally Opal;
+Rugged Opal;
+Scarab Citrine;
+Storm-Giver Amethyst;
+Storm-Shot Amethyst;
+Thunder Snake Amethyst*F2*WMV;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Pink Dandelion*CR*F42*WMV;
+
+| mounts =
+
+| spells =
+
+}}

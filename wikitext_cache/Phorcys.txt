@@ -1,0 +1,131 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 5,550
+| crecla = Water-Lurker
+| school = Myth
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Atlantean Trierarch;
+Atlantean Trierarch;
+
+| world = Wizard City
+| location = Garden of Hesperides
+| subloc1 = Gorgon Nest Cave
+| descrip =
+This Boss is only for Myth School Wizards that have the Quest {{Link|Quest|Hatching a Hero}} to receive the Pet {{Link|Pet|Li'l Medusa}}. Myth School Wizards must fight this Boss solo. This Boss cannot be repeated.
+
+| speech =
+:''"What do we have here... a hero? You must be brave to walk into the Gorgon Nest. Yes, quite brave indeed. And incredibly foolish. Lucky for you, my Gorgon Soldiers aren't mature enough for combat just yet. Unlucky for you, my Kraken Guards and I are!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Mythblade;
+Myth Trap;
+Time of Legend;
+Keeper of the Flame;
+Ninja Pigs;
+Earthquake;
+Humongofrog (400-500);
+Medusa;
+Basilisk;
+Celestial Calendar;
+
+| quests =
+Hatching a Hero;
+
+| gold =
+140 - 160;
+
+| hats =
+Bad Storm Shroud;
+Brave One's Mantle;
+
+| robes =
+Bad Storm Armor;
+Dragonfly Rider's Garment;
+
+| boots =
+Last Wood Defender's Boots;
+Mantis Guard Stonesteppers;
+
+| athames =
+Revenant's Edge of Strife;
+
+| amulets =
+Stinger's Carcanet;
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Death Scarab;
+Frost Giant;
+Orthrus;
+
+| reagents =
+Astral Shard;
+Bone;
+Bronze;
+Bronze Gear;
+Deep Mushroom;
+Fossil;
+Lava Lily;
+Leather Straps;
+Nickel;
+Ore;
+Spider Silk;
+Stone Block;
+Sunstone;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Avocado Milkshake;
+Buttered Bread;
+Large Fish;
+Shiny Tomato;
+
+| jewels =
+Blood Bat Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

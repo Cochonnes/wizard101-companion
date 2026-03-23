@@ -1,0 +1,124 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 13,860
+| crecla = Deer
+| school = Shadow
+| masteries =
+Life;
+
+| shadowslots = 3
+| startpips = 2
+| powerpips = Yes
+| critical =
+221 Any;
+
+| criticalblock =
+248 Any;
+
+| outpierce =
+27%;
+
+| outboost =
+137%;
+
+| incboost =
+None;
+
+| incresist =
+68% Balance;
+
+| outhealing =
+42%;
+
+| inchealing =
+47%;
+
+| stunable = No
+| beguilable = No
+| minion = 
+| world = Lemuria
+| location = Telos
+| subloc1 = Hall of Heroes (Challenge)
+| descrip =
+The Shadoe is considered a Minion to [[Creature:Stallion Quartermane (Challenge)|Stallion Quartermane]]. All drops are recorded on that page.
+
+'''The First Team'''
+*{{Target|Dagger}} [[Creature:Solomon Crane (Challenge)|Solomon Crane]]
+*{{Target|Key}} [[Creature:Buck Gordon (Challenge)|Buck Gordon]]
+*{{Target|Gem}} [[Creature:The Shadoe (Challenge)|The Shadoe]]
+*{{Target|Spiral}} [[Creature:Dog Tracy (Challenge)|Dog Tracy]]
+
+'''The Second Team'''
+*{{Target|Book}} [[Creature:Mandar the Barbarian (Challenge)|Mandar the Barbarian]]
+*{{Target|Chalice}} [[Creature:Duck Savage (Challenge)|Duck Savage]]
+*{{Target|Wand}} [[Creature:Stallion Quartermane (Challenge)|Stallion Quartermane]]
+*{{Target|Potion}} [[Creature:The Bantam (Challenge)|The Bantam]]
+
+| speech =
+
+| spellnotes =
+*Casts Feint (Shadow) that applies a +70% Trap on all enemies and does not apply a Trap on Self.
+*Casts a Chimera (Shadow) dealing 375 Myth, Life, and Death Damage to all enemies.
+
+| casts =
+Legion Shield;
+Bad Juju (Shadow);
+Guiding Light;
+Dryad (Shadow);
+Unicorn (315);
+Shadowblade;
+Bladestorm;
+Feint (Shadow);
+Dark Empower;
+Mana Burn (Shadow);
+Natural Attack (Shadow 105-210-315-420);
+Brimstone Revenant (Shadow);
+Minotaur (Shadow);
+Deer Knight (Shadow);
+Chimera (Shadow);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = The Shadoe
+}}

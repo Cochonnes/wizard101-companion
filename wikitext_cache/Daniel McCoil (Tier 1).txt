@@ -1,0 +1,93 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 1,960
+| crecla = Train Boss
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+50%;
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Housing Instance
+| location = Great Sky Train Robbery Gauntlet
+| subloc1 = Great Sky Train Robbery Gauntlet (Tier 1)
+| descrip =
+Daniel McCoil (Tier 1) is considered a Minion to {{Link|Creature|N. Bison (Tier 1)}}.  All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Death Damage.
+
+| casts =
+Life Shield (-85%);
+Infection;
+Deathblade (+40%);
+Feint (+75%);
+Ghoul (180);
+Vampire (375);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

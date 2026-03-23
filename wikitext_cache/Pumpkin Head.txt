@@ -1,0 +1,259 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 3,040
+| crecla = Undead
+| school = Fire
+| cheats = Yes
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Ice;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Skeletal Retainer;
+
+| world = Wizard City
+| location = Ravenwood
+| subloc1 = Hallowe'en Master Tower
+| descrip =
+Pumpkin Head is the Boss in the Hallowe'en Master Tower during {{Link|Basic|Hallowe'en}}.  Most of the Items he drops are from {{Link|Location|MooShu}} and {{Link|Location|Dragonspyre}}.
+*Two additional Skeletal Retainers appear if more than two Wizards are present.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+He may be the master of the Hallowe'en Master Tower, but he'll always be jealous of his more successful older brother, Turnip Foot.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*''"Less Heals! More Damage!"'' - If a Wizard casts a Healing Spell, he cheat casts {{Link|Spell|Hex}} on the healed Wizard.
+**For group Healing Spells, only the caster receives a Hex.
+**Pet Heals do not trigger this cheat.
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Spirit Armor;
+Smoke Screen;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Sunbird;
+Fire Shark;
+Meteor Strike;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Natural Attack (Fire 100x);
+Heck Hound;
+Minotaur;
+
+| quests =
+
+| dropnotes =
+The Black Cat Treasure Card is a guaranteed drop from this Boss.
+
+| gold =
+127 - 161;
+
+| hats =
+Bonfire Headdress;
+Boo Pumpkin Mask*CR*HOL;
+Cap of Chronicles;
+Cool Pumpkin Mask*CR*HOL;
+Cowl of Morbidity;
+Famous Cap;
+Goofy Pumpkin Mask*CR*HOL;
+Hood of the Vigilant*F4*WMV;
+Industrial Helm;
+Ivy-Wrapped Cap*F3*WMV;
+Kitty Pumpkin Mask*CR*HOL;
+Mantle of the Icicle;
+Mummy Costume Headwraps*CR*HOL;
+Mythological Mantle*F2;
+Nunu's Mask of the Twisted;
+Promethean Hood;
+Reaper's Hood*F2;
+Reinforced Helmet*CR;
+Shroud of the Green;
+Vampire Costume Wig*CR*HOL;
+Veil of Leaves*F3*WMV;
+Veil of Passage;
+
+| robes =
+Arbiter's Raiment;
+Arboreal Robes;
+Coat of the Zephyr*F2;
+Fiery Tunic;
+Final Curtain*F3*WMV;
+Problematic Tunic;
+Robe of Radiance;
+Robe of the Greatest Saga*F3*WMV;
+Shibboleth Smock;
+Smock of the Frost Giant;
+Storm Giant's Surcoat*F3;
+Surcoat of the Charge*CR;
+Terminus Wrap;
+Tunic of the Sphinx*F2*WMV;
+Tunic of Tradition*F2;
+Vampire Costume Coat*CR*HOL;
+Vestment of the Inferno;
+Whirlwind Wrap*F2*WMV;
+
+| boots =
+Boots of the Titan*CR;
+Dragonclaw Boots*F3*WMV;
+Earthrangers;
+Footgear of the North Wind;
+Frost Giant's Boots;
+Legend Walkers;
+Mocassins of the Oracle;
+Rainstorm Waders*F2*WMV;
+Salamander-Hide Shoes;
+Sandals of Lost Aeons*F2*WMV;
+Sandals of Neutrality;
+Sandals of the Generous Earth*F3*WMV;
+Sandals of the Squall;
+Shoes of the Whispering Dark;
+Vampire Costume Boots*CR*HOL;
+
+| athames =
+Claw of Conciliation*F2*WMV;
+Dauntless Dirk*F2*WMV;
+Dirk of Nobles;
+Dragon's Eye Dagger*F3*WMV;
+Dragonblood Dirk;
+Gurtok Mythslayer;
+Searing Knife;
+
+| amulets =
+
+| rings =
+Dragonscale Ring;
+Rime-Edged Ring*F3;
+Ring of Dominance;
+Ring of the Forefathers;
+Seal of the Gallium Paladin*F2;
+
+| wands =
+Sad Pumpkin Staff*CR*HOL;
+Scowling Pumpkin Staff*CR*HOL;
+Weeping Pumpkin Staff*CR*HOL;
+
+| decks =
+
+| items =
+Jagged Rock Shard*F2*WMV;
+Long Corner Wall Ruins*F2*WMV;
+Scorched Tree*F2;
+Short Corner Wall Ruins*F2*WMV;
+Singed Magic Book*F2*WMV;
+Small Corner Wall Ruins;
+
+| cards =
+Black Cat*F20*WMV;
+Dragonflies;
+Pest Zapper;
+
+| reagents =
+Brass*F2;
+Bronze;
+Claw;
+Cobalt;
+Copper*F4;
+Lead*F2;
+Nickel*F3;
+Steel;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F5*WMV;
+Goat Cheese*F4*WMV;
+Golden Grapes*F3*WMV;
+Gummy Humongofrog*F3*WMV;
+King Banana*F4*WMV;
+
+| jewels =
+Blemished Accurate Amethyst +5%;
+Blemished Accurate Citrine +5%;
+Blemished Accurate Jade +5%;
+Blemished Accurate Ruby +5%;
+Blemished Accurate Sapphire +5%;
+Blemished Health Opal +38;
+Blemished Mana Opal +19;
+Crystallize Sapphire;
+Flawed Damage Onyx +10;
+Flawed Defense Amethyst +17;
+Flawed Defense Onyx +20*F2;
+Flawed Defense Sapphire +20;
+Mass Ice Prism Sapphire;
+Mend Minion Talent Peridot;
+Plain Blocking Citrine +6;
+Plain Blocking Jade +6;
+Plain Blocking Onyx +6;
+Plain Damage Amethyst +15;
+Plain Damage Citrine +15;
+Plain Damage Jade +15;
+Plain Damage Onyx +15;
+Plain Defense Opal +16;
+Rage of Winter Sapphire;
+Strong Talent Opal;
+Tower Shield Sapphire;
+
+| pins =
+
+| pets =
+Black Cat*CR*HOL;
+Ghost Dragon*CR*HOL;
+Nightmare*CR*HOL;
+
+| seeds =
+Deadly Fly Trap*F4*WMV;
+Fiery Boom Shroom*F3*WMV;
+King Parsley*CR;
+Maelstrom Snap Dragon*F3*WMV;
+Pink Dandelion*CR*F3*WMV;
+White Laugh-O-Dil*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

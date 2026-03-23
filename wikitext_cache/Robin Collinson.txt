@@ -1,0 +1,118 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 17,140
+| crecla = Vampire
+| crecla2 = Undead
+| school = Death
+| school2 = Balance
+| startpips = 6
+| powerpips = Yes
+| critical =
+596 Any;
+
+| criticalblock =
+510 Any;
+
+| outpierce =
+28%;
+
+| outboost =
+137%;
+
+| incboost =
+30% Life;
+
+| incresist =
+43% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+73% Death;
+
+| outhealing =
+13%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Mortal Plain
+| subloc1 = Shadowy House
+| descrip =
+Robin Collinson is considered a Minion to {{Link|Creature|Jackson Daytona}}. All drops are recorded on that page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Darkmoor
+| tome description =
+Ever since becoming Demimortal, he's become more subdued, dull even, so dull it's his voice drains the energy out of you.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Magnify;
+Elemental Defuse;
+Spirit Defuse;
+Balanceblade;
+Hex;
+Steal Pip;
+Monster Mash;
+Mighty Judgement;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

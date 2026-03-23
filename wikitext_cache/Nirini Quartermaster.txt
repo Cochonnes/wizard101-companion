@@ -1,0 +1,235 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 515
+| crecla = Krokotopian
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Ice;
+
+| incresist =
+50% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Flame Servant;
+
+| world = Krokotopia
+| location = Chamber of Fire
+| subloc1 = Quartermaster's Lair
+| descrip =
+Working with {{Link|NPC|Assistant Danforth}} to find a way into the {{Link|Location|Palace of Fire}}, Wizards discover that the last piece of the Key Stone to unlock the doors to the palace is held by the Nirini Quartermaster.  Located in a chamber at one of the ends of the Chamber of Fire's far hall, Wizards must enter his lair to take the final piece so that they can accompany {{Link|NPC|Professor Winthrop}} to the map room inside of the palace.
+
+Two additional Flame Servants will appear if more than two Wizards are present.
+
+| speech =
+:''"I see my men could not take you down. I guess if you want something done right..."''
+
+| spellnotes =
+
+| casts =
+Weakness;
+Fire Cat;
+Fire Elf (50+210);
+Sunbird;
+Natural Attack (Fire 100x);
+Leprechaun;
+Troll;
+Banshee;
+Scorpion;
+Locust Swarm;
+
+| quests =
+Quarter Master;
+
+| dropnotes =
+When a Wizard has unlocked the '''Wizard City Protector''' {{Icon|Wizard City Protector}} Badge and has not unlocked the '''Mastermind''' {{Icon|Mastermind}} Badge, the following drops will be available:
+*8 Spellements and Treasure Card Spellements will drop each time from the '''Elemental''' (Fire, Ice, Storm, Balance) Schools for their respective rank 1-3 Spells.
+
+| gold =
+9 - 38;
+
+| hats =
+Cap of the Oasis*F2*WMV;
+Conjurer's Hat*F2*WMV;
+Helm of the Bastion;
+Hood of the Phantom*F2;
+Quartermaster's Cap*F2*WMV;
+The Stalwart Guardian*CR;
+
+| robes =
+Ceremonial Vest*F5*WMV;
+Cloak of Refuge;
+Garments of the Augur*F5*WMV;
+Quartermaster's Vestment*F5*WMV;
+Raiment of the Badlands;
+Robe of Talent;
+Rugged Robe*F3*WMV;
+Runed Vestment*F2;
+Sphinx's Vestment*F4*WMV;
+Tunic of Energy;
+Tunic of Mortality*F3*WMV;
+
+| boots =
+Boots of Imagination*F2;
+Quartermaster's Boots*F2*WMV;
+Shoes of Adaptation;
+Slippers of Burning Sands*F5*WMV;
+
+| athames =
+Cryptkeeper's Shortsword*F8*WMV;
+Dirk of the Wasteland;
+Flamedancer's Athame*F9*WMV;
+Parched Kris*F2*WMV;
+Powerful Stiletto;
+Whirlwind Dagger*F3;
+
+| amulets =
+
+| rings =
+Band of Energy*F6*WMV;
+Band of the Mirage*F2;
+Loop of Talent*F4*WMV;
+Ring of the Badlands*F3*WMV;
+Sparkling Band*F2;
+
+| wands =
+Quartermaster's Wand*F4*WMV;
+
+| decks =
+Mummified Deck*F8*WMV;
+
+| items =
+Axe*F4*WMV;
+Floor Torch;
+Krok Sun Plaque*F2*WMV;
+Red Ancient Statue*F5*WMV;
+
+| cards =
+Banshee*F2*WMV;
+Blizzard;
+Evil Snowman*F2;
+Evil Snowman (Tier 2b)*BR*F7*WMV;
+Fire Cat*F2;
+Fire Cat (Tier 2b)*BR*F9*WMV;
+Fire Elf*F2;
+Fire Elf (Tier 2b)*BR*F10*WMV;
+Frost Beetle*F2;
+Frost Beetle (Tier 2b)*BR*F9*WMV;
+Ghoul;
+Humongofrog;
+Krokotillian*F4*WMV;
+Lightning Bats;
+Lightning Bats (Tier 2b)*BR*F13*WMV;
+Locust Swarm (Tier 2b)*BR*F6*WMV;
+Pixie;
+Scarab;
+Scarab (Tier 2b)*BR*F5;
+Scorpion;
+Scorpion (Tier 2b)*BR*F7*WMV;
+Snow Serpent*F4*WMV;
+Snow Serpent (Tier 2b)*BR*F14*WMV;
+Sprite;
+Storm Shark*F2;
+Storm Shark (Tier 2b)*BR*F2*WMV;
+Strong;
+Sunbird*F2;
+Sunbird (Tier 2b)*BR*F8*WMV;
+Tempest;
+Thunder Snake*F2;
+Thunder Snake (Tier 2b)*BR*F12*WMV;
+Weakness;
+
+| reagents =
+Copper*F2;
+Iron*F2;
+Leather Straps*F2;
+Nickel*F3*WMV;
+Pyrite*F6*WMV;
+Spider Silk;
+
+| spellements =
+Evil Snowman*BR*F22*WMV;
+Fire Cat*BR*F14*WMV;
+Fire Elf*BR*F16*WMV;
+Frost Beetle*BR*F7*WMV;
+Lightning Bats*BR*F11*WMV;
+Locust Swarm*BR*F12*WMV;
+Scarab*BR*F4;
+Scorpion*BR*F7*WMV;
+Snow Serpent*BR*F25*WMV;
+Storm Shark*BR*F17*WMV;
+Sunbird*BR*F21*WMV;
+Thunder Snake*BR*F15*WMV;
+
+| snacks =
+Cracker;
+Green Grapes*F3*WMV;
+Nettle Root*F2*WMV;
+Tiny Fish;
+
+| jewels =
+Adroit Opal;
+Blood Bat Peridot;
+Calculating Opal;
+Check Opal;
+Chipped Mana Opal +10;
+Chipped Mana Opal +11;
+Chipped PIP Opal +1%;
+Cracked Accurate Onyx +2%;
+Cracked Accurate Peridot +2%;
+Cracked Accurate Sapphire +2%;
+Cracked Damage Citrine +2*F2;
+Cracked Damage Onyx +2;
+Cracked Damage Ruby +2;
+Cracked Defense Amethyst +7;
+Cracked Defense Amethyst +12;
+Cracked Defense Citrine +11;
+Cracked Defense Jade +7;
+Cracked Defense Jade +12;
+Cracked Defense Opal +4;
+Cracked Defense Onyx +8;
+Cracked Defense Peridot +7;
+Cracked Defense Peridot +12*F2*WMV;
+Cracked Defense Ruby +12;
+Cracked Defense Sapphire +7;
+Cracked Health Opal +11;
+Cracked Health Opal +13;
+Cracked Health Opal +15;
+Cracked Resilient Opal +1%;
+Dark Sprite Onyx;
+Fire Cat Ruby;
+Frost Beetle Sapphire;
+Grass Post Opal;
+Ice-Eye Sapphire;
+Scarab Citrine;
+Slow Motion Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2;
+Pink Dandelion*CR*F12*WMV;
+
+| mounts =
+
+| spells =
+
+}}

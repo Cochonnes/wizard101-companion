@@ -1,0 +1,164 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 3,120
+| crecla = Kraken
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Myth;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Water Servant;
+Water Servant;
+
+| world = Grizzleheim
+| location = Helgrind Warren
+| descrip =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 130 Storm Damage per Pip.
+
+| casts =
+Myth Shield;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Storm Serpent (155-195);
+Storm Elf (30+210);
+Lightning Bats;
+Storm Shark;
+Kraken;
+Colossus (Storm);
+Tempest;
+Troll;
+Banshee;
+
+| quests =
+
+| gold =
+85 - 123;
+
+| hats =
+Cap of Equilibrium;
+Cap of the Stratosphere;
+Crown of Culmination*F2*WMV;
+Curative Coif;
+Firebloom Cowl;
+Hat of the Gale*F2;
+Headgear of Revival;
+Hood of Combustion*F4;
+Hood of the Invariable;
+Mortal Veil*F2;
+
+| robes =
+Gelid Garments*F2;
+Harbinger's Smock;
+Raiment of Rainfall;
+Thermic Longcoat;
+Vestment of the Nixie;
+
+| boots =
+Boots of the Warlord;
+Erudite Footwear;
+Footgear of Garm;
+Footgear of the Undertow;
+Footwraps of Patience;
+Footwraps of the Efreet;
+Hinterland Wraps*F3;
+Ranger's Boots;
+
+| athames =
+Telluric Stylet*F2*WMV;
+
+| amulets =
+
+| rings =
+Seal of the Valkyrie*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Fancy Tankard*F8*WMV;
+Fish Pot;
+Heavy Dining Table*F4;
+
+| cards =
+Heck Hound;
+Skeletal Pirate;
+Wyldfire;
+
+| reagents =
+Brass;
+Copper;
+Ectoplasm*F3*WMV;
+Iron;
+Lead;
+Nickel;
+Pyrite;
+Spider Silk*F2*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Buttered Popcorn;
+Candy Bar;
+Chocolate Peanut;
+Glowing Rock Candy;
+Meat Soup*F3*WMV;
+Moon Pie*F2*WMV;
+Nettle Root;
+Tasty Biscuit*F2*WMV;
+Tiny Fish*F2*WMV;
+
+| jewels =
+Chipped Accurate Jade +3%;
+Chipped Accurate Onyx +3%;
+Chipped Accurate Sapphire +3%;
+Cracked Damage Onyx +5;
+Cracked Damage Sapphire +5;
+Chipped Defense Jade +13;
+Dream Shield Onyx;
+Gold Miner Opal;
+Lightning Bats Amethyst;
+Volcanic Shield Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Couch Potatoes*CR*F2*WMV;
+Helephant Ears;
+Pink Dandelion*CR*F2*WMV;
+Rye Bread Fruit Bush*F2*WMV;
+Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

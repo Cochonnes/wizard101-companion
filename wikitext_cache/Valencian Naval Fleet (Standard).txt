@@ -1,0 +1,339 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 14,215
+| crecla = 
+| school = Storm
+| school2 = Life
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+Life;
+Death;
+
+| critical =
+660 Storm, Life;
+
+| criticalblock =
+460 Any;
+
+| outpierce =
+26%;
+
+| outboost =
+135% Storm, Life;
+
+| incboost =
+None;
+
+| incresist =
+0% Moon;
+24% Fire, Ice, Storm, Myth, Life, Death, Balance, Sun, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Marleybonian Naval Fleet (Standard);
+Monquistan Naval Fleet (Standard);
+Polarian Naval Fleet (Standard);
+
+| world = Novus
+| location = Doom Moon
+| subloc1 = Invading Fleets (Standard)
+| lootchest = Invading Fleet's Chest (Standard)
+| descrip =
+As the Boss in the battle, all drops and cheats are recorded on this page.
+*For the Challenge version of this battle, see {{Link|Creature|Valencian Naval Fleet (Challenge)}}.
+*{{Link|NPC|Peaceful Merchant Vessels}} will appear after the duel.
+
+| speech =
+
+| cheatnotes =
+*After each Boss is defeated, another random Naval Fleet Boss will respawn in its place. This continues until 4 new Fleets have been summoned.
+**If all four Bosses are defeated in the same round, one will be healed instead of summoning a fourth.
+
+'''{{Link|NPC|Doom Moon}}'''
+*The Doom Moon will charge its laser for each Hanging Effect, and will shoot a laser beam on all enemies after a condition is met.
+*This laser will use the Balanceblade from Marleybonian Naval Fleet's Justiceblade.
+*The laser will be fired per condition met, and then all hanging effects used to meet the condition will be removed.
+**Protections can not prevent removal of any hanging effects.
+
+*'''Gambit Conditions:'''
+**{{Icon|Charm}} - 4 Helpful Charms on Wizards -> Dog Tracy
+**{{Icon|Curse}} - 4 Harmful Charms on Enemies -> Solomon Crane
+**{{Icon|Ward}} - 4 Helpful Wards on Wizards -> Duck Savage
+**{{Icon|Jinx}} - 4 Harmful Wards on Enemies -> Mandar the Barbarian
+**{{Icon|Damage over Time}} - 2 Damage over Time effects on Enemies -> Buck Gordon
+**{{Icon|Heal over Time}} - 2 Heal over Time effects on Wizards -> The Bantam
+**{{Icon|Charm}}{{Icon|Curse}} - 2 Helpful Charms on Wizards and 2 Harmful Charms on Enemies  -> Stallion Quartermane
+**{{Icon|Ward}}{{Icon|Jinx}} - 2 Helpful Wards on Wizards and 2 Harmful Wards on Enemies -> Stallion Quartermane
+**{{Icon|Shadow Pip}} - 2 Uses of Shadow-Enhanced Spells by Wizards -> The Shadoe
+
+Notes: 
+*Charge Up cheats have no function. In order to shoot the Doom Moon laser, the Gambit Conditions must be met.
+*If any Wizard has 4 or more {{Icon|Curse}} or {{Icon|Jinx}}, or 2 or more {{Icon|Damage over Time}} on them, the respective Gambit cheat will activate when another Wizard casts any Hanging Effect on that Wizard. (Needs Confirmation)
+
+'''Dog Tracy''' - ('''4''' {{Icon|Charm}})
+*''"We're fleas biting at a rhino. Need more punch..."'' - Charge Up.
+*''"Power rerouted to weapons!"'' - Deals 6,000 Moon Damage to all enemies and removes all helpful Charms from all Wizards.
+
+'''Solomon Crane''' - ('''4''' {{Icon|Curse}})
+*''"The machines have identified weak points..."'' - Charge Up.
+*''"Target these areas for increased effect!"'' - Deals 6,000 Moon Damage and removes all harmful Charms from all enemies.
+
+'''Duck Savage''' - ('''4''' {{Icon|Ward}})
+*''"Need some help? Your shields need reinforcement..."'' - Charge Up.
+*''"Let's polarize the hull with... bronze!"'' - Deals 6,000 Moon Damage to all enemies and removes all helpful Wards from all Wizards.
+
+'''Mandar the Barbarian''' - ('''4''' {{Icon|Jinx}})
+*''"Bah, only fools fall into traps..."'' - Charge Up.
+*''"By the power of Mandar!"'' - Deals 6,000 Moon Damage to and removes all harmful Wards from all enemies.
+
+'''Buck Gordon''' - ('''2''' {{Icon|Damage over Time}})
+*''"Sorry I'm late. You'll see why..."'' - Charge Up.
+*''"Took a detour for some sabotage."'' - Deals 6,000 Moon Damage to and removes all Damage over Time effects from all enemies.
+
+'''The Bantam''' - ('''2''' {{Icon|Heal over Time}})
+*''"Damage reports from all decks..."'' - Charge Up
+*''"Oh, what's this button do?"'' - Deals 6,000 Moon Damage to all enemies to and removes all Heal over Time effects from all Wizards.
+**Heal over Time effects do NOT have to be on the same Wizard for the condition to be met.
+
+'''Stallion Quartermane''' - ('''2''' {{Icon|Charm}} & '''2''' {{Icon|Curse}})
+*''"Ha-ha! That's how you adventure..."'' - Charge Up.
+*''"Targeting systems engaged!"'' - Deals 6,000 Moon Damage to all enemies and removes all helpful Charms from all Wizards and all harmful Charms from all enemies.
+
+'''Stallion Quartermane''' - ('''2''' {{Icon|Ward}} & '''2''' {{Icon|Jinx}})
+*''"Ha-ha! That's how you adventure..."'' - Charge Up.
+*''"Targeting systems engaged!"'' - Deals 6,000 Moon Damage to all enemies and removes all helpful Wards from all Wizards and all harmful Wards from all enemies.
+
+'''The Shadoe''' - ('''2''' {{Icon|Shadow Pip}})
+*''"I sense fear on those ships. Keep going..."'' - Charge Up.
+*''"The Shadoe Bestows!"'' - Deals 6,000 Moon Damage to all enemies and removes all Shadow Pips from all Wizards.
+
+| spellnotes =
+
+| casts =
+Chaos to Perfection;
+Raindrop Blade;
+Stormblade (+30%);
+Lifeblade (+40%);
+Bunyip's Rage;
+Catalan (Tier 2a);
+Tree of Strife;
+Lord of the Squall (Storm);
+Zand the Bandit;
+Forest Lord;
+
+| quests =
+
+| gold =
+1 - 76;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Bold Dream Reaver Knife*F2;
+Bold Dream Warper Knife*F2;
+Cruel Dream Reaver Knife;
+Cruel Dream Warper Knife*F2*WMV;
+Deft Dream Reaver Knife*F2;
+Deft Dream Warper Knife*F2;
+Fabled Dream Reaver Knife*F3*WMV;
+Fabled Dream Warper Knife*F2;
+Fell Dream Reaver Knife;
+Fell Dream Warper Knife*F4*WMV;
+Fervid Dream Reaver Knife*F3;
+Fervid Dream Warper Knife*F2;
+Fierce Dream Reaver Knife;
+Fierce Dream Warper Knife;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Banshee (Tier 2b)*F4;
+Blood Bat (Tier 2b)*F2*WMV;
+Cyclops (Tier 2b)*F4;
+Dark Sprite (Tier 2b);
+Evil Snowman (Tier 2b)*F3;
+Fire Elf (Tier 2b)*F2*WMV;
+Frost Beetle (Tier 2b)*F2*WMV;
+Ghoul (Tier 2b);
+Imp (Tier 2b);
+Leprechaun (Tier 2b)*F2*WMV;
+Lightning Bats (Tier 2b)*F2*WMV;
+Locust Swarm (Tier 2b)*F4;
+Nature's Wrath (Tier 2b)*F4;
+Scarab (Tier 2b);
+Scorpion (Tier 2b);
+Sunbird (Tier 2b)*F3;
+Troll (Tier 2b);
+
+| reagents =
+Dream Water @ 1 Dream Water*F11*WMV;
+Dream Water @ 2 Dream Water*F13*WMV;
+Titanium;
+
+| spellements =
+Barbarian's Saga*F3*WMV;
+Blast Off!*F7*WMV;
+Bunyip's Rage*F5;
+Count Croakula*F6;
+Dark & Stormy*F8;
+Deathly Depths*F5*WMV;
+Drop Bear Fury*F2;
+Freeze Ray*F4;
+Glimpse of Infinity*F6*WMV;
+Gravestorm*F4*WMV;
+Grim Reader*F3*WMV;
+Grrnadier*F4;
+Improbable Gaze*F4*WMV;
+Lord of the Jungle*F6;
+Mockenspiel*F7;
+Old One's Endgame*F7*WMV;
+Phantasmania!*F2;
+Rainbow Serpent*F4;
+S'more Machine*F7*WMV;
+Scales of Destiny*F6;
+Scion of Death;
+Scion of Fire;
+Scion of Ice;
+Scion of Myth;
+Scion of Storm;
+Shatterhorn*F5*WMV;
+Snack Attack*F8;
+Sound of Musicology*F3;
+Starspawn*F6*WMV;
+Tatzlewurm Terror*F5*WMV;
+Tree of Strife*F4;
+Wobbegong Frenzy*F4;
+Zand the Bandit*F3;
+
+| snacks =
+
+| jewels =
+Death Blade Onyx;
+Disarm Sapphire;
+Feint Citrine;
+Fire Blade Ruby;
+Flawless Accurate Citrine +16%;
+Flawless Accurate Jade +16%;
+Flawless Accurate Onyx +16%*F2;
+Flawless Accurate Ruby +16%;
+Flawless Accurate Sapphire +16%;
+Flawless Mana Opal +61;
+Flawless Mana Opal +62;
+Flawless Mana Opal +63;
+Ice Blade Sapphire;
+Incapacitate Amethyst;
+Moon Shield Opal;
+Myth Blade Peridot;
+Potent Trap Opal;
+Sharpened Blade Opal;
+Star Blade Opal;
+Sun Trap Opal;
+Triage Jade;
+Unearthly Archmastery Opal +45;
+Unearthly Conversion Amethyst +60;
+Unearthly Conversion Citrine +62;
+Unearthly Conversion Jade +62;
+Unearthly Conversion Onyx +62;
+Unearthly Conversion Peridot +61;
+Unearthly Conversion Sapphire +61;
+Unearthly Shadow Hematite +10;
+
+| pins =
+Balance Crushing Pin (160, Death);
+Balance Crushing Pin (160, Life);
+Balance Crushing Pin (160, Myth);
+Balance Crushing Pin (160, Storm);
+Balance Crushing Pin (170, Ice);
+Balance Crushing Pin (170, Myth);
+Balance Disabling Pin (160, Ice);
+Balance Disabling Pin (160, Life);
+Balance Disabling Pin (160, Myth);
+Death Crushing Pin (160, Ice);
+Death Crushing Pin (160, Myth);
+Death Crushing Pin (170, Balance);
+Death Crushing Pin (170, Myth);
+Death Disabling Pin (160, Ice);
+Death Disabling Pin (160, Myth);
+Death Disabling Pin (170, Myth);
+Death Punishing Pin (160, Ice);
+Death Punishing Pin (160, Life);
+Death Punishing Pin (160, Myth);
+Fire Crushing Pin (160, Life)*F3;
+Fire Crushing Pin (160, Myth);
+Fire Crushing Pin (170, Life);
+Fire Disabling Pin (160, Life);
+Fire Disabling Pin (170, Ice);
+Fire Punishing Pin (160, Balance);
+Fire Punishing Pin (160, Life);
+Fire Punishing Pin (170, Myth);
+Ice Crushing Pin (160, Life);
+Ice Crushing Pin (160, Myth);
+Ice Disabling Pin (160, Life);
+Ice Disabling Pin (160, Myth);
+Ice Disabling Pin (170, Life)*F2;
+Ice Disabling Pin (170, Myth);
+Ice Punishing Pin (170, Balance);
+Ice Punishing Pin (170, Myth);
+Life Crushing Pin (160, Balance);
+Life Crushing Pin (160, Ice);
+Life Crushing Pin (160, Myth);
+Life Crushing Pin (170, Myth);
+Life Disabling Pin (160, Balance);
+Life Disabling Pin (170, Myth);
+Life Punishing Pin (160, Death);
+Life Punishing Pin (160, Myth);
+Life Punishing Pin (170, Balance);
+Myth Crushing Pin (160, Balance);
+Myth Crushing Pin (160, Life);
+Myth Disabling Pin (160, Balance);
+Myth Disabling Pin (160, Ice);
+Myth Disabling Pin (160, Life);
+Myth Disabling Pin (170, Balance);
+Myth Disabling Pin (170, Ice);
+Myth Disabling Pin (170, Life)*F2;
+Myth Punishing Pin (160, Life)*F3;
+Myth Punishing Pin (170, Balance);
+Storm Crushing Pin (160, Life);
+Storm Crushing Pin (160, Myth);
+Storm Crushing Pin (170, Life);
+Storm Crushing Pin (170, Myth);
+Storm Disabling Pin (160, Life);
+Storm Disabling Pin (160, Myth);
+Storm Disabling Pin (170, Ice);
+Storm Disabling Pin (170, Myth);
+Storm Punishing Pin (160, Life)*F2;
+Storm Punishing Pin (160, Myth);
+Storm Punishing Pin (170, Balance);
+Storm Punishing Pin (170, Myth);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Valencian Naval Fleet
+}}

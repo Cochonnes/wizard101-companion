@@ -1,0 +1,127 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 13,200
+| crecla = 
+| school = Shadow
+| masteries =
+Storm;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical = 450
+| criticalblock = 450
+
+| outpierce =
+50%;
+
+| outboost =
+200%;
+
+| incboost =
+None;
+
+| incresist =
+100% Any;
+
+| outhealing =
+60%;
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Raid
+| location = Voracious Void
+| subloc1 = Minion Ranch
+| badge = Milligetter
+| descrip =
+*In order to fight this Boss, players must find the {{Link|Reagent|Millispeeder's Key}} from dirt mounds in pet mode. Then the player must find the secret lever located in the Minion Ranch to open the Millispeeder's Gate in pet mode. This boss will sprint for the portal to The Nullity like the other minions in Minion Ranch.
+
+*As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+*''"Your magic is useless here"'' - Casts an all enemies triple Dispel matching the School of the Wizard at the start of combat.
+*''"There's no escape!"'' - At the beginning of every 3rd Round, Millispeeder casts the same triple Dispel matching the School on all Wizards.
+
+| spellnotes =
+*Casts a protected and unprotected Shadowblade.
+
+| casts =
+Magnify (6 Rounds);
+Shadowblade;
+Dragonblade;
+Wild Bolt (Shadow);
+Queen Calypso (Shadow);
+Catch of the Day (Shadow);
+Storm Owl (Shadow);
+Glowbug Squall (1,120);
+
+| quests =
+
+| dropnotes =
+All 12 Wizards in the Raid receive the drops, not just the ones within the battle.
+
+| gold =
+0;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Legendary Socket Wrench;
+
+| cards =
+
+| reagents =
+Amber;
+Ancient Scroll;
+Fire Blossom;
+Flying Squid Ink;
+Mote of Beauty;
+Mote of Severity;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| elixirs =
+Crafting Elixir*CR;
+Double Pet XP Elixir*F2*CR;
+Energy Elixir*CR;
+Gardening Benefit Elixir*CR;
+Major Fishing Luck Elixir*CR;
+Purreau's Potion*CR;
+Triple Animus Elixir*CR;
+
+}}

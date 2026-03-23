@@ -1,0 +1,118 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 18,000
+| crecla = Other Birds
+| school = Death
+| masteries =
+Balance;
+
+| cheats = Yes
+| shadowslots = 1
+| startpips = 7
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+25%;
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Zeus Exalted Challenge
+| subloc1 = 
+| descrip =
+This Boss is considered a Minion to {{Link|Creature|Zeus Sky Father (Zeus Exalted Challenge)}}.  All drops are recorded on that page.<br/>Either Hades or [[Creature:Apollo Bright One (Zeus Exalted Challenge)|Apollo]] will spawn to occupy the duel circle's third spot.
+
+| speech =
+
+| cheatnotes =
+*''"Tartarus is the true victor in war!"'' - If Hades and [[Creature:Ares_Savage_Spear_(Zeus_Exalted_Challenge)|Ares Savage Spear]] are both present, Hades will interrupt at the start of the Round to use his Natural Attack on a random Wizard, that deals 4 Death Damage and applies 4 Damage over Time effects on the target. Then, Ares will use his Natural Attack that {{Link|Spell|Detonate}}s all Damage over Time effects, dealing 1,175 then 1, 2, and 3 Death Damage.
+*''"The selfish belong in Tartarus!"'' - If a [[:Category:Healing Spells|Healing]] Spell is cast on themself, Hades will cast a Shift Wraith Spell that deals 335 Death Damage and applies a -90% {{Link|Spell|Infection}} on the caster.
+**This cheat will trigger with AoE Healing Spells.
+**This cheat will not trigger if a Wizard heals another player other than themselves.
+**Pet heals will trigger this cheat.
+*''"Tartarus appreciates your donation."'' - If a Wizard or a Boss is defeated, Hades will cheat-cast Donate Power to whoever cast the defeating spell.
+*''"Zeus sends his regards from Tartarus."'' - If Zeus is defeated, Hades will cast his Natural Attack on a random Wizard every two rounds.
+
+| spellnotes =
+*Casts {{Link|Spell|Lernaean Hydra}} and applies a -45% Accuracy Charm on all Wizards.
+*Casts {{Link|Spell|Lycian Chimera}} and applies a -45% Damage Charm on all Wizards.
+
+'''Natural Attack:'''
+*Deals 1,185 Death Damage over 5 Rounds.
+
+| casts =
+Virulence;
+Infection;
+Dragonspear;
+Deathblade (+40%);
+Balanceblade;
+Bladestorm;
+Curse;
+Call of Khrulhu;
+Scarecrow;
+Dr. Von's Monster;
+Judgement;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,252 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 12,745
+| crecla = Polar Bear
+| school = Life
+| startpips = 5
+| powerpips = Yes
+| critical =
+71 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Gulag Guard;
+
+| world = Polaris
+| location = Urville Station
+| subloc1 = Commandant's Quarters
+| descrip =
+
+| speech =
+:'''Gulag Guard:''' ''"Hey! Why are you opening the door? You let the cold air in! Besides, the Commandant said we could have the banya to ourselves!"''
+:'''Captain Zubkov:''' ''"Uh, Yuri... I don't think they're here for the health benefits. To arms, comrade. We can't let them get to the Commandant!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Polaris
+| tome description =
+Ordered to serve and protect the Commandant of Urville Station, this mid-level officer lives for his weekly bubble bath.
+
+| extract class =
+Polar Bear;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Legend Shield (-50%);
+Spirit Armor;
+Rebirth;
+Luminous Weaver;
+Natural Attack (Life 105-205-305);
+Goat Monk;
+Centaur;
+Gnomes!;
+
+| quests =
+The Commandant's Quarters;
+
+| gold =
+1,021 - 1,841;
+
+| hats =
+The Goat Horns*CR;
+The Kroktop*CR;
+Tundarian Bear's Papakh;
+Tundarian Icecap;
+Tundarian Papakh of Fusion;
+Tundarian Papakh of Resolve;
+
+| robes =
+Enchanter's Fervid Cloak;
+Tundarian Bear's Cherkesska;
+Tundarian Sleet Parka;
+
+| boots =
+Enchanter's Clogs of Poise;
+Enchanter's New Horizon Boots;
+Fancy Tundarian Footwear;
+Tundarian Boots of Resolve;
+Tundarian Icecleats;
+Tundarian Striders of Flux;
+Tundarian Walkers of Dread*F3;
+
+| athames =
+Enchanter's Blade of Reverie;
+Enchanter's Ice Floe Dagger;
+Enchanter's Talon of Courage*F2*WMV;
+Enchanter's Terminus Chisel;
+Tayg Stylet of Vitality;
+
+| amulets =
+Enchanter's Ampul of Courage;
+Enchanter's Ice Floe Charm*F2;
+Enchanter's New Horizon Charm;
+Enchanter's Reverie Pendant;
+Enchanter's Terminus Chisel;
+Enchanter's Torc of Lightning*F2;
+Tayg Bauble of Harmony;
+Tayg Somber Ampul;
+
+| rings =
+Enchanter's Ice Floe Band*F2;
+Enchanter's Ring of Lightning*F3*WMV;
+Enchanter's Terminus Ring;
+Tayg Ring of Folklore;
+Tayg Signet of Vitality;
+
+| wands =
+Forlorn Tayg Curved Axe*F2;
+Tayg Handaxe of Leveling;
+Tayg Hatchet of Sleetfall;
+Tayg Hatchet of Vitality*F2*WMV;
+
+| decks =
+Tayg Deck of Wrath;
+Tayg Hand of Folklore;
+Tayg Pack of Vitality*F2;
+
+| items =
+Polaris Baba Yaga Theme;
+Polaris Frozen Combat Theme;
+Polaris Frozen Forest Theme*F2;
+Polaris Gulag Combat Theme;
+Polaris Gulag Theme;
+Polaris Mine Combat Theme;
+Polaris Mine Theme*F2;
+Polaris Rasputin Combat Theme;
+Walruskberg Combat Theme;
+Walruskberg Liberated Theme;
+Wood Arch Block;
+Wood Corner Block*F2*WMV;
+Wood Post Block*F2;
+
+| cards =
+Ashen Bones;
+Astraphobia;
+Counterforce;
+Mass Myth Prism;
+Namaste;
+Rocklops;
+Rusalka's Wrath;
+Saga of Heroes*F2;
+Snowball Barrage;
+War Helephant;
+Witch's House Call*F2;
+
+| reagents =
+Aether*F6*WMV;
+Agave Leaves*F3*WMV;
+Amber*F2;
+Amber Dust*F2;
+Ancient Scroll;
+Aquamarine;
+Astral Shard*F3*WMV;
+Black Pearl*F2;
+Blood Moss;
+Brass*F2*WMV;
+Bronze Gear*F2;
+Cobalt;
+Draconium*F2*WMV;
+Ectoplasm*F2;
+Fire Blossom;
+Golden Pearl*F5*WMV;
+Grendelweed*F2*WMV;
+Mithril*F6*WMV;
+Nickel;
+Scales*F6*WMV;
+Silver*F2;
+Spring*F3*WMV;
+Stardust*F3;
+Steel*F2*WMV;
+Sunstone*F5*WMV;
+Tin;
+Titanium*F4*WMV;
+Tungsten*F2;
+Turquoise*F4*WMV;
+Vine*F3*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F3;
+Chalupacabra*F2;
+Chili Cheese Fries*F2;
+Chili Peppers;
+Eye Candy;
+Frozen Perogies;
+Hot Cross Buns;
+Large Ice Cream;
+Mustachios;
+Penne Dreadful*F3;
+Polaris Fries*F2;
+Satyr Chow;
+Ships 'n' Queso;
+Submarine Sandwich;
+Super Cold Popsicle*F3;
+Veggie Juice*F3;
+
+| jewels =
+Polished Accurate Amethyst +10%;
+Polished Accurate Citrine +10%;
+Polished Accurate Peridot +10%;
+Polished Damage Jade +21;
+Polished Piercing Ruby +6%;
+
+| pins =
+
+| pets =
+Glacier Dragon;
+Mountain Yeti*CR;
+Nodori Winged Ram*CR;
+Polar Bear Cub*CR;
+Snowball*CR;
+
+| seeds =
+Angel Oak*F7*WMV;
+Deadly Fly Trap*F4;
+Evil Snow Peas*F4*WMV;
+Fish on a Vine*F2;
+Frozen Fly Trap;
+Grapes of Wrath*CR;
+Green Snow Apples*F3*WMV;
+Moon Flower*F3;
+Purple Snow Apples*F2*WMV;
+Queen Crape Myrtle*F2*WMV;
+Red Huckleberries;
+Snow Apples*F4;
+Ultra Snow Apples;
+Venus Fly Trap*F4*WMV;
+
+| mounts =
+
+| spells =
+
+}}

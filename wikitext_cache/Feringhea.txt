@@ -1,0 +1,167 @@
+{{Stub|which version of the '''Mutate''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 11,760
+| crecla = Thuggie
+| school = Ice
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+10%;
+
+| outboost =
+30%;
+
+| incboost =
+15% Fire;
+
+| incresist =
+30% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minion = Thuggie Miner
+| minion2 = 
+| world = Mirage
+| location = Rubal Wastes
+| subloc1 = Nepeta Mine
+| descrip =
+
+| speech =
+:''"You have no idea what you've gotten in the middle of here, Outsider. This is the Grey Ghost's operation. Your disruption ends now!"''
+
+
+| spellnotes =
+
+| casts =
+Brace;
+Icewind;
+Iceblade (+40%);
+Ice Elf (45+180);
+Blizzard (290-330, 80%);
+Winter Moon;
+Handsome Fomori (500-580);
+Frostbite (80+549);
+Frost Giant (530);
+Woolly Mammoth;
+Lord of Winter;
+
+| quests =
+Say No to Feuds;
+
+| gold =
+175 - 440;
+
+| hats =
+Rubal Kufiya of Loyalty;
+
+| robes =
+Aridian Armor of Splendor;
+
+| boots =
+Wayfarer's Galesh of Grit;
+
+| athames =
+Rubal Janbiya of Competence;
+Viper Edge of Numbing;
+Viper Edge of Reflection;
+
+| amulets =
+Rubal Necklace of Bitterness;
+Rubal Necklace of Illusions;
+
+| rings =
+Flameforged Rubal Band;
+Viper Ring of Dunestorms;
+
+| wands =
+Restrictor Wand of Embers;
+
+| decks =
+Viper Cards of Reflection;
+
+| items =
+
+| cards =
+Helephant;
+Mutate Banshee (Sun);
+Mutate Bats (Ice);
+Mutate Bird;
+Mutate Kraken (Fire);
+Mutate Phoenix (Sun);
+
+| reagents =
+Ancient Scroll;
+Antique Coins*F3;
+Brass;
+Bronze Gear;
+Ectoplasm;
+Nickel;
+Spider Silk;
+Spring;
+Turmeric;
+
+| spellements =
+
+| snacks =
+Beast Wellington;
+Chalupacabra;
+Chili Cheese Fries;
+Chili Peppers;
+Fern Jelly;
+Hot Cross Buns;
+Mustachios;
+Rhubarbed Wire;
+Satyr Chow;
+
+| jewels =
+Chastisement Opal;
+Lustrous Accurate Onyx +11%;
+Lustrous Critical Citrine +13;
+Lustrous Critical Ruby +13;
+Lustrous Damage Onyx +23;
+Shiny Blocking Citrine +16;
+Shiny Blocking Ruby +16;
+Shiny Defense Amethyst +51;
+Shiny Defense Citrine +52;
+Shiny Defense Jade +51;
+Shiny Defense Onyx +52;
+Shiny Health Opal +112;
+Shiny Health Opal +114*F2;
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Cornbread Fruit Bush;
+Dandelion;
+Deadly Helephant Ears*CR;
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Fish on a Vine;
+Golden Couch Potatoes*F2;
+Grapes of Wrath*CR*F2;
+Ivy League*CR;
+Laugh-O-Dil;
+Pink Huckleberries*F2;
+Pink Laugh-O-Dil;
+Purple Snow Apples;
+Red Huckleberries;
+Tiger Lily (Seed);
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,139 @@
+{{Stub|confirmation of drops. Does the '''Krokotopia Combat Theme''' still drop here, or is it the {{Link|House|Krok Doomsday Combat Theme}}}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 8,855
+| crecla = Mander
+| school = Balance
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+45%;
+
+| stunable = 
+| beguilable = 
+| minions =
+Fire Cybermander (Tier 4);
+Myth Cybermander (Tier 4);
+
+| world = Housing Instance
+| location = Doomsday Krok Gauntlet
+| subloc1 = Doomsday Krok Gauntlet (Tier 4)
+| descrip =
+For the purpose of drops, Balance Cybermander (Tier 4) is considered a Boss.  All drops are recorded on this page.
+*An {{Link|Creature|Ice Cybermander (Tier 4)}} appears if more than two Wizards are present.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+A long time ago, these Manders mechanized themselves to deal with a coming Ice Age. Then the weather shifted.
+
+| extract class =
+Mander;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| altlink = Balance Cybermander
+
+| spellnotes =
+'''Natural Attack:'''
+*Four Pip maximum, despite what the Spell description indicates.
+
+| casts =
+Infallible;
+Vengeance;
+Black Mantle;
+Availing Hands (85+870);
+Balanceblade;
+Hex;
+Mana Burn;
+Natural Attack (Balance 105-210-315, 80%);
+Samoorai;
+Power Nova;
+Judgement;
+
+| quests =
+
+| gold =
+0 - 100;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Krok Bird Plaque;
+Krok Doomsday Combat Theme*F6;
+Krok Fire Plaque*F2;
+Krok Skull Plaque;
+Krok Sun Plaque;
+Krok Tree Plaque;
+Krokotopia Combat Theme*F2;
+
+| cards =
+Lightning Bats;
+Mega Taunt;
+Nekhbet;
+Scarab*F2;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Black Sun Seeds;
+Cracker;
+Green Grapes;
+Prickly Bear Punch;
+Raising Bran Cereal;
+Square Root;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+Sokar's Krokosphinx*PERM*CR;
+
+| spells =
+
+}}

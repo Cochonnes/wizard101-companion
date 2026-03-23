@@ -1,0 +1,206 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 14,545
+| crecla = Beetle
+| crecla2 = Insect
+| school = Fire
+| startpips = 5
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Dragon Beetle;
+Dragon Beetle;
+
+
+| world = Khrysalis
+| location = Crescent Beach
+| subloc1 = Ant Lion's Warren
+| descrip =
+An additional {{Link|Creature|Ant Lion Trapper}} will appear if more than two Wizards are present.
+
+| speech =
+:''"Once I found an ant lion's hole,''
+:''and an ant lion in it: nippers,''
+:''like a pair of rusty clippers.''
+:''And I saw a Hopper roll in its pit, and quick as Ned,''
+:''this old ant lion fanged its head.''
+:''Held it till he was dead."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+Fancies itself a poet. No one else fancies its poetry.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Glacial Shield;
+Smoke Screen (-45%);
+Fireblade;
+Fire Trap;
+Fuel;
+Natural Attack (Fire 175-285-400);
+Meteor Strike (355-395);
+Phoenix (600-680);
+Efreet;
+
+| quests =
+Hear Me Roar;
+
+| gold =
+202 - 243;
+
+| hats =
+Digger's Mining Helmet*F2*WMV;
+Gloom Dancer's Shroud;
+Kermes Fire-Hardened Mask*F5*WMV;
+Mantis Guard's Headgear*F3*WMV;
+Mouse Knight's Helmet;
+Scarred Burrower Greathelm*F5*WMV;
+
+| robes =
+Beleaguered Mouse Gear*F3*WMV;
+Mantis Robe of Secrecy*F3*WMV;
+
+| boots =
+Burrower Scout's Hoppers*F3*WMV;
+Gorge Excavator's Trekkers;
+Mantis Stalkers of Secrecy;
+Mantis Warrior's Footwraps*F2;
+
+| athames =
+Ghostmane's Fabled Cutter*F2*WMV;
+Hisser's Burning Cleaver;
+
+| amulets =
+Benzzi's Campaign Memento;
+CurdWright Medallion*F3*WMV;
+Death's Head Talisman*F3*WMV;
+Jewel of the Apiary*F2;
+
+| rings =
+
+| wands =
+Halberd of Extermination*F2;
+Poleaxe of Mantis Dominion;
+Spear of Mantis Voracity;
+
+| decks =
+Barbed Case of Stratagem*F2*WMV;
+Box of Indomitable Spirit;
+Bumbler's Sleetfall Pack;
+Case of Engulfing Flames;
+Lightning Rider's Deck*F3*WMV;
+
+| items =
+Khrysalis Combat Theme 2;
+Khrysalis Hive and Seek Theme*F2;
+Khrysalis Hive Combat Theme*F2*WMV;
+
+| cards =
+Avenging Fossil;
+Black Widow;
+Choke;
+Crystal Spider;
+Disarm*F3;
+Frost Beetle*F2;
+Scarab;
+
+| reagents =
+Astral Shard*F13*WMV;
+Black Lotus*F3*WMV;
+Black Pearl; 
+Blood Moss;
+Bone*F4*WMV;
+Bronze Gear*F4*WMV;
+Copper;
+Deep Mushroom*F2*WMV;
+Fire Blossom*F8*WMV;
+Fossil;
+Golden Pearl;
+Lava Lily*F5*WMV;
+Mist Wood*F4*WMV;
+Nickel;
+Nightshade*F3;
+Ore*F3*WMV;
+Orichalcum;
+Red Mandrake*F4*WMV;
+Stone Block*F4*WMV;
+Titanium;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Dr. Jalapeno*F2;
+Flaming Soup*F3*WMV;
+Flapjacks;
+Glowing Dragon Fruit*F4*WMV;
+Goat Cheese*F3;
+Golden Apple;
+Golden Grapes*F2;
+Gummy Bees;
+Honeycrisp Apples;
+King Banana;
+Sugar Khrystals;
+
+| jewels =
+Blood Bat Peridot;
+Exhaust Opal;
+Imp Jade;
+Polished Critical Ruby +11;
+Sap Opal;
+Storm Elemental Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Burning Snap Dragon;
+Fish on a Vine;
+Queen Crape Myrtle;
+Saw Palmetto;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,182 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 11,220
+| crecla = 
+| school = Death
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| outpierce =
+24%;
+
+| outboost =
+117%;
+
+| incboost =
+5% Life;
+
+| incresist =
+70% Death;
+
+| outhealing =
+41%;
+
+| inchealing =
+46%;
+
+| stunable = Yes
+| beguilable = Yes
+| minion = 
+| world = Karamelle
+| location = Gobblerton
+| subloc1 = Gobblerton Gym
+| descrip =
+Minions can be any combination of:
+:-{{Link|Creature|Oogie Boogie (Balance)}},
+:-{{Link|Creature|Oogie Boogie (Death)}},
+:-{{Link|Creature|Oogie Boogie (Fire)}},
+:-{{Link|Creature|Oogie Boogie (Ice)}},
+:-{{Link|Creature|Oogie Boogie (Life)}},
+:-{{Link|Creature|Oogie Boogie (Myth)}}, or
+:-{{Link|Creature|Oogie Boogie (Storm)}}.<br/>
+*Uses Pip Conversion.
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Virulence;
+Vengeance (6 Rounds);
+Deathspear;
+Bad Juju;
+Fairy;
+Pigsie;
+Deathblade (+45%);
+Feint;
+Red Banshee;
+Deer Knight;
+Qismah's Curse;
+Natural Attack (Death 105x, 4 Pip max, 80%);
+Snack Attack (Tier 3a);
+Winged Sorrow;
+Wraith;
+Call of Khrulhu (Shadow);
+
+| quests =
+One Snotty Gym;
+
+| gold =
+157 - 240;
+
+| hats =
+Consultant Hazmat Hood;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Executive Survival Rope;
+
+| rings =
+
+| wands =
+
+| decks =
+Producer's Survival Box;
+Specialist Thermal Box;
+
+| items =
+Gumdrop Tree;
+Karamelle Neglected Theme;
+Karamelle Rural Theme;
+Licorice Tree*F2;
+Rock Candy Mountains Poster;
+
+| cards =
+Berserk;
+Brilliant Light;
+Elemental Defuse;
+Elemental Spear;
+Ether Shield;
+Galvanic Field;
+Link;
+Power Play;
+
+| reagents =
+Agave Nectar;
+Amber;
+Astral Shard;
+Braided Vine;
+Brass*F3;
+Bronze Gear;
+Cobalt*F2;
+Fire Blossom*F2;
+Golden Pearl;
+Karamelle Chunk;
+Merle's Whisker*F2;
+Scales;
+Silver*F2*WMV;
+Spider Silk;
+Tin;
+Toffee Bean;
+Turquoise;
+Vine;
+
+| spellements =
+Grrnadier;
+Snack Attack;
+Sound of Musicology;
+
+| snacks =
+Antheneum Delight;
+Beast Wellington;
+Cherry Pie;
+Crackle Jacks Cereal;
+Eye Candy;
+Hot Cross Buns;
+Rock and Roll Candy;
+Satyr Chow*F2;
+Ships 'n' Queso;
+Waterworks Wonton*F2;
+
+| jewels =
+Shiny Critical Onyx +16;
+Shiny Critical Sapphire +16;
+Shiny Defense Peridot +50;
+Shiny Defense Ruby +49;
+Shiny Health Opal +106;
+Sparkling Blocking Sapphire +17;
+Sparkling Critical Hematite +17;
+Sparkling Defense Hematite +53;
+Sparkling Defense Jade +53;
+Sparkling Health Opal +116;
+Sparkling Health Opal +119;
+
+| pets =
+
+| seeds =
+Angora Bunny Ears*F2;
+Boiled Peanuts;
+Cornbread Fruit Bush;
+Desparagus (Seed);
+Fish on a Vine;
+Grapes of Wrath*CR*F2;
+Green Snow Apples;
+Ivy League*CR;
+Key Limes*CR;
+Pink Huckleberries*F2;
+Pink Laugh-O-Dil;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Red Huckleberries;
+Sour Fickle Pickle*F2;
+
+| mounts =
+
+| spells =
+
+}}

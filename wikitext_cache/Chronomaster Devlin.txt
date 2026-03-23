@@ -1,0 +1,292 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 9,800
+| crecla = Qhat
+| school = Balance
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+7%;
+
+| outboost =
+65%;
+
+| incboost =
+5% Myth, Life, Death;
+
+| incresist =
+30% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Cabal Chronomancer;
+
+| world = Mirage
+| location = Chronoverge
+| subloc1 = Chapter Hall
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"Bad time to be late!"'' - If a Wizard joins the duel after the first Round, Chronomaster Devlin will cast {{Link|Spell|Mana Burn}} at the Wizard.
+*{{Icon|Global}} ''"Time is on my side!"'' - At the beginning of Round 1 (and every 10th Round thereafter), he will cast a '''+45%''' version of {{Link|Spell|Power Play}}.
+:*If a Wizard casts any type of global spell while this is active, he will recast Power Play.
+*{{Icon|Global}} ''"Time is not on your side!"'' - At the end of Round 5 (and every 10th Round thereafter), he will replace the Power Play with a Balance global with '''-45%''' Power Pip gain that limits the maximum pip limit to 2 if all pips gained before are spent, similar to {{Link|TreasureCard|Dampen Magic}}.
+:*Shadow pips can still be earned while the global is active.
+:*Wizards who have more than 3 pips total are unaffected until they spend their pips.
+:*If a Wizard casts any type of global spell while this is active, he will recast this spell.
+*{{Icon|Trap}} ''"You can't trap the Cabal!"'' - If a Trap is placed on Chronomaster Devlin or his Minion, he will place a {{Link|Spell|Weakness (-30%)}} and a {{Link|Spell|Black Mantle (-55%, 0 Pip)}} on the Wizard who cast the spell.
+
+| spellnotes =
+
+| casts =
+Brace;
+Conviction;
+Elemental Shield (-55%);
+Spirit Shield (-55%);
+Black Mantle (-55%, 0 Pip);
+Weakness (-30%);
+Balanceblade;
+Hex (+35%);
+Mana Burn (-4 Pips);
+Scarab (80-120);
+Scorpion (185-225);
+Loremaster;
+Natural Attack (Balance 110-220-330);
+Locust Swarm (285-345);
+Sandstorm (295-335);
+Spectral Blast (505-420-635);
+Gaze of Fate;
+Mighty Judgement;
+Nested Fury;
+Power Nova (530);
+Wrath of Aquila;
+Chimera (375);
+Judgement (125);
+
+| quests =
+Confronting the Cabal;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' Badge and has not unlocked the '''[[Basic:Empyrea Badges|Hero of Light and Shadow]]''' Badge, the following drops will be available:
+*6 Spellements will drop each time from '''any''' School for their respective rank 9, 10, King Artorius, Polaris, and Mirage Spells.
+
+| gold =
+584 - 752;
+
+| hats =
+Aridian Helm of Strife;
+Eerem Headwrap of Menace;
+Mottoman Helm of Ruin;
+Wayfarer's Scirocco Fez;
+
+| robes =
+Armor of the Aridian Sun;
+Eerem Raiment of Pulse;
+Mottoman Icefall Uniform;
+Mottoman Uniform of Ruin*F2;
+Wayfarer's Cold Snap Khalat;
+Wayfarer's Khalat of Grit;
+Wayfarer's Khalat of Intent;
+
+| boots =
+Gallant Mottoman Runners;
+Wayfarer's Galesh of Poise;
+
+| athames =
+Eerem Razor of Elation;
+Istanboa Sandspouts Khanjar;
+Rubal Janbiya of Bitterness;
+Rubal Janbiya of Carnage;
+Viper Edge of Dunestorms;
+
+| amulets =
+Eerem Necklace of Ability;
+Eerem Necklace of Agony;
+Istanboa Pendant of Enigmas;
+Rubal Locket of Cessation;
+
+| rings =
+Eerem Signet of Ciphers;
+Gallant Istanboa Signet;
+Rubal Seal of Illusions;
+Rubal Seal of Renewal;
+
+| wands =
+Conscript Tabar of Identity;
+Myriarch Tabarzin of Renown;
+Tetrus Baton of Torrents*F3*WMV;
+
+| decks =
+Eerem Gallery of Agony;
+Istanboa Array of Enigmas;
+Rubal Cards of Formation;
+Viper Cards of Strife;
+Viper Cards of Thriving;
+
+| items =
+Mirage Canyon Theme 2;
+Mirage Caravan Theme;
+Mirage Chronoverge Com Theme;
+Mirage Chronoverge Theme*F2*WMV;
+Mirage Desert Canyons Theme;
+Mirage Jungle Theme*F2;
+Mirage Nomad Theme*F2*WMV;
+
+| cards =
+Arcticzilla;
+Balefrost;
+Counterforce;
+Dragonspear;
+Firespear;
+Mutate Bird (Storm);
+Mutate Phoenix (Storm);
+Mutate Snake (Ice);
+Mutate Wyvern (Storm);
+Shift*F2*WMV;
+Shock Colossus*F3*WMV;
+Steel Colossus;
+Stormspear;
+Yellow Troll;
+
+| reagents =
+Amber Dust;
+Aquamarine*F2;
+Astral Shard;
+Fish Fin*F4*WMV;
+Golden Pearl;
+Mithril*F4*WMV;
+Scales;
+Silver*F4*WMV;
+Stardust;
+Steel*F4*WMV;
+Sunstone*F5*WMV;
+Tungsten*F3*WMV;
+Turmeric*F3;
+Turquoise;
+Vine;
+
+| spellements =
+Dr. Von's Monster*BR;
+Gnomes!*BR;
+Iron Sultan*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Sabertooth*BR;
+Sirens*BR;
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate;
+Beast Wellington*F5*WMV;
+Beetle Cream Soda*F3*WMV;
+Bread Fruit Fruit;
+Chalupacabra;
+Eye Candy*F2*WMV;
+Frosty Sugar Cubes*F3;
+Green Tomato*F3*WMV;
+Hard Boiled Beetle Eggs*F5*WMV;
+High Road Haggis;
+Hot Cross Buns*F4*WMV;
+Mustachios*F2*WMV;
+Satyr Chow*F2;
+Ships 'n' Queso*F4*WMV;
+Veggie Juice*F2*WMV;
+Wheat Cracker;
+
+| jewels =
+Lustrous Blocking Sapphire +13;
+Lustrous Defense Citrine +45;
+Lustrous Defense Jade +45;
+Polished Blocking Peridot +12;
+Polished Blocking Ruby +12;
+Polished Critical Sapphire +11;
+Polished Damage Citrine +21;
+Polished Damage Jade +21*F2*WMV;
+Polished Damage Peridot +21;
+Polished Defense Jade +44;
+Polished Defense Ruby +44;
+Polished Piercing Amethyst +6%;
+Polished Piercing Hematite +5%;
+Polished Piercing Onyx +6%;
+Polished Piercing Ruby +6%;
+Shiny Blocking Hematite +16;
+Shiny Critical Amethyst +16;
+Shiny Critical Jade +16;
+Shiny Damage Amethyst +26;
+Shiny Damage Hematite +52;
+Shiny Defense Hematite +51;
+Shiny Defense Sapphire +51;
+Shiny Health Opal +111;
+Shiny Health Opal +114;
+Shiny Mana Opal +47*F3*WMV;
+
+| pins =
+
+| pets =
+MaCaw*CR;
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak;
+Angora Bunny Ears;
+Baby Carrots*F3;
+Boon Tree*CR;
+Bread Fruit Bush;
+Burning Snap Dragon*F2*WMV;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Deadly Ninja Fig;
+Desparagus (Seed)*F2;
+Face Palm;
+Fish on a Vine*F2*WMV;
+Golden Couch Potatoes*F2*WMV;
+Grapes of Wrath*CR;
+Helephant Ears;
+Honey Bee Plant;
+Honey Sickle;
+Ivy League*CR*F2;
+Key Limes*CR;
+King Parsley*CR;
+Missile Toe;
+Ninja Fig*CR*F2;
+Pink Huckleberries;
+Prickly Bear Cactus*F2;
+Purple Bell Pepper;
+Queen Crape Myrtle;
+Red Couch Potatoes*F2;
+Red Huckleberries*F3*WMV;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Silver Trumpet Vine*CR;
+Snap Dragon;
+Snow Apples;
+Venus Fly Trap*F2*WMV;
+White Desparagus;
+White Laugh-O-Dil;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

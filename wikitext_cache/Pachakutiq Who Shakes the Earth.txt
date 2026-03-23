@@ -1,0 +1,120 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 17,960
+| crecla = Dino
+| crecla2 = Pterodactyl
+| school = Fire
+| masteries =
+Balance;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+86 Any;
+
+| criticalblock =
+69 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Azteca
+| location = Twin Giants
+| subloc1 = Black Tooth Cave
+| descrip =
+Pachakutiq Who Shakes the Earth is a Minion to {{Link|Creature|Razan Bitter Blood}}. All drops should be recorded on that page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+The man has mastered the superhero landing. If you don't shake the earth, you're doing it wrong.
+
+| extract class =
+Dinos;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Availing Hands;
+Fireblade;
+Bladestorm;
+Brimstone Revenant;
+Natural Attack (Fire 185-370-555);
+Meteor Strike (355-395);
+Fire Serpent (525);
+Fire Dragon (495+395);
+Sun Serpent;
+Obsidian Colossus (460);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,434 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 15,950
+| crecla = Monquistan
+| school = Fire
+| school2 = Myth
+| cheats = Yes
+| startpips = 4
+| schoolpips =
+Fire;
+Myth;
+
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+79%;
+
+| incboost =
+50% Storm, Life;
+
+| incresist =
+50% Ice, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Atavus Dog;
+Atavus Pingouin;
+Atavus Unicorn;
+
+| world = Novus
+| location = Nucleus Gallery
+| subloc1 = Manticore's Madness
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+'''{{Link|NPC|Aeon of Atavus}}'''
+*{{Icon|Round}}{{Icon|Late}} ''""Devour them all!""'' - At the beginning of every Round a Wizard joins, including the first Round, Atavus Monquistan will trigger Aeon of Atavus to devour all Wizards, removing all hanging effects, and then cast a Shadow Spell on the next Round to spit them out into Polymorph forms.
+**If Atavus Monquistan is defeated, the cheat will be given to the Boss who has the team's first turn.
+*{{Icon|Polymorph}} ''""Become, yourself, pure life""'' - Aeon of Atavus will Polymorph all Wizards for 20 Rounds into one of the following forms:
+**{{Link|Polymorph|Atavus Dog}}
+**{{Link|Polymorph|Atavus Monquistan}}
+**{{Link|Polymorph|Atavus Pingouin}}
+**{{Link|Polymorph|Atavus Unicorn}}
+**All Wizards will become the same form
+*{{Icon|Damage}} ''"Rooaarr!!"'' - Aeon of Atavus will cast a Laser spell that deals '''750''' Shadow Damage on all Wizards.
+**The Damage and Pierce stats for the Laser cheat are affected by the Boss who conducts this cheat.
+*{{Icon|Afterlife}} ''"Your mastery of magic won't save you"'' - After one of the enemies is defeated, all Wizards will be unpolymorphed.
+*{{Icon|Afterlife}} After all bosses have been defeated, a cutscene will trigger where Aeon of Atavus defeats itself.
+
+| spellnotes =
+
+| casts =
+I am Blessed!;
+A gift for you;
+Mythic Fuel (+25%);
+Sun Trap (+25%);
+You're but a Dot;
+Brimstone Revenant (Tier 5a);
+Inferno Salamander (Tier 5a);
+Fire Dragon;
+Rain of Fire;
+Keeper of the Flame (Tier 5a);
+Punklops (Myth);
+Noble Humongofrog;
+Orthrus;
+
+| quests =
+Manticore's Madness;
+
+| dropnotes =
+The following drops will be given for defeating Aeon of Atavus:
+*1-2 pieces of Masterpiece or Aeon gear for any school
+*3-4 level 150 or level 160 Sword Pins for the wizard's school only
+*4-5 Pixels
+*A random mix of 22 Spellemental Treasure Cards and Spellements for any school
+
+| gold =
+24 - 71;
+
+| hats =
+Abstract Aeon Helm*F5*WMV;
+Abstract Masterpiece Helm*F2*WMV;
+Crystalline Aeon Helm*F3*WMV;
+Crystalline Masterpiece Helm*F2*WMV;
+Dreamscape Aeon Helm;
+Dreamscape Masterpiece Helm;
+Fractal Aeon Helm;
+Fractal Masterpiece Helm*F4*WMV;
+Inspired Aeon Helm*F5*WMV;
+Inspired Masterpiece Helm*F4*WMV;
+Macabre Aeon Helm*F5*WMV;
+Macabre Masterpiece Helm;
+Primordial Aeon Helm*F3*WMV;
+Primordial Masterpiece Helm;
+
+| robes =
+Abstract Aeon Cape*F3*WMV;
+Abstract Masterpiece Cape*F6*WMV;
+Crystalline Aeon Cape*F3*WMV;
+Crystalline Masterpiece Cape*F4*WMV;
+Dreamscape Aeon Cape*F3*WMV;
+Dreamscape Masterpiece Cape*F5*WMV;
+Fractal Aeon Cape;
+Fractal Masterpiece Cape;
+Inspired Aeon Cape*F4*WMV;
+Inspired Masterpiece Cape*F3*WMV;
+Macabre Aeon Cape*F2;
+Macabre Masterpiece Cape*F5*WMV;
+Primordial Aeon Cape*F4*WMV;
+Primordial Masterpiece Cape*F2*WMV;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Abstract Aeon Sword*F3*WMV;
+Abstract Masterpiece Sword*F2*WMV;
+Crystalline Aeon Sword*F3*WMV;
+Crystalline Masterpiece Sword*F2*WMV;
+Dreamscape Aeon Sword*F2*WMV;
+Dreamscape Masterpiece Sword;
+Fractal Aeon Sword*F3*WMV;
+Fractal Masterpiece Sword*F2*WMV;
+Inspired Aeon Sword*F3*WMV;
+Inspired Masterpiece Sword*F4*WMV;
+Macabre Aeon Sword*F5*WMV;
+Macabre Masterpiece Sword*F6*WMV;
+Primordial Aeon Sword*F2*WMV;
+Primordial Masterpiece Sword*F3*WMV;
+
+| decks =
+
+| items =
+
+| cards =
+Azoth*F19*WMV;
+Banshee (Tier 2b)*F17*WMV;
+Blood Bat (Tier 2b)*F16*WMV;
+Cyclops (Tier 2b)*F21*WMV;
+Dark Sprite (Tier 2b)*F23*WMV;
+Evil Snowman (Tier 2b)*F20*WMV;
+Fire Cat (Tier 2b)*F13*WMV;
+Fire Elf (Tier 2b)*F14*WMV;
+Frost Beetle (Tier 2b)*F16*WMV;
+Ghoul (Tier 2b)*F25*WMV;
+Imp (Tier 2b)*F18*WMV;
+Leprechaun (Tier 2b)*F14*WMV;
+Lightning Bats (Tier 2b)*F18*WMV;
+Locust Swarm (Tier 2b)*F19*WMV;
+Nature's Wrath (Tier 2b)*F13*WMV;
+Scarab (Tier 2b)*F19*WMV;
+Scorpion (Tier 2b)*F14*WMV;
+Snow Serpent (Tier 2b)*F12*WMV;
+Storm Shark (Tier 2b)*F21*WMV;
+Sunbird (Tier 2b)*F19*WMV;
+Thunder Snake (Tier 2b)*F11*WMV;
+Troll (Tier 2b)*F14*WMV;
+
+| reagents =
+Bone*F24*WMV;
+Bronze Gear*F19*WMV;
+Pixels @ 4 Pixels*F11*WMV;
+Pixels @ 5 Pixels*F3*WMV;
+Tin*F21*WMV;
+
+| spellements =
+Barbarian's Saga*F28*WMV;
+Blast Off!*F24*WMV;
+Dark & Stormy*F21*WMV;
+Deathly Depths*F22*WMV;
+Freeze Ray*F24*WMV;
+Glimpse of Infinity*F27*WMV;
+Gravestorm*F25*WMV;
+Grim Reader*F26*WMV;
+Grrnadier*F24*WMV;
+Improbable Gaze*F27*WMV;
+Lord of the Jungle*F26*WMV;
+Mockenspiel*F24*WMV;
+Old One's Endgame*F30*WMV;
+S'more Machine*F26*WMV;
+Scales of Destiny*F26*WMV;
+Shatterhorn*F27*WMV;
+Snack Attack*F14*WMV;
+Sound of Musicology*F26*WMV;
+Starspawn*F27*WMV;
+Tatzlewurm Terror*F22*WMV;
+Tree of Strife*F29*WMV;
+
+| snacks =
+
+| jewels =
+Amazing Accurate Amethyst +15%*F4*WMV;
+Amazing Accurate Citrine +15%*F3*WMV;
+Amazing Accurate Jade +15%*F2*WMV;
+Amazing Accurate Onyx +15%*F3*WMV;
+Amazing Accurate Peridot +15%*F4*WMV;
+Amazing Accurate Ruby +15%*F3*WMV;
+Amazing Accurate Sapphire +15%*F4*WMV;
+Amazing Health Opal +136*F4*WMV;
+Amazing Health Opal +137*F6*WMV;
+Amazing Health Opal +138*F4*WMV;
+Amazing Health Opal +139*F3*WMV;
+Amazing Health Opal +140*F5*WMV;
+Amazing Health Opal +141*F3*WMV;
+Amazing Health Opal +142*F2;
+Amazing Health Opal +143;
+Amazing Health Opal +144*F2*WMV;
+Amazing Health Opal +145;
+Amazing Mana Opal +57;
+Amazing Mana Opal +58*F2*WMV;
+Amazing Mana Opal +59*F5*WMV;
+Amazing Mana Opal +60*F4*WMV;
+Amazing PIP Hematite +3*F2*WMV;
+Buck Gordon Ruby;
+Deathly Depths Sapphire*F5*WMV;
+Dog Tracy Amethyst*F3*WMV;
+Duck Savage Sapphire*F3*WMV;
+Flawless Accurate Amethyst +16%*F4*WMV;
+Flawless Accurate Citrine +16%*F5*WMV;
+Flawless Accurate Jade +16%*F2*WMV;
+Flawless Accurate Onyx +16%*F2*WMV;
+Flawless Accurate Peridot +16%*F2*WMV;
+Flawless Accurate Ruby +16%*F2*WMV;
+Flawless Accurate Sapphire +16%*F4*WMV;
+Flawless Archmastery Opal +15 (Tear)*F2*WMV;
+Flawless Health Opal +146*F3*WMV;
+Flawless Health Opal +147*F2*WMV;
+Flawless Health Opal +148*F3*WMV;
+Flawless Health Opal +149*F3*WMV;
+Flawless Health Opal +150*F3*WMV;
+Flawless Health Opal +151;
+Flawless Health Opal +152*F2*WMV;
+Flawless Health Opal +153*F4*WMV;
+Flawless Health Opal +154*F2*WMV;
+Flawless Health Opal +155*F3*WMV;
+Flawless Mana Opal +61*F3*WMV;
+Flawless Mana Opal +62*F2*WMV;
+Flawless Mana Opal +63*F4*WMV;
+Flawless Mana Opal +64*F2*WMV;
+Glimpse of Infinity Ruby*F2*WMV;
+Gravestorm Onyx*F5*WMV;
+Improbable Gaze Peridot*F2*WMV;
+Lustrous PIP Opal +10%*F4*WMV;
+Mandar Peridot*F8*WMV;
+Quartermane Citrine*F2*WMV;
+Scales of Destiny Citrine*F2*WMV;
+Solomon Crane Onyx*F5*WMV;
+Starspawn Jade*F3*WMV;
+The Bantam Jade*F2*WMV;
+Tree of Strife Amethyst*F3*WMV;
+
+| pins =
+Balance Crushing Pin (150, Death)*F3*WMV;
+Balance Crushing Pin (150, Myth)*F5*WMV;
+Balance Crushing Pin (150, Storm);
+Balance Crushing Pin (160, Death)*F4*WMV;
+Balance Crushing Pin (160, Myth)*F7*WMV;
+Balance Crushing Pin (160, Storm)*F2*WMV;
+Balance Disabling Pin (150, Life)*WMV;
+Balance Disabling Pin (150, Myth)*F6*WMV;
+Balance Disabling Pin (150, Storm)*F2*WMV;
+Balance Disabling Pin (160, Death);
+Balance Disabling Pin (160, Myth)*F3*WMV;
+Balance Disabling Pin (160, Storm)*F2*WMV;
+Balance Punishing Pin (150, Death);
+Balance Punishing Pin (150, Life);
+Balance Punishing Pin (150, Myth)*F4*WMV;
+Balance Punishing Pin (150, Storm);
+Balance Punishing Pin (160, Myth)*F4*WMV;
+Balance Punishing Pin (160, Storm);
+Death Crushing Pin (150, Balance);
+Death Crushing Pin (150, Fire);
+Death Crushing Pin (150, Myth)*F2*WMV;
+Death Crushing Pin (150, Storm)*F2*WMV;
+Death Crushing Pin (160, Balance);
+Death Crushing Pin (160, Life);
+Death Crushing Pin (160, Myth)*F4*WMV;
+Death Crushing Pin (160, Storm);
+Death Disabling Pin (150, Balance);
+Death Disabling Pin (150, Myth)*F5*WMV;
+Death Disabling Pin (150, Storm)*F2*WMV;
+Death Disabling Pin (160, Balance);
+Death Disabling Pin (160, Life);
+Death Disabling Pin (160, Myth)*F5*WMV;
+Death Disabling Pin (160, Storm)*F3*WMV;
+Death Punishing Pin (150, Balance);
+Death Punishing Pin (150, Myth)*F6*WMV;
+Death Punishing Pin (150, Storm)*F2*WMV;
+Death Punishing Pin (160, Life)*WMV;
+Death Punishing Pin (160, Myth)*F3*WMV;
+Death Punishing Pin (160, Storm)*F2*WMV;
+Fire Crushing Pin (150, Balance);
+Fire Crushing Pin (150, Death);
+Fire Crushing Pin (150, Myth)*F3*WMV;
+Fire Crushing Pin (160, Balance);
+Fire Crushing Pin (160, Death);
+Fire Crushing Pin (160, Myth)*F5*WMV;
+Fire Crushing Pin (160, Storm);
+Fire Disabling Pin (150, Balance);
+Fire Disabling Pin (150, Death);
+Fire Disabling Pin (150, Life);
+Fire Disabling Pin (150, Myth)*F6*WMV;
+Fire Disabling Pin (150, Storm)*F2*WMV;
+Fire Disabling Pin (160, Balance)*F2;
+Fire Disabling Pin (160, Death);
+Fire Disabling Pin (160, Life);
+Fire Disabling Pin (160, Myth);
+Fire Disabling Pin (160, Storm)*F2*WMV;
+Fire Punishing Pin (150, Balance);
+Fire Punishing Pin (150, Death);
+Fire Punishing Pin (150, Myth)*F6*WMV;
+Fire Punishing Pin (150, Storm);
+Fire Punishing Pin (160, Balance);
+Fire Punishing Pin (160, Death)*F4*WMV;
+Fire Punishing Pin (160, Myth)*F6*WMV;
+Fire Punishing Pin (160, Storm);
+Ice Crushing Pin (150, Balance);
+Ice Crushing Pin (150, Death)*F2*WMV;
+Ice Crushing Pin (150, Myth)*F8*WMV;
+Ice Crushing Pin (150, Storm)*F2*WMV;
+Ice Crushing Pin (160, Balance);
+Ice Crushing Pin (160, Death);
+Ice Crushing Pin (160, Myth)*F8*WMV;
+Ice Crushing Pin (160, Storm)*F2*WMV;
+Ice Disabling Pin (150, Balance);
+Ice Disabling Pin (150, Life);
+Ice Disabling Pin (150, Myth)*F4*WMV;
+Ice Disabling Pin (150, Storm)*F2*WMV;
+Ice Disabling Pin (160, Balance);
+Ice Disabling Pin (160, Death)*F2*WMV;
+Ice Disabling Pin (160, Myth)*F4*WMV;
+Ice Disabling Pin (160, Storm);
+Ice Punishing Pin (150, Balance);
+Ice Punishing Pin (150, Death)*F2*WMV;
+Ice Punishing Pin (150, Myth)*F5*WMV;
+Ice Punishing Pin (150, Storm);
+Ice Punishing Pin (160, Balance);
+Ice Punishing Pin (160, Death)*F2*WMV;
+Ice Punishing Pin (160, Life);
+Ice Punishing Pin (160, Myth)*F8*WMV;
+Ice Punishing Pin (160, Storm)*F2*WMV;
+Life Crushing Pin (150, Balance);
+Life Crushing Pin (150, Myth);
+Life Crushing Pin (150, Storm);
+Life Crushing Pin (160, Balance);
+Life Crushing Pin (160, Death);
+Life Crushing Pin (160, Fire);
+Life Crushing Pin (160, Myth)*F3*WMV;
+Life Crushing Pin (160, Storm)*F2*WMV;
+Life Disabling Pin (150, Balance);
+Life Disabling Pin (150, Death)*F2*WMV;
+Life Disabling Pin (150, Myth)*F5*WMV;
+Life Disabling Pin (160, Balance);
+Life Disabling Pin (160, Death)*F5*WMV;
+Life Disabling Pin (160, Myth)*F5*WMV;
+Life Disabling Pin (160, Storm)*F2*WMV;
+Life Punishing Pin (150, Balance);
+Life Punishing Pin (150, Death)*F2*WMV;
+Life Punishing Pin (150, Myth);
+Life Punishing Pin (150, Storm);
+Life Punishing Pin (160, Balance);
+Life Punishing Pin (160, Death);
+Life Punishing Pin (160, Myth)*F8*WMV;
+Life Punishing Pin (160, Storm);
+Myth Crushing Pin (150, Balance);
+Myth Crushing Pin (150, Storm);
+Myth Crushing Pin (160, Balance);
+Myth Crushing Pin (160, Death)*F2*WMV;
+Myth Crushing Pin (160, Fire);
+Myth Crushing Pin (160, Storm)*F2*WMV;
+Myth Disabling Pin (150, Balance);
+Myth Disabling Pin (150, Death);
+Myth Disabling Pin (150, Life);
+Myth Disabling Pin (150, Storm)*F2*WMV;
+Myth Disabling Pin (160, Balance);
+Myth Disabling Pin (160, Death);
+Myth Disabling Pin (160, Storm)*F2*WMV;
+Myth Punishing Pin (150, Balance);
+Myth Punishing Pin (150, Death);
+Myth Punishing Pin (150, Life);
+Myth Punishing Pin (150, Storm);
+Myth Punishing Pin (160, Balance);
+Myth Punishing Pin (160, Death)*F2*WMV;
+Myth Punishing Pin (160, Life)*F2;
+Myth Punishing Pin (160, Storm)*F2*WMV;
+Storm Crushing Pin (150, Balance);
+Storm Crushing Pin (150, Fire);
+Storm Crushing Pin (150, Myth)*F7*WMV;
+Storm Crushing Pin (160, Balance);
+Storm Crushing Pin (160, Death);
+Storm Crushing Pin (160, Myth)*F4*WMV;
+Storm Disabling Pin (150, Balance);
+Storm Disabling Pin (150, Death);
+Storm Disabling Pin (150, Fire);
+Storm Disabling Pin (150, Myth)*F6*WMV;
+Storm Disabling Pin (160, Balance);
+Storm Disabling Pin (160, Myth)*F7*WMV;
+Storm Punishing Pin (150, Balance);
+Storm Punishing Pin (150, Death)*F2*WMV;
+Storm Punishing Pin (150, Myth)*F4*WMV;
+Storm Punishing Pin (160, Balance);
+Storm Punishing Pin (160, Death)*F2*WMV;
+Storm Punishing Pin (160, Fire);
+Storm Punishing Pin (160, Myth)*F5*WMV;
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

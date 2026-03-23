@@ -1,0 +1,279 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,200
+| crecla = Pig
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Imitsu Retainer;
+
+| world = MooShu
+| location = Cave of Solitude
+| subloc1 = Koto's Dojo
+| descrip =
+Koto guards a Dojo in the Cave of Solitude and also holds a piece of the Jade Scepter needed to heal {{Link|NPC|Emperor Yoshihito}}.
+*Two additional Imitsu Retainer Minions appear if more than two Wizards are present.
+
+| speech =
+:''"You won't like what I am going to do to you!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+A crafter at heart, this pig only fights when forced to. Koto would always prefer to be at a table.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Balance Damage per Pip.
+
+| casts =
+Tower Shield;
+Ice Armor;
+Weakness;
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snowsnake;
+Snow Serpent;
+Evil Snowman;
+Snow Shark;
+Blizzard;
+Ice Wyvern;
+Sunbird;
+
+| quests =
+Second Serving;
+
+| gold =
+37 - 111;
+
+| hats =
+Cap of Dilemma;
+Cap of Exertion*F4*WMV;
+Cap of Song*F2*WMV;
+Cap of the Verse*F2*WMV;
+Cap of Tribulations;
+Cowl of Cooperation*F3;
+Cowl of Humor;
+Cowl of Rhyming*F2;
+Cowl of Soul-Searching;
+Cowl of Sympathy*F2;
+Cowl of Tact;
+Enlivened Cowl*F2*WMV;
+Euphonic Cap*F2*WMV;
+Gogi Berry Stained Cap*F4*WMV;
+Hat of Niceties*F2*WMV;
+Hat of Nuisance*F2;
+Hat of the Eager;
+Hat of the Observant;
+Headwraps of Generations*F2;
+Heedful Headwraps*F2*WMV;
+Mask of the Chipper*F3*WMV;
+Nunu's Mask of the Twisted;
+Problematic Headwraps*F2*WMV;
+Shroud of Chants;
+Shroud of Conceit*F2*WMV;
+Shroud of Music;
+Shroud of the Opus;
+Stressed Mask;
+
+| robes =
+Cloak of Charity*F2*WMV;
+Cloak of Deliberation;
+Cloak of Pictures*F4*WMV;
+Dashing Cloak;
+Euphonic Cloak;
+Gallant Tunic*F4*WMV;
+Garments of Generations;
+Garments of the Opus;
+Garments of Unrest;
+Impulsive Vestment*F2*WMV;
+Industrial Uniform*F2*WMV;
+Koto's Brooding Tunic*F4*WMV;
+Nunu's Twisted Uniform;
+Painful Vestment;
+Problematic Tunic;
+Quick-Witted Vestment;
+Robe of Song*F2*WMV;
+Robe of the Lithe*F2*WMV;
+Robe of the Verse;
+Vestment of Arias;
+Vestment of Hymns*F4*WMV;
+Vestment of Niceties;
+
+| boots =
+Druidic Sandals*F2;
+Ecstatic Boots;
+Engrossed Shoes*F2*WMV;
+Footwraps of Charity*F2*WMV;
+Footwraps of Generations;
+Footwraps of Predicament*F2*WMV;
+Haskarr's Barbarish Boots*F2*WMV;
+Immersive Sandals;
+Koto's Adroit Sandals*F3*WMV;
+Koto's Sandals of Discontent*F2*WMV;
+Proficient Shoes;
+Sandals of Nuisance*F2*WMV;
+Sandals of the Universe;
+Shoes of Deliberation*F3*WMV;
+Shoes of Dreaming*F3*WMV;
+Shoes of Scruples;
+Slippers of the Lotus*F2*WMV;
+Vigilant Sandals*F2*WMV;
+
+| athames =
+Dagger of Detachment*F3*WMV;
+Dagger of Soul-Searching;
+Knife of Preoccupation*F2*WMV;
+Koto's Knife of Notion*F2*WMV;
+Shortsword of Scrutiny;
+
+| amulets =
+
+| rings =
+Band of Sandcastles*F2*WMV;
+Band of the Primitives*F3*WMV;
+Koto's Band of Images*F2*WMV;
+Ring of Regard*F2*WMV;
+
+| wands =
+Plague Oni's Sapphire Blade*F2*WMV;
+
+| decks =
+
+| items =
+Dirt Pile;
+Hooked Lantern;
+Pagoda-Shaped Urn*F3*WMV;
+Red Clan Banner*F2*WMV;
+Silver Lantern;
+Solar Obelisk*F2*WMV;
+Table Chest*F2*WMV;
+Tall Boulder*F2*WMV;
+Way Of The Ninja Pig Theme*F3*WMV;
+Windswept Tree*F5*WMV;
+
+| cards =
+Accurate*F2;
+Balefrost;
+Black Mantle*F2*WMV;
+Cloak;
+Darkwind;
+Donate Power;
+Doom and Gloom;
+Dragonflies;
+Heck Hound;
+Minotaur*F2*WMV;
+Monstrous;
+Mutate Elf (Ice);
+Pest Zapper;
+Sanctuary;
+Satyr;
+Skeletal Pirate*F2*WMV;
+Wyldfire;
+
+| reagents =
+Bone*F6*WMV;
+Brass*F3;
+Bronze Gear*F4*WMV;
+Cat Tail;
+Copper*F2*WMV;
+Iron;
+Lead*F2;
+Nickel*F2*WMV;
+Pyrite;
+Tin;
+Water Lily;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F2*WMV;
+Crunch Apple*F3*WMV;
+Fire Cracker*F3*WMV;
+Golden Peanut*F3*WMV;
+Golden Squash*F3*WMV;
+Large Fish*F2*WMV;
+Large Watermelon*F2*WMV;
+Square Root*F2*WMV;
+
+| jewels =
+Big Energy Opal;
+Blemished Defense Amethyst +21*F3;
+Blemished Defense Jade +21*F2;
+Blemished Defense Onyx +21;
+Blemished Defense Opal +12;
+Blemished Defense Peridot +21;
+Blemished Defense Ruby +21;
+Blemished Defense Sapphire +21*F2*WMV;
+Blemished Health Opal +36;
+Bomber Opal;
+Clay Post Opal;
+Death-Boon Onyx;
+Dependable Opal; 
+Flawed Accurate Jade +4%;
+Flawed Accurate Onyx +4%;
+Flawed Accurate Opal +2%;
+Flawed Accurate Ruby +4%;
+Flawed Damage Opal +5*F4;
+Flawed Defense Jade +19;
+Flawed Defense Peridot +19;
+Flawed Defense Sapphire +19;
+Flawed Health Opal +34;
+Flawed Mending Opal +2%; 
+Life-Eye Jade;
+Myth-Eye Peridot;
+Rally Opal;
+Recovery Opal;
+Restore Opal;
+Steadfast Opal;
+Storm-Boon Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig*F2;
+Fiery Boom Shroom*F2*WMV;
+Maelstrom Snap Dragon*F2*WMV;
+Pink Dandelion*CR;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

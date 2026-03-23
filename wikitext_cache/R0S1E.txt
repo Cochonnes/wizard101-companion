@@ -1,0 +1,188 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,200
+| crecla = Robot
+| crecla2 = Golem
+| school = Myth
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+15%;
+
+| outboost =
+
+| incboost =
+15% Storm;
+
+| incresist =
+30% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| petbreed = Myth Wartle
+| minion = Max-Strength Sani-Bot
+| minion2 = 
+| world = Empyrea
+| location = Zanadu
+| subloc1 = Kane's House
+| descrip = 
+
+| speech =
+:''"I have seen the Alphoi world. It is filthy, it is grimy; its people shatter snowglobes upon our nice clean floors. Enough is enough. My programming can no longer tolerate this uncleanliness. Sanitation must be preserved. I will cleanse this land with a high-concentration bleach solution. I will impose lemon-scented order upon the Alphoi. I will sanitize Zanadu."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Empyrea
+| tome description =
+A R0S1E by any other name would still use cleaners to make the room smell just as sweet.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+The ''Myth Wartle'' Pet may cast {{Link|Spell|Ether Shield}}.
+
+| casts =
+Dark Fiend;
+Legend Shield;
+Mythblade;
+Lifeblade*TC;
+Mythic Fuel;
+Pierce;
+Shatter;
+Time of Legend;
+Yellow Troll;
+White Rat Magician;
+Keeper of the Flame;
+Orthrus;
+
+| quests =
+The Sannish-Alphoi War;
+
+| gold =
+387 - 434;
+
+| hats =
+Interstellar Explorer's Helm;
+Interstellar Hero's Helm;
+Interstellar Navigator Helm;
+Medic's Interstellar Helm*F2;
+
+| robes =
+Interstellar Engineer Suit;
+
+| boots =
+Interstellar Hero's Trekkers;
+
+| athames =
+
+| amulets =
+
+| rings =
+Interstellar Explorer's Band;
+
+| wands =
+Delegate's Hexacorder;
+Engineer's Hexacorder;
+Explorer's Hexacorder;
+Medic's Hexacorder;
+
+| decks =
+
+| items =
+Empyrea Finale Combat Theme;
+Empyrea Flotsam Combat Theme;
+Empyrea Inner Athanor Theme;
+Empyrea Khan Theme;
+Empyrea Outer Athanor Theme;
+
+| cards =
+Doom and Gloom;
+Mass Death Prism;
+Mass Storm Prism;
+Mass Triage;
+
+| reagents =
+Antique Coins*F2;
+Black Pearl;
+Blood Moss*F2;
+Brass*F2;
+Bronze Gear*F3;
+Cobalt;
+Nickel;
+Scales*F2;
+Spring;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+BBQ Drumstick;
+Beast Wellington;
+Bread Fruit Fruit;
+Discord Grape Jelly;
+Eye Candy;
+Glowing Taffy;
+Pizza;
+Rock and Roll Candy;
+Satyr Chow;
+Sprinkle Cupcake;
+Veggie Juice;
+
+| jewels =
+Balance-Boon Citrine;
+Death-Away Onyx;
+Death-Sniper Onyx;
+Fire-Shot Ruby;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Sapphire +13;
+Lustrous Critical Jade +13;
+Stun Resistant Opal;
+Unbalancer Citrine;
+
+| pets =
+Myth Wartle;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Baby Carrots;
+Blue Huckleberries;
+Boiled Peanuts*F3;
+Boom Shroom;
+Bread Fruit Bush;
+Cornbread Fruit Bush*F3;
+Couch Potatoes*CR;
+Fish on a Vine;
+Frozen Fly Trap;
+Grapes of Wrath*CR*F2;
+Honey Sickle;
+Ivy League*CR;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Red Couch Potatoes;
+Red Huckleberries;
+Saw Palmetto;
+Tiger Lily (Seed);
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

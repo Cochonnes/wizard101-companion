@@ -1,0 +1,154 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 4,800
+| crecla = Wizard
+| crecla2 = Undead
+| school = Ice
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Dragonspyre
+| location = The Crucible
+| descrip =
+
+| speech =
+:''"I am Rurik Flamesoul. I defeated Challenger Lyon in an open duel in front of the council of wizards, warriors, and king. I was the only Wizard ever to defeat a warrior in straight combat. Pass my test, and you can defend yourself against anyone."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+His soul burns with a flame so hot and pure it turned his armor blue.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Tower Shield;
+Ice Armor;
+Weakness;
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Ice Elf (30+210);
+Evil Snowman;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Arcticzilla;
+Colossus;
+Troll;
+Vampire;
+Natural Attack (Death 85x);
+
+| quests =
+Feeling Defensive?;
+
+| gold =
+60 - 70;
+
+| hats =
+Cap of the Unflinching*F3;
+Cowl of the Glacier*F2;
+Helm of Oblivion*F2;
+Hood of Equity*F2*WMV;
+Hood of Hibernation*F2*WMV;
+
+| robes =
+Flamesoul's Frosted Longcoat*F2*WMV;
+Robe of the Gale*F3*WMV;
+Salamander's Wrap*F2*WMV;
+Smock of the Squall*F3*WMV;
+Wrap of Equity;
+
+| boots =
+Sandals of Scorching;
+Slippers of the Sunflame*F2;
+
+| athames =
+Athame of the Volcano*F2;
+Searing Knife*F4*WMV;
+Smallsword of Euphoria*F2;
+
+| amulets =
+
+| rings =
+Band of the Boundless*F2;
+Flamesoul's Ring of the Cycle*F2;
+Sapphire Studded Band;
+
+| wands =
+
+| decks =
+
+| items =
+Dragonspyre Platform*F2;
+Open Burned Book*F2*WMV;
+Wall Chains*F2*WMV;
+
+| cards =
+
+| reagents =
+Cobalt*F2;
+Spider Silk*F4*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Dull Blocking Sapphire +4;
+Dull Damage Onyx +13;
+Hydra Citrine;
+Sanctuary Jade;
+Steadfast Opal;
+Stonewall Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fiery Boom Shroom*F3;
+King Parsley*CR*F2;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F2;
+White Laugh-O-Dil*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,303 @@
+{{CreatureInfobox 
+| cretype = Boss
+| rank = 17
+| heal = 300,000
+| crecla = Elephant
+| school = Balance
+| school2 = Shadow
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+22%;
+
+| outboost =
+100%;
+
+| incboost =
+4% Myth, Death;
+10% Life;
+
+| incresist =
+70% Balance, Shadow;
+
+| outhealing =
+
+| inchealing =
+45%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Empyrea
+| location = Nexus
+| subloc1 = Dream Hive 
+| descrip =
+*Dream Belloq summons Belloq Image Minions from different schools.  His Minions can be any combination, as explained in the Cheat Notes.
+*As a Monstrology Summon, Dream Belloq has only 12,500 Health.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Empyrea
+| tome description =
+A memory of your many battles with Belloq. Funny, he's not as tough as you remember.
+
+| extract class =
+Elephant;
+
+| summon animus = 10
+| summon gold = 500
+| guest animus = 20
+| guest gold = 1,500
+| expel animus =
+| expel gold =
+}}
+
+| cheatnotes =
+*{{Icon|Minion}} ''"One of me is not enough!"'' - Dream Belloq will cast a Shadow Spell to summon one of the following Minions per Wizard in the dueling circle, if there is an open slot.
+**{{Link|Creature|Belloq Image (Fire)}}, {{Link|Creature|Belloq Image (Ice)}}, {{Link|Creature|Belloq Image (Myth)}}, {{Link|Creature|Belloq Image (Storm)}}
+**Dream Belloq will summon one Minion once every six to ten Rounds, if there is an open slot.
+*{{Icon|Late}} ''"A new arrival? The more the merrier!"'' - If a Wizard is late joining the duel, Dream Belloq will cast Ra on the Wizard, dealing 33% of the Wizard’s maximum Health, and summon a new Minion.
+*{{Icon|Afterlife}} ''"Behold, the power of - Oh no!"'' If a Minion is defeated, Belloq will cast Ra on himself and take Damage for every Minion defeated. Damage varies depending on the number of Wizards in the dueling circle:
+:*If there is one Wizard, Dream Belloq will take 100% Max Health (300,000 Damage). 
+:*If there are two Wizards, Dream Belloq will take 50% Max Health (150,000 Damage) per Minion. 
+:*If there are more than two Wizards, Dream Belloq will take 33% Max Health (99,000 Damage) per Minion.
+
+| spellnotes =
+
+| casts =
+Chastisement;
+Punishment;
+Elemental Shield;
+Spirit Shield;
+Bladestorm;
+Elemental Trap;
+Spirit Trap;
+Natural Attack (Balance 110-205-300, 80%);
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Ra;
+Chimera;
+Judgement;
+
+| quests =
+Dreams and Nightmares;
+
+| gold =
+88 - 311;
+
+| hats =
+Bodacious Kalamar Lid;
+Chill Kalamar Lid;
+Gnarly Kalamar Lid;
+Rad Kalamar Lid;
+Righteous Kalamar Lid;
+
+| robes =
+
+| boots =
+
+| athames =
+Choice Kalamar Knife*F2;
+Gnarly Kalamar Knife;
+Heavy Kalamar Knife;
+Hopeful Zanadu Dagger;
+Mondo Kalamar Knife;
+Rad Kalamar Knife*F3*WMV;
+
+| amulets =
+Bodacious Kalamar Amulet;
+Chill Kalamar Amulet;
+Choice Kalamar Amulet;
+Crackling Zanadu Pendant;
+Freezing Zanadu Pendant;
+Grim Zanadu Pendant;
+Hopeful Zanadu Pendant;
+Mondo Kalamar Amulet;
+Righteous Kalamar Amulet*F2*WMV;
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Aero Dwarf Blue Vase;
+Aero Dwarf Chair;
+Aero Dwarf Potted Plant;
+Empyrea Aero Plains Combat*F2*WMV;
+Empyrea Chaos Jungle Theme*F2;
+Empyrea Husk Storm Combat;
+Nimbari Chair*F2*WMV;
+Nimbari Sword Rack;
+Ornate Nimbari Vase*F2;
+
+| cards =
+Boreas Ifrit;
+Death Prism;
+Elemental Blade;
+Elemental Spear;
+Fable Lord;
+Firespear;
+Harmattan Maxios;
+Humongofrog;
+Ice Prism;
+Icespear;
+Life Prism;
+Lifespear*F2*WMV;
+Lord of Atonement*F2*WMV;
+Lord of the Squall;
+Mass Fire Prism;
+Mass Myth Prism;
+Mass Triage;
+Mega Soothe;
+Mutate Beetle (Storm);
+Mutate Bird (Storm);
+Mutate Helephant (Ice);
+Mutate Monster (Fire);
+Mutate Phoenix (Storm);
+Mutate Serpent (Fire);
+Mutate Snowman (Fire);
+Mythspear*F2*WMV;
+Oni No Jade;
+Oni No Plague;
+Sanctuary;
+Spirit Spear;
+Stormspear;
+Time of Legend;
+
+| reagents =
+Aether*F3*WMV;
+Agave Leaves;
+Amber*F2;
+Amber Dust;
+Ancient Scroll*F3*WMV;
+Antique Coins*F4*WMV;
+Aquamarine*F6*WMV;
+Astral Shard;
+Black Pearl;
+Blood Moss*F2*WMV;
+Brass*F2;
+Cobalt*F4*WMV;
+Ectoplasm*F2*WMV;
+Fire Blossom;
+Fish Fin*F6*WMV;
+Flying Squid Ink*F5*WMV;
+Glass Sliver;
+Golden Pearl*F2;
+Mithril*F5*WMV;
+Nickel*F2*WMV;
+Orichalcum;
+Scales*F7*WMV;
+Silver*F5*WMV;
+Spider Silk*F2*WMV;
+Spring;
+Stardust*F2*WMV;
+Steel*F6*WMV;
+Sunstone*F3*WMV;
+Tin;
+Titanium;
+Tungsten*F7*WMV;
+Turmeric;
+Turquoise;
+Vine;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate;
+Beast Wellington*F4*WMV;
+Boiled Spider Legs;
+Bread Fruit Fruit;
+Dastardly Radish;
+Discord Grape Jelly*F6*WMV;
+Drumstick;
+Eye Candy*F2;
+Gator Tots;
+Ginger Mint Tea;
+Glowing Taffy*F2*WMV;
+Golden Squash*F3*WMV;
+Hot Cross Buns*F4*WMV;
+Killer Tomato;
+Krakamari*F2*WMV;
+Lollipop*F2*WMV;
+Meat Soup*F2;
+Pizza*F4*WMV;
+Pyramints;
+Redskin Peanut;
+Rhubarbed Wire;
+Rock and Roll Candy*F2*WMV;
+Salmon Joy;
+Satyr Chow*F4*WMV;
+Sprinkle Cupcake*F3*WMV;
+Veggie Juice*F2*WMV;
+Wheat Cracker*F2*WMV;
+
+| jewels =
+Shiny Accurate Citrine +12%;
+Shiny Accurate Sapphire +12%;
+Shiny Blocking Amethyst +15;
+Shiny Blocking Jade +15;
+Shiny Blocking Peridot +15;
+Shiny Blocking Sapphire +15;
+Shiny Critical Amethyst +15*F2*WMV;
+Shiny Critical Onyx +15;
+Shiny Critical Ruby +15;
+Shiny Critical Sapphire +15;
+Shiny Damage Amethyst +25;
+Shiny Damage Citrine +25;
+Shiny Defense Amethyst +50;
+Shiny Defense Jade +50*F2*WMV;
+Shiny Mana Opal +46;
+Sparkling Critical Onyx +18;
+Sparkling Damage Jade +28;
+Sparkling Defense Ruby +55;
+Sparkling Health Opal +123*F2*WMV;
+Sparkling Health Opal +125;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Blue Huckleberries;
+Boiled Peanuts*F3*WMV;
+Couch Potatoes*CR;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Fiery Boom Shroom*F2*WMV;
+Fish on a Vine;
+Frozen Fly Trap;
+Green Snow Apples;
+Ivy League*CR*F2*WMV;
+Laugh-O-Dil;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily;
+Purple Snow Apples;
+Red Bell Pepper;
+Red Couch Potatoes;
+Saw Palmetto;
+Sunion*CR*F2*WMV;
+Sword Fern*CR;
+Ultra Helephant Ears;
+White Laugh-O-Dil*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

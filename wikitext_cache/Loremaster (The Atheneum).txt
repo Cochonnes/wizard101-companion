@@ -1,0 +1,352 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 7,000
+| crecla = Wizard
+| crecla2 = Undead
+| school = Balance
+| masteries =
+Fire;
+Ice;
+Storm;
+Myth;
+Life;
+Death;
+
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Fire;
+Ice;
+Storm;
+Myth;
+Life;
+Death;
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+17% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Font of Life;
+Font of Strength;
+Font of Weakness;
+
+| world = Dragonspyre
+| location = The Atheneum
+| subloc1 = Loremaster's Chamber
+| lootchest = Loremaster's Chest
+| descrip =
+'''Note:''' Most of Loremaster's ''Spell'' and ''Spellement'' drops have been removed as per the Summer 2022 Update Notes [https://www.wizard101.com/game/community/updatenotes/summerupdate2022#skbs here]:
+
+*The Loremaster is a minor cheating Boss in Dragonspyre.  While she used to drop multiple permanent Spells, she now only drops the Headless Horseman Spell during the {{Link|Basic|Hallowe'en}} event.
+
+| speech =
+:''"Now, Wizard, you face a true Battle Wizard!  Defend yourself!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+Sure, she could easily just give you the Spells she's collected, but where's the fun in that?
+
+| extract class =
+Undead;
+
+| summon animus = 10
+| summon gold = 500
+| guest animus = 20
+| guest gold = 1,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Round}} The Font of Strength Minion casts a {{Link|TreasureCard|Dragonblade (Sun +50%)}} on the Loremaster every three Rounds out of turn, starting on the first Round.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 95 Balance Damage per Pip.
+
+| casts =
+Loremaster;
+Savage Paw;
+Samoorai;
+Krampus;
+Brimstone Revenant;
+Luminous Weaver;
+Goat Monk;
+Lord of Night;
+Deer Knight;
+Catalan;
+Handsome Fomori;
+Winter Moon;
+Keeper of the Flame;
+Ninja Pigs;
+
+| quests =
+The Lore Master;
+
+| gold =
+69 - 396;
+
+| hats =
+Blazing Bonnet*F5*WMV;
+Headdress of Refutation*F8*WMV;
+Hood of the Ranger*F12*WMV;
+Mantle of Fortitude*F8*WMV;
+Mantle of Order;
+Mantle of Thunder*F10*WMV;
+Reaper's Hood*F4*WMV;
+Veil of Sleet*F8*WMV;
+
+| robes =
+Crow's Wrap*F9*WMV;
+Snowflower Cloak*F6*WMV;
+Tunic of Tradition*F9*WMV;
+Tunic of Typhoons*F11*WMV;
+Vestment of the Inferno*F12*WMV;
+Vestment of the Spring*F8*WMV;
+Wrap of Equity*F11*WMV;
+
+| boots =
+Footgear of Corporeality*F9*WMV;
+Mocassins of the Oracle*F8*WMV;
+Mocassins of the Polar Ice;
+Sandals of the Lost Epoch*F8*WMV;
+Shoes of the Phoenix*F9*WMV;
+Slippers of the Glacier*F9*WMV;
+Slippers of the Slipstream*F11*WMV;
+Vineyard Shoes*F7*WMV;
+
+| athames =
+Firewinter's Ice Spark Blade*F9*WMV;
+Flamebringer's Lancet*F6*WMV;
+Infinity's Edge*F5*WMV;
+Lancet of Equality*F6*WMV;
+Poniard of Vitality*F7*WMV;
+Searing Knife*F6*WMV;
+Steelwielder's Skewer*F8*WMV;
+Thunder Blade*F14*WMV;
+
+| amulets =
+
+| rings =
+Band of Balance*F8*WMV;
+Final Orbit*F11*WMV;
+Flamebringer's Fiery Circle*F10*WMV;
+Heartwood Band*F10*WMV;
+Rime-Edged Ring*F8*WMV;
+Ring of the Harpy*F7*WMV;
+Seal of the Saga*F5*WMV;
+
+| wands =
+Branch of the World Tree*F10*WMV;
+Lightning Rod*F9*WMV;
+Pillar of Ice*F10*WMV;
+Scepter of the Ages*F7*WMV;
+Soulbrand*F7;
+Staff of the Justicar*F12*WMV;
+Terminus*F5*WMV;
+
+| decks =
+Deck of Last Departure*F9*WMV;
+Deck of Nature's Bounty*F9*WMV;
+Deck of Perfect Harmony*F5*WMV;
+Deck of the Devouring Flame*F12*WMV;
+Deck of the Ice Wyrm*F12*WMV;
+Karuvian Deck of Eternity*F7*WMV;
+Sea Lord's Deck of Thunder*F11*WMV;
+
+| items =
+
+| cards =
+Angry Snowpig;
+Athena Battle Sight*F4;
+Black Mantle*F40*WMV;
+Brimstone Revenant*F4*WMV;
+Catalan;
+Curse*F46*WMV;
+Deer Knight*F2;
+Dryad*F47*WMV;
+Elemental Shield*F43*WMV;
+Elemental Trap*F52*WMV;
+Handsome Fomori*F4;
+Headless Horseman*HOL*F5*WMV;
+Hephaestus*F5*WMV;
+Hex*F41*WMV;
+Keeper of the Flame*F3;
+Krampus*HOL*F7;
+Lord of Night*F2*WMV;
+Loremaster*F2;
+Luminous Weaver*F2;
+Ninja Piglets*F4;
+Ninja Pigs*F2*WMV;
+Pigsie*F3;
+Plague*F42*WMV;
+Queen Calypso*F4;
+Ratatoskr's Spin*F2;
+Rebirth*F51*WMV;
+Regenerate*F41*WMV;
+Reindeer Knight*HOL*F16*WMV;
+Samoorai*F3*WMV;
+Satyr*F40*WMV;
+Savage Paw*F5*WMV;
+Spirit Armor*F42*WMV;
+Spirit Shield*F48*WMV;
+Spirit Trap*F31*WMV;
+Sprite*F46*WMV;
+Unicorn*F34*WMV;
+Virulent Plague*F52*WMV;
+Weakness*F41*WMV;
+Winter Moon*F3;
+
+| reagents =
+Brass*F19*WMV;
+Cobalt*F11*WMV;
+Copper*F6;
+Iron*F10*WMV;
+Lead*F11*WMV;
+Nickel*F21*WMV;
+Tin*F23*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Add Health Opal;
+Adroit Opal;
+Balance-Boon Citrine*F2;
+Big Energy Opal;
+Blemished Accurate Amethyst +5%;
+Blemished Accurate Citrine +5%;
+Blemished Accurate Jade +5%*F3*WMV;
+Blemished Accurate Onyx +5%*F2*WMV;
+Blemished Accurate Peridot +5%;
+Blemished Accurate Ruby +5%*F3;
+Blemished Accurate Sapphire +5%;
+Blemished Defense Amethyst +23*F2;
+Blemished Defense Citrine +23*F3;
+Blemished Defense Jade +23*F2*WMV;
+Blemished Defense Onyx +23;
+Blemished Defense Peridot +23*F2;
+Blemished Defense Ruby +23*F2;
+Blemished Defense Sapphire +23;
+Blemished Health Opal +43*F2;
+Blemished Health Opal +44*F4*WMV;
+Bombardier Opal;
+Canny Opal;
+Colossus Sapphire*F2;
+Death-Boon Onyx;
+Death-Eye Onyx;
+Dull Blocking Amethyst +2*F2*WMV;
+Dull Blocking Amethyst +4;
+Dull Blocking Citrine +2*F2;
+Dull Blocking Citrine +4*F2;
+Dull Blocking Jade +2;
+Dull Blocking Jade +4*F2;
+Dull Blocking Onyx +2*F4;
+Dull Blocking Onyx +4*F2;
+Dull Blocking Opal +2*F4*WMV;
+Dull Blocking Peridot +2;
+Dull Blocking Peridot +4;
+Dull Blocking Ruby +2*F3*WMV;
+Dull Blocking Ruby +4;
+Dull Blocking Sapphire +2;
+Dull Blocking Sapphire +4*F3;
+Dull Critical Amethyst +3*F3*WMV;
+Dull Critical Citrine +3*F4*WMV;
+Dull Critical Jade +3*F2;
+Dull Critical Onyx +3*F3;
+Dull Critical Opal +2;
+Dull Critical Peridot +3*F3*WMV;
+Dull Critical Ruby +3*F2;
+Dull Critical Sapphire +3*F2;
+Dull Damage Amethyst +13; 
+Dull Damage Citrine +13*F2;
+Dull Damage Jade +13*F3*WMV;
+Dull Damage Onyx +13;
+Dull Damage Peridot +13*F5*WMV;
+Dull Damage Ruby +13*F2;
+Dull Damage Sapphire +13*F2;
+Dull Defense Opal +14*F3;
+Dull Healing Opal +3%*F3;
+Dull Mana Opal +21;
+Dull Mending Opal +3%*F2*WMV;
+Dull Piercing Amethyst +1%;
+Dull Piercing Citrine +1%;
+Dull Piercing Jade +1%;
+Dull Piercing Onyx +1%*F2;
+Dull Piercing Peridot +1%;
+Dull Piercing Ruby +1%;
+Dull Piercing Sapphire +1%*F2;
+Dull PIP Opal +5%*F6*WMV;
+Dull Resilient Opal +3%;
+Earthquake Peridot*F2;
+Fire-Away Ruby;
+Fire-Proof Ruby;
+Flawed Damage Opal +5*F3;
+Healthy Opal;
+Helephant Ruby*F5;
+Huge Energy Opal;
+Huge Rally Opal;
+Hydra Citrine;
+Ice-Away Sapphire*F2;
+Ice-Giver Sapphire;
+Intrepid Opal*F2;
+Lock Opal;
+Musical Lane Opal;
+Myth-Boon Peridot;
+Myth-Giver Peridot;
+Plain Blocking Opal +3;
+Quick Learner Opal*F2;
+Rugged Opal;
+Sanctuary Jade*F4;
+Sharp Opal;
+Shush! Opal;
+Storm-Boon Amethyst;
+Storm-Giver Amethyst*F2*WMV;
+Storm-Shot Amethyst;
+Stormzilla Amethyst*F5*WMV;
+Stupefy Opal;
+Super Delay Opal;
+Ultra Charge Opal;
+Ultra Energy Opal;
+Ultra Exhaustion Opal;
+Ultra Hurry Opal;
+Ultra Mute Opal;
+Ultra Rally Opal;
+Weakenizer Opal*F2;
+Wraith Onyx*F4;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+Headless Horseman*HOL*F5*WMV;
+
+}}

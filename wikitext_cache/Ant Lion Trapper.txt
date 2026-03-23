@@ -1,0 +1,187 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 14,845
+| crecla = Beetle
+| crecla2 = Insect
+| school = Death
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Dragon Beetle;
+
+| world = Khrysalis
+| location = Crescent Beach
+| subloc1 = Gunnhilde's Haunt
+| descrip =
+
+| speech =
+:''"Ahhh, a little bite at home before I go out and look for dinner!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+Loves traps. Beartraps, mousetraps, claptraps, fingertraps. All the traps. And the trappings of traps.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Mass Infection;
+Deathblade;
+Death Trap;
+Feint;
+Death Scarab (Death);
+Natural Attack (Death 135-230-325);
+Wraith (575);
+Scarecrow;
+Dr. Von's Monster;
+Avenging Fossil;
+
+| quests =
+Curse in a Dead Bear's Eye;
+
+| gold =
+126 - 155;
+
+| hats =
+Digger's Mining Helmet;
+Gloom Dancer's Shroud;
+
+| robes =
+Mantis Robe of Secrecy*F4*WMV;
+
+| boots =
+Besieged Burrower Footgear;
+Burrower Scout's Hoppers*F4*WMV;
+Flame Legs Captain's Boots*F5;
+
+| athames =
+Blue Razor Hailstone Blade*F3*WMV;
+Hisser's Burning Cleaver*F2*WMV;
+
+| amulets =
+Benzzi's Campaign Memento*F2; 
+Collar of the Besieged;
+Mantis Prophet's Ornament*F3;
+
+| rings =
+
+| wands =
+Spear of Cold Truth;
+Stave of Duststorms;
+
+| decks =
+Bumbler's Sleetfall Pack*F2;
+Case of Engulfing Flames*F3*WMV;
+House of the Old Times;
+
+| items =
+Khrysalis Combat Theme 2*F2*WMV;
+Khrysalis Desert Shadows Theme*F3;
+Khrysalis Hive Combat Theme;
+
+| cards =
+Choke;
+Disarm;
+Giant Spider;
+Life Scarab*F2;
+O'Leary Charlatan (Storm);
+Pierce;
+Scorpion;
+Spinysaur;
+Sun Serpent;
+
+| reagents =
+Astral Shard*F8*WMV;
+Black Lotus*F3*WMV;
+Black Pearl*F2*WMV;
+Blood Moss;
+Bone;
+Bronze Gear*F6*WMV;
+Deep Mushroom*F3*WMV;
+Draconium*F2;
+Fire Blossom*F2;
+Fossil;
+Golden Pearl*F3*WMV;
+Iron;
+Lava Lily*F2*WMV;
+Mist Wood*F3*WMV;
+Nightshade*F2;
+Ore*F2*WMV;
+Pyrite*F2;
+Red Mandrake*F6*WMV;
+Stone Block*F3*WMV;
+Sunstone;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Dr. Jalapeno;
+Flaming Soup;
+Flapjacks*F2*WMV;
+Glowing Dragon Fruit;
+Goat Cheese*F2; 
+Golden Grapes;
+King Banana*F2; 
+Salmonberry;
+Shiny Tomato;
+
+| jewels =
+Cracked Defense Amethyst +12;
+Imp Jade;
+Polished Critical Citrine +11;
+Sharp Opal;
+Water Elemental Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+Queen Crape Myrtle;
+Red Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

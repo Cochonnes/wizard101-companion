@@ -1,0 +1,166 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 960
+| crecla = Bear
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical = 
+
+| criticalblock = 
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions = 
+Red Claw Informer;
+
+| world = Grizzleheim
+| location = Vigrid Roughland
+| subloc1 = Ragnar's Cave
+| descrip = 
+Ragnar Stormbrow is the leader of the Red Claw in {{Link|Location|Ander's Holt}}.  When Wizards need to find a way to infiltrate {{Link|Location|Frostholm}}, the main fort of the Red Claw, to rescue Ivar Andersson, the elder Bear {{Link|NPC|Grimnir}} suggests that they face Ragnar and take his weapon, which would serve as a fine offering to gain entry to the fort.
+
+*Two additional Red Claw Informers will appear if more than two Wizards are present.
+
+| speech =
+:''"Who are you? How did you get in here? It matters little... Your trespass ends right now!"''
+
+| spellnotes =
+
+| casts =
+Tower Shield;
+Iceblade;
+Ice Trap;
+Snow Serpent;
+Ice Elf (30+210);
+Evil Snowman;
+Snow Shark;
+Ice Wyvern;
+Natural Attack (Ice 85x, 80%);
+Banshee;
+
+| quests =
+Holm Sweet Holm;
+
+| gold =
+46 - 72;
+
+| hats =
+Cap of Spring*F11*WMV;
+Circlet of Fortune*F2*WMV;
+Coif of Veracity*F2*WMV;
+Crown of Achievement*F4*WMV;
+Helm of Determination;
+Lifewarden's Veil;
+
+| robes =
+Cloak of Crashing Waves*F11*WMV;
+Coat of Forethought*F2;
+Drape of the White Squall;
+Raiment of the Lifespring;
+Tunic of Quietus;
+Vestment of Serenity;
+Winterwear Wrap;
+
+| boots =
+Footguards of Consideration*F2*WMV;
+Hailstorm Striders*F10*WMV;
+Indefatigable Striders*F2*WMV;
+
+| athames =
+Fatespinner's Knife*F20*WMV;
+Glyphcarver;
+
+| amulets =
+
+| rings =
+Band of the Answer;
+Jewel of the Afterlife*F15*WMV;
+Kindle Band*F16*WMV;
+Rejuvenating Circlet*F2*WMV;
+Seal of the Tundra;
+Signet of the North Wind*F2*WMV;
+Thane's Circlet*F3*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Hatchet;
+
+| cards =
+Dark Sprite;
+Keen Eyes;
+Skeletal Pirate;
+Snow Shield;
+
+| reagents =
+Brass;
+Ectoplasm*F5*WMV;
+Iron*F2*WMV;
+Lead;
+Nickel*F3*WMV;
+Pyrite*F6*WMV;
+Spider Silk*F5*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Cheese Broccoli*F3*WMV;
+Chocolate Strawberry;
+Glowing Rock Candy*F2*WMV;
+Gummy Firecat*F3*WMV;
+Meat Soup*F7*WMV;
+Sugar Donut*F3*WMV;
+Taco*F6*WMV;
+Tasty Biscuit*F4*WMV;
+Tomato Soup;
+
+| jewels =
+Chipped Damage Opal +4;
+Chipped Defense Onyx +13;
+Chipped Health Opal +16;
+Chipped Mana Opal +10;
+Clay Post Opal;
+Cracked Damage Onyx +2;
+Cracked Damage Peridot +6;
+Cracked Defense Opal +6*F2*WMV;
+Cracked Health Opal +11;
+Dream Shield Onyx;
+Ice-Proof Sapphire;
+Legend Shield Jade;
+Leprechaun Jade;
+Lightning Bats Amethyst;
+Move It! Opal;
+Myth Trap Peridot (Triangle);
+
+| pins = 
+
+| pets =
+
+| seeds =
+Couch Potatoes*CR*F2*WMV;
+Dandelion*F3*WMV;
+Laugh-O-Dil;
+Stinkweed*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

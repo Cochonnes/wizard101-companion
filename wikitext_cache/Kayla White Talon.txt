@@ -1,0 +1,207 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 8,600
+| crecla = Owl
+| school = Balance
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+25% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Hobgoblin Plunderer;
+Hobgoblin Plunderer;
+Hobgoblin Plunderer;
+
+| world = Avalon
+| location = The Wild
+| subloc1 = White Owl Tower
+| descrip =
+Kayla White Talon will appear in White Owl Tower only if Wizards fail to solve the antidote puzzle during the quest, ''Into the Nest'''.  She will automatically pull Wizards into the duel circle after she appears.<br/>''Into the Nest'' Dialogue refers to this Boss as "Kaylin White Talon".
+
+| speech =
+:''"Now that you are logy with sleep, I'll be your undoing!"''.
+
+| spellnotes =
+
+| casts =
+Conviction;
+Vengeance;
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Spirit Blade;
+Elemental Trap;
+Natural Attack (Balance 150-250-445);
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Ra;
+Judgement;
+
+| quests =
+Into the Nest;
+
+| gold =
+127 - 187;
+
+| hats =
+Bad Storm Shroud;
+Brave One's Mantle*F2;
+Brisk Helmet of Nodor;
+Champion of Order's Icy Helm*F3*WMV;
+Chaos Knight's Blazing Helm*F2*WMV;
+Fire Spirits' Toasty Helm*F2;
+Helm of Nature's Wrath;
+Wrath of the Wild;
+
+| robes =
+Brave One's Plate;
+Fire Spirits' Toasty Tunic;
+Hanging Stones Armor*F3;
+Knight of the Wyrd Armor;
+Tunic of Nature's Wrath;
+
+| boots =
+Courageous Knight's Boots*F3*WMV;
+Friend of the Fire Elf Boots;
+Noble Knight's Boots*F2;
+Ponycorn Hoofers;
+Slick Road Grippers;
+Splashing Stream Waders*F2;
+
+| athames =
+Savage Hunter's Edge;
+Weirwood's Thorn*F2*WMV;
+
+| amulets =
+Druid's Amulet of Courage;
+Pendant of Armiger's Tenacity*F3*WMV;
+
+| rings =
+Band of the Lost Abbey;
+Circle of Caliburn;
+Knight Errant's Seal;
+Lake Spiral Ring;
+Toasty Band of the Fire Elves*F3*WMV;
+
+| wands =
+Balanced Longbow*F2;
+
+| decks =
+Clockwork Deck*F4*WMV;
+
+| items =
+Avalon Main Theme;
+Avalon Wooden Table;
+Avalon Wyrd Theme*F2;
+Square Pedestal;
+Stone Skeleton Key*CR*F5;
+
+| cards =
+Availing Hands*F4*WMV;
+Black Mantle;
+Bladestorm*F3*WMV;
+Elemental Defuse*F2*WMV;
+Fire Dragon;
+Forest Lord*F2*WMV;
+Frost Giant;
+Gargantuan*F2*WMV;
+Helping Hands*F4*WMV;
+Hex*F2;
+Leviathan;
+Orthrus;
+Power Nova;
+Rebirth*F2;
+Snow Angel*F2;
+Spirit Defuse*F3*WMV;
+Spirit Shield*F3*WMV;
+Unstoppable;
+
+| reagents =
+Black Lotus*F4*WMV;
+Bronze;
+Cat Tail*F3*WMV;
+Cobalt*F3*WMV;
+Deep Mushroom*F3*WMV;
+Frost Flower*F4;
+Lava Lily*F4*WMV;
+Mist Wood*F2*WMV;
+Ore*F5*WMV;
+Parchment*F4*WMV;
+Pearl;
+Red Mandrake*F3*WMV;
+Shell*F4*WMV;
+Stone Block*F4*WMV;
+
+| spellements =
+
+| snacks =
+Bogwich;
+Cauliflowers*F2;
+Cheese Broccoli*F2;
+Chocolate Strawberry;
+Cracker;
+Glowing Star Fruit;
+Green Grapes;
+Gummy Firecat*F2;
+Gummy Humongofrog;
+Gummy Wyrms;
+Jelly Baby;
+Kola Nuts;
+Nettle Root;
+Sugar Donut;
+Tiny Fish;
+Treant Bark;
+
+| jewels =
+Clear Defense Ruby +37;
+Clear Defense Sapphire +37;
+Death-Eye Onyx;
+Delay Opal;
+Mega Hurry Opal;
+Opaque Health Opal +71;
+Plain Blocking Opal +3;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Evil Magma Peas*CR;
+Frozen Fly Trap;
+Key Limes*CR*F2*WMV;
+Red Huckleberries;
+Silver Trumpet Vine*CR*F3;
+Trumpet Vine;
+White Desparagus;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,259 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,080
+| crecla = Qhat
+| school = Myth
+| shadowslots = 
+| startpips = 3
+| powerpips = Yes
+| critical = 
+96;
+
+| criticalblock = 
+97;
+
+| outpierce =
+2%;
+
+| outboost =
+55%;
+
+| incboost =
+15% Storm;
+
+| incresist =
+30% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Yakhal Ice Keeper;
+
+| world = Mirage
+| location = Yakhal Mountain
+| subloc1 = Deep Freeze
+| descrip =
+Miriam is also known as the "Ice Princess".
+*Uses Pip Conversion.
+
+| spellnotes =
+
+| casts =
+Reliquary;
+Ether Shield;
+Mythblade;
+Stun;
+Blinding Light;
+Yellow Troll;
+Myth Banshee (170);
+Humongofrog (310-370);
+Legendary Treant (445);
+Medusa;
+Basilisk;
+Natural Attack (Life 105-210-315, 85%);
+
+| quests =
+The Rebel Rouser;
+
+| gold =
+633 - 763;
+
+| hats =
+Sand Sea Cowl of Hardiness;
+Sand Sea Cowl of Shivers;
+Vizier's Mantle of Apathy;
+Zruvan Helmet of Amity*F2*WMV;
+
+| robes =
+Vizier's Raiment of Smolders;
+Zruvan Flashflood Raiment;
+Zruvan Raiment of Amity
+
+| boots =
+Sand Sea Shoes of Hardiness;
+Sand Sea Striders of Havoc;
+Vizier's Desert Snow Shoes;
+Vizier's Shoes of Smolders;
+
+| athames =
+Sand Sea Dagger of Ardor;
+Sand Sea Dagger of Decorum;
+Sand Sea Dagger of Havoc;
+
+| amulets =
+Kobra Choker of Acumen;
+Sand Sea Amulet of Bolts;
+Sand Sea Amulet of Explosion;
+
+| rings =
+
+| wands =
+Algid Durvish Armaments;
+Kobra Sceptor of Flooding;
+Rubal Bow of Conflagration;
+
+| decks =
+Kobra Hand of Rigor;
+Sand Sea Deck of Ardor;
+Sand Sea Hand of Emptiness;
+Sand Sea Hand of Shivers;
+
+| items =
+Mirage Caravan Theme;
+Mirage Chronoverge Com Theme;
+Mirage Chronoverge Theme;
+Mirage City Theme 2;
+Mirage Desert Canyons Theme;
+Mirage Magic Carpet Theme;
+Mirage Palace Theme;
+
+| cards =
+Arcticzilla;
+Astraphobia*F2*WMV;
+Deathspear;
+Fiery Colossus;
+Frostfang;
+Icebird;
+Katabatic Wind;
+Mutate Colossus (Storm);
+Namaste;
+Raging Bull;
+Saga of Heroes*F3*WMV;
+Shift;
+Shock Colossus;
+Steel Colossus;
+Stormspear;
+Winged Sorrow;
+Wings of Fate*F2;
+
+| reagents =
+Aether*F2*WMV;
+Agave Leaves*F4*WMV;
+Agave Nectar*F2;
+Amber Dust;
+Antique Coins;
+Aquamarine*F8*WMV;
+Astral Shard*F2;
+Black Pearl;
+Braided Vine;
+Brass;
+Bronze Gear;
+Cobalt;
+Draconium*F4*WMV;
+Ectoplasm;
+Fire Blossom*F2*WMV;
+Fish Fin*F3*WMV;
+Golden Pearl*F8*WMV;
+Iridium;
+Mithril*F7*WMV;
+Nickel*F2*WMV;
+Scales*F8*WMV;
+Silver*F5*WMV;
+Spring;
+Stardust;
+Steel*F5*WMV;
+Sunstone*F4*WMV;
+Tungsten*F5*WMV;
+Turquoise*F6*WMV;
+Vine*F6*WMV;
+
+| spellements =
+
+| snacks =
+Antheneum Delight*F4*WMV;
+Aztecan Hot Chocolate;
+Beast Wellington*F3*WMV;
+Beetle Cream Soda*F2;
+Chalupacabra*F3*WMV;
+Delicious Cookie;
+Eye Candy*F4*WMV;
+Fern Jelly;
+Fire Passion Fruit;
+Gourmet Yogurt;
+Hard Boiled Beetle Eggs*F4*WMV;
+Hot Cross Buns*F2*WMV;
+Huge Ice Cream;
+Large Ice Cream;
+Mustachios*F2;
+Satyr Chow*F4*WMV;
+Ships 'n' Queso*F4*WMV;
+Veggie Juice*F3;
+
+| jewels =
+Brace Opal;
+Lustrous Critical Jade +13;
+Polished Blocking Amethyst +12*F2*WMV;
+Polished Blocking Onyx +12*F2*WMV;
+Polished Critical Amethyst +11;
+Polished Critical Citrine +11*F2*WMV;
+Polished Critical Hematite +11;
+Polished Critical Jade +11;
+Polished Damage Amethyst +21;
+Polished Damage Onyx +21*F2*WMV;
+Polished Damage Ruby +21;
+Polished Defense Amethyst +44;
+Polished Defense Jade +43;
+Polished Piercing Amethyst +6%*F3*WMV;
+Polished Piercing Sapphire +6%;
+Shiny Blocking Jade +16;
+Shiny Critical Amethyst +16;
+Shiny Damage Onyx +26;
+Shiny Defense Amethyst +52;
+Shiny Health Opal +112;
+Shiny Mana Opal +45;
+Shiny Mana Opal +47;
+
+| pins =
+
+| pets =
+MaCaw*CR*F3*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears*F2;
+Baby Carrots*F2;
+Bell Pepper*F2;
+Blue Huckleberries*F3*WMV;
+Boiled Peanuts*F3*WMV;
+Boon Tree*CR;
+Cornbread Fruit Bush*F5*WMV;
+Couch Potatoes*CR*F3*WMV;
+Dandelion*F3*WMV;
+Deadly Fly Trap;
+Deadly Ninja Fig*F2*WMV;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Fickle Pickle;
+Fiery Boom Shroom;
+Fish on a Vine*F5*WMV;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Golden Couch Potatoes;
+Grapes of Wrath*CR;
+Honey Bee Plant;
+Ivy League*CR*F3*WMV;
+King Parsley*CR;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily;
+Orange Dandelion;
+Pink Huckleberries*F3*WMV;
+Prickly Bear Cactus;
+Purple Grapes of Wrath*F3;
+Red Couch Potatoes;
+Red Huckleberries*F3*WMV;
+Sugar Khrystal*CR;
+Tiger Lily (Seed)*F3*WMV;
+White Desparagus;
+White Laugh-O-Dil;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,113 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,390
+| crecla = Sultan
+| crecla2 = Golem
+| school = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+50%;
+
+| incboost =
+20% Myth;
+
+| incresist =
+40% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gold Dragon (Portal of Peril, Tier 1);
+Steeleton (Portal of Peril, Tier 1);
+
+| world = Portal of Peril
+| location = Sinbad & the Iron Sultan Gauntlet (Portal of Peril)
+| subloc1 = Metallos Summit (Portal of Peril)
+| descrip =
+Having finally been cornered by {{Link|NPC|Sinbad}} and companion Wizards on the summit of Metallos, {{Link|NPC|Hari Houssen}} has used the transmutative power of the Iommi Stone to transform himself the Iron Sultan, set on using its powers to restore Ferros to its place of power in the Spiral.
+
+This Creature is nearly identical to [[Creature:Iron Sultan (Tier 2)|Iron Sultan (Tier 2)]].
+*An additional Steeleton will appear if more than two Wizards are present.
+
+| speech =
+:''"I. Am. IRON SULTAN! Once I have taken Ferros I will return her to her former glory by resurrecting what first made her strong: METAL! But before I rule with an iron fist, I should practice wielding one. I think I'll start with your meaty faces!"''
+
+| cheatnotes =
+*''"Clever, but that is why I have a Golden Dragon!"'' - At the beginning of the first Round, the Gold Dragon will cast a version of {{Link|Spell|Shadow Sentinel}} on itself that provides '''75%''' Intercept, '''100''' Critical Block, and '''-30%''' Incoming Damage.
+
+| spellnotes =
+
+| casts =
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Kraken;
+Stormzilla;
+Storm Lord;
+Tempest;
+
+| quests =
+The Umpteenth Voyage of Sinbad;
+
+| dropnotes =
+This Boss will always drop 10 Fortune Coins and 2 random Treasure Cards.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Sinbad;
+
+| reagents =
+Fortune Coin @ 10 Fortune Coins;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Iron Sultan
+}}

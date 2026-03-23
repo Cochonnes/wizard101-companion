@@ -1,0 +1,229 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 12,680
+| crecla = Shadow Weaver
+| school = Myth
+| masteries =
+Death;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Crazed Thunder Horn;
+
+| world = Azteca
+| location = The Zocalo
+| subloc1 = Yacate's House
+| descrip =
+Two additional Crazed Thunder Horn Minions appear if more than two Wizards are present
+
+| speech =
+:''"You are looking for Yacate Farwalker? You are too slow, Light Child! He is already with the King. And another King will fall!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Ether Shield (-75%);
+Infection;
+Mythblade;
+Spirit Blade;
+Curse (+25%);
+Myth Banshee (170);
+Natural Attack (Myth 165-330-495);
+Minotaur;
+Humongofrog (400-500);
+Orthrus;
+Medusa;
+Basilisk;
+Celestial Calendar;
+Wraith (575);
+
+| quests =
+Apocalypto Now;
+
+| gold =
+113 - 233;
+
+| hats =
+Dawn Hour Mantle*F2;
+Elite Jura Guard Helm*F4*WMV;
+Five Fangs of Fury Headdress*F2*WMV;
+Helm of the Broken Spear;
+Indigo Wing Crown*F2;
+Thirteen Death Mask*F2*WMV;
+Tree of Secrets Chac Mask;
+Twisted Fang Mask;
+
+| robes =
+
+| boots =
+Death Moon's Chosen Gliders;
+Ice Age Tyrant's Walkers;
+
+| athames =
+Burning Water Talon;
+Charm of the Gold Aztecosaur;
+Fang of the Night Sky;
+Sky Flower Sliver;
+Tears of Mother Moon Blade;
+
+| amulets =
+Charm of the Gold Aztecosaur;
+House of Plague Greenstone;
+Pitch Black Lake Plague Shell;
+Rising Sun Head Relic;
+Shining Cold House Amulet;
+Smoking Fang Talisman;
+Stone of the Green Skycarrier;
+
+| rings =
+Acampi Reedfist's Lost Seal;
+Bleeding Sun Warrior's Loop*F2*WMV;
+Falling Star's End Time Band;
+Mother Moon's Count Ring*F2*WMV;
+
+| wands =
+Eclipse Spear of Azteca;
+Lance of Night Fire*F2;
+Tears of Night Lance;
+Winter Lord's Obsidian Shard*F2;
+
+| decks =
+Codex of the Lost Fire*F2;
+Deck of the Jaguar Spirit*F4;
+Storm Sun Gallery*F4*WMV;
+Winter's Pyramid Deck*F2*WMV;
+
+| items =
+Azteca Apocalypse Theme;
+Azteca Main Theme*F2;
+Hollow Log;
+Quetzal Feathers;
+Star Clothesline;
+Starburst Frond;
+
+| cards =
+Basilisk;
+Berserk;
+Chimera;
+Colossal*F2;
+Dr. Von's Monster;
+Extraordinary*F2*WMV;
+Orthrus;
+Potent Trap;
+Primordial*F2*WMV;
+Rain of Fire;
+Sharpened Blade;
+Sirens*F2*WMV;
+Storm Lord;
+Woolly Mammoth;
+Vengeance;
+
+| reagents =
+Black Lotus*F3*WMV;
+Black Pearl*F2*WMV;
+Blood Moss;
+Bone*F3*WMV;
+Bronze;
+Bronze Gear*F4*WMV;
+Cobalt;
+Deep Mushroom*F5*WMV;
+Fire Blossom*F2*WMV;
+Fossil;
+Golden Pearl*F2*WMV;
+Lava Lily*F2*WMV;
+Mist Wood*F5*WMV;
+Mithril;
+Nightshade;
+Ore;
+Red Mandrake;
+Steel*F2;
+Stone Block*F2*WMV;
+Sunstone*F2;
+Tungsten;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Apatotatoes;
+Buttered Bread;
+Dr. Jalapeno;
+Fern Jelly;
+Guava;
+Maize*F2*WMV;
+Marzipan Maize;
+Pterotomatoes*F3*WMV;
+Quetzal Pretzel*F2*WMV;
+Rex Tea*F2;
+Stego Waffles;
+
+| jewels =
+Animate Skeleton Onyx;
+Buff Minion Peridot;
+Clear Defense Hematite +40;
+Clear Piercing Jade +5%;
+Drain Health Jade;
+Fire-Away Ruby;
+Go Humongo Peridot;
+Gobbler Opal;
+Gold Miner Opal;
+Golem Minion Peridot;
+Mander Minion Citrine*F2;
+Ninja Pig Opal;
+Opaque Accurate Opal +4%;
+Polished Critical Amethyst +11;
+Polished Critical Onyx +11;
+Polished Critical Sapphire +11;
+Polished Damage Onyx +21;
+Polished Defense Opal +22;
+Polished Health Opal +87;
+Polished Health Opal +89;
+Polished PIP Opal +9%;
+Sap Power Amethyst;
+SnowBorn Sapphire;
+Take Power Ruby;
+Thunder Lizard Amethyst;
+Tower Shield Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Fiery Boom Shroom;
+Maelstrom Snap Dragon;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

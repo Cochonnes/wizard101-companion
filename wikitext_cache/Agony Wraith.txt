@@ -1,0 +1,237 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,280
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Life;
+
+| incresist =
+40% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Grave Phantom;
+
+| world = Marleybone
+| location = Newgate Prison
+| subloc1 = Great Clocktower
+| location2 = Royal Museum
+| subloc2 = Big Ben
+| descrip =
+Agony Wraith is summoned by {{Link|NPC|Malistaire Drake}} and {{Link|NPC|Meowiarty}} when you corner it in the Great Clocktower of Newgate Prison.  It is summoned a second time at the top of Big Ben, as a Minion to {{Link|Creature|Meowiarty}}.
+*In the Great Clocktower encounter, two additional Grave Phantoms will appear if more than two Wizards are present.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Marleybone
+| tome description =
+Constantly tripping over their robes, they are prone to bumps and bruises and other agonizing ailments.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+| retired expel = Yes
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 90 Death Damage per Pip.
+
+| casts =
+Weakness;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Vampire;
+Skeletal Pirate;
+Fire Elf (50+210);
+Cyclops;
+Storm Shark;
+
+| quests =
+Stop That Cat!;
+
+| dropnotes =
+When a Wizard has unlocked the '''Hero of Krokotopia''' {{Icon|Hero of Krokotopia}} Badge and has not unlocked the '''Oni Slayer''' {{Icon|Oni Slayer}} Badge, the following drops will be available:
+*8-14 Spellements and Treasure Card Spellements will drop each time from the '''Spiritual''' (Myth, Life, Death, Balance) Schools for their respective rank 1-4 Spells.
+
+| gold =
+31 - 55;
+
+| hats =
+Animated Canine Cowl*F3;
+Exclusive Cap;
+Flowering Canine Cowl*F5*WMV;
+Genteel Cap*F2;
+Glowing Canine Cowl*F3;
+Precious Cap*F4;
+Victorian Hat*F2;
+
+| robes =
+Cloak of Clarity;
+Dexterous Vest;
+Feline's Fiery Robe*F3;
+Flowering Canine Cloak*F6*WMV;
+Garment of the Supreme*F2;
+High Quality Cloak*F2*WMV;
+Mugsy's Robe of Equity*F2*WMV;
+Polished Garments;
+Robe of Superiority;
+Smooth Spun Cloak*F3*WMV;
+Uniform of the Inventor;
+Uniform of the Proficient*F5*WMV;
+Vestment of Expertise;
+
+| boots =
+Alluring Boots*F4;
+Boots of the Nucleus*F2;
+Delicate Slippers;
+Fancy Slippers*F6*WMV;
+Pleasing Sandals*F6;
+Shoes of the Devoted;
+Slippers of the Worrier*F2;
+
+| athames =
+Aristocrat's Dagger*F5;
+Watchman's Athame;
+
+| amulets =
+Amulet of Chilled Creatures;
+
+| rings =
+Mysterious Band*F3;
+Ring of the Unicorn;
+
+| wands =
+Staff of the Ice Wyvern*F2*WMV;
+
+| decks =
+Deck of Intensity;
+Deck of the Aurora*F2;
+
+| items =
+Angled Gravemarker;
+Blue Knotted Rug;
+Closed Furnace*F2;
+Crossbone Gravestone;
+Small Smoke Stack*F4*WMV;
+
+| cards =
+Cyclops;
+Cyclops (Tier 2b)*BR;
+Banshee (Tier 2b)*BR*F2;
+Blood Bat (Tier 2b)*BR;
+Dark Sprite (Tier 2b)*BR*F2;
+Dryad;
+Ghost Touch*F4;
+Ghoul (Tier 2b)*BR;
+Giant;
+Ice Trap;
+Imp (Tier 2b)*BR*F2;
+Leprechaun (Tier 2b)*BR*F2;
+Locust Swarm (Tier 2b)*BR*F2;
+Nature's Wrath;
+Nature's Wrath (Tier 2b)*BR*F3;
+Pacify;
+Power Play;
+Sandstorm;
+Scarab (Tier 2b)*BR;
+Scorpion (Tier 2b)*BR;
+Sniper*F2;
+Spirit Armor;
+Storm Trap;
+Troll (Tier 2b)*BR;
+Vampire;
+
+| reagents =
+Copper;
+Ectoplasm*F12*WMV;
+Iron*F2;
+Lead;
+Nickel*F4;
+Pyrite;
+Sandstone;
+Tin;
+
+| spellements =
+Banshee*BR*F4;
+Blood Bat*BR*F3;
+Cyclops Minion*BR*F2;
+Cyclops*BR*F4;
+Dark Sprite*BR*F4;
+Gearhead Destroyer*BR;
+Ghoul*BR*F3;
+Imp*BR*F2;
+Leprechaun*BR*F2;
+Locust Swarm*BR*F2;
+Nature's Wrath*BR*F2;
+Scarab*BR*F2;
+Scorpion*BR;
+Seraph*BR*F2;
+Troll*BR*F3;
+Vampire*BR*F2;
+
+| snacks =
+Caramel Popcorn*F3;
+Gummy Bloodbat*F4*WMV;
+Medium Fish;
+Redskin Peanut;
+Square Watermelon*F2;
+Stinky Cheese;
+Wheat Cracker*F2;
+
+| jewels =
+Banshee Onyx*F3;
+Chipped Accurate Amethyst +3%;
+Chipped Accurate Ruby +3%;
+Chipped Defense Jade +15;
+Chipped Defense Onyx +15;
+Chipped Defense Opal +8*F2;
+Determined Opal;
+Energy Opal;
+Flawed Accurate Opal +2%*F3;
+Flawed Damage Opal +5;
+Flawed Health Opal +29;
+Locust Swarm Citrine*F2;
+Sprite Jade;
+Sunbird Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

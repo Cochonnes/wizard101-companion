@@ -1,0 +1,271 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 12,880
+| crecla = Undead
+| school = Ice
+| startpips = 3
+| powerpips = Yes
+| critical =
+120 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+3%;
+
+| outboost =
+70%;
+
+| incboost =
+15% Fire;
+
+| incresist =
+30% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Tome of Mystery;
+
+| world = Mirage
+| location = Istanboa
+| subloc1 = Hall of Secrets
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Mirage
+| tome description =
+This Spirit is actually famous! They're the origin of the age-old adage: 'Curiosity killed the Qhat'.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Brace;
+Icewind;
+Volcanic Shield (-75%);
+Frozen Armor (185);
+Iceblade;
+Ice Trap;
+Ice Bats (215);
+Natural Attack (Ice 105-210-315, 75%);
+Blizzard (290-330, 80%);
+Winter Moon;
+Frostbite (80+549);
+Frost Giant (530);
+
+| quests =
+The Eerem Tablet;
+
+| gold =
+477 - 1,049;
+
+| hats =
+Alkali Kalpak of Fiction;
+Alkali Kalpak of Withering;
+Charred Eerem Headwrap;
+Eerem Headwrap of Hail;
+Eerem Headwrap of Pulse;
+Mottoman Heatwave Helm;
+Mottoman Sandspouts Helm;
+
+| robes =
+Alkali Armor of Fiction;
+Alkali Burning Sands Armor;
+Eerem Raiment of Hail;
+Mottoman Uniform of Ruin;
+
+| boots =
+Alkali Burning Sands Walkers;
+Alkali Walkers of Withering;
+Eerem Givehs of Clangor;
+Eerem Givehs of Discovery;
+Eerem Givehs of Menace;
+Gallant Mottoman Runners;
+Mottoman Sandspouts Runners*F2;
+
+| athames =
+Charred Eerem Razor;
+Eerem Razor of Agony;
+Eerem Razor of Pulse;
+Gallant Istanboa Khanjar;
+
+| amulets =
+Eerem Necklace of Ability;
+Eerem Talisman of Clangor;
+Eerem Talisman of Discovery;
+Eerem Talisman of Harmony*F2;
+Eerem Talisman of Menace;
+Istanboa Heatwave Pendant;
+Istanboa Pendant of Ruin*F2;
+Istanboa Sandspouts Pendant;
+
+| rings =
+Eerem Band of Clangor;
+Istanboa Heatwave Signet;
+Istanboa Signet of Icefall;
+
+| wands =
+Scorpion Bow of Composure;
+Scorpion Bow of Desolation;
+
+| decks =
+Eerem Gallery of Ciphers;
+
+| items =
+Mirage Canyon Combat Theme;
+Mirage City Theme;
+Mirage City Theme 2*F2*WMV;
+Mirage Desert Canyons Theme;
+Mirage Desert Combat Theme;
+Mirage Jungle Combat Theme;
+Mirage Magic Carpet Theme;
+Mirage Palace Theme;
+Mirage Serpent Theme;
+Mirage Spider Speaks Theme;
+
+| cards =
+Age of Reckoning;
+Arcticzilla;
+Blue Phoenix;
+Dragonspear*F2*WMV;
+Frostfang;
+Katabatic Wind*F2;
+Mutate Colossus (Storm);
+Raging Bull;
+Steel Colossus;
+
+| reagents =
+Aether*F7*WMV;
+Agave Leaves*F2;
+Agave Nectar;
+Amber;
+Amber Dust*F3*WMV;
+Aquamarine*F4;
+Astral Shard*F5*WMV;
+Draconium;
+Fire Blossom;
+Fish Fin*F4*WMV;
+Golden Pearl*F5*WMV;
+Iridium;
+Merle's Whisker;
+Mithril*F8*WMV;
+Scales*F7*WMV;
+Silver*F6*WMV;
+Stardust*F2*WMV;
+Steel*F8*WMV;
+Sunstone*F5*WMV;
+Titanium*F4*WMV;
+Tungsten*F4*WMV;
+Turmeric*F2*WMV;
+Turquoise*F5;
+Vine*F6*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F3*WMV;
+Beetle Cream Soda*F4*WMV;
+Chalupacabra*F3*WMV;
+Eye Candy*F2;
+Fire Passion Fruit;
+Frosty Sugar Cubes;
+Hard Boiled Beetle Eggs*F3*WMV;
+Hot Cross Buns*F7*WMV;
+Mustachios*F5*WMV;
+Satyr Chow*F5*WMV;
+Ships 'n' Queso*F7*WMV;
+Veggie Juice*F2*WMV;
+
+| jewels =
+Brace Opal;
+Magnify Opal;
+Polished Accurate Onyx +10%;
+Polished Accurate Sapphire +10%*F2*WMV;
+Polished Blocking Amethyst +11;
+Polished Blocking Peridot +11;
+Polished Damage Onyx +21;
+Polished Defense Citrine +42;
+Polished Defense Peridot +41;
+Polished Defense Peridot +42*F2*WMV;
+Polished Defense Ruby +42;
+Polished Health Opal +89;
+Polished Health Opal +90;
+Polished Health Opal +95;
+Polished Mana Opal +38*F2;
+Polished Mana Opal +40*F2*WMV;
+Renew Opal;
+Shiny Critical Citrine +16;
+Shiny Damage Ruby +26;
+Shiny Damage Sapphire +26;
+Shiny Defense Citrine +50;
+Shiny Defense Citrine +52;
+Shiny Defense Peridot +52;
+Shiny Defense Ruby +51;
+Shiny Mana Opal +45;
+Shiny Mana Opal +47;
+
+| pins =
+
+| pets =
+MaCaw*CR;
+
+| seeds =
+Angel Oak;
+Bell Pepper;
+Boom Shroom;
+Bread Fruit Bush;
+Clockwork Flower;
+Couch Potatoes*CR;
+Deadly Fly Trap*F2*WMV;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Fickle Pickle;
+Fiery Boom Shroom*F2;
+Fish on a Vine*F2*WMV;
+Frozen Fly Trap;
+Goose Tree;
+Honey Sickle;
+Laugh-O-Dil*F2;
+Maelstrom Snap Dragon;
+Orange Dandelion*F2;
+Pink Huckleberries;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Red Bell Pepper;
+Red Huckleberries;
+Rye Bread Fruit Bush;
+Silver Trumpet Vine*CR*F2*WMV;
+Snap Dragon*F2*WMV;
+White Desparagus;
+White Laugh-O-Dil*F2*WMV;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

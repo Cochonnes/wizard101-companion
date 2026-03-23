@@ -1,0 +1,200 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 235
+| crecla = Undead
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+-30%;
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Skeletal Corsair;
+
+| world = Wizard City
+| location = Unicorn Way
+| subloc1 = Blackhope Tower
+| descrip =
+Lady Blackhope is a side Boss who is responsible for scaring {{Link|NPC|Private O'Ryan}}. She resides in the Tower nearest the entrance to Unicorn Way, just adjacent to the {{Link|Creature|Lost Soul}}s.
+*Similarly to {{Link|Creature|Rattlebones}}, Lady Blackhope has no resistance or weakness to any type of magic. However, her Damage values are reduced by -30% from normal (and her Minion's by -50%), so that this solo battle doesn't present too much of a challenge for beginning Wizards.
+
+| speech =
+:''"You say the City Guards are scared of me? Well, they should be! EVERYONE should be! Malistaire has opened the Seals - the Dead rise! Let all who still live beware - my Dark Master will be avenged! You want me to stop haunting the street? HA! Let's see if you have enough spirit to stop me."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+Undead ghoulness aside, the most terrifying aspect of Lady Blackhope is her incessant gossiping about the other Undead.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Imp;
+Leprechaun;
+Dark Sprite;
+Blood Bat;
+Thunder Snake;
+Natural Attack (Ice 90, 80%);
+Frost Beetle;
+Natural Attack (Ice 180);
+
+| quests =
+Saving Private O'Ryan;
+
+| dropnotes =
+Some of Lady Blackhope's drops are restricted by Level:
+*{{Icon|Treasure Card}} Treasure Cards: Level 5+
+ 
+| gold =
+5 - 12;
+
+| hats =
+Alicane's Helm*F30*WMV;
+Canvas Cover*F4;
+Double Sided Hat*F34*WMV;
+Frost-Touched Cap*F2;
+Fur-Lined Hood*F7*WMV;
+Novice's Hat*F4*WMV;
+Soot Stained Hat*F5*WMV;
+
+| robes =
+Armored Tunic*F38*WMV;
+Cloak of Calamity*F35*WMV;
+Novice's Robe*F6*WMV;
+Sturdy Coat*F5*WMV;
+
+| boots =
+Blackhope's Ice Shoes*F42*WMV;
+Graven Boots*F20*WMV;
+Healer's Shoes*F18*WMV;
+Roughspun Shoes*F2*WMV;
+Seared Shoes*F18*WMV;
+Soft Boots*F3;
+Soldiers Wraps*F29*WMV;
+Stormweave Shoes*F20*WMV;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Life Stone Pedestal*F15*WMV;
+
+| cards =
+Blood Bat*F3;
+Dark Sprite;
+Fire Cat*F2;
+Fire Shield*F4*WMV;
+Frost Beetle*F2;
+Ghost Touch*F15*WMV
+Imp*F5*WMV;
+Keen Eyes*F2;
+Myth Shield;
+Scarab;
+Snow Shield*F3*WMV;
+Storm Shield*F2*WMV;
+Thunder Snake*F2;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+Alphyn;
+Ancient Koi;
+Ankylosaurus;
+Auroch*F2*WMV;
+Bat Wings;
+Bengal Tiger;
+Black Stallion;
+Blue Dragon;
+Blue Fairy Wings;
+Brown Warg;
+Bruin Ram*F2;
+Camel;
+Chestnut Pony;
+Crokagator*F2;
+Dark Redwing;
+Enchanted Broom;
+Faithful Dragoness;
+Grey Warg*F2*WMV;
+Hippogriff;
+Horned Sweeper;
+Jaguar;
+Manta Ray;
+Moonlight Pony;
+Nightflame Pegasus;
+Orange Fairy Wings*F2;
+Ostrich;
+Owl;
+Panther;
+Purple Fairy Wings*F2*WMV;
+Purple Glider*F3*WMV;
+Renaissance Wings;
+Rugged Seahorse;
+Sea Turtle;
+Seraph Wings;
+Skyracer Pegasus;
+Snappy Lobster*F3;
+Snow Ram;
+Spritely Seahorse*F2;
+Starlight Pony*F2;
+Starshine Pony*F2;
+Sunshine Pony;
+Swift Gryphon;
+Swift Shark*F2;
+Swiftshadow Wings*F2;
+Tawny Ram;
+Triceratops;
+White Mare*F2*WMV;
+
+| spells =
+
+}}

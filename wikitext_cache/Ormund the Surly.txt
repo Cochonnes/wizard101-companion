@@ -1,0 +1,174 @@
+{{Stub|confirmation for the ''additional Minion'' types}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 3,870
+| crecla = Raven
+| school = Life
+| startpips = 3
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Coven Gloomwing;
+
+| world = Grizzleheim
+| location = Vestrilund
+| subloc1 = Ormund the Surly's House
+| descrip =
+Two additional {{Link|Creature|Darkwing Chopper}}s appear if more than two Wizards are present. ''"Needs confirmation."''
+
+| speech =
+:''"I was set to guard this shovel, and you'll have to pry it from my cold claws!"''
+
+| spellnotes =
+
+| casts =
+Death Shield;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Giant Spider;
+Lifeclops;
+Seraph;
+Earth Walker;
+Centaur;
+Natural Attack (Life 85x);
+
+| quests =
+Calling Ketil Black;
+
+| gold =
+67 - 97;
+
+| hats =
+Cowl of Esprit*F3;
+Cowl of the Dark Waters*F3*WMV;
+Cowl of the One Eyed Crow;
+Hearty Bear Hat;
+Horned Helm of Bravery;
+Horned Helm of Courage;
+
+| robes =
+Bear's Heart Jerkin;
+Coat of Ages;
+Raiment of Sharp Talons*F2*WMV;
+Raiment of the Sun;
+
+| boots =
+Barbarian's Bold Boots*F4*WMV;
+Barbarian's Brave Boots;
+Barbarian's Courage Boots*F2;
+Barbarian's Daring Boots;
+Barbarian's Fearless Boots;
+Barbarian's Fierce Boots*F2*WMV;
+Barbarian's Valorous Boots*F3*WMV;
+Biting Bear Boots;
+Growling Bear Boots;
+Slashing Bear Boots;
+Snarling Bear Boots;
+
+| athames =
+Wolf's Silver Claw*F3;
+
+| amulets =
+Amulet of the Dark Moon*F5*WMV;
+
+| rings =
+Ring of Sister Wolf;
+Ring of the Hunting Wolf;
+Ring of the Ravenous Wolf*F2;
+Ring of the Wolf's Song;
+
+| wands =
+Horns of Winter Dreams*F2;
+Spear of Bear's Wrath;
+
+| decks =
+
+| items =
+
+| cards =
+Dryad;
+Evil Snowman;
+Ice Trap;
+Monstrous*F4*WMV;
+Precision;
+Sniper*F2;
+Sunbird;
+Vengeance*F11*WMV;
+
+| reagents =
+Bone*F3*WMV;
+Bronze Gear*F6;
+Cobalt*F4;
+Nickel*F3;
+Tin;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Cauliflowers;
+Flaming Soup;
+Glowing Star Fruit;
+Goat Cheese*F2;
+Golden Apple;
+King Banana;
+Salmonberry*F3;
+Shiny Tomato*F2*WMV;
+Strawberry Cupcake;
+Submarine Sandwich;
+Uni-Corn*F5;
+
+| jewels =
+Dissipate Amethyst;
+Dull Mana Opal +23;
+Myth-Away Peridot;
+Plain Defense Onyx +29;
+Plain Defense Opal +15;
+Plain Defense Sapphire +29;
+Rage of Winter Sapphire;
+Sprite Time Jade;
+Strangle Onyx;
+The Deer Knight Rises Onyx;
+Unbalance Citrine*F2;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Baby Carrots*F2*WMV;
+Cornbread Fruit Bush*F2;
+Evil Snow Peas;
+Orange Dandelion;
+Snap Dragon;
+Venus Fly Trap;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

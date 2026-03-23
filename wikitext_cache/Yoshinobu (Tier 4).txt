@@ -1,0 +1,161 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 9,240
+| crecla = Samoorai
+| school = Storm
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life;
+
+| incresist =
+40% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Hisamoto (Tier 4);
+Kensaburo (Tier 4);
+Takazane (Tier 4);
+
+| world = Housing Instance
+| location = Midnight Sun Pagoda
+| subloc1 = 
+| descrip =
+
+| speech =
+:'''Student:''' ''"Sensei, we will follow you to the ends of the Spiral... but your path leads to dark places."''
+:'''Yoshinobu:''' ''"Our new allegiance with Kaizoku will bring power to our clan.  Do not worry!  With my best students at my side we are invincible!"''
+
+| cheatnotes =
+*{{Icon|Round}} During the first Round, the following Bosses will cast the following Spells using their turn but not using Pips:
+**{{Icon|Curse}} Yoshinobu will cast Mass Infection.
+**{{Icon|Shield}} Hisamoto will cast {{Link|Spell|Legion Shield}}
+***Hisamoto will use his turn to cast Legion Shield every three Rounds after the first Round.
+
+*{{Icon|Damage}} ''"Chain Reaction!"'' - If a Wizard damages Yoshinobu with a Spell that costs at least 8 Pips, then the following cheats will occur:
+**{{Icon|Curse}} Yoshinobu interrupt-casts a '''-60%''' version of {{Link|Spell|Smoke Screen}}.
+**{{Icon|Healing}} Hisamoto interrupt-casts a version of {{Link|Spell|Rebirth}} that restores '''750''' Health to and applies a '''250''' Damage Absorption Ward on allies.
+**{{Icon|Damage}} Kensaburo interrupt-casts a version of {{Link|Spell|Power Nova}} that deals '''550''' Balance Damage to and applies a '''-50%''' Weakness on all enemies.
+
+*{{Icon|Damage}} ''"The Chain Continues!"'' - If a Wizard damages Yoshinobu with a Spell that costs at least 8 Pips after Hisamoto is defeated, then the following cheats will occur:
+**If Kensaburo is not defeated:
+***{{Icon|Damage}} Yoshinobu interrupt-casts a version of {{Link|Spell|Storm Lord}} that deals '''690''' Storm Damage, but does not Stun.
+***{{Icon|Healing}} Kensaburo individually interrupt-casts a version of {{Link|Spell|Minor Blessing}} that restores '''175''' Health on each Samoorai.
+**If Kensaburo is defeated:
+***{{Icon|Damage}} Yoshinobu interrupt-casts a version of Storm Lord that deals '''690''' Storm Damage but does not Stun, and a version of {{Link|Spell|Ra}} that deals '''565-645''' Balance Damage but does not apply a Weakness.
+****Storm Lord reacts to {{Link|Spell|Empowerment}} but not {{Link|Spell|Adapt}}, while Ra reacts to both Empowerment and Adapt.
+
+| spellnotes =
+
+| casts =
+Fortify;
+Amplify;
+Mass Infection;
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Tempest;
+Natural Attack (Storm 85x, 90%);
+
+| quests =
+Journey Into Midnight;
+
+| gold =
+164 - 165;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Iron Tea Pot;
+Moodha Bust;
+Pearl Orchid;
+
+| cards =
+Do-Daga;
+Forest Lord;
+Kakeda Painbringer;
+Koto;
+Leviathan;
+Medusa*F2;
+Ninja Pigs;
+Otomo Fury*F2;
+Ra;
+Skeletal Dragon*F2;
+Snow Angel;
+Tamauji*F2;
+Yochimo;
+
+| reagents =
+Brass*F2;
+Citrine;
+Leather Straps*F3;
+Nickel;
+Ruby;
+Steel*F2;
+
+| spellements =
+
+| snacks =
+Crunch Apple*F2;
+Fire Passion Fruit*F2;
+Goat Cheese;
+Kapow Pug Poppers;
+Killer Tomato;
+Large Fish;
+Square Root;
+Sweet Pineapple;
+Taco Town Special;
+
+| jewels =
+Plain Blocking Citrine +6;
+Plain Damage Amethyst +15;
+
+| pins =
+
+| pets =
+Yellow Ghost;
+
+| seeds =
+Orange Dandelion;
+Venus Fly Trap*F2;
+
+| mounts =
+
+| spells =
+
+}}

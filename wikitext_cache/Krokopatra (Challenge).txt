@@ -1,0 +1,144 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 7,250
+| crecla = Krokotopian
+| school = Storm
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+25;
+
+| outpierce =
+
+| outboost =
+100%;
+
+| incboost =
+None;
+
+| incresist =
+10% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Krokopatra Rematch
+| subloc1 = 
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the Standard version of this battle, see {{Link|Creature|Krokopatra (Standard)}}.
+
+'''Advanced Combat Rules:'''
+*Wizards stats and spells are scaled to Level 50.
+*Spell Decks cannot be changed while in this instance. (Make sure to set the spells in a deck before entering this instance).
+*No-PvP spells are disallowed in this fight.
+*PvP-Only Spells are allowed in this fight.
+*Wizards cannot re-join combat after fleeing mid-combat.
+
+| speech =
+
+| cheatnotes =
+{{Icon|Late}} ''"Your Queen has no patience for tardiness!"''' - If a Wizard is late to combat, Krokopatra casts a Moon version of '''Insane Bolt''' to all enemies dealing '''550''', '''1,050''' or '''1,550''' Moon Damage.
+
+{{Icon|Damage}} ''"You dare strike your Queen?!"'' - If Krokopatra is attacked, she will cast a version of '''Healing Current''' that heals for '''110''', '''440''', or '''1,100''' Health, before casting a Moon version of '''Insane Bolt''' to all enemies dealing '''550''', '''1,050''' or '''1,550''' Moon Damage.
+
+{{Icon|Damage over Time}} ''"I shrug off such paltry magic"''' - If a Wizard casts a Damage over Time effect on Krokopatra, she will cast {{Link|Spell|Stormzilla (Tier 5b)}}.
+
+{{Icon|Blade}} ''"You can't charm me!"'' - If a Wizard casts a Blade or Global, Krokopatra will either cast an AoE Moon version of Enfeeble, or Healing Current on herself.
+
+{{Icon|Trap}} ''"Your clumsy traps are no match for my grace"'' - If a Wizard casts a Trap, Krokopatra will remove all traps on herself.
+
+{{Icon|Weakness}} ''"You can't weaken the queen!"'' - If a Wizard casts a Damage Debuff on Krokopatra, she will cast a version of Hammer of Thor dealing 525 Damage.
+
+{{Icon|Dispel}} ''"I will not be triumphed over!"'' - If a Wizard casts {{Link|Spell|Dissipate}}, Krokopatra will cast a Moon version of Insane Bolt to all enemies dealing '''550''', '''1,050''' or '''1,550''' Moon Damage.
+
+| spellnotes =
+
+| casts =
+Stormblade (+30%);
+Stormblade;
+Darkwind;
+Storm Shark (Tier 2b);
+Catch of the Day (Tier 2b);
+Kraken (Tier 2a);
+Stormzilla (Tier 2b);
+Triton (Tier 2a);
+Natural Attack (Krokopatra);
+
+| quests =
+
+| dropnotes =
+This Boss will always drop the following:
+*{{Icon|Robe}} 1-2 Malistaire Robes
+*{{Icon|Reagent}} 12 Malistaire's Whisker
+*{{Icon|Spellement}} 16-17 groups of 2 Rank 3 Spellements
+*{{Icon|Treasure Card}} 6-7 Azoth Treasure Cards
+
+| gold =
+
+| hats =
+
+| robes =
+Malistaire's Chilly Vestment (Level 160+);
+Malistaire's Ghostly Vestment (Level 160+);
+Malistaire's Harmonic Vestment (Level 160+);
+Malistaire's Infamous Vestment (Level 160+);
+Malistaire's Squall Vestment (Level 160+);
+Malistaire's Thorny Vestment (Level 160+);
+Malistaire's Vengeance Vestment (Level 160+);
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Malistaire's Whisker @ 12 Malistaire's Whisker;
+
+| spellements =
+Banshee @ 2 Banshee;
+Cyclops @ 2 Cyclops;
+Evil Snowman @ 2 Evil Snowman;
+Locust Swarm @ 2 Locust Swarm;
+Nature's Wrath @ 2 Nature's Wrath;
+Storm Shark @ 2 Storm Shark;
+Sunbird @ 2 Sunbird;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Krokopatra (Rematch)
+}}

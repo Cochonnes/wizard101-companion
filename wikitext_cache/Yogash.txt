@@ -1,0 +1,181 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 6,585
+| crecla = Undead
+| crecla2 = Water-Lurker
+| school = Storm
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth;
+
+| incresist =
+35% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Celestia
+| location = Stormriven
+| subloc1 = Summoning Pylons
+| descrip =
+Yogash is summoned from the Summoning Pylons in Stormriven by using the center Pylon.
+*Originally the same Creature as {{Link|Creature|Cuthalla}}, the two versions diverged in December 2010 when {{Link|Location|The Grotto}} Boss lost its cheats. In April 2013, this Stormriven Boss was renamed to Yogash.
+
+| speech =
+:''"Try to chip away at my life, scale by scale... You will accomplish nothing!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+Scratches a tally mark in his scales for each day he's locked in Stormriven. But then he molts and grows new scales and has to start over again.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*''"Too small! Try again!"'' - Spells that cost less than 3 Pips will result in Yogash interrupt-casting a Tower Shield on himself.
+**[[:Category:Damage Spells|Damage]] Spells costing less than 3 Pips, result in Yogash interrupt-casting a version of Satyr on himself that restores '''5,000''' Health, then casts a Tower Shield on himself.
+**X Pip spells only trigger this cheat if the Spell costs less than 3 Pips.
+**[[:Category:Global Spells|Global]] Spells costing less than 3 Pips, result in Yogash interrupt-casting Tower Shield on himself and a '''-5%''' version of Doom and Gloom.
+**If a Wizard casts a [[:Category:Healing Spells|Healing]] or [[:Category:Manipulation Spells|Manipulation]] Spell, then Yogash will interrupt-cast Wraith on the caster.
+**[[:Category:Steal Spells|Steal]] Spells result in Yogash interrupt-casting a Tower Shield on himself. (Example:Ghoul)
+**[[:Category:Polymorph Spells|Polymorph]] Spells will cause Yogash to interrupt-cast Orthrus on the caster.
+***{{Link|Spell|Taco Toss}} and {{Link|Spell|Stinky Salute}} will result in Yogash casting Satyr on himself, and Wraith at the Wizard.
+
+*Unknown Cheat Trigger:
+**If a Wizard casts a [[:Category:Steal Spells|Steal]] Spell, then Yogash will interrupt-cast a '''-90%''' version of Tower Shield on himself. (Ghoul does not trigger this cheat) Needs confirmation if this cheat still triggers.
+
+*'''Spells that don't trigger this cheat:'''
+**Manipulation Spells that steal hanging effects do not trigger this cheat.
+***(Example:Steal Charm, Steal Ward, Snow Drift)
+**{{Link|Spell|Cooldown}} does not trigger this cheat.
+**X Pip [[:Category:Minion Spells|Minion Spells]] Spells do not trigger this cheat.
+**[[:Category:Global Spells|Global]] Spells that cost more than 2 Pips do not trigger this cheat.
+**[[:Category:Aura Spells|Aura]] Spells, Shadow Self Spells, Shadow Creature Spells, and Pet May Cast Spells will not trigger this cheat.
+**Charms and Wards that are cast by active [[:Category:Shadow Creature Spells|Shadow Creatures]] will not trigger this cheat.
+
+| spellnotes =
+
+| casts =
+Stormblade;
+Storm Trap;
+Darkwind;
+Lightning Bats;
+Kraken;
+Stormzilla;
+Tempest (6 Pip);
+Triton;
+Tempest;
+Natural Attack (Storm 125x, 70%);
+
+| quests =
+
+| gold =
+48;
+
+| hats =
+Pandemonium Helm;
+Wicked Mantle*F2;
+
+| robes =
+Cloak of Creation*F2*WMV;
+Outfit of Accord*F2*WMV;
+
+| boots =
+Euphoric Footgear*F2;
+Law Walkers*F2*WMV;
+
+| athames =
+Claw of the Law*F2;
+Seraph's Shortblade;
+
+| amulets =
+Orthrus's Choker;
+Vial of Rebirth*F2*WMV;
+
+| rings =
+Marcio's Snowfall Band*F2;
+Relic Ring;
+Ring of Wrath*F2*WMV;
+
+| wands =
+Cursed Staff*F2;
+Rod of Rapture*F2;
+Staff of Legends*F2;
+
+| decks =
+
+| items =
+Celestia Stormriven Theme*F2*WMV;
+Marleybonian Driller;
+
+| cards =
+Empower*F4*WMV;
+Gargantuan;
+Unstoppable*F2;
+
+| reagents =
+Fish Fin;
+Nickel*F2*WMV;
+Scales;
+
+| spellements =
+
+| snacks =
+Delicious Cookie;
+Glowing Star Fruit;
+Glowing Taffy*F2*WMV;
+Spicy Drumstick*F2*WMV;
+Strawberry Cupcake*F3;
+Submarine Sandwich;
+
+| jewels =
+Animate Onyx;
+Bad Snowman Sapphire;
+Dissipate Amethyst;
+Entangle Jade;
+Plain Defense Amethyst +29*F2;
+Plain Defense Opal +15;
+Quench Ruby;
+
+| pins =
+
+| pets =
+Spinyfish*CR*F2;
+
+| seeds =
+Deadly Fly Trap*F2*WMV;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F3*WMV;
+Silver Trumpet Vine*CR;
+
+| mounts =
+
+| spells =
+
+}}

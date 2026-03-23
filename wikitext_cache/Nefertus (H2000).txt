@@ -1,0 +1,107 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 2,000
+| crecla = Polar Bear
+| school = Fire
+| school2 = Myth
+| startpips = 1
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
++25 Storm, Life;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = No
+| minions =
+Lichling;
+
+| world = Housing Instance
+| location = Liches & Legends Gauntlet
+| descrip =
+Defeating Nefertus in this fight will cause him to not be present in the fight against King Avernus.
+
+| speech =
+
+| spellnotes =
+*Casts a 0-Pip Natural Attack that deals 100 Fire Damage.
+*Casts a 1-Pip version of Sunbird that deals 200 Fire Damage.
+*Casts a 2-Pip version of Glimpse of Infinity that deals 525 Fire Damage over 3 Rounds.
+*Casts a 1-Pip version of Cyclops that deals 200 Myth Damage.
+*Casts a 2-Pip version of Keeper of the Flame that deals 300 Myth Damage and applies a +100 Damage Ward.
+
+| casts =
+
+| quests =
+Liches & Legends;
+
+| gold =
+11 - 31;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Array of King Avernus (Level 170+)*CR*F2*WMV;
+Array of Legendopia (Level 170+)*CR;
+Array of the Lich Lord (Level 170+)*CR*F2*WMV;
+Array of the Re-Risen (Level 100+)*CR;
+
+| items =
+Large Wooden Elephant Head;
+
+| cards =
+
+| reagents =
+Graph Paper @ 2 Graph Paper;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Archmastery Boost Opal;
+Balance-Giver Citrine;
+Fire-Giver Ruby*F2*WMV;
+Life-Giver Jade;
+Mighty Opal;
+Myth-Giver Peridot*F2*WMV;
+Relentless Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Nefertus
+}}

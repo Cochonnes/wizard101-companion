@@ -1,0 +1,252 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 3,360
+| crecla = Raven
+| school = Storm
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Kol Shadowsong (Coven Boss);
+Mord Runechanter (Coven Boss);
+Munin Mistweaver (Coven Boss);
+
+| world = Grizzleheim
+| location = Ravenscar
+| subloc1 = Raven Fortress
+| lootchest = Stormfather's Chest
+| descrip =
+Othin Stormfather is the Raven leader of {{Link|Creature|The Coven}}. He is located at Raven Fortress, in Ravenscar. Othin is accompanied by the other members of the Coven for this final battle: Kol Shadowsong, Mord Runechanter, and Munin Mistweaver.
+
+| speech =
+:''"Meddling Wizard! You cannot hope to stop the Coven! Our ritual is all but complete! The Everwinter is almost upon us!"''
+
+| spellnotes =
+
+| casts =
+Myth Shield;
+Weakness;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Shark;
+Kraken;
+Stormzilla;
+Tempest;
+Vampire;
+Heck Hound;
+
+| quests =
+Blood Brother;
+
+| gold =
+222 - 293;
+
+| hats =
+Cowl of the Apparition*F9*WMV;
+Fuming Hood*F12*WMV;
+Hat of the Ossuary*F8*WMV;
+Hat of the Stormwracked*F9*WMV;
+Hood of Longevity*F12*WMV;
+Mantle of Magnitude*F11*WMV;
+Permafrost Cap*F13*WMV;
+Puppetmaster's Facade*CR*F3*WMV;
+Turkey Hat*CR*HOL;
+
+| robes =
+Coat of the Elixir*F11*WMV;
+Evenhanded Robe*F15*WMV;
+Flamewarden's Outfit*F9*WMV;
+Hyperborean Wrap*F12*WMV;
+Outfit of the Scholar*F10*WMV;
+Puppetmaster's Costume*CR*F5*WMV;
+Raiment of the Naiad*F10*WMV;
+Vestment of the Last Veil*F14*WMV;
+
+| boots =
+Puppetmaster's Footwear*CR*F4*WMV;
+Santa Boots*CR*HOL;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Allegiance Staff*HOL;
+Arcane Staff*CR*F4*WMV;
+Blushing Leaf Wand*CR*HOL;
+Charmed Shamrock Staff*CR*HOL*F2*WMV;
+Chirping Staff*CR*HOL*F2*WMV;
+Equilateral Sword*F7*WMV;
+Frostwood Sword*F7*WMV;
+Galvanic Blade*F9*WMV;
+Lambent Blade*F7*WMV;
+Rainbow's Reward*CR*HOL;
+Reliquary Blade*F15*WMV;
+Sacred Shillelagh*CR*HOL*F2*WMV;
+Scepter of the Red Hart*CR*HOL*F2*WMV;
+Staff of the Equinox*CR*HOL;
+Staff of the Hopper*CR*HOL;
+Stave of Ashes*F15*WMV;
+Wildbranch Sword*F11*WMV;
+Wings of the Cherubim*F2*CR*HOL;
+
+| decks =
+
+| items =
+Bear-Prowed Rowboat*F2*WMV;
+Big Holiday Tree*CR*HOL;
+Deck the Halls Theme;
+Grizzleheim Combat Theme*F6*WMV;
+Grizzleheim Main Theme*F8*WMV;
+Krokopatra Exalted Duel*CR;
+Krokopatra Master Duel*CR;
+Loom*F2*WMV;
+Meowiarty Archmage Duel*CR*F3*WMV;
+Meowiarty Exalted Duel*CR*F2*WMV;
+Rattlebones Exalted Duel*CR*F2;
+Rattlebones Master Duel*CR;
+Snowflake Wrapped Gift*HOL;
+Zeus Exalted Duel*CR*F2;
+
+| cards =
+Colossus*F3*WMV;
+Helephant*F2*WMV;
+Hydra;
+Scarecrow*F2*WMV;
+Seraph;
+Strong*F2*WMV;
+To Northguard*F6*WMV;
+
+| reagents =
+Bone*F14*WMV;
+Brass*F7*WMV;
+Cobalt*F7*WMV;
+Ectoplasm*F6*WMV;
+Nickel*F13*WMV;
+Spider Silk*F5*WMV;
+Tin*F3*WMV;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F2;
+Dagwood Sandwich;
+Double Donut;
+Fire Cracker*F3*WMV;
+Flaming Soup*F6*WMV;
+French Fries;
+Glowing Rock Candy*F3*WMV;
+Goat Cheese*F2;
+Golden Apple*F5*WMV;
+Golden Grapes*F2*WMV;
+Golden Peanut;
+Golden Squash*F6*WMV;
+Gummy Humongofrog*F3*WMV;
+King Banana*F2*WMV;
+Large Fish;
+Large Watermelon*F3*WMV;
+Moon Pie*F3*WMV;
+Rock and Roll Candy;
+Square Root*F3*WMV;
+Swirled Lollipop*F2*WMV;
+
+| jewels =
+Add Health Opal;
+Baffle Opal;
+Big Energy Opal;
+Big Recovery Opal;
+Catch Leader Opal;
+Cheeky Opal;
+Colossus Sapphire;
+Death-Away Onyx;
+Death-Eye Onyx;
+Dogged Opal;
+Donate Power Citrine;
+Doom and Gloom Onyx;
+Dull Blocking Amethyst +4*F2*WMV;
+Dull Blocking Citrine +4*F2*WMV;
+Dull Blocking Jade +4;
+Dull Blocking Onyx +4*F2*WMV;
+Dull Blocking Opal +2;
+Dull Blocking Peridot +4;
+Dull Blocking Sapphire +4;
+Dull Damage Amethyst +13;
+Dull Damage Citrine +13*F2;
+Dull Damage Jade +13*F2*WMV;
+Dull Damage Onyx +13;
+Dull Damage Peridot +13*F2;
+Dull Damage Sapphire +13;
+Dull Defense Opal +14*F3*WMV;
+Dull Defense Peridot +25;
+Dull Defense Ruby +25;
+Dull Defense Sapphire +25;
+Dull Mana Opal +22;
+Earthquake Peridot*F2*WMV;
+Effervescent Opal;
+Enfeeblement Opal;
+Fire-Giver Ruby;
+Fire-Shot Ruby;
+Helephant Ruby*F2;
+Huge Energy Opal;
+Hydra Citrine*F2*WMV;
+Ice-Boon Sapphire;
+Ice-Giver Sapphire;
+Ice-Proof Sapphire;
+Life-Giver Jade;
+Mega-Leech Opal;
+Myth-Boon Peridot;
+Phoenix Ruby;
+Rugged Opal;
+Sanctuary Jade;
+Stonewall Opal;
+Storm-Giver Amethyst;
+Storm-Shot Amethyst;
+Stormzilla Amethyst;
+Wraith Onyx;
+
+| pins =
+
+| pets =
+Cupig*CR*HOL;
+Lovely Ladybug*CR*HOL;
+Lucky Leprechaun*CR*HOL;
+Lump of Coal*CR*HOL;
+Maple Moose*CR*HOL;
+Pet Egg*CR*HOL;
+Rescue Rover*CR*HOL;
+Silverback Wildclaw*F4*WMV;
+
+| seeds =
+Evil Snow Peas*F4*WMV;
+Orange Dandelion*F9*WMV;
+Pink Laugh-O-Dil*F8*WMV;
+
+| mounts =
+Stormrider Hare*PERM*CR*HOL;
+
+| spells =
+To Northguard*F4*WMV;
+
+}}

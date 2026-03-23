@@ -1,0 +1,219 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 7,680
+| crecla = Ogre
+| school = Life
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Night Goblin;
+
+| world = Avalon
+| location = Caer Lyon
+| subloc1 = Ruined Tower (Avalon)
+| descrip =
+
+| speech =
+:''"Mash you and smash you and crash you! You no take my reading material!"''
+
+| spellnotes =
+
+| casts =
+Empowerment;
+Mend;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Nature's Wrath;
+Life Banshee (250);
+Seraph;
+Centaur;
+Forest Lord;
+Natural Attack (Myth 140-280-430);
+
+| quests =
+Greatest of Sports;
+
+| gold =
+84 - 104;
+
+| hats =
+Bad Storm Shroud;
+Brave One's Mantle;
+Fire Spirits' Toasty Helm;
+Helm of Nature's Wrath;
+Hood of the Sacred Lake*F3;
+Mask of the Catalan*F2*WMV;
+Mask of the Silent Hunter;
+
+| robes =
+Bad Storm Armor;
+Brave One's Plate;
+Catalan's Scales*F2*WMV;
+Fire Spirits' Toasty Tunic;
+Honor Bound Surcoat;
+Jabberwock's Plate*F4;
+Robes of the Silent Hunter;
+Windbreaker of Nodor;
+
+| boots =
+Friend of the Fire Elf Boots*F2;
+Knight's Boots of Justice*F4*WMV;
+Long as Night Walkers*F2;
+Merciful Knight's Boots*F3*WMV;
+Ponycorn Hoofers;
+Slick Road Grippers;
+
+| athames =
+Horn Handled Knife*F3;
+Steel of the Wild Hunt*F4*WMV;
+
+| amulets =
+Dependable Squire's Torc*F2*WMV;
+Torc of Pluck;
+
+| rings =
+Band of the Lost Abbey*F2*WMV;
+Brisk Circle of Nodor*F2*WMV;
+Circle of Caliburn;
+Dun Dara's Triskelion;
+Ganelon's Lost Ring;
+Lake Spiral Ring;
+
+| wands =
+Club of the Heath*F2*WMV;
+Crystal Cavern Cudgel*F3*WMV;
+
+| decks =
+Greenroot Gallery*F5*WMV;
+
+| items =
+Avalon Abbey Road Theme*F2;
+Avalon Combat Theme*F2;
+Avalon Wooden Table;
+Spade Banner;
+
+| cards =
+Brilliant Light*F3*WMV;
+Choke;
+Efreet;
+Fire Dragon;
+Forest Lord;
+Frost Giant;
+Gargantuan;
+Guidance*F3*WMV;
+Guiding Light*F3*WMV;
+Life Prism*F7*WMV;
+Lifeblade*F4*WMV;
+Medusa;
+Orthrus;
+Power Nova;
+Rebirth*F2*WMV;
+Scald;
+Scarecrow*F3*WMV;
+Skeletal Dragon;
+Snow Angel;
+Storm Lord;
+Triage*F3*WMV;
+Unstoppable;
+
+| reagents =
+Black Lotus*F2;
+Bronze;
+Cat Tail*F2*WMV;
+Cobalt;
+Deep Mushroom*F4*WMV;
+Frost Flower*F4*WMV;
+Lava Lily*F4*WMV;
+Mist Wood*F5*WMV;
+Nickel*F3*WMV;
+Ore*F3*WMV;
+Parchment*F2*WMV;
+Pearl*F3*WMV;
+Red Mandrake*F4*WMV;
+Shell*F4*WMV;
+Stone Block*F3*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Bogwich;
+Cauliflowers;
+Cheese Broccoli;
+Chocolate Strawberry*F3*WMV;
+Cracker;
+Deviled Eggs;
+Glowing Star Fruit*F4*WMV;
+Golden Grapes;
+Green Grapes*F2;
+Gummy Firecat;
+Gummy Humongofrog;
+Gummy Wyrms*F2*WMV;
+Jelly Baby;
+King Banana;
+Nettle Root;
+Pigeon Pie*F2*WMV;
+Roasted Chickpeas;
+Sugar Donut*F3;
+Tiny Fish;
+Treant Bark;
+
+| jewels =
+Big Sparky Amethyst;
+Blade of Life Jade;
+Clear Blocking Jade +10;
+Clear Blocking Ruby +9;
+Clear Defense Onyx +37;
+Clear Defense Sapphire +37;
+Eat My Dust Opal;
+Enfeeblement Opal;
+Fire Trap Ruby (Triangle);
+Opaque Defense Onyx +34;
+Opaque Defense Peridot +34;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+Deadly Fly Trap;
+Evil Magma Peas*CR*F2*WMV;
+Key Limes*CR;
+Pink Dandelion*CR;
+Pink Huckleberries*F2;
+Red Huckleberries;
+Silver Trumpet Vine*CR;
+Trumpet Vine;
+White Desparagus;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

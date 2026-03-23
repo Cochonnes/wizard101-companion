@@ -1,0 +1,291 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 18,280
+| crecla = Parrot
+| crecla2 = Undead
+| school = Myth
+| masteries = Death
+| startpips = 6
+| powerpips = Yes
+| critical =
+86 Any;
+
+| criticalblock =
+69 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Grinning Death Moon;
+
+| world = Azteca
+| location = Pitch Black Lake
+| subloc1 = Pyramid of Mother Moon
+| descrip =
+Two additional {{Link|Creature|Tempest Eel}} Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Ohuaya! Ohuaya! It is time to remove your heart, Azure Shining One, to see if it continues to hold its light beyond life."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Like most poets, Neza was never truly appreciated in their time.
+
+| extract class =
+Parrot;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Ether Shield (-75%);
+Infection;
+Mythblade;
+Spirit Blade;
+Curse (+25%);
+Myth Banshee (170);
+Natural Attack (Myth 170-340-510);
+Humongofrog (400-500);
+Basilisk;
+Celestial Calendar;
+Wraith (575);
+
+| quests = 
+The Moon Is Down;
+Hum a Few Bars;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge and has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge, the following drops will be available:
+*15 Spellements will drop each time from '''any''' School for their respective rank 6-10 Spells.
+
+| gold =
+72 - 171;
+
+| hats =
+
+| robes =
+Black Sun Chac's Armor*F2*WMV;
+Death Moon's Chosen Robes*F5*WMV;
+Grinning Death Xicolli Vest;
+Keeper of the Codex Vest;
+Lord of Night Robes*F2;
+Philososaur's Robes*F2;
+White Fire Chac's Armor;
+
+| boots =
+Black Sun Chac's Stalkers*F2*WMV;
+Black Tears of Night Wraps;
+Elite Jura Guard Stalkers*F3*WMV;
+Five Fangs of Fury Boots;
+Grinning Death Stompers*F3*WMV;
+Heart of Sky Boots*F3;
+Indigo Wing Striders*F2;
+Smoking Obsidian Rangers*F2*WMV;
+Tree of Secrets Chac Runners*F5*WMV;
+Twisted Fang Boots;
+
+| athames =
+Beak Breaker's Antique Sliver*F3*WMV;
+Black Blade of Five Deaths*F3*WMV;
+Moon Skull's Blessed Edge;
+Mother's New Moon Athame;
+Wild Wing's Glorious Razor;
+Winged Tooth Knight's Hook;
+
+| amulets =
+Courage Charm of Jade Wings;
+Golden Head of the Cold House;
+Necklace of Lost Ancestors*F2;
+Pendant of the Wild Wings;
+
+| rings =
+Acampi Reedfist's Lost Seal*F3*WMV;
+Seal of Thunder Horn's Glory;
+Underworld Stone;
+
+| wands =
+Mace of the Aztecosaurs*F2;
+New Moon Lance;
+Spear of Breaking Dawn;
+Storm Quetzal's Charged Mace*F2;
+Talon of the Storm Owl*F2*WMV;
+
+| decks =
+Calendar of the Spiral King;
+Case of Mother Moon*F4;
+Deck of the Jaguar Spirit*F2;
+King's Royal Portraits*F4*WMV;
+Lords of Night Pyramid Deck*F4*WMV;
+
+| items =
+Azteca Apocalypse Theme;
+Azteca Main Theme;
+Azteca Mountain Theme;
+Azteca Rug;
+Bird Head Mount*F2*WMV;
+Clothesline*F4;
+Tall Drum;
+
+| cards =
+Basilisk*F2*WMV;
+Chastisement*F3*WMV;
+Chimera*F2;
+Colossal;
+Cycle of Life*F2*WMV;
+Dr. Von's Monster*F2;
+Extraordinary*F3*WMV;
+Frost Demon;
+Furnace*F2*WMV;
+Galvanic Field;
+Gnomes!;
+Polymorph Jaguar;
+Polymorph Pteranodon*F2*WMV;
+Potent Trap;
+Primordial*F2*WMV;
+Punishment*F2*WMV;
+Rain of Fire*F3*WMV;
+Sharpened Blade*F3;
+Sirens;
+Sleet Storm*F2;
+Snow Angel;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F2*WMV;
+Black Pearl*F4*WMV;
+Blood Moss*F2*WMV;
+Bone*F2*WMV;
+Bronze;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F2;
+Fire Blossom*F2*WMV;
+Fossil*F3;
+Golden Pearl*F2*WMV;
+Lava Lily*F5*WMV;
+Mist Wood*F2*WMV;
+Mithril*F2*WMV;
+Nightshade*F2;
+Ore*F2*WMV;
+Red Mandrake*F3*WMV;
+Silver;
+Steel;
+Stone Block*F3*WMV;
+Sunstone*F5;
+Titanium;
+Tungsten;
+Turquoise*F3*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Centaur*BR*F2;
+Chimera*BR;
+Colossus*BR*F2;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR*F2;
+Forest Lord*BR*F2;
+Frost Giant*BR;
+Gnomes!*BR*F2;
+Helephant*BR;
+Hydra*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR*F2;
+Sabertooth*BR*F2;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR*F2;
+Snow Angel*F2*BR*WMV;
+Spinysaur*F2*BR*WMV;
+Stone Colossus*BR;
+Storm Lord*BR*F2;
+Storm Owl*BR;
+Sun Serpent*BR;
+Triton*BR*F2;
+Woolly Mammoth*BR*F2;
+Wraith*BR;
+
+| snacks =
+Allocados;
+Apatotatoes*F2*WMV;
+Bedrock Bonbons;
+Cacao Beans;
+Cactus Fruit*F2*WMV;
+Caramel Apple;
+Dr. Jalapeno*F3;
+Fried Ice Cream*F2*WMV;
+Glowing Star Fruit;
+Guava;
+Jelly Baby*F2*WMV;
+Maize;
+Pterotomatoes;
+Quetzal Pretzel*F2;
+Rex Tea;
+Saber-Tooth Cider;
+Saursa*F3*WMV;
+Shiny Tomato;
+Stego Waffles;
+Tenochti-Flan*F2;
+Zocalo Wings*F3*WMV;
+
+| jewels =
+Curse Giver Onyx;
+Keen Eyes Talent Opal;
+Mander Minion Citrine;
+Polished Blocking Hematite +12;
+Polished Damage Peridot +21;
+Polished Defense Opal +21;
+Spartan Jade;
+Troll Minion Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig*F2;
+Fiery Boom Shroom;
+Fish on a Vine;
+Maelstrom Snap Dragon*F2;
+Ninja Fig*CR;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

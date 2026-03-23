@@ -1,0 +1,93 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 1,480
+| crecla = Wolverine
+| school = Life
+| startpips = 
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 1)
+| descrip =
+The Untamed Wildclaw is a Minon to {{Link|Creature|Jokul (Tier 1)}}. All drops should be recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Guiding Light;
+Life Bat;
+Fairy (480);
+Lifeblade (+40%);
+Life Trap;
+Leprechaun;
+Giant Spider;
+Lifeclops;
+Nature's Wrath;
+Natural Attack (Life 108-1685);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

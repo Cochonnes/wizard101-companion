@@ -1,0 +1,111 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 2,655
+| crecla = Train Boss
+| crecla2 = Equine
+| school = Balance
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+60%;
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Housing Instance
+| location = Great Sky Train Robbery Gauntlet
+| subloc1 = Great Sky Train Robbery Gauntlet (Tier 2)
+| descrip =
+Ms. Felicity (Tier 2) is considered a Minion to {{Link|Creature|N. Bison (Tier 2)}}.  All drops are recorded on that page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Her name literally means happiness, which has nothing to do with anything, but it's a fun fact.
+
+| extract class =
+Equine;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Balance Damage.
+
+| casts =
+Weakness (-30%);
+Balanceblade (+30%);
+Bladestorm (+25%);
+Hex (+35%);
+Spiritual Tribunal;
+Judgement;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

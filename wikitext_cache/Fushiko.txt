@@ -1,0 +1,166 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,580
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Grief Spectre;
+
+| world = MooShu
+| location = Village of Sorrow
+| subloc1 = Fushiko's House
+| descrip =
+Wizards must defeat this Banshee after lighting the third Portal Candle inside of Fushiko's House.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+A horror from an unclean house that spreads hatred and lies like dust that blows in an open window.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Black Mantle;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Vampire;
+Skeletal Pirate;
+Natural Attack (Death 85x);
+Lightning Bats;
+Cyclops;
+Meteor Strike;
+
+| quests =
+Clean House;
+
+| gold =
+55 - 84;
+
+| hats =
+Benign Cap;
+Cowl of Discord;
+Fushiko's Captive Shroud;
+Fushiko's Shroud;
+Hat of the Nimble;
+Hat of the Triad;
+Mask of Impression*F2;
+Painful Cowl;
+Shroud of Afterthoughts;
+
+| robes =
+Friendly Garments*F3;
+Fushiko's Cloak*F2;
+Garment of Sandcastles*F3*WMV;
+Garment of Watchfulness;
+Garment of Yodels*F2*WMV;
+Robes of Struggling;
+Tunic of Chimes*F3;
+Tunic of the Whim*F2*WMV;
+Zippy Tunic;
+
+| boots =
+Blended Wool Footwraps;
+Footwraps of Pictures;
+Friendly Shoes;
+Fushiko's Footwraps of Intent;
+Fushiko's Sandals*F2;
+Vexing Boots;
+
+| athames =
+Athame of the Lotus;
+Tanto of Icy Power*F2;
+
+| amulets =
+Fushiko's Choker;
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Dark Green Silk Kimono*F2;
+Frog Statue;
+Frost Tablet;
+Haunted Imperial Shrine;
+Long Lantern;
+Stone Marker;
+
+| cards =
+Banshee;
+Darkwind;
+Ghost Touch;
+Kraken;
+Wyldfire;
+
+| reagents =
+Ectoplasm*F4;
+Nickel;
+Tin;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F2*WMV;
+Fire Cracker;
+Golden Squash*F2*WMV;
+Square Root;
+
+| jewels =
+Blemished Defense Opal +12;
+Blemished Defense Ruby +21;
+Death-Away Onyx;
+Flawed Accurate Amethyst +4%;
+Flawed Defense Jade +19;
+Flawed Defense Ruby +19;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

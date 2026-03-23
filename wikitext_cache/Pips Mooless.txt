@@ -1,0 +1,153 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 13,975
+| crecla = Bull
+| crecla2 = Bull Gangster
+| school = Life
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| outpierce =
+24%;
+
+| outboost =
+125%;
+
+| incboost =
+5% Death;
+
+| incresist =
+73% Life;
+
+| outhealing =
+75%;
+
+| inchealing =
+75%;
+
+| stunable = Yes
+| beguilable = 
+| minion = Moo Crew (Fire)
+| minion2 = 
+| world = Lemuria
+| location = Heap
+| subloc1 = Lock Up
+| descrip =
+*An additional {{Link|Creature|Moo Crew (Balance)}} and {{Link|Creature|Moo Crew (Myth)}} appear when more than two Wizards are present.
+
+| spellnotes =
+*Casts an Aegis-protected Lifeblade (+40%).
+*Casts an unprotected Lifeblade (+40%).
+'''Natural Attack:'''
+*Deals an unknown quantity of Life Damage.
+
+| casts =
+Sugar Rush;
+Impede;
+Quicken;
+Lifeblade (+40%);
+Namaste;
+Lamassu;
+Hungry Caterpillar;
+Grrnadier (Tier 3a);
+Spirited Minotaur (Life);
+Wings of Fate;
+Lord of the Jungle (Tier 3a);
+Spinysaur (660+825);
+
+| quests =
+Lock-Up, Up and Away;
+
+| gold =
+161 - 360;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Supreme Lifeforce Athame;
+Supreme Stability Athame;
+
+| amulets =
+Supreme Ancient One Talisman;
+Supreme Ferocious Talisman;
+Supreme Undead Talisman;
+Supreme Volcanic Talisman;
+
+| rings =
+
+| wands =
+Supreme Teleological Staff;
+
+| decks =
+
+| items =
+Lemuria Boss Combat Theme;
+Lemuria Ursai Village Theme;
+Puzzle Cube;
+
+| cards =
+Elemental Defuse;
+Flood;
+Galvanic Field;
+Pest Zapper;
+Storm Shield*F2*WMV;
+
+| reagents =
+Brass;
+Bronze Gear;
+Ectoplasm;
+Scales*F2;
+Tin*F2*WMV;
+
+| spellements =
+Barbarian's Saga;
+Dark & Stormy;
+
+| snacks =
+Golden Squash*F2*WMV;
+Poncherello Chips;
+Tomato Soup;
+
+| jewels =
+Dazzling Accurate Citrine +14%;
+Dazzling Accurate Hematite +14%;
+Dazzling Blocking Peridot +19;
+Dazzling Critical Hematite +19;
+Dazzling Damage Jade +29;
+Death-Eye Onyx;
+Dog Tracy Amethyst*F2*WMV;
+Fire-Dealer Ruby;
+Healer Opal;
+Life-Away Jade;
+Sparkling Damage Opal +14;
+Sparkling Health Opal +119;
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Desparagus (Seed);
+Evil Snow Peas;
+King Parsley*CR;
+Maelstrom Snap Dragon;
+Orange Bell Pepper*CR;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus;
+Red Huckleberries*F2*WMV;
+Rotten Beets;
+Silver Trumpet Vine*CR;
+Trumpet Vine;
+Ultra Tiger Lily;
+Vampire Carrots*F3;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

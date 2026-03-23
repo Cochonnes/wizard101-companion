@@ -1,0 +1,247 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,200
+| crecla = Pig
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Ronin Keyholder;
+
+| world = MooShu
+| location = Tatakai Outpost
+| subloc1 = Maito's Dojo
+| descrip =
+*Two additional Ronin Keyholders will appear if more than two Wizards are present.
+
+| speech =
+:''"In what world do you think you can take me on? Not this one, Wizard."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+Tends to think of himself as an important part of MooShu history, but you put him in his place.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Myth Shield;
+Weakness;
+Black Mantle;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Storm Serpent (155-195);
+Storm Elf (30+210);
+Lightning Bats;
+Storm Shark;
+Kraken;
+Colossus (Storm);
+Tempest;
+Troll;
+Banshee;
+Natural Attack (Fire 100x);
+
+| quests =
+Let Me Shek;
+
+| dropnotes =
+When a Wizard has unlocked the '''Mastermind''' {{Icon|Mastermind}} Badge and has not unlocked the '''Savior of the Spiral''' {{Icon|Savior of the Spiral}} Badge, the following drops will be available:
+*8 Spellements will drop each time from the '''Elemental''' (Fire, Ice, Storm, Balance) Schools for their respective rank 1-5 Spells.
+
+| gold =
+65 - 86;
+
+| hats =
+Benign Cap;
+Cap of Consideration;
+Cap of the Lithe;
+Cap of Tribulations*F2*WMV;
+Cowl of Tact*F3*WMV;
+Enlivened Cowl*F2;
+Hat of the Lotus*F2*WMV;
+Hat of the Nimble;
+Helm of Sandcastles*F2;
+Light-As-Air Hat;
+Painful Cowl;
+Shroud of Conceit*F3*WMV;
+Shroud of Music*F4;
+
+| robes =
+Cloak of Humor;
+Cloak of Rhyming;
+Concordant Robes*F2;
+Dashing Cloak*F3*WMV;
+Euphonic Cloak;
+Garment of Dilemma;
+Garment of Sandcastles;
+Heedful Robe;
+Impulsive Vestment*F2;
+Maito's Vestment;
+Painful Vestment*F2;
+Robes of Struggling;
+Robes of the Triad;
+Sprightly Garments;
+Tunic of Chimes;
+Tunic of Preoccupation;
+Vestment of Cooperation;
+Vestment of the Eager;
+Vestment of Tribulations;
+Vexing Tunic;
+Zippy Tunic;
+
+| boots =
+Boots of Cooperation;
+Boots of Niceties;
+Footwraps of Anthems;
+Footwraps of Pictures;
+Friendly Shoes;
+Maito's Footwraps;
+Maito's Slippers of Discord*F3;
+Profound Slippers;
+Sandals of Nuisance;
+Sandals of Sympathy;
+Shoes of Deliberation*F4;
+Shoes of Dreaming*F3;
+Shoes of Preoccupation;
+Shoes of Song*F2*WMV;
+Slippers of the Lotus*F3;
+
+| athames =
+Dagger of Detachment*F2*WMV;
+Knife of Preoccupation*F2;
+Maito's Interpretive Dirk*F2;
+
+| amulets =
+
+| rings =
+Band of Sandcastles*F2;
+Maito's Band of the Wild*F2;
+Ring of the Naturewalker;
+
+| wands =
+
+| decks =
+
+| items =
+Domed Tree*F2*WMV;
+Flame Obelisk;
+Landscape Painting*F2*WMV;
+Single Bed*F2*WMV;
+Yellow and Blue Chest;
+
+| cards =
+Balefrost;
+Darkwind;
+Donate Power;
+Dragonflies;
+Pest Zapper;
+Sanctuary;
+Thunder Snake;
+
+| reagents =
+Brass;
+Copper;
+Iron;
+Leather Straps*F6*WMV;
+Nickel;
+
+| spellements =
+Blight Hound*BR*F2;
+Evil Snowman*BR;
+Fire Cat*BR*F3;
+Fire Elf*BR*F2;
+Frost Beetle*BR*F3;
+Gearhead Destroyer*BR*F2;
+Ice Wyvern*BR;
+Immolate*BR*F2;
+Kraken*BR*F2;
+Lightning Bats*BR;
+Locust Swarm*BR;
+Phoenix*BR*F2;
+Scarab*BR;
+Scorpion*BR;
+Snow Serpent*BR*F3;
+Spectral Blast*BR*F2;
+Storm Shark*BR;
+Stormzilla*BR*F2;
+Sunbird*BR*F2;
+Thunder Snake*BR*F2;
+
+| snacks =
+Ape Grapes*F2*WMV;
+Crunch Apple;
+Fire Cracker*F2;
+Golden Peanut*F2;
+Golden Squash;
+Large Fish*F3;
+Large Watermelon*F2*WMV;
+Square Root*F4*WMV;
+
+| jewels =
+Blemished Accurate Citrine +5%;
+Blemished Accurate Peridot +5%;
+Blemished Accurate Sapphire +5%;
+Blemished Defense Amethyst +21;
+Blemished Defense Onyx +21*F2*WMV;
+Blemished Defense Opal +12;
+Blemished Defense Peridot +21;
+Blemished Defense Ruby +21*F2;
+Blemished Defense Sapphire +21;
+Dirt Post Opal;
+Dogged Opal;
+Flawed Damage Citrine +10;
+Flawed Damage Opal +5;
+Flawed Damage Ruby +10;
+Flawed Defense Amethyst +20;
+Flawed Defense Peridot +20;
+Flawed Defense Sapphire +20;
+Intrepid Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig*F3*WMV;
+Fiery Boom Shroom;
+Maelstrom Snap Dragon*F3*WMV;
+Pink Dandelion*CR*F4;
+White Laugh-O-Dil*F3;
+
+| mounts =
+
+| spells =
+
+}}

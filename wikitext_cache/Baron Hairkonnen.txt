@@ -1,0 +1,250 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 9
+| crecla = Qhat
+| school = Myth
+| cheats = Yes
+| shadowslots = 1
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+3%;
+
+| outboost =
+55%;
+
+| incboost =
+15% Storm;
+
+| incresist =
+30% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Mirror Image (Death);
+Mirror Image (Ice);
+Mirror Image (Storm);
+
+| world = Mirage
+| location = Rubal Wastes
+| subloc1 = Baron's Retreat
+| descrip =
+
+| speech =
+:'''Baron Hairkonnen''' ''"Welcome to the Pit of Despair! Haha! Don't even think... h-h-hruh! Don't even think about trying to escape from here."''
+:'''{{Link|NPC|Istar}}''' ''"Uh... hello? We're not trying to escape. We're trying to convince you to step down peacefully and let your daughter take over."''
+:'''Baron Hairkonnen''' ''"Don't even think... h-h-hruh! Don't think about that either. A Qhitten to run House Calixco? Never! Haha! I'll crush you... into kibbles and bits!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"H-H-Hruh. You're late!"'' - If a Wizard joins after the second Round has started, Baron Hairkonnen will cast a Balance version of {{Link|Spell|Steal Pips}} at the Wizard, which steals 3 pips and deals Balance Damage.
+*{{Icon|Aura}} ''"H-H-Hruh. Meow! Haha!"'' - At the beginning of Round 1, he will cast a permanent '''-200%''' version of {{Link|Spell|Brace}} aura that makes him immune to all damage.
+:*Aura says Invulnerability when used.
+:* Wizards can only damage the Baron after defeating all of his Minions.
+:*Armor piercing that deals more than '''+100%''' will bypass the aura's effects (e.g. armor pierce equipment, spear spells, globals, {{Link|Spell|Infallible}}, {{Link|Spell|Shadow Shrike}}, etc.)
+*{{Icon|Manipulation}} ''"A sick Qhat doesn't deserve that!"'' - If a Wizard removes Baron Hairkonnen's Aura, he will recast it.
+*{{Icon|Minion}} ''"Feel the impact of my illness!"'' - At the beginning of Round 1 (after he casts his immunity aura), he will cast a Myth spell that summons one of the following Minions:
+::{{Link|Creature|Mirror Image (Death)}}
+::{{Link|Creature|Mirror Image (Ice)}}
+::{{Link|Creature|Mirror Image (Storm)}}
+:*The number of Minions summoned is equal to the number of Wizards engaged in the duel.
+:*This cheat will also be triggered by Wizards who join after the battle has started.
+*{{Icon|Minion}}{{Icon|Afterlife}} ''"I embrace the madness!"'' - The turn after all Minions are defeated, he will cheat-cast a '''+45% (in) / +35% (out)''' version of {{Link|Spell|Berserk}}.
+
+| spellnotes =
+
+| casts =
+Ether Shield (-75%);
+Myth Shield (-85%);
+Tower Shield (-55%);
+Legion Shield (-35%);
+Mythblade;
+Balanceblade (+30%);
+Cleanse Ward;
+Blinding Light (85%);
+Natural Attack (Myth 115-230-345, 75%);
+Cyclops (310-370);
+Athena Battle Sight;
+Humongofrog (310-370);
+Mystic Colossus;
+Legendary Treant (445);
+Witch's House Call (No Minion);
+Orthrus (785);
+Celestial Calendar;
+
+| quests =
+The Baron's Last Stand;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' Badge and has not unlocked the '''[[Basic:Empyrea Badges|Hero of Light and Shadow]]''' Badge, the following drops will be available:
+*10 Spellements will drop each time from '''any''' School for their respective rank 9, 10, King Artorius, Polaris, and Mirage Spells.
+
+| gold =
+265 - 357;
+
+| hats =
+Sand Sea Cowl of Emptiness;
+Zruvan Helmet of Acumen;
+
+| robes =
+Sand Sea Outfit of Ashes;
+Sand Sea Outfit of Mischief;
+Zruvan Raiment of Mettle;
+
+| boots =
+
+| athames =
+Sand Sea Dagger of Curiosity;
+Sand Sea Dagger of Decorum;
+
+| amulets =
+Kobra Choker of Acumen;
+
+| rings =
+Sand Sea Ring of Accord;
+Sand Sea Ring of Bolts;
+Sand Sea Ring of Decorum;
+
+| wands =
+Rubal Bow of Eradication;
+Rubal Bow of Justice;
+
+| decks =
+Sand Sea Hand of Decorum;
+
+| items =
+Mirage Canyon Combat Theme;
+Mirage Canyon Theme 2;
+Mirage Caravan Theme;
+Mirage Chronoverge Theme*F3*WMV;
+Mirage City Combat Theme;
+Mirage City Theme 2*F3;
+Mirage Den of Thieves Theme;
+Mirage Desert Canyons Theme;
+Mirage Desert Combat Theme;
+Mirage Jungle Combat Theme;
+Mirage Nomad Theme;
+
+| cards =
+Age of Reckoning;
+Ashen Bones;
+Astraphobia;
+Combustion;
+Katabatic Wind*F4*WMV;
+Namaste;
+Rusalka's Wrath;
+Winged Sorrow;
+
+| reagents =
+Aether*F5*WMV;
+Agave Leaves*F3*WMV;
+Amber Dust*F4*WMV;
+Aquamarine*F2;
+Astral Shard*F4*WMV;
+Fire Blossom*F5*WMV;
+Golden Pearl*F6*WMV;
+Iridium;
+Merle's Whisker*F2;
+Mithril*F3*WMV;
+Scales*F2*WMV;
+Silver*F3;
+Stardust;
+Steel*F2;
+Sunstone*F4*WMV;
+Titanium*F6*WMV;
+Tungsten*F2*WMV;
+Turmeric;
+Turquoise*F2*WMV;
+Vine*F3*WMV;
+
+| spellements =
+Dr. Von's Monster*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Lamassu*BR;
+Raging Bull*BR;
+Rusalka's Wrath*BR;
+Sand Wurm*BR;
+Snake Charmer*BR;
+
+| snacks =
+Beetle Cream Soda*F2;
+Chalupacabra*F2;
+Eye Candy;
+Hard Boiled Beetle Eggs*F2*WMV;
+Hot Cross Buns*F2*WMV;
+Mustachios;
+Ships 'n' Queso*F2;
+Veggie Juice*F4*WMV;
+
+| jewels =
+Shiny Blocking Amethyst +16;
+Shiny Blocking Citrine +16;
+Shiny Blocking Hematite +16;
+Shiny Damage Hematite +52;
+Shiny Damage Jade +26;
+Shiny Damage Peridot +26;
+Shiny Defense Citrine +52;
+Shiny Defense Jade +51;
+Shiny Defense Ruby +51*F2;
+Shiny Health Opal +111*F2;
+Shiny Health Opal +112;
+Shiny Health Opal +113;
+Shiny Mana Opal +45*F2;
+Shiny PIP Hematite +2;
+
+| pins =
+
+| pets =
+MaCaw*CR;
+
+| seeds =
+Baby Carrots*F2*WMV;
+Bamboo Shoots;
+Bell Pepper;
+Boiled Peanuts;
+Boon Tree*CR*F2;
+Bread Fruit Bush;
+Cornbread Fruit Bush*F3;
+Couch Potatoes*CR*F2*WMV;
+Dandelion;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Fish on a Vine;
+Frozen Fly Trap;
+Grapes of Wrath*CR*F3;
+Golden Couch Potatoes*F2;
+Goose Tree;
+Honey Sickle;
+Ivy League*CR;
+Maltese Tiger Lily;
+Missile Toe;
+Moon Flower;
+Pink Huckleberries*F2*WMV;
+Purple Snow Apples;
+Red Bell Pepper;
+Red Grapes of Wrath;
+Trumpet Vine;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

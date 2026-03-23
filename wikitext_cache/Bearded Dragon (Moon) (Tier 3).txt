@@ -1,0 +1,117 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 15,615
+| crecla = Wyrm
+| school = Moon
+| startpips = 5
+| powerpips = Yes
+| critical =
+175 Any;
+
+| criticalblock =
+265 Any;
+
+| outpierce =
+12%;
+
+| outboost =
+79%;
+
+| incboost =
+None;
+
+| incresist =
+47% Any;
+
+| outhealing =
+75%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Night Mire Gauntlet
+| subloc1 = Night Mire Gauntlet (Tier 3)
+| descrip =
+Bearded Dragon (Moon) (Tier 3) is considered a Minion to {{Link|Creature|Bearded Dragon (Sun) (Tier 3)}}.  All drops are recorded on that page.
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+If its fame ever gets eclipsed, brace yourself for the apocalypse.
+
+| extract class =
+Wyrm;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Empowerment;
+Balanceblade;
+Donate Power;
+Donate Shadow (3 Pip);
+Shift GreenOak;
+Shift Ogre;
+Shift Sugar Glider;
+Shift Grendel;
+Shift Rattlebones;
+Orthrus (Moon, 700);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

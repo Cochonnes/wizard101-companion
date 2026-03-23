@@ -1,0 +1,111 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 9,660
+| crecla = Krokotopian
+| school = Ice
+| startpips = 4
+| shadowslots = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce = 
+10%;
+
+| outboost =
+75%;
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Doomsday Krok Gauntlet
+| subloc1 = Doomsday Krok Gauntlet (Tier 4)
+| descrip =
+
+| speech =
+
+| spellnotes =
+*Casts an Aegis-protected Iceblade (+40%).
+
+| casts =
+Brace;
+Conviction;
+Tower Shield (-55%);
+Black Mantle (-55%, 0 Pip);
+Weakness (-30%);
+Iceblade (+40%);
+Ice Trap (+35%);
+Ice Elf (50+210);
+Evil Snowman (280-340);
+Snow Shark;
+Blizzard (290-330, 80%);
+Krokhotep;
+Frost Giant;
+
+| quests =
+
+| gold =
+1,000;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Krokotopian Obelisk*F2;
+Novice's Socket Wrench*F2;
+
+| cards =
+
+| reagents =
+Smoke Screen Token;
+Spiritual Retriever*F2;
+
+| spellements =
+
+| snacks =
+Ancient Date;
+Black Sun Seeds*F2;
+Loco Nut;
+Medium Fish;
+Sandy Corn;
+Square Root;
+
+| jewels =
+Cracked Damage Opal +2;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,116 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 7,115
+| crecla = Wolf
+| school = Balance
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Balance;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = MooShu
+| location = Village of Sorrow
+| subloc1 = House of Ghosts
+| descrip =
+*Defeating The Last Straw is part of the Initiate Balance Weaving quest, ''"Iconic Daisuke"''. Wizards can also defeat The Last Straw as one of their Balance Weaving lessons, which awards the badge, [[Basic:Balance Weaving Badges|Bigger, Badder Wolf]].
+
+| speech =
+:'''The Last Straw:''' ''"The rogue swine comes to me at last. Good. I was feeling hungry."''
+
+:'''{{Link|NPC|Daring Daisuke}}:''' ''"And I am feeling stabby."''
+
+:'''The Last Straw (speaking as [[:File:(Quest) The Most Hated Man in Dragonspyre Dialogue 9.png|Peaceful Draconian]]):''' ''"Silent as ever. No matter. We serve no one! You never understood that, Unaliver. You blinded yourself to truth to serve your campaign of destruction! No more. We are servants to Death no more. No matter how many of us you fight, you will never change that."''
+
+:'''Daring Daisuke:''' ''"What did you say?"''
+
+:'''The Last Straw:''' ''"I said my stomach growls loud enough for us both!"''
+
+| spellnotes =
+
+| casts =
+Tower Shield;
+Weakness;
+Sprite;
+Balanceblade;
+Hex;
+Slow Erode;
+Spiritual Tribunal;
+Locust Swarm (Tier 2b);
+Spirit Blast;
+Spectral Blast (Tier 2a);
+Hydra (Tier 2b);
+
+| quests =
+Iconic Daisuke;
+The Three Little Wolves;
+
+| gold =
+3 - 20;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Ninja Pig Gold Idol (Balance)*F2;
+Weft Yarn @ 60 Weft Yarn;
+Weft Yarn @ 65 Weft Yarn;
+Weft Yarn @ 70 Weft Yarn;
+Weft Yarn @ 100 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

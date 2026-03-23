@@ -1,0 +1,147 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 1,550
+| crecla = Beastmoon Creature
+| school = Life
+| startpips = 3
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Mirage Battlegrounds
+| descrip =
+Alhaya Shab is one of the Boss monsters that can be encountered during the second Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events. He will have 1 random, Rank 2 Elite, Stage 2 Minion and 1 random, Rank 1, Stage 2 Minion present to assist him.
+
+'''Potential Rank 2 Elite Minions:'''
+*{{Link|Creature|Dune Raider}}
+*{{Link|Creature|Responsi-Bot}}
+*{{Link|Creature|Trengil Gouger}}
+
+'''Potential Rank 1 Minions:'''
+*{{Link|Creature|Baboon Bandit}}
+*{{Link|Creature|Harmony Eel}}
+*{{Link|Creature|Sand Scarab}}
+
+| speech =
+
+| spellnotes =
+*It is currently unknown whether the Push effect of The Worm Turns occurs.
+*Casts a 2-Pip version of Clever Imp that deals 200 Life Damage.
+**It is currently unknown whether the clear Ward effect occurs.
+*Casts a version of Spirit Spider that restores 50 Health after target is defeated even if target is not a Minion.
+*Casts a 5-Pip version of Fanged Spider or {{Link|Spell|Spider Swarm}} that deals 250 Life Damage to all enemies.
+**Any potential secondary effects are currently unknown.
+
+| casts =
+The Worm Turns;
+Clever Imp;
+Spirit Spider;
+Fanged Spider;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 10 - 15 Lunari.
+
+| gold =
+52 - 62;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone*F3;
+Balance Thread;
+Colossus Idol (Life);
+Eldritch Thread*F6*WMV;
+Eldritch Thread @ 2 Eldritch Thread*F3;
+Elemental Thread;
+Elf Idol (Myth);
+Fairy Idol (Life);
+Fairy Idol (Myth);
+Fairy Idol (Storm);
+Harmonious Thread;
+Hunter's Moonstone*F5;
+Life Moonstone;
+Myth Moonstone*F2*WMV;
+Myth Thread;
+Spirit Moonstone*F2;
+Spirit Thread*F5;
+
+| spellements =
+Crimson Phantom;
+Dream Golem;
+Golem\: Taunt;
+Humongofrog;
+Infestation;
+Iron Curse;
+Judgement*F2;
+Legend Golem;
+Meteor Strike;
+Monster Mash*F2;
+Obsidian Colossus;
+Poison;
+Regenerate*F2;
+Sandstorm;
+Stormwing;
+Thermic Golem;
+Vermin Virtuoso;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| recipes =
+7 Crimson Phantom Spellements;
+7 Infestation Spellements;
+7 Monster Mash Spellements;
+
+}}

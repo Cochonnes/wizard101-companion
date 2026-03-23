@@ -1,0 +1,117 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 17,240
+| crecla = 
+| school = Death
+| school2 = Fire
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+584 Any;
+
+| criticalblock =
+622 Any;
+
+| outpierce =
+30%;
+
+| outboost =
+139%;
+
+| incboost =
+30% Life;
+
+| incresist =
+40% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+70% Death;
+
+| outhealing =
+4%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Black Lagoon
+| subloc1 = Ritual Bog
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Damage}} ''"Little doll fights you all. In the end you all will fall!"'' - At the end of the first Round, Annoushka will use a Moon school AoE version of Poison that deals 50% of the Wizards' max Health and does not add a damage over time.
+*{{Icon|Round}} ''"I have something for you. try some!"'' - At the end of the second Round, and every Round after, Annoushka will cast an  AoE version of Poison that does regular damage.
+*{{Icon|Damage}} {{Icon|Polymorph}} ''"Don't leave, be like me. It's not so fun... is it?"'' - If two or more Wizards are present in combat and a Wizard is defeated in battle, Annoushka will revive, beguile, and polymorph that Wizard into a {{Link|Polymorph|Doll}} for 99 Rounds.
+*{{Icon|Round}} ''"All I've ever wanted was to destroy you!"'' - If a Wizard is currently polymorphed, Annoushka will activate this cheat. It is unclear what this cheat does and further testing will be necessary.
+
+| spellnotes =
+May cast a 1-pip fire spell that gives both Annoushka a +35% Fireblade and a +35% Deathblade
+
+| casts =
+Empowerment;
+Empower;
+Dark Tribute;
+Feint;
+Mass Feint (+70%);
+Deer Knight;
+Skeletal Dragon;
+Scald;
+Incindiate;
+Immolate;
+Ashen Bones;
+
+| quests =
+Unliving Doll;
+
+| gold =
+11; 
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Darkmoor Bench;
+
+| cards =
+Ra;
+
+| reagents =
+Merle's Whisker;
+
+| spellements =
+
+| snacks =
+Bone Fish 'N Harmony;
+Locust Kabob;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

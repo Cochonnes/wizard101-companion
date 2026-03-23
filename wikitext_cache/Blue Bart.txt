@@ -1,0 +1,173 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,490
+| crecla = Undead
+| school = Life
+| startpips = 4
+| powerpips = Yes
+| critical =
+25 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Death;
+
+| incresist =
+35% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sea-Booter;
+
+| world = Celestia
+| location = Crustacean Empire
+| descrip =
+Blue Bart is a free-roaming Boss who may spawn multiple times in one area.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+Due to a steady diet of fatty starfish, Blue Bart's middle has more than a little jiggle.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Lifeclops;
+Nature's Wrath;
+Life Banshee (250);
+Seraph;
+Centaur;
+Natural Attack (Life 85x);
+
+| quests =
+The Back Door;
+Turn of the Tide;
+
+| gold =
+40 - 71;
+
+| hats =
+Forgotten Facade*F2;
+Helm of Burning Ambition;
+Starkwave's Balanced Brim*F4*WMV;
+The Sorcerer*CR*F4;
+Veil of Virtue*F4*WMV;
+
+| robes =
+Ominous Outfit*F3;
+Thundercracked Costume*F8*WMV;
+
+| boots =
+Bolt Boots*F4*WMV;
+Boots of Celestian Totality;
+Brimstone Boots;
+Footguards of the Hero*F5*WMV;
+Polar Boots;
+
+| athames =
+Sliver of Regret;
+Venerable Blade*F6*WMV;
+
+| amulets =
+
+| rings =
+Combustible Band*F2;
+Seal of Cinders*F5*WMV;
+Storied Signet*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Palm Fronds*CR*F2*WMV;
+
+| cards =
+Doom and Gloom;
+Dragonflies*F2;
+Monstrous*F4*WMV;
+Precision;
+Vengeance*F8*WMV;
+
+| reagents =
+Brass*F2;
+Bronze;
+Cobalt;
+Nickel;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2;
+Delicious Cookie;
+Glowing Star Fruit*F2;
+Glowing Taffy;
+Spicy Drumstick;
+Strawberry Cupcake*F2;
+
+| jewels =
+Blazing Oak Ruby;
+Dull Defense Sapphire +26;
+Infector Onyx;
+Life-Proof Jade;
+Mass Death Prism Onyx;
+Mass Fire Prism Ruby;
+Mass Myth Prism Peridot;
+Mass Storm Prism Amethyst;
+Ninja Pig Opal;
+Plaguebringer Onyx;
+Plain Blocking Amethyst +6;
+Plain Blocking Citrine +6;
+Plain Blocking Ruby +6;
+Plain Damage Citrine +16;
+Reshuffle Citrine;
+Spartan Jade;
+Vengeance Talent Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2;
+Fish on a Vine;
+Maelstrom Snap Dragon*F5;
+Pink Dandelion*CR*F2;
+Silver Trumpet Vine*CR*F3;
+
+| mounts =
+
+| spells =
+
+}}

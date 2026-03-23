@@ -1,0 +1,145 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 750
+| crecla = Krokotopian
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth;
+
+| incresist =
+60% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Temple of Storms
+| descrip =
+Son of Storms is the last challenge in the Test of Strength Quest in the Temple of Storms.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 125 Storm Damage per Pip.
+
+| casts =
+Weakness;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Evil Snowman (Storm);
+Storm Shark;
+Squall Wyvern;
+Leprechaun;
+Cyclops;
+
+| quests =
+Test of Strength;
+
+| gold =
+16 - 27;
+
+| hats =
+Krokotopian Ice Modius;
+Krokotopian Life Modius;
+Krokotopian Modius*F3;
+Soothsayer's Helm*F3;
+
+| robes =
+Ardent Robe*F4*WMV;
+Bitter Cloak*F5*WMV;
+Cloak of Respite;
+Cloak of the Designer*F3*WMV;
+Cloak of the Sage;
+Robe of Figments*F3*WMV;
+Son of Storms's Robe*F2;
+
+| boots =
+Conjurer's Sandals*F2;
+Dusty Boots*F2;
+Pyromancer's Lambent Boots*F3*WMV;
+Sandals of Harmony;
+Slippers of Revelations*F3*WMV;
+Theurge's Green Sandals;
+Theurge's Shoes of Marvel;
+
+| athames =
+Athame of Adaption*F3*WMV;
+
+| amulets =
+Son of Storms' Sigil*F3;
+
+| rings =
+Seal of the Conqueror*F4*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Krok Storm Tablet;
+Storm Chameleon Statue*F4*WMV;
+
+| cards =
+Sandstorm;
+
+| reagents =
+Brass*F4*WMV;
+Lead;
+Leather Straps*F2;
+Nickel;
+Pyrite*F3;
+Tin;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Balance-Giver Citrine;
+Chipped Health Opal +17;
+Chipped Health Opal +19;
+Chipped Health Opal +20;
+Chipped Mana Opal +12;
+Chipped PIP Opal +1%*F2;
+Cracked Damage Peridot +6;
+Cracked Defense Opal +5;
+Distract Opal;
+Fire Elf Ruby;
+Grass Post Opal;
+Huge Energy Opal;
+Lightning Bats Amethyst;
+Storm-Away Amethyst;
+Storm-Giver Amethyst;
+Storm-Shot Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Pink Dandelion*CR*F4*WMV;
+
+| mounts =
+
+| spells =
+
+}}

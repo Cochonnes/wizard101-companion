@@ -1,0 +1,119 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,360
+| crecla = Deer
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Ice;
+
+| incresist =
+70% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Bull Lancer
+
+| world = Zafaria
+| location = Stone Town
+| subloc1 = Kasbah of Zanj
+| descrip =
+Sir Lamorak Tinder Hart is a Fire Knight who is being controlled by {{Link|Creature|Axos Ghostmane}}.  Pyromancers must defeat him during their Level 75 Minion Quest ''Fire Does Not Lie''.
+
+| speech =
+:''"Hail and grimly met, Strange Knight.  I would ask your name, but it matters not.  Soon you will be buried with the others.  Dread Axos Ghostmane holds my allegiance and corrupts me to his cause.  I blaze for him, though I wish t'were otherwise!"''
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Smoke Screen;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Fire Elf;
+Sunbird;
+Fire Shark;
+Meteor Strike;
+Firezilla;
+Colossus (Fire);
+Heck Hound;
+Minotaur;
+
+| quests =
+Fire Does Not Lie;
+
+| gold =
+47 - 49;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Colossus;
+Helephant;
+Ice Wyvern;
+Phoenix;
+Spectral Blast;
+Triton;
+
+| reagents =
+Lava Lily;
+Mist Wood;
+Ore;
+Parchment;
+Pearl;
+
+| spellements =
+
+| snacks =
+Glowing Dragon Fruit*F2*WMV;
+Goat Cheese;
+Gummy Humongofrog;
+King Banana;
+Salmonberry;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

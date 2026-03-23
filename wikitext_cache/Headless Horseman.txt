@@ -1,0 +1,150 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 150,000
+| crecla = 
+| school = Death
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+505 Any;
+
+| criticalblock =
+760 Any;
+
+| outpierce =
+24%;
+
+| outboost =
+118%;
+
+| incboost =
+30% Life;
+
+| incresist =
+49% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+79% Death;
+
+| outhealing =
+35%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Howling Lands
+| subloc1 = 
+| descrip =
+To spawn the boss, a player must find a Pumpkin Head in the Howling Lands and bring it to the Covered Bridge for each encounter. Only 1 Pumpkin Head will spawn per realm. After placing the Pumpkin Head next to the bridge, the Headless Horseman will charge across the map. A player must stand in the way of where the Horseman will run across to begin the battle. If no players are in its path, it will despawn once he reaches the other side of the enclosed area.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Global}} ''"This Will Be Your Grave. Your Head Will Be My Trophy."'' - At the beginning of the first round, Headless Horseman will cast a Doom and Gloom global spell.
+**If a global spell is cast, the boss will recast Doom and Gloom.
+*{{Icon|Round}} ''"The Headless Horseman Rises Again!"'' - At the end of the first round, the boss will cast an AoE version of Headless Horseman that puts a -30% weakness on all wizards.
+**This will repeat every 5 rounds.
+*{{Icon|Spell}} ''"LAUGHS"'' - The boss says this after he casts either Wraith or Monster Mash.
+**After the next time this is triggered, he will cast an AoE version of Headless Horseman at the end of the following round.
+*{{Icon|Round}} ''"Don't Lose Your Head! Here, Have Mine!"'' - At the end of the round, if the boss did not cast his AoE Headless Horseman cheat, the boss will cast his natural attack on the wizard with the current highest HP, which removes 2 blades from the target, replacing them with 2 -35% weaknesses. This also applies a -10% Infection to all wizards.
+*{{Icon|Round}} ''"Death Calls for the Weak and Unwary."'' - At the beginning of the round, if a wizard has 6 or more negative charms on them, the boss will cast a version of Mortality that does 100% damage equal to the target's max HP on them.
+*{{Icon|Friend}}{{Icon|Afterlife}} ''"And Death Comes for You All."'' - The boss says this after a wizard is defeated.
+*{{Icon|Feint}} If a wizard casts a Feint or Backdraft, the boss will cast a Death version of Cleanse Ward on himself which clears all traps on him, including protected ones.
+*{{Icon|Dispel}} If a wizard casts a Dispel, the boss will remove all negative charms on himself, including protected ones.
+
+| spellnotes =
+Casts a +66% version of Mass Death Trap.
+
+| casts =
+Virulence;
+Necro-Blades;
+Vampire;
+Monster Mash (Tier 3b);
+Wraith;
+| quests =
+
+| gold =
+25 - 36
+
+| hats =
+Replacement Head;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Creepy Bed;
+Creepy Bench;
+Creepy Bookshelf;
+Creepy Chair;
+Creepy Footstool*F2;
+Darkmoor Bench;
+Darkmoor Graveholm Combat Theme;
+Darkmoor Stool;
+Darkmoor Vanity;
+Darkmoor Wagon;
+Mortal Plains Hay;
+Outsiders Abode;
+Small Howling Lands Tree;
+Vampire Lord Casket;
+
+| cards =
+Avenging Fossil;
+Sirens;
+Skeletal Dragon;
+Spinysaur;
+Woolly Mammoth;
+
+| reagents =
+Amber Dust;
+Bone;
+Merle's Whisker;
+Spider Silk;
+Titanium;
+Toffee Bean;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Bone Fish 'N Harmony;
+Evil Carrot;
+Golden Apple;
+Granny Snow Apple;
+Locust Kabob*F2;
+Orange Jalapeno;
+Shepherd's Crook Pie;
+Wolfbane Tea;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+Headless Man's Horse*PERM*CR;
+
+| spells =
+
+}}

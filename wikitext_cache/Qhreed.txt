@@ -1,0 +1,147 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 9,240
+| crecla = Boa
+| crecla2 = Snake
+| school = Fire
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+2%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Ice;
+
+| incresist =
+30% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minion = 
+| world = Mirage
+| location = Istanboa
+| subloc1 = Gym
+| descrip =
+One of the few remaining members of Rahqi's Gym, this burly Boa is always up for a friendly sparring session.
+
+| speech =
+: ''Sure thing, Rahq. Bring it on, Wizard!"''
+
+| spellnotes =
+
+| casts =
+Eruption;
+Furnace;
+Glacial Shield (-75%);
+Backdraft (+20%);
+Choke (85%);
+Fire Beetle;
+Natural Attack (Fire 120-240-360, 70%);
+Meteor Strike (355-395);
+Scald (567);
+Fire Dragon (495+395);
+Rain of Fire (330+880);
+
+| quests =
+The Serpentine Science;
+
+| gold =
+289 - 433;
+
+| hats =
+Zruvan Helmet of Fury;
+Zruvan Helmet of Mettle;
+
+| robes =
+
+| boots =
+
+| athames =
+Sand Sea Dagger of Accord;
+Sand Sea Dagger of Curiosity;
+
+| amulets =
+
+| rings =
+Sand Sea Ring of Curiosity;
+Sand Sea Ring of Decorum;
+
+| wands =
+Dutiful Durvish's Armaments;
+Rubal Bow of Conflagration;
+Rubal Bow of Illusions;
+
+| decks =
+Sand Sea Hand of Emptiness;
+
+| items =
+
+| cards =
+Ashen Bones;
+
+| reagents =
+Aether*F2;
+Amber;
+Amber Dust;
+Aquamarine;
+Astral Shard;
+Draconium;
+Fire Blossom;
+Golden Pearl;
+Iridium;
+Mithril;
+Orichalcum;
+Silver*F2*WMV;
+Stardust;
+Steel*F2;
+Sunstone;
+Titanium;
+Tungsten;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Hard Boiled Beetle Eggs*F2*WMV;
+Satyr Chow;
+Ships 'n' Queso;
+
+| jewels =
+Shiny Critical Jade +16;
+Shiny Defense Onyx +52;
+Shiny Health Opal +112;
+Shiny Health Opal +113;
+Shiny Mana Opal +45;
+Shiny Mana Opal +47;
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Baby Carrots;
+Bamboo Shoots;
+Blue Huckleberries;
+Boiled Peanuts;
+Face Palm;
+Golden Couch Potatoes;
+Honey Bee Plant;
+Ninja Fig*CR;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Red Huckleberries;
+Silver Trumpet Vine*CR;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,126 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 90,000
+| crecla = Titan
+| school = Ice
+| school2 = Balance
+| startpips = 2
+| powerpips = Yes
+| critical =
+576;
+
+| criticalblock =
+1039;
+
+| outpierce =
+24%;
+
+| outboost =
+122%;
+
+| incboost =
+None;
+
+| incresist =
+44% Fire, Myth;
+64% Ice, Life, Sun, Moon, Star, Shadow;
+84% Storm, Death, Balance;
+
+| outhealing =
+35%;
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Raid
+| location = Cabal's Revenge
+| subloc1 = 
+| badge = Oblongat-'im!
+| lootchest = Oblongata's Chest
+| descrip =
+Oblongata is an optional Boss inside the {{Link|Location|Cabal's Revenge}} Raid.  It is summoned on the East side of the map when all snow forts have been broken using {{Link|Spell|Magic Touch}}.
+*Summoning Oblongata grants the "[[Basic:Badges|Thought Unhappy Thoughts]]" Badge.
+
+| speech =
+:''"You defeated Medulla, but now you must face his... evil twin!"''
+| cheatnotes =
+*''"Ice freezes Storm."'' - If a Wizard casts a Blade, Oblongata will cast {{Link|Spell|Wall of Blades}} or {{Link|Spell|Oni's Destruction}}.
+*''"Ice survives Death."'' - If a Wizard casts a Weakness or Dispel, Oblongata will cast {{Link|Spell|Glacial Fortress}} or {{Link|Spell|Jinn's Vexation}}.
+*''"Don't... mind if I do!"'' - Oblongata will cast either a helpful Charm, or helpful Ward, or Heal over Time effect on himself, or a harmful Charm, or harmful Ward, or Damage over Time effect on a random Wizard. These effects do not interact with any Damage Spells, and the Heal and Damage over Time effects restore no Health and deal no Damage, and last forever, they are labelled "Brain Power".
+**Removing one of these effects with one of the following Spells will cause Oblongata to apply a +200% Damage Ward on himself. This 200% Trap is unaffected by Stack Overflow, so it can be a 5th Trap, however if you apply a 6th Trap (including from {{Link|Spell|Jinn's Reversal}}), it will be removed by Stack Overflow.
+***{{Link|Spell|Jinn's Affliction}}
+***{{Link|Spell|Jinn's Defense}}
+***{{Link|Spell|Jinn's Larceny}}
+***{{Link|Spell|Jinn's Restoration}}
+***{{Link|Spell|Jinn's Reversal}}
+***{{Link|Spell|Jinn's Vexation}}
+
+| spellnotes =
+*Casts a Balance Spell that gives all enemies a +40% Pierce Trap.
+
+| casts =
+Mass Ice Trap;
+Mass Hex;
+Freeze Ray;
+Frost Giant (650);
+Sandstorm;
+Old One's Endgame;
+
+| quests =
+
+| dropnotes =
+All 12 Wizards in the Raid receive the drops, not just the ones within the battle.
+
+| gold =
+0;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items = 
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| elixirs =
+Crafting Elixir;
+Energy Elixir;
+Gold Boost Elixir;
+Hatching Elixir;
+Triple Animus Elixir;
+
+}}

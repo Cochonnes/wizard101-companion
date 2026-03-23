@@ -1,0 +1,209 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 3,620  
+| crecla = Unicorn
+| crecla2 = Equine 
+| school = Myth
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Lanyon Scratcher;
+
+| world = Marleybone
+| location = Barkingham Palace
+| subloc1 = Rooftop
+| descrip =
+Two additional Lanyon Scratcher Minions appear when more than two Wizards enter the Dungeon.
+
+| speech =
+:''"Greetings, Wizard. My name is Margherita Vizzini. I am a master of the ''Opera Nova'' school of Valencia. It is my pleasure to teach you the Art of the Sword, and to be the last foe you will ever face."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Marleybone
+| tome description =
+Master of the sword, master of magic - she's more than a one-trick pony.
+
+| extract class =
+Equine;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 1,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Damage}} ''"Riposte!"'' - If Margherita is damaged by a Spell, then she will interrupt-cast Mythblade on herself, then use her Natural Attack on the Wizard that attacked her.
+**This Mythblade will stack with her regularly cast Mythblade.
+**If Margherita is damaged more than once by a single Spell, then she will use this cheat for every time that she is damaged on her attacker.
+**Ticks from Damage over Time effects will not trigger this cheat.
+**If this cheat triggers while Margherita has no Pips, then her Natural Attack will act as though she has one Pip.
+**Although her Natural Attack is not cast when used through this cheat, it can still be Dispelled.
+*{{Icon|Spell}} ''"I have studied in Crab Alley!"'' - Margherita will interrupt-cast Storm Prism and then use {{Link|Spell|Triton}} on a Wizard due to a few triggers.
+**{{Icon|Friend}} If there are two Wizards present in the duel, then this cheat will trigger on the first Wizard to cast any kind of Spell.
+***May-Cast Spells will trigger this cheat.
+***If there was initially only one Wizard present in the duel, and a second joins later or a Minion is summoned, then this cheat will activate on the first Wizard to cast any kind of Spell when the second character becomes active in the duel.
+***This cheat will not activate if there are initially more than three Wizards in the duel and a Wizard(s) flee, leaving only two Wizards left.
+**{{Icon|Minion}}{{Icon|Afterlife}} If a Lanyon Scratcher is defeated, then this cheat will trigger on whoever defeated the Scratcher.
+***This cheat will only trigger once if more than one Laynon Scrathcer is defeated with a single Spell.
+***This cheat will only trigger once if there are only two Wizards present in the duel and the first Spell cast by the Wizard team defeats a Lanyon Scratcher(s).
+***This cheat will not trigger if a Lanyon Scratcher is defeated by a Damage over Time effect.
+**Although Triton is not cast, it can be Dispelled.
+*{{Icon|Spell}}{{Icon|Shield}}{{Icon|Trap}} ''"I pierce your defenses!"'' - If Margherita uses her Natural Attack on a Wizard and they still have a Shield or [[:Category:Trap Spells|Trap]] placed on them after her Natural Attack, then she will interrupt to use {{Link|Spell|Pierce}} on the Wizard that she attacked.
+*{{Icon|Spell}}{{Icon|Shield}}{{Icon|Trap}}{{Icon|Charm}}{{Icon|Global}} ''"I disarm your words!"'' - If Margherita uses her Natural Attack on a Wizard and they still have a Shield, Trap, or positive [[:Category:Charm Spells|Charm]] placed on them after her Natural Attack, or there is an active [[:Category:Global Spells|Global Spell]], and her previously used Natural Attack activated her Pierce cheat, then she will interrupt to use {{Link|Spell|Disarm}} on the Wizard that she attacked.
+**Although Disarm is not cast, it can be Dispelled.
+*{{Icon|Round}}{{Icon|Health}} ''"I invoke the power of Myth!"'' - At the beginning of the Round after Margherita's Health drops to 50% or lower, she will interrupt-cast a +35% version of {{Link|Spell|Time of Legend}}.
+*{{Icon|Round}}{{Icon|Health}} ''"I'll back you into a trap!"'' - At the beginning of every Round after Margherita's Health drops to 50% or lower, she will interrupt-cast Myth Trap on a random Wizard.
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Myth Trap;
+Storm Prism;
+Stun;
+Time of Legend (+35%);
+Natural Attack (Myth 115-225-335);
+Humongofrog;
+Street Sweeper;
+Wild Bolt;
+
+| quests =
+The Adventure of the Queen's Jewels;
+
+| gold =
+51 - 114;
+
+| hats =
+Barkingham Bombin of Brio*F4*WMV;
+Barkingham Derby of Cinders*F2*WMV;
+Barkingham Derby of Repose;
+Barkingham Fog Bowler;
+Royal Cap of Alliance*F2*WMV;
+Topper of Royal Wit*F2;
+
+| robes =
+Barkingham Fog Coat*F2*WMV;
+
+| boots =
+Barkingham Cinder Shoes*F4*WMV;
+Barkingham Clogs of Repose*F2*WMV;
+Barkingham Fog Walkers*F3*WMV;
+Barkingham Frost Striders;
+Barkingham Shoes of Wit;
+Royal Boots of Alliance;
+
+| athames =
+Barkingham Blade of Blight*F2;
+Barkingham Steel Splinter;
+Royal Cutlass of Efficacy;
+
+| amulets =
+
+| rings =
+Barkingham Band of Virtue;
+Chief Whip's Hail Stone;
+Enfield Circle of Trickery*F2;
+Grenadier's Blasting Ring;
+Jackall's Ring of Duality;
+Signet of Royal Ingenuity;
+
+| wands =
+Baton of the Royal Flame*F2*WMV;
+Regent's Baton of Ethos;
+Trophy of the Raucous Court;
+Wand of the Royal Paragon;
+
+| decks =
+
+| items =
+
+| cards =
+Azoth*F2;
+Clockwork Spider*F3*WMV;
+Dragonflies;
+Pest Zapper;
+
+| reagents =
+Bone*F7*WMV;
+Cat Tail;
+Copper*F4*WMV;
+Ectoplasm*F5*WMV;
+Iron*F3;
+Lead*F5;
+Leather Straps*F8*WMV;
+Nickel*F4*WMV;
+Pyrite;
+Scrap Iron;
+Spider Silk*F5*WMV;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F5*WMV;
+Goat Cheese*F3*WMV;
+Golden Grapes*F3*WMV;
+Gummy Humongofrog*F2;
+King Banana*F3*WMV;
+
+| jewels =
+Chipped Damage Ruby +7;
+Chipped Defense Amethyst +14;
+Chipped Defense Onyx +14;
+Chipped Defense Opal +8;
+Chipped Defense Peridot +14;
+Chipped Defense Sapphire +14;
+Chipped Health Opal +21;
+Cyclops Peridot*F2;
+Flawed Accurate Opal +2%*F2*WMV;
+Flawed Healing Opal +2%*F2;
+Flawed Mending Opal +2%;
+Life-Eye Jade;
+Locust Swarm Citrine;
+Mute Opal;
+Sprite Jade;
+Storm Shark Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fiery Boom Shroom;
+Maelstrom Snap Dragon;
+Orange Dandelion;
+Pink Dandelion*CR*F2*WMV;
+Pink Laugh-O-Dil;
+Venus Fly Trap;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

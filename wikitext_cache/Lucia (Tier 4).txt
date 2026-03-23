@@ -1,0 +1,179 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 3,550
+| crecla = Golem
+| school = Star
+| masteries =
+Fire;
+Ice;
+Storm;
+Balance;
+
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+7%;
+
+| outboost =
+105%;
+
+| incboost =
+15% Myth, Life, Death;
+
+| incresist =
+35% Fire, Ice, Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Clockworker (Tier 4);
+
+| world = Housing Instance
+| location = The Great Clock
+| subloc1 = 
+| descrip =
+Lucia is the Cuckoo of Valencia's Great Clock, crafted by Master Gazpaccio to keep track of the time by singing at the arrival of every hour.  Like all of his creations, Gazpaccio magically imbued Lucia with emotions, granting her a sense of pride which serves as her drive to perform precisely on the hour.  After years of impeccable timekeeping, Lucia's pride has warped into vanity, and she now sings every few minutes, throwing the Great Clock and Valencian timekeeping into disarray.  After Wizards assist {{Link|NPC|Bernardo Dondi}}, Gazpaccio's Apprentice, with tuning the Great Clock's Core Mechanism, they ascend the to the Cuckoo's Nest to humble the Prima Cuckoo.
+
+* An additional Clockworker will appear if four Wizards are present.
+
+| speech =
+:''"Go away!  I've no time for autographs.  I've a show to...  Oh, it's you.  Last time I entrust dressing room security to someone named [[Creature:Lugs (Tier 5)|Lugs]]. Oh well, let's get your thrashing over with quickly then.  I've an important performance to give, you know.  Clockworkers, on the ready!  Your star needs the supporting cast for a little preshow exercise!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+A magnificent singer. Her popularity started to wane when she changed genres and got political.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tardiness will not be tolerated!"'' - If a Wizard joins the Duel after the first Round, then Lucia will interrupt-cast a Star version of [[Spell:Mana Burn (Star)|Mana Burn]] that Pierces through all Resist and deals '''500''' Damage.
+*{{Icon|Minion}} ''"Let's even the odds!"'' - At the beginning of the first Round, Lucia will interrupt-cast a Star Spell that summons a Clockworker.  If more than two Wizards are present, then she will continue to summon Clockworkers until her team is full.
+*{{Icon|Manipulation}} ''"This is my show! MINE!"'' - At the start of every fourth Round, Lucia will interrupt-cast a Star version of {{Link|Spell|Steal Charm}} that steals all helpful Charms from all Wizards, and a Star version of [[Spell:Steal Ward (Star, -All)|Steal Ward]] that steals all helpful Wards from all Wizards.
+*{{Icon|Feint}} ''"I've no time for such frivolity!"'' - If a Wizard casts {{Link|Spell|Feint}} on Lucia, then she will interrupt-cast a Star version of [[Spell:Cleanse Ward (Star, -All)|Cleanse Ward]] that removes all harmful Wards from herself.
+*{{Icon|Trap}} ''"The star is only as good as her supporting cast!"'' - If a Trap is cast on Lucia, then she will interrupt-cast a Star Spell that applies the following helpful Charms on all allies:
+**A +30% universal Blade
+**A +20% Accuracy Charm
+**A +10% universal Spear
+**A +30% Healing Charm
+
+| spellnotes =
+
+| casts =
+Frozen Armor;
+Chimera;
+Sunbird;
+Phoenix;
+Natural Attack (Fire 85x);
+Frostbite;
+Natural Attack (Ice 85x, 100%);
+Sirens;
+Tempest;
+Natural Attack (Storm 85x, 100%);
+
+| quests =
+The Clock's Cuckoo!;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Cuckoo Clock*F2*WMV;
+Dragonspyre Standard;
+Grizzleheim Pet Derby Theme;
+Kraken Statue;
+Magma Blister;
+Ornate Wall Clock*CR;
+Square Clocktower;
+Wyrm-Crowned Bed;
+
+| cards =
+Clockwork;
+Clockwork Spider;
+Coldiron;
+Firegut (380-418);
+Franklinstove (390-430);
+Gearhead;
+Kettleblack*F2*WMV;
+Potboiler;
+Rocketstove*F2*WMV;
+
+| reagents =
+Brass*F2*WMV;
+Bronze;
+Copper*F2*WMV;
+Deep Mushroom;
+Fossil;
+Golden Pearl;
+Iron*F2*WMV;
+Lead*F2*WMV;
+Nickel;
+Platinum*F2*WMV;
+Sandstone;
+Silver*F2*WMV;
+Spring*F2*WMV;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F2*WMV;
+Double Popsicle*F2*WMV;
+Fancy Pudding;
+Fancy Truffle;
+Shiny Tomato*F2*WMV;
+Snack Drakes;
+
+| jewels =
+
+| pins =
+
+| pets =
+Ash Spider;
+Bronze Golem*CR;
+Clockwork Paladin;
+Spider Golem;
+
+| seeds =
+Clockwork Flower;
+
+| mounts =
+
+| spells =
+
+}}

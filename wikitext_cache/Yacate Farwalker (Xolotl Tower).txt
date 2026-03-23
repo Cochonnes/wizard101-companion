@@ -1,0 +1,269 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 18,040
+| crecla = Dino
+| crecla2 = Raptor
+| school = Myth
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Shadow Weaver Prowler;
+
+| world = Azteca
+| location = Alto Alto
+| subloc1 = Xolotl Tower
+| descrip =
+Two additional {{Link|Creature|Shadow Weaver Glider}} Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Ah, the Shaved Jaguar Cub interferes again! You are looking for the Shadow's Tongue? Hah. I guess that's me. King Neza always did have a way with words. What message do you have for the Shadow Queen? Does he surrender? What!? How dare you!? The Shadow Queen will not like this news. I'll just have to strike you down to make sure I have something good to tell her!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Threatens to teach you the Song of Armageddon. Pay attention, you don't want to miss a thing.
+
+| extract class =
+Dinos;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Mythblade;
+Myth Trap;
+Time of Legend;
+Keeper of the Flame;
+Natural Attack (Myth 170-340-510);
+Ninja Pigs;
+Earthquake;
+Humongofrog (400-500);
+Medusa (865);
+Basilisk;
+Celestial Calendar;
+
+| quests =
+Shadow of the Day;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge and has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge, the following drops will be available:
+*7 Spellements will drop each time from '''any''' School for their respective rank 6-10 Spells.
+
+| gold =
+135 - 153;
+
+| hats =
+
+| robes =
+Black Sun Chac's Armor*F3;
+Grinning Death Xicolli Vest*F2*WMV;
+Keeper of the Codex Vest*F2;
+Lord of Night Robes*F2;
+Philososaur's Robes;
+Vestment of the Hungry Lizard;
+White Fire Chac's Armor*F3*WMV;
+
+| boots =
+Black Tears of Night Wraps;
+Elite Jura Guard Stalkers;
+Five Fangs of Fury Boots*F2;
+Ice Age Tyrant's Walkers;
+Indigo Wing Striders;
+Jaguar Prince's Leapers;
+Smoking Obsidian Rangers;
+Tree of Secrets Chac Runners;
+Twisted Fang Boots*F2;
+
+| athames =
+Moon Skull's Blessed Edge;
+Thunder Horn's Rough Cutter;
+Wild Wing's Glorious Razor;
+Winged Tooth Knight's Hook;
+
+| amulets =
+Courage Charm of Jade Wings;
+Golden Head of the Cold House;
+Home Hearth Relic;
+Horizon of Underworld Charm;
+Necklace of Lost Ancestors;
+Pendant of the Wild Wings*F2;
+Speaking Water Ornament;
+Thunder Horn's Coral Charm;
+
+| rings =
+Chac's Challenge Loop;
+Storm Quetzal's Signet;
+Twin Giants Fashioned Stone;
+
+| wands =
+Baton of New Beginings*CR*HOL;
+Baton of Persuasion*CR*HOL;
+New Moon Lance;
+Nutcracker Prince's Baton*CR*HOL;
+Scepter of Perpituity*CR*HOL;
+Spear of Breaking Dawn*F2;
+Spring Fledgling Baton*CR*HOL;
+Star of Wonder Staff*CR*HOL;
+Talon of the Storm Owl*F2;
+Wand of the March Hare*CR*HOL;
+
+| decks =
+Calendar of the Spiral King*F2*WMV;
+King's Royal Portraits*F5*WMV;
+Lords of Night Pyramid Deck;
+
+| items =
+Azteca Apocalypse Theme;
+Azteca Main Theme;
+Azteca Pot;
+Clothesline;
+Snowman Wrapped Gift*HOL;
+Spiral Wrapped Gift*HOL;
+Starburst Frond*F2*WMV;
+
+| cards =
+Chimera*F3*WMV;
+Colossal*F4;
+Extraordinary;
+Fortify;
+Leviathan;
+Potent Trap*F2*WMV;
+Primordial;
+Rain of Fire;
+Sharpened Blade*F2*WMV;
+Snow Angel;
+
+| reagents =
+Black Lotus*F3*WMV;
+Blood Moss;
+Bone*F3;
+Brass*F2*WMV;
+Bronze Gear*F3;
+Deep Mushroom*F3*WMV;
+Fire Blossom*F2*WMV;
+Golden Pearl;
+Lava Lily;
+Mist Wood*F2*WMV;
+Nightshade;
+Ore*F6*WMV;
+Red Mandrake*F5*WMV;
+Stone Block*F2*WMV;
+Sunstone;
+Tungsten;
+Turquoise*F3*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*F2*BR;
+Celestial Calendar*BR;
+Centaur*BR;
+Chimera*BR;
+Colossus*F2*BR*WMV;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*F2*BR;
+Forest Lord*BR;
+Frost Giant*F2*BR;
+Gnomes!*BR;
+Helephant*F2*BR;
+Hydra*BR;
+Leviathan*F2*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*F2*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Triton*BR;
+Woolly Mammoth*BR;
+Wraith*BR;
+
+| snacks =
+Flapjacks;
+Glowing Star Fruit;
+Guava*F2;
+Gummy Wyrms*F2;
+Jelly Baby*F2*WMV;
+Maize;
+Pterotomatoes;
+Quetzal Pretzel*F2*WMV;
+Shiny Tomato;
+Zocalo Wings;
+
+| jewels =
+Blizzard Lizard Sapphire;
+Clear Damage Jade +20;
+Clear Defense Amethyst +40;
+Clear Defense Hematite +40;
+Clear Health Opal +83;
+Polished Damage Citrine +21;
+Polished Damage Onyx +21;
+Polished Damage Sapphire +21;
+
+| pins =
+
+| pets =
+Snowball*CR;
+Lump of Coal*CR*HOL;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Blue Huckleberries;
+Burning Snap Dragon;
+Fiery Boom Shroom;
+Maelstrom Snap Dragon*F2;
+Pink Dandelion*CR;
+Pink Huckleberries;
+Red Huckleberries;
+Venus Fly Trap*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

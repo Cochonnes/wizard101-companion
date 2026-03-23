@@ -1,0 +1,193 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 15,160
+| crecla = Parasaur
+| school = Balance
+| masteries =
+Death;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+110 Any;
+
+| criticalblock =
+50 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Moon Skull Zombie;
+Moon Skull Zombie;
+
+| world = Azteca
+| location = Tierra de Brea
+| subloc1 = Chamber of Red Sorrow
+| descrip =
+This Boss is not repeatable.
+
+| speech =
+:''"This day is a good one. The world above sends a distraction from our endless misery. Let us destroy it."''
+
+| spellnotes =
+
+| casts =
+Conviction;
+Vengeance;
+Infection;
+Mass Infection;
+Balanceblade;
+Hex (+35%);
+Feint;
+Natural Attack (Balance 165-330-495);
+Chimera (375);
+Sabertooth;
+Judgement;
+Poison;
+Wraith;
+
+| quests =
+Fly Me to the Moon;
+
+| gold =
+158 - 185;
+
+| hats =
+Coatl Lord's Hat;
+Dawn Hour Mantle*F2;
+Elite Jura Guard Helm*F3;
+Glorious Feathered Mantle;
+Helm of the Broken Spear;
+High Chac's Guarded Helm;
+Indigo Wing Crown;
+Song of the Lizard Hood;
+Sweet Kiss of Death Mask*F2;
+Thirteen Death Mask;
+Tree of Secrets Chac Mask;
+Twisted Fang Mask;
+
+| robes =
+
+| boots =
+Ice Age Tyrant's Walkers;
+Smoking Obsidian Rangers;
+
+| athames =
+Bleeding Sun Dagger;
+Fang of the Night Sky*F2;
+Tears of Mother Moon Blade;
+
+| amulets =
+Charm of the Gold Aztecosaur;
+Smoking Fang Talisman;
+
+| rings =
+Acampi Reedfist's Lost Seal*F2;
+Bleeding Sun Warrior's Loop;
+Falling Star's End Time Band*F2;
+Mother Moon's Count Ring*F2;
+
+| wands =
+Eclipse Spear of Azteca;
+Lance of Night Fire;
+Tears of Night Lance;
+Winter Lord's Obsidian Shard;
+
+| decks =
+Codex of the Lost Fire*F3;
+Deck of the Jaguar Spirit*F2;
+Storm Sun Gallery;
+Winter's Pyramid Deck;
+
+| items =
+Azteca Main Theme;
+Hollow Log;
+Starburst Frond;
+
+| cards =
+Colossal;
+Dr. Von's Monster;
+Extraordinary*F2;
+Fortify;
+Gnomes!;
+Potent Trap*F2;
+Power Nova;
+Primordial*F2;
+Scarecrow*F2;
+Sharpened Blade*F2;
+Sirens;
+Vengeance;
+
+| reagents =
+Black Lotus*F3;
+Blood Moss;
+Bone*F4*WMV;
+Bronze;
+Bronze Gear*F3;
+Cobalt;
+Deep Mushroom*F4;
+Fire Blossom*F2;
+Fossil*F2;
+Lava Lily*F3;
+Mist Wood*F4;
+Nickel;
+Nightshade*F4*WMV;
+Ore*F2;
+Red Mandrake;
+Steel;
+Stone Block*F2;
+Tin;
+Titanium*F2;
+Tungsten;
+Turquoise*F2;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F2;
+Chapulines;
+Dr. Jalapeno*F2;
+Guava;
+Maize*F3;
+Marzipan Maize;
+Pterotomatoes;
+Rex Tea;
+Stego Waffles;
+Yucca;
+
+| jewels =
+Clear Mana Opal +35;
+Clear PIP Opal +8%;
+Death-Giver Onyx;
+Opaque Resilient Opal +4%;
+Polished Health Opal +90;
+Shield Minion Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Burning Snap Dragon;
+Fish on a Vine;
+
+| mounts =
+
+| spells =
+
+}}

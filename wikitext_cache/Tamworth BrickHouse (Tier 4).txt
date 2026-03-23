@@ -1,0 +1,122 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 7,800
+| crecla = Pig
+| school = Balance
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+25% Myth, Life, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Berkshire StickHouse (Tier 4);
+Lacombe StrawHouse (Tier 4);
+
+| world = Housing Instance
+| location = Spiral Cup Gauntlet
+| subloc1 = Spiral Cup Gauntlet (Tier 4)
+| descrip =
+All drops are recorded at {{Link|Creature|Lacombe StrawHouse (Tier 4)}}'s page.<br/><br/>
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Damage}} ''"Here's how the story goes!"'' - At random times, Berkshire casts a 0-pip version of {{Link|Spell|Sandstorm}} every round after 5 rounds.
+*{{Icon|Damage}} ''"Shake it down, shake it down now!"'' - When both minions are dead, he casts {{Link|Spell|Big Bad Hound}} every round.
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+A mentor to Lacombe StrawHouse and Berkshire StickHouse. They want to be as strong as he is.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Conviction;
+Vengeance;
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Natural Attack (Balance 160-195-350);
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Big Bad Hound;
+Ra;
+Judgement;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

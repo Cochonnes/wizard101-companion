@@ -1,0 +1,154 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 3,825
+| crecla = Crab
+| school = Balance
+| startpips = 4
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life, Death;
+
+| incresist =
+35% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Crustacean Clawcutter;
+
+| world = Celestia
+| location = The Grotto
+| subloc1 = Optio Verdis' Veranda
+| descrip =
+*Two additional Crustacean Clawcutter Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Trespasser! No one invited you air-breathers down here! Go away! Leave Celestia to the Crustaceans!"''
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Elemental Trap;
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Natural Attack (Balance 85x, 85%);
+Judgement;
+
+| quests =
+Crab Shack Attack;
+
+| gold =
+35 - 69;
+
+| hats =
+Celestian Cinder Helm;
+Chilled Cowl;
+Consuming Cover*F2*WMV;
+Curious Mask;
+Ember Helm;
+Helm of Celestian Totality*F2;
+Mystifying Helmet;
+Pure Helm;
+Rising Tide Topper*F4*WMV;
+Versatile Veil;
+
+| robes =
+Drafty Tunic;
+Frostbit Jerkin*F3;
+Insulated Armor;
+Rising Tide Raiment*F2;
+Tunic of Burden;
+
+| boots =
+Balanced Boots;
+Drafty Boots*F2*WMV;
+Shadow Striders*F4*WMV;
+Star Wisher's Boots*F3*WMV;
+
+| athames =
+Explorer's Edge;
+Majestic Dagger*F4*WMV;
+Volcanic Edge*F4*WMV;
+
+| amulets =
+
+| rings =
+Ring of Fallacy*F4*WMV;
+Striking Celestian Signet*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Gasoline Can*F3*WMV;
+
+| cards =
+Empower*F4*WMV;
+Evil Snowman;
+Fortify;
+Gargantuan*F4*WMV;
+Keen Eyes*F2*WMV;
+Lightning Bats;
+Polymorph Draconian;
+Storm Shark;
+Strong;
+Unstoppable*F5*WMV;
+
+| reagents =
+Brass;
+Cobalt*F3*WMV;
+Nickel;
+Scales*F3*WMV;
+
+| spellements =
+
+| snacks =
+Delicious Cookie;
+Strawberry Cupcake;
+Submarine Sandwich*F2*WMV;
+
+| jewels =
+Berserk Talent Opal;
+Dissipate Amethyst;
+Dull Defense Peridot +26;
+Dull Health Opal +51;
+Plain Defense Citrine +29;
+Plain Defense Peridot +29;
+Vaporize Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F3;
+Maelstrom Snap Dragon*F5*WMV;
+Pink Dandelion*CR;
+Silver Trumpet Vine*CR*F2;
+
+| mounts =
+
+| spells =
+
+}}

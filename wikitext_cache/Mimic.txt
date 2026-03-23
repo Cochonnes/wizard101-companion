@@ -1,0 +1,334 @@
+{{Bug|This Creature cannot gain Power Pips while Polymorphed. Also Armor Piercing and Damage Stats aren't being applied.}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 4,000
+| crecla = Mimic
+| school = Moon
+| cheats = Yes
+| shadowslots = 2
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Mimic;
+Mimic;
+Mimic;
+
+| world = Mirage
+| location = Alkali Barrows
+| subloc1 = Forbidden Vault
+| descrip =
+The Mimic is a Polymorphing Boss that changes its School of magic at the beginning of every third Round.<br/>Incoming boost/resist is based on the current Polymorphed School.<br/>This Boss is not to be confused with the Stone Skeleton Key Boss "{{Link|Creature|Verboten Mimic}}".
+
+| speech =
+:''"Haha! Fooled you! I look like a chest, but I'm actually a Mimic! Not fair? Oh yes it is! You want my treasure, you'll have to fight for it!"''
+
+| cheatnotes =
+*{{Icon|Polymorph}} ''"A treasure of tricks"'' - At the beginning of Round 1, each Mimic will interrupt-cast a Moon spell and Polymorph into a random School of magic, which include the following forms.
+**{{Icon|Fire}} {{Link|Polymorph|Mimic (Fire)}} 
+**{{Icon|Ice}} {{Link|Polymorph|Mimic (Ice)}}
+**{{Icon|Storm}} {{Link|Polymorph|Mimic (Storm)}}
+**{{Icon|Myth}} {{Link|Polymorph|Mimic (Myth)}}
+**{{Icon|Life}} {{Link|Polymorph|Mimic (Life)}}
+**{{Icon|Death}} {{Link|Polymorph|Mimic (Death)}}
+**{{Icon|Balance}} {{Link|Polymorph|Mimic (Balance)}}
+***While Polymorphed, they lose the ability to gain power pips, likely due to a bug.
+*{{Icon|Late}} ''"A surprise for you too"'' - If Wizards join the duel after it has begun, each Mimic will cast {{Link|Spell|Steal Pips (Moon)}} which each steals one pip from all late Wizards.
+**Cheat still activates when Mimic has 7 power pips, but does not gain a pip even though text says "Gained 1 Pip!".
+*{{Icon|Polymorph}} ''"I can keep this up all day!"'' - At the beginning of every third Round, the Mimics will interrupt-cast their Polymorph spell.
+
+| spellnotes =
+See the respective Polymorph pages listed in the cheat notes for the spell casts and stats of each of this Boss's Polymorph Forms.
+
+| casts =
+
+| quests =
+Most Valued Treasure;
+
+| gold =
+76 - 418;
+
+| hats =
+Djinn Ghutrah of Durability;
+Djinn Ghutrah of Flux;
+Djinn Ghutrah of Radiance*F2*WMV;
+Immaculate Djinn Ghutrah;
+Mongu Kabalak of Ages*F2*WMV;
+Mongu Kabalak of Force;
+Mongu Kabalak of Frenzy*F2;
+Mongu Kabalak of Tantrums*F2*WMV;
+Mongu Kabalak of Umbrage;
+
+| robes =
+Djinn Vestment of Durability*F3*WMV;
+Djinn Vestment of Flux*F2;
+Djinn Vestment of Radiance;
+Immaculate Djinn Vestment;
+Mongu Frostfall Vestment;
+Mongu Vestment of Ages;
+Mongu Vestment of Force*F2*WMV;
+Mongu Vestment of Frenzy*F2;
+Mongu Vestment of Honor*F2;
+
+| boots =
+Mongu Givehs of Frostfall;
+Mongu Givehs of Umbrage*F2;
+Nomad's Sandstorm Striders;
+Nomad's Striders of Redress*F2*WMV;
+Nomad's Striders of Solitude*F2;
+Nomad's Striders of Tenacity*F2*WMV;
+
+| athames =
+Djinn Khanjar of Dreams;
+Djinn Khanjar of Durability*F2;
+Djinn Khanjar of Flux;
+Djinn Khanjar of Justice;
+Djinn Khanjar of Patience*F2;
+Djinn Khanjar of Radiance*F3;
+Djinn Khanjar of Swells;
+Djinn Khanjar of Vim;
+Immaculate Djinn Khanjar;
+
+| amulets =
+Djinn Pendant of Reverie;
+Djinn Pendant of Sparks;
+Djinn Pendant of Swells*F2*WMV;
+Djinn Pendant of Vim*F2*WMV;
+Djinn Pendant of Wintertide*F2*WMV;
+Fang Collar of Umbrage;
+
+| rings =
+Djinn Loop of Invention*F2*WMV;
+Djinn Loop of Reverie;
+Djinn Signet of Darkness;
+Djinn Signet of Durability;
+Djinn Signet of Flux;
+Djinn Signet of Patience;
+Djinn Signet of Radiance*F2*WMV;
+Immaculate Djinn Signet*F3*WMV;
+
+| wands =
+Frosty Purrzian Axe & Shield;
+Purrzian Bow of Redress;
+Purrzian Bow of Sandstorms;
+Purrzian Sunfire Bow;
+Smoky Purrzian Axe & Shield;
+Somber Purrzian Axe & Shield*F4*WMV;
+Vexing Purrzian Axe & Shield;
+Wise Purrzian Axe & Shield*F2;
+
+| decks =
+Djinn Cards of Darkness;
+Djinn Cards of Dreams;
+Djinn Cards of Patience*F2*WMV;
+Fang Deck of Ages*F2;
+Fang Deck of Force;
+Fang Deck of Frenzy;
+Fang Deck of Honor;
+Fang Deck of Umbrage;
+
+| items =
+
+| cards =
+Age of Reckoning*F3*WMV;
+Ashen Bones*F2;
+Astraphobia*F2;
+Combustion*F2*WMV;
+Counterforce;
+Frostfang;
+Katabatic Wind*F5*WMV;
+Namaste*F4*WMV;
+Nested Fury*F3*WMV;
+Raging Bull;
+Rusalka's Wrath;
+Saga of Heroes*F4*WMV;
+Snowball Barrage*F4;
+Winged Sorrow*F5*WMV;
+Wings of Fate*F2*WMV;
+
+| reagents =
+Aether*F39*WMV;
+Agave Leaves*F16*WMV;
+Agave Nectar*F2*WMV;
+Amber*F5*WMV;
+Amber Dust*F11*WMV;
+Aquamarine*F14*WMV;
+Astral Shard*F17*WMV;
+Braided Vine*F6*WMV;
+Draconium*F4*WMV;
+Fire Blossom*F12*WMV;
+Golden Pearl*F32*WMV;
+Iridium*F4;
+Merle's Whisker*F5*WMV;
+Mithril*F19*WMV;
+Orichalcum*F3*WMV;
+Scales*F11*WMV;
+Silver*F20*WMV;
+Stardust*F2*WMV;
+Steel*F16*WMV;
+Sunstone*F15*WMV;
+Titanium*F16*WMV;
+Tungsten*F12*WMV;
+Turmeric*F8*WMV;
+Turquoise*F16*WMV;
+Vine*F13*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F9*WMV;
+Beetle Cream Soda*F7*WMV;
+Chalupacabra*F7*WMV;
+Eye Candy*F6*WMV;
+Hard Boiled Beetle Eggs*F5*WMV;
+Hot Cross Buns*F5*WMV;
+Mustachios*F7*WMV;
+Satyr Chow*F9*WMV;
+Ships 'n' Queso*F6*WMV;
+Veggie Juice*F5*WMV;
+
+| jewels =
+Brace Opal;
+Epic Opal;
+Magnify Opal*F2*WMV;
+Radical Opal*F4*WMV;
+Reliquary Opal*F2*WMV;
+Renew Opal*F2*WMV;
+Shiny Blocking Amethyst +16*F4;
+Shiny Blocking Citrine +16;
+Shiny Blocking Hematite +16;
+Shiny Blocking Jade +16*F2*WMV;
+Shiny Blocking Onyx +16;
+Shiny Blocking Ruby +16;
+Shiny Blocking Sapphire +16*F2*WMV;
+Shiny Critical Amethyst +16;
+Shiny Critical Citrine +16*F2*WMV;
+Shiny Critical Hematite +16*F2;
+Shiny Critical Onyx +16*F2*WMV;
+Shiny Critical Ruby +16*F2*WMV;
+Shiny Critical Sapphire +16;
+Shiny Damage Amethyst +26;
+Shiny Damage Citrine +26;
+Shiny Damage Jade +26*F2;
+Shiny Damage Onyx +26;
+Shiny Damage Peridot +26*F2;
+Shiny Damage Ruby +26;
+Shiny Damage Sapphire +26;
+Shiny Defense Amethyst +51;
+Shiny Defense Citrine +52;
+Shiny Defense Hematite +51;
+Shiny Defense Hematite +52*F2;
+Shiny Defense Onyx +52*F3*WMV;
+Shiny Defense Peridot +51;
+Shiny Defense Ruby +51;
+Shiny Defense Ruby +52;
+Shiny Defense Sapphire +52;
+Shiny Health Opal +111;
+Shiny Health Opal +112*F4*WMV;
+Shiny Health Opal +113*F4*WMV;
+Shiny Health Opal +114*F2;
+Shiny Mana Opal +45*F3*WMV;
+Shiny Mana Opal +46*F5*WMV;
+Shiny Mana Opal +47*F2;
+Shiny PIP Hematite +2*F4*WMV;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Angel Oak;
+Angora Bunny Ears*F6*WMV;
+Baby Carrots*F7*WMV;
+Bamboo Shoots;
+Bell Pepper*F7*WMV;
+Blue Huckleberries*F4*WMV;
+Boiled Peanuts*F3*WMV;
+Boom Shroom*F3*WMV;
+Boon Tree*CR*F3*WMV;
+Bread Fruit Bush*F4*WMV;
+Burning Snap Dragon*F3*WMV;
+Clockwork Flower;
+Cornbread Fruit Bush*F2*WMV;
+Couch Potatoes*CR*F8*WMV;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR*F2*WMV;
+Deadly Ninja Fig*F7*WMV;
+Desparagus (Seed);
+Evil Magma Peas*CR*F4;
+Evil Snow Peas*F4*WMV;
+Face Palm*F3*WMV;
+Fickle Pickle;
+Fish on a Vine*F5*WMV;
+Fortune Cookie Tree*F2*WMV;
+Frozen Fly Trap;
+Golden Couch Potatoes*F6*WMV;
+Goose Tree*F2*WMV;
+Grapes of Wrath*CR*F5*WMV;
+Green Snow Apples*F3*WMV;
+Helephant Ears;
+Honey Bee Plant*F3*WMV;
+Honey Sickle;
+Ivy League*CR*F5*WMV;
+King Parsley*CR*F2*WMV;
+Laugh-O-Dil;
+Maelstrom Snap Dragon*F3*WMV;
+Maltese Tiger Lily*F2*WMV;
+Melting Cheese Tree*F3*WMV;
+Missile Toe*HOL;
+Moon Flower;
+Ninja Fig*CR*F3*WMV;
+Orange Bell Pepper*CR;
+Orange Dandelion;
+Pink Huckleberries*F4*WMV;
+Pink Laugh-O-Dil*F3*WMV;
+Prickly Bear Cactus*F2*WMV;
+Purple Bell Pepper;
+Purple Grapes of Wrath*F2;
+Queen Crape Myrtle;
+Red Bell Pepper*F2*WMV;
+Red Couch Potatoes*F7*WMV;
+Red Huckleberries*F4*WMV;
+Rye Bread Fruit Bush*F2*WMV;
+Saw Palmetto*F2*WMV;
+Silver Trumpet Vine*CR;
+Snap Dragon*F6*WMV;
+Snow Apples;
+Sour Fickle Pickle*F2*WMV;
+Sugar Khrystal*CR*F3*WMV;
+Sunion*CR;
+Sword Fern*CR;
+Tiger Lily (Seed)*F2*WMV;
+Trumpet Vine*F3*WMV;
+Venus Fly Trap;
+White Desparagus;
+White Laugh-O-Dil;
+White Tiger Lily;
+Yellow Bell Pepper*F4*WMV;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,195 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 800
+| crecla = Spider
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Webwood Creeper;
+
+| world = Grizzleheim
+| location = Savarstaad Pass
+| subloc1 = Webwood
+| descrip =
+Gnissa is a Spider that makes their home in the hollowed out trunk of the felled Gloomwood tree in the center of the Webwood region of Savarstaad Pass.  Wizards will most likely encounter them when gathering Gloomwood Bark for [[NPC:Hugin Fateseer|Hugin Fateseer's]] potion during the Quest "{{Link|Quest|Worse Than Its Bark}}".  While defeating Gnissa is not required for the Quest, Wizards who are not careful may end up having to duel them.<br/><br/>
+
+Three Webwood Creepers circle around Gnissa in the Gloomwood trunk.  While lone Wizards will only have to worry about one Webwood Creeper Minion, groups of Wizards will encounter Gnissa accompanied by up to three Webwood Creepers in combat depending on the size of the group.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+A secretive creature that lurks in Grizzleheim and watches from the shadows.
+
+| extract class =
+Spider;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Storm Shield;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Ghoul;
+Fire Elf (50+210);
+Storm Shark;
+Natural Attack (Ice 85x, 85%);
+
+| quests =
+
+| gold =
+35 - 60;
+
+| hats =
+Cap of Dread*F2;
+Cap of the Lost Heritage*F15*WMV;
+Circlet of Fortune;
+Cloud Cover;
+Doomfollower's Hat*F9*WMV;
+Hallowed Hood*F5*WMV;
+Headcloth of the Fray*F3*WMV;
+Snowthorn Hat*F2;
+Torrential Cap;
+
+| robes =
+Coat of Pouring Rain*F3;
+Drape of the White Squall*F2;
+Garments of Zeal;
+Glacial Longcoat;
+Raiment of the Lifespring*F3;
+Robe of Elan*F7*WMV;
+Robe of Elegies;
+Robe of the Firebloom*F2*WMV;
+Runeweave Clothing*F2;
+Thanatoid Vestment*F2*WMV;
+Tunic of Ataraxia*F2;
+Vestment of Serenity*F2;
+Vestment of Smoke*F10*WMV;
+Vestment of Yesteryear*F2*WMV;
+
+| boots =
+Applicant's Shoes*F11*WMV;
+Boots of Precipitation;
+Boots of Reflexive Might;
+Doomstriders*F2;
+Footgear of the Firehaze*F2*WMV;
+Footguards of the Disciple*F3;
+Hibernal Footwraps;
+Ice-Caked Striders*F6*WMV;
+Mythkeeper's Walkers;
+Shoes of Dreaming;
+Striders of Strife;
+
+| athames =
+Bodkin of Fury*F3;
+Iceshadow's Athame*F2;
+Reaper's Quill*F8*WMV;
+
+| amulets =
+
+| rings =
+Ice Raider's Ring;
+Maelstrom's Loop*F6*WMV;
+Seal of the Tundra;
+Stone of Confidence;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Dryad;
+Evil Snowman;
+Meteor Strike;
+Spirit Armor;
+Storm Shark;
+Sunbird*F2;
+Vampire;
+Weakness;
+
+| reagents =
+Copper*F3*WMV;
+Iron*F6*WMV;
+Nickel;
+Pyrite*F9*WMV;
+Spider Silk*F6*WMV;
+
+| spellements =
+
+| snacks =
+Cheese Broccoli*F2;
+Chocolate Strawberry*F2;
+Gummy Firecat*F2*WMV;
+Meat Soup*F8*WMV;
+Moon Pie*F7*WMV;
+Sugar Donut*F2*WMV;
+Taco;
+Tasty Biscuit*F8*WMV;
+Tomato Soup*F2;
+
+| jewels =
+Cracked Damage Amethyst +4;
+Cracked Damage Citrine +4;
+Cracked Defense Amethyst +12;
+Cracked Defense Citrine +10*F2;
+Cracked Defense Jade +9;
+Cracked Defense Jade +12;
+Cracked Defense Onyx +12;
+Cracked Defense Ruby +12;
+Frost Beetle Sapphire;
+Imp Jade;
+Scarab Citrine;
+Thunder Snake Amethyst*F2;
+Wisp Bonus Opal;
+
+| pins =
+
+| pets =
+Brown Spider;
+
+| seeds =
+Boom Shroom*F5;
+Dandelion*F2*WMV;
+Desparagus (Seed)*F5*WMV;
+Honey Sickle*F3;
+Laugh-O-Dil;
+Stinkweed*F2;
+
+| mounts =
+
+| spells =
+
+}}

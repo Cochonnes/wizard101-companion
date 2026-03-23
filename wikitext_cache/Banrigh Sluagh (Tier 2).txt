@@ -1,0 +1,150 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 10,640
+| crecla = Undead
+| school = Death
+| cheats =  Yes
+| shadowslots = 1
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+16%;
+
+| outboost =
+90%;
+
+| incboost =
+5% Life;
+
+| incresist =
+73% Death;
+
+| outhealing =
+
+| inchealing =
+45%;
+
+| stunable = No
+| beguilable = 
+| minions =
+Unforgiven Dead (Balance) (Tier 2);
+Unforgiven Dead (Shadow) (Tier 2);
+Unforgiven Dead (Star) (Tier 2);
+
+| world = Housing Instance
+| location = Unforgiven Dead Gauntlet
+| subloc1 = Unforgiven Dead Gauntlet (Tier 2)
+| descrip =
+For the purpose of drops, Banrigh Sluagh (Tier 2) is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+It takes a lot of work to be Queen. She rises early every century and doesn't rest until she's done some truly awful things.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Late to Doomsday, yer still doomed!"'' - If a Wizard is late to combat, Banrigh Sluagh will cast a Curse '''+100%''' on all Wizards.
+*{{Icon|Trap}} ''"The Dead are arming the Wizard! What a twist!"'' - At the start of the second Round, Unforgiven Dead (Balance) will cast an AoE Hex '''+30%''' on the Boss' Team
+*{{Icon|Curse}} ''"The Banrigh Sluagh brings the curse of blight"'' - Banrigh Sluagh will cast either {{Link|Spell|Mass Infection}} or {{Link|Spell|Plague}}.
+*{{Icon|Aura}} ''"The Dead escape their bonds and bless the living"'' - Unforgiven Dead (Star) will cast an AoE Magnify on the Wizard's Team.
+*{{Icon|Manipulation}} ''"Ach, That's gotta hurt, am I right?"'' - The Round after the Magnify is cast on the Wizard's Team, Banrigh Sluagh will cast {{Link|ItemCard|Mass Supernova}}.
+
+| spellnotes =
+*Casts an Aegis-protected Deathblade (+40%).
+
+| casts =
+Brace;
+Virulent Plague;
+Deathblade (+40%);
+Dark Tribute;
+Curse;
+Ship of Fools;
+Vampire;
+Call of Khrulhu;
+Wraith;
+Winged Sorrow;
+Monster Mash (Tier 2a);
+Scarecrow;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+Highlands Soldier's Kit (Level 100+)*CR;
+Highlands Warrior's Kit (Level 90+)*CR;
+
+| boots =
+Highlands Hero's Boots (Level 100+)*CR;
+Highlands Soldier's Boots (Level 100+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Stone Skeleton Key*CR;
+Tattered Banner;
+
+| cards =
+Harvest Lord;
+Plague;
+Steal Ward;
+Triage;
+Wild Bolt;
+
+| reagents =
+Cat Tail;
+Fish Fin;
+Fossil;
+Sandstone;
+Stone Block;
+Water Lily;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Spell-Defying Opal;
+
+| pins =
+
+| pets =
+Loyal Terrier*CR;
+Trusty Terrier*CR;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

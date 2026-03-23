@@ -1,0 +1,248 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 16,040
+| crecla = Jaguar
+| school = Storm
+| masteries =
+Death;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Pampero Spirit;
+
+| world = Azteca
+| location = Twin Giants
+| subloc1 = Nezahual's Cave
+| descrip =
+Two additional Pampero Spirit Minions appear if more than two Wizards are present.
+
+| speech =
+:''"I won't kill you, but I will keep one of your feet as a lucky charm."''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Virulent Plague;
+Stormblade;
+Curse;
+Feint;
+Natural Attack (Storm 190-380-570, 70%);
+Catalan;
+Leviathan;
+Storm Owl;
+Tempest (85);
+Wraith (575);
+
+| quests = 
+Jaguar Pounces on a Wizard;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge and has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge, the following drops will be available:
+*6 Spellements will drop each time from '''any''' School for their respective rank 6-10 Spells.
+
+| gold =
+138 - 304;
+
+| hats =
+Coatl Lord's Hat*F2;
+Glorious Feathered Mantle;
+High Chac's Guarded Helm;
+Song of the Lizard Hood;
+Sweet Kiss of Death Mask;
+Tree of Secrets Chac Mask;
+
+| robes =
+Coatl Lord's Robes;
+High Chac's Guarded Armor;
+Ice Age Tyrant's Scales*F2*WMV;
+
+| boots =
+Keeper of the Codex Walkers*F3*WMV;
+Rangers of the Hungry Lizard*F4*WMV;
+
+| athames =
+Black Sky Barbed Hook*F2*WMV;
+Blade of the Green Song*F3*WMV;
+Seven Stabs of the Sky Athame;
+
+| amulets =
+
+| rings =
+Falling Star's End Time Band*F4;
+
+| wands =
+Rod of Icy Tears*F3*WMV;
+Storm Quetzal's Charged Mace;
+
+| decks =
+Calendar of the Spiral King*F3*WMV;
+Jaguar Paw Pyramid*F2;
+Storm Sun Gallery*F4*WMV;
+
+| items =
+Azteca Dungeon Theme;
+Azteca Haunted Theme;
+Azteca Mountain Theme;
+Azteca Pot;
+Azteca Rug*F2;
+Jaguar Pillar*F2*WMV;
+Star Dino Shield*F2;
+
+| cards =
+Chastisement*F2*WMV;
+Colossal*F2;
+Cycle of Life;
+Dr. Von's Monster*F2;
+Efreet;
+Extraordinary*F2*WMV;
+Frost Demon;
+Furnace;
+Galvanic Field;
+Gnomes!;
+Medusa;
+Polymorph Icehorn*F2;
+Polymorph Jaguar*F2;
+Polymorph Pteranodon;
+Potent Trap;
+Primordial*F2;
+Punishment;
+Reliquary;
+Savage Paw*F3;
+Sharpened Blade*F2;
+Sirens;
+Sleet Storm;
+Snow Angel;
+Virulence*F2*WMV;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F4*WMV;
+Black Pearl*F2*WMV;
+Blood Moss;
+Bone*F3*WMV;
+Bronze;
+Bronze Gear*F3*WMV;
+Deep Mushroom*F3;
+Fire Blossom*F3*WMV;
+Fossil;
+Golden Pearl;
+Lava Lily*F5*WMV;
+Mist Wood*F3*WMV;
+Mithril;
+Nightshade;
+Ore*F2;
+Red Mandrake*F5*WMV;
+Silver;
+Stone Block*F4*WMV;
+Sunstone*F2*WMV;
+Titanium;
+Tungsten*F2*WMV;
+Turquoise*F2*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*F3*BR*WMV;
+Centaur*BR;
+Chimera*BR*F2;
+Colossus*BR;
+Dr. Von's Monster*BR;
+Efreet*BR*F2;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR*F2;
+Gnomes!*BR;
+Helephant*BR*F2;
+Hydra*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Triton*BR;
+Woolly Mammoth*BR;
+Wraith*BR*F2;
+
+| snacks =
+Allocados*F3*WMV;
+Bedrock Bonbons;
+Cactus Fruit;
+Caramel Apple*F2*WMV;
+Chili Peppers;
+Deviled Eggs*F3;
+Flapjacks;
+Fried Ice Cream*F2;
+Glowing Star Fruit;
+Jelly Baby;
+Quetzal Pretzel;
+Saber-Tooth Cider*F2*WMV;
+Saursa;
+Shiny Tomato;
+Tamales;
+Tenochti-Flan*F2*WMV;
+Tortilla Chips;
+Zocalo Wings;
+
+| jewels =
+Huge Rally Opal;
+Myth-Eye Peridot;
+Ninja Pig Opal;
+Polished Critical Citrine +11;
+Polished Damage Jade +21;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears*F2;
+Blue Huckleberries;
+King Parsley*CR*F2;
+Maelstrom Snap Dragon;
+Ninja Fig*CR;
+Red Huckleberries;
+
+| mounts =
+
+| spells =
+
+}}

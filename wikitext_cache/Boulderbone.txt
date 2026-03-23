@@ -1,0 +1,158 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,200
+| crecla = Elemental
+| crecla2 = Colossus
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Canyon Rager;
+
+| world = Grizzleheim
+| location = Mirkholm Keep
+| subloc1 = Boulderbone's Cave
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+He's just a great big pile of boulders and bones and bad attitude.
+
+| extract class =
+Colossus;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Storm Shield;
+Weakness;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Ghoul;
+Fire Elf;
+Evil Snowman;
+Natural Attack (Life 85x);
+
+| quests =
+
+| gold =
+47 - 86;
+
+| hats =
+Crown of Hardiness*F2*WMV;
+Headgear of Health*F2*WMV;
+Penumbra Cowl;
+
+| robes =
+Coat of Utility;
+Coldgrave Garments*F2*WMV;
+Drape of Magnitude*F2*WMV;
+Jerkin of the Just*F2;
+Jerkin of the Rime;
+Robe of Mourning;
+Robe of Subsistence;
+Robe of the Theorem*F3*WMV;
+Survivalist's Tunic;
+Wrap of the Woods*F2*WMV;
+
+| boots =
+Annalist Boots*F4*WMV;
+Conservator's Footgear;
+Fountain Waders;
+Wraps of the Last Wake*F2*WMV;
+
+| athames =
+Irontalon*F3*WMV;
+Poniard of the Last Rune*F2*WMV;
+Shortblade of Valor;
+
+| amulets =
+
+| rings =
+Burnished Band;
+Circle of the Icefloe*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Fire Pit and Kettle;
+Tanglebrush;
+Weapons Cache;
+
+| cards =
+Dryad;
+Heck Hound;
+Skeletal Pirate;
+Sniper;
+
+| reagents =
+Nickel;
+Pyrite;
+Spider Silk*F2*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Cheese*F2*WMV;
+Diamond Carrot*F2*WMV;
+Fries*F2*WMV;
+Glowing Rock Candy*F2*WMV;
+Green Banana;
+Heavenly Bubblegum;
+Meat Soup*F2;
+Moon Pie*F3*WMV;
+Tasty Biscuit*F2*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Bread Fruit Bush*F2*WMV;
+Helephant Ears*F2*WMV;
+Snap Dragon*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

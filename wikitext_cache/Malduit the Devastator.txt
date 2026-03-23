@@ -1,0 +1,138 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,360
+| crecla = Seraph
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Life;
+
+| incresist =
+70% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Silent Seraph;
+
+| world = Zafaria
+| location = Stone Town
+| subloc1 = Kasbah of Zanj
+| descrip =
+This Death Seraph is being controlled by the {{Link|Creature|Mind Robber}}, and Necromancers will need to free her from his will during their Level 75 Minion Quest, Bad Schooling.  This Creature is not repeatable.
+
+| speech =
+:''"Ask not for whom the bell tolls, Wizard! It tolls for thee!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 75 Death Damage per Pip.
+
+| casts =
+Weakness;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Fire Elf (50+210);
+Lightning Bats;
+Ice Wyvern;
+
+| quests =
+Bad Schooling;
+
+| gold =
+42 - 53;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Centaur;
+Earthquake;
+Helephant;
+Hydra*F2;
+Minotaur*F2;
+Phoenix;
+Satyr*F2;
+Skeletal Pirate*F2;
+Spectral Blast*F2;
+Stormzilla*F2;
+Triton;
+Wraith;
+
+| reagents =
+Black Lotus;
+Cat Tail;
+Deep Mushroom*F2;
+Frost Flower;
+Lava Lily*F2;
+Mist Wood*F2;
+Ore*F2;
+Parchment;
+Pearl;
+Red Mandrake;
+Shell*F2;
+Stone Block*F2;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F2;
+Flaming Soup;
+Glowing Dragon Fruit*F2;
+Golden Apple;
+Golden Grapes*F2;
+Gummy Humongofrog*F4;
+King Banana;
+Salmonberry*F2;
+Shiny Tomato;
+Uni-Corn*F2;
+
+| jewels =
+Dull Damage Amethyst +13;
+Wraith Onyx;
+
+| pins =
+
+| pets =
+Flamedance Seraph*F2;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

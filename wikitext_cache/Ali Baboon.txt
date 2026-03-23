@@ -1,0 +1,253 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 13,440
+| crecla = Thuggie
+| school = Fire
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+120 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+2%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Ice;
+
+| incresist =
+30% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Gobblorean Guard (Balance);
+Gobblorean Guard (Death);
+Gobblorean Guard (Storm);
+
+| world = Mirage
+| location = Thieves' Den
+| subloc1 = Ali Baboon's Private Lounge
+| descrip =
+
+| speech =
+:''"Hohoho! Hohoho! You are a crafty combatant, Wizard, Ali Baboon will give you that, but you have waded into deep sand now, coming into my Lounge. Mirage was once ruled by the great Baboolonian Empire. I am descended directly from its kings, and I inherited their tremendous powers. You embarrassed me back in the Underden, but now I will have my vengeance. To the last, I will grapple with thee..."''
+
+| cheatnotes =
+*{{Icon|Late}} ''"You are late. How embarrassing"'' - If a Wizard is late to combat, he will interrupt-cast a Cloaked version of a negative Charm on all Wizards.
+*{{Icon|Minion}} ''"Now, you made Ali Baboon angry"'' - At the beginning of Round 1, he will cast a Sun Spell that summons one of the following {{Link|Creature|Gobblorean Guard}} Minions:
+::Gobblorean Guard (Balance)
+::Gobblorean Guard (Death)
+::Gobblorean Guard (Storm)
+:*After defeating his first minion, he will cast a '''+45% in / +35% out''' version of {{Link|ItemCard|Berserk}}. Berserk is only cast the first time a minion is defeated.
+:*At the start of every Round that Ali doesn't have a minion he will resummon another one of a random type.
+*{{Icon|Absorb}}{{Icon|Heal}}''"Pick on Ali Baboon, not his men!"'' - If a Gobblorean Guard is attacked, he will cast an Aegis-protected {{Link|Spell|Mander Armor}} and {{Link|Spell|Healing Current}} on the Minion.
+:*Hitting Ali with Spells that have an all enemies secondary effect, such as {{Link|Spell|Winged Sorrow}}, will still activate this cheat.
+*{{Icon|Curse}} ''"Here, consider this a gift"'' - After casting his Natural Attack, he will interrupt-cast a Cloaked version of a negative Charm on all Wizards.
+**Spell used to be a '''-55%''' version of Smoke Screen, but now the spell may be bugged.
+*{{Icon|Feint}} ''"Such tricks won't work on me"'' - If a {{Link|Spell|Feint}} is placed on Ali Baboon, he will cast {{Link|Spell|Cleanse Ward (Shadow, -All)}} to remove all Traps from himself.
+** Pet Spells will trigger this cheat.
+**{{Link|Spell|Mass Feint (+75%)}} will not trigger this cheat.
+**{{Link|Spell|Indemnity}} can be used to prevent removal.
+
+| spellnotes =
+
+| casts =
+Eruption;
+Furnace;
+Glacial Shield (-75%);
+Smoke Screen (-45%);
+Fireblade;
+Backdraft (+20%);
+Choke;
+Fire Beetle;
+Natural Attack (Fire 120-240-360, 70%);
+Meteor Strike (355-395);
+Scald (567);
+Fire Dragon (495+395);
+Rain of Fire (330+880);
+
+| quests =
+Ali Baboon's Last Stand;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' Badge and has not unlocked the '''[[Basic:Empyrea Badges|Hero of Light and Shadow]]''' Badge, the following drops will be available:
+*9 Spellements will drop each time from '''any''' School for their respective rank 9, 10, King Artorius, Polaris, and Mirage Spells.
+
+| gold =
+467 - 550;
+
+| hats =
+Alkali Kalpak of Fealty;
+
+| robes =
+Alkali Armor of Fealty;
+Alkali Armor of Fiction;
+Alkali Burning Sands Armor;
+Eerem Raiment of Menace;
+
+| boots =
+Alkali Walkers of Vibrancy;
+Alkali Wintertide Walkers;
+Eerem Givehs of Menace;
+
+| athames =
+Eerem Razor of Pulse;
+
+| amulets =
+Eerem Talisman of Harmony;
+Istanboa Pendant of Scruples;
+
+| rings =
+Eerem Band of Discovery;
+Eerem Band of Pulse;
+
+| wands =
+Myriarch Tabarzin of Fevers;
+Myriarch Tabarzin of Musing;
+Scorpion Bow of Answers;
+Scorpion Bow of Desolation;
+
+| decks =
+Eerem Spread of Pulse;
+Istanboa Array of Icefall;
+Istanboa Heatwave Array;
+
+| items =
+Mirage Canyon Combat Theme;
+Mirage Canyon Theme 1*F2*WMV;
+Mirage Canyon Theme 2;
+Mirage Chronoverge Com Theme;
+Mirage Chronoverge Theme;
+Mirage Den of Thieves Theme;
+Mirage Jungle Combat Theme;
+Mirage Magic Carpet Theme;
+Mirage Nomad Theme;
+Mirage Spider Speaks Theme;
+
+| cards =
+Ashen Bones*F2;
+Astraphobia;
+Combustion;
+Frostfang;
+Namaste;
+Winged Sorrow;
+
+| reagents =
+Aether*F6*WMV;
+Agave Leaves*F3;
+Agave Nectar;
+Amber Dust*F2*WMV;
+Aquamarine*F6*WMV;
+Astral Shard*F3*WMV;
+Draconium;
+Fire Blossom*F6*WMV;
+Golden Pearl*F8*WMV;
+Iridium;
+Merle's Whisker*F3*WMV;
+Mithril*F3;
+Orichalcum*F2;
+Scales*F2*WMV;
+Silver*F3*WMV;
+Stardust;
+Sunstone*F4*WMV;
+Titanium*F5*WMV;
+Tungsten*F2*WMV;
+Turmeric;
+Turquoise*F3*WMV;
+Vine*F2*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Climaclysm*BR;
+Iron Sultan*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Sabertooth*BR;
+Storm Owl*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Beast Wellington;
+Beetle Cream Soda*F2*WMV;
+Chalupacabra*F2;
+Eye Candy;
+Hard Boiled Beetle Eggs;
+Hot Cross Buns*F4*WMV;
+Satyr Chow;
+Ships 'n' Queso*F2*WMV;
+Veggie Juice;
+
+| jewels =
+Magnify Opal;
+Shiny Critical Amethyst +16;
+Shiny Critical Citrine +16;
+Shiny Critical Onyx +16;
+Shiny Critical Ruby +16;
+Shiny Damage Amethyst +26*F2;
+Shiny Damage Onyx +26;
+Shiny Damage Sapphire +26;
+Shiny Defense Hematite +52;
+Shiny Defense Ruby +51;
+Shiny Defense Sapphire +51;
+Shiny Health Opal +112;
+Shiny Health Opal +113;
+Shiny Mana Opal +45*F2*WMV;
+Shiny PIP Hematite +2;
+
+| pins =
+
+| pets =
+MaCaw*CR*F4*WMV;
+
+| seeds =
+Cornbread Fruit Bush;
+Dandelion*F2;
+Deadly Fly Trap*F3*WMV;
+Evil Snow Peas;
+Fickle Pickle;
+Fiery Boom Shroom;
+Fortune Cookie Tree*F2*WMV;
+Golden Couch Potatoes;
+Goose Tree;
+Grapes of Wrath*CR;
+Helephant Ears;
+Honey Bee Plant;
+Ivy League*CR;
+Laugh-O-Dil;
+Ninja Fig*CR;
+Orange Dandelion;
+Pink Laugh-O-Dil;
+Purple Bell Pepper;
+Red Grapes of Wrath;
+Saw Palmetto;
+Silver Trumpet Vine*CR;
+Snow Apples*F2;
+Sour Fickle Pickle;
+Trumpet Vine;
+Venus Fly Trap
+
+| mounts =
+
+| spells =
+
+}}

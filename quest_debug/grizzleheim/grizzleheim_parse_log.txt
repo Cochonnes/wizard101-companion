@@ -1,0 +1,89 @@
+PARSE LOG — Grizzleheim
+============================================================
+
+AREA    : Wizard101
+AREA    : Main Quest Line
+AREA    : Starting Grizzleheim
+AREA    : Grizzleheim begins at
+AREA    : “Bear Market”
+AREA    : “Grizzleheim”
+AREA    : Level Limitations
+AREA    : Practical matters
+AREA    : About Grizzleheim
+AREA    : Wizard City / Northguard
+AREA    : Bear Market (talk 4x)
+AREA    : Trade Voyage (talk 4x)
+AREA    : Savarstaad Pass
+QUEST#  4: I’m with the Band                        [talk]
+QUEST#  5: Face Your Fate                           [mob + talk]
+QUEST#  6: Spiritual Father                         [talk + boss]
+QUEST#  7: A Lesson in Manners                      [mob + talk]
+QUEST#  8: Bear Behind Bars                         [d&c + explore + boss + talk]
+QUEST#  9: My Brother’s Enemy                       [talk]
+QUEST# 10: Making the Blade                         [talk]
+QUEST# 11: Hammer and Tongs                         [boss + talk]
+QUEST# 12: Metal Health                             [collect + d&c + talk]
+QUEST# 13: The Spider Queen                         [explore + boss + talk]
+QUEST# 14: Thrice-Blessed Blade                     [explore + boss + talk]
+QUEST# 15: The Sword is Forged                      [talk]
+QUEST# 16: Watch Your Back                          [mob + talk]
+QUEST# 17: The Gates of Draugarth                   [explore + talk + boss]
+QUEST# 18: Fate Awaits                              [boss + talk]
+QUEST# 19: Immigrant Song                           [talk]
+AREA    : Vigrid Roughland
+QUEST# 20: Lending a Paw                            [talk]
+QUEST# 21: Hunter-Gatherer                          [d&c + collect + talk]
+QUEST# 22: Bears in the Woods                       [talk]
+QUEST# 23: Wolf Scouts                              [mob + talk]
+QUEST# 24: Grimnir and Bear It                      [talk]
+QUEST# 25: That Old Ice Magic                       [talk]
+QUEST# 26: Nine is Enough                           [talk]
+QUEST# 27: Grendel’s List                           [collect + d&c + boss + talk]
+QUEST# 28: The Eye of Truth                         [instance + mob + boss + interact + talk]
+QUEST# 29: Finding Ivar                             [talk]
+QUEST# 30: Holm Sweet Holm                          [boss + talk]
+AREA    : Holm Sweet Holm (
+QUEST# 31: The Traitor Within                       [instance + talk + boss + interact]
+QUEST# 32: Acting Boarish                           [instance + talk + boss]
+QUEST# 33: The Eye Has It                           [instance + talk + interact + boss + explore]
+AREA    : Holm Sweet Holm (talk 3x)
+AREA    : Mirkholm Keep
+QUEST# 34: Full Grizzle Jacket                      [talk]
+QUEST# 35: One in the Snout                         [mob + talk]
+QUEST# 36: Throwing Stones                          [d&c + interact + talk]
+QUEST# 37: Wolves at the Gate                       [mob + explore + talk]
+QUEST# 38: A Wolf Among Bears                       [talk]
+QUEST# 39: The Bear Truth                           [talk]
+QUEST# 40: Healing Helping                          [d&c + interact + talk]
+QUEST# 41: Walking Wounded                          [interact + talk]
+QUEST# 42: Leaders of the Pack                      [boss + talk]
+QUEST# 43: Where Wolves?                            [explore + talk]
+QUEST# 44: Clean Them Out                           [boss + interact + talk]
+QUEST# 45: Grendel with Care                        [talk]
+QUEST# 46: Good Eats                                [collect + mob + talk]
+QUEST# 47: From Dusk the Dawn                       [boss + talk]
+QUEST# 48: On Second Thought…                       [boss + talk]
+QUEST# 49: All is Revealed                          [interact + mob + explore + boss + talk]
+QUEST# 50: The King and I                           [talk]
+QUEST# 51: The Bigger They Are ( triple boss + talk [triple boss + talk]
+AREA    : Ravenscar
+QUEST# 52: Dark Wings                               [talk]
+QUEST# 53: Blackbird in a Cage                      [explore + mob + talk]
+QUEST# 54: Bustin’ Loose                            [boss + talk]
+QUEST# 55: A Wing and a Prayer                      [d&c + talk]
+QUEST# 56: No Substitutions                         [interact + talk]
+QUEST# 57: Cauldron of Plenty                       [interact + talk]
+QUEST# 58: The Tower of Lore                        [explore + boss + talk]
+QUEST# 59: Talons of the Coven                      [d&c + talk]
+QUEST# 60: Chip Off the Old Block                   [interact + talk]
+QUEST# 61: Taking Names                             [boss + interact + talk]
+QUEST# 62: The Unusual Suspects                     [boss + interact + talk]
+QUEST# 63: Cups and Hearts                          [mob + interact + boss + talk]
+QUEST# 64: Time of Their Side                       [explore + talk]
+QUEST# 65: The Long Way                             [explore + talk]
+QUEST# 66: Dusty Roads                              [d&c + talk + interact]
+QUEST# 67: A Fistful of Feathers                    [d&c + talk + interact]
+QUEST# 68: Blood Brother                            [explore + boss + interact + talk + solo]
+
+SUMMARY: 65 quests in 5 areas
+Stats: {'total_quests': 68, 'mob_fights': 15, 'dc_quests': 11, 'boss_fights': 31, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}

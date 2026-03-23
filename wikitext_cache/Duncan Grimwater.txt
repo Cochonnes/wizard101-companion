@@ -1,0 +1,140 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 5,360
+| crecla = Wizard
+| school = Death
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+70%;
+
+| incboost =
+15% Life;
+
+| incresist =
+40% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = Dark Cave
+| subloc1 = Malistaire's Sanctum
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Global}} ''"Here's how the Cabal fights!"'' - At the beginning of the first Round, Duncan Grimwater will cast a '''-100%''' version of Doom and Gloom.
+**If a Wizard tries to replace the Doom and Gloom with another type of [[:Category:Global Spells|Global]] Spell, he will recast the Doom and Gloom.
+*{{Icon|Heal}} ''"Ha! I knew you'd try that!"'' - If a Wizard casts a [[:Category:Healing Spells|Healing]] Spell, he will place a '''-55%''' Infection on the Wizard.
+**Pet heals will trigger this cheat.
+*{{Icon|Round}} ''"This one's just for you!"'' - When Duncan Grimwater receives two Shadow Pips, he will cast Dark Fiend with '''+20%''' Backlash and receive a '''+40%''' {{Link|Spell|Shadowblade}}.
+
+| spellnotes =
+*Despite knowing Dark Shepherd, Duncan Grimwater will always cast Dark Fiend instead due to his cheats.
+
+| casts =
+Dark Shepherd;
+Dark Fiend;
+Berserk;
+Deathspear (+10%);
+Infection;
+Sacrifice;
+Deathblade (+40%);
+Curse (+25%);
+Doom and Gloom;
+Ghoul (180);
+Vampire (375);
+Wraith (575);
+Dr. Von's Monster (900);
+Major Agony;
+
+| quests =
+The Eye of History;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate;
+Beast Wellington;
+Beetle Cream Soda;
+Chalupacabra;
+Decimatoes;
+Eye Candy*F2*WMV;
+Frosty Sugar Cubes;
+Hard Boiled Beetle Eggs;
+Hot Cross Buns;
+Jolly Rancher;
+Mustachios;
+Rhubarbed Wire;
+Satyr Chow;
+Ships 'n' Queso;
+Veggie Juice;
+
+| jewels =
+Lustrous Accurate Jade +11%;
+Lustrous Accurate Sapphire +11%;
+Lustrous Critical Amethyst +13;
+Lustrous Critical Citrine +13*F2*WMV;
+Lustrous Damage Jade +23;
+Lustrous Damage Peridot +23;
+Lustrous Defense Jade +45;
+Lustrous Defense Onyx +45;
+Lustrous Defense Ruby +45;
+Lustrous Defense Sapphire +45;
+
+| pins =
+
+| pets =
+
+| seeds =
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Red Bell Pepper;
+Red Grapes of Wrath;
+Yellow Bell Pepper*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

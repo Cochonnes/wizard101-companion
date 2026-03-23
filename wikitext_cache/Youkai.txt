@@ -1,0 +1,216 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 6,400
+| crecla = Imp
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Kogani Death Crawler;
+Kogani Death Crawler;
+Kogani Death Crawler;
+
+| world = MooShu
+| location = Tree of Life
+| badge = Sword Saint
+| lootchest = Youkai's Chest
+| descrip =
+Youkai is an impish secret Boss in the Tree of Life instance. To find him, from the entrance, go to the southwesternmost pagoda. It will be the pagoda that has his sprite doodle under it on the map.
+
+| speech =
+:''"Pathetic fool! I will crush you where you stand."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+Congratulations! You found one of the most irritating secret bosses in all the Spiral! Hope you enjoyed defeating him.
+
+| extract class =
+Imp;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown amount of Life damage
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Black Mantle;
+Sprite;
+Lifeblade;
+Life Trap;
+Imp;
+Leprechaun;
+Nature's Wrath;
+Seraph;
+Centaur;
+Locust Swarm;
+Cyclops;
+Storm Shark;
+Meteor Strike;
+Heck Hound;
+
+| quests =
+
+| gold =
+63 - 118;
+
+| hats =
+Benign Cap*F2;
+Hat of Enthusiasm;
+Hood of the Resolute;
+Light-As-Air Hat;
+Tormented Mask;
+Vigilant Cap;
+Warbled Hat;
+Youkai's Cap of Brainstorms*F3*WMV;
+Youkai's Hat of Kindness*F2*WMV;
+Youkai's Headwraps of Intent*F2*WMV;
+Youkai's Rational Hat*F2*WMV;
+
+| robes =
+Blended Wool Tunic;
+Cloak of Rhyming*F2;
+Euphonic Cloak*F2*WMV;
+Garment of Watchfulness;
+Garments of Chants; 
+Heedful Robe;
+Robe of Consideration;
+Sprightly Garments*F3;
+Tunic of Preoccupation;
+Vestment of Cooperation;
+Vestment of Tribulations;
+Youkai's Cloak of Kindness*F2;
+Youkai's Robe of Premise*F2;
+Youkai's Tunic of Intent*F3*WMV;
+Youkai's Vestment*F3*WMV;
+
+| boots =
+Blended Wool Footwraps;
+Boots of Chimes;
+Boots of Cooperation;
+Boots of Niceties;
+Footwraps of Chants;
+Friendly Shoes;
+Problematic Boots*F2;
+Profound Slippers;
+Sandals of Exertion;
+Shoes of Struggling;
+Shoes of the Observant;
+Slippers of the Eager;
+Slippers of the Opus;
+Sprightly Slippers;
+Youkai's Shoes*F2*WMV;
+Youkai's Slippers*F3*WMV;
+Youkai's Vacant Footwraps*F2*WMV;
+
+| athames =
+Surgeon's Scalpel*CR*F2;
+
+| amulets =
+
+| rings =
+Loop of Refreshment*CR*F2*WMV;
+Ring of the Naturewalker*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Koi Pond*F4*WMV;
+Lunar Tablet*F1*WMV;
+Pagoda Shrine*F4*WMV;
+Potted Bobtail;
+Tall Blue Vase*F2*WMV;
+Wooden Skeleton Key*CR*F3*WMV;
+Youkai's Bonsai*F4*WMV;
+
+| cards =
+Dragonflies;
+Monstrous;
+Skeletal Pirate;
+Time of Legend;
+Triton*F2;
+
+| reagents =
+Brass;
+Cobalt*F3*WMV;
+Copper*F2;;
+Lead;
+Nickel*F2;
+Spider Silk*F3*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F2*WMV;
+Crunch Apple;
+Fire Cracker*F2;
+Golden Peanut;
+Golden Squash*F2;
+Large Fish;
+Large Watermelon*F2;
+Square Root;
+
+| jewels =
+Blemished Accurate Onyx +5%;
+Blemished Damage Amethyst +11;
+Blemished Damage Citrine +11;
+Blemished Damage Ruby +11;
+Effective Opal;
+Flawed Damage Onyx +10;
+Flawed Defense Citrine +20;
+Flawed Defense Onyx +20;
+Healthy Opal;
+Ice Wyvern Sapphire*F2;
+Kraken Amethyst;
+Meteor Strike Ruby*F2;
+Move It! Opal;
+Power Play Citrine;
+
+| pins =
+
+| pets =
+Minotaur*F7*WMV;
+
+| seeds =
+Fiery Boom Shroom;
+Maelstrom Snap Dragon*F2;
+White Laugh-O-Dil*F2;
+
+| mounts =
+
+| spells =
+
+}}

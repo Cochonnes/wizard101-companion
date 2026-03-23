@@ -1,0 +1,192 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 10,000
+| crecla = Dog
+| school = Death
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Dog Knight;
+
+| world = Avalon
+| location = Caer Lyon
+| subloc1 = Dark Knight's Lair
+| descrip =
+*Two additional {{Link|Creature|Amber Knight}}s appear if more than two Wizards are present.
+
+| speech =
+:''"...and there is something out there in the darkness, something terrifying, something that will not stop: Me."''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Deathblade;
+Feint;
+Natural Attack (Death 145-285-440);
+Vampire;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+
+| quests =
+Dark Night Rises;
+
+| gold =
+91 - 114;
+
+| hats =
+Bad Storm Shroud;
+Brave One's Mantle;
+Chaos Knight's Blazing Helm*F3*WMV;
+Fire Elf Champion's Helm;
+Mask of the Crystal Caves*F3*WMV;
+Mask of the Silent Hunter;
+Paladin's Frosty Helmet;
+
+| robes =
+Hanging Stones Armor;
+Knight of the Wyrd Armor;
+Tunic of Nature's Wrath;
+
+| boots =
+Courageous Knight's Boots*F2*WMV;
+Deep Water Splashers;
+Jouster's Footguards;
+Long as Night Walkers;
+Sworn Champion's Footguards*F3*WMV;
+
+| athames =
+Brave Steel;
+Horned One's Iron*F2;
+
+| amulets =
+Torc of Hidden Wisdom;
+Torc of the Faithful Squire*F2*WMV;
+
+| rings =
+Bad Host Band;
+Bannerman's Honorbound Ring;
+Dun Dara's Triskelion;
+Sir Corwin's Ring*F4*WMV;
+
+| wands =
+Dragonbreath Bow;
+Shillelagh of the Squire*F2*WMV;
+
+| decks =
+Silvershield Cards*F5*WMV;
+
+| items =
+Avalon Glorious Theme;
+Avalon Haunting Theme;
+Rose Shield Banner;
+Small Arms Weapons Rack;
+
+| cards =
+Beguile*F3;
+Dark Tribute*F3*WMV;
+Efreet;
+Fire Dragon*F2*WMV;
+Forest Lord*F2*WMV;
+Gargantuan*F3*WMV;
+Medusa;
+Orthrus*F2*WMV;
+Plague*F3*WMV;
+Poison*F2*WMV;
+Power Nova;
+Rebirth;
+Sacrifice*F2;
+Scarecrow;
+Skeletal Dragon;
+Snow Angel;
+Storm Lord;
+Unstoppable*F3*WMV;
+Virulent Plague*F4*WMV;
+
+| reagents =
+Black Lotus*F2;
+Cat Tail*F2*WMV;
+Cobalt*F2;
+Deep Mushroom*F3*WMV;
+Frost Flower*F3;
+Lava Lily*F2*WMV;
+Mist Wood*F2;
+Ore*F3*WMV;
+Parchment*F3*WMV;
+Pearl*F3*WMV;
+Red Mandrake*F4*WMV;
+Shell*F2;
+Steel;
+Stone Block*F4*WMV;
+
+| spellements =
+
+| snacks =
+Bogwich;
+Deviled Eggs*F2;
+Flapjacks;
+Glowing Taffy;
+Goat Cheese*F2*WMV;
+Golden Grapes*F3*WMV;
+Gummy Humongofrog;
+Gummy Wyrms;
+King Banana*F2*WMV;
+Kola Nuts;
+Pigeon Pie;
+Roasted Chickpeas;
+Strawberry Cupcake;
+Submarine Sandwich;
+
+| jewels =
+Clear Blocking Ruby +10;
+Clear Health Opal +76;
+Effective Opal;
+Elemental Trap Citrine (Triangle);
+Fire Trap Ruby;
+Opaque Defense Peridot +35;
+Sturdy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Blue Huckleberries;
+Evil Magma Peas*CR;
+Pink Dandelion*CR;
+Pink Huckleberries;
+Red Huckleberries*F2*WMV;
+Silver Trumpet Vine*CR*F2;
+White Tiger Lily*F2;
+
+| mounts =
+
+| spells =
+
+}}

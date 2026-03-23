@@ -1,0 +1,101 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 40,000
+| crecla = Undead
+| school = Death
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Fleshless Chattel;
+Fleshless Chattel;
+Fleshless Chattel;
+
+| world = Avalon
+| location = Dun Dara
+| subloc1 = Charnel House
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Spell}} ''"Oh, fie, it seems I dropped something."'' - At the beginning of every fourth Round, Malificus Mangemort will give all Wizards one of the following Cards at random.
+**{{GivesSpell|spells = 6|size = x150px|Attenuate (Storm)|Balanceblade (Death)|Brace (Storm)|King Artorius (Myth, 2,090)|Sprite (30+15,000)|Woolly Mammoth (1,750)}}
+* ''"What? How did you get that? Did I do that?"'' - Malificus Mangemort will say this if Woolly Mammoth (1,750) is cast.
+
+| spellnotes =
+
+| casts =
+Mass Weakness;
+Deathblade;
+Permafrost Trap;
+Wraith (Tier 5b);
+Monster Mash (Tier 5a);
+Avenging Fossil (Tier 5b);
+
+| quests =
+Undead House Party;
+Raid Island;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth @ 7 Azoth;
+Azoth @ 8 Azoth;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,316 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 19,200
+| crecla = Pterodactyl
+| crecla2 = Dino
+| school = Storm
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Tzeltan Cohort (Tier 2);
+Tzeltan Cohort (Tier 2);
+Tzeltan Cohort (Tier 2);
+
+| world = Azteca
+| location = Three Points
+| subloc1 = Ixcax CursedWing's Chamber
+| badge = Ixnay on the Ixcax
+| descrip =
+Ixcax CursedWing is a unique Boss who drops Gear and Spellements from the {{Link|Item|Shaman's Spellemental Pack}}.
+*This Tier is for levels 51-95 Wizards.
+
+| speech =
+:''"Look at you, practically skipping along, happily venturing into some ancient Aztecan ritual chamber. Must be sooo much fun! Do you know what it's like to be cursed to maintain an endless vigil? Of course not! You have no idea! But I'll tell you, it stinks! When the Firstworld was destroyed, I bargained for our salvation, and I was given this! An eternity guarding an empty room! I am bound to attack any who venture in here. There was a time I resented it, but now I relish the chance to share my misery!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Their cursed vigil won't be so bad once Azteca develops mass media.
+
+| extract class =
+Dinos;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Blade}} ''"Death had no hold on me!"'' - If a Wizard casts a {{Link|Spell|Deathblade}}, or if a Tzeltan Cohort casts a {{Link|Spell|Deathblade}} on Ixcax CursedWing, she will cast a version of {{Link|Spell|Disarm}} on herself to remove the Deathblade and cast Virulent Plague.
+*{{Icon|Aura}} ''"Vengeance will be mine!"'' - If an ally or enemy is defeated, she will cheat-cast Berserk, and the remaining Minions will cast {{Link|Spell|Fortify}}.
+*{{Icon|Feint}} ''"Two can play at that game!"'' - If a Wizard places a {{Link|Spell|Feint}} on Ixcax, she will cheat-cast a Feint on the Wizard.
+*{{Icon|Manipulation}} ''"Time to mix things up"'' - At the end of every fifth Round, Ixcax cheat-casts a version of {{Link|Spell|Cleanse Ward (-All)}} that removes all negative wards from her team, and casts a unique Storm School Mass Prism on all enemies that converts any incoming Damage to another School of magic (i.e Death, Fire, Storm, Life, Ice, or Myth).
+
+| spellnotes =
+
+| casts =
+Berserk;
+Virulent Plague;
+Stormblade (+30%);
+Storm Trap;
+Windstorm;
+Feint;
+Enfeeble;
+Darkwind;
+Storm Serpent (230);
+Stormbird;
+Thunderbird;
+Triton;
+Leviathan;
+Tempest;
+Natural Attack (Fire 190-380-570);
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+4,328 - 8,174;
+
+| hats =
+Black Star Eagle's Helm (Level 80+)*CR;
+Black Star Eagle's Helm (Level 90+)*CR;
+Lost World Cloud Helm*F4;
+Lost World Cursed Visor*F5;
+Lost World Ember Hood*F2;
+Lost World Fated Hood*F2;
+Lost World Hail Visor;
+Lost World Mystic Mask*F2;
+Lost World Soul Helm;
+Lost World Survivor Mask*F14*WMV;
+Mask of the Sun Eagle (Level 80+)*CR;
+Mask of the Sun Eagle (Level 90+)*CR*F2*WMV;
+Turquoise Eagle's Mantle (Level 80+)*CR;
+Turquoise Eagle's Mantle (Level 90+)*CR;
+
+| robes =
+Cloak of the Black Star Eagle (Level 80+)*CR;
+Cloak of the Black Star Eagle (Level 90+)*CR*F2*WMV;
+Lost World Cloud Mail;
+Lost World Cursed Vestment*F2;
+Lost World Ember Jerkin*F2*WMV;
+Lost World Fated Armor*F2;
+Lost World Hail Suit*F2*WMV;
+Lost World Mystic*F2;
+Lost World Soul Gear*F3*WMV;
+Lost World Survivor Mail*F12*WMV;
+Turquoise Eagle's Raiment (Level 80+)*CR;
+Turquoise Eagle's Raiment (Level 90+)*CR*F2;
+Vestment of the Sun Eagle (Level 80+)*CR*F2*WMV;
+Vestment of the Sun Eagle (Level 90+)*CR;
+
+| boots =
+Black Star Eagle's Claws (Level 90+)*CR;
+Lost World Cloud Runners*F2;
+Lost World Cursed Footclaws*F5*WMV;
+Lost World Ember Footwraps*F2*WMV;
+Lost World Fated Footwraps*F2;
+Lost World Hail Boots*F2;
+Lost World Mystic Trekkers*F2;
+Lost World Soul Boots*F3;
+Lost World Survivor Footclaws*F14*WMV;
+Sun Eagle Striders (Level 90+)*CR;
+Turquoise Eagle's Sky Tracks (Level 80+)*CR;
+Turquoise Eagle's Sky Tracks (Level 90+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Emerald Caiman's Scepter (Level 80+)*CR;
+Emerald Caiman's Scepter (Level 90+)*CR;
+Hungry Caiman's Staff (Level 90+)*CR;
+Lost World Cloud Atlatl*F4*WMV;
+Lost World Cursed Macua;
+Lost World Ember Macua*F3*WMV;
+Lost World Fated Atlatl*F3;
+Lost World Hail Spear*F2;
+Lost World Mystic Macua;
+Lost World Soul Spear*F2*WMV;
+Lost World Survivor Spear*F10*WMV;
+Staff of the Storm Caiman (Level 80+)*CR;
+Staff of the Storm Caiman (Level 90+)*CR;
+
+| decks =
+
+| items =
+Adept's Socket Wrench;
+Azteca Fern;
+Azteca Fire Pit*F2*WMV;
+Azteca Haunted Theme*F3*WMV;
+Azteca Palm Tree*F2;
+Azteca Swamp Theme;
+Azteca Water Lily*F2*WMV;
+Aztecan Bath Sink;
+Aztecan Bath Tub;
+Aztecan Bed;
+Aztecan Bookshelf*F2;
+Aztecan Brick Wall;
+Aztecan Coffee Table;
+Aztecan Couch;
+Aztecan Cracked Tile;
+Aztecan Dining Chair*F2;
+Aztecan Fireplace*F2*WMV;
+Aztecan Rug*F2;
+Aztecan Settee;
+Aztecan Sink;
+Aztecan Towel Rack;
+Aztecosaur Statue*F2;
+Aztecosaur Stela;
+Bundle of Wood*F4*WMV;
+Butterfly Shrine*F4*WMV;
+Codex Stand;
+Engraved Pillar*F2;
+Expert's Socket Wrench*F4*WMV;
+Gold Bars*F3;
+Jaguar Tent*F2;
+King Acampi Bobblehead*F3*WMV;
+King Axaya Bobblehead;
+Lava Bulb;
+Light Pillar*F2;
+Master's Socket Wrench;
+Notch Leaf*F3*WMV;
+Pink Lily*F2;
+Purple Lily*F3*WMV;
+Queen Chasca Bobblehead;
+Ritual Codex;
+Small Throne*F2*WMV;
+Stone Azteca Head;
+Stone Skeleton Key*CR;
+Tezcat Threestar Bobblehead;
+Zaylin Reedwalker Bobblehead;
+
+| cards =
+Baby Sunbird;
+Black Mantle;
+Bladestorm;
+Blaze Beetle;
+Blue Phoenix*F2*WMV;
+Cloak;
+Dragonspear;
+Feint*F2;
+Fire Beetle;
+Freeze;
+Frost Beetle;
+Gargantuan;
+Ice Armor;
+Lightning Bats;
+Monsoon Hound*F2;
+Phoenix*F2*WMV;
+Polymorph Icehorn;
+Polymorph Jaguar*F2*WMV;
+Polymorph Pteranodon;
+Rain Beetle (0 Pip)*F2;
+Spinysaur;
+Stormzilla;
+Supernova;
+Thunderbird (515-595);
+Volcanic Shield;
+
+| reagents =
+Agave Leaves*F3*WMV;
+Agave Nectar*F2*WMV;
+Amber;
+Amber Dust;
+Bronze;
+Cobalt;
+Draconium;
+Fire Blossom*F2*WMV;
+Fossil*F2;
+Mithril;
+Mote of Beauty;
+Mote of Eternity;
+Mote of Severity*F2*WMV;
+Mote of Transport*F2;
+Participation Trophy;
+Sunstone;
+Titanium;
+Tungsten;
+
+| spellements =
+Lord of Night;
+Savage Paw;
+Winter Moon;
+
+| snacks =
+Allocados;
+Apatotatoes*F2*WMV;
+Black Sun Seeds;
+Cactus Fruit;
+Golden Pizza*F3*WMV;
+Hard Boiled Beetle Eggs;
+Jar of Jelly Beans;
+Maize;
+Pyramints;
+Saursa;
+
+| jewels =
+Polished Damage Jade +21;
+Polished Damage Onyx +21;
+Super-Lock Opal;
+
+| pins =
+
+| pets =
+Babydactyl*F2*WMV;
+Death Scarab*F2;
+Firestorm Quetzal;
+Leaf Foot;
+Life Scarab;
+Pesky Beetle*CR;
+Royal Ibis*CR;
+Scarab;
+Therizinosaurus*CR;
+Velociraptor;
+
+| seeds =
+Boom Shroom*F2*WMV;
+Deadly Helephant Ears*CR*F2*WMV;
+Fiery Boom Shroom;
+Orange Bell Pepper*CR;
+Tiger Lily (Seed);
+White Tiger Lily;
+Yellow Bell Pepper*F2*WMV;
+
+| mounts =
+Ankylosaurus*PERM*CR*F2;
+Arcus Cloud*PERM*CR;
+Crokagator*PERM*CR;
+Feathered Raptor*PERM*CR;
+Gold-Wrought Eagle*PERM*CR;
+Jeweled Scarab*PERM*CR;
+Triceratops*PERM*CR;
+Tyrannosaurus Rex*PERM*CR*F2;
+
+| spells =
+
+}}

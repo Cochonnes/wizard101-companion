@@ -1,0 +1,124 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 5,975
+| crecla = Shark
+| school = Death
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Storm Shark (Challenge);
+Storm Shark (Challenge);
+Storm Shark (Challenge);
+
+| world = Wizard City
+| location = Atlantea (Challenge)
+| subloc1 = House of Lost Sailors (Challenge)
+| descrip =
+*For the Standard version of this Creature, see {{Link|Creature|Lamia}}.
+
+| speech =
+:''"A mouth-breather in my home!  What a splendid surprise.  It has been some time since I've worked up an appetite."''
+
+| cheatnotes =
+*{{Icon|Global}} At the beginning of the first Round, Lamia will cast a +35% version of {{Link|Spell|Deadzone}}.
+**Lamia will recast Deadzone if it is replaced.
+*{{Icon|Blade}} {{Icon|Aura}} ''"All arms must wither!"'' - If a Wizard casts a helpful Charm or helpful Aura, Lamia will cast {{Link|Spell|Starfall}} on the recipient of the Charm or the caster of the aura Spell.
+*{{Icon|Harmful Aura}} ''"Death's agent withstands all!"'' - If a Wizard casts a harmful Aura on Lamia, Lamia will cast Monk of Mourning (Tier 2b) on the caster of the Spell.
+*{{Icon|Heal}} ''"There is only decay"'' - If a Wizard casts a healing Spell, Lamia will cast Pathogen on the recipient of the Spell, or the caster if it was an All Allies Spell.
+*{{Icon|Round}} ''"You are slow to take in the world around us!"'' - At the beginning of the fourth Round and every fourth Round afterwards, Lamia will cast {{Link|Spell|Scarecrow}}.
+
+| spellnotes =
+*Casts a version of Deer Knight that deals 390 Death Damage to all enemies and applies a -20% Damage Charm on one target.
+
+| casts =
+Attenuate;
+Pathogen;
+Virulent Plague;
+Deathblade (+40%);
+Death Trap;
+Curse;
+Natural Attack (Lamia);
+Monk of Mourning;
+Skeletal Pirate;
+Wraith;
+
+| quests =
+Under the Sea;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic: Aquila Badges|Swole Like Sisyphus]]''' {{Icon|Swole Like Sisyphus}} Badge, the following drops will be available:
+*{{Icon|Spellement}} 1-2 Aquila Spellements will drop each time from '''any''' School
+
+| gold =
+10 - 34;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Lamia
+}}

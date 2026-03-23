@@ -1,0 +1,147 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,430
+| crecla = Wolverine
+| school = Life
+| startpips = 4
+| powerpips = Yes
+| critical =
+25 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Death;
+
+| incresist =
+35% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Jungle Wildclaw;
+
+| world = Celestia
+| location = The Floating Land
+| subloc1 = Soultearer's Cave
+| descrip =
+
+| speech =
+:''"Who summons me? Before I was only a spirit in the mind... now I am madness made in fearsome flesh!"''
+
+| spellnotes =
+
+| casts =
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Lifeclops;
+Nature's Wrath;
+Life Banshee (250);
+Seraph;
+Centaur;
+Natural Attack (Life 85x);
+
+| quests =
+Lighting the Fires;
+
+| gold =
+54 - 78;
+
+| hats =
+Corrupt Cover;
+Fuming Hat;
+Headdress of the Heart;
+Steady Helmet;
+Tinder Topper;
+
+| robes =
+Armor of Celestian Totality*F2;
+Iced Outfit;
+Reckless Raiment;
+Turbulent Tunic;
+
+| boots =
+Boots of Celestian Totality*F3;
+Corrupt Deathstriders;
+Curious Clogs;
+Frostbit Footguards*F2;
+Ice Rangers*F2;
+Rime Runners;
+Versatile Celestian Boots;
+Whispering Runners;
+
+| athames =
+Dagger of Typhoons;
+Dirk of Delusion;
+Engineer's Knife*F2;
+Kris of the Piscean Guard;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Dragonflies;
+Keen Eyes;
+Monstrous*F7*WMV;
+Storm Shark*F2*WMV;
+Strong;
+Vengeance*F5*WMV;
+
+| reagents =
+Brass;
+Nickel*F2;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Delicious Cookie*F2;
+Glowing Star Fruit;
+Glowing Taffy*F2*WMV;
+Strawberry Cupcake;
+Submarine Sandwich;
+
+| jewels =
+Determined Opal;
+Dull Critical Citrine +3;
+Dull Mana Opal +22;
+Flawed Mending Opal +2%;
+Get Sunbird Ruby;
+Mass Death Prism Onyx;
+Mass Myth Prism Peridot;
+Plain Damage Jade +15;
+Plain Damage Peridot +15*F2;
+Stormclaw Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Fish on a Vine;
+Pink Dandelion*F2*CR;
+
+| mounts =
+
+| spells =
+
+}}

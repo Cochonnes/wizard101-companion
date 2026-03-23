@@ -1,0 +1,228 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,100
+| crecla = Celestian Protector
+| crecla2 = Golem
+| school = Moon
+| masteries =
+Storm;
+Balance;
+
+| startpips = 4
+| powerpips = Yes
+| critical =
+25 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, 
+
+| incresist =
+35% Ice, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Stellar Protector (Rank 9);
+
+| world = Celestia
+| location = The Lunarium
+| lootchest = Selenor's Chest
+| descrip =
+
+| speech =
+:''"You are no Celestian. I do not know how you made it to this high place, but your orbit ends here!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+The leader of the Lunar Protectors, he's basically the main man of the moon.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Precision;
+Balanceblade;
+Elemental Blade;
+Elemental Trap;
+Donate Power;
+Sandstorm;
+Iron Curse;
+Spirit Blast;
+Spectral Blast;
+Spinning Scythe;
+Natural Attack (Storm 125x, 70%);
+
+| quests =
+Pylon Raiders;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Dragonspyre Badges|Savior of the Spiral]]''' {{Icon|Savior of the Spiral}} Badge and has not unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge, the following drops will be available:
+*6 Spellements will drop each time for their respective rank 3-7 Spells.
+
+| gold =
+72 - 85;
+
+| hats =
+Helm of Burning Ambition;
+Insightful Topper;
+Mutual Mask*F2;
+Synthesis Cover;
+Thundercloud Coif;
+Volatile Headdress*F3*WMV;
+
+| robes =
+Devoted Vestment;
+Epic Armor*F3;
+Inquisitor's Tunic*F2;
+Salgio's Tinder Cloak;
+Turbulent Tunic;
+Whimsical Surcoat;
+
+| boots =
+Boots of Catastrophe;
+Boots of Celestian Totality*F2;
+Frostbit Footguards;
+Fuming Footgear*F2*WMV;
+Inquisitor's Boots*F5*WMV;
+
+| athames =
+Dirk of Delusion;
+Dirk of the Deluge*F5*WMV;
+Shivering Shortblade;
+
+| amulets =
+Nellek's Regenerating Jewel*F2*WMV;
+Scarecrow's Sinister Vial*F4*WMV;
+
+| rings =
+Majestic Signet;
+Polar Ring*F5*WMV;
+Ring of Rare Origins;
+Ring of Rime*F2;
+Typhoon Band*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Brain Coral*F3*WMV;
+
+| cards =
+Empower*F7*WMV;
+Fortify;
+Gargantuan*F3*WMV;
+Keen Eyes*F2*WMV;
+Pacify;
+Spirit Armor;
+Storm Trap;
+Strong*F2;
+Unstoppable*F4;
+
+| reagents =
+Brass;
+Cobalt;
+Copper;
+Lead;
+Nickel*F3;
+Steel;
+Tin*F2;
+
+| spellements =
+Banshee*BR;
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops*BR;
+Cyclops Minion*BR;
+Earth Walker*BR;
+Evil Snowman*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gearhead Destroyer*BR*F2;
+Helephant*BR;
+Hydra*BR;
+Ice Wyvern*BR;
+Immolate*BR;
+Kraken*BR*F2;
+Locust Swarm*BR;
+Minotaur*BR;
+Nature's Wrath*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Scarecrow*BR;
+Seraph*BR;
+Skeletal Pirate*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Storm Shark*BR;
+Stormzilla*BR;
+Sunbird*BR;
+Triton*BR;
+Vampire*BR;
+Wraith*BR;
+
+| snacks =
+Cauliflowers*F4*WMV;
+Delicious Cookie*F2*WMV;
+Glowing Star Fruit*F2;
+Glowing Taffy*F3*WMV; 
+Spicy Drumstick;
+Strawberry Cupcake*F3*WMV;
+Submarine Sandwich;
+
+| jewels =
+Big Rally Opal;
+Cheeky Opal;
+Conviction Talent Opal;
+Disarmament Amethyst;
+Elf on Fire Ruby;
+Mass Death Prism Onyx;
+Mass Fire Prism Ruby*F2;
+Mega-Deplete Opal;
+Plain Blocking Onyx +6;
+Plain Damage Onyx +15;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2;
+Fish on a Vine;
+Maelstrom Snap Dragon*F4*WMV;
+Pink Dandelion*CR*F3*WMV;
+Silver Trumpet Vine*CR*F2;
+
+| mounts =
+
+| spells =
+
+}}

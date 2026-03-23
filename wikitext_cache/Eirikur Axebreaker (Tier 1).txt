@@ -1,0 +1,202 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 3,200
+| crecla = Wyrm
+| school = Fire
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Life, Balance;
+
+| incresist =
+20% Death;
+30% Fire;
+50% Ice;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Thundersnow Troll (Tier 1);
+Thundersnow Troll (Tier 1);
+Thundersnow Troll (Tier 1);
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 1)
+| descrip =
+
+| speech =
+:''"Ssss... I see you there, vermin. Through luck or courage, you have made it this far, Wizard. May your bones split, your guts burst, and your tower burn to ash! Come closer and let me vomit coldfire upon you!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+His title's a bit of a misnomer. You break one axe with your teeth and they never let you forget about it.
+
+| extract class =
+Wyrm;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Absorb}} Receives a Frozen Armor on self on 1st Round that absorbs 200 Damage.
+**Receives a second Frozen Armor when two of his Minions are defeated that absorbs 400 Damage.
+**Receives a third Frozen Armor when his final Minion is defeated that absorbs 800 Damage.
+***Defeating all of his Minions or Beguiling him will make him add the last two Absorbs.
+*{{Icon|Manipulation}} If a Wizard uses {{Link|Spell|Steal Ward}} on the first Absorb, he will then cheat-cast Brimstone Revenant, breaking the Frozen Armor and giving 240 not absorbed Fire Damage.
+**The Brimstone Revenant will not leave behind a Fire Trap.
+**{{Link|Spell|Pierce}} and {{Link|Spell|Shatter}} can also remove the Frozen Armor.
+
+| spellnotes =
+*Deals 250 Fire Damage for 1 Pip.
+*Deals 360 Fire Damage for 2 Pips.
+
+| casts =
+Frozen Armor;
+Smoke Screen;
+Fireblade;
+Fire Trap;
+Fuel (+35%);
+Choke;
+Fire Beetle;
+Fire Elf (55+240);
+Brimstone Revenant;
+Sunbird (345-405);
+Meteor Strike;
+Natural Attack (Eirikur Fire);
+
+| quests =
+Hall of the Bear;
+
+| gold =
+53 - 131;
+
+| hats =
+Steel Raven Helmet (Level 10+)*CR;
+
+| robes =
+
+| boots =
+Boots of Steel Wings (Level 10+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Nevermore Talon (Level 10+)*CR;
+Trickster's Lying Bow (Level 10+)*CR;
+Unkind Axe of Winter (Level 10+) *CR;
+
+| decks =
+
+| items =
+Barbaric Throne;
+Clawed Runestone;
+Heroic Runestone*F2;
+Raven Tree Statue;
+Runestone Spiral*F2;
+Sigiled Runestone;
+
+| cards =
+Colossus*F2;
+Frost Giant*F2;
+Leviathan;
+Orthrus;
+Ra;
+Rebirth;
+Regenerate;
+Satyr*F4;
+Skeletal Dragon;
+Snow Angel;
+Woolly Mammoth;
+
+| reagents =
+Acorn;
+Blood Moss*F2;
+Deep Mushroom;
+Diamond;
+Fossil;
+Frost Flower;
+Grendelweed;
+Mist Wood;
+Nightshade*F2;
+Ore;
+Pyrite*F2;
+Red Mandrake;
+Sandstone;
+Spider Silk;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Bad Honeyed Dates;
+Beetle Cream Soda;
+Black Sun Seeds;
+Bunch of Figs;
+Caramel Corn;
+Cranberry Frog;
+Drumstick;
+Fried Worms;
+Fuzzy Peach Fizz;
+Hard Boiled Beetle Eggs*F2;
+Lemon Daisy;
+Lime Peel Rickey;
+Peppercorn*F3;
+Pickled Garlic Grubs;
+Pollen Bombs;
+Salmonberry;
+Simple Sugar Pop;
+Spicy Drumstick;
+Sunflower Hearts;
+Sweet Mango*F2;
+Tiny Fish;
+Wheat Cracker;
+Wormy Apple;
+
+| jewels =
+Cracked Accurate Ruby +1%;
+Cracked Defense Citrine +4;
+Cracked Defense Sapphire +4;
+Cracked Health Opal +9;
+
+| pins =
+
+| pets =
+Arctic Serpent;
+Snow Serpent;
+
+| seeds =
+Evil Snow Peas*F2;
+Frozen Fly Trap*F2;
+Moon Flower;
+Snow Apples;
+White Desparagus*F2;
+White Laugh-O-Dil;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

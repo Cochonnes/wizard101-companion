@@ -1,0 +1,255 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 17,510
+| crecla = Monquistan
+| school = Life
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+16%;
+
+| outboost =
+101%;
+
+| incboost =
+None;
+
+| incresist =
+50% Fire, Ice, Storm, Myth, Life, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+100%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Monquistador;
+
+| world = Novus
+| location = Puerto Nuovo
+| subloc1 = Governor's Saferoom
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*The strategy is to defeat Don Manzana using only Damage Spells that cost 3 Pips or less.
+
+| speech =
+:''"Today, we topple giants and use them to fertilize a new future, a new crop of Holy Bananas!"''
+
+| cheatnotes =
+*{{Icon|Heal}} ''"Those spells are too rich for your blood"'' - If a Wizard casts a Damage Spell that costs 4 or more Pips on Don Manzana, even if it defeats him, he will cast a Moon version of Blessing that restores 100% of his max Health.
+**X Rank Damage Spells and Damage over Time effects that cost 4 or more Pips will also result in Don Manzana casting a version {{Link|Spell|Triage}} on himself, removing all overtime effects, including protected overtimes.
+*{{Icon|Damage}} ''"Ack, I can't handle such low-grade tactics!"'' - Casting a Damage Spell that costs 3 or less Pips on Don Manzana won't result in any consequences.
+**School pips do not count toward this total.
+
+| spellnotes =
+
+| casts =
+Mend;
+Unicorn;
+Satyr;
+Lifeblade (+40%);
+Leafstorm;
+Sacred Charge;
+Hungry Caterpillar;
+Grrnadier (Tier 2b);
+Lord of the Jungle (Tier 2b);
+Forest Lord;
+
+| quests =
+Bad Manzana;
+
+| dropnotes =
+*A random mix of 5 Karamelle, Lemuria or Novus Spellements and/or Tier 2b Treasure Card Spellements will drop each time.
+
+| gold =
+36 - 44;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Abstract Aeon Deck*F2*WMV;
+Abstract Masterpiece Deck;
+Crystalline Aeon Deck;
+Crystalline Masterpiece Deck*F3*WMV;
+Dreamscape Aeon Deck;
+Dreamscape Masterpiece Deck;
+Fractal Aeon Deck;
+Fractal Masterpiece Deck*F2*WMV;
+Inspired Aeon Deck;
+Inspired Masterpiece Deck*F2*WMV;
+Macabre Aeon Deck;
+Macabre Masterpiece Deck;
+Primordial Aeon Deck;
+Primordial Masterpiece Deck*F2*WMV;
+
+| items =
+
+| cards =
+Azoth;
+Banshee (Tier 2b)*F2;
+Blood Bat (Tier 2b)*F2;
+Cyclops (Tier 2b)*F2*WMV;
+Dark Sprite (Tier 2b);
+Evil Snowman (Tier 2b);
+Fire Cat (Tier 2b);
+Fire Elf (Tier 2b);
+Frost Beetle (Tier 2b)*F3*WMV;
+Ghoul (Tier 2b);
+Imp (Tier 2b);
+Leprechaun (Tier 2b);
+Lightning Bats (Tier 2b);
+Locust Swarm (Tier 2b)*F2*WMV;
+Nature's Wrath (Tier 2b);
+Scarab (Tier 2b);
+Scorpion (Tier 2b);
+Snow Serpent (Tier 2b)*F2*WMV;
+Storm Shark (Tier 2b)*F2;
+Sunbird (Tier 2b)*F3*WMV;
+Thunder Snake (Tier 2b)*F2;
+Troll (Tier 2b);
+
+| reagents =
+Bone;
+Bronze Gear*F2*WMV;
+Pixels*F5*WMV;
+Tin;
+
+| spellements =
+Barbarian's Saga*F2*WMV;
+Blast Off!;
+Dark & Stormy*F2*WMV;
+Deathly Depths;
+Freeze Ray;
+Glimpse of Infinity;
+Gravestorm*F2;
+Grim Reader*F2;
+Grrnadier;
+Improbable Gaze;
+Lord of the Jungle*F2;
+Mockenspiel*F2*WMV;
+Old One's Endgame*F3*WMV;
+S'more Machine;
+Scales of Destiny;
+Shatterhorn;
+Snack Attack*F2;
+Sound of Musicology*F2*WMV;
+Starspawn;
+Tatzlewurm Terror;
+Tree of Strife;
+
+| snacks =
+
+| jewels =
+Amazing Blocking Citrine +21;
+Amazing Blocking Jade +21;
+Amazing Blocking Peridot +22;
+Amazing Blocking Ruby +21;
+Amazing Blocking Ruby +22;
+Amazing Blocking Sapphire +22;
+Amazing Defense Amethyst +63;
+Amazing Defense Amethyst +64;
+Amazing Defense Citrine +63;
+Amazing Defense Jade +63;
+Amazing Defense Jade +64;
+Amazing Defense Onyx +63;
+Amazing Defense Onyx +64;
+Amazing Defense Opal +31;
+Amazing Defense Opal +32;
+Amazing Defense Peridot +63;
+Amazing Defense Ruby +64;
+Amazing Defense Sapphire +64;
+Flawless Archmastery Opal +15 (Square);
+Flawless Blocking Amethyst +23;
+Flawless Blocking Amethyst +24;
+Flawless Blocking Jade +23;
+Flawless Blocking Jade +24*F2*WMV;
+Flawless Blocking Onyx +23;
+Flawless Blocking Onyx +24;
+Flawless Blocking Ruby +23;
+Flawless Blocking Sapphire +23;
+Flawless Blocking Sapphire +24;
+Flawless Defense Amethyst +67;
+Flawless Defense Citrine +68*F2;
+Flawless Defense Jade +67;
+Flawless Defense Jade +68;
+Flawless Defense Onyx +67;
+Flawless Defense Onyx +68;
+Flawless Defense Opal +33;
+Flawless Defense Opal +34;
+Flawless Defense Peridot +67;
+Flawless Defense Peridot +68*F2*WMV;
+Flawless Defense Ruby +67;
+Flawless Defense Sapphire +67;
+Flawless Defense Sapphire +68;
+
+| pins =
+Balance Crushing Pin (160, Death);
+Balance Disabling Pin (150, Storm);
+Balance Disabling Pin (160, Myth);
+Balance Disabling Pin (160, Storm);
+Balance Punishing Pin (150, Storm);
+Balance Punishing Pin (160, Storm);
+Death Crushing Pin (150, Storm);
+Death Crushing Pin (160, Storm);
+Death Disabling Pin (160, Life);
+Death Disabling Pin (160, Storm);
+Death Punishing Pin (150, Storm);
+Death Punishing Pin (160, Storm);
+Fire Crushing Pin (150, Storm);
+Fire Crushing Pin (160, Storm);
+Fire Punishing Pin (150, Storm);
+Fire Punishing Pin (160, Storm);
+Ice Crushing Pin (150, Storm);
+Ice Crushing Pin (160, Storm);
+Ice Disabling Pin (150, Storm);
+Ice Disabling Pin (160, Storm);
+Ice Punishing Pin (150, Storm);
+Ice Punishing Pin (160, Life);
+Ice Punishing Pin (160, Storm);
+Life Crushing Pin (150, Storm);
+Life Crushing Pin (160, Storm);
+Life Disabling Pin (160, Storm)*F2*WMV;
+Life Punishing Pin (150, Storm);
+Myth Crushing Pin (150, Storm);
+Myth Crushing Pin (160, Storm);
+Myth Disabling Pin (150, Fire);
+Myth Disabling Pin (150, Storm);
+Myth Disabling Pin (160, Death);
+Myth Disabling Pin (160, Storm);
+Myth Punishing Pin (150, Storm);
+Storm Crushing Pin (150, Life);
+Storm Disabling Pin (150, Life);
+Storm Disabling Pin (160, Life);
+Storm Punishing Pin (150, Life);
+Storm Punishing Pin (160, Life);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

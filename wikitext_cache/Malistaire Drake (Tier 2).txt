@@ -1,0 +1,114 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 14
+| heal = 10,640
+| crecla = Wizard
+| school = Death
+| school2 = Fire
+| shadowslots = 1
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| outpierce =
+20%;
+
+| outboost =
+110%;
+
+| incboost =
+None;
+
+| incresist =
+40% Any;
+
+| outhealing =
+
+| inchealing =
+45%;
+
+| stunable = 
+| beguilable = 
+| minions =
+Sylvia Drake (Tier 2);
+
+| world = Housing Instance
+| location = Malistaire Rematch
+| subloc1 = Malistaire Challenge (Tier 2)
+| descrip =
+For the purpose of drops, Malistaire Drake (Tier 2) is considered a Boss.  All drops are recorded on this page.
+
+| cheatnotes =
+*Randomly the Turns will switch.
+
+'''Malistaire Drake:'''
+*''"Late? Have a taste of the Dragon Titan's power!"'' - If a Wizard is late, he'll interrupt with '''Fire Dragon'''.
+*''"As long as Sylvia and I are together- Nothing can stop us!"'' - When Malistaire is together with Sylvia at the beginning of every Round, a '''-100%''' Shadow version of {{Link|Spell|Virulent Plague}} is cast on all Wizards.
+*''"Charms? I'll take those"'' - If a Wizard casts a Charm, Malistaire will cast {{Link|Spell|Jinn's Larceny}}.
+**This cheat doesn't trigger when Malistaire doesn't have a Minion.
+*''"Can you fathom the pain of our parting?"'' - When Malistaire is alone without Sylvia, he will remove 25% max Health from himself and use an AoE version of {{Link|Spell|Mana Burn (Shadow)}} that also removes 1 Shadow Pip.
+*''"Death cannot part us for long!"'' - Malistaire will cast a Shadow spell to summon {{Link|Creature|Sylvia Drake (Tier 3)}} and use {{Link|Spell|Choke}} on all Wizards.
+
+'''Sylvia Drake:'''
+*''"I cannot bear to see my love in pain!"'' - If a Damage over Time is cast, Sylvia will cast a Shadow version of Mass Triage.
+*''"My love...I can't hold on...any longer"'' - After a few Rounds, Sylvia will cast a version of Dark Tribute that removes 100% of her max Health and provides a '''+100%''' Balanceblade on Malistaire Drake.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Death Damage per Pip.
+
+| casts =
+Amplify (+25%);
+Deathblade (+40%);
+Dark Tribute;
+Fireblade;
+Feyblade (Fire);
+Poison;
+Call of Khrulhu;
+Deer Knight (Tier 3a);
+Winged Sorrow;
+Scald;
+Heck Hound;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Malistaire Drake (Rematch)
+}}

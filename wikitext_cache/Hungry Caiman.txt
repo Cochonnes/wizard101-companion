@@ -1,0 +1,231 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 16,040
+| crecla = Caiman
+| school = Life
+| masteries =
+Fire;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+61 Any;
+
+| criticalblock =
+89 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Tehuano Spirit;
+
+| world = Azteca
+| location = Cloudburst Forest
+| subloc1 = Hungry Caiman's Cave
+| descrip =
+
+| speech =
+:''"RAAAAAAAAAAAAAWR. Welcome to my jaws!"''
+
+| spellnotes =
+
+| casts =
+Amplify (+25%);
+Vengeance;
+Guiding Light;
+Brilliant Light (+40%);
+Rebirth;
+Lifeblade;
+Luminous Weaver;
+Natural Attack (Life 175-350-525, 85%);
+Centaur (610-670);
+Forest Lord (715-775);
+Spinysaur;
+Fire Beetle;
+Efreet;
+
+| quests =
+The Smell of Prickly Pear;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge and has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge, the following drops will be available:
+*6 Spellements will drop each time from '''any''' School for their respective rank 6-10 Spells.
+
+| gold =
+115 - 144;
+
+| hats =
+Dawn Hour Mantle;
+Elite Jura Guard Helm*F3*WMV;
+Five Fangs of Fury Headdress*F4*WMV;
+Indigo Wing Crown*F2*WMV;
+Thirteen Death Mask;
+Tree of Secrets Chac Mask;
+Twisted Fang Mask*F2;
+
+| robes =
+Coatl Lord's Robes;
+Song of the Lizard Coat;
+Vestment of the Calavera;
+
+| boots =
+
+| athames =
+Stone of the Green Skycarrier;
+
+| amulets =
+House of Plague Greenstone*F2;
+Pitch Black Lake Plague Shell*F2;
+
+| rings =
+Acampi Reedfist's Lost Seal;
+Bleeding Sun Warrior's Loop;
+Falling Star's End Time Band*F3*WMV;
+Mother Moon's Count Ring*F2;
+
+| wands =
+Eclipse Spear of Azteca*F2;
+Lance of Night Fire*F2*WMV;
+Tears of Night Lance;
+Winter Lord's Obsidian Shard*F2;
+
+| decks =
+Codex of the Lost Fire;
+Deck of the Jaguar Spirit*F2*WMV;
+Storm Sun Gallery;
+Winter's Pyramid Deck*F4*WMV;
+
+| items =
+Azteca Apocalypse Theme;
+Azteca Main Theme*F2*WMV;
+Hollow Log;
+Star Clothesline*F2;
+Starburst Frond;
+
+| cards =
+Basilisk;
+Colossal;
+Dr. Von's Monster;
+Extraordinary;
+Frost Giant;
+Potent Trap;
+Primordial*F2;
+Rain of Fire*F2*WMV;
+Sharpened Blade*F2;
+Sirens;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F5*WMV;
+Black Pearl*F2*WMV;
+Blood Moss*F2*WMV;
+Bone*F6*WMV;
+Brass;
+Bronze*F2;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F4*WMV;
+Fire Blossom*F2*WMV;
+Fossil*F2*WMV;
+Golden Pearl;
+Lava Lily*F3*WMV;
+Mist Wood*F2;
+Nightshade*F2*WMV;
+Ore*F2*WMV;
+Red Mandrake*F3;
+Steel;
+Stone Block*F3;
+Sunstone*F3*WMV;
+Turquoise*F4*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Centaur*BR;
+Chimera*BR;
+Colossus*BR*F2;
+Dr. Von's Monster*BR*F2;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+Helephant*BR;
+Hydra*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR*F2;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR*F2;
+Rebirth*BR;
+Sabertooth*BR*F2;
+Scarecrow*BR*F3;
+Sirens*BR*F2;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR*F2;
+Stone Colossus*BR*F2;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR*F2;
+Triton*BR;
+Woolly Mammoth*BR*F2;
+Wraith*BR;
+
+| snacks =
+Apatotatoes;
+Avocado Milkshake;
+Buttered Bread;
+Dr. Jalapeno;
+Fern Jelly*F3;
+Guava;
+Maize;
+Marzipan Maize;
+Pterotomatoes*F2*WMV;
+Quetzal Pretzel;
+Rex Tea*F3*WMV;
+Stego Waffles*F2;
+Zocalo Wings;
+
+| jewels =
+Bombardier Opal;
+Clear Accurate Amethyst +9%;
+Draw Health Sapphire;
+Empowerment Talent Opal;
+Feinting Spell Onyx;
+Sprite Guardian Jade;
+Troll Minion Peridot;
+Unstoppable Talent Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+Fiery Boom Shroom;
+Pink Dandelion*CR;
+Red Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

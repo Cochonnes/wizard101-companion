@@ -1,0 +1,184 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 14,560
+| crecla = Calaca
+| school = Myth
+| startpips = 5
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Smoking Mirror Zombie;
+Smoking Mirror Zombie;
+
+| world = Azteca
+| location = Cenote
+| subloc1 = Glimmering Chamber
+| descrip =
+*Wanadi Black Sky must be defeated in order to unlock the {{Link|NPC|Star School Trainer}} in Azteca.
+*This fight must be done solo and cannot be repeated.
+
+| speech =
+:''"The dreamless death-sleep has ended. You will now witness... the fall of nightmare."''
+
+'''Monstrology Description:'''
+:Do you want one of those, or Wanadi?
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Mythblade;
+Myth Trap;
+Time of Legend;
+Yellow Troll;
+Natural Attack (Myth 145-290-435);
+Humongofrog;
+Myth Imp;
+Minotaur;
+Earthquake;
+Orthrus;
+Medusa;
+Basilisk;
+
+| quests =
+Third Star on the Left;
+
+| gold =
+150 - 184;
+
+| hats =
+Dawn Hour Mantle;
+Elite Jura Guard Helm;
+Five Fangs of Fury Headdress*F2;
+Indigo Wing Crown;
+Mask of the Calavera;
+Sweet Kiss of Death Mask;
+Thirteen Death Mask;
+Tree of Secrets Chac Mask*F3*WMV;
+Twisted Fang Mask;
+Tyrant of Beasts Mask;
+
+| robes =
+
+| boots =
+Black Tears of Night Wraps;
+Elite Jura Guard Stalkers;
+Fiery Chac's Great Boots;
+Five Fangs of Fury Boots;
+Heart of Sky Boots;
+Ice Age Tyrant's Walkers*F2;
+Indigo Wing Striders*F2*WMV;
+Tree of Secrets Chac Runners;
+Twisted Fang Boots*F2;
+
+| athames =
+Cut Rock Dagger;
+Sky Flower Sliver;
+Smoking Frog Cutter;
+Snake Ink Fang*F2;
+
+| amulets =
+Laughing Chac's Talisman;
+Sun's Death Smiling Pendant*F2*WMV;
+
+| rings =
+
+| wands =
+Red Sky Snake Banner*F2;
+Staff of the Storm Quetzals;
+
+| decks =
+Lords of Night Pyramid Deck*F2;
+
+| items =
+Azteca Apocalypse Theme*F2;
+Azteca Main Theme;
+Broadhead;
+Hollow Log;
+Quetzal Feathers;
+
+| cards =
+Berserk;
+Colossal;
+Efreet;
+Empowerment;
+Fortify;
+Frost Giant;
+Infallible;
+Scarecrow;
+
+| reagents =
+Black Lotus*F2*WMV;
+Black Pearl;
+Blood Moss;
+Bone*F2*WMV;
+Bronze*F2;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F5*WMV;
+Fire Blossom*F4*WMV;
+Fossil;
+Lava Lily*F3*WMV;
+Mist Wood*F3;
+Nightshade;
+Ore;
+Red Mandrake*F3*WMV;
+Stone Block*F4*WMV;
+Sunstone*F2*WMV;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Cactus Fruit;
+Caramel Apple;
+Chapulines*F3;
+Fern Jelly;
+Glowing Dragon Fruit*F2;
+Maize;
+Pyramints*F2;
+Roasted Chickpeas;
+Tenochti-Flan*F2;
+Yucca*F2*WMV;
+
+| jewels =
+Clear Defense Onyx +38;
+Death-Boon Onyx;
+Halt Leader Opal;
+Ice-Eye Sapphire;
+Life-Proof Jade;
+
+| pins =
+
+| pets =
+
+| seeds =
+Red Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

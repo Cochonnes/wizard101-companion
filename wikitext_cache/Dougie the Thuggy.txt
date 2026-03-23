@@ -1,0 +1,111 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 13,240
+| crecla = Thuggie
+| school = Myth
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+26%;
+
+| outboost =
+149%;
+
+| incboost =
+None;
+
+| incresist =
+24% Fire, Life;
+44% Storm, Myth, Balance;
+64% Ice, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Feral Kit-10;
+
+| world = Lemuria
+| location = Heap
+| subloc1 = Thug, Life & Beyond
+| descrip =
+
+| speech =
+:'''Dougie the Thuggy:''' ''"You know, I'm not technically an ape."''
+
+:'''{{Link|NPC|Dog Tracy}}:''' ''"You're not technically a pinata either, but I'll still bop you 'til you spill the goods."''
+
+:'''{{Link|NPC|Shadoe}}:''' ''"Have you even tried the mindfulness techniques I recommended?"''
+
+:'''Dog Tracy:''' ''"You betcha. Told this palooka I had a mind full of blammo and a very short fuse."''
+
+:'''Shadoe:''' ''*Sigh*''
+
+:'''Dougie the Thuggy:''' ''"That's it, I'm bored. Destroy them, my Minions of the Future!"''
+
+| spellnotes =
+
+| casts =
+Reliquary (6 Rounds);
+Mythblade;
+Mass Myth Trap;
+Shatter;
+Humongofrog (Tier 3a);
+Snake Charmer;
+Mystic Colossus;
+Witch's House Call (No Minion);
+Orthrus (Tier 3a);
+
+| quests =
+The Ghastly Conspiracy;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,171 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,540
+| crecla = Golem
+| school = Myth
+| startpips = 4
+| powerpips = Yes
+| critical =
+25 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost = 
+35% Storm;
+
+| incresist =
+35% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Steam Wincher;
+
+| world = Celestia
+| location = Science Center
+| subloc1 = Crystal Tower (Celestia)
+| lootchest = Praxus' Chest
+| descrip =
+*Two additional {{Link|Creature|Steam Valet}} Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Detection: Incoming threat!"''
+:''"Assessment: Highly dangerous!"''
+:''"Goal: Destroy!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+Upon given independent thought, his first instinct was ""Destroy."" That says something about something alright.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Myth Trap;
+Gobbler;
+Humongofrog;
+Humongofrog (400-500);
+Orthrus;
+Natural Attack (Myth 100x, 80%);
+
+| quests =
+Tower of Destruction;
+
+| gold =
+65 - 79;
+
+| hats =
+Drenched Headdress;
+Secret Mask;
+Tangleroot's Spirit Mask*F2;
+Thunderstruck Hat*F3;
+Vile Hat*F2;
+
+| robes =
+Longcoat of Long Life;
+Mystical Robe*F2*WMV;
+Rising Tide Raiment;
+Smock of the Storm Star*F2;
+Tunic of Tolerance;
+
+| boots =
+Celestian Tempest Trekkers;
+Fire-Forged Footguards*F2*WMV;
+Rising Tide Trekkers;
+Synthesis Striders*F2;
+
+| athames =
+Frozen Claw*F2;
+Living Thorn*F3*WMV;
+Longevity Twin Blades;
+
+| amulets =
+Protective Pendant*F2;
+
+| rings =
+Band of Bliss*F5*WMV;
+Circle of Squalls;
+Ring of Regret*F2;
+Swirling Signet;
+
+| wands =
+
+| decks =
+
+| items =
+Diving Tanks;
+
+| cards =
+Cyclops;
+Dragonflies;
+Ice Wyvern;
+Monstrous*F4*WMV;
+Precision;
+Sandstorm;
+Sniper;
+Vengeance*F10*WMV;
+
+| reagents =
+Cobalt*F4;
+Copper;
+Nickel*F3;
+Tin;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F3;
+Delicious Cookie*F2*WMV;
+Glowing Star Fruit;
+Glowing Taffy;
+Spicy Drumstick;
+Strawberry Cupcake;
+Submarine Sandwich*F2;
+
+| jewels =
+Dull Resilient Opal +3%;
+Entangle Jade;
+Monstrous Opal;
+Plain Defense Peridot +29*F2;
+Plain Defense Sapphire +29;
+Unbalance Citrine;
+Vaporize Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F4*WMV;
+Silver Trumpet Vine*CR;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,501 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 9,200
+| crecla = Hamster
+| school = Storm
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+29%;
+
+| outboost =
+125%;
+
+| incboost =
+5% Myth;
+
+| incresist =
+70% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Hazmat Hamster;
+
+| world = Karamelle
+| location = Candy Corn Farm
+| subloc1 = Farmer's House Branch
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Vengeance (6 Rounds);
+Quicken;
+Lightning Strike;
+Stormblade;
+Storm Trap;
+Enfeeble;
+Catch of the Day;
+Hammer of Thor;
+Iron Sultan;
+Sound of Musicology (Tier 3a);
+Glowbug Squall;
+Rusalka's Wrath;
+Storm Lord;
+Leviathan;
+King Artorius (Storm);
+Tempest;
+
+| quests =
+Something Wonky This Way Comes;
+
+| gold =
+171 - 311;
+
+| hats =
+Contractor Hazmat Hood;
+Executive Survival Hood;
+Producer's Insulated Hood;
+Producer's Protective Hood;
+
+| robes =
+Consultant Thermal Suit;
+Contractor Pressure Suit;
+Director Pressure Suit;
+Director Protective Suit;
+Executive Biohazard Suit;
+Executive Insulated Suit;
+Executive Pressure Suit;
+Executive Protective Suit;
+Producer's Survival Suit;
+Specialist Hazmat Suit;
+Specialist Pressure Suit;
+Specialist Survival Suit;
+
+| boots =
+Consultant Survival Boots;
+Contractor Biohazard Boots;
+Contractor Cryo Boots;
+Director Hazmat Boots;
+Executive Cryo Boots;
+Executive Hazmat Boots;
+Executive Survival Boots;
+Producer's Insulated Boots;
+Specialist Pressure Boots;
+Specialist Thermal Boots;
+
+| athames =
+Consultant Biohazard Knife;
+Consultant Pressure Knife;
+Consultant Protective Knife;
+Consultant Survival Knife;
+Consultant Thermal Knife;
+Contractor Cryo Knife;
+Director Cryo Knife;
+Director Pressure Knife;
+Director Thermal Knife;
+Executive Hazmat Knife;
+Executive Survival Knife;
+Producer's Biohazard Knife;
+Producer's Insulated Knife;
+Producer's Protective Knife;
+
+| amulets =
+Contractor Cryo Rope;
+Contractor Thermal Rope;
+Director Pressure Rope;
+Director Thermal Rope;
+Executive Cryo Rope;
+Producer's Cryo Rope;
+Producer's Insulated Rope;
+Producer's Survival Rope;
+Producer's Thermal Rope;
+Specialist Insulated Rope;
+
+| rings =
+Consultant Biohazard Ring;
+Consultant Insulated Ring;
+Consultant Pressure Ring;
+Contractor Insulated Ring;
+Contractor Protective Ring;
+Director Biohazard Ring;
+Executive Thermal Ring;
+Producer's Biohazard Ring;
+Producer's Insulated Ring;
+Specialist Hazmat Ring;
+Specialist Pressure Ring;
+Specialist Protective Ring;
+
+| wands =
+Consultant Insulated Meter;
+Consultant Pressure Meter;
+Contractor Protective Meter;
+Contractor Survival Meter;
+Director Insulated Meter;
+Director Pressure Meter;
+Director Survival Meter;
+Director Thermal Meter;
+Executive Pressure Meter;
+
+| decks =
+Consultant Pressure Box;
+Contractor Thermal Box;
+Director Hazmat Box;
+Executive Cryo Box;
+Executive Pressure Box;
+Executive Thermal Box;
+Producer's Pressure Box;
+Producer's Survival Box;
+Specialist Pressure Box;
+
+| items =
+Gum Drop Container*F2*WMV;
+Gumdrop Forest Poster;
+Gumdrop Tree;
+Karamelle Barrel;
+Karamelle Cavity Combat Theme;
+Karamelle City Combat Theme;
+Karamelle Crate;
+Karamelle Forest Combat Theme;
+Karamelle Forest Theme;
+Karamelle Jingle Theme;
+Karamelle Neglected Com Theme;
+Karamelle Neglected Theme;
+Karamelle Rural Combat Theme;
+Karamelle Rural Theme;
+Karamelle Worker Combat Theme;
+Karamelle Worker Theme;
+Licorice Tree;
+Oil Drum*F2;
+Rock Candy Mountains Poster;
+Trash Pile (Outdoor);
+Von Trap Estate Poster;
+
+| cards =
+Baby Sunbird;
+Balefrost;
+Berserk;
+Brilliant Light;
+Combustion;
+Darkwind;
+Doom and Gloom;
+Dragonflies;
+Dream Shield;
+Elemental Blade;
+Elemental Defuse;
+Elemental Shield;
+Elemental Spear;
+Elemental Trap;
+Ether Shield;
+Flood;
+Flute Symphony;
+Frostbite;
+Galvanic Field;
+Link;
+Mass Death Prism;
+Mass Fire Prism;
+Mass Life Prism;
+Mass Myth Prism;
+Massive Pest Zapper;
+Miniature Bloodbats;
+Pest Zapper;
+Power Play;
+Putrid Bug Spray;
+Sanctuary;
+Sirens;
+Storm Shield*F2;
+Supreme Sunburst;
+Uncanny Magic;
+Zounds...Bees!;
+
+| reagents =
+Aether*F2;
+Agave Leaves;
+Agave Nectar;
+Amber;
+Amber Dust;
+Astral Shard;
+Aquamarine*F2;
+Braided Vine;
+Brass*F3*WMV;
+Bronze Gear;
+Cobalt*F3*WMV;
+Draconium;
+Ectoplasm*F3*WMV;
+Fire Blossom;
+Golden Pearl*F2*WMV;
+Karamelle Chunk;
+Merle's Whisker;
+Mithril;
+Nickel*F2*WMV;
+Orichalcum;
+Scales*F2*WMV;
+Silver*F3*WMV;
+Spider Silk;
+Stardust;
+Steel;
+Sunstone;
+Tin;
+Titanium;
+Toffee Bean*F3*WMV;
+Tungsten;
+Turmeric;
+Turquoise;
+Vine;
+
+| spellements =
+Grrnadier;
+S'more Machine;
+Shatterhorn;
+Snack Attack;
+Tatzlewurm Terror;
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate;
+BBQ Drumstick;
+Beast Wellington;
+Bread Fruit Fruit;
+Cherry Pie;
+Crackle Jacks Cereal;
+Decimatoes*F2;
+Discord Grape Jelly;
+Dragon Fruit;
+Drumstick;
+Eye Candy;
+Fern Jelly;
+Glowing Star Fruit;
+Glowing Taffy;
+Hot Cross Buns;
+Krakamari;
+Pizza*F2*WMV;
+Rock and Roll Candy*F2*WMV;
+Roly Poly Fishheads;
+Satyr Chow;
+Ships 'n' Queso;
+Sprinkle Cupcake;
+Squash;
+Tasty Rainbow;
+Veggie Juice*F2;
+Waterworks Wonton;
+Wheat Cracker;
+
+| jewels =
+Adapt Opal;
+Flawless Opal;
+Shiny Accurate Amethyst +12%;
+Shiny Accurate Onyx +12%;
+Shiny Accurate Opal +6%;
+Shiny Accurate Peridot +12%;
+Shiny Accurate Ruby +12%;
+Shiny Accurate Sapphire +12%;
+Shiny Blocking Amethyst +15;
+Shiny Blocking Amethyst +16;
+Shiny Blocking Hematite +15;
+Shiny Blocking Jade +15;
+Shiny Blocking Jade +16;
+Shiny Blocking Onyx +15;
+Shiny Blocking Onyx +16;
+Shiny Blocking Peridot +16;
+Shiny Blocking Ruby +15;
+Shiny Blocking Ruby +16;
+Shiny Blocking Sapphire +16;
+Shiny Critical Amethyst +15;
+Shiny Critical Citrine +16;
+Shiny Critical Hematite +16;
+Shiny Critical Jade +15;
+Shiny Critical Onyx +15;
+Shiny Critical Onyx +16;
+Shiny Critical Opal +8;
+Shiny Critical Peridot +15;
+Shiny Critical Peridot +16;
+Shiny Critical Sapphire +16;
+Shiny Damage Amethyst +26;
+Shiny Damage Hematite +52;
+Shiny Damage Jade +25;
+Shiny Damage Peridot +25;
+Shiny Damage Peridot +26;
+Shiny Damage Ruby +25;
+Shiny Damage Ruby +26;
+Shiny Damage Sapphire +25;
+Shiny Damage Sapphire +26;
+Shiny Defense Amethyst +49;
+Shiny Defense Amethyst +51;
+Shiny Defense Amethyst +52;
+Shiny Defense Citrine +50;
+Shiny Defense Citrine +52;
+Shiny Defense Hematite +49;
+Shiny Defense Hematite +51;
+Shiny Defense Hematite +52;
+Shiny Defense Jade +50;
+Shiny Defense Jade +51;
+Shiny Defense Jade +52;
+Shiny Defense Onyx +49;
+Shiny Defense Onyx +50*F2;
+Shiny Defense Onyx +52;
+Shiny Defense Opal +26;
+Shiny Defense Peridot +49;
+Shiny Defense Peridot +50;
+Shiny Defense Ruby +50;
+Shiny Defense Ruby +52;
+Shiny Defense Sapphire +49;
+Shiny Defense Sapphire +50;
+Shiny Defense Sapphire +51;
+Shiny Defense Sapphire +52;
+Shiny Healing Opal +6%;
+Shiny Health Opal +106;
+Shiny Health Opal +108;
+Shiny Health Opal +109*F2*WMV;
+Shiny Health Opal +110;
+Shiny Health Opal +111;
+Shiny Health Opal +112;
+Shiny Health Opal +113;
+Shiny Health Opal +114;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47;
+Shiny Mending Opal +6%;
+Sparkling Blocking Amethyst +17;
+Sparkling Blocking Citrine +17;
+Sparkling Blocking Jade +17;
+Sparkling Blocking Onyx +17;
+Sparkling Blocking Ruby +17;
+Sparkling Blocking Sapphire +17;
+Sparkling Critical Amethyst +17;
+Sparkling Critical Citrine +17;
+Sparkling Critical Hematite +17;
+Sparkling Critical Onyx +17;
+Sparkling Critical Peridot +17;
+Sparkling Critical Ruby +17;
+Sparkling Critical Sapphire +17;
+Sparkling Damage Amethyst +27;
+Sparkling Damage Citrine +27;
+Sparkling Damage Hematite +54;
+Sparkling Damage Jade +27;
+Sparkling Damage Onyx +27;
+Sparkling Damage Peridot +27;
+Sparkling Damage Ruby +27;
+Sparkling Damage Sapphire +27;
+Sparkling Defense Amethyst +53;
+Sparkling Defense Amethyst +54;
+Sparkling Defense Citrine +54;
+Sparkling Defense Hematite +53;
+Sparkling Defense Hematite +54;
+Sparkling Defense Jade +53;
+Sparkling Defense Jade +54;
+Sparkling Defense Onyx +54;
+Sparkling Defense Opal +27;
+Sparkling Defense Peridot +54;
+Sparkling Defense Ruby +53;
+Sparkling Defense Ruby +54;
+Sparkling Defense Sapphire +53;
+Sparkling Defense Sapphire +54;
+Sparkling Health Opal +116;
+Sparkling Health Opal +117;
+Sparkling Health Opal +118;
+Sparkling Health Opal +119;
+Sparkling Mana Opal +49;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak;
+Angora Bunny Ears;
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper;
+Blue Huckleberries*F2;
+Boiled Peanuts*F2;
+Boom Shroom;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Clockwork Flower;
+Cornbread Fruit Bush;
+Dandelion;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Face Palm;
+Fickle Pickle;
+Fiery Boom Shroom;
+Fish on a Vine;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Goose Tree;
+Grapes of Wrath*CR*F2*WMV;
+Helephant Ears;
+Honey Bee Plant;
+Honey Sickle;
+Ivy League*CR;
+Key Limes*CR;
+King Parsley*CR;
+Laugh-O-Dil;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Missile Toe;
+Moon Flower;
+Ninja Fig*CR;
+Orange Bell Pepper*CR;
+Orange Dandelion;
+Pink Huckleberries*F2;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Red Grapes of Wrath;
+Red Huckleberries;
+Rye Bread Fruit Bush;
+Saw Palmetto*F2;
+Silver Trumpet Vine*CR;
+Snap Dragon;
+Snow Apples;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Sunion*CR;
+Sword Fern*CR;
+Tiger Lily (Seed);
+Trumpet Vine;
+Ultra Boom Shroom;
+Ultra Dandelion;
+Ultra Fly Trap;
+Ultra Helephant Ears;
+Ultra King Parsley;
+Ultra Ninja Fig;
+Ultra Snap Dragon;
+Ultra Snow Apples;
+Ultra Tiger Lily;
+Venus Fly Trap;
+White Desparagus;
+White Laugh-O-Dil;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

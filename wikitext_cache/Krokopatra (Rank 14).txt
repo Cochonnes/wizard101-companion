@@ -1,0 +1,262 @@
+{{Stub|which version of the '''''Krokopatra''''' ''Treasure Card'' is dropped. Also need verification if two versions of '''{{Link|TreasureCard|Krokenkahmen}}''' are dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 24,000
+| crecla = Krokotopian
+| school = Storm
+| cheats = Yes
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| randomminions =
+Queen's Thrall (Life) (Rank 14);
+Queen's Thrall (Death) (Rank 14);
+Queen's Thrall (Storm) (Rank 14);
+
+| totalminion = 3
+| world = Housing Instance
+| location = Krokopatra Exalted Challenge
+| descrip =
+
+| speech =
+:''"You should have never returned here, Little Fang. I've spent every minute since we last met thinking about how rude you were to me. Turns out I wasn't the only one you upset. They're glad you came back too. The time has finally come for you to pay for your bad manners!"''
+
+| cheatnotes =
+{{Icon|Storm}} '''Krokopatra'''
+*{{Icon|Minion}} ''"More fodder! Protect your Queen!"'' If a Minion is defeated, Krokopatra will summon another random School Minion which will become active after two Rounds.
+*{{Icon|Minion}} ''"Time to ride the Lightning!"'' - Various triggers can occur: If no Minions are present, if she has been defeated and healed, if some Minions are defeated and healed, Krokopatra will shout this phrase and use her turn to cast Insane Bolt. '''Needs confirmation on triggers'''.
+*{{Icon|Manipulation}} ''"Why don't we direct all that potential?"'' Krokopatra will randomly cast Beguile on the Wizard with the most Blades at the beginning of the Round.
+*{{Icon|Trap}} ''"Loose the winds of destruction!"'' - Krokopatra will interupt-cast Windstorm (+25%).
+*{{Icon|Blade}} ''"I'm crackling with rage!"'' - Krokopatra will interupt-cast a zero-Pip Supercharge for the amount of Pips she has. '''Needs confirmation on trigger'''.
+*{{Icon|Global}} ''"Beware! There's a storm brewing!"'' Krokopatra will cheat-cast {{Link|Spell|Astraphobia}}.
+
+{{Icon|Death}} '''Queen's Thrall (Death) (Rank 14)'''
+*{{Icon|Charm}} ''"Anything for my Queen"'' If Krokopatra receives a [[:Category:Charm Spells|Charm]], this Minion will cheat-cast {{Link|Spell|Dark Tribute}} on her.
+*{{Icon|Manipulation}} ''"No one threatens my queen!"'' - The Wizard with the most Blades may randomly get a {{Link|Spell|Bad Juju}} by this Minion at the beginning of the Round.
+
+{{Icon|Life}} '''Queen's Thrall (Life) (Rank 14)'''
+*{{Icon|Damage over Time}} '''We must protect ourselves to protect the Queen!"'' If a DoT Spell is cast, this Minion will cheat-cast {{Link|Spell|Mass Triage}}.
+*{{Icon|Damage}} ''"Our Queen needs her army!"'' - If Krokopatra or a Minion is attacked, this Minion will cheat-cast {{Link|Spell|Unicorn}}.
+
+{{Icon|Storm}} '''Queen's Thrall (Storm) (Rank 14)'''
+*{{Icon|Damage}} ''"Protect the Queen!"'' - If Krokopatra is attacked, this Minion will cheat-cast {{Link|Spell|Healing Current}}.
+*{{Icon|Dispel}} ''"Stand Strong for the Queen!"'' - If a Dispel is placed on Krokopatra or a Minion, this Minion will cheat-cast {{Link|Spell|Cleanse Charm}}.
+
+| spellnotes =
+
+| casts =
+Galvanic Field;
+Vengeance;
+Stormspear;
+Stormblade;
+Supercharge;
+Windstorm (+25%);
+Empower;
+Beguile;
+Storm Beetle (125);
+Insane Bolt;
+Glowbug Squall;
+Storm Dragon;
+Leviathan;
+Sirens;
+Natural Attack (Krokopatra);
+
+| quests =
+
+| gold =
+518 - 744;
+
+| hats =
+Krokopatra Blizzard Fez;
+Krokopatra Inferno Fez;
+Krokopatra Justice Fez;
+Krokopatra Maelstrom Fez;
+Krokopatra Oblivion Fez*F4*WMV;
+Krokopatra Royal Fez*F3*WMV;
+Krokopatra Vigor Fez*F4*WMV;
+Krokopatra Wonder Fez;
+The Mists Dun Dara*CR*F2;
+
+| robes =
+Krokopatra Blizzard Cloak;
+Krokopatra Inferno Cloak;
+Krokopatra Justice Cloak;
+Krokopatra Maelstrom Cloak;
+Krokopatra Oblivion Cloak*F2*WMV;
+Krokopatra Royal Cloak*F3;
+Krokopatra Vigor Cloak*F5;
+Krokopatra Wonder Cloak;
+
+| boots =
+Krokopatra Blizzard Steppers;
+Krokopatra Inferno Steppers;
+Krokopatra Justice Steppers;
+Krokopatra Maelstrom Steppers;
+Krokopatra Oblivion Steppers;
+Krokopatra Royal Steppers*F4;
+Krokopatra Vigor Steppers*F4;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Krokopatra Blizzard Staff;
+Krokopatra Inferno Staff;
+Krokopatra Justice Staff;
+Krokopatra Maelstrom Staff;
+Krokopatra Oblivion Staff*F2*WMV;
+Krokopatra Royal Staff*F3*WMV;
+Krokopatra Vigor Staff*F2;
+
+| decks =
+
+| items =
+Artisan's Socket Wrench*F4*WMV;
+Krokotopian Bed*F2*WMV;
+Krokotopian Bed Table;
+Krokotopian Chair*F4;
+Krokotopian Dining Chair*F4;
+Master's Socket Wrench*F3*WMV;
+
+| cards =
+Abominable Weaver*F4*WMV;
+Accurate*F3*WMV;
+Ash Bats*F3;
+Blaze Beetle*F2;
+Brimstone Revenant*F2*WMV;
+Call of Khrulhu*F5*WMV;
+Catalan;
+Chimera*F2;
+Deer Knight*F2*WMV;
+Dragonspear*F2;
+Dryad*F2;
+Fang Guardian;
+Fire from Above*F3*WMV;
+Fire Serpent*F2;
+Gaze of Fate*F4*WMV;
+Glowbug Squall;
+Goat Monk;
+Handsome Fomori*F2;
+Hungry Caterpillar*F2;
+Keeper of the Flame*F2*WMV;
+Krokenkahmen (530)*F3*WMV;
+Krokhotep (440)*F2;
+Krokhotep (550);
+Krokomummy*F2;
+Krokopatra (Attack 660);
+Krokotillian*F2;
+Locust Swarm;
+Lord of Night*F5;
+Luminous Weaver*F2;
+Mystic Colossus;
+Ninja Pigs*F4;
+Samoorai*F3*WMV;
+Savage Paw;
+Winter Moon*F3*WMV;
+
+| reagents =
+Acorn;
+Agave Leaves;
+Agave Nectar*F2;
+Ancient Scroll;
+Astral Shard;
+Black Lotus;
+Black Pearl;
+Bone;
+Comet Tail*F3;
+Deep Mushroom;
+Diamond;
+Ectoplasm*F2;
+Fire Blossom*F3;
+Fish Fin;
+Golden Pearl;
+Kelp;
+Mist Wood*F2*WMV;
+Mote of Beauty*F2*WMV;
+Mote of Eternity*F2;
+Mote of Transport*F4;
+Mote of Wisdom;
+Ore;
+Pearl;
+Red Mandrake;
+Sandstone*F3;
+Stardust*F2;
+Stone Block;
+Water Lily*F2;
+
+| spellements =
+
+| snacks =
+Alligator Pear;
+Baby Carrot;
+Captain Canteloupe;
+Cherry Tomato;
+Dead Beet Risotto*F2;
+Evil Magma Soup*F2;
+Fancy Yogurt*F2*WMV;
+Flowering Pineapple;
+Golden Wheat Bread;
+Granny Snow Apple;
+Honey Bombs*F5;
+King Parsley Soup*F6;
+Peanut Butterflies*F3;
+Snow Apple Pie*F3*WMV;
+Spicy Stingers*F2;
+
+| jewels =
+Shift Krokopatra Opal;
+
+| pins =
+
+| pets =
+Krokopatra's Troll*F4*WMV;
+
+| seeds =
+Ultra Alligator Pear Tree*F3;
+Ultra Boom Shroom;
+Ultra Dandelion;
+Ultra Fly Trap*F4;
+Ultra Helephant Ears*F4*WMV;
+Ultra Huckleberries*F3*WMV;
+Ultra King Parsley*F2;
+Ultra Ninja Fig*F4;
+Ultra Snap Dragon*F7*WMV;
+Ultra Snow Apples*F2;
+Ultra Tiger Lily*F6;
+Ultra Trumpet Vine;
+
+| mounts =
+Fire Whirlwind*7*F3*WMV;
+Fire Whirlwind*PERM*F3;
+Life Whirlwind*PERM;
+Myth Whirlwind*7*F2;
+Myth Whirlwind*PERM*F4;
+
+| spells =
+
+}}

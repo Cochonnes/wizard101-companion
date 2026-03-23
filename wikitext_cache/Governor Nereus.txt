@@ -1,0 +1,198 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 4,440
+| crecla = Crab
+| school = Ice
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire;
+
+| incresist =
+35% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Crustacean Clawcutter;
+
+| world = Celestia
+| location = The Grotto
+| subloc1 = Coral Castle
+| descrip =
+Governor Nereus is the ruler/leader of the Crabs in The Grotto.
+
+| speech =
+:''"So this is the intruder who dares enter our realm? What a jest! You don't even have a soft shell!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Stun Block;
+Iceblade;
+Ice Trap;
+Ice Prism;
+Thieving Dragon;
+Blizzard;
+Ice Wyvern;
+Blight Hound;
+Frostbite;
+Colossus;
+Tundra Lord;
+
+| quests =
+My Dinner with Algae;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Dragonspyre Badges|Savior of the Spiral]]''' {{Icon|Savior of the Spiral}} Badge and has not unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge, the following drops will be available:
+*4 Spellements will drop each time for their respective rank 3-7 Spells.
+
+| gold =
+24 - 99;
+
+| hats =
+Chilled Cowl;
+Curious Mask;
+Frozen Hat;
+Fuming Hat*F3*WMV;
+Gravedigger's Helm;
+Helm of Celestian Totality*F2;
+Nereus's Hoarfrost Helm*F2*WMV;
+Pure Helm*F2;
+Wintery Veil;
+
+| robes =
+Brimstone Tunic*F2*WMV;
+Reckless Raiment*F3*WMV;
+
+| boots =
+Boots of Catastrophe*F4*WMV;
+Drafty Boots;
+Frozen Frostwalkers*F2*WMV;
+Pure Greaves;
+Speculator's Striders;
+Tolerant Boots*F2;
+
+| athames =
+Celestian Sliver of Power*F5*WMV;
+Kris of the Kraken*F3*WMV;
+Majestic Dagger;
+
+| amulets =
+
+| rings =
+Bizarre Band*WMV;
+Sunken Celestian Circle*F4*WMV;
+Surging Sea Ring*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Celestian Table*F4*WMV;
+Gasoline Can;
+
+| cards =
+Evil Snowman;
+Ghoul;
+Keen Eyes*F2*WMV;
+Monstrous*F5*WMV;
+Strong;
+Vengeance*F5*WMV;
+
+| reagents =
+Cobalt*F2;
+Golden Pearl;
+Scales*F3*WMV;
+
+| spellements =
+Banshee*BR;
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops*BR;
+Cyclops Minion*BR;
+Earth Walker*BR;
+Evil Snowman*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*BR;
+Ice Wyvern*BR;
+Immolate*BR;
+Kraken*BR;
+Locust Swarm*BR;
+Minotaur*BR;
+Nature's Wrath*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Scarecrow*BR;
+Seraph*BR;
+Skeletal Pirate*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Storm Shark*BR;
+Stormzilla*BR;
+Sunbird*BR;
+Triton*BR;
+Vampire*BR;
+Wraith*BR;
+
+| snacks =
+Cauliflowers*F2;
+Delicious Cookie;
+Glowing Star Fruit;
+Glowing Taffy;
+Spicy Drumstick;
+Strawberry Cupcake;
+Submarine Sandwich;
+
+| jewels =
+Dull Critical Amethyst +3;
+Dull Defense Citrine +26;
+Dull Defense Jade +26;
+Dull Defense Onyx +26;
+Dull Mana Opal +23;
+Get Sunbird Ruby;
+Heart o'Pixie Jade;
+Plain Defense Amethyst +29;
+Plain Defense Citrine +29;
+Plain Defense Ruby +29*F2;
+SnowBorn Sapphire;
+Vaporize Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F3*WMV;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR;
+Silver Trumpet Vine*CR*F2;
+
+| mounts =
+
+| spells =
+
+}}

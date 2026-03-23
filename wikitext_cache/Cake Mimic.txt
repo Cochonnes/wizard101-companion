@@ -1,0 +1,128 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 2,500
+| crecla = Mimic
+| school = Moon
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost = 
++25 Fire, Myth;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Mimic (Ice);
+Mimic (Death);
+Mimic (Myth);
+
+| world = Housing Instance
+| location = Liches & Legends Gauntlet
+| badge = This Badge Was Cake
+| descrip =
+The Cake Mimic will have between 0 and 3 Mimic Minions, with the number of Minions depending on how many ''Upgrade'' paths were selected. Selecting all three Upgrade paths will yield 3 Minions. Selecting Token or Boss paths will not add a Minion.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Round}} ''"The Cake Mimic has marked a player."'' - At the end of every Round, the Cake Mimic places a Stun Block on a random Wizard, marking them.
+**Any existing marks are removed when a new one is placed.
+**The same Wizard can be marked multiple times in a row.
+*{{Icon|Spell}} ''"The Cake Mimic mimics the marked player."'' - After the marked Wizard casts a Spell, the Cake Mimic will cast the same Spell that the marked Wizard did on the marked Wizard.
+**If the marked Wizard passes or uses Reshuffle, at the end of the Round the Cake Mimic will cast the folowing Spell depending on which Wizard was marked:
+***{{Link|Polymorph|Granny Ravenblood}} - {{Link|Spell|Tick's Wrath}}
+***{{Link|Polymorph|Grok Tuskstab}} - {{Link|Spell|Grok Hit}}
+***{{Link|Polymorph|N'longa Windwhisper}} - {{Link|Spell|Womp}}
+***{{Link|Polymorph|One-Thump Tlocc}} - {{Link|Spell|Power Thump}}
+***{{Link|Polymorph|Rodrick the Rat}} - {{Link|Spell|Backstab (1 Pip)}}
+***{{Link|Polymorph|Wesley Fancypants}} - {{Link|Spell|Anguish A Capella}}
+
+| spellnotes =
+*Casts a 0-Pip Myth spell that applies a +25 Damage Ward on all enemies.
+*Casts a 1-Pip version of Qismah's Curse that deals 50 Death Damage to all enemies.
+*Casts a 1-Pip version of Blizzard that deals 50 Ice Damage to all enemies.
+*Casts a 1-Pip version of Tatzelwurm Terror that deals 50 Myth Damage to all enemies.
+*Casts a 2-Pip version of Deer Knight that deals 75 Death Damage to and applies a -25 Damage Charm on all enemies.
+*Casts a 2-Pip version of Frost Giant that deals 50 Ice Damage to all enemies and applies a -100 Damage Ward on caster.
+*Casts a 2-Pip version of Orthrus that deals 75 Myth Damage to and applies a +25 Damage Ward on all enemies.
+
+| casts =
+
+| quests =
+
+| gold =
+2 - 76;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Backstab;
+Bronze Armor;
+Death Seraph;
+Efreet;
+Ghoul;
+Grendel's Amends;
+Grok Hit;
+Hammer of Thor;
+Helephant;
+Poison;
+Satyr;
+Storm Serpent;
+Tick's Wrath*F2*WMV;
+Wild Bolt;
+Womp;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Grr-Owl*CR*F2*WMV;
+
+| seeds =
+
+| mounts =
+Dragon Steed*7*CR;
+Dragon Steed*PERM*CR;
+
+| spells =
+
+}}

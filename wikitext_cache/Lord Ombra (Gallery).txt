@@ -1,0 +1,118 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 21,575
+| crecla = Unicorn
+| crecla2 = Equine
+| school = Balance
+| startpips = 6
+| powerpips = Yes
+| shadowslots = 2
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Khrysalis
+| location = Shadow Palace
+| subloc1 = The Galleries
+| descrip =
+For the purpose of drops, Lord Ombra is considered a Minion to [[Creature:Archmagus Lorcan (Gallery)|Archmagus Lorcan]].  All drops, cheats, and speech are recorded on that page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+There's actually a secret way to beat him very, very quickly, but you probably don't need that anymore.
+
+| extract class =
+Equine;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Dark Nova;
+Infallible;
+Vengeance;
+Black Mantle;
+Availing Hands;
+Balanceblade;
+Hex;
+Mana Burn;
+Natural Attack (Balance 160-255-350);
+Samoorai;
+Power Nova;
+Sabertooth;
+Judgement;
+
+| quests =
+The Galleries;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

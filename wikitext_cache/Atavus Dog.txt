@@ -1,0 +1,97 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 17,720
+| crecla = Dog
+| school = Balance
+| masteries =
+Fire;
+Life;
+
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| outpierce =
+10%;
+
+| outboost =
+66%;
+
+| incboost =
+50% Balance;
+
+| incresist =
+None;
+
+| outhealing =
+100%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minion = 
+| world = Novus
+| location = Nucleus Gallery
+| subloc1 = Manticore's Madness
+| descrip =
+Atavus Dog is considered a Minion to {{Link|Creature|Atavus Monquistan}}. All drops and cheats are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Queen & Skyway;
+Legion Absorb;
+Pigsie (Tier 5b);
+Bladestorm;
+Mass Myth Trap;
+For Science... etc!;
+Sandstorm;
+Ra (-50%);
+Scald;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

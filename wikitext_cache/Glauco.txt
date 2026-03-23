@@ -1,0 +1,157 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,570
+| crecla = Fish
+| school = Myth
+| startpips = 4
+| powerpips = Yes
+| critical =
+25 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm;
+
+| incresist =
+35% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Angler Warlord;
+
+| world = Celestia
+| location = Crustacean Empire
+| subloc1 = Senate Chamber
+| descrip =
+*Two additional {{Link|Creature|Angler Goon}} Minions will appear if more than two Wizards are present.
+
+| speech =
+:''"What'sa that smell? I heared summa puny little Wizard froma da surface is a gonna defeat me. Lets a see 'em try!"''
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Myth Trap;
+Gobbler;
+Humongofrog;
+Humongofrog (400-500);
+Orthrus;
+Natural Attack (Myth 100x, 80%);
+
+| quests =
+Armed to the Gills;
+
+| gold =
+70 - 85;
+
+| hats =
+Cap of Accord*F2*WMV;
+Forgotten Facade;
+Nereus's Hoarfrost Helm;
+Storyteller's Cap;
+Timeless Topper*F3*WMV;
+
+| robes =
+Jolted Jerkin*F2;
+Mysterious Costume;
+Tragic Tunic*F2;
+Tundric Tunic*F4*WMV;
+
+| boots =
+Boots of Celestian Totality*F3;
+Rime Runners;
+Shoes of Cold Intent;
+Snowfall Striders*F3*WMV;
+
+| athames =
+Dirk of Delusion; 
+Dirk of Disorder*F3*WMV;
+Edge of Essence*F2*WMV;
+
+| amulets =
+Jewel of the Feint*F3*WMV;
+Wyldfire Collar*F6*WMV;
+
+| rings =
+Circle of Life*F2;
+Combustible Band;
+Eye of Insight*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Water-Mole Mask Rack*F5*WMV;
+
+| cards =
+Cloak;
+Empower*F8*WMV;
+Gargantuan*F2*WMV;
+Ice Wyvern;
+Precision;
+Sniper;
+Unstoppable*F5*WMV;
+Wyldfire;
+
+| reagents =
+Cobalt*F3;
+Fish Fin*F9*WMV;
+Nickel*F3*WMV;
+Sandstone*F9*WMV;
+Scales*F4*WMV;
+Sunstone*F5*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Delicious Cookie;
+Glowing Star Fruit*F2*WMV;
+Glowing Taffy*F3;
+Spicy Drumstick*F2*WMV;
+Strawberry Cupcake*F3;
+Submarine Sandwich;
+
+| jewels =
+Curse Giver Onyx;
+Dissipate Amethyst;
+Entangle Jade;
+Feinting Spell Onyx;
+Melt Sapphire*F2*WMV;
+Plain Defense Citrine +29;
+Plain Defense Jade +29;
+Plain Defense Sapphire +29;
+Plain Health Opal +59;
+Quench Ruby;
+Strangle Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F4*WMV;
+Fish on a Vine*F2*WMV;
+Maelstrom Snap Dragon*F3*WMV;
+Pink Dandelion*CR;
+Silver Trumpet Vine*CR*F5*WMV;
+
+| mounts =
+
+| spells =
+
+}}

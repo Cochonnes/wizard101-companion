@@ -1,0 +1,105 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 21,165
+| crecla = Werewolf
+| school = Life
+| school2 = Moon
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+59 Any;
+
+| criticalblock =
+643 Any;
+
+| outpierce =
+14%;
+
+| outboost =
+85%;
+
+| incboost =
+30% Death;
+
+| incresist =
+41% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+71% Life;
+
+| outhealing =
+42%;
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Wolf-Man (Fire-Moon);
+
+| world = Darkmoor 
+| location = Graveholm
+| subloc1 = Were-Den
+| descrip =
+
+| speech =
+"*HOWWWWWWLLLLLLLL!*"
+
+| spellnotes =
+
+| casts =
+Guiding Light;
+Lifeblade (+40%);
+Thorns!;
+Luminous Weaver (Tier 2b);
+Leafstorm;
+Living Helephant;
+Shift GreenOak;
+
+| quests = 
+Scholomari Parley;
+
+| gold =
+2 - 8;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

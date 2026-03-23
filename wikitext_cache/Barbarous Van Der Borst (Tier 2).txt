@@ -1,0 +1,141 @@
+{{Stub|Spells, Drops, and Cheats}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 1,640
+| crecla = Giant
+| school = Myth
+| cheats = Yes
+| startpips = 
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Edacious Ogre (Tier 2);
+Rude Goblin (Tier 2);
+
+| world = Housing Instance
+| location = Spiral Cup Gauntlet
+| subloc1 = Spiral Cup Gauntlet (Tier 2)
+| descrip =
+
+| speech =
+:''"Last time the Goblins were in Wysteria, they brought back all of these colorful pamphlets. I've read a lot of good things about Pigswick Academy in these brochures. How fancy the program is. How expensive. How liberal-minded the course work is, and how restful the exam period. Pigswick sounds like a wonderful place! So wonderful that I wanted to start my own franchise. What better way than to seed my faculty with their plum staff? I've already headhunted a headmistress and a master of arms for my new school. Let's find out what position you should fill."''
+
+| cheatnotes =
+*{{Icon|Minion}} On the second Round, this Boss spawns his Minions.
+**{{Link|Creature|Rude Goblin (Tier 2)}} will have '''750''' Health and {{Link|Creature|Edacious Ogre (Tier 2)}} has '''830''' Health.
+**If a Minion dies, he will summon a {{Link|Creature|Rude Goblin (Tier 2)}} in its place.
+*{{Icon|Round}} Every Round his minions are in battle, Boss will cast {{Link|Spell|Balanceblade (+35%)}} on first Minion and each Creature casts this blade on the next Minion until it's the last Creature's turn in which it cheat-casts {{Link|Spell|Tempest}} dealing '''160''', '''240''', '''320''', or '''400''' Storm Damage.
+**If Boss is not first, the first minion will start the sequence, but the Boss will not cast the blade. The rest of his minions will continue the cheat.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Myth Damage.
+
+| casts =
+Balanceblade (+35%);
+Myth Trap;
+Blood Bat;
+Troll;
+Snow Serpent;
+Leprechaun;
+Fire Elf (50+210);
+
+| quests =
+Master of Arms;
+
+| gold =
+60 - 90;
+
+| hats =
+
+| robes =
+Vestment of Frost;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Greenwarden's Brilliant Staff (Level 30+)*CR;
+
+| decks =
+
+| items =
+Avalon Combat Theme;
+Avalon Shield;
+Avalon Tense Theme;
+Bamboo Grove;
+Celestian Tree Sapling;
+Cobblestone Flooring;
+Fire Bush;
+Fish Fountain;
+Hedge Row;
+Large Cypress Tree;
+Large Willow Tree;
+Red Leaf Tree*CR;
+Small Bush;
+Stucco Wallpaper;
+Summer Tree;
+Sunflower;
+Tall Palm Tree*CR;
+
+| cards =
+
+| reagents =
+Iron;
+Nickel;
+Tin;
+
+| spellements =
+
+| snacks =
+Cheese Broccoli;
+Cracker;
+Crunch Apple;
+Green Grapes*F2*WMV;
+Gummy Firecat;
+Nettle Root;
+Sugar Donut;
+Tasty Biscuit;
+Wheat Cracker;
+
+| jewels =
+Cracked Damage Citrine +5;
+Cracked Defense Citrine +11;
+
+| pins =
+
+| pets =
+Rude Goblin;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

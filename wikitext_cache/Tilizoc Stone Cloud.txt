@@ -1,0 +1,161 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 13,160
+| crecla = Tritop
+| school = Ice
+| masteries =
+Storm;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+110 Any;
+
+| criticalblock =
+50 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Gold Frill Spike Horn;
+Gold Frill Spike Horn;
+
+| world = Azteca
+| location = Tierra de Brea
+| subloc1 = Grotto of Wirachoca
+| descrip =
+Theurgists must defeat Tilizoc Stone Cloud during the Level 88 Spell Quest, {{Link|Quest|Sight for Saur Eyes}}. 
+
+| speech =
+:''"What manner of creature is this? Another thief here to steal our gold? Destroy the interloper and place their skull with the others."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals ~180 Ice Damage per Pip.
+
+| casts =
+Fortify;
+Infallible;
+Tower Shield;
+Lightning Strike;
+Iceblade;
+Elemental Blade;
+Enfeeble;
+Colossus;
+Frost Giant;
+Lord of Winter;
+Wild Bolt;
+Storman (265);
+Storm Lord;
+Leviathan;
+Sirens;
+
+| quests =
+Sight for Saur Eyes;
+
+| gold =
+194 - 211;
+
+| hats =
+
+| robes =
+Black Sun Chac's Armor;
+Grinning Death Xicolli Vest;
+Keeper of the Codex Vest;
+Vestment of the Hungry Lizard;
+
+| boots =
+Death Moon's Chosen Gliders;
+Heart of Sky Boots;
+Indigo Wing Striders;
+Tree of Secrets Chac Runners;
+
+| athames =
+Courage Charm of Jade Wings;
+Home Hearth Relic;
+Thunder Horn's Rough Cutter;
+
+| amulets =
+Speaking Water Ornament;
+
+| rings =
+Bleeding Sun Warrior's Loop;
+Chac's Challenge Loop;
+Falling Star's End Time Band;
+Storm Quetzal's Signet;
+Twin Giants Fashioned Stone;
+
+| wands =
+New Moon Lance;
+Talon of the Storm Owl;
+
+| decks =
+Calendar of the Spiral King*F2;
+
+| items =
+Starburst Frond;
+
+| cards =
+Colossal;
+Leviathan;
+Potent Trap;
+Sharpened Blade;
+Sirens;
+
+| reagents =
+Black Lotus;
+Black Pearl;
+Bone;
+Bronze Gear;
+Deep Mushroom;
+Fire Blossom;
+Lava Lily*F2;
+Mist Wood*F2;
+Nightshade;
+Ore;
+Red Mandrake;
+Stone Block*F2;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Chili Peppers;
+Fried Ice Cream;
+Gummy Wyrms;
+Jelly Baby;
+Maize;
+Quetzal Pretzel;
+Stego Waffles;
+
+| jewels =
+Polished Critical Amethyst +11;
+
+| pins =
+
+| pets =
+
+| seeds =
+Pink Huckleberries;
+Red Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,233 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 745
+| crecla = Raven
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Ice;
+
+| incresist =
+50% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Fire Wraith;
+Fire Wraith;
+Fire Wraith;
+
+| world = Wizard City
+| location = Olde Town
+| subloc1 = Telegraph Box (Wizard City)
+| descrip =
+During the [[Basic:Five B.O.X.E.S.|Five B.O.X.E.S. Event]], Grimsnes BurntBlack can be found in the Telegraph Box (Wizard City) instance.  The assistant to Fire Professor {{Link|NPC|Memphis}}, he was sent to the Fire Tower to set up [[NPC:Dalia Falmea|Dalia Falmea's]] second trial after she joined the School of Fire.  However, it was revealed that he is serving another master, the Maestro, and is responsible in helping alter the timeline of the past and have Falmea become a Student of Ice.
+
+| speech =
+:''"Oh Maestro, I must speak to you to tell you that your plan to burn down Ravenwood from within the Fire School has come undone...  Eh? You again! Cinder and smoke! Well, come on then and face my fiery feathers!"''
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Fire Cat;
+Flamesnake;
+Feverish Chant;
+Firegut;
+Imp;
+Blood Bat;
+
+| quests =
+The Ordeal;
+
+| gold =
+42 - 180;
+
+| hats =
+Circlet of Fortune*F5*WMV;
+Coif of Veracity*F2*WMV;
+Cowl of Winterbloom*F3*WMV;
+Crown of Achievement*F3*WMV;
+Firekeeper's Mantle*F2*WMV;
+Greenwarden's Energetic Mask (Level 10+)*CR;
+Greenwarden's Peaceful Mask (Level 10+)*CR*F2;
+Hat of Consequence;
+Headgear of the Haze*F2*WMV;
+Helm of Determination*F3*WMV;
+Lifewarden's Veil;
+Rejuvenating Circlet*F2*WMV;
+
+| robes =
+Coat of Forethought;
+Drape of the White Squall*F2*WMV;
+Glacial Longcoat*F5*WMV;
+Greenwarden's Brilliant Shroud (Level 10+)*CR*F2;
+Igneous Robe*F2;
+Jerkin of Brio*F2*WMV;
+Jerkin of the Undine*F2*WMV;
+Raiment of the Lifespring*F2*WMV;
+Robe of Elegies*F3*WMV;
+Surcoat of Sleet;
+Tunic of Quietus*F2*WMV;
+Vestment of Serenity*F2*WMV;
+Vestment of Yesteryear;
+Winterwear Wrap*F2*WMV;
+
+| boots =
+Footguards of Consideration*F2*WMV;
+Greenwarden's Brilliant Boots (Level 10+)*CR;
+Greenwarden's Energetic Boots (Level 10+)*CR;
+Greenwarden's Peaceful Boots (Level 20+)*CR;
+Indefatigable Striders;
+
+| athames =
+Glyphcarver*F3*WMV;
+Poniard of Repose*F2*WMV;
+
+| amulets =
+
+| rings =
+Arctic Circlet*F2*WMV;
+Band of the Answer*F2*WMV;
+Loop of Retribution;
+Rejuvenating Circlet*F2*WMV;
+Seal of the Tundra*F2*WMV;
+Signet of Fatality;
+Signet of the North Wind*F2*WMV;
+Stone of Confidence;
+Stone of the Icedrake;
+Thane's Circlet*F3*WMV;
+
+| wands =
+Greenwarden's Brilliant Staff (Level 10+)*CR;
+
+| decks =
+
+| items =
+Bamboo Grove*F4*WMV;
+Bowl of Tomatoes*F4*WMV;
+Broken Stump*F4*WMV;
+Celestian Tree Sapling*F2*WMV;
+Celestian Tree Sprig*F4*WMV;
+Five B.O.X.E.S. Theme*F2*WMV;
+Flowering Celestian Tree*F5*WMV;
+Green Foodcart*F5*WMV;
+Hedge Row;
+Large Willow Tree*F4*WMV;
+Olde Town Turn Table*F2*WMV;
+Pyramid Player*F3*WMV;
+Ravenscar Turntable*F3*WMV;
+Sunflower*F3*WMV;
+Tall Pumpkin*F3*WMV;
+Wheel of Cheese*CR*F3*WMV;
+Wooden Well*CR*F4*WMV;
+
+| cards =
+Banshee;
+Black Mantle;
+Blizzard*F2*WMV;
+Cloak*F2;
+Clockwork Spider*F13*WMV;
+Colossus;
+Evil Snowman*F2*WMV;
+Firegut (380-418)*F10*WMV;
+Heck Hound;
+Humongofrog*F3*WMV;
+Ice Wyvern;
+Kraken;
+Leprechaun @ Leprechaun (Wyvern's Hoard Pack)*F6*WMV;
+Meteor Strike*F2*WMV;
+Monstrous;
+Reshuffle;
+Satyr;
+Scarecrow;
+Seraph;
+Skeletal Pirate*F2*WMV;
+Sprite*F2*WMV;
+Storm Shark;
+Strong;
+Sunbird;
+Tempest*F2;
+Tough*F3*WMV;
+Weakness;
+
+| reagents =
+Bone*F3*WMV;
+Copper*F3*WMV;
+Iron*F4*WMV;
+Lead*F3*WMV;
+Nickel*F4*WMV;
+Pyrite*F2*WMV;
+Sonic Spring*F4*WMV;
+
+| spellements =
+
+| snacks =
+Glowing Rock Candy*F3*WMV;
+Meat Soup*F10*WMV;
+Rock Candy;
+Spicy Chips;
+Star Lollipop;
+Tasty Biscuit*F5*WMV;
+Wheat Cracker;
+
+| jewels =
+Add Health Opal;
+Big Drain Opal;
+Blood Bat Peridot;
+Chipped Accurate Ruby +3%;
+Chipped Damage Opal +4;
+Chipped PIP Opal +1%*F2*WMV;
+Cracked Damage Citrine +5;
+Cracked Damage Jade +5*F2;
+Cracked Damage Onyx +5*F2;
+Cracked Damage Peridot +5;
+Cracked Damage Ruby +5;
+Cracked Defense Amethyst +11;
+Cracked Defense Citrine +12;
+Cracked Defense Onyx +11*F2;
+Cracked Defense Onyx +12;
+Cracked Defense Peridot +12;
+Cracked Defense Ruby +12;
+Cracked Defense Sapphire +11;
+Dark Sprite Onyx;
+Death-Away Onyx;
+Forceful Opal;
+Frost Beetle Sapphire;
+Imp Jade;
+Restore Opal;
+Thunder Snake Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Couch Potatoes*CR*F5*WMV;
+Dandelion;
+Evil Snow Peas;
+Laugh-O-Dil*F2*WMV;
+Orange Dandelion;
+Pink Laugh-O-Dil;
+Stinkweed*F2*WMV;
+
+| mounts =
+Digmoore Pogo Stick*7*F3*WMV;
+
+| spells =
+
+}}

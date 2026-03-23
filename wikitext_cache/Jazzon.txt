@@ -1,0 +1,191 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 13,070
+| crecla = Bee
+| crecla2 = Insect
+| school = Balance
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions = 
+Yellow Jacket Shredder;
+
+| world = Khrysalis
+| location = Moon Cliffs
+| subloc1 = Nightwatch Tower
+| descrip =
+*[[:File:(Quest) Nightwatch Dialogue 2.png|Dialogue text]] suggests that Jazzon's full name is "Jazzon Overwatcher".
+
+| speech =
+:''"Who are you?  Did that lazy fool Ezzric send you in here?  He's no better than a Bumbler!  You're no Bee!"
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+He watched the gate to the Nightwatch Tower, until his watch ended. Now he makes watches.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Conviction;
+Vengeance;
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Elemental Trap;
+Natural Attack (Balance 155-250-345);
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Ra;
+Chimera;
+Judgement;
+
+| quests =
+Nightwatch;
+
+| gold =
+131 - 157;
+
+| hats =
+Digger Drone Tactical Helm*F3*WMV;
+Mantis Cowl of Purpose*F4*WMV;
+
+| robes =
+Battle-Worn Burrower Armor*F2*WMV;
+Kermes Fire Miner's Tunic;
+Mantis Plate of Frostfall;
+
+| boots =
+Digger Drone Boots of Duty*F2*WMV;
+Leaf Shield Brisk Walkers*F4*WMV;
+
+| athames =
+Mouse Knight's Shortsword*F2*WMV;
+Night Flame Choker*F2;
+SkyScreamer's Cutter*F3*WMV;
+
+| amulets =
+Night Flame Choker*F2;
+Relic of Thriving Bastion*F2;
+
+| rings =
+
+| wands =
+StormSky's Edge;
+
+| decks =
+Barbed Case of Stratagem;
+Gallery of the Woebegone;
+LimeBlight's Gallery;
+
+| items =
+Khrysalis Bastion Theme*F3*WMV;
+Khrysalis Thrives Theme*F2*WMV;
+
+| cards =
+Choke;
+Crystal Spider;
+Death Scarab;
+Frost Beetle;
+Giant Spider;
+Life Scarab*F2;
+Mass Infection*F2;
+Sanctuary;
+Scorpion*F2;
+
+| reagents =
+Black Lotus*F2;
+Black Pearl;
+Blood Moss*F2*WMV;
+Bone*F4*WMV;
+Bronze Gear*F2*WMV;
+Deep Mushroom;
+Draconium;
+Fire Blossom;
+Fossil;
+Golden Pearl;
+Lava Lily*F4*WMV;
+Mist Wood*F7*WMV;
+Mithril;
+Nickel*F2*WMV;
+Nightshade*F2*WMV;
+Ore*F5*WMV;
+Orichalcum;
+Red Mandrake*F3*WMV;
+Stone Block;
+Sunstone;
+Tungsten;
+Turquoise*F2*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Dr. Jalapeno;
+Glowing Dragon Fruit;
+Glowing Star Fruit;
+Goat Cheese;
+Golden Grapes;
+Gummy Humongofrog*F2*WMV;
+King Banana;
+Salmonberry*F2*WMV;
+Shiny Tomato;
+Uni-Corn;
+
+| jewels =
+Hearty Opal;
+Imp Jade;
+Infallible Talent Opal;
+Polished Critical Jade +11;
+Polished Defense Citrine +44;
+Polished Defense Sapphire +44;
+Polished Piercing Ruby +6%;
+Polished Piercing Sapphire +6%;
+Scarab Citrine;
+Storm-Away Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+
+| mounts =
+
+| spells =
+
+}}

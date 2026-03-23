@@ -1,0 +1,267 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 11,895
+| crecla = Wizard
+| school = Fire
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Dragonclaw Guard;
+Dragonclaw Guard;
+The Maestro;
+
+| world = Avalon
+| location = Abbey Road
+| subloc1 = Telegraph Box (Avalon)
+| descrip =
+Sylvia Spitfire is {{Link|NPC|Sylvia Drake}} from the past (before she married {{Link|NPC|Malistaire Drake}}). She can be found in the Telegraph Box (Avalon) instance during the [[Basic:Five B.O.X.E.S.|Five B.O.X.E.S. Event]].
+*As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"I'm more me than I've ever been! It's time I tied off these loose threads, forever!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Fireblade;
+Fire Trap;
+Wyldfire;
+Natural Attack (Fire 125-240-360);
+Fire Shark;
+Meteor Strike;
+Scald;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Efreet;
+Rain of Fire;
+
+| quests =
+Arc of Infinity;
+
+| gold =
+267 - 338;
+
+| hats =
+Greenwarden's Brilliant Mask (Level 80+)*CR*F3*WMV;
+Greenwarden's Energetic Mask (Level 80+)*CR*F2;
+Greenwarden's Peaceful Mask (Level 80+)*CR*F2*WMV;
+
+| robes =
+Cloak of the Tyrant of Beasts*F2;
+Coatl Lord's Robes*F2;
+Glorious Xicolli Vest*F3;
+Greenwarden's Brilliant Shroud (Level 80+)*CR*F2;
+Greenwarden's Energetic Shroud (Level 80+)*CR*F2;
+Greenwarden's Peaceful Shroud (Level 80+)*CR*F2;
+High Chac's Guarded Armor;
+Song of the Lizard Coat*F4*WMV;
+Tunic of the Broken Spear*F3*WMV;
+Vestment of the Calavera*F4*WMV;
+
+| boots =
+Greenwarden's Brilliant Boots (Level 80+)*CR;
+Greenwarden's Energetic Boots (Level 80+)*CR*F3;
+Greenwarden's Peaceful Boots (Level 80+)*CR*F3*WMV;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Greenwarden's Brilliant Staff (Level 80+)*CR*F3;
+Greenwarden's Energetic Staff (Level 80+)*CR;
+Greenwarden's Peaceful Staff (Level 80+)*CR;
+
+| decks =
+
+| items =
+Broadhead;
+Dragon's Roost Player*F7*WMV;
+Five B.O.X.E.S. Theme*F2*WMV;
+Pathfinder;
+Purple Teleporter*CR*F4*WMV;
+Red Teleporter*CR*F5;
+White Teleporter*CR*F7*WMV;
+Yellow Teleporter*CR*F19*WMV;
+
+| cards =
+Amplify*F3;
+Berserk*F6*WMV;
+Clockwork Spider*F25*WMV;
+Colossal*F7*WMV;
+Efreet*F44*WMV;
+Extraordinary*F2;
+Fire Dragon*F2;
+Forest Lord*F4;
+Fortify*F2*WMV;
+Frost Demon*F2;
+Leviathan;
+Massive Pest Zapper*F2;
+Medusa;
+Mend*F3*WMV;
+Power Nova*F2*WMV;
+Putrid Bug Spray*F20*WMV;
+Ra;
+Rebirth*F11*WMV;
+Scarecrow;
+Skeletal Dragon*F2;
+Snow Angel*F4*WMV;
+Storm Lord*F2;
+Vengeance*F3*WMV;
+
+| reagents =
+Black Lotus*F13*WMV;
+Black Pearl*F7*WMV;
+Blood Moss*F4;
+Bone*F15*WMV;
+Brass*F7*WMV;
+Bronze*F10*WMV;
+Bronze Gear*F17*WMV;
+Cobalt*F7*WMV;
+Deep Mushroom*F21*WMV;
+Fire Blossom*F16*WMV;
+Fossil*F13*WMV;
+Golden Pearl*F6*WMV;
+Lava Lily*F23*WMV;
+Mist Wood*F16*WMV;
+Nickel*F2;
+Nightshade*F3;
+Ore*F9*WMV;
+Red Mandrake*F16*WMV;
+Sonic Spring*F10*WMV;
+Steel*F7*WMV;
+Stone Block*F21*WMV;
+Sunstone*F6*WMV;
+Tin;
+Turquoise*F17*WMV;
+
+| spellements =
+
+| snacks =
+Avocado Milkshake;
+Buttered Bread*F2;
+Cactus Fruit*F4*WMV;
+Caramel Apple*F5*WMV;
+Chapulines;
+Fern Jelly*F5*WMV;
+Glowing Dragon Fruit*F7;
+Kola Nuts*F6;
+Maize*F2;
+Marzipan Maize*F4*WMV;
+Pyramints*F5*WMV;
+Rex Tea*F5;
+Roasted Chickpeas*F4;
+Tamales*F5*WMV;
+Tenochti-Flan*F4*WMV;
+Treant Bark*F3;
+Tricera-Pops*F4;
+Yucca*F3*WMV;
+
+| jewels =
+Balanceblade Talent Citrine;
+Blade of Fire Ruby;
+Clear Accurate Peridot +9%;
+Clear Accurate Sapphire +9%;
+Clear Blocking Amethyst +9;
+Clear Blocking Citrine +10;
+Clear Blocking Hematite +9;
+Clear Blocking Hematite +10;
+Clear Blocking Onyx +9;
+Clear Blocking Opal +5*F2;
+Clear Critical Amethyst +10;
+Clear Critical Jade +10*F2;
+Clear Critical Onyx +10;
+Clear Critical Peridot +10*F2;
+Clear Critical Ruby +10;
+Clear Damage Amethyst +19;
+Clear Damage Citrine +19;
+Clear Damage Onyx +19*F2;
+Clear Damage Ruby +19;
+Clear Defense Opal +20*F2;
+Clear Mana Opal +33;
+Clear Piercing Citrine +5%;
+Clear Piercing Peridot +5%;
+Clear Piercing Sapphire +5%;
+Conviction Talent Opal;
+Crystallize Sapphire;
+Death-Eye Onyx;
+Detonate Ruby;
+Dimension Shift Peridot;
+Draconian Opal;
+Enfeeble Amethyst*F2;
+Feinting Spell Onyx;
+Fire-Shot Ruby;
+Flummox Opal;
+Great Learner Opal;
+Healer Opal;
+Life-Away Jade;
+Lock Opal;
+Mass Infection Onyx;
+Mass Triage Jade;
+Mend Minion Talent Peridot;
+Monstrous Talent Opal;
+Opaque Damage Amethyst +18;
+Opaque Damage Onyx +18;
+Opaque Defense Amethyst +36;
+Opaque Defense Ruby +36;
+Pipe Down! Opal;
+Snow Drift Sapphire;
+Spirit Trap Citrine (Triangle)*F2;
+Steal Health Talent Onyx;
+Storm Elemental Opal;
+Stormclaw Amethyst;
+Super-Lock Opal;
+Unbreakable Opal;
+Wipeout Opal;
+
+| pins =
+
+| pets =
+Earth Walker*CR*F23*WMV;
+Life Ghoul*F4*WMV;
+
+| seeds =
+Angora Bunny Ears;
+Fiery Boom Shroom;
+Frozen Fly Trap;
+Pink Dandelion*CR*F2;
+Red Huckleberries;
+
+| mounts =
+Blue Fairy Wings*PERM*CR*F16*WMV;
+Orange Fairy Wings*PERM*CR*F1;
+Ravenwood Pogo Stick*7*F4*WMV;
+
+| spells =
+
+}}

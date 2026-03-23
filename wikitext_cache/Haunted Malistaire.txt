@@ -1,0 +1,109 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 48,000
+| crecla = Undead
+| school = Shadow
+| masteries =
+Death;
+
+| shadowslots = 4
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+65%;
+
+| outboost =
+25%;
+
+| incboost =
+None;
+
+| incresist =
+30% Fire, Ice, Storm, Myth, Life, Death, Balance;
+
+| stunable = No
+| beguilable = No
+| minions =
+ 
+| world = Wizard City
+| location = Castle Darkmoor (Location)
+| subloc1 = Graveyard
+| descrip =
+This Polymorph is the second form of {{Link|Creature|Malistaire the Undying (Shadow)}}. All drops, cheats, and speech are recorded on that page.
+*This Boss has no resistance to Moon and Shadow Spells.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 1,600 Shadow Steal Damage per Pip (0 Pip max).
+
+| casts =
+Shadow Shield;
+Deathspear;
+Infection;
+Black Mantle (-55%, 0 Pip);
+Shadowblade;
+Deathblade;
+Shadow Trap;
+Curse;
+Feint (+80%);
+Steal Charm;
+Steal Ward;
+Age of Reckoning;
+Deer Knight;
+Call of Khrulhu (1,005);
+Scarecrow;
+Skeletal Dragon (666+333);
+Dr. Von's Monster;
+
+| quests =
+House of Mystery and Suspense;
+The Sound of His Wings;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

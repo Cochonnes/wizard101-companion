@@ -1,0 +1,162 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 12,425
+| crecla = Undead
+| school = Myth
+| cheats =  Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+50%;
+
+| outboost =
+150%;
+
+| incboost =
+None;
+
+| incresist =
+Immune;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Unforgiven Dead Gauntlet
+| subloc1 = Unforgiven Dead Gauntlet (Tier 3)
+| descrip =
+Grounds-Creeper Willie (Tier 3) is immune to all Damage.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Someone's gotta creep the grounds. They won't do it themselves!
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Oh, ye found me one weakness: showing up late!"'' If a Wizard is late, or flees and returns, the Boss will give Wizards the following spell.
+**{{GivesSpell|Banish! (2 Shadow Pip)|size = x150px}}
+*{{Icon|Spell}} ''"Ach! I cannae be beaten, only banished! - "'' After the end of the first Round, Grounds-Creeper Willie (Tier 3) will give Wizards [[Spell:Banish! (2 Shadow Pip)|Banish!]].
+*{{Icon|Damage}} ''"Ach! Get 'Em, Bitey!"'' - If he is attacked, he will interrupt-cast Orthrus.
+*{{Icon|Shield}} ''"Hide behind yer shields then!"'' - If a Wizard casts a Shield, he will give a '''+25%''' version of {{Link|Spell|Guidance}} to the Wizard's team.
+*{{Icon|Healing}} ''"Oh, wizard need a heal? Maybe a blankie too?"'' - If the Wizard casts a Healing Spell, he will give the Wizard the following spell.
+**'''Notes:''' Only the Wizard receiving the Heal is the one that will receive the Donate Shadow Spell and Maycast Healing Pets don't activate this cheat.
+**{{GivesSpell|Donate Shadow (3 Pip, Given)|size = x150px}}
+*{{Icon|Manipulation}} ''"Time for a controlled Mana Burn"'' - At the beginning of every third Round, he will cast an All Enemies version of {{Link|Spell|Mana Burn (Shadow)}} that also removes 1 Shadow Pip.
+**''"Think ye can banish me? Try!"'' - Boss will say this line after he uses Mana Burn.
+
+| spellnotes =
+*Casts a protected Balanceblade and Mythblade.
+
+| casts =
+Frenzy;
+Mythblade;
+Balanceblade;
+Mass Feint (+70%);
+Time of Legend;
+Splashsquatch (Tier 5a);
+Snake Charmer;
+Basilisk (645-685);
+Ninja Pigs (Tier 5a);
+Tatzlewurm Terror (Tier 3a);
+Mystic Colossus;
+Barbarian's Saga (Tier 3a);
+Witch's House Call (No Minion);
+Orthrus;
+Medusa;
+Celestial Calendar;
+
+| quests =
+
+| gold =
+471 - 565;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Highlands Champion's Staff (Level 150+)*CR;
+Highlands Fighter's Staff (Level 150+)*CR;
+Highlands Militia Staff (Level 150+)*CR;
+
+| decks =
+
+| items =
+
+| cards =
+Animate;
+Cyclops Minion;
+Handsome Fomori;
+Judgement;
+Pierce;
+Plague;
+Steal Ward;
+Triage;
+Weakness;
+Wild Bolt;
+
+| reagents =
+Amber Dust;
+Elemental Retriever;
+Golden Pearl;
+Merle's Whisker;
+Potboiler Token;
+Spiritual Retriever;
+Sunstone;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+Dire Loch Monster*1*CR;
+Dread Loch Monster*1*CR;
+Grim Loch Monster*1*CR;
+Dire Loch Monster*7*CR;
+Dread Loch Monster*7*CR;
+Grim Loch Monster*7*CR;
+
+| spells =
+
+}}

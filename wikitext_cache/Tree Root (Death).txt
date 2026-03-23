@@ -1,0 +1,292 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 12,845
+| school = Death
+| cheats = Yes
+| crecla = Plant
+| crecla2 = Treant
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Tree Root (Life);
+Tree Root (Myth);
+Tree Root (Balance);
+
+| world = Khrysalis
+| location = Shadow Palace
+| subloc1 = Spirit Plane
+| descrip =
+The Tree Root (Death) is one of {{Link|NPC|Moros}}'s four main Tree Roots, as he attempts to stop the Wizard from reaching [[Creature:Morganthe (Death)|Morganthe]].
+
+| speech =
+:''"Scratch your face, whip your hair, break your nails, tear your skin, crack your bones, shred your hope!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+Grants Moros power over death itself. Can even beat the Grim Reaper at chess.
+
+| extract class =
+Treant;
+
+| summon animus = 10
+| summon gold = 500
+| guest animus = 20
+| guest gold = 1,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Afterlife}} ''"Chop Away A Little Each Time!"'' - When a Tree Root is defeated, one of the surviving Bosses will spawn an Elite Minion matching its school listed below in three Rounds:
+**{{Link|Creature|Tree Root (Death Elite)}}
+**{{Link|Creature|Tree Root (Balance Elite)}}
+**{{Link|Creature|Tree Root (Myth Elite)}}
+**{{Link|Creature|Tree Root (Life Elite)}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Mass Infection;
+Deathblade;
+Death Trap;
+Death Scarab (Death);
+Natural Attack (Death 160-255-350);
+Wraith (575);
+Scarecrow;
+Dr. Von's Monster;
+Avenging Fossil;
+
+| quests =
+Doom Tree;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*9 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+*Chance of 1 Level 100+ Exalted Wand drop.
+*A Pollen Mote Reagent drop.
+
+Wizards who have already unlocked the Badge will receive a Participation Trophy.
+
+If a Wizard already has the Defender of Land & Sky Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of {{Link|Location|Morganthe's Chamber}} to acquire a [[Item:Level Scaling Elixir - 100|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+82 - 100;
+
+| hats =
+
+| robes =
+
+| boots =
+Archangel's Boots*CR*F2*WMV;
+Zaltanna's Combat Boots*F2*WMV;
+
+| athames =
+Pyat's Steel of Mourning*F3;
+
+| amulets =
+Glacier Hopper's Amulet*F4;
+
+| rings =
+DarkSide's Nightmare Band*F5*WMV;
+Gloom Dancer's Band*F3*WMV;
+
+| wands =
+Armaments of Embers*BR;
+Armaments of Havoc*BR;
+Armaments of Vigor*BR;
+Dreamscape Armaments*BR;
+Dreamscape Sword and Shield*BR;
+Elder's Armaments*BR;
+Elder's Sword and Shield*BR;
+Frostbound Armaments*BR;
+Frostbound Sword and Shield*BR;
+Sandstorm Armaments*BR;
+Sandstorm Sword and Shield*BR;
+Sword and Shield of Embers*BR;
+Sword and Shield of Havoc*BR;
+Sword and Shield of Vigor*BR;
+
+| decks =
+Deck of Charred Shadows (Tear)*F3*WMV;
+Deck of Charred Shadows (Triangle);
+Deck of Shadow Lightning (Square)*F3;
+Deck of Shadow Lightning (Tear);
+Deck of Shadow Lightning (Triangle);
+Deck of Winter Shadows (Square)*F3*WMV;
+Deck of Winter Shadows (Triangle);
+
+| items =
+Avalon Dreamworld Theme*F2;
+Khrysalis Sardonyx Theme*F2;
+Khrysalis Shadow Combat Theme*F2*WMV;
+
+| cards =
+Avenging Fossil;
+Black Widow*F2*WMV;
+Celestial Calendar;
+Chastisement;
+Cycle of Life;
+Doom and Gloom*F3*WMV;
+Enfeeble*F2*WMV;
+Galvanic Field;
+Hooligan*F2;
+Legendary Treant (445)*F4;
+Locust Swarm*F2*WMV;
+Lord of Winter;
+Lucius McTavish;
+Luminous Weaver;
+O'Leary Swindler;
+Pierce*F3*WMV;
+Polar Swarm*F2*WMV;
+Reliquary;
+Sanctuary;
+Scorpion;
+Shatter (3 Pip);
+Sprite Swarm (40+360);
+Virulence;
+Wildfire Treant*F2;
+
+| reagents =
+Amber Dust*F2;
+Astral Shard*F7*WMV;
+Black Lotus;
+Black Pearl*F3;
+Blood Moss;
+Bone*F4*WMV;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F2*WMV;
+Draconium*F5*WMV;
+Fire Blossom*F3*WMV;
+Fossil;
+Golden Pearl*F2;
+Lava Lily*F4*WMV;
+Merle's Whisker;
+Mist Wood*F2;
+Mithril*F2*WMV;
+Nightshade*F2*WMV;
+Ore*F5*WMV;
+Orichalcum*F6*WMV;
+Participation Trophy;
+Pollen Mote*BR;
+Red Mandrake*F2*WMV;
+Stone Block*F3*WMV;
+Sunstone*F2*WMV;
+Turquoise*F4*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Chimera*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Woolly Mammoth*BR*F2*WMV;
+
+| snacks =
+Dr. Jalapeno*F2;
+Flapjacks*F2*WMV;
+Glowing Dragon Fruit*F4*WMV;
+Gummy Bees;
+Honeycombs;
+Honeycrisp Apples;
+Sugar Khrystals;
+
+| jewels =
+Aura Crush Citrine;
+Colossus Opal;
+Freddo Sapphire;
+Get Sunbird Ruby;
+Infallible Talent Opal;
+Malduit Onyx;
+Mend Minion Talent Peridot;
+Mokompo Amethyst;
+Nerys Citrine;
+Ninja Pig Opal;
+No Pain, No Gain Onyx;
+Mana Boost Opal;
+Polished Accurate Hematite +10%;
+Polished Critical Amethyst +12;
+Polished Critical Citrine +12;
+Polished Critical Onyx +12;
+Polished Critical Ruby +12;
+Polished Damage Amethyst +22;
+Polished Damage Hematite +42*F2*WMV;
+Polished Damage Hematite +44;
+Polished Damage Jade +22;
+Polished Damage Peridot +22;
+Polished Damage Sapphire +22;
+Polished Defense Hematite +44;
+Polished Defense Opal +22;
+Polished Health Opal +94;
+Polished Piercing Hematite +5%;
+Polished Piercing Hematite +6%*F2;
+Polished PIP Hematite +1;
+Power Player Citrine;
+Pyrosaurus Rex Ruby;
+Sir Lamorak Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+Maelstrom Snap Dragon;
+Queen Crape Myrtle*F2;
+
+| mounts =
+
+| spells =
+
+}}

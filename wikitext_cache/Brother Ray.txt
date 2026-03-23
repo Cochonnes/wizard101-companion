@@ -1,0 +1,120 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 5,715
+| crecla = Chameleon 
+| school = Balance
+| masteries =
+Ice;
+Storm;
+
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Fire;
+Ice;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+5%;
+
+| outboost =
+41%;
+
+| incboost =
+30% Fire;
+
+| incresist =
+15% Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+45% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Brother Sunn;
+
+| world = Krokotopia
+| location = Halls of Taweret
+| subloc1 = Covenant Base
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| spellnotes =
+*Casts an all enemies version of Hex.
+
+| casts =
+Tower Shield;
+Balanceblade;
+Hex;
+Angry Snowpig (Tier 5b);
+Lightning Bats (325);
+Triton (All Enemies);
+
+| quests =
+The Hunt for the Hidden Base;
+
+| gold =
+1 - 26;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Green Gem;
+Lunar-Emblem Bed;
+Selenopolis Combat Theme;
+Selenopolis Field of Reeds Theme;
+Selenopolis Forgotten Combat Theme;
+Selenopolis Theme;
+Selenopolis Zigazag Market Theme;
+
+| cards =
+Avenging Fossil;
+Storm Owl;
+Woolly Mammoth;
+
+| reagents =
+Amber Dust;
+Orichalcum;
+
+| spellements =
+
+| snacks =
+Spicy Stingers;
+Zen Poppers;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

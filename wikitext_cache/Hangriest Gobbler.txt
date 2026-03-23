@@ -1,0 +1,333 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 9,315
+| crecla = Gobbler
+| school = Myth
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+23%;
+
+| outboost =
+108%;
+
+| incboost =
+5% Storm;
+
+| incresist =
+70% Myth;
+
+| outhealing =
+
+| inchealing =
+45%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Hangry Gobbler (Balance);
+Hangry Gobbler (Death);
+
+| world = Karamelle
+| location = Gumdrop Forest
+| subloc1 = Hangry Gobbler Cave
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"Puny human, Gobbler hangriest there is. Give me meat and stuff and candy and bones. Or GOBBLER SMASH!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Karamelle
+| tome description =
+Don't make him hangry. You wouldn't like him when he's hangry
+
+| extract class =
+Gobbler;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Reliquary (6 Rounds);
+Frenzy;
+Mythblade;
+Myth Trap;
+Cleanse Ward;
+Humongofrog;
+Orthrus;
+Medusa;
+
+| quests =
+A Job from the Gnome Ranger;
+The Gobbler Job;
+
+| gold =
+265 - 375;
+
+| hats =
+Director Biohazard Hood;
+Producer's Survival Hood;
+
+| robes =
+Chief's Survival Suit;
+Director Hazmat Suit;
+Lead's Insulated Suit;
+Supervisor Biohazard Suit;
+Supervisor Protective Suit;
+
+| boots =
+Chief's Insulated Boots;
+Chief's Pressure Boots;
+Producer's Hazmat Boots;
+
+| athames =
+Supervisor Cryo Knife;
+
+| amulets =
+Chief's Cryo Rope;
+Director Pressure Rope;
+
+| rings =
+Chief's Hazmat Ring;
+
+| wands =
+Chief's Survival Meter;
+Producer's Cryo Meter;
+
+| decks =
+Director Protective Box;
+Director Thermal Box;
+Supervisor Biohazard Box;
+
+| items =
+Gum Drop Container;
+Karamelle Barrel;
+Karamelle City Combat Theme;
+Karamelle Forest Theme*F2;
+Karamelle Jingle Theme;
+Karamelle Rural Theme;
+Karamelle Worker Combat Theme;
+Karamelle Worker Theme;
+Licorice Tree*F2;
+Oil Drum;
+Rock Candy Mountains Poster;
+
+| cards =
+Death Prism;
+Dream Shield*F2*WMV;
+Elemental Blade;
+Elemental Defuse;
+Elemental Shield;
+Ether Shield;
+Firespear*F2;
+Flood;
+Frostbite;
+Ice Prism;
+Icespear;
+Lifespear;
+Link;
+Miniature Bloodbats;
+Myth Prism;
+Pungent Bug Spray*F2*WMV;
+Storm Prism;
+Storm Shield;
+Uncanny Magic;
+Zounds...Bees!;
+
+| reagents =
+Aether*F2;
+Amber;
+Amber Dust;
+Aquamarine*F2;
+Astral Shard*F3*WMV;
+Braided Vine*F2;
+Draconium;
+Fire Blossom*F2;
+Glass Sliver*F2;
+Golden Pearl*F7*WMV;
+Karamelle Chunk;
+Merle's Whisker*F3;
+Mithril*F2*WMV;
+Orichalcum;
+Scales;
+Silver*F2*WMV;
+Stardust;
+Steel;
+Sunstone*F2*WMV;
+Titanium;
+Toffee Bean*F4*WMV;
+Tungsten*F4*WMV;
+Turquoise;
+Vine;
+
+| spellements =
+Grrnadier*F2;
+Mockenspiel;
+S'more Machine;
+Shatterhorn;
+Snack Attack*F7*WMV;
+Sound of Musicology;
+Tatzlewurm Terror;
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate;
+Beast Wellington;
+Crackle Jacks Cereal*F2;
+Discord Grape Jelly*F4*WMV;
+Dragon Fruit;
+Eye Candy*F5*WMV;
+Fern Jelly;
+Glowing Star Fruit*F2*WMV;
+Glowing Taffy*F4*WMV;
+Hot Cross Buns;
+Krakamari;
+Pizza*F4*WMV;
+Rhubarbed Wire;
+Rock and Roll Candy*F6*WMV;
+Roly Poly Fishheads*F3*WMV;
+Satyr Chow*F2*WMV;
+Sprinkle Cupcake*F3;
+Tasty Rainbow;
+Waterworks Wonton*F3;
+
+| jewels =
+Balance Assailant Citrine;
+Balance-It Citrine;
+Death Striker Onyx;
+Death-Shot Onyx;
+Death-Ward Onyx;
+Fire Assailant Ruby;
+Fire-Away Ruby;
+Fire-Boon Ruby;
+Fire-Dealer Ruby;
+Healer Opal;
+Healthy Opal;
+Ice-Boon Sapphire;
+Ice-Giver Sapphire;
+Ice-Ward Sapphire;
+Life Striker Jade;
+Life-Boon Jade;
+Life-Bringer Jade;
+Life-Giver Jade;
+Life-Shot Jade;
+Life-Ward Jade;
+Medic Opal;
+Myth-Proof Peridot;
+Myth-Shot Peridot;
+Myth-Ward Peridot;
+Rage of Winter Sapphire;
+Shiny Accurate Onyx +12%;
+Shiny Blocking Opal +8;
+Shiny Critical Onyx +15;
+Shiny Defense Ruby +52;
+Shiny Healing Opal +6%;
+Shiny Health Opal +113;
+Shiny Health Opal +114;
+Shiny Mana Opal +45;
+Shiny Mana Opal +47*F2;
+Sparkling Accurate Citrine +13%;
+Sparkling Accurate Hematite +13%;
+Sparkling Accurate Jade +13%;
+Sparkling Accurate Ruby +13%;
+Sparkling Blocking Onyx +17;
+Sparkling Critical Sapphire +17;
+Sparkling Damage Amethyst +27*F2*WMV;
+Sparkling Damage Jade +27;
+Sparkling Damage Onyx +27;
+Sparkling Damage Ruby +27;
+Sparkling Damage Sapphire +27;
+Sparkling Defense Amethyst +53;
+Sparkling Defense Amethyst +54;
+Sparkling Defense Jade +53;
+Sparkling Defense Onyx +53;
+Sparkling Critical Onyx +17;
+Sparkling Health Opal +117*F2;
+Storm Assailant Amethyst;
+Storm Striker Amethyst;
+Storm-Away Amethyst;
+Stun Resistant Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Angel Oak;
+Angora Bunny Ears*F3*WMV;
+Baby Carrots*F3*WMV;
+Bell Pepper*F5*WMV;
+Blue Huckleberries*F2*WMV;
+Boiled Peanuts*F6*WMV;
+Boon Tree*CR;
+Bread Fruit Bush*F4;
+Burning Snap Dragon*F3;
+Cornbread Fruit Bush*F2*WMV;
+Dandelion;
+Deadly Fly Trap*F3*WMV;
+Deadly Ninja Fig*F4*WMV;
+Desparagus (Seed)*F2*WMV;
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Face Palm;
+Fickle Pickle;
+Fiery Boom Shroom;
+Fish on a Vine;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Grapes of Wrath*CR*F4*WMV;
+Helephant Ears;
+Honey Bee Plant*F2;
+Honey Sickle*F2;
+Ivy League*CR*F2*WMV;
+King Parsley*CR;
+Laugh-O-Dil;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily*F2;
+Missile Toe;
+Ninja Fig*CR;
+Pink Huckleberries*F5*WMV;
+Pink Laugh-O-Dil*F2;
+Purple Bell Pepper*F2*WMV;
+Purple Grapes of Wrath;
+Purple Snow Apples*F2;
+Queen Crape Myrtle;
+Red Bell Pepper*F3*WMV;
+Red Grapes of Wrath;
+Red Huckleberries*F6*WMV;
+Rye Bread Fruit Bush*F2*WMV;
+Saw Palmetto*F2*WMV;
+Snow Apples;
+Sour Fickle Pickle;
+Sugar Khrystal*CR*F2;
+Sword Fern*CR;
+Tiger Lily (Seed)*F4*WMV;
+Trumpet Vine;
+Ultra Boom Shroom;
+Ultra Dandelion;
+Ultra King Parsley;
+Venus Fly Trap;
+White Desparagus*F2*WMV;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,287 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 11,760
+| crecla = Qhat
+| crecla2 = Undead
+| school = Ice
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+15% Fire;
+
+| incresist =
+30% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minion = First Guardian (Death)
+| minion2 = First Guardian (Death)
+| minion3 = 
+| world = Mirage
+| location = Zruvan Grotto
+| subloc1 = House of Scrolls
+| descrip =
+Unlike most Mirage Creatures, Scrollkeeper lacks a Damage boost.
+*Uses Pip Conversion.
+
+| monstrology =
+{{Monstrology Info
+| tome world = Mirage
+| tome description =
+She keeps the scrolls. It's what she does. And nobody does it better.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Brace;
+Frozen Armor;
+Freeze;
+Cooldown;
+Natural Attack (Ice 105-210-315, 75%);
+Handsome Fomori;
+Frostbite (80+549);
+Colossus;
+Frost Giant (530);
+
+| quests =
+Zruvan Grotto;
+
+| gold =
+1,415 - 1,546;
+
+| hats =
+Alkali Kalpak of Fealty;
+Gallant Mottoman Helm;
+Mottoman Helm of Scruples;
+
+| robes =
+Alkali Armor of Fealty;
+Alkali Wintertide Armor;
+Charred Eerem Raiment;
+Eerem Raiment of Harmony;
+Eerem Raiment of Menace;
+Eerem Raiment of Pulse;
+Mottoman Uniform of Scruples;
+
+| boots =
+Alkali Burning Sands Walkers;
+Alkali Walkers of Vibrancy;
+Eerem Givehs of Discovery*F3*WMV;
+Eerem Givehs of Pulse;
+Mottoman Runners of Scruples*F3*WMV;
+
+| athames =
+Eerem Razor of Ability;
+Eerem Razor of Agony;
+Eerem Razor of Clangor;
+Eerem Razor of Discovery;
+Istanboa Khanjar of Enigmas;
+
+| amulets =
+Eerem Necklace of Agony;
+Eerem Necklace of Eruption;
+Eerem Talisman of Harmony;
+
+| rings =
+Eerem Band of Discovery;
+Eerem Band of Harmony;
+Eerem Band of Pulse;
+Eerem Signet of Ability;
+Eerem Signet of Agony;
+Eerem Signet of Elation;
+Istanboa Signet of Scruples;
+
+| wands =
+Myriarch Tabarzin of Musing
+
+| decks =
+Eerem Gallery of Agony;
+Eerem Gallery of Ciphers;
+Eerem Gallery of Frostfall;
+Eerem Spread of Harmony;
+Eerem Spread of Menace;
+Eerem Spread of Pulse;
+Istanboa Array of Enigmas;
+Istanboa Array of Ruin;
+Istanboa Heatwave Array;
+
+| items =
+Mirage Canyon Combat Theme;
+Mirage Canyon Theme 1;
+Mirage Canyon Theme 2;
+Mirage Caravan Theme*F2;
+Mirage Chronoverge Com Theme;
+Mirage City Tense Theme*F2;
+Mirage Desert Combat Theme;
+Mirage Jungle Combat Theme;
+Mirage Jungle Theme*F2;
+Mirage Nomad Theme*F2;
+
+| cards =
+Astraphobia*F2;
+Balefrost;
+Blue Phoenix;
+Coldiron;
+Counterforce*F2;
+Crystal Spider;
+Death Troll;
+Firespear;
+Frostfang;
+Icebird;
+Mythspear;
+Namaste;
+Nested Fury;
+Raging Bull;
+Saga of Heroes;
+Shift*F2;
+Spirit Spear;
+Steel Colossus*F2;
+Stone Colossus;
+Stormspear;
+Witch's House Call;
+
+| reagents =
+Aether*F2;
+Agave Leaves*F3*WMV;
+Agave Nectar*F3*WMV;
+Amber*F2*WMV;
+Amber Dust*F2;
+Aquamarine*F5*WMV;
+Astral Shard*F8*WMV;
+Draconium;
+Fire Blossom*F2;
+Fish Fin*F5*WMV;
+Glass Sliver*F2;
+Golden Pearl*F9*WMV;
+Iridium*F2;
+Merle's Whisker;
+Mithril*F7*WMV;
+Scales*F7*WMV;
+Silver*F5*WMV;
+Stardust*F2;
+Steel*F5*WMV;
+Sunstone*F10*WMV;
+Titanium*F4;
+Tungsten*F5*WMV;
+Turmeric;
+Turquoise*F3;
+Vine*F5*WMV;
+
+| snacks =
+Antheneum Delight;
+Beast Wellington*F3*WMV;
+Beetle Cream Soda*F4*WMV;
+Bread Fruit Fruit;
+Chalupacabra*F3*WMV;
+Eye Candy*F4*WMV;
+Frosty Sugar Cubes;
+Hard Boiled Beetle Eggs*F4*WMV;
+High Road Haggis*F2*WMV;
+Hot Cross Buns*F6*WMV;
+Mustachios*F3*WMV;
+Satyr Chow*F8*WMV;
+Ships 'n' Queso*F4;
+Veggie Juice*F5*WMV;
+Wheat Cracker;
+
+| jewels =
+Epic Opal;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Citrine +13;
+Lustrous Blocking Jade +13;
+Lustrous Blocking Onyx +13*F3*WMV;
+Lustrous Critical Amethyst +13;
+Lustrous Critical Citrine +13;
+Lustrous Critical Jade +13;
+Lustrous Critical Peridot +13;
+Lustrous Critical Ruby +13;
+Lustrous Damage Amethyst +23*F2;
+Lustrous Damage Citrine +23;
+Lustrous Damage Peridot +23;
+Lustrous Damage Sapphire +23;
+Lustrous Defense Jade +45;
+Lustrous Defense Onyx +45;
+Lustrous Health Opal +100;
+Lustrous Mana Opal +42;
+Lustrous PIP Opal +10%;
+Shiny Blocking Jade +16;
+Shiny Critical Amethyst +16;
+Shiny Defense Hematite +52;
+Shiny Defense Jade +52;
+Shiny Defense Onyx +52;
+Shiny Defense Sapphire +51;
+Shiny Defense Sapphire +52;
+Shiny Health Opal +111;
+Shiny Health Opal +112;
+Shiny Health Opal +113*F3*WMV;
+Shiny Health Opal +114;
+Shiny Mana Opal +46*F2;
+
+| pets =
+MaCaw*CR*F3;
+
+| seeds =
+Bamboo Shoots;
+Bell Pepper*F2*WMV;
+Blue Huckleberries;
+Boiled Peanuts;
+Boon Tree*CR;
+Bread Fruit Bush;
+Cornbread Fruit Bush*F2;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Face Palm;
+Fish on a Vine;
+Frozen Fly Trap*F2;
+Goose Tree;
+Helephant Ears;
+Honey Bee Plant;
+Honey Sickle*F2;
+Ivy League*CR;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily;
+Missile Toe;
+Orange Bell Pepper;
+Orange Dandelion;
+Pink Huckleberries;
+Prickly Bear Cactus;
+Queen Crape Myrtle;
+Red Couch Potatoes;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Snow Apples*F2;
+Sugar Khrystal*CR;
+Tiger Lily (Seed);
+Venus Fly Trap;
+White Desparagus;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

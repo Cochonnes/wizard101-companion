@@ -1,0 +1,175 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,400
+| crecla = Goliath
+| crecla2 = Insect
+| school = Storm
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Shadow-Web Haunt (Zafaria);
+
+| world = Zafaria
+| location = Baobab Crown
+| subloc1 = Zafaria Student Dormitory
+| descrip =
+Two additional Shadow-Web Haunts (Zafaria) appear if more than two Wizards are present.
+
+| speech =
+:'''Simone Brightlance:''' ''"Don't eat me! Please don't eat me! I really-really don't want to be eaten! Help!"''
+:'''Goliath Bra'kym'tra:''' ''"Must... collect... fleshling!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Zafaria
+| tome description =
+He's not much of a talker. Really more of an eater.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Stormblade;
+Storm Trap;
+Lightning Bats;
+Natural Attack (Storm 125-265-405, 70%);
+Kraken;
+Stormzilla;
+Tempest (6 Pip);
+Triton;
+Tempest;
+
+| quests =
+Lost Your Way;
+
+| gold =
+81 - 103;
+
+| hats =
+Bushfire Hat*F3*WMV;
+Cold Chieftain's Mask;
+Courageous Grower's Hat*F3;
+Elephant Graveyard Shroud*F3;
+Wise Hunter's Helmet;
+
+| robes =
+Graveyard Shift*F2*WMV;
+Jacket of No Worries*F5*WMV;
+
+| boots =
+Baxby's Noble Trackers;
+Life's Circle Safari Boots*F3*WMV;
+Nemean Rock Climbers*F2;
+
+| athames =
+Prideful Paw*F4*WMV;
+
+| amulets =
+Shango's Shield Pendant;
+
+| rings =
+Kallah's Dread Stone*F2;
+Mandisa's Star Stone;
+Mansa's Dream Stone;
+Nergal's Burning Brand;
+Tanei's Ghost Ring;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Insane Bolt*F4*WMV;
+Monstrous*F6*WMV;
+Polymorph Colossus;
+Polymorph Treant;
+Supercharge*F4*WMV;
+Vengeance*F3*WMV;
+
+| reagents =
+Bone;
+Bronze;
+Cobalt;
+Leather Straps*F3;
+Nickel;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2;
+Delicious Cookie;
+Flaming Soup;
+Flapjacks;
+Glowing Star Fruit;
+Glowing Taffy*F4*WMV;
+Goat Cheese;
+Golden Apple;
+Golden Grapes*F2;
+King Banana*F2;
+Kola Nuts;
+Spicy Drumstick;
+Strawberry Cupcake;
+Submarine Sandwich*F2;
+
+| jewels =
+Opaque Blocking Sapphire +7;
+Opaque Piercing Onyx +4%;
+Pip O'Plenty Opal;
+Plain Damage Citrine +16;
+Unbreakable Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Burning Snap Dragon;
+Evil Snow Peas;
+Helephant Ears*F3*WMV;
+Orange Bell Pepper*CR;
+Red Bell Pepper;
+Rye Bread Fruit Bush*F2*WMV;
+Snap Dragon*F2*WMV;
+Trumpet Vine;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

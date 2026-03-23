@@ -1,0 +1,117 @@
+{{Stub|which version of the ''{{Link|TreasureCard|Shatter}} Treasure Card'' this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,720
+| crecla = Giant
+| school = Myth
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Frost Troll;
+
+| world = Grizzleheim
+| location = Sudrilund
+| subloc1 = Ildrede's Warren
+| descrip =
+Ildrede is the Frost Troll who captured the {{Link|Pet|Humongofrog}} Egg and plans to eat it.
+
+| speech =
+:''"What do we have here?  A little meat to go along with our egg!  Get 'em!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 90 Myth Damage per Pip.
+
+| casts =
+Storm Shield;
+Mythblade;
+Myth Trap;
+Yellow Troll;
+Humongofrog;
+Minotaur;
+Earthquake;
+Orthrus;
+
+| quests =
+Frozen Omelet;
+
+| gold =
+67 - 81;
+
+| hats =
+Barbaric Helm;
+
+| robes =
+Coat of Justice;
+Horned Helm of Courage;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+Ring of the Wolf Warrior;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Shatter;
+Talos;
+
+| reagents =
+Spider Silk;
+Steel;
+
+| spellements =
+
+| snacks =
+Flaming Soup;
+Glowing Dragon Fruit;
+Golden Apple;
+Golden Grapes;
+Strawberry Cupcake;
+Submarine Sandwich;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

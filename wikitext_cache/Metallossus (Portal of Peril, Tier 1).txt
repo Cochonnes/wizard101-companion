@@ -1,0 +1,103 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 6,440
+| crecla = Colossus
+| school = Balance
+| startpips = 1
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Portal of Peril
+| location = Sinbad & the Iron Sultan Gauntlet (Portal of Peril)
+| subloc1 = Metallos (Portal of Peril)
+| descrip =
+Metallossus is one of two secret bosses that can appear in the Sinbad & the Iron Sultan Gauntlet, the other of which being [[Creature:Leadite (Portal of Peril, Tier 1)|Leadite]]. Found behind a false wall between the [[Creature:Metaltaur (Portal of Peril, Tier 1)|Metaltaur]] and [[Creature:Chromeclops (Portal of Peril, Tier 1)|Chromeclops]] encounters, Metallossus will not appear during every run, and will only be present if the Leadite is not.<br/><br/>
+
+This Boss is nearly identical to [[Creature:Metallossus (Tier 2)|Metallossus (Tier 2)]].
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Conviction;
+Vengeance;
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Elemental Trap;
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Judgement;
+
+| quests =
+
+| dropnotes =
+This Boss will always drop 5 Fortune Coins.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Fortune Coin @ 5 Fortune Coins;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Scrappy Gryphon;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Metallossus
+}}

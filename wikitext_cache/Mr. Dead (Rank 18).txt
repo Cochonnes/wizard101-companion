@@ -1,0 +1,199 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 43,985
+| crecla = Horse
+| crecla2 = Equine 
+| school = Death
+| school2 = Storm
+| startpips = 5
+| powerpips = Yes
+| critical =
+246 Any;
+
+| criticalblock =
+198 Any;
+
+| outpierce =
+27%;
+
+| outboost =
+110%;
+
+| incboost =
+5% Myth, Life;
+
+| incresist =
+70% Storm, Death;
+
+| outhealing =
+45%;
+
+| inchealing =
+50%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Earl the Eater;
+Pesky Pete;
+Mane the Mauler;
+
+| world = Wizard City
+| location = The Drains
+| subloc1 = Mr. Dead's Lair
+| descrip =
+This is the Rank 18 Boss version, not to be confused with the Rank 17 Elite version, {{Link|Creature|Mr. Dead (Rank 17)}}.
+
+| speech =
+:'''Mane The Mauler''': ''"You really got yourself into it this time, kiddo. We are here to destroy the Spiral, but not in the ways we told ya"''
+:'''Pesky Pete''': ''"Yeah, fluoride in the water? Really? You believed that?"''
+:'''Earl the Eater''': ''"Our schemes were indeed quite ludicrous. But they served their purpose: to find the one willing to quash them and bring you here"''
+:'''Mr. Dead''': ''"You see, Wizard, the apocalypse isn't just about destruction. Any idiot can destroy. But to truly end the world, you must steal hope. And that's you. I know you, Scion. You traveled the dark corners of the Spiral and faced the monsters lurking within. And you'll keep doing it. Unless we trample you first. Then the Spiral loses its bright light and nothing will stop the nightmares to come."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+Started the Four Horseguys because there's just too much world and he wanted to end some of it.
+
+| extract class =
+Equine;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes = 
+
+| casts =
+Berserk;
+Empowerment;
+Infallible;
+Galvanic Field;
+Dream Shield;
+Thermic Shield;
+Infection;
+Plague;
+Mass Infection;
+Virulent Plague;
+Bad Juju;
+Healing Current;
+Dark Pact (+30%);
+Stormblade (+30%);
+Supercharge;
+Elemental Blade;
+Curse;
+Feint;
+Windstorm;
+Disarm;
+Cleanse Charm;
+Enfeeble;
+Doom and Gloom;
+Age of Reckoning;
+Darkwind;
+Astraphobia;
+Death Scarab (Death);
+Red Banshee;
+Lord of Night;
+Deer Knight;
+Death Cyclops;
+Natural Attack (Death 105-210-315-420);
+Poison;
+Death Ninja Pig (Death);
+Wraith;
+Wraith (575);
+Scarecrow;
+Dr. Von's Monster;
+Storm Beetle (125);
+Storm Serpent (230);
+Storm Elf (30+273);
+Catalan;
+Natural Attack (Storm 125-250-375-500);
+Storm Cat;
+Storm Lord;
+Storm Dragon;
+Leviathan;
+Sirens;
+Storm Owl;
+Tempest;
+
+| quests =
+Defeating a Dead Horse;
+
+| gold =
+690;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Brain Jar*F2*WMV;
+Crab Alley Chaise;
+Fish;
+Roasted Drumstick*F2;
+Watermelon Slice;
+WC Catacombs Theme;
+WC Drains Theme*F2;
+
+| cards =
+
+| reagents =
+Alchemical Extract*F4;
+Alchemical Salts*F4;
+Ancient Scroll;
+Antique Coins;
+Black Pearl*F2;
+Blood Moss*F3;
+Brass;
+Bronze Gear;
+Cobalt;
+Ectoplasm;
+Nickel;
+Scales*F2;
+Spider Silk;
+Spring*F2*WMV;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F2*WMV;
+Cherry Pie;
+Eye Candy;
+Glowing Taffy;
+Hot Cross Buns;
+Rock and Roll Candy;
+Satyr Chow;
+Wheat Cracker;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

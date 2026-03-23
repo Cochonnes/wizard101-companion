@@ -1,0 +1,105 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 1,700
+| crecla = Insect 
+| school = Storm
+| school2 = Life
+| startpips = 1
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
++25 Ice, Death;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = No
+| minions =
+Deep Spawn (Storm, Rank 1);
+
+| world = Housing Instance
+| location = Liches & Legends Gauntlet
+| subloc1 = 
+| descrip =
+Defeating the Deep Spawn Queen in this fight will cause her to not be present in the fight against King Avernus.
+
+| speech =
+
+| spellnotes =
+*Casts a 0-Pip Natural Attack that deals 100 Storm Damage.
+*Casts a 1-Pip version of Storm Shark that deals 200 Storm Damage.
+*Casts a 2-Pip version of Catch of the Day that deals 300 Storm Damage and applies a +100 Damage Charm on caster.
+*Casts a 1-Pip version of Nature's Wrath that deals 200 Life Damage.
+*Casts a 2-Pip version of Goat Monk that deals 300 Life Damage and restores 150 Health over 3 Rounds to caster.
+
+| casts =
+
+| quests =
+Liches & Legends;
+
+| gold =
+5 - 32;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Druid Symbol Floor*CR;
+Elephant Sword Rack;
+Gold Swords and Shield;
+Gorilla Tree Throne*F2*WMV;
+Large Wooden Elephant Head;
+Tall Gorilla Mask;
+Wolf Standee*CR;
+
+| cards =
+
+| reagents =
+Graph Paper @ 2 Graph Paper;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Brilliant Opal;
+Storm-Giver Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Deep Spawn Queen
+}}

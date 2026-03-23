@@ -1,0 +1,141 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 3,220
+| crecla = Bear 
+| school = Balance
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+2%;
+
+| outboost =
+29%;
+
+| incboost =
+None;
+
+| incresist =
+7% Fire, Ice, Storm, Myth, Life, Death, Shadow;
+27% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Doomed Bones (Challenge);
+Doomed Bones (Challenge);
+Doomed Bones (Challenge);
+
+| world = Wizard City
+| location = Mount Olympus (Challenge)
+| subloc1 = Pit of the Noxii (Challenge)
+| badge = Are You Not Entertained?
+| descrip =
+*Wizard must complete the quest {{Link|Quest|Pit of the Noxii}} in Standard Mode quest to Access this boss.
+*For the Standard version of this battle, see {{Link|Creature|Gladiator Dimachaerus}}.
+
+'''Advanced Combat Rules:'''
+*Wizards stats and spells are scaled to Level 30.
+*Spell Decks cannot be changed while in this instance.
+*No-PvP spells are disallowed in this fight.
+*PvP-Only Spells are allowed in this fight.
+*Snake Turn Order Combat.
+*Wizards cannot re-join combat after fleeing mid-combat.
+
+'''Additional Notes:'''
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Round}} ''"I can smell your weakness"'' - At the beginning of every Round, Gladiator Dimachaerus will cast his Natural Attack on the Wizard with the lowest current health, which deals '''180''' Balance Damage and has an additional effect based on the attacked Wizard's School:
+**{{Icon|Storm}} or {{Icon|Death}} - A +55% version of {{Link|Spell|Hex}}
+**{{Icon|Ice}} or {{Icon|Myth}} - A Damage over Time that deals '''150''' Balance Damage over 3 Rounds
+**{{Icon|Life}} or {{Icon|Fire}} or {{Icon|Balance}} - A -35% version of {{Link|Spell|Weakness}}
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Weakness;
+Elemental Weakness;
+Spirit Weakness;
+Hex;
+Scorpion;
+Locust Swarm;
+
+| quests =
+
+| dropnotes = 
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic: Aquila Badges|Swole Like Sisyphus]]''' {{Icon|Swole Like Sisyphus}} Badge, the following drops will be available:
+*{{Icon|Spellement}} 1-2 Aquila Spellements will drop each time from '''any''' School
+
+| gold =
+21;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Board of Gorgon Imprisonment (Level 30+);
+Board of Gorgon Infamy (Level 30+);
+Board of Gorgon Petrification (Level 30+);
+Board of Gorgon Suffering (Level 30+);
+Board of Gorgon Venom (Level 30+);
+Board of Gorgon Volatility (Level 30+);
+Board of Gorgon's Gaze (Level 30+);
+
+| items =
+
+| cards =
+
+| reagents =
+Amber;
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Gladiator Dimachaerus
+}}

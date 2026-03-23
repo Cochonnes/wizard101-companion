@@ -1,0 +1,126 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 5,200
+| crecla = Gorilla
+| school = Storm
+| startpips = 4
+| powerpips = Yes
+| critical =
+72;
+
+| criticalblock =
+38;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Zafaria
+| location = Stone Town
+| subloc1 = Kasbah of Zanj
+| descrip =
+Conjurers must defeat Warlord Varos during the Level 75 Minion Quest, The Magic of Vassanji.
+
+| speech =
+:''"They say it is folly to challenge a Wizard.  Tomorrow, prudence shall be our watchword.  Today, I shall soak the land in blood!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Windstorm;
+Wild Bolt;
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Tempest;
+
+| quests =
+The Magic of Vassanji;
+
+| gold =
+54 - 75;
+
+| hats =
+
+| robes =
+Bad Storm Armor;
+Brave One's Plate;
+Cold River Cloak;
+Fire Spirits' Toasty Tunic;
+Honor Bound Surcoat;
+Outsider's Symmetrical Jacket;
+Robes of the Silent Hunter;
+Shaman's Storm Sky Cloak;
+Witch Doctor's Fiery Garb;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Helephant*F2;
+Minotaur;
+Phoenix;
+Skeletal Pirate;
+Spectral Blast;
+Stormzilla;
+Triton;
+
+| reagents =
+Cat Tail*F2;
+Deep Mushroom;
+Lava Lily;
+Mist Wood;
+Ore;
+Red Mandrake;
+Steel;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Giant Talent Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

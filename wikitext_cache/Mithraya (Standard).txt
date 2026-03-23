@@ -1,0 +1,149 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 59,800
+| crecla = Celestian
+| school = Sun
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+34%;
+
+| incboost =
+None;
+
+| incresist =
+261% Ice;
+300% Storm, Myth, Life, Death, Balance, Moon, Star, Shadow;
+330% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Ptolemos (Standard);
+Astraeus (Standard);
+
+| world = Housing Instance
+| location = Mithraya Rematch
+| descrip =
+As the primary Boss in this battle, all drops are recorded on this page.
+*For the Challenge version of this battle, see {{Link|Creature|Mithraya (Challenge)}}.
+
+| speech =
+
+| cheatnotes =
+{{Icon|Sun}} '''Mithraya'''
+*{{Icon|Spell}} ''"The sun consumes all into itself!"'' - When Astraeus or Ptolemos are defeated, Mithraya will give Wizards Mutate Spells to transform certain Spells into Sun Damage versions. The following is a list of Spells Wizards will receive:
+**{{Icon|Balance}} - {{Link|Spell|Mutate Ra}} → {{Link|Spell|Sun Ra}}
+**{{Icon|Death}} - {{Link|Spell|Mutate Dragon}} → {{Link|Spell|Sun Dragon}}
+**{{Icon|Fire}} - {{Link|Spell|Mutate Efreet}} → {{Link|Spell|Sun Efreet}}
+**{{Icon|Ice}} - {{Link|Spell|Mutate Snow Angel}} → {{Link|Spell|Sun Angel}}
+**{{Icon|Myth}} - {{Link|Spell|Mutate Medusa}} → {{Link|Spell|Sun Medusa}}
+**{{Icon|Life}} - {{Link|Spell|Mutate Forest Lord}} → {{Link|Spell|Sun Lord}}
+**{{Icon|Storm}} - {{Link|Spell|Mutate Leviathan}} → {{Link|Spell|Sun Leviathan}}
+**{{GivesSpell|spells = 7|size = x150px|Mutate Ra|Mutate Dragon|Mutate Efreet|Mutate Snow Angel|Mutate Medusa|Mutate Forest Lord|Mutate Leviathan}}
+
+{{Icon|Moon}} '''Ptolemos'''
+*{{Icon|Polymorph}} ''"The Moon shifts phase!"'' - When Astraeus is defeated, Ptolemos will Polymorph the Wizard that attacked into a random Polymorph ''(more details needed)'':
+**A version of {{Link|Polymorph|Fire Elemental}} that has 300 Universal Resist.
+**A version of {{Link|Polymorph|Colossus}} that has 300 Universal Resist.
+**A version of {{Link|Polymorph|Storm Elemental}} that has 300 Universal Resist.
+**A version of {{Link|Polymorph|Treant}} that has 300 Universal Resist.
+*{{Icon|Afterlife}} ''"The Moon goes dark"'' - When Ptolemos is defeated, he will remove the Polymorph.
+
+{{Icon|Star}} '''Astraeus'''
+*{{Icon|Aura}} ''"Our fate is written in the stars!"'' - At the beginning of the first Round, Astraeus will cast '''+10%''' Damage version of {{Link|ItemCard|Reinforce}} on its whole team, and a '''-10%''' Damage version of {{Link|ItemCard|Bulwark}} on all Wizards.
+**This cheat will repeat at the beginning of every Round, increasing the Auras by 10% each Round until they reach 50%, where the 50% versions keep getting cast every round.
+*{{Icon|Afterlife}} ''"The stars fall silent"'' - When Astraeus is defeated, he will cast a no-Damage version of Supernova on all allies and enemies.
+
+| spellnotes =
+*Casts a protected Sun Blade (0 Pip).
+
+| casts =
+Sun Blade (0 Pip);
+Meteor Strike (2 Pip);
+Athena Battle Sight (Sun, 3 Pip);
+Spirited Minotaur (3 Pip);
+Helephant (4 Pip);
+Orthrus (5 Pip);
+Fire Dragon (5 Pip);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Umbra Queen's Chill Totem (Level 170+);
+Umbra Queen's Dusty Totem (Level 170+);
+Umbra Queen's Furious Totem (Level 170+);
+Umbra Queen's Grim Totem (Level 170+);
+Umbra Queen's Scorched Totem (Level 170+);
+Umbra Queen's Shocked Totem (Level 170+);
+Umbra Queen's Wild Totem (Level 170+);
+
+| rings =
+Umbra Queen's Chill Loop (Level 170+);
+Umbra Queen's Dusty Loop (Level 170+);
+Umbra Queen's Furious Loop (Level 170+);
+Umbra Queen's Grim Loop (Level 170+);
+Umbra Queen's Scorched Loop (Level 170+);
+Umbra Queen's Shocked Loop (Level 170+);
+Umbra Queen's Wild Loop (Level 170+);
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Shadow Webbing @ 10 Shadow Webbing;
+
+| spellements =
+Fire Dragon;
+Forest Lord;
+Frost Giant;
+Orthrus;
+Power Nova;
+Scarecrow;
+Storm Lord;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Mithraya
+}}

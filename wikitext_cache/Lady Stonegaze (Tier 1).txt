@@ -1,0 +1,160 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 2,700
+| crecla = Gorgon
+| school = Myth
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+50%;
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Garden of Hesperides
+| subloc1 = Stonegaze's Chamber
+| badge = Gorgon Grappler
+| descrip =
+Lady Stonegaze (Tier 1) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Immortal's Spellemental Pack}}.
+*This Tier is for level 1-35 Wizards.
+
+| speech =
+
+| cheatnotes =
+*''"Mind your gaze, lest ye be turned to stone!"'' - Lady Stonegaze (Tier 1) gives a warning at the beginning of the first Round. 
+*{{Icon|Polymorph}} ''"Haha! Another statue for my garden!"'' - If a Wizard casts any Spell on Lady Stonegaze (Tier 1), including AoE and Global Spells, she will Polymorph the Wizard into {{Link|Polymorph|Statue}} for 99 Rounds.
+**Polymorph has a deck of 77 Cards, all being {{Link|Spell|Pass}} Cards, except for one {{Link|Spell|Break Free (Myth)}} Card.
+**If Lady Stonegaze (Tier 1) was damaged or defeated by a Spell that is not from the Blindfolded Hits, she will use a Moon version of {{Link|Spell|Blessing}} to restore 100% max Health on herself.
+
+*{{Icon|Round}} At the end of every other Round, one of the following Spells is given to all Wizards who aren't Polymorphed:
+**{{GivesSpell|spells = 7|size = x150px|Blindfolded Hit (Balance, Tier 1)|Blindfolded Hit (Death, Tier 1)|Blindfolded Hit (Fire, Tier 1)|Blindfolded Hit (Ice, Tier 1)|Blindfolded Hit (Life, Tier 1)|Blindfolded Hit (Myth, Tier 1)|Blindfolded Hit (Storm, Tier 1)}}
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Mass Myth Trap;
+Mythic Fuel;
+Keeper of the Flame;
+Cyclops (Tier 2a);
+Athena Battle Sight (Tier 2a);
+Humongofrog;
+Queen Calypso (Tier 2b);
+Hephaestus (Tier 2);
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+
+| hats =
+Aquilan Charioteer Kalkris (Level 20+)*CR;
+Aquilan Secutor Kalkris (Level 20+)*CR;
+Aquilan Secutor Kalkris (Level 30+)*CR*F2;
+
+| robes =
+Aquilan Charioteer Hamata (Level 20+)*CR;
+Aquilan Secutor Hamata (Level 20+)*CR*F2;
+Aquilan Secutor Hamata (Level 30+)*CR;
+Aquilan Velite Hamata (Level 30+)*CR;
+
+| boots =
+Aquilan Charioteer Greaves (Level 30+)*CR;
+Aquilan Secutor Greaves (Level 20+)*CR;
+Aquilan Secutor Greaves (Level 30+)*CR*F2;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Aquilan Charioteer Lance (Level 20+)*CR*F2;
+Aquilan Secutor Lance (Level 20+)*CR;
+Aquilan Secutor Lance (Level 30+)*CR*F2;
+Aquilan Velite Lance (Level 30+)*CR;
+
+| decks =
+
+| items =
+Aquila Atlantea Theme;
+Aquila Boss Combat Theme*F3;
+Aquila Combat Theme;
+Aquila Tartarus Theme;
+Atlantean Arch*F3;
+Banner of Apollo;
+Gold Skeleton Key*CR;
+Hades the Unseen Mural*F2;
+Nine Fathoms Pedestal*F2;
+Novice's Socket Wrench;
+Olympian Herb;
+Stone Skeleton Key*CR;
+Underworld Brazier*F2;
+Wooden Skeleton Key*CR;
+
+| cards =
+Azoth;
+Athena Battle Sight*F2;
+Hephaestus*F3*WMV;
+Queen Calypso;
+
+| reagents =
+Copper;
+Iron;
+Nickel;
+Participation Trophy;
+Tin;
+
+| spellements =
+Athena Battle Sight*F5*WMV;
+Athena Battle Sight @ 2 Athena Battle Sight*F2;
+Athena Battle Sight @ 16 Athena Battle Sight;
+Hephaestus*F8*WMV;
+Hephaestus @ 2 Hephaestus*F2;
+Queen Calypso*F5*WMV;
+Queen Calypso @ 2 Queen Calypso;
+
+| snacks =
+
+| jewels =
+Chipped Defense Sapphire +13;
+Downer Opal;
+Slowpoke Opal;
+
+| pins =
+
+| pets =
+Enchanted Armament*CR;
+Golden Ram*CR;
+Li'l Siren*CR;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

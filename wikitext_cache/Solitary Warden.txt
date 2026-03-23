@@ -1,0 +1,226 @@
+{{Stub|which version of the '''Mutate''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 12,745
+| crecla = Polar Bear
+| school = Life
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Iron Paw;
+
+| world = Polaris
+| location = The Basstille
+| subloc1 = Cell Block B
+| descrip =
+
+| speech =
+:''"Hello! Please, come in. Come in! We never get visitors here! How can I help you, my friend? You've come to resuce Dufresne? Oh. Sorry. I cannot allow that. And I cannot allow you to leave either. I will figure out the logistics of two prisoners in solitary later. Come here!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Polaris
+| tome description =
+The Solitary Ward was designed to break spirits and destroy minds.  As the officer in charge, the Solitary Warden was no exception.
+
+| extract class =
+Polar Bear;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Legend Shield (-50%);
+Spirit Armor;
+Rebirth;
+Luminous Weaver;
+Natural Attack (Life 105-205-305);
+Goat Monk;
+Centaur;
+Gnomes!;
+
+| quests =
+Save Him From... Himself?;
+Basstille Redemption;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge and has not unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge, the following drops will be available:
+*9 Spellements will drop each time from '''any''' School for their respective rank 8, 9, 10, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+108 - 359;
+
+| hats =
+Hailstorm Tundra Ushanka;
+The Kroktop*CR;
+The Manticore*CR;
+Urville Papakh of Wintertide;
+
+| robes =
+Hailstorm Tundra Suit;
+
+| boots =
+Blizzardy Tundra Snowshoes;
+Sweltery Tundra Boots;
+
+| athames =
+Mage's Hardy Edge;
+Urville Knife of Elation;
+Urville Lancet of Anguish;
+
+| amulets =
+Urville Bauble of Flames;
+Urville Charm of Snowgusts*F2*WMV;
+
+| rings =
+Inspector's Band of Shivers;
+Inspector's Ring of Grief*F2;
+Inspector's Seal of Pluck;
+Iron Paw's Steadfast Band;
+Mage's Dolorous Ring;
+
+| wands =
+Axe of Tundra Blizzards;
+Tundra Bardiche of Ferocity;
+Tundra Bardiche of Mayhem;
+Tundra Survival Hatchet;
+
+| decks =
+Mage's Cards of Aplomb;
+Tundra Hand of Loyalty;
+Tundra Survivor's Pack;
+
+| items =
+Arcanum Theme;
+Medium Enchanted Pot;
+Medium Pot;
+Polaris Frozen Combat Theme*F2;
+Polaris Gulag Combat Theme;
+Polaris Gulag Theme;
+Polaris Ice Block Theme;
+Polaris Mine Combat Theme;
+Polaris Rasputin Combat Theme;
+Small Enchanted Pot;
+Small Pot;
+Walruskberg Combat Theme*F2*WMV;
+Walruskberg Theme;
+
+| cards =
+Age of Reckoning;
+Combustion;
+Dragonspear;
+Icebird;
+Mutate Beetle (Fire);
+Mutate Bird (Ice);
+Mutate Cat (Storm);
+Mutate Phoenix (Sun);
+Mutate Shark (Fire);
+Mutate Snake (Fire);
+Mutate Snowman;
+Mutate Wyvern (Sun);
+Mythspear;
+Steel Colossus;
+Yellow Troll;
+
+| reagents =
+Aether;
+Agave Leaves;
+Amber Dust;
+Aquamarine*F3*WMV;
+Fish Fin*F3*WMV;
+Golden Pearl*F2;
+Mithril*F4*WMV;
+Scales*F2*WMV;
+Silver*F4*WMV;
+Stardust;
+Steel*F2;
+Sunstone*F4*WMV;
+Tungsten*F4*WMV;
+Vine*F3*WMV;
+
+| spellements =
+Basilisk*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Medusa*BR;
+Sirens*BR;
+
+| snacks =
+Aztecan Hot Chocolate;
+Beast Wellington*F2;
+Chalupacabra;
+Deepwater Toffee;
+Eye Candy*F5*WMV;
+Frozen Snails*F2*WMV;
+Green Tomato;
+Hot Cross Buns*F2*WMV;
+Jolly Rancher*F2;
+Mustachios*F3*WMV;
+Penne Dreadful;
+Polaris Fries;
+Rhubarbed Wire;
+Satyr Chow;
+Veggie Juice*F4*WMV;
+
+| jewels =
+Polished Blocking Citrine +11;
+
+| pins =
+
+| pets =
+Intrepid Seal Pup;
+Mountain Yeti*CR;
+
+| seeds =
+Angel Oak;
+Cornbread Fruit Bush;
+Evil Snow Peas;
+Goose Tree*F3;
+Green Snow Apples;
+King Parsley*CR*F2;
+Ninja Fig*CR*F3*WMV;
+Purple Snow Apples;
+Queen Crape Myrtle;
+White Desparagus;
+White Laugh-O-Dil*F3*WMV;
+White Tiger Lily*F2;
+
+| mounts =
+
+| spells =
+
+}}

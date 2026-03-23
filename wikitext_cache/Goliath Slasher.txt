@@ -1,0 +1,222 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 10,160
+| crecla = Goliath
+| crecla2 = Insect
+| school = Death
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Goliath Stinger;
+
+| world = Khrysalis
+| location = Silent Market
+| subloc1 = Blind Tower
+| descrip =
+
+| speech =
+:''"Fleshling... why come here?  Gate rune?  You bother... I crush now!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+They only slash. Union rules. Stinging is another department.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Deathblade;
+Natural Attack (Death 105-120-295);
+Vampire;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+Skeletal Dragon;
+Dr. Von's Monster;
+
+| quests =
+Blind Leads;
+
+| gold =
+124 - 191;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*5 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+If a Wizard already has the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of Morganthe's Chamber to acquire a [[Item:Level Scaling Elixir - 100|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| hats =
+Burrower's Rainstorm Cap;
+Digger Drone Tactical Helm*F3;
+Mantis Cowl of Purpose*F3*WMV;
+
+| robes =
+
+| boots =
+Digger Drone Boots of Duty*F6*WMV;
+Flame Legs Coalwalkers;
+Leaf Shield Brisk Walkers*F3*WMV;
+Mantis Boots of Patience;
+
+| athames =
+Mouse Knight's Shortsword*F2*WMV;
+SkyScreamer's Cutter*F4;
+
+| amulets =
+Night Flame Choker*F3;
+Relic of Thriving Bastion*F3*WMV;
+
+| rings =
+
+| wands =
+SnowFur's Longblade*F2;
+StormSky's Edge*F2;
+
+| decks =
+Barbed Case of Stratagem;
+Cell of Survival;
+Gallery of the Woebegone;
+LimeBlight's Gallery;
+
+| items =
+Khrysalis Bastion Theme;
+Khrysalis Thrives Theme*F2*WMV;
+
+| cards =
+Crystal Spider*F2*WMV;
+Disarm;
+Fire Beetle;
+Pierce;
+Sanctuary;
+Scorpion;
+Storm Beetle;
+
+| reagents =
+Black Lotus*F3*WMV;
+Blood Moss;
+Bone*F4*WMV;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F9*WMV;
+Fire Blossom*F2;
+Fossil*F2*WMV;
+Golden Pearl*F2*WMV;
+Iron*F2;
+Lava Lily*F5*WMV;
+Mist Wood*F5*WMV;
+Nightshade*F2;
+Ore*F5;
+Orichalcum;
+Red Mandrake*F5*WMV;
+Stone Block*F3*WMV;
+Sunstone*F4;
+Titanium*F2;
+Tungsten;
+Turquoise*F3;
+
+| spellements =
+Avenging Fossil*BR*F2;
+Basilisk*BR;
+Celestial Calendar*BR*F3;
+Chimera*BR;
+Dr. Von's Monster*BR*F2;
+Efreet*BR*F2;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR*F3;
+Gnomes!*BR*F3;
+King Artorius (Balance)*BR*F3;
+King Artorius (Death)*BR*F2;
+King Artorius (Fire)*BR*F2;
+King Artorius (Ice)*BR*F2;
+King Artorius (Life)*BR*F2;
+King Artorius (Myth)*BR*F2;
+King Artorius (Storm)*BR;
+Leviathan*BR*F2;
+Lord of Winter*BR*F3;
+Medusa*BR*F3;
+Orthrus*BR*F2;
+Power Nova*BR*F5;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR*F3;
+Sirens*BR*F2;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Storm Lord*BR;
+Storm Owl*BR*F2;
+Sun Serpent*BR*F2;
+Woolly Mammoth*BR*F2;
+
+| snacks =
+Buttered Bread*F2;
+Cauliflowers*F2*WMV;
+Dr. Jalapeno*F2;
+Flapjacks*F2*WMV;
+Glowing Star Fruit;
+Goat Cheese;
+Golden Apple*F2;
+Gummy Humongofrog;
+King Banana*F4*WMV;
+Salmonberry*F2;
+Shiny Tomato*F2*WMV;
+Submarine Sandwich;
+
+| jewels =
+Chipped Mana Opal +10;
+Chipped Mana Opal +11;
+Grass Post Opal;
+Polished Defense Ruby +44;
+Ultra Mute Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Fish on a Vine;
+Saw Palmetto;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,192 @@
+{{Stub|which version of the {{Link|TreasureCard|Polymorph Elemental}} Treasure Card is dropped.  Is it ''Fire'' or ''Storm''?}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 6,335
+| crecla = Jackal
+| school = Ice
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Jackal Bandit;
+
+| world = Zafaria
+| location = Zamunda Outskirts
+| subloc1 = Karl's Cove
+| descrip =
+
+| speech =
+:''"I am Karl the Jackal, Zamunda's greatest assassin! And soon you'll be little more than a memory!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Ice Damage.
+
+| casts =
+Fortify;
+Vengeance;
+Tower Shield;
+Iceblade;
+Ice Trap;
+Freeze;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Frostbite;
+Icezilla (650-730);
+Colossus;
+Frost Giant;
+Snow Angel;
+
+| quests =
+TH is for Themba;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Celestia Badges|Astrologist]]''' {{Icon|Astrologist}} Badge and has not unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge, the following drops will be available:
+*6 Spellements will drop each time for their respective rank 4-8 Spells.
+
+| gold =
+75 - 99;
+
+| hats =
+Blackback Safari Brim*F2*WMV;
+Fire Valley Headdress;
+Hood of the Hepheloomp;
+Mask of the Great Patapon;
+
+| robes =
+Baxby's Noble Outfit;
+Cloak of Dreaming Medicine;
+Darajani Havoc Robes;
+Graveyard Shift;
+Outsider's Symmetrical Jacket;
+Shaman's Storm Sky Cloak;
+
+| boots =
+Charging Bull's Footguards;
+
+| athames =
+
+| amulets =
+
+| rings =
+Vir's Zafarite Stone;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Frozen Armor*F3*WMV;
+Infallible;
+Keen Eyes*F2*WMV;
+Legion Shield*F3*WMV;
+Polymorph Colossus;
+Polymorph Elemental;
+Strong;
+
+| reagents =
+Bronze Gear*F3*WMV;
+Cobalt;
+Deep Mushroom;
+Kelp;
+Nickel;
+Spider Silk*F2*WMV;
+
+| spellements =
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops Minion*BR;
+Earth Walker*BR*F2*WMV;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*BR;
+Ice Wyvern*BR;
+Immolate*BR;
+Kraken*BR;
+Leviathan*BR;
+Medusa*BR;
+Minotaur*BR;
+Orthrus*BR*F2*WMV;
+Phoenix*BR;
+Power Nova*BR;
+Ra*BR*F2*WMV;
+Rebirth*BR;
+Scarecrow*BR;
+Seraph*BR;
+Skeletal Dragon*BR;
+Skeletal Pirate*BR*F2*WMV;
+Snow Angel*BR*F2*WMV;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Stormzilla*BR;
+Triton*BR;
+Vampire*BR;
+Wraith*BR*F2*WMV;
+
+| snacks =
+Delicious Cookie;
+Flaming Soup;
+Flapjacks;
+Glowing Taffy;
+Goat Cheese;
+Golden Apple;
+Jelly Baby;
+King Banana;
+Kola Nuts;
+Spicy Drumstick;
+Strawberry Cupcake;
+Submarine Sandwich*F3*WMV;
+
+| jewels =
+Disconcert Opal;
+Opaque Accurate Opal +4%;
+Opaque Defense Jade +33;
+Plain Defense Ruby +31;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Key Limes*CR;
+Orange Dandelion;
+Snap Dragon;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,176 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 11,880
+| crecla = Book
+| school = Life
+| startpips = 5
+| shadowslots = 1
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+20%;
+
+| outboost =
+106%;
+
+| incboost =
+5% Death;
+
+| incresist =
+73% Life;
+
+| outhealing =
+64%;
+
+| inchealing =
+64%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+False Book
+
+| world = Arcanum
+| location = The Arcanum
+| subloc1 = Dead Archive
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Devotion (6 Rounds);
+Life Trap;
+Mass Life Trap;
+Life Feint;
+Life Fuel (+35%);
+Mass Triage;
+Circle of Thorns;
+Life Scarab;
+Camp Bandit (Tier 5a);
+Rocklops (Life);
+Lamassu;
+Natural Attack (Life 100-200-300-400);
+Spinysaur (600-640);
+Hungry Caterpillar;
+Grrnadier (Tier 3a);
+Wings of Fate;
+Lord of the Jungle (Tier 3a);
+
+| quests =
+The Lost Word;
+
+| gold =
+195 - 230;
+
+| hats =
+Lemurian Stability Hat;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Lemurian Cold Steel Talisman;
+Lemurian Old Judge Talisman;
+
+| rings =
+
+| wands =
+
+| decks =
+Lemurian Hex Deck;
+Lemurian Lifeforce Deck;
+
+| items =
+Arcanum Combat Theme;
+Cargo;
+Lemuria Jungle Combat Theme;
+Lemuria Sky City Combat Theme;
+Periodic Table Poster;
+Puzzle Cube;
+
+| cards =
+Dream Shield*F2*WMV;
+Elemental Spear;
+Ether Shield;
+Galvanic Field;
+Link;
+Massive Pest Zapper;
+Miniature Bloodbats;
+Storm Shield;
+
+| reagents =
+Brass;
+Bronze Gear;
+Ectoplasm;
+Nickel*F2*WMV;
+Scales;
+Spider Silk;
+Synthonium*F3*WMV;
+
+| spellements =
+
+| snacks =
+Black Sun Seeds;
+Eggplant;
+Fire Cracker;
+Golden Biscuit;
+Huge Ice Cream;
+Large Watermelon;
+Sprinkle Cupcake;
+
+| jewels =
+Balance-Sniper Citrine;
+Dazzling Accurate Onyx +14%;
+Dazzling Blocking Jade +19;
+Dazzling Critical Jade +19;
+Dazzling Critical Peridot +19;
+Dazzling Damage Sapphire +29;
+Dazzling Defense Citrine +60;
+Death-Dealer Onyx;
+Healer Opal;
+Ice Assailant Sapphire;
+Life Striker Jade;
+Life-Sniper Jade;
+Life-Ward Jade;
+Sparkling Blocking Citrine +17;
+Sparkling Defense Amethyst +54;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Boiled Peanuts;
+Bread Fruit Bush;
+Face Palm;
+Honey Sickle;
+Ivy League*CR*F2*WMV;
+Key Limes*CR;
+Laugh-O-Dil;
+Moon Flower;
+Prickly Bear Cactus*F2*WMV;
+Red Huckleberries*F3*WMV;
+Rotten Beets;
+Saw Palmetto;
+Sugar Khrystal*CR;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

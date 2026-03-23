@@ -1,0 +1,210 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 3,360
+| crecla = Wizard
+| crecla2 = Undead
+| school = Storm
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Barbarian Spirit;
+Hardrock Cyclops;
+
+| world = Dragonspyre
+| location = The Labyrinth
+| descrip =
+Andor Bristleback is a roaming street Boss in the Labyrinth. He spawns with the Barbarian Spirits and Hardrock Cyclops in the west area of the map.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+Grumpy and temperamental, he wanders Dragonspyre, forever alone, with a sad trombone playing on loop inside his mind.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold =
+}}
+
+| spellnotes =
+
+| casts =
+Myth Shield;
+Sprite;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Shark;
+Kraken;
+Stormzilla;
+Tempest;
+Vampire;
+Natural Attack (Death 85x);
+Heck Hound;
+
+| quests =
+Jail Break;
+
+| gold =
+96 - 114;
+
+| hats =
+Bonfire Headdress;
+Cap of Chronicles;
+Cowl of Blazes*F2*WMV;
+Equalizer's Coif*F2*WMV;
+Halcyon Hood;
+Headgear of the Ice Pilot*F4*WMV;
+Hood of the Historian*F4*WMV;
+Hood of the Vigilant;
+Ivy-Wrapped Cap*F2;
+Mantle of the Icicle;
+Mythological Mantle;
+Promethean Hood;
+Shroud of the Equinox;
+Shroud of the Green;
+Veil of Passage;
+
+| robes =
+Arbiter's Raiment;
+Arboreal Robes;
+Blizzard Cloak;
+Bristleback's Robe of Awe*F2*WMV;
+Cloak of the Seasons*F3*WMV;
+Drape of Symmetry;
+Fiery Tunic;
+Final Curtain*F2;
+Robe of Radiance;
+Shibboleth Smock;
+Smock of the Frost Giant*F2*WMV;
+Storm Giant's Surcoat*F2*WMV;
+Terminus Wrap;
+Tunic of Effervescence*F2;
+Tunic of the Sphinx;
+Verdant Vestment;
+Whirlwind Wrap;
+
+| boots =
+Ashen Footwraps;
+Boots of the Bountiful;
+Burning Boots;
+Footgear of Craftsmanship*F4;
+Footgear of the North Wind;
+Frost Giant's Boots;
+Legend Walkers;
+Mocassins of Mortality;
+Sandals of Lost Aeons;
+Sandals of Neutrality;
+Sandals of the Squall;
+Shoes of Gloom*F3*WMV;
+Slippers of the Ice Flow*F3*WMV;
+Slippers of the Slipstream*F3*WMV;
+
+| athames =
+Dragon's Eye Dagger;
+Dragonblood Dirk;
+Infinity's Edge*F2;
+Soothing Steel*F3*WMV;
+
+| amulets =
+
+| rings =
+Band of the Hearth*F2;
+Dragonscale Ring*F2*WMV;
+Oroboros Band*F2*WMV;
+Ring of the Forefathers;
+Signet of the Reaper*F3*WMV;
+
+| wands =
+Bristleback's Thunderblade*F3*WMV;
+
+| decks =
+Bristleback's Singed Deck*F3*WMV;
+
+| items =
+Broken Plank Pieces;
+Long Corner Wall Ruins*F3;
+Singed Magic Book;
+Small Corner Wall Ruins*F2*WMV;
+Wyrmkin Statue*F2*WMV;
+
+| cards =
+Dragonflies;
+Stormzilla;
+
+| reagents =
+Brass*F2;
+Bronze Gear*F5*WMV;
+Cobalt*F2*WMV;
+Copper;
+Lead;
+Leather Straps*F7*WMV;
+Nickel*F2;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F3*WMV;
+Goat Cheese*F3*WMV;
+Golden Grapes*F*WMV;
+Gummy Humongofrog*F3*WMV;
+King Banana*F3*WMV;
+
+| jewels =
+Blemished Defense Peridot +23;
+Canny Opal;
+Colossus Sapphire*F2;
+Dull Blocking Amethyst +4;
+Dull Blocking Citrine +4;
+Dull Blocking Onyx +4;
+Dull Blocking Peridot +4;
+Dull Defense Opal +14*F2;
+Dull Piercing Onyx +1%;
+Hydra Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fiery Boom Shroom*F2;
+King Parsley*CR*F2*WMV;
+Maelstrom Snap Dragon*F3*WMV;
+Pink Dandelion*CR*F2*WMV;
+White Laugh-O-Dil*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

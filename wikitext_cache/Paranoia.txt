@@ -1,0 +1,131 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 12,330
+| crecla = Irk
+| school = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+583;
+
+| criticalblock =
+435;
+
+| outpierce =
+29%;
+
+| outboost =
+121%;
+
+| incboost =
+30% Myth;
+
+| incresist =
+24% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+54% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wallaru
+| location = Billabong Resort
+| subloc1 = Paranoia Dream
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+*''"HUH?"'':
+**{{Icon|Shield}} At the beginning of the first Round, Paranoia will cast {{Link|Spell|Astraphobia}} and will recast this spell when replaced.
+**{{Icon|Dispel}} At the beginning of the fourth Round, and every two Rounds thereafter, Paranoia will cast a Dispel determined by the School of the Wizard's highest number of School Pips.
+**{{Icon|Blade}} If a Wizard casts a single Blade, Paranoia will cast a -80% Shield of the Blade's School, or a -70% Tower Shield for Balanceblades.
+***If a Wizard casts {{Link|Spell|Elemental Blade}} or {{Link|Spell|Spirit Blade}}, Paranoia will cast {{Link|Spell|Elemental Shield}} or {{Link|Spell|Spirit Shield}}, respectively.
+***If a Wizard casts {{Link|ItemCard|Star Blade}}, {{Link|ItemCard|Moon Blade}}, or {{Link|ItemCard|Sun Blade}}, Paranoia will cast the corresponding -50% triple Shields.
+***Alternative Blades, such as {{Link|TreasureCard|Raindrop Blade}}, {{Link|Spell|Catch of the Day (Tier 2b)}}, etc. don't trigger this cheat.
+
+| spellnotes =
+*Casts a protected Lightning Strike (+10%).
+*Casts a protected Reaperblade (Storm-Shadow).
+
+| casts =
+Outpouring;
+Lightning Strike (+10%);
+Supercharge;
+Reaperblade (Storm-Shadow);
+Windstorm;
+Mana Burn (Shadow);
+Lightning Bats; 
+Queen Calypso (Tier 2b);
+Wild Bolt;
+Dark & Stormy (Tier 3b);
+Sirens (685);
+Lord of the Squall (Storm);
+
+| quests =
+Paranoia Activity;
+
+| gold =
+2 - 18;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Wallaru Doom Moon Theme;
+Wallaru Eucalyptus Forest Theme;
+Wallaru The Dreaming Theme;
+
+| cards =
+
+| reagents =
+Bone;
+Copper;
+Ectoplasm;
+Fish Fin;
+Pyrite;
+
+| spellements =
+
+| snacks =
+Flaming Pineapple;
+Glowing Dragon Fruit;
+Golden Biscuit;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,306 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 2,000
+| crecla = Cat
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Agony Wraith;
+Clockwork Wizard;
+
+| world = Marleybone
+| location = Royal Museum
+| subloc1 = Big Ben
+| badge = Mastermind
+| lootchest = Meowiarty's Chest
+| descrip =
+Meowiarty is a master thief in Marleybone who {{Link|NPC|Malistaire Drake}} has broken out of {{Link|Location|Newgate Prison}} to help steal the Krokonomicon.
+
+| speech =
+:'''Malistaire:''' ''"You again! I don't have time for this. You realize you're too late. With the Krokonomicon, I have everything I need to finish what I have started. But I can't have you following me to Dragonspyre. Meowiarty, take care of this pest once and for all!"''
+:'''Meowiarty:''' ''"It will be a pleasure to take care of this meddlesome Wizard. Once I scratch you off our list we'll have no one to stop us!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Myth Damage per Pip.
+
+| casts =
+Storm Shield;
+Weakness;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Humongofrog;
+Snow Serpent;
+Sunbird;
+Storm Shark;
+
+| quests =
+The Last Meow;
+
+| dropnotes =
+When a Wizard has unlocked the '''Hero of Krokotopia''' {{Icon|Hero of Krokotopia}} Badge and has not unlocked the '''Oni Slayer''' {{Icon|Oni Slayer}} Badge, the following drops will be available:
+*16-18 Spellements and Treasure Card Spellements will drop each time from the '''Spiritual''' (Myth, Life, Death, Balance) Schools for their respective rank 1-4 Spells.
+
+| gold =
+68 - 105;
+
+| hats =
+Animated Canine Cowl*F2;
+Cap of the Banshee;
+Cap of the Inventor;
+Cap of the Unicorn;
+Cat Burglar's Cap;
+Doctor's Cap;
+Exclusive Cap;
+Flowering Canine Cowl*F2;
+Genteel Cap*F2;
+Glowing Canine Cowl*F2;
+Meowiarty's Helm;
+Meowiarty's Icy Cap*F3*WMV;
+Meowiarty's Intense Helm*F4*WMV;
+Meowiarty's Phobic Cowl*F2;
+Meowiarty's Shrouded Hat*F4*WMV;
+Precious Cap*F2*WMV;
+Santa Hat*CR*HOL;
+Spectral Cowl*CR;
+Stable Salacot;
+Victorian Hat*F2;
+Visor of Invention;
+
+| robes =
+Artificial Robe;
+Cloak of Clarity;
+Dexterous Vest;
+Feline's Fiery Robe*F2*WMV;
+Flowering Canine Cloak;
+Garment of the Supreme;
+High Quality Cloak*F2;
+Marvelous Shroud;
+Meowiarty's Cloak*F3*WMV;
+Meowiarty's Intense Robe*F2;
+Meowiarty's Robe of Ice*F2;
+Meowiarty's Tunic*F6*WMV;
+Mugsy's Robe of Equity;
+Robe of Ideals;
+Robe of Superiority*F2;
+Robe of the Bubble;
+Savvy Vestment;
+Smooth Spun Cloak*F2*WMV;
+Thinker's Robe;
+Tunic of Symmetry;
+Uniform of the Inventor;
+Uniform of the Proficient*F3;
+Vestment of Assistance*CR;
+Vestment of Expertise;
+Vestment of Fright;
+Vestment of the Enigma;
+
+| boots =
+Alluring Boots*F3*WMV;
+Delicate Slippers;
+Exacting Boots;
+Exclusive Boots;
+Famous Footwraps;
+Fancy Slippers*F2;
+Grandiose Sandals;
+Meowiarty's Polished Shoes;
+Meowiarty's Refined Slippers*F3*WMV;
+Meowiarty's Sandals*F4;
+Mummy Costume Footwraps*CR*HOL;
+Pleasing Sandals*F3*WMV;
+Sandals of Delusion;
+Shoes of Sentiments;
+Shoes of the Windless;
+Slippers of the Worrier;
+Striders of the Verge*CR;
+
+| athames =
+Aristocrat's Dagger*F4*WMV;
+Meowiarty's Biting Dagger;
+Shortblade of Flowers;
+Watchman's Athame*F2;
+
+| amulets =
+Amulet of Chilled Creatures*F2;
+Meowiarty's Fyery Necklace;
+Meowiarty's Satyrical Choker*F3;
+
+| rings =
+Band of Ice*F3*WMV;
+Comedian's Ring;
+Meowiarty's Brilliant Ring*F2*WMV;
+Meowiarty's Clever Ring*F2*WMV;
+Mysterious Band*F4*WMV;
+Ring of Effect;
+Thinker's Ring;
+
+| wands =
+Baton of Appreciation*CR*HOL;
+Decorative Nutcracker Wand*CR*HOL;
+Half-Shell Wand*CR*HOL;
+Hop-Hopping Wand*CR*HOL;
+Harp o' the Emerald Isle*CR*HOL;
+Loyalty's Length*CR*HOL;
+Mint Staff*CR*HOL;
+Scepter of the Spring*CR*HOL;
+Spring Scepter*CR*HOL;
+Staff of the Hopper*CR*HOL;
+Staff of the Ice Wyvern*F4*WMV;
+Wand of Amity*CR*HOL;
+
+| decks =
+Deck of Chivalry;
+Deck of Intensity;
+Deck of the Aurora*F3;
+
+| items =
+Blue Knotted Rug;
+Closed Furnace*F2*WMV;
+Crossbone Gravestone;
+Krokotopia Grand Tent;
+Marleybone Main Theme*F5*WMV;
+Meowiarty Archmage Duel*CR;
+Meowiarty Exalted Duel*CR*F4*WMV;
+Meowiarty's Blueprints*F2*WMV;
+Model MB Automobile*CR*F2*WMV;
+Newspaper Page*F2*WMV;
+Novice's Socket Wrench*F2;
+Rack of Billy Clubs;
+Short Metal Fence;
+Small Smoke Stack;
+Snowglobe*HOL;
+Watchdog Statue*F2*WMV;
+Yellow Holiday Ornament*HOL;
+
+| cards =
+Azoth;
+Banshee (Tier 2b)*BR;
+Cyclops (Tier 2b)*BR;
+Dryad;
+Ghoul (Tier 2b)*BR;
+Giant;
+Heck Hound;
+Imp (Tier 2b)*BR;
+Pacify;
+Power Play;
+Sandstorm;
+Sniper*F2;
+Scarab (Tier 2b)*BR;
+Sunbird;
+To Regent's Square*F2;
+Vampire;
+Wyldfire;
+
+| reagents =
+Bronze Gear*F4*WMV;
+Copper*F3;
+Ectoplasm*F4*WMV;
+Iron*F3;
+Lead*F2;
+Nickel*F2;
+Pyrite;
+Tin*F3*WMV;
+
+| spellements =
+Banshee*BR*F2;
+Blood Bat*BR*F2;
+Cyclops*BR*F2;
+Cyclops Minion*BR*F2;
+Dark Sprite*BR*F2;
+Gearhead Destroyer*BR;
+Ghoul*BR*F2;
+Imp*BR;
+Leprechaun*BR*F2;
+Locust Swarm*BR*F2;
+Nature's Wrath*BR*F2;
+Scarab*BR;
+Scorpion*BR;
+Seraph*BR;
+Troll*BR*F2;
+Vampire*BR*F2;
+
+| snacks =
+Caramel Popcorn;
+Gummy Bloodbat*F3*WMV;
+Medium Fish*F2*WMV;
+Redskin Peanut*F2;
+Square Watermelon*F2;
+Stinky Cheese;
+Wheat Cracker;
+
+| jewels =
+Balance-Boon Citrine;
+Banshee Onyx;
+Chipped Defense Ruby +14;
+Cyclops Peridot;
+Dawdle Opal;
+Death-Shot Onyx;
+Deer Knight Onyx;
+Evil Snowman Sapphire;
+Flawed Damage Citrine +10;
+Flawed Damage Onyx +10;
+Flawed Damage Opal +5;
+Flawed Damage Ruby +10;
+Flawed Defense Amethyst +17;
+Flawed Defense Opal +9;
+Flawed Health Opal +29;
+Flawed Health Opal +30;
+Intrepid Opal;
+Locust Swarm Citrine*F2;
+Spectral Blast Citrine;
+Sprite Jade;
+Storm Shark Amethyst;
+Sunbird Ruby;
+Time of Legend Peridot;
+Windstorm Amethyst;
+Wyldfire Ruby;
+
+| pins =
+
+| pets =
+Cupig*CR*HOL;
+Dream Ghoul*CR;
+Frostman*CR*HOL*F2;
+Golden Goose;
+Krokotillian*F2;
+Lucky Leprechaun*CR*HOL;
+Lump of Coal*CR*HOL;
+Maple Moose*CR*HOL;
+Myth Ghoul*CR;
+Nutcracker*CR*HOL;
+Pet Egg*CR*HOL;
+Pixie Queen 57 (Card)*F2*WMV;
+Rescue Rover*CR*HOL;
+
+| seeds =
+
+| mounts =
+Stormrider Hare*PERM*CR*HOL;
+
+| spells =
+To Regent's Square;
+
+}}

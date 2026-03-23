@@ -1,0 +1,209 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,310
+| crecla = Golem
+| school = Star
+| masteries =
+Fire;
+Storm;
+Balance;
+
+| cheats = Yes
+| startpips = 2
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+30%;
+
+| incboost =
+15% Myth, Life, Death;
+
+| incresist =
+20% Fire, Ice, Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Clockworker (Tier 1);
+
+| world = Housing Instance
+| location = The Great Clock
+| subloc1 = 
+| descrip =
+Lucia is the Cuckoo of Valencia's Great Clock, crafted by Master Gazpaccio to keep track of the time by singing at the arrival of every hour.  Like all of his creations, Gazpaccio magically imbued Lucia with emotions, granting her a sense of pride which serves as her drive to perform precisely on the hour.  After years of impeccable timekeeping, Lucia's pride has warped into vanity, and she now sings every few minutes, throwing the Great Clock and Valencian timekeeping into disarray.  After Wizards assist {{Link|NPC|Bernardo Dondi}}, Gazpaccio's Apprentice, with tuning the Great Clock's Core Mechanism, they ascend the to the Cuckoo's Nest to humble the Prima Cuckoo.
+
+* An additional Clockworker will appear if four Wizards are present.
+
+| speech =
+:''"Go away!  I've no time for autographs.  I've a show to...  Oh, it's you.  Last time I entrust dressing room security to someone named [[Creature:Lugs (Tier 5)|Lugs]]. Oh well, let's get your thrashing over with quickly then.  I've an important performance to give, you know.  Clockworkers, on the ready!  Your star needs the supporting cast for a little preshow exercise!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Her pride systems corrupted into vanity. Still not as bad as what happened with her sister-bot's wrath systems.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tardiness will not be tolerated!"'' - If a Wizard joins the Duel after the first Round, then Lucia will interrupt-cast a Star version of [[Spell:Mana Burn (Star)|Mana Burn]] that Pierces through all Resist and deals '''500''' Damage.
+*{{Icon|Minion}} ''"Let's even the odds!"'' - At the beginning of the first Round, Lucia will interrupt-cast a Star Spell that summons a Clockworker.  If more than two Wizards are present, then she will continue to summon Clockworkers until her team is full.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip
+
+| casts =
+Sandstorm;
+Storm Shark;
+Kraken;
+Natural Attack (Storm 85x, 100%);
+Fire Cat;
+Sunbird;
+Natural Attack (Fire 85x);
+Heck Hound;
+
+| quests =
+The Clock's Cuckoo!
+
+| gold =
+18 - 29;
+
+| hats =
+Avenging Helm of Glory (Any Level)*CR;
+Helmet of Royal Retribution (Any Level)*CR;
+
+| robes =
+Glorious Avenger's Armor (Any Level)*CR;
+Smoldering Vengeance Armor (Any Level)*CR;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Flashing Dragon Spear (Level 10+)*CR;
+Glinting Dragon Lance (Any Level)*CR;
+
+| decks =
+
+| items =
+Cuckoo Clock;
+Dragonspyre Standard;
+Grandfather Clock;
+Grizzleheim Pet Derby Theme;
+Kraken Statue;
+Krokotopia Pet Derby Theme;
+Magma Blister;
+Ornate Wall Clock;
+Pillory;
+Square Clocktower;
+Wyrm-Crowned Bed;
+Wyrm-Footed Bookshelf;
+Wyrm-Footed Dresser;
+Zarathax Bobblehead;
+
+| cards =
+Chimenea;
+Clockwork;
+Clockwork Spider;
+Coldiron;
+Fire Dragon;
+Firegut (380-418);
+Franklinstove (390-430);
+Gear Spinner;
+Gearhead;
+Gearhead Destroyer;
+Kettleblack;
+Potboiler;
+Rocketstove;
+
+| reagents =
+Acorn;
+Aether;
+Aquamarine;
+Brass;
+Bronze;
+Bronze Gear*F2;
+Copper;
+Deep Mushroom;
+Fossil*F2;
+Golden Pearl;
+Iron;
+Lead;
+Mist Wood;
+Nickel;
+Platinum;
+Pyrite;
+Sandstone;
+Scrap Iron;
+Silver;
+Spring*F2;
+Steel;
+Stone Block;
+Sunstone;
+Tin;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Butter Worms;
+Buttered Bread;
+Double Popsicle;
+Fancy Pudding;
+Fancy Truffle;
+Jelly Baby;
+Kola Nuts;
+Salmonberry;
+Shiny Tomato;
+Ten Pound Cake;
+Uni-Corn;
+
+| jewels =
+
+| pins =
+
+| pets =
+Ash Spider;
+Bronze Golem*CR;
+Clockwork Paladin*F3;
+Death Leprechaun*CR*F3;
+Ianthine Spectre*CR;
+Pale Maiden*CR;
+Papa Cheesiwitz*CR;
+Spider Golem;
+
+| seeds =
+Clockwork Flower;
+Melting Cheese Tree;
+Snow Apples;
+
+| mounts =
+
+| spells =
+
+}}

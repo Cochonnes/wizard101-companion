@@ -1,0 +1,109 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 14,290
+| crecla = 
+| school = Myth
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Myth;
+
+| critical =
+525 Any;
+
+| criticalblock =
+160 Any;
+
+| outpierce =
+19%;
+
+| outboost =
+107%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+33% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+63% Myth;
+
+| outhealing =
+11%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Outsiders Camp
+| subloc1 = Zone of Fortune
+| descrip =
+The Emperor Card is one of the cards of the Wizard's Tarot fortune, indicating "what troubles you, binds you or holds you back."
+
+| speech =
+
+| cheatnotes = 
+*{{Icon|Protected Ward}} ''"Embrace Your Truth, Use It."'' - At the beginning of the First Round, the Emperor Card will cast three Protected -100% Universal Damage Wards, and one Protected 5,000 Damage Absorb Ward on itself, then give each Wizard a copy of {{Link|Spell|Shatter (The Emperor Card)}}.
+**{{GivesSpell|Shatter (The Emperor Card)|size = x150px}}
+** This spell is not required to be cast in order to defeat The Emperor Card.
+
+| spellnotes =
+
+| casts =
+Stabilize;
+Tower Shield;
+Moon Shield;
+Athena Battle Sight (Tier 3a);
+Ether Golem (Tier 3a);
+Saturn's Reaping (Tier 3b);
+Orthrus (Tier 3a);
+
+| quests =
+The You You Are;
+
+| gold =
+0;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

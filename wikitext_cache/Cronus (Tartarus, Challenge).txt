@@ -1,0 +1,158 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 8,650
+| crecla = Eagle
+| school = Sun
+| school2 = Balance
+| masteries =
+Fire;
+Ice;
+Storm;
+Life;
+Myth;
+Death;
+
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+14%;
+
+| outboost =
+73%;
+
+| incboost =
+None;
+
+| incresist =
+17% Storm;
+37% Ice, Life, Death, Balance, Shadow;
+57% Fire, Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Lost Shade (Fire, Challenge);
+Lost Shade (Life, Challenge);
+Lost Shade (Myth, Challenge);
+
+| world = Wizard City
+| location = Tartarus (Challenge)
+| subloc1 = Cave of Nyx (Challenge)
+| descrip =
+*For the Standard version of this battle, see {{Link|Creature|Cronus (Tartarus)}}.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Trap}} At the beginning of every Round, Cronus will cast a Sun Spell that applies a '''+40%''' Trap of a random School on all Wizards.
+*{{Icon|Shield}} ''"For every shield, I have a trap!"'' - Whenever a Wizard casts a Shield, Cronus will cast a Sun Spell on the Wizard that applies a '''+40%''' Trap of a random School.
+*{{Icon|Jinx}} If a harmful Ward is cast on Cronus, he will remove it.
+**If a Multi-Trap Spell such as {{Link|Spell|Elemental Trap}} is cast on Cronus, he will only remove one Ward, and Cronus will place a '''Marked''' Stun Block on himself. After Cronus is attacked while he has a '''Marked''' effect, he will remove the Mark and all harmful Wards from himself.
+**All Enemies harmful Ward Spells such as {{Link|Spell|Windstorm}} will cause the Ward to be removed from Cronus only.
+*{{Icon|Damage}} ''"Attacks alone will never hurt me!"'' - If Cronus is attacked when he doesn't have a '''Marked''' effect, Cronus will cast a version of his Natural Attack based on the School of the Spell that hit him.
+**Fire Spell -> {{Link|Spell|Natural Attack (Cronus Storm)}}
+**Ice Spell -> {{Link|Spell|Natural Attack (Cronus Fire)}}
+**Storm Spell -> {{Link|Spell|Natural Attack (Cronus Ice)}}
+**Life Spell -> {{Link|Spell|Natural Attack (Cronus Death)}}
+**Myth Spell -> {{Link|Spell|Natural Attack (Cronus Life)}}
+**Death Spell -> {{Link|Spell|Natural Attack (Cronus Myth)}}
+**Balance or Shadow Spell -> {{Link|Spell|Natural Attack (Cronus Balance)}}
+**Damage Spells that hit multiple times such as {{Link|Spell|Minotaur}} will trigger this cheat multiple times.
+**Damage over Time Spells will only trigger this cheat on their initial hit.
+
+| spellnotes =
+
+| casts =
+Balanceblade;
+Fireblade;
+Mythblade;
+Lifeblade (+40%);
+Natural Attack (Cronus Balance);
+Natural Attack (Cronus Ice);
+Natural Attack (Cronus Death);
+Natural Attack (Cronus Myth);
+Luminous Weaver (Tier 2b);
+Natural Attack (Cronus Life);
+Natural Attack (Cronus Fire);
+Natural Attack (Cronus Storm);
+
+| quests =
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic: Aquila Badges|Swole Like Sisyphus]]''' {{Icon|Swole Like Sisyphus}} Badge, the following drops will be available:
+*{{Icon|Spellement}} 2-3 Aquila Spellements will drop each time from '''any''' School
+
+| gold =
+10 - 24;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+Ring of Gorgon Imprisonment (Level 90+);
+Ring of Gorgon Petrification (Level 90+);
+Ring of Gorgon Suffering (Level 90+);
+Ring of Gorgon Venom (Level 90+);
+Ring of Gorgon Volatility (Level 90+);
+Ring of Gorgon's Gaze (Level 90+);
+
+| wands =
+
+| decks =
+
+| items =
+Aquila Atlantea Theme;
+Aquila Boss Combat Theme;
+Aquila Olympus Theme;
+Aquila Tartarus Theme;
+
+| cards =
+
+| reagents =
+Amber;
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Cronus (Tartarus)
+}}

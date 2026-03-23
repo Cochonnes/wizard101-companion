@@ -1,0 +1,115 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 2,000
+| crecla = Beastmoon Creature
+| school = Ice
+| startpips = 3
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Avalon Battlegrounds
+| descrip =
+Hailspawn is one of the Boss monsters that can be encountered during the third Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events. He will have 1 random, Rank 3 Elite, Stage 3 monster and 2 random, Rank 2, Stage 3 monsters present to assist them.
+
+'''Potential Rank 3 Elite Minions:'''
+*{{Link|Creature|Boiled Crab}}
+*{{Link|Creature|Silt Elemental}}
+
+'''Potential Rank 2 Minions:'''
+*{{Link|Creature|Arctic Warrior}}
+*{{Link|Creature|Desert Beetle}}
+*{{Link|Creature|Pyreborn Knight}}
+*{{Link|Creature|Stasis Eel}}
+
+| speech =
+
+| spellnotes =
+*Casts a 3-Pip, +150 Trap version of Debilitate that removes a positive Charm to deal 100 Damage.
+**It is currently unknown whether the Damage effect occurs.
+*Casts a 250 Damage version of Shivering Marid.
+**It is currently unknown whether the extra Damage effect occurs.
+
+| casts =
+Debilitate;
+Shielded Beetle;
+Shivering Marid;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 20 - 24 Lunari.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Elemental Moonstone;
+Elf Idol (Ice);
+Harmonious Moonstone;
+Harmonious Thread;
+Krokomummy Idol (Death);
+Spirit Moonstone;
+Storm Moonstone;
+Storm Thread;
+
+| spellements =
+Crimson Phantom;
+Elemental Golem;
+Sprite Swarm*F2*WMV;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

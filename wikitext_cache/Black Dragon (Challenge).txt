@@ -1,0 +1,96 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 11,790
+| crecla = Wyrm
+| school = Myth
+| startpips = 3
+| powerpips = Yes
+| critical =
+507;
+
+| criticalblock =
+109;
+
+| outpierce =
+20%;
+
+| outboost =
+95%;
+
+| incboost =
+3% Life;
+
+| incresist =
+37% Death;
+17% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Pendragon Rematch
+| subloc1 = 
+| descrip =
+This Boss is a Minion to the [[Creature:Pendragon (Challenge)|Pendragon]] during the Pendragon Rematch instance.
+*For the Standard variant, see {{Link|Creature|Black Dragon (Standard)}}.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Bladestorm (+25%);
+Mass Myth Trap;
+Mass Hex;
+Humongofrog (395);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Black Dragon
+}}

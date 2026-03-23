@@ -1,0 +1,124 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,150
+| crecla = Water-Lurker
+| school = Life
+| startpips = 4
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Death;
+
+| incresist =
+35% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Water Lurker;
+
+| world = Celestia
+| location = The Grotto
+| subloc1 = Deep One's Cave
+| descrip =
+
+| speech =
+:''"Gwahr! Cablooey must wake from his eternal slumber! He will eat all the worlds!"''
+
+| spellnotes =
+
+| casts =
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Lifeclops;
+Nature's Wrath;
+Life Banshee (250);
+Seraph;
+Centaur;
+Natural Attack (Life 85x);
+
+| quests =
+Call of Cablooey;
+
+| gold =
+23 - 34;
+
+| hats =
+Congruent Cover;
+Iced Cap;
+Romantic Headdress;
+Smokey Shroud;
+Surging Storm Helm*F2*WMV;
+Volcanic Mask;
+
+| robes =
+Armor of Celestian Totality*F3*WMV;
+Cloak of Shadows;
+Tunic of Bewilderment;
+
+| boots =
+Boots of Dissonance;
+Ember Boots*F2*WMV;
+Proportional Shoes;
+Romantic Runners;
+
+| athames =
+Tenacious Blade;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Monstrous*F4*WMV;
+Precision;
+Vengeance*F3*WMV;
+
+| reagents =
+Fish Fin*F3*WMV;
+Scales*F4*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Delicious Cookie;
+
+| jewels =
+Dull Defense Peridot +28;
+Fire Elemental Opal;
+Plain Defense Amethyst +29;
+Quench Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

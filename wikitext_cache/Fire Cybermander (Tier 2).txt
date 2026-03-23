@@ -1,0 +1,120 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 2,595
+| crecla = Mander
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Doomsday Krok Gauntlet
+| subloc1 = Doomsday Krok Gauntlet (Tier 2)
+| descrip =
+Fire Cybermander (Tier 2) is considered a Minion to {{Link|Creature|Balance Cybermander (Tier 2)}}.  All drops are recorded on that page.
+*Fire Cybermander (Tier 2) may also appear as a Minion during the duel with {{Link|Creature|Balance Cybermander (Tier 1)}}, although this may be a bug.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Completely, 100% fireproof. Or so the manufacturer says. It's never put that claim to the test.
+
+| extract class =
+Mander;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| altlink = Fire Cybermander
+
+| spellnotes =
+*Efreet can only be casted if Fire Cybermander (Tier 2) is donated enough Pips.
+
+'''Natural Attack:'''
+*Four Pip maximum, despite what the Spell description indicates.
+
+| casts =
+Vengeance;
+Glacial Shield;
+Fireblade;
+Fire Prism;
+Fire Trap;
+Wyldfire;
+Meteor Strike;
+Power Link;
+Natural Attack (Fire 120-240-360, 70%);
+Scald;
+Fire Dragon;
+Efreet;
+Heck Hound;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

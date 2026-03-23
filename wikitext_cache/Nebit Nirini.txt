@@ -1,0 +1,192 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 530
+| crecla = Krokotopian
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Ice;
+
+| incresist =
+50% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Desert Golem;
+
+| world = Krokotopia
+| location = Palace of Fire
+| subloc1 = Nebit's Chamber
+| descrip =
+Nebit Nirini is one of the four members of the Nirini family in the Palace of Fire that is maintaining the spirit barrier for the {{Link|Location|Throne Room of Fire}}.  After [[Quest:Payback|helping]] the Royal Expeditionary Force beat back some of the Warriors and {{Link|Creature|Flame Guardian}}s, Wizards confront Nebit and the other three Nirini in the final push into the Throne Room.
+
+Two additional Desert Golems will appear if more than two Wizards are present.
+
+| speech =
+:''"Fool! Once I have exhausted your power, let us see if you still approach the Great Nebit Nirini with such disrespect!"''
+
+| spellnotes =
+
+| casts =
+Weakness;
+Fire Cat;
+Fire Elf (50+210);
+Sunbird;
+Natural Attack (Fire 100x);
+Leprechaun;
+Troll;
+Banshee;
+Scorpion;
+Locust Swarm;
+
+| quests =
+Give 'em Another Round;
+
+| gold =
+17 - 44;
+
+| hats =
+Cap of the Oasis*F2*WMV;
+Conjurer's Hat;
+Cowl of Prediction*F2*WMV;
+Durable Hood;
+Headwrap of Originality*F3*WMV;
+Helm of the Cyclone;
+Mask of Proportions;
+Nebit's Cap of Harmony*F2*WMV;
+Nebit's Hood of Visions*F5*WMV;
+
+| robes =
+Ceremonial Vest*F2*WMV;
+Cloak of Refuge;
+Garments of Repose*F4*WMV;
+Garments of the Augur;
+Nebit's Vest of Complexity*F2*WMV;
+Raiment of the Badlands*F2;
+Robe of Reason*F2*WMV;
+Robe of Talent;
+Rugged Robe*F3*WMV;
+Runed Vestment;
+Sorcerer's Maroon Cloak*F5*WMV;
+Sphinx's Vestment*F2*WMV;
+Summertime Robes;
+Tunic of Energy;
+Tunic of the Whirlwind;
+
+| boots =
+Boots of the Citadel;
+Cryptkeeper's Shoes;
+Diviner's Boots*F2;
+Initiate's Boots*F3*WMV;
+Novitiate Boots;
+Quartermaster's Boots;
+Rough-Hewn Boots*F2*WMV;
+Shoes of Adaptation*F2*WMV;
+Shoes of Annihilation;
+Shoes of Figments*F3*WMV;
+Slippers of Sensibility*F3*WMV;
+Threadbare Boots*F3*WMV;
+
+| athames =
+Cryptkeeper's Shortsword*F2*WMV;
+Dagger of Solitude;
+Dirk of the Wasteland*F2*WMV;
+Flamedancer's Athame*F3*WMV;
+Parched Kris*F2;
+Powerful Stiletto;
+Whirlwind Dagger*F2;
+
+| amulets =
+Nebit's Locket of Whimsy*F3*WMV;
+
+| rings =
+Ring of the Badlands;
+Sparkling Band;
+
+| wands =
+
+| decks =
+
+| items =
+Krok Sun Plaque*F2*WMV;
+Painted Wardrobe*F2;
+Purple Painted Column*F3*WMV;
+Wide Red Pedestal*F2*WMV;
+
+| cards =
+Death Trap;
+Lightning Bats;
+Mutate Beetle (Fire);
+Mutate Cat (Storm);
+Sandstorm;
+Snow Serpent;
+Spirit Armor*F2;
+Storm Trap;
+Vampire;
+
+| reagents =
+Copper*F2;
+Iron*F4*WMV;
+Leather Straps*F3*WMV;
+Nickel*F2;
+Pyrite*F4*WMV;
+
+| spellements =
+
+| snacks =
+Cracker*F2*WMV;
+Green Grapes*F5*WMV;
+Nettle Root*F3*WMV;
+Tiny Fish*F3*WMV;
+
+| jewels =
+Big Drain Opal;
+Blood Bat Peridot;
+Chipped Health Opal +16;
+Cracked Accurate Ruby +2%;
+Cracked Damage Citrine +3;
+Cracked Damage Citrine +4;
+Cracked Defense Amethyst +10;
+Cracked Defense Citrine +9;
+Cracked Defense Opal +4;
+Cracked Defense Ruby +12;
+Cracked Defense Sapphire +12;
+Dark Sprite Onyx;
+Dead End Opal;
+Energy Opal;
+Fire Cat Ruby;
+Gold Miner Opal;
+Huge Energy Opal;
+Imp Jade*F2*WMV;
+Scarab Citrine;
+Thunder Snake Amethyst;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Pink Dandelion*CR*F9*WMV;
+
+| mounts =
+
+| spells =
+
+}}

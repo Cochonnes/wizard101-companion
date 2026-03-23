@@ -1,0 +1,219 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 17,000
+| crecla = Quetzal
+| school = Life
+| masteries = 
+Fire;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Venomous Quetzal;
+
+| world = Azteca
+| location = Tierra de Brea
+| subloc1 = Venomous Quetzal Cave
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Amplify (+25%);
+Mend;
+Vengeance;
+Guiding Light;
+Satyr;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Luminous Weaver;
+Natural Attack (Life 180-360-540);
+Goat Monk;
+Centaur (610-670);
+Bronze Helephant;
+Forest Lord (715-775);
+Gnomes!;
+Spinysaur;
+Fire Beetle;
+Efreet;
+
+| quests =
+Dead Man's Will;
+
+| gold =
+134 - 166;
+
+| hats =
+
+| robes =
+Fiery Chac's Great Armor*F3*WMV;
+Storm Owl's Favored Robes*F3;
+
+| boots =
+Heart of Sky Boots;
+Ice Age Tyrant's Walkers;
+Indigo Wing Striders;
+Jaguar Prince's Leapers;
+Smoking Obsidian Rangers;
+Storm Owl's Favored Trackers;
+White Fire Chac's Footgear*F2*WMV;
+
+| athames =
+
+| amulets =
+Brilliant Night Mask Memento;
+Shining Cold House Amulet;
+Speaking Water Ornament;
+
+| rings =
+Bleeding Sun Warrior's Loop*F4*WMV;
+Mother Moon's Count Ring;
+Smoking Mirror's War Ring;
+Twin Giants Fashioned Stone;
+Twisting Season Ring;
+
+| wands =
+Arrow of the Hungry Dead;
+Fire Quetzal Wand;
+
+| decks =
+Case of the Worldtree;
+Codex of the Lost Fire;
+King's Royal Portraits*F3*WMV;
+
+| items =
+Azteca Combat Theme;
+Azteca Mountain Theme;
+Azteca Swamp Theme;
+Quetzal Root Nest;
+Quetzal Straw Nest;
+Toucan Mask;
+
+| cards =
+Basilisk*F2*WMV;
+Berserk;
+Chastisement;
+Chimera;
+Cloud Demon;
+Colossal;
+Cycle of Life*F2*WMV;
+Dr. Von's Monster;
+Efreet;
+Extraordinary;
+Frost Demon;
+Furnace*F2*WMV;
+Galvanic Field;
+Polymorph Icehorn;
+Polymorph Jaguar;
+Polymorph Pteranodon;
+Potent Trap;
+Primordial;
+Punishment;
+Reliquary;
+Sharpened Blade;
+Sirens;
+Skeletal Dragon;
+Sleet Storm;
+Virulence;
+
+| reagents =
+Black Lotus*F2*WMV;
+Black Pearl;
+Blood Moss;
+Bone*F4;
+Bronze;
+Bronze Gear*F2*WMV;
+Cobalt;
+Deep Mushroom*F2*WMV;
+Fire Blossom*F2*WMV;
+Fossil*F2;
+Golden Pearl;
+Lava Lily*F2*WMV;
+Mist Wood*F2*WMV;
+Nickel;
+Nightshade;
+Ore*F3;
+Red Mandrake;
+Silver;
+Steel;
+Stone Block*F2*WMV;
+Sunstone;
+Titanium;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Allocados;
+Bedrock Bonbons*F2;
+Cacao Beans*F2*WMV;
+Cactus Fruit;
+Caramel Apple;
+Chili Peppers*F2;
+Fried Ice Cream;
+Glowing Star Fruit*F2*WMV;
+Jelly Baby;
+Quetzal Pretzel*F2*WMV;
+Saber-Tooth Cider*F2*WMV;
+Saursa;
+Shiny Tomato;
+Tamales;
+Tenochti-Flan*F2*WMV;
+Zocalo Wings*F3*WMV;
+
+| jewels =
+Blizzard Lizard Sapphire;
+Clear Mana Opal +35;
+Hexster Citrine;
+Mander Minion Citrine;
+Opaque Mending Opal +4%;
+Polished Critical Amethyst +11;
+Polished Critical Onyx +11;
+Sap Power Amethyst;
+Water Elemental Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+King Parsley*CR;
+Maelstrom Snap Dragon;
+Ninja Fig*CR;
+Pink Huckleberries;
+Red Huckleberries;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

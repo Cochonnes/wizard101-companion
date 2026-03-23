@@ -1,0 +1,186 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 11,105
+| crecla = Crab
+| school = Balance
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+25% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Red Claw Thug;
+
+| world = Zafaria
+| location = Baobab Market
+| subloc1 = Telegraph Box (Zafaria)
+| descrip =
+During the [[Basic:Five B.O.X.E.S.|Five B.O.X.E.S. Event]], Buster Crab can be found in the Telegraph Box (Zafaria) instance.
+*As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+: ''"What kind o'pasty-faced Pirate is this? A Wizard!? Shells and sails, been a long time since I seen one a'you. Maybe that Maestro fellar will pay for a wee Wizard, too! Let's get 'em, boys!"''
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Elemental Trap;
+Natural Attack (Balance 105-200-305);
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Sirocco Djinni (755);
+Judgement;
+
+| quests =
+The Android Invasion;
+
+| gold =
+105 - 168;
+
+| hats =
+Blackback Safari Brim;
+Greenwarden's Brilliant Mask (Level 70+)*CR;
+Greenwarden's Energetic Mask (Level 70+)*CR;
+Greenwarden's Peaceful Mask (Level 70+)*CR;
+Hood of the Grasslands*F2;
+Wise Hunter's Helmet*F2;
+
+| robes =
+Cold River Cloak;
+Outsider's Symmetrical Jacket;
+Shaman's Storm Sky Cloak;
+
+| boots =
+Charging Bull's Footguards;
+Greenwarden's Brilliant Boots (Level 70+)*CR;
+Greenwarden's Peaceful Boots (Level 70+)*CR;
+Spider's Storied Wraps;
+
+| athames =
+
+| amulets =
+
+| rings =
+Hannibal's Bronze Ring;
+Kakenya's Broken Band;
+Vir's Zafarite Stone;
+
+| wands =
+Greenwarden's Energetic Staff (Level 70+)*CR;
+Greenwarden's Peaceful Staff (Level 60+)*CR;
+
+| decks =
+
+| items =
+Chicken Coop*F2;
+
+| cards =
+Availing Hands*F4*WMV;
+Clockwork Spider*F11*WMV;
+Elemental Defuse;
+Empower*F5*WMV;
+Flood @ Flood (Wyvern's Hoard Pack)*F3*WMV;
+Fuel*F9*WMV;
+Gargantuan*F7*WMV;
+Power Link*F5*WMV;
+Precision*F2;
+Sirocco Djinni*F10*WMV;
+Sniper*F2;
+Spirit Defuse*F4;
+Supreme Sunburst;
+Triage*F2;
+Unstoppable*F4*WMV;
+
+| reagents =
+Bone;
+Brass*F2;
+Bronze*F4;
+Cobalt*F2;
+Leather Straps;
+Nickel;
+Sonic Spring*F2*WMV;
+Steel;
+Tin;
+
+| spellements =
+
+| snacks =
+Delicious Cookie;
+Flaming Soup;
+Flapjacks*F2;
+Glowing Taffy;
+Goat Cheese*F2;
+Golden Grapes;
+Kola Nuts;
+Spicy Drumstick;
+Strawberry Cupcake*F2;
+Submarine Sandwich;
+
+| jewels =
+Accurate Talent Opal;
+Big Energy Opal;
+Blade of Fire Ruby;
+Brilliant Light Jade;
+Cat Bandit Opal;
+Crystallize Sapphire;
+Death-Giver Onyx;
+Effervescent Opal;
+Insane Bolt Amethyst;
+Life-Away Jade;
+Life-Eye Jade;
+Opaque Accurate Onyx +8%;
+Opaque Blocking Jade +7;
+Opaque Blocking Peridot +7;
+Opaque Damage Amethyst +17;
+Opaque Damage Jade +17;
+Opaque Damage Onyx +17;
+Plain Damage Amethyst +16;
+Plain Defense Jade +32;
+The Deer Knight Rises Onyx;
+Ultra Boost Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Couch Potatoes*CR;
+Evil Snow Peas*F3;
+Grapes of Wrath*CR;
+Key Limes*CR;
+Snap Dragon;
+Venus Fly Trap;
+White Laugh-O-Dil;
+
+| mounts =
+Blue Fairy Wings;
+
+| spells =
+
+}}

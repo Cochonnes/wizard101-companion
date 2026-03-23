@@ -1,0 +1,192 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 15,295
+| crecla = Hopper
+| crecla2 = Mouse
+| school = Balance
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Downdraft Elemental;
+
+| world = Khrysalis
+| location = Crescent Beach
+| subloc1 = Desert Hopper Cave
+| descrip =
+
+| speech =
+:''"''Ka mate! Ka mate! Ka ora! Ka ora!'' Die, Spawn of Shadow!"''
+
+| spellnotes =
+
+| casts =
+Infallible;
+Vengeance;
+Black Mantle;
+Availing Hands (85+870);
+Balanceblade;
+Hex;
+Mana Burn (-4 Pips);
+Natural Attack (Balance 160-255-350);
+Samoorai;
+Power Nova;
+Sabertooth;
+Judgement;
+
+| quests =
+Hopping Mad;
+
+| gold =
+124 - 148;
+
+| hats =
+Digger's Mining Helmet;
+Gloom Dancer's Shroud;
+Mouse Knight's Helmet;
+
+| robes =
+Mantis Robe of Secrecy*F7*WMV;
+
+| boots =
+Burrower Scout's Hoppers*F7*WMV;
+Flame Legs Captain's Boots*F10*WMV;
+Gorge Excavator's Trekkers*F2*WMV;
+Mantis Stalkers of Secrecy;
+
+| athames =
+Blue Razor Hailstone Blade*F2*WMV;
+Hisser's Burning Cleaver*F3*WMV;
+
+| amulets =
+Benzzi's Campaign Memento;
+Collar of the Besieged*F4*WMV;
+Mantis Prophet's Ornament*F3*WMV;
+
+| rings =
+
+| wands =
+Dirk of Burrower Harmony*F2*WMV;
+Spear of Cold Truth*F2*WMV;
+Stave of Duststorms;
+Umbra Spear of Suppression;
+
+| decks =
+Bumbler's Sleetfall Pack*F3*WMV;
+Case of Engulfing Flames*F3*WMV;
+House of the Old Times*F4*WMV;
+
+| items =
+Khrysalis Combat Theme;
+Khrysalis Combat Theme 2*F2*WMV;
+Khrysalis Desert Shadows Theme*F2*WMV;
+Khrysalis Hive Combat Theme*F2*WMV;
+
+| cards =
+Avenging Fossil;
+Choke*F2*WMV;
+Death Scarab*F2*WMV;
+Disarm*F3*WMV;
+Fire Beetle;
+Giant Spider*F2*WMV;
+Life Scarab*F2;
+O'Leary Charlatan (Storm)*F2*WMV;
+Sanctuary*F2*WMV;
+Sun Serpent*F2*WMV;
+
+| reagents =
+Astral Shard*F10*WMV;
+Black Lotus*F4*WMV;
+Black Pearl*F3;
+Blood Moss*F3*WMV;
+Bone*F4*WMV;
+Bronze Gear*F7*WMV;
+Deep Mushroom*F4*WMV;
+Draconium;
+Fire Blossom*F5*WMV;
+Fossil*F2*WMV;
+Iron;
+Lava Lily*F4*WMV;
+Mist Wood*F6*WMV;
+Nickel*F2*WMV;
+Nightshade*F2;
+Ore*F4*WMV;
+Orichalcum;
+Red Mandrake*F6*WMV;
+Stone Block*F3*WMV;
+Sunstone;
+Titanium;
+Turquoise*F6*WMV;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F2*WMV;
+Cauliflowers*F2;
+Dr. Jalapeno;
+Flaming Soup;
+Goat Cheese*F2;
+Golden Apple;
+King Banana;
+Shiny Tomato*F2*WMV;
+Submarine Sandwich*F4*WMV;
+Uni-Corn*F4*WMV;
+
+| jewels =
+Animate Onyx;
+Attentive Opal;
+Blood Bat Peridot;
+Chipped Mana Opal +10;
+Chipped PIP Opal +1%;
+Clear Damage Opal +10;
+Cracked Defense Opal +4;
+Cracked Defense Peridot +12*F2*WMV;
+Energy Opal;
+Extra Mana Opal;
+Frost Beetle Sapphire;
+Gold Miner Opal;
+Polished Critical Sapphire +11;
+Polished Defense Sapphire +43;
+Scarab Citrine;
+Storm-Away Amethyst;
+Thunder Snake Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+Fish on a Vine;
+Pink Dandelion*CR;
+Red Bell Pepper;
+Saw Palmetto;
+Trumpet Vine;
+Queen Crape Myrtle;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

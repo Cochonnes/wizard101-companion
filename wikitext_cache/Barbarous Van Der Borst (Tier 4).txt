@@ -1,0 +1,144 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 6,120
+| crecla = Giant
+| school = Myth
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Edacious Ogre (Tier 4);
+Edacious Ogre (Tier 4);
+Rude Goblin (Tier 4);
+
+| world = Housing Instance
+| location = Spiral Cup Gauntlet
+| subloc1 = Spiral Cup Gauntlet (Tier 4)
+| descrip =
+
+| speech =
+:''"Last time the Goblins were in Wysteria, they brought back all of these colorful pamphlets. I've read a lot of good things about Pigswick Academy in these brochures. How fancy the program is. How expensive. How liberal-minded the course work is, and how restful the exam period. Pigswick sounds like a wonderful place! So wonderful that I wanted to start my own franchise. What better way than to seed my faculty with their plum staff? I've already headhunted a headmistress and a master of arms for my new school. Let's find out what position you should fill."''
+
+| cheatnotes =
+*{{Icon|Minion}} On the second round, this Boss spawns his minions.
+**The minions have higher health than in the last (Level 5) battle: the two ({{Link|Creature|Edacious Ogre (Tier 4)}} have 3,805 versus 2,605 health and the ({{Link|Creature|Rude Goblin (Tier 4)}} has 2,845 versus 2,610 health).
+*{{Icon|Round}} On the third round, each creature uses a +35% version of {{Link|Spell|Balanceblade}} to the right(?) creature until the last creature cheat casts {{Link|Spell|Tempest}}.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 165 Myth Damage for 1 Pip.
+*Deals 370 Myth Damage for 3 Pips.
+
+| casts =
+Amplify;
+Infallible;
+Mythblade;
+Myth Trap;
+Yellow Troll;
+Humongofrog;
+Minotaur;
+Earthquake;
+Orthrus;
+Medusa;
+
+| quests =
+Master of Arms;
+
+| gold =
+72 - 79;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Avalon Shield;
+Blue Vine Wallpaper*CR;
+Leaning Palm Tree;
+Medium Fir Tree;
+Small Evergreen Tree;
+Small Fir Tree;
+Stone Block Wallpaper;
+Summer Tree;
+Tall Palm Tree*CR;
+Tree Fountain*F2*WMV;
+
+| cards =
+
+| reagents =
+Cobalt;
+Frost Flower;
+Nickel;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Crunch Apple*F2*WMV;
+Double Popsicle;
+Fire Cracker;
+Gummy Bloodbat;
+Large Fish*F2*WMV;
+Meat Soup;
+Redskin Peanut;
+Square Watermelon;
+Wheat Cracker*F2*WMV;
+
+| jewels =
+Button Tom Peridot;
+Dull Damage Amethyst +14;
+Dull Defense Ruby +28;
+Gold Miner Opal;
+Plain Damage Jade +15;
+Plain Damage Ruby +15;
+Plain Defense Opal +16;
+Plain Mana Opal +25;
+Storm-Boon Amethyst;
+
+| pins =
+
+| pets =
+Rude Goblin*F2*WMV;
+
+| seeds =
+Blue Huckleberries;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,119 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,800
+| crecla = Undead
+| school = Ice
+| startpips = 4
+| powerpips = Yes
+| critical =
+72;
+
+| criticalblock =
+38;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Wizard City
+| location = Deep Warrens
+| subloc1 = Tower of Peladon
+| descrip =
+Pyromancers must defeat Old Maui during the Quest, ''The Third Professor'', in the search for the Pyromantic Globe of Peladon, an artifact that will let {{Link|NPC|The Professor}} teach them how to summon [[Spell:Sir Lamorak|Sir Lamorak Tinder Hart]].
+*This Boss is not repeatable.
+*This Boss is located in a solo dungeon. Other Wizards will not be able to port into the dungeon.
+
+| speech =
+:''"I led a life full of toil and strife, before a Wizard brought me low.  Now I'll drag you down to cold sea ground, and that's all you'll ever know!"''
+
+| spellnotes =
+
+| casts =
+Vengeance;
+Tower Shield;
+Iceblade;
+Ice Trap;
+Freeze;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Frostbite;
+Icezilla (650-730);
+Colossus;
+Snow Angel;
+
+| quests =
+The Third Professor;
+
+| gold =
+45 - 51;
+
+| hats =
+
+| robes =
+
+| boots =
+Finely Balanced Boots;
+Friend of the Fire Elf Boots*F2;
+Hanging Stones Striders;
+Long as Night Walkers;
+Luck Smithed Boots;
+Splashing Stream Waders;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Helephant;
+Minotaur;
+Satyr*F2*WMV;
+Spectral Blast;
+Triton;
+
+| reagents =
+Lava Lily;
+Ore*F2;
+Pearl;
+Red Mandrake;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

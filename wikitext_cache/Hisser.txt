@@ -1,0 +1,238 @@
+{{Stub|which versions of the ''{{Link|TreasureCard|Enfeeble}}'' and ''{{Link|TreasureCard|Shatter}} Treasure Cards'' this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 18,720
+| crecla = Beetle
+| crecla2 = Insect
+| school = Fire
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Gloom Dancer;
+
+| world = Khrysalis
+| location = Fort Rachias
+| subloc1 = Mess Hall
+| descrip =
+Hisser's profile label on the Fort Rachias map displays "The Hisser."
+
+| speech =
+:''":Hisss: Did you hear the dinner bell? No? That's because you're too early! Unlesss you want to become part of the messs! Try the soup!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+He's a firm believer that you don't play with your food. Just battle it, throw it in the pot and cook it.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Round}} ''"I thought you came here to hurt me!"'' - If Hisser does not take Damage in a Round, he will cast a 0-Pip Tempest at the end of the Round, which deals 80 Storm Damage per Pip, based on the number of pips he has at the end of the Round.  Power Pips count as normal Pips.
+*{{Icon|Damage over Time}} ''"Oh no you don't!"'' - If a Wizard casts a Damage over Time (DoT) Spell, he will cast a 0-Pip Shift to the Wizard at the end of the Round following the first Damage tick.
+
+| spellnotes =
+*The Tempest Spell that is cheat-cast, was observed to do the originally intended Damage amount, despite Resist.  One Pip Tempest will deal 80 Storm Damage, despite the Wizard's Resist.
+
+| casts =
+Amplify;
+Vengeance;
+Glacial Shield;
+Smoke Screen;
+Fireblade;
+Fire Trap;
+Fuel (+35%);
+Shift;
+Natural Attack (Fire 170-280-395);
+Meteor Strike (355-395);
+Phoenix (600-680);
+Efreet;
+Sun Serpent;
+Tempest;
+
+| quests =
+Into Rachias;
+
+| gold =
+152 - 346;
+
+| hats =
+Mouse Helm of the Besieged*F4*WMV;
+
+| robes =
+Battle-Worn Burrower Armor*F3*WMV;
+Besieged Burrower Armor*F4*WMV;
+Kermes Fire Miner's Tunic;
+Mantis Plate of Frostfall*F2*WMV;
+
+| boots =
+Mantis Hunter's Footwraps*F5*WMV;
+
+| athames =
+Last Wood Defender's Blade*F6*WMV;
+
+| amulets =
+
+| rings =
+Moon's Tear Band*F6*WMV;
+
+| wands =
+Withering Lance*F6*WMV;
+
+| decks =
+Mago's Death's Head Set*F6*WMV;
+Pack of Frozen Souls*F4*WMV;
+
+| items =
+Khrysalis Moon Cliffs Theme*F4*WMV;
+Khrysalis Tyrian Gorge Theme*F4*WMV;
+
+| cards =
+Black Widow;
+Choke*F2;
+Clockwork Spider*F3*WMV;
+Crystal Spider*F2*WMV;
+Disarm*F2*WMV;
+Doom and Gloom*F4*WMV;
+Enfeeble*F3*WMV;
+Fire Beetle;
+Gibson O'Leary;
+Hooligan;
+Legendary Treant (445);
+Locust Swarm;
+Lucius McTavish;
+Luminous Weaver*F2*WMV;
+O'Leary Charlatan (Storm)*F2*WMV;
+O'Leary Swindler*F3*WMV;
+Patches O'Leary*F3*WMV;
+Pierce;
+Polar Swarm*F2*WMV;
+Sanctuary;
+Scorpion*F3*WMV;
+Shatter*F2*WMV;
+Sprite Swarm (40+360)*F2*WMV;
+Storm Beetle*F2;
+White Rat Magician;
+Wildfire Treant*F2;
+
+| reagents =
+Amber Dust*F4*WMV;
+Black Lotus*F4*WMV;
+Black Pearl*F2*WMV;
+Blood Moss*F2*WMV;
+Bone*F6*WMV;
+Bronze Gear*F3*WMV;
+Copper*F3;
+Deep Mushroom*F7*WMV;
+Draconium;
+Fire Blossom*F2*WMV;
+Fossil*F3*WMV;
+Golden Pearl;
+Iron;
+Lava Lily*F5*WMV;
+Merle's Whisker*F4*WMV;
+Mist Wood*F5*WMV;
+Nickel;
+Nightshade*F2*WMV;
+Ore*F6*WMV;
+Orichalcum*F3*WMV;
+Pyrite*F5*WMV;
+Red Mandrake*F6*WMV;
+Silver;
+Stone Block*F5*WMV;
+Sunstone*F2*WMV;
+Titanium;
+Tungsten*F2*WMV;
+Turquoise*F4*WMV;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F3*WMV;
+Goat Cheese*F2*WMV;
+Golden Apple*F2;
+Golden Grapes*F2*WMV;
+Gummy Bees*F3*WMV;
+Gummy Humongofrog*F2;
+Hive Rinds*F2*WMV;
+Honey Bombs*F3*WMV;
+Honeycombs*F2*WMV;
+Honeycrisp Apples*F2*WMV;
+HoneyDon't Melon*F2*WMV;
+King Banana*F3*WMV;
+Peanut Butterflies*F2*WMV;
+Punk Rock Candy*F2*WMV;
+Spicy Stingers*F2*WMV;
+Sugar Khrystals*F3*WMV;
+
+| jewels =
+Chipped Mana Opal +10;
+Cracked Defense Amethyst +12;
+Cracked Defense Jade +12;
+Cycle of Life Opal*F2;
+Fire Elemental Ruby;
+Frost Beetle Sapphire;
+No Pain, No Gain Onyx;
+Polished Accurate Opal +5%;
+Polished Blocking Amethyst +12;
+Polished Blocking Citrine +12;
+Polished Blocking Onyx +12;
+Polished Blocking Ruby +12;
+Polished Defense Amethyst +43;
+Polished Defense Jade +44;
+Polished Defense Sapphire +44;
+Sleet Storm Opal*F3*WMV;
+Sprite Guardian Jade;
+Stop Leader Opal;
+Think Fast! Opal;
+Water Elemental Amethyst;
+
+| pins =
+
+| pets =
+Piranha Hunter*F3*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak;
+Blue Huckleberries;
+Face Palm*F2*WMV;
+Fiery Boom Shroom*F2*WMV;
+Frozen Fly Trap;
+Queen Crape Myrtle;
+
+| mounts =
+
+| spells =
+
+}}

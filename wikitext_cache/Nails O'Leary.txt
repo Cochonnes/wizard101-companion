@@ -1,0 +1,171 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 880
+| crecla = Cat
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+O'Leary Scurrier;
+
+| world = Marleybone
+| location = The Ironworks
+| subloc1 = Nails' Clocktower
+| descrip =
+*Two additional O'Leary Scurriers will appear if more than two Wizards are present.
+
+| speech =
+:''"What!?!  Ya need the combination to da gate to see Pops?  You expect me just to tell you that?  Yous gonna have ta beat it outta me!  I don't think yous know who yous messin' with.  Nails don't bend for no one!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Snow Shield;
+Weakness;
+Black Mantle;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Ash Bats;
+Fire Elf;
+Sunbird;
+Fire Shark;
+Fire Wyvern (335-395, 4 Pip);
+Heck Hound;
+Leprechaun;
+Banshee;
+
+| quests =
+Gate Crashers;
+
+| gold =
+23 - 47;
+
+| hats =
+Finely Finished Mask;
+Helm of Intolerance*F2*WMV;
+Masterful Canine Cowl;
+Nails' Hat of Parity*F2;
+Nails' Helm of the Clever*F2;
+Nails' Medical Hat;
+Nails' Singed Headwrap*F2*WMV;
+Nails' Soothing Helm*F3*WMV;
+Smooth Spun Hat;
+
+| robes =
+Nails' Singed Tunic*F3;
+Nails' Tunic of Equation*F2;
+Nails' Tunic of Reverence;
+Nails' Vestment of Invention*F3*WMV;
+Nails' Vestment of the Mender;
+O'Leary's Vestment;
+
+| boots =
+Boots of Sparking Energy;
+Cat Burglar's Shoes;
+Footwraps of Dreamland;
+Nails O'Leary's Footwraps*F2*WMV;
+Nails O'Leary's Shoes;
+Nails' Debonair Slippers*F3*WMV;
+Nails' Obligatory Sandals*F2;
+Nails' Smooth Spun Boots;
+Nails' Sophisticated Shoes;
+Shoes of Bottled Anger*F2;
+Shoes of Humanity;
+Shoes of the Breakneck;
+
+| athames =
+Athame of Chivalry*F2*WMV;
+
+| amulets =
+
+| rings =
+Nails' Band of Stasis*F4;
+Ring of Rejuvenation;
+
+| wands =
+O'Leary Jinxed Staff*F2*WMV;
+
+| decks =
+O'Leary's Deck of Unicorns;
+O'Leary's Deck of Winter*F2;
+
+| items =
+Fishbones;
+Marleybone Dance Theme;
+Nailed Boards*F3*WMV;
+Tall Crate;
+
+| cards =
+Black Mantle;
+Dryad;
+Tough;
+
+| reagents =
+Bone*F2*WMV;
+Copper;
+Iron*F3*WMV;
+Lead*F2;
+Leather Straps*F3;
+Nickel*F2;
+Pyrite*F2;
+Tin*F2*WMV;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn*F2*WMV;
+Gummy Bloodbat;
+Medium Fish;
+Redskin Peanut;
+Wheat Cracker;
+
+| jewels =
+Banshee Onyx;
+Chipped Defense Opal +8;
+Chipped Health Opal +21;
+Chipped Health Opal +23;
+Chipped Mana Opal +10;
+Cyclops Peridot;
+Dawdle Opal;
+Evil Snowman Sapphire;
+Flawed Health Opal +30;
+Flawed Resilient Opal +2%;
+Healer Opal;
+Ice-Proof Sapphire;
+Life-Shot Jade;
+Storm Shark Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

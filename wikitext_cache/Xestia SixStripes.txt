@@ -1,0 +1,207 @@
+{{Stub|which version of the ''{{Link|TreasureCard|O'Leary Charlatan}}'' Treasure Card is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 19,620
+| crecla = Moth
+| crecla2 = Insect
+| school = Ice
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Giant Spider (Fire)
+
+| world = Khrysalis
+| location = The Hive
+| subloc1 = Recluse Chamber
+| descrip = Two additional {{Link|Creature|Crypt Spider}}s will appear if more than two Wizards are present.
+
+| speech =
+:''"I came in here to get away from it all!  Who are all of you?  A Wizard, a Rat, and a hooded stranger walk into the Recluse Chamber?  Sounds like the set-up to a bad joke!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+You're not fully mean unless you're Xestia-fully mean.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Volcanic Shield;
+Legion Shield (-35%);
+Iceblade;
+Ice Trap;
+Balefrost;
+Natural Attack (Ice 108-200-295);
+Frostbite;
+Frost Demon;
+Frost Giant (530);
+Lord of Winter;
+
+| quests =
+Reclusive;
+
+| gold =
+133 - 161;
+
+| hats =
+Kermes Fire-Hardened Mask*F4*WMV;
+Mantis Guard's Headgear*F3*WMV;
+Scarred Burrower Greathelm*F5*WMV;
+
+| robes =
+Beleaguered Mouse Gear*F3*WMV;
+
+| boots =
+Kermes Fire Miner's Clogs;
+
+| athames =
+Ghostmane's Fabled Cutter*F2;
+
+| amulets =
+CurdWright Medallion;
+Death's Head Talisman*F3*WMV;
+Jewel of the Apiary*F2;
+
+| rings =
+Mantis Prophet's Ringlet;
+Seal of the Lost King;
+
+| wands =
+Halberd of Extermination;
+Halberd of Mesmerizing*F2;
+Poleaxe of Mantis Dominion;
+Spear of Mantis Voracity;
+Sword of Burrower Vengeance;
+
+| decks =
+Barbed Case of Stratagem*F2;
+Box of Indomitable Spirit*F3*WMV;
+Lightning Rider's Deck;
+
+| items =
+Khrysalis Combat Theme 2*F3*WMV;
+Khrysalis Hive and Seek Theme*F2;
+Khrysalis Hive Combat Theme*F2;
+
+| cards =
+Avenging Fossil;
+Cycle of Life;
+Doom and Gloom*F2;
+Enfeeble*F3;
+Furnace*F2;
+Galvanic Field;
+Hooligan;
+Legendary Treant (445)*F3*WMV;
+Locust Swarm*F2*WMV;
+Luminous Weaver;
+O'Leary Charlatan;
+Polar Swarm;
+Punishment;
+Reliquary;
+Sprite Swarm (40+360);
+Storm Owl;
+Virulence;
+Wildfire Treant;
+
+| reagents =
+Astral Shard*F7*WMV;
+Black Lotus*F3*WMV;
+Black Pearl;
+Blood Moss*F2;
+Bone*F3*WMV;
+Bronze Gear*F3*WMV;
+Deep Mushroom*F3*WMV;
+Draconium*F4;
+Fire Blossom*F5*WMV;
+Fossil*F3*WMV;
+Golden Pearl;
+Lava Lily*F3*WMV;
+Mist Wood*F4*WMV;
+Mithril;
+Nightshade;
+Ore*F2;
+Orichalcum*F3*WMV;
+Red Mandrake*F3*WMV;
+Stone Block*F5*WMV;
+Sunstone;
+Turquoise*F2*WMV;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Cauliflowers*F3;
+Flaming Soup*F2*WMV;
+Glowing Dragon Fruit;
+Glowing Star Fruit*F2;
+Golden Grapes*F2;
+King Banana*F2;
+Salmonberry*F4*WMV;
+Shiny Tomato*F2;
+Submarine Sandwich*F3*WMV;
+Uni-Corn;
+
+| jewels =
+Animate Skeleton Onyx;
+Balanceblade Talent Citrine;
+Malduit Onyx;
+Opaque Critical Opal +4;
+Polished Blocking Ruby +12;
+Polished Critical Jade +12;
+Polished Damage Hematite +42;
+Polished Damage Ruby +22;
+Steal Health Talent Onyx;
+Storm-Tooth Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries*F2;
+Deadly Ninja Fig*F2;
+Fish on a Vine;
+Honey Bee Plant*F2;
+Melting Cheese Tree;
+Moon Flower;
+White Laugh-O-Dil*F2;
+
+| mounts =
+
+| spells =
+
+}}

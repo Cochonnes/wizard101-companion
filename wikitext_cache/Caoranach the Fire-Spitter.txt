@@ -1,0 +1,238 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 10,000
+| crecla = Wyrm
+| school = Fire
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Night Goblin;
+
+| world = Avalon
+| location = High Road
+| subloc1 = Fire-Spitter's Lair
+| descrip =
+Caoranach the Fire-Spitter is a dreaded wyrm in Avalon, with a lethally venomous bite.
+*Two additional {{Link|Creature|Hobgoblin Fiend}} Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Hissssss!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Avalon
+| tome description =
+Dwelling within the Poisoned Well, Caoranach the Fire-Spitter is a fearsome beast. His venom is lethal for if it touches your skin your fate is sealed.
+
+| extract class =
+Wyrm;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Fireblade;
+Fire Trap;
+Natural Attack (Fire 140-280-435);
+Fire Shark;
+Meteor Strike;
+Scald;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Efreet;
+
+| quests =
+Well Poisoned;
+
+| gold =
+84 - 107;
+
+| hats =
+Brisk Helmet of Nodor*F2;
+Champion of Order's Icy Helm*F7;
+Chaos Knight's Blazing Helm*F5*WMV;
+Fire Spirits' Toasty Helm;
+
+| robes =
+Bad Storm Armor;
+Fire Spirits' Toasty Tunic;
+Fire-Spitter Robes*F4*WMV;
+Robes of the Silent Hunter;
+Windbreaker of Nodor;
+Winter Wyrm's Cloak*F2;
+
+| boots =
+Courageous Knight's Boots*F7;
+Friend of the Fire Elf Boots;
+Noble Knight's Boots*F6;
+Ponycorn Hoofers*F2;
+Slick Road Grippers;
+Splashing Stream Waders;
+
+| athames =
+Badger's Claw*F3*WMV;
+Weirwood's Thorn;
+
+| amulets =
+Druid's Amulet of Courage*F2*WMV;
+Pendant of Armiger's Tenacity*F5*WMV;
+
+| rings =
+Band of the Lost Abbey;
+Circle of Caliburn;
+Dun Dara's Triskelion;
+Knight Errant's Seal;
+Lake Spiral Ring;
+Toasty Band of the Fire Elves*F5*WMV;
+
+| wands =
+Bludgeon of Confidence*F4;
+Highland Shillelagh*F2*WMV;
+
+| decks =
+Tanglewood Cards*F10*WMV;
+
+| items =
+Avalon Abbey Road Theme*F5*WMV;
+Avalon Main Theme*F3;
+Avalon Well;
+Avalon Wooden Table;
+Stone Skeleton Key*CR*F11*WMV;
+Wide Red Rose Banner*F2;
+
+| cards =
+Catalan*F3*WMV;
+Choke*F5;
+Efreet;
+Fire Dragon;
+Fuel*F6*WMV;
+Gargantuan;
+Immolate*F5*WMV;
+Leviathan;
+Orthrus*F2*WMV;
+Power Link*F5*WMV;
+Power Nova;
+Rebirth*F2;
+Scald*F10*WMV;
+Skeletal Dragon;
+Snow Angel;
+Steal Charm*F10*WMV;
+Storm Lord*F2;
+
+| reagents =
+Black Lotus*F2;
+Brass*F3;
+Bronze;
+Cat Tail*F3;
+Cobalt*F2*WMV;
+Deep Mushroom*F8;
+Frost Flower*F8*WMV;
+Lava Lily*F5*WMV;
+Mist Wood*F8;
+Nickel*F3;
+Nightshade;
+Ore*F6*WMV;
+Parchment*F7;
+Pearl*F8*WMV;
+Red Mandrake*F3*WMV;
+Shell*F8*WMV;
+Stone Block*F8*WMV;
+
+| spellements =
+
+| snacks =
+Bogwich*F4;
+Cauliflowers*F3*WMV;
+Cheese Broccoli;
+Chocolate Strawberry;
+Cracker;
+Glowing Star Fruit*F3*WMV;
+Golden Grapes*F2;
+Green Grapes;
+Gummy Firecat;
+Gummy Humongofrog*F4;
+Gummy Wyrms*F2;
+King Banana;
+Kola Nuts;
+Nettle Root*F3;
+Pigeon Pie*F2;
+Roasted Chickpeas;
+Sugar Donut*F2*WMV;
+Tiny Fish*F3;
+Treant Bark;
+
+| jewels =
+Clear Blocking Onyx +10;
+Clear Defense Citrine +37;
+Clear Defense Onyx +37;
+Clear Piercing Sapphire +5%;
+Delay Opal;
+Fire Trap Ruby (Triangle);
+Huge Energy Opal;
+Ice Trap Sapphire (Triangle);
+Opaque Critical Onyx +7;
+Opaque Critical Sapphire +7;
+Opaque PIP Opal +7%;
+Plaguebringer Onyx;
+Plain Blocking Opal +3;
+Storm Trap Amethyst (Triangle);
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+Deadly Fly Trap*F2;
+Evil Magma Peas*CR;
+Frozen Fly Trap;
+Key Limes*CR;
+Maltese Tiger Lily;
+Pink Dandelion*CR;
+Pink Huckleberries;
+Red Huckleberries;
+Silver Trumpet Vine*CR;
+Trumpet Vine;
+White Desparagus*F3*WMV;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

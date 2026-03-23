@@ -1,0 +1,182 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 4,000
+| crecla = Pig
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = MooShu
+| location = Crimson Fields
+| descrip =
+Yakedo is a bonus Boss in the Crimson Fields. He is summoned by raising all four flags on the battlefield prior to completing the Quest {{Link|Quest|Passing Stones}}. He will appear on the lower battlefield with the roaming enemies after receiving the Quest {{Link|Quest|Battle of Evermore}}.
+*Yakedo drops unique school insignia gear, such as ''Yakedo's Hypothetical Helm'', the Myth school version of the {{Link|Item|Elegant Hat}}.
+
+| speech =
+:''"So! You have raised the banners for the Emperor. Looks like I'll have to teach you who to respect around here!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+A treacherous Banner Master, his intentions are his own.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Smoke Screen;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Sunbird;
+Fire Shark;
+Meteor Strike;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Natural Attack (Fire 100x);
+Heck Hound;
+Minotaur;
+ 
+| quests =
+
+| gold =
+60 - 104;
+
+| hats =
+Cap of the Verse;
+Cowl of Tact;
+Hat of the Observant;
+Haskarr's Barbarish Cap;
+Heedful Headwraps;
+Nunu's Mask of the Twisted;
+Problematic Headwraps;
+Yakedo's Cap of Premise*F3*WMV;
+Yakedo's Hypothetical Helm*F3*WMV;
+Yakedo's Shroud*F2*WMV;
+
+| robes =
+Cloak of Deliberation;
+Garments of Predicament;
+Robe of the Verse;
+Vestment of Fiction;
+Yakedo's Brainstorming Robe*F3*WMV;
+Yakedo's Hypothetical Robe*F2*WMV;
+Yakedo's Rational Cloak*F3*WMV;
+
+| boots =
+Footwraps of Generations;
+Footwraps of Predicament;
+Proficient Shoes;
+Vigilant Sandals;
+Yakedo's Abstract Shoes*F3*WMV;
+Yakedo's Boots*F4*WMV;
+Yakedo's Sandals of Belief*F2*WMV;
+Yakedo's Slippers*F2;
+
+| athames =
+Bodkin of the Hearty*CR;
+
+| amulets =
+
+| rings =
+Invigorating Signet*CR;
+
+| wands =
+
+| decks =
+
+| items =
+Crossed Naginata Spears*F2*WMV;
+Fancy Bench;
+Green Sword Display*F2*WMV;
+Indoor Shrine*F2;
+MooShu Haunted Theme*F3*WMV;
+Professor Wu*CR*F2;
+Small Woodpile;
+Stone Base;
+Stone Dog Statue;
+Tall Boulder;
+
+| cards =
+Minotaur*F2;
+Ninja Pigs*F3;
+
+| reagents =
+Bone*F3*WMV;
+Brass*F2;
+Bronze Gear;
+Leather Straps*F2*WMV;
+Pyrite;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Crunch Apple*F2*WMV;
+Fire Cracker*F2*WMV;
+Golden Peanut*F2;
+Golden Squash;
+Large Fish*F2*WMV;
+Square Root;
+
+| jewels =
+Blemished Defense Opal +11;
+Blemished Health Opal +40;
+Blemished Mana Opal +17;
+Fire-Giver Ruby;
+Flawed Accurate Jade +4%;
+
+| pins =
+
+| pets =
+Death Ninja*F4*WMV;
+Diseased Wildclaw*CR*F3*WMV;
+
+| seeds =
+Deadly Ninja Fig*F3*WMV;
+Fiery Boom Shroom;
+Maelstrom Snap Dragon*F2*WMV;
+Pink Dandelion*CR*F2*WMV;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

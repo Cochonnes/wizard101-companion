@@ -1,0 +1,197 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 5,600
+| crecla = Elemental
+| crecla2 = Undead
+| crecla3 = Colossus
+| school = Ice
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Dragonspyre
+| location = The Crucible
+| descrip =
+
+| speech =
+:''"I am Boris Blackrock, the Obsidian Golem. The Council trained me to defend the Wizard's knowledge from the warriors. When the Wizards summoned the Titan, I alone had the knowledge to fight it. I met it in battle, and though I fought bravely and with great skill, it was not enough. My body was destroyed. When I fell, so did Dragonspyre. Defeat me, and you show yourself to be Dragonspyre's greatest hero."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+The one. The only, The Ghost Elemental Boris Blackrock!
+
+| extract class =
+Colossus;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Blight Hound;
+Stun Block;
+Ice Armor;
+Ice Prism;
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Ice Elf (30+210);
+Evil Snowman;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Arcticzilla;
+Colossus;
+Troll;
+Vampire;
+Natural Attack (Fire 100x);
+
+| quests =
+The Last Lesson;
+
+| dropnotes =
+When a Wizard has unlocked the '''Oni Slayer''' {{Icon|Oni Slayer}} Badge and has not unlocked the '''Astrologist''' {{Icon|Astrologist}} Badge, the following drops will be available:
+*14 Spellements will drop each time from the '''Elemental''' (Fire, Ice, Storm, Balance) Schools for their respective rank 2-6 Spells.
+
+| gold =
+60 - 70;
+
+| hats =
+Cap of the Salamander;
+Herbalist's Hood*F7;
+Mantle of the Undying*F3;
+Onyx-Banded Coif*F3;
+Veil of Illusion;
+
+| robes =
+Blackrock's Obsidian Drape*F3;
+Blizzard Cloak;
+Chilling Cloak*F7*WMV;
+Coat of Impartiality*F3;
+Coat of Omniscence*F3;
+
+| boots =
+Blizzard Boots*F3;
+Sandals of the Generous Earth*F3*WMV;
+Shoes of Equilibrium*F9;
+
+| athames =
+Lancet of Equality*F5*WMV;
+Lifegiver's Edge*F6;
+Scaled Smallsword*F2;
+
+| amulets =
+
+| rings =
+Ring of Equilibrium*F2;
+Ring of the Harpy*F2;
+Ring of Wyrmkind*F3*WMV;
+
+| wands =
+Blackrock's Obsidian Blade*F2;
+
+| decks =
+Blackrock's Obsidian Deck;
+
+| items =
+Boris Blackrock Statue*F2;
+Inferno Plaque*F2;
+Volcanic Steam Vent*F7*WMV;
+
+| cards =
+
+| reagents =
+Brass*F4;
+Bronze Gear*F6*WMV;
+Cobalt*F2;
+Nickel*F2;
+Tin*F2;
+
+| spellements =
+Blight Hound*BR;
+Colossus*BR*F2;
+Evil Snowman*BR;
+Fire Elf*BR*F2;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Ice Wyvern*BR*F2;
+Immolate*BR*F2;
+Kraken*BR;
+Lightning Bats*BR;
+Locust Swarm*BR;
+Phoenix*BR*F2;
+Scorpion*BR;
+Snow Serpent*BR*F2;
+Storm Shark*BR;
+Stormzilla*BR*F2;
+Sunbird*BR*F2;
+Triton*BR;
+
+| snacks =
+
+| jewels =
+Add Health Opal;
+Balance-Boon Citrine;
+Balance-Off Citrine;
+Colossus Sapphire;
+Dull Blocking Amethyst +4;
+Dull Blocking Jade +4;
+Dull Blocking Peridot +4;
+Dull Blocking Ruby +4;
+Dull Blocking Sapphire +4;
+Dull Damage Amethyst +13;
+Dull Damage Citrine +13;
+Dull Damage Onyx +13;
+Dull Damage Sapphire +13;
+Dull Defense Opal +14;
+Helephant Ruby;
+Ice-Eye Sapphire*F2;
+Life-Giver Jade;
+Myth-Away Peridot*F2;
+Quick Learner Opal;
+Sanctuary Jade*F2;
+Stormzilla Amethyst*F2;
+Super-Lock Opal;
+Wraith Onyx;
+
+| pins =
+
+| pets =
+Fire Serpent*F8*WMV;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

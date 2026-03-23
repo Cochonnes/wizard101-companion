@@ -1,0 +1,166 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 800
+| crecla = Rat
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Tomb Roamer;
+
+| world = Marleybone
+| location = Newgate Prison
+| subloc1 = Gibson's Factory
+| descrip =
+*Gibson O'Leary is a Boss in Newgate Prison encountered while chasing Meowiarty during the Quest, Stop That Cat!.
+*Two additional Tomb Roamer Minions appear if more than two Wizards are present.
+
+| speech =
+:''"You'll never catch Meowiarty!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip.
+
+| casts =
+Snow Shield;
+Black Mantle;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Ash Bats;
+Fire Elf;
+Sunbird;
+Fire Shark;
+Fire Wyvern (335-395, 4 Pip);
+Heck Hound;
+Leprechaun;
+Banshee;
+
+| quests =
+Stop That Cat!;
+
+| gold =
+28 - 74;
+
+| hats =
+Cap of the Ice Wyvern;
+Cap of the Phoenix;
+Cap of the Supreme;
+Dandy Hat;
+Enticing Cowl;
+Exquisite Cowl;
+Hat of Numbness;
+Hat of the Enigma;
+Headwraps of Restoration;
+Helm of Chivalry*F4;
+Opportunists' Cap;
+
+| robes =
+Affable Cloak;
+Brisk Robe*F4;
+Medic's Robe*F2;
+Sophisticated Tunic;
+Vest of Predominance;
+
+| boots =
+Animated Canine Shoes;
+Cat Burglar's Shoes;
+Glowing Canine Shoes*F2;
+Jolting Boots;
+Masterful Canine Shoes*F5;
+Silent Canine Shoes*F2*WMV;
+Slippers of Tranquility;
+Superstitious Canine Shoes*F2*WMV;
+
+| athames =
+Fink's Stiletto;
+Graceful Stiletto;
+
+| amulets =
+
+| rings =
+Animated Ring;
+Commoner's Ring;
+
+| wands =
+
+| decks =
+Deck of the Banshee*F2;
+Deck of the Phoenix*F3;
+
+| items =
+Blue Street Light*F2*WMV;
+Gas Can*F3*WMV;
+Short Roof Vent;
+Thick Roof Vent;
+
+| cards =
+Ghost Touch*F3*WMV;
+Heck Hound;
+Pacify;
+Vampire;
+
+| reagents =
+Bone*F6;
+Copper*F2;
+Iron;
+Lead*F2*WMV;
+Nickel;
+Pyrite;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Medium Fish;
+Redskin Peanut*F2;
+Square Watermelon*F2*WMV;
+Stinky Cheese*F3;
+Wheat Cracker;
+
+| jewels =
+Banshee Onyx;
+Chipped Accurate Ruby +3%;
+Chipped Damage Sapphire +8;
+Chipped Defense Opal +8;
+Cyclops Peridot;
+Death-Giver Onyx;
+Evil Snowman Sapphire*F2;
+Flawed Health Opal +30;
+Locust Swarm Citrine;
+Sprite Jade;
+Storm Shark Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

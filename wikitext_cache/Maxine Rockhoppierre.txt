@@ -1,0 +1,319 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 14,595
+| crecla = Penguin
+| school = Shadow
+| school2 = Death
+| masteries =
+Balance;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+Death;
+
+| critical =
+250 Any;
+
+| criticalblock =
+250 Any;
+
+| outpierce =
+18%;
+
+| outboost =
+113%;
+
+| incboost =
+None;
+
+| incresist =
+45% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Aberrant Pinguoin;
+Aberrant Pinguoin;
+Aberrant Pinguoin;
+
+| summons =
+Aberrant Maxine;
+
+| world = Novus
+| location = La Ville Rose
+| subloc1 = Maxine's Office
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*Additional Aberrant Pinguoin minions can fill all duel slots when a third Wizard enters mid-combat if there are slots available.
+
+| speech =
+:''"You see, Wizard? The true face of Novus is my face. It is me. It is mine. Everything is mine. Reflections? Non, non, you are wrong. These are acknowledgements, olive branches. Dasein is reaching out to embrace me, change me, EMPOWER! ...And reject all others."''
+
+| cheatnotes =
+*{{Icon|Aura}} ''"Dasein protects me!"'' - Starting on Round 1, Maxine interrupt casts an ''Invulnerability'' '''-200%''' version of Brace on herself.
+**The Aura cannot be removed.
+*{{Icon|Minion}} ''"Vive la revolution!"'' - After all Minions are defeated, she casts a Shadow Spell to Summon {{Link|Creature|Aberrant Maxine}}.
+**In addition, she'll cast a version of Frenzy using her turn, and recasts every 4 Rounds.
+
+| spellnotes =
+
+| casts =
+Frenzy (Unrestricted);
+Justiceblade (Balance);
+Equalize;
+Colossafrog (Shadow);
+Spectral Blast (Shadow);
+Lord of Night (Shadow);
+Glowbug Squall (Shadow, 1,120);
+Ship of Fools (Tier 3b);
+Gravestorm;
+Scarecrow;
+Old One's Endgame (Tier 3a);
+
+| quests =
+Mad Maxine;
+
+| dropnotes =
+The following drops will be given for defeating Maxine Rockhoppierre:
+*1-2 Pixels
+*A random mix of 7 Spellemental Treasure Cards and Spellements for any school
+
+| gold =
+19 - 93;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Abstract Aeon Athame*F2*WMV;
+Abstract Masterpiece Athame*F2*WMV;
+Crystalline Aeon Athame*F2*WMV;
+Crystalline Masterpiece Athame*F3*WMV;
+Dreamscape Aeon Athame*F2*WMV;
+Dreamscape Masterpiece Athame*F2*WMV;
+Fractal Aeon Athame*F2*WMV;
+Fractal Masterpiece Athame*F2*WMV;
+Inspired Aeon Athame*F3*WMV;
+Inspired Masterpiece Athame;
+Macabre Aeon Athame;
+Macabre Masterpiece Athame*F2*WMV;
+Primordial Aeon Athame*F2*WMV;
+Primordial Masterpiece Athame*F3*WMV;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Novus Conatus Alternate Theme;
+Novus Conatus Combat Theme;
+Novus Conatus Theme*F2*WMV;
+Novus Dasein Theme 1*F2;
+Novus Dasein Theme 2*F3*WMV;
+Novus La Ville Rose Combat Theme;
+Novus La Ville Rose Theme*F2*WMV;
+Novus Manticore Madness Theme 1*F2*WMV;
+Novus Manticore Madness Theme 2*F2*WMV;
+Novus New Vicorgia Combat Theme*F4*WMV;
+Novus New Vicorgia Theme*F2*WMV;
+Novus Nucleus Gallery Theme;
+Novus Puerto Nuovo Combat Theme;
+Novus Puerto Nuovo Theme;
+Novus Stone of Heaven Combat Theme*F4*WMV;
+Novus Stone of Heaven Theme*F3*WMV;
+Novus War Combat Theme*F2*WMV;
+Novus War Theme*F3*WMV;
+Valencia Combat Theme 2;
+Valencia Danger Theme*F3*WMV;
+Valencia Espionage Theme*F2*WMV;
+Valencia Kane Combat Theme;
+Valencia Kane Theme;
+
+| cards =
+Azoth*F3*WMV;
+Balefrost;
+Banshee (Tier 2b)*F2;
+Blood Bat (Tier 2b)*F2;
+Brilliant Light;
+Combustion;
+Cyclops (Tier 2b)*F2;
+Dark Sprite (Tier 2b);
+Darkwind;
+Deathspear*F3*WMV;
+Doom and Gloom;
+Elemental Blade*F2*WMV;
+Elemental Trap*F2;
+Evil Snowman (Tier 2b)*F2;
+Fire Cat (Tier 2b)*F2;
+Fire Elf (Tier 2b)*F3*WMV;
+Fire Prism;
+Firespear;
+Frost Beetle (Tier 2b)*F3*WMV;
+Gargantuan;
+Ghoul (Tier 2b)*F2*WMV;
+Ice Prism;
+Icespear;
+Imp (Tier 2b)*F5*WMV;
+Leprechaun (Tier 2b);
+Life Prism;
+Lightning Bats (Tier 2b)*F3*WMV;
+Locust Swarm (Tier 2b)*F4*WMV;
+Myth Prism*F2;
+Mythspear*F3*WMV;
+Nature's Wrath (Tier 2b)*F2*WMV;
+Pacify;
+Power Play;
+Scarab (Tier 2b)*F2*WMV;
+Scorpion (Tier 2b);
+Snow Serpent (Tier 2b);
+Storm Prism*F2*WMV;
+Storm Shark (Tier 2b)*F4*WMV;
+Storm Shield*F2*WMV;
+Stormspear;
+Sunbird (Tier 2b)*F5*WMV;
+Thunder Snake (Tier 2b)*F5*WMV;
+Time of Legend;
+Troll (Tier 2b)*F4*WMV;
+
+| reagents =
+Bone*F7*WMV;
+Brass;
+Bronze Gear*F6*WMV;
+Cobalt*F3*WMV;
+Ectoplasm*F3*WMV;
+Fish Fin*F4*WMV;
+Lead*F3*WMV;
+Leather Straps*F2;
+Nickel*F3*WMV;
+Pixels*F8*WMV;
+Pyrite;
+Scales;
+Spider Silk;
+Tin*F2*WMV;
+Turmeric*F2*WMV;
+Tungsten;
+
+| spellements =
+Barbarian's Saga*F7*WMV;
+Blast Off!*F4*WMV;
+Dark & Stormy*F2;
+Deathly Depths*F3*WMV;
+Freeze Ray*F3*WMV;
+Glimpse of Infinity*F4*WMV;
+Gravestorm*F6*WMV;
+Grim Reader*F4*WMV;
+Grrnadier*F5*WMV;
+Improbable Gaze*F4*WMV;
+Lord of the Jungle*F3*WMV;
+Mockenspiel*F4*WMV;
+Old One's Endgame*F2;
+Scales of Destiny*F5*WMV;
+S'more Machine*F3*WMV;
+Scales of Destiny;
+Shatterhorn*F3*WMV;
+Snack Attack*F2*WMV;
+Sound of Musicology*F2;
+Starspawn*F2*WMV;
+Tatzlewurm Terror*F4*WMV;
+Tree of Strife*F5*WMV;
+
+| snacks =
+
+| jewels =
+Amazing Accurate Citrine +15%;
+Amazing Accurate Jade +15%;
+Amazing Accurate Peridot +15%;
+Amazing Accurate Ruby +15%;
+Amazing Accurate Sapphire +15%;
+Amazing Archmastery Opal +14 (Tear);
+Amazing Health Opal +138*F2*WMV;
+Amazing Health Opal +139*F2*WMV;
+Amazing Health Opal +140*F2*WMV;
+Amazing Health Opal +141;
+Amazing Health Opal +142;
+Amazing Health Opal +143*F2*WMV;
+Amazing Health Opal +144;
+Amazing Health Opal +145;
+Amazing Mana Opal +57;
+Amazing Mana Opal +58*F2*WMV;
+Amazing Mana Opal +60*F2;
+Amazing PIP Hematite +3;
+Buck Gordon Ruby;
+Deathly Depths Sapphire*F2;
+Dog Tracy Amethyst*F2;
+Duck Savage Sapphire;
+Flawless Accurate Amethyst +16%;
+Flawless Accurate Citrine +16%*F2*WMV;
+Flawless Accurate Jade +16%*F2*WMV;
+Flawless Accurate Onyx +16%*F2*WMV;
+Flawless Accurate Ruby +16%;
+Flawless Archmastery Opal +15 (Tear);
+Flawless Health Opal +146;
+Flawless Health Opal +147;
+Flawless Health Opal +148;
+Flawless Health Opal +149;
+Flawless Health Opal +150*F2*WMV;
+Flawless Health Opal +152;
+Flawless Health Opal +153;
+Flawless Health Opal +154;
+Flawless Health Opal +155;
+Flawless Mana Opal +61;
+Flawless Mana Opal +63;
+Flawless Mana Opal +64;
+Glimpse of Infinity Ruby;
+Gravestorm Onyx*F2*WMV;
+Improbable Gaze Peridot;
+Lustrous PIP Opal +10%;
+Mandar Peridot;
+Quartermane Citrine;
+Scales of Destiny Citrine*F2;
+Solomon Crane Onyx;
+The Bantam Jade*F2*WMV;
+Tree of Strife Amethyst;
+
+| pins =
+Balance Accurate Pin (100)*F2*WMV;
+Balance Conversion Pin (150)*F3*WMV;
+Balance Conversion Pin (160)*F3*WMV;
+Death Accurate Pin (100)*F2*WMV;
+Death Conversion Pin (150)*F2*WMV;
+Death Conversion Pin (160);
+Fire Accurate Pin (100)*F4*WMV;
+Fire Conversion Pin (160)*F3*WMV;
+Ice Accurate Pin (110)*F3*WMV;
+Ice Conversion Pin (150)*F2*WMV;
+Ice Conversion Pin (160);
+Life Accurate Pin (100)*F2*WMV;
+Life Conversion Pin (150);
+Life Conversion Pin (160)*F4*WMV;
+Myth Accurate Pin (100)*F2*WMV;
+Myth Conversion Pin (150)*F2*WMV;
+Myth Conversion Pin (160)*F2*WMV;
+Storm Accurate Pin (80)*F3*WMV;
+Storm Conversion Pin (150)*F2*WMV;
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,164 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 2,560
+| crecla = Elemental
+| school = Fire
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Animated Lava;
+Animated Lava;
+
+| world = Dragonspyre
+| location = The Grand Chasm
+| subloc1 = Flamebringer's Tower
+| descrip =
+Flamebringer is a Fire Elemental that has plundered a powerful artifact which could make the Draconian Army undefeatable.
+
+| speech =
+:''"Is that a human? One still remains? It must have been overlooked. No matter... it will not be here for long."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip.
+
+| casts =
+Snow Shield;
+Spirit Armor;
+Smoke Screen;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Sunbird;
+Fire Shark;
+Meteor Strike;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Heck Hound;
+Minotaur;
+
+| quests =
+Spiral Crystal;
+
+| gold =
+133 - 155;
+
+| hats =
+Bonfire Headdress;
+Cap of the Unflinching;
+Cowl of the Glacier*F2;
+Flamebringer's Cowl;
+Halcyon Hood;
+Helm of Oblivion;
+Hood of Fulmination;
+Shroud of the Equinox;
+Stormwatcher's Hood*F2;
+Triton's Topper;
+Veil of Passage;
+
+| robes =
+Blizzard Cloak;
+Cloak of Forgotten Lore;
+Coat of the Cryptid*F3;
+Robe of the Gale;
+Salamander's Wrap;
+Storm Giant's Surcoat;
+Tunic of the Sphinx;
+
+| boots =
+Ashen Footwraps;
+Blasting Boots;
+Earthrangers*F2;
+Footgear of the North Wind;
+Sandals of Lost Aeons*F2;
+Sandals of Scorching*F3*WMV;
+Sandals of the Squall;
+Shoes of the Whispering Dark;
+Slippers of the Glacier*F3*WMV;
+
+| athames =
+Athame of the Volcano;
+Dauntless Dirk;
+Dragonblood Dirk;
+Flamebringer's Lancet;
+Soulwoven Stylet*F3*WMV;
+
+| amulets =
+
+| rings =
+Flamebringer's Fiery Circle*F2*WMV;
+Sapphire Studded Band*F4*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Fire-Damaged Book;
+Magma-Filled Fountain*F2;
+Small Corner Wall Ruins*F2*WMV;
+
+| cards =
+
+| reagents =
+Cobalt*F3;
+Copper;
+Ectoplasm*F7*WMV;
+Iron;
+Nickel*F2;
+
+| spellements =
+
+| snacks =
+Flaming Soup;
+Goat Cheese;
+Golden Grapes;
+Gummy Humongofrog;
+King Banana;
+
+| jewels =
+Dull Critical Onyx +2;
+Dull Critical Opal +1*F2;
+Dull Health Opal +49;
+Mega-Leech Opal;
+Sharp Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F3;
+Fiery Boom Shroom;
+Maelstrom Snap Dragon*F2;
+Pink Dandelion*CR*F3;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

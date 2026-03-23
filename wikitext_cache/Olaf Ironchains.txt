@@ -1,0 +1,151 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 800
+| crecla = Bear
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Red Claw Striker;
+
+| world = Grizzleheim
+| location = Frostholm
+| subloc1 = 
+| descrip =
+Olaf Ironchains is the Red Claw's jailer, overseeing the treacherous band of raiders' prison in their fort within Frostholm.  While seeking an audience with Ivar Andersson and simultaneously working to sabotage the Red Claw, Wizards are tasked by {{Link|NPC|Gunnar Quickaxe}} with helping Olaf break some [[NPC:Ander's Holt Villager|prisoners]] that were taken from {{Link|Location|Ander's Holt}}.  Upon arriving at the jails, Olaf gives Wizards the key to the prisoners' cells, expecting them to serve as assistant to help with interrogation prisoners.  Instead, Wizards free the villagers, prompting Olaf to attack them.
+
+Two additional Red Claw Strikers will appear if more than two Wizards are present.  These additional Red Claw Strikers will already be wandering the area prior to talking to {{Link|NPC|Olaf Ironchains}} and can be defeated before having to duel him.
+
+| speech =
+:''"What are you doing? I'll get you!"''
+
+| spellnotes =
+
+| casts =
+Weakness;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Vampire;
+Skeletal Pirate;
+Storm Shark;
+Fire Elf;
+Natural Attack (Fire 100x);
+
+| quests =
+The Eye Has It;
+
+| gold =
+32 - 97;
+
+| hats =
+Firekeeper's Mantle;
+Hat of the Intrepid*F10*WMV;
+Lifewarden's Veil*F2*WMV;
+
+| robes =
+Drape of the White Squall*F2*WMV;
+Frostwoven Jerkin*F15*WMV;
+Glacial Longcoat*F2*WMV;
+Igneous Robe*F2*WMV;
+Raiment of the Lifespring*F2*WMV;
+Robe of Elegies*F2*WMV;
+Tunic of Quietus;
+Vestment of Yesteryear*F2*WMV;
+Winterwear Wrap;
+
+| boots =
+Birdcaller's Boots*CR*F2*WMV;
+Footguards of Consideration;
+Indefatigable Striders*F2*WMV;
+Sandals of Equity*F8*WMV;
+
+| athames =
+Dirk of the Flamewatcher*F12*WMV;
+Edge of Survival*F14*WMV;
+
+| amulets =
+
+| rings =
+Chimerical Circlet*F9*WMV;
+Loop of Retribution*F2*WMV;
+Stone of Confidence*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Honey Pot;
+
+| cards =
+Cloak;
+Ice Wyvern;
+Monstrous;
+Tough;
+
+| reagents =
+Brass*F3*WMV;
+Iron;
+Lead;
+Leather Straps*F3*WMV;
+Nickel*F4*WMV;
+Pyrite*F4*WMV;
+Spider Silk;
+Tin*F2*WMV;
+
+| spellements =
+
+| snacks =
+Buttered Popcorn*F3*WMV;
+Candy Bar*F5*WMV;
+Chocolate Peanut;
+Glowing Rock Candy*F4*WMV;
+Lollipop*F3*WMV;
+Meat Soup*F7*WMV;
+Nettle Root*F3*WMV;
+Tasty Biscuit*F8*WMV;
+Tiny Fish;
+
+| jewels =
+Balance-Off Citrine;
+Chipped Health Opal +17;
+Cracked Damage Onyx +4;
+Cracked Defense Opal +6;
+Storm-Eye Amethyst;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Couch Potatoes*CR*F2*WMV;
+Dandelion*F4*WMV;
+Laugh-O-Dil;
+Stinkweed*F7*WMV;
+
+| mounts =
+
+| spells =
+
+}}

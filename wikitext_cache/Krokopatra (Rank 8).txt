@@ -1,0 +1,264 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 2,400
+| crecla = Krokotopian
+| school = Storm
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+30%;
+
+| incboost =
+40% Myth;
+
+| incresist =
+70% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| randomminions =
+Queen's Thrall (Storm) (Rank 8);
+Queen's Thrall (Life) (Rank 8);
+Queen's Thrall (Death) (Rank 8);
+
+| totalminions = 3
+
+| world = Housing Instance
+| location = Krokopatra Master Challenge
+| subloc1 = 
+| descrip =
+*The drops listed for this Boss are received by opening the Chest that appears after the battle.
+
+| speech =
+:''"You should never have returned here, Little Fang. I've spent every minute since we last met thinking about how rude you were to me. Turns out I wasn't the only one you upset. They're glad you come back too. The time has finally come for you to pay for your bad manners!"''
+
+| cheatnotes =
+{{Icon|Storm}} '''Krokopatra'''
+*{{Icon|Manipulation}} Krokopatra will cheat-cast Beguile before a Wizard attacks with an Attack-All-Enemies Spell, causing the Wizard to attack allies that Round.
+:*This cheat does not activate if soloing.
+*{{Icon|Minion}} ''"More fodder! Protect your queen!"'' If one of Krokopatra's Minions is defeated before her, she will randomly summon another Minion at the end of the next Round.
+*{{Icon|Trap}} ''"Loose the winds of destruction!"'' She will randomly cast {{Link|Spell|Windstorm}}.
+*{{Icon|Manipulation}} ''"Why don't we redirect all that potential?"'' She will cheat-cast Beguile at the beginning of the Round if there is any Blade on a Wizard.  This will repeat every other Round until there are no more Blades on the Wizard.
+*{{Icon|Blade}} ''"I'm crackling with rage!"'' Krokopatra will randomly cheat-cast Supercharge (+12%). Its percentage is still based on her number of Pips, however.
+
+{{Icon|Storm}} '''Queen's Thrall (Storm) (Rank 8)'''
+*{{Icon|Curse}} ''"Stand strong for the Queen!"''If a Wizard casts a negative Charm (e.g. {{Link|Spell|Plague}}), this Queen's Thrall will cast {{Link|Spell|Cleanse Charm}} on the receiver of the Charm.
+
+{{Icon|Life}} '''Queen's Thrall (Life) (Rank 8)'''
+*{{Icon|Healing}} ''"Our Queen needs her army!"'' Interrupt casts {{Link|Spell|Unicorn}} when any other Thralls are defeated in the same Round. Stuns do not prevent this cheat.
+*{{Icon|Damage over Time}} ''"We must protect ourselves to protect the Queen!"'' If a Damage over Time Spell is cast, this Minion will cheat-cast {{Link|Spell|Mass Triage}}.
+
+{{Icon|Death}} '''Queen's Thrall (Death) (Rank 8)'''
+*{{Icon|Blade}} ''"Anything for my queen!"'' Every other Round, this Queen's Thrall will cast {{Link|Spell|Dark Pact (+30%)}} on Krokopatra.
+:*This Thrall can defeat itself using this cheat.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Stormblade (+30%);
+Supercharge;
+Storm Trap;
+Empower (Death);
+Beguile;
+Darkwind;
+Storm Beetle (125);
+Kraken;
+Triton;
+Storm Lord;
+Tempest;
+Natural Attack (Krokopatra);
+
+| quests =
+
+| gold =
+52 - 100;
+
+| hats =
+Krokomaic Blizzard Fez*F2;
+Krokomaic Inferno Fez;
+Krokomaic Justice Fez;
+Krokomaic Maelstrom Fez;
+Krokomaic Royal Fez*F2;
+Krokomaic Vigor Fez;
+Krokomaic Wonder Fez;
+The Mists Dun Dara*CR*F3*WMV;
+
+| robes =
+Krokomaic Blizzard Cloak;
+Krokomaic Inferno Cloak;
+Krokomaic Justice Cloak;
+Krokomaic Maelstrom Cloak*F2;
+Krokomaic Royal Cloak*F5*WMV;
+Krokomaic Vigor Cloak;
+
+| boots =
+Krokomaic Blizzard Steppers*F2;
+Krokomaic Inferno Steppers;
+Krokomaic Maelstrom Steppers;
+Krokomaic Oblivion Steppers;
+Krokomaic Royal Steppers*F5*WMV;
+Krokomaic Vigor Steppers*F4*WMV;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Krokomaic Inferno Staff;
+Krokomaic Justice Staff;
+Krokomaic Maelstrom Staff;
+Krokomaic Oblivion Staff;
+Krokomaic Royal Staff*F5;
+Krokomaic Vigor Staff;
+Krokomaic Wonder Staff;
+
+| decks =
+
+| items =
+Adept's Socket Wrench;
+Expert's Socket Wrench;
+Krokotopian Bed;
+Krokotopian Bed Table*F4;
+Krokotopian Chair*F2*WMV;
+Krokotopian Dining Chair*F3*WMV;
+Krokotopian Dining Table;
+Novice's Socket Wrench;
+Wooden Skeleton Key*CR*F2*WMV;
+
+| cards =
+Accurate;
+Ash Bats*F3;
+Avenging Fossil*F5*WMV;
+Blaze Beetle*F2;
+Brimstone Revenant;
+Catalan;
+Celestial Calendar*F2*WMV;
+Chimera*F5*WMV;
+Coldiron;
+Deer Knight;
+Dragonblade (Balance);
+Dragonspear;
+Dryad*F2;
+Fang Guardian*F4;
+Fire Serpent*F2;
+Goat Monk;
+Handsome Fomori*F2;
+Infection;
+Keeper of the Flame*F2*WMV;
+Krokenkahmen (530);
+Krokhotep (440);
+Krokhotep (550);
+Krokomummy*F4*WMV;
+Krokopatra (Attack 660)*F2*WMV;
+Krokotillian*F3*WMV;
+Locust Swarm*F3;
+Lord of Night;
+Lord of Winter*F2*WMV;
+Luminous Weaver*F2;
+Ninja Pigs;
+Sabertooth*F2;
+Samoorai*F4*WMV;
+Savage Paw*F4;
+Spinysaur*F4;
+Storm Owl;
+Sun Serpent*F3;
+Winter Moon*F2;
+
+| reagents =
+Acorn;
+Aether*F2*WMV;
+Ancient Scroll*F2;
+Black Lotus;
+Black Pearl;
+Bronze Gear;
+Deep Mushroom*F2;
+Fire Blossom;
+Fish Fin;
+Fossil;
+Kelp;
+Leather Straps;
+Mist Wood*F3;
+Mote of Beauty*F2;
+Mote of Transport*F6*WMV;
+Mote of Wisdom*F6*WMV;
+Nightshade;
+Parchment;
+Sandstone*F2;
+Scales;
+Scrap Iron;
+Shell;
+Spider Silk;
+Spring;
+Stone Block;
+Water Lily;
+
+| spellements =
+
+| snacks =
+Alligator Pear*F2;
+Baby Carrot;
+Captain Canteloupe;
+Crab Apples;
+Dead Beet Risotto*F3;
+Dragonhorned Melon;
+Evil Magma Soup*F4*WMV;
+Fancy Yogurt;
+Flowering Pineapple;
+Golden Wheat Bread;
+Granny Snow Apple*F4;
+Hambrosia;
+Honey Bombs*F2;
+King Parsley Soup*F2;
+Peanut Butterflies*F4*WMV;
+Snow Apple Pie*F5*WMV;
+Spicy Stingers*F4*WMV;
+Sun Fruit*F3*WMV;
+Yellow Corn;
+
+| jewels =
+
+| pins =
+
+| pets =
+Krokopatra's Troll*F3*WMV;
+
+| seeds =
+Ultra Alligator Pear Tree*F3;
+Ultra Boom Shroom*F5;
+Ultra Dandelion*F5*WMV;
+Ultra Fly Trap*F3*WMV;
+Ultra Helephant Ears*F2;
+Ultra Huckleberries*F4*WMV;
+Ultra King Parsley*F4*WMV;
+Ultra Ninja Fig*F2*WMV;
+Ultra Snap Dragon;
+Ultra Snow Apples*F2*WMV;
+Ultra Tiger Lily*F3;
+Ultra Trumpet Vine*F3;
+
+| mounts =
+Fire Whirlwind*7*F3;
+Fire Whirlwind*PERM*F2;
+Myth Whirlwind*7;
+Myth Whirlwind*PERM*F2;
+
+| spells =
+
+}}

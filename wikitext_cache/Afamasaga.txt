@@ -1,0 +1,131 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,800
+| crecla = Water-Mole
+| school = Myth
+| startpips = 4
+| powerpips = Yes
+| critical =
+72;
+
+| criticalblock =
+38;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Wizard City
+| location = Deep Warrens
+| subloc1 = Tower of Peladon
+| descrip =
+Diviners must defeat Afamasaga during the Quest, ''The Seventh Professor''.
+*This Boss is not repeatable.
+*This Boss is located in a solo dungeon. Other Wizards will not be able to port into the dungeon.
+*This Boss always starts with 3 bonus power pips.
+
+| speech =
+:''"Gwahr!  By the eternal slumber of Cablooey?  How you get past evil frozen water man?  Afamasaga show you real magic!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Mythblade;
+Myth Trap;
+Yellow Troll;
+Humongofrog;
+Myth Imp;
+Minotaur;
+Earthquake;
+Orthrus;
+Medusa;
+Natural Attack (Myth 90-X Pips, 85%);
+
+| quests =
+The Seventh Professor;
+
+| gold =
+40 - 54;
+
+| hats =
+
+| robes =
+
+| boots =
+Charging Bull's Footguards;
+Finely Balanced Boots;
+Ironhide Boots;
+Long as Night Walkers;
+Luck Smithed Boots;
+Ponycorn Hoofers*F3*WMV;
+Splashing Stream Waders;
+Witch Doctor's Juju Rangers;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Earthquake;
+Helephant;
+Hydra;
+Ice Wyvern;
+Phoenix;
+Satyr;
+Skeletal Pirate;
+Stormzilla;
+Triton;
+Wraith;
+
+| reagents =
+Black Lotus*F2*WMV;
+Cat Tail;
+Deep Mushroom;
+Frost Flower;
+Mist Wood;
+Parchment;
+Pearl;
+Shell;
+Steel;
+Stone Block;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Brilliant Light Jade;
+Opaque Blocking Sapphire +8;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,217 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 16,800
+| crecla = Fish
+| school = Life
+| startpips = 6
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Pira'Nya Scissor Teeth;
+
+| world = Azteca
+| location = Pitch Black Lake
+| subloc1 = Sunken Canoe Cave
+| descrip =
+
+| speech =
+:''"And here I was just settling down for my evening meal.  I will consider you... an appetizer."''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Mend;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Natural Attack (Life 155-310-465);
+Goat Monk;
+Centaur (610-670);
+Bronze Helephant;
+Gnomes!;
+Spinysaur;
+
+| quests =
+In a Canoe;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge and has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge, the following drops will be available:
+*8 Spellements will drop each time from '''any''' School for their respective rank 6-10 Spells.
+
+| gold =
+125 - 267;
+
+| hats =
+
+| robes =
+Black Sun Chac's Armor*F2*WMV;
+Grinning Death Xicolli Vest;
+Keeper of the Codex Vest*F2;
+Lord of Night Robes*F2;
+Philososaur's Robes;
+White Fire Chac's Armor*F2;
+
+| boots =
+Black Butterfly Guard's Wraps;
+Black Tears of Night Wraps*F2;
+Elite Jura Guard Stalkers;
+Five Fangs of Fury Boots*F2;
+Heart of Sky Boots;
+Indigo Wing Striders;
+Smoking Obsidian Rangers;
+Tree of Secrets Chac Runners*F2*WMV;
+Twisted Fang Boots*F2;
+
+| athames =
+Thunder Horn's Rough Cutter;
+Wild Wing's Glorious Razor;
+Winged Tooth Knight's Hook;
+
+| amulets =
+Home Hearth Relic;
+Horizon of Underworld Charm;
+Speaking Water Ornament;
+Thunder Horn's Coral Charm;
+
+| rings =
+
+| wands =
+New Moon Lance*F2*WMV;
+Spear of Breaking Dawn;
+Talon of the Storm Owl;
+
+| decks =
+Calendar of the Spiral King;
+King's Royal Portraits*F2;
+Lords of Night Pyramid Deck;
+
+| items =
+Azteca Main Theme;
+Bird Head Mount;
+Clothesline;
+Starburst Frond;
+
+| cards =
+Amplify;
+Basilisk;
+Colossal;
+Dr. Von's Monster;
+Leviathan;
+Potent Trap;
+Primordial;
+Rain of Fire;
+Sharpened Blade;
+Sirens;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F2;
+Bone*F4*WMV;
+Brass*F2;
+Bronze;
+Bronze Gear;
+Deep Mushroom;
+Fire Blossom*F4*WMV;
+Fossil;
+Golden Pearl;
+Lava Lily*F2*WMV;
+Mist Wood*F3;
+Mithril;
+Ore;
+Red Mandrake*F3;
+Steel*F2;
+Stone Block*F5;
+Sunstone;
+Titanium;
+Tungsten;
+Turquoise*F2*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Centaur*BR*F2;
+Chimera*BR;
+Colossus*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+Helephant*BR*F2;
+Hydra*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR*F2;
+Sabertooth*BR;
+Scarecrow*F3*BR*WMV;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Stone Colossus*BR*F2;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR*F2;
+Triton*BR;
+Woolly Mammoth*BR;
+Wraith*BR;
+
+| snacks =
+Aztecan Hot Chocolate;
+Caramel Apple;
+Glowing Star Fruit;
+Guava*F2;
+Gummy Wyrms*F2;
+Maize;
+Pterotomatoes;
+Rex Tea;
+Zocalo Wings;
+
+| jewels =
+Clear Accurate Peridot +9%;
+
+| pins =
+
+| pets =
+
+| seeds =
+Maelstrom Snap Dragon;
+Pink Huckleberries;
+Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+}}

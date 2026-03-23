@@ -1,0 +1,232 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,200
+| crecla = Undead 
+| school = Myth
+| cheats = Yes
+| startpips = 1
+| powerpips =
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+ 
+| incboost =
+20% Storm;
+
+| incresist =
+50% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Benighted Revenant (Tier 1);
+Burned Out Soul (Tier 1);
+Feckless Soul (Tier 1);
+
+| world = Wizard City
+| location = Crab Alley
+| subloc1 = Crab Alley Gold Key Room
+| badge = Dispeller of Ignorance
+| descrip =
+Spirit of Ignorance (Tier 1) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Ravenwood Rangers Lore Pack}}.
+*This Tier is for level 1-15 Wizards.
+
+| speech =
+:''"UGH! Who- what are you? You're so... odd. You literally make me sick. Come at me so I can smash your scary weird face!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+Ignorant? Please, dude, bro, he doesn't even know the meaning of the word.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Steal Pips!"'' - If a Wizard is late to join the duel, Feckless Soul will cast {{Link|Spell|Steal Pips (Moon)}}.
+
+| spellnotes =
+
+| casts =
+Storm Shield;
+Weakness;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Natural Attack (Myth 90x, 80%);
+Ghoul;
+Fire Elf (50+210);
+Evil Snowman;
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+267 - 497;
+
+| hats =
+Bardic Cap;
+Gleeman's Cap;
+Rhapsodist's Cap;
+Songster's Cap*F2*WMV;
+Sonneteer's Cap;
+Troubador's Cap;
+Trouper's Cap;
+
+| robes =
+Bardic Tunic;
+Rhapsodist's Tunic;
+Songster's Tunic;
+Troubador's Tunic;
+Trouper's Tunic;
+
+| boots =
+Bardic Shoes;
+Gleeman's Shoes;
+Rhapsodist's Shoes;
+Songster's Shoes;
+Sonneteer's Shoes;
+Troubador's Shoes;
+Trouper's Shoes*F2*WMV;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Adept's Socket Wrench;
+Black Checker;
+Brain Jar*F3;
+Candle and Holder;
+Carved Skull*F3;
+Chessboard;
+Dragon Skull;
+Floor Brazier*F2;
+Gold Skeleton Key*CR;
+Large Candle Holder;
+Novice's Socket Wrench*F3;
+Red Checker;
+Small Candle;
+Stone Skeleton Key*CR*F2;
+Wooden Skeleton Key*CR*F3*WMV;
+
+| cards =
+Blood Bat;
+Death Trap*F7;
+Evil Snowman*F6;
+Fire Cat*F4;
+Flamesnake*F6;
+Frost Beetle*F6;
+Ghoul*F9;
+Imp*F7;
+Lightning Bats*F6;
+Lightning Strike*F6;
+Myth Trap*F6;
+Mythblade*F6;
+Pixie*F6;
+Scorpion*F3;
+Weakness*F5;
+
+| reagents =
+Aether*F7;
+Aquamarine*F6;
+Black Pearl*F12;
+Blood Moss @ 3 Blood Moss;
+Brass*F3;
+Copper;
+Fossil*F7;
+Golden Pearl*F9;
+Iron;
+Kelp*F6;
+Lead*F2;
+Nickel;
+Participation Trophy*F2*WMV;
+Pearl*F6;
+Pyrite*F8;
+Sandstone*F9;
+Shell*F7;
+Stone Block*F8;
+Tin;
+
+| spellements =
+Beary Surprise*F4*WMV;
+Camp Bandit*F5*WMV;
+Splashsquatch*F6*WMV;
+Splashsquatch @ 2 Splashsquatch;
+
+| snacks =
+Big Squash;
+Cow Pie*F2;
+Fire Cracker*F2;
+Gummy Bloodbat;
+Huge Ice Cream;
+Large Ice Cream*F3;
+Square Root*F3;
+
+| jewels =
+Balance-It Citrine;
+Chipped Damage Opal +4;
+Chipped Mana Opal +11;
+Cracked Accurate Amethyst +1%;
+Cracked Accurate Citrine +1%;
+Cracked Damage Onyx +3;
+Cracked Damage Peridot +6;
+Cracked Damage Ruby +6;
+Cracked Health Opal +6;
+Cracked Mana Opal +4;
+Cracked Mana Opal +5;
+Effervescent Opal;
+Fire Elf Ruby;
+Legend Shield Jade;
+Myth Trap Peridot (Triangle);
+Troll Peridot;
+
+| pins =
+
+| pets =
+Green Ghost;
+Red Ghost;
+
+| seeds =
+Deadly Fly Trap*F2;
+Deadly Ninja Fig*F2;
+Fiery Boom Shroom*F2;
+Maelstrom Snap Dragon*F2;
+
+| mounts =
+Purple Fairy Wings*1*F2;
+Purple Fairy Wings*7*F2;
+Purple Fairy Wings*15*F3;
+Purple Fairy Wings*PERM*CR;
+Snappy Lobster*PERM*CR;
+
+| spells =
+
+}}

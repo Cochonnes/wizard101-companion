@@ -1,0 +1,574 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 4,620
+| crecla = Horse
+| crecla2 = Equine 
+| school = Balance
+| cheats = Yes
+| shadowslots = 
+| startpips = 1
+| powerpips = Yes
+| schoolpips =
+Balance;
+
+| critical =
+75;
+
+| criticalblock =
+244;
+
+| outpierce =
+9%;
+
+| outboost =
+
+| incboost =
+6% Myth, Life, Death;
+
+| incresist =
+24% Balance;
+
+| outhealing =
+42%;
+
+| inchealing =
+47%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Solomon Crane (Standard);
+Buck Gordon (Standard);
+The Shadoe (Standard);
+Dog Tracy (Standard);
+Duck Savage (Standard);
+Mandar the Barbarian (Standard);
+The Bantam (Standard);
+
+| world = Lemuria
+| location = Telos
+| subloc1 = Hall of Heroes (Standard)
+| lootchest = Heroes' Chest
+| descrip =
+'''Note:''' Hats, Athames, Amulets, Wands, and Decks no longer drop in Hall of Heroes as of the [https://www.wizard101.com/game/community/update-notes/april2022 2022 Spring Update]:
+
+'''"Gear from Dragonspyre, Khrysalis, and Lemuria has shifted around a bit. To diversify the play experience, we're distributing the gear to multiple bosses."'''
+
+As the Boss in this battle in the Hall of Heroes, all drops are recorded on this page.
+*For the Challenge version of this battle, see {{Link|Creature|Stallion Quartermane (Challenge)}}.
+
+'''The First Team'''
+*{{Target|Dagger}} [[Creature:Solomon Crane (Standard)|Solomon Crane]]
+*{{Target|Key}} [[Creature:Buck Gordon (Standard)|Buck Gordon]]
+*{{Target|Gem}} [[Creature:The Shadoe (Standard)|The Shadoe]]
+*{{Target|Spiral}} [[Creature:Dog Tracy (Standard)|Dog Tracy]]
+
+'''The Second Team'''
+*{{Target|Book}} [[Creature:Mandar the Barbarian (Standard)|Mandar the Barbarian]]
+*{{Target|Chalice}} [[Creature:Duck Savage (Standard)|Duck Savage]]
+*{{Target|Wand}} [[Creature:Stallion Quartermane (Standard)|Stallion Quartermane]]
+*{{Target|Potion}} [[Creature:The Bantam (Standard)|The Bantam]]
+
+'''Duel Circle Notes:'''
+*Each team takes a Round to cast their spells.
+**For example: Team 1 takes first Round, Team 2 takes second Round.
+*Rounds in this battle are counted only when a team has their turn.
+*Effects that last over a few Rounds will last twice as long.
+*Gaining Pips or Power Pips are only granted when the First Team has their turn.
+*All Enemy Spells only affect 1 of the 2 teams at a time. Thus all enemies spells will become targeting spells when choosing which team to use them on.
+*All Ally Spells used by the bosses only affect 1 team.
+
+| speech =
+
+| monstrotomedescrip = 
+Stallion Quartermane, the man so nice they named him once. But then also created an entire world designed to foster his unique brand of heroism.
+
+| summon_animus = 20
+| summon_gold = 1,000
+| guest_animus = 30
+| guest_gold = 2,000
+| can_expel = No
+| altlink = Stallion Quartermane
+
+| cheatnotes =
+{{Icon|Balance}} '''Stallion Quartermane'''
+*{{Icon|Spell}} ''"Good show!"'' - Stallion will say this when casting his Natural Attack.
+
+{{Icon|Ice}} '''Duck Savage'''
+*{{Icon|Spell}} ''"Feel my Fists of Bronze!"'' - Duck Savage will say this when casting her Natural Attack.
+
+{{Icon|Storm}} '''Dog Tracy'''
+*{{Icon|Spell}} ''"That's our prime suspect, get 'em!"'' - Dog Tracy will say this when casting his Natural Attack.
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Weakness;
+Black Mantle;
+Balanceblade;
+Bladestorm;
+Mass Hex;
+Elemental Trap;
+Spirit Trap;
+Steal Pip;
+Donate Power;
+Mana Burn;
+Sandstorm;
+Spectral Blast;
+Power Nova;
+Judgement;
+
+| quests =
+To Forgive, Dasein;
+
+| dropnotes =
+If a Wizard has obtained the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge and has not obtained the '''[[Basic:Novus Badges|Ender of an Aeon]]''' Badge, the following drops will be available:
+*{{Icon|Spellement}} 14-16 Spellements will drop each time from '''any''' School for their respective Polaris, Mirage, Empyrea, Karamelle and Lemuria Spells.
+If a Wizard has obtained the ''Ender of an Aeon'' badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of the Hall of Heroes to acquire a [[Item:Level Scaling Elixir - 150|Level Scaling Elixir]] which enables them to receive these rewards.
+
+The Hats, Wands, Athames, Amulets, and Decks are only obtainable from the "Heroes' Chest" and not from the Bosses directly.
+
+| gold =
+400;
+
+| hats =
+Magician's Balance Cap;
+Magician's Death Cap;
+Magician's Fire Cap;
+Magician's Ice Cap;
+Magician's Life Cap;
+Magician's Myth Cap;
+Magician's Storm Cap;
+Malevolent Death Cap;
+Malevolent Fire Cap;
+Malevolent Ice Cap;
+Malevolent Myth Cap;
+Malevolent Storm Cap;
+Merciless Balance Cap;
+Merciless Death Cap;
+Merciless Fire Cap;
+Merciless Ice Cap;
+Merciless Life Cap;
+Merciless Myth Cap;
+Merciless Storm Cap;
+
+| robes =
+Magician's Balance Cloak;
+Magician's Death Cloak;
+Magician's Fire Cloak;
+Magician's Ice Cloak;
+Magician's Life Cloak;
+Magician's Myth Cloak;
+Magician's Storm Cloak;
+Malevolent Balance Cloak;
+Malevolent Death Cloak;
+Malevolent Fire Cloak;
+Malevolent Ice Cloak;
+Malevolent Myth Cloak;
+Malevolent Power Cloak;
+Malevolent Storm Cloak;
+Merciless Balance Cloak;
+Merciless Death Cloak;
+Merciless Fire Cloak;
+Merciless Ice Cloak;
+Merciless Life Cloak;
+Merciless Myth Cloak;
+Merciless Storm Cloak;
+
+| boots =
+Magician's Balance Boots;
+Magician's Death Boots;
+Magician's Fire Boots;
+Magician's Ice Boots;
+Magician's Life Boots;
+Magician's Myth Boots;
+Magician's Storm Boots;
+Malevolent Balance Boots;
+Malevolent Death Boots;
+Malevolent Fire Boots;
+Malevolent Ice Boots;
+Malevolent Myth Boots;
+Malevolent Storm Boots;
+Merciless Balance Boots;
+Merciless Death Boots;
+Merciless Fire Boots;
+Merciless Ice Boots;
+Merciless Life Boots;
+Merciless Myth Boots;
+Merciless Storm Boots;
+
+| athames =
+Magician's Balance Athame;
+Magician's Death Athame;
+Magician's Fire Athame;
+Magician's Ice Athame;
+Magician's Life Athame;
+Magician's Myth Athame;
+Magician's Storm Athame;
+Malevolent Death Athame;
+Malevolent Fire Athame;
+Malevolent Ice Athame;
+Malevolent Myth Athame;
+Malevolent Storm Athame;
+Merciless Balance Athame;
+Merciless Death Athame;
+Merciless Fire Athame;
+Merciless Ice Athame;
+Merciless Life Athame;
+Merciless Myth Athame;
+Merciless Storm Athame;
+
+| amulets =
+Magician's Balance Talisman;
+Magician's Death Talisman;
+Magician's Fire Talisman;
+Magician's Ice Talisman;
+Magician's Life Talisman;
+Magician's Myth Talisman;
+Magician's Storm Talisman;
+Malevolent Death Talisman;
+Malevolent Fire Talisman;
+Malevolent Ice Talisman;
+Malevolent Myth Talisman;
+Malevolent Storm Talisman;
+Merciless Balance Talisman;
+Merciless Death Talisman;
+Merciless Fire Talisman;
+Merciless Ice Talisman;
+Merciless Life Talisman;
+Merciless Myth Talisman;
+Merciless Storm Talisman;
+
+| rings =
+Magician's Balance Ring;
+Magician's Death Ring;
+Magician's Fire Ring;
+Magician's Ice Ring;
+Magician's Life Ring;
+Magician's Myth Ring;
+Magician's Storm Ring;
+Malevolent Balance Ring;
+Malevolent Death Ring;
+Malevolent Fire Ring;
+Malevolent Ice Ring;
+Malevolent Myth Ring;
+Malevolent Storm Ring;
+Merciless Balance Ring;
+Merciless Death Ring;
+Merciless Fire Ring;
+Merciless Ice Ring;
+Merciless Life Ring;
+Merciless Myth Ring;
+Merciless Storm Ring;
+
+| wands =
+Magician's Balance Wand;
+Magician's Death Wand;
+Magician's Fire Wand;
+Magician's Ice Wand;
+Magician's Life Wand;
+Magician's Myth Wand;
+Magician's Storm Wand;
+Malevolent Balance Wand;
+Malevolent Death Wand;
+Malevolent Life Wand;
+Malevolent Myth Wand;
+Merciless Balance Wand;
+Merciless Death Wand;
+Merciless Fire Wand;
+Merciless Ice Wand;
+Merciless Life Wand;
+Merciless Myth Wand;
+Merciless Storm Wand;
+
+| decks =
+Magician's Balance Deck;
+Magician's Death Deck;
+Magician's Fire Deck;
+Magician's Ice Deck;
+Magician's Life Deck;
+Magician's Myth Deck;
+Magician's Storm Deck;
+Malevolent Death Deck;
+Malevolent Fire Deck;
+Malevolent Ice Deck;
+Malevolent Myth Deck;
+Malevolent Storm Deck;
+Merciless Balance Deck;
+Merciless Death Deck;
+Merciless Fire Deck;
+Merciless Ice Deck;
+Merciless Life Deck;
+Merciless Myth Deck;
+Merciless Storm Deck;
+
+| items =
+
+| cards =
+Berserk;
+Brilliant Light;
+Cat Thug;
+Dream Shield;
+Elemental Shield;
+Elemental Trap;
+Ether Shield;
+Feint;
+Fortify;
+Frostbite;
+Galvanic Field;
+Gargantuan*F2*WMV;
+Green Widow;
+Infallible;
+Life Prism;
+Link;
+Mass Death Prism;
+Mass Fire Prism;
+Mass Ice Prism;
+Mass Storm Prism;
+Mass Triage;
+Nested Fury;
+Pacify;
+Raging Bull;
+Rusalka's Wrath;
+Sirens;
+Snowball Barrage;
+Storm Shield;
+Triage;
+Winged Sorrow;
+Wings of Fate;
+Witch's House Call;
+
+| reagents =
+Aether;
+Agave Nectar;
+Amber*F2*WMV;
+Amber Dust*F2*WMV;
+Aquamarine;
+Astral Shard*F3*WMV;
+Braided Vine;
+Brass*F2*WMV;
+Bronze Gear*F2*WMV;
+Draconium;
+Ectoplasm*F2;
+Fire Blossom*F2*WMV;
+Fish Fin;
+Glass Sliver;
+Golden Pearl*F5*WMV;
+Mithril*F3*WMV;
+Nickel*F3*WMV;
+Nightshade;
+Orichalcum;
+Scales*F3*WMV;
+Silver*F2*WMV;
+Spider Silk;
+Stardust;
+Steel*F2*WMV;
+Stone Block;
+Sunstone*F3*WMV;
+Synthonium*F2*WMV;
+Tin*F2*WMV;
+Titanium*F2*WMV;
+Tungsten*F2*WMV;
+Turmeric;
+Turquoise;
+Vine*F2*WMV;
+
+| spellements =
+Barbarian's Saga*BR;
+Blast Off!*BR;
+Climaclysm*BR;
+Dark & Stormy*BR;
+Freeze Ray*BR;
+Grrnadier*BR;
+Grim Reader*BR;
+Iron Sultan*BR;
+Lamassu*BR;
+Lord of the Jungle*BR;
+Mockenspiel*BR;
+Nested Fury*BR;
+Old One's Endgame*BR;
+Qismah's Curse*BR;
+Raging Bull*BR;
+Rusalka's Wrath*BR;
+Sand Wurm*BR;
+Scion of Balance*BR;
+Scion of Death*BR;
+Scion of Fire*BR;
+Scion of Ice*BR;
+Scion of Life*BR;
+Scion of Myth*BR;
+Scion of Storm*BR;
+Scorching Scimitars*BR;
+Shatterhorn*BR;
+S'more Machine*BR;
+Snack Attack*BR;
+Snake Charmer*BR;
+Snowball Barrage*BR;
+Sound of Musicology*BR;
+Tatzlewurm Terror*BR;
+Winged Sorrow*BR;
+Wings of Fate*BR;
+Witch's House Call*BR;
+
+| snacks =
+Bell Pepper Steak;
+Boom Stroganoff;
+Bread Fruit Fruit;
+Candlenut;
+Catfish Stevens;
+Cauliflowers;
+Chapulines;
+Chili Peppers;
+Crystal Custard;
+Crystalweb Candy*F2*WMV;
+Desparagus Salad;
+Eggplant*F2*WMV;
+Fin Flan;
+Fizzing Fertilizer;
+Flapjacks;
+French Fries;
+Fried Worms;
+Ginger Mint Tea;
+Goat Cheese;
+Golden Apple;
+Hive Rinds;
+Manticoreos;
+
+| jewels =
+Ally Glacial Shield Ruby;
+Amazing Health Opal +144;
+Amazing Health Opal +145;
+Amazing Mana Opal +59;
+Amazing Mana Opal +60;
+Balance-Eye Citrine;
+Balance-Off Citrine;
+Buck Gordon Ruby;
+Critical Striker Opal;
+Dazzling Accurate Amethyst +14%;
+Dazzling Accurate Citrine +14%;
+Dazzling Accurate Hematite +14%;
+Dazzling Accurate Jade +14%;
+Dazzling Accurate Onyx +14%;
+Dazzling Accurate Peridot +14%;
+Dazzling Accurate Ruby +14%;
+Dazzling Accurate Sapphire +14%;
+Dazzling Blocking Amethyst +19;
+Dazzling Blocking Citrine +19;
+Dazzling Blocking Hematite +19;
+Dazzling Blocking Jade +19;
+Dazzling Blocking Onyx +19;
+Dazzling Blocking Opal +10;
+Dazzling Blocking Peridot +19;
+Dazzling Blocking Ruby +19;
+Dazzling Blocking Sapphire +19;
+Dazzling Critical Amethyst +19;
+Dazzling Critical Citrine +19;
+Dazzling Critical Hematite +19;
+Dazzling Critical Jade +19;
+Dazzling Critical Onyx +19;
+Dazzling Critical Opal +10;
+Dazzling Critical Peridot +19;
+Dazzling Critical Ruby +19;
+Dazzling Critical Sapphire +19;
+Dazzling Damage Amethyst +29;
+Dazzling Damage Citrine +29;
+Dazzling Damage Jade +29;
+Dazzling Damage Onyx +29;
+Dazzling Damage Opal +15;
+Dazzling Damage Peridot +29;
+Dazzling Damage Ruby +29;
+Dazzling Damage Sapphire +29;
+Dazzling Defense Amethyst +58;
+Dazzling Defense Amethyst +60;
+Dazzling Defense Citrine +58;
+Dazzling Defense Citrine +60;
+Dazzling Defense Hematite +58; 
+Dazzling Defense Hematite +60;
+Dazzling Defense Jade +58; 
+Dazzling Defense Jade +60;
+Dazzling Defense Onyx +58; 
+Dazzling Defense Onyx +60;
+Dazzling Defense Opal +29;
+Dazzling Defense Peridot +58; 
+Dazzling Defense Peridot +60;
+Dazzling Defense Ruby +58; 
+Dazzling Defense Ruby +60;
+Dazzling Defense Sapphire +58; 
+Dazzling Defense Sapphire +60;
+Death Striker Onyx;
+Death-Proof Onyx;
+Death-Shot Onyx;
+Dog Tracy Amethyst;
+Duck Savage Sapphire;
+Fire-Away Ruby;
+Fire-Proof Ruby;
+Fire-Sniper Ruby;
+Ice Assailant Sapphire;
+Ice-Boon Sapphire;
+Ice-Giver Sapphire;
+Life-Eye Jade;
+Mandar Peridot;
+Medic Opal;
+Myth Assailant Peridot;
+Myth-Shot Peridot;
+Myth-Sniper Peridot;
+Quartermane Citrine;
+Sparkling Accurate Citrine +13%;
+Sparkling Critical Hematite +17;
+Sparkling Defense Amethyst +53;
+Sparkling Defense Hematite +54;
+Sparkling Defense Jade +54;
+Sparkling Defense Onyx +54;
+Sparkling Health Opal +116;
+Sparkling Health Opal +117;
+Sparkling Health Opal +118;
+Sparkling Health Opal +119;
+Sparkling Mana Opal +49;
+Solomon Crane Onyx;
+Storm Striker Amethyst;
+The Bantam Jade;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Burning Snap Dragon;
+Cornbread Fruit Bush;
+Dandelion;
+Deadly Helephant Ears*CR;
+Evil Magma Peas*CR;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Helephant Ears;
+Ivy League*CR;
+Key Limes*CR;
+King Parsley*CR;
+Maltese Tiger Lily;
+Missile Toe;
+Moon Flower*CR;
+Ninja Fig*CR*F2*WMV;
+Orange Bell Pepper*CR;
+Pink Huckleberries;
+Purple Bell Pepper;
+Red Bell Pepper;
+Sunion*CR;
+Ultra Boom Shroom;
+Ultra Helephant Ears;
+Ultra King Parsley;
+Ultra Tiger Lily;
+Venus Fly Trap;
+White Desparagus;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+| altimage = Stallion Quartermane
+}}

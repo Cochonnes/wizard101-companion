@@ -1,0 +1,224 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,360
+| crecla = Pig
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Myth;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Ronin Mutineer;
+
+| world = MooShu
+| location = Cave of Solitude
+| subloc1 = Kanago's Dojo
+| descrip =
+*Two additional Ronin Mutineer Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Ha! We are prepared! My little piggies warned me that you were coming, Wizard. You will never have the Jade Scepter while I still stand!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+Kanago and his friends enjoy putting on plays for the local village. But he always plays a big bad wolf.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Balance Damage.
+
+| casts =
+Myth Shield;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Storm Serpent (155-195);
+Storm Elf (30+210);
+Lightning Bats;
+Storm Shark;
+Kraken;
+Colossus (Storm);
+Tempest;
+Troll;
+Banshee;
+
+| quests =
+The Final Peace;
+
+| dropnotes =
+When a Wizard has unlocked the '''Mastermind''' {{Icon|Mastermind}} Badge and has not unlocked the '''Savior of the Spiral''' {{Icon|Savior of the Spiral}} Badge, the following drops will be available:
+*8 Spellements will drop each time from the '''Elemental''' (Fire, Ice, Storm, Balance) Schools for their respective rank 1-5 Spells.
+
+| gold =
+60 - 81;
+
+| hats =
+Cap of Exertion;
+Cap of the Verse*F3;
+Cap of Tribulations*F3;
+Cowl of Tact*F6;
+Engrossed Hat;
+Enlivened Cowl*F5*WMV;
+Hat of Niceties*F3;
+Heedful Headwraps;
+Industrial Helm;
+Shroud of Chants;
+Shroud of Conceit*F3;
+Shroud of Music;
+
+| robes =
+Cloak of Charity*F2;
+Cloak of Deliberation;
+Cloak of Pictures*F3;
+Concordant Robes*F4*WMV;
+Dashing Cloak*F2;
+Ecstatic Garments;
+Garments of Unrest;
+Impulsive Vestment*F3;
+Kanago's Spry Vestment*F2;
+Nunu's Twisted Uniform*F2;
+Painful Vestment*F3;
+Robe of the Lithe;
+Vestment of Hymns;
+
+| boots =
+Kanago's Shoes of the Nimble*F4;
+Kanago's Tuned Slippers*F3;
+Sandals of Nuisance*F4;
+Shoes of Deliberation;
+Shoes of Dreaming*F4;
+Shoes of Hinderance;
+Slippers of the Lotus*F2;
+
+| athames =
+Dagger of Detachment*F3*WMV;
+Kanago's Dreaming Blade*F2*WMV;
+Knife of Preoccupation*F3*WMV;
+
+| amulets =
+
+| rings =
+Band of Sandcastles*F3;
+Band of the Primitives;
+Kanago's Band of Brainwork;
+Kanago's Ring of the Lotus*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Gold Dragon Throne*F3*WMV;
+Pagoda-Topped Urn*F3*WMV;
+Short Petal Vase*F2;
+Silver Lantern;
+
+| cards =
+Balefrost;
+Black Mantle;
+Dragonflies;
+Ice Wyvern;
+Tough;
+
+| reagents =
+Lead;
+Leather Straps*F11*WMV;
+
+| spellements =
+Blight Hound*BR*F2;
+Evil Snowman*BR;
+Fire Cat*BR;
+Fire Elf*BR*F2;
+Frost Beetle*BR*F2;
+Gearhead Destroyer*BR;
+Ice Wyvern*BR*F2;
+Immolate*BR;
+Kraken*BR*F3;
+Lightning Bats*BR;
+Locust Swarm*BR*F3;
+Phoenix*BR*F2;
+Scarab*BR*F2;
+Scorpion*BR;
+Snow Serpent*BR*F2;
+Spectral Blast*BR;
+Storm Shark*BR;
+Stormzilla*BR*F2;
+Sunbird*BR*F2;
+Thunder Snake*BR*F2;
+
+| snacks =
+Ape Grapes;
+Crunch Apple*F2;
+Golden Peanut;
+Golden Squash;
+Large Fish;
+Large Watermelon*F2;
+Square Root*F2;
+
+| jewels =
+Blemished Defense Amethyst +21*F2;
+Blemished Defense Onyx +21;
+Blemished Defense Opal +12;
+Blemished Defense Ruby +21*F3;
+Blemished Defense Sapphire +21*F2;
+Flawed Accurate Jade +4%;
+Flawed Accurate Ruby +4%;
+Flawed Defense Amethyst +19;
+Flawed Defense Citrine +19;
+Flawed Defense Sapphire +19*F2;
+Flawed Health Opal +35;
+Flawed Mending Opal +2%;
+Gold Miner Opal;
+Healthy Opal;
+Slow Motion Opal;
+Steadfast Opal;
+
+| pins =
+
+| pets =
+Myth Leprechaun*F2*WMV;
+
+| seeds =
+Deadly Ninja Fig*F6*WMV;
+Fiery Boom Shroom;
+Maelstrom Snap Dragon*F4*WMV;
+Pink Dandelion*CR*F4*WMV;
+White Laugh-O-Dil*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

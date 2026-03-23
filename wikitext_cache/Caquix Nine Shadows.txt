@@ -1,0 +1,238 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 14,920
+| crecla = Parrot
+| school = Death
+| startpips = 5
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Left Talon of the Sky;
+
+| world = Azteca
+| location = Mangrove Marsh
+| subloc1 = Hall of Plumage
+| descrip =
+Two additional {{Link|Creature|Obsidian Beak}}s appear if more than two Wizards are present.
+
+| speech =
+:''"I saw you in my black mirror. You are a snake wearing a fake skin. And you've twisted Acan Winefeather with your song. You think you've destroyed all my beautiful, fiery Orbs, but I'll just make more. And then burn the village down! I can hear the true music, and it's telling me to rend you to pieces!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+The early Caquix Nine Shadows catches the wizard. Just don't mess with their Black Mirror.
+
+| extract class =
+Parrot;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Deathblade;
+Death Trap;
+Natural Attack (Death 140-280-420);
+Vampire;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+Skeletal Dragon;
+Dr. Von's Monster;
+
+| quests =
+Nothing but a Heartbreaker;
+Enemy to All Azteca Kind;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge and has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge, the following drops will be available:
+*11 Spellements will drop each time from '''any''' School for their respective rank 6-10 Spells.
+
+| gold =
+114 - 145;
+
+| hats =
+Philosoraptor's Ideal Mantle*F5;
+White Fire Chac's Helmet*F2*WMV;
+
+| robes =
+Coatl Lord's Robes;
+Glorious Xicolli Vest;
+High Chac's Guarded Armor;
+Keeper of the Codex Vest;
+Song of the Lizard Coat;
+Tunic of the Broken Spear;
+White Fire Chac's Armor*F3*WMV;
+
+| boots =
+
+| athames =
+
+| amulets =
+Horizon of Underworld Charm*F4*WMV;
+
+| rings =
+
+| wands =
+Mace of the Aztecosaurs*F3*WMV;
+
+| decks =
+Lords of Night Pyramid Deck*F7*WMV;
+
+| items =
+Azteca Combat Theme;
+Azteca Dungeon Theme;
+Moon Dino Shield;
+Parasaur Helm;
+Parasaur Skirt*F3*WMV;
+
+| cards =
+Basilisk;
+Berserk;
+Chastisement*F3;
+Chimera;
+Colossal;
+Cycle of Life;
+Extraordinary*F2;
+Furnace*F4*WMV;
+Galvanic Field;
+Gargantuan;
+Gnomes!;
+Polymorph Icehorn;
+Polymorph Jaguar;
+Polymorph Pteranodon;
+Potent Trap;
+Power Nova*F2;
+Primordial;
+Rain of Fire;
+Sharpened Blade;
+Sleet Storm*F2;
+Virulence;
+Virulent Plague*F5;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F2*WMV;
+Black Pearl*F2*WMV;
+Bone*F3*WMV;
+Bronze Gear*F2;
+Cobalt;
+Deep Mushroom*F5*WMV;
+Fire Blossom*F2*WMV;
+Fossil;
+Golden Pearl*F2*WMV;
+Lava Lily*F3*WMV;
+Mist Wood*F3*WMV;
+Nickel;
+Nightshade;
+Ore*F3*WMV;
+Red Mandrake*F3*WMV;
+Stone Block*F4*WMV;
+Turquoise*F3*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Centaur*BR;
+Chimera*F2*BR*WMV;
+Colossus*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+Helephant*BR;
+Hydra*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*F2*BR*WMV;
+Triton*BR;
+Woolly Mammoth*BR;
+Wraith*BR;
+
+| snacks =
+Avocado Milkshake;
+Bedrock Bonbons;
+Buttered Bread;
+Cacao Beans;
+Cactus Fruit*F2;
+Chapulines;
+Fern Jelly;
+Fried Ice Cream*F2;
+Maize;
+Quetzal Pretzel;
+Saber-Tooth Cider;
+Tenochti-Flan*F2*WMV;
+Tortilla Chips;
+Yucca;
+Zocalo Wings*F2;
+
+| jewels =
+Curse Giver Onyx;
+Death-Boon Onyx;
+Enfeeble Opal;
+Unbalancer Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Fish on a Vine;
+Key Limes*CR;
+Red Huckleberries;
+
+| mounts =
+
+| spells =
+
+}}

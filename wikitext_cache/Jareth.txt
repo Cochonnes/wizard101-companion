@@ -1,0 +1,155 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,200
+| crecla = Alphoi
+| school = Myth
+| startpips = 2
+| powerpips = Yes
+| outpierce =
+15%;
+
+| outboost =
+65%;
+
+| incboost =
+15% Storm;
+
+| incresist =
+30% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minion = Ravenous Alphoi
+| minion2 = 
+| world = Empyrea
+| location = Zanadu
+| subloc1 = Byrin's Vault
+| descrip =
+
+| spellnotes =
+
+| casts =
+Ether Shield;
+Mythblade;
+Blinding Light;
+Natural Attack (Myth 115-230-345, 80%);
+Humongofrog (310-370);
+Keeper of the Flame (80%);
+Legendary Treant (445);
+Basilisk;
+
+| quests =
+Treat Relief;
+
+| gold =
+404 - 550;
+
+| hats =
+Cabalist Cleansing Hood;
+
+| robes =
+
+| boots =
+Cabal Stompers of Disruption;
+Cabalist Stompers of the First;
+Interstellar Delegate Trekkers;
+
+| athames =
+Interstellar Medic's Scalpel;
+
+| amulets =
+Cabalist Amulet of Finality;
+
+| rings =
+
+| wands =
+
+| decks =
+Interstellar Engineer's Deck;
+Interstellar Medic's Deck;
+Interstellar Navigator's Deck*F3*WMV;
+Interstellar Officer's Deck*F2;
+Interstellar Warrior's Deck;
+
+| items =
+Dwarven Dinner Table;
+Dwarven Side Table;
+Empyrea Finale Combat Theme;
+Empyrea Leisure Dome Theme;
+Empyrea Sewer Theme;
+Fire Dwarf Bed;
+Fire Dwarf Chair;
+Ice Dwarf Bed;
+
+| cards =
+Berserk;
+Galvanic Field;
+Mass Life Prism;
+
+| reagents =
+Ancient Scroll*F2*WMV;
+Antique Coins;
+Black Pearl;
+Blood Moss*F2*WMV;
+Brass*F2*WMV;
+Bronze Gear;
+Ectoplasm*F2;
+Flying Squid Ink*F2*WMV;
+Nickel;
+Spring*F2;
+Tin*F3;
+
+| snacks =
+Antheneum Delight;
+Decimatoes;
+Discord Grape Jelly;
+Pizza;
+Satyr Chow;
+Sprinkle Cupcake*F3*WMV;
+Wheat Cracker;
+
+| jewels =
+Lustrous Blocking Sapphire +13;
+Lustrous Damage Sapphire +23;
+Shiny Accurate Opal +6%;
+Shiny Critical Ruby +15;
+Shiny Accurate Sapphire +12%;
+Shiny Damage Sapphire +25; 
+Shiny Defense Hematite +50;
+Shiny Health Opal +113;
+
+| pets =
+Blue Globulin;
+
+| seeds =
+Angora Bunny Ears;
+Bell Pepper*F2;
+Blue Huckleberries;
+Boon Tree;
+Bread Fruit Bush;
+Clockwork Flower;
+Cornbread Fruit Bush*F2*WMV;
+Couch Potatoes*CR;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR*F2;
+Golden Couch Potatoes*F3;
+Grapes of Wrath*CR*F2;
+Honey Sickle;
+Ivy League*CR;
+Ninja Fig;
+Pink Huckleberries;
+Red Couch Potatoes;
+Red Grapes of Wrath;
+Tiger Lily (Seed);
+Ultra Dandelion;
+
+| mounts =
+
+| spells =
+
+}}

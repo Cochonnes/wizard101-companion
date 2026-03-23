@@ -1,0 +1,213 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 2,960
+| crecla = Elemental
+| crecla2 = Colossus
+| school = Life
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Wandering Firesoul;
+
+| world = Dragonspyre
+| location = The Drake Hatchery
+| subloc1 = Skythorn Tower
+| descrip =
+Avalanche is a grayish Elemental holding a long pointed sword.
+
+| speech =
+:'''Avalanche:''' ''"Grrrr... Break your bones with fists like stone!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre 
+| tome description =
+Though he carries a sword, he's really more of a punchy guy.
+
+| extract class =
+Colossus;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Sprite;
+Lifeblade;
+Life Trap;
+Leprechaun;
+Seraph;
+Centaur;
+Natural Attack (Life 85x);
+Locust Swarm;
+Cyclops;
+Storm Shark;
+Meteor Strike;
+Heck Hound;
+
+| quests =
+Soul Winger;
+
+| gold =
+106 - 132;
+
+| hats =
+Avalanche's Balanced Mantle*F5*WMV;
+Blazing Bonnet*F3*WMV;
+Bonfire Headdress;
+Cowl of Morbidity;
+Hood of the Ranger*F2;
+Mantle of the Icicle;
+Mythological Mantle;
+Promethean Hood;
+Shroud of the Equinox;
+Triton's Topper;
+Veil of Leaves;
+Veil of Passage;
+
+| robes =
+Avalanche's Verdant Robe*F3*WMV;
+Blizzard Cloak;
+Fiery Tunic*F3;
+Librarian's Robes*F2;
+Snowflower Cloak*F2;
+Storm Giant's Surcoat*F2;
+Terminus Wrap;
+Tunic of the Sphinx;
+Verdant Vestment;
+
+| boots =
+Ashen Footwraps;
+Avalanche's Frigid Boots*F2;
+Boots of Equivalence;
+Boots of the Bountiful;
+Boots of the Slipstream*CR;
+Burning Boots;
+Footgear of the North Wind;
+Legend Walkers;
+Mocassins of Mortality*F3;
+Rainstorm Waders*F2;
+Salamander-Hide Shoes;
+Sandals of Lost Aeons;
+Sandals of Neutrality;
+Sandals of Zest;
+Shoes of the Whispering Dark;
+Slippers of the Slipstream*F4*WMV;
+
+| athames =
+Avalanche's Icy Athame*F3;
+Dauntless Dirk;
+Dragonblood Dirk;
+Infinity's Edge*F2*WMV;
+Talon of the Wyrmkin*F4;
+
+| amulets =
+
+| rings =
+Avalanche's Fiery Band*F2;
+Band of the Hearth*F2;
+Heartwood Band*F4*WMV;
+Ring of Dominance;
+Signet of the Chimera;
+
+| wands =
+
+| decks =
+
+| items =
+Broken Pillar*F5;
+Dragonspyre Theme 3;
+Short Corner Wall Ruins;
+Stone Fragment*F3;
+
+| cards =
+Pest Zapper;
+
+| reagents =
+Bone*F4*WMV;
+Brass*F3*WMV;
+Cobalt*F3;
+Copper*F4;
+Ectoplasm*F8*WMV;
+Lead*F2;
+Nickel;
+Tin*F5*WMV;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F2;
+Goat Cheese;
+Golden Grapes*F2*WMV;
+Gummy Humongofrog*F3;
+King Banana*F2;
+
+| jewels =
+Adroit Opal;
+Big Energy Opal;
+Blemished Damage Amethyst +12;
+Blemished Damage Jade +12;
+Blemished Defense Citrine +24;
+Dull Blocking Citrine +4*F2;
+Dull Blocking Sapphire +4;
+Dull Critical Amethyst +4;
+Dull Critical Citrine +4;
+Dull Damage Amethyst +13;
+Dull Damage Peridot +13;
+Dull Piercing Jade +2%;
+Earthquake Peridot;
+Gold Miner Opal;
+Hydra Citrine;
+Life-Eye Jade;
+Lock Opal;
+Sanctuary Jade;
+Storm-Eye Amethyst;
+Stormzilla Amethyst;
+Stupefy Opal;
+Wraith Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F3;
+Fiery Boom Shroom*F3;
+King Parsley*CR;
+Maelstrom Snap Dragon*F4*WMV;
+Pink Dandelion*CR*F4*WMV;
+White Laugh-O-Dil*F4*WMV;
+
+| mounts =
+
+| spells =
+
+}}

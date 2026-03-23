@@ -1,0 +1,248 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 11,760
+| crecla = Qhat
+| school = Ice
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+10%;
+
+| outboost =
+30%;
+
+| incboost =
+15% Fire;
+
+| incresist =
+30% Ice;
+
+| stunable = Yes
+| beguilable = Yes
+| minion = Yakhal Ice Keeper
+| minion2 = 
+| world = Mirage
+| location = Yakhal Mountain
+| subloc1 = Deep Freeze
+| descrip =
+In the quest dialogue, his name appears as ''"Freezy Qhat"''.
+
+| speech =
+:''"The Sayameez had me working down here for so long, I froze solid, but somehow I developed powers too. Come closer. Let me show you!"''
+
+| spellnotes =
+
+| casts =
+Brace;
+Icewind;
+Volcanic Shield (-75%);
+Frozen Armor (185);
+Iceblade;
+Steal Ward;
+Snow Drift;
+Ice Bats (215);
+Natural Attack (Ice 105-210-315, 75%);
+Blizzard (290-330, 80%);
+Winter Moon;
+Frostbite (80+549);
+Frost Giant (530);
+
+| quests =
+The Rebel Rouser;
+
+| gold =
+578 - 775;
+
+| hats =
+Vizier's Desert Snow Mantle;
+
+| robes =
+Sand Sea Outfit of Ashes;
+Sand Sea Outfit of Decorum;
+Zruvan Raiment of Demise;
+
+| boots =
+Sand Sea Striders of Decorum;
+Vizier's Shoes of Smolders;
+Vizier's Windswept Shoes;
+Zruvan Galesh of Fury;
+
+| athames =
+Kobra Janbiya of Acumen;
+Sand Sea Dagger of Ashes;
+Sand Sea Dagger of Bolts*F2*WMV;
+Sand Sea Dagger of Decorum;
+Sand Sea Dagger of Hardiness;
+
+| amulets =
+Sand Sea Amulet of Blight;
+Sand Sea Charm of Hardiness;
+
+| rings =
+Sand Sea Ring of Blusters;
+Sand Sea Ring of Explosion;
+Sand Sea Ring of Hardiness;
+
+| wands =
+
+| decks =
+Hand of Kobra Acumen;
+Kobra Hand of Flashfloods;
+Sand Sea Hand of Ashes;
+Sand Sea Hand of Decorum;
+Sand Sea Hand of Hardiness;
+
+| items =
+Mirage Canyon Combat Theme;
+Mirage Canyon Theme 1;
+Mirage Chronoverge Com Theme;
+Mirage City Combat Theme*F2;
+Mirage City Theme 2;
+Mirage Den of Thieves Theme;
+Mirage Jungle Combat Theme;
+Mirage Jungle Theme;
+Mirage Spider Speaks Theme;
+
+| cards =
+Age of Reckoning;
+Arcticzilla*F2;
+Ashen Bones;
+Blue Phoenix*F2; 
+Coldiron;
+Counterforce;
+Firespear;
+Frostfang*F3*WMV;
+Icespear*F2*WMV;
+Katabatic Wind*F3*WMV;
+Mutate Colossus (Storm);
+Namaste;
+Obsidian Colossus (420)*F2*WMV;
+Raging Bull;
+Sandstone Colossus;
+Snowball Barrage;
+Steel Colossus*F2*WMV;
+Stormspear;
+Winged Sorrow*F3*WMV;
+Yellow Troll*F2*WMV;
+
+| reagents =
+Aether*F7*WMV;
+Agave Leaves*F2;
+Amber Dust*F5*WMV;
+Aquamarine*F4*WMV;
+Astral Shard*F4*WMV;
+Braided Vine;
+Draconium;
+Fire Blossom*F5;
+Fish Fin*F5*WMV;
+Glass Sliver*F3*WMV;
+Golden Pearl*F10*WMV;
+Mithril*F7*WMV;
+Orichalcum;
+Scales*F5*WMV;
+Silver*F7*WMV;
+Steel*F6*WMV;
+Sunstone*F6*WMV;
+Titanium*F7*WMV;
+Tungsten*F6*WMV;
+Turquoise*F3*WMV;
+Vine;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F3*WMV;
+Beetle Cream Soda*F3*WMV;
+Chalupacabra*F5*WMV;
+Eye Candy*F3*WMV;
+Fern Jelly;
+Fire Passion Fruit;
+Frosty Sugar Cubes;
+Green Tomato;
+Hard Boiled Beetle Eggs*F7*WMV;
+High Road Haggis;
+Hot Cross Buns*F5*WMV;
+Mustachios*F6*WMV;
+Rhubarbed Wire;
+Satyr Chow*F5*WMV;
+Ships 'n' Queso*F5*WMV;
+Veggie Juice*F7*WMV;
+Wheat Cracker;
+
+| jewels =
+Lustrous Defense Citrine +45;
+Polished Blocking Amethyst +12;
+Polished Blocking Hematite +11;
+Polished Blocking Peridot +12*F2*WMV;
+Polished Blocking Ruby +12;
+Polished Blocking Sapphire +12;
+Polished Critical Jade +11;
+Polished Critical Onyx +11;
+Polished Critical Ruby +11;
+Polished Critical Sapphire +11*F2*WMV;
+Polished Damage Hematite +42;
+Polished Damage Onyx +21;
+Polished Damage Sapphire +21;
+Polished Defense Amethyst +43*F2*WMV;
+Polished Defense Onyx +44;
+Polished Defense Ruby +43;
+Polished Defense Sapphire +44;
+Polished Piercing Hematite +5%*F2;
+Polished Piercing Jade +6%;
+Renew Opal;
+Shiny Critical Amethyst +15;
+Shiny Critical Citrine +16;
+Shiny Critical Opal +8;
+Shiny Critical Peridot +15;
+Shiny Damage Amethyst +26;
+Shiny Damage Hematite +52;
+Shiny Damage Onyx +26;
+Shiny Defense Amethyst +52;
+Shiny Defense Hematite +51;
+Shiny Defense Onyx +50;
+Shiny Health Opal +111;
+Shiny Mana Opal +47;
+
+| pets =
+MaCaw*CR;
+
+| seeds =
+Angora Bunny Ears*F4*WMV;
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper*F2*WMV;
+Blue Huckleberries*F2*WMV;
+Boiled Peanuts;
+Boon Tree*CR;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Cornbread Fruit Bush*F2*WMV;
+Deadly Ninja Fig*F2;
+Fortune Cookie Tree;
+Golden Couch Potatoes*F3*WMV;
+Grapes of Wrath*CR;
+Ivy League*CR;
+King Parsley*CR;
+Laugh-O-Dil;
+Orange Bell Pepper*CR;
+Pink Huckleberries;
+Purple Bell Pepper;
+Purple Grapes of Wrath*F3*WMV;
+Purple Snow Apples;
+Red Couch Potatoes*F3*WMV;
+Red Grapes of Wrath*F2*WMV;
+Red Huckleberries*F2;
+Silver Trumpet Vine*CR;
+Snow Apples*F2*WMV;
+Sunion*CR*F3*WMV;
+Tiger Lily (Seed);
+Trumpet Vine;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

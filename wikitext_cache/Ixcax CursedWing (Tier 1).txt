@@ -1,0 +1,127 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 12,000
+| crecla = Pterodactyl
+| crecla2 = Dino
+| school = Storm
+| masteries =
+Balance;
+
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| schoolpips =
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+60%;
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Tzeltan Cohort (Tier 1);
+Tzeltan Cohort (Tier 1);
+Tzeltan Cohort (Tier 1);
+
+| world = Azteca
+| location = Three Points
+| subloc1 = Ixcax CursedWing's Chamber
+| badge = Ixnay on the Ixcax
+| descrip =
+Ixcax CursedWing is a unique Boss who drops Gear and Spellements from the {{Link|Item|Shaman's Spellemental Pack}}.
+*This version of Ixcax is intended for Level 1-50 Wizards.
+
+| speech =
+:''"Look at you, practically skipping along, happily venturing into some ancient Aztecan ritual chamber. Must be sooo much fun! Do you know what it's like to be cursed to maintain an endless vigil? Of course not! You have no idea! But I'll tell you, it stinks! When the Firstworld was destroyed, I bargained for our salvation, and I was given this! An eternity guarding an empty room! I am bound to attack any who venture in here. There was a time I resented it, but now I relish the chance to share my misery!"''
+
+| cheatnotes =
+*{{Icon|Feint}} ''"Two can play that game"'' - If a Wizard casts a {{Link|Spell|Feint}} on Ixcax, she will cast a Feint on the Wizard.
+*{{Icon|Aura}} ''"Vengeance will be mine!"'' - If a Tzeltan Cohort is defeated, Ixcax will cast {{Link|Spell|Berserk}}, and the remaining Minions will cast {{Link|Spell|Fortify}}.
+*{{Icon|Manipulation}} ''"Time to mix things up"'' - At the end of every fifth Round, Ixcax casts a version of {{Link|Spell|Cleanse Ward (-All)}} that removes all harmful Wards from her team, and casts a unique Storm School Mass Prism on all enemies that converts any incoming Damage to another School of magic (i.e Death, Fire, Storm, Life, Ice, or Myth).
+
+| spellnotes =
+
+| casts =
+Stormblade (+30%);
+Storm Trap;
+Windstorm;
+Enfeeble;
+Storm Serpent (230);
+Thunderbird;
+Stormzilla (Tier 2a);
+Tempest;
+Natural Attack (Fire 190-380-570);
+Savage Paw;
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+
+| hats =
+
+| robes =
+Lost World Cloud Mail;
+
+| boots =
+Lost World Survivor Footclaws;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Stone Skeleton Key*CR*F2*WMV;
+
+| cards =
+Lord of Night*F2*WMV;
+
+| reagents =
+Participation Trophy;
+
+| spellements =
+Lord of Night*F6*WMV;
+Savage Paw*F6*WMV;
+Savage Paw @ 2 Savage Paw;
+Winter Moon*F6*WMV;
+Winter Moon @ 2 Winter Moon;
+
+| snacks =
+
+| jewels =
+Dull Damage Jade +13;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

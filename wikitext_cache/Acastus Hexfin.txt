@@ -1,0 +1,193 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,525
+| crecla = Shark
+| school = Ice
+| startpips = 4
+| powerpips = Yes
+| critical =
+25 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire;
+
+| incresist =
+35% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Piscean Soldier;
+Piscean Soldier;
+
+| world = Celestia
+| location = Crustacean Empire
+| subloc1 = Hexfin's Hideout
+| descrip =
+
+| speech =
+:''"Did those waterlogged old buccaneers send you after their compass? I'll send you back where you came from!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Stun Block;
+Iceblade;
+Ice Trap;
+Ice Prism;
+Blizzard;
+Ice Wyvern;
+Blight Hound;
+Colossus;
+Tundra Lord;
+
+| quests =
+Finding the Way;
+
+| gold =
+104 - 126;
+
+| hats =
+Facade of Fairness;
+Forgotten Facade;
+Headwrap of Wrath*F2*WMV;
+Helm of Burning Ambition;
+Nereus's Hoarfrost Helm;
+Rising Tide Topper;
+Shroud of Solitude;
+Storyteller's Cap;
+Synthesis Cover;
+Thundercloud Coif*F2;
+United Headdress*F2;
+
+| robes =
+Devoted Vestment;
+Hexfin's Ice Armor*F3*WMV;
+Reckless Raiment;
+Salgio's Tinder Cloak;
+Storyteller's Tunic;
+Tragic Tunic*F2*WMV;
+Turbulent Tunic;
+Wintertide Tunic*F2*WMV;
+
+| boots =
+Boots of Celestian Totality*F2;
+Celestian Abyss Boots;
+Celestian Cinder Shoes;
+Celestian Frostbit Footgear;
+Firestar Shoes*F2*WMV;
+Ice Rangers;
+Polar Boots;
+Storied Celestian Sabatons;
+Versatile Celestian Boots;
+Virtue Shoes;
+Walkers of Wonder*F3*WMV;
+
+| athames =
+Dagger of Typhoons;
+Dirk of Delusion;
+Dirk of Disorder*F3*WMV;
+Hexfin's Frostbit Bodkin*F2;
+Kris of the Piscean Guard*F3;
+
+| amulets =
+Legendary Vial*F3*WMV;
+Wyldfire Collar;
+
+| rings =
+Circle of Life*F7*WMV;
+Combustible Band;
+Hexfin's Flurry Band*F4*WMV;
+Majestic Signet*F2*WMV;
+Ring of Rare Origins;
+Typhoon Band;
+
+| wands =
+
+| decks =
+
+| items =
+Broken Palm Tree*F3*WMV;
+
+| cards =
+Accurate*F4;
+Amplify*F4*WMV;
+Balefrost;
+Giant*F2;
+Heck Hound;
+Ice Wyvern;
+Minotaur;
+Precision*F2;
+Sniper;
+Wyldfire;
+
+| reagents =
+Brass;
+Cobalt*F2;
+Fish Fin*F10*WMV;
+Nickel*F2*WMV;
+Sandstone*F8*WMV;
+Scales*F4*WMV;
+Steel;
+Sunstone*F3*WMV;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2*WMV;
+Delicious Cookie;
+Glowing Star Fruit*F3*WMV;
+Glowing Taffy;
+Spicy Drumstick*F3*WMV;
+Strawberry Cupcake*F5;
+Submarine Sandwich*F4*WMV;
+
+| jewels =
+Balance-Giver Citrine;
+Bullheaded Peridot;
+Death-Proof Onyx;
+Dull Accurate Sapphire +6%;
+Dull Piercing Amethyst +2%;
+Dull Piercing Onyx +2%;
+Infector Onyx;
+Mass Death Prism Onyx;
+Mega-Deplete Opal;
+Plain Blocking Onyx +6;
+Plain Blocking Ruby +6;
+Plain Damage Amethyst +15;
+Plain Damage Onyx +15;
+Plain Health Opal +56;
+Reshuffle Citrine;
+Stormclaw Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fish on a Vine*F2;
+Maelstrom Snap Dragon*F3*WMV;
+Pink Dandelion*CR;
+Silver Trumpet Vine*CR*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

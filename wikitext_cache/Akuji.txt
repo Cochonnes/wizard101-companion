@@ -1,0 +1,223 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 3,200
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Kakeda Spirit Slave;
+
+| world = MooShu
+| location = Tree of Life
+| lootchest = Akuji's Chest
+| descrip =
+*Akuji is a "secret" Boss in the Tree of Life.  He is located in the brown hut in the lower right corner of the map (near the blue Abracadoodle on the map).
+*Two additional Kakeda Spirit Slaves appear if more than two Wizards are present.
+
+| speech =
+:''"Another Wizard to conquer. How I wish someone would send me a real challenge..."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+Cursed to a wakeful death for past evil deeds, they search the Tree of Life for souls to infect with their sorrow. And their missing house keys.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+| retired expel = Yes
+}}
+
+| spellnotes =
+
+| casts =
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Vampire;
+Skeletal Pirate;
+Wraith;
+Natural Attack (Ice 90, 80%);
+Lightning Bats;
+Cyclops;
+Meteor Strike;
+
+| quests =
+
+| gold =
+33 - 130;
+
+| hats =
+Akuji's Helm of Forethought;
+Cap of Song;
+Cap of the Verse;
+Cowl of Cooperation;
+Cowl of Rhyming;
+Gogi Berry Stained Cap;
+Hat of Discontent;
+Hat of Niceties;
+Headwraps of Resonance;
+Heedful Headwraps;
+Hood of the Resolute*F2*WMV;
+Mask of Impression*F3*WMV;
+Nunu's Mask of the Twisted*F2*WMV;
+Problematic Headwraps;
+Shroud of Afterthoughts;
+Shroud of Conceit;
+Shroud of Music;
+Shroud of the Opus;
+Stressed Mask*F2*WMV;
+Tormented Mask;
+
+| robes =
+Akuji's Cloak of the Zealous*F2*WMV;
+Dashing Cloak;
+Garments of Generations;
+Garments of the Opus;
+Quick-Witted Vestment;
+Vestment of Hymns;
+Vestment of Niceties;
+Warbled Cloak;
+
+| boots =
+Akuji's Slippers of the Chorus*F2*WMV;
+Boots of Melodies*F3*WMV;
+Ecstatic Boots;
+Engrossed Shoes;
+Entranced Slippers;
+Footwraps of Charity;
+Footwraps of Generations;
+Footwraps of Predicament;
+Footwraps of Sandcastles*F4*WMV;
+Haskarr's Barbarish Boots;
+Immersive Sandals;
+Meticulous Footwraps*F3*WMV;
+Problematic Boots*F2*WMV;
+Proficient Shoes;
+Sandals of Soul-Searching*F2*WMV;
+Shoes of Scruples;
+Shoes of the Observant*F3*WMV;
+Slippers of the Eager*F3;
+
+| athames =
+Akuji's Entranced Knife*F2*WMV;
+Athame of Attention;
+Dirk of Sandcastles;
+
+| amulets =
+
+| rings =
+Akuji's Meditative Band*F2*WMV;
+Discerning Ring*F2*WMV;
+
+| wands =
+
+| decks =
+Akuji's Deck of Premise;
+
+| items =
+Crimson Silk Kimono*F2*WMV;
+Dirt Pile;
+Soji Screen Rice Paper;
+Solar Obelisk;
+Stone Sarcophagus*F2*WMV;
+Tall Boulder;
+Tall Fuchsia Vase;
+
+| cards =
+Cloak;
+Darkwind;
+Donate Power;
+Doom and Gloom;
+Ghost Touch;
+Minotaur;
+Monstrous;
+Ninja Pigs*F2*WMV;
+Pest Zapper;
+Satyr;
+Skeletal Pirate;
+
+| reagents =
+Brass;
+Copper;
+Ectoplasm*F6*WMV;
+Nickel;
+Spider Silk*F9*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Crunch Apple;
+Fire Cracker*F2*WMV;
+Golden Peanut;
+Golden Squash;
+Large Watermelon;
+Square Root*F2*WMV;
+
+| jewels =
+Blemished Damage Opal +6;
+Blemished Defense Amethyst +21;
+Blemished Defense Jade +21;
+Blemished Defense Onyx +21;
+Blemished Defense Opal +12;
+Blemished Defense Peridot +21;
+Blemished Defense Ruby +21;
+Blemished Defense Sapphire +21;
+Flawed Damage Opal +5;
+Flawed Defense Sapphire +18;
+Flawed Healing Opal +2%;
+Flawed Health Opal +32;
+Flawed Mana Opal +15;
+Ice-Giver Sapphire;
+Mana Boost Opal;
+Scoot Opal;
+Slow Motion Opal;
+
+| pins =
+
+| pets =
+Green Ghost*F3*WMV;
+Red Banshee*F3*WMV;
+
+| seeds =
+Fiery Boom Shroom;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

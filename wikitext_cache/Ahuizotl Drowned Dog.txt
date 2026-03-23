@@ -1,0 +1,195 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 19,080
+| crecla = Water-Lurker
+| school = Storm
+| masteries =
+Death;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Kronosaur;
+
+| world = Azteca
+| location = Floating Mountains
+| subloc1 = Well
+| descrip =
+
+| speech =
+:''"Your eyes and teeth are so pretty.  Do you mind if I keep them?"''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Virulent Plague;
+Stormblade;
+Curse;
+Feint;
+Natural Attack (Storm 190-380-570, 70%);
+Catalan;
+Storm Lord;
+Leviathan;
+Storm Owl;
+Tempest (85);
+Wraith (575);
+
+| quests =
+Lost Land of the Jaguars;
+
+| gold =
+125 - 168;
+
+| hats =
+High Chac's Guarded Helm;
+Song of the Lizard Hood;
+
+| robes =
+Grinning Death Xicolli Vest*F2;
+Keeper of the Codex Vest*F2;
+Lord of Night Robes;
+Philososaur's Robes;
+Tunic of the Broken Spear;
+Vestment of the Calavera;
+Vestment of the Hungry Lizard;
+White Fire Chac's Armor*F3*WMV;
+
+| boots =
+Black Tears of Night Wraps*F3*WMV;
+Elite Jura Guard Stalkers*F2;
+Five Fangs of Fury Boots*F2*WMV;
+Heart of Sky Boots;
+Indigo Wing Striders*F2;
+Tree of Secrets Chac Runners*F3;
+Twisted Fang Boots;
+
+| athames =
+Moon Skull's Blessed Edge;
+Wild Wing's Glorious Razor;
+Winged Tooth Knight's Hook;
+
+| amulets =
+Home Hearth Relic;
+Pendant of the Wild Wings*F2*WMV;
+Thunder Horn's Coral Charm;
+
+| rings =
+
+| wands =
+New Moon Lance;
+Talon of the Storm Owl*F2*WMV;
+
+| decks =
+Calendar of the Spiral King*F2;
+King's Royal Portraits;
+Lords of Night Pyramid Deck*F4;
+
+| items =
+Azteca Apocalypse Theme;
+Azteca Main Theme;
+Bird Head Mount;
+Clothesline;
+Starburst Frond;
+
+| cards =
+Basilisk;
+Chimera;
+Cloud Demon;
+Colossal;
+Extraordinary*F2;
+Forest Lord;
+Leviathan;
+Medusa;
+Potent Trap*F3*WMV;
+Primordial;
+Ra;
+Rain of Fire;
+Sharpened Blade*F2;
+Sirens;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F3*WMV;
+Black Pearl*F2;
+Blood Moss;
+Bone*F3*WMV;
+Bronze;
+Bronze Gear*F3*WMV;
+Cobalt;
+Deep Mushroom*F2*WMV;
+Fire Blossom*F2;
+Fossil;
+Golden Pearl;
+Lava Lily*F3*WMV;
+Mist Wood*F3*WMV;
+Mithril;
+Nightshade;
+Ore*F2;
+Red Mandrake*F6*WMV;
+Silver*F2;
+Steel;
+Stone Block*F2;
+Sunstone;
+Tungsten*F2;
+Turquoise*F2;
+
+| spellements =
+
+| snacks =
+Apatotatoes*F2*WMV;
+Flapjacks;
+Guava*F3*WMV;
+Gummy Wyrms;
+Jelly Baby;
+Maize;
+Quetzal Pretzel;
+Rex Tea;
+Shiny Tomato*F3;
+Zocalo Wings*F2*WMV;
+
+| jewels =
+Infallible Talent Opal;
+Polished Damage Jade +21;
+Shh! Opal;
+Vengeance Talent Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Fiery Boom Shroom *F2;
+Fish on a Vine;
+Key Limes*CR;
+
+| mounts =
+
+| spells =
+
+}}

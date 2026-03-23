@@ -1,0 +1,134 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 385
+| crecla = Water-Lurker
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+10% Myth;
+
+| incresist =
+40% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Wizard City
+| location = Crab Alley
+| subloc1 = Royal Palace
+| badge = Triton Underwater Hero
+| descrip =
+King of the Riverclaw Kingdom, Amadeo has covertly usurped the position of king of Crab Alley from its rightful monarch, [[NPC:King Thermidor|King Heinrich Thermidor VIII]]. After discovering his duplicity and rescuing Thermidor from beyond the breach in Crab Alley's river wall, Wizards challenge Amadeo's position to restore the true ruler of Crab Alley to the throne.
+
+| speech =
+:''"Very well, young Wizard! You may have seen through my disguise, but you won't leave the Royal Tower alive!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 125 Storm Damage per Pip.
+
+| casts =
+Myth Shield;
+Rain Beetle;
+Thunder Snake;
+Storm Serpent (155-195);
+Lightning Bats;
+Storm Shark;
+Imp;
+
+| quests =
+Castles Made of Sand;
+
+| gold =
+6 - 12;
+
+| hats =
+Charbane's Helm*F5*WMV;
+Cold Forged Helm;
+Hood of Tension*F3;
+Sapphyra's Studded Helm*F2;
+Stormweave Hood;
+The Bewitcher*CR*F2*WMV;
+Trollskin Hat*F3;
+
+| robes =
+Ashen Cloak*F4*WMV;
+Cloak of the Watchful;
+Tunic of Disturbance*F3*WMV;
+
+| boots =
+Barkskin Boots*F2*WMV;
+Goldleaf Shoes*F3;
+Senior Novice's Shoes;
+Slippers of Repose*F3;
+Venomous Footwraps*F2;
+
+| athames =
+Citrine Studded Athame*F5*WMV;
+Jade Studded Athame*F2*WMV;
+Jeweled Dagger;
+Studded Knife*F2;
+
+| amulets =
+Amulet of the Fay;
+Bogeyman's Pendant;
+Choker of Ferocity;
+Swooping Necklace*F4*WMV;
+
+| rings =
+Hallowed Band;
+Lord's Signet*F2;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Fire Elf;
+Ghoul;
+Locust Swarm;
+Snow Serpent;
+Stormzilla;
+Time of Legend;
+Troll;
+
+| reagents =
+Pyrite*F7;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Cracked Defense Amethyst +4;
+Cracked Defense Jade +4;
+Cracked Mana Opal +6;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

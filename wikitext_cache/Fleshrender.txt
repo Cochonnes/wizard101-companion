@@ -1,0 +1,159 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,760
+| crecla = Wolverine
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Ferocious Wildclaw;
+
+| world = Grizzleheim
+| location = Vigrid Roughland
+| subloc1 = Fleshrender's Cave
+| descrip =
+Fleshrender is a Wildclaw that makes their home in a cave near [[NPC:Egil Axebearer|Egil Axebearer's]] refugee camp in Vigrid Roughland.
+
+*Two additional Ferocious Wildclaws will appear if more than two Wizards are present.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Death Damage.
+
+| casts =
+Myth Shield;
+Weakness;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Storm Serpent (155-195);
+Lightning Bats;
+Storm Shark;
+Squall Wyvern;
+Kraken;
+Banshee;
+Sunbird;
+Heck Hound;
+
+| quests =
+
+| gold =
+48 - 90;
+
+| hats =
+Circlet of Fortune;
+Coif of Veracity;
+Cowl of Correspondence*F5*WMV;
+Crown of Achievement;
+Hat of Consequence*F2*WMV;
+Hat of the Scirocco*F6*WMV;
+Headgear of the Haze;
+
+| robes =
+Coat of Forethought;
+Drape of Punditry*F4*WMV;
+Funereal Coat*F7*WMV;
+Igneous Robe;
+Jerkin of Brio;
+Quintessential Clothing*F5*WMV;
+Raiment of the Lifespring*F2*WMV;
+Robe of Elegies*F2*WMV;
+Vestment of Serenity;
+Vestment of Yesteryear*F2*WMV;
+Winterwear Wrap;
+
+| boots =
+Indefatigable Striders;
+Recursive Striders*F7*WMV;
+Untiring Footguards*F5*WMV;
+
+| athames =
+Glyphcarver*F2*WMV;
+
+| amulets =
+
+| rings =
+Rejuvenating Circlet;
+Signet of the North Wind;
+Skydark Ring*F7*WMV;
+Stone of Confidence*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Blizzard;
+Evil Snowman;
+Humongofrog*F2*WMV;
+Ice Wyvern;
+Skeletal Pirate;
+Tempest;
+Tough;
+
+| reagents =
+Copper*F2*WMV;
+Iron*F3*WMV;
+Leather Straps;
+Nickel;
+Pyrite*F3*WMV;
+
+| spellements =
+
+| snacks =
+Cheese Broccoli*F3*WMV;
+Chocolate Strawberry*F2*WMV;
+Glowing Rock Candy*F2*WMV;
+Gummy Firecat*F2*WMV;
+Meat Soup;
+Sugar Donut*F2*WMV;
+Taco;
+Tasty Biscuit*F3*WMV;
+
+| jewels =
+Cracked Damage Onyx +6;
+Cracked Damage Opal +1;
+Cracked Defense Opal +6;
+Cracked Defense Sapphire +10;
+Dawdle Opal;
+Snow Serpent Sapphire;
+
+| pins =
+
+| pets =
+Mustard Troll*F4*WMV;
+
+| seeds =
+Couch Potatoes*CR*F2*WMV;
+Dandelion*F2*WMV;
+Laugh-O-Dil*F2*WMV;
+Stinkweed*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

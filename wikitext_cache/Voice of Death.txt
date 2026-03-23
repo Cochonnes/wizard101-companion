@@ -1,0 +1,120 @@
+{{Stub|Stat Verification and Casts}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 56,500
+| crecla = Calaca
+| school = Balance
+| school2 = Death
+| masteries =
+Fire;
+Ice;
+Storm;
+Myth;
+Life;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+553 Any;
+582 Balance;
+
+| outpierce =
+51% Any;
+54% Balance;
+
+| outboost =
+177% Any;
+186% Balance;
+
+| incboost =
+None;
+
+| incresist =
+68% Fire, Ice, Myth, Death, Balance, Sun, Moon, Star, Shadow;
+88% Storm, Life;
+
+| outhealing =
+70%;
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Raid
+| location = Crying Sky
+| subloc1 = Xibalba Wastes (South)
+| badge = Death Silencer
+| descrip =
+Voice of Death is an optional Boss inside the {{Link|Location|Crying Sky}} Raid. It is summoned at the top of the pyramid in the Xibalba Wastes (South) when all 7 school symbols have been lit by {{Link|Spell|Magic Touch}}.
+*Summoning Voice of Death grants the "[[Basic:Badges|Death Rasp Defier]]" Badge.
+
+| speech =
+:''"Life feeds on death. I feed on life."''
+
+| cheatnotes =
+*''"I speak into existence MORE PIPS!"'' - Voice of Death casts a {{Link|Spell|Quicken}} on itself and all Wizards, giving max Power Pips when anyone is lacking an Aura.
+*''"I speak your PIPS INTO PAIN!"'' - At the end of every Round, if a Wizard has Pips remaining, Voice of Death will cast {{Link|Spell|Mana Burn}} on all Wizards.
+*''"That shall become... PIPS!"'' -  If a Wizard casts an X-Pip Charm or Ward, Voice of Death will remove the hanging effect and convert it into Pips (needs clarification: how many pips?)
+
+| spellnotes =
+
+| casts =
+Duststorm Jinn;
+Niles' Knock-Out;
+Doom Oni;
+Rain of Torrence;
+Phantastic Jinn;
+
+| quests =
+
+| dropnotes =
+All 12 Wizards in the Raid receive the drops, not just the ones within the battle.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| elixirs = 
+Energy Elixir;
+Triple Animus Elixir;
+
+}}

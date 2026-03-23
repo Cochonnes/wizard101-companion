@@ -1,0 +1,664 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 11,000
+| crecla = Hamster
+| school = Balance
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+24%;
+
+| outboost =
+115%;
+
+| incboost =
+5% Myth, Life, Death;
+
+| incresist =
+70% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Malistaire (Actor);
+Morganthe (Actor);
+Grandfather Spider (Actor);
+
+| world = Karamelle
+| location = Sweetzburg
+| subloc1 = Uwe's Workshop
+| descrip =
+
+| speech =
+
+:'''Uwe:''' ''"Now we start the play. As you see, I don't waste gold on expensive sets and costumes. I pass the savings onto me. Buy new hat. Now, Action!"''
+
+:'''The Wizard:''' ''"Oh, I am but a poor mute Wizard from the world of Dirt. How will I defeat such evils as these?"''
+
+:'''Malistaire (Actor):''' ''"Grr, I'm Malistaire and I miss being married."''
+
+:'''Morganthe (Actor):''' ''"I am Morganthe, the Shadow Queen, and I will destroy the Spiral with singing dinosaur concert."''
+
+:'''Grandfather Spider (Actor):''' ''"..."''
+
+:'''The Wizard:''' ''"Uh... right... As I was saying, how can I fight all of these? Oh, I know! Abra Kadabra. I win! With Magic! The End... Question Mark?"''
+
+:'''Uwe:''' ''"Bravo. Is good play, yah? What? You no like play? Well, play don't like you. I don't like you. We fight now."''
+
+| spellnotes =
+*Casts an Aegis-protected Balanceblade.
+
+| casts =
+Berserk;
+Frenzy;
+Elemental Spear;
+Balanceblade;
+Bladestorm;
+Counterforce;
+Cat Thug (160);
+Sand Wurm;
+Sandstorm;
+Spectral Blast;
+Gaze of Fate;
+Hydra;
+Nested Fury;
+Power Nova;
+Mockenspiel (Tier 3a);
+Judgement;
+
+| quests =
+The Wizardful 101;
+
+| gold =
+557 - 682;
+
+| hats =
+Chief's Cryo Hood;
+Chief's Survival Hood;
+Chief's Thermal Hood;
+Director Cryo Hood;
+Director Pressure Hood;
+Director Thermal Hood;
+Executive Biohazard Hood*F2;
+Lead's Cryo Hood;
+Lead's Hazmat Hood;
+Lead's Pressure Hood;
+Lead's Protective Hood;
+Lead's Survival Hood;
+Producer's Biohazard Hood;
+Producer's Protective Hood;
+Producer's Survival Hood;
+Supervisor Cryo Hood;
+Supervisor Hazmat Hood;
+Supervisor Insulated Hood;
+Supervisor Pressure Hood;
+Supervisor Protective Hood;
+Supervisor Survival Hood;
+
+| robes =
+Chief's Cryo Suit;
+Chief's Survival Suit;
+Chief's Thermal Suit;
+Director Cryo Suit;
+Executive Hazmat Suit;
+Executive Thermal Suit;
+Lead's Biohazard Suit;
+Lead's Cryo Suit;
+Lead's Insulated Suit;
+Lead's Protective Suit;
+Lead's Survival Suit;
+Lead's Thermal Suit;
+Supervisor Cryo Suit;
+Supervisor Insulated Suit;
+Supervisor Pressure Suit;
+Supervisor Survival Suit;
+
+| boots =
+Chief's Biohazard Boots;
+Chief's Hazmat Boots*F2;
+Chief's Insulated Boots;
+Chief's Pressure Boots;
+Chief's Protective Boots;
+Chief's Thermal Boots;
+Director Pressure Boots;
+Director Protective Boots;
+Executive Biohazard Boots;
+Producer's Pressure Boots;
+Producer's Survival Boots;
+Supervisor Hazmat Boots;
+Supervisor Insulated Boots;
+Supervisor Pressure Boots;
+Supervisor Protective Boots;
+Supervisor Thermal Boots*F2;
+
+| athames =
+Chief's Hazmat Knife;
+Director Biohazard Knife;
+Director Cryo Knife;
+Director Hazmat Knife;
+Director Insulated Knife;
+Director Pressure Knife*F2;
+Director Protective Knife;
+Director Thermal Knife;
+Executive Biohazard Knife;
+Executive Hazmat Knife;
+Executive Insulated Knife;
+Executive Pressure Knife*F2;
+Executive Protective Knife*F2;
+Executive Survival Knife*F2;
+Executive Thermal Knife;
+Lead's Biohazard Knife;
+Lead's Hazmat Knife;
+Lead's Pressure Knife;
+Lead's Survival Knife;
+Producer's Biohazard Knife*F2;
+Producer's Cryo Knife;
+Producer's Hazmat Knife;
+Producer's Insulated Knife;
+Producer's Pressure Knife;
+Producer's Protective Knife*F2;
+Producer's Survival Knife;
+Producer's Thermal Knife;
+
+| amulets =
+Chief's Biohazard Rope;
+Chief's Survival Rope;
+Chief's Thermal Rope;
+Director Biohazard Rope;
+Executive Hazmat Rope;
+Lead's Insulated Rope;
+Lead's Thermal Rope;
+Producer's Cryo Rope;
+Producer's Hazmat Rope;
+Producer's Insulated Rope;
+Supervisor Pressure Rope;
+
+| rings =
+Chief's Biohazard Ring*F2;
+Chief's Cryo Ring;
+Chief's Hazmat Ring;
+Chief's Protective Ring*F2;
+Director Biohazard Ring*F3;
+Director Cryo Ring*F2;
+Director Hazmat Ring*F2;
+Director Insulated Ring*F3;
+Director Pressure Ring*F2;
+Director Protective Ring*F2;
+Director Survival Ring*F2;
+Director Thermal Ring*F2;
+Executive Biohazard Ring;
+Executive Cryo Ring*F2;
+Executive Hazmat Ring;
+Executive Insulated Ring*F3;
+Executive Pressure Ring*F2;
+Executive Protective Ring*F2;
+Executive Survival Ring*F3;
+Executive Thermal Ring*F2;
+Lead's Biohazard Ring;
+Lead's Insulated Ring;
+Lead's Pressure Ring;
+Lead's Protective Ring;
+Lead's Survival Ring;
+Lead's Thermal Ring*F2;
+Producer's Biohazard Ring;
+Producer's Cryo Ring*F2;
+Producer's Hazmat Ring*F2;
+Producer's Insulated Ring;
+Producer's Pressure Ring*F2;
+Producer's Protective Ring*F2;
+Producer's Survival Ring*F2;
+Producer's Thermal Ring;
+Supervisor Insulated Ring;
+Supervisor Pressure Ring;
+Supervisor Protective Ring;
+Supervisor Survival Ring;
+Supervisor Thermal Ring;
+
+| wands =
+Chief's Cryo Meter;
+Chief's Protective Meter;
+Chief's Survival Meter;
+Director Biohazard Meter;
+Director Insulated Meter;
+Executive Biohazard Meter;
+Executive Insulated Meter;
+Executive Pressure Meter;
+Executive Thermal Meter;
+Lead's Insulated Meter;
+Lead's Pressure Meter;
+Lead's Protective Meter;
+Lead's Survival Meter;
+Supervisor Survival Meter;
+
+| decks =
+Chief's Biohazard Box;
+Chief's Insulated Box;
+Chief's Pressure Box;
+Director Pressure Box;
+Executive Hazmat Box;
+Executive Insulated Box;
+Lead's Insulated Box;
+Lead's Protective Box;
+Supervisor Hazmat Box;
+Supervisor Thermal Box;
+
+| items =
+Gum Drop Container*F3;
+Gumdrop Forest Poster;
+Gumdrop Tree;
+Karamelle Barrel;
+Karamelle Cavity Combat Theme;
+Karamelle City Theme;
+Karamelle Crate*F2;
+Karamelle Forest Combat Theme;
+Karamelle Jingle Theme;
+Karamelle Neglected Com Theme;
+Karamelle Neglected Theme;
+Karamelle Rural Combat Theme*F2;
+Karamelle Rural Theme;
+Karamelle Worker Combat Theme;
+Karamelle Worker Theme*F2;
+Licorice Tree*F2;
+Oil Drum*F2;
+Rock Candy Mountains Poster*F2;
+Trash Pile (Outdoor);
+Von Trap Estate Poster*F2;
+
+| cards =
+Berserk;
+Brilliant Light;
+Death Prism*F2;
+Dream Shield;
+Elemental Blade;
+Elemental Defuse;
+Elemental Shield*F3;
+Elemental Trap;
+Ether Shield*F2;
+Fire Prism*F2;
+Firespear*F2;
+Frostbite;
+Galvanic Field;
+Ice Prism*F3;
+Icespear*F2;
+Life Prism;
+Lifespear*F2;
+Link;
+Myth Prism*F2;
+Mythspear*F2;
+Nested Fury*F2;
+Raging Bull*F2;
+Rusalka's Wrath*F2;
+Sirens*F2;
+Snowball Barrage*F2;
+Spirit Spear;
+Storm Prism;
+Storm Shield;
+Stormspear*F2;
+Winged Sorrow;
+Wings of Fate;
+Witch's House Call*F3;
+
+| reagents =
+Aether*F3;
+Agave Leaves*F4;
+Agave Nectar*F2;
+Amber;
+Amber Dust*F2;
+Aquamarine*F3;
+Astral Shard*F3;
+Braided Vine;
+Draconium*F2;
+Fire Blossom*F4;
+Fish Fin*F4;
+Glass Sliver*F2;
+Golden Pearl*F3;
+Karamelle Chunk*F5;
+Merle's Whisker*F2;
+Mithril*F2;
+Orichalcum;
+Scales*F2;
+Silver*F2;
+Stardust;
+Steel*F7;
+Sunstone*F2;
+Titanium*F5;
+Toffee Bean*F5;
+Tungsten*F4;
+Turmeric;
+Turquoise*F3;
+Vine*F2;
+
+| spellements =
+Grrnadier*F3;
+S'more Machine*F3;
+Shatterhorn;
+Sound of Musicology*F3;
+Tatzlewurm Terror;
+
+| snacks =
+Antheneum Delight*F2;
+Aztecan Hot Chocolate;
+BBQ Drumstick;
+Beast Wellington*F6;
+Crackle Jacks Cereal;
+Decimatoes*F2;
+Discord Grape Jelly*F3;
+Dragon Fruit*F2;
+Drumstick*F2;
+Eye Candy*F2;
+Fern Jelly*F2;
+Fire Passion Fruit*F2;
+Frosty Sugar Cubes;
+Glowing Star Fruit;
+Glowing Taffy;
+Green Tomato;
+High Road Haggis;
+Hot Cross Buns*F3;
+Jolly Rancher;
+Krakamari*F2;
+Nana's Pumpkin Spice Milkshake;
+Pizza*F5*WMV;
+Rhubarbed Wire;
+Rock and Roll Candy*F2;
+Roly Poly Fishheads;
+Satyr Chow*F5;
+Ships 'n' Queso*F2;
+Sprinkle Cupcake*F3;
+Tasty Rainbow;
+Veggie Juice*F3;
+Waterworks Wonton*F3;
+Wheat Cracker;
+
+| jewels =
+Ally Dream Shield Onyx;
+Ally Legend Shield Jade;
+Ally Tower Shield Sapphire;
+Animate Skeleton Onyx;
+Armor Breaker Opal;
+Balance Assailant Citrine;
+Balance Striker Citrine*F3;
+Balance-Boon Citrine;
+Balance-Dealer Citrine;
+Balance-Eye Citrine*F2*WMV;
+Balance-Giver Citrine;
+Balance-Off Citrine*F2;
+Balance-Sniper Citrine;
+Balance-Ward Citrine;
+Button Tom Peridot;
+Catalan Amethyst;
+Critical Hitter Opal;
+Critical Striker Opal;
+Curse Giver Onyx;
+Dazzling Accurate Amethyst +14%;
+Dazzling Accurate Hematite +14%;
+Dazzling Accurate Jade +14%;
+Dazzling Accurate Onyx +14%;
+Dazzling Accurate Opal +7%;
+Dazzling Accurate Peridot +14%;
+Dazzling Accurate Ruby +14%*F2;
+Dazzling Accurate Sapphire +14%;
+Dazzling Blocking Amethyst +19;
+Dazzling Blocking Hematite +19;
+Dazzling Blocking Hematite +20;
+Dazzling Blocking Jade +19;
+Dazzling Blocking Jade +20*F2;
+Dazzling Blocking Onyx +20;
+Dazzling Blocking Peridot +19;
+Dazzling Blocking Peridot +20;
+Dazzling Blocking Ruby +19;
+Dazzling Blocking Ruby +20*F2;
+Dazzling Critical Jade +19;
+Dazzling Critical Onyx +19*F2;
+Dazzling Critical Onyx +20;
+Dazzling Critical Opal +10;
+Dazzling Critical Peridot +20;
+Dazzling Critical Ruby +20;
+Dazzling Damage Amethyst +29;
+Dazzling Damage Amethyst +30*F2;
+Dazzling Damage Citrine +30;
+Dazzling Damage Hematite +60;
+Dazzling Damage Onyx +30;
+Dazzling Damage Peridot +29;
+Dazzling Damage Ruby +30;
+Dazzling Damage Sapphire +29;
+Dazzling Damage Sapphire +30;
+Dazzling Defense Amethyst +57;
+Dazzling Defense Amethyst +58;
+Dazzling Defense Amethyst +60*F2;
+Dazzling Defense Citrine +57;
+Dazzling Defense Hematite +57;
+Dazzling Defense Hematite +58;
+Dazzling Defense Hematite +60;
+Dazzling Defense Jade +57;
+Dazzling Defense Jade +58;
+Dazzling Defense Jade +60;
+Dazzling Defense Opal +30;
+Dazzling Defense Peridot +58;
+Dazzling Defense Peridot +59*F2;
+Dazzling Defense Ruby +58;
+Dazzling Defense Ruby +60;
+Dazzling Defense Sapphire +57;
+Dazzling Defense Sapphire +59;
+Dazzling Defense Sapphire +60;
+Dazzling Health Opal +126;
+Dazzling Health Opal +127;
+Dazzling Health Opal +129*F2;
+Dazzling Health Opal +130;
+Dazzling Health Opal +131;
+Dazzling Health Opal +132;
+Dazzling Health Opal +133*F2;
+Dazzling Health Opal +135;
+Dazzling Mana Opal +53;
+Dazzling Mana Opal +54;
+Death Assailant Onyx;
+Death Striker Onyx;
+Death-Away Onyx;
+Death-Boon Onyx;
+Death-Dealer Onyx*F2;
+Death-Eye Onyx*F2;
+Death-Proof Onyx;
+Death-Shot Onyx*F3;
+Death-Sniper Onyx*F2;
+Death-Ward Onyx;
+Epic Opal;
+Fire Assailant Ruby;
+Fire Striker Ruby*F2;
+Fire-Away Ruby;
+Fire-Boon Ruby;
+Fire-Dealer Ruby;
+Fire-Eye Ruby;
+Fire-Giver Ruby*F2*WMV;
+Fire-Proof Ruby;
+Fire-Shot Ruby;
+Fire-Sniper Ruby;
+Fire-Ward Ruby;
+Get Sunbird Ruby;
+Goat Monk Jade;
+Greensleeves Jade*F2;
+Handsome Fomori Sapphire*F2;
+Healer Opal*F2;
+Healthy Opal*F2;
+Hexster Citrine;
+Ice Assailant Sapphire;
+Ice Striker Sapphire;
+Ice-Away Sapphire*F2;
+Ice-Boon Sapphire;
+Ice-Dealer Sapphire;
+Ice-Eye Sapphire;
+Ice-Giver Sapphire;
+Ice-Proof Sapphire;
+Ice-Shot Sapphire*F2;
+Ice-Sniper Sapphire;
+Ice-Ward Sapphire;
+Infector Onyx;
+Krampus Revenant Ruby;
+Life Assailant Jade;
+Life Striker Jade;
+Life-Away Jade;
+Life-Bringer Jade*F2;
+Life-Eye Jade;
+Life-Giver Jade;
+Life-Proof Jade*F2;
+Life-Shot Jade;
+Life-Sniper Jade;
+Life-Ward Jade;
+Lively Opal;
+Lord of Night Onyx;
+Magnify Opal;
+Medic Opal*F2;
+Myth Assailant Peridot;
+Myth Striker Peridot;
+Myth-Away Peridot*F3;
+Myth-Boon Peridot*F2;
+Myth-Dealer Peridot;
+Myth-Eye Peridot*F2;
+Myth-Proof Peridot;
+Myth-Shot Peridot;
+Myth-Sniper Peridot*F2;
+Myth-Ward Peridot;
+Ninja Pigs Peridot;
+Pain-Bringer Opal*F2;
+Power-Taker Ruby;
+Renew Opal;
+Savage Paw Citrine;
+Screen Ruby;
+Sharp-Shot Opal;
+Shiny Accurate Citrine +12%;
+Shiny Accurate Jade +12%;
+Shiny Blocking Hematite +15;
+Shiny Blocking Jade +15;
+Shiny Blocking Onyx +16;
+Shiny Blocking Ruby +15;
+Shiny Blocking Sapphire +15;
+Shiny Blocking Sapphire +16;
+Shiny Critical Amethyst +16;
+Shiny Critical Jade +15;
+Shiny Damage Hematite +52;
+Shiny Damage Opal +13;
+Shiny Defense Amethyst +49;
+Shiny Defense Hematite +49*F2;
+Shiny Defense Jade +49;
+Shiny Defense Jade +50;
+Shiny Defense Onyx +51;
+Shiny Defense Onyx +52;
+Shiny Defense Ruby +50;
+Shiny Defense Sapphire +52;
+Shiny Health Opal +107;
+Shiny Health Opal +111;
+Shiny Health Opal +112;
+Shiny Health Opal +113;
+Shiny Health Opal +114*F2;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47;
+Shiny Mending Opal +6%;
+Spell-Defying Opal;
+Spell-Proof Opal;
+Storm Assailant Amethyst;
+Storm Striker Amethyst;
+Storm-Away Amethyst;
+Storm-Boon Amethyst;
+Storm-Dealer Amethyst*F2;
+Storm-Eye Amethyst*F2;
+Storm-Giver Amethyst;
+Storm-Proof Amethyst;
+Storm-Shot Amethyst;
+Storm-Sniper Amethyst;
+Storm-Ward Amethyst;
+Stun Resistant Opal*F2;
+Unbalancer Citrine*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2;
+Angel Oak*F3;
+Angora Bunny Ears*F7;
+Baby Carrots*F5;
+Bamboo Shoots;
+Bell Pepper*F4;
+Blue Huckleberries*F3;
+Boiled Peanuts*F9;
+Boom Shroom*F2;
+Boon Tree*CR;
+Bread Fruit Bush*F5;
+Burning Snap Dragon*F2;
+Clockwork Flower;
+Cornbread Fruit Bush*F5;
+Dandelion*F2;
+Deadly Fly Trap*F4;
+Deadly Helephant Ears*CR*F2;
+Deadly Ninja Fig*F3;
+Desparagus (Seed)*F3;
+Evil Magma Peas*CR*F2*WMV;
+Evil Snow Peas*F3;
+Face Palm*F2;
+Fickle Pickle*F2;
+Fiery Boom Shroom;
+Fish on a Vine*F4;
+Fortune Cookie Tree;
+Frozen Fly Trap*F3;
+Goose Tree;
+Grapes of Wrath*CR*F5;
+Green Snow Apples*F2;
+Helephant Ears*F4;
+Honey Bee Plant*F7;
+Honey Sickle*F2;
+Ivy League*CR*F3;
+King Parsley*CR;
+Laugh-O-Dil*F2;
+Maelstrom Snap Dragon*F3;
+Maltese Tiger Lily*F3;
+Moon Flower;
+Orange Bell Pepper*CR;
+Orange Dandelion*F3;
+Pink Huckleberries*F7;
+Pink Laugh-O-Dil*F2;
+Prickly Bear Cactus*F3;
+Purple Bell Pepper*F2;
+Purple Grapes of Wrath*F2;
+Purple Snow Apples*F6;
+Queen Crape Myrtle;
+Red Bell Pepper*F3*WMV;
+Red Grapes of Wrath*F2;
+Red Huckleberries*F3;
+Rye Bread Fruit Bush*F2;
+Saw Palmetto*F2;
+Silver Trumpet Vine*CR;
+Snap Dragon*F3;
+Snow Apples*F3;
+Sour Fickle Pickle*F2;
+Sugar Khrystal*CR*F3;
+Sunion*CR*F2;
+Tiger Lily (Seed)*F3;
+Trumpet Vine*F3;
+Ultra Alligator Pear Tree;
+Ultra Dandelion;
+Ultra Fly Trap;
+Ultra Helephant Ears;
+Ultra Huckleberries;
+Ultra King Parsley*F2;
+Ultra Ninja Fig;
+Ultra Snap Dragon;
+Venus Fly Trap*F2;
+White Desparagus*F2;
+White Laugh-O-Dil*F4;
+White Tiger Lily*F2*WMV;
+Yellow Bell Pepper*F4;
+
+| mounts =
+
+| spells =
+
+}}

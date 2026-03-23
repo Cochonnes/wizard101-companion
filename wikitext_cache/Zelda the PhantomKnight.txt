@@ -1,0 +1,189 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 15,395
+| crecla = Mantis
+| crecla2 = Insect
+| school = Storm
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Raptorial Sentry
+
+| world = Khrysalis
+| location = Sardonyx
+| subloc1 = Walking Stick Gate
+| descrip =
+
+| speech =
+:''":Crrrk: I am Zelda the PhantomKnight, head of the hunters, and once a member of the ruling Troika. I was demoted recently to that of a common laborer, moving pieces of statuary. You might say I have some anger to work out."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+She was never a princess, but she was on the Troika. That's at least princess-adjacent.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Infallible;
+Lightning Strike;
+Stormblade;
+Storm Trap;
+Enfeeble;
+Natural Attack (Storm 200-340-480);
+Storm Dragon;
+Sirens;
+Storm Owl;
+Tempest (85);
+
+| quests =
+Heard it Through the Leaf Vine
+
+| gold =
+126 - 157;
+
+| hats =
+Beleaguered Mouse Cowl*F2;
+Flame Legs Captain's Helm*F2*WMV;
+Helmet of Excavation;
+Last Wood Defender's Cap;
+Mantis Shroud of Secrecy;
+Mouse Helm of the Besieged;
+
+| robes =
+Dragonfly Rider's Garment*F4*WMV;
+
+| boots =
+Last Wood Defender's Boots*F2*WMV;
+Mantis Guard Stonesteppers*F3*WMV;
+
+| athames =
+Corrupted Queen's Barb*F3*WMV;
+Revenant's Edge of Strife*F3*WMV;
+
+| amulets =
+Mouse Revenant's Talisman*F3;
+Stinger's Carcanet*F2*WMV;
+ToeBiter's Cursed Relic;
+
+| rings =
+
+| wands =
+
+| decks =
+Gallery of the Woebegone;
+Spiked Set;
+
+| items =
+Khrysalis Boris Theme;
+Khrysalis Combat Theme 2*F2;
+
+| cards =
+Chastisement;
+Clockwork Spider;
+Doom and Gloom*F2*WMV;
+Enfeeble;
+Legendary Treant (445);
+Locust Swarm*F2;
+Luminous Weaver*F2*WMV;
+O'Leary Swindler;
+Pierce;
+Polar Swarm*F2*WMV;
+Punishment*F2;
+Reliquary;
+Sprite Swarm (40+360)*F2;
+Virulence;
+
+| reagents =
+Astral Shard*F6*WMV;
+Black Lotus*F2*WMV;
+Black Pearl;
+Bone*F2*WMV;
+Bronze Gear*F4*WMV;
+Deep Mushroom*F4*WMV;
+Fire Blossom*F2*WMV;
+Fossil;
+Golden Pearl;
+Lava Lily*F3*WMV;
+Mist Wood*F3;
+Nickel;
+Nightshade*F4*WMV;
+Ore*F4*WMV;
+Red Mandrake*F2*WMV;
+Stone Block*F4*WMV;
+Sunstone*F3*WMV;
+Tungsten;
+Turquoise*F2*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2;
+Dr. Jalapeno;
+Flapjacks;
+Glowing Dragon Fruit;
+Glowing Star Fruit;
+Golden Grapes;
+Gummy Humongofrog;
+Shiny Tomato*F3;
+Uni-Corn;
+
+| jewels =
+Balance-Off Citrine;
+Big Rally Opal;
+Cracked Defense Citrine +12;
+Cracked Defense Peridot +12;
+Cracked Defense Ruby +12;
+Drain Opal;
+Polished Defense Hematite +43;
+Water Elemental Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Fish on a Vine*F2;
+Pink Dandelion*CR;
+Queen Crape Myrtle;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,240 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 2,825
+| crecla = Fish
+| school = Storm
+| startpips = 4
+| powerpips = Yes
+| critical =
+25 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth;
+
+| incresist =
+35% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Angler Goon;
+Angler Ruffian;
+Angler Ruffian;
+
+| world = Celestia
+| location = Crustacean Empire
+| subloc1 = Achaelos's Cloister
+| lootchest = Achaelos' Chest
+| descrip =
+
+| speech =
+:''"Who'sa come crashin' inta my cave? I'm gonna find da one who cast dat spell an' give 'em what for!"''
+
+| spellnotes =
+
+| casts =
+Stormblade;
+Storm Trap;
+Darkwind;
+Lightning Bats;
+Kraken;
+Stormzilla;
+Triton;
+Tempest;
+Natural Attack (Storm 125x, 70%)
+
+| quests =
+A Distant Thunder;
+
+| dropnotes = 
+When a Wizard has unlocked the '''[[Basic:Dragonspyre Badges|Savior of the Spiral]]''' {{Icon|Savior of the Spiral}} Badge and has not unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge, the following drops will be available:
+*4 Spellements will drop each time for their respective rank 3-7 Spells.
+
+| gold =
+73 - 85;
+
+| hats =
+Centaur's Helm;
+Forbidden Mask*F2;
+Forgotten Facade;
+Rising Tide Topper;
+Shroud of Solitude;
+Vital Headdress;
+
+| robes =
+Lawful Garment*F2;
+Raiment of Wonder;
+Reckless Raiment;
+Storyteller's Tunic;
+Whimsical Surcoat;
+
+| boots =
+Boots of Catastrophe;
+Boots of Celestian Totality;
+Celestian Tempest Trekkers;
+Epic Greaves*F2*WMV;
+Frostbit Footguards;
+Icestar Stalkers;
+Rime Runners;
+Thunderstruck Striders*F2*WMV;
+
+| athames =
+Dagger of Typhoons;
+Razor of Rapture;
+Versatile Steel*F5*WMV;
+
+| amulets =
+Atavistic Balance Ampul;
+Atavistic Death Ampul;
+Atavistic Fire Ampul;
+Atavistic Ice Ampul;
+Atavistic Life Ampul;
+Atavistic Myth Ampul;
+Atavistic Storm Ampul;
+Bygone Balance Ampul;
+Bygone Death Ampul;
+Bygone Fire Ampul;
+Bygone Ice Ampul;
+Bygone Life Ampul*F2*WMV;
+Bygone Myth Ampul;
+Bygone Storm Ampul;
+Legendary Vial*F3*WMV;
+Windstorm Choker*F2;
+
+| rings =
+Majestic Signet;
+Nellek's Willow Ring*F2*WMV;
+Ring of Rapport*F3*WMV;
+Typhoon Band;
+
+| wands =
+
+| decks =
+
+| items =
+Dog House*F4*WMV;
+Expert's Socket Wrench*F2;
+
+| cards =
+Donate Power;
+Empower*F3*WMV;
+Gargantuan*F5*WMV;
+Heck Hound;
+Mutate Elf (Ice);
+Mutate Snowman (Fire);
+Precision;
+Sniper;
+Unstoppable*F2*WMV;
+
+| reagents =
+Brass*F2*WMV;
+Cobalt*F3;
+Copper;
+Fish Fin*F5*WMV;
+Nickel;
+Sandstone*F6*WMV;
+Scales*F3;
+Shark Tooth;
+Sunstone*F2*WMV;
+
+| spellements =
+Banshee*BR;
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops*BR;
+Cyclops Minion*BR;
+Earth Walker*BR;
+Evil Snowman*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR*F2*WMV;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*BR;
+Ice Wyvern*BR;
+Immolate*BR*F2*WMV;
+Kraken*BR;
+Locust Swarm*BR;
+Minotaur*BR;
+Nature's Wrath*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Scarecrow*BR;
+Seraph*BR;
+Skeletal Pirate*BR*F2*WMV;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Storm Shark*BR;
+Stormzilla*BR*F2*WMV;
+Sunbird*BR;
+Triton*BR;
+Vampire*BR;
+Wraith*BR;
+
+| snacks =
+Delicious Cookie*F2;
+Glowing Star Fruit*F3*WMV;
+Glowing Taffy*F2;
+Spicy Drumstick*F2*WMV;
+Strawberry Cupcake;
+Submarine Sandwich*F2;
+
+| jewels =
+Dissipate Amethyst;
+Dull Critical Jade +3;
+Dull Defense Amethyst +26;
+Entangle Jade;
+Feinting Spell Onyx;
+Life-Shot Jade;
+Melt Sapphire;
+Plain Defense Citrine +29;
+Plain Defense Sapphire +29;
+Plain Health Opal +60;
+Strangle Onyx;
+Unbalance Citrine;
+Vaporize Peridot;
+Wipeout Opal;
+
+| pins =
+Balance Accurate Pin (30);
+Balance Accurate Pin (60);
+Death Accurate Pin (30);
+Death Accurate Pin (60);
+Fire Accurate Pin (50);
+Ice Accurate Pin (30);
+Ice Accurate Pin (60);
+Life Accurate Pin (20);
+Life Accurate Pin (60);
+Myth Accurate Pin (50);
+Myth Accurate Pin (60)*F2*WMV;
+Storm Accurate Pin (50);
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fish on a Vine*F2;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F2*WMV;
+Silver Trumpet Vine*CR;
+
+| mounts =
+
+| spells =
+
+}}

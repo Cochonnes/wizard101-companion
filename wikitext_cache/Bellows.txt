@@ -1,0 +1,283 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,600
+| crecla = Golem
+| school = Storm
+| startpips = 1
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Clockwork Wizard;
+Gear Spinner;
+
+| world = Marleybone
+| location = Royal Museum
+| subloc1 = Counterweight West
+| descrip =
+
+| speech =
+:''"Nothing can save you now, Wizard. Come fight me!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Marleybone
+| tome description =
+The fire inside him intensifies the angrier he gets. If he gets too mad, he'd literally blow his top.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip.
+
+| casts =
+Myth Shield;
+Weakness;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Storm Serpent (155-195);
+Lightning Bats;
+Storm Shark;
+Squall Wyvern;
+Kraken;
+Banshee;
+Sunbird;
+
+| quests =
+Weights and Measures;
+
+| gold =
+48 - 86;
+
+| hats =
+Bellows' Aristocratic Hat;
+Bellows' Graceful Cap*F4*WMV;
+Bellows' Helm of Civility;
+Bellows' Polished Hat*F3*WMV;
+Bellows' Pompous Hat*F3;
+Cap of the Banshee;
+Cap of the Inventor;
+Cap of the Unicorn*F2*WMV;
+Cat Burglar's Cap;
+Exclusive Cap;
+Feline's Charged Hat*F2;
+Feline's Fiery Hat*F2;
+Feline's Somber Hat;
+Glowing Canine Hat;
+Shaman's Hat;
+Silent Canine Cowl;
+Stable Salacot;
+Superstitious Canine Cowl;
+Superstitious Canine Hat;
+Visor of Invention;
+Winter Canine Cowl;
+
+| robes =
+Alluring Robes;
+Artificial Robe;
+Bellows' Confined Robe*F2;
+Bellows' Famous Vest*F4*WMV;
+Bellows' Intolerant Robe*F4*WMV;
+Bellows' Robe of Courtesy*F2*WMV;
+Cloak of Clarity;
+Cloak of Fascination;
+Cosmopolitan Robe;
+Dexterous Vest*F2*WMV;
+Fancy Garments;
+Feline's Invigorating Robe;
+Feline's Somber Robe;
+Feline's Whimsical Robe;
+Garment of the Supreme;
+High Quality Cloak;
+Marvelous Shroud;
+Polished Garments*F2*WMV;
+Precious Cloak;
+Robe of Excellence*F2*WMV;
+Robe of Ideals;
+Robe of the Bubble;
+Savvy Vestment;
+Shaman's Uniform;
+Stylish Garments;
+Tunic of Chivalry;
+Tunic of Symmetry;
+Tunic of the Clever;
+Vest of Predominance;
+Vestment of Expertise;
+Vestment of Stability;
+Vestment of the Enigma;
+
+| boots =
+Bellows' Boots of Accuracy*F2;
+Bellows' Shoes of Disposition*F3*WMV;
+Bellows' Shoes of the Bubble*F3;
+Bellows' Shoes of the Hushed*F2;
+Bewitching Shoes;
+Distinguished Slippers;
+Exacting Boots;
+Exclusive Boots;
+Exquisite Slippers;
+High Quality Boots;
+Magnificent Boots;
+Noteworthy Slippers;
+Opportunists' Sandals;
+Premium Footwraps;
+Remarkable Sandals;
+Sandals of Delusion;
+Shoes of Preference;
+Shoes of Sentiments*F2;
+Shoes of the Chimera;
+Shoes of the Devoted;
+Shoes of the Exceptional;
+Shoes of the Windless*F2;
+Slippers of Gusto;
+Slippers of Predominance;
+Slippers of the Worrier;
+
+| athames =
+Bellows' Dirk of Restoration*F2*WMV;
+Bellows' Stiletto of Tragedy;
+Informant's Dirk;
+Shortblade of Flowers;
+Watchman's Athame;
+
+| amulets =
+Bellows' Bitter Cold Amulet*F2*WMV;
+
+| rings =
+Bellows's Band of Numbness*F2*WMV;
+Comedian's Ring;
+Mechanical Ring;
+Ring of Effect;
+Ring of the Unicorn*F2*WMV;
+Ringlet of Fire*F3*WMV;
+Thinker's Ring;
+
+| wands =
+
+| decks =
+Deck of Chivalry*F3*WMV;
+
+| items =
+Altar with Candles;
+Angled Gravemarker;
+Crossbone Gravestone;
+Marleybone Theme 4*F3*WMV;
+Medium Magenta Rug;
+Newspaper Page;
+Short Metal Fence*F2*WMV;
+Steamer Trunk;
+Stein*F2;
+Tall Roof Vent*F2*WMV;
+Tin Can;
+
+| cards =
+Black Mantle;
+Cloak;
+Cyclops;
+Dryad;
+Giant;
+Heck Hound;
+Ice Trap;
+Ice Wyvern;
+Monstrous;
+Sandstorm*F2;
+Satyr;
+Skeletal Pirate*F2*WMV;
+Sniper*F2*WMV;
+Spirit Armor*F2;
+Storm Trap;
+Time of Legend;
+Tough;
+Vampire*F2;
+
+| reagents =
+Bronze Gear*F8*WMV;
+Copper*F3*WMV;
+Iron*F4*WMV;
+Lead;
+Nickel;
+Spider Silk*F3*WMV;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn*F2;
+Gummy Bloodbat*F3*WMV;
+Medium Fish*F5*WMV;
+Redskin Peanut*F2*WMV;
+Square Watermelon*F2;
+Stinky Cheese*F4;
+Wheat Cracker*F2*WMV;
+
+| jewels =
+Balance-Boon Citrine;
+Calculating Opal;
+Chipped Accurate Jade +3%;
+Chipped Accurate Peridot +3%;
+Chipped Accurate Ruby +3%;
+Chipped Damage Ruby +8;
+Chipped Defense Amethyst +14*F2*WMV;
+Chipped Defense Citrine +14;
+Chipped Defense Peridot +14;
+Chipped Defense Sapphire +15;
+Chipped Mana Opal +12;
+Cracked Damage Opal +3;
+Deer Knight Onyx;
+Distract Opal;
+Fire-Eye Ruby;
+Flawed Damage Amethyst +10;
+Flawed Damage Onyx +10;
+Flawed Damage Peridot +10;
+Flawed Defense Amethyst +17;
+Flawed Defense Citrine +17;
+Flawed Defense Onyx +17;
+Flawed Defense Opal +9;
+Flawed Defense Opal +10;
+Flawed Defense Sapphire +17;
+Flawed Healing Opal +2%;
+Flawed Resilient Opal +2%;
+Move It! Opal;
+Sharp Opal;
+Spectral Blast Citrine;
+Windstorm Amethyst;
+
+| pins =
+
+| pets =
+Clockwork Golem*F2*WMV;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

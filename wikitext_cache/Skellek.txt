@@ -1,0 +1,161 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 680
+| crecla = Grendel
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Grendel Darter;
+
+| world = Grizzleheim
+| location = Savarstaad Pass
+| subloc1 = Skellek's Fort
+| descrip =
+Leader of the Grendels in Savarstaad Pass, Skellek resides in the overtaken main fort of [[Location:Draugarth Fort|Draugarth]], protected by lesser Grendels and a ward placed by the Grendel shaman named {{Link|Creature|Thulinn}}.  After forging a blade capable of slaying Grendels, defeating the Grendels guarding the fort, and acquiring a talisman from Thulinn allowing them to breach the doors, Wizards finally confront Skellek in a final battle for Savarstaad Pass.
+*Two additional Grendel Darters will appear if more than two Wizards are present.
+
+| speech =
+:''"Foolish little hairless one! I cannot be defeated! What's that?! A thrice-blessed, spider-bane blade..!? Aaaargggh!"''
+
+| spellnotes =
+
+| casts =
+Deathblade;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Snow Serpent;
+Sunbird;
+Thunder Snake;
+Natural Attack (Storm 125x, 70%);
+
+| quests =
+Fate Awaits;
+
+| gold =
+34 - 62;
+
+| hats =
+Cap of Dread;
+Circlet of Fortune;
+Circlet of the Fallen;
+Cloud Cover;
+Cowl of the Flamesinger;
+Headcloth of the Fray;
+Stormsquall Crown*F4*WMV;
+
+| robes =
+Axiomatic Wrap*F4*WMV;
+Coat of Pouring Rain;
+Drape of the White Squall;
+Frigid Longcoat*F4*WMV;
+Glacial Longcoat;
+Raiment of the Lifespring;
+Robe of Elegies*F2*WMV;
+Robe of the Firebloom;
+Smock of the Morticutor;
+Vestment of Serenity;
+Vestment of Yesteryear;
+
+| boots =
+Boots of Cessation;
+Boots of Precipitation;
+Boots of Reflexive Might;
+Doomstriders;
+Footgear of the Firehaze*F2;
+Footguards of Consideration;
+Footguards of the Disciple;
+Slippers of Diligence*F2;
+
+| athames =
+Bodkin of Fury;
+Iceshadow's Athame*F2;
+Stormshadow's Claw*F4;
+Talon of the Runechanter*F2*WMV;
+
+| amulets =
+
+| rings =
+Seal of the Icicle*F3*WMV;
+Seal of the Tundra;
+Shimmerstone*F5;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Dryad;
+Humongofrog;
+Meteor Strike;
+Power Play;
+Storm Shark;
+Storm Trap;
+
+| reagents =
+Copper;
+Iron*F3;
+Leather Straps;
+Pyrite*F2;
+
+| spellements =
+
+| snacks =
+Cheese;
+Diamond Carrot*F3*WMV;
+Flaming Jalapeno*F2;
+Fries*F2;
+Green Banana;
+Meat Soup*F2;
+Moon Pie;
+Tasty Biscuit*F3*WMV;
+
+| jewels =
+Befuddle Opal;
+Chipped Health Opal +16;
+Chipped PIP Opal +1%;
+Cracked Damage Amethyst +4;
+Cracked Damage Onyx +4;
+Cracked Defense Onyx +12;
+Cracked Defense Ruby +12;
+Imp Jade;
+Thunder Snake Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Boom Shroom;
+Couch Potatoes*CR;
+Dandelion;
+Desparagus (Seed);
+Stinkweed;
+
+| mounts =
+
+| spells =
+
+}}

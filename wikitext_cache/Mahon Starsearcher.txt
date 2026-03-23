@@ -1,0 +1,368 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 13,440
+| crecla = Celestian
+| crecla2 = Undead
+| school = Balance
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+71 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Piscean Trooper;
+
+| world = Celestia
+| location = District of the Stars
+| subloc1 = Celestian Research Lab
+| descrip =
+
+| speech =
+:''"Stay back! You'll not have the Desert Star! I may never complete my research now, but I will never give up the gemstone either!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+A student of Celestian Magic, this ghost is still searching for the results of its last class.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Balanceblade;
+Balanceblade*TC;
+Bladestorm;
+Hex;
+Counterforce;
+Natural Attack (Balance 110-215-320);
+Loremaster;
+Savage Paw;
+Judgement;
+Shift Thornpaw;
+ 
+| quests =
+The Desert Star;
+
+| gold =
+1,065 - 1,936;
+
+| hats =
+Facade of Fairness;
+Forgotten Facade;
+Kataba Furcap of Destiny;
+Kataba Furcap of Toil;
+Kataba Furcap of Zeal;
+Kataba Iceblock Furcap*F2;
+Nereus's Hoarfrost Helm;
+Rising Tide Topper;
+Shroud of Solitude;
+Storyteller's Cap;
+Synthesis Cover;
+The Goat Horns*CR*F2*WMV;
+The Ice Horns*CR*F2*WMV;
+The Manticore*CR*F2*WMV;
+The Stardust*CR;
+The Stalwart Guardian*CR;
+The Warlock*CR;
+Thundercloud Coif*F2;
+Vital Headdress;
+Walrusk Fur Hat of Dignity*F2;
+Walrusk Fur Hat of Wit*F2;
+Walrusk Furcap of Intensity*F2*WMV;
+Walrusk Papakh of Calamity;
+Walrusk Papakh of Frenzy*F2;
+Walrusk Papakh of Graupel*F4*WMV;
+
+| robes =
+Devoted Vestment*F2*WMV;
+Imperial Walrusk Cherkesska;
+Reckless Raiment;
+Salgio's Tinder Cloak;
+Storyteller's Tunic;
+Tragic Tunic;
+Walrusk Chokha of Dignity;
+Walrusk Chokha of Frenzy;
+Walrusk Cloak of Intensity;
+Walrusk Cloak of Graupel*F2*WMV;
+Walrusk Robes of Wit;
+Walrusk Uniform of Calamity;
+Whimsical Surcoat;
+
+| boots =
+Boots of Celestian Totality*F2;
+Brimstone Boots;
+Frostbit Footguards;
+Icestar Stalkers*F3*WMV;
+Imperial Walrusk Footguards;
+Kataba Iceblock Runners*F2;
+Kataba Trekkers of Zeal;
+Kataba Walkers of Destiny;
+Natural Boots*F2;
+Rime Runners*F2;
+Versatile Celestian Boots;
+Virtue Shoes;
+Walrusk Boots of Graupel*F2*WMV;
+Walrusk Boots of Intensity*F2*WMV;
+Walrusk Mukluks of Frenzy;
+Walrusk Runners of Wit;
+Walrusk Shoes of Dignity;
+Walrusk Waders of Calamity*F2;
+
+| athames =
+Dagger of Typhoons;
+Imperial Walrusk Dagger;
+Kataba Athame of Zeal*F3*WMV;
+Kataba Dagger of Cinders*F2*WMV;
+Kataba Edge of Parables*F2*WMV;
+Kataba Icepick of Glaciers;
+Kataba Lancet of Havoc;
+Kataba Skewer of Toil;
+Kris of the Piscean Guard;
+Walrusk Athame of Embers;
+Walrusk Knife of Intensity;
+
+| amulets =
+Imperial Walrusk Medallion;
+Kataba Amulet of Zeal;
+Kataba Chain of Destiny;
+Kataba Iceblock Talisman*F2;
+Kataba Necklace of Toil;
+Kataba Talisman of Havoc*F2*WMV;
+Walrusk Ampul of Dignity;
+Walrusk Charm of Intensity;
+
+| rings =
+Blazing Walrusk Loop*F3;
+Combustible Band;
+Imperial Walrusk Medallion;
+Imperial Walrusk Seal*F2;
+Kataba Band of Glaciers;
+Kataba Band of Misery;
+Kataba Iceblock Band;
+Kataba Ring of Cinders*F2;
+Kataba Ringlet of Zeal;
+Kataba Seal of Parables;
+Ring of Rare Origins;
+Typhoon Band;
+Walrusk Seal of Zest;
+
+| wands =
+Imperial Walrusk Cutlass;
+Kataba Bardiche of Zeal;
+Kataba Handaxe of Destiny*F2;
+Kataba Hatchet of Cinders;
+Kataba Iceblock Crescent Axe*F2;
+Walrusk Cutlass of Frenzy*F2*WMV;
+Walrusk Cutlass of Graupel*F2*WMV;
+Walrusk Saber of Dignity;
+Walrusk Saber of Intensity;
+Walrusk Saber of Rime;
+Walrusk Sword of Calamity;
+
+| decks =
+Hand of the Kataba Iceblock*F2;
+Kataba Assemblage of Toil;
+Kataba Parcel of Destiny;
+Kataba Pasteboards of Zeal;
+Walrusk Array of Graupel*F3*WMV;
+Walrusk Cards of Intensity*F3;
+Walrusk Case of Wit*F2;
+Walrusk Spread of Frenzy*F2;
+
+| items =
+Blue Teleporter*CR*F2;
+Cyan Teleporter*CR*F2*WMV;
+Green Teleporter*CR*F4*WMV;
+Orange Teleporter*CR*F2;
+Purple Teleporter*CR*F2;
+Red Teleporter*CR*F3;
+White Teleporter*CR*F4*WMV;
+Yellow Teleporter*CR*F4*WMV;
+
+| cards =
+Age of Reckoning*F2;
+Ashen Bones*F2;
+Astraphobia;
+Cloak;
+Counterforce*F2;
+Dragonflies;
+Frostfang;
+Katabatic Wind;
+Kraken;
+Monstrous;
+Namaste*F2;
+Nested Fury;
+Pest Zapper;
+Precision;
+Raging Bull*F2;
+Rusalka's Wrath;
+Sniper;
+Tough;
+Winged Sorrow;
+Wings of Fate;
+Witch's House Call;
+
+| reagents =
+Aether*F6*WMV;
+Agave Leaves*F3*WMV;
+Agave Nectar;
+Amber*F4*WMV;
+Amber Dust*F5*WMV;
+Aquamarine*F2*WMV;
+Astral Shard*F7*WMV;
+Braided Vine*F2;
+Copper*F2;
+Draconium*F2*WMV;
+Fire Blossom*F3*WMV;
+Fish Fin*F2*WMV;
+Golden Pearl*F5*WMV;
+Lead;
+Merle's Whisker*F2;
+Mithril*F2*WMV;
+Nickel;
+Orichalcum*F2*WMV;
+Palladium;
+Scales*F5*WMV;
+Silver*F6*WMV;
+Stardust;
+Steel*F3*WMV;
+Sunstone*F3*WMV;
+Tin;
+Titanium*F4*WMV;
+Tungsten*F4*WMV;
+Turquoise*F4*WMV;
+Vine*F5*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F3*WMV;
+Cauliflowers*F2*WMV;
+Chalupacabra*F2*WMV;
+Delicious Cookie;
+Eye Candy;
+Glowing Taffy;
+Hot Cross Buns*F2*WMV;
+Mustachios;
+Penne Dreadful*F2*WMV;
+Polaris Fries*F3*WMV;
+Satyr Chow;
+Ships 'n' Queso*F3*WMV;
+Spicy Drumstick;
+Strawberry Cupcake;
+Submarine Sandwich*F2*WMV;
+Veggie Juice*F3*WMV;
+
+| jewels =
+Big Rally Opal;
+Dual Balanceblade Citrine;
+Dual Deathblade Onyx*F4*WMV;
+Dual Fireblade Ruby*F5*WMV;
+Dual Iceblade Sapphire*F3*WMV;
+Dual Lifeblade Jade*F3*WMV;
+Dual Mythblade Peridot*F4*WMV;
+Dual Shadowblade Hematite*F2;
+Dual Stormblade Amethyst*F3*WMV;
+Dull Critical Ruby +3;
+Dull Defense Sapphire +26;
+Dull PIP Opal +5%*F2;
+Gold Miner Opal;
+Life-Boon Jade;
+Life-Proof Jade;
+Lustrous Accurate Citrine +11%;
+Lustrous Accurate Hematite +11%;
+Lustrous Accurate Peridot +11%;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Hematite +13;
+Lustrous Blocking Jade +13*F2;
+Lustrous Blocking Onyx +13;
+Lustrous Blocking Ruby +13;
+Lustrous Critical Amethyst +13;
+Lustrous Critical Hematite +13*F2;
+Lustrous Critical Peridot +13;
+Lustrous Critical Sapphire +13;
+Lustrous Damage Amethyst +23;
+Lustrous Damage Jade +23;
+Lustrous Defense Amethyst +46;
+Lustrous Defense Citrine +46;
+Lustrous Defense Hematite +45;
+Lustrous Defense Jade +46;
+Lustrous Defense Peridot +45;
+Lustrous Defense Ruby +46;
+Lustrous Defense Sapphire +46;
+Lustrous Health Opal +100;
+Lustrous Health Opal +104;
+Lustrous PIP Opal +10%;
+Quick-Witted Opal;
+Sap Opal;
+
+| pins =
+
+| pets =
+Arctic Ninja Pig*CR*F2;
+Glacier Dragon;
+Ice Bird;
+Intrepid Seal Pup;
+Mountain Yeti*CR*F2;
+Nodori Winged Ram*CR;
+Polar Bear Cub*CR*F3;
+Snowball*CR;
+White Winter Owl*CR;
+
+| seeds =
+Deadly Helephant Ears*CR*F5*WMV;
+Evil Snow Peas*F4*WMV;
+Fish on a Vine*F3*WMV;
+Frozen Fly Trap*F2*WMV;
+Green Snow Apples*F2*WMV;
+Helephant Ears*F3*WMV;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR;
+Purple Snow Apples*F2*WMV;
+Queen Crape Myrtle*F5*WMV;
+Snow Apples*F4*WMV;
+Ultra Helephant Ears*F2*WMV;
+Ultra Snow Apples*F3;
+White Desparagus*F4*WMV;
+White Laugh-O-Dil*F4*WMV;
+White Tiger Lily*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

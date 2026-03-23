@@ -1,0 +1,128 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,070
+| crecla = Giant
+| school = Fire
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Twisted Kin (Tier 4);
+Twisted Kin (Tier 4);
+Twisted Kin (Tier 4);
+
+| world = Housing Instance
+| location = Baddle of the Bands
+| subloc1 = Baddle of the Bands (Tier 4)
+| descrip =
+For the purpose of drops, Dee Snidee (Tier 4) is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+:''"A challenger for the crown of rock? Meet the bad boys of rock'n'roll. You're so condescending, and your gall is never ending. If that's your best, Wizard, your best won't do. We're not gonna take it! Are you listening to me, Wizard? What do you want to do with your life!?"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Smoke Mantle;
+Fireblade;
+Fire Trap;
+Natural Attack (Fire 120-235-350);
+Scald;
+Helephant;
+Lord of Blazes;
+
+| quests =
+Baddle of the Bands;
+
+| gold =
+105 - 126;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Dark Sun Plaque;
+Dragonmoon Plaque;
+Drake Plaque;
+Scarab Marker;
+Snowflake Plaque;
+Thunder Marker*F2;
+
+| cards =
+Monstrous*F2;
+Sniper;
+Vengeance;
+
+| reagents =
+Acorn;
+Brass;
+Deep Mushroom*F2;
+Diamond;
+Fossil;
+Lava Lily;
+Nickel;
+Nightshade;
+Ore;
+Stone Block*F2;
+
+| spellements =
+
+| snacks =
+Flaming Soup;
+Goat Cheese;
+Golden Grapes*F2;
+Gummy Humongofrog*F2;
+King Banana;
+
+| jewels =
+Blade of Life Jade;
+Detonate Ruby;
+Dull Defense Jade +27;
+Plain Blocking Amethyst +6;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

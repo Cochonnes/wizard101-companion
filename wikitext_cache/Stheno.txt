@@ -1,0 +1,121 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 14,560
+| crecla = Gorgon
+| school = Ice
+| masteries =
+Myth;
+
+| startpips = 7
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Bronze Hoplite;
+Bronze Hoplite;
+Bronze Hoplite;
+
+| world = Wizard City
+| location = Tartarus
+| subloc1 = Temple of Longing
+| badge = Stheno Snnihilator
+| descrip =
+This Boss appears if you fail to restore her urn to its former state in the quest {{Link|Quest|Fall of Pompeii}}.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Fortify;
+Tower Shield;
+Iceblade (+40%);
+Mythblade;
+Ice Trap;
+Natural Attack (Ice 105-215-335);
+Ice Helephant;
+Ancient Wyvern;
+Frost Giant;
+Snow Angel;
+Woolly Mammoth;
+Lord of Winter;
+Earthquake;
+Orthrus;
+
+| quests =
+
+| dropnotes =
+When a Wizard has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge and has completed the '''{{Link|Quest|Sisyphus is Unhappy}}''' {{Icon|Swole Like Sisyphus}} Quest, the following drops will be guaranteed:
+*{{Icon|Spellement}} 5-6 Aquila Spellements of '''any''' School
+
+If a Wizard already has the Child of Light and Shadow Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} inside Tartarus to acquire a [[Item:Level Scaling Elixir - 90|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+1 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Frigid Skeleturion;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

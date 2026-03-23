@@ -1,0 +1,194 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 25,000
+| crecla = Werewolf
+| school = Fire
+| school2 = Ice
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+976 Any;
+
+| criticalblock =
+823 Any;
+
+| outpierce =
+52%;
+
+| outboost =
+196%;
+
+| incboost =
+None;
+
+| incresist =
+25% Storm, Life;
+45% Fire, Death, Balance, Sun, Moon, Star, Shadow;
+65% Ice, Myth;
+
+| outhealing =
+6%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Howling Lands
+| subloc1 = Overgrown Estate (Challenge)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Trap}} ''"You think to trap the hunters?"'' - Triggers the first time a Negative Ward is applied to Lord Barghest or his minion(s).
+**''"Your traps become our tools!"'' - Triggers the second time a Negative Ward is applied to Lord Barghest or his minion(s). When this cheat is triggered, all traps will be removed from Lord Barghest and his minion(s).
+**''"*growl* I'll get you yet!"'' - After attacking Lord Barghest while he has a trap, Lord Barghest's minion will say this to indicate that it is safe to trap again.
+
+'''Cheat Cycle'''
+
+*{{Icon|Protected Damage over Time}} ''"Now the real hunt begins!"'' - At the beginning of the first round, Lord Barghest will cast a protected Damage Over Time effect that deals 17,775 damage over 60 rounds, followed by a protected Damage Over Time effects that deals 118 damage over 60 rounds.
+*{{Icon|Polymorph}} ''"The coin flips in your favor, for now."'' - At the end of the third round, Lord Barghest will polymorph into his human form and cast a protected Damage Over Time effect that deals 17,775 damage over 60 rounds, followed by a protected Damage Over Time effects that deals 118 damage over 60 rounds.
+** Fire dispels can prevent the above cheats.
+**''"*snarl*"'' - If a wizard casts a Positive Charm, this cheat will be triggered one round early.
+** In his human form, Lord Barghest's school changes to Ice and his boost/resist values are different.
+*{{Icon|Polymorph}} ''"And now... the coin flips to my favor."'' - At the end of the sixth round, Lord Barghest will polymorph back into his wolf form and cast a Sun version of {{Link|Spell|Incindiate}}.
+** ''"*hrumph*"'' - If a wizard casts a Positive Charm, this cheat will be triggered one round early.
+
+'''Minion Cheats'''
+
+At the beginning of the first round and every other round afterwards, Lord Barghest's minion will cheat-cast one of the following cheats.
+*{{Icon|Blade}} ''"Sharpen your claws!"'' - Lord Barghest's minion will cast a special version of {{Link|Spell|Bladestorm}} that applies two +30% damage charms to all allies.
+*{{Icon|Shield}} ''"Brace yourself!"'' - Lord Barghest's minion will cast {{Link|Spell|Mass Tower Shield}}.
+*{{Icon|Heal}} ''"You will not fall!"'' - Lord Barghest's minion will cast a version of {{Link|Spell|Pigsie}} that heals all allies and applies 3 heal over times for 4 rounds.
+
+{{Icon|Afterlife}} ''"*whimper*"'' - After being defeated at the end of the turn, Lord Barghest's minion will revive itself for 100% of its max HP and will leave combat.
+
+'''Helpful Cheats'''
+
+In the earlier stages of the dungeon, three clues are spread throughout the area, each of which corresponds to one NPC. If the clue is found, that means the corresponding NPC is innocent.
+
+* Tranett = Silver Necklace
+* Tawni = Lock of Hair
+* Ignacio = Red Cloth
+* Dimiti = Strange Footprints
+
+If the correct NPC is chosen, the following helpful cheats ''may'' activate. Each incorrect choice typically removes one helpful cheat, but helpful cheats frequently won't trigger even if no incorrect choices were made. More testing is needed to determine what causes cheats not to trigger.
+
+*{{Icon|All Friends (Squared)}}{{Icon|Aura}} ''"Here to help, wizard!"'' - At the end of the first round, a special version of {{Link|Spell|Quicken}} that lasts 6 rounds will be applied to all wizards.
+*{{Icon|All Friends (Squared)}}{{Icon|Manipulation}} ''"Now, Barghest, your end comes."'' - At the end of the first round, a special version of {{Link|Spell|Guardian Spirit}} that restores 100% hp will be applied to all wizards.
+*{{Icon|All Friends (Squared)}}{{Icon|Aura}} ''"Don't hit me!"'' - Before Lord Barghest cheat-casts {{Link|Spell|Incindiate}}, a special version of {{Link|Spell|Fortify}} that reduces incoming damage by -135% will be applied to all wizards.
+*{{Icon|All Friends (Squared)}}{{Icon|Aura}} ''"Now, you face Ignacio. Pity you."'' - After Lord Barghest casts {{Link|Spell|Incindiate}} for the first time, the 6-round {{Link|Spell|Quicken}} will be re-applied to all wizards.
+
+| spellnotes =
+
+| casts =
+Mass Fire Trap;
+Fire Trap;
+Mass Ice Trap;
+Ice Trap;
+Mist Trap;
+Heck Hound (Tier 2b);
+Phoenix;
+Frostbite (Tier 2b);
+Blight Hound (Tier 2b);
+
+| quests =
+
+| gold =
+
+| hats =
+Ancient Dhampir Crown;
+Ancient Hemavore Crown;
+Ancient Immortal Crown;
+Ancient Living Dead Crown;
+Ancient Nightstalker Crown;
+Ancient Nosferatu Crown;
+Ancient Vampire Crown;
+Fledgling Dhampir Crown;
+Fledgling Hemavore Crown;
+Fledgling Immortal Crown;
+Fledgling Living Dead Crown;
+Fledgling Nightstalker Crown;
+Fledgling Nosferatu Crown;
+Fledgling Vampire Crown;
+
+| robes =
+
+| boots =
+Ancient Dhampir Shoes;
+Ancient Hemavore Shoes;
+Ancient Immortal Shoes;
+Ancient Living Dead Shoes;
+Ancient Nightstalker Shoes;
+Ancient Nosferatu Shoes;
+Ancient Vampire Shoes;
+Fledgling Dhampir Shoes;
+Fledgling Hemavore Shoes;
+Fledgling Immortal Shoes;
+Fledgling Living Dead Shoes;
+Fledgling Nightstalker Shoes;
+Fledgling Nosferatu Shoes;
+Fledgling Vampire Shoes;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Scepter of the Turning Wheel;
+
+| decks =
+
+| items =
+
+| cards =
+Medusa;
+Raging Bull;
+Snowball Barrage;
+
+| reagents =
+
+| spellements =
+Barbarian's Saga;
+Bunyip's Rage;
+Chameleon Clash;
+Count Croakula;
+Deathly Depths;
+Old One's Endgame;
+Phantasmania!;
+Scales of Destiny;
+Taweret;
+The Chariot;
+The Emperor;
+The Hierophant;
+The World;
+Zand the Bandit;
+
+| snacks =
+
+| jewels =
+Balance Blocking Pin (160, Death);
+Flawless Blocking Onyx +23;
+Life Blocking Pin (160, Death);
+Unearthly Blocking Jade +57;
+Unearthly Blocking Ruby +52;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Lord Barghest (Standard)
+}}

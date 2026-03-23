@@ -1,0 +1,119 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 19,200
+| crecla = Pterodactyl
+| crecla2 = Dino
+| school = Storm
+| masteries =
+Balance;
+
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+21%;
+
+| outboost =
+130%;
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Tzeltan Cohort (Tier 3);
+Tzeltan Cohort (Tier 3);
+Tzeltan Cohort (Tier 3);
+
+| world = Azteca
+| location = Three Points
+| subloc1 = Ixcax CursedWing's Chamber
+| badge = Ixnay on the Ixcax
+| descrip =
+Ixcax CursedWing (Tier 3) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Shaman's Spellemental Pack}}.
+*This Tier is for level 96-109 Wizards.
+
+| speech =
+:''"Look at you, practically skipping along, happily venturing into some ancient Aztecan ritual chamber. Must be sooo much fun! Do you know what it's like to be cursed to maintain an endless vigil? Of course not! You have no idea! But I'll tell you, it stinks! When the Firstworld was destroyed, I bargained for our salvation, and I was given this! An eternity guarding an empty room! I am bound to attack any who venture in here. There was a time I resented it, but now I relish the chance to share my misery!"''
+
+| cheatnotes =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Fire Damage.
+
+| casts =
+Stormblade (+30%);
+Storm Trap;
+Windstorm;
+Enfeeble;
+Darkwind;
+Stormbird;
+Thunderbird;
+Rusalka's Wrath;
+Leviathan;
+Sirens;
+Tempest;
+Savage Paw (Tier 4a);
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Participation Trophy;
+
+| spellements =
+Lord of Night;
+Savage Paw;
+Winter Moon;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

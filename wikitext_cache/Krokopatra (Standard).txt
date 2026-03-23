@@ -1,0 +1,143 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 10,500
+| crecla = Krokotopian
+| school = Storm
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+52%;
+
+| incboost =
+30% Myth;
+
+| incresist =
+3% Fire, Ice, Life, Death, Balance;
+33% Storm;
+
+| outhealing =
+8%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Krokopatra Rematch
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the Challenge version of this battle, see {{Link|Creature|Krokopatra (Challenge)}}.
+
+| speech =
+
+| cheatnotes =
+{{Icon|Late}} ''"Your Queen has no patience for tardiness!"''' - If a Wizard is late to combat, Krokopatra will cheat-cast a Moon version of {{Link|Spell|Insane Bolt}}, dealing '''250''', '''500''' or '''1,000''' Moon Damage on all enemies.
+
+{{Icon|Damage}} ''"You dare strike your Queen?!"''' - If a Wizard Damages Krokopatra, she will cheat-cast a version of {{Link|Spell|Healing Current}}, restoring '''100''', '''400''', or '''1,000''' Health to herself. Then, Krokopatra casts a Moon version of Insane Bolt, dealing '''250''', '''500''' or '''1,000''' Moon Damage on all enemies.
+
+{{Icon|Damage over Time}} ''"I shrug off such paltry magic"'' - If a Wizard casts a Damage over Time effect on Krokopatra, she will cheat-cast {{Link|Spell|Stormzilla (Tier 5b)}}.
+
+{{Icon|Blade}} ''"You can't charm me!"'' - If a Wizard casts a Blade or outgoing Damage Aura, Krokopatra will cheat-cast an Ice version of {{Link|Spell|Enfeeble}} on all Wizards.
+:*This cheat cannot be Dispelled.
+:*{{Link|Spell|Aegis}} will not bypass this cheat.
+
+{{Icon|Trap}} ''"Your clumsy traps are no match for my grace"'' - If a Wizard casts a Trap or incoming Damage Aura, Krokopatra will cheat-cast a Life version of {{Link|Spell|Cleanse Ward}} to remove all Traps on herself.
+:*This cheat cannot be Dispelled.
+:*{{Link|Spell|Indemnity}} will not bypass this cheat.
+
+{{Icon|Dispel}} ''"I will not be triumphed over!"'' - If a Wizard casts {{Link|Spell|Dissipate}}, Krokopatra will cheat-cast a Moon version of Insane Bolt, dealing '''250''', '''500''' or '''1,000''' Moon Damage on all enemies.
+
+| spellnotes =
+
+| casts =
+Stormblade (+30%);
+Stormblade;
+Darkwind;
+Catch of the Day;
+Storm Shark (Tier 2b);
+Kraken (Tier 2a);
+Stormzilla (Tier 2b);
+Storm Lord;
+Natural Attack (Krokopatra);
+
+| quests =
+
+| dropnotes =
+Defeating Krokopatra guarantees each Wizard the following rewards:
+*{{Icon|Robe}} 1-2 Malistaire's Robes
+*{{Icon|Reagent}} 10 Malistaire's Whisker Reagents
+*{{Icon|Spellement}} 14 groups of Rank 3 Spellements
+*{{Icon|Treasure Card}} 3 Azoth Treasure Cards
+
+| gold =
+
+| hats =
+
+| robes =
+Malistaire's Chilly Vestment (Level 160+);
+Malistaire's Ghostly Vestment (Level 160+);
+Malistaire's Harmonic Vestment (Level 160+);
+Malistaire's Infamous Vestment (Level 160+);
+Malistaire's Squall Vestment (Level 160+);
+Malistaire's Thorny Vestment (Level 160+);
+Malistaire's Vengeance Vestment (Level 160+);
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Malistaire's Whisker @ 10 Malistaire's Whisker;
+
+| spellements =
+Banshee;
+Cyclops;
+Evil Snowman;
+Locust Swarm;
+Nature's Wrath;
+Storm Shark;
+Sunbird;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Krokopatra (Rematch)
+
+}}

@@ -1,0 +1,139 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 16,760
+| crecla = Parasaur
+| school = Ice
+| school2 = Fire
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+948 Ice, Fire;
+
+| criticalblock =
+948;
+
+| outpierce =
+47% Ice, Fire;
+
+| outboost =
+191% Ice, Fire;
+
+| incboost =
+None;
+
+| incresist =
+50% Life;
+70% Fire, Ice, Myth, Balance, Sun, Moon, Star, Shadow;
+90% Storm, Death;
+
+| outhealing =
+88%;
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| randomminions =
+Crying Sky Barbarian;
+Crying Sky Bomber;
+Crying Sky Diver;
+Crying Sky Greenhorn;
+Crying Sky Minion;
+Sky Screamer (Fire-Death);
+
+| totalminions = 1
+| world = Raid
+| location = Crying Sky
+| subloc1 = Central Pyramid
+| lootchest = High Priestess Yetaxa's Chest
+| descrip =
+High Priest Yetaxa is the Boss summoned on the Northern portion of the Central Pyramid, after inputting the wildlife, school, and astral tokens found in the {{Link|Location|Xibalba Wastes (North)}}, and interacting with the drum.
+*When Yetaxa is defeated, the ''Shrine of Yetaxa'' spawns in the middle of the sigil, allowing the Wizard who defeated Yetaxa to polymorph into {{Link|Polymorph|High Priest Yetaxa}}.
+
+| speech =
+:''"As fire melts ice into water that douses flame, all life is bound to a cycle of death."''
+
+| cheatnotes =
+*''"Accept Xibalba's truth!"'' - At the start of every Round, Yetaxa will add two {{Link|Spell|Ice Trap}}s and two {{Link|Spell|Fire Trap}}s on two random Wizards in battle.
+*''"Let the comet of ice rain fire!"'' - At the end of each Round, if any one Wizard has at least four Ice Traps or four Fire Traps on them, Yetaxa will cast a version of {{Link|Spell|Lord of Winter}} that hits all enemies and does not remove pips, then removes all Negative Wards from all enemies.
+**Traps not applied by the main cheat will count for both the Ice and Fire trap counts for this trigger, even if not the corresponding School Trap.
+
+| spellnotes =
+
+| casts =
+Mass Fire Trap;
+Blizzard (365);
+Frost Giant (650);
+Lord of Winter;
+
+| quests =
+
+| dropnotes =
+All 12 Wizards in the Raid receive the drops, not just the ones within the battle.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Hunhau's Comet Deck (Level 160+);
+Hunhau's Crying Sky Deck (Level 160+);
+Hunhau's Heavenly Deck (Level 160+);
+Hunhau's Meteoric Deck (Level 160+);
+Hunhau's Singularity Deck (Level 160+);
+Hunhau's Vacuum Deck (Level 160+);
+Hunhau's Xenoform Deck (Level 160+);
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Amazing Critical Peridot +21;
+Amazing Critical Sapphire +21;
+Flawless Critical Onyx +24;
+Polished Piercing Amethyst +6%;
+Polished Piercing Citrine +6%;
+Polished Piercing Jade +6%;
+Polished Piercing Onyx +6%;
+Polished Piercing Peridot +6%;
+Polished Piercing Ruby +6%;
+Polished Piercing Sapphire +6%;
+
+| pins =
+Balance Resist Pin (140, Myth);
+Ice Resist Pin (140, Myth);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

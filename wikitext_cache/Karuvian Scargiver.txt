@@ -1,0 +1,138 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 7,200
+| crecla = Giant
+| school = Myth
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Storm;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Dragonspyre
+| location = Plaza of Conquests
+| subloc1 = 
+| descrip =
+The Karuvian Scargiver is a boss you can summon by activating the crystal in front of the Minotaur statue in the Plaza of Conquests.
+
+'''Note:''' This boss does not drop a Death Minotaur pet, which was Test only and never released to Live Realm.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Storm Shield;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Cyclops;
+Humongofrog;
+Minotaur;
+Earthquake;
+Natural Attack (Myth 100x, 75%);
+Scorpion;
+Sunbird;
+Storm Shark;
+
+| quests =
+
+| gold =
+60 - 70;
+
+| hats =
+Cowl of Blazes*F2;
+Headwrap of the Victorious*F2;
+Hood of Equity*F3*WMV;
+Hood of the Historian*F2;
+Karuvian Frostbringer Hood;
+Soot-Streaked Veil*F3;
+Terminus Mantle*F2;
+
+| robes =
+Cloak of the Seasons*F3;
+Drape of Symmetry*F3*WMV;
+Sepulchral Drape*F3;
+Smock of the Squall;
+
+| boots =
+Boots of the Broken Sky*F2;
+Fortune Striders*F2;
+Karuvian Deathstriders*F3*WMV;
+Shoes of Gloom*F3;
+Slippers of the Ice Flow*F2;
+Slippers of the Sunflame*F3*WMV;
+
+| athames =
+Smallsword of Euphoria*F3;
+Soothing Steel;
+
+| amulets =
+
+| rings =
+Band of the Boundless;
+Ring of the Rose*CR*F3*WMV;
+Signet of the Reaper*F4*WMV;
+
+| wands =
+
+| decks =
+Karuvian Deck of Eternity;
+
+| items =
+Minotaur Statue*F2;
+Snowflake Obelisk;
+
+| cards =
+
+| reagents =
+Brass;
+Bronze Gear*F5*WMV;
+Cobalt*F2;
+Nickel;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Dull Blocking Jade +4;
+Earthquake Peridot;
+Shh! Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F4;
+Fiery Boom Shroom*F4*WMV;
+King Parsley*CR;
+Maelstrom Snap Dragon*F2;
+Pink Dandelion*CR*F3;
+White Laugh-O-Dil*F3;
+
+| mounts =
+
+| spells =
+
+}}

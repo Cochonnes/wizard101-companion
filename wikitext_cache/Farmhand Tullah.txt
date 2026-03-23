@@ -1,0 +1,270 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 11,650
+| crecla = Fairy
+| school = Life
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+22%;
+
+| outboost =
+110%;
+
+| incboost =
+5% Death;
+
+| incresist =
+70% Life;
+
+| outhealing =
+75%;
+
+| inchealing =
+75%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Chocolate Moosetaur;
+
+| world = Karamelle
+| location = Candy Corn Farm
+| subloc1 = Chocolate Moosetaur Cave
+| descrip =
+
+| speech =
+
+| spellnotes =
+*Casts an undetermined version of {{Link|Spell|Sprite Swarm}}.
+*The Grrnadier Pacify effect prevents targeting the Boss for 3 Rounds, though all-enemy attacks will hit. 
+
+| casts =
+Impede;
+Quicken;
+Lifespear;
+Sprite;
+Unicorn;
+Lifeblade (+40%);
+Life Trap;
+Ratatoskr's Spin;
+Goat Monk;
+Lamassu;
+Seraph;
+Natural Attack (Life 100x, 4 Pip max);
+Hungry Caterpillar;
+Grrnadier (Tier 3a);
+Wings of Fate;
+Spinysaur;
+
+| quests =
+Local Color Out of Space;
+
+| gold =
+0 - 504;
+
+| hats =
+Consultant Pressure Hood;
+Contractor Thermal Hood;
+Producer's Thermal Hood;
+Specialist Cryo Hood;
+Specialist Protective Hood;
+
+| robes =
+Director Pressure Suit;
+Executive Cryo Suit;
+Executive Hazmat Suit;
+Executive Protective Suit;
+Executive Thermal Suit;
+Producer's Cryo Suit;
+Producer's Hazmat Suit;
+Producer's Protective Suit;
+Specialist Biohazard Suit;
+
+| boots =
+Contractor Protective Boots;
+Producer's Thermal Boots;
+
+| athames =
+Consultant Protective Knife;
+Consultant Survival Knife;
+Director Insulated Knife;
+
+| amulets =
+Consultant Hazmat Rope;
+Director Thermal Rope;
+Specialist Survival Rope;
+
+| rings =
+Executive Biohazard Ring;
+Specialist Cryo Ring;
+Specialist Survival Ring;
+
+| wands =
+Director Biohazard Meter;
+Director Cryo Meter;
+Director Protective Meter;
+Director Survival Meter;
+Director Thermal Meter;
+Executive Biohazard Meter;
+Executive Cryo Meter;
+Executive Hazmat Meter;
+Executive Insulated Meter;
+Executive Protective Meter;
+Executive Survival Meter;
+Executive Thermal Meter;
+Producer's Hazmat Meter;
+Producer's Insulated Meter;
+Producer's Pressure Meter;
+Producer's Thermal Meter;
+
+| decks =
+
+| items =
+Gum Drop Container;
+Karamelle Neglected Com Theme;
+Karamelle Rural Combat Theme;
+Oil Drum;
+Rock Candy Mountains Poster;
+Trash Pile (Outdoor);
+Von Trap Estate Poster;
+
+| cards =
+Berserk;
+Dream Shield;
+Galvanic Field;
+Mass Triage;
+Nested Fury;
+Rusalka's Wrath;
+Satyr;
+Snowball Barrage;
+Storm Shield*F2;
+Witch's House Call;
+
+| reagents =
+Aether*F2;
+Agave Leaves;
+Amber*F2;
+Amber Dust;
+Aquamarine*F2;
+Braided Vine*F2*WMV;
+Brass*F3;
+Bronze Gear;
+Cobalt;
+Draconium;
+Ectoplasm;
+Fire Blossom;
+Golden Pearl;
+Karamelle Chunk;
+Mithril;
+Nickel;
+Orichalcum;
+Scales*F2;
+Silver*F2*WMV;
+Stardust;
+Steel;
+Sunstone;
+Tin;
+Titanium;
+Toffee Bean*F4*WMV;
+Tungsten;
+Turmeric;
+
+| spellements =
+Grrnadier*F2;
+Mockenspiel;
+S'more Machine;
+Shatterhorn;
+Snack Attack;
+Sound of Musicology;
+
+| snacks =
+Beast Wellington;
+Bread Fruit Fruit;
+Cherry Pie;
+Crackle Jacks Cereal;
+Discord Grape Jelly;
+Dragon Fruit*F2*WMV;
+Drumstick;
+Eye Candy;
+Glowing Star Fruit;
+Glowing Taffy*F2*WMV;
+Krakamari;
+Pizza;
+Rock and Roll Candy;
+Roly Poly Fishheads;
+Satyr Chow*F2*WMV;
+Ships 'n' Queso;
+Sprinkle Cupcake*F3;
+Wheat Cracker;
+
+| jewels =
+Catalan Amethyst;
+Dazzling Accurate Onyx +14%;
+Dazzling Accurate Peridot +14%;
+Dazzling Accurate Ruby +14%;
+Dazzling Blocking Jade +19;
+Dazzling Blocking Jade +20;
+Dazzling Critical Citrine +20;
+Dazzling Critical Peridot +20;
+Dazzling Damage Sapphire +30;
+Dazzling Defense Amethyst +57;
+Dazzling Defense Hematite +59;
+Dazzling Defense Onyx +59;
+Dazzling Defense Peridot +60;
+Dazzling Defense Ruby +59;
+Dazzling Defense Sapphire +59;
+Dazzling Health Opal +131;
+Dazzling Mana Opal +53;
+Dazzling Mana Opal +54;
+Handsome Fomori Sapphire;
+Lord of Night Onyx;
+Shiny Accurate Jade +12%;
+Shiny Critical Jade +15;
+Shiny Damage Onyx +25;
+Shiny Damage Onyx +26;
+Shiny Defense Hematite +51;
+Shiny Defense Onyx +50;
+Shiny Defense Onyx +52;
+Shiny Health Opal +111;
+Shiny Health Opal +113*F2*WMV;
+Shiny Mana Opal +47;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Baby Carrots*F2*WMV;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts*F2; 
+Boon Tree*CR;
+Bread Fruit Bush;
+Face Palm;
+Fish on a Vine*F2;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Ivy League*CR;
+Maltese Tiger Lily;
+Pink Huckleberries*F4*WMV;
+Pink Laugh-O-Dil;
+Red Huckleberries;
+Snow Apples;
+Trumpet Vine*F2;
+Ultra Boom Shroom;
+Ultra Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

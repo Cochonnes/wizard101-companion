@@ -1,0 +1,156 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 2,400
+| crecla = Plant
+| crecla2 = Treant
+| school = Fire
+| startpips = 
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Forest Nymph (Tier 2);
+Forest Nymph (Tier 2);
+Forest Nymph (Tier 2);
+
+| world = Housing Instance
+| location = Tanglewood Terror
+| subloc1 = Tanglewood Terror (Tier 2)
+| descrip =
+This is the final boss and is similar in appearance to a {{Link|Creature|Wildfire Treant}}.
+
+| speech =
+*''"Kumquat was that? A little wizard? Your kind isn't poplar around here. You think you can stop my arboreal army?"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+It always says life is like a box of chocolates: everything's melted and disappointing.
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Glacial Shield;
+Fireblade;
+Fire Trap;
+Fire Elf;
+Natural Attack (Fire 120-235-350);
+Sunbird;
+Meteor Strike;
+Phoenix;
+
+| quests =
+Tanglewood Terror;
+
+| dropnotes =
+Wizards level 30+ will only receive level 30+ versions of Items.
+
+| gold =
+60 - 78;
+
+| hats =
+Cap of the Plant Punisher (Level 30+);
+Cap of the Tanglewood Hero (Level 30+);
+Tanglewood Terror Coif (Level 20+);
+
+| robes =
+Plant Punisher's Garb (Level 30+);
+
+| boots =
+Plant Punisher's Boots (Level 20+);
+Plant Punisher's Boots (Level 30+);
+Tanglewood Hero's Footgear (Level 30+);
+Terror of Tanglewood Shoes (Level 30+);
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Tanglewood Hero's Nettle (Level 30+);
+Tanglewood Terror Spear (Level 30+);
+
+| decks =
+
+| items =
+Blue Facetted Column;
+Prince Aka Karanahn;
+Prince Manu Nirini Statue;
+Purple Facetted Column;
+Red Facetted Column;
+Tall Crate;
+Tall Meter Stand;
+Wood Saw;
+
+| cards =
+
+| reagents =
+Acorn;
+Cat Tail;
+Copper;
+Deep Mushroom;
+Iron;
+Mist Wood;
+Nightshade;
+Pyrite;
+Red Mandrake;
+Stone Block;
+Water Lily;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Cheese Broccoli;
+
+| jewels =
+Cracked Defense Jade +9;
+Ghoul Onyx;
+Lightning Bats Amethyst;
+Thermic Shield Amethyst;
+
+| pins =
+
+| pets =
+Stained Glass Roller;
+
+| seeds =
+Rotten Beets;
+Vampire Carrots;
+
+| mounts =
+
+| spells =
+
+}}

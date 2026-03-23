@@ -1,0 +1,156 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 3,600
+| crecla = Wizard
+| crecla2 = Undead
+| school = Life
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Dragonspyre
+| location = The Crucible
+| subloc1 = 
+| descrip =
+
+| speech =
+:''"I am Katia Firewinter. I battled Aldared the Usurper when he used the power of the Knowledge Crystals to unseat the king! I formed the council of wizards, warriors, and king to prevent anyone who was unworthy from using the crystals again. Unfortunately, this proved to be our undoing. Nevertheless, the old lesson must continue. Battle me, student, to pass my test."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+Even in this winter of her undeath, Katia Firewinter's desire for revenge burns hot.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Sprite;
+Lifeblade;
+Life Trap;
+Leprechaun;
+Seraph;
+Centaur;
+Locust Swarm;
+Cyclops;
+Storm Shark;
+Natural Attack (Storm 125x, 70%);
+Meteor Strike;
+Heck Hound;
+
+| quests =
+Judge Not;
+
+| gold =
+60 - 70;
+
+| hats =
+Frostbitten Cap*F2*WMV;
+Lightning-Charged Mantle*F2*WMV;
+Pyromancer's Veil*F3*WMV;
+Reaper's Hood*F2*WMV;
+
+| robes =
+Firewinter's Seasonal Drape*F3*WMV;
+Judge's Robe*F2*WMV;
+Leafy Jerkin*F3*WMV;
+Raiment of the Raven*F2*WMV;
+Surcoat of Glory*F3*WMV;
+
+| boots =
+Mocassins of the Oracle;
+Reaper's Boots*F4*WMV;
+Shoes of the Greatest Saga*F2*WMV;
+Shoes of the Phoenix*F2*WMV;
+Striders of the Thicket*F2*WMV;
+
+| athames =
+Firewinter's Ice Spark Blade*F3*WMV;
+Needle of the Eye*F2*WMV;
+Poniard of Vitality*F3*WMV;
+
+| amulets =
+
+| rings =
+Burning Ring of Fire*F4*WMV;
+Seal of the Saga*F2*WMV;
+Seal of the Vigilant*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Oni Statue*F2*WMV;
+Scarab Marker*F2*WMV;
+
+| cards =
+
+| reagents =
+Brass*F2;
+Bronze Gear*F5*WMV;
+Cobalt;
+Nickel;
+Tin;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Determined Opal;
+Dull Blocking Amethyst +4;
+Dull Blocking Ruby +4;
+Dull Damage Amethyst +13*F2;
+Dull Damage Jade +13;
+Helephant Ruby;
+Hydra Citrine;
+Myth-Eye Peridot;
+Sanctuary Jade;
+Stormzilla Amethyst;
+Wraith Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

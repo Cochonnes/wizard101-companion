@@ -1,0 +1,196 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 11,080
+| crecla = Spriggan
+| school = Storm
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Spriggan;
+
+| world = Avalon
+| location = The Wyrd
+| subloc1 = Spiny Spriggan's House
+| descrip =
+*Two additional {{Link|Creature|Foul Skirker}}s appear if more than two Wizards are present.
+
+| speech =
+:''"You white-bellied worm, I'll slice you into fish bait!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 160-320-480);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Sirens;
+Tempest;
+
+| quests =
+Man In The Mirror;
+
+| gold =
+63 - 145;
+
+| hats =
+Jouster's Helm*F2;
+Lake Knight's Helm*F2*WMV;
+Paladin's Frosty Helmet;
+
+| robes =
+Jouster's Plate;
+Loyal Armiger's Armor;
+Storm Crown Tunic*F3*WMV;
+Weirwood Champion's Armor;
+
+| boots =
+Boots of the Lake Shore;
+Deep Water Splashers;
+Dread Keep Strollers*F2;
+Hanging Stones Striders;
+Scaith Striders*F2*WMV;
+
+| athames =
+Lord of the Wild Hunt's Steel*F3*WMV;
+Spriggan's Wicked Spike;
+
+| amulets =
+Barbarian Philosopher's Mark*F2*WMV;
+Chosen Chief's Amulet*F3;
+
+| rings =
+Stone of the Other Side*F3*WMV;
+Toasty Band of the Fire Elves;
+
+| wands =
+Antlered Staff*F3*WMV;
+Highland Walking Stick*F3*WMV;
+
+| decks =
+Antikythera Deck*F4*WMV;
+Beleno's Chivalric Gallery*F4*WMV;
+
+| items =
+Avalon Owl Stained Glass;
+Avalon Tense Theme;
+Avalon Wyrd Theme*F2*WMV;
+Tree Fountain;
+
+| cards =
+Amplify*F2*WMV;
+Berserk*F2*WMV;
+Cleanse Charm*F4*WMV;
+Colossal*F3*WMV;
+Disarm*F3*WMV;
+Empowerment*F3;
+Extraordinary*F3*WMV;
+Fire Dragon;
+Fortify*F2;
+Frost Giant*F2*WMV;
+Gargantuan;
+Infallible*F3*WMV;
+Insane Bolt*F3*WMV;
+Medusa;
+Mend*F2*WMV;
+Orthrus;
+Power Nova;
+Scarecrow;
+Storm Lord*F2*WMV;
+Supercharge*F3*WMV;
+Unstoppable;
+Vengeance*F2*WMV;
+Wild Bolt*F3*WMV;
+
+| reagents =
+Black Lotus*F2;
+Brass*F2*WMV;
+Bronze;
+Cat Tail*F3*WMV;
+Cobalt;
+Deep Mushroom*F3*WMV;
+Frost Flower;
+Lava Lily*F3*WMV;
+Mist Wood*F2*WMV;
+Ore*F3*WMV;
+Parchment*F2*WMV;
+Pearl*F2*WMV;
+Red Mandrake*F2;
+Shell*F2*WMV;
+Steel*F2;
+Stone Block*F5*WMV;
+
+| spellements =
+
+| snacks =
+Bogwich;
+Buttered Bread*F2*WMV;
+Cauliflowers;
+Delicious Cookie;
+Flaming Soup;
+Flapjacks;
+Glowing Taffy;
+Goat Cheese;
+Golden Apple;
+Golden Grapes;
+Gummy Humongofrog;
+Gummy Wyrms;
+Jelly Baby;
+Roasted Chickpeas;
+Spicy Drumstick;
+Treant Bark*F2*WMV;
+Uni-Corn;
+
+| jewels =
+Clear Damage Onyx +19*F2;
+Pyrosaurus Rex Ruby;
+Vengeance Talent Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears*F2*WMV;
+Blue Huckleberries;
+Deadly Helephant Ears*CR;
+Ninja Fig;
+Red Huckleberries;
+
+| mounts =
+
+| spells =
+
+}}

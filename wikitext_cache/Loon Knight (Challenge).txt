@@ -1,0 +1,175 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 18,145
+| crecla = Duck
+| school = Moon
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Ice;
+Myth;
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Luna-Tick (Moon);
+
+| world = Krokotopia
+| location = Selenopolis
+| subloc1 = Celestial Pyramid (Challenge)
+| badge = Loon Smiter
+| lootchest = Loon Knight Chest (Challenge)
+| descrip = 
+As the Boss in this battle, all drops are recorded on this page.
+*For the Standard version of this battle, see {{Link|Creature|Loon Knight (Standard)}}.
+*Two additional Luna-Tick Minions will appear if more than two Wizards are present.
+
+'''Advanced Combat Rules:'''
+*Wizards stats and Spells are scaled to Level 170.
+*Spell Decks cannot be changed while in this instance.
+*No-PvP Spells are disallowed in this fight.
+*PvP-Only Spells are allowed in this fight.
+*Snake Turn Order Combat.
+*Wizards cannot re-join combat after fleeing mid-combat.
+
+'''Additional Notes:'''
+
+| speech =
+:'''{{Link|NPC|Mellori}}''': ''"Hey, Duck Guy's back."''
+:'''{{Link|NPC|Old Quack}}''': ''"Don't you understand? It's all me. Everywhere you went, it's been me! The adventurer,  the bookish scholar, even the crazed hermit-"''
+:'''{{Link|NPC|Quentin Quail}}''': ''"We are all the same, all Avatars of Khonsu, morphed with the power of the Moon School to guide  you through traps..."''
+:'''{{Link|NPC|Drake Lockley}}''': ''"...And study you as you thwarted them, so we could prepare to defend Khonsu as his Avatar, his Loon Knight..."''
+:'''Loon Knight''': ''"...His Beak of Vengeance!"''
+
+| spellnotes =
+
+| cheatnotes =
+'''Loon Knight'''
+*{{Icon|Round}} ''"Become Khonsu's Avatars!"'' - At the beginning of the first Round, Loon Knight will Polymorph each Luna-Tick Minion into one of the following forms for 99 Rounds, depending on the number of Wizards present:
+**'''2 or fewer''': {{Link|Polymorph|Old Quack (Challenge)}}
+**'''3 or more''': {{Link|Polymorph|Old Quack (Challenge)}}, {{Link|Polymorph|Quentin Quail (Challenge)}} and {{Link|Polymorph|Drake Lockley (Challenge)}}.
+*{{Icon|Round}} ''"I am the Beak of Vengeance!"'' - At the beginning of every 3rd Round, Loon Knight will cast {{Link|Spell|Shatterhorn (Moon)}} on a random Wizard.
+*{{Icon|Polymorph}} ''"The Moon Phases..."'' - If there are no Luna-Tick Minions present, Loon Knight will Polymorph into one of the above forms, retaining all cheats listed above while gaining all cheats of that Polymorph. 
+**{{Icon|Polymorph}} ''"QUACK!"'' - Loon Knight will Polymorph into another one of the above forms, gaining the cheats of both that form and the previously Polymorphed form.
+
+'''Old Quack'''
+*{{Icon|Charm}} ''"That's not the real you!"'' - If a Wizard casts a universal Helpful Charm, or a multi-blade Spell, such as {{Link|Spell|Elemental Blade}}, Old Quack will cast an Ice version of {{Link|Spell|Enfeeble}} on the receiver of the Blade.
+**If a multi-target Blade Spell is cast, such as {{Link|Spell|Bladestorm}}, Old Quack will cast an all enemies version of Enfeeble.
+**A wizard casting a blade-type spell that is not of their original school will also trigger this cheat.
+**Spells with secondary effects, such as {{Link|Spell|Savage Paw}}, will not trigger this cheat.
+**{{Link|Spell|Aegis}} '''will not''' prevent the removal of Blades.
+
+'''Quentin Quail'''
+*''"Let me see. Oh, yes! That's the ticket!"'' - If a Wizard casts one of the following hanging effects, Quentin will cheat-cast one of the following Spells:
+**Secondary effects, such as the Blade on {{Link|Spell|Sound of Musicology}}, will trigger this cheat.
+**{{Icon|Friend}}{{Icon|Charm}} Single Target Helpful Charm - {{Link|Spell|Weakness}}
+**{{Icon|All Friends (Squared)}}{{Icon|Charm}} Helpful Charm on All Allies - {{Link|Spell|Mass Weakness}}
+**{{Icon|Enemy}}{{Icon|Curse}} Single Target Harmful Charm - {{Link|Spell|Balanceblade}}
+***{{Link|Spell|Starfall}} will also trigger this cheat.
+**{{Icon|All Enemies (Squared)}}{{Icon|Curse}} Harmful Charm on All Enemies - {{Link|Spell|Bladestorm (+25%)}}
+**{{Icon|Friend}}{{Icon|Ward}} Single Target Helpful Ward - {{Link|Spell|Hex}}
+**{{Icon|All Friends (Squared)}}{{Icon|Ward}} Helpful Ward on All Allies - {{Link|Spell|Mass Hex}}
+**{{Icon|Enemy}}{{Icon|Jinx}} Single Target Harmful Ward - {{Link|Spell|Tower Shield (Balance)}}
+***{{Link|Spell|Attenuate}} will also trigger this cheat.
+**{{Icon|All Enemies (Squared)}}{{Icon|Jinx}} Harmful Ward on All Enemies - {{Link|Spell|Legion Shield}}
+
+'''Drake Lockley'''
+*{{Icon|Blade}}{{Icon|Trap}}{{Icon|Aura}}{{Icon|Global}} ''"Time for the old one, two PUNCH!"'' - If a Wizard casts a Damage or Pierce Charm, Trap, Aura, or Global, Drake will cast a Storm version of {{Link|ItemCard|Duck Savage}} that deals '''800''' Storm Damage on the receiver.
+**Multi-Target Spells will result in the Duck Savage being cast on the caster.
+**Secondary effects will trigger this cheat.
+
+| casts =
+
+| quests =
+Loonish Tunes;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+Avatar's Boots of Bad Blood;
+Avatar's Boots of Payback;
+Avatar's Boots of Reprisal;
+Avatar's Boots of Retribution;
+Avatar's Boots of Revenge;
+Avatar's Boots of Vengeance;
+Avatar's Boots of Wrath;
+Manifest Boots of Bad Blood;
+Manifest Boots of Payback;
+Manifest Boots of Reprisal;
+Manifest Boots of Retribution;
+Manifest Boots of Revenge;
+Manifest Boots of Vengeance;
+Manifest Boots of Wrath;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Avatar's Cards of Bad Blood*F2;
+Avatar's Cards of Payback;
+Avatar's Cards of Reprisal;
+Avatar's Cards of Retribution;
+Avatar's Cards of Revenge;
+Avatar's Cards of Vengeance;
+Avatar's Cards of Wrath;
+Manifest Cards of Bad Blood;
+Manifest Cards of Payback;
+Manifest Cards of Reprisal;
+Manifest Cards of Retribution;
+Manifest Cards of Revenge;
+Manifest Cards of Vengeance;
+Manifest Cards of Wrath;
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Loon Knight
+}}

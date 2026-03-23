@@ -1,0 +1,204 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 15,960
+| crecla = Jaguar
+| school = Ice
+| masteries =
+Storm;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+110 Any;
+
+| criticalblock =
+50 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Venomous Quetzal;
+
+| world = Azteca
+| location = Floating Mountains
+| subloc1 = Apocalypto Cave
+| descrip =
+Two additional Venomous Quetzal Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Magician, I cannot break the Shadow's enthrallment, but I do regret what is about to occur."''
+
+| casts =
+Fortify;
+Infallible;
+Tower Shield;
+Lightning Strike;
+Iceblade;
+Elemental Blade;
+Balefrost;
+Natural Attack (Ice 170-340-510, 80%);
+Colossus (525-605);
+Lord of Winter;
+Wild Bolt;
+Storman (290);
+Storm Lord;
+
+| quests =
+The Wrong Hands;
+
+| gold =
+136 - 167;
+
+| hats =
+
+| robes =
+Prince of the Avian's Tunic*F4*WMV;
+
+| boots =
+Eagle Lord's Cloud Dancers*F2;
+Fiery Chac's Great Boots;
+Ice Age Tyrant's Walkers;
+Jaguar Prince's Leapers;
+Rangers of the Hungry Lizard*F2;
+Storm Owl's Favored Trackers;
+
+| athames =
+Athame of the Falling Star;
+Captain of the Sky's Talon;
+Drowned Spirit Knife;
+
+| amulets =
+
+| rings =
+Bleeding Sun Warrior's Loop;
+Seal of Thunder Horn's Glory;
+Storm Quetzal's Signet;
+Twin Giants Fashioned Stone;
+Xibalba's Dread Seal*F3*WMV;
+
+| wands =
+Lord of the Swamp's Scepter*F2;
+Mace of the Aztecosaurs*F2*WMV;
+
+| decks =
+Calendar of the Spiral King*F4*WMV;
+Cold Codex;
+
+| items =
+Azteca Mountain Theme;
+Azteca Pot;
+Jaguar Pillar;
+Parasaur Helm;
+Pathfinder;
+
+| cards =
+Amplify;
+Basilisk;
+Chastisement*F2;
+Chimera;
+Colossal;
+Cycle of Life;
+Dr. Von's Monster;
+Empowerment;
+Extraordinary*F2;
+Furnace;
+Galvanic Field;
+Polymorph Icehorn;
+Polymorph Pteranodon;
+Potent Trap*F2;
+Primordial;
+Punishment*F2;
+Ra;
+Rain of Fire;
+Reliquary;
+Savage Paw*F2;
+Sharpened Blade;
+Sirens;
+Skeletal Dragon;
+Sleet Storm;
+Woolly Mammoth*F3;
+
+| reagents =
+Black Lotus*F2*WMV;
+Black Pearl*F2;
+Blood Moss;
+Bone;
+Bronze;
+Bronze Gear*F3*WMV;
+Deep Mushroom*F2*WMV;
+Fire Blossom*F3*WMV;
+Fossil;
+Golden Pearl;
+Lava Lily*F2*WMV;
+Mist Wood*F3*WMV;
+Nightshade;
+Ore*F3;
+Red Mandrake*F2;
+Sandstone;
+Silver;
+Steel*F2;
+Stone Block*F3*WMV;
+Sunstone*F2;
+Tungsten;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Allocados*F2;
+Bedrock Bonbons*F2*WMV;
+Cacao Beans;
+Cactus Fruit*F2;
+Caramel Apple;
+Fried Ice Cream;
+Jelly Baby;
+Quetzal Pretzel*F3*WMV;
+Saber-Tooth Cider;
+Shiny Tomato*F2*WMV;
+Tamales;
+Tenochti-Flan*F2*WMV;
+Zocalo Wings*F2*WMV;
+
+| jewels =
+Clear Defense Sapphire +38;
+Draw Health Sapphire;
+Fortify Talent Opal;
+Infallible Talent Opal;
+Polished Critical Sapphire +11;
+Polished Health Opal +90;
+Screen Ruby;
+Sharp Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+King Parsley*CR;
+Maelstrom Snap Dragon;
+Ninja Fig*CR;
+Red Bell Pepper;
+Red Huckleberries;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

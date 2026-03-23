@@ -1,0 +1,126 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 17,030
+| crecla = Wyrm
+| school = Star
+| masteries =
+Storm;
+Life;
+Death;
+
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Life;
+Death;
+
+| critical =
+200 Any;
+
+| criticalblock =
+240 Any;
+
+| outpierce =
+14%;
+
+| outboost =
+89%;
+
+| incboost =
+None;
+
+| incresist =
+44% Any;
+
+| outhealing =
+75%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Night Mire Gauntlet
+| subloc1 = Night Mire Gauntlet (Tier 3)
+| descrip =
+Bearded Dragon (Star) (Tier 3) is considered a Minion to {{Link|Creature|Bearded Dragon (Sun) (Tier 3)}}.  All drops are recorded on that page.
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Has a giant ego that's bound to explode one day.
+
+| extract class =
+Wyrm;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Impede;
+Quicken;
+Star Shield;
+Blizzard (Star);
+Power Nova (Star);
+Tempest (6 Pip);
+Ship of Fools (Tier 5b);
+Scarecrow;
+Ratatoskr's Spin (Tier 5a);
+Forest Lord;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,338 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 16,970
+| crecla = Wyrm
+| school = Shadow
+| school2 = Fire
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+108 Any;
+
+| criticalblock =
+234 Any;
+
+| outpierce =
+5%;
+
+| outboost =
+110%;
+
+| incboost =
+10% Ice;
+
+| incresist =
+40% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Mirage
+| location = Chronoverge
+| subloc1 = South Time Dunes
+| descrip =
+Shadowwock is the Shadow version of {{Link|Creature|Jabberwock}}, after being resurrected by [[NPC:Old Cob|Grandfather Spider]]. He is the third Boss encountered in the {{Link|Location|Sands of Time}}.
+
+| speech =
+:''"Brillig is past, and arrived is my hour. You once took my Hearts, but left my head. Now I've grown in power. This time, you will be dead!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Mirage
+| tome description =
+One of the guardians of the Chronoshard. After you take his heart, be sure not to leave his head.
+
+| extract class =
+Wyrm;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"It's after brillig!"'' - If a Wizard joins the duel after it has already begun, Shadowwock will cast {{Link|Spell|Mana Burn}} at the Wizard, dealing 3,000 Balance damage.
+*{{Icon|Round}} ''"Snicker-Snack"'' - Beginning on Round 2, he will interrupt to remove all [[:Category:Trap Spells|Traps]] from himself at the start of every second Round (Round 4, Round 6, etc.).
+:*{{Link|Spell|Indemnity}} can be used to protect traps from this cheat.
+*{{Icon|Damage}} ''"You make me frumious!"'' - At the beginning of every three Rounds, he will cast a Shadow version of {{Link|Spell|Meteor Strike}} that randomly deals '''1650 - 3,300''' Shadow damage and places a '''+200%''' universal [[:Category:Trap Spells|Trap]] on himself.
+:*He will not always cast the trap if a Wizard is defeated with the Meteor Strike.
+:*Using [[Basic:Spell Mutations#Weakness|Weakness-type spells]] can help reduce the amount of damage dealt by his Meteor Strike.
+*{{Icon|Feint}} ''"How mimsy!"'' - If a Wizard places a {{Link|Spell|Feint}} on Shadowwock, he will cast an Ice version of {{Link|Spell|Swap Ward}} to swap the Traps with the Wizard.
+:*{{Link|Spell|Melt}} can be used to dispel this cheat.
+:*{{Link|Spell|Indemnity}} can be used to avoid this cheat.
+:*{{Link|Spell|Mass Feint (+75%)}} doest not trigger this cheat.
+:*The Balance version of {{Link|ItemCard|Feint}} does not trigger this cheat.
+*{{Icon|Manipulation}} Whenever a Fizzle occurs, Shadowwock will cast a Shadow version of Empower, similar to {{Link|Spell|Dark Surge}} to give himself 2 Power Pips.
+*{{Icon|Curse}} After casting his Natural Attack, Shadowwock will cast a protected {{Link|Spell|Black Mantle (Shadow)}} on the Wizard.
+
+| spellnotes =
+
+'''Natural Attack:'''
+*Deals 110 Shadow Damage per Pip, despite the Spell card's 3-Pip maximum description.
+
+| casts =
+Dark Shepherd;
+Furnace;
+Glacial Shield (-75%);
+Fire Shield (-85%);
+Firespear;
+Smoke Screen (-45%);
+Fireblade;
+Fire Trap (+35%);
+Fuel (+35%);
+Steal Charm (90%);
+Choke (85%);
+Natural Attack (Shadow 110-220-330);
+Fire Beetle;
+Krampus;
+Sunbird (345-405);
+Hephaestus;
+Fire from Above;
+Raging Bull;
+Grand Phoenix;
+Fire Dragon (495+395);
+Wrath of Ares (Fire);
+
+| quests =
+The Sands of Time;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' Badge and has not unlocked the '''[[Basic:Empyrea Badges|Hero of Light and Shadow]]''' Badge, the following drops will be available:
+*4 Spellements will drop each time from '''any''' School for their respective rank 9, 10, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+142 - 232;
+
+| hats =
+Time Warden Kavuk of Bounce*F7*WMV;
+Time Warden Kavuk of Reason*F5*WMV;
+Time Warden's Ornate Kavuk*F5*WMV;
+
+| robes =
+Time Warden Thobe of Truth*F4*WMV;
+Time Warden's Ornate Thobe*F5*WMV;
+
+| boots =
+Time Warden Downpour Galesh*F8*WMV;
+Time Warden Galesh of Pyres;
+Time Warden Galesh of Truth*F5*WMV;
+Time Warden's Ornate Galesh*F7*WMV;
+
+| athames =
+Khanjar of Tetrus Prison*F11*WMV;
+
+| amulets =
+Ampul of Tetrus Prison*F10*WMV;
+Tetrus Ampul of Fusion*F5*WMV;
+Tetrus Ampul of Scalding*F10*WMV;
+Tetrus Ampul of Tempests*F6*WMV;
+
+| rings =
+Ringlet of Tetrus Prison*F3*WMV;
+Tetrus Ringlet of Tempests*F8*WMV;
+
+| wands =
+Time Warden's Ornate Kilij*F7*WMV;
+
+| decks =
+Tetrus Prison Deck*F4*WMV;
+
+| items =
+Mirage Canyon Combat Theme*F2*WMV;
+Mirage Canyon Theme 1;
+Mirage Canyon Theme 2*F4*WMV;
+Mirage Caravan Theme;
+Mirage Chronoverge Com Theme*F3*WMV;
+Mirage Chronoverge Theme*F2*WMV;
+Mirage City Combat Theme*F5*WMV;
+Mirage City Tense Theme;
+Mirage City Theme*F3*WMV;
+Mirage City Theme 2;
+Mirage Den of Thieves Theme*F2*WMV;
+Mirage Desert Canyons Theme*F2;
+Mirage Desert Combat Theme;
+Mirage Jungle Combat Theme*F2*WMV;
+Mirage Jungle Theme*F3*WMV;
+Mirage Magic Carpet Theme*F3*WMV;
+Mirage Palace Theme*F3;
+Mirage Serpent Theme;
+Mirage Spider Speaks Theme*F2*WMV;
+
+| cards =
+
+| reagents =
+Aether*F24*WMV;
+Agave Leaves*F11*WMV;
+Agave Nectar*F2*WMV;
+Amber*F5*WMV;
+Amber Dust*F5*WMV;
+Aquamarine*F7*WMV;
+Astral Shard*F11*WMV;
+Braided Vine*F2;
+Draconium*F4*WMV;
+Fire Blossom*F8*WMV;
+Golden Pearl*F24*WMV;
+Iridium*F2;
+Merle's Whisker*F4*WMV;
+Mithril*F10*WMV;
+Orichalcum*F6*WMV;
+Scales*F15*WMV;
+Silver*F10*WMV;
+Stardust*F4*WMV;
+Steel*F9*WMV;
+Sunstone*F13*WMV;
+Titanium*F11*WMV;
+Tungsten*F14*WMV;
+Turmeric*F16*WMV;
+Turquoise*F15*WMV;
+Vine*F11*WMV;
+
+| spellements =
+Basilisk*BR;
+Iron Sultan*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Raging Bull*BR;
+Rain of Fire*BR;
+Winged Sorrow*BR;
+
+| snacks =
+Beast Wellington*F3*WMV;
+Beetle Cream Soda*F6*WMV;
+Chalupacabra*F5*WMV;
+Eye Candy*F2;
+Hard Boiled Beetle Eggs*F7*WMV;
+Hot Cross Buns*F4*WMV;
+Mustachios*F5*WMV;
+Satyr Chow*F6*WMV;
+Ships 'n' Queso*F7*WMV;
+Veggie Juice*F6*WMV;
+
+| jewels =
+Adapt Opal;
+Cycle of Life Opal;
+Epic Opal*F2*WMV;
+Magnify Opal;
+Renew Opal*F3*WMV;
+Shiny Blocking Hematite +16*F2*WMV;
+Shiny Blocking Peridot +16;
+Shiny Critical Jade +16;
+Shiny Critical Onyx +16;
+Shiny Critical Ruby +16*F3*WMV;
+Shiny Critical Sapphire +16*F2*WMV;
+Shiny Damage Amethyst +26;
+Shiny Damage Citrine +26*F2*WMV;
+Shiny Damage Jade +26*F3*WMV;
+Shiny Damage Peridot +26;
+Shiny Damage Ruby +26;
+Shiny Damage Sapphire +26*F2*WMV;
+Shiny Defense Amethyst +51;
+Shiny Defense Amethyst +52;
+Shiny Defense Hematite +51*F2;
+Shiny Defense Jade +52;
+Shiny Defense Onyx +50;
+Shiny Defense Peridot +51*F2*WMV;
+Shiny Defense Peridot +52;
+Shiny Defense Ruby +51*F2*WMV;
+Shiny Defense Ruby +52*F3*WMV;
+Shiny Defense Sapphire +51;
+Shiny Health Opal +111*F3*WMV;
+Shiny Health Opal +112*F2*WMV;
+Shiny Health Opal +113*F3*WMV;
+Shiny Health Opal +114*F2*WMV;
+Shiny Mana Opal +45*F3*WMV;
+Shiny Mana Opal +46*F3*WMV;
+Shiny Mana Opal +47*F5*WMV;
+Shiny PIP Hematite +2*F2*WMV;
+
+| pins =
+
+| pets =
+MaCaw*CR*F12*WMV;
+
+| seeds =
+Alligator Pear Tree*F5*WMV;
+Angel Oak*F2*WMV;
+Angora Bunny Ears*F2*WMV;
+Bamboo Shoots*F3*WMV;
+Bell Pepper*F2*WMV;
+Blue Huckleberries;
+Boiled Peanuts*F4*WMV;
+Boom Shroom;
+Boon Tree*CR*F2*WMV;
+Bread Fruit Bush*F2*WMV;
+Burning Snap Dragon*F2*WMV;
+Clockwork Flower*F3*WMV;
+Cornbread Fruit Bush*F3*WMV;
+Couch Potatoes*CR;
+Dandelion;
+Deadly Helephant Ears*CR*F2*WMV;
+Deadly Ninja Fig*F2;
+Desparagus (Seed)*F3*WMV;
+Evil Magma Peas*CR*F3;
+Evil Snow Peas*F2*WMV;
+Face Palm*F3*WMV;
+Fickle Pickle*F2;
+Fiery Boom Shroom;
+Fortune Cookie Tree;
+Frozen Fly Trap*F3*WMV;
+Golden Couch Potatoes*F2*WMV;
+Goose Tree*F3*WMV;
+Grapes of Wrath*CR*F2*WMV;
+Green Snow Apples*F2*WMV;
+Helephant Ears*F2;
+Honey Bee Plant;
+Honey Sickle;
+Key Limes*CR*F2*WMV;
+King Parsley*CR*F5*WMV;
+Laugh-O-Dil;
+Maelstrom Snap Dragon*F3*WMV;
+Melting Cheese Tree;
+Missile Toe*F2*WMV;
+Moon Flower*F3*WMV;
+Ninja Fig*CR*F2*WMV;
+Orange Bell Pepper*CR;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus*F3*WMV;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Purple Snow Apples*F3*WMV;
+Queen Crape Myrtle;
+Red Couch Potatoes*F2*WMV;
+Red Huckleberries*F2*WMV;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Snap Dragon;
+Snow Apples;
+Sour Fickle Pickle;
+Sugar Khrystal*CR*F3*WMV;
+Sunion*CR*F3*WMV;
+Sword Fern*CR*F3*WMV;
+Tiger Lily (Seed)*F2*WMV;
+Trumpet Vine;
+Venus Fly Trap*F2;
+White Desparagus*F2*WMV;
+White Laugh-O-Dil*F3*WMV;
+White Tiger Lily*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,109 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 1,115
+| crecla = Undead
+| school = Life
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Death;
+
+| incresist =
+40% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Marleybone
+| location = Regent's Square
+| subloc1 = Warehouse (Spiral Geographic)
+| descrip =
+The Lazy Henchman is a Minion to {{Link|Creature|General Stormclaw}}.  All drops, cheats, and speech are recorded on that page.
+
+| speech =
+
+'''Retired Monstrology Description:'''
+*A lackadaisical attitude and complete disregard for punctuality make them frustrating to work with. However, they never ask for raises.
+
+| cheatnotes =
+*''"I saw that!!"'' - This Creature casts {{Link|Spell|Rebirth}} healing '''750''' without absorbs after Tired Fighter is Damaged.
+**All Enemy Spells don't trigger this cheat.
+**This cheat also triggers whenever {{Link|Creature|Half-Witted Skeleton}} uses {{Link|Spell|Blizzard}}, or {{Link|Creature|Tired Fighter}} uses {{Link|Spell|Tempest}}.
+
+| spellnotes =
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Sprite;
+Lifeblade;
+Life Trap;
+Leprechaun;
+Seraph;
+Centaur;
+Natural Attack (Death 90);
+Locust Swarm;
+Cyclops;
+Storm Shark;
+Meteor Strike;
+Heck Hound;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

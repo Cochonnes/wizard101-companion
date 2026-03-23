@@ -1,0 +1,175 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 5,855
+| crecla = Krokotopian
+| school = Ice
+| startpips = 3
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Fire;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Condemned Soldier;
+Condemned Soldier;
+Condemned Soldier;
+
+| world = Krokotopia
+| location = Lower Zigazag
+| subloc1 = Lower Zigazag Stone Key Room
+| badge = In'Zhizor's Undoing
+| descrip =
+In'Zhizor is the "Secret Boss" found in the Lower Zigazag dungeon.  A {{Link|House|Stone Skeleton Key|}} is required to access him.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Fortify;
+Tower Shield;
+Iceblade;
+Ice Trap;
+Freeze;
+Ice Prism;
+Balefrost;
+Natural Attack (Ice 115-225-335);
+Winter Moon;
+Frostbite;
+Colossus;
+Frost Giant;
+Snow Angel;
+
+| quests =
+
+| gold =
+969 - 1,145;
+
+| hats =
+Anubis' Crown of Judgment;
+
+| robes =
+
+| boots =
+Boots of the Burning Scales*F2;
+Desert Rain Mukluks
+
+| athames =
+Ammit's Claw of Revolution*F2*WMV;
+Athame of Burning Justice;
+Blade of the Krokapocrypha;
+Blade of the Soul Eater*F3;
+Dagger of the Hidden Words;
+Izft's Dirk of Incarnation;
+Pit Viper's Venom Blade;
+Rebus Breaker's Stylet*F2;
+Talon of the Duat Guardian*F3;
+
+| amulets =
+
+| rings =
+
+| wands =
+Anubis' Scathing Words;
+Anubis' Staff of Redress*F3;
+Book of Stinging Secrets;
+Condemned Codex of Havoc*F5*WMV;
+Eternal Verses of Anubis*F4;
+Forgotten Hieroglyphs Tome*F2;
+Grimoire of the Condemned;
+Hall of Justice Compendium*F3;
+Hands of Anubis Staff*F5*WMV;
+Rebus Breaker's Stave*F3*WMV;
+Rod of the Burning Scales*F8*WMV;
+Stave of the Devoured*F8*WMV;
+Wrath of Anubis Staff*F4*WMV;
+
+| decks =
+Anubis' Cards of Veracity*F5*WMV;
+Array of the Archaic Rebus*F4;
+Case of the Virtuous Soul*F3*WMV;
+Condemned Soldier's Arcana;
+Deck of Sand Squalls*F7*WMV;
+Deck of the Simmering Evil*F7*WMV;
+
+| items =
+Bronze Waves Wallpaper;
+Brown Waves Wallpaper*F3;
+Green Waves Wallpaper*F3*WMV;
+Grey Waves Wallpaper*F2;
+Stone Skeleton Key*CR*F6*WMV;
+
+| cards =
+Efreet*F3*WMV;
+Fire Serpent*F2*WMV;
+Krokotillian;
+Locust Swarm*F2;
+Ra*F2*WMV;
+Scarab*F2;
+Scorpion*F3*WMV;
+Stone Colossus*F6*WMV;
+Sunbird*F4;
+
+| reagents =
+Bone;
+Bronze Gear*F2;
+Leather Straps*F2*WMV;
+Mote of Severity*F3;
+Nickel;
+Spider Silk*F4;
+Tin;
+
+| spellements =
+
+| snacks =
+Gummy Firecat;
+Nettle Root*F3;
+Tiny Fish*F2;
+
+| jewels =
+Blemished Damage Citrine +12*F2*WMV;
+Dull Accurate Citrine +6%;
+Dull Blocking Citrine +3;
+Dull Critical Opal +1;
+Dull Damage Sapphire +13;
+Dull Piercing Citrine +2%;
+Health Boost Opal;
+Ice-Giver Sapphire;
+
+| pins =
+
+| pets =
+Ash Spider;
+Sailback Skink*F2;
+
+| seeds =
+Baby Carrots;
+Orange Bell Pepper*CR;
+Trumpet Vine;
+Venus Fly Trap*F2;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

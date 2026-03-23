@@ -1,0 +1,98 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 14,400
+| crecla = Shadow Shrike
+| school = Shadow
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+50%;
+
+| outboost =
+80% Balance;
+
+| incboost =
+15% Life, Balance;
+
+| incresist =
+30% Fire, Ice, Storm, Myth, Death, Shadow;
+
+| outhealing =
+
+| inchealing =
+-25%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Polaris
+| location = River of Frozen Tears
+| subloc1 = Omen's Hideout
+| descrip =
+Dark Fiend is a Minion to {{Link|Creature|Omen Stribog}}. All cheats, drops, and speech are recorded on that page.
+
+| spellnotes =
+
+| casts =
+Flawless;
+Vengeance;
+Balanceblade;
+Dragonblade;
+Chromatic Blast;
+Bladestorm;
+Mana Burn;
+Supernova;
+Gaze of Fate;
+Nested Fury;
+Judgement;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

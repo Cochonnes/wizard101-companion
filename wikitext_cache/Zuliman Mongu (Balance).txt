@@ -1,0 +1,116 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 8,400
+| crecla = Mongu
+| school = Balance
+| startpips = 3
+| powerpips = 
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minion = 
+| world = Mirage
+| location = Caravan
+| subloc1 = Mottoman Treasure Cave
+| descrip =
+Balance Wizards must defeat Zuliman Mongu during their Level 118 Spell Quest.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Balance Damage.
+
+| casts =
+Berserk;
+Elemental Shield (-55%);
+Spirit Shield (-55%);
+Dragonblade;
+Loremaster;
+Savage Paw;
+Power Nova (530);
+Ra;
+Judgement;
+
+| quests =
+Sand Wurm;
+
+| gold =
+366 - 505;
+
+| hats =
+Sand Sea Cowl of Ashes;
+Zruvan Helmet of Fury;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Sand Sea Hand of Hardiness;
+
+| items =
+Mirage Den of Thieves Theme;
+Mirage Desert Canyons Theme;
+
+| cards =
+
+| reagents =
+Agave Leaves;
+Astral Shard;
+Ectoplasm;
+Golden Pearl;
+Orichalcum;
+Steel;
+Sunstone;
+Tungsten;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Hard Boiled Beetle Eggs;
+Mustachios;
+
+| jewels =
+Shiny Defense Jade +51;
+Shiny Health Opal +113;
+Shiny Mana Opal +47*F2;
+
+| pets =
+
+| seeds =
+Bread Fruit Bush;
+Couch Potatoes*CR;
+Fortune Cookie Tree;
+Golden Couch Potatoes;
+Honey Bee Plant;
+Maelstrom Snap Dragon;
+Pink Huckleberries;
+Queen Crape Myrtle;
+
+| mounts =
+
+| spells =
+
+}}

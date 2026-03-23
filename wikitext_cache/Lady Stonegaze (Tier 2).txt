@@ -1,0 +1,129 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 4,500
+| crecla = Gorgon
+| school = Myth
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Fire;
+Storm;
+Myth;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+100%;
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Garden of Hesperides
+| subloc1 = Stonegaze's Chamber
+| badge = Gorgon Grappler
+| descrip =
+Lady Stonegaze (Tier 2) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Immortal's Spellemental Pack}}.
+*This Tier is for level 36-50 Wizards.
+
+| speech =
+
+| cheatnotes =
+*''"Mind your gaze, lest ye be turned to stone!"'' - Lady Stonegaze (Tier 2) gives a warning at the beginning of the first Round. 
+*{{Icon|Polymorph}} ''"Haha! Another statue for my garden!"'' - If a Wizard casts any Spell on Lady Stonegaze (Tier 2), including AoE Spells, she will Polymorph the Wizard into {{Link|Polymorph|Statue}} for 99 Rounds.
+**Polymorph has a deck of 77 Cards, all being {{Link|Spell|Pass}} Cards, except for one {{Link|Spell|Break Free (Myth)}} Card.
+**If Lady Stonegaze (Tier 2) was defeated by a Spell that is not from the Blindfolded Hits, she will use a Moon version of {{Link|Spell|Blessing}} to restore 100% max Health on herself.
+
+*{{Icon|Round}} At the end of every other Round, one of the following Spells is given to all Wizards who aren't Polymorphed:
+**{{GivesSpell|spells = 7|size = x150px|Blindfolded Hit (Balance, Tier 2)|Blindfolded Hit (Death, Tier 2)|Blindfolded Hit (Fire, Tier 2)|Blindfolded Hit (Ice, Tier 2)|Blindfolded Hit (Life, Tier 2)|Blindfolded Hit (Myth, Tier 2)|Blindfolded Hit (Storm, Tier 2)}}
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Mass Myth Trap;
+Mythic Fuel;
+Cyclops (Tier 3a);
+Athena Battle Sight (Tier 3a);
+Humongofrog;
+Hephaestus (Tier 3);
+Queen Calypso (Tier 3b);
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+
+| hats =
+Aquilan Secutor Kalkris (Level 50+)*CR;
+Aquilan Velite Kalkris (Level 50+)*CR;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Aquilan Charioteer Lance (Level 40+)*CR;
+
+| decks =
+
+| items =
+Ember Stone of Tartarus;
+Stone Skeleton Key*CR;
+Underworld Brazier;
+
+| cards =
+Azoth;
+Hephaestus;
+
+| reagents =
+Participation Trophy;
+
+| spellements =
+Athena Battle Sight;
+Hephaestus;
+Queen Calypso;
+
+| snacks =
+
+| jewels =
+Dull Blocking Sapphire +4;
+
+| pins =
+
+| pets =
+Enchanted Armament*CR;
+Li'l Siren*CR;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,208 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 3,920
+| crecla = Goat
+| school = Fire
+| school2 = Death
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+25%;
+
+| incboost =
+15% Ice, Life;
+
+| incresist =
+10% Storm, Myth, Death, Balance;
+15% Fire;
+
+| outhealing =
+6%;
+
+| inchealing =
+6%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Chilling Helper (Tier 1);
+Stormy Helper (Tier 1);
+
+| petbreed = Lump of Coal
+| world = Wizard City
+| location = Ravenwood
+| subloc1 = Krampusgarten
+| location2 = Colossus Boulevard
+| subloc2 = Krampusgarten
+| world2 = Celestia
+| location2-1 = Celestia Base Camp
+| subloc2-1 = Krampusgarten
+| world3 = Polaris
+| location3-1 = Walruskberg Harbor
+| subloc3-1 = Krampusgarten
+| badge = Had a Holly, Jolly Yuletide
+| descrip =
+Krampus is a Boss that appears during the Yuletide event. He is located in Krampusgarten, which requires a {{Link|House|Gold Skeleton Key}} to enter.
+*Minions can be any combination of Chilling Helper (Tier 1) and Stormy Helper (Tier 1).
+*This Tier is for level 1-50 Wizards.
+
+| speech =
+:''"Naughty, naughty. Krampus sees all!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Naughty naughty! Punctuality is a virtue!"'' - If a Wizard joins after the duel has started, Krampus will cheat-cast an enhanced version of Power Link on the Wizard.
+*{{Icon|Blade}} ''"A gift for Krampus? You shouldn't have!"'' - If a Wizard casts a [[:Category:Blade Spells|Blade]] Spell, he '''may''' cast a version of {{Link|Spell|Steal Charm (Shadow)}} that steals all Charms from the Wizard who cast the Blade.
+**He will occasionally cast this throughout the battle.
+**Pet Spells can trigger this cheat.
+*{{Icon|Feint}} ''"Naughty, naughty! Krampus see's all!"'' - If a Wizard casts a {{Link|Spell|Feint}} Spell, he will cast a version of [[:Spell:Cleanse Ward (Shadow, -All)|Cleanse Ward]] two times (which makes {{Link|Spell|Indemnity}} ineffective).
+*{{Icon|Round}} ''"Krampus is everywhere!"'' -  At the beginning of every third Round, he will cast a Shadow version of {{Link|Spell|Dimension Shift}} that transfers all negative hanging effects that are on him (i.e. [[:Category:Trap Spells|Traps]]) to a random friend or foe.
+*{{Icon|Round}} ''"'Tis the season of Krampus!"'' - At the beginning of Round 5, he will cast a Shadow Spell to summon any combination of Chilling Helpers and Stormy Helpers.
+**Whenever a Minion is defeated, he will resummon another one after one Round.
+
+| spellnotes =
+*The Lump of Coal Pet casts the Krampus Spell which acts like a Natural Attack.
+
+| casts =
+Infection;
+Sacrifice (500);
+Fire Cat (95-135);
+Fire Elf (55+240);
+Sunbird (345-405);
+Krampus (305-345);
+Ghoul (180);
+Banshee (285-345);
+Vampire (375);
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+0;
+
+| hats =
+Helm of the Furious Winter (Any Level)*CR;
+
+| robes =
+Raiment of Winter's Reign (Any Level)*CR;
+
+| boots =
+Queen's Color Guard Boots (Any Level)*CR;
+Royal Fusilier's Boots (Any Level)*CR;
+Winter Palace Spikeleaf Sword (Any Level)*CR;
+Yuletide Ceremonial Boots (Any Level)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Color Guard Wintergreen Blade (Any Level)*CR;
+Fusilier's Fireberry Saber (Any Level)*CR;
+Sleigh Bells Ringing (Any Level)*CR;
+Staff of the Krampus*F9;
+
+| decks =
+
+| items =
+Big Holiday Tree*CR;
+Blue Candy Canes;
+Blue Holiday Ornament;
+Carol of the Bells Theme;
+Dashing Reindeer Floor*CR;
+Deck the Halls Theme;
+Festive Yuletree;
+Fresh Powder Floor;
+Frosty Yuletree;
+Gingerbread Wall Icing*F2;
+Holiday Striped Wallpaper*F2;
+Holiday Wreath*CR;
+Jingle Bells Theme;
+Jubilant Yuletree;
+Krampus Wallpaper;
+Large Snowflake*F2;
+Lively Reindeer Decoration*CR;
+Majestic Reindeer Decoration*CR;
+Night Snow Wallpaper*F2;
+Novice's Socket Wrench*F3*WMV;
+Red Holiday Ornament;
+Red String Lights;
+Small Fir Tree*F2*WMV;
+Snowflake Rug*F2;
+Snowflake Wallpaper*CR;
+Snowman*CR*HOL*F2;
+Stone Skeleton Key*CR*F3*WMV;
+Tree Wrapped Gift;
+Wooden Skeleton Key*CR*F3;
+Yellow Holiday Ornament*F2;
+Yule Presents;
+Yuletide Jingle*F3;
+Yuletide Wood Paneling*CR;
+
+| cards =
+Azoth*F3;
+Evil Snowman;
+Fire Elf*F3*WMV;
+Ice Elf;
+Jolted Snowman;
+Krampus*F3;
+Lightning Elf*F2;
+Magma Man;
+
+| reagents =
+Black Coal*F23*WMV;
+Participation Trophy;
+Silver;
+
+| spellements =
+Krampus*F4;
+Reindeer Knight*F4;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Fire Beetle*F2;
+Fire Elf*F2;
+Fire Snowman;
+Frost Beetle;
+Grumpy Snowman;
+Ice Elf;
+Lump of Coal;
+Maple Moose*CR;
+Storm Elf*F2;
+Storm Snowman;
+
+| seeds =
+Green Snow Apples*F2;
+Happy Holidaisy*CR*HOL*F3*WMV;
+Missile Toe*HOL;
+Point Setta*HOL*F2*WMV;
+Purple Snow Apples*F3*WMV;
+Snow Apples*F2;
+
+| mounts =
+Blue Candy-Cane*1*HOL;
+Green Candy-Cane*1*HOL;
+Red Candy-Cane*1*HOL;
+Red Candy-Cane*PERM*HOL;
+
+| spells =
+
+}}

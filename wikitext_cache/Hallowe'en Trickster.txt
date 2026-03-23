@@ -1,0 +1,151 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 500
+| crecla = Undead
+| school = Fire
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Ice;
+
+| incresist =
+50% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Rotting Fodder;
+
+| world = Wizard City
+| location = Ravenwood
+| subloc1 = Hallowe'en Apprentice Tower
+| descrip =
+The Hallowe'en Trickster is the Boss in the Hallowe'en Apprentice Tower during {{Link|Basic|Hallowe'en}}.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+In life, he was known as the Hallowe'en Treatster. In everlasting undeath, he haunts towers and hands out mini raisin boxes on Hallowe'en.
+
+| extract class =
+Undead;
+
+| summon animus = 6
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Fire Cat;
+Flamesnake;
+Imp;
+Blood Bat;
+Natural Attack (Wraith);
+
+| quests =
+
+| dropnotes =
+The Black Cat Treasure Card is a guaranteed drop from this Boss.
+
+| gold =
+27 - 49;
+
+| hats =
+Helm of Stability;
+
+| robes =
+Chillcloak;
+Cloak of Calamity;
+Cloak of Foresight;
+Senior Novice's Robe;
+Twice Stitched Robe;
+
+| boots =
+Boots of the Adverse;
+Explorer Boots;
+Novice's Shoes;
+Plated Boots;
+Sturdy Boots;
+
+| athames =
+Simple Dirk;
+
+| amulets =
+
+| rings =
+Flawed Opal Band;
+
+| wands =
+Lollipop Wand;
+Mean Pumpkin Staff*CR*HOL;
+Sad Pumpkin Staff*CR*HOL;
+Symmetrical Wand;
+
+| decks =
+
+| items =
+Spooky Bob;
+
+| cards =
+Black Cat*F13*WMV;
+Fire Cat;
+Frost Beetle;
+Ghoul*F3;
+Keen Eyes;
+
+| reagents =
+Bone;
+Pyrite*F2;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry*F2*WMV;
+Cheese Broccoli;
+Chocolate Strawberry*F2;
+Gummy Firecat*F2*WMV;
+Sugar Donut*F2;
+
+| jewels =
+Cracked Accurate Citrine +1%;
+Cracked Accurate Onyx +1%;
+Cracked Defense Jade +4*F2;
+Cracked Defense Sapphire +4;
+Cracked Healing Opal +1%;
+Cracked Mana Opal +4;
+Cracked Mending Opal +1%;
+
+| pins =
+
+| pets =
+
+| seeds =
+Honey Sickle;
+
+| mounts =
+
+| spells =
+
+}}

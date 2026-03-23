@@ -1,0 +1,265 @@
+{{Stub|which version of the '''Mutate''' ''Treasure Cards'' dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 6,440
+| crecla = Conscript
+| crecla2 = Undead
+| school = Storm
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+7%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Myth;
+
+| incresist =
+30% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Durvish Seeker;
+
+| world = Mirage
+| location = Caterwaul Canyons
+| subloc1 = Buried Gardens
+| descrip =
+
+| speech =
+:''"Hello. I know Cosrow didn't let you waltz in here, so you must have defeated him. Ah, you're the Wizard the Overlord warned us about. Yes, I believe he has special plans for you... but what are you doing here? The Chronoshard? That old thing? Why? It's worthless. I would simply give it to you, but my orders are to bring back everything to the Overlord. In fact, perhaps I'll bring you back as well..."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Mirage
+| tome description =
+In life, Ephialtes achieved the highest military rank and the best assignment. In the centuries since his death, he's just been coasting.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Flawless;
+Outpouring;
+Thermic Shield (-75%);
+Healing Current (325);
+Stormblade;
+Storm Trap (+35%);
+Storm Serpent (230);
+Natural Attack (Storm 125-250-375, 65%);
+Catalan;
+Morganthe's Angst;
+Leviathan;
+Sirens (965);
+
+| quests =
+The Agouti Chronoshard;
+
+| gold =
+173 - 408;
+
+| hats =
+Aridian Helm of Dunestorms;
+Aridian Helm of Thriving;
+Wayfarer's Fez of Grit;
+Wayfarer's Fez of Intent;
+
+| robes =
+Rubal Khalat of Bitterness;
+Wayfarer's Cold Snap Khalat;
+Wayfarer's Khalat of Repine;
+
+| boots =
+Rubal Thunder Babouches;
+Wayfarer's Scirocco Galesh;
+
+| athames =
+Rubal Janbiya of Competence;
+
+| amulets =
+Rubal Locket of Formation;
+Rubal Necklace of Illusions;
+Viper Sunstoke Talisman;
+Viper Talisman of Dunestorms;
+Viper Talisman of Splendor;
+
+| rings =
+Rubal Band of Competence;
+Viper Ring of Reflection;
+Viper Ring of Sunstoke;
+Viper Ring of Thriving;
+
+| wands =
+Alkali Bow of Vibrancy;
+Alkali Bow of Withering;
+Conscript Tabar of Ague;
+Conscript Tabar of Embers*F2*WMV;
+Conscript Tabar of Havoc;
+Conscript Tabar of Zeal;
+Electrified Restrictor Wand;
+Restrictor Wand of Destiny;
+Restrictor Wand of Embers;
+Restrictor Wand of Vitality;
+
+| decks =
+Rubal Cards of Action;
+Viper Cards of Numbing;
+Viper Cards of Strife;
+Viper Cards of Thriving;
+
+| items =
+
+| cards =
+Mutate Beetle (Fire);
+Mutate Colossus (Fire);
+Mutate Helephant (Storm);
+Mutate Kraken (Sun);
+Mutate Phoenix;
+Mutate Serpent;
+Mutate Shark (Fire);
+Mutate Snake (Ice);
+Mutate Swarm (Ice);
+Sandstone Colossus;
+Yellow Troll;
+
+| reagents =
+Ancient Scroll;
+Antique Coins*F2;
+Black Pearl;
+Blood Moss*F2*WMV;
+Brass*F2;
+Bronze Gear*F3*WMV;
+Cobalt*F5*WMV;
+Ectoplasm;
+Nickel*F2;
+Scales*F2*WMV;
+Spider Silk;
+Spring*F2*WMV;
+Tin;
+Turmeric*F5*WMV;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Beast Wellington;
+Beetle Cream Soda*F2*WMV;
+Chalupacabra*F3*WMV;
+French Fries;
+Gourmet Yogurt;
+Hard Boiled Beetle Eggs;
+High Road Haggis;
+Hot Cross Buns;
+Mustachios*F2;
+Rhubarbed Wire;
+Satyr Chow;
+Ships 'n' Queso;
+Super Cold Popsicle;
+Veggie Juice;
+
+| jewels =
+Chastisement Opal;
+Lustrous Critical Citrine +13;
+Lustrous Critical Jade +13;
+Polished Accurate Sapphire +10%;
+Polished Blocking Peridot +11;
+Polished Damage Jade +21;
+Polished Defense Amethyst +42;
+Polished Health Opal +86;
+Polished Health Opal +89;
+Polished Health Opal +92;
+Polished Health Opal +95*F2*WMV;
+Polished Mana Opal +37*F3*WMV;
+Polished Mana Opal +38;
+Renew Opal;
+Shiny Blocking Citrine +16;
+Shiny Blocking Hematite +16;
+Shiny Blocking Peridot +16;
+Shiny Blocking Ruby +16;
+Shiny Critical Citrine +16;
+Shiny Damage Amethyst +26;
+Shiny Damage Ruby +26;
+Shiny Defense Amethyst +51;
+Shiny Defense Hematite +51;
+Shiny Defense Onyx +50;
+Shiny Health Opal +111;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak;
+Angora Bunny Ears;
+Baby Carrots;
+Bell Pepper*F2;
+Blue Huckleberries;
+Boiled Peanuts*F2*WMV;
+Boom Shroom;
+Boon Tree*CR;
+Bread Fruit Bush*F4*WMV;
+Cornbread Fruit Bush*F2*WMV;
+Couch Potatoes*CR*F2;
+Dandelion;
+Deadly Fly Trap;
+Desparagus (Seed);
+Evil Snow Peas;
+Fickle Pickle;
+Fish on a Vine*F3*WMV;
+Frozen Fly Trap;
+Grapes of Wrath*CR;
+Honey Bee Plant;
+Ivy League*CR;
+Key Limes*CR;
+King Parsley*CR;
+Maltese Tiger Lily*F4*WMV;
+Melting Cheese Tree;
+Missile Toe;
+Moon Flower*F2;
+Pink Huckleberries*F4*WMV;
+Pink Laugh-O-Dil;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Red Bell Pepper;
+Red Couch Potatoes*F3*WMV;
+Red Grapes of Wrath;
+Red Huckleberries*F6*WMV;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Sour Fickle Pickle;
+Tiger Lily (Seed);
+White Desparagus;
+White Laugh-O-Dil;
+White Tiger Lily;
+Yellow Bell Pepper*F2;
+
+| mounts =
+
+| spells =
+
+}}

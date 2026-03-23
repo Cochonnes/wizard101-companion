@@ -1,0 +1,101 @@
+{{Admin|Should this page be split based on varying health values?}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 500 or 800
+| crecla = Celestian
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+25% Death;
+
+| incresist =
+25% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Celestia
+| location = Trial of the Spheres
+| subloc1 = Sanctum of the Stars
+| descrip =
+*These Bosses are Minions to {{Link|Creature|Astraeus}}. All drops should be recorded on that page.
+*These Bosses have different amounts of health depending on the number of Wizards in the duel.
+**If two or less Wizards are present, their health will be 500.
+**If three or more Wizards are present, their health will be 800.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 90 Life Damage per Pip.
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Sprite;
+Lifeblade;
+Life Trap;
+Leprechaun;
+Seraph;
+Troll;
+Fire Elf (50+210);
+Kraken;
+
+| quests =
+Trial of the Spheres;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

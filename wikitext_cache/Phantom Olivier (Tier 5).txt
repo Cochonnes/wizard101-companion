@@ -1,0 +1,104 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 5,760
+| crecla = Wizard
+| school = Fire
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+9%;
+
+| outboost =
+50%;
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable =
+| beguilable = 
+| minions =
+Phantom Kenneth (Tier 5);
+
+| world = Housing Instance
+| location = Playhouse
+| subloc1 = Playhouse (Tier 5)
+| descrip =
+Phantom Olivier (Tier 5) is considered a Boss for the purpose of drops.  All drops from this duel are recorded on this page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Fireblade;
+Fire Trap;
+Wyldfire;
+Fire Shark;
+Meteor Strike;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Efreet;
+
+| quests =
+
+| gold =
+0 - 73;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Dragon Claw;
+
+| cards =
+Fire Dragon;
+
+| reagents =
+Perfect Citrine;
+Peridot;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

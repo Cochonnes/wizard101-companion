@@ -1,0 +1,162 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,440
+| crecla = Raven
+| school = Death
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Life;
+
+| incresist =
+70% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Moonstrider Guard;
+
+| world = Grizzleheim
+| location = Mirkholm Keep
+| subloc1 = Wolf Palace
+| descrip =
+Munin Mistweaver is a member of {{Link|Creature|The Coven}}.  He is sent by The Coven to deceive the [[NPC:Varik Icefang|Wolf King]] into a war with the Bears.  This is the first fight encounter with him.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Weakness;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Vampire;
+Skeletal Pirate;
+Natural Attack (Death 85x);
+Fire Elf;
+Storm Shark;
+Ice Wyvern;
+
+| quests = 
+All is Revealed;
+
+| gold =
+53 - 83;
+
+| hats =
+Crown of Hardiness;
+Hood of the Frostwyrm*F3*WMV;
+Penumbra Cowl;
+Tornadic Hat*F4;
+
+| robes =
+Arctic Robe;
+Coat of the Stormy Seas*F4*WMV;
+Coat of Utility;
+Drape of Magnitude;
+Jerkin of the Rime;
+Longcoat of the Librarian*F2*WMV;
+Maelstrom Vestment*F2;
+Mythologist's Raiment;
+Survivalist's Tunic;
+Terminal Robe*F2*WMV;
+Wrap of the Leaping Flame*F4*WMV;
+Wrap of the Woods;
+
+| boots =
+Conservator's Footgear;
+Flaring Footgear*F2;
+Fountain Waders;
+Scorched Footwraps;
+Wild Rover's Boots;
+Woodbark Footwraps*F2*WMV;
+Wraps of the Eddy*F4*WMV;
+
+| athames =
+Ember Blade;
+Glyph-Etched Knife;
+Poniard of the Last Rune;
+Shortblade of Valor;
+
+| amulets =
+
+| rings =
+Burnished Band;
+Frostward Seal*F3*WMV;
+Ice Crystal Loop;
+
+| wands =
+
+| decks =
+Deck of the Lotus;
+
+| items =
+Tanglebrush;
+
+| cards =
+Sandstorm;
+Skeletal Pirate;
+Tough;
+
+| reagents =
+Bone*F3*WMV;
+Brass;
+Copper*F3;
+Ectoplasm*F3;
+Iron*F2;
+Pyrite*F3;
+
+| spellements =
+
+| snacks =
+Cheese;
+Diamond Carrot;
+Flaming Jalapeno*F2;
+Fries;
+Glowing Rock Candy*F2*WMV;
+Green Banana;
+Heavenly Bubblegum;
+Meat Soup;
+Moon Pie*F4*WMV;
+Tasty Biscuit*F2*WMV;
+
+| jewels =
+Chipped Defense Citrine +13;
+Chipped Defense Peridot +13;
+Cracked Damage Amethyst +6;
+Cracked Defense Ruby +9;
+Dream Shield Onyx;
+Myth-Boon Peridot;
+Thermic Shield Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Bread Fruit Bush;
+Helephant Ears*F2;
+Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

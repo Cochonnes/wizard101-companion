@@ -1,0 +1,101 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 12,000
+| crecla = Wyrm
+| school = Ice
+| school2 = Storm
+| startpips = 2
+| powerpips = Yes
+| schoolpips =
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Darkmoor 
+| location = Scholomance
+| subloc1 = Heretical Academy (Standard)
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Darkmoor
+| tome description =
+Can change the weather with his mind, so long as all his minds agree on what to change it to.
+
+| extract class =
+Wyrm;
+
+| summon animus = 20
+| summon gold = 1000
+| guest animus = 30
+| guest gold = 2,500
+}}
+| spellnotes =
+Casts a Natural Attack for 7 pips that deals 400 Ice Damage to all wizards
+
+| casts =
+Iceblade;
+King Artorius (Ice) (Tier 3b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

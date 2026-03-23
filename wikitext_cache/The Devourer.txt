@@ -1,0 +1,243 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 80,000
+| crecla = Wyrm
+| school = Shadow
+| masteries =
+Fire;
+Ice;
+Storm;
+Myth;
+Life;
+Death;
+Balance;
+
+| cheats = Yes
+| shadowslots = 5
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+22%;
+
+| outboost =
+200%;
+
+| incboost =
+5% Life, Balance;
+
+| incresist =
+70% Fire, Ice, Storm, Myth, Death, Sun, Moon, Star, Shadow;
+
+| outhealing =
+50%;
+
+| inchealing =
+50%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Acrid Bile;
+Hazardous Bile;
+Pestilient Bile;
+Noxious Bile;
+Poison Bile;
+Seething Bile;
+Toxic Bile;
+
+| world = Wizard City
+| location = The Catacombs
+| subloc1 = Edge of the Spiral
+| badge = The Undevoured
+| lootchest = Devourer's Chest
+| descrip =
+The Devourer is the final Boss of the Catacombs storyline.
+*As a Monstrology Summon, The Devourer has only 25,000 Health.
+
+| speech =
+:''"Shriek!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+Literally eats everything - animals, plants, the abstract concept of love. Everything.
+
+| extract class =
+Wyrm;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} If a Wizard joins the battle late, The Devourer will "devour" the Wizard and trigger the below cheat.
+*{{Icon|Round}} At the start of the first Round, he casts a Sun Spell to summon 3 of any of the following Minions:
+**{{Link|Creature|Acrid Bile}} - Fire
+**{{Link|Creature|Pestilient Bile}} - Ice
+**{{Link|Creature|Seething Bile}} - Storm
+**{{Link|Creature|Noxious Bile}} - Myth
+**{{Link|Creature|Poison Bile}} - Life
+**{{Link|Creature|Toxic Bile}} - Death
+**{{Link|Creature|Hazardous Bile}} - Balance
+*{{Icon|Feint}} ''"<SHRIEK!>"'' - If a Feint is placed on him, The Devourer will cast Shadow version of {{Link|Spell|Cleanse Ward (-2)}} on himself which removes the last two Traps placed.
+**This can be avoided by using {{Link|Spell|Indemnity}}.
+**The balance version of {{Link|ItemCard|Feint}} does not trigger this cheat.
+
+{{Icon|Round}} '''Devour Cheat'''
+*After the first Round, and once more after the sixth, he will cast a Natural Attack that "devours" a random Wizard.
+**The Natural Attack removes all unprotected Wards, Charms, and Auras from the Wizard.
+**After being devoured, the Wizard will lose their combat interface and will be forced to pass for the duration of the idle timer. The Wizard is not able to be targeted and gains no Pips during this state.
+**Three rounds later, during his turn, he will cheat cast an AoE Shadow Natural Attack for '''1,500''' Shadow Damage, and return the devoured Wizard to combat.
+**He will then summon one of the above Minions.
+
+{{Icon|Round}} '''Interrupt Cycles'''
+*At the beginning of every third round, if a positive Charm is present on any wizard, The Devourer will cast an AoE version of {{Link|Spell|Steal Charm (Shadow)}} that steals one positive Charm.
+*At the end of every fifth Round, if a negative ward is present on himself, The Devourer will cast a Shadow version of Cleanse Ward on himself, which will remove all Traps.
+**For each Trap he removes, he will add a protected {{Link|Spell|Balanceblade (+100%)}} to his Minions or himself.
+***Indemnity-Protected Traps will result in two Blades being added.
+
+| spellnotes =
+*Casts a protected Bladestorm.
+
+| casts =
+Brace;
+Frenzy;
+Quicken;
+Legion Shield (-35%);
+Smoke Screen (-45%);
+Virulent Plague;
+Weakening Mantle;
+Steal Health (Shadow);
+Minor Blessing (145);
+Bladestorm;
+Steal Pips;
+Cleanse Ward (Life);
+Pierce;
+Shatter;
+Enfeeble (2 Pip);
+Death Scarab (Shadow);
+Colossafrog (Shadow);
+Spectral Blast (Shadow);
+Sand Wurm (Shadow);
+Minotaur (Shadow);
+Power Nova (Shadow);
+Chimera (Shadow);
+Mystic Colossus;
+Call of Khrulhu;
+Glowbug Squall;
+Wings of Fate;
+Raging Bull;
+Shadow of Fate;
+Nested Darkness;
+Snowball Barrage;
+
+| quests =
+Tempus Fugitives;
+To Face The Devourer;
+
+| gold =
+1,059 - 2,462;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+Dragonspyre Soldier's Ring;
+Dragonspyre Vanguard's Ring;
+Soldier's Balanced Ring*F2;
+Soldier's Deadly Ring;
+Soldier's Mythic Ring;
+Vanguard's Deadly Ring;
+Vanguard's Fiery Ring;
+Vanguard's Icy Ring;
+Vanguard's Mythic Ring;
+
+| wands =
+Soldier's Deadly Longsword;
+Soldier's Icy Battle Axe;
+Vanguard's Balanced Sword;
+Vanguard's Mythic Sword;
+Vanguard's Shocking Sword;
+
+| decks =
+
+| items =
+Crab Alley Chaise;
+Fish;
+Roasted Drumstick;
+Watermelon Slice;
+WC Catacombs Combat Theme;
+WC Catacombs Theme;
+WC Drains Combat Theme;
+WC Elsewhere Combat Theme;
+
+| cards =
+Darkwind;
+Donate Power;
+Doom and Gloom*F2;
+Mutate Snowman (Fire);
+Mutate Snowman (Storm);
+Sanctuary;
+
+| reagents =
+Alchemical Crystals;
+Alchemical Extract*F2;
+Alchemical Salts*F2;
+Brass;
+Fish Fin*F2;
+Fossil;
+Sandstone;
+Scales;
+Shell;
+Spider Silk;
+Sunstone;
+Tin;
+
+| spellements =
+Daybreaker;
+Nightbringer;
+
+| snacks =
+Cherry Pie;
+Hot Cross Buns*F2;
+Pizza;
+Rock and Roll Candy;
+Satyr Chow;
+Sprinkle Cupcake*F2;
+Squash;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Dandelion;
+Maltese Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,238 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 5,910
+| crecla = Gorilla
+| school = Star
+| masteries =
+Fire;
+Myth;
+Life;
+Balance;
+
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gorilla Spider Witch;
+
+| world = Zafaria
+| location = Drum Jungle
+| subloc1 = Kallah Silverback's Shack
+| descrip =
+Kallah Silverback is the leader of the Gorillas, and trusted lieutenant of the [[NPC:Morganthe|Umbra Queen]], in the Drum Jungle.
+
+| speech =
+:''"How did you get in here? Why aren't you stuck to a web, having the life bled out of you? I'll just have to toss the spiders your carcass!"''
+:''"Your unaltered spells won't even scratch my fur!"''
+
+| cheatnotes =
+*''"Your school magic barely tickles me!"'' - If a Wizard casts a single-target Damage Spell on Kallah without a Prism, then he will interrupt-cast {{Link|Spell|Minor Blessing}} on himself.
+**Pet Spells will not trigger his cheat.
+*''"Oof. I wasn't expecting that!"'' - If a Prism is on Kallah when attacked by any single-target Damage Spell, then he will hit himself with an Ice Blast for 500 Damage of an unknown School of Magic, and then remove one Prism from himself.
+**This cheat will activate even if the Prism that is active on Kallah is not used up by the Damage Spell.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Star Damage for 1 Pip.
+*Deals 280 Star Damage for 3 Pips maximum.
+
+| casts =
+Amplify;
+Fortify;
+Elemental Shield;
+Smoke Screen;
+Quench;
+Satyr;
+Elemental Blade;
+Elemental Trap;
+Natural Attack (Star 85-X Pips);
+Meteor Strike;
+Spectral Blast;
+Hydra;
+Power Nova;
+Medusa;
+
+| quests =
+Knockin On Kallah's Door;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Celestia Badges|Astrologist]]''' {{Icon|Astrologist}} Badge and has not unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge, the following drops will be available:
+*5 Spellements will drop each time for their respective rank 4-8 Spells.
+
+| gold =
+85 - 123;
+
+| hats =
+Bushfire Hat;
+Cold At Night Cover*F3*WMV;
+Courageous Grower's Hat;
+Hood of Chieftain's Honor;
+Hot-Tempered Chieftain's Mask;
+Mantle of the Grasslands*F4*WMV;
+River Captain's Hood*F2;
+Turban of the Olyphants;
+
+| robes =
+Cloak of Dreaming Medicine*F5*WMV;
+Robes of the Cold Night*F2;
+Shaman's Winter Protection;
+Storm Caller's Outfit;
+Tunic of Darajani Honor;
+
+| boots =
+Baxby's Noble Trackers;
+Dancing Queen Dancers*F2;
+Hot and Cold Crushers*F2*WMV;
+Nemean Rock Climbers*F3*WMV;
+Stone Town Storm Trackers;
+
+| athames =
+Striped Skewer*F2*WMV;
+
+| amulets =
+Shining Shard Charm;
+
+| rings =
+Aryanah's Golden Loop;
+Nergal's Burning Brand;
+Shaka's Lightning Loop*F4*WMV;
+
+| wands =
+Staff of Solomon;
+
+| decks =
+Bundle of Eternal Flame;
+Chieftain's Smiling Deck;
+Hand-Chased Box of Destiny;
+Hand-Chased Box of Winter;
+
+| items =
+Zafaria Morganthe Theme*F3*WMV;
+
+| cards =
+Empower*F6*WMV;
+Gargantuan*F3*WMV;
+Infallible;
+Polymorph Colossus*F2;
+Polymorph Elemental (Fire);
+Stun Block;
+Unstoppable*F2*WMV;
+
+| reagents =
+Bone*F2*WMV;
+Bronze*F4;
+Ectoplasm*F3*WMV;
+
+| spellements =
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops Minion*BR;
+Earth Walker*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*BR;
+Ice Wyvern*BR;
+Immolate*BR;
+Kraken*BR*F2;
+Leviathan*BR;
+Medusa*BR;
+Minotaur*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Ra*BR*F2;
+Rebirth*BR*F2;
+Scarecrow*BR;
+Seraph*BR;
+Skeletal Dragon*BR;
+Skeletal Pirate*BR;
+Snow Angel*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Stormzilla*BR;
+Triton*BR*F2;
+Vampire*BR;
+Wraith*BR;
+
+| snacks =
+Buttered Bread;
+Cauliflowers;
+Delicious Cookie*F2*WMV;
+Dr. Jalapeno;
+Flapjacks;
+Glowing Star Fruit*F2;
+Glowing Taffy;
+Goat Cheese*F2;
+Golden Apple*F2*WMV;
+Kola Nuts*F2*WMV;
+Salmonberry;
+Spicy Drumstick;
+Submarine Sandwich;
+Uni-Corn;
+
+| jewels =
+Balance-Off Citrine;
+Canny Opal;
+Infallible Opal*F3*WMV;
+Opaque Accurate Peridot +8%;
+Opaque Accurate Sapphire +8%;
+Opaque Defense Peridot +33;
+Plain Defense Citrine +32;
+Power Nova Citrine;
+Ultra Boost Opal;
+Vengeance Opal*F2;
+
+| pins =
+
+| pets =
+Leopard*CR;
+Skink*F2*CR;
+
+| seeds =
+Baby Carrots;
+Cornbread Fruit Bush;
+Deadly Fly Trap;
+Evil Snow Peas*F2*WMV;
+Helephant Ears;
+Key Limes*CR*F2;
+Orange Bell Pepper*CR;
+Orange Dandelion*F2*WMV;
+Red Bell Pepper;
+Snap Dragon*F2;
+Venus Fly Trap;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

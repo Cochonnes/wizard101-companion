@@ -1,0 +1,163 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 17,325
+| crecla = Spider
+| school = Ice
+| school2 = Life
+| startpips = 4
+| powerpips = Yes
+| cheats = Yes
+| critical =
+352 Any;
+
+| criticalblock =
+140 Any;
+
+| outpierce =
+10%;
+
+| outboost =
+87%;
+
+| incboost =
+30% Fire;
+
+| incresist =
+33% Storm, Myth, Life, Death, Balance, Shadow, Sun, Star, Moon;
+63% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Huntsman Spider (Balance);
+
+| world = Wallaru
+| location = Kingsland
+| subloc1 = Kanga Guru Shrine
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wallaru
+| tome description =
+Hunts faster than the speed of light by connecting to a dimension of pure hunting called the Huntforce.
+
+| extract class =
+Spider;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Charm}} ''"Hunter's Web!"'' - If a Wizard casts a positive Charm, Zolomon will cast a {{Link|Spell|Weakness}} on the receiver.
+*{{Icon|Round}} ''"Spiders of the Multiverse!"'' - At the beginning of every third Round, Zolomon will cast one of the following on a random Wizard:
+**{{Link|Spell|Black Widow}}
+**{{Link|Spell|Clockwork Spider (325)}}
+**{{Link|TreasureCard|Crystal Spider}}
+**{{Link|Spell|Infestation (Tier 2)}}
+**{{Link|Spell|Luminous Weaver (Tier 2b)}}
+
+| spellnotes =
+
+| casts =
+Empowerment;
+Legion Absorb;
+Balanceblade (+30%);
+Bladestorm (+25%);
+Evil Snowman (Tier 3b);
+Frostbite;
+Snow Angel (85+565);
+Hunting Wyrm;
+Centaur (Tier 3a);
+Spinysaur;
+
+| quests =
+Wrong Place, Wrong Shrine;
+
+| gold =
+6 - 37;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Adventurer's Pack*CR*F5;
+Wallaru Doom Moon Theme;
+Wallaru Outback Combat Theme;
+
+| cards =
+Basilisk;
+Chimera;
+Death Trap;
+Deathblade;
+Iceblade;
+Mythblade;
+Rain of Fire;
+Spirit Trap;
+Storm Owl;
+Storm Trap;
+Sun Serpent;
+
+| reagents =
+Bronze Gear;
+Leather Straps;
+Merle's Whisker;
+Nickel;
+Platinum;
+Pyrite;
+Silver;
+Steel;
+Tin;
+Turmeric;
+
+| spellements =
+
+| snacks =
+Atomic Fireball;
+Bell Pepper Steak;
+Golden Biscuit;
+Lava Soup;
+Surfin' Turf*F2*WMV;
+Venison Chili;
+Wild Strawberry;
+Wrath's Grape Juice;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

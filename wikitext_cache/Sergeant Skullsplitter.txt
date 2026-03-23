@@ -1,0 +1,205 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 470
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+-30%;
+
+| incboost =
+10% Life;
+
+| incresist =
+40% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Scarlet Screecher;
+
+| world = Wizard City
+| location = Triton Avenue
+| subloc1 = Skull Fort
+| descrip =
+Sergeant Skullsplitter is a Boss in Triton Avenue.  He has stolen a scrapbook from {{Link|NPC|Sandor Spitfire}}, a cousin of {{Link|NPC|Sylvia Drake}}, who requests that Wizards retrieve it from the thieving skeleton. The Sergeant's Damage values are reduced by 30% from normal (and his Minion's by 50%), so the battle isn't too difficult for novice Wizards.<br/><br/>Two additional Scarlet Screecher Minions appear if more than two Wizards are present.<br/><br/>
+Prior to the 2021 FTUE updates, the Quest involving Sergeant Skullsplitter had him stealing Sylvia Drake's scrapbook from {{Link|NPC|Gloria Krendell}}.  The Monstrology Tome description was not changed from the [[Quest:Sylvia Drake|original Quest]].<br/>
+
+| speech =
+:''"So, you've come for the scrapbook that belonged to Malistaire's wife, eh? Pity she caught that cold and died... Well, I won't allow you to have it! I will deny him any kindness after what he denied me in life! As for you, Wizard... prepare to join the ranks of the Undead and serve me!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+Seething with anger towards Malistaire, he stole Sylvia Drake's scrapbook from Gloria Kendrell.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Death Trap;
+Dark Sprite;
+Ghoul;
+Scarab;
+Fire Cat;
+Thunder Snake;
+ 
+| quests =
+A Scrap of Trouble;
+
+| gold =
+8 - 26;
+
+| hats =
+Bloomshroud;
+Cap of Advantages;
+Charged Cover*F2*WMV;
+Cowl of the Discreet*F6*WMV;
+Cowl of Wisdom;
+Double Sided Hat;
+Elven Storm Cap*CR;
+Fairy Cap;
+Flametouched Hat;
+Frostshroud*F3*WMV;
+Fur-Lined Hood*F2*WMV;
+Hardened Cap*F7*WMV;
+Hat of Eradication;
+Helm of Audacity*F2;
+Hood of Storms;
+Hood of Tension*F2*WMV;
+Imp Lord's Helm*F2*WMV;
+Venomous Cowl*F7*WMV;
+Wondershroud*F3*WMV;
+
+| robes =
+Antique Overshirt;
+Armored Tunic;
+Ashen Cloak;
+Chillcloak;
+Cloak of Vigilance*F3;
+Firestorm Vestment*F2*WMV;
+Frostshroud;
+Raiment of Storms;
+Robe of All Trades;
+Robe of Embers*F9*WMV;
+Robe of the Blizzard*F2;
+Roughspun Robe*F3*WMV;
+Senior Novice's Robe*F2;
+Shimmering Cloak*F2*WMV;
+Stormcaller's Robe;
+Vestment of Panic*F3*WMV;
+Vrixx's Verdant Robes;
+
+| boots =
+Antique Footguards*F5*WMV;
+Boots of Embers*F8*WMV;
+Fireguard Slippers*F2*WMV;
+Footwraps of Seasons;
+Hardened Boots*F2;
+Sapphyra's Studded Boots;
+Senior Novice's Shoes*F2;
+Slippers of Excitement;
+Stormcaller's Boots;
+Symmetrical Shoes*F4*WMV;
+
+| athames =
+Chipped Knife;
+Dulled Athame*F8*WMV;
+Knife of Winter*F2*WMV;
+Studded Knife;
+
+| amulets =
+Flash Frozen Choker;
+
+| rings =
+Engraved Amethyst Ring;
+Engraved Citrine Ring;
+Engraved Jade Ring*F3*WMV;
+Engraved Onyx Ring;
+Engraved Peridot Ring;
+Engraved Ruby Ring;
+Lord's Signet*F2*WMV;
+Skullsplitter's Signet*F3*WMV;
+
+| wands =
+Fairy's Wand;
+Insulated Wand;
+
+| decks =
+
+| items =
+Dark Stone Tower;
+Prop House 1;
+Small Orange Symbol Rug*F3*WMV;
+Triton Statue*F5*WMV;
+
+| cards =
+Banshee*F5*WMV;
+Death Trap;
+Fire Cat;
+Fire Shield;
+Frost Beetle;
+Guiding Light;
+Imp*F2*WMV;
+Keen Eyes*F3*WMV;
+Lightning Bats;
+Locust Swarm;
+Pixie;
+Snow Serpent;
+Snow Shield;
+Storm Shield;
+Thunder Snake;
+Time of Legend*F2*WMV;
+Tough*F3*WMV;
+Troll;
+
+| reagents =
+Bone;
+Ectoplasm*F3*WMV;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry*F4*WMV;
+Cheese Broccoli*F4*WMV;
+Chocolate Strawberry*F4*WMV;
+Gummy Firecat*F3*WMV;
+Sugar Donut*F2*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Honey Sickle;
+
+| mounts =
+
+| spells =
+
+}}

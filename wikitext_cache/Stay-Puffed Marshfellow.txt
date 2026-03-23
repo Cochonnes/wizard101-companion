@@ -1,0 +1,312 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 51,200
+| crecla = Marshfellow
+| school = Fire
+| school2 = Shadow
+| startpips = 5
+| powerpips = Yes
+| cheats = Yes
+| shadowslots = 2
+| outpierce =
+34%;
+
+| outboost =
+163.25%;
+
+| incboost =
+5% Ice, Balance;
+
+| incresist =
+70% Fire, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minion = Marshfellow (Death)
+| minion2 = Marshfellow (Myth)
+| minion3 = Marshfellow (Balance)
+| world = Karamelle
+| location = Nibbleheim Mines
+| subloc1 = Skeleton Key - Marshmellow Critter
+| badge = Crossed the Streams
+| descrip =
+Stay-Puffed Marshfellow is a Stone Key Boss in the Skeleton Key - Marshmellow Critter instance.
+
+| speech =
+
+| cheatnotes =
+'''Stay-Puffed Marshfellow'''
+*{{Icon|Late}} ''"Fun for everyone!"'' - If a Wizard is late to combat, Stay-Puffed Marshfellow will cast S'more Machine (Tier 3a) on the Wizard.
+**{{Link|Spell|Quench}} can be used to dispel this cheat.
+*{{Icon|Damage over Time}} ''"Hot Potato!"'' - At the beginning of the first Round and every four Rounds, Stay-Puffed Marshfellow will cast a Shadow DoT (Damage-over-Time) Spell on a random Wizard. This DoT has about 100% extra pierce dealing '''2,000''' Damage after 4 Rounds. (Deals 5,265 Damage with the Damage Outboost).
+**The Wizard who receives the DoT will be given a {{Link|Spell|Hot Potato: Enemy}} Spell and a {{Link|Spell|Hot Potato: Friend}} Spell. These Spells are 0-Pip versions of {{Link|Spell|Shift}} and allow the Wizard to shift a DoT to an enemy or an ally, depending on the Spell used.
+*{{Icon|Manipulation}} ''"That not how you play!"'' - If a Wizard uses {{Link|Spell|Triage}}, {{Link|Spell|Mass Triage}}, or {{Link|Spell|Shift}} to remove the Hot Potato DoT, Stay-Puffed Marshfellow will cast a Shadow Spell to instantly Expel both the caster of the Triage and the Wizard that had their Hot Potato DoT removed by the Triage.
+**{{Link|Itemcard|Hamadryad}} will not trigger this cheat.
+*{{Icon|Manipulation}} ''"Pass the potato!"'' - If a Wizard uses {{Link|Spell|Hot Potato: Enemy}} to pass the Hot Potato to Stay-Puffed Marshfellow, it will shift the Hot Potato to a random Marshfellow Minion in the battle.
+**This cheat only seems to activate if the Wizard uses the {{Link|Spell|Hot Potato: Enemy}} the Round after the Hot Potato cheat.
+**If there are no Marshfellow Minions present in battle, this cheat will not activate.
+*{{Icon|Blade}}{{Icon|Global}} ''"That not how you play!"'' - Stay-Puffed Marshfellow has three cheats that trigger when a Wizard uses Blades or Global Spells. They will cycle in the order they are listed below. After the third cheat, Stay-Puffed Marshfellow will start from the first cheat again.
+**The first time a Blade or Global Spell is cast, Stay-Puffed Marshfellow will cast {{Link|Spell|Mana Burn (Shadow)}} on the receiver of the Blade.
+**The second time a Blade or Global Spell is cast, Stay-Puffed Marshfellow will cast {{Link|Spell|Bad Juju (Shadow)}} on the receiver of the Blade.
+**The third time a Blade or Global Spell is cast, Stay-Puffed Marshfellow will cast {{Link|Spell|Disarm (Shadow)}}, which removes two Blades from the receiver.
+***Stay-Puffed Marshfellow will only target the caster of {{Link|Spell|Bladestorm}} with these cheats.
+*{{Icon|Feint}} ''"That not how you play!"'' - When a {{Link|Spell|Feint}} is cast, Stay-Puffed Marshfellow will cast a Spell to remove all Traps from all his allies.
+**{{Link|Spell|Indemnity}} can be used to prevent a Trap’s removal.
+**{{Link|ItemCard|Mass Feint}} can trigger this cheat.
+** The Balance version of {{Link|ItemCard|Feint}} does not trigger this cheat.
+
+*{{Icon|Heal}} ''"Go BOOM!"'' - After a Marshfellow is defeated by the Shadow Damage overtime that deals 5,265 Damage, Stay-Puffed Marshfellow will cast a Shadow Spell to heal 100% max Health to all allies reviving the minion.
+
+'''Marshfellow Minions'''
+*{{Icon|Manipulation}} ''"Potato to you!"'' - At the end of a Round, if a Marshfellow Minion has the Hot Potato, the Marshfellow Minion will use a Fire School Spell to shift it onto a random Wizard.
+
+| spellnotes =
+
+| casts =
+Berserk;
+Fire Shield;
+Glacial Shield;
+Quench;
+Fireblade;
+Backdraft;
+Steal Charm;
+Link;
+Fire Elf;
+Krampus;
+Scorching Scimitars;
+Immolate;
+S'more Machine (Tier 3a);
+Scald;
+Raging Bull;
+Heck Hound;
+
+| quests =
+
+| gold =
+682 - 954;
+
+| hats =
+Conjurer's Timeless Brim;
+Diviner's Timeless Brim;
+Necromancer's Timeless Brim;
+Pyromancer's Timeless Brim;
+Sorcerer's Timeless Brim;
+Thaumaturge's Timeless Brim;
+Timeless Arboreal Brim;
+Wizard's Timeless Brim;
+Wunderbar Freshbaker Cap;
+Wunderbar Sciencer Cap;
+Wunderbar Sentamentalist Cap;
+Wunderbar Sweetsmith Cap;
+
+| robes =
+Conjurer's Timeless Tunic;
+Diviner's Timeless Tunic;
+Necromancer's Timeless Tunic;
+Pyromancer's Timeless Tunic;
+Sorcerer's Timeless Tunic;
+Thaumaturge's Timeless Tunic;
+Theurge's Timeless Tunic;
+Timeless Arboreal Tunic;
+Timeless Astral Tunic;
+Wizard's Timeless Tunic;
+Wunderbar Artisan Smock;
+Wunderbar Candymancer Smock;
+Wunderbar Dreamsearcher Smock;
+Wunderbar Sciencer Smock;
+Wunderbar Sentamentalist Smock*F2;
+Wunderbar Sweetsmith Smock;
+Wunderbar Wonderneer Smock;
+
+| boots =
+Conjurer's Timeless Shoes;
+Diviner's Timeless Shoes;
+Necromancer's Timeless Shoes;
+Pyromancer's Timeless Shoes;
+Thaumaturge's Timeless Shoes;
+Theurge's Timeless Shoes;
+Timeless Arboreal Shoes;
+Wizard's Timeless Shoes;
+Wunderbar Artisan Boots;
+Wunderbar Candymancer Boots;
+Wunderbar Dreamsearcher Boots;
+Wunderbar Freshbaker Boots;
+Wunderbar Sciencer Boots;
+Wunderbar Sentamentalist Boots;
+Wunderbar Sweetsmith Boots;
+Wunderbar Wonderneer Boots;
+
+| athames =
+Wunderbar Artisan Knife;
+Wunderbar Candymancer Knife;
+Wunderbar Dreamsearcher Knife;
+Wunderbar Freshbaker Knife;
+Wunderbar Sciencer Knife;
+Wunderbar Sentamentalist Knife;
+Wunderbar Sweetsmith Knife;
+Wunderbar Wonderneer Knife;
+
+| amulets =
+Wunderbar Artisan Rope;
+Wunderbar Candymancer Rope;
+Wunderbar Dreamsearcher Rope;
+Wunderbar Freshbaker Rope;
+Wunderbar Sciencer Rope;
+Wunderbar Sweetsmith Rope;
+Wunderbar Wonderneer Rope;
+
+| rings =
+Wunderbar Artisan Ring;
+Wunderbar Candymancer Ring;
+Wunderbar Freshbaker Ring;
+Wunderbar Sciencer Ring;
+Wunderbar Sentamentalist Ring;
+Wunderbar Sweetsmith Ring*F2*WMV;
+Wunderbar Wonderneer Ring;
+
+| wands =
+Delicious Marshmallow;
+Dried Marshmallow;
+Frosted Marshmallow;
+Lightning-Fried Marshmallow;
+Moldy Marshmallow;
+Sticky Marshmallow;
+Toasted Marshmallow;
+Traditional Marshmallow;
+Wunderbar Artisan Staff;
+Wunderbar Candymancer Staff*F2*WMV;
+Wunderbar Sciencer Staff;
+Wunderbar Sentamentalist Staff;
+Wunderbar Sweetsmith Staff;
+Wunderbar Wonderneer Staff;
+
+| decks =
+Wunderbar Artisan Box;
+Wunderbar Candymancer Box;
+Wunderbar Dreamsearcher Box;
+Wunderbar Freshbaker Box;
+Wunderbar Sciencer Box;
+Wunderbar Sentamentalist Box;
+Wunderbar Sweetsmith Box;
+Wunderbar Wonderneer Box;
+
+| items =
+Adept's Socket Wrench*F2;
+Expert's Socket Wrench;
+Gum Drop Container;
+Gumdrop Forest Poster;
+Gumdrop Tree;
+Karamelle Barrel;
+Karamelle Cavity Combat Theme;
+Karamelle City Combat Theme;
+Karamelle City Theme;
+Karamelle Crate*F2*WMV;
+Karamelle Forest Combat Theme;
+Karamelle Forest Theme;
+Karamelle Jingle Theme;
+Karamelle Neglected Com Theme;
+Karamelle Neglected Theme;
+Karamelle Rural Combat Theme;
+Karamelle Rural Theme*F2;
+Karamelle Worker Combat Theme*F3;
+Karamelle Worker Theme;
+Licorice Tree;
+Novice's Socket Wrench;
+Oil Drum;
+Rock Candy Mountains Poster*F3*WMV;
+Stone Skeleton Key*CR;
+Trash Pile (Outdoor)*F2;
+Von Trap Estate Poster;
+Wooden Skeleton Key*CR;
+
+| cards =
+Baby Sunbird;
+Elemental Blade;
+Elemental Defuse;
+Elemental Shield;
+Flood;
+Flute Symphony;
+Massive Pest Zapper;
+Miniature Bloodbats;
+Pungent Bug Spray;
+Putrid Bug Spray;
+Supreme Sunburst;
+Uncanny Magic;
+Zounds...Bees!;
+
+| reagents =
+Agave Nectar;
+Astral Shard;
+Cobalt;
+Copper;
+Diamond;
+Draconium;
+Fire Blossom;
+Fossil;
+Golden Pearl;
+Karamelle Chunk*F2;
+Merle's Whisker;
+Nickel;
+Pretzel Sticks*F4*WMV;
+Spring;
+Steel;
+Toffee Bean*F4*WMV;
+Tungsten;
+
+| spellements =
+Grrnadier;
+S'more Machine;
+Sound of Musicology;
+
+| snacks =
+Beast Wellington;
+Bogwich;
+Bog Witch Beetroot;
+Cacao Ka-POWS!;
+Eye Candy;
+Goat Cheese;
+Moochi Ice;
+Moon Pie;
+Nana's Energy Drink;
+Pitch Black Licorice;
+Squash;
+Swirled Lollipop;
+Trolly Pops;
+Wampyrnickel Bread;
+Wormy Apple;
+Wysteri-Os;
+Zesty Zip-Zaps;
+Zigazagnut Bars;
+
+| jewels =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Baby Carrots;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts;
+Bread Fruit Bush;
+Cornbread Fruit Bush;
+Fish on a Vine;
+Grapes of Wrath*CR;
+Ivy League*CR;
+Pink Huckleberries;
+Red Huckleberries;
+
+| mounts =
+Casual Gummy Bunny*PERM;
+Chocolate Moose*PERM;
+Fancy Gummy Bunny*PERM;
+Formal Gummy Bunny*PERM;
+
+| spells =
+
+}}

@@ -1,0 +1,182 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 30,930
+| crecla = Gargoyle
+| school = Ice
+| school2 = Life
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Ice;
+Life;
+
+| critical =
+54 Any;
+
+| criticalblock =
+698 Any;
+
+| outpierce =
+13%;
+
+| outboost =
+84%;
+
+| incboost =
+30% Fire;
+
+| incresist =
+51% Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+81% Ice;
+
+| outhealing =
+47%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gargoyle Underwing (Standard);
+
+| world = Darkmoor
+| location = Graveholm
+| subloc1 = Gargoyle Watchhouse (Standard)
+| descrip =
+
+| speech =
+| cheatnotes =
+{{Icon|Blade}}{{Icon|Trap}}{{Icon|Aura}}{{Icon|Global}}{{Icon|Polymorph}} If a wizard casts a damage-increasing blade, trap, aura, global, or shadow polymorph, Commander Ahk'to will cheat-cast one of the following spells in order. After 5 buffs, the cycle repeats itself.
+*{{Link|Spell|Shadow Shepherd}} will not trigger this cheat.
+*''"I can match any offense!"'' - Casts an all-allies version of {{Link|Spell|Spirit Armor}} that absorbs 650 damage 
+*''"You do not learn! Shields!"'' - Casts {{Link|Spell|Mass Tower Shield}}
+*''"Learn this: No blade, no trap, nothing can harm me."'' - Casts an all-allies version of {{Link|Spell|Brace}} that gives -40% incoming damage for 4 rounds
+*''"Still, you fail to comprehend."'' Casts a global spell that decreases all incoming damage by 25%.
+*''"So be it, let darkness consume!"'' Casts {{Link|Spell|Shadow Sentinel}}
+'''Interrupt Cycle''' (Resets every 2 {{Icon|Round}})
+:''"The house of swords shall never fall!"'' - At the end of every second round, Commander Ahk'to will interrupt to cast one of the following spells on all enemies:
+:*{{Icon|Absorb}} If the enemy creature is at full health, she will cast a version of {{Link|Spell|Spirit Armor}} that absorbs 735 damage.
+:*{{Icon|Heal}} If the enemy is below full health, she will cast {{Link|Spell|Minor Blessing}}.
+
+| spellnotes =
+
+| casts =
+Glacier Amplify;
+Tower Shield;
+Legion Shield;
+Pigsie (Tier 2a);
+Iceblade (+40%);
+Glacier Blade;
+Frost Beetle (Tier 2b);
+Coolest Centaur;
+Abominable Weaver;
+Seraph (Tier 2b);
+Wings of Fate (Tier 2a);
+Gnomes! (Tier 2b);
+
+| quests =
+The Sword and the Stone;
+
+| gold =
+24 - 53;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Broken Branch Loss Dagger*F2;
+Broken Branch Luckless Dagger*F2;
+Broken Branch Neglect Dagger;
+Broken Branch Panic Dagger;
+Broken Branch Rage Dagger*F3;
+Broken Branch Sorrow Dagger;
+Broken Branch Terror Dagger;
+Dagger of False Promises;
+Dagger of the Burnt Forest;
+Dagger of the Changing Tide*F3;
+Dagger of the Coldhearted;
+Dagger of the Doomed*F2;
+Dagger of the Living Lie;
+Dagger of the Turning Wheel;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Lifeblade;
+Nested Fury;
+Rusalka's Wrath;
+
+| reagents =
+Copper;
+Tin;
+
+| spellements =
+Anubis;
+Barbarian's Saga*F2;
+Bunyip's Rage;
+Chameleon Clash;
+Count Croakula;
+Dark & Stormy*F2;
+Deathly Depths;
+Drop Bear Fury*F2;
+Gravestorm;
+Grim Reader;
+Old One's Endgame*F2;
+Phantasmania!;
+Rainbow Serpent*F2;
+Shu;
+Taweret;
+The Chariot;
+The Emperor;
+The Hierophant;
+The Tower*F3;
+Thoth;
+Wheel of Fortune;
+Zand the Bandit;
+
+| snacks =
+Fortified Bread;
+Golden Apple;
+
+| jewels =
+Flawless Blocking Onyx +23;
+Flawless Blocking Opal +12;
+Flawless Blocking Ruby +24;
+Unearthly Health Amethyst +525;
+Unearthly Health Jade +775;
+Unearthly Health Onyx +650;
+Unearthly Health Peridot +595;
+Unearthly Health Ruby +595;
+
+| pins =
+Death Disabling Pin (160, Ice);
+Death Punishing Pin (170, Fire);
+Ice Punishing Pin (160, Life);
+Myth Crushing Pin (170, Ice);
+Myth Punishing Pin (170, Fire);
+Storm Crushing Pin (170, Balance);
+Storm Disabling Pin (170, Balance);
+Storm Punishing Pin (150, Balance);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

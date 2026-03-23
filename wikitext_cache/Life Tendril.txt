@@ -1,0 +1,104 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 20,270
+| crecla = Plant
+| school = Life
+| cheats = Yes
+| shadowslots = 2
+| startpips = 7
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+15%;
+
+| outboost =
+30%;
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = Castle Darkmoor (Location)
+| subloc1 = Graveyard Stone Key Room
+| descrip =
+Life Tendril is a possible Minion to {{Link|Creature|Aphrodite II}}'s {{Link|Creature|Death Tendril}}. All drops and cheats are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Legend Shield;
+Spirit Armor;
+Lifespear;
+Guiding Light;
+Guidance;
+Entangle;
+Rebirth;
+Dryad;
+Lifeblade (+40%);
+Life Prism;
+Mass Triage;
+Natural Attack (Life Tendril);
+Hungry Caterpillar;
+Earth Walker;
+Forest Lord;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

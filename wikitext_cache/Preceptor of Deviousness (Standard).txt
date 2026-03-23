@@ -1,0 +1,109 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 16,865
+| crecla = Khrulhu
+| crecla2 = Undead
+| school = Myth
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+611 Any;
+
+| criticalblock =
+505 Any;
+
+| outpierce =
+31% Any;
+
+| outboost =
+123% Any;
+
+| incboost =
+30% Storm;
+
+| incresist = 
+42% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+72% Myth;
+
+| outhealing =
+2%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Scholomance
+| subloc1 = Heretical Academy (Standard)
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Darkmoor
+| tome description =
+An Eldritch spirit and schemer whose plots survived even the grave.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1000
+| guest animus = 30
+| guest gold = 2,500
+}}
+
+| spellnotes =
+
+| casts =
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Bright Damage Amethyst +10%;
+
+| pins =
+Life Disabling Pin (180);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

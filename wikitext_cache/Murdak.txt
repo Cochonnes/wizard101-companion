@@ -1,0 +1,281 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 13,160
+| crecla = Djinn
+| school = Ice
+| startpips = 3
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+97 Any;
+
+| outpierce =10% Any;
+
+| outboost =
+30% Any;
+
+| incboost =
+15% Fire;
+
+| incresist =
+30% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Djinni Guard;
+
+| world = Mirage
+| location = Eerem Palace
+| subloc1 = Eerem Gardens
+| descrip =
+
+| spellnotes =
+
+| casts =
+Brace;
+Icewind;
+Volcanic Shield (-75%);
+Frozen Armor (185);
+Iceblade (+40%);
+Steal Ward;
+Ice Bats (215);
+Natural Attack (Ice 105-210-315, 75%);
+Blizzard (290-330, 80%);
+Winter Moon;
+Frostbite (80+549);
+Frost Giant (530);
+
+| quests =
+Eerkala's Secret;
+
+| gold =
+1,472 - 2,090;
+
+| hats =
+Alkali Burning Sands Kalpak;
+Alkali Kalpak of Fiction;
+Alkali Monsoon Kalpak;
+Alkali Wintertide Kalpak*F2;
+Mottoman Helm of Enigmas;
+
+| robes =
+Alkali Armor of Fiction;
+Alkali Armor of Withering;
+Eerem Headwrap of Harmony;
+Eerem Raiment of Discovery*F2;
+Mottoman Heatwave Uniform;
+Mottoman Uniform of Scruples;
+
+| boots =
+Alkali Walkers of Vibrancy;
+Gallant Mottoman Runners*F2;
+Mottoman Runners of Enigmas;
+Mottoman Sandspouts Runners;
+
+| athames =
+Eerem Razor of Ciphers;
+Eerem Razor of Eruption*F2;
+Istanboa Khanjar of Scruples;
+Istanboa Sandspouts Khanjar*F2*WMV;
+
+| amulets =
+Eerem Hailstone Talisman;
+Eerem Necklace of Ability;
+Eerem Necklace of Agony;
+Eerem Necklace of Ciphers;
+Eerem Necklace of Elation;
+Eerem Razor of Harmony*F2*WMV;
+Eerem Razor of Pulse;
+Eerem Talisman of Harmony;
+Gallant Istanboa Pendant;
+Istanboa Heatwave Pendant;
+Istanboa Pendant of Enigmas;
+Istanboa Pendant of Ruin;
+Istanboa Sandspouts Pendant*F2;
+
+| rings =
+Eerem Band of Clangor;
+Eerem Band of Harmony;
+Eerem Band of Menace;
+Eerem Hailstone Band;
+Gallant Istanboa Signet*F2;
+Istanboa Signet of Enigmas;
+
+| wands =
+Myriarch Tabarzin of Renown*F2*WMV;
+Scorpion Bow of Fervor;
+Scorpion Bow of Frenzy;
+Scorpion Bow of Lightning;
+Tetrus Baton of Blizzards;
+Tetrus Baton of Readiness;
+Tetrus Baton of Sophistry;
+Tetrus Baton of Torrents;
+
+| decks =
+Eerem Gallery of Ciphers;
+Eerem Gallery of Clouds;
+Eerem Gallery of Elation;
+Eerem Spread of Discovery;
+Istanboa Sandspouts Array;
+
+| items =
+Mirage Canyon Combat Theme;
+Mirage Canyon Theme 1;
+Mirage Canyon Theme 2;
+Mirage Den of Thieves Theme;
+Mirage Jungle Combat Theme;
+Mirage Magic Carpet Theme;
+Mirage Nomad Theme;
+
+| cards =
+Arcticzilla*F3*WMV;
+Balefrost;
+Counterforce*F2;
+Death Troll*F2;
+Deathspear;
+Elemental Spear*F2*WMV;
+Frostfang;
+Lifespear;
+Mutate Colossus (Storm);
+Mythspear;
+Obsidian Colossus (420);
+Saga of Heroes;
+Shock Colossus;
+Stormspear;
+Winged Sorrow*F2;
+
+| reagents =
+Aether;
+Agave Leaves*F4*WMV;
+Amber*F4*WMV;
+Amber Dust*F4*WMV;
+Aquamarine*F4*WMV;
+Astral Shard*F4;
+Braided Vine;
+Fire Blossom*F6*WMV;
+Fish Fin*F6*WMV;
+Glass Sliver;
+Golden Pearl*F5*WMV;
+Iridium*F2;
+Merle's Whisker;
+Mithril*F8*WMV;
+Orichalcum;
+Scales*F6*WMV;
+Silver*F11*WMV;
+Stardust*F2*WMV;
+Steel*F5*WMV;
+Sunstone*F8*WMV;
+Tungsten*F6*WMV;
+Turmeric;
+Turquoise*F5*WMV;
+Vine*F5*WMV;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Beast Wellington*F7*WMV;
+Beetle Cream Soda*F3*WMV;
+Chalupacabra*F2*WMV;
+Eye Candy*F4*WMV;
+Fire Passion Fruit;
+Frosty Sugar Cubes;
+Hard Boiled Beetle Eggs*F6*WMV;
+Hot Cross Buns*F5*WMV;
+Mustachios*F8*WMV;
+Rhubarbed Wire;
+Satyr Chow*F5*WMV;
+Ships 'n' Queso*F3;
+Veggie Juice*F5*WMV;
+
+| jewels =
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Peridot +13;
+Lustrous Defense Sapphire +45;
+Magnify Opal;
+Polished Accurate Hematite +10%;
+Polished Blocking Citrine +12;
+Polished Blocking Hematite +11;
+Polished Blocking Jade +12;
+Polished Blocking Peridot +12;
+Polished Blocking Ruby +12;
+Polished Critical Citrine +11;
+Polished Critical Ruby +11;
+Polished Critical Sapphire +11;
+Polished Damage Jade +21;
+Polished Defense Amethyst +43;
+Polished Defense Amethyst +44;
+Polished Defense Hematite +41*F2*WMV;
+Polished Defense Onyx +43;
+Polished Defense Peridot +43;
+Polished Defense Ruby +44;
+Polished Defense Sapphire +43*F2*WMV;
+Polished Piercing Amethyst +6%;
+Polished Piercing Jade +6%;
+Polished Piercing Peridot +6%;
+Polished Piercing Ruby +6%;
+Shiny Blocking Amethyst +16;
+Shiny Blocking Jade +16;
+Shiny Blocking Sapphire +16;
+Shiny Critical Amethyst +16;
+Shiny Damage Hematite +52;
+Shiny Defense Citrine +50;
+Shiny Defense Peridot +51;
+Shiny Health Opal +111;
+Shiny Health Opal +112*F2*WMV;
+Shiny Health Opal +113;
+Shiny Health Opal +114;
+Shiny Mana Opal +45*F2;
+Shiny Mana Opal +46;
+
+| pins = 
+
+| pets =
+MaCaw*CR*F4*WMV;
+
+| seeds =
+Angel Oak;
+Baby Carrots;
+Bell Pepper;
+Blue Huckleberries;
+Boon Tree*CR;
+Clockwork Flower;
+Couch Potatoes*CR*F2*WMV;
+Dandelion;
+Deadly Helephant Ears*CR;
+Evil Magma Peas*CR;
+Face Palm;
+Fish on a Vine;
+Golden Couch Potatoes;
+Helephant Ears;
+Honey Bee Plant;
+Ivy League*CR;
+Key Limes*CR;
+Maelstrom Snap Dragon;
+Missile Toe;
+Ninja Fig*CR;
+Pink Huckleberries;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Red Bell Pepper;
+Red Huckleberries;
+Rye Bread Fruit Bush;
+Snap Dragon;
+Sunion*CR;
+White Desparagus;
+White Laugh-O-Dil;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

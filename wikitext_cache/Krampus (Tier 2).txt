@@ -1,0 +1,232 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 12,060
+| crecla = Goat
+| school = Fire
+| school2 = Death
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+4%;
+
+| outboost =
+58%;
+
+| incboost =
+15% Ice, Life;
+
+| incresist =
+20% Storm, Myth, Death, Balance;
+30% Fire;
+
+| outhealing =
+12%;
+
+| inchealing =
+12%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| petbreed = Lump of Coal
+| world = Wizard City
+| location = Ravenwood
+| subloc1 = Krampusgarten
+| location2 = Colossus Boulevard
+| subloc2 = Krampusgarten
+| world2 = Celestia
+| location2-1 = Celestia Base Camp
+| subloc2-1 = Krampusgarten
+| world3 = Polaris
+| location3-1 = Walruskberg Harbor
+| subloc3-1 = Krampusgarten
+| badge = Had a Holly, Jolly Yuletide
+| descrip =
+Krampus is a Boss that appears during the Yuletide event.  He is located in Krampusgarten, which requires a {{Link|House|Gold Skeleton Key}} to enter.
+*Minions can be any combination of {{Link|Creature|Chilling Helper (Tier 2)}} and {{Link|Creature|Stormy Helper (Tier 2)}}.
+*This Tier is for level 51-109 Wizards.
+
+| speech =
+:''"Naughty, naughty. Krampus sees all!"''
+
+| cheatnotes =
+*{{Icon|Late}}''"Naughty, naughty! Punctuality is a virtue!"'' - If a Wizard joins after the duel has started, Krampus will cheat-cast a Shadow version of {{Link|Spell|Scald}} dealing Fire Damage and a '''-75%''' version of {{Link|Spell|Smoke Mantle}} on the Wizard.
+*{{Icon|Blade}}''"A gift for Krampus? You shouldn't have!"'' - If a Wizard casts a [[:Category:Blade Spells|Blade]] Spell, he may cast a Shadow version of {{Link|Spell|Steal Charm}} that steals all Charms from the Wizard who cast the Blade.
+**He will occasionally cast this throughout the battle.
+**[[:Category:Global Spells|Global]] Spells will trigger this cheat.
+*{{Icon|Feint}} ''"Naughty, naughty! Krampus sees all!"'' - If a Wizard casts a {{Link|Spell|Feint}} Spell, he will cast a Shadow version of {{Link|Spell|Cleanse Ward}} twice (which makes {{Link|Spell|Indemnity}} ineffective).
+*{{Icon|Round}} ''"Krampus is everywhere!""'' -  At the beginning of every third Round, he will cast a Shadow version of {{Link|Spell|Dimension Shift}} that transfers all negative hanging effects that are on him (i.e. [[:Category:Trap Spells|Traps]]) to a random friend or foe.
+*{{Icon|Round}} ''"'Tis the season of Krampus!"'' - At the beginning of Round 5, he will summon any combination of Chilling Helper (Rank 10) and Stormy Helper (Rank 10).
+**Whenever a Minion is defeated, he will resummon it after one Round.
+
+| spellnotes =
+*The Damage portion of Sacrifice (1,000) can be used on any ally.
+*The Lump of Coal Pet casts the ''Krampus'' Spell, which acts like a Natural Attack.
+
+| casts =
+Plague (-25%);
+Sacrifice (1,000);
+Choke;
+Beguile;
+Deer Knight;
+Wraith (575);
+Scarecrow;
+Fire Elf (55+240);
+Krampus (305-345);
+Meteor Strike (355-395);
+Fire Dragon (495+395);
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+0;
+
+| hats =
+Bird of the Yuletide Helm (Any Level)*CR;
+Crown of Winter's Reign (Any Level)*CR;
+Helm of the Furious Winter (Any Level)*CR;
+Mantle of the Frozen Sun (Any Level)*CR;
+Royal Fusilier's Shako (Any Level)*CR;
+Santa Hat*CR*F2*WMV;
+
+| robes =
+Queen's Color Guard Jacket (Level 10+)*CR;
+Raiment of Winter's Reign (Any Level)*CR;
+Robes of the Frozen Sun (Any Level)*CR;
+Royal Fusilier's Dress Coat (Level 10+)*CR;
+Santa Robe*CR;
+Timeless Yuletide Armor (Level 10+)*CR;
+
+| boots =
+Mukluks of Winter's Reign (Any Level)*CR;
+Royal Fusilier's Boots (Any Level)*CR;
+Santa Boots*CR;
+Yuletide Ceremonial Boots (Any Level)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Axe of Winter's Discontent (Any Level)*CR;
+Fusilier's Fireberry Saber (Any Level)*CR;
+Gingerbread Wand*CR;
+Krampus' Hitstick*F6*WMV;
+Ornamental Paper Staff*CR;
+Staff of Wintertime (Any Level)*CR;
+Star Staff*CR;
+Sweet Staff;
+Winter Palace Spikeleaf Sword (Level 10+)*CR;
+Winter's Radiant Staff (Any Level)*CR;
+Yuletide Morning Mandolin (Any Level)*CR;
+
+| decks =
+
+| items =
+Adept's Socket Wrench;
+Artisan's Socket Wrench;
+Blue Candy Canes*F3*WMV;
+Blue Holiday Ornament;
+Dashing Reindeer Floor*CR*F2*WMV;
+Deck the Halls Theme;
+Expert's Socket Wrench*F2;
+Festive Yuletree*F2*WMV;
+Fresh Powder Floor;
+Frosty Yuletree;
+Gingerbread Wall Icing;
+Gold Skeleton Key*CR*F2*WMV;
+Green Holiday Ornament;
+Holiday Wreath*CR*HOL;
+Icicle Wallpaper*F3*WMV;
+Jingle Bells Theme;
+Jubilant Yuletree*CR*F2*WMV;
+Krampus Wallpaper;
+Large Snowflake*CR*F4*WMV;
+Lively Reindeer Decoration*CR*F4*WMV;
+Majestic Reindeer Decoration*CR*F2*WMV;
+Red String Lights*CR*F2*WMV;
+Small Fir Tree*F2;
+Snowflake Wallpaper*CR;
+Snowman*CR*F2*WMV;
+Spiral Wrapped Gift;
+Stone Skeleton Key*CR*F4*WMV;
+Tree Wrapped Gift*CR*F3*WMV;
+Wooden Skeleton Key*CR*F2*WMV;
+Yellow Holiday Ornament;
+Yule Presents;
+Yuletide Jingle;
+
+| cards =
+Azoth @ 3 Azoth*F11*WMV;
+Azoth @ 4 Azoth*F8*WMV;
+Blizzard*F2*WMV;
+Evil Snowman*F2*WMV;
+Fire Elf*F2;
+Ice Elf*F2;
+Jolted Snowman;
+Krampus*F2*WMV;
+Lightning Elf*F3;
+Lord of Winter;
+Magma Man;
+
+| reagents =
+Black Coal*F9*WMV;
+Orichalcum*F2*WMV;
+Participation Trophy*F2*WMV;
+
+| spellements =
+Krampus @ 1 Krampus*F2*WMV;
+Krampus @ 2 Krampus*F2*WMV;
+Reindeer Knight @ 1 Reindeer Knight*F2*WMV;
+Reindeer Knight @ 2 Reindeer Knight*F2*WMV;
+Reindeer Knight @ 4 Reindeer Knight;
+Reindeer Knight @ 8 Reindeer Knight;
+Reindeer Knight @ 16 Reindeer Knight;
+
+| snacks =
+
+| jewels =
+Freddo Sapphire;
+Mokompo Amethyst;
+Polished PIP Hematite +1;
+Sir Bedevere Jade;
+
+| pins =
+
+| pets =
+Fire Beetle;
+Fire Snowman;
+Frost Beetle*F2*WMV;
+Lump of Coal*CR*F2*WMV;
+Maple Moose*CR;
+Storm Snowman*F2*WMV;
+
+| seeds =
+Green Snow Apples;
+Happy Holidaisy*CR*HOL*F2;
+Missile Toe;
+Point Setta;
+Purple Snow Apples;
+Snow Apples*F2;
+
+| mounts =
+Blue Candy-Cane*1;
+Green Candy-Cane*1;
+Green Candy-Cane*PERM*CR;
+Red Candy-Cane*1;
+
+| spells =
+
+}}

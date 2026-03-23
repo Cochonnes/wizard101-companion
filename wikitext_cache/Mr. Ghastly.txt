@@ -1,0 +1,176 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 117,750
+| crecla = Undead
+| school = Shadow
+| masteries =
+Fire;
+Ice;
+Storm;
+Myth;
+Life;
+Death;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Raid
+| location = Ghastly Conspiracy
+| badge = Cracked the Ghastly Case
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*''"Interesting buff you have there. Shame if something happened to it."'' - 
+*''"My ritual can't be stopped as long as I still stand"'' - Mr. Ghastly will say this at the beginning of the first Round.
+*At the beginning of the third Round, Mr. Ghastly will say one of the following cheat lines at random:
+**''"I am become Fire!"'' - Mr. Ghastly will transform into his Fire Shadow Creature Form and cast Fire Spells.
+**''"I am become Ice!"'' - Mr. Ghastly will transform into his Ice Shadow Creature Form and cast Ice Spells.
+**''"I am become Storm!"'' - Mr. Ghastly will transform into his Storm Shadow Creature Form and cast Storm Spells.
+**''"I am become Myth!"'' - Mr. Ghastly will transform into his Myth Shadow Creature Form and cast Myth Spells.
+**''"I am become Life!"'' - Mr. Ghastly will transform into his Life Shadow Creature Form and cast Life Spells.
+**''"I am become Death!"'' - Mr. Ghastly will transform into his Death Shadow Creature Form and cast Death Spells.
+*''"Impatient, aren't you?"'' - If Mr. Ghastly is attacked while in his Shadow Creature Form, he will take 0 Damage.
+*Once Mr. Ghastly has transformed, at the end of every Round if a Wizard has the correct School Pip, he will give them the following Spells:
+**{{Icon|Fire}}Fire Form - {{Icon|Storm School Pip}}Storm School Pip - {{Link|Spell|Feed Storm Energy}}
+**{{Icon|Ice}}Ice Form - {{Icon|Fire School Pip}}Fire School Pip - {{Link|Spell|Feed Fire Energy}}
+**{{Icon|Storm}}Storm Form - {{Icon|Ice School Pip}}Ice School Pip - {{Link|Spell|Feed Ice Energy}}
+**{{Icon|Myth}}Myth Form - {{Icon|Life School Pip}}Life School Pip - {{Link|Spell|Feed Life Energy}}
+**{{Icon|Life}}Life Form - {{Icon|Death School Pip}}Death School Pip - {{Link|Spell|Feed Death Energy}}
+**{{Icon|Death}}Death Form - {{Icon|Myth School Pip}}Myth School Pip - {{Link|Spell|Feed Myth Energy}}
+**{{GivesSpell|spells = 6|size = x150px|Feed Storm Energy|Feed Fire Energy|Feed Ice Energy|Feed Life Energy|Feed Death Energy|Feed Myth Energy}}
+*''"Fine! You want me? Let's go!"'' - If Mr. Ghastly is hit by the Spell that he gave with the corresponding School Pip, he will transform out of his Shadow Creature Form, and will become vulnerable to Damage.
+*''"*Snarl*"'' - If Mr. Ghastly is attacked while out of his Shadow Creature Form, he will say this line.
+
+| spellnotes =
+
+| casts =
+Empower;
+Glowbug Squall;
+Freeze Ray;
+Tundra Lord;
+Call of Khrulhu;
+Bonetree Lord;
+
+| quests =
+
+| dropnotes =
+All 8 Wizards in the Raid receive the drops, not just the ones within the battle.
+
+| gold =
+
+| hats =
+Grave Crimefighter's Hat (Level 170+);
+
+| robes =
+Ardent Crimefighter's Coat (Level 170+);
+Dynamic Crimefighter's Coat (Level 170+);
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Ardent Attunement Staff (Level 170+);
+Clever Attunement Staff (Level 170+);
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Attunement Chips @ 58 Attunement Chips;
+Attunement Chips @ 72 Attunement Chips;
+
+| spellements =
+Ammut;
+Anubis;
+Barbarian's Saga;
+Blast Off!;
+Bunyip's Rage;
+Chameleon Clash;
+Count Croakula;
+Dark & Stormy;
+Deathly Depths;
+Freeze Ray;
+Glimpse of Infinity;
+Gravestorm;
+Grim Reader;
+Grrnadier;
+Heqet;
+Improbable Gaze;
+Lord of the Jungle;
+Mockenspiel;
+Old One's Endgame;
+Phantasmania!;
+Rainbow Serpent;
+S'more Machine;
+Scales of Destiny;
+Shatterhorn;
+Shu;
+Snack Attack;
+Sound of Musicology;
+Starspawn;
+Tatzlewurm Terror;
+Taweret;
+Thoth;
+Tree of Strife;
+Wobbegong Frenzy;
+Zand the Bandit;
+
+| snacks =
+
+| jewels =
+Polished Piercing Onyx +6%;
+Unearthly Damage Amethyst +11% (Storm);
+Unearthly Health Jade +775;
+Unearthly Health Peridot +595;
+
+| pins =
+Death Disabling Pin (170, Storm);
+Death Punishing Pin (170, Storm);
+
+| pets =
+Detective Corgi;
+Gray Star;
+Graysquatch;
+Monochropotamus;
+Noir Ninja;
+Old Timey Dactyl;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

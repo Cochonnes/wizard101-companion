@@ -1,0 +1,119 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 17,640
+| crecla = Caiman
+| crecla2 = Undead
+| school = Storm
+| masteries = Death
+| startpips = 6
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Azteca
+| location = Pitch Black Lake
+| subloc1 = Pyramid of Mother Moon
+| descrip =
+Grinning Death Moon is a Minion to {{Link|Creature|Neza the Poet}}. All drops should go on Neza's page.
+
+| speech =
+:''"You have defiled Mother Moon and scarred the history and pride of this land! I will destroy you all!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+They are happy, happy, happy!
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Virulent Plague;
+Stormblade;
+Curse;
+Feint;
+Natural Attack (Storm 180-360-540, 85%);
+Catalan;
+Leviathan;
+Storm Owl;
+Tempest (85);
+Wraith (575);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

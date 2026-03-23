@@ -1,0 +1,106 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 20,000
+| crecla = Eagle
+| school = Storm
+| masteries =
+Ice;
+
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Wizard City
+| location = Tartarus
+| subloc1 = Hall of Hades
+| descrip =
+For the purpose of drops, Poseidon Earth-Shaker (Tartarus) is considered a Minion to {{Link|Creature|Hades the Unseen (Tartarus)}}. All drops, cheats, and speech are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Tower Shield;
+Stormblade;
+Iceblade;
+Storm Trap;
+Windstorm;
+Natural Attack (Poseidon);
+Storm Lord;
+Leviathan;
+Storm Owl;
+Storm Hound;
+Ice Helephant;
+Frost Giant;
+Woolly Mammoth;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

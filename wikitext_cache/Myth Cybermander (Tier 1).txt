@@ -1,0 +1,118 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 1,915
+| crecla = Mander 
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+55%;
+
+| incboost =
+20% Storm;
+
+| incresist =
+50% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Doomsday Krok Gauntlet
+| subloc1 = Doomsday Krok Gauntlet (Tier 1)
+| descrip =
+Myth Cybermander (Tier 1) is considered a Minion to {{Link|Creature|Balance Cybermander (Tier 1)}}.  All drops are recorded on that page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Created to go back in time and overthrow the Kroks. It worked a couple of times, but every attempt afterward felt excessive.
+
+| extract class =
+Mander;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| altlink = Myth Cybermander
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 460 Myth Damage for 4 Pips maximum.
+
+| casts =
+Storm Shield;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Humongofrog;
+Natural Attack (Myth 115-230-345, 75%);
+Snow Serpent;
+Sunbird;
+Storm Shark;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

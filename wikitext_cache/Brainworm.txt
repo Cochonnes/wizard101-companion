@@ -1,0 +1,310 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 10,400
+| crecla = Worm
+| school = Life
+| school2 = Death
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+163 Any;
+
+| criticalblock =
+237 Any;
+
+| outpierce =
+20%;
+
+| outboost =
+95%;
+
+| incboost =
+None;
+
+| incresist =
+70% Life, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minion = Ear Worm
+| petbreed = Life-ish Frog
+| world = Empyrea
+| location = Southwest Aero Plains
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Impede;
+Life Shield;
+Death Shield;
+Guidance;
+Dryad;
+Lifeblade;
+Life Scarab;
+Giant Spider;
+Natural Attack (Life 108-200-295);
+Goat Monk;
+Life Banshee (250);
+Lamassu;
+Forest Lord;
+Spinysaur;
+
+| quests =
+
+| gold =
+109 - 222;
+
+| hats =
+
+| robes =
+Bodacious Kalamar Tunic;
+Chill Kalamar Tunic;
+Choice Kalamar Tunic;
+Gnarly Kalamar Tunic*F3;
+Heavy Kalamar Tunic;
+Rad Kalamar Tunic*F3;
+Righteous Kalamar Tunic;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Aero Dwarf Chair;
+Aero Dwarf Potted Plant;
+Empyrea Husk Storm Combat;
+Nimbari Chair;
+Nimbari Sword Rack;
+Ornate Nimbari Vase*F3;
+Wide Kalamar Vase;
+
+| cards =
+Bonetree Lord*F2;
+Chinook Genie*F4;
+Colossafrog*F2;
+Combustion;
+Diablo Qarin*F2;
+Doom and Gloom;
+Fable Lord*F20;
+Harmattan Maxios*F2;
+Kraken*F3;
+Life Prism;
+Lifespear;
+Lord of Atonement*F2;
+Lord of the Squall*F22;
+Maelstrom Marid;
+Mega Soothe;
+Mega Subdue;
+Mutate Beetle (Storm);
+Mutate Bird (Ice);
+Mutate Colossus (Fire);
+Mutate Kraken (Ice);
+Mutate Serpent (Storm);
+Mutate Shark (Ice);
+Myth Prism*F3*WMV;
+Mythspear;
+Oni No Jade*F13;
+Oni No Plague*F18;
+Sirocco Djinni;
+Tundra Lord*F4;
+
+| reagents =
+Aether*F4;
+Amber*F7;
+Amber Dust*F3*WMV;
+Ancient Scroll*F2;
+Antique Coins*F3;
+Aquamarine*F3*WMV;
+Astral Shard*F3;
+Black Pearl;
+Blood Moss*F2*WMV;
+Braided Vine*F4;
+Brass*F2;
+Bronze Gear*F2*WMV;
+Draconium*F3;
+Ectoplasm*F2;
+Fish Fin*F6*WMV;
+Flying Squid Ink*F7;
+Glass Sliver*F4*WMV;
+Golden Pearl;
+Merle's Whisker*F5*WMV;
+Mithril*F10;
+Scales*F4*WMV;
+Silver*F6*WMV;
+Spider Silk*F2;
+Spring;
+Steel*F10;
+Sunstone*F8*WMV;
+Titanium*F8;
+Tungsten;
+Turquoise*F6;
+Vine*F2;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Athame Pop;
+Beast Wellington;
+Boiled Spider Legs;
+Bread Fruit Fruit;
+Cherry Pie;
+Dastardly Radish;
+Discord Grape Jelly*F7*WMV;
+Dragon Fruit*F1;
+Eye Candy;
+Gator Tots;
+Glowing Taffy*F2*WMV;
+Golden Squash;
+Hero Sandwich;
+Hive Rinds;
+Hot Cross Buns;
+Jolly Rancher;
+Lollipop;
+Minotarts*F3*WMV;
+Oyster Shooter;
+Pizza*F3;
+Redskin Peanut;
+Rhubarbed Wire;
+Rock and Roll Candy*F2;
+Salmon Joy*F2;
+Satyr Chow*F1;
+Spicy Drumstick*F2;
+Sprinkle Cupcake*F3;
+Tasty Rainbow;
+Veggie Juice;
+Waterworks Wonton;
+Wheat Cracker;
+
+| jewels =
+Queen Calypso Amethyst;
+Shiny Accurate Amethyst +12%;
+Shiny Accurate Hematite +12%;
+Shiny Accurate Jade +12%;
+Shiny Accurate Onyx +12%;
+Shiny Accurate Peridot +12%;
+Shiny Accurate Ruby +12%;
+Shiny Accurate Sapphire +12%;
+Shiny Blocking Amethyst +15;
+Shiny Blocking Peridot +15;
+Shiny Critical Ruby +15;
+Shiny Damage Onyx +25;
+Shiny Health Opal +106;
+Shiny Health Opal +107*F2;
+Shiny Health Opal +108;
+Sparkling Blocking Amethyst +18*F3;
+Sparkling Blocking Citrine +18;
+Sparkling Blocking Hematite +18*F2;
+Sparkling Blocking Jade +18*F2;
+Sparkling Blocking Onyx +18*F2;
+Sparkling Blocking Peridot +18*F3;
+Sparkling Blocking Ruby +18*F2;
+Sparkling Blocking Sapphire +18*F2;
+Sparkling Critical Amethyst +18*F3;
+Sparkling Critical Citrine +18*F4;
+Sparkling Critical Hematite +18*F3;
+Sparkling Critical Jade +18*F3;
+Sparkling Critical Onyx +18;
+Sparkling Critical Peridot +18*F3;
+Sparkling Critical Ruby +18*F6;
+Sparkling Critical Sapphire +18*F2;
+Sparkling Damage Amethyst +28*F3;
+Sparkling Damage Citrine +28*F3;
+Sparkling Damage Jade +28*F2;
+Sparkling Damage Onyx +28*F2;
+Sparkling Damage Peridot +28*F2;
+Sparkling Damage Ruby +28*F2;
+Sparkling Damage Sapphire +28*F3;
+Sparkling Defense Amethyst +55*F2;
+Sparkling Defense Citrine +55*F2;
+Sparkling Defense Hematite +55;
+Sparkling Defense Jade +55;
+Sparkling Defense Onyx +55*F2;
+Sparkling Defense Peridot +55*F2;
+Sparkling Defense Ruby +55*F3;
+Sparkling Defense Sapphire +55*F3;
+Sparkling Defense Amethyst +56*F3;
+Sparkling Defense Citrine +56*F5;
+Sparkling Defense Hematite +56*F3;
+Sparkling Defense Jade +56*F4;
+Sparkling Defense Onyx +56*F2;
+Sparkling Defense Opal +28*F2;
+Sparkling Defense Peridot +56*F3;
+Sparkling Defense Ruby +56*F3;
+Sparkling Defense Sapphire +56*F7;
+Sparkling Health Opal +122*F5;
+Sparkling Health Opal +123*F8;
+Sparkling Health Opal +124*F7;
+Sparkling Health Opal +125*F8;
+Sparkling Mana Opal +49*F4;
+Sparkling Mana Opal +52*F7;
+
+| pins =
+
+| pets =
+Life-ish Frog*F27;
+
+| seeds =
+Baby Carrots;
+Bell Pepper;
+Boon Tree*CR*F3;
+Clockwork Flower;
+Cornbread Fruit Bush;
+Couch Potatoes*CR*F2;
+Dandelion;
+Deadly Fly Trap*F3;
+Deadly Helephant Ears*F2;
+Evil Magma Peas*CR;
+Face Palm*F6;
+Fiery Boom Shroom;
+Fish on a Vine*F7;
+Fortune Cookie Tree*F3;
+Frozen Fly Trap;
+Golden Couch Potatoes;
+Goose Tree;
+Green Snow Apples;
+Ivy League*CR;
+Key Limes*CR;
+Maltese Tiger Lily*F2;
+Moon Flower*F3;
+Queen Crape Myrtle*F4;
+Red Bell Pepper;
+Red Huckleberries;
+Saw Palmetto*F3;
+Silver Trumpet Vine;
+Snow Apples;
+Sugar Khrystal*F7;
+Sunion*CR;
+Ultra Dandelion*F4;
+Ultra Boom Shroom*F2;
+Ultra Fly Trap*F3;
+Ultra Helephant Ears*F3;
+Ultra King Parsley;
+Ultra Ninja Fig*F6;
+Ultra Snow Apples*F4;
+Ultra Trumpet Vine*F3;
+White Desparagus;
+White Tiger Lily*F2;
+
+| mounts =
+
+| spells =
+
+}}

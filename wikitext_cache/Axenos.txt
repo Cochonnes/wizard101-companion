@@ -1,0 +1,156 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 4,055
+| crecla = Celestian Protector
+| crecla2 = Golem
+| school = Balance
+| startpips = 4
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life, Death;
+
+| incresist =
+35% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Celestia
+| location = District of the Stars
+| subloc1 = Hall of Congruencies
+| descrip = This creature is summoned, and can be re-summoned repeatedly, using the Archive Pedestal.
+
+| speech =
+:''"For time out of mind, I roamed the Spiral, stellar winds at my back, lunar light to guide me... and solar fire in my grasp. The Celestians bound me, banished me to a Place That Was Not a Place, a prison with no walls. Now you have set me free! In return, I will spare you the horror I will inflict upon the worlds of the Spiral. I will destroy you first! You do not need to thank me for this honor."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+A cosmic being imprisoned in an endless void, which has escaped and manifested itself through a robot. That's... just nifty.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold =
+
+}}
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Precision;
+Balanceblade;
+Elemental Blade;
+Spirit Blade;
+Elemental Trap;
+Sandstorm;
+Iron Curse;
+Spirit Blast;
+Spectral Blast;
+Spinning Scythe;
+Hydra;
+Power Nova;
+Natural Attack (Balance 85x, 85%);
+
+
+| quests =
+Ambiguity Archive;
+
+| gold =
+0 - 33;
+
+| hats =
+Furious Facade*F4*WMV;
+Novitiate Hat;
+Symmetrical Hat*F3;
+
+| robes =
+Raiment of Ruin*F2;
+Typhoon Armor*F2;
+
+| boots =
+Ice Rangers*F4*WMV;
+
+| athames =
+Blistering Bodkin*F4*WMV;
+Curing Claw*F2*WMV;
+Storied Stiletto*F3*WMV;
+
+| amulets =
+
+| rings =
+Echo Ring*F2;
+Seal of Ordeal*F4*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Water-Mole Shield*F4;
+
+| cards =
+Ghoul;
+Lightning Bats;
+Monstrous*F8*WMV;
+Vengeance*F3*WMV;
+
+| reagents =
+Cobalt;
+Nickel*F2;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Delicious Cookie*F2;
+Glowing Star Fruit*F3*WMV;
+Glowing Taffy*F3*WMV;
+Spicy Drumstick*F3*WMV;
+Strawberry Cupcake;
+Submarine Sandwich;
+
+| jewels =
+Elf on Fire Ruby;
+Entangle Jade;
+Melt Sapphire;
+Greensleeves Jade;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2*WMV;
+Maelstrom Snap Dragon*F2;
+Pink Dandelion*CR*F3;
+Silver Trumpet Vine*CR*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

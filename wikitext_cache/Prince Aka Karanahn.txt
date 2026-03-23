@@ -1,0 +1,157 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 720
+| crecla = Krokotopian
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth;
+
+| incresist =
+60% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Karanahn Mortifier;
+
+| world = Krokotopia
+| location = Karanahn Palace
+| descrip =
+
+| speech =
+:''"I do not recognize you! Therefore, my face is the last one you will see. Prepare yourself for pain, Wizard!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 125 Storm Damage per Pip.
+
+| casts =
+Weakness;
+Stormblade;
+Thunder Snake;
+Lightning Bats;
+Evil Snowman (Storm);
+Storm Shark;
+Squall Wyvern;
+Leprechaun;
+Cyclops;
+
+| quests =
+The Key to the Temple;
+The Four Princes;
+
+| gold =
+20 - 43;
+
+| hats =
+Cap of Burning Sands*F2*WMV;
+Cowl of Alacrity;
+Cowl of Summertime*F2*WMV;
+Cowl of the Fortress;
+Karanahn's Ignited Hood*F2*WMV;
+Prince Aka's Arctic Hood*F2*WMV;
+Rough-Hewn Hood;
+Threadbare Hood;
+
+| robes =
+Cloak of Humility*F3*WMV;
+Karanahn's Parched Tunic;
+Maker's Vestment*F3*WMV;
+Prince Karanahn's Vest*F2*WMV;
+Prince's Adaptive Robe*F2*WMV;
+Robe of the Bastion;
+Sturdy Robe;
+Vest of the Oasis;
+Vestment of Darkness;
+
+| boots =
+Boots of the Citadel;
+Boots of the Whirlwind*F2*WMV;
+Karanahn's Footwraps*F2*WMV;
+Princely Shoes of Sagas*F2;
+Sandals of Refuge;
+Shoes of the Desert;
+
+| athames =
+Crystalline Dagger*F2*WMV;
+Glacial Dagger*F3*WMV;
+Parched Kris;
+Stiletto of Ignition*F2;
+
+| amulets =
+
+| rings =
+Band of the Oasis*F2*WMV;
+Band of the Skies;
+Band of the Vindicator*F8;
+Signet of the Ancients*F4*WMV;
+
+| wands =
+Bolt Blade*CR*F2*WMV;
+
+| decks =
+
+| items =
+Krok Moon Plaque;
+Krokotopian Counter*CR*F3*WMV;
+Prince Aka Karanahn*F4;
+Royal Krokotopian Vase*CR;
+
+| cards =
+Accurate;
+Giant;
+Krokomummy*F4*WMV;
+Storm Shark;
+Sunbird;
+
+| reagents =
+Copper;
+Deep Mushroom;
+Iron*F3;
+Nickel;
+Pyrite;
+
+| spellements =
+
+| snacks =
+Cracker;
+Green Grapes*F2*WMV;
+Nettle Root;
+Tiny Fish*F3*WMV;
+
+| jewels =
+Chipped Defense Citrine +13;
+Chipped Defense Jade +13;
+Chipped Mana Opal +9;
+Scoot Opal;
+
+| pins =
+
+| pets =
+Furious Krokomummy*F4*WMV;
+Storm Salamander*F2*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Pink Dandelion*CR*F2;
+
+| mounts =
+
+| spells =
+
+}}

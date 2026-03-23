@@ -1,0 +1,178 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 3,250
+| crecla = Dog
+| school = Balance
+| masteries =
+Death;
+
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+43%;
+
+| incboost =
+30% Myth;
+80% Life;
+
+| incresist =
+8% Fire, Ice, Storm, Shadow;
+38% Balance;
+50% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Flames of Doom (Tier 1);
+History of Horrors (Tier 1);
+Malefic Mythology (Tier 1);
+Savage Stories (Tier 1);
+Terrors of the Deep (Tier 1);
+The Road to Ruin (Tier 1);
+The Woeful Wastes (Tier 1);
+
+| world = Housing Instance
+| location = Forbidden Library Gauntlet
+| subloc1 = Forbidden Library Gauntlet (Tier 1)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"Who are you? Ha! A stooge of the cowardly librarians who fret over forbidden lore. Those fools in their pathetic secret club waste their time cowering from greatness. Unlike the spineless Order of Archival Misfits, I, the greatest Bibliomancer to ever live, will coax the secrets from this so-called Unreadable Book. There is no text of any origin, written or yet undreamt of, that will not bend itself to my will. I will be the first to read the Unreadable Book!"''
+
+| cheatnotes =
+{{Icon|Balance}} '''Bodleian Harrow'''
+*''"I'm turning over a new page!"'': 
+**{{Icon|Curse}} If a Wizard casts a harmful Charm, Bodleian Harrow will cheat-cast a Balance version of {{Link|Spell|Cleanse Ward}} to remove all harmful Charms on him.
+**{{Icon|Trap}} If a Wizard casts a Trap, Bodleian Harrow will cheat-cast a Balance version of {{Link|Spell|Cleanse Ward}} to remove all Traps on him.
+*{{Icon|Polymorph}} '''Polymorph:''' ''"At last I will read The- wait a minute!"'' - After Bodleian Harrow (Balance) is defeated, he will Polymorph himself into a Storm version.
+
+{{Icon|Storm}} '''{{Link|Polymorph|Bodleian Harrow (Tier 1)}}'''
+*{{Icon|Minion}} ''"Knowledge is power!"'' - On the first Round after being Polymorphed, Bodleian Harrow will cheat-cast a Shadow Spell that summons two random Minions:
+**{{Link|Creature|Flames of Doom (Tier 1)}}
+**{{Link|Creature|History of Horrors (Tier 1)}}
+**{{Link|Creature|Malefic Mythology (Tier 1)}}
+**{{Link|Creature|Savage Stories (Tier 1)}}
+**{{Link|Creature|Terrors of the Deep (Tier 1)}}
+**{{Link|Creature|The Road to Ruin (Tier 1)}}
+**{{Link|Creature|The Woeful Wastes (Tier 1)}}
+*{{Icon|Trap}} ''"Literacy dies in darkness."'' - If a Wizard casts a Trap, Bodleian Harrow will cheat-cast a Balance version of {{Link|Spell|Cleanse Charm}} to remove all harmful Charms on himself, and then cast an all enemies version of {{Link|Spell|Hex}}.
+*{{Icon|Steal}} ''"Reading is a great restorative!"'' - Every 4th Round after summoning Minions, Bodleian Harrow will cheat-cast {{Link|Spell|Siphon Health}} on a random Minion, defeating it and healing himself for '''400''' Health.
+*{{Icon|Minion}} ''"Time for a book recall!"'' - When all of Bodleian Harrow's Minions are defeated, he will resummon more Minions at the beginning of the next Round.
+
+| spellnotes =
+*Casts Hex (1 Pip) on all enemies.
+
+| casts =
+Smoke Screen;
+Steal Health (335);
+Balanceblade;
+Hex (1 Pip);
+Balance of Power;
+Spiritual Tribunal (Tier 3a);
+Obsidian Colossus (420);
+Mighty Judgement;
+Power Nova;
+Wrath of Aquila;
+
+| quests =
+
+| gold =
+60;
+
+| hats =
+Baleful Hardback Helmet (Level 50+)*CR;
+Chilling Hardback Helmet (Level 50+)*CR;
+Epic Hardback Helmet (Level 50+)*CR;
+
+| robes =
+Astute Plot Armor (Level 50+)*CR;
+Epic Plot Armor (Level 50+)*CR;
+Vibrant Plot Armor (Level 50+)*CR;
+
+| boots =
+Astute Page Treaders (Level 50+)*CR;
+Baleful Page Treaders (Level 50+)*CR;
+Epic Page Treaders (Level 50+)*CR;
+Fraught Page Treaders (Level 50+)*CR;
+Vibrant Page Treaders (Level 50+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Epic Archival Quill (Level 50+)*CR;
+Vibrant Archival Quill (Level 50+)*CR;
+
+| decks =
+
+| items =
+Books;
+Bookshelf;
+Carved Bookshelf;
+Grand Statue of Zeus;
+Lectern;
+Night Painting;
+Pen and Ink*F2*WMV;
+Regent's Library Shelf*F2*WMV;
+Stack of 5 Books;
+Stone Brazier*F2*WMV;
+
+| cards =
+
+| reagents =
+Unreadable Ink @ 2 Unreadable Inks;
+Unreadable Ink @ 3 Unreadable Inks*F2*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Armor Breaker Opal;
+Armor Piercer Opal*F2;
+Balanceblade Talent Citrine;
+Big Energy Opal;
+Blade Flurry Amethyst;
+Death-Dealer Onyx;
+Energy Opal;
+Get Sunbird Ruby;
+Greensleeves Jade*F2*WMV;
+Huge Energy Opal*F2*WMV;
+Life-Bringer Jade;
+Myth-Dealer Peridot;
+Storm-Dealer Amethyst;
+The Deer Knight Rises Onyx;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

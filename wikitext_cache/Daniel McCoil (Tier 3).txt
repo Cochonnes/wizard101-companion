@@ -1,0 +1,101 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 5,690
+| crecla = Train Boss
+| school = Death
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+70%;
+
+| incboost =
+
+| incresist =
+60% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Great Sky Train Robbery Gauntlet
+| subloc1 = Great Sky Train Robbery Gauntlet (Tier 3)
+| descrip =
+Daniel McCoil (Tier 3) is considered a Minion to {{Link|Creature|N. Bison (Tier 3)}}.  All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Death Damage.
+
+| casts =
+Empowerment;
+Life Shield (-85%);
+Infection;
+Deathblade (+40%);
+Feint (+75%);
+Empower (Death);
+Poison;
+Deer Knight (330+300);
+Wraith;
+Scarecrow;
+
+| quests =
+Insane In The Gem Train;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| elixirs =
+
+}}

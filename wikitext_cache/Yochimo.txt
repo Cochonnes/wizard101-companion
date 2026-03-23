@@ -1,0 +1,175 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 880
+| crecla = Samoorai
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = MooShu
+| location = Jade Palace
+| subloc1 = Water Dojo
+| descrip =
+Wizards must defeat Yochimo to pass the Test of Body.
+
+| speech =
+:''"You wish to battle me? I would be honored. I've never faced a Wizard! Let us prepare and meet again inside the Dojo."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Life Damage per Pip
+
+| casts =
+Myth Shield;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Storm Serpent (155-195);
+Storm Elf (30+210);
+Lightning Bats;
+Tempest;
+Troll;
+Banshee;
+
+| quests =
+A Test of Strength;
+
+| dropnotes =
+When a Wizard has unlocked the '''Mastermind''' {{Icon|Mastermind}} Badge and has not unlocked the '''Savior of the Spiral''' {{Icon|Savior of the Spiral}} Badge, the following drops will be available:
+*8 Spellements will drop each time from the '''Elemental''' (Fire, Ice, Storm, Balance) Schools for their respective rank 1-5 Spells.
+
+| gold =
+9 - 20;
+
+| hats =
+Cap of Consideration;
+Cowl of Watchfulness;
+Friendly Helm;
+Hat of the Observant;
+Headwraps of Anthems;
+Helm of Sandcastles;
+Hood of Chimes;
+Immersive Cowl;
+Pupil's Cap;
+Shroud of Deliberation;
+Shroud of Scruples;
+
+| robes =
+Abstract Vestment;
+Benign Robe;
+Friendly Garments*F2;
+Garment of Yodels;
+Tunic of Chimes;
+Tunic of Impression;
+Tunic of Scruples;
+Vestment of the Eager;
+Vexing Tunic;
+Zippy Tunic;
+
+| boots =
+Benign Slippers;
+Boots of the Lithe;
+Light-As-Air Slippers;
+Nunu's Twisted Slippers;
+Painful Slippers;
+Shoes of the Whim*F2;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Deck of the Lotus;
+
+| items =
+Hanging Naginata Spear;
+Haystack;
+Small Woodpile;
+
+| cards =
+Doom and Gloom;
+Dragonflies;
+Pest Zapper;
+Wyldfire;
+
+| reagents =
+Bronze Gear;
+Nickel;
+
+| spellements =
+Blight Hound*BR*F2;
+Evil Snowman*BR;
+Fire Cat*BR*F2;
+Fire Elf*BR*F3;
+Frost Beetle*BR;
+Gearhead Destroyer*BR*F2;
+Ice Wyvern*BR*F2;
+Immolate*BR*F3;
+Kraken*BR;
+Lightning Bats*BR*F2;
+Locust Swarm*BR;
+Phoenix*BR*F3;
+Scarab*BR;
+Scorpion*BR;
+Snow Serpent*BR*F2;
+Spectral Blast*BR;
+Storm Shark*BR;
+Stormzilla*BR;
+Sunbird*BR;
+Thunder Snake*BR*F3;
+
+| snacks =
+Ape Grapes*F3*WMV;
+Crunch Apple;
+Golden Peanut;
+Golden Squash;
+Large Fish;
+Large Watermelon;
+Square Root*F2*WMV;
+
+| jewels =
+Blemished Defense Ruby +21;
+Blemished Defense Sapphire +21;
+Move It! Opal;
+Mute Opal;
+Storm-Proof Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,327 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 32,000
+| crecla = Elemental
+| school = Shadow
+| school2 = Ice
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+17%;
+
+| outboost =
+130%;
+
+| incboost =
+5% Fire, Life;
+
+| incresist =
+25% Storm, Myth, Death, Balance;
+50% Shadow;
+70% Ice;
+
+| outhealing =
+
+| inchealing =
+50%
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Aethyr Elemental (16,000);
+Aethyr Elemental (16,000);
+
+| world = Empyrea
+| location = Northeast Aero Plains
+| subloc1 = Northeast Aero Plains Stone Key Room
+| badge = Aethyr Eater
+| descrip =
+Aethyr Elemental is a Boss located in Northeast Aero Plains near the bridge, which requires a {{Link|House|Stone Skeleton Key}} to access. This boss has no Astral resist.
+
+| speech =
+:''"*Angry inhuman roar*"''
+
+| cheatnotes =
+{{Icon|Late}}''"You're Late"'' - Casts Lord of Winter (Shadow) on any Wizard who joins after the second round of the duel. Each Boss that is present will cast this cheat.
+
+{{Icon|Feint}} Casting a {{Link|Spell|Feint}} Spell will trigger casting of a double Cleanse Ward, which removes the last two Traps placed on the Boss.
+**Indemnity can prevent the Feint from being removed.
+**{{Link|ItemCard|Mass Feint}} will trigger this cheat.
+** The Balance version of {{Link|ItemCard|Feint}} does not trigger this cheat.
+
+{{Icon|Heal over Time}} Casting a Heal Over Time Spell will trigger the Boss to cast {{Link|Spell|Snow Drift}}.
+
+{{Icon|Damage over Time}} Casting a Damage Over Time Spell will trigger the Boss to cast {{Link|Spell|Mass Triage}}.
+
+'''Phase 1'''
+
+{{Icon|Blade}}{{Icon|Global}} Casting a Charm or Global Spell triggers casting of a Mass version of Enfeeble (Moon).  This is also triggered by casting a negative Charm on the Boss.  This cheat only applies for the Phase 1 Boss.  Charms are allowed in Phase 2 and Phase 3.
+**Aegis can protect one Blade Spell.
+
+'''Phase 2'''
+
+{{Icon|Afterlife}} After being defeated, this Boss splits into two Aethyr Elemental (16,000) Bosses.
+
+'''Phase 3'''
+
+{{Icon|Afterlife}} The Boss will split again into two {{Link|Creature|Aethyr Elemental (8,000)}} Bosses per each Aethyr Elemental (16,000) that is defeated.
+
+| spellnotes =
+*Casts a protected Tower Shield (-55%) and Icy Shadowblade.
+
+'''Natural Attack:'''
+*Deals 420 Ice Damage for 4 Pips.
+*Deals 420 Shadow Damage for 4 Pips.
+
+| casts =
+Dark Fiend;
+Brace;
+Sleet Storm (6 Rounds);
+Impede;
+Quicken;
+Tower Shield (-55%);
+Volcanic Shield (-75%);
+Icy Shadowblade;
+Natural Attack (Shadow 105-210-315, 75%);
+Angry Snowpig;
+Natural Attack (Ice 105-210-315, 75%);
+Climaclysm;
+Blizzard (290-330, 80%);
+Winter Moon;
+Handsome Fomori (500-580);
+Colossus (525-605);
+Frost Giant (530);
+Snowball Barrage;
+
+| quests =
+
+| gold =
+1,125 - 1,440;
+
+| hats =
+Cap of the Star;
+Gallant Rogue's Cap;
+Gleeman's Cap;
+Interstellar Warrior Helm;
+Rhapsodist's Cap;
+Scribe's Cap;
+Songster's Cap;
+Sonneteer's Cap;
+Troubador's Cap;
+Trouper's Cap;
+
+| robes =
+Bardic Tunic;
+Gallant Rogue's Tunic;
+Gleeman's Tunic;
+Rhapsodist's Tunic;
+Scribe's Tunic;
+Songster's Tunic;
+Sonneteer's Tunic;
+Troubador's Tunic;
+Trouper's Tunic;
+Tunic of the Star;
+
+| boots =
+Bardic Shoes*F2;
+Gallant Rogue's Shoes;
+Gleeman's Shoes;
+Rhapsodist's Shoes;
+Shoes of the Star;
+Scribe's Shoes;
+Songster's Shoes;
+Troubador's Shoes*F2;
+Trouper's Shoes;
+Verdant Zanadu Boots;
+
+| athames =
+Blazing Zanadu Dagger;
+Crackling Zanadu Dagger*F2;
+Freezing Zanadu Dagger*F2;
+Grim Zanadu Dagger*F2;
+Hopeful Zanadu Dagger*F2;
+Illuminated Zanadu Dagger*F2;
+Immutable Zanadu Dagger;
+Verdant Zanadu Dagger*F3;
+
+| amulets =
+Blazing Zanadu Pendant;
+Crackling Zanadu Pendant*F2;
+Freezing Zanadu Pendant;
+Grim Zanadu Pendant;
+Hopeful Zanadu Pendant*F2;
+Illuminated Zanadu Pendant;
+Immutable Zanadu Pendant;
+Interstellar Officer's Charm;
+Verdant Zanadu Pendant*F2;
+
+| rings =
+
+| wands =
+Sycorax's Blizzard Crook*F3;
+Sycorax's Crook of Illusions;
+Sycorax's Crook of Tempests; 
+Sycorax's Crook of the Lost;
+Sycorax's Sandstorm Crook*F2;
+Sycorax's Wildfire Crook*F2;
+Witch Crook of Sycorax*F3;
+
+| decks =
+
+| items =
+Aero Dwarf Potted Plant;
+Dwarven Side Table;
+Empyrea Chaos Jungle Theme;
+Fire Dwarf Bed*F2;
+Fire Dwarf Settee;
+Grandmaster Socket Wrench;
+Ice Dwarf Chair*F3;
+Ice Dwarf Settee;
+Kalamar Basket with Handle*F4*WMV;
+Kalamar Bed;
+Kalamar Chair;
+Nimbari Brazier;
+Stone Skeleton Key*CR*F4*WMV;
+Wooden Skeleton Key*CR*F3;
+
+| cards =
+Banshee;
+Black Cat*F2;
+Dark Tribute*F2;
+Death Prism;
+Dragonblade (Balance)*F2;
+Dryad;
+Elemental Blade*F2*WMV;
+Elemental Spear;
+Firespear;
+Fortify;
+Ice Prism;
+Imp*F5*WMV;
+Lifespear *F2;
+Mass Fire Prism;
+Mass Myth Prism;
+Minotaur*F2;
+Mythspear;
+Power Play;
+Sandstorm*F3;
+Spirit Blade*F4;
+
+| reagents =
+Aether*F3;
+Aethyr Dust*F2;
+Agave Leaves;
+Amber Dust;
+Ancient Scroll;
+Antique Coins;
+Aquamarine*F3;
+Astral Shard*F2;
+Black Pearl;
+Blood Moss;
+Bronze Gear;
+Cobalt*F2;
+Ectoplasm;
+Fish Fin;
+Flawless Opal;
+Flying Squid Ink*F2;
+Mithril*F2;
+Nickel;
+Orichalcum*F3*WMV;
+Scales*F3;
+Silver*F2;
+Spider Silk*F2;
+Stardust*F4*WMV;
+Steel*F2;
+Sunstone*F3;
+Tin*F2;
+Titanium*F2;
+Turquoise;
+Vine;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate;
+BBQ Drumstick;
+Beast Wellington;
+Bread Fruit Fruit;
+Decimatoes;
+Discord Grape Jelly;
+Dragon Fruit;
+Eye Candy;
+Fire Passion Fruit;
+Glowing Taffy*F2;
+Green Tomato;
+High Road Haggis;
+Hot Cross Buns*F2*WMV;
+Pizza;
+Rock and Roll Candy;
+Roly Poly Fishheads;
+Satyr Chow;
+Sprinkle Cupcake;
+Veggie Juice;
+
+| jewels =
+Flawless Opal;
+Lustrous PIP Opal +10%;
+Shiny Accurate Citrine +12%*F2*WMV;
+Shiny Accurate Opal +6%;
+Shiny Accurate Peridot +12%;
+Shiny Accurate Sapphire +12%;
+Shiny Blocking Citrine +15;
+Shiny Blocking Onyx +15;
+Shiny Critical Amethyst +15;
+Shiny Critical Citrine +15;
+Shiny Critical Ruby +15;
+Shiny Critical Sapphire +15;
+Shiny Damage Amethyst +25;
+Shiny Damage Onyx +25;
+Shiny Damage Sapphire +25;
+Shiny Defense Onyx +51;
+Shiny Defense Sapphire +50;
+Shiny Healing Opal +6%;
+Shiny Mending Opal +6%;
+Sparkling Accurate Hematite +13%;
+Sparkling Accurate Onyx +13%;
+Sparkling Accurate Sapphire +13%;
+Sparkling Blocking Citrine +18;
+Sparkling Blocking Hematite +17;
+Sparkling Blocking Hematite +18;
+Sparkling Blocking Onyx +18;
+Sparkling Critical Hematite +17;
+Sparkling Damage Peridot +27;
+Sparkling Defense Citrine +53;
+Sparkling Defense Jade +56;
+Sparkling Defense Ruby +55;
+Sparkling Defense Sapphire +55;
+Sparkling Health Opal +117;
+Sparkling Health Opal +120;
+Sparkling Health Opal +122;
+Sparkling Health Opal +123;
+Sparkling Health Opal +124;
+Sparkling Health Opal +125;
+
+| pins =
+
+| pets =
+Blue Globulin;
+Dark Hound;
+Green Globulin;
+
+| seeds =
+
+| mounts =
+Aethyr Cloud*PERM*F3;
+
+| spells =
+
+}}

@@ -1,0 +1,99 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 6,400
+| crecla = Wizard
+| school = Ice
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+4%;
+
+| outboost =
+35%;
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Playhouse
+| subloc1 = Playhouse (Tier 5)
+| descrip =
+For the purpose of drops, Phantom Kenneth (Tier 5) is considered a Minion to {{Link|Creature|Phantom Olivier (Tier 5)}}. All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+*Casts an unknown variant of Icezilla or Arcticzilla.
+
+| casts =
+Fortify;
+Vengeance;
+Tower Shield;
+Iceblade;
+Ice Trap;
+Freeze;
+Balefrost;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Arcticzilla;
+Colossus;
+Snow Angel;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

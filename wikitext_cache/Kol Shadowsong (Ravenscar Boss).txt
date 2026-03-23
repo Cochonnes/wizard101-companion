@@ -1,0 +1,151 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 3,200
+| crecla = Raven
+| school = Fire
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Ice;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Winterwing Darktalon;
+
+| world = Grizzleheim
+| location = Ravenscar
+| subloc1 = Kol's Quarters
+| descrip =
+Kol Shadowsong is a member of {{Link|Creature|The Coven}}.  This is the first fight encounter with him.
+*Two additional Winterwing Darktalon Minions appear if more than two Wizards are present.
+
+| speech =
+:''"What? How did you find me? It... oh, bother... you will not leave here alive!"''
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Spirit Armor;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf;
+Sunbird;
+Fire Shark;
+Meteor Strike;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Heck Hound;
+
+| quests =
+The Unusual Suspects;
+
+| gold =
+73 - 103;
+
+| hats =
+Arctic Circlet*F2*WMV;
+Cap of Cessation*F2;
+Coif of the Antithesis;
+Mantle of Zest;
+
+| robes =
+Jerkin of the Undine*F2;
+Raiment of Lamentation;
+Surcoat of Sleet*F4*WMV;
+
+| boots =
+Boots of the Vortex;
+Brumal Boots*F2*WMV;
+Long Walkers;
+Mocassins of the Green;
+Sandals of the Shibboleth*F2;
+Thermic Waders;
+Winterweave Footgear;
+
+| athames =
+Bodkin of Battlefrenzy*F2*WMV;
+Poniard of Repose*F4*WMV;
+
+| amulets =
+
+| rings =
+Arctic Circlet*F4*WMV;
+Band of the Snow Owl;
+Signet of Fatality*F4*WMV;
+Stone of the Icedrake*F3;
+
+| wands =
+
+| decks =
+
+| items =
+Jar of Bat Wings*F2;
+
+| cards =
+Earthquake;
+Helephant;
+
+| reagents =
+Bone*F2;
+Cobalt;
+Copper;
+Iron;
+Lead;
+Nickel*F2*WMV;
+Spider Silk*F3*WMV;
+
+| spellements =
+
+| snacks =
+Glowing Rock Candy*F4*WMV;
+Golden Apple*F2*WMV;
+Meat Soup;
+Moon Pie*F3*WMV;
+Spicy Chips;
+Star Lollipop*F3*WMV;
+Tasty Biscuit*F5*WMV;
+Wheat Cracker;
+
+| jewels =
+Balefrost Sapphire;
+Dull Defense Ruby +25;
+Wipeout Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Couch Potatoes*CR;
+Evil Snow Peas*F3*WMV;
+Orange Dandelion*F2*WMV;
+Pink Dandelion*CR;
+Pink Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

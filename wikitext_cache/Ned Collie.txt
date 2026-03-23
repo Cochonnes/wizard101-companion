@@ -1,0 +1,162 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 16,150
+| crecla = Dingo
+| school = Death
+| school2 = Life
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Fire;
+Life;
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+27%;
+
+| outboost =
+119%;
+
+| incboost =
+30% Life;
+
+| incresist =
+37% Fire, Ice, Storm, Myth, Balance, Shadow;
+67% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Dingo Guard (Fire-Death);
+Dingo Guard (Fire-Myth);
+Dingo Guard (Fire-Myth);
+
+| world = Wallaru
+| location = Collie Ranch
+| subloc1 = West Pasture
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:'''{{Link|NPC|Ned Collie}}:''' ''Must say, Wizard, I'm disappointed. Thought you bein' a fugitive from the Spiral and all, you'd see our side of things."''
+:'''{{Link|NPC|Judge Judi}}:''' ''"You have no side. You're just a thief and a scoundrel. You abducted Judges, held tourists for ransom. You are a criminal."''
+:'''Ned Collie:''' ''"Yeah, well, what are you gonna do?"''
+
+| cheatnotes =
+*''"I'll take that!"'':
+**{{Icon|Blade}} If a Wizard casts a Positive Charm, Ned Collie will cast {{Link|Spell|Steal Charm}} on the caster.
+***For any Spell that applies multiple Blades, only the last Blade is removed, such as the fire blade from {{Link|Spell|Elemental Blade}}.
+***Spells that provide these as a secondary effect, such as {{Link|Spell|Shadow Shrike}}, will trigger this cheat.
+***{{Link|Spell|Aegis}} can be used to protect against this cheat.
+**{{Icon|Shield}} If a Wizard casts a positive Ward, Ned Collie will cast {{Link|Spell|Steal Ward}} on the caster.
+**{{Icon|Heal over Time}} If a Wizard casts a Heal over Time, Ned Collie will cast {{Link|Spell|Snow Drift}} on the caster.
+***Pet heals will trigger this cheat.
+
+| spellnotes =
+
+| casts =
+Flawless;
+Spirit Shield;
+Pigsie (Tier 3b);
+Dark Tribute;
+Ghoul (Tier 3b);
+Deer Knight (Tier 3a);
+Poison;
+Wrath of Hades (Death);
+Nature's Wrath (Tier 3b);
+Starspawn (Tier 3b);
+Hunting Wyrm;
+
+| quests =
+Good Golly, Ned Collie!;
+Wild West Pasture;
+
+| gold = 
+27 - 57;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Cattle Station Gate*CR*F8;
+Wallaru Billabong Resort Com Theme;
+Wallaru Doom Moon Theme;
+Wallaru Eucalyptus Forest Com Theme;
+Wallaru Eucalyptus Forest Theme;
+Wallaru Outback Theme;
+Wallaru Ranch Combat Theme;
+Wallaru The Dreaming Theme;
+
+| cards =
+Balanceblade;
+Cleanse Charm;
+Death Trap;
+Elemental Blade;
+Elemental Trap;
+Fireblade;
+Hex;
+Lord of Winter;
+Myth Trap;
+Spirit Trap;
+
+| reagents =
+Astral Shard;
+Brass;
+Cobalt;
+Draconium;
+Leather Straps;
+Scales;
+Spider Silk;
+Turmeric;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Atomic Fireball;
+Cowboy Chili;
+Fern Jelly;
+Flaming Jalapeno;
+Glowing Dragon Fruit;
+Lava Soup;
+Mince Pie;
+Spicy Drumstick*F3;
+Surfin' Turf;
+Venison Chili;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

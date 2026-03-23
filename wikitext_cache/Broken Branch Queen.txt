@@ -1,0 +1,187 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 11,510
+| crecla = Wizard
+| school = Storm
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+163 Any;
+
+| criticalblock =
+457 Any;
+
+| outpierce =
+13%;
+
+| outboost =
+93%;
+
+| incboost =
+30% Myth;
+
+| incresist =
+28% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+58% Storm;
+
+| outhealing =
+15%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Broken Branch King;
+
+| world = Arcanum
+| location = Lower Decks
+| subloc1 = Windgine Room
+| descrip =
+
+| speech =
+
+| cheatnotes = 
+'''Broken Branch Queen''':
+*{{Icon|Aura}} ''"The Queen protects her King!"'' - Starting at the beginning of the first Round, and then every sixth Round, Broken Branch Queen casts a -100% Incoming Damage Aura on Broken Branch King that lasts for six Rounds.
+**''"Not while I still stand!"'' - If a Spell is cast to remove the Aura, such as {{Link|Spell|Supernova}}, Broken Branch Queen will heal Broken Branch King to 100% Health, and recast the Aura. If the Aura is replaced with a Harmful Aura, Broken Branch Queen will recast it without healing Broken Branch King.
+***This does not remove the Harmful Aura.
+**The Broken Branch King can be defeated on the turn that the Aura expires, if the Bosses have the first turn in the battle.
+
+'''Broken Branch King''':
+*{{Icon|Ward}} ''"Are you the king?"'' - At the beginning of the first Round, Broken Branch King marks a random Wizard with a Stun Shield labeled "''King''."
+*{{Icon|Trap}} ''"Check!"'' - At the end of every third Round, Broken Branch King places a +100% Damage Ward on the marked Wizard.
+*{{Icon|Trap}} ''"Checkmate!"'' - After ?, Broken Branch King casts a +200% Damage Ward instead.
+*{{Icon|Afterlife}} ''"As goes the King, so the kingdom..."'' - When the marked Wizard is defeated, Broken Branch King will cast a Death version of Meteor Strike that deals 100% max Health Damage on all Wizards.
+*{{Icon|Afterlife}} ''"My strongest piece!"'' - When the Broken Branch Queen is defeated, Broken Branch King will remove his Aura.
+
+| spellnotes =
+*Casts a version of Storm Lord that doesn't Stun.
+
+| casts =
+Galvanic Field;
+Stormspear;
+Stormblade (+30%);
+Unstable Charge;
+Bunyip's Rage (Tier 2a);
+Storm Lord (975);
+Tempest;
+
+| quests =
+Bomb with the Wind;
+The Downer King;
+
+| gold =
+4 - 32;
+
+| hats =
+
+| robes =
+Armor of False Promises;
+Armor of the Burnt Forest;
+Armor of the Changing Tide;
+Armor of the Coldhearted;
+Armor of the Doomed;
+Armor of the Living Lie;
+Armor of the Turning Wheel;
+Broken Branch Loss Armor;
+Broken Branch Luckless Armor;
+Broken Branch Neglect Armor;
+Broken Branch Panic Armor;
+Broken Branch Rage Armor*F2;
+Broken Branch Sorrow Armor;
+Broken Branch Terror Armor;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+Broken Branch Loss Ring;
+Broken Branch Luckless Ring;
+Broken Branch Neglect Ring;
+Broken Branch Panic Ring;
+Broken Branch Rage Ring;
+Broken Branch Sorrow Ring;
+Broken Branch Terror Ring;
+Ring of False Promises;
+Ring of the Burnt Forest;
+Ring of the Changing Tide;
+Ring of the Coldhearted;
+Ring of the Doomed;
+Ring of the Living Lie;
+Ring of the Turning Wheel;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Ashen Bones;
+Boreas Ifrit;
+Deadly Minotaur;
+Harmattan Maxios;
+Snowball Barrage;
+
+| reagents =
+
+| spellements =
+Barbarian's Saga*F2;
+Chameleon Clash;
+Count Croakula*F2;
+Dark & Stormy*F2;
+Deathly Depths;
+Drop Bear Fury;
+Glimpse of Infinity;
+Grim Reader;
+Heqet;
+Mortality*F2;
+Old One's Endgame;
+Phantasmania!*F2;
+Scales of Destiny*F2;
+Shu*F2;
+Taweret;
+The Chariot;
+The Emperor;
+The Hierophant;
+The World;
+Tree of Strife;
+Wheel of Fortune;
+Wobbegong Frenzy;
+Zand the Bandit*F2;
+
+| snacks =
+
+| jewels =
+Flawless Blocking Citrine +24;
+Flawless Blocking Jade +24;
+Unearthly Blocking Amethyst +44;
+Unearthly Health Amethyst +525;
+Unearthly Health Sapphire +735;
+Unearthly Mending Opal +8%;
+
+| pins =
+Ice Accurate Pin (110)*F2;
+Life Conversion Pin (170);
+Myth Accurate Pin (100)*F2;
+Storm Accurate Pin (80);
+Storm Conversion Pin (160);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

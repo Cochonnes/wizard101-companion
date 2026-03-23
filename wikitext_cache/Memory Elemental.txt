@@ -1,0 +1,101 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 6,965
+| crecla = Elemental
+| school = Balance
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+36%;
+
+| incboost =
+None;
+
+| incresist =
+30% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Risen Dead (Balance);
+
+| world = Azteca
+| location = Cenote
+| subloc1 = Deep Crypt
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Amplify;
+Elemental Weakness;
+Helping Claws;
+Mass Hex;
+Dyvim's Resurgence (Tier 2b);
+Spiritual Tribunal (Tier 2b);
+Locust Swarm (Tier 2b);
+Obsidian Colossus (Tier 2b);
+Ra;
+Chimera (Tier 2a);
+
+| quests =
+Marvellous Ms. Maple;
+The Nameless Horror;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,371 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 10,560
+| crecla = Spider
+| school = Life
+| startpips = 5
+| powerpips = Yes
+| critical =
+163 Any;
+
+| criticalblock =
+237 Any;
+
+| outpierce =
+20%;
+
+| outboost =
+95%;
+
+| incboost =
+5% Death;
+
+| incresist =
+70% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Monkey Spider;
+
+| world = Empyrea
+| location = Aeriel Jungle
+| subloc1 = Monkey Spider Nest
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Empyrea
+| tome description =
+The mother of all Monkey Spiders. Well... not ALL. That's ridiculous. More like some. Mother of some Monkey Spiders.
+
+| extract class =
+Spider;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Guidance;
+Life Scarab;
+Giant Spider;
+Natural Attack (Life 108-200-295);
+Goat Monk;
+Life Banshee (250);
+Forest Lord;
+Spinysaur;
+
+| quests =
+Word Search;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge and has not unlocked the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge, the following drops will be available:
+*4 Spellements will drop each time from '''any''' School for their respective rank 10, 11, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+163 - 257;
+
+| hats =
+Interstellar Navigator Helm;
+Interstellar Officer's Helm;
+Medic's Interstellar Helm;
+
+| robes =
+Interstellar Delegate's Suit;
+Interstellar Explorer's Uniform;
+Interstellar Hero's Uniform;
+
+| boots =
+Interstellar Engineer Trekkers;
+Interstellar Warrior Trekkers;
+
+| athames =
+
+| amulets =
+Interstellar Medic's Charm;
+
+| rings =
+Interstellar Officer's Band;
+
+| wands =
+Explorer's Hexacorder;
+
+| decks =
+Bodacious Kalamar Deck;
+Chill Kalamar Deck;
+Choice Kalamar Deck;
+Heavy Kalamar Deck;
+Interstellar Delegate's Deck;
+Interstellar Explorer's Deck;
+Mondo Kalamar Deck;
+Rad Kalamar Deck;
+Righteous Kalamar Deck;
+
+| items =
+Aero Dwarf Blue Vase;
+Aero Dwarf Chair;
+Aero Dwarf Potted Plant;
+Empyrea Aeriel Theme;
+Empyrea Athanor Combat Theme;
+Empyrea Finale Combat Theme;
+Empyrea Flotsam Combat Theme;
+Empyrea Husk Combat;
+Empyrea Husk Theme*F2*WMV;
+Empyrea Inner Athanor Theme*F2;
+Empyrea Jungle Theme;
+Kalamar Chair;
+Kalamar Side Table;
+Nimbari Sword Rack*F2;
+Ornate Nimbari Vase;
+Tall Kalamar Vase;
+
+| cards =
+Combustion;
+Cyclops;
+Doom and Gloom;
+Fable Lord;
+Forest Lord;
+Kraken*F3*WMV;
+Lord of the Squall;
+Mass Fire Prism;
+Mass Life Prism;
+Mass Storm Prism;
+Mass Triage;
+Mega Soothe;
+Mega Subdue;
+Mutate Banshee (Sun);
+Mutate Bats (Ice);
+Mutate Beetle (Fire);
+Mutate Bird (Storm);
+Mutate Colossus (Storm);
+Mutate Elf (Ice);
+Mutate Minotaur (Sun);
+Mutate Phoenix (Ice);
+Mutate Phoenix (Sun);
+Mutate Shark (Ice);
+Mutate Sprite (Death);
+Mutate Wyvern (Storm);
+Oni No Plague;
+Sanctuary;
+
+| reagents =
+Aether;
+Agave Leaves;
+Agave Nectar;
+Amber*F2;
+Amber Dust;
+Ancient Scroll*F2;
+Antique Coins*F2;
+Aquamarine;
+Astral Shard;
+Black Pearl;
+Blood Moss;
+Braided Vine;
+Brass;
+Bronze Gear*F3*WMV;
+Cobalt;
+Draconium*F3*WMV;
+Ectoplasm;
+Fire Blossom;
+Flying Squid Ink*F3;
+Golden Pearl*F3;
+Merle's Whisker*F2*WMV;
+Mithril;
+Nickel;
+Orichalcum;
+Scales*F5*WMV;
+Silver*F2;
+Spider Silk;
+Spring;
+Stardust;
+Steel*F3;
+Sunstone;
+Tin;
+Titanium;
+Tungsten;
+Turmeric;
+Turquoise*F2*WMV;
+Vine;
+
+| spellements =
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR*F2;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR*F2;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Lamassu*BR;
+Lord of Winter*BR;
+Scion of Storm*BR;
+Snake Charmer*BR;
+Sun Serpent*BR;
+
+| snacks =
+Athame Pop;
+Aztecan Hot Chocolate;
+BBQ Drumstick;
+Beast Wellington;
+Berry Poundcake*F2*WMV;
+Boiled Spider Legs*F3;
+Bread Fruit Fruit;
+Cherry Pie;
+Cow Pie;
+Dastardly Radish;
+Decimatoes;
+Dr. Jalapeno;
+Drumstick;
+Eye Candy;
+Flaming Jalapeno;
+Gator Tots*F3*WMV;
+Ginger Mint Tea;
+Golden Squash*F2;
+Gummy Humongofrog;
+Hero Sandwich;
+Hot Cross Buns;
+Killer Tomato;
+Lemon Daisy;
+Minotarts;
+Pineapple Spears;
+Pizza*F2*WMV;
+Pyramints;
+Redskin Peanut;
+Rock and Roll Candy;
+Salmon Joy;
+Satyr Chow;
+Spicy Drumstick*F2;
+Sprinkle Cupcake*F3;
+Super Cold Popsicle;
+
+| jewels =
+Ally Stun Block Sapphire;
+Balance-Eye Citrine;
+Balance-Giver Citrine;
+Balance-Sniper Citrine;
+Balance-Ward Citrine;
+Death-Eye Onyx;
+Death-Proof Onyx;
+Death-Ward Onyx;
+Fire Striker Ruby;
+Fire-Dealer Ruby;
+Fire-Eye Ruby;
+Fire-Giver Ruby;
+Ice-Proof Sapphire;
+Ice-Ward Sapphire;
+Infector Onyx;
+Life Striker Jade;
+Life-Bringer Jade;
+Life-Proof Jade;
+Lively Opal;
+Lustrous Accurate Amethyst +11%;
+Lustrous Accurate Onyx +11%;
+Lustrous Blocking Citrine +13;
+Lustrous Critical Amethyst +13;
+Lustrous Defense Onyx +45;
+Lustrous Defense Ruby +45;
+Lustrous Health Opal +96;
+Lustrous Health Opal +97;
+Lustrous Mana Opal +41;
+Lustrous Mana Opal +42;
+Myth-Sniper Peridot;
+Myth-Ward Peridot;
+Sparkling Blocking Citrine +18;
+Sparkling Blocking Onyx +18;
+Sparkling Blocking Peridot +18;
+Sparkling Blocking Sapphire +18;
+Sparkling Critical Amethyst +18;
+Sparkling Critical Citrine +18;
+Sparkling Critical Hematite +18;
+Sparkling Critical Jade +18;
+Sparkling Critical Peridot +18;
+Sparkling Damage Onyx +28;
+Sparkling Damage Peridot +28*F2;
+Sparkling Damage Ruby +28;
+Sparkling Defense Amethyst +55;
+Sparkling Defense Hematite +56;
+Sparkling Defense Opal +28;
+Sparkling Defense Peridot +55;
+Sparkling Defense Sapphire +56;
+Sparkling Health Opal +122;
+Sparkling Health Opal +123;
+Sparkling Mana Opal +52;
+Spell-Defying Opal;
+Steal Health Talent Onyx;
+The Deer Knight Rises Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak;
+Angora Bunny Ears*F3*WMV;
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper*F2;
+Blue Huckleberries;
+Boiled Peanuts;
+Boom Shroom;
+Boon Tree*CR;
+Bread Fruit Bush;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Dandelion;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Face Palm;
+Fickle Pickle;
+Fish on a Vine;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Golden Couch Potatoes;
+Goose Tree;
+Green Snow Apples;
+Helephant Ears;
+Honey Bee Plant;
+Honey Sickle*F3*WMV;
+Ivy League*CR;
+King Parsley*CR;
+Laugh-O-Dil;
+Maltese Tiger Lily;
+Ninja Fig*CR;
+Orange Bell Pepper*CR;
+Pink Huckleberries;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Red Couch Potatoes;
+Red Grapes of Wrath*F3*WMV;
+Rye Bread Fruit Bush;
+Sour Fickle Pickle;
+Sword Fern*CR*F2;
+Tiger Lily (Seed);
+Trumpet Vine;
+Ultra Dandelion;
+Ultra Huckleberries;
+Ultra Ninja Fig;
+Venus Fly Trap;
+White Laugh-O-Dil;
+White Tiger Lily*F2;
+
+| mounts =
+
+| spells =
+
+}}

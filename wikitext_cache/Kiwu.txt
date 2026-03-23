@@ -1,0 +1,224 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 600
+| crecla = Krokotopian
+| crecla2 = Mander
+| school = Balance
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+7% Myth, Life, Death;
+
+| incresist =
+50% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Tomb Lurker;
+
+| world = Krokotopia
+| location = Karanahn Barracks
+| subloc1 = 
+| descrip =
+*Kiwu betrayed his fellow Manders in the [[Location: Tomb of Storms| Tomb of Storms]] to work for the Karanahns, who are helping to enslave the Manders.  He carries the key to the {{Link|Location|Lair of Taskmaster Djal}}.
+*Kiwu is unique in that he does not appear in an instance, similar to the [[Creature:Kraken|Kraken]] or [[Creature:King Uro Ahnic|King Uro Ahnic]].
+*Kiwu apprears with a Minion, Tomb Lurker.  After they are defeated, both Kiwu and his Minion respawn within a few minutes.
+
+| speech =
+:''"You will perish, you worthless halfwit!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+A vile traitor who sold out his brethren to the Karanahns. This guy DEFINITELY deserves to have his Animus extracted. A lot.
+
+| extract class =
+Mander;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Balanceblade;
+Scarab;
+Scorpion;
+Locust Swarm;
+Fire Cat;
+Snow Serpent;
+Leprechaun;
+Natural Attack (Storm 125x, 75%);
+
+| quests =
+The Betrayer;
+
+| gold =
+16 - 34;
+
+| hats =
+Bitter Cap;
+Cowl of the Fortress*F2;
+Cryptkeeper's Circlet*F2*WMV;
+Destructive Cowl*F2*WMV;
+Hat of the Mirage;
+Helm of the Citadel*F2;
+Kiwu's Cryptic Cowl*F6;
+Krokotopian Modius*F2;
+Sphinx's Circlet;
+Sturdy Hood*F3*WMV;
+Thaumaturge's Cowl of Awe;
+Theurge's Hat*F3;
+Threadbare Hood;
+
+| robes =
+Cloak of Harmony*F2;
+Dusty Robe*F2;
+Kiwu's Languid Robe*F3;
+Powerful Vestment*F2;
+Necromancer's Ivory Cloak;
+Robe of the Bastion;
+Robe of the Mirage*F3*WMV;
+Robe of the Oracle;
+Rough-Hewn Robe;
+Sphinx's Vestment*F2*WMV;
+Theurge's Brown Cloak*F3;
+Vestment of Ignition*F6*WMV;
+
+| boots =
+Boots of Talent*F4;
+Boots of the Bastion*F5;
+Boots of the Citadel*F2*WMV;
+Boots of the Whirlwind;
+Flowering Shoes*F2;
+Hardy Boots*F3;
+Powerful Boots*F6*WMV;
+Runed Boots*F7*WMV;
+Sandals of Darkness;
+Sandals of Energy;
+Sandals of Ignition*F2*WMV;
+Shoes of Mortality;
+Shoes of the Desert;
+Slippers of Sensibility*F4;
+Slippers of the Oasis*F3*WMV;
+
+| athames =
+Whirlwind Dagger;
+
+| amulets =
+
+| rings =
+Band of Equilibrium*F3*WMV;
+Band of the Skies*F5*WMV;
+Flowering Band*F3*WMV;
+Jewel of Obliteration*F5*WMV;
+Loop of Quietude*F4*WMV;
+Loop of the Defender*F3;
+Ring of the Badlands;
+Sparkling Band;
+
+| wands =
+Kiwu's Magnetic Wand*F5;
+
+| decks =
+Kiwu's Jade Deck*F4;
+
+| items =
+Blue Krok Sconce*F6;
+Bushy Palm Tree;
+Fat Pumpkin*CR*F4*WMV;
+Krok Insect Plaque;
+Krokotopia Dance Theme*F3;
+Tomb Map*F5*WMV;
+
+| cards =
+Banshee;
+Blizzard;
+Cyclops;
+Fire Trap*F2;
+Giant;
+Humongofrog*F2;
+Meteor Strike;
+Spirit Armor*F2;
+Sprite;
+Storm Shark*F2*WMV;
+Storm Trap*F2;
+Strong;
+Sunbird*F2*WMV;
+
+| reagents =
+Copper*F3;
+Ectoplasm*F2;
+Iron*F5*WMV;
+Nickel*F8;
+Pyrite*F3;
+Spider Silk*F3;
+
+| spellements =
+
+| snacks =
+Cracker*F2;
+Green Grapes*F4*WMV;
+Nettle Root*F3*WMV;
+Tiny Fish*F2;
+
+| jewels =
+Blood Bat Peridot;
+Chipped Health Opal +16;
+Chipped Health Opal +18;
+Chipped Mana Opal +11;
+Cracked Accurate Amethyst +2%;
+Cracked Accurate Sapphire +2%;
+Cracked Damage Amethyst +4;
+Cracked Damage Peridot +4;
+Cracked Damage Ruby +4;
+Cracked Defense Citrine +9;
+Cracked Defense Peridot +12;
+Cracked Defense Ruby +9;
+Cracked Defense Ruby +12;
+Cracked Defense Sapphire +12;
+Dawdle Opal;
+Death-Boon Onyx;
+Death-Giver Onyx;
+Freeze Frame Opal;
+Hearty Opal;
+Imp Jade;
+Life-Boon Jade;
+Pip O'Plenty Opal;
+Restore Opal;
+Scarab Citrine*F3;
+Thunder Snake Amethyst;
+
+| pins =
+
+| pets =
+Mander*F4*WMV;
+
+| seeds =
+Pink Dandelion*CR*F2;
+
+| mounts =
+
+| spells =
+
+}}

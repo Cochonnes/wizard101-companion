@@ -1,0 +1,174 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 15,640
+| crecla = Toucan
+| school = Storm
+| startpips = 5
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Splinter Wing;
+
+| world = Azteca
+| location = Cloudburst Forest
+| subloc1 = Bacab's Clearing
+| descrip =
+
+| speech =
+:''"What manner of beast is this, come to disturb us in these twilight hours?"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 180-360-540, 70%);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Sirens;
+Tempest;
+
+| quests =
+Scout It Out;
+
+| gold =
+71 - 130;
+
+| hats =
+
+| robes =
+Coatl Lord's Robes;
+Dawn Hour Xicolli Vest*F2;
+Elite Jura Guard Garb*F4;
+Five Fangs of Fury Scales;
+Glorious Xicolli Vest;
+Indigo Wing Raiment*F2;
+Song of the Lizard Coat;
+Tree of Secrets Chac Armor*F2;
+
+| boots =
+
+| athames =
+Brutal Azteca Horn*F3;
+Zero Hour Eagle Talon;
+
+| amulets =
+Amulet of the Third Sun;
+Tears of the Sky Jade Charm;
+
+| rings =
+Seal of Thunder Horn's Glory;
+Smoking Mirror's War Ring;
+Storm Quetzal's Signet;
+Twin Giants Fashioned Stone*F2;
+Twisting Season Ring*F2;
+Underworld Stone*F3;
+
+| wands =
+Banner of the Lords of Night;
+Sign of Cipactli;
+
+| decks =
+Codex of the Lost Fire*F2;
+Storm Sun Gallery*F2;
+
+| items =
+Azteca Main Theme;
+Hollow Log;
+Pathfinder;
+Sparse Frond;
+Starburst Frond*F4;
+
+| cards =
+Amplify;
+Efreet;
+Empowerment;
+Extraordinary;
+Frost Demon;
+Infallible;
+Power Nova;
+
+| reagents =
+Black Lotus*F2;
+Black Pearl;
+Blood Moss;
+Bone*F2;
+Bronze Gear*F3;
+Deep Mushroom*F2;
+Fire Blossom;
+Fossil;
+Lava Lily*F2;
+Mist Wood*F2;
+Nightshade;
+Ore*F2;
+Red Mandrake*F3;
+Stone Block*F3*WMV;
+Sunstone*F2;
+Tungsten;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Avocado Milkshake;
+Chapulines;
+Fern Jelly;
+Glowing Dragon Fruit*F2;
+Marzipan Maize;
+Pyramints;
+Rex Tea;
+Roasted Chickpeas;
+Tricera-Pops;
+Yucca;
+
+| jewels =
+Clear Damage Amethyst +20;
+Eat My Dirt Opal;
+Energy Opal;
+Polished Blocking Sapphire +12;
+Polished Health Opal +88;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+Fish on a Vine;
+Frozen Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

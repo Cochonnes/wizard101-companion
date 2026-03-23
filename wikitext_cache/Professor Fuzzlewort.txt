@@ -1,0 +1,135 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 7,895
+| crecla = Froudling
+| school = Ice
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+Fire, Myth;
+
+| incresist =
+Ice, Storm, Life, Death, Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Barney;
+Barney;
+
+| world = Avalon
+| location = The Wild
+| subloc1 = Chateau Fuzzlewort
+| descrip =
+*Defeating Professor Fuzzlewort is part of the Adept Myth Weaving quest, ''"The Quest for Truths"''. Wizards can also defeat Professor Fuzzlewort six times as one of their Myth Weaving lessons, which awards the badge, [[Basic:Myth Weaving Badges|Fuzzlewort Remover]].
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Ward}} ''"Nothing can take my shields!"'' - At the beginning of each Round, Professor Fuzzlewort will cast one of the following Spells:
+**{{Link|Spell|Reindeer Knight (Tier 3b)}}
+**{{Link|Spell|Shield Wall}}
+**{{Link|ItemCard|Star Shield}}
+**Tower Shield
+**A version of {{Link|Spell|Volcanic Golem (Tier 5b)}} that deals '''400''' Damage
+*{{Icon|Jinx}} If a Wizard casts a {{Link|Spell|Minotaur (Tier 2b)}} or a {{Link|Spell|Basilisk (Tier 2b)}} on Professor Fuzzlewort, he will cast a version of {{Link|Spell|Shatter}} that affects all allies, and deactivate his Shield cheat.
+*{{Icon|Afterlife}} If Professor Fuzzlewort is defeated while his Shield cheat is still active, he will revive with full Health.
+*{{Icon|Spell}} ''"Ha! Even Death bounces off my shields!"'' - When Professor Fuzzlewort revives, he will cast Shield Wall on himself, and give Wizards the following Spells:
+**{{GivesSpell|cards=2|size=x150px|Minotaur (Tier 2b)|Basilisk (Tier 2b)}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Vengeance;
+Tower Shield;
+Iceblade (+40%);
+Ice Trap;
+Freeze;
+Balefrost;
+Frozen Kraken;
+Blizzard;
+Ice Wyvern;
+Frostbite;
+Arcticzilla;
+Colossus;
+Snow Angel;
+Woolly Mammoth;
+
+| quests =
+The Quest for Truths;
+
+| dropnotes =
+Wizards will receive Jewels that are appropriate for their Level.
+
+| gold =
+2 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Basilisk (Tier 2b)*F2;
+Blood Bat (Tier 2b);
+Cyclops (Tier 2b)*F2*WMV;
+Cyclops Ally (Tier 2b)*F2*WMV;
+Medusa (Tier 2b)*F2*WMV;
+Minotaur (Tier 2b)*F2;
+Myth Trap*F2*WMV;
+Mythblade;
+Orthrus (Tier 2b);
+Stone Colossus (Tier 2b)*F2*WMV;
+Troll (Tier 2b)*F2*WMV;
+
+| reagents =
+Weft Yarn @ 10 Weft Yarn;
+Weft Yarn @ 12 Weft Yarn*F7*WMV;
+Weft Yarn @ 15 Weft Yarn*F5*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Flawless Accurate Peridot +16%*F3*WMV;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

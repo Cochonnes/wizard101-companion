@@ -1,0 +1,146 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 13,190
+| crecla = Krokotopian
+| school = Ice
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+20%;
+
+| outboost =
+95%;
+
+| incboost =
+5% Fire;
+
+| incresist =
+70% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Doomsday Krok Gauntlet
+| subloc1 = Doomsday Krok Gauntlet (Tier 5)
+| descrip =
+
+| speech =
+
+| spellnotes =
+*Casts an Aegis-protected Iceblade (+40%).
+
+| casts =
+Brace;
+Conviction;
+Tower Shield (-55%);
+Black Mantle (-55%, 0 Pip);
+Weakness (-30%);
+Iceblade (+40%);
+Ice Trap (+35%);
+Ice Elf (50+210);
+Evil Snowman (280-340);
+Snow Shark;
+Blizzard (290-330, 80%);
+Krokhotep;
+Colossus (525-605);
+Frost Giant (530);
+Snowball Barrage;
+
+| quests =
+Doomsday Krok;
+
+| gold =
+1,000;
+
+| hats =
+Apophis' Khepresh (Level 100+)*CR;
+Apophis' Khepresh (Level 130+)*CR;
+Setesh's Khepresh (Level 110+)*CR;
+Sokar's Khepresh (Level 130+)*CR;
+
+| robes =
+Apophis' Raiment (Level 130+)*CR;
+Sokar's Raiment (Level 100+)*CR;
+
+| boots =
+Setesh's Boots (Level 110+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Apophis' Javelin (Level 130+)*CR;
+Setesh's Javelin (Level 130+)*CR;
+
+| decks =
+
+| items =
+Doohickey;
+Krok Statue Flex*F2;
+Krok Statue Thumbs Up*F2;
+Krokotopian Bridge;
+Krokotopian Obelisk*F2;
+Krokotopian Pillar;
+Mini Pyramid;
+Novice's Socket Wrench;
+
+| cards =
+
+| reagents =
+Amber Dust;
+Bone;
+Elemental Retriever;
+Leather Straps;
+Scales;
+Smoke Screen Token*F3;
+Spiritual Retriever*F2;
+
+| spellements =
+
+| snacks =
+Ancient Date*F3;
+Black Sun Seeds;
+Cactus Fruit*F2;
+Fries;
+Gator Tots*F2;
+Loco Nut;
+Medium Fish;
+Prickly Bear Punch*F2;
+
+| jewels =
+Cracked Damage Opal +2;
+
+| pins =
+
+| pets =
+Setesh's Scarab;
+
+| seeds =
+
+| mounts =
+Apophis' Krokosphinx*7*CR;
+Setesh's Krokosphinx*CR;
+Setesh's Krokosphinx*7*CR;
+Sokar's Krokosphinx*CR;
+
+| spells =
+
+| elixirs =
+Major Gold Elixir*CR;
+
+}}

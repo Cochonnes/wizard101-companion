@@ -1,0 +1,120 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 17,200
+| crecla = Calaca
+| crecla2 = Undead
+| crecla3 = Dino
+| school = Storm
+| startpips = 6
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Azteca
+| location = Xibalba
+| subloc1 = 
+| descrip =
+Xipe Flayed One is a Minion to {{Link|Creature|Malistaire the Undying}} in {{Link|Location|Xibalba}}, the final Dungeon of {{Link|Location|Azteca}}. All drops should be recorded on Malistaire's page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Flay on, flaya'!
+
+| extract class =
+Dinos;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Lightning Strike;
+Stormblade;
+Storm Trap;
+Enfeeble;
+Natural Attack (Storm 210-420-630);
+Kraken;
+Cloud Demon;
+Storm Dragon;
+Sirens;
+Storm Owl;
+Tempest;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

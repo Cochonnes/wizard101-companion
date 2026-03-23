@@ -1,0 +1,99 @@
+{{Stub|Spells and drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 1,250
+| crecla = Beastmoon Creature
+| school = Storm
+| startpips = 2
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions = 
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Avalon Battlegrounds
+| descrip =
+Windmaker is one of the Boss monsters that can be encountered during the first Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events. He will have 1 random, Rank 1 Elite, Stage 1 monster present to assist them.
+
+'''Potential Minions:'''
+*{{Link|Creature|Muck Elemental}}
+
+| speech =
+
+| spellnotes =
+*Casts a version of Jolting Bolt that deals 100 Storm Damage.
+*It is currently unknown whether the clear Damage over Time effect of Sheet Lightning occurs.
+
+| casts =
+Jolting Bolt;
+Sheet Lightning;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 5 Lunari.
+
+| gold =
+26;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Hunter's Moonstone;
+Life Rune;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Beastmoon Seed*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

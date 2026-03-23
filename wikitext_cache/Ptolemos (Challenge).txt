@@ -1,0 +1,95 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 9,340
+| crecla = Celestian
+| school = Moon
+| startpips = 3
+| powerpips = Yes
+| critical =
+419;
+
+| criticalblock =
+129;
+
+| outpierce =
+35%;
+
+| outboost =
+100%;
+
+| incboost =
+1% Fire;
+
+| incresist =
+39% Storm;
+19% Ice, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Mithraya Rematch
+| subloc1 = 
+| descrip =
+Ptolemos is considered a Minion to {{Link|Creature|Mithraya (Challenge)}}. All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Polymorph Angler;
+Polymorph Crab;
+Polymorph Piscean;
+Polymorph Protector;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Ptolemos (Rematch)
+}}

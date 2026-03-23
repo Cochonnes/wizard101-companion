@@ -1,0 +1,193 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 1,030
+| crecla = Crab
+| school = Death
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+40% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Brulee Sucre (Tier 1);
+
+| world = Housing Instance
+| location = Grand Tourney Arena
+| subloc1 = Grand Tourney Arena (Tier 1)
+| descrip =
+
+| speech =
+:'''Sir Claudas D'Agrodolce:'''
+:''"My companion is the deadly wyrm, Brulee Sucre, Wizard. We will steam you and crisp you and broil you and deglaze what remains! And then the Duchess Blackthorn will fall under my power, and all will fear to break the bread with me!"''
+
+:'''Brulee Sucre:'''
+:''"I smell the heady spices of fear, anxiety, bitterness, and discontent. Delicious."''
+
+| cheatnotes =
+'''Sir Claudas D'Agrodolce:'''
+*{{Icon|Steal}} ''"We are in this together, yes? Give me your health!"'' - When Claudas is attacked, he will use Steal Health on Brulee Sucre (Tier 1).
+
+'''Brulee Sucre:'''
+*{{Icon|Blade}} ''"My wyrm sight will guide you!"'' - Whenever Claudas uses a Blade, Brulee Sucre (Tier 1) will cast {{Link|Spell|Guidance}}.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 110 Death Damage for 1 Pip.
+
+| casts =
+Steal Health;
+Deathblade;
+Death Trap;
+Death Bat (20+180);
+Poison;
+
+| quests =
+Hedging Bets;
+
+| gold =
+30 – 52;
+
+| hats =
+Mask of the Faerie Court (Any Level)*CR;
+Pixie's Mask of Encanta (Any Level)*CR;
+World's Fool Mask (Level 10+)*CR;
+
+| robes =
+
+| boots =
+Faerie Court Boots (Any Level)*CR;
+Pixie's Enchanted Boots (Any Level)*CR;
+Pixie's Enchanted Boots (Level 10+)*CR;
+World's Fool Boots (Any Level)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Levee Breaking Lute (Any Level)*CR;
+
+| decks =
+
+| items =
+Avalon Glorious Theme;
+Avalon Main Theme;
+Bog Witch Bobblehead;
+Floor Brazier;
+Grandfather Clock;
+King Artorius Bobblehead;
+Large Willow Tree;
+Lectern;
+
+| cards =
+Basilisk;
+Chimera;
+Dark Sprite;
+Dryad;
+Efreet;
+Fire Dragon;
+Fire Elf;
+Frost Giant;
+
+| reagents =
+Acorn;
+Aether;
+Aquamarine*F2;
+Fire Blossom;
+Frost Flower*F2;
+Grendelweed;
+Kelp;
+Lava Lily;
+Mist Wood;
+Pyrite*F2;
+Scrap Iron;
+Shell;
+Spring*F2;
+
+| spellements =
+
+| snacks =
+Asparagus Spears;
+Bearberry;
+Big Squash;
+Black Cap Crisps*F2;
+Bog Witch Beetroot;
+Caliburnt Toast*WMV;
+Chocolate Comet;
+Cow Pie;
+Crab Knight Cakes;
+Crunch Apple;
+Crystal Custard*F2;
+Deepwater Toffee;
+Glowing Rock Candy;
+Grilled Cheese;
+High Road Haggis*F2;
+Large Fish;
+Large Watermelon;
+Lemon Harts;
+Moon Pie;
+Muscle Sprouts;
+Ogre Meanies;
+Pixie Parsnips;
+Pomegranite;
+Seraph Food Cake*WMV;
+Shepherd's Crook Pie;
+Toad in the Hole;
+Weirwood Cake;
+Wormy Apple;
+Wyrmy Apple;
+
+| jewels =
+Cracked Accurate Amethyst +1%;
+Cracked Accurate Jade +1%;
+Cracked Accurate Peridot +1%;
+Cracked Accurate Ruby +1%;
+Cracked Damage Citrine +3;
+Cracked Defense Amethyst +6;
+Cracked Defense Citrine +6;
+Cracked Defense Jade +6;
+Cracked Defense Onyx +4;
+Cracked Defense Peridot +4;
+Cracked Defense Peridot +5;
+Cracked Defense Sapphire +4;
+Cracked Defense Sapphire +6;
+Cracked Health Opal +7;
+Cracked Health Opal +8;
+Cracked Mana Opal +5;
+Cracked Resilient Opal +1%;
+
+| pins =
+
+| pets =
+
+| seeds =
+Cornbread Fruit Bush;
+Helephant Ears;
+Red Bell Pepper;
+Rye Bread Fruit Bush;
+
+| mounts =
+
+| spells =
+
+}}

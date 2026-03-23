@@ -1,0 +1,288 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 7,560
+| crecla = Qhat
+| school = Life
+| startpips = 3
+| powerpips = Yes
+| critical =
+125 Any;
+
+| criticalblock =
+86 Any;
+
+| outpierce =
+2% Any;
+
+| outboost =
+45% Any;
+
+| incboost =
+15% Death;
+
+| incresist =
+30% Life;
+
+| outhealing =97%;
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Shrowdenger's Qhat (Death);
+
+| world = Mirage
+| location = Istanboa
+| subloc1 = Hall of Secrets
+| descrip =
+
+| speech =
+:'''Shrowdenger's Qhat:''' ''"Hehehe! The Ancient Ones wanted to pose the ultimate question - if you seal a Qhat in a box, without going in, how do you know if he's dead or alive?"''
+:'''[[:Creature:Shrowdenger's Qhat (Death)|Shrowdenger's Qhat]]:''' ''"Hehe! The answer is so simple, of course, as long as you understand quantum mechanics - the Qhat is both alive and dead at the same time! Hehe!"''
+:'''Shrowdenger's Qhat:''' ''"Now, you've entered the box and ruined everything. This is forbidden knowledge, of course. You'll have to join us now! Hehe!"''
+
+| spellnotes =
+
+| casts =
+Guidance;
+Dryad;
+Namaste;
+Life Scarab;
+Luminous Weaver;
+Giant Spider;
+Natural Attack (Life 105-210-315, 85%);
+Goat Monk;
+Life Banshee (275);
+Forest Lord;
+Spinysaur;
+
+| quests =
+The Eerem Tablet;
+
+| gold =
+489 - 1,979;
+
+| hats =
+Alkali Kalpak of Fiction*F2;
+Alkali Kalpak of Vibrancy;
+Alkali Kalpak of Withering;
+Alkali Monsoon Kalpak*F4*WMV;
+Alkali Wintertide Kalpak;
+Eerem Headwrap of Pulse;
+Mottoman Helm of Ruin;
+
+| robes =
+Alkali Burning Sands Armor;
+Eerem Raiment of Harmony;
+Eerem Raiment of Menace*F2*WMV;
+Mottoman Heatwave Uniform;
+
+| boots =
+Alkali Burning Sands Walkers;
+Eerem Givehs of Discovery;
+Gallant Mottoman Runners;
+Mottoman Sandspouts Runners;
+
+| athames =
+Charred Eerem Razor;
+Eerem Razor of Agony;
+Eerem Razor of Clangor*F2*WMV;
+Eerem Razor of Menace;
+
+| amulets =
+Eerem Necklace of Agony;
+Eerem Necklace of Frostfall;
+Gallant Istanboa Pendant;
+Istanboa Heatwave Pendant*F2;
+Istanboa Sandspouts Pendant;
+
+| rings =
+Charred Eerem Band;
+Eerem Band of Discovery;
+Eerem Band of Pulse;
+Eerem Signet of Ability;
+Eerem Signet of Frostfall;
+Istanboa Heatwave Signet;
+Istanboa Signet of Ruin*F2;
+
+| wands =
+Scorpion Bow of Fervor;
+Smouldering Tetrus Baton;
+Tetrus Baton of Opposition;
+Tetrus Baton of Woe;
+
+| decks =
+Eerem Gallery of Ability;
+Eerem Hailstone Spread;
+Eerem Spread of Harmony*F2;
+Istanboa Heatwave Array;
+
+| items =
+Mirage Canyon Combat Theme;
+Mirage Canyon Theme 1;
+Mirage Canyon Theme 2;
+Mirage Caravan Theme;
+Mirage City Theme 2;
+Mirage Desert Canyons Theme;
+Mirage Desert Combat Theme;
+Mirage Jungle Combat Theme*F2;
+Mirage Jungle Theme*F2*WMV;
+Mirage Magic Carpet Theme*F2*WMV;
+Mirage Nomad Theme*F2*WMV;
+Mirage Serpent Theme*F2;
+Mirage Spider Speaks Theme;
+
+| cards =
+Age of Reckoning;
+Arcticzilla;
+Ashen Bones*F2;
+Counterforce*F2*WMV;
+Crystal Spider;
+Frostfang*F2*WMV;
+Katabatic Wind;
+Namaste;
+Rusalka's Wrath;
+Shift;
+Stone Colossus;
+Winged Sorrow;
+
+| reagents =
+Aether*F3*WMV;
+Agave Leaves*F3*WMV;
+Agave Nectar;
+Amber*F2*WMV;
+Amber Dust*F5*WMV;
+Aquamarine*F6*WMV;
+Astral Shard*F8*WMV;
+Braided Vine;
+Draconium;
+Fire Blossom*F3;
+Fish Fin*F3*WMV;
+Glass Sliver;
+Golden Pearl*F7*WMV;
+Iridium;
+Orichalcum*F4*WMV;
+Merle's Whisker*F2*WMV;
+Mithril;
+Scales*F2;
+Silver*F13*WMV;
+Stardust*F3*WMV;
+Steel*F9*WMV;
+Sunstone*F7*WMV;
+Titanium*F2;
+Tungsten*F13*WMV;
+Turquoise*F5*WMV;
+Vine*F5*WMV;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate;
+Beast Wellington*F5*WMV;
+Beetle Cream Soda*F2*WMV;
+Chalupacabra*F2;
+Eye Candy*F4*WMV;
+Fire Passion Fruit;
+Hard Boiled Beetle Eggs*F3*WMV;
+Hot Cross Buns*F6*WMV;
+Mustachios*F4*WMV;
+Satyr Chow*F3*WMV;
+Ships 'n' Queso;
+Veggie Juice*F3;
+
+| jewels =
+Cycle of Life Opal;
+Lustrous Mana Opal +41;
+Polished Accurate Amethyst +10%;
+Polished Blocking Citrine +11;
+Polished Damage Amethyst +21;
+Polished Defense Onyx +42;
+Polished Health Opal +88;
+Polished Health Opal +95;
+Polished Mana Opal +38;
+Polished Mana Opal +40;
+Reliquary Opal;
+Shiny Blocking Citrine +16*;
+Shiny Blocking Hematite +16;
+Shiny Blocking Peridot +16;
+Shiny Critical Amethyst +16;
+Shiny Critical Citrine +16;
+Shiny Critical Jade +16;
+Shiny Critical Onyx +16;
+Shiny Critical Peridot +16;
+Shiny Damage Amethyst +26;
+Shiny Damage Onyx +26;
+Shiny Damage Peridot +26;
+Shiny Defense Citrine +52;
+Shiny Defense Hematite +52;
+Shiny Defense Jade +51;
+Shiny Defense Onyx +50;
+Shiny Defense Ruby +51;
+Shiny Defense Sapphire +51;
+Shiny Health Opal +111;
+Shiny Health Opal +112;
+Shiny Health Opal +114;
+Shiny Mana Opal +45;
+Shiny Mana Opal +47*F3;
+Shiny PIP Hematite +2;
+
+| pins =
+
+| pets =
+MaCaw*CR*F4*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak*F2;
+Angora Bunny Ears;
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper*F2*WMV;
+Blue Huckleberries;
+Boiled Peanuts*F2;
+Boom Shroom;
+Boon Tree*CR*F2;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Couch Potatoes*CR;
+Dandelion;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Evil Magma Peas*CR*F2*WMV;
+Evil Snow Peas;
+Face Palm;
+Fickle Pickle*F2;
+Fiery Boom Shroom;
+Fish on a Vine*F2*WMV;
+Fortune Cookie Tree;
+Grapes of Wrath;
+Helephant Ears;
+Ivy League*CR;
+Laugh-O-Dil;
+Maltese Tiger Lily;
+Orange Dandelion*F2;
+Pink Huckleberries;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Red Couch Potatoes;
+Red Grapes of Wrath*F2*WMV;
+Red Huckleberries;
+Saw Palmetto;
+Silver Trumpet Vine*CR*F2*WMV;
+Snap Dragon;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Sword Fern*CR;
+Trumpet Vine;
+White Laugh-O-Dil*F3;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,138 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 13,410
+| crecla = Krokotopian
+| school = Myth
+| masteries =
+Balance;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Myth;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+15%;
+
+| outboost =
+88%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+39% Fire, Ice, Life, Death, Balance, Shadow;
+69% Myth;
+
+| outhealing =
+20%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Grand Exposition
+| subloc1 = The Great Lie-Brary
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"And thus the villain is at last revealed, the traveling tidal wave that washes away worlds. Khonsu watched as you traveled, Earthborn; and I recorded his observations. For I am Thoth, Master  of Stories. I am the Chronicler of Vengeance!"''
+
+| cheatnotes =
+*{{Icon|Round}} ''"Let me tell you a tale of one city..."'' - Thoth says this at the beginning of the first Round.
+{{Icon|Round}} '''Story Cycle:''' Thoth will say a line that references one of the gods, and give Wizards two Aura Spells of different Schools. Casting the Aura that matches the School of the god mentioned will progress the story. At the end of the second Round, he will cheat-cast a Spell of the god's School.
+*{{Icon|Aura}} After a Wizard casts an Aura, one of the following will occur:
+**''"Someone has been paying attention."'' - If a Wizard casts the correct Aura, they will take 0 Damage from the cheat-casted Spell. Then, Thoth will cast a version of {{Link|Spell|Sacrifice}}, dealing 25% max Health Damage to himself. 
+**''"Hmm, lost my place."'' - If a Wizard fails to cast the correct Aura, Thoth will follow up with his Natural Attack, dealing 700 and 1300 Myth Damage.
+*{{Icon|Spell}} ''"Ra came down to smite the Moon Children..."'' - Thoth will give all Wizards the following Spells. The next Round, he will cast a version of {{Link|Spell|Ra}}, dealing 0 Balance Damage and applying a -45% Weakness blade.
+**{{GivesSpell|spells = 2|size = x150px|Next Verse (Balance)|Next Verse (Fire)}}
+**'''Correct Answer: Balance'''
+*{{Icon|Spell}} ''"Shu's wrath shook the earth itself..."'' - Thoth will give all Wizards the following Spells. Two Rounds later, he will cast an Ice version of {{Link|Spell|Earthquake (525)}} that does not remove weaknesses.
+**{{GivesSpell|spells = 2|size = x150px|Next Verse (Ice)|Next Verse (Myth)}}
+**'''Correct Answer: Ice'''
+*{{Icon|Spell}} ''"And thus did my tales rebirth history into mythology!"'' - Thoth will give all Wizards the following Spells. Two Rounds later, he will cast a Myth version of {{Link|Spell|Rebirth}} that restores 0 Health and applies a 600 Absorb Ward.
+**{{GivesSpell|spells = 2|size = x150px|Next Verse (Myth)|Next Verse (Life)}}
+**'''Correct Answer: Myth'''
+*{{Icon|Spell}} ''"Heqet called her Sirens from the deep!''" - Thoth will give all Wizards the following Spells. Two Rounds later, he will cast a version of {{Link|Spell|Sirens}}, dealing 685 Storm Damage.
+**{{GivesSpell|spells = 2|size = x150px|Next Verse (Storm)|Next Verse (Ice)}}
+**'''Correct Answer: Storm'''
+*It is not actually necessary to progress through Thoth's story to defeat him.
+
+| spellnotes =
+
+| casts =
+Mass Weakness;
+Mythblade;
+Mythic Fuel;
+Time of Legend;
+Keeper of the Flame;
+Legendary Treant (445);
+Stone Colossus;
+Sabertooth (Myth);
+
+| quests =
+Thothic Horror;
+The Villain of Your Own Story;
+
+| gold =
+6 - 35;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Bushy Palm Tree;
+Selenopolis Blended Grove Theme;
+Selenopolis Field of Reeds Theme;
+
+| cards =
+Avenging Fossil;
+Snow Angel;
+
+| reagents =
+Amber Dust;
+Mithril;
+
+| spellements =
+
+| snacks =
+Dr. Jalapeno;
+Kroklava;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

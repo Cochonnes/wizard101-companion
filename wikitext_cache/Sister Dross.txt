@@ -1,0 +1,138 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 5,690
+| crecla = Mander
+| school = Life
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+5%;
+
+| outboost =
+40%;
+
+| incboost =
+30% Death;
+
+| incresist =
+12% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+42% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Mock Roach (Life-Balance);
+Mock Roach (Life);
+
+| world = Krokotopia 
+| location = Selenopolis 
+| subloc1 = House of Quasar
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+The Great Quasar foretold her defeat, so she was not surprised, but it also foretold her vengeance... so be ready.
+
+| extract class =
+Mander;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Round}} ''"I bring the peace of the Quasar!"'' - At the beginning of the first Round, Sister Dross will cast a Life Spell that gives each Wizard three Quasi-Bargain Spells:
+**{{GivesSpell|size = x150px|Quasi-Bargain}}
+*{{Icon|Round}} ''"The Quasar calls your name!"'' - At the beginning of every third Round, Sister Dross will cast a Life Spell that gives each Wizard another Quasi-Bargain.
+
+| spellnotes =
+
+| casts =
+Pigsie;
+Rebirth;
+Lifeblade;
+Spirit Blade;
+Ratatoskr's Spin;
+Potboiler;
+Leafstorm;
+Forest Lord;
+
+| quests =
+Quasarblast;
+
+| gold =
+11 - 35;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Selenopolis Boss Combat Theme;
+Selenopolis Forgotten Combat Theme;
+Selenopolis Garden Combat Theme;
+Selenopolis Garden Theme;
+Selenopolis Theme;
+
+| cards =
+Avenging Fossil;
+Rain of Fire;
+Sun Serpent;
+Woolly Mammoth;
+
+| reagents =
+Iron*F2;
+Mithril*F2;
+
+| spellements =
+
+| snacks =
+Dr. Jalapeno;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,157 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 2,595
+| crecla = Water-Lurker
+| school = Storm
+| startpips = 4
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth;
+
+| incresist =
+35% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Crustacean Clawcutter;
+
+| world = Celestia
+| location = The Grotto
+| descrip =
+Cuthalla is one of the three ancient spirits that Wizards help put to rest as part of the Quest "The Grotto".
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Stormblade;
+Storm Trap;
+Darkwind;
+Lightning Bats;
+Kraken;
+Stormzilla;
+Tempest (6 Pip);
+Triton;
+Tempest;
+Natural Attack (Storm 125x, 70%);
+
+| quests =
+The Grotto;
+
+| gold =
+36 - 96;
+
+| hats =
+Brim of Bewilderment*F2*WMV;
+Celestian Tempest Helm*F2*WMV;
+Collective Mask*F2*WMV;
+Consuming Cover;
+Curious Mask*F2;
+Hard Rime Headdress;
+Helm of Celestian Totality*F2;
+Insulated Helm;
+Mask of Devotion;
+Mirage Helm;
+Rain Dance Mask;
+Storied Celestian Helm*F2;
+Storied Helm;
+Topper of Tales;
+Torched Topper;
+Whimsical Cowl;
+
+| robes =
+Riddled Raiment;
+Rime Raiment;
+Smokey Smock;
+
+| boots =
+Drafty Boots;
+Lightning Riders;
+Numbing Shoes;
+Pure Greaves;
+Speculator's Striders;
+Versatile Footwear;
+Volcanic Waders;
+
+| athames =
+Explorer's Edge;
+Living Claw*F2;
+Long Lost Dagger;
+Wily Edge;
+
+| amulets =
+
+| rings =
+Bizarre Band;
+Imbued Ring;
+Relic Ring;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Accurate;
+Amplify*F3;
+Blizzard;
+Fortify;
+Giant*F4*WMV;
+Keen Eyes;
+Mutate Cat (Ice);
+Pacify;
+Strong;
+
+| reagents =
+Cobalt*F2;
+Fish Fin*F3*WMV;
+Kelp;
+Scales*F3*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F3*WMV;
+Delicious Cookie*F2*WMV;
+Glowing Taffy;
+Strawberry Cupcake;
+
+| jewels =
+Balance-It Citrine;
+Dull Health Opal +53;
+Mulligan's Shuffle Citrine;
+Plaguebringer Onyx;
+Plain Defense Ruby +29;
+Plain Defense Sapphire +29;
+Plain Health Opal +60;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Maelstrom Snap Dragon*F2;
+
+| mounts =
+
+| spells =
+
+}}

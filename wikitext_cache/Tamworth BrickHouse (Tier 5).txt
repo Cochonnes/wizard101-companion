@@ -1,0 +1,195 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 8,080
+| crecla = Pig
+| school = Balance
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Lacombe StrawHouse (Tier 5);
+Berkshire StickHouse (Tier 5);
+
+| world = Housing Instance
+| location = Spiral Cup Gauntlet
+| subloc1 = Spiral Cup Gauntlet (Tier 5)
+| descrip =
+Tamworth BrickHouse (Tier 5) is considered a Boss for the purpose of recording drops.
+
+| speech =
+:'''Lacombe StrawHouse (Tier 5):''' ''"Ravenwood, huh? I've heard scary things about your school. Is it true your teachers can do... real magic?"''
+:'''Berkshire StickHouse (Tier 5):''' ''"I heard that the Death School professor is an undead dragon, and the Fire School professor can incinerate you with her gaze!"''
+:'''Tamworth BrickHouse:''' ''"Pegasus-feathers! They're just upjumped hedge witches with an obsession with trees! I mean, they aren't even noble pigs! We'll knock you off balance with our expertise in Equilibrium, and send you packing!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Huff and puff as much as you like, you can't blow Tamworth Brickhouse down.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Damage}} ''"Here's how the story goes!"'' - When Lacombe StrawHouse (Tier 5) is defeated, every Round after Berkshire StickHouse (Tier 5) interrupt-casts {{Link|Spell|Sandstorm}}.
+*{{Icon|Damage}} ''"Shake it down, shake it down now!"'' - When Berkshire StickHouse (Tier 5) is defeated, Tamworth BrickHouse (Tier 5) interrupt-casts Big Bad Hound every Round.
+**When Berkshire StickHouse (Tier 5) is {{Link|Spell|Beguile}}d and his turn comes before Tamworth BrickHouse (Tier 5), he will cast his ''{{Link|Spell|Sandstorm}} cheat'' first following with the Big Bad Hound cheat from Tamworth BrickHouse (Tier 5).  Otherwise, Tamworth BrickHouse (Tier 5) will cast his cheat before him.
+***When Lacombe StrawHouse (Tier 5) is {{Link|Spell|Beguile}}d, only the {{Link|Spell|Sandstorm}} cheat is triggered.
+
+:'''Explanation on Beguile Cheats:'''
+:*'''Berkshire StickHouse (Tier 5)''' and '''Tamworth BrickHouse (Tier 5)''' have simple checks to see if a Creature is on their side. When Beguiled, their cheats are triggered because they assume the Creature is defeated. In the case of the double cheat, '''Berkshire''' is not with ''Lacombe'', and '''Tamworth''' isn't with ''Berkshire'', thus double cheating.
+
+| spellnotes =
+
+| casts =
+Conviction;
+Vengeance;
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Elemental Trap;
+Natural Attack (Balance 160-195-350);
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Big Bad Hound;
+Ra;
+Chimera;
+Judgement;
+
+| quests =
+
+| gold =
+111 - 140;
+
+| hats =
+
+| robes =
+Greenwarden's Energetic Shroud (Level 90+)*CR*F2;
+
+| boots =
+Spiral Cup Boots;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Wysteria Combat Theme*F2;
+
+| cards =
+Balanceblade; 
+Deathblade*F2;
+Elemental Blade*F2*WMV;
+Fireblade*F3*WMV;
+Humongofrog*F3;
+Ice Wyvern*F3*WMV;
+Iceblade*F3*WMV;
+Kraken;
+Lifeblade; 
+Meteor Strike*F3*WMV;
+Mythblade*F2;
+Sandstorm*F5*WMV;
+Seraph*F3;
+Spirit Blade*F3;
+Stormblade*F2; 
+Vampire;
+
+| reagents =
+Bone*F3*WMV;
+Brass*F2;
+Bronze;
+Bronze Gear*F5*WMV;
+Cobalt*F2;
+Fish Fin*F3*WMV;
+Leather Straps*F5;
+Scales*F3;
+Spider Silk*F3*WMV;
+Steel;
+Tin;
+Turquoise*F6*WMV;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F2*WMV;
+Caramel Popcorn*F2;
+Cauliflowers*F2*WMV;
+Crunch Apple;
+Delicious Cookie*F2*WMV;
+Double Popsicle*F2*WMV;
+Fire Cracker;
+Flapjacks;
+Glowing Rock Candy*F2;
+Glowing Star Fruit*F2;
+Gummy Bloodbat; 
+Large Fish*F3*WMV;
+Meat Soup*F2*WMV;
+Redskin Peanut;
+Spicy Drumstick*F3;
+Square Root*F3;
+Square Watermelon*F2;
+Stinky Cheese*F4*WMV;
+Strawberry Cupcake*F2;
+Submarine Sandwich;
+Tasty Biscuit*F3;
+Wheat Cracker*F2;
+
+| jewels =
+Clear Damage Jade +19;
+Clear Defense Opal +20;
+Clear Health Opal +79; 
+Disconcert Opal;
+Opaque Piercing Onyx +4%;
+
+| pins =
+
+| pets =
+
+| seeds =
+Burning Snap Dragon*F3*WMV;
+Ninja Fig*CR*F3;
+Venus Fly Trap*F2;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,198 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 14,695
+| crecla = Centipede
+| crecla2 = Insect
+| school = Myth
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sand Crawler;
+
+| world = Khrysalis
+| location = Crescent Beach
+| subloc1 = Guard Tent
+| descrip =
+
+| speech =
+:'''"Hey!  You're not one of my Sand Crawlers.  Who let you in?  I don't know how you cleverly learned our password, but it won't do you any good."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+He guards a tent with a monosyllabic password. Some monsters just have nothing interesting to talk about.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Mythblade;
+Myth Trap;
+Time of Legend;
+Keeper of the Flame;
+Natural Attack (Myth 165-265-370, 80%);
+Ninja Pigs;
+Earthquake;
+Humongofrog (400-500);
+Medusa (865);
+Basilisk;
+Celestial Calendar;
+
+| quests =
+Old Man of the Desert;
+
+| gold =
+134 - 152;
+
+| hats =
+Helmet of Excavation;
+Mantis Cowl of Honor;
+Mouse Helm of the Besieged;
+
+| robes =
+Mantis Robe of Secrecy*F3*WMV;
+
+| boots =
+Burrower Scout's Hoppers*F10*WMV;
+Flame Legs Captain's Boots*F3*WMV;
+Kermes Fire Miner's Clogs;
+Mantis Hunter's Footwraps*F2;
+
+| athames =
+Blue Razor Hailstone Blade*F2*WMV;
+Hisser's Burning Cleaver*F2*WMV;
+
+| amulets =
+Benzzi's Campaign Memento*F3*WMV;
+Collar of the Besieged*F3*WMV;
+Mantis Prophet's Ornament*F2;
+
+| rings =
+
+| wands =
+Dirk of Burrower Harmony*F2*WMV;
+Halberd of Fulmination;
+Spear of Cold Truth;
+
+| decks =
+Bumbler's Sleetfall Pack;
+House of the Old Times*F2*WMV;
+
+| items =
+Khrysalis Combat Theme 2;
+Khrysalis Desert Shadows Theme;
+Khrysalis Hive Combat Theme*F2*WMV;
+
+| cards =
+Black Widow;
+Disarm;
+Frost Beetle;
+Giant Spider;
+Life Scarab;
+Pierce;
+Storm Beetle;
+
+| reagents =
+Astral Shard*F6*WMV;
+Black Lotus*F4*WMV;
+Black Pearl*F2;
+Blood Moss;
+Bone*F2;
+Bronze Gear*F4;
+Copper;
+Deep Mushroom*F3*WMV;
+Fire Blossom*F3*WMV;
+Fossil*F2*WMV;
+Golden Pearl;
+Lava Lily*F2*WMV;
+Mist Wood;
+Ore*F3*WMV;
+Orichalcum;
+Red Mandrake*F4*WMV;
+Stone Block*F5*WMV;
+Sunstone*F2;
+Titanium;
+Tungsten;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Cauliflowers;
+Dr. Jalapeno*F2;
+Flaming Soup*F2*WMV;
+Flapjacks;
+Glowing Dragon Fruit;
+Glowing Star Fruit*F2;
+Goat Cheese;
+Golden Grapes*F2;
+Gummy Humongofrog;
+Salmonberry;
+Shiny Tomato*F2;
+Submarine Sandwich*F3*WMV;
+Uni-Corn;
+
+| jewels =
+Cracked Defense Citrine +12;
+Cracked Defense Peridot +12;
+Cracked Defense Sapphire +12;
+Fire-Boon Ruby;
+Frost Beetle Sapphire;
+Infector Onyx;
+Mend Talent Opal;
+Polished Blocking Citrine +12;
+Polished Critical Jade +11;
+Polished Critical Ruby +11;
+
+| pins =
+
+| pets =
+
+| seeds =
+Fish on a Vine*F2;
+Red Huckleberries;
+Saw Palmetto;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,320 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 10,880
+| crecla = Meowl
+| school = Star
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+173 Any;
+
+| criticalblock =
+198 Any;
+
+| outpierce =
+22%;
+
+| outboost =
+100%;
+
+| incboost =
+5% Fire, Myth, Life;
+75% Balance;
+
+| incresist =
+70% Ice, Storm, Death;
+
+| outhealing =
+
+| inchealing =
+45%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Meowl (Fire);
+
+| world = Empyrea
+| location = Southwest Aero Plains
+| subloc1 = Meowl Den
+| descrip =
+
+| speech =
+:''"ROOOOOOOAAAAAAARRRRRRR!"''
+
+| cheatnotes = 
+*{{Icon|Late}} ''"*ROAR*"'' - If a Wizard is late to join the duel, the Boss will cast {{Link|Spell|Impede}} and two Indemnity protected universal Traps for  '''+25%''' and '''+35%'''.
+*{{Icon|Shield}}{{Icon|Aura}} ''"*GROWL*"'' On the first turn, the Neumian Lion will cast {{Link|Spell|Tower Shield (Star)}} on itself, as well as a '''-50%''' version of {{Link|Spell|Fortify}}. Aura will be re-cast on the last Round of its cycle. Supernova makes the Boss recast Aura.
+*{{Icon|Round}} ''"*GRAWWWW*"'' - Every tenth Round, starting on the ninth for the first cast, the Boss will cast Chimera (Star) on a random Wizard.
+
+| spellnotes =
+*Casts an Aegis-protected Balanceblade.
+
+| casts =
+Balanceblade;
+Mass Feint (Shadow);
+Steal Ward (Star, -All);
+Wild Bolt (Star);
+Natural Attack (Star 105-210-315);
+Wraith (Star);
+Wrath of Zeus (Star);
+Chimera (Star);
+Tempest (Star);
+Qismah's Curse (Shadow);
+Call of Khrulhu (Shadow);
+Winged Sorrow (Shadow);
+
+| quests =
+Dude Looks Like a Lion;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge and has not unlocked the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge, the following drops will be available:
+*6 Spellements will drop each time from '''any''' School for their respective rank 10, 11, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+76 - 353;
+
+| hats =
+Freezing Zanadu Helm;
+Hopeful Zanadu Helm;
+Illuminated Zanadu Helm;
+Verdant Zanadu Helm;
+
+| robes =
+
+| boots =
+Blazing Zanadu Boots;
+Bodacious Kalamar Kicks*F3*WMV;
+Chill Kalamar Kicks;
+Choice Kalamar Kicks;
+Crackling Zanadu Boots;
+Gnarly Kalamar Kicks;
+Heavy Kalamar Kicks;
+Rad Kalamar Kicks*F4*WMV;
+Righteous Kalamar Kicks*F4*WMV;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Aero Dwarf Blue Vase;
+Aero Dwarf Potted Plant;
+Empyrea Aero Plains Theme;
+Empyrea Chaos Jungle Theme*F2;
+Empyrea Husk Aethyr Combat;
+Empyrea Husk Combat*F2*WMV;
+Empyrea Husk Theme;
+Kalamar Chair;
+Kalamar Side Table;
+Tall Kalamar Vase;
+Wide Kalamar Vase;
+
+| cards =
+Bonetree Lord;
+Colossafrog;
+Cyclops;
+Death Prism;
+Doom and Gloom;
+Elemental Shield;
+Elemental Spear;
+Elemental Trap;
+Fable Lord;
+Firespear*F3*WMV;
+Humongofrog;
+Ice Prism;
+Icespear;
+Kraken*F2;
+Lifespear;
+Lord of Atonement;
+Lord of the Squall;
+Mass Storm Prism*F2;
+Mega Soothe*F2;
+Mega Subdue;
+Mutate Bats (Ice);
+Mutate Cat (Storm);
+Mutate Elf (Ice);
+Mutate Elf (Storm);
+Mutate Shark (Ice);
+Mutate Sprite (Death);
+Myth Prism*F2*WMV;
+Oni No Jade;
+Oni No Plague;
+Power Play;
+Spirit Spear;
+
+| reagents =
+Aether;
+Agave Leaves;
+Amber;
+Amber Dust;
+Ancient Scroll*F3*WMV;
+Antique Coins*F3;
+Aquamarine*F3*WMV;
+Astral Shard*F3*WMV;
+Blood Moss;
+Braided Vine;
+Brass*F2*WMV;
+Bronze Gear;
+Cobalt*F2;
+Draconium;
+Ectoplasm*F5*WMV;
+Fire Blossom*F3;
+Fish Fin*F5*WMV;
+Flying Squid Ink*F5*WMV;
+Golden Pearl*F3*WMV;
+Merle's Whisker;
+Mithril*F3*WMV;
+Nickel*F5*WMV;
+Scales*F8*WMV;
+Silver*F4*WMV;
+Spider Silk*F3*WMV;
+Spring*F2*WMV;
+Stardust*F4*WMV;
+Steel*F5*WMV;
+Sunstone*F3*WMV;
+Tin*F2*WMV;
+Titanium*F2*WMV;
+Tungsten*F3*WMV;
+Turmeric;
+Turquoise;
+Vine;
+
+| spellements =
+Climaclysm*BR;
+Iron Sultan*BR;
+Raging Bull*BR;
+Scion of Fire*BR;
+
+| snacks =
+Athame Pop*F3*WMV;
+Beast Wellington*F4*WMV;
+Berry Poundcake;
+Boiled Spider Legs;
+Bread Fruit Fruit;
+Berry Poundcake;
+Cherry Pie;
+Cow Pie;
+Crackle Jacks Cereal;
+Dastardly Radish;
+Discord Grape Jelly*F2;
+Dr. Jalapeno;
+Eye Candy*F2*WMV;
+Fern Jelly;
+Gator Tots;
+Ginger Mint Tea;
+Glowing Star Fruit;
+Glowing Taffy*F3*WMV;
+Gummy Humongofrog*F2*WMV;
+Hero Sandwich;
+Hot Cross Buns*F2*WMV;
+Meat Soup;
+Minotarts;
+Oyster Shooter;
+Pineapple Spears;
+Pizza*F3*WMV;
+Pyramints;
+Redskin Peanut;
+Rhubarbed Wire;
+Rock and Roll Candy;
+Roly Poly Fishheads;
+Salmon Joy*F2*WMV;
+Satyr Chow*F5*WMV;
+Ships 'n' Queso*F2;
+Spicy Drumstick;
+Sprinkle Cupcake*F2;
+Squash;
+Waterworks Wonton;
+Wheat Cracker;
+
+| jewels =
+Lustrous PIP Opal +10%;
+Shiny Accurate Amethyst +12%;
+Shiny Accurate Jade +12%;
+Shiny Accurate Ruby +12%;
+Shiny Accurate Sapphire +12%;
+Shiny Blocking Citrine +15;
+Shiny Blocking Jade +15;
+Shiny Critical Amethyst +15;
+Shiny Critical Jade +15;
+Shiny Damage Jade +25;
+Shiny Damage Onyx +25;
+Shiny Defense Citrine +50;
+Shiny Defense Onyx +50*F2*WMV;
+Shiny Defense Ruby +50;
+Shiny Health Opal +108*F2;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+Sparkling Blocking Sapphire +18;
+Sparkling Critical Hematite +18;
+Sparkling Damage Hematite +56;
+Sparkling Damage Peridot +28;
+Sparkling Damage Sapphire +28;
+Sparkling Defense Citrine +55;
+Sparkling Defense Jade +55;
+Sparkling Defense Jade +56;
+Sparkling Defense Onyx +56;
+Sparkling Defense Opal +28;
+Sparkling Defense Peridot +56;
+Sparkling Health Opal +122*F2;
+Sparkling Health Opal +123;
+Sparkling Health Opal +124;
+Sparkling Health Opal +125;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears*F3*WMV;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts;
+Boom Shroom;
+Boon Tree*CR*HOL;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Clockwork Flower;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Deadly Helephant Ears*CR;
+Deadly Fly Trap;
+Deadly Ninja Fig;
+Evil Magma Peas*CR;
+Fiery Boom Shroom;
+Fish on a Vine*F2*WMV;
+Golden Couch Potatoes;
+Goose Tree;
+Honey Bee Plant;
+Ivy League*CR;
+Maltese Tiger Lily;
+Orange Dandelion;
+Pink Huckleberries;
+Purple Bell Pepper;
+Purple Snow Apples;
+Red Bell Pepper;
+Red Grapes of Wrath;
+Red Huckleberries*F2*WMV;
+Rye Bread Fruit Bush;
+Snap Dragon;
+Snow Apples;
+Sunion*CR;
+Ultra Fly Trap;
+Ultra Ninja Fig;
+White Desparagus*F2;
+
+| mounts =
+
+| spells =
+
+}}

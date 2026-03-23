@@ -1,0 +1,138 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 17,760
+| crecla = Vampire
+| crecla2 = Undead
+| school = Death
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+Death;
+
+| critical =
+67 Any;
+
+| criticalblock =
+633 Any;
+
+| outpierce =
+18%;
+
+| outboost =
+98%;
+
+| incboost =
+30% Life;
+
+| incresist =
+47% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+77% Death;
+
+| outhealing =
+40%;
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Vampire Guard;
+
+| world = Darkmoor
+| location = Graveholm
+| subloc1 = Safehouse Courtyard (Night)
+| descrip =
+Lucy Easton's sire, or - not any longer.
+
+| speech =
+"They have made you human! They have made you prey!"
+
+| monstrology =
+{{Monstrology Info
+| tome world = Darkmoor
+| tome description =
+The absolute worst. If you know, you know.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| can expel = No
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Attenuate;
+Dream Shield;
+Plague;
+Deathblade (+40%);
+Empower;
+Ghoul;
+Lord of Night (Tier 2a);
+Gravestorm;
+Vampire;
+Call of Khrulhu;
+Wraith;
+
+| quests =
+Stakes and Stones;
+
+| gold =
+11 - 42;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Dr. Von's Monster;
+Efreet;
+Empower;
+Lord of Winter;
+Sabertooth;
+
+| reagents =
+Amber Dust;
+
+| spellements =
+
+| snacks =
+Bone Fish 'N Harmony;
+Butter Worms;
+Pickled Garlic Grubs;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

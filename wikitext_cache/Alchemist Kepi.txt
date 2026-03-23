@@ -1,0 +1,169 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 680
+| crecla = Krokotopian
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Death;
+
+| incresist =
+50% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Karanahn Ravager;
+
+| world = Krokotopia
+| location = Karanahn Barracks
+| subloc1 = Alchemist Kepi's Lab
+| descrip =
+*Two additional Karanahn Ravager Minions appear if more than two Wizards are present.
+
+| speech =
+:''"You worthless buffoon! You interrupted my experiment!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 125 Storm Damage per Pip.
+
+| casts =
+Spirit Armor;
+Death Shield;
+Lifeblade;
+Imp;
+Leprechaun;
+Nature's Wrath;
+Troll;
+Sunbird;
+
+| quests =
+The Awakening;
+
+| gold =
+24 - 37;
+
+| hats =
+Blazing Helm*F2;
+Cowl of Prediction*F2;
+Cowl of Summertime*F3;
+Cowl of the Temple*F3*WMV;
+Hat of the Mirage;
+Headwrap of Annihilation;
+Krokotopian Death Modius;
+Mask of Humidity*F2;
+Necromancer's Ivory Hat*F2;
+Pioneer's Helm*F2*WMV;
+Rough-Hewn Hood;
+Stout Hood*F2*WMV;
+Threadbare Hood;
+
+| robes =
+Balmy Tunic;
+Cloak of Humility;
+Diviner's Tunic of Squalls;
+Robe of Reason;
+Rough-Hewn Robe;
+Sorcerer's Maroon Cloak*F3*WMV;
+Summertime Robes*F3*WMV;
+Vest of Alacrity*F3;
+Vestment of Darkness;
+
+| boots =
+Boots of the Whirlwind*F3*WMV;
+Diviner's Boots*F2;
+Initiate's Boots*F5*WMV;
+Sandals of Refuge;
+Sandals of Tall Tales;
+Shoes of Mortality;
+
+| athames =
+Blade of Proportions*F4;
+Dirk of Harmony;
+Kepi's Dirk of the Adept*F4;
+Knife of the Badlands*F3*WMV;
+Whirlwind Dagger;
+
+| amulets =
+Kepi's Aviary Amulet*F2*WMV;
+
+| rings =
+Alchemist Kepi's Band;
+Glittering Jewel;
+
+| wands =
+
+| decks =
+
+| items =
+Bushy Palm Tree;
+Test Tubes*F3;
+
+| cards =
+Accurate;
+Blizzard;
+Cyclops;
+Krokotillian*F6;
+Meteor Strike;
+Tempest;
+Vampire;
+
+| reagents =
+Copper*F2*WMV;
+Iron;
+Lead;
+Leather Straps*F3;
+Nickel;
+Spider Silk;
+Tin;
+
+| spellements =
+
+| snacks =
+Cracker*F3;
+Green Grapes*F2;
+Nettle Root;
+Tiny Fish;
+
+| jewels =
+Chipped Defense Jade +13;
+Chipped Defense Sapphire +13;
+Chipped Mana Opal +10;
+Chipped Mana Opal +12;
+Chipped PIP Opal +1%;
+Clay Post Opal;
+Cracked Accurate Onyx +2%;
+Cracked Accurate Peridot +2%;
+Cracked Damage Peridot +4;
+Cracked Defense Amethyst +9;
+Cracked Defense Citrine +9;
+Cracked Defense Citrine +10;
+Cracked Defense Jade +9;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F3;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,133 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 1,250
+| crecla = Beastmoon Creature
+| school = Fire
+| startpips = 2
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Celestia Battlegrounds
+| descrip =
+Hach'Acha is one of the Boss monsters that can be encountered during the first Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events.  He will have one random, Rank 1 Elite, Stage 1 monster present to assist him.
+
+'''Potential Minions:'''
+*{{Link|Creature|Ice Spriggan}}
+*{{Link|Creature|Monsoon Lagoony}}
+*{{Link|Creature|Paragonmaton}}
+*{{Link|Creature|Steamed Crab}}
+
+| speech =
+
+| spellnotes =
+*Casts a 0-Pip, 75 Damage version of Dive-Bomber Beetle.
+*Casts a 225 Damage over 3 Rounds version of Irksome Mander.
+**It is currently unknown whether the Clear effect occurs.
+*Casts a 2-Pip, 250 Damage version of Backdrafter.
+*Casts a 4-Pip Sunbird version of Surtr's Rage that deals 375 Damage over 3 Rounds.
+
+| casts =
+Irksome Mander;
+Dive-Bomber Beetle;
+Backdrafter;
+Surtr's Rage;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 5 - 10 Lunari.
+
+| gold =
+21 - 30;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone;
+Balance Rune*F2*WMV;
+Balance Thread*F4;
+Eldritch Thread*F9*WMV;
+Eldritch Thread @ Eldritch Thread 2*F4;
+Elemental Moonstone*F3;
+Elemental Thread*F5;
+Fire Rune*F2*WMV;
+Hunter's Moonstone*F13*WMV;
+Ice Rune;
+Storm Rune;
+
+| spellements =
+Elemental Golem*F2*WMV;
+Frostbite;
+Frostfeather;
+Glacial Golem*F2;
+Inferno Salamander*F2;
+Meteor Strike;
+Judgement*F2;
+Obsidian Colossus;
+Sandstorm*F2;
+Stormwing*F2;
+Thermic Golem;
+Thunderman*F3;
+Volcanic Golem;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Beastmoon Seed*F14*WMV;
+
+| mounts =
+
+| spells =
+
+| recipes = 
+Elemental Golem Spellements @ Elemental Golem Spellements 7;
+Frostbite Spellements @ Frostbite Spellements 7;
+Storman Spellements @ Storman Spellements 7;
+
+}}

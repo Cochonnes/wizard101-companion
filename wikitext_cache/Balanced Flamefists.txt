@@ -1,0 +1,122 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 5,620
+| crecla = Colossus
+| school = Balance
+| school2 = Fire
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Fire;
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Storm;
+30% Life;
+
+| incresist =
+30% Ice;
+30% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Colossite;
+
+| world = Zafaria
+| location = Stone Town
+| subloc1 = Hall of Fury
+| descrip =
+
+| speech =
+:''"This... is wrong... I have been altered, changed, transmogrified... this can't be... THIS IS WRONG!"''
+
+| cheatnotes =
+*"Use this special deck of cards to aid our experiments" - At the beginning of the first Round, Cornelia Hornswoggle will cast a Storm Spell that Polymorphs each Wizard in battle. This Polymorph does not change your Wizard's appearance, but grants a unique deck and stats.
+**{{Link|Polymorph|Hall of Fury (Balance)}}
+**{{Link|Polymorph|Hall of Fury (Death)}}
+**{{Link|Polymorph|Hall of Fury (Fire)}}
+**{{Link|Polymorph|Hall of Fury (Ice)}}
+**{{Link|Polymorph|Hall of Fury (Life)}}
+**{{Link|Polymorph|Hall of Fury (Myth)}}
+*"Do your worst, Wizard, but the final blow is mine" - At the beginning of the second Round, Cornelia Hornswoggle will say this line.
+*"I told you, Wizard, the final strike must be mine" - If the last enemy is not defeated by Cornelia Hornswoggle, then she will speak this line and the battle will end normally. However, all enemies will respawn afterwards and the battle must be restarted to progress the quest.
+**Cornelia Hornswoggle only needs to defeat the last enemy standing. She does not need to defeat every opponent.
+**This cheat will still occur if Cornelia Hornswoggle is defeated, but the cheat phrase will not be spoken.
+
+| spellnotes =
+
+| casts =
+Helping Hands;
+Hex (+35%);
+Mass Hex;
+Fire Trap;
+Dyvim's Resurgence (Tier 2a);
+Iron Curse (Tier 2a);
+Brimstone Revenant (Tier 2a);
+Efreet (Tier 2b);
+
+| quests =
+Peer Review;
+The Scientific Magic;
+
+| gold =
+3 - 37;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Cyclops Idol (Storm);
+Krokomummy Idol (Storm)*F2;
+Ninja Pig Idol (Storm);
+Weft Yarn @ 25 Weft Yarn*F2;
+Weft Yarn @ 30 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,102 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 8,430
+| crecla = Cat
+| school = Storm
+| cheats = Yes
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+20%;
+
+| outboost =
+40% Storm;
+
+| incboost =
+30% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Meowiarty Exalted Challenge
+| subloc1 = 
+| descrip =
+Dr. Von Katzenstein (Rank 14) is a possible Minion to {{Link|Creature|Meowiarty (Rank 14)}}.  All drops are recorded on that page.
+
+| speech =
+
+| cheatnotes =
+*''"Tis a good time for my monster to come out to play!"'' - At the end of every third Round, Dr. Von Katzenstein will cheat-cast {{Link|Spell|Dr. Von's Monster (1,005)}} on a random Wizard.
+*''"Don't worry, there's time for everyone to play!"'' - At the start of every fourth Round, he will cheat-cast {{Link|Spell|Monster Mash (1,170)}} on a random Wizard.
+*''"It's not safe to run with Blades!"'' - If a Wizard casts a [[:Category:Blade Spells|Blade]], he will cheat-cast Enfeeble on the receiver of the Blade.
+*''"One must keep a sanitary work environment!"'' - If a Wizard casts a negative Damage [[:Category:Charm Spells|Charm]] on any of his team mates, he will cast an AoE version of {{Link|Spell|Cleanse Charm}}.
+
+| spellnotes =
+
+| casts =
+Galvanic Field;
+Stormblade (+30%);
+Balanceblade (+35%);
+Glowbug Squall;
+Storm Lord;
+Leviathan;
+Sirens;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

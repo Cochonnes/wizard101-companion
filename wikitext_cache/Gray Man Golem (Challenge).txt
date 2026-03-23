@@ -1,0 +1,171 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 15,625
+| crecla = 
+| school = Death
+| school2 = Balance
+| cheats = Yes
+
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Darkmoor
+| location = Graveholm
+| subloc1 = Secret Lab (Challenge)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Manipulation}} ''"You cannot kill the undying"'' - At the beginning of the first round, each Gray Man Golem will receive a {{Link|Spell|Guardian Spirit}} effect
+*{{Icon|Round}} ''"Magic mine... your power... mine!"'' - At the end of each round, if there is at least one wizard with a Positive Charm, a Gray Man Golem will target a random wizard and receive a number of Power Pips depending on the amount of Positive Charms.
+** 1 or 2 charms = 1 Power Pip
+** 3 charms = 3 Power Pips
+** 4+ charms = 4 Power Pips
+*{{Icon|Round}} ''"Pain... makes... power!"'' - At the beginning of each round, if a Gray Man Golem is not at full health, it will cast a special version of {{Link|Spell|Bladestorm}} that increases in value the lower his health is.
+** The minimum blade value is 20% and the maximum blade value is 100%. If the blade is 100%, it will also be Protected.
+** If there are multiple Gray Man Golems under full health, the value of the blade will be based on the first one in the duel circle. This cheat will only activate one per round, regardless of how many Gray Man Golems are in the battle.
+** Further testing is required to determine blade values between the minimum and maximum and their corresponding HP thresholds.
+
+| spellnotes =
+
+| casts =
+Weakness;
+Threefold Fever;
+Deathblade (+40%);
+Tomb Blade;
+Empower;
+Dream Golem (Tier 2b);
+Grim Reader;
+Skeletal Raider;
+Tribunal Oni;
+
+| quests =
+
+| gold = 1
+
+| hats =
+
+| robes =
+Chilling Abomination Suit;
+Doomed Abomination Suit;
+Mythic Abomination Suit;
+Sanguine Abomination Suit;
+Scary Abomination Suit;
+Scholomantic Death Raiment;
+Scholomantic Destructive Armor;
+Scholomantic Devilish Raiment;
+Scholomantic Fortune Raiment;
+Scholomantic Justice Raiment;
+Scholomantic Strength Raiment;
+Scholomantic Worldly Raiment;
+Shocking Abomination Suit;
+Tense Abomination Suit;
+
+| boots =
+
+| athames =
+Chilling Abomination Athame;
+Doomed Abomination Athame;
+Mythic Abomination Athame;
+Sanguine Abomination Athame;
+Scary Abomination Athame;
+Scholomantic Death Knife;
+Scholomantic Destructive Knife;
+Scholomantic Devilish Knife;
+Scholomantic Fortune Knife;
+Scholomantic Justice Knife;
+Scholomantic Strength Knife;
+Scholomantic Worldly Knife;
+Shocking Abomination Athame;
+Tense Abomination Athame;
+
+| amulets =
+
+| rings =
+ 
+| wands =
+
+| decks =
+Chilling Abomination Box;
+Doomed Abomination Box;
+Mythic Abomination Box;
+Sanguine Abomination Box;
+Scary Abomination Box;
+Scholomantic Death Deck;
+Scholomantic Destructive Deck;
+Scholomantic Devilish Deck;
+Scholomantic Fortune Deck;
+Scholomantic Justice Deck;
+Scholomantic Strength Deck;
+Scholomantic Worldly Deck;
+Shocking Abomination Box;
+Tense Abomination Box;
+
+| items =
+
+| cards =
+
+| reagents =
+Outsider Relic @ 6 Outsider Relic;
+
+| spellements =
+Anubis;
+Barbarian's Saga;
+Chameleon Clash;
+Drop Bear Fury;
+Freeze Ray;
+Glimpse of Infinity;
+Heqet;
+Mortality;
+Old One's Endgame;
+Rainbow Serpent;
+Scales of Destiny;
+Shu;
+Starspawn;
+The Chariot;
+The Emperor;
+The Hierophant;
+The Tower;
+Tree of Strife;
+Zand the Bandit;
+
+| snacks =
+
+| jewels =
+Bright Health Citrine +765
+
+| pins =
+Balance Punishing Pin (180, Death);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Gray Man Golem (Standard)
+
+}}

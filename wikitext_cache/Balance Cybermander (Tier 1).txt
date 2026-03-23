@@ -1,0 +1,154 @@
+{{CreatureInfobox
+| cretype = Boss 
+| rank = 8
+| heal = 1,960
+| crecla = Mander
+| school = Balance
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+50%;
+
+| incboost =
+3% Myth, Life, Death;
+
+| incresist =
+50% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Fire Cybermander (Tier 1);
+Myth Cybermander (Tier 1);
+
+| world = Housing Instance
+| location = Doomsday Krok Gauntlet
+| subloc1 = Doomsday Krok Gauntlet (Tier 1)
+| descrip =
+For the purpose of drops, Balance Cybermander (Tier 1) is considered a Boss. All drops are recorded on this page.
+*{{Link|Creature|Ice Cybermander (Tier 1)}} appears when more than two Wizards are present.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Half cyber, half Mander. Well, not counting the 2% Neandermander it learned about from a company called HistoryandMe.
+
+| extract class =
+Mander;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| altlink = Balance Cybermander
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 420 Balance Damage for 4 Pips maximum.
+
+| casts =
+Elemental Shield;
+Weakness;
+Balanceblade;
+Scarab;
+Scorpion;
+Locust Swarm;
+Sandstorm;
+Natural Attack (Balance 105-210-315, 80%);
+Evil Snowman;
+Minotaur;
+
+| quests =
+
+| gold =
+300;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Krok Balance Plaque*F2;
+Krok Bird Plaque;
+Krok Doomsday Combat Theme*F12;
+Krok Fire Plaque;
+Krok Ice Plaque;
+Krok Insect Plaque;
+Krok Moon Plaque*F2;
+Krok Skull Plaque*F2;
+Krok Snake Plaque;
+Krok Storm Plaque*F2;
+Krok Sun Plaque*F2;
+Krok Tree Plaque;
+
+| cards =
+Lightning Bats*F2;
+Locust Swarm*F2;
+Mander;
+Mega Taunt*F2;
+Myth Prism;
+Namaste*F3;
+Nekhbet*F3;
+Phoenix;
+Plague*F3;
+Scarab;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Buttered Popcorn;
+Cactus Fruit;
+Fries;
+Gator Tots*F2;
+Green Grapes;
+Loco Nut*F3;
+Medium Fish*F2;
+Prickly Bear Punch;
+Raising Bran Cereal;
+Sandy Corn;
+Square Root;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,251 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 18,360
+| crecla = Bee
+| crecla2 = Insect
+| school = Fire
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| summons =
+Royal Guard (Khrysalis);
+Yellow Jacket Drone;
+
+| world = Khrysalis
+| location = Moon Cliffs
+| subloc1 = Throne Room (Moon Cliffs)
+| descrip =
+This is the second encounter with the {{Link|Creature|Broodmother}}, and it takes place in the Throne Room (Moon Cliffs).
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+Queen Sabrina, seen here mutated and twisted into a thrall of the Shadow Queen.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Round}} ''"Guard Me!"'' - At the end of the first Round, the Broodmother will summon a Royal Guard (Khrysalis) Minion.
+**''"Guard Your Queen!"'' - At the end of each succeeding Round, the Royal Guard will summon a Yellow Jacket Drone.
+*{{Icon|Steal}} ''"Give Me Your Health, Drone!"'' - At the end of a Round, the Broodmother may order a Yellow Jacket Drone to destroy itself by {{Link|Spell|Sacrifice}} to give her 1,500 Health.
+**Whenever a Yellow Jacket Drone attacks, even if it fizzles, it is Sacrificed.
+*{{Icon|Minion}}{{Icon|Afterlife}} Once the Royal Guard Minion is defeated, the Yellow Jacket Drones will stop spawning.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 170 Fire Damage for 1 Pip, 290 Fire Damage for 2 Pips, or 435 Fire Damage for 3 Pips + 630 Fire Damage over 3 Rounds.
+
+| casts =
+Amplify;
+Vengeance;
+Glacial Shield;
+Smoke Screen (-45%);
+Fireblade;
+Fire Trap;
+Fuel (+35%);
+Meteor Strike (355-395);
+Phoenix (600-680);
+Efreet;
+Sun Serpent;
+Natural Attack (Brood Mother);
+
+| quests =
+Queensrych;
+
+| gold =
+137 - 530;
+
+| hats =
+Burrower's Rainstorm Cap*F2;
+Gloom Dancer's Shroud*F9*WMV;
+Kermes Fire Miner's Helmet*F3;
+Mantis Cover of Frostfall;
+
+| robes =
+Armor of the Mouse Knight*F6*WMV;
+Mantis Armor of Purpose;
+Robes of Burrower Strife*F2;
+
+| boots =
+Blighted Burrower Boots;
+CloudDancer's Footwraps*F4*WMV;
+Digger Drone's Dirty Boots;
+Flame Legs Coalwalkers*F2*WMV;
+Mantis Boots of Patience*F2;
+
+| athames =
+
+| amulets =
+BurrowBuilder's Medallion*F5*WMV;
+Charm of the Fierce Mantis*F2;
+Jewel of the Apiary;
+Memento of the Moon Cliffs;
+
+| rings =
+Mouse Knight's Loop;
+
+| wands =
+Black Cloud Carnage;
+Kermes Fireclaw*F5*WMV;
+Tarantula Hawk's Black Wind*F3;
+
+| decks =
+Barbed Case of Stratagem*F3*WMV;
+Gallery of the Woebegone*F5*WMV;
+LimeBlight's Gallery;
+Mago's Death's Head Set*F4*WMV;
+
+| items =
+Khrysalis Arachna Theme*F2;
+Khrysalis Fort Rachias Theme;
+Khrysalis Thrives Theme;
+
+| cards =
+Black Widow*F3;
+Choke*F2*WMV;
+Crystal Spider;
+Doom and Gloom;
+Enfeeble (-All);
+Fire Beetle;
+Hooligan;
+Legendary Treant (445);
+Locust Swarm;
+Lucius McTavish;
+Luminous Weaver*F2*WMV;
+Mass Infection;
+O'Leary Charlatan (Storm)*F2*WMV;
+O'Leary Swindler;
+Patches O'Leary*F2*WMV;
+Polar Swarm;
+Sanctuary;
+Scarab*F2;
+Scorpion;
+Shatter (3 Pip);
+Sprite Swarm (40+360)*F2;
+Wildfire Treant*F2;
+
+| reagents =
+Amber;
+Black Lotus*F3*WMV;
+Black Pearl;
+Blood Moss;
+Bone*F7*WMV;
+Bronze Gear*F4;
+Copper*F2;
+Deep Mushroom*F6*WMV;
+Fire Blossom*F2*WMV;
+Fossil*F2;
+Golden Pearl*F2*WMV;
+Iron;
+Lava Lily*F4*WMV;
+Mist Wood*F5*WMV;
+Nickel;
+Nightshade*F2*WMV;
+Ore*F8*WMV;
+Orichalcum;
+Red Mandrake*F9*WMV;
+Silver;
+Stone Block*F3*WMV;
+Sunstone;
+Titanium;
+Tungsten;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Dr. Jalapeno*F2;
+Flaming Soup*F2*WMV;
+Glowing Dragon Fruit;
+Glowing Star Fruit;
+Goat Cheese;
+Golden Apple*F3;
+Golden Grapes*F3;
+Gummy Bees;
+Gummy Humongofrog*F3;
+Hive Rinds*F2*WMV;
+Honey Bombs*F2*WMV;
+Honeycombs*F2*WMV;
+Honeycrisp Apples*F2*WMV;
+HoneyDon't Melon*F2*WMV;
+King Banana*F3*WMV;
+Peanut Butterflies*F2;
+Punk Rock Candy;
+Salmonberry;
+Spicy Stingers;
+Sugar Khrystals*F2*WMV;
+
+| jewels =
+Chipped Mana Opal +10;
+Chipped Mana Opal +11;
+Chipped PIP Opal +1%;
+Clear Opal;
+Cracked Defense Citrine +11;
+Dark Sprite Onyx;
+Huge Energy Opal;
+Imp Jade;
+Myth-Boon Peridot;
+Myth-Proof Peridot;
+Polished Critical Amethyst +11;
+Polished Critical Hematite +11;
+Polished Defense Sapphire +42;
+Polished PIP Opal +9%;
+Polished Resilient Opal +5%;
+Rally Opal;
+
+| pins =
+
+| pets =
+Tarantula Hawk*CR*F3;
+
+| seeds =
+Angora Bunny Ears;
+Maelstrom Snap Dragon;
+Pink Huckleberries;
+Queen Crape Myrtle*F2*WMV;
+Red Huckleberries;
+Saw Palmetto;
+Sugar Khrystal*CR*F2;
+Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+}}

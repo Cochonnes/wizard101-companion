@@ -1,0 +1,196 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 18,420
+| crecla = Shadow Weaver
+| school = Fire
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Khrysalis
+| location = The Hive
+| subloc1 = Tributes Room
+| descrip =
+
+| speech =
+:''"Guuuh! Worthless Tribute Guards. Stand aside! I'll deal with this little interference myself."''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Glacial Shield;
+Smoke Screen;
+Fireblade;
+Fire Trap;
+Fuel (+35%);
+Natural Attack (Fire 175-285-400);
+Meteor Strike (355-395);
+Phoenix (600-680);
+Efreet;
+Sun Serpent;
+
+| quests =
+Cold Feet;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*10 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+| gold =
+66 - 85;
+
+| hats =
+Kermes Fire-Hardened Mask*F3;
+Mantis Guard's Headgear*F2*WMV;
+Scarred Burrower Greathelm*F2;
+
+| robes =
+Beleaguered Mouse Gear;
+Mantis Chitin Armor;
+
+| boots =
+
+| athames =
+Ghostmane's Fabled Cutter;
+
+| amulets =
+CurdWright Medallion;
+Death's Head Talisman;
+Jewel of the Apiary*F2;
+
+| rings =
+
+| wands =
+Poleaxe of Mantis Dominion;
+Spear of Mantis Voracity;
+
+| decks =
+Barbed Case of Stratagem*F2;
+Box of Indomitable Spirit*F2*WMV;
+Lightning Rider's Deck*F3;
+
+| items =
+Khrysalis Hive and Seek Theme;
+Khrysalis Hive Combat Theme;
+
+| cards =
+Crystal Spider;
+Doom and Gloom;
+Enfeeble;
+Furnace;
+Hooligan;
+Locust Swarm;
+Lord of Winter;
+O'Leary Swindler;
+Pierce;
+Polar Swarm;
+Reliquary;
+Sanctuary;
+Spinysaur*F2;
+Sprite Swarm (40+360);
+
+| reagents =
+Astral Shard*F3*WMV;
+Black Lotus;
+Black Pearl*F2;
+Blood Moss;
+Bone;
+Bronze Gear;
+Deep Mushroom;
+Draconium;
+Fire Blossom*F2;
+Fossil;
+Golden Pearl;
+Lava Lily;
+Mist Wood;
+Nightshade;
+Ore*F3;
+Orichalcum;
+Red Mandrake;
+Stone Block;
+Turquoise;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR*F2*WMV;
+Celestial Calendar*BR;
+Chimera*BR*F2;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR*F3;
+Frost Giant*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR*F2;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR*F2;
+Lord of Winter*BR;
+Medusa*BR*F2;
+Orthrus*BR;
+Power Nova*BR*F2;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR*F2;
+Scarecrow*BR*F3;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Buttered Bread;
+Dr. Jalapeno;
+Glowing Star Fruit;
+Salmonberry;
+Submarine Sandwich;
+
+| jewels =
+Heart o'Pixie Jade;
+Mokompo Amethyst;
+Polished Accurate Hematite +10%;
+Sir Bedevere Jade;
+
+| pins =
+
+| pets =
+
+| seeds =
+Saw Palmetto;
+
+| mounts =
+
+| spells =
+
+}}

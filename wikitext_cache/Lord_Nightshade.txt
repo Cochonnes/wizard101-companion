@@ -1,0 +1,413 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 690
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Life;
+
+| incresist =
+50% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Field Guard;
+
+| world = Wizard City
+| location = Haunted Cave
+| subloc1 = Stormdrain Tower
+| badge = Wizard City Protector
+| lootchest = Nightshade's Chest
+| descrip =
+Ruler of the Undead that have been freed from the Haunted Cave, Lord Nightshade is the last storyline Boss in Wizard City. Nightshade was released by and is working for {{Link|Creature|Malistaire Drake}}, who tasked the wraith with finding out as much as he could about the Order of the Fang. This task was delegated to the ghost {{Link|Creature|Foulgaze}}, who directs Wizards to Lord Nightshade after they learn that Malistaire stole [[NPC:Bartleby|Bartleby's]] Eye of History.
+
+Two additional Field Guard Minions will join the duel when more than two Wizards are present.
+
+| speech =
+:''"You truly think to face me, Wizard? Do you have any concept of what I am? No mere ghost lost in the ether, I am Darkness. King of the Dead, Lord of the Nightshade, Master of the things in the dark which float and scream. And now you have the honor of becoming one of my subjects."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+The undying ruler of the unruly Undead. Despite being one of Malistaire's top collaborators, he can only afford to rent Stormdrain Tower.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Death Trap;
+Dark Sprite;
+Ghoul;
+Natural Attack (Lord Nightshade);
+Banshee;
+Natural Attack (Wraith);
+Frost Beetle;
+Snow Serpent;
+Fire Elf (50+210);
+
+| quests =
+Throwing Nightshade;
+
+| dropnotes =
+A number of the items dropped by this Boss are holiday items and are only available during their respective holidays.
+*''For a detailed breakdown of drop chances, see the {{Link|Project|Lord Nightshade Hallowe'en Drops 2011}} page.''
+
+| gold =
+8 - 36;
+
+| hats =
+Antique Helm*F3*WMV;
+Augmented Mantle*CR;
+Blightshroud*F6*WMV;
+Boo Pumpkin Mask*CR*HOL;
+Bunny Hood*CR*HOL;
+Carbonshroud*F5*WMV;
+Charged Cover*F3*WMV;
+Cloudburst Helm*F2*WMV;
+Cool Pumpkin Mask*CR*HOL;
+Cyclops Pumpkin Mask*CR*HOL;
+Embershroud*F6*WMV;
+Fur-Lined Hood*F5*WMV;
+Goofy Pumpkin Mask*CR*HOL;
+Hallowe'en Hat*CR*HOL;
+Happy Pumpkin Mask*CR*HOL;
+Hardened Cap*F2;
+Headdress*CR*HOL;
+Helm of Nightmares*F44*WMV;
+Helm of Supremacy*F2*WMV;
+Helm of Tales*F2*WMV;
+Hood of Storms*F4*WMV;
+Imp Lord's Helm*F5*WMV;
+Kitty Pumpkin Mask*CR*HOL*F2*WMV;
+Midsummer's Cowl*CR*F5*WMV;
+Mummy Costume Headwraps*CR*HOL;
+Nightshade's Cowl*F10*WMV;
+Nightshade's Hood*F14*WMV;
+Ninja Pig Hat*CR*HOL*F2*WMV;
+Novitiate Hat*F11*WMV;
+Pilgrim Hat*CR*HOL;
+Pirate Pumpkin Mask*CR*HOL*F2*WMV;
+Plain Pumpkin Mask*CR*HOL*F2*WMV;
+Santa Hat*CR*HOL;
+Scary Pumpkin Mask*CR*HOL*F2*WMV;
+Trollskin Hat*F4;
+Turkey Hat*CR*HOL;
+Vampire Costume Wig*CR*HOL*F2;
+Veil of Sparks*CR;
+Venomous Cowl*F3*WMV;
+Vrixx's Verdant Cowl*F3*WMV;
+
+| robes =
+Adventurer's Robe;
+Bunny Suit*CR*HOL;
+Canvas Cloak;
+Charged Coat*F3;
+Chillcloak*F5*WMV;
+Fireguard Robe*F8*WMV;
+Frost Wolf Cloak*F4*WMV;
+Hallowe'en Robe*CR*HOL;
+Hallowed Robes*F3*WMV;
+Healer's Vestment*F3*WMV;
+Jacket of Withstanding*CR*F3;
+Lord Nightshade's Cloak*F12*WMV;
+Lord Nightshade's Robe*F14*WMV;
+Martyr's Raiment*F3*WMV;
+Mummy Costume Bodywraps*CR*HOL;
+Ninja Pig Robe*CR*HOL;
+Novitiate Robe*F7;
+Pilgrim Robe*CR*HOL;
+Robe of Embers*F4*WMV;
+Robe of Horror*F14*WMV;
+Robe of Savvy*F4*WMV;
+Robe of the Lifeblood*F36*WMV;
+Roughspun Robe*F4*WMV;
+Santa Robe*CR*HOL;
+Sapphyra's Vestment*F4*WMV;
+Scholarly Robes*F9*WMV;
+Senior Novice's Robe*F3*WMV;
+Soot Stained Tunic*F2*WMV;
+Stormcaller's Robe*F5*WMV;
+Stormforged Mantle*F7*WMV;
+Trollskin Cloak*F4*WMV;
+Tunic of Disturbance*F4*WMV;
+Vampire Costume Coat*CR*HOL;
+Vestment of Essence*F4*WMV;
+Vestment of Tremors*F2*WMV;
+
+| boots =
+Antique Footguards*F2*WMV;
+Boots of Embers*F2;
+Boots of Obstruction*F2*WMV;
+Branded Footguards*F31*WMV;
+Bunny Feet*CR*HOL;
+Cloudburst Wraps*F2*WMV;
+Goldleaf Shoes*F2*WMV;
+Hallowe'en Shoes*CR*HOL;
+Hardened Boots*F10*WMV;
+Lord Nightshade's Boots*F17*WMV;
+Mummy Costume Footwraps*CR*HOL;
+Nightshade's Shoes*F14*WMV;
+Ninja Pig Shoes*CR*HOL;
+Novitiate Boots*F6*WMV;
+Pilgrim Boots*CR*HOL;
+Santa Boots*CR*HOL;
+Shoes of the Troll King*F4*WMV;
+Stormforged Boots*F8*WMV;
+Symmetrical Shoes*F3*WMV;
+Trollskin Boots*F38*WMV;
+Vampire Costume Boots*CR*HOL;
+Watchtower Boots*CR*F3*WMV;
+Windrunners*F3*WMV;
+
+| athames =
+Antiquated Knife*F2*WMV;
+Branded Dagger*F3*WMV;
+Charged Kris*F4*WMV;
+Dagger of Repose*F6*WMV;
+Dulled Athame*F5*WMV;
+Fairy's Athame*F3*WMV;
+Fine Dagger*F5*WMV;
+Honed Athame*F7*WMV;
+Insulated Dirk*F2*WMV;
+Reaper's Athame*F44*WMV;
+Sturdy Blade*F5*WMV;
+Symmetrical Dirk*F3*WMV;
+
+| amulets =
+Elven Pendant*F44*WMV;
+Nightshade's Choker*F10*WMV;
+
+| rings =
+Fine Jade Ring*F32*WMV;
+Hallowed Band;
+
+| wands =
+Antiquated Wand*F4*WMV;
+Autumn Wand*CR*HOL;
+Branded Wand*F4*WMV;
+Candle Wand*CR*HOL;
+Candy Wand*CR*HOL*F2;
+Charged Wand*F2*WMV;
+Clover Wand*CR*HOL;
+Corny Wand*CR*HOL*F2;
+Fall Wand*CR*HOL;
+Floppy-Eared Wand*CR*HOL*F11*WMV;
+Gingerbread Wand*CR*HOL*F2*WMV;
+Gold-Stringed Harp*CR*HOL;
+Hatchling Wand*CR*HOL*F3;
+Heartbow Scepter*CR*HOL*F6*WMV;
+Lollipop Wand*HOL;
+Mean Pumpkin Staff*CR*HOL;
+Mint Staff*CR*HOL;
+Nutcracker Wand*CR*HOL;
+Ornamental Paper Staff*CR*HOL*F2*WMV;
+Pot o' Gold Wand*CR*HOL*F2;
+Rod of Unity*CR*HOL*F3*WMV;
+Roseate Wand*CR*HOL*F3*WMV;
+Sad Pumpkin Staff*CR*HOL;
+Scepter of the Shield*CR*HOL;
+Silly Pumpkin Staff*CR*HOL*F2*WMV;
+Spring Egg Wand*CR*HOL*F6*WMV;
+Star Staff*CR*HOL;
+Sweet Staff*CR*HOL;
+Wand of Veneration*CR*HOL*F2;
+Witch's Broom*CR*HOL*F2*WMV;
+
+| decks =
+Antique Deck*F4*WMV;
+
+| items =
+Big Holiday Tree*CR*HOL;
+Blue Holiday Ornament*HOL;
+Carol of the Bells Theme*HOL;
+Color Light Strand*CR*HOL;
+Dark Wood Crate*F10*WMV;
+Deck the Halls Theme*HOL*F2;
+Frozen Pedestal;
+Gingerbread House*HOL;
+Green Holiday Ornament*HOL;
+Holiday Fireplace*HOL;
+Holiday Wreath*CR*HOL;
+Jingle Bells Theme*HOL*F2;
+Large Cypress Tree*F14*WMV;
+Large Snowflake*CR*HOL;
+Low Wooden Table;
+Milk and Cookies*CR*HOL*F2;
+Mint Standee*HOL*F2;
+Mint Swirl*CR*HOL;
+Nightshade's Bones*F13*WMV;
+Nutcracker*HOL;
+Polka Dot Wrapped Gift*CR*HOL*F2;
+Polka Dot Wrapped Long Gift*CR*HOL*F3;
+Prop House 2;
+Prop Mountains 2*F4*WMV;
+Red Holiday Ornament*HOL;
+Regular Small Fry Aquarium;
+Royal Sofa*F14*WMV;
+Small Color Light Strand*CR*HOL;
+Small Snowflake*CR*HOL;
+Snowflake Wrapped Gift*CR*HOL;
+Snowglobe*HOL;
+Snowman*CR*HOL;
+Snowman Wrapped Gift*CR*HOL;
+Spiral Wrapped Gift*HOL;
+Spooky Bob*CR*HOL;
+Star Wrapped Gift*CR*HOL;
+Sundae (Wizard City)*F3;
+Tree Wrapped Gift*CR*HOL*F2;
+Wooden Skeleton Key*CR*F7*WMV;
+Yuletide Lg. Small Fry Aquarium*CR*HOL*F3;
+Yuletide Tall Small Fry Aquarium*CR*HOL*F2;
+
+| cards =
+Blood Bat*F3*WMV;
+Dark Sprite;
+Death Trap*F2*WMV;
+Fire Cat;
+Fire Elf*F4*WMV;
+Fire Shield*F2*WMV;
+Frost Beetle;
+Ghoul*F4*WMV;
+Guiding Light*F2;
+Imp*F6*WMV;
+Keen Eyes*F3*WMV;
+Lightning Bats*F4*WMV;
+Locust Swarm*F3*WMV;
+Lord Nightshade (Attack)*F27*WMV;
+Myth Shield*F2*WMV;
+Pixie*F4*WMV;
+Scarab*F2*WMV;
+Snow Serpent*F3*WMV;
+Snow Shield*F3*WMV;
+Storm Shield*F3*WMV;
+Thunder Snake*F3*WMV;
+Time of Legend*F3*WMV;
+To The Commons*F53*WMV;
+Tough;
+Troll*F4*WMV;
+
+| reagents =
+Ectoplasm*F9*WMV;
+Leather Straps*F6*WMV;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry*F14*WMV;
+Cheese Broccoli*F19*WMV;
+Chocolate Strawberry*F11*WMV;
+Gummy Firecat*F16*WMV;
+Sugar Donut*F12*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+Black Cat*CR*HOL;
+Blue Banshee*F13*WMV;
+Christmas Elf*CR*HOL*F2;
+Cupig*CR*HOL*F2*WMV;
+Frostman*CR*HOL*F2;
+Ghost Dragon*CR*HOL;
+Golden Goose*CR*HOL*F3;
+Lovely Ladybug*CR*HOL*F4*WMV;
+Lovely Leopard*CR*HOL*F3;
+Lucky Leprechaun*CR*HOL*F2;
+Lump of Coal*CR*HOL*F3;
+Maple Moose*CR*HOL*F3;
+Midnight Sprite*F21*WMV;
+Nightmare*CR*HOL;
+Nutcracker*CR*HOL*F2*WMV;
+Pet Egg*CR*HOL*F3*WMV;
+Rescue Rover*CR*HOL;
+Snowball*CR*HOL*F2*WMV;
+Valentine Pig*CR*HOL*F3*WMV;
+Yuletide Spirit*CR*HOL*F2;
+
+| seeds =
+Boon Tree*CR*HOL*F6;
+Happy Holidaisy*CR*HOL*F4*WMV;
+Honey Sickle*F4*WMV;
+
+| mounts =
+Alphyn*F2*WMV;
+Ancient Koi;
+Ankylosaurus;
+Auroch*F2*WMV;
+Bat Wings*F2*WMV;
+Bengal Tiger;
+Black Stallion*F2*WMV;
+Blue Dragon;
+Blue Fairy Wings*F2*WMV;
+Brown Warg*F2;
+Bruin Ram*F2*WMV;
+Camel*F2;
+Chestnut Pony*F2*WMV;
+Crokagator*F3*WMV;
+Dark Redwing*F2;
+Enchanted Broom*F2*WMV;
+Faithful Dragoness;
+Grey Warg;
+Hippogriff*F2*WMV;
+Horned Sweeper*F2*WMV;
+Jaguar;
+Manta Ray;
+Moonlight Pony;
+Nightflame Pegasus;
+Orange Fairy Wings*F2;
+Ostrich*F2;
+Owl;
+Panther*F2;
+Purple Fairy Wings;
+Purple Glider*F2*WMV;
+Renaissance Wings;
+Rugged Seahorse*F2*WMV;
+Sea Turtle;
+Seraph Wings*F2*WMV;
+Skyracer Pegasus;
+Snappy Lobster;
+Snow Ram;
+Spritely Seahorse;
+Starlight Pony*F4*WMV;
+Starshine Pony*F2;
+Stormrider Hare*PERM*CR*HOL*F2;
+Sunshine Pony*F2;
+Swift Gryphon;
+Swift Shark;
+Swiftshadow Wings*F2*WMV;
+Tawny Ram;
+Triceratops*F3;
+White Mare*F2*WMV;
+
+| spells =
+To The Commons*F8*WMV;
+
+}}

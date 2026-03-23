@@ -1,0 +1,279 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 15,350
+| crecla = Lemur 
+| school = Moon
+| masteries =
+Ice;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+210;
+
+| criticalblock =
+282;
+
+| outpierce =
+26%;
+
+| outboost =
+130%;
+
+| incboost =
+5% Fire, Life;
+
+| incresist =
+60% Storm, Myth, Balance;
+73% Ice, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Awful Snowman;
+
+| summons =
+Awful Snowman;
+
+| world = Lemuria
+| location = Night Forest
+| subloc1 = First Story Tomb
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"Do you want to battle a Snowman?"'' - If a Wizard is late to combat, another Awful Snowman will be summoned.
+**{{Icon|Global}} This cheat also activates at the beginning of the first Round, attempting to spawn an Awful Snowman regardless of if the battle has room to accommodate it, though it will only enter battle if the minions that were initially present were defeated in a previous battle where the fight was not fully completed.
+***If a Wizard attacks Snow Queen on the first Round before these minions enter battle, Snow Queen will activate her {{Link|Spell|Celestial Intervention}} cheat, which prevents the minion from entering combat, disappearing entirely.   
+*{{Icon|Random}}{{Icon|Friend}}{{Icon|Aura}} ''"You are the Chosen One!"'' - The Snow Queen will cast a '''+15%''' Damage, '''+15%''' Armor Piercing {{Link|Spell|Icewind}} Aura lasting 1 Round on a random Wizard.
+*{{Icon|Feint}} ''"No feinting spells here!'' - If a Wizard casts a {{Link|Spell|Feint}}, a Shadow version of {{Link|Spell|Cleanse Ward (-2)}} will be cast on her twice
+**{{Link|Spell|Indemnity}} cannot be used to protect against this cheat.
+**The balance version of {{Link|ItemCard|Feint}} does not trigger this cheat.
+*{{Icon|Manipulation}} ''"I am insulting you!"'' - The Awful Snowman Minions will cast a version of {{Link|Spell|Mega Taunt}} that lasts 5 Rounds.
+*{{Icon|Heal}} ''"I didn't choose you!"'' - If a non-Chosen Wizard attacks her, she will cast a version of {{Link|Spell|Celestial Intervention}} that restores 500 Health and removes 6 Shields to restores 180 Health per Shield removed.
+*{{Icon|Blade}} ''"You hit me...I'll let it slide"'' - If the chosen Wizard attacks the Snow Queen, she will provide the Wizard with a protected {{Link|Spell|Balanceblade (+100%)}}.
+*{{Icon|Shield}} ''"Focus on me and me alone!"'' - If a Wizard uses an attack on an Awful Snowman, the Snow Queen will cast a protected {{Link|Spell|Tower Shield (Moon)}} on herself.
+**This also happens if any attack all enemy spell is used even if there are no minions present.
+**Multi-target attacks will also trigger this cheat
+**{{Link|Spell|Dark Tribute}} will also trigger this cheat
+*{{Icon|Damage over Time}} ''"Let it Snow!"'' - If a Wizard casts a Damage over Time effect on her, she will use {{Link|Spell|Cooldown}}.
+*{{Icon|Shield}} ''"Bad choice, Chosen One!"'' - If the chosen Wizard does anything other than hit, or a non-Chosen Wizard does anything, the Snow Queen will cast a protected Tower Shield (Moon) on herself. 
+**Drain Spells will not trigger this cheat.
+**Passing will not trigger this cheat.
+**Pet and Weapon May Cast Spells can also trigger the cheat.
+*{{Icon|Damage}} ''"Let the storm rage on!"'' - The Snow Queen will cast a version of {{Link|Spell|Blizzard}} that targets all allies (the Boss's Team), removing all Wards, or targets all enemies (the Wizard's Team) removing all Charms.
+**{{Link|Spell|Aegis}} will prevent the removal from this Spell.
+
+| spellnotes =
+*Casts a double Iceblade (+40%).
+*Casts a protected Bladestorm.
+
+| casts =
+Brace (6 Rounds);
+Moon Shield;
+Tower Shield;
+Legion Shield;
+Iceblade (+40%);
+Bladestorm;
+Cooldown;
+Blinding Freeze;
+Shift Dread Paladin;
+Orthrus (Moon, 700);
+Winged Sorrow (Moon);
+Climaclysm;
+Snowball Strike (240);
+Volcanic Golem (Tier 5a);
+Dark Weaver;
+Evil Freeze Ray (Tier 3a);
+Snow No Mercy;
+
+| quests =
+Tales from the Script;
+Let it Snow;
+
+| gold =
+74 - 446;
+
+| hats =
+Supreme Deflector Hat;
+
+| robes =
+Supreme Freezer Robe;
+
+| boots =
+
+| athames =
+Magician's Death Athame;
+Magician's Fire Athame;
+Malevolent Balance Athame*F2;
+Malevolent Death Athame;
+Malevolent Ice Athame;
+Malevolent Life Athame;
+Malevolent Myth Athame;
+Malevolent Power Athame;
+Malevolent Storm Athame;
+Supreme Ferocious Athame;
+
+| amulets =
+
+| rings =
+Supreme Electric Ring;
+
+| wands =
+Supreme Freezer Staff;
+
+| decks =
+
+| items =
+Cargo;
+Lemuria Action Theme;
+Lemuria Mystery Theme;
+Lemuria Noir Theme;
+Lemuria Sky City Theme;
+Lemuria Ursai Village Theme;
+Periodic Table Poster*F2*WMV;
+Puzzle Cube;
+
+| cards =
+Brilliant Light;
+Fortify;
+Galvanic Field;
+Guidance;
+Mass Ice Prism*F2;
+Mass Myth Prism;
+Mass Triage;
+Winged Sorrow;
+Wings of Fate;
+Witch's House Call;
+
+| reagents =
+Aether*F4*WMV;
+Agave Leaves;
+Amber;
+Amber Dust*F2;
+Aquamarine;
+Astral Shard;
+Fire Blossom*F2;
+Fish Fin*F3*WMV;
+Golden Pearl;
+Mithril;
+Scales;
+Silver;
+Stardust;
+Steel;
+Sunstone*F5*WMV;
+Synthonium;
+Titanium;
+Tungsten;
+Turmeric;
+Turquoise;
+
+| spellements =
+Barbarian's Saga*F2*WMV;
+Dark & Stormy;
+Lord of the Jungle;
+
+| snacks =
+Bell Pepper Steak;
+Boom Stroganoff;
+Bread Fruit Fruit;
+Candlenut;
+Catfish Stevens;
+Chapulines*F2*WMV;
+Chili Peppers*F2*WMV;
+Crystalweb Candy*F3*WMV;
+Dr. Jalapeno;
+Eggplant;
+Fish Egg Pancakes;
+Flapjacks;
+French Fries;
+Frozen Perogies;
+Gingerbread Wizard;
+Golden Apple;
+Honey Bombs;
+Hot and Sour Bits;
+
+| jewels =
+Ally Ether Shield Peridot;
+Balance Striker Citrine;
+Balance-Boon Citrine;
+Balance-It Citrine;
+Balance-Ward Citrine;
+Dazzling Critical Hematite +19;
+Dazzling Critical Peridot +19;
+Dazzling Defense Amethyst +58;
+Dazzling Defense Amethyst +60;
+Dazzling Defense Hematite +58;
+Death Assailant Onyx;
+Death-Away Onyx;
+Death-Proof Onyx;
+Fire Striker Ruby;
+Fire-Away Ruby;
+Get Sunbird Ruby;
+Ice Striker Sapphire;
+Ice-Boon Sapphire;
+Ice-Proof Sapphire;
+Life-Boon Jade;
+Life-Eye Jade;
+Life-Giver Jade;
+Life-Shot Jade;
+Life-Sniper Jade;
+Lively Opal;
+No Pain, No Gain Onyx;
+Rage of Winter Sapphire;
+Sparkling Health Opal +116;
+Sparkling Health Opal +119;
+Storm Striker Amethyst;
+Storm-Dealer Amethyst;
+Storm-Sniper Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears*F2;
+Baby Carrots;
+Blue Huckleberries*F3;
+Boiled Peanuts;
+Bread Fruit Bush;
+Dandelion;
+Deadly Fly Trap;
+Goose Tree;
+Grapes of Wrath*CR;
+Helephant Ears;
+Honey Bee Plant;
+Honey Sickle;
+Ivy League*CR*F2*WMV;
+Pink Huckleberries;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus;
+Red Bell Pepper;
+Red Couch Potatoes;
+Red Huckleberries;
+Rotten Beets;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Sour Fickle Pickle;
+Sword Fern*CR;
+Tiger Lily (Seed);
+Ultra Dandelion;
+Ultra Snap Dragon;
+Vampire Carrots;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

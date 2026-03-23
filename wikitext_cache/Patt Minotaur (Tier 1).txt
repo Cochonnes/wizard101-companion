@@ -1,0 +1,138 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,160
+| crecla = Giant
+| school = Balance
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+7% Myth, Life, Death;
+
+| incresist =
+20% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Night Shadow (Fire) (Tier 1);
+Night Shadow (Ice) (Tier 1);
+
+| world = Housing Instance
+| location = Baddle of the Bands
+| subloc1 = Baddle of the Bands (Tier 1)
+| descrip =
+
+| speech =
+:''"Wizard! You and King Thermidor think you're tough cookies with a long history, but offstage, things are falling apart. I can hear your heartbeat. I hear the way it sounds. The way it pounds. Get nervous! Why don't you hit me with your best shot."''
+
+| spellnotes =
+
+| casts =
+Weakness;
+Black Mantle;
+Balanceblade;
+Scorpion;
+Locust Swarm;
+Natural Attack (Balance 110-215-320);
+Sandstorm;
+
+| quests =
+Baddle of the Bands;
+
+| gold =
+45;
+
+| hats =
+Headbanger's Topper (Level 10+);
+Rocker's Top Hat (Level 10+)*F2;
+Rockstar High Hat (Any Level);
+Rockstar High Hat (Level 10+);
+
+| robes =
+Rocker's Stagewear (Any Level);
+Rocker's Stagewear (Level 10+)*F2;
+Rockstar Threads (Level 10+);
+
+| boots =
+Headbanger's Spiked Boots (Any Level);
+Headbanger's Spiked Boots (Level 10+);
+Rocker's Stompers (Level 10+)*F2;
+Rockstar Kicks (Level 10+);
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Headbanger's Hit Rig (Level 10+);
+Rocker's Beat Set (Level 10+);
+Rockstar Thump Kit (Level 10+);
+
+| decks =
+
+| items =
+Baddle Combat Theme;
+Baddle of the Bands Theme*F2;
+Broken Rock Shard;
+Broken Wall Segment;
+Draconic Street Light;
+Playable Electric Violin;
+Playable Sassaphone;
+Playable Synthesizer;
+Playable Xanadu Smashers;
+Rock Chunk;
+Stone Fragment;
+Upright Brazier;
+Wood Plank Piece;
+
+| cards =
+
+| reagents =
+Fossil;
+Pyrite;
+Stone Block*F2;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry;
+Cracker*F2;
+Green Grapes;
+Gummy Firecat;
+Nettle Root;
+Tiny Fish;
+
+| jewels =
+Cracked Accurate Onyx +1%;
+Cracked Defense Onyx +6;
+Cracked Defense Ruby +4;
+
+| pins =
+
+| pets =
+Rockin' Roller;
+
+| seeds =
+King Parsley;
+
+| mounts =
+White-Striped Ziger*PERM;
+
+| spells =
+
+}}

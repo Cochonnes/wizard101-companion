@@ -1,0 +1,137 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 16,190
+| crecla = Vampire
+| crecla2 = Undead
+| school = Death
+| school2 = Star
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Storm;
+Death;
+
+| critical =
+510 Any;
+
+| criticalblock =
+191 Any;
+
+| outpierce =
+17%;
+
+| outboost =
+113%;
+
+| incboost =
+30% Life;
+
+| incresist =
+37% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+67% Death;
+
+| outhealing =
+11%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Mortal Plain
+| subloc1 = Castle Strigoi (Standard)
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Darkmoor
+| tome description =
+Well, at least he still has his legacy. No one will ever beat his son!
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Feint}} ''"I am Lord Kain von Shane and I deserve dignity!"'' - If a feint is cast on Kain von Shane, he will cast a version of {{Link|Spell|Dark Tribute}} on himself. This is an old version of Dark Pact that removes universal traps and applies a +30% balance blade on Shane.
+*{{Icon|Curse}} ''"I will not bow down to you!"'' - If a harmful Charm is cast on Kain von Shane, then he will interrupt-cast {{Link|Spell|Disarm}} on the wizard who cast the Charm.
+*{{Icon|Steal}} ''"Don't drain me!"'' - If a Drain spell is cast on Kain von Shane, he will cast an Aegis-protected +100% Balanceblade on himself.
+*{{Icon|Heal}} ''"More life for me!"'' - If a Wizard casts a Healing Spell, then Kain von Shane will interrupt-cast a version of {{Link|Spell|Vampire}} that deals Death Drain Damage and returns half Health to the caster.
+**Pet Maycast Heals will trigger this cheat.
+**This cheat will not trigger for [[Spell:Monster Mash (1,170)|Beguiled]] Wizards.
+*{{Icon|Spell}} ''"Who let the sun in here?"'' - If a Wizard casts as spell that has a sun in it (such as {{Link|Spell|Power Nova}},) Kain von Shane will cast a Protected Universal Dispel on himself.
+'''Interrupt Cycle''': This cycle begins on the second round and repeats every 3 rounds until it is reset.
+*{{Icon|Blade}} ''"Build my strength..."'' - At the beginning of the first round in this cycle, Kain von Shane will interrupt-cast a Star version of {{Link|Spell|Supercharge}} that applies a +10% per pip universal damage charm on himself and gives himself a pip.
+*{{Icon|Dispel}} ''"...stun my prey..."'' - At the beginning of the second round in this cycle, Kain von Shane will interrupt-cast a Star spell that applies a Dispel to every wizard of their own school.
+*{{Icon|Friend}}{{Icon|Damage}} ''"...and now the strike!"'' - At the beginning of the third round in this cycle, Kain von Shane will interrupt-cast {{Link|Spell|Monster Mash}} on a random wizard.
+'''Cycle Reset:'''
+*{{Icon|Damage}} ''"*hiss* Where was I?"'' - If Kain von Shane is targeted with an attack spell, then his cheat cycle will pause for one round and reset to the beginning.
+**{{Icon|Damage over Time}} Damage over time spells will only reset his cheat cycle on the turn they are cast.
+
+| spellnotes =
+
+| casts =
+Starfall;
+Dark Tribute;
+Monster Mash;
+Queen Calypso;
+Catalan;
+Turmoil Oni;
+
+| quests =
+Task of the Red Death;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks = 
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells = 
+
+}}

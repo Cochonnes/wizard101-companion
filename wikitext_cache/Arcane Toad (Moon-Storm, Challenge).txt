@@ -1,0 +1,99 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 12,285
+| crecla = Frog
+| school = Moon
+| school2 = Storm
+| shadowslots = 1
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+54%;
+
+| outboost =
+192%;
+
+| incboost =
+None;
+
+| incresist =
+12% Fire, Ice;
+32% Storm, Myth, Life, Death, Balance, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wallaru
+| location = The Dreaming
+| subloc1 = Freddie's Domain (Challenge)
+| descrip =
+Arcane Toad (Moon-Storm) is considered a Minion to [[Creature:Freddie Kroaker (Challenge)|Freddie Kroaker]]. All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Empowerment;
+Balanceblade;
+Disarm;
+Power Current;
+Doom and Gloom (Moon);
+Shift Bunferatu;
+Shift Grey Wolf;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Arcane Toad (Challenge)
+
+}}

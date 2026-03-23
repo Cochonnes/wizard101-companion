@@ -1,0 +1,96 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 18,555
+| crecla = Goliath
+| school = Ice
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Ice;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+11%;
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Tse Tse Rematch
+| descrip =
+Minion to {{Link|Creature|Tse-Tse Snaketail (Standard)}}.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Fortify;
+Legion Shield;
+Iceblade (+40%);
+Taunt;
+Reindeer Knight (Tier 3b);
+Volcanic Golem (Tier 5b);
+Grand Blue Phoenix;
+Frost Giant (Tier 5b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Goliath Bruiser (Rematch)
+}}

@@ -1,0 +1,159 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,600
+| crecla = Krokotopian
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Nirini Intimidator;
+Nirini Intimidator;
+
+| world = Krokotopia
+| location = Tomb of the Beguiler
+| subloc1 = 
+| descrip =
+
+| speech =
+:''"Who are you? I was about to deliver this pitiful Mander to the master so if you are here to rescue this slimey little trespasser, think again!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip.
+
+| casts =
+Snow Shield;
+Black Mantle;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Fire Elf (50+210);
+Ash Bats;
+Sunbird;
+Fire Shark;
+Fire Wyvern (335-395, 4 Pip);
+Ghoul;
+Cyclops;
+
+| quests =
+Running Free;
+
+| gold =
+40 - 55;
+
+| hats =
+Cryptkeeper's Circlet*F2;
+Destructive Cowl;
+Diviner's Hat of Squalls*F2*WMV;
+Helm of the Citadel*F2*WMV;
+Rough-Hewn Hood;
+Sphinx's Circlet;
+Stout Hood;
+Sturdy Hood;
+
+| robes =
+Dusty Robe*F2*WMV;
+Robe of the Bastion;
+Theurge's Brown Cloak;
+Vest of the Oasis;
+Vestment of Darkness*F3;
+
+| boots =
+Biti Nirini's Torrid Boots*F2*WMV;
+Boots of the Bastion*F2*WMV;
+Boots of the Whirlwind;
+Flowering Shoes;
+Footwraps of the Arctic*F2;
+Hardy Boots;
+Sandals of Energy;
+Sandals of Ignition;
+Sandals of Refuge;
+Shoes of Mortality;
+Shoes of the Desert;
+Slippers of the Oasis*F2;
+
+| athames =
+Dirk of Harmony;
+Parched Kris*F2*WMV;
+Whirlwind Dagger;
+
+| amulets =
+
+| rings =
+Band of the Skies;
+Loop of Quietude;
+Ring of the Badlands*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Krok Moon Plaque;
+Krok Skull Plaque;
+Raised Storm Sarcophagus;
+Tall Palm Tree*CR;
+
+| cards =
+Accurate;
+Blizzard*F2;
+Evil Snowman;
+Krokomummy*F3*WMV;
+Krokotillian*F3*WMV;
+Mutate Beetle (Fire);
+Spirit Armor;
+Sprite;
+Weakness*F2*WMV;
+
+| reagents =
+Bone*F2*WMV;
+Copper;
+Iron;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn*F2*WMV;
+Cracker*F3*WMV;
+Green Grapes*F3*WMV;
+Gummy Bloodbat;
+Nettle Root*F3*WMV;
+Stinky Cheese;
+Tiny Fish*F2*WMV;
+
+| jewels =
+Cracked Damage Jade +6;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2;
+Pink Dandelion*CR*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

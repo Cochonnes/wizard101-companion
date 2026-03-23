@@ -1,0 +1,190 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 18,000
+| crecla = Grendel
+| school = Myth
+| masteries =
+Death;
+
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Life;
+
+| incresist =
+40% Death;
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Grendel Cracknail (Tier 5);
+Grendel Scavenger (Tier 5);
+Grendel Ransacker (Tier 5);
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 5)
+| descrip =
+For the purpose of drops, Tyrfing (Tier 5) is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+:''"Has the weak-kneed Jarl sent you here, into the bowels of the earth?  I have turned the thane's longhall into a house of hatred!  Taste sorrow and shame!  Long will be the season of your suffering!"''
+
+| cheatnotes =
+*{{Icon|Steal}} Defeating the Grendel Ransacker (Tier 5) will trigger a Sun version of {{Link|Spell|Ominous Scarecrow}}, which deals '''650''' Death Drain Damage to all enemies and heals the caster for half the Damage dealt.
+*{{Icon|Stun}} Defeating the Grendel Scavenger (Tier 5) will trigger a Blinding Light.
+*{{Icon|Damage}} Defeating the Grendel Cracknail (Tier 5) will trigger a '''375 + 400''' version of {{Link|Spell|Deer Knight}}.
+**If all three Minions are defeated at the same time, all three Spells will occur in the same turn.
+
+{{Icon|Minion}} '''Minion Cheat Cycle''' (Resets every 3 {{Icon|Round}})
+*{{Icon|Shield}} Grendel Ransacker (Tier 5) casts a {{Link|Spell|Tower Shield (Sun -90%)}}, starting on Round 1.
+*{{Icon|Blade}} Grendel Cracknail (Tier 5) casts a {{Link|TreasureCard|Dragonblade (Sun +50%)}} Treasure Card, starting on Round 2.
+*{{Icon|Healing}} Grendel Scavenger (Tier 5) casts a {{Link|Spell|Regenerate (75+1,250)}}, starting on Round 3.
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Blinding Light;
+Earthquake;
+Natural Attack (Myth 140-1835);
+Deer Knight;
+Scarecrow;
+
+| quests =
+Hall of the Bear;
+
+| gold =
+81 - 277;
+
+| hats =
+Raven Helm of Unkindness (Level 90+)*CR*F2*WMV;
+Thought and Memory Helm (Level 90+)*CR;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Bloodvine Shield;
+Hanging Lantern (Winterbane Hall);
+Hatchet*F2;
+Lantern Post*F2;
+Minor Runestone*F2*WMV;
+Peat;
+Pitchfork*F3*WMV;
+Rough Wooden Shelf*F2*WMV;
+Small Wheelbarrow;
+Square Waterbucket;
+Standing Sconce*F2*WMV;
+Tree Lantern;
+Trowel;
+Weapons Cache;
+Wooden Barrow;
+Wooden Mallet;
+Wooden Trough;
+Wooden Urn*F2;
+Wooden Wheelbarrow*F2;
+Work Hammer;
+
+| cards =
+Freeze*F2*WMV;
+Frost Giant*F3*WMV;
+Icebird;
+Orthrus;
+Ra;
+Rebirth;
+Regenerate*F2;
+Satyr*F2*WMV;
+Snow Angel;
+Snow Serpent*F2;
+Storm Bird;
+Sunbird;
+Thunderbird (515-595)*F2;
+Woolly Mammoth;
+
+| reagents =
+Acorn*F2;
+Blood Moss;
+Cobalt;
+Deep Mushroom;
+Diamond;
+Fossil*F2*WMV;
+Frost Flower*F2*WMV;
+Grendelweed;
+Mist Wood*F2;
+Red Mandrake*F2;
+Spider Silk;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Bad Honeyed Dates;
+Beetle Cream Soda*F2;
+Bunch of Figs*F2;
+Drumstick;
+Fried Worms;
+Frozen Snails;
+Fruit and Nut Bar;
+Fuzzy Peach Fizz*F3*WMV;
+Lime Peel Rickey;
+Pickled Garlic Grubs*F2;
+Pollen Bombs;
+Salmon Joy;
+Salmonberry;
+Simple Sugar Pop;
+Spicy Drumstick;
+Sweet Mango;
+Tiny Fish;
+Wheat Cracker*F2;
+Wormy Apple;
+
+| jewels =
+Berserk Talent Opal;
+Clear Piercing Sapphire +5%;
+Energy Opal;
+Fire Trap Ruby (Triangle);
+
+| pins =
+
+| pets =
+Icebat*F2*WMV;
+
+| seeds =
+Evil Snow Peas;
+Frozen Fly Trap*F2*WMV;
+Moon Flower;
+Snow Apples;
+White Desparagus*F5*WMV;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,211 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,890
+| crecla = Lion
+| school = Fire
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Fire Lion Ravager;
+
+| world = Zafaria
+| location = Savannah
+| subloc1 = Nemean Rock
+| lootchest = Nergal's Chest
+| descrip =
+Nergal the Burned Lion is located atop Nemean Rock in the Savannah of Zafaria. He's made a deal with the [[NPC:Morganthe|Umbra Queen]] to overthrow his brother so that he may become the lion king.
+
+| speech =
+:''"What's this! My pets were gifts from the great Umbra Queen. She gave them to me in exchange for Mansa's Golden Crown. But you are just more meat! I'll roast you up and gobble you down. Then I'll eat this other calf for dessert! Hah! My Shadow Fire will dispel your petty magics, and make you weak!"''
+
+| cheatnotes =
+*{{Icon|Weakness}} ''"My Shadow Fire will make you weak!"'' - On the first Round, Nergal will use his turn to attempt to cast Weakness on the last Wizard to enter battle. Every 4 Rounds after, he will use his turn to attempt to cast Weakness on whomever he is focused on.
+*{{Icon|Dispel}} ''"No more of that!"'' - Every other time that Nergal is attacked, if he is damaged by a Primary School of Magic, then he will cast a dispel of the same School that he was damaged with on the Wizard that damaged him.
+**Damage over Time (DoT) spells will not trigger this cheat.
+**If the School of damage is changed by a Prism, then Nergal will use a dispel that matches what the Prism converted the damage into.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Fire Damage.
+
+| casts =
+Fireblade;
+Fire Trap;
+Sunbird;
+Meteor Strike;
+Phoenix;
+Magma Man;
+Colossus (Fire);
+Fire Dragon;
+
+| quests = 
+Pride in the Name;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Celestia Badges|Astrologist]]''' {{Icon|Astrologist}} Badge and has not unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge, the following drops will be available:
+*6 Spellements will drop each time for their respective rank 4-8 Spells.
+
+| gold =
+64 - 151;
+
+| hats =
+Cold At Night Cover*F4*WMV;
+Crocogator's Ambush Hood;
+Mask of Mirror Lake*F4*WMV;
+Wrathful Wraith's Headdress;
+Zebra's Zephyr Headdress;
+
+| robes =
+Big Sky Outfit*F5*WMV;
+Cloak of Conformity;
+Irontrunk Cloak of Dreams;
+Jambo Jacket;
+Robes of the Cold Night*F5*WMV;
+
+| boots =
+Hot and Cold Crushers*F5*WMV;
+Ironhide Boots;
+Shaman's Cold River Wraps*F4*WMV;
+
+| athames =
+Jungle Thorn*F3*WMV;
+
+| amulets =
+Collar of the Stormzilla*F4*WMV;
+
+| rings =
+Esop's Dancing Ring*F2*WMV;
+Inyanga's Baobab Loop*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Zafaria Savannah Theme*F3*WMV;
+
+| cards =
+Fuel*F4*WMV;
+Monstrous*F6*WMV;
+Power Link*F3*WMV;
+Sniper*F2*WMV;
+Vengeance*F3*WMV;
+
+| reagents =
+Brass;
+Bronze;
+Bronze Gear*F5*WMV;
+Cobalt*F2;
+Leather Straps*F6*WMV;
+Nickel*F4*WMV;
+Steel;
+
+| spellements =
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR*F2;
+Cyclops Minion*BR;
+Earth Walker*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*BR;
+Ice Wyvern*BR;
+Immolate*BR;
+Kraken*BR;
+Leviathan*BR;
+Medusa*BR;
+Minotaur*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Ra*BR;
+Rebirth*BR;
+Scarecrow*BR;
+Seraph*BR;
+Skeletal Dragon*BR;
+Skeletal Pirate*BR;
+Snow Angel*BR;
+Spectral Blast*BR*F2*WMV;
+Stone Colossus*BR;
+Storm Lord*BR;
+Stormzilla*BR;
+Triton*BR;
+Vampire*BR;
+Wraith*BR;
+
+| snacks =
+Cauliflowers*F2; 
+Cheese Broccoli;
+Chocolate Strawberry*F2;
+Cracker*F3;
+Flaming Soup;
+Flapjacks*F2*WMV;
+Glowing Star Fruit*F2*WMV;
+Golden Apple*F3*WMV;
+Golden Grapes;
+Green Grapes*F2;
+Gummy Firecat;
+Gummy Humongofrog*F3*WMV;
+Jelly Baby*F2;
+King Banana*F2; 
+Kola Nuts;
+Nettle Root*F3;
+Sugar Donut; 
+Tiny Fish*F2;
+
+| jewels =
+Effective Opal;
+Immunity Opal;
+Opaque Accurate Jade +8%;
+Opaque Critical Onyx +7;
+Plain Defense Peridot +32; 
+Supercharge Opal;
+
+| pins =
+
+| pets =
+Leopard*CR*F2*WMV;
+Skink*CR*F2*WMV;
+
+| seeds =
+Baby Carrots;
+Burning Snap Dragon*F2*WMV;
+Evil Snow Peas*F2;
+Helephant Ears*F3*WMV;
+Orange Bell Pepper*CR;
+Rye Bread Fruit Bush*F2;
+Venus Fly Trap*F2;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,256 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 12,320
+| crecla = Boa
+| crecla2 = Snake
+| school = Death
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+4%;
+
+| outboost =
+65%;
+
+| incboost =
+15% Life;
+
+| incresist =
+30% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Viper Soldier;
+
+| world = Mirage
+| location = Istanboa
+| subloc1 = Vipers Den
+| descrip =
+
+| spellnotes =
+
+| casts =
+Brace;
+Sacrifice;
+Deathblade;
+Dark Pact (+30%);
+Feint (+75%);
+Ghoul (180);
+Natural Attack (Death 110-220-330, 80%);
+Vampire (375);
+Wraith (575);
+Dr. Von's Monster (900);
+
+| quests =
+The Aridian Chronoshard;
+
+| gold =
+367 - 858;
+
+| hats =
+Zruvan Helmet of Mettle;
+
+| robes =
+Zruvan Raiment of Demise;
+
+| boots =
+Vizier's Shoes of Smolders;
+
+| athames =
+Kobra Janbiya of Flashfloods;
+Kobra Janbiya of Mettle*F2*WMV;
+Sand Sea Dagger of Curiosity;
+Sand Sea Dagger of Shivers;
+
+| amulets =
+Sand Sea Amulet of Ardor;
+Sand Sea Amulet of Blight;
+Sand Sea Charm of Havoc;
+
+| rings =
+Kobra Ringlet of Rigor;
+Sand Sea Ring of Blusters;
+Sand Sea Ring of Decorum;
+Sand Sea Ring of Mischief;
+
+| wands =
+Durvish Armaments of Unrest;
+Rubal Bow of Conflagration*F2*WMV;
+Rubal Bow of Illusions;
+
+| decks =
+Sand Sea Deck of Curiosity*F2*WMV;
+
+| items =
+Mirage Canyon Theme 2;
+Mirage Chronoverge Com Theme;
+Mirage City Combat Theme;
+Mirage City Tense Theme;
+Mirage City Theme*F2*WMV;
+Mirage Desert Canyons Theme;
+Mirage Jungle Theme;
+Mirage Magic Carpet Theme;
+Mirage Nomad Theme;
+Mirage Serpent Theme;
+
+| cards =
+Age of Reckoning;
+Arcticzilla*F2;
+Astraphobia;
+Counterforce;
+Death Troll;
+Frostfang;
+Icespear*F2*WMV;
+Lifespear;
+Magma Colossus;
+Mutate Colossus (Fire);
+Namaste;
+Nested Fury;
+Obsidian Colossus (420);
+Rusalka's Wrath;
+Saga of Heroes*F3*WMV;
+Shock Colossus;
+Stone Colossus*F2*WMV;
+Witch's House Call;
+
+| reagents =
+Aether*F3*WMV;
+Agave Leaves*F2*WMV;
+Agave Nectar;
+Amber;
+Amber Dust*F4*WMV;
+Aquamarine*F3*WMV;
+Astral Shard*F3*WMV;
+Draconium;
+Fire Blossom*F4*WMV;
+Fish Fin*F4*WMV;
+Glass Sliver;
+Golden Pearl*F4*WMV;
+Merle's Whisker;
+Mithril*F9*WMV;
+Orichalcum;
+Scales*F10*WMV;
+Silver*F15*WMV;
+Stardust;
+Steel*F5*WMV;
+Sunstone*F7*WMV;
+Titanium*F5*WMV;
+Tungsten*F5*WMV;
+Turquoise*F5*WMV;
+Vine*F4;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate;
+Beast Wellington*F5*WMV;
+Beetle Cream Soda;
+Chalupacabra*F3*WMV;
+Eye Candy*F6*WMV;
+Fire Passion Fruit*F2;
+Hard Boiled Beetle Eggs*F6*WMV;
+Hot Cross Buns*F3*WMV;
+Jolly Rancher;
+Mustachios*F2;
+Rhubarbed Wire;
+Satyr Chow*F7*WMV;
+Ships 'n' Queso*F9*WMV;
+Veggie Juice*F4*WMV;
+Wheat Cracker;
+
+| jewels =
+Epic Opal;
+Lustrous Accurate Citrine +11%;
+Lustrous Critical Peridot +13;
+Polished Accurate Amethyst +10%;
+Polished Accurate Ruby +10%;
+Polished Accurate Sapphire +10%;
+Polished Blocking Amethyst +11;
+Polished Blocking Citrine +11*F2;
+Polished Blocking Sapphire +11;
+Polished Damage Citrine +21;
+Polished Defense Amethyst +41;
+Polished Defense Citrine +41;
+Polished Defense Citrine +42;
+Polished Defense Onyx +41;
+Polished Defense Ruby +42;
+Polished Health Opal +87;
+Polished Health Opal +93;
+Polished Health Opal +95;
+Polished Mana Opal +38;
+Polished Mana Opal +39;
+Polished Mana Opal +40*F3*WMV;
+Shiny Blocking Jade +16;
+Shiny Critical Amethyst +16;
+Shiny Defense Hematite +51;
+Shiny Defense Sapphire +51;
+Shiny Defense Sapphire +52;
+Shiny Health Opal +112;
+Shiny Health Opal +113;
+Shiny Health Opal +114*F2*WMV;
+Shiny Mana Opal +45;
+
+| pins =
+
+| pets =
+MaCaw*CR*F3;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Baby Carrots*F2;
+Bamboo Shoots;
+Bell Pepper*F2;
+Blue Huckleberries*F2*WMV;
+Boiled Peanuts;
+Boon Tree*CR;
+Bread Fruit Bush*F2*WMV;
+Cornbread Fruit Bush*F2*WMV;
+Couch Potatoes*CR*F4*WMV;
+Dandelion;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Face Palm;
+Fiery Boom Shroom;
+Fish on a Vine;
+Frozen Fly Trap;
+Golden Couch Potatoes*F2;
+Grapes of Wrath*CR;
+Honey Bee Plant;
+Ivy League*CR*F3*WMV;
+Laugh-O-Dil*F2*WMV;
+Maelstrom Snap Dragon;
+Orange Dandelion;
+Pink Huckleberries*F2*WMV;
+Prickly Bear Cactus*F2*WMV;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Red Couch Potatoes*F2*WMV;
+Red Huckleberries*F2*WMV;
+Rye Bread Fruit Bush;
+Silver Trumpet Vine*CR;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Sunion*CR;
+Tiger Lily (Seed);
+Trumpet Vine;
+White Laugh-O-Dil;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

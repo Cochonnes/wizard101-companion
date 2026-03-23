@@ -1,0 +1,227 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,485
+| crecla = Goblin
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Storm;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Hobgoblin;
+
+| world = Wysteria
+| location = Pegasus Place
+| subloc1 = Crystal Tower (Wysteria)
+| descrip =
+Lord Graustark is the final Boss of the Pegasus Place storyline.  He possesses the Soul-Stone needed to dispel the strange portal.<br/>Two additional {{Link|Creature|Wood Goblin}} Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Is it time already for my afternoon snack? I don't remember placing an order for Wizard, but you'll do!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Myth Damage per Pip.
+
+| casts =
+Storm Shield;
+Weakness;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Ghoul;
+Fire Elf (50+210);
+Evil Snowman;
+
+| quests =
+Portal Remains;
+
+| gold =
+9 - 33;
+
+| hats =
+Cap of Expertise;
+Cap of the Black Mantle*F2*WMV;
+Conventional Cap*F2*WMV;
+Cowl of Diplomacy;
+Cowl of the Exceptional;
+Delicate Hat;
+Elegant Helm;
+Exquisite Cowl;
+Feline Hat of Whimsy*F2*WMV;
+Headwraps of Superiority*F2*WMV;
+Helm of Intolerance*F2*WMV;
+Helm of Stasis*F3*WMV;
+Obligatory Shroud;
+Remarkable Cowl;
+Savvy Cap;
+Shroud of Paramount;
+Smooth Spun Hat;
+The Valiant Defender*CR;
+Thinker's Cap*F2*WMV;
+Visor of the Beacon*F2*WMV;
+
+| robes =
+Animated Canine Cloak;
+Doctor's Uniform;
+Finely Finished Cloak;
+Masterful Canine Cloak;
+Tunic of Incineration*F2;
+Vestment of Stasis*F2*WMV;
+Vestment of Tragedy*F4*WMV;
+
+| boots =
+Bandit's Footwraps;
+Boots of the Supreme*F3*WMV;
+Cat Burglar's Shoes;
+Dandy Boots*F2*WMV;
+Finely Finished Slippers*F2*WMV;
+Footwraps of Dreamland*F2*WMV;
+Footwraps of Superiority*F2*WMV;
+Shoes of Anxiety;
+Shoes of the Breakneck;
+Slippers of Definition*F2;
+
+| athames =
+Athame of Chivalry*F2;
+Conventional Dagger*F2;
+Graceful Stiletto;
+Pennon Poniard*F2*WMV;
+Watchman's Athame;
+
+| amulets =
+
+| rings =
+Cat Burglar's Ring*F2;
+Ring of Rejuvenation;
+Tarnished Noble's Ring*F2*WMV;
+Winged Circlet*F3*WMV;
+
+| wands =
+
+| decks =
+Deck of the Black Mantle*F2*WMV;
+Watchman's Deck*F3*WMV;
+
+| items =
+Wysteria Combat Theme;
+Wysteria Theme 1;
+
+| cards =
+Accurate;
+Balefrost;
+Banshee;
+Darkwind;
+Donate Power;
+Doom and Gloom;
+Evil Snowman;
+Humongofrog;
+Pest Zapper*F4*WMV;
+Sprite;
+Weakness;
+
+| reagents =
+Bone*F7*WMV;
+Copper;
+Iron*F2;
+Nickel;
+Pyrite*F2;
+Stone Block;
+Tin;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F2*WMV;
+Caramel Popcorn*F2*WMV;
+Cheese Broccoli;
+Chocolate Strawberry;
+Cracker*F3*WMV;
+Crunch Apple;
+Fire Cracker*F2;
+Flapjacks*F2*WMV;
+Glowing Rock Candy*F2;
+Golden Peanut;
+Golden Squash;
+Green Grapes*F2;
+Gummy Bloodbat*F2*WMV;
+Gummy Firecat;
+Large Fish*F2*WMV;
+Large Watermelon*F2*WMV;
+Meat Soup;
+Medium Fish*F4*WMV;
+Nettle Root;
+Square Root*F3*WMV;
+Square Watermelon;
+Stinky Cheese*F2;
+Sugar Donut;
+Tasty Biscuit;
+Tiny Fish;
+Wheat Cracker*F2*WMV;
+
+| jewels =
+Add Health Opal;
+Attentive Opal;
+Chipped Damage Opal +4;
+Chipped Defense Sapphire +13;
+Chipped Health Opal +16;
+Chipped Health Opal +17;
+Chipped Health Opal +19;
+Chipped Health Opal +20;
+Chipped Mana Opal +12;
+Cracked Accurate Peridot +2%;
+Cracked Accurate Ruby +2%;
+Cracked Damage Onyx +4;
+Cracked Damage Peridot +6;
+Cracked Damage Ruby +6;
+Cracked Defense Onyx +10;
+Cracked Defense Opal +5;
+Cracked Defense Opal +6;
+Downer Opal;
+Drain Opal;
+Dream Shield Onyx;
+Myth-Boon Peridot;
+Snow Serpent Sapphire;
+Storm-Proof Amethyst;
+Weakness Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Bell Pepper;
+Dandelion*F2*WMV;
+Desparagus (Seed)*F2*WMV;
+Grapes of Wrath*CR;
+Honey Sickle*F3*WMV;
+Laugh-O-Dil*F2*WMV;
+Orange Bell Pepper*CR*F3*WMV;
+Red Bell Pepper*F2*WMV;
+Tiger Lily (Seed)*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

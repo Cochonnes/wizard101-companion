@@ -1,0 +1,253 @@
+{{Stub|reconfirmation of drops. Does this Tier still drop Level 0-40 gear?}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 1,915
+| crecla = Boar
+| crecla2 = Pig 
+| school = Myth
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+55%;
+
+| incboost =
+15% Storm;
+
+| incresist =
+50% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Grendelynn (Tier 2);
+
+| world = Grizzleheim
+| location = Savarstaad Pass
+| subloc1 = Savarstaad Pass Gold Key Room
+| badge = Borr, What Was He Good For?
+| descrip =
+King Borr (Tier 2) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Grizzleheim Lore Pack}}.
+*This Tier is for level 31-50 Wizards.
+
+| speech =
+:''"Who is this? You wretch, you wastrel, you petty, mortal thing. Do you know who I am? I AM BORR, KING OF... boars!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+Has a son who claims to be the All-Father. He never really did figure out how that works.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"If you're late, you must wait!"'' - If a Wizard joins the battle late, King Borr (Tier 2) will cast {{Link|Spell|Medusa (865)}} on the Wizard who joined late. Grendelynn (Tier 2) will cast {{Link|Spell|Shadow Sentinel}} that provides 75% Intercept on King Borr after being revived.
+*{{Icon|Round}} At the start of the first Round, Grendelynn (Tier 2) will cast {{Link|Spell|Shadow Sentinel}} that provides 75% Intercept on King Borr.
+*{{Icon|Feint}} ''"I call your Feint!"'' - If a {{Link|Spell|Feint}} is cast on King Borr, he will cast an AoE {{Link|Spell|Cleanse Ward (Shadow, -1)}}.
+*{{Icon|Minion}}{{Icon|Afterlife}} ''"You won't fall until I command it!"'' - If Grendelynn (Tier 2) is defeated before the Boss, King Borr (Tier 2) will use a Moon Blessing on Grendelynn (Tier 2) restoring 100% Health, and Grendelynn will recast Shadow Sentinel on King Borr.
+*{{Icon|Afterlife}} ''"Avenge me!"'' - King Borr will say this when he's defeated.
+
+| spellnotes =
+
+| casts =
+Balanceblade;
+Cleanse Ward;
+Pierce;
+Shatter;
+Keeper of the Flame;
+Athena Battle Sight;
+Humongofrog;
+Natural Attack (Myth 115-230-345-460);
+Earthquake;
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+666 - 982;
+
+| hats =
+Allfather's Helm (Level 10+)*CR;
+Conjurer's Timeless Brim;
+Diviner's Timeless Brim*F2;
+Odin's Helm (Level 10+)*CR;
+Timeless Arboreal Brim;
+Wizard's Timeless Brim;
+Wotan's Helm (Level 40+)*CR;
+
+| robes =
+Allfather's Raiment (Any Level)*CR;
+Allfather's Raiment (Level 30+)*CR;
+Allfather's Raiment (Level 40+)*CR;
+Conjurer's Timeless Tunic;
+Diviner's Timeless Tunic;
+Odin's Raiment (Any Level)*CR;
+Odin's Raiment (Level 50+)*CR;
+Theurge's Timeless Tunic*F2;
+Wizard's Timeless Tunic;
+Wotan's Raiment (Level 50+)*CR*F2;
+
+| boots =
+Allfather's Boots (Level 20+)*CR;
+Allfather's Boots (Level 40+)*CR;
+Allfather's Boots (Level 50+)*CR;
+Conjurer's Timeless Shoes;
+Diviner's Timeless Shoes;
+Necromancer's Timeless Shoes*F2;
+Odin's Boots (Level 40+)*CR;
+Pyromancer's Timeless Shoes;
+Wotan's Boots (Level 10+)*CR;
+Wotan's Boots (Level 40+)*CR;
+Wotan's Boots (Level 50+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Allfather's Gungnir (Level 10+)*CR;
+Allfather's Gungnir (Level 40+)*CR;
+Allfather's Gungnir (Level 50+)*CR;
+Odin's Gungnir (Level 40+)*CR;
+Wotan's Gungnir (Any Level)*CR;
+Wotan's Gungnir (Level 10+)*CR;
+Wotan's Gungnir (Level 20+)*CR;
+
+| decks =
+
+| items =
+Gold Skeleton Key*CR*F3;
+Novice's Socket Wrench;
+Viking Sword Statue;
+Wooden Skeleton Key*CR;
+
+| cards =
+Azoth*F7;
+Balanceblade;
+Bladestorm;
+Deathblade;
+Dragonblade (Balance);
+Elemental Blade;
+Fireblade;
+Grendel's Amends;
+Hammer of Thor;
+Iceblade;
+Lifeblade;
+Mutate Cat (Ice);
+Mutate Elf (Ice);
+Mutate Helephant (Storm);
+Mutate Serpent (Fire);
+Mutate Serpent (Storm);
+Mutate Shark (Fire);
+Mutate Snake (Ice);
+Mythblade;
+Ratatoskr's Spin;
+Sharpened Blade;
+Spirit Blade;
+Stormblade;
+
+| reagents =
+Aether;
+Ancient Scroll;
+Black Pearl;
+Blood Moss;
+Brass;
+Bronze;
+Cobalt;
+Diamond;
+Fire Blossom;
+Fossil;
+Golden Pearl;
+Iron;
+Lead;
+Leather Straps;
+Nickel;
+Nightshade;
+Ore;
+Participation Trophy;
+Pyrite;
+Scales;
+Scrap Iron;
+Spider Silk;
+Spring;
+Steel;
+Sunstone;
+Titanium;
+Water Lily;
+
+| spellements =
+Grendel's Amends;
+Hammer of Thor;
+Ratatoskr's Spin;
+
+| snacks =
+Beast Wellington;
+Bog Witch Beetroot;
+Bogwich;
+Boom Stroganoff;
+Bread Fruit Fruit;
+Cantajackalope;
+Caramel Apple*F2;
+Caramel Corn;
+Chapulines;
+Cheese Cake;
+Fortified Cheese;
+Goat Cheese;
+Hero Sandwich;
+King Parsley Soup;
+Kiwi Fruit;
+Kola Nuts;
+Squash;
+Sunflower Hearts;
+Swirled Lollipop*F2*WMV;
+Tower Shield Tarts;
+Wampyrnickel Bread;
+Wormy Apple;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Blue Huckleberries*F2;
+Cornbread Fruit Bush;
+Golden Couch Potatoes;
+Pink Huckleberries;
+Red Couch Potatoes;
+Red Huckleberries;
+Trumpet Vine;
+
+| mounts =
+Raven*PERM*CR;
+
+| spells =
+
+}}

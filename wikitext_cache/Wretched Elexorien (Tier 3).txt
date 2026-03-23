@@ -1,0 +1,178 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 7,080
+| crecla = Grendel
+| school = Life
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Fire, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Brume Goblin (Tier 3);
+Brume Goblin (Tier 3);
+Brume Goblin (Tier 3);
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 3)
+| descrip =
+
+| speech =
+:''"Loathed one, I have been anguished since I first heard news of your struggle with Tyrfing, my son. I will ruin you, and then exact vengeance upon Jarl Whiteshield and all his kin! Your heads will serve as warning to all who seek out Wretched Elexorien!"''
+
+| cheatnotes =
+*{{Icon|Weakness}} Starts the first Round with {{Link|TreasureCard|Weakness}} to All Wizards, and repeats every three Rounds.
+**Boss does not cast Weakness, though it is only applied when Boss is alive.
+
+| spellnotes =
+
+| casts =
+Mend;
+Guiding Light;
+Guidance;
+Brilliant Light (2 Pip);
+Weakness*TC;
+Regenerate;
+Rebirth;
+Lifeblade (+40%);
+Sanctuary;
+Spirited Minotaur (Life);
+Forest Lord (715-775);
+Gnomes!;
+Natural Attack (Life 123-1,700);
+
+| quests =
+Hall of the Bear;
+
+| gold =
+177 - 194;
+
+| hats =
+Thought and Memory Helm (Level 40+)*CR;
+Thought and Memory Helm (Level 50+)*CR;
+
+| robes =
+Ravenking's Battle Story Armor (Level 50+)*CR;
+
+| boots =
+Boots of Whispered Flight (Level 50+)*CR;
+Unkind Winter Boots (Level 30+);
+Unkind Winter Boots (Level 50+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Bloodvine Shield*F3;
+Lantern Post;
+Minor Runestone;
+Standing Sconce;
+Tree Lantern*F2;
+Weapons Cache;
+Wooden Barrow;
+Wooden Wheelbarrow;
+
+| cards =
+Blue Phoenix;
+Colossus*F2;
+Crow;
+Evil Snowman;
+Freeze;
+Frost Beetle;
+Frost Giant;
+Frostbite;
+Icebird;
+Ra;
+Regenerate;
+Satyr*F2;
+Skeletal Dragon;
+Snow Bird;
+Storm Bird*F3;
+Sunbird;
+Thunderbird (515-595);
+
+| reagents =
+Acorn;
+Blood Moss*F2;
+Brass;
+Copper;
+Deep Mushroom;
+Diamond;
+Frost Flower*F2;
+Grendelweed;
+Mist Wood;
+Ore*F2;
+Red Mandrake;
+Spider Silk;
+Stone Block*F2;
+
+| spellements =
+
+| snacks =
+Bad Honeyed Dates;
+Black Sun Seeds;
+Bunch of Figs;
+Caramel Corn;
+Cranberry Frog;
+Fried Worms;
+Fruit and Nut Bar;
+Hard Boiled Beetle Eggs;
+Lemon Daisy*F2;
+Lime Peel Rickey;
+Peppercorn*F3;
+Pollen Bombs;
+Salmon Joy;
+Salmonberry;
+Simple Sugar Pop;
+Spicy Drumstick;
+Sunflower Hearts;
+Wheat Cracker;
+Wormy Apple;
+
+| jewels =
+Blemished Accurate Sapphire +5%;
+
+| pins =
+
+| pets =
+Raven*CR;
+
+| seeds =
+Evil Snow Peas;
+Frozen Fly Trap;
+Moon Flower;
+Snow Apples;
+White Desparagus;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,166 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 750
+| crecla = Krokotopian
+| crecla2 = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Life;
+
+| incresist =
+50% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Temple of Storms
+| descrip =
+Soulsapper is the second of three Bosses that Wizards encounter in the Temple of Storms's Test of Strength.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+The second in strength but the first in that particular shade of purple. Dreams of singing on stage.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Weakness;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Leprechaun;
+Evil Snowman;
+Cyclops;
+Lightning Bats;
+Natural Attack (Storm 125x, 75%);
+
+| quests =
+Test of Strength;
+
+| gold =
+16 - 27;
+
+| hats =
+Cowl of Prediction*F3*WMV;
+Cowl of the Temple*F3*WMV;
+Krokotopian Modius*F3*WMV;
+Krokotopian Storm Modius;
+Mask of Humidity*F4*WMV;
+Necromancer's Ivory Hat*F4*WMV;
+Pioneer's Helm*F2;
+Soulsapper's Headwrap;
+
+| robes =
+Balmy Tunic*F2;
+Garment of Patience*F3*WMV;
+Maker's Vestment*F3*WMV;
+Robe of Figments;
+Robe of Reason*F2*WMV;
+Sorcerer's Maroon Cloak*F4;
+Summertime Robes;
+Vest of Alacrity*F2;
+
+| boots =
+Diviner's Boots;
+Initiate's Boots*F3*WMV;
+
+| athames =
+Blade of Proportions;
+Knife of the Badlands*F5;
+Soulsapper's Dagger;
+
+| amulets =
+Soulsapper's Twisted Ankh*F4*WMV;
+
+| rings =
+Glittering Jewel;
+Signet of Ancients;
+
+| wands =
+
+| decks =
+
+| items =
+Purple Facetted Column;
+Small Pillared Obelisk*F2;
+
+| cards =
+Cyclops;
+Giant;
+
+| reagents =
+Bone*F3*WMV;
+Copper;
+Iron*F2;
+Nickel;
+Pyrite*F3*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Big Energy Opal;
+Cracked Defense Citrine +12;
+Cracked Defense Jade +12;
+Cracked Defense Opal +4*F2;
+Cracked Defense Peridot +12;
+Cracked Defense Sapphire +12;
+Dark Sprite Onyx;
+Death-Proof Onyx;
+Fire Cat Ruby;
+Fire-Giver Ruby;
+Fire-Shot Ruby;
+Imp Jade;
+Quick-Witted Opal;
+Scarab Citrine;
+Storm-Eye Amethyst;
+Sturdy Opal;
+Ultra Energy Opal;
+Unbalancer Citrine;
+
+| pins =
+
+| pets =
+Furious Krokomummy*F3*WMV;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

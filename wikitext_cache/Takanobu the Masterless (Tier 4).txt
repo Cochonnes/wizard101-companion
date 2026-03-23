@@ -1,0 +1,293 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 11,300
+| crecla = Samoorai
+| school = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+291;
+
+| criticalblock =
+161;
+
+| outpierce =
+31%;
+
+| outboost =
+165%
+
+| incboost =
+40% Myth;
+
+| incresist =
+70% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Bladeless Ronin (Tier 4);
+Bladeless Ronin (Tier 4);
+Bladeless Ronin (Tier 4);
+
+| world = MooShu
+| location = Cave of Solitude
+| subloc1 = Cave of Solitude Gold Key Room
+| badge = Master of the Masterless
+| descrip =
+Takanobu the Masterless (Tier 4) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Ninja's Spellemental Pack}}.
+*This Tier is for level 110-{{MaxLevel}} Wizards.
+
+| speech =
+:''"Wizard! You face none other than Takanobu the Masterless. I will not be bound by any lord or lady. I will not be bound by you. If you do not control the enemy, they will control you. KIAI!"''
+
+| cheatnotes =
+'''Takanobu the Masterless''' {{Target|Spiral}}
+*{{Icon|Blade}} ''"No! I disarm you."'' - If a Wizard casts a Blade Spell, then Takanobu the Masterless will interrupt-cast {{Link|Spell|Disarm}} on the recipient of the Blade.
+**If a multi-target Blade is cast, then Takanobu will only remove the Blade from the caster.
+
+*{{Icon|Ward}} ''"My katana dances around your shield."'' - If a Wizard casts any Storm Shield Spell, then Takanobu will interrupt-cast {{Link|Spell|Storm Prism}} on the recipient of the Shield.
+
+*{{Icon|All Enemies (Squared)}} ''"Control your Energy!"'' - If a Wizard casts an [[:Category:All Enemies Spells|All Enemies Spell]], then Takanobu will interrupt-cast a version of [[Spell:Tempest (6 Pip)|Tempest]] that always deals '''560''' Storm Damage.
+
+*{{Icon|Pip}} ''"This wind is an omen!"'' - At the beginning of any Round, if Takanobu has at least 6 Pips, then he will interrupt-cast {{Link|Spell|Darkwind}}.
+
+*{{Icon|Pip}} ''"KIAI!"'' - At the end of any Round, if Takanobu has at least 5 Pips, then he will interrupt-cast {{Link|Spell|Supercharge}} on himself.
+
+'''Bladeless Ronin'''
+
+*{{Target|Dagger}}{{Icon|Balance}}{{Icon|Dispel}} ''"We must stay centered!"'' - If any enemy receives Balance Damage, then this Bladeless Ronin will interrupt-cast an all-enemies version of [[Spell:Unbalance (All Enemies)|Unbalance]].
+
+*{{Target|Key}}{{Icon|Elemental}}{{Icon|Dispel}} ''"Guard against the elements!"'' - If any enemy receives Fire, Ice, or Storm Damage, then this Bladeless Ronin will interrupt-cast an all-enemies version of [[Spell:Quench (All Enemies)|Quench]], [[Spell:Melt (All Enemies)|Melt]], or [[Spell:Dissipate (All Enemies)|Dissipate]] based on the School of the Damage that was received.
+
+*{{Target|Gem}}{{Icon|Spirit}}{{Icon|Dispel}} ''"Spirits, guard us!"'' - If any enemy receives Myth, Life, or Death Damage, then this Bladeless Ronin will interrupt-cast an all-enemies version of [[Spell:Vaporize (All Enemies)|Vaporize]], [[Spell:Entangle (All Enemies)|Entangle]], or [[Spell:Strangle (All Enemies)|Strangle]] based on the School of the Damage that was received.
+
+*Damage over Time effects do not trigger the Bladeless Ronins' cheats.
+
+*If a Spell deals Damage more than once, then the Bladeless Ronin will cast an all-enemies Dispel matching the School of the Damage that were received in the order that they were received.
+**Casting a Spell that hits multiple enemies will result in the respective Bladeless Ronin repeating their cheat per enemy hit.
+**Casting Spells such as {{Link|Spell|Hydra}} on any enemy will result in the {{Target|Key}} Bladeless Ronin casting Quench, Melt, and Dissipate, in that order.
+**Casting spells such as {{Link|Spell|Scales of Destiny}} on any enemy will result in the {{Target|Gem}} Bladeless Ronin casting Entangle, the {{Target|Key}} Bladeless Ronin casting Melt, and the {{Target|Dagger}} Bladeless Ronin casting Unbalance, in that order.
+**Dealing Damage through a Prism will result in the Bladeless Ronin casting a Dispel that matches the School of the Damage after the Prism is applied.
+
+| spellnotes =
+
+| casts =
+Stormblade (+30%);
+Supercharge;
+Storm Trap;
+Cleanse Charm;
+Natural Attack (Storm 125-245-365);
+Catch of the Day;
+Kraken (Tier 4a);
+Sound of Musicology (Tier 3a);
+Glowbug Squall;
+Dark & Stormy (Tier 3a);
+Rusalka's Wrath;
+Storm Lord;
+Leviathan;
+Sirens;
+
+| quests =
+
+| dropnotes =
+Defeating Takanobu the Masterless grants each Wizard the following rewards:
+*5-6 Sword Oil {{Icon|Reagent}}
+*3-4 Hats, Robes, Boots, Wands, Athames, Amulets, Rings, or Decks of any School {{Icon|Robe}}
+*23-24 Spellements {{Icon|Spellement}} for any of the 7 [[Item:Ninja's Spellemental Pack|Ninja's Lore]] Spells {{Icon|Spellement}}
+*3-4 Azoth Treasure Cards {{Icon|Treasure Card}}
+
+| gold =
+
+| hats =
+Balanced August Sage Cap (Level 170+);
+Conical of Takanobu's Rage;
+Deadly August Sage Cap (Level 170+);
+Fiery Chrysanthemum Cowl (Level 170+);
+Hat of Takanobu's Vengeance*F2;
+Icy Imperial Court Helm (Level 170+);
+Mystic Chrysanthemum Cowl (Level 170+);
+Shocking August Sage Cap (Level 170+)*F2*WMV;
+Takanobu's Conical of Fright;
+Takanobu's Conical of Wrath;
+Takanobu's Helm of Wisdom;
+Takanobu's Sedge of Honor*F2*WMV;
+Takanobu's Sedge of Impulse*F2;
+Takanobu's Sedge of Sparks;
+Vivid Imperial Court Helm (Level 170+);
+
+| robes =
+Balanced August Sage Coat (Level 170+);
+Deadly August Sage Coat (Level 170+);
+Fiery Chrysanthemum Coat (Level 170+);
+Icy Imperial Court Tunic (Level 170+);
+Kimono of Takanobu's Wrath;
+Mystic Chrysanthemum Coat (Level 170+)*F3*WMV;
+Raiment of Takanobu's Rage*F2*WMV;
+Robes of Takanobu's Vengeance;
+Shocking August Sage Coat (Level 170+);
+Takanobu's Drape of Impulse;
+Takanobu's Kimono of Fright;
+Takanobu's Kimono of Sparks*F2*WMV;
+Takanobu's Vestment of Honor;
+Vivid Imperial Court Tunic (Level 170+);
+
+
+| boots =
+Balanced August Sage Shoes (Level 170+);
+Deadly August Sage Shoes (Level 170+);
+Fiery Chrysanthemum Boots (Level 170+)*F2*WMV;
+Footgear of Takanobu's Wrath*F2*WMV;
+Icy Imperial Court Slippers (Level 170+);
+Mystic Chrysanthemum Boots (Level 170+);
+Shocking August Sage Shoes (Level 170+)*F2*WMV;
+Shoes of Takanobu's Vengeance;
+Takanobu's Boots of Honor;
+Takanobu's Boots of Impulse;
+Takanobu's Boots of Sparks;
+Takanobu's Footgear of Rage*F2;
+Takanobu's Shoes of Fright;
+Takanobu's Shoes of Wisdom;
+Vivid Imperial Court Slippers (Level 170+);
+
+| athames =
+Balanced August Sage Knife (Level 170+);
+Deadly August Sage Knife (Level 170+);
+Fiery Chrysanthemum Knife (Level 170+);
+Icy Imperial Court Knife (Level 170+)*F2*WMV;
+Mystic Chrysanthemum Knife (Level 170+);
+Shocking August Sage Knife (Level 170+);
+Vivid Imperial Court Knife (Level 170+);
+
+
+| amulets =
+Balanced August Sage Ampul (Level 170+)*F2*WMV;
+Deadly August Sage Ampul (Level 170+);
+Fiery Chrysanthemum Ampul (Level 170+)*F2*WMV;
+Icy Imperial Court Ampul (Level 170+);
+Mystic Chrysanthemum Ampul (Level 170+)*F2*WMV;
+Shocking August Sage Ampul (Level 170+);
+Vivid Imperial Court Ampul (Level 170+);
+
+
+| rings =
+Balanced August Sage Band (Level 170+)*F2*WMV;
+Deadly August Sage Band (Level 170+)*F3*WMV;
+Fiery Chrysanthemum Band (Level 170+);
+Icy Imperial Court Band (Level 170+);
+Mystic Chrysanthemum Band (Level 170+)*F2*WMV;
+Shocking August Sage Band (Level 170+)*F2*WMV;
+Vivid Imperial Court Band (Level 170+);
+
+| wands =
+Balanced Sweeping Longspear (Level 170+);
+Deadly Thunder Chasing Spear (Level 170+);
+Fiery Blazing Naginata (Level 170+);
+Icy Sweeping Longspear (Level 170+);
+Katana of Takanobu's Wrath;
+Mystic Blazing Naginata (Level 170+);
+Shocking Thunder Chasing Spear (Level 170+)*F2*WMV;
+Takanobu's Blade of Impulse;
+Takanobu's Edge of Sparks*F2*WMV;
+Takanobu's Frightening Blade*F2*WMV;
+Takanobu's Katana of Rage;
+Takanobu's Steel of Wisdom;
+Takanobu's Sword of Honor;
+Takanobu's Vengeance Blade;
+Vivid Thunder Chasing Spear (Level 170+);
+
+| decks =
+Balanced August Sage Deck (Level 170+);
+Deadly August Sage Deck (Level 170+)*F3*WMV;
+Fiery Chrysanthemum Deck (Level 170+);
+Icy Imperial Court Deck (Level 170+)*F3*WMV;
+Mystic Chrysanthemum Deck (Level 170+);
+Shocking August Sage Deck (Level 170+);
+Vivid Imperial Court Deck (Level 170+);
+
+| items =
+Blue Sword Display;
+Futon Cushion;
+Gold Skeleton Key*CR;
+Legendary Socket Wrench;
+MooShu Battle Theme;
+MooShu Combat Theme;
+MooShu Haunted Theme;
+MooShu Main Theme;
+MooShu Mystical Theme*F2;
+MooShu Plague Theme;
+MooShu War Theme;
+Ornate Round Vase*F2;
+Serpent Obelisk;
+Solar Obelisk;
+Stepping Stones;
+Stone Cairn;
+Stone Skeleton Key*CR;
+Tea Ladle;
+Tea Plant;
+Wooden Skeleton Key*CR*F2;
+
+| cards =
+Azoth*F9*WMV;
+
+| reagents =
+Black Lotus*F3;
+Black Pearl*F2;
+Sword Oil @ 5 Sword Oil*F7*WMV;
+Sword Oil @ 6 Sword Oil;
+
+| spellements =
+A-baahh-calypse*F5*WMV;
+Catch of the Day*F7*WMV;
+Goat Monk*F8*WMV;
+Ice Elemental*F5*WMV;
+Monk of Mourning*F5*WMV;
+Ninja Pigs*F8*WMV;
+Samoorai*F9*WMV;
+
+| snacks =
+
+| jewels =
+Dazzling Accurate Onyx +14%;
+Dazzling Critical Hematite +19;
+Dazzling Critical Jade +19;
+Dazzling Critical Peridot +19;
+Dazzling Damage Sapphire +29;
+Dazzling Defense Amethyst +58;
+Dazzling Defense Onyx +57;
+Dazzling Defense Peridot +58;
+Dazzling Defense Sapphire +60;
+Dazzling Health Opal +128;
+Dazzling Health Opal +132;
+Dazzling Health Opal +133;
+Goat Monk Jade;
+
+| pins =
+
+| pets =
+Amber Shenlong Dragon*CR;
+Ivory Shenlong Dragon*CR*F2*WMV;
+Onyx Shenlong Dragon*CR;
+Ruby Shenlong Dragon*CR;
+Samoorai*CR;
+
+| seeds =
+
+| mounts =
+Ancient Koi*PERM;
+Bengal Tiger*PERM;
+Sea Turtle*PERM*CR*F2*WMV;
+
+| spells =
+
+}}

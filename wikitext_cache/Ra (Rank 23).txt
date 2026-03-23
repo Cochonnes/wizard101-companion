@@ -1,0 +1,129 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 17,875
+| crecla = Other Birds
+| school = Balance
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+570 Any;
+
+| criticalblock =
+563 Any;
+
+| outpierce =
+28%;
+
+| outboost =
+126%;
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+37% Fire, Ice, Storm, Shadow;
+67% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sun Elemental;
+
+| world = Krokotopia
+| location = Grand Exposition
+| subloc1 = Theater of War
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*The strategy of the battle is to damage or defeat Ra once by matching the exact hanging effects (positive Charms or Negative Wards) with the protected hanging effects placed by Ra.
+**Prior to the January 2026 update, Ra would have required Wizards to continuously attack or defeat Ra while matching the exact hanging effects, which also sometimes caused Ra to cast both Positive Charms and Negative Wards.
+*Two additional Sun Elemental Minions will appear if more than two Wizards are present.
+
+| speech =
+:''"I am the twisted tale, the tortured lie, I am the fabricated lord of the Sun! No longer! Now it's time for truth to burn through!"''
+
+| cheatnotes =
+*''"The Night serves to balance, to match, the Day."'' - Ra will say this at the beginning of the first Round.
+*{{Icon|Round}} ''"Can you complete the Day?"'' - At the end of the first Round, Ra will place three protected positive Charms on himself or three protected negative Wards on all Wizards.
+**These effects indicate the exact amount of helpful Charms or harmful Wards Wizards need before damaging Ra.
+**These effects are [[Spell:Cloak|Cloaked]] and will not be consumed until removed by the cheat below.
+*{{Icon|Damage}} ''"Night must be equal to Day, which must match Night."'' - If a Wizard damages Ra without exactly matching his protected hanging effects, he will cheat-cast his Natural Attack on the offending Wizard, dealing '''1500''' Balance Damage, then remove all Charms and Wards.
+*{{Icon|Afterlife}} ''"You shouldn't skip the story."'' - If Ra is defeated while his hanging effects are not matched, he will cast {{Link|Spell|Availing Hands}},  then remove all Charms and Wards.
+*{{Icon|Damage}} ''"And thus the Day is complete."'' - If a Wizard damages Ra while exactly matching his protected hanging effects, he will remove all Charms and Wards, then give the caster a +100% '''Frenzy''' Aura.
+**The hanging effects do not have to be consumed when dealing Damage, and any hanging effects consumed will count towards the total.
+**After receiving this cheat, all other cheats will stop.
+
+| spellnotes =
+
+| casts =
+Punishment;
+Tower Shield (Balance);
+Dragonspear;
+Balanceblade;
+Mana Burn;
+Balance of Power;
+Locust Swarm (345-405);
+Scald (Balance);
+Mighty Judgement;
+Power Nova;
+
+| quests =
+The Sun Undone;
+Ra is War;
+
+| gold =
+14 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Krok Chalkboard;
+Selenopolis Garden Combat Theme;
+Selenopolis Garden Theme;
+Selenopolis Zigazag Market Theme;
+
+| cards =
+
+| reagents =
+Draconium;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Crab Apples*F2;
+Spicy Stingers;
+Zen Poppers;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

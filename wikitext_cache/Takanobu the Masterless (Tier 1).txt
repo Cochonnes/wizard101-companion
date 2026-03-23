@@ -1,0 +1,321 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 4,480
+| crecla = Samoorai
+| school = Storm
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+20%;
+
+| incboost =
+40% Myth;
+
+| incresist =
+70% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Bladeless Ronin (Tier 1);
+Bladeless Ronin (Tier 1);
+Bladeless Ronin (Tier 1);
+
+| world = MooShu
+| location = Cave of Solitude
+| subloc1 = Cave of Solitude Gold Key Room
+| badge = Master of the Masterless
+| descrip =
+Takanobu the Masterless is a unique Boss who drops Gear and Spellements from the {{Link|Item|Ninja's Spellemental Pack}}.
+*This version of Takanobu is intended for Level 1-45 Wizards.
+
+| speech =
+:''"Wizard! You face none other than Takanobu the Masterless. I will not be bound by any lord or lady. I will not be bound by you. If you do not control the enemy, they will control you. KIAI!"''
+
+| cheatnotes =
+'''Takanobu the Masterless'''
+*{{Icon|Blade}} ''"No! I disarm you."'' - If a Wizard casts a Blade Spell, Takanobu the Masterless will cast Disarm on the Wizard who received the Blade.
+**If a triple Blade is cast (e.g. {{Link|Spell|Elemental Blade}} or {{Link|Spell|Spirit Blade}}), he will only remove the last Blade (Fire or Life).
+**If a multi-target Blade is cast (e.g. {{Link|Spell|Bladestorm}}), he will only remove the Blade from the Wizard that cast the Spell.
+*{{Icon|Shield}} ''"My katana dances around your shield."'' - If a Wizard casts {{Link|Spell|Storm Shield}}, {{Link|Spell|Volcanic Shield}}, or {{Link|Spell|Glacial Shield}}, he will cheat-cast Storm Prism on the Wizard who received the Shield.
+*{{Icon|Pip}} ''"KIAI!"'' - If Takanobu has at least 5 Pips, and an odd number of Pips, at the end of a Round, he will cheat-cast a 50% Supercharge on himself.
+*{{Icon|Pip}} ''"This wind is an omen!"'' - If Takanobu has 6 or more Pips at the beginning of the Round, he will cheat-cast Darkwind.
+
+{{Icon|Damage}} '''Bladeless Ronin'''
+*''"We must stay centered!"'' - If a Wizard attacks any enemy with a Balance Spell, the Bladeless Ronin in the first position (Dagger) will cheat-cast {{Link|Spell|Unbalance}} on the Wizard.
+**If an All Enemies attack is used, the Bladeless Ronin will cast Unbalance for each enemy that was hit.
+**Attacking with {{Link|Spell|Chimera}} results in the Bladeless Ronin casting three separate {{Link|Spell|Spirit Defuse}}s.
+**Attacking with {{Link|Spell|Hydra}} results in the Bladeless Ronin casting three separate {{Link|Spell|Elemental Defuse}}s.
+**Attacks which deal no direct damage, but apply aura effects, such as {{Link|Spell|Scald}} or {{Link|Spell|Heck Hound}} will not activate any cheats by the Bladeless Ronin.
+*''"Guard against the elements!"'' - If a Wizard attacks any enemy with a Fire, Ice, or Storm Spell, the Bladeless Ronin in the second position (Key) will cheat-cast Elemental Defuse on the Wizard.
+**If an All Enemies attack is used, the Bladeless Ronin will cast Elemental Defuse for each enemy that was hit.
+**Triggering a Prism that converts damage to Life, Death, or Myth, will result in the Bladeless Ronin casting Spirit Defuse instead of Elemental Defuse.
+*''"Spirits, guard us!"'' - If a Wizard attacks any enemy with a Life, Death, or Myth Spell, the Bladeless Ronin in the third position (Gem) will cheat-cast Spirit Defuse on the Wizard.
+**If an All Enemies attack is used, the Bladeless Ronin will cast Spirit Defuse for each enemy that was hit.
+**Attacks that hit multiple times, such as {{Link|Spell|Minotaur}}, will trigger the Bladeless Ronin to cast a separate Spirit Defuse for each hit.
+**Triggering a Prism that converts Damage to Fire, Ice, or Storm, will result in the Bladeless Ronin casting Elemental Defuse instead of Spirit Defuse.
+
+| spellnotes =
+
+'''Natural Attack:'''
+*Deals an unknown quantity of Storm Damage.
+
+| casts =
+Lightning Strike (+10%);
+Stormblade (+30%);
+Supercharge;
+Storm Prism;
+Storm Trap;
+Cleanse Charm;
+Disarm;
+Darkwind;
+Catalan;
+Kraken;
+Stormzilla;
+Triton;
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+49 - 138;
+
+| hats =
+Benign Cap*F3*WMV;
+Cap of the Lithe;
+Conical of Takanobu's Rage*F3*WMV;
+Cowl of Discord;
+Gallant Shroud;
+Hat of Enthusiasm;
+Hat of Takanobu's Vengeance;
+Hat of the Lotus;
+Hat of the Nimble;
+Hat of the Triad;
+Headwraps of Much Ado;
+Headwraps of Resonance;
+Light-As-Air Hat*F2*WMV;
+Mask of Impression*F2*WMV;
+Painful Cowl;
+Shroud of Afterthoughts;
+Takanobu's Conical of Fright;
+Takanobu's Conical of Wrath*F4*WMV;
+Takanobu's Helm of Wisdom;
+Takanobu's Sedge of Honor;
+Takanobu's Sedge of Impulse*F3*WMV;
+Takanobu's Sedge of Sparks*F3*WMV;
+Tormented Mask;
+Vigilant Cap;
+Warbled Hat*F2*WMV;
+Zippy Shroud;
+
+| robes =
+Blended Wool Tunic*F4*WMV;
+Cloak of Humor*F2*WMV;
+Cloak of Rhyming*F2;
+Euphonic Cloak;
+Garment of Watchfulness;
+Garments of Chants*F3*WMV;
+Heedful Robe;
+Kimono of Takanobu's Wrath*F2*WMV;
+Raiment of Takanobu's Rage;
+Robe of Conceit*F2*WMV;
+Robe of Consideration*F4*WMV;
+Robe of the Chipper;
+Robes of Struggling;
+Robes of Takanobu's Vengeance;
+Sprightly Garments;
+Takanobu's Drape of Impulse*F2;
+Takanobu's Garb of Wisdom;
+Takanobu's Kimono of Fright*F2*WMV;
+Takanobu's Kimono of Sparks*F2*WMV;
+Takanobu's Vestment of Honor;
+Tunic of Preoccupation;
+Vestment of Cooperation*F3*WMV;
+Vestment of Tribulations;
+
+| boots =
+Blended Wool Footwraps;
+Boots of Chimes*F2*WMV;
+Boots of Commotion;
+Boots of Cooperation;
+Boots of Melodies;
+Boots of Niceties*F2*WMV;
+Footgear of Takanobu's Wrath*F3*WMV;
+Footwraps of Anthems;
+Footwraps of Chants*F2;
+Friendly Shoes*F2;
+Industrial Slippers;
+Problematic Boots*F2*WMV;
+Profound Slippers;
+Sandals of Sympathy;
+Sandals of the Quick-Witted;
+Shoes of Preoccupation;
+Shoes of Song*F2*WMV;
+Shoes of Struggling*F2*WMV;
+Shoes of Takanobu's Vengeance*F2;
+Shoes of the Observant;
+Shoes of Woe;
+Slippers of the Eager;
+Slippers of the Opus;
+Sprightly Slippers;
+Takanobu's Boots of Honor;
+Takanobu's Boots of Impulse*F2*WMV;
+Takanobu's Boots of Sparks*F6*WMV;
+Takanobu's Footgear of Rage*F2*WMV;
+Takanobu's Shoes of Fright;
+Takanobu's Shoes of Wisdom*F2;
+
+| athames =
+Athame of the Lotus;
+
+| amulets =
+
+| rings =
+Ring of the Naturewalker;
+
+| wands =
+Katana of Takanobu's Wrath*F3*WMV;
+Takanobu's Blade of Impulse*F2*WMV;
+Takanobu's Edge of Sparks*F3*WMV;
+Takanobu's Frightening Blade;
+Takanobu's Katana of Rage;
+Takanobu's Steel of Wisdom;
+Takanobu's Sword of Honor;
+Takanobu's Vengeance Blade;
+
+| decks =
+
+| items =
+Long Lantern;
+Lunar Tablet;
+Mantis Tablet;
+MooShu Battle Theme;
+MooShu Combat Theme*F3*WMV;
+MooShu Haunted Theme*F4*WMV;
+MooShu Main Theme*F2*WMV;
+MooShu Mystical Theme*F2*WMV;
+MooShu Plague Theme*F3*WMV;
+MooShu War Theme*F5*WMV;
+Pointed Boulder;
+Stone Marker;
+Wooden Skeleton Key*CR*F7*WMV;
+Yellow and Blue Chest;
+
+| cards =
+Banshee;
+Blizzard;
+Catch of the Day (290-340);
+Dragonflies*F2*WMV;
+Evil Snowman;
+Humongofrog;
+Meteor Strike;
+Pest Zapper;
+Storm Shark;
+
+| reagents =
+Black Lotus @ 3 Black Lotus*F2*WMV;
+Brass*F3;
+Cobalt*F2*WMV;
+Copper*F2*WMV;
+Iron*F2*WMV;
+Lead;
+Mote of Wisdom*F4*WMV;
+Nickel*F3*WMV;
+Participation Trophy;
+Sword Oil;
+Tin;
+
+| spellements =
+A-baahh-calypse;
+Catch of the Day*F5*WMV;
+Catch of the Day @ 2 Catch of the Day;
+Goat Monk*F6*WMV;
+Ice Elemental;
+Monk of Mourning;
+Ninja Pigs*F4*WMV;
+Ninja Pigs @ 2 Ninja Pigs;
+Samoorai*F8*WMV;
+
+| snacks =
+Ape Grapes;
+Crunch Apple*F3*WMV;
+Fire Cracker*F2*WMV;
+Golden Peanut*F3*WMV;
+Golden Squash;
+Large Fish*F2*WMV;
+Large Watermelon*F5*WMV;
+Square Root*F2*WMV;
+
+| jewels =
+Blemished Accurate Citrine +5%;
+Blemished Accurate Jade +5%;
+Blemished Accurate Ruby +5%;
+Blemished Accurate Sapphire +5%*F2*WMV;
+Blemished Damage Amethyst +11;
+Blemished Damage Citrine +11;
+Blemished Damage Jade +11;
+Blemished Damage Onyx +11;
+Blemished Damage Peridot +11;
+Blemished Damage Ruby +11;
+Blemished Damage Sapphire +11;
+Blemished Defense Citrine +21*F2;
+Blemished Defense Opal +11;
+Blemished Health Opal +38;
+Blemished Health Opal +39;
+Blemished Health Opal +40;
+Blemished Mana Opal +19;
+Chipped PIP Opal +2%*F3*WMV;
+Energy Opal;
+Flawed Damage Amethyst +10;
+Flawed Damage Citrine +10;
+Flawed Damage Jade +10;
+Flawed Damage Onyx +10;
+Flawed Damage Peridot +10;
+Flawed Damage Ruby +10*F2*WMV;
+Flawed Damage Sapphire +10;
+Flawed Defense Amethyst +20;
+Flawed Defense Citrine +20;
+Flawed Defense Jade +20;
+Flawed Defense Onyx +20;
+Flawed Defense Peridot +20;
+Flawed Defense Ruby +20*F2*WMV;
+Flawed Defense Sapphire +20;
+Flawed PIP Opal +3%*F2*WMV;
+Huge Energy Opal;
+Humongofrog Peridot;
+Ice Wyvern Sapphire;
+Kraken Amethyst;
+Meteor Strike Ruby;
+Seraph Jade;
+Skeletal Pirate Onyx*F2*WMV;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+Fiery Boom Shroom*F3*WMV;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

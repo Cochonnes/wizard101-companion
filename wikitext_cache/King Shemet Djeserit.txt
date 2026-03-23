@@ -1,0 +1,211 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 660
+| crecla = Krokotopian
+| crecla2 = Undead
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth;
+
+| incresist =
+60% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Risen Djeserit;
+
+| world = Krokotopia
+| location = Djeserit Family Tomb
+| subloc1 = 
+| descrip =
+King Shemet Djeserit is unique in that he is not encountered in a separate instance, similar to the {{Link|Creature|Kraken}} in {{Link|Location|Triton Avenue}}; he respawns 30 seconds after being defeated.
+
+| speech =
+:''"You must be mad to challenge someone as great as me!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+The King of the Djeserit. An undead krok whose place in history will never be forgotten.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Weakness;
+Black Mantle;
+Stormblade;
+Thunder Snake;
+Storm Elf (30+210);
+Lightning Bats;
+Evil Snowman (Storm);
+Storm Shark;
+Squall Wyvern;
+Natural Attack (Storm 125x, 75%);
+Leprechaun;
+Cyclops;
+
+| quests =
+De-Cipher the Djeserits;
+
+| gold =
+24 - 36;
+
+| hats =
+Blazing Helm;
+Cap of Burning Sands*F3;
+Cowl of Prediction*F6*WMV;
+Cowl of the Temple*F2;
+Cryptkeeper's Circlet;
+Helm of the Citadel*F2;
+King's Cowl*F4;
+Mask of Humidity*F6*WMV;
+Necromancer's Ivory Hat*F6*WMV;
+Pioneer's Helm*F4*WMV;
+Rough-Hewn Hood;
+Sphinx's Circlet;
+Threadbare Hood*F2;
+
+| robes =
+Balmy Tunic*F5;
+Diviner's Tunic of Squalls;
+Garment of Patience*F5*WMV;
+Quixotic Robes*F3;
+Robe of Reason*F9;
+Robe of the Oracle;
+Rough-Hewn Robe;
+Sorcerer's Maroon Cloak*F7*WMV;
+Summertime Robes*F9;
+Vest of Alacrity*F4;
+Vest of the Oasis;
+Vestment of Darkness*F2*WMV;
+
+| boots =
+Boots of the Citadel*F2;
+Diviner's Boots*F5*WMV;
+Initiate's Boots*F6*WMV;
+Krokotopian Balance Striders;
+Krokotopian Death Striders;
+Krokotopian Fire Striders;
+Krokotopian Ice Striders;
+Krokotopian Life Striders*F2;
+Krokotopian Myth Striders*F6;
+Krokotopian Storm Striders;
+Krokotopian Striders*F27;
+Sandals of Energy;
+Sandals of Tall Tales*F2;
+Shoes of Mortality*F2;
+Shoes of the Desert*F2*WMV;
+
+| athames =
+Blade of Proportions*F8*WMV;
+Dirk of Harmony;
+King's Arctic Dagger*F5*WMV;
+Knife of the Badlands*F5;
+
+| amulets =
+Shemet's Bloody Choker*F5;
+
+| rings =
+Djeserit's Signet*F4*WMV;
+Glittering Jewel*F7;
+
+| wands =
+
+| decks =
+
+| items =
+Bushy Palm Tree;
+Carved Podium*F7*WMV;
+Cash Register*CR*F8*WMV;
+Krok Insect Plaque;
+
+| cards =
+Banshee;
+Blizzard;
+Evil Snowman;
+Giant;
+Krokomummy*F5*WMV;
+Mutate Beetle (Storm);
+Spirit Armor;
+Sprite;
+Storm Shark*F2*WMV;
+Weakness*F2*WMV;
+
+| reagents =
+Bone;
+Brass*F3*WMV;
+Copper;
+Iron;
+Nickel;
+Pyrite*F3;
+Spider Silk*F2;
+Stone Block;
+Tin;
+
+| spellements =
+
+| snacks =
+Cracker*F2;
+Green Grapes*F3;
+Nettle Root*F4;
+Tiny Fish*F3*WMV;
+
+| jewels =
+Chipped Defense Onyx +13;
+Chipped Health Opal +16*F2;
+Chipped Mana Opal +9;
+Cracked Accurate Citrine +2%;
+Cracked Accurate Sapphire +2%;
+Cracked Damage Ruby +6*F2;
+Cracked Defense Onyx +10;
+Cracked Defense Opal +6;
+Glacial Shield Ruby;
+Move It! Opal;
+Recovery Opal;
+Snow Serpent Sapphire;
+Troll Peridot;
+Wisp Bonus Opal;
+
+| pins =
+
+| pets =
+Furious Krokomummy*F3*WMV;
+Yellow Ghost*F5;
+
+| seeds =
+Alligator Pear Tree;
+Pink Dandelion*CR*F2;
+
+| mounts =
+
+| spells =
+
+}}

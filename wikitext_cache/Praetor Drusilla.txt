@@ -1,0 +1,196 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 9,000
+| crecla = Nimbari
+| school = Myth
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| outpierce =
+24%;
+
+| outboost =
+105%;
+
+| incboost =
+5% Storm;
+
+| incresist =
+70% Myth;
+
+| outhealing =
+
+| inchealing =
+50%;
+
+| stunable = Yes
+| beguilable = Yes
+| minion = 
+| world = Empyrea
+| location = Nimbus Citadel
+| subloc1 = Rear Courtyard
+| descrip =
+
+| speech =
+:''"Traitors! Deserters! Will none of you keep your oaths? Fine. I will deal with this myself."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 460 Myth Damage for 4 Pips maximum.
+
+| casts =
+Quicken;
+Mythspear;
+Mythblade;
+Myth Trap;
+Blinding Light;
+Time of Legend;
+Natural Attack (Myth 115-230-345, 75%);
+Humongofrog;
+Mystic Colossus;
+Earthquake;
+Noble Humongofrog;
+Medusa;
+King Artorius (Myth);
+
+| quests =
+Fair-Weather Friends;
+
+| gold =
+0;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+Crackling Zanadu Band;
+
+| wands =
+Blazing Zanadu Lance;
+Freezing Zanadu Lance;
+Hopeful Zanadu Lance;
+Immutable Zanadu Lance;
+
+| decks =
+
+| items =
+Aero Dwarf Blue Vase*F2;
+Aero Dwarf Chair;
+Aero Dwarf Potted Plant*F2;
+Empyrea Husk Aethyr Combat;
+Empyrea Husk Combat;
+Empyrea Husk Storm Combat;
+Kalamar Chair;
+Nimbari Chair;
+Nimbari Sword Rack;
+Ornate Nimbari Vase*F2*WMV;
+Tall Kalamar Vase*F2;
+
+| cards =
+Colossafrog*F2*WMV;
+Fable Lord;
+Kraken*F2*WMV;
+Lord of the Squall;
+Mass Storm Prism;
+Mega Subdue;
+Mutate Beetle (Storm);
+Mutate Phoenix (Storm);
+Mutate Snowman (Fire);
+Oni No Jade*F2;
+Oni No Plague*F2;
+
+| reagents =
+Aether*F2*WMV;
+Agave Leaves;
+Agave Nectar*F3*WMV;
+Amber;
+Amber Dust;
+Aquamarine*F2;
+Astral Shard*F2;
+Fire Blossom*F3;
+Flying Squid Ink*F6*WMV;
+Golden Pearl*F3;
+Merle's Whisker;
+Mithril;
+Orichalcum;
+Scales;
+Silver*F2;
+Stardust;
+Steel;
+Sunstone*F4*WMV;
+Titanium;
+Tungsten*F4*WMV;
+Turquoise*F3;
+
+| spellements =
+
+| snacks =
+Boiled Spider Legs;
+Dastardly Radish;
+Dr. Jalapeno;
+Fetid Legumes;
+Gator Tots;
+Ginger Mint Tea;
+Gummy Humongofrog*F2;
+Hero Sandwich*F2;
+Killer Tomato;
+Minotarts;
+Oyster Shooter;
+Pineapple Spears;
+Pyramints;
+Salmon Joy*F2;
+Super Cold Popsicle;
+
+| jewels =
+Sparkling Critical Citrine +18;
+Sparkling Damage Hematite +56;
+Sparkling Damage Sapphire +28*F2;
+Sparkling Defense Citrine +55*F2;
+Sparkling Defense Peridot +55;
+Sparkling Health Opal +122;
+Sparkling Health Opal +124;
+Sparkling Health Opal +125;
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears*F2;
+Bread Fruit Bush;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Evil Magma Peas*CR;
+Fiery Boom Shroom*F2;
+Fish on a Vine;
+Fortune Cookie Tree;
+Golden Couch Potatoes*F2;
+Goose Tree;
+Grapes of Wrath*CR*F2;
+Ivy League*CR;
+King Parsley*CR;
+Moon Flower;
+Pink Huckleberries*F2;
+Queen Crape Myrtle*F2;
+Red Grapes of Wrath;
+Red Huckleberries;
+Snow Apples;
+Sour Fickle Pickle*F2;
+Tiger Lily (Seed);
+Ultra Snow Apples;
+Ultra Tiger Lily;
+White Desparagus;
+White Laugh-O-Dil*F2;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,309 @@
+{{Stub|whether Poseidon casts Tower Shields for all Shadow Spells or just Shadow-Self Spells| clarification on Hades' Interrupt Cycle Damage cast}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 22,000
+| crecla = Eagle
+| school = Myth
+| masteries =
+Storm;
+
+| cheats = Yes
+| shadowslots = 1
+| startpips = 7
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+25%;
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Cronus (Zeus Exalted Challenge);
+
+| randomminions =
+Ares Savage Spear (Zeus Exalted Challenge);
+Poseidon Earth-Shaker (Zeus Exalted Challenge);
+Apollo Bright One (Zeus Exalted Challenge);
+Hades the Unseen (Zeus Exalted Challenge);
+
+| totalminions = 2
+| world = Housing Instance
+| location = Zeus Exalted Challenge
+| subloc1 = 
+| descrip =
+This Creature and its Minions will always occupy the same following slots:
+*{{Target|Dagger}} [[Creature:Zeus Sky Father (Zeus Exalted Challenge)|Zeus Sky Father]]
+*{{Target|Key}} [[Creature:Ares Savage Spear (Zeus Exalted Challenge)|Ares Savage Spear]] or [[Creature:Poseidon Earth-Shaker (Zeus Exalted Challenge)|Poseidon Earth-Shaker]]
+*{{Target|Gem}} [[Creature:Apollo Bright One (Zeus Exalted Challenge)|Apollo Bright One]] or [[Creature:Hades the Unseen (Zeus Exalted Challenge)|Hades the Unseen]]
+*{{Target|Spiral}} [[Creature:Cronus (Zeus Exalted Challenge)|Cronus]]
+
+| speech =
+
+| cheatnotes =
+{{Icon|Myth}} '''Zeus Sky Father'''
+*{{Icon|Dispel}} ''"Did you think you could silence an Immortal?"'' - If a Dispel is placed on any enemy, Zeus Sky Father will remove it by cheat-casting {{Link|Spell|Cleanse Charm}}.
+*{{Icon|All Enemies Spell}} ''"You deserve an immortal boon."'' - If an All Enemies Spell is used, Zeus Sky Father will cast {{Link|Spell|Healing Current (325)}} on the Wizard.
+*{{Icon|Damage}} ''"Fallen Immortals must be avenged!"'' - If another Boss is defeated, Zeus Sky Father will cast his '''Earthquake''' Natural Attack every two Rounds.
+*{{Icon|Spell}} ''"Punishment shall be swift!"'' - If a single-target Spell is used, Zeus Sky Father may cast '''Shift Minotaur''' on the caster, dealing '''310''' Myth Damage and stunning for one Round.
+*{{Icon|Storm}}{{Icon|Damage}} ''"Unleash the wrath of Sky and Earth!"'' - At the beginning of every fifth Round, Zeus will cast a version of {{Link|ItemCard|Wrath of Zeus}} dealing '''995''' Storm Damage to all Wizards, and casts Astraphobia.
+
+{{Icon|Life}} '''Apollo Bright One'''
+*{{Icon|Healing}} ''"You try to smite an immortal?"'' - If any Boss is defeated before Apollo Bright One, he will cast {{Link|Spell|Eternal Leviathan (777)}}, which will revive the defeated Bosses.
+*{{Icon|All Enemies Spell}} ''"The light shines upon those who share it!"'' - If any type of All Enemies [[:Category:Healing Spells|Healing]] Spell is used, Apollo Bright One will give the Wizard a {{Link|Spell|Guiding Light}}.
+
+{{Icon|Fire}} '''Ares Savage Spear'''
+*{{Icon|Trap}} ''"Your underhanded tactics are unbefitting of a true warrior!"'' - If a [[:Category:Trap Spells|Trap]] is placed on an enemy, Ares will cheat-cast an {{Link|Spell|Efreet (1,000)}} on the Wizard who cast the Spell.
+:*If Apollo Bright One and Zeus Sky Father have been defeated, this cheat can be prevented by using {{Link|Spell|Quench}}.
+:*Spells that target all enemies, such as Windstorm do not trigger this cheat.
+*{{Icon|Spell}} ''"Such prowess, but I think you can do better!"'' - If a Damage Spell is used, Ares Savage Spear will give the Wizard a [[:Category:Blade Spells|Blade]] by casting {{Link|Spell|Dark Pact (+30%)}}.
+*{{Icon|Damage}} ''"We battle on! For Zeus!"'' - If Zeus Sky Father has been defeated, Ares Savage Spear will use his Natural Attack at the start of each Round.
+
+{{Icon|Storm}} '''Poseidon Earth Shaker'''
+*{{Icon|Blade}} ''"Observe the might of a true weapon!"'' If a [[:Category:Blade Spells|Blade]] Spell is used, Poseidon Earth Shaker will cast Shift Atlantean on the Wizard who received the Blade(s), causing an {{Link|Spell|Enfeeble}} and '''360''' Storm Damage.
+:*{{Link|Spell|Aegis}} enchantment can be used to prevent any positive Charms from being removed.
+:*{{Link|Spell|Bladestorm}} will only affect the caster.
+*{{Icon|Aura}}{{Icon|Shadow Creature}} ''"The Seas are puddles without stars"'' - If an [[:Category:Aura Spells|Aura]] or [[:Category:Shadow Spells|Shadow Spell]] is used, Poseidon Earth Shaker will place a {{Link|Spell|Tower Shield}} on the caster.
+*{{Icon|Damage}} ''"The Sea mourns for mighty Zeus"'' - If Zeus Sky Father is defeated, Poseidon Earth Shaker will cast his Tempest Natural Attack every three Rounds.
+
+{{Icon|Death}} '''Hades the Unseen'''
+*{{icon|Healing}} ''"The selfish belong in Tartarus!"'' - If a [[:Category:Healing Spells|Healing]] Spell is used on themselves, Hades the Unseen will cast Shift Wraith, dealing '''335''' Death Damage and adds a -90% {{Link|Spell|Infection}} to the Wizard.
+:*This cheat will not trigger if a Wizard uses a single-target heal on another player.
+:*AoE heals will trigger this cheat.
+:*Pet heals will trigger this cheat.
+*{{Icon|Pip}} ''"Your donation to Tartarus is greatly appreciated."'' - If a Wizard or a Boss is defeated, Hades the Unseen will cast {{Link|Spell|Donate Power (+3 Pips)}} to whoever cast the defeating Spell.
+*{{Icon|Damage}} ''"Zeus sends his regards from Tartarus"'' - If Zeus Sky Father is defeated, Hades the Unseen will cast his Natural Attack on a random Wizard every two Rounds.
+
+{{Icon|Damage}} '''Pairing Interrupt Cycles:''' (Resets every 14{{Icon|Round}})
+*The following is a list of cheats that involve two Bosses that use two spells by interrupt.
+
+*'''Zeus''' & '''Ares''' {{Icon|Myth}} {{Icon|Fire}}
+:*''"Let our army shake the Earth"'' - Every tenth Round, Zeus will use his Earthquake Natural Attack
+:**Ares Savage Spear will follow up to use his Natural Attack.
+
+*'''Zeus''' & '''Hades''' {{Icon|Myth}} {{Icon|Death}}
+:*''"Storms above and Death below!"'' - At the beginning of every fifth Round, Zeus Sky Father will cast his Earthquake Natural Attack which deals '''630''' Myth Damage to all Wizards and removes [[:Category:Charm Spells|Charms]] and [[:Category:Ward Spells|Wards]]
+::*This cheat is followed by his {{Link|Spell|Lernaean Hydra}} Natural Attack.
+
+*'''Zeus''' & '''Poseidon''' {{Icon|Myth}} {{Icon|Storm}}
+:*''"Angry Skies make vengeful Seas!"'' - At the beginning of every fifth Round, Zeus Sky Father will cast his Earthquake Natural Attack which deals '''630''' Myth Damage to all Wizards and removes [[:Category:Charm Spells|Charms]] and [[:Category:Ward Spells|Wards]].
+::*Poseidon may then follow this cheat with his Tempest Natural Attack, dealing '''960''' Storm Damage and stealing one Pip from each Wizard.
+
+*'''Poseidon''' & '''Apollo''' {{Icon|Storm}} {{Icon|Life}}
+:*''"The Seas boil beneath the angry Sun!"'' - Poseidon Earth Shaker will use his '''Snow Shark''' Natural Attack dealing '''650''' Ice Damage to all Wizards.
+::*This cheat follows with Apollo Bright One's Natural Attack in the same turn.
+
+*'''Poseidon''' & '''Hades''' {{Icon|Storm}} {{Icon|Death}}
+:*''"Tsunami from the Underworld!"'' - Every fifth Round, Poseidon Earth Shaker will use his Snow Shark Natural Attack.
+:**Hades will follow up with his {{Link|Spell|Lycian Chimera}} Natural Attack, which deals '''590''' Death Damage to all Wizards and adds a -45% version of {{Link|Spell|Virulent Plague}}.
+
+:*''"Let the Underworld Seas turn to rage!"'' - Every tenth Round, Poseidon Earth Shaker will use his '''Snow Shark''' Natural Attack dealing '''650''' Ice Damage to all Wizards.
+:**Hades the Unseen will follow up with {{Link|Spell|Lernaean Hydra}} Natural Attack, dealing '''795''' Storm Damage and adding a {{Link|Spell|Black Mantle}} to all Wizards.
+:**During the first Round, Hades will cast his 4 Damage over Time Natural Attack before Poseidon.
+
+*'''Hades''' & '''Ares''' {{Icon|Death}} {{Icon|Fire}}
+:*''"Tartarus is the true victor in war!"'' - At the beginning of every first Round, Hades the Unseen will use his Natural Attack on a random Wizard that deals 4 Death Damage, then applies 4 DoT that deals '''1,175''' Death Damage four Rounds later, 1 Death Damage three Rounds later, 2 Death Damage two Rounds later, and 3 Death Damage for one Round with 100% Armor Piercing.
+::*Ares Savage Spear will then follow this cheat with their Natural Attack.
+
+*'''Ares''' & '''Apollo''' {{Icon|Fire}} {{Icon|Life}}
+:*''"Wither under the Sun's rage!"'' - Every first Round, Ares Savage Spear will cast a Spell similar to {{Link|ItemCard|Wrath of Ares}} dealing '''705''' Fire Damage to all Wizards and {{Link|Spell|Detonate}} one DoT from each.
+::*This cheat follows Apollo Bright One's Natural Attack which deals '''30 + 780''' Fire Damage over 3 Rounds to all Wizards, and '''525''' Healing to all Bosses over 3 Rounds.
+
+| spellnotes =
+*Zeus uses an enhanced version of Earthquake as his Natural Attack.
+
+'''Natural Attack:'''
+*Deals 995 Storm Damage to all enemies and casts Astraphobia.
+
+| casts =
+Reliquary;
+Mythspear (+10%);
+Mythblade;
+Myth Trap;
+Pierce;
+Mystic Colossus;
+Orthrus;
+Medusa;
+Basilisk;
+Celestial Calendar;
+Wild Bolt;
+Storm Owl;
+
+| quests =
+
+| dropnotes =
+All hat, robe, boots, and wand drops are school-exclusive, except for items that are for any school.
+
+| gold =
+505 - 737;
+
+| hats =
+Immortal Champion's Helm*F4;
+Immortals' Helm of Dread;
+Immortals' Helm of Enigma;
+Immortals' Helm of Frost;
+Immortals' Helm of Havoc*F2;
+Immortals' Helm of Justice;
+Immortals' Helm of Radiance;
+Immortals' Helm of Spirit;
+The Mischievous Elf*CR*F3;
+The Gremlinsbane*CR*F3*WMV;
+
+| robes =
+Immortal Champion's Armor*F3*WMV;
+Immortals' Dread Armor*F2*WMV;
+Immortals' Enigmatic Armor;
+Immortals' Frost Armor;
+Immortals' Havoc Armor;
+Immortals' Radiant Armor;
+Immortals' Spirit Armor;
+
+| boots =
+Immortal Champion's Boots*F2;
+Immortals' Boots of Dread*F2*WMV;
+Immortals' Boots of Enigma;
+Immortals' Boots of Frost*F2;
+Immortals' Boots of Havoc;
+Immortals' Boots of Justice;
+Immortals' Boots of Radiance;
+Immortals' Boots of Spirit;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Immortal Champion's Scepter;
+Immortals' Dread Scepter;
+Immortals' Enigmatic Scepter;
+Immortals' Frost Scepter;
+Immortals' Havoc Scepter;
+Immortals' Justice Scepter;
+Immortals' Radiant Scepter;
+Immortals' Spirit Scepter*F2;
+
+| decks =
+
+| items =
+Artisan's Socket Wrench*F2;
+Master's Socket Wrench;
+
+| cards =
+Abominable Weaver;
+Athena Battle Sight @ Athena Battle Sight (Immortal's Spellemental Pack);
+Brimstone Revenant;
+Call of Khrulhu*F2*WMV;
+Deer Knight;
+Fire from Above;
+Gaze of Fate*F2;
+General Akilles;
+Glowbug Squall;
+Goat Monk*F3;
+Handsome Fomori;
+Hephaestus;
+Hungry Caterpillar*F2;
+Keeper of the Flame*F4*WMV;
+Lord of Night*F3*WMV;
+Lord of Winter;
+Luminous Weaver*F2;
+Mystic Colossus*F2;
+Ninja Pigs;
+Queen Calypso;
+Samoorai;
+Savage Paw*F2;
+
+| reagents =
+Agave Leaves;
+Agave Nectar;
+Aquamarine;
+Astral Shard;
+Blood Moss;
+Bone;
+Diamond;
+Fish Fin;
+Mote of Beauty;
+Mote of Eternity;
+Mote of Transport*F3;
+Mote of Wisdom;
+Nightshade;
+Pearl;
+Red Mandrake;
+Sandstone;
+Stardust*F2*WMV;
+Stone Block;
+Sunstone;
+
+| spellements =
+
+| snacks =
+Captain Canteloupe;
+Cherry Tomato;
+Crab Apples;
+Cubby Broccoli;
+Dead Beet Risotto;
+Flowering Pineapple;
+Golden Wheat Bread;
+Granny Snow Apple*F2*WMV;
+Green Tomato;
+Honey Bombs*F2;
+King Parsley Soup;
+Mystic Dragon Fruit;
+Peanut Butterflies*F2*WMV;
+Snow Apple Pie;
+
+| jewels =
+Wrath of Apollo Jade*F2;
+Wrath of Aquila Citrine;
+Wrath of Ares Ruby;
+Wrath of Cronus Peridot;
+Wrath of Hades Onyx;
+Wrath of Poseidon Sapphire;
+Wrath of Zeus Amethyst;
+
+| pins =
+
+| pets =
+Zeus's Harpy;
+
+| seeds =
+Purple Snow Apples;
+Ultra Alligator Pear Tree;
+Ultra Boom Shroom*F3;
+Ultra Dandelion;
+Ultra Fly Trap;
+Ultra Helephant Ears*F3*WMV;
+Ultra Huckleberries*F2*WMV;
+Ultra King Parsley*F2;
+Ultra Ninja Fig;
+Ultra Snap Dragon;
+Ultra Snow Apples;
+Ultra Tiger Lily*F2;
+Ultra Trumpet Vine*F2;
+
+| mounts =
+Fire Whirlwind*PERM;
+Life Whirlwind*PERM;
+Myth Whirlwind*7;
+Storm Whirlwind*7*PERM;
+
+| spells =
+
+}}

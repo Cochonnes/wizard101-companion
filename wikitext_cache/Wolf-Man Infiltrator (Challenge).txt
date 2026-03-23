@@ -1,0 +1,110 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 14,825
+| crecla = Wolf-Man
+| school = Myth
+| school2 = Moon
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+817 Any;
+
+| criticalblock =
+223 Any;
+
+| outpierce =
+31%;
+
+| outboost =
+163%;
+
+| incboost =
+None;
+
+| incresist =
+31% Fire, Life;
+51% Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+71% Ice, Death;
+
+| outhealing =
+15%;
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Mysterious Werewolf (Wolf-Man Infiltrator, Challenge);
+Bauk Scavenger (Challenge);
+
+| world = Darkmoor
+| location = Howling Lands
+| subloc1 = Overgrown Estate (Challenge)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Afterlife}} ''"*growl* I'll get you yet."'' - When Mysterious Werewolf is defeated, he will revive himself for 100% of his max health and will exit combat at the end of the turn.
+
+'''Cheat Cycle'''
+
+This cheat cycle repeats every 4 rounds as long as the Mysterious Werewolf is still alive.
+*{{Icon|Blade}} ''"Sharpen your claws!"'' - At the beginning of the first round in this cycle, Mysterious Werewolf will cast a special version of {{Link|Spell|Bladestorm}} that applies two +30% damage charms to all allies.
+*{{Icon|Shield}} ''"Brace yourself!"'' - At the beginning of the second round in this cycle, Mysterious Werewolf will cast a -40% version of {{Link|Spell|Legion Shield}}.
+
+| spellnotes =
+
+| casts =
+Reliquary;
+Mythblade;
+Mass Myth Trap;
+Caldera Trap;
+Blood Bat (Tier 5a);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Wolf-Man Infiltrator (Standard)
+}}

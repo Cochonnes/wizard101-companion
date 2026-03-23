@@ -1,0 +1,110 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 6,800
+| crecla = Wolverine
+| school = Storm
+| startpips = 4
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+40% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Ferocious Wildclaw;
+
+| world = Grizzleheim
+| location = Vigrid Roughland
+| subloc1 = Deserted Cave
+| descrip =
+Ice Wizards must defeat this Wildclaw to obtain their Level 78 Pet {{Link|Pet|Mammoth}}.
+*'''Note:'''  This Creature is not repeatable.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Tempest;
+
+| quests =
+Misery;
+
+| gold =
+51 - 64;
+
+| hats =
+
+| robes =
+
+| boots =
+Footguards of Consideration;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Cat Tail;
+Iron;
+Lava Lily;
+Ore;
+Red Mandrake;
+
+| spellements =
+
+| snacks =
+Meat Soup;
+Spicy Drumstick;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

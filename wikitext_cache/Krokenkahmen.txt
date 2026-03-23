@@ -1,0 +1,259 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 695
+| crecla = Krokotopian
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Ice;
+
+| incresist =
+30% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Nirini House Guard; 
+
+| world = Krokotopia
+| location = Throne Room of Fire
+| lootchest = Krokenkahmen's Chest
+| descrip =
+Krokenkahmen is the current ruler of the Nirini family, located at the end of the Throne Room of Fire inside of the {{Link|Location|Pyramid of the Sun}}.  After defeating {{Link|Creature|Prince Manu Nirini}} and obtainined the Serpent Staff to activate the {{Link|Location|Map Room}}, the mechanisms fail to engage because a piece is still missing. {{Link|NPC|Professor Winthrop}} realizes the needed component is the staff's Eye of Krok, which Krokenkahmen has taken in a display of power, and sends the Wizard to retrieve the Eye which, combined with the Staff, will reveal the location of the Order of the Fang.
+
+A {{Link|Creature|Krokomummy}} and {{Link|Creature|Nirini Fire Spirit}} will appear if more than two Wizards are present.
+
+| speech =
+:"''You will test your might against me AND you will fail.  Why even try, weakling?''"
+
+| spellnotes =
+
+| casts =
+Black Mantle;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Fire Elf (50+210);
+Ash Bats;
+Sunbird;
+Fire Wyvern (335-395, 4 Pip);
+Natural Attack (Fire 100x);
+Ghoul;
+Cyclops;
+
+| quests =
+Into the Map Room;
+Eye of Krok;
+Make a Kroktail;
+
+| dropnotes =
+When a Wizard has unlocked the '''Wizard City Protector''' {{Icon|Wizard City Protector}} Badge and has not unlocked the '''Mastermind''' {{Icon|Mastermind}} Badge, the following drops will be available:
+*8 Spellements and Treasure Card Spellements will drop each time from the '''Elemental''' (Fire, Ice, Storm, Balance) Schools for their respective rank 1-3 Spells.
+
+| gold =
+30 - 98;
+
+| hats =
+Birdcaller's Mask*CR;
+Bitter Cap*F2*WMV;
+Blazing Helm*F3;
+Cowl of the Fortress*F7*WMV;
+Cryptkeeper's Circlet;
+Diviner's Hat of Squalls*F2*WMV;
+Hat of the Mirage;
+Krokenkahmen's Circlet*F2*WMV;
+Krokenkahmen's Hat*F3*WMV;
+Rough-Hewn Hood*F4*WMV;
+Rugged Hood;
+Runed Hood*F5*WMV;
+Soothsayer's Helm*F3*WMV;
+Sphinx's Circlet;
+Stout Hood*F2;
+Sturdy Hood;
+Thaumaturge's Cowl of Awe;
+Threadbare Hood*F3*WMV;
+
+| robes =
+Birdcaller's Costume*CR;
+Cloak of Harmony;
+Cloak of the Skies*F3*WMV;
+Dusty Robe;
+Krokenkahmen's Cloak;
+Krokenkahmen's Vestment;
+Maker's Vestment;
+Robe of the Mirage;
+Robe of the Oracle*F2*WMV;
+Rough-Hewn Robe;
+Shroud of Rationality*F4*WMV;
+Sturdy Robe;
+Theurge's Brown Cloak;
+Vest of Somnolence*F4*WMV;
+Vest of the Oasis*F2*WMV;
+Vestment of Darkness*F3*WMV;
+Vestment of Ignition;
+Vestment of the Arctic;
+
+| boots =
+Birdcaller's Boots*CR;
+Biti Nirini's Torrid Boots*F2;
+Boots of the Bastion*F2;
+Boots of the Citadel;
+Boots of the Whirlwind;
+Charged Sandals;
+Flowering Shoes;
+Krokenkahmen's Boots*F2*WMV;
+Krokenkahmen's Sandals*F2*WMV;
+Krokenkahmen's Shoes*F2*WMV;
+Parched Sandals*F2*WMV;
+Polar Shoes*F4*WMV;
+Sandals of Darkness*F2*WMV;
+Sandals of Energy;
+Shoes of Mortality;
+
+| athames =
+Athame of Adaption*F7*WMV;
+Dagger of Downpour*F2*WMV;
+Dirk of Harmony;
+Parched Kris;
+Shortblade of Ruination*F3*WMV;
+Whirlwind Dagger*F3;
+
+| amulets =
+Amulet of Eyes*F3*WMV;
+
+| rings =
+Band of Equilibrium;
+Band of the Bastion*F3*WMV;
+Band of the Contender*F4*WMV;
+Band of the Skies;
+Flowering Band;
+Jewel of Obliteration;
+Loop of Quietude;
+Powerful Ring*F3*WMV;
+Ring of the Badlands*F2;
+Seal of the Conqueror*F3;
+Sparkling Band;
+
+| wands =
+
+| decks =
+
+| items =
+Bushy Palm Tree*F2;
+Hieroglyphic Ice Tablet;
+Krok Brazier*F2;
+Krok Moon Plaque;
+Krok Snake Plaque*F3*WMV;
+Krokotopian Sphinx*CR;
+Potted Palm*F2*WMV;
+Purple Krok Sconce;
+Raised Storm Sarcophagus;
+Red Painted Column;
+Tall Palm Tree*CR*F3*WMV;
+Wrapped Long Bench;
+
+| cards =
+Dryad;
+Evil Snowman*F2*WMV;
+Evil Snowman (Tier 2b)*BR*F3;
+Fire Cat (Tier 2b)*BR*F2;
+Fire Elf (Tier 2b)*BR*F3;
+Frost Beetle (Tier 2b)*BR*F3*WMV;
+Ice Trap;
+Krokomummy*F2;
+Krokotillian*F3*WMV;
+Lightning Bats (Tier 2b)*BR*F4*WMV;
+Locust Swarm (Tier 2b)*BR*F2*WMV;
+Mutate Cat (Ice);
+Myth Trap;
+Scarab (Tier 2b)*BR*F2;
+Scorpion (Tier 2b)*BR*F3;
+Snow Serpent (Tier 2b)*BR*F2*WMV;
+Sprite;
+Storm Shark;
+Storm Shark (Tier 2b)*BR*F2*WMV;
+Sunbird;
+Sunbird (Tier 2b)*BR*F2;
+Tempest*F3*WMV;
+Thunder Snake (Tier 2b)*BR*F5*WMV;
+
+| reagents =
+Bone*F3*WMV;
+Copper*F2*WMV;
+Ectoplasm;
+Iron;
+Lead;
+Nickel*F3*WMV;
+Pyrite*F2;
+Spider Silk*F4*WMV;
+Tin*F2*WMV;
+
+| spellements =
+Evil Snowman*BR*F5;
+Fire Cat*BR*F3*WMV;
+Fire Elf*BR*F4*WMV;
+Frost Beetle*BR*F4*WMV;
+Lightning Bats*BR*F9*WMV;
+Locust Swarm*BR*F2*WMV;
+Scarab*BR*;
+Scorpion*BR*F4;
+Snow Serpent*BR*F3*WMV;
+Storm Shark*BR*F6*WMV;
+Sunbird*BR*F3;
+Thunder Snake*BR*F2*WMV;
+
+| snacks =
+Cracker*F5*WMV;
+Green Grapes*F6*WMV;
+Gummy Bloodbat*F2*WMV;
+Nettle Root*F5*WMV;
+Redskin Peanut;
+Stinky Cheese;
+Tiny Fish*F5*WMV;
+
+| jewels =
+Boost Opal;
+Calculating Opal;
+Chipped Defense Onyx +13;
+Chipped Health Opal +16;
+Chipped Health Opal +17;
+Cracked Accurate Ruby +2%;
+Cracked Damage Opal +1;
+Cracked Damage Peridot +4;
+Cracked Defense Amethyst +10;
+Cracked Defense Sapphire +9;
+Cracked Defense Sapphire +10*F2*WMV;
+Dirt Post Opal;
+Intrepid Opal;
+Slow Leader Opal;
+Thermic Shield Amethyst;
+Weakness Citrine;
+
+| pins =
+
+| pets =
+Inferno Cat*F2*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Pink Dandelion*CR*F9*WMV;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,170 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 2,595
+| crecla = Fish
+| school = Storm
+| startpips = 4
+| powerpips = Yes
+| critical =
+25 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth;
+
+| incresist =
+35% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Crustacean Pincer;
+
+| world = Celestia
+| location = The Grotto
+| descrip =
+Eeglis is one of the three ancient spirits that Wizards help put to rest as part of Quest "The Grotto".
+
+| spellnotes =
+
+| casts =
+Stormblade;
+Storm Trap;
+Darkwind;
+Lightning Bats;
+Kraken;
+Stormzilla;
+Tempest (6 Pip);
+Triton;
+Tempest;
+Natural Attack (Storm 125x, 70%);
+
+| quests =
+The Grotto;
+
+| gold =
+32 - 95;
+
+| hats =
+Celestian Cinder Helm;
+Celestian Frostbit Helm;
+Celestian Tempest Helm*F2;
+Consuming Cover;
+Curious Mask;
+Drafty Cap;
+Examiner's Hat*F2;
+Helm of Celestian Totality*F16*WMV;
+Menacing Mask;
+Rain Dance Mask;
+Versatile Veil;
+Wintery Veil*F2;
+
+| robes =
+Devoted Vestment;
+Examiner's Outfit;
+Fuming Outfit*F2;
+Medley Costume;
+Rime Raiment*F5*WMV;
+Smokey Smock;
+Tunic of Burden*F3*WMV;
+
+| boots =
+Boots of Burden*F2*WMV;
+Riddled Rangers*F2*WMV;
+Shadow Striders*F2;
+Vital Footwear;
+Volcanic Waders;
+
+| athames =
+Dancing Dirk*F2;
+Living Claw;
+Long Lost Dagger;
+
+| amulets =
+
+| rings =
+Bizarre Band*F3;
+Crustacean Band;
+Imbued Ring;
+Relic Ring*F2;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Accurate*F8*WMV;
+Amplify*F7;
+Cyclops;
+Fortify;
+Giant*F8*WMV;
+Humongofrog;
+Keen Eyes*F2;
+Myth Trap;
+Pest Zapper;
+Sandstorm;
+Sniper*F2;
+Sprite;
+Strong*F2;
+Sunbird*F2;
+
+| reagents =
+Brass;
+Cobalt*F6*WMV;
+Fish Fin*F21*WMV;
+Nickel*F6;
+Sandstone*F23*WMV;
+Scales*F8*WMV;
+Sunstone*F10*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Delicious Cookie*F3;
+Glowing Taffy;
+Spicy Drumstick*F3;
+Strawberry Cupcake;
+Submarine Sandwich*F2;
+
+| jewels =
+Dull Critical Peridot +3;
+Dull Defense Citrine +26;
+Dull Defense Jade +26;
+Dull Defense Ruby +26;
+Forceful Opal;
+Giant Talent Opal;
+Plain Defense Peridot +29;
+Plain Defense Sapphire +29;
+Plain Health Opal +60*F2;
+Storm-Eye Amethyst;
+Strangle Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F2*WMV;
+Silver Trumpet Vine*CR;
+
+| mounts =
+
+| spells =
+
+}}

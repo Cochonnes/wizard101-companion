@@ -1,0 +1,149 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 6,550
+| crecla = Bear
+| school = Ice
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Frostheart Raider;
+
+| world = Grizzleheim
+| location = Nordrilund
+| subloc1 = Hammar's Hideout
+| descrip =
+Hammar Frostheart is non-repeatable, though it's possible to help others who have the quest.
+*If you defeat the Minions and stay in the cave, you fight the Boss solo.
+*If you leave and come back, you fight the Boss and Minion(s).
+
+| speech =
+: ''"Who are you to come barging into my hall? If you want anything from me, just try and take it. And to do that, you must go through my men first!"''
+: ''"So it happens that I must take care of this myself... very well then!"''
+
+| spellnotes =
+
+| casts =
+Stun Block;
+Iceblade;
+Ice Trap;
+Ice Prism;
+Blizzard;
+Ice Wyvern;
+Blight Hound;
+Colossus;
+
+| quests =
+Hammar Time;
+
+| gold =
+48 - 88;
+
+| hats =
+Cold-Kissed Cowl*F2*WMV;
+Horned Helm of the North;
+
+| robes =
+Armor of the Poets*F2*WMV;
+Baneful Armor;
+Black Ice Armor*F5*WMV;
+
+| boots =
+Esprit Boots;
+Firewalker Boots*F2;
+Raven's Alert Boots;
+Raven's Boots of Balance;
+Raven's Covered Boots;
+Raven's Guarded Boots;
+Raven's Protected Boots*F2;
+Raven's Shielded Boots*F2*WMV;
+Raven's Tricksy Boots;
+White Frost Boots*F2;
+
+| athames =
+Bear's Claw of Death;
+
+| amulets =
+
+| rings =
+Ring of the Hunting Wolf*F3;
+
+| wands =
+Juniper Staff;
+Staff of Absolution;
+Staff of the Rushing Bear*F2;
+
+| decks =
+
+| items =
+
+| cards =
+Donate Power;
+Empower*F3*WMV;
+Fuel*F2*WMV;
+Gargantuan*F4*WMV;
+Power Link*F2*WMV;
+Satyr;
+Unstoppable*F5*WMV;
+
+| reagents =
+Bronze Gear;
+Bronze;
+Cobalt*F2;
+Nickel;
+Steel;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Cauliflowers*F2;
+Glowing Dragon Fruit;
+King Banana;
+Salmonberry;
+Shiny Tomato*F2;
+Uni-Corn;
+
+| jewels =
+Mass Fire Prism Ruby;
+Mass Myth Prism Peridot;
+Piercemonger Peridot;
+Plain Blocking Jade +6;
+Plain Blocking Sapphire +6;
+
+| pins =
+
+| pets =
+
+| seeds =
+Evil Snow Peas;
+Orange Dandelion;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

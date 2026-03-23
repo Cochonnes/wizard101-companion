@@ -1,0 +1,203 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 9,520
+| crecla = Elemental
+| school = Storm
+| startpips = 3
+| powerpips = Yes
+| critical =
+144 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+7%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Myth;
+
+| incresist =
+30% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Mirage
+| location = Thieves' Den
+| subloc1 = The UnderDen
+| descrip =
+If Wizards are defeated by The Rain Core and return to the UnderDen by using Dungeon Recall, then they will have to redo the instance's previous encounters.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Flawless;
+Outpouring;
+Thermic Shield (-75%);
+Healing Current (325);
+Stormblade (+30%);
+Storm Trap (+35%);
+Storm Serpent (230);
+Natural Attack (Storm 125-250-375, 65%);
+Catalan;
+Morganthe's Angst;
+Leviathan (1,150);
+Sirens (965);
+
+| quests =
+The Underden;
+
+| gold =
+452 - 550;
+
+| hats =
+Alkali Kalpak of Fiction*F2;
+Alkali Kalpak of Withering;
+
+| robes =
+Eerem Raiment of Harmony;
+
+| boots =
+Alkali Walkers of Fealty;
+Eerem Givehs of Discovery;
+Eerem Givehs of Menace;
+
+| athames =
+
+| amulets =
+Eerem Talisman of Pulse;
+Istanboa Heatwave Pendant*F2;
+
+| rings =
+Istanboa Heatwave Signet;
+
+| wands =
+Myriarch Tabarzin of Musing;
+Myriarch Tabarzin of Renewal;
+Myriarch Tabarzin of Rime*F2;
+Scorpion Bow of Answers;
+
+| decks =
+Eerem Spread of Pulse;
+Istanboa Array of Icefall;
+
+| items =
+Mirage Canyon Combat Theme;
+Mirage Canyon Theme 2;
+Mirage Chronoverge Com Theme;
+Mirage Chronoverge Theme;
+Mirage City Combat Theme;
+Mirage City Tense Theme;
+Mirage City Theme 2;
+Mirage Jungle Combat Theme;
+Mirage Serpent Theme;
+Mirage Spider Speaks Theme;
+
+| cards =
+Astraphobia;
+Counterforce;
+Katabatic Wind*F2*WMV;
+Snowball Barrage;
+
+| reagents =
+Aether*F7*WMV;
+Agave Leaves;
+Agave Nectar*F2;
+Amber;
+Amber Dust*F2;
+Aquamarine*F4*WMV;
+Astral Shard;
+Braided Vine;
+Draconium;
+Fire Blossom*F3*WMV;
+Golden Pearl*F7*WMV;
+Merle's Whisker;
+Mithril*F4*WMV;
+Orichalcum;
+Scales;
+Silver*F3*WMV;
+Steel;
+Sunstone;
+Titanium*F4*WMV;
+Tungsten*F2;
+Turquoise*F3;
+Vine*F3*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F2;
+Beetle Cream Soda*F3*WMV;
+Chalupacabra;
+Eye Candy*F3*WMV;
+Hard Boiled Beetle Eggs;
+Hot Cross Buns;
+Mustachios;
+Satyr Chow;
+Ships 'n' Queso*F2;
+Veggie Juice;
+
+| jewels =
+Radical Opal;
+Shiny Blocking Onyx +16;
+Shiny Blocking Ruby +16;
+Shiny Critical Onyx +16;
+Shiny Damage Citrine +26;
+Shiny Damage Jade +26;
+Shiny Defense Amethyst +52;
+Shiny Defense Citrine +50;
+Shiny Defense Hematite +52;
+Shiny Health Opal +114;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46*F4*WMV;
+Shiny PIP Hematite +2;
+
+| pins =
+
+| pets =
+MaCaw*CR*F2*WMV;
+
+| seeds =
+Baby Carrots;
+Boon Tree*CR;
+Clockwork Flower;
+Couch Potatoes*CR;
+Dandelion*F2*WMV;
+Deadly Fly Trap;
+Face Palm;
+Fiery Boom Shroom;
+Goose Tree*F3*WMV;
+Green Snow Apples*F2*WMV;
+Honey Bee Plant;
+Honey Sickle;
+Ivy League*CR;
+King Parsley*CR;
+Missile Toe;
+Ninja Fig*CR;
+Pink Huckleberries;
+Pink Laugh-O-Dil;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Snap Dragon;
+Sword Fern*CR;
+Tiger Lily (Seed);
+White Laugh-O-Dil;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

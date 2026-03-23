@@ -1,0 +1,133 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 8,400
+| crecla = Mongu
+| school = Myth
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+3%;
+
+| outboost =
+
+| incboost =
+25% Storm;
+
+| incresist =
+30% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minion = 
+| minion2 = 
+| world = Mirage
+| location = Caravan
+| subloc1 = Mottoman Treasure Cave
+| descrip =
+Myth Wizards must defeat Zuliman Mongu during their Level 118 Spell Quest.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Myth Damage.
+
+| casts =
+Apologue;
+Reliquary;
+Ether Shield;
+Mythspear;
+Mythblade;
+Blinding Light;
+Yellow Troll;
+Humongofrog;
+Minotaur;
+Orthrus;
+Medusa;
+
+| quests =
+Snake Charmer;
+
+| gold =
+270 - 440;
+
+| hats =
+Sand Sea Cowl of Emptiness;
+
+| robes =
+Zruvan Raiment of Amity;
+
+| boots =
+
+| athames =
+
+| amulets =
+Kobra Choker of Fury;
+
+| rings =
+
+| wands =
+Dutiful Durvish's Armaments;
+
+| decks =
+
+| items =
+Mirage Caravan Theme;
+Mirage City Combat Theme;
+Mirage City Tense Theme;
+
+| cards =
+Age of Reckoning;
+Combustion;
+Counterforce;
+Namaste;
+
+| reagents =
+Amber;
+Amber Dust*F2*WMV;
+Aquamarine;
+Astral Shard*F2*WMV;
+Draconium;
+Golden Pearl;
+Orichalcum;
+Silver;
+Steel*F2*WMV;
+Sunstone;
+Titanium;
+Tungsten;
+Turmeric;
+Vine;
+
+| snacks =
+Chalupacabra;
+Hard Boiled Beetle Eggs;
+Ships 'n' Queso;
+Veggie Juice;
+ 
+| jewels =
+Shiny Blocking Onyx +16;
+Shiny Critical Peridot +16;
+Shiny Health Opal +111;
+
+| pets =
+
+| seeds =
+Bamboo Shoots;
+Couch Potatoes*CR;
+Goose Tree;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Ivy League*CR;
+Snap Dragon;
+White Laugh-O-Dil;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

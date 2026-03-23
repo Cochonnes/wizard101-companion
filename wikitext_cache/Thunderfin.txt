@@ -1,0 +1,176 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 7,790
+| crecla = Fish
+| crecla2 = Undead
+| school = Storm
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth;
+
+| incresist =
+35% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Celestia
+| location = Stormriven
+| subloc1 = Summoning Pylons
+| descrip =
+Thunderfin is summoned from the Summoning Pylons in Stormriven by using the Pylon farthest to the right.
+
+| speech =
+:''"Big spells... boring! Come fight me quick!"'''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+Falsely imprisoned for shocking a few Celestians. It's not his fault they weren't insulated.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Damage}} ''"Preparing a big Spell?"'' - If a Wizard casts a Spell that uses more than 3 Pips, then Thunderfin will interrupt-cast a Fire version of {{Link|Spell|Power Nova}}.
+**Item Cards that are given by Pets will not trigger this cheat.
+
+| spellnotes =
+
+| casts =
+Stormblade;
+Storm Trap;
+Darkwind;
+Lightning Bats;
+Kraken;
+Stormzilla;
+Tempest (6 Pip);
+Triton;
+Tempest;
+Natural Attack (Storm 125x, 70%);
+
+| quests =
+
+| gold =
+48;
+
+| hats =
+Chaos Helm*F3*WMV;
+Hood of Reverie*F2*WMV;
+
+| robes =
+Chaos Armor*F2*WMV;
+Maelstrom Costume;
+Raiment of Wrath*F2;
+
+| boots =
+Forbidden Footgear*F3*WMV;
+Thunderfin's Mistral Mukluks*F4*WMV;
+
+| athames =
+Claw of the Law*F2*WMV;
+Forsaken Dagger;
+
+| amulets =
+Frost Giant's Talisman*F3*WMV;
+Vial of Rebirth*F3*WMV;
+
+| rings =
+Loop of Legends;
+Ring of Wrath*F2*WMV;
+
+| wands =
+Blistering Baton*F3*WMV;
+Insightful Spyglass*F3*WMV;
+Shivering Spear;
+
+| decks =
+
+| items =
+Celestia Crab March Theme*F2*WMV;
+Celestian Power Orb*F2*WMV;
+
+| cards =
+Cyclops;
+Empower*F5*WMV;
+Gargantuan*F3*WMV;
+Ice Trap;
+Pacify;
+Sandstorm;
+Spirit Armor;
+Storm Trap;
+Unstoppable*F4*WMV;
+Vampire;
+
+| reagents =
+Cobalt*F2;
+Fish Fin*F4*WMV;
+Nickel;
+Sandstone*F8*WMV;
+Scales*F2*WMV;
+Sunstone*F3*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2*WMV;
+Delicious Cookie*F2*WMV;
+Glowing Star Fruit*F3*WMV;
+Glowing Taffy*F3;
+Spicy Drumstick*F3*WMV;
+Strawberry Cupcake*F2*WMV;
+Submarine Sandwich*F2*WMV;
+
+| jewels =
+Balanceblade Talent Citrine;
+Black Widow Onyx;
+Dissipate Amethyst;
+Entangle Jade;
+Fire Elemental Opal;
+Get Sunbird Ruby;
+Hexster Citrine;
+No Pain, No Gain Onyx;
+Plain Defense Opal +15;
+Strangle Onyx;
+Vaporize Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F3*WMV;
+Maelstrom Snap Dragon*F5*WMV;
+Pink Dandelion*CR*F3*WMV;
+Silver Trumpet Vine*CR*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

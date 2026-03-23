@@ -1,0 +1,118 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 11,825
+| crecla = Mander
+| school = Myth
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+24%;
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+50%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Doomsday Krok Gauntlet
+| subloc1 = Doomsday Krok Gauntlet (Tier 5)
+| descrip =
+Myth Cybermander (Tier 5) is considered a Minion to {{Link|Creature|Balance Cybermander (Tier 5)}}.  All drops are recorded on that page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+It's not a robot, it's a cyborg. Which is nothing like an android, absolutely not an automaton and only loosely animatronic.
+
+| extract class =
+Mander;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| altlink = Myth Cybermander
+
+| spellnotes =
+'''Natural Attack:'''
+*Four Pip maximum, despite what the Spell description indicates.
+
+| casts =
+Mythblade;
+Spirit Blade;
+Mythic Fuel;
+Pierce;
+Shatter;
+Time of Legend;
+Saga of Heroes;
+Yellow Troll;
+White Rat Magician;
+Keeper of the Flame;
+Natural Attack (Myth 115-230-345, 75%);
+Orthrus;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

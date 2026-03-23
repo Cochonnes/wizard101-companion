@@ -1,0 +1,214 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 8,600
+| crecla = Badger
+| school = Balance
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+25% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Red Thorn Knight;
+
+| world = Avalon
+| location = High Road
+| subloc1 = Red Thorn Tower
+| descrip =
+Two additional Red Thorn Knights appear if more than two Wizards are present.
+
+| speech =
+:''"You may be no knight, but let it not be said I'm not fair. And I'll fairly throw you into my dungeon when you lose!"''
+
+| spellnotes =
+
+| casts =
+Conviction;
+Vengeance;
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Spirit Blade;
+Elemental Trap;
+Spirit Trap;
+Natural Attack (Balance 135-275-425);
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Ra;
+Judgement;
+
+| quests = 
+Every Rose Has Its Thorn;
+ 
+| gold =
+91 - 113;
+
+| hats =
+Bad Storm Shroud;
+Brave One's Mantle;
+Catacombs Helm*F2*WMV;
+Mask of the Catalan;
+Mask of the Crystal Caves*F3*WMV;
+Paladin's Frosty Helmet;
+Wrath of the Wild;
+
+| robes =
+Bane Wyrm's Tartan*F3*WMV;
+Honor Bound Surcoat*F2*WMV;
+Robes of the Silent Hunter;
+Three Color Serpent's Robes*F4;
+Tunic of Nature's Wrath*F2*WMV;
+
+| boots =
+Boots of the Lake Shore;
+Deep Water Splashers*F2;
+Hospitable Knight's Boots*F2*WMV;
+Ponycorn Hoofers;
+Sworn Champion's Footguards*F4;
+
+| athames =
+Fox's Fang*F2;
+Old Green Beard's Needle*F3*WMV;
+
+| amulets =
+Armiger's Meditative Pendant*F3*WMV;
+Nature's Circle of Calm*F3;
+
+| rings =
+Band of the Lost Abbey;
+Nameless Ring*F2*WMV;
+
+| wands =
+Fellbringer's Bow*F2*WMV;
+
+| decks =
+Clockwork Deck*F3;
+
+| items =
+Avalon Main Theme*F2;
+Avalon Wyrd Theme*F4;
+Jousting Rack*F2*WMV;
+Small Arms Weapons Rack;
+
+| cards =
+Availing Hands*F4*WMV;
+Black Mantle*F3*WMV;
+Bladestorm;
+Efreet;
+Elemental Defuse*F2;
+Fire Dragon;
+Forest Lord;
+Frost Giant*F2*WMV;
+Gargantuan;
+Helping Hands*F5*WMV;
+Hex*F5*WMV;
+Leviathan;
+Orthrus;
+Power Nova*F2;
+Ra;
+Rebirth;
+Scarecrow;
+Skeletal Dragon;
+Snow Angel;
+Spirit Defuse*F3*WMV;
+Spirit Shield*F2*WMV;
+Storm Lord;
+Unstoppable;
+
+| reagents =
+Black Lotus*F4*WMV;
+Bone;
+Bronze;
+Cat Tail*F2*WMV;
+Cobalt;
+Deep Mushroom;
+Frost Flower*F3*WMV;
+Lava Lily*F4*WMV;
+Mist Wood*F2*WMV;
+Ore*F2*WMV;
+Parchment*F3*WMV;
+Pearl*F7*WMV;
+Red Mandrake*F4*WMV;
+Shell*F4*WMV;
+Steel;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Bogwich*F2;
+Cauliflowers;
+Delicious Cookie;
+Deviled Eggs;
+Flaming Soup;
+Flapjacks;
+Glowing Star Fruit;
+Glowing Taffy;
+Goat Cheese;
+Golden Apple;
+Golden Grapes*F2;
+Gummy Humongofrog*F4*WMV;
+Gummy Wyrms;
+Jelly Baby;
+King Banana*F4*WMV;
+Pigeon Pie;
+Roasted Chickpeas;
+Spicy Drumstick;
+Strawberry Cupcake*F2*WMV;
+Submarine Sandwich;
+Treant Bark;
+
+| jewels =
+Black Widow Onyx;
+Clear Defense Citrine +37;
+Clear Defense Jade +37;
+Clear Health Opal +76;
+Dependable Opal;
+Ice Trap Sapphire (Triangle);
+Opaque Piercing Citrine +4%;
+Wisp Bonus Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak*F2;
+Blue Huckleberries*F2;
+Deadly Fly Trap;
+Evil Magma Peas*CR;
+Key Limes*CR;
+Pink Dandelion*CR;
+Pink Huckleberries*F3*WMV;
+Red Huckleberries;
+Silver Trumpet Vine*CR;
+White Tiger Lily*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

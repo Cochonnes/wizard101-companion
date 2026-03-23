@@ -1,0 +1,260 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 12,960
+| crecla = Giant
+| crecla2 = Undead
+| school = Storm
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+40%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Heartburner Golem;
+Virulent Gas Golem;
+
+| petbreed = Polterpooch
+| world = Wizard City
+| location = Sunken City
+| subloc1 = Simon's Workshop
+| badge = Simon's Bane
+| descrip =
+*Simon the Sayer was created by {{Link|NPC|Daniel}} during a visit to KingsIsle, made possible by the Make-a-Wish foundation.
+
+| speech =
+:'''Daniel:''' ''"Hey, Wizard! I need your help with this grumpy old troll and his evil Golems!"'
+:'''Simon the Sayer:''' ''"Baaah! Simon never said you had permission to enter my workshop. You're going to pay for that!"''
+:'''Daniel:''' ''"Now now, Simon. There's no need to be so grumpy. We just want you to stop bothering everyone in {{Link|Location|Nightside}}. Can't we all just be friends?"''
+:'''Simon the Sayer:''' ''"Friends?!? I have all the friends I need right here in my Golems. They do whatever Simon says!"''
+:'''Daniel:''' ''"Like bother and pester all of the innocent ghosts of Nightside? My new wizard friend and I won't be so easy to push around. Let's take this troll down!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+This Undead Troll doesn't play well with others, so he tried to build himself some friends.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tardiness will not be tolerated!"'' - If a Wizard joins the duel after the second Round, then Simon will interrupt-cast an enhanced version of {{Link|Spell|Mana Burn}} that deals 400 Balance Damage on the Wizard.
+*{{Icon|Round}} ''"Simon says no attacks!"'' - For the first three Rounds, using a Damage Spell on Simon or one of his Minions will result in Simon retaliating against the caster.
+**{{Icon|Damage}} ''"Simon didn't say!"'' - If a Damage Spell is cast on Simon or one of his Minions while Simon says "no attacks", then Simon will interrupt-cast a version of {{Link|Spell|Insane Bolt}} that always hits the Wizard who cast the Damage Spell.
+***[[:Category:Steal Spells|Steal]] Spells do not trigger this cheat.
+**{{Icon|Round}} ''"Simon says you can attack now!"'' - On Rounds 4 through 6, using a Damage Spell will not trigger the ''"Simon didn't say!"'' cheat.
+**{{Icon|Round}} On Round 7, Simon will once again use the ''"Simon says no attacks!"'' cheat, and this will last for three more Rounds.
+**The cycle of being unable and then able to attack for three Rounds at a time will repeat indefinitely for the duration of the duel.
+*{{Icon|Round}} ''"I have my friends too!  See?"'' - At the beginning of the second Round, Simon will interrupt-cast a Spell that will either summon a Heartburner Golem or Virulent Gas Golem Minion.
+**If any of Simon's Minions are defeated before him, then Simon will summon another Golem two Rounds after they are defeated.
+***If multiple Minions are defeated before Simon, then Simon will summon one new Golem every two Rounds.
+*{{Icon|Blade}} ''"Simon says... none of that!"'' - If a Wizard casts a [[:Category:Blade Spells|Blade]], then Simon will interrupt-cast {{Link|Spell|Disarm}} on the caster.
+*{{Icon|Ward}} ''"My Pet knows tricks too!"'' - If a Wizard casts a Prism or positive [[:Category:Ward Spells|Ward]], then Simon's Polterpooch will interrupt-cast {{Link|Spell|Feint}} on the caster.
+**{{Link|Spell|Stun Block}} will trigger this cheat.
+
+'''Daniel'''
+*{{Icon|Round}} On Round 3, and randomly after that, Daniel will interrupt-cast {{Link|Spell|Curse}} on Simon after any other cheats that Simon uses at the beginning of that Round.
+*{{Icon|Round}} After Round 3, Daniel will rarely interrupt-cast a Death version of {{Link|Spell|Fairy}} that restores 300 Health on all Wizards and also applies {{Link|Spell|Guidance}}.
+**This Spell can be affected by negative Healing [[:Category:Charm Spells|Charms]] and Life Dispels that have been placed on Simon.
+**''"I got this."'' or ''"Easy as pie."'' - Daniel will always use this line before casting Fairy, although he uses it for Curse as well.
+
+| spellnotes =
+
+| casts =
+Tower Shield;
+Legion Shield;
+Frozen Armor;
+Stormblade;
+Storm Shark;
+Catalan;
+Berzerk Kraken;
+Triton;
+Storm Lord;
+Leviathan;
+Sirens;
+
+| quests =
+
+| gold =
+200 - 296;
+
+| hats =
+The Dreamweaver*CR*F3*WMV;
+The Manticore*CR*F3*WMV;
+The Restless Titan*CR*F3;
+The Raven Eye*CR*F2*WMV;
+The Warlock*CR*F3*WMV;
+Whitehaven's Cover*F4*WMV;
+
+| robes =
+Armor of the Giant Slayer*F2;
+Dryad Friend Raiment;
+Knight Errant Armor;
+Toadstool Defender Jerkin;
+Vestments of Black Smoke*F2;
+
+| boots =
+Long as Night Walkers;
+Prince of the Avian's Boots;
+Whitehaven Boots;
+
+| athames =
+Dirk of the Dragon*F2;
+Explorer's Edge*F2*WMV;
+
+| amulets =
+Charging Pearl Pendant*F2*WMV;
+Moon Storm Amulet;
+
+| rings =
+Circle of High Order*F2*WMV;
+Nameless Ring;
+
+| wands =
+Daniel's Answer*F7*WMV;
+Daniel's Answer of Life*F7*WMV;
+Daniel's Answer to Defeat*F3;
+Daniel's Balanced Answer*F6*WMV;
+Daniel's Fiery Answer*F2*WMV;
+Daniel's Icy Answer*F4*WMV;
+Daniel's Mythic Answer*F2*WMV;
+Daniel's Stormy Answer*F6*WMV;
+
+| decks =
+Astrological Gallery*F2*WMV;
+Luminary Deck;
+
+| items =
+Black King Chesspiece*F3;
+Black Pawn Chesspiece*F2*WMV;
+Black Queen Chesspiece;
+Black Rook Chesspiece*F2*WMV;
+Chessboard*F2;
+Stone Skeleton Key*CR*F3*WMV;
+White Bishop Chesspiece*F2*WMV;
+White King Chesspiece;
+White Pawn Chesspiece;
+White Queen Chesspiece;
+White Rook Chesspiece*F2*WMV;
+
+| cards =
+Deathspear*F4*WMV;
+Dragonspear*F4*WMV;
+Firespear*F2*WMV;
+Icespear*F3*WMV;
+Lifespear*F2*WMV;
+Mass Death Prism*F2*WMV;
+Mass Fire Prism*F5*WMV;
+Mass Ice Prism*F2*WMV;
+Mass Life Prism*F3*WMV;
+Mass Myth Prism*F5*WMV;
+Mass Storm Prism*F5*WMV;
+Mythspear*F2*WMV;
+Stormspear*F3*WMV;
+
+| reagents =
+Amber Dust*F4*WMV;
+Bone*F2*WMV;
+Bronze Gear*F3*WMV;
+Draconium*F3*WMV;
+Ectoplasm*F3*WMV;
+Leather Straps*F4*WMV;
+Merle's Whisker*F6*WMV;
+Mote of Severity*F6*WMV;
+Orichalcum*F5*WMV;
+Spider Silk*F3*WMV;
+
+| spellements =
+
+| snacks =
+Atomic Fireball*F3*WMV;
+Basil Poodle Noodles*F2*WMV;
+Bog Witch Beetroot*F3*WMV;
+Boom Stroganoff*F3*WMV;
+Bronto Burger*F2*WMV;
+Caliburnt Toast*F4*WMV;
+Chocolate Moousse*F3*WMV;
+Chow Chow Chow*F3*WMV;
+Fido's Fortune Puffs*F2*WMV;
+Gator Tots*F3*WMV;
+Gummy Bees*F3*WMV;
+Kapow Pug Poppers*F4*WMV;
+Kountry-Krok Butter*F2*WMV;
+Krokodill Pickles*F3*WMV;
+Polaris Fries*F2*WMV;
+Pyramints*F2*WMV;
+Saber-Tooth Cider*F2;
+Shanta Pudding*F2*WMV;
+Shepherd's Crook Pie*F2*WMV;
+Submarine Sandwich;
+Sugar Khrystals*F2*WMV;
+Sweet and Sour Chow*F4*WMV;
+Treant Bark*F3*WMV;
+
+| jewels =
+Cloud Wall Amethyst;
+Energy Wall Jade;
+Fire Wall Ruby;
+Reflective Wall Peridot;
+Silencing Wall Onyx;
+
+| pins =
+
+| pets =
+Brave Hound*F3;
+Fierce Hound*CR*F2;
+Ghost Hound;
+Polterpooch*F11*WMV;
+
+| seeds =
+Couch Potatoes*CR*F3*WMV;
+Deadly Ninja Fig*F3*WMV;
+Golden Couch Potatoes*F4*WMV;
+Ninja Fig*CR*F4*WMV;
+Red Couch Potatoes*F4*WMV;
+
+| mounts =
+Ancient Koi*7*F2*WMV;
+Bat Wings*7;
+Brown Warg*7*F2*WMV;
+Faithful Dragoness*7;
+Grey Warg*7*F2;
+Hippogriff*7;
+Moonlight Pony*7;
+Purple Glider*7;
+Rugged Seahorse*7*F2*WMV;
+Spritely Seahorse*7*F2*WMV;
+Sunshine Pony*7*F3*WMV;
+White Mare*7*F2*WMV;
+
+| spells =
+
+}}

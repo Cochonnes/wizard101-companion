@@ -1,0 +1,103 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 80,000
+| crecla = Shadow Sentinel
+| school = Shadow
+| masteries =
+Ice;
+
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+40%;
+
+| incboost =
+15% Fire, Life, Balance;
+
+| incresist =
+30% Storm, Myth, Death, Shadow;
+50% Ice;
+
+| outhealing =
+
+| inchealing =
+50%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Polaris
+| location = River of Frozen Tears
+| subloc1 = Omen's Hideout
+| descrip =
+Dark Sentinel is a Minion to {{Link|Creature|Omen Stribog}}. All cheats, drops, and speech are recorded on that page.
+
+| speech =
+
+| casts =
+Shadow Sentinel;
+Empowerment;
+Fortify;
+Tower Shield;
+Volcanic Shield;
+Legion Shield;
+Frozen Armor;
+Cooldown;
+Snow Drift;
+Enfeeble (Shadow);
+Winter Moon;
+Abominable Weaver;
+Lord of Winter;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

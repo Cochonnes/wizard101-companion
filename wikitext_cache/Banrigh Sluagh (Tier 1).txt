@@ -1,0 +1,179 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 4,500
+| crecla = Undead
+| school = Death
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+45%;
+
+| incboost =
+5% Life;
+
+| incresist =
+73% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Unforgiven Dead (Balance) (Tier 1);
+Unforgiven Dead (Moon) (Tier 1);
+Unforgiven Dead (Star) (Tier 1);
+
+| world = Housing Instance
+| location = Unforgiven Dead Gauntlet
+| subloc1 = Unforgiven Dead Gauntlet (Tier 1)
+| descrip =
+For the purpose of drops, Banrigh Sluagh (Tier 1) is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Pronounced: Ban, as in ban; Righ, as in ree; Slu, as in slew, Agh, as in AAAAAHHHHH! This phonics joke created by: Writers. Who else?
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Late to Doomsday, yer still doomed!"'' - If a Wizard is late to combat, Banrigh Sluagh will cast a Curse '''+100%''' on all Wizards.
+*{{Icon|Trap}} ''"The Dead are arming the Wizard! What a twist!"'' - At the start of the second Round, and every four Rounds thereafter, Unforgiven Dead (Balance) will cast a '''+30%''' version of {{Link|Spell|Mass Hex}} on Banrigh Sluagh's team.
+*{{Icon|Curse}} ''"The Banrigh Sluagh brings the curse of blight"'' - At the end of the second Round, and every three Rounds thereafter, Banrigh Sluagh will cast either {{Link|Spell|Mass Infection}} or {{Link|Spell|Plague}}.
+*{{Icon|Aura}} ''"The Dead escape their bonds and bless the living"'' - At the start of the third Round, and every five Rounds thereafter, Unforgiven Dead (Star) will cast {{Link|Spell|Magnify}} on all Wizards.
+
+| spellnotes =
+
+| casts =
+Fortify;
+Plague;
+Deathblade (+40%);
+Dark Tribute;
+Ghoul;
+Ship of Fools;
+Vampire;
+Wraith;
+Monster Mash;
+Scarecrow;
+
+| quests =
+
+| gold =
+437 - 588;
+
+| hats =
+Highlands Militia Balmoral (Level 50+)*CR;
+Highlands Warrior's Balmoral (Level 30+)*CR;
+Highlands Warrior's Balmoral (Level 50+)*CR;
+
+| robes =
+Highlands Champion's Kit (Level 30+)*CR;
+Highlands Hero's Kit (Level 30+)*CR;
+Highlands Hero's Kit (Level 50+)*CR;
+Highlands Militia Kit (Level 50+)*CR;
+Highlands Raider's Kit (Level 10+)*CR;
+Highlands Raider's Kit (Level 50+)*CR;
+Highlands Warrior's Kit (Level 30+)*CR;
+Highlands Warrior's Kit (Level 50+)*CR;
+
+| boots =
+Highlands Hero's Boots (Any Level)*CR;
+Highlands Hero's Boots (Level 40+)*CR;
+Highlands Hero's Boots (Level 50+)*CR;
+Highlands Raider's Boots (Level 20+)*CR;
+Highlands Raider's Boots (Level 30+)*CR;
+Highlands Warrior's Boots (Level 50+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Highlands Hero's Staff (Level 30+)*CR;
+
+| decks =
+
+| items =
+Adult Birch Tree;
+Farmer's Equipment;
+Halls of Avalon Painting;
+Large Autumnal Bush;
+Large Swirl Tree;
+Lord's Chair;
+Nameless Stone;
+Pendragon Bobblehead;
+Single Candle Holder;
+Small Autumnal Bush;
+Small Wintry Bush;
+Tower Bell;
+Wooden Mirror*F2*WMV;
+Wooden Skeleton Key*CR*F6*WMV;
+
+| cards =
+Harvest Lord;
+Pierce*F3*WMV;
+Plague*F2*WMV;
+Steal Ward;
+Triage;
+Weakness;
+Wild Bolt;
+
+| reagents =
+Blood Moss;
+Bone*F2*WMV;
+Cat Tail*F2*WMV;
+Fish Fin;
+Fossil*F2*WMV;
+Nightshade*F2;
+Sandstone*F2*WMV;
+Stone Block*F3*WMV;
+Water Lily*F2*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Sharp-Eye Opal;
+Sharp-Shot Opal;
+Spell-Defying Opal;
+Spell-Proof Opal*F2*WMV;
+
+| pins =
+
+| pets =
+Dutiful Terrier*CR;
+Loyal Terrier*CR;
+Trusty Terrier*CR;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

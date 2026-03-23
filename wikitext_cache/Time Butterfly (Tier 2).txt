@@ -1,0 +1,173 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 2,595
+| crecla = Butterfly
+| crecla2 = Insect
+| school = Myth
+| cheats = Yes
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+65%;
+
+| incboost =
+20% Storm;
+
+| incresist =
+60% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Young Morganthe (Tier 2);
+Roberto (Tier 2);
+Broodmother (Tier 2);
+
+| world = Housing Instance
+| location = Doomsday Krok Gauntlet
+| subloc1 = Doomsday Krok Gauntlet (Tier 2)
+| descrip =
+For the purpose of drops, Time Butterfly (Tier 2) is considered a Boss.   All drops are recorded on this page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Start off as Continuity Caterpillars, then enter a state of Temporal Chrysalis before emerging as full Time Butterflies.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Manipulation}} Time Butterfly (Tier 2) will cast a Shadow version of Empower on itself to gain 1 Power Pip and hidden-casts a Spell that switches the first turn of the duel.
+*{{Icon|Feint}} If a Feint is placed on Time Butterfly, he will cast Swap Ward to switch the Traps so that the higher percentage is on the Wizard.
+
+
+{{Icon|Minion}} '''Minions:'''
+*Time Butterfly (Tier 2) will summon Minions starting with {{Link|Creature|Young Morganthe (Tier 2)}} on the first turn. If Young Morganthe (Tier 2) is defeated before Time Butterfly (Tier 2), both Young Morganthe (Tier 2) and {{Link|Creature|Roberto (Tier 2)}} will be summoned on the following turn. If Young Morganthe (Tier 2) and Roberto (Tier 2) are defeated, Time Butterfly (Tier 2) will resummon both of them, and also {{Link|Creature|Broodmother (Tier 2)}} on the following turn.
+*{{Icon|Late}} ''"You're Late, or Are You Early?"'' - If a Wizard joins the battle late, Time Butterfly (Tier 2) will use Stun that will last two turns.
+
+*'''Variation:'''
+**On the first round, three Young  Morganthe (Tier 1) will be summoned instead of just one. In this case, the Stage 2 summon will be omitted and the round after the three minions are defeated, the Stage 3 summon will occur.
+
+{{Icon|Death}} '''Young Morganthe:'''
+*{{Icon|Pip}} ''"Time for a New Strategy"'' - Young Morganthe (Tier 2) will cast {{Link|Spell|Mana Burn}} on a Wizard who collects more than 7 Pips.
+*{{Icon|Ward}} ''"No More of That!"'' - If a Ward is used, she'll use Power Nova, followed by Earthquake dealing 400 Myth damage to all enemies, and 100 Fire Damage to self.
+
+{{Icon|Fire}} '''Broodmother:'''
+*{{Icon|Steal}} ''"Give me your health, drone!"'' - Broodmother (Tier 2) will cast {{Link|TreasureCard|Cheat}} to steal 15% max Health from Time Butterfly and restores 15% of its max Health
+**Sometimes after this cheat, a {{Link|Spell|Dragonblade}} is cast on a random ally, and {{Link|Spell|Mass Tower Shield (Shadow)}} (-55%) to all allies. ''"Need to verify which Round this trigger happens."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 115 Myth Damage for 1 Pip.
+*Deals 230 Myth Damage for 2 Pips.
+*Deals 345 Myth Damage for 3 Pips.
+*Deals 460 Myth Damage for 4 Pips.
+**Removes 1 Pip from target.
+
+| casts =
+Empowerment;
+Reliquary;
+Tower Shield (-55%);
+Grendel's Amends;
+Mythblade;
+Myth Trap (+35%);
+Cleanse Ward;
+Pierce;
+Blinding Light;
+Humongofrog (310-370);
+Natural Attack (Time Butterfly);
+Minotaur;
+Medusa;
+
+| quests =
+Doomsday Krok;
+
+| gold =
+1,000;
+
+| hats =
+Apophis' Khepresh (Level 20+)*CR*F2;
+Sokar's Khepresh (Level 40+)*CR;
+
+| robes =
+Setesh's Raiment (Level 40+);
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Apophis' Javelin (Level 30+)*CR;
+Setesh's Javelin (Level 40+)*CR;
+
+| decks =
+
+| items =
+Krok Statue Thumbs Up;
+Krokotopian Bridge;
+Krokotopian Pillar*F2;
+Mini Pyramid;
+
+| cards =
+
+| reagents =
+Amber Dust*F4;
+Bone;
+Elemental Retriever*F2;
+Scales;
+Spiritual Retriever;
+
+| spellements =
+
+| snacks =
+Black Sun Seeds*F2;
+Cactus Fruit*F3;
+Loco Nut;
+Raising Bran Cereal;
+Sandy Corn*F2;
+
+| jewels =
+Cracked Damage Opal +2;
+Cracked Mana Opal +5;
+Cracked Mana Opal +7;
+Cracked Resilient Opal +1%;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+Sokar's Krokosphinx*7;
+
+| spells =
+
+}}

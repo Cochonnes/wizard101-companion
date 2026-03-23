@@ -1,0 +1,234 @@
+{{Stub|which version of the '''''Mutate''''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,560
+| crecla = Penguin
+| school = Myth
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gulag Guard;
+
+| world = Polaris
+| location = Urville Station
+| subloc1 = Commandant's Quarters
+| descrip =
+
+| speech =
+:''"Zut alors! Ah, so now you know. Yes, yes... the mayor betrayed the town. What was I supposed to do? Let them put me in a cage! No! Gray is not my color! Bah! Now that you know the truth, I cannot allow you to leave. Guards, I think my office could use a Wizard mounted on the wall."''
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Mythblade;
+Mythic Fuel;
+Pierce;
+Shatter;
+Time of Legend;
+Yellow Troll;
+White Rat Magician;
+Keeper of the Flame;
+Natural Attack (Myth 115-225-335);
+Mystic Colossus;
+Witch's House Call;
+Orthrus;
+
+| quests =
+The Commandant's Quarters;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge and has not unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' {{Icon|Savior of the Sands}} Badge, the following drops will be available:
+*8 Spellements will drop each time from '''any''' School for their respective rank 8, 9, 10, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+861 - 1,387;
+
+| hats =
+Fancy Tundarian Papakh*F2;
+The Kroktop*CR;
+The Warlock*CR;
+Tundarian Cap of Rage;
+Tundarian Fur Hat of Dread;
+Tundarian Icecap;
+
+| robes =
+Tundarian Chokha of Flux;
+Tundarian Sleet Parka;
+
+| boots =
+Fancy Tundarian Footwear;
+Tundarian Boots of Resolve;
+Tundarian Icecleats;
+Tundarian Mukluks of Fusion;
+Tundarian Striders of Flux;
+
+| athames =
+Enchanter's Dirk of Lightning;
+Enchanter's Fervid Blade;
+Enchanter's Ice Floe Dagger;
+Enchanter's New Horizon Razor;
+Enchanter's Terminus Chisel;
+Tayg Bodkin of Folklore;
+
+| amulets =
+Enchanter's New Horizon Charm;
+Enchanter's Reverie Pendant;
+Enchanter's Torc of Lightning;
+
+| rings =
+Enchanter's Ice Floe Band;
+Enchanter's Seal of Poise;
+Enchanter's Terminus Ring;
+
+| wands =
+
+| decks =
+Sleetfall Array of the Tayg;
+Tayg Deck of Wrath;
+Tayg Hand of Folklore;
+Tayg Pack of Vitality;
+
+| items =
+Arcanum Theme;
+Md Wood Wall Block;
+Polaris Baba Yaga Theme*F3;
+Polaris Frozen Forest Theme;
+Polaris Gulag Combat Theme*F2;
+Polaris Ice Block Theme;
+Polaris Mine Combat Theme;
+Polaris Mine Theme*F2;
+Polaris Opera Theme*F2;
+Walruskberg Liberated Theme*F2;
+Walruskberg Theme;
+Wood Corner Block*F4*WMV;
+Wood Post Block*F2;
+Wood Window Block;
+
+| cards =
+Katabatic Wind;
+Mass Storm Prism;
+Mutate Bats (Fire);
+Mutate Cat;
+Mutate Kraken (Ice);
+Mutate Kraken (Fire);
+Mutate Phoenix;
+Namaste;
+
+| reagents =
+Aether;
+Agave Leaves;
+Agave Nectar;
+Aquamarine;
+Astral Shard*F3*WMV;
+Black Pearl*F4;
+Blood Moss*F2;
+Bronze Gear*F3*WMV;
+Cobalt*F2*WMV;
+Ectoplasm*F2*WMV;
+Fish Fin*F2;
+Grendelweed*F3;
+Mithril;
+Nickel;
+Scales*F2*WMV;
+Silver;
+Spider Silk*F2;
+Spring*F2*WMV;
+Steel*F3*WMV;
+Sunstone;
+Tin;
+Tungsten*F2;
+Turquoise;
+Vine*F2;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Dr. Von's Monster*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Ra*BR;
+Rebirth*BR;
+Rusalka's Wrath*BR;
+Snowball Barrage*BR;
+Spinysaur*BR*F2;
+Wings of Fate*BR;
+Witch's House Call*BR*F2;
+
+| snacks =
+Beast Wellington*F3*WMV;
+Chili Cheese Fries;
+Delicious Cookie;
+Frosty Sugar Cubes*F2*WMV;
+Gourmet Yogurt;
+Green Tomato;
+Hot Cross Buns*F2;
+Large Ice Cream;
+Mustachios;
+Polaris Fries;
+Satyr Chow*F2*WMV;
+Snow Apple Pie;
+Sprinkle Cupcake;
+Veggie Juice;
+
+| jewels =
+Polished Accurate Amethyst +10%;
+Polished Accurate Jade +10%;
+Polished Piercing Citrine +6%;
+
+| pins =
+
+| pets =
+Intrepid Seal Pup;
+Nodori Winged Ram*CR;
+Polar Bear Cub*CR;
+
+| seeds =
+Angel Oak*F2;
+Deadly Fly Trap*F3*WMV;
+Evil Snow Peas*F2;
+Fish on a Vine*F3*WMV;
+Frozen Fly Trap;
+Golden Couch Potatoes;
+Green Snow Apples*F3*WMV;
+Moon Flower*F5;
+Purple Snow Apples;
+Queen Crape Myrtle*F3*WMV;
+Snow Apples*F2*WMV;
+Ultra Fly Trap;
+Ultra Snow Apples;
+Venus Fly Trap*F3;
+
+| mounts =
+
+| spells =
+
+}}

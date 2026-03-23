@@ -1,0 +1,226 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 23,910
+| crecla = 
+| school = Death
+| school2 = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Storm;
+Death;
+
+| critical =
+1013 Storm, Death;
+
+| criticalblock =
+1004;
+
+| outpierce =
+56% Storm, Death;
+
+| outboost =
+211% Storm, Death;
+
+| incboost =
+None;
+
+| incresist =
+80% Fire, Ice, Myth, Death, Balance, Sun, Moon, Star, Shadow;
+100% Storm, Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Raid
+| location = Crying Sky
+| subloc1 = Central Pyramid
+| badge = Ender of Death
+| lootchest = Hunhau's Chest
+| descrip =
+Hunhau is only spawned when 4 Wizards are polymorphed into the 4 Bosses, and stand on their respective drum sigils at the top of the Central Pyramid. Only those who are Polymorphed can enter this combat sigil.
+*{{Link|Polymorph|High Priest Ixta}}
+*{{Link|Polymorph|High Priest Yetaxa}}
+*{{Link|Polymorph|High Priestess Autloc}}
+*{{Link|Polymorph|High Priestess Cameca}}
+The following Minions will path up the Pyramid, and can join the the fight with Hunhau.
+*{{Link|Creature|Coatl}}
+*{{Link|Creature|Crying Sky Icebreaker}}
+*{{Link|Creature|Crying Sky Mercenary}}
+*{{Link|Creature|Sky Crier}}
+
+Additional Notes:
+*Summoning Hunhau grants the "Challenger of Death" Badge.
+
+| speech =
+:''"Your cries are heard, your pleas answered. I bring you the peace you seek. I bring death!"''
+
+| cheatnotes =
+*At the beginning of every Round, Hunhau will cast one of the following on a random Wizard:
+**{{Icon|Fire}} ''"Let all flesh burn away!"'' - Deals '''300''' Fire Damage over 10 Rounds to the Wizard, applies a '''-250''' Healing Ward on the Wizard, and restores '''400''' Health over 10 Rounds to self
+**{{Icon|Ice}} ''"Accept Death's cold embrace."'' - Applies a '''-250''' Healing Ward on the Wizard, a '''-80%''' Life Shield on self, and a '''-50%''' Healing Charm on the Wizard
+**{{Icon|Storm}} ''"Thunder gives way to silence."'' - Applies a Stormblade on self, restores '''400''' Health over 10 Rounds to self, and applies a '''-50%''' Healing Charm on the Wizard
+**{{Icon|Myth}} ''"Even your story will wither."'' - Deals '''300''' Fire Damage over 10 Rounds to the Wizard, applies a '''-250''' Healing Ward on the Wizard, and a '''-80%''' Life Shield on self
+**{{Icon|Life}} ''"Life consumes Life."'' - Applies a Stormblade on self, deals '''300''' Fire Damage over 10 Rounds to the Wizard, and restores '''400''' Health over 10 Rounds to self
+**{{Icon|Death}} ''"Death is inexorable."'' - Applies a Stormblade on self, a '''-80%''' Life Shield on self, and a '''-50%''' Healing Charm on the Wizard
+*''"And now... your suffering ends."'' - At the end of any Round, if any of the following conditions are met, then Hunhau will cast a Death version of Meteor Strike that deals 100% max Health Damage on all Wizards.
+**'''Condition on Hunhau:''' If Hunhau has at least four of any helpful hanging effect:
+***{{Icon|Charm}} 4 Helpful Charms
+***{{Icon|Ward}} 4 Helpful Wards
+***{{Icon|Heal over Time}} 4 Heal over Time effects
+**'''Condition on Wizards:''' If any one Wizard has at least four of any harmful hanging effect:
+***{{Icon|Curse}} 4 Harmful Damage Charms OR 4 Harmful Healing Charms
+***{{Icon|Jinx}} 4 Harmful Damage Wards OR 4 Harmful Healing Wards
+***{{Icon|Damage over Time}} 4 Damage over Time effects
+**'''Global Condition:''' If Hunhau's and the Wizards' team collectively have at least one of each Helpful and Harmful hanging effect, respectively:
+***{{Icon|Charm}}{{Icon|Ward}}{{Icon|Heal over Time}} Hunhau's team has at least one Helpful Charm, Helpful Ward, and a Heal over Time effect
+***{{Icon|Curse}}{{Icon|Jinx}}{{Icon|Damage over Time}} The Wizards' team has at least one Harmful Charm, Harmful Ward, and a Damage over Time effect
+
+| spellnotes =
+*Casts an all enemies version of Catch of the Day that deals 615 Storm Damage and applies a +45% Death Damage Blade on caster
+*Casts an all enemies version of Beary Surprise
+*Casts a version of Deer Knight that deals 390 Death Damage to all enemies and applies a -20% Damage Charm on one target
+
+| casts =
+Weakness;
+Deathblade (+40%);
+Death Trap;
+Ship of Fools;
+Deer Knight (Tier 5b);
+Poison;
+Scarecrow;
+Beary Surprise;
+Catch of the Day;
+Tempest (4 Pip);
+
+| quests =
+
+| dropnotes =
+All 12 Wizards in the Raid receive the drops, not just the ones within the battle.
+
+| gold =
+
+| hats =
+Hunhau's Comet Helm (Level 160+);
+Hunhau's Crying Sky Helm (Level 160+);
+Hunhau's Heavenly Helm (Level 160+);
+Hunhau's Meteoric Helm (Level 160+);
+Hunhau's Singularity Helm (Level 160+);
+Hunhau's Vacuum Helm (Level 160+);
+Hunhau's Xenoform Helm (Level 160+);
+
+
+| robes =
+Hunhau's Comet Mail (Level 160+);
+Hunhau's Crying Sky Mail (Level 160+);
+Hunhau's Heavenly Mail (Level 160+);
+Hunhau's Meteoric Mail (Level 160+);
+Hunhau's Singularity Mail (Level 160+);
+Hunhau's Vacuum Mail (Level 160+);
+Hunhau's Xenoform Mail (Level 160+);
+
+| boots =
+Hunhau's Comet Boots (Level 160+);
+Hunhau's Crying Sky Boots (Level 160+);
+Hunhau's Heavenly Boots (Level 160+);
+Hunhau's Meteoric Boots (Level 160+);
+Hunhau's Singularity Boots (Level 160+);
+Hunhau's Vacuum Boots (Level 160+);
+Hunhau's Xenoform Boots (Level 160+);
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Hunhau's Comet Sword (Level 160+);
+Hunhau's Crying Sky Sword (Level 160+);
+Hunhau's Heavenly Sword (Level 160+);
+Hunhau's Meteoric Sword (Level 160+);
+Hunhau's Singularity Sword (Level 160+);
+Hunhau's Vacuum Sword (Level 160+);
+Hunhau's Xenoform Sword (Level 160+);
+
+| decks =
+
+| items =
+
+| cards =
+Azoth*F2*WMV;
+
+| reagents =
+Xibalba Shard @ 7 Xibalba Shard*F2*WMV;
+Xibalba Shard @ 8 Xibalba Shard*F2*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Amazing Blocking Amethyst +21;
+Amazing Blocking Onyx +21;
+Amazing Blocking Ruby +21;
+Amazing Blocking Sapphire +22;
+Amazing Defense Amethyst +63;
+Amazing Defense Peridot +63;
+Amazing Defense Peridot +64*F2*WMV;
+Amazing Defense Ruby +63;
+Amazing Defense Sapphire +63;
+Flawless Blocking Amethyst +24;
+Flawless Blocking Opal +12;
+Flawless Blocking Peridot +24;
+Flawless Defense Opal +34;
+Flawless Defense Peridot +67;
+Flawless Defense Peridot +68*F2*WMV;
+Flawless Defense Ruby +68;
+
+| pins =
+Balance Crushing Pin (150, Death);
+Balance Disabling Pin (160, Fire);
+Balance Punishing Pin (150, Fire);
+Balance Punishing Pin (150, Life);
+Death Crushing Pin (150, Balance)*F2*WMV;
+Death Disabling Pin (150, Storm)*F3*WMV;
+Fire Crushing Pin (150, Life);
+Fire Punishing Pin (150, Balance);
+Ice Crushing Pin (150, Death);
+Ice Disabling Pin (150, Balance);
+Ice Punishing Pin (150, Life);
+Ice Punishing Pin (150, Myth);
+Ice Punishing Pin (160, Storm);
+Life Crushing Pin (150, Storm);
+Life Crushing Pin (160, Fire);
+Life Crushing Pin (160, Balance);
+Life Disabling Pin (150, Storm);
+Myth Crushing Pin (150, Life);
+Myth Crushing Pin (150, Balance);
+Myth Punishing Pin (160, Balance);
+Storm Punishing Pin (160, Balance);
+
+
+| pets =
+Ash Quetzal*CR;
+Dread Quetzal*CR;
+Gale Quetzal*CR;
+Key Quetzal*CR;
+Hail Quetzal*CR;
+Lush Quetzal*CR;
+Sand Quetzal*CR*F3*WMV;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

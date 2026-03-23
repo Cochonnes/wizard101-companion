@@ -1,0 +1,256 @@
+{{Stub|which version of the Mutate Sprite Treasure Card is received.}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 9,560
+| crecla = 
+| school = Shadow
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+173 Any;
+
+| criticalblock =
+198 Any;
+
+| outpierce =
+22%;
+
+| outboost =
+100%;
+
+| incboost =
+5% Life, Balance;
+
+| incresist =
+70% Fire, Ice, Storm, Myth, Death, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+45%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Dark Cloud Agent;
+Blue Ox;
+Dark Cloud Agent;
+
+| petbreed = Forgotten Grimoire
+| world = Empyrea
+| location = Nimbus Citadel
+| subloc1 = Audience Chamber (Nimbus Citadel)
+| descrip =
+
+| speech =
+:''"Bah! You call her Vicerine, she who reigns in proxy for Grandmother Raven. We call her by her proper title: warmonger. All we do is build weapons, train soldiers, and for what? No war is coming. Raven has been silent for centuries. Your lives are lies. But the Dark Cloud will bring truth to Neumia. We will bring peace. Even if it means we have to kill you all!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Reinforcements? Ha! You're late! "'' - If a Wizard is late to join the duel, he will interrupt cast {{Link|Spell|Queen Calypso (Shadow)}}.
+
+| spellnotes =
+*Casts an Indemnity-protected Shadow Trap.
+
+| casts =
+Dark Fiend;
+Brace;
+Conviction;
+Shadowblade;
+Supercharge (Shadow);
+Shadow Trap;
+Mass Feint (Shadow);
+Disarm (Shadow);
+Natural Attack (Shadow 105-210-315, 80%);
+Iron Sultan (Shadow);
+Lord of Night (Shadow);
+Call of Khrulhu (Shadow);
+Wraith (Shadow);
+Triton (Shadow);
+Leviathan (Shadow);
+
+| quests =
+The Ultimate Price of Peace;
+
+| gold =
+189 - 384;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+Bodacious Kalamar Ring*F2;
+Chill Kalamar Ring*F2;
+Choice Kalamar Ring*F3;
+Gnarly Kalamar Ring*F2*WMV;
+Mondo Kalamar Ring;
+Rad Kalamar Ring*F3*WMV;
+Righteous Kalamar Ring*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Empyrea Chaos Jungle Theme*F2;
+Empyrea Husk Aethyr Combat*F3;
+Kalamar Side Table;
+
+| cards =
+Bonetree Lord;
+Colossafrog;
+Cyclops;
+Doom and Gloom;
+Elemental Blade;
+Elemental Defuse*F2;
+Elemental Shield;
+Elemental Trap;
+Fable Lord;
+Fire Prism;
+Icespear;
+Kraken;
+Life Prism*F2;
+Lifespear*F2*WMV;
+Lord of Atonement;
+Lord of the Squall*F2*WMV;
+Mutate Cat (Storm);
+Mutate Elf (Storm);
+Mutate Kraken (Fire)*F2;
+Mutate Sprite;
+Myth Prism;
+Mythspear;
+Oni No Jade*F2;
+Oni No Plague;
+Spirit Spear;
+Storm Prism;
+Stormspear;
+
+| reagents =
+Aether*F3;
+Agave Leaves;
+Agave Nectar;
+Amber;
+Amber Dust;
+Ancient Scroll;
+Antique Coins*F2;
+Aquamarine*F4*WMV;
+Astral Shard;
+Black Pearl*F2;
+Blood Moss;
+Braided Vine*F2;
+Bronze Gear;
+Cobalt;
+Ectoplasm*F3;
+Fish Fin*F4*WMV;
+Flying Squid Ink*F4;
+Glass Sliver*F2;
+Golden Pearl*F2;
+Merle's Whisker*F2*WMV;
+Mithril*F4*WMV;
+Nickel*F4;
+Scales*F6*WMV;
+Silver*F4*WMV;
+Spider Silk*F2*WMV;
+Spring*F4*WMV;
+Stardust;
+Steel*F3*WMV;
+Sunstone*F4;
+Tin;
+Tungsten*F7*WMV;
+Turmeric;
+Turquoise*F4*WMV;
+Vine*F3*WMV;
+
+| spellements =
+
+| snacks =
+Athame Pop;
+Aztecan Hot Chocolate*F2;
+BBQ Drumstick;
+Beast Wellington*F3*WMV;
+Berry Poundcake;
+Bread Fruit Fruit;
+Dastardly Radish*F2;
+Decimatoes;
+Discord Grape Jelly*F2*WMV;
+Drumstick;
+Eye Candy*F4*WMV;
+Fern Jelly;
+Gator Tots;
+Glowing Taffy;
+Golden Squash;
+Hero Sandwich*F2*WMV;
+Hive Rinds*F2*WMV;
+Hot Cross Buns*F6;
+Killer Tomato;
+Krakamari;
+Pizza*F5*WMV;
+Pyramints;
+Redskin Peanut;
+Rock and Roll Candy*F2*WMV;
+Satyr Chow*F4*WMV;
+Sprinkle Cupcake*F3;
+Taco*F2;
+Waterworks Wonton*F2;
+
+| jewels =
+Shiny Accurate Amethyst +12%;
+Shiny Accurate Sapphire +12%*F2;
+Shiny Blocking Peridot +15;
+Shiny Critical Amethyst +15*F2;
+Shiny Critical Sapphire +15;
+Shiny Damage Citrine +25;
+Shiny Damage Onyx +25;
+Shiny Damage Peridot +25;
+Shiny Defense Citrine +50;
+Shiny Defense Peridot +50;
+Shiny Defense Sapphire +50;
+Shiny Health Opal +108;
+Shiny Mana Opal +45;
+Sparkling Blocking Ruby +18;
+Sparkling Critical Citrine +18;
+Sparkling Damage Amethyst +28;
+Sparkling Defense Amethyst +56;
+Sparkling Defense Opal +28;
+Sparkling Defense Peridot +55;
+Sparkling Health Opal +124;
+Sparkling Mana Opal +52;
+
+| pins =
+
+| pets =
+Forgotten Grimoire;
+
+| seeds =
+Alligator Pear Tree;
+Blue Huckleberries;
+Cornbread Fruit Bush;
+Desparagus (Seed);
+Frozen Fly Trap;
+Golden Couch Potatoes;
+Goose Tree;
+Helephant Ears;
+Honey Sickle;
+Melting Cheese Tree*F2;
+Red Couch Potatoes;
+Red Huckleberries;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Sword Fern*CR;
+Ultra Tiger Lily*F2*WMV;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

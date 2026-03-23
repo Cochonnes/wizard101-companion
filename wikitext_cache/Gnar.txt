@@ -1,0 +1,187 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,810
+| crecla = Elemental
+| crecla2 = Colossus
+| school = Ice
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Razortusk Warrior;
+
+| world = Grizzleheim
+| location = Austrilund
+| subloc1 = Gnar's Cave
+| descrip =
+Two additional Razortusk Warrior Minions appear if more than two Wizards are present.
+
+| speech =
+:''"You cannot hide from me, trespasser... and you will never take the thing I guard!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+Protector of one half of the key to Vestrilund. His goal in life is to protect the whole key.
+
+| extract class =
+Colossus;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Stun Block;
+Iceblade;
+Ice Trap;
+Blizzard;
+Ice Wyvern;
+Frostbite;
+Blight Hound;
+Colossus;
+Tundra Lord;
+Natural Attack (Ice 85x, 80%);
+
+| quests =
+Enemy at the Gate;
+
+| gold =
+49 - 78;
+
+| hats =
+Bitter Cold Bear Hat;
+Grizzled Helm*F2*WMV;
+Horned Helm of Bravery*F4*WMV;
+Horned Helm of Courage*F4*WMV;
+Horned Helm of Valor*F3*WMV;
+
+| robes =
+Blustering Coat;
+Burnt Coat*F2;
+Coat of Ages*F2*WMV;
+Coat of Justice*F2;
+Hardy Coat*F2;
+Jerkin of the Bear's Shadow*F2;
+Jerkin of the Bleak Bear;
+Jerkin of the Roaring Bear*F3;
+Novitiate Robe;
+
+| boots =
+Barbarian's Fierce Boots;
+Biting Bear Boots;
+Fighting Bear Boots;
+Growling Bear Boots;
+Howling Bear Boots;
+Roaring Bear Boots;
+Snarling Bear Boots;
+
+| athames =
+Wolf's Bronze Claw*F3*WMV;
+
+| amulets =
+Wyrm's Curse Charm*F7*WMV;
+
+| rings =
+Ring of Brother Wolf*F4*WMV;
+Ring of Claw;
+Ring of Sister Wolf*F3*WMV;
+Ring of the Hungry Wolf;
+Ring of the Wolf's Song*F2;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Availing Hands;
+Evil Snowman;
+Fortify;
+Frozen Armor*F4*WMV;
+Humongofrog;
+Keen Eyes;
+Legion Shield*F8*WMV;
+Snow Serpent;
+Strong;
+
+| reagents =
+Brass;
+Bronze Gear*F3*WMV;
+Cobalt;
+Copper;
+Nickel;
+Spider Silk*F3*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F3*WMV;
+Flaming Soup;
+Glowing Star Fruit*F2;
+Glowing Taffy*F2;
+Goat Cheese;
+Golden Grapes*F2;
+Gummy Humongofrog*F2;
+King Banana;
+Spicy Drumstick;
+Strawberry Cupcake*F2*WMV;
+Submarine Sandwich;
+
+| jewels =
+Dull Critical Peridot +3;
+Mass Fire Prism Ruby;
+Mass Myth Prism Peridot;
+Mass Storm Prism Amethyst;
+Plain Blocking Citrine +6;
+Plain Damage Jade +15;
+Plain Damage Onyx +15;
+Reshuffle Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots*F3*WMV;
+Helephant Ears;
+Rye Bread Fruit Bush*F2;
+Snap Dragon;
+Venus Fly Trap*F2;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,310 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 11,760
+| crecla = Boa
+| school = Balance
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+3%;
+
+| outboost =
+65%;
+
+| incboost =
+5% Myth, Life, Death;
+
+| incresist =
+30% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minion = Desert Swirler
+| minion2 = 
+| world = Mirage
+| location = Rubal Wastes
+| subloc1 = Qhays' Hideaway
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Berserk;
+Elemental Shield (-55%);
+Spirit Shield (-55%);
+Balanceblade;
+Dragonblade;
+Loremaster;
+Natural Attack (Balance 110-220-330);
+Savage Paw;
+Power Nova (530);
+Ra (635-715);
+Judgement (125);
+
+| quests =
+Serpentine Love Story;
+
+| gold =
+227 - 566;
+
+| hats =
+Rubal Kufiya of Illusions;
+Rubal Kufiya of Loyalty;
+Sand Sea Cowl of Ashes;
+Zruvan Helmet of Rigor;
+
+| robes =
+Parched Wayfarer's Khalat;
+Rubal Thunder Khalat;
+Sand Sea Outfit of Decorum;
+Sand Sea Outfit of Emptiness;
+Sand Sea Outfit of Hardiness;
+Sand Sea Outfit of Mischief;
+Sand Sea Outfit of Shivers;
+Zruvan Raiment of Fury;
+Zruvan Raiment of Mettle;
+
+| boots =
+Vizier's Shoes of Apathy;
+Vizier's Windswept Shoes;
+Zruvan Galesh of Demise;
+Zruvan Galesh of Rigor;
+
+| athames =
+Sand Sea Dagger of Ardor;
+Sand Sea Dagger of Ashes;
+Sand Sea Dagger of Blight;
+Sand Sea Dagger of Blusters;
+Sand Sea Dagger of Bolts;
+Sand Sea Dagger of Curiosity;
+Sand Sea Dagger of Decorum;
+Sand Sea Dagger of Emptiness;
+
+| amulets =
+Kobra Choker of Acumen;
+Kobra Choker of Flashfloods;
+Kobra Choker of Fury;
+Rubal Necklace of Acerbity;
+Sand Sea Amulet of Ardor;
+Sand Sea Amulet of Blusters;
+Sand Sea Amulet of Explosion;
+
+| rings =
+Rubal Band of Action;
+Rubal Band of Formation;
+Sand Sea Ring of Ardor;
+Sand Sea Ring of Curiosity;
+Sand Sea Ring of Emptiness;
+Sand Sea Ring of Explosion;
+Viper Ring of Numbing;
+
+| wands =
+Durvish Armaments of Unrest;
+Dutiful Durvish's Armaments;
+Hardy Rubal Bow;
+Restrictor Wand of Misery;
+Rubal Bow of Conflagration;
+Rubal Bow of Eradication;
+Thundering Rubal Bow;
+
+| decks =
+Deck of Rubal Thunder;
+Kobra Hand of Mettle;
+Kobra Hand of Rigor;
+Sand Sea Hand of Havoc;
+
+| items =
+
+| cards =
+Age of Reckoning;
+Ashen Bones;
+Combustion;
+Counterforce;
+Death Troll;
+Frostfang;
+Katabatic Wind;
+Mutate Colossus (Fire);
+Namaste;
+Nested Fury;
+Raging Bull;
+Rusalka's Wrath;
+Saga of Heroes;
+Stone Colossus;
+Winged Sorrow;
+Witch's House Call;
+
+| reagents =
+Aether;
+Agave Leaves;
+Amber;
+Amber Dust;
+Ancient Scroll;
+Antique Coins;
+Aquamarine*F2;
+Astral Shard*F2*WMV;
+Black Pearl;
+Blood Moss*F2;
+Braided Vine;
+Brass;
+Bronze Gear;
+Cobalt;
+Draconium;
+Ectoplasm;
+Fire Blossom*F2;
+Golden Pearl*F3*WMV;
+Iridium;
+Merle's Whisker;
+Mithril;
+Nickel;
+Orichalcum;
+Scales*F2;
+Silver;
+Spider Silk;
+Spring;
+Stardust;
+Steel;
+Sunstone;
+Tin;
+Titanium;
+Tungsten*F2;
+Turmeric;
+Turquoise*F4;
+Vine;
+
+| spellements =
+
+| snacks =
+Beast Wellington;
+Beetle Cream Soda;
+Chalupacabra*F3;
+Chili Cheese Fries;
+Chili Peppers;
+Delicious Cookie;
+Eye Candy;
+Gourmet Yogurt;
+Hard Boiled Beetle Eggs;
+Hot Cross Buns;
+Huge Ice Cream;
+Large Ice Cream;
+Mustachios;
+Satyr Chow;
+Ships 'n' Queso;
+Sprinkle Cupcake;
+Submarine Sandwich;
+Veggie Juice;
+
+| jewels =
+Lustrous Damage Amethyst +23;
+Magnify Opal;
+Polished Accurate Jade +10%;
+Polished Accurate Onyx +10%;
+Polished Accurate Ruby +10%;
+Polished Blocking Ruby +11;
+Polished Damage Amethyst +21;
+Polished Damage Citrine +21;
+Polished Damage Jade +21;
+Polished Defense Jade +41;
+Polished Defense Jade +42;
+Polished Defense Onyx +41;
+Polished Defense Peridot +41;
+Polished Defense Peridot +42;
+Polished Defense Ruby +41;
+Polished Defense Sapphire +42;
+Polished Health Opal +86;
+Polished Health Opal +88;
+Polished Health Opal +95;
+Polished Mana Opal +37;
+Polished Mana Opal +38;
+Polished Mana Opal +39;
+Polished Mana Opal +40;
+Reliquary Opal;
+Shiny Accurate Citrine +12%;
+Shiny Accurate Jade +12%;
+Shiny Accurate Peridot +12%;
+Shiny Blocking Onyx +15;
+Shiny Blocking Peridot +15;
+Shiny Blocking Ruby +15;
+Shiny Critical Hematite +15;
+Shiny Critical Onyx +15;
+Shiny Critical Peridot +15;
+Shiny Critical Ruby +15;
+Shiny Defense Citrine +51;
+Shiny Defense Citrine +52;
+Shiny Defense Hematite +50;
+Shiny Defense Jade +50;
+Shiny Defense Opal +26;
+Shiny Defense Peridot +49;
+Shiny Defense Peridot +50;
+Shiny Health Opal +112;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak;
+Angora Bunny Ears;
+Baby Carrots;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts;
+Boom Shroom;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Cornbread Fruit Bush;
+Couch Potatoes*CR*F2;
+Dandelion;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Face Palm;
+Fickle Pickle;
+Fiery Boom Shroom;
+Fish on a Vine;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Golden Couch Potatoes*F2;
+Goose Tree;
+Grapes of Wrath*CR*F2*WMV;
+Green Snow Apples;
+Honey Bee Plant;
+Ivy League*CR;
+Key Limes*CR;
+Moon Flower;
+Orange Bell Pepper*CR;
+Orange Dandelion;
+Pink Huckleberries;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Queen Crape Myrtle;
+Red Couch Potatoes;
+Red Huckleberries;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Snap Dragon;
+Snow Apples;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Sword Fern*CR;
+Trumpet Vine;
+White Laugh-O-Dil;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

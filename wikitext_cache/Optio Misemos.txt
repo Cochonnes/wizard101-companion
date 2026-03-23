@@ -1,0 +1,168 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 4,440
+| crecla = Crab
+| school = Ice
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire;
+
+| incresist =
+35% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Crustacean Clawcutter;
+
+| world = Celestia
+| location = The Grotto
+| subloc1 = Misemos's Retreat
+| descrip =
+*Two additional {{Link|Creature|Crustacean Pincer}} Minions appear if more than two Wizards are present.
+
+| speech =
+:''"What's the big idea?! You just bought yourself a thrashing for bothering me!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Stun Block;
+Iceblade;
+Ice Trap;
+Ice Prism;
+Thieving Dragon;
+Blizzard;
+Ice Wyvern;
+Blight Hound;
+Frostbite;
+Colossus;
+Tundra Lord;
+
+| quests =
+The Starfish Chamber;
+ 
+| gold =
+37 - 92;
+
+| hats =
+Chilled Cowl;
+Drafty Cap;
+Facade of Fairness*F2;
+Gravedigger's Helm;
+Helm of Celestian Totality*F4;
+Shroud of Solitude*F4*WMV;
+
+| robes =
+Drafty Tunic;
+Frozen Tunic;
+Fuming Outfit;
+Innocent Outfit;
+Mysterious Costume*F2*WMV;
+Novitiate Robe;
+Rime Raiment*F2;
+Tunic of Burden;
+Turbulent Tunic*F3;
+
+| boots =
+Ashen Boots;
+Drafty Boots;
+Frozen Frostwalkers*F2;
+Novitiate Boots;
+Polar Boots*F2;
+Rime Runners*F3*WMV;
+Speculator's Striders*F2*WMV;
+
+| athames =
+Celestian Sliver of Power*F5;
+Explorer's Edge;
+Volcanic Edge*F2*WMV;
+
+| amulets =
+
+| rings =
+Bizarre Band;
+Imbued Ring;
+Striking Celestian Signet*F7*WMV;
+Sunken Celestian Circle*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Water-Mole Weapon Rack*F2*WMV;
+
+| cards =
+Accurate;
+Amplify*F3;
+Death Trap;
+Dragonflies;
+Fire Elf;
+Fortify*F2;
+Giant*F4;
+Guiding Light;
+Keen Eyes*F2;
+Locust Swarm;
+Strong;
+Tempest;
+
+| reagents =
+Cobalt*F5;
+Copper;
+Lead;
+Nickel*F4;
+Scales*F2*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Delicious Cookie;
+Glowing Star Fruit*F2;
+Glowing Taffy*F2*WMV;
+Spicy Drumstick*F2;
+Strawberry Cupcake*F2*WMV;
+Submarine Sandwich*F2;
+
+| jewels =
+Dissipate Amethyst;
+Dull Health Opal +53;
+Dull PIP Opal +5%;
+Entangle Jade;
+Gargantuan Talent Opal;
+Plain Health Opal +59;
+Super Hurry Opal;
+Vengeance Talent Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F3*WMV;
+Silver Trumpet Vine*CR*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

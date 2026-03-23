@@ -1,0 +1,221 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 800
+| crecla = Krokotopian
+| crecla2 = Undead
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth;
+
+| incresist =
+60% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Wandering Ahnic Spirit;
+
+| world = Krokotopia
+| location = Ahnic Family Tomb
+| subloc1 = 
+| descrip =
+King Uro Ahnic is unique in that he is not encountered in a separate instance, similar to the [[Creature:Kraken|Kraken]] in [[Location:Triton Avenue|Triton Avenue]], and he respawns after being defeated.
+
+| speech =
+:''"If you have not come to bask in my glory, you must be punished."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+Leader of the Ahnic Tomb, he is as full of himself as he is of spectral goo.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Weakness;
+Black Mantle;
+Stormblade;
+Thunder Snake;
+Storm Elf (30+210);
+Lightning Bats;
+Evil Snowman (Storm);
+Storm Shark;
+Squall Wyvern;
+Natural Attack (Storm 125x, 75%);
+Leprechaun;
+Cyclops;
+
+| quests =
+De-Cipher the Ahnics;
+
+| gold =
+19 - 37;
+
+| hats =
+Ahnic's Rational Hood;
+Bitter Cap;
+Blazing Helm;
+Cowl of Prediction*F3*WMV;
+Cowl of the Temple*F4*WMV;
+Cryptkeeper's Circlet;
+Diviner's Hat of Squalls;
+Mask of Humidity*F3*WMV;
+Necromancer's Ivory Hat*F3*WMV;
+Pioneer's Helm;
+Rough-Hewn Hood;
+Sphinx's Circlet;
+Thaumaturge's Cowl of Awe;
+
+| robes =
+Ahnic's Cloak*F3;
+Balmy Tunic*F3*WMV;
+Diviner's Tunic of Squalls;
+Garment of Patience*F5*WMV;
+Necromancer's Ivory Cloak*F2*WMV;
+Robe of Reason;
+Rough-Hewn Robe;
+Sorcerer's Maroon Cloak;
+Stout Robe;
+Summertime Robes*F3*WMV;
+Vest of Alacrity*F2;
+Vest of the Desert;
+Vestment of Darkness;
+Vestment of the Arctic*F2*WMV;
+
+| boots =
+Boots of the Citadel;
+Boots of the Whirlwind;
+Diviner's Boots*F3*WMV;
+Footwraps of the Arctic;
+Initiate's Boots*F4*WMV;
+Krokotopian Balance Striders;
+Krokotopian Death Striders;
+Krokotopian Myth Striders;
+Krokotopian Storm Striders;
+Krokotopian Striders*F6; 
+Sandals of Energy;
+Sandals of Refuge*F2*WMV;
+Sandals of Tall Tales;
+
+| athames =
+Blade of Proportions*F3;
+Knife of the Badlands*F3*WMV;
+Stiletto of Ignition*F4*WMV;
+Whirlwind Dagger;
+
+| amulets =
+Ahnic's Ethereal Pendant*F3*WMV;
+
+| rings =
+Band of the Oasis;
+Glittering Jewel*F5*WMV;
+Ring of the Badlands;
+
+| wands =
+
+| decks =
+
+| items =
+Bushy Palm Tree;
+Krok Insect Plaque;
+Purple Urn*F4*WMV;
+Red Floor Torch*F2*WMV;
+Red Krok Bust*F4;
+
+| cards =
+Banshee*F2;
+Evil Snowman*F2*WMV;
+Ghost Touch*F2;
+Giant;
+Ice Trap;
+Life Banshee;
+Meteor Strike*F2*WMV;
+Mutate Beetle (Fire);
+Mutate Cat (Storm);
+Myth Trap;
+Pacify*F2;
+Sniper;
+Spirit Armor*F2;
+Storm Trap;
+Tempest;
+Vampire;
+
+| reagents =
+Brass;
+Bronze Gear;
+Ectoplasm;
+Iron*F2;
+Lead;
+Nickel*F2;
+Pyrite*F3;
+Tin*F3;
+
+| spellements =
+
+| snacks =
+Cracker*F2;
+Green Grapes*F2;
+Nettle Root*F2;
+Tiny Fish*F2;
+
+| jewels =
+Big Downer Opal;
+Charge Opal;
+Chipped Damage Opal +4;
+Chipped Health Opal +16;
+Chipped Health Opal +17;
+Chipped Health Opal +20;
+Chipped Mana Opal +9;
+Chipped Mana Opal +12;
+Cracked Accurate Citrine +2%;
+Cracked Damage Opal +3;
+Cracked Damage Sapphire +6;
+Cracked Defense Opal +5;
+Death-Boon Onyx;
+Forceful Opal;
+Ghoul Onyx;
+Scorpion Citrine;
+Slow Leader Opal;
+Storm-Away Amethyst;
+
+| pins =
+
+| pets =
+Life Banshee*F4*WMV;
+
+| seeds =
+Alligator Pear Tree*F2;
+Pink Dandelion*CR*F2;
+
+| mounts =
+
+| spells =
+
+}}

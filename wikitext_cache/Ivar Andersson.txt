@@ -1,0 +1,182 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,440
+| crecla = Bear
+| school = Balance
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+14% Myth, Life, Death;
+
+| incresist =
+70% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Red Claw Charger;
+Red Claw Charger;
+
+| world = Grizzleheim
+| location = Frostholm
+| subloc1 = 
+| descrip =
+Ivar Andersson is the Thane of {{Link|Location|Ander's Holt}}, a small village in the Vigrid Roughlands that was named after Ivar's father.  Recently, and for reasons unknown, he betrayed his people by handing over his village to the Red Claw, a band of bloodthirsty raiders that drove out the villagers of Ander's Holt and established their main fortress in Frostholm.  In helping {{Link|NPC|Egil Axebearer}} care for the village's refugees, Wizards met an elder named {{Link|NPC|Grimnir}} who, having known the Thane since Ivar was a cub, was convinced that the honorable son of Ander would never have willingly given his village over to a band of raiders, certain that he must be under some dark enchantment.  After bartering with the Grendel {{Link|NPC|Bolthorn}} and acquiring a magical artifact called the Eye of Truth, Wizards finally make their way to Frostholm, infiltrating the Red Claw until finally coming face to face with Ivar Andersson to discover the truth behind his actions.
+
+| speech = 
+:''"I do not know who sent you, but you're not leaving here alive!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip
+
+| casts =
+Elemental Shield;
+Weakness;
+Balanceblade;
+Hex;
+Scarab;
+Scorpion;
+Locust Swarm;
+Sandstorm;
+Fire Cat;
+Lightning Bats;
+Evil Snowman;
+
+| quests =
+Holm Sweet Holm;
+The Eye Has It;
+
+| gold =
+50 - 92;
+
+| hats =
+Arboreal Cover*F8*WMV;
+Coif of Veracity*F4*WMV;
+Cowl of Winterbloom*F5*WMV;
+Crown of Achievement;
+Firekeeper's Mantle;
+Headgear of the Haze*F2*WMV;
+Helm of Determination*F2*WMV;
+Lifewarden's Veil*F2*WMV;
+Myrmidon's Hood*F6*WMV;
+
+| robes =
+Coat of Forethought*F2*WMV;
+Igneous Robe*F2*WMV;
+Jerkin of Brio;
+Longcoat of Meditation*F14*WMV;
+Robe of Elegies*F2*WMV;
+Robe of the Curator*F8*WMV;
+Smock of the Iceshard*F10*WMV;
+Tunic of Quietus*F2*WMV;
+Vestment of Serenity;
+Vestment of Yesteryear*F2*WMV;
+Winterwear Wrap*F2*WMV;
+
+| boots =
+Boots of the Embers*F13*WMV;
+Footguards of Consideration*F2;
+Ghostwalkers*F3*WMV;
+Indefatigable Striders*F2*WMV;
+
+| athames =
+Glyphcarver;
+Runecutter*F9*WMV;
+
+| amulets =
+
+| rings =
+Seal of the Tundra;
+Stone of Confidence*F3*WMV;
+Thane's Circlet*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Broom;
+Hanging Onions;
+Wild Brush;
+
+| cards =
+Cloak;
+Giant;
+Ice Trap;
+Sandstorm;
+Satyr;
+Sniper;
+Vampire*F2*WMV;
+
+| reagents =
+Bone*F3*WMV;
+Brass;
+Bronze Gear;
+Copper*F4*WMV;
+Iron*F4*WMV;
+Lead*F2*WMV;
+Nickel;
+Pyrite*F4*WMV;
+Tin*F3*WMV;
+
+| spellements =
+
+| snacks =
+Chocolate Peanut*F3*WMV;
+Glowing Rock Candy*F10*WMV;
+Lollipop;
+Meat Soup*F10*WMV;
+Potato Chips*F2*WMV;
+Sliced Watermelon*F5*WMV;
+Squash*F4*WMV;
+Tasty Biscuit*F11*WMV;
+Wafer Biscuit;
+
+| jewels =
+Big-Check Opal;
+Chipped Defense Citrine +13;
+Chipped Defense Peridot +13;
+Chipped Defense Sapphire +13*F2*WMV;
+Chipped Health Opal +17;
+Chipped Health Opal +18;
+Cracked Damage Peridot +6;
+Cracked Damage Sapphire +6;
+Cracked Defense Amethyst +10;
+Cracked Defense Citrine +9;
+Cracked Defense Onyx +10;
+Cracked Defense Opal +6;
+Ghoul Onyx;
+Ice-Boon Sapphire;
+Lightning Bats Amethyst;
+Myth-Boon Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Couch Potatoes*CR*F3*WMV;
+Dandelion*F5*WMV;
+King Parsley*CR;
+Laugh-O-Dil;
+Stinkweed*F6*WMV;
+
+| mounts =
+
+| spells =
+
+}}

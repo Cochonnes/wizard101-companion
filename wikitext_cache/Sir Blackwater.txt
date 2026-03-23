@@ -1,0 +1,332 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 18,000
+| crecla = Undead
+| school = Star
+| masteries =
+Storm;
+Life;
+Death;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+122;
+
+| criticalblock =
+77;
+
+| outpierce =
+35%;
+
+| outboost =
+
+| incboost =
+15% Fire, Ice;
+30% Myth;
+
+| incresist =
+30% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| randomminions =
+Darkmoor Serf;
+Darkmoor Squire;
+
+| totalminions = 3
+| world = Wizard City
+| location = Castle Darkmoor (Location)
+| subloc1 = Castle Darkmoor (Dungeon)
+| descrip =
+*Minions will respawn if all Wizards flee.
+
+| speech =
+:''"I salute you, Seeker.  I am Sir Blackwater, once a paladin of the forces of light.  It was my duty to rid this land of the vampire.  But I was betrayed by my squire, Renfield.  He told me that the lady, Tatyana, loved me.  Yet it was a lie, which caused me to doubt myself.  I was thus distracted when I faced the vampire.  When I fell in battle, Lord Shane von Shane raised me as a mockery of what I once stood for.  Now I serve the unending darkness.  It is I who will put out your light."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+Once a paladin of Light charged with ridding Darkmoor of vampires, he followed the age-old path to ruin - love.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Charm}} {{Icon|Global}} ''"I disarm you Wizard!"'' - If a Wizard casts a positive [[:Category:Charm Spells|Charm]] or [[:Category:Global Spells|Global]] spell, Sir Blackwater will interrupt-cast {{Link|Spell|Disarm}} on the Wizard who cast the Spell.
+**"Weapon Cast"  and Pet "Maycast" that grant Blades will trigger this cheat.
+**Armor Piercing Charms will not trigger this cheat. (Example: Stormspear)
+**{{Link|Spell|Aegis}} can be used to avoid this cheat.
+*{{Icon|Weakness}} ''"I reach inside myself to harm you!"'' - If a Wizard places any type of {{Link|Spell|Weakness}} Spell on Sir Blackwater, he will interrupt-cast a {{Link|Spell|Dark Tribute (+30%)}} on himself.
+**AOE Weakness Spells, such as {{Link|Spell|Virulent Plague}}, will not trigger this cheat.
+
+'''Interrupt Cycles:'''
+All cycles are 5 Rounds each, and repeat until Sir Blackwater is defeated.
+:{{Icon|Death}} '''Death Interrupt Cycle''' (First Cycle):
+:*''"I make this sacrifice!"'' - At the end of every Round in this cycle, Sir Blackwater will interrupt-cast {{Link|Spell|Sacrifice (Death)}} on himself.
+:*''"I call upon the spirits of the deep!"'' - At the beginning of the fifth Round in this cycle, he will interrupt-cast {{Link|Spell|Age of Reckoning}}, {{Link|Spell|Virulence}}, a {{Link|Spell|Deathblade (+45%)}}, and {{Link|Spell|From Beyond}}. This Round will be the end of the Death cycle and the beginning of the Life cycle.
+
+:{{Icon|Life}} '''Life Interrupt Cycle''' (Second Cycle):
+:*''"Darkmoor armors us!"'' - At the end of every Round in this cycle, Sir Blackwater will interrupt-cast a {{Link|Spell|Spirit Armor (500)}} on himself.
+:*''"I am steadfast in my resolve!"'' - At the beginning of the fifth Round in this cycle, he will interrupt-cast {{Link|Spell|Sanctuary}}, {{Link|Spell|Cycle of Life}}, a Guiding Light, and {{Link|Spell|Rebirth (730, 90%)}}. This Round will be the end of the Life cycle and the beginning of the Storm cycle.
+
+:{{Icon|Storm}} '''Storm Interrupt Cycle''' (Third Cycle):
+:*''"I lay on hands."'' - At the end of every Round in this cycle, Sir Blackwater will interrupt-cast {{Link|Spell|Healing Current}} on himself.
+:*''"The power of the Storm will destroy you!"'' - At the beginning of the fifth Round in this cycle, he will interrupt-cast {{Link|Spell|Astraphobia}}, {{Link|Spell|Galvanic Field}}, a {{Link|Spell|Stormblade}}, and {{Link|Spell|Gloambugs!}}. This Round will be the end of the Storm cycle and the beginning of the Death cycle.
+
+| spellnotes =
+
+| casts =
+Star Shield;
+Elemental Shield;
+Spirit Shield;
+Weakness;
+Virulent Plague;
+Guiding Light;
+Dryad;
+Star Blade;
+Dark Tribute;
+Balanceblade;
+Bladestorm;
+Star Trap;
+Curse;
+Sanctuary;
+Doom and Gloom;
+Age of Reckoning;
+Astraphobia;
+Natural Attack (Star 130-255-505);
+Deer Knight;
+Call of Khrulhu;
+Skeletal Dragon;
+Avenging Fossil;
+Hungry Caterpillar;
+Gnomes!;
+Spinysaur;
+Catalan;
+Glowbug Squall;
+Storm Lord;
+Sirens;
+Storm Owl;
+
+| quests =
+The Dark Powers;
+
+| gold =
+150 - 402;
+
+| hats =
+Brimstone Helm of Darkmoor;
+Darkmoor Barbut of Delusion;
+Darkmoor Helmet of Shivers;
+Darkmoor Herald's Mantle;
+Depths of Darkmoor Cover;
+Helm of the Living Dead;
+Raging Blackwater's Helm;
+
+| robes =
+Brimstone Gear of Darkmoor;
+Darkmoor Armor of Delusion;
+Darkmoor Armor of Shivers;
+Darkmoor Herald's Gear;
+Depths of Darkmoor Raiment;
+Plate of the Living Dead;
+Raging Blackwater's Plate;
+
+| boots =
+Brimstone Boots of Darkmoor;
+Darkmoor Boots of Delusion*F2;
+Depths of Darkmoor Stalkers;
+Herald of Darkmoor's Shoes*F2*WMV;
+Raging Blackwater's Boots*F3*WMV;
+Sabatons of Frozen Furor*F2*WMV;
+Sabatons of the Living Dead*F2*WMV;
+
+| athames =
+Athame of the Blue Ague;
+Blackwater's Dirk of Havoc*F2*WMV;
+Blade of Kan Davasi;
+Claw of the Bone Dragon;
+Dagger of Bent Reality;
+Dirk of Unnatural Life;
+Dragon's Tooth of Darkmoor;
+Dragonbone Blade;
+Heart's Knife of Tenacity*F3*WMV;
+Herald of Darkmoor's Knife;
+Kris of Cold Fury;
+Sharp Edge of the Void;
+Thunderclap Spike;
+
+| amulets =
+Brimstone Torc of Darkmoor*F2*WMV;
+Darkmoor Frost Collar*F3*WMV;
+Embodiment of Death Charm*F2;
+Kan Davasi Medallion*F2*WMV;
+Pendant of Love's Grace*F4;
+Relic of the Fetid Lagoon*F2;
+Vial From the Fetid Lagoon;
+
+| rings =
+Herald of Darkmoor's Seal;
+Ring of Mortis;
+
+| wands =
+Mace of the Outer Void;
+Morning Star of Kan Davasi;
+Morning Star of Misery;
+Virge of the Bitter Ghost;
+
+| decks =
+Arcana of Kan Davasi;
+Cards of the Blue Ague;
+Darkmoor's Brimstone Deck;
+Deck of Unchecked Passion*F2*WMV;
+Duplicitous Squire's Deck;
+Thunderous Darkmoor Hand;
+
+| items =
+
+| cards =
+Avenging Fossil*F2*WMV;
+Banshee;
+Black Cat*F3;
+Catalan;
+Celestial Calendar*F3;
+Chastisement*F3*WMV;
+Cycle of Life*F3*WMV;
+Dark Tribute;
+Deer Knight*F2*WMV;
+Dr. Von's Monster*F3;
+Furnace*F4;
+Galvanic Field*F4*WMV;
+Hex*F2*WMV;
+Keeper of the Flame*F3*WMV;
+Lord of Night;
+Lord of Winter*F2;
+Luminous Weaver;
+Ninja Pigs;
+Plague*F3*WMV;
+Poison;
+Punishment*F5*WMV;
+Reliquary*F2*WMV;
+Sabertooth*F2;
+Savage Paw;
+Skeletal Dragon*F3*WMV;
+Sleet Storm*F2;
+Spinysaur*F2*WMV;
+Storm Owl;
+Sun Serpent*F3*WMV;
+The Bonekeeper*F3*WMV;
+Vampire*F2*WMV;
+Virulence*F2*WMV;
+
+| reagents =
+Astral Shard*F2*WMV;
+Black Lotus*F7*WMV;
+Black Pearl*F4*WMV;
+Blood Moss*F2;
+Bone*F4*WMV;
+Bronze;
+Bronze Gear*F6*WMV;
+Deep Mushroom*F4*WMV;
+Draconium*F2;
+Fire Blossom*F4*WMV;
+Fossil*F4*WMV;
+Golden Pearl*F4*WMV;
+Lava Lily*F7*WMV;
+Mist Wood*F10*WMV;
+Nightshade*F2*WMV;
+Ore*F5*WMV;
+Orichalcum*F2*WMV;
+Red Mandrake*F5*WMV;
+Silver*F3;
+Steel;
+Stone Block*F5*WMV;
+Sunstone*F3;
+Tungsten;
+Turquoise*F2;
+
+| spellements =
+
+| snacks =
+Alligator Pear*F3*WMV;
+Bell Pepper Steak*F3*WMV;
+Cold Snap Peas;
+Dead Beet Risotto;
+Desparagus Quiche*F2*WMV;
+Discord Grape Jelly*F2;
+Evil Magma Soup*F5*WMV;
+Gummy Bees;
+Hive Rinds*F2*WMV;
+Honey Bombs*F2;
+Honeycombs*F2*WMV;
+Honeycrisp Apples*F2*WMV;
+King Parsley Soup*F5*WMV;
+Ninja Fig Bars*F2*WMV;
+Prickly Bear Punch*F2*WMV;
+Rye Bread Fruit;
+Stuffed Bell Pepper*F4*WMV;
+Sugar Khrystals*F2*WMV;
+
+| jewels =
+Balance-It Citrine;
+Berserk Talent Opal;
+Clear Defense Onyx +40;
+Clear Health Opal +84;
+Death-Shot Onyx;
+Deplete Opal;
+Effervescent Opal;
+Fire-Shot Ruby;
+Gargantuan Talent Opal;
+Life-Boon Jade;
+Polished Blocking Amethyst +11;
+Polished Blocking Jade +11;
+Polished Critical Onyx +12;
+Polished Damage Hematite +42;
+Polished Defense Hematite +44; 
+Polished Defense Opal +22;
+Power-Taker Ruby;
+Storm-Proof Amethyst;
+
+| pins =
+
+| pets =
+Soulful Knight*F3*WMV;
+
+| seeds =
+Angel Oak*F3*WMV;
+Angora Bunny Ears*F3*WMV;
+Blue Huckleberries*F5*WMV;
+Fiery Boom Shroom*F2*WMV;
+Frozen Fly Trap*F4;
+Honey Bee Plant*F2*WMV;
+Key Limes*CR*F3;
+Melting Cheese Tree;
+Moon Flower*F3*WMV;
+Pink Dandelion*CR*F4*WMV;
+Pink Huckleberries*F2*WMV;
+Red Huckleberries*F4*WMV;
+Saw Palmetto*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

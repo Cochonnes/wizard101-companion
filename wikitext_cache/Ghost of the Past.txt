@@ -1,0 +1,103 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 18,725
+| crecla = 
+| school = Shadow
+| school2 = Life
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical =
+68 Any;
+
+| criticalblock =
+602 Any;
+
+| outpierce =
+19%;
+
+| outboost =
+91%;
+
+| incboost =
+None;
+
+| incresist =
+42% Any;
+
+| outhealing =
+43%;
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Ghost of the Past;
+
+| world = Khrysalis
+| location = Fort Rachias
+| subloc1 = Phantom Barracks
+| descrip =
+
+| speech =
+
+| spellnotes =
+*Casts a 0-Shadow Pip version of Dark Shepherd that does not have a Shadow Pact
+
+| casts =
+Shadowblade;
+Lifeblade (+40%);
+Dark Shepherd;
+Gnomes! (Shadow);
+Morganthe's Ardor;
+Moody Caterpillar;
+Grim Grrnadier;
+Wings of Night;
+Lord of the Wilds;
+
+| quests =
+Power of Destruction;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

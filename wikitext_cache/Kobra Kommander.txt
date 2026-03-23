@@ -1,0 +1,284 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 8,400
+| crecla = Snake
+| school = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+5%;
+
+| outboost =
+65%;
+
+| incboost =
+15% Myth;
+
+| incresist =
+30% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Viper Soldier;
+
+| world = Mirage
+| location = Istanboa
+| subloc1 = Vipers Den
+| lootchest = Kobra Kommanders Chest
+| descrip =
+
+| speech =
+:''"Look here! If it isn't my old nest-mate nemesis! Things have been dull around here without you! It's been too long, Plizkin! You always were an idealist. That's what made you weak! You're a relic. There's no room for Serpentines like you in Modern Serpentine Society. Stop this blathering and let's get on with it! Ready to lose your other eye? Oh, don't worry! I won't stop there!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"No tolerance for tardiness!"'' - If a Wizard joins the duel late, Kobra Kommander will cast a Balance version of {{Link|ItemCard|Steal Pips}}, which gives him 3 pips.
+*{{Icon|Damage}} ''"Here's a Kobra special!"'' - At the end of the fifth Round, he will cast a multi-target version of {{Link|Spell|Wild Bolt}} that hits all Wizards.
+*{{Icon|Shadow Pip}} ''"Now for my secret weapon!"'' - When he receives two Shadow pips, he will cast {{Link|Spell|Dark Fiend}} with '''+20%''' backlash and receive a '''+40%''' {{Link|Spell|Shadowblade}}.
+
+| spellnotes =
+*Casts a Spell similar to {{Link|Spell|Storm Beetle}}, with an unknown amount of Damage.
+*Casts an Aegis-Protected Supercharge.
+
+| casts =
+Dark Fiend;
+Berserk;
+Magnify;
+Storm Shield (-85%);
+Thermic Shield (-75%);
+Healing Current (325);
+Supercharge (+12%);
+Enfeeble;
+Storm Serpent (230);
+Queen Calypso;
+Wild Bolt;
+Natural Attack (Storm 125-250-375, 65%);
+Glowbug Squall;
+Rusalka's Wrath;
+Triton;
+Storm Lord (775);
+Leviathan;
+Tempest (85);
+
+| quests =
+The Aridian Chronoshard;
+
+| gold =
+530 - 722;
+
+| hats =
+Zruvan Helmet of Fury;
+Zruvan Helmet of Rigor;
+
+| robes =
+Sand Sea Outfit of Havoc;
+Sand Sea Outfit of Shivers;
+Zruvan Flashflood Raiment;
+Zruvan Raiment of Acumen*F2*WMV;
+Zruvan Raiment of Amity;
+
+| boots =
+Sand Sea Striders of Decorum;
+Vizier's Shoes of Apathy;
+Vizier's Shoes of Sagacity;
+
+| athames =
+Kobra Choker of Mettle;
+Kobra Janbiya of Demise;
+Kobra Janbiya of Rigor;
+Sand Sea Dagger of Accord;
+Sand Sea Dagger of Blight*F2;
+Sand Sea Dagger of Blusters;
+Sand Sea Dagger of Explosion;
+Sand Sea Dagger of Shivers;
+
+| amulets =
+Kobra Choker of Flashfloods;
+Kobra Choker of Rigor;
+Sand Sea Amulet of Ardor;
+Sand Sea Amulet of Blusters;
+
+| rings =
+Kobra Ringlet of Amity;
+Kobra Ringlet of Mettle;
+Sand Sea Ring of Ardor;
+Sand Sea Ring of Ashes;
+Sand Sea Ring of Emptiness;
+
+| wands =
+Durvish Armaments of Unrest;
+Dutiful Durvish's Armaments;
+Kobra Sceptor of Amity;
+Rubal Bow of Eradication*F2;
+
+| decks =
+Sand Sea Hand of Hardiness;
+
+| items =
+Mirage Canyon Combat Theme*F2;
+Mirage Canyon Theme 1;
+Mirage Caravan Theme*F2;
+Mirage Chronoverge Com Theme;
+Mirage City Tense Theme;
+Mirage Den of Thieves Theme;
+Mirage Desert Canyons Theme;
+Mirage Desert Combat Theme;
+Mirage Jungle Theme;
+Mirage Nomad Theme;
+Mirage Palace Theme*F2;
+Mirage Serpent Theme;
+
+| cards =
+Age of Reckoning;
+Astraphobia;
+Balefrost;
+Combustion;
+Counterforce;
+Death Troll;
+Fiery Colossus;
+Frostfang*F3*WMV;
+Icespear;
+Lifespear;
+Magma Colossus;
+Saga of Heroes;
+Shock Colossus;
+Stormspear;
+Wings of Fate*F2;
+Yellow Troll;
+
+| reagents =
+Aether*F8*WMV;
+Agave Leaves*F4*WMV;
+Agave Nectar*F2*WMV;
+Amber*F2;
+Amber Dust*F7*WMV;
+Aquamarine*F7*WMV;
+Astral Shard*F3*WMV;
+Braided Vine;
+Fire Blossom*F2*WMV;
+Fish Fin*F2*WMV;
+Glass Sliver*F2*WMV;
+Golden Pearl*F8*WMV;
+Iridium;
+Merle's Whisker;
+Mithril*F6*WMV;
+Orichalcum;
+Scales*F8*WMV;
+Silver*F4*WMV;
+Stardust;
+Steel*F6*WMV;
+Sunstone*F6*WMV;
+Titanium;
+Tungsten*F9*WMV;
+Turmeric;
+Turquoise*F5*WMV;
+Vine*F2*WMV;
+
+| spellements =
+
+| snacks =
+Antheneum Delight*F2*WMV;
+Beast Wellington*F3*WMV;
+Beetle Cream Soda;
+Chalupacabra*F4*WMV;
+Decimatoes;
+Eye Candy*F5*WMV;
+Fern Jelly;
+Frosty Sugar Cubes;
+Green Tomato;
+Hard Boiled Beetle Eggs*F3*WMV;
+Hot Cross Buns*F3*WMV;
+Jolly Rancher;
+Mustachios;
+Satyr Chow*F4*WMV;
+Ships 'n' Queso*F4*WMV;
+Veggie Juice*F5*WMV;
+
+| jewels =
+Chastisement Opal;
+Lustrous Damage Onyx +23;
+Polished Accurate Jade +10%;
+Polished Accurate Sapphire +10%*F2;
+Polished Blocking Citrine +11;
+Polished Damage Amethyst +21;
+Polished Defense Amethyst +41;
+Polished Defense Peridot +41*F2*WMV;
+Polished Defense Peridot +42;
+Polished Health Opal +88;
+Polished Health Opal +91;
+Polished Health Opal +92;
+Polished Health Opal +95*F2*WMV;
+Polished Mana Opal +37*F4*WMV;
+Polished Mana Opal +39;
+Radical Opal;
+Renew Opal;
+Shiny Damage Jade +26;
+Shiny Defense Citrine +50;
+Shiny Defense Ruby +52;
+Shiny Defense Onyx +52;
+Shiny Health Opal +111;
+Shiny Health Opal +112;
+Shiny Health Opal +113*F2;
+Shiny Health Opal +114;
+Shiny Mana Opal +45*F2*WMV;
+Shiny Mana Opal +46;
+Shiny PIP Hematite +2;
+
+| pins =
+
+| pets =
+MaCaw*CR*F2*WMV;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears*F2;
+Baby Carrots*F2;
+Bell Pepper*F4*WMV;
+Blue Huckleberries*F3*WMV;
+Boiled Peanuts*F6*WMV;
+Bread Fruit Bush;
+Cornbread Fruit Bush*F3;
+Couch Potatoes*CR*F3;
+Deadly Helephant Ears*CR;
+Face Palm;
+Fickle Pickle;
+Fiery Boom Shroom;
+Fish on a Vine*F5*WMV;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Golden Couch Potatoes*F2*WMV;
+Grapes of Wrath*CR*F2*WMV;
+Green Snow Apples;
+Honey Bee Plant*F3*WMV;
+Ivy League*CR*F2;
+Laugh-O-Dil;
+Maelstrom Snap Dragon;
+Missile Toe;
+Orange Bell Pepper*CR;
+Pink Huckleberries*F2;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Red Bell Pepper;
+Red Couch Potatoes*F2;
+Red Huckleberries*F3*WMV;
+Snap Dragon*F2;
+Sour Fickle Pickle;
+Sword Fern*CR;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

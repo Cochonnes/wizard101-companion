@@ -1,0 +1,223 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,520
+| crecla = Golem
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Myth;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gear Spinner;
+
+| world = Marleybone
+| location = Royal Museum
+| subloc1 = Counterweight East
+| descrip =
+
+| speech =
+:''"It's too bad I have to mess up your pretty little hat, but I do."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Marleybone
+| tome description =
+He and his toad friends sometimes take long walks on the ocean.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Myth Damage per Pip.
+
+| casts =
+Myth Shield;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Storm Serpent (155-195);
+Storm Elf (30+210);
+Lightning Bats;
+Storm Shark;
+Squall Wyvern;
+Kraken;
+Colossus (Storm);
+Tempest;
+Troll;
+Banshee;
+
+| quests =
+Stolen Away;
+
+| gold =
+37 - 59;
+
+| hats =
+Cap of the Unicorn;
+Cat Burglar's Cap;
+Jinxed Hat;
+Shaman's Hat;
+Silent Canine Cowl;
+Sprockets' Hat of the Feline*F3*WMV;
+Sprockets' Invigorating Hat*F3*WMV;
+Sprockets' Urbane Cowl*F4*WMV;
+Sprockets's Cultured Cap*F4*WMV;
+Superstitious Canine Cowl;
+Winter Canine Cowl;
+
+| robes =
+Alluring Robes;
+Artificial Robe;
+Cloak of Clarity;
+Dexterous Vest*F2*WMV;
+Feline's Invigorating Robe;
+Feline's Whimsical Robe;
+Garment of the Supreme*F3*WMV;
+Polished Garments;
+Robe of the Bubble;
+Sprockets' Equivalent Robe*F4*WMV;
+Sprockets' Vestment*F2*WMV;
+Sprockets's Robe*F4*WMV;
+Sprockets's Victorian Vest*F2;
+Tunic of Symmetry;
+Tunic of the Clever;
+Vest of Predominance;
+Vestment of Expertise;
+Vestment of the Sun;
+
+| boots =
+Admirable Shoes;
+Bewitching Shoes;
+Boots of the Nucleus;
+Exacting Boots;
+Exquisite Slippers;
+Footwraps of Anguish;
+Magnificent Boots*F2;
+Premium Footwraps;
+Sandals of Delusion*F2*WMV;
+Shoes of the Devoted*F2*WMV;
+Slippers of Predominance;
+Slippers of the Worrier;
+Sprockets' Charming Shoes*F2*WMV;
+Sprockets' Enticing Boots*F3*WMV;
+Sprockets' Marvelous Boots*F3*WMV;
+Sprockets' Shoes of Ideals*F3*WMV;
+Sprockets' Slippers*F3*WMV;
+
+| athames =
+Sprockets' Basking Athame*F2*WMV;
+Watchman's Athame;
+
+| amulets =
+Sprockets' Amulet;
+
+| rings =
+Ring of Clarity*F2*WMV;
+Ring of Effect;
+Ring of the Unicorn*F2*WMV;
+Sprockets' Medicinal Ring*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Angled Gravemarker;
+Crossbone Gravestone;
+Double Wall Lamp;
+Jerrycan*F3*WMV;
+Marleybone Theme 3*F3*WMV;
+Marleybonian Pilot Painting*F2*WMV;
+Park Bench (Inactive)*F2*WMV;
+
+| cards =
+Dryad;
+Heck Hound;
+Ice Wyvern;
+Sandstorm;
+Satyr;
+Spirit Armor;
+
+| reagents =
+Bronze Gear*F4*WMV;
+Copper*F2;
+Iron*F2*WMV;
+Lead*F3;
+Mist Wood;
+Nickel*F2*WMV;
+Scrap Iron;
+Spider Silk*F3*WMV;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Gummy Bloodbat*F3*WMV;
+Medium Fish*F3*WMV;
+Redskin Peanut;
+Square Watermelon;
+Stinky Cheese*F2*WMV;
+Wheat Cracker;
+
+| jewels =
+Blizzard Sapphire;
+Chipped Accurate Citrine +3%;
+Chipped Accurate Onyx +3%;
+Chipped Damage Onyx +8;
+Chipped Defense Ruby +15;
+Chipped Defense Jade +15;
+Chipped Health Opal +25;
+Clear Path Opal;
+Flawed Damage Sapphire +10;
+Flawed Defense Amethyst +17*F2*WMV;
+Flawed Defense Citrine +17;
+Flawed Defense Onyx +17;
+Flawed Defense Peridot +17;
+Flawed Health Opal +26;
+Flawed PIP Opal +3%;
+Myth-Proof Peridot;
+Super-Pass Opal;
+Wisp Bonus Opal;
+Wyldfire Ruby;
+
+| pins =
+
+| pets =
+Rat Magician*F3*WMV;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,204 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 3,570
+| crecla = Demon
+| crecla2 = Elephant
+| school = Fire
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+25% Ice, Storm;
+
+| incresist =
+40% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Arachnite Creeper;
+Arachnite Creeper;
+Arachnite Creeper;
+
+| world = Wysteria
+| location = Pegasus Place
+| subloc1 = Tower of the Helephant
+| descrip =
+This Helephant has been bidden by {{Link|Creature|Lyon Lorestriker}} to help him protect the Heart of the Helephant.
+
+| speech =
+:''"Greetings oh unbidden visitor. I have no desire to fight you, but I am enthralled to the sorcerer Lyon Lorestriker."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+As if fighting for the evil sorcerer who enthralled him wasn't bad enough, this poor pachyderm also has to do Lyon Lorestriker's laundry.
+
+| extract class =
+Elephant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Smoke Screen;
+Fireblade;
+Fire Trap;
+Fire Shark;
+Meteor Strike;
+Scald;
+Phoenix;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Natural Attack (Fire 100x);
+
+| quests =
+The Helephant's Heart;
+
+| gold =
+141 - 167;
+
+| hats =
+Cap of Accord;
+Facade of Fairness;
+Insightful Topper;
+Shroud of Solitude;
+Storyteller's Cap;
+Synthesis Cover;
+Thundercloud Coif;
+Timeless Topper;
+Vital Headdress;
+
+| robes =
+Devoted Vestment;
+Jolted Jerkin;
+Reckless Raiment;
+Salgio's Tinder Cloak;
+Tragic Tunic;
+Tundric Tunic;
+Whimsical Surcoat;
+
+| boots =
+Brimstone Boots;
+Frostbit Footguards;
+Natural Boots;
+Polar Boots;
+Rime Runners;
+Shoes of Cold Intent;
+Snowfall Striders*F2;
+Tolerant Boots;
+Virtue Shoes*F2;
+Wraps of Rapport*F2;
+
+| athames =
+Dagger of Typhoons;
+Dirk of Disorder*F2;
+Edge of Essence*F3*WMV;
+
+| amulets =
+Jewel of the Feint*F4;
+Wyldfire Collar*F4;
+
+| rings =
+Circle of Life*F2;
+Eye of Insight*F2;
+Majestic Signet;
+Ring of Rare Origins;
+Typhoon Band;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Balefrost*F3;
+Banshee;
+Cycle of Life;
+Darkwind;
+Donate Power;
+Doom and Gloom*F2;
+Evil Snowman;
+Meteor Strike;
+Minotaur*F3*WMV;
+Mutate Snowman (Fire)*F2;
+Mutate Snowman (Storm)*F3;
+Precision;
+Sanctuary;
+Sniper*F2;
+Sunbird;
+Weakness;
+Wyldfire*F4;
+
+| reagents =
+Brass*F2;
+Cobalt*F3;
+Steel;
+Tin;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Delicious Cookie;
+Flapjacks*F2*WMV;
+Glowing Star Fruit*F2;
+Glowing Taffy*F3;
+Strawberry Cupcake;
+Submarine Sandwich*F2;
+
+| jewels =
+Availing Hands Citrine;
+Dull Defense Peridot +28;
+Enfeeble Opal;
+Infallible Talent Opal;
+Ninja Pig Opal;
+No Pain, No Gain Onyx;
+Opaque Blocking Peridot +8;
+Opaque Blocking Sapphire +8;
+Opaque Damage Citrine +17;
+Plain Piercing Citrine +3%;
+Plain Piercing Ruby +3%;
+Power Nova Citrine;
+Reshuffle Citrine;
+Rugged Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2;
+Maelstrom Snap Dragon*F2;
+Pink Dandelion*CR*F3;
+Silver Trumpet Vine*CR;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

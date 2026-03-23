@@ -1,0 +1,216 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 12,120
+| crecla = Undead
+| school = Storm
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Avalon
+| location = The Wyrd
+| subloc1 = Tomb of the Nameless
+| lootchest = Nameless Knight's Chest
+| descrip =
+
+| speech =
+:'''Nameless Knight:''' ''"Who are you, child? A Wizard playing at being a Knight? Your quest is at an end. You've found the Sword of Kings... and your demise! Ahhh!"''
+:'''Lady of the Lake:''' ''"Malory! This blessed weapon is not for the likes of you! I may be trapped, but I am not powerless. The Sword returns with me! Your crimes will not be forgiven, nor your name ever remembered!"''
+:'''Nameless Knight:''' ''"You! You did this, you thrice-doomed cur!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Avalon
+| tome description =
+A knight has no name.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Windstorm;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 175-350-510);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Sirens;
+Tempest;
+
+| quests =
+Paths of Sorrow;
+Haunted;
+
+| gold =
+70 - 79;
+
+| hats =
+Chaos Lord's Helm*F6*WMV;
+Thunderstruck Shroud*F4*WMV;
+
+| robes =
+High Court Robes*F8*WMV;
+Horned One's Tunic*F4*WMV;
+
+| boots =
+Deep Is The Well Waders*F9*WMV;
+Guardian's Shoes*CR*F2*WMV;
+Hundred Year Bridge Walkers*F5*WMV;
+
+| athames =
+Grim Guardian's Dirk;
+Queen's Ever Sharp Wit*F5*WMV;
+
+| amulets =
+Knight of the Wyrd's Pendant*F5*WMV;
+Seely Wizard's Torc*F2;
+
+| rings =
+Crystal Cave Rose*F8*WMV;
+
+| wands =
+Staff of the Wildgrave*F2*WMV;
+Stag-Horned Staff*F4*WMV;
+
+| decks =
+Antikythera Deck*F14*WMV;
+Beleno's Chivalric Gallery*F4*WMV;
+
+| items =
+Avalon Glorious Theme*F5*WMV;
+Avalon Haunting Theme*F2;
+King Artorius Shrine;
+Meowiarty Archmage Duel*CR;
+Meowiarty Exalted Duel*CR*F2*WMV;
+Rattlebones Exalted Duel*CR;
+Zeus Exalted Duel*CR*F2;
+
+| cards =
+Amplify*F6*WMV;
+Berserk*F4*WMV;
+Cleanse Charm*F5*WMV;
+Colossal*F3*WMV;
+Disarm*F7*WMV;
+Empowerment*F4*WMV;
+Enfeeble (-3);
+Extraordinary*F3*WMV;
+Fire Dragon*F3*WMV;
+Fortify*F2*WMV;
+Frost Giant*F2;
+Gargantuan;
+Infallible*F2*WMV;
+Insane Bolt*F6*WMV;
+Mend*F4*WMV;
+Orthrus;
+Power Nova*F2;
+Rebirth;
+Scarecrow*F3;
+Storm Lord*F2*WMV;
+Supercharge*F4*WMV;
+Unstoppable*F2;
+Vengeance*F6*WMV;
+Wild Bolt*F6*WMV;
+
+| reagents =
+Amber Dust*F2;
+Black Lotus*F2;
+Brass;
+Bronze*F3;
+Cat Tail*F4*WMV;
+Cobalt*F3*WMV;
+Deep Mushroom*F2*WMV;
+Frost Flower*F3*WMV;
+Lava Lily*F2;
+Merle's Whisker*F2;
+Mist Wood*F2*WMV;
+Ore*F3;
+Parchment*F5;
+Pearl*F3*WMV;
+Red Mandrake*F2;
+Shell*F2*WMV;
+Steel*F3;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Bogwich*F2;
+Buttered Bread;
+Deviled Eggs*F2;
+Golden Grapes;
+Gummy Wyrms*F2;
+Pigeon Pie;
+Roasted Chickpeas;
+Shiny Tomato*F2;
+Treant Bark*F2*WMV;
+Uni-Corn;
+
+| jewels =
+Clear Blocking Hematite +10;
+Clear Critical Jade +10;
+Clear Critical Onyx +10;
+Clear Damage Citrine +19;
+Clear Damage Ruby +19;
+Clear Damage Sapphire +19;
+Detonate Ruby;
+Disarmament Amethyst;
+Enfeeble Amethyst;
+Life Trap Jade (Triangle);
+Mass Triage Jade;
+Spirit Trap Citrine (Triangle);
+Tower Shield Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Pink Huckleberries;
+Red Huckleberries*F2;
+
+| mounts =
+
+| spells =
+
+}}

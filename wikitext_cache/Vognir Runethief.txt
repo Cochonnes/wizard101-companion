@@ -1,0 +1,134 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,760
+| crecla = Raven
+| school = Myth
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Storm;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Winterwing Guard;
+
+| world = Grizzleheim
+| location = Mirkholm Keep
+| subloc1 = Vognir's Cave
+| descrip =
+Vognir is a warlock with a habit of stealing other peoples' Spells.  Wizards must defeat him in a solo duel, in order to earn their level 35 Spell.
+
+| speech =
+:''"Who dares?! Did that fool Erik Wyrdrune send you? No matter... I'll send you back where you came from!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Myth Damage per Pip.
+
+| casts =
+Storm Shield;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Humongofrog;
+Snow Serpent;
+Sunbird;
+Storm Shark;
+
+| quests =
+Thief of Spells;
+
+| gold =
+50 - 102;
+
+| hats =
+Cap of Cessation*F2;
+Hoarfrost Hat;
+Veil of the Apologue;
+
+| robes =
+Drape of the Deep Blue Sea;
+Garment of Generality;
+Postulant's Smock*F2;
+Raiment of Lamentation;
+Winterweave Coat;
+
+| boots =
+Barbarian's Daring Boots;
+Footwraps of the Icedrake*F4*WMV;
+
+| athames =
+Mending Athame*F2*WMV;
+
+| amulets =
+
+| rings =
+Frostbright Loop;
+Living Loop*F3*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Jar of Bat Wings*F2;
+
+| cards =
+Cloak;
+Tough;
+
+| reagents =
+Ectoplasm*F3*WMV;
+Leather Straps*F2;
+Pyrite;
+Tin;
+
+| spellements =
+
+| snacks =
+Chocolate Peanut;
+Glowing Rock Candy*F2*WMV;
+Golden Apple;
+Lollipop;
+Moon Pie;
+Sliced Watermelon;
+Wafer Biscuit;
+
+| jewels =
+Chipped Defense Peridot +13;
+Weakness Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Bread Fruit Bush;
+Couch Potatoes*CR;
+Evil Snow Peas;
+
+| mounts =
+
+| spells =
+
+}}

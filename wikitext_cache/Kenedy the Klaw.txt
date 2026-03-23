@@ -1,0 +1,173 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,200
+| crecla = Cat
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Storm;
+
+| incresist =
+30% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Klaw Brother;
+
+| world = Marleybone
+| location = Chelsea Court
+| subloc1 = Kenedy's Hideout
+| descrip =
+Myth Wizards must defeat this Boss on their Level 28 Quest, {{Link|Quest|Mything Persons}}.
+
+This Boss is repeatable if re-entering location before completing the quest.
+
+'''Note:''' despite his Boss rank, this creature only has mob rank boost and resist values.
+
+| speech =
+:''"What, a wizard!? You must be here to take back this little lady.  We hear seraphs can turn iron into gold. Yous gonna have to fight us for her."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals ~85 Ice Damage per Pip.
+
+| casts =
+Storm Shield;
+Weakness;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Ghoul;
+Evil Snowman;
+Fire Elf (50+210);
+Sunbird;
+
+| quests =
+Mything Persons;
+
+| gold =
+18 - 34;
+
+| hats =
+Cap of the Supreme;
+Comedian's Hat;
+Enticing Cowl;
+Grandiose Headwraps*F2;
+Hat of Excellence;
+Opportunists' Cap;
+
+| robes =
+Affable Cloak;
+Charming Garment;
+Comedian's Robe;
+Debonair Garments;
+Distinguished Robe*F2;
+Dramatic Uniform;
+Garment of Preference;
+Obligatory Cloak;
+Robe of Paramount*F4;
+Robe of the Aristocrat;
+Robe of the Exceptional*F3;
+Urbane Robe*F3;
+Vest of Predominance*F3;
+
+| boots =
+Boots of Fabrication;
+Boots of the Undisturbed;
+Cat Burglar's Shoes;
+Crackling Boots;
+Distinct Slippers;
+Halcyon's Shoes;
+Jolting Boots;
+Sandals of Dedication;
+Shoes of Certainty;
+Shoes of Inclination;
+Slippers of Grief;
+Slippers of Tranquility*F4;
+
+| athames =
+Dirk of Nobles;
+Fink's Stiletto;
+Graceful Stiletto;
+
+| amulets =
+
+| rings =
+Ring of Rejuvenation;
+
+| wands =
+
+| decks =
+
+| items =
+Short Roof Vent;
+
+| cards =
+Cyclops;
+Dryad;
+Fire Trap;
+Giant;
+Ice Trap;
+Sandstorm;
+Sniper;
+
+| reagents =
+Copper*F8;
+Iron*F7;
+Lead*F5;
+Leather Straps*F23;
+Nickel*F4;
+Tin*F8;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn*F6;
+Medium Fish*F5;
+Redskin Peanut*F8;
+Square Watermelon*F3;
+Stinky Cheese*F3;
+Wheat Cracker*F7;
+
+| jewels =
+Banshee Onyx*F2;
+Cyclops Peridot*F2;
+Evil Snowman Sapphire;
+Flawed Accurate Opal +2%*F3;
+Flawed Damage Opal +5;
+Flawed Health Opal +29;
+Flawed Health Opal +30;
+Healer Opal;
+Locust Swarm Citrine;
+Storm Shark Amethyst*F2;
+Storm-Proof Amethyst;
+Sunbird Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,302 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 17,135
+| crecla = Frog
+| school = Moon
+| school2 = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+
+| criticalblock =
+597;
+
+| outpierce =
+28%;
+
+| outboost =
+132%;
+
+| incboost =
+30% Life;
+
+| incresist =
+37% Fire, Ice, Storm, Myth, Balance, Shadow;
+67% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Arcane Toad (Star-Storm, Standard);
+
+| world = Wallaru
+| location = The Dreaming
+| subloc1 = Freddie's Domain (Standard)
+| lootchest = Freddie Kroaker's Chest (Standard)
+| descrip =
+For the purpose of drops, Freddie Kroaker is considered a Boss. All drops are recorded on this page.
+*For the Challenge version of this battle, see {{Link|Creature|Freddie Kroaker (Challenge)}}.
+*{{Link|NPC|Lila}} will appear after the duel.
+
+| speech =
+:'''{{Link|NPC|Freddie Kroaker}}''': ''"You're here. And just in time. At last, my true dream is complete."''
+:'''{{Link|NPC|Judge Veg}}''': ''"Freddie, what have you made?"''
+:'''Freddie Kroaker''': ''"I recreated one of the lost creatures, dried up and depleted with the Dreaming... the one-time scourge of Wallaru's depths... ...The Juggernaut Crab! Soon, it will live, imbued with the hatreds of Wallaru that I have fostered, the Malus of generations, a living battering ram of toxic soul stuff! With it, I will tear down the Great Barrier and flood all the Spiral in the Dreaming. Then, truly, at long last, we will be unified in mind and possibility. We will be the First World REBORN!"''
+
+| cheatnotes =
+'''Freddie Kroaker''':
+*{{Icon|Late}} ''"One, two, I'm coming for you!"'' - At the beginning of the first Round, or if a Wizard joins late, Freddie Kroaker will cast a Shadow Spell that applies a Dispel Charm of the Wizard's school on each Wizard, and then place a 'Nightmare Prone' Stun Shield on a random Wizard.
+*{{Icon|Round}} ''"One, two, here's a nightmare for you!"'' - At the end of each Round, if a Wizard has the 'Nightmare Prone' mark, Freddie Kroaker casts one of the following Spells on the marked Wizard:
+**{{Link|Spell|Call of Khrulhu}}
+**{{Link|Spell|Monster Mash (Tier 5a)}}
+**{{Link|Spell|Shift Grey Wolf}}
+**{{Link|Spell|Winged Sorrow}}
+*{{Icon|Blade}} ''"Let the malus grow! Let it feed my beast!"'' - At the beginning of every second Round, Freddie Kroaker casts a Moon version of Balanceblade that says "GROWTH".
+*{{Icon|Damage}} ''"It lives! My Juggernaut Crab of Malus lives! The Great Barrier will fall!"'' - At the end of each Round, if Freddie Kroaker has 3 "GROWTH" Charms, he will cast a Shadow version of Skeletal Dragon that deals 40% max Health Damage on all Wizards.
+**{{Link|Spell|Impair}} or {{Link|Spell|Enfeeble}} cannot be used to counter this cheat
+*{{Icon|Heal}} ''"This better not be love conquering all!"'' - If a Wizard casts a Healing Spell, a positive Healing Charm, a Healing Global, or an outgoing Healing Aura, then Freddie Kroaker will cast a version of Enfeeble that removes all Charms from himself, and a version of Cleanse Ward that removes all Wards (including the 'Nightmare Prone' mark) from the caster.
+**{{Link|Spell|Aegis}} can be used to prevent removal.
+*{{Icon|All Friends (Squared)}} ''"Three, four, we've only started our war!"'' - If a Wizard casts an All Allies Spell, including Living Nightmare, Freddie Kroaker will cast a Shadow Spell that applies a Dispel Charm of the Wizard's school on each Wizard.
+**Monstrology minions of Astral or Shadow schools will not receive a Dispel.
+
+'''Arcane Toad (Star-Storm)''':
+*{{Icon|Damage}} ''"One, two, Freddie's not done with you!"'' - If Freddie Kroaker is targeted or an All Enemies Spell is used, Arcane Toad (Star-Storm) will give all Wizards a Living Nightmare card:
+**{{GivesSpell|size = x150px|Living Nightmare}}
+**This cheat can still be cast even if Freddie Kroaker is defeated.
+
+| spellnotes =
+
+| casts =
+Brace;
+Virulent Plague;
+Deathblade (+40%);
+Doom and Gloom;
+Banshee (Tier 3b);
+Deer Knight (Tier 3b);
+Lord of Night (Tier 3a);
+Vampire (Tier 3b);
+Monster Mash (Tier 3a);
+Dr. Von's Monster;
+
+| quests =
+Freddie's Dread;
+The Final Nightmare;
+
+| dropnotes =
+Freddie Kroaker (Standard) is guaranteed to drop:
+*2-3 Dream Water Reagents
+*8-11 Path B Treasure Cards and Spellements from Karamelle, Lemuria, Novus, and Wallaru 
+
+| gold =
+11 - 62;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+Bold Dream Reaver Ring*F3*WMV;
+Bold Dream Warper Ring*F6*WMV;
+Cruel Dream Reaver Ring*F6*WMV;
+Cruel Dream Warper Ring*F4*WMV;
+Deft Dream Reaver Ring;
+Deft Dream Warper Ring*F7*WMV;
+Fabled Dream Reaver Ring;
+Fabled Dream Warper Ring*F6*WMV;
+Fell Dream Reaver Ring*F5*WMV;
+Fell Dream Warper Ring*F3*WMV;
+Fervid Dream Reaver Ring;
+Fervid Dream Warper Ring*F3*WMV;
+Fierce Dream Reaver Ring*F3*WMV;
+Fierce Dream Warper Ring*F6*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Banshee (Tier 2b)*F10*WMV;
+Blood Bat (Tier 2b)*F3*WMV;
+Cyclops (Tier 2b)*F9*WMV;
+Dark Sprite (Tier 2b)*F5*WMV;
+Evil Snowman (Tier 2b)*F3;
+Fire Cat (Tier 2b)*F4*WMV;
+Fire Elf (Tier 2b)*F9*WMV;
+Frost Beetle (Tier 2b)*F5*WMV;
+Ghoul (Tier 2b)*F5*WMV;
+Imp (Tier 2b)*F3*WMV;
+Leprechaun (Tier 2b)*F6*WMV;
+Lightning Bats (Tier 2b)*F5*WMV;
+Locust Swarm (Tier 2b)*F8*WMV;
+Nature's Wrath (Tier 2b)*F7*WMV;
+Scarab (Tier 2b)*F9*WMV;
+Scorpion (Tier 2b)*F4*WMV;
+Snow Serpent (Tier 2b)*F2*WMV;
+Storm Shark (Tier 2b)*F8*WMV;
+Sunbird (Tier 2b)*F5*WMV;
+Thunder Snake (Tier 2b)*F6*WMV;
+Troll (Tier 2b)*F5*WMV;
+
+| reagents =
+Dream Water @ 2 Dream Water*F36*WMV;
+Dream Water @ 3 Dream Water*F24*WMV;
+
+| spellements =
+Barbarian's Saga*F13*WMV;
+Blast Off!*F21*WMV;
+Bunyip's Rage*F15*WMV;
+Count Croakula*F11*WMV;
+Dark & Stormy*F20*WMV;
+Deathly Depths*F14*WMV;
+Drop Bear Fury*F20*WMV;
+Freeze Ray*F17*WMV;
+Glimpse of Infinity*F13*WMV;
+Gravestorm*F17*WMV;
+Grim Reader*F16*WMV;
+Grrnadier*F16*WMV;
+Improbable Gaze*F15*WMV;
+Lord of the Jungle*F10*WMV;
+Mockenspiel*F19*WMV;
+Old One's Endgame*F18*WMV;
+Phantasmania!*F20*WMV;
+Rainbow Serpent*F23*WMV;
+S'more Machine*F12*WMV;
+Scales of Destiny*F16*WMV;
+Scion of Balance;
+Scion of Fire;
+Shatterhorn*F16*WMV;
+Snack Attack*F15*WMV;
+Sound of Musicology*F15*WMV;
+Starspawn*F18*WMV;
+Tatzlewurm Terror*F15*WMV;
+Tree of Strife*F9*WMV;
+Wobbegong Frenzy*F18*WMV;
+Zand the Bandit*F17*WMV;
+
+| snacks =
+
+| jewels =
+Flawless Critical Amethyst +23*F5*WMV;
+Flawless Critical Amethyst +24*F6*WMV;
+Flawless Critical Citrine +23*F4*WMV;
+Flawless Critical Citrine +24;
+Flawless Critical Jade +23*F3*WMV;
+Flawless Critical Jade +24*F5*WMV;
+Flawless Critical Onyx +23*F9*WMV;
+Flawless Critical Onyx +24*F3*WMV;
+Flawless Critical Peridot +23*F3*WMV;
+Flawless Critical Peridot +24*F3*WMV;
+Flawless Critical Ruby +23*F3*WMV;
+Flawless Critical Ruby +24*F3*WMV;
+Flawless Critical Sapphire +23;
+Flawless Critical Sapphire +24*F2*WMV;
+Polished Piercing Amethyst +6%*F2*WMV;
+Polished Piercing Citrine +6%;
+Polished Piercing Jade +6%*F8*WMV;
+Polished Piercing Onyx +6%;
+Polished Piercing Peridot +6%*F3*WMV;
+Polished Piercing Ruby +6%*F4*WMV;
+Polished Piercing Sapphire +6%*F3*WMV;
+Unearthly Critical Amethyst +42 (Ice);
+Unearthly Critical Amethyst +51 (Myth);
+Unearthly Critical Citrine +42 (Ice);
+Unearthly Critical Citrine +44 (Life);
+Unearthly Critical Citrine +51 (Myth)*F2*WMV;
+Unearthly Critical Jade +42 (Ice);
+Unearthly Critical Jade +44 (Life);
+Unearthly Critical Jade +50 (Fire);
+Unearthly Critical Jade +54 (Storm)*F3*WMV;
+Unearthly Critical Onyx +42 (Ice);
+Unearthly Critical Onyx +44 (Life)*F3;
+Unearthly Critical Onyx +51 (Myth);
+Unearthly Critical Onyx +54 (Storm);
+Unearthly Critical Peridot +42 (Ice);
+Unearthly Critical Peridot +44 (Life)*F2;
+Unearthly Critical Peridot +54 (Storm);
+Unearthly Critical Ruby +44 (Life)*F2;
+Unearthly Critical Ruby +54 (Storm);
+Unearthly Critical Sapphire +42 (Ice);
+Unearthly Critical Sapphire +44 (Life);
+Unearthly Critical Sapphire +54 (Storm);
+Unearthly Damage Amethyst +9% (Ice);
+Unearthly Damage Amethyst +11% (Storm);
+Unearthly Damage Citrine +9% (Ice);
+Unearthly Damage Citrine +10% (Myth);
+Unearthly Damage Jade +9% (Ice);
+Unearthly Damage Jade +9% (Life);
+Unearthly Damage Jade +10% (Myth);
+Unearthly Damage Jade +11% (Storm);
+Unearthly Damage Onyx +10% (Myth);
+Unearthly Damage Onyx +11% (Death);
+Unearthly Damage Onyx +11% (Storm);
+Unearthly Damage Peridot +10% (Myth)*F5*WMV;
+Unearthly Damage Peridot +11% (Storm);
+Unearthly Damage Ruby +9% (Life);
+Unearthly Damage Ruby +10% (Myth);
+Unearthly Damage Ruby +11% (Storm);
+Unearthly Damage Sapphire +9% (Life);
+Unearthly Damage Sapphire +11% (Storm);
+
+| pins =
+Balance Blocking Pin (150, Ice);
+Balance Blocking Pin (150, Life)*F2;
+Balance Blocking Pin (150, Storm);
+Balance Blocking Pin (160, Ice);
+Balance Blocking Pin (160, Life)*F2;
+Balance Blocking Pin (160, Myth)*F5*WMV;
+Balance Resist Pin (140, Ice);
+Balance Resist Pin (140, Life)*F2;
+Balance Resist Pin (140, Myth)*F6*WMV;
+Balance Resist Pin (140, Storm)*F2*WMV;
+Death Blocking Pin (150, Ice);
+Death Blocking Pin (150, Myth);
+Death Blocking Pin (160, Ice);
+Death Blocking Pin (160, Myth)*F3*WMV;
+Death Resist Pin (150, Myth)*F4*WMV;
+Fire Blocking Pin (150, Storm)*F3*WMV;
+Fire Blocking Pin (160, Life);
+Fire Blocking Pin (160, Storm);
+Fire Mending Pin (140);
+Fire Resist Pin (140, Storm);
+Ice Blocking Pin (150, Myth);
+Ice Blocking Pin (160, Myth);
+Ice Resist Pin (140, Myth)*F5*WMV;
+Life Blocking Pin (150, Storm);
+Life Mending Pin (160);
+Life Resist Pin (140, Storm);
+Myth Blocking Pin (150, Life);
+Myth Resist Pin (140, Life)*F3;
+Storm Blocking Pin (150, Ice);
+Storm Mending Pin (140)*F3*WMV;
+Storm Mending Pin (160);
+Storm Resist Pin (130, Ice);
+Storm Resist Pin (160, Ice);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Freddie Kroaker
+}}

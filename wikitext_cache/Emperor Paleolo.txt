@@ -1,0 +1,294 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,640
+| crecla = Qhat
+| crecla2 = Undead
+| school = Death
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+4%;
+
+| outboost =
+65%;
+
+| incboost =
+15% Life;
+
+| incresist =
+30% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Ancient Qhat Warrior;
+
+| world = Mirage
+| location = Istanboa
+| subloc1 = Snakish Passage
+| descrip =
+
+| speech =
+:''"Meoww... meoww..."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Mirage
+| tome description =
+While not an actual Emperor, he considers himself ruler of selling low-carb Qhat food at high-class prices.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Brace;
+Sacrifice (Death);
+Deathblade (+40%);
+Dark Pact (+30%);
+Feint (+75%);
+Ghoul (180);
+Natural Attack (Death 110-220-330, 80%);
+Lord of Night;
+Vampire (375);
+Wraith (575);
+
+| quests =
+Istanboa Was Catstantinople;
+
+| gold =
+545 - 1,138;
+
+| hats =
+Sand Sea Cowl of Ashes;
+Vizier's Desert Snow Mantle;
+Vizier's Mantle of Smolders;
+
+| robes =
+Zruvan Raiment of Rigor;
+
+| boots =
+Vizier's Shoes of Bustle;
+Zruvan Galesh of Acumen;
+Zruvan Galesh of Fury;
+Zruvan Galesh of Mettle;
+Zruvan Galesh of Rigor;
+
+| athames =
+Kobra Janbiya of Amity;
+Sand Sea Dagger of Ardor;
+Sand Sea Dagger of Hardiness;
+Sand Sea Dagger of Mischief;
+
+| amulets =
+Kobra Choker of Acumen;
+Kobra Choker of Rigor;
+Sand Sea Amulet of Curiosity;
+Sand Sea Charm of Havoc;
+
+| rings =
+Sand Sea Ring of Curiosity;
+Sand Sea Ring of Decorum;
+Sand Sea Ring of Explosion;
+
+| wands =
+Durvish Armaments of Impulse;
+Kobra Sceptor of Demise;
+Rubal Bow of Conflagration;
+Rubal Bow of Eradication;
+
+| decks =
+Kobra Hand of Amity;
+Kobra Hand of Flashfloods;
+Sand Sea Deck of Blusters;
+Sand Sea Deck of Explosion;
+Sand Sea Hand of Emptiness;
+
+| items =
+Mirage Canyon Theme 1;
+Mirage Canyon Theme 2;
+Mirage City Tense Theme*F2*WMV;
+Mirage City Theme;
+Mirage City Theme 2;
+Mirage Desert Canyons Theme*F2;
+Mirage Magic Carpet Theme*F2*WMV;
+Mirage Palace Theme;
+
+| cards =
+Coldiron;
+Combustion;
+Counterforce*F2;
+Crystal Spider;
+Death Troll;
+Elemental Spear;
+Frostfang;
+Katabatic Wind;
+Icebird;
+Mythspear;
+Namaste;
+Nested Fury;
+Rusalka's Wrath;
+Saga of Heroes*F2*WMV;
+Shift*F2*WMV;
+Steel Colossus;
+Stormspear;
+Winged Sorrow*F2*WMV;
+Wings of Fate;
+
+| reagents =
+Aether*F6*WMV;
+Agave Leaves*F5*WMV;
+Agave Nectar*F3*WMV;
+Amber;
+Amber Dust*F2;
+Aquamarine*F6*WMV;
+Astral Shard*F5*WMV;
+Draconium;
+Fire Blossom*F3*WMV;
+Fish Fin*F7*WMV;
+Golden Pearl*F3*WMV;
+Iridium*F2;
+Mithril;
+Orichalcum*F2*WMV;
+Scales*F8*WMV;
+Silver*F9*WMV;
+Stardust;
+Steel*F8*WMV;
+Sunstone*F8*WMV;
+Titanium*F3*WMV;
+Tungsten*F14*WMV;
+Turmeric*F2;
+Turquoise*F3*WMV;
+Vine*F7*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F5*WMV;
+Beetle Cream Soda*F2;
+Bread Fruit Fruit*F2*WMV;
+Chalupacabra*F4*WMV;
+Decimatoes;
+Eye Candy*F4*WMV;
+Frosty Sugar Cubes;
+Hard Boiled Beetle Eggs*F6*WMV;
+Hot Cross Buns*F4*WMV;
+Satyr Chow*F5*WMV;
+Ships 'n' Queso*F4*WMV;
+Veggie Juice;
+
+| jewels =
+Epic Opal;
+Lustrous Accurate Peridot +11%;
+Lustrous Critical Peridot +13;
+Lustrous Critical Ruby +13;
+Lustrous Damage Amethyst +23;
+Polished Accurate Citrine +10%;
+Polished Blocking Citrine +11;
+Polished Blocking Onyx +11;
+Polished Blocking Peridot +11;
+Polished Damage Citrine +21;
+Polished Damage Jade +21;
+Polished Damage Sapphire +21;
+Polished Defense Amethyst +41;
+Polished Defense Citrine +41;
+Polished Defense Jade +42;
+Polished Defense Ruby +41*F2;
+Polished Health Opal +87;
+Polished Health Opal +88;
+Polished Health Opal +92;
+Polished Health Opal +93;
+Polished Health Opal +95;
+Polished Mana Opal +37*F2*WMV;
+Polished Mana Opal +38*F2*WMV;
+Polished Mana Opal +39*F2;
+Radical Opal;
+Reliquary Opal;
+Shiny Blocking Amethyst +16;
+Shiny Blocking Citrine +16;
+Shiny Blocking Hematite +16;
+Shiny Critical Ruby +16;
+Shiny Critical Sapphire +16;
+Shiny Damage Amethyst +26;
+Shiny Damage Hematite +52;
+Shiny Defense Hematite +51;
+Shiny Defense Ruby +51*F2;
+Shiny Defense Sapphire +52;
+Shiny Health Opal +111;
+Shiny Health Opal +113;
+Shiny Mana Opal +47;
+
+| pins =
+
+| pets =
+MaCaw*CR*F3*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears*F2*WMV;
+Baby Carrots*F2;
+Bamboo Shoots;
+Bell Pepper*F3*WMV;
+Blue Huckleberries*F2*WMV;
+Boiled Peanuts*F5*WMV;
+Boom Shroom;
+Boon Tree*CR;
+Bread Fruit Bush*F3*WMV;
+Cornbread Fruit Bush;
+Couch Potatoes*CR*F6*WMV;
+Deadly Helephant Ears*CR*F2*WMV;
+Deadly Ninja Fig;
+Face Palm;
+Fickle Pickle*F2;
+Fish on a Vine*F2*WMV;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Golden Couch Potatoes*F2*WMV;
+Grapes of Wrath*CR*F3*WMV;
+Green Snow Apples;
+Honey Bee Plant;
+Honey Sickle*F3*WMV;
+Ivy League*CR*F3*WMV;
+Key Limes*CR*F2*WMV;
+King Parsley*CR;
+Laugh-O-Dil;
+Maltese Tiger Lily*F2;
+Missile Toe;
+Ninja Fig*CR;
+Orange Bell Pepper*CR;
+Pink Huckleberries*F5*WMV;
+Purple Snow Apples*F2;
+Red Bell Pepper*F2;
+Red Couch Potatoes;
+Red Huckleberries;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Sugar Khrystal*CR*F2*WMV;
+Trumpet Vine;
+White Desparagus;
+White Tiger Lily;
+Yellow Bell Pepper*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

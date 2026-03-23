@@ -1,0 +1,193 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 96,000
+| crecla = 
+| school = Ice
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| shadowslots = 2
+| critical = 576
+
+| criticalblock = 1039
+
+| outpierce =
+
+| outboost =
+166%;
+
+| incboost =
+None;
+
+| incresist =
+44% Fire, Myth;
+64% Ice, Life, Balance, Sun, Moon, Star, Shadow;
+84% Storm, Death;
+
+| outhealing =
+35%;
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Raid
+| location = Cabal's Revenge
+| subloc1 = Fort Revanche
+| badge = Broke the Code
+| descrip =
+Personal Daemon is one of the two Bosses on the top of Fort Revanche in the Cabal's Revenge Raid.
+
+| speech =
+:''"I hope you have extra lives, because I am unbeatable."''
+
+| cheatnotes =
+*''"Ice freezes Storm."'' - If a Wizard casts a Helpful Charm, Personal Daemon will cast {{Link|Spell|Wall of Blades}} or {{Link|Spell|Oni's Destruction}} on all Wizards that clears all positive Charms for 3 -20% damage shields or 3 +15% ice damage traps.
+*''"Ice outlasts Death."'' - If a Wizard casts a Harmful Charm, Personal Daemon will cast {{Link|Spell|Glacial Fortress}} on itself or {{Link|Spell|Jinn's Vexation}} on the casting wizard that clears all negative Charms for 3 -20% damage shields or 3 -10% damage weaknesses.
+*''"Stack overflow"'' - If one of the following effects goes over a certain threshold, the extra effects will be removed.
+**Over 4 Helpful Wards on Wizards.
+**Over 4 Heal over Times on Wizards.
+**Over 4 Damage over Times on Daemon.
+**Over 4 Harmful Wards on Personal Daemon.
+*** traps on Personal Daemon placed as part of his interrupt cycle are ignored for this count
+
+'''Interrupt cycle'''
+Personal Daemon revolves around a interrupt cycle repeating every 5 rounds
+* At the beginning of the first round of the cycle, Personal Daemon will interrupt to remove all harmful wards from itself.
+* At the beginning of the second round of the cycle, Personal Daemon will interrupt to place a cloaked trap on itself.
+** The cloaked trap is a +0% trap of the school corresponding to the school that primarily owes the hanging effect that the hit for the cycle counters
+*** Fire: Damage over Times
+*** Ice: Helpful Wards
+*** Life: Heal over Times
+*** Myth: Harmful Wards
+*** Balance: Pips
+** The Bat Bot minions may change their self-buffing behavior if this trap is removed on the same turn it is placed
+* At the beginning of the third round of the cycle, Personal Daemon will interrupt to place a cloaked trap on itself.
+** The cloaked trap is a +0% trap of the school corresponding to the school of the hit of the cycle
+** Removing this trap on the same turn it is placed will cause Bat Bot minions with shielding capabilities to interrupt cast a -125% damage shield of the school of the hit on the next turn, overriding their default behavior
+* At the beginning of the fourth round of the cycle, Personal Daemon will interrupt to place a cloaked trap on itself.
+** The cloaked trap is a +0% trap of the school corresponding to the school that primarily owes the hanging effect that the hit for the cycle generates
+** All the school/effect pairings noted on turn one are used plus the following new options
+*** Storm: Helpful Charms
+*** Death: Harmful Charms
+*** Shadow: Shadow Pips
+
+*''"Execute background process"'' - At the end of the fifth round of the cycle, Personal Daemon will interrupt to cast one of the following spells based on the self applied traps. All of these spells have 45 additional pierce.
+**A version of {{Link|Spell|Earth Walker}} that deals '''6,666''' Life Damage to all enemies, and removes up to three Damage over Time effects from itself to apply a Damage over Time effect on all enemies dealing '''130''' Life Damage over 3 Rounds.
+**A version of {{Link|Spell|Centaur}} that deals '''6,666''' Life Damage to all enemies, and removes up to five harmful wards from itself to apply a +25% damage charm on itself per trap removed.
+**A version of {{Link|ItemCard|Akori Nirini}} that deals '''6,666''' Fire Damage on all enemies, and removes up to five harmful wards from itself to apply a +30% damage trap on all enemies per harmful ward removed.
+**A version of {{Link|Spell|King Artorius (Fire)}} that deals '''6,666''' Fire Damage on all enemies and removes up to helpful wards from all enemies per shield removed to apply a Heal over Time that restores '''700''' Health over 5 Rounds.
+**A version of {{Link|Spell|King Artorius (Storm)}} that deals '''6,666''' Storm Damage to all enemies, and removes up to three Heal over Time effects from enemies to apply a Heal over Time effect on itself restoring '''300''' Health over 4 Rounds.
+**A version of {{Link|Spell|Leviathan}} that deals '''6,666''' Storm Damage to all enemies, and removes up to three Damage over Time effects from itself to apply a -25% damage weakness on all enemies.
+**A version of {{Link|Spell|Basilisk}} that deals '''6,666''' Myth Damage to all enemies, and removes up to eight helpful wards from enemies to apply a -50% Damage shield on itself per shield removed.
+**A version of {{Link|Spell|Skeletal Pirate}} that deals '''6,666''' Death Damage to all enemies, and removes up three Heal over Time effects from enemies to apply a -50% damage shield on itself per Heal over Time effect removed.
+**A version of {{Link|Spell|Hypothermi-HIYA!}} that deals '''6,666''' Ice Damage to all enemies, and removes 3 pips from all enemies and gives itself 3 pips.
+**A version of {{Link|Spell|Clockwork Spider (355)}} that deals '''6,666''' Balance Damage to all enemies, and removes 3 pips from all enemies and gives itself a shadow pip.
+
+* At any point, if one of Personal Daemon's self placed traps are removed without hitting, by gambit, swap or clear, Personal Daemon will interrupt to skip the rest of the cycle and start the ''"Execute background process"'' phase instantly.
+
+| spellnotes =
+*Casts a version of Freeze Ray that deals 920 Ice Damage for 5 Pips and 2 Shadow Pips.
+
+| casts =
+Iceblade (+40%);
+Mass Ice Trap;
+Empower;
+Frostfeather (Tier 5);
+Blizzard (365);
+Frost Giant (650);
+
+| quests =
+
+| dropnotes =
+All 12 Wizards in the Raid receive the drops, not just the ones within the battle.
+
+| gold =
+
+| hats =
+Unreal Crown of Freezing;
+Unreal Crown of Health;
+Unreal Crown of Impossibility;
+Unreal Crown of Infamy;
+Unreal Crown of Overheating;
+Unreal Crown of Overwriting;
+Unreal Crown of Surging;
+
+| robes =
+Unreal Armor of Freezing;
+Unreal Armor of Health;
+Unreal Armor of Impossibility;
+Unreal Armor of Infamy;
+Unreal Armor of Overheating;
+Unreal Armor of Overwriting;
+Unreal Armor of Surging;
+
+| boots =
+Unreal Wraps of Freezing;
+Unreal Wraps of Health;
+Unreal Wraps of Impossibility;
+Unreal Wraps of Infamy;
+Unreal Wraps of Overheating;
+Unreal Wraps of Overwriting;
+Unreal Wraps of Surging;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Balance Blade Citrine;
+Cleanse Ward Ruby;
+Flawless Blocking Opal +12;
+Flawless Blocking Peridot +23;
+Flawless Blocking Peridot +24;
+Flawless Mana Opal +64;
+Life Blade Jade;
+Spirit Blade Citrine;
+Triage Jade;
+Unearthly Blocking Ruby +52;
+Unearthly Health Peridot +595;
+Unearthly Health Ruby +595;
+Unearthly Health Sapphire +735;
+Unearthly Shadow Hematite +10;
+
+| pins =
+Balance Blocking Pin (160, Fire);
+Death Accurate Pin (100);
+Fire Mending Pin (160);
+Ice Accurate Pin (110);
+Ice Blocking Pin (160, Fire);
+Myth Accurate Pin (100);
+Myth Blocking Pin (150, Fire);
+Myth Resist Pin (140, Fire);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

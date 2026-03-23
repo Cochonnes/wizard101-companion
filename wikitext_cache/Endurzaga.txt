@@ -1,0 +1,242 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 12,320
+| crecla = Djinn
+| school = Myth
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+3%;
+
+| outboost =
+70%;
+
+| incboost =
+15% Storm;
+
+| incresist =
+30% Myth;
+
+| stunable = No
+| beguilable = No
+| minion = Dunes Djinn
+| minion2 = 
+| petbreed = Cave Chameleon
+| world = Mirage
+| location = Rubal Wastes
+| subloc1 = Eastern Wastes
+| descrip =
+
+| cheatnotes =
+*''"You have served your purpose!"'' - At the end of a Round, Endurzaga will randomly cast {{Link|Spell|Draw Power}} on a  Dunes Djinn.
+*''"Pet! Destroy that!"'' - If a Wizard casts a positive ward (i.e. Shields), his Pet Cave Chameleon will cast {{Link|Spell|Pierce}} at the Wizard that received the ward.
+*''"Pet! Shift that back!"'' - If a Wizard hits Endurzaga while a Damage over Time is on him, his Pet, Cave Chameleon, will cast {{Link|Spell|Shift}}, and transfer the remaining ticks to the Wizard.
+
+| spellnotes =
+*Endurzaga's Pet Cave Chameleon can cast Hydra.
+
+| casts =
+Apologue;
+Reliquary;
+Ether Shield (-75%);
+Mythspear (+10%);
+Mythblade;
+Pierce;
+Blinding Light (85%);
+Draw Power;
+Yellow Troll;
+Natural Attack (Myth 115-230-345, 75%);
+Humongofrog (310-370);
+Minotaur (50+520);
+Orthrus (785);
+Medusa (865);
+Hydra;
+
+| quests =
+
+| gold =
+1169 - 1330;
+
+| hats =
+Alkali Kalpak of Fealty;
+Alkali Kalpak of Vibrancy;
+Alkali Kalpak of Withering;
+Alkali Monsoon Kalpak;
+Eerem Headwrap of Pulse;
+
+| robes =
+Alkali Monsoon Armor;
+Alkali Wintertide Armor;
+Vizier's Raiment of Smolders;
+
+| boots =
+Eerem Givehs of Clangor;
+Vizier's Shoes of Bustle;
+
+| athames =
+Eerem Razor of Pulse;
+Istanboa Heatwave Khanjar;
+Kobra Janbiya of Acumen;
+Kobra Janbiya of Amity;
+Sand Sea Dagger of Havoc;
+
+| amulets =
+Istanboa Pendant of Ruin;
+Sand Sea Charm of Hardiness*F2*WMV;
+
+| rings =
+Istanboa Heatwave Signet;
+Sand Sea Ring of Havoc;
+
+| wands =
+Durvish Armaments of Ire;
+Myriarch Tabarzin of Musing;
+Sceptor of Kobra Acumen;
+Scorpion Bow of Answers;
+
+| decks =
+Eerem Spread of Clangor;
+Kobra Hand of Demise;
+Kobra Hand of Fury;
+
+| items =
+Mirage Canyon Combat Theme;
+Mirage Canyon Theme 1;
+Mirage Chronoverge Com Theme;
+Mirage Chronoverge Theme;
+Mirage City Theme;
+Mirage Magic Carpet Theme;
+
+| cards =
+Age of Reckoning;
+Arcticzilla;
+Astraphobia;
+Balefrost;
+Coldiron;
+Combustion*F2*WMV;
+Counterforce*F2*WMV;
+Crystal Spider;
+Frostfang*F2*WMV;
+Mutate Colossus (Fire);
+Mythspear;
+Namaste;
+Shift*F2*WMV;
+Snowball Barrage*F2*WMV;
+Steel Colossus;
+Stone Colossus;
+
+| reagents =
+Aether*F3*WMV;
+Agave Leaves*F4*WMV;
+Agave Nectar*F2*WMV;
+Amber Dust*F5*WMV;
+Aquamarine*F7*WMV;
+Astral Shard*F2*WMV;
+Braided Vine;
+Fire Blossom*F2*WMV;
+Fish Fin*F9*WMV;
+Glass Sliver;
+Golden Pearl*F3*WMV;
+Mithril*F11*WMV;
+Orichalcum;
+Scales*F12*WMV;
+Silver*F7*WMV;
+Stardust*F2*WMV;
+Steel*F3;
+Sunstone*F9*WMV;
+Titanium*F4*WMV;
+Tungsten*F7*WMV;
+Turquoise*F4*WMV;
+Vine*F3*WMV;
+
+| snacks =
+Aztecan Hot Chocolate;
+Beast Wellington*F4*WMV;
+Beetle Cream Soda*F9*WMV;
+Chalupacabra*F5;
+Eye Candy*F3*WMV;
+Fire Passion Fruit;
+Frosty Sugar Cubes;
+Hard Boiled Beetle Eggs*F2;
+High Road Haggis;
+Hot Cross Buns*F6*WMV;
+Jolly Rancher*F2*WMV;
+Mustachios;
+Rhubarbed Wire;
+Satyr Chow*F2*WMV;
+Ships 'n' Queso*F4*WMV;
+Veggie Juice*F7*WMV;
+
+| jewels =
+Epic Opal;
+Lustrous Blocking Jade +13;
+Lustrous Critical Sapphire +13;
+Lustrous Damage Amethyst +23;
+Lustrous Defense Citrine +45;
+Lustrous Defense Jade +45*F2*WMV;
+Lustrous Defense Peridot +45;
+Polished Blocking Amethyst +11;
+Polished Blocking Sapphire +11;
+Polished Damage Ruby +21;
+Polished Damage Sapphire +21;
+Polished Defense Ruby +42*F2*WMV;
+Polished Defense Sapphire +41*F2;
+Polished Health Opal +87;
+Polished Mana Opal +38*F2*WMV;
+Polished Mana Opal +39;
+Shiny Blocking Amethyst +16;
+Shiny Damage Amethyst +26;
+Shiny Damage Peridot +26;
+Shiny Defense Citrine +51;
+Shiny Defense Citrine +52;
+Shiny Defense Hematite +51;
+Shiny Defense Hematite +52;
+Shiny Defense Sapphire +52*F2*WMV;
+Shiny Health Opal +112;
+Shiny Health Opal +113;
+Shiny Health Opal +114*F2;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47;
+
+| pets =
+Cave Chameleon*F2;
+MaCaw*CR;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Bell Pepper;
+Blue Huckleberries*F3*WMV;
+Bread Fruit Bush*F2*WMV;
+Clockwork Flower;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Desparagus (Seed);
+Evil Snow Peas;
+Fickle Pickle;
+Fish on a Vine*F4*WMV;
+Fortune Cookie Tree;
+Golden Couch Potatoes*F4*WMV;
+Green Snow Apples*F2;
+Ivy League*CR*F3*WMV;
+Laugh-O-Dil;
+Maltese Tiger Lily;
+Orange Bell Pepper*CR;
+Pink Huckleberries;
+Queen Crape Myrtle;
+Red Couch Potatoes;
+Red Grapes of Wrath*F2;
+Red Huckleberries*F4*WMV;
+Snap Dragon*F2*WMV;
+Sunion*CR;
+Tiger Lily (Seed);
+Yellow Bell Pepper*F2;
+
+
+| mounts =
+
+| spells =
+
+}}

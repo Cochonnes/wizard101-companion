@@ -1,0 +1,172 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 9,600
+| crecla = Yeti
+| school = Ice
+| masteries =
+Storm;
+
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Rabid Wildclaw (Tier 3);
+Untamed Wildclaw (Tier 3);
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 3)
+| descrip =
+
+| speech =
+:''"You smell like wet bear.  You are the one who defeated Wretched Elexorien and her spawn, Tyrfing?  My master, Eirikur Axebreaker, is not pleased.  I'll rain blows of fury upon you, and snatch your spirit for the great wyrm!"''
+
+| cheatnotes =
+*{{Icon|Trap}} Jokul (Tier 3) removes all [[:Category:Trap Spells|Traps]] that are placed on him.
+:*{{Link|PetAbility|Feinting Spell}} will not trigger this cheat.
+*{{Icon|Damage}} If he is attacked, he will place an Ice Trap on all enemies, then cast Blizzard and Storm Lord.
+
+| spellnotes =
+*Casts a version of Blizzard that includes a secondary spell effect which places a '''+40%''' version of {{Link|Spell|Ice Trap}} on all enemies.
+
+| casts =
+Sleet Storm;
+Vengeance;
+Iceblade (+40%);
+Elemental Blade (Ice-Storm);
+Ice Trap (+35%);
+Blizzard;
+Icezilla (650-730);
+Ice Helephant;
+Colossus (525-605);
+Frost Giant;
+Ice Hound (7 Pip);
+Natural Attack (Ice 233-1,810);
+Kraken;
+Cloud Demon;
+Stormzilla;
+Storm Lord;
+Leviathan;
+
+| quests =
+Hall of the Bear;
+
+| gold =
+143 - 147;
+
+| hats =
+Thought and Memory Helm (Level 40+)*CR;
+Thought and Memory Helm (Level 50+)*CR;
+
+| robes =
+Ravenking's Battle Story Armor (Level 30+);
+Ravenking's Battle Story Armor (Level 50+)*CR;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Nevermore Talon (Level 50+)*CR;
+Raven's Claw of Unkindness (Level 50+)*CR;
+
+| decks =
+
+| items =
+Dewberries;
+Felled Birch Tree*F2;
+Felled Evergreen;
+Leaf-Bare Tree;
+Stumpworm Stump;
+Tanglebrush;
+
+| cards =
+Colossus;
+Frost Giant;
+Orthrus*F2;
+Ra;
+Rebirth;
+Regenerate*F2;
+Satyr*F2;
+Skeletal Dragon;
+Snow Angel;
+Woolly Mammoth;
+
+| reagents =
+Acorn*F2;
+Blood Moss;
+Copper;
+Deep Mushroom;
+Diamond;
+Frost Flower*F2;
+Grendelweed*F2;
+Mist Wood;
+Nickel;
+Nightshade*F2;
+Ore;
+Pyrite;
+Red Mandrake;
+Sandstone;
+Spider Silk*F2;
+Steel;
+Stone Block;
+Tin;
+
+| spellements =
+
+| snacks =
+Caramel Corn;
+Fried Worms;
+Fuzzy Peach Fizz;
+Lime Peel Rickey*F4;
+Peppercorn*F3;
+Pickled Garlic Grubs;
+Pollen Bombs;
+Salmonberry;
+Simple Sugar Pop;
+Spicy Drumstick*F2;
+Sunflower Hearts;
+
+| jewels =
+Cracked Accurate Jade +1%;
+Plain Defense Opal +16;
+
+| pins =
+
+| pets =
+
+| seeds =
+Evil Snow Peas*F3;
+Frozen Fly Trap*F2;
+Snow Apples;
+White Desparagus*F2;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,111 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,750
+| crecla = Wizard
+| school = Fire
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+12% Ice;
+
+| incresist =
+35% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Phantom Kenneth (Tier 2);
+
+| world = Housing Instance
+| location = Playhouse
+| subloc1 = Playhouse (Tier 2)
+| descrip =
+Phantom Olivier (Tier 2) is considered a Boss for the purpose of drops.  All drops from this duel are recorded on this page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Fire Elf (50+210);
+Sunbird;
+Meteor Strike;
+Raging Kraken (Fire);
+Colossus (Fire);
+Heck Hound;
+Leprechaun;
+Cyclops;
+
+| quests =
+The Play's the Thing;
+
+| gold =
+10 - 17;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Dragonflame Torch;
+Dragonhorn Trophy;
+Snapdragon Flowerbed*F2;
+Tall Dragon Vase;
+
+| cards =
+Squall Wyvern;
+
+| reagents =
+Jade;
+Perfect Ruby;
+Sapphire;
+
+| spellements =
+
+| snacks =
+Dragon Fruit;
+Glowing Dragon Fruit;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

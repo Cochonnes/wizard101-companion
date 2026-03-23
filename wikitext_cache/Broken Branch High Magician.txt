@@ -1,0 +1,118 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 6,770
+| crecla = Wizard
+| school = Life
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+113 Any;
+
+| criticalblock =
+382 Any;
+
+| outpierce =
+10%;
+
+| outboost =
+72%;
+
+| incboost =
+20% Death;
+
+| incresist =
+23% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+43% Life;
+
+| outhealing =
+19%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Howling Lands
+| subloc1 = Hideout
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Lifeblade;
+Luminous Weaver (Tier 2b);
+Nature's Wrath;
+Camp Bandit;
+Goat Monk;
+Hunting Wyrm;
+Earth Walker;
+Centaur;
+
+| quests =
+There Won't Be Blood;
+
+| gold =
+42 - 64;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Creepy Footstool*CR;
+Darkmoor Roses*CR;
+Darkmoor Vanity*CR;
+Small Howling Lands Tree*CR;
+
+| cards =
+Lord of Winter;
+Snow Angel;
+Woolly Mammoth;
+
+| reagents =
+Astral Shard;
+Orichalcum;
+Titanium;
+Toffee Bean;
+
+| spellements =
+
+| snacks =
+Bone Fish 'N Harmony;
+Chocolate Crickets;
+Cubby Broccoli;
+Wolfbane Tea;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,298 @@
+{{Stub|verification for the ''"removes Traps"'' cheat note}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 8,400
+| crecla = Boa
+| school = Fire
+| school2 = Ice
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+147 Any;
+
+| criticalblock =
+40 Any;
+
+| outpierce =
+12%;
+
+| outboost =
+40%;
+
+| incboost =
+None;
+
+| incresist =
+15% Fire, Ice;
+
+| outhealing =
+75%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gobblorean Guard (Myth);
+
+| world = Mirage
+| location = Thieves' Den
+| subloc1 = The UnderDen
+| descrip =
+
+| speech =
+:''"Hello, Wizard. I get a bonus today - Ali Baboon's reward for defeating you, and one from {{Link|Creature|Kobra Kommander}} when I bring you back to Istanboa."''
+
+| cheatnotes =
+*{{Icon|Absorb}} ''"Mander Armor!"'' - At the beginning of Round 1, he will place a protected {{Link|Spell|Mander Armor}} on himself.
+*{{Icon|Ice}}{{Icon|Stun}} ''"Freeze!"'' - After using his Ice Natural Attack, he will cast {{Link|Spell|Freeze (80%)}} on all Wizards.
+*{{Icon|Fire}}{{Icon|Curse}} ''"Smokescreen!"'' - After using his Fire Natural Attack, he will place a {{Link|Spell|Smoke Screen (-45%)}} on all Wizards.
+*{{Icon|Damage}}{{Icon|Heal}} ''"Fusion!"'' - At the end of every fifth Round, he will cast {{Link|Spell|Power Link (75+375)}}.
+*{{Icon|Trap}} ''"Countermeasures!"'' - If a Trap is placed on Boa Fett, he will cast an Ice version of Cleanse Ward that removes all Traps from himself and his Minions.
+:*{{Link|Spell|Mass Feint (+75%)}} may trigger this cheat.
+:*{{Link|Spell|Indemnity}} can be used to avoid this cheat.
+*{{Icon|Damage over Time}} ''"Repel!"'' - If a Damage over Time Spell is cast on Boa Fett, he will cast an Ice spell to remove the most recent Damage over Time and transfers it to a random Wizard. This spell doesn't always move the overtime.
+:*This cheat can affect the Heal over Time on him from his Power Link, giving players his Heal over Time.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 120 Fire Damage per Pip, or 105 Ice Damage per Pip, despite the Spell card's 3-Pip maximum description.
+
+| casts =
+Brace;
+Flawless;
+Fireblade;
+Iceblade (+40%);
+Fuel (+35%);
+Ice Trap (+35%);
+Fire Beetle;
+Sunbird (345-405);
+Meteor Strike (355-395);
+Fire from Above;
+Scald (567);
+Raging Bull;
+Efreet (1,000);
+Sun Serpent;
+Natural Attack (Fire 120-240-360, 70%);
+Icebird (297);
+Blizzard (290-330, 80%);
+Abominable Weaver;
+Frost Giant (530);
+Ice Efreet;
+Natural Attack (Ice 105-210-315, 75%);
+
+| quests =
+The Underden;
+
+| gold =
+624 - 721;
+
+| hats =
+Aridian Helm of Dunestorms;
+Eerem Headwrap of Menace;
+Gallant Mottoman Helm;
+Mottoman Heatwave Helm*F2;
+Wayfarer's Fez of Intent;
+
+| robes =
+Aridian Armor of Dunestorms;
+Aridian Armor of Strife;
+Eerem Raiment of Clangor;
+Mottoman Heatwave Uniform;
+Wayfarer's Khalat of Grit;
+
+| boots =
+Eerem Givehs of Pulse;
+Mottoman Runners of Ruin;
+Mottoman Sandspouts Runners;
+Rubal Babouches of Illusions;
+Rubal Babouches of Renewal;
+Wayfarer's Cold Snap Galesh;
+Wayfarer's Galesh of Poise;
+
+| athames =
+Eerem Frostfall Razor;
+Eerem Razor of Ability;
+Eerem Razor of Agony;
+Eerem Razor of Elation;
+Rubal Janbiya of Loyalty;
+
+| amulets =
+Eerem Necklace of Clouds;
+Rubal Locket of Competence;
+Rubal Necklace of Illusions;
+Rubal Thunder Necklace;
+
+| rings =
+Eerem Signet of Ciphers;
+Rubal Seal of Loyalty*F2*WMV;
+
+| wands =
+Conscript Tabar of Fatality;
+Myriarch Tabarzin of Chaos;
+Myriarch Tabarzin of Fright*F2*WMV;
+Smouldering Tetrus Baton;
+Tetrus Baton of Blizzards;
+Tetrus Baton of Opposition;
+Tetrus Baton of Woe;
+Wintery Restrictor Wand;
+
+| decks =
+Eerem Gallery of Ability;
+Istanboa Array of Scruples;
+Istanboa Sandspouts Array;
+Rubal Cards of Action;
+Rubal Cards of Lightning;
+Viper Cards of Dunestorms;
+Viper Cards of Thriving;
+
+| items =
+
+| cards =
+Arcticzilla*F2*WMV;
+Blue Phoenix;
+Coldiron;
+Counterforce;
+Elemental Spear;
+Frostfang;
+Lifespear;
+Magma Colossus;
+Mutate Banshee (Life);
+Mutate Bats (Fire);
+Mutate Colossus (Fire);
+Mutate Hound (Storm);
+Mutate Kraken (Ice);
+Mutate Monster (Ice);
+Mutate Snake (Fire);
+Mutate Snowman (Fire);
+Mutate Wyvern (Fire)*F2*WMV;
+Shift;
+Shock Colossus;
+Steel Colossus;
+Stone Colossus*F2*WMV;
+
+| reagents =
+Amber Dust*F2*WMV;
+Aquamarine*F6*WMV;
+Astral Shard;
+Fish Fin*F6*WMV;
+Golden Pearl;
+Mithril*F2*WMV;
+Scales*F5*WMV;
+Silver*F4*WMV;
+Stardust;
+Steel*F3*WMV;
+Sunstone*F6*WMV;
+Tungsten*F4*WMV;
+Turmeric*F6*WMV;
+Turquoise;
+Vine;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate;
+Beast Wellington*F8*WMV;
+Beetle Cream Soda*F5*WMV;
+Bread Fruit Fruit*F2*WMV;
+Chalupacabra*F3*WMV;
+Decimatoes;
+Eye Candy*F7*WMV;
+Green Tomato;
+Hard Boiled Beetle Eggs*F3*WMV;
+Hot Cross Buns;
+Jolly Rancher;
+Mustachios*F3;
+Rhubarbed Wire*F2*WMV;
+Satyr Chow*F7*WMV;
+Ships 'n' Queso*F7*WMV;
+Veggie Juice*F11*WMV;
+
+| jewels =
+Lustrous Critical Onyx +13;
+Lustrous Critical Peridot +13;
+Lustrous Defense Peridot +45;
+Polished Critical Citrine +11;
+Polished Critical Hematite +11;
+Polished Critical Onyx +11;
+Polished Critical Peridot +11;
+Polished Critical Sapphire +11*F2*WMV;
+Polished Damage Hematite +42;
+Polished Damage Onyx +21;
+Polished Damage Peridot +21*F2*WMV;
+Polished Damage Sapphire +21;
+Polished Defense Hematite +41;
+Polished Defense Onyx +43;
+Polished Defense Ruby +43;
+Polished Defense Sapphire +43;
+Polished Piercing Ruby +6%;
+Radical Opal;
+Reliquary Opal;
+Renew Opal;
+Shiny Blocking Citrine +16;
+Shiny Blocking Onyx +16;
+Shiny Critical Hematite +16;
+Shiny Critical Peridot +16;
+Shiny Damage Jade +26;
+Shiny Defense Amethyst +51;
+Shiny Defense Hematite +51*F2;
+Shiny Defense Onyx +50;
+Shiny Defense Sapphire +51*F2;
+Shiny Health Opal +113;
+Shiny Health Opal +114;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears;
+Baby Carrots;
+Bell Pepper;
+Blue Huckleberries*F2*WMV;
+Bread Fruit Bush*F4*WMV;
+Burning Snap Dragon;
+Clockwork Flower;
+Cornbread Fruit Bush*F3*WMV;
+Couch Potatoes*CR;
+Deadly Fly Trap;
+Desparagus (Seed)*F2;
+Evil Magma Peas*CR;
+Face Palm;
+Fickle Pickle;
+Fish on a Vine*F3*WMV;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Golden Couch Potatoes*F2;
+Goose Tree;
+Green Snow Apples;
+Helephant Ears;
+Honey Sickle;
+Ivy League*CR;
+Laugh-O-Dil;
+Maltese Tiger Lily;
+Moon Flower;
+Ninja Fig*CR;
+Pink Huckleberries;
+Purple Bell Pepper;
+Purple Snow Apples;
+Red Bell Pepper;
+Red Grapes of Wrath*F2;
+Red Huckleberries*F2*WMV;
+Silver Trumpet Vine*CR*F2;
+Tiger Lily (Seed);
+White Desparagus;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

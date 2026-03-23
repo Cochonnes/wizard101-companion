@@ -1,0 +1,231 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 10,600
+| crecla = Froudling
+| school = Death
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+|randomminions =
+Black Cap;
+Green Cap;
+Red Cap;
+
+| totalminions = 3
+| world = Avalon
+| location = Outer Yard
+| subloc1 = Mysterious Well
+| descrip =
+*This Flevur Flave is one of the two possible Bosses in the Mysterious Well.  {{Link|Creature|Ridenhoer Delish}} is the other Boss that could appear here.
+
+| cheatnotes =
+*{{Icon|Round}} Will interrupt cast {{Link|TreasureCard|Gnomes!}} on a random Wizard at the beginning of the battle.
+*{{Icon|Manipulation}} Will interrupt cast {{Link|TreasureCard|Steal Charm}} (for no Pips) when a Wizard casts a Charm on itself or an Ally, and {{Link|TreasureCard|Steal Ward}} (for no Pips) when a Wizard casts a Ward on itself or an Ally.
+**Global Damage Spells will trigger this cheat.
+**{{Link|Spell|Volcanic Golem}} doesn't trigger this cheat.
+**If a Spell such as {{Link|Spell|Guidance}} or {{Link|Spell|Legion Shield}} is cast, he will only cast Steal Charm/Ward on the Wizard who cast the Spell.  {{Link|Spell|Rebirth}} will also trigger this cheat because of its absorbs.
+**If a Spell such as {{Link|Spell|Elemental Blade}} or {{Link|Spell|Spirit Shield}} is cast, he will only steal the first of the Blade or the Shield (Fire and Life).
+
+| spellnotes =
+
+| casts =
+Fortify;
+Deathblade;
+Feint;
+Natural Attack (Death 165-330-495);
+Vampire;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+Skeletal Dragon;
+Dr. Von's Monster;
+
+| quests =
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge and has not unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge, the following drops will be available:
+*6 Spellements will drop each time for their respective rank 5-9 Spells.
+
+| gold =
+200 - 243;
+
+| hats =
+Champion of Order's Icy Helm;
+Great Faerie Knight Helm;
+Jouster's Helm*F5;
+Lake Knight's Helm*F4;
+
+| robes =
+Kin Bound Robes;
+Storm Crown Tunic;
+Weirwood Champion's Armor;
+
+| boots =
+Dread Keep Strollers*F3;
+Jouster's Footguards;
+
+| athames =
+Lord of the Wild Hunt's Steel;
+Spriggan's Wicked Spike;
+
+| amulets =
+Barbarian Philosopher's Mark;
+Chosen Chief's Amulet;
+
+| rings =
+Band of the Lost Abbey;
+Black Annie's Band;
+Knight of the Wyrd's Band;
+Stone of the Other Side;
+
+| wands =
+Antlered Staff;
+Highland Walking Stick*F2;
+
+| decks =
+Druid's Knot Deck*F2;
+Silvershield Cards*F3;
+
+| items =
+Avalon Owl Stained Glass;
+Avalon Tense Theme;
+Avalon Wooden Table;
+
+| cards =
+Amplify;
+Beguile;
+Berserk*F3;
+Colossal*F3;
+Dark Tribute*F5;
+Empowerment*F2;
+Extraordinary*F3;
+Fortify;
+Frost Giant*F3;
+Gargantuan*F2;
+Infallible;
+Mend;
+Orthrus;
+Plague;
+Poison*F2;
+Power Nova;
+Rebirth*F2;
+Sacrifice*F4;
+Storm Lord*F3;
+Unstoppable*F3;
+Vengeance*F3;
+Virulent Plague*F3;
+
+| reagents =
+Black Lotus*F5;
+Brass;
+Bronze*F2;
+Cat Tail*F3;
+Cobalt*F3;
+Deep Mushroom*F3;
+Frost Flower*F2;
+Mist Wood*F4;
+Ore;
+Parchment*F2;
+Pearl*F4;
+Red Mandrake*F2;
+Shell*F9;
+Steel;
+Stone Block*F2;
+Tin;
+
+| spellements =
+Basilisk*BR;
+Blight Hound*BR;
+Centaur*BR;
+Chimera*BR;
+Colossus*BR;
+Dr. Von's Monster*BR;
+Earth Walker*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+Helephant*BR*F3;
+Hydra*BR;
+Leviathan*BR;
+Medusa*BR;
+Minotaur*BR;
+Orthrus*BR;
+Phoenix*BR*F2;
+Power Nova*BR*F2;
+Ra*BR*F3;
+Rain of Fire*BR;
+Rebirth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR*F2;
+Skeletal Pirate*BR;
+Snow Angel*BR*F2;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Stormzilla*BR;
+Triton*BR;
+Woolly Mammoth*BR;
+Wraith*BR;
+
+| snacks =
+Bogwich;
+Cauliflowers;
+Cracker;
+Flapjacks;
+Golden Grapes;
+Gummy Wyrms;
+Jelly Baby*F2;
+King Banana;
+Salmonberry;
+Submarine Sandwich;
+Sugar Donut;
+
+| jewels =
+Balance-It Citrine;
+Clear Critical Jade +10;
+Flummox Opal;
+Great Learner Opal;
+Thunder Lizard Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Frozen Fly Trap;
+Red Huckleberries;
+
+| mounts =
+
+| spells =
+
+}}

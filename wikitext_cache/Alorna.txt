@@ -1,0 +1,332 @@
+{{Stub|which version of the '''Mutate''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,240
+| crecla = Yeti
+| school = Myth
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Snowball;
+
+| world = Polaris
+| location = River of Frozen Tears
+| subloc1 = Alorna's Cave
+| descrip =
+
+| speech =
+:'''Alorna:''' ''"Grrr."''
+:'''Zoot:''' ''"But don't you see? I understand. I've felt isolated and frustrated, just like you. We don't have to be alone any more. We've got each other."''
+:'''Alorna:''' ''"Grrr!"''
+:'''Zoot:''' ''"I don't know. I'm starting to feel a little awkward here. She's got this hungry look in her eyes... I think I might need a hand."''
+
+| spellnotes =
+*This Boss uses an advanced version of Cyclops Minion that summons a Rank 5 "Cyclops Guardian" with 800 Health.
+
+| casts =
+Ether Shield (-50%);
+Mythblade;
+Stun;
+Blinding Light;
+Cyclops Minion;
+Myth Banshee (170);
+Natural Attack (Myth 115-225-335);
+Mystic Colossus;
+Legendary Treant (445);
+Medusa;
+Basilisk;
+
+| quests =
+The Other Yeti;
+
+| gold =
+548 - 802;
+
+| hats =
+Bleaks Ushanka of Frost;
+Bleaks Ushanka of Mischief;
+Evoker's Brim of Acuity;
+Evoker's Brim of Squalls;
+Evoker's Gallant Brim;
+Evoker's Gelid Brim;
+Evoker's Stalwart Brim;
+Polarian Bleaks Ushanka;
+Polarian Evoker's Brim;
+Snowstorm Bleaks Ushanka;
+The Enchanter*CR;
+The Goat Horns*CR;
+The Ice Horns*CR;
+The Kroktop*CR;
+The Manticore*CR;
+The Stardust*CR;
+The Warlock*CR;
+
+| robes =
+Bleaks Apparel of Mischief;
+Bleaks Jacket of Pyres;
+Evoker's Forlorn Robes;
+Evoker's Gallant Drape;
+Evoker's Gelid Robes;
+Evoker's Stalwart Cloak;
+Evoker's Wrap of Acuity;
+Polarian Evoker's Garment;
+
+| boots =
+Bleaks Clogs of Despair;
+Bleaks Mukluks of Frost;
+Evoker's Boots of Squalls*F2;
+Evoker's Ember Walkers;
+Evoker's Forlorn Stalkers;
+Evoker's Runners of Acuity;
+Evoker's Stalwart Footgear;
+Noble Bleaks Trackers;
+Polarian Evoker's Boots;
+
+| athames =
+Bleaks Cutter of Despair;
+Bleaks Cutter of Pyres;
+Bleaks Dagger of Frost;
+Bleaks Dagger of Vigor;
+Bleaks Dirk of Mischief;
+Bleaks Knife of Snowstorms;
+Kossack Athame of Counsel;
+Kossack Athame of Redress;
+Kossack Cutlass of Tempests;
+Kossack Spike of Purpose;
+Kossack Stylet of Tempests;
+Noble Bleaks Lancet;
+
+| amulets =
+Bleaks Amulet of Frost;
+Bleaks Choker of Despair*F2;
+Bleaks Medallion of Vigor;
+Bleaks Pendant of Mischief;
+Bleaks Torc of Snowstorms;
+Kossack Chaplet of Chills;
+Kossack Collar of Misery;
+Kossack Locket of Counsel;
+Memento of the Bleaks;
+Noble Strand of the Bleaks;
+Radiant Kossack Amulet;
+
+| rings =
+Bleaks Band of Snowstorms;
+Bleaks Loop of Vigor;
+Bleaks Seal of Despair*F3*WMV;
+Bleaks Signet of Mischief;
+Charmed Ring of the Bleaks;
+Kossack Band of Chills;
+Kossack Band of Purpose;
+Noble Band of the Bleaks;
+Polarian Kossack Signet;
+Radiant Kossack Ring;
+Ring of the Frosted Bleaks;
+
+| wands =
+Evoker's Ember Bodkin;
+Evoker's Gallant Bodkin;
+Kossack Cutlass of Tempests;
+Kossack Saber of Purpose;
+Kossack Spread of Chills;
+Kossack Sword of Counsel;
+Kossack Sword of Travail;
+Polarian Evoker's Wand;
+Polarian Kossack Saber;
+Radiant Kossack Sword;
+
+| decks =
+Evoker's Gallant Hand;
+Evoker's Gelid Pasteboards;
+Evoker's Stalwart Parcel;
+Kossack Array of Travail;
+Kossack Hand of Tempests;
+Kossack Parcel of Redress;
+Kossack Set of Radiance;
+Kossack Sheaf of Counsel;
+Kossack Spread of Chills;
+Kossack Stack of Purpose*F2;
+Polarian Kossack's Hand;
+
+| items =
+Arcanum Theme;
+Large Keeper Aquarium*F2;
+Large Small Fry Aquarium;
+Polaris Baba Yaga Theme;
+Polaris Frozen Combat Theme;
+Polaris Frozen Forest Theme;
+Polaris Gulag Combat Theme;
+Polaris Gulag Theme;
+Polaris Ice Block Theme*F2;
+Polaris Mine Combat Theme;
+Polaris Mine Theme;
+Polaris Opera Theme;
+Polaris Rasputin Combat Theme;
+Regular Keeper Aquarium;
+Regular Small Fry Aquarium*F3*WMV;
+Regular Whopper Aquarium;
+Tall Small Fry Aquarium;
+Tall Whopper Aquarium;
+Walruskberg Combat Theme;
+Walruskberg Liberated Theme;
+Walruskberg Theme;
+
+| cards =
+Age of Reckoning;
+Arcticzilla;
+Ashen Bones;
+Astraphobia;
+Balefrost;
+Blue Phoenix;
+Combustion*F2*WMV;
+Counterforce;
+Crystal Spider;
+Deathspear;
+Dragonspear;
+Elemental Spear;
+Fiery Colossus;
+Firespear;
+Frostfang;
+Icebird;
+Icespear;
+Katabatic Wind;
+Lifespear;
+Magma Colossus;
+Mutate Colossus;
+Mythspear;
+Namaste;
+Nested Fury;
+Obsidian Colossus (420);
+Raging Bull;
+Rusalka's Wrath;
+Saga of Heroes;
+Sandstone Colossus;
+Shift;
+Shock Colossus;
+Snowball Barrage;
+Steel Colossus;
+Stormspear;
+Winged Sorrow;
+Wings of Fate;
+Witch's House Call;
+Yellow Troll;
+
+| reagents =
+Aether*F4*WMV;
+Agave Leaves*F2*WMV;
+Agave Nectar;
+Amber;
+Amber Dust;
+Aquamarine*F3*WMV;
+Astral Shard*F3*WMV;
+Braided Vine;
+Draconium;
+Fire Blossom*F2*WMV;
+Fish Fin*F3;
+Golden Pearl*F6*WMV;
+Merle's Whisker;
+Mithril*F3*WMV;
+Orichalcum;
+Palladium;
+Scales*F3*WMV;
+Silver*F2*WMV;
+Stardust*F3;
+Steel*F3*WMV;
+Sunstone*F7*WMV;
+Titanium*F3;
+Tungsten*F2;
+Turquoise*F4*WMV;
+Vine*F3*WMV;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Beast Wellington*F3;
+Chalupacabra*F3*WMV;
+Deepwater Toffee;
+Eye Candy*F4*WMV;
+Frosty Sugar Cubes;
+Frozen Snails;
+Granny Snow Apple;
+Green Tomato;
+High Road Haggis;
+Hot Cross Buns*F2*WMV;
+Jolly Rancher;
+Mustachios*F2*WMV;
+Penne Dreadful*F3*WMV;
+Polaris Fries*F4*WMV;
+Satyr Chow*F2;
+Ships 'n' Queso*F3;
+Snow Apple Cider;
+Snow Apple Pie;
+Veggie Juice;
+
+| jewels =
+Lustrous PIP Opal +10%;
+Polished Damage Onyx +21;
+Polished Health Opal +87;
+
+| pins =
+
+| pets =
+Arctic Ninja Pig*CR;
+Glacier Dragon;
+Ice Bird;
+Intrepid Seal Pup;
+Mountain Yeti*CR;
+Nodori Winged Ram*CR;
+Polar Bear Cub*CR;
+Snowball*CR;
+White Winter Owl*CR;
+
+| seeds =
+Angel Oak;
+Boiled Peanuts;
+Burning Snap Dragon*F3;
+Cornbread Fruit Bush;
+Evil Snow Peas*F3*WMV;
+Face Palm;
+Fish on a Vine*F2;
+Frozen Fly Trap*F4*WMV;
+Golden Couch Potatoes;
+Goose Tree;
+Green Snow Apples*F2*WMV;
+King Parsley*CR*F2;
+Maelstrom Snap Dragon;
+Moon Flower;
+Purple Snow Apples*F3*WMV;
+Queen Crape Myrtle*F3*WMV;
+Red Huckleberries;
+Snap Dragon;
+Snow Apples*F2*WMV;
+Ultra Snap Dragon;
+Ultra Snow Apples;
+
+| mounts =
+
+| spells =
+
+}}

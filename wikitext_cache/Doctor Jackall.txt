@@ -1,0 +1,277 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 4,860
+| crecla = Dog
+| school = Ice
+| masteries =
+Fire;
+
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Lanyon Scratcher;
+Lanyon Scratcher;
+Lanyon Scratcher;
+
+| world = Marleybone
+| location = Barkingham Palace
+| subloc1 = Royal Airship
+| lootchest = Doctor Jackall's Chest
+| descrip =
+Doctor Jackall hired {{Link|NPC|Catrin Cheshire}} to help find the Queen's Jewels and made a [[Creature:Noxious Gas Golem|mesmerizing automaton]] to hypnotize the {{Link|Creature|Chief Whip}} and the [[Creature:Corrupted Yeoman Warder|Barkingham Yeomen]] to easily get the Queen's Jewels.  He wants the Jewels in order to complete an alchemical process in order to stay as his more powerful duality, Mister Hound.
+
+| speech =
+:''"Wizard, you vex me. It is one thing to mortify curiosity, another to conquer it. I have discovered the duality of self. In doing so, I tapped into an alternate, more powerful form. One unbound by rules and conscience. Call him Mister Hound! But I cannot maintain Hound's form for long. I am trapped in this weak, pitiful body of Jackall. However, with the Queen's Jewels, I can perfect my alchemical solution, and become Mister Hound forevermore. You understand the call of power, do you not? Leave me to my research, or else we will become mortal enemies."''
+
+| cheatnotes =
+*{{Icon|Round}} ''"I invoke the power of Ice!"'' - At the beginning of the first Round, Doctor Jackall will interrupt-cast Balefrost.
+*{{Icon|Damage}}''"I must defend myself!"'' - If Doctor Jackall is damaged by a Spell, then he will interrupt-cast a -35% version of {{Link|Spell|Legion Shield}}.
+**If Doctor Jackall is damaged more than once by a single Spell, then he will use this cheat for every time that he is damaged.
+**Ticks from Damage over Time effects will not trigger this cheat.
+**This cheat will not trigger if Doctor Jackall is damaged during the Round that his [[:Category:Polymorphs|Polymorph]] ends.
+*{{Icon|Spell}} ''"I'll take that!"'' - If Doctor Jackall uses his {{Link|Spell|Natural Attack}} on a Wizard, then he will interrupt to use {{Link|Spell|Steal Ward}} on the Wizard that he attacked.
+*{{Icon|Round}} ''"See my true face!"'' - At the end of the fourth Round, and at the end of every fourth Round after, Doctor Jackall will interrupt-cast a Spell that Polymorphs him into {{Link|Polymorph|Mister Hound}} and applies a +35% Fire Damage Global.
+*{{Icon|Damage}} ''"You dare strike me?"'' - If Mister Hound is damaged by a Spell, then he will interrupt-cast {{Link|Spell|Fireblade}} on himself, then use [[Spell:Natural Attack (Fire 120-235-350)|his Natural Attack]] on the Wizard that attacked him.
+**If Mister Hound is damaged more than once by a single Spell, then he will use this cheat for every time that he is damaged.
+**Ticks from Damage over Time effects will not trigger this cheat.
+**If this cheat triggers while Mister Hound has no Pips, then his Natural Attack will act as though he has one Pip.
+**Although his Natural Attack is not cast when used through this cheat, it can still be Dispelled.
+**This cheat will trigger if Doctor Jackall is damaged during the Round that his Polymorph ends.
+*{{Icon|Spell}} ''"I'll take that, thank you!"'' - If Mister Hound uses [[Spell:Natural Attack (Fire 120-235-350)|his Natural Attack]] on a Wizard, then he will interrupt to use {{Link|Spell|Steal Charm}} on the Wizard that he attacked.
+*{{Icon|Round}} ''"The weakness returns!"'' - At the beginning of the eighth Round, and at the end of every fourth Round after, Doctor Jackall will interrupt-cast Balefrost.
+*{{Icon|Minion}}{{Icon|Afterlife}} ''"My rage boils over!"'' - If all of the Lanyon Scratchers are defeated, then Doctor Jackall or Mister Hound will interrupt-cast {{Link|Spell|Lava Giant}}.
+**If there are no Lanyon Scratchers present at the beginning of the duel, then this cheat will trigger whenever the Wizard team casts their first Spell.
+***May-Cast Spells will trigger this cheat.
+**If Doctor Jackall or Mister Hound is [[Spell:Beguile|Beguiled]], then this cheat will trigger the first time that a Lanyon Scratcher casts a Spell.
+***This trigger can only occur once during the duel.
+
+| spellnotes =
+
+| casts =
+Iceblade;
+Ice Trap;
+Ice Prism;
+Natural Attack (Ice 115-225-335);
+Blizzard;
+Frostbite;
+Frost Giant;
+Ice Hound (7 Pip);
+
+| quests =
+The Adventure of the Queen's Jewels;
+
+| gold =
+150 - 183;
+
+| hats =
+Barkingham Bombin of Brio*F4*WMV;
+Barkingham Derby of Cinders*F3*WMV;
+Barkingham Derby of Repose*F2;
+Barkingham Fog Bowler*F4*WMV;
+Barkingham Frost Cover*F2;
+Ceremonial Helm of Triumph;
+Helmet of the Royal Flame;
+Palace Guard's Rain Topper;
+Royal Barbut of Whirlwind*F2*WMV;
+Royal Bascinet of Charisma;
+Royal Cap of Alliance*F3*WMV;
+Royal Ceremonial Snowcover;
+Royal Conical of Accord;
+Royal Helm of Remembrance*F2;
+Topper of Royal Wit*F3*WMV;
+Yeoman's Top Hat of Reverie;
+
+| robes =
+Barkingham Cinder Smock*F2;
+Barkingham Fog Coat*F2*WMV;
+Barkingham Frostbreaker*F4;
+Barkingham Robe of Repose;
+Ceremonial Array of Triumph;
+Raiment of the Royal Flame;
+Royal Ceremonial Snowgear;
+Royal Coat of Alliance;
+Royal Coat of Wit*F2*WMV;
+Royal Outfit of Remembrance;
+Royal Uniform of Accord;
+Royal Uniform of Whirlwind*F4*WMV;
+Royal Vestment of Charisma*F2*WMV;
+Smock of Barkingham Brio*F2*WMV;
+Yeoman's Cloak of Reverie;
+
+| boots =
+Barkingham Boots of Brio*F5*WMV;
+Barkingham Cinder Shoes;
+Barkingham Clogs of Repose*F3;
+Barkingham Fog Walkers*F4*WMV;
+Barkingham Frost Striders*F2;
+Barkingham Shoes of Wit*F2*WMV;
+Ceremonial Boots of Triumph;
+Palace Guard's Firewalkers;
+Palace Guard's Rain Waders;
+Rangers of the Royal Flame;
+Royal Boots of Alliance*F2;
+Royal Boots of Whirlwind*F2*WMV;
+Royal Ceremonial Snowshoes;
+Royal Footgear of Charisma;
+Royal Footguards of Accord;
+Royal Shoes of Remembrance;
+
+| athames =
+
+| amulets =
+
+| rings =
+Band of Royal Infallibility*F3*WMV;
+Barkingham Band of Virtue*F2*WMV;
+Chief Whip's Hail Stone*F2;
+Duke's Rosy Signet;
+Enfield Circle of Trickery;
+Grenadier's Blasting Ring;
+Ring of Marleybone Fog*F2*WMV;
+Signet of Royal Ingenuity;
+
+| wands =
+Barkingham Wand of Largess;
+Barkingham's Mace of Sleet*F2;
+Baton of the Just Monarchy;
+Baton of the Radiant Queen;
+Baton of the Royal Flame;
+Clouds of Barkingham Baton;
+Dread Mace of Barkingham*F2;
+Mace of Noble Conquest*F3*WMV;
+Mace of the Endless Reign;
+Noble Trophy of Equality;
+Regent's Baton of Ethos;
+Relic of the Reign of Ice;
+Royal Bequest of Eidolon;
+Scepter of Royal Triumph*F4*WMV;
+Staff of the Royal Paragon*F2*WMV;
+The Queen's Crystal Scepter;
+Trophy of the Raucous Court;
+Wand of the Royal Paragon;
+
+| decks =
+
+| items =
+Wooden Skeleton Key*CR*F14*WMV;
+
+| cards =
+Black Mantle*F5*WMV;
+Bladestorm*F4*WMV;
+Cat Thug*F3*WMV;
+Cleanse Ward*F5*WMV;
+Clockwork*F4*WMV;
+Clockwork Spider*F4*WMV;
+Deadly Scratcher*F6*WMV;
+Dragonflies*F2*WMV;
+Dryad*F3*WMV;
+Guidance*F3*WMV;
+Hex*F4*WMV;
+Iron Golem*F7*WMV;
+Minotaur*F4*WMV;
+Phoenix*F5*WMV;
+Pierce*F5*WMV;
+Plague*F3*WMV;
+Regenerate*F5*WMV;
+Smoke Screen*F3*WMV;
+Stormzilla*F6*WMV;
+Street Sweeper*F4*WMV;
+Triage*F4*WMV;
+
+| reagents =
+Bone*F18*WMV;
+Copper*F3*WMV;
+Ectoplasm*F16*WMV;
+Iron*F5*WMV;
+Lead;
+Leather Straps*F14*WMV;
+Mote of Beauty*F4*WMV;
+Nickel;
+Pyrite*F2*WMV;
+Spider Silk*F18*WMV;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F3*WMV;
+Cauliflowers*F3*WMV;
+Delicious Cookie*F3*WMV;
+Dr. Jalapeno*F2*WMV;
+Flaming Soup*F4*WMV;
+Flapjacks*F2*WMV;
+Glowing Star Fruit*F4*WMV;
+Glowing Taffy*F2*WMV;
+Goat Cheese;
+Golden Grapes*F2*WMV;
+Gummy Humongofrog*F2*WMV;
+Jelly Baby*F3*WMV;
+King Banana*F4*WMV;
+Kola Nuts*F3*WMV;
+Salmonberry*F5*WMV;
+Shiny Tomato*F4*WMV;
+Spicy Drumstick*F2*WMV;
+Strawberry Cupcake*F3*WMV;
+Submarine Sandwich*F5*WMV;
+Uni-Corn*F6*WMV;
+
+| jewels =
+Big Downer Opal;
+Chipped Damage Citrine +7;
+Chipped Damage Peridot +7;
+Chipped Defense Onyx +14*F2;
+Chipped Defense Ruby +14;
+Chipped Health Opal +21;
+Chipped Health Opal +23*F2*WMV;
+Deer Knight Onyx*F2*WMV;
+Flawed Damage Jade +10;
+Flawed Defense Citrine +17;
+Flawed Defense Opal +9;
+Flawed Healing Opal +2%;
+Flawed Mending Opal +2%;
+Ice-Away Sapphire;
+Satyr Jade;
+Siphonizer Opal;
+Stall Opal;
+Wyldfire Ruby*F2;
+
+| pins =
+
+| pets =
+Blue Ghost;
+Leprechaun;
+Red Ghost;
+Seraph*CR;
+
+| seeds =
+Fiery Boom Shroom*F3*WMV;
+Ninja Fig*CR*F2*WMV;
+Orange Dandelion;
+Pink Dandelion*CR*F2;
+Pink Laugh-O-Dil*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

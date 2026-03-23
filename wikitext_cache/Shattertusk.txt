@@ -1,0 +1,243 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 765
+| crecla = Boar
+| crecla2 = Pig
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Splithoof Rager;
+
+| world = Grizzleheim
+| location = Savarstaad Pass
+| subloc1 = Shattertusk's Hut
+| descrip =
+A notable Splithoof who has his own tent among the {{Link|Location|Boar's Camp}} in Savarstaad Pass, Shattertusk is currently keeping {{Link|NPC|Einar Thunderhammer}}, a Bear blacksmith, prisoner.  {{Link|NPC|Hagen Shieldbreaker}} suspects that he has been captured by the Splithooves when he runs late to the Bears' war camp and asks Wizards to search the camp for Einar's whereabouts.
+*Two additional Splithoof Ragers will appear if more than two Wizards are present.
+
+| speech =
+:''"Shattertusk gonna crush soft little cub! Break his bones... take his gold!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+Calls himself Lord of the Flies. But that's just because he smells so bad, flies always circle him.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Death Damage per Pip.
+
+| casts =
+Myth Shield;
+Weakness;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Elf (30+273);
+Evil Snowman (Storm);
+Storm Shark;
+Squall Wyvern;
+Kraken;
+Leprechaun;
+Cyclops;
+ 
+| quests =
+Bear Behind Bars;
+
+| gold =
+33 - 63;
+
+| hats =
+Cap of Dread*F2*WMV;
+Circlet of Fortune*F3*WMV;
+Circlet of the Fallen*F2*WMV;
+Cloud Cover*F2;
+Cowl of the Flamesinger*F3*WMV;
+Firebrand's Coif*F30*WMV;
+Hallowed Hood*F5*WMV;
+Headcloth of the Fray*F2;
+Ice Raider's Hat*F2*WMV;
+Snowthorn Hat;
+Torrential Cap;
+Veil of Measure*F25*WMV;
+
+| robes =
+Coat of Pouring Rain*F3*WMV;
+Drape of the White Squall*F3*WMV;
+Garments of Zeal*F3*WMV;
+Glacial Longcoat;
+Igneous Robe*F4*WMV;
+Mystifying Raiment*F3*WMV;
+Raiment of the Lifespring*F2*WMV;
+Robe of Elegies*F3*WMV;
+Robe of the Firebloom*F2*WMV;
+Runeweave Clothing*F2*WMV;
+Tunic of Ataraxia*F2*WMV;
+Vestment of Serenity*F3*WMV;
+Vestment of Verse*F32*WMV;
+Vestment of Yesteryear*F3*WMV;
+
+| boots =
+Boots of Havoc;
+Boots of Reflexive Might*F2;
+Doomstriders*F2;
+Footgear of the Firehaze*F4*WMV;
+Footguards of the Disciple*F4*WMV;
+Footwraps of Condensation*F33*WMV;
+Hibernal Footwraps*F2*WMV;
+Indefatigable Striders;
+Slippers of Diligence*F3*WMV;
+Striders of Strife*F5*WMV;
+Thane's Boots;
+
+| athames =
+Bodkin of Fury*F3*WMV;
+Iceshadow's Athame*F5*WMV;
+Icewarden's Knife*F29*WMV;
+Legend's Edge*F32*WMV;
+
+| amulets =
+
+| rings =
+Circlet of the Blaze*F25*WMV;
+Ice Raider's Ring*F2*WMV;
+Seal of the Tundra*F3*WMV;
+Stone of Confidence*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Fish Bones;
+
+| cards =
+Banshee*F4*WMV;
+Blizzard;
+Cyclops*F2;
+Dryad;
+Evil Snowman;
+Fire Trap;
+Giant*F2*WMV;
+Humongofrog;
+Meteor Strike;
+Sniper;
+Spirit Armor;
+Sprite*F3*WMV;
+Storm Shark*F2*WMV;
+Storm Trap*F2;
+Sunbird;
+
+| reagents =
+Bone*F10*WMV;
+Copper*F9*WMV;
+Iron*F7*WMV;
+Nickel*F11*WMV;
+Pyrite*F11*WMV;
+
+| spellements =
+
+| snacks =
+Dragon Fruit*F6*WMV;
+Flaming Carrot*F3*WMV;
+Frosted Cupcake*F5*WMV;
+Meat Soup*F24*WMV;
+Moon Pie*F10*WMV;
+MooShu Broccoli*F7*WMV;
+Orange Jalapeno;
+Spicy Bubblegum*F5*WMV;
+Taffy*F8*WMV;
+Tasty Biscuit*F24*WMV;
+Tiny Pretzel*F3*WMV;
+Wild Strawberry*F4*WMV;
+
+| jewels =
+Balance-Giver Citrine;
+Blood Bat Peridot;
+Chipped Damage Opal +4;
+Chipped Health Opal +16;
+Chipped Health Opal +18*F2;
+Chipped Mana Opal +9*F2;
+Chipped Mana Opal +10;
+Cracked Accurate Amethyst +2%; 
+Cracked Accurate Citrine +2%;
+Cracked Damage Amethyst +4;
+Cracked Damage Citrine +4*F2;
+Cracked Damage Opal +1;
+Cracked Damage Sapphire +4*F2*WMV;
+Cracked Defense Amethyst +9;
+Cracked Defense Amethyst +12*F2*WMV;
+Cracked Defense Citrine +11*F3*WMV;
+Cracked Defense Citrine +12;
+Cracked Defense Jade +9;
+Cracked Defense Jade +12*F2*WMV;
+Cracked Defense Onyx +9;
+Cracked Defense Onyx +12;
+Cracked Defense Opal +4;
+Cracked Defense Peridot +9;
+Cracked Defense Peridot +10;
+Cracked Defense Peridot +12*F3*WMV;
+Cracked Defense Ruby +9;
+Cracked Defense Ruby +12*F4*WMV;
+Cracked Defense Sapphire +9;
+Cracked Defense Sapphire +10;
+Dark Sprite Onyx;
+Determined Opal;
+Fire Cat Ruby;
+Forceful Opal;
+Frost Beetle Sapphire*F2*WMV;
+Healthy Opal;
+Scarab Citrine*F3*WMV;
+Thunder Snake Amethyst*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+Boom Shroom*F4*WMV;
+Couch Potatoes*CR*F4*WMV;
+Dandelion*F6*WMV;
+Desparagus (Seed)*F6*WMV;
+Honey Sickle*F4*WMV;
+Laugh-O-Dil*F3*WMV;
+Stinkweed*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

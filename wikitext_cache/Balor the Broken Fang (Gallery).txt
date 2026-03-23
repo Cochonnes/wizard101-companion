@@ -1,0 +1,256 @@
+{{Stub|which version of the Enfeeble Treasure Card this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 19,770
+| crecla = Bear
+| school = Storm
+| cheats = Yes
+| shadowslots = 1
+| startpips = 7
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Santa Muerte (Gallery);
+
+| summons =
+Ashen Man Eater;
+Blackback Thrall;
+
+| world = Khrysalis
+| location = Shadow Palace
+| subloc1 = The Galleries
+| descrip =
+
+| speech =
+:'''Balor the Broken Fang:''' ''"Wizard, I was raised in the wilds of Avalon, and battle-tested in the arenas of Dragonspyre! Santa Muerte was stolen as a chick from Zafaria, and raised on a diet of death and fire in Azteca. On our own, we have destroyed armies and enslaved cities. You may have beaten us once, but now our strength is combined! This is the reckoning!"''
+:'''[[Creature:Santa Muerte (Gallery)|Santa Muerte]]:''' ''"You fear me? You should. Would you like to know how this will end? I have seen the breaking of the sky. The Shadow Queen will scratch out the sun, and scratch out the earth. She will scratch you out. And end the Spiral."''
+
+| cheatnotes =
+'''Balor the Broken Fang:'''
+*{{Icon|Minion}} ''"Thralls of Shadow, obey me!"'' - At the end of Round 1, Balor the Broken Fang will summon one {{Link|Creature|Blackback Thrall}} and one {{Link|Creature|Ashen Man Eater}}.
+**{{Icon|Blade}} At the end of every second and fourth Round, the {{Link|Creature|Ashen Man Eater}} will cast {{Link|Spell|Stormblade}} on Balor. 
+**{{Icon|Blade}} At the end of every third Round, the {{Link|Creature|Blackback Thrall}} will cast a {{Link|Spell|Dragonblade}} on Balor.
+*{{Icon|Shield}} ''"Prepare for battle!"'' - He will cast a {{Link|Spell|Tower Shield (Sun -70%)}} on himself or an ally.
+*{{Icon|Damage over Time}} Every 3 Rounds, he will cast his Damage over Time (DoT) {{Link|Spell|Natural Attack (Balor)}} at the most "intimidating" Wizard (most [[:Category:Blade Spells|Blades]] or casted [[:Category:Trap Spells|Traps]]), dealing 200 initial Storm Damage + 600 Storm Damage over 3 Rounds.
+*{{Icon|Polymorph}} If his Shadow Shrike is active, any cheat-cast listed will count towards his round once.
+
+'''Santa Muerte:'''
+*{{Icon|Shadow Pip}} When Santa Muerte has 2 Shadow Pips, she will use her turn to cast {{Link|Spell|Dark Fiend}}.
+**Because of new Shadow mechanics and updates, attempting to cast Dark Fiend will cause the Boss to always pass due to a targeting bug.
+
+| spellnotes =
+
+| casts =
+Shadow Shrike;
+Fortify;
+Infallible;
+Tower Shield (Sun -70%);
+Lightning Strike;
+Stormblade;
+Storm Trap;
+Windstorm;
+Enfeeble;
+Natural Attack (Storm 200-340-480);
+Storm Dragon;
+Sirens;
+Storm Owl;
+Tempest (85);
+
+| quests =
+The Galleries;
+
+| gold =
+314 - 351;
+
+| hats =
+The Kroktop*CR*F3;
+
+| robes =
+Armor of the QuietBlade*F2*WMV;
+Besieged Burrower Armor;
+Burrower Robe of Ingenuity*F6*WMV;
+Burrower Scout's Jerkin*F4*WMV;
+Mantis Chitin Armor;
+Scorched Armor of the Burn*F3*WMV;
+
+| boots =
+CloudDancer's Footwraps;
+Mantis Boots of Patience;
+
+| athames =
+King Alric's Royal Athame;
+Relic of the Ruined Forest*F2;
+Stinger's Razor of Fortune*F2*WMV;
+
+| amulets =
+Brood Mother's Lavalliere;
+Relic of the Ruined Forest*F2;
+
+| rings =
+Ghost Dog's Samoorai Band*F4*WMV;
+Gloom Dancer's Band*F4*WMV;
+Leaf Shield Ring of Ardor*F3*WMV;
+Moon's Tear Band*F2*WMV;
+Mouse Knight's Loop;
+Seal of the WoodWard;
+
+| wands =
+Dark Witch's Broomstaff*CR*HOL;
+Holiday Cookie Wand*CR*HOL;
+
+| decks =
+Deck of Shadow Lightning (Square)*F2*WMV;
+Deck of Shadow Lightning (Triangle);
+Deck of Sinister Shadows (Tear)*F3*WMV;
+Deck of the Shadow Heart (Square)*F3*WMV;
+Deck of the Shadow Web (Tear)*F3*WMV;
+
+| items =
+Khrysalis Boris Theme*F2*WMV;
+Khrysalis Dreamworld Theme*F2;
+Khrysalis Hive Theme*F2*WMV;
+Khrysalis Sardonyx Theme*F3*WMV;
+Khrysalis Starfall Sea Theme;
+Krokopatra Exalted Duel*CR;
+Meowiarty Exalted Duel*CR;
+Zeus Exalted Duel*CR*F2;
+
+| cards =
+Avenging Fossil*F2*WMV;
+Black Widow;
+Celestial Calendar*F2*WMV;
+Choke;
+Crystal Spider;
+Cycle of Life*F2;
+Death Scarab;
+Doom and Gloom;
+Enfeeble*F5*WMV;
+Galvanic Field*F2*WMV;
+Hooligan;
+Legendary Treant (445)*F2*WMV;
+Locust Swarm*F3*WMV;
+Lord of Winter*F2;
+Lucius McTavish*F2*WMV;
+Luminous Weaver*F2;
+Mass Infection;
+O'Leary Swindler*F2;
+Pierce*F2*WMV;
+Polar Swarm*F3;
+Punishment*F2*WMV;
+Reliquary*F2;
+Sabertooth;
+Sanctuary*F2*WMV;
+Scarab;
+Scorpion;
+Scrounger;
+Sleet Storm*F2;
+Spinysaur*F2*WMV;
+Sprite Swarm (40+360);
+Sun Serpent;
+Wildfire Treant*F2;
+
+| reagents =
+Astral Shard*F6*WMV;
+Black Lotus*F4*WMV;
+Black Pearl*F3*WMV;
+Blood Moss;
+Bone*F3*WMV;
+Bronze Gear*F6*WMV;
+Deep Mushroom*F4*WMV;
+Draconium*F3;
+Fire Blossom*F2*WMV;
+Fossil*F2*WMV;
+Golden Pearl;
+Lava Lily*F5*WMV;
+Mist Wood*F6*WMV;
+Nightshade;
+Ore*F4*WMV;
+Orichalcum*F2*WMV;
+Red Mandrake*F3*WMV;
+Stone Block*F6*WMV;
+Sunstone*F2*WMV;
+Titanium;
+Tungsten;
+Turquoise*F2*WMV;
+
+| spellements =
+
+| snacks =
+Alligator Pear*F2*WMV;
+Bell Pepper Steak;
+Cauliflowers;
+Dead Beet Risotto*F3*WMV;
+Desparagus Quiche*F2*WMV;
+Discord Grape Jelly*F3*WMV;
+Evil Magma Soup*F4*WMV;
+Flaming Soup*F2;
+Goat Cheese;
+Golden Apple;
+Golden Grapes;
+Gummy Humongofrog;
+Key Lime Pie*F3*WMV;
+King Banana*F2;
+King Parsley Soup*F3*WMV;
+Ninja Fig Bars*F3*WMV;
+Prickly Bear Punch;
+Salmonberry;
+Stuffed Bell Pepper*F2*WMV;
+Submarine Sandwich;
+Sweet Baby Carrots;
+Uni-Corn;
+
+| jewels =
+Curse Giver Onyx;
+Fire-Proof Ruby;
+Forceful Opal;
+Freddo Sapphire;
+Great Learner Opal;
+Greensleeves Jade;
+Mend Talent Opal;
+Myth-Boon Peridot;
+Polished Accurate Amethyst +10%;
+Polished Critical Citrine +12;
+Polished Critical Onyx +12;
+Polished Critical Ruby +12;
+Polished Defense Hematite +44;
+Polished Defense Sapphire +43;
+
+| pins =
+
+| pets =
+Snowball*CR*HOL;
+Valentine Pig*CR*HOL;
+
+| seeds =
+Alligator Pear Tree;
+Burning Snap Dragon;
+Face Palm;
+Queen Crape Myrtle;
+Red Huckleberries;
+Sword Fern*CR;
+
+| mounts =
+
+| spells =
+
+}}

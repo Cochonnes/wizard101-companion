@@ -1,0 +1,230 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 9,560
+| crecla = Wizard
+| school = Shadow
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+173 Any;
+
+| criticalblock =
+198 Any;
+
+| outpierce =
+22%;
+
+| outboost =
+100%;
+
+| incboost =
+5% Life, Balance;
+
+| incresist =
+70% Fire, Ice, Storm, Myth, Death, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+45%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Empyrea
+| location = Northeast Aero Plains
+| subloc1 = Grandma's House
+| descrip =
+
+| speech =
+:''"Oh, dear me, you've found me out. Yes, yes, old Granny's a werewolf. Wolfie makes such a lovely scapegoat for my various hijinks. Even though he's such a softie. Poor boy tried to scare you away, 'cause he knows, you see, that I can't let you leave here."''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Let's teach you some manners!"'' - If a Wizard is late to join the duel, Grandmother will Polymorph the Wizard into Grandmother.
+*{{Icon|Polymorph}} ''"The curse spreads..."'' - Starting at the end of Round 1, Grandmother will Polymorph the Wizard into {{Link|Polymorph|Grandmother}} for four Rounds with 7,500 Health, giving them the following crazy Spells they can cast while also confusing them.
+**{{Link|Spell|Beguile}} can prevent this cheat.
+**Polymorph Spells include:
+***{{Link|Spell|Curse of Grandma}} - Spell triggers Grandmother to Polymorph the Wizard.
+***{{Link|Spell|Knitted Sweater}} - Stuns target for one Round.
+***{{Link|Spell|Amigurumi}} - Restores '''1,500''' Health to self, and '''-90%''' Weakness to target.
+***{{Link|Spell|Overfeed}} - Deals an unknown Shadow Damage over three Rounds.
+***{{Link|Spell|Smooches!}} - Deals an unknown Shadow Damage to target.
+***{{Link|Spell|Shiny Nickel}} - Deals an unknown Shadow Damage to target and '''-25%''' Weakness to target.
+**''"Yes"'' - Will say this if a Wizard casts Curse of Grandma Spell, which resets the Polymorph onto a different Wizard, polymorphing and confusing them.
+***If Spell is cast on someone already Polymorphed, it will reset the turns the Polymorph lasts, while not confusing them, unless the Polymorph is on the last turn.
+
+| spellnotes =
+*Casts an Indemnity-protected Shadow Trap.
+
+'''Natural Attack:'''
+*Deals 420 Shadow Damage for 4 Pips maximum.
+
+| casts =
+Brace;
+Conviction;
+Supercharge (Shadow);
+Shadow Trap;
+Mass Feint (Shadow);
+Disarm (Shadow);
+Natural Attack (Shadow 105-210-315, 80%);
+Iron Sultan (Shadow);
+Lord of Night (Shadow);
+Glowbug Squall (Shadow, 1,120);
+Wraith (Shadow);
+Leviathan (Shadow);
+
+| quests =
+What Big Lies You Have;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge and has not unlocked the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge, the following drops will be available:
+*7 Spellements will drop each time from '''any''' School for their respective rank 10, 11, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+None;
+
+| hats =
+Illuminated Zanadu Helm;
+Verdant Zanadu Helm;
+
+| robes =
+
+| boots =
+Blazing Zanadu Boots;
+Verdant Zanadu Boots;
+
+| athames =
+
+| amulets =
+
+| rings =
+Bodacious Kalamar Ring;
+Rad Kalamar Ring;
+Righteous Kalamar Ring;
+
+| wands =
+
+| decks =
+
+| items =
+Aero Dwarf Blue Vase;
+Aero Dwarf Chair;
+Empyrea Husk Combat;
+Kalamar Side Table;
+Nimbari Chair;
+Nimbari Sword Rack;
+
+| cards =
+Colossafrog;
+Combustion;
+Elemental Spear;
+Ice Prism;
+Lord of the Squall*F2;
+Mass Myth Prism;
+Mega Subdue*F2;
+Mutate Bird (Storm);
+Mutate Helephant (Storm);
+Mutate Kraken (Ice);
+Myth Prism;
+Sirocco Djinni;
+
+| reagents =
+Aether;
+Amber;
+Ancient Scroll*F2*WMV;
+Antique Coins;
+Astral Shard;
+Fire Blossom;
+Fish Fin*F3*WMV;
+Flying Squid Ink*F4;
+Glass Sliver;
+Golden Pearl*F2*WMV;
+Mithril;
+Nickel;
+Scales;
+Silver*F4*WMV;
+Spider Silk*F2*WMV;
+Steel*F2;
+Sunstone;
+Titanium;
+Tungsten;
+Turquoise*F3;
+Vine;
+
+| spellements =
+Celestial Calendar*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Scion of Death*BR;
+Scion of Ice*BR;
+Scion of Life*BR;
+Storm Owl*BR;
+
+| snacks =
+Athame Pop;
+Beast Wellington*F2*WMV;
+Berry Poundcake*F2;
+Bread Fruit Fruit;
+Cherry Pie;
+Discord Grape Jelly;
+Eye Candy;
+Flaming Jalapeno;
+Gator Tots;
+Ginger Mint Tea;
+Glowing Taffy;
+Killer Tomato;
+Oyster Shooter;
+Pineapple Spears*F2;
+Pizza*F2*WMV;
+Redskin Peanut;
+Roly Poly Fishheads;
+Salmon Joy;
+Satyr Chow;
+Tasty Rainbow;
+
+| jewels =
+Shiny Blocking Sapphire +15;
+Shiny Critical Jade +15;
+Shiny Defense Peridot +50;
+Sparkling Critical Peridot +18;
+Sparkling Damage Onyx +28;
+Sparkling Defense Citrine +55;
+Sparkling Defense Ruby +55;
+Sparkling Health Opal +123;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Bell Pepper;
+Bread Fruit Bush;
+Couch Potatoes*CR;
+Fish on a Vine;
+Goose Tree;
+Grapes of Wrath*CR*F2;
+Ivy League*CR;
+Key Limes*CR;
+Maltese Tiger Lily;
+Snow Apples;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Ultra Helephant Ears;
+Ultra Ninja Fig;
+Ultra Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

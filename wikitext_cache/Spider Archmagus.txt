@@ -1,0 +1,222 @@
+{{Stub|which version of the Enfeeble Treasure Card this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 18,870
+| crecla = Spider Mage
+| crecla2 = Spider
+| school = Death
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions = 
+Mantis Tribute
+
+| world = Khrysalis
+| location = The Hive
+| subloc1 = Reflection Chamber
+| descrip =
+
+| speech =
+:''"Embrace the Shadow and the dark heart at the center of your core. You know you are stronger than a Bee or a Mouse. You know you are more clever than a Thousand Legger, and more willful than a Scorpion. You need to clutch onto those feelings with your raptorial claws and be ready to fulfill the Shadow Queen's every whim. Ahhh.... we seem to have a visitor. Demonstrate what you have learned. Kill the Wizard!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+Part teacher, part lecturer, part mage, part arch. All spider.
+
+| extract class =
+Spider;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Mass Infection;
+Deathblade;
+Death Trap;
+Feint;
+Death Scarab (Death);
+Natural Attack (Death 160-255-350);
+Wraith (575);
+Scarecrow;
+Dr. Von's Monster;
+Avenging Fossil;
+
+| quests =
+Reflection of Shadow;
+
+| gold =
+151 - 329;
+
+| hats =
+Kermes Fire-Hardened Mask*F3*WMV;
+Mantis Guard's Headgear*F2*WMV;
+Scarred Burrower Greathelm*F7*WMV;
+
+| robes =
+Beleaguered Mouse Gear*F3*WMV;
+Besieged Burrower Armor;
+Gorge Excavator's Outfit*F2*WMV;
+Mantis Chitin Armor*F2*WMV;
+
+| boots =
+
+| athames =
+Ghostmane's Fabled Cutter*F2*WMV;
+
+| amulets =
+CurdWright Medallion*F2*WMV;
+Death's Head Talisman*F2*WMV;
+Jewel of the Apiary;
+
+| rings =
+Moon's Tear Band*F2;
+
+| wands =
+Halberd of Extermination;
+Halberd of Mesmerizing;
+Poleaxe of Mantis Dominion;
+Spear of Mantis Voracity;
+Sword of Burrower Vengeance;
+
+| decks =
+Barbed Case of Stratagem*F2*WMV;
+Box of Indomitable Spirit*F4*WMV;
+Lightning Rider's Deck*F2*WMV;
+
+| items =
+Khrysalis Hive and Seek Theme*F2*WMV;
+Khrysalis Hive Combat Theme*F2*WMV;
+
+| cards =
+Avenging Fossil*F2;
+Black Widow*F2*WMV;
+Celestial Calendar;
+Cycle of Life*F2*WMV;
+Disarm*F2;
+Doom and Gloom*F2*WMV;
+Enfeeble;
+Furnace;
+Hooligan;
+Legendary Treant (445)*F2;
+Life Scarab*F2;
+Locust Swarm*F2*WMV;
+Lord of Winter*F2*WMV;
+Luminous Weaver*F2*WMV;
+Mass Infection;
+O'Leary Charlatan (Storm);
+O'Leary Swindler;
+Pierce;
+Polar Swarm*F3*WMV;
+Reliquary;
+Sabertooth;
+Scarab;
+Scorpion;
+Spinysaur;
+Sun Serpent*F2*WMV;
+White Rat Magician;
+Wildfire Treant;
+
+| reagents =
+Astral Shard*F6*WMV;
+Black Lotus*F2*WMV;
+Black Pearl;
+Bone*F3*WMV;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F3*WMV;
+Draconium*F2;
+Fire Blossom*F3*WMV;
+Fossil*F2;
+Golden Pearl*F2;
+Lava Lily*F2*WMV;
+Mist Wood*F3*WMV;
+Mithril;
+Nightshade*F2*WMV;
+Ore*F3*WMV;
+Orichalcum*F2;
+Red Mandrake*F4*WMV;
+Silver;
+Stone Block*F2*WMV;
+Titanium;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F2*WMV;
+Goat Cheese*F2*WMV;
+Golden Apple*F2*WMV;
+Golden Grapes;
+Gummy Bees*F3*WMV;
+Gummy Humongofrog*F2*WMV;
+Hive Rinds*F2*WMV;
+Honey Bombs;
+Honeycombs*F2*WMV;
+Honeycrisp Apples;
+HoneyDon't Melon*F2*WMV;
+King Banana;
+Peanut Butterflies;
+Punk Rock Candy;
+Spicy Stingers;
+Sugar Khrystals*F2*WMV;
+Uni-Corn;
+
+| jewels =
+Balance-Boon Citrine;
+Colossus Opal*F2;
+Myth-Away Peridot;
+Nerys Citrine;
+Piercemonger Peridot;
+Polished Accurate Amethyst +10%;
+Polished Critical Amethyst +12;
+Polished Critical Citrine +12;
+Polished Damage Ruby +22;
+Polished Damage Sapphire +21;
+Polished Defense Sapphire +44;
+Vassanji Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Blue Huckleberries;
+Saw Palmetto;
+Sugar Khrystal*CR*F2*WMV;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

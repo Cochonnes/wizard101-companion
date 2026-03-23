@@ -1,0 +1,96 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 3,420
+| crecla = Wizard
+| school = Ice
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+10% Fire;
+
+| incresist =
+45% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Housing Instance
+| location = Playhouse
+| subloc1 = Playhouse (Tier 3)
+| descrip =
+For the purpose of drops, Phantom Kenneth (Tier 3) is considered a Minion to {{Link|Creature|Phantom Olivier (Tier 3)}}. All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Fortify;
+Tower Shield;
+Iceblade;
+Ice Trap;
+Freeze;
+Ice Prism;
+Balefrost;
+Winter Moon;
+Frostbite;
+Colossus;
+Snow Angel;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,131 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 4,540
+| crecla = Krokotopian
+| school = Death
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+0%;
+
+| outboost =
+0%;
+
+| incboost =
+35% Ice, Myth;
+
+| incresist =
+35% Life;
+35% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Grizzletroll;
+
+| world = Krokotopia
+| location = Marketplace of Ideas
+| subloc1 = Den of the Storyteller
+| descrip =
+*Defeating Grizzlebort the Unsociable is part of the Novice Myth Weaving quest, ''"Legend in the Mesh"''. Wizards can also defeat Grizzlebort 6 times as one of their Myth Weaving lessons, which awards the badge, [[Basic:Myth Weaving Badges|Unsociable]].
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Curse}} ''"All are weak against Grizzlebort!"'' – At the beginning of every Round, Grizzlebort interrupt-casts {{Link|Spell|Plague}}.
+**''"Ha-ha! Puny human!"'' - Grizzlebort casts Plague after a Wizard casts a Spell, even if they fizzle. He will cast it twice if both he and Grizzletroll are hit by the Spell. He will also cast it on a Wizard every Round they have a Damage over Time effect on them.
+***Pet casts will trigger this cheat.
+***Shields, and Spells that create multiple Charms or Traps, like {{Link|Spell|Elemental Blade}} will not trigger this cheat.
+*{{Icon|Healing}} If Grizzlebort is defeated while his Plague cheat is still active, he will revive with full Health.
+*{{Icon|Spell}} ''"Sticks and stones may break my bones, but something, something"'' – At the beginning of the fourth Round (after spells are chosen), or when he revives, Grizzlebort will give each Wizard the following Spell:
+**{{GivesSpell|cards=1|size=x150px|Stone Colossus (Tier 2b)}}
+*{{Icon|Myth}} ''"I feel woozy. Where did that mountain come from?"'' - When hit by Stone Colossus (Tier 2b), Grizzlebort will remove all harmful Charms from Wizards, and stop his Plague cheat.
+**''"Wait... you aren't supposed to do that!"'' - If a Wizard casts another Myth Damage Spell that removes harmful Charms on Grizzlebort, such as {{Link|Spell|King Artorius (Myth) (Tier 2b)}}, he will remove all harmful Charms from Wizards, and stop his Plague cheat.
+
+| spellnotes =
+
+| casts =
+Deathblade;
+Death Trap;
+Black Widow;
+Vampire;
+Poison;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Monster Mash;
+Dr. Von's Monster;
+
+| quests =
+Legend in the Mesh;
+
+| dropnotes =
+Wizards will receive Jewels that are appropriate for their Level.
+
+| gold =
+3 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Blood Bat (Tier 2b);
+Cyclops (Tier 2b);
+Cyclops Ally (Tier 2b)*F2;
+Minotaur (Tier 2b)*F6;
+Myth Trap*F3;
+Mythblade*F2;
+Stone Colossus (Tier 2b);
+Troll (Tier 2b)*F2;
+
+| reagents =
+Weft Yarn @ 10 Weft Yarn*F5;
+Weft Yarn @ 12 Weft Yarn*F4;
+Weft Yarn @ 15 Weft Yarn*F4;
+Weft Yarn @ 50 Weft Yarn*F3;
+Weft Yarn @ 100 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Flawless Accurate Peridot +16%*F2;
+Opaque Accurate Peridot +8%;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

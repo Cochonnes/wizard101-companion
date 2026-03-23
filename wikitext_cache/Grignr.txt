@@ -1,0 +1,115 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,720
+| crecla = Raven
+| school = Balance
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+25% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Darkwing Chopper;
+
+| world = Grizzleheim
+| location = Sudrilund
+| subloc1 = Grignr's Cave
+| descrip =
+This boss must be fought solo by Balance Wizards on their level 58 pet quest to obtain {{Link|Pet|Judgement}}. The location cannot be re-entered after defeating Grignr.
+
+| speech =
+:''"Who dares intrude into the cave of Grignr?"''
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Elemental Trap;
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Natural Attack (Balance 85x, 85%);
+Judgement;
+
+| quests =
+No Bad Egg;
+
+| gold =
+70 - 72;
+
+| hats =
+Hearty Bear Hat;
+
+| robes =
+
+| boots =
+Barbarian's Bold Boots;
+
+| athames =
+
+| amulets =
+
+| rings =
+Ring of Brother Wolf;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Availing Hands*F2;
+Elemental Defuse;
+Humongofrog;
+Precision;
+Spirit Defuse;
+
+| reagents =
+Bronze;
+Leather Straps*F2;
+
+| spellements =
+
+| snacks =
+Delicious Cookie;
+Glowing Dragon Fruit;
+Glowing Taffy;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,211 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 960
+| crecla = Cat
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Fire;
+
+| incresist =
+70% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Hooligan;
+
+| world = Marleybone
+| location = Chelsea Court
+| subloc1 = Icepick's Warehouse
+| descrip =
+*Two additional Hooligans appear if more than two Wizards are present.
+
+| speech =
+:''"Don't be surprised if you find yourself a little chilly after this battle..."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Tower Shield;
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Ice Elf (30+210);
+Evil Snowman;
+Snow Shark;
+Ice Wyvern;
+Banshee;
+Storm Shark;
+
+| quests =
+The Only One Left;
+
+| dropnotes =
+When a Wizard has unlocked the '''Hero of Krokotopia''' {{Icon|Hero of Krokotopia}} Badge and has not unlocked the '''Oni Slayer''' {{Icon|Oni Slayer}} Badge, the following drops will be available:
+*5-8 Spellements and Treasure Card Spellements will drop each time from the '''Elemental''' (Fire, Ice, Storm, Balance) Schools for their respective rank 1-4 Spells.
+
+| gold =
+31 - 61;
+
+| hats =
+Artificial Headwrap;
+Cap of Expertise;
+Cap of Fascination;
+Cap of Poise;
+Cap of the Banshee;
+Cap of the Kraken*F5*WMV;
+Cowl of the Exceptional;
+Delicate Hat;
+Dexterous Cap;
+Elegant Helm;
+Hat of Equation;
+Headwrap of Incineration;
+Headwraps of Superiority;
+Helm of Horrors*F3*WMV;
+Obligatory Shroud;
+Shroud of Predominance;
+Skillful Hat;
+Sophisticated Headwraps;
+
+| robes =
+Animated Canine Cloak;
+Cloak of Diplomacy;
+Cloak of Respect*F2;
+Finely Finished Cloak;
+Frosty Vestment*F2*WMV;
+Icy Tunic;
+Masterful Canine Cloak;
+Mechanical Tunic*F3*WMV;
+Rainslicker;
+Remarkable Robe;
+Robe of Extinction*F4*WMV;
+Robe of the Unicorn*F2*WMV;
+Shroud of Predominance;
+
+| boots =
+Bandit's Footwraps;
+Clanker's Irritating Shoes*F2*WMV;
+Flickering Boots;
+Flowering Canine Shoes*F3*WMV;
+Frozen Canine Shoes*F3*WMV;
+Graceful Slippers;
+Pompous Footwraps*F2;
+Sandals of Civility;
+
+| athames =
+Athame of the Sleuth;
+Dagger of Force;
+Detective's Dagger;
+Dirk of Nobles*F2;
+Graceful Stiletto;
+
+| amulets =
+
+| rings =
+Ring of Rejuvenation;
+Watchman's Decoder Ring*F4*WMV;
+
+| wands =
+Staff of Rejuvenation*F3*WMV;
+
+| decks =
+Deck of the Cyclops*F3*WMV;
+Enigmatic Deck*F3*WMV;
+
+| items =
+Engraved Pedestal*F2*WMV;
+Green Street Light;
+Short Cement Post;
+Silver Chest*F2*WMV;
+Square Metal Platform;
+
+| cards =
+Evil Snowman (Tier 2b)*BR*F2;
+Fire Cat (Tier 2b)*BR*F2;
+Fire Elf (Tier 2b)*BR*F2;
+Fire Trap;
+Frost Beetle (Tier 2b)*BR;
+Ice Wyvern;
+Lightning Bats (Tier 2b)*BR*F2;
+Pacify;
+Scarab (Tier 2b)*BR;
+Scorpion (Tier 2b)*BR;
+Snow Serpent (Tier 2b)*BR;
+Storm Shark (Tier 2b)*BR*F2;
+Storm Trap;
+Sunbird (Tier 2b)*BR;
+Thunder Snake (Tier 2b)*BR*F2;
+Tough;
+
+| reagents =
+Bone*F3*WMV;
+Copper;
+Leather Straps*F2*WMV;
+Nickel;
+Pyrite*F2*WMV;
+Tin*F2;
+
+| spellements =
+Evil Snowman*BR*F2;
+Fire Cat*BR;
+Fire Elf*BR*F2;
+Frost Beetle*BR*F2;
+Gearhead Destroyer*BR*F3;
+Ice Wyvern*BR*F3;
+Immolate*BR*F2;
+Kraken*BR;
+Lightning Bats*BR*F2;
+Locust Swarm*BR*F2;
+Scarab*BR*F2;
+Scorpion*BR;
+Snow Serpent*BR*F3;
+Storm Shark*BR*F4;
+Sunbird*BR;
+Thunder Snake*BR;
+
+| snacks =
+Caramel Popcorn*F2;
+Gummy Bloodbat;
+Medium Fish*F3*WMV;
+Redskin Peanut;
+Stinky Cheese*F2;
+Wheat Cracker;
+
+| jewels =
+Chipped Defense Opal +7;
+Chipped Defense Opal +8;
+Chipped Mana Opal +10;
+Eager Opal;
+Flawed Accurate Opal +2%*F2;
+Locust Swarm Citrine*F2;
+
+| pins =
+
+| pets =
+Frog;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

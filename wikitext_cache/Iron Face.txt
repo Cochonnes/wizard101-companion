@@ -1,0 +1,257 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 100,000
+| crecla = Golden Horde Soldier
+| crecla2 = Horse
+| crecla3 = Equine 
+| school = Star
+| cheats = Yes
+| masteries =
+Storm;
+Life;
+Death;
+
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+225 Any;
+
+| criticalblock =
+242 Any;
+
+| outpierce =
+16%;
+
+| outboost =
+101%;
+
+| incboost =
+None;
+
+| incresist =
+50% Any;
+
+| outhealing =
+100%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| randomminions =
+Golden Horde Soldier (Fire);
+Golden Horde Soldier (Myth);
+
+| totalminions = 1
+| world = MooShu
+| location = Catmandu
+| subloc1 = Temple of the Eternal Spool
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*A {{Link|Creature|Bankhar (Ice)}} and {{Link|Creature|Bankhar (Death)}} Minion will appear if more than two Wizards are present.
+
+| speech =
+
+:'''Moo Bu:''' ''"And here he is... the Iron Face."''
+
+:'''Iron Face:''' ''"Uh, that's the Immortal Iron Face. I plugged my face into the searing snores of the Dragon Titan. And now it's all irony."''
+
+:'''Moo Bu:''' ''"Irony indeed. This is the dissenter that I saved. And he used his second chance to attain power and become a lord of the Golden Horde."''
+
+:'''Iron Face:''' ''"I totes have chi now. Except when I don't. And it is my immortal destiny to protect the Steppes. Except when I'm on vacation. Which I am right now. I'm sure the Steppes will be fine though. Also, I'm suuuuuuuuper rich. So how much can I pay you to go away?"''
+
+:'''Moo Bu:''' ''"And he beat me. He found me and challenged me and... won. This guy."''
+
+:'''Iron Face:''' ''"Ha-ha! I'm a superhero."''
+
+:'''Moo Bu:''' ''"*grumbles* Kinda thing that takes the wind out of your sails. But I'm sick of letting it haunt me. It's time to fight my fears."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Novus
+| tome description =
+Man, he should have been so cool. What happened?
+
+| extract class =
+Equine;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Round}} ''"Chi Meditation!"'' - At the beginning of the 1st Round, Iron Face will give himself a "''Chi!!''" Aura that gives -300% Outgoing Healing.
+*{{Icon|Spell}} ''"I meant to do that"'' - After Iron Face casts any Spell, he will follow up and hit himself for 5% max Health Damage (5,000 Damage) until his health drops to 0.
+*{{Icon|Round}} ''"Superhero Strike!"'' - At the beginning of every 2nd Round, Iron Face will cast one of the following Spells:
+**{{Link|ItemCard|Buck Gordon}}
+**{{Link|ItemCard|Dog Tracy}}
+**{{Link|ItemCard|Duck Savage}}
+**{{Link|ItemCard|Mandar}}
+**{{Link|ItemCard|Quartermane}}
+**{{Link|ItemCard|Solomon Crane}}
+**{{Link|ItemCard|The Bantam}}
+*'''Notes:'''
+**Iron Face can gain a Frenzy Quicken whenever he has Frenzy and uses Mandar.
+**Otherwise he will just gain Berserk, or Frenzy if he has Berserk when using Mandar.
+
+| spellnotes =
+
+| casts =
+Frenzy;
+Star Blade;
+Storm Beetle (125);
+Sound of Musicology;
+Lord of the Squall (Storm);
+Tempest;
+Life Scarab;
+Ratatoskr's Spin (Tier 3a);
+Grrnadier;
+Forest Lord;
+Death Scarab (Death);
+Ship of Fools (Tier 3b);
+Snack Attack;
+Bonetree Lord;
+
+| quests =
+Howl's Moving Cannonball;
+Moo Bu's Boo-Boo;
+
+| gold =
+10-19;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+Glistening Balance Ring*F2;
+Glistening Death Ring*F2*WMV;
+Glistening Fire Ring;
+Glistening Ice Ring;
+Glistening Life Ring;
+Glistening Myth Ring;
+Glistening Storm Ring*F2*WMV;
+Golden Balance Ring*F2;
+Golden Death Ring*F3*WMV;
+Golden Fire Ring;
+Golden Ice Ring;
+Golden Life Ring;
+Golden Myth Ring*F2*WMV;
+Golden Storm Ring;
+
+| wands =
+
+| decks =
+Glistening Balance Box;
+Glistening Death Box*F2;
+Glistening Fire Box;
+Glistening Ice Box;
+Glistening Life Box;
+Glistening Myth Box;
+Glistening Storm Box;
+Golden Balance Box;
+Golden Death Box;
+Golden Fire Box;
+Golden Ice Box*F2;
+Golden Life Box;
+Golden Myth Box*F3*WMV;
+Golden Storm Box*F2*WMV;
+
+| items =
+
+| cards =
+Azoth;
+Combustion;
+Doom and Gloom;
+Feint;
+Link;
+Rusalka's Wrath;
+
+| reagents =
+Pixels;
+Tin;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Amazing Blocking Amethyst +22;
+Amazing Blocking Jade +21;
+Amazing Blocking Jade +22;
+Amazing Blocking Onyx +22;
+Amazing Blocking Ruby +21*F2;
+Amazing Blocking Ruby +22;
+Amazing Defense Amethyst +63;
+Amazing Blocking Citrine +22;
+Amazing Defense Citrine +64;
+Amazing Defense Jade +63;
+Amazing Defense Onyx +64;
+Amazing Defense Amethyst +63;
+Amazing Defense Sapphire +63;
+Dazzling Blocking Amethyst +19;
+Dazzling Blocking Amethyst +20;
+Dazzling Blocking Citrine +20;
+Dazzling Blocking Jade +20;
+Dazzling Blocking Onyx +20;
+Dazzling Blocking Opal +10;
+Dazzling Blocking Peridot +19;
+Dazzling Blocking Sapphire +19;
+Dazzling Blocking Sapphire +20;
+Dazzling Defense Amethyst +60;
+Dazzling Defense Citrine +60;
+Dazzling Defense Jade +60*F2*WMV;
+Dazzling Defense Onyx +59;
+Dazzling Defense Onyx +60;
+Dazzling Defense Opal +29;
+Dazzling Defense Peridot +60;
+
+| pins =
+Balance Crushing Pin (140, Storm);
+Balance Disabling Pin (140, Storm);
+Balance Disabling Pin (150, Storm);
+Balance Punishing Pin (140, Storm);
+Balance Punishing Pin (150, Storm);
+Death Crushing Pin (150, Storm);
+Death Disabling Pin (140, Storm);
+Fire Crushing Pin (140, Storm)*F2*WMV;
+Fire Disabling Pin (140, Storm);
+Fire Disabling Pin (150, Storm);
+Fire Punishing Pin (140, Life);
+Fire Punishing Pin (140, Storm);
+Ice Crushing Pin (140, Storm);
+Ice Disabling Pin (140, Storm);
+Ice Disabling Pin (150, Storm);
+Ice Punishing Pin (150, Storm);
+Life Crushing Pin (140, Storm);
+Life Disabling Pin (140, Storm);
+Life Punishing Pin (140, Death);
+Life Punishing Pin (140, Storm);
+Myth Crushing Pin (140, Storm);
+Myth Punishing Pin (150, Balance);
+Myth Punishing Pin (150, Storm);
+Storm Crushing Pin (150, Fire);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

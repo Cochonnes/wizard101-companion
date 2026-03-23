@@ -1,0 +1,95 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 11,680
+| crecla = Dog
+| school = Myth
+| cheats = Yes
+| startpips = 7
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Wizard City
+| location = Tartarus
+| subloc1 = Courtyard of Tartarus
+| descrip =
+For the purpose of drops, Cerberus (Myth) is considered a Minion to {{Link|Creature|Cerberus (Balance)}}. All drops, cheats, and speech are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Amplify;
+Mythblade;
+Myth Trap;
+Blinding Light;
+Natural Attack (Myth 115-240-365);
+Ninja Pigs;
+Legendary Treant (445);
+Earthquake;
+Medusa;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

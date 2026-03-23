@@ -1,0 +1,223 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 11,520
+| crecla = Wyrm
+| school = Storm
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Whiptail Pantera;
+
+| world = Avalon
+| location = Dun Dara
+| subloc1 = The Lightning Lizard Cave
+| descrip =
+Two additional {{Link|Creature|Death Seraph}}s appear if more than two Wizards are present.
+
+| speech =
+:''"It has been long since I've feasted on a knight! Once my lightning cooks you, you'll taste like smoked bacon!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Avalon
+| tome description =
+Preying on the weak and powerless, Catalan the Lightning Lizard will cook you until you taste like smoked bacon.
+
+| extract class =
+Wyrm;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Windstorm;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 165-330-495, 70%);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Sirens;
+Tempest;
+
+| quests =
+A Song of George;
+
+| gold =
+105 - 127;
+
+| hats =
+Great Horned Helm*F3*WMV;
+Lake Knight's Helm*F3*WMV;
+Wrath of the Wild;
+
+| robes =
+Brave One's Plate;
+Fire Spirits' Toasty Tunic;
+Jouster's Plate;
+Knight of Flame Armor;
+Robes of the Silent Hunter;
+Sunken Giant's Tartan*F3;
+
+| boots =
+Fire-Spitter Dancers*F2*WMV;
+Friend of the Fire Elf Boots;
+Luck Smithed Boots;
+Winter Wyrm Cleats*F4*WMV;
+
+| athames =
+Bite of the Winter Wyrm;
+Knight of Flame Edge*F2*WMV;
+
+| amulets =
+Barbarian Philosopher's Mark;
+Strength of the Oak Pendant*F4*WMV;
+
+| rings =
+Crystal Cave Rose*F2*WMV;
+
+| wands =
+Dawnfrost Blade*F3*WMV;
+Fire-Edged Broadsword*F3*WMV;
+
+| decks =
+Antikythera Deck*F3*WMV;
+Beleno's Chivalric Gallery*F3*WMV;
+
+| items =
+Avalon Abbey Road Theme*F2;
+Avalon Main Theme;
+Bat Banner;
+Fox Head Statue;
+
+| cards =
+Amplify*F3;
+Berserk*F3*WMV;
+Catalan*F2*WMV;
+Cleanse Charm*F4*WMV;
+Colossal*F4*WMV;
+Disarm*F4*WMV;
+Empowerment*F2;
+Extraordinary*F3*WMV;
+Fire Dragon*F4*WMV;
+Fortify*F3*WMV;
+Frost Giant*F2*WMV;
+Gargantuan*F3*WMV;
+Infallible*F4*WMV;
+Insane Bolt*F5*WMV;
+Keeper of the Flame*F2*WMV;
+Mend*F2*WMV;
+Orthrus*F3;
+Power Nova;
+Rebirth*F2*WMV;
+Scarecrow*F3*WMV;
+Storm Lord;
+Supercharge*F5*WMV;
+Unstoppable*F3*WMV;
+Vengeance*F2*WMV;
+Wild Bolt*F3*WMV;
+
+| reagents =
+Black Lotus*F2*WMV;
+Brass*F3;
+Bronze;
+Cat Tail*F3*WMV;
+Deep Mushroom*F5*WMV;
+Frost Flower*F2*WMV;
+Lava Lily*F3*WMV;
+Mist Wood*F4*WMV;
+Nickel;
+Ore*F2*WMV;
+Parchment*F3*WMV;
+Pearl*F4*WMV;
+Red Mandrake*F3*WMV;
+Shell*F3*WMV;
+Stone Block*F3*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Bogwich;
+Buttered Bread*F3;
+Cauliflowers;
+Chocolate Strawberry*F2;
+Cracker;
+Deviled Eggs*F3;
+Golden Grapes;
+Gummy Firecat;
+Gummy Humongofrog;
+Gummy Wyrms*F3;
+Kola Nuts;
+Nettle Root;
+Pigeon Pie*F2*WMV;
+Shiny Tomato;
+Sugar Donut;
+Tiny Fish;
+Treant Bark*F2;
+Uni-Corn*F2*WMV;
+
+| jewels =
+Blade of Ice Sapphire;
+Clear Blocking Peridot +9;
+Clear Critical Jade +10;
+Clear Damage Jade +19;
+Clear Damage Onyx +19;
+Immunity Opal;
+Mass Triage Jade;
+Snow Drift Sapphire;
+
+| pins =
+
+| pets =
+Dreamsong Seraph;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears*F3*WMV;
+Blue Huckleberries;
+Key Limes*CR;
+Pink Huckleberries;
+Red Huckleberries*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

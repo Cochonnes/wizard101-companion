@@ -1,0 +1,186 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 4,000
+| crecla = Eagle
+| school = Myth
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Storm;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Minotaur Warrior;
+
+| world = Wizard City
+| location = Mount Olympus
+| subloc1 = Throne Room (Mount Olympus)
+| descrip =
+Zeus Sky Father is the final Boss of Mount Olympus. Defeating the Lord of the Skies is the final step in completing the first stage of the Immortal Games, and becoming the [[Basic:Aquila Badges| Honorable Bronze Archon]].
+*For the Challenge version of this battle, see {{Link|Creature|Zeus Sky Father (Mount Olympus, Challenge)}}.
+*Two additional Minotaur Warriors appear if more than two Wizards are present.
+
+| speech =
+:''"Child of Ravenwood, welcome to Olympus. This is the apex of the Spiral, and you must be honored to stand before us. Do not fear failure. We will be merciful if you fail. But now, come show us what you have mastered in that school of Merle Ambrose."''
+
+| cheatnotes =
+*{{Icon|Spell}} ''"YOU HESITATE TOO MUCH!"'' - If a Wizard casts a Spell that costs 6 or more Pips, Zeus will cheat-cast a Minotaur that deals 75 Myth Damage, plus 525 Myth Damage.
+**Shadow Spells will trigger an additional Minotaur.
+
+| spellnotes =
+*Casts a 0-Pip version of his Natural Attack that deals any Damage between the range of 1-3 Pips.
+
+| casts =
+Ether Shield;
+Mythblade;
+Myth Trap;
+Pierce;
+Stun;
+Blinding Light;
+Shatter;
+Keeper of the Flame;
+Cyclops;
+Humongofrog;
+Ninja Pigs;
+Minotaur;
+Natural Attack (Zeus);
+ 
+| quests =
+Into the Clouds;
+Wisdom and Grace;
+
+| dropnotes =
+When a Wizard has not unlocked the '''[[Basic:MooShu Badges|Emerald Champion]]''' {{Icon|Emerald Champion}} Badge and has completed the '''{{Link|Quest|Sisyphus is Unhappy}}''' {{Icon|Swole Like Sisyphus}} Quest, the following drops will be guaranteed:
+*{{Icon|Spellement}} 7-8 Aquila Spellements of '''any''' School
+
+If a Wizard already has the Emerald Champion Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of Mount Olympus to acquire a [[Item:Level Scaling Elixir - 30|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+1 - 39;
+
+| hats =
+Cowl of Zeus' Ire*F2;
+Helmet of Heavenly Gaze;
+Helmet of Zeus' Will;
+Senator's Devious Mantle;
+Senator's Judicial Laurel*F2*WMV;
+Senator's Laurel of Truth*F3*WMV;
+Senator's Mantle of Winter;
+Senator's Poetic Laurel;
+Senator's Radiant Laurel*F2;
+Senator's Raincloud Mantle*F2;
+Zeus' Galea of Vitality;
+Zeus' Helm of Authority;
+Zeus' Helm of Tumult*F3*WMV;
+Zeus' Veil of Snowfall*F2;
+
+| robes =
+Senator's Devious Toga*F2;
+Senator's Judicial Toga*F2*WMV;
+Senator's Poetic Toga;
+Senator's Radiant Toga;
+Senator's Raincloud Toga;
+Senator's Stirring Toga*F2*WMV;
+Senator's Wintry Toga;
+Vestment of Zeus' Aegis;
+Zeus' Armor of Supremacy;
+Zeus' Blazing Sun Raiment;
+Zeus' Cloak of Fate*F2;
+Zeus' Raiment of Flurries*F3;
+Zeus' Robes of Judgment;
+Zeus' Thunderclap Drape;
+
+| boots =
+Boots of Zeus' Alacrity*F2*WMV;
+Boots of Zeus' Lore;
+Senator's Devious Sandals;
+Senator's Guiding Sandals;
+Senator's Judicial Shoes*F2;
+Senator's Poetic Boots;
+Senator's Radiant Sandals*F2*WMV;
+Senator's Raincloud Shoes;
+Senator's Wintry Sandals*F2;
+Zeus' Blustering Footwraps*F2*WMV;
+Zeus' Boots of Rancor;
+Zeus' Boots of Skyfire;
+Zeus' Cloudstriders;
+Zeus' Thunderstomp Boots*F2*WMV;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Ares' Charred Spear;
+Ares' Spear of Bitter Cold*F2*WMV;
+Ares' Spear of Destiny;
+Ares' Spear of Fortitude*F2*WMV;
+Ares' Spear of Havoc*F2;
+Ares' Spear of Valor;
+Ares' Windstorm Spear;
+Staff of Zeus' Immortality;
+Zeus' Bolt of Arbitration;
+Zeus' Bolt of Gravity;
+Zeus' Falling Skies Staff;
+Zeus' Lightning Striker*F3*WMV;
+Zeus' Staff of Hailstones;
+Zeus' Staff of Wildfires;
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Olympian Dust @ 15 Olympian Dust;
+Olympian Dust @ 16 Olympian Dust;
+Olympian Dust @ 17 Olympian Dust;
+Olympian Dust @ 18 Olympian Dust;
+Olympian Dust @ 25 Olympian Dust;
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Mythic Skeleturion;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

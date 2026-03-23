@@ -1,0 +1,183 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 650
+| crecla = Undead
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Storm;
+
+| incresist =
+20% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Wandering Ahnic Spirit;
+
+| world = Krokotopia
+| location = Ahnic Family Tomb
+| descrip =
+Queen Irisi Djeserit is unique in that she is not encountered in a separate instance, similar to the [[Creature:Kraken|Kraken]] in [[Location:Triton Avenue|Triton Avenue]]; she respawns 5 minutes after being defeated.
+
+| speech =
+:''"Do your worst, pathetic Wizard!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+As proud as she is transparent. This Banshee was once a great Queen.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 90 Death Damage per Pip.
+
+| casts =
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Snow Serpent;
+Leprechaun;
+Fire Elf;
+
+| quests =
+Sanctify the Queen;
+
+| gold =
+22 - 33;
+
+| hats =
+Bitter Cap;
+Blazing Helm;
+Cowl of Prediction*F3;
+Headwrap of Originality*F2;
+Helm of the Citadel;
+Hood of the Stronghold*F2;
+Mask of Humidity*F3;
+Queen's Helm of Designs;
+Rugged Hood;
+Stout Hood;
+Thaumaturge's Cowl of Awe;
+
+| robes =
+Balmy Tunic*F2;
+Cloak of Harmony;
+Diviner's Tunic of Squalls;
+Garments of Repose*F2;
+Pyromancer's Lambent Robe;
+Robe of Ingenuity*F2;
+Robe of Reason*F2;
+Robe of the Oracle;
+Robes of Dormancy;
+Sorcerer's Maroon Cloak*F2;
+Stout Robe;
+Vest of the Oasis;
+
+| boots =
+Boots of the Whirlwind;
+Diviner's Boots*F2;
+Djeserit's Shoes of Artistry*F2;
+Krokotopian Storm Striders;
+Krokotopian Striders*F4;
+Rough-Hewn Boots;
+Sandals of Tall Tales;
+Shoes of Figments;
+Shoes of the Desert;
+Shoes of the Fortress*F2;
+Slippers of Sensibility;
+Threadbare Boots*F2;
+
+| athames =
+Ancient Kris;
+
+| amulets =
+Djeserit's Lucky Pendant*F2*WMV;
+
+| rings =
+Ring of Mortality*F3;
+Sparkling Band;
+Victor's Signet*F3;
+
+| wands =
+
+| decks =
+
+| items =
+Storm Sarcophagus*F3*WMV;
+
+| cards =
+Banshee;
+Ghost Touch*F3;
+Lightning Bats;
+Meteor Strike;
+Sprite;
+Storm Shark;
+Time of Legend;
+Troll*F2;
+
+| reagents =
+Copper*F2;
+Ectoplasm;
+Iron;
+Nickel;
+Pyrite;
+
+| spellements =
+
+| snacks =
+Cracker*F3;
+Green Grapes;
+Nettle Root*F2;
+Tiny Fish*F2;
+
+| jewels =
+Chipped PIP Opal +1%;
+Clear Opal;
+Cracked Accurate Ruby +2%;
+Cracked Defense Amethyst +10;
+Cracked Defense Citrine +11*F2;
+Cracked Defense Opal +4;
+Cracked Defense Ruby +10;
+Cracked Defense Sapphire +12*F2;
+Fire Cat Ruby;
+Frost Beetle Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+
+| mounts =
+
+| spells =
+
+}}

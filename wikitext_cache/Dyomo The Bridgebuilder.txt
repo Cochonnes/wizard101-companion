@@ -1,0 +1,218 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 9,600
+| crecla = Tundra Troll
+| school = Fire
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Tundra Troll;
+
+| world = Polaris
+| location = Forlorn Tayg
+| subloc1 = Bridge Control Room
+| descrip =
+
+| speech =
+:''"Here I sit, trying to run a legitimate business and everyone gives me trouble. I built this bridge! So what if I tore down the old one! No one gets across my bridge today. No one. If you've got a complaint, by all means, come a little closer. I dare you."''
+
+| spellnotes =
+
+| casts =
+Dark Nova;
+Fortify;
+Glacial Shield (-50%);
+Tower Shield;
+Smoke Mantle;
+Smoke Screen;
+Choke;
+Natural Attack (Fire 120-235-350);
+Meteor Strike;
+Fire from Above;
+Grand Phoenix;
+Efreet;
+Shift Grendel;
+
+| quests =
+New Blago Bridge;
+
+| gold =
+351 - 568;
+
+| hats =
+The Manticore*CR;
+Tundra Ushanka of Loyalty;
+Tundra Ushanka of Sagacity;
+Tundra Ushanka of Survival*F3;
+
+| robes =
+Blizzardy Tundra Pelage;
+Hailstorm Tundra Suit;
+Tundra Jacket of Survival*F3*WMV;
+
+| boots =
+Hailstorm Tundra Boots*F3*WMV;
+Sweltery Tundra Boots;
+Tundra Trekkers of Sagacity;
+Tundra Walkers of Survival*F2*WMV;
+
+| athames =
+Kossack Cutter of Travail;
+Urville Athame of Guile;
+Urville Dagger of Flames;
+Urville Kris of Wintertide;
+Urville Lancet of Anguish*F2;
+
+| amulets =
+Polarian Kossack Medallion;
+Urville Charm of Snowgusts;
+Urville Pendant of Elation*F3*WMV;
+
+| rings =
+Inspector's Ring of Grief;
+Inspector's Scorched Ring*F2;
+Inspector's Seal of Pluck;
+Radiant Kossack Ring;
+
+| wands =
+Tundra Bardiche of Mayhem;
+Tundra Survival Hatchet*F2;
+
+| decks =
+Evoker's Forlorn Sheaf;
+Tundra Cards of Disarray;
+Tundra Gallery of Hailstorms;
+
+| items =
+Arcanum Theme;
+Medium Enchanted Pot;
+Medium Pot*F2;
+Polaris Baba Yaga Theme*F3;
+Polaris Frozen Combat Theme;
+Polaris Gulag Combat Theme;
+Polaris Gulag Theme*F3;
+Polaris Ice Block Theme;
+Polaris Mine Theme*F2;
+Polaris Opera Theme;
+Polaris Rasputin Combat Theme*F3;
+Small Enchanted Pot*F3*WMV;
+Small Pot;
+Walruskberg Liberated Theme;
+Walruskberg Combat Theme;
+Walruskberg Theme*F3;
+
+| cards =
+Age of Reckoning;
+Ashen Bones;
+Combustion*F2;
+Crystal Spider;
+Death Troll*F2;
+Dragonspear;
+Namaste;
+Saga of Heroes*F2;
+Shift;
+Snowball Barrage;
+Steel Colossus;
+Stormspear;
+Yellow Troll*F2;
+
+| reagents =
+Aether*F5*WMV;
+Agave Leaves*F3*WMV;
+Amber;
+Amber Dust;
+Aquamarine*F4*WMV;
+Astral Shard*F2*WMV;
+Draconium*F2;
+Fire Blossom*F6*WMV;
+Fish Fin*F2;
+Golden Pearl*F4*WMV;
+Mithril*F5*WMV;
+Orichalcum;
+Palladium;
+Scales*F3*WMV;
+Silver*F2;
+Steel*F3*WMV;
+Sunstone*F4;
+Titanium*F3;
+Tungsten*F2*WMV;
+Turquoise*F2;
+Vine*F4*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F3;
+Chalupacabra;
+Eye Candy*F6*WMV;
+Hot Cross Buns*F5*WMV;
+Mustachios*F6*WMV;
+Penne Dreadful*F3*WMV;
+Polaris Fries*F2;
+Satyr Chow*F3*WMV;
+Ships 'n' Queso*F3*WMV;
+Veggie Juice*F3*WMV;
+
+| jewels =
+Lustrous Damage Amethyst +24;
+Polished Blocking Jade +11;
+Polished Defense Jade +42;
+
+| pins =
+
+| pets =
+Arctic Ninja Pig*CR;
+Glacier Dragon;
+Ice Bird;
+Intrepid Seal Pup;
+Mountain Yeti*CR;
+Polar Bear Cub*CR*F2;
+Snowball*CR;
+White Winter Owl*CR;
+
+| seeds =
+Angel Oak*F2*WMV;
+Cornbread Fruit Bush*F3;
+Evil Snow Peas*F2;
+Fish on a Vine*F2*WMV;
+Frozen Fly Trap*F3*WMV;
+Goose Tree*F4*WMV;
+Green Snow Apples*F2;
+King Parsley*CR*F2*WMV;
+Moon Flower*F3;
+Ninja Fig*CR*F2*WMV;
+Purple Snow Apples*F3*WMV;
+Queen Crape Myrtle;
+Snow Apples;
+Ultra Ninja Fig;
+Ultra Snow Apples;
+White Laugh-O-Dil;
+White Tiger Lily*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

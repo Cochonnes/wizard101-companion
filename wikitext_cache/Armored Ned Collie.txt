@@ -1,0 +1,310 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 16,810
+| crecla = Dingo
+| school = Death
+| school2 = Ice
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Ice;
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+21%;
+
+| outboost =
+104%;
+
+| incboost =
+30% Life;
+
+| incresist =
+42% Fire, Ice, Storm, Myth, Balance, Shadow;
+72% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+Combat Wombat (Life-Fire);
+
+| world = Wallaru
+| location = Wobbegong Territory
+| subloc1 = Ned Collie's Den
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"Oi, you two again! Well then, let's have at it."''
+
+| cheatnotes =
+*{{Icon|Aura}} ''"There ain't no spell piercing this armor!"'' - At the beginning of the first Round, Armored Ned Collie casts a '''-300%''' "Invulnerability" Resist Brace Aura.
+**The Aura cannot be removed.
+*{{Icon|Aura}} ''"Wizard, that smoothie kicking in yet?"'' - After the first Round, if a Damage Spell is cast (including self-Damage), Armored Ned Collie will cast a '''+300%''' Armor Piercing {{Link|Spell|Infallible}} Aura on the attacker.
+*{{Icon|Round}} ''"We'll never break that armor without hitting!"'' - Starting on the second Round, if a Wizard does not have the Armor Piercing Aura, Armored Ned Collie will say this at the end of every Round.
+*{{Icon|Blade}}{{Icon|Shield}}{{Icon|Heal over Time}} ''"I'll take that!"'':
+**If a Wizard casts a positive Charm, Armored Ned Collie will cast {{Link|Spell|Steal Charm}} on the caster.	
+***For any Spell that applies multiple Blades, only the most recent Blade is removed (for example, only the fire Blade will be removed if {{Link|Spell|Elemental Blade}} is used).
+***{{Link|Spell|Aegis}} can be used to protect against this cheat.
+**If a Wizard casts a positive Ward, Armored Ned Collie will cast {{Link|Spell|Steal Ward}} on the caster.
+**If a Wizard casts a Heal over Time, Armored Ned Collie will cast {{Link|Spell|Snow Drift}} on the caster.
+
+| spellnotes =
+
+| casts =
+Dream Shield;
+Balanceblade;
+Moon Blade;
+Dream Golem (Tier 3a);
+Scarecrow;
+Reindeer Knight (Tier 3b);
+Deathly Depths (Tier 3b);
+Volcanic Golem (Tier 3a);
+Colossus (Tier 3b);
+Lord of Winter;
+
+| quests =
+Collie Collared;
+
+| gold =
+6 - 45;
+
+| hats =
+
+| robes =
+
+| boots =
+Crisp City Dweller Hoppers*F2*WMV;
+Crisp Townie Hoppers;
+Elegant City Dweller Hoppers;
+Elegant Townie Hoppers;
+Flashy City Dweller Hoppers;
+Flashy Townie Hoppers;
+Gothic City Dweller Hoppers;
+Gothic Townie Hoppers;
+Iconic City Dweller Hoppers;
+Iconic Townie Hoppers;
+Striking City Dweller Hoppers;
+Striking Townie Hoppers;
+Vibrant City Dweller Hoppers;
+Vibrant Townie Hoppers;
+
+| athames =
+
+| amulets =
+
+| rings =
+Crisp City Dweller Ring;
+Crisp Townie Ring*F2;
+Elegant City Dweller Ring;
+Elegant Townie Ring;
+Flashy City Dweller Ring;
+Flashy Townie Ring;
+Gothic City Dweller Ring;
+Gothic Townie Ring;
+Iconic City Dweller Ring;
+Iconic Townie Ring;
+Striking City Dweller Ring;
+Striking Townie Ring*F2*WMV;
+Vibrant City Dweller Ring;
+Vibrant Townie Ring;
+
+| wands =
+
+| decks =
+
+| items =
+Wallaru Billabong Resort Theme;
+Wallaru Doom Moon Combat Theme;
+Wallaru Doom Moon Theme;
+Wallaru Eucalyptus Forest Com Theme;
+Wallaru Eucalyptus Forest Theme;
+Wallaru Outback Theme;
+Wallaru Ranch Combat Theme;
+Wallaru The Dreaming Combat Theme;
+Wallaru The Dreaming Theme;
+Wallaru Wobbegong Combat Theme;
+Wallaru Wobbegong Theme;
+
+| cards =
+Arcticzilla;
+Ashen Bones;
+Banshee (Tier 2b);
+Blood Bat (Tier 2b);
+Boreas Ifrit;
+Cleanse Charm;
+Cyclops (Tier 2b);
+Dark Sprite (Tier 2b);
+Elemental Blade;
+Elemental Trap;
+Evil Snowman (Tier 2b)*F2;
+Fire Cat (Tier 2b);
+Fire Trap;
+Fireblade;
+Frost Beetle (Tier 2b);
+Ghoul (Tier 2b);
+Harmattan Maxios;
+Hex;
+Ice Trap;
+Iceblade;
+Imp (Tier 2b);
+Leprechaun (Tier 2b)*F2*WMV;
+Life Trap;
+Lifeblade;
+Lightning Bats (Tier 2b);
+Locust Swarm (Tier 2b);
+Lord of the Squall*F2*WMV;
+Myth Trap;
+Nature's Wrath (Tier 2b);
+Raging Bull;
+Rusalka's Wrath*F2;
+Scarab (Tier 2b);
+Sirocco Djinni;
+Scorpion (Tier 2b);
+Snow Serpent (Tier 2b);
+Snowball Barrage;
+Spirit Trap;
+Storm Shark (Tier 2b);
+Storm Trap;
+Stormblade;
+Sunbird (Tier 2b);
+Thunder Snake (Tier 2b);
+Troll (Tier 2b);
+Winged Sorrow;
+Witch's House Call;
+
+| reagents =
+Bone;
+Brass;
+Bronze Gear;
+Copper*F2*WMV;
+Ectoplasm;
+Fish Fin;
+Lead;
+Nickel;
+Pyrite;
+Scales;
+Spider Silk;
+Tin;
+Tungsten;
+Turmeric;
+
+| spellements =
+Barbarian's Saga*F2;
+Blast Off!*F2;
+Bunyip's Rage*F2;
+Count Croakula;
+Dark & Stormy;
+Deathly Depths*F2;
+Drop Bear Fury;
+Freeze Ray;
+Glimpse of Infinity;
+Gravestorm;
+Grim Reader;
+Grrnadier*F2;
+Improbable Gaze;
+Lord of the Jungle;
+Mockenspiel;
+Old One's Endgame;
+Phantasmania!;
+Rainbow Serpent;
+S'more Machine;
+Scales of Destiny;
+Scion of Fire;
+Shatterhorn;
+Snack Attack;
+Sound of Musicology;
+Starspawn;
+Tatzlewurm Terror;
+Tree of Strife*F2;
+Wobbegong Frenzy;
+Zand the Bandit*F2*WMV;
+
+| snacks =
+Cracker;
+Dragon Fruit;
+Evil Carrot;
+Flaming Carrot;
+Glowing Dragon Fruit;
+Heavenly Bubblegum;
+Lava Guava;
+Marzipan Maize;
+Mini Pumpkin;
+Misfortune Cookie;
+Nana's Pumpkin Spice Milkshake;
+Orange Jalapeno;
+PB Cookie;
+Salty Fish;
+Tamales;
+Wild Strawberry;
+
+| jewels =
+Amazing Accurate Citrine +15%;
+Amazing Accurate Jade +15%;
+Amazing Accurate Ruby +15%;
+Amazing Accurate Sapphire +15%;
+Amazing Health Opal +136;
+Amazing Health Opal +138;
+Amazing Health Opal +141;
+Amazing Health Opal +145;
+Amazing Mana Opal +57;
+Amazing Mana Opal +58;
+Amazing Mana Opal +60;
+Buck Gordon Ruby;
+Dog Tracy Amethyst;
+Flawless Accurate Citrine +16%;
+Flawless Accurate Peridot +16%;
+Flawless Accurate Ruby +16%;
+Flawless Health Opal +148;
+Flawless Health Opal +150;
+Flawless Health Opal +152;
+Flawless Health Opal +153;
+Flawless Health Opal +155;
+Flawless Mana Opal +61;
+Flawless Mana Opal +62;
+Flawless Mana Opal +64;
+Gravestorm Onyx;
+Mandar Peridot*F2*WMV;
+Quartermane Citrine;
+Scales of Destiny Citrine;
+Starspawn Jade;
+The Bantam Jade;
+Tree of Strife Amethyst;
+
+| pins =
+Balance Blocking Pin (150, Fire);
+Balance Blocking Pin (150, Life)*F2;
+Balance Blocking Pin (150, Storm);
+Balance Blocking Pin (160, Myth);
+Balance Blocking Pin (160, Storm);
+Balance Resist Pin (140, Storm);
+Fire Blocking Pin (150, Storm);
+Fire Blocking Pin (160, Storm);
+Fire Resist Pin (140, Storm);
+Ice Resist Pin (140, Myth);
+Life Blocking Pin (150, Storm);
+Life Blocking Pin (160, Storm);
+Life Resist Pin (140, Storm);
+Storm Mending Pin (140);
+Storm Mending Pin (160);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

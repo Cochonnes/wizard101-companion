@@ -1,0 +1,173 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 10,880
+| crecla = Beastman
+| school = Ice
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+15%;
+
+| outboost =
+45%;
+
+| incboost =
+15% Fire;
+
+| incresist =
+30% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minion = Beastman Guard (Storm, Rank 15, H2415)
+| minion2 = 
+| world = Empyrea
+| location = Aeriel Jungle
+| subloc1 = Beastman Tunnels
+| descrip =
+
+| speech =
+:''"We fight anyway! We stop you now!"''
+| spellnotes =
+
+| casts =
+Dark Nova;
+Empowerment;
+Ice Elf (45+180);
+Natural Attack (Ice 158-250-345);
+Blizzard;
+Winter Moon;
+Frostbite;
+Icezilla (650-730);
+Frost Giant;
+Woolly Mammoth;
+Lord of Winter;
+
+| quests =
+Beasty Mountain High;
+Life's a Beast;
+
+| gold =
+247 - 347;
+
+| hats =
+
+| robes =
+
+| boots =
+Interstellar Officer's Boots;
+
+| athames =
+Interstellar Delegate's Knife;
+Interstellar Engineer's Knife;
+
+| amulets =
+Interstellar Delegate's Charm;
+Interstellar Engineer's Charm;
+Interstellar Explorer's Charm;
+Interstellar Medic's Charm;
+Interstellar Officer's Charm;
+
+| rings =
+
+| wands =
+Engineer's Hexacorder;
+
+| decks =
+
+| items =
+Empyrea Aeriel Theme*F2*WMV;
+Empyrea Athanor Combat Theme;
+Empyrea Finale Combat Theme;
+Empyrea Inner Athanor Theme*F2*WMV;
+Empyrea Jungle Theme;
+Empyrea Outer Athanor Theme;
+
+| cards =
+Balefrost;
+Doom and Gloom;
+Mass Death Prism;
+Mass Fire Prism;
+Mass Ice Prism;
+
+| reagents =
+Ancient Scroll*F3*WMV;
+Antique Coins*F4*WMV;
+Black Pearl*F4*WMV;
+Blood Moss*F6*WMV;
+Brass*F3*WMV;
+Bronze Gear*F4*WMV;
+Cobalt*F2*WMV;
+Ectoplasm*F3*WMV;
+Scales;
+Spider Silk*F2;
+Spring*F4*WMV;
+Tin*F4*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F3*WMV;
+Bread Fruit Fruit;
+Cherry Pie;
+Discord Grape Jelly*F2;
+Eye Candy;
+Fern Jelly;
+Glowing Taffy*F4*WMV;
+Hot Cross Buns*F3*WMV;
+Pizza;
+Rock and Roll Candy;
+Sprinkle Cupcake*F4*WMV;
+Wheat Cracker*F2;
+
+| jewels =
+Death-Away Onyx;
+Fire Assailant Ruby;
+Fire-Shot Ruby;
+Hexster Citrine;
+Ice-Ward Sapphire;
+Life Assailant Jade;
+Lustrous Accurate Amethyst +11%*F2;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Sapphire +13;
+Lustrous Damage Citrine +23;
+Lustrous Mana Opal +42;
+Myth-Sniper Peridot;
+Plaguebringer Onyx;
+Power Player Citrine;
+Steal Health Talent Onyx;
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Baby Carrots*F2;
+Boiled Peanuts;
+Blue Huckleberries*F2;
+Bread Fruit Bush*F2;
+Burning Snap Dragon;
+Cornbread Fruit Bush*F2*WMV;
+Couch Potatoes*CR*F3*WMV;
+Fish on a Vine;
+Golden Couch Potatoes*F2*WMV;
+Grapes of Wrath*CR*F2;
+Helephant Ears;
+Ivy League*CR*F2*WMV;
+Pink Huckleberries*F3;
+Red Couch Potatoes;
+Red Huckleberries*F3*WMV;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Sour Fickle Pickle;
+
+| mounts =
+
+| spells =
+
+}}

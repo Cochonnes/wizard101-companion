@@ -1,0 +1,169 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 580
+| crecla = Giant
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+10% Storm;
+
+| incresist =
+40% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Ice Weaver;
+
+| world = Krokotopia
+| location = Grand Arena
+| subloc1 = Sun Gate
+| descrip =
+*Two additional Ice Weavers will appear if more than two Wizards are present.
+
+| speech =
+:''"The Arena Master says that after I smash you I get to have Spider Eyes! Hmmmmm... I like Spider Eyes... Okay, now Krag smash you...!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Myth Damage per Pip.
+
+| casts =
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Dark Sprite;
+Ghoul;
+Snow Serpent;
+Leprechaun;
+
+| quests =
+Stonechin;
+The Troll Bridge;
+
+| gold =
+22 - 31;
+
+| hats =
+Bitter Cap*F2;
+Cap of the Oasis;
+Conjurer's Hat;
+Diviner's Hat of Squalls;
+Durable Hood;
+Hat of the Mirage;
+Helm of the Cyclone*F2;
+Mask of Proportions;
+Rugged Hood;
+Stout Hood*F2;
+Threadbare Hood;
+
+| robes =
+Cloak of Harmony;
+Cloak of Refuge;
+Diviner's Tunic of Squalls;
+Glacial Tunic*F2;
+Krokotopian Balance Kaftan;
+Krokotopian Death Kaftan;
+Krokotopian Kaftan;
+Raiment of the Badlands*F2*WMV;
+Robe of Talent;
+Robe of the Oracle*F2;
+Rough-Hewn Robe*F2;
+Runed Vestment;
+Sphinx's Vestment*F2;
+Sturdy Robe;
+Vest of the Desert;
+Vest of the Oasis;
+Vestment of Darkness;
+Vestment of the Arctic*F2;
+
+| boots =
+Boots of the Citadel*F2;
+Boots of the Cyclone;
+Boots of the Whirlwind;
+Charged Sandals*F2*WMV;
+Cryptkeeper's Shoes;
+Crystalline Footwraps;
+Footwraps of the Arctic*F2;
+Quartermaster's Boots;
+Shoes of Annihilation;
+Shoes of Mortality*F3;
+
+| athames =
+Dirk of Harmony;
+Parched Kris;
+Powerful Stiletto;
+Whirlwind Dagger;
+
+| amulets =
+
+| rings =
+Ring of the Badlands;
+Sparkling Band;
+
+| wands =
+
+| decks =
+
+| items =
+Bushy Palm Tree;
+Floor Torch*F2;
+Krok Sun Plaque;
+Purple Painted Column*F2;
+
+| cards =
+Evil Snowman;
+Meteor Strike;
+Troll*F2*WMV;
+Weakness;
+
+| reagents =
+Copper*F2;
+Iron*F3;
+Nickel;
+Spider Silk*F2;
+
+| spellements =
+
+| snacks =
+Cracker*F3*WMV;
+Green Grapes*F6*WMV;
+Nettle Root*F3*WMV;
+Tiny Fish*F6*WMV;
+
+| jewels =
+Chipped Damage Opal +4;
+Cracked Defense Amethyst +10;
+Dark Sprite Onyx;
+Fire-Giver Ruby;
+Grass Post Opal;
+Scarab Citrine*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2;
+Pink Dandelion*CR*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,215 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 8,000
+| crecla = Penguin
+| school = Fire
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+120 Any;
+
+| criticalblock =
+105 Any;
+
+| outpierce =
+7%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Ice;
+
+| incresist =
+30% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Inspector Brigadier;
+Inspector Brigadier;
+
+| world = Polaris
+| location = Walruskberg
+| subloc1 = Tiki Stockroom
+| descrip =
+Inspector Escoffier is trying to rough up [[NPC:Cosette|Cosette's]] husband, former [[NPC:Taylor Coleridge|Pirate Captain Taylor Coleridge]].
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Glacial Shield;
+Tower Shield;
+Smoke Mantle;
+Smoke Screen;
+Fire Trap;
+Choke;
+Natural Attack (Fire 120-240-360, 75%);
+Sunbird (345-405);
+Firezilla;
+Grand Phoenix;
+Efreet;
+
+| quests =
+Captain No Captain;
+
+| gold =
+335 - 427;
+
+| hats =
+
+| robes =
+Interstellar Navigator Suit;
+Urville Station Cherkesska;
+
+| boots =
+Urville Boots of Flames;
+Urville Walkers of Guile;
+
+| athames =
+Mage's Blustery Razor*F2;
+
+| amulets =
+Interstellar Delegate's Charm;
+Mage's Dolorous Amulet;
+Mage's Hardy Carcanet*F2*WMV;
+
+| rings =
+Interstellar Engineer's Band;
+Mage's Wintry Ringlet;
+
+| wands =
+Delegate's Hexacorder;
+Engineer's Hexacorder;
+Explorer's Hexacorder*F2*WMV;
+Officer's Hexacorder*F2*WMV;
+
+| decks =
+Interstellar Explorer's Deck;
+Mage's Smoldering Parcel;
+
+| items =
+Empyrea Athanor Combat Theme;
+Empyrea Flotsam Combat Theme;
+Empyrea Jungle Theme;
+
+| cards =
+Combustion;
+Counterforce;
+Mutate Bats (Ice);
+Mutate Cat (Ice);
+Mutate Helephant (Ice);
+Mutate Helephant (Storm);
+Mutate Kraken (Ice);
+Mutate Monster (Fire);
+Mutate Monster (Ice);
+Mutate Phoenix (Storm);
+Mutate Serpent (Fire);
+Mutate Shark (Ice);
+Mutate Snowman (Fire);
+Mutate Swarm (Ice);
+Mutate Wyvern (Fire)*F2*WMV;
+Mutate Wyvern (Storm);
+
+| reagents =
+Aether;
+Agave Leaves*F2*WMV;
+Amber Dust*F3*WMV;
+Ancient Scroll;
+Antique Coins;
+Aquamarine*F4*WMV;
+Astral Shard;
+Black Pearl*F3*WMV;
+Blood Moss*F2;
+Brass;
+Bronze Gear;
+Cobalt*F3;
+Ectoplasm;
+Fish Fin*F5*WMV;
+Golden Pearl*F2*WMV;
+Mithril*F7*WMV;
+Nickel*F2*WMV;
+Scales*F8*WMV;
+Silver;
+Spider Silk;
+Spring;
+Steel*F5*WMV;
+Sunstone*F4*WMV;
+Tungsten*F4*WMV;
+Turquoise*F4*WMV;
+Vine*F3*WMV;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate;
+Beast Wellington*F2;
+Chalupacabra;
+Eye Candy*F4*WMV;
+Glowing Taffy*F2;
+Granny Snow Apple;
+High Road Haggis;
+Hot Cross Buns*F3*WMV;
+Mustachios*F2*WMV;
+Pizza*F2*WMV;
+Polaris Fries*F2;
+Rock and Roll Candy;
+Satyr Chow*F2*WMV;
+Ships 'n' Queso;
+Snow Apple Cider;
+Sprinkle Cupcake*F3*WMV;
+Squash;
+Veggie Juice;
+
+| jewels =
+Balance-Giver Citrine;
+Balance-Sniper Citrine;
+Death-Away Onyx;
+Death-Shot Onyx;
+Fire-Proof Ruby;
+Ice-Boon Sapphire;
+Infector Onyx;
+Lustrous Blocking Jade +13;
+Lustrous Critical Amethyst +13;
+Lustrous Damage Citrine +23;
+Lustrous Defense Citrine +45;
+Lustrous Health Opal +100;
+Polished Health Opal +89;
+Storm-Sniper Amethyst;
+
+| pins =
+
+| pets =
+White Winter Owl;
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Angora Bunny Ears;
+Baby Carrots*F2*WMV;
+Bell Pepper;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Cornbread Fruit Bush*F2;
+Couch Potatoes*CR;
+Fish on a Vine;
+Grapes of Wrath*CR;
+Ivy League*CR;
+Prickly Bear Cactus;
+Red Couch Potatoes*F2;
+Red Huckleberries*F4*WMV;
+
+| mounts =
+
+| spells =
+
+}}

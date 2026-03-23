@@ -1,0 +1,124 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 16,120
+| crecla = Duck
+| school = Ice
+| shadowslots = 2
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+24%;
+
+| outboost =
+131%;
+
+| incboost =
+5% Fire;
+
+| incresist =
+73% Ice;
+
+| outhealing =
+
+| inchealing =
+52%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Lemuria
+| location = Telos
+| subloc1 = Hall of Heroes (Challenge)
+| descrip =
+Duck Savage is considered a Minion to [[Creature:Stallion Quartermane (Challenge)|Stallion Quartermane]]. All drops are recorded on that page.
+
+'''The First Team'''
+*{{Target|Dagger}} [[Creature:Solomon Crane (Challenge)|Solomon Crane]]
+*{{Target|Key}} [[Creature:Buck Gordon (Challenge)|Buck Gordon]]
+*{{Target|Gem}} [[Creature:The Shadoe (Challenge)|The Shadoe]]
+*{{Target|Spiral}} [[Creature:Dog Tracy (Challenge)|Dog Tracy]]
+
+'''The Second Team'''
+*{{Target|Book}} [[Creature:Mandar the Barbarian (Challenge)|Mandar the Barbarian]]
+*{{Target|Chalice}} [[Creature:Duck Savage (Challenge)|Duck Savage]]
+*{{Target|Wand}} [[Creature:Stallion Quartermane (Challenge)|Stallion Quartermane]]
+*{{Target|Potion}} [[Creature:The Bantam (Challenge)|The Bantam]]
+
+| speech =
+
+| spellnotes =
+*Casts a protected Iceblade (+40%).
+*Casts Snow Drift that extends the Heal over Time by 1 Round.
+
+| casts =
+Tower Shield;
+Volcanic Shield;
+Legion Shield;
+Frozen Armor;
+Icespear (+10%);
+Iceblade (+40%);
+Steal Ward;
+Snow Drift;
+Mega Taunt;
+Angry Snowpig (Tier 3a);
+Reindeer Knight (Tier 2a);
+Climaclysm;
+Blizzard;
+Winter Moon;
+Shatterhorn (Tier 3a);
+Natural Attack (Duck Savage);
+Freeze Ray (Tier 3a);
+Frost Giant;
+Snow Angel;
+Snowball Barrage;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Duck Savage
+}}

@@ -1,0 +1,146 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 12,330
+| crecla = Frog
+| school = Sun
+| school2 = Storm
+| masteries =
+Myth;
+
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+583 Any;
+
+| criticalblock =
+435 Any;
+
+| outpierce =
+29%;
+
+| outboost =
+121%;
+
+| incboost =
+30% Myth;
+
+| incresist =
+24% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+54% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Confusion;
+
+| world = Wallaru
+| location = Wobbegong Territory
+| subloc1 = Freddie's Dreamscape
+| descrip =
+
+| speech =
+:''"Ten, nine, the Spiral hates Dasein. Eight, seven, hate breeds aggression. Six, five, so they'd sail the skies. Four, three, but you're stuck with me. Two, one, let's have some fun."''
+
+| cheatnotes =
+'''Confusion'''
+*''"WHAAA?"''
+**{{Icon|Global}} At the beginning of the first Round, Confusion will cast {{Link|Spell|Saga of Heroes}} and will recast this spell when replaced.
+**{{Icon|Manipulation}} '''Beguile Cheats''' - While Dream Freddie is alive, Confusion will cast Spells that benefit whichever side has Beguiled it, while it has an Aura up. This prevents attacks on allies and heals on enemies.
+***{{Icon|Enemy}} - If Dream Freddie casts Beguile (Sun) on Confusion, it will cast a "Freddie's Influence" {{Link|Spell|Empowerment}} Aura on itself.
+***{{Icon|Friend}} - If a Wizard casts {{Link|Spell|Beguile}} on Confusion, Confusion will cast a "Wizard's Influence" {{Link|Spell|Infallible}} Aura on itself.
+****Spells with {{Link|Spell|Beguile}} as a Secondary Effect, such as {{Link|TreasureCard|Crow}}, will trigger this cheat.
+***Confusion will target and heal either side when not Beguiled.
+***{{Icon|Afterlife}} If Dream Freddie is defeated, Confusion will cast a Star version of {{Link|Spell|Supernova}}, removing its Aura and dealing no Damage to itself, ending it's Beguile cheats.
+'''Dream Freddie'''
+*{{Icon|Manipulation}} ''"Well, when you say it like that..."'' - At the beginning of every fourth Round, Dream Freddie casts {{Link|Spell|Beguile (Sun)}} on Confusion.
+*{{Icon|Damage}} ''"I'm a BAD guy!"'' - If Dream Freddie is attacked, he will cast a +35% Storm Blade on himself.
+**Damage over Times will not trigger this cheat.
+**Once {{Link|Creature|Confusion}} is defeated this cheat will no longer trigger.
+
+| spellnotes =
+
+| casts =
+Vengeance;
+Sun Shield (Storm-Life-Fire);
+Sun Blade (+35%);
+Disarm (Sun);
+Helephant (Sun);
+Sound of Musicology (Sun);
+Sun Serpent (Sun);
+Wild Bolt;
+Catalan (Tier 3a);
+Glowbug Squall;
+Triton;
+Leviathan;
+Celestial Calendar (1,345-1,445);
+
+| quests =
+The Great Dreamscape;
+
+| gold =
+7 - 17;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Wallaru Billabong Resort Theme*F2*WMV;
+Wallaru Doom Moon Theme;
+Wallaru The Dreaming Theme;
+Wallaru Wobbegong Theme;
+
+| cards =
+Elemental Trap;
+Spirit Blade;
+
+| reagents =
+Cobalt;
+Copper;
+Lead;
+Pyrite;
+Spider Silk;
+Tungsten;
+
+| spellements =
+
+| snacks =
+Carrot;
+Flaming Carrot;
+Misfortune Cookie;
+Nana's Pumpkin Spice Milkshake;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

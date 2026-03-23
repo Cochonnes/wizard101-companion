@@ -1,0 +1,312 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 19,985
+| crecla = Fish
+| school = Star
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Spellhammer Sorcerer;
+Water-Wing;
+
+| world = Wizard City
+| location = Crab Alley
+| subloc1 = Waterworks
+| badge = Waterworks Warrior
+| lootchest = Waterworks Chest
+| descrip =
+Sylster Glowstorm is the final Boss in Waterworks. He and his Minions must be stopped to prevent them from draining all of the magic from the Spiral with the swirling Vortex they've created.
+*While Sylster reportedly dropped "Tier 1" Hats in the past, KI Developers confirmed this is no longer the case. Currently, he only drops "Tier 1" Robes and Boots.
+
+| speech =
+:''"So you're the one messing up my operation? I had a good thing going. The vortex was pulling in magic junk from all over! Now I got nothing! You're gonna pay for that!"''
+
+| cheatnotes =
+'''Interrupt Cycle:''' All cycles last four Rounds, except for the first Trap cycle, which lasts three Rounds. These cycles start on the first Round of the fight and repeat until all enemies are defeated.
+:{{Icon|Trap|20px}} '''Trap Interrupt Cycle (First Cycle):''' (3 Rounds first time, 4 Rounds after)
+:*''"Traps go undetected in the light!"'' - Sylster Glowstorm will cheat-cast a light '''{{Link|Spell|Doom and Gloom}}''', during which Wizards may cast [[:Category:Trap Spells|Traps]] and Prisms. Sylster Glowstorm will remove positive [[:Category:Charm Spells|Charms]] by cheat-casting a version of '''{{Link|Spell|Cleanse Charm}}''' that removes three positive Charms from the caster.
+:**{{Link|Spell|Dissipate}} can be used to dispel this cheat.
+:**Negative Charm Spells, such as {{Link|Spell|Weakness}}, {{Link|Spell|Smoke Screen}}, and Dispels, trigger this cheat.
+:**Pet Spells do not trigger this cheat.
+:**Shadow Creature Blades trigger this cheat.
+:**{{Link|Spell|Aegis}} prevents one Charm spell from being removed.
+:*At the beginning of the first Round of this cycle starting on Round 8, Sylster Glowstorm cheat-casts a version of '''{{Link|Spell|Cleanse Charm}}''' that removes three positive Charms on all Wizards and a version of '''{{Link|Spell|Cleanse Ward}}''' that removes three Traps on himself and all Minions.
+:{{Icon|Blade|20px}} '''Blade Interrupt Cycle (Second Cycle):''' (4 Rounds)
+:*''"The blade goes unseen in the dark!"'' - Sylster Glowstorm will cheat-cast a dark '''{{Link|Spell|Doom and Gloom}}''', during which Wizards may cast [[:Category:Blade Spells|Blades]] and other positive Charms. Sylster Glowstorm will remove Traps and Prisms by cheat-casting '''{{Link|Spell|Cleanse Ward}}''' that removes '''one''' Trap or Prism.
+:**{{Link|Spell|Vaporize}} can be used to dispel this cheat.
+:**For {{Link|Spell|Elemental Trap}} and {{Link|Spell|Spirit Trap}}, only the last Trap (Storm, Life) is removed.
+:**Multi-target Trap Spells, such as {{Link|Spell|Windstorm}} and Mass Prisms, do not trigger this cheat.
+:**{{Link|Spell|Indemnity}} prevents one Trap spell from being removed.
+:*At the beginning of the first Round of this cycle, Sylster Glowstorm cheat-casts a version of '''{{Link|Spell|Cleanse Ward}}''' that removes three Traps on himself and all Minions.
+*''"No Traps?!"'' / ''"No Blades?!"'' - If a Wizard casts a single-target attack Spell without activating a Trap (during a light cycle) or Blade (during a dark cycle), then the enemy that was attacked will cheat-cast the following Spell:
+**Sylster Glowstorm casts '''{{Link|Spell|Ra}}''', dealing '''1,460-1,540''' Balance Damage.
+***{{Link|Spell|Unbalance}} can dispel this cheat.
+**Spellhammer Sorcerer casts {{Link|Spell|Scarecrow}}, dealing '''600''' Death Damage.
+**Water-Wing casts {{Link|Spell|Rebirth}} (no Absorbs), healing '''750''' Health. With Doom and Gloom active, this cheat will only heal 375 Health.
+***All Enemy attack Spells do not trigger this cheat.
+***Single-target Spells that also attack all enemies such as {{Link|Spell|Sun Serpent}} trigger this cheat.
+*If a Wizard casts any [[:Category:Global Spells|Global]] Spell, Sylster Glowstorm will replace the Global with the current Doom and Gloom.
+*{{Link|Spell|Strangle}} can be used to dispel either Doom and Gloom, although Charms or Traps will still be removed if casted during the wrong Global, no matter what Global is currently active.
+'''Minion Boss Cheats:''' - Cheats will carry over to the next in Boss in charge as follows.
+*''"Not da' Boss!"'' - If Sylster Glowstorm has been defeated, the Spellhammer Sorcerer replaces Sylster's role in casting the light and dark Doom and Gloom cycles, starting with the initial three Round light Doom and Gloom.
+*''"Where did everyone go?"'' - If Sylster Glowstorm and the Spellhammer Sorcerer have been defeated, the Water-Wing replaces the role in casting the light and dark Doom and Gloom cycles, starting with the initial three Round light Doom and Gloom.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Smoke Screen;
+Satyr;
+Elemental Blade;
+Elemental Trap;
+Natural Attack (Star 100x);
+Meteor Strike;
+Spectral Blast;
+Hydra;
+Power Nova;
+
+| quests =
+You Go First...;
+Moon River;
+
+| gold =
+128 - 235;
+
+| hats =
+Facade of Fairness;
+Forgotten Facade*F5;
+Helm of Burning Ambition*F3*WMV;
+Insightful Topper*F3;
+Nereus's Hoarfrost Helm;
+Rising Tide Topper*F2;
+Savory Shroud*CR*F2;
+Shroud of Solitude*F3;
+Storyteller's Cap;
+Synthesis Cover*F7*WMV;
+Thundercloud Coif*F2*WMV;
+Tricksy Hood;
+Vital Headdress*F2;
+
+| robes =
+Cape of Esprit*F4;
+Cape of Judgment*F2;
+Devoted Vestment*F2;
+Firestarter's Cape*F5;
+Frostbit Cape;
+Hangman's Cape;
+Mysterious Costume*F3*WMV;
+Reckless Raiment*F2;
+Salgio's Tinder Cloak*F5*WMV;
+Skyscream Cape*F2;
+Storyteller's Tunic*F2;
+Tasty Tunic*CR*F2*WMV;
+Tragic Tunic*F2;
+Tricksy Cape;
+Turbulent Tunic;
+Whimsical Surcoat*F4;
+
+| boots =
+Boots of Catastrophe*F2*WMV;
+Boots of Esprit*F3;
+Boots of Judgment*F4*WMV;
+Brimstone Boots;
+Delectable Hooves*CR*F2*WMV;
+Firestarter's Boots*F3*WMV;
+Frostbit Boots;
+Frostbit Footguards*F3;
+Hangman's Boots*F2;
+Ice Rangers*F5*WMV;
+Icestar Stalkers*F3;
+Natural Boots*F3;
+Polar Boots;
+Rime Runners*F3;
+Skyscream Boots*F2*WMV;
+Tolerant Boots;
+Tricksy Boots*F2;
+Virtue Shoes*F4*WMV;
+Wraps of Rapport*F2;
+
+| athames =
+Dagger of Typhoons*F7*WMV;
+Dirk of Delusion*F6*WMV;
+Kris of the Piscean Guard*F5*WMV;
+
+| amulets =
+Balance Mastery Amulet*CR;
+Death Mastery Amulet*CR;
+Fire Mastery Amulet*CR;
+Ice Mastery Amulet*CR;
+Life Mastery Amulet*CR;
+Myth Mastery Amulet*CR;
+Storm Mastery Amulet*CR;
+
+| rings =
+Combustible Band*F8*WMV;
+Majestic Signet*F6;
+Ring of Rare Origins*F5*WMV;
+Typhoon Band*F3*WMV;
+
+| wands =
+Lifeforce Blade*CR;
+
+| decks =
+
+| items =
+
+| cards =
+Accurate*F4;
+Amplify*F9*WMV;
+Balefrost*F3;
+Darkwind*F4*WMV;
+Donate Power*F5;
+Doom and Gloom*F3;
+Dragonflies*F5*WMV;
+Empower*F9*WMV;
+Gargantuan*F4*WMV;
+Giant*F4;
+Minotaur*F4*WMV;
+Mutate Snowman (Fire)*F4;
+Mutate Snowman (Storm)*F4*WMV;
+Pest Zapper*F7*WMV;
+Precision;
+Sanctuary*F4;
+Sniper*F3;
+Spirit Armor*F3;
+Sunbird;
+Unstoppable*F8*WMV;
+Wyldfire*F7*WMV;
+
+| reagents =
+Amber Dust;
+Aquamarine;
+Brass*F2;
+Bronze*F6*WMV;
+Cobalt*F2;
+Fish Fin*F13*WMV;
+Fossil*F2;
+Merle's Whisker*F3;
+Mithril;
+Sandstone*F12*WMV;
+Scales*F3;
+Shell;
+Silver;
+Steel*F2;
+Stone Block;
+Sunstone*F9*WMV;
+Titanium*F2;
+Tungsten;
+
+| spellements =
+
+| snacks =
+Baby Carrot*F2;
+Captain Canteloupe*F4;
+Cauliflowers*F16*WMV;
+Cherry Tomato*F2;
+Crab Apples*F2;
+Cubby Broccoli*F2;
+Dastardly Radish;
+Delicious Cookie*F9*WMV;
+Dragonhorned Melon*F4*WMV;
+Fancy Yogurt*F3*WMV;
+Flowering Pineapple*F2;
+Glowing Star Fruit*F12*WMV;
+Glowing Taffy*F8*WMV;
+Golden Grapes;
+Golden Wheat Bread*F3*WMV;
+Green Tomato;
+Hambrosia*F2*WMV;
+Mystic Dragon Fruit*F2;
+Spicy Drumstick*F16*WMV;
+Strawberry Cupcake*F13*WMV;
+Submarine Sandwich*F8*WMV;
+Sun Fruit*F3*WMV;
+Yellow Corn*F2;
+
+| jewels =
+Animate Skeleton Onyx;
+Availing Hands Citrine;
+Blade of Ice Sapphire;
+Brilliant Light Jade;
+Clear Blocking Hematite +10;
+Clear Blocking Opal +5;
+Clear Critical Amethyst +10;
+Clear Critical Jade +10;
+Clear Critical Peridot +10;
+Clear Damage Citrine +19*F2;
+Clear Damage Onyx +19;
+Clear Damage Peridot +19;
+Clear Defense Hematite +40;
+Detonate Ruby;
+Dimension Shift Peridot;
+Enfeeble Amethyst;
+Frozen Armor Sapphire*F2;
+Golem Minion Peridot;
+Great Learner Opal;
+Heart o'Pixie Jade;
+Hexster Citrine;
+Mander Minion Citrine;
+Mass Triage Jade;
+Mend Minion Peridot;
+Ninja Pig Opal;
+Opaque Blocking Sapphire +8;
+Opaque Damage Citrine +17;
+Opaque Damage Sapphire +17;
+Opaque Defense Opal +18;
+Polished Blocking Opal +6;
+Polished Critical Amethyst +11;
+Polished Damage Onyx +21;
+Polished Damage Sapphire +21;
+Polished Defense Opal +22;
+Power Link Ruby;
+Sap Health Talent Citrine;
+Sniper Talent Opal;
+Snow Drift Sapphire*F2;
+Spartan Jade;
+Stormclaw Amethyst;
+Take Power Ruby;
+Talos Peridot;
+Virulent Plague Onyx;
+
+| pins =
+
+| pets =
+Burning Pixie*CR;
+Pink Jellyfish*CR*F2;
+
+| seeds =
+Deadly Fly Trap*F6;
+Maelstrom Snap Dragon*F9*WMV;
+Pink Dandelion*CR*F7*WMV;
+Silver Trumpet Vine*CR*F9*WMV;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,222 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 17,080
+| crecla = Shadow Weaver
+| school = Death
+| startpips = 6
+| powerpips = Yes
+| critical =
+110 Any;
+
+| criticalblock =
+50 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Pachakutiq Who Shakes the Earth;
+
+| world = Azteca
+| location = Twin Giants
+| subloc1 = Black Tooth Cave
+| descrip =
+
+| speech =
+:'''Razan Bitter Blood:''' ''"I forgot. I hypnotized the flying frog. Pachakutiq, kill the Wizard. I'll get my bonus one way or another."''
+:'''Pachakutiq Who Shakes the Earth:''' ''"Kill the Wizard!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Infection;
+Mass Infection;
+Deathblade;
+Death Trap;
+Feint;
+Death Scarab (Death);
+Natural Attack (Death 190-380-570);
+Wraith (575);
+Scarecrow;
+Dr. Von's Monster;
+Avenging Fossil;
+
+| quests =
+Strong Smooth Words;
+ 
+| gold =
+144 - 180;
+
+| hats =
+
+| robes =
+Black Sun Chac's Armor*F2*WMV;
+Grinning Death Xicolli Vest*F3*WMV;
+Keeper of the Codex Vest*F2*WMV;
+Lord of Night Robes*F3*WMV;
+Philososaur's Robes;
+Prince of the Avian's Tunic*F5*WMV;
+Vestment of the Hungry Lizard*F2*WMV;
+White Fire Chac's Armor*F2;
+
+| boots =
+Black Tears of Night Wraps*F2*WMV;
+Elite Jura Guard Stalkers;
+Five Fangs of Fury Boots;
+Heart of Sky Boots;
+Indigo Wing Striders;
+Tree of Secrets Chac Runners;
+Twisted Fang Boots;
+White Fire Chac's Footgear*F2*WMV;
+
+| athames =
+King Neza's Shining Talon*F2;
+Savage Spike Horn Cutter*F2*WMV;
+Thunder Horn's Rough Cutter;
+Winged Tooth Knight's Hook;
+
+| amulets =
+Golden Head of the Cold House;
+Home Hearth Relic;
+Horizon of Underworld Charm;
+Necklace of Lost Ancestors;
+Pendant of the Wild Wings*F2;
+Thunder Horn's Coral Charm;
+
+| rings =
+Mother Moon's Count Ring*F5*WMV;
+Tears of the Sun Band;
+
+| wands =
+Lord of the Swamp's Scepter*F2*WMV;
+New Moon Lance*F2;
+Rod of the Black Sun;
+Spear of Breaking Dawn*F2;
+Talon of the Storm Owl;
+
+| decks =
+Calendar of the Spiral King*F2*WMV;
+King's Royal Portraits*F2;
+Lords of Night Pyramid Deck*F5*WMV;
+Storm Caimans Pyramid Deck*F2*WMV;
+Storm Sun Gallery*F2*WMV;
+
+| items =
+Azteca Apocalypse Theme;
+Azteca Dungeon Theme*F2;
+Azteca Haunted Theme;
+Azteca Main Theme*F2;
+Clothesline;
+Earth Dino Shield;
+Tall Drum;
+Wide Drum;
+
+| cards =
+Basilisk;
+Chastisement*F2*WMV;
+Colossal*F2*WMV;
+Cycle of Life*F2;
+Dr. Von's Monster;
+Extraordinary*F4;
+Furnace;
+Galvanic Field;
+Gnomes!;
+Polymorph Icehorn*F2;
+Polymorph Jaguar;
+Polymorph Pteranodon*F2;
+Potent Trap;
+Punishment;
+Rain of Fire;
+Reliquary;
+Sharpened Blade*F2*WMV;
+Sirens;
+Sleet Storm;
+Virulence;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F3*WMV;
+Black Pearl*F3*WMV;
+Blood Moss;
+Bone*F3;
+Bronze Gear*F4*WMV;
+Deep Mushroom*F6*WMV;
+Fire Blossom*F3*WMV;
+Fossil*F2*WMV;
+Golden Pearl;
+Lava Lily*F2*WMV;
+Mist Wood*F3*WMV;
+Mithril*F2; 
+Nightshade;
+Ore*F2*WMV;
+Red Mandrake*F3*WMV;
+Silver;
+Steel*F2*WMV;
+Stone Block*F4*WMV;
+Titanium*F2;
+Tungsten*F3*WMV;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Allocados*F2*WMV;
+Bedrock Bonbons*F2;
+Cacao Beans;
+Cactus Fruit*F2;
+Dr. Jalapeno*F2*WMV;
+Fried Ice Cream;
+Guava;
+Maize;
+Pterotomatoes;
+Quetzal Pretzel*F2;
+Rex Tea;
+Saber-Tooth Cider*F2*WMV;
+Stego Waffles;
+Tenochti-Flan;
+Tortilla Chips;
+Zocalo Wings*F3*WMV;
+
+| jewels =
+Balanceblade Talent Citrine;
+Berserk Talent Opal;
+Mend Minion Peridot;
+Polished Critical Ruby +11*F2*WMV;
+Polished Critical Sapphire +11;
+Polished Health Opal +87;
+Polished Health Opal +89;
+Sap Health Citrine;
+Strong Talent Opal;
+The Deer Knight Rises Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+Fiery Boom Shroom;
+Fish on a Vine;
+Ninja Fig*CR*F2*WMV;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

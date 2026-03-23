@@ -1,0 +1,175 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 13,115
+| crecla = Werewolf
+| school = Moon
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+722 Any;
+
+| criticalblock =
+387 Any;
+
+| outpierce =
+29%;
+
+| outboost =
+138%;
+
+| incboost =
+30% Myth;
+
+| incresist =
+29% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+59% Storm;
+
+| outhealing =
+8%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Rattavore (Storm);
+
+| world = Darkmoor
+| location = Mortal Plain
+| subloc1 = House of a Million Eyes
+| descrip =
+
+| speech =
+
+| cheatnotes =
+''Note: These Cheats do not start until the Second Round.''
+*{{Icon|Polymorph}} Immediately after Beast with a Million Eyes casts a Polymorph Spell, one of the following Cheats will trigger, depending on the Spell that was cast:
+**{{Icon|Ice}} {{Link|Spell|Shift Dread Paladin}}: ''"I see with my million eyes... Ice!"'' - Casts {{Link|Spell|Sleet Storm}}.
+**{{Icon|Life}} {{Link|Spell|Shift GreenOak}}: ''"I see with my million eyes... Life!"'' - Casts {{Link|Spell|Devotion}}.
+**{{Icon|Fire}} {{Link|Spell|Shift Grendel}}: ''"I see with my million eyes... Fire!"'' - Casts {{Link|Spell|Furnace}}.
+**{{Icon|Myth}} {{Link|Spell|Shift Ogre}}: ''"I see with my million eyes... Myth!"'' - Casts {{Link|Spell|Reliquary}}.
+**{{Icon|Storm}} {{Link|Spell|Shift Piscean}}: ''"I see with my million eyes... Storm!"'' - Casts {{Link|Spell|Galvanic Field}}.
+**{{Icon|Death}} {{Link|Spell|Shift Sugar Glider}} ''"I see with my million eyes... Death!"'' - Casts {{Link|Spell|Virulence}}.
+
+*{{Icon|Afterlife}} ''"Wrong!"'' - If Beast With A Million Eyes is killed while the cheat is active, he will revive himself to 100% HP. Depending on the Aura that Beast with a Million Eyes has, and what School's damage is dealt to it, Beast with a Million Eyes will retaliate with various Spells:
+**While {{Link|Spell|Sleet Storm}} is active, the Beast can be safely damaged with Fire and Myth Spells, or else it will cast {{Link|Spell|Lord of Winter}}.
+**While {{Link|Spell|Devotion}} is active, the Beast can be safely damaged with Death and Storm Spells, or else it will cast {{Link|Spell|Spinysaur}}.
+**While {{Link|Spell|Furnace}} is active, the Beast can be safely damaged with Life and Storm Spells, or else it will cast {{Link|Spell|Sun Serpent}}.
+**While {{Link|Spell|Reliquary}} is active, the Beast can be safely damaged with Fire and Life Spells, or else it will cast {{Link|Spell|Celestial Calendar}}.
+**While {{Link|Spell|Galvanic Field}} is active, the Beast can be safely damaged with Death and Ice Spells, or else it will cast {{Link|Spell|Storm Owl}}.
+**While {{Link|Spell|Virulence}} is active, the Beast can be safely damaged with Ice and Myth Spells, or else it will cast {{Link|Spell|Avenging Fossil}}.
+***For Spells that do multiple Schools of damage, such as {{Link|Spell|Hydra}}, each school will be counted separately, and if ''any'' of them would cause this Cheat to trigger, it will trigger once.
+
+*{{Icon|Round}} ''"Hahahahahahahaha!"'' - At the end of any Round that Beast with a Million Eyes did not take damage during, it will cast one of the following at random:
+**{{Link|Spell|Blizzard}}
+**{{Link|Spell|Ratatoskr's Spin}}
+**{{Link|Spell|Meteor Strike}}
+**{{Link|Spell|Humongofrog}}
+**{{Link|Spell|Tempest}}
+**{{Link|Spell|Sandstorm}}
+**{{Link|Spell|Ship of Fools}}
+
+| spellnotes =
+Uses Pip Conversion.
+
+| casts =
+Empower (Moon);
+Shift GreenOak;
+Shift Ogre;
+Shift Dread Paladin;
+Shift Sugar Glider;
+Shift Piscean;
+Shift Grendel;
+
+| quests =
+Eye-Catching;
+
+| gold =
+9 - 26;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Ancient Dhampir Impaler;
+Ancient Hemavore Impaler;
+Ancient Immortal Impaler;
+Ancient Living Dead Impaler;
+Ancient Nightstalker Impaler;
+Ancient Nosferatu Impaler;
+Ancient Vampire Impaler;
+Fledgling Dhampir Impaler;
+Fledgling Hemavore Impaler;
+Fledgling Immortal Impaler;
+Fledgling Living Dead Impaler;
+Fledgling Nightstalker Impaler;
+Fledgling Nosferatu Impaler;
+Fledgling Vampire Impaler;
+
+| amulets =
+
+| rings =
+Ancient Dhampir Signet;
+Ancient Hemavore Signet;
+Ancient Immortal Signet;
+Ancient Living Dead Signet;
+Ancient Nightstalker Signet;
+Ancient Nosferatu Signet;
+Ancient Vampire Signet;
+Fledgling Dhampir Signet;
+Fledgling Hemavore Signet;
+Fledgling Immortal Signet;
+Fledgling Living Dead Signet;
+Fledgling Nightstalker Signet;
+Fledgling Nosferatu Signet;
+Fledgling Vampire Signet;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Deadly Minotaur;
+Lord of the Squall;
+
+| reagents =
+
+| spellements =
+Barbarian's Saga*F2;
+Blast Off!;
+Bunyip's Rage;
+Count Croakula;
+Drop Bear Fury;
+Freeze Ray;
+Gravestorm;
+Grim Reader;
+Scales of Destiny;
+Shu;
+Starspawn;
+
+| snacks =
+
+| jewels =
+Polished Piercing Peridot +6%;
+Unearthly Damage Sapphire +9% (Ice);
+
+| pins =
+Myth Accurate Pin (100);
+Storm Accurate Pin (80);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

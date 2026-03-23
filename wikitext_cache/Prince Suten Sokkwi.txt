@@ -1,0 +1,207 @@
+{{Stub|which version of the '''''Mutate''''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 750
+| crecla = Krokotopian
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Fire;
+
+| incresist =
+50% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sokkwi Frostmancer;
+
+| world = Krokotopia
+| location = Emperor's Retreat
+| subloc1 = Prince Suten Sokkwi's Chamber
+| descrip =
+An additional Sokkwi Frostmancer and a {{Link|Creature|Sokkwi Gouger}} appear if more than two Wizards are present.
+
+| speech =
+:''"I had hoped to face a mighty warrior to test my skills. But, you showed up instead. Hardly worth the efforts of a prince..."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Ice Bats (245-285);
+Evil Snowman;
+Ghoul;
+Leprechaun;
+Sandstorm;
+
+| quests =
+Guardians at the Gate;
+
+| gold =
+15 - 34;
+
+| hats =
+Blazing Helm;
+Cowl of Prediction*F2;
+Cryptkeeper's Circlet*F2*WMV;
+Diviner's Hat of Squalls;
+Headwrap of Annihilation;
+Headwrap of Originality*F4*WMV;
+Nebit's Hood of Visions;
+Rough-Hewn Hood;
+Rugged Hood;
+Sokkwi's Helm*F2*WMV;
+Suten's Hood of Repose*F3*WMV;
+Thaumaturge's Cowl of Awe;
+
+| robes =
+Cloak of Harmony*F2;
+Conjurer's Cloak*F3;
+Garments of Repose*F6*WMV;
+Robe of Reason*F2*WMV;
+Robe of the Oracle*F2*WMV;
+Rough-Hewn Robe;
+Sorcerer's Maroon Cloak*F5*WMV;
+Sphinx's Vestment;
+Stout Robe*F2;
+Sturdy Robe;
+Summertime Robes;
+Suten's Shrewd Robe*F3;
+Threadbare Robe*F5;
+Tunic of the Whirlwind;
+Vest of the Oasis;
+
+| boots =
+Boots of the Citadel;
+Boots of the Whirlwind;
+Diviner's Boots*F3;
+Krokotopian Fire Striders;
+Krokotopian Storm Striders;
+Krokotopian Striders*F3;
+Rough-Hewn Boots*F2;
+Sandals of Energy*F2*WMV;
+Sandals of Refuge*F2*WMV;
+Shoes of Figments*F4*WMV;
+Shoes of Mortality;
+Slippers of Sensibility*F4*WMV;
+Threadbare Boots*F3;
+
+| athames =
+Athame of Mortality*F3*WMV;
+Dirk of Harmony;
+Knife of the Badlands;
+Parched Kris;
+
+| amulets =
+
+| rings =
+Advocate's Ring*F3;
+Flamelicked Ring;
+Loop of Tall Tales*F2*WMV;
+Partisan's Ring*F3*WMV;
+Ring of the Badlands*F2;
+Sparkling Band;
+
+| wands =
+
+| decks =
+Pharaoh's Deck*F4;
+
+| items =
+Green Gem*F4*WMV;
+Krok Insect Plaque;
+Krok Sun Plaque;
+Krok Sun Tablet*F4*WMV;
+Red Floor Torch;
+
+| cards =
+Dryad;
+Fire Trap;
+Giant;
+Ice Trap;
+Krokotillian*F5*WMV;
+Meteor Strike*F2;
+Mutate Cat;
+Pacify*F2*WMV;
+Sprite*F2*WMV;
+Storm Shark;
+Tempest*F2;
+Weakness;
+
+| reagents =
+Brass*F3;
+Copper*F2;
+Iron*F3;
+Lead*F3;
+Leather Straps;
+Nickel*F2*WMV;
+Pyrite*F2;
+Spider Silk*F2*WMV;
+Stone Block;
+Tin;
+
+| spellements =
+
+| snacks =
+Cracker*F3*WMV;
+Green Grapes*F2;
+Nettle Root*F4;
+Tiny Fish*F2;
+
+| jewels =
+Chipped Defense Peridot +13;
+Chipped Health Opal +17;
+Chipped Mana Opal +9;
+Cracked Accurate Jade +2%;
+Cracked Accurate Sapphire +2%;
+Cracked Damage Citrine +4;
+Cracked Damage Ruby +4;
+Cracked Damage Sapphire +4;
+Cracked Damage Sapphire +6;
+Cracked Defense Citrine +9;
+Cracked Defense Onyx +9;
+Cracked Defense Sapphire +10;
+Fire Elf Ruby;
+Fire-Boon Ruby;
+Glacial Shield Ruby;
+Healthy Opal;
+Leech Opal;
+Life-Giver Jade;
+Lightning Bats Amethyst;
+Ultra Energy Opal;
+Volcanic Shield Sapphire;
+
+| pins =
+
+| pets =
+Ghoul*F4*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Pink Dandelion*CR*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

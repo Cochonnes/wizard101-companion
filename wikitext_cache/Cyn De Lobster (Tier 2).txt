@@ -1,0 +1,116 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,550
+| crecla = Crab
+| school = Storm
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth;
+
+| incresist =
+60% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Goonie (Tier 2);
+Goonie (Tier 2);
+Goonie (Tier 2);
+
+| world = Housing Instance
+| location = Baddle of the Bands
+| subloc1 = Baddle of the Bands (Tier 2)
+| descrip =
+
+| speech =
+:''"King Thermidor is the self-appointed king of rock, but he's little more than a lip-syncher in my book. Look, he sent a Wizard to play for him? I guess he's shown his true colors! Bring it, Wizard! I'll show you this girl just wants to have fun!"''
+
+| spellnotes =
+
+| casts =
+Lightning Strike;
+Stormblade (+30%);
+Storm Trap;
+Disarm;
+Lightning Bats;
+Natural Attack (Storm 125-245-365);
+Storm Shark;
+Kraken;
+
+| quests =
+Baddle of the Bands;
+
+| gold =
+65 - 78;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Fire-Damaged Book;
+Magma Blister;
+Pointed Rock Shard;
+Singed Book;
+
+| cards =
+
+| reagents =
+Acorn;
+Deep Mushroom;
+Fossil;
+Iron;
+Mist Wood;
+Nickel;
+Nightshade;
+Ore;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Cheese Broccoli;
+Chocolate Strawberry;
+Gummy Bloodbat;
+
+| jewels =
+Snow Serpent Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

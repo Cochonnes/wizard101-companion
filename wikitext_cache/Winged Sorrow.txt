@@ -1,0 +1,140 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 55,037
+| crecla = 
+| school = Death
+| school2 = Shadow
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical =
+625 Any;
+
+| criticalblock =
+649 Any;
+
+| outpierce =
+32%;
+
+| outboost =
+141%;
+
+| incboost =
+30% Life;
+
+| incresist =
+42% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+72% Death;
+
+| outhealing =
+4%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Black Lagoon
+| subloc1 = Lair of the Winged Sorrow
+| descrip =
+
+| speech =
+
+| cheatnotes = 
+*{{Icon|Spell}} ''"Music is truth, truth music."'' - On turn 1, give all wizards a 1-pip Star spell called "Exit Combat" that allows them to leave combat without penalty.
+*{{Icon|Global}} ''"Perish in the storm!"'' - After a wizard sets the brazier to shadow fire, Winged Sorrow will cast a global spell resembling Darkwind and become untargetable.
+**{{Icon|Heal}} ''"The thunder is harsh and dangerous!"'' - If a wizard uses a healing spell while this global is active, Winged Sorrow will heal back to full health.
+** While this global is active, at the end of each turn, Winged Sorrow will be struck by lightning and gain full power pips. Despite having the visual appearance of a wand hit, this effect deals no damage.
+*{{Icon|Global}} ''"Flourish in the sunshine!"'' - After a wizard sets the brazier to regular fire, Winged Sorrow will cast a global spell resembling Power Play and become targetable.
+**Beginning on the second round after this global becomes active, each wizard will take damage equal to 25% of their health at the end of each round.
+**{{Icon|Round}} ''"The clear day is calm and enchanting"'' - Activates the turn after the brazier is switched to regular fire and clears all hanging effects from everyone in combat. If a wizard casts any hanging effect or aura while this global is active, this cheat will activate and will immediately clear the effect.
+** While this global is active, Winged Sorrow will not cast any attack spells, only buffs.
+** Randomly applies a -50% chromatic Weakness to wizards after they take damage at the end of the round. It is unknown what, if anything, causes this weakness to be cast.
+
+| spellnotes =
+
+| casts =
+Deathblade (+45%);
+Death Trap;
+Feint;
+Death Fuel (+30%);
+Wraith;
+Skeletal Dragon;
+Lord of Night (Shadow);
+Winged Sorrow (Shadow);
+
+| quests =
+Winged Sorrow (Darkmoor);
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Ancient Dhampir Crest;
+Ancient Hemavore Crest;
+Ancient Immortal Crest;
+Ancient Living Dead Crest;
+Ancient Nightstalker Crest;
+Ancient Nosferatu Crest;
+Ancient Vampire Crest;
+Fledgling Dhampir Crest;
+Fledgling Hemavore Crest;
+Fledgling Immortal Crest;
+Fledgling Living Dead Crest;
+Fledgling Nightstalker Crest;
+Fledgling Nosferatu Crest;
+Fledgling Vampire Crest;
+
+| rings =
+
+| wands =
+
+| decks =
+Ancient Dhampir Casket;
+Ancient Hemavore Casket;
+Ancient Immortal Casket;
+Ancient Living Dead Casket;
+Ancient Nightstalker Casket;
+Ancient Nosferatu Casket;
+Ancient Vampire Casket;
+Fledgling Dhampir Casket;
+Fledgling Hemavore Casket;
+Fledgling Immortal Casket;
+Fledgling Living Dead Casket;
+Fledgling Nightstalker Casket;
+Fledgling Nosferatu Casket;
+Fledgling Vampire Casket;
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

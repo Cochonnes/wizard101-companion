@@ -1,0 +1,179 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 8,800
+| crecla = Sultan
+| crecla2 = Golem
+| school = Storm
+| cheats = Yes
+| shadowslots = 1
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+15%;
+
+| outboost =
+90%;
+
+| incboost =
+15% Myth;
+
+| incresist =
+50% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+Gold Dragon (Tier 4);
+Steeleton (Tier 4);
+
+| world = Housing Instance
+| location = Sinbad & the Iron Sultan Gauntlet
+| subloc1 = Metallos Summit
+| descrip =
+Having finally been cornered by {{Link|NPC|Sinbad}} and companion Wizards on the summit of Metallos, {{Link|NPC|Hari Houssen}} has used the transmutative power of the Iommi Stone to transform himself the Iron Sultan, set on using its powers to restore Ferros to its place of power in the Spiral.
+*An additional Steeleton will appear if more than two Wizards are present.
+
+| speech =
+:''"I. Am. IRON SULTAN! Once I have taken Ferros I will return her to her former glory by resurrecting what first made her strong: METAL! But before I rule with an iron fist, I should practice wielding one. I think I'll start with your meaty faces!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+There is such a thing as having too much iron in your diet.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"You are late!"'' - If a Wizard is late to join the duel, then the Iron Sultan will interrupt-cast {{Link|Spell|Iron Sultan (Shadow)}} on the late Wizard.
+*{{Icon|Manipulation}} ''"Clever, but that is why I have a Golden Dragon!"'' - At the beginning of the first Round, the Gold Dragon will interrupt-cast a version of {{Link|Spell|Shadow Sentinel}} on itself that provides '''75%''' Intercept, '''100''' Critical Block, and '''-30%''' incoming Damage.
+*{{Icon|Feint}} ''"I am METAL!"'' - If a {{Link|Spell|Feint}} or {{Link|ItemCard|Mass Feint}} is cast on the Iron Sultan, he will use {{Link|Spell|Cleanse Ward (Shadow, -All)}} twice on himself to remove all harmful Wards.
+*{{Icon|Global}} ''"This one goes up to eleven!"'' - At the end of every fifth Round, the Iron Sultan will interrupt-cast a [[Spell:Darkwind (+35%)|+35% version of Darkwind]].
+**{{Icon|Damage}} ''"Heavy fists of lead, fill my victums full of dread!"'' - Immediately after Darkwind is cast, the Iron Sultan will cast {{Link|Spell|Iron Sultan}} on the Wizard with the lowest Health.
+
+| spellnotes =
+
+| casts =
+Brace;
+Galvanic Field (6 Rounds);
+Stormblade;
+Darkwind (+35%);
+Storm Serpent (230);
+Storm Cat;
+Iron Sultan;
+Glowbug Squall;
+Rusalka's Wrath;
+Storm Lord;
+Storm Hound (150);
+Iron Sultan (Shadow);
+
+| quests =
+The Umpteenth Voyage of Sinbad;
+
+| gold =
+0 - 1,430;
+
+| hats =
+Fleet Kapudan's Turban (Level 80+)*CR;
+Grand Admiral's Turban (Level 80+)*CR;
+Sinbad's Turban;
+Sky Captain's Turban (Level 70+)*CR;
+
+| robes =
+Fleet Kapudan's Armor (Level 80+)*CR;
+
+| boots =
+Fleet Kapudan's Boots (Level 70+)*CR;
+Fleet Kapudan's Boots (Level 90+)*CR;
+Grand Admiral's Boots (Level 80+)*CR;
+Grand Admiral's Boots (Level 90+)*CR;
+Sinbad's Boots;
+Sky Captain's Boots (Level 80+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Archer Rack*CR;
+Desert Forge*CR;
+Fence Post;
+Fence Segment;
+Gilded Sarcophagus;
+Istanboa Platform;
+Map of Aggrobah;
+Novice's Socket Wrench;
+Qhat Book Stand;
+Scroll Case (Mirage);
+The Boat;
+
+| cards =
+Fire Prism;
+Ice Prism;
+Judgement;
+Life Prism;
+Myth Prism;
+Sinbad;
+Tempest;
+
+| reagents =
+Brass;
+
+| spellements =
+
+| snacks =
+Ancient Date;
+Cactus Fruit;
+Eggplant;
+Fire Passion Fruit;
+Fuzzy Peach Fizz;
+Honeycombs;
+Pollen Bombs;
+Prickly Bear Punch;
+Roasted Chickpeas;
+Salty Fish;
+Sandy Corn;
+
+| jewels =
+Cracked Health Opal +7;
+Cracked Mana Opal +5;
+Cracked Resilient Opal +1%;
+
+| pins =
+
+| pets =
+Snappy Gryphon;
+
+| seeds =
+
+| mounts =
+Roc*7*CR;
+
+| spells =
+
+| altimage = Iron Sultan
+}}

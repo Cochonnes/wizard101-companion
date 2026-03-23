@@ -1,0 +1,254 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 15,600
+| crecla = Caiman
+| crecla2 = Undead
+| school = Storm
+| startpips = 6
+| powerpips = Yes
+| critical =
+110 Any;
+
+| criticalblock =
+50 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Fierce Quetzal;
+Fierce Quetzal;
+Fierce Quetzal;
+
+| world = Azteca
+| location = Saltmeadow Swamp
+| subloc1 = Pyramid of Storm Eye
+| descrip =
+
+| speech =
+:''"WHO DARES TRY TO CHAIN THE LIGHTNING? WELL, LITTLE THING, YOU'VE CALLED DOWN THE THUNDER. NOW TRY HOLDING IT IN YOUR PUNY HANDS."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+A distant relative of Krokhotep.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Lightning Strike;
+Stormblade;
+Storm Trap;
+Windstorm;
+Enfeeble;
+Natural Attack (Storm 190-380-570, 85%);
+Stormzilla;
+Storm Dragon;
+Sirens;
+Storm Owl;
+Tempest (85);
+
+| quests =
+This Corrosion;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge and has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge, the following drops will be available:
+*19 Spellements will drop each time from '''any''' School for their respective rank 6-10 Spells.
+
+| gold =
+231 - 269;
+
+| hats =
+
+| robes =
+Cloak of the Tyrant of Beasts*F2;
+Coatl Lord's Robes;
+Glorious Xicolli Vest;
+High Chac's Guarded Armor*F3;
+Storm Owl's Favored Robes*F2*WMV;
+Tunic of the Broken Spear*F2;
+
+| boots =
+Black Sun Chac's Stalkers*F3*WMV;
+Eagle Lord's Cloud Dancers*F6*WMV;
+
+| athames =
+Smoking Mirror's Final Touch*F3*WMV;
+Storm Caiman's Cruel Fang;
+Vibrant Green Flower Thorn*F3*WMV;
+
+| amulets =
+Memento of the Storm Caiman;
+
+| rings =
+Broken Spears Band;
+Falling Star's End Time Band*F3;
+
+| wands =
+Heart of the Sky Scepter*F2;
+Rod of the Black Sun;
+
+| decks =
+Storm Caimans Pyramid Deck*F5*WMV;
+Storm Sun Gallery*F3*WMV;
+
+| items =
+Azteca Combat Theme;
+Azteca Swamp Theme;
+Pathfinder;
+Quetzal Straw Nest;
+Tall Drum;
+Wide Drum;
+
+| cards =
+Berserk;
+Chastisement;
+Chimera;
+Colossal;
+Cycle of Life*F2;
+Extraordinary;
+Furnace;
+Polymorph Icehorn;
+Polymorph Jaguar;
+Polymorph Pteranodon;
+Potent Trap;
+Primordial;
+Punishment;
+Reliquary;
+Sharpened Blade;
+Sirens*F2;
+Sleet Storm*F2*WMV;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F5*WMV;
+Black Pearl*F2;
+Bone*F4*WMV;
+Brass;
+Bronze;
+Bronze Gear*F4*WMV;
+Deep Mushroom*F2*WMV;
+Fire Blossom*F4;
+Lava Lily*F4*WMV;
+Mist Wood*F6*WMV;
+Mithril;
+Nightshade;
+Ore*F5*WMV;
+Red Mandrake*F4*WMV;
+Stone Block*F3*WMV;
+Sunstone*F2;
+Turquoise*F3*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR*F2;
+Celestial Calendar*BR*F2;
+Centaur*BR;
+Chimera*BR*F4;
+Colossus*BR*F2;
+Dr. Von's Monster*BR;
+Efreet*BR*F2;
+Fire Dragon*BR;
+Forest Lord*BR*F2;
+Frost Giant*BR*F2;
+Gnomes!*BR*F3;
+Helephant*BR*F2;
+Hydra*BR*F3;
+Leviathan*F2*BR*WMV;
+Lord of Winter*BR;
+Medusa*BR*F2;
+Orthrus*BR*F2;
+Power Nova*BR;
+Ra*BR*F4;
+Rain of Fire*BR*F2;
+Rebirth*BR;
+Sabertooth*BR*F2;
+Scarecrow*BR*F2;
+Sirens*BR*F3;
+Skeletal Dragon*BR*F2;
+Snow Angel*BR*F3;
+Spinysaur*BR*F3;
+Stone Colossus*BR*F3;
+Storm Lord*F4*BR*WMV;
+Storm Owl*BR*F3;
+Sun Serpent*BR*F4;
+Triton*BR*F3;
+Woolly Mammoth*BR*F4;
+Wraith*BR;
+
+| snacks =
+Allocados;
+Avocado Milkshake*F2;
+Bedrock Bonbons*F2*WMV;
+Buttered Bread*F2;
+Cactus Fruit*F2*WMV;
+Chapulines;
+Fern Jelly*F2;
+Fried Ice Cream*F2;
+Marzipan Maize;
+Quetzal Pretzel;
+Saber-Tooth Cider;
+Saursa*F2;
+Tenochti-Flan;
+Yucca*F2*WMV;
+Zocalo Wings*F2;
+
+| jewels =
+Add Health Opal;
+Bombardier Opal;
+Clear Defense Jade +39;
+Clear Piercing Ruby +5%;
+Myth-Boon Peridot;
+Polished Blocking Hematite +11;
+Polished Critical Ruby +11;
+Polished Damage Peridot +21;
+Polished Resilient Opal +5%;
+Sap Health Talent Citrine;
+Slick-N-Slide Opal;
+Storm-Proof Amethyst;
+Super-Lock Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Blue Huckleberries;
+Deadly Ninja Fig;
+Pink Huckleberries;
+Red Huckleberries;
+
+| mounts =
+
+| spells =
+
+}}

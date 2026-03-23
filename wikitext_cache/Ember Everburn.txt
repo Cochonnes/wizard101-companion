@@ -1,0 +1,216 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,400
+| crecla = Elemental
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Ice;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gloom Fairy;
+
+| world = MooShu
+| location = Ancient Burial Grounds
+| subloc1 = Temple of Fire
+| descrip =
+Wizards need to recover a Spirit Torch from Everburn during the Quest, "Torchure".
+
+| speech =
+:''"Have you come to challenge me, young Wizard?"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip.
+
+| casts =
+Snow Shield;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf;
+Sunbird;
+Meteor Strike;
+Raging Kraken (Fire);
+Colossus (Fire);
+Heck Hound;
+Leprechaun;
+Cyclops;
+Vampire;
+
+| quests =
+Torchure;
+Shard Trek;
+
+| gold =
+62 - 120;
+
+| hats =
+Cap of Song;
+Cap of the Frontier*CR;
+Cap of the Verse;
+Cap of Tribulations;
+Concordant Headwraps*F2*WMV;
+Cowl of Tact;
+Engrossed Hat;
+Euphonic Cap;
+Everburn's Tuned Cap;
+Gallant Shroud*F2*WMV;
+Hat of Discontent;
+Hat of Enthusiasm*F3;
+Hat of the Nimble*F3*WMV;
+Headwraps of Generations;
+Heedful Headwraps;
+Industrial Helm;
+Nunu's Mask of the Twisted;
+Shroud of Chants;
+Shroud of Music;
+Zippy Shroud*F4*WMV;
+
+| robes =
+Cloak of Pictures;
+Dashing Cloak;
+Ecstatic Garments;
+Everburn's Thoughtful Cloak*F3;
+Gallant Tunic;
+Garments of Generations;
+Garments of the Opus;
+Garments of Unrest;
+Painful Vestment;
+Vestment of Arias;
+
+| boots =
+Boots of Cooperation*F4*WMV;
+Druidic Sandals;
+Entranced Slippers*F3*WMV;
+Everburn's Footwraps*F2;
+Footwraps of Anthems*F2*WMV;
+Footwraps of Chants*F2*WMV;
+Footwraps of Sandcastles*F2;
+Haskarr's Barbarish Boots;
+Proficient Shoes;
+Sandals of Exertion*F3*WMV;
+Sandals of Nuisance;
+Sandals of Soul-Searching*F2;
+Sandals of the Quick-Witted*F2*WMV;
+Shoes of Hinderance;
+Vigilant Sandals;
+
+| athames =
+Athame of Attention*F3;
+Dagger of Soul-Searching;
+Dirk of Sandcastles*F2*WMV;
+Ember's Pensive Dagger;
+Shortsword of Scrutiny;
+
+| amulets =
+
+| rings =
+Discerning Ring*F3*WMV;
+Ember's Ring of Reflection*F3*WMV;
+
+| wands =
+
+| decks =
+Ember's Deck of Notion*F2*WMV;
+
+| items =
+Ash Pile*F2;
+Curved Bookcase;
+Dirt Pile*F2;
+Hooked Lantern*F2;
+Red Leaf Tree*CR*F5*WMV;
+Red Stone Column*F4*WMV;
+Silver Lantern;
+Solar Obelisk;
+
+| cards =
+Accurate;
+Black Mantle;
+Dark Sprite*F4*WMV;
+Doom and Gloom;
+Ice Wyvern;
+Kraken;
+Monstrous;
+Pest Zapper;
+Skeletal Pirate;
+Tough;
+
+| reagents =
+Brass;
+Ectoplasm*F4*WMV;
+Iron;
+Nickel;
+Spider Silk*F3*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Crunch Apple;
+Fire Cracker*F2;
+Golden Peanut*F2;
+Golden Squash*F2*WMV;
+Large Fish;
+Large Watermelon;
+Square Root*F2;
+
+| jewels =
+Blemished Defense Amethyst +21;
+Blemished Defense Jade +21;
+Blemished Defense Onyx +21*F2;
+Blemished Defense Opal +12;
+Blemished Defense Ruby +21;
+Blemished Defense Sapphire +21*F2;
+Blemished Mana Opal +18;
+Blemished PIP Opal +4%;
+Calculating Opal;
+Charge Opal;
+Cheeky Opal;
+Drain Opal;
+Flawed Accurate Jade +4%;
+Flawed Accurate Onyx +4%;
+Flawed Accurate Opal +2%;
+Flawed Accurate Ruby +4%;
+Flawed Accurate Sapphire +4%;
+Flawed Defense Jade +19*F2;
+Ice-Proof Sapphire;
+Pip O'Plenty Opal;
+
+| pins =
+
+| pets =
+Sun Bird;
+
+| seeds =
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F2;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

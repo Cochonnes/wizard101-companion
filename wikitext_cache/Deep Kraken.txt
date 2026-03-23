@@ -1,0 +1,171 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 7,680
+| crecla = Kraken
+| school = Storm
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Shadow-Web Haunt;
+
+| world = Celestia
+| location = Stormriven
+| subloc1 = Kraken Cave
+| descrip =
+*Wizards are able to teleport into this location without being a Diviner with the appropriate quest.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Fortify;
+Amplify;
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 125-250-375, 70%);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Tempest;
+
+| quests =
+Hearts in Atlantis;
+
+| gold =
+81 - 96;
+
+| hats =
+Hood of Dissonance;
+Hood of the Sacred Lake*F2*WMV;
+Icestar Cover;
+Mask of the Catalan*F2*WMV;
+Spirit Helm;
+Wintertide Topper;
+
+| robes =
+Catalan's Scales;
+Combustible Costume;
+Fire-Spitter Robes*F2*WMV;
+Innate Tunic;
+Longcoat of Long Life;
+Winter Wyrm's Cloak*F2*WMV;
+
+| boots =
+Knight's Boots of Justice*F2*WMV;
+Merciful Knight's Boots;
+Scorched Footguards*F2*WMV;
+Storied Stalkers;
+
+| athames =
+Badger's Claw*F2*WMV;
+Horn Handled Knife;
+Longevity Twin Blades;
+
+| amulets =
+Dependable Squire's Torc;
+Torc of Pluck*F2*WMV;
+
+| rings =
+Brisk Circle of Nodor;
+Circle of Squalls;
+Swirling Signet;
+
+| wands =
+Balanced Longbow;
+Fellbringer's Bow*F2*WMV;
+Stag-Horned Staff;
+
+| decks =
+Antikythera Deck*F2*WMV;
+
+| items =
+Avalon Abbey Road Theme;
+Avalon Main Theme;
+Avalon Shield;
+
+| cards =
+Cleanse Charm*F2*WMV;
+Disarm*F2*WMV;
+Fire Dragon;
+Frost Giant;
+Gargantuan*F2*WMV;
+Insane Bolt*F2*WMV;
+Power Nova;
+Precision;
+Ra;
+Satyr;
+Storm Lord;
+Supercharge*F2*WMV;
+Unstoppable*F2*WMV;
+Wild Bolt*F2*WMV;
+
+| reagents =
+Black Lotus*F2*WMV;
+Cat Tail;
+Deep Mushroom;
+Frost Flower*F2*WMV;
+Lava Lily*F2*WMV;
+Mist Wood;
+Ore;
+Parchment*F2*WMV;
+Pearl*F2*WMV;
+Red Mandrake;
+Shell*F2*WMV;
+Stone Block*F2*WMV;
+
+| spellements =
+
+| snacks =
+Bogwich;
+Deviled Eggs;
+Glowing Star Fruit;
+Glowing Taffy;
+Golden Grapes;
+Gummy Wyrms*F2*WMV;
+King Banana;
+Pigeon Pie;
+Roasted Chickpeas*F2*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Evil Magma Peas*CR;
+Pink Dandelion*CR;
+Red Huckleberries;
+Silver Trumpet Vine*CR;
+White Tiger Lily*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

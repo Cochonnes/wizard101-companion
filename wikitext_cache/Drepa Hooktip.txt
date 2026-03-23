@@ -1,0 +1,200 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 16,750
+| crecla = Moth
+| crecla2 = Insect
+| school = Balance
+| startpips = 7
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Moth Mage;
+
+| world = Khrysalis
+| location = Sardonyx
+| subloc1 = Tower of Pale Beauty
+| descrip =
+
+| speech =
+:"''Spellbinder, the Shadow Queen warned us you'd be sniffing about!  Warm blood!  Hairless Mouse!  Antennae-less freak!  I knew you'd be searching for this useless traitor, Zed.  Prepare to be beaten and caged!"''
+
+'''Notes:'''
+*Two additional [[Creature:Moth Mage|Moth Magi]] appear if more than two Wizards are present.
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+Guardian of the Tower of Pale Beauty. Fitting, right?
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+*Drepa Hooktip's {{Link|Spell|Balanceblade}} stacks with the [[Creature:Moth Mage|Moth Mage's]].
+
+| casts =
+Infallible;
+Vengeance;
+Black Mantle;
+Availing Hands (85+870);
+Balanceblade;
+Hex;
+Mana Burn (-4 Pips);
+Natural Attack (Balance 160-255-350);
+Samoorai;
+Power Nova;
+Sabertooth;
+Judgement;
+
+| quests =
+Tower of Pale Beauty;
+
+| gold =
+134 - 157;
+
+| hats =
+Mantis Cowl of Honor*F3*WMV;
+
+| robes =
+Mantis Robe of Secrecy*F4*WMV;
+
+| boots =
+Burrower Scout's Hoppers*F3*WMV;
+Flame Legs Captain's Boots*F5*WMV;
+Mantis Hunter's Footwraps;
+Mouse Knight's Footguards;
+
+| athames =
+Blue Razor Hailstone Blade;
+Hisser's Burning Cleaver*F2*WMV;
+
+| amulets =
+Benzzi's Campaign Memento*F3*WMV;
+Collar of the Besieged;
+Mantis Prophet's Ornament*F2;
+
+| rings =
+
+| wands =
+Dirk of Burrower Harmony*F2;
+Halberd of Fulmination;
+
+| decks =
+Bumbler's Sleetfall Pack;
+Case of Engulfing Flames*F2;
+House of the Old Times*F2*WMV;
+
+| items =
+Khrysalis Combat Theme 2;
+Khrysalis Desert Shadows Theme*F5*WMV;
+Khrysalis Hive Combat Theme;
+
+| cards =
+Cycle of Life;
+Doom and Gloom*F3;
+Enfeeble (-All);
+Galvanic Field;
+Hooligan;
+Legendary Treant (445)*F2*WMV;
+Locust Swarm*F3*WMV;
+Luminous Weaver*F3;
+O'Leary Swindler;
+Polar Swarm*F2*WMV;
+Punishment;
+Reliquary;
+Spinysaur*F2*WMV;
+Sprite Swarm (40+360)*F3*WMV;
+
+| reagents =
+Astral Shard*F5*WMV;
+Black Lotus*F3*WMV;
+Black Pearl*F3*WMV;
+Blood Moss;
+Bone*F2*WMV;
+Bronze Gear*F4*WMV;
+Copper*F2*WMV;
+Deep Mushroom*F5*WMV;
+Fire Blossom*F4*WMV;
+Golden Pearl*F2;
+Iron*F2;
+Lava Lily*F3*WMV;
+Mist Wood*F3*WMV;
+Nickel;
+Ore*F6*WMV;
+Orichalcum;
+Red Mandrake*F3*WMV;
+Stone Block*F3*WMV;
+Sunstone;
+Tungsten;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Flaming Soup;
+Goat Cheese;
+Golden Grapes;
+Gummy Bees;
+Gummy Humongofrog;
+Hive Rinds;
+Honey Bombs;
+Honeycombs*F3;
+Honeycrisp Apples*F2*WMV;
+HoneyDon't Melon*F5*WMV;
+King Banana;
+Punk Rock Candy;
+Sugar Khrystals*F2*WMV;
+
+| jewels =
+Boost Opal;
+Chipped Mana Opal +11*F2;
+Cracked Defense Citrine +11;
+Cracked Defense Citrine +12;
+Energy Opal;
+Enfeeblement Opal;
+Healer Opal;
+Imp Jade;
+Polished Defense Citrine +44;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+Saw Palmetto*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

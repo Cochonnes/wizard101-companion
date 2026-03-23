@@ -1,0 +1,263 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 13,600
+| crecla = Undead
+| school = Ice
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Shattered Sky Spirit;
+
+| world = Polaris
+| location = River of Frozen Tears
+| subloc1 = Cave of the Shattered Sky
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Polaris
+| tome description =
+This guardian smells of deep earth and quiet regrets. It's exhausting just to be in its presence.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+*Every fifth Round, Shattered Sky Guardian will use the Spell version of Iceblade, then the Treasure Card version of Iceblade the next Round.
+
+| casts =
+Dark Fiend;
+Sleet Storm;
+Tower Shield;
+Iceblade;
+Iceblade*TC;
+Balefrost;
+Icebird (270);
+Frost Snake (270);
+Natural Attack (Ice 115-225-335);
+Handsome Fomori;
+Blizzard;
+Abominable Weaver;
+Snow Angel (6 Pip);
+
+| quests =
+Sundering of Land and Sky;
+
+| gold =
+1,667 - 2,549;
+
+| hats =
+Arcanum Conjurer's Spire;
+Arcanum Necromancer's Spire;
+Arcanum Sorcerer's Spire;
+Arcanum Theurgist's Spire;
+Imperial Walrusk Papakh;
+The Manticore*CR;
+The Warlock*CR;
+Walrusk Fur Hat of Dignity;
+Walrusk Fur Hat of Wit;
+Walrusk Papakh of Calamity;
+
+| robes =
+Walrusk Cloak of Graupel;
+Walrusk Cloak of Intensity;
+Walrusk Coat of Rime;
+Walrusk Uniform of Calamity;
+
+| boots =
+Arcanum Thaumaturge's Shoes;
+Arcanum Theurgist's Waders;
+Kataba Iceblock Runners;
+Walrusk Boots of Intensity;
+Walrusk Mukluks of Frenzy;
+Walrusk Runners of Wit;
+
+| athames =
+Arcanum Necromancer's Thorn;
+Imperial Walrusk Dagger;
+Kataba Dagger of Cinders;
+Kataba Edge of Parables;
+Kataba Stiletto of Destiny;
+
+| amulets =
+Arcanum Thaumaturge's Torc;
+Imperial Walrusk Medallion*F2;
+Kataba Amulet of Zeal*F2;
+Kataba Chain of Destiny;
+Kataba Necklace of Toil;
+Kataba Talisman of Havoc;
+Kataba Torc of Parables;
+Walrusk Amulet of Rime;
+
+| rings =
+Arcanum Theurgist's Loop;
+Imperial Walrusk Seal;
+Kataba Band of Glaciers;
+Kataba Ring of Cinders;
+Kataba Ring of Destiny*F2;
+Kataba Ringlet of Zeal;
+
+| wands =
+Imperial Walrusk Cutlass*F2;
+Kataba Iceblock Crescent Axe;
+Walrusk Saber of Intensity;
+Walrusk Saber of Rime;
+Walrusk Sword of Calamity;
+
+| decks =
+Arcanum Conjurer's Bevy;
+Walrusk Array of Graupel;
+Walrusk Cards of Intensity;
+Walrusk Hand of Dignity;
+Walrusk Spread of Frenzy;
+
+| items =
+Arcanum Theme*F2;
+Blue Teleporter*CR;
+Cyan Teleporter*CR;
+Green Teleporter*CR;
+Orange Teleporter*CR*F2*WMV;
+Polaris Baba Yaga Theme;
+Polaris Frozen Combat Theme*F3;
+Polaris Frozen Forest Theme;
+Polaris Gulag Combat Theme*F3;
+Polaris Gulag Theme*F3*WMV;
+Polaris Ice Block Theme*F2;
+Polaris Mine Combat Theme*F3;
+Polaris Opera Theme*F3;
+Polaris Rasputin Combat Theme*F3;
+Purple Teleporter*CR;
+Red Teleporter*CR*F2;
+Walruskberg Combat Theme*F3;
+Walruskberg Liberated Theme*F4;
+Walruskberg Theme*F3;
+White Teleporter*CR;
+
+| cards =
+Age of Reckoning;
+Counterforce;
+Deathspear;
+Firespear*F2*WMV;
+Icebird;
+Magma Colossus;
+Mutate Banshee (Sun);
+Mutate Bats (Fire);
+Mutate Colossus (Fire)*F2;
+Mutate Helephant (Storm);
+Mutate Hound (Ice);
+Mutate Kraken (Ice);
+Mutate Monster (Ice);
+Mutate Phoenix (Ice);
+Mutate Serpent (Storm);
+Mutate Snowman (Fire);
+Mutate Wyvern (Fire);
+Obsidian Colossus (420);
+Saga of Heroes*F3*WMV;
+Yellow Troll;
+
+| reagents =
+Aether*F2;
+Agave Leaves;
+Aquamarine*F8*WMV;
+Astral Shard;
+Fish Fin*F3*WMV;
+Golden Pearl*F2;
+Mithril*F6*WMV;
+Scales*F4*WMV;
+Silver*F6*WMV;
+Steel*F2*WMV;
+Sunstone*F5*WMV;
+Tungsten*F3;
+Turquoise*F3;
+Vine*F4*WMV;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Beast Wellington*F2;
+Chalupacabra*F3*WMV;
+Deepwater Toffee;
+Eye Candy*F3*WMV;
+Frozen Snails;
+Granny Snow Apple;
+Green Tomato*F2*WMV;
+High Road Haggis;
+Hot Cross Buns*F3*WMV;
+Jolly Rancher;
+Mustachios*F2*WMV;
+Penne Dreadful*F3*WMV;
+Polaris Fries*F5*WMV;
+Rhubarbed Wire*F3;
+Satyr Chow*F3*WMV;
+Ships 'n' Queso*F5*WMV;
+Veggie Juice*F4*WMV;
+
+| jewels =
+Polished Blocking Peridot +12;
+
+| pins =
+
+| pets =
+Ice Bird;
+Intrepid Seal Pup;
+Mountain Yeti;
+Polar Bear Cub*CR;
+
+| seeds =
+Baby Carrots;
+Bell Pepper*F2;
+Bread Fruit Bush*F2;
+Cornbread Fruit Bush;
+Deadly Helephant Ears*CR*F4*WMV;
+Evil Snow Peas*F4*WMV;
+Fish on a Vine*F2;;
+Frozen Fly Trap*F4*WMV;
+Green Snow Apples*F2*WMV;
+Helephant Ears*F2;
+Ivy League*CR;
+Purple Snow Apples*F3*WMV;
+Queen Crape Myrtle*F4*WMV;
+Snow Apples*F2;
+Ultra Helephant Ears*F2*WMV;
+White Desparagus*F2*WMV;
+White Laugh-O-Dil*F3;
+White Tiger Lily*F5*WMV;
+
+| mounts =
+
+| spells =
+
+}}

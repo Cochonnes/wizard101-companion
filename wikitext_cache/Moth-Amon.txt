@@ -1,0 +1,321 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 14,585
+| crecla = Moth
+| crecla2 = Insect
+| school = Moon
+| masteries =
+Ice;
+Death;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Ice;
+Death;
+
+| critical = 
+
+| criticalblock = 
+
+| outpierce =
+25%;
+
+| outboost =
+124%;
+
+| incboost =
+5% Fire, Life;
+
+| incresist =
+73% Ice, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Projection (Balance);
+Projection (Life);
+Projection (Storm);
+
+| world = Lemuria
+| location = Mandoria
+| subloc1 = Lab Entrance
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Lemuria
+| tome description =
+An evil wizard. Also murder on cashmere.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Your tardiness offends me!"'' - If a Wizard enters the duel late, Moth-Amon will interrupt the duel and polymorph the tardy Wizard into a {{Link|Polymorph|Polymorph Egg}}.
+*{{Icon|Minion}} ''"Swarm to me!"'' - At the start of the duel, Moth-Amon casts a Moon spell to summon the following Minions.
+**Moth-Amon is not targetable while he has Minions. Single target hits are canceled on the first round, and AoE hits don't hit him.
+***{{Link|Creature|Projection (Balance)}}
+***{{Link|Creature|Projection (Life)}}
+***{{Link|Creature|Projection (Storm)}}
+*{{Icon|Friend}}{{Icon|Minion}} ''"You're the fool, sorcerer! Now I will finish you at last!"'' - At the start of the duel, [[Creature:Mandar the Barbarian (Mandoria)|Mandar the Barbarian]] is summoned as an ally to aid Wizards in the fight.
+**If the Wizard in the first duel slot flees, this summon will disappear.
+**If the Wizard in the first duel slot summons a Minion, it will replace Mandar the Barbarian.
+**Wizards who cast after the initial caster can summon Minions without replacing Mandar the Barbarian.
+*{{Icon|Blade}}{{Icon|Global}} ''"No blade can slay me!"'' - If a Blade or Global is cast by an ally or foe, Moth-Amon will cast an AoE Moon Enfeeble on all Wizards.
+**Pet 'May Cast' Blades will trigger this cheat.
+**Aegis can prevent them from being removed once.
+**Armor Piercing Charms will not trigger this cheat.
+*{{Icon|Minion}}{{Icon|Afterlife}} ''"No, my guards!"'' - The round after his Minions have been defeated, he'll shout this out.
+**Boss will become targetable the next Round after he says this.
+
+| spellnotes =
+
+| casts =
+Frenzy;
+Mass Tower Shield (Ice);
+Bad Juju;
+Sacrifice;
+Chromatic Blast;
+Steal Ward;
+Taunt;
+Ship of Fools (Tier 4b);
+Deer Knight;
+Qismah's Curse;
+Scarecrow;
+Reindeer Knight (Tier 2a);
+Blizzard;
+Winter Moon;
+Abominable Weaver;
+Freeze Ray (Tier 3a);
+King Artorius (Ice);
+Snowball Barrage;
+
+| quests =
+The Final Test;
+
+| dropnotes =
+If a Wizard has obtained the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge and has not obtained the '''[[Basic:Novus Badges|Ender of an Aeon]]''' Badge, the following drops will be available:
+*{{Icon|Spellement}} 10 Spellements will drop each time from '''any''' School for their respective Polaris, Mirage, Empyrea, Karamelle and Lemuria Spells.
+If a Wizard has obtained the ''Ender of an Aeon'' badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of the Hall of Heroes to acquire a [[Item:Level Scaling Elixir - 150|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+123 - 459;
+
+| hats =
+
+| robes =
+Hierarch's Electric Robe;
+
+| boots =
+
+| athames =
+Hierarch's Undaunting Athame;
+
+| amulets =
+Hierarch's Ancient One Talisman;
+
+| rings =
+Hierarch's Science Ring;
+Supreme Volcanic Ring;
+
+| wands =
+Hierarch's Detective Staff;
+Supreme Science Staff;
+
+| decks =
+
+| items =
+Cargo;
+Lemuria Action Theme;
+Lemuria Jungle Theme*F2;
+Lemuria Mandoria Combat Theme;
+Lemuria Noir Theme;
+Lemuria Telos Theme 6;
+Periodic Table Poster;
+Puzzle Cube*F2;
+
+| cards =
+Elemental Trap;
+Ether Shield;
+Feint*F2*WMV;
+Mass Death Prism;
+Mass Fire Prism;
+Mass Ice Prism*F3*WMV;
+Mass Life Prism*F2*WMV;
+Mass Triage;
+Wings of Fate;
+Witch's House Call;
+
+| reagents =
+Aether;
+Amber;
+Amber Dust;
+Aquamarine*F2;
+Astral Shard*F2;
+Braided Vine;
+Fire Blossom*F5*WMV;
+Fish Fin*F3*WMV;
+Glass Sliver*F3*WMV;
+Golden Pearl*F2*WMV;
+Mithril*F3*WMV;
+Scales*F5*WMV;
+Silver*F3*WMV;
+Stardust;
+Steel*F5;
+Sunstone*F4*WMV;
+Synthonium*F2;
+Tungsten*F4;
+Vine;
+
+| spellements =
+Barbarian's Saga*BR;
+Blast Off!*BR;
+Climaclysm*BR;
+Dark & Stormy*BR;
+Freeze Ray*BR;
+Grrnadier*BR;
+Grim Reader*BR;
+Iron Sultan*BR;
+Lamassu*BR;
+Lord of the Jungle*BR;
+Mockenspiel*BR;
+Nested Fury*BR;
+Old One's Endgame*BR;
+Qismah's Curse*BR;
+Raging Bull*BR;
+Rusalka's Wrath*BR;
+Sand Wurm*BR;
+Scion of Balance*BR;
+Scion of Death*BR;
+Scion of Fire*BR;
+Scion of Ice*BR;
+Scion of Life*BR;
+Scion of Myth*BR;
+Scion of Storm*BR;
+Scorching Scimitars*BR;
+Shatterhorn*BR;
+S'more Machine*BR;
+Snack Attack*BR;
+Snake Charmer*BR;
+Snowball Barrage*BR;
+Sound of Musicology*BR;
+Tatzlewurm Terror*BR;
+Winged Sorrow*BR;
+Wings of Fate*BR;
+Witch's House Call*BR;
+
+
+| snacks =
+Boom Stroganoff;
+Bread Fruit Fruit;
+Candlenut;
+Cauliflowers*F2;
+Chalupacabra;
+Chapulines*F2*WMV;
+Chili Peppers*F2;
+Crystalweb Candy;
+Desparagus Salad*F2*WMV;
+Fin Flan;
+Fish Egg Pancakes*F2;
+Fizzing Fertilizer;
+French Fries;
+Fried Ice Cream;
+Fried Worms*F2;
+Frozen Perogies*F3*WMV;
+Ginger Mint Tea;
+Hive Rinds;
+Manticoreos;
+Shanta Pudding;
+
+| jewels =
+Ally Dragonblade Citrine;
+Armor Piercer Opal;
+Balance-Eye Citrine;
+Balance-It Citrine;
+Curse Giver Onyx;
+Dazzling Accurate Hematite +14%;
+Dazzling Accurate Jade +14%;
+Dazzling Accurate Onyx +14%;
+Dazzling Blocking Citrine +19;
+Dazzling Critical Onyx +19;
+Death Striker Onyx;
+Death-Boon Onyx;
+Death-Dealer Onyx;
+Duck Savage Sapphire*F2*WMV;
+Fire-Boon Ruby;
+Fire-Eye Ruby*F2*WMV;
+Ice Striker Sapphire;
+Ice-Dealer Sapphire;
+Ice-Eye Sapphire;
+Ice-Proof Sapphire;
+Ice-Sniper Sapphire;
+Life-Eye Jade;
+Mandar Peridot*F2*WMV;
+Medic Opal;
+Myth-Away Peridot;
+Myth-Boon Peridot;
+Myth-Eye Peridot;
+Myth-Giver Peridot;
+Myth-Proof Peridot;
+Pyrosaurus Rex Ruby;
+Sparkling Health Opal +116;
+Steal Health Talent Onyx;
+Storm Striker Amethyst;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Angora Bunny Ears*F3*WMV;
+Blue Huckleberries;
+Burning Snap Dragon;
+Evil Magma Peas*CR;
+Fiery Boom Shroom;
+Honey Bee Plant;
+Maelstrom Snap Dragon;
+Moon Flower;
+Ninja Fig*CR;
+Pink Huckleberries*F3*WMV;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus*F3;
+Purple Grapes of Wrath*F2;
+Red Huckleberries;
+Rotten Beets;
+Rye Bread Fruit Bush*F2;
+Saw Palmetto*F2;
+Silver Trumpet Vine*CR;
+Sugar Khrystal*CR;
+Sword Fern*CR;
+Vampire Carrots*F3*WMV;
+White Laugh-O-Dil;
+Yellow Bell Pepper*F2;
+Ultra Alligator Pear Tree;
+Ultra Tiger Lily;
+Ultra Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+}}

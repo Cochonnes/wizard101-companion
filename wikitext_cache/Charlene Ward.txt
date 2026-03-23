@@ -1,0 +1,191 @@
+{{CreatureInfobox
+| cretype = Boss 
+| rank = 19 
+| heal = 11,000
+| crecla = Witch
+| school = Death
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+24%;
+
+| outboost =
+115%;
+
+| incboost =
+5% Life;
+
+| incresist =
+70% Death;
+
+| outhealing =
+
+| inchealing =
+45%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Colorful Nibbelung;
+
+| world = Karamelle
+| location = Nibbleheim Mines
+| subloc1 = Mineshaft C
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Dream Shield;
+Bad Juju (Shadow);
+Deathblade;
+Curse;
+Death Trap;
+Ghoul;
+Lord of Night;
+Vampire;
+Qismah's Curse;
+Natural Attack (Death 105-210-315-420);
+Call of Khrulhu;
+Winged Sorrow;
+Wraith;
+
+| quests =
+The Case of Charlene Ward;
+The Sandwich Horror;
+
+| gold =
+372 - 488;
+
+| hats =
+
+| robes =
+Consultant Insulated Suit;
+
+| boots =
+Consultant Hazmat Boots;
+Director Survival Boots;
+Executive Protective Boots;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Director Biohazard Box;
+Director Protective Box;
+Executive Cryo Box;
+Producer's Biohazard Box;
+Producer's Protective Box;
+Producer's Survival Box;
+
+| items =
+Karamelle Barrel;
+
+| cards =
+Berserk;
+Dream Shield;
+Winged Sorrow;
+Wings of Fate;
+
+| reagents =
+Aether;
+Amber;
+Aquamarine;
+Astral Shard;
+Braided Vine;
+Brass*F2;
+Cobalt;
+Ectoplasm*F3;
+Fire Blossom;
+Golden Pearl*F3;
+Karamelle Chunk*F3;
+Mithril;
+Orichalcum;
+Scales*F2;
+Spider Silk*F2;
+Steel;
+Tin;
+Titanium;
+Toffee Bean*F2;
+Turquoise*F2;
+
+| spellements =
+Grrnadier*F2;
+S'more Machine;
+Shatterhorn;
+Snack Attack;
+Tatzlewurm Terror;
+
+| snacks =
+Aztecan Hot Chocolate;
+BBQ Drumstick;
+Dragon Fruit*F2;
+Eye Candy*F2;
+Glowing Taffy;
+Krakamari*F2;
+Pizza;
+Rock and Roll Candy;
+Roly Poly Fishheads;
+Sprinkle Cupcake;
+Waterworks Wonton;
+
+| jewels =
+Dazzling Accurate Amethyst +14%;
+Dazzling Accurate Onyx +14%;
+Dazzling Critical Onyx +20;
+Dazzling Damage Opal +15;
+Dazzling Health Opal +126;
+Shiny Accurate Opal +6%;
+Shiny Blocking Citrine +15;
+Shiny Blocking Ruby +15;
+Shiny Critical Amethyst +16; 
+Shiny Critical Jade +15;
+Shiny Damage Peridot +26;
+Shiny Defense Amethyst +49;
+Shiny Defense Peridot +52;
+Shiny Health Opal +113;
+Shiny Health Opal +114;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots*F2;
+Blue Huckleberries*F2;
+Boiled Peanuts;
+Boom Shroom;
+Bread Fruit Bush;
+Clockwork Flower;
+Cornbread Fruit Bush*F2;
+Deadly Fly Trap;
+Fish on a Vine*F2;
+Frozen Fly Trap;
+Ivy League*CR;
+Orange Dandelion;
+Pink Huckleberries;
+Purple Grapes of Wrath;
+Red Huckleberries;
+Silver Trumpet Vine;
+Snow Apples;
+Ultra Dandelion;
+Ultra Trumpet Vine;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

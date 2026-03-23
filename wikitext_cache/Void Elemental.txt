@@ -1,0 +1,224 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 13,440
+| crecla = Elemental
+| school = Shadow
+| masteries = 
+Ice;
+Death;
+
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+7%;
+
+| outboost =
+55%;
+
+| incboost =
+None;
+
+| incresist =
+30% Fire, Ice, Storm, Myth, Life, Death, Balance, Shadow;
+Sun, Moon;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Arcanum
+| location = The Arcanum
+| subloc1 = Trial Chamber
+| descrip =
+*Uses Pip Conversion
+
+| spellnotes =
+*Casts an Aegis-Protected Tower Shield (-55%)
+*Casts an Aegis-Protected Wraithblade
+*Casts an Aegis-Protected Sharp Wraithblade
+*Casts a protected Feint (All Enemies).
+
+| casts =
+Brace;
+Tower Shield (-55%);
+Volcanic Shield (-75%);
+Dream Shield (-75%);
+Plague (-25%);
+Wraithblade;
+Sharp Wraithblade;
+Feint (All Enemies);
+Freeze;
+Dark Sprite (Shadow);
+Natural Attack (Shadow 82-165-247);
+Deer Knight (Shadow);
+Ice Bats (215);
+Abominable Weaver;
+Snow Angel (6 Pip);
+Red Banshee;
+Vampire (375);
+Call of Khrulhu;
+Winged Sorrow;
+Ominous Scarecrow (Death);
+
+| quests =
+Trial of the Understudy;
+
+| gold =
+454 - 546;
+
+| hats =
+Alkali Kalpak of Fiction;
+Alkali Kalpak of Vibrancy;
+
+| robes =
+Alkali Monsoon Armor;
+
+| boots =
+Eerem Givehs of Discovery;
+
+| athames =
+Istanboa Heatwave Khanjar;
+Istanboa Khanjar of Icefall*F2;
+
+| amulets =
+Eerem Talisman of Char*WMV*F2;
+Eerem Talisman of Harmony;
+Eerem Talisman of Pulse;
+Istanboa Heatwave Pendant;
+Istanboa Pendant of Scruples;
+
+| rings =
+Eerem Band of Discovery;
+Istanboa Sandspouts Signet;
+
+| wands =
+Myriarch Tabarzin of Musing;
+Myriarch Tabarzin of Rime;
+Scorpion Bow of Desolation;
+Scorpion Bow of Frenzy;
+
+| decks =
+Eerem Spread of Clangor;
+Istanboa Array of Icefall;
+
+| items =
+Mirage Canyon Theme 2;
+Mirage Caravan Theme;
+Mirage Chronoverge Com Theme;
+Mirage City Combat Theme;
+Mirage City Tense Theme*F2*WMV;
+Mirage City Theme;
+Mirage Den of Thieves Theme;
+Mirage Magic Carpet Theme;
+Mirage Spider Speaks Theme;
+
+| cards =
+Astraphobia;
+Frostfang;
+Katabatic Wind*F2*WMV;
+Raging Bull;
+Saga of Heroes*F2;
+
+| reagents =
+Aether*F3;
+Agave Leaves*F3*WMV;
+Amber Dust*F4*WMV;
+Aquamarine*F4*WMV;
+Astral Shard*F7*WMV;
+Braided Vine;
+Fire Blossom*F4*WMV;
+Golden Pearl*F2*WMV;
+Mithril;
+Orichalcum;
+Scales*F5*WMV;
+Silver*F3;
+Stardust;
+Steel;
+Sunstone;
+Titanium*F2;
+Tungsten*F2*WMV;
+Turquoise;
+Vine;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F2*WMV;
+Chalupacabra*F2;
+Eye Candy;
+Hard Boiled Beetle Eggs;
+Hot Cross Buns;
+Mustachios;
+Satyr Chow;
+Veggie Juice;
+
+| jewels =
+Chastisement Opal;
+Epic Opal;
+Shiny Blocking Hematite +16;
+Shiny Blocking Sapphire +16;
+Shiny Critical Hematite +16;
+Shiny Critical Peridot +16;
+Shiny Damage Citrine +26;
+Shiny Damage Sapphire +26;
+Shiny Defense Hematite +51;
+Shiny Defense Ruby +52;
+Shiny Health Opal +111;
+Shiny Health Opal +112;
+Shiny Health Opal +113;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47*F2;
+Shiny PIP Hematite +2;
+
+| pins =
+
+| pets =
+MaCaw*CR*F3*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Baby Carrots;
+Blue Huckleberries;
+Boiled Peanuts;
+Boom Shroom;
+Couch Potatoes*CR;
+Deadly Ninja Fig;
+Evil Snow Peas;
+Fickle Pickle;
+Fiery Boom Shroom;
+Golden Couch Potatoes;
+Green Snow Apples;
+Laugh-O-Dil;
+Maelstrom Snap Dragon*F2*WMV;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Missile Toe*F2*WMV;
+Moon Flower;
+Ninja Fig*CR;
+Orange Bell Pepper*CR;
+Pink Huckleberries;
+Purple Grapes of Wrath;
+Red Bell Pepper;
+Red Grapes of Wrath*F2*WMV;
+Red Huckleberries;
+Saw Palmetto;
+Snap Dragon;
+Sour Fickle Pickle;
+Trumpet Vine;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

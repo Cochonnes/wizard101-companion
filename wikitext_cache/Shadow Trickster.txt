@@ -1,0 +1,114 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 7,840
+| crecla = Shadow Trickster
+| school = Shadow
+| masteries = 
+Death;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+295 Any;
+
+| criticalblock =
+
+| outpierce =
+5%;
+
+| outboost =
+15%;
+
+| incboost =
+None;
+
+| incresist =
+35% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Arcanum
+| location = The Arcanum
+| subloc1 = Shadow Training Room
+| descrip =
+
+| speech =
+:''"Who's there? Oh! You look kind and decent. I'm an innocent captive! Please help- Bah. You're not buying any of that, are you? HeheHahahaha! Venkman said you were clever. So I'll be straight with you. I could've escaped this rinky-dink study hall at any time, but I wanted to meet you! Grandfather Spider will reward me handsomely for bringing you in. He might even let me keep your head as a trophy. Let's play!"''
+
+| cheatnotes = 
+*{{Icon|Damage}} After using his Natural Attack, the Shadow Trickster will interrupt-cast {{Link|Spell|Steal Pips}}.
+
+| spellnotes =
+*Always uses his first turn to cast Dark Pact (+30%).
+*Casts a protected Shadowblade.
+
+| casts =
+Dark Nova;
+Vengeance;
+Infection;
+Plague (-25%);
+Shadowblade;
+Dark Pact (+30%);
+Feint (+75%);
+Natural Attack (Shadow 110-220-330);
+Catch of the Day (Shadow);
+Glowbug Squall (Shadow, 1,120);
+Wraith (Shadow);
+Leviathan (Shadow);
+Headless Horseman;
+
+| quests =
+Shadow Tricks;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Blood Moss;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Red Grapes of Wrath;
+
+| mounts =
+
+| spells =
+
+}}

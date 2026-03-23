@@ -1,0 +1,221 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,070
+| crecla = Elephant
+| school = Balance
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+25% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Greyhorn Mercenary;
+
+| world = Zafaria
+| location = Waterfront
+| subloc1 = Belloq's Tent
+| descrip =
+For the versions of Belloq fought in {{link|Location|Azteca}}, see {{link|Creature|Belloq (Three Points)}} and {{link|Creature|Belloq (Twin Giants)}}.
+
+| speech =
+:''"You're as nosy as an Elephant. And soon to be skinned like a Zebra!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Zafaria
+| tome description =
+This immoral entrepreneur is constantly working an illegal get-rich-quick scheme. Believe it or not, he's more tired of you than you are of him.
+
+| extract class =
+Elephant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Balance}} ''"I thought you came here to hurt me!"'' - If Belloq does not take Damage during a Round, he will interrupt-cast {{Link|Spell|Ra}} at the beginning of the next Round, which deals 1,460 - 1,540 Balance Damage.
+
+| spellnotes =
+'''Natural Attack:'''
+*Despite what the Spell text indicates, this is a 3 Pip maximum Spell.  It has been observed to deal:
+**85 Balance Damage for 1 Pip.
+**180 Balance Damage for 2 Pips.
+**~260 Balance Damage for 3 Pips.
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Precision;
+Balanceblade;
+Elemental Blade;
+Spirit Blade;
+Elemental Trap;
+Natural Attack (Balance 85-X Pips);
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Judgement;
+
+| quests =
+Under the Big Tent;
+
+| gold =
+45 - 106;
+
+| hats =
+Blackback Safari Brim;
+Cold At Night Cover*F4*WMV;
+Fire Valley Headdress;
+Hood of the Grasslands;
+Hood of the Hepheloomp;
+Mask of the Great Patapon*F3*WMV;
+Wise Hunter's Helmet*F2;
+
+| robes =
+Cold River Cloak*F2;
+Fire-Feather Robes*F5*WMV;
+Graveyard Shift*F3*WMV;
+Shaman's Mythic Armor;
+
+| boots =
+Big Five Trackers;
+Big Sky Striders;
+Finely Balanced Boots;
+Life's Circle Safari Boots*F3*WMV;
+Nemean Rock Climbers*F4*WMV;
+Spider's Storied Wraps;
+
+| athames =
+Bull's Charge*F3;
+
+| amulets =
+Pendant of Baobab Branches*F3*WMV;
+
+| rings =
+Aryanah's Golden Loop;
+Hannibal's Bronze Ring;
+Kakenya's Broken Band;
+Mago's River Stone;
+Mansa's Dream Stone*F3*WMV;
+Tanei's Ghost Ring;
+Vir's Zafarite Stone*F2;
+
+| wands =
+Staff of Solomon*F2*WMV;
+
+| decks =
+Bundle of Ananse's Stories*F2;
+Bundle of Eternal Flame*F4*WMV;
+Chieftain's Smiling Deck*F3*WMV;
+Dead Chieftain's Fanged Deck*F3*WMV;
+
+| items =
+Zafaria Drum Jungle Theme*F4*WMV;
+
+| cards =
+Availing Hands*F3*WMV;
+Elemental Defuse*F4*WMV;
+Empower*F6*WMV;
+Gargantuan*F5*WMV;
+Precision*F2;
+Sniper*F2;
+Spirit Defuse*F5*WMV;
+Unstoppable*F6*WMV;
+
+| reagents =
+Bone*F7*WMV;
+Brass*F2;
+Bronze*F3*WMV;
+Cobalt*F3*WMV;
+Leather Straps*F5*WMV;
+Nickel*F2;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F2;
+Delicious Cookie*F2;
+Flaming Soup*F3;
+Flapjacks*F3*WMV;
+Glowing Taffy;
+Goat Cheese*F3;
+Golden Apple*F2*WMV;
+Golden Grapes*F2*WMV;
+Gummy Humongofrog;
+Jelly Baby*F3*WMV;
+King Banana;
+Kola Nuts*F2;
+Salmonberry*F3;
+Shiny Tomato*F2;
+Spicy Drumstick*F2;
+Strawberry Cupcake;
+Submarine Sandwich*F2;
+Uni-Corn*F2;
+
+| jewels =
+Balance-Giver Citrine;
+Big Rally Opal;
+Canny Opal;
+Mega-Upset Opal;
+Opaque Blocking Amethyst +7;
+Opaque Defense Opal +17;
+Opaque Mana Opal +29;
+Opaque Mending Opal +4%;
+Opaque Piercing Peridot +4%;
+Opaque Piercing Ruby +4%;
+Plain Mana Opal +28;
+Plain Piercing Sapphire +3%;
+Rebirth Jade;
+Strong Talent Opal;
+
+| pins =
+
+| pets =
+Leopard*CR*F3*WMV;
+Skink*CR*F3;
+
+| seeds =
+Baby Carrots*F3*WMV;
+Cornbread Fruit Bush*F2*WMV;
+Evil Snow Peas*F2;
+Key Limes*CR*F3;
+Orange Bell Pepper*CR*F2;
+Orange Dandelion*F2;
+Red Bell Pepper*F3*WMV;
+Snap Dragon*F2;
+Venus Fly Trap*F2;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

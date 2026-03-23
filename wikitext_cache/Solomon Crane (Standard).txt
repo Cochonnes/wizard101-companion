@@ -1,0 +1,121 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 4,620
+| crecla = Other Birds
+| school = Death
+| shadowslots = 
+| startpips = 1
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+74 Any;
+
+| criticalblock =
+248 Any;
+
+| outpierce =
+9%;
+
+| outboost =
+
+| incboost =
+15% Life;
+
+| incresist =
+24% Death;
+
+| outhealing =
+
+| inchealing =
+47%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Lemuria
+| location = Telos
+| subloc1 = Hall of Heroes (Standard)
+| descrip =
+Solomon Crane is considered a Minion to [[Creature:Stallion Quartermane (Standard)|Stallion Quartermane]]. All drops are recorded on that page.
+
+'''The First Team'''
+*{{Target|Dagger}} [[Creature:Solomon Crane (Standard)|Solomon Crane]]
+*{{Target|Key}} [[Creature:Buck Gordon (Standard)|Buck Gordon]]
+*{{Target|Gem}} [[Creature:The Shadoe (Standard)|The Shadoe]]
+*{{Target|Spiral}} [[Creature:Dog Tracy (Standard)|Dog Tracy]]
+
+'''The Second Team'''
+*{{Target|Book}} [[Creature:Mandar the Barbarian (Standard)|Mandar the Barbarian]]
+*{{Target|Chalice}} [[Creature:Duck Savage (Standard)|Duck Savage]]
+*{{Target|Wand}} [[Creature:Stallion Quartermane (Standard)|Stallion Quartermane]]
+*{{Target|Potion}} [[Creature:The Bantam (Standard)|The Bantam]]
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Dream Shield;
+Infection;
+Mass Infection;
+Plague;
+Virulent Plague;
+Deathblade;
+Dark Tribute;
+Mass Feint (+70%);
+Ghoul;
+Ship of Fools (Tier 3a);
+Deer Knight;
+Natural Attack (Death 105-210-315-420);
+Sleeping Toxin;
+Monster Mash (Tier 3a);
+Scarecrow;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Solomon Crane
+}}

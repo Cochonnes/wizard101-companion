@@ -1,0 +1,117 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 13,145
+| crecla = Plant
+| crecla2 = Treant
+| school = Balance
+| startpips = 5
+| powerpips = Yes
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Khrysalis
+| location = Shadow Palace
+| subloc1 = Spirit Plane
+| descrip =
+Tree Root (Balance) is one of {{Link|NPC|Moros}}' four main tree roots. All drops, cheats, and speech are recorded on the {{Link|Creature|Tree Root (Death)}} page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+This root basically spends its day mediating between Life and Death to keep Moros in balance.
+
+| extract class =
+Treant;
+
+| summon animus = 10
+| summon gold = 500
+| guest animus = 20
+| guest gold = 1,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Infallible;
+Vengeance;
+Black Mantle;
+Availing Hands (85+870);
+Balanceblade;
+Hex;
+Mana Burn;
+Natural Attack (Balance 160-255-350);
+Samoorai;
+Power Nova;
+Sabertooth;
+Judgement;
+
+| quests =
+Doom Tree;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Tree Root (Death)
+}}

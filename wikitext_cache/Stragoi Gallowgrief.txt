@@ -1,0 +1,146 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,600
+| crecla = Raven
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Winterwing Darktalon;
+
+| world = Grizzleheim
+| location = Ravenscar
+| subloc1 = Tower of Knowledge
+| descrip =
+*An additional Winterwing Darktalon and {{Link|Creature|Winterwing Battler}} will appear if more than two Wizards are present.
+
+| speech =
+:''"Ah, a young wizard wishes to challenge me?  Let's duel!"''
+
+| spellnotes =
+
+| casts =
+Weakness;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Banshee;
+Vampire;
+Skeletal Pirate;
+Scarecrow;
+Natural Attack (Death 85x);
+Lightning Bats;
+Ice Wyvern;
+
+| quests =
+The Tower of Lore;
+
+| gold =
+89 - 108;
+
+| hats =
+Coif of the Antithesis*F2;
+Frost-Peaked Cap;
+Mantle of Zest;
+Sagacious Crown*F2*WMV;
+Veil of the Apologue*F2;
+Vigorous Hood;
+
+| robes =
+Jerkin of the Seer;
+Lifeweave Robe;
+Longcoat of the Ice Floes;
+Raiment of Lamentation;
+Winterweave Coat;
+
+| boots =
+Broghans of the Flux*F5*WMV;
+Brumal Boots;
+Grimsoled Shoes*F3*WMV;
+Sandals of the Shibboleth;
+
+| athames =
+Bodkin of Battlefrenzy*F2;
+Cold Iron Dagger*F4*WMV;
+Lancet of Aptitude*F6*WMV;
+
+| amulets =
+
+| rings =
+Band of the Bonfire*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Jar of Bat Wings*F4*WMV;
+
+| cards =
+Helephant;
+Reshuffle;
+
+| reagents =
+Bronze Gear*F3*WMV;
+Cobalt;
+Nickel*F2;
+Pyrite;
+Spider Silk*F4*WMV;
+
+| spellements =
+
+| snacks =
+Arrow Root;
+Big Squash;
+Cow Pie*F2*WMV;
+Glowing Rock Candy*F2*WMV;
+Golden Apple;
+Grilled Cheese;
+Moon Pie*F2*WMV;
+Tiki Banana;
+Wormy Apple;
+
+| jewels =
+Centaur Jade;
+Cracked Damage Onyx +5;
+Darkwind Amethyst;
+Dull Defense Citrine +25;
+Mega-Leech Opal;
+Minotaur Peridot;
+Phoenix Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+Couch Potatoes*CR;
+Evil Snow Peas*F2;
+Orange Dandelion;
+Pink Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

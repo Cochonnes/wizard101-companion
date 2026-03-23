@@ -1,0 +1,237 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 12,145
+| crecla = Undead
+| school = Shadow
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| outpierce =
+24%;
+
+| outboost =
+120%;
+
+| incboost =
+None;
+
+| incresist =
+68% Balance;
+
+| outhealing =
+37%;
+
+| inchealing =
+41%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Ghoul (Death);
+
+| world = Lemuria
+| location = Night Forest
+| subloc1 = Solomon Crane's House
+| lootchest = Malughast's Chest
+| descrip =
+The Malughast (Solomon Crane's House) is considered a Boss. All drops are recorded on this page.
+*An additional {{Link|Creature|Ghoul (Myth)}} and {{Link|Creature|Ghoul (Storm)}} appears when more than two Wizards are present.
+
+| monstrology =
+{{Monstrology Info
+| tome world = Lemuria
+| tome description =
+Discovered and raised by Hierarch Lucien. The name is derived from a word meaning ""Bad Ghast.""
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+| altlink = The Malughast
+
+| cheatnotes =
+*{{Icon|Round}} ''"Roar!"'' - At the beginning of the battle, The Malughast will cast a Shadow Spell that gives each Wizard three copies of Malughast's Feint.
+**{{GivesSpell|Malughast's Feint|size = x150px}}
+*{{Icon|Feint}} ''"Rooooaaaarrrr!!!!"'' - If a Wizard casts The Malughast's Feint, The Malughast will cast an all enemies version of Sacrifice, dealing 1,000 Damage to all allies, and healing 1,000 Health to all Wizards (1,370 with Outgoing Healing).
+*{{Icon|Feint}} ''"Rooaarr!!"'' - If a {{Link|Spell|Feint}} is cast, The Malughast will cast a Shadow version of {{Link|Spell|Cleanse Ward (-2)}} on himself twice, making {{Link|Spell|Indemnity}} ineffective in protecting the removal.
+**{{Link|ItemCard|Mass Feint}} will trigger this cheat.
+
+| spellnotes =
+*Casts a protected Curse (Shadow).
+
+| casts =
+Magnify (6 Rounds);
+Smoke Screen (Shadow);
+Shadowblade;
+Curse (Shadow);
+Steal Charm (Shadow);
+Choke (Shadow);
+Natural Attack (Shadow 105-210-315-420);
+Brimstone Revenant (Shadow);
+Scorching Scimitars (Shadow);
+Scald (Shadow);
+Fire from Above (Shadow);
+Sirens (Shadow);
+
+| quests =
+Super Ghosts and Ghouls;
+
+| gold =
+116 - 412;
+
+| hats =
+
+| robes =
+Hierarch's Barbarian Robe;
+Lemurian Barbarian Robe;
+Lemurian Horror Robe;
+
+| boots =
+Hierarch's Old Judge Shoes;
+Lemurian Stability Shoes;
+
+| athames =
+Hierarch's Lifeforce Athame;
+
+| amulets =
+Hierarch's Electric Talisman;
+Hierarch's Founder's Talisman;
+Lemurian Lifeforce Talisman;
+
+| rings =
+
+| wands =
+Hierarch's Horror Staff;
+Lemurian Detective Staff;
+
+| decks =
+
+| items =
+Cargo*F2;
+Lemuria Forest Combat Theme;
+Lemuria Mandoria Theme;
+Periodic Table Poster;
+Puzzle Cube;
+
+| cards =
+Berserk;
+Brilliant Light;
+Dream Shield;
+Storm Shield;
+
+| reagents =
+Aether;
+Agave Nectar;
+Amber;
+Amber Dust;
+Aquamarine*F2;
+Astral Shard;
+Braided Vine;
+Brass*F4*WMV;
+Bronze Gear*F4;
+Cobalt*F3*WMV;
+Draconium;
+Ectoplasm;
+Mithril;
+Nickel*F3;
+Orichalcum;
+Scales*F2*WMV;
+Silver*F2;
+Spider Silk;
+Steel;
+Sunstone;
+Synthonium;
+Tin*F3;
+Titanium;
+Tungsten*F3;
+Turquoise*F2;
+Vine;
+
+| spellements =
+Barbarian's Saga*F2*WMV;
+Dark & Stormy*F2;
+Old One's Endgame;
+
+| snacks =
+Cracker;
+Crystal Custard*F2;
+Crystalweb Candy*F2;
+Fish Egg Pancakes*F2;
+Flapjacks*F2;
+Fried Ice Cream;
+Fried Worms;
+Poncherello Chips;
+Potato Chips;
+Sliced Watermelon;
+Squash;
+Sugar Donut*F2;
+Taco;
+Tomato Soup;
+
+| jewels =
+Ally Stun Block Sapphire;
+Balance-Sniper Citrine;
+Balanceblade Talent Citrine;
+Dazzling Accurate Hematite +14%;
+Dazzling Blocking Citrine +19*F2*WMV;
+Dazzling Blocking Opal +10;
+Dazzling Critical Citrine +19;
+Dazzling Damage Peridot +29;
+Dazzling Defense Citrine +58;
+Dazzling Defense Peridot +60;
+Dazzling Defense Sapphire +60;
+Death-Dealer Onyx;
+Fire-Boon Ruby;
+Fire-Shot Ruby;
+Life Striker Jade;
+Life-Eye Jade;
+Myth-Boon Peridot;
+Solomon Crane Onyx*F5*WMV;
+Sparkling Accurate Amethyst +13%;
+Sparkling Accurate Onyx +13%;
+Sparkling Health Opal +116;
+Sparkling Health Opal +118;
+Spell-Defying Opal;
+Storm Striker Amethyst;
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears*F2;
+Bell Pepper;
+Blue Huckleberries*F2*WMV;
+Cornbread Fruit Bush;
+Fish on a Vine;
+Frozen Fly Trap;
+Helephant Ears;
+Ivy League*CR*F2;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Orange Bell Pepper*CR;
+Prickly Bear Cactus;
+Red Couch Potatoes*F2*WMV;
+Red Grapes of Wrath;
+Red Huckleberries*F2;
+Rotten Beets*F4;
+Rye Bread Fruit Bush*F2;
+Sugar Khrystal*CR;
+Ultra Fly Trap;
+Ultra Helephant Ears;
+Vampire Carrots;
+Venus Fly Trap;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

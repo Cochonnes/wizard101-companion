@@ -1,0 +1,240 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 9,960
+| crecla = Deer
+| school = Storm
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Handsome Fomori;
+
+| world = Avalon
+| location = Caer Lyon
+| subloc1 = Malgrin's Tower
+| descrip =
+*Malgrin the Scourge is a minor lord in fealty to the Pendragon, who guards the drawbridge into the Barbican of [[Location:Outer Yard|Avalon Castle]].
+*Two additional Handsome Fomori Minions appear if more than two Wizards are present.
+
+| speech =
+:''"I spit upon your challenge, Wizard! You are no knight...you are? A Knight of the Wyrd? Imagine that. Like seeing wings on a pig! Well, come on then! I have this sharp axe and these hard horns. Let's see what you can do!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 145-285-440);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Tempest;
+
+| quests =
+Throw Down the Gauntlet;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge and has not unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge, the following drops will be available:
+*5 Spellements will drop each time for their respective rank 5-9 Spells.
+
+| gold =
+89 - 106;
+
+| hats =
+Catacombs Helm;
+Fire Spirits' Toasty Helm;
+Honor Bound Helm;
+Hunter's Helm of Mercy*F2*WMV;
+Mask of the Silent Hunter;
+
+| robes =
+Bad Storm Armor;
+Bane Wyrm's Tartan*F3*WMV;
+Three Color Serpent's Robes*F3*WMV;
+Windbreaker of Nodor*F2;
+
+| boots =
+Friend of the Fire Elf Boots;
+Hospitable Knight's Boots*F3*WMV;
+Long as Night Walkers;
+Loyal Knight's Boots*F3*WMV;
+Slick Road Grippers;
+
+| athames =
+Dryad's Burning Nettle;
+Owl's Talon*F4*WMV;
+
+| amulets =
+Mystery of the Druids;
+Proven Armiger's Pendant*F4*WMV;
+
+| rings =
+Deep Water Rising Ring*F5*WMV;
+Lake Spiral Ring;
+
+| wands =
+Chivalric Mallet*F5*WMV;
+Rosewood Persuader*F3;
+
+| decks =
+Antikythera Deck*F9*WMV;
+
+| items =
+Avalon Combat Theme*F4;
+Avalon Glorious Theme;
+Avalon Wooden Table;
+
+| cards =
+Cleanse Charm*F8*WMV;
+Deer Knight*F4*WMV;
+Disarm*F4*WMV;
+Enfeeble (-3)*F3;
+Fire Dragon;
+Frost Giant;
+Insane Bolt*F5*WMV;
+Medusa;
+Orthrus;
+Power Nova*F3*WMV;
+Scarecrow*F3;
+Storm Lord;
+Supercharge*F2*WMV;
+Unstoppable;
+Wild Bolt*F4*WMV;
+
+| reagents =
+Black Lotus*F5*WMV;
+Brass;
+Bronze;
+Cat Tail*F6*WMV;
+Cobalt;
+Deep Mushroom*F3*WMV;
+Frost Flower*F6*WMV;
+Lava Lily*F4*WMV;
+Mist Wood*F6*WMV;
+Nickel*F2*WMV;
+Nightshade;
+Ore*F4*WMV;
+Parchment*F7*WMV;
+Pearl*F7*WMV;
+Red Mandrake*F3*WMV;
+Shell*F5*WMV;
+Stone Block*F4*WMV;
+Tin;
+
+| spellements =
+Basilisk*BR*F3;
+Blight Hound*BR*F3;
+Centaur*BR;
+Chimera*BR;
+Colossus*BR;
+Dr. Von's Monster*BR;
+Earth Walker*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR*F5;
+Frost Giant*BR*F3;
+Gnomes!*BR*F3;
+Helephant*BR;
+Hydra*BR;
+Leviathan*BR*F2;
+Medusa*BR*F2;
+Minotaur*BR*F3;
+Orthrus*BR;
+Phoenix*BR*F3;
+Power Nova*BR;
+Ra*BR*F2;
+Rain of Fire*BR*F3;
+Rebirth*BR;
+Scarecrow*BR*F2;
+Sirens*BR*F2;
+Skeletal Dragon*BR*F2;
+Skeletal Pirate*BR*F2;
+Snow Angel*BR*F2;
+Spectral Blast*BR;
+Stone Colossus*BR*F5;
+Storm Lord*BR*F3;
+Stormzilla*BR*F4;
+Triton*BR*F3;
+Woolly Mammoth*BR*F2;
+Wraith*BR*F3;
+
+| snacks =
+Bogwich*F3;
+Cauliflowers*F2*WMV;
+Cheese Broccoli;
+Chocolate Strawberry*F3;
+Cracker*F4*WMV;
+Deviled Eggs*F2;
+Glowing Star Fruit;
+Golden Grapes;
+Green Grapes;
+Gummy Firecat*F2*WMV;
+Gummy Wyrms;
+King Banana;
+Nettle Root*F3;
+Pigeon Pie*F2*WMV;
+Sugar Donut;
+Tiny Fish;
+Treant Bark;
+
+| jewels =
+Clear Defense Sapphire +37;
+Clear Piercing Jade +5%;
+Determined Opal;
+Halt Leader Opal;
+Opaque Critical Amethyst +7;
+Opaque Critical Citrine +7;
+Opaque Damage Ruby +18;
+Opaque Defense Amethyst +36;
+Opaque Health Opal +73;
+Opaque Resilient Opal +4%;
+Sturdy Opal;
+Ultra Exhaustion Opal*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+Evil Magma Peas*CR;
+Key Limes*CR;
+Pink Dandelion*CR;
+Pink Huckleberries;
+Red Huckleberries;
+Silver Trumpet Vine*CR*F2;
+White Desparagus;
+White Tiger Lily*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

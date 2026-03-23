@@ -1,0 +1,97 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 7,785
+| crecla = Celestian
+| school = Star
+| startpips = 3
+| powerpips = Yes
+| critical =
+440;
+
+| criticalblock =
+124;
+
+| outpierce =
+24%;
+
+| outboost =
+36%;
+
+| incboost =
+3% Death;
+
+| incresist =
+37% Myth;
+17% Fire, Ice, Storm, Life, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Mithraya Rematch
+| subloc1 = 
+| descrip =
+Astraeus is considered a Minion to {{Link|Creature|Mithraya (Challenge)}}. All drops are recorded on that page.
+
+| speech =
+
+| cheatnotes =
+
+| spellnotes =
+
+| casts =
+Star Blade (0 Pip);
+Wraith (Star);
+Tempest (Star);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Astaeus (Rematch)
+}}

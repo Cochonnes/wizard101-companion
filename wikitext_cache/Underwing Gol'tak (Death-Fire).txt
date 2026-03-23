@@ -1,0 +1,97 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 2,000
+| crecla = Gargoyle
+| school = Death
+| school2 = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Darkmoor
+| location = Graveholm
+| subloc1 = Arena of Swords
+| descrip =
+This creature must be fought as a polymorphed Ice Gargoyle.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Wooziness;
+Knight of Cups;
+Ten of Cups;
+Knight of Wands;
+Bulletproof;
+Knight of Swords;
+Queen of Wands;
+King of Cups;
+Fangs!;
+Ten of Cups;
+
+| quests =
+Gravedancers;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

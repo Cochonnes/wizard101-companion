@@ -1,0 +1,131 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 1,800
+| crecla = Crab
+| school = Death
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+5%;
+
+| incboost =
+15% Life;
+
+| incresist =
+35% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Luminous Troglodyte (Tier 2);
+Luminous Troglodyte (Tier 2);
+
+| world = Housing Instance
+| location = Fantastic Voyage Expedition
+| subloc1 = Fantastic Voyage Expedition (Tier 2)
+| descrip =
+For the purpose of drops, Dewey (Tier 2) is onsidered a Boss.  All drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Damage}} ''"This racket will not be tolerated!"'' - After an attack, Dewey will cast a matching Shield based on the School Damage, on the ally of his that was hit.
+**If an AoE Spell is used, he will state this line 3 times, casting a Shield one after another on each ally.
+**For Balance Damage, he will cast {{Link|Spell|Tower Shield}}.
+**For Multi-attacks, he will cast the corresponding Shield for every hit.
+
+| spellnotes =
+
+| casts =
+Death Shield;
+Dream Shield;
+Fire Shield;
+Life Shield;
+Myth Shield;
+Storm Shield;
+Tower Shield;
+Deathblade;
+Ghoul;
+Natural Attack (Death 110-220-330, 80%);
+Vampire;
+
+| quests =
+
+| gold =
+254 - 336;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Coconut Drink;
+Crab Chimney*F2;
+Fishbones;
+Fish Drying Rack;
+Pile of Sand;
+Wall Starfish;
+Water-Mole Tribal Shield;
+
+| cards =
+Accurate;
+Giant;
+Legend Shield;
+Strong;
+Thermic Shield;
+Volcanic Shield;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Big Papa Paya;
+Crab Knight Cakes;
+Flowering Pineapple;
+Kalua Kebab;
+Large Fish;
+Salty Fish;
+Sandy Corn;
+Tiki Tea;
+Wiki Peas;
+
+| jewels =
+
+| pins =
+
+| pets =
+Frosty Fish*CR;
+
+| seeds =
+Boiled Peanuts;
+
+| mounts =
+
+| spells =
+
+}}

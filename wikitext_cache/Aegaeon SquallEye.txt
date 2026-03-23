@@ -1,0 +1,143 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,550
+| crecla = Beastmoon Creature
+| school = Storm
+| startpips = 3
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost = 
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Celestia Battlegrounds
+| descrip =
+Aegaeon SquallEye is one of the Boss monsters that can be encountered during the third Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events. He will have 1 random, Rank 3 Elite, Stage 3 monster and 2 random, Rank 2, Stage 3 monsters present to assist them.
+
+'''Potential Rank 3 Elite Minions:'''
+*{{Link|Creature|Ice Floe Spriggan}}
+*{{Link|Creature|Scrutinizer}}
+*{{Link|Creature|Thunderous Lagoony}}
+
+'''Potential Rank 2 Minions:'''
+*{{Link|Creature|Frosty Trawler}}
+*{{Link|Creature|Lightning Squid}}
+*{{Link|Creature|Smoked Flyingfish}}
+*{{Link|Creature|Stasis Eel}}
+
+| speech =
+
+| spellnotes =
+*Casts a +150/+150 version of Twin Blades.
+*Casts a 125 Damage version of Sheet Lightning.
+**It is currently unknown whether the clear effect occurs.
+*Casts a 200 Damage version of Bloodletter.
+**It is currently unknown whether the clear effect occurs.
+
+| casts =
+Twin Blades;
+Tempest Tiburon;
+Sheet Lightning;
+Bloodletter;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 15 - 30 Lunari.
+
+| gold =
+118;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone*F4*WMV;
+Colossus Idol (Fire);
+Colossus Idol (Ice);
+Draconian Idol (Storm);
+Elemental Moonstone*F2;
+Fairy Idol (Balance);
+Fairy Idol (Ice);
+Fire Thread*F2;
+Harmonious Moonstone;
+Harmonious Thread;
+Hunter's Moonstone;
+Hunter's Moonstone @ Hunter's Moonstone 2;
+Ice Moonstone;
+Ice Thread;
+Krokomummy Idol (Ice)*F2;
+Minotaur Idol (Balance);
+Ninja Pig Idol (Fire)*F3*WMV;
+Storm Moonstone*F2*WMV;
+Storm Thread*F4*WMV;
+Wolf Warrior Idol (Ice)*F2*WMV;
+Wolf Warrior Idol (Fire);
+
+| spellements =
+Blizzard;
+Iron Curse;
+Judgement;
+Obsidian Colossus;
+Sandstorm;
+Stormwing;
+Thermic Golem*F3*WMV;
+Thunderman*F2;
+Volcanic Golem*F4*WMV;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| recipes =
+7 Blizzard Spellements @ Blizzard Spellements;
+7 Inferno Salamander Spellements @ Inferno Salamander Spellements;
+7 Meteor Strike Spellements @ Meteor Strike Spellements;
+7 Sandstorm Spellements @ Sandstorm Spellements;
+}}

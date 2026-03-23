@@ -1,0 +1,121 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 7,200
+| crecla = Gorgon
+| school = Ice
+| school2 = Myth
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| schoolpips =
+Ice;
+Myth;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Bronze Hoplite (Challenge);
+Bronze Hoplite (Challenge);
+Bronze Hoplite (Challenge);
+
+| world = Wizard City
+| location = Tartarus (Challenge)
+| subloc1 = Temple of Longing (Challenge)
+| badge = Stheno Snnihilator
+| descrip =
+*For the Standard version of this Creature, see {{Link|Creature|Stheno}}.
+
+| cheatnotes =
+*{{Icon|Blade}}{{Icon|Aura}} ''"Winter always wins!"'' - If a Wizard casts a helpful Charm or helpful Aura, Stheno will cast {{Link|Spell|Ice Elemental}} on the recipient.
+*{{Icon|Harmful Aura}} ''"Winter withstands!"'' - If a Wizard casts a harmful Aura on Stheno, she will cast Tower Shield on herself.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Fortify;
+Tower Shield;
+Iceblade (+40%);
+Mythblade;
+Balanceblade;
+Winter Trap;
+Ice Elemental;
+Natural Attack (Ice 105-215-335);
+Ice Helephant;
+Keeper of the Flame;
+
+| quests =
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic: Aquila Badges|Swole Like Sisyphus]]''' {{Icon|Swole Like Sisyphus}} Badge, the following drops will be available:
+*{{Icon|Spellement}} 7 Aquila Spellements will drop each time from '''any''' School
+
+| gold =
+2 - 36;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Frigid Skeleturion*CR;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Stheno
+}}

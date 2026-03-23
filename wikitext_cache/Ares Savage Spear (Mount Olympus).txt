@@ -1,0 +1,129 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 3,600
+| crecla = Eagle
+| school = Fire
+| masteries =
+Death;
+
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Ice;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Ophidian Archer;
+
+| world = Wizard City
+| location = Mount Olympus
+| subloc1 = Hall of Battle
+| descrip =
+Ares must be defeated in order to obtain a weapon powerful enough to fight the last Boss on Mount Olympus, [[Creature:Zeus Sky Father (Mount Olympus)|Zeus Sky Father]].
+*The {{Link|Item|Sky Iron Hasta}} is obtained after defeating Ares, as explained by Hephaesteus Coppersmith, ''"[[:File:(Quest) Wisdom and Grace Dialogue 36.png|Duel Ares Savage Spear and take the Sky Iron Hasta from him.  Good luck, Wizard.]]"''
+*For the Challenge version of this battle, see {{Link|Creature|Ares Savage Spear (Mount Olympus, Challenge)}}.
+
+| speech =
+:''"Little barbarian Wizard, you do not have the heart of a warrior. Your spells will do you no good. Come, taste iron and blood! Do no waste your puny spells on me, for I will trade you strike for strike!"''
+
+| cheatnotes =
+*{{Icon|Aura}} At the beginning of Round 1, and any Round that he does not have an Aura, Ares will interrupt-cast {{Link|Spell|Amplify}} on himself.
+*{{Icon|Damage}} ''"You Dare Strike Me Directly?"'' - If a Wizard attacks Ares with a single target Damage Spell, he will cheat-cast a 0-pip version of his Natural Attack. 
+**Damage from Damage over Time effects will not trigger this cheat constantly each Round, and will only trigger it during the initial hit. 
+***{{Link|Spell|Frostbite}} triggers his cheat. ''(Needs further research.)''
+**Steal Spells will not trigger this cheat.
+**Pet Spells will not trigger this cheat.
+**Wand hits followed by wand may casts will cause Ares Savage Spear to use his natural attack twice.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Glacial Shield;
+Dream Shield;
+Curse;
+Feint;
+Brimstone Revenant;
+Natural Attack (Ares);
+Meteor Strike;
+Heck Hound;
+Ghoul;
+Lord of Night;
+Deer Knight;
+
+| quests =
+Wisdom and Grace;
+
+| dropnotes =
+When a Wizard has not unlocked the '''[[Basic:MooShu Badges|Emerald Champion]]''' {{Icon|Emerald Champion}} Badge and has completed the '''{{Link|Quest|Sisyphus is Unhappy}}''' {{Icon|Swole Like Sisyphus}} Quest, the following drops will be guaranteed:
+*{{Icon|Spellement}} 3-4 Aquila Spellements of '''any''' School
+
+If a Wizard already has the Emerald Champion Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of Mount Olympus to acquire a [[Item:Level Scaling Elixir - 30|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+1 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

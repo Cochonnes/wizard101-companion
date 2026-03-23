@@ -1,0 +1,172 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 2,560
+| crecla = Dog
+| school = Balance
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+
+| summons =
+Conscripted Mander (Tier 2);
+Conscripted Mander (Tier 2);
+
+| world = Housing Instance
+| location = Grand Tourney Arena
+| subloc1 = Grand Tourney Arena (Tier 2)
+| descrip =
+
+| speech =
+:''"Ah, the Stranger! I knew you would prove tougher than you looked, so I ensured you would fight Sir Dunc first. No matter who won, the winner would be worn down. Either way, I am fresh and eager to battle! I'll win praise from my master today!"''
+
+| cheatnotes =
+*{{Icon|Minion}} ''"I'm outnumbered! Mander, join your master!"'' - At the end of the first Round, Sir Steffan summons a Conscripted Mander (Tier 2).
+**At the end of the second Round, he summons another Conscripted Mander (Tier 2).
+*{{Icon|Steal}} ''"Mander, give me all your strength!"'' - If a Wizard deals 300 Damage or more on Steffan, he will cheat-cast Sap Health from Minion which will defeat the Minion and give him 500 health, and on his next turn he will re-summon Conscripted Mander (Tier 2). 
+:*If more than one Conscripted Mander (Tier 2) is actively in the duel, he will cast Sap Health on both, then re-summon one each Round until he has two again. (Repeating the cycle.) Even if the minions have been defeated, he will still gain 500 health on the round.
+:*DoT Spells do not trigger Cheat.
+:*Cheat will still trigger when Boss has no Minions, but Sap Health won't work.
+*{{Icon|Trap}} ''"Not fair! You should be hamstrung!"'' - If a Wizard places a Trap on Steffan, he will cheat-cast Weakness.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Balance Damage.
+
+| casts =
+Spirit Shield;
+Weakness;
+Sap Health;
+Balanceblade;
+Spirit Blade;
+Spirit Trap;
+Cat Thug (160);
+Spirit Blast;
+Judgement;
+
+| quests =
+Hedging Bets;
+
+| gold =
+20 – 86;
+
+| hats =
+Pixie's Mask of Encanta (Level 20+)*CR;
+Pixie's Mask of Encanta (Level 30+)*CR;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Birdcage;
+Crystal Ball;
+Floor Brazier;
+King Artorius Bobblehead;
+Open Burned Book;
+Spiral Shield;
+Stained Armoire;
+
+| cards =
+Basilisk;
+Efreet;
+Fire Elf*F2;
+Frost Giant;
+
+| reagents =
+Acorn*F3*WMV;
+Aether;
+Blood Moss*F3;
+Brass;
+Cat Tail*F8*WMV;
+Copper*F2;
+Deep Mushroom*F4;
+Diamond*F2;
+Fossil*F3;
+Iron*F3;
+Kelp*F2;
+Lead*F2;
+Mist Wood*F7*WMV;
+Nightshade*F3;
+Ore*F6;
+Pyrite;
+Red Mandrake*F8*WMV;
+Scrap Iron*F5;
+Shell;
+Spring*F8;
+Stone Block*F2;
+Water Lily*F4;
+
+| spellements =
+
+| snacks =
+Arrow Root*F7*WMV;
+Big Squash*F8;
+Chocolate Comet;
+Cow Pie*F4*WMV;
+Crunch Apple*F13*WMV;
+Crystal Custard;
+Glowing Rock Candy*F7*WMV;
+Grilled Cheese*F8*WMV;
+Large Fish*F6*WMV;
+Large Watermelon*F7;
+Moon Pie*F7;
+Pixie Parsnips*F2*WMV;
+Shepherd's Crook Pie*F2;
+Weirwood Cake;
+Wormy Apple*F8*WMV;
+Wyrmy Apple*F2;
+
+| jewels =
+Big-Check Opal;
+Chipped Accurate Sapphire +3%;
+Chipped Health Opal +20;
+Cracked Damage Onyx +5;
+Cracked Damage Peridot +6*F2*WMV;
+Eager Opal;
+Volcanic Shield Sapphire;
+
+| pins =
+
+| pets =
+Dark Sprite;
+Leprechaun;
+Red Ghost;
+
+| seeds =
+Helephant Ears;
+
+| mounts =
+
+| spells =
+
+}}

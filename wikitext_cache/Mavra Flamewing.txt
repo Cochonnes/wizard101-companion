@@ -1,0 +1,196 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,600
+| crecla = Wizard
+| crecla2 = Undead
+| school = Storm
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Protection Pox;
+Protection Pox;
+
+| world = Dragonspyre
+| location = Plaza of Conquests
+| subloc1 = Flamewing's Tower
+| descrip =
+Mavra Flamewing is a Boss in the Plaza of Conquests. She is one of two Bosses who have Poxes that help them. Pyromancers must defeat her for their Level 48 Quest to obtain the {{Link|Spell|Fire Dragon}} Spell and {{Link|Pet|Yokai}} Pet.
+
+| speech =
+:''"Don't get cocky, young Wizard! You've learned the art of the attack, but what happens when you cannot land an attack on your opponent? Defense is the key to survival! Defend yourself!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+The bane of Balance Wizards throughout the Spiral, Mavra has a fiery temperament and scathing wit.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Myth Shield;
+Sprite;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Shark;
+Kraken;
+Stormzilla;
+Tempest;
+Vampire;
+Natural Attack (Ice 85x, 85%);
+Heck Hound;
+
+| quests =
+The Best Defense;
+Tower of the Inferno;
+
+| gold =
+135 - 159;
+
+| hats =
+Bonfire Headdress;
+Cap of Fables*F5*WMV;
+Cap of the Unflinching*F2;
+Cowl of the Glacier*F4*WMV;
+Equalizer's Coif;
+Flamewing's Rejuvenative Cowl*F2;
+Frostwrapped Hood*F3;
+Halcyon Hood;
+Helm of Oblivion;
+Hood of Permafrost;
+Mantle of the Icicle*F2;
+Ozone Shroud*F2;
+Promethean Hood;
+Shroud of the Grave*F2;
+Triton's Topper;
+Veil of Passage;
+
+| robes =
+Blizzard Cloak;
+Fiery Tunic*F2;
+Flamewing's Phoenix Cloak*F2;
+Robe of the Gale*F2;
+Salamander's Wrap*F3*WMV;
+Shibboleth Smock;
+Storm Giant's Surcoat;
+Tunic of the Sphinx;
+Verdant Vestment*F2;
+
+| boots =
+Ashen Footwraps;
+Boots of the Bountiful;
+Boots of the Coming Storm*F2*WMV;
+Boots of the Forgotten*F2;
+Burning Boots;
+Flamewing's Boots;
+Footgear of the North Wind;
+Legend Walkers;
+Monsoon Mocassins*F2;
+Salamander-Hide Shoes;
+Sandals of Lost Aeons;
+Sandals of Neutrality;
+Sandals of Scorching*F2;
+Sandals of the Prophet;
+
+| athames =
+Athame of the Volcano*F2*WMV;
+Dauntless Dirk;
+Dragonblood Dirk;
+Stonecutter;
+
+| amulets =
+
+| rings =
+Band of the Hearth;
+Ring of Dominance*F2*WMV;
+Ring of the Forefathers;
+Sapphire Studded Band*F2;
+
+| wands =
+
+| decks =
+Deck of Perfect Harmony;
+
+| items =
+Dragon Pedestal;
+Dragonwing Bust;
+Short Corner Wall Ruins;
+
+| cards =
+Dragonflies;
+
+| reagents =
+Bone;
+Cobalt*F2;
+Copper;
+Ectoplasm*F6*WMV;
+Lead*F2;
+Leather Straps*F2*WMV;
+Nickel*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F3*WMV;
+Goat Cheese*F2;
+Golden Grapes*F3*WMV;
+Gummy Humongofrog*F2;
+King Banana*F3*WMV;
+
+| jewels =
+Blemished PIP Opal +4%;
+Darkwind Amethyst;
+Donate Power Citrine;
+Dull Critical Citrine +2;
+Dull Critical Sapphire +2;
+Dull Defense Amethyst +25;
+Dull Defense Sapphire +25;
+Minotaur Peridot;
+Phoenix Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+Maelstrom Snap Dragon;
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

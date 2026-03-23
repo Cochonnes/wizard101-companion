@@ -1,0 +1,95 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 17,240
+| crecla = Water-Lurker
+| school = Death
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+Shadow Blob (4,595);
+
+| world = Darkmoor
+| location = Black Lagoon
+| subloc1 = Burbling Bog
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Deathblade;
+Dr. Von's Monster;
+Scion of Death
+
+| quests =
+It Lurks in the Dark;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Creepy Bed*CR;
+Darkmoor Vanity*CR;
+Darkmoor Wagon*CR;
+Vampire Lord Casket*CR*F2;
+
+| cards =
+
+| reagents =
+Mithril;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

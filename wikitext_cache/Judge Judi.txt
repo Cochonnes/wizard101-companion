@@ -1,0 +1,141 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 17,410
+| crecla = Koala
+| school = Balance
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Ice;
+Life;
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+20%;
+
+| outboost =
+98%;
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+42% Fire, Ice, Storm, Shadow;
+72% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+Cadet Judge;
+Cadet Judge;
+Cadet Judge;
+
+| world = Wallaru
+| location = Collie Ranch
+| subloc1 = Collie Homestead
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:'''Judge Judi:''' ''"And here is: the man of the hour, the wee little house pup that thinks he's a Drover."''
+:'''Ned Collie:''' ''"Drove out all your Judge mates, must not be that far off."''
+:'''Judge Judi:''' ''"I don't give a Wombat's cube what you think. I am the law in these parts. What I say goes. And I say you're done. Both of you."''
+
+| cheatnotes =
+*{{Icon|Round}} ''"I am the law and you will obey!"'' - At the beginning of the first Round, Judge Judi will announce this.
+{{Icon|Heal}}{{Icon|Damage}} '''Cheat Cycle''' - At the end of every second Round, Judge Judi will announce which actions are lawful:
+*''"No more witnesses!"'' - If Cadet Judges are still present, Wizards may only attack and defeat them.
+*''"Speed it up!"'' - Wizards may not use healing spells. Pet casts also trigger this cheat.
+*''"Be direct!"'' - Wizards may only use single-target attacks.
+*''"Pipe down!"'' - Wizards may not use any attacks.
+*''"That's contempt of court!"'' - If a Wizard breaks Judge Judi's rules, she will cast {{Link|Spell|Sirocco Djinni (755)}} on the offending Wizard.
+**{{Link|Spell|Unbalance}} can be used to avoid this cheat.
+
+| spellnotes =
+
+| casts =
+Punishment;
+Balanceblade;
+Bladestorm;
+Steal Pip;
+Balance of Power;
+Scales of Destiny (Tier 3b);
+Mighty Judgement;
+Power Nova;
+Judgement;
+
+| quests =
+Red Ned Redemption;
+You Can Go Home Again;
+
+| gold = 
+1 - 34;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+File Cabinet*CR*F7;
+Wallaru Hope Springs Theme;
+Wallaru Ranch Combat Theme*F2;
+
+| cards =
+Deathblade;
+Death Trap;
+Dr. Von's Monster;
+Rebirth;
+Storm Owl;
+
+| reagents =
+Ectoplasm;
+Fish Fin;
+Iron;
+Mithril;
+Platinum;
+Steel;
+Tin;
+
+| spellements =
+
+| snacks =
+Atomic Fireball;
+Deepwater Toffee;
+Glowing Dragon Fruit;
+Surfin' Turf;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

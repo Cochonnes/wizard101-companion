@@ -1,0 +1,183 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 800
+| crecla = Elemental
+| crecla2 = Plant
+| crecla3 = Treant
+| school = Life
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Grendel Urchin;
+
+| world = Grizzleheim
+| location = Savarstaad Pass
+| subloc1 = Wildroot's Lair
+| descrip =
+A dangerously hostile Treant, Wizards are directed to Wildroot by the much friendlier Treant {{Link|NPC|Swiftbranch}}, who suggests that he may be able to better answer [[NPC:Snorri Oysterbloom|Snorri Oysterbloom's]] question of, "If a tree falls in the forest with no witnesses, does it still make a sound?"  Wizards hardly get the time to ask Wildroot the question, however, before he becomes aggressive and challenges them in his lair.
+
+Two {{Link|Creature|Grendel Wortling}}s will appear if more than two Wizards are present.
+
+| speech =
+:''"You were a fool to disturb me!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+It's good friends with the Wortlings and knows how to have a wild time.
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,500
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Sprite;
+Lifeblade;
+Life Trap;
+Natural Attack (Life 90);
+Imp;
+Leprechaun;
+Nature's Wrath;
+Seraph;
+Evil Snowman;
+Sunbird;
+Storm Shark;
+
+| quests =
+Fall Tree Bowers;
+
+| gold =
+34 - 63;
+
+| hats =
+Cap of Dread;
+Cowl of Retribution*F11*WMV;
+Frostweaver's Hood*F9*WMV;
+Penumbra Cowl;
+Snowthorn Hat*F2*WMV;
+Torrential Cap;
+
+| robes =
+Fireshroud Tunic*F5*WMV;
+Garments of Zeal;
+Igneous Robe*F2*WMV;
+Mythologist's Raiment;
+Robe of Subsistence;
+Robe of the Life Aria*F9*WMV;
+Thanatoid Vestment*F2;
+Vestment of Serenity;
+Vestment of Yesteryear;
+
+| boots =
+Fountain Waders;
+Footguards of Consideration;
+Glacier Walkers;
+Hibernal Footwraps;
+Smoke Jumpers*F5*WMV;
+Striders of Strife;
+Thane's Boots;
+Wild Rover's Boots;
+
+| athames =
+Poniard of the Last Rune;
+Wyrdrazor*F4*WMV;
+
+| amulets =
+
+| rings =
+Ice Crystal Loop;
+Jewel of Liveliness*F3*WMV;
+Stone of Confidence*F4*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Wood-Carven Stool;
+
+| cards =
+Ghoul;
+Guiding Light;
+Lightning Bats*F2*WMV;
+Locust Swarm;
+Snow Serpent;
+
+| reagents =
+Copper;
+Iron;
+Lead;
+Leather Straps*F11*WMV;
+Nickel*F2*WMV;
+Pyrite*F5*WMV;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Flaming Carrot*F2*WMV;
+Glowing Rock Candy;
+Meat Soup*F2*WMV;
+Moon Pie*F2;
+MooShu Broccoli;
+Orange Jalapeno*F3*WMV;
+Spicy Bubblegum;
+Tasty Biscuit*F3*WMV;
+Tiny Pretzel;
+
+| jewels =
+Chipped Health Opal +19;
+Chipped Mana Opal +12;
+Cracked Defense Citrine +8;
+Cracked Defense Jade +7;
+Thermic Shield Amethyst;
+Volcanic Shield Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Boom Shroom*F2;
+Couch Potatoes*CR;
+Dandelion*F2*WMV;
+Honey Sickle;
+Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

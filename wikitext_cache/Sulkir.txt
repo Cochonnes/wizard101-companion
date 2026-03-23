@@ -1,0 +1,159 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,545
+| crecla = Giant
+| school = Ice
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Frost Bones;
+
+| world = Grizzleheim
+| location = Austrilund
+| subloc1 = Mysterious Cave (Grizzleheim)
+| descrip =
+Two additional Frost Bones Minions appear if more than two Wizards are present.
+
+| speech =
+:''"My club is hungry! Step on over here so I can feed it!"''
+
+| casts =
+Stun Block;
+Iceblade;
+Ice Trap;
+Ice Prism;
+Blizzard;
+Ice Wyvern;
+Frostbite;
+Blight Hound;
+Colossus;
+Tundra Lord;
+Natural Attack (Ice 85x, 80%);
+
+| quests =
+Out Clubbing;
+
+| gold =
+30 - 79;
+
+| hats =
+Barbaric Helm;
+Grizzled Helm;
+Horned Helm of the North*F2*WMV;
+Novitiate Hat;
+
+| robes =
+Burnt Coat;
+Chill-Kissed Coat*F2*WMV;
+Jerkin of the Bleak Bear*F2*WMV;
+Jerkin of the Iron Bear;
+Jerkin of the Roaring Bear;
+
+| boots =
+Angry Bear Boots;
+Barbarian's Fierce Boots;
+Biting Bear Boots*F2;
+Growling Bear Boots;
+Roaring Bear Boots;
+Slashing Bear Boots*F2*WMV;
+Snarling Bear Boots;
+
+| athames =
+Wolf's Topaz Claw*F3*WMV;
+
+| amulets =
+Wyrm's Blessing Charm*F6*WMV;
+Wyrm's Curse Charm;
+
+| rings =
+Ring of Brother Wolf;
+Ring of Sister Wolf*F2*WMV;
+Ring of the Wolf's Song*F3;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Fortify;
+Frozen Armor*F4*WMV;
+Keen Eyes*F3*WMV;
+Legion Shield*F3*WMV;
+Pixie;
+Snow Shield;
+Tempest;
+
+| reagents =
+Bone*F2*WMV;
+Cobalt;
+Copper*F2;
+Lead;
+Nickel;
+Spider Silk*F4*WMV;
+Tin*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Delicious Cookie*F2;
+Flaming Soup;
+Glowing Star Fruit*F2;
+Glowing Taffy;
+Goat Cheese;
+Golden Apple*F2;
+Golden Grapes;
+Gummy Humongofrog*F2;
+Spicy Drumstick*F3*WMV;
+Strawberry Cupcake*F2;
+Submarine Sandwich;
+
+| jewels =
+Blade of Fire Ruby;
+Halt Leader Opal;
+Life-Eye Jade;
+Plain Blocking Ruby +6;
+Plain Damage Ruby +15;
+Plain Defense Opal +16;
+Sap Health Talent Citrine;
+The Deer Knight Rises Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+Rye Bread Fruit Bush*F2*WMV;
+Snap Dragon;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

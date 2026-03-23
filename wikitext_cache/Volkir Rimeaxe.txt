@@ -1,0 +1,127 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,590
+| crecla = Bear
+| school = Myth
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm;
+
+| incresist =
+35% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Minion of Volkir;
+
+| world = Grizzleheim
+| location = Savarstaad Pass
+| subloc1 = Volkir Rimeaxe's Crag
+| descrip =
+Ice Wizards confront Volkir to recover a Frost Diamond and return it to the {{Link|NPC|Snow Angel}} to earn their Level 58 spell.<br/>(The name over his head is Rimaxe, but every other reference to him is Rimeaxe).  Unlike most other Level 58 spell quest bosses, this boss is repeatable.
+
+| speech =
+:''"An Ice Wizard has come to bother me? I suspect I know why!"''
+
+| cheatnotes =
+*''"A Charm! Let's even the playing field!"'' - Casting a Blade will cause him to interrupt-cast a {{Link|Spell|Hex (+35%)}} on the Wizard who cast it.
+**Global Spells will trigger this cheat, but Aura Spells will not.
+**Pet Spells will not trigger this cheat.
+*''"A ward! Let's even the playing field!"'' - Casting a Trap (including Feint) or a Shield will cause him to interrupt-cast a '''Hex (+35%)''' on the Wizard who cast it.
+**The text for this cheat only appears after Volkir casts the Hex.
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Myth Trap;
+Yellow Troll;
+Gobbler;
+Humongofrog;
+Minotaur;
+Humongofrog (400-500);
+Orthrus;
+Natural Attack (Myth 100x, 80%);
+
+| quests =
+Out of the Blue;
+
+| gold =
+63 - 82;
+
+| hats =
+Insightful Topper;
+Thundercloud Coif;
+Vital Headdress;
+
+| robes =
+Tragic Tunic;
+Whimsical Surcoat*F2;
+
+| boots =
+Boots of Celestian Totality;
+Celestian Abyss Boots;
+Celestian Tempest Trekkers;
+Ice Rangers;
+Rime Runners;
+
+| athames =
+
+| amulets =
+
+| rings =
+Typhoon Band;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Dragonflies;
+Empower;
+Gargantuan*F2*WMV;
+Sniper;
+Unstoppable;
+
+| reagents =
+Nickel*F2;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Submarine Sandwich;
+
+| jewels =
+Plain Defense Amethyst +29;
+
+| pins =
+
+| pets =
+
+| seeds =
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

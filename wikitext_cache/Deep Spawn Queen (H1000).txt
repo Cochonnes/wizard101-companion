@@ -1,0 +1,91 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 1,000
+| crecla = Insect 
+| school = Storm
+| school2 = Life
+| startpips = 1
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
++25 Ice, Death;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Liches & Legends Gauntlet
+| subloc1 = 
+| descrip =
+Deep Spawn Queen is considered a Minion to {{Link|Creature|King Avernus}}. All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+*Casts a 0-Pip Natural Attack that deals 100 Storm Damage.
+*Casts a 1-Pip version of Storm Shark that deals 200 Storm Damage.
+*Casts a 1-Pip version of Nature's Wrath that deals 200 Life Damage.
+*Casts a 2-Pip version of Catch of the Day that deals 300 Storm Damage and applies a +100 Damage Charm on caster.
+
+| casts =
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Deep Spawn Queen
+}}

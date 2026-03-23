@@ -1,0 +1,127 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 5,280
+| crecla = Grendel
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Grendel Sapscar;
+Grendel Spikeroot;
+Grendel Weirdling;
+
+| world = Grizzleheim
+| location = Winterdeep Warren
+| descrip = Dragar can be found patrolling the small octagon at the far left of the Winterdeep Warren map. His minion(s) will be drawn from among the three mob types that spawn in his area, per standard street duel rules.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Life damage per Pip
+
+| casts =
+Myth Shield;
+Weakness;
+Black Mantle;
+Sprite;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Elf (30+273);
+Evil Snowman (Storm);
+Storm Shark;
+Kraken;
+Stormzilla;
+Tempest;
+Vampire;
+Fire Elf;
+Heck Hound;
+
+| quests =
+
+| gold =
+77 - 94;
+
+| hats =
+Cowl of the Rime*F4*WMV;
+Headdress of Fancy*F2;
+
+| robes =
+Harbinger's Smock;
+
+| boots =
+Slippers of Essence*F2*WMV;
+Telluric Striders;
+
+| athames =
+Hepatizon Knife;
+
+| amulets =
+
+| rings =
+Sigil of the Return*F3*WMV;
+Signet Stone of Fate*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Heavy Dining Table*F2*WMV;
+Net Drying Rack;
+
+| cards =
+Darkwind;
+
+| reagents =
+Cobalt*F2;
+Leather Straps*F3;
+
+| spellements =
+
+| snacks =
+Fairy Cake;
+Glowing Rock Candy*F2;
+Huge Ice Cream;
+Moon Pie;
+Spicy Popcorn;
+Tasty Biscuit;
+
+| jewels =
+Minotaur Peridot;
+Ultra Exhaustion Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Pink Dandelion*CR*F2;
+Rye Bread Fruit Bush;
+
+| mounts =
+
+| spells =
+
+}}

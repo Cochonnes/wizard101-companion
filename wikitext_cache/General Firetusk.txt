@@ -1,0 +1,171 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 3,200
+| crecla = Demon
+| crecla2 = Elephant
+| school = Fire
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Draconian Battlemage;
+
+| world = Dragonspyre
+| location = The Grand Chasm Past
+| subloc1 = 
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+In a time long gone, Firetusk was the decorated leader of a formidable squadron of elephantine demons, and a pretty good tennis player too.
+
+| extract class =
+Elephant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Spirit Armor;
+Smoke Screen;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Sunbird;
+Fire Shark;
+Meteor Strike;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Natural Attack (Fire 100x);
+Heck Hound;
+Minotaur;
+
+| quests =
+The Vault of Fire;
+
+| gold =
+96 - 113;
+
+| hats =
+Firetusk's Inferno Cowl*F2*WMV;
+Frostbitten Cap*F2;
+Hood of Rejuvenation*F2*WMV;
+Lightning-Charged Mantle*F2*WMV;
+Veil of Fire;
+Veil of Leaves;
+
+| robes =
+Cloak of the Djinni*F2;
+Firetusk's Inferno Cloak;
+Raiment of the Raven;
+Shibboleth Smock*F2*WMV;
+Surcoat of Glory*F2*WMV;
+Verdant Vestment;
+
+| boots =
+Boots of Equivalence;
+Burning Boots;
+Frostwoven Footwraps*F3*WMV;
+General Firetusk's Flameboots*F2;
+Reaper's Boots*F6*WMV;
+Salamander-Hide Shoes;
+Sandals of Lost Aeons;
+Sandals of Neutrality;
+Shoes of the Greatest Saga;
+Striders of the Thicket;
+
+| athames =
+Athame of Perserverance*F2;
+Dauntless Dirk;
+Dragonblood Dirk;
+Poniard of Vitality;
+Thunder Blade*F2;
+
+| amulets =
+
+| rings =
+Burning Ring of Fire;
+Final Orbit;
+Ring of the Forefathers;
+
+| wands =
+
+| decks =
+Deck of Last Departure*F2;
+
+| items =
+Broken Wall Segment*F2;
+Dragonskull Marker;
+
+| cards =
+Pest Zapper;
+
+| reagents =
+Bone*F2;
+Brass;
+Cobalt*F2;
+Ectoplasm*F2*WMV;
+Nickel*F2*WMV;
+Tin*F2*WMV;
+
+| spellements =
+
+| snacks =
+Flaming Soup;
+Goat Cheese;
+Gummy Humongofrog*F2;
+King Banana*F2;
+
+| jewels =
+Blemished Accurate Peridot +5%;
+Blemished Defense Amethyst +23;
+Dull Piercing Ruby +1%;
+Dull Piercing Sapphire +1%;
+Fire-Away Ruby;
+Life-Eye Jade;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

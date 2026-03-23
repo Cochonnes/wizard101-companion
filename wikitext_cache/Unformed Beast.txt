@@ -1,0 +1,142 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 13,265
+| crecla = Wolf
+| school = Shadow
+| school2 = Balance
+| masteries =
+Myth;
+Death;
+
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Ice;
+Myth;
+Life;
+
+| critical =
+435 Any;
+
+| criticalblock =
+130 Any;
+
+| outpierce =
+25%;
+
+| outboost =
+94%;
+
+| incboost =
+None;
+
+| incresist =
+28% Any;
+
+| outhealing =
+24%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Arcanum
+| location = The Arcanum
+| subloc1 = Unformed World
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| cheatnotes =
+*{{Icon|Spell}} ''"Try This"'' - At the beginning of the first Round, Unformed Beast will give the Wizard and itself one of the following Spells that matches the Wizard's school, and the School Pips required to cast.
+**{{GivesSpell|size = 85px|spells = 7|Scales of Destiny|Gravestorm|Glimpse of Infinity|Deathly Depths|Starspawn|Improbable Gaze|Tree of Strife}}
+
+*{{Icon|Ward}} ''"Arooooo!!!"'' - At the end of the first Round, the Unformed Beast casts one of the following Spells:
+**{{Link|Spell|Balanceblade}}, {{Link|Spell|Death Shield}}, {{Link|Spell|Fire Shield}}, {{Link|Spell|Snow Shield}}, {{Link|Spell|Myth Shield}}, {{Link|Spell|Life Shield}}, {{Link|Spell|Storm Shield}}.
+
+| speech =
+:''"*HOWLS*"''
+
+| spellnotes =
+
+| casts =
+Magnify;
+Guiding Light;
+Grendel's Amends;
+Shadowblade;
+Balanceblade;
+Power Current;
+Empower;
+Brimstone Revenant (Shadow);
+Spectral Blast (Shadow);
+Lord of Night (Shadow);
+Scales of Destiny;
+Power Nova;
+Lord of Atonement;
+
+| quests =
+Something Wicked That Way Goes;
+
+| gold =
+11 - 31;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Novus Conatus Theme;
+Novus La Ville Rose Theme;
+Novus New Vicorgia Combat Theme;
+Novus Puerto Nuovo Theme;
+Novus Stone of Heaven Combat Theme;
+Novus War Combat Theme;
+
+| cards =
+Elemental Shield;
+Elemental Spear;
+Mass Death Prism;
+Mass Ice Prism;
+Triage;
+
+| reagents =
+Astral Shard;
+Orichalcum;
+Platinum;
+
+| spellements =
+
+| snacks =
+Bearberry;
+Kalua Kebab;
+Mustachios;
+Street Pizza;
+
+| pins =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

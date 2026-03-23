@@ -1,0 +1,169 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 15,315
+| crecla = Shadow Seraph
+| school = Shadow
+| school2 = Death
+| cheats = Yes
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+12%;
+
+| outboost =
+91%;
+
+| incboost =
+30% Life;
+
+| incresist =
+41% Fire, Ice, Storm, Myth, Balance, Shadow;
+71% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Enki the Heretic (Chamber of Phoebe);
+Shadow Guardian (Rank 22 Elite);
+Fallen Luphilim (Ice-Myth)
+
+| world = Krokotopia
+| location = Tomb of the Forgotten (Krokotopia)
+| subloc1 = Chamber of Phoebe
+| descrip =
+This is the second battle with The Prophet, fought together with {{Link|Creature|Enki the Heretic}}.
+*For the first battle, see {{Link|Creature|The Prophet}}.
+
+| speech =
+:'''The Prophet:''' ''"I'm telling you, somehow they're going to use these jars to get past the Gateway."''
+:'''Enki the Heretic:''' ''"Impossible! Mayhap your judgement too is shrouded in Shadow."''
+:'''The Prophet:''' ''"Oh, go chase a squirrel."''
+:'''Enki the Heretic:''' ''"I would enjoy nothing more than to hunt the most hated foe of the Luphilim, but alas, it seems we have another enemy to quell."''
+:'''The Prophet:''' ''"The Wizard is here? It's almost like they're after these Canopic Jars or something."''
+:'''Enki the Heretic:''' ''"Silence! We each failed to thwart them alone. But 'twas as a paradox they bested our creators, thus only with a paradox can we defeat them."''
+:'''The Prophet:''' ''"Then together, let's end this Wizard once and for all!"''
+
+| cheatnotes = 
+'''The Prophet'''
+*''"No Sanctuary in the Night."'' - At the beginning of the first Round and if a Wizard joins the duel late, The Prophet casts a negative version of {{Link|Spell|Acrimony}} on all Wizards that turns all incoming Healing into Damage for 99 Rounds. The Aura is applied twice, but the effects do not stack.
+**If a Wizard casts an Aura Spell on the first Round, one of the negative Auras will be replaced, and the Wizard will receive the effects of the remaining one, as well the one they cast, at the same time.
+**Casting any Aura on any other turn will cause The Prophet to cast a no-Damage version of {{Link|Spell|Supernova}}, removing the Wizard's Aura, and then will recast this cheat on all wizards.
+'''Enki the Heretic'''
+*''"To face the wolf, bare the claws."'' - At the beginning of every second Round, Enki the Heretic will cheat-cast a +25% {{Link|Spell|Fireblade}} or +25% {{Link|Spell|Deathblade}} on each Wizard.
+*''"The Light burns!"'' - At the beginning of the every fifth Round, Enki will cheat-cast {{Link|Spell|Incindiate}}.
+*''"The Light blesses you."'' - If a Wizard casts a positive Charm, Enki will cheat-cast an all enemies version of {{Link|Spell|Sprite}}, restoring 500 Health over 4 Rounds on each Wizard.
+*''"Feel the bite of Raven!"'' - After Enki attacks, or if a Wizard joins the duel late, Enki will cheat-cast {{Link|Spell|Scald}}.
+
+| spellnotes =
+
+| casts =
+Virulence;
+Weakness;
+Balanceblade;
+Vampire (Shadow);
+Lord of Night (Shadow);
+Scald (Shadow);
+Leviathan (Shadow);
+Dream Golem (Tier 3b);
+Poison;
+Winged Sorrow;
+Monster Mash (Tier 4a);
+
+| quests =
+Friends Like These;
+
+| gold =
+43 - 89;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Krok Chalkboard;
+Selenopolis Combat Theme;
+Selenopolis Forgotten Combat Theme;
+Selenopolis Forgotten Theme;
+Selenopolis Theme;
+
+| cards =
+Avenging Fossil;
+Death Trap;
+Deathblade;
+Gnomes!;
+Iceblade;
+Mythblade;
+Skeletal Dragon;
+Spinysaur;
+Spirit Blade;
+Storm Owl;
+
+| reagents =
+Brass;
+Copper;
+Draconium;
+Ectoplasm;
+Fish Fin;
+Merle's Whisker;
+Nickel;
+Platinum;
+Scales;
+Silver;
+Spider Silk;
+Toffee Bean;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Baby Carrot*F3;
+Crab Apples;
+Dr. Jalapeno;
+Flaming Carrot;
+Green Jalapeno;
+Guava;
+Kroklava;
+PB Cookie;
+Redskin Peanut;
+Spicy Bubblegum;
+Taco;
+Tiny Pretzel;
+Veggie Juice;
+Wheat Cracker;
+Zen Poppers;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

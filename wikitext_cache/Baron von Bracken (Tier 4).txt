@@ -1,0 +1,198 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 2,000,000
+| crecla = Treant
+| school = Death
+| masteries = 
+Ice;
+Balance;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Ice;
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+26%;
+
+| outboost =
+181.25%;
+
+| incboost =
+5% Life;
+
+| incresist =
+73% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Nettle Soldier (Tier 4);
+Nettle Soldier (Tier 4);
+Nettle Soldier (Tier 4);
+
+| world = Wysteria
+| location = Tanglewood Way
+| subloc1 = Von Bracken's Grove
+| badge = Bracken Clearer
+| descrip =
+Baron von Bracken (Tier 4) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Wysteria Spellemental Pack}}.
+*This Tier is for level 110-{{MaxLevel}} Wizards.
+
+| speech =
+:''"Who dares venture encroach upon the domain of Baron von Bracken, Lord Protector of the Underbrush? A Wizard? Hrmph. Step forth and be overtaken."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wysteria
+| tome description =
+Would have been King von Bracken, but plant politics are thorny.
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Death}} ''"Feel the sting of my nettles!"'' - If a Feint is cast on Baron von Bracken, he'll cast a Natural Attack dealing 420 Death Damage on the Wizard.
+** The Balance version of {{Link|ItemCard|Feint}} will not activate this cheat.
+** {{Link|ItemCard|Mass Feint}} will activate this cheat.
+*{{Icon|Heal}} ''"Nature Will Always Find a Way!"'' - If a Wizard casts a Damage or Steal Spell on Baron von Bracken that deals less than 50% of the Boss's Max Health (< 1,000,000), he will cast a Moon version of Blessing, restoring 100% of his max Health, and use a Shadow version of Triage on himself.
+**Casting a Damage over Time Spell without the initial hit, such as {{Link|Spell|Scald}}, will trigger this cheat.
+**''"Curses!"'' - This cheat will not trigger if the Damage Spell deals more than 50% of the Boss's Max Health (> 1,000,000).
+
+| spellnotes =
+*Casts a protected Deathblade (+40%).
+*Casts a protected Deathspear (+10%).
+
+| casts =
+Deathspear (+10%);
+Deathblade (+40%);
+Spirit Blade;
+Dragonlance;
+Feint (All Enemies);
+Donate Shadow (0 Shadow Pip);
+Qismah's Wrath;
+From Beyond;
+Snack Attack (Tier 3a);
+Winged Sorrow;
+Scarecrow;
+Scion of Death;
+Angry Snowpig (Tier 5a);
+
+| quests =
+
+| gold =
+
+| hats =
+Wysteria Warrior's Armet (Level 120+)*CR*F2;
+Wysteria Warrior's Helmet (Level 120+)*CR*F2;
+Wysteria Warrior's Helmet (Level 130+)*CR*F2;
+Wysteria Warrior's Warhelm (Level 120+)*CR;
+Wysteria Warrior's Warhelm (Level 130+)*CR*F2;
+
+| robes =
+Wysteria Warrior's Armor (Level 120+)*CR;
+Wysteria Warrior's Armor (Level 130+)*CR;
+Wysteria Warrior's Cuirass (Level 120+)*CR; 
+Wysteria Warrior's Cuirass (Level 130+)*CR*F2; 
+Wysteria Warrior's Plate (Level 130+)*CR*F2;
+
+| boots =
+Wysteria Warrior's Boots (Level 120+)*CR;
+Wysteria Warrior's Sabatons (Level 120+)*CR;
+Wysteria Warrior's Sabatons (Level 130+)*CR;
+Wysteria Warrior's Sollerets (Level 120+)*CR;
+Wysteria Warrior's Sollerets (Level 130+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Wysteria Warrior's Broadsword (Level 120+)*CR;
+Wysteria Warrior's Broadsword (Level 130+)*CR;
+Wysteria Warrior's Claymore (Level 130+)*CR;
+Wysteria Warrior's Longsword (Level 120+)*CR*F3;
+Wysteria Warrior's Longsword (Level 130+)*CR;
+
+| decks =
+
+| items =
+Elephantine Ottoman;
+Filigreed Wysterian Chair*F2;
+Gold Skeleton Key*CR;
+Golden Blossom Rug*F2;
+Legendary Socket Wrench;
+Pigswick Student's Desk*F2;
+Proud Pegasus Statue;
+Short Wysterian Potted Fern;
+Stately Wysterian Wooden Desk;
+Wooden Skeleton Key*F2;
+Wysteria Combat Theme;
+Wysteria Main Theme;
+Wysteria Cupboard;
+Wysteria Theme 2;
+Wysteria Towel Rack;
+
+| cards =
+Angry Snowpig*F3;
+Azoth*F3;
+Ninja Piglets*F3;
+Pigsie*F3;
+
+| reagents =
+Stone Block*F2;
+
+| spellements =
+Angry Snowpig*F2;
+Angry Snowpig @ Angry Snowpig 2*F2;
+Ninja Piglets*F2;
+Ninja Piglets @ Ninja Piglets 2*F2;
+Ninja Piglets @ Ninja Piglets 8;
+Pigsie*F2;
+Pigsie @ Pigsie 2;
+
+| snacks =
+
+| jewels =
+Dazzling Critical Ruby +19;
+Dazzling Defense Hematite +57;
+Krampus Revenant Ruby;
+
+| pins =
+
+| pets =
+Greenman Sapling*CR;
+Ninja Piggle;
+Pegasus Pony;
+
+| seeds =
+
+| mounts =
+Fantastic Unicorn*PERM*CR;
+Mystic Unicorn*PERM*CR;
+
+| spells =
+
+}}

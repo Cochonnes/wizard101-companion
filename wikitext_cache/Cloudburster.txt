@@ -1,0 +1,98 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 1,400
+| crecla = Beastmoon Creature
+| school = Storm
+| startpips = 3
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Avalon Battlegrounds
+| descrip =
+Cloudburster is one of the Boss monsters that can be encountered during the second Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events. They will have 1 random, Rank 2 Elite, Stage 2 Minion and 1 random, Rank 1, Stage 2 Minion present to assist them.
+
+'''Potential Rank 2 Elite Minions:'''
+*{{Link|Creature|Mire Elemental}}
+
+'''Potential Rank 1 Minions:'''
+*{{Link|Creature|Baboon Bandit}}
+
+| speech =
+
+| spellnotes =
+*Casts a 2 Pip, +150 Blade version of Rallying Blade.
+**Any potential secondary effects are unknown.
+*Casts a 125 Damage version of Blistering Bolt.
+*Casts a 125 Damage version of Sheet Lightning
+**Any potential secondary effects are unknown.
+
+| casts =
+Rallying Blade;
+Blistering Bolt;
+Sheet Lightning;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

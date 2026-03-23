@@ -1,0 +1,104 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 9,390
+| crecla = Dino
+| crecla2 = Parasaur
+| school = Life
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+33%;
+
+| incboost =
+30% Storm, Death;
+
+| incresist =
+30% Fire, Myth;
+
+| outhealing =
+-75%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Azteca
+| location = Alto Alto
+| subloc1 = Alto Contralto
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Amplify;
+Regenerate;
+Lifeblade;
+Thorns!;
+Poisoned Pig;
+Nature's Wrath (Tier 2b);
+Goat Monk (Tier 2a);
+Legend Golem (Tier 2b);
+Earth Walker (Tier 2b);
+Centaur (Tier 2b);
+Forest Lord (Tier 2b);
+Spinysaur (Tier 2b);
+
+| quests =
+Fairy Strange Tales;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Weft Yarn @ 65 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

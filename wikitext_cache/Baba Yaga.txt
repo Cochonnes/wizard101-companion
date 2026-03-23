@@ -1,0 +1,735 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 22,800
+| crecla = Witch
+| school = Myth
+| masteries =
+Death;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+94 Any;
+
+| criticalblock =
+116 Any;
+
+| outpierce =
+3%;
+
+| outboost =
+100%;
+
+| incboost =
+15% Storm, Life;
+
+| incresist =
+50% Myth, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Gorgon Statue;
+Minotaur Statue;
+Wyrm Statue;
+
+| petbreed = Baba Yaga's Egg
+| world = Polaris
+| location = Forlorn Tayg
+| subloc1 = Statue Garden
+| lootchest = Baba Yaga's Chest
+| descrip =
+*Baba Yaga will always occupy the last circle duel slot.
+
+| speech =
+:''"Well now, isn't this something? Do my eyes deceive me or has a Wizard from Ravenwood wandered into my garden? This is not a Wizard Garden, though. It's a Statue Garden, and my statues don't take kindly to tourists. Neither do I."''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tardiness will not be tolerated!"'' - If a Wizard enters the duel late, Baba Yaga's Egg will interrupt the duel casting a Myth Spell that polymorphs the tardy Wizard into a {{Link|Polymorph|Polymorph Egg}}.
+**The Wizard will have only one Spell present, {{Link|Spell|Hatch}}, which will unpolymorph the Wizard for 3 Pips.
+**This cheat will still be triggered if a Wizard joins during the planning phase of the first Round.
+*{{Icon|Ward}} ''"Learn that at Ravenwood? How quaint!"'' - If a Wizard casts a positive Ward, such as a Shield, she may cheat-cast {{Link|Spell|Shatter}} at the Wizard.
+{{Icon|Round}} '''At the start of the 3rd Round'''
+*{{Icon|Sun}}{{Icon|Minion}} ''"Let's take the bull by the horns!"''' - Baba Yaga will cast a Sun version of {{Link|Spell|Frost Minotaur}} on a random Wizard, which deals '''50 + 445''' Death Damage.  The Minotaur Statue Minion is summoned to the first spot (Dagger).
+{{Icon|Round}}'''At the start of the 6th Round'''
+*{{Icon|Sun}}{{Icon|Minion}} ''"Fall before my gorgon's gaze!"'' - Baba Yaga will cast a Sun version of {{Link|Spell|Medusa}} resembling Gorgon Statue on a random Wizard, which deals '''770''' Storm Damage and Stuns for 2 Rounds.  The Gorgon Statue Minion is summoned to the second spot (Key).
+{{Icon|Round}} '''At the start of the 10th Round'''
+*{{Icon|Sun}}{{Icon|Minion}} ''"My wyrm will cool things down!"'' - Baba Yaga will cast a Sun version of {{Link|Spell|Catalan}} resembling Wyrm Statue which deals '''700''' Ice Damage to and '''-25%''' Accuracy to all Wizards.  The Wyrm Statue Minion is summoned to the third spot (Gem).
+
+| spellnotes =
+*Casts an all-enemies version of Curse (95%).
+*Casts Earthquake (638) which removes only three Charms.
+*The Minion Only Spells in her Deck can be cast on herself.
+*The Pet, Baba Yaga's Egg, can randomly cast Blinding Light (85%) during the duel.
+
+| casts =
+Dark Fiend;
+Shield Summon;
+Shield Summons;
+Mass Infection;
+Virulent Plague;
+Buff Summon;
+Tragedyblade (+35%);
+Tragedyblade (+45%);
+Buff Summons;
+Dark Pact (+30%);
+Curse (95%);
+Blinding Light (85%);
+Natural Attack (Baba Yaga);
+Legendary Treant (432);
+Earthquake (638);
+Deer Knight;
+
+| quests =
+The Statue Garden;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge and has not unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge, the following drops will be available:
+*9 Spellements will drop each time from '''any''' School for their respective rank 8, 9, 10, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+754 - 1,679;
+
+| hats =
+Arcanum Exile Cyclone Hat*F2*WMV;
+Arcanum Exile Fiery Hat;
+Arcanum Exile Frost Hat;
+Arcanum Exile Muse Hat;
+Arcanum Exile Noble Hat;
+Arcanum Exile Scourge Hat;
+Arcanum Exile Spirit Hat;
+Arcanum Exile Warlock Hat*F2*WMV;
+Borealis Cowl of Schisms*F2*WMV;
+Borealis Cowl of Vision*F2*WMV;
+Borealis Helm of Resolution*F2*WMV;
+Borealis Helm of Windswirls*F3*WMV;
+Borealis Icecrystal Helm*F2*WMV;
+Cowl of the Borealis Majoris;
+Cowl of the Titan Warrior;
+Evoker's Brim of Acuity*F2*WMV;
+Evoker's Brim of Squalls*F2*WMV;
+Evoker's Ember Brim;
+Evoker's Forlorn Brim*F2;
+Evoker's Gallant Brim;
+Evoker's Gelid Brim;
+Evoker's Stalwart Brim;
+Majoris Brim of Umbrage*F2*WMV;
+Majoris Cover of Impulse*F2*WMV;
+Majoris Cowl of Insight;
+Majoris Helm of Cohesion*F2*WMV;
+Majoris Helm of Diligence;
+Majoris Helm of Fortitude*F3*WMV;
+Polarian Borealis Cowl;
+Polarian Evoker's Brim;
+Shimmering Majoris Cowl;
+The Enchanter*CR;
+The Goat Horns*CR;
+The Ice Horns*CR;
+The Kroktop*CR;
+The Manticore*CR;
+The Stalwart Guardian*CR*F2;
+The Stardust*CR;
+The Warlock*CR;
+Timeless Borealis Helm*F2*WMV;
+Titan Warrior Brim of Waves*F3*WMV;
+Titan Warrior Cowl of Bite*F2;
+Titan Warrior Cowl of Mettle*F3*WMV;
+Titan Warrior Helm of Logic;
+Titan Warrior Helm of Torpor*F2*WMV;
+Titan Warrior Honesty Cowl;
+Titan Warrior Skyfire Helm*F2*WMV;
+Volatile Borealis Brim*F2*WMV;
+
+| robes =
+Arcanum Exile Cyclone Cloak;
+Arcanum Exile Fiery Cloak;
+Arcanum Exile Frost Cloak;
+Arcanum Exile Muse Cloak;
+Arcanum Exile Noble Cloak;
+Arcanum Exile Scourge Cloak;
+Arcanum Exile Spirit Cloak;
+Arcanum Exile Warlock Cloak*F2*WMV;
+Evoker's Cloak of Squalls;
+Evoker's Forlorn Robes;
+Evoker's Gallant Drape;
+Evoker's Garb of Embers;
+Evoker's Gelid Robes;
+Evoker's Stalwart Cloak;
+Evoker's Wrap of Acuity*F3*WMV;
+Polarian Evoker's Garment;
+
+| boots =
+Arcanum Exile Cyclone Clogs*F2*WMV;
+Arcanum Exile Fiery Clogs;
+Arcanum Exile Frost Clogs;
+Arcanum Exile Muse Clogs;
+Arcanum Exile Noble Clogs;
+Arcanum Exile Scourge Clogs;
+Arcanum Exile Spirit Clogs;
+Arcanum Exile Warlock Clogs*F2*WMV;
+Evoker's Boots of Squalls*F2*WMV;
+Evoker's Ember Walkers;
+Evoker's Forlorn Stalkers;
+Evoker's Gallant Footwear;
+Evoker's Gelid Striders*F2*WMV;
+Evoker's Runners of Acuity;
+Evoker's Stalwart Footgear;
+Polarian Evoker's Boots;
+
+| athames =
+Ancient Dirk of Horizon Hold;
+Arcanum Exile Claw of Strife*F2;
+Arcanum Exile Dagger of Vim*F2*WMV;
+Arcanum Exile Dirk of Ideas*F2*WMV;
+Arcanum Exile Knife of Gales*F2*WMV;
+Arcanum Exile Scorched Blade*F2*WMV;
+Arcanum Exile Snowflake Kris;
+Auroracle's Point of Energy*F2*WMV;
+Baba Yaga's Blade of Flames;
+Baba Yaga's Edge of Reality;
+Baba Yaga's Edge of Veracity;
+Baba Yaga's Gusty Kris*F2*WMV;
+Baba Yaga's Iceblight Knife*F2;
+Baba Yaga's Razor of Silence;
+Baba Yaga's Sliver of Hope;
+Bleaks Cutter of Despair;
+Bleaks Cutter of Pyres;
+Bleaks Dagger of Frost;
+Bleaks Dagger of Vigor;
+Bleaks Dirk of Mischief*F3*WMV;
+Bleaks Knife of Snowstorms*F2*WMV;
+Cpt. Winters' Honed Icicle;
+Dagger of the Veiled Vale*F3*WMV;
+Gallant Kris of Horizon Hold;
+Horizon Hold Cyclonic Edge*F2*WMV;
+Horizon Hold Dirk of Verdure*F2*WMV;
+Horizon Hold Knife of Gloom*F2*WMV;
+Horizon Hold Kris of Cold;
+Horizon Hold Searing Spike;
+Ivan's Blade of Gales*F5*WMV;
+Noble Bleaks Lancet;
+Rasputin's Dirk of Duplicity;
+Rasputin's Edge of Confusion*F2*WMV;
+Razor of the Arcanum Exile*F2*WMV;
+Shortblade of the Bleaks;
+Steady Arcanum Exile Dagger;
+Tajniak's Dagger of Efficacy*F2*WMV;
+Vigilant's Searing Blade;
+Vissarovich's Kris of Justice*F2*WMV;
+Ygor's Dagger of Demise;
+
+| amulets =
+Amulet of the Veiled Vale*F2*WMV;
+Baba Yaga's Ampul of Misery;
+Baba Yaga's Brimstone Collar;
+Baba Yaga's Chain of Symmetry;
+Baba Yaga's Charm of Dreams;
+Baba Yaga's Hailstone Charm;
+Baba Yaga's Ice Crystal Torc;
+Baba Yaga's Torc of Daring;
+Bleaks Ampul of Pyres;
+Bleaks Amulet of Frost;
+Bleaks Choker of Despair*F2*WMV;
+Bleaks Medallion of Vigor;
+Bleaks Pendant of Mischief;
+Bleaks Torc of Snowstorms*F2*WMV;
+Memento of the Bleaks;
+Noble Strand of the Bleaks;
+
+| rings =
+Arbiter Proctis' Signet*F2*WMV;
+Arcanum Exile Band of Strife;
+Arcanum Exile Burning Band;
+Arcanum Exile Galeforce Ring*F2*WMV;
+Arcanum Exile Loop of Ideas;
+Arcanum Exile Ringlet of Vim*F4*WMV;
+Arcanum Exile Signet Ring*F2*WMV;
+Arcanum Exile Snowflake Seal*F2*WMV;
+Baba Yaga's Hailstone Seal;
+Baba Yaga's Iceblight Ring;
+Baba Yaga's Loop of Flame;
+Baba Yaga's Loop of Symmetry;
+Baba Yaga's Misery Stone;
+Baba Yaga's Seal of Daring*F2*WMV;
+Baba Yaga's Signet of Dreams;
+Bleaks Band of Snowstorms;
+Bleaks Circle of Pyres*F2*WMV;
+Bleaks Loop of Vigor;
+Bleaks Seal of Despair;
+Bleaks Signet of Mischief;
+Bullhemoth's Permafrost Loop;
+Charmed Ring of the Bleaks;
+Detolli's Destruction Ring*F2*WMV;
+Flame-Forged Iron Paw Band;
+Graustark's Loop of Recovery*F2*WMV;
+Gulag Guard's Stout Band*F2*WMV;
+Gusting Ring of the Peaks*F3*WMV;
+Loranzo's Unbreakable Loop*F2*WMV;
+Lord Groff's Band of Havoc;
+Noble Band of the Bleaks;
+Northern Ring of Ruses*F2*WMV;
+Perun's Seal of Edification*F3*WMV;
+Polarian Glacier Loop*F3*WMV;
+Ring of Shmo's Downfall*F2*WMV;
+Ring of the Frosted Bleaks;
+Ring of the Northern Sea;
+Ring of the Veiled Vale*F2*WMV;
+Snow Treant Band of Zesr*F2*WMV;
+Snow Treant Ring of Dry Rot;
+Steady Arcanum Exile Signet*F2*WMV;
+
+| wands =
+Arcanum Exile Galeforce Wand;
+Arcanum Exile Stave of Snow;
+Arcanum Exile Wand of Fever;
+Arcanum Exile Wand of Ideas;
+Arcanum Exile Wand of Strife;
+Arcanum Exile Wand of Youth;
+Kossack Cutlass of Redress;
+Kossack Cutlass of Tempests*F2*WMV;
+Kossack Saber of Chills;
+Kossack Saber of Purpose*F2*WMV;
+Kossack Sword of Counsel;
+Kossack Sword of Travail*F2;
+Polarian Kossack Saber;
+Radiant Kossack Sword;
+Steady Arcanum Exile Wand;
+Titan Warrior Kernel of Logic;
+Wand of the Arcanum Exile*F2*WMV;
+
+| decks =
+Kossack Array of Travail*F2*WMV;
+Kossack Hand of Tempests;
+Kossack Parcel of Redress*F2*WMV;
+Kossack Set of Radiance;
+Kossack Sheaf of Counsel;
+Kossack Spread of Chills*F2*WMV;
+Kossack Stack of Purpose*F2*WMV;
+Patriote Deck of Victory*F2*WMV;
+Patriote Deep Freeze Set;
+Patriote Hand of Revelation;
+Patriote Hand of Revolt;
+Patriote Set of Valiance;
+Patriote Sheaf of Prestige;
+Patriote Thunderclap Cards;
+Polarian Kossack's Hand;
+Scalding Patriote Deck;
+
+| items =
+Arcanum Theme*F2*WMV;
+Large Keeper Aquarium*F2*WMV;
+Large Small Fry Aquarium;
+Large Whopper Aquarium;
+Medium Enchanted Planter*CR*F2*WMV;
+Medium Normal Planter*CR*F2*WMV;
+Polaris Baba Yaga Theme*F2*WMV;
+Polaris Frozen Combat Theme*F2;
+Polaris Frozen Forest Theme*F2;
+Polaris Gulag Combat Theme*F2;
+Polaris Gulag Theme*F3;
+Polaris Ice Block Theme*F2;
+Polaris Mine Combat Theme*F2;
+Polaris Mine Theme;
+Polaris Opera Theme*F3*WMV;
+Polaris Rasputin Combat Theme*F2;
+Regular Keeper Aquarium*F2*WMV;
+Regular Small Fry Aquarium;
+Regular Whopper Aquarium*F2*WMV;
+Small Enchanted Planter*CR;
+Small Normal Planter*CR*F2*WMV;
+Tall Keeper Aquarium;
+Tall Small Fry Aquarium;
+Tall Whopper Aquarium;
+Walruskberg Combat Theme*F4*WMV;
+Walruskberg Liberated Theme*F3;
+Walruskberg Theme*F4*WMV;
+
+| cards =
+Age of Reckoning;
+Ashen Bones*F4*WMV;
+Astraphobia*F4*WMV;
+Combustion*F2*WMV;
+Counterforce*F2*WMV;
+Frostfang;
+Katabatic Wind;
+Namaste*F2*WMV;
+Nested Fury*F2*WMV;
+Raging Bull*F2*WMV;
+Rusalka's Wrath;
+Saga of Heroes*F3*WMV;
+Snowball Barrage*F4*WMV;
+Winged Sorrow*F2*WMV;
+Witch's House Call*F2*WMV;
+
+| reagents =
+Aether*F6*WMV;
+Agave Leaves*F2*WMV;
+Agave Nectar*F2*WMV;
+Amber*F5*WMV;
+Amber Dust*F2*WMV;
+Aquamarine*F3*WMV;
+Astral Shard*F4*WMV;
+Braided Vine*F3*WMV;
+Draconium*F4*WMV;
+Fire Blossom*F3*WMV;
+Golden Pearl*F12*WMV;
+Merle's Whisker*F3*WMV;
+Mithril*F3*WMV;
+Orichalcum*F2*WMV;
+Palladium*F2*WMV;
+Scales*F4*WMV;
+Silver*F4*WMV;
+Stardust*F3*WMV;
+Steel*F5*WMV;
+Sunstone*F5*WMV;
+Titanium*F3*WMV;
+Tungsten*F5*WMV;
+Turquoise*F8*WMV;
+Vine*F7*WMV;
+
+| spellements =
+Gnomes!*BR;
+King Artorius (Life)*BR;
+Ra*BR;
+Rebirth*BR;
+Sabertooth*BR*F2;
+Skeletal Dragon*BR*F2;
+Snowball Barrage*BR;
+Spinysaur*BR*F2;
+Storm Owl*BR;
+Sun Serpent*BR*F2;
+
+| snacks =
+Beast Wellington*F2*WMV;
+Chalupacabra*F4*WMV;
+Eye Candy*F2*WMV;
+Hot Cross Buns*F3*WMV;
+Mustachios*F4*WMV;
+Penne Dreadful*F2*WMV;
+Polaris Fries*F2*WMV;
+Satyr Chow*F2*WMV;
+Ships 'n' Queso*F3*WMV;
+Veggie Juice*F2*WMV;
+
+| jewels =
+Accurate Talent Opal;
+Ally Dragonblade Citrine;
+Ally Dream Shield Onyx;
+Ally Elemental Shield Citrine;
+Ally Ether Shield Peridot;
+Ally Glacial Shield Ruby;
+Ally Legend Shield Jade;
+Ally Precision Citrine;
+Ally Spirit Shield Citrine;
+Ally Stun Block Sapphire;
+Ally Thermic Shield Amethyst;
+Ally Tower Shield Sapphire;
+Ally Volcanic Shield Sapphire;
+Amplify Talent Opal;
+Animate Skeleton Onyx;
+Armor Breaker Opal;
+Armor Piercer Opal;
+Aura Crush Citrine;
+Bad Snowman Sapphire;
+Balance Assailant Citrine;
+Balance Striker Citrine;
+Balance-Boon Citrine;
+Balance-Dealer Citrine;
+Balance-Eye Citrine;
+Balance-Giver Citrine;
+Balance-It Citrine;
+Balance-Off Citrine;
+Balance-Sniper Citrine;
+Balance-Ward Citrine;
+Balanceblade Talent Citrine;
+Berserk Talent Opal;
+Big Sparky Amethyst;
+Black Widow Onyx;
+Blade Flurry Amethyst;
+Blade of Fire Ruby;
+Blade of Ice Sapphire;
+Blade of Life Jade;
+Blazing Oak Ruby;
+Blizzard Lizard Sapphire;
+Boss Toad Peridot;
+Brown Recluse Jade;
+Buff Minion Talent Peridot;
+Bullheaded Peridot;
+Button Tom Peridot;
+Cat Bandit Opal;
+Clock Spider Citrine;
+Colossus Opal;
+Conviction Talent Opal;
+Critical Hitter Opal;
+Critical Striker Opal;
+Crystallize Sapphire;
+Curse Giver Onyx;
+Death Assailant Onyx;
+Death Striker Onyx;
+Death-Away Onyx;
+Death-Boon Onyx;
+Death-Dealer Onyx;
+Death-Eye Onyx;
+Death-Giver Onyx;
+Death-Proof Onyx;
+Death-Shot Onyx;
+Death-Sniper Onyx;
+Death-Ward Onyx;
+Disarmament Amethyst;
+Draconian Opal;
+Elf on Fire Ruby;
+Empowerment Talent Opal;
+Feeling Weak Citrine;
+Feinting Spell Onyx;
+Fire Assailant Ruby;
+Fire Elemental Opal;
+Fire Striker Ruby;
+Fire-Away Ruby;
+Fire-Boon Ruby;
+Fire-Dealer Ruby;
+Fire-Eye Ruby;
+Fire-Giver Ruby;
+Fire-Proof Ruby;
+Fire-Shot Ruby;
+Fire-Sniper Ruby;
+Fire-Ward Ruby;
+Fortify Talent Opal;
+Gargantuan Talent Opal;
+Get Sunbird Ruby;
+Giant Talent Opal;
+Go Humongo Peridot;
+Gobbler Opal;
+Greensleeves Jade;
+Healer Opal;
+Healthy Opal;
+Heart o'Pixie Jade;
+Hexster Citrine;
+Ice Assailant Sapphire;
+Ice Striker Sapphire;
+Ice-Away Sapphire;
+Ice-Boon Sapphire;
+Ice-Dealer Sapphire*WMV;
+Ice-Eye Sapphire;
+Ice-Giver Sapphire;
+Ice-Proof Sapphire;
+Ice-Shot Sapphire;
+Ice-Sniper Sapphire;
+Ice-Ward Sapphire;
+Infallible Talent Opal;
+Infector Onyx;
+Keen Eyes Talent Opal;
+Life Assailant Jade;
+Life Striker Jade;
+Life-Away Jade;
+Life-Boon Jade;
+Life-Bringer Jade;
+Life-Eye Jade;
+Life-Giver Jade;
+Life-Proof Jade;
+Life-Shot Jade;
+Life-Sniper Jade;
+Life-Ward Jade;
+Lively Opal;
+Lustrous Accurate Amethyst +11%;
+Lustrous Accurate Citrine +11%;
+Lustrous Accurate Hematite +11%;
+Lustrous Accurate Jade +11%;
+Lustrous Accurate Onyx +11%;
+Lustrous Accurate Peridot +11%;
+Lustrous Accurate Ruby +11%;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Amethyst +14;
+Lustrous Blocking Citrine +14*WMV;
+Lustrous Blocking Hematite +14;
+Lustrous Blocking Jade +14;
+Lustrous Blocking Onyx +14;
+Lustrous Blocking Peridot +14;
+Lustrous Blocking Ruby +14;
+Lustrous Blocking Sapphire +14;
+Lustrous Critical Amethyst +14;
+Lustrous Critical Citrine +14;
+Lustrous Critical Hematite +14;
+Lustrous Critical Jade +14;
+Lustrous Critical Onyx +14;
+Lustrous Critical Opal +7;
+Lustrous Critical Ruby +14;
+Lustrous Critical Sapphire +14;
+Lustrous Damage Amethyst +24;
+Lustrous Damage Citrine +24;
+Lustrous Damage Hematite +48;
+Lustrous Damage Jade +24;
+Lustrous Damage Onyx +24;
+Lustrous Damage Opal +12;
+Lustrous Damage Peridot +24;
+Lustrous Damage Ruby +24;
+Lustrous Damage Sapphire +24;
+Lustrous Defense Amethyst +47;
+Lustrous Defense Amethyst +48;
+Lustrous Defense Citrine +47;
+Lustrous Defense Citrine +48;
+Lustrous Defense Hematite +47;
+Lustrous Defense Jade +47;
+Lustrous Defense Jade +48;
+Lustrous Defense Onyx +47;
+Lustrous Defense Onyx +48;
+Lustrous Defense Peridot +47;
+Lustrous Defense Peridot +48;
+Lustrous Defense Ruby +47;
+Lustrous Defense Ruby +48;
+Lustrous Defense Sapphire +47;
+Lustrous Defense Sapphire +48;
+Lustrous PIP Hematite +1;
+Lustrous PIP Opal +10%;
+Mander Opal;
+Medic Opal;
+Mend Minion Talent Peridot;
+Mend Talent Opal;
+Monstrous Talent Opal;
+Morganthe's Angst Amethyst*F2*WMV;
+Morganthe's Ardor Jade;
+Morganthe's Deceit Peridot;
+Morganthe's Gaze Sapphire;
+Morganthe's Requiem Onyx;
+Morganthe's Venom Ruby;
+Morganthe's Will Citrine;
+Mulligan's Shuffle Citrine;
+Myth Assailant Peridot;
+Myth Striker Peridot;
+Myth-Away Peridot;
+Myth-Boon Peridot;
+Myth-Dealer Peridot;
+Myth-Eye Peridot;
+Myth-Giver Peridot;
+Myth-Proof Peridot;
+Myth-Shot Peridot;
+Myth-Sniper Peridot;
+Myth-Ward Peridot;
+Ninja Pig Opal;
+No Pain, No Gain Onyx;
+Pain-Bringer Opal;
+Pain-Giver Opal;
+Piercemonger Peridot;
+Pip Boost Opal;
+Pip O'Plenty Opal;
+Plaguebringer Onyx;
+Power Player Citrine;
+Power-Taker Ruby;
+Primordial Opal;
+Pyrosaurus Rex Ruby;
+Rage of Winter Sapphire;
+Sap Health Talent Citrine;
+Screen Ruby;
+Sharp-Eye Opal;
+Sharp-Shot Opal;
+Sniper Talent Opal;
+SnowBorn Sapphire;
+Spartan Jade;
+Spell-Defying Opal;
+Spell-Proof Opal;
+Spirit Armor Jade;
+Sprite Time Jade;
+Steal Health Talent Onyx;
+Storm Assailant Amethyst;
+Storm Elemental Opal;
+Storm Striker Amethyst;
+Storm-Away Amethyst;
+Storm-Boon Amethyst;
+Storm-Dealer Amethyst;
+Storm-Eye Amethyst;
+Storm-Giver Amethyst;
+Storm-Proof Amethyst;
+Storm-Shot Amethyst;
+Storm-Sniper Amethyst;
+Storm-Tooth Amethyst;
+Storm-Ward Amethyst;
+Stormclaw Amethyst;
+Strong Talent Opal;
+Stun Recalcitrant Opal;
+Stun Resistant Opal;
+The Deer Knight Rises Onyx;
+Thunder Lizard Amethyst;
+Time Skip Sapphire;
+Tower Shield Sapphire;
+Treant Opal;
+Unbalancer Citrine;
+Unstoppable Talent Opal;
+Vengeance Talent Opal;
+
+| pins =
+
+| pets =
+Arctic Ninja Pig*CR*F2*WMV;
+Baba Yaga's Egg*F6*WMV;
+Glacier Dragon*F3*WMV;
+Ice Bird;
+Intrepid Seal Pup;
+Mountain Yeti*CR*F2*WMV;
+Nodori Winged Ram*CR;
+Polar Bear Cub*CR*F2*WMV;
+Snowball*CR;
+White Winter Owl;
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Angel Oak*F4*WMV;
+Blue Huckleberries;
+Boom Shroom*F2*WMV;
+Burning Snap Dragon*F5*WMV;
+Cornbread Fruit Bush*F3*WMV;
+Dandelion*F2*WMV;
+Deadly Fly Trap*F2*WMV;
+Deadly Helephant Ears*CR*F4*WMV;
+Deadly Ninja Fig*F2*WMV;
+Evil Snow Peas*F3*WMV;
+Face Palm*F2*WMV;
+Fiery Boom Shroom*F2*WMV;
+Fish on a Vine;
+Frozen Fly Trap*F3*WMV;
+Goose Tree*F2*WMV;
+Green Snow Apples*F4*WMV;
+Helephant Ears*F2*WMV;
+King Parsley*CR*F4*WMV;
+Maelstrom Snap Dragon*F2*WMV;
+Maltese Tiger Lily*F3*WMV;
+Moon Flower*F2;
+Ninja Fig*CR*F2*WMV;
+Orange Dandelion*F2*WMV;
+Pink Dandelion*CR*F3*WMV;
+Pink Huckleberries;
+Purple Snow Apples*F3*WMV;
+Queen Crape Myrtle*F2*WMV;
+Red Huckleberries*F2*WMV;
+Silver Trumpet Vine*CR;
+Snap Dragon*F3*WMV;
+Snow Apples*F2*WMV;
+Tiger Lily (Seed)*F2*WMV;
+Trumpet Vine*F2*WMV;
+Ultra Alligator Pear Tree;
+Ultra Boom Shroom;
+Ultra Dandelion;
+Ultra Fly Trap;
+Ultra Helephant Ears;
+Ultra Huckleberries*F2*WMV;
+Ultra King Parsley*F2*WMV;
+Ultra Ninja Fig;
+Ultra Snap Dragon*F2*WMV;
+Ultra Snow Apples*F3*WMV;
+Ultra Tiger Lily;
+Ultra Trumpet Vine;
+Venus Fly Trap*F2*WMV;
+White Tiger Lily*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

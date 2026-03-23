@@ -1,0 +1,375 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 999
+| heal = 9,040
+| crecla = Wizard
+| school = Star
+| school2 = Shadow
+| cheats = Yes
+| shadowslots = 7
+| startpips = 5
+| powerpips = Yes
+| critical =
+173 Any;
+
+| criticalblock =
+198 Any;
+
+| outpierce =
+22%;
+
+| outboost =
+100%;
+
+| incboost =
+5% Fire, Myth, Life;
+75% Balance;
+
+| incresist =
+70% Ice, Storm, Death;
+
+| outhealing =
+
+| inchealing =
+45%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Empyrea
+| location = Nexus
+| subloc1 = Dream Shrine
+| descrip =
+Wizards fight this menacing dream-version of {{Link|NPC|Merle Ambrose}} during the Quest, ''The Dreaming Begins''.
+*The Headmaster lacks Shadow Mastery.
+
+| speech =
+:''"Ah, the great Wizard deigns to walk among us! You were too good for your classwork too, weren't you? Did the high and mighty Arcanum send you? It's time to take you down a peg... or just take you OUT!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tardy, Tardy!"'' - If a Wizard is late, The Headmaster will cast a Star version of '''Insane Bolt''' taking 75% of the target's max Health.
+
+'''Interrupt Cycles''' The Headmaster uses two different cheat cycles: a "Primary Interrupt Cycle" and a "Secondary Interrupt Cycle." The primary cycle occurs only once, and the secondary cycle can occur at any point after the first ends.
+
+{{Icon|Round}} '''Primary Interrupt Cycle''':
+*During this cycle, the Headmaster will not attack the Wizard team.
+*At the start of the duel, the following cheats occur:
+**{{Icon|Shield}} Boss will interrupt-cast a Star Spell giving him '''-999%''' Shields for each of the seven Schools of Magic.
+***If a Wizard joins the duel after the health bars show after someone has joined, this cheat triggers twice on the first Round.
+***Casting a Damage spell on his Shields will result in him casting a single '''-999%''' Shield for the resulting School Shield that was broken.
+***{{Link|Spell|Pierce}} and {{Link|Spell|Homework}} can be used to remove the Shields.
+****The single Balance Shield has the appearance of a Tower Shield.
+***''"You Disappoint Me"'' - If a Wizard casts {{Link|Spell|Shatter}}, Boss will recast a Star Spell giving him '''-999%''' Shields for each of the seven Schools of Magic.
+***''"You Disappoint Me"'' - If a Wizard casts {{Link|Spell|Steal Ward}}, Boss will cast {{Link|Spell|Steal Ward (Star, -1)}} to steal it back.
+***''"You Disappoint Me"'' - If a Wizard casts {{Link|Spell|Double Steal Ward}}, Boss will cast a Star version of Double Steal Ward to steal them back.
+***If a Wizard casts {{Link|Spell|Empower}}, Boss will cast a Star Spell giving him '''-999%''' Death Shield.
+**An invisible Polymorph will be cast on all Wizards giving them different Spells for the cheats that follow.
+**All Wizards' Health will be set at a fraction of 10,000, proportionate to the Health they had entering the duel.
+**Wizards will not be able to use their own Spells until the end of this cycle.
+**At the end of this cycle, the invisible Polymorph will end, and each Wizard's Health will be set back to their own, proportionate to the Health they had out of 10,000.
+**This cycle only occurs once at the beginning of the duel.
+*Treasure Cards that have been drawn during the Polymorph Stages cannot be discarded.
+
+{{Icon|Polymorph}} '''Polymorph Stages'''
+*'''First Polymorph Stage:'''
+**''"Roll Call! How Many Students in Attendance?"'' - Each Wizard must select the total number of Wizards in the duel.
+***'''Polymorph Spells''' given during this stage include. Cards are in a randomized order.
+***{{Link|Spell|Attendance (1)}}, {{Link|Spell|Attendance (2)}}, {{Link|Spell|Attendance (3)}} & {{Link|Spell|Attendance (4)}}
+****Draw will give {{Link|TreasureCard|Fake Attendance}}
+**''"You Disappoint Me"'' - If a Wizard passes, Boss will cast a Star version of '''{{Link|Spell|Crow}}''' removing 10% max Health.
+**''"Wrong!"'' - If a Wizard chooses incorrectly, Boss will cast a Star version of '''Crow''' removing 10% max Health.
+**''"No Cheating!"'' - If a Wizard casts '''Fake Attendance''', Boss casts a Star version of '''Immolate''' removing 35% max Health.
+
+*'''Second Polymorph Stage:'''
+**''"Hand In Your Homework!"'' - This turn can be used for Shield breaking.
+***'''Polymorph Spells''' given during this stage include.
+***{{Link|Spell|Homework (Balance)}}, {{Link|Spell|Homework (Death)}}, {{Link|Spell|Homework (Fire)}}, {{Link|Spell|Homework (Ice)}}, {{Link|Spell|Homework (Life)}}, {{Link|Spell|Homework (Myth)}} & {{Link|Spell|Homework (Storm)}}
+****Discarding and using Draw spell will give {{Link|TreasureCard|Copy}}.
+***''"Gold Star"'' - Boss will say this if a Wizard casts any Spell at him.
+**''"No Cheating!"'' - If a Wizard uses '''Copy''', Boss casts a Star version of '''Frostbite''' removing 15% max Health.
+**''"You Disappoint Me"'' - If the second Wizard doesn't turn in Homework he'll cast a Star version of '''Insane Bolt''' removing 20% max Health on the Wizard. This includes if they casted Copy.
+
+*'''Third Polymorph Stage:'''
+**''"The Lecture is About to Begin"'' - Each Wizard may select the buff/debuff combination they wish to use on themselves.
+***'''Polymorph Spells''' given during this stage include.
+***{{Link|Spell|Listen}}, {{Link|Spell|Participate}}, {{Link|Spell|Take Notes}}, {{Link|Spell|Snack Break}} & {{Link|Spell|Ask Questions}}
+****Draw will give {{Link|TreasureCard|Doze Off}}.
+**Casting {{Link|Spell|Snack Break}} will cause the Wizard to fail the next Pop Quiz.
+***A Pet-cast {{Link|Spell|Conviction}} before this turn may help the Wizard avoid the Stun.
+**''"Hey, Wake Up!"'' - If a Wizard passes, Boss will cast a Star version of '''Cyclops''' removing 30% max Health.
+**''"Cheaters never prosper!"''' - If the Wizard casts '''Doze Off''', Boss will cast a Star version of '''Leprechaun''' removing 25% max Health, and a Star version of '''Cyclops''' removing 30% Health from the Wizard.
+***If two Wizards both cast Doze Off, this cheat doesn't trigger.
+
+*'''Fourth Polymorph Stage:'''
+**''"Pop Quiz! HA HA HA!"'' - Boss will cast a School Aura on each Wizard and ask which of the School Spells is opposite.
+***''"Name the opposing school"''
+**''"Death!!!"'' ''"Fire!!!"'' ''"Ice!!!"'' ''"Life!!!"'' ''"Myth!!!"'' ''"Storm!!!"'' - are the Aura Effects that appear when the Aura is cast on a Wizard.
+***'''Polymorph Spells''' given during this stage include.
+****{{Link|Spell|Death School}}, {{Link|Spell|Fire School}}, {{Link|Spell|Ice School}}, {{Link|Spell|Life School}}, {{Link|Spell|Myth School}} & {{Link|Spell|Storm School}}
+*****Draw will give {{Link|TreasureCard|Cheat}}
+***''"Let's See How You Did..."'' - Boss will cast a Star version of '''Supernova''' removing 40% max Health on the Wizards who fail to answer correctly.
+***''"Correct! Surprising..."'' - If a Wizard answers correctly, the Aura will be dispelled without Damage.
+***''"Hmm...Correct!"''' - Boss will use a version of Supernova removing the Aura without Damage.
+*''"Cheaters never prosper!"''' - If a Wizard casts '''Cheat''', Boss will cast '''{{Link|Spell|Impede}}''' on the Wizard.
+
+{{Icon|Round}} '''Secondary Interrupt Cycle''': ''"Hand In Your Homework!"''
+*Occasionally, Boss will interrupt with two-Round Homework cycles from the '''Second Polymorph Stage'''.
+*During this cycle, the Headmaster has normal cards, and '''will''' attack the Wizard team.
+*Boss will cast an invisible Polymorph that ends at the end of the second Round.
+*These turns can be used for further Shield breaking.
+*''"No Cheating!"'' - If a Wizard uses '''Copy''', Boss casts a Star version of '''Frostbite''' removing 15% max Health.
+*''"Gold Star"'' - Boss will say this if a Wizard casts any Spell at him.
+*Shadow Creature and Shadow Self spells will be removed when the Polymorph is placed on the Wizards, causing the Backlash to deal '''4,000''' Damage. 
+
+| spellnotes =
+*Casts a protected Weakness
+*Casts a protected Balanceblade
+*Casts an all-enemies version of Hex
+
+'''Natural Attack:'''
+*Deals 420 Star Damage for 4 Pips maximum.
+
+| casts =
+Dark Shepherd;
+Brace;
+Vengeance (6 Rounds);
+Quicken;
+Impede;
+Weakness;
+Balanceblade;
+Hex;
+Natural Attack (Star 105-210-315);
+Blizzard (Star);
+Wraith (Star);
+Colossus (Star);
+Dr. Von's Monster (Star);
+Storm Hound (Star);
+Qismah's Curse (Shadow);
+Glowbug Squall (Shadow, 1,120);
+
+| quests =
+The Dreaming Begins;
+Into the Great Beyond;
+
+| gold =
+0;
+
+| hats =
+
+| robes =
+Blazing Zanadu Armor;
+Crackling Zanadu Armor;
+Freezing Zanadu Armor;
+Grim Zanadu Armor;
+Hopeful Zanadu Armor;
+Illuminated Zanadu Armor;
+Verdant Zanadu Armor;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Hopeful Zanadu Lance*F2;
+
+| decks =
+Blazing Zanadu Deck;
+Crackling Zanadu Deck;
+Freezing Zanadu Deck;
+Grim Zanadu Deck;
+Hopeful Zanadu Deck;
+Illuminated Zanadu Deck*F2;
+Verdant Zanadu Deck;
+
+| items =
+Aero Dwarf Blue Vase;
+Aero Dwarf Chair*F2*WMV;
+Empyrea Husk Combat;
+Empyrea Husk Storm Combat*F2;
+Empyrea Husk Theme;
+Kalamar Chair;
+Kalamar Side Table;
+Nimbari Sword Rack*F2;
+Ornate Nimbari Vase*F2;
+Tall Kalamar Vase;
+Wide Kalamar Vase;
+
+| cards =
+Bonetree Lord;
+Boreas Ifrit;
+Colossafrog*F2;
+Cyclops*F2;
+Fable Lord*F2;
+Humongofrog;
+Kraken;
+Lord of Blazes;
+Lord of the Squall*F5*WMV;
+Mass Death Prism;
+Mega Soothe*F3;
+Mega Subdue*F2;
+Mutate Bird (Ice);
+Mutate Colossus (Storm);
+Mutate Monster (Ice);
+Mutate Phoenix (Ice);
+Mutate Phoenix (Storm)*F2;
+Mutate Serpent (Fire);
+Mutate Snake (Ice);
+Mutate Wyvern (Storm);
+Oni No Jade*F3;
+Oni No Plague;
+Sirocco Djinni;
+
+| reagents =
+Aether*F3;
+Agave Leaves;
+Agave Nectar*F2;
+Amber;
+Amber Dust*F3;
+Astral Shard;
+Aquamarine;
+Braided Vine;
+Draconium*F2*WMV;
+Fire Blossom*F3;
+Flying Squid Ink*F3*WMV;
+Golden Pearl*F3*WMV;
+Merle's Whisker*F2;
+Mithril*F2*WMV;
+Orichalcum;
+Scales*F3;
+Silver*F2*WMV;
+Stardust*F2;
+Steel*F2*WMV;
+Sunstone*F2*WMV;
+Titanium;
+Tungsten*F2;
+Turmeric;
+Turquoise*F2;
+Vine;
+
+| spellements =
+
+| snacks =
+Athame Pop;
+Berry Poundcake;
+Boiled Spider Legs*F2;
+Cow Pie;
+Dastardly Radish*F2;
+Fetid Legumes;
+Gator Tots*F3*WMV;
+Golden Squash*F2*WMV;
+Gummy Humongofrog;
+Hero Sandwich;
+Hive Rinds;
+Killer Tomato*F3;
+Lollipop;
+Meat Soup*F2*WMV;
+Minotarts;
+Oyster Shooter;
+Pineapple Spears;
+Pyramints;
+Radioactive Pizza;
+Redskin Peanut;
+Salmon Joy;
+Spicy Drumstick;
+Super Cold Popsicle;
+Taco Town Special;
+
+| jewels =
+Angry Snowpig Sapphire;
+Ninja Piglets Citrine;
+Queen Calypso Amethyst;
+Sparkling Blocking Citrine +18;
+Sparkling Blocking Jade +18;
+Sparkling Blocking Onyx +18;
+Sparkling Blocking Ruby +18;
+Sparkling Critical Citrine +18;
+Sparkling Critical Jade +18;
+Sparkling Critical Onyx +18;
+Sparkling Critical Peridot +18;
+Sparkling Critical Ruby +18;
+Sparkling Critical Sapphire +18;
+Sparkling Damage Onyx +28;
+Sparkling Damage Peridot +28;
+Sparkling Damage Ruby +28;
+Sparkling Defense Citrine +56;
+Sparkling Defense Jade +56*F2*WMV;
+Sparkling Defense Onyx +56;
+Sparkling Defense Opal +28;
+Sparkling Defense Peridot +55;
+Sparkling Defense Sapphire +56;
+Sparkling Health Opal +122;
+Sparkling Health Opal +123;
+Sparkling Health Opal +124*F2;
+Sparkling Health Opal +125;
+Sparkling Mana Opal +52;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak;
+Angora Bunny Ears;
+Baby Carrots*F2;
+Bamboo Shoots;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts;
+Boom Shroom;
+Boon Tree*CR;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Cornbread Fruit Bush*F2;
+Couch Potatoes*CR*F3;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Face Palm;
+Fickle Pickle;
+Fiery Boom Shroom;
+Fish on a Vine;
+Fortune Cookie Tree*F2;
+Golden Couch Potatoes;
+Goose Tree;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Ivy League*CR;
+Laugh-O-Dil;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Missile Toe;
+Moon Flower;
+Orange Bell Pepper*CR;
+Pink Huckleberries*F3*WMV;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Red Couch Potatoes;
+Red Grapes of Wrath;
+Red Huckleberries*F3;
+Rye Bread Fruit Bush;
+Silver Trumpet Vine*CR;
+Sunion*CR;
+Sword Fern*CR;
+Trumpet Vine;
+Ultra Boom Shroom;
+Ultra Dandelion;
+Ultra Fly Trap;
+Ultra Huckleberries;
+Ultra King Parsley;
+Ultra Ninja Fig*F2*WMV;
+Ultra Trumpet Vine;
+White Desparagus;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

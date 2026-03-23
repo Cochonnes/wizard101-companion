@@ -1,0 +1,118 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 18,075
+| crecla = Wizard
+| school = Life
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+126 Any;
+
+| criticalblock =
+599 Any;
+
+| outpierce =
+11%;
+
+| outboost =
+80%;
+
+| incboost =
+30% Death;
+
+| incresist =
+39% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+69% Life;
+
+| outhealing =
+29%;
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Bauk (Death);
+
+| world = Arcanum
+| location = Lower Decks
+| subloc1 = Power Core
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Devotion;
+Guiding Light;
+Regenerate;
+Lifeblade (+40%);
+Thorns!;
+Luminous Weaver (Tier 2b);
+Goat Monk (Tier 2b);
+Hungry Caterpillar;
+Forest Lord (Tier 2a);
+Primal Oni
+
+| quests =
+A Rough Start;
+Broken Things;
+
+| gold =
+34 - 45;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Creepy Stool;
+Darkmoor Bench*F2;
+Darkmoor Graveholm Theme;
+Darkmoor Howling Lands Theme;
+Mortal Plains Hay;
+
+| cards =
+Rebirth;
+Sirens;
+
+| reagents =
+Nickel;
+
+| spellements =
+
+| snacks =
+Cubby Broccoli;
+Fiddleheads;
+Pickled Garlic Grubs;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

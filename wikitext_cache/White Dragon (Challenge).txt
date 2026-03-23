@@ -1,0 +1,100 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 14,575
+| crecla = Wyrm
+| school = Ice
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Ice;
+
+| critical =
+419;
+
+| criticalblock =
+129;
+
+| outpierce =
+11%;
+
+| outboost =
+86%;
+
+| incboost =
+1% Fire;
+
+| incresist =
+39% Storm;
+19% Ice, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Pendragon Rematch
+| subloc1 = 
+| descrip =
+This Boss is a Minion to the [[Creature:Pendragon (Challenge)|Pendragon]] during the Pendragon Rematch instance.
+*For the Standard variant, see {{Link|Creature|White Dragon (Standard)}}.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown amount of Ice damage for 0 Pips.
+
+| casts =
+Iceblade (+40%);
+Ice Trap;
+Deermouse Trap (Tier 5a);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = White Dragon
+}}

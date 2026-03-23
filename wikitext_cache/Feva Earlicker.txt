@@ -1,0 +1,185 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 8,760
+| crecla = Froudling
+| school = Ice
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Hobgoblin Plunderer;
+
+| world = Avalon
+| location = Caer Lyon
+| subloc1 = Feva's Hideout
+| descrip =
+
+| speech =
+:''"A Wizard? Let me lick your ears and see how you taste!"''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Vengeance;
+Tower Shield;
+Iceblade;
+Ice Trap;
+Freeze;
+Balefrost;
+Natural Attack (Ice 140-280-430);
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Frostbite;
+Icezilla (650-730);
+Colossus;
+Frost Giant;
+Snow Angel;
+
+| quests =
+Lute Drop;
+
+| gold =
+89 - 106;
+
+| hats =
+Hood of the Sacred Lake*F3*WMV;
+Hunter's Helm of Mercy*F2*WMV;
+
+| robes =
+Brave One's Plate;
+Catalan's Scales*F3*WMV;
+Jabberwock's Plate;
+Robes of the Silent Hunter;
+
+| boots =
+Friend of the Fire Elf Boots;
+Jabberwock's Plate;
+Knight's Boots of Justice*F3*WMV;
+Loyal Knight's Boots*F3;
+Ponycorn Hoofers;
+Slick Road Grippers;
+
+| athames =
+Loyal Steel;
+Noble Hunter's Dagger;
+
+| amulets =
+Circlet of the Hardy Squire*F2*WMV;
+Loyal Steel;
+Unknowable Torc*F2;
+
+| rings =
+Lake Spiral Ring;
+Sir Malory's Seal*F2*WMV;
+
+| wands =
+Gallant Longbow*F3*WMV;
+Longbow of Integrity;
+
+| decks =
+Argent Rose Deck*F5*WMV;
+
+| items =
+Avalon House;
+Avalon Tense Theme;
+Avalon Wooden Table;
+Avalon Wyrd Theme*F2*WMV;
+Tree Fountain*F2;
+
+| cards =
+Efreet;
+Fire Dragon;
+Frost Giant;
+Frostbite*F4*WMV;
+Frozen Armor*F4*WMV;
+Gargantuan*F2*WMV;
+Legion Shield*F3*WMV;
+Medusa;
+Orthrus*F2*WMV;
+Power Nova;
+Ra;
+Snow Angel;
+Steal Ward*F3*WMV;
+Storm Lord;
+
+| reagents =
+Black Lotus*F3*WMV;
+Bronze;
+Cat Tail*F2*WMV;
+Deep Mushroom;
+Frost Flower;
+Lava Lily*F3*WMV;
+Mist Wood*F3*WMV;
+Nickel;
+Ore*F3*WMV;
+Parchment*F4*WMV;
+Pearl*F3*WMV;
+Red Mandrake*F3*WMV;
+Shell*F2*WMV;
+Stone Block*F3;
+Tin;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Cheese Broccoli;
+Chocolate Strawberry;
+Cracker;
+Deviled Eggs;
+Glowing Star Fruit*F2;
+Golden Grapes;
+Gummy Firecat;
+Gummy Wyrms;
+Jelly Baby*F2*WMV;
+King Banana;
+Nettle Root;
+Pigeon Pie;
+Roasted Chickpeas;
+Treant Bark;
+
+| jewels =
+Opaque Damage Sapphire +18;
+Opaque Healing Opal +4%;
+Opaque PIP Opal +7%;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+Evil Magma Peas*CR;
+Key Limes*CR;
+White Desparagus;
+White Tiger Lily*F2;
+
+| mounts =
+
+| spells =
+
+}}

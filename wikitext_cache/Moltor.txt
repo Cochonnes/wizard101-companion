@@ -1,0 +1,265 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 14,880
+| crecla = Titan
+| school = Fire
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+120 Any;
+
+| criticalblock =
+105 Any;
+
+| outpierce =
+10%;
+
+| outboost =
+85%;
+
+| incboost =
+15% Ice;
+
+| incresist =
+30% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Lava Spawn;
+
+| petname = 
+| petbreed = Fire Wartle
+| world = Empyrea
+| location = Inner Athanor
+| subloc1 = 
+| descrip =
+Moltor is a roaming Boss.
+
+| speech =
+
+| spellnotes =
+*The Pet randomly cheat-casts a {{Link|ItemCard|Glacial Shield}} Item Card at the beginning of the Round.
+
+| casts =
+Dark Fiend;
+Furnace;
+Glacial Shield;
+Fireblade;
+Fuel;
+Backdraft;
+Wyldfire;
+Brimstone Revenant;
+Natural Attack (Fire 120-240-360, 75%);
+Meteor Strike;
+Scald;
+Helephant (710-790);
+Fire Dragon;
+Sun Serpent;
+
+| quests =
+
+| gold =
+174 - 501;
+
+| hats =
+Interstellar Navigator Helm;
+
+| robes =
+Interstellar Navigator Suit;
+
+| boots =
+Interstellar Delegate Trekkers;
+Interstellar Hero's Trekkers;
+Medic's Interstellar Trekkers;
+
+| athames =
+Interstellar Delegate's Knife;
+Interstellar Hero's Knife;
+
+| amulets =
+Interstellar Delegate's Charm;
+Interstellar Engineer's Charm;
+Interstellar Explorer's Charm;
+Interstellar Medic's Charm;
+Interstellar Navigator's Charm;
+
+| rings =
+Interstellar Delegate's Band;
+Interstellar Engineer's Band;
+Interstellar Explorer's Band;
+Interstellar Warrior's Band;
+
+| wands =
+Explorer's Hexacorder;
+Officer's Hexacorder;
+
+| decks =
+Interstellar Navigator's Deck;
+Interstellar Officer's Deck;
+
+| items =
+Empyrea Aeriel Theme*F5*WMV;
+Empyrea Athanor Combat Theme;
+Empyrea Finale Combat Theme*F2;
+Empyrea Flotsam Combat Theme*F3*WMV;
+Empyrea Inner Athanor Theme*F5*WMV;
+Empyrea Jungle Theme;
+Empyrea Outer Athanor Theme*F7*WMV;
+Empyrea Sepidious Combat Theme;
+
+| cards =
+Balefrost;
+Mass Death Prism*F2*WMV;
+Mass Fire Prism;
+Mass Life Prism;
+Mass Myth Prism*F2*WMV;
+Mass Storm Prism;
+Mass Triage;
+
+| reagents = 
+Ancient Scroll*F4*WMV;
+Antique Coins*F5*WMV;
+Black Pearl*F6*WMV; 
+Blood Moss*F5*WMV;
+Brass*F8*WMV;
+Bronze Gear*F6*WMV; 
+Cobalt*F5*WMV;
+Ectoplasm*F5*WMV; 
+Nickel*F3*WMV;
+Scales*F5*WMV;
+Spider Silk*F6*WMV;
+Spring*F8*WMV;
+Tin*F4*WMV;
+
+| spellements =
+
+| snacks = 
+Antheneum Delight;
+Aztecan Hot Chocolate;
+BBQ Drumstick;
+Beast Wellington*F3*WMV;
+Cherry Pie;
+Discord Grape Jelly*F6*WMV;
+Drumstick;
+Eye Candy*F6*WMV;
+Glowing Taffy*F4*WMV;
+Hot Cross Buns*F4*WMV;
+Pizza*F4*WMV;
+Rock and Roll Candy*F3*WMV;
+Satyr Chow*F4*WMV;
+Sprinkle Cupcake*F3*WMV;
+Veggie Juice*F2*WMV;
+Wheat Cracker;
+
+| jewels = 
+Ally Dragonblade Citrine;
+Balance-Boon Citrine;
+Balance-Eye Citrine;
+Balance-It Citrine;
+Balance-Off Citrine;
+Balance-Sniper Citrine;
+Death Striker Onyx*F2;
+Death-Giver Onyx;
+Death-Proof Onyx;
+Death-Shot Onyx;
+Feinting Spell Onyx;
+Fire-Giver Ruby;
+Fire-Proof Ruby;
+Fire-Shot Ruby;
+Fire-Ward Ruby;
+Ice-Away Sapphire;
+Ice-Dealer Sapphire;
+Ice-Proof Sapphire;
+Ice-Sniper Sapphire;
+Ice-Ward Sapphire;
+Life Striker Jade;
+Life-Away Jade;
+Life-Shot Jade;
+Life-Sniper Jade;
+Lustrous Accurate Citrine +11%*F2;
+Lustrous Accurate Onyx +11%;
+Lustrous Accurate Peridot +11%;
+Lustrous Accurate Ruby +11%;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Amethyst +13;
+Lustrous Blocking Citrine +13;
+Lustrous Blocking Jade +13;
+Lustrous Blocking Onyx +13;
+Lustrous Blocking Peridot +13;
+Lustrous Blocking Sapphire +13;
+Lustrous Critical Amethyst +13;
+Lustrous Critical Onyx +13;
+Lustrous Critical Ruby +13;
+Lustrous Damage Amethyst +23;
+Lustrous Damage Jade +23;
+Lustrous Damage Onyx +23;
+Lustrous Damage Peridot +23;
+Lustrous Defense Citrine +45;
+Lustrous Defense Jade +45;
+Lustrous Defense Peridot +45;
+Lustrous Defense Ruby +45;
+Lustrous Health Opal +100;
+Lustrous PIP Opal +10%;
+Myth Striker Peridot;
+Myth-Boon Peridot;
+Myth-Proof Peridot;
+Myth-Sniper Peridot*F2*WMV;
+Power Player Citrine;
+Spell-Defying Opal;
+Storm-Boon Amethyst;
+Storm-Dealer Amethyst;
+Storm-Shot Amethyst;
+Stun Recalcitrant Opal;
+
+| pins =
+
+| pets =
+Fire Wartle*F2*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears*F5*WMV;
+Baby Carrots*F6*WMV;
+Bell Pepper*F2*WMV;
+Blue Huckleberries*F2*WMV;
+Boom Shroom;
+Bread Fruit Bush*F3*WMV;
+Cornbread Fruit Bush*F5*WMV;
+Couch Potatoes*CR*F5*WMV;
+Deadly Ninja Fig;
+Evil Snow Peas;
+Face Palm;
+Fickle Pickle;
+Fiery Boom Shroom;
+Fish on a Vine*F3*WMV;
+Golden Couch Potatoes*F7*WMV;
+Grapes of Wrath*CR*F2*WMV;
+Ivy League*CR*F11*WMV;
+Maelstrom Snap Dragon*F2*WMV;
+Maltese Tiger Lily;
+Pink Huckleberries*F3*WMV;
+Pink Laugh-O-Dil;
+Purple Grapes of Wrath*F2*WMV;
+Red Bell Pepper;
+Red Couch Potatoes*F3*WMV;
+Red Huckleberries*F5*WMV;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Snap Dragon;
+Snow Apples;
+Tiger Lily (Seed);
+Trumpet Vine;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

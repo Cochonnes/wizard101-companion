@@ -1,0 +1,172 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 800
+| crecla = Cat
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Marleybone
+| location = Chelsea Court
+| subloc1 = Freddy's Clocktower
+| descrip =
+Theurgists and Necromancers must defeat this Boss nine times in a row during their Level 28 Spell Quest.
+
+| speech =
+:'''From the Quest, Learning a Lesson''':
+::''"So, your master Dworgyn sent you to me? All right, then... Time to do the dance."''
+:'''From the Quest, My Re-Generation''':
+::''"So, Moolinda sent you to see me? Alright, let's do business. Let's dance."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 90 Ice Damage per Pip.
+
+| casts =
+Deathblade;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Snow Serpent;
+Thunder Snake;
+Lightning Bats;
+Sunbird;
+
+| quests =
+My Re-Generation;
+Learning a Lesson;
+
+| gold =
+9 - 17;
+
+| hats =
+Cap of Ideals;
+Cap of the Supreme*F2;
+Dandy Hat*F2;
+Exquisite Cowl;
+Grandiose Headwraps*F3;
+Hat of Excellence;
+Opportunists' Cap;
+
+| robes =
+Affable Cloak;
+Basking Robes;
+Charming Garment*F2;
+Debonair Garments*F2;
+Delicate Garments;
+Distinguished Robe;
+Dramatic Uniform;
+Enticing Robe;
+Garment of Preference;
+Obligatory Cloak;
+Robe of Paramount;
+Robe of the Affected;
+Robe of the Aristocrat;
+Robe of the Exceptional*F2*WMV;
+Sophisticated Tunic;
+Vest of Predominance;
+
+| boots =
+Boots of Fabrication;
+Jolting Boots*F2;
+Sandals of Dedication;
+Sensitive Slippers;
+Shoes of Certainty;
+Shoes of Inclination;
+Slippers of Grief;
+Slippers of Tranquility*F2;
+
+| athames =
+Dirk of Nobles;
+Fink's Stiletto;
+Graceful Stiletto;
+
+| amulets =
+
+| rings =
+Ring of Rejuvenation;
+
+| wands =
+
+| decks =
+
+| items =
+Ball of Blue Yarn;
+Empty Tin Cans;
+
+| cards =
+Fire Trap;
+Giant;
+Mutate Beetle (Fire);
+Mutate Cat (Ice);
+Pacify;
+Storm Trap;
+Vampire;
+
+| reagents =
+Copper*F2;
+Iron;
+Lead*F2*WMV;
+Leather Straps*F7*WMV;
+Nickel*F4*WMV;
+Tin*F4;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Medium Fish*F3;
+Redskin Peanut*F3*WMV;
+Square Watermelon*F2;
+Stinky Cheese*F3;
+Wheat Cracker*F4;
+
+| jewels =
+Banshee Onyx;
+Big Drain Opal;
+Chipped Defense Opal +8;
+Cyclops Peridot;
+Determined Opal;
+Evil Snowman Sapphire;
+Fire-Away Ruby;
+Flawed Accurate Opal +2%;
+Flawed Damage Opal +5;
+Flawed Health Opal +29;
+Flawed Health Opal +30*F2*WMV;
+Sprite Jade;
+Storm Shark Amethyst;
+Sunbird Ruby;
+Super-Stall Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,249 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 6,920
+| crecla = Snake
+| school = Balance
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Pit Viper;
+Pit Viper;
+Pit Viper;
+
+| world = Krokotopia
+| location = Upper Zigazag
+| subloc1 = House of Scales
+| descrip =
+*Apep's Pit Viper Minions have 1,870 Health, instead of their normal 2,190 Health.<br/>They Boost to Fire, Ice, and Storm Damage, rather than their original Life, Myth, and Death Damage.
+
+| speech =
+:''"We meet again, Wizard.  I thought about dealing with you in Lower Zigazag, but something told me fate had bigger plans for us.  Ammit is preparing to judge a group of Mander Souls now.  If we hurry, I'll make sure your soul is bumped to the head of the line!"
+
+| cheatnotes =
+*{{Icon|Round}} ''"Lets make this interesting."'' - At the beginning of the first Round, Apep will interrupt cast a {{Link|Spell|Balance of Power}}.
+**''"You'll have to do better than that!"'' - If a Wizard casts a Global Spell that gives a Damage bonus, such as {{Link|Spell|Balefrost}}, he will immediately replace it back with {{Link|Spell|Power Play}}.
+***{{Link|Spell|Doom and Gloom}}, and {{Link|Spell|Sanctuary}} will trigger this Cheat.
+***{{Link|Spell|Power Play}} will not trigger this Cheat.
+***Damage Spells that cast a Global effect, such as {{Link|TreasureCard|White Rat Magician}}, will not trigger this Cheat.
+***Global Spells that give Critical and Armor Piercing effects, such as {{Link|Spell|Katabatic Wind}}, will not trigger this Cheat.
+*{{Icon|Minion}}{{Icon|Afterlife}} If a Pit Viper is defeated (or is missing at the start of the battle due to being defeated in an earlier attempt), Apep will summon a Minion with 1,150 Health. This Minion will attack for two Rounds, before Apep sacrifices it with {{Link|Spell|Draw Health}}, {{Link|Spell|Sap Power}}, {{Link|Spell|Siphon Health}}, or {{Link|Spell|Take Power}}.
+
+*{{Icon|Spell}} When Apep uses one of his Minion Sacrifice Spells, he casts the Spell from first to last once. He then hidden casts the Spells two more times on each Minion.
+**When Dispelled once, it skips over the first Minion, but after others are sacrificed, the Minion he skipped over will still be sacrificed.
+**When with all his Minions, it takes 7 Dispels to save one, 8 to save 2, and 9 to save all 3.
+**When one Minion is in combat with two other Minions, it takes 3 Dispels to save him.
+**When two Minions are in combat with one other Minion, it takes 6 Dispels to save them.
+**The healing Spells will heal Apep even if the Minion he is trying to sacrifice is already dead (so if all three Pit Vipers have been defeated then he will be healed nine times). This may be a bug. The Pip-gaining Spells will only give Apep Pips once per Minion. 
+:*After one more Round, Apep will summon one of the following Minions (to be replaced in order):
+::Fire: ''"Time to turn up the heat!"'' - {{Link|Creature|Fiery Echo of Apep}}
+::Ice: ''"Prepare yourself for cold justice!"'' - {{Link|Creature|Frosty Echo of Apep}}
+::Myth: ''"Now, I break your will!"'' - {{Link|Creature|False Echo of Apep}}
+::Storm: ''"More fodder! Protect your queen!"'' - {{Link|Creature|Charged Echo of Apep}}
+
+| spellnotes =
+
+| casts =
+Vengeance;
+Weakness;
+Draw Health;
+Siphon Health;
+Balanceblade;
+Hex;
+Take Power;
+Sap Power;
+Power Play;
+Natural Attack (Balance 110-215-320);
+Sandstorm;
+Hydra;
+Ra (635-715);
+
+| quests =
+Judgment Day;
+
+| gold =
+83 - 254;
+
+| hats =
+Burning Scales Headdress*F2;
+Soul Devourer's Greathelm;
+
+| robes =
+Ancient Rebus Vestment;
+Anubis' Tunic of Judgment;
+Burning Scales Raiment;
+Dune Storm Armor*F2;
+Soul Devourer's Tunic;
+
+| boots =
+Ancient Rebus Sandals;
+Boots of the Burning Scales;
+Boots of the Frozen Desert;
+Desert Rain Mukluks*F3*WMV;
+Hands of Anubis Boots*F6*WMV;
+Shoes of Anubis' Judgment;
+
+| athames =
+Army of the Condemned Kris;
+Blade of Anubis' Verdict;
+Blade of the Fire River;
+Condemned Soldier's Bodkin;
+Dagger of the Cold Bones;
+Hall of Justice Shortblade*F2;
+Hieroglyph Kris of Riddles;
+Kris of the Ravenous Teeth*F3*WMV;
+Mander Survival Knife*F2*WMV;
+Moh'Lharz's Ravenous Fang*F2*WMV;
+
+| amulets =
+
+| rings =
+
+| wands =
+Anubis' Staff of Redress;
+Hands of Anubis Staff*F2;
+Rebus Breaker's Stave*F3;
+Stave of the Devoured;
+Wrath of Anubis Staff*F3*WMV;
+
+| decks =
+Ammit's Hand of Revolution;
+Ancient Hieroglyph Cards;
+Anubis' Cards of Veracity*F2;
+Brisk Breeze Pasteboards;
+Case of the Virtuous Soul;
+Hand of the Wicked Heart;
+Sands of Zigazag Cards*F2;
+Scales of Justice Arcana*F2;
+Upper Zigazag Arcana;
+
+| items =
+Stone Skeleton Key*CR*F2*WMV;
+
+| cards =
+Efreet*F2*WMV;
+Fire Serpent*F3*WMV;
+Krokotillian*F2*WMV;
+Locust Swarm*F3*WMV;
+Ra*F8*WMV;
+Scarab*F6*WMV;
+Scorpion*F4*WMV;
+Stone Colossus*F4*WMV;
+Sunbird*F3*WMV;
+
+| reagents =
+Amber Dust*F2*WMV;
+Bone;
+Brass*F4;
+Bronze*F2;
+Bronze Gear*F2;
+Cobalt*F7*WMV;
+Deep Mushroom;
+Ectoplasm*F3*WMV;
+Leather Straps*F3*WMV;
+Merle's Whisker;
+Nickel*F2;
+Spider Silk*F4*WMV;
+Steel*F3*WMV;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2;
+Cheese Broccoli*F2;
+Chocolate Strawberry*F6*WMV;
+Cracker*F2*WMV;
+Glowing Star Fruit*F2*WMV;
+Green Grapes;
+Gummy Firecat;
+Kola Nuts*F2;
+Nettle Root*F4*WMV;
+Tiny Fish;
+
+| jewels =
+Availing Hands Citrine;
+Balance-Giver Citrine;
+Blade of Fire Ruby;
+Blizzard Lizard Sapphire;
+Brilliant Light Jade;
+Buff Minion Talent Peridot;
+Cheeky Opal;
+Death-Boon Onyx;
+Disconcert Opal;
+Draconian Opal;
+Fire Elemental Opal;
+Frozen Armor Sapphire;
+Giant Talent Opal;
+Go Humongo Peridot;
+Ice-Proof Sapphire;
+Mander Opal;
+Mend Minion Talent Peridot;
+Musical Lane Opal;
+No Pain, No Gain Onyx;
+Opaque Blocking Amethyst +8;
+Opaque Blocking Opal +4;
+Opaque Blocking Sapphire +8;
+Opaque Damage Citrine +17;
+Opaque Damage Jade +18;
+Opaque Damage Onyx +18;
+Opaque Damage Sapphire +17;
+Opaque Defense Opal +18;
+Opaque Health Opal +70;
+Plaguebringer Onyx;
+Plain Accurate Sapphire +7%;
+Plain Blocking Citrine +5*F2;
+Plain Blocking Opal +3*F2*WMV;
+Plain Mana Opal +25;
+Plain Piercing Amethyst +3%;
+Plain Piercing Jade +3%;
+Power Link Ruby;
+Power Nova Citrine;
+Steal Health Talent Onyx;
+Talos Peridot;
+Ultra Energy Opal;
+Virulent Plague Onyx;
+
+| pins =
+
+| pets =
+Sorcerer Hunter*F5*WMV;
+
+| seeds =
+Baby Carrots;
+Cornbread Fruit Bush;
+Evil Snow Peas;
+Key Limes*CR;
+Orange Dandelion*F2*WMV;
+Snap Dragon;
+Venus Fly Trap*F2;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

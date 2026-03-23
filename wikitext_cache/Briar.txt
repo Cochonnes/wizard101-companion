@@ -1,0 +1,112 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 7,650
+| crecla = Wizard
+| school = Life
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+3%;
+
+| outboost =
+
+| incboost =
+15% Death;
+
+| incresist =
+30% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| petname = Kiki
+| petbreed = Kookaburra
+| world = Zafaria
+| location = Baobab Crown
+| subloc1 = Briar's Patch
+| descrip =1
+Life Wizards must defeat this rogue Theurgist in order to obtain their Level 118 Life Pet.
+
+| speech =
+:''"Who are you?  Zander sent you for the Eggs?  Well, you're too late!  One already hatched, and I've trained it to be a lethal bird of prey.  And when the other Egg hatches, I'll train it up too.  Then I'll return to the Arcanum and show Zander who knows more about Life Magic!  Actually, I'm glad you barged in.  It's time my lil' Kiki here developed the taste for blood!"''
+
+| spellnotes =
+*The cast animations for ''Lifeblade'', ''Leafstorm'' and ''Regenerate'' are performed by the pet, as when Player Wizards cast pet cards.
+
+| casts =
+Renew;
+Legend Shield (-75%);
+Spirit Armor;
+Satyr;
+Regenerate;
+Lifeblade;
+Imp;
+Life Scarab;
+Luminous Weaver;
+Life Banshee (250);
+Leafstorm;
+Centaur;
+Enraged Forest Lord;
+
+
+| quests =
+Every Initiate Has Its Thorn;
+
+| gold =
+3,333 - 4,776;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Extra Mana Opal;
+Fortify Talent Opal;
+Infector Onyx;
+Sap Health Talent Citrine;
+Sprite Time Jade;
+Tower Shield Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

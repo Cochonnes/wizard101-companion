@@ -1,0 +1,225 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 11,200
+| crecla = Undead
+| school = Death
+| startpips = 3
+| powerpips = Yes
+| critical =
+96;
+
+| criticalblock =
+87;
+
+| outpierce =
+4%;
+
+| outboost =
+65%;
+
+| incboost =
+15% Life;
+
+| incresist =
+30% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Mirage
+| location = Rubal Wastes
+| subloc1 = Halls of Confusion
+| descrip =
+
+| speech =
+:''"And what are YOU doing in here? This chamber is for Spirits only. One step further and you will be banished... with extreme prejudice."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Mirage
+| tome description =
+This undead denizen of the Halls of Confusion's hostility stems from his uncommonly gruesome demise after discovering his lactose intolerance.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Brace;
+Sacrifice (Death);
+Deathblade;
+Dark Pact (+30%);
+Feint (+75%);
+Ghoul (180);
+Natural Attack (Death 110-220-330, 80%);
+Vampire (375);
+Wraith (575);
+Dr. Von's Monster (900);
+
+| quests =
+Halls of Confusion;
+
+| gold =
+253 - 444;
+
+| hats =
+Zruvan Helmet of Acumen;
+Zruvan Helmet of Rigor;
+
+| robes =
+Zruvan Flashflood Raiment;
+
+| boots =
+Vizier's Windswept Shoes;
+Zruvan Galesh of Acumen;
+Zruvan Galesh of Flashfloods;
+Zruvan Galesh of Mettle;
+
+| athames =
+Sand Sea Dagger of Bolts;
+Sand Sea Dagger of Explosion;
+Sand Sea Dagger of Shivers;
+
+| amulets =
+Kobra Choker of Acumen;
+Kobra Choker of Demise;
+Sand Sea Amulet of Ardor;
+
+| rings =
+Sand Sea Ring of Bolts;
+
+| wands =
+Hardy Rubal Bow*F2*WMV;
+Rubal Bow of Eradication;
+Voltaic Durvish Armaments*F2;
+
+| decks =
+Kobra Hand of Rigor;
+Sand Sea Hand of Ashes;
+Sand Sea Hand of Decorum;
+
+| items =
+Mirage Chronoverge Theme;
+Mirage City Theme 2*F3*WMV;
+Mirage Desert Canyons Theme;
+Mirage Jungle Combat Theme;
+Mirage Magic Carpet Theme;
+Mirage Palace Theme;
+Mirage Serpent Theme;
+Mirage Spider Speaks Theme;
+
+| cards =
+Astraphobia;
+Counterforce;
+Raging Bull;
+Saga of Heroes;
+
+| reagents =
+Aether*F7*WMV;
+Agave Leaves*F5*WMV;
+Agave Nectar*F2;
+Amber*F3*WMV;
+Amber Dust*F3*WMV;
+Aquamarine*F3*WMV;
+Astral Shard*F2*WMV;
+Draconium*F3*WMV;
+Fire Blossom*F2*WMV;
+Golden Pearl*F5*WMV;
+Iridium;
+Merle's Whisker;
+Mithril*F5*WMV;
+Scales;
+Silver;
+Stardust*F4*WMV;
+Steel*F5*WMV;
+Sunstone;
+Titanium*F2*WMV;
+Tungsten*F4;
+Turmeric;
+Turquoise*F4;
+Vine*F5*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F2*WMV;
+Beetle Cream Soda;
+Hard Boiled Beetle Eggs*F3;
+Hot Cross Buns*F2;
+Mustachios*F2;
+Satyr Chow;
+Ships 'n' Queso*F2;
+Veggie Juice;
+
+| jewels =
+Epic Opal;
+Radical Opal;
+Shiny Blocking Amethyst +16;
+Shiny Blocking Hematite +16;
+Shiny Critical Hematite +16;
+Shiny Defense Hematite +52;
+Shiny Defense Jade +52;
+Shiny Health Opal +114;
+Shiny Mana Opal +45*F3*WMV;
+
+| pins =
+
+| pets =
+MaCaw*CR*F3;
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears;
+Baby Carrots*F2*WMV;
+Bamboo Shoots;
+Blue Huckleberries;
+Boom Shroom;
+Boon Tree*CR;
+Bread Fruit Bush;
+Cornbread Fruit Bush*F2*WMV;
+Couch Potatoes*CR;
+Deadly Helephant Ears*CR;
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Face Palm;
+Fickle Pickle;
+Fiery Boom Shroom;
+Frozen Fly Trap;
+Golden Couch Potatoes;
+Goose Tree;
+Grapes of Wrath*CR;
+Green Snow Apples*F2*WMV;
+Missile Toe;
+Pink Huckleberries*F2;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Red Bell Pepper;
+Red Couch Potatoes;
+Red Huckleberries;
+Snap Dragon;
+Snow Apples;
+White Desparagus*F2;
+White Laugh-O-Dil;
+White Tiger Lily*F2*WMV;
+Yellow Bell Pepper*F2;
+
+| mounts =
+
+| spells =
+
+}}

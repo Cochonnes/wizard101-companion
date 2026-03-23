@@ -1,0 +1,129 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 8,740
+| crecla = Dog
+| school = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+234 Any;
+
+| criticalblock =
+124 Any;
+
+| outpierce =
+28%;
+
+| outboost =
+119%;
+
+| incboost =
+5% Myth;
+
+| incresist =
+70% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Rampaging Potbelly (Fire);
+Rampaging Potbelly (Fire);
+
+| world = Marleybone
+| location = Regent's Square
+| subloc1 = Quartermane Tower
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+*''"Hands up! Hand's down!"'' - At the beginning of the first Round, two copies of Card Limit (14 Pip) will be added to the Wizard's hand, which cannot be discarded.
+**{{GivesSpell|Card Limit (14 Pip)|size = x150px}}
+*''"For the Minimalism!"'' - At the beginning of the fourth Round and every third Round after, a Card Limit (14 Pip) Spell will be added to the Wizard's hand, which cannot be discarded.
+*If a Wizard joins the battle after the first Round, four copies of Card Limit (14 Pip) will be added to the Wizard's hand.
+*''"Raise the shields!"'' - At the end of every Round, even though it is not "cast", Rogue Engineer will use a version of {{Link|Spell|Legion Shield}} on her team if she has no Shields.
+**This can be avoided with {{Link|Spell|Melt}}.
+
+| spellnotes =
+
+| casts =
+Galvanic Field;
+Quicken;
+Stormspear;
+Stormblade (+30%);
+Supercharge;
+Windstorm;
+Enfeeble;
+Astraphobia;
+Insane Bolt;
+Hammer of Thor;
+Iron Sultan;
+Natural Attack (Storm 130-260-390-520);
+Sound of Musicology (Tier 3a);
+Glowbug Squall;
+Stormwing (Tier 3a);
+Rusalka's Wrath;
+Storm Lord;
+Leviathan;
+Sirens;
+Tempest;
+
+| quests =
+La Mort Et Lemuria;
+
+| gold =
+0 - 95;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Mythspear;
+
+| reagents =
+Scales;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Tiger Lily (Seed);
+
+| mounts =
+
+| spells =
+
+}}

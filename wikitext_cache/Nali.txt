@@ -1,0 +1,177 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 4,225
+| crecla = Elemental
+| crecla2 = Colossus
+| school = Ice
+| startpips = 3
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Grendel Snaggleclaw;
+
+| world = Grizzleheim
+| location = Austrilund
+| subloc1 = Nali's Cave
+| descrip =
+
+| speech =
+:''"If you have come here, it is to no good end. I will destroy you!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+As the guardian of one half of a key, Nali is essentially the protector of a useless hunk of metal.
+
+| extract class =
+Colossus;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Stun Block;
+Iceblade;
+Ice Trap;
+Thieving Dragon;
+Blizzard;
+Ice Wyvern;
+Frostbite;
+Blight Hound;
+Colossus;
+Natural Attack (Ice 85x, 80%);
+
+| quests =
+Enemy at the Gate;
+
+| gold =
+55 - 81;
+
+| hats =
+Barbaric Helm*F2;
+Blustering Bear Hat;
+Hearty Bear Hat;
+Horned Helm of Courage;
+Horned Helm of the Mighty;
+
+| robes =
+Bear's Heart Jerkin;
+Coat of Justice*F3*WMV;
+Coat of the Crypt*F2*WMV;
+Hardy Coat;
+Jerkin of the Great Bear;
+
+| boots =
+Barbarian's Bold Boots;
+Barbarian's Valorous Boots;
+Biting Bear Boots*F3;
+Growling Bear Boots*F3*WMV;
+Slashing Bear Boots*F4*WMV;
+Snarling Bear Boots*F4*WMV;
+
+| athames =
+Wolf's Sapphire Claw*F3*WMV;
+
+| amulets =
+Wyrm's Curse Charm*F4*WMV;
+
+| rings =
+Ring of Brother Wolf*F3;
+Ring of Sister Wolf*F3;
+Ring of the Hunting Wolf;
+Ring of the Wolf's Song*F3;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Death Trap;
+Evil Snowman;
+Fire Elf;
+Lightning Bats;
+Monstrous*F7*WMV;
+Pixie;
+Precision*F2;
+Sniper*F3;
+Tempest;
+Vengeance*F4*WMV;
+
+| reagents =
+Cobalt*F6*WMV;
+Ectoplasm*F5*WMV;
+Lead;
+Nickel*F3;
+Spider Silk*F3;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Delicious Cookie;
+Flaming Soup;
+Glowing Star Fruit*F2;
+Golden Grapes*F2;
+Gummy Humongofrog;
+King Banana*F2;
+Salmonberry;
+Spicy Drumstick;
+Strawberry Cupcake;
+Uni-Corn*F2;
+
+| jewels =
+Dull Defense Jade +26;
+Dull Resilient Opal +3%;
+Plain Defense Amethyst +29;
+Plain Defense Citrine +29;
+Plain Defense Sapphire +29;
+Stonewall Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots; 
+Burning Snap Dragon;
+Cornbread Fruit Bush;
+Helephant Ears;
+Snap Dragon;
+Venus Fly Trap*F3;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,102 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 14,870
+| crecla = Jaguar
+| school = Myth
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Myth;
+
+| critical =
+550 Any;
+
+| criticalblock =
+163 Any;
+
+| outpierce =
+21%;
+
+| outboost =
+111%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+36% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+66% Myth;
+
+| outhealing =
+11%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Azteca
+| location = Mangrove Marsh
+| subloc1 = Jaguar Den
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Myth Trap;
+Spirit Trap;
+Blood Bat (Tier 2a);
+Athena Battle Sight;
+Minotaur (Tier 2a);
+Thoth (Tier 2a);
+Medusa (Tier 2b);
+
+| quests =
+The World That Was;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

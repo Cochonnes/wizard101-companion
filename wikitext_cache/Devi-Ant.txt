@@ -1,0 +1,107 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 20,275
+| crecla = Ant
+| crecla2 = Insect
+| school = Life
+| school2 = Myth
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Myth;
+Life;
+
+| critical =
+472;
+
+| criticalblock =
+564;
+
+| outpierce =
+20%;
+
+| outboost =
+104%;
+
+| incboost =
+30% Death;
+
+| incresist =
+37% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+67% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = MooShu
+| location = Catmandu
+| subloc1 = Soy Hut
+| descrip =
+
+| speech =
+"Chitter Chitter Click Click"
+
+| spellnotes =
+
+| casts =
+Amplify;
+Lifeblade;
+Mythblade;
+Spirit Blade;
+Burrowing Bane (Tier 5a);
+Verdurous Jinn;
+Hero of Khrysalis (Tier 5a);
+
+| quests =
+Time Out for Taweret;
+
+| gold =
+38;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Selenopolis Field of Reeds Theme;
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Dr. Jalapeno;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

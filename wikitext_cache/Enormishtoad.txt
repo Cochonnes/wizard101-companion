@@ -1,0 +1,344 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 9,760
+| crecla = Humongofrog
+| crecla2 = Frog
+| school = Myth
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+24%;
+
+| outboost =
+105%;
+
+| incboost =
+5% Storm;
+
+| incresist =
+70% Myth;
+
+| outhealing =
+ 
+| inchealing =
+50%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Humongishfrog;
+
+| petbreed = Myth-ish Frog
+| world = Empyrea
+| location = Northeast Aero Plains
+| descrip =
+
+| speech =
+
+| spellnotes =
+*His Pet casts Ether Shield and Mythblade.
+**Mythblade cast from the Pet stacks with the normal cast Mythblade.
+
+| casts =
+Ether Shield;
+Mythblade;
+Spirit Blade;
+Mythic Fuel;
+Shatter;
+Time of Legend;
+Yellow Troll;
+White Rat Magician;
+Keeper of the Flame;
+Natural Attack (Myth 115-230-345, 80%);
+Snake Charmer;
+Orthrus;
+
+| quests =
+
+| gold =
+0 - 80;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Bodacious Kalamar Knife;
+Chill Kalamar Knife;
+Choice Kalamar Knife;
+Gnarly Kalamar Knife;
+Heavy Kalamar Knife;
+Mondo Kalamar Knife;
+Rad Kalamar Knife;
+Righteous Kalamar Knife;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Aero Dwarf Blue Vase;
+Aero Dwarf Potted Plant;
+Empyrea Aero Plains Combat;
+Empyrea Chaos Jungle Theme;
+Empyrea Husk Combat;
+Empyrea Husk Storm Combat;
+Empyrea Husk Theme;
+Kalamar Chair;
+Kalamar Side Table;
+Nimbari Sword Rack;
+Ornate Nimbari Vase;
+Tall Kalamar Vase;
+Valencia Combat Theme;
+Wide Kalamar Vase;
+
+| cards =
+Boreas Ifrit;
+Chinook Genie;
+Colossafrog;
+Cyclops;
+Death Prism;
+Elemental Blade; 
+Elemental Defuse;
+Elemental Spear;
+Fable Lord;
+Fire Prism;
+Humongofrog;
+Ice Prism;
+Kraken;
+Lifespear;
+Lord of Atonement;
+Lord of Blazes;
+Lord of the Squall;
+Maelstrom Marid;
+Mass Death Prism;
+Mass Fire Prism;
+Mass Ice Prism;
+Mega Soothe;
+Mega Subdue;
+Mutate Beetle (Fire);
+Mutate Beetle (Storm);
+Mutate Bird (Ice);
+Mutate Cat (Ice);
+Mutate Minotaur (Sun);
+Mutate Monster (Ice);
+Mutate Phoenix (Storm);
+Mutate Serpent (Storm);
+Mutate Shark (Ice);
+Mutate Snake (Ice);
+Mutate Snowman (Fire);
+Mutate Wyvern (Fire);
+Mythspear;
+Oni No Jade;
+Oni No Plague;
+Sirocco Djinni;
+Spirit Spear;
+Storm Prism;
+Tundra Lord;
+
+| reagents =
+Aether*F2;
+Agave Leaves;
+Agave Nectar;
+Amber;
+Amber Dust*F2*WMV;
+Ancient Scroll*F2*WMV;
+Antique Coins*F2*WMV;
+Aquamarine;
+Astral Shard;
+Black Pearl;
+Blood Moss*F2;
+Braided Vine;
+Brass;
+Bronze;
+Bronze Gear;
+Cobalt;
+Ectoplasm*F2;
+Fire Blossom;
+Fish Fin;
+Flying Squid Ink;
+Glass Sliver;
+Golden Pearl;
+Merle's Whisker;
+Mithril;
+Nickel;
+Orichalcum;
+Pyrite;
+Scales*F3*WMV;
+Silver;
+Spider Silk;
+Spring*F2*WMV;
+Stardust;
+Steel*F5*WMV;
+Sunstone*F2*WMV;
+Tin;
+Titanium;
+Tungsten;
+Turmeric;
+Turquoise;
+Vine;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Athame Pop;
+Beast Wellington;
+Berry Poundcake;
+Boiled Spider Legs;
+Bread Fruit Fruit;
+Dastardly Radish;
+Decimatoes;
+Discord Grape Jelly;
+Eye Candy*F4*WMV;
+Fern Jelly;
+Fetid Legumes;
+Flaming Jalapeno;
+Gator Tots;
+Ginger Mint Tea;
+Glowing Star Fruit;
+Glowing Taffy*F2*WMV;
+Golden Squash;
+Gummy Humongofrog;
+High Road Haggis;
+Hot Cross Buns;
+Killer Tomato;
+Lemon Daisy;
+Lollipop;
+Meat Soup;
+Minotarts;
+Oyster Shooter;
+Pineapple Spears;
+Pizza*F2*WMV;
+Pyramints;
+Radioactive Pizza;
+Redskin Peanut;
+Rhubarbed Wire;
+Rock and Roll Candy;
+Salmon Joy;
+Satyr Chow;
+Ships 'n' Queso; 
+Spicy Drumstick;
+Sprinkle Cupcake;
+Taco;
+Taco Town Special;
+Veggie Juice;
+Waterworks Wonton;
+
+
+| jewels =
+Brimstone Revenant Ruby;
+Luminous Weaver Jade;
+Ninja Piglets Citrine;
+Queen Calypso Amethyst;
+Shiny Accurate Amethyst +12%;
+Shiny Accurate Citrine +12%;
+Shiny Accurate Onyx +12%;
+Shiny Accurate Peridot +12%;
+Shiny Accurate Sapphire +12%;
+Shiny Blocking Citrine +15;
+Shiny Blocking Ruby +15;
+Shiny Critical Peridot +15;
+Shiny Critical Ruby +15;
+Shiny Critical Sapphire +15;
+Shiny Damage Citrine +25;
+Shiny Damage Onyx +25;
+Shiny Damage Ruby +25;
+Shiny Defense Jade +50;
+Shiny Defense Sapphire +50;
+Shiny Health Opal +106;
+Shiny Health Opal +108;
+Sparkling Blocking Amethyst +18;
+Sparkling Blocking Hematite +18;
+Sparkling Blocking Jade +18;
+Sparkling Blocking Peridot +18;
+Sparkling Blocking Ruby +18;
+Sparkling Critical Amethyst +18;
+Sparkling Critical Hematite +18;
+Sparkling Critical Peridot +18;
+Sparkling Damage Amethyst +28;
+Sparkling Damage Peridot +28;
+Sparkling Damage Ruby +28;
+Sparkling Damage Sapphire +28;
+Sparkling Defense Hematite +55;
+Sparkling Defense Hematite +56;
+Sparkling Defense Onyx +56;
+Sparkling Defense Ruby +56;
+Sparkling Health Opal +122;
+Sparkling Health Opal +123;
+Sparkling Health Opal +124;
+
+| pins =
+
+| pets =
+Myth-ish Frog*F4*WMV;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Bamboo Shoots;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts;
+Boom Shroom;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Cornbread Fruit Bush;
+Dandelion;
+Deadly Fly Trap; 
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Face Palm;
+Fickle Pickle;
+Fiery Boom Shroom;
+Fortune Cookie Tree;
+Golden Couch Potatoes;
+Goose Tree;
+Honey Bee Plant;
+Honey Sickle;
+Ivy League*CR;
+King Parsley*CR;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Queen Crape Myrtle;
+Red Couch Potatoes;
+Red Huckleberries;
+Saw Palmetto;
+Snow Apples;
+Sword Fern*CR;
+Tiger Lily (Seed);
+Trumpet Vine;
+Ultra Alligator Pear Tree;
+Ultra Dandelion;
+Ultra Fly Trap;
+Ultra Helephant Ears;
+Ultra Huckleberries;
+Ultra Ninja Fig;
+Ultra Snap Dragon;
+Ultra Trumpet Vine;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

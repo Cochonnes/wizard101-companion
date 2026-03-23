@@ -1,0 +1,322 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 13,465
+| crecla = Golem
+| school = Death
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+27%;
+
+| outboost =
+133%;
+
+| incboost =
+5% Life;
+
+| incresist =
+73% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Stink Eye;
+
+| world = Lemuria
+| location = Telos
+| subloc1 = Bass Chamber
+| descrip =
+For the purpose of drops, Old One Automaton (Death) is considered a Boss. All drops are recorded on this page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Lemuria
+| tome description =
+Components of the Amplification Chambers. They direct the music from the accoustic channels into the world via, let's say, techyons.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+*Casts an Aegis-Protected version of Deathblade (+40%).
+*Casts an unprotected version of Deathblade (+40%).
+*Casts a version of Poison (45+450) that attacks all enemies.
+
+| casts =
+Virulence (6 Rounds);
+Deathblade (+40%);
+Empower;
+Detonate (Death);
+Deadzone;
+Qismah's Curse;
+Natural Attack (Death 105-210-315-420);
+Poison (45+450);
+Deer Knight (330+300);
+Call of Khrulhu;
+Winged Sorrow;
+Grim Reader (Tier 3a);
+Wrath of Hades (Death);
+
+| quests =
+Amazing Bass;
+Buck, Bantam, Bass;
+
+| dropnotes =
+If a Wizard has obtained the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge and has not obtained the '''[[Basic:Novus Badges|Ender of an Aeon]]''' Badge, the following drops will be available:
+*{{Icon|Spellement}} 10 Spellements will drop each time from '''any''' School for their respective Polaris, Mirage, Empyrea, Karamelle and Lemuria Spells.
+If a Wizard has obtained the ''Ender of an Aeon'' badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of the Hall of Heroes to acquire a [[Item:Level Scaling Elixir - 150|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+0 - 174;
+
+| hats =
+Supreme Deadly Hat;
+Supreme Deflector Hat;
+Supreme Detective Hat;
+Supreme Electric Hat*F2*WMV;
+Supreme Eruption Hat;
+Supreme Firewall Hat;
+Supreme Freezer Hat;
+Supreme Horror Hat;
+Supreme Jungle Hat;
+Supreme Old Judge Hat;
+Supreme Preservation Hat;
+Supreme Stability Hat;
+Supreme Teleological Hat;
+Supreme Undaunting Hat;
+
+| robes =
+Supreme Stability Robe;
+Supreme Teleological Robe;
+
+| boots =
+Supreme Firewall Shoes;
+
+| athames =
+
+| amulets =
+Supreme Detective Talisman;
+Supreme Horror Talisman;
+Supreme Preservation Talisman;
+Supreme Volcanic Talisman;
+
+| rings =
+Supreme Eruption Ring;
+Supreme Undead Ring;
+
+| wands =
+Supreme Lifeforce Staff;
+Supreme Volcanic Staff;
+
+| decks =
+Magician's Balance Deck;
+Magician's Death Deck;
+Magician's Fire Deck*F2;
+Magician's Ice Deck;
+Magician's Life Deck*F2*WMV;
+Magician's Myth Deck;
+Magician's Storm Deck;
+Malevolent Balance Deck;
+Malevolent Death Deck*F3*WMV;
+Malevolent Fire Deck;
+Malevolent Ice Deck;
+Malevolent Life Deck*F2*WMV;
+Malevolent Myth Deck*F2*WMV;
+Malevolent Storm Deck;
+Merciless Balance Deck;
+Merciless Death Deck;
+Merciless Fire Deck*F3*WMV;
+Merciless Ice Deck;
+Merciless Life Deck*F2;
+Merciless Myth Deck;
+Merciless Storm Deck;
+Supreme Stability Deck;
+
+| items =
+Cargo*F2*WMV;
+Lemuria Noir Combat Theme;
+Lemuria Telos Theme 2;
+Lemuria Telos Theme 4;
+Periodic Table Poster*F2*WMV;
+Puzzle Cube;
+
+| cards =
+Baby Sunbird;
+Berserk;
+Brilliant Light;
+Dream Shield;
+Elemental Trap;
+Ether Shield;
+Frostbite*F2*WMV;
+Galvanic Field;
+Guidance;
+Mass Death Prism;
+Mass Ice Prism*F2*WMV;
+Mass Triage;
+Putrid Bug Spray;
+Storm Shield*F2*WMV;
+Supreme Sunburst*F2;
+
+| reagents =
+Aquamarine*F2;
+Fish Fin;
+Glass Sliver;
+Golden Pearl;
+Mithril;
+Scales*F2*WMV;
+Silver*F2*WMV;
+Stardust;
+Steel;
+Sunstone*F2*WMV;
+Synthonium*F3;
+Tungsten*F3*WMV;
+
+| spellements =
+Barbarian's Saga*BR;
+Blast Off!*BR;
+Climaclysm*BR;
+Dark & Stormy*BR;
+Freeze Ray*BR;
+Grrnadier*BR;
+Grim Reader*BR;
+Iron Sultan*BR;
+Lamassu*BR;
+Lord of the Jungle*BR;
+Mockenspiel*BR;
+Nested Fury*BR;
+Old One's Endgame*BR;
+Qismah's Curse*BR;
+Raging Bull*BR;
+Rusalka's Wrath*BR;
+Sand Wurm*BR;
+Scion of Balance*BR;
+Scion of Death*BR;
+Scion of Fire*BR;
+Scion of Ice*BR;
+Scion of Life*BR;
+Scion of Myth*BR;
+Scion of Storm*BR;
+Scorching Scimitars*BR;
+Shatterhorn*BR;
+S'more Machine*BR;
+Snack Attack*BR;
+Snake Charmer*BR;
+Snowball Barrage*BR;
+Sound of Musicology*BR;
+Tatzlewurm Terror*BR;
+Winged Sorrow*BR;
+Wings of Fate*BR;
+Witch's House Call*BR;
+
+| snacks =
+Bell Pepper Steak*F2*WMV;
+Bread Fruit Fruit;
+Candlenut;
+Chili Peppers*F2*WMV;
+Desparagus Salad*F2*WMV;
+Fire Cracker;
+Frozen Perogies;
+Golden Candy Bar;
+Golden Peanut;
+Golden Squash;
+Hickory Chicory;
+Hive Rinds;
+Kraken Jacks;
+Large Fish;
+Marzipan Maize;
+Moon Pie;
+MooShu Cheddar;
+Pineapple Spears;
+Star Cookie;
+
+| jewels =
+Animate Skeleton Onyx;
+Balance-Eye Citrine;
+Dazzling Accurate Jade +14%;
+Dazzling Blocking Jade +19;
+Dazzling Blocking Onyx +19;
+Dazzling Defense Jade +58;
+Death-Boon Onyx;
+Fire-Away Ruby;
+Fire-Shot Ruby;
+Ice Assailant Sapphire;
+Ice Striker Sapphire;
+Ice-Away Sapphire;
+Ice-Boon Sapphire*F2;
+Ice-Dealer Sapphire;
+Life-Bringer Jade;
+Life-Shot Jade;
+Lively Opal;
+Myth-Eye Peridot;
+Storm-Away Amethyst;
+Storm-Boon Amethyst;
+Storm-Eye Amethyst;
+Storm-Shot Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Bamboo Shoots;
+Bell Pepper;
+Blue Huckleberries*F2*WMV;
+Boom Shroom;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Cornbread Fruit Bush;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Face Palm;
+Fish on a Vine;
+Fortune Cookie Tree;
+Honey Sickle;
+Ivy League*CR;
+King Parsley*CR;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Missile Toe;
+Pink Huckleberries;
+Prickly Bear Cactus;
+Purple Snow Apples;
+Queen Crape Myrtle;
+Red Couch Potatoes;
+Red Grapes of Wrath;
+Red Huckleberries*F2;
+Rotten Beets;
+Saw Palmetto;
+Sugar Khrystal*CR;
+Sword Fern*CR;
+Tiger Lily (Seed);
+Vampire Carrots*F2;
+Yellow Bell Pepper*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

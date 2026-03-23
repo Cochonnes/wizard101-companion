@@ -1,0 +1,105 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 14,925
+| crecla = Irk
+| school = Myth
+| masteries =
+Life;
+
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical =
+446 Any;
+
+| criticalblock =
+537 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Storm;
+
+| incresist =
+41% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+71% Myth;
+
+| outhealing =
+24%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wallaru
+| location = Wobbegong Territory
+| subloc1 = Freddie's Dreamscape
+| descrip =
+Confusion is considered a Minion to {{Link|Creature|Dream Freddie}}. All drops and cheats are recorded on that page.
+
+| speech =
+
+| cheatnotes =
+
+| spellnotes =
+*Despite its description, Blood Bat deals 10% max Health Damage.
+*Confusion's Damage Spells & Dryad can target either side of the duel.
+
+| casts =
+Dryad;
+Donate Shadow;
+Blood Bat (10% Health);
+Imp (10% Health);
+Fire Cat (10% Health);
+Frost Beetle (10% Health);
+Thunder Snake (10% Health);
+Dark Sprite (10% Health);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

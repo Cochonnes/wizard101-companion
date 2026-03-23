@@ -1,0 +1,247 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 13,200
+| crecla = Bull
+| school = Death
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| outpierce =
+26%;
+
+| outboost =
+130%;
+
+| incboost =
+5% Life;
+
+| incresist =
+73% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+
+| minions =
+
+| randomminions =
+Moo Crew (Life);
+Gray Reaper (Ice);
+Gray Reaper (Shadow);
+
+| totalminions = 2
+| world = Lemuria
+| location = Heap
+| subloc1 = Chatty Cafe
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*Crime Mime receives an additional third Minion if more than two Wizards are present.
+
+| speech =
+
+| spellnotes =
+*Casts a protected Deathblade (+40%)
+
+| casts =
+Virulence (6 Rounds);
+Virulent Plague;
+Bad Juju;
+Deathblade (+40%);
+Dark Tribute;
+Mass Feint (+70%);
+Malediction;
+Empower;
+Ship of Fools (Tier 5b);
+Qismah's Curse;
+Natural Attack (Death 105-210-315-420);
+Call of Khrulhu;
+Winged Sorrow;
+Grim Reader (Tier 3a);
+Monster Mash (Tier 5a);
+
+| quests =
+Worst Criminal Ever;
+
+| dropnotes =
+If a Wizard has obtained the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge and has not obtained the '''[[Basic:Novus Badges|Ender of an Aeon]]''' Badge, the following drops will be available:
+*{{Icon|Spellement}} 5 Spellements will drop each time from '''any''' School for their respective Polaris, Mirage, Empyrea, Karamelle and Lemuria Spells.
+If a Wizard has obtained the ''Ender of an Aeon'' badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of the Hall of Heroes to acquire a [[Item:Level Scaling Elixir - 150|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+376 - 472;
+
+| hats =
+Supreme Barbarian Hat;
+
+| robes =
+Supreme Ferocious Robe;
+
+| boots =
+Supreme Preservation Shoes;
+
+| athames =
+
+| amulets =
+Supreme Volcanic Talisman;
+
+| rings =
+Supreme Deadly Ring;
+Supreme Electric Ring;
+Supreme Firewall Ring;
+Supreme Old Judge Ring;
+Supreme Stability Ring;
+Supreme Undaunting Ring;
+Supreme Undead Ring;
+Supreme Volcanic Ring;
+
+| wands =
+
+| decks =
+
+| items =
+Cargo;
+Periodic Table Poster;
+Puzzle Cube*F2;
+
+| cards =
+Berserk;
+Blaze Beetle;
+Cat Thug;
+Dream Shield;
+Elemental Defuse;
+Elemental Trap;
+Flute Symphony;
+Green Widow;
+Triage;
+
+| reagents =
+Brass*F5;
+Bronze Gear;
+Cobalt*F3;
+Ectoplasm*F2*WMV;
+Nickel*F3;
+Scales;
+Spider Silk*F2*WMV;
+Synthonium*F2;
+Tin*F2;
+
+| spellements =
+Barbarian's Saga*BR;
+Blast Off!*BR;
+Climaclysm*BR;
+Dark & Stormy*BR;
+Freeze Ray*BR;
+Grrnadier*BR;
+Grim Reader*BR;
+Iron Sultan*BR;
+Lamassu*BR;
+Lord of the Jungle*BR;
+Mockenspiel*BR;
+Nested Fury*BR;
+Old One's Endgame*BR;
+Qismah's Curse*BR;
+Raging Bull*BR;
+Rusalka's Wrath*BR;
+Sand Wurm*BR;
+Scion of Balance*BR;
+Scion of Death*BR;
+Scion of Fire*BR;
+Scion of Ice*BR;
+Scion of Life*BR;
+Scion of Myth*BR;
+Scion of Storm*BR;
+Scorching Scimitars*BR;
+Shatterhorn*BR;
+S'more Machine*BR;
+Snack Attack*BR;
+Snake Charmer*BR;
+Snowball Barrage*BR;
+Sound of Musicology*BR;
+Tatzlewurm Terror*BR;
+Winged Sorrow*BR;
+Wings of Fate*BR;
+Witch's House Call*BR;
+
+| snacks =
+Black Sun Seeds;
+Chilly Con Queso;
+Golden Biscuit;
+Huge Ice Cream;
+Large Watermelon;
+Pineapple Spears;
+Potato Chips;
+Sliced Watermelon*F3;
+Squash;
+Sugar Donut;
+Super Cold Popsicle;
+Tiny Fish;
+Tomato Soup*F2*WMV;
+
+| jewels =
+Balance-Boon Citrine;
+Dazzling Accurate Citrine +14%;
+Dazzling Accurate Ruby +14%;
+Dazzling Blocking Sapphire +19;
+Dazzling Defense Amethyst +60;
+Dazzling Defense Citrine +60;
+Dazzling Defense Opal +29;
+Dog Tracy Amethyst*F3;
+Fire-Boon Ruby;
+Fire-Sniper Ruby;
+Life-Giver Jade;
+Life-Proof Jade;
+Sparkling Accurate Onyx +13%;
+Sparkling Accurate Ruby +13%;
+Sparkling Critical Ruby +17;
+Sparkling Damage Hematite +54;
+Sparkling Damage Jade +27;
+Sparkling Damage Onyx +27;
+Sparkling Defense Jade +53;
+Sparkling Defense Opal +27;
+Sparkling Health Opal +117;
+Storm-Proof Amethyst;
+Storm-Shot Amethyst;
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears*F2;
+Dandelion;
+Deadly Fly Trap*F2;
+Evil Magma Peas*CR*F2;
+Fickle Pickle;
+Fish on a Vine;
+Goose Tree;
+Helephant Ears;
+Ivy League*CR;
+Orange Bell Pepper*CR;
+Pink Huckleberries*F2;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Purple Snow Apples;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Red Couch Potatoes*F2;
+Red Huckleberries;
+Rotten Beets*F2*WMV;
+Rye Bread Fruit Bush;
+Saw Palmetto*F2;
+Snap Dragon;
+Ultra Fly Trap;
+Vampire Carrots*F2*WMV;
+White Desparagus;
+Yellow Bell Pepper*F2;
+
+| mounts =
+
+| spells =
+
+}}

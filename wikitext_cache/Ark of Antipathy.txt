@@ -1,0 +1,209 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,920
+| crecla = Mimic
+| school = Balance
+| shadowslots = 1
+| startpips = 3
+| powerpips = Yes
+| critical =
+95;
+
+| criticalblock =
+77;
+
+| outpierce =
+3%;
+
+| outboost =
+65%;
+
+| incboost =
+5% Myth, Life, Death;
+
+| incresist =
+30% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Mirage
+| location = Rubal Wastes
+| subloc1 = Halls of Confusion
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Berserk;
+Elemental Shield (-55%);
+Spirit Shield (-55%);
+Dragonblade;
+Loremaster;
+Natural Attack (Balance 110-220-330);
+Savage Paw;
+Gaze of Fate;
+Power Nova (530);
+Ra (635-715);
+Judgement (125);
+
+| quests =
+Halls of Confusion;
+
+| gold =
+253 - 445;
+
+| hats =
+Sand Sea Cowl of Decorum;
+
+| robes =
+Vizier's Raiment of Bustle;
+Zruvan Raiment of Amity*F2*WMV;
+Zruvan Raiment of Mettle;
+
+| boots =
+
+| athames =
+Sand Sea Dagger of Ashes;
+
+| amulets =
+Kobra Choker of Flashfloods;
+Kobra Choker of Fury;
+
+| rings =
+Sand Sea Ring of Explosion;
+
+| wands =
+Rubal Bow of Conflagration;
+Rubal Sleetfall Bow;
+Voltaic Durvish Armaments;
+Wiley Durvish Armaments;
+
+| decks =
+Hand of Kobra Acumen;
+Sand Sea Hand of Ashes;
+Sand Sea Hand of Emptiness;
+Sand Sea Hand of Hardiness;
+
+| items =
+Mirage Canyon Combat Theme;
+Mirage Caravan Theme;
+Mirage City Theme;
+Mirage Desert Canyons Theme;
+Mirage Palace Theme;
+Mirage Spider Speaks Theme;
+
+| cards =
+Astraphobia;
+Combustion;
+Counterforce*F2*WMV;
+Frostfang;
+Namaste;
+Wings of Fate*F2*WMV;
+
+| reagents =
+Aether*F7*WMV;
+Agave Leaves*F2*WMV;
+Agave Nectar;
+Amber;
+Amber Dust*F3*WMV;
+Aquamarine*F4*WMV;
+Astral Shard*F5*WMV;
+Draconium*F2;
+Fire Blossom*F4*WMV;
+Golden Pearl*F10*WMV;
+Iridium;
+Merle's Whisker;
+Mithril*F4*WMV;
+Orichalcum;
+Scales*F4*WMV;
+Silver*F5*WMV;
+Stardust*F2*WMV;
+Steel*F4*WMV;
+Sunstone*F5*WMV;
+Titanium*F3*WMV;
+Tungsten;
+Turquoise*F4*WMV;
+Vine*F2*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F2;
+Beetle Cream Soda*F3*WMV;
+Chalupacabra*F2;
+Eye Candy*F2*WMV;
+Hard Boiled Beetle Eggs;
+Hot Cross Buns*F3*WMV;
+Mustachios;
+Satyr Chow;
+Ships 'n' Queso;
+Veggie Juice;
+
+| jewels =
+Reliquary Opal;
+Shiny Blocking Jade +16;
+Shiny Blocking Ruby +16;
+Shiny Critical Amethyst +16;
+Shiny Critical Jade +16;
+Shiny Defense Hematite +52;
+Shiny Defense Sapphire +52;
+Shiny Health Opal +111*F2;
+Shiny Health Opal +112;
+Shiny Health Opal +113*F3*WMV;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47;
+
+| pins =
+
+| pets =
+MaCaw*CR*F3*WMV;
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Angora Bunny Ears;
+Baby Carrots;
+Bell Pepper*F2;
+Blue Huckleberries*F2;
+Boiled Peanuts;
+Boom Shroom;
+Boon Tree*CR*F2;
+Bread Fruit Bush;
+Cornbread Fruit Bush*F3*WMV;
+Couch Potatoes*CR;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Fiery Boom Shroom;
+Golden Couch Potatoes;
+Grapes of Wrath*CR*F2*WMV;
+Honey Sickle;
+Ivy League*CR;
+Ninja Fig*CR*F2*WMV;
+Orange Bell Pepper;
+Pink Huckleberries;
+Pink Laugh-O-Dil;
+Purple Bell Pepper;
+Red Couch Potatoes;
+Rye Bread Fruit Bush*F2;
+Snow Apples*F2*WMV;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Sunion*CR;
+Sword Fern*CR;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

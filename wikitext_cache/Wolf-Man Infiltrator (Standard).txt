@@ -1,0 +1,106 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 15,865
+| crecla = Wolf-Man
+| school = Myth
+| school2 = Moon
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+572 Myth;
+
+| criticalblock =
+167 Any;
+
+| outpierce =
+22%;
+
+| outboost =
+114%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+39% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+69% Myth;
+
+| outhealing =
+11%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Mysterious Werewolf (Wolf-Man Infiltrator, Standard);
+
+| world = Darkmoor
+| location = Howling Lands
+| subloc1 = Overgrown Estate (Standard)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Afterlife}} ''"*growl* I'll get you yet."'' - When Mysterious Werewolf is defeated, he will revive himself for 100% of his max health and will exit combat at the end of the turn.
+
+'''Cheat Cycle'''
+
+This cheat cycle repeats every 4 rounds as long as the Mysterious Werewolf is still alive.
+*{{Icon|Blade}} ''"Sharpen your claws!"'' - At the beginning of the first round in this cycle, Mysterious Werewolf will cast a special version of {{Link|Spell|Bladestorm}} that applies two +30% damage charms to all allies.
+*{{Icon|Shield}} ''"Brace yourself!"'' - At the beginning of the second round in this cycle, Mysterious Werewolf will cast a -40% version of {{Link|Spell|Legion Shield}}.
+
+| spellnotes =
+
+| casts =
+Reliquary;
+Mass Myth Trap;
+Cleanse Ward;
+Blood Bat (Tier 5a);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

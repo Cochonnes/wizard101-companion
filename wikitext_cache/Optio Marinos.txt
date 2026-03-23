@@ -1,0 +1,140 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,590
+| crecla = Shark
+| school = Myth
+| startpips = 4
+| powerpips = Yes
+| critical =
+25 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm;
+
+| incresist =
+35% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Celestia
+| location = The Chancel
+| descrip =
+
+| speech =
+
+| spellnotes =
+ 
+| casts =
+Mythblade;
+Myth Trap;
+Yellow Troll;
+Humongofrog;
+Myth Imp;
+Minotaur;
+Earthquake;
+Orthrus;
+Natural Attack (Myth 100x, 80%);
+
+| quests =
+The Big Guy;
+
+| gold =
+46 - 50;
+
+| hats =
+Inspired Mask*F3*WMV;
+Mistral Mantle*F2;
+
+| robes =
+Compatible Clothing*F2;
+Timeless Tunic*F3*WMV;
+
+| boots =
+Equilibrium Striders*F5*WMV;
+Everlasting Footguards*F2*WMV;
+
+| athames =
+Marinos's Lancet*F3*WMV;
+Shivering Shortblade*F3*WMV;
+
+| amulets =
+Amulet of Agony*F2*WMV;
+Scarecrow's Sinister Vial*F2*WMV;
+
+| rings =
+Ring of Rime*F2*WMV;
+Ring of the Maelstrom*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Tall Celestian Column*F4*WMV;
+
+| cards =
+Darkwind;
+Empower*F4*WMV;
+Gargantuan*F3*WMV;
+Minotaur;
+Unstoppable*F4*WMV;
+
+| reagents =
+Brass;
+Bronze;
+Cobalt;
+Fish Fin*F5*WMV;
+Nickel*F2;
+Sandstone*F5*WMV;
+Scales*F2*WMV;
+Sunstone*F3*WMV;
+
+| spellements =
+
+| snacks =
+Delicious Cookie*F2;
+Glowing Star Fruit;
+Glowing Taffy*F2;
+Spicy Drumstick*F2*WMV;
+Strawberry Cupcake*F3*WMV;
+
+| jewels =
+Blade Flurry Amethyst;
+Mass Ice Prism Sapphire;
+Mass Life Prism Jade;
+Piercemonger Peridot;
+Plain Blocking Onyx +6*F2;
+Plain Damage Amethyst +15;
+Reshuffle Citrine;
+Screen Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F3*WMV;
+Fish on a Vine*F2*WMV;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F5*WMV;
+Silver Trumpet Vine*CR*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

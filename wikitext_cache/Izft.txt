@@ -1,0 +1,236 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 6,300
+| crecla = Raptor
+| crecla2 = Dino
+| school = Myth
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Condemned Mander;
+Condemned Mander;
+Condemned Mander;
+
+| world = Krokotopia
+| location = Upper Zigazag
+| subloc1 = House of Scales
+| descrip =
+
+| speech =
+:''"What? You're still alive! Why is it so hard to find good help these days? Aarg! Fine! I'll prepare you myself!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+He don't need no stinkin' vowels. Well, except the one.
+
+| extract class =
+Dinos;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Damage over Time}} ''"You can have this one!"'' - If a Damage over Time is cast on Izft, he will cast {{Link|Spell|Shift}} on a random Wizard.
+*{{Icon|Minion}}{{Icon|Health}} ''"Your usefulness has run out!"'' - When any Minion gets less than 25% of its maximum Health, Izft will cheat-cast a {{Link|Spell|Draw Power}} to the damaged Minion, one Minion per Round.
+**If a Minion is defeated by Izft and Izft gets defeated in the same Round, the Minion will respawn.
+**Izft will cast Draw Power on himself if there are only two Minions and both get defeated on the same Round. (One gets sacrificed by Izft, and the other is defeated by a Wizard).
+***Izft will respawn after the battle.
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Mythblade;
+Bladestorm;
+Myth Prism;
+Hex;
+Stun;
+Blinding Light;
+Myth Banshee (170);
+Natural Attack (Myth 115-225-335);
+Legendary Treant (445);
+Earthquake;
+Medusa;
+
+| quests =
+Judgment Day;
+
+| gold =
+209 - 295;
+
+| hats =
+Ancient Rebus Headgear*F3*WMV;
+Anubis' Crown of Judgment*F4;
+Burning Scales Headdress*F2*WMV;
+Crown of the Frozen Desert*F2;
+Hands of Anubis Mantle*F4*WMV;
+Headgear of Dune Storms*F2*WMV;
+Soul Devourer's Greathelm*F2;
+
+| robes =
+Ancient Rebus Vestment;
+Anubis' Robes of Guidance*F3;
+Anubis' Robes of Rebirth*F2;
+Anubis' Tunic of Judgment;
+Armor of the Devoured;
+Burning Scales Raiment*F2*WMV;
+Cold Bones Raiment;
+Dune Storm Armor*F2*WMV;
+Garb of the Ancient Sage;
+Hands of Anubis Uniform*F2*WMV;
+Robes of the Fire Sands;
+Robes of the Frozen Desert;
+Sandsqualls Vestment*F2*WMV;
+Soul Devourer's Tunic;
+
+| boots =
+Ancient Rebus Sandals;
+Boots of the Burning Scales;
+Hands of Anubis Boots;
+Shoes of Anubis' Judgment;
+
+| athames =
+Blade of Anubis' Verdict;
+Dagger of the Cold Bones;
+Izft's Dirk of Incarnation;
+
+| amulets =
+
+| rings =
+Anubis' Ring of Prudence;
+Baruti's Seal of Revival;
+House of Scales Iceband;
+Izft's Ring of Preparation;
+Loop of the Duat Gate;
+Mander Mummy's Circlet;
+Signet of the Devourer;
+
+| wands =
+Anubis' Staff of Redress;
+Stave of the Devoured;
+
+| decks =
+Anubis' Cards of Veracity;
+Array of the Archaic Rebus;
+Case of the Virtuous Soul;
+Deck of Sand Squalls;
+
+| items =
+Stone Skeleton Key*CR*F2*WMV;
+
+| cards =
+Efreet*F3*WMV;
+Fire Serpent*F4*WMV;
+Krokotillian*F3*WMV;
+Locust Swarm*F5*WMV;
+Ra*F4*WMV;
+Scarab*F3*WMV;
+Scorpion*F3*WMV;
+Snow Angel;
+Stone Colossus*F2*WMV;
+Sunbird*F4*WMV;
+
+| reagents =
+Amber Dust;
+Bone*F3*WMV;
+Brass*F3*WMV;
+Bronze Gear*F2;
+Cobalt*F3*WMV;
+Copper;
+Ectoplasm*F2;
+Lead;
+Leather Straps;
+Merle's Whisker;
+Nickel;
+Spider Silk*F4*WMV;
+Steel;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2;
+Cheese Broccoli*F2;
+Chocolate Strawberry*F5*WMV;
+Cracker;
+Glowing Star Fruit;
+Green Grapes;
+Gummy Firecat*F2;
+Jelly Baby;
+Kola Nuts;
+Nettle Root;
+Sugar Donut*F3*WMV;
+Tiny Fish*F3*WMV;
+
+| jewels =
+Balanceblade Talent Citrine;
+Blemished Damage Citrine +12;
+Blemished Damage Peridot +12;
+Blemished Defense Onyx +24;
+Button Tom Peridot;
+Dull Accurate Peridot +6%;
+Dull Accurate Ruby +6%;
+Dull Blocking Amethyst +3;
+Dull Critical Amethyst +4;
+Dull Health Opal +46;
+Dull Piercing Citrine +2%;
+Dull Piercing Sapphire +2%;
+Mass Death Prism Onyx;
+Mass Life Prism Jade;
+Mass Myth Prism Peridot;
+Plain Blocking Citrine +6;
+Plain Blocking Jade +6;
+Plain Blocking Onyx +6;
+Plain Blocking Opal +3;
+Plain Damage Onyx +15;
+Plain Defense Opal +16;
+Reshuffle Citrine;
+
+| pins = 
+
+| pets =
+Rooted Grimoire*F6*WMV;
+
+| seeds =
+Cornbread Fruit Bush;
+Key Limes*CR;
+Snap Dragon;
+Venus Fly Trap;
+White Laugh-O-Dil*F2;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,169 @@
+{{Stub|cheat investigation / confirmation}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 15,000
+| crecla = Grendel
+| school = Life
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Brume Goblin (Tier 5);
+Brume Goblin (Tier 5);
+Brume Goblin (Tier 5);
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 5)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"Loathed one, I have been anguished since I first heard news of your struggle with Tyrfing, my son. I will ruin you, and then exact vengeance upon Jarl Whiteshield and all his kin! Your heads will serve as warning to all who seek out Wretched Elexorien!"''
+
+| cheatnotes =
+*{{Icon|Weakness}} On the first round, and every three rounds after, Wretched Elexorian (Tier 5) will interrupt-cast Weakness Treasure Cards on all Wizards.
+*{{Icon|Dispel}} Every few Rounds, he will interrupt-cast a "Dispel All" Spell on one random Wizard. ''Need confirmation for the "Spell cast" and when it is triggered (number of Rounds?).''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Life Damage.
+
+| casts =
+Cycle of Life;
+Mend;
+Guiding Light;
+Brilliant Light;
+Weakness*TC;
+Regenerate;
+Rebirth (730, 90%);
+Lifeblade (+40%);
+Mana Burn;
+Sanctuary;
+Luminous Weaver;
+Enraged Forest Lord;
+Spinysaur;
+
+| quests =
+Hall of the Bear;
+
+| gold =
+251 - 282;
+
+| hats =
+
+| robes =
+Armor of Many Winters (Level 90+)*CR;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Bloodvine Shield;
+Hanging Lantern (Winterbane Hall)*F2*WMV;
+Lantern Post;
+Minor Runestone*F2*WMV;
+Standing Sconce;
+Tree Lantern;
+Weapons Cache*F2*WMV;
+Wooden Wheelbarrow*F2;
+
+| cards =
+Blizzard;
+Blue Phoenix*F2*WMV;
+Colossus*F2*WMV;
+Frost Beetle;
+Frost Giant;
+Frostbite;
+Harvest Lord;
+Icebird;
+Leviathan;
+Orthrus;
+Regenerate*F2;
+Satyr;
+Skeletal Dragon;
+Snow Angel;
+Snow Serpent;
+Storm Bird*F2;
+Sunbird;
+
+| reagents =
+Acorn*F2*WMV;
+Blood Moss;
+Bronze;
+Cobalt*F2;
+Deep Mushroom*F2*WMV;
+Mist Wood*F3*WMV;
+Nickel;
+Nightshade;
+Ore;
+Red Mandrake*F2*WMV;
+Spider Silk*F3*WMV;
+
+| spellements =
+
+| snacks =
+Black Sun Seeds*F2;
+Bunch of Figs*F2*WMV;
+Caramel Corn;
+Drumstick;
+Fried Worms;
+Frozen Snails;
+Fruit and Nut Bar*F2;
+Hard Boiled Beetle Eggs*F2*WMV;
+Lime Peel Rickey*F2*WMV;
+Peppercorn;
+Pollen Bombs*F2*WMV;
+Simple Sugar Pop;
+Spicy Drumstick;
+Tiny Fish*F2;
+Wormy Apple;
+
+| jewels =
+
+| pins =
+
+| pets =
+Raven*CR;
+Red Cap*CR;
+
+| seeds =
+Evil Snow Peas*F2*WMV;
+Frozen Fly Trap;
+White Desparagus*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,180 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,120
+| crecla = Pig
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Otomo Supply Runner;
+
+| world = MooShu
+| location = Tatakai Outpost
+| subloc1 = Ashikata's Lair
+| descrip =
+*Two additional Otomo Supply Runners will appear if more than two Wizards are present.
+
+| speech =
+:''"Let me show you what pain truly is!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+Refuse to buy anything Ashikata is selling. She's been known to show you one thing but give you another.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold =
+}}
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Sunbird;
+Meteor Strike;
+Raging Kraken (Fire);
+Colossus (Fire);
+Natural Attack (Fire 100x);
+Heck Hound;
+Leprechaun;
+Cyclops;
+Vampire;
+
+| quests =
+Always Have MooShu;
+
+| gold =
+55 - 71;
+
+| hats =
+Ashikata's Hat of Inflection;
+Cap of Dilemma;
+Cap of Hinderance;
+Cowl of Arias;
+Friendly Helm*F2*WMV;
+Hat of Charity*F2*WMV;
+Headwraps of Anthems*F3*WMV;
+Headwraps of the Whim*F3*WMV;
+Hood of Chimes*F2*WMV;
+Shroud of Deliberation;
+Sprightly Hood*F3;
+
+| robes =
+Ashikata's Robe;
+Engrossed Robes;
+Proficient Cloak;
+Pupil's Uniform;
+Robe of the Universe;
+Tunic of Scruples;
+Vestment of Fiction;
+
+| boots =
+Ashikata's Solitary Sandals;
+Benign Slippers;
+Boots of Consideration*F3*WMV;
+Concordant Shoes*F2;
+Gallant Sandals*F2*WMV;
+Prospective Boots;
+Warbled Shoes;
+Zippy Footwraps;
+
+| athames =
+Ashikata's Calculated Kris;
+Kris of the Pensive Ones*F5*WMV;
+Shortblade of a Daydreamer*F2;
+
+| amulets =
+
+| rings =
+Band of Hope*F2*WMV;
+Drifting Ring*F2;
+Ring of Detachment;
+
+| wands =
+Ashikata's Staff of Intent;
+Hingen's Staff of Egoism;
+
+| decks =
+
+| items =
+Fall Tree*F3*WMV;
+Round Gold Chest;
+Stone Base;
+Wooden Cart*F2*WMV;
+
+| cards =
+Balefrost;
+Doom and Gloom;
+Ice Wyvern;
+Ninja Pigs*F2*WMV;
+
+| reagents =
+Bone*F5*WMV;
+Copper*F2*WMV;
+Iron;
+Nickel;
+Pyrite;
+
+| spellements =
+
+| snacks =
+Crunch Apple;
+Fire Cracker;
+Golden Peanut*F2;
+Golden Squash*F2;
+Large Fish;
+Square Root*F2*WMV;
+
+| jewels =
+Blemished Defense Amethyst +21;
+Blemished Defense Jade +21;
+Blemished Defense Onyx +21;
+Flawed Health Opal +32;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+Maelstrom Snap Dragon;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

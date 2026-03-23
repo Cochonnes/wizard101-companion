@@ -1,0 +1,111 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 5,350
+| crecla = Undead
+| school = Ice
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Ice;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Fire, Myth;
+
+| incresist =
+30% Storm, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Halls of Taweret
+| subloc1 = Trials of Treebow
+| descrip =
+*Defeating Haint Nick is part of the Novice Life Weaving quest, ''"Life is Good"''. Wizards can also defeat Haint Nick as one of their Life Weaving lessons, which awards the badge, [[Basic:Life Weaving Badges|Saved Yuletide and the Elves]].
+
+| speech =
+:'''Haint Nick:''' ''"Have you brought me offerings, little elf? Toys for Death, so it can release my soul from this, the place of my Slaying?"''
+
+:'''{{Link|NPC|Aren Treebow}}:''' ''"And if I did release you, what would you do?"''
+
+:'''Haint Nick:''' ''"Whatever I wanted. And what I want more than anything... is fear. It seasons the soul... and how I hunger for the souls. I dream of scared children desperately hiding under trees to escape my wrath, offerings of toys and treats to blunt my fury. And none of it will work, nothing could possibly sate my appetite, but I will gorge myself all the same on soul after soul... Each basted in the terror of the doomed. Until, finally, the Spiral has been culled and there is nothing left to eat."''
+
+:'''Aren Treebow:''' ''"Thought you might say that. That's what all the stories say about you, the Yuletide Ghost. But it's not death that drives you; it's infamy, it's legend. Time you had a dose of reality."''
+
+| spellnotes =
+
+| casts =
+Tower Shield;
+Ice Trap;
+Ice Fuel;
+Evil Snowman (Tier 2b);
+Deermouse Trap (Tier 2a);
+Volcanic Golem (Tier 2b);
+Ice Wyvern (Tier 2b);
+Winter Moon (Tier 2b);
+
+| quests =
+Life is Good;
+Happy Ghoultide;
+
+| gold =
+0 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Elf Gold Idol (Life);
+Weft Yarn @ 60 Weft Yarn;
+Weft Yarn @ 65 Weft Yarn;
+Weft Yarn @ 70 Weft Yarn;
+Weft Yarn @ 100 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

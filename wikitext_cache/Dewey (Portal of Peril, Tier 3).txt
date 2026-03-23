@@ -1,0 +1,145 @@
+{{Stub|confirmation of cheats.}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 14,175
+| crecla = Crab
+| school = Death
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+14%;
+
+| outboost =
+94%;
+
+| incboost =
+30% Life;
+
+| incresist =
+32% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+62% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Luminous Troglodyte (Portal of Peril, Tier 3);
+Luminous Troglodyte (Portal of Peril, Tier 3);
+
+| world = Portal of Peril
+| location = Fantastic Voyage Expedition (Portal of Peril)
+| subloc1 = Data Caverns (Portal of Peril)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tisk, tisk! You'll have to pay the late fees!"'' - If a Wizard joins the Duel after the first Round, then Dewey will interrupt-cast a Sun version of Mana Burn that deals no Damage and removes 2 Pips.
+*{{Icon|Damage}} ''"This racket will not be tolerated!"'' - If a Wizard casts a Damage Spell on an enemy, then Dewey will interrupt-cast a Shield of the Damage's School on the recipient of the Damage.
+**Spells that deal Damage multiple times or to multiple targets will result in Dewey casting a Shield for each hit that occurred.
+**Balance Damage will result in Dewey interrupt-casting {{Link|Spell|Tower Shield}} on the recipient.
+*{{Icon|Damage over Time}} ''"I have to do everything around here!"'' - If a Wizard casts a Damage over Time Spell on an enemy, then Dewey will interrupt-cast {{Link|Spell|Mass Triage}}.
+*''"Maybe this will quiet you down...''" - If three individual Blade spells are cast, Dewey will cast {{Link|Spell|Bad Juju}} on the last recipient. Dewey does not give any warning until the third Blade is cast.
+**If Dewey is defeated before his Minions, this cheat no longer triggers.
+*''"I'm sick of all this noise!"'' - If Dewey has at least four Shields at the end of a Round, then he will interrupt-cast {{Link|Spell|Orthrus (Tier 5b)}} on the Wizard with the highest threat, dealing Damage to the target and removing Shields from himself to apply two deferred Damage over Time effects on the target.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Death Damage for up to three Pips
+
+| casts =
+Dream Shield;
+Mass Infection;
+Deathblade;
+Feint;
+Deer Knight;
+Wraith;
+Scarecrow;
+King Artorius (Death);
+
+| quests =
+Fantastic Voyage;
+
+| dropnotes =
+Dewey will always drop one group of 5 and one group of 10 Fortune Coins, yielding a total of 15.
+
+| gold =
+43 - 73;
+
+| hats =
+Tiki Crown of Purity (Level 130+)*CR;
+Tiki Crown of Riptides (Level 50+)*CR;
+
+| robes =
+Tiki Armor of Riptides (Level 130+)*CR;
+Tiki Armor of Sacred Songs (Level 130+)*CR;
+
+| boots =
+Tiki Boots of Riptides (Level 130+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Dying Embers Tiki Torch (Level 130+)*CR;
+Frosty Stare Tiki Torch (Level 130+)*CR;
+Shocking Truth Tiki Torch (Level 130+)*CR;
+
+| decks =
+
+| items =
+
+| cards =
+Accurate;
+Dream Shield*F3*WMV;
+Ether Shield*F3*WMV;
+Giant;
+Glacial Shield;
+Keen Eyes*F2*WMV;
+Legend Shield*F2*WMV;
+Strong;
+Thermic Shield*F2*WMV;
+Volcanic Shield*F2;
+
+| reagents =
+Fortune Coin @ 5 Fortune Coins*F4*WMV;
+Fortune Coin @ 10 Fortune Coins*F4*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Frosty Fish*CR;
+Sun Bird;
+Tiki Kahuna*CR;
+
+| seeds =
+
+| mounts =
+Ancient Koi*7;
+Ancient Koi*PERM;
+
+| spells =
+
+| altimage = Dewey (Fantastic Voyage Expedition)
+
+}}

@@ -1,0 +1,186 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,280
+| crecla = Pig
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Otomo Battlemage;
+
+| world = MooShu
+| location = Crimson Fields
+| subloc1 = 
+| descrip =
+*Two additional {{Link|Creature|Otomo Scout}}s will appear if more than two Wizards are present.
+
+| speech =
+:''"You have shown skill to reach me, but this is where your luck runs out..."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+Katsumori is a known gambler and has an affinity for playing high risk games with his cards.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Spirit Armor;
+Smoke Screen;
+Weakness;
+Black Mantle;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Sunbird;
+Fire Shark;
+Meteor Strike;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Natural Attack (Fire 100x);
+Heck Hound;
+
+| quests =
+Warlord Katsumori;
+
+| gold =
+58 - 78;
+
+| hats =
+Cap of Dilemma;
+Cowl of Rhyming;
+Cowl of Soul-Searching*F2*WMV;
+Cowl of Watchfulness;
+Druidic Cowl;
+Hat of Discontent;
+Hat of the Eager;
+Katsumori's Effortless Helm;
+Stressed Mask*F2*WMV;
+
+| robes =
+Abstract Vestment*F2*WMV;
+Cloak of Deliberation;
+Druidic Tunic;
+Garments of Unrest*F3*WMV;
+Nunu's Twisted Uniform*F2*WMV;
+Warbled Cloak;
+
+| boots =
+Abstract Footwraps;
+Boots of Disillusion;
+Boots of the Lithe;
+Footwraps of Generations;
+Katsumori's Boots*F2*WMV;
+Shoes of Deliberation*F2;
+Shoes of Dreaming*F3;
+Slippers of the Lotus;
+
+| athames =
+Dagger of Detachment*F2;
+Katsumori's Blade*F2*WMV;
+Knife of Preoccupation*F2*WMV;
+
+| amulets =
+
+| rings =
+Band of Sandcastles*F2*WMV;
+Katsumori's Introspective Ring*F2*WMV;
+Katsumori's Pensive Ring;
+
+| wands =
+
+| decks =
+Katsumori's Deck;
+
+| items =
+Banking Table*F2;
+Fancy Bench;
+Fancy Lantern*F2;
+Grand Torii*F4*WMV;
+Pagoda Brazier;
+Stone Watchtower*F2*WMV;
+
+| cards =
+Black Mantle;
+Ice Wyvern;
+Pest Zapper*F2;
+Satyr;
+Skeletal Pirate;
+
+| reagents =
+Bone*F3*WMV;
+Cat Tail;
+Iron;
+Pyrite;
+Red Mandrake;
+Scrap Iron;
+Spider Silk*F3*WMV;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Crunch Apple;
+Fire Cracker;
+Golden Squash*F2;
+Large Fish*F2*WMV;
+Large Watermelon*F2*WMV;
+Square Root;
+
+| jewels =
+Blemished Defense Amethyst +21;
+Blemished Defense Jade +21;
+Blemished Defense Onyx +21;
+Blemished Defense Peridot +21;
+Blemished Defense Ruby +21;
+Blemished Defense Sapphire +21;
+Flawed Damage Opal +5;
+Flawed Health Opal +33;
+Storm-Shot Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

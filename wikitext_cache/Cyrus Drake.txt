@@ -1,0 +1,125 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 4,000
+| crecla = Wizard
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = Ravenwood
+| subloc1 = Myth Tower
+| descrip =
+Cyrus Drake is the Myth Teacher (who dislikes newcomers) of {{Link|Location|Ravenwood}} and [[NPC:Malistaire Drake|Malistaire's]] brother. He, unlike Malistaire, is on the good side. You fight him in order to gain access to {{Link|Location|Dragonspyre}}. This duel is not repeatable.
+
+| speech =
+:''"I need to know if you've any hope of surviving against my brother Malistaire. The only way I can be sure is to challenge you myself. Stand your ground!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Myth Damage per Pip
+
+| casts =
+Storm Shield;
+Weakness;
+Black Mantle;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Humongofrog;
+Minotaur;
+Earthquake;
+Scorpion;
+Sunbird;
+Storm Shark;
+
+| quests =
+Bad Blood;
+
+| gold =
+13 - 26;
+
+| hats =
+Cap of the Lithe;
+Hat of Enthusiasm;
+Shroud of Afterthoughts;
+
+| robes =
+Garments of Chants;
+Robe of Conceit;
+Robes of Struggling;
+Tunic of Preoccupation;
+
+| boots =
+Blended Wool Footwraps;
+Friendly Shoes;
+Industrial Slippers*F2;
+Meticulous Footwraps;
+Sandals of the Quick-Witted;
+Shoes of Struggling;
+
+| athames =
+Athame of the Lotus;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Mantis Tablet;
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Crunch Apple;
+Fire Cracker;
+Golden Peanut*F2;
+Golden Squash;
+Large Fish;
+Large Watermelon;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,171 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 12,425
+| crecla = Gorgon
+| school = Myth
+| shadowslots = 2
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+35%;
+
+| outboost =
+200%;
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = Garden of Hesperides
+| subloc1 = Stonegaze's Chamber
+| badge = Gorgon Grappler
+| descrip =
+Lady Stonegaze (Tier 4) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Immortal's Spellemental Pack}}.
+*This Tier is for level 110-{{MaxLevel}} Wizards.
+
+| speech =
+
+| cheatnotes =
+*''"Mind your gaze, lest ye be turned to stone!"'' - Lady Stonegaze (Tier 4) gives a warning at the beginning of the first Round. 
+*{{Icon|Polymorph}} ''"Haha! Another statue for my garden!"'' - If a Wizard casts any Spell on Lady Stonegaze (Tier 4), including AoE Spells, Traps, or Charms, she will Polymorph the Wizard into {{Link|Polymorph|Statue}} for 99 Rounds.
+**Polymorph has a deck of 77 Cards, all being {{Link|Spell|Pass}} Cards, except for one {{Link|Spell|Break Free (Myth)}} Card. The Pass Spells can be discarded and the Wizard may Pass normally to avoid a spell casting animation. The Wizard can be healed while polymorphed.
+**Stonegaze's Shadow-Enhanced Spells will remove Polymorph effects from the Wizard.
+**If Lady Stonegaze (Tier 4) is damaged by a Spell that is not from the Blindfolded Hits, she will use a Moon version of {{Link|Spell|Blessing}} to restore 100% max Health on herself.
+
+*{{Icon|Round}} At the start of every other Round, one of the following Spells is given to all Wizards who aren't Polymorphed:
+**{{GivesSpell|spells = 7|size = x150px|Blindfolded Hit (Balance, Tier 4)|Blindfolded Hit (Death, Tier 4)|Blindfolded Hit (Fire, Tier 4)|Blindfolded Hit (Ice, Tier 4)|Blindfolded Hit (Life, Tier 4)|Blindfolded Hit (Myth, Tier 4)|Blindfolded Hit (Storm, Tier 4)}}
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Mass Myth Trap;
+Mythic Fuel;
+Athena Battle Sight (Tier 5a);
+Snake Charmer;
+Mystic Colossus;
+Orthrus;
+Medusa;
+Queen Calypso (Tier 5b);
+Hephaestus (Tier 5);
+
+| quests =
+
+| gold =
+
+| hats =
+Aquilan Charioteer Kalkris (Level 130+)*CR;
+Aquilan Charioteer Kalkris (Level 140+)*CR;
+Aquilan Secutor Kalkris (Level 130+)*CR;
+Aquilan Secutor Kalkris (Level 140+)*CR*F2;
+Aquilan Velite Kalkris (Level 130+)*CR;
+Aquilan Velite Kalkris (Level 140+)*CR*F2;
+
+| robes =
+Aquilan Charioteer Hamata (Level 130+)*CR*F4;
+Aquilan Charioteer Hamata (Level 140+)*CR*F3;
+Aquilan Secutor Hamata (Level 130+)*CR*F2;
+Aquilan Secutor Hamata (Level 140+)*CR;
+Aquilan Velite Hamata (Level 130+)*CR;
+Aquilan Velite Hamata (Level 140+)*CR;
+
+| boots =
+Aquilan Charioteer Greaves (Level 130+)*CR;
+Aquilan Charioteer Greaves (Level 140+)*CR;
+Aquilan Secutor Greaves (Level 130+)*F2;
+Aquilan Secutor Greaves (Level 140+);
+Aquilan Velite Greaves (Level 130+);
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Aquilan Charioteer Lance (Level 130+)*CR;
+Aquilan Charioteer Lance (Level 140+)*CR*F2;
+Aquilan Secutor Lance (Level 130+)*CR*F2;
+Aquilan Secutor Lance (Level 140+)*CR;
+Aquilan Velite Lance (Level 130+)*CR;
+Aquilan Velite Lance (Level 140+)*CR*F2;
+
+| decks =
+
+| items =
+Aquila Atlantea Theme;
+Aquila Boss Combat Theme;
+Aquila Epic Combat Theme*F2;
+Aquila Tartarus Theme;
+Atlantean Arch;
+Banner of Apollo*F2;
+Ember Stone of Tartarus*F3;
+Gold Skeleton Key*CR;
+Hades the Unseen Mural*F4;
+Legendary Socket Wrench*F2;
+Nine Fathoms Pedestal*F6;
+Olympian Herb*F2;
+Stone Skeleton Key*CR*F4;
+Underworld Brazier;
+Wooden Skeleton Key*CR*F3;
+
+| cards =
+Athena Battle Sight*F5;
+Azoth*F21;
+Hephaestus*F3;
+Queen Calypso*F4;
+
+| reagents =
+
+| spellements =
+Athena Battle Sight*F24;
+Athena Battle Sight @ 2 Athena Battle Sight;
+Hephaestus*F23;
+Queen Calypso*F24;
+
+| snacks =
+
+| jewels =
+Dazzling Blocking Amethyst +20;
+Dazzling Damage Citrine +30;
+Dazzling Damage Hematite +60;
+Dazzling Defense Amethyst +57;
+Dazzling Defense Onyx +57;
+Dazzling Defense Ruby +57;
+Dazzling Defense Opal +30*F2;
+Handsome Fomori Sapphire;
+
+| pins =
+
+| pets =
+Bronze Golem*CR*F2;
+Enchanted Armament*CR;
+Golden Ram*CR*F2;
+Li'l Siren*CR;
+Mechanical Owl*CR*F2;
+
+| seeds =
+
+| mounts =
+Aquilan Dual Chariot*CR*PERM*F2;
+
+| spells =
+
+}}

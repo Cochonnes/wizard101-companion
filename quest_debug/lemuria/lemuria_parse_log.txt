@@ -1,0 +1,130 @@
+PARSE LOG — Lemuria
+============================================================
+
+AREA    : Wizard101
+AREA    : W101 Quest Guides
+AREA    : Dakota TitanHeart
+AREA    : Lemuria Main Quest Line
+AREA    : Lemuria Quest Line
+AREA    : Arcanum / Caravan / Alkali Barrows / Thieves’ Den
+QUEST#  1: Old is New Again                         [talk + explore + elite + mob + boss + interact]
+QUEST#  2: La Mort Et Lemuria                       [explore + interact + talk + cheat]
+AREA    : Ravenwood / Regents Square / Walruskberg / Forlorn Tayg
+QUEST#  3: Metaphor All                             [instance + explore + mob + elite]
+QUEST#  4: The Mountain of Badness                  [instance + explore + mob + interact + elite]
+QUEST#  5: Say The Magic Words                      [talk]
+QUEST#  6: The Lost Word                            [instance + explore + mob + interact + boss]
+QUEST#  7: Small World After All                    [talk + explore + interact]
+QUEST#  8: Lemur, Le Merrier                        [talk + explore]
+AREA    : Telos
+QUEST#  9: Lord of the Ringtails                    [explore + mob + talk]
+QUEST# 10: Sancless Job                             [explore + mob + boss + interact + talk]
+AREA    : Wildlands
+QUEST# 11: Where the Wildlands Are                  [explore + mob + talk]
+QUEST# 12: Looney Attunes                           [explore + interact]
+QUEST# 13: As Daseined                              [explore + talk]
+QUEST# 14: Tour De Telos                            [interact + explore + talk]
+QUEST# 15: Grease a Few Hooves                      [explore + mob + talk + collect]
+AREA    : Ursai Village / Wildlands
+QUEST# 16: Welcome to Bearadise                     [explore + talk + d&c]
+QUEST# 17: Bear Necessities                         [talk + interact + collect]
+QUEST# 18: Killapedeing Me Softly                   [d&c + talk + explore]
+QUEST# 19: Word, Sound & Power                      [talk + d&c + explore]
+QUEST# 20: Writ At Large                            [interact + talk]
+QUEST# 21: Real Lies                                [instance + mob + explore + cheat]
+QUEST# 22: Tosh,Oh!                                 [talk + collect + explore]
+AREA    : Ursai Village
+QUEST# 23: Gotta Go Up To Get Down                  [instance + explore + mob + boss]
+QUEST# 24: The Chicken’s Coup                       [explore + talk]
+QUEST# 25: Killawhat Now?                           [instance + explore + elite + boss]
+QUEST# 26: Existence Redefined                      [interact + talk]
+QUEST# 27: Bald-Faced Truth                         [explore + talk]
+AREA    : Telos / Wildlands
+QUEST# 28: From One Darkness To The Next            [interact + talk + explore]
+QUEST# 29: No Crane, No Gain                        [mob + talk + explore]
+AREA    : Night Forest
+QUEST# 30: Night Forest Of The Living Dead          [talk + interact + d&c]
+QUEST# 31: Gasp! Malughast!                         [talk + explore + cheat]
+QUEST# 32: Savage Taunts Of Solomon Crane           [explore + talk + interact]
+QUEST# 33: Scion, Sci-Off                           [interact + explore + solo + mob + talk]
+QUEST# 34: A Fool’s Rules                           [explore + talk]
+QUEST# 35: Super Ghosts And Ghouls                  [instance + explore + elite + cheat]
+QUEST# 36: Banishment Hammer                        [talk]
+AREA    : Wildlands
+QUEST# 37: Straight To The Wildlands                [mob + talk]
+AREA    : Night Forest
+QUEST# 38: Night Forest’s Watch                     [interact + talk]
+QUEST# 39: Apothecary Now                           [d&c + collect + talk]
+QUEST# 40: Worth 1000 Woes                          [talk + explore]
+QUEST# 41: Ghast Of Us                              [talk + explore + cheat]
+QUEST# 42: Solomon Joins The Party                  [explore + talk]
+AREA    : Badlands
+QUEST# 43: Being In The World                       [interact + explore + talk]
+QUEST# 44: The Duck Of Bronze                       [collect + interact + d&c + talk]
+QUEST# 45: Duck Savage Unbound!                     [explore + talk]
+QUEST# 46: Onward!                                  [explore + talk]
+AREA    : Mandoria
+QUEST# 47: The Lost Realm Of Mandoria               [mob + explore + interact + talk]
+QUEST# 48: The Search Continues                     [explore]
+QUEST# 49: Meet The Manders                         [instance + interact + mob]
+QUEST# 50: Mothly Hospitality                       [interact + explore + talk]
+QUEST# 51: Palace of Malice                         [instance + explore + mob]
+QUEST# 52: The Dungeons of Moth-Amon                [instance + explore + elite + boss]
+QUEST# 53: Mandar The Superstitious                 [explore + solo + boss + talk]
+QUEST# 54: Savage Science                           [collect + interact + d&c + talk]
+QUEST# 55: Mandar The Swordsmander                  [explore]
+QUEST# 56: The Sword Of He-Mander                   [instance + explore + mob + elite]
+QUEST# 57: Mandar The Boarbarian                    [explore + mob]
+QUEST# 58: Boarish Hospitality                      [instance + explore + mob + boss + elite]
+QUEST# 59: The Fane Of The Ancient One              [explore + interact + talk]
+QUEST# 60: The Final Test                           [instance + explore + mob + major cheat]
+AREA    : Telos / Badlands
+QUEST# 61: Another Stone Down                       [interact + explore + talk]
+QUEST# 62: Skyfallen                                [explore + interact + talk]
+QUEST# 63: Emergency Repairs                        [collect + d&c + talk + interact]
+AREA    : Sky City
+QUEST# 64: Welcome To The Sky                       [talk + mob]
+QUEST# 65: The Tour You Know                        [explore + interact + talk]
+QUEST# 66: A Warm Welcome?                          [instance + mob]
+QUEST# 67: The Secret Struggle                      [interact + explore + talk]
+QUEST# 68: Mongonium Heist                          [instance + mob + explore + elite]
+QUEST# 69: To The Rescue!                           [d&c + explore]
+QUEST# 70: There Goes The Neighborhood… Watch       [instance + mob + explore + elite]
+QUEST# 71: As The Mana Flows                        [talk]
+QUEST# 72: To Save Sky City!                        [interact + explore + talk]
+QUEST# 73: Morg Showdown!                           [instance + elite + explore + cheat]
+QUEST# 74: Down to Earth Again                      [explore + talk]
+AREA    : Heap
+QUEST# 75: Heap of Trouble                          [interact + talk + explore]
+QUEST# 76: Irregular Occurrence                     [explore + mob + talk]
+QUEST# 77: Pips Aplenty                             [explore + mob + talk]
+QUEST# 78: Crime and Punishment                     [talk + explore + d&c]
+QUEST# 79: Prune Disgrace                           [explore + talk]
+QUEST# 80: Prune’s Day                              [instance + mob + explore + boss]
+QUEST# 81: Dinner is for Closers                    [explore + instance]
+QUEST# 82: Lock-Up, Up and Away!                    [instance + mob + explore + elite + boss]
+QUEST# 83: Nose for Clues                           [d&c + talk]
+QUEST# 84: Don’t Fear Prim Reaper                   [explore + talk]
+AREA    : Wildlands
+QUEST# 85: Charity for Clarity                      [interact + d&c + explore + talk]
+AREA    : Heap
+QUEST# 86: The Buzzing Brain                        [explore + interact + solo + mob + talk]
+QUEST# 87: Worst Criminal Ever                      [explore + boss + talk]
+QUEST# 88: Detective Mission                        [explore + interact + talk]
+QUEST# 89: The Dark is Eyeing                       [instance + mob + explore]
+QUEST# 90: Lion’s Care                              [talk + explore]
+QUEST# 91: Mind Sweeper                             [instance + elite + explore]
+QUEST# 92: Peace Meal                               [talk + explore]
+AREA    : Telos
+QUEST# 93: The More You Hero                        [interact + explore + mob + talk]
+QUEST# 94: Amazing Bass                             [explore]
+QUEST# 95: Buck, Bantam, Bass                       [instance + elite + explore + boss]
+QUEST# 96: From Whom The Treble Tolls               [explore]
+QUEST# 97: Treble Alliance                          [instance + mob + explore + elite]
+QUEST# 98: Do Or Scion                              [explore + boss + talk]
+QUEST# 99: To Err Is Hero                           [interact + talk]
+QUEST#100: To Forgive, Dasein                       [instance + boss]
+QUEST#101: The Next Thing                           [talk]
+
+SUMMARY: 101 quests in 18 areas
+Stats: {'total_quests': None, 'mob_fights': None, 'dc_quests': None, 'boss_fights': None, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}

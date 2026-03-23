@@ -1,0 +1,108 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 3,975
+| crecla = Shadow Weaver
+| school = Myth
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+54%;
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Khrysalis
+| location = Moon Cliffs
+| subloc1 = Eclipse Tower
+| descrip =
+This Faded Weaver faces Wizards completing their Shadow Pacts training with Sofia DarkSide during the Quest {{Link|Quest|Shadows and Don'ts}}.
+
+*Round 1: Wizards must pass this Round. {{Link|Minion|Sofia DarkSide}} will appear as a Minion. The Faded Weaver will cast Mythblade.
+*Round 2: Sofia DarkSide will cast {{Link|Spell|Spirit Blade}} on herself. The Faded Weaver will attack Sofia DarkSide dealing 15% of her maximum Health (2,226 Health). Wizards will gain a Shadow Pip, and will be given the following Spell and must cast it on themselves:
+::{{GivesSpell|spells = 1|size = x150px|Deathblade (+40%)}}
+*Round 3: Sofia DarkSide will cast [[Spell:Justiceblade (Shadow)|Justiceblade]] on herself. The Faded Weaver will cast Mythic Sting on the Wizard. Wizards will be given the following Spell and must cast it:
+::{{GivesSpell|spells = 1|size = x150px|Shadow Shrike}}
+*Round 4: Sofia DarkSide will cast {{Link|Spell|Shadow Seraph}}. The Faded Weaver will cast a version of Humongofrog that deals 495 Myth Damage to all enemies. Wizards will be given the following Spell and must cast it:
+::{{GivesSpell|spells = 1|size = x150px|Stormzilla (650-670)}}
+*Round 5: Sofia DarkSide will cast [[Spell:Seraph (450)|Seraph]]. The Faded Weaver will attack the Wizard dealing 15% of their maximum Health. Wizards will be given the following Spell and must cast it:
+::{{GivesSpell|spells = 1|size = x150px|Storm Beetle (125, 100%)}}
+*Round 6: Sofia DarkSide will cast [[Spell:Unicorn (315)|Unicorn]]. The Faded Weaver will cast Spirit Blade. Wizards will be given the following Spell and must cast it:
+::{{GivesSpell|spells = 1|size = x150px|Evil Snowman (300)}}
+*Round 7: Sofia DarkSide will cast [[Spell:Seraph (450)|Seraph]]. The Faded Weaver will cast Minotaur. Wizards will be given the following Spell and must cast it:
+::{{GivesSpell|spells = 1|size = x150px|Dark Sentinel}}
+*Round 7: Sofia DarkSide will pass. Wizards will be given the following Spell and must cast it:
+::{{GivesSpell|spells = 1|size = x150px|Skeletal Pirate (300)}}
+
+After Round 7, the Duel ends.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Spirit Blade;
+Mythic Sting;
+Minotaur;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

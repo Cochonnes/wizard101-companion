@@ -1,0 +1,193 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 800
+| crecla = Krokotopian
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Fire;
+
+| incresist =
+30% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sokkwi High Guard;
+
+| world = Krokotopia
+| location = Emperor's Retreat
+| lootchest = Krokhotep's Chest
+| descrip =
+Years before {{Link|NPC|Malistaire Drake}} sank the Death School, Krokhotep was an ally of the Order of the Fang, a group of Kroks and Manders who wanted to end the reign of the Tuts. {{Link|Creature|Krokopatra}} hypnotized him into becoming one of her Minions. Just like the Manders, his skin turned dark blue from serving in the chilly {{Link|Location|Krokosphinx}}.
+
+| speech =
+:''"Don't provoke me, Wizard. I was just thinking about letting you live. In my service, of course..."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 120 Ice Damage per Pip.
+
+| casts =
+Tower Shield;
+Weakness;
+Black Mantle;
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Evil Snowman;
+Snow Shark;
+Banshee;
+
+| quests =
+Retribution;
+
+| gold =
+33 - 51;
+
+| dropnotes =
+When a Wizard has unlocked the '''Wizard City Protector''' {{Icon|Wizard City Protector}} Badge and has not unlocked the '''Mastermind''' {{Icon|Mastermind}} Badge, the following drops will be available:
+*8 Spellements and Treasure Card Spellements will drop each time from the '''Elemental''' (Fire, Ice, Storm, Balance) Schools for their respective rank 1-3 Spells.
+
+| hats =
+Diviner's Hat of Squalls;
+Krokhotep's Circlet*F2;
+Krokhotep's Cowl*F2;
+Krokhotep's Desert Hood*F2;
+Rough-Hewn Hood;
+Runed Hood*F5*WMV;
+Soothsayer's Helm;
+Stout Hood;
+Sturdy Hood;
+Threadbare Hood;
+Woodsman's Veil*CR;
+
+| robes =
+Cloak of the Skies*F3;
+Dusty Robe;
+Harvest Foe's Robe*CR;
+Krokhotep's Cloak;
+Krokhotep's Vestment;
+Shroud of Rationality;
+Sphinx's Vestment;
+Vest of Somnolence*F2*WMV;
+Vest of the Desert;
+Vest of the Oasis;
+
+| boots =
+Boots of the Whirlwind;
+Ill-Omened Striders*CR*F2*WMV;
+Krokhotep's Footwraps*F3*WMV;
+Krokhotep's Sandals*F2;
+Krokotopian Striders*F3;
+Parched Sandals*F3*WMV;
+Polar Shoes*F3*WMV;
+Sandals of Energy*F2*WMV;
+
+| athames =
+Athame of Adaption;
+Athame of the Desert;
+Dagger of Downpour*F2*WMV;
+Dirk of Harmony;
+
+| amulets =
+Amulet of Eyes*F2*WMV;
+
+| rings =
+Band of the Bastion;
+Loop of Quietude;
+Loop of the Defender;
+Pharaoh's Seal;
+Powerful Ring*F2*WMV;
+Seal of the Conqueror*F2*WMV;
+Sparkling Band;
+
+| wands =
+
+| decks =
+
+| items =
+Beetle Beanbag*F2*WMV;
+Knotted Rug;
+Krok Tree Plaque*F2;
+Lunar-Emblem Bed*F3*WMV;
+Professor Greyrose*CR*F2;
+Raised Storm Sarcophagus;
+
+| cards =
+Evil Snowman (Tier 2b)*BR;
+Fire Cat (Tier 2b)*BR*F2;
+Frost Beetle (Tier 2b)*BR*F2;
+Krokotillian*F2*WMV;
+Locust Swarm (Tier 2b)*BR;
+Sandstorm;
+Scarab (Tier 2b)*BR*F2;
+Snow Serpent (Tier 2b)*BR;
+Storm Shark (Tier 2b)*BR;
+Thunder Snake (Tier 2b)*BR;
+
+| reagents =
+Bone;
+Brass*F2;
+Copper*F3;
+Iron*F2;
+Spider Silk*F5*WMV;
+
+| spellements =
+Evil Snowman*BR;
+Fire Cat*BR*F2;
+Fire Elf*BR*F2;
+Frost Beetle*BR*F2;
+Lightning Bats*BR*F2;
+Locust Swarm*BR;
+Scarab*BR*F3;
+Storm Shark*BR*F2;
+Sunbird*BR*F2;
+Thunder Snake*BR*F3;
+
+| snacks =
+Cracker*F2;
+Green Grapes*F3*WMV;
+Nettle Root*F3*WMV;
+Tiny Fish;
+
+| jewels =
+Chipped Defense Sapphire +13;
+Chipped Mana Opal +10;
+Chipped Mana Opal +12;
+Cracked Damage Jade +5;
+Cracked Damage Ruby +5;
+Cracked Defense Opal +5;
+Fire Elf Ruby;
+Oil Slick Opal;
+Storm-Boon Amethyst;
+
+| pins =
+
+| pets =
+Arctic Serpent*F2*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

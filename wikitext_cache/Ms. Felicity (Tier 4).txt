@@ -1,0 +1,118 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 8,855
+| crecla = Train Boss
+| crecla2 = Equine
+| school = Balance
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+8%;
+
+| outboost =
+80%;
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Great Sky Train Robbery Gauntlet
+| subloc1 = Great Sky Train Robbery Gauntlet (Tier 3)
+| descrip =
+Ms. Felicity (Tier 4) is considered a Minion to {{Link|Creature|N. Bison (Tier 4)}}.  All drops are recorded on that page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Driven to a life of crime after she shaved her trademark golden hair and was rejected by society.
+
+| extract class =
+Equine;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Balance Damage.
+
+| casts =
+Flawless;
+Weakness (-30%);
+Balanceblade (+30%);
+Bladestorm (+25%);
+Hex (+35%);
+Hydra (265);
+Power Nova (530);
+Chimera (375);
+Judgement (125);
+
+| quests =
+Insane In The Gem Train;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| elixirs =
+
+}}

@@ -1,0 +1,248 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 8,920
+| crecla = Dog
+| school = Ice
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Red Thorn Knight;
+
+| world = Avalon
+| location = High Road
+| subloc1 = Harlequin Tower
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Fortify;
+Vengeance;
+Tower Shield;
+Iceblade;
+Ice Trap;
+Freeze;
+Natural Attack (Ice 135-275-425);
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Frostbite;
+Icezilla (650-730);
+Colossus;
+Frost Giant;
+Snow Angel;
+
+| quests =
+Fool's Knight;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge and has not unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge, the following drops will be available:
+*6 Spellements will drop each time for their respective rank 5-9 Spells.
+
+| gold =
+90 - 115;
+
+| hats =
+Chaos Knight's Blazing Helm*F5*WMV;
+Honor Bound Helm;
+Mask of the Crystal Caves*F2;
+Mask of the Silent Hunter*F2;
+Paladin's Frosty Helmet*F2*WMV;
+Wrath of the Wild;
+
+| robes =
+Hanging Stones Armor*F3*WMV;
+Honor Bound Surcoat;
+Knight of the Wyrd Armor*F2;
+
+| boots =
+Courageous Knight's Boots*F4*WMV;
+Hanging Stones Striders;
+Splashing Stream Waders;
+Sworn Champion's Footguards*F2*WMV;
+
+| athames =
+Brave Steel;
+Horned One's Iron*F2*WMV;
+
+| amulets =
+Torc of Hidden Wisdom;
+Torc of the Faithful Squire*F2;
+
+| rings =
+Bad Host Band;
+Bannerman's Honorbound Ring;
+Sir Corwin's Ring*F2*WMV;
+
+| wands =
+Dragonbreath Bow*F4*WMV;
+Shillelagh of the Squire;
+
+| decks =
+Argent Rose Deck*F3*WMV;
+
+| items =
+Avalon Glorious Theme;
+Avalon Haunting Theme*F3*WMV;
+Jousting Rack*F2;
+Red Thorn Hammer on Pedestal*F2;
+Small Arms Weapons Rack;
+
+| cards =
+Frost Giant*F2*WMV;
+Frostbite*F5*WMV;
+Frozen Armor*F7*WMV;
+Gargantuan;
+Legion Shield*F2*WMV;
+Leviathan;
+Orthrus;
+Power Nova*F2*WMV;
+Ra;
+Rebirth;
+Scarecrow*F2;
+Steal Ward*F5*WMV;
+Storm Lord;
+Unstoppable*F2*WMV;
+
+| reagents =
+Black Lotus*F3*WMV;
+Brass;
+Bronze;
+Cat Tail*F4;
+Cobalt;
+Deep Mushroom*F4;
+Frost Flower*F2*WMV;
+Lava Lily*F4*WMV;
+Mist Wood*F3*WMV;
+Ore*F4*WMV;
+Parchment*F4*WMV;
+Pearl*F3*WMV;
+Red Mandrake*F4*WMV;
+Shell*F4*WMV;
+Steel;
+Stone Block*F3*WMV;
+Tin;
+
+| spellements =
+Basilisk*BR;
+Blight Hound*BR;
+Centaur*BR;
+Chimera*BR;
+Colossus*BR;
+Dr. Von's Monster*BR;
+Earth Walker*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+Helephant*BR;
+Hydra*BR;
+Leviathan*BR;
+Medusa*BR;
+Minotaur*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Skeletal Pirate*BR;
+Snow Angel*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Stormzilla*BR;
+Triton*BR;
+Woolly Mammoth*BR;
+Wraith*BR;
+
+| snacks =
+Delicious Cookie;
+Deviled Eggs;
+Flaming Soup;
+Flapjacks;
+Glowing Star Fruit;
+Glowing Taffy;
+Golden Apple;
+Golden Grapes*F2*WMV;
+Gummy Humongofrog;
+Gummy Wyrms;
+Jelly Baby;
+King Banana*F2;
+Pigeon Pie*F2;
+Roasted Chickpeas;
+Spicy Drumstick*F2*WMV;
+Strawberry Cupcake;
+Submarine Sandwich*F2;
+
+| jewels =
+Bananas! Opal;
+Clear Critical Citrine +9;
+Clear Defense Citrine +37;
+Clear Piercing Amethyst +5%;
+Dependable Opal;
+Fire Trap Ruby (Triangle);
+Huge Rally Opal;
+Ice-Shot Sapphire;
+Life Trap Jade (Triangle);
+Life-Eye Jade;
+No Passing Opal;
+Opaque Damage Jade +18;
+Opaque Damage Sapphire +18;
+Opaque Defense Amethyst +35;
+Opaque Defense Citrine +35;
+Opaque Defense Jade +35;
+Opaque Piercing Sapphire +4%;
+Quick-Witted Opal;
+Storm-Shot Amethyst;
+Stupefy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Blue Huckleberries*F2*WMV;
+Deadly Fly Trap;
+Evil Magma Peas*CR*F2;
+Pink Dandelion*CR;
+Red Huckleberries*F2*WMV;
+Silver Trumpet Vine*CR;
+Trumpet Vine;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

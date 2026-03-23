@@ -1,0 +1,331 @@
+{{Stub|updated cheats}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 125,000
+| crecla = Titan
+| school = Myth
+| school2 = Shadow
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Myth;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+15%;
+
+| outboost =
+100%;
+
+| incboost =
+10% Storm;
+
+| incresist =
+20% Life, Death, Balance;
+25% Fire, Ice;
+50% Myth, Shadow;
+
+| outhealing =
+
+| inchealing =
+75%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Beans (Challenge);
+Pork (Challenge);
+Sparck (Challenge);
+
+| world = Empyrea
+| location = Sepidious
+| subloc1 = The Headquarters (Challenge)
+| lootchest = Medulla's Chest
+| descrip =
+*Medulla is the final Boss in the first half of Empyrea.  Wizards must defeat him to recover their mind-controlled friends, and to rescue {{Link|NPC|Mellori}}.
+*For the Standard version of this battle, see {{Link|Creature|Medulla (Standard)}}.
+
+'''Advanced Combat Rules:'''
+*Spell Decks cannot be changed while in this instance. (Make sure to set the spells in a deck before entering this instance).
+*No-PvP spells are disallowed in this fight.
+*PvP-Only Spells are allowed in this fight.
+*Wizards cannot re-join combat after fleeing mid-combat.
+
+'''Second Chance Chest'''
+
+| speech =
+
+| cheatnotes =
+:'''Medulla'''
+*{{Icon|Round}} After Sparck's first cycle, Medulla will command these cheats.
+**''"Mr. Sparck, man the Essence Cannon"'' - This is a one Round warning before Sparck fires the Essence Cannon.
+**''"Fire!"'' - At the end of the Round, Sparck will use a Shadow Spell to fire the Essence Cannon, which deals '''600''' Shadow Damage to and removes a Shadow Pip from all Wizards.
+*{{Icon|Random}} Before Beans' Blossom's Thorns cheat, Medulla will use the following cheat.
+**''"Prepare to be mind-meddled!"'' - Medulla will cast a Shadow Spell to randomly 'Confuse' a Wizard for two Rounds.
+
+*'''Sparck'''
+**{{Icon|Aura}} ''"Sparck! I need technical support"'' - If a Wizard casts an Aura, Medulla will say this, then Sparck will cheat-cast {{Link|ItemCard|Mass Supernova}}.
+**{{Icon|Round}} '''Cycle 1''' - Sparck will begin the first cycle
+**''"Medulla is my captain now"'' - Sparck will cheat-cast {{Link|Spell|Magnify (6 Rounds)}}.
+**''"As you wish, Boss"'' - Sparck will cheat-cast a Spell to apply a +70% Trap on all enemies.
+**''"You're up Mr. Sparck"'' - Medulla will shout this out, then Sparck will cheat-cast {{Link|Spell|Niles' Knock-Out}}.
+
+*'''Beans''' 
+*{{Icon|Trap}} ''"What’s up doc?”'' - If a Wizard casts a Trap, Beans will cast an all allies Shadow version of {{Link|Spell|Cleanse Ward (-2)}}.
+*{{Icon|Harmful Aura}}{{Icon|Curse}} ''"Beans, Beans. He's good for the heart!"'' - If a Wizard casts a negative Damage Aura or a harmful Charm, Medulla will shout this, then Beans will cheat-cast an all allies Shadow version of {{Link|Spell|Double Cleanse Charm}}.
+**{{Icon|Round}} '''Cycle 2''' - Beans will begin the second cycle.
+**''"Anything you say, Boss"'' - Beans will cheat-cast {{Link|Spell|Goat Monk (Tier 5b)}}.
+**''"I must heal my master...bc I'm a Dr...Darnit"'' - Beans will cheat-cast {{Link|Spell|Pigsie (Tier 5b)}}.
+**''"Your turn Doctor"'' - Medulla will shout this out, then Beans will cheat-cast {{Link|Spell|Blossom's Thorns}}.
+
+*'''Pork''' 
+**{{Icon|Round}} '''Cycle 3''' - Pork will begin the third cycle
+**''"I live to serve"'' - Pork will cheat-cast {{Link|Spell|Scald}}.
+**''"Yes Boss"'' - Pork will cheat-cast {{Link|Spell|Fire Dragon}}.
+**''"Your turn Captain Bacon"'' - Medulla will say this, then Pork will cheat-cast {{Link|Spell|Bernie Notice}}.
+
+{{Icon|Friend}} '''Ally Cheats'''
+''"Sparck!" / "Medulla's mind-control spell is broken. Fascinating!"''  - When Sparck is defeated, he will assist the Wizard team.
+*''"Preparing to fire the Essence Cannon"'' - At the end of the Round, Sparck will cast a Shadow Spell to fire the Essence Cannon, which deals '''3,932''' Shadow Damage to and removes a Shadow Pip from all enemies.
+
+| spellnotes =
+*Casts protected Reaperblade (Myth-Shadow) and Bladestorm.
+*Casts an all enemies version of Hex.
+
+| casts =
+Brace;
+Magnify;
+Reaperblade (Myth-Shadow);
+Bladestorm;
+Mass Myth Trap;
+Hex;
+Shatter;
+Athena Battle Sight;
+Humongofrog (Tier 5a);
+Snake Charmer;
+Earthquake (525);
+Medusa (865);
+Basilisk;
+Celestial Calendar;
+
+| quests =
+Brain Drain;
+Massive Headache;
+
+| gold =
+84 - 241;
+
+| hats =
+Cabal Hood of Disruption*F3*WMV;
+Cabal Schism Hood*F3;
+Cabalist Chaotic Hood*F3*WMV;
+Cabalist Cleansing Hood;
+Cabalist Hood of the First*F2*WMV;
+Cabalist Hood of Vengeance*F2*WMV;
+Nostalgic Cabal Hood;
+
+| robes =
+Cabal Cloak of Disruption;
+Cabal Schism Cloak*F4*WMV;
+Cabalist Chaotic Cloak*F2;
+Cabalist Cleansing Cloak*F4*WMV;
+Cabalist Cloak of Finality;
+Cabalist Cloak of the First*F4;
+Cabalist Cloak of Vengeance*F2;
+Nostalgic Cabal Cloak*F2;
+
+| boots =
+Cabal Schism Stompers*F3*WMV;
+Cabal Stompers of Disruption*F4*WMV;
+Cabalist Chaotic Stompers;
+Cabalist Cleansing Stompers*F2;
+Cabalist Stompers of the First*F3*WMV;
+Cabalist Stomps of Vengeance*F2;
+Nostalgic Cabal Stompers;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Cabal Banner of Disruption;
+Cabalist Banner of Finality*F3*WMV;
+Cabalist Banner of the First;
+Cabalist Banner of Vengeance;
+Cabalist Chaotic Banner;
+Cabalist Cleansing Banner*F3;
+Cabalist Schism Banner*F5*WMV;
+Nostalgic Cabal Banner*F2;
+
+| decks =
+
+| items =
+Dwarven Book Case*F3*WMV;
+Dwarven Dinner Table*F2*WMV;
+Dwarven File;
+Dwarven Side Table*F2*WMV;
+Empyrea Brain Theme 1;
+Empyrea Brain Theme 2;
+Empyrea Brain Theme 3;
+Empyrea Dance Hall Theme*F2;
+Empyrea Lava Lock Theme*F2;
+Empyrea Medulla Theme*F2*WMV;
+Empyrea Khan Theme*F2;
+Empyrea Sepidious Combat Theme;
+Empyrea Sepidious Theme*F2*WMV;
+Empyrea Sewer Theme*F2*WMV;
+Empyrea Zanadu Theme*F2;
+Fire Dwarf Bed*F3*WMV;
+Fire Dwarf Chair*F2;
+Ice Dwarf Bed;
+Ice Dwarf Chair;
+Pirate Party Barge Theme*F3*WMV;
+
+| cards =
+Berserk*F6*WMV;
+Brilliant Light*F2*WMV;
+Dream Shield*F3*WMV;
+Ether Shield*F3*WMV;
+Frostbite*F2*WMV;
+Galvanic Field*F2;
+Link*F2*WMV;
+Mutate Bats (Fire)*F2;
+Mutate Banshee (Life);
+Mutate Hound (Storm);
+Mutate Phoenix (Ice);
+Mutate Serpent (Fire);
+Nested Fury*F2;
+Raging Bull;
+Rusalka's Wrath;
+Sirens*F7*WMV;
+Snowball Barrage;
+Storm Shield;
+Winged Sorrow;
+Witch's House Call*F3;
+
+| reagents =
+Aether*F6*WMV;
+Amber*F2;
+Amber Dust;
+Antique Coins;
+Aquamarine;
+Astral Shard*F2*WMV;
+Black Lotus*F2;
+Black Pearl*F2;
+Blood Moss;
+Bone;
+Braided Vine*F2;
+Brass;
+Bronze Gear*F3*WMV;
+Cobalt*F2*WMV;
+Deep Mushroom*F2;
+Draconium*F2*WMV;
+Flying Squid Ink*F17*WMV;
+Golden Pearl*F3*WMV;
+Lava Lily;
+Mithril*F3*WMV;
+Nightshade;
+Platinum;
+Ore*F2;
+Orichalcum*F3*WMV;
+Scales*F3;
+Silver;
+Spring*F4*WMV;
+Steel*F3*WMV;
+Stone Block*F2;
+Sunstone*F2*WMV;
+Tin;
+Titanium*F5*WMV;
+Tungsten*F2*WMV;
+Turmeric*F2;
+Turquoise*F3*WMV;
+Vine*F2;
+
+| spellements =
+
+| snacks =
+Bread Fruit Fruit*F3;
+Crackle Jacks Cereal;
+Desparagus Salad*F5;
+Dragon Fruit;
+Huckleberry Pie*F2;
+Krakamari;
+Roly Poly Fishheads;
+Ships 'n' Queso*F2;
+Snow Apple Pie;
+Tasty Rainbow*F2;
+Waterworks Wonton*F2;
+
+| jewels =
+Sparkling Blocking Onyx +17;
+Sparkling Blocking Peridot +17;
+Sparkling Critical Citrine +17;
+Sparkling Damage Amethyst +27;
+Sparkling Damage Citrine +27;
+Sparkling Defense Amethyst +53;
+Sparkling Defense Hematite +53*F2;
+Sparkling Defense Opal +27*F2;
+Sparkling Defense Ruby +54;
+Sparkling Health Opal +117;
+Sparkling Health Opal +119;
+Sparkling Health Opal +120*F3;
+Sparkling Mana Opal +49;
+Sparkling Mana Opal +50*F9*WMV;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Baby Carrots*F2*WMV;
+Bell Pepper*F4*WMV;
+Boiled Peanuts*F5*WMV;
+Boom Shroom*F2*WMV;
+Bread Fruit Bush*F4*WMV;
+Burning Snap Dragon;
+Clockwork Flower;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Evil Magma Peas*CR;
+Face Palm;
+Fiery Boom Shroom*F2;
+Fish on a Vine*F2;
+Golden Couch Potatoes*F3*WMV;
+Grapes of Wrath*CR*F7*WMV;
+Green Snow Apples;
+Ivy League*CR;
+Laugh-O-Dil;
+Maltese Tiger Lily;
+Missile Toe;
+Orange Bell Pepper*CR;
+Orange Dandelion;
+Pink Huckleberries*F3;
+Prickly Bear Cactus;
+Queen Crape Myrtle;
+Red Grapes of Wrath;
+Red Huckleberries;
+Saw Palmetto;
+Snow Apples;
+Tiger Lily (Seed);
+Trumpet Vine;
+Ultra Dandelion;
+Ultra Helephant Ears;
+Ultra Snap Dragon;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+| altimage = Medulla
+}}

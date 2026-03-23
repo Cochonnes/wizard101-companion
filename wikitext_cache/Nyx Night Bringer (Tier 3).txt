@@ -1,0 +1,120 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 58,300
+| crecla = Owl
+| school = Moon
+| school2 = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Forbidden Library Gauntlet
+| subloc1 = Forbidden Library Gauntlet (Tier 3)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+There is a cheat that removes all positive charms from Wizard's team. It was observed twice, both times after a player used Dark Pact.
+*{{Icon|Global}} ''"Nightfall is inevitable!"''' - At the start of combat, Nyx Night Bringer casts a version of {{Link|Spell|Doom and Gloom (Moon)}}.
+*{{Icon|Harmful Aura}} ''"The cloak of night obscures all sight!"'' - At the end of Round 1, or if a Wizard is late joining the duel, Nyx Night Bringer will cast '''Darkness: -50% Accuracy''' Acrimony Auras on all Wizards for 99 Rounds. Might also severely lower power pip chance.
+*{{Icon|Damage}} ''"The worst monsters prowl at night!"'' - Casts a versions of {{Link|Spell|Dark Nova}}, {{Link|Spell|Dark Fiend}} & {{Link|Spell|Dark Shepherd}} that immediately attack, or a Natural Attack that also steals pips.
+*{{Icon|Caster}}{{Icon|Spell}} ''"If only your friends could find you in the dark!"'' - If a player casts any spell on themselves, Nyx will interrupt and say this as a hint to cast spells on allies. This has no effect other than the Interrupt.
+*{{Icon|Feint}} ''"The dark of night shields me!"'' - If a wizard casts {{Link|Spell|Feint}} on Nyx, she will cast a Shadow version of {{Link|Spell|Cleanse Ward}} that removes all traps from her.
+:*{{Link|Spell|Indemnity}} can be used to avoid this cheat.
+:*{{Link|Spell|Mass Feint (+75%)}} will trigger this cheat.
+:*Pet spells will trigger this cheat.
+*{{Icon|Spell}} If a Wizard that has the Darkness Aura successfully casts a Spell, then they will receive the following card:
+**(Likely triggered from casting a Blade on an ally)
+**{{GivesSpell|spells = 1|size = x150px|Torch}}
+**''"No! The light!"'' - When a Wizard casts {{Link|Spell|Torch}}, Nyx Night Bringer will react with this line.
+
+| spellnotes =
+*Casts a protected Deathblade Shadowblade.
+
+| casts =
+Moon Shield;
+Deathblade (+40%);
+Deathblade Shadowblade;
+Mass Death Trap;
+Empower;
+Orthrus (Moon, 785);
+Deer Knight (Tier 2b);
+Winged Sorrow;
+Diablo Qarin (755);
+Scald (Shadow);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Athena Battle Sight;
+Fuel*F2;
+Hephaestus;
+Mass Triage;
+Seraph;
+Storm Lord;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

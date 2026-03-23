@@ -1,0 +1,339 @@
+{{Stub| which version of the '''''Mutate''' Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 8,800
+| crecla = Undead
+| school = Storm
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sundered Seam Spirit;
+
+| world = Polaris
+| location = Frigid Maw
+| subloc1 = Cave of Sundered Seam
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Polaris
+| tome description =
+This guardian smells of old ashes and forgotten fury.  It's frustrating just to be in its presence.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+*Every 5th Round this Boss will use the Spell version of Stormblade, then the Treasure Card version of Stormblade the Round after.
+
+| casts =
+Dark Nova;
+Galvanic Field;
+Stormblade;
+Stormblade*TC;
+Elemental Blade;
+Supercharge;
+Darkwind;
+Storm Beetle (150);
+Storm Serpent (230);
+Natural Attack (Storm 125-245-365);
+Storm Cat;
+Glowbug Squall;
+Storm Owl;
+Tempest;
+
+| quests =
+Sundering of Land and Sky;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge and has not unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' {{Icon|Savior of the Sands}} Badge, the following drops will be available:
+*4 Spellements will drop each time from '''any''' School for their respective rank 8, 9, 10, King Artorius and Polaris 6 Pip Spells.
+
+| gold =
+1,422 - 2,541;
+
+| hats =
+Arcanum Necromancer's Spire;
+Arcanum Theurgist's Spire;
+Imperial Walrusk Papakh*F2;
+Kataba Furcap of Havoc;
+Kataba Iceblock Furcap*F4;
+The Goat Horns*CR*F2;
+The Manticore*CR*F2;
+The Stalwart Guardian*CR;
+Walrusk Furcap of Rime;
+Walrusk Papakh of Graupel*F2;
+
+| robes =
+Arcanum Theurgist's Wraps;
+Imperial Walrusk Cherkesska;
+Walrusk Cloak of Graupel*F2;
+Walrusk Cloak of Intensity;
+Walrusk Coat of Rime;
+Walrusk Robes of Wit;
+Walrusk Uniform of Calamity;
+
+| boots =
+Kataba Iceblock Runners*F4;
+Kataba Mukluks of Toil;
+Kataba Stalkers of Havoc*F3;
+Kataba Walkers of Destiny;
+Walrusk Boots of Graupel;
+Walrusk Boots of Intensity;
+Walrusk Mukluks of Frenzy*F2;
+Walrusk Runners of Wit;
+Walrusk Shoes of Dignity;
+
+| athames =
+Arcanum Pyromancer's Edge;
+Arcanum Thaumaturge's Blade;
+Imperial Walrusk Dagger*F2;
+Kataba Athame of Zeal;
+Kataba Edge of Parables;
+Kataba Iceblock Smallblade;
+Kataba Icepick of Glaciers;
+Kataba Lancet of Havoc*F2;
+Kataba Skewer of Toil;
+Walrusk Knife of Intensity;
+Walrusk Lancet of Graupel;
+
+| amulets =
+Arcanum Pyromancer's Amulet;
+Imperial Walrusk Medallion*F3;
+Kataba Amulet of Zeal*F2;
+Kataba Chain of Destiny;
+Kataba Necklace of Toil;
+Kataba Stone of Cinders;
+Kataba Talisman of Havoc*F2;
+Phylactery of the Arcanum;
+Walrusk Collar of Graupel*F2;
+
+| rings =
+Arcanum Conjurer's Band;
+Arcanum Thaumaturge's Seal;
+Imperial Walrusk Seal*F3;
+Kataba Iceblock Band;
+Kataba Ring of Cinders;
+Kataba Ring of Destiny;
+Kataba Ringlet of Zeal*F2;
+Kataba Seal of Parables;
+Signet of the Arcanum;
+Walrusk Band of Calamity;
+
+| wands =
+Arcanum Diviner's Stave;
+Arcanum Theurgist's Stave;
+Charmed Wand of the Arcanum;
+Kataba Bardiche of Zeal;
+Kataba Iceblock Crescent Axe;
+Walrusk Case of Wit;
+Walrusk Cutlass of Graupel*F3*WMV;
+Walrusk Saber of Dignity;
+Walrusk Saber of Intensity*F2;
+Walrusk Sword of Calamity*F2;
+
+| decks =
+Arcanum Diviner's Hand;
+Arcanum Thaumaturge's Set;
+Hand of the Kataba Iceblock*F4;
+Kataba Spread of Havoc*F2;
+Walrusk Array of Graupel*F2;
+Walrusk Cards of Intensity;
+Walrusk Deck of Calamity*F2;
+
+| items =
+Arcanum Theme*F5;
+Blue Teleporter*CR*F2;
+Cyan Teleporter*CR*F3;
+Green Teleporter*CR*F2;
+Orange Teleporter*CR;
+Polaris Baba Yaga Theme*F2;
+Polaris Frozen Combat Theme;
+Polaris Frozen Forest Theme*F3;
+Polaris Gulag Combat Theme*F3;
+Polaris Gulag Theme*F3;
+Polaris Ice Block Theme*F3;
+Polaris Mine Combat Theme*F2;
+Polaris Mine Theme*F2;
+Polaris Opera Theme*F2;
+Polaris Rasputin Combat Theme*F2;
+Purple Teleporter*CR*F2;
+Red Teleporter*CR;
+Walruskberg Combat Theme*F2;
+Walruskberg Liberated Theme*F2;
+Walruskberg Theme*F2;
+Yellow Teleporter*CR;
+
+| cards =
+Arcticzilla;
+Ashen Bones;
+Astraphobia;
+Blue Phoenix;
+Combustion;
+Counterforce;
+Death Troll;
+Deathspear;
+Dragonspear;
+Elemental Spear;
+Fiery Colossus;
+Frostfang*F2;
+Icebird;
+Icespear;
+Katabatic Wind*F3;
+Lifespear;
+Magma Colossus;
+Mutate Banshee (Sun);
+Mutate Bats (Fire);
+Mutate Beetle (Fire)*F2;
+Mutate Bird (Ice)*F2;
+Mutate Bird (Storm)*F2;
+Mutate Cat (Storm)*F2;
+Mutate Colossus (Fire)*F2;
+Mutate Colossus (Storm);
+Mutate Elf (Ice);
+Mutate Kraken (Ice)*F2;
+Mutate Minotaur (Sun);
+Mutate Phoenix (Ice);
+Mutate Phoenix (Storm);
+Mutate Phoenix (Sun);
+Mutate Serpent;
+Mutate Snake (Fire)*F2;
+Mutate Snowman (Storm);
+Mutate Swarm (Ice);
+Mutate Wyvern (Storm);
+Mythspear;
+Namaste*F2;
+Obsidian Colossus (420);
+Saga of Heroes;
+Sandstone Colossus*F2;
+Shift;
+Spirit Spear;
+Steel Colossus;
+Yellow Troll;
+
+| reagents =
+Aether*F2;
+Agave Leaves*F2*WMV;
+Amber Dust*F3;
+Aquamarine*F4*WMV;
+Astral Shard*F3*WMV;
+Fish Fin*F4*WMV;
+Golden Pearl*F2;
+Mithril*F6;
+Scales*F4*WMV;
+Silver*F5*WMV;
+Stardust*F2*WMV;
+Steel*F5*WMV;
+Sunstone*F4*WMV;
+Tungsten*F4*WMV;
+Turquoise*F2;
+Vine*F2*WMV;
+
+| spellements =
+Basilisk*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+
+| snacks =
+Antheneum Delight*F2;
+Aztecan Hot Chocolate*F2;
+Beast Wellington*F6*WMV;
+Chalupacabra*F3;
+Deepwater Toffee*F2;
+Eye Candy*F2;
+Frosty Sugar Cubes*F3*WMV;
+Frozen Snails;
+Green Tomato;
+High Road Haggis;
+Hot Cross Buns*F3*WMV;
+Jolly Rancher;
+Mustachios*F3*WMV;
+Penne Dreadful*F4*WMV;
+Polaris Fries*F4;
+Rhubarbed Wire;
+Satyr Chow*F2;
+Ships 'n' Queso*F4*WMV;
+Snow Apple Cider*F2;
+Snow Apple Pie;
+Veggie Juice*F3*WMV;
+
+| jewels =
+Polished Blocking Citrine +12;
+Polished Critical Onyx +11;
+Polished Critical Sapphire +12;
+Polished Damage Amethyst +21;
+Polished Defense Peridot +44;
+Polished Piercing Citrine +6%;
+Polished Piercing Ruby +6%;
+
+| pins =
+
+| pets =
+Ice Bird;
+Mountain Yeti*CR*F2;
+Nodori Winged Ram*CR;
+White Winter Owl*CR*F2;
+
+| seeds =
+Angora Bunny Ears;
+Blue Huckleberries;
+Couch Potatoes*CR*F2;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR*F4*WMV;
+Evil Snow Peas*F2;
+Fish on a Vine*F3*WMV;
+Frozen Fly Trap*F3;
+Green Snow Apples*F2;
+Helephant Ears*F6*WMV;
+Purple Snow Apples*F2;
+Queen Crape Myrtle*F2;
+Snow Apples;
+Ultra Helephant Ears;
+Ultra Snow Apples;
+White Desparagus*F3*WMV;
+White Laugh-O-Dil*F4*WMV;
+White Tiger Lily*F4*WMV;
+
+| mounts =
+
+| spells =
+
+}}

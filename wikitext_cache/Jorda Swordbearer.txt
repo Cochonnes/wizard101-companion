@@ -1,0 +1,194 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 4,065
+| crecla = Bear
+| crecla2 = Polar Bear
+| school = Life
+| startpips = 3
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Frostheart Raider;
+
+| world = Grizzleheim
+| location = Vestrilund
+| subloc1 = Jorda's Cave
+| descrip =
+Two additional Frostheart Raider Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Hold! These Golden Apples are mine and mine alone! None shall taste their sweetness but me."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+The Tree of Golden Apples has this powerful Valkyrie as its guardian.
+
+| extract class =
+Polar Bear;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Death Shield;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Giant Spider;
+Lifeclops;
+Seraph;
+Earth Walker;
+Centaur;
+Natural Attack (Life 85x);
+
+| quests =
+Golden Delicious;
+
+| gold =
+73 - 103;
+
+| hats =
+Cowl of Esprit;
+Cowl of Justice*F3;
+Cowl of Spirit Calling*F2;
+Horned Helm of the Mighty;
+Horned Helm of Valor;
+
+| robes =
+Coat of Ages;
+Coat of Justice;
+Hardy Coat;
+Mocking Raiment*F2;
+Raiment of Ash;
+Raiment of the Evil Eye;
+Raiment of the Sun;
+
+| boots =
+Barbarian's Bold Boots*F2*WMV;
+Barbarian's Brave Boots*F5*WMV;
+Barbarian's Courage Boots;
+Barbarian's Daring Boots*F2;
+Barbarian's Fearless Boots*F5*WMV;
+Barbarian's Fierce Boots*F5*WMV;
+Barbarian's Valorous Boots*F3;
+
+| athames =
+Wolf's Ruby Claw*F3*WMV;
+
+| amulets =
+Amulet of the Fire Pearl*F4*WMV;
+Valkyrie's Pearl Pendant;
+
+| rings =
+Golden Ring of Battle;
+Ring of the Hunting Wolf;
+Ring of the Ravenous Wolf*F2;
+
+| wands =
+Cloudberry Staff;
+Juniper Staff*F3;
+Staff of the Boreal Bear*F2;
+
+| decks =
+
+| items =
+
+| cards =
+Fuel*F8*WMV;
+Ice Trap;
+Monstrous*F6*WMV;
+Pacify;
+Power Link*F7*WMV;
+Vengeance*F6*WMV;
+
+| reagents =
+Brass;
+Bronze Gear*F6*WMV;
+Cobalt*F4*WMV;
+Leather Straps*F6*WMV;
+Nickel*F5;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Cauliflowers;
+Delicious Cookie;
+Flaming Soup;
+Glowing Dragon Fruit;
+Glowing Star Fruit;
+Glowing Taffy*F3*WMV;
+Goat Cheese;
+Golden Apple;
+Gummy Humongofrog;
+Salmonberry*F2;
+Shiny Tomato;
+Spicy Drumstick;
+Uni-Corn*F2;
+
+| jewels =
+Balance-Boon Citrine;
+Blazing Oak Ruby;
+Dull Accurate Onyx +6%;
+Entangle Jade;
+Gargantuan Talent Opal;
+Hexster Citrine;
+Mega Hurry Opal;
+Melt Sapphire;
+Plain Critical Jade +5;
+Plain Defense Amethyst +29*F2*WMV;
+Plain Defense Citrine +29;
+Plain Defense Opal +15;
+Plain Defense Sapphire +29;
+Quick-Witted Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Cornbread Fruit Bush*F2*WMV;
+Deadly Fly Trap;
+Evil Snow Peas*F2;
+Fickle Pickle;
+Orange Dandelion;
+Trumpet Vine;
+White Laugh-O-Dil*F2;
+
+| mounts =
+
+| spells =
+
+}}

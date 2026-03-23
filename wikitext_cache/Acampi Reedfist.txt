@@ -1,0 +1,220 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 14,840
+| crecla = Dino
+| crecla2 = Undead
+| crecla3 = Raptor
+| school = Fire
+| masteries =
+Balance;
+
+| startpips = 5
+| powerpips = Yes
+| critical =
+86 Any;
+
+| criticalblock =
+69 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Smoking Mirror Zombie;
+
+| world = Azteca
+| location = Cenote
+| subloc1 = Deepest Mine
+| descrip =
+
+| speech =
+:''"Greetings, Outsider. I am the true king of the Aztecosaurs! My rule extends from even beyond death! Prepare to slake my hunger."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+This former King of the Aztecosaurs met a brutal end at the hands of the Hungry Dead. Then you came and kicked him while he was down.
+
+| extract class =
+Dinos;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Availing Hands;
+Fireblade;
+Bladestorm;
+Fire Trap;
+Brimstone Revenant;
+Natural Attack (Fire 190-380-570);
+Meteor Strike (355-395);
+Fire Serpent (525);
+Firezilla;
+Helephant;
+Fire Dragon (495+395);
+Efreet;
+Rain of Fire;
+Sun Serpent;
+Obsidian Colossus (460);
+
+| quests =
+Cold Dead Hands;
+
+| gold =
+120 - 148;
+
+| hats =
+Black Sun Chac's Helmet*F2*WMV;
+Keeper of the Codex Crown*F5*WMV;
+Mask of the Calavera;
+Sweet Kiss of Death Mask;
+
+| robes =
+Smoking Obsidian Scales*F2*WMV;
+Vestment of the Hungry Lizard*F2;
+
+| boots =
+Ice Age Tyrant's Walkers;
+Smoking Obsidian Rangers;
+
+| athames =
+
+| amulets =
+Charm of the Gold Aztecosaur*F2;
+Kronosaur's Shell of Passion*F2*WMV;
+Pendant of the Wild Wings*F3*WMV;
+
+| rings =
+
+| wands =
+Head of the Fire Arrow Wand;
+Rod of the Black Sun*F2;
+
+| decks =
+Codex of the Lost Fire*F2*WMV;
+Jaguar Paw Pyramid*F2;
+King's Royal Portraits;
+White Fire Case;
+
+| items =
+Azteca Combat Theme;
+Azteca Dungeon Theme*F2*WMV;
+Azteca Rug*F2*WMV;
+Star Dino Shield*F2*WMV;
+
+| cards =
+Basilisk;
+Chastisement*F2*WMV;
+Colossal;
+Cycle of Life*F2;
+Extraordinary*F2*WMV;
+Fire Dragon;
+Furnace;
+Galvanic Field*F2;
+Gnomes!;
+Polymorph Icehorn*F2*WMV;
+Polymorph Jaguar;
+Polymorph Pteranodon*F2*WMV;
+Potent Trap;
+Primordial;
+Rain of Fire*F2*WMV;
+Rebirth;
+Reliquary*F2;
+Sharpened Blade;
+Sleet Storm*F2*WMV;
+Vengeance;
+Virulence;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus;
+Black Pearl*F2;
+Blood Moss*F2*WMV;
+Bone*F2*WMV;
+Bronze;
+Bronze Gear*F3*WMV;
+Deep Mushroom*F4*WMV;
+Fire Blossom;
+Fish Fin;
+Fossil;
+Golden Pearl;
+Lava Lily*F3*WMV;
+Mist Wood*F2*WMV;
+Nightshade*F2;
+Ore*F4*WMV;
+Red Mandrake*F3;
+Steel;
+Stone Block*F3;
+Sunstone;
+Tungsten*F3;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Allocados;
+Bedrock Bonbons*F2;
+Buttered Bread;
+Cacao Beans;
+Cactus Fruit;
+Chapulines;
+Fried Ice Cream*F2;
+Maize;
+Quetzal Pretzel;
+Saber-Tooth Cider;
+Saursa;
+Tenochti-Flan*F2;
+Tortilla Chips;
+Zocalo Wings*F2;
+
+| jewels =
+Clear Defense Hematite +38;
+Elf on Fire Ruby;
+Fire-Giver Ruby;
+Polished Blocking Hematite +12;
+Polished Damage Sapphire +21;
+Troll Minion Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+King Parsley*CR;
+Maelstrom Snap Dragon*F2;
+Ninja Fig*CR;
+Red Huckleberries;
+Venus Fly Trap;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

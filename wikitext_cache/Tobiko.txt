@@ -1,0 +1,202 @@
+{{Stub|which version of the '''Mutate''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,350
+| crecla = Fish
+| school = Fire
+| startpips = 4
+| powerpips = Yes
+| critical =
+25 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice;
+
+| incresist =
+35% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Wing-Fish;
+
+| world = Celestia
+| location = Stormriven Hall
+| subloc1 = The Cave of Night
+| descrip =
+*Two additional {{Link|Creature|Voltic Eel}}s appear if more than two Wizards are present.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip.
+
+| casts =
+Fireblade;
+Fire Trap;
+Sunbird;
+Meteor Strike;
+Phoenix;
+Colossus (Fire);
+Helephant;
+
+| quests =
+In Too Deep;
+
+| dropnotes = 
+When a Wizard has unlocked the '''[[Basic:Dragonspyre Badges|Savior of the Spiral]]''' {{Icon|Savior of the Spiral}} Badge and has not unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge, the following drops will be available:
+*4 Random Spellements will drop each time for rank 3-7 Spells.
+
+| gold =
+60 - 76;
+
+| hats =
+Festive Facade;
+Helmet of the Hero;
+Mask of Cold Intent*F4*WMV;
+Mask of Wonder;
+
+| robes =
+Armor of Celestian Totality*F2;
+Attuned Uniform*F2;
+Cloak of Shadows;
+Life Armor*F5*WMV;
+Romantic Robe;
+
+| boots =
+Boots of Bewilderment;
+Diamond Dust Runners*F2*WMV;
+Insulated Greaves;
+Thundercloud Walkers;
+Thundercracked Clogs;
+Wretched Runners*F3*WMV;
+
+| athames =
+Crab Claw;
+Dancing Dirk;
+Dirk of Discovery*F5*WMV;
+Edge of Equality;
+Edge of Shadows;
+Living Claw;
+
+| amulets =
+
+| rings =
+Band of the Briny Deep;
+Imbued Ring;
+Loop of Illusions*F3;
+Ring of Exploration;
+Tobiko's Scorched Signet*F3;
+
+| wands =
+
+| decks =
+
+| items =
+Grand Astrolabe;
+
+| cards =
+Accurate*F6*WMV;
+Amplify*F6*WMV;
+Cyclops;
+Dragonflies;
+Giant*F5;
+Monstrous*F6*WMV;
+Mutate Cat;
+Pacify;
+Pest Zapper;
+Sniper;
+Sprite;
+Storm Shark;
+Vengeance*F5*WMV;
+
+| reagents =
+Cobalt*F2;
+Fish Fin*F11;
+Nickel*F2;
+Sandstone*F12*WMV;
+Scales*F3*WMV;
+Sunstone*F4*WMV;
+
+| spellements =
+Banshee*BR;
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops*BR;
+Cyclops Minion*BR;
+Earth Walker*BR;
+Evil Snowman*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR*F2;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*BR*F2;
+Ice Wyvern*BR;
+Immolate*BR;
+Kraken*BR;
+Locust Swarm*BR*F2;
+Minotaur*BR;
+Nature's Wrath*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Scarecrow*BR;
+Seraph*BR;
+Skeletal Pirate*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Storm Shark*BR;
+Stormzilla*BR*F2;
+Sunbird*BR;
+Triton*BR;
+Vampire*BR;
+Wraith*BR;
+
+| snacks =
+Cauliflowers;
+Delicious Cookie;
+Glowing Star Fruit;
+Glowing Taffy;
+Spicy Drumstick*F3*WMV;
+Submarine Sandwich*F2;
+
+| jewels =
+Dissipate Amethyst;
+Eat My Dust Opal;
+Melt Sapphire;
+Mend Minion Talent Peridot;
+Plain Defense Onyx +29;
+Plain Health Opal +59*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fish on a Vine;
+Maelstrom Snap Dragon*F2*WMV;
+Pink Dandelion*CR;
+Silver Trumpet Vine*CR;
+
+| mounts =
+
+| spells =
+
+}}

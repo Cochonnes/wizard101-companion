@@ -1,0 +1,211 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 11,940
+| crecla = Golden Horde Soldier
+| crecla2 = Horse
+| crecla3 = Equine
+| school = Sun
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+18%;
+
+| outboost =
+124%;
+
+| incboost =
+None;
+
+| incresist =
+40% Any;
+
+| outhealing =
+50%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Golden Horde Soldier (Storm);
+
+| world = MooShu
+| location = Catmandu
+| subloc1 = Monastery (MooShu)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+:'''Tung-Ak:''' ''"When I saw you fighting my forces in the village below, I waited to see if I was right. I am not disappointed."''
+
+:'''Moo Bu:''' ''"I am."''
+
+:'''Tung-Ak:''' ''"Yes, I imagine little impresses Moo Bu, who once felled a dragon with a feather. Except, of course, the man who beat you. What was his name?"''
+
+:'''Moo Bu:''' ''"*Grumbles"''
+
+:'''Tung-Ak:''' ''"You don't impress me either. I'll wield this Order's Sacred Yarn as a grapple to take me to the Stone of Heaven - itself a gift of the ancestors. Once its powers are mine, MooShu will at last kneel to the Golden Horde! Colonel, fight with honor."''
+
+:'''Golden Horde Colonel:''' ''"And die if must"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Novus
+| tome description =
+Being a colonel is great: all the danger of still being in the field, plus all the stress of command.
+
+| extract class =
+Equine;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Round}} ''"I empower the horde!"'' - At the end of every two Rounds, Golden Horde Colonel will cast {{Link|Spell|Donate Power}}.
+
+| spellnotes =
+*Casts a protected Dwarven Aegis.
+
+| casts =
+Flawless;
+Sun Shield (Storm-Life-Fire);
+Dwarven Aegis;
+Rebirth (Sun);
+Balanceblade (+35%);
+Dragonlance;
+Loremaster (Sun);
+Savage Paw (Sun);
+Fire Dragon (Sun);
+Ra (Sun);
+Sun Serpent (Sun);
+
+| quests =
+Felinious Monk;
+
+| gold =
+4 - 43;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Broccoli Tree*F2;
+Cat Tapestry;
+Catmandu Arch;
+Dog Paw Hedge*F3;
+Fish Fence;
+Giant Blueberry*F3;
+Giant Cheese Wheel;
+Giant Cherry*F2;
+Mail Bag*F2;
+Monquistan Banner*F3;
+Novus Conatus Alternate Theme;
+Novus Conatus Theme;
+Novus Dasein Theme 1;
+Novus Dasein Theme 2;
+Novus La Ville Rose Theme;
+Novus Manticore Madness Theme 1;
+Novus Manticore Madness Theme 2;
+Novus New Vicorgia Combat Theme*F2;
+Novus New Vicorgia Theme;
+Novus Nucleus Gallery Theme;
+Novus Puerto Nuovo Combat Theme;
+Novus Puerto Nuovo Theme*F2;
+Novus Stone of Heaven Theme;
+Novus War Combat Theme;
+Novus War Theme;
+Snow Walrus;
+Valencia Combat Theme 2;
+Valencia Danger Theme;
+Valencia Espionage Theme;
+Valencia Kane Combat Theme;
+Valencia Kane Theme;
+Wide Teapot Tree;
+
+| cards =
+Azoth;
+Dream Shield;
+Elemental Shield;
+Elemental Spear;
+Ether Shield;
+Galvanic Field;
+Green Widow*F2;
+Guidance;
+Mass Death Prism;
+Mass Fire Prism;
+Mass Ice Prism;
+Mass Life Prism;
+Mass Myth Prism;
+Mass Storm Prism;
+Sanctuary;
+Taunt;
+Triage;
+
+| reagents =
+Amber Dust;
+Astral Shard;
+Draconium;
+Ectoplasm*TEST;
+Iron*F2;
+Merle's Whisker;
+Mithril;
+Orichalcum;
+Platinum;
+Silver;
+Steel;
+Titanium;
+Toffee Bean;
+Turquoise*F2;
+
+| spellements =
+
+| snacks =
+Bearberry;
+Colossal Rutabaga;
+Gobbler Stoppers;
+Fuzzy Peach Fizz;
+Jolly Rancher;
+Kalua Kebab;
+Mustachios;
+Peppercorn;
+Street Pizza*F2;
+Zeus Newton;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,206 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 11,160
+| crecla = Ogre
+| school = Ice
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Spiny Spriggan;
+
+| world = Avalon
+| location = The Wyrd
+| subloc1 = Eurgh's Tower
+| descrip =
+Two additional {{Link|Creature|Scurvy Skirker}}s appear if more than two Wizards are present.
+
+| speech =
+:''"My name is Eurgh! One punch and your face will be broken. I'll leave you split wide open!"''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Vengeance;
+Tower Shield;
+Iceblade;
+Ice Trap;
+Freeze;
+Balefrost;
+Natural Attack (Ice 160-320-480);
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Frostbite;
+Icezilla (650-730);
+Colossus;
+Frost Giant;
+Snow Angel;
+Woolly Mammoth;
+
+| quests =
+The Pain of War;
+
+| gold =
+141 - 186;
+
+| hats =
+Jouster's Helm*F2*WMV;
+Order's Princely Guard*F2;
+Thunderstruck Shroud*F3*WMV;
+
+| robes =
+Jouster's Plate;
+Ponycorn Blessed Tartan;
+Storm Crown Tunic*F2*WMV;
+Weirwood Champion's Armor*F2*WMV;
+
+| boots =
+Dread Keep Strollers*F2*WMV;
+Merciful Knight's Boots;
+Scaith Striders*F3*WMV;
+
+| athames =
+Froudling's Sharp Tooth;
+Lightning Lizard's Razor;
+
+| amulets =
+Chosen Chief's Amulet*F2*WMV;
+Knight of the Wyrd's Pendant*F2;
+
+| rings =
+Bannerman's Honorbound Ring;
+Black Annie's Band;
+Stone of the Other Side*F2*WMV;
+
+| wands =
+Longblade of Avalon*F3*WMV;
+Vassal's Longsword*F2;
+
+| decks =
+Argent Rose Deck*F2*WMV;
+Woodlocke Deck*F3*WMV;
+
+| items =
+Avalon Abbey Road Theme;
+Avalon Combat Theme*F2*WMV;
+Avalon Owl Stained Glass;
+MooShu Pet Derby Theme*F2;
+Wizard City Pet Derby Theme*F2;
+
+| cards =
+Amplify*F3*WMV;
+Berserk*F2;
+Colossal*F3*WMV;
+Empowerment*F2*WMV;
+Extraordinary*F2*WMV;
+Fire Dragon*F3*WMV;
+Fortify*F2*WMV;
+Frost Giant*F2*WMV;
+Frostbite*F5*WMV;
+Frozen Armor*F3*WMV;
+Gargantuan*F2;
+Infallible*F3*WMV;
+Legion Shield*F4*WMV;
+Medusa;
+Mend*F2*WMV;
+Orthrus*F2;
+Scarecrow*F2*WMV;
+Steal Ward*F2*WMV;
+Storm Lord*F3*WMV;
+Unstoppable;
+Vengeance*F3;
+
+| reagents =
+Black Lotus*F3*WMV;
+Brass*F2;
+Bronze;
+Cat Tail*F2*WMV;
+Cobalt;
+Deep Mushroom*F2*WMV;
+Frost Flower*F2;
+Lava Lily*F4*WMV;
+Mist Wood*F3*WMV;
+Ore*F2*WMV;
+Parchment*F2;
+Pearl*F2*WMV;
+Red Mandrake*F2*WMV;
+Shell*F2*WMV;
+Stone Block*F3*WMV;
+
+| spellements =
+
+| snacks =
+Bogwich;
+Buttered Bread*F2*WMV;
+Delicious Cookie;
+Deviled Eggs;
+Flaming Soup;
+Glowing Taffy;
+Golden Apple;
+Golden Grapes*F2*WMV;
+Gummy Humongofrog*F3*WMV;
+Gummy Wyrms;
+Jelly Baby*F2*WMV;
+King Banana;
+Kola Nuts;
+Pigeon Pie;
+Roasted Chickpeas;
+Salmonberry*F2;
+Shiny Tomato;
+Spicy Drumstick*F2*WMV;
+Submarine Sandwich;
+Treant Bark*F2*WMV;
+Uni-Corn*F2*WMV;
+
+| jewels =
+Clear Critical Sapphire +10;
+Clear Damage Citrine +19;
+Clear Damage Onyx +19;
+Clear Piercing Sapphire +5%;
+Infector Onyx;
+Mass Infection Onyx;
+Opaque Critical Jade +7;
+Opaque Damage Peridot +18;
+Opaque Defense Ruby +36;
+SnowBorn Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+Burning Snap Dragon;
+Deadly Helephant Ears*CR;
+Pink Huckleberries*F3;
+Red Huckleberries*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,274 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 800
+| crecla = Golem
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Myth;
+
+| incresist =
+70% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gearhead (Chelsea Court);
+
+| world = Marleybone
+| location = Hyde Park
+| subloc1 = Hyde Fraternity House
+| location2 = Royal Museum
+| subloc2 = Big Ben
+| descrip =
+This Gearhead (Boss) is not to be confused with the non-Boss Creature that is also named {{Link|Creature|Gearhead (Chelsea Court)}}.
+*In the Hyde Fraternity House encounter, two additional Gearhead Minions will appear if more than two Wizards are present.
+*On the Hyde Park map, this Creature is labeled as "Gearhead Destroyer".
+
+| speech =
+:'''In Hyde Fraternity House:'''
+::''"You will not have this one, wiz-ard. We must return with him to our master. Resistance is futile!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Marleybone
+| tome description =
+So named because it likes to work on cars. What other reason could there be?
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Storm Damage.
+
+| casts =
+Myth Shield;
+Weakness;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Storm Serpent (155-195);
+Lightning Bats;
+Storm Shark;
+Squall Wyvern;
+Kraken;
+Banshee;
+Sunbird;
+
+| quests =
+Open Says Me;
+
+| dropnotes =
+When a Wizard has unlocked the '''Hero of Krokotopia''' {{Icon|Hero of Krokotopia}} Badge and has not unlocked the '''Oni Slayer''' {{Icon|Oni Slayer}} Badge, the following drops will be available:
+*5-8 Spellements and Treasure Card Spellements will drop each time from the '''Elemental''' (Fire, Ice, Storm, Balance) Schools for their respective rank 1-4 Spells.
+
+| gold =
+21 - 44;
+
+| hats =
+Brisk Cap;
+Cap of Expertise;
+Cap of Fascination;
+Cap of Ideals;
+Cap of Poise;
+Cap of Symmetry;
+Cap of the Banshee;
+Cap of the Inventor*F3*WMV;
+Cap of the Supreme;
+Cap of the Unicorn;
+Cat Burglar's Cap*F2;
+Elegant Helm;
+Exclusive Cap*F2;
+Exquisite Cowl;
+Famous Cap;
+Frozen Canine Cowl;
+Grandiose Headwraps*F2;
+Headwraps of Preference;
+Obligatory Shroud;
+Shroud of Predominance;
+Silent Canine Cowl;
+Skillful Hat*F2*WMV;
+Sophisticated Headwraps*F2;
+Vest of Predominance;
+Visor of Invention;
+
+| robes =
+Alluring Robes*F2;
+Animated Canine Cloak;
+Artificial Robe*F3;
+Cloak of Clarity;
+Cloak of Respect;
+Comedian's Robe;
+Dexterous Vest*F2;
+Fancy Garments*F2;
+Finely Finished Cloak;
+Garment of the Supreme*F2*WMV;
+High Quality Cloak;
+Polished Garments;
+Precious Cloak;
+Robe of Politeness;
+Robe of the Affected;
+Robe of the Aristocrat;
+Robe of the Bubble;
+Robe of the Exceptional;
+Savvy Vestment;
+Shaman's Uniform*F2;
+Vestment of Expertise;
+Vestment of the Enigma;
+
+| boots =
+Boots of the Nucleus;
+Crackling Boots*F2;
+Exacting Boots;
+Famous Footwraps;
+Grandiose Sandals;
+Opportunists' Sandals;
+Sandals of Dedication;
+Sandals of Delusion;
+Sandals of Paramount;
+Shoes of Inclination*F2;
+Shoes of Sentiments*F2;
+Shoes of the Devoted*F2;
+Shoes of the Exceptional;
+Shoes of the Windless;
+Slippers of Gusto;
+Slippers of Tranquility;
+Slippers of the Worrier*F2;
+
+| athames =
+Conventional Dagger*F2;
+Dagger of Force;
+Detective's Dagger;
+Dirk of Nobles;
+Graceful Stiletto;
+Informant's Dirk;
+Shortblade of Flowers;
+Watchman's Athame*F3*WMV;
+
+| amulets =
+
+| rings =
+Comedian's Ring;
+Ring of the Unicorn*F3;
+
+| wands =
+
+| decks = 
+Deck of Chivalry;
+
+| items =
+Angled Gravemarker;
+Ball of Blue Yarn;
+Short Metal Fence;
+Stein;
+
+| cards =
+Dryad;
+Evil Snowman (Tier 2b)*BR;
+Fire Cat (Tier 2b)*BR;
+Frost Beetle;
+Giant;
+Ice Wyvern*F2;
+Lightning Bats (Tier 2b)*BR*F4;
+Locust Swarm (Tier 2b)*BR*F3;
+Monstrous;
+Sandstorm;
+Scarab*F2;
+Scorpion (Tier 2b)*BR;
+Snow Serpent (Tier 2b)*BR*F2;
+Spirit Armor;
+Storm Shark (Tier 2b)*BR*F2;
+Sunbird (Tier 2b)*BR*F4;
+Thunder Snake (Tier 2b)*BR;
+Vampire;
+
+| reagents =
+Bronze Gear*F8*WMV;
+Copper*F2;
+Iron*F4;
+Lead*F2;
+Nickel*F2;
+Spider Silk*F4*WMV;
+Tin*F4;
+
+| spellements =
+Evil Snowman*BR*F37;
+Fire Cat*BR*F32;
+Fire Elf*BR*F29;
+Frost Beetle*BR*F26;
+Gearhead Destroyer*BR*F32;
+Ice Wyvern*BR*F37;
+Immolate*BR*F40;
+Kraken*BR*F33;
+Lightning Bats*BR*F41;
+Locust Swarm*BR*F20;
+Scarab*BR*F16;
+Scorpion*BR*F26;
+Snow Serpent*BR*F39;
+Storm Shark*BR*F43;
+Sunbird*BR*F30;
+Thunder Snake*BR*F36;
+
+| snacks =
+Caramel Popcorn*F4;
+Gummy Bloodbat*F3;
+Medium Fish*F4;
+Redskin Peanut*F2;
+Square Watermelon*F4*WMV;
+Stinky Cheese*F2;
+Wheat Cracker*F5*WMV;
+
+| jewels =
+Canny Opal;
+Chipped Accurate Ruby +3%;
+Chipped Damage Amethyst +7*F2;
+Chipped Damage Citrine +7;
+Chipped Defense Jade +15;
+Chipped Health Opal +23;
+Chipped Health Opal +24;
+Chipped Mana Opal +10;
+Distract Opal;
+Flawed Accurate Opal +2%;
+Flawed Health Opal +30*F2;
+Huge Energy Opal;
+Siphon Opal;
+Sprite Jade*F2;
+Locust Swarm Citrine;
+Storm Shark Amethyst;
+Sunbird Ruby;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

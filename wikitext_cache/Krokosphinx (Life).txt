@@ -1,0 +1,188 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 999
+| heal = 100,000
+| crecla = Krokotopian
+| school = Life
+| masteries =
+Fire;
+Ice;
+Storm;
+Myth;
+
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+20%;
+
+| outboost =
+104%;
+
+| incboost =
+30% Death;
+
+| incresist =
+37% Fire, Ice, Storm, Myth, Balance, Shadow;
+67% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia 
+| location = Garden of Khonsu
+| subloc1 = 
+| badge = Livin' the Sphinx Life
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*Krokosphinx (Life) is accessed through the teleporter in {{Link|Location|Halls of Taweret}}.
+
+| speech =
+
+| spellnotes =
+*Casts a protected version of Greyrose's Shield.
+
+| casts =
+Devotion (6 Rounds);
+Thermic Shield (-75%);
+Greyrose's Shield;
+Dream Shield (-75%);
+Regenerate (Tier 5b);
+Hamadryad (7 Pip);
+Taweret (Tier 3a);
+Lifeblade (+40%);
+Raindrop Blade;
+Fireblade Lifeblade;
+Elemental Blade;
+Spirit Blade;
+Sun Blade (+35%);
+Star Blade;
+Guardian Spirit (20%);
+Power Current;
+Empower;
+Nature's Wrath (Tier 5b);
+Infestation (Tier 5);
+Seraph (Tier 5b);
+Earth Walker (Tier 5b);
+Lord of the Jungle (Tier 3b);
+Centaur (Tier 5a);
+Wings of Fate (2 Shadow Pip);
+Forest Lord (Tier 5b);
+Spinysaur (Tier 5b);
+Troll (Tier 5b);
+Fire Elf (Tier 5b);
+Immolate (Tier 5b);
+Raging Bull (2 Shadow Pip);
+Fire Dragon (Tier 5b);
+Lord of Blazes;
+Efreet (Tier 5b);
+Storm Shark (Tier 2b);
+Sound of Musicology (Tier 3b);
+Triton (Tier 5a);
+Storm Lord (Tier 5b);
+Lord of the Squall (Storm);
+Storm Owl (Tier 5b);
+Super Shadowplume;
+Scorpion (Tier 5c);
+Scarab (Tier 5c);
+
+| quests =
+
+| gold =
+14 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Selenopolis Blended Grove Theme;
+Selenopolis Boss Combat Theme*F2*WMV;
+Selenopolis Combat Theme;
+Selenopolis Field of Reeds Theme;
+Selenopolis Forgotten Combat Theme;
+Selenopolis Forgotten Theme;
+Selenopolis Garden Combat Theme;
+Selenopolis Garden Theme;
+Selenopolis Theme;
+Selenopolis Zigazag Market Com Theme;
+Selenopolis Zigazag Market Theme;
+
+| cards = 
+Basilisk;
+Chimera;
+Dr. Von's Monster;
+Efreet;
+Gnomes!;
+Leviathan;
+Lord of Winter;
+Medusa;
+Ra;
+Rain of Fire;
+Sabertooth;
+Sirens;
+Skeletal Dragon;
+Spinysaur;
+Snow Angel;
+Storm Owl;
+Woolly Mammoth;
+
+| reagents =
+Amber Dust;
+Astral Shard;
+Draconium;
+Iron;
+Merle's Whisker;
+Mithril;
+Orichalcum;
+Titanium;
+Toffee Bean;
+
+| spellements =
+
+| snacks =
+Alligator Pear;
+Baby Carrot;
+Crab Apples;
+Cubby Broccoli;
+Dr. Jalapeno;
+Killer Kumquat;
+Spicy Stingers;
+Tortilla Chips;
+Zen Poppers;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts = 
+Bling Cobra*PERM;
+
+| spells =
+
+}}

@@ -1,0 +1,191 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 17,280
+| crecla = Shadow Weaver
+| school = Death
+| startpips = 6
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Night Weaver;
+
+| world = Azteca
+| location = Floating Mountains
+| subloc1 = Turquoise Cave
+| descrip =
+
+| speech =
+:''"I'll crack your bones and slake my thirst, and earn a great commendation from the Shadow Queen!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Infection;
+Mass Infection;
+Deathblade;
+Death Trap;
+Feint;
+Death Scarab (Death);
+Natural Attack (Death 165-330-495);
+Wraith (575);
+Scarecrow;
+Dr. Von's Monster;
+Avenging Fossil;
+
+| quests =
+Sky Walker;
+
+| gold =
+115 - 142;
+
+| hats =
+
+| robes =
+Black Sun Chac's Armor*F2*WMV;
+Glorious Xicolli Vest;
+Grinning Death Xicolli Vest;
+Keeper of the Codex Vest;
+Lord of Night Robes*F2*WMV;
+Philososaur's Robes;
+Vestment of the Hungry Lizard;
+White Fire Chac's Armor*F2;
+
+| boots =
+Black Tears of Night Wraps*F3*WMV;
+Elite Jura Guard Stalkers*F2*WMV;
+Five Fangs of Fury Boots*F3*WMV;
+Heart of Sky Boots;
+Indigo Wing Striders;
+Tree of Secrets Chac Runners;
+Twisted Fang Boots;
+
+| athames =
+Moon Skull's Blessed Edge*F2;
+Thunder Horn's Rough Cutter;
+Winged Tooth Knight's Hook;
+
+| amulets =
+Horizon of Underworld Charm;
+Pendant of the Wild Wings;
+Speaking Water Ornament;
+
+| rings =
+
+| wands =
+New Moon Lance;
+Spear of Breaking Dawn;
+Talon of the Storm Owl*F2;
+
+| decks =
+Calendar of the Spiral King*F3*WMV;
+King's Royal Portraits*F3*WMV;
+Lords of Night Pyramid Deck;
+
+| items =
+Azteca Apocalypse Theme*F2*WMV;
+Bird Head Mount;
+Clothesline;
+Starburst Frond*F2*WMV;
+
+| cards =
+Basilisk;
+Colossal*F3*WMV;
+Dr. Von's Monster;
+Extraordinary;
+Fortify;
+Frost Giant;
+Gnomes!;
+Potent Trap;
+Primordial;
+Rain of Fire;
+Sharpened Blade;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F2;
+Blood Moss;
+Bone*F2*WMV;
+Bronze;
+Bronze Gear*F2;
+Deep Mushroom;
+Fire Blossom*F2*WMV;
+Golden Pearl*F2*WMV;
+Lava Lily*F3*WMV;
+Mist Wood*F2*WMV;
+Nightshade;
+Ore*F2*WMV;
+Red Mandrake*F2;
+Silver*F2;
+Stone Block*F2*WMV;
+Sunstone;
+Turquoise*F2*WMV;
+
+| spellements =
+
+| snacks =
+Apatotatoes;
+Avocado Milkshake*F2*WMV;
+Chapulines;
+Dr. Jalapeno;
+Guava;
+Maize;
+Pterotomatoes;
+Quetzal Pretzel;
+Rex Tea;
+Stego Waffles;
+Zocalo Wings*F2;
+
+| jewels =
+Calculating Opal;
+Clear Piercing Jade +5%;
+Drain Health Jade;
+Mend Minion Peridot;
+Polished Damage Jade +21;
+Polished Damage Peridot +21;
+Polished Defense Opal +22;
+Sap Health Citrine;
+Spectral Minion Citrine;
+Storm-Proof Amethyst;
+Tower Shield Sapphire;
+Troll Minion Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Fish on a Vine;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

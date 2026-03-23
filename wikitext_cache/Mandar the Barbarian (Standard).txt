@@ -1,0 +1,137 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 4,350
+| crecla = Mander
+| school = Myth
+| cheats = 
+| shadowslots = 
+| startpips = 1
+| powerpips = Yes
+| schoolpips =
+Myth;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+15% Storm;
+
+| incresist =
+24% Myth;
+
+| outhealing =
+
+| inchealing =
+53%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Lemuria
+| location = Telos
+| subloc1 = Hall of Heroes (Standard)
+| descrip =
+Mandar the Barbarian is considered a Minion to [[Creature:Stallion Quartermane (Standard)|Stallion Quartermane]]. All drops are recorded on that page.
+
+'''The First Team'''
+*{{Target|Dagger}} [[Creature:Solomon Crane (Standard)|Solomon Crane]]
+*{{Target|Key}} [[Creature:Buck Gordon (Standard)|Buck Gordon]]
+*{{Target|Gem}} [[Creature:The Shadoe (Standard)|The Shadoe]]
+*{{Target|Spiral}} [[Creature:Dog Tracy (Standard)|Dog Tracy]]
+
+'''The Second Team'''
+*{{Target|Book}} [[Creature:Mandar the Barbarian (Standard)|Mandar the Barbarian]]
+*{{Target|Chalice}} [[Creature:Duck Savage (Standard)|Duck Savage]]
+*{{Target|Wand}} [[Creature:Stallion Quartermane (Standard)|Stallion Quartermane]]
+*{{Target|Potion}} [[Creature:The Bantam (Standard)|The Bantam]]
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Lemuria
+| tome description =
+Heir to the great warriors: He-Mander, Woenan, Sundarr and Bill. Actually, Bill's not that great.
+
+| extract class =
+Mander;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+| altlink = Mandar the Barbarian
+
+| spellnotes =
+*Casts protected Mythblade.
+
+| casts =
+Ether Shield;
+Mythspear;
+Mythblade;
+Pierce;
+Stun;
+Blinding Light;
+Athena Battle Sight;
+Humongofrog;
+Natural Attack (Myth 115-230-345-460);
+Minotaur;
+Earthquake;
+Orthrus;
+Medusa;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Mandar the Barbarian (Hall of Heroes)
+}}

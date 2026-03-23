@@ -1,0 +1,268 @@
+{{Stub|updated Boost and Resist values after the 2025 Spring Update.}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,150
+| crecla = Celestian
+| school = Star
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice;
+
+| incresist =
+35% Storm, Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Ptolemos (Rank 6 Minion);
+Ptolemos (Rank 6 Minion);
+Ptolemos (Rank 6 Minion);
+
+| world = Celestia
+| location = Trial of the Spheres
+| subloc1 = Sanctum of the Stars
+| lootchest = Astraeus' Chest
+| descrip =
+Astraeus is the first Boss in the Trial of the Spheres. He drops rare Level 58 gear, as well as some Dragonspyre clothing items. The Gold Reward for this battle can be exceptionally high when many of his Minions have been defeated.
+
+| speech =
+:''"Though my home was beyond the stars, I have dwelt in this place for time out of mind, serving and waiting. I will not surrender the secrets of Celestia's magic willingly!"''
+:''"The skies of the Spiral shine with many stars... but my light is the brightest you will face!"''
+
+| cheatnotes =
+*{{Icon|Minion}} ''"The constellations form again!"'' - At the end of the first Round, Astraeus will summon three Ptolemos (Rank 6 Minion) Minions, which become active two Rounds later.
+*{{Icon|Shield}} During the first Round, Astraeus will use his turn to cast a '''-90%''' Tower Shield on himself.
+**He will interrupt-cast the Tower Shield (-90%) every time he is damaged for as long as his Minions are alive.
+***Sometimes Damage over Time (DoT) Spells will not trigger this cheat.
+***If all his Minions are defeated, he will no longer cast the Tower Shield (-90%), until he re-summons them two to three Rounds later.
+****On occasion, he will not re-summon the Minions.
+**{{Link|Spell|Melt}} can be used to dispel this cheat.
+**{{Link|Spell|Pierce}} or {{Link|Spell|Steal Ward}} can be used to safely remove the Tower Shield (-90%).
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Elemental Shield;
+Tower Shield (-90%);
+Smoke Screen;
+Quench;
+Satyr;
+Elemental Blade;
+Elemental Trap;
+Spirit Trap;
+Meteor Strike;
+Natural Attack (Ice 85x, 80%);
+Spectral Blast;
+Hydra;
+Power Nova;
+Judgement;
+
+| quests =
+Trial of the Spheres;
+
+| gold =
+152 - 681;
+
+| hats =
+Cap of the Archivist;
+Cowl of the Necromancer*F2;
+Cyclone Coif*F2;
+Eclipse Cover*F4*WMV;
+Frostflower Cap*F3*WMV;
+Hat of the Ever Watchful*F2*WMV;
+Headdress of the Grove*F2*WMV;
+Headdress of the Phoenix*F2;
+Headgear of the Absolute;
+Hood of Ashes*F2;
+Hood of the Tempest*F2;
+Icefire Hood*F2*WMV;
+Librarian's Mantle;
+Mantle of Growth*F2*WMV;
+Tempest Topper*F2*WMV;
+Veil of the Guardian;
+
+| robes =
+Cloak of Mortality*F3*WMV;
+Gardener's Smock*F2;
+Illusive Longcoat*F6*WMV;
+Robe of Rapture*F4*WMV;
+Robe of the Conflagration*F3*WMV;
+Robes of the Ice Queen*F2*WMV;
+Sorcerer's Robe;
+Tempest Robe*F2*WMV;
+Vestment of Fable*F4*WMV;
+Vestment of the Howling Wind;
+Wicked Raiment*F3*WMV;
+
+| boots =
+Boots of the Hurricane*F2*WMV;
+Celestian Snow Boots*F3;
+Eclipse Clogs*F3*WMV;
+Footgear of the Forgotten;
+Footwraps of the Whirlwind;
+Mocassins of the Embers*F2;
+Mocassins of the Healer;
+Mocassins of the Polar Ice*F2;
+Mythmaker Boots*F2*WMV;
+Sandals of Sleet;
+Sandals of the Remortal;
+Sandals of the Shaman;
+Slippers of Deftness*F3;
+Slippers of the Quiet*F3*WMV;
+Sunwalkers*F2;
+Talespinner's Footgear;
+
+| athames =
+Dirk of the Daring*F2*WMV;
+Indomitable Knife*F2;
+Moon Dagger*F3;
+Star Blade*F3*WMV;
+
+| amulets =
+Moon Pendant*F3;
+Star Amulet*F2*WMV;
+
+| rings =
+Dragontooth Ring*F3*WMV;
+Glimmering Band*F2*WMV;
+Lavastone Ring*F3*WMV;
+Moon Ring*F3*WMV;
+Star Signet*F4*WMV;
+
+| wands =
+Maize Wand*CR*HOL*F2;
+Staff of the Year's Dusk*CR*HOL;
+Wand of the Beguiler*CR*HOL
+
+| decks =
+
+| items =
+Celestia Combat Theme*F5*WMV;
+Dragonspyre Ruins*F2*WMV;
+Krokopatra Master Duel*CR*F2;
+Meowiarty Archmage Duel*CR*F2;
+Rattlebones Exalted Duel*CR*F2;
+Rattlebones Master Duel*CR*F2;
+Stars Icon*F4*WMV;
+Zeus Exalted Duel*CR*F2;
+
+| cards =
+Balefrost;
+Dragonflies;
+Empower*F6*WMV;
+Gargantuan*F6*WMV;
+Minotaur;
+Pest Zapper;
+Star Blade;
+Unstoppable*F3*WMV;
+
+| reagents =
+Brass*F4;
+Bronze;
+Cobalt;
+Copper;
+Fish Fin*F9*WMV;
+Lead;
+Nickel*F3;
+Sandstone*F10*WMV;
+Steel;
+Sunstone*F3*WMV;
+Tin*F4;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F3*WMV;
+Delicious Cookie*F4*WMV;
+Flaming Soup*F3*WMV;
+Glowing Star Fruit*F7;
+Glowing Taffy*F3*WMV;
+Goat Cheese*F6*WMV;
+Golden Grapes*F5*WMV;
+Gummy Humongofrog*F3*WMV;
+King Banana*F6*WMV;
+Spicy Drumstick*F5*WMV;
+Strawberry Cupcake;
+Submarine Sandwich*F3*WMV;
+
+| jewels =
+Amplify Opal;
+Big Energy Opal;
+Cheeky Opal;
+Dull Critical Jade +3;
+Dull Critical Onyx +3;
+Dull Critical Peridot +3;
+Dull Critical Sapphire +3;
+Dull Defense Amethyst +26;
+Dull Defense Onyx +26;
+Dull Defense Ruby +26;
+Dull Healing Opal +3%;
+Dull Mana Opal +22;
+Dull Mana Opal +23;
+Dull Resilient Opal +3%;
+Eat My Dirt Opal;
+Enfeeblement Opal;
+Fortify Opal;
+Gobbler Opal;
+Ice-Proof Sapphire;
+Life-Boon Jade;
+Life-Giver Jade;
+Mass Death Prism Onyx;
+Mass Myth Prism Peridot;
+Myth-Eye Peridot;
+No Pain, No Gain Onyx;
+Plain Blocking Opal +3*F2;
+Plain Blocking Sapphire +6;
+Plain Damage Jade +15;
+Plain Defense Opal +16;
+Storm-Giver Amethyst;
+Strong Talent Opal;
+Thunder Lizard Amethyst;
+Ultra Mute Opal;
+
+| pins =
+
+| pets =
+Lovely Leopard*CR*HOL;
+Lump of Coal*CR*HOL;
+Maple Moose*CR*HOL;
+Nutcracker*CR*HOL;
+Sea Dragon*CR*F4*WMV;
+Valentine Pig*CR*HOL*F2;
+
+| seeds =
+Deadly Fly Trap*F4*WMV;
+Fiery Boom Shroom;
+Happy Holidaisy*CR*HOL;
+Maelstrom Snap Dragon*F7*WMV;
+Pink Dandelion*CR*F3*WMV;
+Silver Trumpet Vine*CR*F4*WMV;
+White Laugh-O-Dil*F2;
+
+| mounts =
+Stormrider Hare*PERM*CR*HOL;
+
+| spells =
+
+}}

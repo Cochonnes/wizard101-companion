@@ -1,0 +1,185 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 8,880
+| crecla = Demon
+| crecla2 = Elephant
+| school = Life
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Student of Khai;
+
+| world = MooShu
+| location = Jade Palace
+| subloc1 = Tower of Absolute Being
+| descrip =
+*The Jade Oni, Mika Skarka, is the guardian of the Scrolls of Light in the Tower of Absolute Being. These scrolls are required to proceed to {{Link|Location|Avalon}}.
+*This Boss must be fought solo, but can be repeated until turning in the Quest {{Link|Quest|Positively Absolutely}}.
+
+'''Retired Monstrology Description:'''
+:This Jade Oni is the guardian of the Scrolls of Light, and one amazing breakdancer.
+
+| speech =
+:''"You should not be here, Wizard. The light of truth can be blinding!"''
+
+| spellnotes =
+
+| casts =
+Empowerment;
+Mend;
+Black Mantle;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Empower;
+Nature's Wrath;
+Life Banshee (250);
+Seraph;
+Centaur;
+Forest Lord;
+Gnomes!;
+Natural Attack (Life Oni);
+
+| quests =
+Positively Absolutely;
+
+| gold =
+92 - 113;
+
+| hats =
+Angelic Helm*CR;
+Brooding Cap*F2*WMV;
+Forgotten Facade;
+Headwraps of the Zealous*F3*WMV;
+Helm of Disquiet*F2;
+Insightful Topper;
+Jade Oni's Cap*F2;
+Jade Oni's Shroud of Nothing*F2;
+Nereus's Hoarfrost Helm;
+Synthesis Cover;
+Thundercloud Coif*F2;
+
+| robes =
+Jade Oni's Garments;
+Jade Oni's Vestment;
+Peculiar Garments*F2;
+Reckless Raiment;
+Tragic Tunic;
+Tunic of Anthems*F5*WMV;
+Tunic of Discontent*F2;
+Tunic of Fiery Renewal*CR;
+Turbulent Tunic;
+Vestment of the Lotus;
+Whimsical Surcoat;
+
+| boots =
+Boots of Celestian Totality*F2;
+Celestian Frostbit Footgear;
+Celestian Tempest Trekkers;
+Dashing Shoes*F2;
+Even Footing*CR;
+Gogi Berry Stained Boots*F2;
+Ice Rangers;
+Jade Oni's Boots*F2*WMV;
+Natural Boots;
+Slippers of Enthusiasm;
+Slippers of Inflection;
+Wraps of Rapport;
+
+| athames =
+Dagger of Typhoons;
+
+| amulets =
+Jade Oni's Amulet of Duplicity;
+
+| rings =
+Combustible Band;
+Ring of Rare Origins;
+Typhoon Band;
+
+| wands =
+Jade Oni's Amethyst Blade;
+
+| decks =
+
+| items =
+Adept's Socket Wrench*F2;
+Decorative Cannon;
+Imperial Statue;
+Meowiarty Archmage Duel*CR;
+MooShu Main Theme*F2;
+MooShu Plague Theme;
+Rattlebones Exalted Duel*CR;
+Rattlebones Master Duel*CR;
+Statue Base;
+Statue of Koto;
+Wooden Skeleton Key*CR*F2;
+Zeus Exalted Duel*CR;
+
+| cards =
+Black Mantle;
+Heck Hound;
+Reshuffle;
+Samoorai*F4*WMV;
+Satyr;
+Skeletal Pirate;
+Sniper;
+
+| reagents =
+Brass;
+Ectoplasm*F3*WMV;
+Nickel;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Delicious Cookie;
+Submarine Sandwich;
+
+| jewels =
+Clear Defense Jade +37;
+Halt Leader Opal;
+Plain Accurate Citrine +7%;
+Polished Damage Opal +11;
+
+| pins =
+
+| pets =
+Jade Oni*CR;
+
+| seeds =
+Deadly Fly Trap;
+Fish on a Vine;
+Pink Dandelion*CR;
+
+| mounts =
+Stormrider Hare*PERM*CR*HOL;
+
+| spells =
+
+}}

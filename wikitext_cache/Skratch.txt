@@ -1,0 +1,207 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 2,280
+| crecla = Golem
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Minute Man;
+Minute Man;
+
+| world = Marleybone
+| location = Kensington Park
+| descrip =
+The third Boss encountered in Kensington Park, Skratch must be defeated to retrieve a Piston Rod needed to repair the clockwork assistant of the kidnapped Dr. H. G. Waggs.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Marleybone
+| tome description =
+Trained in his technique by none other than Jacques the Scratcher himself!
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Myth Damage per Pip.
+
+| casts =
+Weakness;
+Black Mantle;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Shark;
+Squall Wyvern;
+Kraken ;
+Banshee;
+Sunbird;
+
+| quests =
+War of the Weird;
+
+| gold =
+9 - 146;
+
+| hats =
+Blended Wool Cap;
+Brisk Cap;
+Cap of Hinderance;
+Cap of the Kraken*F2;
+Cat Burglar's Cap;
+Cowl of Fiction*F2;
+Druidic Cowl;
+Hat of Charity;
+Hat of Equation;
+Hat of the Eager;
+Helm of Horrors*F3*WMV;
+Helm of Struggling;
+Proficient Hat;
+Shroud of Predicament*F2;
+Shroud of Scruples;
+Shroud of Woe;
+Sprightly Hood;
+Superstitious Canine Cowl;
+
+| robes =
+Artificial Robe;
+Benign Robe;
+Cloak of Fascination;
+Druidic Tunic;
+Feline's Invigorating Robe;
+Garments of Predicament;
+Haskarr's Barbarish Tunic;
+Icy Tunic;
+Light-As-Air Cloak;
+Mechanical Tunic*F3*WMV;
+Proficient Cloak;
+Robe of Extinction*F3*WMV;
+Robe of Hinderance;
+Robe of the Unicorn;
+Robe of Superiority;
+Savvy Vestment;
+Tunic of Chivalry;
+Tunic of Symmetry;
+Vestment of Fiction;
+
+| boots =
+Abstract Footwraps;
+Bewitching Shoes;
+Boots of Awareness;
+Boots of Captivation;
+Boots of Disillusion*F2*WMV;
+Boots of the Lithe;
+Boots of the Nucleus;
+Clanker's Irritating Shoes;
+Exquisite Slippers;
+Flowering Canine Shoes*F3*WMV;
+Frozen Canine Shoes*F3;
+Graceful Slippers;
+Light-As-Air Slippers;
+Magnificent Boots;
+Nunu's Twisted Slippers;
+Pompous Footwraps;
+Premium Footwraps;
+Prospective Boots;
+Sandals of Civility;
+Shoes of Sentiments;
+Shoes of the Devoted;
+Systematic Boots;
+Warbled Shoes;
+
+| athames =
+Watchman's Athame;
+
+| amulets =
+
+| rings =
+Ring of the Unicorn;
+Verdurous Band*CR;
+Watchman's Decoder Ring*F2;
+
+| wands =
+Staff of Rejuvenation*F2;
+
+| decks =
+Deck of Chivalry*F2*WMV;
+Deck of the Cyclops;
+Enigmatic Deck*F4;
+
+| items =
+Angled Gravemarker;
+Brick Fireplace;
+Engraved Pedestal;
+Fire Hydrant;
+Short Cement Post;
+Yellow Foodcart;
+
+| cards =
+Black Mantle;
+
+| reagents =
+Bronze Gear*F2;
+Iron;
+Lead;
+Pyrite;
+Stone Block;
+Tin;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn*F2*WMV;
+Gummy Bloodbat*F3*WMV;
+Large Watermelon;
+Medium Fish;
+Redskin Peanut;
+Square Watermelon;
+Stinky Cheese*F2;
+Wheat Cracker;
+
+| jewels =
+Chipped Defense Sapphire +15;
+Flawed Resilient Opal +2%;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

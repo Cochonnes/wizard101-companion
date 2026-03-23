@@ -1,0 +1,124 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 510
+| crecla = Elemental
+| crecla2 = Colossus
+| school = Ice
+| startpips = 1
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+Ice Colossus;
+Vault Haunter;
+
+| world = Krokotopia
+| location = Hall of Champions
+| subloc1 = Frost Colossus Chamber
+| location2 = Grand Arena
+| subloc2 = Storm Chamber
+| descrip =
+Thaumaturges on their Level 18 Quest, "The Ice Man Cometh", and Pyromancers on their Level 18 Quest, "Colossus Problem", must defeat a Frost Colossus.  Ice Wizards will encounter a Frost Colossus accompanied by a Vault Haunter Minion, while Fire Wizards will find them accompanied by an Ice Colossus Minion.
+
+'''Retired Monstrology Description:'''
+:It's an icy thing in Krokotopia... it doesn't get out much.
+
+| speech =
+:''"Wizard, you have chosen to see if you are worthy of our gifts. Prepare yourself!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 105 Ice Damage per Pip
+
+| casts =
+Fire Shield;
+Frost Beetle;
+Snow Serpent;
+Ice Elf (30+210);
+Evil Snowman;
+Blood Bat;
+Troll;
+
+| quests =
+The Ice Man Cometh;
+Colossus Problem;
+
+| gold =
+11 - 18;
+
+| hats =
+Novitiate Hat;
+Thaumaturge's Cowl of Awe;
+Venomous Cowl;
+Vrixx's Verdant Cowl;
+
+| robes =
+Hallowed Robes;
+Robe of Savvy;
+Soot Stained Tunic;
+Stormforged Mantle;
+Trollskin Cloak;
+
+| boots =
+Antique Footguards;
+
+| athames =
+Fine Dagger;
+Honed Athame;
+
+| amulets =
+
+| rings =
+Ring of the Badlands;
+
+| wands =
+Charged Wand;
+
+| decks =
+
+| items =
+Prop Mountains 2;
+
+| cards =
+Guiding Light;
+Storm Shark;
+Troll;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Green Grapes;
+Gummy Firecat;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

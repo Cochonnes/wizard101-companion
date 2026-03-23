@@ -1,0 +1,112 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,930
+| crecla = Draconian
+| school = Fire
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Cold Drake;
+
+| world = Grizzleheim
+| location = Nordrilund
+| subloc1 = Iceclaw's Cavern
+| descrip =
+Pyromancers confront this Cold Drake to rescue the {{Link|Pet|Phoenix}} Egg as part of the {{Link|Quest|Cinder and Smoke}} quest.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip.
+
+| casts =
+Fireblade;
+Fire Trap;
+Fire Shark;
+Meteor Strike;
+Scald;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+
+| quests =
+Cinder and Smoke;
+
+| gold =
+55 - 73;
+
+| hats =
+Hearty Bear Hat;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Fuel*F2;
+Power Link*F3;
+
+| reagents =
+Leather Straps;
+Nickel*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Flaming Soup;
+Glowing Dragon Fruit;
+Submarine Sandwich;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

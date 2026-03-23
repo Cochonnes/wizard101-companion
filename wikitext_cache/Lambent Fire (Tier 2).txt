@@ -1,0 +1,330 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 12,300
+| crecla = Undead
+| school = Fire
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Ice;
+
+| incresist =
+60% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Skirker Buster (Tier 2);
+Skirker Buster (Tier 2);
+Skirker Buster (Tier 2);
+
+| world = Avalon
+| location = Crystal Caves
+| subloc1 = Crystal Caves Gold Key Room
+| badge = Lambent's Damper
+| descrip =
+Lambent Fire (Tier 2) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Knight's Spellemental Pack}}.
+*This Tier is for level 51-85 Wizards.
+
+| speech =
+:''"Wizard of Light, I am a wretched spirit, once long ago a noble knight. I quested to find the Horn of Glory. But I fell, and remained trapped here to flicker like the dying of the day! Die with me!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Avalon
+| tome description =
+The Horn of Glory is what he sought.  Quested hard, and then we fought.  Soundly defeated has left him fraught!
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Damage}} ''"Fire pierces all!"'' - After Lambent Fire casts a Damage Spell, he receives a {{Link|Spell|Firespear}}.
+*{{Icon|Charm}} ''"The spirits of the past strike you down!"'' - If a Wizard casts any non-Fire, non-universal Blade, Lambent Fire will cast {{Link|Spell|Brimstone Revenant}} on the receiver.
+** {{Link|Spell|Quench}} will dispel this cheat.
+*{{Icon|Manipulation}} ''"Your edge is mine!"'' - If a Wizard casts a universal Blade, Lambent Fire will cast {{Link|Spell|Steal Charm}} on the receiver.
+*{{Icon|Charm}} ''"The Fire hungers."'' - Casting any Fire Damage Blade Spell, including {{Link|Spell|Elemental Blade}}, randomly triggers the Steal Charm cheat.
+***Pet May-Casts will trigger this cheat.
+*{{Icon|Jinx}}''"Your world shall burn!"'' - If a Wizard casts a universal Trap on Lambent Fire, he will cast {{Link|Spell|Immolate}} on the caster.
+**The Balance version of {{Link|ItemCard|Feint}} and Mass Hex will not trigger this cheat.
+**Mass Feint will trigger this cheat.
+*{{Icon|Damage}} When any Skirker Buster casts {{Link|Spell|Natural Attack (Fire 2,050)}}, it will cast a version of Immolate that sacrifices 100% Max Health on itself.
+*{{Icon|Minion}} ''"Come to the light!"'' - At the end of every Round, Lambent Fire will resummon all Skirker Buster Minions that were defeated or missing on the battlefield.
+'''Death Interrupt Cycle:'''
+*When all three Skirker Busters are present, this cheat will cycle at the end of each round and repeats itself after three rounds.
+**{{Icon|Charm}} ''"I give you my strength!"'' - At the end of the first round, the first Skirker Buster will cast {{Link|Spell|Dark Pact (+30%)}} on Lambent Fire.
+**{{Icon|Health}} ''"I give you my health!"'' - At the end of the second Round, the second Skirker Buster will cast {{Link|Spell|Sacrifice (Death)}} on Lambent Fire.
+**{{Icon|Curse}} ''"I give of myself to curse you!"'' - At the end of the third Round, the third Skirker will cast {{Link|Spell|Bad Juju}} on a random Wizard.
+***The third Round will not trigger if any Wizards flee the duel.
+
+| spellnotes =
+
+| casts =
+Berserk;
+Furnace;
+Smoke Screen;
+Fireblade;
+Fire Trap;
+Fuel;
+Backdraft;
+Steal Charm;
+Wyldfire;
+Brimstone Revenant;
+Natural Attack (Fire 120-235-350);
+Meteor Strike;
+Immolate;
+Helephant;
+Efreet;
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+298 - 1255;
+
+| hats =
+Champion of Order's Icy Helm;
+Chaos Knight's Blazing Helm;
+Glorious Chivalric Crown;
+Lambent's Bonnet of Splendor;
+Lambent's Cowl of Afterglow*F3*WMV;
+Lambent's Cowl of Clamoring*F2;
+Lambent's Cowl of Radiance;
+Lambent's Hood of Penance;
+Lambent's Shroud of Darkness;
+Lightning Lizard Rider's Helm*F3;
+Mother Oak's Guard*F2;
+Paladin's Frosty Helmet;
+Unwavering Chivalric Crown;
+
+| robes =
+Cloak of Lambent's Splendor*F4*WMV;
+Flaming Chivalric Plate;
+Hospitable Armiger's Tartan*F2;
+Jouster's Plate;
+Just Armiger's Armor*F2;
+Kin Bound Robes;
+Lambent's Clamorous Wrap;
+Lambent's Cloak of Darkness*F2;
+Lambent's Drape of Splendor;
+Lambent's Robe of Brilliance;
+Lambent's Robe of Radiance;
+Loyal Armiger's Armor*F2;
+Merciful Armiger's Armor;
+Robe of Lambent's Penance;
+Unwavering Chivalric Plate;
+
+| boots =
+Boots of Lambent's Splendor;
+Courageous Knight's Boots;
+Courtly Armored Boots*F2;
+Froudling Creepers;
+Jouster's Footguards;
+Glorious Chivalric Boots;
+Lambent's Boots of Afterglow*F8*WMV;
+Lambent's Boots of Darkness;
+Lambent's Brilliant Footwear*F2;
+Lambent's Radiant Shoes;
+Lambent's Runners of Penance*F2;
+Lambent's Shoes of Clamoring*F3;
+Merciful Knight's Boots;
+Night King's Sabatons;
+Whitehaven Boots*F2;
+
+| athames =
+Catalan's Bite;
+
+| amulets =
+
+| rings =
+Brisk Circle of Nodor;
+Knight of the Wyrd's Band;
+Sir Corwin's Ring;
+Unwavering Chivalric Ring;
+
+| wands =
+Lambent's Branch of Splendor;
+Lambent's Brilliant Staff;
+Lambent's Cane of Radiance;
+Lambent's Coldflame Staff;
+Lambent's Staff of Afterglow*F2;
+Lambent's Stick of Clamoring;
+Lambent's Timber of Darkness;
+Staff of Lambent's Penance*F2;
+
+| decks =
+Measured Chivalric Tome;
+Unwavering Chivalric Tome;
+
+| items =
+Artisan's Socket Wrench;
+Avalon Owl Stained Glass;
+Dragonspyre Pet Derby Theme;
+Dread Keep Throne*F4*WMV;
+Fox Head Statue*F5*WMV;
+Gold Skeleton Key*CR*F2;
+Grizzleheim Pet Derby Theme;
+Krokotopia Pet Derby Theme*F2;
+Marleybone Pet Derby Theme;
+Stone Skeleton Key*CR*F10*WMV;
+Wizard City Pet Derby Theme;
+Wooden Skeleton Key*CR;
+
+| cards =
+Fire Dragon*F3*WMV;
+Forest Lord*F2;
+Frost Giant;
+Gargantuan*F3;
+Medusa;
+Orthrus;
+Power Nova;
+Scarecrow;
+Unstoppable*F3*WMV;
+
+| reagents =
+Brass;
+Bronze*F4;
+Cobalt*F2;
+Mote of Severity;
+Nickel*F4*WMV;
+Participation Trophy;
+Spectral Shard;
+Steel*F3;
+Tin;
+
+| spellements =
+Brave Sir Badger;
+Burning Rampage;
+Catalan;
+Deer Knight;
+Handsome Fomori;
+Sacred Charge;
+Wreckin' Ettin;
+
+| snacks =
+Asparagus Spears*F3;
+Bearberry;
+Black Cap Crisps*F2*WMV;
+Bog Witch Beetroot;
+Caliburnt Toast*F2;
+Cauliflowers;
+Chocolate Comet*F4;
+Crab Knight Cakes;
+Crystal Custard*F3*WMV;
+Deepwater Toffee;
+Delicious Cookie*F3*WMV;
+Flaming Soup*F2*WMV;
+Flapjacks*F4;
+Glowing Star Fruit*F2;
+Glowing Taffy*F3;
+Goat Cheese*F3;
+Golden Apple*F4*WMV;
+Golden Grapes;
+Gummy Humongofrog;
+High Road Haggis*F2*WMV;
+Jelly Baby;
+King Banana*F4*WMV;
+Kola Nuts*F2*WMV;
+Muscle Sprouts*F2;
+Pixie Parsnips;
+Pomegranite;
+Seraph Food Cake;
+Shepherd's Crook Pie*F2;
+Spicy Drumstick*F3*WMV;
+Strawberry Cupcake*F5*WMV;
+Submarine Sandwich*F2*WMV;
+Toad in the Hole;
+Weirwood Cake*F2;
+Wyrmy Apple*F3*WMV;
+
+| jewels =
+Accelerated Learner Opal;
+Clear Accurate Amethyst +9%*F2;
+Clear Accurate Onyx +9%;
+Clear Blocking Hematite +9;
+Clear Blocking Peridot +9;
+Clear Critical Jade +10;
+Clear Critical Onyx +10;
+Clear Critical Ruby +10;
+Clear Damage Peridot +19;
+Clear Defense Opal +20;
+Clear Health Opal +80;
+Clear Mana Opal +33;
+Clear Piercing Amethyst +5%;
+Clear Piercing Jade +5%;
+Clear Piercing Peridot +5%;
+Clear Piercing Ruby +5%;
+Clear Piercing Sapphire +5%*F2;
+Dimension Shift Peridot;
+Eager Opal;
+Effervescent Opal;
+Enfeeble Amethyst;
+Forceful Opal;
+Go Humongo Peridot;
+Gold Miner Opal;
+Ice-Eye Sapphire;
+Life-Shot Jade;
+Mass Infection Onyx;
+Mulligan's Shuffle Citrine;
+Myth-Boon Peridot;
+Myth-Giver Peridot;
+Opaque Critical Opal +4;
+Opaque Damage Opal +9*F2*WMV;
+Opaque Damage Sapphire +18;
+Opaque Defense Amethyst +36;
+Opaque Defense Onyx +36;
+Opaque Defense Peridot +36;
+Opaque Defense Sapphire +36;
+Plain Damage Opal +8*F2;
+Polished Damage Opal +11;
+Snow Drift Sapphire;
+SnowBorn Sapphire;
+Storm-Boon Amethyst;
+Vengeance Talent Opal;
+
+| pins =
+
+| pets =
+Mischievous Minstrel*CR;
+Wayward Minstrel*CR;
+Weasel Minstrel*CR;
+
+| seeds =
+Angel Oak*F3;
+Burning Snap Dragon;
+Deadly Helephant Ears*CR;
+Ninja Fig*CR*F2;
+Venus Fly Trap;
+White Laugh-O-Dil;
+
+| mounts =
+Bruin Ram*PERM*CR;
+White Stag*PERM*CR;
+
+| spells =
+
+}}

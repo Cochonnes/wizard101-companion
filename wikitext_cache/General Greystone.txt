@@ -1,0 +1,199 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 2,800
+| crecla = Giant
+| crecla2 = Cyclops
+| school = Myth
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Storm;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Irate Banshee;
+
+| world = Dragonspyre
+| location = Plaza of Conquests
+| subloc1 = Greystone's Castle
+| descrip =
+
+| speech =
+:''"How did you find me? You'd better tell me... or I'll crush you into jelly!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+A liar who tricked the Titan Army into serving him. Also, he's not really a general.
+
+| extract class =
+Cyclops;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Myth Damage.
+
+| casts =
+Storm Shield;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Humongofrog;
+Snow Serpent;
+Sunbird;
+Storm Shark;
+
+| quests =
+General Panic;
+
+| gold =
+95 - 113;
+
+| hats =
+Bonfire Headdress;
+Cap of Chronicles;
+Cap of Constitution; 
+Cap of the Unflinching*F2*WMV;
+Cowl of Morbidity;
+Cowl of the Northern Wind*F2;
+Frostbitten Cap*F2*WMV;
+Greystone's Veil of Mysteries*F2*WMV;
+Halcyon Hood;
+Herbalist's Hood*F2*WMV;
+Mythological Mantle;
+Promethean Hood;
+Shroud of the Equinox;
+Triton's Topper;
+
+| robes =
+Blizzard Cloak;
+Coat of Impartiality*F3*WMV;
+Fiery Tunic;
+Greystone's Mourning Garment*F3*WMV;
+Shibboleth Smock;
+Surcoat of Glory*F5*WMV;
+Terminus Wrap*F2*WMV;
+Thunder Cloak;
+Tunic of the Sphinx*F2;
+Verdant Vestment*F2*WMV;
+
+| boots =
+Blizzard Boots*F4*WMV;
+Boots of Equivalence;
+Boots of the Bountiful;
+Burning Boots;
+Earthrangers;
+Frost Giant's Boots;
+Greystone's Resolute Tread*F4*WMV;
+Legend Walkers;
+Rainstorm Waders;
+Reaper's Boots*F3*WMV;
+Sandals of Lost Aeons;
+Sandals of the Ancients;
+
+| athames =
+Scaled Smallsword*F2*WMV;
+
+| amulets =
+
+| rings =
+Band of the Hearth;
+Ring of Dominance*F2*WMV;
+Ring of the Forefathers*F2;
+Seal of the Watchful*F2*WMV;
+Signet of the Reaper*F2*WMV;
+
+| wands =
+
+| decks =
+Deck of the Ice Wyrm*F2*WMV;
+
+| items =
+Dragonmoon Obelisk*F2*WMV;
+Professor Drake*CR*F4;
+Short Corner Wall Ruins;
+Small Corner Wall Ruins*F2*WMV;
+
+| cards =
+Dragonflies;
+
+| reagents =
+Bronze Gear*F4*WMV;
+Cobalt*F2;
+Ectoplasm*F5*WMV;
+Iron*F2;
+Lead;
+Nickel*F3;
+
+| spellements =
+
+| snacks =
+Flaming Soup;
+Goat Cheese;
+Golden Grapes*F2*WMV;
+Gummy Humongofrog*F2;
+King Banana*F2;
+
+| jewels =
+Balefrost Sapphire;
+Blemished Defense Onyx +22;
+Blemished Defense Sapphire +22;
+Blemished Health Opal +42;
+Blemished PIP Opal +4%;
+Catch Opal;
+Darkwind Amethyst;
+Doom and Gloom Onyx*F2;
+Dull Blocking Opal +1;
+Dull Critical Amethyst +2;
+Dull Defense Citrine +25;
+Dull Defense Peridot +25;
+Dull Defense Ruby +25;
+Dull Defense Sapphire +25;
+Phoenix Ruby;
+
+| pins =
+
+| pets =
+Death Cyclops*F4*WMV;
+
+| seeds =
+Deadly Fly Trap*F4*WMV;
+Fiery Boom Shroom*F4*WMV;
+King Parsley*CR*F2*WMV;
+Maelstrom Snap Dragon*F2*WMV;
+Pink Dandelion*CR*F2*WMV;
+White Laugh-O-Dil*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

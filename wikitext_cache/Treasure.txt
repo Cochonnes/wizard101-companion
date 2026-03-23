@@ -1,0 +1,102 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 7,690
+| crecla = Elemental
+| school = Storm
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+41%;
+
+| incboost =
+30% Ice, Death;
+
+| incresist =
+30% Fire, Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Azteca
+| location = Three Points
+| subloc1 = Spark Portal
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Amplify;
+Pathogen;
+Tower Shield;
+Weakness;
+Stormblade;
+Unstable Charge;
+Lightning Bats (Tier 2b);
+Beary Surprise (Tier 2c);
+Catch of the Day (Tier 2c); 
+Thermic Golem (Tier 2b);
+Kraken (Tier 2b);
+Triton (Tier 2b);
+Storm Owl (Tier 2b);
+
+| quests =
+Snap, Crackle, POW!;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

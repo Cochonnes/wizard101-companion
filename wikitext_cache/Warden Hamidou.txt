@@ -1,0 +1,279 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,080
+| crecla = Boa
+| crecla2 = Snake
+| school = Balance
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+3%;
+
+| outboost =
+50%;
+
+| incboost =
+5% Myth, Life, Death;
+
+| incresist =
+30% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Boa Restrictor;
+Boa Restrictor;
+Boa Restrictor;
+
+| world = Mirage
+| location = Istanboa
+| subloc1 = Tetrus Armory
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Berserk;
+Elemental Shield (-55%);
+Spirit Shield (-55%);
+Dragonblade;
+Loremaster;
+Natural Attack (Balance 110-220-330);
+Savage Paw;
+Power Nova (530);
+Ra (635-715);
+Judgement (125);
+
+| quests =
+Hairkonnen Heiress;
+
+| gold =
+420 - 1618;
+
+| hats =
+Vizier's Mantle of Apathy;
+Vizier's Mantle of Dignity;
+Zruvan Helmet of Fury;
+
+| robes =
+Sand Sea Outfit of Ashes;
+Vizier's Raiment of Dignity;
+
+| boots =
+Sand Sea Striders of Decorum;
+Sand Sea Striders of Havoc;
+Vizier's Shoes of Bustle;
+Vizier's Shoes of Dignity;
+Zruvan Galesh of Flashfloods;
+
+| athames =
+Kobra Janbiya of Fury;
+Sand Sea Dagger of Blight;
+Sand Sea Dagger of Blusters;
+Sand Sea Dagger of Decorum;
+Sand Sea Dagger of Explosion;
+Sand Sea Dagger of Havoc;
+
+| amulets =
+Sand Sea Amulet of Accord;
+Sand Sea Amulet of Bolts;
+Sand Sea Charm of Mischief;
+Sand Sea Charm of Shivers;
+
+| rings =
+Kobra Ringlet of Mettle;
+Sand Sea Ring of Curiosity;
+
+| wands =
+
+| decks =
+Kobra Hand of Rigor*F2;
+
+| items =
+Mirage Caravan Theme;
+Mirage City Combat Theme;
+Mirage City Tense Theme;
+Mirage City Theme;
+Mirage Den of Thieves Theme;
+Mirage Desert Canyons Theme;
+Mirage Jungle Combat Theme;
+Mirage Jungle Theme*F3*WMV;
+Mirage Magic Carpet Theme;
+Mirage Serpent Theme*F2*WMV;
+Mirage Spider Speaks Theme;
+
+| cards =
+Arcticzilla;
+Astraphobia;
+Balefrost;
+Coldiron;
+Combustion;
+Counterforce*F2*WMV;
+Crystal Spider;
+Death Troll;
+Deathspear;
+Dragonspear;
+Elemental Spear*F2;
+Fiery Colossus;
+Frostfang;
+Icebird;
+Icespear;
+Magma Colossus*F2*WMV;
+Mutate Colossus (Fire)*F2;
+Mutate Colossus (Storm);
+Namaste;
+Saga of Heroes*F4*WMV;
+Sandstone Colossus;
+Steel Colossus;
+Stone Colossus*F2;
+Winged Sorrow;
+Witch's House Call;
+
+| reagents =
+Aether*F6*WMV;
+Agave Leaves*F5*WMV;
+Agave Nectar;
+Amber*F2;
+Amber Dust*F2;
+Aquamarine*F15*WMV;
+Astral Shard*F4*WMV;
+Braided Vine*F2;
+Fire Blossom;
+Fish Fin*F7*WMV;
+Glass Sliver*F2*WMV;
+Golden Pearl*F2;
+Iridium;
+Merle's Whisker;
+Mithril*F4*WMV;
+Orichalcum;
+Scales*F9*WMV;
+Silver*F11*WMV;
+Stardust*F2;
+Steel*F4*WMV;
+Sunstone*F9*WMV;
+Titanium*F3*WMV;
+Tungsten*F8*WMV;
+Turmeric;
+Turquoise*F3*WMV;
+Vine*F5*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F5*WMV;
+Beetle Cream Soda*F6*WMV;
+Chalupacabra*F7*WMV;
+Eye Candy*F8*WMV;
+Fern Jelly*F2*WMV;
+Fire Passion Fruit;
+Frosty Sugar Cubes;
+Green Tomato;
+Hard Boiled Beetle Eggs*F5*WMV;
+High Road Haggis;
+Hot Cross Buns*F2;
+Jolly Rancher*F3*WMV;
+Mustachios*F5*WMV;
+Rhubarbed Wire;
+Satyr Chow*F9*WMV;
+Ships 'n' Queso*F6*WMV;
+Veggie Juice*F6*WMV;
+Wheat Cracker*F3*WMV;
+
+| jewels =
+Lustrous Accurate Onyx +11%;
+Lustrous Accurate Ruby +11%;
+Lustrous Critical Amethyst +13;
+Lustrous Damage Jade +23;
+Lustrous Damage Sapphire +23;
+Lustrous PIP Opal +10%*F2;
+Polished Accurate Amethyst +10%;
+Polished Accurate Citrine +10%;
+Polished Blocking Amethyst +11;
+Polished Blocking Sapphire +11;
+Polished Damage Peridot +21;
+Polished Defense Amethyst +42;
+Polished Defense Citrine +42*F2;
+Polished Defense Jade +42;
+Polished Defense Onyx +41;
+Polished Health Opal +86;
+Polished Health Opal +87;
+Polished Health Opal +90;
+Polished Health Opal +92;
+Polished Health Opal +94;
+Polished Health Opal +95;
+Polished Mana Opal +37*F2*WMV;
+Polished Mana Opal +38;
+Polished Mana Opal +39;
+Polished Mana Opal +40*F2;
+Shiny Blocking Peridot +16;
+Shiny Damage Amethyst +26;
+Shiny Damage Onyx +26;
+Shiny Defense Onyx +50;
+Shiny Defense Peridot +51;
+Shiny Health Opal +111*F2*WMV;
+Shiny Health Opal +114;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47;
+Shiny PIP Hematite +2;
+
+| pins =
+
+| pets =
+MaCaw*CR;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears*F5*WMV;
+Baby Carrots*F3*WMV;
+Bell Pepper*F2;
+Blue Huckleberries;
+Boiled Peanuts*F2*WMV;
+Boom Shroom;
+Bread Fruit Bush*F2;
+Cornbread Fruit Bush;
+Couch Potatoes*CR*F2;
+Dandelion;
+Face Palm*F2*WMV;
+Fiery Boom Shroom;
+Fish on a Vine*F3*WMV;
+Golden Couch Potatoes*F4;
+Grapes of Wrath*CR*F3*WMV;
+Helephant Ears;
+Honey Sickle;
+Ivy League*CR;
+King Parsley*CR;
+Maltese Tiger Lily;
+Missile Toe;
+Orange Bell Pepper*CR;
+Pink Huckleberries*F2;
+Pink Laugh-O-Dil*F2*WMV;
+Purple Bell Pepper;
+Purple Snow Apples*F3*WMV;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Red Couch Potatoes;
+Red Huckleberries*F4*WMV;
+Saw Palmetto;
+Snap Dragon;
+Sour Fickle Pickle*F3*WMV;
+Venus Fly Trap;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,180 @@
+{{Stub|triggers for MacDeath's minion and Beguile cheats.}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 6,000
+| crecla = Fox
+| crecla2 = Undead
+| school = Death
+| masteries =
+Myth;
+
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| summons =
+MacDeath Understudy (Tier 4);
+MacLife Understudy (Tier 4);
+MacStorm Understudy (Tier 4);
+
+| world = Housing Instance
+| location = Playhouse
+| subloc1 = Playhouse (Tier 4)
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Despite being a malevolent phantom, he is sustained by the adulation of others. It's a weird paradox.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Late arrivals may not be seated!"'' - If a Wizard joins the Duel after the first Round, then MacDeath will interrupt-cast a '''+75%/+20%''' version of [[Spell:Feint (+75%)|Feint]], a '''+25%''' version of [[Spell:Curse (+25%)|Curse]], and a '''+35%''' version of [[Spell:Hex (+35%)|Hex]] on the late Wizard.
+*{{Icon|Aura}} ''"To be or not to be? To be obviously"'' - At the beginning of the first Round, MacDeath will interrupt-cast a '''-100%''' version of {{Link|Spell|Fortify}}.
+**{{Icon|Damage}}{{Icon|Steal}} ''"Et tu, Wizard?"'' - If a Wizard casts a [[:Category:Damage Spells|Damage]] or [[:Category:Steal Spells|Steal]] Spell on MacDeath, then he will interrupt-cast a version of Fortify that is 10% less effective than his current Aura.  This cheat will repeat every time that MacDeath is damaged until his Aura reduces incoming Damage by '''-10%'''.
+*{{Icon|Minion}} ''"May a choir of understudies sing thee to my rest"'' - MacDeath will interrupt-cast a Moon Spell that summons a MacStorm, MacLife, or MacDeath Understudy.
+*{{Icon|Global}}{{Icon|Healing}} ''"Out, out, brief candle!"'' - If a Wizard casts a [[:Category:Healing Spells|Healing]] or [[:Category:Global Spells|Global]] Spell, then MacDeath will interrupt-cast a '''-75%''' version of [[Spell:Doom and Gloom (-75%)|Doom and Gloom]].
+*{{Icon|Manipulation}} ''"We few, we happy few, we band of beguileds"'' - MacDeath will interrupt-cast {{Link|Spell|Beguile}} on a Wizard.
+
+*{{Icon|Feint}} ''"This is your moment in the spotlight!"'' - If a Wizard casts Feint on MacDeath, then one of his Understudies will interrupt-cast {{Link|Spell|Swap Ward}} on him.
+
+*{{Icon|Damage over Time}} ''"Wizards die a thousand times before their death!"'' - If a Damage over Time effect is cast on MacDeath, then he will interrupt-cast {{Link|Spell|Shift}} on the caster.
+**Spells that apply Damage over Time effects on all enemies may result in the effect being shifted to a Wizard that was not the caster.
+
+| spellnotes =
+
+| casts =
+Ether Shield (-75%);
+Virulent Plague;
+Deathblade (+40%);
+Pierce;
+Blinding Light (85%);
+Deer Knight (330+300);
+Skeletal Pirate (500-580);
+Wraith (575);
+Scarecrow;
+Skeletal Dragon (225+910);
+
+| quests =
+The Play's the Thing;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Broken Dragon Bust;
+Dragonflame Torch;
+Dragonhorn Trophy;
+Dragonmoon Marker;
+Dragonmoon Obelisk;
+Dramaturgy Stagehand Theme;
+Dramaturgy Student Theme;
+Snapdragon Flowerbed;
+
+| cards =
+Freeze;
+Frostbite;
+Ghoul;
+Harvest Lord*F2*WMV;
+Krokomummy;
+Pigsie;
+Storm Bird;
+Sunbird;
+
+| reagents =
+Amethyst;
+Brass;
+Jade;
+Lead;
+Onyx;
+Perfect Citrine;
+Perfect Jade;
+Perfect Peridot;
+Perfect Ruby;
+Peridot;
+Platinum;
+Sapphire;
+Scrap Iron;
+Silver;
+Spring;
+
+| spellements =
+
+| snacks =
+Black Sun Seeds;
+Glowing Dragon Fruit;
+Lemon Daisy;
+Salmon Joy;
+Wheat Cracker;
+
+| jewels =
+Opaque Mana Opal +30;
+
+| pins =
+
+| pets =
+Assailing Dragon;
+Crimson Spectre;
+Skeletal Gladiator*F2;
+
+| seeds =
+Evil Snow Peas*F2;
+Frozen Fly Trap;
+Snap Dragon;
+
+| mounts =
+Blue Dragon;
+Dragon Wings*PERM; 
+
+| spells =
+
+}}

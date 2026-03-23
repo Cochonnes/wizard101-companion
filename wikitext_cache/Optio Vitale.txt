@@ -1,0 +1,132 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,140
+| crecla = Shark
+| school = Balance
+| startpips = 4
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life, Death;
+
+| incresist =
+35% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Celestia
+| location = The Chancel
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Elemental Trap;
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Natural Attack (Balance 85x, 85%);
+Judgement;
+
+| quests =
+The Big Guy;
+
+| gold =
+0 - 46;
+
+| hats =
+Epic Helmet*F2*WMV;
+Shroud of the Storm Star*F2*WMV;
+
+| robes =
+Diamond Dust Drape*F2;
+Forbidden Costume*F2*WMV;
+
+| boots =
+Inspired Shoes;
+Sub Zero Shoes*F3*WMV;
+
+| athames =
+Dirk of the Dragon*F3*WMV;
+Stellar Shortblade*F2*WMV;
+
+| amulets =
+Jewel of the Dragons*F2*WMV;
+Scorched Talisman*F3*WMV;
+
+| rings =
+Signet of Shivers*F2;
+Volatile Ring;
+
+| wands =
+
+| decks =
+
+| items =
+Campfire with Fish*F3*WMV;
+
+| cards =
+Darkwind;
+Monstrous*F5*WMV;
+Vengeance*F2*WMV;
+
+| reagents =
+Brass;
+Fish Fin*F4*WMV;
+Sandstone*F7*WMV;
+Scales*F2*WMV;
+Sunstone*F2*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Glowing Star Fruit*F2*WMV;
+Glowing Taffy;
+Spicy Drumstick;
+Strawberry Cupcake;
+Submarine Sandwich*F3*WMV;
+
+| jewels =
+Plain Damage Onyx +15;
+Plain Damage Sapphire +15;
+Sniper Talent Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Maelstrom Snap Dragon*F3*WMV;
+Pink Dandelion*CR;
+Silver Trumpet Vine*CR*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

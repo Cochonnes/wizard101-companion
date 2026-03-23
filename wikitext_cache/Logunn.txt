@@ -1,0 +1,115 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,810
+| crecla = Wolverine
+| school = Life
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Winterclaw Stalker;
+
+| world = Grizzleheim
+| location = Austrilund
+| subloc1 = Logunn's Lair
+| descrip =
+*Life Wizards must defeat this Boss to rescue a Forest Lord egg during the Level 58 Pet Quest, ''An Ugly Eggling''.
+*This Boss is not repeatable.
+
+| speech =
+:''"Whatta you doin' here, bub?"
+
+| spellnotes =
+
+| casts =
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Lifeclops;
+Nature's Wrath;
+Life Banshee (250);
+Seraph;
+Centaur;
+Natural Attack (Life 85x);
+
+| quests =
+An Ugly Eggling;
+
+| gold =
+61 - 78;
+
+| hats =
+Blustering Bear Hat;
+Horned Helm of Courage;
+
+| robes =
+
+| boots =
+Barbarian's Valorous Boots;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Brilliant Light;
+Sunbird;
+Triage;
+
+| reagents =
+Bronze Gear;
+Cobalt;
+Leather Straps;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Delicious Cookie;
+Glowing Dragon Fruit;
+Salmonberry;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

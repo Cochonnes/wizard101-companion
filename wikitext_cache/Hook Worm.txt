@@ -1,0 +1,270 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 9,370
+| crecla = Sand Wurm Larva
+| school = Death
+| cheats = Yes
+| shadowslots = 1
+| masteries =
+Balance;
+
+| startpips = 5
+| powerpips = Yes
+| critical =
+173 Any;
+
+| criticalblock =
+198 Any;
+
+| outpierce =
+22%;
+
+| outboost =
+100%;
+
+| incboost =
+5% Life;
+
+| incresist =
+70% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Ear Worm;
+
+| world = Empyrea
+| location = Southwest Aero Plains
+| subloc1 = Hook Worm Tunnel
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+*If a Wizard joins after Round 1, Hook Worm will cast Sand Wurm on the late Wizard.
+
+| spellnotes =
+*Casts a protected Feint (All Enemies).
+'''Natural Attack:'''
+*Deals 420 Death Damage for 4 Pips maximum.
+
+| casts =
+Vengeance (6 Rounds);
+Virulence (6 Rounds);
+Spirit Armor;
+Virulent Plague;
+Deathblade (+40%);
+Feint (All Enemies);
+Natural Attack (Death 105-210-315, 80%);
+Deer Knight;
+Wraith;
+Scarecrow;
+Sand Wurm;
+
+| quests =
+Music on the Aero Plains;
+
+| gold =
+77 - 130;
+
+| hats =
+
+| robes =
+Chill Kalamar Tunic;
+Choice Kalamar Tunic*F2;
+Mondo Kalamar Tunic;
+Rad Kalamar Tunic*F2*WMV;
+Righteous Kalamar Tunic;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+Blazing Zanadu Band*F2;
+Crackling Zanadu Band;
+Freezing Zanadu Band;
+Grim Zanadu Band;
+Immutable Zanadu Band*F2;
+
+| wands =
+Blazing Zanadu Lance;
+Freezing Zanadu Lance;
+Grim Zanadu Lance;
+Illuminated Zanadu Lance;
+
+| decks =
+
+| items =
+Aero Dwarf Blue Vase;
+Empyrea Aero Plains Theme;
+Empyrea Husk Aethyr Combat;
+Empyrea Husk Combat;
+Empyrea Husk Storm Combat;
+Kalamar Chair;
+Kalamar Side Table;
+Nimbari Chair;
+Nimbari Sword Rack;
+Ornate Nimbari Vase;
+Tall Kalamar Vase;
+
+| cards =
+Elemental Blade;
+Elemental Shield;
+Icespear;
+Kraken;
+Lord of the Squall*F4;
+Mass Death Prism;
+Mass Fire Prism;
+Mass Triage;
+Mega Soothe*F2*WMV;
+Mutate Cat (Storm);
+Mutate Colossus (Storm);
+Mutate Kraken;
+Mutate Monster (Ice);
+Mythspear*F2;
+Oni No Plague*F2*WMV;
+Sirocco Djinni;
+Spirit Spear*F2;
+
+| reagents =
+Aether*F7*WMV;
+Agave Leaves*F2;
+Agave Nectar;
+Amber;
+Amber Dust;
+Ancient Scroll;
+Antique Coins;
+Aquamarine*F5;
+Astral Shard;
+Blood Moss;
+Brass*F2;
+Bronze Gear;
+Cobalt*F2*WMV;
+Fire Blossom*F2*WMV;
+Fish Fin;
+Flying Squid Ink;
+Golden Pearl;
+Mithril*F2;
+Nickel*F2;
+Orichalcum;
+Silver;
+Scales*F2*WMV;
+Spider Silk;
+Spring;
+Steel*F4*WMV;
+Sunstone*F6*WMV;
+Tin*F2;
+Titanium;
+Tungsten*F3*WMV;
+Turquoise*F2;
+Vine;
+
+| spellements =
+
+| snacks =
+Athame Pop;
+Aztecan Hot Chocolate;
+Beast Wellington*F4*WMV;
+Berry Poundcake;
+Boiled Spider Legs;
+Discord Grape Jelly*F2*WMV;
+Fire Passion Fruit;
+Glowing Taffy;
+Golden Squash*F4*WMV;
+Hero Sandwich*F2*WMV;
+Hot Cross Buns*F4*WMV;
+Killer Tomato*F2;
+Krakamari;
+Meat Soup*F2;
+Minotarts;
+Pizza*F3*WMV;
+Pyramints;
+Redskin Peanut;
+Rock and Roll Candy*F4*WMV;
+Salmon Joy;
+Satyr Chow;
+Spicy Drumstick;
+Taco;
+Taco Town Special;
+
+| jewels =
+Brimstone Revenant Ruby;
+Shiny Accurate Onyx +12%;
+Shiny Accurate Ruby +12%;
+Shiny Blocking Amethyst +15;
+Shiny Blocking Citrine +15;
+Shiny Critical Amethyst +15;
+Shiny Critical Ruby +15;
+Shiny Critical Sapphire +15;
+Shiny Damage Citrine +25;
+Shiny Defense Citrine +50;
+Shiny Defense Ruby +50;
+Shiny Health Opal +108;
+Sparkling Blocking Citrine +18;
+Sparkling Blocking Hematite +18;
+Sparkling Blocking Jade +18;
+Sparkling Blocking Sapphire +18;
+Sparkling Critical Citrine +18;
+Sparkling Critical Hematite +18*F2;
+Sparkling Critical Jade +18;
+Sparkling Critical Onyx +18;
+Sparkling Critical Ruby +18;
+Sparkling Critical Sapphire +18;
+Sparkling Damage Jade +28;
+Sparkling Damage Peridot +28;
+Sparkling Damage Ruby +28;
+Sparkling Defense Hematite +56;
+Sparkling Defense Jade +55;
+Sparkling Defense Jade +56;
+Sparkling Defense Onyx +55;
+Sparkling Defense Ruby +55;
+Sparkling Health Opal +122*F2;
+Sparkling Health Opal +124;
+Sparkling Mana Opal +52;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears*F2;
+Baby Carrots;
+Bell Pepper;
+Boom Shroom;
+Bread Fruit Bush;
+Couch Potatoes*CR;
+Evil Magma Peas*CR;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Golden Couch Potatoes;
+Goose Tree;
+Grapes of Wrath*CR;
+Ivy League*CR;
+Missile Toe;
+Orange Dandelion;
+Queen Crape Myrtle;
+Red Couch Potatoes;
+Red Grapes of Wrath;
+Saw Palmetto;
+Sour Fickle Pickle;
+Ultra Alligator Pear Tree;
+Ultra Fly Trap*F2;
+Ultra Tiger Lily;
+Venus Fly Trap;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

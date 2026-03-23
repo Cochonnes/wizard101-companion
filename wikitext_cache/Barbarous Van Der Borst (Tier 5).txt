@@ -1,0 +1,201 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 8,035
+| crecla = Giant
+| school = Myth
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Edacious Ogre (Tier 5);
+Rude Goblin (Tier 5);
+
+| world = Housing Instance
+| location = Spiral Cup Gauntlet
+| subloc1 = Spiral Cup Gauntlet (Tier 5)
+| descrip =
+
+| speech =
+:''"Last time the Goblins were in Wysteria, they brought back all of these colorful pamphlets. I've read a lot of good things about Pigswick Academy in these brochures. How fancy the program is. How expensive. How liberal-minded the course work is, and how restful the exam period. Pigswick sounds like a wonderful place! So wonderful that I wanted to start my own franchise. What better way than to seed my faculty with their plum staff? I've already headhunted a headmistress and a master of arms for my new school. Let's find out what position you should fill."''
+
+| cheatnotes =
+*{{Icon|Minion}} ''"Time for physical education!"'' - At the end of the first Round, he spawns his Minions.
+**The Minions have higher Health than in the last (Level 5) battle: the two Edacious Ogre (Tier 5) Minions have 3,430 versus 2,755 Health, and the Rude Goblin (Tier 5) has 2,850 versus 2,720 Health.
+*{{Icon|Round}} On every Round after the second Round, each Creature will use a Balanceblade (+35%) to the right Creature until the last Creature cheat-casts {{Link|Spell|Tempest}}.
+*{{Icon|Afterlife}} ''"Time for extra credit!"'' - If the Minions are defeated before the Boss, he summons one Rude Goblin (Tier 5) Minion each Round, until all battle spaces are filled.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Mythblade;
+Balanceblade (+35%);
+Myth Trap;
+Time of Legend;
+Natural Attack (Myth 165-265-370, 80%);
+Humongofrog;
+Minotaur;
+Earthquake;
+Orthrus;
+Medusa;
+Basilisk;
+
+| quests =
+Master of Arms;
+
+| gold =
+80 - 90;
+
+| hats =
+Greenwarden's Energetic Mask (Level 100+)*CR;
+
+| robes =
+Greenwarden's Energetic Shroud (Level 100+)*CR;
+Vestment of Chaos;
+Vestment of Earth*F2;
+Vestment of Ember;
+Vestment of Equilibrium;
+Vestment of Frost;
+
+| boots =
+Greenwarden's Energetic Boots (Level 100+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Greenwarden's Energetic Staff (Level 90+)*CR;
+Greenwarden's Energetic Staff (Level 100+)*CR;
+
+| decks =
+
+| items =
+Avalon Abbey Road Theme;
+Avalon Combat Theme;
+Avalon Glorious Theme;
+Avalon Haunting Theme;
+Avalon Main Theme;
+Avalon Tense Theme;
+Avalon Wyrd Theme;
+Blue Vine Wallpaper;
+Bowl of Tomatoes;
+Broken Palm Tree;
+Broken Stump;
+Celestian Tree Sprig*F2;
+Cross Section Floor Tile*F2;
+Elm Tree;
+Fire Bush;
+Flowering Celestian Tree;
+Green Foodcart;
+Large Cypress Tree;
+Large Evergreen Tree;
+Large Fir Tree*F2;
+Large Willow Tree;
+Leaning Palm Tree;
+Maple Tree;
+Medium Evergreen Tree;
+Medium Fir Tree;
+Medium Pine Tree;
+Red Leaf Tree*CR*F3;
+Small Bush;
+Small Cypress Tree;
+Small Maple Tree;
+Stone Block Wallpaper;
+Stucco Wallpaper;
+Sunflower;
+Tall Palm Tree*CR;
+Tall Pumpkin;
+Tree Fountain;
+Wooden Well;
+Yellow Flowers Wallpaper;
+
+| cards =
+
+| reagents =
+Black Lotus;
+Brass;
+Bronze;
+Bronze Gear;
+Cobalt*F2;
+Frost Flower;
+Nickel;
+Red Mandrake;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F2;
+Caramel Popcorn;
+Cauliflowers;
+Crunch Apple;
+Delicious Cookie;
+Fire Cracker*F2;
+Flapjacks;
+Glowing Rock Candy*F2;
+Gummy Bloodbat*F3;
+Large Fish*F2;
+Meat Soup*F4*WMV;
+Redskin Peanut;
+Spicy Drumstick;
+Square Root;
+Strawberry Cupcake*F3;
+Submarine Sandwich;
+Tasty Biscuit;
+Wheat Cracker*F2;
+
+| jewels =
+Blizzard Lizard Sapphire;
+Clear Accurate Sapphire +9%;
+Clear Blocking Ruby +9;
+Clear Critical Citrine +10;
+Clear Damage Onyx +19;
+Death-Away Onyx;
+Ice Trap Sapphire (Triangle);
+Mass Infection Onyx;
+Ninja Pig Opal;
+Shh! Opal;
+Unstoppable Talent Opal;
+
+| pins =
+
+| pets =
+Rude Goblin*F4*WMV;
+
+| seeds =
+Angora Bunny Ears*F2;
+Blue Huckleberries;
+Deadly Helephant Ears*CR;
+Ninja Fig*CR;
+Red Huckleberries;
+
+| mounts =
+
+| spells =
+
+}}

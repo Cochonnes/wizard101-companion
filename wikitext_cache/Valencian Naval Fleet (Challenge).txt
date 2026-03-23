@@ -1,0 +1,258 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 13,215
+| crecla = 
+| school = Storm
+| school2 = Life
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Fire;
+Storm;
+Death;
+
+| critical =
+Storm, Life;
+
+| criticalblock =
+Any;
+
+| outpierce =
+37%;
+
+| outboost =
+192% Storm, Life;
+
+| incboost =
+None;
+
+| incresist =
+0% Moon;
+32% Fire, Ice, Storm, Myth, Life, Death, Balance, Sun, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Marleybonian Naval Fleet (Challenge);
+Monquistan Naval Fleet (Challenge);
+Polarian Naval Fleet (Challenge);
+
+| world = Novus
+| location = Doom Moon
+| subloc1 = Invading Fleets (Challenge)
+| descrip =
+As the Boss in the battle, all drops and cheats are recorded on this page.
+*For the Standard version of this battle, see {{Link|Creature|Valencian Naval Fleet (Standard)}}.
+
+| cheatnotes =
+*After each Boss is defeated, it will be healed back to full Health. This continues until all nine Marks are obtained via achieving gambits.
+
+'''{{Link|NPC|Doom Moon}}'''
+*The Doom Moon will charge its laser for each Hanging Effect, and will shoot a laser beam on all enemies after a condition is met.
+*The laser will be fired per condition met, and then all hanging effects used to meet the condition will be removed.
+
+*'''Gambit Conditions:'''
+**{{Icon|Charm}} - 4 Helpful Charms on Wizards -> Dog Tracy
+**{{Icon|Curse}} - 4 Harmful Charms on Enemies -> Solomon Crane
+**{{Icon|Ward}} - 4 Helpful Wards on Wizards -> Duck Savage
+**{{Icon|Jinx}} - 4 Harmful Wards on Enemies -> Mandar the Barbarian
+**{{Icon|Damage over Time}} - 2 Damage over Time effects on Enemies -> Buck Gordon
+**{{Icon|Heal over Time}} - 2 Heal over Time effects on Wizards -> The Bantam
+**{{Icon|Charm}}{{Icon|Curse}} - 2 Helpful Charms on Wizards and 2 Harmful Charms on Enemies  -> Stallion Quartermane
+**{{Icon|Ward}}{{Icon|Jinx}} - 2 Helpful Wards on Wizards and 2 Harmful Wards on Enemies -> Stallion Quartermane
+**{{Icon|Shadow Pip}} - 2 Uses of Shadow-Enhanced Spells by Wizards -> The Shadoe
+
+Note: Charge Up cheats have no function. In order to shoot the Doom Moon laser, the Gambit Conditions must be met.
+
+'''Dog Tracy''' - ('''4''' {{Icon|Charm}})
+*''"We're fleas biting at a rhino. Need more punch..."'' - Charge Up.
+*''"Power rerouted to weapons!"'' - Deals 6,000 Moon Damage to all enemies and removes all helpful Charms from all Wizards. Each Wizard is given a '''Storm Mark'''.
+
+'''Solomon Crane''' - ('''4''' {{Icon|Curse}})
+*''"The machines have identified weak points..."'' - Charge Up.
+*''"Target these areas for increased effect!"'' - Deals 6,000 Moon Damage and removes all harmful Charms from all enemies. Each Wizard is given a '''Death Mark'''.
+
+'''Duck Savage''' - ('''4''' {{Icon|Ward}})
+*''"Need some help? Your shields need reinforcement..."'' - Charge Up.
+*''"Let's polarize the hull with... bronze!"'' - Deals 6,000 Moon Damage to all enemies and removes all helpful Wards from all Wizards. Each Wizard is given an '''Ice Mark'''.
+
+'''Mandar the Barbarian''' - ('''4''' {{Icon|Jinx}})
+*''"Bah, only fools fall into traps..."'' - Charge Up.
+*''"By the power of Mandar!"'' - Deals 6,000 Moon Damage to and removes all harmful Wards from all enemies. Each Wizard is given a '''Myth Mark'''.
+
+'''Buck Gordon''' - ('''2''' {{Icon|Damage over Time}})
+*''"Sorry I'm late. You'll see why..."'' - Charge Up.
+*''"Took a detour for some sabotage."'' - Deals 6,000 Moon Damage to and removes all Damage over Time effects from all enemies. Each Wizard is given a '''Fire Mark'''.
+
+'''The Bantam''' - ('''2''' {{Icon|Heal over Time}})
+*''"Damage reports from all decks..."'' - Charge Up
+*''"Oh, what's this button do?"'' - Deals 6,000 Moon Damage to all enemies to and removes all Heal over Time effects from all Wizards.
+**Heal over Time effects do NOT have to be on the same Wizard for the condition to be met. Each Wizard is given a '''Life Mark'''.
+
+'''Stallion Quartermane''' - ('''2''' {{Icon|Charm}} & '''2''' {{Icon|Curse}})
+*''"Ha-ha! That's how you adventure..."'' - Charge Up.
+*''"Targeting systems engaged!"'' - Deals 6,000 Moon Damage to all enemies and removes all helpful Charms from all Wizards and all harmful Charms from all enemies. Each Wizard is given a '''Balance Mark 1'''.
+
+'''Stallion Quartermane''' - ('''2''' {{Icon|Ward}} & '''2''' {{Icon|Jinx}})
+*''"Ha-ha! That's how you adventure..."'' - Charge Up.
+*''"Targeting systems engaged!"'' - Deals 6,000 Moon Damage to all enemies and removes all helpful Wards from all Wizards and all harmful Wards from all enemies. Each Wizard is given a '''Balance Mark 2'''.
+
+'''The Shadoe''' - ('''2''' {{Icon|Shadow Pip}})
+*''"I sense fear on those ships. Keep going..."'' - Charge Up.
+*''"The Shadoe Bestows!"'' - Deals 6,000 Moon Damage to all enemies and removes all Shadow Pips from all Wizards. Each Wizard is given a '''Shadow Mark'''.
+
+{{Icon|Storm}}{{Icon|Life}} '''Valencian Naval Fleet'''
+*{{Icon|Jinx}} ''"Life surpasses Myth."'' - If a Wizard casts a harmful Ward, the Valencian Naval Fleet will cast a Spell to remove a harmful Ward from all allies.
+*{{Icon|Damage over Time}} ''"Storm douses Fire."'' - If a Wizard casts a Damage over Time effect, the Valencian Naval Fleet will cast a Spell to remove a Damage over Time from all allies.
+
+{{Icon|Fire}}{{Icon|Myth}} '''Monquistan Naval Fleet'''
+*{{Icon|Ward}} ''"Fire melts Ice."'' - If a Wizard casts a helpful Ward, the Monquistan Naval Fleet will cast a Spell to remove a helpful Ward from all enemies.
+*{{Icon|Curse}} ''"Myth conquers Death."'' - If a Wizard casts a harmful Charm, the Monquistan Naval Fleet will cast a Spell to remove a harmful Charm from all allies.
+
+{{Icon|Ice}} {{Icon|Death}} '''Polarian Naval Fleet'''
+*{{Icon|Charm}} ''"Ice freezes Storm."'' - If a Wizard casts a helpful Charm, the Polarian Naval Fleet will cast a Spell to remove a helpful Charm from all enemies.
+*{{Icon|Heal over Time}} ''"Death ends Life."'' - If a Wizard casts a Heal over Time effect, the Polarian Naval Fleet will cast {{Link|Spell|Mass Triage}}.
+
+{{Icon|Balance}} {{Icon|Shadow}} '''Marleybonian Naval Fleet'''
+*{{Icon|Shadow Pip}} ''"I will show you the Shadow!"'' – A Wizard has 2 shadow pips, the Marleybonian Naval Fleet will cast a spell to deal ??? shadow damage.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Chaos to Perfection;
+Raindrop Blade;
+Stormblade (+30%);
+Lifeblade (+40%);
+Triage;
+Cleanse Ward (Fire);
+Lightning Bats (Tier 5b);
+Bunyip's Rage (Tier 3a);
+Kraken (Tier 5b);
+Triton (Tier 5b);
+Leprechaun (Tier 5b);
+Zand the Bandit (Tier 3a);
+Starspawn (Tier 3b);
+Centaur (Tier 5b);
+
+| quests =
+
+| dropnotes =
+This Boss will always drop the following:
+*{{Icon|Athame}} 1 Reaver Athame and 1 Warper Knife
+*{{Icon|Reagent}} 5-6 Dream Water
+*{{Icon|Treasure Card}}{{Icon|Spellement}} 25 Spellemental Rank 3 Treasure Cards and Karamelle, Lemuria, Novus, and Wallaru Spellements
+*{{Icon|Jewel}} 1 Jewel
+*{{Icon|Sword Pin}} 2-3 Level 160 and Level 170 Sword Pins
+
+| gold =
+1 - 62;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Bold Dream Reaver Knife;
+Cruel Dream Reaver Knife;
+Cruel Dream Warper Knife;
+Deft Dream Reaver Knife;
+Deft Dream Warper Knife;
+Fabled Dream Warper Knife;
+Fell Dream Reaver Knife;
+Fell Dream Warper Knife;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Banshee (Tier 2b);
+Cyclops (Tier 2b);
+Evil Snowman (Tier 2b);
+Locust Swarm (Tier 2b);
+Nature's Wrath (Tier 2b);
+Storm Shark (Tier 2b);
+Sunbird (Tier 2b);
+
+| reagents =
+Dream Water @ 5 Dream Water;
+Dream Water @ 6 Dream Water;
+
+| spellements =
+Barbarian's Saga;
+Blast Off!;
+Bunyip's Rage;
+Count Croakula;
+Dark & Stormy;
+Deathly Depths;
+Drop Bear Fury;
+Freeze Ray;
+Glimpse of Infinity;
+Gravestorm;
+Grim Reader;
+Grrnadier;
+Improbable Gaze;
+Lord of the Jungle;
+Mockenspiel;
+Old One's Endgame;
+Phantasmania!;
+Rainbow Serpent;
+Scales of Destiny;
+Shatterhorn;
+SMore Machine;
+Snack Attack;
+Sound of Musicology;
+Starspawn;
+Tatzulwurm;
+Tree of Strife;
+Wobbegong Frenzy;
+Zand the Bandit;
+
+| snacks =
+
+| jewels =
+Feint Citrine;
+Flawless Mana Opal +62;
+Flawless Mana Opal +64;
+Incapacitate Amethyst;
+
+| pins =
+Balance Crushing Pin (160, Death);
+Balance Punishing Pin (170, Death);
+Fire Crushing Pin (160, Death);
+Fire Disabling Pin (160, Death);
+Fire Punishing Pin (170, Death);
+Ice Punishing Pin (160, Death);
+Ice Punishing Pin (170, Death);
+Life Disabling Pin (170, Death);
+Life Disabling Pin (170, Death);
+Life Punishing Pin (170, Death);
+Myth Crushing Pin (170, Death);
+Myth Punishing Pin (160, Death);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Valencian Naval Fleet
+}}

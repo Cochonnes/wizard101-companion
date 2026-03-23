@@ -1,0 +1,167 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,730
+| crecla = Gorilla
+| school = Fire
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Gorilla Spider Witch;
+
+| world = Zafaria
+| location = Drum Jungle
+| subloc1 = Oya Bloodstorm's Cave
+| descrip =
+Two additional {{Link|Creature|Black Tusk Cultist}} Minions appear if more than two Wizards are present.
+
+| speech =
+:''"A Wizard? What a delicious morsel!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Fireblade;
+Fire Trap;
+Wyldfire;
+Fire Shark;
+Meteor Strike;
+Scald;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Efreet;
+
+| quests =
+Shango's Swords;
+
+| gold =
+96 - 132;
+
+| hats =
+Elephant Graveyard Shroud*F3;
+Turban of the Olyphants*F5*WMV;
+
+| robes =
+Cloak of Conformity;
+Tunic of Darajani Honor;
+
+| boots =
+Ananse's Dark Rangers*F3*WMV;
+Big Sky Striders*F2*WMV;
+Hunter Prey Rangers;
+Shaman's Cold River Wraps*F2*WMV;
+
+| athames =
+Roaring Razor*F2*WMV;
+
+| amulets =
+Collar of the Heck Hound;
+
+| rings =
+Elissa's Chill Band*F6*WMV;
+Koko's Smoky Circle;
+
+| wands =
+Staff of Shadow and Light;
+
+| decks =
+Chieftain's Smiling Deck*F3*WMV;
+Hand-Chased Box of Destiny*F2*WMV;
+Hand-Chased Box of Winter;
+
+| items =
+
+| cards =
+Efreet*F2*WMV;
+Forest Lord;
+Fuel*F3*WMV;
+Leviathan*F4*WMV;
+Medusa;
+Polymorph Elemental (Storm);
+Power Link*F4;
+Ra*F2;
+Skeletal Dragon*F3*WMV;
+Snow Angel*F2*WMV;
+Stun Block;
+
+| reagents =
+Bone*F4*WMV;
+Bronze*F2;
+Nickel;
+
+| spellements =
+
+| snacks =
+Dr. Jalapeno*F2*WMV;
+Flaming Soup*F2*WMV;
+Flapjacks*F2;
+Glowing Star Fruit;
+Glowing Taffy;
+Goat Cheese;
+Golden Apple*F2;
+Gummy Humongofrog*F2;
+Jelly Baby;
+King Banana;
+Kola Nuts*F2;
+Shiny Tomato;
+Spicy Drumstick;
+Strawberry Cupcake;
+Submarine Sandwich;
+Uni-Corn;
+
+| jewels =
+Balance-It Citrine;
+Balance-Off Citrine;
+Life-Boon Jade;
+Opaque Defense Sapphire +33;
+Super-Sap Opal;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Baby Carrots*F3*WMV;
+Burning Snap Dragon;
+Cornbread Fruit Bush;
+Evil Snow Peas;
+Helephant Ears*F2;
+Key Limes*CR*F2*WMV;
+Orange Bell Pepper*CR;
+Red Bell Pepper;
+Snap Dragon;
+Venus Fly Trap;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

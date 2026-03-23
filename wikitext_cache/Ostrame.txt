@@ -1,0 +1,231 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 3,095
+| crecla = Dog
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Ice;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Anguished Wraith (Death);
+Anguished Wraith (Death);
+Anguished Wraith (Death);
+
+| world = MooShu
+| location = Jade Palace
+| subloc1 = Telegraph Box (MooShu)
+| descrip =
+*During the [[Basic:Five B.O.X.E.S.|Five B.O.X.E.S. Event]], Ostrame can be found in the Telegraph Box (MooShu) instance.
+*Wizards are accompanied by {{Link|NPC|Dworgyn}} as an ally in this duel, who provides +10% resistance and +15% incoming healing.
+
+| speech =
+:''"How did you defeat my minions? Moreover, how did you find me down here? No matter, your deaths will be in my hand soon enough."''
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Natural Attack (Fire 120-235-355);
+Sunbird;
+Meteor Strike;
+Raging Kraken (Fire);
+Heck Hound;
+Leprechaun;
+Cyclops;
+Vampire;
+
+| quests =
+Carnival of Monsters;
+
+| gold =
+183 - 317;
+
+| hats =
+Bad Storm Shroud*F2;
+Brave One's Mantle;
+Brisk Helmet of Nodor*F2*WMV;
+Fire Spirits' Toasty Helm*F2*WMV;
+Greenwarden's Brilliant Mask (Level 40+)*CR;
+Greenwarden's Brilliant Mask (Level 50+)*CR;
+Helm of Nature's Wrath;
+Mask of the Silent Hunter;
+
+| robes =
+Bad Storm Armor*F2;
+Fire Spirits' Toasty Tunic*F2;
+Greenwarden's Brilliant Shroud (Level 40+)*CR;
+Greenwarden's Energetic Shroud (Level 40+)*CR;
+Greenwarden's Energetic Shroud (Level 50+)*CR;
+Robes of the Silent Hunter*F2;
+Tunic of Nature's Wrath;
+Windbreaker of Nodor;
+
+| boots =
+Friend of the Fire Elf Boots*F2;
+Greenwarden's Energetic Boots (Level 40+)*CR;
+Greenwarden's Peaceful Boots (Level 50+)*CR;
+Ponycorn Hoofers*F3;
+Slick Road Grippers;
+Splashing Stream Waders*F2;
+
+| athames =
+
+| amulets =
+
+| rings =
+Bad Host Band;
+Band of the Lost Abbey;
+Circle of Caliburn;
+Ganelon's Lost Ring;
+Lake Spiral Ring;
+
+| wands =
+Greenwarden's Peaceful Staff (Level 40+)*CR;
+
+| decks =
+
+| items =
+Avalon Wooden Table*F2;
+Birdcage*F4*WMV;
+Five B.O.X.E.S. Theme*F2*WMV;
+Jade Palace Music Player*F2;
+Marble Wallpaper;
+Red Brick Floor Tile*F3;
+Square Pedestal*F3*WMV;
+Yellow Flowers Wallpaper*F3;
+
+| cards =
+Clockwork Spider*F16*WMV;
+Colossus;
+Efreet*F7*WMV;
+Fire Dragon;
+Flood*F3*WMV;
+Frost Giant;
+Gargantuan;
+Imitsu Punisher*F3*WMV;
+Kettleblack*F2*WMV;
+Leprechaun*F3;
+Orthrus;
+Power Nova;
+Scarecrow;
+Sprite;
+Strong;
+Triage*F4*WMV;
+Uncanny Magic*F3;
+
+| reagents =
+Black Lotus*F4*WMV;
+Cat Tail;
+Cobalt*F2*WMV;
+Copper;
+Deep Mushroom*F7*WMV;
+Frost Flower*F5*WMV;
+Lava Lily*F2*WMV;
+Lead;
+Mist Wood*F4*WMV;
+Nickel*F4*WMV;
+Ore*F9*WMV;
+Parchment*F4*WMV;
+Pearl*F3*WMV;
+Red Mandrake*F4*WMV;
+Shell*F5*WMV;
+Sonic Spring*F3*WMV;
+Spider Silk*F3*WMV;
+Stone Block*F6*WMV;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F3;
+Cheese Broccoli*F2*WMV;
+Chocolate Strawberry*F4*WMV;
+Cracker;
+Glowing Star Fruit*F2;
+Green Grapes;
+Gummy Firecat;
+Jelly Baby;
+Kola Nuts;
+Nettle Root*F2;
+Sugar Donut*F2;
+Tiny Fish*F2*WMV;
+
+| jewels =
+Blemished Damage Amethyst +12;
+Blemished Defense Amethyst +24;
+Blemished Defense Citrine +24;
+Blemished Defense Jade +24;
+Blemished Defense Peridot +24;
+Blemished Defense Ruby +24;
+Blemished Defense Sapphire +24;
+Centaur Jade;
+Dull Accurate Amethyst +6%;
+Dull Accurate Onyx +6%;
+Dull Accurate Peridot +6%;
+Dull Accurate Ruby +6%;
+Dull Blocking Amethyst +3;
+Dull Blocking Citrine +3;
+Dull Blocking Onyx +3;
+Dull Blocking Peridot +3;
+Dull Critical Opal +1;
+Dull Critical Sapphire +4;
+Dull Defense Opal +13;
+Dull Defense Sapphire +25;
+Dull Health Opal +46;
+Dull Health Opal +48;
+Dull Health Opal +49;
+Dull Health Opal +50*F2;
+Life-Boon Jade;
+Minotaur Peridot;
+Storm-Boon Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Boom Shroom;
+Deadly Helephant Ears*CR*F2*WMV;
+Frozen Fly Trap*F2;
+Grapes of Wrath*CR*F3*WMV;
+Key Limes*CR*F3*WMV;
+Orange Bell Pepper*CR*F2*WMV;
+Pink Dandelion*CR;
+Stinkweed*F2;
+Tiger Lily (Seed)*F2;
+Trumpet Vine;
+
+| mounts =
+Blue Fairy Wings*F5*WMV;
+Blue Fairy Wings*7;
+Ravenwood Pogo Stick*7*F3;
+
+| spells =
+
+}}

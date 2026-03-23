@@ -1,0 +1,751 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 13,655
+| crecla = Aberration
+| crecla2 = Wizard
+| school = Shadow
+| masteries =
+Storm;
+Myth;
+Death;
+Balance;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+330 Any;
+
+| criticalblock =
+103 Any;
+
+| outpierce =
+11%;
+
+| outboost =
+77%;
+
+| incboost =
+None;
+
+| incresist =
+26% Fire, Ice, Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+8%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Aberration (Fire, Standard);
+Aberration (Ice, Standard);
+Aberration (Storm, Standard);
+
+| summons =
+Aberration (Myth, Standard);
+Aberration (Death, Standard);
+Aberration (Life, Standard);
+Aberration (Shadow, Standard);
+Aberration (Balance, Standard);
+Aberration (Balance, Standard);
+
+| world = Karamelle
+| location = Karamelle City
+| subloc1 = Cavity Chamber (Standard)
+| descrip =
+The Aberrant Paradox is the final boss of Karamelle storyline.
+*The strategy of the battle is to defeat all the minions before finishing the Aberrant Paradox.
+
+This Creature and its Minions always occupy the same following slots:
+*{{Target|Dagger}} Aberrant Paradox {{Icon|Shadow}}
+*{{Target|Key}} Aberration (Fire, Standard) {{Icon|Fire}}
+*{{Target|Gem}} Aberration (Ice, Standard) {{Icon|Ice}}
+*{{Target|Spiral}} Aberration (Storm, Standard) {{Icon|Storm}}
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} If a Wizard joins the duel late, Aberrant Paradox will cast a single-target version of Power Nova for that Wizard's maximum Health, ignoring all Resist and all Wards. This occurs at the beginning of the Round.
+*{{Icon|Global}} At the beginning of the first Round, the Divine Paradox in the background will cast a random School Global Spell. These Global Spells boost the Damage of their School and weaken the Damage of the opposite School. The only exception is the Balance School, which weakens the damage of all other Schools. The first Global Spell lasts two Rounds. All others last three Rounds.
+**When this Global Spell is cast, all Wizards will receive a card related to the School of the Global Spell in their hand that cannot be discarded. Reshuffle does not remove them. These cards either help the enemy team or hurt the Wizard's team.
+**Changing the Global Spell will make the Aberrant Paradox recast the previous Global Spell that was in effect.
+**If the Global spell is changed by an enemy spell, such as {{Link|Spell|Gaze of Fate}}, the Global will not be recast.
+*{{Icon|Fire}} '''Fire Phase''' - Wizards will receive one of the following Spells.
+**{{GivesSpell|spells = 3|size = x150px|Cursed Smoke Screen|Anti-Steal Charm|Anti-Scimitars}}
+
+*{{Icon|Ice}} '''Ice Phase''' - Wizards will receive one of the following Spells.
+**{{GivesSpell|spells = 3|size = x150px|Anti-Tower Shield|Cursed Taunt|Anti-Climaclysm}}
+
+*{{Icon|Storm}} '''Storm Phase''' - Wizards will receive one of the following Spells.
+**{{GivesSpell|spells = 3|size = x150px|Anti-Cleanse Charm|Anti-Disarm|Anti-Iron Sultan}}
+
+*{{Icon|Myth}} '''Myth Phase''' - Wizards will receive one of the following Spells.
+**{{GivesSpell|spells = 3|size = x150px|Cursed Cleanse Ward|Cursed Stun|Anti-Snake Charmer}}
+
+*{{Icon|Life}} '''Life Phase''' - Wizards will receive one of the following Spells.
+**{{GivesSpell|spells = 3|size = x150px|Cursed Armor|Cursed Pigsie|Anti-Lamassu}}
+
+*{{Icon|Death}} '''Death Phase''' - Wizards will receive one of the following Spells.
+**{{GivesSpell|spells = 3|size = x150px|Cursed Infection|Cursed Juju|Qismah's Curse (2 Pip)}}
+
+*{{Icon|Balance}} '''Balance Phase''' - Wizards will receive one of the following Spells.
+**{{GivesSpell|spells = 3|size = x150px|Cursed Balanceblade|Cursed Mass Hex|Anti-Sand Wurm}}
+
+*{{Icon|Heal}} If all Aberrations are not defeated before the Aberrant Paradox, it will respawn with 5,775 Health. This also applies if the Wizard defeats the last Aberration on the turn the Aberrant Paradox is defeated.
+*{{Icon|Minion}}{{Icon|Afterlife}} Defeating any of the initial Minion Aberrations in the specified slot will summon the following Minions in the same slot.
+**{{Target|Key}} {{Link|Creature|Aberration (Myth, Standard)}} {{Icon|Myth}}
+**{{Target|Gem}} {{Link|Creature|Aberration (Death, Standard)}} {{Icon|Death}}
+**{{Target|Spiral}} {{Link|Creature|Aberration (Life, Standard)}} {{Icon|Life}}
+*{{Icon|Minion}}{{Icon|Afterlife}} Defeating any of the second Minion Aberrations in the specified slot will summon the following Minions in the same slot. No more will spawn after this.
+**{{Target|Key}} {{Link|Creature|Aberration (Shadow, Standard)}} {{Icon|Shadow}}
+**{{Target|Gem}} {{Link|Creature|Aberration (Balance, Standard)}} {{Icon|Balance}}
+**{{Target|Spiral}} {{Link|Creature|Aberration (Balance, Standard)}} {{Icon|Balance}}
+
+| spellnotes =
+*Casts a protected Shadowblade.
+*Casts Feint (Shadow) that applies a +70% Trap to all enemies and does not apply a Trap on Self.
+*Casts an All Enemies version of Poison (Shadow).
+*Casts a Tatzlewurm Terror (Shadow) that has a chance to Confuse Wizards for '''two''' or '''three''' Rounds.
+
+| casts =
+Conviction;
+Vengeance (6 Rounds);
+Tower Shield;
+Bad Juju;
+Healing Current;
+Shadowblade;
+Feint (Shadow);
+Steal Charm (Shadow);
+Snow Drift (Shadow);
+Steal Ward (Shadow);
+Stun;
+Shift (4 Pip);
+Detonate;
+Triage;
+Natural Attack (Shadow 105-210-315-420);
+Poison (Shadow);
+Iron Sultan (Shadow);
+Minotaur (Shadow);
+Call of Khrulhu (Shadow);
+Tatzlewurm Terror (Shadow);
+Storm Lord (Shadow);
+Leviathan (Shadow);
+Snowball Barrage (Shadow);
+Vengeful Seraph (Shadow);
+Supernova;
+
+| quests =
+...And They Is Us!
+
+| gold =
+1,033 - 1,372;
+
+| hats =
+Consultant Biohazard Hood;
+Consultant Cryo Hood;
+Consultant Hazmat Hood;
+Consultant Protective Hood;
+Consultant Thermal Hood;
+Contractor Cryo Hood;
+Contractor Hazmat Hood;
+Contractor Pressure Hood*F2;
+Contractor Protective Hood*F2;
+Contractor Survival Hood*F2;
+Contractor Thermal Hood;
+Director Insulated Hood;
+Director Survival Hood;
+Executive Hazmat Hood;
+Guten Artisan Cap;
+Guten Sciencer Cap;
+Guten Sentamentalist Cap;
+Guten Sweetsmith Cap;
+Producer's Protective Hood;
+Producer's Survival Hood;
+Specialist Biohazard Hood;
+Specialist Cryo Hood;
+Specialist Insulated Hood;
+Specialist Pressure Hood;
+Uber Dreamsearcher Cap;
+Uber Freshbaker Cap;
+Uber Sciencer Cap;
+Uber Sweetsmith Cap*F2;
+Uber Wonderneer Cap;
+Wunderbar Artisan Cap;
+Wunderbar Dreamsearcher Cap;
+Wunderbar Freshbaker Cap*F2;
+Wunderbar Sciencer Cap;
+Wunderbar Sentamentalist Cap;
+Wunderbar Sweetsmith Cap;
+
+| robes =
+Consultant Biohazard Suit;
+Consultant Cryo Suit;
+Consultant Hazmat Suit;
+Consultant Protective Suit;
+Contractor Hazmat Suit;
+Contractor Insulated Suit*F2;
+Contractor Pressure Suit;
+Contractor Protective Suit;
+Contractor Thermal Suit;
+Director Insulated Suit;
+Director Thermal Suit;
+Guten Artisan Smock;
+Guten Candymancer Smock;
+Guten Dreamsearcher Smock;
+Guten Freshbaker Smock;
+Guten Sciencer Smock;
+Guten Sentamentalist Smock;
+Guten Sweetsmith Smock;
+Guten Wonderneer Smock;
+Specialist Biohazard Suit;
+Specialist Hazmat Suit;
+Specialist Pressure Suit;
+Specialist Protective Suit;
+Specialist Survival Suit;
+Uber Artisan Smock;
+Uber Candymancer Smock*F2;
+Uber Dreamsearcher Smock;
+Uber Freshbaker Smock;
+Uber Sciencer Smock;
+Uber Sentamentalist Smock*F2;
+Uber Sweetsmith Smock;
+Uber Wonderneer Smock;
+Wunderbar Artisan Smock;
+Wunderbar Candymancer Smock*F2;
+Wunderbar Dreamsearcher Smock;
+Wunderbar Freshbaker Smock;
+Wunderbar Sciencer Smock;
+Wunderbar Sentamentalist Smock; 
+Wunderbar Sweetsmith Smock; 
+
+| boots =
+Consultant Biohazard Boots;
+Consultant Insulated Boots;
+Consultant Pressure Boots;
+Consultant Protective Boots;
+Consultant Survival Boots;
+Consultant Thermal Boots;
+Contractor Hazmat Boots;
+Contractor Insulated Boots;
+Contractor Pressure Boots;
+Contractor Protective Boots;
+Contractor Survival Boots;
+Guten Artisan Boots;
+Guten Dreamsearcher Boots;
+Guten Freshbaker Boots;
+Guten Sciencer Boots;
+Guten Sweetsmith Boots;
+Producer's Survival Boots;
+Specialist Cryo Boots;
+Specialist Insulated Boots;
+Specialist Survival Boots;
+Specialist Thermal Boots;
+Uber Freshbaker Boots;
+Uber Sciencer Boots;
+Uber Sentamentalist Boots;
+Wunderbar Artisan Boots;
+Wunderbar Dreamsearcher Boots;
+Wunderbar Freshbaker Boots;
+Wunderbar Sciencer Boots;
+Wunderbar Sentamentalist Boots;
+
+| athames =
+Consultant Biohazard Knife;
+Consultant Cryo Knife;
+Consultant Hazmat Knife;
+Consultant Protective Knife;
+Consultant Survival Knife*F2;
+Contractor Biohazard Knife;
+Contractor Hazmat Knife;
+Contractor Insulated Knife*F2;
+Contractor Thermal Knife;
+Director Biohazard Knife;
+Director Hazmat Knife;
+Executive Survival Knife;
+Guten Artisan Knife;
+Guten Dreamsearcher Knife;
+Guten Freshbaker Knife;
+Guten Sweetsmith Knife;
+Producer's Biohazard Knife;
+Specialist Biohazard Knife;
+Specialist Cryo Knife;
+Specialist Hazmat Knife;
+Specialist Insulated Knife;
+Specialist Pressure Knife;
+Specialist Survival Knife;
+Uber Dreamsearcher Knife;
+Uber Freshbaker Knife;
+Uber Sciencer Knife;
+Uber Sentamentalist Knife*F2;
+Uber Sweetsmith Knife*F3;
+Wunderbar Dreamsearcher Knife;
+Wunderbar Freshbaker Knife;
+Wunderbar Sciencer Knife;
+Wunderbar Sentamentalist Knife*F2;
+Wunderbar Sweetsmith Knife;
+
+| amulets =
+Consultant Cryo Rope*F2;
+Consultant Hazmat Rope;
+Consultant Insulated Rope;
+Consultant Pressure Rope;
+Contractor Insulated Rope;
+Contractor Protective Rope;
+Contractor Survival Rope;
+Contractor Thermal Rope;
+Director Biohazard Rope;
+Director Cryo Rope;
+Director Hazmat Rope;
+Director Pressure Rope;
+Director Survival Rope;
+Director Thermal Rope*F2;
+Executive Biohazard Rope;
+Executive Cryo Rope;
+Executive Hazmat Rope;
+Executive Insulated Rope;
+Executive Pressure Rope;
+Executive Protective Rope;
+Executive Survival Rope;
+Executive Thermal Rope;
+Guten Artisan Rope*F2;
+Guten Dreamsearcher Rope;
+Guten Sentamentalist Rope;
+Guten Sweetsmith Rope;
+Guten Wonderneer Rope;
+Producer's Biohazard Rope;
+Producer's Cryo Rope;
+Producer's Hazmat Rope;
+Producer's Insulated Rope;
+Producer's Pressure Rope;
+Producer's Protective Rope;
+Producer's Survival Rope*F2;
+Producer's Thermal Rope*F2;
+Specialist Biohazard Rope;
+Specialist Cryo Rope;
+Specialist Hazmat Rope;
+Specialist Protective Rope;
+Specialist Survival Rope;
+Specialist Thermal Rope;
+Uber Artisan Rope;
+Uber Candymancer Rope;
+Uber Dreamsearcher Rope;
+Uber Freshbaker Rope;
+Uber Sciencer Rope;
+Uber Sentamentalist Rope;
+Uber Sweetsmith Rope*F2;
+Uber Wonderneer Rope;
+Wunderbar Freshbaker Rope;
+Wunderbar Sciencer Rope;
+Wunderbar Sentamentalist Rope;
+Wunderbar Sweetsmith Rope;
+Wunderbar Wonderneer Rope;
+
+| rings =
+Consultant Biohazard Ring;
+Consultant Cryo Ring;
+Consultant Hazmat Ring;
+Consultant Insulated Ring;
+Consultant Protective Ring;
+Contractor Cryo Ring;
+Contractor Hazmat Ring;
+Contractor Insulated Ring;
+Contractor Protective Ring;
+Contractor Survival Ring;
+Contractor Thermal Ring;
+Executive Hazmat Ring;
+Executive Survival Ring;
+Guten Artisan Ring;
+Guten Dreamsearcher Ring;
+Guten Sciencer Ring;
+Guten Sweetsmith Ring;
+Guten Wonderneer Ring;
+Specialist Cryo Ring;
+Specialist Hazmat Ring;
+Specialist Protective Ring;
+Specialist Survival Ring*F2;
+Specialist Thermal Ring;
+Uber Artisan Ring;
+Uber Dreamsearcher Ring; 
+Uber Freshbaker Ring;
+Uber Sciencer Ring;
+Uber Sentamentalist Ring*F2;
+Uber Sweetsmith Ring*F3;
+Wunderbar Artisan Ring;
+Wunderbar Freshbaker Ring;
+Wunderbar Sciencer Ring;
+Wunderbar Sweetsmith Ring;
+
+| wands =
+Consultant Biohazard Meter;
+Consultant Cryo Meter;
+Consultant Pressure Meter;
+Consultant Protective Meter;
+Consultant Survival Meter;
+Consultant Thermal Meter;
+Contractor Insulated Meter;
+Contractor Pressure Meter;
+Contractor Protective Meter;
+Contractor Survival Meter*F2;
+Executive Biohazard Meter;
+Guten Artisan Staff;
+Guten Candymancer Staff;
+Guten Dreamsearcher Staff;
+Guten Sciencer Staff;
+Guten Sentamentalist Staff;
+Guten Sweetsmith Staff;
+Guten Wonderneer Staff;
+Specialist Biohazard Meter*F2;
+Specialist Cryo Meter;
+Specialist Hazmat Meter;
+Specialist Pressure Meter;
+Specialist Protective Meter;
+Specialist Thermal Meter;
+Uber Artisan Staff;
+Uber Candymancer Staff;
+Uber Dreamsearcher Staff;
+Uber Freshbaker Staff;
+Uber Sciencer Staff;
+Uber Sentamentalist Staff;
+Uber Sweetsmith Staff;
+Wunderbar Candymancer Staff;
+Wunderbar Freshbaker Staff;
+Wunderbar Sciencer Staff;
+Wunderbar Sentamentalist Staff;
+Wunderbar Sweetsmith Staff;
+
+| decks =
+Consultant Biohazard Box;
+Consultant Cryo Box;
+Consultant Hazmat Box;
+Consultant Insulated Box;
+Consultant Pressure Box;
+Consultant Thermal Box;
+Contractor Biohazard Box;
+Contractor Cryo Box;
+Contractor Hazmat Box;
+Contractor Insulated Box;
+Contractor Pressure Box;
+Director Biohazard Box;
+Director Cryo Box;
+Director Hazmat Box;
+Director Insulated Box;
+Director Pressure Box;
+Director Protective Box;
+Director Survival Box;
+Director Thermal Box;
+Executive Biohazard Box;
+Executive Hazmat Box;
+Executive Insulated Box*F2;
+Executive Pressure Box;
+Executive Protective Box;
+Executive Survival Box;
+Executive Thermal Box;
+Guten Dreamsearcher Box;
+Guten Sciencer Box;
+Guten Sweetsmith Box;
+Guten Wonderneer Box;
+Producer's Biohazard Box;
+Producer's Cryo Box;
+Producer's Hazmat Box*F2;
+Producer's Insulated Box;
+Producer's Pressure Box;
+Producer's Protective Box;
+Producer's Survival Box;
+Producer's Thermal Box;
+Specialist Biohazard Box;
+Specialist Cryo Box;
+Specialist Hazmat Box;
+Specialist Insulated Box;
+Specialist Pressure Box;
+Uber Dreamsearcher Box;
+Uber Freshbaker Box;
+Uber Sciencer Box;
+Uber Sentamentalist Box*F2;
+Uber Sweetsmith Box;
+Wunderbar Freshbaker Box;
+Wunderbar Sciencer Box;
+Wunderbar Sweetsmith Box*F2;
+
+| items =
+Gum Drop Container;
+Gumdrop Forest Poster;
+Gumdrop Tree;
+Karamelle Cavity Combat Theme;
+Karamelle City Combat Theme;
+Karamelle City Theme;
+Karamelle Crate;
+Karamelle Forest Combat Theme*F2;
+Karamelle Jingle Theme;
+Karamelle Neglected Com Theme;
+Karamelle Rural Combat Theme;
+Karamelle Rural Theme;
+Licorice Tree;
+Oil Drum;
+Rock Candy Mountains Poster;
+Trash Pile (Outdoor);
+Von Trap Estate Poster;
+
+| cards =
+Balefrost;
+Combustion;
+Darkwind*F2;
+Doom and Gloom;
+Ether Shield*F2;
+Mass Death Prism*F2*WMV;
+Mass Fire Prism;
+Mass Life Prism*F2;
+Mass Triage*F2;
+Nested Fury;
+Power Play;
+Raging Bull;
+Rusalka's Wrath;
+Sirens;
+Snowball Barrage*F2;
+Time of Legend;
+Winged Sorrow;
+Wings of Fate*F2;
+Witch's House Call;
+
+| reagents =
+Aether;
+Agave Leaves;
+Agave Nectar*F2;
+Amber*F2;
+Aquamarine;
+Astral Shard*F2;
+Braided Vine;
+Brass*F11;
+Bronze Gear*F6*WMV;
+Cobalt*F9*WMV;
+Draconium;
+Ectoplasm*F11*WMV;
+Fire Blossom;
+Golden Pearl;
+Karamelle Chunk*F7;
+Merle's Whisker;
+Nickel*F9*WMV;
+Orichalcum;
+Scales*F9*WMV;
+Silver*F3;
+Spider Silk*F8*WMV;
+Steel*F2;
+Sunstone*F2;
+Tin*F5;
+Titanium*F3;
+Toffee Bean*F6*WMV;
+Tungsten*F4*WMV;
+Turmeric;
+Turquoise;
+Vine*F2;
+
+| spellements =
+Grrnadier*F15*WMV;
+Mockenspiel*F2;
+S'more Machine;
+Shatterhorn;
+Snack Attack*F2;
+Sound of Musicology;
+Tatzlewurm Terror;
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate*F2;
+BBQ Drumstick*F3;
+Beast Wellington*F6*WMV;
+Cherry Pie*F3;
+Crackle Jacks Cereal;
+Decimatoes;
+Discord Grape Jelly*F4*WMV;
+Dragon Fruit*F3;
+Drumstick*F2;
+Eye Candy*F6;
+Fern Jelly;
+Glowing Taffy*F7*WMV;
+Hot Cross Buns*F2;
+Krakamari*F4;
+Pizza*F5*WMV;
+Rock and Roll Candy*F3*WMV;
+Roly Poly Fishheads;
+Satyr Chow*F5*WMV;
+Ships 'n' Queso;
+Sprinkle Cupcake*F6*WMV;
+Squash*F2;
+Tasty Rainbow*F2;
+Veggie Juice*F2;
+Waterworks Wonton;
+Wheat Cracker;
+
+| jewels =
+Adapt Opal;
+Dazzling Accurate Opal +7%;
+Dazzling Accurate Peridot +14%;
+Dazzling Accurate Sapphire +14%;
+Dazzling Blocking Amethyst +19;
+Dazzling Blocking Hematite +19;
+Dazzling Blocking Onyx +19;
+Dazzling Blocking Opal +10;
+Dazzling Blocking Peridot +19;
+Dazzling Blocking Sapphire +20;
+Dazzling Critical Citrine +19;
+Dazzling Critical Citrine +20;
+Dazzling Critical Hematite +20;
+Dazzling Critical Jade +20;
+Dazzling Critical Onyx +19;
+Dazzling Critical Onyx +20;
+Dazzling Critical Opal +10;
+Dazzling Critical Peridot +19;
+Dazzling Critical Sapphire +19;
+Dazzling Damage Amethyst +30;
+Dazzling Damage Citrine +30;
+Dazzling Damage Hematite +58;
+Dazzling Damage Hematite +60;
+Dazzling Damage Jade +30;
+Dazzling Damage Onyx +29;
+Dazzling Damage Onyx +30;
+Dazzling Damage Peridot +30;
+Dazzling Damage Ruby +30;
+Dazzling Damage Sapphire +29;
+Dazzling Defense Amethyst +58;
+Dazzling Defense Amethyst +60;
+Dazzling Defense Hematite +57;
+Dazzling Defense Jade +59;
+Dazzling Defense Jade +60*F2;
+Dazzling Defense Onyx +58;
+Dazzling Defense Opal +29;
+Dazzling Defense Peridot +60;
+Dazzling Defense Ruby +60;
+Dazzling Defense Sapphire +58;
+Dazzling Healing Opal +7%;
+Dazzling Health Opal +126;
+Dazzling Health Opal +129;
+Dazzling Health Opal +133;
+Dazzling Health Opal +134;
+Dazzling Health Opal +135*F2;
+Dazzling Mana Opal +54;
+Dazzling Mana Opal +55;
+Dazzling Mana Opal +56;
+Dazzling Mending Opal +7%;
+Epic Opal;
+Flawless Opal;
+Handsome Fomori Sapphire;
+Ninja Pigs Peridot;
+Radical Opal;
+Renew Opal;
+Savage Paw Citrine;
+Shiny Accurate Amethyst +12%;
+Shiny Accurate Citrine +12%;
+Shiny Accurate Hematite +12%;
+Shiny Accurate Jade +12%;
+Shiny Accurate Onyx +12%;
+Shiny Accurate Opal +6%*F2;
+Shiny Accurate Onyx +12%;
+Shiny Accurate Peridot +12%;
+Shiny Accurate Sapphire +12%;
+Shiny Blocking Amethyst +15;
+Shiny Blocking Amethyst +16;
+Shiny Blocking Citrine +15;
+Shiny Blocking Citrine +16;
+Shiny Blocking Hematite +15*F2;
+Shiny Blocking Hematite +16;
+Shiny Blocking Jade +16;
+Shiny Blocking Onyx +15;
+Shiny Blocking Onyx +16*F2;
+Shiny Blocking Opal +8*F2;
+Shiny Blocking Peridot +15*F2;
+Shiny Blocking Peridot +16;
+Shiny Blocking Ruby +16;
+Shiny Blocking Sapphire +15;
+Shiny Blocking Sapphire +16;
+Shiny Critical Amethyst +15;
+Shiny Critical Citrine +15*F2;
+Shiny Critical Citrine +16;
+Shiny Critical Hematite +16;
+Shiny Critical Jade +15;
+Shiny Critical Jade +16*F2;
+Shiny Critical Onyx +15;
+Shiny Critical Onyx +16;
+Shiny Critical Opal +8;
+Shiny Critical Peridot +16;
+Shiny Critical Ruby +15;
+Shiny Critical Ruby +16;
+Shiny Critical Sapphire +15;
+Shiny Critical Sapphire +16;
+Shiny Damage Amethyst +26;
+Shiny Damage Citrine +26;
+Shiny Damage Hematite +50;
+Shiny Damage Hematite +52;
+Shiny Damage Jade +26;
+Shiny Damage Onyx +25;
+Shiny Damage Onyx +26;
+Shiny Damage Opal +13;
+Shiny Damage Peridot +25;
+Shiny Damage Peridot +26;
+Shiny Damage Ruby +25;
+Shiny Damage Ruby +26;
+Shiny Damage Sapphire +26;
+Shiny Defense Amethyst +49;
+Shiny Defense Amethyst +50;
+Shiny Defense Amethyst +52;
+Shiny Defense Citrine +49;
+Shiny Defense Citrine +50*F2;
+Shiny Defense Citrine +52;
+Shiny Defense Hematite +49;
+Shiny Defense Hematite +51*F2;
+Shiny Defense Hematite +52;
+Shiny Defense Jade +49;
+Shiny Defense Jade +50;
+Shiny Defense Jade +51;
+Shiny Defense Jade +52;
+Shiny Defense Onyx +51;
+Shiny Defense Opal +25;
+Shiny Defense Opal +26;
+Shiny Defense Peridot +49;
+Shiny Defense Peridot +51;
+Shiny Defense Ruby +49;
+Shiny Defense Ruby +50;
+Shiny Defense Ruby +51;
+Shiny Defense Ruby +52;
+Shiny Defense Sapphire +49;
+Shiny Defense Sapphire +50;
+Shiny Defense Sapphire +51;
+Shiny Defense Sapphire +52;
+Shiny Healing Opal +6%;
+Shiny Health Opal +107;
+Shiny Health Opal +108;
+Shiny Health Opal +109;
+Shiny Health Opal +111;
+Shiny Health Opal +112*F2;
+Shiny Health Opal +113*F2;
+Shiny Health Opal +114*F2;
+Shiny Mana Opal +45*F2;
+Shiny Mana Opal +46*F3;
+Shiny Mana Opal +47*F2;
+Shiny Mending Opal +6%;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears*F4;
+Baby Carrots*F5;
+Bell Pepper*F4;
+Blue Huckleberries*F4*WMV;
+Boiled Peanuts*F4*WMV;
+Bread Fruit Bush*F4;
+Cornbread Fruit Bush*F8*WMV;
+Fish on a Vine*F6*WMV;
+Grapes of Wrath*CR*F4;
+Ivy League*CR*F7*WMV;
+Pink Huckleberries*F4;
+Red Huckleberries*F3;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,356 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 12,600
+| crecla = Giant
+| crecla2 = Cyclops
+| school = Shadow
+| school2 = Myth
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+108 Any;
+
+| criticalblock =
+234 Any;
+
+| outpierce =
+10%;
+
+| outboost =
+110%;
+
+| incboost =
+10% Storm;
+
+| incresist =
+40% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Mirage
+| location = Chronoverge
+| subloc1 = West Time Dunes
+| descrip =
+Bort Shadowmane is the Shadow version of {{Link|Creature|Bort Malletmane}}, after being resurrected by [[NPC:Old Cob|Grandfather Spider]]. He is the second Boss encountered in the {{Link|Location|Sands of Time}}.
+
+| speech =
+:''"You! You stole all my fame and glory... and with no showmanship whatsoever! Now, I will finally get my rematch, and prove I am the best warrior!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Mirage
+| tome description =
+Proof that poor sportsmanship is the path to the shadow side.
+
+| extract class =
+Cyclops;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Poor Showmanship!"'' - If a Wizard joins the duel after it has already started, Bort Shadowmane will interrupt cast {{Link|Spell|Steal Pips (Moon)}} to steal one Pip from the Wizard.
+*{{Icon|Absorb}} ''"Check Out My Armor!"'' - If a Wizard casts an attack Spell at Bort, he will cast an Aegis-protected {{Link|Spell|Bronze Armor}} on himself.
+*{{Icon|Shadow}}{{Icon|Manipulation}} After casting his Natural Attack, Bort Shadowmane will interrupt-cast a Shadow version of Shatter on the Wizard.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 110 Shadow Damage per Pip, despite the Spell card's 3-Pip max description.
+
+| casts =
+Dark Nova;
+Berserk;
+Mythblade;
+Mass Myth Trap;
+Blinding Light (85%);
+Natural Attack (Shadow 110-220-330);
+Yellow Troll;
+Keeper of the Flame;
+Blood Bat (255-335);
+Athena Battle Sight;
+Punklops (Myth);
+Humongofrog (310-370);
+Mystic Colossus;
+Witch's House Call (No Minion);
+Orthrus (785);
+Medusa (865);
+Celestial Calendar;
+
+| quests =
+The Sands of Time;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' Badge and has not unlocked the '''[[Basic:Empyrea Badges|Hero of Light and Shadow]]''' Badge, the following drops will be available:
+*4 Spellements will drop each time from '''any''' School for their respective rank 9, 10, King Artorius, Polaris, and Mirage Spells.
+
+| gold =
+128 - 244;
+
+| hats =
+Time Warden Kavuk of Gloom*F5*WMV;
+Time Warden Kavuk of Pyres*F7*WMV;
+Time Warden Kavuk of Reason;
+Time Warden's Ornate Kavuk*F5;
+
+| robes =
+Time Warden's Ornate Thobe*F7*WMV;
+
+| boots =
+Time Warden Galesh of Pyres*F12*WMV;
+Time Warden Shoes of Triumph*F8*WMV;
+Time Warden Snowdrift Galesh*F10*WMV;
+Time Warden's Ornate Galesh*F9*WMV;
+
+| athames =
+Khanjar of Tetrus Prison*F7*WMV;
+
+| amulets =
+Ampul of Tetrus Prison*F9*WMV;
+Tetrus Ampul of Rumination*F8*WMV;
+Tetrus Ampul of Sleet*F2;
+
+| rings =
+Ringlet of Tetrus Prison*F4*WMV;
+Tetrus Ringlet of Isolation*F8*WMV;
+Tetrus Ringlet of Scalding*F7*WMV;
+Tetrus Ringlet of Sleet*F8*WMV;
+
+| wands =
+Time Warden's Ornate Kilij*F8*WMV;
+
+| decks =
+Tetrus Prison Deck*F4*WMV;
+
+| items =
+Mirage Canyon Combat Theme;
+Mirage Canyon Theme 1*F3*WMV;
+Mirage Canyon Theme 2*F3*WMV;
+Mirage Caravan Theme*F2;
+Mirage Chronoverge Com Theme*F2;
+Mirage Chronoverge Theme*F4*WMV;
+Mirage City Combat Theme*F2*WMV;
+Mirage City Tense Theme*F2*WMV;
+Mirage City Theme*F4*WMV;
+Mirage City Theme 2*F3*WMV;
+Mirage Den of Thieves Theme*F4*WMV;
+Mirage Desert Canyons Theme*F4*WMV;
+Mirage Desert Combat Theme*F2*WMV;
+Mirage Jungle Combat Theme*F2*WMV;
+Mirage Jungle Theme*F2;
+Mirage Magic Carpet Theme;
+Mirage Nomad Theme;
+Mirage Serpent Theme*F4;
+Mirage Spider Speaks Theme;
+
+| cards =
+
+| reagents =
+Aether*F15*WMV;
+Agave Leaves*F5*WMV;
+Agave Nectar*F4*WMV;
+Amber*F5*WMV;
+Amber Dust*F17*WMV;
+Aquamarine*F12*WMV;
+Astral Shard*F18*WMV;
+Braided Vine*F2;
+Draconium;
+Fire Blossom*F14*WMV;
+Golden Pearl*F16*WMV;
+Iridium*F3;
+Merle's Whisker*F6*WMV;
+Mithril*F8*WMV;
+Orichalcum*F6*WMV;
+Scales*F10*WMV;
+Silver*F11*WMV;
+Stardust;
+Steel*F11*WMV;
+Sunstone*F10*WMV;
+Titanium*F12*WMV;
+Tungsten*F9*WMV;
+Turmeric;
+Turquoise*F13*WMV;
+Vine*F8*WMV;
+
+| spellements =
+Chimera *BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Lamassu*BR;
+Raging Bull*BR;
+Scorching Scimitars*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Wings of Fate*BR;
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate;
+Beast Wellington*F9*WMV;
+Beetle Cream Soda*F6*WMV;
+Bread Fruit Fruit;
+Chalupacabra*F8*WMV;
+Decimatoes;
+Eye Candy*F5*WMV;
+Fern Jelly;
+Fire Passion Fruit;
+Frosty Sugar Cubes;
+Green Tomato*F2*WMV;
+Hard Boiled Beetle Eggs*F12*WMV;
+High Road Haggis*F2*WMV;
+Hot Cross Buns*F8*WMV;
+Jolly Rancher;
+Mustachios*F6*WMV;
+Rhubarbed Wire;
+Satyr Chow*F9*WMV;
+Ships 'n' Queso*F9*WMV;
+Veggie Juice*F10*WMV;
+Wheat Cracker;
+
+| jewels =
+Brace Opal;
+Chastisement Opal;
+Cycle of Life Opal;
+Epic Opal*F3*WMV;
+Magnify Opal*F2;
+Radical Opal;
+Reliquary Opal*F2*WMV;
+Renew Opal;
+Shiny Blocking Amethyst +16*F2*WMV;
+Shiny Blocking Citrine +16*F2*WMV;
+Shiny Blocking Hematite +16;
+Shiny Blocking Jade +16;
+Shiny Blocking Peridot +16*F2*WMV;
+Shiny Blocking Ruby +16;
+Shiny Critical Amethyst +16*F2*WMV;
+Shiny Critical Hematite +16;
+Shiny Critical Jade +16*F2*WMV;
+Shiny Critical Onyx +16;
+Shiny Critical Peridot +16;
+Shiny Critical Ruby +16*F3*WMV;
+Shiny Critical Sapphire +16;
+Shiny Damage Amethyst +26;
+Shiny Damage Citrine +26;
+Shiny Damage Hematite +52;
+Shiny Damage Jade +26;
+Shiny Damage Onyx +26;
+Shiny Damage Peridot +26*F2;
+Shiny Damage Ruby +26*F2*WMV;
+Shiny Defense Amethyst +52;
+Shiny Defense Citrine +52*F2*WMV;
+Shiny Defense Hematite +52;
+Shiny Defense Jade +51;
+Shiny Defense Jade +52;
+Shiny Defense Onyx +50*F2;
+Shiny Defense Onyx +52;
+Shiny Defense Peridot +52*F2*WMV;
+Shiny Defense Ruby +51*F2*WMV;
+Shiny Defense Ruby +52;
+Shiny Defense Sapphire +51;
+Shiny Defense Sapphire +52*F2;
+Shiny Health Opal +111*F2*WMV;
+Shiny Health Opal +112*F4*WMV;
+Shiny Health Opal +113;
+Shiny Health Opal +114;
+Shiny Mana Opal +45*F9*WMV;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47*F4*WMV;
+Shiny PIP Hematite +2*F3*WMV;
+
+| pins =
+
+| pets =
+MaCaw*CR*F15*WMV;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears*F3*WMV;
+Baby Carrots*F2*WMV;
+Bamboo Shoots;
+Blue Huckleberries*F3*WMV;
+Boiled Peanuts*F2*WMV;
+Boom Shroom*F2*WMV;
+Boon Tree*CR;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Clockwork Flower;
+Cornbread Fruit Bush*F2*WMV;
+Couch Potatoes*F2*CR;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig*F2*WMV;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Evil Snow Peas*F2*WMV;
+Face Palm*F2;
+Fickle Pickle*F2*WMV;
+Fiery Boom Shroom;
+Fish on a Vine*F2;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Golden Couch Potatoes*F2*WMV;
+Goose Tree;
+Grapes of Wrath*CR*F2;
+Green Snow Apples;
+Helephant Ears;
+Honey Bee Plant*F4*WMV;
+Honey Sickle*F2;
+Ivy League*CR*F2*WMV;
+Key Limes*CR;
+King Parsley*CR*;
+Laugh-O-Dil*F3*WMV;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily*F4*WMV;
+Melting Cheese Tree*F2*WMV;
+Missile Toe;
+Moon Flower;
+Ninja Fig*CR*F2*WMV;
+Orange Bell Pepper*CR;
+Orange Dandelion*F3*WMV;
+Pink Huckleberries*F2;
+Prickly Bear Cactus*F4*WMV;
+Purple Grapes of Wrath*F3*WMV;
+Purple Snow Apples;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Red Couch Potatoes*F2*WMV;
+Red Grapes of Wrath*F3*WMV;
+Red Huckleberries;
+Rye Bread Fruit Bush*F2*WMV;
+Saw Palmetto;
+Silver Trumpet Vine*CR;
+Snap Dragon;
+Snow Apples;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Sunion*CR;
+Sword Fern*CR*F2;
+Tiger Lily (Seed);
+Trumpet Vine;
+Venus Fly Trap;
+White Desparagus*F2;
+White Tiger Lily*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

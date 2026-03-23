@@ -1,0 +1,251 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 10,780
+| crecla = Beastman
+| school = Balance
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+81 Any;
+
+| criticalblock =
+97 Any;
+
+| outpierce =
+7%;
+
+| outboost =
+60%
+
+| incboost =
+5% Myth, Life, Death;
+
+| incresist =
+50% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Beastman Guard (Ice);
+Beastman Guard (Storm, Rank 15, H2630);
+
+| world = Empyrea
+| location = Aeriel Jungle
+| subloc1 = Caleban's Fort
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"No fair! I'm too smart for that!"'' - If a Wizard joins the battle after the first Round, Caleban will cast {{Link|Spell|Savage Paw}} on the late Wizard.
+*{{Icon|Minion}} ''"Beastmen! Caleban commands you to FIGHT!'"'' - At the end of each Round, if Caleban does not have an equal number of Minions to the number of Wizards, he will cast a Moon Spell that summons one of the following Minions:
+**Beastman Guard (Ice)
+**Beastman Guard (Storm, Rank 15, H2630)
+*{{Icon|Feint}} ''"You can't trick me, puny Wizard! Ha!'"'' - If a Wizard casts {{Link|Spell|Feint}}, he will cast an Ice version of {{Link|Spell|Swap Ward}} to swap the Traps with the caster.
+**This can be avoided with {{Link|Spell|Indemnity}} or {{Link|Spell|Melt}}.
+**{{Link|ItemCard|Mass Feint}} '''will not''' trigger this cheat.
+*{{Icon|Afterlife}} ''"Caleban will crush you now, Wizard!"'' - If any Wizard or Beastman is defeated, Caleban will cast {{Link|Spell|Frenzy}}.
+
+'''Minion Cycle''' (resets every 2 {{Icon|Round}}) - If Caleban has a Minion, he will cycle between stealing their Pips and Health:
+*At the end of the first Round, Caleban will steal 2 Pips from each Minion.
+*''"'Beastmen! Protect me!"'' - At the end of the second Round, Caleban will steal '''250''' Health from each Minion.
+**If Caleban already has full Health, he will follow-up with {{Link|Spell|Chromatic Blast}}.
+
+| spellnotes =
+*Casts a Mass version of Hex.
+*Casts Samoorai (460-540).
+
+| casts =
+Brace;
+Flawless;
+Elemental Shield (-55%);
+Spirit Shield (-55%);
+Restoring Hands;
+Bladestorm (+25%);
+Elemental Blade;
+Spirit Blade;
+Hex;
+Elemental Trap;
+Spirit Trap;
+Loremaster;
+Natural Attack (Balance 110-220-330);
+Savage Paw;
+Sandstorm (295-335);
+Spectral Blast (505-420-635);
+Obsidian Colossus (460);
+Jade Oni (Attack);
+Mighty Judgement;
+Hydra (265);
+Power Nova (530);
+Ra (635-715);
+Chimera (375);
+Sabertooth;
+
+| quests =
+Beasty Mountain High;
+CaleBAM!;
+
+| gold =
+76 - 223;
+
+| hats =
+Cabalist Cleansing Hood;
+Cabalist Hood of Finality;
+Cabalist Hood of the First*F2;
+
+| robes =
+
+| boots =
+Cabal Stompers of Disruption;
+Cabalist Chaotic Stompers;
+Cabalist Cleansing Stompers;
+Cabalist Stompers of Finality;
+Nostalgic Cabal Stompers;
+
+| athames =
+Cabal Dagger of Disruption;
+Cabalist Dagger of Vengeance;
+
+| amulets =
+Cabalist Cleansing Amulet;
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Dwarven Book Case;
+Dwarven Dinner Table*F4*WMV;
+Dwarven Side Table;
+Empyrea Aeriel Theme;
+Empyrea Brain Theme 2;
+Empyrea Dance Hall Theme*F2*WMV;
+Empyrea Lava Lock Theme;
+Empyrea Leisure Dome Theme*F3;
+Empyrea Sepidious Combat Theme;
+Empyrea Sepidious Theme*F2;
+Empyrea Sewer Theme*F3;
+Empyrea Zanadu Theme*F2;
+Fire Dwarf Bed*F2;
+Fire Dwarf Chair;
+Ice Dwarf Bed*F2;
+Ice Dwarf Chair;
+
+| cards =
+Berserk*F2*WMV;
+Brilliant Light;
+Frostbite;
+Galvanic Field;
+Link*F2;
+Mutate Bats (Ice);
+Mutate Beetle (Storm);
+Mutate Bird (Storm);
+Mutate Cat (Storm);
+Mutate Kraken (Sun);
+Mutate Snake (Fire);
+Mutate Snake (Ice);
+Mutate Wyvern (Fire);
+Sirens;
+Storm Shield;
+
+| reagents =
+Ancient Scroll*F2;
+Antique Coins*F2*WMV;
+Blood Moss;
+Brass;
+Bronze Gear;
+Cobalt;
+Ectoplasm*F2*WMV;
+Flying Squid Ink*F13*WMV;
+Nickel*F2;
+Scales*F2;
+Spider Silk*F2;
+Spring*F3*WMV;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Shiny Accurate Sapphire +12%;
+Shiny Blocking Peridot +15;
+Shiny Critical Onyx +15;
+Shiny Critical Opal +8;
+Shiny Critical Sapphire +16;
+Shiny Defense Citrine +50;
+Shiny Healing Opal +6%;
+Shiny Health Opal +111;
+Shiny Health Opal +113;
+Shiny PIP Hematite +2;
+Sparkling Blocking Ruby +17;
+Sparkling Critical Hematite +17;
+Sparkling Critical Ruby +17;
+Sparkling Damage Amethyst +27;
+Sparkling Defense Jade +54;
+Sparkling Defense Onyx +53;
+Sparkling Defense Opal +27;
+Sparkling Defense Ruby +54;
+Sparkling Defense Sapphire +53;
+Sparkling Defense Sapphire +54;
+Sparkling Health Opal +119;
+Sparkling Mana Opal +49*F2;
+
+| pins =
+
+| pets =
+Blue Globulin*F2;
+
+| seeds =
+Angel Oak;
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper;
+Blue Huckleberries*F2;
+Boiled Peanuts*F2;
+Boom Shroom;
+Bread Fruit Bush;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Face Palm;
+Fish on a Vine;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Golden Couch Potatoes;
+Grapes of Wrath;
+Helephant Ears;
+Ivy League*CR;
+Key Limes*CR*F2*WMV;
+Moon Flower;
+Orange Bell Pepper*CR;
+King Parsley*CR;
+Pink Huckleberries;
+Prickly Bear Cactus;
+Purple Grapes of Wrath;
+Red Couch Potatoes*F2;
+Red Huckleberries;
+Sugar Khrystal*CR
+Tiger Lily (Seed);
+Ultra Helephant Ears;
+Ultra Snap Dragon;
+Ultra Snow Apples;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

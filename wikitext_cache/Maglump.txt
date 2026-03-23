@@ -1,0 +1,229 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,405
+| crecla = Golem
+| school = Fire
+| startpips = 4
+| powerpips = Yes
+| critical =
+25 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice;
+
+| incresist =
+35% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Aqua-Bot;
+
+| world = Celestia
+| location = Science Center
+| subloc1 = Crystal Reactor
+| lootchest = Maglump's Chest
+| descrip =
+An extremely advanced and incredibly intelligent fish-bot, Maglump has hijacked the Crystal Reactor in the Science Center and wishes to use its fantastic power for his own nefarious purposes.
+*Two additional {{Link|Creature|Hydro-Mech}} Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Who you be?! You not welcome down here! My fish-bots weak, but Maglump no weak! Maglump strong!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+Smarter than the average fish robot, this guy's battle prowess is matched only by his scathing wit.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip.
+
+| casts =
+Fireblade;
+Fire Trap;
+Sunbird;
+Meteor Strike;
+Scald;
+Phoenix;
+Magma Man;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+
+| quests =
+Crystal Fight;
+
+| dropnotes = 
+When a Wizard has unlocked the '''[[Basic:Dragonspyre Badges|Savior of the Spiral]]''' {{Icon|Savior of the Spiral}} Badge and has not unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge, the following drops will be available:
+*3 Spellements will drop each time from any School for their respective rank 3-7 Spells.
+
+| gold =
+65 - 80;
+
+| hats =
+Drenched Headdress;
+Hood of Dissonance;
+Icestar Cover;
+Maglump's Blistering Hood*F2*WMV;
+Mercurial Mantle;
+Wanderlust Shroud*F2*WMV;
+
+| robes =
+Combustible Costume*F3*WMV;
+Insightful Cloak;
+Longcoat of Long Life;
+Maglump's Cinder Smock*F4*WMV;
+Secret Surcoat;
+Spirit Armor;
+Tunic of Tolerance;
+
+| boots =
+Boots of Celestian Totality*F2;
+Celestian Abyss Boots;
+Collective Footwraps;
+Scorched Footguards;
+Shoes of the Storm Star*F3*WMV;
+Storied Celestian Sabatons;
+Tolerant Boots;
+Wrath Walkers*F5*WMV;
+
+| athames =
+Living Thorn*F4*WMV;
+Longevity Twin Blades*F2;
+Sliver of Insight*F6*WMV;
+Wave Cutter;
+
+| amulets =
+
+| rings =
+Band of Bliss*F5*WMV;
+Band of Principles*F4*WMV;
+Circle of Squalls;
+Researcher's Ring*F3*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Crab Lamp*F3*WMV;
+
+| cards =
+Black Mantle;
+Fire Trap;
+Fortify;
+Keen Eyes;
+Monstrous*F8*WMV;
+Mutate Cat (Ice);
+Sandstorm;
+Vengeance*F7*WMV;
+
+| reagents =
+Cobalt*F2;
+Copper;
+Fish Fin*F11*WMV;
+Lead;
+Nickel;
+Sandstone*F12*WMV;
+Scales*F4*WMV;
+Sunstone*F3*WMV;
+
+| spellements =
+Banshee*BR;
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops*BR;
+Cyclops Minion*BR;
+Earth Walker*BR;
+Evil Snowman*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR*F2;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*BR*F2;
+Ice Wyvern*BR*F2*WMV;
+Immolate*BR*F2;
+Kraken*BR;
+Locust Swarm*BR;
+Minotaur*BR;
+Nature's Wrath*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Scarecrow*BR;
+Seraph*BR;
+Skeletal Pirate*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Storm Shark*BR;
+Stormzilla*BR;
+Sunbird*BR;
+Triton*BR;
+Vampire*BR;
+Wraith*BR*F2*WMV;
+
+| snacks =
+Cauliflowers*F3*WMV;
+Delicious Cookie*F3*WMV;
+Glowing Star Fruit*F2*WMV;
+Glowing Taffy*F3*WMV;
+Spicy Drumstick*F5*WMV;
+Strawberry Cupcake*F2*WMV;
+Submarine Sandwich*F2*WMV;
+
+| jewels =
+Boss Toad Peridot;
+Dull Critical Amethyst +3;
+Dull Critical Opal +2;
+Fire-Giver Ruby;
+Plain Defense Amethyst +29;
+Plain Defense Citrine +29;
+Plain Defense Opal +15;
+Plain Defense Ruby +29;
+Quench Ruby;
+Storm-Away Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2;
+Fish on a Vine;
+Maelstrom Snap Dragon*F4*WMV;
+Pink Dandelion*CR*F3*WMV;
+Silver Trumpet Vine*CR*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

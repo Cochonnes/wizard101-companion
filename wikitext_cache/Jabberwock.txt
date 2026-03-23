@@ -1,0 +1,282 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 16,970
+| crecla = Wyrm
+| school = Fire
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+55% Ice, Storm;
+
+| incresist =
+120% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Avalon
+| location = High Road
+| subloc1 = Jabberwock's Lair
+| descrip =
+This slithy wyrm whiffles and burbles in its lair among the Tumtum trees.
+*A {{Link|Creature|Storm Elemental}} Minion will appear if more than two Wizards are present.
+
+| speech =
+:''"Beware the Jabberwock! The jaws that bite! The claws that catch!"''
+
+| cheatnotes =
+*{{Icon|Round}} At the end of the 3rd round, and every third round afterwards (6, 9, 12, etc), he will cheat-cast an enhanced version of Meteor Strike that deals 1,500 Fire damage. A +200% universal Trap will appear on him afterward. (Any Wizards in {{Link|Spell|Shadow Shrike}} form at this time will receive -10 backlash.)
+*{{Icon|Manipulation}} At the start of the 6th round, and every third round afterward (9, 12, 15, etc), he will cheat-cast a version of {{Link|Spell|Cleanse Ward (-All)}} to remove all Traps and Prisms from himself.
+
+| monstrology =
+{{Monstrology Info
+| tome world = Avalon
+| tome description =
+Unpure are the Hearts of the Jabberwock though they can be cleansed in the face of Gloom, Melancholy, Angst, Bitterness and Snark.
+
+| extract class =
+Wyrm;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Fireblade;
+Fire Trap;
+Natural Attack (Fire 140-280-430);
+Fire Shark;
+Meteor Strike;
+Scald;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Efreet;
+
+| quests =
+'Twas Brillig;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge and has not unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge, the following drops will be available:
+*4 Spellements will drop each time for their respective rank 5-9 Spells.
+
+| gold =
+54 - 133;
+
+| hats =
+Champion of Order's Icy Helm*F4*WMV;
+Chaos Knight's Blazing Helm*F4*WMV;
+Guardian's Helm*CR*F2*WMV;
+
+| robes =
+Fire-Spitter Robes*F2*WMV;
+Honor Bound Surcoat;
+Jabberwock's Plate;
+Robes of the Silent Hunter*F2*WMV;
+Windbreaker of Nodor;
+Winter Wyrm's Cloak*F3*WMV;
+
+| boots =
+Courageous Knight's Boots*F4;
+Noble Knight's Boots*F6*WMV;
+Ponycorn Hoofers;
+Slick Road Grippers;
+Splashing Stream Waders;
+
+| athames =
+Badger's Claw*F2*WMV;
+Weirwood's Thorn*F2*WMV;
+
+| amulets =
+Druid's Amulet of Courage;
+Pendant of Armiger's Tenacity*F5*WMV;
+
+| rings =
+Band of the Lost Abbey;
+Bannerman's Honorbound Ring;
+Toasty Band of the Fire Elves*F5*WMV;
+
+| wands =
+Bludgeon of Confidence*F3*WMV;
+Highland Shillelagh*F3*WMV;
+
+| decks =
+Tanglewood Cards*F10*WMV;
+
+| items =
+Avalon Abbey Road Theme*F4*WMV;
+Avalon Main Theme*F3*WMV;
+Avalon Wooden Table;
+Jousting Rack;
+Small Arms Weapons Rack;
+Stone Skeleton Key*CR*F3*WMV;
+
+| cards =
+Catalan*F2*WMV;
+Choke*F4*WMV;
+Efreet*F2;
+Fire Dragon;
+Forest Lord*F3*WMV;
+Frost Giant*F3;
+Fuel*F7*WMV;
+Gargantuan*F2;
+Immolate*F5*WMV;
+Leviathan;
+Orthrus;
+Power Link*F4*WMV;
+Power Nova*F2*WMV;
+Rebirth;
+Scald*F4*WMV;
+Scarecrow;
+Snow Angel;
+Steal Charm*F9*WMV;
+Storm Lord*F2;
+Unstoppable;
+
+| reagents =
+Black Lotus*F5*WMV;
+Bronze*F2;
+Cat Tail*F6*WMV;
+Cobalt*F2*WMV;
+Deep Mushroom*F2*WMV;
+Frost Flower*F5*WMV;
+Lava Lily*F3*WMV;
+Mist Wood*F4*WMV;
+Nickel;
+Ore*F3*WMV;
+Parchment*F5*WMV;
+Pearl*F2*WMV;
+Red Mandrake*F4*WMV;
+Shell*F4*WMV;
+Stone Block*F5*WMV;
+
+| spellements =
+Basilisk*BR;
+Blight Hound*BR*F2;
+Centaur*BR*F3;
+Chimera*BR;
+Colossus*BR;
+Dr. Von's Monster*BR;
+Earth Walker*BR*F2;
+Efreet*BR*F3;
+Fire Dragon*BR;
+Forest Lord*BR*F2;
+Frost Giant*BR*F2;
+Gnomes!*BR;
+Helephant*BR;
+Hydra*BR;
+Leviathan*BR*F2;
+Medusa*BR;
+Minotaur*BR*F2;
+Orthrus*BR*F2;
+Phoenix*BR*F3;
+Power Nova*BR;
+Ra*BR*F2;
+Rain of Fire*BR;
+Rebirth*BR*F2;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Skeletal Pirate*BR*F2;
+Snow Angel*BR*F3;
+Spectral Blast*BR;
+Stone Colossus*BR*F2;
+Storm Lord*BR;
+Stormzilla*BR*F2;
+Triton*BR*F4;
+Woolly Mammoth*BR*F2;
+Wraith*BR;
+
+| snacks =
+Bogwich*F3*WMV;
+Cauliflowers*F2*WMV;
+Cheese Broccoli;
+Chocolate Strawberry;
+Delicious Cookie;
+Deviled Eggs*F2;
+Goat Cheese;
+Golden Grapes*F2*WMV;
+Green Grapes*F2;
+Gummy Humongofrog*F5*WMV;
+Gummy Wyrms;
+Jelly Baby;
+King Banana*F4*WMV;
+Kola Nuts*F2*WMV;
+Pigeon Pie;
+Roasted Chickpeas;
+Spicy Drumstick;
+Submarine Sandwich*F2;
+Treant Bark;
+
+| jewels =
+Balance-Off Citrine;
+Bananas! Opal;
+Clear Accurate Amethyst +9%;
+Clear Accurate Ruby +9%;
+Clear Blocking Amethyst +10;
+Clear Blocking Citrine +10;
+Clear Blocking Ruby +10;
+Clear Critical Amethyst +9;
+Clear Defense Jade +37;
+Clear Defense Opal +19;
+Clear Piercing Peridot +5%;
+Fire Trap Ruby (Triangle);
+Gold Miner Opal;
+Immunity Opal;
+Monstrous Opal*F3*WMV;
+Opaque Defense Jade +36;
+Opaque Health Opal +71;
+Plain Blocking Opal +3;
+Shift Peridot;
+Sniper Opal*F2;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Blue Huckleberries*F3*WMV;
+Deadly Fly Trap;
+Evil Magma Peas*CR;
+Key Limes*CR;
+Pink Huckleberries;
+Red Huckleberries;
+Silver Trumpet Vine*CR;
+Trumpet Vine*F2*WMV;
+White Desparagus;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

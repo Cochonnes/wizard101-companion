@@ -1,0 +1,174 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 510
+| crecla = Kraken
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Myth;
+
+| incresist =
+50% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = Triton Avenue
+| subloc1 = Four Falls Mill
+| descrip =
+The Kraken is a very popular boss for high-leveled Initiate and Apprentice free-to-play players to battle. The place where the Kraken is fought is peculiar compared to the rest of the game because it is fought like a street monster. Most other bosses in the game are instead found within single or multi-player instances. Because of this, the battle circle of the Kraken is often filled very quickly and it can often be difficult to get a spot if you need to complete the quest; switching realms is recommended to try and complete the quest.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Myth Shield;
+Rain Beetle;
+Thunder Snake;
+Storm Serpent (155-195);
+Storm Elf (30+210);
+Lightning Bats;
+Storm Shark;
+Natural Attack (Storm 125x, 75%);
+Imp;
+
+| quests =
+Decease the Kraken!;
+
+| gold =
+7 - 12;
+
+| hats =
+Canvas Cover;
+Cowl of Comparison;
+Cowl of Wisdom*F7*WMV;
+Helm of Audacity*F5*WMV;
+Hood of Tension*F7*WMV;
+Imp Lord's Helm;
+Novitiate Hat*F2;
+Sapphyra's Studded Helm*F3;
+
+| robes =
+Ashen Cloak*F6*WMV;
+Cloak of the Watchful*F4*WMV;
+Novitiate Robe*F2*WMV;
+Splendiferous Robe*F2;
+
+| boots =
+Kraken's Charged Boots*F2;
+Novitiate Boots;
+Senior Novice's Shoes*F3*WMV;
+Slippers of Repose*F2*WMV;
+
+| athames =
+Citrine Studded Athame*F5*WMV;
+
+| amulets =
+Choker of Ferocity;
+Swiftarrow's Necklace*F3*WMV;
+
+| rings =
+Lord's Signet*F6*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Ornate Stone Tower;
+Padded Chair*F5*WMV;
+Storm Stone Tower*F6;
+Wooden Skeleton Key*CR*F4;
+
+| cards =
+Death Trap;
+Fire Elf;
+Ghoul;
+Guiding Light;
+Keen Eyes;
+Kraken;
+Lightning Bats*F2;
+Locust Swarm*F2;
+Pixie;
+Snow Serpent;
+Time of Legend;
+Tough*F5*WMV;
+Troll;
+
+| reagents =
+Spider Silk*F3;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Cupig*CR*HOL;
+
+| seeds =
+
+| mounts =
+Ancient Koi*F2;
+Ankylosaurus*F2;
+Auroch;
+Bat Wings;
+Black Stallion;
+Blue Dragon;
+Blue Fairy Wings;
+Brown Warg;
+Bruin Ram*F2*WMV;
+Camel;
+Chestnut Pony;
+Crokagator;
+Dark Redwing;
+Enchanted Broom;
+Faithful Dragoness*F2;
+Grey Warg;
+Hippogriff;
+Horned Sweeper;
+Manta Ray;
+Moonlight Pony;
+Nightflame Pegasus;
+Orange Fairy Wings;
+Ostrich;
+Owl;
+Purple Glider;
+Rugged Seahorse;
+Sea Turtle*F3;
+Seraph Wings;
+Skyracer Pegasus;
+Snappy Lobster;
+Spritely Seahorse;
+Starlight Pony*F2*WMV;
+Sunshine Pony;
+Swift Gryphon;
+Swift Shark;
+Swiftshadow Wings;
+Tawny Ram;
+Triceratops;
+White Mare;
+
+| spells =
+
+}}

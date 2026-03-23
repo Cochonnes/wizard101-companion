@@ -1,0 +1,118 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 20,220
+| crecla = Scholomari
+| school = Ice
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Scholomari Instructor;
+
+| world = Darkmoor
+| location = Black Lagoon
+| subloc1 = Scholomari Shrine Window
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Charm}} ''"No child dares disobey the Scholomari.''" - Whenever The Hierophant casts a helpful Charm, her Minions will apply a +35% Damage Charm of the same School on The Hierophant.
+*{{Icon|Damage}} ''"My turn is when I say it is.''" - The Hierophant will cast {{Link|Spell|Chain Lightning}} on a random Wizard.
+*{{Icon|Spell}} ''"Wizard, take this!''" - Velma von Venkman will give a copy of either Velma's Trap, Velma's Weakness, or Velma's Blade to a random Wizard.
+**{{GivesSpell|spells = 3|size = x150px|Velma's Blade|Velma's Trap|Velma's Weakness}}
+*{{Icon|Spell}} ''"I don't think so!''" - Velma von Venkman will give a copy of Velma's Shield to a random Wizard.
+**{{GivesSpell|Velma's Shield|size = x150px}}
+*{{Icon|Spell}} ''"Now we're taking you to school!''" - Velma von Venkman will give a copy of Chain Lightning to a random Wizard.
+**{{GivesSpell|Chain Lightning|size = x150px}}
+
+
+| spellnotes =
+*Casts a version of Iceblade (+40%) that applies two Blades instead of one.
+
+| casts =
+Empowerment;
+Legion Shield;
+Iceblade (+40%);
+Dark Tribute;
+Mass Ice Trap;
+Ice Feint;
+Empower;
+Frost Minotaur;
+Ice Helephant;
+Furious Hail;
+Abominable Weaver (Shadow);
+
+| quests =
+Velma's Vengeance;
+
+| gold =
+10 - 34;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Reshuffle;
+
+| reagents =
+Astral Shard;
+Silver;
+Tin;
+
+| spellements =
+
+| snacks =
+Butter Worms;
+Buttered Popcorn;
+Granny Snow Apple;
+Wormy Apple;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

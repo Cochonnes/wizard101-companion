@@ -1,0 +1,205 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,440
+| crecla = Pig
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Kakeda Shadow;
+
+| world = MooShu
+| location = Village of Sorrow
+| subloc1 = Town Dojo
+| descrip =
+
+| speech =
+:''"You poor, pitiful Wizard! I am glad you showed up here. I will do you a favor. I shall put you out of your misery..."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+Usunoki is not as compassionate as he tries to act. Beware of his mean retorts.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Weakness;
+Black Mantle;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Sunbird;
+Meteor Strike;
+Raging Kraken (Fire);
+Colossus (Fire);
+Heck Hound;
+Leprechaun;
+Cyclops;
+Vampire;
+Natural Attack (Death 85x);
+
+| quests =
+Spiritual Awakening;
+Faust and About;
+
+| gold =
+63 - 86;
+
+| hats =
+Gallant Shroud;
+Hat of Enthusiasm;
+Hat of the Lotus;
+Headwraps of Resonance*F2*WMV;
+Hood of the Resolute*F4;
+Light-As-Air Hat;
+Mask of Impression*F2;
+Shroud of Afterthoughts*F2;
+Tormented Mask*F4;
+Usunoki's Shroud of Frailty*F2;
+
+| robes =
+Blended Wool Tunic*F2;
+Cloak of Humor;
+Cloak of Rhyming*F2;
+Garments of Chants;
+Robe of Conceit;
+Robes of Struggling;
+Usunoki's Vest*F2;
+
+| boots =
+Blended Wool Footwraps;
+Boots of Cooperation;
+Boots of Melodies*F2;
+Entranced Slippers*F3;
+Footwraps of Sandcastles;
+Friendly Shoes*F2;
+Meticulous Footwraps*F2*WMV;
+Problematic Boots*F7;
+Sandals of Soul-Searching*F5;
+Sandals of Sympathy;
+Shoes of Song;
+Shoes of Struggling;
+Shoes of the Observant*F4;
+Slippers of the Eager*F4*WMV;
+Sprightly Slippers;
+Tormented Mask;
+Usunoki's Strong-Willed Shoes*F4;
+
+| athames =
+Athame of Attention*F3;
+Athame of the Lotus;
+Dirk of Sandcastles*F4*WMV;
+Usunoki's Logical Athame;
+
+| amulets =
+
+| rings =
+Discerning Ring*F3;
+Ring of the Naturewalker;
+Usunoki's Band*F4*WMV;
+
+| wands =
+
+| decks =
+Usunoki's Deck*F3*WMV;
+
+| items =
+Incense Burner*F4;
+Lion Cauldron*F5*WMV;
+Mantis Tablet;
+Stone Cairn;
+Stone Marker;
+
+| cards =
+Accurate;
+Balefrost*F2;
+Cloak;
+Doom and Gloom*F2;
+Dragonflies;
+Heck Hound*F2;
+Ice Wyvern;
+Minotaur;
+Ninja Pigs*F5;
+Sanctuary;
+
+| reagents =
+Bone*F13;
+Copper;
+Lead;
+Nickel*F3;
+Pyrite;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Crunch Apple*F2;
+Golden Peanut;
+Golden Squash*F2;
+Large Fish;
+Square Root*F2;
+
+| jewels =
+Blemished Defense Onyx +21*F2;
+Blemished Defense Opal +12;
+Blemished Defense Peridot +21;
+Blemished Defense Ruby +21*F3*WMV;
+Blemished Defense Sapphire +21;
+Blemished Mana Opal +17;
+Blemished Mana Opal +18;
+Flawed Accurate Jade +4%;
+Flawed Damage Opal +5;
+Flawed Mending Opal +2%;
+Clear Opal;
+Steadfast Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F3*WMV;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

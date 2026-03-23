@@ -1,0 +1,162 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 750
+| crecla = Krokotopian
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Fire;
+
+| incresist =
+50% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sokkwi High Guard;
+
+| world = Krokotopia
+| location = Emperor's Retreat
+| descrip =
+
+| speech =
+:''"You fail to see just how outmatched you are, Wizard!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Ice Bats (245-285);
+Evil Snowman;
+Ghoul;
+Leprechaun;
+Sandstorm;
+
+| quests =
+Overpower the Overseer;
+
+| gold =
+12 - 57;
+
+| hats =
+Cryptkeeper's Circlet;
+Diviner's Hat of Squalls;
+Helm of the Citadel*F2;
+Paniwi's Frigid Hood*F3*WMV;
+Rough-Hewn Hood*F2;
+Stout Hood*F2*WMV;
+Theurge's Hat;
+Threadbare Hood;
+
+| robes =
+Frigid Vestment*F2*WMV;
+Sphinx's Vestment*F2;
+Sturdy Robe*F2*WMV;
+Theurge's Brown Cloak;
+Vest of the Desert;
+Vest of the Oasis*F2*WMV;
+Vestment of Darkness*F2;
+Vestment of the Arctic*F2*WMV;
+
+| boots =
+Boots of the Citadel*F4;
+Boots of the Whirlwind;
+Flowering Shoes;
+Footwraps of the Arctic;
+Krokotopian Death Striders;
+Krokotopian Ice Striders;
+Krokotopian Striders*F2;
+Overseer's Shoes;
+Sandals of Energy;
+Sandals of Refuge*F2*WMV;
+Shoes of Mortality*F2*WMV;
+Soothsayer's Sandals;
+
+| athames =
+Dirk of Harmony*F2*WMV;
+Parched Kris*F3;
+Whirlwind Dagger*F2*WMV;
+
+| amulets =
+
+| rings =
+Flowering Band*F2*WMV;
+Ring of the Badlands*F2;
+Sparkling Band*F3*WMV;
+
+| wands =
+Overseer's Adaptive Wand*F2*WMV;
+
+| decks =
+Paniwi's Sapphire Deck*F2;
+
+| items =
+Krok Bird Plaque;
+Raised Storm Sarcophagus*F2*WMV;
+Stack of Scrolls;
+Tall Palm Tree*CR;
+
+| cards =
+Banshee;
+Krokotillian*F2*WMV;
+Sprite;
+Storm Trap;
+Weakness*F2*WMV;
+
+| reagents =
+Bone;
+Copper*F4;
+Iron;
+Leather Straps*F2*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Cracker*F2;
+Green Grapes*F2*WMV;
+Nettle Root;
+Tiny Fish*F3;
+
+| jewels =
+Chipped Defense Citrine +13;
+Chipped Defense Ruby +13;
+Chipped Defense Sapphire +13;
+Chipped Health Opal +17;
+Chipped Health Opal +18;
+Cracked Damage Citrine +5*F2;
+Cracked Damage Onyx +6;
+Cracked Defense Peridot +11;
+Myth Trap Peridot (Triangle);
+Volcanic Shield Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

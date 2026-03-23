@@ -1,0 +1,114 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 6,615
+| crecla = Golem
+| school = Star
+| masteries =
+Fire;
+Storm;
+Balance;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| summons =
+Clockworker (Portal of Peril, Tier 2);
+
+| world = Portal of Peril
+| location = The Great Clock (Portal of Peril)
+| subloc1 = 
+| descrip =
+Lucia is the Cuckoo of Valencia's Great Clock, crafted by Master Gazpaccio to keep track of the time by singing at the arrival of every hour.  Like all of his creations, Gazpaccio magically imbued Lucia with emotions, granting her a sense of pride which serves as her drive to perform precisely on the hour.  After years of impeccable timekeeping, Lucia's pride has warped into vanity, and she now sings every few minutes, throwing the Great Clock and Valencian timekeeping into disarray.  After Wizards assist {{Link|NPC|Bernardo Dondi}}, Gazpaccio's Apprentice, with tuning the Great Clock's Core Mechanism, they ascend the to the Cuckoo's Nest to humble the Prima Cuckoo.
+
+| speech =
+:''"Go away!  I've no time for autographs.  I've a show to...  Oh, it's you.  Last time I entrust dressing room security to someone named [[Creature:Lugs (Portal of Peril, Tier 1)|Lugs]]. Oh well, let's get your thrashing over with quickly then.  I've an important performance to give, you know.  Clockworkers, on the ready!  Your star needs the supporting cast for a little preshow exercise!"''
+ 
+| cheatnotes =
+*''"Tardiness will not be tolerated!"'' - If a Wizard joins the Duel after the first Round, then Lucia will interrupt-cast a Star version of [[Spell:Mana Burn (Star)|Mana Burn]] that Pierces through all Resist and deals '''500''' Damage.
+*''"Let's even the odds!"'' - At the beginning of the first Round, Lucia will interrupt-cast a Star Spell that summons a Clockworker.  If more than two Wizards are present, then she will continue to summon Clockworkers until her team is full.
+*''"This is my show! MINE!"'' - At the start of every fourth Round, Lucia will interrupt-cast a Star version of {{Link|Spell|Steal Charm}} that steals all helpful Charms from all Wizards, and a Star version of [[Spell:Steal Ward (Star, -All)|Steal Ward]] that steals all helpful Wards from all Wizards.
+*''"I've no time for such frivolity!"'' - If a Wizard casts {{Link|Spell|Feint}} on Lucia, then she will interrupt-cast a Star version of [[Spell:Cleanse Ward (Star, -All)|Cleanse Ward]] that removes all harmful Wards from herself.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Ice Damage per Pip
+*Deals an unknown quantity of Storm Damage per Pip
+
+| casts =
+Sunbird;
+Phoenix;
+Storm Lord;
+Gaze of Fate;
+
+| quests =
+The Great Clock!;
+
+| gold =
+30;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Coldiron;
+Potboiler;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Lucia (The Great Clock)
+
+}}

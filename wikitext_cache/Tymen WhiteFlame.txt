@@ -1,0 +1,252 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 18,400
+| crecla = Moth
+| school = Ice
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Leaf Shield;
+Leaf Shield;
+
+| world = Khrysalis
+| location = Bastion
+| subloc1 = WhiteFlame's Study
+| descrip =
+An additional Leaf Shield Minion appears if more than two Wizards are present.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Manipulation}} At the beginning of every third Round, Tymen will interrupt-cast {{Link|Spell|Mana Burn}} on a random Wizard.
+**{{Link|Spell|Unbalance}} can be used to prevent this cheat.
+**If a Wizard has already queued a Spell to be cast before being targeted by the Mana Burn, then the Spell will finish, regardless of how many Pips are available at the time it is cast.
+*{{Icon|Stun}} If a Wizard casts a Healing Spell, he will Stun the Wizard for two Rounds.
+**Pet Heals and Item Cards received from Pets will not trigger this cheat.
+**{{Link|Spell|Guardian Spirit}} will trigger this cheat.
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Volcanic Shield;
+Legion Shield (-35%);
+Iceblade;
+Ice Trap;
+Stun;
+Mana Burn;
+Balefrost;
+Natural Attack (Ice 153-245-340);
+Frostbite;
+Frost Demon;
+Frost Giant;
+Lord of Winter;
+
+| quests =
+Lair of the White Worm;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*8 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+| gold =
+220 - 255;
+
+| hats =
+Mantis Cowl of Honor*F6*WMV;
+
+| robes =
+Battle-Worn Burrower Armor*F2*WMV;
+Kermes Fire Miner's Tunic*F3*WMV;
+Mantis Chitin Armor*F2*WMV;
+Mantis Plate of Frostfall*F4*WMV;
+
+| boots =
+Kermes Fire Miner's Clogs*F4*WMV;
+
+| athames =
+Venom-Tipped Stingblade*F3*WMV;
+
+| amulets =
+Death's Head Talisman*F4;
+
+| rings =
+First Scythe's Ringlet*F8*WMV;
+
+| wands =
+Molting Spear*F4*WMV;
+
+| decks =
+Box of Indomitable Spirit*F6*WMV;
+House of Harmonic Buzzing*F5*WMV;
+
+| items =
+Khrysalis Moon Cliffs Theme*F2;
+Khrysalis Tyrian Gorge Theme*F5*WMV;
+
+| cards =
+Black Widow;
+Clockwork Spider*F2*WMV;
+Disarm;
+Doom and Gloom*F2;
+Enfeeble*F2;
+Fire Beetle*F2;
+Giant Spider;
+Gibson O'Leary;
+Hooligan;
+Legendary Treant (445)*F4;
+Life Scarab;
+Locust Swarm;
+Lucius McTavish;
+Luminous Weaver*F2;
+O'Leary Charlatan (Storm)*F2*WMV;
+O'Leary Swindler;
+Patches O'Leary*F2*WMV;
+Polar Swarm*F3*WMV;
+Rat Illusionist;
+Sanctuary;
+Scarab;
+Scrounger;
+Shatter (3 Pip)*F2;
+Sprite Swarm (40+360)*F7*WMV;
+Storm Beetle;
+Wildfire Treant*F2;
+
+| reagents =
+Amber Dust*F2*WMV;
+Black Lotus;
+Black Pearl*F2*WMV;
+Blood Moss;
+Bone*F5*WMV;
+Bronze Gear*F6*WMV;
+Copper*F2*WMV;
+Deep Mushroom*F4*WMV;
+Fire Blossom*F4*WMV;
+Fossil;
+Golden Pearl;
+Iron*F2;
+Lava Lily*F10*WMV;
+Merle's Whisker*F2;
+Mist Wood*F11*WMV;
+Mithril;
+Nickel;
+Nightshade;
+Ore*F8*WMV;
+Orichalcum*F2;
+Pyrite;
+Red Mandrake*F4*WMV;
+Stone Block*F3;
+Sunstone*F2*WMV;
+Titanium;
+Tungsten;
+Turquoise*F3*WMV;
+
+| spellements =
+Avenging Fossil*BR*F5*WMV;
+Basilisk*BR;
+Celestial Calendar*BR;
+Chimera*BR;
+Dr. Von's Monster*BR*F3;
+Efreet*BR*F2;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR*F3;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR*F2;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR*F2;
+King Artorius (Storm)*BR*F2;
+Leviathan*BR*F2;
+Lord of Winter*BR*F4;
+Medusa*BR;
+Orthrus*BR*F4;
+Power Nova*BR*F2;
+Ra*BR*F2;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR*F3;
+Snow Angel*BR*F2;
+Spinysaur*BR*F2;
+Storm Lord*BR*F3;
+Storm Owl*BR*F3*WMV;
+Sun Serpent*BR;
+Woolly Mammoth*BR*F2;
+
+| snacks =
+Goat Cheese*F3;
+Golden Apple*F2;
+Golden Grapes;
+Gummy Bees*F3*WMV;
+Gummy Humongofrog*F5*WMV;
+Hive Rinds*F2*WMV;
+Honey Bombs*F2;
+Honeycombs*F2;
+Honeycrisp Apples*F2*WMV;
+HoneyDon't Melon*F3*WMV;
+King Banana*F2*WMV;
+Peanut Butterflies;
+Punk Rock Candy*F3;
+Spicy Stingers*F2*WMV;
+Sugar Khrystals*F2*WMV;
+
+| jewels =
+Blood Bat Peridot*F2;
+Calculating Opal;
+Canny Opal;
+Cracked Defense Amethyst +12;
+Cracked Defense Citrine +12;
+Cracked Defense Jade +12;
+Dark Sprite Onyx;
+Fire Cat Ruby;
+Fire-Shot Ruby;
+Polished Blocking Onyx +12;
+Polished Blocking Sapphire +12;
+Polished Critical Peridot +11;
+Scarab Citrine;
+Sprite Guardian Jade;
+Storm-Eye Amethyst;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Blue Huckleberries;
+Saw Palmetto;
+
+| mounts =
+
+| spells =
+
+}}

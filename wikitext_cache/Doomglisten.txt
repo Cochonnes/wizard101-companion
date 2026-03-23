@@ -1,0 +1,219 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 14,400
+| crecla = Elemental
+| crecla2 = Titan
+| school = Ice
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+127 Any;
+
+| outpierce =
+15%;
+
+| outboost =
+50%;
+
+| incboost =
+15% Fire;
+
+| incresist =
+30% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Frost Spawn;
+
+| world = Empyrea
+| location = Outer Athanor
+| subloc1 = Vault
+| descrip =
+
+| spellnotes =
+
+| casts =
+Dark Nova;
+Sleet Storm;
+Tower Shield;
+Iceblade;
+Iceblade *TC;
+Elemental Blade;
+Balefrost;
+Icebird (270);
+Natural Attack (Ice 158-250-345);
+Handsome Fomori;
+Blizzard;
+Frost Demon;
+
+| quests =
+Deep Freezer;
+Cold Storage (Empyrea);
+
+| gold =
+169 - 424;
+
+| hats =
+Interstellar Warrior Helm;
+
+| robes =
+Interstellar Warrior Uniform;
+
+| boots =
+Interstellar Engineer Trekkers;
+Interstellar Hero's Trekkers;
+Medic's Interstellar Trekkers;
+
+| athames =
+Interstellar Delegate's Knife;
+Interstellar Engineer's Knife;
+Interstellar Hero's Knife;
+Interstellar Warrior's Knife;
+
+| amulets =
+Interstellar Hero's Charm;
+
+| rings =
+Interstellar Warrior's Band;
+
+| wands =
+Delegate's Hexacorder;
+Hero's Hexacorder;
+Warrior's Hexacorder;
+
+| decks =
+Interstellar Engineer's Deck;
+
+| items =
+Empyrea Aeriel Theme;
+Empyrea Athanor Combat Theme*F2*WMV;
+Empyrea Finale Combat Theme;
+Empyrea Flotsam Combat Theme;
+Empyrea Inner Athanor Theme;
+Empyrea Jungle Theme*F2;
+
+| cards =
+Combustion;
+Mass Fire Prism;
+Mass Ice Prism*F3*WMV;
+Mass Life Prism;
+Mass Myth Prism;
+Mass Storm Prism;
+Mass Triage;
+
+| reagents =
+Ancient Scroll*F4*WMV;
+Antique Coins*F8*WMV;
+Black Pearl*F3*WMV;
+Blood Moss*F5*WMV;
+Brass*F3*WMV;
+Bronze Gear*F7*WMV;
+Cobalt*F3*WMV;
+Ectoplasm*F2*WMV;
+Nickel*F2*WMV;
+Scales*F6*WMV;
+Spider Silk;
+Spring*F4*WMV;
+Tin*F3*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F4*WMV;
+Bread Fruit Fruit;
+Cherry Pie;
+Discord Grape Jelly*F2*WMV;
+Eye Candy*F2*WMV;
+Fern Jelly*F2*WMV;
+Glowing Taffy*F6*WMV;
+Hot Cross Buns*F2;
+Pizza*F4*WMV;
+Rock and Roll Candy*F6*WMV;
+Satyr Chow*F4*WMV;
+Sprinkle Cupcake*F5*WMV;
+Squash;
+Veggie Juice;
+
+| jewels =
+Balance-Eye Citrine;
+Balance-It Citrine;
+Balance-Sniper Citrine;
+Button Tom Peridot;
+Critical Striker Opal;
+Death Assailant Onyx;
+Death-Boon Onyx*F2*WMV;
+Death-Dealer Onyx;
+Death-Eye Onyx;
+Fire-Dealer Ruby;
+Fire-Proof Ruby;
+Healer Opal;
+Ice Assailant Sapphire;
+Ice-Boon Sapphire;
+Ice-Dealer Sapphire;
+Ice-Giver Sapphire;
+Ice-Shot Sapphire;
+Life Striker Jade;
+Lustrous Accurate Ruby +11%;
+Lustrous Blocking Ruby +13;
+Lustrous Critical Jade +13;
+Lustrous Critical Ruby +13;
+Lustrous Critical Sapphire +13;
+Lustrous Damage Ruby +23;
+Lustrous Defense Amethyst +45;
+Lustrous Defense Citrine +45;
+Lustrous Defense Jade +45;
+Lustrous Defense Ruby +45;
+Myth-Away Peridot;
+Myth-Proof Peridot;
+Myth-Shot Peridot;
+Myth-Ward Peridot;
+Power-Taker Ruby;
+Pyrosaurus Rex Ruby;
+Storm Striker Amethyst;
+Stun Recalcitrant Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears*F7*WMV;
+Baby Carrots*F5*WMV;
+Bell Pepper*F4*WMV;
+Blue Huckleberries;
+Boom Shroom;
+Bread Fruit Bush*F4*WMV;
+Cornbread Fruit Bush*F3*WMV;
+Couch Potatoes*CR;
+Deadly Ninja Fig;
+Evil Magma Peas*CR;
+Fish on a Vine;
+Golden Couch Potatoes*F5*WMV;
+Grapes of Wrath*CR*F3*WMV;
+Green Snow Apples;
+Ivy League*CR*F2*WMV;
+Pink Huckleberries*F3*WMV;
+Pink Laugh-O-Dil;
+Red Couch Potatoes*F4*WMV;
+Red Huckleberries*F2;
+Saw Palmetto;
+Snow Apples;
+White Desparagus;
+Venus Fly Trap;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

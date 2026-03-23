@@ -1,0 +1,181 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 7,200
+| crecla = Grendel
+| school = Storm
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Grendel Sapscar;
+
+| world = Grizzleheim
+| location = Hall of Valor
+| lootchest = Jotun's Chest
+| descrip =
+Jotun is a Boss in the {{Link|Location|Nidavellir}} dungeon, Hall of Valor. Jotun's brothers, {{Link|Creature|Ullik}} and {{Link|Creature|Grettir}}, will join the duel if they have not recently been defeated in their own dungeons, {{Link|Location|Helgrind Warren}} and {{Link|Location|Winterdeep Warren}}, respectively.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Balance Damage.
+
+| casts =
+Myth Shield;
+Sprite;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Shark;
+Kraken;
+Stormzilla;
+Tempest;
+Vampire;
+Earthquake;
+Heck Hound;
+
+| quests =
+The Bigger They Are;
+
+| gold =
+85 - 238;
+
+| hats =
+Cowl of the Bolt*F5*WMV;
+Cryptid Hood;
+Figmentary Crown*F5*WMV;
+Frostwoven Hood;
+Headgear of Revival;
+Hood of Hardiness*F2*WMV;
+Iceblight Hood*F4*WMV;
+Igneous Cover*F2;
+Mantle of Decorum*F4*WMV;
+
+| robes =
+Banshee's Raiment*F5*WMV;
+Coat of the Prophet*F5*WMV;
+Harbinger's Smock;
+Inclement Wear*F2*WMV;
+Jerkin of the Firestar*F4*WMV;
+Longcoat of Decorum*F7*WMV;
+Robe of Remedy*F5*WMV;
+Smock of the Leviathan*F7*WMV;
+Thermic Longcoat;
+
+| boots =
+Firewalking Sandals*F2;
+Footgear of Acumen*F3*WMV;
+Footgear of Garm;
+Footwraps of Patience;
+Footwraps of the Efreet;
+Frigid Footwear;
+Iceclaw Boots;
+Shadow Stalkers*F3*WMV;
+Snowfather's Boots*F7*WMV;
+
+| athames =
+
+| amulets =
+
+| rings =
+Eye of the Ancients*F2*WMV;
+Seal of the Rime King*F3*WMV;
+
+| wands =
+
+| decks =
+Runewarden's Deck*F3*WMV;
+
+| items =
+Grizzleheim Theme 1*F4*WMV;
+Heavy Dining Table*F2*WMV;
+String of Sausages;
+Wooden Wagon (Grizzleheim);
+Yardbird;
+
+| cards =
+Beguile;
+Nature's Wrath;
+
+| reagents =
+Bone*F2*WMV;
+Cobalt*F5;
+Iron*F2;
+Leather Straps*F9*WMV;
+Nickel*F3;
+Pyrite*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Chili Cheese Fries;
+Chocolate Cake;
+Chocolate Donut;
+Glowing Rock Candy*F4*WMV;
+Gummy Bloodbat;
+Large Ice Cream*F3*WMV;
+Meat Soup*F2;
+Medium Fish;
+Moon Pie*F3*WMV;
+Redskin Peanut*F3*WMV;
+Spicy Chips;
+Square Watermelon*F2;
+Stinky Cheese*F3*WMV;
+Tasty Biscuit;
+
+| jewels =
+Catch Opal;
+Chipped Accurate Peridot +3%;
+Cracked Damage Opal +2;
+Darkwind Amethyst;
+Doom and Gloom Onyx;
+Dull Blocking Opal +1;
+Dull Defense Jade +25;
+Dull Defense Peridot +25;
+Dull Defense Ruby +25;
+Helephant Ruby;
+Minotaur Peridot;
+Wraith Onyx;
+
+| pins =
+
+| pets =
+Death Troll;
+Lifebat*F3*WMV;
+Red Cap*CR*F3*WMV;
+
+| seeds =
+Couch Potatoes*CR;
+Evil Snow Peas*F3*WMV;
+Orange Dandelion*F2*WMV;
+Pink Dandelion*CR*F3*WMV;
+Pink Laugh-O-Dil*F2;
+Rye Bread Fruit Bush;
+
+| mounts =
+
+| spells =
+
+}}

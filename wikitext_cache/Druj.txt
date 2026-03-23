@@ -1,0 +1,118 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 7,650
+| crecla = Qhat
+| school = Death
+| startpips = 3
+| powerpips = Yes
+| critical =
+96 Any;
+
+| criticalblock =
+87 Any;
+
+| outpierce =
+3%;
+
+| outboost =
+65%;
+
+| incboost = 
+15% Life;
+
+| incresist =
+30% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| petname = Smelly
+| petbreed = Ghulture
+| world = Mirage
+| location = Alkali Barrows
+| subloc1 = Druj's Cave
+| descrip =
+Death Wizards must defeat Druj to earn their Level 118 Death School {{Link|Pet|Ghulture}} Pet.
+
+| speech =
+:''"Who...?  Qismah's errand-runner, eh?  I'm sad she didn't bother to come herself.  But not surprised.  Qismah and her lot are a fearful bunch.  The Scholars say the dead cannot be born anew.  But they know nothing!  Say hello to my FRESHLY HATCHED Ghulture!  I call him Smelly.  Born fully dead, and subservient to me!  Soon, I'll hatch an entire venue of Ghultures who will live for nothing but to do my bidding.  I suppose I should be thanking you, Wizard.  You're just in time to help me hone Smelly's taste for blood!"''
+
+| spellnotes = 
+His pet, [[:Pet:Ghulture|Smelly]], casts {{Link|Spell|Age of Reckoning}} on the first round.<br/>
+His pet may also cast a +35% {{Link|Spell|Deathblade}} Item Card and a 100% accurate version of {{Link|Spell|Ghoul (180, 100%)}}.
+
+| casts =
+Brace;
+Deathblade;
+Deathblade (+40%);
+Curse;
+Feint (+75%);
+Age of Reckoning;
+Dark Sprite;
+Ghoul (180, 100%);
+Banshee;
+Natural Attack (Death 110-220-330, 80%);
+Vampire (375);
+Poison;
+Skeletal Pirate;
+Wraith (575);
+Dr. Von's Monster (900);
+
+| quests =
+The Death Spiral;
+
+| gold =
+2,049 - 4,777;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Extra Mana Opal*F2;
+Fortify Talent Opal;
+Infector Onyx;
+Medic Opal*F3*WMV;
+Sap Health Talent Citrine*F3*WMV;
+Sprite Time Jade;
+Tower Shield Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

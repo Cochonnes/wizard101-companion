@@ -1,0 +1,158 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 18,340
+| crecla = Krokotopian
+| school = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+21%;
+
+| outboost =
+111%;
+
+| incboost =
+30% Life;
+
+| incresist =
+43% Fire, Ice, Storm, Myth, Balance, Shadow;
+73% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Anubite (Ice);
+
+| world = Krokotopia 
+| location = Underground Market 
+| subloc1 = Prop. Department
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*The strategy of the battle is to defeat Anubis with at least one Wizard that has less than 20% Max Health.
+*Two additional Anubite (Ice) Minions will appear if more than two Wizards are present.
+
+| speech =
+:'''{{Link|NPC|The Avatar}}''': ''"I was destroyed to feed you."''
+:'''Anubis''': ''"But you were made into something better, into living retribution."''
+:'''The Avatar''': ''"No! That is not what you did! That is not what you are! Let us see your truth!"''
+
+| cheatnotes =
+*{{Icon|Round}} ''"Offer your Soul unto Death."'' - At the beginning of the first Round, if a Wizard has less than 100% Max Health, Anubis will cast a version of Blessing, restoring the Wizard to 100% max Health.
+*{{Icon|Round}} ''"Clench tight your fist with MAGIC!"'' - Anubis will say this at the end of the second Round.
+*{{Icon|Damage}} ''"I shall feast on your final breath."'' - Each time a Wizard attacks Anubis after the second Round, he will give that Wizard a ''"Hunger of Anubis"''.
+**{{GivesSpell|Hunger of Anubis|size = x150px}}
+{{Icon|Friend}}{{Icon|Health}} '''Power Cycle''': Anubis will gain an Aura that decreases incoming Damage and decreases in power as Wizard's Health is lowered.
+*{{Icon|Aura}} ''"Death demands tribute!"'' - If Anubis' Aura is removed, he will cast a version of {{Link|Spell|Anubis}} on the Wizard that heals them for '''4,800''' Health, then recast the Aura.
+*''"Let your spirit fade and feed my power."'' - If a Wizard is above 70% max Health, Anubis will cast a "Power: -100%" -100% incoming Damage Aura for 99 Rounds.
+*''"Yes, embrace death."'' - If a Wizard is between 50% and 70% max Health, Anubis will cast a "Power: -70%" -70% incoming Damage Aura for 99 Rounds.
+*''"Good. Your spirit will be delicious."'' - If a Wizard is between 20% and 50% max Health, Anubis will cast a "Power: -50%" -50% incoming Damage Aura for 99 Rounds.
+*''"Yes, I see your spirit is true."'': After this cheat has been triggered, Anubis can now be defeated. If he is defeated before this, he will respawn with 114 Health. Only one Wizard must be below this threshold to be able to defeat Anubis. 
+**If a Wizard is between 10% and 20% max Health, Anubis will cast a "Power: -20%" -20% incoming Damage Aura for 99 Rounds.
+**If a Wizard is below 10% max Health, Anubis will cast a +100% incoming Damage Aura for 99 Rounds.
+
+| spellnotes =
+
+| casts =
+Infection;
+Deathblade (+40%);
+Mass Death Trap;
+Age of Reckoning;
+Black Widow;
+Wraith;
+Skeletal Dragon (180+660);
+
+| quests =
+Anubis, Anu-That;
+He Is Become Death;
+
+| gold =
+11 - 19;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Krok Tree Plaque;
+Krok Tree Tablet;
+Selenopolis Combat Theme;
+Selenopolis Field of Reeds Theme;
+Selenopolis Theme;
+Selenopolis Zigazag Market Com Theme;
+Tomb Map;
+
+| cards =
+Chimera;
+Cleanse Charm;
+Elemental Blade;
+Empower;
+Hex;
+Pierce;
+Spirit Blade;
+Storm Owl;
+Sun Serpent;
+
+| reagents =
+Brass;
+Copper;
+Iron;
+Merle's Whisker;
+Pyrite;
+Steel;
+Tin*F2;
+Turmeric;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Bread;
+Cherry Pie;
+Crab Apples;
+Dr. Jalapeno;
+Fortified Bread;
+Green Grapes;
+Green Jalapeno;
+Killer Kumquat;
+Kountry-Krok Butter;
+Kroklava;
+PB Cookie;
+Redskin Peanut;
+Tortilla Chips;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

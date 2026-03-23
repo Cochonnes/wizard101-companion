@@ -1,0 +1,351 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 15,320
+| crecla = Dino
+| crecla2 = Calaca
+| crecla3 = Aberration
+| school = Fire
+| school2 = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Myth;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+18%;
+
+| outboost =
+124%;
+
+| incboost =
+10% Ice;
+
+| incresist =
+40% Fire, Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Aberrant Valencian (Sun-Storm);
+
+| world = Novus
+| location = Nucleus Gallery
+| subloc1 = Dueling Space
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:'''Dasein:''' ''"Apologies. It took some time to find the perfect form. You do seem to enjoy fighting everybody. But this I think will do."''
+:'''Mario di Mario:''' ''"The dread Turtle King! Th-th-that is the form you chose? He threw hammers at my head and nearly dropped me in lava!"''
+:'''Dasein:''' ''"A worthy opponent for you, no?"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Novus
+| tome description =
+Dasein's reflection of the Turtle King. There's a weak spot on the top of its head. You just have to jump on it.
+
+| extract class =
+Dinos;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold =
+}}
+
+| cheatnotes =
+*{{Icon|Afterlife}} ''"Good thing I have extra lives!"'' - When Dasein Duelist is defeated the first time, he will revive himself with 50% of his total Health and cast {{Link|Spell|Meteor Strike}}.
+**Spells like {{Link|Spell|Doom and Gloom}} will not decrease the amount of healing that he receives.
+*{{Icon|Afterlife}} ''"It ain't game over yet!"'' - When Dasein Duelist is defeated the second time, he will revive himself with 25% of his total Health and cast {{Link|Spell|Rain of Fire}}.
+*{{Icon|Trap}} ''"Hammer Time!"'' - If a Wizard casts a Trap, Dasein Duelist casts a Fire version of {{Link|Spell|Hammer of Thor}} that clears all Blades and Traps from himself and deals 475 Fire Damage to the Wizard.
+**{{Link|Spell|Indemnity}} will not protect Traps from this cheat.
+
+| spellnotes =
+
+| casts =
+Frenzy;
+Smoke Screen;
+Plague;
+Fireblade;
+Deathblade (+40%);
+Glimpse of Infinity;
+Fire from Above;
+Scald;
+Raging Bull;
+Fire Dragon;
+Poison;
+Skeletal Dragon;
+
+| quests =
+Duel Perspectives;
+Wowzer;
+
+| dropnotes =
+Drops will include:
+*A random mixture totaling 14 Spellements and Treasure Cards.  The Spellements are for Karamelle, Lemuria, or Novus Spells, or the Tier 2b Treasure Cards.
+
+| gold =
+31 - 61;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Abstract Aeon Charm;
+Abstract Masterpiece Charm*F3;
+Crystalline Aeon Charm*F3*WMV;
+Crystalline Masterpiece Charm*F2*WMV;
+Dreamscape Aeon Charm*F2;
+Dreamscape Masterpiece Charm;
+Fractal Aeon Charm;
+Fractal Masterpiece Charm;
+Inspired Aeon Charm;
+Inspired Masterpiece Charm;
+Macabre Aeon Charm*F2*WMV;
+Macabre Masterpiece Charm;
+Primordial Aeon Charm;
+Primordial Masterpiece Charm;
+
+| rings = 
+Abstract Aeon Ring;
+Abstract Masterpiece Ring*F2;
+Crystalline Aeon Ring*F2;
+Crystalline Masterpiece Ring*F2;
+Dreamscape Aeon Ring;
+Dreamscape Masterpiece Ring;
+Fractal Aeon Ring;
+Fractal Masterpiece Ring*F2;
+Inspired Aeon Ring;
+Inspired Masterpiece Ring;
+Macabre Aeon Ring;
+Macabre Masterpiece Ring;
+Primordial Aeon Ring*F2;
+Primordial Masterpiece Ring*F2;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth*F2*WMV;
+Banshee (Tier 2b)*F5*WMV;
+Blood Bat (Tier 2b)*F3;
+Cyclops (Tier 2b);
+Dark Sprite (Tier 2b)*F2;
+Evil Snowman (Tier 2b)*F2*WMV;
+Fire Cat (Tier 2b)*F2;
+Fire Elf (Tier 2b);
+Frost Beetle (Tier 2b)*F5*WMV;
+Ghoul (Tier 2b)*F4;
+Imp (Tier 2b);
+Leprechaun (Tier 2b);
+Lightning Bats (Tier 2b);
+Locust Swarm (Tier 2b)*F2;
+Nature's Wrath (Tier 2b)*F3;
+Scarab (Tier 2b);
+Scorpion (Tier 2b)*F6*WMV;
+Snow Serpent (Tier 2b)*F4*WMV;
+Storm Shark (Tier 2b)*F2;
+Sunbird (Tier 2b)*F2;
+Thunder Snake (Tier 2b)*F5;
+Troll (Tier 2b)*F2;
+
+| reagents =
+Bone*F2*WMV;
+Bronze Gear;
+Pixels*F11*WMV;
+Pixels @ 2 Pixels;
+Tin*F2*WMV;
+
+| spellements =
+Barbarian's Saga*F6*WMV;
+Blast Off!*F5*WMV;
+Dark & Stormy*F7;
+Deathly Depths*F2;
+Freeze Ray*F7*WMV;
+Glimpse of Infinity*F3;
+Gravestorm;
+Grim Reader*F2;
+Grrnadier*F3*WMV;
+Improbable Gaze*F4*WMV;
+Lord of the Jungle*F3*WMV;
+Mockenspiel*F4*WMV;
+Old One's Endgame*F6*WMV;
+S'more Machine*F5*WMV;
+Scales of Destiny*F3*WMV;
+Shatterhorn*F6;
+Snack Attack*F2*WMV;
+Sound of Musicology*F3;
+Starspawn;
+Tatzlewurm Terror*F5;
+Tree of Strife*F5*WMV;
+
+| snacks =
+
+| jewels =
+Amazing Critical Amethyst +21*F2;
+Amazing Critical Amethyst +22;
+Amazing Critical Citrine +21;
+Amazing Critical Citrine +22;
+Amazing Critical Jade +21*F2*WMV;
+Amazing Critical Jade +22*F2*WMV;
+Amazing Critical Onyx +21*F2;
+Amazing Critical Onyx +22*F2*WMV;
+Amazing Critical Peridot +21;
+Amazing Critical Peridot +22;
+Amazing Critical Ruby +21;
+Amazing Critical Ruby +22*F3*WMV;
+Amazing Critical Sapphire +21*F2;
+Amazing Critical Sapphire +22;
+Amazing Damage Amethyst +31;
+Amazing Damage Amethyst +32;
+Amazing Damage Citrine +31;
+Amazing Damage Citrine +32;
+Amazing Damage Jade +31*F3;
+Amazing Damage Jade +32;
+Amazing Damage Onyx +31;
+Amazing Damage Onyx +32;
+Amazing Damage Peridot +31;
+Amazing Damage Peridot +32;
+Amazing Damage Ruby +31;
+Amazing Damage Ruby +32;
+Amazing Damage Sapphire +31;
+Amazing Damage Sapphire +32;
+Flawless Critical Amethyst +23;
+Flawless Critical Amethyst +24;
+Flawless Critical Citrine +23;
+Flawless Critical Citrine +24;
+Flawless Critical Jade +23;
+Flawless Critical Jade +24;
+Flawless Critical Onyx +23;
+Flawless Critical Onyx +24;
+Flawless Critical Peridot +23;
+Flawless Critical Peridot +24;
+Flawless Critical Ruby +23;
+Flawless Critical Ruby +24;
+Flawless Critical Sapphire +23;
+Flawless Critical Sapphire +24;
+Flawless Damage Amethyst +33;
+Flawless Damage Amethyst +34;
+Flawless Damage Citrine +33;
+Flawless Damage Citrine +34*F4*WMV;
+Flawless Damage Jade +33;
+Flawless Damage Jade +34;
+Flawless Damage Onyx +33;
+Flawless Damage Onyx +34*F2;
+Flawless Damage Peridot +33;
+Flawless Damage Peridot +34;
+Flawless Damage Ruby +33*F2;
+Flawless Damage Ruby +34*F2*WMV;
+Flawless Damage Sapphire +33;
+Flawless Damage Sapphire +34;
+Flawless Mending Opal +8%*F2;
+Polished Piercing Amethyst +6%;
+Polished Piercing Citrine +6%;
+Polished Piercing Jade +6%;
+Polished Piercing Onyx +6%;
+Polished Piercing Peridot +6%;
+Polished Piercing Ruby +6%*F2*WMV;
+Polished Piercing Sapphire +6%;
+
+| pins =
+Balance Blocking Pin (150, Death);
+Balance Blocking Pin (150, Fire);
+Balance Blocking Pin (150, Ice);
+Balance Blocking Pin (150, Life);
+Balance Blocking Pin (150, Myth);
+Balance Blocking Pin (150, Storm);
+Balance Blocking Pin (160, Ice);
+Balance Blocking Pin (160, Life);
+Balance Blocking Pin (160, Storm);
+Balance Mending Pin (140);
+Balance Mending Pin (160);
+Balance Resist Pin (140, Death);
+Balance Resist Pin (140, Fire);
+Balance Resist Pin (140, Life);
+Balance Resist Pin (140, Myth);
+Balance Resist Pin (140, Storm);
+Death Blocking Pin (150, Balance);
+Death Blocking Pin (150, Ice);
+Death Blocking Pin (160, Balance);
+Death Blocking Pin (160, Myth);
+Death Resist Pin (150, Balance);
+Death Resist Pin (150, Ice);
+Death Resist Pin (150, Myth);
+Fire Blocking Pin (150, Life);
+Fire Blocking Pin (150, Storm);
+Fire Blocking Pin (160, Balance);
+Fire Blocking Pin (160, Life);
+Fire Blocking Pin (160, Storm);
+Fire Mending Pin (140);
+Fire Mending Pin (160);
+Fire Resist Pin (120, Balance);
+Fire Resist Pin (140, Balance);
+Fire Resist Pin (140, Life);
+Fire Resist Pin (140, Storm);
+Ice Blocking Pin (150, Balance);
+Ice Blocking Pin (150, Fire);
+Ice Blocking Pin (150, Myth);
+Ice Resist Pin (140, Balance);
+Ice Resist Pin (140, Fire);
+Ice Resist Pin (140, Myth);
+Life Blocking Pin (150, Balance);
+Life Blocking Pin (150, Storm);
+Life Blocking Pin (160, Death);
+Life Blocking Pin (160, Storm);
+Life Mending Pin (140);
+Life Mending Pin (160)*F2;
+Life Resist Pin (140, Balance);
+Life Resist Pin (140, Death);
+Life Resist Pin (140, Storm);
+Myth Blocking Pin (150, Balance);
+Myth Blocking Pin (150, Fire);
+Myth Blocking Pin (150, Life);
+Myth Blocking Pin (160, Life);
+Myth Resist Pin (140, Balance);
+Myth Resist Pin (140, Fire);
+Myth Resist Pin (140, Life);
+Myth Resist Pin (160, Life);
+Storm Blocking Pin (150, Ice);
+Storm Blocking Pin (160, Balance);
+Storm Blocking Pin (160, Death);
+Storm Blocking Pin (160, Ice);
+Storm Mending Pin (140)*F2;
+Storm Mending Pin (160);
+Storm Resist Pin (130, Balance);
+Storm Resist Pin (130, Death);
+Storm Resist Pin (150, Balance);
+Storm Resist Pin (160, Balance);
+Storm Resist Pin (160, Death);
+Storm Resist Pin (160, Ice);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

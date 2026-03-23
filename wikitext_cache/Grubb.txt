@@ -1,0 +1,214 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 800
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Life;
+
+| incresist =
+50% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = Sunken City
+| subloc1 = Grubb's Castle
+| lootchest = Grubb's Chest
+| descrip =
+Grubb is the ruler of and final Boss in Sunken City.  Thought to be a myth by [[NPC:Cyrus Drake|Professor Drake]], {{Link|NPC|Marla Stinger}} rallies Wizards to her aid and journies into Sunken City to prove the Myth Professor wrong.  Wizards find Marla's proof in the form of Grubb himself, finding him with plans to raise an army of the Undead to rule the Spiral.
+*Two {{Link|Creature|Living Scarecrow}} minions will appear to accompany Grubb if more than two Wizards are present.
+
+| speech =
+:''"So, you have come this far to find me? Too bad you won't be able to tell anyone. You're no match for me and my army of Undead!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+He was dead set on taking over the Spiral with his army of Undead. But he was dead wrong. Technically he's dead in everything he does.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Natural Attack (Death 85x);
+Frost Beetle;
+Snow Serpent;
+Fire Elf;
+
+| quests =
+To Sunken City;
+Fight Grubb!;
+
+| gold =
+5 - 10;
+
+| hats =
+Cap of the Oasis;
+Charged Cover;
+Cloudburst Helm;
+Conjurer's Hat;
+Durable Hood;
+Fur-Lined Hood;
+Hardened Cap;
+Helm of the Bastion*F3*WMV;
+Helm of the Cyclone;
+Hood of Storms;
+Imp Lord's Helm;
+Mask of Proportions;
+Novitiate Hat*F2*WMV;
+Trollskin Hat;
+
+| robes =
+Charged Coat;
+Chillcloak;
+Cloak of Refuge;
+Glacial Tunic*F2*WMV;
+Hallowed Robes*F2*WMV;
+Martyr's Raiment;
+Novitiate Robe*F2;
+Raiment of the Badlands*F2*WMV;
+Robe of Talent*F4*WMV;
+Runed Vestment*F2*WMV;
+Sapphyra's Vestment;
+Senior Novice's Robe*F2;
+Sphinx's Vestment;
+Stormforged Mantle;
+Trollskin Cloak;
+Tunic of Energy*F2*WMV;
+Tunic of Mortality;
+Tunic of the Whirlwind*F3*WMV;
+Vestment of Essence;
+Vestment of the Arctic*F3*WMV;
+
+| boots =
+Ancient Sandals;
+Boots of Imagination*F2*WMV;
+Boots of Obstruction;
+Boots of the Citadel*F2;
+Boots of the Cyclone;
+Cloudburst Wraps;
+Cryptkeeper's Shoes;
+Crystalline Footwraps*F2*WMV;
+Novitiate Boots*F4*WMV;
+Shoes of Adaptation*F2*WMV;
+Shoes of Annihilation*F2;
+Symmetrical Shoes;
+Windrunners;
+
+| athames =
+Branded Dagger;
+Dagger of Solitude*F3*WMV;
+Dirk of the Wasteland*F3;
+Fine Dagger;
+Honed Athame;
+Insulated Dirk;
+Parched Kris;
+Powerful Stiletto*F4*WMV;
+Symmetrical Dirk;
+Whirlwind Dagger;
+
+| amulets =
+
+| rings =
+Ring of the Badlands;
+Sparkling Band*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Dead Briar Tree;
+Dead Tree;
+Frozen Pedestal;
+Wraith Statue*F2*WMV;
+
+| cards =
+Elemental Shield;
+Ghoul*F4*WMV;
+Locust Swarm;
+Snow Serpent;
+Time of Legend;
+Troll;
+
+| reagents =
+Bone*F6*WMV;
+Leather Straps*F2;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry*F3*WMV;
+Cheese Broccoli*F4*WMV;
+Chocolate Strawberry*F3*WMV;
+Cracker;
+Green Grapes*F2;
+Gummy Firecat;
+Nettle Root;
+Sugar Donut*F2;
+Tiny Fish*F2*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+Blue Cat Thug*F2*WMV;
+Greater Imp*F2;
+
+| seeds =
+
+| mounts =
+Ancient Koi;
+Ankylosaurus;
+Bat Wings*F2;
+Black Stallion;
+Blue Fairy Wings;
+Grey Warg;
+Ostrich;
+Purple Glider;
+Renaissance Wings;
+Rugged Seahorse;
+Sea Turtle;
+Spritely Seahorse;
+Starlight Pony;
+Starshine Pony;
+Sunshine Pony;
+
+| spells =
+
+}}

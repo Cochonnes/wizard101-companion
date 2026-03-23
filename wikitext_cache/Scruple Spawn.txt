@@ -1,0 +1,189 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 1,700
+| crecla = Beastmoon Creature
+| school = Balance
+| startpips = 2
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Celestia Battlegrounds
+| location2 = Arena
+| subloc2 = Mirage Battlegrounds
+| descrip =
+Scruple Spawn are one of the Boss monsters that can be encountered during the second Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events. They will have 1 random, Rank 2 Elite, Stage 2 Minion and 1 random, Rank 1, Stage 2 Minion present to assist them.
+
+'''Potential Rank 2 Celestia Elite Minions:'''
+*{{Link|Creature|Electrical Storm Lagoony}}
+*{{Link|Creature|Fried Crab}}
+*{{Link|Creature|Responsi-Bot}}
+
+'''Potential Rank 1 Celestia Minions:'''
+*{{Link|Creature|Chilly Fishman}}
+*{{Link|Creature|Harmony Eel}}
+*{{Link|Creature|Seared Flyingfish}}
+
+'''Potential Rank 2 Mirage Elite Minions:'''
+*{{Link|Creature|Dune Raider}}
+*{{Link|Creature|Mire Elemental}}
+*{{Link|Creature|Responsi-Bot}}
+*{{Link|Creature|Trengil Gouger}}
+
+'''Potential Rank 1 Mirage Minions:'''
+*{{Link|Creature|Baboon Bandit}}
+*{{Link|Creature|Harmony Eel}}
+*{{Link|Creature|Mongu Slicer}}
+
+| speech =
+
+| spellnotes =
+*Casts a 2-Pip version of Power Conversion that also gives 1 Pip to target.
+*Casts a version of Spiked Buckler that applies a +75 Damage Blade and an unprotected 75 Damage Absorb Ward.
+*Casts a version of Thieving Beetle that deals 100 Damage.
+*Casts a 3-Pip version of Stunning Swarm that deals 200 Damage.
+
+
+| casts =
+Power Conversion;
+Spiked Buckler;
+Thieving Beetle;
+Stalking Smilodon;
+Stunning Swarm;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 11 - 15 Lunari.
+
+| gold =
+52 - 60;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone*F4*WMV;
+Balance Rune*F7*WMV;
+Balance Thread*F4;
+Colossus Idol (Death);
+Colossus Idol (Myth);
+Colossus Idol (Storm);
+Cyclops Idol (Life);
+Death Rune;
+Draconian Idol (Ice);
+Eldritch Thread*F6*WMV;
+Eldritch Thread @ 2 Eldritch Thread*F4;
+Elemental Moonstone*F5*WMV;
+Elemental Thread*F6*WMV;
+Elf Idol (Ice);
+Enhanced Life Rune*F2*WMV;
+Enhanced Myth Rune;
+Fire Moonstone*F3*WMV;
+Fire Rune*F2*WMV;
+Fire Thread;
+Harmonious Thread*F2*WMV;
+Hunter's Moonstone*F4;
+Hunter's Moonstone @ 2 Hunter's Moonstone*F4;
+Ice Moonstone;
+Ice Rune;
+Ice Thread;
+Krokomummy Idol (Life);
+Life Moonstone*F2*WMV
+Life Rune*F3*WMV;
+Minotaur Idol (Balance);
+Minotaur Idol (Fire);
+Minotaur Idol (Ice);
+Minotaur Idol (Life)*F2;
+Myth Moonstone;
+Myth Rune;
+Myth Thread*F3;
+Rat Thief Idol (Fire);
+Rat Thief Idol (Life);
+Spirit Moonstone*F4*WMV;
+Spirit Thread*F5*WMV;
+Storm Moonstone;
+Storm Rune;
+
+| spellements =
+Crimson Phantom*F3;
+Dream Golem*F2;
+Elemental Golem*F6*WMV;
+Ether Golem*F2;
+Frostfeather;
+Glacial Golem*F2;
+Golem\: Taunt;
+Humongofrog;
+Infestation;
+Iron Curse*F3;
+Judgement;
+Meteor Strike*F2*WMV;
+Monster Mash;
+Naphtha Scarab;
+Obsidian Colossus*F2*WMV;
+Poison;
+Sandstorm*F2;
+Sprite Swarm*F4;
+Stormwing*F3*WMV;
+Thermic Golem;
+Thieving Dragon;
+Thunderman;
+Vermin Virtuoso*F2;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| recipes =
+7 Glacial Golem Spellements;
+7 Thieving Dragon Spellements;
+
+}}

@@ -1,0 +1,323 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 11,000
+| crecla = Gnome
+| school = Shadow
+| cheats = Yes
+| startpips = 5
+| shadowslots = 2
+| powerpips = Yes
+| critical =
+173 Any;
+
+| criticalblock =
+198 Any;
+
+| outpierce =
+24%;
+
+| outboost =
+115%;
+
+| incboost =
+5% Balance;
+
+| incresist =
+70% Fire, Ice, Storm, Myth, Life, Death, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+45%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Karamelle
+| location = Sweetzburg
+| subloc1 = Jamburglar's Hideout
+| descrip =
+
+| speech =
+:''"Mine, mine, mine! All the gummies will be mine! And then you'll steal all the treats, all the Delights! And all that will remain is rubble... rubble. Who are you? A Wizard? That's not a Gummy. Prepare to be vanquished!"''
+
+| spellnotes =
+*Casts a protected Shadowblade and Shadow Trap.
+
+| cheatnotes = 
+*{{Icon|Late}} ''"More Customers? You must pay for that!"'' - If a Wizard joins the battle after the first Round, Jamburglar will cast a single target Shadow version of Power Nova that takes 100% of their max health, instantly defeating them.
+*{{Icon|Round}} ''"I'm so sneaky and evil"'' - At the beginning of the first Round, Jamburglar will cast a Shadow Spell that removes all Pips from all Wizards, then casts a 99 Round version of {{Link|Spell|Impede}} on each Wizard, then gives all Wizards 7 Power Pips, and casts {{Link|Spell|Blinding Light (85%)}}.
+*{{Icon|Damage}} ''"Prepare to be Jamburgled!"'' - At the end of each Round after the first, Jamburglar casts a Shadow version of {{Link|Spell|Power Nova}} that takes 15% of each Wizard's max Health and 10% of his own.
+**This Spell can trigger Jamburglar's Adapt, giving him a Power Pip from being hit by this Spell.
+**Spells that take a percentage of Health ignore all stats and hanging effects.
+*{{Icon|Harmful Aura}} ''"Gum's Away!"'' - If anyone in the Wizard's side doesn't have Impede active, Jamburglar will cast it on them.
+**This cheat applies to summoned minions.
+**Bug: Dead Wizards will cause Jamburglar to repeatedly shout this cheat line as he detects them not having the aura active.
+
+| casts =
+Adapt;
+Flawless;
+Shadowblade;
+Shadow Trap;
+Steal Charm (Shadow);
+Steal Ward (Shadow);
+Shift (4 Pip);
+Natural Attack (Shadow 105-210-315-420);
+Minotaur (Shadow);
+Scald (Shadow);
+Winter Moon (Shadow);
+Wraith (Shadow);
+Medusa (Shadow);
+Ship of Fools (Tier 2b);
+
+| quests =
+Robber, Robber;
+
+| gold =
+73 - 133;
+
+| hats =
+Director Pressure Hood;
+Executive Insulated Hood;
+
+| robes =
+Executive Pressure Suit;
+Executive Protective Suit;
+
+| boots =
+Producer's Hazmat Boots;
+
+| athames =
+Producer's Insulated Knife;
+
+| amulets =
+Producer's Biohazard Rope;
+
+| rings =
+Director Biohazard Ring;
+Director Hazmat Ring;
+
+| wands =
+Director Hazmat Meter;
+Director Insulated Meter;
+Producer's Hazmat Meter;
+
+| decks =
+Producer's Thermal Box;
+
+| items =
+Gum Drop Container*F2;
+Gumdrop Forest Poster;
+Karamelle Barrel;
+Karamelle Cavity Combat Theme;
+Karamelle City Combat Theme;
+Karamelle Crate;
+Karamelle Forest Theme;
+Karamelle Jingle Theme;
+Karamelle Neglected Theme;
+Karamelle Rural Combat Theme;
+Karamelle Worker Combat Theme;
+Karamelle Worker Theme;
+Licorice Tree;
+Oil Drum;
+Rock Candy Mountains Poster;
+Trash Pile (Outdoor);
+Von Trap Estate Poster;
+
+| cards =
+Berserk;
+Brilliant Light;
+Dream Shield;
+Ether Shield*F2;
+Galvanic Field;
+Nested Fury*F2;
+Rusalka's Wrath;
+Sirens;
+Snowball Barrage;
+Winged Sorrow;
+Witch's House Call;
+
+| reagents =
+Aether*F3;
+Agave Leaves*F2;
+Amber*F2;
+Amber Dust;
+Aquamarine;
+Astral Shard*F2;
+Braided Vine;
+Fire Blossom;
+Golden Pearl;
+Karamelle Chunk*F2;
+Merle's Whisker;
+Mithril*F3;
+Scales;
+Silver*F3;
+Steel*F2;
+Sunstone*F2;
+Titanium;
+Toffee Bean*F5;
+Tungsten*F2;
+Turmeric;
+Turquoise;
+Vine;
+
+| spellements =
+Grrnadier*F2;
+Iron Sultan;
+King Artorius (Balance);
+King Artorius (Death);
+King Artorius (Fire);
+King Artorius (Ice);
+King Artorius (Life);
+King Artorius (Myth);
+King Artorius (Storm);
+Mockenspiel;
+Nested Fury;
+Qismah's Curse;
+S'more Machine*F2;
+Snowball Barrage;
+Sound of Musicology;
+Winged Sorrow;
+Wings of Fate;
+Witch's House Call;
+
+
+| snacks =
+Antheneum Delight;
+Beast Wellington;
+Cherry Pie;
+Crackle Jacks Cereal;
+Discord Grape Jelly;
+Dragon Fruit;
+Drumstick;
+Eye Candy;
+Fern Jelly;
+Glowing Star Fruit;
+Glowing Taffy;
+Hot Cross Buns;
+Krakamari;
+Pizza*F2;
+Rock and Roll Candy;
+Roly Poly Fishheads;
+Satyr Chow;
+Ships 'n' Queso;
+Sprinkle Cupcake*F3;
+Veggie Juice;
+Waterworks Wonton*F3;
+Wheat Cracker;
+
+| jewels =
+Dazzling Accurate Amethyst +14%;
+Dazzling Accurate Citrine +14%;
+Dazzling Accurate Hematite +14%;
+Dazzling Accurate Jade +14%;
+Dazzling Accurate Onyx +14%;
+Dazzling Accurate Opal +7%;
+Dazzling Accurate Peridot +14%;
+Dazzling Accurate Ruby +14%;
+Dazzling Accurate Sapphire +14%;
+Dazzling Blocking Jade +20;
+Dazzling Critical Amethyst +19;
+Dazzling Critical Amethyst +20;
+Dazzling Critical Citrine +20;
+Dazzling Critical Hematite +20;
+Dazzling Critical Jade +20;
+Dazzling Critical Onyx +20*F2;
+Dazzling Critical Peridot +20;
+Dazzling Critical Ruby +20;
+Dazzling Critical Sapphire +20;
+Dazzling Damage Amethyst +30;
+Dazzling Damage Citrine +29;
+Dazzling Damage Peridot +30;
+Dazzling Damage Ruby +29;
+Dazzling Damage Sapphire +30;
+Dazzling Defense Hematite +59;
+Dazzling Defense Hematite +60;
+Dazzling Defense Onyx +57;
+Dazzling Defense Opal +30;
+Dazzling Defense Ruby +59;
+Dazzling Health Opal +126*F2;
+Dazzling Health Opal +131;
+Dazzling Mana Opal +53;
+Dazzling Mending Opal +7%;
+Handsome Fomori Sapphire;
+Lord of Night Onyx;
+Radical Opal;
+Shiny Accurate Hematite +12%;
+Shiny Accurate Sapphire +12%;
+Shiny Blocking Amethyst +15;
+Shiny Blocking Opal +8;
+Shiny Critical Hematite +16;
+Shiny Damage Ruby +25;
+Shiny Defense Sapphire +51;
+Shiny Health Opal +111;
+Shiny Health Opal +112;
+Shiny Health Opal +113;
+Shiny Health Opal +114;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+Shiny Mending Opal +6%;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak;
+Angora Bunny Ears;
+Baby Carrots*F2;
+Bamboo Shoots;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts*F2;
+Boon Tree;
+Bread Fruit Bush;
+Clockwork Flower;
+Cornbread Fruit Bush*F2;
+Deadly Fly Trap;
+Deadly Ninja Fig;
+Evil Magma Peas*CR;
+Face Palm;
+Fish on a Vine*F2;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Goose Tree*F2;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Honey Bee Plant;
+Ivy League*CR;
+Key Limes*CR;
+King Parsley*CR*F2;
+Maelstrom Snap Dragon;
+Melting Cheese Tree;
+Missile Toe;
+Moon Flower*F2;
+Ninja Fig*CR;
+Orange Bell Pepper*CR;
+Pink Huckleberries;
+Purple Grapes of Wrath;
+Queen Crape Myrtle;
+Red Grapes of Wrath;
+Red Bell Pepper;
+Red Huckleberries;
+Rye Bread Fruit Bush;
+Silver Trumpet Vine*CR;
+Snow Apples;
+Sour Fickle Pickle;
+Sunion*CR;
+Sword Fern*CR;
+Tiger Lily (Seed);
+Trumpet Vine;
+Ultra Helephant Ears;
+Ultra King Parsley;
+Ultra Snow Apples;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,162 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 20,220
+| crecla = 
+| school = Ice
+| school2 = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Fire;
+
+| incresist =
+45% Myth, Life, Death, Balance;
+63% Storm;
+75% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+Shadow Blob (4,595);
+
+| world = Darkmoor
+| location = Black Lagoon
+| subloc1 = Bog of Vengeance (Standard)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*''"No child dares disobey the Scholomari"'' - Hierophant of Destruction will say this at the beginning of the first round with no effect. Whenever Hierophant of Destruction casts a buff, her minions will cheat-cast similar buffs of the same type.
+**{{Icon|Global}} = {{Link|Spell|Stormblade}}
+**{{Icon|Aura}} = {{Link|Spell|Magnify}}, {{Link|Spell|Sleet Storm}}, or {{Link|Spell|Empowerment}}
+**{{Icon|Trap}} = {{Link|Spell|Ice Trap}} or {{Link|Spell|Storm Trap}}
+**{{Icon|Blade}} = {{Link|Spell|Balanceblade}}, {{Link|Spell|Iceblade (+45%)}}, or {{Link|Spell|Stormblade}}
+
+*{{Icon|Random}} ''"My turn is when I say it is."'' - Randomly, Hierophant of Destruction will interrupt and cheat-cast {{Link|Spell|Chain Lightning}}.
+{{Icon|Round}} '''Cheat Cycle'''
+
+This cheat cycle begins on the first round and repeats from the beginning starting on the next turn after the cycle ends.
+
+*''"You will cast what I tell you!"'' - Hierophant of Destruction will interrupt and force a random wizard to cast one of the following spells:
+**{{Icon|Elemental}}{{Icon|Weakness}} A special 15% version of {{Link|Spell|Elemental Weakness}}
+**{{Icon|Deferred Damage}} A triple Bomb DoT that deals 50 Fire damage after 5 rounds.
+**{{Icon|Heal over Time}} A triple HoT that heals 50 health over 5 rounds.
+**{{Icon|Spirit}}{{Icon|Blade}} A special 15% version of {{Link|Spell|Spirit Blade}}
+*{{Icon|Round}} ''"The willful student hurts themselves''" - At the end of the round two rounds after forcing a wizard to cast a spell (e.g. round 3 for the first cycle), Hierophant of Destruction casts a special Ice (if the hanging effect was blades or weaknesses) or Storm (if the hanging effect was DoTs or HoTs) damage spell that clears the hanging effects that wizards were forced to cast and deals 10% of the wizard's max health per hanging effect cleared.
+
+| spellnotes =
+
+| casts =
+Empowerment;
+Empower;
+Dark Tribute;
+Mass Ice Trap;
+Legion Shield;
+Ice Feint;
+Frostfeather;
+Frost Minotaur;
+Ice Helephant;
+Furious Hail;
+Abominable Weaver (Shadow);
+Triton (Shadow);
+Stormblade (+30%);
+Tempest;
+Chain Lightning;
+
+| quests =
+What We Did in the Shadows;
+
+| gold =
+14 - 43;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Chilling Abomination Amulet;
+Doomed Abomination Amulet;
+Mythic Abomination Amulet;
+Sanguine Abomination Amulet;
+Scary Abomination Amulet;
+Scholomantic Death Charm;
+Scholomantic Destructive Charm;
+Scholomantic Devilish Charm;
+Scholomantic Fortune Charm;
+Scholomantic Justice Charm;
+Scholomantic Strength Charm;
+Scholomantic Worldly Charm;
+Shocking Abomination Amulet;
+Tense Abomination Amulet;
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Outsider Relic;
+
+| spellements =
+Ammut;
+Blast Off!;
+Chameleon Clash;
+Count Croakula;
+Deathly Depths;
+Glimpse of Infinity;
+Gravestorm;
+Heqet;
+Mortality;
+The Chariot;
+The Hierophant;
+Thoth;
+Zand the Bandit;
+
+| snacks =
+
+| jewels =
+Bright Damage Ruby +11% (Fire);
+Bright Damage Ruby +11% (Myth);
+Polished Piercing Amethyst +6%;
+Polished Piercing Citrine +6%;
+Polished Piercing Onyx +6%;
+Unearthly Damage Amethyst +11% (Storm);
+
+| pins =
+Ice Conversion Pin (180);
+Storm Accurate Pin (80);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

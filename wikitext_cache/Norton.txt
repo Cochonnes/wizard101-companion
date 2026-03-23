@@ -1,0 +1,194 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 800
+| crecla = Undead
+| school = Balance
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+7% Myth, Life, Death;
+
+| incresist =
+50% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Wandering Specter;
+Wandering Specter;
+
+| world = Wizard City
+| location = Sunken City
+| subloc1 = Norton's Tower
+| descrip =
+Norton is the second Boss in Sunken City.  Wizards find him on the fifth and final floor of his tower near the end of Sunken City and must defeat him to acquire the key to {{Link|Location|Grubb's Castle}}.
+
+| speech =
+:''"You are here for the key to Grubb's keep? What makes you think you are worthy to meet him? He's building an army of Undead and soon we will rule the world! You can't stop us!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+One of Grubb's lieutenants, he'll probably never be trusted with the keys to his boss' keep again.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Death Damage per Pip.
+
+| casts =
+Balanceblade;
+Scarab;
+Scorpion;
+Locust Swarm;
+Blood Bat;
+Thunder Snake;
+Snow Serpent;
+Ice Elf (30+210);
+
+| quests =
+Under Lock And Key;
+
+| gold =
+14 - 25;
+
+| hats =
+Ancient Circlet*F2*WMV;
+Antique Helm;
+Blightshroud;
+Cap of the Oasis;
+Charged Cover;
+Charred Cowl;
+Cloudburst Helm;
+Crystalline Helm*F3*WMV;
+Durable Hood;
+Embershroud*F2*WMV;
+Fur-Lined Hood;
+Hardened Cap;
+Helm of Refuge;
+Helm of Tales;
+Helm of the Cyclone;
+Imp Lord's Helm;
+Snowflake Cowl*F3;
+Stormforged Mantle;
+Tempest Cowl*F3*WMV;
+
+| robes =
+Ancient Cloak;
+Cryptkeeper's Cloak;
+Crystalline Vest;
+Flowering Mantle;
+Frost Wolf Cloak;
+Hallowed Robes;
+Healer's Vestment;
+Initiate's Uniform*F2*WMV;
+Martyr's Raiment;
+Roughspun Robe*F2*WMV
+Sapphyra's Vestment*F2*WMV;
+Senior Novice's Robe;
+Soot Stained Tunic*F2*WMV;
+Stormcaller's Robe;
+Tunic of Disturbance;
+Tunic of Tall Tales;
+Vest of the Cyclone*F3*WMV;
+Vestment of Essence*F2*WMV;
+
+| boots =
+Ancient Sandals;
+Antique Footguards;
+Blazing Boots*F4*WMV;
+Boots of the Cyclone*F2;
+Cryptkeeper's Shoes*F3*WMV;
+Glacial Slippers*F5*WMV;
+Hardened Boots;
+Novitiate Boots;
+Slippers of the Badlands*F2;
+Sphinx's Footwraps*F2*WMV;
+Windrunners*F2;
+
+| athames =
+Dagger of Repose*F2*WMV;
+Dagger of Talent*F3*WMV;
+Dulled Athame;
+Fine Dagger;
+Glittering Dagger*F3*WMV;
+Sturdy Blade;
+
+| amulets =
+
+| rings =
+Ancient Circlet;
+Cryptkeeper's Band*F2*WMV;
+Superstitious Band*F3*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Arched Grave*F2*WMV;
+Pointed Grave;
+Slanted Grave*F2;
+
+| cards =
+Ghost Touch*F5*WMV;
+Ghoul;
+Snow Serpent*F2*WMV;
+Troll*F2*WMV;
+
+| reagents =
+Bone*F4;
+Ectoplasm*F10*WMV;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry*F5*WMV;
+Cheese Broccoli*F4*WMV;
+Chocolate Strawberry*F3*WMV;
+Cracker;
+Green Grapes;
+Gummy Firecat*F4*WMV;
+Nettle Root;
+Sugar Donut*F4*WMV;
+Tiny Fish;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Honey Sickle*F2;
+
+| mounts =
+Blue Fairy Wings;
+
+| spells =
+
+}}

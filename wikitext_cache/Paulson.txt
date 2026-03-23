@@ -1,0 +1,191 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 800
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Life;
+
+| incresist =
+50% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Wailing Wraith;
+Wailing Wraith;
+
+| world = Wizard City
+| location = Sunken City
+| subloc1 = Sunken City Second Tower
+| descrip =
+Paulson is the first Boss in Sunken City. He guards the Knock Scroll for {{Link|Creature|Grubb}}, which Wizards must obtain in order to open the second gate.
+
+| speech =
+:''"Wizard, have you come searching for a way through my gate? Ha, you will not have my scroll. Instead you will have pain and despair! Prepare!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+Paulson is basically just Grubb's doorman in Sunken City. Maybe one day he'll learn that a scroll is a poor substitute for a strong lock.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Death Trap;
+Dark Sprite;
+Fire Elf (50+210);
+Frost Beetle;
+Snow Serpent;
+Natural Attack (Ice 85x, 85%);
+
+| quests =
+Project Mayhem;
+
+| gold =
+14 - 22;
+
+| hats =
+Ancient Circlet*F2;
+Antique Helm;
+Blightshroud;
+Cap of the Oasis*F2;
+Carbonshroud;
+Crystalline Helm*F2;
+Durable Hood;
+Flowering Mantle*F3;
+Fur-Lined Hood;
+Hardened Cap;
+Helm of Refuge*F2*WMV;
+Helm of the Cyclone*F3*WMV;
+Hood of Storms;
+Imp Lord's Helm;
+Snowflake Cowl*F4*WMV;
+Tempest Cowl;
+
+| robes =
+Ancient Cloak*F2*WMV;
+Chillcloak*F2*WMV;
+Cryptkeeper's Cloak*F2;
+Crystalline Vest*F2;
+Fireguard Robe;
+Frost Wolf Cloak*F2;
+Initiate's Uniform*F2;
+Martyr's Raiment;
+Novitiate Robe;
+Sapphyra's Vestment;
+Scholarly Robes*F2*WMV;
+Senior Novice's Robe;
+Stormcaller's Robe;
+Tunic of Tall Tales*F2*WMV;
+Vest of the Cyclone;
+Vestment of Essence*F2;
+Vestment of Tremors;
+
+| boots =
+Ancient Sandals*F2;
+Antique Footguards;
+Blazing Boots;
+Boots of Imagination;
+Boots of the Cyclone*F2;
+Cloudburst Wraps;
+Cryptkeeper's Shoes;
+Glacial Slippers*F4*WMV;
+Hardened Boots;
+Shoes of the Troll King;
+Slippers of the Badlands*F2*WMV;
+Sphinx's Footwraps*F3*WMV;
+Slippers of the Badlands;
+Stormforged Boots*F2;
+
+| athames =
+Antiquated Knife;
+Charged Kris;
+Dagger of Repose;
+Dagger of Talent*F4*WMV;
+Glittering Dagger*F2*WMV;
+Honed Athame*F2;
+Sturdy Blade;
+
+| amulets =
+
+| rings =
+Cryptkeeper's Band*F3*WMV;
+Superstitious Band*F2;
+
+| wands =
+Branded Wand*F2*WMV;
+
+| decks =
+
+| items =
+Arched Grave;
+Pointed Grave*F2*WMV;
+Slanted Grave;
+Sundae (Wizard City)*F2*WMV;
+
+| cards =
+Banshee*F5*WMV;
+Fire Elf;
+Ghost Touch;
+Ghoul;
+Pixie;
+Snow Serpent*F2*WMV;
+Time of Legend;
+Troll;
+
+| reagents =
+Ectoplasm*F7*WMV;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry*F3*WMV;
+Cheese Broccoli;
+Chocolate Strawberry*F2*WMV;
+Green Grapes;
+Gummy Firecat*F2*WMV;
+Nettle Root*F2*WMV;
+Sugar Donut*F5*WMV;
+Tiny Fish;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

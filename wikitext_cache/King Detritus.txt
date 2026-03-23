@@ -1,0 +1,249 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 39,680
+| crecla = Trash
+| school = Sun
+| masteries =
+Fire;
+Myth;
+Life;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+20%;
+
+| outboost =
+150%;
+
+| incboost =
+5% Ice, Storm, Death;
+
+| incresist =
+70% Fire, Myth, Life;
+
+| outhealing =
+75%;
+
+| inchealing =
+75%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Trash (Balance);
+Trash (Death);
+Trash (Fire);
+Trash (Ice);
+Trash (Life);
+Trash (Myth);
+Trash (Shadow);
+Trash (Storm);
+
+| world = Wizard City
+| location = The Drains
+| subloc1 = Abandoned Backyard
+| badge = Took Out the Trash
+| descrip =
+King Detritus is the first Boss fought in the Catacombs storyline. He appears at the end of the ''Abandoned Backyard'' Instance.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"Your tardiness is disgusting!"'' - If any Wizards join the duel after the second Round, King Detritus will summon an additional Minion as well as cast Steal Health on one of his Minions and move up to the next Polymorph stage.
+**If there are no Minions present, King Detritus will cast Steal Health on a random Wizard.
+*{{Icon|Feint}} ''"Ah ah ah!"'' - If a {{Link|Spell|Feint}} is cast on King Detritus, one of his Minions will cast a Shadow Spell twice to move the Trap onto itself. Feints can be safely cast during the first Round, while the Minions are not yet active.
+**{{Link|ItemCard|Mass Feint}} will trigger this cheat.
+*{{Icon|Minion}} ''"Refuse, unite!"'' - At the beginning of the first Round, King Detritus will cast a Sun Spell that summons random {{Link|Creature|Trash}} Minions equal to the number of Wizards present.
+*{{Icon|Steal}} ''"Your sacrifice is for the greater garbage good!"'' - King Detritus will cast a Sun version of Steal Health on his Minion to heal himself 100% of the Damage dealt to the Minion.
+*{{Icon|Minion}} ''"The trash is piling up!"'' - King Detritus will summon another random Trash Minion if he is out of Minions.
+
+{{Icon|Polymorph}} '''Polymorph Cycle''' - In this cycle, King Detritus will Polymorph into a larger version of himself, which gives him an Aura but loses all of his stats, including Power Pips, Masteries, Incoming Healing, Critical rating, Critical Block, Pierce, Outgoing Damage, Incoming Boosts, and Resistances. <br/>The following stages will show the Aura's stats along with the dialogue:
+*''"The trash man cometh!"'' - Gives '''+5%''' Damage, '''+5%''' Armor Piercing, and '''+5%''' Resistance, for 99 Rounds.
+*''"Now is the day of the discarded!"'' - Gives '''+10%''' Damage, '''+10%''' Armor Piercing, and '''+10%''' Resistance, for 99 Rounds.
+*''"I love the smell of garbage in the morning"'' - Gives '''+15%''' Damage, '''+15%''' Armor Piercing, and '''+15%''' Resistance, for 99 Rounds.
+*''"This fight has become quite the dumpster fire"'' - Gives '''+20%''' Damage, '''+20%''' Armor Piercing, and '''+20%''' Resistance, for 99 Rounds.
+*''"Time for the trash to take you out!"'' - Gives '''+25%''' Damage, '''+25%''' Armor Piercing, and '''+25%''' Resistance, for 99 Rounds.
+**After these 5 cheats, lines will recycle giving King Detritus the following Auras:
+***''Stage 6'' - '''+30%''' Damage, '''+30%''' Armor Piercing, and '''+30%''' Resistance, for 99 Rounds.
+***''Stage 7'' - '''+35%''' Damage, '''+35%''' Armor Piercing, and '''+35%''' Resistance, for 99 Rounds.
+***''Stage 8'' - '''+40%''' Damage, '''+40%''' Armor Piercing, and '''+40%''' Resistance, for 99 Rounds.
+***''Stage 9'' - '''+45%''' Damage, '''+45%''' Armor Piercing, and '''+45%''' Resistance, for 99 Rounds.
+***''Stage 10'' - '''+50%''' Damage, '''+50%''' Armor Piercing, and '''+50%''' Resistance, for 99 Rounds.
+
+| spellnotes =
+*Casts a +30% version of the Spell {{Link|Spell|Mass Hex}}
+
+| casts =
+Dark Fiend;
+Impede;
+Quicken;
+Unicorn (315);
+Balanceblade;
+Bladestorm;
+Hex;
+Cyclops (Sun);
+Meteor Strike (Sun);
+Natural Attack (Sun 105-210-315-420);
+Orthrus (Sun);
+Centaur (Sun);
+Helephant (Sun);
+Meteor Strike (355-395);
+Night Raid;
+Helephant;
+Centaur;
+Wings of Night;
+Forest Lord;
+Cyclops (310-370);
+Snake Charmer;
+Orthrus (785);
+
+| quests =
+These Monsters are Trash;
+Take Out the Trash;
+
+| gold =
+1,209 - 1,669;
+
+| hats =
+Dragonspyre Soldier's Helm*F3*WMV;
+Dragonspyre Vanguard's Helm*F2;
+Soldier's Balanced Helm*F2;
+Soldier's Deadly Helm*F3*WMV;
+Soldier's Fiery Helm;
+Soldier's Icy Helm*F2;
+Soldier's Mythic Helm;
+Soldier's Shocking Helm;
+Soldier's Vibrant Helm*F2;
+Vanguard's Balanced Helm*F2;
+Vanguard's Deadly Helm;
+Vanguard's Fiery Helm*F2;
+Vanguard's Icy Helm;
+Vanguard's Mythic Helm*F2;
+Vanguard's Shocking Helm*F3;
+Vanguard's Vibrant Helm*F2;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Dragonspyre Soldier Cleaver;
+Soldier's Deadly Longsword;
+Soldier's Fiery Blade*F2;
+Soldier's Icy Battle Axe;
+Soldier's Vibrant Saber;
+
+| decks =
+
+| items =
+Brain Jar*F5*WMV;
+Crab Alley Chaise*F6*WMV;
+Fish*F6*WMV;
+Ginormous Apple*F5*WMV;
+Mystic Pizza*F4*WMV;
+Roasted Drumstick*F4*WMV;
+Watermelon Slice*F5*WMV;
+WC Catacombs Combat Theme*F2;
+WC Catacombs Theme*F7*WMV;
+WC Drains Combat Theme*F4*WMV;
+WC Drains Theme*F7*WMV;
+WC Elsewhere Combat Theme*F2;
+
+| cards =
+
+| reagents =
+Alchemical Crystals*F8*WMV;
+Alchemical Extract*F59*WMV;
+Alchemical Salts*F23*WMV;
+Ancient Scroll*F10*WMV;
+Antique Coins*F8*WMV;
+Black Pearl*F6*WMV;
+Blood Moss*F6*WMV;
+Brass*F5*WMV;
+Bronze Gear*F2*WMV;
+Cobalt*F8*WMV;
+Ectoplasm*F7*WMV;
+Nickel*F6*WMV;
+Scales*F2*WMV;
+Spider Silk*F3*WMV;
+Spring*F8*WMV;
+Tin*F9*WMV;
+
+| spellements =
+Daybreaker*F7*WMV;
+Nightbringer*F16*WMV;
+
+| snacks =
+Antheneum Delight*F2*WMV;
+Aztecan  Hot Chocolate*F2;
+BBQ Drumstick*F2;
+Beast Wellington*F6*WMV;
+Bread Fruit Fruit*F3*WMV;
+Cherry Pie*F2*WMV;
+Decimatoes*F2*WMV;
+Discord Grape Jelly*F6*WMV;
+Drumstick;
+Eye Candy*F2;
+Fern Jelly*F3*WMV;
+Glowing Taffy*F5*WMV;
+Hot Cross Buns*F6*WMV;
+Pizza*F2*WMV;
+Rock and Roll Candy*F4*WMV;
+Satyr Chow*F7*WMV;
+Sprinkle Cupcake*F10*WMV;
+Veggie Juice;
+
+| jewels =
+Lustrous Blocking Citrine +14;
+Polished Resilient Opal +5%;
+
+| pins =
+
+| pets =
+Feathered Tabby*F4*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears;
+Baby Carrots*F2;
+Blue Huckleberries;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Fiery Boom Shroom;
+Fish on a Vine;
+Maelstrom Snap Dragon;
+Pink Huckleberries;
+Prickly Bear Cactus;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Sugar Khrystal*CR;
+Trumpet Vine;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

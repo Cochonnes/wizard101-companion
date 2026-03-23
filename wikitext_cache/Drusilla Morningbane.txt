@@ -1,0 +1,177 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 2,400
+| crecla = Wizard
+| crecla2 = Undead
+| school = Fire
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+War Wyrm;
+
+| world = Dragonspyre
+| location = The Necropolis
+| subloc1 = Pyromancer's Tomb
+| descrip =
+
+| speech =
+:''"A new student?  Dragonspyre is shattered... school closed forever.  This is no place for the living!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+Drusilla is a little more than a disgruntled beauty school drop-out. She swears the instructor had it in for her. But just look at that hair!
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Storm Damage.
+
+| casts =
+Snow Shield;
+Spirit Armor;
+Smoke Screen;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Sunbird;
+Fire Shark;
+Meteor Strike;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Heck Hound;
+
+| quests =
+Fire Shield;
+
+| gold =
+67 - 81;
+
+| hats =
+Cap of Chronicles;
+Cyclone Coif;
+Frostflower Cap;
+Hood of the Tempest;
+Mantle of Growth;
+
+| robes =
+Arboreal Robes;
+Final Curtain*F2;
+Robe of Radiance;
+Robe of the Conflagration;
+Robes of the Ice Queen;
+Smock of the Frost Giant*F2*WMV;
+Sorcerer's Robe;
+Terminus Wrap;
+Tunic of the Sphinx;
+Whirlwind Wrap;
+
+| boots =
+Boots of the Hurricane;
+Dragonclaw Boots;
+Footwraps of the Whirlwind;
+Mocassins of the Embers;
+Mocassins of the Healer;
+Mocassins of the Polar Ice;
+Rainstorm Waders;
+Sandals of Sleet*F2;
+Shoes of the Whispering Dark;
+
+| athames =
+Dauntless Dirk;
+Dragon's Eye Dagger*F2*WMV;
+
+| amulets =
+
+| rings =
+Band of the Hearth;
+Dragonscale Ring;
+Dragontooth Ring*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Long Corner Wall Ruins;
+Singed Magic Book;
+
+| cards =
+
+| reagents =
+Bone*F5;
+Brass;
+Cobalt*F2;
+Nickel;
+Spider Silk*F6*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F2;
+Goat Cheese*F3*WMV;
+Golden Grapes;
+Gummy Humongofrog*F2;
+King Banana*F3*WMV;
+
+| jewels =
+Blemished Defense Citrine +22;
+Blemished Health Opal +42;
+Colossus Sapphire;
+Dull Blocking Peridot +4;
+Dull Blocking Sapphire +4;
+Dull Damage Ruby +13;
+Ice-Away Sapphire;
+Life-Proof Jade;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fiery Boom Shroom;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

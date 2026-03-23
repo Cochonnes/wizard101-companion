@@ -1,0 +1,247 @@
+{{Stub|confirmation for the number of Minions summoned in the first Cheat|which ''Damage'' version of the {{Link|TreasureCard|Fire Wyvern}} Treasure Card is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 9,600
+| crecla = Fox
+| crecla2 = Undead
+| school = Shadow
+| school2 = Death
+| masteries =
+Myth;
+
+| cheats = Yes
+| shadowslots = 3
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+15%;
+
+| outboost =
+50%;
+
+| incboost =
+5% Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| summons =
+MacDeath Understudy (Tier 6);
+MacLife Understudy (Tier 6);
+MacStorm Understudy (Tier 6);
+
+| world = Housing Instance
+| location = Playhouse
+| subloc1 = Playhouse (Tier 6)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+The star, director, key grip, producer, costumer, writer, set designer, and biggest fan of his own play - he literally does it all.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Late arrivals will not be seated!"'' - Casts {{Link|Spell|Feint (+75%)}}, {{Link|Spell|Curse (+25%)}}, and {{Link|Spell|Hex (+35%)}} on the late Wizard.
+*{{Icon|Minion}} ''"May a choir of understudies sing thee to thy rest"'' - MacDeath will cast a Moon Spell to summon one of the following Minions.
+**{{Link|Creature|MacDeath Understudy (Tier 6)}}, {{Link|Creature|MacLife Understudy (Tier 6)}}, {{Link|Creature|MacStorm Understudy (Tier 6)}}.
+***Although the speech will continue, Understudies will cease to be summoned after a certain number, probably based on the number of Wizards in the duel.  ''"Needs confirmation."''
+**Hiring a Henchman also appears to trigger additional Understudies to be summoned.
+*{{Icon|Feint}} ''"This is your moment in the spotlight!"'' - If a Feint is cast on MacDeath, a Minion will cast an Ice Spell to move the Trap to themselves. This includes Mass Feint
+*{{Icon|Aura}} ''"To be or not to be? To be obviously"'' - Casts a '''-100%''' version of {{Link|Spell|Fortify}}.
+**{{Icon|Damage}} ''"Et tu, Wizard?"'' - Recasts previous Aura to be 10% lower after a Damage Spell is cast on him. Cheat repeats until Boss has a -10% Incoming Aura.
+***Weapon-Casts trigger this cheat also.
+***Health Steal Damage Spells do not trigger this cheat (ex: {{Link|Spell|Ghoul}}).
+*{{Icon|Damage over Time}} ''"Wizards die a thousand times before their death!"'' - Boss will {{Link|Spell|Shift}} any Damage Tick placed on him to the caster of the DoT.
+*{{Icon|Global}}{{Icon|Healing}} ''"Out, out, brief candle!"'' - MacDeath (Tier 6) casts {{Link|Spell|Doom and Gloom (-75%)}} if a Global or Healing Spell is cast.
+**Pet Spells will activate this cheat.
+**If a {{Link|Spell|Strangle}} then a Global Spell is cast, Wizards can Heal without Doom and Gloom (-75%).
+*{{Icon|Manipulation}} ''"We few, we happy few, we band of beguileds"'' - Boss will cast {{Link|Spell|Beguile}} on a Wizard.
+
+| spellnotes =
+*Casts a protected Deathblade Shadowblade.
+
+| casts =
+Ether Shield (-75%);
+Virulent Plague;
+Deathblade Shadowblade;
+Feint (All Enemies);
+Blinding Light (85%);
+Shatter;
+Qismah's Curse (Shadow);
+Deer Knight (Shadow);
+Call of Khrulhu (Shadow);
+Wraith (Shadow);
+Winged Sorrow (Shadow);
+Ominous Scarecrow (Shadow);
+Avenging Fossil (Shadow);
+
+| quests =
+The Play's the Thing;
+
+| gold =
+51 - 532;
+
+| hats =
+Dragonrider's Utility Helm (Level 100+)*CR;
+
+| robes =
+Dragonrider's Assailing Robe (Level 100+)*CR;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Broken Dragon Bust*F2*WMV;
+Dragon Bust;
+Dragonclaw Pedestal*F4*WMV;
+Dragonflame Torch;
+Dragonhorn Trophy;
+Dragonmoon Marker*F2;
+Dragonmoon Obelisk;
+Dragonmoon Plaque;
+Dragonskull Marker;
+Dragonskull Plaque;
+Dramaturgy MacDeath Theme;
+Dramaturgy Main Theme*F2;
+Dramaturgy Stagehand Theme*F3*WMV;
+Dramaturgy Student Theme*F3*WMV;
+Singed Dragon Handbook*F3*WMV;
+Snapdragon Flowerbed*F2*WMV;
+Snapdragons*F2;
+
+| cards =
+Accurate*F2;
+Blue Phoenix;
+Crow*F5*WMV;
+Dr. Von's Monster*F3;
+Evil Snowman*F5*WMV;
+Fire Wyvern;
+Freeze*F2*WMV;
+Frostbite*F2*WMV;
+Frost Beetle;
+Ghoul*F3;
+Harvest Lord*F2*WMV;
+Ice Wyvern*F3*WMV;
+Icebird;
+Imp*F2;
+Krokomummy*F2;
+Phoenix*F3;
+Pigsie*F6*WMV;
+Punishment;
+Scarab*F5;
+Scarecrow*F2*WMV;
+Skeletal Dragon*F3*WMV;
+Snow Bird;
+Snow Serpent*F2;
+Storm Bird*F4;
+Stormbird;
+Yellow Troll*F4*WMV;
+
+| reagents =
+Amethyst*F2*WMV;
+Brass*F7*WMV;
+Bronze*F3*WMV;
+Bronze Gear*F2*WMV;
+Citrine*F2;
+Copper*F3;
+Iron*F4*WMV;
+Jade;
+Lead*F5;
+Nickel*F5*WMV;
+Onyx*F4*WMV;
+Perfect Amethyst*F3*WMV;
+Perfect Citrine;
+Perfect Jade;
+Perfect Onyx;
+Perfect Peridot*F3*WMV;
+Perfect Ruby;
+Perfect Sapphire;
+Peridot*F3;
+Platinum*F5*WMV;
+Pyrite*F4*WMV;
+Sapphire;
+Scrap Iron*F3*WMV;
+Silver*F5*WMV;
+Spring;
+Steel*F4;
+Tin*F5*WMV;
+
+| spellements =
+
+| snacks =
+Beetle Cream Soda;
+Black Sun Seeds;
+Bunch of Figs*F2*WMV;
+Cranberry Frog;
+Dragon Fruit;
+Drumstick*F2*WMV;
+Hard Boiled Beetle Eggs*F3*WMV;
+Sweet Mango*F3;
+Tiny Fish*F2*WMV;
+Wheat Cracker*F3*WMV;
+Wormy Apple;
+
+| jewels =
+Polished Defense Opal +21;
+Polished Health Opal +87*F5*WMV;
+Polished Mana Opal +38*F6*WMV;
+Polished Mending Opal +5%*F5;
+Polished Resilient Opal +5%*F7*WMV;
+
+| pins =
+
+| pets =
+Crimson Spectre*F7*WMV;
+Skeletal Gladiator*F6*WMV;
+Utility Dragon*F2;
+
+| seeds =
+Evil Snow Peas*F3;
+Frozen Fly Trap*F3;
+Snap Dragon*F2*WMV;
+Sunion*CR*F2;
+White Desparagus*F2;
+
+| mounts =
+Dragon Wings*PERM;
+
+| spells =
+
+}}

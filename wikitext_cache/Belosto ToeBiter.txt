@@ -1,0 +1,212 @@
+{{Stub|which version of the ''{{Link|TreasureCard|Enfeeble}}'' Treasure Card'' this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 20,520
+| crecla = Beetle
+| crecla2 = Insect
+| school = Ice
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Lake Elemental;
+
+| world = Khrysalis
+| location = Moon Cliffs
+| subloc1 = Water Cavern
+| descrip =
+A vile water bug who has taken up residence in a cavern beneath the Bees' Round Dance Shrine, Belosto was reported to have captured the last Mouse King.
+
+| speech =
+:''"Let me pierce your skin!  My saliva will reduce your ego!  Soon, you'll be nothing more than a fleshbag of delicious juices!  I was saving the Mouse king for my nymphs when they hatch.  Maybe I'll feed your pets to them instead.  The babies are always so ravenous."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+He secretes a saliva that melts the abstract concept of ego. Yet that's dwarfed by his tendancy to eat toes. 
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Charm}}{{Icon|Global}}{{Icon|Manipulation}} If a Wizard casts a positive [[:Category:Charm Spells|Charm]], [[:Category:Global Spells|Global]], or [[:Category:Manipulation Spells|Manipulation]] spell, Belosto will interrupt cast a 0-pip Natural Attack, which deals 300 Ice damage plus 600 Ice damage over 3 Rounds.
+**Secondary spell effects will trigger this cheat.
+**Pet spells will not trigger this cheat.
+*{{Icon|Steal}} When a character (ally or enemy) is defeated, he will interrupt cast an Ice Scarecrow that does 900 Ice damage, swapping half to healing.
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Volcanic Shield;
+Legion Shield (-35%);
+Iceblade;
+Ice Trap;
+Balefrost;
+Natural Attack (Belosto);
+Frostbite (80+549);
+Frost Demon;
+Frost Giant (530);
+Lord of Winter;
+Scarecrow;
+
+| quests =
+Feel the Rhythm of the Night;
+
+| gold =
+143 - 180;
+
+| hats =
+Digger's Mining Helmet*F8*WMV;
+The Dragon Wisp*CR*F3;
+
+| robes =
+Battle-Worn Burrower Armor*F2;
+Digger's Mining Vestment*F6*WMV;
+Kermes Fire Miner's Tunic;
+Mantis Plate of Frostfall*F2;
+
+| boots =
+
+| athames =
+
+| amulets =
+Death's Head Talisman*F6*WMV;
+Sacred Burrower Pendant*F2*WMV;
+
+| rings =
+
+| wands =
+Dread Paladin's Doom*F3*WMV;
+Smoking Ichor Spike;
+
+| decks =
+Case of Engulfing Flames*F3*WMV;
+Cell of Survival*F2*WMV;
+House of Harmonic Buzzing*F3*WMV;
+Melting Beeswax Case*F2;
+
+| items =
+Khrysalis Arachna Theme;
+Khrysalis Combat Theme*F2;
+
+| cards =
+Black Widow;
+Choke;
+Clockwork Spider*F4*WMV;
+Crystal Spider;
+Disarm;
+Doom and Gloom*F3;
+Enfeeble;
+Gibson O'Leary;
+Hooligan;
+Legendary Treant (445)*F2*WMV;
+Locust Swarm;
+Lucius McTavish;
+Luminous Weaver*F3*WMV;
+O'Leary Charlatan (Storm)*F2*WMV;
+Patches O'Leary;
+Pierce*F2*WMV;
+Polar Swarm;
+Sanctuary;
+Scrounger;
+Shatter (3 Pip)*F2;
+Sprite Swarm (40+360)*F3*WMV;
+Wildfire Treant*F2*WMV;
+
+| reagents =
+Black Lotus*F3*WMV;
+Black Pearl;
+Blood Moss*F2*WMV;
+Bone*F4*WMV;
+Bronze Gear*F4*WMV;
+Copper;
+Deep Mushroom*F4*WMV;
+Fire Blossom*F2*WMV;
+Fossil*F2*WMV;
+Golden Pearl*F2;
+Iron;
+Lava Lily*F4*WMV;
+Mist Wood*F4*WMV;
+Nightshade;
+Ore*F7*WMV;
+Orichalcum;
+Pyrite*F2*WMV;
+Red Mandrake*F3*WMV;
+Silver;
+Stone Block*F3*WMV;
+Sunstone*F3;
+Turquoise*F4*WMV;
+
+| spellements =
+
+| snacks =
+Flaming Soup;
+Goat Cheese;
+Golden Apple;
+Gummy Bees;
+Hive Rinds*F2*WMV;
+Honey Bombs*F2*WMV;
+Honeycombs*F3*WMV;
+Honeycrisp Apples*F3;
+HoneyDon't Melon*F2*WMV;
+King Banana*F3*WMV;
+Peanut Butterflies;
+Punk Rock Candy*F2*WMV;
+Spicy Stingers*F2*WMV;
+Sugar Khrystals*F4*WMV;
+
+| jewels =
+Cracked Defense Amethyst +12;
+Cracked Defense Ruby +12;
+Dependable Opal;
+Fire-Shot Ruby;
+Health Boost Opal;
+Polished Defense Jade +44;
+
+| pins =
+
+| pets =
+
+| seeds =
+Maelstrom Snap Dragon;
+Queen Crape Myrtle;
+Saw Palmetto*F2*WMV;
+Sugar Khrystal*CR*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

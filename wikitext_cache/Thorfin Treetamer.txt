@@ -1,0 +1,98 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 2,955
+| crecla = Bear
+| school = Fire
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Grizzleheim
+| location = Nastrond
+| subloc1 = Rune Chamber
+| descrip =
+Thorfin Treetamer is a Minion to {{Link|Creature|Agnetta Broadblade}}. All drops, cheats, and speech are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Fireblade;
+Fire Trap;
+Fire Shark;
+Meteor Strike;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Natural Attack (Fire 100x);
+
+| quests =
+The Magic Flute;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,114 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 16,380
+| crecla = Shadow Trickster
+| school = Shadow
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical =
+151 Any;
+
+| criticalblock =
+602 Any;
+
+| outpierce =
+14%;
+
+| outboost =
+89%;
+
+| incboost =
+None;
+
+| incresist =
+42% Any;
+
+| outhealing =
+31%;
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Shadow Blob (4,595);
+
+| world = Darkmoor
+| location = Black Lagoon
+| subloc1 = Cloudy Bog
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Charm}}{{Icon|Curse}}{{Icon|Jinx}} ''"Act, wizard, I always act!"'' - One turn after a wizard casts a hanging buff (Positive/Negative Charm or Negative Ward), Dark Trickster will remove one hanging buff and heal itself for 10% of its maximum HP at the end of each turn for two turns.
+** The type of buff removed corresponds to the most recently cast buff.
+** This cheat can trigger multiple times in one round.
+** Positive and negative auras will not trigger this cheat.
+** Aegis or Indemnity does not prevent the removal.
+** Using an attack before the corresponding hanging effect is removed will prevent this cheat.
+
+| spellnotes =
+
+| casts =
+Virulent Plague;
+Shadowblade;
+Shadow Trap;
+Steal Pip;
+Empower;
+Vampire (Shadow);
+Ominous Scarecrow (Shadow);
+Diablo Qarin (Shadow);
+
+| quests =
+First, It Knocks;
+
+| gold =
+37;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Sun Serpent;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Chocolate Crickets;
+Locust Kabob;
+Shepherd's Crook Pie;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

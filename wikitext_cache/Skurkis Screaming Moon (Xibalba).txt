@@ -1,0 +1,259 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 16,280
+| crecla = Dino
+| crecla2 = Parasaur
+| school = Death
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Night Weaver;
+Shadow Weaver Glider;
+Shambling Zombie;
+
+| world = Azteca
+| location = Xibalba
+| descrip =
+A Shambling Zombie Minion will always join the duel as a summoned Minion.<br/>The first two duel spots will be occupied by any combination of Night Weavers and Shadow Weaver Gliders.
+
+| speech =
+:''"Wizard, you face the ultimate Scream Queen! I'm going to throw down with you and make it look good!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Still more normal than her brother, Skurgo Giggling Sun.
+
+| extract class =
+Dinos;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Minion}} ''"A Necromancer is never alone!"'' - At the beginning of the first Round, Skurkis will summon a Shambling Zombie Minion that enters the duel at the beginning of the second Round and becomes active in the third Round.
+*{{Icon|Heal}} ''"Feed me my minion!"'' - The Shambling Zombie Minion will cast a 0-pip {{Link|Spell|Sacrifice}} on Skurkis for 3,000 healing every 2-3 Rounds.
+*{{Icon|Afterlife}}''"Time to make some new friends!"'' - If the Shambling Zombie Minion dies, Skurkis will summon another one.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Tower Shield;
+Mass Infection;
+Virulent Plague;
+Deathblade;
+Death Trap;
+Feint;
+Death Scarab (Death);
+Natural Attack (Death 195-390-585);
+Wraith;
+Scarecrow;
+Skeletal Dragon;
+Dr. Von's Monster;
+Avenging Fossil;
+
+| quests =
+This Is the Way the World Ends;
+
+| gold =
+193 - 244;
+
+| hats =
+Goofy Pumpkin Mask*CR*HOL;
+Philosoraptor's Abstract Hat*F4;
+Santa Hat*CR*HOL;
+The Legend*CR*F3;
+
+| robes =
+Glorious Xicolli Vest;
+Great Coatl's Scales*F6*WMV;
+Song of the Lizard Coat;
+Storm Caiman's Brave Tunic;
+Tunic of the Broken Spear;
+Vestment of the Calavera;
+
+| boots =
+Black Tears of Night Wraps;
+Great Coatl's Boots*F6*WMV;
+Jaguar Prince's Leapers;
+
+| athames =
+Athame of the Falling Star;
+Vicious Sky's Sacred Athame*F2*WMV;
+
+| amulets =
+Blazing Jade Wing Talisman*F3;
+Horizon of Underworld Charm;
+
+| rings =
+Ring of Aztlan*F3*WMV;
+Seal of Thunder Horn's Glory;
+Underworld Stone;
+
+| wands =
+Baton of New Beginings*CR*HOL;
+Green Maize Quintessence Wand*F4*WMV;
+Nutcracker Prince's Baton*CR*HOL;
+Wand of the March Hare*CR*HOL;
+
+| decks =
+Calendar of the Spiral King;
+Case of the Worldtree*F2*WMV;
+Jaguar Paw Pyramid*F5*WMV;
+
+| items =
+Azteca Dungeon Theme;
+Azteca Mountain Theme*F2*WMV;
+Azteca Post Apocalypse Theme;
+Azteca Swamp Theme*F2*WMV;
+Broadhead;
+Carol of the Bells Theme*HOL;
+Krokopatra Exalted Duel*CR;
+Krokopatra Master Duel*CR;
+Ornate Mask;
+Pathfinder;
+Red Holiday Ornament*HOL;
+Snowglobe*HOL;
+Toucan Mask*F2;
+Yuletide Lg. Keeper Aquarium*CR*HOL;
+Yuletide Reg. Whopper Aquarium*CR*HOL;
+Zeus Exalted Duel*CR;
+
+| cards =
+Basilisk;
+Chastisement;
+Colossal;
+Cycle of Life;
+Empowerment;
+Extraordinary*F2;
+Furnace;
+Galvanic Field;
+Polymorph Icehorn;
+Polymorph Pteranodon;
+Potent Trap*F3*WMV;
+Primordial*F2;
+Punishment;
+Ra;
+Reliquary*F3;
+Sirens;
+Vengeance;
+Virulence*F2;
+Winter Moon*F2;
+
+| reagents =
+Amber Dust*F2*WMV;
+Black Lotus*F6*WMV;
+Blood Moss;
+Bone*F4*WMV;
+Brass;
+Bronze*F4;
+Bronze Gear*F5*WMV;
+Cobalt;
+Deep Mushroom*F4*WMV;
+Fire Blossom*F3*WMV;
+Fossil;
+Lava Lily*F5*WMV;
+Merle's Whisker*F2;
+Mist Wood*F3*WMV;
+Mithril;
+Ore*F3;
+Red Mandrake*F6*WMV;
+Silver;
+Steel*F3*WMV;
+Stone Block*F3*WMV;
+Turquoise*F5*WMV;
+
+| spellements =
+
+| snacks =
+Bedrock Bonbons;
+Cactus Fruit;
+Caramel Apple;
+Chapulines;
+Chili Peppers;
+Fern Jelly;
+Flapjacks;
+Fried Ice Cream*F3*WMV;
+Guava*F2;
+Gummy Wyrms*F2;
+Maize;
+Marzipan Maize;
+Papaya;
+Quetzal Pretzel*F2;
+Saber-Tooth Cider*F2;
+Shiny Tomato; 
+Tenochti-Flan*F4;
+Tortilla Chips;
+Yucca;
+Zocalo Wings;
+
+| jewels =
+Berserk Opal*F2*WMV;
+Clear Critical Jade +9;
+Conviction Talent Opal;
+Cyclops Minion Peridot;
+Disconcert Opal;
+Extra Mana Opal;
+Halt Leader Opal;
+Ice-Giver Sapphire;
+Ice-Shot Sapphire;
+Mend Opal;
+Mend Talent Opal;
+Monstrous Talent Opal;
+Polished Critical Citrine +11;
+Polished Health Opal +86;
+Polished Health Opal +87;
+
+| pins =
+
+| pets =
+Rescue Rover;
+
+| seeds =
+Alligator Pear Tree*F2;
+Angora Bunny Ears;
+Blue Huckleberries;
+Burning Snap Dragon;
+Deadly Fly Trap;
+Deadly Ninja Fig;
+Pink Dandelion*CR;
+White Desparagus;
+
+| mounts =
+Stormrider Hare*PERM*CR*HOL;
+
+| spells =
+
+}}

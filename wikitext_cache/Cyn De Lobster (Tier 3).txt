@@ -1,0 +1,124 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 2,330
+| crecla = Crab
+| school = Storm
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Myth;
+
+| incresist =
+70% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Goonie (Tier 3);
+Goonie (Tier 3);
+Goonie (Tier 3);
+
+| world = Housing Instance
+| location = Baddle of the Bands
+| subloc1 = Baddle of the Bands (Tier 3)
+| descrip =
+
+| speech =
+:''"King Thermidor is the self-appointed king of rock, but he's little more than a lip-syncher in my book. Look, he sent a Wizard to play for him? I guess he's shown his true colors! Bring it, Wizard! I'll show you this girl just wants to have fun!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Storm Damage. (3 Pip max)
+
+| casts =
+Lightning Strike;
+Stormblade (+30%);
+Storm Trap;
+Windstorm;
+Disarm;
+Wild Bolt;
+Catalan;
+Triton;
+
+| quests =
+Baddle of the Bands;
+
+| gold =
+93 - 113;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Short Pillar;
+Tall Pillar;
+Wooden Well Bucket;
+
+| cards =
+Sprite;
+Tempest;
+
+| reagents =
+Acorn;
+Copper;
+Deep Mushroom;
+Diamond;
+Lava Lily;
+Mist Wood;
+Nickel;
+Nightshade;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Golden Squash;
+Redskin Peanut;
+Wheat Cracker;
+
+| jewels =
+Blemished Health Opal +36;
+Blemished PIP Opal +4%;
+Flawed Accurate Citrine +4%;
+Flawed Defense Jade +19;
+Flawed Health Opal +35;
+
+| pins =
+
+| pets =
+
+| seeds =
+Cornbread Fruit Bush;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

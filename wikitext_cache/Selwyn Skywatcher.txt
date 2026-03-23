@@ -1,0 +1,254 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,065
+| crecla = Celestian
+| crecla2 = Undead
+| school = Moon
+| masteries =
+Fire;
+Ice;
+Life;
+Balance;
+
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire;
+
+| incresist =
+35% Ice, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Stellar Protector (Rank 9);
+
+| world = Celestia
+| location = The Stellarium
+| subloc1 = Selwyn's Chamber
+| lootchest = Selwyn Skywatcher's Chest
+| descrip =
+Selwyn Skywatcher is the final Boss in The Stellarium and the protector of the Star of Celestia.
+ 
+| speech =
+:''"Though my home was beyond the stars, I have dwelt in this place for time out of mind, serving and waiting. I will not surrender the secrets of Celestia's magic willingly!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+At times referred to as ol' blue eyes, their only desire is to play among the stars.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Empowerment;
+Guidance;
+Satyr;
+Elemental Blade;
+Elemental Trap;
+Spirit Trap;
+Donate Power;
+Natural Attack (Ice 180);
+Meteor Strike;
+Iron Curse;
+Spirit Blast;
+Spectral Blast;
+Power Nova;
+
+| quests =
+A Star Is Born;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Dragonspyre Badges|Savior of the Spiral]]''' {{Icon|Savior of the Spiral}} Badge and has not unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge, the following drops will be available:
+*9 Spellements will drop each time for their respective rank 3-7 Spells.
+
+| gold =
+70 - 92;
+
+| hats =
+Facade of Fairness;
+Forgotten Facade;
+Molten Mantle*F2;
+Sidhe Cowl*CR;
+Sub Zero Shroud*F5*WMV;
+Thundercloud Coif*F2;
+Vital Headdress;
+
+| robes =
+Costume of Cold Intent*F3*WMV;
+Devoted Vestment;
+Mysterious Costume;
+Sidhe Cloak*CR;
+Storyteller's Tunic;
+Synthesis Smock*F3*WMV;
+Tragic Tunic;
+Turbulent Tunic;
+Whimsical Surcoat*F2;
+
+| boots =
+Boots of Celestian Totality*F2;
+Celestian Abyss Boots;
+Celestian Cinder Shoes*F2*WMV;
+Ice Rangers*F3;
+Reckless Runners*F3*WMV;
+Sidhe Shoes*CR;
+Storied Celestian Sabatons;
+Tolerant Boots;
+Virtue Shoes;
+Wraps of Reverie*F3;
+
+| athames =
+Dagger of Typhoons;
+Forsaken Dagger*F6;
+Frost Giant's Talisman;
+Kris of the Piscean Guard;
+Stellar Shortblade*F2;
+
+| amulets =
+Frost Giant's Talisman*F2;
+Scorched Talisman*F4*WMV;
+
+| rings =
+Loop of Legends*F5*WMV;
+Ring of Rare Origins;
+Sun Circle;
+Typhoon Band;
+Volatile Ring*F5*WMV;
+
+| wands =
+Cursed Staff;
+Insightful Spyglass*F2*WMV;
+Sidhe Staff*CR*F2;
+Staff of Legends*F3*WMV;
+
+| decks =
+
+| items =
+Celestia Mysterious Theme 1*F7*WMV;
+Flowering Celestian Tree*F5*WMV;
+
+| cards =
+Donate Power;
+Fortify;
+Keen Eyes;
+Monstrous*F7*WMV;
+Sanctuary;
+Satyr;
+Skeletal Pirate;
+Strong;
+Vengeance*F11*WMV;
+
+| reagents =
+Cobalt*F4;
+Nickel*F4*WMV;
+Shell;
+Stone Block;
+
+| spellements =
+Banshee*BR*F4*WMV;
+Blight Hound*BR*F3*WMV;
+Centaur*BR*F2;
+Colossus*BR*F3;
+Cyclops*BR*F3*WMV;
+Cyclops Minion*BR*F6*WMV;
+Earth Walker*BR;
+Evil Snowman*BR*F3;
+Fire Dragon*BR*F2;
+Forest Lord*BR*F4*WMV;
+Frost Giant*BR*F2;
+Gearhead Destroyer*BR*F2;
+Helephant*BR*F3;
+Hydra*BR*F2*WMV;
+Ice Wyvern*BR*F3*WMV;
+Immolate*BR*F3*WMV;
+Kraken*BR;
+Locust Swarm*BR;
+Minotaur*BR*F2*WMV;
+Nature's Wrath*BR*F2;
+Orthrus*BR*F2;
+Phoenix*BR*F3;
+Power Nova*BR*F5*WMV;
+Scarecrow*BR*F4*WMV;
+Seraph*BR*F3;
+Skeletal Pirate*BR*F3;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR*F2*WMV;
+Storm Shark*BR*F2;
+Stormzilla*BR*F3*WMV;
+Sunbird*BR*F2;
+Triton*BR;
+Vampire*BR*F2*WMV;
+Wraith*BR*F5*WMV;
+
+| snacks =
+Cauliflowers*F3*WMV;
+Delicious Cookie*F2;
+Glowing Star Fruit*F2*WMV;
+Glowing Taffy;
+Spicy Drumstick*F3*WMV;
+Strawberry Cupcake;
+Submarine Sandwich*F6*WMV;
+
+| jewels =
+Berserk Talent Opal;
+Death-Eye Onyx;
+Death-Shot Onyx;
+Disarmament Amethyst;
+Eager Opal;
+Entangle Jade;
+Fire-Proof Ruby;
+Mega-Boost Opal;
+Plain Defense Amethyst +29;
+Plain Defense Citrine +29;
+Plain Defense Opal +15;
+Plain Defense Peridot +29;
+Plain Defense Ruby +29;
+Plain Health Opal +60;
+Quench Ruby;
+The Deer Knight Rises Onyx;
+Thunder Lizard Amethyst;
+Vaporize Peridot;
+Wisp Bonus Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F3*WMV;
+Maelstrom Snap Dragon*F3;
+Pink Dandelion*CR*F4*WMV;
+Silver Trumpet Vine*CR*F4*WMV;
+
+| mounts =
+
+| spells =
+
+}}

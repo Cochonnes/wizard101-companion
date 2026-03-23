@@ -1,0 +1,196 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 6,760
+| crecla = Giant
+| school = Ice
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Frost Troll;
+Frost Troll;
+Frost Troll;
+
+| world = Grizzleheim
+| location = Nastrond
+| descrip =
+
+| speech =
+:'''{{Link|NPC|Sadric Duskwing}}:''' ''"How did you get down here? No matter... you'll meet the same ruin as the rest of the thane's foolish warband! I will leave you to the mercies of my icy ally here."''
+
+| spellnotes =
+
+| casts =
+Stun Block;
+Iceblade;
+Ice Trap;
+Ice Prism;
+Thieving Dragon;
+Blizzard;
+Ice Wyvern;
+Blight Hound;
+Colossus;
+Tundra Lord;
+Natural Attack (Ice 85x, 80%);
+
+| quests =
+Bridge to Nowhere;
+
+| gold =
+101 - 154;
+
+| hats =
+Barbaric Helm*F2*WMV;
+Cowl of Esprit*F2;
+Cowl of the Dark Waters*F2;
+Cowl of the One Eyed Crow*F2;
+Fire-Forged Horns*F2;
+Grizzled Helm*F2;
+Hardy Horns;
+Horned Helm of Bravery;
+Horned Helm of Courage;
+Horned Helm of Valor;
+Wintry Horns;
+
+| robes =
+Armor of the Poets;
+Baneful Armor*F2*WMV;
+Burnt Coat;
+Chill-Kissed Coat;
+Coat of Ages;
+Coat of Justice;
+Hardy Coat;
+Storm Surge Armor*F2*WMV;
+Valiant Armor*F2;
+
+| boots =
+Barbarian's Brave Boots;
+Barbarian's Courage Boots;
+Barbarian's Daring Boots*F2*WMV;
+Barbarian's Fierce Boots;
+Barbarian's Valorous Boots;
+Boots of Ages*F4*WMV;
+Esprit Boots;
+Raven's Alert Boots;
+Raven's Boots of Balance;
+Raven's Covered Boots;
+Raven's Guarded Boots*F2*WMV;
+Raven's Protected Boots*F2*WMV;
+Raven's Shielded Boots*F2*WMV;
+Raven's Tricksy Boots;
+Thunderstrike Boots;
+
+| athames =
+Bear's Claw of Death;
+
+| amulets =
+Wyrm's Bite Amulet*F2;
+
+| rings =
+Amethyst Ring of Battle*F2;
+Golden Ring of Battle*F2;
+Jade Ring of Battle;
+Peridot Ring of Battle;
+Ring of the Hungry Wolf;
+Ring of Wolf Blood;
+Ring of Wolf Lore*F2;
+Ruby Ring of Battle*F3*WMV;
+Sapphire Ring of Battle*F2;
+
+| wands =
+Horns of Winter Dreams;
+Staff of the Rushing Bear*F2*WMV;
+
+| decks =
+
+| items =
+
+| cards =
+Black Mantle;
+Cloak;
+Doom and Gloom;
+Frozen Armor*F6*WMV;
+Legion Shield*F3*WMV;
+Monstrous;
+Sniper*F2*WMV;
+
+| reagents =
+Cobalt*F3;
+Nickel;
+Spider Silk*F10*WMV;
+Steel*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Cauliflowers;
+Delicious Cookie*F2;
+Flaming Soup;
+Glowing Dragon Fruit*F4*WMV;
+Glowing Star Fruit;
+Glowing Taffy;
+Goat Cheese;
+Golden Apple*F2*WMV;
+Golden Grapes*F2;
+Gummy Humongofrog*F2*WMV;
+King Banana;
+Salmonberry;
+Shiny Tomato;
+Spicy Drumstick;
+Strawberry Cupcake;
+Uni-Corn*F3*WMV;
+
+| jewels =
+Bad Snowman Sapphire;
+Empowerment Talent Opal;
+Get Sunbird Ruby;
+Great Learner Opal;
+Greensleeves Jade;
+Plain Blocking Amethyst +5;
+Plain Defense Opal +16;
+Plain Piercing Peridot +3%;
+Time Skip Sapphire;
+Vengeance Talent Opal;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Burning Snap Dragon;
+Deadly Fly Trap;
+Fickle Pickle;
+Helephant Ears;
+Orange Dandelion;
+Trumpet Vine;
+White Desparagus*F3;
+
+| mounts =
+
+| spells =
+
+}}

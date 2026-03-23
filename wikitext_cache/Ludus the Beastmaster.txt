@@ -1,0 +1,385 @@
+{{Stub|which version of the '''''Mutate''''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,880
+| crecla = Moose
+| school = Balance
+| masteries =
+Myth;
+
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| shadowslots = 2
+| critical =
+
+| criticalblock =
+
+| outpierce =
+2%;
+
+| outboost =
+40%;
+
+| incboost =
+15% Storm;
+
+| incresist =
+80% Myth, Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Attack Sea Lion;
+
+| petbreed = Beastmaster's Eagle
+| world = Polaris
+| location = Urville Station
+| subloc1 = The Kennels
+| descrip =
+
+| speech =
+:''"What's this, eh? How did you get past...? Never mind. You may have bested the beasts, but you'll never best the Beast Master!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tardiness will not be tolerated!"'' - If a Wizard joins after the duel has started, Ludus the Beastmaster will cheat-cast {{Link|Spell|Mana Burn}} at the Wizard.
+*{{Icon|Minion}} ''"My beasts will defend me!"'' - Every 4 Rounds, he will cast {{Link|Spell|Attack Sea Lion}} which summons an Attack Sea Lion.
+*{{Icon|Feint}} ''"Why don't we trade!"'' - If a {{Link|Spell|Feint}} is placed on Ludus, he will cast an Ice version of {{Link|Spell|Swap Ward}} which swaps the Traps so that the higher percentage is on the Wizard.
+**{{Link|Spell|Melt}} can be used to Dispel this cheat.
+**{{Link|Spell|Indemnity}} can be used to prevent this cheat.
+**{{Link|Spell|Mass Feint (+75%)}} will not trigger this cheat.
+*{{Icon|Trap}} ''"I alone can unleash these beasts!"'' - If a [[:Category:Trap Spells|Trap]] is placed on an Attack Sea Lion, he will interrupt-cast {{Link|Spell|Cleanse Ward}}.
+**{{Link|Spell|Vaporize}} can be used to Dispel this cheat.
+*{{Icon|Curse}} ''"Ha! We shake off your measly charms!"'' - Whenever a single target negative Charm (excluding Dispel) is placed on a Minion, he will cast {{Link|Spell|Cleanse Charm}}.
+**Secondary Spell debuffs will trigger this cheat.
+*{{Icon|Damage}} ''"No one hurts my beasts but me!"'' - If a Wizard attacks one of the Attack Sea Lions, he will interrupt-cast {{Link|Spell|Berserk}}.
+*{{Icon|Minion}}{{Icon|Afterlife}} ''"My beast! Must... Avenge... GRR!"'' - If an Attack Sea Lion is defeated, he will cast an enhanced version of {{Link|Spell|Berserk}} ('''+45%'''/'''+35%''').
+
+| spellnotes =
+*His Beastmaster's Eagle Pet casts Bladestorm.
+
+| casts =
+Weakness;
+Balanceblade;
+Bladestorm;
+Shatter;
+Attack Sea Lion;
+Mana Burn;
+Scorpion (185-225);
+Savage Paw;
+Sabertooth;
+Natural Attack (Myth 115-225-335);
+Humongofrog (310-370);
+Orthrus;
+
+| quests =
+Master of Beasts;
+The Kennels;
+
+| gold =
+665 - 1,920;
+
+| hats =
+Enchanter's Fervid Hat;
+Enchanter's Hat of Poise;
+Enchanter's Ice Floe Hat;
+Enchanter's New Horizon Hat;
+Fancy Tundarian Papakh*F2*WMV;
+The Goat Horns*CR;
+The Enchanter*CR;
+The Ice Horns*CR;
+The Kroktop*CR*F2;
+The Manticore*CR;
+The Stalwart Guardian*CR;
+The Warlock*CR;
+Tundarian Bear's Papakh*F2*WMV;
+Tundarian Cap of Rage;
+Tundarian Fur Hat of Dread*F3*WMV;
+Tundarian Furcap of Flux*F2*WMV;
+Tundarian Papakh of Resolve;
+
+| robes =
+Fancy Tundarian Chokha;
+Tundarian Chokha of Flux*F2*WMV;
+Tundarian Coat of Fusion;
+Tundarian Jacket of Resolve;
+Tundarian Uniform of Rage*F2;
+
+| boots =
+Enchanter's Clogs of Poise;
+Enchanter's Terminus Shoes;
+Tundarian Boots of Resolve;
+Tundarian Icecleats;
+Tundarian Mukluks of Fusion;
+Tundarian Stalkers of Rage;
+Tundarian Striders of Flux*F2*WMV;
+
+| athames =
+Enchanter's Dirk of Lightning*F2*WMV;
+Enchanter's Knife of Poise*F2*WMV;
+Enchanter's New Horizon Razor;
+Enchanter's Talon of Courage*F2*WMV;
+Enchanter's Terminus Chisel;
+
+| amulets =
+Arcanum Exile Amulet of Vim;
+Enchanter's Ampul of Courage;
+Enchanter's Fervid Carcanet*F2*WMV;
+Enchanter's Ice Floe Charm*F2*WMV;
+Enchanter's New Horizon Charm;
+Enchanter's Pendant of Poise;
+Enchanter's Reverie Pendant;
+Enchanter's Terminus Amulet;
+Enchanter's Torc of Lightning*F2*WMV;
+Tayg Somber Ampul;
+
+| rings =
+Enchanter's Fervid Circle;
+Enchanter's Ice Floe Band*F2*WMV;
+Enchanter's Loop of Courage*F3*WMV;
+Enchanter's Reverie Band;
+Enchanter's Ring of Lightning*F2;
+Enchanter's Ring of Potential*F2*WMV;
+Enchanter's Seal of Poise;
+Tayg Ring of Folklore;
+
+| wands =
+Forlorn Tayg Curved Axe;
+Tayg Bardiche of Steam;
+Tayg Handaxe of Leveling*F2*WMV;
+Tayg Hatchet of Sleetfall*F2*WMV;
+Tayg Hatchet of Vitality;
+Tundarian Iceblade;
+Tundarian Saber of Rage;
+
+| decks =
+Enchanter's Bevy of Flux;
+Enchanter's Case of Rage;
+Enchanter's Hand of Resolve;
+Hand of the Forlorn Tayg;
+Sleetfall Array of the Tayg*F2*WMV;
+Snowbound Tayg Gallery*F2*WMV;
+Tayg Deck of Wrath*F2;
+Tayg Hand of Folklore;
+Tayg Pack of Vitality*F2*WMV;
+Tayg Pasteboards of Steam;
+Tayg Set of Leveling;
+
+| items =
+Arcanum Theme*F2*WMV;
+Lg Wood Wall Block*F3*WMV;
+Md Wood Wall Block*F2*WMV;
+Polaris Frozen Forest Theme;
+Polaris Gulag Combat Theme;
+Polaris Gulag Theme*F3;
+Polaris Ice Block Theme;
+Polaris Mine Combat Theme*F3*WMV;
+Polaris Mine Theme*F4*WMV;
+Polaris Opera Theme;
+Polaris Rasputin Combat Theme;
+Walruskberg Liberated Theme;
+Walruskberg Theme;
+Wood Arch Block*F3*WMV;
+Wood Corner Block*F2*WMV;
+Wood Post Block;
+Wood Window Block*F2*WMV;
+
+| cards =
+Age of Reckoning;
+Ashen Bones;
+Combustion*F4*WMV;
+Counterforce*F2*WMV;
+Crystal Spider*F2;
+Dragonspear;
+Fiery Colossus;
+Firespear;
+Frostfang;
+Icebird;
+Icespear*F2*WMV;
+Lifespear;
+Magma Colossus;
+Mutate Colossus;
+Mythspear*F2;
+Namaste*F2*WMV;
+Nested Fury;
+Obsidian Colossus (420);
+Raging Bull;
+Rusalka's Wrath*F2*WMV;
+Saga of Heroes*F2;
+Sandstone Colossus;
+Shock Colossus;
+Snowball Barrage*F2*WMV;
+Stone Colossus;
+Winged Sorrow*F2*WMV;
+Witch's House Call;
+Yellow Troll;
+
+| reagents =
+Aether*F5*WMV;
+Agave Leaves*F3*WMV;
+Agave Nectar*F2*WMV;
+Amber*F3*WMV;
+Amber Dust*F3*WMV;
+Aquamarine*F4*WMV;
+Astral Shard*F3*WMV;
+Braided Vine*F3*WMV;
+Draconium*F2*WMV;
+Fire Blossom*F6*WMV;
+Fish Fin*F3*WMV;
+Golden Pearl*F5*WMV;
+Merle's Whisker*F2*WMV;
+Mithril*F5*WMV;
+Orichalcum*F2*WMV;
+Scales*F2*WMV;
+Silver*F5*WMV;
+Stardust*F3*WMV;
+Steel*F7*WMV;
+Sunstone*F8*WMV;
+Titanium*F2*WMV;
+Tungsten*F4*WMV;
+Turquoise*F3*WMV;
+Vine*F2*WMV;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate;
+Beast Wellington*F5*WMV;
+Chalupacabra*F5*WMV;
+Deepwater Toffee;
+Eye Candy*F2*WMV;
+Granny Snow Apple;
+High Road Haggis;
+Hot Cross Buns*F2*WMV;
+Jolly Rancher;
+Mustachios*F3*WMV;
+Penne Dreadful*F3*WMV;
+Polaris Fries*F4*WMV;
+Rhubarbed Wire;
+Satyr Chow*F5*WMV;
+Ships 'n' Queso*F3*WMV;
+Snow Apple Cider*F3*WMV;
+Snow Apple Pie;
+Veggie Juice*F5*WMV;
+
+| jewels =
+Ally Precision Citrine;
+Balance-Dealer Citrine*F2*WMV;
+Balance-Giver Citrine;
+Balance-Ward Citrine*F2*WMV;
+Brown Recluse Jade;
+Death-Away Onyx;
+Death-Boon Onyx;
+Death-Eye Onyx;
+Death-Giver Onyx;
+Death-Ward Onyx;
+Draconian Opal;
+Dual Balanceblade Citrine*F2*WMV;
+Dual Deathblade Onyx;
+Dual Fireblade Ruby*F2*WMV;
+Dual Iceblade Sapphire*F2*WMV;
+Dual Lifeblade Jade*F2*WMV;
+Dual Mythblade Peridot*F3*WMV;
+Dual Shadowblade Hematite;
+Dual Stormblade Amethyst*F4*WMV;
+Fire-Eye Ruby;
+Fire-Giver Ruby;
+Fire-Proof Ruby;
+Fire-Shot Ruby;
+Fire-Sniper Ruby;
+Healer Opal;
+Ice Striker Sapphire;
+Ice-Away Sapphire;
+Ice-Dealer Sapphire;
+Ice-Eye Sapphire;
+Ice-Shot Sapphire;
+Ice-Ward Sapphire;
+Life Assailant Jade;
+Life-Boon Jade;
+Life-Giver Jade;
+Life-Proof Jade;
+Life-Ward Jade;
+Lively Opal*F2*WMV;
+Lustrous Accurate Amethyst +11%;
+Lustrous Accurate Citrine +11%;
+Lustrous Accurate Hematite +11%;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Citrine +14;
+Lustrous Blocking Hematite +14;
+Lustrous Blocking Ruby +14*F2*WMV;
+Lustrous Critical Hematite +14;
+Lustrous Critical Opal +7*F3*WMV;
+Lustrous Critical Ruby +14;
+Lustrous Critical Sapphire +14;
+Lustrous Damage Opal +12*F3*WMV;
+Lustrous Damage Sapphire +24;
+Lustrous Defense Amethyst +47;
+Lustrous Defense Amethyst +48;
+Lustrous Defense Citrine +47;
+Lustrous Defense Jade +48;
+Lustrous Defense Onyx +48;
+Lustrous Defense Peridot +47;
+Lustrous PIP Hematite +1*F2*WMV;
+Lustrous PIP Opal +10%*F2*WMV;
+Medic Opal;
+Myth Assailant Peridot;
+Myth-Shot Peridot;
+Pain-Bringer Opal;
+Polished Accurate Ruby +10%;
+Polished Blocking Sapphire +12;
+Polished Critical Citrine +11;
+Polished Damage Hematite +42;
+Polished Defense Jade +44;
+Polished Piercing Hematite +5%;
+Spartan Jade;
+Storm Striker Amethyst;
+Storm-Away Amethyst;
+Storm-Boon Amethyst;
+Storm-Dealer Amethyst;
+Storm-Eye Amethyst;
+Storm-Giver Amethyst;
+Storm-Proof Amethyst;
+Storm-Shot Amethyst;
+Stun Resistant Opal;
+
+| pins =
+
+| pets =
+Arctic Ninja Pig*CR;
+Beastmaster's Eagle*F2*WMV;
+Glacier Dragon;
+Intrepid Seal Pup;
+Mountain Yeti*CR;
+Polar Bear Cub*CR;
+Snowball*CR;
+White Winter Owl*F2;
+
+| seeds =
+Angel Oak*F3*WMV;
+Boiled Peanuts;
+Cornbread Fruit Bush;
+Couch Potatoes*CR*F2;
+Deadly Fly Trap*F4*WMV;
+Evil Snow Peas*F3*WMV;
+Fish on a Vine*F4*WMV;
+Frozen Fly Trap*F3*WMV;
+Green Snow Apples*F4*WMV;
+Moon Flower*F2*WMV;
+Pink Huckleberries;
+Purple Snow Apples*F2*WMV;
+Queen Crape Myrtle*F2*WMV;
+Snow Apples*F4*WMV;
+Ultra Fly Trap*F2*WMV;
+Ultra Snow Apples*F2*WMV;
+Venus Fly Trap*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,215 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 11,160
+| crecla = Gorilla
+| school = Death
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Blackback Thrall;
+
+| world = Khrysalis
+| location = Last Wood
+| subloc1 = Grim Mimo's Cave
+| descrip =
+Grim Mimo holds {{Link|NPC|Florian SunFlare}} captive in her lair.
+
+| speech =
+:''"Outsider, why do you intrude on my lair?  I am a devotee of the Shadow Queen, and have traveled from far Zafaria to serve her.  Do you think a petty magician like yourself can hope to stop me?"''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Deathblade;
+Natural Attack (Death 155-250-345);
+Vampire;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+Skeletal Dragon;
+Dr. Von's Monster;
+
+| quests =
+Lost Signal;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*5 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+| gold =
+129 - 156;
+
+| hats =
+
+| robes =
+Burrower's Rainstorm Gear*F3*WMV;
+Digger Drone Tactical Garb*F4*WMV;
+
+| boots =
+CloudDancer's Footwraps;
+Digger Drone Boots of Duty;
+Flame Legs Coalwalkers;
+Mantis Boots of Patience;
+
+| athames =
+Burrower Claw of Unrest;
+Royal Guard's Shortblade;
+
+| amulets =
+Amulet of the Mouse Scout;
+Blue Razor Collar;
+Locket of the QuietOne*F3*WMV;
+
+| rings =
+Moon's Tear Band;
+Mouse Knight's Loop;
+Royal Guard's Signet*F3*WMV;
+Seal of the WoodWard*F2;
+Tyrian Gorge Stone*F4*WMV;
+
+| wands =
+BlackFur's Blade;
+Long Edge of BrightEyes;
+RunningBuck's Razor;
+WhiteHart's Justice;
+
+| decks =
+Bumbler's Sleetfall Pack;
+Case of Engulfing Flames*F2;
+Lightning Rider's Deck*F2;
+
+| items =
+Khrysalis Bastion Theme*F2*WMV;
+Khrysalis Thrives Theme*F3*WMV;
+
+| cards =
+Black Widow;
+Choke*F2*WMV;
+Death Scarab;
+Disarm;
+Fire Beetle;
+Frost Beetle;
+Giant Spider;
+Life Scarab;
+Mass Infection;
+Pierce;
+Sanctuary*F2;
+Scorpion*F2*WMV;
+
+| reagents =
+Black Lotus;
+Black Pearl;
+Blood Moss*F2;
+Bone*F3*WMV;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F3*WMV;
+Fire Blossom*F2;
+Golden Pearl;
+Iron;
+Lava Lily*F4*WMV;
+Mist Wood*F3*WMV;
+Nickel;
+Nightshade*F3*WMV;
+Ore*F3*WMV;
+Red Mandrake*F3*WMV;
+Stone Block*F3*WMV;
+Sunstone;
+Tungsten;
+Turquoise*F3*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR*F2;
+Celestial Calendar*BR;
+Chimera*BR;
+Dr. Von's Monster*BR;
+Efreet*BR*F2;
+Fire Dragon*F2*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR*F2;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR*F2;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR*F2;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR*F2;
+Sirens*BR*F2;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Cauliflowers;
+Dr. Jalapeno;
+Flaming Soup*F3*WMV;
+Flapjacks;
+Glowing Dragon Fruit;
+Glowing Star Fruit;
+Goat Cheese;
+Golden Grapes;
+Salmonberry*F2*WMV;
+Shiny Tomato;
+Submarine Sandwich*F2;
+Uni-Corn*F3*WMV;
+
+| jewels =
+Animate Onyx;
+Chipped Mana Opal +10;
+Cracked Defense Opal +4;
+Polished Defense Onyx +44;
+Polished Defense Opal +21;
+Polished Defense Ruby +43;
+Polished Mending Opal +5%;
+Polished Piercing Jade +6%
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+Fish on a Vine;
+Queen Crape Myrtle;
+
+| mounts =
+
+| spells =
+
+}}

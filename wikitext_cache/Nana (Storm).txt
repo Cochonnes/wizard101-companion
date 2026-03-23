@@ -1,0 +1,342 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 9,200
+| crecla = Hamster
+| school = Storm
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+29%;
+
+| outboost =
+125%;
+
+| incboost =
+5% Myth;
+
+| incresist =
+70% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Sentimentalist;
+
+| world = Karamelle
+| location = Black Licorice Forest
+| subloc1 = Logging Camp Warehouse
+| descrip =
+
+| speech =
+:''"You do realize you are now stealing from Nana, sweetie? Oh, Nana simply cannot let you do that."''
+
+| spellnotes =
+
+| casts =
+Thermic Shield;
+Stormspear;
+Lightning Strike;
+Stormblade;
+Storm Trap;
+Catalan;
+Hammer of Thor;
+Natural Attack (Storm 130x, 4 Pip max);
+Kraken;
+Storm Lord;
+
+| quests =
+Sugar Plum Rotten;
+Gum Runner;
+
+| gold =
+213 - 418;
+
+| hats =
+Executive Biohazard Hood;
+Producer's Survival Hood;
+Supervisor Biohazard Hood;
+Supervisor Cryo Hood;
+Supervisor Pressure Hood;
+
+| robes =
+Chief's Insulated Suit;
+Chief's Pressure Suit;
+Supervisor Pressure Suit;
+
+| boots =
+Director Hazmat Boots*F2;
+Producer's Thermal Boots;
+Supervisor Hazmat Boots;
+
+| athames =
+Director Hazmat Knife;
+
+| amulets =
+Director Hazmat Rope;
+Director Survival Rope;
+Lead's Pressure Rope;
+Supervisor Survival Rope;
+
+| rings =
+Director Hazmat Ring;
+Director Insulated Ring;
+Director Pressure Ring;
+Lead's Cryo Ring;
+
+| wands =
+Chief's Pressure Meter;
+Director Biohazard Meter;
+
+| decks =
+Lead's Cryo Box;
+Lead's Hazmat Box;
+Producer's Survival Box;
+
+| items =
+Gumdrop Tree;
+Karamelle Barrel;
+Karamelle City Theme;
+Karamelle Forest Combat Theme;
+Karamelle Jingle Theme*F3;
+Karamelle Neglected Com Theme*F2*WMV;
+Karamelle Neglected Theme*F2;
+Karamelle Rural Theme;
+Karamelle Worker Theme;
+Licorice Tree;
+Rock Candy Mountains Poster*F2;
+Trash Pile (Outdoor);
+Von Trap Estate Poster;
+
+| cards =
+Berserk;
+Death Prism*F2;
+Dream Shield;
+Elemental Shield*F2;
+Firespear;
+Flute Symphony;
+Frostbite*F2;
+Galvanic Field;
+Icespear;
+Lifespear;
+Link;
+Myth Prism;
+Mythspear;
+Sirens;
+Storm Shield;
+Stormspear;
+Zounds...Bees!*F2*WMV;
+
+| reagents =
+Aether*F2;
+Agave Leaves;
+Amber*F3;
+Amber Dust*F3;
+Aquamarine*F6;
+Astral Shard*F5;
+Braided Vine*F3;
+Draconium*F4;
+Fire Blossom*F4;
+Glass Sliver*F2;
+Golden Pearl*F7;
+Karamelle Chunk*F2;
+Merle's Whisker;
+Mithril*F7;
+Orichalcum*F2*WMV;
+Scales*F4*WMV;
+Silver*F3*WMV;
+Stardust;
+Steel*F11*WMV;
+Sunstone*F4*WMV;
+Titanium*F5;
+Toffee Bean*F11*WMV;
+Tungsten*F6;
+Turmeric*F3;
+Turquoise*F2;
+Vine;
+
+| spellements =
+Grrnadier*F3*WMV;
+Mockenspiel;
+S'more Machine*F9*WMV;
+Shatterhorn;
+Snack Attack*F10*WMV;
+Sound of Musicology*F2*WMV;
+Tatzlewurm Terror;
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate;
+BBQ Drumstick;
+Beast Wellington*F2*WMV;
+Bread Fruit Fruit*F4;
+Cherry Pie;
+Crackle Jacks Cereal*F2*WMV;
+Decimatoes*F2;
+Discord Grape Jelly;
+Dragon Fruit*F4*WMV;
+Drumstick;
+Eye Candy*F6*WMV;
+Fern Jelly*F2*WMV;
+Fire Passion Fruit;
+Frosty Sugar Cubes;
+Glowing Star Fruit*F5*WMV;
+Glowing Taffy*F4;
+Green Tomato;
+Hot Cross Buns*F2;
+Krakamari*F2;
+Pizza*F3;
+Rhubarbed Wire;
+Rock and Roll Candy*F2;
+Roly Poly Fishheads*F4;
+Satyr Chow*F4;
+Ships 'n' Queso*F3;
+Sprinkle Cupcake*F4;
+Tasty Rainbow;
+Veggie Juice*F5;
+Waterworks Wonton*F4;
+Wheat Cracker*F2;
+
+| jewels =
+Ally Dragonblade Citrine;
+Ally Precision Citrine;
+Ally Spirit Shield Citrine;
+Ally Tower Shield Sapphire;
+Animate Skeleton Onyx;
+Balance-Boon Citrine;
+Balance-Eye Citrine;
+Balance-Giver Citrine;
+Balance-Off Citrine;
+Critical Striker Opal;
+Death-Away Onyx;
+Death-Boon Onyx*F2;
+Death-Sniper Onyx;
+Death-Ward Onyx*F2;
+Fire-Ward Ruby*F2;
+Ice Assailant Sapphire*F2;
+Ice Striker Sapphire;
+Life-Away Jade;
+Life-Boon Jade;
+Life-Eye Jade;
+Life-Giver Jade;
+Life-Proof Jade;
+Lively Opal;
+Medic Opal;
+Myth-Eye Peridot*F2;
+Pip Boost Opal;
+Rage of Winter Sapphire;
+Shiny Accurate Amethyst +12%;
+Shiny Blocking Onyx +16;
+Shiny Critical Citrine +16;
+Shiny Critical Jade +16;
+Shiny Damage Opal +13;
+Shiny Damage Ruby +26;
+Shiny Defense Peridot +49;
+Shiny Health Opal +111*F2;
+Shiny Mana Opal +46*F2*WMV;
+Sparkling Blocking Peridot +17;
+Sparkling Critical Onyx +17;
+Sparkling Critical Peridot +17;
+Sparkling Critical Sapphire +17;
+Sparkling Damage Amethyst +27;
+Sparkling Damage Jade +27;
+Sparkling Damage Peridot +27;
+Sparkling Defense Citrine +53;
+Sparkling Defense Jade +53;
+Sparkling Defense Opal +27;
+Sparkling Defense Ruby +53*F2;
+Sparkling Defense Ruby +54*F2;
+Sparkling Defense Sapphire +53;
+Sparkling Defense Sapphire +54;
+Sparkling Health Opal +116*F3;
+Sparkling Health Opal +119*F2;
+Sparkling Mana Opal +49;
+Spell-Proof Opal;
+Storm Assailant Amethyst;
+Storm-Dealer Amethyst;
+Storm-Proof Amethyst;
+Storm-Shot Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F5;
+Angel Oak*F2;
+Angora Bunny Ears*F8*WMV;
+Baby Carrots*F4;
+Bell Pepper*F7;
+Blue Huckleberries*F2;
+Boiled Peanuts*F6*WMV;
+Boom Shroom*F4;
+Bread Fruit Bush*F6*WMV;
+Burning Snap Dragon;
+Cornbread Fruit Bush*F8;
+Dandelion*F2;
+Deadly Fly Trap*F2;
+Deadly Helephant Ears;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Evil Magma Peas*CR*F4*WMV;
+Evil Snow Peas*F3;
+Face Palm*F4;
+Fickle Pickle*F2;
+Fiery Boom Shroom*F4;
+Fish on a Vine*F5;
+Frozen Fly Trap*F2;
+Grapes of Wrath*CR*F5;
+Green Snow Apples*F2;
+Helephant Ears*F3;
+Honey Bee Plant*F2;
+Honey Sickle;
+Ivy League*CR*F4;
+Key Limes*CR;
+King Parsley*CR;
+Laugh-O-Dil*F2;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily*F4*WMV;
+Missile Toe*F3;
+Moon Flower*F2;
+Ninja Fig*CR*F2;
+Orange Bell Pepper*CR;
+Pink Huckleberries*F10;
+Purple Bell Pepper*F2;
+Purple Grapes of Wrath*F3;
+Queen Crape Myrtle*F2*WMV;
+Red Bell Pepper*F2;
+Red Grapes of Wrath;
+Red Huckleberries*F6;
+Rye Bread Fruit Bush*F2*WMV;
+Saw Palmetto*F5;
+Silver Trumpet Vine*CR;
+Snap Dragon*F2;
+Snow Apples*F2;
+Sugar Khrystal*CR*F2;
+Sunion*CR;
+Tiger Lily (Seed)*F4;
+Ultra Fly Trap;
+Ultra Huckleberries;
+Ultra Ninja Fig;
+Ultra Snap Dragon*F2*WMV;
+Ultra Snow Apples;
+Ultra Tiger Lily;
+Venus Fly Trap;
+White Desparagus*F2;
+White Laugh-O-Dil*F3*WMV;
+White Tiger Lily;
+Yellow Bell Pepper*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

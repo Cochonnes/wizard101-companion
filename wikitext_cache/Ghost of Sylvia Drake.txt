@@ -1,0 +1,183 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 2,400
+| crecla = Undead
+| school = Life
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Crying Spirit;
+
+| world = Dragonspyre
+| location = The Necropolis
+| subloc1 = Sylvia Drake's Tomb
+| descrip =
+Sylvia Drake was the former Life teacher in {{Link|Location|Ravenwood}} and wife of {{Link|Creature|Malistaire Drake}}. Drake's grief over Sylvia's sudden illness and death has caused him to attempt to use the Krokonomicon to bring her back to life. Cyrus Drake sends Wizards to explore her tomb in the Necropolis, where they discover that Sylvia has become a Wraith, and must be defeated in combat to be released from her captivity. 
+*Two additional Crying Spirits will appear if more than two Wizards are present.
+
+| speech =
+:''"Malistaire? Is that you? Have you come for me? It's so cold here... so dark and I'm so alone... You're not Malistaire! What have you done to him?! I won't harm him... you'll never get me to betray my beloved husband!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+Even in death, poor Sylvia Drake can't have five minutes of alone time without her super clingy husband whining for attention.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 110 Life Damage per Pip.
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Sprite;
+Lifeblade;
+Life Trap;
+Leprechaun;
+Seraph;
+Centaur;
+Locust Swarm;
+Cyclops;
+Storm Shark;
+Meteor Strike;
+Heck Hound;
+
+| quests =
+The Glamorous Life;
+
+| gold =
+98 - 190;
+
+| hats =
+Cap of the Unflinching*F3*WMV;
+Coif of Quietus;
+Cowl of the Glacier*F2;
+Halcyon Hood;
+Helm of Oblivion*F3;
+Hood of the Ranger;
+Ivy-Wrapped Cap*F2;
+Mantle of the Icicle;
+Promethean Hood;
+Shroud of the Equinox;
+
+| robes =
+Arboreal Robes;
+Final Curtain;
+Robe of the Gale;
+Robe of the Greatest Saga;
+Salamander's Wrap*F4;
+Shibboleth Smock;
+Smock of the Frost Giant;
+Snowflower Cloak*F3*WMV;
+Storm Giant's Surcoat;
+Storyteller's Smock;
+Sylvia Drake's Funeral Drape*F3;
+Terminus Wrap;
+Tunic of the Atheneum;
+Tunic of the Sphinx;
+Verdant Vestment;
+
+| boots =
+Boots of the Bountiful;
+Dragonclaw Boots;
+Sandals of Scorching*F2;
+Sandals of Zest;
+Shoes of the Whispering Dark;
+Sylvia Drake's Chilled Sandals*F2;
+Undying Footwraps*F2;
+
+| athames =
+Athame of the Volcano*F3*WMV;
+Dragon's Eye Dagger;
+Sliver of Doubt*F3;
+
+| amulets =
+
+| rings =
+Band of Balance*F2;
+Band of the Hearth;
+Dragonscale Ring;
+Ring of the Carbuncle*F3*WMV;
+Sapphire Studded Band*F4;
+
+| wands =
+
+| decks =
+
+| items =
+Long Corner Wall Ruins;
+
+| cards =
+
+| reagents =
+Cobalt;
+Ectoplasm*F4*WMV;
+Iron;
+Lead;
+Nickel*F3;
+Tin;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F5*WMV;
+Goat Cheese*F2;
+Golden Grapes*F2;
+Gummy Humongofrog*F3;
+King Banana*F2*WMV;
+
+| jewels =
+Blemished Health Opal +44;
+Dull Damage Amethyst +13;
+Earthquake Peridot;
+Rugged Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2;
+Fiery Boom Shroom*F2;
+King Parsley*CR*F2;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F2;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

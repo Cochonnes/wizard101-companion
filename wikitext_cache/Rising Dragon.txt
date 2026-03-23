@@ -1,0 +1,97 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 13,115
+| crecla = Wyrm
+| school = Storm
+| startpips = 6
+| powerpips = Yes
+| critical =
+722 Any;
+
+| criticalblock =
+387 Any;
+
+| outpierce =
+29%;
+
+| outboost =
+138%;
+
+| incboost =
+30% Myth;
+
+| incresist =
+29% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+59% Storm;
+
+| outhealing =
+8%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Dragonspyre
+| location = The Forum
+| subloc1 = Hall of Indolence
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Starfall;
+Weakness;
+Catalan (Tier 3c);
+Thermic Golem (Tier 2b);
+Leviathan (Tier 3b);
+Turmoil Oni;
+
+| quests =
+Chariot of Fire;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

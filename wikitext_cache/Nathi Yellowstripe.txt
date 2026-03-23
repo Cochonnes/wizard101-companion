@@ -1,0 +1,152 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 6,335
+| crecla = Zebra
+| crecla2 = Equine
+| school = Myth
+| startpips = 5
+| powerpips = Yes
+| critical =
+72;
+
+| criticalblock =
+38;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Jackal Bandit;
+
+| world = Zafaria
+| location = Zamunda Outskirts
+| subloc1 = Nathi's Clearing
+| descrip =
+
+| speech =
+:''"Be warned, Wizard. I am a coward no more. Face me in battle if you dare!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Zafaria
+| tome description =
+Branded with the ignominious yellow stripe to remind everyone that he's a boo-hoo, baby, scaredy, waredy cat.
+
+| extract class =
+Equine;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| casts =
+Amplify;
+Infallible;
+Mythblade;
+Myth Trap;
+Natural Attack (Myth 90-190-295);
+Humongofrog;
+Myth Imp;
+Minotaur;
+Earthquake;
+Orthrus;
+Medusa;
+
+| quests =
+Four Feathers;
+
+| gold =
+74 - 100;
+
+| hats =
+River Captain's Hood;
+
+| robes =
+
+| boots =
+Baxby's Noble Trackers;
+
+| athames =
+
+| amulets =
+
+| rings =
+Kakenya's Broken Band*F2;
+Nergal's Burning Brand;
+Tanei's Ghost Ring;
+Vir's Zafarite Stone;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Fortify;
+Infallible;
+Shatter (2 Pip)*F4*WMV;
+Stun Block;
+Talos*F2*WMV;
+
+| reagents =
+Brass;
+Bronze Gear*F5;
+Cobalt;
+Deep Mushroom;
+Nickel*F2;
+Spider Silk*F3*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Delicious Cookie*F2*WMV;
+Flaming Soup;
+Flapjacks;
+Goat Cheese;
+Golden Apple;
+Golden Grapes;
+Gummy Humongofrog;
+Jelly Baby;
+King Banana;
+Spicy Drumstick;
+Strawberry Cupcake;
+Submarine Sandwich;
+
+| jewels =
+Myth-Proof Peridot;
+Plain Damage Peridot +16;
+
+| pins =
+
+| pets =
+
+| seeds =
+Cornbread Fruit Bush;
+Helephant Ears;
+Orange Dandelion;
+
+| mounts =
+
+| spells =
+
+}}

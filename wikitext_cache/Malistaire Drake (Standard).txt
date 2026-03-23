@@ -1,0 +1,127 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 48,000
+| crecla = Wizard
+| school = Death
+| school2 = Fire
+| cheats = Yes
+| startpips = 7
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| summons =
+Sylvia Drake (Standard);
+
+| world = Housing Instance
+| location = Malistaire Rematch
+| descrip =
+*For the purpose of drops, Malistaire Drake (Rematch) is considered a Boss.  All drops are recorded on this page.
+*For the Challenge version of this battle, see {{Link|Creature|Malistaire Drake (Challenge)}}.
+
+| speech =
+
+| cheatnotes =
+{{Icon|Death}}{{Icon|Fire}} '''Malistaire Drake:'''
+*{{Icon|Round}} ''"As long as Sylvia and I are together- Nothing can stop us!"'' - When Malistaire is together with Sylvia at the beginning of every Round, {{Link|Spell|Virulent Plague (Shadow, -100%)}} is cast on all Wizards.
+*{{Icon|Minion}}{{Icon|Afterlife}} ''"Noooo!"''' - Malistaire will remove all negative Damage Charms from all Wizards with a Myth version of {{Link|Spell|Cleanse Charm}} after Sylvia Drake has been Sacrificed.
+*{{Icon|Manipulation}} ''"Can you fathom the pain of our parting?"'' - When Malistaire is alone without Sylvia, he will remove 25% max Health from himself and use {{Link|Spell|Mana Burn}} on the Wizard.
+*{{Icon|Minion}} ''"Death cannot part us for long!"'' - Malistaire will cast a Moon spell to summon {{Link|Creature|Sylvia Drake (Standard)}}.
+**This summon can occur if Malistaire already has a Sylvia Minion.
+
+{{Icon|Life}}{{Icon|Ice}} '''Sylvia Drake:'''
+*''My love...I can't hold on...any longer"'' - After a few Rounds, Sylvia will cast a version of Dark Pact that deals 100% max Health Damage to herself and provides a '''+100%''' Balanceblade on Malistaire Drake.
+*''"No! Hasn't he suffered enough?"'' - 
+
+| spellnotes =
+
+| casts =
+Deathblade (+40%);
+Fireblade;
+Deer Knight (Tier 2b);
+Poison;
+Fire Cat (Tier 4a);
+Scald;
+Heck Hound;
+
+| quests =
+
+| gold =
+
+| hats =
+Malistaire's Chilly Locks (Level 160+);
+Malistaire's Ghostly Locks (Level 160+);
+Malistaire's Harmonic Locks (Level 160+);
+Malistaire's Infamous Locks (Level 160+);
+Malistaire's Squall Locks (Level 160+);
+Malistaire's Thorny Locks (Level 160+);
+Malistaire's Vengeance Locks (Level 160+);
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Malistaire's Whisker @ 10 Malistaire's Whisker;
+
+| spellements =
+Centaur;
+Colossus;
+Helephant;
+Hydra;
+Stone Colossus;
+Triton;
+Wraith;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Malistaire Drake (Rematch)
+
+}}

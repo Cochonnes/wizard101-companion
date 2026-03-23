@@ -1,0 +1,150 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 5,678
+| crecla = Crab
+| school = Death
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+3%;
+
+| outboost =
+35%;
+
+| incboost =
+15% Life;
+
+| incresist =
+45% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Luminous Troglodyte (Tier 4);
+Luminous Troglodyte (Tier 4);
+
+| world = Housing Instance
+| location = Fantastic Voyage Expedition
+| subloc1 = Fantastic Voyage Expedition (Tier 4)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Damage over Time}} ''"I have to do everything around here!"'' - If a DoT (Damage over Time) Spell is used, Dewey will cast Mass Triage.
+*{{Icon|Blade}}{{Icon|Global}} ''"Defend the Sanctuary!"'' - If a Damage Charm Blade or Damage Global is cast, Dewey will cast Tower Shield on himself.
+**''"I'm sick of all this noise!"'' - If a second Blade is cast, Dewey will cast Plague.
+***''"Fight, or no dinner for you!"'' - If a third Blade is cast, Dewey will cast Legion Shield.
+****''"Maybe this will quiet you down..."'' - If a forth Blade is cast, Dewey will cast Virulent Plague.
+***** Cheat recycles after this line.
+*{{Icon|Damage}} ''"This racket will not be tolerated!"'' - After an attack, Dewey will cast a matching Shield based on the School Damage, on the ally of his that was hit.
+** If an AoE Spell is used, he will state this line three times, casting a Shield one after another on each ally.
+**For Balance Damage, he will cast Tower Shield.
+**Shadow Damage Spells will not trigger cheat.
+**For Multi-attacks, he will cast the corresponding Shield for every hit.
+*{{Icon|Afterlife}} Dewey can respawn in battle if defeated before his Minions.
+
+| spellnotes =
+
+| casts =
+Death Shield;
+Fire Shield;
+Life Shield;
+Myth Shield;
+Snow Shield;
+Storm Shield;
+Tower Shield;
+Legion Shield;
+Plague;
+Virulent Plague;
+Sacrifice;
+Deathblade;
+Mass Triage;
+Natural Attack (Death 110-220-330, 80%);
+Deer Knight;
+Skeletal Pirate;
+Wraith;
+Scarecrow;
+King Artorius (Death);
+Dr. Von's Monster;
+
+| quests =
+Fantastic Voyage of Discovery;
+
+| gold =
+418 - 984;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Bushy Palm Tree;
+Cephalopod Obelisk;
+Diving Gear Rack;
+Giant Crab;
+Leaning Palm Tree;
+Pile of Sand;
+Tall Palm Tree*CR;
+Wall Starfish*F2;
+Water-Mole Tribal Shield;
+
+| cards =
+Dream Shield*F2;
+Ether Shield;
+Giant;
+Glacial Shield*F2;
+Legend Shield;
+Thermic Shield;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Papaya;
+Pineapple Spears;
+Salty Fish;
+Sandy Corn;
+Sweet Pineapple*F2;
+Tiki Tea;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Boiled Peanuts;
+
+| mounts =
+
+| spells =
+
+}}

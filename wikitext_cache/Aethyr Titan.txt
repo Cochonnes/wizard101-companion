@@ -1,0 +1,127 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 999
+| heal = 500,000
+| crecla = Titan
+| crecla2 = Triton
+| school = Shadow
+| cheats = Yes
+| shadowslots = 7
+| startpips = 7
+| powerpips = Yes
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minion = 
+| world = Empyrea
+| location = Husk
+| subloc1 = Broken Bough
+| descrip =
+The Aethyr Titan is an enhanced version of the Storm Titan. He is the final boss of Empyrea as well as the last boss of the Third Arc. The Wizard takes the form as the {{Link|Polymorph|Divine Paradox}} and must recover the Chaos Heart from him.
+*This Creature is named "Aethyr Titan", but his speech calls him "Aether Titan".
+*The Paradox Wizard is Immune to Stun.
+**Due to the bug where Power Pip Chance and Stun Resistance would not apply to the Paradox wizard correctly, the wizard can still be stunned.
+*The Quest, ''Braving the Storm'', and the battle can be repeated if the Wizard returns to the summit.
+
+| speech =
+:''"RAAAAUUURRR! You may have weathered the Storm, but you are no match for the Aethyr's rage! RAAAUUWWR!"''
+
+| cheatnotes =
+{{Icon|Star}}{{Icon|Polymorph}} The Divine Paradox is in a Star School Polymorph throughout this duel, with the given Spells:
+**{{Link|Spell|Fire Cat (0 Pip)}}
+**{{Link|Spell|Headless Horseman (0 Pip)}}
+**{{Link|Spell|Ice Wyvern (0 Pip)}}
+**{{Link|Spell|Loremaster (0 Pip)}}
+**{{Link|Spell|Minotaur (0 Pip)}}
+**{{Link|Spell|Sacred Charge (0 Pip)}}
+**{{Link|Spell|Stormzilla (99,999)}}
+
+{{Icon|Aura}} At the beginning of the duel, the Paradox Wizard casts a Star Spell which places an Aura that gives the Wizard masteries of all 7 schools (Balance, Fire, Ice, Storm, Death, Myth, and Life).
+
+{{Icon|Pip}} The Paradox Wizard and the Boss gain seven Power Pips every Round.
+**Henchmen summoned in this duel will also gain seven Power Pips every Round.
+
+{{Icon|Global}} Global Spells will be removed if they are cast by Henchmen.
+
+{{Icon|Heal}} If the Wizard starts with or has low hit points, they will cast Dryad that restores them back to full Health.
+**Although the spell animation does not cast or play, their HP will be restored at the beginning of the round.
+
+{{Icon|Health}} When the Boss goes down to about 20% of his current Health, he restores his Health back to 100%, and invisible polymorphs the Paradox Wizard that lasts 99 Rounds, allowing the Wizard to use either of the following Spells to finish the Boss:
+**{{Link|Spell|Scion of Elements}}
+**{{Link|Spell|Scion of Spirits}}
+
+| spellnotes =
+*All Aethyr Titan's spells deal 9,999 Damage to target and cost 14 Pips.
+*Casts the following Shadow Spells:
+**These Shadow spells deal damage based on their School and are not Shadow Damage.
+***Wild Bolt
+***Phoenix
+***Triton
+***Eternal Leviathan
+***Wrath of Hades
+***Judgement
+***Frost Giant and Medusa only can be casted on the first turn.
+
+'''Natural Attack:'''
+*Deals 9,999 Shadow Damage.
+
+| casts =
+Frost Giant (Shadow);
+Medusa (Shadow);
+
+| quests =
+The End of Days;
+Braving the Storm;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

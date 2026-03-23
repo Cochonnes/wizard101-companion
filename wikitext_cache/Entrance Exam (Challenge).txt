@@ -1,0 +1,91 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 35,000
+| crecla = Demox
+| school = Death
+| school2 = Fire
+| startpips = 
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Darkmoor
+| location = Scholomance
+| subloc1 = Heretical Academy (Challenge)
+| descrip =
+
+| speech =
+
+| spellnotes =
+Casts a zero-pip spell that applies a +35% Fireblade and a +35% Deathblade
+
+| casts =
+Empower;
+Banshee;
+Monster Mash (Tier 2b);
+Skeletal Dragon (Tier 2b);
+Hephaestus;
+Ammut (Tier 2b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Entrance Exam (Standard)
+}}

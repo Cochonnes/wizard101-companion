@@ -1,0 +1,231 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 10,640
+| crecla = Snake
+| school = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+7%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Myth;
+
+| incresist =
+30% Storm;
+
+| inchealing =
+
+| outhealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Street Viper
+
+| petbreed = Viper in a Jar
+| world = Mirage
+| location = Istanboa
+| subloc1 = 
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Pet}}{{Icon|Damage}} ''"Prepare for a shock!"'' - Cobraxas' Pet Viper in a Jar will cast {{Link|ItemCard|Tingling Poison}} on random Wizard.
+*{{Icon|Pet}}{{Icon|Weakness}} ''"Feel your strength slip away!"'' - His Pet Viper in a Jar will cast Weakness on a random Wizard.
+
+| spellnotes =
+
+| casts =
+Flawless;
+Outpouring;
+Thermic Shield (-75%);
+Weakness;
+Healing Current (325);
+Stormblade (+30%);
+Storm Trap (+35%);
+Natural Attack (Storm 125-250-375, 65%);
+Catalan;
+Leviathan (1,150);
+Sirens (965);
+Storm Owl;
+
+| quests =
+
+| gold =
+845 - 1539;
+
+| hats =
+Eerem Headwrap of Clangor;
+Vizier's Mantle of Sagacity*F2*WMV;
+
+| robes =
+Alkali Armor of Fiction;
+Alkali Armor of Withering;
+Eerem Raiment of Hail;
+Eerem Raiment of Harmony;
+
+| boots =
+Alkali Burning Sands Walkers;
+Alkali Walkers of Withering;
+Eerem Givehs of Harmony;
+Eerem Givehs of Menace;
+
+| athames =
+Eerem Razor of Clangor;
+Istanboa Khanjar of Icefall;
+Istanboa Khanjar of Scruples;
+Kobra Janbiya of Rigor;
+
+| amulets =
+Eerem Talisman of Discovery;
+Eerem Talisman of Menace;
+Sand Sea Charm of Decorum;
+
+| rings =
+Eerem Hailstone Band;
+
+| wands =
+
+| decks =
+Eerem Spread of Menace;
+Eerem Spread of Pulse;
+Istanboa Array of Icefall;
+Kobra Hand of Demise;
+Sand Sea Deck of Bolts;
+
+| items =
+Mirage Canyon Theme 2;
+Mirage Chronoverge Theme;
+Mirage City Combat Theme;
+Mirage City Tense Theme*F2;
+Mirage Desert Canyons Theme*F2*WMV;
+Mirage Jungle Theme;
+Mirage Spider Speaks Theme;
+
+| cards =
+Ashen Bones;
+Balefrost;
+Combustion;
+Counterforce;
+Crystal Spider;
+Death Troll;
+Frostfang;
+Lifespear;
+Mythspear;
+Namaste;
+Nested Fury;
+Shift;
+Spirit Spear;
+Snowball Barrage;
+
+| reagents =
+Aether;
+Agave Leaves*F2*WMV;
+Amber;
+Amber Dust*F5*WMV;
+Aquamarine*F6*WMV;
+Astral Shard*F3*WMV;
+Braided Vine;
+Draconium;
+Fire Blossom;
+Fish Fin*F2*WMV;
+Glass Sliver;
+Golden Pearl*F4*WMV;
+Merle's Whisker*F3*WMV;
+Mithril*F2*WMV;
+Orichalcum;
+Scales*F3*WMV;
+Silver*F9*WMV;
+Stardust;
+Steel*F4*WMV;
+Sunstone*F6*WMV;
+Titanium;
+Tungsten*F3*WMV;
+Turquoise*F2;
+Vine*F4*WMV;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate;
+Beast Wellington*F5*WMV;
+Beetle Cream Soda*F7*WMV;
+Chalupacabra*F4*WMV;
+Eye Candy*F3;
+Hard Boiled Beetle Eggs*F3*WMV;
+Hot Cross Buns*F2*WMV;
+Mustachios*F5*WMV;
+Rhubarbed Wire*F2*WMV;
+Satyr Chow*F4*WMV;
+Ships 'n' Queso*F6*WMV;
+Veggie Juice*F3*WMV;
+
+| jewels =
+Lustrous Blocking Ruby +13;
+Lustrous Critical Citrine +13;
+Lustrous Critical Ruby +13;
+Lustrous Defense Citrine +45;
+Lustrous Defense Ruby +45;
+Lustrous Health Opal +100;
+Magnify Opal;
+Polished Blocking Citrine +11;
+Polished Blocking Onyx +11;
+Polished Blocking Ruby +11;
+Polished Blocking Sapphire +11;
+Polished Damage Ruby +21;
+Polished Defense Ruby +42;
+Polished Health Opal +88;
+Polished Mana Opal +37;
+Polished Mana Opal +39*F2*WMV;
+Polished Mana Opal +40;
+Shiny Defense Jade +51;
+Shiny Defense Sapphire +52;
+
+| pins =
+
+| pets =
+Viper in a Jar;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Baby Carrots;
+Bell Pepper*F2;
+Blue Huckleberries*F2;
+Boom Shroom;
+Bread Fruit Bush*F3*WMV;
+Fish on a Vine*F4;
+Golden Couch Potatoes;
+Goose Tree;
+Grapes of Wrath*CR;
+Helephant Ears;
+Honey Bee Plant*F2*WMV;
+Ivy League*CR*F2;
+Maltese Tiger Lily*F2;
+Melting Cheese Tree*F2*WMV;
+Missile Toe*F2;
+Pink Huckleberries*F2*WMV;
+Purple Snow Apples;
+Red Couch Potatoes*F2;
+Snow Apples;
+Sword Fern*CR;
+Tiger Lily (Seed);
+
+| mounts =
+
+| spells =
+
+}}

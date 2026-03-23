@@ -1,0 +1,283 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 8,600
+| crecla = Ant
+| school = Death
+| masteries =
+Balance;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+173 Any;
+
+| criticalblock =
+198 Any;
+
+| outpierce =
+22%;
+
+| outboost =
+100%;
+
+| incboost =
+5% Life;
+
+| incresist =
+70% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Death Ant;
+
+| world = Empyrea
+| location = Samsara Village
+| subloc1 = Dying Glade
+| descrip =
+
+| speech =
+
+| cheatnotes =
+{{Icon|Late}} ''"Tardiness will not be tolerated."'' - If a Wizard is late joining the duel, Necro Ant casts {{Link|Spell|Mana Burn}} on the Wizard.
+
+| spellnotes =
+*Casts an Aegis-protected Bladestorm.
+*Casts a protected Feint (All Enemies).
+**This Feint stacks with Death Ant's Feint.
+'''Natural Attack:'''
+*Deals 420 Balance Damage for 4 Pips.
+
+| casts =
+Dark Shepherd;
+Magnify (6 Rounds);
+Conviction;
+Black Mantle;
+Aegis Deathblade;
+Bladestorm;
+Feint (All Enemies);
+Beguile;
+Donate Power;
+Natural Attack (Death 105-210-315, 80%);
+Qismah's Curse;
+Scarecrow;
+Natural Attack (Balance 105-210-315, 80%);
+Chimera;
+Judgement;
+
+| quests =
+The Quest Bears Fruit;
+
+| gold =
+0;
+
+| hats =
+Blazing Zanadu Helm;
+Freezing Zanadu Helm;
+Verdant Zanadu Helm;
+
+| robes =
+Hopeful Zanadu Armor*F2;
+
+| boots =
+Blazing Zanadu Boots*F2*WMV;
+Grim Zanadu Boots;
+Hopeful Zanadu Boots;
+Immutable Zanadu Boots;
+Verdant Zanadu Boots;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Aero Dwarf Blue Vase*F2;
+Aero Dwarf Chair*F2;
+Aero Dwarf Potted Plant;
+Empyrea Husk Aethyr Combat;
+Empyrea Husk Storm Combat;
+Kalamar Side Table;
+Nimbari Chair*F2*WMV;
+Nimbari Sword Rack*F3*WMV;
+Ornate Nimbari Vase*F3*WMV;
+Tall Kalamar Vase*F2;
+Wide Kalamar Vase*F2;
+
+| cards =
+Boreas Ifrit;
+Colossafrog*F2;
+Cyclops*F3*WMV;
+Diablo Qarin;
+Fable Lord;
+Humongofrog*F2;
+Kraken*F4*WMV;
+Lord of the Squall*F4*WMV;
+Maelstrom Marid;
+Mass Death Prism;
+Mass Fire Prism;
+Mass Myth Prism;
+Mega Soothe*F5*WMV;
+Mega Subdue*F3*WMV;
+Mutate Banshee (Life);
+Mutate Bird (Ice);
+Mutate Cat (Storm);
+Mutate Hound (Ice);
+Mutate Hound (Storm)*F2;
+Mutate Monster (Fire);
+Mutate Monster (Ice);
+Mutate Serpent (Storm);
+Mutate Sprite (Death);
+Mutate Wyvern (Fire);
+Oni No Jade*F3;
+Oni No Plague*F2*WMV;
+
+| reagents =
+Aether*F4*WMV;
+Agave Leaves*F4*WMV;
+Agave Nectar*F2;
+Amber*F3*WMV;
+Amber Dust*F2;
+Aquamarine*F6*WMV;
+Astral Shard*F5*WMV;
+Black Pearl;
+Braided Vine;
+Comet Tail*F2;
+Draconium*F2;
+Fire Blossom*F4*WMV;
+Fish Fin;
+Flying Squid Ink*F11*WMV;
+Golden Pearl*F4*WMV;
+Merle's Whisker;
+Mithril*F4*WMV;
+Orichalcum;
+Scales*F5*WMV;
+Silver*F4*WMV;
+Stardust*F3;
+Steel*F4*WMV;
+Sunstone*F4;
+Titanium*F6*WMV;
+Tungsten*F3*WMV;
+Turmeric;
+Turquoise*F4;
+Vine*F3*WMV;
+
+| spellements =
+
+| snacks =
+Athame Pop*F2;
+Berry Poundcake;
+Boiled Spider Legs*F3*WMV;
+Cow Pie;
+Dastardly Radish*F3;
+Dr. Jalapeno;
+Fetid Legumes;
+Flaming Jalapeno*F2*WMV;
+Gator Tots*F4;
+Ginger Mint Tea;
+Golden Squash;
+Gummy Humongofrog*F2*WMV;
+Hero Sandwich*F2;
+Hive Rinds*F2*WMV;
+Killer Tomato*F2;
+Lemon Daisy;
+Lollipop;
+Meat Soup;
+Minotarts*F2;
+Pineapple Spears*F3*WMV;
+Pyramints;
+Redskin Peanut*F4*WMV;
+Salmon Joy*F2*WMV;
+Spicy Drumstick*F3*WMV;
+Super Cold Popsicle;
+Taco;
+Taco Town Special;
+
+| jewels =
+Keeper of the Flame Peridot;
+Sparkling Blocking Amethyst +18;
+Sparkling Blocking Hematite +18;
+Sparkling Blocking Onyx +18;
+Sparkling Blocking Peridot +18;
+Sparkling Blocking Ruby +18;
+Sparkling Critical Citrine +18;
+Sparkling Critical Hematite +18;
+Sparkling Critical Ruby +18;
+Sparkling Damage Citrine +28;
+Sparkling Defense Hematite +55;
+Sparkling Defense Hematite +56;
+Sparkling Defense Jade +55;
+Sparkling Defense Opal +28;
+Sparkling Defense Peridot +55;
+Sparkling Defense Ruby +55;
+Sparkling Health Opal +122*F4;
+Sparkling Health Opal +123*F2;
+Sparkling Health Opal +124;
+Sparkling Health Opal +125*F3*WMV;
+Sparkling Mana Opal +52*F3*WMV;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak;
+Angora Bunny Ears*F4*WMV;
+Bamboo Shoots;
+Bell Pepper*F2;
+Blue Huckleberries;
+Boom Shroom*F2;
+Bread Fruit Bush;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Dandelion*F2;
+Deadly Fly Trap*F2*WMV;
+Deadly Helephant Ears*CR;
+Evil Magma Peas*CR*F2*WMV;
+Fish on a Vine*F2;
+Golden Couch Potatoes*F2;
+Grapes of Wrath*CR*F3;
+Helephant Ears;
+Ivy League*CR*F2;
+Maltese Tiger Lily*F2;
+Missile Toe*F2;
+Moon Flower*F2;
+Ninja Fig*CR;
+Pink Huckleberries;
+Prickly Bear Cactus*F2;
+Purple Bell Pepper;
+Purple Snow Apples*F2*WMV;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Red Couch Potatoes;
+Red Huckleberries;
+Saw Palmetto*F2;
+Silver Trumpet Vine;
+Snow Apples;
+Sugar Khrystal*CR*F3*WMV;
+Sunion*CR;
+Trumpet Vine;
+Ultra Huckleberries;
+Ultra Ninja Fig;
+Venus Fly Trap;
+White Desparagus;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

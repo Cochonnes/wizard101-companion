@@ -1,0 +1,296 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 6,335
+| crecla = Lion
+| school = Ice
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Fire Lion Ravager;
+
+| world = Zafaria
+| location = Savannah
+| subloc1 = Jata's Cave
+| descrip =
+
+| speech =
+:''"Before I was but a tiny cub, but now I am a mighty lion. Prepare to face my roar!"''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Vengeance;
+Tower Shield;
+Iceblade;
+Ice Trap;
+Freeze;
+Natural Attack (Ice 83-175-270);
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Frostbite;
+Icezilla (650-730);
+Colossus;
+Frost Giant;
+Snow Angel;
+
+| quests =
+Four Feathers;
+
+| gold =
+62 - 96;
+
+| hats =
+Cold At Night Cover*F2;
+Cold Chieftain's Mask*F5;
+Courageous Grower's Hat;
+Crocogator's Ambush Hood*F6;
+Elephant Graveyard Shroud;
+Hippogriff's Hat of Harmony*F14;
+Hood of Chieftain's Honor*F5;
+Hood of the Forgotten*F2;
+Hot-Tempered Chieftain's Mask;
+Mask of the Great Patapon;
+River Captain's Hood*F6;
+Wise Hunter's Helmet*F2;
+Wrathful Wraith's Headdress*F8;
+Zebra's Zephyr Headdress*F10;
+
+| robes =
+Baxby's Noble Outfit*F2;
+Big Sky Outfit;
+Cloak of Conformity*F2;
+Darajani Havoc Robes*F2;
+Fire-Feather Robes;
+Fire Valley Outfit;
+Irontrunk Cloak of Dreams*F10;
+Jacket of No Worries;
+Jambo Jacket*F11*WMV;
+Outsider's Grim Garb*F15;
+Robes of the Cold Night;
+Shaman's Mythic Armor*F3;
+Shaman's Winter Protection*F4;
+Storm Caller's Outfit*F7;
+Tunic of Darajani Honor*F4;
+Witch Doctor's Fiery Garb*F11;
+
+| boots =
+Baxby's Noble Trackers;
+Big Sky Striders;
+Cold Storm Trackers*F10;
+Doctor's Firestorm Walkers*F6;
+Hot and Cold Rangers*F6;
+Hunter Prey Rangers*F6;
+Ironhide Boots*F8;
+Nemean Rock Climbers;
+Spider's Storied Wraps*F3;
+Steppers of Ice and Fire*F13;
+Stone Town Storm Trackers*F6;
+Witch Doctor's Juju Rangers*F9;
+
+| athames =
+
+| amulets =
+
+| rings =
+Amahle's Striped Band*F5;
+Aryanah's Golden Loop*F5;
+Esop's Dancing Ring*F9;
+Hathi's Victory Band*F7;
+Inyanga's Baobab Loop*F2;
+Kallah's Dread Stone*F2;
+Mandisa's Star Stone*F8*WMV;
+Mondli's Green Stone*F5;
+Nergal's Burning Brand;
+Tanei's Ghost Ring*F8;
+Unathi's Nighttime Circle*F17;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Frozen Armor*F33;
+Legion Shield*F29*WMV;
+Polymorph Elemental (Fire)*F3;
+Polymorph Elemental (Storm)*F2;
+Precision*F15;
+Sniper*F22;
+Stun Block;
+
+| reagents =
+Bone;
+Bronze;
+Bronze Gear*F2;
+Cobalt*F2;
+Mist Wood;
+Nickel;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Cracker;
+Chocolate Strawberry;
+Delicious Cookie;
+Flaming Soup;
+Flapjacks;
+Goat Cheese;
+Green Grapes;
+Gummy Firecat;
+Gummy Humongofrog;
+Jelly Baby;
+Nettle Root;
+Spicy Drumstick;
+Strawberry Cupcake;
+Submarine Sandwich;
+Sugar Donut*F2*WMV;
+Tiny Fish;
+
+| jewels =
+Attentive Opal*F2;
+Baffle Opal;
+Balance-Boon Citrine*F2;
+Balance-Eye Citrine*F2;
+Blade of Ice Sapphire;
+Bananas! Opal;
+Big Recovery Opal;
+Bombardier Opal;
+Bummer Opal;
+Calculating Opal;
+Canny Opal*F2;
+Catch Leader Opal;
+Catch Opal;
+Death-Away Onyx;
+Death-Boon Onyx;
+Death-Giver Onyx;
+Dependable Opal;
+Deplete Opal;
+Determined Opal;
+Dull Critical Opal +2;
+Dull Healing Opal +3%*F3;
+Dull Resilient Opal +3%*F3;
+Dumbfound Opal;
+Eager Opal;
+Eat My Dirt Opal;
+Energy Opal;
+Extra Mana Opal;
+Fire-Eye Ruby;
+Flummox Opal;
+Health Boost Opal;
+Hearty Opal*F2;
+Huge Energy Opal;
+Ice-Away Sapphire*F2;
+Ice-Boon Sapphire;
+Ice-Giver Sapphire;
+Immunity Opal;
+Life-Shot Jade;
+Mana Boost Opal;
+Mega-Deplete Opal*F2;
+Mega-Upset Opal;
+Myth-Eye Peridot;
+Myth-Proof Peridot;
+No Pain, No Gain Onyx;
+No Passing Opal;
+Opaque Accurate Amethyst +8%;
+Opaque Accurate Ruby +8%;
+Opaque Accurate Sapphire +8%;
+Opaque Blocking Jade +7;
+Opaque Blocking Onyx +7;
+Opaque Blocking Peridot +7;
+Opaque Blocking Sapphire +7;
+Opaque Critical Jade +7;
+Opaque Critical Onyx +7;
+Opaque Critical Sapphire +7;
+Opaque Critical Sapphire +8;
+Opaque Defense Amethyst +33;
+Opaque Defense Opal +18;
+Opaque Defense Sapphire +33;
+Opaque Health Opal +68;
+Opaque Piercing Citrine +4%;
+Opaque Piercing Jade +4%*F2;
+Opaque Piercing Peridot +4%;
+Opaque Piercing Sapphire +4%;
+Orthrus Peridot;
+Pip O'Plenty Opal;
+Pipe Down! Opal*F2;
+Plain Accurate Citrine +7%;
+Plain Damage Amethyst +16;
+Plain Defense Amethyst +30*F2;
+Plain Defense Citrine +30*F2;
+Plain Defense Citrine +32;
+Plain Defense Jade +30;
+Plain Defense Onyx +30;
+Plain Defense Onyx +32;
+Plain Defense Peridot +30;
+Plain Defense Ruby +30*F5;
+Plain Defense Sapphire +30*F2;
+Plain Defense Sapphire +32;
+Plain Health Opal +61;
+Plain Health Opal +62;
+Plain Health Opal +63*F2;
+Plain Mana Opal +26*F3;
+Plain PIP Opal +6%*F5;
+Rebirth Jade;
+Storm Lord Amethyst;
+Storm-Away Amethyst;
+Storm-Eye Amethyst;
+Stupefy Opal;
+Super Hurry Opal;
+Supercharge Opal*F2;
+Ultra Energy Opal;
+Ultra Rally Opal*F2;
+Unbreakable Opal;
+Wise Opal;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Baby Carrots*F15;
+Burning Snap Dragon*F15;
+Deadly Fly Trap*F2;
+Evil Snow Peas*F10;
+Fickle Pickle*F10;
+Helephant Ears*F16;
+Orange Bell Pepper*F8*CR;
+Orange Dandelion*F10;
+Rye Bread Fruit Bush*F14;
+Snap Dragon*F7;
+Trumpet Vine*F5;
+Venus Fly Trap*F8;
+White Desparagus*F6;
+White Laugh-O-Dil*F19;
+
+| mounts =
+
+| spells =
+
+}}

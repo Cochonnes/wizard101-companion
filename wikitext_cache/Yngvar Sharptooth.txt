@@ -1,0 +1,186 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 700
+| crecla = Bear
+| crecla2 = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Troubled Warrior;
+
+| world = Grizzleheim
+| location = Savarstaad Pass
+| subloc1 = Yngvar Sharptooth's Mound
+| descrip =
+Yngvar Sharptooth was a renowned Bear warrior whose spirit now resides in the burial grounds in Savarstaad Pass.  In Wizards' attempts to gain renown among the Bears, {{Link|NPC|Hagen Shieldbreaker}} directs them to Yngvar's burial mound, where they attempt to convince Yngvar that they could be a worthy successor to his deeds and legacy.  Before Yngvar will sing Wizards' praises, however, he needs to see how well they can carry themselves in combat.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+This undead bear has teeth so sharp, they can slice a soul.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Deathblade;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Thunder Snake;
+Sunbird;
+Snow Serpent;
+Natural Attack (Ice 85x, 80%);
+
+| quests =
+Spiritual Father;
+
+| gold =
+33 - 53;
+
+| hats =
+Cap of Dread;
+Circlet of the Fallen*F2;
+Cloud Cover;
+Flamewarden's Mantle*F14;
+Headcloth of the Fray;
+Headdress of Vigor*F11*WMV;
+Ice Raider's Hat*F2;
+Snowthorn Hat;
+
+| robes =
+Coat of Pouring Rain;
+Garments of Zeal*F2;
+Igneous Robe;
+Precipitant Coat*F10*WMV;
+Raiment of the Lifespring*F2;
+Robe of Elegies*F2;
+Robe of the Firebloom;
+Thanatoid Vestment;
+Tunic of Ataraxia*F3;
+Vestment of Serenity*F3*WMV;
+Vestment of Yesteryear;
+
+| boots =
+Footgear of the Firehaze*F2;
+Footgear of the Keeper*F15*WMV;
+Footguards of the Jarl;
+Frozen Slippers*F13*WMV;
+Striders of Strife;
+
+| athames =
+Bodkin of Fury*F3*WMV;
+Iceshadow's Athame;
+
+| amulets =
+
+| rings =
+Ice Raider's Ring;
+Ringlet of Serenity*F5*WMV;
+Seal of the Tundra;
+Stone of Confidence;
+
+| wands =
+
+| decks =
+
+| items =
+Tree Lantern;
+
+| cards =
+Dryad;
+Fire Trap;
+Ghoul;
+Lightning Bats;
+Locust Swarm;
+Pixie;
+Sandstorm*F2;
+Spirit Armor*F3;
+Storm Trap;
+Time of Legend*F2;
+Vampire*F3;
+
+| reagents =
+Copper*F3*WMV;
+Ectoplasm*F4;
+Nickel*F6;
+Pyrite*F6;
+
+| spellements =
+
+| snacks =
+Dragon Fruit*F2;
+Frosted Cupcake*F2; 
+Meat Soup*F8*WMV;
+Moon Pie*F4;
+MooShu Broccoli;
+Orange Jalapeno*F2;
+Spicy Bubblegum*F2;
+Taffy*F2;
+Tasty Biscuit*F4*WMV;
+Tiny Pretzel*F3*WMV;
+Wild Strawberry*F5;
+
+| jewels =
+Big-Check Opal;
+Cracked Accurate Jade +2%;
+Cracked Accurate Onyx +2%;
+Cracked Accurate Peridot +2%;
+Cracked Accurate Ruby +2%;
+Cracked Damage Amethyst +2;
+Cracked Defense Citrine +12;
+Cracked Defense Peridot +8*F2;
+Cracked Defense Ruby +8;
+Dogged Opal;
+Myth-Shot Peridot;
+Siphonizer Opal;
+Steadfast Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Boom Shroom;
+Couch Potatoes*CR;
+Desparagus (Seed);
+Honey Sickle*F3;
+
+| mounts =
+
+| spells =
+
+}}

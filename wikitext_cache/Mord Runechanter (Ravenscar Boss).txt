@@ -1,0 +1,162 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 3,200
+| crecla = Raven
+| school = Life
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Winterwing Warden;
+
+| world = Grizzleheim
+| location = Ravenscar
+| subloc1 = Mord's Abode
+| descrip =
+Mord Runechanter is a member of {{Link|Creature|The Coven}}.  This is the first fight encounter with him.
+*Two additional Winterwing Warden Minions appear if more than two Wizards are present.
+
+| speech =
+:''"You again! I should have dealt with you back in Ander's Holt! No matter... your meddling ends here!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Death Damage per Pip.
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Sprite;
+Lifeblade;
+Life Trap;
+Leprechaun;
+Seraph;
+Centaur;
+Locust Swarm;
+Cyclops;
+Storm Shark;
+Meteor Strike;
+Heck Hound;
+
+| quests = 
+Taking Names;
+
+| gold =
+52 - 108;
+
+| hats =
+Cap of Cessation;
+Mantle of Euphoria*F3*WMV;
+Mantle of Zest*F2*WMV;
+
+| robes =
+Coat of Veracity*F4*WMV;
+Insulated Wrap*F3*WMV;
+Lifeweave Robe;
+Raiment of Lamentation;
+Vestment of Loss*F7*WMV;
+Winterweave Coat;
+
+| boots =
+Boots of the Vortex;
+Brumal Boots;
+Long Walkers;
+Mocassins of the Green;
+Sapient Walkers;
+
+| athames =
+Bodkin of Battlefrenzy;
+Orichalcum Shortblade*F2*WMV;
+
+| amulets =
+
+| rings =
+Band of the Snow Owl;
+Storied Ring*F3;
+
+| wands =
+
+| decks =
+
+| items =
+Jar of Bat Wings;
+
+| cards =
+Earthquake;
+Kraken;
+Reshuffle;
+Strong;
+
+| reagents =
+Cobalt*F4*WMV;
+Copper;
+Iron;
+Leather Straps;
+Nickel;
+Pyrite;
+Spider Silk*F3*WMV;
+
+| spellements =
+
+| snacks =
+7 Layer Taco;
+Chili Cheese Fries;
+Chocolate Cake;
+Chocolate Donut;
+Glowing Rock Candy;
+Golden Apple;
+Large Ice Cream*F2;
+Moon Pie*F2;
+Nutty Candy Bar*F2*WMV;
+
+| jewels =
+Balefrost Sapphire;
+Centaur Jade;
+Chipped Accurate Jade +3%;
+Cracked Damage Jade +5;
+Cracked Damage Peridot +5;
+Cracked Defense Onyx +11;
+Darkwind Amethyst;
+Dull Defense Jade +25;
+Dull Defense Peridot +25;
+Dull Defense Ruby +25;
+Dull Health Opal +50;
+Dull Mana Opal +22;
+Minotaur Peridot;
+Phoenix Ruby*F2;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Couch Potatoes*CR;
+Evil Snow Peas;
+Orange Dandelion*F2*WMV;
+Pink Laugh-O-Dil*F2;
+
+| mounts =
+
+| spells =
+
+}}

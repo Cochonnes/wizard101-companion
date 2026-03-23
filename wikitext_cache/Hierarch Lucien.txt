@@ -1,0 +1,240 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 10,155
+| crecla = Lemur
+| school = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+29%;
+
+| outboost =
+129%;
+
+| incboost =
+5% Myth;
+
+| incresist =
+73% Storm;
+
+| outhealing =
+41%;
+
+| inchealing =
+46%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Wight Rhino;
+
+| world = Lemuria
+| location = Night Forest
+| subloc1 = Lucien's House
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*There may be a bug in which he'll state two rules at once, which can lead to you being rewarded and punished or punished twice.
+*{{Icon|Late}} ''"LATE! YOU ARE LATE!"'' - If a Wizard is late he'll cast a Storm spell that applies '''-50%''' Weakness, a '''-100%''' Black Mantle, and also cast {{Link|Spell|Beguile}} on the late Wizard.
+*{{Icon|Blade}} ''"New Rule: You must Blade!"'' - At the end of the first round he'll shout this out.
+**''"Yes, obedience is key!"'' - If a Wizard Blades, he'll place a {{Link|Spell|Tower Shield}} on them.
+**''"That is against the rules."'' - If a Wizard casts a spell that isn't a Blade, Hierarch Lucien will cast {{Link|Spell|Weakness (-50%)}} on them.
+***Maycasts will cause Lucien to cast this twice.
+*{{Icon|Heal}} ''"New Rule: You must Heal!"'' - At the end of X Round, he'll shout this out.
+**''"Yes, obedience is key!"'' - If a Wizard Heals, he'll place a '''+50%''' Universal Lightning Strike on them.
+**''"That is against the rules."'' - If a Wizard doesn't Heal, he'll place a '''-100%''' Black Mantle on them.
+*{{Icon|Manipulation}} ''"New Rule: Strike ALL your friends and be rewarded!"'' - At the beginning of the 3rd Round he'll cast {{Link|Spell|Beguile}} on a random Wizard.
+**''"Yes, obedience is key!"'' - If a Wizard casts an AoE Damage spell if there are targets to hit, he'll cast a '''-33%''' Health Insane Bolt on himself removing 33% of his total Health.
+**While Beguiled, casting a spell that is against the rules is allowed until the effect wears off.
+
+| spellnotes =
+*Casts an Aegis-protected Stormblade (+30%).
+*Casts an unprotected Stormblade (+30%).
+*Casts an AoE version of Disarm (1 Pip).
+
+| casts =
+Galvanic Field (6 Rounds);
+Stormblade (+30%);
+Disarm (1 Pip);
+Enfeeble;
+Catch of the Day (290-340);
+Iron Sultan;
+Natural Attack (Storm 130-260-390-520);
+Sound of Musicology (Tier 3a);
+Glowbug Squall;
+Dark & Stormy (Tier 3a);
+Sea Krait;
+Sirens (965);
+Tempest;
+
+| quests =
+Ghast of Us;
+
+| dropnotes =
+If a Wizard has obtained the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge and has not obtained the '''[[Basic:Novus Badges|Ender of an Aeon]]''' Badge, the following drops will be available:
+*{{Icon|Spellement}} 4-5 Spellements will drop each time from '''any''' School for their respective Polaris, Mirage, Empyrea, Karamelle and Lemuria Spells.
+If a Wizard has obtained the ''Ender of an Aeon'' badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of the Hall of Heroes to acquire a [[Item:Level Scaling Elixir - 150|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+261 - 411;
+
+| hats =
+
+| robes =
+Lemurian Jungle Robe;
+
+| boots =
+Lemurian Deflector Shoes;
+
+| athames =
+Lemurian Firewall Athame;
+
+| amulets =
+
+| rings =
+Hierarch's Lifeforce Ring;
+
+| wands =
+Lemurian Ancient One Staff;
+
+| decks =
+
+| items =
+Lemuria Action Theme;
+Lemuria Heroic Theme;
+Lemuria Jungle Theme;
+Lemuria Noir Theme;
+Lemuria Telos Theme 3;
+Periodic Table Poster*F2;
+Puzzle Cube;
+
+| cards =
+Nested Fury;
+Winged Sorrow;
+
+| reagents =
+Aether;
+Amber Dust*F2;
+Aquamarine;
+Braided Vine;
+Brass*F2;
+Cobalt;
+Draconium;
+Ectoplasm;
+Fire Blossom;
+Golden Pearl;
+Mist Wood;
+Mithril;
+Nickel;
+Scales*F2;
+Silver*F2;
+Spider Silk*F2;
+Tin;
+Titanium*F3*WMV;
+
+| spellements =
+Barbarian's Saga*BR;
+Blast Off!*BR;
+Climaclysm*BR;
+Dark & Stormy*BR;
+Freeze Ray*BR;
+Grrnadier*BR;
+Grim Reader*BR;
+Iron Sultan*BR;
+Lamassu*BR;
+Lord of the Jungle*BR;
+Mockenspiel*BR;
+Nested Fury*BR;
+Old One's Endgame*BR;
+Qismah's Curse*BR;
+Raging Bull*BR;
+Rusalka's Wrath*BR;
+Sand Wurm*BR;
+Scion of Balance*BR;
+Scion of Death*BR;
+Scion of Fire*BR;
+Scion of Ice*BR;
+Scion of Life*BR;
+Scion of Myth*BR;
+Scion of Storm*BR;
+Scorching Scimitars*BR;
+Shatterhorn*BR;
+S'more Machine*BR;
+Snack Attack*BR;
+Snake Charmer*BR;
+Snowball Barrage*BR;
+Sound of Musicology*BR;
+Tatzlewurm Terror*BR;
+Winged Sorrow*BR;
+Wings of Fate*BR;
+Witch's House Call*BR;
+
+| snacks =
+Crystalweb Candy;
+Dr. Jalapeno;
+Fin Flan;
+Fish Egg Pancakes;
+Fizzing Fertilizer;
+Fried Worms;
+Potato Chips;
+Squash*F2;
+
+| jewels =
+Balance-Eye Citrine;
+Balance-Giver Citrine;
+Dazzling Accurate Amethyst +14%;
+Dazzling Blocking Citrine +19;
+Dazzling Critical Peridot +19;
+Dazzling Damage Citrine +29;
+Death Assailant Onyx*F2;
+Death Striker Onyx;
+Death-Proof Onyx;
+Ice-Giver Sapphire;
+Life-Shot Jade;
+Pain-Giver Opal;
+Sparkling Accurate Jade +13%;
+Sparkling Blocking Hematite +17;
+Sparkling Damage Citrine +27;
+Sparkling Damage Opal +14;
+Sparkling Health Opal +118;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Evil Magma Peas;
+Fickle Pickle;
+Fish on a Vine;
+Helephant Ears;
+Ivy League*CR*F2;
+King Parsley*CR;
+Maltese Tiger Lily;
+Pink Huckleberries;
+Prickly Bear Cactus;
+Red Couch Potatoes;
+Red Huckleberries;
+Rotten Beets*F2;
+Sword Fern*CR;
+Ultra Dandelion;
+Vampire Carrots;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

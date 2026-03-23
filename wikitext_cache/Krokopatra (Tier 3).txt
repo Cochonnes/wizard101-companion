@@ -1,0 +1,126 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 20
+| heal = 11,040
+| crecla = Krokotopian
+| school = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| outpierce =
+60%;
+
+| outboost =
+166%;
+
+| incboost =
+None;
+
+| incresist =
+40% Any;
+
+| outhealing =
+45%;
+
+| inchealing =
+40%;
+
+| stunable = 
+| beguilable = 
+| minion = 
+| world = Housing Instance
+| location = Krokopatra Rematch
+| subloc1 = Krokopatra Challenge (Tier 3)
+| descrip =
+
+| cheatnotes =
+*''"Your Queen has no patience for tardiness!"''' - If a Wizard is late to combat, Krokopatra casts a Moon version of '''Insane Bolt''' to all enemies dealing '''550''', '''1,050''' or '''1,550''' Moon Damage.
+*''"I feel alive!"'' - At the end of every Round Krokopatra has a Heal over Time, she'll cast {{Link|Spell|Thundering Jinn}}
+*''"Your dare strike your queen?!"''' - If a Wizard Damages her, Krokopatra casts a Moon version of '''Insane Bolt''' to all enemies dealing '''550''', '''1,050''' or '''1,550''' Moon Damage.
+*''"I shrug off such paltry magic"''' - If a Wizard casts a DoT on Krokopatra, she will cast {{Link|Spell|Kraken (Tier 5b)}}.
+*''"You can't charm me!"'' - If a Wizard casts a Blade or Global, Boss will either cast an AoE Moon version of Enfeeble, or Healing Current on herself.
+*''"You can't weaken the queen!"'' - If a Wizard casts a Damage Debuff on Krokopatra, she will cast {{Link|Spell|Hammer of Thor (Tier 5b)}}.
+*''"Your clumsy feints are no match for my grace"'' - If a Wizard casts a Feint, Boss will cast {{Link|Spell|Insane Bolt}}, then cast a Moon version of Insane Bolt to all enemies dealing '''550''', '''1,050''' or '''1,550''' Moon Damage.
+*''"I will not be triumphed over!"'' - If a Wizard casts {{Link|Spell|Dissipate}}, Boss will cast a Moon version of Insane Bolt to all enemies dealing '''550''', '''1,050''' or '''1,550''' Moon Damage.
+
+| spellnotes =
+*Casts an Aegis-Protected Stormblade (+30%).
+
+'''Natural Attack:'''
+*Deals 125 Storm Damage per Pip.
+
+| casts =
+Galvanic Field (6 Rounds);
+Stormblade (+30%);
+Disarm;
+Storm Shark (Tier 5b);
+Kraken (Tier 5a);
+Iron Sultan;
+Stormzilla (Tier 5b);
+Glowbug Squall (1,120);
+Rusalka's Wrath;
+Sirens (685);
+Sound of Musicology (Tier 3a);
+Leviathan;
+Dark & Stormy (Tier 3a);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Krokotopian Bookshelf;
+Large Archway;
+Row of Scrolls;
+
+| cards =
+Azoth*F2;
+Scorpion;
+To The Oasis;
+
+| reagents =
+Parchment*F2;
+
+| spellements =
+Banshee*F2;
+Cyclops*F2;
+Evil Snowman*F2;
+Locust Swarm*F2;
+Nature's Wrath*F2;
+Sunbird*F2;
+Storm Shark;
+
+| snacks =
+
+| jewels =
+Amazing Damage Sapphire +32;
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+To The Oasis;
+
+| altimage = Krokopatra (Rematch)
+}}

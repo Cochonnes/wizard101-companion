@@ -1,0 +1,230 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 11,680
+| crecla = Tundra Troll
+| school = Death
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Tundra Troll;
+Tundra Troll;
+
+| world = Polaris
+| location = Forlorn Tayg
+| subloc1 = Scary Monster Lair
+| descrip =
+Shmo may respawn after being defeated.
+
+| speech =
+:''"Haha! Shmo trick yous! There no such thing as Big Stinky Slime Monster, silly! Shmo ain't even got no Baby Sister! Haha! An' instead of yous getting buncha' treasures, Shmo and Shmo's Bros gonna take yous's treasures! Aaahahahahahaha!"''
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Empowerment;
+Infection;
+Mass Infection;
+Doom and Gloom;
+Natural Attack (Death 110-215-320);
+Lord of Night;
+Wraith;
+Scarecrow;
+Dr. Von's Monster;
+
+| quests =
+Trollnapped;
+
+| gold =
+693 - 1,009;
+
+| hats =
+Bleaks Ushanka of Mischief;
+Evoker's Brim of Acuity;
+Evoker's Ember Brim;
+Evoker's Forlorn Brim;
+Evoker's Gelid Brim*F2;
+Evoker's Stalwart Brim*F2;
+Polarian Bleaks Ushanka;
+
+| robes =
+Bleaks Jacket of Pyres;
+Polarian Bleaks Jacket;
+
+| boots =
+Evoker's Ember Walkers;
+Evoker's Stalwart Footgear;
+
+| athames =
+Bleaks Amulet of Frost;
+Bleaks Cutter of Despair;
+Bleaks Cutter of Pyres;
+Bleaks Dagger of Vigor;
+Bleaks Knife of Snowstorms;
+
+| amulets =
+Bleaks Choker of Despair;
+Bleaks Medallion of Vigor;
+Bleaks Torc of Snowstorms;
+Kossack Collar of Misery;
+Noble Strand of the Bleaks*F2;
+
+| rings =
+Bleaks Band of Snowstorms;
+Bleaks Loop of Vigor;
+Bleaks Seal of Despair;
+Ring of the Frosted Bleaks;
+
+| wands =
+Kossack Cutlass of Redress;
+Kossack Cutlass of Tempests;
+Kossack Saber of Purpose;
+Kossack Sword of Counsel;
+
+| decks =
+Evoker's Forlorn Sheaf;
+Evoker's Stack of Acuity;
+Kossack Array of Travail;
+Kossack Hand of Tempests;
+
+| items =
+Arcanum Theme*F4;
+Large Small Fry Aquarium;
+Polaris Baba Yaga Theme*F2;
+Polaris Frozen Combat Theme*F2;
+Polaris Frozen Forest Theme*F6;
+Polaris Gulag Combat Theme*F4;
+Polaris Gulag Theme*F3;
+Polaris Ice Block Theme*F2;
+Polaris Mine Combat Theme*F2;
+Polaris Mine Theme*F2;
+Polaris Opera Theme;
+Polaris Rasputin Combat Theme*F5;
+Tall Keeper Aquarium;
+Tall Small Fry Aquarium;
+Tall Whopper Aquarium;
+Walruskberg Combat Theme*F2;
+Walruskberg Liberated Theme*F7;
+Walruskberg Theme*F4;
+
+| cards =
+Age of Reckoning*F2*WMV;
+Balefrost;
+Crystal Spider;
+Deathspear;
+Firespear;
+Katabatic Wind;
+Lifespear;
+Magma Colossus*F2;
+Mythspear;
+Namaste;
+Rusalka's Wrath;
+Shock Colossus;
+Spirit Spear;
+
+| reagents =
+Aether*F4*WMV;
+Agave Leaves*F3;
+Agave Nectar*F2;
+Amber;
+Amber Dust*F4;
+Aquamarine*F5;
+Astral Shard*F3;
+Draconium*F2;
+Fire Blossom*F2*WMV;
+Fish Fin*F3;
+Golden Pearl*F2*WMV;
+Merle's Whisker;
+Mithril*F4*WMV;
+Palladium;
+Scales*F5;
+Silver*F3;
+Stardust*F4;
+Steel*F5;
+Sunstone*F7*WMV;
+Titanium*F2;
+Tungsten*F4*WMV;
+Turquoise*F3;
+Vine*F4;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F3*WMV;
+Chalupacabra*F6;
+Deepwater Toffee*F2*WMV;
+Eye Candy*F3;
+Green Tomato;
+Hot Cross Buns*F2;
+Jolly Rancher;
+Mustachios;
+Penne Dreadful*F2;
+Polaris Fries*F4;
+Satyr Chow*F2;
+Ships 'n' Queso*F3*WMV;
+Snow Apple Cider;
+Snow Apple Pie;
+Veggie Juice*F5*WMV;
+
+| jewels =
+Lustrous Accurate Amethyst +11%;
+Polished Defense Ruby +42;
+Polished Mana Opal +39;
+
+| pins =
+
+| pets =
+Arctic Ninja Pig*CR;
+Ice Bird;
+Mountain Yeti*CR*F2;
+
+| seeds =
+Angel Oak;
+Burning Snap Dragon;
+Cornbread Fruit Bush*F2;
+Evil Snow Peas*F2;
+Face Palm*F2;
+Fish on a Vine*F4;
+Frozen Fly Trap*F2;
+Golden Couch Potatoes;
+Goose Tree;
+Green Snow Apples*F3;
+King Parsley*CR*F2;
+Maelstrom Snap Dragon*F2;
+Moon Flower*F2;
+Purple Snow Apples*F2;
+Queen Crape Myrtle*F4*WMV;
+Red Couch Potatoes*F2;
+Snap Dragon;
+Snow Apples*F3;
+Ultra Snap Dragon;
+Ultra Snow Apples;
+
+| mounts =
+
+| spells =
+
+}}

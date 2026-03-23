@@ -1,0 +1,397 @@
+{{Stub|verification for the correct ''Trash Pile'' Housing Item that is dropped. See details [http://www.wizard101central.com/forums/showthread.php?514797-Housing-Item-Trash-Pile here.]}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 10,670
+| crecla = Qhat
+| school = Star
+| masteries =
+Myth;
+Balance;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+177 Any;
+
+| criticalblock =
+192 Any;
+
+| outpierce =
+25%;
+
+| outboost =
+115%;
+
+| incboost =
+2% Life, Death;
+5% Storm;
+
+| incresist =
+68% Myth;
+
+| outhealing =
+
+| inchealing =
+49%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Elemental Copy Qhat;
+Spiritual Copy Qhat;
+Copy Qhat (Moon);
+
+| summons =
+Copy Qhat (Moon);
+
+| world = Karamelle
+| location = Gutenstadt
+| subloc1 = Cupcake Factory
+| descrip =
+Copy Qhat (Star) is considered a Boss.  All cheats and drops are recorded on this page.
+*The point of these cheats lies in the fact that Copy Qhat (Moon) sabotages its own side of the battle.
+*The Copy Qhat (Moon) summoned on the Wizard's team is considered a Minion and is affected by Minion-specific Spells, such as {{Link|Spell|Draw Health}}, which provide an easy way of getting rid of it.
+
+| speech =
+:'''Captive Gnome:''' ''"Ten unfrosted cupcakes, 678 frosted, ten unfrosted, 678 frosted. Do not forget, do not lose count. Ten unfrosted, 678 frosted..."''
+
+:'''Copy Qhat:''' ''"Their plight is your fault. If you left us alone, there would be no Karamelle, no feuding House Qhats, no Aeriel outcasts. There would just be the First World. There would just be peace. But if it's endless fighting you're after... ...We have endless fighters to spare. And each of our copies can make their own copies..."''
+
+:'''Elemental Copy Qhat:''' ''"...and each copy good as 'riginal. Mmm-hmm. No copy degramadation. Nope!"''
+
+:'''Spiritual Copy Qhat:''' ''"COPIES!"''
+
+| cheatnotes =
+'''Copy Qhat''' {{Icon|Star}}
+*{{Icon|Late}} ''"More of you? That's '''my''' trick!"'' - If a Wizard joins the battle after the second Round, Copy Qhat (Star) will interrupt-cast {{Link|Spell|Mana Burn (Star)}} on them.
+*Responses towards {{Link|Creature|Copy Qhat (Moon)}}.
+**{{Icon|Blade}} ''"No, Don't..."'' - Ally Copy Qhat (Moon), on the enemy side, will cast Bladestorm (+25%) on the Wizard's team.
+**''"You fool!"'' - ??? ''(needs clarification)''
+**{{Icon|Damage}} ''"Stop that!"'' - Copy Qhat (Star) will say this after Copy Qhat (Moon) casts {{Link|Spell|Major Snowburst}}.
+
+'''Copy Qhat''' {{Icon|Moon}}
+*{{Icon|Minion}} ''"I am ENDLESS!"'' - Copy Qhat (Moon) will summon a Copy Qhat (Moon) to any empty space on the enemy side.
+*{{Icon|Minion}} ''"We gonna get you! Pow!"'' - Summons a Copy Qhat (Moon) on the Wizard's team in the first opening slot.
+*{{Icon|Minion}} ''"There's more where she came from!"'' - If there isn't currently a Copy Qhat minion on the Wizard's team, a new one will be summoned if a slot is available.
+**Copy Qhat (Moon) will replace a Minion that was summoned by the Wizard, but won't if all duel slots are occupied.
+**Defeating the enemy Copy Qhat (Moon) will stop all these cheats.
+
+| spellnotes =
+These Spell notes apply to Copy Qhat (Moon) and not the Boss, Copy Qhat (Star).
+*Casts a Tower Shield that applies itself to all enemies.
+*Casts a Hex that applies itself to all allies.
+*Casts a Black Mantle that applies itself to all allies.
+*Casts a Balance Blade that applies itself to all enemies.
+*Casts a Weakness that applies itself to all allies.
+
+| casts =
+Adapt;
+Brace;
+Magnify;
+Vengeance;
+Weakness;
+Black Mantle;
+Elemental Trap;
+Spirit Trap;
+Cleanse Charm (Star);
+Pierce (Star);
+Mana Burn;
+Natural Attack (Star 115-230-345-460);
+Tempest (Star);
+Power Nova;
+Snake Charmer;
+Orthrus;
+
+| quests =
+Can Haz Qhats;
+Copy Waste-Ya!;
+
+| gold =
+473 - 549;
+
+| hats =
+Director Hazmat Hood;
+Director Insulated Hood;
+Director Protective Hood*F2;
+Director Survival Hood;
+Guten Artisan Cap;
+Guten Candymancer Cap;
+Guten Dreamsearcher Cap;
+Guten Freshbaker Cap;
+Guten Sciencer Cap;
+Guten Sentamentalist Cap;
+Guten Sweetsmith Cap;
+Guten Wonderneer Cap;
+Producer's Pressure Hood;
+Producer's Protective Hood*F2;
+Producer's Survival Hood;
+Producer's Thermal Hood;
+Uber Artisan Cap;
+Uber Candymancer Cap;
+Uber Freshbaker Cap*F2;
+Uber Sentamentalist Cap;
+Uber Sweetsmith Cap;
+Uber Wonderneer Cap*F2;
+Wunderbar Candymancer Cap;
+Wunderbar Dreamsearcher Cap;
+Wunderbar Freshbaker Cap;
+Wunderbar Sciencer Cap;
+Wunderbar Sweetsmith Cap;
+Wunderbar Wonderneer Cap*F2;
+
+| robes =
+Chief's Thermal Suit;
+Consultant Thermal Suit;
+Director Cryo Suit;
+Supervisor Insulated Suit;
+
+| boots =
+Chief's Biohazard Boots;
+Executive Thermal Boots;
+Lead's Pressure Boots;
+Supervisor Biohazard Boots;
+
+| athames =
+Lead's Cryo Knife;
+
+| amulets =
+Chief's Cryo Rope;
+Consultant Insulated Rope;
+Executive Cryo Rope;
+Lead's Hazmat Rope;
+Specialist Cryo Rope;
+Supervisor Cryo Rope;
+Supervisor Insulated Rope;
+
+| rings =
+Lead's Protective Ring;
+
+| wands =
+Chief's Pressure Meter;
+
+| decks =
+Consultant Biohazard Box;
+Specialist Biohazard Box;
+
+| items =
+Cupcake*F4*WMV;
+Gum Drop Container;
+Karamelle Cavity Combat Theme;
+Karamelle City Combat Theme;
+Karamelle Neglected Com Theme;
+Karamelle Neglected Theme*F2;
+Karamelle Rural Combat Theme;
+Karamelle Worker Theme;
+Licorice Tree;
+Trash Pile;
+
+| cards =
+Brilliant Light;
+Death Prism;
+Elemental Blade;
+Elemental Shield;
+Elemental Spear;
+Ether Shield;
+Fire Prism;
+Flute Symphony;
+Ice Prism;
+Icespear;
+Lifespear;
+Miniature Bloodbats;
+Myth Prism;
+Mythspear;
+Pest Zapper;
+Power Play;
+Putrid Bug Spray;
+Sanctuary;
+Storm Prism;
+Stormspear;
+Supreme Sunburst;
+
+| reagents =
+Aether*F2;
+Agave Leaves;
+Agave Nectar;
+Amber;
+Aquamarine;
+Astral Shard;
+Braided Vine;
+Brass;
+Bronze Gear;
+Cobalt;
+Draconium;
+Glass Sliver;
+Golden Pearl*F2*WMV;
+Karamelle Chunk*F3;
+Merle's Whisker;
+Mithril*F4;
+Nickel;
+Scales*F2;
+Silver*F3;
+Spider Silk;
+Stardust*F3;
+Steel;
+Sunstone*F2;
+Tatzlewurm Terror;
+Tin;
+Toffee Bean*F2;
+Tungsten;
+Turquoise;
+Vine;
+
+| spellements =
+Grrnadier;
+Mockenspiel;
+Rusalka's Wrath;
+S'more Machine;
+Sand Wurm;
+Scion of Death;
+Scion of Fire;
+Scion of Storm;
+Scorching Scimitars;
+Shatterhorn;
+Sound of Musicology;
+Snack Attack;
+Tatzlewurm Terror;
+
+| snacks =
+Aztecan Hot Chocolate;
+BBQ Drumstick;
+Beast Wellington*F2;
+Cherry Pie;
+Discord Grape Jelly;
+Dragon Fruit;
+Drumstick;
+Eye Candy;
+Frosty Sugar Cubes;
+Glowing Star Fruit;
+Glowing Taffy*F2;
+Hot Cross Buns*F2;
+Krakamari;
+Pizza*F4*WMV;
+Rock and Roll Candy*F2;
+Roly Poly Fishheads*F2;
+Satyr Chow*F3*WMV;
+Ships 'n' Queso;
+Sprinkle Cupcake;
+Tasty Rainbow*F2;
+Veggie Juice;
+Waterworks Wonton*F2;
+
+| jewels =
+Ally Glacial Shield Ruby;
+Ally Thermic Shield Amethyst;
+Balance Striker Citrine;
+Balance-Dealer Citrine;
+Balance-Off Citrine;
+Balance-Ward Citrine*F2;
+Death-Away Onyx;
+Death-Eye Onyx;
+Death-Giver Onyx;
+Death-Proof Onyx;
+Death-Sniper Onyx;
+Death-Ward Onyx;
+Fire Striker Ruby;
+Fire-Dealer Ruby;
+Fire-Giver Ruby;
+Healthy Opal;
+Ice Assailant Sapphire;
+Ice-Dealer Sapphire;
+Ice-Giver Sapphire;
+Ice-Sniper Sapphire;
+Infector Onyx;
+Life-Away Jade;
+Life-Boon Jade;
+Life-Proof Jade;
+Life-Ward Jade;
+Medic Opal;
+Myth Assailant Peridot;
+Myth-Away Peridot;
+Myth-Sniper Peridot;
+Rage of Winter Sapphire;
+Screen Ruby;
+Shiny Accurate Citrine +12%;
+Shiny Accurate Onyx +12%;
+Shiny Critical Onyx +16;
+Shiny Damage Jade +26;
+Shiny Damage Ruby +25;
+Shiny Defense Amethyst +51;
+Shiny Defense Onyx +50;
+Shiny Health Opal +112;
+Sparkling Accurate Jade +13%;
+Sparkling Blocking Peridot +17;
+Sparkling Damage Amethyst +27;
+Sparkling Damage Hematite +54;
+Sparkling Damage Jade +27;
+Sparkling Damage Peridot +27;
+Sparkling Defense Citrine +53;
+Sparkling Defense Hematite +53;
+Sparkling Defense Jade +54;
+Sparkling Health Opal +117;
+Sparkling Health Opal +119;
+Sparkling Mana Opal +49;
+Storm Striker Amethyst;
+Storm-Dealer Amethyst;
+Storm-Proof Amethyst;
+Storm-Ward Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears*F4*WMV;
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper;
+Blue Huckleberries*F4*WMV;
+Boiled Peanuts*F2;
+Boom Shroom*F2;
+Bread Fruit Bush;
+Burning Snap Dragon*F2;
+Clockwork Flower;
+Cornbread Fruit Bush*F3;
+Deadly Ninja Fig;
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Face Palm*F2;
+Fiery Boom Shroom;
+Fish on a Vine*F4*WMV;
+Frozen Fly Trap;
+Grapes of Wrath*CR;
+Goose Tree;
+Helephant Ears;
+Honey Bee Plant;
+Honey Sickle;
+Ivy League*CR*F2;
+Key Limes*CR;
+Laugh-O-Dil;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily;
+Orange Dandelion*F2;
+Pink Huckleberries*F2*WMV;
+Pink Laugh-O-Dil*F2;
+Queen Crape Myrtle;
+Red Bell Pepper*F2;
+Red Grapes of Wrath;
+Red Huckleberries*F3;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Snap Dragon;
+Sour Fickle Pickle*F2;
+Sugar Khrystal*CR;
+Ultra Boom Shroom*F2;
+Ultra Ninja Fig;
+Venus Fly Trap;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

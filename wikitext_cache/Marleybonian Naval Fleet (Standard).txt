@@ -1,0 +1,108 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 17,530
+| crecla = 
+| school = Shadow
+| school2 = Balance
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Death;
+Balance;
+
+| critical =
+575 Balance, Shadow;
+
+| criticalblock =
+563 Any;
+
+| outpierce =
+25%;
+
+| outboost =
+126% Balance, Shadow;
+
+| incboost =
+None;
+
+| incresist =
+0% Moon;
+37% Fire, Ice, Storm, Myth, Life, Death, Balance, Sun, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Novus
+| location = Doom Moon
+| subloc1 = Invading Fleets (Standard)
+| descrip =
+Marleybonian Naval Fleet is considered a Minion to [[Creature:Valencian Naval Fleet (Standard)|Valencian Naval Fleet]]. All drops and cheats are recorded on that page.
+
+| speech =
+
+| cheatnotes =
+
+| spellnotes =
+
+| casts =
+Frenzy;
+Shadowblade;
+Balanceblade;
+Justiceblade (Balance);
+Lord of Night (Shadow);
+Power Nova (Shadow);
+Ominous Scarecrow (Shadow);
+Rainbow Serpent;
+Samoorai (Tier 2b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Marleybonian Naval Fleet
+
+}}

@@ -1,0 +1,199 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 14,080
+| crecla = Shadow Weaver
+| school = Life
+| startpips = 6
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Night Weaver;
+
+| world = Azteca
+| location = Saltmeadow Swamp
+| subloc1 = River Cave
+| descrip =
+Two additional Night Weavers appear if more than two Wizards are present.
+
+| speech =
+:''"A rose by any other name would tear you to pieces by thorn and hook!"''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Mend;
+Satyr;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Natural Attack (Life 165-330-495);
+Goat Monk;
+Centaur (610-670);
+Bronze Helephant;
+Gnomes!;
+Spinysaur;
+
+| quests =
+The Sun is Down;
+
+| gold =
+100 - 145;
+
+| hats =
+Dawn Hour Mantle*F2*WMV;
+Elite Jura Guard Helm;
+Five Fangs of Fury Headdress;
+Indigo Wing Crown*F2*WMV;
+Thirteen Death Mask;
+Tree of Secrets Chac Mask;
+Twisted Fang Mask;
+
+| robes =
+High Chac's Guarded Armor;
+Song of the Lizard Coat;
+Tunic of the Broken Spear;
+Vestment of the Calavera;
+
+| boots =
+
+| athames =
+Burning Water Talon;
+Fang of the Night Sky;
+Rising Sun Head Relic;
+
+| amulets =
+Charm of the Gold Aztecosaur*F2;
+House of Plague Greenstone*F2*WMV;
+Shining Cold House Amulet*F2*WMV;
+Smoking Fang Talisman;
+Stone of the Green Skycarrier*F2;
+
+| rings =
+Acampi Reedfist's Lost Seal*F2*WMV;
+Bleeding Sun Warrior's Loop;
+Falling Star's End Time Band*F2;
+Mother Moon's Count Ring;
+
+| wands =
+Eclipse Spear of Azteca;
+Tears of Night Lance;
+Winter Lord's Obsidian Shard;
+
+| decks =
+Codex of the Lost Fire*F2*WMV;
+Deck of the Jaguar Spirit*F2*WMV;
+Storm Sun Gallery;
+Winter's Pyramid Deck;
+
+| items =
+Azteca Apocalypse Theme*F2;
+Azteca Main Theme;
+Broadhead;
+Hollow Log*F2*WMV;
+Star Clothesline;
+Starburst Frond;
+
+| cards =
+Basilisk;
+Berserk;
+Colossal;
+Dr. Von's Monster;
+Gnomes!;
+Potent Trap*F3*WMV;
+Rain of Fire;
+Sharpened Blade*F2;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F2;
+Black Pearl*F2;
+Blood Moss;
+Bone*F3*WMV;
+Bronze;
+Bronze Gear*F3*WMV;
+Cobalt;
+Deep Mushroom*F2*WMV;
+Fire Blossom*F2*WMV;
+Fossil;
+Golden Pearl;
+Lava Lily*F4*WMV;
+Mist Wood*F2*WMV;
+Ore*F2*WMV;
+Red Mandrake*F3*WMV;
+Steel;
+Stone Block*F2*WMV;
+Sunstone;
+Titanium;
+Tungsten;
+Turquoise*F2*WMV;
+
+| spellements =
+
+| snacks =
+Apatotatoes;
+Avocado Milkshake*F2*WMV;
+Aztecan Hot Chocolate;
+Buttered Bread;
+Chapulines*F2;
+Fern Jelly;
+Guava;
+Maize*F2;
+Marzipan Maize;
+Pterotomatoes;
+Quetzal Pretzel;
+Rex Tea*F2*WMV;
+Stego Waffles*F2*WMV;
+Zocalo Wings;
+
+| jewels =
+Clear Defense Hematite +40;
+Drain Health Jade;
+Extra Mana Opal;
+Golem Minion Peridot;
+Mander Minion Citrine;
+Polished Critical Sapphire +11;
+Polished Resilient Opal +5%;
+Sap Health Citrine;
+Shh! Opal;
+Shield Minion Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Fiery Boom Shroom;
+Pink Dandelion*CR;
+Red Bell Pepper;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

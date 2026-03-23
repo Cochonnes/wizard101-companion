@@ -1,0 +1,169 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,700
+| crecla = Beastmoon Creature
+| school = Life
+| startpips = 3
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost = 
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Mirage Battlegrounds
+| descrip =
+Sahi Akhdir is one of the Boss monsters that can be encountered during the third Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events. He will have 1 random, Rank 3 Elite, Stage 3 monster and 2 random, Rank 2, Stage 3 monsters present to assist them.
+
+'''Potential Rank 3 Elite Minions:'''
+*{{Link|Creature|Scrutinizer}}
+*{{Link|Creature|Silt Elemental}}
+*{{Link|Creature|Trengil Burrower}}
+
+'''Potential Rank 2 Minions:'''
+*{{Link|Creature|Baboon Goon}}
+*{{Link|Creature|Desert Beetle}}
+*{{Link|Creature|Mongu Gasher}}
+*{{Link|Creature|Stasis Eel}}
+
+| speech =
+
+| spellnotes =
+*Casts a version of Beastmoon Brownie that restores 100 Health over 4 Rounds to self.
+*Casts a 125 Health per Pip version of Dryad of Artemis.
+*Casts a 2-Pip, 200 Life Damage version of Clever Imp.
+**It is currently unknown whether the clear Ward effect occurs.
+*Casts a 4-Pip, 300 Life Damage version of Spirit Spider that restores 50 Health after target is defeated even if target is not a Minion.
+
+| casts =
+Beastmoon Brownie;
+Dryad of Artemis;
+The Worm Turns;
+Clever Imp;
+Spirit Spider;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 14 - 26 Lunari.
+
+| gold =
+98 - 105;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone*F2*WMV;
+Balance Rune*F4*WMV;
+Colossus Idol (Life);
+Death Moonstone*F3*WMV;
+Death Rune*F2*WMV;
+Death Thread*F3*WMV;
+Draconian Idol (Balance);
+Eldritch Thread @ 2 Eldritch Thread;
+Elemental Moonstone;
+Elf Idol (Balance);
+Enhanced Balance Rune*F2*WMV;
+Enhanced Death Rune;
+Enhanced Life Rune;
+Fairy Idol (Balance);
+Fairy Idol (Life)*F2;
+Fairy Idol (Myth);
+Fire Moonstone;
+Harmonious Thread;
+Hunter's Moonstone*F5;
+Hunter's Moonstone @ 2 Hunter's Moonstone*F3;
+Krokomummy Idol (Death);
+Krokomummy Idol (Myth);
+Life Moonstone*F3*WMV;
+Life Rune*F2*WMV;
+Life Thread*F3;
+Minotaur Idol (Balance);
+Minotaur Idol (Death);
+Minotaur Idol (Life);
+Minotaur Idol (Myth);
+Myth Rune;
+Myth Thread*F5*WMV;
+Ninja Pig Idol (Death)*F2*WMV;
+Rat Thief Idol (Life);
+Spirit Moonstone*F4*WMV;
+Spirit Thread;
+Wolf Warrior Idol (Balance);
+Wolf Warrior Idol (Death);
+Wolf Warrior Idol (Myth);
+
+| spellements =
+Crimson Phantom*F2;
+Dream Golem*F3;
+Elemental Golem*F2;
+Ether Golem*F4;
+Frostbite;
+Golem\: Taunt;
+Humongofrog*F3;
+Infestation*F2;
+Iron Curse*F3*WMV;
+Legend Golem*F3;
+Monster Mash;
+Poison*F3;
+Regenerate*F3;
+Sandstorm*F2;
+Sprite Swarm*F2;
+Stormwing;
+Thermic Golem;
+Thieving Dragon;
+Vermin Virtuoso*F2;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| recipes =
+7 Humongofrog Spellements;
+
+}}

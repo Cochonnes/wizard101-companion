@@ -1,0 +1,134 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 5,200
+| crecla = Lion
+| school = Life
+| startpips = 4
+| powerpips = Yes
+| critical =
+72;
+
+| criticalblock =
+38;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Zafaria
+| location = Stone Town
+| subloc1 = Kasbah of Zanj
+| descrip =
+
+| speech =
+:''"I see you sneaking through the twilight, Wizard.  I'll burn your flesh and feast on your heart!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Life Damage for 1 Pip, 210 Life Damage for 2 Pips, or 320 Life Damage for 3 Pips.
+
+| casts =
+Mend;
+Regenerate;
+Rebirth;
+Empower;
+Lifeblade;
+Life Trap;
+Nature's Wrath;
+Natural Attack (Zola Witch Eye);
+Life Banshee (250);
+Seraph;
+Centaur;
+Forest Lord;
+Gnomes!;
+
+| quests =
+Heavy With Rain;
+
+| gold =
+51 - 67;
+
+| hats =
+
+| robes =
+Brave One's Plate*F2*WMV;
+Cold River Cloak;
+Fire Spirits' Toasty Tunic;
+Irontrunk Cloak of Dreams;
+Jambo Jacket;
+Outsider's Grim Garb;
+Robes of the Silent Hunter;
+Tunic of Nature's Wrath;
+Windbreaker of Nodor*F2*WMV;
+Witch Doctor's Fiery Garb;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Centaur;
+Helephant;
+Hydra*F2*WMV;
+Satyr;
+Skeletal Pirate;
+Spectral Blast;
+Triton;
+Wraith;
+
+| reagents =
+Black Lotus;
+Brass;
+Cat Tail;
+Deep Mushroom;
+Frost Flower;
+Lava Lily;
+Mist Wood;
+Parchment;
+Red Mandrake;
+Shell;
+Steel;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Opaque Defense Sapphire +35;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

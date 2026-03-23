@@ -1,0 +1,117 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 8,320
+| crecla = Giant
+| school = Death
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Ill-Fated Serpentine (Challenge);
+Ill-Fated Serpentine (Challenge);
+Ill-Fated Serpentine (Challenge);
+
+| world = Wizard City
+| location = Tartarus (Challenge)
+| subloc1 = Garden of Statues (Challenge)
+| descrip =
+*For the Standard version of this Creature, see {{Link|Creature|Death Minotaur}}.
+
+| speech =
+:''"I can smell the copper of your blood, and hear the trembling of your heart!"''
+
+| cheatnotes =
+*{{Icon|Blade}}{{Icon|Aura}} ''"Your charms can't pierce this!"'' - If a Wizard casts a helpful Charm or helpful Aura, Death Minotaur will cast {{Link|Spell|Headless Horseman (Tier 2b)}} on the recipient.
+*{{Icon|Harmful Aura}} ''"Is that your strategy? Seems weak to me"'' - If a Wizard casts a harmful Aura on Death Minotaur, it will cast {{Link|Spell|Weakness}} on the caster.
+*{{Icon|Healing}} ''"With life comes death!"'' - If a Wizard casts a Healing Spell, Death Minotaur will cast a +70% incoming Death Damage Aura for 4 Rounds on the recipient, or on the caster if it was an All Allies Spell.
+
+| spellnotes =
+
+| casts =
+Attenuate;
+Plague;
+Virulent Plague;
+Deathblade (+40%);
+Balanceblade;
+Curse (+25%);
+Hex;
+Natural Attack (Death 205-315-435);
+Wraith (575);
+Skeletal Dragon (Tier 2b);
+
+| quests =
+Fall of Pompeii;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic: Aquila Badges|Swole Like Sisyphus]]''' {{Icon|Swole Like Sisyphus}} Badge, the following drops will be available:
+*{{Icon|Spellement}} 2 Aquila Spellements will drop each time from '''any''' School
+
+| gold =
+7 - 35;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Death Minotaur
+}}

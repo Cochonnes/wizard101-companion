@@ -1,0 +1,100 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 21,550
+| crecla = Scholomari
+| school = Myth
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Myth;
+
+| critical =
+73 Myth;
+
+| criticalblock =
+554 Any;
+
+| outpierce =
+24% Myth;
+
+| outboost =
+98% Myth;
+
+| incboost =
+30% Storm;
+
+| incresist =
+47% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+77% Myth;
+
+| outhealing =
+43%;
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| world = Darkmoor
+| location = Graveholm
+| subloc1 = Sanderson House (Standard)
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Mass Myth Trap;
+Mythic Fuel;
+Wreckin' Ettin;
+Cyclops;
+Saturn's Reaping;
+Scion of Myth;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

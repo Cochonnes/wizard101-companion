@@ -1,0 +1,334 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 11,070
+| crecla = Golem
+| crecla2 = Gummy Bunny
+| school = Sun
+| masteries =
+Fire;
+Myth;
+Life;
+
+| cheats = Yes
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+234 Any;
+
+| criticalblock =
+225 Any;
+
+| outpierce =
+28%;
+
+| outboost =
+128%;
+
+| incboost =
+5% Fire, Storm, Death;
+
+| incresist =
+70% Ice, Myth, Life;
+
+| outhealing =
+71%;
+
+| inchealing =
+71%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Gummy Bunny (Death);
+
+| world = Karamelle
+| location = Nibbleheim Mines
+| subloc1 = Mining Tunnel A
+| lootchest = The Bundozer's Chest
+| descrip =
+The Bundozer is a Sun-School Boss found in the Mining Tunnel A instance. This particular instance has a shorter dungeon timer than what is indicated by the Dungeon Recall.
+
+| speech =
+:'''Greta''': ''"Oh, no! It is one of those heavy-duty digging Gummies! And it has Hans!"''
+:'''Hans''': ''"This feels really weird."''
+:'''Greta''': ''"Let us take this thing apart, Wizard!"''
+
+| monstrotomedescrip = 
+Industrial-strength mining apparatus. Do not operate when chewable.
+
+| summon_animus	= 20
+| summon_gold = 1,000
+| guest_animus = 30
+| guest_gold = 2,500
+| can_expel = No
+
+| cheatnotes =
+*{{Icon|Late}} ''"Oh, it does not like the surprise crowds!"'''- If a Wizard joins the battle after the first Round, The Bundozer will cast its Natural Attack on the Wizard.
+*{{Icon|Blade}}{{Icon|Global}} ''"No, don't do that! It eats those!"'''- If a Wizard casts a Blade or Global, The Bundozer will cast {{Link|Spell|Disarm (Sun)}} to remove one Charm from the receiver.
+**All Ally Blades will only be removed from the caster.
+*{{Icon|Round}} ''"Oh, it is gurgling in preparation. Watch out!"''- At the end of every 3rd Round, Hans will say this as a warning for the next Round.
+**''"Yes, do that!"'' - If The Bundozer takes Damage after the warning, Hans will say this, preventing The Bundozer's Natural Attack cheat.
+**''"That will not work!"''- Otherwise, at the end of the Round, The Bundozer will cast its Natural Attack on the Wizard with the least Health.
+
+'''Natural Attack {{Icon|Damage}}'''
+*Each time The Bundozer casts its Natural Attack, including as a regular cast, it will immediately follow up with a Sun version of Mass Supernova, dealing a percentage of every Wizard's Health:
+**1st time: 33% max Health Damage on all Wizards.
+**2nd time: 66% max Health Damage on all Wizards.
+**3+ times: 99% max Health Damage on all Wizards.
+
+| spellnotes =
+*Casts a protected Sun Blade (+35%).
+
+| casts =
+Vengeance (6 Rounds);
+Frenzy;
+Dryad;
+Sun Blade (+35%);
+Sun Trap (+35%);
+Backdraft;
+Leafstorm;
+Delphic Lamassu;
+Grim Grrnadier (Tier 3a);
+Centaur;
+Noble Humongofrog;
+Orthrus;
+Boreas Ifrit (800);
+Basilisk;
+Hephaestus;
+Wicked Bull;
+Fire Dragon;
+Sun Serpent (1,040-1,140);
+Gloambugs!;
+
+| quests =
+Shaking Hans;
+
+| gold =
+263 - 587;
+
+| hats =
+Specialist Pressure Hood;
+
+| robes =
+
+| boots =
+Consultant Cryo Boots;
+Consultant Insulated Boots;
+Contractor Survival Boots;
+Director Thermal Boots;
+Specialist Thermal Boots;
+
+| athames =
+Director Biohazard Knife;
+Director Cryo Knife;
+Director Hazmat Knife;
+Director Insulated Knife*F2;
+Director Pressure Knife*F2;
+Director Survival Knife*F2;
+Director Thermal Knife;
+Executive Biohazard Knife;
+Executive Cryo Knife;
+Executive Protective Knife;
+Guten Artisan Knife;
+Guten Candymancer Knife;
+Guten Dreamsearcher Knife;
+Guten Sciencer Knife;
+Guten Sentamentalist Knife;
+Guten Sweetsmith Knife*F3*WMV;
+Guten Wonderneer Knife;
+Producer's Hazmat Knife;
+Producer's Insulated Knife;
+Producer's Survival Knife;
+Producer's Thermal Knife;
+Specialist Biohazard Knife;
+Uber Artisan Knife;
+Uber Candymancer Knife;
+Uber Dreamsearcher Knife;
+Uber Freshbaker Knife;
+Uber Wonderneer Knife;
+Wunderbar Artisan Knife;
+Wunderbar Candymancer Knife*F3*WMV;
+Wunderbar Dreamsearcher Knife;
+Wunderbar Sciencer Knife;
+Wunderbar Sentamentalist Knife;
+Wunderbar Sweetsmith Knife;
+Wunderbar Wonderneer Knife;
+
+| amulets =
+Director Hazmat Rope;
+Specialist Biohazard Rope;
+
+| rings =
+Consultant Protective Ring;
+Executive Insulated Ring;
+
+| wands =
+Consultant Survival Meter;
+Director Protective Meter;
+
+| decks =
+Contractor Hazmat Box;
+Executive Insulated Box;
+
+| items =
+Gum Drop Container;
+Gumdrop Forest Poster;
+Gumdrop Tree;
+Karamelle Cavity Combat Theme;
+Karamelle City Theme;
+Karamelle Neglected Theme*F2;
+Karamelle Worker Combat Theme;
+Licorice Tree;
+Oil Drum;
+Trash Pile (Outdoor);
+
+| cards =
+Baby Sunbird;
+Combustion;
+Ether Shield;
+Galvanic Field;
+Link;
+Mass Death Prism;
+Mass Storm Prism;
+Massive Pest Zapper;
+Sirens;
+Time of Legend;
+
+| reagents =
+Aether;
+Agave Leaves;
+Agave Nectar;
+Amber;
+Amber Dust;
+Aquamarine;
+Astral Shard;
+Brass;
+Bronze Gear;
+Cobalt*F2;
+Ectoplasm*F4*WMV;
+Fire Blossom;
+Golden Pearl*F2*WMV;
+Karamelle Chunk*F3;
+Merle's Whisker;
+Mithril;
+Nickel;
+Orichalcum;
+Scales;
+Silver;
+Spider Silk;
+Steel*F2;
+Sunstone*F2;
+Tin*F2;
+Titanium*F2*WMV;
+Toffee Bean*F2;
+Tungsten;
+Turquoise;
+
+| spellements =
+Grrnadier*F2*WMV;
+King Artorius (Fire);
+Mockenspiel;
+S'more Machine;
+Scion of Myth;
+Scorching Scimitars;
+Shatterhorn;
+Snack Attack;
+Sound of Musicology;
+Tatzlewurm Terror;
+Winged Sorrow;
+
+| snacks =
+Beast Wellington*F2;
+Discord Grape Jelly;
+Dragon Fruit;
+Drumstick;
+Eye Candy*F3*WMV;
+Fern Jelly*F2*WMV;
+Glowing Star Fruit;
+Glowing Taffy;
+Hot Cross Buns;
+Krakamari*F2;
+Pizza*F2;
+Rock and Roll Candy;
+Roly Poly Fishheads;
+Satyr Chow*F2;
+Ships 'n' Queso;
+Sprinkle Cupcake;
+Tasty Rainbow;
+Veggie Juice;
+Waterworks Wonton;
+Wheat Cracker;
+
+| jewels =
+Magnify Opal;
+Shiny Accurate Citrine +12%;
+Shiny Accurate Hematite +12%;
+Shiny Blocking Onyx +15;
+Shiny Critical Amethyst +15;
+Shiny Critical Peridot +15;
+Shiny Damage Jade +25;
+Shiny Damage Peridot +25;
+Shiny Defense Amethyst +52;
+Shiny Defense Citrine +50;
+Shiny Defense Hematite +52;
+Shiny Defense Opal +26;
+Shiny Health Opal +111;
+Shiny Health Opal +112;
+Shiny Health Opal +113;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47;
+Sparkling Accurate Jade +13%;
+Sparkling Accurate Onyx +13%;
+Sparkling Accurate Peridot +13%;
+Sparkling Accurate Sapphire +13%;
+Sparkling Blocking Citrine +17;
+Sparkling Blocking Jade +17;
+Sparkling Critical Citrine +17;
+Sparkling Critical Onyx +17;
+Sparkling Critical Opal +9;
+Sparkling Critical Ruby +17;
+Sparkling Defense Onyx +54;
+Sparkling Defense Ruby +53;
+Sparkling Health Opal +117;
+Sparkling Health Opal +118*F2;
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Baby Carrots;
+Bell Pepper*F2;
+Blue Huckleberries;
+Boiled Peanuts;
+Boon Tree*CR;
+Bread Fruit Bush*F2;
+Cornbread Fruit Bush;
+Dandelion;
+Deadly Helephant Ears*CR;
+Desparagus (Seed);
+Fickle Pickle;
+Fish on a Vine;
+Grapes of Wrath*CR*F3;
+Honey Bee Plant;
+Ivy League*CR*F2;
+Ninja Fig*CR;
+Pink Huckleberries*F2;
+Prickly Bear Cactus;
+Red Grapes of Wrath;
+Snow Apples;
+Sour Fickle Pickle;
+Sword Fern*CR;
+Tiger Lily (Seed);
+Ultra Snow Apples;
+Ultra Tiger Lily;
+Ultra Trumpet Vine;
+White Desparagus;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

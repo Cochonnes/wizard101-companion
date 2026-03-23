@@ -1,0 +1,264 @@
+{{CreatureInfobox
+| cretype = Boss 
+| rank = 16
+| heal = 7,700
+| crecla = Alphoi
+| school = Fire
+| school2 = Storm
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+144 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+10%;
+
+| outboost =
+80%;
+
+| incboost =
+10% Ice, Myth;
+
+| incresist =
+50% Fire, Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Mud Fury (Rank 14);
+
+| summons =
+Flame Fury (Rank 14);
+Flood Fury;
+Mud Fury (Rank 14);
+Snow Fury (Rank 15, H2880);
+Steam Fury (Rank 14);
+Storm Fury (Rank 15, H2630);
+
+| world = Empyrea
+| location = Aeriel Jungle
+| subloc1 = Tower of Sycorax
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:'''Khan:''' ''"Pork, my old friend. You've made your way up here. Impressive, but you are too late. As you can see, I have completed a vessel to carry me away from this soggy sandheap. It is small, but upholstered with rich Valencian leather."''
+:'''Pork:''' ''"It's not too late, Khan. Give me back my Science Officer and the Lux Capacitor, and I'll get you to Zanadu. I promise."
+:'''Khan:''' ''"Never! To the last I will grapple with thee! For hate's sake I would spit my last breath at thee!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Don't insult my intelligence!"'' - If a Wizard joins the duel after the second Round, Khan will cast a Moon version of {{Link|Spell|Mana Burn}} on the Wizard that removes 4 Pips and summons one of the Minions listed below.
+*At the beginning of the duel, he will use his turn to cast a Moon Spell that summons one of the following Minions, then casts a Moon version of Cleanse Ward on himself:
+**{{Icon|Fire}} [[Creature:Flame Fury (Rank 14)|Flame Fury]]
+**{{Icon|Ice}} [[Creature:Snow Fury (Rank 15, H2880)|Snow Fury]]
+**{{Icon|Storm}} [[Creature:Storm Fury (Rank 15, H2630)|Storm Fury]]
+**{{Icon|Myth}} [[Creature:Mud Fury (Rank 14)|Mud Fury]]
+**{{Icon|Life}} {{Link|Creature|Flood Fury}}
+**{{Icon|Death}} [[Creature:Steam Fury (Rank 14)|Steam Fury]]
+*{{Icon|Minion}} ''"I'm afraid it's more difficult than you think, Wizard!"'' - At the end of each Round, if Khan does not have an equal number of Minions to the number of Wizards, he will summon another.
+*{{Icon|Round}} ''"From Tartarus' heart I will grapple with thee!"'' - At the end of every 5th Round:
+**A Minion will cast a Moon version of {{Link|Spell|Steal Health}} that sacrifices themselves to heal Khan for '''4,000''' Health.
+**Then, Khan casts an all-enemies version of {{Link|Spell|Wraith}} that gives him a '''+500%''' [[:Category:Blade Spells|Blade]] of the Minion's School, and deals '''500''' Damage of that School (using the Blade).
+*{{Icon|Trap}} ''"Is that the best you can do? I'm laughing at your superior magic!"'' - If a Trap is placed on Khan while a Minion is present, a Minion will interrupt-cast an Ice spell to steal one Trap.
+**This can be avoided with {{Link|Spell|Indemnity}}.
+
+| spellnotes =
+
+| casts =
+Brace;
+Frenzy;
+Fireblade;
+Stormblade (+30%);
+Windstorm (+25%);
+Fuel (+35%);
+Enfeeble (2 Pip);
+Natural Attack (Fire 120-240-360, 70%);
+Meteor Strike (355-395);
+Phoenix (600-680);
+Fire Dragon (495+395);
+Natural Attack (Storm 125-250-375, 65%);
+Stormzilla (755-835);
+Storm Lord (775);
+Sirens (965);
+Tempest (85);
+
+| quests =
+Khan Games;
+The Path of Khan;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge and has not unlocked the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge, the following drops will be available:
+*8 Spellements will drop each time from '''any''' School for their respective rank 10, 11, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+80 - 131;
+
+| hats =
+Cabal Schism Hood*F2;
+Cabalist Chaotic Hood*F2;
+Cabalist Hood of the First;
+Cabalist Hood of Vengeance;
+Nostalgic Cabal Hood;
+
+| robes =
+
+| boots =
+Cabalist Cleansing Stompers;
+Cabalist Stomps of Vengeance;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Dwarven Book Case;
+Dwarven Dinner Table;
+Dwarven File*F2;
+Empyrea Aeriel Theme*F2*WMV;
+Empyrea Brain Theme 1*F2;
+Empyrea Brain Theme 2*F2*WMV;
+Empyrea Brain Theme 3;
+Empyrea Finale Combat Theme;
+Empyrea Khan Theme*F3;
+Empyrea Lava Lock Theme;
+Empyrea Leisure Dome Theme*F2;
+Empyrea Sepidious Combat Theme*F3*WMV;
+Empyrea Sewer Theme*F2*WMV;
+Empyrea Zanadu Combat Theme;
+Fire Dwarf Bed*F2;
+Fire Dwarf Chair;
+Ice Dwarf Bed;
+Ice Dwarf Chair*F2;
+Pirate Party Barge Theme;
+
+| cards =
+Berserk;
+Brilliant Light*F2;
+Dream Shield;
+Frostbite;
+Link;
+Mutate Bird (Ice);
+Mutate Elf (Ice);
+Mutate Helephant (Ice);
+Mutate Hound (Ice);
+Mutate Kraken (Fire);
+Mutate Shark (Fire);
+Mutate Snake (Ice);
+Mutate Snowman (Fire)*F2;
+Sirens*F2;
+Storm Shield;
+
+| reagents =
+Ancient Scroll*F4;
+Blood Moss;
+Brass;
+Bronze Gear*F5;
+Cobalt*F3*WMV;
+Ectoplasm;
+Flying Squid Ink*F15*WMV;
+Nickel;
+Spider Silk*F2;
+Spring;
+
+| spellements =
+Iron Sultan*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Qismah's Curse*BR;
+Sabertooth*BR;
+Scion of Ice*BR;
+Scion of Myth*BR;
+Snowball Barrage*BR;
+
+| snacks =
+
+| jewels =
+Shiny Accurate Onyx +12%;
+Shiny Blocking Amethyst +15;
+Shiny Blocking Jade +15;
+Shiny Critical Amethyst +15;
+Shiny Damage Ruby +25;
+Shiny Defense Citrine +51;
+Shiny Defense Opal +25;
+Shiny Health Opal +109;
+Shiny Health Opal +110;
+Shiny Health Opal +111;
+Shiny Health Opal +113;
+Shiny Health Opal +114;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47;
+Shiny PIP Hematite +2;
+Sparkling Blocking Ruby +17;
+Sparkling Critical Ruby +17;
+Sparkling Damage Hematite +54;
+Sparkling Defense Citrine +53;
+Sparkling Defense Hematite +54*F2;
+Sparkling Defense Jade +54;
+Sparkling Defense Ruby +53*F3*WMV;
+Sparkling Defense Ruby +54;
+Sparkling Defense Sapphire +54*F2;
+Sparkling Health Opal +116;
+Sparkling Health Opal +117;
+Sparkling Health Opal +118*F2;
+Sparkling Health Opal +119*F2*WMV;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears*F2;
+Baby Carrots*F2*WMV;
+Bamboo Shoots;
+Boiled Peanuts*F6*WMV;
+Boom Shroom*F2;
+Boon Tree*CR;
+Bread Fruit Bush;
+Cornbread Fruit Bush;
+Couch Potatoes*CR*F2;
+Deadly Fly Trap*F2*WMV;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Face Palm;
+Fish on a Vine;
+Golden Couch Potatoes*F2*WMV;
+Goose Tree*F2;
+Grapes of Wrath*F2;
+Green Snow Apples;
+Honey Sickle;
+Pink Laugh-O-Dil;
+Purple Snow Apples;
+Red Couch Potatoes;
+Red Grapes of Wrath*CR;
+Saw Palmetto;
+Tiger Lily (Seed);
+Trumpet Vine;
+Ultra Alligator Pear Tree*F2*WMV;
+Ultra King Parsley;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

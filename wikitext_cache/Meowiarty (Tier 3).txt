@@ -1,0 +1,120 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 20
+| heal = 12,425
+| crecla = Cat
+| school = Myth
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| outpierce =
+40%;
+
+| outboost =
+142.35%
+
+| incboost =
+None;
+
+| incresist =
+50% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Koolakamba Warrior;
+
+| world = Housing Instance
+| location = Meowiarty Rematch
+| subloc1 = Meowiarty Challenge (Tier 3)
+| descrip =
+
+| cheatnotes =
+*''"Late? I'm quaking in my boots"'' - After his Minions are defeated, if a Wizard is late to combat, Meowiarty (Tier 3) will cast Earthquake.
+*''"I've taken the liberty of inviting some of your old friends"'' - At the start of the duel, he casts a Star Spell to summon three {{Link|Creature|Koolakamba Warrior}} Minions, and uses {{Link|Spell|Blinding Light}} on all Wizards.
+*''"Settle in. We've much to catch up on."'' - At the start of the second Round, he casts an AoE Star version of {{Link|Spell|Guardian Spirit}} that restores 100% Health after defeat.
+
+| spellnotes =
+*Casts a protected Mythblade.
+
+| casts =
+Reliquary (6 Rounds);
+Mythblade;
+Mass Myth Trap;
+Mythic Fuel;
+Time of Legend;
+Cyclops (Tier 5b);
+Splashsquatch (235-295);
+Snake Charmer;
+Minotaur (Tier 5b);
+Mystic Colossus;
+Earthquake;
+Stone Colossus (Tier 5b);
+Witch's House Call (No Minion);
+Tatzlewurm Terror (Tier 3a);
+Barbarian's Saga (Tier 3a);
+Natural Attack (Meowiarty);
+
+| quests =
+
+| gold =
+1115 - 1162;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Broken Jail Cell;
+Jail Cell;
+
+| cards =
+Azoth;
+To Regent's Square;
+
+| reagents =
+Scrap Iron;
+
+| spellements =
+Cyclops Minion;
+Gearhead Destroyer;
+Ice Wyvern;
+Immolate;
+Kraken;
+Seraph;
+Vampire;
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Meowiarty (Rematch)
+}}

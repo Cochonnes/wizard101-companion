@@ -1,0 +1,174 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 999
+| heal = 100,000
+| crecla = Krokotopian 
+| school = Balance
+| startpips = 6
+| powerpips = Yes
+| cheats = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+40% Fire, Ice, Storm, Shadow;
+70% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Selenopolis
+| badge = The Great Riddlemancer
+| descrip =
+Krokosphinx (Balance) is a secret Boss, accessed after defeating {{Link|Creature|Khonsu (Standard)}}. This Boss is in a unique zone and can also only be accessed by teleporting to a placed mark, as well as after defeating Khonsu. The teleporter that appears after defeating this Boss does not bring you back to this zone.
+*As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+'''1st Riddle'''
+*{{Icon|Round}} ''"I am caustic and invisible; I can be measured, but never touched; and I am infinite, but always in short supply. What am I?"'' - At the end of the first Round, Krokosphinx will change each Wizards' Spell Decks, giving all Wizards the following Spells and '''20,000 Health''':
+**{{GivesSpell|spells = 5|size = x150px|Candy|Crowns|Space|Summer|Time}}
+**'''Correct Answer: Time'''
+*''"Correct. Time rots the world, renders empire into ruins."'' - If answered correctly, Krokosphinx will cast a +100% Damage Trap on itself.
+*''"WRONG!"'' - Krokosphinx will say this if answered incorrectly.
+
+'''2nd Riddle'''
+*{{Icon|Round}} ''"What is a bringer of death and life, light and shadow, and energy and exhaustion?"'' - At the end of the second Round, Krokosphinx will change each Wizards' Spell Decks, giving all Wizards the following Spells and '''20,000 Health''':
+**{{GivesSpell|spells = 5|size = x150px|Conversation|Exercise|Sugar|The Moon|The Sun}}
+**'''Correct Answer: The Sun'''
+*''"Yes, the sun enables, but also burns. Its light casts shadow. And its energy brings wearying heat."'' - If answered correctly, Krokosphinx will cast a +100% Damage Trap on itself.
+*''"WRONG!"'' - Krokosphinx will say this if answered incorrectly.
+
+'''3rd Riddle'''
+*{{Icon|Round}} ''"I haunt like a ghost, ensnare like a trap and lie to my creator. I bring gentle comfort or bitter sickness. I am faded, but forever. What am I?"'' - At the end of the third Round, Krokosphinx will change each Wizards' Spell Decks, giving all Wizards the following Spells and '''20,000 Health''':
+**{{GivesSpell|spells = 5|size = x150px|Hunger|Memory|Pictures|Poltergeist|Regret}}
+**'''Correct Answer: Memory'''
+*''"Indeed, memory is a fickle thing. It can deceive us, dismay us or remind us of happier days."'' - If answered correctly, Krokosphinx will cast a +100% Damage Trap on itself.
+*''"WRONG!"'' - Krokosphinx will say this if answered incorrectly.
+
+| spellnotes =
+
+| casts =
+Chastisement (6 Rounds);
+Punishment (6 Rounds);
+Balanceblade; 
+Balanceblade (+30%);
+Dragonblade;
+Dragonlance;
+Mass Hex;
+Feint (All Enemies);
+Iron Curse;
+Sandstorm (Tier 2b);
+Power Nova (Tier 2b);
+Ra (Tier 2b);
+
+| quests =
+
+| gold =
+1 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Selenopolis Blended Grove Theme;
+Selenopolis Combat Theme;
+Selenopolis Field of Reeds Theme;
+Selenopolis Forgotten Combat Theme;
+Selenopolis Forgotten Theme;
+Selenopolis Garden Combat Theme;
+Selenopolis Garden Theme;
+Selenopolis Theme;
+Selenopolis Zigazag Market Theme;
+
+| cards =
+Avenging Fossil;
+Basilisk;
+Celestial Calendar;
+Chimera;
+Dr. Von's Monster;
+Efreet;
+Gnomes!;
+Leviathan;
+Lord of Winter;
+Medusa;
+Ra;
+Rebirth;
+Sabertooth;
+Sirens;
+Skeletal Dragon;
+Snow Angel;
+Spinysaur;
+Storm Owl;
+Sun Serpent;
+
+| reagents =
+Amber Dust;
+Astral Shard;
+Draconium*F2*WMV;
+Iron;
+Merle's Whisker;
+Mithril;
+Orichalcum;
+Platinum;
+Silver;
+Steel;
+Titanium;
+Turquoise;
+Toffee Bean*F2;
+
+| spellements =
+
+| snacks =
+Alligator Pear;
+Baby Carrot;
+Crab Apples;
+Cubby Broccoli;
+Dr. Jalapeno;
+Killer Kumquat;
+Kroklava;
+Spicy Stingers;
+Tortilla Chips;
+Zen Poppers;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,346 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 17,200
+| crecla = Caiman
+| school = Death
+| masteries =
+Ice;
+
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+110 Any;
+
+| criticalblock =
+69 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+New Moon Priest;
+
+| world = Azteca
+| location = Tierra de Brea
+| subloc1 = Cipactli's Cave
+| lootchest = Cipactli's Chest
+| descrip =
+Two additional New Moon Priest Minions appear if more than two Wizards are present
+
+| speech =
+:''"Are you the one who sent the songbird to me with this War Challenge? Hmph. I'll admit, it is impressive. I expected you to be taller. Nevertheless, I have prepared my greatest spells to destroy you. Do I smell your fear? Fear is a disease. It poisons the spirit. Let me help you strike it from your heart. Come into my maw, and do not be afraid!"''
+
+| cheatnotes =
+'''Interrupt Cycles'''
+:This battle revolves around two alternating '''Interrupt Cycles:''' "Ward Dance" and "Charm Dance." Each cycle is three Rounds in length. The first cycle, Ward Dance, starts in Round 3 (Rounds 3,4,5), and the second cycle, Charm Dance, starts in Round 6 (Rounds 6, 7, 8), making the entire interrupt cycle 6 Rounds in length (starting over at the beginning of Round 9).
+
+:{{Icon|Ward}} '''Ward Dance Cycle''' ''(starts in Round 3)''
+:At the beginning of the first Round in this cycle, Cipactli will place a {{Link|Spell|Hex}} on a random Wizard and a [[Spell:Stun Block|Stun Shield]] "mark" on all Wizards. 
+
+:*''"Can you follow the steps of my war dance?"'' - At the beginning of the first Round in each Dance cycle, Cipactli will place a Stun Shield "mark" on each Wizard. If the mark is not removed in the first or second Round of each Dance cycle, then he will cheat-cast a {{Link|Spell|Dr. Von's Monster}} dealing '''820''' Steal Damage, and places a -25% Healing Charm at the Wizard in the beginning of the third Round.
+:*''"Those who cannot keep up must perish!"'' - At the beginning of the third Round in each Dance cycle, he will cheat-cast Dr. Von's Monster at any Wizard who did not get rid of the Stun Shield mark in the first or second Round.
+
+:{{Icon|Charm}} '''Charm Dance Cycle''' ''(starts in Round 6)''
+:At the beginning of the first Round in this cycle, Cipactli places a {{Link|Spell|Balanceblade}} on himself and a Stun Shield "Mark" on all Wizards.
+
+:'''General Rules:'''
+::Wizards can remove the "mark" during each cycle by casting either [[:Category:Ward Spells|Wards]] (e.g. Shields, [[:Category:Trap Spells|Traps]], Prisms) or [[:Category:Charm Spells|Charms]] (e.g. [[:Category:Blade Spells|Blades]], Dispels, {{Link|Spell|Weakness}}, etc.) - this will also cause him to remove all Wards from the Wizard.
+::*{{Link|Spell|Melt}} can be used to Dispel him from placing his mark on Wizards.
+::*Ward Shields may only be cast on the Wizard in the first position (Sun spot). Shields cast on other Wizards are removed.
+:::*If a Wizard casts {{Link|Spell|Legion Shield}}, the Shield will only be removed from the caster.
+:::*The self-trap portion of {{Link|Spell|Feint}} will be immediately removed after casting.
+::*[[:Category:Global Spells|Global]] Spells, such as {{Link|Spell|Sanctuary}} and {{Link|Spell|Wyldfire}}, will trigger him to remove the mark.
+::*The {{Link|Spell|Earthquake}} cast by his Minion(s) will remove the mark.
+::*[[:Category:Aura Spells|Aura]] Spells, such as {{Link|Spell|Galvanic Field}} and {{Link|Spell|Sleet Storm}}, will not trigger him to remove the mark.
+::*Pet Spells will not trigger him to remove the mark.
+::*Gear/Equipment Item Cards will not trigger him to remove the mark.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Deathblade;
+Death Trap;
+Doom and Gloom;
+Deer Knight;
+Natural Attack (Death 200-400-600);
+Poison;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith (575);
+Scarecrow;
+Skeletal Dragon;
+Dr. Von's Monster;
+Avenging Fossil;
+Frozen Kraken;
+
+| quests =
+The Jaws of Defeat;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge and has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge, the following drops will be available:
+*9 Spellements will drop each time from '''any''' School for their respective rank 6-10 Spells.
+
+| gold =
+141 - 299;
+
+| hats =
+Face of Black Tears*F2*WMV;
+Falling Star Chac's Helmet*F4*WMV;
+Moon Caiman's Headdress;
+Winged Tooth Knight's Crown*F5*WMV;
+
+| robes =
+Fiery Chac's Great Armor;
+Moon Caiman's Scales*F2*WMV;
+Philosoraptor's Abstract Garb*F2*WMV;
+Winged Tooth Knight's Tunic*F2*WMV;
+
+| boots =
+Black Tears of Night Wraps;
+Fiery Chac's Great Boots;
+Ice Age Tyrant's Walkers;
+Indigo Wing Striders;
+Jaguar Prince's Leapers*F2*WMV;
+Moon Caiman's Scaly Boots*F5*WMV;
+Smoking Obsidian Rangers*F2*WMV;
+Storm Owl's Favored Trackers;
+Winged Tooth Knight's Boots*F3*WMV;
+
+| athames =
+Blade of the Green Song*F2*WMV;
+Deathless Storm Horn Dagger*F2*WMV;
+Sacred Sunblade of Alto Alto;
+Savage Spike Horn Cutter*F2*WMV;
+Seven Stabs of the Sky Athame*F2*WMV;
+Vibrant Green Flower Thorn*F3*WMV;
+
+| amulets =
+Brilliant Night Mask Memento*F3*WMV;
+Golden Death Head Relic*F2*WMV;
+Kronosaur's Shell of Passion;
+Storm Caiman's Sparking Eye*F2*WMV;
+
+| rings =
+Apocalypto Ring*F4*WMV;
+Bleeding Sun Warrior's Loop*F2*WMV;
+Broken Spears Band*F2*WMV;
+Chac's Challenge Loop;
+Falling Star's End Time Band;
+Mother Moon's Count Ring;
+Ring of Aztlan*F2*WMV;
+Seal of Thunder Horn's Glory;
+Smoking Mirror's War Ring;
+Storm Caiman's Tailbiter Ring*F2*WMV;
+Storm Quetzal's Signet;
+Twin Giants Fashioned Stone;
+Twisting Season Ring;
+Underworld Stone;
+Xibalba's Dread Seal*F2*WMV;
+
+| wands =
+Brutal Ice Arrow Rod*F2*WMV;
+Coatl's Biting Wand;
+Head of the Fire Arrow Wand;
+Last Quetzal's Bite*CR;
+
+| decks =
+Case of Mother Moon;
+Cipactli's Lost Cards*F4*WMV;
+Cold Codex*F2*WMV;
+Jaguar Paw Pyramid;
+Storm Caimans Pyramid Deck*F3*WMV;
+White Fire Case*F4*WMV;
+
+| items =
+Azteca Combat Theme*F2*WMV;
+Azteca Dungeon Theme*F4*WMV;
+Azteca Haunted Theme;
+Azteca Post Apocalypse Theme;
+Azteca Pot;
+Azteca Swamp Theme*F2*WMV;
+Gold Nugget*F2*WMV;
+Ornate Mask*F2*WMV;
+Palma Dino*F3;
+Pathfinder;
+Toucan Mask;
+
+| cards =
+Azoth*F2*WMV;
+Basilisk*F2;
+Chastisement*F2*WMV;
+Chimera*F2*WMV;
+Cloud Demon;
+Colossal*F2*WMV;
+Cycle of Life*F3*WMV;
+Dr. Von's Monster;
+Efreet;
+Extraordinary*F2*WMV;
+Forest Lord;
+Furnace;
+Galvanic Field*F2*WMV;
+Gnomes!*F2*WMV;
+Leviathan;
+Medusa;
+Mend;
+Polymorph Icehorn*F4*WMV;
+Polymorph Jaguar*F2*WMV;
+Polymorph Pteranodon*F2*WMV;
+Potent Trap*F3*WMV;
+Primordial*F3*WMV;
+Punishment*F2*WMV;
+Ra;
+Rain of Fire;
+Reliquary*F2;
+Sharpened Blade*F3*WMV;
+Sirens;
+Sleet Storm*F2;
+Snow Angel;
+Vengeance;
+Virulence*F2*WMV;
+Woolly Mammoth;
+
+| reagents =
+Amber Dust*F2*WMV;
+Black Lotus*F4*WMV;
+Black Pearl*F2;
+Blood Moss*F3;
+Bone*F2*WMV;
+Brass;
+Bronze;
+Bronze Gear*F3*WMV;
+Deep Mushroom*F3*WMV;
+Fire Blossom*F6*WMV;
+Fossil*F2*WMV;
+Golden Pearl*F2*WMV;
+Lava Lily*F3*WMV;
+Mist Wood*F2*WMV;
+Mithril;
+Nightshade*F3*WMV;
+Ore*F5*WMV;
+Red Mandrake*F5*WMV;
+Silver;
+Stone Block*F3*WMV;
+Sunstone*F2*WMV;
+Tin;
+Titanium;
+Turquoise*F4*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Centaur*BR;
+Chimera*BR;
+Colossus*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+Helephant*BR;
+Hydra*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Triton*BR;
+Woolly Mammoth*BR;
+Wraith*BR;
+
+| snacks =
+Allocados*F3*WMV;
+Bedrock Bonbons*F2*WMV;
+Cacao Beans;
+Cactus Fruit*F2*WMV;
+Caramel Apple*F3*WMV;
+Chili Peppers;
+Deviled Eggs;
+Fried Ice Cream*F3*WMV;
+Glowing Star Fruit;
+Guava*F2;
+Gummy Wyrms;
+Jelly Baby;
+Papaya;
+Quetzal Pretzel*F3*WMV;
+Saber-Tooth Cider;
+Saursa;
+Tamales*F4*WMV;
+Tenochti-Flan*F2*WMV;
+Zocalo Wings*F2*WMV;
+
+| jewels =
+Attentive Opal;
+Buff Minion Peridot;
+Clear Blocking Opal +5;
+Cyclops Minion Peridot;
+Dogged Opal;
+Feinting Spell Onyx;
+Fire-Boon Ruby;
+Fire-Eye Ruby;
+Gargantuan Opal;
+Polished Critical Hematite +11;
+Polished Damage Ruby +21;
+Polished Damage Sapphire +21;
+Polished Defense Opal +22; 
+Polished Health Opal +89;
+Polished Health Opal +90;
+Sap Power Amethyst;
+Shield Minion Peridot;
+Sprite Time Jade;
+Stormclaw Amethyst;
+Unstoppable Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Blue Huckleberries;
+Deadly Fly Trap*F2*WMV;
+Deadly Ninja Fig*F2;
+Pink Dandelion*CR;
+Pink Huckleberries;
+Red Bell Pepper;
+Red Huckleberries;
+Silver Trumpet Vine*CR*F2*WMV;
+Trumpet Vine*F2*WMV;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

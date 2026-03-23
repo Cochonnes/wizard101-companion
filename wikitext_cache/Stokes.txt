@@ -1,0 +1,116 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 15,970
+| crecla = 
+| school = Myth
+| startpips = 6
+| powerpips = Yes
+| critical =
+69 Any;
+
+| criticalblock =
+540 Any;
+
+| outpierce =
+21%;
+
+| outboost =
+94%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+43% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+73% Myth;
+
+| outhealing =
+43%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Demimortal Gargoyle (3,785);
+
+| world = Darkmoor
+| location = Graveholm
+| subloc1 = Old House
+| descrip =
+
+| speech =
+
+| cheatnotes =
+{{Icon|Round}} At the beginning of any odd-numbered round, including the first round, Stokes will summon an additional minion at random:
+*{{Icon|Ice}} ''"Aye, Ice Magic, that's the missing ingredient!"'' Stokes will cast a spell that deals 500 Ice Damage and, if there is an open slot, summons an {{Link|Creature|Ice Ninja Pig}} minion.
+*{{Icon|Life}} ''"Maybe the Curse just needs more Life!"'' Stokes will cast a spell that deals 500 Life Damage and, if there is an open slot, and summons a {{Link|Creature|Life Cyclops}} minion.
+*{{Icon|Storm}} ''"Now feel the Scholomance's Storm!"'' Stokes will cast a spell that deals 500 Storm Damage and, if there is an open slot, summons a {{Link|Creature|Storm Medusa}} minion.
+*{{Icon|Fire}} ''"Hmm, have a little Fire!"'' Stokes will cast a spell that deals 500 Fire Damage and, if there is an open slot, summons a {{Link|Creature|Fire Bloodbat}} minion.
+*{{Icon|Death}} ''"Let's see the Scholomance powered by Death!"'' Stokes will cast a spell that deals 500 Death Damage and, if there is an open slot, summons a {{Link|Creature|Death Troll}} minion.
+*{{Icon|Balance}} ''"I'll mix the Curse up with Balance!"'' Stokes will cast a spell that deals 500 Balance Damage and, if there is an open slot, summons a {{Link|Creature|Balance Minotaur}} minion.
+*The final minion summoned can take the place of Stokes if he is defeated on the same turn.
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Mass Myth Trap;
+Myth Trap;
+Ether Golem (Tier 2b);
+Orthrus;
+Phantastic Jinn;
+
+| quests =
+Shadowy Darkness;
+As the Grave Turns...;
+
+| gold =
+36 - 92;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Creepy Bookshelf*CR;
+
+| cards =
+Rebirth;
+Storm Owl;
+Sun Serpent;
+
+| reagents =
+Mithril;
+
+| spellements =
+
+| snacks =
+Cubby Broccoli;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,91 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 13,440
+| crecla = Wolverine
+| school = Storm
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 5)
+| descrip =
+Rabid Wildclaw (Tier 5) is considered a Minion to {{Link|Creature|Jokul (Tier 5)}}.  All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Amplify;
+Stormblade (+30%);
+Storm Trap;
+Windstorm (+25%);
+Storman (290);
+Triton (920-1,000);
+Leviathan;
+Storm Hound;
+
+| quests = 
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,207 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 17,515
+| crecla = Scorpion
+| school = Balance
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Poison Tip Thrasher;
+Poison Tip Thrasher;
+Poison Tip Thrasher;
+
+| world = Khrysalis
+| location = Kondha Desert
+| subloc1 = Metasoma Cave
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Infallible;
+Vengeance;
+Black Mantle;
+Balanceblade;
+Hex;
+Mana Burn;
+Natural Attack (Balance 160-255-350);
+Samoorai;
+Power Nova;
+Ra;
+Sabertooth;
+Judgement;
+
+| quests =
+Giving Your Gall;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*16 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+| gold =
+275 - 319;
+
+| hats =
+Dragonfly Rider's Helm*F4;
+The Savvy Satyr*CR;
+
+| robes =
+Flame Legs Captain's Mail*F2*WMV;
+
+| boots =
+Boots of the BurrowBuilder*F3*WMV;
+Mantis Chitin Runners;
+Tireless Digger's Boots;
+
+| athames =
+
+| amulets =
+Charm of the Fierce Mantis;
+FireWing's Jewel;
+
+| rings =
+Mantis Prophet's Ringlet;
+
+| wands =
+Ice-Forged Burrower Steel;
+Staff of the Sand Devil;
+
+| decks =
+LimeBlight's Gallery*F2;
+Pack of Frozen Souls*F2;
+
+| items =
+Khrysalis Combat Theme 2;
+
+| cards =
+Avenging Fossil;
+Furnace;
+Galvanic Field;
+Giant Spider;
+Legendary Treant (445);
+Locust Swarm;
+Luminous Weaver*F2;
+Polar Swarm;
+Scorpion;
+Sprite Swarm (40+360)*F2;
+
+| reagents =
+Astral Shard*F6*WMV;
+Black Lotus*F2;
+Blood Moss;
+Bone*F3;
+Bronze Gear;
+Copper;
+Deep Mushroom*F2;
+Draconium;
+Fire Blossom;
+Golden Pearl*F2;
+Iron;
+Lava Lily*F2;
+Mist Wood*F2;
+Nickel;
+Ore*F4;
+Orichalcum;
+Red Mandrake*F2;
+Silver;
+Stone Block*F5*WMV;
+Titanium;
+Tungsten;
+Turquoise*F4*WMV;
+
+| spellements =
+Avenging Fossil*BR*F2;
+Basilisk*BR;
+Celestial Calendar*BR*F2;
+Chimera*BR*F2;
+Dr. Von's Monster*BR*F3;
+Efreet*BR*F3;
+Fire Dragon*BR*F2;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR*F2;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR*F3;
+Lord of Winter*BR*F2;
+Medusa*BR;
+Orthrus*BR*F2;
+Power Nova*BR;
+Ra*BR*F3;
+Rain of Fire*BR*F4;
+Rebirth*BR;
+Sabertooth*BR*F2;
+Scarecrow*BR;
+Sirens*BR*F2;
+Skeletal Dragon*BR*F2;
+Snow Angel*BR*F2;
+Spinysaur*BR*F3;
+Storm Lord*BR;
+Storm Owl*BR*F2;
+Sun Serpent*BR*F2;
+Woolly Mammoth*BR;
+
+| snacks =
+Golden Apple;
+Gummy Bees*F2;
+Gummy Humongofrog*F2;
+Hive Rinds;
+Honey Bombs;
+Honeycrisp Apples;
+King Banana;
+Salmonberry;
+Shiny Tomato;
+Sugar Khrystals;
+Uni-Corn;
+
+| jewels =
+Chipped Mana Opal +10;
+Chipped Mana Opal +11;
+Cracked Defense Jade +12;
+Cracked Defense Opal +4;
+Death-Proof Onyx;
+Imp Jade;
+Polished Accurate Opal +5%;
+Polished Damage Jade +21;
+Polished Piercing Opal +3%;
+Sap Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+
+| mounts =
+
+| spells =
+
+}}

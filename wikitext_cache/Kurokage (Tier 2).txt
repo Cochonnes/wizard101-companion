@@ -1,0 +1,168 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 1,965
+| crecla = Pig
+| school = Myth
+| cheats = Yes
+| startpips = 
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Kasuka Monk (Tier 2);
+Kyoukontei Treant (Tier 2);
+Zoraimei Wildclaw (Tier 2);
+
+| world = Housing Instance
+| location = Midnight Sun Pagoda
+| subloc1 = 
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Exudes an odor so toxic, it erodes magical shields.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Damage}} ''"You won't last long without shields!"'' - If a Wizard casts a Damage Spell on Kurokage and does not have a Shield, then Kurokage will interrupt-cast a version of {{Link|Spell|Vampire}} on the Wizard that damaged him.
+*{{Icon|Manipulation}} Every other Round, Kurokage will interrupt-cast a Myth Spell that removes all Wards from a random Wizard.
+
+| spellnotes =
+
+| casts =
+Storm Shield;
+Mythblade;
+Blood Bat;
+Cyclops;
+Humongofrog;
+Scorpion;
+Sunbird;
+Storm Shark;
+
+| quests =
+
+| gold =
+37 - 53;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Bamboo Barrier;
+Crossed Naginata Spears;
+Green Sword Display;
+Moodha Bust;
+MooShu Combat Theme;
+Oni Bobblehead;
+Pearl Orchid;
+Small Wooden Table*WMV;
+Tatami Floor Mat;
+Wooden Memorial*WMV;
+
+| cards =
+Accurate;
+Aiuchi;
+Kakeda Painbringer;
+Koto;
+Ninja Pigs;
+Otomo Fury;
+Tamauji*WMV;
+Yochimo;
+
+| reagents =
+Amethyst*WMV;
+Citrine;
+Ghost Fire*WMV;
+Jade;
+Leather Straps;
+Onyx;
+Pyrite;
+Sapphire;
+Shadow Oil*WMV;
+
+| spellements =
+
+| snacks =
+Eggplant;
+Fire Cracker*WMV;
+Fire Passion Fruit;
+Flaming Soup;
+Golden Pizza;
+Golden Squash;
+King Banana;
+Large Watermelon;
+MooShu Broccoli;
+Sweet Pineapple;
+
+| jewels =
+Chipped Accurate Citrine +3%;
+Chipped Damage Opal +4;
+Cracked Damage Peridot +6;
+Cracked Damage Sapphire +5;
+Cracked Defense Opal +5;
+Leprechaun Jade;
+
+| pins =
+
+| pets =
+Brown Spider;
+Goat Monk;
+Jade Oni*CR;
+Ninja Pig*F2;
+Stone Colossus;
+Yellow Ghost;
+
+| seeds =
+Orange Dandelion;
+Pink Laugh-O-Dil*WMV;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,154 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 4,560
+| crecla = Fox
+| crecla2 = Undead
+| school = Death
+| masteries =
+Myth;
+
+| cheats = Yes
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| summons =
+MacDeath Understudy (Tier 3);
+MacLife Understudy (Tier 3);
+MacStorm Understudy (Tier 3);
+
+| world = Housing Instance
+| location = Playhouse
+| subloc1 = Playhouse (Tier 3)
+| descrip =
+MacDeath (Tier 3) is considered a Boss for the purpose of drops.  All drops from this duel are recorded on this page.
+
+| speech =
+
+| monstrotomedescrip =
+Those who escape his Down Stage often say Macdeath is full of sound and fury, signifying ouchies.
+
+| summon_animus = 20
+| summon_gold = 1,000
+| guest_animus = 30
+| guest_gold = 2,500
+| can_expel = No
+
+| cheatnotes =
+*{{Icon|Minion}} ''"May a choir of understudies sing thee to thy rest!"'' - MacDeath will cast a Moon Spell to summon one of the following Minions:
+**{{Link|Creature|MacDeath Understudy (Tier 3)}}, {{Link|Creature|MacLife Understudy (Tier 3)}}, {{Link|Creature|MacStorm Understudy (Tier 3)}}.
+*{{Icon|Feint}} ''"This is your moment in the spotlight!"'' - If a Feint is cast on MacDeath, a Minion will cast an Ice Spell to move the Trap to themselves. This includes Mass Feint.
+*{{Icon|Late}} ''"Late arrivals will not be seated!"'' - Casts Feint (+75%), Curse (+25%), and Curse '''+35%''' on the late Wizard.
+*{{Icon|Global}}{{Icon|Healing}} ''"Out, out, brief candle!"'' - MacDeath will cast Doom and Gloom (-75%) if a Healing or Global Spell is cast.
+**This will trigger if MacLife Understudy casts Giant Spider.
+*{{Icon|Manipulation}} ''"We few, we happy few, we band of beguileds"'' - MacDeath will cast Beguile on a Wizard.
+
+| spellnotes =
+
+| casts =
+Ether Shield (-75%);
+Plague (-25%);
+Deathblade (+40%);
+Feint (+75%);
+Blinding Light (85%);
+Vampire (375);
+Deer Knight (330+300);
+Skeletal Pirate (500-580);
+Wraith (575);
+Scarecrow;
+
+| quests =
+The Play's the Thing;
+
+| gold =
+34 - 41;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Dragonrider's Balance Blade (Level 100+)*CR;
+
+| decks =
+
+| items =
+Dragon Pedestal;
+Dramaturgy MacDeath Theme;
+
+| cards =
+Freeze;
+Frost Beetle;
+Harvest Lord;
+Icebird;
+Imp;
+Krokomummy;
+Pigsie;
+Punishment;
+Storm Bird;
+
+| reagents =
+Citrine;
+Iron;
+Lead;
+Nickel;
+Onyx;
+Perfect Amethyst;
+Perfect Jade;
+Scrap Iron;
+Silver;
+Spring;
+
+| spellements =
+
+| snacks =
+Cranberry Frog;
+Lemon Daisy;
+Salmon Joy;
+Tiny Fish;
+
+| jewels =
+
+| pins =
+
+| pets =
+Crimson Spectre;
+Skeletal Gladiator;
+
+| seeds =
+
+| mounts =
+Dragon Wings*PERM;
+
+| spells =
+
+}}

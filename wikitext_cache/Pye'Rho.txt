@@ -1,0 +1,159 @@
+{{Stub|Spells and drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 1,740
+| crecla = Beastmoon Creature
+| school = Fire
+| startpips = 3
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions = 
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Avalon Battlegrounds
+| location2 = Arena
+| subloc2 = Celestia Battlegrounds
+| descrip =
+Pye'Rho is one of the Boss monsters that can be encountered during the second Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events. They will have 1 random, Rank 2 Elite, Stage 2 Minion and 1 random, Rank 1, Stage 2 Minion present to assist them.
+
+'''Potential Rank 2 Balance Elite Minions:'''
+*{{Link|Creature|Dune Raider}}
+
+'''Potential Rank 1 Balance Minions:'''
+*{{Link|Creature|Pyreborn Infantry}}
+
+'''Potential Rank 2 Elemental Elite Minions:'''
+*{{Link|Creature|Electrical Storm Lagoony}}
+*{{Link|Creature|Fried Crab}}
+*{{Link|Creature|Glacier Spriggan}}
+*{{Link|Creature|Responsi-Bot}}
+
+'''Potential Rank 1 Elemental Minions:'''
+*{{Link|Creature|Chilly Fishman}}
+*{{Link|Creature|Harmony Eel}}
+*{{Link|Creature|Seared Flyingfish}}
+
+| speech =
+
+| spellnotes =
+*Casts a 0-Pip, 75 Damage version of Dive-Bomber Beetle.
+*Casts a 225 Damage over 3 Rounds version of Irksome Mander.
+**It is currently unknown whether the Clear effect occurs.
+*Casts a 5-Pip, 325 Damage version of Fiery Doom.
+**It is currently unknown whether the Damage over Time effect occurs.
+*Casts a 4-Pip Sunbird version of Surtr's Rage that deals 375 Damage over 3 Rounds.
+
+| casts =
+Irksome Mander;
+Dive-Bomber Beetle;
+Fiery Doom;
+Surtr's Rage;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 10 - 15 Lunari.
+
+| gold =
+52 - 62;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone*F2;
+Balance Rune*F2*WMV;
+Balance Thread*F2*WMV;
+Death Rune;
+Draconian Idol (Ice)*F2;
+Eldritch Thread*F7*WMV;
+Eldritch Thread @ 2 Eldritch Thread*F2;
+Elemental Moonstone*F3*WMV;
+Elemental Thread*F4*WMV;
+Elf Idol (Balance);
+Elf Idol (Ice);
+Elf Idol (Storm);
+Enhanced Fire Rune;
+Fire Rune*F3*WMV;
+Fire Thread;
+Harmonious Moonstone*F3*WMV;
+Hunter's Moonstone*F5*WMV;
+Ice Moonstone*F2*WMV;
+Ice Thread;
+Minotaur Idol (Ice);
+Ninja Pig Idol (Storm);
+Rat Thief Idol (Storm);
+Storm Moonstone*F2*WMV;
+Storm Thread*F2;
+
+| spellements =
+Elemental Golem;
+Frostfeather*F4*WMV;
+Glacial Golem*F4*WMV;
+Golem\: Taunt;
+Heck Hound;
+Inferno Salamander;
+Iron Curse;
+Monster Mash;
+Naphtha Scarab;
+Stormwing;
+Thermic Golem*F3;
+Thunderman*F3*WMV;
+Volcanic Golem;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| recipes =
+7 Judgement Spellements;
+7 Thunderman Spellements;
+
+}}

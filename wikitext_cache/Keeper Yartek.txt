@@ -1,0 +1,128 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 5,200
+| crecla = Zebra
+| school = Myth
+| startpips = 4
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Zafaria
+| location = Stone Town
+| subloc1 = Kasbah of Zanj
+| descrip =
+| speech =
+:''"You defeated Nerys Barbed Heart?  Shocking!  You Wizards are loud and ugly!  I will spear you and leave you in the desert!"''
+
+| spellnotes =
+'''Natural Attack'''
+*Deals ~110 Myth Damage per Pip.
+
+| casts =
+Amplify;
+Infallible;
+Myth Trap;
+Time of Legend;
+Humongofrog;
+Minotaur;
+Earthquake;
+Orthrus;
+Medusa;
+Basilisk;
+
+| quests =
+The Barbed Heart;
+
+| gold =
+51 - 75;
+
+| hats =
+
+| robes =
+Brave One's Plate;
+Cold River Cloak*F2;
+Irontrunk Cloak of Dreams;
+Jambo Jacket;
+Outsider's Symmetrical Jacket;
+Robes of the Silent Hunter;
+Shaman's Storm Sky Cloak;
+Tunic of Nature's Wrath;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Centaur;
+Colossus;
+Helephant*F2;
+Phoenix;
+Skeletal Pirate;
+Spectral Blast;
+Stormzilla;
+Wraith*F2;
+
+| reagents =
+Cat Tail;
+Cobalt;
+Deep Mushroom;
+Lava Lily;
+Mist Wood;
+Ore*F2;
+Parchment;
+Pearl;
+Red Mandrake;
+Shell;
+Steel;
+Stone Block;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

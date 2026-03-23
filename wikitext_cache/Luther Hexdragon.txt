@@ -1,0 +1,133 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 4,940
+| cheats = Yes
+| crecla = Wizard
+| school = Storm
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+Death, Ice;
+
+| incresist =
+Fire, Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Hexxan Lord;
+
+| world = Avalon
+| location = Catacombs
+| subloc1 = Dead Kings Crypt
+| descrip =
+*Defeating Luther Hexdragon is part of the Adept Death Weaving quest, ''"I Meet Dead People"''. Wizards can also defeat Luther Hexdragon three times as one of their Death Weaving lessons, which awards the badge, [[Basic:Death Weaving Badges|Hexdragon Slayer]].
+
+| speech =
+:'''{{Link|NPC|Baal Lorekeeper}}''': ''"Wizard, allow me to introduce you to the man who united the ancient tribes and clans and forged the kingdom of Avalon, the Sixfold King...Luther Hexdragon."''
+:'''Luther Hexdragon''': ''"Braaaaaiiiiinnnns!''"
+:'''Baal Lorekeeper''': ''"Of course."''
+
+| cheatnotes =
+*{{Icon|Charm}} ''"I summon the blades from the boulders"'' - At the beginning of every Round, Luther Hexdragon will cast one of the following Spells:
+**{{Link|Spell|Catch of the Day (Tier 5b)}}
+**{{Link|Spell|Dragonlance}}
+**{{Link|ItemCard|Storm Beetle}}
+**Stormblade
+*{{Icon|Curse}} Casting a Death Damage Spell that removes helpful Charms on Luther Hexdragon will disable his Blade cheat.
+*{{Icon|Afterlife}} If Luther Hexdragon is defeated while his Blade cheat is still active, then he will revive with full Health.
+*{{Icon|Spell}} ''"As long as I hold a blade, I cannot fall"'' - Whenever Luther Hexdragon revives, Wizards will be given the following Spells:
+**{{GivesSpell|cards=2|size=x150px|Scarecrow (Tier 2b)|Skeletal Dragon (Tier 2b)}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Sirens;
+Tempest;
+
+| quests =
+3x6;
+I Meet Dead People;
+
+| dropnotes =
+Wizards will receive Jewels that are appropriate for their Level.
+
+| gold =
+5 - 18;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Banshee (Tier 2b)*F3*WMV;
+Dark Sprite (Tier 2b);
+Death Trap;
+Deathblade*F3*WMV;
+Dr. Von's Monster (Tier 2b);
+Ghoul (Tier 2b)*F2;
+Scarecrow (Tier 2b)*F2;
+Skeletal Dragon (Tier 2b)*F2;
+Wraith (Tier 2b);
+
+| reagents =
+Weft Yarn @ 22 Weft Yarn;
+Weft Yarn @ 26 Weft Yarn*F2*WMV;
+Weft Yarn @ 32 Weft Yarn*F2;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Flawless Accurate Onyx +16%*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

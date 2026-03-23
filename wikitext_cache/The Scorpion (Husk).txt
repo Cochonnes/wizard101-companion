@@ -1,0 +1,121 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 16,800
+| crecla = Scorpion
+| school = Shadow
+| masteries =
+Fire;
+Ice;
+Storm;
+Myth;
+Life;
+Death;
+Balance;
+
+| shadowslots = 3
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+7%;
+
+| outboost =
+55%;
+
+| incboost =
+None;
+
+| incresist =
+30% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Empyrea
+| location = Husk
+| subloc1 = Spiritual Grove
+| descrip =
+All drops and cheats should be recorded on {{Link|Creature|The Rat (Husk)}}'s page.
+*Uses Pip Conversion.
+
+| speech =
+
+| spellnotes =
+**Casts a protected Tower Shield (Shadow), Shadowblade, and Shadow Trap.
+
+'''Natural Attack:'''
+*Deals 75 Shadow Damage and 110 Shadow damage per pip minus one pip over 3 Rounds, despite the Spell's text.
+
+| casts =
+Dark Fiend;
+Brace;
+Magnify;
+Tower Shield (Shadow);
+Spirit Armor (500);
+Shadowblade;
+Shadow Trap;
+Steal Ward;
+Choke (85%);
+Enfeeble (2 Pip);
+Beguile (100%);
+Shatter;
+Storm Elf (Shadow);
+Shadow Banshee;
+Deer Knight (Shadow);
+Glowbug Squall (Shadow, 1,120);
+Ominous Scarecrow (Shadow);
+Natural Attack (The Scorpion);
+Supernova (535, 75%);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

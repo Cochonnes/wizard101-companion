@@ -1,0 +1,143 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 45,340
+| crecla = Undead
+| crecla2 = Krokotopian
+| school = Balance
+| school2 = Death
+| shadowslots = 2
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Death;
+Balance;
+
+| critical =
+575;
+
+| criticalblock =
+563;
+
+| outpierce =
+28%;
+
+| outboost =
+126%;
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+37% Fire, Ice, Storm, Sun, Moon, Star, Shadow;
+67% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Wallaru
+| location = The Dreaming
+| subloc1 = Nightmare (Standard)
+| descrip =
+Pharaoh Rama-Krok is one of the second-stage bosses Wizards face in the Nightmare dungeon. Once Wizards defeat Pharaoh Rama-Krok, they must collect the token it drops, remember the animal that appears on the token, and turn the wheel at the start of the maze to match the animal. The other wheel must also be turned to match this Creature's secondary school. When both of the wheels are in the correct position, the pumps may be turned on to start the next phase of the maze. If a Wizard attempts to turn on the pumps before the two wheels are in the correct positions, Pharaoh Rama-Krok will respawn. Besides the token, this Creature has no drops.
+
+There are five standard variations of this boss, and all of them are Balance with a different secondary school:
+*{{Link|Creature|Pharaoh Rama-Krok (Balance-Death, Standard)}}
+*{{Link|Creature|Pharaoh Rama-Krok (Balance-Fire, Standard)}}
+*{{Link|Creature|Pharaoh Rama-Krok (Balance-Ice, Standard)}}
+*{{Link|Creature|Pharaoh Rama-Krok (Balance-Life, Standard)}}
+*{{Link|Creature|Pharaoh Rama-Krok (Balance-Storm, Standard)}}
+*For [[Location:Nightmare (Challenge)|Challenge mode]] versions of this Creature, see {{Link|Creature|Pharaoh Rama-Krok}}.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wallaru
+| tome description =
+An ancient Krok Pharoah who claimed to be a time-traveling warlord from the future with names like Krok the Conqueror, the Scaley Centurion and Fangmortus.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+| altlink = Pharaoh Rama-Krok
+}}
+
+| cheatnotes =
+*{{Icon|Round}} ''"I will rise again and again!!!"'' - At the beginning of the first Round, two Rounds later, and every third Round thereafter, Pharaoh Rama-Krok will cast a random hanging effect (Labled as ''"Krok Ankh"'') on himself or a random Wizard: Shield, Trap, Blade, Damage over time, Weakness.
+**This cheat will also activate if a Wizard joins the battle after the first round has begun, and will activate multiple times in the same round relative to the number of wizards that joined late.
+**''"Krok Ankh"'' hanging effects '''must''' be cleared using spells or treasure cards that specifically clear the effect. (i.e. the Weakness Krok Ankh cannot be removed by self-damage inflicting spells, and the Shield Krok Ankhs cannot be removed by damage spells.)
+*{{Icon|Afterlife}} ''"I did warn you..."'' -If Pharaoh Rama-Krok is defeated while a Krok Ankh hanging effect is still active, then he will restore 100% of health on himself.
+**Due to the heal being a Max Percentage Heal, this heal cannot be decreased by {{Link|Spell|Doom and Gloom}} and {{Link|Spell|Infection}}.
+
+| spellnotes =
+
+| casts =
+Chastisement;
+Punishment;
+Dragonspear;
+Balanceblade;
+Deathblade (+40%);
+Mass Hex;
+Rainbow Serpent;
+Savage Paw;
+Power Nova;
+Scarecrow;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Pharaoh Rama-Krok
+
+}}

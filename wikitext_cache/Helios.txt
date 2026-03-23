@@ -1,0 +1,131 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,435
+| crecla = Elemental
+| school = Fire
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice;
+
+| incresist =
+35% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Jungle Wildclaw;
+
+| world = Celestia
+| location = The Floating Land
+| subloc1 = Helios's Hangout
+| descrip =
+Sorcerers must defeat Helios and win a Sun Shard from him in order to receive their Level 58 Spell, {{Link|Spell|Ra}}.
+
+| speech =
+:''"I have known an eternity of flame! I am a child of the Sun, and will never bow before a mere mortal!"''
+
+| cheatnotes =
+*''"A Charm! Let's even the playing field!"'' - Casting a Blade will cause him to interrupt-cast a {{Link|Spell|Hex (+35%)}} on the Wizard who cast it.
+**Global Spells will trigger this cheat, but Aura Spells will not.
+**Pet Spells will not trigger this cheat.
+*''"A ward! Let's even the playing field!"'' - Casting a Trap (including Feint) or a Shield will cause him to interrupt-cast a '''Hex (+35%)''' on the Wizard who cast it.
+**The text for this cheat only appears after Helios casts the Hex.
+
+| spellnotes =
+
+| casts =
+Fireblade;
+Fire Trap;
+Sunbird;
+Meteor Strike;
+Scald;
+Phoenix;
+Magma Man;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Natural Attack (Fire 100x);
+
+| quests =
+Good Day Sunshine;
+
+| gold =
+69 - 77;
+
+| hats =
+
+| robes =
+Armor of Celestian Totality*F2;
+Everlasting Armor;
+Whispering Raiment;
+
+| boots =
+Willow Walkers;
+Wraps of Rapport;
+
+| athames =
+Marcio's Icy Edge;
+
+| amulets =
+
+| rings =
+Ring of Rapture;
+
+| wands =
+Insightful Spyglass;
+Jolting Jellywand;
+Rod of Rapture;
+
+| decks =
+
+| items =
+Crane;
+
+| cards =
+Empower;
+Gargantuan;
+Unstoppable;
+
+| reagents =
+Nickel;
+
+| spellements =
+
+| snacks =
+Delicious Cookie;
+Glowing Star Fruit;
+Glowing Taffy;
+Spicy Drumstick;
+
+| jewels =
+Dull Critical Ruby +3;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Maelstrom Snap Dragon*F2;
+Silver Trumpet Vine*CR;
+
+| mounts =
+
+| spells =
+
+}}

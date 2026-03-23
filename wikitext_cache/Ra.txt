@@ -1,0 +1,306 @@
+{{Stub|Confirmation of Wand drops - Have the ''Ra's Rod of Integrity'', and ''Ra's Speculation Wand'' been renamed?}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 3,000
+| crecla = Other Birds
+| school = Balance
+| cheats = Yes
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+10% Myth, Life, Death;
+
+| incresist =
+30% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Hu the Commander;
+Sia the Perceiver;
+Heka the Haruspect;
+
+| world = Krokotopia
+| location = The Oasis
+| subloc1 = Ra's Reading Room
+| badge = Reading Room Roustabout
+| descrip =
+*Ra is a Boss located in Ra's Reading Room, which requires a {{Link|House|Wooden Skeleton Key}} to access.
+*For the {{link|Location|Selenopolis}} creature with the same name, see {{link|Creature|Ra (Rank 23)}}''.
+
+| speech =
+:''"Excuse me, I forgot to put the sign on the door, but this reading room is occupied at this hour. I have reserved it every day in fact. When the sun reaches its zenith, this is the only time during the day that I get a break from balancing the blasted thing. Say though, I've been looking for a bright, beaming young wizard just like you, one who might one day share my... responsibility. You seem to have a sunny disposition, but can you take the heat? Come. Face me and prove you don't burn too easily."''
+
+| cheatnotes =
+*{{Icon|Round}} ''"Let us accelerate this contest"'' - At the beginning of the first Round, Ra will interrupt-cast {{Link|Spell|Balance of Power}}.
+**{{Icon|Global}} ''"No no, we play by my rules"'' - If a Wizard attempts to replace the Global, Ra will recast Balance of Power.
+*{{Icon|Random}} ''"Accuracy is such a fickle thing"'' - Randomly, Ra will use his turn to cast Black Mantle or a '''+10%''' version of Precision, either of which can affect either all allies or all enemies.
+**If Ra is [[ItemCard:Arcane Deduction|Spied]] when this cheat occurs, only the normal versions of Precision or Black Mantle will be revealed.
+*{{Icon|Round}} ''"Let's balance things out a bit!"'' - At the end of every fourth Round, Ra will interrupt-cast a Spell that applies an Aura on all participants in the duel. The first Aura that is cast will be {{Link|Spell|Amplify}}, then {{Link|Spell|Fortify}}, and then it will cycle between the two until the duel ends.
+
+| spellnotes =
+
+| casts =
+Precision (+10%);
+Black Mantle;
+Elemental Shield;
+Spirit Shield;
+Helping Hands;
+Scorpion;
+Krokotillian;
+Sandstorm;
+
+| quests =
+
+| gold =
+353 - 679;
+
+| hats =
+Nirini Helm of Scorching (Level 20+)*CR*F2*WMV;
+Ra's Catacomb Hood*F3*WMV;
+Ra's Cloudburst Hood*F7*WMV;
+Ra's Firebrand Cowl*F2;
+Ra's Frostbite Headdress*F2*WMV;
+Ra's Integrity Cowl*F6*WMV;
+Ra's Rapture Headdress*F7*WMV;
+Ra's Speculation Cowl*F3*WMV;
+Ra's Zenith Headdress*F21*WMV;
+Sokkwi Mantle of Blizzards (Level 20+)*CR*F3*WMV;
+Thunderous Karanahn Veil (Level 20+)*CR*F3*WMV;
+
+| robes =
+Charred Nirini Robe (Level 20+)*CR*F5*WMV;
+Ra's Catacomb Robe;
+Ra's Cloudburst Coat*F2*WMV;
+Ra's Firebrand Tunic*F3*WMV;
+Ra's Frostbite Jerkin*F3*WMV;
+Ra's Integrity Vestment*F4*WMV;
+Ra's Rapture Cloak*F3;
+Ra's Speculation Smock*F2*WMV;
+Ra's Zenith Raiment*F24*WMV;
+Sokkwi Frostbitten Armor (Level 20+)*CR*F3*WMV;
+Vestment of Ominous Skies (Level 20+)*CR*F5*WMV;
+
+| boots =
+Frosted Sokkwi Footwraps (Level 20+)*CR*F5*WMV;
+Karanahn's Charged Greaves (Level 20+)*CR*F5*WMV;
+Ra's Catacomb Mocassins*F5*WMV;
+Ra's Cloudburst Striders*F2*WMV;
+Ra's Firebrand Footwraps*F4*WMV;
+Ra's Frostbite Boots*F2*WMV;
+Ra's Integrity Trackers*F5*WMV;
+Ra's Rapture Boots*F4*WMV;
+Ra's Speculation Runners*F3*WMV;
+Ra's Zenith Footwraps*F26*WMV;
+Singed Nirini Walkers (Level 20+)*CR*F6*WMV;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Anubis' Astral Staff (Level 20+)*CR;
+Krokotopian Catacomb Wand*F5*WMV;
+Krokotopian Cloudburst Scepter*F4*WMV;
+Krokotopian Firebrand Wand*F3*WMV;
+Krokotopian Rapture Baton*F7*WMV;
+Krokotopian Rod of Frostbite*F3*WMV;
+Krokotopian Zenith Scepter*F19*WMV;
+Lunar Scepter of Anubis (Level 20+)*CR*F4*WMV;
+Ra's Rod of Integrity*F2*WMV;
+Ra's Speculation Wand;
+Solar Pikestaff of Anubis (Level 20+)*CR*F5*WMV;
+
+| decks =
+
+| items =
+Adept's Socket Wrench*F11*WMV;
+Blue Urn*F9*WMV;
+Expert's Socket Wrench*F12*WMV;
+Fire Mummy*F4*WMV;
+Hieroglyphic Fire Tablet*F6*WMV;
+Hieroglyphic Ice Tablet*F11*WMV;
+Hieroglyphic Storm Tablet*F5*WMV;
+Ice Mummy*F8*WMV;
+Khai Amahte Statue*F5*WMV;
+Krok Bird Obelisk*F6*WMV;
+Krok Chalkboard*F7*WMV;
+Krok Insect Obelisk*F6*WMV;
+Krok Moon Obelisk*F5*WMV;
+Krok Skull Obelisk*F4*WMV;
+Krok Snake Obelisk*F4*WMV;
+Krok Sun Obelisk*F6*WMV;
+Krok Tree Obelisk*F4*WMV;
+Krokotopia Grand Tent*F3*WMV;
+Krokotopian Bath Sink*F6*WMV;
+Krokotopian Bath Tub*F2;
+Krokotopian Bed;
+Krokotopian Bed Table*F2;
+Krokotopian Bookshelf*F4*WMV;
+Krokotopian Brick Wallpaper*F2*WMV;
+Krokotopian Cabinet*F5*WMV;
+Krokotopian Chair*F3*WMV;
+Krokotopian Coffee Table*F5*WMV;
+Krokotopian Couch*F4*WMV;
+Krokotopian Cupboards*F3*WMV;
+Krokotopian Dining Chair*F2;
+Krokotopian Dining Table*F3*WMV;
+Krokotopian Fireplace*F2*WMV;
+Krokotopian Hammock*F6*WMV;
+Krokotopian Houseboat*F2*WMV;
+Krokotopian Mummy*F8*WMV;
+Krokotopian Rug*F4*WMV;
+Krokotopian Scarab*F3*WMV;
+Krokotopian Sink*F3*WMV;
+Krokotopian Sphinx*CR*F5*WMV;
+Krokotopian Stone Floor*F3;
+Krokotopian Towel Rack*F2*WMV;
+Lunar-Emblem Bed*F3*WMV;
+Novice's Socket Wrench*F5*WMV;
+Prince Aka Karanahn*F7*WMV;
+Prince Biti Nirini*F10*WMV;
+Prince Manu Nirini Statue*F7*WMV;
+Prince Meti Karanahn*F5*WMV;
+Prince Suten Sokkwi*F8*WMV;
+Purple Urn*F6*WMV;
+Red Urn*F3*WMV;
+Stone Skeleton Key*CR*F7*WMV;
+Storm Mummy*F5*WMV;
+Tapestry to School of Balance*F8*WMV;
+Tapestry to The Oasis*F11*WMV;
+Wooden Skeleton Key*CR*F11*WMV;
+
+| cards =
+Dark Sprite;
+Krokenkahmen (530)*F3*WMV;
+Krokhotep (440)*F5*WMV;
+Krokhotep (550)*F2*WMV;
+Krokopatra*F3*WMV;
+Krokopatra (Minion)*F5*WMV;
+Ra*F4*WMV;
+
+| reagents =
+Aether*F2*WMV;
+Agave Leaves*F5*WMV;
+Agave Nectar*F4*WMV;
+Amber*F7*WMV;
+Ancient Scroll*F2;
+Brass;
+Cobalt*F3*WMV;
+Copper*F6*WMV;
+Iron*F12*WMV;
+Lead*F8*WMV;
+Mote of Beauty*F2*WMV;
+Mote of Eternity*F5*WMV;
+Mote of Severity*F7*WMV;
+Mote of Transport*F5*WMV;
+Mote of Wisdom*F6*WMV;
+Nickel*F11*WMV;
+Parchment*F4*WMV;
+Pyrite*F9*WMV;
+Tin*F3*WMV;
+
+| spellements =
+
+| snacks =
+Atomic Fireball*F7*WMV;
+Bad Honeyed Dates*F7*WMV;
+Gator Tots*F3*WMV;
+Krokkish Coffee*F9*WMV;
+Kroklava*F7*WMV;
+Locust Kabob*F11*WMV;
+Manderdrake Fruit*F12*WMV;
+Pharaoh Taro*F4*WMV;
+Pollen Bombs*F2*WMV;
+Pomegranite*F5*WMV;
+Sun Fruit*F5*WMV;
+
+| jewels =
+Banshee Onyx*F2;
+Blizzard Sapphire;
+Check Opal;
+Chipped Health Opal +16;
+Chipped Mana Opal +9;
+Cracked Defense Amethyst +12;
+Cracked Defense Jade +12;
+Cracked Defense Onyx +12;
+Cracked Defense Peridot +12;
+Cracked Defense Ruby +12;
+Death-Shot Onyx;
+Effervescent Opal;
+Evil Snowman Sapphire;
+Flawed Damage Amethyst +10;
+Flawed Damage Citrine +10*F2*WMV;
+Flawed Damage Jade +10;
+Flawed Damage Sapphire +10;
+Flawed Health Opal +30;
+Frost Beetle Sapphire;
+Huge Energy Opal;
+Hurry Opal;
+Ice-Eye Sapphire;
+Locust Swarm Citrine;
+Rally Opal;
+Rugged Opal;
+Scarab Citrine;
+
+| pins =
+
+| pets =
+Death Scarab*F4*WMV;
+Fire Salamander*F2;
+Frosty Krokomummy*F4*WMV;
+Furious Krokomummy*F3*WMV;
+Ice Salamander;
+Krok;
+Krokomummy*F2;
+Krokotillian*F3*WMV;
+Life Scarab*F2*WMV;
+Mummy Cat*CR*F3*WMV;
+Sailback Skink*F2;
+Skink*F3*WMV;
+Snake in a Basket*CR*F6*WMV;
+Storm Salamander*F5*WMV;
+
+| seeds =
+Alligator Pear Tree*F6*WMV;
+Angora Bunny Ears*F4*WMV;
+Boiled Peanuts*F3*WMV;
+Burning Snap Dragon*F7*WMV;
+Face Palm*F11*WMV;
+Helephant Ears*F6*WMV;
+Honey Bee Plant*F2*WMV;
+Honey Sickle*F2*WMV;
+Key Limes*CR*F2;
+Melting Cheese Tree*F7*WMV;
+Moon Flower*F4*WMV;
+Prickly Bear Cactus*F3*WMV;
+Saw Palmetto*F6*WMV;
+Sunion*CR*F4*WMV;
+
+| mounts =
+Camel*PERM*F5*WMV;
+Crokagator*PERM*CR*F3*WMV;
+Mander Palanquin*PERM*CR*F3;
+Moonlight Pony*PERM*F2;
+Starlight Pony*PERM*F2;
+Starshine Pony*PERM*F3*WMV;
+Sunshine Pony*PERM*CR*F3;
+
+| spells =
+
+}}

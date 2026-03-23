@@ -1,0 +1,125 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,140
+| crecla = Golem
+| school = Balance
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce = 
+
+| outboost = 
+
+| incboost = 
+35% Myth, Life, Death;
+
+| incresist =
+35% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Steam Troweller;
+
+| world = Celestia
+| location = Science Center
+| subloc1 = Talos's Tower
+| descrip =
+Conjurers must retrieve bottles of quicksilver from this automaton as part of obtaining their Level 58 Spell, {{Link|Spell|Medusa}}.
+
+| speech =
+
+| cheatnotes =
+*''"A Charm! Let's even the playing field!"'' - Casting a Blade will cause him to interrupt-cast a {{Link|Spell|Hex (+35%)}} on the Wizard who cast it.
+**Global Spells will trigger this cheat, but Aura Spells will not.
+**Pet Spells will not trigger this cheat.
+*''"A ward! Let's even the playing field!"'' - Casting a Trap (including Feint) or a Shield will cause him to interrupt-cast a '''Hex (+35%)''' on the Wizard who cast it.
+**The text for this cheat only appears after Talos casts the Hex.
+
+| spellnotes =
+
+| casts =
+Precision;
+Balanceblade;
+Elemental Blade;
+Sandstorm;
+Spectral Blast;
+Hydra;
+Judgement;
+Natural Attack (Myth 100x, 80%);
+
+| quests =
+Check My Machine;
+
+| gold =
+60 - 79;
+
+| hats =
+Drenched Headdress;
+Wintertide Topper;
+
+| robes =
+Turbulent Tunic;
+
+| boots =
+Boots of Celestian Totality;
+Celestian Abyss Boots;
+Ice Rangers;
+Scorched Footguards;
+Versatile Celestian Boots;
+Wraps of Rapport;
+
+| athames =
+
+| amulets =
+
+| rings =
+Combustible Band;
+Majestic Signet;
+Swirling Signet;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Empower;
+Gargantuan*F2;
+Sniper;
+Unstoppable*F2*WMV;
+
+| reagents =
+Brass;
+Cobalt;
+Nickel;
+
+| spellements =
+
+| snacks =
+Glowing Star Fruit;
+
+| jewels =
+Myth-Boon Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

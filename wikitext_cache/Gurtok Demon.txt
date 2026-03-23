@@ -1,0 +1,178 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 8,000
+| crecla = Demon
+| crecla2 = Elephant
+| school = Balance
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+17% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Dragonspyre
+| location = Plaza of Conquests
+| subloc1 = 
+| descrip =
+This Boss is a large grey Helephant Demon and one of the four Bosses in the center of the Plaza of Conquests. It can be summoned by activating the crystal at the base of the Helephant statue.<br/>A very rare Pet, the Ianthine Spectre, is dropped.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+This mammoth demon can be summoned in the Palace of Conquests with a special crystal, or the dinner bell.
+
+| extract class =
+Elephant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Weakness;
+Balanceblade;
+Hex;
+Scarab;
+Scorpion;
+Locust Swarm;
+Sandstorm;
+Judgement;
+Evil Snowman;
+Vampire;
+Minotaur;
+Natural Attack (Fire 100x);
+Heck Hound;
+
+| quests =
+
+| gold =
+60 - 70;
+
+| hats =
+Cap of Ancient Winter*F2*WMV;
+Forest Lord's Cowl*F2*WMV;
+Frostbitten Cap*F2*WMV;
+Gurtok Fireshroud;
+Lightning-Charged Mantle*F2*WMV;
+Mantle of Imagination*F4*WMV;
+Onyx-Banded Coif*F3;
+Verdant Cap*F3*WMV;
+
+| robes =
+Coat of Omniscence*F2*WMV;
+Cyclone Cloak;
+Gurtok Firesmock*F2*WMV;
+Raiment of the Raven*F3*WMV;
+Surcoat of Glory*F3*WMV;
+Tunic of Arden's Vale*F2*WMV;
+
+| boots =
+Reaper's Boots;
+Shoes of the Greatest Saga*F2*WMV;
+Slippers of the Hallowed Halls*F3*WMV;
+Striders of the Thicket*F3*WMV;
+Throne-Treading Sandals;
+
+| athames =
+Lifegiver's Edge*F4*WMV;
+Poniard of Vitality*F2*WMV;
+
+| amulets =
+
+| rings =
+Band of Aid*CR;
+Burning Ring of Fire*F2*WMV;
+Ring of Wyrmkind*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Broken Dragon Bust*F3;
+Broken Pillar and Crown*F3*WMV;
+Dragonspyre Pet Derby Theme*F7*WMV;
+
+| cards =
+
+| reagents =
+Brass*F2;
+Cobalt;
+Nickel*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Dull Blocking Amethyst +4*F2;
+Dull Blocking Jade +4;
+Dull Blocking Opal +2;
+Dull Blocking Peridot +4*F2;
+Dull Blocking Ruby +4;
+Dull Blocking Sapphire +4;
+Dull Damage Citrine +13;
+Dull Damage Onyx +13;
+Dull Damage Ruby +13;
+Earthquake Peridot;
+Eat My Dirt Opal;
+Fire-Away Ruby;
+Fire-Shot Ruby;
+Flummox Opal;
+Helephant Ruby;
+Hydra Citrine*F2;
+Ice-Giver Sapphire;
+Life-Away Jade;
+No Passing Opal;
+Sanctuary Jade;
+Storm-Away Amethyst;
+Stormzilla Amethyst;
+Stupefy Opal;
+Super Delay Opal;
+Ultra Charge Opal;
+Ultra Energy Opal;
+Wraith Onyx;
+
+| pins =
+
+| pets =
+Ianthine Spectre*CR*F2*WMV;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

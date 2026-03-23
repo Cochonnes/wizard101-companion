@@ -1,0 +1,162 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,935
+| crecla = Pig
+| school = Myth
+| cheats = Yes
+| startpips = 1
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Kyoukontei Treant (Tier 3);
+Kasuka Monk (Tier 3);
+Zoraimei Wildclaw (Tier 3);
+
+| world = Housing Instance
+| location = Midnight Sun Pagoda
+| subloc1 = 
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Ninja might seem like an odd career choice for a pig, but it beats his past job as a banker.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Damage}} ''"You won't last long without shields!"'' - If a Wizard casts a Damage Spell on Kurokage and does not have a Shield, then Kurokage will interrupt-cast a version of {{Link|Spell|Vampire}} on the Wizard that damaged him.
+*{{Icon|Manipulation}} Every other Round, Kurokage will interrupt-cast a Myth Spell that removes all Wards from a random Wizard.
+
+| spellnotes =
+'''Natural Attack''':
+* Deals 105 Myth Damage Per Pip
+
+| casts =
+Mythblade;
+Yellow Troll;
+White Rat Magician;
+Humongofrog;
+Minotaur;
+Earthquake;
+
+| quests =
+
+| gold =
+62 - 79;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Bamboo Barrier;
+Crossed Naginata Spears;
+Green Sword Display*F2;
+Iron Tea Pot;
+Moodha Bust;
+Pearl Orchid;
+Small Wooden Table*F2;
+Tatami Floor Mat*F2;
+
+| cards =
+Kakeda Painbringer;
+Ninja Pigs;
+Otomo Fury*F2;
+Tamauji*F3;
+Yochimo;
+
+| reagents =
+Amethyst;
+Citrine;
+Crystal Vial;
+Ghost Fire;
+Iron;
+Jade;
+Lead;
+Leather Straps*F2;
+Nickel;
+Onyx;
+Ruby*F2;
+Sapphire*F2;
+Shadow Oil;
+
+| spellements =
+
+| snacks =
+Crunch Apple*F2;
+Fire Cracker;
+Golden Peanut;
+Golden Pizza;
+Hot Ginger Snaps;
+Jar of Jelly Beans*F2;
+Killer Tomato;
+Large Fish*F2;
+Large Watermelon;
+MooShu Broccoli*F2;
+Square Root;
+Sweet Pineapple;
+Taco Town Special*F2;
+
+| jewels =
+
+| pins =
+
+| pets =
+Brown Spider;
+Goat Monk;
+Ninja Pig*F2;
+Yellow Ghost;
+
+| seeds =
+Orange Dandelion;
+Pink Laugh-O-Dil;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

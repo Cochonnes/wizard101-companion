@@ -1,0 +1,155 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 960
+| crecla = Plant
+| crecla2 = Treant
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+10% Ice;
+
+| incresist =
+40% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = Yes
+| minions =
+Forest Nymph (Tier 1);
+Forest Nymph (Tier 1);
+Forest Nymph (Tier 1);
+
+| world = Housing Instance
+| location = Tanglewood Terror
+| subloc1 = Tanglewood Terror (Tier 1)
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+If you were a burning tree man, you'd be grumpy too.
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Glacial Shield;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Fire Elf;
+Natural Attack (Fire 120-235-350);
+Sunbird;
+
+| quests =
+Tanglewood Terror;
+
+| dropnotes =
+Wizards level 10+ will only receive level 10+ versions of Items.
+
+| gold =
+45 - 52;
+
+| hats =
+Cap of the Plant Punisher (Level 10+)*F2*WMV;
+Cap of the Tanglewood Hero (Any Level)*F5*WMV;
+Cap of the Tanglewood Hero (Level 10+)*F3*WMV;
+Tanglewood Terror Coif (Any Level);
+Tanglewood Terror Coif (Level 10+);
+
+| robes =
+Plant Punisher's Garb (Level 10+);
+Tanglewood Hero's Husk (Level 10+);
+Tanglewood Terror Robes (Any Level);
+Tanglewood Terror Robes (Level 10+);
+
+| boots =
+Tanglewood Hero's Footgear (Any Level);
+Tanglewood Hero's Footgear (Level 10+)*F3*WMV;
+Terror of Tanglewood Shoes (Any Level)*F2*WMV;
+Terror of Tanglewood Shoes (Level 10+);
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Plant Punisher's Spike (Any Level)*F2*WMV;
+Plant Punisher's Spike (Level 10+);
+Tanglewood Hero's Nettle (Any Level);
+Tanglewood Hero's Nettle (Level 10+)*F2*WMV;
+Tanglewood Terror Spear (Any Level);
+Tanglewood Terror Spear (Level 10+)*F2*WMV;
+
+| decks =
+
+| items =
+Axe;
+Crumpled Newspaper;
+Empty Milk Cartons;
+Fine Wooden Table*F2*WMV;
+Green Gem;
+Pigswick Student's Desk*F2*WMV;
+Prince Biti Nirini*F3*WMV;
+Prince Meti Karanahn*F2*WMV;
+
+| cards =
+Fire Cat;
+
+| reagents =
+Acorn;
+Fossil;
+Mist Wood;
+Stone Block;
+Water Lily;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry*F2*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+Stained Glass Roller;
+
+| seeds =
+Rotten Beets*F3*WMV;
+Vampire Carrots;
+
+| mounts =
+Tanglewood Stalker*PERM;
+
+| spells =
+
+}}

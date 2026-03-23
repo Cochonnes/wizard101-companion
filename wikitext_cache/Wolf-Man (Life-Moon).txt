@@ -1,0 +1,115 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 17,270
+| crecla = Wolf-Man
+| school = Life
+| school2 = Moon
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+557 Any;
+
+| criticalblock =
+208 Any;
+
+| outpierce =
+28%;
+
+| outboost =
+110%;
+
+| incboost =
+30% Death;
+
+| incresist =
+31% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+61% Life;
+
+| outhealing =
+28%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Wolf-Man (Life-Moon);
+
+| world = Darkmoor
+| location = Howling Lands
+| subloc1 = Wooded Clearing (Howling Lands)
+| descrip =
+If more than two Wizards are present, two additional Wolf-Man (Life-Moon) Bosses will spawn.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Lifeblade;
+Luminous Weaver (Tier 2b);
+Nature's Wrath;
+Infestation;
+Shift GreenOak;
+Shift Ogre;
+Shift White Fur;
+Shift Sugar Glider;
+Shift Horned Knight;
+
+| quests =
+The Fourth Man;
+
+| gold =
+13 - 30;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Creepy Stool*CR;
+Darkmoor Vanity*CR;
+
+| cards =
+Chimera;
+Efreet;
+Sun Serpent;
+
+| reagents =
+Silver*F2;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Chocolate Crickets;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

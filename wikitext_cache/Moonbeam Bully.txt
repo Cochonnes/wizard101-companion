@@ -1,0 +1,169 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 19,450
+| crecla = Krokotopian
+| school = Moon
+| masteries =
+Ice;
+Myth;
+Death;
+
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+19%;
+
+| outboost =
+102%;
+
+| incboost =
+30% Fire;
+
+| incresist =
+43% Storm, Myth, Life, Death, Balance, Shadow;
+73% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Tut Tough (Life);
+Tut Tough (Life-Balance);
+Tut Tough (Life-Myth);
+
+| world = Krokotopia 
+| location = Garden of Khonsu
+| subloc1 = Shrine of the New Moon
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"Finally, you arrive, the feller of empires, the pebble that hits the pond like a meteor, sending not ripples, but shockwaves. And all our great works are washed away. The Tuts were meant to rise, we were meant to rule. But you swept us aside. No longer. Now you face an Avatar of Khonsu, his Fang of Vengeance, instilled with his power. You face the MOONBEAM BULLY!"''
+
+| cheatnotes =
+*{{Icon|Spell}} ''"Vengeance empowers me!"'' - Each time a Wizard casts a Spell, Moonbeam Bully will cheat-cast one of the following:
+**{{Link|Spell|Dark Tribute}}
+**{{Link|Spell|Deathblade}}
+**{{Link|Spell|Donate Power}}
+**{{Link|Spell|Iceblade}}
+**{{Link|Spell|Mass Death Trap}}
+**{{Link|Spell|Mass Ice Trap}}
+**{{Link|Spell|Mass Myth Trap}}
+**{{Link|Spell|Moon Blade}}
+**{{Link|Spell|Mythblade}}
+**An all enemies version of {{Link|Spell|Moon Trap}}
+
+| spellnotes = 
+
+| casts =
+Magnify (6 Rounds);
+Steal Pip;
+Yellow Troll (Moon);
+Wild Bolt (Moon);
+Shift GreenOak;
+Shift Dread Paladin;
+Shift White Fur;
+Orthrus (Moon, 700);
+Orthrus (Tier 5a);
+Everwinter Oni;
+Macabre Jinn;
+
+| quests =
+Nightchant and the Moon;
+
+| gold = 
+28 - 57;
+
+| hats =
+Manifest Crown of Retribution;
+Manifest Crown of Vengeance;
+Manifest Crown of Wrath;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Selenopolis Boss Combat Theme;
+Selenopolis Combat Theme;
+
+| cards =
+Ashen Bones;
+Deadly Minotaur;
+Harmattan Maxios;
+Lord of the Squall;
+Snowball Barrage;
+Spirit Blade;
+
+| reagents =
+Brass;
+Cobalt;
+
+| spellements =
+Blast Off!;
+Bunyip's Rage;
+Chameleon Clash;
+Dark & Stormy;
+Deathly Depths;
+Glimpse of Infinity;
+Gravestorm;
+Heqet;
+Mockenspiel;
+Old One's Endgame;
+Phantasmania!;
+Rainbow Serpent;
+Scales of Destiny;
+Shu;
+Snack Attack;
+Sound of Musicology;
+Starspawn;
+Taweret;
+Thoth;
+Tree of Strife;
+Wobbegong Frenzy;
+
+| snacks =
+Moon Pie;
+Rye Bread Fruit;
+
+| jewels =
+Amazing Blocking Amethyst +21;
+Amazing Defense Onyx +63;
+Amazing Defense Onyx +64;
+Flawless Defense Opal +34;
+
+| pins =
+Balance Disabling Pin (160, Fire);
+Balance Punishing Pin (160, Fire);
+Death Disabling Pin (160, Storm);
+Fire Crushing Pin (160, Ice);
+Myth Disabling Pin (150, Fire);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

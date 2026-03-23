@@ -1,0 +1,87 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 1,600
+| crecla = Mimic
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
++25 Fire, Myth;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Liches & Legends Gauntlet
+| descrip =
+This minion accompanies the Cake Mimic only when the third L&L Level Up option "Smash Straight Through" is chosen earlier in the gauntlet.
+
+| speech =
+
+| spellnotes =
+*Casts a 0-Pip Natural Attack that deals 50 Ice Damage.
+*Casts a 1-Pip version of Evil Snowman that deals 200 Ice Damage.
+*Casts a 2-Pip version of Winter Moon that deals 300 Ice Damage to targett and applies a -100 Damage Ward on caster.
+
+| casts =
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

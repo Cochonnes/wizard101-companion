@@ -1,0 +1,271 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 15,600
+| crecla = Draconian
+| crecla2 = Undead
+| school = Fire
+| cheats = Yes
+| shadowslots = 1
+| startpips = 4
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+40%;
+
+| outboost =
+
+| incboost =
+30% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Draconian Eidolon;
+Draconian Eidolon;
+Draconian Eidolon;
+
+| world = Wizard City
+| location = Castle Darkmoor (Location)
+| subloc1 = Upper Halls
+| descrip =
+
+| speech =
+:''"We remember you from Dragonspyre. Your memory still lingers like bitter ashes on the tongue. Pitiful, pathetic Wizard. You have made an enemy of the embodiment of Death. You will never get out of this alive!''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+This Undead Draconian packed up and moved from Dragonspyre because he heard Darkmoor was crueler and more terror-filled.
+
+| extract class =
+Draconians;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Charm}} {{Icon|Global}} ''"I rip it from you!"'' - If a Wizard casts a Charm or Global Spell, Akhtang WormCrawl will cast Steal Charm on the recipient of the Charm or the caster of the Global Spell.
+**Akhtang will steal only the last Blade of {{Link|Spell|Elemental Blade}} (Fire) or {{Link|Spell|Spirit Blade}} (Life).
+**Akhtang will steal only the caster's Blade from a {{Link|Spell|Bladestorm}}.
+
+| spellnotes =
+
+| casts =
+Furnace;
+Glacial Shield;
+Smoke Mantle;
+Fireblade;
+Fire Prism;
+Fire Trap;
+Fuel;
+Detonate;
+Steal Charm;
+Choke;
+Combustion;
+Natural Attack (Fire 120-235-465);
+Fire from Above;
+Scald;
+Fire Dragon;
+Rain of Fire;
+
+| quests =
+Ghosts of the Past;
+
+| gold =
+418 - 481;
+
+| hats =
+Brimstone Helm of Darkmoor;
+Depths of Darkmoor Cover;
+Helm of the Living Dead;
+
+| robes =
+Brimstone Gear of Darkmoor;
+Darkmoor Armor of Delusion;
+Darkmoor Armor of Shivers;
+Darkmoor Herald's Gear*F2*WMV;
+Depths of Darkmoor Raiment*F3;
+Plate of the Living Dead*F2;
+Raging Blackwater's Plate;
+
+| boots =
+Darkmoor Boots of Delusion;
+Depths of Darkmoor Stalkers;
+Raging Blackwater's Boots*F2;
+Sabatons of the Living Dead;
+
+| athames =
+
+| amulets =
+
+| rings =
+Blackwater's Band;
+Gargoyle's Circle*F2*WMV;
+Herald of Darkmoor's Seal;
+Ring of Mortis*F3;
+Signet of the Howling Wolf;
+Von Shane Family Signet*F4*WMV;
+Wolfbane Loop*F3*WMV;
+
+| wands =
+Armament of the Grotesque;
+Brace of the Burning Gaze;
+Dyad of the Icy Stare*F2*WMV;
+Eye of the Storm Pair*F3*WMV;
+Mace of the Dark Flame;
+Mace of the Outer Void;
+Mace of the Undying;
+Set of the Malicious Spirit;
+Virge of the Bitter Ghost*F2;
+
+| decks =
+Arcana of Kan Davasi;
+Cards of the Blue Ague;
+Darkmoor's Case of Scrutiny*F2;
+Von Shane's Hand of Doom;
+
+| items =
+
+| cards =
+Avenging Fossil*F2;
+Banshee*F4;
+Black Cat*F3*WMV;
+Catalan*F3;
+Celestial Calendar*F6*WMV;
+Chastisement*F2;
+Cycle of Life*F3*WMV;
+Dark Tribute*F2;
+Dr. Von's Monster*F4*WMV;
+Furnace*F3*WMV;
+Galvanic Field*F2;
+Handsome Fomori;
+Hex;
+Keeper of the Flame;
+Lady Blackhope*F5*WMV;
+Lord of Night;
+Lord of Winter*F4*WMV;
+Luminous Weaver*F2*WMV;
+Ninja Pigs*F3*WMV;
+Plague*F7*WMV;
+Poison*F4*WMV;
+Punishment*F2*WMV;
+Reliquary;
+Sabertooth*F4;
+Savage Paw;
+Skeletal Dragon*F2;
+Sleet Storm*F3;
+Spinysaur;
+Storm Owl*F5*WMV;
+Sun Serpent*F5*WMV;
+The Bonekeeper*F4*WMV;
+Vampire*F3*WMV;
+Virulence*F3*WMV;
+
+| reagents =
+Astral Shard*F3*WMV;
+Black Lotus*F8*WMV;
+Black Pearl*F4*WMV;
+Blood Moss*F3*WMV;
+Bone*F7*WMV;
+Brass;
+Bronze*F3*WMV;
+Bronze Gear*F7*WMV;
+Cobalt*F2;
+Deep Mushroom*F7*WMV;
+Draconium;
+Fire Blossom*F88*WMV;
+Fossil*F4*WMV;
+Golden Pearl*F2*WMV;
+Lava Lily*F7*WMV;
+Mist Wood*F10*WMV;
+Nightshade*F6*WMV;
+Ore*F16*WMV;
+Orichalcum;
+Red Mandrake*F12*WMV;
+Silver;
+Steel*F3*WMV;
+Stone Block*F8*WMV;
+Sunstone*F4*WMV;
+Tungsten*F3;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Boom Stroganoff*F3*WMV;
+Bread Fruit Fruit*F2*WMV;
+Cold Snap Peas*F5*WMV;
+Cornbread Fruit*F4*WMV;
+Desparagus Salad*F6*WMV;
+Granny Snow Apple*F4*WMV;
+Gummy Bees;
+Honey Bombs;
+Honeycombs;
+Honeycrisp Apples*F2*WMV;
+HoneyDon't Melon*F3*WMV;
+Huckleberry Pie*F2*WMV;
+Punk Rock Candy*F2*WMV;
+Rye Bread Fruit*F8*WMV;
+Snow Apple Pie*F2*WMV;
+Sugar Khrystals*F3*WMV;
+Wrath's Grape Juice*F3*WMV;
+
+| jewels =
+Blizzard Lizard Sapphire;
+Boss Toad Peridot;
+Clear Damage Jade +20;
+Clear Defense Ruby +40;
+Clear Health Opal +84;
+Dependable Opal;
+Feinting Spell Onyx;
+Great Learner Opal;
+Infallible Talent Opal;
+Musical Lane Opal;
+Polished Accurate Onyx +10%;
+Polished Critical Amethyst +12;
+Polished Critical Citrine +12;
+Polished Critical Opal +6;
+Polished Defense Opal +22;
+Polished Piercing Sapphire +6%;
+Vassanji Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears*F4*WMV;
+Blue Huckleberries*F2;
+Fiery Boom Shroom*F2*WMV;
+Frozen Fly Trap*F2;
+Honey Bee Plant;
+Key Limes*CR*F3*WMV;
+Melting Cheese Tree*F3*WMV;
+Moon Flower*F2;
+Red Huckleberries;
+
+| mounts =
+
+| spells =
+
+}}

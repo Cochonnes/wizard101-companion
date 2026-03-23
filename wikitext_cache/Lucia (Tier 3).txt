@@ -1,0 +1,159 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 2,805
+| crecla = Golem
+| school = Star
+| masteries =
+Fire;
+Ice;
+Storm;
+Balance;
+
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+5%;
+
+| outboost =
+70%;
+
+| incboost =
+15% Myth, Life, Death;
+
+| incresist =
+30% Fire, Ice, Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Clockworker (Tier 3);
+
+| world = Housing Instance
+| location = The Great Clock
+| subloc1 = 
+| descrip =
+Lucia is the Cuckoo of Valencia's Great Clock, crafted by Master Gazpaccio to keep track of the time by singing at the arrival of every hour.  Like all of his creations, Gazpaccio magically imbued Lucia with emotions, granting her a sense of pride which serves as her drive to perform precisely on the hour.  After years of impeccable timekeeping, Lucia's pride has warped into vanity, and she now sings every few minutes, throwing the Great Clock and Valencian timekeeping into disarray.  After Wizards assist {{Link|NPC|Bernardo Dondi}}, Gazpaccio's Apprentice, with tuning the Great Clock's Core Mechanism, they ascend the to the Cuckoo's Nest to humble the Prima Cuckoo.
+
+* An additional Clockworker will appear if four Wizards are present.
+
+| speech =
+:''"Go away!  I've no time for autographs.  I've a show to...  Oh, it's you.  Last time I entrust dressing room security to someone named [[Creature:Lugs (Tier 5)|Lugs]]. Oh well, let's get your thrashing over with quickly then.  I've an important performance to give, you know.  Clockworkers, on the ready!  Your star needs the supporting cast for a little preshow exercise!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Carries a fan, but cannot feel heat. And what's really weird is her maker spent 20 extra weeks on that feature alone.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tardiness will not be tolerated!"'' - If a Wizard joins the Duel after the first Round, then Lucia will interrupt-cast a Star version of [[Spell:Mana Burn (Star)|Mana Burn]] that Pierces through all Resist and deals '''500''' Damage.
+*{{Icon|Minion}} ''"Let's even the odds!"'' - At the beginning of the first Round, Lucia will interrupt-cast a Star Spell that summons a Clockworker.  If more than two Wizards are present, then she will continue to summon Clockworkers until her team is full.
+*{{Icon|Manipulation}} ''"This is my show! MINE!"'' - At the start of every fourth Round, Lucia will interrupt-cast a Star version of {{Link|Spell|Steal Charm}} that steals all helpful Charms from all Wizards, and a Star version of [[Spell:Steal Ward (Star, -All)|Steal Ward]] that steals all helpful Wards from all Wizards.
+*{{Icon|Feint}} ''"I've no time for such frivolity!"'' - If a Wizard casts {{Link|Spell|Feint}} on Lucia, then she will interrupt-cast a Star version of [[Spell:Cleanse Ward (Star, -All)|Cleanse Ward]] that removes all harmful Wards from herself.
+*{{Icon|Trap}} ''"The star is only as good as her supporting cast!"'' - If a Trap is cast on Lucia, then she will interrupt-cast a Star Spell that applies the following helpful Charms on all allies:
+**A +30% universal Blade
+**A +20% Accuracy Charm
+**A +10% universal Spear
+**A +30% Healing Charm
+
+| spellnotes =
+'''Natural Attacks:'''
+*Deals and unknown quantity of Fire Damage per Pip
+*Deals and unknown quantity of Ice Damage per Pip
+**Has been observed to deal about '''502''' Ice Damage for 3 Pips
+*Deals and unknown quantity of Storm Damage per Pip
+
+| casts =
+Frozen Armor;
+Frostbite;
+Sunbird;
+Phoenix;
+Hydra;
+Stormzilla;
+Sirens;
+
+| quests =
+The Clock's Cuckoo!;
+
+| gold =
+36 - 61;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Cuckoo Clock;
+Grizzleheim Pet Derby Theme;
+Ornate Wall Clock;
+Square Clocktower;
+ 
+| cards =
+Clockwork;
+Firegut (380-418);
+Gear Spinner;
+
+| reagents =
+Aquamarine;
+Brass;
+Deep Mushroom;
+Lead;
+Scrap Iron;
+Spring;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Double Popsicle;
+Jelly Baby;
+
+| jewels =
+
+| pins =
+
+| pets =
+Death Leprechaun *CR;
+Spider Golem;
+
+| seeds =
+Clockwork Flower;
+
+| mounts =
+
+| spells =
+
+}}

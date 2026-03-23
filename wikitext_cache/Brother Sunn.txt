@@ -1,0 +1,95 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 4,270
+| crecla = Chameleon
+| school = Fire
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+9%;
+
+| outboost =
+46%;
+
+| incboost =
+29% Ice;
+
+| incresist =
+10% Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+41% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Halls of Taweret
+| subloc1 = Covenant Base
+| descrip =
+Brother Sunn is considered a Minion to {{Link|Creature|Brother Ray}}. All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Balanceblade;
+Dragonblade;
+Bladestorm;
+Sunbird (Tier 5a);
+Meteor Strike (Tier 5a);
+Helephant (Tier 5b);
+Fire Dragon (Tier 5a);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

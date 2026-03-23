@@ -1,0 +1,174 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,240
+| crecla = Giant
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Troll Mercenary;
+
+| world = MooShu
+| location = Crimson Fields
+| descrip =
+*Two additional Troll Mercenaries will appear if more than two Wizards are present.
+
+| speech =
+:''"Grum like war! Grum make war with you and win!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Myth Damage per Pip.
+
+| casts =
+Storm Shield;
+Black Mantle;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Humongofrog;
+Snow Serpent;
+Sunbird;
+Storm Shark;
+
+| quests =
+Stone Cold (MooShu);
+The Troll Bridge;
+
+| gold =
+47 - 106;
+
+| hats =
+Abstract Shroud*F2;
+Blended Wool Cap;
+Cap of Preoccupation;
+Cowl of Arias;
+Cowl of Watchfulness*F2*WMV;
+Druidic Cowl;
+Grum's Dashing Headwrap*F2;
+Haskarr's Barbarish Cap;
+Hat of the Eager;
+Hat of the Observant*F2;
+Helm of Struggling;
+Hood of Melodies*F2*WMV;
+Immersive Cowl;
+Shroud of Predicament;
+
+| robes =
+Abstract Vestment;
+Druidic Tunic*F2;
+Engrossed Robes;
+Garments of Predicament;
+Grum's Tunic of the Agile*F3;
+Haskarr's Barbarish Tunic;
+Proficient Cloak;
+Robe of the Universe;
+Tunic of Scruples;
+Vestment of Fiction;
+
+| boots =
+Boots of Consideration*F2*WMV;
+Boots of the Astute;
+Boots of the Triad*F2;
+Foultooth's Resolute Boots*F2;
+Nunu's Twisted Slippers;
+Prospective Boots;
+Sandals of Humor;
+
+| athames =
+Grum's Dirk of Realization*F3*WMV;
+Kris of the Pensive Ones*F3*WMV;
+Shortblade of a Daydreamer*F4*WMV;
+Student's Shortblade*F2*WMV;
+
+| amulets =
+
+| rings =
+Band of Hope*F2*WMV;
+Ring of Detachment*F2;
+
+| wands =
+Grum's Staff of the Muse*F2*WMV;
+
+| decks =
+
+| items =
+Candle in Pagoda Base*F3*WMV;
+Hanging Flags*F2*WMV;
+Haystack*F2*WMV;
+Straw Pile;
+Temple Guardian Statue*F3*WMV;
+
+| cards =
+Accurate;
+Black Mantle;
+Dragonflies;
+Monstrous;
+Pest Zapper;
+Tough;
+Troll*F3*WMV;
+Wyldfire;
+
+| reagents =
+Bone*F6*WMV;
+Copper;
+Iron;
+Tin;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Crunch Apple*F3*WMV;
+Fire Cracker;
+Golden Peanut;
+Golden Squash*F2*WMV;
+Large Watermelon;
+Square Root*F2*WMV;
+
+| jewels =
+Blemished Damage Opal +6;
+Blemished Defense Amethyst +21;
+Blemished Defense Jade +21;
+Blemished Defense Peridot +21;
+Blemished Defense Sapphire +21;
+Fire-Proof Ruby;
+Flawed Damage Opal +5;
+Flawed Health Opal +31;
+
+| pins =
+
+| pets =
+Troll*F3*WMV;
+
+| seeds =
+Deadly Ninja Fig;
+Fiery Boom Shroom;
+Pink Dandelion;
+
+| mounts =
+
+| spells =
+
+}}

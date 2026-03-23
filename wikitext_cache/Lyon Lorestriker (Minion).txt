@@ -1,0 +1,93 @@
+{{Admin|Should this page be split based on varying health values?}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 1,200 / 2,000
+| crecla = Draconian
+| school = Myth
+| startpips = 3 / 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Storm, Death;
+
+| incresist =
+40% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wysteria
+| location = Pegasus Place
+| subloc1 = Tower of the Helephant
+| descrip = These Draconian clones are summoned by {{Link|Creature|Lyon Lorestriker}} to defend the Heart of the Helephant.  The health of these Creatures will become higher and they will start with an extra Power Pip if they are summoned when Lyon has 10,000 or less health.
+
+| speech =
+
+| spellnotes =
+*'''Natural Attack'''<br/>Deals 100 Fire Damage per Pip.
+
+| casts =
+Mythblade;
+Myth Trap;
+Yellow Troll;
+White Rat Magician;
+Myth Imp;
+Minotaur;
+Earthquake;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

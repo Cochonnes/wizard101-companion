@@ -1,0 +1,196 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 42,065
+| crecla = Lamprey
+| school = Shadow
+| cheats = Yes
+| shadowslots = 3
+| startpips = 5
+| powerpips = Yes
+| critical =
+173 Any;
+
+| criticalblock =
+198 Any;
+
+| outpierce =
+22%;
+
+| outboost =
+100%;
+
+| incboost =
+None;
+
+| incresist =
+5% Balance, Life;
+70% Fire, Ice, Storm, Myth, Death, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+45%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Valencian Royal Guard (Ice);
+Valencian Royal Guard (Life);
+Valencian Royal Guard (Myth);
+
+| summons =
+Balance Aspect;
+Death Aspect;
+Fire Aspect;
+Ice Aspect;
+Life Aspect;
+Myth Aspect;
+Storm Aspect;
+
+| world = Wizard City
+| location = The Catacombs
+| subloc1 = Valencia
+| badge = Smasharilith
+| lootchest = Satharlith's Chest
+| descrip =
+Satharilith is a Myth-born Creature who escaped from the prison of the Ancient Druids. Possessing the ability to devour thoughts and control minds, it attempts to control Valencia by controlling King Casimir and Queen Margherita.
+
+| speech =
+:''"Still you persist... Admirable. But your doom is sealed - I look forward to consuming your mind and using your power to conquer the Spiral!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"More? You too will perish!"'' - If a Wizard is late to combat, Satharilith will cast Mana Burn (Shadow) on the Wizard.
+*{{Icon|Round}} At the start of the first Round, the Valencian Royal Guard closest to Satharilith will cast a version of Shadow Sentinel which intercepts 100% of Damage.
+**When the Minion who cast the Shadow Sentinel is defeated, the next Valencian Royal Guard will recast the Shadow Sentinel.
+**This cheat stops when all three Valencian Royal Guard Minions have been defeated.
+*{{Icon|Feint}} ''"I twist your powers into nothing!"'' - When Feint is cast on the Boss or the Minions, Satharilith will cast an AoE {{Link|Spell|Cleanse Ward (Shadow, -All)}} to remove all Traps twice from the target. Mass Feint will also trigger this cheat.
+*{{Icon|Minion}} ''"How simple, to turn your powers against you"'' - When one of the Valencian Royal Guards is defeated, the Boss will use its Natural Attack on the Wizard opposite the defeated Minion, and summon one of the following Minions with the same school as that Wizard. If there is not a Wizard in the opposite location, it will target the first target with a Natural Attack. Aspect Minions will not recast the 100% intercept Shadow Sentinel.
+**{{link|Creature|Balance Aspect}}
+**{{link|Creature|Death Aspect}}
+**{{link|Creature|Fire Aspect}}
+**{{link|Creature|Ice Aspect}}
+**{{link|Creature|Life Aspect}}
+**{{link|Creature|Myth Aspect}}
+**{{link|Creature|Storm Aspect}}
+*{{Icon|Minion}} ''"Your mind is mine to toy with!"'' - If there are any missing Valencian Royal Guard minions at the start of the battle, Satharilith will summon a random Aspect Minion for each. The defeat of these Aspect Minions will trigger the above cheat.
+
+| spellnotes =
+*Casts a protected Shadowblade.
+
+| casts =
+Dark Fiend;
+Empowerment;
+Vengeance (6 Rounds);
+Impede;
+Bad Juju;
+Shadowblade;
+Supercharge (Shadow);
+Mass Feint (Shadow);
+Disarm (Shadow);
+Krampus (Shadow);
+Natural Attack (Shadow 105-210-315-420);
+Queen Calypso (Shadow);
+Sand Wurm (Shadow);
+Crow (Shadow);
+Lord of Night (Shadow);
+Call of Khrulhu (Shadow);
+Glowbug Squall (Shadow, 1,120);
+Death Ninja Pig (Shadow);
+Tempest (Shadow);
+Leviathan (Shadow);
+
+| quests =
+Tempus Fugitives;
+The Mind Thief;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Dragonspyre Vanguard's Charm;
+Vanguard's Balanced Charm;
+Vanguard's Deadly Charm;
+Vanguard's Fiery Charm;
+Vanguard's Icy Charm;
+Vanguard's Mythic Charm;
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Brain Jar;
+Crab Alley Chaise;
+Fish;
+Mystic Pizza;
+Watermelon Slice;
+WC Drains Theme;
+WC Elsewhere Combat Theme;
+
+| cards =
+
+| reagents =
+Alchemical Salts*F3;
+Alchemical Extract;
+Ancient Scroll*F2;
+Antique Coins;
+Black Pearl;
+Brass;
+Cobalt;
+Ectoplasm;
+Nickel*F3;
+Scales;
+Spider Silk*F3;
+Spring;
+Tin;
+
+| spellements =
+Daybreaker;
+Nightbringer;
+
+| snacks =
+Beast Wellington;
+Bread Fruit Fruit;
+Drumstick;
+Eye Candy;
+Glowing Taffy;
+Hot Cross Buns;
+Rock and Roll Candy;
+Satyr Chow;
+Sprinkle Cupcake;
+Squash;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Bell Pepper;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Evil Magma Peas*CR;
+Helephant Ears;
+Orange Dandelion;
+Red Couch Potatoes;
+Red Grapes of Wrath;
+Snow Apples;
+Sour Fickle Pickle;
+
+| mounts =
+
+| spells =
+
+}}

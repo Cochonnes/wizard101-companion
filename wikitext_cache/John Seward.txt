@@ -1,0 +1,104 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 20,545
+| crecla = 
+| school = Life
+| school2 = Moon
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+533 Any;
+
+| criticalblock =
+646 Any;
+
+| outpierce =
+26%;
+
+| outboost =
+122%;
+
+| incboost =
+30% Death;
+
+| incresist =
+36% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+66% Life;
+
+| outhealing =
+4%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Howling Lands
+| subloc1 = Were-Hollow
+| descrip =
+John Seward is considered a minion to {{Link|Creature|Quincy Morris}}. All drops should be recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Lifeblade;
+Mythblade;
+Spirit Blade;
+Spirit Trap;
+Goat Monk;
+Centaur;
+Phoebus' Will;
+Shift GreenOak;
+Shift Horned Knight;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,147 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 10,200
+| crecla = Grendel
+| school = Life
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Brume Goblin (Tier 4);
+Brume Goblin (Tier 4);
+Brume Goblin (Tier 4);
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 4)
+| descrip =
+For the purpose of drops, Wretched Elexorien (Tier 4) is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+:''"Loathed one, I have been anguished since I first heard news of your struggle with Tyrfing, my son. I will ruin you, and then exact vengeance upon Jarl Whiteshield and all his kin! Your heads will serve as warning to all who seek out Wretched Elexorien!"''
+
+| cheatnotes =
+*{{Icon|Weakness}} Elexorien will place a {{Link|TreasureCard|Weakness}} on all opponents at start of Round 1, and will repeat this at the start of every third Round.
+
+| spellnotes =
+
+| casts =
+Mend;
+Guiding Light;
+Guidance;
+Brilliant Light (2 Pip);
+Regenerate;
+Rebirth;
+Lifeblade (+40%);
+Sanctuary;
+Spirited Minotaur (Life);
+Forest Lord (715-775);
+Gnomes!;
+Natural Attack (Life 123-1,700);
+
+| quests =
+Hall of the Bear;
+
+| gold =
+211 - 240;
+
+| hats =
+
+| robes =
+Armor of Many Winters (Level 70+);
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Hanging Lantern (Winterbane Hall);
+Lantern Post;
+Minor Runestone;
+Standing Sconce;
+Tree Lantern;
+Weapons Cache;
+Wooden Wheelbarrow;
+
+| cards =
+Crow;
+Harvest Lord;
+Icebird;
+Regenerate;
+Satyr;
+Storm Bird;
+
+| reagents =
+Acorn;
+Blood Moss;
+Fossil;
+Frost Flower;
+Nightshade;
+Ore;
+Red Mandrake;
+Spider Silk;
+
+| spellements =
+
+| snacks =
+Bunch of Figs;
+Drumstick;
+Fried Worms;
+Frosty Sugar Cubes;
+Frozen Snails;
+Salmonberry;
+Spicy Drumstick;
+Wheat Cracker;
+Wormy Apple;
+
+| jewels =
+Boss Toad Peridot;
+Dull Defense Sapphire +28;
+
+| pins =
+
+| pets =
+Red Cap*CR;
+
+| seeds =
+Evil Snow Peas;
+Snow Apples;
+White Desparagus;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

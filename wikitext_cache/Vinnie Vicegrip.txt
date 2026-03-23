@@ -1,0 +1,135 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 6,230
+| crecla = Crab
+| school = Ice
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+18 Any;
+
+| criticalblock =
+22 Any;
+
+| outpierce =
+3%;
+
+| outboost =
+23%;
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+8% Ice, Life, Balance, Sun, Moon, Star, Shadow;
+43% Storm, Death;
+
+| outhealing =
+1%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Crab Goon;
+
+| world = Celestia
+| location = Crustacean Empire
+| subloc1 = Vicegrip's Hideout
+| descrip =
+*Defeating Vinnie Vicegrip is part of the Initiate Fire Weaving quest, ''"Fire Bad?"''. Wizards can also defeat Vinnie Vicegrip 6 times as one of their Fire Weaving lessons, which awards the badge, [[Basic:Fire Weaving Badges|Vinnie Vidi Vici]].
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Ward}} ''"Ain't nothing piercing my shell"'' - At the start of every Round, Vinnie Vicegrip will interrupt-cast Tower Shield on himself.
+*{{Icon|Ward}} ''"Boom! Shell still goin' strong"'' - If the Tower Shield is removed by an attack, Vinnie Vicegrip will interrupt-cast Tower Shield on himself.
+*{{Icon|Healing}} If Vinnie Vicegrip is defeated while his Tower Shield cheat is still active, then he will revive with full health.
+*{{Icon|Spell}} ''"You can't beat me! It'd take an elephant to crack my shell"'' - At the start of the fourth Round, or after reviving himself, Vinnie Vicegrip will give each Wizard the following Spell:
+**{{GivesSpell|cards=1|size=x150px|Helephant (Tier 2b)}}
+*{{Icon|Fire}} ''"Hey, where'd that elephant come from?"'' - If a Wizard casts the given Helephant on Vinnie Vicegrip, then he will remove all Wards from himself, ending the Tower Shield cheats.
+**''"Ah, my shell don't feel right no more!"'' - If a Wizard casts a Fire Spell that removes helpful Wards other than Helephant on Vinnie Vicegrip, such as {{Link|Spell|Fire Elf (Tier 2b)}}, Vinnie Vicegrip will remove all Wards from himself and end his Tower Shield cheats.
+
+| spellnotes =
+
+| casts =
+Fortify;
+Vengeance;
+Ice Armor;
+Iceblade (+40%);
+Ice Trap;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Frostbite;
+Icezilla (650-730);
+Colossus;
+Frost Giant;
+Snow Angel;
+
+| quests =
+Fire Bad?;
+
+| dropnotes =
+Wizards will receive Jewels that are appropriate for their Level.
+
+| gold =
+1 - 32;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Efreet (Tier 2b);
+Fire Dragon (Tier 2b)*F2*WMV;
+Fire Elf (Tier 2b);
+Fire Trap;
+Fireblade;
+Helephant (Tier 2b);
+Immolate (Tier 2b)*F2*WMV;
+Sunbird (Tier 2b);
+
+| reagents =
+Weft Yarn @ 10 Weft Yarn;
+Weft Yarn @ 12 Weft Yarn*F5*WMV;
+Weft Yarn @ 15 Weft Yarn*F2*WMV;
+Weft Yarn @ 50 Weft Yarn*F2*WMV;
+Weft Yarn @ 100 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Flawless Accurate Ruby +16%;
+Shiny Accurate Ruby +12%;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

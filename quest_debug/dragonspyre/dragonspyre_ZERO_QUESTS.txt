@@ -1,0 +1,552 @@
+Zero quests parsed for Dragonspyre.
+URL: https://finalbastion.com/wizard101-guides/w101-spell-guides/dragonspyre-main-quest-line-guide/
+
+Check dragonspyre_plain.txt and the parse log below.
+
+PARSE LOG — Dragonspyre
+============================================================
+
+L0000 SKIP    : Home
+L0001 SKIP    : →
+L0002 IGNORED : Wizard101-Worlds
+L0003 SKIP    : →
+L0004 SKIP    : Dragonspyre
+L0005 SKIP    : →
+L0006 AREA    : Dragonspyre Main Quest Line Guide
+L0007 SKIP    : May 15, 2009
+L0008 SKIP    : November 3, 2023
+L0009 IGNORED : misthead
+L0010 AREA    : Wizard101 Main Quest Line
+L0011 SKIP    : Dragonspyre
+L0012 SKIP    : [Looking for a different part of this series? Click here]
+L0013 SKIP    : This guide is meant to give you courage while questing. By following the quests 
+L0014 IGNORED : I’m only listing the
+L0015 SKIP    : main quest line quests
+L0016 IGNORED : , aka
+L0017 SKIP    : storyline quests
+L0018 IGNORED : ,
+L0019 IGNORED : which means the ones you
+L0020 IGNORED : have
+L0021 IGNORED : to do in order to get to the next area. Side quests are not mentioned. For each
+L0022 IGNORED : world
+L0023 IGNORED : , I list the quests you have to do
+L0024 IGNORED : in a certain area
+L0025 IGNORED : . The areas are listed in the order you should do them in (unless otherwise spec
+L0026 SKIP    : Between brackets
+L0027 IGNORED : are the different parts of the quest, as sometimes a quest will require you to d
+L0028 SKIP    : I have divided the quests in the Spiral into the following groups:
+L0029 SKIP    : Talk:
+L0030 SKIP    : Quests that require an interaction with an NPC.
+L0031 SKIP    : Mob
+L0032 IGNORED : :
+L0033 SKIP    : Quests that require the defeat of regular monsters.
+L0034 SKIP    : D&C
+L0035 IGNORED : :
+L0036 SKIP    : Quests that require the collection of something from certain monsters (Defeat an
+L0037 SKIP    : Boss
+L0038 IGNORED : :
+L0039 SKIP    : Quests that require the defeat of a boss. Elite monsters are not counted as boss
+L0040 SKIP    : Cheat
+L0041 IGNORED : :
+L0042 SKIP    : Quests the require the defeat of a cheating boss.
+L0043 SKIP    : Instance
+L0044 IGNORED : :
+L0045 SKIP    : Quests that require the completion of a dungeon.
+L0046 SKIP    : Puzzle:
+L0047 SKIP    : Quests that require the solution to a puzzle.
+L0048 SKIP    : Interact:
+L0049 SKIP    : Quests that require interaction with a certain object.
+L0050 SKIP    : Collect
+L0051 SKIP    : : Quests that require interaction with multiple items of a kind.
+L0052 SKIP    : Explore
+L0053 SKIP    : : Quests that just require you to run towards a certain area, NPC or item.
+L0054 AREA    : Dragonspyre Main Quest Line
+L0055 SKIP    : Dragonspyre has a total of
+L0056 IGNORED : 106 quests
+L0057 IGNORED : . It has
+L0058 IGNORED : 35
+L0059 IGNORED : bosses
+L0060 IGNORED : , though 4 of those are in lower worlds, when you collect the Obsidian Chests. I
+L0061 IGNORED : 9
+L0062 AREA    : Defeat and Collect
+L0063 IGNORED : quests and
+L0064 IGNORED : 39
+L0065 IGNORED : regular mob fights
+L0066 IGNORED : .
+L0067 SKIP    : Dragonspyre is maybe best known for its final instance:
+L0068 AREA    : Malistaire’s Lair
+L0069 IGNORED : . I ran it again for this guide (my lvl 103 ran out of cards in one battle and h
+L0070 IGNORED : Interestingly, 5 of the instances are the
+L0071 IGNORED : tower
+L0072 IGNORED : type. I remember doing all of those alone, in the days when I was mostly playing
+L0073 AREA    : The Labyrinth
+L0074 IGNORED : , a place I grew to hate, since I had to redo it 15-20 times to help friends and
+L0075 AREA    : Bad Blood (talk +
+L0076 SKIP    : boss
+L0077 IGNORED : + talk + explore + talk)
+L0078 IGNORED : Crystal-Matic (explore + talk)
+L0079 AREA    : Holger’s Crystals (interact + talk)
+L0080 AREA    : The Tower Archives
+L0081 IGNORED : 4. Stone Tower Pilot (explore + talk)
+L0082 IGNORED : 5. The Crystal Towers (
+L0083 SKIP    : D&C
+L0084 IGNORED : + talk)
+L0085 IGNORED : 6. The Towering Crystal (explore + interact + talk)
+L0086 IGNORED : 7. Friend of My Friend (talk +
+L0087 SKIP    : mob
+L0088 IGNORED : + talk + interact + talk)
+L0089 IGNORED : 8. Key to Trust (explore + interact + talk)
+L0090 IGNORED : 9. Wizard and Crystal (
+L0091 SKIP    : boss
+L0092 IGNORED : + talk)
+L0093 IGNORED : 10. The Last Key (explore + interact + talk)
+L0094 IGNORED : 11. The Dragon’s Claw (interact + talk)
+L0095 IGNORED : 12. Portal Combat (
+L0096 SKIP    : mob
+L0097 IGNORED : + interact +
+L0098 SKIP    : boss
+L0099 IGNORED : + talk)
+L0100 AREA    : Plaza of Conquests
+L0101 IGNORED : 13. Warkeeper (talk)
+L0102 IGNORED : 14. General Recommendation (talk)
+L0103 IGNORED : 15. Battle On (
+L0104 SKIP    : boss
+L0105 IGNORED : + talk)
+L0106 IGNORED : 16. Blood From a Stone (talk)
+L0107 IGNORED : 17. Recommend This (talk)
+L0108 IGNORED : 18. The Art of War (
+L0109 SKIP    : instance
+L0110 IGNORED : :
+L0111 SKIP    : mob
+L0112 IGNORED : 4x + interact + talk)
+L0113 IGNORED : 19. Stone Soup (talk)
+L0114 IGNORED : 20. Application Procedures (talk)
+L0115 IGNORED : 21. The Best Defense (
+L0116 SKIP    : boss
+L0117 IGNORED : + talk + talk)
+L0118 IGNORED : 22. No Weaklings Allowed (interact +
+L0119 SKIP    : boss
+L0120 IGNORED : + talk)
+L0121 IGNORED : 23. Fighting With Dishonor (talk)
+L0122 IGNORED : 24. Trapper Keeper (
+L0123 SKIP    : boss
+L0124 IGNORED : + talk + talk)
+L0125 IGNORED : 25. Foe of Foes (interact +
+L0126 SKIP    : boss
+L0127 IGNORED : + talk)
+L0128 IGNORED : 26. Going Portal (talk)
+L0129 AREA    : The Grand Chasm
+L0130 IGNORED : 27. Don’t Fall In (talk)
+L0131 IGNORED : 28. The Paper Chase (talk)
+L0132 IGNORED : 29. So Little Time (interact + talk)
+L0133 IGNORED : 30. Crystal Crawlies (
+L0134 SKIP    : D&C
+L0135 IGNORED : + talk)
+L0136 IGNORED : 31. Charged Up (talk)
+L0137 IGNORED : 32. Just Charge It (
+L0138 SKIP    : instance
+L0139 IGNORED : :
+L0140 SKIP    : mob
+L0141 IGNORED : 4x + interact + talk + talk)
+L0142 IGNORED : 33. The Time Is Right (interact + talk)
+L0143 IGNORED : 34. Forward… Into History! (interact)
+L0144 IGNORED : 35. Back to the Beginning (
+L0145 SKIP    : instance
+L0146 IGNORED : : talk + interact 7x + talk)
+L0147 IGNORED : 36. The Vault of Fire (
+L0148 SKIP    : instance
+L0149 IGNORED : : talk +
+L0150 SKIP    : boss
+L0151 IGNORED : )
+L0152 IGNORED : 34. Forward… Into History! (
+L0153 SKIP    : instance
+L0154 IGNORED : : talk)
+L0155 IGNORED : 37. One Good Deed (explore +
+L0156 SKIP    : boss
+L0157 IGNORED : + talk)
+L0158 IGNORED : 38. Stone Free (talk)
+L0159 IGNORED : 39. Attune Town (interact + talk)
+L0160 AREA    : The Drake Hatchery
+L0161 IGNORED : 40. Portal Decay (explore + talk)
+L0162 IGNORED : 41. The Glamorous Life (
+L0163 SKIP    : instance
+L0164 IGNORED : :
+L0165 SKIP    : mob
+L0166 IGNORED : 3x +
+L0167 SKIP    : boss
+L0168 IGNORED : + interact + talk)
+L0169 IGNORED : 42. Control Ring (explore + talk)
+L0170 IGNORED : 43. Welcome to the Academy (talk)
+L0171 IGNORED : 44. Textbook Example (
+L0172 SKIP    : D&C
+L0173 IGNORED : + talk)
+L0174 IGNORED : 45. Et Tu, Statue (interact 3x + talk)
+L0175 IGNORED : 46. Enter the Dragon Rider (talk + talk)
+L0176 IGNORED : 47. The Drakester (interact + talk)
+L0177 IGNORED : 48. The Good Old Days (talk + talk)
+L0178 IGNORED : 49. Rein It In (
+L0179 SKIP    : boss
+L0180 IGNORED : + talk)
+L0181 IGNORED : 50. Rein Check (interact + talk)
+L0182 IGNORED : 51. Feels So Good (interact + interact + talk)
+L0183 AREA    : The Crucible
+L0184 IGNORED : 52. Passing Out (talk)
+L0185 IGNORED : 53. Strenous Course (talk)
+L0186 IGNORED : 54. Back in Session (
+L0187 SKIP    : D&C
+L0188 IGNORED : + talk)
+L0189 IGNORED : 55. A Brief History (interact + talk)
+L0190 IGNORED : 56. Justice Hurts (interact + interact +
+L0191 SKIP    : boss
+L0192 IGNORED : + talk)
+L0193 IGNORED : 57. You Call This Easy? (
+L0194 SKIP    : instance
+L0195 IGNORED : :
+L0196 SKIP    : mob
+L0197 IGNORED : 3x +
+L0198 SKIP    : boss
+L0199 IGNORED : + talk)
+L0200 IGNORED : 58. Judge Not (interact +
+L0201 SKIP    : boss
+L0202 IGNORED : + talk)
+L0203 IGNORED : 59. It’s an Honor (interact + interact +
+L0204 SKIP    : boss
+L0205 IGNORED : + talk)
+L0206 IGNORED : 60. Feeling Defensive? (interact +
+L0207 SKIP    : boss
+L0208 IGNORED : + talk)
+L0209 IGNORED : 61. Pick Up the Spare (talk + (
+L0210 SKIP    : instance
+L0211 IGNORED : : +
+L0212 SKIP    : mob
+L0213 IGNORED : 3x + interact + talk))
+L0214 IGNORED : 62. Obsidian in Crystal (
+L0215 SKIP    : mob
+L0216 IGNORED : 4x + interact + talk)
+L0217 IGNORED : 63. The Last Lesson (interact +
+L0218 SKIP    : boss
+L0219 IGNORED : + talk)
+L0220 IGNORED : 64. Acceptance at Last (talk + talk)
+L0221 AREA    : The Labyrinth
+L0222 IGNORED : 65. Bridge to Over There (
+L0223 SKIP    : instance
+L0224 IGNORED : : talk +
+L0225 SKIP    : boss
+L0226 IGNORED : + talk)
+L0227 IGNORED : 66. Jail Break (
+L0228 SKIP    : instance
+L0229 IGNORED : : talk + interact + interact +
+L0230 SKIP    : boss
+L0231 IGNORED : 3x + talk)
+L0232 IGNORED : 67. The Den of Dean (
+L0233 SKIP    : instance
+L0234 IGNORED : : talk + interact + explore + talk)
+L0235 IGNORED : 68. Cloak and Danger (
+L0236 SKIP    : instance
+L0237 IGNORED : : talk +
+L0238 SKIP    : boss
+L0239 IGNORED : + talk)
+L0240 IGNORED : 69. Staff Direction (
+L0241 SKIP    : instance
+L0242 IGNORED : : talk +
+L0243 SKIP    : boss
+L0244 IGNORED : + talk)
+L0245 IGNORED : 70. The Lesser Evil (
+L0246 SKIP    : instance
+L0247 IGNORED : : talk + interact + talk +
+L0248 SKIP    : boss
+L0249 IGNORED : )
+L0250 IGNORED : 71. Stay for Detention (
+L0251 SKIP    : instance
+L0252 IGNORED : : interact + talk + explore + talk)
+L0253 AREA    : Dragonspyre Academy
+L0254 IGNORED : 72. Fire Shield (
+L0255 SKIP    : instance
+L0256 IGNORED : :
+L0257 SKIP    : mob
+L0258 IGNORED : 3x +
+L0259 SKIP    : boss
+L0260 IGNORED : + talk)
+L0261 IGNORED : 73. Win or Go Home (explore + talk)
+L0262 IGNORED : 74. Wizard Tours (Wizard City
+L0263 SKIP    : boss
+L0264 IGNORED : , Krokotopia
+L0265 SKIP    : boss
+L0266 IGNORED : , Marleybone
+L0267 SKIP    : boss
+L0268 IGNORED : and Mooshu
+L0269 SKIP    : boss
+L0270 IGNORED : + talk)
+L0271 AREA    : Crystal Grove
+L0272 IGNORED : 75. Headless Rider (explore + talk)
+L0273 IGNORED : 76. Quest for Perfection/Root of the Problem (interact 6x + talk)
+L0274 IGNORED : 77. Cutter’s Way (
+L0275 SKIP    : mob
+L0276 IGNORED : + talk + talk)
+L0277 IGNORED : 78. Room to Breathe (
+L0278 SKIP    : mob
+L0279 IGNORED : + talk)
+L0280 IGNORED : 79. A Quiet Place to Work (talk)
+L0281 IGNORED : 80. Sit and Spin (
+L0282 SKIP    : D&C
+L0283 IGNORED : + talk)
+L0284 IGNORED : 81. Tools of the Trade (interact + talk)
+L0285 IGNORED : 82. Table Where? (
+L0286 SKIP    : boss
+L0287 IGNORED : + interact + talk)
+L0288 IGNORED : 83. Staff Assembly (talk + talk)
+L0289 IGNORED : 84. Forged in Fire (interact + talk)
+L0290 AREA    : The Drake Hatchery
+L0291 IGNORED : 85. Earn Your Wings (talk)
+L0292 IGNORED : 86. Mother of Fire (talk + talk)
+L0293 IGNORED : 87. Don’t Count Your Eggs… (
+L0294 SKIP    : instance
+L0295 IGNORED : :
+L0296 SKIP    : mob
+L0297 IGNORED : 3x +
+L0298 SKIP    : boss
+L0299 IGNORED : + talk)
+L0300 IGNORED : 88. Over Easy (explore + interact + talk)
+L0301 IGNORED : 89. Hammer Time (
+L0302 SKIP    : D&C
+L0303 IGNORED : + talk)
+L0304 IGNORED : 90. Break an Egg (
+L0305 SKIP    : boss
+L0306 IGNORED : + interact + talk)
+L0307 IGNORED : 91. Words of Wisdom (talk 4x)
+L0308 AREA    : The Forum
+L0309 IGNORED : 92. Fly Free (explore + talk)
+L0310 IGNORED : 93. Hit the Books (interact + talk)
+L0311 IGNORED : 94. Read the Manual (interact + talk)
+L0312 IGNORED : 95. Training Wings (explore + talk)
+L0313 IGNORED : 96. Overdue Fees (
+L0314 SKIP    : boss
+L0315 IGNORED : + talk)
+L0316 IGNORED : 97. Third Time is the Charm (explore + interact + t
+L0317 IGNORED : alk)
+L0318 IGNORED : 98. Fuel and Flame (
+L0319 SKIP    : D&C
+L0320 IGNORED : +
+L0321 SKIP    : D&C
+L0322 IGNORED : + talk)
+L0323 IGNORED : 99. Forging the Fire (interact + talk)
+L0324 IGNORED : 100. Repo Mage (
+L0325 SKIP    : D&C
+L0326 IGNORED : + talk)
+L0327 IGNORED : 101. Ancient Dragon Secret (interact + talk)
+L0328 IGNORED : 102. He Who Smelt It (interact + talk)
+L0329 IGNORED : 103. Scales of the Dragon (
+L0330 SKIP    : mob
+L0331 IGNORED : 3x + talk)
+L0332 IGNORED : 104. Armor for Baby (talk)
+L0333 IGNORED : 105. The Last Dragon Rider (talk)
+L0334 IGNORED : 106. The Final Countdown (
+L0335 SKIP    : instance
+L0336 IGNORED : : interact +
+L0337 SKIP    : mob
+L0338 IGNORED : +
+L0339 SKIP    : mob
+L0340 IGNORED : +
+L0341 SKIP    : boss
+L0342 IGNORED : + interact +
+L0343 SKIP    : mob
+L0344 IGNORED : 3x +
+L0345 SKIP    : boss
+L0346 IGNORED : + talk)
+L0347 SKIP    : Finished the Dragonspyre main quest line? Take a look below at what comes next!
+L0348 SKIP    : All Wizard101 Main Quest Line Guides
+L0349 SKIP    : Wizard City
+L0350 SKIP    : Krokotopia
+L0351 SKIP    : Marleybone
+L0352 SKIP    : Mooshu
+L0353 SKIP    : Dragonspyre
+L0354 SKIP    : Celestia
+L0355 SKIP    : Zafaria
+L0356 SKIP    : Avalon
+L0357 SKIP    : Azteca
+L0358 SKIP    : Khrysalis
+L0359 SKIP    : Polaris
+L0360 SKIP    : Mirage
+L0361 SKIP    : Empyrea
+L0362 SKIP    : Karamelle
+L0363 SKIP    : Lemuria
+L0364 SKIP    : Novus
+L0365 SKIP    : Wallaru
+L0366 SKIP    : Grizzleheim
+L0367 SKIP    : Wysteria
+L0368 SKIP    : Catacombs
+L0369 SKIP    : Happy Questing!
+L0370 SKIP    : Share your vote!
+L0371 SKIP    : No, thanks.
+L0372 SKIP    : Do you like this post?
+L0373 SKIP    : Fascinated
+L0374 AREA    : Happy
+L0375 AREA    : Sad
+L0376 AREA    : Angry
+L0377 SKIP    : Bored
+L0378 SKIP    : Afraid
+L0379 SKIP    : About the author
+L0380 SKIP    : Latest posts
+L0381 IGNORED : misthead
+L0382 IGNORED : While misthead has written all kinds of guides, the most popular by far are her 
+L0383 AREA    : Wizard101 Spider Pets Guide
+L0384 IGNORED : 2019-05-08 20:51:03
+L0385 AREA    : W101 Floor Tiles Organized By Color
+L0386 IGNORED : 2019-02-24 11:00:49
+L0387 AREA    : Level 48 School Pets and Hybrids
+L0388 IGNORED : 2019-02-14 20:20:44
+L0389 AREA    : Wizard101 Piggle Pets Guide
+L0390 IGNORED : 2019-02-08 15:14:27
+L0391 AREA    : W101 Wallpapers Organized by Color
+L0392 IGNORED : 2019-01-31 07:32:53
+L0393 IGNORED : 32 COMMENTS
+L0394 AREA    : Callum Ferguson
+L0395 SKIP    : April 26, 2023
+L0396 AREA    : Reply
+L0397 AREA    : Okay thank you
+L0398 AREA    : Callum Ferguson
+L0399 SKIP    : April 23, 2023
+L0400 AREA    : Reply
+L0401 IGNORED : i am level 46, myth, and i am starting dragonspryre academy. halfway through wys
+L0402 IGNORED : stormbreaker
+L0403 SKIP    : April 23, 2023
+L0404 AREA    : Reply
+L0405 IGNORED : Well you should continue Dragonspyre if you want to focus on main quests. But if
+L0406 AREA    : Steph
+L0407 SKIP    : October 14, 2025
+L0408 AREA    : Reply
+L0409 SKIP    : very late reply, but don’t bother with wysteria. just do dragonspyre, then after
+L0410 AREA    : Cole
+L0411 SKIP    : August 10, 2022
+L0412 AREA    : Reply
+L0413 IGNORED : by far the worst world in arc 1. so tedious. at least the story is cool
+L0414 IGNORED : ruffwayyyy
+L0415 SKIP    : August 13, 2021
+L0416 AREA    : Reply
+L0417 IGNORED : im lvl 50 in wizard 101 and i cant find no quest at all and my quest finder does
+L0418 IGNORED : Courtney223
+L0419 SKIP    : August 29, 2021
+L0420 AREA    : Reply
+L0421 IGNORED : on the same boat atm. literally been running around everywhere I’m lvl 63 I feel
+L0422 AREA    : Cody RavenTamer
+L0423 SKIP    : August 30, 2021
+L0424 AREA    : Reply
+L0425 SKIP    : Try contacting support. Maybe they can help track down your quest.
+L0426 AREA    : Nora NightWeaver
+L0427 SKIP    : April 24, 2021
+L0428 AREA    : Reply
+L0429 IGNORED : Took me forever to complete this zone just due to the fact I kept procrastinatin
+L0430 AREA    : Shyanne hammers
+L0431 SKIP    : May 1, 2021
+L0432 AREA    : Reply
+L0433 AREA    : I did the exact same thing xD
+L0434 AREA    : Nichol Frances
+L0435 SKIP    : December 11, 2020
+L0436 AREA    : Reply
+L0437 IGNORED : Thank you so much for this! I’m level 52 and was hoping I was getting to the end
+L0438 IGNORED : tintin
+L0439 SKIP    : December 12, 2020
+L0440 AREA    : Reply
+L0441 IGNORED : I’m currently Lv.48， but haven’t been able to start to enter Dragonspyyre.
+L0442 IGNORED : RMV6
+L0443 SKIP    : January 1, 2021
+L0444 AREA    : Reply
+L0445 AREA    : Quest 53 is called “A Strenuous Course”, not just “Strenuous Course”
+L0446 AREA    : Domen
+L0447 SKIP    : August 6, 2020
+L0448 AREA    : Reply
+L0449 IGNORED : im almost lvl 44 lol and finished dragonspyre
+L0450 AREA    : Thanks
+L0451 SKIP    : July 8, 2020
+L0452 AREA    : Reply
+L0453 AREA    : Thanks
+L0454 AREA    : Wolf StrongBreath
+L0455 SKIP    : December 15, 2020
+L0456 AREA    : Reply
+L0457 AREA    : Thanks
+L0458 AREA    : TrulyMe
+L0459 SKIP    : July 4, 2020
+L0460 AREA    : Reply
+L0461 AREA    : How do you start the quest line
+L0462 AREA    : Cody RavenTamer
+L0463 SKIP    : July 4, 2020
+L0464 AREA    : Reply
+L0465 IGNORED : After finishing Mooshu, if you are at the right level you will be headed to Drag
+L0466 IGNORED : tin
+L0467 SKIP    : December 12, 2020
+L0468 AREA    : Reply
+L0469 IGNORED : thx
+L0470 IGNORED : adri
+L0471 SKIP    : July 3, 2020
+L0472 AREA    : Reply
+L0473 AREA    : Honestly loveeeeeee this, it is helping me soooooooooo much thx!!!!!!
+L0474 AREA    : James Holt
+L0475 SKIP    : May 2, 2020
+L0476 AREA    : Reply
+L0477 IGNORED : btw sit in spin is not a defeat and collect, its just run around and get crates
+L0478 AREA    : James Holt
+L0479 SKIP    : May 2, 2020
+L0480 AREA    : Reply
+L0481 IGNORED : nevermind I was on the next quest my bad lol
+L0482 AREA    : Cyn
+L0483 SKIP    : April 30, 2020
+L0484 AREA    : Reply
+L0485 IGNORED : For the Wizard Tours quest, I think you should mention how you don’t even need t
+L0486 IGNORED : anony mous
+L0487 SKIP    : July 13, 2021
+L0488 AREA    : Reply
+L0489 IGNORED : True, but that’s outside of the scope of these guides.
+L0490 AREA    : Aaron
+L0491 SKIP    : March 8, 2020
+L0492 AREA    : Reply
+L0493 IGNORED : This helped me out so much it encouraged me to get 40 missions done in 2 days be
+L0494 AREA    : Laura
+L0495 SKIP    : February 19, 2020
+L0496 AREA    : Reply
+L0497 IGNORED : Thank you so much this really helps a lot knowing how close I am to finishing I’
+L0498 AREA    : Garret
+L0499 SKIP    : December 17, 2019
+L0500 AREA    : Reply
+L0501 IGNORED : whats a normal level to finish dragonspyre at? im getting near the end and even 
+L0502 AREA    : Anonymous
+L0503 SKIP    : March 1, 2020
+L0504 AREA    : Reply
+L0505 IGNORED : Originally, you were required to be at level 48 to unlock Celestia, I would reco
+L0506 AREA    : Harold
+L0507 SKIP    : December 14, 2019
+L0508 AREA    : Reply
+L0509 IGNORED : Thank you for making this. It helps me a lot. My mummy recently died and this ga
+L0510 AREA    : Frost
+L0511 SKIP    : December 15, 2019
+L0512 AREA    : Reply
+L0513 IGNORED : i am so sorry to hear that, but i am happy you found a way to make it a little b
+L0514 IGNORED : .
+L0515 SKIP    : November 24, 2019
+L0516 AREA    : Reply
+L0517 AREA    : I hate this world, thanks for making this
+L0518 AREA    : Thomas Bellew
+L0519 SKIP    : July 18, 2019
+L0520 AREA    : Reply
+L0521 IGNORED : great guide helps a lot knowing how close i am to finishing
+L0522 SKIP    : Leave a Reply
+L0523 SKIP    : Cancel reply
+L0524 AREA    : Your email address will not be published.
+L0525 SKIP    : Required fields are marked
+L0526 IGNORED : *
+L0527 AREA    : Comment
+L0528 IGNORED : *
+L0529 AREA    : Name
+L0530 IGNORED : *
+L0531 AREA    : Email
+L0532 IGNORED : *
+L0533 AREA    : Website
+L0534 AREA    : Current ye@r
+L0535 IGNORED : *
+L0536 AREA    : Leave this field empty
+L0537 SKIP    : Previous Post
+L0538 IGNORED : Dragonspyre Zeke – Stone Roses
+L0539 SKIP    : Next Post
+L0540 AREA    : Dragonspyre Monstrology Creatures
+
+SUMMARY: 0 quests in 0 areas
+Stats: {'total_quests': 106, 'mob_fights': None, 'dc_quests': 9, 'boss_fights': 35, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}

@@ -1,0 +1,203 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,840
+| crecla = Giant
+| school = Death
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Austri;
+Sudri;
+Vestri;
+
+| world = Grizzleheim
+| location = Nastrond
+| subloc1 = Jotengard
+| lootchest = Wintertusk Giants' Chest
+| descrip =
+Nordri is one of the four sons of the Ice Titan, Ymir. All drops should be recorded on this page.
+
+| speech =
+:'''Kol Shadowsong:''' ''"You have fought well, you meddling Wizard, and it is clear that Grandmother Raven has a claw in this! Still, you cannot stop the coming of the Everwinter! The Ice Titan Ymir will wake and bring an age of eternal cold! With the power of the Coven at my command, I call upon the sons of Ymir, the Ice Titan, to stop you!"''
+
+| cheatnotes =
+*{{Icon|Round}} At the start of Round 1, Nordri will use his turn to cast a '''-65%''' {{Link|Spell|Tower Shield}} on himself.
+*{{Icon|Round}} At the start of Round 2, Nodri he will cast a {{Link|Spell|Tower Shield (-90%)}} on himself.
+**This Shield will be replaced every time Nordri is hit.
+:*Spells such as {{Link|Spell|Pierce|}}, {{Link|Spell|Shatter|}}, and {{Link|Spell|Steal Ward|}} can be used to remove the Tower Shield, but will still trigger the "Tag" cheat.
+*{{Icon|Round}} ''"Tag! You are It!"'' - At the start of the fight, and every three Rounds thereafter, one of the Bosses will cast a [[Spell:Stun Block|Stun Shield]] labeled ''"Tag! I'm It!"'' on a random brother, "tagging" them.
+:*On repeats of this cheat, the previously "tagged" Boss will have all Wards on him removed, including the ''"Tag! I'm It!"'' Stun Shield.
+*{{Icon|Spell}} ''"Wrong brother! I'm it!"'' - Casting Spells at any Boss who is not "tagged" will trigger an interrupt-attack from the "tagged" boss. The attack varies depending on which boss is "tagged".
+:::Nordri casts {{Link|Spell|Wraith}}
+:::{{Link|Creature|Austri}} casts {{Link|Spell|Colossus}} dealing 460-540 Ice Damage.
+:::{{Link|Creature|Sudri}} casts {{Link|Spell|Hydra}} dealing '''190''' Fire, Ice, and Storm Damage.
+:::{{Link|Creature|Vestri}} casts {{Link|Spell|Rebirth}} for 750 Healing, without the Absorb.
+:*May Cast Spells will trigger this cheat.
+:*Multi-target, all-enemies attack Spells will not trigger this cheat.
+:*This cheat will stop when Nordri is defeated.
+*{{Icon|Minion}}{{Icon|Afterlife}} ''"Now where did my brothers go?!"'' - When all of Nordri's brothers are defeated, he will remove all Wards from himself at the beginning of the following Round.
+*{{Icon|Round}} ''"You hurt my brothers!"'' - Four rounds after all of his brothers have been defeated, and every three Rounds thereafter, Nordri will cheat-cast a version of Meteor Strike that deals '''500''' Fire Damage.
+
+| spellnotes =
+
+| casts =
+Deathblade;
+Feint;
+Vampire;
+Monster Mash;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+Natural Attack (Ice 85x, 80%);
+
+| quests =
+Rune With a View;
+
+| gold =
+260 - 288;
+
+| hats =
+Fire-Forged Horns*F3;
+Hardy Horns*F5*WMV;
+Horns of Absolution*F6*WMV;
+Horns of Calamity*F4*WMV;
+Horns of Havoc*F3*WMV;
+Savory Shroud*CR;
+Poetic Horns*F2*WMV;
+Wintry Horns*F5*WMV;
+
+| robes =
+Armor of Elan*F4*WMV;
+Armor of the Poets*F5*WMV;
+Baneful Armor*F2*WMV;
+Black Ice Armor*F2;
+Fire-Forged Warlord Armor*F3;
+Storm Surge Armor*F5*WMV;
+Tasty Tunic*CR;
+Valiant Armor*F2*WMV;
+
+| boots =
+Boots of Ages*F3*WMV;
+Boots of Anguish*F2;
+Boots of Honor*F2;
+Delectable Hooves*CR*F3*WMV;
+Esprit Boots*F5;
+Firewalker Boots*F3*WMV;
+Thunderstrike Boots*F4*WMV;
+White Frost Boots*F3*WMV;
+
+| athames =
+Claw of the Ghost Wolf*F7*WMV;
+Claw of the Spirit Wolf*F4*WMV;
+
+| amulets =
+Valkyrie's Star Necklace*F5*WMV;
+Witch's Star Necklace*F4*WMV;
+
+| rings =
+Ring of Wolf Blood*F6*WMV;
+Ring of Wolf Lore;
+
+| wands =
+Lifeforce Blade*CR;
+
+| decks =
+
+| items =
+HFjord Combat Theme*F4*WMV;
+HFjord Main Theme*F7*WMV;
+Vestrilund Main Theme*F3*WMV;
+
+| cards =
+Balefrost;
+Brilliant Light*F6*WMV;
+Dark Tribute*F3*WMV;
+Empower*F3*WMV;
+Frozen Armor*F4*WMV;
+Gargantuan*F2*WMV;
+Legion Shield*F2*WMV;
+Triage*F5*WMV;
+Unstoppable*F7*WMV;
+Virulent Plague*F5*WMV;
+
+| reagents =
+Brass*F4*WMV;
+Bronze*F2;
+Cobalt*F2;
+Spider Silk*F8*WMV;
+Steel*F4*WMV;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F2*WMV;
+Cauliflowers*F2*WMV;
+Glowing Dragon Fruit*F4*WMV;
+Glowing Star Fruit*F3*WMV;
+Salmonberry*F4*WMV;
+Shiny Tomato*F3*WMV;
+Uni-Corn*F3*WMV;
+
+| jewels =
+Blade of Ice Sapphire;
+Mander Opal;
+Mass Fire Prism Ruby;
+Mass Myth Prism Peridot;
+Mass Storm Prism Amethyst*F2;
+Plain Blocking Citrine +6;
+Plain Blocking Jade +6;
+Plain Blocking Opal +3;
+Plain Blocking Peridot +6;
+Plain Blocking Ruby +6;
+Plain Damage Amethyst +15;
+Plain Damage Jade +15;
+Plain Damage Onyx +15*F2;
+Plain Damage Ruby +15;
+Plain Damage Sapphire +15;
+Reshuffle Citrine;
+SnowBorn Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Burning Snap Dragon*F2;
+Deadly Fly Trap*F2;
+Fickle Pickle*F2*WMV;
+Helephant Ears*F2;
+Orange Dandelion*F3*WMV;
+Trumpet Vine*F2;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,111 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 14,485
+| crecla = 
+| school = Fire
+| school2 = Life
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Fire;
+Life;
+
+| critical =
+529 Any;
+
+| criticalblock =
+171 Any;
+
+| outpierce =
+21%;
+
+| outboost =
+106%;
+
+| incboost =
+30% Ice;
+
+| incresist =
+27% Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+57% Fire;
+
+| outhealing =
+8%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Outsiders Camp
+| subloc1 = Zone of Fortune
+| descrip =
+The fourth Tarot card of the Wizard's reading, The Reversed Chariot Card represents the Wizard's future path, which the Wizard has no control over.
+
+| speech =
+
+| cheatnotes = 
+*{{Icon|Protected Trap}} ''"Embrace Your Truth, Use It."'' - The Reversed Chariot Card will cast a 100% Damage Trap on each Wizard, then give each Wizard a copy of {{Link|Spell|Cleanse Ward (Reversed Chariot Card)}}.
+**{{GivesSpell|Cleanse Ward (Reversed Chariot Card)|size = x150px}}
+** This spell is not required to be cast in order to defeat Reversed Chariot Card.
+
+| spellnotes =
+
+| casts =
+Attenuate;
+Sun Blade (+35%);
+Brimstone Revenant (Tier 3a);
+Heck Hound (Tier 3b);
+Meteor Strike (Tier 3a);
+Goat Monk (Tier 3a);
+
+| quests =
+The You You Are;
+
+| gold =
+0;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

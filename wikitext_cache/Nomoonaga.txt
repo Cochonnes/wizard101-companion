@@ -1,0 +1,208 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,520
+| crecla = Pig
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Kakeda Painbringer;
+
+| world = MooShu
+| location = Tree of Life
+| subloc1 = Nomoonaga's Tower
+| descrip =
+*Two additional Kakeda Painbringer Minions appear if more than two Wizards are present.
+
+| speech =
+:''"It must be humbling to stand in my presence. Now remove yourself or I will remove you."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+Nomoonaga tends to be conceited and reacts poorly to any imagined slight.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Black Mantle;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Vampire;
+Skeletal Pirate;
+Natural Attack (Death 85x);
+Lightning Bats;
+Cyclops;
+Meteor Strike;
+
+| quests =
+Question of Faith;
+
+| gold =
+65 - 84;
+
+| hats =
+Benign Cap;
+Hat of the Lotus;
+Hat of the Nimble*F2*WMV;
+Hat of the Triad;
+Helm of Sandcastles*F3*WMV;
+Mask of Impression;
+Nomoonaga's Diligent Cap*F4*WMV;
+Vigilant Cap;
+Zippy Shroud;
+
+| robes =
+Blended Wool Tunic;
+Euphonic Cloak;
+Garment of Dilemma*F3;
+Garment of Watchfulness;
+Garments of Chants;
+Heedful Robe;
+Nomoonaga's Lively Garment*F3;
+Profound Robes*F4*WMV;
+Robe of Cognition*F2*WMV;
+Robe of Conceit*F2;
+Robe of the Chipper;
+Robes of Struggling*F2*WMV;
+Robes of the Triad*F2;
+Speculative Tunic*F2;
+Sprightly Garments;
+Tunic of Preoccupation;
+Tunic of Soul-Searching*F2*WMV;
+Vestment of Cooperation;
+Vexing Tunic*F3*WMV;
+
+| boots =
+Boots of Chimes;
+Friendly Shoes;
+Profound Slippers;
+Sandals of the Quick-Witted;
+Shoes of Song;
+Shoes of Struggling;
+Shoes of the Whim*F4*WMV;
+Shoes of Woe;
+Slippers of the Opus;
+Slippers of Yodels*F2*WMV;
+Sprightly Slippers;
+
+| athames =
+Athame of the Lotus;
+Dream Tanto of Ages;
+Nomoonaga's Kris of Hope*F2*WMV;
+
+| amulets =
+
+| rings =
+Nomoonaga's Analytical Ring*F2*WMV;
+Nomoonaga's Band*F2*WMV;
+
+| wands =
+
+| decks =
+Deck of the Lotus*F3*WMV;
+Nomoonaga's Deck*F2*WMV;
+
+| items =
+Bamboo Obelisk;
+Lunar Tablet;
+MooShu Plague Theme;
+Potted Bamboo Plant;
+Potted Heartblossom*F3*WMV;
+Wooden Skeleton Key*CR*F5*WMV;
+
+| cards =
+Darkwind;
+Ice Wyvern;
+Monstrous;
+
+| reagents =
+Bone*F4*WMV;
+Cobalt;
+Copper;
+Lead*F2;
+Leather Straps*F2*WMV;
+Nickel*F2;
+Pyrite;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Crunch Apple;
+Fire Cracker;
+Golden Peanut*F2;
+Golden Squash;
+Large Fish*F2*WMV;
+Large Watermelon*F2*WMV;
+Square Root*F2*WMV;
+
+| jewels =
+Blemished Damage Citrine +11;
+Blemished Damage Onyx +11;
+Blemished Defense Opal +11;
+Blemished Mana Opal +18;
+Blemished PIP Opal +4%*F2;
+Energy Opal;
+Flawed Accurate Amethyst +4%;
+Flawed Accurate Onyx +4%;
+Flawed Accurate Opal +2%;
+Ice-Shot Sapphire;
+Kraken Amethyst;
+Myth-Away Peridot;
+Power Play Citrine;
+Skeletal Pirate Onyx;
+
+| pins =
+
+| pets =
+Dire Ghoul;
+
+| seeds =
+Deadly Ninja Fig*F3*WMV;
+Fiery Boom Shroom*F4*WMV;
+Maelstrom Snap Dragon*F2*WMV;
+Pink Dandelion*CR*F2;
+White Laugh-O-Dil*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

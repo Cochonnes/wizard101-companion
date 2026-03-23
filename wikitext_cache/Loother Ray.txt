@@ -1,0 +1,315 @@
+{{Stub|which version of the '''Mutate''' treasure cards is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 9,240
+| crecla = Fang
+| crecla2 = Snake
+| school = Death
+| cheats = Yes
+| shadowslots = 1
+| startpips = 3
+| powerpips = Yes
+| critical = 
+
+| criticalblock = 
+
+| outpierce =
+7%;
+
+| outboost =
+60%;
+
+| incboost =
+15% Life;
+
+| incresist =
+30% Death;
+
+| stunable = No
+| beguilable = No
+| minions = 
+Fangs Assaulter;
+
+| world = Mirage
+| location = Aggrobah
+| subloc1 = Four Points
+| descrip =
+*Another Fangs Assaulter and {{Link|Creature|Fangs Guard}} will appear if more than two Wizards are present.
+*This Boss is immune to Damage Over Time while at low Health.
+
+| speech = 
+
+| cheatnotes =
+*{{Icon|Late}} ''"Another combatant? Bring it on!"'' - If a Wizard joins the duel after it has already begun, Loother Ray will cast Bad Juju (Shadow) at the Wizard.
+*{{Icon|Minion}} ''"Come out and play!"'' - At the beginning of the first Round, Loother Ray casts a Shadow Spell that summons a random combination of two of the following: Fangs Guards and/or Fangs Assaulters.
+*{{Icon|Feint}} ''"You'll pay for that!"'' - If a {{Link|Spell|Feint}} is placed on Loother Ray, he will cast a Cleanse Ward (Shadow, -All) that removes all unprotected Traps and Prisms on himself.
+:*{{Link|Spell|Mass Feint (+75%)}} does not trigger this cheat.
+:*The Balance version of {{Link|ItemCard|Feint}} does not trigger this cheat.
+:*{{Link|Spell|Indemnity}} can prevent the Feint from being removed.
+*{{Icon|Heal}} ''"I saw that coming"'' - If a Wizard casts a Healing Spell, he will cast Mass Infection (-65%).
+:*Pet Spells will trigger this cheat.
+*{{Icon|Steal}} ''"Experience the strength of street knowledge"'' - He will randomly cheat-cast {{Link|Spell|Steal Health}}.
+
+| spellnotes =
+*Casts a multi-target version of Poison (45+450).
+
+| casts =
+Brace;
+Dream Shield (-75%);
+Deathspear;
+Virulent Plague;
+Mass Infection (-65%);
+Bad Juju (Shadow);
+Sacrifice (Death);
+Deathblade;
+Feint (All Enemies);
+Cleanse Ward (Shadow, -All);
+Doom and Gloom (-75%);
+Death Scarab (Death);
+Vampire (375);
+Poison (45+450);
+Call of Khrulhu;
+Scarecrow;
+Natural Attack (Ice 105-210-315, 75%);
+
+| quests =
+Four Points;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' Badge and has not unlocked the '''[[Basic:Empyrea Badges|Hero of Light and Shadow]]''' Badge, the following drops will be available:
+*5 Spellements will drop each time from '''any''' School for their respective rank 9, 10, King Artorius, Polaris, and Mirage Spells.
+
+| gold =
+198 - 816;
+
+| hats =
+Aridian Helm of Dunestorms;
+Aridian Helm of Strife;
+Rubal Kufiya of Loyalty;
+Wayfarer's Cold Snap Fez;
+Wayfarer's Fez of Intent;
+
+| robes =
+Rubal Khalat of Carnage*F2*WMV;
+
+| boots =
+Parched Wayfarer's Galesh;
+Rubal Babouches of Renewal;
+Wayfarer's Galesh of Grit;
+Wayfarer's Galesh of Intent;
+Wayfarer's Scirocco Galesh;
+
+| athames =
+Rubal Janbiya of Action;
+Rubal Janbiya of Bitterness;
+Rubal Janbiya of Competence;
+Rubal Janbiya of Illusions;
+Rubal Thunder Janbiya;
+Viper Edge of Reflection;
+Viper Edge of Sunstoke;
+
+| amulets =
+Rubal Locket of Frostbite;
+Rubal Necklace of Carnage*F2;
+
+| rings =
+Rubal Band of Cessation;
+Rubal Band of Lightning;
+Rubal Seal of Bitterness;
+Rubal Seal of Loyalty;
+Viper Ring of Reflection;
+
+| wands =
+Alkali Bow of Vibrancy;
+Conscript Tabar of Delusion;
+Restrictor Wand of Wisdom;
+
+| decks =
+Rubal Cards of Cessation;
+Rubal Cards of Lightning;
+Rubal Deck of Bitterness;
+Rubal Deck of Carnage;
+Viper Cards of Sunstoke;
+
+| items =
+Mirage Canyon Theme 1;
+Mirage Chronoverge Com Theme;
+Mirage City Theme;
+Mirage Den of Thieves Theme*F2;
+Mirage Desert Canyons Theme;
+Mirage Magic Carpet Theme;
+Mirage Palace Theme;
+Mirage Spider Speaks Theme;
+
+| cards =
+Age of Reckoning;
+Ashen Bones;
+Astraphobia;
+Fiery Giant;
+Mass Fire Prism;
+Mass Life Prism;
+Mass Myth Prism;
+Mutate Bats;
+Mutate Bird (Ice);
+Mutate Cat (Storm);
+Mutate Elf (Ice);
+Mutate Serpent (Fire)*F2;
+Mutate Shark (Ice);
+Mutate Snake (Fire);
+Mutate Snake (Ice);
+Mutate Wyvern (Fire);
+Steel Colossus;
+
+| reagents =
+Ancient Scroll*F2;
+Antique Coins*F5*WMV;
+Black Pearl*F8*WMV;
+Blood Moss*F2;
+Brass*F5*WMV;
+Bronze Gear*F2*WMV;
+Cobalt*F3*WMV;
+Ectoplasm*F3*WMV;
+Nickel*F2*WMV;
+Scales*F4*WMV;
+Spider Silk*F2;
+Spring*F3;
+Tin*F5*WMV;
+Turmeric;
+
+| spellements =
+Avenging Fossil*BR*F2;
+Basilisk*BR;
+Celestial Calendar*BR;
+Climaclysm*BR;
+Dr. Von's Monster*BR;
+Iron Sultan*BR;
+King Artorius (Balance)*BR*F2;
+King Artorius (Death)*BR*F2;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR*F2;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Qismah's Curse*BR;
+Rain of Fire*BR;
+Sabertooth;
+Sirens*BR*F2;
+Snake Charmer*BR;
+Spinysaur;
+Winged Sorrow*BR;
+
+| snacks =
+Antheneum Delight;
+Beast Wellington;
+Beetle Cream Soda;
+Chalupacabra*F3*WMV;
+Chili Cheese Fries;
+Chili Peppers*F3*WMV;
+Decimatoes;
+Delicious Cookie*F2*WMV;
+Eye Candy*F2;
+French Fries;
+Gourmet Yogurt*F3;
+Hard Boiled Beetle Eggs*F3;
+Hot Cross Buns*F2;
+Huge Ice Cream;
+Mustachios*F3*WMV;
+Satyr Chow*F2;
+Ships 'n' Queso;
+Submarine Sandwich;
+Super Cold Popsicle*F2*WMV;
+Veggie Juice;
+
+| jewels =
+Lustrous Accurate Citrine +11%;
+Lustrous Accurate Peridot +11%;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Onyx +13;
+Lustrous Blocking Peridot +13;
+Lustrous Blocking Ruby +13;
+Lustrous Blocking Sapphire +13;
+Lustrous Critical Amethyst +13*F2*WMV;
+Lustrous Critical Citrine +13;
+Lustrous Critical Peridot +13;
+Lustrous Critical Ruby +13*F2;
+Lustrous Critical Sapphire +13;
+Lustrous Damage Onyx +23*F2;
+Lustrous Damage Ruby +23;
+Lustrous Damage Sapphire +23*F2*WMV;
+Lustrous Defense Amethyst +45;
+Lustrous Defense Jade +45*F2*WMV;
+Lustrous Defense Sapphire +45;
+Lustrous Mana Opal +41;
+Lustrous Mana Opal +42;
+Renew Opal;
+Shiny Blocking Citrine +16;
+Shiny Blocking Sapphire +16;
+Shiny Critical Amethyst +16;
+Shiny Critical Citrine +16;
+Shiny Damage Amethyst +26*F2*WMV;
+Shiny Damage Hematite +52;
+Shiny Defense Amethyst +52*F2;
+Shiny Defense Onyx +50;
+Shiny Defense Peridot +51;
+Shiny Defense Ruby +52;
+Shiny Health Opal +111;
+Shiny Health Opal +112*F2;
+Shiny Health Opal +113;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47;
+Shiny PIP Hematite +2*F2;
+
+| pins = 
+
+| pets =
+MaCaw*CR;
+
+| seeds =
+Angel Oak*F2*WMV;
+Angora Bunny Ears;
+Baby Carrots*F4*WMV;
+Bell Pepper*F5*WMV;
+Blue Huckleberries*F2;
+Boiled Peanuts;
+Boon Tree*CR;
+Bread Fruit Bush*F3*WMV;
+Burning Snap Dragon;
+Clockwork Flower;
+Cornbread Fruit Bush*F2;
+Couch Potatoes*CR;
+Deadly Fly Trap;
+Desparagus (Seed);
+Face Palm;
+Fish on a Vine*F4*WMV;
+Frozen Fly Trap;
+Golden Couch Potatoes*F2;
+Grapes of Wrath*CR*F5*WMV;
+Honey Bee Plant;
+Honey Sickle;
+Ivy League*CR*F2;
+Laugh-O-Dil;
+Maelstrom Snap Dragon;
+Melting Cheese Tree;
+Orange Dandelion*F4*WMV;
+Pink Huckleberries*F4*WMV;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Red Bell Pepper;
+Red Couch Potatoes*F4*WMV;
+Red Huckleberries*F2;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Snap Dragon;
+Snow Apples;
+Sugar Khrystal*CR;
+Trumpet Vine;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,128 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 8,800
+| crecla = Sultan
+| crecla2 = Golem
+| school = Storm
+| cheats = Yes
+| shadowslots = 1
+| startpips = 4
+| powerpips = Yes
+| outpierce =
+15%;
+
+| outboost =
+90%;
+
+| incboost =
+15% Myth;
+
+| incresist =
+50% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+Gold Dragon (Portal of Peril, Tier 2);
+Steeleton (Portal of Peril, Tier 2);
+
+| world = Portal of Peril
+| location = Sinbad & the Iron Sultan Gauntlet (Portal of Peril)
+| subloc1 = Metallos Summit (Portal of Peril)
+| descrip =
+Having finally been cornered by {{Link|NPC|Sinbad}} and companion Wizards on the summit of Metallos, {{Link|NPC|Hari Houssen}} has used the transmutative power of the Iommi Stone to transform himself the Iron Sultan, set on using its powers to restore Ferros to its place of power in the Spiral.
+
+This Creature is nearly identical to [[Creature:Iron Sultan (Tier 4)|Iron Sultan (Tier 4)]].
+*An additional Steeleton will appear if more than two Wizards are present.
+
+| speech =
+:''"I. Am. IRON SULTAN! Once I have taken Ferros I will return her to her former glory by resurrecting what first made her strong: METAL! But before I rule with an iron fist, I should practice wielding one. I think I'll start with your meaty faces!"''
+
+| cheatnotes =
+*''"You are late!"'' - If a Wizard is late to join the duel, then the Iron Sultan will interrupt-cast {{Link|Spell|Iron Sultan (Shadow)}} on the late Wizard.
+*''"Clever, but that is why I have a Golden Dragon!"'' - At the beginning of the first Round, the Gold Dragon will interrupt-cast a version of {{Link|Spell|Shadow Sentinel}} on itself that provides '''75%''' Intercept, '''100''' Critical Block, and '''-30%''' incoming Damage.
+*''"I am METAL!"'' - If a {{Link|Spell|Feint}} or {{Link|ItemCard|Mass Feint}} is cast on the Iron Sultan, he will use {{Link|Spell|Cleanse Ward (Shadow, -All)}} twice on himself to remove all harmful Wards.
+*''"This one goes up to eleven!"'' - At the end of every fifth Round, the Iron Sultan will interrupt-cast a +35% version of Darkwind.
+**''"Heavy fists of lead, fill my victims full of dread!"'' - Immediately after Darkwind is cast, the Iron Sultan will cast {{Link|Spell|Iron Sultan}} on the Wizard with the lowest Health.
+
+| spellnotes =
+
+| casts =
+Brace;
+Galvanic Field (6 Rounds);
+Stormblade;
+Darkwind (+35%);
+Storm Serpent (230);
+Storm Cat;
+Iron Sultan;
+Glowbug Squall;
+Rusalka's Wrath;
+Storm Lord;
+Storm Hound (150);
+
+| quests =
+The Umpteenth Voyage of Sinbad;
+
+| dropnotes =
+This Boss will always drop 10 Fortune Coins and 2 random Treasure Cards.
+
+| gold =
+
+| hats =
+Grand Admiral's Turban (Level 50+)*CR;
+Sky Captain's Turban (Level 50+)*CR;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Banshee (Tier 2b);
+Cyclops (Tier 2b);
+Frost Beetle (Tier 2b);
+Lightning Bats (Tier 2b);
+Locust Swarm (Tier 2b);
+Nature's Wrath (Tier 2b);
+Scarab (Tier 2b);
+Snow Serpent (Tier 2b);
+Star Blade;
+Troll (Tier 2b);
+
+| reagents =
+Fortune Coin @ 10 Fortune Coins*F2*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Iron Sultan
+}}

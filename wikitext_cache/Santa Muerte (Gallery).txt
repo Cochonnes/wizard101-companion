@@ -1,0 +1,112 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 20,975
+| crecla = Flamingo
+| school = Death
+| masteries =
+Fire;
+
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Khrysalis
+| location = Shadow Palace
+| subloc1 = The Galleries
+| descrip =
+For the purpose of drops, Santa Muerte is considered a Minion to [[Creature:Balor the Broken Fang (Gallery)|Balor the Broken Fang]]. All drops, cheats, and speech are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Shadow Shrike;
+Dark Fiend;
+Deathblade;
+Curse;
+Death Trap;
+Ghoul;
+Natural Attack (Death 160-255-350);
+Lord of Night;
+Deer Knight;
+Poison (45+450);
+Skeletal Pirate;
+Wraith;
+Scarecrow;
+Skeletal Dragon (225+910);
+Dr. Von's Monster;
+Avenging Fossil;
+Brimstone Revenant;
+Meteor Strike (355-395);
+Scald (567);
+Efreet;
+Rain of Fire (330+880);
+Heck Hound;
+
+| quests =
+The Galleries;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

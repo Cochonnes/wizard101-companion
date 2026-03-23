@@ -1,0 +1,161 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 5,910
+| crecla = Shadow Weaver
+| school = Ice
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Blackback Soldier;
+
+| world = Zafaria
+| location = Drum Jungle
+| subloc1 = Waterfall Cave
+| descrip =
+
+| speech = 
+
+| spellnotes =
+
+| casts =
+Fortify;
+Vengeance;
+Tower Shield;
+Iceblade;
+Ice Trap;
+Freeze;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Frostbite;
+Icezilla (650-730);
+Colossus;
+Frost Giant;
+Snow Angel;
+
+| quests =
+Cutting Through the Mist;
+
+| gold =
+96 - 128;
+
+| hats =
+Blackback Safari Brim;
+Ghostgrass Hood*F2*WMV;
+Hood of the Forgotten;
+Hot-Tempered Chieftain's Mask;
+Jungle Lord's Winter Cap;
+
+| robes =
+Fire Valley Outfit;
+Graveyard Shift*F3*WMV;
+Shaman's Winter Protection;
+Tunic of Long Memory*F2*WMV;
+
+| boots =
+Dancing Queen Dancers*F4;
+Fire Lion's Storm Wraps*F2*WMV;
+Spider's Storied Wraps*F2;
+
+| athames =
+Razor of Symmetry;
+
+| amulets =
+Storm Shard Charm;
+
+| rings =
+Amahle's Striped Band;
+Mansa's Dream Stone*F3*WMV;
+
+| wands =
+Quagga Blade;
+Staff of Shadow and Light*F3*WMV;
+
+| decks =
+Bundle of Ananse's Stories*F2*WMV;
+Bundle of Eternal Flame;
+Dead Chieftain's Fanged Deck*F2;
+Hand-Chased Box of Thunder;
+
+| items =
+
+| cards =
+Efreet*F2*WMV;
+Forest Lord;
+Frozen Armor*F3*WMV;
+Legion Shield*F2*WMV;
+Leviathan*F2*WMV;
+Medusa*F2*WMV;
+Ra*F2;
+Skeletal Dragon;
+Sniper*F2;
+Snow Angel;
+
+| reagents =
+Cobalt;
+Leather Straps*F5*WMV;
+
+| spellements = 
+
+| snacks =
+Buttered Bread;
+Delicious Cookie;
+Flaming Soup;
+Jelly Baby;
+King Banana*F2;
+Kola Nuts*F2;
+Salmonberry;
+Submarine Sandwich;
+
+| jewels =
+Life-Boon Jade;
+Opaque Critical Onyx +8;
+Opaque Critical Opal +4;
+Opaque Defense Citrine +33;
+Opaque Defense Onyx +33;
+Opaque Health Opal +67;
+Power Nova Citrine;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Burning Snap Dragon;
+Key Limes*CR;
+Orange Bell Pepper*CR;
+Orange Dandelion*F2*WMV;
+Snap Dragon;
+Trumpet Vine;
+Venus Fly Trap;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,279 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 9,840
+| crecla = Wyrm
+| school = Ice
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Black Dragon;
+
+| world = Avalon
+| location = Keep of Ganelon
+| subloc1 = Dragon's Den (Keep of Ganelon)
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Avalon
+| tome description =
+This is the great White Dragon, whose venom is half the cure for King Artorius.
+
+| extract class =
+Wyrm;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Vengeance;
+Tower Shield;
+Iceblade;
+Ice Trap;
+Freeze;
+Balefrost;
+Natural Attack (Ice 175-350-510);
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Frostbite;
+Icezilla (650-730);
+Colossus;
+Frost Giant;
+Snow Angel;
+Woolly Mammoth;
+
+| quests =
+The Guns of Avalon;
+The Head of the Dragon;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge and has not unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge, the following drops will be available:
+*7 Spellements will drop each time for their respective rank 5-9 Spells.<br/><br/>If a Wizard already has the '''Master of the Jungle''' Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} in the Keep of Ganelon to acquire a [[Item:Level Scaling Elixir - 80|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+141 - 156;
+
+| hats =
+Great Horned Helm*F4*WMV;
+Lake Knight's Helm*F4*WMV;
+
+| robes =
+Knight of Flame Armor*F5*WMV;
+Ninja Pig Robe*CR*HOL;
+Santa Robe*CR*HOL;
+Sunken Giant's Tartan*F2*WMV;
+
+| boots =
+Fire-Spitter Dancers*F2*WMV;
+Santa Boots*CR*HOL;
+Winter Wyrm Cleats*F4*WMV;
+
+| athames =
+Bite of the Winter Wyrm;
+Knight of Flame Edge*F3*WMV;
+
+| amulets =
+Barbarian Philosopher's Mark*F3*WMV;
+Strength of the Oak Pendant*F5*WMV;
+
+| rings =
+Crystal Cave Rose*F4*WMV;
+
+| wands =
+Confectioner's Staff*CR*HOL;
+Dawnfrost Blade*F4*WMV;
+Fire-Edged Broadsword*F2;
+First Bird of Spring Wand*CR*HOL;
+Golden Windfall Staff*CR*HOL;
+Hollypop Wand*CR*HOL;
+Smirking Pumpkin Stave*CR*HOL;
+
+| decks =
+Argent Rose Deck*F4*WMV;
+Luminary Deck*F3*WMV;
+Silverweave Spread*F2*WMV;
+Woodlocke Deck*F2*WMV;
+
+| items =
+Avalon Abbey Road Theme;
+Avalon Main Theme;
+Big Holiday Tree*CR*HOL;
+Deck the Halls Theme*HOL;
+Green Holiday Ornament*HOL;
+Holiday Fireplace*HOL;
+Jingle Bells Theme*HOL;
+Large Snowflake*HOL;
+Nutcracker*HOL;
+Yuletide Lg. Small Fry Aquarium*CR*HOL;
+Yuletide Reg. Small Fry Aquarium*CR*HOL;
+Yuletide Reg. Whopper Aquarium*CR*HOL;
+Yuletide Tall Keeper Aquarium*CR*HOL;
+Yuletide Tall Small Fry Aquarium*CR*HOL;
+
+| cards =
+Amplify*F3*WMV;
+Berserk*F4;
+Blinding Light*F4*WMV;
+Catalan;
+Cleanse Ward*F2*WMV;
+Colossal*F5;
+Empower;
+Empowerment*F3*WMV;
+Extraordinary*F3*WMV;
+Fire Dragon*F2*WMV;
+Fortify*F5*WMV;
+Frost Giant;
+Frostbite*F4*WMV;
+Frozen Armor*F4*WMV;
+Gargantuan*F3*WMV;
+Infallible*F3*WMV;
+Keeper of the Flame*F3*WMV;
+Legion Shield*F4*WMV;
+Mend*F4*WMV;
+Myth Prism*F3*WMV;
+Orthrus*F2;
+Pierce*F6*WMV;
+Power Nova*F2;
+Rebirth*F2*WMV;
+Sacrifice;
+Scarecrow*F2*WMV;
+Shatter (2 Pip)*F5*WMV;
+Steal Ward*F5*WMV;
+Storm Lord*F5*WMV;
+Unstoppable*F2*WMV;
+Vengeance*F6*WMV;
+
+| reagents =
+Black Lotus*F3*WMV;
+Brass*F2*WMV;
+Bronze;
+Cat Tail*F3*WMV;
+Deep Mushroom*F2*WMV;
+Frost Flower*F5*WMV;
+Lava Lily*F4*WMV;
+Mist Wood*F3*WMV;
+Ore*F4*WMV;
+Parchment*F5*WMV;
+Pearl;
+Red Mandrake*F3*WMV;
+Shell*F6*WMV;
+Steel*F4;
+Stone Block*F3*WMV;
+
+| spellements =
+Basilisk*BR;
+Blight Hound*BR;
+Centaur*BR;
+Chimera*BR;
+Colossus*BR;
+Dr. Von's Monster*BR;
+Earth Walker*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+Helephant*BR;
+Hydra*BR;
+Leviathan*BR;
+Medusa*BR;
+Minotaur*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Skeletal Pirate*BR;
+Snow Angel*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Stormzilla*BR;
+Triton*BR;
+Woolly Mammoth*BR;
+Wraith*BR;
+
+| snacks =
+Bogwich;
+Buttered Bread;
+Deviled Eggs;
+Golden Grapes;
+Green Grapes;
+Gummy Wyrms*F3*WMV;
+Pigeon Pie*F2*WMV;
+Roasted Chickpeas*F2;
+Salmonberry;
+Shiny Tomato;
+Treant Bark*F2;
+Uni-Corn;
+
+| jewels =
+Blade of Life Jade;
+Clear Blocking Opal +5;
+Clear Damage Ruby +19;
+Clear Damage Sapphire +19;
+Enfeeble Amethyst;
+Mass Infection Onyx;
+Rage of Winter Sapphire;
+Sniper Talent Opal;
+Snow Drift Sapphire;
+
+| pins =
+
+| pets =
+Cupig*CR*HOL;
+Golden Goose*CR*HOL;
+Lump of Coal*CR*HOL;
+Snowball*CR*HOL;
+
+| seeds =
+Angora Bunny Ears;
+Blue Huckleberries*F3*WMV;
+Happy Holidaisy*CR*HOL;
+Pink Huckleberries*F2*WMV;
+Red Huckleberries;
+
+| mounts =
+Stormrider Hare*PERM*CR*HOL;
+
+| spells =
+
+}}

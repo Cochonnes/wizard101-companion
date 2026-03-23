@@ -1,0 +1,183 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 960
+| crecla = Cat
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Ruffian;
+
+| world = Marleybone
+| location = Newgate Prison
+| subloc1 = Mugsy's Lair
+| descrip =
+Mugsy receives two additional Ruffian Minions if more than two Wizards are present.
+
+| speech =
+:''"Why I oughta knock you to the moon, you pesky little creep!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Death Damage per Pip.
+
+| casts =
+Storm Shield;
+Black Mantle;
+Weakness;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Ghoul;
+Fire Elf;
+Evil Snowman;
+
+| quests =
+Trap the Thug;
+
+| gold =
+27 - 49;
+
+| hats =
+Artificial Headwrap;
+Cap of Fascination;
+Cowl of the Exceptional;
+Elegant Helm*F2*WMV;
+Headwraps of Preference;
+Mugsy's Black Mantle Cap*F4*WMV;
+Mugsy's Distressing Hat*F4*WMV;
+Mugsy's Dramatic Cowl*F3*WMV;
+Mugsy's Enkindled Hat*F2*WMV;
+Mugsy's Frigid Headwrap*F4*WMV;
+Mugsy's Helm*F2*WMV;
+Shroud of Predominance;
+Skillful Hat;
+
+| robes =
+Animated Canine Cloak*F2*WMV;
+Doctor's Uniform;
+Finely Finished Cloak;
+Mugsy's Animated Vest*F2;
+Mugsy's Consistent Robe;
+Mugsy's Enkindled Cloak;
+Mugsy's Mysterious Tunic*F2*WMV;
+Mugsy's Robe of Equity*F2;
+Mugsy's Solar Robe;
+Rainslicker*F2*WMV;
+Remarkable Robe*F2;
+Robe of Politeness*F2*WMV;
+
+| boots =
+Bandit's Footwraps;
+Flickering Boots;
+Mugsy's Affected Slippers*F2*WMV;
+Mugsy's Aristocratic Boots*F3*WMV;
+Mugsy's Genteel Slippers;
+
+| athames =
+Athame of the Sleuth*F2;
+Conventional Dagger*F2;
+Detective's Dagger;
+Dirk of Nobles;
+Mugsy's Perceptive Knife*F3*WMV;
+Mugsy's Stylish Athame*F2;
+Watchman's Athame;
+
+| amulets =
+Mugsy's Meteorite Amulet*F3;
+
+| rings =
+Exquisite Band*F2*WMV;
+Ring of Rejuvenation;
+
+| wands =
+Mugsy's Staff of Extinction*F4*WMV;
+
+| decks =
+Mugsy's Deck of Ice*F2*WMV;
+
+| items =
+Ball of Yellow Yarn;
+Bulletin Board*F3*WMV;
+Enclosed Wall Lamp*F2;
+Fine Wooden Table*F2*WMV;
+
+| cards =
+Cyclops;
+Giant;
+Ice Trap;
+Ice Wyvern;
+Kraken;
+Monstrous;
+Mutate Elf (Storm);
+Skeletal Pirate;
+Tough;
+
+| reagents =
+Bone*F2*WMV;
+Copper;
+Iron*F2;
+Lead*F2;
+Nickel*F2;
+Spider Silk*F5*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn*F2*WMV;
+Gummy Bloodbat;
+Medium Fish;
+Redskin Peanut;
+Square Watermelon;
+Stinky Cheese*F3;
+Wheat Cracker;
+
+| jewels =
+Banshee Onyx*F3;
+Chipped Damage Peridot +7;
+Chipped Damage Ruby +7;
+Chipped Defense Opal +8;
+Chipped Health Opal +21;
+Chipped Health Opal +23;
+Cracked Damage Opal +3;
+Fire-Boon Ruby;
+Flawed Healing Opal +2%;
+Flawed Health Opal +29;
+Flawed Health Opal +30;
+Flawed Resilient Opal +2%;
+Sprite Jade;
+Sunbird Ruby*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

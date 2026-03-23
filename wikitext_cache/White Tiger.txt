@@ -1,0 +1,114 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 15,350
+| crecla = Fossa
+| school = Moon
+| school2 = Sun
+| masteries =
+Ice;
+Storm;
+Death;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| outpierce =
+26%;
+
+| outboost =
+130%;
+
+| incboost =
+5% Fire, Life;
+
+| incresist =
+73% Ice, Death;
+
+| outhealing =
+45%;
+
+| inchealing =
+50%;
+
+| stunable = No
+| beguilable = No
+| minion = 
+| world = Lemuria
+| location = Heap
+| subloc1 = Command Center
+| descrip =
+White Tiger is considered a Minion to {{Link|Creature|Power Draconian}}.  All drops are recorded on that page.
+
+| cheatnotes =
+*''"*GROWL*"'' - If a Wizard joins the battle after the first Round, White Tiger casts {{Link|Spell|Sabertooth}} on the Wizard.
+*''"*WARNING ROAR*"'' - White Tiger will say this the turn before their *ROAR* cheat.
+*''"*ROAR*"'' - At the end of every two Rounds, White Tiger casts a Moon version of {{Link|Spell|Insane Bolt}} to all enemies dealing '''550''', '''1,050''' or '''1,550''' Moon Damage.
+*''"*WHIMPER*"'' - If White Tiger is hit by an attack, their *ROAR* cheat is delayed, and the two Round cycle is reset.
+*''"*SNARL*"'' - White Tiger will cast {{Link|Spell|Empower (Moon)}} on itself after these following triggers.
+**If a negative Charm is cast on White Tiger.
+**After White Tiger casts Grim Reader or Power Draconian casts Lord of the Jungle.
+
+| spellnotes =
+*Casts an Aegis-Protected Balanceblade.
+*Casts an Aegis-Protected Bladestorm.
+
+| casts =
+Flawless (6 Rounds);
+Moon Shield;
+Sun Shield (Storm-Life-Fire);
+Legion Shield;
+Mass Infection;
+Balanceblade;
+Bladestorm;
+Constrain;
+Meteor Strike (Moon);
+Natural Attack (Moon 105-210-315-420);
+Call of Khrulhu (Moon);
+Shatterhorn (Moon);
+Orthrus (Moon, 700);
+Iron Sultan;
+Brulee Sucre;
+Grim Reader (Tier 3a);
+Snowball Barrage;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

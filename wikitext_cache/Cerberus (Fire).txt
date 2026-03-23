@@ -1,0 +1,101 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 11,680
+| crecla = Dog
+| school = Fire
+| cheats = Yes
+| startpips = 7
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Wizard City
+| location = Tartarus
+| subloc1 = Courtyard of Tartarus
+| descrip =
+For the purpose of drops, Cerberus (Fire) is considered a Minion to {{Link|Creature|Cerberus (Balance)}}. All drops, cheats, and speech are recorded on that page.
+
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Infallible;
+Smoke Screen;
+Fireblade;
+Fire Trap;
+Wyldfire;
+Natural Attack (Fire 125-260-395);
+Meteor Strike;
+Helephant;
+Inferno Salamander (60+690);
+Fire Dragon;
+Efreet;
+Rain of Fire;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

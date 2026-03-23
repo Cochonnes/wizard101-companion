@@ -1,0 +1,204 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 3,760
+| crecla = Sultan
+| crecla2 = Golem
+| school = Storm
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+30%;
+
+| incboost =
+20% Myth;
+
+| incresist =
+40% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gold Dragon (Tier 1);
+Steeleton (Tier 1);
+
+| world = Housing Instance
+| location = Sinbad & the Iron Sultan Gauntlet
+| subloc1 = Metallos Summit
+| descrip =
+Having finally been cornered by {{Link|NPC|Sinbad}} and companion Wizards on the summit of Metallos, {{Link|NPC|Hari Houssen}} has used the transmutative power of the Iommi Stone to transform himself the Iron Sultan, set on using its powers to restore Ferros to its place of power in the Spiral.
+*An additional Steeleton will appear if more than two Wizards are present.
+
+| speech =
+:''"I. Am. IRON SULTAN! Once I have taken Ferros I will return her to her former glory by resurrecting what first made her strong: METAL! But before I rule with an iron fist, I should practice wielding one. I think I'll start with your meaty faces!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Hari Houssen used to make monsters out of clay, but when that artform was lost, he went mental for metal.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| altlink = Iron Sultan
+
+| cheatnotes =
+*{{Icon|Manipulation}} ''"Clever, but that is why I have a Golden Dragon!"'' - At the beginning of the first Round, the Gold Dragon will interrupt-cast a version of {{Link|Spell|Shadow Sentinel}} on itself that provides '''75%''' Intercept, '''100''' Critical Block, and '''-30%''' incoming Damage.
+
+| spellnotes =
+
+| casts =
+Infallible;
+Lightning Strike;
+Stormblade;
+Supercharge;
+Storm Prism;
+Storm Trap;
+Windstorm;
+Darkwind;
+Wild Bolt;
+Stormzilla;
+Storm Lord;
+
+| quests =
+The Umpteenth Voyage of Sinbad;
+
+| gold =
+
+| hats =
+Fleet Kapudan's Turban (Level 20+)*CR;
+Grand Admiral's Turban (Level 10+)*CR;
+Grand Admiral's Turban (Level 20+)*CR;
+Sinbad's Turban*F2*WMV;
+Sky Captain's Turban (Any Level)*CR;
+Sky Captain's Turban (Level 20+)*CR;
+
+| robes =
+Fleet Kapudan's Armor (Level 10+)*CR;
+Grand Admiral's Armor (Any Level)*CR;
+Sinbad's Armor*F2*WMV;
+Sky Captain's Armor (Any Level)*CR;
+
+| boots =
+Fleet Kapudan's Boots (Level 20+)*CR;
+Grand Admiral's Boots (Any Level)*CR;
+Grand Admiral's Boots (Level 10+)*CR;
+Sinbad's Boots;
+Sky Captain's Boots (Level 10+)*CR*F2;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Admiral's Boarding Hook (Any Level)*CR;
+Kapudan's Grappling Hook (Level 10+)*CR;
+Sky Captain's Boarding Hook (Any Level)*CR*F2*WMV;
+
+| decks =
+
+| items =
+Archer Rack*CR*F2;
+Blue Vase*CR;
+Desert Forge*CR;
+Double Scroll Case*F2*WMV;
+Fence Post;
+Gilded Sarcophagus;
+Glass of Hours;
+Istanboa Pillar;
+Istanboa Platform*F3*WMV;
+Map of Aggrobah;
+Monkey Tail Goblet;
+Novice's Socket Wrench;
+Qhat Book Stand;
+Qhat Shield;
+Sand Device*F2;
+Scroll Case (Mirage);
+The Boat;
+
+| cards =
+Death Prism;
+Dryad;
+Fire Prism*F2;
+Judgement;
+Life Prism;
+Myth Prism;
+Sandstone Colossus;
+Sinbad;
+Storm Prism;
+Tempest;
+
+| reagents =
+Brass*F2*WMV;
+Bronze;
+Cobalt*F2;
+Diamond*F2;
+Nickel;
+Steel;
+
+| spellements =
+
+| snacks =
+Ancient Date;
+Assaulted Caramels;
+Bunch of Figs;
+Cactus Fruit;
+Fire Passion Fruit;
+Fuzzy Peach Fizz;
+Honey Bombs;
+Honeycombs;
+Pollen Bombs;
+Prickly Bear Punch*F2;
+Roasted Chickpeas;
+Salty Fish;
+Sandy Corn;
+Spicy Stingers;
+
+| jewels =
+Cracked Damage Opal +2*F2;
+Cracked Health Opal +7;
+Cracked Mana Opal +5;
+Cracked Resilient Opal +1%;
+
+| pins =
+
+| pets =
+Plucky Gryphon;
+Scrappy Gryphon*F2;
+Snappy Gryphon;
+
+| seeds =
+
+| mounts =
+Roc*1*CR;
+Roc*7*CR;
+
+| spells =
+
+| elixirs = 
+Major Gold Elixir;
+
+| altimage = Iron Sultan
+}}

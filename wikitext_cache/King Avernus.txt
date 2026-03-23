@@ -1,0 +1,174 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 2,135
+| crecla =  Undead
+| school = Death
+| school2 = Ice
+| startpips = 1
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
++25 Ice, Myth;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = No
+| minions =
+Nefertus (H1400);
+Deep Spawn Queen (H1000);
+Earl of Lichenten (H1000);
+
+| world = Housing Instance
+| location = Liches & Legends Gauntlet
+| subloc1 = 
+| descrip =
+The fight against King Avernus will vary depending on which path was taken through the Gauntlet.
+
+'''Minions'''
+*If "''Follow Nefertus''" (Right Room) was chosen first, the Earl of Lichenten will not be present in the fight.
+*If "''Destroy Deep Spawn Nest''" (Middle Room) was chosen second, the Deep Spawn Queen will not be present in the fight.
+*If "''Stop Nefertus''" (Left Room) was chosen third, Nefertus will not be present in the fight.
+
+'''Cheats'''
+*If "''Seek Blessing''" (Middle Room) was chosen first, King Avernus' Relic of Eternal Avernus cheat will not trigger, and it will instead trigger for the Wizard's team.
+*If "''Find Treasure''" (Left Room) was chosen second, King Avernus' Emblem of Avernal Shielding cheat will not trigger, and it will instead trigger for the Wizard's team.
+*If "''Sneak Around''" (Right Room) was chosen third, King Avernus' Medallion of Shadow Summon cheat will not trigger, and it will instead trigger for the Wizard's team.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Random}} ''"King Avernus casts Gut Punch of Paralysis. Does it succeed?"'' - At the end of every second Round, King Avernus will cast an Ice Spell on the Wizard with the highest Health that will randomly do one of the following effects:
+**''"Critical success! You're stunned!"'' - The targeted Wizard will take 200 Ice Damage and is Stunned.
+**''"It does succeed! You take damage!"'' - The targeted Wizard will take 200 Ice Damage.
+**''"It fails!"'' - Nothing happens.
+**''"Critical fail! He stuns himself!"'' - King Avernus is Stunned.
+
+'''King Avernus' Relic Cheats'''
+*{{Icon|Afterlife}} ''"I call upon the Relic of Eternal Avernus to revive me!"'' - At the beginning of the first Round, if "''Seek Blessing''" (Middle Room) was ''not'' chosen first,  King Avernus will cast a version of {{Link|Spell|Guardian Spirit}} that restores 17% of his maximum Health (362 Health) upon being defeated.
+*{{Icon|Shield}} ''"Emblem of Avernal Shielding, protect me!"'' - If "''Find Treasure''" (Left Room) was ''not'' chosen second, the first time King Avernus is targeted or Damaged by an attack Spell each turn, he will cast a -50 Damage Ward on himself.
+*{{Icon|Shadow Creature}} ''"Medallion of Shadow Summon, bring me a thrall from the void!"'' - At the beginning of the third Round, if "''Sneak Around''" (Right Room) was ''not'' chosen third,  King Avernus will cast a version of {{Link|Spell|Dark Fiend}} that deals 200 Shadow Damage to all enemies with no additional effects.
+
+'''Wizards' Relic Cheats'''
+*{{Icon|Afterlife}} ''"You have my Relic of Eternal Avernus? No!"'' - At the beginning of the first Round, if "''Seek Blessing''" (Middle Room) was chosen first, a version of Guardian Spirit will be cast on all Wizards that restores 50% of their maximum Health upon being defeated.
+*{{Icon|Shield}} ''"No, Emblem of Avernal Shielding, don't protect them!"'' - If "''Find Treasure''" (Left Room) was chosen second, after a Wizard is targeted by an attack Spell, a -50 Damage Ward is applied on them.
+**If the Wizard's team is targeted with an All Enemies Spell, all Wizards will receive a -25 Damage Ward.
+*{{Icon|Shadow Creature}} ''"You have stolen my Medallion of Shadow Summon?"'' - At the beginning of the third Round, if "''Sneak Around''" (Right Room) was chosen third, a random Wizard will cast a version of Dark Fiend that deals 1,700 Shadow Damage to King Avernus and has no additional effects.
+
+| spellnotes =
+*Casts a 0-Pip Storm Spell that applies a +25 Damage Charm.
+*Casts a 1-Pip version of Qismah's Curse that deals 50 Death Damage to all enemies.
+*Casts a 2-Pip version of Deer Knight that deals 75 Death Damage to and applies a -25 Damage Charm on all enemies.
+*Casts a 2-Pip version of Scarecrow that deals 50 Death Drain Damage to all enemies and heals the caster for the Damage dealt.
+
+| casts =
+
+| quests =
+Liches & Legends;
+
+| dropnotes =
+Wizards will always receive the following drops:
+*{{Icon|Robe}} 1 Hat, Robe, Boot, Athame, Amulet, Ring, or Wand drop for Any School, which will be Level 50+ if they have not reached Level 100, and Level 100+ if they have reached Level 100 but have not reached Level 170
+*{{Icon|Reagent}} 30-34 Graph Paper
+
+| gold =
+1 - 38;
+
+| hats =
+Skull of Avernal Fury (Level 170+)*CR;
+Skull of King Avernus (Level 100+)*CR;
+Skull of the Re-Risen (Level 170+)*CR;
+Skull of the Skinless King (Level 170+)*CR;
+
+| robes =
+Raiment of the Re-Risen (Level 170+)*CR;
+Raiment of the Skinless King (Level 170+)*CR;
+
+| boots =
+Shoes of Avernal Fury (Level 100+) *CR;
+Shoes of King Avernus (Level 170+)*CR;
+Shoes of Legendopia (Level 170+)*CR;
+Shoes of the Night Infernal (Level 170+)*CR;
+Shoes of the Re-Risen (Level 170+)*CR
+Shoes of the Skinless King (Level 100+)*CR;
+
+| athames =
+Dirk of Avernal Fury (Level 170+)*CR*F2*WMV;
+Dirk of Legendopia (Level 170+)*CR;
+Dirk of the Lich Lord (Level 50+)*CR;
+Dirk of the Lich Lord (Level 100+)*CR;
+Dirk of the Lich Lord (Level 170+)*CR;
+Dirk of the Night Infernal (Level 170+)*CR;
+Dirk of the Re-Risen (Level 170+)*CR;
+Dirk of the Skinless King (Level 170+)*CR;
+
+| amulets =
+Clasp of Avernal Fury (Level 100+)*CR;
+Clasp of Avernal Fury (Level 170+)*CR*F2*WMV;
+Clasp of King Avernus (Level 170+)*CR;
+Clasp of Legendopia (Level 100+)*CR;
+Clasp of Legendopia (Level 170+)*CR*F2*WMV;
+Clasp of the Lich Lord (Level 170+)*CR*F2*WMV;
+Clasp of the Night Infernal (Level 170+)*CR;
+Clasp of the Re-Risen (Level 100+)*CR;
+Clasp of the Re-Risen (Level 170+)*CR*F2*WMV;
+
+| rings =
+Loop of Avernal Fury (Level 170+)*CR;
+Loop of King Avernus (Level 100+)*CR;
+Loop of King Avernus (Level 170+)*CR*F2*WMV;
+Loop of Legendopia (Level 100+)*CR;
+Loop of Legendopia (Level 170+)*CR;
+Loop of the Lich Lord (Level 170+)*CR;
+Loop of the Night Infernal (Level 170+)*CR;
+Loop of the Skinless King (Level 100+)*CR;
+Loop of the Skinless King (Level 170+)*CR*F2*WMV;
+
+| wands =
+Hedron of Avernal Fury (Level 170+)*CR;
+Hedron of Legendopia (Level 170+)*CR;
+Hedron of the Skinless King (Level 170+)*CR*F2*WMV;
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Frostbite Token;
+Graph Paper @ 30 - 34 Graph Paper;
+Myth Seed Farmer*F2*WMV;
+Shatter Token;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Archmastery Boost Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,392 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 30,800
+| crecla = Spider
+| school = Shadow
+| school2 = Storm
+| masteries =
+Death;
+Balance;
+
+| cheats = Yes
+| shadowslots = 7
+| startpips = 3
+| powerpips = Yes
+| critical =
+120 Any;
+
+| criticalblock =
+97 Any;
+
+| outpierce =
+7%;
+
+| outboost =
+110%;
+
+| incboost =
+10% Myth;
+
+| incresist =
+20% Fire, Ice, Life, Death, Balance;
+40% Storm, Shadow;
+
+| outhealing =
+
+| inchealing =
+50%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Spiderling;
+
+| world = Mirage
+| location = Chronoverge
+| subloc1 = North Time Dunes
+| lootchest = Spiders Chest
+| descrip =
+*Grandfather Spider, also known as {{Link|NPC|Old Cob}}, is the final boss of Mirage.  Wizards must defeat him to retrieve the Eye of History that was stolen from {{Link|NPC|Bartleby}}.
+
+| speech =
+:''"And at long last, the inevitable showdown between the forces of Light and Shadow! It's not so clear-cut, however, is it, Tainted One? But battle we must. Though with the Sands of Time in such a state, I suspect it will add quite an unpredictable dynamic to this contest. Who knows? It might help you win. Of course, the odds of defeating a Supreme Being such as I... well, they are slim, but come, give me your best."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Mirage
+| tome description =
+Known as Old Cob, the Weaver of Shadows, the Lord of Chaos. He's really not so bad once you get to know him.
+
+| extract class =
+Spider;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"You're late... or are you early?"'' - If a Wizard joins the duel after the second Round, then Grandfather Spider will interrupt-cast a Shadow version of {{Link|Spell|Insane Bolt}} on the Wizard, dealing 2,000 Shadow Damage and removing 3 pips.
+*{{Icon|Minion}} ''"You will not defeat me!"'' - At the beginning of the first Round, Grandfather Spider will summon a {{Link|Creature|Spiderling}} Minion.  The Minion will become active on the next Round and interrupt-cast a permanent version of {{Link|Spell|Shadow Sentinel}}  which provides  '''Intercept 90%''', '''+80''' Critical Block, and '''-30%''' Incoming Damage.
+:*If the Spiderling is defeated, then Grandfather Spider will summon another one three Rounds later.
+:*Only one {{Link|Creature|Spiderling}} can be up at a time.
+:*Grandfather Spider will only summon as many Spiderlings as there are Wizards engaged in the duel. Once that number of Spiderlings has been defeated, he will unsuccessfully attempt to summon a Minion every three Rounds.
+*{{Icon|Round}} ''"Spin the wheel! I'm enjoying this!"'' - At the end of every third Round, Grandfather Spider will interrupt-cast a Spell that switches the first turn of the duel.
+*{{Icon|Shadow}}{{Icon|Manipulation}} ''"Time, time, time, see what's become of me"'' - At the end of a number of Rounds dependent on the number of Wizards engaged in the duel, Grandfather Spider will interrupt-cast a Shadow version of {{Link|Spell|Dimension Shift}} that steals all positive charms and wards from all Wizards.
+:*Every 8 Rounds with 1 Wizard present.
+:*Every 7 Rounds with 2 Wizards present.
+:*Every 6 Rounds with 3 Wizards present.
+:*Every 5 Rounds with 4 Wizards present.
+*{{Icon|Heal}} ''"Surprised? So am I!"'' - Grandfather Spider will sometimes use his Natural Attack on a random Wizard and then cast {{Link|Spell|Healing Current}} on himself.
+*{{Icon|Storm}}{{Icon|Damage}} ''"You had your chance, I'm ending this"'' - Grandfather Spider will cast a {{Link|Spell|Shadow Sultan}}.
+*{{Icon|Feint}} ''"That's the spirit!"'' - If a {{Link|Spell|Feint}} is placed on Grandfather Spider, then he will cast Swap Ward to switch the traps with the Wizard who cast it.
+**This can be avoided with {{Link|Spell|Indemnity}} or {{Link|Spell|Melt}}.
+**{{Link|ItemCard|Mass Feint}} does not trigger this cheat.
+** The Balance version of {{Link|ItemCard|Feint}} does not trigger this cheat.
+*{{Icon|Curse}} ''"Time needs chaos! One direction is boring!"'' - If a {{Link|Spell|Bad Juju}} is placed on Grandfather Spider, then he will interrupt-cast {{Link|Spell|Sacrifice}} on himself.
+
+| spellnotes =
+*Casts an Aegis-protected Shadowblade, Stormblade (+30%), and Reaperblade.
+**Reaperblade incorrectly states '''+35%''' Storm Damage on both Blades.
+*Casts a protected Windstorm (+25%) and Feint (All Enemies).
+
+'''Natural Attack:'''
+*Deals 110 Shadow Damage per Pip, despite the Spell card's 3-Pip maximum description.
+
+| casts =
+Infallible;
+Magnify;
+Healing Current;
+Fairy;
+Sacrifice (Death);
+Shadowblade;
+Reaperblade (Storm-Shadow);
+Stormblade (+30%);
+Windstorm (+25%);
+Feint (All Enemies);
+Storman (Shadow);
+Glowbug Squall (Shadow, 1,120);
+Rusalka's Wrath (Shadow);
+Power Nova (Shadow);
+Storm Lord (Shadow);
+Natural Attack (Shadow 110-220-330);
+Storm Beetle (125);
+Storm Serpent (230);
+Insane Bolt;
+Queen Calypso;
+Shadow Sultan;
+Berzerk Kraken;
+Storm Lord (775);
+Leviathan (1,150);
+Storm Owl;
+Hydra (265);
+Nested Fury;
+Chimera (375);
+
+| quests =
+Showdown with Spider;
+Grandfather Spider;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' Badge and has not unlocked the '''[[Basic:Empyrea Badges|Hero of Light and Shadow]]''' Badge, the following drops will be available:
+*9 Spellements will drop each time from '''any''' School for their respective rank 9, 10, King Artorius, Polaris, and Mirage Spells.
+
+If a Wizard already has the '''[[Basic:Empyrea Badges|Hero of Light and Shadow]]''' Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of North Time Dunes to acquire a [[Item:Level Scaling Elixir - 120|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+153 - 210;
+
+| hats =
+Time Warden's Ornate Kavuk*F7*WMV;
+
+| robes =
+Time Warden Downpour Thobe*F9*WMV;
+Time Warden Snowdrift Thobe*F4*WMV;
+Time Warden Thobe of Gloom*F9*WMV;
+Time Warden Thobe of Pyres*F2*WMV;
+Time Warden Thobe of Reason*F2*WMV;
+Time Warden Thobe of Triumph*F7*WMV;
+Time Warden Thobe of Truth*F5*WMV;
+Time Warden's Ornate Thobe*F8*WMV;
+
+| boots =
+Time Warden's Ornate Galesh*F9*WMV;
+
+| athames =
+Khanjar of Tetrus Prison*F9*WMV;
+Tetrus Khanjar of Fusion*F3*WMV;
+Tetrus Khanjar of Isolation;
+Tetrus Khanjar of Purpose*F5*WMV;
+Tetrus Khanjar of Rumination*F6*WMV;
+Tetrus Khanjar of Scalding*F2;
+Tetrus Khanjar of Sleet*F7*WMV;
+Tetrus Khanjar of Tempests*F10*WMV;
+
+| amulets =
+Ampul of Tetrus Prison*F6*WMV;
+
+| rings =
+Ringlet of Tetrus Prison*F11*WMV;
+
+| wands =
+Time Warden Downpour Kilij*F7*WMV;
+Time Warden Kilij of Gloom*F5*WMV;
+Time Warden Kilij of Pyres*F6*WMV;
+Time Warden Kilij of Reason;
+Time Warden Kilij of Triumph*F11*WMV;
+Time Warden Kilij of Truth*F3*WMV;
+Time Warden Snowdrift Kilij*F2*WMV;
+Time Warden's Ornate Kilij*F10*WMV;
+
+| decks =
+Tetrus Deck of Fusion*F2*WMV;
+Tetrus Deck of Isolation;
+Tetrus Deck of Purpose*F10*WMV;
+Tetrus Deck of Rumination*F5*WMV;
+Tetrus Deck of Scalding*F3*WMV;
+Tetrus Deck of Sleet*F3*WMV;
+Tetrus Deck of Tempests*F4*WMV;
+Tetrus Prison Deck*F9*WMV;
+
+| items =
+Grandmaster Socket Wrench;
+Mirage Canyon Theme 1;
+Mirage Canyon Theme 2*F2*WMV;
+Mirage Caravan Theme*F3*WMV;
+Mirage Chronoverge Com Theme*F2*WMV;
+Mirage Chronoverge Theme*F2;
+Mirage City Tense Theme;
+Mirage City Theme*F5*WMV;
+Mirage City Theme 2;
+Mirage Den of Thieves Theme*F3*WMV;
+Mirage Desert Combat Theme*F3*WMV;
+Mirage Jungle Theme*F4*WMV;
+Mirage Magic Carpet Theme*F2*WMV;
+Mirage Nomad Theme;
+Mirage Palace Theme*F2*WMV;
+Mirage Serpent Theme;
+
+| cards =
+
+| reagents =
+Aether*F24*WMV;
+Agave Leaves*F8*WMV;
+Agave Nectar*F2;
+Amber;
+Amber Dust*F10*WMV;
+Aquamarine*F15*WMV;
+Astral Shard*F15*WMV;
+Braided Vine*F3*WMV;
+Draconium*F2*WMV;
+Fire Blossom*F10*WMV;
+Golden Pearl*F28*WMV;
+Iridium;
+Merle's Whisker*F5*WMV;
+Mithril*F17*WMV;
+Orichalcum*F2;
+Scales*F11*WMV;
+Silver*F12*WMV;
+Stardust*F2*WMV;
+Steel*F7*WMV;
+Sunstone*F18*WMV;
+Titanium*F8*WMV;
+Tungsten*F8*WMV;
+Turmeric*F18*WMV;
+Turquoise*F13*WMV;
+Vine*F13*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Chimera*BR;
+Climaclysm*BR;
+Gnomes!*BR*F2;
+Iron Sultan*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Lord of Winter*BR;
+Raging Bull*BR;
+Rusalka's Wrath*BR;
+Sabertooth*BR;
+Scorching Scimitars*BR;
+Sirens*BR;
+Snake Charmer*BR;
+Snowball Barrage*BR;
+Spinysaur*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Winged Sorrow*BR;
+Wings of Fate*BR;
+Witch's House Call*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Beast Wellington*F4*WMV;
+Beetle Cream Soda*F3*WMV;
+Chalupacabra*F6*WMV;
+Eye Candy*F2*WMV;
+Hard Boiled Beetle Eggs*F4*WMV;
+Hot Cross Buns*F5*WMV;
+Mustachios*F5*WMV;
+Satyr Chow*F13*WMV;
+Ships 'n' Queso*F7*WMV;
+Veggie Juice;
+
+| jewels =
+Brace Opal*F3*WMV;
+Chastisement Opal*F2*WMV;
+Deathspear Onyx;
+Elemental Spear Citrine;
+Magnify Opal*F2*WMV;
+Mythspear Peridot;
+Shiny Blocking Citrine +16;
+Shiny Blocking Hematite +16;
+Shiny Blocking Jade +16;
+Shiny Blocking Onyx +16*F2*WMV;
+Shiny Blocking Peridot +16;
+Shiny Blocking Ruby +16;
+Shiny Blocking Sapphire +16*F2*WMV;
+Shiny Critical Citrine +16;
+Shiny Critical Sapphire +16;
+Shiny Damage Amethyst +26;
+Shiny Damage Citrine +26;
+Shiny Damage Hematite +52*F3*WMV;
+Shiny Damage Jade +26*F2*WMV;
+Shiny Damage Onyx +26;
+Shiny Damage Ruby +26;
+Shiny Damage Sapphire +26*F2*WMV;
+Shiny Defense Amethyst +51*F2*WMV;
+Shiny Defense Amethyst +52;
+Shiny Defense Citrine +50;
+Shiny Defense Jade +52;
+Shiny Defense Onyx +50;
+Shiny Defense Peridot +52;
+Shiny Defense Ruby +52;
+Shiny Defense Sapphire +51*F2*WMV;
+Shiny Defense Sapphire +52;
+Shiny Health Opal +111*F3*WMV;
+Shiny Health Opal +112*F2;
+Shiny Health Opal +113*F5*WMV;
+Shiny Health Opal +114*F3*WMV;
+Shiny Health Opal +115;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47*F2*WMV;
+
+| pins =
+
+| pets =
+MaCaw*CR*F5*WMV;
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Angel Oak;
+Angora Bunny Ears*F2*WMV;
+Baby Carrots*F4*WMV;
+Bamboo Shoots*F2*WMV;
+Bell Pepper*F2*WMV;
+Blue Huckleberries;
+Boiled Peanuts*F4*WMV;
+Boom Shroom*F2*WMV;
+Bread Fruit Bush;
+Clockwork Flower*F3*WMV;
+Couch Potatoes*CR;
+Cornbread Fruit Bush;
+Dandelion*F2*WMV;
+Deadly Helephant Ears*CR*F2*WMV;
+Desparagus (Seed);
+Evil Magma Peas*CR*F3*WMV;
+Evil Snow Peas*F2;
+Fickle Pickle*F2*WMV;
+Fiery Boom Shroom;
+Fortune Cookie Tree;
+Frozen Fly Trap*F2;
+Golden Couch Potatoes;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Honey Bee Plant;
+Honey Sickle;
+Ivy League*CR*F3*WMV;
+Key Limes*CR;
+King Parsley*CR;
+Maelstrom Snap Dragon;
+Missile Toe;
+Moon Flower*F2*WMV;
+Orange Bell Pepper*CR;
+Pink Huckleberries*F2*WMV;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Purple Grapes of Wrath*F7*WMV;
+Purple Snow Apples;
+Queen Crape Myrtle;
+Red Bell Pepper*F3*WMV;
+Red Couch Potatoes*F3*WMV;
+Red Huckleberries;
+Saw Palmetto*F2*WMV;
+Snap Dragon;
+Sour Fickle Pickle*F4*WMV;
+Sugar Khrystal*CR;
+Sword Fern*CR*F2;
+Tiger Lily (Seed);
+Trumpet Vine*F3*WMV;
+Venus Fly Trap;
+White Desparagus;
+White Tiger Lily;
+Yellow Bell Pepper*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

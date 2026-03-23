@@ -1,0 +1,253 @@
+{{Stub|which version of the '''Mutate''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss 
+| rank = 16
+| heal = 23,370
+| crecla = Beastman 
+| school = Ice
+| school2 = Balance
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+114 Any;
+
+| criticalblock =
+160 Any;
+
+| outpierce =
+12%;
+
+| outboost =
+105%;
+
+| incboost =
+10% Fire;
+
+| incresist =
+30% Myth, Life, Death;
+40% Storm, Shadow;
+75% Ice, Balance;
+
+| outhealing =
+
+| inchealing =
+100%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Adrok;
+Mykedee;
+
+| world = Empyrea
+| location = Aeriel Shores
+| subloc1 = Beastman Fight Club
+| descrip =
+Yowck is the final Boss in the Beastman Fight Club instance.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"You're Missing The Party!"'' - Yowck will use {{Link|Spell|Mana Burn (Star)}} if a Wizard joins the duel late, followed by a Star version of {{Link|Spell|Donate Power}} giving 7 Power Pips to his entire team.
+*{{Icon|Trap}} ''"See How You Like It!"'' - Yowck will use a Star version of {{Link|Spell|Shift}}, if Traps are put on Adrok, putting the Trap back on a random Wizard. Yowck will also cast this if any ally of his casts a Trap moving only the negative wards a Wizard has cast on the target.
+**Prisms will activate this cheat only at the end of the Round.
+**{{Link|Spell|Indemnity}} can be used to avoid this cheat.
+*{{Icon|Shield}} After casting his Natural Attack, Yowck will place an {{Link|Spell|Elemental Shield (-55%)}} or {{Link|Spell|Spirit Shield (-55%)}} on a random ally.
+*{{Icon|Accuracy}} ''"Haha! Nice try"'' - If a Wizard fizzles, he will cast {{Link|Spell|Black Mantle (-55%, 0 Pip)}} on the one who fizzled.
+*{{Icon|Ward}}{{Icon|Jinx}} If a Wizard places a single-target Ward on an ally (such as {{Link|Spell|Tower Shield}} and {{Link|Spell|Feint}}) Yowck will do one of the following:
+**''"First one is on the house!"'' -  Boss will allow the first cast.
+**''"Second one has a cover charge!"'' - Further casts in the same round will trigger Yowck to use {{Link|Spell|Pierce (Star)}} on the recipient of the Ward and {{Link|Spell|Freeze}} on the caster.
+***This cycle resets every round.
+*If a Wizard uses a mass Ward on their allies (such as {{Link|Spell|Legion Shield}} and {{Link|Spell|Rebirth}})
+**''"Group Concert? I'll Allow it This Time!"'' - Boss will allow the first cast.
+**''"This party is out of control!"'' -  Further casts in the same round will trigger Yowck to use {{Link|Spell|Pierce (Star, All Enemies)}} and {{Link|Spell|Blinding Freeze}} on all Wizards.
+***This cycle resets every round.
+'''{{Link|Creature|Adrok}}'''
+*{{Icon|Curse}} ''"Leave Adrok Alone!"'' - If a negative charm is cast on Yowck, Adrok will cast {{Link|Spell|Cleanse Charm (Star)}}, to remove it.
+'''{{Link|Creature|Mykedee}}'''
+*{{Icon|Heal}} ''"Time for one last Beatdown"'' - Mykedee will cast {{Link|Spell|Guardian Spirit (20%)}} on {{Link|Creature|Beets}}.
+
+| spellnotes =
+*Casts a Mass Hex.
+
+| casts =
+Dark Nova;
+Brace;
+Punishment;
+Sleet Storm (6 Rounds);
+Conviction;
+Tower Shield (-55%);
+Legion Shield (-35%);
+Frozen Armor (185);
+Fire Shield (-85%);
+Bladestorm;
+Hex;
+Natural Attack (Ice 105-210-315, 75%);
+Handsome Fomori;
+Climaclysm;
+Blizzard (290-330, 80%);
+Winter Moon;
+Dark Weaver;
+Frost Giant (530);
+Punklops (Ice);
+Snow No Mercy;
+Loremaster;
+Sand Wurm;
+Sandstorm (295-335);
+Shadow of Fate;
+Nested Fury;
+Power Nova (530);
+Ra (635-715);
+Chimera (375);
+
+| quests =
+Fight For Your Right;
+Fight For Your Right (Instance);
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge and has not unlocked the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge, the following drops will be available:
+*13 Spellements will drop each time from '''any''' School for their respective rank 10, 11, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+2 - 248;
+
+| hats =
+
+| robes =
+
+| boots =
+Cabal Schism Stompers;
+
+| athames =
+
+| amulets =
+
+| rings =
+Cabalist Chaotic Ring;
+Cabalist Ring of Finality;
+Cabalist Ring of Vengeance;
+
+| wands =
+
+| decks =
+Cabalist Chaotic Deck;
+Cabalist Cleansing Deck;
+Cabalist Deck of Finality;
+Cabalist Deck of Vengeance*F2;
+Nostalgic Cabal Deck;
+
+| items =
+Brass Monkey Spider;
+Dwarven Book Case;
+Dwarven Dinner Table;
+Dwarven File*F2*WMV;
+Dwarven Side Table;
+Empyrea Brain Theme 2;
+Empyrea Dance Hall Theme;
+Empyrea Leisure Dome Theme;
+Empyrea Sepidious Theme;
+Empyrea Sewer Theme;
+Empyrea Zanadu Combat Theme;
+Fire Dwarf Bed;
+Fire Dwarf Chair*F3*WMV;
+Pirate Party Barge Theme*F3;
+
+| cards =
+Ether Shield*F3;
+Frostbite*F2*WMV;
+Mutate Kraken;
+Mutate Phoenix;
+Mutate Snowman;
+Mutate Wyvern;
+Sirens;
+Storm Shield;
+
+| reagents =
+Antique Coins;
+Black Pearl;
+Blood Moss;
+Bronze Gear;
+Flying Squid Ink*F5*WMV;
+Nickel*F2;
+Scales;
+Spider Silk;
+Spring;
+Tin*F2*WMV;
+
+| spellements =
+Celestial Calendar*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Qismah's Curse*BR;
+Raging Bull*BR;
+Rusalka's Wrath*BR;
+Sabertooth*BR;
+Scion of Fire*BR;
+Scion of Ice*BR;
+Scion of Life*BR;
+Scorching Scimitars*BR;
+Sun Serpent*BR;
+
+| snacks =
+
+| jewels =
+Shiny Blocking Citrine +15;
+Shiny Blocking Hematite +16;
+Shiny Critical Amethyst +16;
+Shiny Defense Hematite +51;
+Shiny Defense Sapphire +52;
+Shiny Health Opal +108;
+Shiny Health Opal +112;
+Shiny Health Opal +114;
+Shiny Mana Opal +45;
+Sparkling Critical Amethyst +17;
+Sparkling Defense Citrine +54;
+Sparkling Defense Hematite +54;
+Sparkling Defense Jade +53;
+Sparkling Health Opal +117;
+
+| pins =
+
+| pets =
+Purple Globulin;
+
+| seeds =
+Angora Bunny Ears;
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts;
+Clockwork Flower;
+Cornbread Fruit Bush*F2*WMV;
+Couch Potatoes*CR;
+Dandelion;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Evil Snow Peas;
+Fortune Cookie Tree;
+Grapes of Wrath*CR*F2;
+Helephant Ears;
+Ivy League*CR;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Pink Huckleberries;
+Red Couch Potatoes;
+Snow Apples;
+Ultra Alligator Pear Tree;
+Ultra Fly Trap;
+Ultra Ninja Fig;
+Ultra Snow Apples;
+
+| mounts =
+
+| spells =
+
+}}

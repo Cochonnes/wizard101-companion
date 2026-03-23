@@ -1,0 +1,183 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,280
+| crecla = Pig
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Ronin Mutineer;
+
+| world = MooShu
+| location = Cave of Solitude
+| subloc1 = Usegi's Dojo
+| descrip =
+Two additional {{Link|Creature|Ronin Warrior}} Minions appear if more than two Wizards are present.
+
+| speech =
+:''"You dare to test your might on me? What a mistake..."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+Wielding a large and heavy blade, Usegi sometimes forgets his own strength.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Weakness;
+Black Mantle;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Sunbird;
+Meteor Strike;
+Raging Kraken (Fire);
+Colossus (Fire);
+Heck Hound;
+Leprechaun;
+Cyclops;
+Vampire;
+Natural Attack (Balance 85x, 90%);
+
+| quests =
+Pagoda Puzzle;
+
+| gold =
+63 - 111;
+
+| hats =
+Cap of Tribulations*F2*WMV;
+Cowl of Cooperation;
+Cowl of Tact*F2;
+Enlivened Cowl*F2*WMV;
+Hat of Niceties;
+Shroud of Chants;
+Shroud of Conceit;
+Shroud of Music;
+Shroud of the Opus;
+Usegi's Dazed Helm;
+
+| robes =
+Cloak of Deliberation;
+Concordant Robes*F2;
+Dashing Cloak*F3*WMV;
+Impulsive Vestment*F2*WMV;
+Industrial Uniform;
+Painful Vestment*F3*WMV;
+Quick-Witted Vestment;
+Robe of Song;
+Robe of the Lithe;
+Usegi's Dazed Garments*F5;
+
+| boots =
+Footwraps of Predicament;
+Haskarr's Barbarish Boots;
+Sandals of Nuisance;
+Shoes of Deliberation*F2*WMV;
+Shoes of Dreaming*F3;
+Slippers of the Lotus;
+Vigilant Sandals;
+
+| athames =
+Dagger of Detachment;
+Knife of Preoccupation*F2;
+Usegi's Speculative Dirk;
+
+| amulets =
+
+| rings =
+Band of Sandcastles*F2;
+Band of the Primitives;
+Ring of Regard;
+Usegi Ring of Domain*F2;
+Usegi's Band;
+
+| wands =
+
+| decks =
+Usegi's Careful Deck*F2;
+
+| items =
+Hexagonal Stone Plaque;
+Tatami Mat Arrangement;
+Torn Red Banner*F2*WMV;
+
+| cards =
+Darkwind;
+Dragonflies;
+Satyr;
+
+| reagents =
+Brass*F2;
+Bronze Gear*F3*WMV;
+Iron;
+Leather Straps*F4;
+Nickel;
+Tin;
+
+| spellements =
+
+| snacks =
+Golden Peanut*F2;
+Large Fish;
+Large Watermelon;
+Square Root*F2;
+
+| jewels =
+Blemished Defense Amethyst +21;
+Blemished Defense Jade +21*F2;
+Blemished Defense Onyx +21*F2;
+Blemished Defense Ruby +21;
+Flawed Damage Opal +5;
+Flawed Defense Peridot +18;
+Flawed Mending Opal +2%;
+Healer Opal;
+Intrepid Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

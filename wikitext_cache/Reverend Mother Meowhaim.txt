@@ -1,0 +1,267 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,080
+| crecla = Qhat
+| school = Life
+| cheats = Yes
+| shadowslots = 1
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+3%;
+
+| outboost =
+80%;
+
+| incboost =
+15% Death;
+
+| incresist =
+30% Life;
+
+| outhealing =
+100%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Binny Jezzerit;
+
+| world = Mirage
+| location = Caterwaul Canyons
+| subloc1 = Monastery
+| descrip =
+
+| speech =
+:''"Ah. It seems Sister Iroolan failed in her duties. She will have to atone for that. There will be no atonement for your transgressions, however. I was worried you might catch on to the enchantment placed on Pol. The Binny Jezzerit are destined to govern House Tabbi, and this is our way. Unfortunately for you, it must remain a secret for now, which means you know too much. Come, Wizard, I will try to make this quick and painless."''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tardiness is a transgression!"'' - If a Wizard joins the duel after it has already begun, Reverend Mother Meowhaim will place a protected '''{{Link|Spell|Spirit Armor (500)}}''' on herself.
+*{{Icon|Manipulation}} ''"Ancestral powers - activate!"'' - At the beginning of every third Round, she will cheat-cast '''{{Link|Spell|Beguile}}''' on a random Wizard.
+*{{Icon|Feint}} ''"I foresaw such tactics" '' - If a Wizard places a {{Link|Spell|Feint}} on her, she will cast '''{{Link|Spell|Swap Ward}}''' to swap the traps.
+**{{Link|Spell|Indemnity}} can be used to prevent this cheat.
+**{{Link|ItemCard|Mass Feint}} will not trigger this cheat.
+**Casting a {{Link|Spell|Feint}} during the Round that she uses {{Link|Spell|Beguile}} will not trigger this cheat.
+
+| spellnotes =
+*Casts a protected Spirit Armor (500).
+
+| casts =
+Magnify;
+Renew;
+Legend Shield (-75%);
+Spirit Armor (500);
+Guiding Light;
+Satyr (990);
+Dryad (225);
+Lifeblade (+40%);
+Life Scarab;
+Giant Spider;
+Natural Attack (Life 105-210-315, 85%);
+Life Banshee (275);
+Harmattan Maxios (350);
+Spirited Minotaur (Life);
+Wings of Fate;
+Bronze Helephant;
+Enraged Forest Lord;
+Gnomes! (860-960);
+
+| quests =
+Irreverence;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' Badge and has not unlocked the '''[[Basic:Empyrea Badges|Hero of Light and Shadow]]''' Badge, the following drops will be available:
+*9 Spellements will drop each time from '''any''' School for their respective rank 9, 10, King Artorius, Polaris, and Mirage Spells.
+
+| gold =
+294 - 416;
+
+| hats =
+Aridian Helm of Dunestorms;
+Rubal Kufiya of Loyalty;
+
+| robes =
+Aridian Armor of Dunestorms;
+Wayfarer's Scirocco Khalat;
+
+| boots =
+Wayfarer's Galesh of Repine;
+
+| athames =
+Rubal Janbiya of Acerbity;
+Rubal Janbiya of Bitterness;
+Rubal Janbiya of Illusions;
+
+| amulets =
+Rubal Necklace of Illusions;
+Rubal Necklace of Renewal;
+
+| rings =
+Rubal Seal of Acerbity;
+Rubal Seal of Illusions*F2*WMV;
+Rubal Seal of Loyalty;
+Viper Ring of Reflection;
+
+| wands =
+Conscript Tabar of Fatality;
+
+| decks =
+Rubal Deck of Illusions;
+
+| items =
+Mirage Canyon Theme 1;
+Mirage Chronoverge Com Theme;
+Mirage Chronoverge Theme;
+Mirage City Combat Theme;
+Mirage City Theme 2;
+Mirage Den of Thieves Theme;
+Mirage Desert Combat Theme;
+
+| cards =
+Combustion*F2;
+Death Helephant (345-405);
+Fiery Giant;
+Mutate Banshee (Sun);
+Mutate Bird (Ice);
+Mutate Colossus (Storm);
+Mutate Monster (Fire);
+Mutate Monster (Ice);
+Mutate Serpent (Fire);
+Mutate Serpent (Storm);
+Mutate Snowman (Fire);
+Namaste;
+War Helephant;
+
+| reagents =
+Ancient Scroll;
+Antique Coins*F2;
+Black Pearl*F2*WMV;
+Blood Moss*F3*WMV;
+Bronze Gear*F4*WMV;
+Cobalt*F3*WMV;
+Ectoplasm;
+Nickel;
+Scales*F2*WMV;
+Spider Silk*F4*WMV;
+Spring;
+Tin*F3*WMV;
+Turmeric*F2*WMV;
+
+| spellements =
+Climaclysm*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Lamassu*BR;
+Qismah's Curse*BR;
+Rusalka's Wrath*BR;
+Snake Charmer*BR;
+
+| snacks =
+Aztecan Hot Chocolate;
+Beast Wellington*F2;
+Beetle Cream Soda*F2;
+Chalupacabra;
+Chili Cheese Fries*F2*WMV;
+Chili Peppers*F2*WMV;
+Decimatoes;
+Eye Candy;
+Green Tomato;
+Hot Cross Buns*F2*WMV;
+Huge Ice Cream;
+Large Ice Cream;
+Mustachios*F2;
+Sprinkle Cupcake;
+Submarine Sandwich*F3*WMV;
+Super Cold Popsicle;
+Veggie Juice;
+
+| jewels =
+Lustrous Critical Citrine +13;
+Lustrous Critical Sapphire +13;
+Polished Blocking Amethyst +11;
+Polished Blocking Onyx +11;
+Polished Blocking Ruby +11;
+Polished Damage Amethyst +21;
+Polished Damage Citrine +21;
+Polished Defense Citrine +41*F2*WMV;
+Polished Defense Jade +41;
+Polished Defense Ruby +41;
+Polished Defense Sapphire +41;
+Polished Health Opal +87;
+Polished Health Opal +91;
+Polished Health Opal +95;
+Polished Mana Opal +37;
+Polished Mana Opal +39;
+Shiny Blocking Amethyst +16;
+Shiny Blocking Citrine +16;
+Shiny Blocking Jade +16;
+Shiny Damage Jade +26;
+Shiny Damage Peridot +26;
+Shiny Health Opal +114;
+Shiny Mana Opal +45;
+Shiny Mana Opal +47;
+
+| pins =
+
+| pets =
+MaCaw*CR*F3;
+
+| seeds =
+Alligator Pear Tree*F3*WMV;
+Angora Bunny Ears*F3*WMV;
+Baby Carrots;
+Bell Pepper*F2;
+Blue Huckleberries*F2*WMV;
+Boiled Peanuts;
+Boom Shroom;
+Bread Fruit Bush*F2*WMV;
+Cornbread Fruit Bush*F2;
+Couch Potatoes*CR*F2*WMV;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig*F2*WMV;
+Evil Magma Peas*CR*F2*WMV;
+Evil Snow Peas;
+Fickle Pickle;
+Fiery Boom Shroom;
+Fish on a Vine*F4*WMV;
+Frozen Fly Trap;
+Golden Couch Potatoes*F2;
+Grapes of Wrath*CR*F4*WMV;
+Green Snow Apples*F2;
+Honey Bee Plant;
+Ivy League*CR;
+Maelstrom Snap Dragon;
+Melting Cheese Tree;
+Ninja Fig*CR;
+Pink Huckleberries*F2;
+Purple Grapes of Wrath*F2*WMV;
+Purple Snow Apples;
+Red Couch Potatoes;
+Red Huckleberries*F3*WMV;
+Snap Dragon;
+Snow Apples;
+Sour Fickle Pickle;
+Sunion*CR;
+Tiger Lily (Seed);
+Venus Fly Trap;
+White Desparagus;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

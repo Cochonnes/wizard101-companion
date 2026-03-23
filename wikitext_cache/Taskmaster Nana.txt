@@ -1,0 +1,211 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 11,550
+| crecla = Hamster
+| school = Balance
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+25%;
+
+| outboost =
+121%;
+
+| incboost =
+5% Myth, Life, Death;
+
+| incresist =
+70% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Nana (Shadow);
+
+| world = Karamelle
+| location = Karamelle City
+| subloc1 = Gingerbread Room Academy
+| descrip =
+As Taskmaster Nana, she educates the other Nanas on proper marketing behavior. Before she became a Nana, her name was Gladys.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Sugar Rush;
+Impede;
+Spirit Shield;
+Balanceblade (+35%);
+Hex;
+Balance of Power;
+Loremaster;
+Savage Paw;
+Sand Wurm;
+Sandstorm;
+Natural Attack (Balance 105x, 4 Pip max);
+Gaze of Fate;
+Boxenspiel;
+Nested Fury;
+
+| quests =
+Familiar Ground;
+Ninja-Bread House;
+
+| gold =
+385 - 785;
+
+| hats =
+Director Survival Hood;
+Executive Biohazard Hood;
+Executive Cryo Hood;
+Producer's Hazmat Hood;
+Producer's Survival Hood;
+Producer's Thermal Hood;
+
+| robes =
+Director Cryo Suit;
+Specialist Insulated Suit;
+Specialist Protective Suit;
+
+| boots =
+Executive Biohazard Boots;
+
+| athames =
+Contractor Insulated Knife;
+Director Biohazard Knife;
+Director Insulated Knife;
+Director Pressure Knife;
+Executive Hazmat Knife;
+Executive Insulated Knife;
+Producer's Biohazard Knife;
+Producer's Pressure Knife;
+Producer's Thermal Knife*F2;
+
+| amulets =
+Specialist Insulated Rope;
+
+| rings =
+
+| wands =
+Contractor Cryo Meter;
+Director Thermal Meter;
+Producer's Cryo Meter;
+
+| decks =
+Consultant Biohazard Box;
+
+| items =
+Karamelle Barrel;
+Karamelle Rural Theme;
+Karamelle Worker Combat Theme;
+Trash Pile (Outdoor);
+
+| cards =
+Combustion;
+Dream Shield;
+Frostbite;
+Mass Storm Prism;
+Rusalka's Wrath;
+Sirens;
+Storm Shield;
+Winged Sorrow;
+
+| reagents =
+Aether;
+Agave Nectar;
+Amber Dust;
+Aquamarine*F4*WMV;
+Braided Vine;
+Brass*F2;
+Bronze Gear;
+Cobalt;
+Draconium;
+Fire Blossom;
+Golden Pearl;
+Karamelle Chunk*F4*WMV;
+Mithril;
+Nickel;
+Orichalcum;
+Scales*F3;
+Spider Silk*F2;
+Sunstone*F2;
+Tin*F2;
+Toffee Bean;
+
+| spellements =
+Grrnadier*F3*WMV;
+Shatterhorn;
+Snack Attack;
+
+| snacks =
+Aztecan Hot Chocolate;
+Beast Wellington;
+Decimatoes;
+Discord Grape Jelly;
+Eye Candy;
+Glowing Taffy;
+Pizza;
+Rock and Roll Candy;
+Roly Poly Fishheads;
+Satyr Chow;
+Squash;
+Tasty Rainbow;
+Waterworks Wonton;
+Wheat Cracker;
+
+| jewels =
+Dazzling Accurate Jade +14%;
+Dazzling Critical Opal +10;
+Dazzling Defense Peridot +59;
+Dazzling Defense Sapphire +58;
+Dazzling Healing Opal +7%;
+Dazzling Health Opal +127;
+Dazzling Health Opal +130;
+Shiny Accurate Jade +12%;
+Shiny Blocking Citrine +15;
+Shiny Blocking Opal +8;
+Shiny Critical Peridot +16;
+Shiny Damage Citrine +25;
+Shiny Mana Opal +45;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots*F2*WMV;
+Bell Pepper*F2;
+Blue Huckleberries;
+Boiled Peanuts;
+Bread Fruit Bush;
+Cornbread Fruit Bush;
+Face Palm;
+Fickle Pickle;
+Fish on a Vine;
+Grapes of Wrath*CR*F2;
+Honey Bee Plant;
+Ivy League*CR;
+Maltese Tiger Lily;
+Pink Huckleberries;
+Queen Crape Myrtle;
+Snap Dragon;
+Sunion*CR;
+Trumpet Vine;
+Ultra Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

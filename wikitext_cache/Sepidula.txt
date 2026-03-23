@@ -1,0 +1,218 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 8,800
+| crecla = Squid
+| school = Storm
+| startpips = 5
+| powerpips = Yes
+| shadowslots = 2
+
+| outpierce =
+27%;
+
+| outboost =
+110%;
+
+| incboost =
+5% Myth;
+
+| incresist =
+70% Storm;
+
+| stunable = No
+| beguilable = No
+| minion = Squidling
+| minion2 = 
+| petbreed = Storm-ish Frog
+| world = Empyrea
+| location = Samsara Village
+| descrip =
+Sepidula wanders among the Squidlings in Samsara Village.
+
+| spellnotes =
+
+| casts =
+Galvanic Field;
+Myth Shield;
+Stormblade;
+Elemental Blade;
+Supercharge;
+Darkwind;
+Storm Beetle (125);
+Storm Serpent (230);
+Natural Attack (Storm 150-290-430);
+Iron Sultan;
+Storm Cat;
+Tempest;
+
+| quests =
+
+| gold =
+77 - 99;
+
+| hats =
+Bodacious Kalamar Lid;
+Chill Kalamar Lid*F3*WMV;
+Choice Kalamar Lid;
+Gnarly Kalamar Lid*F5*WMV;
+Heavy Kalamar Lid*F2*WMV;
+Rad Kalamar Lid*F2*WMV;
+Righteous Kalamar Lid;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Aero Dwarf Blue Vase;
+Aero Dwarf Potted Plant*F3*WMV;
+Empyrea Aero Plains Combat;
+Empyrea Chaos Jungle Theme;
+Empyrea Husk Storm Combat*F2*WMV;
+Empyrea Husk Theme;
+Kalamar Chair;
+Nimbari Chair;
+Ornate Nimbari Vase;
+Tall Kalamar Vase*F2*WMV;
+
+| cards =
+Chinook Genie;
+Death Prism;
+Elemental Blade;
+Elemental Defuse;
+Fable Lord;
+Humongofrog*F2*WMV;
+Ice Prism*F2*WMV;
+Icespear*F4*WMV;
+Kraken;
+Lord of Atonement;
+Mass Death Prism;
+Mass Ice Prism;
+Mutate Phoenix (Ice);
+Spirit Spear;
+Stormspear;
+Tundra Lord;
+
+| reagents =
+Aether*F3*WMV;
+Agave Leaves*F4*WMV;
+Amber;
+Ancient Scroll;
+Antique Coins;
+Aquamarine*F4*WMV;
+Astral Shard*F2*WMV;
+Black Pearl;
+Blood Moss;
+Braided Vine*F2*WMV;
+Bronze Gear*F2*WMV;
+Cobalt*F2*WMV;
+Ectoplasm*F2*WMV;
+Fire Blossom*F2*WMV;
+Fish Fin*F3*WMV;
+Flying Squid Ink*F6*WMV;
+Golden Pearl*F2*WMV;
+Mithril*F4*WMV;
+Nickel*F5*WMV;
+Orichalcum;
+Scales*F10*WMV;
+Silver*F4*WMV;
+Spider Silk*F4*WMV;
+Spring*F2*WMV;
+Stardust;
+Steel*F6*WMV;
+Sunstone*F5*WMV;
+Tin*F5*WMV;
+Tungsten*F5*WMV;
+Turquoise;
+Vine*F2*WMV;
+
+| snacks =
+Athame Pop*F2*WMV;
+Aztecan Hot Chocolate;
+Beast Wellington;
+Boiled Spider Legs;
+Bread Fruit Fruit;
+Cow Pie;
+Discord Grape Jelly*F3*WMV;
+Dr. Jalapeno;
+Eye Candy*F4*WMV;
+Fetid Legumes;
+Gator Tots;
+Glowing Taffy*F2*WMV;
+Gummy Humongofrog;
+Hot Cross Buns*F2;
+Jolly Rancher;
+Lemon Daisy*F2*WMV;
+Meat Soup*F2*WMV;
+Minotarts*F2;
+Pineapple Spears;
+Pizza*F4*WMV;
+Rock and Roll Candy*F5*WMV;
+Salmon Joy;
+Satyr Chow*F7*WMV;
+Sprinkle Cupcake*F4*WMV;
+Waterworks Wonton;
+
+| jewels =
+Lustrous PIP Opal +10%;
+Shiny Accurate Amethyst +12%;
+Shiny Blocking Citrine +15;
+Shiny Blocking Ruby +15;
+Shiny Critical Amethyst +15;
+Shiny Critical Onyx +15;
+Shiny Damage Peridot +25;
+Shiny Defense Citrine +50;
+Shiny Defense Peridot +50;
+Shiny Defense Ruby +50;
+Shiny Defense Sapphire +50;
+Shiny Health Opal +106;
+Shiny Health Opal +108;
+Sparkling Critical Hematite +18;
+Sparkling Damage Amethyst +28;
+Sparkling Defense Citrine +55;
+Sparkling Defense Ruby +56;
+Sparkling Health Opal +122;
+Sparkling Health Opal +123;
+Sparkling Health Opal +124;
+
+| pets =
+Storm-ish Frog*F2*WMV;
+
+| seeds =
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Evil Snow Peas;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Golden Couch Potatoes;
+Green Snow Apples;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Ninja Fig*CR;
+Orange Bell Pepper*CR;
+Purple Bell Pepper;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Rye Bread Fruit Bush;
+Snow Apples;
+Sour Fickle Pickle;
+Sugar Khrystal*CR*F2*WMV;
+Trumpet Vine;
+Ultra Boom Shroom;
+
+| mounts =
+
+| spells =
+
+}}

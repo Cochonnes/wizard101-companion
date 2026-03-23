@@ -1,0 +1,239 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 10,360
+| crecla = Sand Wurm Larva
+| school = Balance
+| school2 = Death
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+5%;
+
+| outboost =
+75%;
+
+| incboost =
+5% Myth, Life;
+
+| incresist =
+25% Death;
+30% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minion = 
+| world = Mirage
+| location = Caterwaul Canyons
+| subloc1 = Cavern of the Wurm
+| descrip =
+Failure to solve the [[Quest:Cavern_of_the_Wurm#Quest_Guide|puzzle]] will result in a duel against three {{Link|Creature|Sand Wurm Larva}}.<br/>*Uses Pip Conversion.
+
+| cheatnotes =
+*{{Icon|Late}} ''"*Melanj Mana Burn*"'' - If a Wizard joins the duel after it has already begun, Melanj will cast Mana Burn at the Wizard.
+*{{Icon|Global}} ''"*Melanj rules only*"'' - At the beginning of Round 1, Melanj will cast Doom and Gloom (-75%).
+**If a Wizard tries to replace the Doom and Gloom with another type of Global Spell, Melanj will recast Doom and Gloom.
+***This cheat can be bypassed by using {{Link|Spell|Strangle}}.
+**If Melanj replaces the Doom and Gloom with another type of Global Spell (e.g. {{Link|Spell|Gaze of Fate}}.), the Global Spell won't change.
+*{{Icon|Balance}}{{Icon|Damage}} ''"*Melanj spice strike*"'' - At the end of every fifth Round, Melanj will cast Sand Wurm at a random Wizard.
+*{{Icon|Blade}} ''"*Wurm domination*"'' - If a Wizard uses a Blade Spell, then Melanj will interrupt-cast her Natural Attack, {{Link|Spell|Steal Charm (Shadow)}}, and a Weakness at the Caster.
+** A Global Spell, such as {{Link|Spell|Darkwind}}, will trigger this cheat.
+:*If a multi-target Blade Spell is cast (e.g. {{Link|Spell|Bladestorm}}), Melanj will only target the Wizard who cast the Spell.
+:*{{Link|Spell|Shadow Shrike}}'s {{Link|Spell|Dragonspear}} will not trigger this cheat.
+:* Aegis will prevent the blade from being removed but the weakness will still be placed.
+:* Blades given from spells will not trigger this cheat.
+:* Pet casts will trigger this cheat.
+*{{Icon|Feint}} ''"*Wurm plague*"'' - If a Wizard uses a {{Link|Spell|Feint}}, there is a chance that Melanj will cast Virulent Plague.
+:* {{Link|ItemCard|Life Feint}} will trigger this cheat.
+:* {{Link|ItemCard|Mass Feint}} will not trigger this cheat.
+| spellnotes =
+*Casts a multi-target version of Poison (45+450).
+
+| casts =
+Berserk;
+Brace;
+Weakness (-30%);
+Virulent Plague;
+Balanceblade (+30%);
+Deathblade;
+Hex (+35%);
+Curse (+25%);
+Mana Burn (-4 Pips);
+Doom and Gloom (-75%);
+Natural Attack (Balance 110-220-330);
+Locust Swarm (285-345);
+Sand Wurm;
+Sandstorm (295-335);
+Gaze of Fate;
+Power Nova;
+Chimera;
+Death Scarab (Death);
+Poison (45+450);
+Winged Sorrow;
+
+| quests =
+Cavern of the Wurm;
+
+| gold =
+173 - 214;
+
+| hats =
+Aridian Helm of Numbing;
+Aridian Helm of Reflection;
+Helm of the Aridian Sun;
+Rubal Kufiya of Renewal;
+Wayfarer's Fez of Intent;
+Wayfarer's Scirocco Fez;
+
+| robes =
+Aridian Armor of Reflection;
+Aridian Armor of Strife;
+Armor of the Aridian Sun;
+Rubal Khalat of Acerbity;
+Wayfarer's Cold Snap Khalat;
+
+| boots =
+Rubal Babouches of Illusions;
+Rubal Thunder Babouches;
+Wayfarer's Galesh of Poise;
+
+| athames =
+Rubal Thunder Janbiya;
+Viper Edge of Thriving;
+
+| amulets =
+Viper Talisman of Thriving;
+
+| rings =
+Rubal Seal of Acerbity;
+Rubal Seal of Loyalty;
+
+| wands =
+Conscript Tabar of Identity;
+Restrictor Wand of Wisdom;
+
+| decks =
+Viper Cards of Strife;
+
+| items =
+Mirage Canyon Combat Theme*F2;
+Mirage Canyon Theme 1;
+Mirage Canyon Theme 2;
+Mirage Caravan Theme;
+Mirage Chronoverge Theme;
+Mirage City Theme 2;
+Mirage Magic Carpet Theme;
+Mirage Nomad Theme;
+Mirage Spider Speaks Theme;
+
+| cards =
+Astraphobia;
+Blue Phoenix;
+Combustion;
+Firespear;
+Frostfang;
+Icebird;
+Magma Colossus;
+Mutate Helephant (Ice);
+Mutate Phoenix (Storm);
+Mutate Serpent (Storm);
+Saga of Heroes;
+Yellow Troll;
+
+| reagents =
+Aquamarine;
+Fish Fin*F2*WMV;
+Golden Pearl;
+Mithril*F2*WMV;
+Scales*F3*WMV;
+Silver*F2*WMV;
+Stardust;
+Sunstone*F2*WMV;
+Tungsten;
+Turmeric*F4*WMV;
+Turquoise;
+
+| snacks =
+Beast Wellington*F4*WMV;
+Beetle Cream Soda;
+Chalupacabra*F2*WMV;
+Decimatoes;
+Eye Candy*F3*WMV;
+Fern Jelly;
+Hard Boiled Beetle Eggs;
+Hot Cross Buns*F2*WMV;
+Mustachios;
+Satyr Chow*F2*WMV;
+Ships 'n' Queso*F3*WMV;
+Veggie Juice*F2*WMV;
+
+| jewels =
+Chastisement Opal;
+Cycle of Life Opal;
+Epic Opal;
+Lustrous Accurate Onyx +11%;
+Lustrous Critical Peridot +13;
+Lustrous Damage Onyx +23;
+Lustrous Defense Amethyst +45;
+Lustrous Defense Jade +45;
+Magnify Opal;
+Reliquary Opal;
+Shiny Blocking Citrine +16;
+Shiny Blocking Jade +16;
+Shiny Blocking Ruby +16;
+Shiny Damage Peridot +26;
+Shiny Damage Ruby +26;
+Shiny Damage Sapphire +26;
+Shiny Defense Hematite +51;
+Shiny Defense Jade +52;
+Shiny Defense Ruby +51;
+Shiny PIP Hematite +2;
+
+| pets =
+MaCaw*CR*F2*WMV;
+
+| seeds =
+Angora Bunny Ears;
+Baby Carrots*F3*WMV;
+Bell Pepper;
+Boiled Peanuts*F2*WMV;
+Cornbread Fruit Bush*F2*WMV;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Fickle Pickle;
+Fish on a Vine;
+Golden Couch Potatoes;
+Goose Tree;
+Grapes of Wrath*CR*F3*WMV;
+Helephant Ears;
+Honey Bee Plant;
+Ivy League*CR*F3*WMV;
+King Parsley*CR;
+Maltese Tiger Lily;
+Orange Bell Pepper*CR;
+Orange Dandelion;
+Pink Huckleberries*F2;
+Pink Laugh-O-Dil;
+Purple Snow Apples;
+Red Couch Potatoes;
+Red Grapes of Wrath;
+Saw Palmetto;
+Silver Trumpet Vine;
+Tiger Lily (Seed);
+Venus Fly Trap;
+White Laugh-O-Dil;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

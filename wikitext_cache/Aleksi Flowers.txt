@@ -1,0 +1,197 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 6,335
+| crecla = Rhino
+| school = Balance
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+25% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Greyhorn Mercenary;
+
+| world = Zafaria
+| location = Stone Town
+| subloc1 = Aleksi's Tower
+| descrip =
+Aleksi Flowers is a Greyhorn who must have borrowed an idea from a Wizard he saw. Having obtained an {{Link|Pet|Ice Cat}}, Aleksi is intent upon training it to be the perfect battle Pet.  Expect to see him around the {{Link|Location|Pet Pavilion}} someday.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Vengeance;
+Conviction;
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Natural Attack (Balance 85-180-275);
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Ra;
+Judgement;
+
+| quests =
+Cool Cat;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Celestia Badges|Astrologist]]''' {{Icon|Astrologist}} Badge and has not unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge, the following drops will be available:
+*6 Spellements will drop each time for their respective rank 4-8 Spells.
+
+| gold =
+70 - 98;
+
+| hats =
+Cold Chieftain's Mask;
+Fire Valley Headdress;
+Hood of the Hepheloomp;
+Hot-Tempered Chieftain's Mask;
+Wise Hunter's Helmet;
+
+| robes =
+Baxby's Noble Outfit;
+Cold River Cloak;
+Shaman's Mythic Armor;
+Shaman's Storm Sky Cloak;
+Shaman's Winter Protection;
+
+| boots =
+Big Five Trackers;
+Hot and Cold Rangers;
+
+| athames =
+
+| amulets =
+
+| rings =
+Amahle's Striped Band;
+Kallah's Dread Stone;
+Tanei's Ghost Ring;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Availing Hands*F2;
+Elemental Defuse*F2*WMV;
+Infallible;
+Polymorph Colossus;
+Polymorph Elemental (Fire);
+Polymorph Elemental (Storm)*F2*WMV;
+Precision;
+Sniper;
+Spirit Defuse*F2;
+Stun Block;
+
+| reagents =
+Bone*F5;
+Bronze Gear;
+Cobalt;
+Tin*F2;
+
+| spellements =
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops Minion*BR;
+Earth Walker*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*BR;
+Ice Wyvern*BR;
+Immolate*BR;
+Kraken*BR;
+Leviathan*BR;
+Medusa*BR;
+Minotaur*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Ra*BR;
+Rebirth*BR;
+Scarecrow*BR;
+Seraph*BR;
+Skeletal Dragon*BR;
+Skeletal Pirate*BR;
+Snow Angel*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Stormzilla*BR;
+Triton*BR;
+Vampire*BR;
+Wraith*BR;
+
+| snacks =
+Cauliflowers*F2*WMV;
+Delicious Cookie*F2*WMV;
+Flaming Soup;
+Flapjacks;
+Glowing Star Fruit;
+Goat Cheese*F2;
+Golden Apple*F2*WMV;
+Golden Grapes;
+Gummy Humongofrog;
+Jelly Baby;
+King Banana*F2;
+Spicy Drumstick*F2;
+Strawberry Cupcake;
+Submarine Sandwich;
+
+| jewels =
+Dumbfound Opal;
+Fire Dragon Ruby;
+Opaque Defense Peridot +33;
+Plain Accurate Amethyst +7%;
+Plain Accurate Onyx +7%;
+Restorative Opal;
+Storm Lord Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Fickle Pickle;
+Helephant Ears;
+Orange Dandelion;
+Venus Fly Trap;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

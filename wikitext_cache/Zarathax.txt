@@ -1,0 +1,315 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 2,800
+| crecla = Draconian
+| school = Balance
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions = 
+Fallen Merc;
+ 
+| world = Dragonspyre
+| location = The Tower Archives
+| subloc1 = Zarathax's Tower
+| descrip =
+This self-serving Draconian is a former member of the Dragon Titan's Army.  After pretending to help Wizards in finding their way to [[NPC:Malistaire Drake|Malistaire]], Zarathax betrays them for a chance at taking the throne of Dragonspyre for himself.
+*Two additional Fallen Mercs will appear if more than two Wizards are present.
+
+| speech =
+:''"Ssstupid Wizard! Ssshould have lissstened to your bessst judgement, after all! I'll remember you when I sssit on the throne of Dragonssspyre!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+Not a big fan of Malistaire. Doesn't like the way he just keeps coming back... you know, to Dragonspyre.
+
+| extract class =
+Draconians;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip.
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Weakness;
+Balanceblade;
+Hex;
+Scarab;
+Scorpion;
+Locust Swarm;
+Sandstorm;
+Judgement;
+Evil Snowman;
+Vampire;
+
+| quests =
+Portal Combat;
+
+| dropnotes =
+When a Wizard has unlocked the '''Oni Slayer''' {{Icon|Oni Slayer}} Badge and has not unlocked the '''Astrologist''' {{Icon|Astrologist}} Badge, the following drops will be available:
+*14 Spellements will drop each time from '''any''' School for their respective rank 2-6 Spells.
+
+| gold =
+89 - 110;
+
+| hats =
+Cap of Ancient Winter*F4;
+Cap of the Archivist*F2;
+Cowl of the Necromancer*F2;
+Cowl of the Zephyr*F9;
+Cyclone Coif*F2;
+Forest Lord's Cowl*F3;
+Frostflower Cap;
+Hat of the Ever Watchful;
+Headdress of the Grove;
+Headdress of the Phoenix;
+Headgear of the Absolute;
+Hood of Ashes;
+Hood of the Tempest*F5;
+Icefire Hood*F2;
+Librarian's Mantle;
+Mantle of Growth;
+Mantle of Imagination*F4;
+Veil of the Guardian;
+Verdant Cap*F3;
+Zarathax's Headgear of Hubris*F3;
+
+| robes =
+Cloak of Mortality*F7;
+Cyclone Cloak*F7;
+Drape of the Lost Archive*F11*WMV;
+Gardener's Smock;
+Robe of the Conflagration;
+Robes of the Ice Queen*F2;
+Sorcerer's Robe*F2;
+Tunic of Arden's Vale*F3;
+Vestment of Fable*F3;
+Vestment of the Howling Wind;
+Vestment of the Phoenix*F16*WMV;
+Wyrmkin Vestment*F12;
+Zarathax's Turncoat;
+
+| boots =
+Boots of the Hurricane;
+Fireflower Footgear*F3*WMV;
+Footgear of Plenty*F2;
+Footgear of the Forgotten;
+Footwraps of the Whirlwind;
+Mocassins of the Embers;
+Mocassins of the Healer;
+Mocassins of the Polar Ice;
+Mythmaker Boots;
+Sandals of Sleet;
+Sandals of the Remortal;
+Sandals of the Shaman;
+Slippers of the Hallowed Halls;
+Slippers of the Quiet;
+Sunwalkers;
+Talespinner's Footgear;
+Throne-Treading Sandals*F2;
+Zarathax's Subtle Slippers*F3*WMV;
+
+| athames =
+Dirk of the Daring;
+Indomitable Knife;
+
+| amulets =
+
+| rings =
+Brimstone Band*F3*WMV;
+Dragontooth Ring;
+Gleaming Seal*F3*WMV;
+Glimmering Band;
+Lavastone Ring;
+Ring of Legend*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Crimson Dragonspyre Banner*CR*F3*WMV;
+Dragonspyre Ruins*F2;
+Inferno Marker*F2*WMV;
+
+| cards =
+Dragonflies*F2;
+Keeper of the Flame*F3;
+
+| reagents =
+Bone*F2*WMV;
+Bronze Gear*F7;
+Cobalt;
+Copper;
+Lead;
+Nickel*F3;
+
+| spellements =
+Banshee*BR*F2;
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops*BR*F3;
+Cyclops Minion*BR;
+Earth Walker*BR*F2;
+Evil Snowman*BR;
+Fire Elf*BR;
+Gearhead Destroyer*BR;
+Ghoul*BR;
+Helephant*BR*F3;
+Hydra*BR*F4;
+Ice Wyvern*BR;
+Immolate*BR*F2;
+Kraken*BR*F2;
+Leprechaun*BR;
+Lightning Bats*BR*F2;
+Locust Swarm*BR*F4;
+Minotaur*BR*F2;
+Nature's Wrath*BR*F2;
+Phoenix*BR;
+Scorpion*BR*F5;
+Seraph*BR*F2;
+Skeletal Pirate*BR*F2;
+Snow Serpent*BR;
+Spectral Blast*BR*F3;
+Stone Colossus*BR*F2;
+Storm Shark*BR*F3;
+Stormzilla*BR;
+Sunbird*BR*F2;
+Triton*BR*F2;
+Troll*BR*F3;
+Vampire*BR*F4;
+Wraith*BR;
+
+| snacks =
+Flaming Soup*F2;
+Goat Cheese*F2;
+Gummy Humongofrog*F3*WMV;
+King Banana;
+
+| jewels =
+Adroit Opal;
+Attentive Opal;
+Balance-Giver Citrine;
+Balance-It Citrine;
+Balefrost Sapphire;
+Bananas! Opal;
+Big Energy Opal;
+Blemished Defense Amethyst +22;
+Blemished Defense Citrine +22;
+Blemished Defense Jade +22;
+Blemished Defense Onyx +22;
+Blemished Defense Peridot +22;
+Blemished Defense Ruby +22;
+Blemished Defense Sapphire +22;
+Blemished Health Opal +41;
+Blemished Health Opal +42;
+Blemished Mana Opal +20;
+Blemished PIP Opal +4%;
+Canny Opal;
+Catch Opal;
+Centaur Jade;
+Cheeky Opal;
+Darkwind Amethyst;
+Death-Proof Onyx;
+Dependable Opal;
+Determined Opal;
+Donate Power Citrine;
+Doom and Gloom Onyx;
+Dull Blocking Opal +1;
+Dull Critical Amethyst +2;
+Dull Critical Citrine +2;
+Dull Critical Jade +2;
+Dull Critical Onyx +2;
+Dull Critical Peridot +2;
+Dull Critical Ruby +2;
+Dull Critical Sapphire +2;
+Dull Defense Amethyst +25;
+Dull Defense Citrine +25;
+Dull Defense Jade +25;
+Dull Defense Onyx +25;
+Dull Defense Peridot +25;
+Dull Defense Ruby +25;
+Dull Defense Sapphire +25;
+Dull Health Opal +49;
+Dull Health Opal +50;
+Dull Mana Opal +22;
+Effective Opal;
+Effervescent Opal;
+Exhausted Opal;
+Fire-Giver Ruby;
+Flawed Healing Opal +2%;
+Flawed Resilient Opal +2%;
+Forceful Opal;
+Hearty Opal;
+Huge Rally Opal;
+Ice-Giver Sapphire;
+Ice-Proof Sapphire;
+Mega-Upset Opal;
+Minotaur Peridot;
+Myth-Away Peridot;
+No Passing Opal;
+Phoenix Ruby;
+Quick-Witted Opal;
+Rugged Opal;
+Shush! Opal;
+Slick-N-Slide Opal;
+Stonewall Opal;
+Storm-Away Amethyst;
+Stupefy Opal;
+Sturdy Opal;
+Super-Sap Opal;
+Supercharge Opal;
+Ultra Boost Opal;
+Ultra Hurry Opal;
+Unbreakable Opal;
+Weakenizer Opal;
+Wise Opal;
+Wisp Bonus Opal;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F8;
+Fiery Boom Shroom*F6;
+Maelstrom Snap Dragon*F5;
+Pink Dandelion*CR*F10;
+White Laugh-O-Dil*F6;
+
+| mounts =
+
+| spells =
+
+}}

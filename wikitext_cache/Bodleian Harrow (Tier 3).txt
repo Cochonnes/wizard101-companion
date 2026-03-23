@@ -1,0 +1,187 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 8,900
+| crecla = Dog
+| shadowslots = 2
+| school = Balance
+| masteries =
+Storm;
+
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+16%;
+
+| outboost =
+102%;
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+33% Fire, Ice, Storm, Shadow;
+63% Balance;
+
+| outhealing =
+10%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Flames of Doom (Tier 3);
+History of Horrors (Tier 3);
+Malefic Mythology (Tier 3);
+Savage Stories (Tier 3);
+Terrors of the Deep (Tier 3);
+The Road to Ruin (Tier 3);
+The Woeful Wastes (Tier 3);
+
+| world = Housing Instance
+| location = Forbidden Library Gauntlet
+| subloc1 = Forbidden Library Gauntlet (Tier 3)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"Who are you? Ha! A stooge of the cowardly librarians who fret over forbidden lore. Those fools in their pathetic secret club waste their time cowering from greatness. Unlike the spineless Order of Archival Misfits, I, the greatest Bibliomancer to ever live, will coax the secrets from this so-called Unreadable Book. There is no text of any origin, written or yet undreamt of, that will not bend itself to my will. I will be the first to read the Unreadable Book!"''
+
+| cheatnotes =
+{{Icon|Balance}} '''Bodleian Harrow'''
+*{{Icon|Trap}} ''"I'm turning over a new page!"'' - If a Wizard casts a Trap, Bodleian Harrow will cast a Balance version of {{Link|Spell|Cleanse Ward}} to remove all Traps on him.
+*{{Icon|Round}} ''"I read from the restricted section."'' - At the beginning of every third Round, Bodleian Harrow will cast one of the following:
+**{{Link|Spell|Monk of Mourning (450-530)}}
+**{{Link|Spell|Monster Mash (1,170)}}
+**{{Link|Spell|Shield Wall}}
+**{{Link|Spell|Spirited Minotaur (Life)}}
+**{{Link|Spell|Wrath of Aquila}}
+**A 4-Pip version of Loremaster that deals 390-470 Balance Damage to and applies -20% Damage and -35% Accuracy Charms on target
+**A version of Efreet that deals 895 Fire Damage to and applies a -90% Damage Charm on target
+*{{Icon|Polymorph}} '''Polymorph:''' ''"At last I will read The- wait a minute!"'' - After Bodleian Harrow (Balance) is defeated, he will Polymorph himself into a Shadow version.
+
+{{Icon|Shadow}} '''{{Link|Polymorph|Bodleian Harrow (Tier 3)}}'''
+*{{Icon|Minion}} ''"Knowledge is power!"'' - On the first Round after being Polymorphed, Bodleian Harrow will cast a Shadow Spell that summons two random Minions:
+**{{Link|Creature|Flames of Doom (Tier 3)}}
+**{{Link|Creature|History of Horrors (Tier 3)}}
+**{{Link|Creature|Malefic Mythology (Tier 3)}}
+**{{Link|Creature|Savage Stories (Tier 3)}}
+**{{Link|Creature|Terrors of the Deep (Tier 3)}}
+**{{Link|Creature|The Road to Ruin (Tier 3)}}
+**{{Link|Creature|The Woeful Wastes (Tier 3)}}
+*{{Icon|Trap}} ''"Literacy dies in darkness."'' - If a Wizard casts a Trap, Bodleian Harrow will cast {{Link|Spell|Cleanse Ward (Shadow, -All)}}, and then cast an all enemies version of {{Link|Spell|Shadow Trap}}.
+*{{Icon|Steal}} ''"Reading is a great restorative!"'' - At the end of every fourth Round after summoning Minions, Bodleian Harrow will cast {{Link|Spell|Sacrifice}} on a random Minion, defeating it and healing himself for '''2,000''' Health.
+*{{Icon|Minion}} ''"Time for a book recall!"'' - When all of Bodleian Harrow's Minions are defeated, he will resummon more Minions at the beginning of the next Round.
+
+{{Icon|Minion}} '''Summon Cheats''' - Randomly, at the end of each Round, one of the summoned Minions will cheat:
+*{{Icon|Fire}}{{Icon|Death}} ''"You will serve the Master of Words!"'' - Flames of Doom casts {{Link|Spell|Mass Infection}}.
+*{{Icon|Death}}{{Icon|Balance}} ''"No weapon can defeat the written word!"'' - History of Horrors casts {{Link|Spell|Disarm}} on a random Wizard.
+*{{Icon|Myth}}{{Icon|Storm}} ''"Your knowledge is mine!"'' - Malefic Mythology casts {{Link|Spell|Steal Pip}} from a random Wizard.
+*{{Icon|Ice}}{{Icon|Life}} ''"Time for a chilling tale!"'' - Savage Stories casts {{Link|Spell|Blizzard}}.
+*{{Icon|Storm}}{{Icon|Ice}} ''"Behold the power of dense prose!"'' - Terrors of the Deep casts {{Link|Spell|Power Current}} on Bodleian Harrow or Confuses a random Wizard for 1 Round.
+*{{Icon|Life}}{{Icon|Myth}} ''"Your destruction is written on every page!"'' - The Road to Ruin casts {{Link|Spell|Leafstorm}}.
+*{{Icon|Balance}}{{Icon|Fire}} ''"In my story I'm the hero, you're the villain!"'' - The Woeful Wastes casts {{Link|Spell|Power Link (75+375)}} on a random Wizard.
+
+| spellnotes =
+*Casts Hex (1 Pip) on all enemies.
+
+| casts =
+Empowerment;
+Smoke Screen;
+Healing Current;
+Balanceblade;
+Hex (1 Pip);
+Balance of Power;
+Loremaster (Tier 2c);
+Spiritual Tribunal (Tier 3a);
+Sand Wurm;
+Mighty Judgement;
+Power Nova;
+Chimera;
+
+| quests =
+A Little Learning is a Dangerous Thing;
+
+| gold =
+70 - 310;
+
+| hats =
+Astute Hardback Helmet (Level 170+)*CR;
+Baleful Hardback Helmet (Level 170+)*CR;
+Chilling Hardback Helmet (Level 170+)*CR;
+Illuminated Hardback Helmet (Level 170+)*CR;
+
+| robes =
+Fraught Plot Armor (Level 170+)*CR;
+Vibrant Plot Armor (Level 170+)*CR;
+
+| boots =
+Vibrant Page Treaders (Level 170+)*CR;
+
+| athames =
+Chilling Archival Dirk (Level 170+)*CR;
+
+| amulets =
+
+| rings =
+
+| wands =
+Astute Archival Quill (Level 170+)*CR;
+
+| decks =
+
+| items =
+Books;
+Bookshelf;
+Carved Bookshelf*F2;
+Pen and Ink*F3*WMV;
+Regent's Library Shelf*F3;
+Stack of Paper;
+Stone Brazier;
+
+| cards =
+
+| reagents =
+Unreadable Ink @ 2 Unreadable Ink*F2;
+Unreadable Ink @ 3 Unreadable Ink;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Armor Breaker Opal;
+Armor Piercer Opal*F3*WMV;
+Balance-Dealer Citrine*F2;
+Blade Flurry Amethyst;
+Bullheaded Peridot;
+Get Sunbird Ruby*F2;
+Ice-Dealer Sapphire;
+Myth-Dealer Peridot;
+Spartan Jade;
+Storm-Dealer Amethyst;
+The Deer Knight Rises Onyx;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

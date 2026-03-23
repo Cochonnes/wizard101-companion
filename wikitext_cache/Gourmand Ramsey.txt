@@ -1,0 +1,243 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 13,135
+| crecla = Penguin
+| school = Fire
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+275 Any;
+
+| criticalblock =
+225 Any;
+
+| outpierce =
+18%;
+
+| outboost =
+124%;
+
+| incboost =
+10% Ice;
+
+| incresist =
+40% Fire, Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Apollo Bright One (Rank 21);
+
+| world = Novus
+| location = Puerto Nuovo
+| subloc1 = Angry Tent
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"AAAAAAAAAAAHHHHHHHHHHHH!!!!!!!!!!! Who are you? Are you my new line cook? You're late! And you're fired! And get out of my tent! That Waitress sent you? Bah to her complaints! Who even are you to come to my Angry Tent and complain about my temperament? I'LL SHOW YOU JUST HOW EVEN-TEMPERED I AM!"''
+
+| spellnotes =
+
+| cheatnotes =
+*{{Icon|Round}} On Round 1, Gourmand Ramsey starts the Round by casting a Shadow Spell, forcing all Wizards to pass.
+*{{Icon|Minion}} ''"Does this chicken look cooked to you?!?"'' - Uses a Shadow Spell to summon {{Link|Creature|Apollo Bright One (Rank 21)}}.
+**Apollo Bright One uses an Intercept 100% Damage Shadow Sentinel.
+*{{Icon|Spell}} ''"You've used so much thyme, The Professor arrived in the Telegraph Box to save us all!"'' - Casts a Shadow Spell that does ???
+*{{Icon|Charm}}{{Icon|Trap}}{{Icon|Global}} ''"There's enough garlic in here to defeat every Vampire in Darkmoor!"''- If a Wizard uses a positive Charm, Trap, or Global, Ramsey will casts a Shadow version of Monster Mash that removes 25% of the Wizard's max Health on the Wizard with the lowest health, and deals 1 Shadow Damage to self. 
+**(Because this Spell removes max Health, this will ignore any Wards or Traps on the targeted Wizard.)
+**For Charms, the Monster Mash will be cast on the receiver of the Charm.
+**Spells such as {{Link|Spell|Volcanic Golem}} will trigger this cheat.
+**The following Spells do not trigger this cheat.
+***AoE traps, such as {{Link|ItemCard|Mass Feint}} and {{Link|ItemCard|Mass Fire Trap}} 
+***{{Link|ItemCard|Power Play}}
+***{{Link|Spell|Frostfeather}}
+***{{Link|Spell|King Artorius}}
+***{{Link|Spell|Rebirth}}
+***{{Link|Spell|Attenuate}}
+***{{Link|Spell|Frenzy}}
+
+| casts =
+Flawless (6 Rounds);
+Smoke Screen;
+Firespear (+10%);
+Fireblade;
+Choke;
+Wyldfire;
+Fire Dragon;
+Efreet;
+Rain of Fire;
+
+| quests =
+Rough Waiters;
+
+| gold =
+5 - 23;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Artillery Officer Knife*F3;
+Cavalry Officer Knife*F2;
+Infantry Officer Knife*F2;
+Medic Officer Knife;
+Messenger Officer Knife;
+Regulation Artillery Knife*F2;
+Regulation Cavalry Knife*F2;
+Regulation Infantry Knife;
+Regulation Medic Knife*F2;
+Regulation Messenger Knife;
+Regulation Scout Knife;
+Regulation Trooper Knife;
+Scout Officer Knife;
+Trooper Officer Knife;
+
+| amulets =
+Artillery Officer Medallion;
+Cavalry Officer Medallion*F2;
+Infantry Officer Medallion;
+Medic Officer Medallion;
+Messenger Officer Medallion;
+Regulation Artillery Medallion;
+Regulation Cavalry Medallion;
+Regulation Infantry Medallion*F2;
+Regulation Medic Medallion*F2;
+Regulation Messenger Medallion*F2*WMV;
+Regulation Scout Medallion;
+Regulation Trooper Medallion*F3;
+Scout Officer Medallion;
+Trooper Officer Medallion;
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth*F2;
+Banshee (Tier 2b)*F2;
+Blood Bat (Tier 2b)*F2;
+Cyclops (Tier 2b)*F2;
+Dark Sprite (Tier 2b)*F2*WMV;
+Evil Snowman (Tier 2b);
+Feint;
+Fire Cat (Tier 2b)*F3*WMV;
+Fire Elf (Tier 2b);
+Frost Beetle (Tier 2b);
+Frostbite;
+Ghoul (Tier 2b);
+Imp (Tier 2b)*F2;
+Leprechaun (Tier 2b);
+Lightning Bats (Tier 2b);
+Locust Swarm (Tier 2b);
+Nature's Wrath (Tier 2b);
+Nested Fury;
+Scarab (Tier 2b)*F2;
+Snow Serpent (Tier 2b);
+Storm Shark (Tier 2b)*F2;
+Sunbird (Tier 2b);
+Thunder Snake (Tier 2b);
+Troll (Tier 2b);
+Wings of Fate;
+Witch's House Call;
+
+| reagents =
+Bone;
+Bronze Gear;
+Pixels*F2;
+Tin;
+
+| spellements =
+Barbarian's Saga;
+Blast Off!*F2;
+Dark & Stormy;
+Deathly Depths*F3*WMV;
+Glimpse of Infinity*F2;
+Gravestorm*F2;
+Grim Reader;
+Grrnadier*F2;
+Improbable Gaze*F2*WMV;
+Lord of the Jungle;
+Mockenspiel*F2;
+Old One's Endgame*F2;
+S'more Machine*F2;
+Scales of Destiny;
+Shatterhorn*F2;
+Snack Attack;
+Sound of Musicology;
+Starspawn*F2;
+Tatzlewurm Terror;
+Tree of Strife;
+
+| snacks =
+
+| jewels =
+Amazing Accurate Amethyst +15%;
+Amazing Accurate Citrine +15%;
+Amazing Accurate Onyx +15%;
+Amazing Accurate Peridot +15%;
+Amazing Archmastery Opal +14 (Tear);
+Amazing Health Opal +137*F2;
+Amazing Health Opal +139;
+Amazing Health Opal +141;
+Amazing Health Opal +142;
+Amazing Mana Opal +57;
+Amazing Mana Opal +59;
+Amazing PIP Hematite +3;
+Buck Gordon Ruby;
+Dazzling Accurate Jade +14%;
+Dazzling Accurate Peridot +14%;
+Dazzling Accurate Ruby +14%;
+Dazzling Health Opal +128;
+Dazzling Health Opal +130;
+Dazzling Health Opal +133*F2*WMV;
+Dazzling Mana Opal +54;
+Dazzling Mana Opal +56;
+Goat Monk Jade;
+Handsome Fomori Sapphire;
+Krampus Revenant Ruby;
+Lord of Night Onyx;
+Lustrous PIP Opal +10%;
+Ninja Pigs Peridot*F3;
+Savage Paw Citrine;
+Solomon Crane Onyx;
+
+| pins =
+Balance Blocking Pin (140, Myth);
+Balance Blocking Pin (140, Storm);
+Balance Blocking Pin (150, Storm);
+Balance Resist Pin (140, Life);
+Balance Resist Pin (140, Storm);
+Fire Blocking Pin (140, Storm);
+Ice Blocking Pin (150, Myth);
+Life Blocking Pin (140, Storm);
+Life Blocking Pin (150, Storm);
+Life Resist Pin (140, Storm);
+Storm Blocking Pin (150, Death);
+Storm Mending Pin (140);
+Storm Resist Pin (130, Death);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

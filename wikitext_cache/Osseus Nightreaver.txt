@@ -1,0 +1,139 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,955
+| crecla = Undead
+| school = Death
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Life;
+
+| incresist =
+35% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Crying Spirit;
+
+| world = Dragonspyre
+| location = The Necropolis
+| subloc1 = Nightreaver's Lair
+| descrip =
+Osseus Nightreaver possesses the last known set of Drake bones needed to make the {{Link|Spell|Skeletal Dragon}} spell for the level 58 Necromancer spell quest, ''Don't Be Scared''.  Osseus is located in the southwest corner of The Necropolis, in Nightreaver's Lair, which is a solo dungeon.  Wizards entering together will zone in to separate instances, alone.  Other Wizards will not be able to port into the dungeon.  This Boss is not repeatable.
+
+'''Retired Monstrology Description:'''
+:As avid collectors of dragon bones, they've found many uses for their favorite obsession, including drumming in an up and coming garage band.
+
+| speech =
+:''What brings you to my home? The bones of a Drake? I have indeed found many such bones, but I won't give them to just anyone. For all I know, you'll feed them to your dog, or boil them for soup. Prove to me you're a true Necromancer and I'll reward you with what you seek.''
+
+| cheatnotes =
+*{{Icon|Blade}} ''"A Charm! Let's even the playing field!"'' - Casting a Blade will cause him to interrupt-cast a {{Link|Spell|Hex (+35%)}} on the Wizard who cast it.
+**Global Spells will trigger this cheat, but Aura Spells will not.
+**Pet Spells will not trigger this cheat.
+*{{Icon|Trap}} ''"A Ward! Let's even the playing field!"'' - Casting a Trap (including Feint) or a Shield will cause him to interrupt-cast a '''Hex (+35%)''' on the Wizard who cast it.
+**The text for this cheat only appears after Osseus casts the Hex.
+
+| spellnotes =
+
+| casts =
+Deathblade;
+Curse;
+Vampire;
+Skeletal Pirate;
+Wraith;
+Monster Mash;
+Scarecrow;
+Natural Attack (Death 85x);
+
+| quests =
+Don't Be Scared;
+
+| gold =
+70 - 82;
+
+| hats =
+Bonfire Headdress;
+Forgotten Facade;
+
+| robes =
+Arbiter's Raiment;
+Arboreal Robes;
+Salgio's Tinder Cloak;
+
+| boots =
+Boots of Catastrophe;
+Boots of Celestian Totality;
+Legend Walkers;
+Rime Runners;
+Virtue Shoes;
+
+| athames =
+Dagger of Typhoons;
+Dirk of Delusion;
+Dragon's Eye Dagger;
+
+| amulets =
+
+| rings =
+Ring of the Forefathers;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Empower*F2*WMV;
+Gargantuan*F2;
+Unstoppable;
+
+| reagents =
+Brass;
+Ectoplasm*F2;
+Steel;
+
+| spellements =
+
+| snacks =
+Delicious Cookie;
+Flaming Soup;
+Goat Cheese;
+Gummy Humongofrog;
+King Banana;
+
+| jewels =
+Amplify Talent Opal;
+Greensleeves Jade;
+Mass Death Prism Onyx;
+Plain Defense Opal +16;
+Rage of Winter Sapphire;
+SnowBorn Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

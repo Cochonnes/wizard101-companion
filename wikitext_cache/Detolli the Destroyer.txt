@@ -1,0 +1,355 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,160
+| crecla = Polar Bear
+| school = Fire
+| cheats = Yes
+| shadowslots = 1
+| startpips = 4
+| powerpips = Yes
+| critical =
+130 Any;
+
+| criticalblock =
+85 Any;
+
+| outpierce =
+13%;
+
+| outboost =
+30%;
+
+| incboost =
+15% Ice;
+
+| incresist =
+50% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Scorcher;
+Scorcher;
+
+| summons =
+Scorcher (Summon);
+
+| petbreed = Detolli's Dragon
+| world = Polaris
+| location = Forlorn Tayg
+| subloc1 = Sunken Tower
+| descrip =
+
+| speech =
+:''"You persist? What is it that you want? My Scorched Earth Charm? Snowbeard put you up to this, didn't he? That old tree -- I knew he'd try to pull something. Very well. I'll just incinerate him... after I incinerate you first!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Polaris
+| tome description =
+Prevent forest fires? No, they create them!
+
+| extract class =
+Polar Bear;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tardiness will not be tolerated!"'' - If a Wizard joins after the duel has started, Detolli will cheat-cast '''{{Link|Spell|Fuel}}''' on the Wizard.
+*{{Icon|Blade}}{{Icon|Global}}{{Icon|Aura}} ''"Burn! Burn it all down!"'' - If a Wizard casts a Blade, Global, or an Aura Spell, then Detolli will cast one of the following on himself.
+**{{Link|Spell|Fireblade}}: '''+20%, +25%, +30%, +35%, +40% or +45%'''
+**{{Link|Spell|Firespear}}: '''+5%, +10% or +15%'''
+***Pet spells will trigger this cheat.
+***{{Link|Spell|Steal Charm}} will not trigger this cheat.
+*{{Icon|Minion}}''"We'll reduce this tower to cinders if we must!"''' - During Round 1 (and every 2 Rounds thereafter), Detolli will summon a {{Link|Creature|Scorcher (Summon)}}.
+*{{Icon|Minion}} '''Scorcher (Summon) Cheat Cycle:''' - Detolli will order the Minion to cast Spells on each Round as follows.
+**'''Round 1:''' ''"How about a bit of fire and brimstone?"'' - Scorcher (Summon) will cast '''{{Link|Spell|Brimstone Revenant}}'''.
+***(This cheat is bugged since Scorcher has no archmastery, so it will pass.)
+**'''Round 2:''' ''"You know nothing of fire!"'' - Scorcher (Summon) will cast '''{{Link|Spell|Mass Fire Prism (Random)}}''', which converts Fire damage into a random School of damage, including Shadow damage.
+**'''Round 3:''' ''"Burn out, my friend, and give me a boost!"'' - Scorcher (Summon) will interrupt with a version of '''{{Link|Spell|Take Power}}''' on Detolli, sacrificing itself to give Detolli the Destroyer two Power Pips.
+
+| spellnotes =
+*{{Link|Pet|Detolli's Dragon}} can cast {{Link|Spell|Meteor Strike (355-385)}} or {{Link|Spell|Fire Dragon (495+395)}}.
+
+| casts =
+Glacial Shield;
+Smoke Screen;
+Fire Trap;
+Backdraft;
+Detonate;
+Natural Attack (Detolli);
+Meteor Strike (355-385);
+Fire from Above;
+Fire Dragon (495+395);
+Heck Hound;
+
+| quests =
+Scorched Earth;
+The Sunken Tower;
+
+| gold =
+695 - 1,162;
+
+| hats =
+Bleaks Ushanka of Vigor;
+Blizzardy Tundra Ushanka;
+Hailstorm Tundra Ushanka;
+Snowstorm Bleaks Ushanka;
+Sweltery Tundra Ushanka;
+The Enchanter*CR;
+The Goat Horns*CR;
+The Kroktop*CR*F2;
+The Stalwart Guardian*CR;
+The Stardust*CR;
+The Warlock*CR;
+Tundra Ushanka of Loyalty;
+Tundra Ushanka of Mayhem*F2;
+Tundra Ushanka of Sagacity;
+
+| robes =
+Bleaks Apparel of Mischief;
+Bleaks Jerkin of Despair;
+Bleaks Pelage of Vigor;
+Blizzardy Tundra Pelage;
+Noble Bleaks Finery;
+Polarian Bleaks Jacket;
+Polarian Tundra Apparel;
+Snowstorm Bleaks Suit;
+Tundra Coat of Sagacity;
+Tundra Garment of Loyalty;
+
+| boots =
+Bleaks Clogs of Despair;
+Bleaks Footgear of Pyres;
+Bleaks Mukluks of Frost*F2;
+Blizzardy Tundra Snowshoes*F3*WMV;
+Hailstorm Tundra Boots*F2*WMV;
+Polarian Bleaks Iceboots;
+Tundra Boots of Mayhem*F2;
+Tundra Footwear of Loyalty; 
+Tundra Trekkers of Sagacity;
+Tundra Walkers of Survival*F2;
+
+| athames =
+Kossack Athame of Counsel;
+Kossack Athame of Redress;
+Kossack Iceblade of Chills;
+Kossack Knife of Radiance;
+Kossack Spike of Purpose;
+Kossack Stylet of Tempests;
+Polarian Kossack Shortblade;
+Urville Edge of Snowgusts;
+Urville Knife of Elation*F2*WMV;
+Urville Kris of Wintertide*F2;
+Urville Lancet of Anguish;
+Urville Spike of Honor;
+
+| amulets =
+Kossack Collar of Misery;
+Kossack Locket of Counsel*F2*WMV;
+Memento of the Frigid Maw;
+Radiant Kossack Amulet;
+Urville Chaplet of Anguish;
+Urville Charm of Snowgusts*F2*WMV;
+Urville Necklace of Honor;
+Urville Pendant of Elation*F3*WMV;
+Urville Relic of Wintertide;
+Urville Talisman of Guile;
+
+| rings =
+Chief Inspector's Signet;
+Inspector's Band of Shivers;
+Inspector's Band of Theories;
+Kossack Band of Purpose;
+Kossack Ringlet of Travail;
+
+| wands =
+Axe of Tundra Blizzards;
+Evoker's Gallant Bodkin;
+Evoker's Gelid Wand;
+Evoker's Stalwart Stave*F2*WMV;
+Evoker's Stave of Squalls;
+Tundra Axe of Hailstorms*F3;
+Tundra Axe of Loyalty;
+Tundra Bardiche Sagacity*F2*WMV;
+Tundra Survival Hatchet;
+
+| decks =
+Evoker's Deck of Squalls;
+Evoker's Gallant Hand;
+Evoker's Stack of Acuity;
+Evoker's Stalwart Parcel;
+Hand of Tundra Blizzards*F2*WMV;
+Polarian Evoker's Bevy;
+Polarian Tundra Spelldeck;
+Tundra Deck of Swelters;
+Tundra Gallery of Hailstorms;
+Tundra Hand of Loyalty;
+Tundra Survivor's Pack;
+
+| items =
+Medium Enchanted Pot*F2;
+Polaris Baba Yaga Theme;
+Polaris Frozen Forest Theme*F2;
+Polaris Ice Block Theme;
+Polaris Mine Combat Theme*F2;
+Polaris Opera Theme;
+Small Pot;
+Walruskberg Combat Theme;
+Walruskberg Theme*F2;
+
+| cards =
+Age of Reckoning;
+Ashen Bones*F2;
+Astraphobia;
+Bronze Helephant;
+Combustion*F2;
+Counterforce;
+Death Helephant (345-405);
+Death Troll;
+Fiery Colossus;
+Frostfang;
+Katabatic Wind;
+Mass Death Prism*F2;
+Mass Fire Prism;
+Mass Myth Prism;
+Mass Storm Prism;
+Mass Triage;
+Mutate Colossus (Storm)*F2;
+Namaste*F3*WMV;
+Punklops;
+Raging Bull;
+Saga of Heroes;
+Snowball Barrage;
+Steel Colossus;
+Steel Giant;
+Winged Sorrow;
+Wings of Fate;
+Witch's House Call;
+
+| reagents =
+Aether*F3*WMV;
+Agave Leaves*F3;
+Agave Nectar*F2*WMV;
+Amber*F4*WMV;
+Amber Dust*F4*WMV;
+Ancient Scroll*F4*WMV;
+Aquamarine*F4*WMV;
+Astral Shard*F3;
+Black Pearl*F4*WMV;
+Blood Moss*F3*WMV;
+Braided Vine*F3*WMV;
+Brass*F5*WMV;
+Bronze Gear*F5*WMV;
+Cobalt*F6*WMV;
+Draconium;
+Ectoplasm*F4*WMV;
+Fire Blossom*F3*WMV;
+Golden Pearl*F8*WMV;
+Grendelweed*F2*WMV;
+Merle's Whisker*F2*WMV;
+Mithril*F2*WMV;
+Nickel;
+Orichalcum*F2*WMV;
+Scales*F6*WMV;
+Silver*F4*WMV;
+Spider Silk*F4;
+Spring*F2*WMV;
+Stardust*F2;
+Steel*F2;
+Sunstone*F3;
+Tin*F4*WMV;
+Titanium*F4;
+Tungsten*F3*WMV;
+Turquoise*F2*WMV;
+Vine*F4*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F3*WMV;
+Chalupacabra;
+Chili Cheese Fries*F2*WMV;
+Chili Peppers;
+Delicious Cookie*F4*WMV;
+Eye Candy;
+French Fries*F2;
+Frozen Perogies;
+Frozen Snails;
+Gourmet Yogurt*F3*WMV;
+Hot Cross Buns*F4*WMV;
+Huge Ice Cream*F2*WMV;
+Large Ice Cream*F2;
+Mustachios*F2*WMV;
+Penne Dreadful*F2*WMV;
+Polaris Fries;
+Satyr Chow;
+Ships 'n' Queso;
+Sprinkle Cupcake*F2*WMV;
+Submarine Sandwich*F3*WMV;
+Super Cold Popsicle*F2*WMV;
+Veggie Juice*F2*WMV;
+
+| jewels =
+Ally Spirit Shield Citrine;
+Ally Thermic Shield Amethyst;
+Fire-Giver Ruby;
+Ice-Dealer Sapphire;
+Lustrous Accurate Sapphire +11%;
+Lustrous Defense Sapphire +47;
+Polished Defense Sapphire +42;
+Polished Health Opal +92;
+
+| pins =
+
+| pets =
+Arctic Ninja Pig*CR;
+Detolli's Dragon*F6*WMV;
+Glacier Dragon;
+Ice Bird;
+Intrepid Seal Pup;
+Snowball*CR;
+
+| seeds =
+Angel Oak*F3*WMV;
+Baby Carrots;
+Bell Pepper;
+Bread Fruit Bush;
+Cornbread Fruit Bush*F6*WMV;
+Couch Potatoes*CR;
+Evil Snow Peas*F3;
+Fish on a Vine*F2;
+Frozen Fly Trap*F3*WMV;
+Golden Couch Potatoes;
+Goose Tree*F2;
+Green Snow Apples*F2;
+Ivy League*CR;
+King Parsley*CR*F3*WMV;
+Moon Flower*F3*WMV;
+Ninja Fig*CR;
+Purple Snow Apples*F3*WMV;
+Queen Crape Myrtle*F2;
+Red Couch Potatoes;
+Snow Apples*F3*WMV;
+Ultra Ninja Fig*F2;
+Ultra Snow Apples*F3*WMV;
+White Desparagus*F3*WMV;
+White Laugh-O-Dil*F2*WMV;
+White Tiger Lily*F2;
+
+| mounts =
+
+| spells =
+
+}}

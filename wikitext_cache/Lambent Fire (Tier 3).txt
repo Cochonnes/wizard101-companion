@@ -1,0 +1,159 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 17,500
+| crecla = Undead
+| school = Fire
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+18%;
+
+| outboost =
+125%;
+
+| incboost =
+30% Ice;
+
+| incresist =
+60% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Skirker Buster (Tier 3);
+Skirker Buster (Tier 3);
+Skirker Buster (Tier 3);
+
+| world = Avalon
+| location = Crystal Caves
+| subloc1 = Crystal Caves Gold Key Room
+| badge = Lambent's Damper
+| descrip =
+Lambent Fire (Tier 3) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Knight's Spellemental Pack}}.
+*This Tier is for level 86-109 Wizards.
+
+| speech =
+:''"Wizard of Light, I am a wretched spirit, once long ago a noble knight. I quested to find the Horn of Glory. But I fell, and remained trapped here to flicker like the dying of the day! Die with me!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Avalon
+| tome description =
+Hates seances. There you are, resting comfortably, then some bored partiers wake you up and ask you who has a crush on who.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Damage}} ''"Fire pierces all!"'' - After Lambent Fire casts a Damage Spell, he receives a {{Link|Spell|Firespear}}.
+*{{Icon|Blade}} ''"The spirits of the past strike you down!"'' - If a Wizard casts any non-Fire, non-universal Blade, Lambent Fire will cast {{Link|Spell|Brimstone Revenant}} on the receiver.
+**{{Icon|Blade}} ''"Your edge is mine!"'' - If a Wizard casts a universal Blade, Lambent Fire will cast {{Link|Spell|Steal Charm}} on the receiver.
+**{{Icon|Blade}} ''"The Fire hungers."'' - Casting any Fire Damage Blade Spell, including {{Link|Spell|Elemental Blade}}, randomly triggers the Steam Charm cheat.
+***Pet May-Casts will trigger this cheat.
+*{{Icon|Trap}} ''"Your world shall burn!"'' - If a Wizard casts a universal Trap on Lambent Fire, he will cast {{Link|Spell|Immolate}} on the caster.
+**Mass Hex will not trigger this cheat. Mass feint does.
+*{{Icon|Damage}} When any Skirker Buster casts {{Link|Spell|Natural Attack (Fire 2,050)}}, it will cast a version of Immolate that sacrifices 100% Max Health on itself.
+*{{Icon|Minion}} ''"Come to the light!"'' - At the end of every Round, Lambent Fire will resummon all Skirker Buster Minions that were defeated or missing on the battlefield.
+'''Death Interrupt Cycle:'''
+*{{Icon|Round}} When all three Skirker Busters are present, this cheat will cycle at the end of each round and repeats itself after three rounds.
+**{{Icon|Blade}} ''"I give you my strength!"'' - At the end of the first round, the first Skirker Buster will cast {{Link|Spell|Dark Pact (+30%)}} on Lambent Fire.
+**{{Icon|Health}} ''"I give you my health!"'' - At the end of the second Round, the second Skirker Buster will cast {{Link|Spell|Sacrifice (Death)}} on Lambent Fire.
+**{{Icon|Curse}} ''"I give of myself to curse you!"'' - At the end of the third Round, the third Skirker will cast {{Link|Spell|Bad Juju}} on a random Wizard.
+***The third Round will not trigger if any Wizards flee the duel.
+
+| spellnotes =
+
+| casts =
+Furnace;
+Fireblade;
+Fire Trap;
+Wyldfire;
+Burning Rampage;
+Fire from Above;
+Raging Bull;
+Helephant (Tier 4a);
+Fire Dragon;
+Sun Serpent;
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+
+| hats =
+Lambent's Bonnet of Splendor;
+Summer Palace Helmet (Level 100+);
+
+| robes =
+
+| boots =
+Lambent's Runners of Penance;
+Lambent's Shoes of Clamoring;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Darkfire Longbow (Level 100+);
+
+| decks =
+
+| items =
+Artisan's Socket Wrench;
+Professor Ambrose;
+
+| cards =
+Azoth;
+
+| reagents =
+Participation Trophy;
+Spectral Shard;
+
+| spellements =
+Brave Sir Badger;
+Burning Rampage;
+Catalan;
+Deer Knight;
+Handsome Fomori;
+Sacred Charge;
+Wreckin' Ettin;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,231 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 15,160
+| crecla = Dino
+| crecla2 = Parasaur
+| school = Death
+| masteries =
+Ice;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Grim Calaca;
+
+| world = Azteca
+| location = Twin Giants
+| subloc1 = Cave of Night
+| descrip =
+
+| speech =
+:''"My eyes bleed black blood at the thought of you standing there, whole, not suffering! Let me turn you into something Undead!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Her eyes bleed black blood. It's a medical condition, you shouldn't make fun.
+
+| extract class =
+Dinos;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Tower Shield;
+Virulent Plague;
+Deathblade;
+Curse (+25%);
+Feint;
+Natural Attack (Death 180-360-540);
+Dr. Von's Monster;
+Avenging Fossil;
+Ice Wyvern (390-450);
+Frost Demon;
+
+| quests = 
+Glittering Blackness;
+
+| gold =
+130 - 149;
+
+| hats =
+Glorious Feathered Mantle;
+Helm of the Broken Spear;
+Mask of the Calavera;
+
+| robes =
+Black Sun Chac's Armor*F3*WMV;
+Cloak of the Tyrant of Beasts;
+Five Fangs of Fury Scales;
+Glorious Xicolli Vest;
+Grinning Death Xicolli Vest*F3;
+High Chac's Guarded Armor;
+Keeper of the Codex Vest;
+Lord of Night Robes;
+Philososaur's Robes;
+Tunic of the Broken Spear;
+Twisted Fang Vestments;
+White Fire Chac's Armor*F2;
+
+| boots =
+Black Tears of Night Wraps;
+Elite Jura Guard Stalkers*F2*WMV;
+Five Fangs of Fury Boots*F3;
+Heart of Sky Boots;
+Indigo Wing Striders;
+Tree of Secrets Chac Runners;
+Twisted Fang Boots;
+
+| athames =
+Moon Skull's Blessed Edge*F2;
+Winged Tooth Knight's Hook;
+
+| amulets =
+Courage Charm of Jade Wings;
+Home Hearth Relic;
+Horizon of Underworld Charm;
+Necklace of Lost Ancestors;
+Pendant of the Wild Wings*F2*WMV;
+Speaking Water Ornament;
+
+| rings =
+
+| wands =
+New Moon Lance*F2;
+Spear of Breaking Dawn*F2;
+Talon of the Storm Owl*F2;
+
+| decks =
+Calendar of the Spiral King*F2*WMV;
+King's Royal Portraits*F3;
+Lords of Night Pyramid Deck;
+
+| items =
+Azteca Main Theme;
+Azteca Pot;
+Clothesline;
+Starburst Frond*F2;
+
+| cards =
+Basilisk;
+Berserk;
+Chimera;
+Cloud Demon;
+Colossal*F2;
+Dr. Von's Monster;
+Efreet;
+Empowerment;
+Extraordinary*F2;
+Forest Lord;
+Gnomes!;
+Leviathan;
+Potent Trap*F2*WMV;
+Primordial*F2;
+Rain of Fire;
+Sharpened Blade;
+Sirens;
+Snow Angel;
+Winter Moon*F2*WMV;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F3*WMV;
+Black Pearl*F2;
+Blood Moss;
+Bone*F3;
+Bronze Gear;
+Cobalt*F2;
+Deep Mushroom*F4*WMV;
+Fire Blossom*F3*WMV;
+Fossil;
+Lava Lily*F5*WMV;
+Mist Wood*F5*WMV;
+Mithril*F3;
+Nightshade*F2;
+Ore*F2;
+Red Mandrake*F3*WMV;
+Silver;
+Steel*F2*WMV;
+Stone Block*F2*WMV;
+Sunstone*F2*WMV;
+Titanium;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Apatotatoes*F2*WMV;
+Aztecan Hot Chocolate*F2;
+Chili Peppers*F2;
+Deviled Eggs;
+Dr. Jalapeno;
+Guava*F2;
+Gummy Wyrms;
+Pterotomatoes*F3;
+Quetzal Pretzel*F2*WMV;
+Rex Tea;
+Shiny Tomato*F2;
+Zocalo Wings*F2;
+
+| jewels =
+Clear Blocking Opal +5;
+Clear Defense Sapphire +40;
+Effervescent Opal;
+Feinting Spell Onyx;
+Polished Blocking Hematite +12;
+Polished Blocking Opal +6;
+Polished Critical Amethyst +11;
+Polished Critical Hematite +11*F2;
+Polished Critical Peridot +11;
+Polished Damage Sapphire +21;
+Polished Piercing Peridot +6%;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+Key Limes*CR;
+Maelstrom Snap Dragon;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,238 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 9,240
+| crecla = Wizard
+| school = Death
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Avalon
+| location = Ghost Avalon
+| subloc1 = Merle Ambrose's Tower
+| lootchest = Young Morganthe's Chest
+| descrip =
+
+| speech =
+:''"Ah, Merle Ambrose, you're not so smart, and your protective wards aren't so tough. Once I copy these pages you won't be able to keep me from this so-called 'Forbidden Knowledge.' I'll master the Horned Crown and use it to wrap the King around my little finger. Gamma!? What are you doing here? What did you see? I'm just putting this book away for Master Ambrose, is all. Oh, fie!"''
+
+| cheatnotes =
+*{{Icon|Shield}}{{Icon|Trap}}''"No more of that!"'' - If a Wizard casts a Ward Spell (Shields or Traps), she will randomly cheat-cast Power Nova and Earthquake dealing 400 Myth Damage to all enemies and 100 Fire Damage to herself.
+**The Earthquake portion of this cheat will not remove any of her Charms or protective Wards.
+**She is more likely to use this cheat if the Ward is cast after she uses an Attack, including her Mana Burn.
+**Pet casts do not activate this cheat.
+**Multi-target Trap Spells, such as {{Link|Spell|Mass Feint (+75%)}}, will trigger this cheat.
+**{{Link|Spell|Unbalance}} can be used to Dispel the Power Nova portion of this cheat.
+*{{Icon|Manipulation}} ''"Time for a new strategy!"'' - If a Wizard acquires 8 or more Pips, she will cheat-cast {{Link|Spell|Mana Burn}} on the Wizard at the beginning of the Round.
+**School Pips do not count as any kind of Pip for the purposes of this cheat.
+**Unbalance can be used to Dispel this cheat.
+**If the Wizard has already queued a Spell to be cast before being hit by the Mana Burn, then the Spell will finish, regardless of how many Pips are available at the time it is cast.
+
+| spellnotes =
+
+| casts =
+Fortify;
+Deathblade;
+Feint;
+Natural Attack (Death 175-350-510);
+Vampire;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+Skeletal Dragon;
+Dr. Von's Monster;
+
+| quests =
+Take Me to the Other Side;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge and has not unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge, the following drops will be available:
+*14 Spellements will drop each time for their respective rank 5-9 Spells.
+
+| gold =
+70 - 79;
+
+| hats =
+Helm of Night's Bannerman*F3*WMV;
+Helm of the Lady's Chosen One*F3*WMV;
+
+| robes =
+Loyal Banner's Coat*F4*WMV;
+Royal Jouster's Armor*F2*WMV;
+
+| boots =
+Other Side Striders;
+Owl Friend Talons*F4*WMV;
+
+| athames =
+Ockam's Razor;
+Sworn Knife to Artorius*F2*WMV;
+
+| amulets =
+Great Wild Wood Pendant*F2;
+Knight's Torc of Virtue*F3;
+
+| rings =
+Stone of the Other Side*F2*WMV;
+
+| wands =
+Baton of Instigation;
+First Bird of Spring Wand*CR*HOL;
+Staff of the Wildgrave*F2*WMV;
+Stag-Horned Staff*F3*WMV;
+
+| decks =
+Druid's Knot Deck*F2*WMV;
+Silvershield Cards*F4*WMV;
+
+| items =
+Avalon Combat Theme;
+Avalon Glorious Theme;
+Green Holiday Ornament*HOL;
+Krokopatra Exalted Duel*CR;
+Meowiarty Archmage Duel*CR;
+Rattlebones Exalted Duel*CR;
+Stone Skeleton Key*CR*F2;
+
+| cards =
+Amplify*F4*WMV;
+Beguile*F4*WMV;
+Berserk*F2;
+Colossal*F2*WMV;
+Dark Tribute*F4*WMV;
+Deer Knight;
+Empowerment*F2*WMV;
+Extraordinary*F2*WMV;
+Fire Dragon*F2;
+Fortify*F2;
+Frost Giant*F2*WMV;
+Gargantuan;
+Infallible*F3*WMV;
+Mend*F5*WMV;
+Orthrus;
+Plague*F2*WMV;
+Poison*F2*WMV;
+Power Nova;
+Rebirth;
+Sacrifice*F4*WMV;
+Scarecrow;
+Storm Lord;
+Unstoppable;
+Vengeance*F4*WMV;
+Virulent Plague*F5;
+
+| reagents =
+Amber Dust*F2*WMV;
+Black Lotus*F3;
+Brass;
+Bronze;
+Cat Tail;
+Cobalt;
+Deep Mushroom*F2;
+Frost Flower;
+Lava Lily*F4*WMV;
+Merle's Whisker*F2*WMV;
+Mist Wood*F3*WMV;
+Ore*F2*WMV;
+Parchment;
+Pearl;
+Red Mandrake*F3*WMV;
+Shell*F4*WMV;
+Stone Block*F2*WMV;
+
+| spellements =
+Basilisk*BR;
+Blight Hound*BR*F2;
+Centaur*BR*F2;
+Chimera*BR*F2;
+Colossus*BR*F2;
+Dr. Von's Monster*BR*F2;
+Earth Walker*BR*F2;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*F3*BR*WMV;
+Frost Giant*BR;
+Gnomes!*BR;
+Helephant*F3*BR*WMV;
+Hydra*BR;
+Leviathan*BR;
+Medusa*BR;
+Minotaur*BR;
+Orthrus*F2*BR*WMV;
+Phoenix*BR*F2;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*F3*BR*WMV;
+Rebirth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Skeletal Pirate*BR*F2;
+Snow Angel*BR*F2;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR*F2;
+Stormzilla*BR;
+Triton*BR;
+Woolly Mammoth*BR;
+Wraith*BR;
+
+| snacks =
+Deviled Eggs;
+Golden Grapes*F2*WMV;
+Gummy Wyrms*F2*WMV;
+Roasted Chickpeas;
+Shiny Tomato;
+Uni-Corn*F2;
+
+| jewels =
+Dimension Shift Peridot;
+Empowerment Opal*F2;
+Heart o'Pixie Jade;
+Thunder Lizard Amethyst;
+
+| pins =
+
+| pets =
+Christmas Elf*CR*HOL;
+Nightmare*CR*HOL;
+Valentine Pig*CR*HOL;
+
+| seeds =
+Angora Bunny Ears;
+Blue Huckleberries;
+Happy Holidaisy*CR*HOL;
+Pink Huckleberries*F2*WMV;
+Sword Fern*CR;
+
+| mounts =
+Stormrider Hare*PERM*CR*HOL;
+
+| spells =
+
+}}

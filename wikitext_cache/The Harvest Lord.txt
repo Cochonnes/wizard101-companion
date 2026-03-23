@@ -1,0 +1,188 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 510
+| crecla = Undead
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+-30%;
+
+| incboost =
+10% Ice;
+
+| incresist =
+40% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Rotted Fodder (Storm);
+
+| world = Wizard City
+| location = Triton Avenue
+| subloc1 = Galvanost Tower
+| lootchest = Harvest Lord's Chest
+| descrip =
+The Harvest Lord is the final Boss of the Triton Avenue storyline. He kidnapped {{Link|NPC|Suzie Gryphonbane}} and caused havoc all over the street.
+*Two additional Rotted Fodder Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Ah, another soul to harvest! I knew my little prisoner would draw more to me, like flies to honey. Wait! My dark master warned me about you. Ha! Imagine the reward he will give me when I present him your very soul!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+One of Malistaire's Undead Army generals, this gourd-headed ghoul is just a good ol' farm boy at heart.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Snow Shield (-25%);
+Fire Cat;
+Flamesnake;
+Natural Attack (Fire 210);
+Fire Elf (50+210);
+Sunbird;
+Natural Attack (Fire 100x);
+Imp;
+Blood Bat;
+
+| quests =
+The Enemy Revealed;
+  
+| gold =
+8 - 23;
+
+| hats =
+Elven Storm Cap*CR*F5*WMV;
+Firestorm Cap*F2*WMV;
+Helm of Nightmares*F2*WMV;
+Helm of Tales*F6*WMV;
+Hood of Storms*F2*WMV;
+Novice's Hat;
+Roughspun Hat;
+
+| robes =
+Adventurer's Robe*F7*WMV;
+Charged Coat*F9*WMV;
+Chillcloak;
+Cloak of Calamity;
+Fairy Cloak;
+Harvest Lord's Mantle*F2*WMV;
+Novice's Robe;
+Novitiate Robe;
+Robe of the Lifeblood*F7*WMV;
+Soot Stained Tunic*F3*WMV;
+Stormcaller's Robe;
+Vestment of the Adverse;
+
+| boots =
+Boots of Embers;
+Boots of Obstruction*F9*WMV;
+Boots of the Adverse;
+Explorer Boots;
+Fairy Shoes;
+Hardened Boots;
+Novice's Shoes;
+Novitiate Boots;
+Plated Boots*F2;
+Roughspun Shoes;
+Slippers of Rites;
+Soot Stained Boots;
+Trollskin Boots*F2*WMV;
+Twice Stitched Boots;
+Windrunners*F6*WMV;
+
+| athames =
+Peridot Studded Athame*F8*WMV;
+Reaper's Athame*F4*WMV;
+Ritual Athame*F2;
+Simple Dirk*F3;
+
+| amulets =
+Elven Pendant*F3*WMV;
+
+| rings =
+Fine Jade Ring*F5*WMV;
+
+| wands =
+Symmetrical Wand;
+Wand of Repose;
+
+| decks =
+
+| items =
+Heated Stone Tower*F2;
+Prop Mountains 1;
+Pumpkin*F3*WMV;
+Tall Vase*F4*WMV;
+Wizard City Haunted Theme*F10*WMV;
+
+| cards =
+Fire Cat*F2*WMV;
+Fire Elf;
+Fire Shield;
+Frost Beetle*F2;
+Ghoul*F19*WMV;
+Guiding Light;
+Harvest Lord*F9*WMV;
+Keen Eyes;
+Lightning Bats;
+Locust Swarm*F2*WMV;
+Myth Shield;
+Snow Shield;
+Storm Shield;
+Time of Legend;
+Tough*F3*WMV;
+
+| reagents =
+Bone;
+Leather Straps*F2*WMV;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry*F4*WMV;
+Cheese Broccoli*F3*WMV;
+Chocolate Strawberry*F6*WMV;
+Gummy Firecat*F3;
+Sugar Donut*F7*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Honey Sickle;
+
+| mounts =
+
+| spells =
+
+}}

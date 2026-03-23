@@ -1,0 +1,162 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 9,300
+| crecla = Other Birds
+| school = Death
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Poseidon Earth-Shaker (Tartarus, Challenge);
+Zeus Sky Father (Tartarus, Challenge);
+
+| world = Wizard City
+| location = Tartarus (Challenge)
+| subloc1 = Hall of Hades (Challenge)
+| badge = Went to Hades and Back
+| descrip =
+*For the Standard version of this Creature, see {{Link|Creature|Hades the Unseen (Tartarus)}}.
+
+| speech =
+:'''Hades:''' ''"Inglorious Wizard, you think you can topple the great Immortals of Aquila with your magic spells?  You have done well to get so far, granted.  But I don't think you have what it takes to defeat me... and my brothers!"''
+:'''Poseidon:''' ''"You have come far, little Wizard, since last we battled.  Are you ready to face the full fury of the sea?"''
+:'''Zeus:''' ''"Do not fear, Wizard.  We set the bar so high to ensure that only the truly heroic earn our greatest favors.  We will not hold back this time.  If you fall, you will live in the golden Elysian Fields for blessed eternity."''
+
+| cheatnotes =
+*{{Icon|Round}} ''"The sands of your time are running out!"'' - At the beginning of every Round, Hades will cast a +70% incoming Death Damage Aura for 4 Rounds on a random Wizard.
+*{{Icon|Aura}} ''"We Immortals are Infallible"'' - At the beginning of the first Round, Poseidon will cast {{Link|Spell|Infallible}}.
+*{{Icon|Blade}}{{Icon|Aura}} ''"Death is Eternal"'' - Whenever a Wizard casts a helpful Charm or helpful Aura, Hades will cast {{Link|Spell|Tower Shield}} on himself.
+*{{Icon|Harmful Aura}} ''"Death is Vengeful"'' - Whenever a Wizard casts a harmful Aura, Hades will cast his Natural Attack on the caster.
+**Auras that increase incoming Damage such as {{Link|Spell|Berserk}} or {{Link|Spell|Galvanic Field}} will also trigger this cheat.
+*{{Icon|Heal}} ''"Death is Patient"'' - Whenever a Wizard casts a Healing Spell, Hades will cast Deathblade on himself.
+*{{Icon|Shield}} ''"Your punishment shall be swift!"'' - Whenever a Wizard casts a helpful Ward, Zeus will cast Minotaur on the recipient.
+*{{Icon|Death}} ''"Ahhh, the glorious taste of defeat!"'' - Whenever a Wizard, Poseidon, or Zeus are defeated, Hades will cast a protected +40% version of Deathblade on himself.
+
+| spellnotes =
+
+| casts =
+Attenuate;
+Plague;
+Virulent Plague;
+Deathblade;
+Balanceblade;
+Curse (+25%);
+Hex;
+Wraith (575);
+Skeletal Dragon (Tier 2b);
+
+| quests =
+Fall of Pompeii;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic: Aquila Badges|Swole Like Sisyphus]]''' {{Icon|Swole Like Sisyphus}} Badge, the following drops will be available:
+*{{Icon|Spellement}} 16 - 17 Aquila Spellements will drop each time from '''any''' School
+
+| gold =
+3 - 26;
+
+| hats =
+Blackthunder Helm;
+Hades' Helm of Retribution;
+Hades' Helmet of Shivers;
+Poseidon's Cowl of Flares;
+Senator's Frostfall Laurel;
+Senator's Laurel of Demise;
+Unseen Lord's Chill Helmet;
+
+| robes =
+Armor of a Sorrowful Life;
+Poseidon's Armor of Depths;
+Poseidon's Glacial Armor;
+Poseidon's Maelstrom Gear;
+Senator's Noble Toga;
+Senator's Toga of Demise;
+Senator's Toga of Sparks;
+Senator's Toga of Wisdom;
+Zeus' Skyforged Plate;
+
+| boots =
+Poseidon's Boots of Vapors;
+Poseidon's Wavewalkers;
+Senator's Monsoon Sandals;
+Senator's Spirited Shoes;
+Zeus's Flamewalkers;
+Zeus's Iceshelf Striders;
+
+| athames =
+
+| amulets =
+Amulet of Divine Influence;
+
+| rings =
+
+| wands =
+Ares' Cold Heart Spear;
+Ares' Scalding Spear;
+Ares' Sunflare Spear;
+Ares' Spear of Nerve;
+Ares' Spear of Wits;
+Ares' Stout Spear;
+Hades' Staff of Awakening;
+Hades' Staff of Eternity;
+Trident of Shock Waves;
+Zeus' Scepter of Creation;
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Olympian Dust @ 32 Olympian Dust;
+Olympian Dust @ 36 Olympian Dust;
+Olympian Dust @ 40 Olympian Dust;
+Olympian Dust @ 45 Olympian Dust;
+Olympian Dust @ 55 Olympian Dust;
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Grim Skeleturion*CR;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Hades the Unseen (Tartarus)
+}}

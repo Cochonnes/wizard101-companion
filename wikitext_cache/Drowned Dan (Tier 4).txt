@@ -1,0 +1,233 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 15,350
+| crecla = Undead
+| school = Life
+| masteries =
+Fire;
+Balance;
+
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| schoolpips = 
+Fire;
+Balance;
+
+| critical = 
+
+| criticalblock = 
+
+| outpierce =
+24%;
+
+| outboost =
+125%;
+
+| incboost =
+5% Death;
+
+| incresist =
+70% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sunken Sam (Tier 4);
+Sunken Sam (Tier 4);
+Sunken Sam (Tier 4);
+
+| world = Celestia
+| location = Science Center
+| subloc1 = Drowned Dan's Chamber
+| badge = Undead Pirate's Scourge
+| descrip =
+Drowned Dan (Tier 4) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Celestian Spellemental Pack}}.
+*This Tier is for level 110-{{MaxLevel}} Wizards.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+This is why you don't buy Potions of Water Breathing from a lifestyle brand. You go to a licensed apothecary.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Aura}} ''"Ye must sink the sams to learn me code"'' - Drowned Dan will cast an ''Invulnerability'' -300% Brace Aura making him Immune to Damage.
+*{{Icon|Round}} ''"The code is #-#-#-#"'' - At the start of the second Round, Drowned Dan will reveal the first number of the code. Each time a Minion is defeated, the next number of the code is revealed at the start of the following Round. The code represents four different Spell pip costs that Drowned Dan must be attacked with in order to deactivate the Invulnerability Aura.
+'''List of Codes:'''
+*Drowned Dan will use one of the following ten codes:
+**"1-5-2-7"
+**"1-5-7-10"
+**"1-5-7-11"
+**"3-8-0-6"
+**"3-8-10-6"
+**"3-8-10-9"
+**"4-7-0-3"
+**"4-7-0-11"
+**"4-7-3-2"
+**"4-7-3-11"
+'''Correct Responses:'''
+*''"Blast! Ye be correct!"'' - is his response if answered correctly the first time.
+*''"Yar! A lucky guess!"'' - is his response if answered correctly the second time.
+*''"Blimey! They've figured it out!"'' - is his response if answered correctly the third time.
+*''"Nooo! My protection!"''' - is his response if answered correctly the fourth time, and casts a version of Supernova on himself that deals no Damage.
+'''Incorrect Responses:'''
+*''"Incorrect! Back to the start with ye!"'' - is his response if answered incorrectly, starting over the original sequence.
+** This cheat happens even if the number input would be correct but hasn't been revealed yet (for example, inputting a 7 after inputting a 4 before any minions were defeated, despite all combinations that start with 4 having a 7 as the next number).
+
+| spellnotes =
+
+| casts =
+Lifespear (+10%);
+Rebirth;
+Lifeblade (+40%);
+Mass Life Trap;
+Nature's Wrath (Tier 5b);
+Centaur;
+Forest Lord;
+Spinysaur;
+Spiritual Tribunal (Tier 5a);
+Nautilus Unleashed (Tier 5a);
+
+| quests =
+
+| dropnotes =
+Wizards are guaranteed to receive a piece of gear, a Housing Item, 3-4 Azoth treasure cards, and a random distribution of 14-16 Spellements.
+
+| gold =
+0;
+
+| hats =
+Celestian Neon Mask (Level 120+)*CR*F3*WMV;
+Celestian Photon Mask (Level 120+)*CR*F2*WMV;
+Celestian Photon Mask (Level 130+)*CR*F3*WMV;
+Celestian Xenon Mask (Level 120+)*CR*F2*WMV;
+Celestian Xenon Mask (Level 130+)*CR*F4*WMV;
+
+| robes =
+Celestian Photon Cape (Level 120+)*CR;
+Celestian Photon Cape (Level 130+)*CR*F2*WMV;
+Celestian Neon Cape (Level 120+)*CR*F4*WMV;
+Celestian Neon Cape (Level 130+)*CR;
+Celestian Xenon Cape (Level 120+)*CR*F2*WMV;
+Celestian Xenon Cape (Level 130+)*CR;
+
+| boots =
+Celestian Neon Striders (Level 120+)*CR*F2*WMV;
+Celestian Neon Striders (Level 130+)*CR*F2;
+Celestian Photon Striders (Level 120+)*CR;
+Celestian Photon Striders (Level 130+)*CR*F6*WMV;
+Celestian Xenon Striders (Level 120+)*CR*F2*WMV;
+Celestian Xenon Striders (Level 130+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Celestian Neon Axe (Level 120+)*CR;
+Celestian Neon Axe (Level 130+)*CR*F4*WMV;
+Celestian Photon Axe (Level 120+)*CR*F2*WMV;
+Celestian Photon Axe (Level 130+)*CR;
+Celestian Xenon Axe (Level 120+)*CR*F2*WMV;
+Celestian Xenon Axe (Level 130+)*CR;
+
+| decks =
+
+| items =
+Branching Coral;
+Celestia Main Theme*F3*WMV;
+Celestia Finale Theme*F3*WMV;
+Celestian Cube Sculpture*CR;
+Celestian Device*CR*F2*WMV;
+Celestian Lamp*F2*WMV;
+Chariot Painting*CR*F3*WMV;
+Crab Painting*CR*F2*WMV;
+Fan Coral;
+Fountain Painting*CR;
+Galactic Water Spout*CR;
+Galleon Painting*CR;
+Gold Skeleton Key*CR*F7*WMV;
+Island Gazebo*F3*WMV;
+Legendary Socket Wrench*F2*WMV;
+Messenger Painting*CR*F2*WMV;
+Naval Supply Crate;
+Orrery*CR;
+Pink Coral*F2*WMV;
+Serpent Painting*CR;
+Stag Painting*CR*F2;
+Star Chalice;
+Stone Skeleton Key*CR*F3*WMV;
+Water Mole Supplies;
+Wheelbarrow*F2*WMV;
+Wooden Skeleton Key*CR*F3;
+Zoa Coral*F2*WMV;
+
+| cards =
+Azoth*F46*WMV;
+Celestial Intervention*F12*WMV;
+Nautilus Unleashed*F10*WMV;
+Ship of Fools*F7*WMV;
+Spiritual Tribunal*F9*WMV;
+
+| reagents =
+
+| spellements =
+Celestial Intervention*F45*WMV;
+Nautilus Unleashed*F45*WMV;
+Ship of Fools*F45*WMV;
+Spiritual Tribunal*F45*WMV;
+
+| snacks =
+
+| jewels =
+Dazzling Accurate Citrine +14%;
+Dazzling Accurate Jade +14%;
+Dazzling Accurate Sapphire +14%;
+Dazzling Critical Opal +10;
+Dazzling Damage Amethyst +30*F2*WMV;
+Dazzling Damage Jade +29;
+Dazzling Damage Ruby +30;
+Dazzling Defense Sapphire +57;
+Dazzling Defense Sapphire +59*F2*WMV;
+Dazzling Health Opal +128;
+Dazzling Health Opal +133;
+Dazzling Mending Opal +7%;
+Ninja Pigs Peridot;
+Sparkling PIP Hematite +2;
+
+| pins = 
+
+| pets =
+Feral Zorphie*CR*F5*WMV;
+Ravenous Zorphie*CR*F3*WMV;
+Vicious Zorphie*CR*F2*WMV;
+
+| seeds =
+
+| mounts =
+Celestian Mech*PERM*CR;
+
+| spells =
+
+}}

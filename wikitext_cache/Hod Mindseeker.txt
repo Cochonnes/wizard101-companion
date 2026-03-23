@@ -1,0 +1,171 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 2,990
+| crecla = Wolf
+| school = Balance
+| startpips = 3
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Snowfang Ranger;
+
+| world = Grizzleheim
+| location = Austrilund
+| subloc1 = Hod's Cave
+| descrip =
+
+| speech =
+:''"It cannot be, these things you say! I'll set you right, and send you on your way!"''
+
+| spellnotes =
+
+| casts =
+Balanceblade;
+Iron Curse;
+Sandstorm;
+Gearhead Destroyer;
+Spirit Blast;
+Spectral Blast;
+Natural Attack (Balance 85x, 85%);
+
+| quests =
+Kill the Messenger;
+
+| gold =
+57 - 82;
+
+| hats =
+Barbaric Helm*F2;
+Grizzled Helm*F3*WMV;
+Horned Helm of the North*F2*WMV;
+
+| robes =
+Burnt Coat;
+Coat of Justice*F2;
+Coat of the Crypt;
+Jerkin of the Bleak Bear;
+Jerkin of the Roaring Bear;
+
+| boots =
+Biting Bear Boots*F3*WMV;
+Fighting Bear Boots;
+Growling Bear Boots*F3*WMV;
+Novitiate Boots;
+Roaring Bear Boots;
+Slashing Bear Boots;
+Snarling Bear Boots*F2;
+
+| athames =
+Wolf's Topaz Claw*F3;
+
+| amulets =
+Wyrm's Curse Charm*F5;
+
+| rings =
+Ring of Claw;
+Ring of Fang*F2;
+Ring of the Wolf Warrior*F2;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Availing Hands*F3;
+Elemental Defuse;
+Fortify;
+Keen Eyes;
+Locust Swarm;
+Meteor Strike;
+Pixie;
+Spirit Defuse;
+Sprite;
+Strong;
+Troll;
+
+| reagents =
+Bronze Gear*F2*WMV;
+Cobalt*F3*WMV;
+Leather Straps*F2*WMV;
+Nickel;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Delicious Cookie*F2;
+Glowing Star Fruit;
+Glowing Taffy;
+Golden Apple;
+Gummy Humongofrog;
+King Banana;
+Shiny Tomato;
+Submarine Sandwich;
+Uni-corn;
+
+| jewels =
+Blade of Ice Sapphire;
+Blizzard Lizard Sapphire;
+Dissipate Amethyst*F2;
+Dull Critical Jade +3;
+Dull Critical Opal +2;
+Dull Defense Amethyst +26;
+Dull Defense Sapphire +26;
+Dull Defense Onyx +26;
+Dull Mana Opal +22;
+Gold Miner Opal;
+Ice-Giver Sapphire;
+Ice-Shot Sapphire;
+Melt Sapphire*F2;
+Musical Lane Opal;
+Plain Defense Jade +29*F3;
+Plain Defense Peridot +29*F2;
+Plain Defense Ruby +29;
+Plain Defense Sapphire +29;
+Plain Health Opal +60;
+Quench Ruby*F4;
+Strangle Onyx;
+Thunder Lizard Amethyst*F2;
+Unbalance Citrine;
+Vaporize Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Evil Snow Peas;
+Rye Bread Fruit Bush;
+Snap Dragon;
+Venus Fly Trap;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

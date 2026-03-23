@@ -1,0 +1,107 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 17,700
+| crecla = Llama
+| school = Death
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+16%;
+
+| outboost =
+95%;
+
+| incboost =
+30% Life;
+
+| incresist =
+43% Fire, Ice, Storm, Myth, Balance, Shadow;
+73% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Marketplace of Ideas
+| subloc1 = Rogue Theater
+| location2 = Marketplace of Ideas
+| subloc2 = Rogue Theater: Act II
+| descrip =
+This boss is located behind '''Door IV''' in the {{Link|Location|Rogue Theater}}.
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"Who am I? I am but a humble bard brought to amuse the troops who so eagerly serve you, my Lord Khonsu. What value could I have? These, my Players, my summons, my creatures are but spirits melted into air, into thin air. 'Tis true, there is wisdom in thy speech. Myth and Moon are as one - shifting and shaping the world as a writer shapes words. Permit to serve as your Avatar. I will be your Author of Vengeance!"''
+
+| cheatnotes =
+*{{Icon|Random}} ''"My high charms work... they now are in my power."'' - The Bard will cheat-cast {{Link|Spell|Ship of Fools (Tier 5b)}}.
+{{Icon|Round}} '''Cycle''':
+*''"Your revels now are ended!"'' - At the beginning of every 3rd Round, The Bard will cheat-cast {{Link|Spell|Plague}}.
+*''"This thing of darkness, I acknowledge mine."'' - At the beginning of every 6th Round, The Bard will cheat-cast {{Link|Spell|Virulence (6 Rounds)}}.
+
+| spellnotes =
+
+| casts =
+Adapt;
+Deathblade (+40%);
+Death Trap;
+Skeletal Pirate;
+Wraith;
+King Artorius (Death);
+Skeletal Dragon;
+
+| quests =
+Plots Have I Laid;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

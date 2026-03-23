@@ -1,0 +1,115 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 6,860
+| crecla = Horse
+| crecla2 = Equine
+| school = Life
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+??? Storm;
+
+| outhealing =
+24%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Scaled Eques (Challenge);
+Scaled Eques (Challenge);
+Scaled Eques (Challenge);
+
+| world = Wizard City
+| location = Atlantea (Challenge)
+| subloc1 = House of Fury (Challenge)
+| descrip =
+*For the Standard version of this Creature, see {{Link|Creature|Arion Spiny Stallion}}.
+
+| speech =
+:''"How splendid!  A visitor!  Come in and let me offer you my hospitality...  Or are you the sneak-thief and barbarian who threatened my poor sister and stole her Alabaster Sea Cow?  I thought as much."''
+
+| cheatnotes =
+*{{Icon|Jinx}} "You cannot diminish me!"- If a harmful Ward is cast on Arion Spiny Stallion, he will cast {{Link|Spell|Devotion (6 Rounds)}}.
+**Spells that place harmful Wards on all enemies will trigger this cheat.
+
+| spellnotes =
+
+| casts =
+Mend;
+Guiding Light;
+Regenerate (Tier 2b);
+Lifeblade (+40%);
+Sanctuary;
+Natural Attack (Arion Spiny Stallion);
+
+| quests =
+Under the Sea;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic: Aquila Badges|Swole Like Sisyphus]]''' {{Icon|Swole Like Sisyphus}} Badge, the following drops will be available:
+*{{Icon|Spellement}} 2 Aquila Spellements will drop each time from '''any''' School
+
+| gold =
+6 - 34;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Arion Spiny Stallion
+}}

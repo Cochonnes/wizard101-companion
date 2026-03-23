@@ -1,0 +1,133 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 5,200
+| crecla = Elephant
+| school = Balance
+| startpips = 4
+| powerpips = Yes
+| critical =
+72;
+
+| criticalblock =
+38;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Zafaria
+| location = Stone Town
+| subloc1 = Kasbah of Zanj
+| descrip =
+This Malevolent Black Tusk Shaman controls {{Link|Creature|Malduit the Devastator}} in this tower, and is required as part of Necromancers' Quest, Bad Schooling, for their Level 75 Minion.
+*This Mind Robber is not repeatable.
+
+| speech =
+:''"You managed to defeat the test of Malduit the Devastator? Hurmph. I'll have to give you a real education, myself!"
+
+| spellnotes =
+
+| casts =
+Conviction;
+Vengeance;
+Elemental Shield;
+Spirit Shield;
+Weakness;
+Balanceblade;
+Elemental Blade;
+Hex;
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Ra;
+Judgement;
+
+| quests =
+Bad Schooling;
+
+| gold =
+53 - 72;
+
+| hats =
+
+| robes =
+Bad Storm Armor;
+Cold River Cloak;
+Honor Bound Surcoat*F2;
+Irontrunk Cloak of Dreams*F3*WMV;
+Robes of the Silent Hunter;
+Shaman's Storm Sky Cloak;
+Tunic of Nature's Wrath;
+Windbreaker of Nodor;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Centaur;
+Colossus;
+Earthquake;
+Hydra*F2;
+Minotaur;
+Phoenix;
+Spectral Blast*F2;
+Stormzilla*F2;
+Triton;
+
+| reagents =
+Black Lotus;
+Brass;
+Cat Tail;
+Deep Mushroom*F2;
+Frost Flower*F2;
+Lava Lily;
+Ore;
+Parchment;
+Pearl;
+Steel;
+Stone Block;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

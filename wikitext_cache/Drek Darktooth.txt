@@ -1,0 +1,172 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 720
+| crecla = Giant
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Death;
+
+| incresist =
+60% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Diseased Wildclaw;
+
+| world = Grizzleheim
+| location = Vigrid Roughland
+| subloc1 = Drek's Cave
+| descrip =
+Drek Darktooth is a Death Troll that makes his home in a cave in Vigrid Roughland's {{Link|Location|Boiling Fields}}.  When Wizards seek help from the Grendel wizard named {{Link|NPC|Bolthorn}} to seek a remedy for the enchantment placed upon Ivar Andersson, a sample of Drek's Slime is one of three items that Bolthorn requires Wizards to get in exchange for his help.
+
+*Two additional Diseased Wildclaws will appear if more than two Wizards are present.
+
+| speech =
+:''"Guh huh huh... Drek's gonna smash ya into puddin'... send ya home cryin' to yer mudder!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Myth Damage per Pip
+
+| casts =
+Spirit Armor;
+Death Shield;
+Lifeblade;
+Life Trap;
+Imp;
+Leprechaun;
+Nature's Wrath;
+Seraph;
+Cyclops;
+Storm Shark;
+Sandstorm;
+
+| quests =
+Grendel's List;
+
+| gold =
+41 - 71;
+
+| hats =
+Circlet of Fortune;
+Coif of the Inferno*F11*WMV;
+Coif of Veracity;
+Cowl of Winterbloom;
+Crown of Achievement*F3*WMV;
+Firekeeper's Mantle;
+Hat of Consequence*F2*WMV;
+Headgear of the Haze*F2*WMV;
+Helm of Determination;
+
+| robes =
+Coat of Forethought*F2*WMV;
+Drape of the White Squall*F2;
+Glacial Longcoat*F2*WMV;
+Igneous Robe;
+Jerkin of Brio*F2*WMV;
+Raiment of the Lifespring*F2*WMV;
+Robe of Elegies*F2*WMV;
+Tunic of Quietus;
+Vestment of Serenity*F2*WMV;
+Vestment of Yesteryear;
+
+| boots =
+Arctic Footgear*F9*WMV;
+Footguards of Consideration*F2*WMV;
+Indefatigable Striders;
+Woodland Waders*F17*WMV;
+
+| athames =
+Claw of the Valiant*F11*WMV;
+Deathwatch Dagger*F10*WMV;
+Glyphcarver*F2*WMV;
+
+| amulets =
+
+| rings =
+Band of the Answer;
+Seal of Composure*F10*WMV;
+Seal of the Tundra*F2*WMV;
+Thane's Circlet*F3*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Black Mantle*F2*WMV;
+Cloak;
+Cyclops;
+Ice Trap;
+Monstrous;
+Spirit Armor;
+Storm Trap;
+Troll*F4*WMV;
+Vampire;
+
+| reagents =
+Copper*F3*WMV;
+Iron*F8*WMV;
+Leather Straps*F2*WMV;
+Nickel;
+Pyrite*F5*WMV;
+Spider Silk*F4*WMV;
+
+| spellements =
+
+| snacks =
+Cherry Pie*F3*WMV;
+Cracker;
+Funnel Cake*F5*WMV;
+Glowing Rock Candy*F4*WMV;
+Green Grapes*F2*WMV;
+Ice Cream*F2*WMV;
+Meat Soup*F4*WMV;
+PBJ Sandwich*F3*WMV;
+Tasty Biscuit*F6*WMV;
+
+| jewels =
+Blood Bat Peridot;
+Bomber Opal;
+Cracked Damage Jade +4;
+Cracked Damage Opal +1;
+Cracked Defense Jade +12;
+Cracked Defense Onyx +12;
+Cracked Defense Opal +4*F2*WMV;
+Cracked Defense Ruby +12;
+Dark Sprite Onyx*F2*WMV;
+Frost Beetle Sapphire;
+Huge Energy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Couch Potatoes*CR;
+Laugh-O-Dil*F3*WMV;
+Stinkweed*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

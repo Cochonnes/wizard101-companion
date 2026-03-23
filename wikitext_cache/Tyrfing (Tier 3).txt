@@ -1,0 +1,192 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 8,000
+| crecla = Grendel
+| school = Myth
+| masteries =
+Death;
+
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+25% Storm, Life;
+
+| incresist =
+30% Death;
+60% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Grendel Cracknail (Tier 3);
+Grendel Ransacker (Tier 3);
+Grendel Scavenger (Tier 3);
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 3)
+| descrip =
+
+| speech =
+:''"Has the weak-kneed Jarl sent you here, into the bowels of the earth?  I have turned the thane's longhall into a house of hatred!  Taste sorrow and shame!  Long will be the season of your suffering!"''
+
+| cheatnotes =
+*Upon killing each of his Minions a spell triggers.
+**{{Icon|Damage}} Defeating the {{Link|Creature|Grendel Ransacker (Tier 3)}} causes him to interrupt cast a '''300 + 300''' version of {{Link|Spell|Deer Knight}}.
+**{{Icon|Stun}} Defeating the {{Link|Creature|Grendel Scavenger (Tier 3)}} causes him to interrupt cast a {{Link|Spell|Blinding Light}}.
+**{{Icon|Stun}} Defeating the {{Link|Creature|Grendel Cracknail (Tier 3)}} causes him to interrupt cast a {{Link|Spell|Blinding Light}}.
+
+{{Icon|Minion}} '''Minion Cheat Cycle''' (Resets every 3 {{Icon|Round}})
+*{{Icon|Shield}} His [[Creature:Grendel Ransacker (Tier 3)|Grendel Ransacker]] Minion casts a {{Link|Spell|Tower Shield (Sun -65%)}}, starting on Round 1.
+*{{Icon|Blade}} His [[Creature:Grendel Cracknail (Tier 3)|Grendel Cracknail]] Minion casts a {{Link|TreasureCard|Dragonblade (Sun +40%)}}, starting on Round 2.
+*{{Icon|Healing}} His [[Creature:Grendel Scavenger (Tier 3)|Grendel Scavenger]] Minion casts a {{Link|Spell|Sprite (100+300)}}, starting on Round 3.
+
+| spellnotes =
+
+| casts =
+Infallible;
+Vengeance;
+Mythblade;
+Spirit Blade (+25%);
+Curse (+25%);
+Feint;
+Blinding Light;
+Earthquake;
+Humongofrog (400-500);
+Orthrus (785);
+Natural Attack (Myth 140-1835);
+Deer Knight;
+Death Helephant (Death);
+Skeletal Pirate;
+Wraith (575);
+
+| quests =
+Hall of the Bear;
+
+| gold =
+62 - 217;
+
+| hats =
+Raven Helm of Unkindness (Level 50+)*CR;
+
+| robes =
+Armor of Many Winters (Level 50+)*CR;
+Ravenking's Battle Story Armor (Level 40+)*CR;
+
+| boots =
+Unkind Winter Boots (Level 50+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Bloodvine Shield;
+Decorative Basket;
+Hanging Lantern (Winterbane Hall);
+Hatchet;
+Lantern Post;
+Minor Runestone*F2;
+Pitchfork;
+Small Wheelbarrow;
+Square Waterbucket;
+Standing Sconce;
+Tree Lantern;
+Wood-Carven Stool;
+Wooden Barrow;
+Wooden Mallet;
+Wooden Rake;
+Wooden Trough;
+Wooden Wheelbarrow; 
+
+| cards =
+Blizzard;
+Colossus;
+Crow;
+Evil Snowman;
+Freeze;
+Frost Beetle;
+Frost Giant;
+Harvest Lord;
+Icebird;
+Phoenix;
+Rebirth;
+Satyr;
+Skeletal Dragon;
+Snow Angel;
+Storm Bird*F2;
+Sunbird;
+Thunderbird;
+Woolly Mammoth*F2;
+
+| reagents =
+Acorn;
+Blood Moss;
+Cobalt;
+Fossil;
+Frost Flower;
+Lead;
+Mist Wood;
+Nickel;
+Nightshade;
+Ore;
+Red Mandrake;
+Sandstone;
+Stone Block*F3;
+
+| spellements =
+
+| snacks =
+Bad Honeyed Dates;
+Beetle Cream Soda;
+Cranberry Frog*F2;
+Drumstick;
+Fried Worms;
+Frozen Snails;
+Lemon Daisy;
+Peppercorn;
+Pollen Bombs;
+Salmonberry*F2;
+Simple Sugar Pop;
+Spicy Drumstick*F2;
+Wheat Cracker; 
+
+| jewels =
+Blemished Health Opal +39;
+Blemished Health Opal +40;
+
+| pins =
+
+| pets =
+
+| seeds =
+Evil Snow Peas;
+Snow Apples;
+White Desparagus;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

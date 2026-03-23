@@ -1,0 +1,186 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,280
+| crecla = Golem
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions = 
+O'Leary Scurrier;
+Scrounger;
+
+| world = Marleybone
+| location = The Ironworks
+| subloc1 = Hooder's Factory
+| descrip =
+Doing battle with Old Smokey used to be an obligatory encounter in {{Link|Location|Counterweight East}} before he was removed from that Location.<br/>
+Now this is an optional encounter in ''The Ironworks'' in ''Hooder's Factory''. His Minions will be a mix of those listed.
+
+| speech = 
+
+| monstrology =
+{{Monstrology Info
+| tome world = Marleybone
+| tome description =
+He's been known to hang around with bandits.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Myth Shield;
+Weakness;
+Stormblade;
+Storm Trap;
+Lightning Bats;
+Storm Shark;
+Squall Wyvern;
+Kraken;
+Banshee;
+Sunbird;
+Natural Attack (Fire 100x);
+
+| quests =
+
+| gold =
+32 - 48;
+
+| hats =
+Cowl of Diplomacy;
+Dandy Hat;
+Grandiose Headwraps;
+Headwrap of the Affected;
+Old Smokey's Formal Cap*F2*WMV;
+Old Smokey's Hat*F2;
+Old Smokey's Noble Hat;
+Old Smokey's Proficient Hat*F2*WMV;
+Smooth Spun Hat;
+
+| robes =
+Debonair Garments;
+Distinguished Robe;
+Distressing Garment;
+Enticing Robe*F2*WMV;
+Old Smokey's Vestment*F2;
+Robe of the Aristocrat;
+Smokey's Cultured Cloak*F2*WMV;
+Smokey's Genteel Vest;
+Smokey's Pompous Cloak*F2*WMV;
+Smokey's Robe of Integrity;
+Urbane Robe*F2;
+Vestment of Fright;
+
+| boots =
+Boots of Heartache;
+Distinct Slippers;
+Jolting Boots;
+Old Smokey's Boots;
+Old Smokey's Footwraps*F2;
+Sandals of Dedication;
+Shoes of Certainty;
+Shoes of Humanity;
+Smokey's Emotional Shoes*F3;
+Smokey's Sandals of Clarity*F2*WMV;
+
+| athames =
+Dirk of Nobles*F2*WMV;
+Old Smokey's Dagger*F2*WMV;
+Power Enfused Blade*F3*WMV;
+Smokey's Clever Dagger*F3*WMV;
+Smokey's Pompous Dagger;
+
+| amulets =
+Old Smokey's Froggy Loop*F2*WMV;
+
+| rings =
+Old Smokey's Band;
+Smokey's Intense Band*F2*WMV;
+
+| wands =
+Smokey's Staff of the Sun*F2*WMV;
+
+| decks =
+
+| items =
+Marleybone Theme 1*F2*WMV;
+Marleybonian Street Sign*F2*WMV;
+Open Furnace;
+
+| cards =
+Giant;
+Sandstorm;
+Satyr;
+
+| reagents =
+Bronze Gear*F2;
+Bone*F3*WMV;
+Copper;
+Iron;
+Lead;
+Nickel;
+Pyrite;
+Scrap Iron;
+Tin;
+
+| spellements = 
+
+| snacks =
+Caramel Popcorn*F2*WMV;
+Gummy Bloodbat;
+Medium Fish;
+Redskin Peanut*F2;
+Stinky Cheese*F2;
+Wheat Cracker;
+
+| jewels =
+Banshee Onyx;
+Chipped Damage Sapphire +7;
+Chipped Defense Opal +8;
+Cracked Damage Opal +3;
+Effective Opal;
+Flawed Damage Opal +5;
+Flawed Health Opal +29;
+Flawed Health Opal +30*F2;
+Sprite Jade;
+Storm Shark Amethyst;
+
+| pins = 
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,95 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 19,360
+| crecla = Wyrm
+| school = Myth
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+67%;
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Pendragon Rematch
+| descrip =
+Minion to {{Link|Creature|Pendragon (Standard)}}.
+
+| speech =
+
+| cheatnotes =
+
+| spellnotes =
+*Casts a version of Orthrus that deals '''700''' Myth Damage.
+
+| casts =
+Bladestorm (+25%);
+Mass Myth Trap;
+Mass Hex;
+Humongofrog (Tier 5a);
+Morganthe's Deceit;
+Orthrus;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Black Dragon
+
+}}

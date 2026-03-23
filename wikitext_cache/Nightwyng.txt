@@ -1,0 +1,291 @@
+{{Stub|which version of the '''Mutate''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 7,080
+| crecla = Alphoi
+| school = Shadow
+| school2 = Storm
+| cheats = Yes
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+110 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+7%;
+
+| outboost =
+70%;
+
+| incboost =
+10% Myth;
+
+| incresist =
+50% Storm, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Corrupted Acolyte;
+
+| petname = 
+| petbreed = Deathbat
+| world = Empyrea
+| location = Zanadu
+| subloc1 = Aethyrium
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"For the Bat!"'' - If a Wizard joins the battle after the first Round, Nightwyng will cast a version of {{Link|Spell|Insane Bolt}} that deals '''1,000''' Moon Damage on the Wizard.
+*{{Icon|Shadow Pip}} ''"I have trained under the Bat, a Child of Grandfather Spider, I know more of Shadow Magic than you can imagine, can cast spells you've never seen, Behold my power!!!"'' - When Nightwyng gains a Shadow Pip, he will attempt to cast {{Link|Spell|Infinite Shadow}}, which always fizzles.
+**''"Aw, nuts!"'' - After Nightwyng fizzles, he'll say this and remove the Shadow Pip from himself.
+**''"This time I'll get it! BAM! POW! ZOWIE!"'' - Nightwyng will state this every other attempt to cast Infinite Shadow after his first.
+*{{Icon|Charm}} ''"Holy ineffectual Wizard buffs!"'' - Soemtimes, if a Wizard casts a [[:Category:Charm Spells|Charm]], Nightwyng will interrupt-cast {{Link|Spell|Steal Charm}} on the caster.
+**Damage Global Spells will trigger this cheat.
+**All Ally Charms will only remove from the caster.
+*{{Icon|Curse}} ''"You can't trap a disciple of the Bat"'' - Sometimes, if a Harmful Charm is cast on Nightwyng, he will interrupt-cast {{Link|Spell|Cleanse Charm}} on himself.
+
+| spellnotes =
+His Pet will cast Healing Current.
+
+| casts =
+Flawless;
+Frenzy;
+Healing Current;
+Stormblade (+30%);
+Double Cleanse Charm;
+Queen Calypso;
+Wild Bolt (15-150-1,150);
+Natural Attack (Storm 125-250-375, 65%);
+Catch of the Day;
+Storm Lord (775);
+Sirens (965);
+Storm Owl;
+
+| quests =
+Waiting in the Sky;
+It Really Is a Silly Name;
+
+| gold =
+275 - 474;
+
+| hats =
+Cabal Schism Hood;
+Cabalist Chaotic Hood;
+Cabalist Cleansing Hood;
+Cabalist Hood of the First;
+Cabalist Hood of Vengeance;
+
+
+| robes =
+Cabal Schism Cloak;
+Interstellar Explorer's Uniform;
+Interstellar Officer's Uniform;
+
+| boots =
+Cabalist Chaotic Stompers;
+Cabalist Cleansing Stompers;
+Cabalist Stompers of the First;
+Cabalist Stomps of Vengeance;
+Interstellar Navigator's Boots;
+Medic's Interstellar Trekkers;
+
+| athames =
+Cabalist Dagger of the First;
+Interstellar Medic's Scalpel;
+
+| amulets =
+Cabalist Cleansing Amulet;
+Interstellar Engineer's Charm;
+Interstellar Medic's Charm;
+Nostalgic Cabal Amulet;
+
+| rings =
+
+| wands =
+
+| decks =
+Interstellar Delegate's Deck;
+Interstellar Explorer's Deck;
+Interstellar Hero's Deck*F3;
+Interstellar Navigator's Deck;
+Interstellar Warrior's Deck;
+
+| items =
+Dwarven Book Case;
+Dwarven Dinner Table*F2*WMV;
+Dwarven File*F2;
+Empyrea Brain Theme 2;
+Empyrea Brain Theme 3;
+Empyrea Dance Hall Theme;
+Empyrea Finale Combat Theme*F2;
+Empyrea Khan Theme*F3*WMV;
+Empyrea Lava Lock Theme;
+Empyrea Leisure Dome Theme*F3;
+Empyrea Outer Athanor Theme*F2;
+Empyrea Sepidious Combat Theme*F4;
+Empyrea Sepidious Theme;
+Empyrea Zanadu Combat Theme*F2;
+Empyrea Zanadu Theme;
+Fire Dwarf Bed;
+Fire Dwarf Chair;
+Ice Dwarf Bed;
+Ice Dwarf Chair*F4*WMV;
+Pirate Party Barge Theme*F2;
+
+| cards =
+Brilliant Light;
+Dream Shield*F3*WMV;
+Ether Shield;
+Galvanic Field;
+Link;
+Mass Death Prism;
+Mutate Banshee (Sun);
+Mutate Elf (Storm);
+Mutate Helephant;
+Mutate Snowman (Storm);
+Mutate Swarm (Ice);
+Sirens;
+Storm Shield;
+
+| reagents =
+Ancient Scroll*F3;
+Antique Coins;
+Black Pearl*F2;
+Blood Moss;
+Brass*F2;
+Bronze Gear*F3*WMV;
+Cobalt*F2;
+Ectoplasm*F3*WMV;
+Flying Squid Ink*F15*WMV;
+Nickel*F2;
+Scales*F2;
+Spring*F3*WMV;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate;
+BBQ Drumstick;
+Beast Wellington;
+Cherry Pie*F2;
+Decimatoes*F2;
+Discord Grape Jelly;
+Drumstick*F2;
+Eye Candy*F4*WMV;
+Fern Jelly*F2;
+Glowing Taffy*F2;
+Hot Cross Buns*F3;
+Pizza*F5*WMV;
+Rock and Roll Candy*F3*WMV;
+Satyr Chow;
+Sprinkle Cupcake*F2;
+Squash;
+Veggie Juice*F2*WMV;
+Wheat Cracker*F3*WMV;
+
+| jewels =
+Balance-Giver Citrine;
+Balance-Off Citrine;
+Death-Eye Onyx;
+Fire-Dealer Ruby;
+Healer Opal;
+Ice-Dealer Sapphire*F2;
+Life-Giver Jade;
+Life-Shot Jade;
+Lustrous Blocking Ruby +13;
+Lustrous Damage Ruby +23;
+Magnify Opal;
+Renew Opal;
+Shiny Blocking Citrine +15;
+Shiny Blocking Ruby +15;
+Shiny Blocking Sapphire +16;
+Shiny Critical Amethyst +16;
+Shiny Damage Sapphire +26;
+Shiny Defense Jade +49;
+Shiny Defense Ruby +51;
+Shiny Health Opal +111;
+Shiny Health Opal +112*F2;
+Shiny Health Opal +113;
+Shiny Health Opal +114*F3*WMV;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+Shiny Mending Opal +6%;
+Sparkling Blocking Citrine +17;
+Sparkling Critical Amethyst +17;
+Sparkling Critical Onyx +17;
+Sparkling Defense Amethyst +53;
+Sparkling Defense Hematite +53;
+Sparkling Defense Onyx +54;
+Sparkling Defense Peridot +54;
+Sparkling Defense Sapphire +53*F2*WMV;
+Sparkling Health Opal +116;
+Sparkling Health Opal +118;
+Sparkling Health Opal +119;
+Sparkling Mana Opal +49;
+Storm-Giver Amethyst;
+Stun Recalcitrant Opal;
+
+| pins =
+
+| pets =
+Blue Globulin*F2;
+
+| seeds =
+Angel Oak*F2;
+Angora Bunny Ears*F3*WMV;
+Baby Carrots;
+Bell Pepper*F3*WMV;
+Blue Huckleberries;
+Boiled Peanuts*F5*WMV;
+Boom Shroom;
+Boon Tree*CR;
+Bread Fruit Bush*F4*WMV;
+Burning Snap Dragon;
+Cornbread Fruit Bush*F3*WMV;
+Couch Potatoes*CR*F5*WMV;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Evil Snow Peas;
+Fiery Boom Shroom;
+Fish on a Vine*F2;
+Golden Couch Potatoes*F2*WMV;
+Goose Tree;
+Grapes of Wrath*CR*F3*WMV;
+Honey Sickle;
+Ivy League*CR*F3;
+Laugh-O-Dil;
+Missile Toe;
+Ninja Fig*CR;
+Orange Dandelion;
+Purple Bell Pepper*F2;
+Purple Grapes of Wrath*F2;
+Queen Crape Myrtle*F3;
+Red Couch Potatoes*F4*WMV;
+Red Grapes of Wrath;
+Red Huckleberries;
+Snow Apples;
+Trumpet Vine;
+Ultra Helephant Ears*F2;
+White Desparagus;
+White Laugh-O-Dil;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

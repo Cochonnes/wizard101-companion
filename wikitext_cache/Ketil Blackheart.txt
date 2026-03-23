@@ -1,0 +1,205 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 2,065
+| crecla = Raven
+| school = Storm
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Darkwing Hewer;
+
+| world = Grizzleheim
+| location = Sudrilund
+| subloc1 = Ketil Blackheart's Cave
+| descrip =
+Two additional Darkwing Hewer Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Hold! I am Sudri's henchman, and he has set me to block and guard against meddlers like you! Without a shovel, you cannot clear the path, and I will thwart your efforts to pass. The snow has been specially piled to cause an avalanche if it is meddled with, and only I know how to clear it!"''
+
+| spellnotes =
+
+| casts =
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Tempest;
+Natural Attack (Storm 125x, 70%);
+
+| quests =
+Su Su Sudrilund;
+
+| gold =
+40 - 80;
+
+| hats =
+Barbaric Helm*F3*WMV;
+Blustering Bear Hat;
+Hearty Bear Hat;
+Horned Helm of Bravery;
+Horned Helm of the Mighty*F2;
+
+| robes =
+Burnt Coat;
+Chill-Kissed Coat;
+Jerkin of the Great Bear;
+Jerkin of the Howling Bear;
+
+| boots =
+Barbarian's Bold Boots;
+Barbarian's Daring Boots;
+Biting Bear Boots*F3*WMV;
+Growling Bear Boots*F4*WMV;
+Slashing Bear Boots;
+Snarling Bear Boots;
+
+| athames =
+Wolf's Amethyst Claw*F2*WMV;
+
+| amulets =
+Wyrm's Blessing Charm*F3;
+
+| rings =
+Ring of Brother Wolf*F3*WMV;
+Ring of Sister Wolf*F4;
+Ring of the Hunting Wolf;
+Ring of the Ravenous Wolf;
+Ring of the Wolf's Song*F3*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Banshee;
+Enfeeble (-3);
+Evil Snowman;
+Humongofrog;
+Insane Bolt*F4*WMV;
+Locust Swarm;
+Meteor Strike;
+Shatter (2 Pip)*F4;
+Sprite;
+Sunbird;
+Supercharge*F3*WMV;
+Talos*F4*WMV;
+Weakness;
+
+| reagents =
+Bone*F2*WMV;
+Brass*F2;
+Bronze Gear*F4*WMV;
+Cobalt;
+Copper;
+Lead;
+Nickel;
+Steel;
+Tin;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Cauliflowers;
+Delicious Cookie;
+Flaming Soup;
+Glowing Star Fruit*F2;
+Glowing Taffy;
+Golden Grapes;
+Gummy Humongofrog*F2*WMV;
+Shiny Tomato;
+Spicy Drumstick*F2*WMV;
+Strawberry Cupcake;
+Submarine Sandwich*F2*WMV;
+
+| jewels =
+Aura Crush Citrine;
+Black Widow Onyx;
+Blade of Ice Sapphire;
+Boss Toad Peridot;
+Dull Accurate Amethyst +6%;
+Dull Accurate Onyx +6%;
+Dull Critical Opal +1;
+Dull Defense Jade +27;
+Dull Piercing Amethyst +2%;
+Dull Piercing Citrine +2%;
+Dull Piercing Ruby +2%;
+Feinting Spell Onyx;
+Huge Rally Opal;
+Mass Death Prism Onyx;
+Mass Fire Prism Ruby;
+Mass Ice Prism Sapphire;
+Mass Life Prism Jade*F3;
+Mass Myth Prism Peridot;
+Mass Storm Prism Amethyst;
+Mend Talent Opal;
+Monstrous Talent Opal;
+Myth-Giver Peridot;
+Ninja Pig Opal;
+Plaguebringer Onyx;
+Plain Blocking Amethyst +6;
+Plain Blocking Citrine +6;
+Plain Blocking Jade +6;
+Plain Blocking Onyx +6;
+Plain Blocking Ruby +6;
+Plain Critical Peridot +5;
+Plain Damage Amethyst +15;
+Plain Damage Citrine +15;
+Plain Damage Ruby +15;
+Plain Defense Opal +16;
+Plain PIP Opal +6%;
+Power-Taker Ruby;
+Pyrosaurus Rex Ruby;
+Reshuffle Citrine;
+Spartan Jade;
+Sprite Time Jade;
+Ultra Rally Opal;
+The Deer Knight Rises Onyx;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Evil Snow Peas*F2*WMV;
+Helephant Ears;
+Rye Bread Fruit Bush;
+Snap Dragon;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

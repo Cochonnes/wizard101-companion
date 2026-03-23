@@ -1,0 +1,190 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 11,600
+| crecla = Samoorai
+| school = Storm
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Myth, Life;
+
+| incresist =
+40% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Kensaburo (Tier 5);
+Hisamoto (Tier 5);
+Takazane (Tier 5);
+
+| world = Housing Instance
+| location = Midnight Sun Pagoda
+| subloc1 = 
+| descrip =
+
+| speech =
+:'''Student:''' ''"Sensei, we will follow you to the ends of the Spiral... but your path leads to dark places."''
+:'''Yoshinobu:''' ''"Our new allegiance with Kaizoku will bring power to our clan.  Do not worry!  With my best students at my side we are invincible!"''
+
+| cheatnotes =
+*{{Icon|Round}} During the first Round, the following Bosses will cast the following Spells using their turn but not using Pips:
+**{{Icon|Curse}} Yoshinobu will cast Mass Infection.
+**{{Icon|Shield}} Hisamoto will cast {{Link|Spell|Legion Shield}}
+***Hisamoto will use his turn to cast Legion Shield every three Rounds after the first Round.
+
+*{{Icon|Damage}} ''"Chain Reaction!"'' - If a Wizard damages Yoshinobu with a Spell that costs at least 8 Pips, then the following cheats will occur:
+**{{Icon|Curse}} Yoshinobu interrupt-casts a '''-60%''' version of {{Link|Spell|Smoke Screen}}.
+**{{Icon|Healing}} Hisamoto interrupt-casts a version of {{Link|Spell|Rebirth}} that restores '''850''' Health to and applies a '''350''' Damage Absorption Ward on allies.
+**{{Icon|Damage}} Kensaburo interrupt-casts a version of {{Link|Spell|Sirens}} that deals '''100''' Storm Damage to, removes 2 helpful Charms from, and places a '''+50%''' universal Trap on all enemies.
+***The universal Trap has the appearance of a harmful Accuracy Charm.
+
+*{{Icon|Damage}} ''"The Chain Continues!"'' - If a Wizard damages Yoshinobu with a Spell that costs at least 8 Pips after Hisamoto is defeated, then the following cheats will occur:
+**If Kensaburo is not defeated:
+***{{Icon|Damage}} Yoshinobu interrupt-casts a version of {{Link|Spell|Snow Angel}} that deals '''100''' Ice Damage and 660 Ice Damage over 3 Rounds.
+***{{Icon|Healing}} Kensaburo individually interrupt-casts a version of {{Link|Spell|Minor Blessing}} that restores '''200''' Health on each Samoorai.
+**If Kensaburo is defeated:
+***{{Icon|Damage}} Yoshinobu interrupt-casts a version of Snow Angel that deals '''100''' Ice Damage and '''660''' Ice Damage over 3 Rounds, and a version of {{Link|Spell|Rain of Fire}} that deals '''300''' Fire Damage and '''800''' Fire Damage over 3 Rounds.
+
+| spellnotes =
+
+| casts =
+Fortify;
+Amplify;
+Mass Infection;
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Sirens;
+Tempest;
+Natural Attack (Storm 85x, 90%);
+
+| quests =
+Journey Into Midnight;
+ 
+| gold =
+58 - 215;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Crossed Naginata Spears*F2;
+Iron Tea Pot;
+Moodha Bust;
+MooShu Combat Theme*F2;
+Oni Bobblehead;
+Tatami Floor Mat;
+
+| cards =
+Aiuchi;
+Amplify;
+Berserk*F2;
+Colossal*F2;
+Efreet;
+Extraordinary*F2;
+Forest Lord;
+Fortify;
+Infallible*F3;
+Kakeda Painbringer*F2;
+Leviathan;
+Mend*F2;
+Ninja Pigs*F2;
+Orthrus;
+Otomo Fury;
+Power Nova*F2;
+Ra*F2;
+Storm Lord*F3;
+Tamauji;
+Unstoppable*F2;
+Vengeance*F2;
+Yochimo;
+
+| reagents =
+Amethyst;
+Brass;
+Bronze*F2;
+Citrine;
+Cobalt;
+Jade;
+Leather Straps*F2;
+Onyx;
+Peridot;
+Ruby;
+Sapphire;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F2;
+Basil Poodle Noodles;
+Fire Cracker;
+Fire Passion Fruit;
+Flaming Soup;
+Goat Cheese*F2;
+Golden Pizza*F3;
+Golden Squash*F2;
+Hot and Sour Bits;
+Jade Palace Tempura;
+Killer Tomato;
+MooShu Cheddar;
+Taco Town Special;
+
+| jewels =
+Balanceblade Talent Citrine;
+Bullheaded Peridot;
+Clear Damage Jade +19;
+Detonate Ruby;
+
+| pins =
+
+| pets =
+Ninja Pig;
+Yellow Ghost;
+
+| seeds =
+Angel Oak;
+Orange Dandelion;
+Pink Laugh-O-Dil;
+Venus Fly Trap*F2;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,109 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 6,835
+| crecla = Wizard
+| school = Fire
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+Ice;
+
+| incresist =
+Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| petname = Jake
+| petbreed = Raging Bull
+| world = Dragonspyre
+| location = Plaza of Conquests
+| subloc1 = Vulcus' Forge
+| descrip =
+Pyromancers must fight this Boss in order to obtain their Level 118 School Pet, {{Link|Pet|Raging Bull}}.
+
+| speech =
+:''"Who are you? Ignus sent you? Ah. I suppose he wants his precious Empyrian Ore back, eh? I'm afraid there's not much left. Unlike old Ignus, I was able to decipher the ancient Fireblood enchantment. And you're just in time to see what I created with it! Meet the first of many future Raging Bull hatchlings! I call him Jake. He's the perfect living fighting machine! Come see for yourself!"
+
+| spellnotes =
+*This Boss casts a Spell similar to {{Link|ItemCard|Akori Nirini}}.
+*The Raging Bull Pet can cast Smoke Screen, Fireblade, and Choke.
+'''Natural Attack:'''
+*Deals an unknown quantity of Fire Damage.
+
+| casts =
+Glacial Shield (-75%);
+Smoke Screen;
+Fireblade;
+Backdraft (+20%);
+Choke;
+Fire Elf;
+Sunbird;
+Scald;
+Rain of Fire;
+
+| quests =
+Eggs of Rage;
+
+| gold =
+1,750 - 4,479;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Extra Mana Opal;
+Fortify Talent Opal;
+Infector Onyx;
+Medic Opal;
+Sprite Time Jade;
+Tower Shield Sapphire*F2*WMV;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

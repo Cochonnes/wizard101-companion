@@ -1,0 +1,151 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 15,615
+| crecla = Gator
+| school = Ice
+| school2 = Death
+| masteries =
+Balance;
+
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| shadowslots = 2
+| schoolpips =
+Ice;
+Death;
+
+| critical =
+200 Any;
+
+| criticalblock =
+300 Any;
+
+| outpierce =
+14%;
+
+| outboost =
+90%;
+
+| incboost =
+3% Fire, Myth;
+
+| incresist =
+47% Ice, Storm, Life, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gussied-Up Gator (Storm-Life) (Tier 3);
+Gussied-Up Gator (Death-Storm) (Tier 3);
+
+| world = Housing Instance
+| location = Night Mire Gauntlet
+| subloc1 = Night Mire Gauntlet (Tier 3)
+| descrip =
+*As the Boss in this battle, all drops are recorded on this page.
+*An additional {{Link|Creature|Glowbug Zapper (Myth) (Tier 3)}}, {{Link|Creature|Glowbug Zapper (Life) (Tier 3)}}, {{Link|Creature|Glowbug Zapper (Death) (Tier 3)}} or {{Link|Creature|Glowbug Zapper (Balance) (Tier 3)}} appears when more than two Wizards are present.
+
+| speech =
+:''"Ah, a human. I see my Glowbugs failed to secure you as a specimen for my research, as they have so many others... yet you press on through the Mire. You have come, predictably, to protect your scaleless kind's great secret, a gatekeeper at the threshold of magnificence... Too late! Through meticulous calculations and shadowy alchemical mysteries, I have transplanted the greatest traits of humanity into reptiles... Now we, too, HAVE HAIR! For too long reptiles have been brushed aside, cruelly denied the thrill, the invincibility of a Good Hair Day! But no more! No longer shackled to a life of scaly subservience at the heel of humans, now reptiles shall be as my creations... impeccably coiffed! Seize them, my pretties! Hair as remarkable as theirs will usher in a new era of reptile style!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tardiness makes me snippy!"'' - If a Wizard joins after the first Round, Dr. Neaux will cast a Moon Spell to remove 90% max Health on the Wizard and recast {{Link|Spell|Doom and Gloom (Moon)}}.
+*{{Icon|Global}}{{Icon|Health}} ''"Let's see if this grows on you.."'' - On the first Round, Dr. Neaux will cast Doom and Gloom (Moon), and use his turn to cast a 6 Pip Moon Spell, which removes 90% max Health from all Wizards.
+*{{Icon|Health}}{{Icon|Curse}} ''"I do declare: you need more!"'' - At the start of every three Rounds, Dr. Neaux will use a Moon Spell to remove 5% max Health on all Wizards and {{Link|Spell|Mass Infection (Shadow)}}.
+
+| spellnotes =
+
+| casts =
+Empowerment;
+Celestial Intervention (Tier 3b);
+Moon Blade;
+Dragonlance;
+Deer Knight (Tier 3b);
+Vampire (Tier 3b);
+Evil Snowman (Tier 3b);
+Reindeer Knight (Tier 3b);
+Deathly Depths;
+Volcanic Golem;
+Colossus (Tier 3b);
+
+| quests =
+They Came From Night Mire!;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Beastman Hut;
+Beetle Plant*F2;
+Glowing Seashrooms;
+Living Log*F2*WMV;
+Night Mire Swamp Combat Theme;
+Night Mire Swamp Jamboree Theme;
+Minuteman;
+Poison Mushroom;
+Sea Cucumber*F2;
+Sickly Mushroom;
+Tanglebrush;
+Water-Mole Tribal Shield*F3;
+
+| cards =
+
+| reagents =
+Elemental Retriever;
+Hydra Token*F2;
+Potboiler Token*F2;
+Spiritual Retriever*F2;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Balance-Dealer Citrine;
+Big Energy Opal*F2*WMV;
+Blade Flurry Amethyst;
+Death-Dealer Onyx;
+Energy Opal*F2;
+Fire-Dealer Ruby;
+Get Sunbird Ruby;
+Huge Energy Opal*F5;
+Ice-Dealer Sapphire;
+Life-Bringer Jade*F2;
+Mulligan's Shuffle Citrine;
+Myth-Dealer Peridot*F2*WMV;
+Storm-Dealer Amethyst*F2;
+Tower Shield Sapphire;
+Ultra Energy Opal*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

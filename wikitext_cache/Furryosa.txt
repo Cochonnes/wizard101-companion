@@ -1,0 +1,124 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 12,355
+| crecla = Emu Rider
+| school = Storm
+| school2 = Balance
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+Life;
+
+| critical =
+
+| criticalblock =
+415;
+
+| outpierce =
+17%;
+
+| outboost =
+91%;
+
+| incboost =
+30% Myth;
+
+| incresist =
+27% Fire, Ice, Life, Death, Balance, Shadow;
+57% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Air Rider;
+
+| world = Wallaru
+| location = Hope Springs
+| subloc1 = Bank
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"Five, six, we know your tricks."''
+
+| cheatnotes =
+*{{Icon|Aura}} ''"AAAAHHHHHH!"'' - At the start of the first Round, Furryosa casts {{Link|Spell|Quicken}}.
+**Furryosa will recast this Spell at the start of every third Round.
+
+| spellnotes =
+
+| casts =
+Magnify;
+Bladestorm (+25%);
+Elemental Blade;
+Power Current;
+Catch of the Day (Tier 3b);
+Tree of Strife (Tier 3b);
+Kraken (Tier 3b);
+Spectral Blast (Tier 3b);
+Hydra (Tier 3b);
+Lernaean Hydra;
+
+| quests =
+Bank Run;
+
+| gold =
+23 - 50;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Ornate Grand Shelf*CR*F7;
+
+| cards =
+Avenging Fossil;
+Basilisk;
+Ra;
+Spinysaur;
+Storm Owl;
+
+| reagents =
+Amber Dust;
+Draconium;
+Mithril;
+
+| spellements =
+
+| snacks =
+Dr. Jalapeno;
+Kiwi Fruit;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

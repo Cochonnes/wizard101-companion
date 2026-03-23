@@ -1,0 +1,244 @@
+{{Stub|which version of the Enfeeble Treasure Card this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 15,600
+| crecla = Moth
+| crecla2 = Insect
+| school = Storm
+| startpips = 5
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Sky Screamer;
+
+| world = Khrysalis
+| location = Tyrian Gorge
+| subloc1 = Melanos Tower
+| descrip = Actias receives two additional Scorpion Grotesque Minions if more than two Wizards are present.
+
+| speech =
+:''"Who let you up here?  Those Bane Tails let me down, didn't they?  I'm just going to have to rock you like a hurricane!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+Has nothing to do with the Night Orb guarded by Archera DeathsHead. But he really wishes he did.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Lightning Strike;
+Stormblade;
+Storm Trap;
+Windstorm;
+Enfeeble;
+Natural Attack (Storm 195-335-475);
+Storm Dragon;
+Sirens;
+Storm Owl;
+Tempest (85);
+
+| quests =
+Blackout;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*7 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+| gold =
+136 - 308;
+
+| hats =
+Burrower Coronet of Strife*F3*WMV;
+Burrower's Barbed Helmet;
+Burrower's Rainstorm Cap;
+Digger's Helm of Symmetry*F4*WMV;
+Kermes Fire Miner's Helmet;
+Mantis Cover of Frostfall;
+
+| robes =
+Battle-Worn Burrower Armor;
+Mantis Plate of Frostfall;
+
+| boots =
+Flame Legs Coalwalkers;
+
+| athames =
+Sky Terror's Ghastly Razor*F3;
+
+| amulets =
+Mouse Revenant's Talisman*F3;
+Stinger's Carcanet*F2;
+ToeBiter's Cursed Relic;
+
+| rings =
+Digger Captain's Ring*F4*WMV;
+Stone of the Huntress*F3*WMV;
+
+| wands =
+Fang of the Burning Spider;
+Lance of Chill Ichor;
+Lance of the Umbra Legion;
+Venomtail's Bite*F3;
+
+| decks =
+Barbed Case of Stratagem*F3;
+Bumbler's Sleetfall Pack*F3*WMV;
+Case of Engulfing Flames*F5;
+Lightning Rider's Deck*F2*WMV;
+
+| items =
+Khrysalis Bastion Theme*F2;
+Khrysalis Thrives Theme*F2;
+
+| cards =
+Clockwork Spider;
+Disarm;
+Doom and Gloom;
+Enfeeble;
+Fire Beetle;
+Hooligan;
+Locust Swarm*F2;
+Lucius McTavish;
+O'Leary Charlatan (Storm);
+Patches O'Leary;
+Sprite Swarm (40+360)*F2*WMV;
+
+| reagents =
+Black Lotus;
+Blood Moss*F2;
+Bone*F5*WMV;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F5*WMV;
+Draconium;
+Fire Blossom*F4*WMV;
+Fossil;
+Golden Pearl;
+Iron*F3;
+Lava Lily*F2*WMV;
+Mist Wood*F4*WMV;
+Nickel;
+Ore*F5*WMV;
+Orichalcum;
+Pyrite;
+Red Mandrake*F5*WMV;
+Stone Block*F3*WMV;
+Sunstone*F2*WMV;
+Tungsten;
+Turquoise*F3*WMV;
+
+| spellements =
+Avenging Fossil*BR*F2*WMV;
+Basilisk*BR;
+Celestial Calendar*BR*F2;
+Chimera*BR*F2;
+Dr. Von's Monster*BR*F2;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR*F2;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR;
+Lord of Winter*BR*F2;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR*F2;
+Woolly Mammoth*BR;
+
+| snacks =
+Cauliflowers;
+Dr. Jalapeno*F3;
+Flaming Soup;
+Flapjacks;
+Glowing Dragon Fruit;
+Goat Cheese;
+Golden Apple*F4*WMV;
+Golden Grapes*F3*WMV;
+Gummy Bees;
+Gummy Humongofrog;
+Honeycombs;
+HoneyDon't Melon;
+Uni-Corn;
+
+| jewels =
+Baffle Opal;
+Cracked Defense Jade +12;
+Fire Elemental Ruby;
+Imp Jade;
+Mega-Leech Opal;
+Polished Defense Amethyst +42;
+Ultra Boost Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Blue Huckleberries;
+Burning Snap Dragon;
+Deadly Ninja Fig;
+Fiery Boom Shroom;
+Frozen Fly Trap;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

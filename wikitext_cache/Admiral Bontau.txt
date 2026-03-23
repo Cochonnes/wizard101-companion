@@ -1,0 +1,314 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 9,800
+| crecla = Conscript
+| crecla2 = Undead
+| school = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+5%;
+
+| outboost =
+40%;
+
+| incboost =
+15% Fire, Life;
+
+| incresist =
+30% Ice, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Ghulture (Myth);
+
+| petname = Midnight
+| petbreed = Desert Hawk
+| world = Mirage
+| location = Alkali Barrows
+| descrip =
+Admiral Bontau is a roaming Boss in the Alkali Barrows.  He relies on his Desert Hawk Pet, Midnight, to cast cheats at Wizards.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Mirage
+| tome description =
+Though he was a skilled navigator at sea, Bontau has no sense of direction in the desert. He's wandered for centuries.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Damage}} ''"Midnight, bring them to their knees!"'' - Sometimes, if a Wizard casts a single-target attack at Admiral Bontau, then he will cast Virulent Plague (-45%).
+{{Icon|Pet}}{{Icon|Round}} '''Interrupt Cycle'''
+*''"Midnight, cloud their vision!"'' - During Round 1 (and every 3rd or 4th Round thereafter), Admiral Bontau's Pet will cast a '''-50%''' Death version of Black Mantle on a random Wizard.
+*''"Midnight, weaken that one!"'' - Alternating with the first cheat, Admiral Bontau's Pet casts a Death version of Weakness on a random Wizard.
+
+| spellnotes =
+
+| casts =
+Brace;
+Virulent Plague;
+Weakness;
+Black Mantle;
+Sacrifice (Death);
+Deathblade (+40%);
+Dark Pact (+30%);
+Feint (+75%);
+Ghoul (180);
+Natural Attack (Death 110-220-330, 80%);
+Vampire (375);
+Wraith (575);
+Dr. Von's Monster (900);
+
+| quests =
+
+| gold =
+553 - 726;
+
+| hats =
+Eerem Headwrap of Pulse;
+
+| robes =
+Alkali Armor of Fealty;
+Alkali Wintertide Armor;
+Djinn Vestment of Patience;
+Eerem  Headwrap of Pulse;
+Eerem Raiment of Harmony;
+Eerem Raiment of Menace;
+Nomad's Sandstorm Torboosh;
+Nomad's Torboosh of Tenacity;
+
+| boots =
+Alkali Monsoon Walkers;
+Alkali Walkers of Fealty;
+Alkali Walkers of Vibrancy;
+Alkali Wintertide Walkers;
+Eerem Givehs of Discovery;
+Eerem Givehs of Menace;
+Mongu Givehs of Honor;
+
+| athames =
+Charred Eerem Razor;
+Djinn Khanjar of Wintertide;
+Istanboa Khanjar of Icefall;
+
+| amulets =
+Djinn Amulet of Flux;
+Djinn Amulet of Radiance;
+Eerem Talisman of Clangor;
+Fang Collar of Honor;
+
+| rings =
+Charred Eerem Band;
+Eerem Band of Harmony*F2;
+Fang Loop of Frenzy;
+Fang Loop of Umbrage;
+
+| wands =
+Myriarch Tabarzin of Musing;
+Purrzian Frostdune Bow;
+Scorpion Bow of Frenzy*F2;
+
+| decks =
+Djinn Array of Swells;
+Djinn Array of Vim;
+Eerem Spread of Clangor;
+Gallant Istanboa Array;
+Immaculate Djinn Cards;
+
+| items =
+Mirage Canyon Theme 2;
+Mirage Chronoverge Com Theme;
+Mirage City Combat Theme*F2*WMV;
+Mirage City Tense Theme*F2*WMV;
+Mirage City Theme;
+Mirage Desert Combat Theme;
+Mirage Serpent Theme;
+
+| cards =
+Ashen Bones*F3;
+Bronze Helephant;
+Combustion*F2;
+Counterforce;
+Death Helephant (345-405);
+Fiery Colossus;
+Frostfang*F2;
+Mass Triage*F2*WMV;
+Metalops;
+Mutate Colossus (Fire);
+Namaste;
+Nested Fury;
+Raging Bull;
+Snowball Barrage;
+
+| reagents =
+Aether*F7*WMV;
+Agave Leaves*F5;
+Amber;
+Amber Dust*F6*WMV;
+Ancient Scroll*F4*WMV;
+Antique Coins*F7*WMV;
+Aquamarine*F6;
+Astral Shard*F7*WMV;
+Black Pearl*F5*WMV;
+Blood Moss;
+Braided Vine;
+Brass*F7*WMV;
+Bronze Gear*F2;
+Cobalt*F5*WMV;
+Ectoplasm*F3*WMV;
+Fire Blossom*F5*WMV;
+Golden Pearl*F3;
+Merle's Whisker;
+Mithril*F3*WMV;
+Nickel;
+Orichalcum;
+Scales*F4*WMV;
+Silver*F2;
+Spider Silk*F4*WMV;
+Spring*F4*WMV;
+Stardust;
+Steel*F3;
+Sunstone*F7;
+Tin*F5*WMV;
+Titanium*F4*WMV;
+Tungsten*F5*WMV;
+Turmeric;
+Turquoise*F4;
+Vine*F5*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F2;
+Beetle Cream Soda*F2;
+Chalupacabra*F3;
+Chili Cheese Fries*F4*WMV;
+Chili Peppers;
+Delicious Cookie;
+Eye Candy;
+French Fries;
+Gourmet Yogurt;
+Hard Boiled Beetle Eggs*F3*WMV;
+Hot Cross Buns*F2;
+Large Ice Cream*F3*WMV;
+Mustachios;
+Satyr Chow*F2;
+Ships 'n' Queso;
+Submarine Sandwich*F2;
+
+| jewels =
+Epic Opal;
+Flawless Opal;
+Lustrous Accurate Amethyst +11%*F2*WMV;
+Lustrous Accurate Jade +11%*F3*WMV;
+Lustrous Accurate Onyx +11%*F2;
+Lustrous Accurate Peridot +11%;
+Lustrous Blocking Jade +13;
+Lustrous Blocking Peridot +13*F2*WMV;
+Lustrous Critical Amethyst +13;
+Lustrous Critical Citrine +13;
+Lustrous Critical Jade +13;
+Lustrous Critical Peridot +13;
+Lustrous Critical Ruby +13*F2;
+Lustrous Damage Amethyst +23;
+Lustrous Damage Ruby +23*F2*WMV;
+Lustrous Defense Amethyst +45;
+Lustrous Defense Ruby +45*F3*WMV;
+Lustrous Health Opal +96;
+Lustrous Health Opal +97*F2;
+Lustrous Mana Opal +42;
+Lustrous PIP Opal +10%*F2;
+Radical Opal;
+Shiny Blocking Onyx +16*F2;
+Shiny Critical Jade +16;
+Shiny Damage Jade +26;
+Shiny Defense Hematite +51;
+Shiny Defense Onyx +52*F2;
+Shiny Health Opal +113;
+Shiny Health Opal +114;
+Shiny Mana Opal +46;
+
+| pins =
+
+| pets =
+Desert Hawk*F5*WMV;
+MaCaw*CR;
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak;
+Angora Bunny Ears*F2*WMV;
+Baby Carrots*F7*WMV;
+Bell Pepper*F4*WMV;
+Blue Huckleberries*F3*WMV;
+Boiled Peanuts*F2*WMV;
+Boon Tree*CR;
+Bread Fruit Bush;
+Clockwork Flower;
+Cornbread Fruit Bush*F4*WMV;
+Couch Potatoes*CR*F2;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Evil Magma Peas*CR;
+Face Palm*F2;
+Fickle Pickle*F2*WMV;
+Fiery Boom Shroom;
+Fish on a Vine;
+Fortune Cookie Tree;
+Golden Couch Potatoes*F2*WMV;
+Goose Tree;
+Grapes of Wrath*CR*F2*WMV;
+Green Snow Apples;
+Ivy League*CR*F3;
+King Parsley*CR;
+Melting Cheese Tree;
+Orange Bell Pepper*CR;
+Orange Dandelion*F3;
+Pink Huckleberries*F4*WMV;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Red Couch Potatoes*F3*WMV;
+Red Huckleberries;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Silver Trumpet Vine*CR;
+Snap Dragon;
+Snow Apples;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Sunion*CR;
+Sword Fern*CR;
+Trumpet Vine;
+Venus Fly Trap;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

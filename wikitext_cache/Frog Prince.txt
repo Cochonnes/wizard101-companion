@@ -1,0 +1,299 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 9,920
+| crecla = Humongofrog
+| crecla2 = Frog
+| school = Sun
+| masteries =
+Fire;
+Myth;
+Life;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+197 Any;
+
+| criticalblock =
+237 Any;
+
+| outpierce =
+25%;
+
+| outboost =
+120%;
+
+| incboost =
+5% Ice, Storm, Death;
+
+| incresist =
+70% Fire, Myth, Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Humongishfrog;
+Humongishfrog;
+
+| world = Empyrea
+| location = Northeast Aero Plains
+| subloc1 = Humongishfrog Battlefield
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Trap}} ''"*Noms*"'' - If a Trap is placed on him, he will cheat-cast {{Link|Spell|Cleanse Ward (Shadow, -1)}} to remove one Trap.
+:*{{Link|Spell|Mass Feint (+75%)}} activates cheat.
+:*Multi-Trap Spells, such as {{Link|Spell|Fuel}}, will have only one Trap removed.
+:*This can be avoided with {{Link|Spell|Indemnity}}.
+*{{Icon|Late}} ''"*Croaks*"'' - If a Wizard is late to join the duel, he will cast {{Link|Spell|Medusa (Shadow)}} on the Wizard.
+
+| spellnotes =
+*Casts a protected Sunblade (+35%) and Elemental Blade.
+
+'''Natural Attack:'''
+*Deals 480 Sun Damage for 4 Pips.
+
+| casts =
+Dark Nova;
+Vengeance (6 Rounds);
+Frenzy;
+Dryad;
+Sun Blade (+35%);
+Elemental Blade;
+Sun Trap (+35%);
+Natural Attack (Sun 120-240-360);
+Leafstorm;
+Athena Battle Sight;
+Humongofrog;
+Snake Charmer;
+Noble Humongofrog;
+Orthrus;
+Hephaestus;
+Scald;
+Rain of Fire;
+
+| quests =
+Newts Hate Frogs;
+Lord Humongish;
+
+| gold =
+106 - 336;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Chill Kalamar Knife;
+Choice Kalamar Knife;
+Gnarly Kalamar Knife*F2;
+Heavy Kalamar Knife*F2;
+Mondo Kalamar Knife*F3*WMV;
+Rad Kalamar Knife*F2;
+Righteous Kalamar Knife;
+
+| amulets =
+
+| rings =
+Blazing Zanadu Band;
+Freezing Zanadu Band;
+Grim Zanadu Band*F2*WMV;
+Hopeful Zanadu Band;
+
+| wands =
+Blazing Zanadu Lance;
+Crackling Zanadu Lance;
+Freezing Zanadu Lance;
+Grim Zanadu Lance;
+
+| decks =
+
+| items =
+Aero Dwarf Chair;
+Empyrea Aero Plains Theme;
+Empyrea Chaos Jungle Theme;
+Empyrea Husk Combat;
+Empyrea Husk Storm Combat;
+Empyrea Husk Theme;
+Nimbari Chair;
+Ornate Nimbari Vase;
+Wide Kalamar Vase;
+
+| cards =
+Combustion;
+Cyclops;
+Doom and Gloom*F2;
+Elemental Blade;
+Elemental Spear*F2;
+Firespear*F2;
+Humongofrog;
+Icespear;
+Lifespear;
+Lord of the Squall;
+Mass Death Prism;
+Mass Fire Prism;
+Mass Ice Prism;
+Mass Life Prism;
+Mega Soothe;
+Mutate Colossus (Fire);
+Mutate Helephant (Storm);
+Mutate Minotaur (Sun);
+Mutate Monster (Fire);
+Mutate Phoenix (Storm);
+Mutate Wyvern (Fire);
+Myth Prism;
+Mythspear*F2;
+Oni No Jade*F4;
+Oni No Plague;
+Power Play*F2;
+Spirit Spear;
+
+| reagents =
+Aether*F2;
+Amber;
+Amber Dust*F4;
+Ancient Scroll;
+Antique Coins*F3*WMV;
+Aquamarine*F6;
+Astral Shard*F2*WMV;
+Black Pearl*F3;
+Blood Moss*F3*WMV;
+Braided Vine*F3*WMV;
+Brass*F2;
+Bronze Gear*F2;
+Cobalt;
+Ectoplasm*F2;
+Fire Blossom*F2;
+Fish Fin;
+Flying Squid Ink*F6*WMV;
+Glass Sliver;
+Golden Pearl*F4*WMV;
+Merle's Whisker;
+Mithril*F6*WMV;
+Nickel*F2*WMV;
+Scales*F5*WMV;
+Silver*F8*WMV;
+Spider Silk*F2;
+Spring*F2*WMV;
+Stardust*F2;
+Steel*F6;
+Sunstone*F4;
+Tin*F3;
+Titanium;
+Tungsten*F8*WMV;
+Vine*F3;
+
+| spellements =
+
+| snacks =
+Beast Wellington;
+Berry Poundcake;
+Crackle Jacks Cereal;
+Dastardly Radish;
+Decimatoes;
+Discord Grape Jelly;
+Drumstick;
+Eye Candy*F3*WMV;
+Fern Jelly;
+Fetid Legumes*F2*WMV;
+Gator Tots;
+Glowing Taffy*F4*WMV;
+Golden Squash*F2;
+Hero Sandwich*F3;
+Hot Cross Buns*F7*WMV;
+Killer Tomato;
+Lemon Daisy;
+Meat Soup;
+Minotarts;
+Oyster Shooter;
+Pineapple Spears;
+Pizza*F4;
+Pyramints;
+Redskin Peanut;
+Rhubarbed Wire;
+Rock and Roll Candy*F2*WMV;
+Salmon Joy;
+Satyr Chow*F2;
+Spicy Drumstick;
+Sprinkle Cupcake*F6*WMV;
+Veggie Juice;
+Waterworks Wonton;
+Wheat Cracker;
+
+| jewels =
+Shiny Accurate Ruby +12%*F2;
+Shiny Blocking Citrine +15;
+Shiny Blocking Peridot +15;
+Shiny Critical Citrine +15;
+Shiny Critical Onyx +15;
+Shiny Critical Sapphire +15*F2;
+Shiny Damage Citrine +25;
+Shiny Damage Jade +25;
+Shiny Defense Amethyst +50;
+Shiny Defense Ruby +50;
+Shiny Health Opal +107;
+Sparkling Blocking Amethyst +18;
+Sparkling Critical Citrine +18;
+Sparkling Critical Onyx +18;
+Sparkling Critical Sapphire +18;
+Sparkling Damage Ruby +28;
+Sparkling Defense Amethyst +56;
+Sparkling Defense Jade +56;
+Sparkling Defense Onyx +56;
+Sparkling Health Opal +122;
+Sparkling Health Opal +123;
+Sparkling Health Opal +124*F2;
+Sparkling Health Opal +125;
+Sparkling Mana Opal +52;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears;
+Baby Carrots;
+Bell Pepper;
+Bread Fruit Bush*F2;
+Burning Snap Dragon;
+Couch Potatoes*CR;
+Dandelion;
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Fish on a Vine;
+Golden Couch Potatoes*F3*WMV;
+Grapes of Wrath*CR;
+Honey Bee Plant;
+Key Limes*CR;
+Maltese Tiger Lily;
+Missile Toe;
+Orange Dandelion;
+Pink Huckleberries;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Queen Crape Myrtle*F2;
+Red Huckleberries;
+Sour Fickle Pickle;
+Ultra King Parsley;
+Ultra Snap Dragon;
+White Desparagus;
+White Laugh-O-Dil;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

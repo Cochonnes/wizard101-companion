@@ -1,0 +1,115 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 14,000
+| crecla = 
+| school = Myth
+| school2 = Life
+| masteries =
+Ice;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical = 450
+| criticalblock = 500
+
+| outpierce =
+35%;
+
+| outboost =
+150%;
+
+| incboost =
+None;
+
+| incresist =
+40% Storm, Life;
+70% Fire, Death, Balance, Sun, Moon, Star, Shadow;
+100% Ice, Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions = 
+
+| randomminions =
+Djinn Bandit;
+Forest Demon;
+Grimtusk Bandit;
+Moosetaur Bandit;
+Stingtail Bandit;
+Stormasaur Bandit;
+Yeti Bandit;
+
+| totalminions = 1 
+
+| world = Raid
+| location = Voracious Void
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*At the end of every Round, Phlegmtasm will cast {{Link|Spell|Power Current}} on itself.
+
+| spellnotes =
+*Casts a 6 Pip version of Blizzard that deals 555 Ice Damage and removes 3 positive Charms from all enemies.
+
+| casts =
+Lifeblade;
+Mythic Fuel;
+Cyclops (Tier 5b);
+Tatzlewurm Terror;
+Ivan's Storytime;
+Nature's Wrath (Tier 5b);
+Hungry Caterpillar;
+Centaur (Tier 5b);
+Verdurous Jinn;
+Primal Oni;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

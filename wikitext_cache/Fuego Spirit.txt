@@ -1,0 +1,208 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 13,600
+| crecla = Elemental
+| school = Fire
+| startpips = 6
+| powerpips = Yes
+| critical =
+110 Any;
+
+| criticalblock =
+50 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Fierce Quetzal;
+
+| world = Azteca
+| location = Saltmeadow Swamp
+| subloc1 = Home of the Fuego Spirit
+| descrip =
+Two additional Fierce Quetzal Minons appear if more than two Wizards are present.
+
+| speech =
+:''"You look cold and wet!  Come, warm up in my embrace!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Glacial Shield;
+Smoke Screen (-45%);
+Fireblade;
+Fire Trap;
+Fuel (+35%);
+Natural Attack (Fire 170-340-510);
+Meteor Strike (355-395);
+Phoenix (600-680);
+Efreet;
+Sun Serpent;
+
+| quests =
+Secret of the Winds;
+
+| gold =
+83 - 145;
+
+| hats =
+Dawn Hour Mantle*F3*WMV;
+Elite Jura Guard Helm;
+Five Fangs of Fury Headdress;
+Indigo Wing Crown;
+Thirteen Death Mask;
+Tree of Secrets Chac Mask*F3*WMV;
+Twisted Fang Mask;
+
+| robes =
+Cloak of the Tyrant of Beasts*F3*WMV;
+Coatl Lord's Robes;
+Glorious Xicolli Vest;
+High Chac's Guarded Armor*F2*WMV;
+Song of the Lizard Coat;
+Tunic of the Broken Spear*F2;
+Vestment of the Calavera*F2*WMV;
+
+| boots =
+
+| athames =
+Bleeding Sun Dagger;
+Tears of Mother Moon Blade*F2*WMV;
+Winter Lord's Obsidian Shard;
+
+| amulets =
+Charm of the Gold Aztecosaur;
+Pitch Black Lake Plague Shell;
+Rising Sun Head Relic*F2*WMV;
+Shining Cold House Amulet;
+Smoking Fang Talisman;
+Stone of the Green Skycarrier;
+
+| rings =
+Acampi Reedfist's Lost Seal*F3*WMV;
+Bleeding Sun Warrior's Loop*F2;
+Falling Star's End Time Band*F2*WMV;
+Mother Moon's Count Ring;
+
+| wands =
+Eclipse Spear of Azteca;
+Lance of Night Fire;
+Tears of Night Lance;
+
+| decks =
+Codex of the Lost Fire*F2*WMV;
+Deck of the Jaguar Spirit*F3*WMV;
+Storm Sun Gallery*F3*WMV;
+Winter's Pyramid Deck*F2*WMV;
+
+| items =
+Azteca Apocalypse Theme;
+Azteca Main Theme;
+Hollow Log*F2;
+Star Clothesline;
+Starburst Frond*F2*WMV;
+
+| cards =
+Basilisk;
+Chimera;
+Colossal*F2*WMV;
+Extraordinary*F2*WMV;
+Fire Dragon;
+Gnomes!;
+Potent Trap*F2*WMV;
+Primordial*F2*WMV;
+Rain of Fire;
+Sharpened Blade*F2;
+Sirens*F2;
+Storm Lord;
+Unstoppable;
+
+| reagents =
+Black Lotus*F2;
+Black Pearl*F2;
+Blood Moss*F2*WMV;
+Bone*F3*WMV;
+Brass;
+Bronze;
+Bronze Gear*F3*WMV;
+Cobalt;
+Deep Mushroom*F2;
+Fire Blossom*F2*WMV;
+Fossil;
+Lava Lily*F2*WMV;
+Mist Wood*F2*WMV;
+Mithril;
+Nightshade;
+Ore*F3*WMV;
+Red Mandrake*F3*WMV;
+Steel;
+Stone Block*F4*WMV;
+Sunstone;
+Titanium*F2;
+Turquoise*F2*WMV;
+
+| spellements =
+
+| snacks =
+Apatotatoes;
+Aztecan Hot Chocolate;
+Buttered Bread;
+Chapulines;
+Dr. Jalapeno;
+Guava*F2*WMV;
+Maize;
+Marzipan Maize;
+Pterotomatoes;
+Quetzal Pretzel*F3*WMV;
+Rex Tea;
+Stego Waffles;
+Zocalo Wings;
+
+| jewels =
+Blade Flurry Amethyst;
+Clear Accurate Jade +9%;
+Clear Health Opal +82;
+Clear Piercing Jade +5%;
+Clear Piercing Sapphire +5%;
+Drain Health Jade;
+Golem Minion Peridot;
+Life-Shot Jade;
+Mend Minion Peridot;
+Ninja Pig Opal;
+Sap Power Amethyst;
+Steal Health Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Blue Huckleberries;
+Fiery Boom Shroom;
+Maelstrom Snap Dragon;
+Red Bell Pepper;
+Red Huckleberries;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,183 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 9,520
+| crecla = Deer
+| school = Life
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Whiptail Pantera;
+
+| world = Avalon
+| location = Caer Lyon
+| subloc1 = Mord's Manor
+| descrip =
+
+| speech =
+:''"Make no mistake, Wizard, I shall offer you no quarter if you insist on trying to take this sword from me!"''
+
+| spellnotes =
+
+| casts =
+Empowerment;
+Mend;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Nature's Wrath;
+Natural Attack (Life 145-285-440);
+Life Banshee (250);
+Seraph;
+Centaur;
+Forest Lord;
+
+| quests =
+In Through The Out Door;
+
+| gold =
+84 - 104;
+
+| hats =
+Brisk Helmet of Nodor;
+Catacombs Helm*F5;
+Hunter's Helm of Mercy*F2;
+Wrath of the Wild;
+
+| robes =
+Bane Wyrm's Tartan*F4*WMV;
+Three Color Serpent's Robes*F3;
+Tunic of Nature's Wrath;
+
+| boots =
+Hospitable Knight's Boots*F2*WMV;
+Loyal Knight's Boots*F5;
+
+| athames =
+Dryad's Burning Nettle;
+Owl's Talon;
+
+| amulets =
+Mystery of the Druids*F4;
+Proven Armiger's Pendant;
+
+| rings =
+Band of the Lost Abbey;
+Circle of Caliburn;
+Deep Water Rising Ring*F4;
+
+| wands =
+Chivalric Mallet;
+Rosewood Persuader*F3;
+
+| decks =
+Greenroot Gallery*F6*WMV;
+
+| items =
+Avalon Combat Theme;
+Avalon Glorious Theme*F3;
+
+| cards =
+Brilliant Light*F5*WMV;
+Deer Knight*F6;
+Efreet;
+Forest Lord;
+Frost Giant*F2;
+Gargantuan*F2;
+Guidance*F4;
+Guiding Light*F5*WMV;
+Life Prism*F5*WMV;
+Lifeblade*F8;
+Medusa;
+Orthrus;
+Power Nova;
+Rebirth;
+Scarecrow*F2;
+Storm Lord;
+Triage*F2;
+Unstoppable*F2;
+
+| reagents =
+Black Lotus*F5*WMV;
+Bronze;
+Cat Tail*F4;
+Deep Mushroom*F2;
+Frost Flower*F2;
+Lava Lily*F5*WMV;
+Mist Wood;
+Ore*F3;
+Parchment*F4;
+Pearl*F2;
+Red Mandrake*F7;
+Shell*F3;
+Stone Block*F3;
+
+| spellements =
+
+| snacks =
+Bogwich*F2;
+Cheese Broccoli;
+Cracker;
+Deviled Eggs;
+Glowing Star Fruit;
+Golden Grapes;
+Green Grapes;
+Gummy Firecat;
+Gummy Humongofrog*F2;
+Gummy Wyrms;
+Jelly Baby;
+King Banana*F2;
+Kola Nuts*F2;
+Nettle Root;
+Roasted Chickpeas;
+Tiny Fish;
+Treant Bark;
+
+| jewels =
+Dull Mending Opal +3%;
+Lock Opal;
+Opaque Critical Peridot +7;
+Opaque Healing Opal +4%;
+Opaque Health Opal +73;
+Opaque Mana Opal +31;
+Opaque Resilient Opal +4%;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+Evil Magma Peas*CR;
+Pink Dandelion*CR;
+Red Huckleberries;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

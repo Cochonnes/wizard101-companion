@@ -1,0 +1,367 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 11,650
+| crecla = Kangaroo
+| school = Life
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| shadowslots = 2
+| critical =
+163 Any;
+
+| criticalblock =
+237 Any;
+
+| outpierce =
+22%;
+
+| outboost =
+110%;
+
+| incboost =
+5% Death;
+
+| incresist =
+70% Life;
+
+| outhealing =
+75%;
+
+| inchealing =
+75%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Dead Beet;
+
+| world = Karamelle
+| location = Black Licorice Forest
+| subloc1 = Rosina's House
+| lootchest = Judge Veg's Chest
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*Two additional {{Link|Creature|Evil Carrot}} Minions appear if more than two Wizards are present.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"You are late for your trial!"'' - If a Wizard joins the duel after the first Round, he will interrupt-cast '''Grim Grrnadier (Tier 3b)''' on the late Wizard.
+*{{Icon|Feint}} ''"These have no place in my court"'' - If a {{Link|Spell|Feint}} or {{Link|ItemCard|Mass Feint}} is cast on Judge Veg, he will interrupt-cast {{Link|Spell|Cleanse Ward (Star, -All)}} to remove all negative Wards from himself.
+*{{Icon|Polymorph}} ''"If you ate more carrots, you'd see this coming"'' - At the end of the first Round, Judge Veg will Polymorph a random Wizard into one of the following Vegetable forms for 15 Rounds:
+**{{Link|Polymorph|Life Vegetable}}
+**{{Link|Polymorph|Storm Vegetable}}
+**{{Link|Polymorph|Death Vegetable}}
+**{{Link|Polymorph|Ice Vegetable}}
+
+{{Icon|Polymorph}} Judge Veg will Polymorph one random Wizard into a random Vegetable based on the number of Wizards in combat:
+*1 Wizard: ''"If you ate more carrots, you'd see this coming"'' - Every 9th Round.
+*2 Wizards: ''"You should've eaten your broccoli"'' - Every 7th Round.
+*3 Wizards: ''"Time for a balanced meal!"'' - Every 5th Round.
+*4 Wizards: ''"I am the slaw!"'' - Every 3rd Round.
+
+{{Icon|Spell}} Judge Veg also has unique lines for when he casts certain Spells:
+*''"Bringing down the Veghammer"'' - Judge Veg will use his turn to cast '''Lamassu''' on the Wizard with the least Health.
+*''"As the World Turnips!"'' - Judge Veg will use his turn to cast '''Wings of Night'''.
+*''"Green Beanzooka!"'' - Judge Veg will use his turn to cast '''Grim Grrnadier (Tier 3b)''' on the Wizard with the most Health.
+*''"I find you in contempt of corn"'' - Judge Veg will use his turn to cast '''Hungry Caterpillar''' on a random wizard (needs confirmation).
+*Note: Some of these lines may occur at the same time, but only one Spell will be casted.
+
+| spellnotes =
+
+| casts =
+Brace;
+Devotion;
+Spirit Armor;
+Black Mantle;
+Weakness;
+Unicorn;
+Dryad;
+Lifeblade (+40%);
+Mass Life Trap;
+Ratatoskr's Spin;
+Lamassu;
+Natural Attack (Life 100-200-300-400);
+Sacred Charge;
+Hungry Caterpillar;
+Grim Grrnadier (Tier 3b);
+Centaur;
+Wings of Night;
+Forest Lord;
+
+| quests =
+Kangaroo's Court;
+Screams in the Witch-House;
+
+| gold =
+301 - 711;
+
+| hats =
+Contractor Biohazard Hood;
+Executive Insulated Hood;
+
+| robes =
+Consultant Insulated Suit;
+Consultant Survival Suit;
+Producer's Cryo Suit;
+Producer's Hazmat Suit;
+Producer's Pressure Suit;
+Specialist Protective Suit;
+
+| boots =
+Executive Protective Boots;
+
+| athames =
+
+| amulets =
+Director Biohazard Rope;
+Director Hazmat Rope;
+Director Insulated Rope*F2*WMV;
+Director Pressure Rope;
+Director Protective Rope;
+Director Survival Rope*F2*WMV;
+Executive Cryo Rope;
+Executive Insulated Rope;
+Executive Pressure Rope;
+Executive Thermal Rope;
+Guten Candymancer Rope;
+Guten Dreamsearcher Rope;
+Guten Freshbaker Rope*F3*WMV;
+Guten Sciencer Rope;
+Guten Sentamentalist Rope;
+Guten Sweetsmith Rope;
+Guten Wonderneer Rope*F3*WMV;
+Producer's Biohazard Rope;
+Producer's Hazmat Rope;
+Producer's Insulated Rope;
+Producer's Pressure Rope;
+Producer's Survival Rope;
+Producer's Thermal Rope;
+Uber Artisan Rope;
+Uber Candymancer Rope;
+Uber Freshbaker Rope;
+Uber Sciencer Rope;
+Uber Sentamentalist Rope;
+Uber Sweetsmith Rope;
+Uber Wonderneer Rope*F2*WMV;
+Wunderbar Candymancer Rope*F3*WMV;
+Wunderbar Dreamsearcher Rope;
+Wunderbar Freshbaker Rope*F2*WMV;
+Wunderbar Sciencer Rope;
+Wunderbar Sentamentalist Rope*F2;
+Wunderbar Sweetsmith Rope*F2*WMV;
+Wunderbar Wonderneer Rope;
+
+| rings =
+Director Insulated Ring*F2;
+Director Protective Ring;
+Director Thermal Ring;
+Executive Biohazard Ring;
+Executive Insulated Ring*F3*WMV;
+Executive Protective Ring;
+Executive Survival Ring;
+Executive Thermal Ring;
+Guten Artisan Ring*F3;
+Guten Candymancer Ring;
+Guten Dreamsearcher Ring;
+Guten Freshbaker Ring;
+Guten Sciencer Ring;
+Guten Sentamentalist Ring*F2;
+Guten Sweetsmith Ring;
+Guten Wonderneer Ring;
+Producer's Biohazard Ring;
+Producer's Cryo Ring;
+Producer's Survival Ring;
+Producer's Thermal Ring;
+Uber Artisan Ring*F2*WMV;
+Uber Candymancer Ring;
+Uber Dreamsearcher Ring;
+Uber Wonderneer Ring;
+Wunderbar Candymancer Ring;
+Wunderbar Dreamsearcher Ring;
+Wunderbar Freshbaker Ring;
+Wunderbar Sciencer Ring;
+Wunderbar Sentamentalist Ring;
+Wunderbar Sweetsmith Ring*F2;
+Wunderbar Wonderneer Ring*F2*WMV;
+
+| wands =
+Contractor Biohazard Meter;
+Contractor Insulated Meter;
+Producer's Survival Meter;
+Specialist Cryo Meter;
+
+| decks =
+Consultant Insulated Box;
+Director Hazmat Box;
+Executive Cryo Box;
+
+| items =
+Gumdrop Tree;
+Karamelle Cavity Combat Theme;
+Karamelle City Combat Theme;
+Karamelle Forest Theme*F2;
+Karamelle Jingle Theme;
+Karamelle Neglected Theme;
+Karamelle Rural Combat Theme;
+Karamelle Rural Theme;
+Karamelle Worker Combat Theme*F2;
+Oil Drum*F2*WMV;
+
+| cards =
+Berserk;
+Darkwind;
+Dream Shield;
+Ether Shield;
+Flood;
+Frostbite;
+Galvanic Field;
+Massive Pest Zapper;
+Miniature Bloodbats;
+Pungent Bug Spray*F2*WMV;
+Sirens;
+Supreme Sunburst;
+Uncanny Magic;
+
+| reagents =
+Aether;
+Agave Leaves;
+Amber*F2*WMV;
+Amber Dust;
+Aquamarine*F2;
+Astral Shard;
+Brass*F2;
+Bronze Gear*F5*WMV;
+Cobalt*F6*WMV;
+Draconium*F2;
+Ectoplasm*F4*WMV;
+Fire Blossom*F3;
+Golden Pearl*F2;
+Karamelle Chunk*F4*WMV;
+Merle's Whisker*F2;
+Mithril;
+Nickel*F6*WMV;
+Orichalcum;
+Scales*F6*WMV;
+Silver*F2;
+Spider Silk*F2;
+Steel*F3*WMV;
+Sunstone;
+Tin*F3;
+Toffee Bean*F5*WMV;
+Tungsten;
+Turmeric;
+Turquoise;
+Vine;
+
+| spellements = 
+Grrnadier*F2;
+Mockenspiel;
+Snack Attack;
+Sound of Musicology*F2;
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate;
+Beast Wellington;
+Cherry Pie*F2*WMV;
+Decimatoes;
+Dragon Fruit;
+Drumstick;
+Eye Candy*F2;
+Fern Jelly;
+Glowing Star Fruit;
+Glowing Taffy*F4;
+Hot Cross Buns*F2*WMV;
+Krakamari;
+Pizza*F2*WMV;
+Rock and Roll Candy*F3*WMV;
+Roly Poly Fishheads;
+Satyr Chow*F2;
+Ships 'n' Queso;
+Sprinkle Cupcake;
+Waterworks Wonton;
+Wheat Cracker;
+
+| jewels =
+Shiny Accurate Opal +6%;
+Shiny Blocking Ruby +16;
+Shiny Critical Hematite +15;
+Shiny Critical Hematite +16;
+Shiny Critical Ruby +15;
+Shiny Damage Citrine +26;
+Shiny Damage Hematite +52;
+Shiny Defense Onyx +51;
+Shiny Defense Ruby +50;
+Shiny Defense Sapphire +51;
+Shiny Defense Sapphire +52;
+Shiny Health Opal +113;
+Shiny Health Opal +114*F2;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47*F2;
+Sparkling Accurate Onyx +13%*F2;
+Sparkling Accurate Peridot +13%;
+Sparkling Blocking Jade +17;
+Sparkling Blocking Ruby +17*F2*WMV;
+Sparkling Critical Jade +17;
+Sparkling Critical Onyx +17;
+Sparkling Critical Sapphire +17;
+Sparkling Damage Citrine +27;
+Sparkling Damage Sapphire +27;
+Sparkling Defense Citrine +54;
+Sparkling Defense Peridot +53*F2;
+Sparkling Defense Sapphire +54*F2;
+Sparkling Health Opal +117;
+Sparkling Health Opal +118;
+Sparkling Health Opal +119;
+Sparkling Mana Opal +49;
+
+| pets =
+
+| seeds =
+Angora Bunny Ears*F2;
+Baby Carrots*F2;
+Bamboo Shoots;
+Bell Pepper;
+Blue Huckleberries*F2*WMV;
+Boiled Peanuts*F2;
+Bread Fruit Bush*F5*WMV;
+Cornbread Fruit Bush*F5*WMV;
+Dandelion;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Evil Magma Peas*CR;
+Fickle Pickle;
+Fish on a Vine*F4*WMV;
+Fortune Cookie Tree;
+Goose Tree;
+Grapes of Wrath*CR*F2*WMV;
+Ivy League*CR*F2;
+Maltese Tiger Lily*F2;
+Melting Cheese Tree;
+Pink Huckleberries*F2;
+Purple Snow Apples;
+Red Huckleberries*F4*WMV;
+Rye Bread Fruit Bush;
+Silver Trumpet Vine;
+Snow Apples*F2;
+Sugar Khrystal*CR;
+Sunion*CR;
+Sword Fern*CR;
+Trumpet Vine;
+Ultra Alligator Pear Tree;
+Ultra Dandelion;
+Ultra King Parsley;
+Ultra Ninja Fig;
+Ultra Snap Dragon;
+Ultra Tiger Lily;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

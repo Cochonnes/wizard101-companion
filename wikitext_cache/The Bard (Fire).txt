@@ -1,0 +1,123 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 14,460
+| crecla = Llama
+| school = Fire
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Fire;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+19%;
+
+| outboost =
+105%;
+
+| incboost =
+30% Ice;
+
+| incresist =
+27% Storm, Myth, Life, Death, Balance, Shadow;
+57% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Raging Storm;
+
+| world = Krokotopia
+| location = Marketplace of Ideas
+| subloc1 = Rogue Theater
+| location2 = Marketplace of Ideas
+| subloc2 = Rogue Theater: Act II
+| descrip =
+This boss is behind '''Door I''' in the {{Link|Location|Rogue Theater}}.
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"Oh, good morrow, you escaped my notice there. I? I am but a humble writer of plays. Never was there a tale of more woe than mine own. Little Coriollama lived with his parents in Avalon. He was... lost. He knew not the language or history or customs of this foreign land. The other children scorned him, and hurled such stinging epithets he burned with shame: "odd-shaped deer thing," "Corey No-Antlers," and "gross." The dogs! Oh, the dogs did bark at him, sent as it seemed before his time into the breathing world. And, to tell it true... it enraged him, caused such disquiet that he lashed out with the spleen of fiery dragons!"''
+
+| cheatnotes =
+*{{Icon|Spell}} ''"My kingdom for a horse!"'' - The Bard will cast a -65% Tower Shield on himself.
+**This cheat will trigger multiple times if the enemy takes Damage.
+*{{Icon|Round}} ''"March on, let us to pell-mell!"'' - At the beginning of every third Round, The Bard will cast {{Link|Spell|Bladestorm (+40%)}} x2.
+
+| spellnotes =
+
+| casts =
+Adapt;
+Glacial Shield;
+Fireblade;
+Fire Trap;
+Fuel;
+Brimstone Revenant;
+Phoenix;
+King Artorius (Fire);
+Rain of Fire;
+
+| quests =
+Plots Have I Laid;
+
+| gold =
+1 - 7;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Selenopolis Boss Combat Theme;
+Selenopolis Field of Reeds Theme;
+Selenopolis Zigazag Market Theme;
+
+| cards =
+Balanceblade;
+Death Trap;
+Life Trap;
+
+| reagents =
+Spider Silk;
+
+| spellements =
+
+| snacks =
+Black Sun Seeds;
+Orange Jalapeno;
+Veggie Juice;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

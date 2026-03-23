@@ -1,0 +1,337 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 150,000
+| crecla = 
+| school = Fire
+| school2 = Myth
+| cheats = Yes
+| shadowslots = 3
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Fire;
+Myth;
+
+| critical =
+601;
+
+| criticalblock =
+551;
+
+| outpierce =
+35%;
+
+| outboost =
+128%;
+
+| incboost =
+30% Ice;
+
+| incresist =
+29% Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+59% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Ghost Drover;
+Ghost Judge;
+Ghost Ned;
+
+| world = Wallaru
+| location = The Dreaming
+| subloc1 = Nightmare (Standard)
+| lootchest = Malus' Chest (Standard)
+| descrip =
+Malus is the final Boss within Nightmare. To avoid the Meteor Strike cheat, Wizards must use 4 Dream Water, collected from the leaky pipes in the maze, on each of the sleeping avatars around him to dismiss the Minions.
+*For the Challenge version of this battle, see {{Link|Creature|Malus (Challenge)}}.
+*{{Link|NPC|Dream Morp}} will appear after the duel.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Damage}} ''"Their hatred is a tonic. It fuels me."'' - At the beginning of the first Round, if Malus has any Minions, he will cast a Death version of {{Link|Spell|Meteor Strike}} that deals 100% max Health Damage to all Wizards. Max Health Damage ignores all Resist.
+*{{Icon|Round}} ''"Embrace your hatred!"'' - At the beginning of every Round, Malus will cast one of the following Spells:
+**{{Link|Spell|Black Mantle (-55%, 3 Pip)}}
+**{{Link|Spell|Choke}}
+**{{Link|Spell|Efreet (1,000)}}
+***This version of Efreet leaves a -95% Curse {{Icon|Curse}} on the target and Malus will always target the Wizard with the lowest amount of Health {{Icon|Health}}.
+**{{Link|Spell|Monster Mash (1,170)}}
+***This version of Monster Mash beguiles the target and Malus will always target the Wizard with the highest amount of Health {{Icon|Health}}.
+**{{Link|Spell|Muzzle}}
+**{{Link|Spell|Tower Shield (Sun -90%)}}
+**Dispels can prevent some of these cheats.
+**If two or fewer Wizards are present in the duel, these cheats will only occur every other Round.
+***This cheat condition variant is currently '''bugged''' so that the cheat does NOT occur at all.
+*{{Icon|Aura}} ''"Let your rage drive you. Strike me down!"'' - Randomly, at the end of a Round, Malus will cast a "Flames of Hatred" Aura on himself.
+**If a negative aura is used to replace Malus' aura, the aura will be replaced but the casted negative aura will be removed.
+*{{Icon|Manipulation}} ''"Heroism is vanity. FIGHT ME!"'' - If a Wizard targets Malus while his "Flames of Hatred" Aura is active, he will cast a 0 Damage Star version of Supernova on himself, removing the Aura.
+*{{Icon|Afterlife}} ''"Good. AGAIN!"'' - If Malus is defeated while the "Flames of Hatred" Aura is active, Malus will heal himself for 50% Health (75,000 Health), and applies a '''+200%''' outgoing Damage Aura on himself.
+ 
+| spellnotes =
+
+| casts =
+Dragonspear;
+Fireblade;
+Mythblade;
+Mass Fire Trap;
+Brimstone Revenant (Tier 2a);
+Glimpse of Infinity;
+S'more Machine;
+Raging Bull;
+Lava Giant;
+Lava Lord;
+Drop Bear Fury;
+Mystic Colossus;
+Witch's House Call (No Minion);
+
+| quests =
+Malus in Sundered Land;
+Malus Shouldn't Live Here Anymore;
+
+| dropnotes =
+Defeating Malus grants each Wizard the following rewards:
+*6-7 Dream Water {{Icon|Reagent}}
+*4 Circle Jewels {{Icon|Circle Jewel}}
+*3 Sword Pins {{Icon|Sword Pin}}
+*27 Spellements {{Icon|Spellement}} & Spellemental Treasure Cards {{Icon|Spellement}}{{Icon|Treasure Card}}
+
+| gold =
+36 - 78;
+
+| hats =
+Bold Dream Reaver Hood;
+Bold Dream Warper Hood*F2;
+Cruel Dream Reaver Hood;
+Cruel Dream Warper Hood;
+Deft Dream Reaver Hood;
+Deft Dream Warper Hood;
+Fabled Dream Reaver Hood;
+Fabled Dream Warper Hood;
+Fell Dream Reaver Hood;
+Fell Dream Warper Hood;
+Fervid Dream Reaver Hood;
+Fervid Dream Warper Hood;
+Fierce Dream Reaver Hood;
+Fierce Dream Warper Hood*F2;
+
+| robes =
+Bold Dream Reaver Armor;
+Bold Dream Warper Armor;
+Cruel Dream Reaver Armor;
+Cruel Dream Warper Armor;
+Deft Dream Reaver Armor;
+Deft Dream Warper Armor;
+Fabled Dream Reaver Armor;
+Fabled Dream Warper Armor;
+Fell Dream Reaver Armor;
+Fell Dream Warper Armor;
+Fervid Dream Reaver Armor;
+Fervid Dream Warper Armor;
+Fierce Dream Reaver Armor;
+Fierce Dream Warper Armor;
+
+| boots =
+Bold Dream Reaver Boots;
+Bold Dream Warper Boots;
+Cruel Dream Reaver Boots;
+Cruel Dream Warper Boots;
+Deft Dream Reaver Boots;
+Deft Dream Warper Boots*F2;
+Fabled Dream Reaver Boots;
+Fabled Dream Warper Boots;
+Fell Dream Reaver Boots;
+Fell Dream Warper Boots;
+Fervid Dream Reaver Boots;
+Fervid Dream Warper Boots;
+Fierce Dream Reaver Boots;
+Fierce Dream Warper Boots;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Bold Dream Reaver Boomerang;
+Bold Dream Warper Boomerang;
+Cruel Dream Reaver Boomerang;
+Cruel Dream Warper Boomerang;
+Deft Dream Reaver Boomerang;
+Deft Dream Warper Boomerang;
+Fabled Dream Reaver Boomerang;
+Fabled Dream Warper Boomerang;
+Fell Dream Reaver Boomerang;
+Fell Dream Warper Boomerang;
+Fervid Dream Reaver Boomerang;
+Fervid Dream Warper Boomerang;
+Fierce Dream Reaver Boomerang;
+Fierce Dream Warper Boomerang;
+
+| decks =
+
+| items =
+
+| cards =
+Banshee (Tier 2b)*F4;
+Cyclops (Tier 2b)*F2;
+Evil Snowman (Tier 2b)*F3;
+Locust Swarm (Tier 2b)*F2;
+Nature's Wrath (Tier 2b)*F2;
+Storm Shark (Tier 2b);
+Sunbird (Tier 2b)*F2;
+
+| reagents =
+Dream Water @ 6 Dream Water*F3;
+Dream Water @ 7 Dream Water*F2;
+
+| spellements =
+Barbarian's Saga*F2;
+Blast Off!*F3;
+Bunyip's Rage*F2;
+Count Croakula*F3;
+Dark & Stormy*F2;
+Deathly Depths*F3;
+Drop Bear Fury*F2;
+Freeze Ray*F3;
+Glimpse of Infinity*F2;
+Gravestorm*F2;
+Grim Reader*F3;
+Grrnadier*F2;
+Improbable Gaze*F2;
+Lord of the Jungle*F2;
+Mockenspiel*F2;
+Old One's Endgame*F2;
+Phantasmania!*F2;
+Rainbow Serpent*F2;
+S'more Machine*F4;
+Scales of Destiny;
+Scion of Balance*F2;
+Scion of Death;
+Scion of Fire*F2;
+Scion of Ice*F2;
+Scion of Life*F2;
+Scion of Myth*F2;
+Scion of Storm;
+Shatterhorn*F3;
+Snack Attack*F3;
+Sound of Musicology*F3;
+Starspawn*F2;
+Tatzlewurm Terror*F2;
+Tree of Strife*F2;
+Wobbegong Frenzy*F2;
+Zand the Bandit*F3;
+
+| snacks =
+
+| jewels =
+Flawless Critical Amethyst +23;
+Flawless Critical Citrine +24;
+Flawless Critical Jade +23;
+Flawless Critical Jade +24;
+Flawless Critical Onyx +24;
+Flawless Critical Peridot +24;
+Flawless Critical Sapphire +24;
+Polished Piercing Amethyst +6%*F2;
+Polished Piercing Citrine +6%;
+Polished Piercing Jade +6%;
+Polished Piercing Onyx +6%*F2;
+Polished Piercing Peridot +6%;
+Polished Piercing Ruby +6%;
+Polished Piercing Sapphire +6%*F2;
+Unearthly Critical Jade +44 (Life);
+Unearthly Critical Peridot +44 (Life);
+Unearthly Damage Amethyst +9% (Ice);
+Unearthly Damage Amethyst +9% (Life);
+Unearthly Damage Amethyst +10% (Balance);
+Unearthly Damage Amethyst +10% (Fire);
+Unearthly Damage Amethyst +10% (Myth);
+Unearthly Damage Amethyst +11% (Death);
+Unearthly Damage Amethyst +11% (Storm);
+Unearthly Damage Citrine +9% (Ice);
+Unearthly Damage Citrine +9% (Life)*F2;
+Unearthly Damage Citrine +10% (Balance);
+Unearthly Damage Citrine +10% (Fire);
+Unearthly Damage Citrine +10% (Myth);
+Unearthly Damage Citrine +11% (Death);
+Unearthly Damage Citrine +11% (Storm);
+Unearthly Damage Jade +9% (Ice);
+Unearthly Damage Jade +9% (Life);
+Unearthly Damage Jade +10% (Balance);
+Unearthly Damage Jade +10% (Fire);
+Unearthly Damage Jade +10% (Myth);
+Unearthly Damage Jade +11% (Death);
+Unearthly Damage Jade +11% (Storm);
+Unearthly Damage Onyx +9% (Ice);
+Unearthly Damage Onyx +9% (Life);
+Unearthly Damage Onyx +10% (Balance);
+Unearthly Damage Onyx +10% (Fire);
+Unearthly Damage Onyx +10% (Myth);
+Unearthly Damage Onyx +11% (Death);
+Unearthly Damage Onyx +11% (Storm);
+Unearthly Damage Peridot +9% (Ice);
+Unearthly Damage Peridot +9% (Life)*F2;
+Unearthly Damage Peridot +10% (Balance);
+Unearthly Damage Peridot +10% (Fire);
+Unearthly Damage Peridot +10% (Myth);
+Unearthly Damage Peridot +11% (Death);
+Unearthly Damage Peridot +11% (Storm);
+Unearthly Damage Ruby +9% (Ice);
+Unearthly Damage Ruby +9% (Life)*F2;
+Unearthly Damage Ruby +10% (Balance);
+Unearthly Damage Ruby +10% (Fire);
+Unearthly Damage Ruby +10% (Myth);
+Unearthly Damage Ruby +11% (Death);
+Unearthly Damage Ruby +11% (Storm);
+Unearthly Damage Sapphire +9% (Ice);
+Unearthly Damage Sapphire +9% (Life);
+Unearthly Damage Sapphire +10% (Balance);
+Unearthly Damage Sapphire +10% (Fire);
+Unearthly Damage Sapphire +10% (Myth);
+Unearthly Damage Sapphire +11% (Death);
+Unearthly Damage Sapphire +11% (Storm);
+
+| pins =
+Balance Crushing Pin (160, Fire);
+Balance Crushing Pin (170, Fire);
+Balance Crushing Pin (170, Life);
+Balance Disabling Pin (160, Life);
+Death Crushing Pin (160, Myth);
+Death Crushing Pin (170, Fire);
+Death Punishing Pin (170, Fire);
+Fire Crushing Pin (170, Myth);
+Ice Crushing Pin (170, Fire);
+Ice Crushing Pin (160, Life);
+Ice Crushing Pin (170, Life);
+Ice Disabling Pin (170, Fire);
+Ice Punishing Pin (160, Fire);
+Ice Punishing Pin (160, Life);
+Ice Punishing Pin (160, Myth);
+Ice Punishing Pin (170, Fire);
+Ice Punishing Pin (170, Myth);
+Life Disabling Pin (170, Myth);
+Life Punishing Pin (160, Fire);
+Myth Crushing Pin (170, Fire);
+Myth Disabling Pin (170, Fire);
+Myth Punishing Pin (160, Fire);
+Storm Crushing Pin (170, Myth);
+Storm Punishing Pin (160, Life);
+Storm Punishing Pin (170, Death);
+Storm Punishing Pin (170, Fire);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Malus
+}}

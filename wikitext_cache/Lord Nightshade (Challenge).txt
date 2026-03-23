@@ -1,0 +1,158 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 10,400
+| crecla = Undead
+| school = Death
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+50;
+
+| outpierce =
+
+| outboost =
+50%;
+
+| incboost =
+None;
+
+| incresist =
+20% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Lord Nightshade Rematch
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the Standard version of this battle, see {{Link|Creature|Lord Nightshade (Standard)}}.
+
+'''Advanced Combat Rules:'''
+*Wizards stats and spells are scaled to Level 50.
+*Spell Decks cannot be changed while in this instance. (Make sure to set the spells in a deck before entering this instance).
+*No-PvP spells are disallowed in this fight.
+*PvP-Only Spells are allowed in this fight.
+*Wizards cannot re-join combat after fleeing mid-combat.
+
+| speech =
+
+| cheatnotes =
+{{Icon|Late}} ''"Tardiness is unacceptable"'' - If a Wizard is late after the second Round, Boss will cast a Moon version of Ship of Fools dealing '''100,000''' Moon Damage. If a Damage cap is active, the Damage will be set to the maximum.
+
+{{Icon|Global}} '''Equalize Cycle'''
+*''"Your doom approaches"'' - At the start of Round 1, the Boss will cast a Death version {{Link|Spell|Equalize}}, which sets the Damage cap to 250.
+*''"Closer"'' - At the start of Round 3, the Boss will cast a Death version Equalize, which sets the Damage cap to 500.
+*''"and closer..."'' - At the start of Round 5, the Boss will cast a Death version Equalize, which sets the Damage cap to 1,000.
+*''"It's almost here"'' - At the start of Round 7, the Boss will cast a Death version Equalize, which sets the Damage cap to 2,000.
+*''"Your doom is NOW!"'' - At the start of Round 10, the Boss will cast {{Link|Spell|Doom and Gloom (Moon)}}.
+
+*''"You wish to hasten your doom?"'' - If a Wizard changes the Global, Lord Nightshade will immediately replace the Equalize, resetting the Damage cap to 250. The cycle will continue normally, and future Equalize casts will set the Damage cap to the proper limit for that round.
+
+{{Icon|Round}} '''End of Round Cycle'''
+*''"Kneel! For I am the harbinger of your demise!"'' - At the end of every Round, Lord Nightshade will interrupt with a Moon version of '''Deer Knight''' dealing '''100,000''' Moon Damage. If a Damage cap is active, the Damage will be set to the maximum.
+**If a Wizard changes the global, the Deer Knight will deal 250 damage due to the Equalize being temporarily reset.
+
+| spellnotes =
+
+| casts =
+Mass Infection;
+Deathblade (+40%);
+Dark Tribute;
+Mass Death Trap;
+Vampire (Tier 2b);
+Skeletal Pirate (Tier 2b);
+Wraith (Tier 2b);
+Natural Attack (Wraith);
+
+| quests =
+
+| dropnotes =
+This Boss will always drop the following:
+*{{Icon|Robe}} 2-3 Malistaire Wands or Amulets
+*{{Icon|Reagent}} 12 Malistaire's Whisker
+*{{Icon|Spellement}} 33 groups of Rank 1-2 Spellements
+*{{Icon|Treasure Card}} 9-10 Azoth Treasure Cards
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Malistaire's Chilly Charm (Level 160+);
+Malistaire's Ghostly Charm (Level 160+);
+Malistaire's Harmonic Charm (Level 160+);
+Malistaire's Infamous Charm (Level 160+);
+Malistaire's Squall Charm (Level 160+);
+Malistaire's Thorny Charm (Level 160+);
+Malistaire's Vengeance Charm (Level 160+);
+
+| rings =
+
+| wands =
+Malistaire's Chilly Staff (Level 160+);
+Malistaire's Ghostly Staff (Level 160+);
+Malistaire's Harmonic Staff (Level 160+);
+Malistaire's Infamous Staff (Level 160+);
+Malistaire's Squall Staff (Level 160+);
+Malistaire's Thorny Staff (Level 160+);
+Malistaire's Vengeance Staff (Level 160+);
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Malistaire's Whisker @ 12 Malistaire's Whisker;
+
+| spellements =
+Blood Bat @ 2 Blood Bat;
+Dark Sprite @ 2 Dark Sprite;
+Fire Cat @ 2 Fire Cat;
+Fire Elf @ 2 Fire Elf;
+Frost Beetle @ 2 Frost Beetle;
+Ghoul @ 2 Ghoul;
+Imp @ 2 Imp;
+Leprechaun @ 2 Leprechaun;
+Lightning Bats @ 2 Lightning Bats;
+Scarab @ 2 Scarab;
+Scorpion @ 2 Scorpion;
+Snow Serpent @ 2 Snow Serpent;
+Thunder Snake @ 2 Thunder Snake;
+Troll @ 2 Troll;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Lord Nightshade (Rematch)
+
+}}

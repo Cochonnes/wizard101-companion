@@ -1,0 +1,421 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 15,999
+| crecla = Luphilim
+| school = Sun
+| masteries =
+Fire;
+Myth;
+Life;
+
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+25%;
+
+| outboost =
+130%;
+
+| incboost =
+5% Ice, Storm, Death;
+
+| incresist =
+70% Fire, Myth, Life;
+
+| outhealing =
+45%;
+
+| inchealing =
+50%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Luphilim Soldier;
+
+| world = Empyrea
+| location = Husk
+| subloc1 = Astral Grove
+| descrip =
+This is the Vigilant Sargun (Rank 18), not to be confused with the {{Link|Creature|Vigilant Sargun (Rank 17)}} which has 8,000 Health.
+
+| speech =
+:''"Jehoha'goraj, Wizard- Is that a Child of Spider? So you are in the league with the Shadow! Attack!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"You're Late!"'' - If a Wizard joins the battle after the second Round, Vigilant Sargun will interrupt-cast {{Link|Spell|Queen Calypso (Shadow)}} on the late Wizard.
+*{{Icon|Round}} ''"Let's equalize the situation"'' - At the beginning of the first Round, Vigilant Sargun will interrupt-cast Equalize, which sets the Damage cap to '''7,999'''.
+**{{Icon|Global}} ''"Not going to happen!"'' - If a Wizard attempts to replace the Global, Vigilant Sargun will recast it.
+*{{Icon|Dispel}} ''"You dare silence me?"'' - If a Wizard casts a Dispel on Vigilant Sargun, he will cast Sun version of Cleanse Charm on himself.
+
+
+| spellnotes =
+*Casts a protected Balanceblade.
+*Casts a Mass version of Hex.
+
+'''Natural Attack:'''
+*Deals 480 Fire Damage for 4 Pips maximum.
+*Deals 460 Myth Damage for 4 Pips maximum.
+*Deals 420 Life Damage for 4 Pips maximum.
+
+| casts =
+Impede;
+Quicken;
+Smoke Screen;
+Dryad;
+Balanceblade;
+Hex;
+Blinding Light;
+Natural Attack (Fire 120-240-360, 70%);
+Meteor Strike;
+Natural Attack (Myth 115-230-345, 75%);
+Athena Battle Sight;
+Chivalrous Centaur;
+Orthrus;
+Natural Attack (Life 105-210-315, 85%);
+Brulee Sucre;
+King Artorius (Life);
+
+| quests =
+Astral Project Your Voice!;
+Timber Timbre;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge and has not unlocked the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge, the following drops will be available:
+*9 Spellements will drop each time from '''any''' School for their respective rank 10, 11, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+155 - 266;
+
+| hats =
+Balanced Paradox Conical*F2;
+Deathly Paradox Conical*F2*WMV;
+Divine Paradox Conical*F5;
+Fiery Paradox Conical*F3*WMV;
+Icy Paradox Conical*F2*WMV;
+Lively Paradox Conical*F4*WMV;
+Mythic Paradox Conical;
+Stormy Paradox Conical*F3*WMV;
+
+| robes =
+
+| boots =
+Balanced Paradox Boots*F3;
+Bodacious Kalamar Kicks*F5*WMV;
+Chill Kalamar Kicks*F5*WMV;
+Choice Kalamar Kicks*F7*WMV;
+Deathly Paradox Boots*F2;
+Divine Paradox Boots*F3;
+Fiery Paradox Boots*F3;
+Gnarly Kalamar Kicks*F4*WMV;
+Heavy Kalamar Kicks*F4*WMV;
+Icy Paradox Boots;
+Lively Paradox Boots*F2*WMV;
+Mondo Kalamar Kicks*F4*WMV;
+Mythic Paradox Boots*F2*WMV;
+Rad Kalamar Kicks*F4*WMV;
+Righteous Kalamar Kicks*F3*WMV;
+Stormy Paradox Boots*F2;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Aero Dwarf Chair*F3;
+Aero Dwarf Potted Plant*F2;
+Empyrea Aero Plains Combat*F2*WMV;
+Empyrea Aero Plains Theme*F3*WMV;
+Empyrea Chaos Jungle Theme*F3*WMV;
+Empyrea Husk Combat;
+Empyrea Husk Storm Combat*F6*WMV;
+Empyrea Husk Theme;
+Empyrea Mandalla Combat;
+Empyrea Nimbus Combat;
+Kalamar Side Table;
+Nimbari Chair;
+Nimbari Sword Rack*F2*WMV;
+Ornate Nimbari Vase;
+Tall Kalamar Vase*F3*WMV;
+Wide Kalamar Vase;
+
+| cards =
+Bonetree Lord;
+Chinook Genie;
+Combustion*F3*WMV;
+Cyclops;
+Darkwind;
+Death Prism;
+Diablo Qarin;
+Elemental Blade*F2;
+Elemental Shield;
+Elemental Spear*F4*WMV;
+Fable Lord*F3*WMV;
+Fire Prism;
+Firespear*F2*WMV;
+Harmattan Maxios*F2;
+Humongofrog*F3*WMV;
+Ice Prism*F3*WMV;
+Icespear*F3*WMV;
+Kraken*F2;
+Life Prism*F3*WMV;
+Lord of the Squall*F2*WMV;
+Mass Death Prism*F2*WMV;
+Mass Ice Prism;
+Mass Myth Prism*F2*WMV;
+Mass Storm Prism*F3*WMV;
+Mega Soothe*F3*WMV;
+Mega Subdue*F2;
+Mutate Bird (Storm);
+Mutate Elf (Storm)*F2*WMV;
+Mutate Hound (Ice);
+Mutate Kraken (Ice);
+Mutate Minotaur (Sun);
+Mutate Phoenix (Storm);
+Mutate Shark (Ice);
+Mutate Snowman (Fire);
+Mutate Snowman (Storm);
+Mutate Wyvern (Storm);
+Mythspear;
+Oni No Jade*F2;
+Oni No Plague*F2;
+Sirocco Djinni*F2*WMV;
+Spirit Spear*F2;
+Storm Prism*F2;
+Stormspear*F3*WMV;
+Tundra Lord;
+
+| reagents =
+Aether*F5*WMV;
+Agave Leaves*F3*WMV;
+Agave Nectar*F3*WMV;
+Amber*F3*WMV;
+Amber Dust*F4*WMV;
+Ancient Scroll*F8*WMV;
+Antique Coins*F6*WMV;
+Aquamarine*F10*WMV;
+Astral Shard*F6*WMV;
+Black Pearl*F5*WMV;
+Blood Moss*F6*WMV;
+Braided Vine*F2*WMV;
+Brass*F8*WMV;
+Bronze Gear*F2*WMV;
+Cobalt*F2*WMV;
+Draconium*F4;
+Ectoplasm*F6*WMV;
+Fire Blossom*F4*WMV;
+Fish Fin*F5*WMV;
+Flying Squid Ink*F8*WMV;
+Glass Sliver;
+Golden Pearl*F7*WMV;
+Merle's Whisker*F2;
+Mithril*F5*WMV;
+Nickel*F4*WMV;
+Orichalcum*F4;
+Pure Aethyr*F11*WMV;
+Scales*F17*WMV;
+Silver*F11*WMV;
+Spider Silk*F5*WMV;
+Spring*F6*WMV;
+Stardust*F3*WMV;
+Steel*F9*WMV;
+Sunstone*F10*WMV;
+Tin*F6*WMV;
+Titanium*F2*WMV;
+Tungsten*F10*WMV;
+Turmeric*F3*WMV;
+Turquoise*F7*WMV;
+Vine*F2*WMV;
+
+| spellements =
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Qismah's Curse*BR;
+Rusalka's Wrath*BR;
+Sand Wurm*BR;
+Scion of Life*BR;
+Storm Owl*BR;
+
+| snacks =
+Antheneum Delight*F3*WMV;
+Athame Pop*F4*WMV;
+Aztecan Hot Chocolate*F3*WMV;
+BBQ Drumstick*F2*WMV;
+Beast Wellington*F4*WMV;
+Berry Poundcake*F2*WMV;
+Boiled Spider Legs*F3*WMV;
+Bread Fruit Fruit;
+Cherry Pie;
+Cow Pie;
+Decimatoes;
+Discord Grape Jelly*F6*WMV;
+Dr. Jalapeno;
+Eye Candy*F11*WMV;
+Fern Jelly;
+Fetid Legumes;
+Fire Passion Fruit*F2*WMV;
+Gator Tots*F3*WMV;
+Ginger Mint Tea;
+Glowing Taffy*F9*WMV;
+Golden Squash*F2*WMV;
+Green Tomato*F2;
+Gummy Humongofrog*F4*WMV;
+Hero Sandwich*F4*WMV;
+High Road Haggis;
+Hive Rinds*F3*WMV;
+Hot Cross Buns*F8*WMV;
+Killer Tomato;
+Lemon Daisy*F2*WMV;
+Minotarts*F4*WMV;
+Pineapple Spears;
+Pizza*F6*WMV;
+Pyramints*F2;
+Redskin Peanut*F2;
+Rock and Roll Candy*F12*WMV;
+Salmon Joy*F3*WMV;
+Satyr Chow*F5*WMV;
+Spicy Drumstick*F3;
+Sprinkle Cupcake*F11*WMV;
+Super Cold Popsicle;
+Taco*F2;
+Taco Town Special*F2*WMV;
+Tasty Rainbow;
+Veggie Juice;
+Wheat Cracker;
+
+| jewels =
+Shiny Accurate Amethyst +12%;
+Shiny Accurate Citrine +12%;
+Shiny Accurate Jade +12%;
+Shiny Accurate Onyx +12%;
+Shiny Accurate Ruby +12%*F2*WMV;
+Shiny Blocking Amethyst +15;
+Shiny Blocking Jade +15;
+Shiny Blocking Onyx +15;
+Shiny Blocking Sapphire +15;
+Shiny Critical Amethyst +15;
+Shiny Critical Citrine +15;
+Shiny Critical Jade +15;
+Shiny Critical Opal +8*F2*WMV;
+Shiny Critical Ruby +15;
+Shiny Critical Sapphire +15*F2;
+Shiny Damage Amethyst +25;
+Shiny Damage Citrine +25;
+Shiny Damage Ruby +25*F2*WMV;
+Shiny Damage Sapphire +25;
+Shiny Defense Amethyst +49;
+Shiny Defense Amethyst +50;
+Shiny Defense Hematite +50;
+Shiny Defense Onyx +50*F2*WMV;
+Shiny Defense Ruby +50;
+Shiny Defense Sapphire +50;
+Shiny Health Opal +106;
+Sparkling Accurate Jade +13%;
+Sparkling Blocking Amethyst +17;
+Sparkling Blocking Citrine +18;
+Sparkling Blocking Onyx +18;
+Sparkling Blocking Ruby +18;
+Sparkling Critical Amethyst +18;
+Sparkling Critical Hematite +17;
+Sparkling Critical Peridot +18;
+Sparkling Critical Ruby +18*F2*WMV;
+Sparkling Critical Sapphire +17;
+Sparkling Damage Hematite +56;
+Sparkling Damage Onyx +27;
+Sparkling Damage Ruby +28;
+Sparkling Damage Sapphire +28;
+Sparkling Defense Amethyst +56;
+Sparkling Defense Hematite +54;
+Sparkling Defense Jade +55*F2;
+Sparkling Defense Jade +56;
+Sparkling Defense Opal +28*F3*WMV;
+Sparkling Defense Onyx +55;
+Sparkling Defense Peridot +56;
+Sparkling Defense Ruby +53;
+Sparkling Defense Ruby +56;
+Sparkling Defense Sapphire +55;
+Sparkling Health Opal +116;
+Sparkling Health Opal +117;
+Sparkling Health Opal +119*F3*WMV;
+Sparkling Health Opal +122*F2*WMV;
+Sparkling Health Opal +124*F9*WMV;
+Sparkling Health Opal +125*F2*WMV;
+Sparkling Mana Opal +49*F3*WMV;
+Sparkling Mana Opal +50;
+Sparkling Mana Opal +51*F5*WMV;
+Sparkling Mana Opal +52;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Angel Oak;
+Baby Carrots;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts;
+Boom Shroom;
+Boon Tree*CR;
+Cornbread Fruit Bush;
+Dandelion*F2*WMV;
+Deadly Fly Trap;
+Desparagus (Seed);
+Evil Magma Peas*CR*F2*WMV;
+Evil Snow Peas;
+Face Palm;
+Fickle Pickle*F3*WMV;
+Fiery Boom Shroom;
+Fortune Cookie Tree*F2*WMV;
+Frozen Fly Trap*F4*WMV;
+Golden Couch Potatoes;
+Goose Tree;
+Green Snow Apples*F2*WMV;
+Honey Sickle;
+Key Limes*CR;
+Laugh-O-Dil*F3*WMV;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Ninja Fig*CR;
+Orange Bell Pepper*CR;
+Pink Huckleberries*F2;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus*F3*WMV;
+Purple Snow Apples*F2*WMV;
+Red Huckleberries;
+Saw Palmetto;
+Silver Trumpet Vine*CR;
+Snap Dragon;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Tiger Lily (Seed);
+Trumpet Vine;
+Ultra Boom Shroom;
+Ultra Dandelion;
+Ultra Snap Dragon;
+Ultra Trumpet Vine;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

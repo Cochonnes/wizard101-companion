@@ -1,0 +1,101 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 19,920
+| crecla = Wizard
+| school = Storm
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Khrysalis
+| location = Shadow Palace
+| subloc1 = Morganthe's Chamber
+| descrip =
+Storm Morganthe is one of the five Morganthe forms encountered during the final battle in Khrysalis. All drops, cheats, and speech are recorded on the {{Link|Creature|Morganthe (Death)}} page.
+*Morganthe (Storm) will always occupy the fourth duel circle slot.
+
+| speech =
+
+| spellnotes =
+*This Boss uses {{Link|Spell|Shadow Shrike}} that give '''+15''' backlash.
+
+| casts =
+Shadow Shrike;
+Dark Nova;
+Infallible;
+Lightning Strike;
+Stormblade;
+Storm Trap;
+Windstorm;
+Enfeeble;
+Natural Attack (Storm 200-340-480);
+Storm Morganthe Attack;
+Storm Dragon;
+Sirens;
+Storm Owl;
+Tempest (85);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,195 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 3,360
+| crecla = Wizard
+| crecla2 = Undead
+| school = Life
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Confused Sentry;
+
+| world = Dragonspyre
+| location = The Labyrinth
+| descrip =
+Zora Steelwielder is a roaming street Boss in The Labyrinth. She spawns with the Confused Sentries in the central area of the map.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+Quite the explorer, she's often confused for her sister, Dora.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Sprite;
+Lifeblade;
+Life Trap;
+Leprechaun;
+Nature's Wrath;
+Seraph;
+Centaur;
+Locust Swarm;
+Cyclops;
+Storm Shark;
+Natural Attack (Ice 85x, 85%);
+Fire Elf;
+Meteor Strike;
+Heck Hound;
+
+| quests =
+Jail Break;
+
+| gold =
+63 - 118;
+
+| hats =
+Bonfire Headdress;
+Cap of Constitution;
+Cap of the Unflinching*F3*WMV;
+Cowl of Morbidity;
+Cowl of the Glacier*F3*WMV;
+Equalizer's Coif*F2;
+Hat of the Endless*F2*WMV;
+Helm of Oblivion;
+Hood of the Ranger*F3*WMV;
+Ivy-Wrapped Cap*F2*WMV;
+Mantle of the Icicle;
+Triton's Topper*F2*WMV;
+Veil of Leaves;
+
+| robes =
+Robe of the Gale*F3;
+Salamander's Wrap;
+Snowflower Cloak*F3*WMV;
+Storm Giant's Surcoat;
+Tunic of Tradition*F2*WMV;
+
+| boots =
+Ashen Footwraps*F2*WMV;
+Boots of Equivalence;
+Burning Boots;
+Salamander-Hide Shoes;
+Sandals of Lost Aeons*F2*WMV;
+Sandals of Scorching*F3;
+Sandals of the Squall;
+Sandals of Zest*F3;
+
+| athames =
+Athame of the Volcano*F2*WMV;
+Dauntless Dirk;
+Dragonblood Dirk;
+Steelwielder's Skewer*F2;
+
+| amulets =
+
+| rings =
+Band of Balance*F4*WMV;
+Band of the Hearth*F2*WMV;
+Ring of Dominance;
+Ring of the Forefathers;
+Sapphire Studded Band*F4*WMV;
+Signet of the Chimera*F2;
+
+| wands =
+Steelwielder's Mineblade*F2;
+
+| decks =
+Steelwielder's Metalbound Deck*F3*WMV;
+
+| items =
+Clawed Statue Base*F2*WMV;
+Short Corner Wall Ruins*F2*WMV;
+Small Corner Wall Ruins;
+Snowflake Marker*F3;
+
+| cards =
+Dragonflies;
+
+| reagents =
+Brass;
+Bronze Gear*F5*WMV;
+Cobalt;
+Copper;
+Leather Straps*F4*WMV;
+Nickel*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Flaming Soup;
+Goat Cheese*F2*WMV;
+Golden Grapes*F3;
+Gummy Humongofrog*F2;
+King Banana;
+
+| jewels =
+Blemished Damage Onyx +12;
+Blemished Defense Amethyst +24;
+Determined Opal;
+Dull Accurate Citrine +6%;
+Dull Accurate Onyx +6%;
+Dull Accurate Sapphire +6%;
+Dull Blocking Jade +4;
+Dull Blocking Opal +2;
+Dull Critical Citrine +4;
+Dull Critical Onyx +4;
+Dull Defense Opal +14;
+Earthquake Peridot;
+Healer Opal*F2;
+Ice-Away Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fiery Boom Shroom*F3*WMV;
+King Parsley*CR*F4*WMV;
+Maelstrom Snap Dragon*F2;
+Pink Dandelion*CR*F2*WMV;
+White Laugh-O-Dil*F2;
+
+| mounts =
+
+| spells =
+
+}}

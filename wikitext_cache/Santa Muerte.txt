@@ -1,0 +1,261 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 18,215
+| crecla = Flamingo
+| school = Death
+| masteries =
+Fire;
+| cheats = Yes
+
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Blackback MistWitch;
+
+| world = Khrysalis
+| location = Kondha Desert
+| subloc1 = Chamber of the Sun's Shadow
+| descrip =
+Santa Muerte is the second Boss Wizards must duel in order to gain access to the Level 97+ [[:Category:Shadow Spells|Shadow Spells]].
+*Two additional Blackback MistWitch Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Too late, indeed. The Shadow Queen welcomes you, Wizard, to the Solar Arc. A fitting tomb for you and your broken dreams. I am Santa Muerte, and I will weep bloody tears in your memory."''
+
+| cheatnotes =
+*{{Icon|Shadow Pip}} When Santa Muerte has 2 Shadow Pips, she will use her turn to cast {{Link|Spell|Dark Fiend}}.
+**Because of new Shadow mechanics and updates, attempting to cast Dark Fiend will cause the Boss to always pass due to a targeting bug.
+
+| spellnotes =
+*Casts a version of Rain of Fire (330+880) where the Damage Over Time does not display visually (bug).
+
+| casts =
+Shadow Shrike;
+Dark Fiend;
+Amplify;
+Fortify;
+Deathblade;
+Curse;
+Death Trap;
+Ghoul;
+Lord of Night;
+Deer Knight;
+Poison (45+450);
+Skeletal Dragon (225+910);
+Natural Attack (Santa Muerte);
+Brimstone Revenant;
+Meteor Strike (355-395);
+Scald (567);
+Efreet;
+Rain of Fire (330+880);
+Heck Hound;
+
+| quests =
+Creatures of Shadows and Light;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*12 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+| gold =
+148 - 178;
+
+| hats =
+
+| robes =
+Besieged Burrower Armor*F2*WMV;
+Burrower Scout's Jerkin*F6*WMV;
+Mantis Chitin Armor;
+Scorched Armor of the Burn*F3*WMV;
+
+| boots =
+
+| athames =
+
+| amulets =
+Brood Mother's Lavalliere*F2*WMV;
+Relic of the Ruined Forest*F3*WMV;
+
+| rings =
+Gloom Dancer's Band*F3*WMV;
+Leaf Shield Ring of Ardor*F4*WMV;
+Moon's Tear Band*F2*WMV;
+
+| wands =
+
+| decks =
+Deck of Shadow Lightning (Square);
+Deck of Shadow Lightning (Tear)*F2;
+Deck of Shadow Lightning (Triangle)*F3;
+Deck of the Shadow Heart (Square)*F3*WMV;
+Deck of the Shadow Heart (Triangle);
+Deck of the Shadow Web (Square)*F2;
+Deck of the Shadow Web (Tear)*F2;
+Deck of the Shadow Web (Triangle);
+
+| items =
+Khrysalis Dreamworld Theme*F3*WMV;
+Khrysalis Hive Theme;
+Khrysalis Sardonyx Theme;
+Krokopatra Exalted Duel*CR;
+Meowiarty Archmage Duel*CR;
+Meowiarty Exalted Duel*CR*F2*WMV;
+Milk and Cookies*HOL;
+Rattlebones Master Duel*CR;
+Snowman*CR*HOL;
+Tree Wrapped Gift*HOL;
+Zeus Exalted Duel*CR;
+
+| cards =
+Avenging Fossil;
+Black Widow;
+Clockwork Spider*F2;
+Cycle of Life*F2;
+Doom and Gloom*F3*WMV;
+Galvanic Field;
+Hooligan;
+Legendary Treant (445)*F2*WMV;
+Locust Swarm;
+Lucius McTavish*F2*WMV;
+Luminous Weaver;
+O'Leary Charlatan (Death);
+O'Leary Swindler;
+Polar Swarm;
+Reliquary;
+Sleet Storm;
+Sprite Swarm (40+360)*F2;
+Storm Owl;
+Virulence;
+
+| reagents =
+Astral Shard*F6*WMV;
+Black Lotus*F3*WMV;
+Blood Moss;
+Bone*F3*WMV;
+Bronze Gear*F3*WMV;
+Deep Mushroom*F4*WMV;
+Draconium*F4;
+Fire Blossom*F2*WMV;
+Fossil;
+Golden Pearl*F2*WMV;
+Lava Lily*F3*WMV;
+Mist Wood*F2;
+Nightshade*F2*WMV;
+Ore*F4*WMV;
+Orichalcum*F2*WMV;
+Red Mandrake*F3*WMV;
+Silver;
+Stone Block*F4*WMV;
+Sunstone*F3;
+Turquoise*F4*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR*F3;
+Celestial Calendar*BR;
+Chimera*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR*F3;
+King Artorius (Ice)*BR*F2;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR*F2;
+Leviathan*BR;
+Lord of Winter*BR*F4;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR*F2;
+Snow Angel*BR*F2*WMV;
+Spinysaur*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Woolly Mammoth*BR*F2;
+
+| snacks =
+Alligator Pear;
+Bell Pepper Steak;
+Dead Beet Risotto*F2*WMV;
+Desparagus Quiche*F3*WMV;
+Discord Grape Jelly*F3*WMV;
+Evil Magma Soup;
+Flaming Soup*F2;
+Goat Cheese;
+Golden Apple*F2*WMV;
+Golden Grapes;
+King Banana*F2*WMV;
+King Parsley Soup*F3;
+Prickly Bear Punch;
+Shiny Tomato;
+Stuffed Bell Pepper*F2*WMV;
+Sweet Baby Carrots;
+
+| jewels =
+Devotion Opal;
+Polished Accurate Jade +10%;
+Polished Blocking Hematite +12;
+Polished Critical Amethyst +12;
+Polished Damage Hematite +42;
+Polished Defense Amethyst +44;
+Polished Defense Citrine +44;
+Polished Defense Sapphire +44;
+Polished Health Opal +94;
+Steal Health Talent Onyx;
+Unstoppable Talent Opal;
+
+| pins =
+
+| pets =
+Christmas Elf*CR*HOL;
+Snowball*CR*F3*WMV;
+Yuletide Spirit*CR*HOL;
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Boon Tree*CR*F2;
+Face Palm*F2*WMV;
+Queen Crape Myrtle;
+Saw Palmetto;
+Sword Fern*CR;
+
+| mounts =
+Stormrider Hare*PERM*CR*HOL;
+
+| spells =
+
+}}

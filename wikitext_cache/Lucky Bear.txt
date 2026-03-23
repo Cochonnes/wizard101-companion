@@ -1,0 +1,104 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 18,235
+| crecla = Were-Bear
+| school = Life
+| school2 = Moon
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+Life;
+
+| critical =
+495 Any;
+
+| criticalblock =
+600 Any;
+
+| outpierce =
+21%;
+
+| outboost =
+108%;
+
+| incboost =
+30% Death;
+
+| incresist =
+37% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+67% Life;
+
+| outhealing =
+2%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Howling Lands
+| subloc1 = Kingdom of Were-a-Lot
+| descrip =
+Lucky Bear is considered a minion to {{Link|Creature|Moonbeam Bear}}. All drops and cheats should be recorded on that page.
+
+| speech =
+
+| spellnotes =
+Casts a life version of Insane Bolt doing life damage and Hammer of Thor that does storm damage.
+
+| casts =
+Satyr;
+Leprechaun;
+Seraph;
+Forest Lord;
+King Artorius (Life);
+Insane Bolt;
+Hammer of Thor;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

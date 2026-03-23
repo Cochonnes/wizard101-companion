@@ -1,0 +1,105 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 19,490
+| crecla = Penguin
+| school = Ice
+| school2 = Death
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Ice;
+Death;
+
+| critical =
+224 Any;
+
+| criticalblock =
+336 Any;
+
+| outpierce =
+5%;
+
+| outboost =
+41%;
+
+| incboost =
+50% Fire, Myth;
+
+| incresist =
+50% Storm, Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Novus
+| location = Nucleus Gallery
+| subloc1 = Manticore's Madness
+| descrip =
+Atavus Pingouin is considered a Minion to {{Link|Creature|Atavus Monquistan}}.  All drops and cheats are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Tres Powerful;
+I Spit at Storms!;
+Celestial Intervention (Tier 2b);
+Star Shield;
+Rotten Sole;
+Threefold Fever;
+Reindeer Knight (200 Absorb);
+Handsome Fomori (Tier 5b);
+Blizzard;
+Ship of Fools (Tier 5a);
+Deer Knight (Tier 2b);
+Lord of Night (Tier 5a);
+Scarecrow;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,127 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 14,925
+| crecla = Frog
+| crecla2 = Humongofrog
+| school = Moon
+| school2 = Myth
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+24%;
+
+| outboost =
+101%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+41% Fire, Ice, Life, Death, Balance, Shadow;
+71% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Drop Bear (Myth);
+
+| world = Wallaru
+| location = Billabong Resort
+| subloc1 = Lagoon Pipeline
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*The strategy to defeat Tiddalik is to fizzle, removing his Shield.
+
+| speech = 
+:''"Water, water, water. Give me all the water. All the water, all the dreams, they are mine, my fuel, my feed, MINE!"''
+
+| cheatnotes =
+*''"The Tiddalik consumes. It's ever so sad."'':
+**{{Icon|Shield}} At the beginning of Round 1, and 3 Rounds after his Shield is removed, Tiddalik casts a {{Link|Spell|Tower Shield (-90%)}} on himself.
+***{{Link|Spell|Pierce}}, {{Link|Spell|Shatter}}, and {{Link|Spell|Steal Ward}} can not be used to remove the Shield. It will trigger the ''"That's not funny!"'' cheat.
+***If the Shield is broken by one of the above Spells or an All Enemies Spell, Tiddalik will recast it '''once'''.
+***If the Shield is broken by a single-target Damage Spell, Tiddalik will recast it '''twice'''.
+**{{Icon|Blade}}{{Icon|Shield}} Occasionally, if a Wizard has a Blade or Shield, Tiddalik will cast {{Link|Spell|Steal Charm}} or {{Link|Spell|Steal Ward}}, respectively.
+*{{Icon|Curse}} ''"That's not funny!"'' - If a single-target Spell is cast on Tiddalik while he has a Shield, he will cast a {{Link|Spell|Black Mantle}} on the caster.
+*{{Icon|Damage}} ''"Hahahahahahahahah!"'' - If a Wizard fizzles, Tiddalik will cast a version of {{Link|Spell|Colossafrog}} that deals no Damage, and then pushes all positive Charms and Wards to a random Wizard.
+
+| spellnotes =
+
+| casts =
+Magnify;
+Balanceblade;
+Bladestorm;
+Shift Meowiarty;
+Orthrus (Moon, 700);
+Shift Grey Wolf;
+Humongofrog (Tier 3a);
+Noble Humongofrog;
+Witch's House Call (No Minion);
+Medusa;
+
+| quests =
+The Great Explo-Dition;
+Creatures from Billabong Lagoons;
+
+| gold =
+13;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Frog Brekkie*CR*F2;
+
+| cards =
+Elemental Trap;
+Medusa;
+
+| reagents =
+Astral Shard;
+Merle's Whisker;
+Steel;
+
+| spellements =
+
+| snacks =
+Cowboy Chili;
+Marzipan Maize;
+Venison Chili;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

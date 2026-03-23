@@ -1,0 +1,205 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 3,070
+| crecla = Wizard
+| school = Death
+| startpips = 2
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+23% Death;
+
+| incboost =
+None;
+
+| incresist =
+32% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Death Soldier;
+
+| world = MooShu
+| location = Ancient Burial Grounds
+| subloc1 = Mysterious Dojo
+| descrip =
+Declan Wyrmdust is one of the members of the Carpe Diem Society who has been possessed by ''The Book of Lost Pages''. Wizards must rescue him during the [[Basic:The Lost Pages|Lost Pages Event]].
+*Two additional Death Soldier Minions appear if more than two Wizards are present.
+
+Declan Wyrmdust has the following Items equipped:
+*{{Link|Item|Yakedo's Cap of Premise}}
+*{{Link|Item|Youkai's Robe of Premise}}
+*{{Link|Item|Jade Oni's Boots}}
+*{{Link|Item|Otomo's Staff of Dreaming}}
+*{{Link|Item|Death Oni's Necklace of Doom}}
+
+Declan Wyrmdust has the following stats.
+*+12% {{Icon|Power Pip}} Chance
+
+| speech =
+:''"You should not be in such a rush, Wizard. Come with me and see the setting sun, the shortening day, and the face of Immortality!"
+
+| spellnotes =
+
+| casts =
+Deathblade;
+Curse;
+Death Trap;
+Doom and Gloom:0;
+Dark Blow:0;
+Black Cat (100-140);
+Death Troll (Death);
+Deer Knight;
+Vampire;
+Death Helephant (Death);
+Skeletal Pirate;
+
+| quests =
+Wicked Deadly;
+I Could Not Stop For Death;
+
+| dropnotes =
+[[Item:Dragon's Hoard Pack|Dragon's Hoard Equipment]] and the [[Mount:Bone Dragon|Bone Dragon Mount]] will only drop for Wizards under Level 50.
+
+| gold =
+58 - 154;
+
+| hats =
+Cap of Exertion*F2;
+Cowl of Sympathy;
+Cowl of Watchfulness*F4*WMV;
+Dragonrider's Vigilant Helm (Level 30+)*CR;
+Gogi Berry Stained Cap;
+Hat of Niceties;
+Hat of the Eager*F3*WMV;
+Hat of the Observant*F5*WMV;
+Helm of Struggling*F2*WMV;
+Hood of Melodies*F4*WMV;
+Industrial Helm;
+Shroud of Chants*F2;
+Shroud of the Opus;
+Stonebreaker's Hood*F3;
+
+| robes =
+Concordant Robes;
+Dragonrider's Assailing Robe (Level 30+)*CR;
+Quick-Witted Vestment;
+Robe of Song;
+Stonebreaker's Tunic*F3*WMV;
+Vestment of Arias;
+Vestment of Hymns;
+Vestment of Niceties;
+
+| boots =
+Boots of Consideration*F2*WMV;
+Boots of the Triad*F3*WMV;
+Boots of the Verse;
+Dragonrider's Assailing Shoes (Level 30+)*CR;
+Dragonrider's Utility Boots (Level 30+)*CR;
+Dragonrider's Utility Boots (Level 40+)*CR;
+Druidic Sandals;
+Engrossed Shoes;
+Footwraps of Generations;
+Immersive Sandals*F2;
+Sandals of Humor*F3;
+Stonebreaker's Boots*F2*WMV;
+Vigilant Sandals;
+
+| athames =
+Dagger of Soul-Searching;
+Kris of the Pensive Ones*F3*WMV;
+Shortblade of a Daydreamer*F3*WMV;
+Shortsword of Scrutiny;
+Stonebreaker's Dirk*F3;
+Student's Shortblade*F4*WMV;
+
+| amulets =
+
+| rings =
+Band of Hope*F5*WMV;
+Ring of Detachment*F2;
+
+| wands =
+Stonebreaker's Staff*F3*WMV;
+
+| decks =
+
+| items =
+Branch Painting*F3;
+Dirt Pile;
+Dragon Bust*F2*WMV;
+Dragon Pedestal*F3;
+Dragon Skull*F2*WMV;
+Regal Dragon Statue*F4;
+Stone Temple Column*F3*WMV;
+Throwing Star Case*CR*F3*WMV;
+
+| cards =
+Black Mantle;
+Doom and Gloom;
+Dragonblade (Balance)*F2*WMV;
+Fire Dragon*F2;
+Pest Zapper;
+Satyr;
+Squall Wyvern*F2;
+Wyldfire;
+
+| reagents =
+Bone*F4*WMV;
+Ectoplasm*F7*WMV;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Crunch Apple*F3*WMV;
+Fire Cracker;
+Flaming Soup*F6*WMV;
+Frosted Drakes Cereal*F7*WMV;
+Goat Cheese*F7*WMV;
+Golden Apple*F7*WMV;
+Golden Grapes*F5*WMV;
+Golden Peanut*F2;
+Golden Squash;
+Large Fish*F3*WMV;
+Large Watermelon;
+
+| jewels =
+Blemished PIP Opal +4%;
+Flawed Accurate Amethyst +4%;
+Flawed Accurate Onyx +4%;
+Flawed Defense Amethyst +19;
+Flawed Defense Peridot +19*F2;
+Flawed Defense Sapphire +19;
+Flawed Health Opal +34;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+Pink Dandelion*CR;
+
+| mounts =
+Bone Dragon*PERM;
+Dark Redwing;
+
+| spells =
+
+}}

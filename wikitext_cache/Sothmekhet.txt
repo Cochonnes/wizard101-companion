@@ -1,0 +1,128 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,540
+| crecla = Krokotopian
+| school = Ice
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire;
+
+| incresist =
+35% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Thrall of Sothmekhet;
+
+| world = Krokotopia
+| location = Karanahn Barracks
+| subloc1 = Sothmekhet's Sanctum
+| descrip =
+*Sothmekhet carries a Fire Seal that banishes the Efreet from the Spiral due to its extreme danger.  On their Level 58 Spell Quest, {{Link|Quest|The Inner Light}},  Fire Wizards must convince Sothmekhet to release the seal in order to summon the Efreet.
+*This Boss is not repeatable.
+
+| speech =
+:''"Another Fire Wizard?! When will you meddlers learn? The Spiral is better off without the Efreet in it!"''
+
+| cheatnotes =
+*''"A Charm! Let's even the playing field!"'' - Casting a Blade will cause him to interrupt-cast a {{Link|Spell|Hex (+35%)}} on the Wizard who cast it.
+**Global Spells will trigger this cheat, but Aura Spells will not.
+**Pet Spells will not trigger this cheat.
+*''"A ward! Let's even the playing field!"'' - Casting a Trap (including Feint) or a Shield will cause him to interrupt-cast a '''Hex (+35%)''' on the Wizard who cast it.
+**The text for this cheat only appears after Sothmekhet casts the Hex.
+
+| spellnotes =
+
+| casts =
+Stun Block;
+Iceblade;
+Ice Trap;
+Ice Prism;
+Thieving Dragon;
+Blizzard;
+Ice Wyvern;
+Blight Hound;
+Frostbite;
+Colossus;
+Tundra Lord;
+Natural Attack (Ice 85x, 80%);
+
+| quests =
+I Call Your Name;
+
+| gold =
+62 - 80;
+
+| hats =
+Vital Headdress;
+
+| robes =
+Salgio's Tinder Cloak;
+
+| boots =
+Boots of Celestian Totality*F4*WMV;
+Brimstone Boots;
+Ice Rangers;
+Icestar Stalkers;
+Tolerant Boots;
+Virtue Shoes;
+
+| athames =
+Dagger of Typhoons;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Dryad;
+Empower;
+Gargantuan;
+Unstoppable;
+
+| reagents =
+Brass;
+
+| spellements =
+
+| snacks =
+Delicious Cookie;
+
+| jewels =
+Plain Defense Onyx +29;
+Strangle Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

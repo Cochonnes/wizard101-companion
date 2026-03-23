@@ -1,0 +1,289 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 15,485
+| crecla = Dingo
+| school = Fire
+| school2 = Storm
+| masteries =
+Ice;
+Death;
+Balance;
+
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Ice;
+Storm;
+Myth;
+Life;
+Death;
+Balance;
+
+| critical =
+604 Any;
+
+| criticalblock =
+551 Any;
+
+| outpierce =
+35%;
+
+| outboost =
+128%;
+
+| incboost =
+30% Ice;
+
+| incresist =
+29% Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+59% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Misbehaving Mutt;
+
+| world = Wallaru
+| location = Wobbegong Territory
+| subloc1 = Crash's Cave (Standard)
+| lootchest = Crash's Chest (Standard)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the Challenge version of this battle, see {{Link|Creature|Crash the Bandit Coot (Challenge)}}.
+*{{Link|NPC|Mack}} appears after the duel.
+
+| speech =
+:'''Crash the Bandit Coot''': ''"Look at them: crystals and gems! Now at last I can take over the Spiral."''
+:'''Misbehaving Mutt''': ''"How... exactly?"''
+:'''Crash the Bandit Coot''': ''"With the crystals... or maybe the gems. I think there's a vortex. Hang on, I've got this written down."''
+:'''Misbehaving Mutt''': ''"There's a Wizard here, boss."''
+:'''Crash the Bandit Coot''': ''"What? How? Step on their head!"''
+
+| cheatnotes =
+*{{Icon|Manipulation}} ''"Crickey, too many power-ups!"'' - At the end of every 2nd Round, Crash the Bandit Coot casts a 0 Damage Shadow version of {{Link|Spell|Empower}} that gives him a random School Pip.
+*{{Icon|Pip}} ''"Crash Attack!"'' - At the end of every Round, if Crash the Bandit Coot has 2 or more of the same School Pip, he will cast the following Spells:
+**{{Icon|Fire School Pip}} 2 Fire Pips: {{Link|Spell|Sun Serpent}}
+**{{Icon|Ice School Pip}} 2 Ice Pips: {{Link|Spell|Lord of Winter}}
+**{{Icon|Storm School Pip}} 2 Storm Pips: {{Link|Spell|Storm Owl}}
+**{{Icon|Myth School Pip}} 2 Myth Pips: {{Link|Spell|Celestial Calendar}}
+**{{Icon|Life School Pip}} 2 Life Pips: {{Link|Spell|Spinysaur}}
+**{{Icon|Death School Pip}} 2 Death Pips: {{Link|Spell|Avenging Fossil}}
+**{{Icon|Balance School Pip}} 2 Balance Pips: {{Link|Spell|Sabertooth}}
+**This cheat can repeat multiple times during the same Round.
+
+| spellnotes =
+
+| casts =
+Frenzy;
+Pigsie (Tier 3b);
+Blade Dance (0 Pip);
+Phantasmania! (Tier 2a);
+Glimpse of Infinity (Tier 3b);
+Immolate (Tier 3a);
+Insane Bolt;
+Hammer of Thor (Tier 3b);
+Angry Snowpig (Tier 3b);
+Ship of Fools (Tier 3b);
+Ninja Piglets (Tier 3b);
+
+| quests =
+The Crash of Us;
+
+| dropnotes =
+Crash the Bandit Coot (Standard) is guaranteed to drop:
+*1 Dream Water Reagent
+*4-5 Spellements from Empyrea, Karamelle, Lemuria, Novus, or Wallaru.
+
+| gold =
+9 - 75;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Bold Dream Reaver Amulet*F2;
+Bold Dream Warper Amulet*F3;
+Cruel Dream Reaver Amulet*F2;
+Cruel Dream Warper Amulet*F3*WMV;
+Deft Dream Reaver Amulet*F5*WMV;
+Deft Dream Warper Amulet*F3*WMV;
+Fabled Dream Reaver Amulet*F3*WMV;
+Fabled Dream Warper Amulet*F2;
+Fell Dream Reaver Amulet*F2;
+Fell Dream Warper Amulet*F4*WMV;
+Fervid Dream Reaver Amulet*F2;
+Fervid Dream Warper Amulet*F3;
+Fierce Dream Reaver Amulet*F6*WMV;
+Fierce Dream Warper Amulet*F3*WMV;
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Legendary Socket Wrench*F6*WMV;
+Wallaru Billabong Resort Com Theme;
+Wallaru Billabong Resort Theme;
+Wallaru Doom Moon Combat Theme*F2;
+Wallaru Doom Moon Theme;
+Wallaru Eucalyptus Forest Com Theme*F2*WMV;
+Wallaru Eucalyptus Forest Theme;
+Wallaru Outback Combat Theme*F2;
+Wallaru Outback Theme;
+Wallaru Ranch Combat Theme*F3*WMV;
+Wallaru Starry Sky Theme*F2;
+Wallaru The Dreaming Combat Theme;
+Wallaru Wobbegong Combat Theme*F2;
+Wallaru Wobbegong Theme*F2*WMV;
+
+| cards =
+Balanceblade*F2;
+Cleanse Charm;
+Deathblade;
+Empower;
+Feint;
+Fire Trap;
+Fireblade;
+Hex;
+Ice Trap;
+Iceblade;
+Life Trap;
+Lifeblade;
+Myth Trap*F2*WMV;
+Mythblade;
+Reshuffle;
+Spirit Blade;
+Storm Trap;
+
+| reagents =
+Bone;
+Bronze Gear;
+Cobalt;
+Copper;
+Dream Water @ 1 Dream Water*F50*WMV;
+Ectoplasm;
+Fish Fin*F3*WMV;
+Lead*F3*WMV;
+Leather Straps*F3*WMV;
+Nickel*F4*WMV;
+Pyrite*F2*WMV;
+Scales*F2;
+Spider Silk*F4;
+Tungsten*F3;
+Turmeric*F4*WMV;
+
+| spellements =
+Barbarian's Saga*F11*WMV;
+Blast Off!*F6*WMV;
+Bunyip's Rage*F9*WMV;
+Count Croakula*F3;
+Dark & Stormy*F4*WMV;
+Deathly Depths*F7*WMV;
+Drop Bear Fury*F10*WMV;
+Freeze Ray*F6*WMV;
+Glimpse of Infinity*F7*WMV;
+Gravestorm*F5;
+Grim Reader*F8*WMV;
+Grrnadier*F11*WMV;
+Improbable Gaze*F8*WMV;
+Lord of the Jungle*F6*WMV;
+Mockenspiel*F5*WMV;
+Old One's Endgame*F5*WMV;
+Phantasmania!*F8*WMV;
+Rainbow Serpent*F3*WMV;
+S'more Machine*F9*WMV;
+Scales of Destiny*F6*WMV;
+Scion of Balance*F2*WMV;
+Scion of Death;
+Scion of Fire*F2*WMV;
+Scion of Ice;
+Scion of Life;
+Scion of Myth*F2*WMV;
+Scion of Storm;
+Shatterhorn*F5*WMV;
+Snack Attack*F8*WMV;
+Sound of Musicology*F11*WMV;
+Starspawn*F9*WMV;
+Tatzlewurm Terror*F6;
+Tree of Strife*F5*WMV;
+Wobbegong Frenzy*F7*WMV;
+Zand the Bandit*F9*WMV;
+
+| snacks =
+Bell Pepper Steak;
+Black Sun Seeds;
+Carrot;
+Cracker;
+Dragon Fruit;
+Evil Carrot;
+Fern Jelly;
+Flaming Jalapeno;
+Glowing Dragon Fruit*F2;
+Golden Biscuit;
+Heavenly Bubblegum;
+Lava Guava;
+Orange Jalapeno;
+PB Cookie;
+Popsicle*F2*WMV;
+Salty Fish;
+Spicy Chips;
+Spicy Drumstick;
+Tamales;
+Wild Strawberry;
+Wrath's Grape Juice;
+
+| jewels =
+
+| pins =
+Balance Blocking Pin (150, Fire);
+Balance Blocking Pin (150, Life);
+Balance Blocking Pin (150, Myth);
+Balance Blocking Pin (160, Life);
+Balance Blocking Pin (160, Myth);
+Balance Resist Pin (140, Death);
+Balance Resist Pin (140, Fire);
+Balance Resist Pin (140, Life);
+Death Blocking Pin (160, Myth)*F2*WMV;
+Death Resist Pin (150, Myth);
+Fire Blocking Pin (150, Life)*F2;
+Fire Blocking Pin (160, Life);
+Fire Mending Pin (160);
+Fire Resist Pin (140, Life)*F2;
+Fire Resist Pin (140, Storm)*F2;
+Ice Blocking Pin (150, Myth);
+Ice Blocking Pin (160, Myth);
+Ice Resist Pin (140, Myth)*F2*WMV;
+Life Blocking Pin (160, Death);
+Life Mending Pin (140);
+Life Mending Pin (160);
+Life Resist Pin (140, Storm);
+Myth Blocking Pin (150, Fire);
+Myth Blocking Pin (160, Life)*F2;
+Myth Resist Pin (140, Life);
+Storm Mending Pin (160);
+Storm Resist Pin (130, Death);
+Storm Resist Pin (160, Ice);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Crash the Bandit Coot
+}}

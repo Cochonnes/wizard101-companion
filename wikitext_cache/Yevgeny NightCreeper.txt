@@ -1,0 +1,396 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 22,400
+| crecla = Undead
+| school = Moon
+| masteries =
+Ice;
+Myth;
+Death;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+55%;
+
+| outboost =
+
+| incboost =
+15% Fire, Storm;
+30% Life;
+
+| incresist =
+30% Myth, Death;
+60% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Anguished Wraith (Ice);
+Anguished Wraith (Ice);
+Anguished Wraith (Ice);
+
+| world = Wizard City
+| location = Castle Darkmoor (Location)
+| subloc1 = Graveyard
+| descrip =
+
+| speech =
+:''"Exalted Malistaire placed me here to watch for your arrival, Little Wizard. When we destroy you, he will reward us with new life. Long ago, we were the most loyal and cunning Battle Mages to pledge our wands to the House of Drake. We served Vladan Drake until we fell in the great wars. Now we serve his son in our afterlife. Either way, Wizard City will forever be our enemy."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+A cunning Battle Mage who gave his life for House Drake. In Undeath, he loyally serves Malistaire the Undying... by watching his new graveyard.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+{{Icon|Blade}} ''"I counter your Blade!"'' - If a Wizard casts a [[:Category:Blade Spells|Blade]] Spell, Yevgeny will cheat-cast {{Link|Spell|Freeze}} on the Wizard.
+:*{{Icon|Global}} [[:Category:Global Spells|Global]] Spells will trigger this cheat.
+:*{{Link|TreasureCard|Conviction}} can be used to try countering this cheat.
+{{Icon|Ward}} ''"You give away your hand!"'' - If a Wizard casts a helpful [[:Category:Ward Spells|Ward]] Spell (Shields, Absorbs, etc.), he will cheat-cast {{Link|Spell|Pierce}} on the target of the Ward Spell.
+:*Using a spell that gives the caster a ward, such as {{Link|Spell|Sabertooth}}, will cause Yevgeny to use this cheat on himself.
+:*''"Leave this place!"'' - The Minions will also cheat-cast {{Link|Spell|Steal Ward}}, in order to remove any remaining Wards on the Wizard.
+{{Icon|Curse}} ''"I vex you!"'' - If a Wizard casts a harmful [[:Category:Charm Spells|Charm]], Yevgeny will cheat-cast {{Link|Spell|Bad Juju}} on the Wizard.
+:*Secondary Spell effects will trigger this cheat (e.g. {{Link|Spell|Efreet}}'s negative Charm).
+:*Harmful Charms that target all enemies (e.g. {{Link|Spell|Plague}}) will not trigger this cheat.
+
+'''Interrupt Cycles'''
+
+:This battle revolves around two different cheat cycles; a "Primary Interrupt Cycle" and a "Secondary Interrupt Cycle." Both cycles overlap each other throughout the battle.
+
+:'''Primary Interrupt Cycle:'''
+::The primary interrupt cycle consists of three active five Round sub-cycles. The entire cycle repeats itself after fifteen Rounds. This cycle removes one Shadow Pip from Yevgeny Nightcreeper but he can still cast Shadow Enhanced Spells after the cycle.
+:{{Icon|Ice}} '''Ice Interrupt Cycle''' (Rounds 1-5)
+::*''"I wrap you in armor!"'' - At the beginning of every Round in this sub-cycle, Yevgeny will cast {{Link|Spell|Frozen Armor (185)}} on himself or one of his Minions. 
+::*''"Let the cold wind destroy you!"'' - At the beginning of the fifth Round in this sub-cycle (and every fifteen Rounds after), he will cast {{Link|Spell|Katabatic Wind}}, {{Link|Spell|Mass Ice Trap}}, {{Link|Spell|Iceblade (+45%)}}, and {{Link|Spell|Dark Weaver}}. This Spell will target the Wizard with the lowest current Health.
+:{{Icon|Myth}} '''Myth Interrupt Cycle''' (Rounds 6-10)
+::*''"I empower you!"'' - At the beginning of every Round in this sub-cycle, Yevgeny will cast {{Link|Spell|Buff Minion}} on himself or one of his Minions.
+::*''"Crush my enemies!"'' - At the beginning of the fifth Round in this sub-cycle (and every fifteen Rounds after), he will cast {{Link|Spell|Saga of Heroes}}, {{Link|Spell|Mass Myth Trap}}, a {{Link|Spell|Mythblade (+40%)}}, and {{Link|Spell|Cursed Colossus}}.
+:{{Icon|Death}} '''Death Interrupt Cycle''' (Rounds 11-15)
+::*''"I decimate you!"'' - At the beginning of every Round in this sub-cycle, Yevgeny will cast a {{Link|Spell|Feint (+75%)}} on a random Wizard.
+::*''"Klaatu Barada Nikto!"'' - At the beginning of the fifth Round in this sub-cycle (and every fifteen Rounds after), he will will cast {{Link|Spell|Doom and Gloom (-75%)}}, a {{Link|Spell|Deathblade (+45%)}}, {{Link|Spell|Mass Death Trap}}, and {{Link|Spell|From Beyond}}.
+
+:'''Secondary Interrupt Cycle:'''
+:The secondary interrupt cycle activates at the end of every third Round, repeating itself every nine Rounds.
+::*''"Fear the howl of the moon!"'' - (Round 3) At the end of the third Round in this cycle, Yevgeny will cast {{Link|Spell|Shift Chaney (3 Pip)}}, dealing 800 Life Damage.
+::*''"Fear the bite of Dragonspyre!"'' - (Round 6) At the end of the sixth Round, he will cast a Fire version of {{Link|ItemCard|Shift Akhtang}}, which deals 1,000 Fire Damage.
+::*''"Fear the Blackwater!"'' - (Round 9) At the end of the ninth Round, he will cast a Moon version of {{Link|ItemCard|Shift Blackwater}}, which  deals 1,200 Moon Damage.
+
+| spellnotes =
+
+| casts =
+Moon Shield;
+Tower Shield;
+Legion Shield;
+Frozen Armor;
+Infection;
+Mass Infection;
+Bad Juju;
+Dragonspear;
+Moon Blade;
+Dark Tribute;
+Balanceblade;
+Moon Trap;
+Freeze;
+Pierce;
+Blinding Light;
+Katabatic Wind;
+Saga of Heroes;
+Age of Reckoning;
+Natural Attack (Moon 130-255-505);
+Lord of Night;
+Call of Khrulhu;
+Monster Mash (1,170);
+Scarecrow;
+Dr. Von's Monster;
+Mystic Colossus;
+Legendary Treant (445);
+Medusa;
+Basilisk;
+Winter Moon;
+Abominable Weaver;
+Frost Giant;
+Woolly Mammoth;
+Lord of Winter;
+
+| quests =
+The Sound of His Wings;
+
+| gold =
+155 - 496;
+
+| hats =
+Brimstone Helm of Darkmoor*F2*WMV;
+Darkmoor Barbut of Delusion*F2*WMV;
+Darkmoor Herald's Mantle*F2*WMV;
+Depths of Darkmoor Cover*F2;
+Helm of the Living Dead*F3*WMV;
+Raging Blackwater's Helm;
+
+| robes =
+Brimstone Gear of Darkmoor*F4*WMV;
+Darkmoor Armor of Delusion;
+Darkmoor Herald's Gear*F2*WMV;
+Depths of Darkmoor Raiment*F2*WMV;
+Plate of the Living Dead*F3*WMV;
+Raging Blackwater's Plate*F2*WMV;
+
+| boots =
+Battlemage's Boots of Furor*F5*WMV;
+Bitter Ghost's Stalkers;
+Boots of Carpathesian Fury;
+Brimstone Boots of Darkmoor*F4*WMV;
+Castle Darkmoor Footwraps;
+Darkmoor Boots of Delusion*F3*WMV;
+Law of Kan Davasi Sabatons*F2*WMV;
+Raging Blackwater's Boots*F2*WMV;
+Sabatons of Frozen Furor*F2*WMV;
+Sabatons of the Living Dead*F2*WMV;
+Sollerets of the Usurped*F2;
+Spirit of Darkmoor's Shoes*F7*WMV;
+
+| athames =
+Athame of the Dark Usurper*F2*WMV;
+Blade of Kan Davasi*F5*WMV;
+Dirk of Dimwood Vale*F2*WMV;
+Dirk of Unnatural Life*F12*WMV;
+Dragon's Talon of Tumult*F3*WMV;
+Dragon's Tooth of Darkmoor;
+Edge of the Raging Daystar;
+Herald of Darkmoor's Knife*F2*WMV;
+Kris of Cold Fury*F2*WMV;
+Lord of Death's Razor;
+Sharp Edge of the Void*F4*WMV;
+Spirit of Darkmoor's Thorn*F2*WMV;
+Thunderclap Spike*F6*WMV;
+Wolf's Lancet of Shivers;
+
+| amulets =
+
+| rings =
+Blackwater's Band*F7*WMV;
+Gargoyle's Circle*F5*WMV;
+Herald of Darkmoor's Seal*F4*WMV;
+Ring of Mortis*F4*WMV;
+Signet of the Howling Wolf*F2*WMV;
+Von Shane Family Signet*F6*WMV;
+Wolfbane Loop*F2*WMV;
+
+| wands =
+Bludgeon of the Dark Skies*F2*WMV;
+Mace of the Dark Flame;
+Mace of the Outer Void*F6*WMV;
+Mace of the Undying*F2;
+Morning Star of Kan Davasi*F2*WMV;
+Morning Star of Misery*F2*WMV;
+Virge of the Bitter Ghost*F2*WMV;
+
+| decks =
+
+| items =
+
+| cards =
+Avenging Fossil*F11*WMV;
+Banshee*F5*WMV;
+Black Cat*F4*WMV;
+Brimstone Revenant*F2*WMV;
+Catalan*F3*WMV;
+Celestial Calendar*F12*WMV;
+Chastisement*F8*WMV;
+Cycle of Life*F7*WMV;
+Dark Tribute*F7*WMV;
+Deer Knight;
+Dr. Von's Monster*F5*WMV;
+Furnace*F5*WMV;
+Galvanic Field*F10*WMV;
+Goat Monk*F3*WMV;
+Handsome Fomori*F6*WMV;
+Hex*F8*WMV;
+Keeper of the Flame*F2*WMV;
+Lady Blackhope*F16*WMV;
+Lord of Night*F2*WMV;
+Lord of Winter*F9*WMV;
+Luminous Weaver*F3*WMV;
+Ninja Pigs*F3*WMV;
+Plague*F5*WMV;
+Poison*F6*WMV;
+Punishment*F9*WMV;
+Reliquary*F11*WMV;
+Sabertooth*F14*WMV;
+Samoorai*F4*WMV;
+Savage Paw*F3*WMV;
+Skeletal Dragon*F13*WMV;
+Sleet Storm*F7*WMV;
+Spinysaur*F6*WMV;
+Storm Owl*F6*WMV;
+Sun Serpent*F8*WMV;
+The Bonekeeper*F8*WMV;
+Vampire*F9*WMV;
+Virulence*F9*WMV;
+Winter Moon;
+
+| reagents =
+Astral Shard*F15*WMV;
+Black Lotus*F29*WMV;
+Black Pearl*F15*WMV;
+Blood Moss*F12*WMV;
+Bone*F33*WMV;
+Bronze Gear*F20*WMV;
+Copper*F3*WMV;
+Deep Mushroom*F19*WMV;
+Draconium*F3*WMV;
+Fire Blossom*F26*WMV;
+Fossil*F12*WMV;
+Golden Pearl*F8*WMV;
+Iron*F3*WMV;
+Lava Lily*F25*WMV;
+Mist Wood*F19*WMV;
+Mithril*F4*WMV;
+Nickel*F3*WMV;
+Nightshade*F13*WMV;
+Ore*F32*WMV;
+Orichalcum*F4*WMV;
+Pyrite*F2*WMV;
+Red Mandrake*F24*WMV;
+Silver*F4*WMV;
+Stone Block*F21*WMV;
+Sunstone*F17*WMV;
+Titanium*F2*WMV;
+Tungsten*F2;
+Turquoise*F16*WMV;
+
+| spellements =
+
+| snacks =
+Alligator Pear*F8*WMV;
+Bell Pepper Steak*F7*WMV;
+Boom Stroganoff*F8*WMV;
+Bread Fruit Fruit*F8*WMV;
+Cold Snap Peas*F11*WMV;
+Cornbread Fruit*F12*WMV;
+Dead Beet Risotto*F5*WMV;
+Desparagus Quiche*F2;
+Desparagus Salad*F5*WMV;
+Discord Grape Jelly*F3*WMV;
+Evil Magma Soup*F4*WMV;
+Granny Snow Apple*F12*WMV;
+Huckleberry Pie*F4*WMV;
+King Parsley Soup*F2;
+Ninja Fig Bars*F2*WMV;
+Prickly Bear Punch*F2*WMV;
+Rye Bread Fruit*F9*WMV;
+Snow Apple Pie*F10*WMV;
+Stuffed Bell Pepper*F4*WMV;
+Wrath's Grape Juice*F16*WMV;
+
+| jewels =
+Adroit Opal;
+Animate Onyx*F2*WMV;
+Big Energy Opal;
+Blood Bat Peridot*F2;
+Canny Opal;
+Chipped PIP Opal +1%;
+Clay Post Opal;
+Clear Blocking Opal +5;
+Clear Critical Opal +5;
+Cracked Defense Amethyst +12;
+Cracked Defense Citrine +11;
+Cracked Defense Citrine +12;
+Cracked Defense Jade +12;
+Cracked Defense Opal +4;
+Cracked Defense Ruby +12;
+Cracked Defense Sapphire +12*F2*WMV;
+Delay Opal;
+Determined Opal;
+Dumbfound Opal;
+Fire-Shot Ruby;
+Gold Miner Opal;
+Ice-Boon Sapphire;
+Imp Jade;
+Life-Proof Jade;
+Mana Boost Opal;
+Opaque Accurate Opal +4%*F2;
+Polished Critical Citrine +11;
+Polished Critical Jade +11;
+Polished Critical Peridot +11;
+Polished Critical Ruby +11;
+Polished Defense Amethyst +43;
+Polished Defense Amethyst +44;
+Polished Defense Citrine +43;
+Polished Defense Jade +43;
+Polished Defense Onyx +43;
+Polished Health Opal +95;
+Polished Mending Opal +5%;
+Polished Piercing Amethyst +6%;
+Polished Piercing Citrine +6%;
+Polished Piercing Onyx +6%;
+Polished Piercing Ruby +6%;
+Polished Piercing Sapphire +6%;
+Polished PIP Opal +9%;
+Polished Resilient Opal +5%;
+Sap Opal;
+Scarab Citrine*F2*WMV;
+Sharp Opal;
+Shh! Opal;
+Siphon Opal;
+Spectral Minion Citrine;
+Sprite Guardian Jade;
+Storm-Eye Amethyst;
+Storm-Shot Amethyst;
+Supercharge Opal;
+Thunder Lizard Amethyst;
+Thunder Snake Amethyst;
+Unbalancer Citrine;
+Unbreakable Opal;
+Water Elemental Amethyst;
+Weakenizer Opal;
+Wise Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak*F4*WMV;
+Angora Bunny Ears*F4*WMV;
+Blue Huckleberries*F7*WMV;
+Fiery Boom Shroom*F3*WMV;
+Frozen Fly Trap*F9*WMV;
+Honey Bee Plant*F3*WMV;
+Key Limes*CR;
+Melting Cheese Tree*F4*WMV;
+Moon Flower*F7*WMV;
+Pink Dandelion*CR*F5*WMV;
+Pink Huckleberries*F3*WMV;
+Red Huckleberries*F3*WMV;
+Saw Palmetto*F5*WMV;
+
+| mounts =
+
+| spells =
+
+}}

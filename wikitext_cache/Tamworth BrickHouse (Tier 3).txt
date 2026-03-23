@@ -1,0 +1,172 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 2,130
+| crecla = Pig
+| school = Balance
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Lacombe StrawHouse (Tier 3);
+Berkshire StickHouse (Tier 3);
+
+| world = Housing Instance
+| location = Spiral Cup Gauntlet
+| subloc1 = Spiral Cup Gauntlet (Tier 3)
+| descrip =
+For the purpose of drops, Tamworth BrickHouse (Tier 3) is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+:'''Lacombe StrawHouse (Tier 3):''' ''"Ravenwood, huh? I've heard scary things about your school. Is it true your teachers can do... real magic?"''
+:'''Berkshire StickHouse (Tier 3):''' ''"I heard that the Death School professor is an undead dragon, and the Fire School professor can incinerate you with her gaze!"''
+:'''Tamworth BrickHouse (Tier 3):''' ''"Pegasus-feathers! They're just upjumped hedge witches with an obsession with trees! I mean, they aren't even noble pigs! We'll knock you off balance with our expertise in Equilibrium, and send you packing!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+It's often said attacking him is like hitting a brick wall.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Damage}} ''"Here's how the story goes!"'' - When Lacombe StrawHouse (Tier 3) is defeated, every Round after that Berkshire StickHouse (Tier 3) interrupt-casts Sandstorm.
+*{{Icon|Damage}} ''"Shake it down, shake it down now!"'' - When Berkshire StickHouse (Tier 3) is defeated, Tamworth BrickHouse (Tier 3) interrupt-casts Big Bad Hound every Round.
+**Using {{Link|Spell|Beguile}} on Lacombe StrawHouse (Tier 3) will trigger the first cheat, and using it on Berkshire StickHouse (Tier 3) will trigger both cheats.
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Weakness;
+Balanceblade;
+Scarab;
+Scorpion;
+Locust Swarm;
+Sandstorm;
+Big Bad Hound;
+Leprechaun;
+Troll;
+Storm Shark;
+
+| quests =
+Master of Arms;
+
+| gold =
+89 - 92;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Wysteria Combat Theme*F2*WMV;
+
+| cards =
+Balanceblade*F2;
+Banshee*F2*WMV;
+Cyclops*F2*WMV;
+Deathblade*F2;
+Elemental Blade;
+Evil Snowman;
+Fairy;
+Fireblade;
+Iceblade;
+Incinerating Touch;
+Lifeblade;
+Locust Swarm*F2*WMV;
+Mythblade;
+Spirit Blade*F2*WMV;
+Stormblade*F2*WMV;
+
+| reagents =
+Bone*F2*WMV;
+Bronze Gear*F2*WMV;
+Copper;
+Iron;
+Leather Straps*F2;
+Nickel;
+Spider Silk*F2*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Caramel Popcorn;
+Delicious Cookie*F2*WMV;
+Fire Cracker*F2;
+Glowing Rock Candy;
+Gummy Bloodbat;
+Large Fish;
+Meat Soup*F2*WMV;
+Redskin Peanut*F2*WMV;
+Spicy Drumstick;
+Square Root;
+Square Watermelon;
+Stinky Cheese;
+Strawberry Cupcake;
+Tasty Biscuit;
+Wheat Cracker;
+
+| jewels =
+Blemished Damage Amethyst +11;
+Blemished Damage Jade +11;
+Ice-Eye Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Bell Pepper;
+Dandelion;
+Desparagus (Seed);
+Frozen Fly Trap;
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

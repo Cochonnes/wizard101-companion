@@ -1,0 +1,108 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 16,820
+| crecla = 
+| school = Balance
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Balance;
+
+| critical =
+502 Any;
+
+| criticalblock =
+176 Any;
+
+| outpierce =
+16%;
+
+| outboost =
+103%;
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+33% Fire, Ice, Storm, Sun, Moon, Star, Shadow;
+63% Balance;
+
+| outhealing =
+11%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Outsiders Camp
+| subloc1 = Zone of Fortune
+| descrip =
+The third Tarot card of the Wizard's reading, The Hermit Card represents ...
+
+| speech =
+
+| cheatnotes = 
+*{{Icon|Protected Curse}} ''"Embrace Your Truth, Use It."'' - The Hermit Card will cast a number of Protected -100% Damage Negative Charms on each Wizard equal to the number of wizards in the battle, then give each Wizard a copy of {{Link|Spell|Purge (The Hermit Card)}}.
+**{{GivesSpell|Purge (The Hermit Card)|size = x150px}}
+** This spell is not required to be cast in order to defeat The Hermit Card.
+
+| spellnotes =
+
+| casts =
+Starfall;
+Weakness;
+Balanceblade;
+Obsidian Colossus (Tier 3a); 
+Ra (Tier 3a);
+Loremaster (Tier 3b);
+King Artorius (Balance) (Tier 3a);
+
+| quests =
+The You You Are;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

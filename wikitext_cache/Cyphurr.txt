@@ -1,0 +1,237 @@
+{{Stub|which version of the '''Mutate''' ''Treasure Card'' is dropped.}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 11,760
+| crecla = Qhat
+| school = Ice
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+30%;
+
+| incboost =
+15% Fire;
+
+| incresist =
+30% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+House Purrzian Assailant;
+
+| petbreed = Dusty Grimoire
+| world = Mirage
+| location = Caterwaul Canyons
+| subloc1 = Agouti Rift
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Pet}}{{Icon|Charm}} ''"I know just the trick"'' - At the start of Round 1 and every 4 rounds after, Cyphurr's Pet will cast an Item Card version of {{Link|Spell|Precision}}.
+*{{Icon|Blade}}''"I'll take that!"'' - If a Wizard casts a [[:Category:Blade Spells|Blade]] spell, Cyphurr's Pet will cast {{Link|Spell|Steal Charm}}.
+*{{Icon|Pet}}{{Icon|Stun}} ''"Grimoire! Page 43!"'' - On the third or fourth turn Cyphurr's Pet will cast {{Link|Spell|Stun}} on a random Wizard.
+*{{Icon|Pet}}{{Icon|Aura}} ''"Grimoire! Page 87!"'' - On the second turn Cyphurr's Pet will cast {{Link|Spell|Icewind}}.
+
+| spellnotes =
+
+| casts =
+Sleet Storm;
+Balefrost;
+Frost Snake (80);
+Ice Bats (215);
+Icebird (270);
+Natural Attack (Ice 105-210-315, 75%);
+Handsome Fomori;
+Blizzard (290-330, 80%);
+Winter Moon;
+Snow Angel (6 Pip);
+
+| quests =
+
+| gold =
+284 - 1,103;
+
+| hats =
+Alkali Kalpak of Vibrancy;
+Alkali Wintertide Kalpak;
+Eerem Headwrap of Harmony;
+Parched Wayfarer's Fez;
+Rubal Kufiya of Acerbity;
+
+| robes =
+Alkali Monsoon Armor;
+
+| boots =
+Aridian Shoes of Thriving;
+Rubal Babouches of Carnage;
+
+| athames =
+
+| amulets =
+Eerem Talisman of Clangor;
+
+| rings =
+Eerem Band of Pulse;
+
+| wands =
+Myriarch Tabarzin of Fevers;
+Scorpion Bow of Desolation;
+
+| decks =
+Eerem Hailstone Spread;
+Eerem Spread of Discovery;
+Flameforged Rubal Cards*F2*WMV;
+Gallant Istanboa Array;
+Rubal Deck of Acerbity;
+
+| items =
+Mirage Canyon Combat Theme;
+Mirage Canyon Theme 1;
+Mirage City Tense Theme;
+Mirage City Theme 2;
+Mirage Desert Combat Theme*F2*WMV;
+Mirage Magic Carpet Theme;
+Mirage Serpent Theme;
+Mirage Spider Speaks Theme;
+
+| cards =
+Astraphobia;
+Combustion;
+Frostfang;
+Mutate Colossus;
+Namaste;
+Nested Fury;
+Raging Bull;
+War Helephant;
+
+| reagents =
+Aether*F2*WMV;
+Amber*F2*WMV;
+Amber Dust*F4*WMV;
+Ancient Scroll*F2*WMV;
+Antique Coins*F4*WMV;
+Aquamarine*F3*WMV;
+Astral Shard*F3*WMV;
+Black Pearl;
+Blood Moss*F3*WMV;
+Brass*F4*WMV;
+Bronze Gear*F2*WMV;
+Cobalt*F3*WMV;
+Ectoplasm*F2;
+Fire Blossom;
+Golden Pearl*F3*WMV;
+Merle's Whisker;
+Mithril;
+Nickel*F3*WMV;
+Scales*F2;
+Silver;
+Spider Silk*F5*WMV;
+Spring*F3*WMV;
+Stardust;
+Steel*F3*WMV;
+Sunstone*F5*WMV;
+Tin*F2*WMV;
+Titanium;
+Tungsten*F2*WMV;
+Turmeric;
+Vine*F3*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington;
+Chili Cheese Fries;
+Delicious Cookie*F2*WMV;
+French Fries*F2;
+Gourmet Yogurt;
+Hard Boiled Beetle Eggs*F2*WMV;
+Huge Ice Cream;
+Large Ice Cream*F2;
+Satyr Chow*F2*WMV;
+Ships 'n' Queso*F2*WMV;
+Sprinkle Cupcake;
+Submarine Sandwich;
+Veggie Juice*F2*WMV;
+
+| jewels =
+Lustrous Blocking Citrine +13;
+Lustrous Blocking Ruby +13;
+Lustrous Critical Citrine +13;
+Lustrous Critical Sapphire +13;
+Lustrous Damage Ruby +23*F2*WMV;
+Polished Accurate Onyx +10%;
+Polished Blocking Citrine +11;
+Polished Blocking Jade +11;
+Polished Damage Citrine +21;
+Polished Damage Jade +21;
+Polished Damage Sapphire +21;
+Polished Defense Amethyst +42;
+Polished Defense Jade +41;
+Polished Defense Jade +42;
+Polished Defense Onyx +42;
+Polished Defense Peridot +42;
+Polished Health Opal +95;
+Polished Mana Opal +37;
+Renew Opal;
+Shiny Blocking Citrine +16;
+Shiny Critical Amethyst +16;
+Shiny Critical Hematite +16;
+Shiny Critical Sapphire +16;
+Shiny Damage Amethyst +26;
+Shiny Defense Jade +51;
+Shiny Health Opal +114;
+Shiny Mana Opal +47;
+
+| pins =
+
+| pets =
+Dusty Grimoire*F2;
+MaCaw*CR*F3*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears*F2*WMV;
+Baby Carrots;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts*F3*WMV;
+Cornbread Fruit Bush;
+Couch Potatoes*CR*F2*WMV;
+Deadly Ninja Fig;
+Fish on a Vine*F3*WMV;
+Golden Couch Potatoes*F2*WMV;
+Grapes of Wrath;
+Green Snow Apples*F2*WMV;
+Helephant Ears;
+Honey Sickle;
+Ivy League*CR;
+Maelstrom Snap Dragon*F2*WMV;
+Ninja Fig*CR;
+Pink Huckleberries*F3*WMV;
+Purple Bell Pepper;
+Red Huckleberries;
+Silver Trumpet Vine*CR;
+Snap Dragon*F2*WMV;
+Venus Fly Trap;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

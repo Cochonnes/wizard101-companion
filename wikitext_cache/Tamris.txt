@@ -1,0 +1,165 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 2,960
+| crecla = Draconian
+| school = Storm
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Veteran Terrorwing;
+
+| world = Dragonspyre
+| location = Plaza of Conquests
+| descrip =
+Tamris is one of two bosses who roam the streets of the Plaza of Conquests.  His Minion is not always the Veteran Terrorwing, but he usually spawns in that area.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+One of the leaders of the Draconian army although he serves under a Cyclops. But he tries not to let it get to him.
+
+| extract class =
+Draconians;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip.
+
+| casts =
+Myth Shield;
+Weakness;
+Sprite;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Shark;
+Kraken;
+Stormzilla;
+Tempest;
+Heck Hound;
+
+| quests =
+Stop the Advance;
+
+| gold =
+97 - 153;
+
+| hats =
+Cap of Constitution;
+Cowl of Blazes;
+Equalizer's Coif;
+Hood of the Historian;
+Ivy-Wrapped Cap;
+Tamris' Topper of Termination*F2;
+Veil of Passage;
+
+| robes =
+Blizzard Cloak;
+Raiment of the Raven;
+Robe of the Gale*F4*WMV;
+Tamris' Tunic of the Talon*F2*WMV;
+Tunic of the Sphinx*F2*WMV;
+Verdant Vestment;
+
+| boots =
+Ashen Footwraps;
+Boots of Equivalence;
+Earthrangers;
+Footgear of the North Wind;
+Legend Walkers;
+Mocassins of the Gale;
+Rainstorm Waders;
+Sandals of Lost Aeons;
+Sandals of Scorching*F3*WMV;
+Sandals of the Squall;
+Shoes of Equilibrium*F4*WMV;
+Shoes of the Whispering Dark;
+Tamris' Scaly Striders;
+
+| athames =
+Blade of Ashes*F2*WMV;
+Poniard of Vitality;
+
+| amulets =
+
+| rings =
+Band of the Hearth;
+Burning Ring of Fire*F2;
+Ring of Truthiness;
+
+| wands =
+
+| decks =
+Deck of the Devouring Flame;
+
+| items =
+Dragonspyre Statue Base;
+Small Corner Wall Ruins;
+Stone Rose;
+
+| cards =
+Keeper of the Flame;
+
+| reagents =
+Bone*F3;
+Leather Straps*F3*WMV;
+Nickel;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F2*WMV;
+Goat Cheese;
+Golden Grapes;
+King Banana;
+
+| jewels =
+Big Energy Opal;
+Blemished Defense Peridot +22;
+Blemished Health Opal +42;
+Centaur Jade;
+Dull Defense Citrine +25;
+Dull Defense Peridot +25;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

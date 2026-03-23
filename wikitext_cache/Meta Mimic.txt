@@ -1,0 +1,101 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 16,000
+| crecla = Mimic
+| school = Moon
+| startpips = 6
+| powerpips = Yes
+| critical =
+141 Any;
+
+| criticalblock =
+562 Any;
+
+| outpierce =
+13%;
+
+| outboost =
+86%;
+
+| incboost =
+30% Fire;
+
+| incresist =
+40% Storm, Myth, Life, Balance, Sun, Moon, Star, Shadow;
+70% Ice, Death;
+
+| outhealing =
+31%;
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Arcanum
+| location = The Arcanum
+| subloc1 = Cursed Repository
+| descrip =
+Meta Mimic will randomly Polymorph into {{Link|Polymorph|Meta Mimic (Book)}}, {{Link|Polymorph|Meta Mimic (Cake)}}, or {{Link|Polymorph|Meta Mimic (Music Box)}}.
+
+| speech =
+
+| spellnotes =
+See the respective Polymorph pages listed in the description for the spell casts and stats of each of this Boss's Polymorph Forms.
+
+| casts =
+Polymorph Mimic;
+
+| quests =
+Sticks and Stone;
+
+| gold =
+2 - 16;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Leviathan;
+
+| reagents =
+Orichalcum;
+Silver;
+Titanium;
+Toffee Bean;
+
+| spellements =
+
+| snacks =
+Shepherd's Crook Pie;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

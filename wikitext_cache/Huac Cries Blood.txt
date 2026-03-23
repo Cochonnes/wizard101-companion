@@ -1,0 +1,235 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 19,160
+| crecla = Dino
+| crecla2 = Pterodactyl
+| school = Fire
+| startpips = 6
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| randomminions =
+Grim Calaca;
+Moon Skull Wight;
+
+| totalminions = 3
+| world = Azteca
+| location = Xibalba
+| subloc1 = 
+| descrip =
+
+| speech =
+:''"Magician! I will weep for your memory! It is time for this day to die, and a new one to be born out of blood and shadow!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Has someone checked on the Aztecosaurs? Are they okay? They seem to have a lot of issues with bleeding from the eyes.
+
+| extract class =
+Dinos;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Conviction;
+Glacial Shield;
+Smoke Screen;
+Fireblade;
+Fire Trap;
+Fuel (+35%);
+Natural Attack (Fire 190-380-570);
+Meteor Strike;
+Phoenix;
+Efreet;
+Sun Serpent;
+
+| quests =
+This Is the Way the World Ends;
+
+| gold =
+94 - 276;
+
+| hats =
+Five Flowers Crown*F5*WMV;
+Grinning Death Mask*F6*WMV;
+Mask of the Calavera;
+Tyrant of Beasts Mask;
+
+| robes =
+Black Butterfly Guard's Armor*F2;
+Cloak of the Tyrant of Beasts;
+Fiery Chac's Great Armor*F3*WMV;
+Five Fangs of Fury Scales;
+Glorious Xicolli Vest;
+
+| boots =
+Black Butterfly Guard's Wraps;
+Fiery Chac's Great Boots;
+Jaguar Prince's Leapers;
+Ninja Pig Shoes*CR*HOL;
+Smoking Obsidian Rangers;
+
+| athames =
+
+| amulets =
+Home Hearth Relic*F3*WMV;
+Stone of the Green Skycarrier*F2;
+
+| rings =
+
+| wands =
+Hopper Topper Wand*CR*HOL;
+Rod of Icy Tears;
+
+| decks =
+Codex of the Lost Fire;
+White Fire Case*F2;
+
+| items =
+Azteca Combat Theme;
+Azteca Pot;
+Azteca Zultun Theme;
+Blue Holiday Ornament*HOL;
+Moon Dino Shield*F2;
+Quetzal Feathers;
+Yuletide Reg. Small Fry Aquarium*HOL;
+
+| cards =
+Chastisement*F2;
+Chimera;
+Colossal;
+Cycle of Life;
+Empowerment;
+Extraordinary;
+Forest Lord;
+Furnace*F2;
+Galvanic Field;
+Gnomes!*F2;
+Infallible; 
+Medusa;
+Orthrus; 
+Polymorph Icehorn*F3*WMV;
+Polymorph Jaguar;
+Polymorph Pteranodon*F2*WMV;
+Potent Trap*F2*WMV;
+Primordial*F2;
+Punishment;
+Rain of Fire;
+Rebirth;
+Reliquary*F2;
+Scarecrow;
+Sharpened Blade*F2;
+Sirens;
+Sleet Storm;
+Virulence;
+
+| reagents =
+Black Lotus;
+Black Pearl;
+Bone*F8*WMV;
+Bronze Gear*F5*WMV;
+Deep Mushroom*F3*WMV;
+Fire Blossom*F3*WMV;
+Fossil;
+Frost Flower;
+Golden Pearl*F2;
+Lava Lily*F5*WMV;
+Mist Wood*F6;
+Nightshade*F2*WMV;
+Ore*F2*WMV;
+Red Mandrake*F2*WMV;
+Silver;
+Steel;
+Stone Block*F8*WMV;
+Sunstone;
+Titanium*F2*WMV;
+Turquoise*F4*WMV;
+
+| spellements =
+
+| snacks =
+Allocados;
+Bedrock Bonbons;
+Buttered Bread;
+Cactus Fruit*F3;
+Caramel Apple;
+Chapulines*F2;
+Fern Jelly;
+Flapjacks;
+Fried Ice Cream*F2*WMV;
+Glowing Star Fruit;
+Guava*F2*WMV;
+Gummy Wyrms*F2;
+Jelly Baby;
+Quetzal Pretzel;
+Saber-Tooth Cider*F3;
+Saursa;
+Shiny Tomato*F2;
+Tamales;
+Tortilla Chips;
+Yucca;
+Zocalo Wings;
+
+| jewels =
+Balance-Off Citrine;
+Clear Defense Sapphire +39;
+Exhausted Opal;
+Huge Rally Opal;
+Mega-Upset Opal;
+Mend Minion Peridot;
+Polished Defense Opal +21;
+Sap Health Citrine;
+Stonewall Opal;
+
+| pins =
+
+| pets =
+Rescue Rover*CR*HOL;
+Snowball*CR*HOL;
+
+| seeds =
+Blue Huckleberries;
+King Parsley*CR;
+Red Bell Pepper;
+White Laugh-O-Dil;
+
+| mounts =
+Stormrider Hare*PERM*CR*HOL;
+
+| spells =
+
+}}

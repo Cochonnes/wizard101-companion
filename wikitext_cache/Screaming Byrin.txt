@@ -1,0 +1,141 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,200
+| crecla = Alphoi
+| school = Fire
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+7%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Ice;
+
+| incresist =
+30% Fire;
+
+| stunable = No
+| beguilable = No
+| minion = 
+| world = Empyrea
+| location = Zanadu
+| subloc1 = Byrin's House
+| descrip =
+
+| speech =
+:''"Why didn't anyone tell me food was so good? On the way here, I tried bran flakes, cakes, Shadow Creatures, chairs, pie. AND I'M STILL HUNGRY! What about you? are you food?"''
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Vengeance;
+Furnace;
+Glacial Shield;
+Fireblade;
+Detonate;
+Link;
+Fire Elf;
+Power Link;
+Scald;
+Fire Dragon;
+Rain of Fire;
+
+| quests =
+It's Gobblerin' Time!;
+
+| gold =
+151 - 256;
+
+| hats =
+
+| robes =
+Interstellar Engineer Suit;
+Medic's Interstellar Uniform;
+
+| boots =
+Interstellar Officer's Boots;
+
+| athames =
+Interstellar Engineer's Knife;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Interstellar Delegate's Deck;
+Interstellar Officer's Deck;
+
+| items =
+Empyrea Athanor Combat Theme;
+Empyrea Finale Combat Theme;
+Empyrea Flotsam Combat Theme;
+Empyrea Outer Athanor Theme;
+Empyrea Sepidious Combat Theme;
+
+| cards =
+Mass Myth Prism;
+
+| reagents =
+Antique Coins*F2;
+Black Pearl*F2;
+Bronze Gear;
+Cobalt;
+Nickel;
+Spider Silk;
+
+| spellements =
+
+| snacks =
+Discord Grape Jelly;
+Fin Flan;
+Glowing Taffy;
+Pizza;
+Satyr Chow;
+Squash;
+
+| jewels =
+Balance-It Citrine;
+Blade of Fire Ruby;
+Fire Striker Ruby;
+Fire-Boon Ruby;
+Fire-Proof Ruby;
+Fire-Sniper Ruby;
+Healer Opal;
+Life-Boon Jade;
+Lustrous Blocking Amethyst +13;
+Lustrous Critical Citrine +13;
+Lustrous Critical Jade +13;
+Lustrous Damage Citrine +23;
+Medic Opal;
+Myth-Away Peridot;
+Myth-Giver Peridot;
+Storm Assailant Amethyst;
+Storm-Proof Amethyst;
+
+| pets =
+
+| seeds =
+Bell Pepper;
+Boiled Peanuts;
+Bread Fruit Bush;
+Grapes of Wrath*CR;
+Red Huckleberries;
+Sour Fickle Pickle;
+Tiger Lily (Seed);
+White Desparagus;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

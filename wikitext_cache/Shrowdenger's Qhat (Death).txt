@@ -1,0 +1,118 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 7,120
+| crecla = Qhat
+| crecla2 = Undead
+| school = Death
+| startpips = 3
+| powerpips = Yes
+| critical =
+96 Any;
+
+| criticalblock =
+87 Any;
+
+| outpierce =
+4%;
+
+| outboost =
+65%;
+
+| incboost =
+15% Death;
+
+| incresist =
+30% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Mirage
+| location = Istanboa
+| subloc1 = Hall of Secrets
+| descrip =
+Shrowdenger's Qhat (Death) is considered a Minion to {{Link|Creature|Shrowdenger's Qhat (Life)}}. All drops should go on that page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Mirage
+| tome description =
+Is he alive or dead? It's really uncertain.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+*Uses Pip Conversion.
+
+| casts =
+Brace;
+Sacrifice;
+Deathblade;
+Dark Pact (+30%);
+Feint (+75%);
+Ghoul (180);
+Natural Attack (Death 110-220-330, 80%);
+Vampire (375);
+Wraith (575);
+Dr. Von's Monster (900);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

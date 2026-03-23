@@ -1,0 +1,227 @@
+{{Stub|which version of the '''Mutate''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 4,090
+| crecla = Qhat
+| school = Death
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+4%;
+
+| outboost =
+65%;
+
+| incboost =
+15% Death;
+
+| incresist =
+30% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+House Purrzian Guard;
+
+| world = Mirage
+| location = Caterwaul Canyons
+| subloc1 = Vassal Manse
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Brace;
+Sacrifice (Death);
+Deathblade (+40%);
+Dark Pact (+30%);
+Feint (+75%);
+Ghoul (180);
+Natural Attack (Death 110-220-330, 80%);
+Vampire (375);
+Wraith (575);
+Dr. Von's Monster (900);
+
+| quests =
+The Purrzian Vassals;
+
+| gold =
+208 - 441;
+
+| hats =
+Rubal Kufiya of Illusions;
+Wayfarer's Fez of Intent;
+
+| robes =
+Parched Wayfarer's Khalat;
+Wayfarer's Khalat of Intent;
+Wayfarer's Khalat of Poise;
+
+| boots =
+Aridian Shoes of Dunestorms;
+Rubal Babouches of Renewal;
+Rubal Thunder Babouches;
+Wayfarer's Galesh of Repine;
+
+| athames =
+Rubal Janbiya of Illusions;
+Rubal Thunder Janbiya;
+Viper Edge of Strife;
+
+| amulets =
+Rubal Locket of Formation*F2*WMV;
+Viper Sunstoke Talisman;
+Viper Talisman of Thriving;
+
+| rings =
+Rubal Band of Frostbite;
+Rubal Seal of Renewal;
+
+| wands =
+Burning Sands of Alkali Bow;
+Restrictor Wand of Wisdom;
+
+| decks =
+Rubal Cards of Action;
+
+| items =
+
+| cards =
+Astraphobia;
+Combustion;
+Mass Death Prism;
+Mass Ice Prism;
+Mutate Bird;
+Mutate Colossus (Storm);
+Mutate Elf;
+Mutate Helephant (Ice)*F2;
+Mutate Hound (Storm);
+Mutate Shark (Fire);
+Mutate Snake;
+Mutate Wyvern (Storm);
+Namaste;
+
+| reagents =
+Ancient Scroll*F2*WMV;
+Antique Coins*F2*WMV;
+Brass*F2;
+Bronze Gear*F3*WMV;
+Cobalt*F2*WMV;
+Nickel*F3*WMV;
+Scales*F7*WMV;
+Spider Silk;
+Spring*F3*WMV;
+Tin*F3*WMV;
+Turmeric*F5*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F3*WMV;
+Beetle Cream Soda*F2;
+Bread Fruit Fruit;
+Chili Cheese Fries;
+Chili Peppers;
+Delicious Cookie*F2*WMV;
+Eye Candy;
+Fire Passion Fruit;
+Hard Boiled Beetle Eggs*F2*WMV;
+High Road Haggis;
+Mustachios*F2*WMV;
+Rhubarbed Wire;
+Satyr Chow*F2;
+Ships 'n' Queso*F2;
+Submarine Sandwich;
+Veggie Juice;
+Wheat Cracker;
+
+| jewels =
+Cycle of Life Opal;
+Epic Opal;
+Lustrous Accurate Citrine +11%*F2*WMV;
+Lustrous Accurate Onyx +11%;
+Lustrous Accurate Peridot +11%;
+Lustrous Blocking Citrine +13;
+Lustrous Blocking Jade +13;
+Lustrous Blocking Onyx +13;
+Lustrous Critical Sapphire +13;
+Lustrous Damage Citrine +23;
+Lustrous Defense Amethyst +45;
+Lustrous Defense Onyx +45;
+Lustrous Defense Ruby +45;
+Lustrous Health Opal +96;
+Lustrous Health Opal +100;
+Lustrous Mana Opal +41;
+Lustrous Mana Opal +42;
+Lustrous PIP Opal +10%;
+Radical Opal;
+Shiny Blocking Citrine +16;
+Shiny Blocking Hematite +16;
+Shiny Critical Citrine +16;
+Shiny Critical Hematite +16;
+Shiny Critical Sapphire +16;
+Shiny Damage Hematite +52;
+Shiny Defense Citrine +50;
+Shiny Defense Hematite +52;
+Shiny Defense Ruby +52;
+Shiny Health Opal +114;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2;
+Angora Bunny Ears*F3*WMV;
+Baby Carrots;
+Bamboo Shoots*F2*WMV;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts*F2*WMV;
+Boon Tree*CR;
+Bread Fruit Bush;
+Couch Potatoes*CR*F3*WMV;
+Dandelion;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Fickle Pickle;
+Fish on a Vine*F2;
+Grapes of Wrath*CR;
+Helephant Ears;
+Honey Bee Plant;
+Ivy League*CR*F2;
+King Parsley*CR;
+Laugh-O-Dil;
+Maltese Tiger Lily*F3*WMV;
+Missile Toe*F2;
+Orange Bell Pepper*CR;
+Orange Dandelion;
+Queen Crape Myrtle*F4*WMV;
+Red Couch Potatoes;
+Red Huckleberries*F2;
+Rye Bread Fruit Bush;
+Snap Dragon;
+Snow Apples;
+Sunion*CR;
+White Desparagus;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

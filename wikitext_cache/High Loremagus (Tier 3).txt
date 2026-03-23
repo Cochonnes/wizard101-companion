@@ -1,0 +1,228 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 15,750
+| crecla = Wizard
+| crecla2 = Undead
+| school = Balance
+| masteries =
+Fire;
+Ice;
+Storm;
+Myth;
+Life;
+Death;
+
+| cheats = Yes
+| startpips = 7
+| powerpips = Yes
+| schoolpips =
+Fire;
+Ice;
+Storm;
+Myth;
+Life;
+Death;
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+26%;
+
+| outboost =
+200%
+
+| incboost =
+15% Myth, Life, Death;
+
+| incresist =
+40% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Font of Life (Tier 3);
+Font of Strength (Tier 3);
+Font of Weakness (Tier 3);
+
+| world = Dragonspyre
+| location = The Atheneum
+| subloc1 = High Loremagus' Chamber
+| badge = Loremagus Master
+| descrip =
+The High Loremagus (Tier 3) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Keeper's Spellemental Pack}}.
+*This Tier is for level 110-{{MaxLevel}} Wizards.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+Basically a glorified librarian.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Round}} ''"Only a true master of lore can defeat me!"'' - At the start of the First Round, and every round thereafter for any Wizard or Minion lacking an Aura, High Loremagus (Tier 3) will cast a Star School Spell on that Wizard or Minion, applying a '''-200%''' Accuracy Aura of the target's School that lasts for 99 turns.
+**Summoned Monstrology Minions that are Astral or Shadow School will be targeted by this cheat, but no Aura will be applied to them as there's no Aura for those Schools.
+**Summoned Monstrology Minions that are dual schooled will get a '''-200%''' Accuracy Aura for their second school.
+*{{Icon|Aura}} ''"You know nothing of lore. Do your research!"'' - If a Wizard or Minion replaces the given Aura, High Loremagus (Tier 3) will recast the Aura on them.
+*{{Icon|Feint}} ''"Uh oh... Watch out for vermin!"'' - If a {{Link|Spell|Feint}} or {{Link|ItemCard|Mass Feint}} is cast on her, she will cast {{Link|Spell|Camp Bandit (Tier 4a)}}.
+** The Balance version of {{Link|ItemCard|Feint}} does not trigger this cheat.
+
+| spellnotes =
+
+| casts =
+Celestial Intervention (Tier 5b);
+Loremaster (Tier 5c);
+Spiritual Tribunal (Tier 5c);
+Loremaster (Tier 5b);
+Spiritual Tribunal (Tier 5b);
+Ninja Piglets (Tier 5a);
+Savage Paw (Tier 5a);
+Samoorai (Tier 5a);
+Ratatoskr's Spin (Tier 3a);
+Luminous Weaver (Tier 5a);
+Goat Monk (Tier 5b);
+Ship of Fools (Tier 5b);
+Deer Knight (Tier 5a);
+Brimstone Revenant (Tier 5a);
+Hephaestus (Tier 5);
+Nautilus Unleashed (Tier 5a);
+Nautilus Unleashed (Tier 5b);
+Beary Surprise (Tier 5b);
+Queen Calypso (Tier 5b);
+Beary Surprise (Tier 5a);
+Hammer of Thor (Tier 5b);
+Catalan (Tier 5a);
+Angry Snowpig (Tier 5a);
+Handsome Fomori (Tier 5a);
+Winter Moon (Tier 5a);
+Keeper of the Flame (Tier 5a);
+Splashsquatch (Tier 5a);
+Athena Battle Sight (Tier 5a);
+Splashsquatch (Tier 5b);
+Ninja Pigs (Tier 5a);
+
+| quests =
+
+| gold =
+
+| hats =
+Golden Hood of Serenity (Level 100+)*CR;
+Golden Hood of Serenity (Level 110+)*CR;
+Jade Hood of Mystery (Level 100+)*CR;
+Jade Hood of Mystery (Level 110+)*CR;
+Violet Hood of Bitter Truth (Level 100+)*F2;
+Violet Hood of Bitter Truth (Level 110+)*CR;
+
+| robes =
+Golden Robes of Serenity (Level 100+)*CR;
+Jade Robe of Mystery (Level 100+)*CR;
+Jade Robe of Mystery (Level 110+)*CR;
+Violet Robes of Bitter Truth (Level 100+)*CR;
+
+| boots =
+Golden Boots of Serenity (Level 100+)*CR;
+Mysterious Jade Boots (Level 100+)*CR;
+Mysterious Jade Boots (Level 110+)*CR*F2;
+Violet Boots of Bitter Truth (Level 100+)*CR;
+Violet Boots of Bitter Truth (Level 110+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Golden Dragon Fear Banner (Level 100+)*CR;
+Golden Dragon Fear Banner (Level 110+)*CR;
+Order of High Glory Banner (Level 100+)*CR;
+Order of High Glory Banner (Level 110+)*CR;
+Silver Order of the Spiral (Level 100+)*CR;
+Silver Order of the Spiral (Level 110+)*CR;
+
+| decks =
+
+| items =
+Boris Blackrock Bobblehead;
+Claw Fence Segment*F2;
+Clawed Wall Sconce;
+Crystal Guide Bobblehead;
+Draconian Knight Bobblehead*F2;
+Dragonflame Torch;
+Dragonspyre Gate;
+Dragonspyre Sarcophagus*CR;
+Gold Skeleton Key*CR;
+Legendary Socket Wrench;
+Malistaire Bobblehead;
+Marleybone Pet Derby Theme;
+MooShu Pet Derby Theme;
+Plundered Crystal Rack;
+Stone Skeleton Key*CR;
+Wooden Skeleton Key*CR*F2;
+
+| cards =
+Azoth*F3;
+Brimstone Revenant*F3;
+Keeper of the Flame*F2;
+Loremaster;
+Luminous Weaver*F3;
+
+| reagents =
+
+| spellements =
+Brimstone Revenant*F3;
+Brimstone Revenant @ 2 Brimstone Revenant;
+Keeper of the Flame*F2;
+Keeper of the Flame @ 2 Keeper of the Flame;
+Loremaster*F3;
+Loremaster @ 2 Loremaster;
+Luminous Weaver*F3;
+Luminous Weaver @ 2 Luminous Weaver;
+
+| snacks =
+
+| jewels =
+Dazzling Accurate Sapphire +14%;
+Dazzling Blocking Sapphire +20;
+Dazzling Critical Ruby +19;
+Dazzling Critical Sapphire +19;
+Dazzling Damage Sapphire +30;
+Dazzling Defense Opal +29;
+Dazzling Defense Sapphire +58;
+Goat Monk Jade;
+Ninja Pigs Peridot;
+
+| pins =
+
+| pets =
+Emberstone Tiger*F3;
+
+| seeds =
+
+| mounts =
+Blue Dragon*PERM;
+Faithful Dragoness*PERM;
+
+| spells =
+
+}}

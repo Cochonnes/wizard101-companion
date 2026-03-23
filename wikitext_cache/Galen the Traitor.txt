@@ -1,0 +1,141 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 41,400
+| crecla = Undead
+| school = Myth
+| startpips = 5
+| powerpips = Yes
+| critical =
+182 Any;
+
+| criticalblock =
+147 Any;
+
+| outpierce =
+24%;
+
+| outboost =
+105%;
+
+| incboost =
+5% Storm;
+
+| incresist =
+70% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Unsettled Treeminder;
+
+| world = Wizard City
+| location = The Catacombs
+| subloc1 = Tomb of the Living
+| descrip =
+
+| speech =
+:'''Galen the Traitor:''' ''"So a living thing breaches my prison at last, where I have been bound all these years - suspended by magic, alone, in the dark."''
+:'''Unsettled Treeminder:''' ''"As you deserve, traitor. You sold our spells to the Dragon Clan. How many of us fell for your avarice?"
+:'''Galen the Traitor:''' ''"What madness is this? What foul phantom have you brought to me, Wizard? I have never seen you before, yet you confront me with meself?"''
+:'''Unsettled Treeminder:''' ''"What further lies are these?"''
+:'''Galen the Traitor:''' ''"None, spirit. Part of my payment was a Dragon Clan Knowledge Crystal. I have been replaying one message all these centuries."''
+:'''Unsettled Treeminder:''' ''"I am a traitor. I know this. I accept it. I was tantalized by baubles and trinkets. And now I sit, I atone. I regret. Suffice to say centuries in pitch black isolation have tempered those regrets. Now all I have left is loneliness, sorrow and rage!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+Traitor is so subjective. One man's traitor is another's loyal customer.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Vengeance;
+Frenzy;
+Weakness (-30%);
+Myth Prism;
+Cleanse Ward;
+Stun (80%);
+Athena Battle Sight;
+Natural Attack (Myth 115-230-345-460);
+Minotaur (50+520);
+Orthrus (785);
+Basilisk;
+Scion of Myth;
+
+| quests =
+Buried Things;
+
+| gold =
+0;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Ginormous Apple;
+Mystic Pizza;
+
+| cards =
+
+| reagents =
+Ancient Scroll;
+Antique Coins;
+Black Pearl;
+Bronze Gear;
+Cobalt;
+Spring;
+Tin;
+
+| spellements =
+
+| snacks =
+Discord Grape Jelly;
+Eye Candy;
+Hot Cross Buns;
+Pizza;
+Satyr Chow;
+Sprinkle Cupcake;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

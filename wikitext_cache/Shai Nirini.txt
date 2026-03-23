@@ -1,0 +1,199 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 540
+| crecla = Krokotopian
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Ice;
+
+| incresist =
+50% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Nirini Warrior;
+
+| world = Krokotopia
+| location = Palace of Fire
+| subloc1 = Shai's Chamber
+| descrip =
+Shai Nirini is one of the four members of the Nirini family in the Palace of Fire that is maintaining the spirit barrier for the {{Link|Location|Throne Room of Fire}}.  After [[Quest:Payback|helping]] the Royal Expeditionary Force beat back some of the Warriors and {{Link|Creature|Flame Guardian}}s, Wizards confront Shai and the other three Nirini in the final push into the Throne Room.
+
+Two additional Nirini Warriors will appear if more than two Wizards are present.
+
+| speech =
+: ''"You poor, pitiful wizard! I am glad that you showed up here. I will do you a favor. I shall put you out of your misery..."''
+
+| spellnotes =
+
+| casts =
+Weakness;
+Fire Cat;
+Fire Elf (50+210);
+Sunbird;
+Natural Attack (Fire 100x);
+Leprechaun;
+Troll;
+Banshee;
+Scorpion;
+Locust Swarm;
+
+| quests =
+Give 'em Another Round;
+
+| gold =
+18 - 44;
+
+| hats =
+Cap of the Oasis;
+Cowl of Prediction*F2*WMV;
+Durable Hood;
+Headwrap of Originality*F2*WMV;
+Helm of the Cyclone;
+Mask of Proportions;
+Pioneer's Helm*F2*WMV;
+
+| robes =
+Cloak of Refuge;
+Conjurer's Cloak*F2*WMV;
+Durable Robe*F4*WMV;
+Garments of Repose*F2;
+Necromancer's Ivory Cloak;
+Raiment of the Badlands*F2*WMV;
+Robe of Reason*F2;
+Robe of Talent;
+Runed Vestment*F2;
+Shai's Vestment;
+Sorcerer's Maroon Cloak;
+Sphinx's Vestment*F2;
+Threadbare Robe*F2*WMV;
+Tunic of Energy;
+Tunic of Mortality*F2;
+Tunic of the Whirlwind;
+Vest of Alacrity*F3;
+Vestment of the Arctic;
+
+| boots =
+Boots of Imagination;
+Boots of the Citadel;
+Cryptkeeper's Shoes;
+Crystalline Footwraps;
+Diviner's Boots;
+Quartermaster's Boots;
+Rough-Hewn Boots;
+Shoes of Adaptation;
+Shoes of Annihilation;
+Shoes of Figments*F2;
+Slippers of Sensibility;
+Threadbare Boots*F2*WMV;
+
+| athames =
+Athame of Mortality;
+Dagger of Solitude*F2;
+Dirk of the Wasteland;
+Parched Kris;
+Powerful Stiletto;
+Whirlwind Dagger*F2;
+
+| amulets =
+Shai's Amulet of Screams*F3*WMV;
+
+| rings =
+Advocate's Ring*F5*WMV;
+Band of the Mirage;
+Loop of Tall Tales;
+Partisan's Ring*F2;
+Ring of the Badlands*F3;
+Shai Nirini's Ring*F3*WMV;
+Sparkling Band;
+
+| wands =
+
+| decks =
+Pharaoh's Deck*F4*WMV;
+
+| items =
+Dim Scarab Pillar*F5*WMV;
+Floor Torch;
+Purple Painted Column;
+Red Facetted Column;
+Short Krokotopian Pot*F2;
+
+| cards =
+Guiding Light;
+Ice Trap;
+Krokotillian*F3*WMV;
+Lightning Bats;
+Locust Swarm;
+Mutate Beetle (Fire);
+Mutate Beetle (Storm);
+Mutate Cat (Storm);
+Sandstorm;
+Troll;
+
+| reagents =
+Bronze Gear;
+Nickel;
+Pyrite;
+
+| spellements =
+
+| snacks =
+Cracker*F3;
+Green Grapes*F2;
+Nettle Root*F2;
+Tiny Fish;
+
+| jewels =
+Chipped Mana Opal +10;
+Chipped PIP Opal +1%;
+Cracked Defense Citrine +10;
+Cracked Defense Citrine +12;
+Cracked Defense Peridot +8;
+Cracked Defense Peridot +10;
+Cracked Defense Peridot +12*F2;
+Cracked Defense Ruby +8;
+Cracked Defense Ruby +12;
+Cracked Defense Sapphire +10;
+Cracked Defense Sapphire +12*F2;
+Dark Sprite Onyx;
+Death-Shot Onyx;
+Fire Cat Ruby;
+Gold Miner Opal;
+Imp Jade;
+Myth-Shot Peridot;
+Recovery Opal;
+Scarab Citrine;
+Storm-Shot Amethyst*F2*WMV;
+Stumble Opal;
+Thunder Snake Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Pink Dandelion*CR*F7*WMV;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,194 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,250
+| crecla = Samoorai
+| school = Storm
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth;
+
+| incresist =
+60% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Kensaburo (Tier 2);
+Hisamoto (Tier 2);
+Takazane (Tier 2);
+
+| world = Housing Instance
+| location = Midnight Sun Pagoda
+| subloc1 = 
+| descrip =
+
+| speech =
+:'''Student:''' ''"Sensei, we will follow you to the ends of the Spiral... but your path leads to dark places."''
+:'''Yoshinobu:''' ''"Our new allegiance with Kaizoku will bring power to our clan.  Do not worry!  With my best students at my side we are invincible!"''
+
+| cheatnotes =
+*{{Icon|Round}} During the first Round, the following Bosses will cast the following Spells using their turn but not using Pips:
+**{{Icon|Curse}} Yoshinobu will cast Mass Infection.
+**{{Icon|Shield}} Hisamoto will cast {{Link|Spell|Legion Shield}}
+***Hisamoto will use his turn to cast Legion Shield every three Rounds after the first Round.
+
+*{{Icon|Damage}} ''"Chain Reaction!"'' - If a Wizard damages Yoshinobu with a Spell that costs at least 6 Pips, then the following cheats will occur:
+**{{Icon|Curse}} Yoshinobu interrupt-casts a '''-60%''' version of {{Link|Spell|Smoke Screen}}.
+**{{Icon|Healing}} Hisamoto interrupt-casts a version of {{Link|Spell|Unicorn}} that restores '''450''' Health.
+
+*{{Icon|Damage}} ''"The Chain Continues!"'' - If a Wizard damages Yoshinobu with a Spell that costs at least 6 Pips after Hisamoto is defeated, then the following cheats will occur:
+**If Kensaburo is not defeated:
+***{{Icon|Damage}} Yoshinobu interrupt-casts a version of {{Link|Spell|Blizzard}} that deals '''300-350''' Ice Damage.
+***{{Icon|Healing}} Kensaburo individually interrupt-casts a version of {{Link|Spell|Minor Blessing}} that restores '''125''' Health on each Samoorai.
+**If Kensaburo is defeated:
+***{{Icon|Damage}} Yoshinobu interrupt-casts a version of Blizzard that deals '''300-350''' Ice Damage, and a version of {{Link|Spell|Sandstorm}} that deals '''275-300''' Balance Damage.
+
+| spellnotes =
+
+| casts =
+Mass Infection;
+Sprite;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Shark;
+Kraken;
+Stormzilla;
+Tempest;
+Heck Hound;
+
+| quests =
+Journey Into Midnight;
+
+| gold =
+71 - 114;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Bamboo Barrier;
+Crossed Naginata Spears;
+Green Sword Display;
+Iron Tea Pot;
+Moodha Bust;
+MooShu Combat Theme;
+Ninja Pig Bobblehead;
+Oni Bobblehead;
+Pearl Orchid;
+Tatami Floor Mat;
+
+| cards =
+Aiuchi;
+Do-Daga;
+Doom and Gloom;
+Kakeda Painbringer*WMV;
+Koto*WMV;
+Minotaur;
+Ninja Pigs;
+Otomo Fury*WMV;
+Tamauji*WMV;
+Yochimo*WMV;
+
+| reagents =
+Brass;
+Citrine;
+Copper;
+Crystal Vial;
+Ghost Fire;
+Iron;
+Leather Straps*WMV;
+Nickel;
+Onyx;
+Peridot*WMV;
+Pyrite;
+Sapphire;
+Shadow Oil;
+Tin;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Basil Poodle Noodles;
+Crunch Apple;
+Fido's Fortune Puffs;
+Fire Passion Fruit;
+Flaming Soup;
+Goat Cheese;
+Golden Peanut;
+Golden Pizza;
+Golden Squash;
+Hot and Sour Bits;
+Hot Ginger Snaps;
+Jar of Jelly Beans;
+Killer Tomato;
+King Banana;
+Large Fish*WMV;
+Large Watermelon*WMV;
+MooShu Broccoli;
+MooShu Cheddar;
+Square Root;
+Sweet Pineapple;
+Taco Town Special;
+Zen Poppers;
+
+| jewels =
+Chipped Damage Opal +4;
+Chipped Defense Jade +13;
+Chipped Defense Peridot +13;
+Cracked Accurate Amethyst +1%;
+Cracked Damage Onyx +6;
+Cracked Defense Amethyst +4;
+Cracked Defense Onyx +4;
+Fire Elf Ruby;
+Glacial Shield Ruby;
+Snow Serpent Sapphire;
+
+| pins =
+
+| pets =
+Goat Monk;
+Ninja Pig;
+Plague Ninja;
+Stone Colossus;
+Yellow Ghost;
+
+| seeds =
+Ninja Fig*CR;
+Pink Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

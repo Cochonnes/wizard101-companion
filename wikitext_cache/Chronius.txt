@@ -1,0 +1,242 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 4,000
+| crecla = Draconian
+| school = Fire
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Ice;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Fire Scavenger;
+
+| world = Dragonspyre
+| location = The Crystal Grove
+| subloc1 = Chronius' Tower
+| descrip =
+
+| speech =
+:''"They sssaid all the humansss were ssslain... I welcome thisss dissstraction... it hasss been too long sssinccce I have dessstroyed a Wizard."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+He has an appetite for destruction. Also an appetite for crafting pretty, pretty jewels.
+
+| extract class =
+Draconians;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Spirit Armor;
+Smoke Screen;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Sunbird;
+Fire Shark;
+Meteor Strike;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Natural Attack (Fire 100x);
+Heck Hound;
+Minotaur;
+
+| quests =
+Table Where?;
+
+| dropnotes =
+When a Wizard has unlocked the '''Oni Slayer''' {{Icon|Oni Slayer}} Badge and has not unlocked the '''Astrologist''' {{Icon|Astrologist}} Badge, the following drops will be available:
+*14 Spellements will drop each time from the '''Elemental''' (Fire, Ice, Storm, Balance) Schools for their respective rank 2-6 Spells.
+
+| gold =
+74 - 125;
+
+| hats =
+Bonfire Headdress*F2*WMV;
+Cap of Chronicles;
+Chronius' Fiery Veil*F3;
+Chronius' Final Mantle*F2;
+Cowl of Morbidity;
+Headgear of the Ice Pilot*F4*WMV;
+Hood of the Vigilant*F2;
+Ivy-Wrapped Cap;
+Mantle of Order*F4;
+Mantle of Thunder*F4*WMV;
+Mythological Mantle*F2;
+Shroud of the Equinox;
+The Raven Eye*CR*F3*WMV;
+Triton's Topper;
+Veil of Leaves;
+Veil of Passage*F2*WMV;
+
+| robes =
+Arbiter's Raiment;
+Arboreal Robes;
+Chronius' Cloak of the Inferno*F2;
+Cowl of Morbidity;
+Fiery Tunic*F2;
+Final Curtain;
+Robe of the Greatest Saga;
+Robe of Radiance;
+Shibboleth Smock;
+Smock of the Frost Giant;
+Storm Giant's Surcoat;
+Tunic of Effervescence;
+Verdant Vestment;
+Whirlwind Wrap*F2;
+Wrap of Equity*F3;
+
+| boots =
+Boots of Equivalence;
+Boots of the Bountiful;
+Chronius' Fidelity Footwraps*F4*WMV;
+Chronius' Frigid Footgear*F3*WMV;
+Dragonclaw Boots;
+Footgear of Craftsmanship*F3*WMV;
+Legend Walkers;
+Salamander-Hide Shoes;
+Sandals of Lost Aeons;
+Sandals of Neutrality;
+Sandals of the Squall;
+Shoes of the Phoenix*F2*WMV;
+Shoes of the Whispering Dark;
+
+| athames =
+Athame of Awakening*F3*WMV;
+Dauntless Dirk;
+Dragon's Eye Dagger*F2;
+Dragonblood Dirk*F2*WMV;
+Lancet of Equality*F4;
+
+| amulets =
+
+| rings =
+Band of Balance*F2*WMV;
+Chronius' Sovereign Signet;
+Dragonscale Ring;
+Lavastone Ring;
+Ring of Dominance;
+Ring of the Harpy*F6;
+
+| wands =
+
+| decks =
+
+| items =
+Headmaster Statue*F3*WMV;
+Long Corner Wall Ruins*F4;
+Singed Magic Book;
+Small Corner Wall Ruins;
+
+| cards =
+Dragonflies;
+Keeper of the Flame*F2;
+Pest Zapper;
+
+| reagents =
+Bone*F7*WMV;
+Brass*F4;
+Cobalt;
+Copper;
+Nickel;
+Spider Silk*F6;
+Tin*F3*WMV;
+
+| spellements =
+Blight Hound*BR*F11;
+Colossus*BR*F7;
+Evil Snowman*BR*F12;
+Fire Elf*BR*F11;
+Gearhead Destroyer*BR*F6;
+Helephant*BR*F10;
+Hydra*BR*F7;
+Ice Wyvern*BR*F11;
+Immolate*BR*F13;
+Kraken*BR*F5;
+Lightning Bats*BR*F8;
+Locust Swarm*BR*F9;
+Phoenix*BR*F8;
+Scorpion*BR*F4;
+Snow Serpent*BR*F10;
+Spectral Blast*BR*F6;
+Storm Shark*BR*F9;
+Stormzilla*BR*F7;
+Sunbird*BR*F15;
+Triton*BR*F6;
+
+| snacks =
+Flaming Soup;
+Goat Cheese*F2;
+Golden Grapes*F2;
+Gummy Humongofrog*F3;
+King Banana*F4*WMV;
+
+| jewels =
+Dull Blocking Jade +4;
+Dull Blocking Onyx +4;
+Dull Critical Jade +3;
+Dull Critical Ruby +3;
+Dull Damage Onyx +13;
+Dull Defense Opal +14;
+Dull Piercing Ruby +1%;
+Earthquake Peridot;
+Huge Energy Opal;
+Hydra Citrine;
+Life-Proof Jade;
+Mega Hurry Opal;
+Mega-Boost Opal;
+Sharp Opal;
+Wraith Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fiery Boom Shroom*F3;
+King Parsley*CR*F2;
+Maelstrom Snap Dragon*F2;
+Pink Dandelion*CR*F2*WMV;
+White Laugh-O-Dil*F2;
+
+| mounts =
+
+| spells =
+
+}}

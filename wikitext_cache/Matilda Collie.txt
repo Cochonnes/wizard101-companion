@@ -1,0 +1,131 @@
+{{CreatureInfobox
+| cretype = Boss 
+| rank = 23
+| heal = 12,205
+| crecla = Dingo
+| school = Storm
+| school2 = Life
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+28%;
+
+| outboost =
+119%;
+
+| incboost =
+30% Myth;
+
+| incresist =
+24% Fire, Ice, Life, Death, Balance, Shadow;
+54% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+Dingo Bandit (Fire, Male);
+
+| world = Wallaru
+| location = Hope Springs
+| subloc1 = Boomerang Shop
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+*''"Money does buy healthiness!"'' - If Matilda Collie takes Damage, she will cast a version of {{Link|Spell|Leprechaun}} on herself that restores 420 Health.
+**This cheat also triggers when an AoE spell is cast by Matilda or Dingo Bandit.
+**Damage from DoTs will not trigger this cheat.
+**Multi-Hit Spells, like {{Link|Spell|Minotaur}} will only trigger this cheat once.
+
+| spellnotes =
+
+| casts =
+Flawless;
+Regenerate;
+Star Blade;
+Power Current;
+Beary Surprise (Tier 3b);
+Hammer of Thor;
+Lord of the Squall (Storm);
+Goat Monk (Tier 3a);
+Forest Lord;
+Eternal Leviathan (777);
+
+| quests =
+Desperate Times, Desperate Dingoes;
+
+| gold =
+5 - 41;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Wallaru Boomerang Stand;
+
+| cards =
+Basilisk;
+Celestial Calendar;
+Leviathan;
+Rebirth;
+
+| reagents =
+Mithril;
+Orichalcum;
+Platinum;
+Silver*F2;
+Steel;
+Titanium;
+Toffee Bean;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Deepwater Toffee;
+Kiwi Fruit;
+Mince Pie;
+Surfin' Turf*F2;
+Venison Chili;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

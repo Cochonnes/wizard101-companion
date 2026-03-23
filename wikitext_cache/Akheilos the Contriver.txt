@@ -1,0 +1,119 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 10,560
+| crecla = Shark
+| school = Myth
+| masteries =
+Balance;
+
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Storm Shark;
+
+| world = Wizard City
+| location = Atlantea
+| subloc1 = Hall of the Contriver
+| descrip =
+
+| speech =
+:''"Hissss!  I will paint the world with your blood!  Aphrodite charged me to slaughter any who darkened the door of this temple."''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Mythblade;
+Myth Trap;
+Hex;
+Natural Attack (Myth 180-290-400);
+Legendary Treant (445);
+Earthquake;
+Orthrus;
+Medusa;
+Judgement;
+
+| quests =
+Under the Sea;
+
+| dropnotes =
+When a Wizard has not unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge and has completed the '''{{Link|Quest|Sisyphus is Unhappy}}''' {{Icon|Swole Like Sisyphus}} Quest, the following drops will be guaranteed:
+*{{Icon|Spellement}} 3 Aquila Spellements of '''any''' School
+
+If a Wizard already has the Hero of Avalon Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of Atlantea to acquire a [[Item:Level Scaling Elixir - 70|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+1 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

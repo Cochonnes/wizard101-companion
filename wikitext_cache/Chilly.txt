@@ -1,0 +1,147 @@
+{{Stub|confirmation for the last cheat}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 6,800
+| crecla = Undead
+| school = Ice
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+20%;
+
+| outboost =
+40%;
+
+| incboost =
+None;
+
+| incresist =
+200% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Achey;
+Cough;
+Sneezy;
+
+| world = Mirage
+| location = Caterwaul Canyons
+| subloc1 = Ghost Maze
+| descrip =
+Remains immune to Damage for four out of every five Rounds, and does not have Boost or Resist while Polymorphed.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Mirage
+| tome description =
+A "bashful" sort of ghost, Chilly once covered himself in blue ink, hoping to blot himself out of a Monstrology manual.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Steal Pips!"'' - If a Wizard joins the duel late (third Round or later), all of the Germ Ghosts will remove one Pip from the Wizard, and gain one Pip.
+*{{Icon|Polymorph}} ''"Medicine mode!"'' - At the end of every five Rounds, the Germ Ghosts will cheat-cast a Polymorph for two Rounds, at which time they are vulnerable to Damage.
+**All Ghosts will pass while polymorphed.
+**This Polymorph changes all of the Germ Ghosts' Schools to Shadow for that Round.
+***A crafted Animus Summon Card of these Creatures will have their original School instead of Shadow.
+**At the end of the next turn, they will cheat-cast a reverse Polymorph into their original forms.
+***The Polymorph cheats will not fizzle, even with multiple negative Accuracy Charms (such as {{Link|Spell|Smoke Screen}}).
+*{{Icon|Round}} ''"Next level!"'' - At the end of every six Rounds, they will remove all [[:Category:Trap Spells|Traps]] from themselves and all [[:Category:Blade Spells|Blades]] from each Wizard.
+*{{Icon|Afterlife}} If Chilly is defeated on the fifth Round, then the Blades/Traps will not be removed on the sixth Round, and the Germ Ghosts will stay Polymorphed for the full two turns.
+**The Germ Ghost in the next position will take over the Blade/Trap removal and Polymorph cheats when the previous one is defeated, the order being: Chilly > Achey > Sneezy > Cough. ''"May need further confirmation for later Rounds."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Ice Damage for 3 Pips maximum.
+
+| casts =
+Magnify;
+Iceblade (+40%);
+Fire Trap (+35%);
+Freeze (80%);
+Frost Beetle (75-115);
+Morganthe's Gaze;
+Ice Helephant;
+Ice Efreet;
+Natural Attack (Chilly);
+
+| quests =
+Ghost Maze;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' Badge and has not unlocked the '''[[Basic:Empyrea Badges|Hero of Light and Shadow]]''' Badge, the following drops will be available:
+*6 Spellements will drop each time from '''any''' School for their respective rank 9, 10, King Artorius, Polaris, and Mirage Spells.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+Avenging Fossil*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Sabertooth*BR;
+Spinysaur*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

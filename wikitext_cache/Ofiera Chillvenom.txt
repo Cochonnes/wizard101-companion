@@ -1,0 +1,215 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 13,040
+| crecla = Shadow Weaver
+| school = Ice
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+71 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Arachna Agent;
+
+| world = Avalon
+| location = Caer Lyon
+| subloc1 = Arachna Hideout
+| descrip =
+
+| speech =
+:''":chkchkchk: We're exposed! I knew Avalon was a poor place to hide. Let us not go down gently, though. We fight to the end!"''
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Empowerment;
+Ice Elf (45+180);
+Natural Attack (Ice 115-225-335);
+Blizzard;
+Winter Moon;
+Abominable Weaver;
+Frostbite;
+Frost Giant;
+Woolly Mammoth;
+Lord of Winter;
+
+| quests =
+Morganthe's Legacy;
+
+| gold =
+1,670 - 3,601;
+
+| hats =
+Arcanum Pyromancer's Spire;
+Kataba Iceblock Furcap;
+Spire of the Arcanum;
+The Goat Horns*CR;
+The Manticore*CR;
+The Stardust*CR;
+The Stalwart Guardian*CR;
+The Warlock*CR;
+Walrusk Furcap of Intensity;
+Walrusk Furcap of Rime;
+
+| robes =
+Arcanum Necromancer's Garb;
+Walrusk Cloak of Graupel;
+Walrusk Cloak of Intensity;
+Walrusk Robes of Wit;
+
+| boots =
+Arcanum Conjurer's Boots;
+Arcanum Theurgist's Waders;
+Footwraps of the Arcanum;
+Kataba Trekkers of Zeal;
+Walrusk Shoes of Dignity;
+
+| athames =
+Arcanum Conjurer's Knife;
+Imperial Walrusk Dagger;
+Kataba Athame of Zeal;
+Kataba Lancet of Havoc;
+Kataba Skewer of Toil*F2;
+Walrusk Knife of Intensity;
+
+| amulets =
+Kataba Talisman of Havoc;
+
+| rings =
+Imperial Walrusk Seal;
+Kataba Band of Misery;
+Kataba Ring of Cinders;
+Kataba Ring of Destiny*F2;
+
+| wands =
+Imperial Walrusk Cutlass;
+Kataba Cresent Axe of Toil;
+Kataba Hatchet of Parables;
+Walrusk Cutlass of Graupel;
+Walrusk Saber of Rime;
+Walrusk Sword of Calamity;
+
+| decks =
+Arcanum Diviner's Hand;
+Hand of the Kataba Iceblock;
+Imperial Walrusk Deck;
+Walrusk Array of Graupel;
+Walrusk Hand of Dignity;
+Walrusk Spread of Frenzy;
+
+| items =
+Blue Teleporter*CR*F2;
+Cyan Teleporter*CR;
+Orange Teleporter*CR;
+Purple Teleporter*CR;
+Red Teleporter*CR;
+White Teleporter*CR;
+Yellow Teleporter*CR;
+
+| cards =
+Arcticzilla;
+Astraphobia;
+Fiery Colossus;
+Katabatic Wind;
+Mutate Bird (Storm);
+Mutate Kraken (Fire);
+Mutate Monster (Fire);
+Mutate Snake (Ice);
+Mutate Snowman (Fire)*F2;
+Namaste;
+Obsidian Colossus (420)*F2;
+Shock Colossus;
+Steel Colossus;
+Stormspear;
+
+| reagents =
+Agave Leaves;
+Amber Dust;
+Aquamarine*F2*WMV;
+Astral Shard*F2;
+Fish Fin*F3*WMV;
+Golden Pearl;
+Mithril*F2*WMV;
+Scales*F3*WMV;
+Silver*F6*WMV;
+Stardust;
+Steel*F5*WMV;
+Sunstone*F4*WMV;
+Tungsten*F2;
+Turquoise;
+Vine*F2*WMV;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate;
+Beast Wellington*F3*WMV;
+Chalupacabra*F2*WMV;
+Deepwater Toffee;
+Eye Candy*F3*WMV;
+Hot Cross Buns*F2*WMV;
+High Road Haggis*F2;
+Mustachios*F2*WMV;
+Penne Dreadful*F4*WMV;
+Polaris Fries*F3*WMV;
+Satyr Chow*F7*WMV;
+Ships 'n' Queso*F3*WMV;
+Snow Apple Cider*F2;
+Veggie Juice*F4*WMV;
+
+| jewels =
+Polished Piercing Ruby +6%;
+
+| pins =
+
+| pets =
+Ice Bird;
+Mountain Yeti*CR;
+Polar Bear Cub*CR;
+
+| seeds =
+Deadly Helephant Ears*CR;
+Evil Snow Peas;
+Fish on a Vine*F2;
+Frozen Fly Trap*F3*WMV;
+Grapes of Wrath;
+Green Snow Apples*F3*WMV;
+Helephant Ears*F3*WMV;
+Ivy League*CR;
+Purple Snow Apples*F4;
+Queen Crape Myrtle*F3;
+Snow Apples*F3*WMV;
+Ultra Helephant Ears;
+Ultra Snow Apples;
+White Desparagus*F2;
+White Laugh-O-Dil*F2*WMV;
+White Tiger Lily*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

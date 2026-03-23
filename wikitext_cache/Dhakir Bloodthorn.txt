@@ -1,0 +1,239 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,435
+| crecla = Shadow Weaver
+| school = Storm
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Black Tusk Cultist
+
+| world = Zafaria
+| location = Elephant Graveyard
+| subloc1 = Dhakir Bloodthorn's Tomb
+| descrip =
+Dhakir Bloodthorn is one of {{Link|NPC|Morganthe}}'s agents in the Elephant Graveyard. He guards {{Link|NPC|Queen Elissa}}'s Tusk Ornaments.
+
+| speech =
+:''"Shadowblight! I'll splinter your wand!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 125-265-405, 70%);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Tempest;
+
+| quests =
+Tomb Raiders;
+
+| dropnotes = 
+When a Wizard has unlocked the '''[[Basic:Celestia Badges|Astrologist]]''' {{Icon|Astrologist}} Badge and has not unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge, the following drops will be available:
+*4 Spellements will drop each time for their respective rank 4-8 Spells.
+
+| gold =
+96 - 123;
+
+| hats =
+Face of Baobab*F5;
+Face of the Blinding Sun;
+Fire Valley Headdress;
+Hood of the Hepheloomp*F2*WMV;
+Jungle Lord's Winter Cap*F3*WMV;
+Stone Town Topper;
+The Warlock*CR;
+
+| robes =
+Big Five Robe*F3*WMV;
+Cold River Cloak;
+Hail and Thunder Raiment*F3;
+Hunter Prey Jacket*F3*WMV;
+Lost Outsider Gear;
+River Smuggler's Garb*F3*WMV;
+Shaman's Storm Sky Cloak;
+Sinister Juju Robes*F2*WMV;
+Unbroken Spiral Robe*F5*WMV;
+Wildfire Garb*F2;
+
+| boots =
+Big Five Trackers;
+Cold Climate Climbers;
+Shaman's Fire-Feather Wraps*F2;
+Storm Caller's Rangers*F2*WMV;
+Witch Doctor's Spiral Boots;
+
+| athames =
+Rainy Season Spike*F2*WMV;
+River Captain's Scimitar*F2*WMV;
+
+| amulets =
+Amulet of Lion's Sight*F3*WMV;
+
+| rings =
+Hannibal's Bronze Ring;
+Kakenya's Broken Band;
+Mandisa's Star Stone;
+Nergal's Burning Brand*F4*WMV;
+
+| wands =
+Staff of Shadow and Light*F2;
+Sun's Light Spear*F2;
+
+| decks =
+Bundle of Ananse's Stories*F2*WMV;
+Dead Chieftain's Fanged Deck*F3*WMV;
+Hand-Chased Box of Destiny*F2;
+Hand-Chased Box of Thunder;
+
+| items =
+
+| cards =
+Efreet*F3*WMV;
+Enfeeble (-3);
+Forest Lord*F5*WMV;
+Insane Bolt*F4*WMV;
+Leviathan*F4*WMV;
+Medusa;
+Precision*F2;
+Ra;
+Skeletal Dragon*F8*WMV;
+Snow Angel;
+Supercharge*F4*WMV;
+
+| reagents =
+Bronze*F2;
+Cobalt;
+Leather Straps*F4;
+Nickel*F2;
+Spider Silk*F5*WMV;
+Tin;
+
+| spellements =
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops Minion*BR;
+Earth Walker*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*BR;
+Ice Wyvern*BR;
+Immolate*BR;
+Kraken*BR;
+Leviathan*BR;
+Medusa*BR;
+Minotaur*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Ra*BR;
+Rebirth*BR;
+Scarecrow*BR;
+Seraph*BR;
+Skeletal Dragon*BR;
+Skeletal Pirate*BR;
+Snow Angel*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Stormzilla*BR;
+Triton*F2*BR*WMV;
+Vampire*BR;
+Wraith*BR;
+
+| snacks =
+Buttered Bread;
+Cauliflowers;
+Flaming Soup*F2;
+Flapjacks;
+Glowing Dragon Fruit*F2;
+Glowing Star Fruit*F2;
+Glowing Taffy;
+Golden Apple*F3;
+Golden Grapes;
+Jelly Baby*F2;
+King Banana;
+Kola Nuts;
+Salmonberry;
+Shiny Tomato;
+Strawberry Cupcake;
+Submarine Sandwich;
+Uni-Corn*F3;
+
+| jewels =
+Baffle Opal;
+Forceful Opal;
+Keen Eyes Talent Opal;
+Myth-Shot Peridot;
+Opaque Critical Citrine +8;
+Opaque Critical Onyx +8;
+Opaque Defense Onyx +33;
+Opaque PIP Opal +7%;
+Pip O'Plenty Opal;
+Plaguebringer Onyx;
+Plain Accurate Sapphire +7%;
+Plain Critical Citrine +5;
+Plain Health Opal +64;
+Pyrosaurus Rex Ruby;
+Scarecrow Onyx;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Burning Snap Dragon;
+Cornbread Fruit Bush*F2;
+Deadly Fly Trap;
+Evil Snow Peas;
+Fickle Pickle;
+Key Limes*CR;
+Orange Bell Pepper*CR*F3;
+Orange Dandelion*F2*WMV;
+Red Bell Pepper*F2;
+Trumpet Vine*F2;
+White Desparagus;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,81 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 9,200
+| crecla = Bat
+| school = Shadow
+| school2 = Death
+| cheats = Yes
+| shadowslots = 5
+| startpips = 1
+| powerpips = No
+| incboost =
+None;
+
+| incresist =
+None;
+
+| stunable = No
+| beguilable = No
+| minion = 
+| world = Empyrea
+| location = Chaos Jungle
+| descrip =
+* For the {{link|Location|Temple of Light}} creature with a similar name, see {{link|Creature|Bat}}.
+*The Bat will always pass and has no Shadow Pip Chance. Only progressing through his cheats will end the duel. This is a non-repeatable Instance.
+
+| cheatnotes =
+*{{Icon|Round}} ''"You need to hit me, Wizard. Hit me!"'' - He will cheat cast Equalize on Round 1 which limits the Damage cap to one. If the Global is replaced, he will say the line again, adding back his Global.
+*{{Icon|Shadow}}{{Icon|Damage}} When hit with a Shadow or Shadow Creature Spell, he will say the following lines while interrupt-casting Donate Shadow (0 Shadow Pip) on himself. Casting {{Link|Spell|Dark Shepherd}} does not activate his cheat.
+**First hit.  ''"Good! Ergh... Again!"''
+**Second hit.  ''"That's it! Essence... building..."''
+**Third hit.  ''"Good! Ergh... Again!"''
+**Fourth hit.  ''"One more hit, Wizard! Strike now!"''
+**Fifth hit.  ''"That's it! Enough Wizard - Enough."''
+**He will automatically surrender the duel after he obtains his fifth Shadow Pip.
+
+| spellnotes =
+
+| casts =
+Donate Shadow (0 Shadow Pip);
+
+| quests =
+Rebuilding the Bat;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

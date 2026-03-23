@@ -1,0 +1,126 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,225
+| crecla = Zebra
+| crecla2 = Undead
+| crecla3 = Equine 
+| school = Ice
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Fire, Myth;
+
+| incresist =
+40% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Zafaria
+| location = Shining Mountain
+| subloc1 = 
+| descrip =
+The Zebra Spectral Guardian is a Minion to the {{Link|Creature|Elephant Spectral Guardian}}. Though ranked as a Boss, he only has normal creature boost and resist values.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Zafaria
+| tome description =
+Working with the Elephant Spectral Guardian, this Zebra has a certain taste for the cold winds of a blizzard.
+
+| extract class =
+Equine;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*Casts a version of Blizzard dealing '''750-790''' Ice Damage if a player does not cast a Charm Spell within 2 Rounds of being '''Marked''' by Elephant Spectral Guardian.
+
+| spellnotes =
+
+| casts =
+Fortify;
+Vengeance;
+Tower Shield;
+Ice Armor;
+Iceblade;
+Ice Trap;
+Freeze;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Frostbite;
+Icezilla (650-730);
+Colossus;
+Frost Giant;
+Snow Angel;
+
+| quests =
+Wizard in the Mirror;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

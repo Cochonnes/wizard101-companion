@@ -1,0 +1,176 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,360
+| crecla = Qhat
+| school = Fire
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+2%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Ice;
+
+| incresist =
+30% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minion = Fangs Guard
+| minion2 = Fangs Guard
+| minion3 = 
+| world = Mirage
+| location = Aggrobah
+| subloc1 = Yahya's Office
+| descrip =
+
+| spellnotes =
+
+| casts =
+Eruption;
+Furnace;
+Glacial Shield (-75%);
+Smoke Screen;
+Backdraft (+20%);
+Choke;
+Fire Beetle;
+Natural Attack (Fire 120-240-360, 70%);
+Meteor Strike (355-395);
+Scald (567);
+Fire Dragon (495+395);
+Rain of Fire;
+
+| quests =
+Real Estate?;
+
+| gold =
+471 - 640;
+
+| hats =
+Aridian Helm of Splendor;
+Aridian Helm of Thriving;
+Rubal Kufiya of Bitterness;
+Rubal Kufiya of Loyalty;
+Rubal Kufiya of Renewal;
+
+| robes =
+
+| boots =
+Wayfarer's Galesh of Intent;
+
+| athames =
+Rubal Janbiya of Carnage;
+Viper Edge of Reflection;
+Viper Edge of Strife;
+
+| amulets =
+Rubal Locket of Lightning;
+Rubal Necklace of Acerbity;
+Rubal Thunder Necklace;
+Viper Talisman of Splendor;
+
+| rings =
+Flameforged Rubal Band;
+Rubal Seal of Acerbity;
+
+| wands =
+Alkali Bow of Vibrancy;
+Conscript Tabar of Identity;
+
+| decks =
+
+| items =
+
+| cards =
+Age of Reckoning;
+Mass Death Prism;
+Mass Storm Prism;
+Mutate Hound (Storm);
+Mutate Minotaur (Sun);
+Mutate Shark (Fire);
+Stone Colossus;
+
+| reagents =
+Ancient Scroll;
+Black Pearl;
+Brass*F2;
+Bronze Gear;
+Cobalt*F2;
+Ectoplasm*F3*WMV;
+Nickel;
+Scales*F2*WMV;
+Spider Silk;
+Spring;
+Tin;
+Turmeric*F2;
+
+| snacks =
+Antheneum Delight;
+Chalupacabra;
+Decimatoes;
+Delicious Cookie;
+Eye Candy;
+French Fries;
+High Road Haggis;
+Hot Cross Buns;
+Huge Ice Cream;
+Large Ice Cream;
+Mustachios;
+Submarine Sandwich;
+Veggie Juice;
+
+| jewels =
+Lustrous Blocking Amethyst +13;
+Lustrous Blocking Onyx +13;
+Lustrous Damage Jade +23*F2;
+Lustrous Damage Ruby +23;
+Lustrous Mana Opal +42;
+Reliquary Opal;
+Shiny Health Opal +111;
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper;
+Blue Huckleberries*F2;
+Boiled Peanuts;
+Bread Fruit Bush*F2;
+Couch Potatoes*CR;
+Deadly Helephant Ears*CR;
+Evil Magma Peas*CR;
+Evil Snow Peas;
+Fish on a Vine*F2;
+Fortune Cookie Tree;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Golden Couch Potatoes;
+Ivy League*CR*F2;
+Key Limes*CR;
+Maelstrom Snap Dragon;
+Orange Dandelion;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus;
+Red Couch Potatoes;
+Red Huckleberries;
+Silver Trumpet Vine*CR;
+Sword Fern*CR;
+Tiger Lily (Seed)*F2;
+Venus Fly Trap;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

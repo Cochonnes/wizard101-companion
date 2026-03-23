@@ -1,0 +1,188 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 14,280
+| crecla = Tritop
+| crecla2 = Dino
+| school = Ice
+| masteries = 
+Myth
+
+| startpips = 5
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Crazed Thunder Horn;
+
+| world = Azteca
+| location = Zultun Dock
+| subloc1 = Forest Clearing
+| descrip =
+Wizards face this Boss twice.  This page is for the first encounter, in the Forest Clearing located in Zultun Dock, where {{Link|NPC|Kathleen Wilder}} is being held prisoner.  
+
+See {{Link|Creature|Zolo Stone Heart (Corazon Cave)}} for the second encounter with this Boss.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Like everyone, the man just loves a good romance story. I mean, he's not made of stone.
+
+| extract class =
+Dinos;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Tower Shield;
+Iceblade;
+Stun;
+Balefrost;
+Natural Attack (Ice 170-340-510, 70%);
+Handsome Fomori;
+Blizzard;
+Frost Giant (530);
+Woolly Mammoth;
+Earthquake;
+
+| quests = 
+Romancing El Yollotl;
+
+| gold =
+101 - 128;
+
+| hats =
+Sweet Kiss of Death Mask;
+Tyrant of Beasts Mask;
+
+| robes =
+Black Tears of the Sky Drape;
+Dawn Hour Xicolli Vest*F2;
+Elite Jura Guard Garb;
+Five Fangs of Fury Scales;
+Thirteen Death Robe*F2;
+Tree of Secrets Chac Armor*F2;
+
+| boots =
+Death Moon's Chosen Gliders;
+Fiery Chac's Great Boots;
+Smoking Obsidian Rangers;
+
+| athames =
+Brutal Azteca Horn*F2;
+Zero Hour Eagle Talon*F2;
+
+| amulets =
+Amulet of the Third Sun*F2*WMV;
+Tears of the Sky Jade Charm;
+
+| rings =
+Seal of Thunder Horn's Glory;
+Smoking Mirror's War Ring*F2;
+Storm Quetzal's Signet*F2;
+Twin Giants Fashioned Stone;
+Twisting Season Ring;
+Underworld Stone;
+
+| wands =
+Banner of the Lords of Night;
+Green Standard of Mother Moon;
+Sign of Cipactli;
+
+| decks =
+Storm Sun Gallery*F3*WMV;
+Winter's Pyramid Deck;
+
+| items =
+Azteca Apocalypse Theme;
+Hollow Log;
+Sparse Frond;
+Starburst Frond;
+
+| cards =
+Extraordinary;
+Power Nova;
+Vengeance;
+
+| reagents =
+Black Pearl;
+Blood Moss;
+Bone;
+Bronze;
+Bronze Gear*F4*WMV;
+Deep Mushroom*F2;
+Fire Blossom;
+Golden Pearl;
+Lava Lily*F4*WMV;
+Mist Wood*F5*WMV;
+Nightshade;
+Ore*F3;
+Red Mandrake*F2;
+Steel*F2*WMV;
+Stone Block;
+Sunstone;
+Tungsten*F3;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Avocado Milkshake;
+Cactus Fruit;
+Marzipan Maize;
+Rex Tea;
+Roasted Chickpeas*F2;
+Tamales*F2;
+Yucca;
+
+| jewels =
+Mega-Deplete Opal;
+Polished Blocking Jade +12;
+Polished Defense Peridot +41;
+Wise Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Frozen Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

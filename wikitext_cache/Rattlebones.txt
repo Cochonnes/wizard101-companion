@@ -1,0 +1,155 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 1
+| heal = 135
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+-30%;
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Dark Fairy;
+
+| world = Wizard City
+| location = Unicorn Way
+| subloc1 = The Archives (Unicorn Way)
+| descrip =
+Rattlebones is an evil undead skeleton who is responsible for the Dark Fairy invasion on Unicorn Way. He works under the direction of {{Link|NPC|Malistaire Drake}}, with the goal of stirring up trouble in Wizard City and eventually bringing the city to its knees.
+*Like the {{Link|Creature|Fairy Queen}} and {{Link|Creature|Lady Blackhope}}, he doesn't have resistance to or weakness against any of the schools of magic. However, his damage values are reduced by '''-30%''' from normal (and his Minion's by '''-50%'''), so that this solo battle doesn't present too much of a challenge for beginning Wizards.
+Prior to the June 2025 Summer Update, Rattlebones was classified as a Rank 1 Elite, rather than a Boss.
+
+| speech =
+:''"Good work, my thrall! This could be the tome Malistaire seeks. Now we - What's this, a Wizard? Excellent. I could use a combat break. Let's play!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+Under direction from Malistaire to stir up trouble, he loosed the Dark Fairies upon Unicorn Way.
+
+| extract class =
+Undead;
+
+| summon animus = 10
+| summon gold = 500
+| guest animus = 20
+| guest gold = 1,500
+| expel animus = 15
+| expel gold = 2,000
+}}
+
+| spellnotes =
+
+| casts =
+Death Trap;
+Dark Sprite;
+Ghoul;
+Natural Attack (Death 180);
+Natural Attack (Death 85x);
+Scarab;
+Fire Cat;
+Thunder Snake;
+
+| quests =
+Sinister Skeleton;
+
+| dropnotes =
+Some of Rattlebones' drops are restricted by Level:
+*{{Icon|Reagent}} Reagents: Level 5+
+*{{Icon|Treasure Card}} Treasure Cards: Level 5+
+*{{Icon|Furniture}} Housing: Level 5+
+
+| gold =
+3 - 7;
+
+| hats =
+Canvas Cover*F10*WMV;
+Firestorm Cap*F53*WMV;
+Frost-Touched Cap*F6*WMV;
+Fur-Lined Hood*F13*WMV;
+Novice's Hat*F8*WMV;
+Rattlebones' Cowl*F70*WMV;
+Soot Stained Hat*F5*WMV;
+
+| robes =
+Novice's Robe*F62*WMV;
+Sturdy Coat*F6;
+
+| boots =
+Footwraps of Calamity*F33*WMV;
+Frost Wolf Boots*F31*WMV;
+Frost-Touched Shoes*F22*WMV;
+Rattlebones' Footwraps*F48*WMV;
+Roughspun Shoes*F51*WMV;
+Slippers of Rites*F54*WMV;
+Soft Boots*F6*WMV;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Rattlebones Exalted Duel*CR*F22*WMV;
+Rattlebones Master Duel*CR*F45*WMV;
+
+| cards =
+Blood Bat*F7*WMV;
+Dark Sprite;
+Fire Cat*F2;
+Fire Shield*F2;
+Frost Beetle*F3;
+Imp*F8*WMV;
+Keen Eyes*F3;
+Myth Shield*F2;
+Scarab*F5*WMV;
+Snow Shield*F5;
+Storm Shield*F3*WMV;
+Thunder Snake*F2;
+
+| reagents =
+Bone*F15*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Myth Sprite*F55*WMV;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

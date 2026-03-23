@@ -1,0 +1,313 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 14,700
+| crecla = Undead
+| school = Sun
+| masteries =
+Fire;
+Myth;
+Life;
+Balance;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+40%;
+
+| outboost =
+
+| incboost =
+15% Storm;
+30% Ice, Death;
+
+| incresist =
+30% Myth, Life;
+50% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Darkmoor Gargoyle;
+Darkmoor Gargoyle;
+Darkmoor Gargoyle;
+
+| world = Wizard City
+| location = Castle Darkmoor (Location)
+| subloc1 = Upper Halls
+| descrip =
+Spirit of Darkmoor is the second Boss encountered in the Upper Halls of Castle Darkmoor.
+
+| speech =
+:''"Little seeker, your time runs out. your path ends here. In cold, in misery, in pain. I am the pulsing beating of agony, and the endless drums of war. I am the crushing tide of night, and the drowning of all hope. Bound to the stones of this place, I am the heart of Darkmoor. And you? You are the lamb, led to the slaughter."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+Trapped in the nightmare that is Castle Darkmoor, she has an arguably unhealthy emotional attachment to jewelry.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Blade}} {{Icon|Global}} ''"Burn, Wizard!"'' - If a Wizard casts a [[:Category:Blade Spells|Blade]] or [[:Category:Global Spells|Global]] Spell, she will cheat-cast an enhanced version of Scald, which deals '''1000''' Fire Damage over 3 rounds to all Wizards.
+**Pet spells will trigger this cheat.
+*{{Icon|Trap}} ''"I shatter your chains!"'' - If a Wizard places a [[:Category:Trap Spells|Trap]] on the Spirit of Darkmoor, she will cheat-cast a version of {{Link|ItemCard|Assail}}, which deals '''850''' Myth Damage and places two [[Spell:Myth Trap (+35%)|+35% Myth Traps]] on the Wizard who casted a trap.
+**Multi-target Spells, such as {{Link|Spell|Windstorm}}, will not trigger this cheat.
+*{{Icon|Minion}} ''"The depths of Darkmoor strikes at you!"'' - If a Wizard defeats a Minion, she will cheat-cast a Sun version of {{Link|Spell|Eternal Leviathan (777)}} on the Wizard who defeated the Minion, which deals '''777''' Life Damage to the Wizard and restores '''777''' Health to all allies (reviving the defeated Minions).
+**If another Wizard defeats a revived minion within the same round after the cheat, this cheat does not trigger.
+
+'''Interrupt Cycles'''<br/>
+All interrupt cycles are five Rounds each, and repeat until the duel is finished.
+:{{Icon|Myth}} '''Myth Interrupt Cycle''' (First Cycle):
+:*''"This place defeats us all!"'' - At the end of every Round in this cycle, the Spirit of Darkmoor will cast Pierce on a random Wizard.
+:*''"The stories of lore will defeat you!"'' - At the beginning of the fifth Round in this cycle, she will cast a {{Link|Spell|Mythspear}}, a {{Link|Spell|Mythblade (+40%)}}, {{Link|Spell|Cursed Colossus}}, and {{Link|Spell|Saga of Heroes}}.  This Round will be the end of the Myth cycle and the beginning of the Life cycle.
+
+:{{Icon|Life}} '''Life Interrupt Cycle''' (Second Cycle):
+:*''"Darkmoor holds my spirit."'' - At the end of every Round in this cycle, the Spirit of Darkmoor will cast version of {{Link|Spell|Minor Blessing}} on herself for '''750''' healing.
+:*''"The world hunger consumes you!"'' - At the beginning of the fifth Round in this cycle, she will cast a {{Link|Spell|Lifespear}}, a {{Link|Spell|Lifeblade}}, {{Link|Spell|Namaste}}, and {{Link|Spell|Moody Caterpillar}} on the highest threat Wizard.  This Round will be the end of the Life cycle and the beginning of the Fire cycle.
+
+:{{Icon|Fire}} '''Fire Interrupt Cycle''' (Third Cycle):
+:*''"We are connected."'' - At the end of every Round in this cycle, the Spirit of Darkmoor will cast {{Link|Spell|Backdraft}} worth the amount of Pips she has on a random Wizard.
+:*''"Your passion will consume you!"'' - At the beginning of the fifth Round in this cycle, she will cast a {{Link|Spell|Firespear}}, a '''+40%''' {{Link|Spell|Fireblade}}, {{Link|Spell|Combustion}}, and {{Link|Spell|Night Raid}} to the highest-threat Wizard. This Round will be the end of the Fire cycle and the beginning of the Myth cycle.
+
+| spellnotes =
+*Orthrus (Sun) deals 700 Sun Damage to all enemies.
+
+| casts =
+Sun Shield (Myth-Life-Fire);
+Bronze Armor;
+Dragonspear;
+Guiding Light;
+Availing Hands (90%);
+Hamadryad (1,300);
+Sun Blade (+45%);
+Balanceblade (+35%);
+Sun Trap (+35%);
+Hex (+40%);
+Pierce;
+Mass Triage;
+Guardian Spirit;
+Natural Attack (Sun 130-255-505);
+Orthrus (Sun);
+Spirited Minotaur (Sun);
+Supernova (535, 85%);
+Earthquake (585);
+Celestial Calendar (1,345-1,445);
+Meteor Strike (580-620);
+Scald (770);
+Efreet (1,170);
+Sun Serpent (1,040-1,140);
+Hungry Caterpillar;
+Forest Lord (815-895);
+Spinysaur (740+890);
+
+| quests =
+Ghosts of the Past;
+
+| gold =
+167 - 831;
+
+| hats =
+Battle Mage's Helm of Furor*F2*WMV;
+Carpathesian Helm of Fury*F2;
+Darkmoor Helmet of Shivers;
+Darkmoor Herald's Mantle;
+Death Mask of the Usurped*F2*WMV;
+Helm of Castle Darkmoor;
+Helmet of Kan Davasi Law;
+Helm of the Living Dead;
+Mantle of the Bitter Ghost;
+Raging Blackwater's Helm;
+Spirit of Darkmoor's Helm*F2*WMV;
+
+| robes =
+
+| boots =
+Brimstone Boots of Darkmoor;
+Darkmoor Boots of Delusion;
+Depths of Darkmoor Stalkers*F4*WMV;
+Raging Blackwater's Boots;
+
+| athames =
+Blade of Kan Davasi;
+Dirk of Unnatural Life*F2*WMV;
+Dragon's Tooth of Darkmoor*F2*WMV;
+Herald of Darkmoor's Knife;
+Kris of Cold Fury;
+Sharp Edge of the Void*F3;
+Thunderclap Spike*F3*WMV;
+
+| amulets =
+
+| rings =
+Gargoyle's Circle;
+
+| wands =
+Armament of the Grotesque;
+Arms of the Ceaseless Watch;
+Bludgeon of the Dark Skies;
+Brace of Annihilation;
+Brace of the Burning Gaze;
+Dyad of the Icy Stare;
+Eye of the Storm Pair;
+Mace of the Dark Flame*F2;
+Mace of the Undying*F2;
+Morning Star of Kan Davasi;
+Morning Star of Misery;
+Set of the Malicious Spirit;
+Virge of the Bitter Ghost;
+
+| decks =
+Von Shane's Hand of Doom;
+
+| items =
+
+| cards =
+Avenging Fossil;
+Banshee*F3*WMV;
+Black Cat*F3*WMV;
+Catalan*F2*WMV;
+Celestial Calendar*F2;
+Chastisement*F3*WMV;
+Cycle of Life*F2*WMV;
+Dark Tribute*F2;
+Deer Knight*F2;
+Dr. Von's Monster;
+Furnace*F4*WMV;
+Galvanic Field*F2*WMV;
+Goat Monk*F3*WMV;
+Handsome Fomori;
+Hex*F3;
+Keeper of the Flame;
+Lady Blackhope*F2*WMV;
+Lord of Night;
+Lord of Winter*F2;
+Luminous Weaver;
+Ninja Pigs*F2;
+Plague;
+Poison;
+Reliquary;
+Sabertooth;
+Samoorai;
+Savage Paw;
+Skeletal Dragon*F2;
+Sleet Storm*F3;
+Spinysaur;
+Storm Owl;
+Sun Serpent*F3*WMV;
+The Bonekeeper*F3*WMV;
+Vampire*F4;
+Virulence*F4*WMV;
+Winter Moon;
+
+| reagents =
+Astral Shard*F5*WMV;
+Black Lotus*F4*WMV;
+Black Pearl*F4*WMV;
+Blood Moss*F6*WMV;
+Bone*F6*WMV;
+Bronze*F2*WMV;
+Bronze Gear*F6*WMV;
+Cobalt*F2;
+Deep Mushroom*F7*WMV;
+Draconium;
+Fire Blossom*F6*WMV;
+Fossil;
+Golden Pearl*F2*WMV;
+Lava Lily*F3*WMV;
+Mist Wood*F6*WMV;
+Nightshade*F2;
+Ore*F3*WMV;
+Orichalcum*F4*WMV;
+Red Mandrake*F10*WMV;
+Silver;
+Steel;
+Stone Block*F7*WMV;
+Sunstone*F5*WMV;
+Tungsten;
+Turquoise*F5*WMV;
+
+| spellements =
+
+| snacks =
+Boom Stroganoff*F4*WMV;
+Bread Fruit Fruit*F3*WMV;
+Cold Snap Peas*F4*WMV;
+Cornbread Fruit*F4*WMV;
+Desparagus Salad*F2*WMV;
+Granny Snow Apple*F4*WMV;
+Gummy Bees;
+Hive Rinds;
+Honeycombs*F2*WMV;
+Honeycrisp Apples*F4*WMV;
+HoneyDon't Melon;
+Huckleberry Pie;
+Punk Rock Candy;
+Rye Bread Fruit*F4*WMV;
+Snow Apple Pie*F2*WMV;
+Sugar Khrystals;
+Wrath's Grape Juice*F4*WMV;
+
+| jewels =
+Clear Damage Ruby +20;
+Clear Defense Onyx +40;
+Death-Proof Onyx;
+Nerys Citrine;
+Polished Accurate Hematite +10%;
+Polished Blocking Sapphire +11;
+Polished Critical Citrine +12;
+Polished Critical Opal +6;
+Polished Critical Onyx +12;
+Polished Defense Opal +21;
+Polished Piercing Citrine +6%;
+Polished Piercing Ruby +6%;
+Polished Piercing Sapphire +6%;
+Quick-Witted Opal;
+Shush! Opal;
+Stumble On Opal;
+Ultra Charge Opal;
+Wisp Bonus Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Blue Huckleberries;
+Fiery Boom Shroom*F2*WMV;
+Honey Bee Plant*F3*WMV;
+Key Limes*CR*F3*WMV;
+Melting Cheese Tree;
+Moon Flower;
+Pink Dandelion*CR;
+Pink Huckleberries*F2;
+Red Huckleberries;
+Saw Palmetto;
+
+| mounts =
+
+| spells =
+
+}}

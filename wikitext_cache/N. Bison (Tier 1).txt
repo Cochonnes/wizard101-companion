@@ -1,0 +1,194 @@
+{{Stub|which version of the Enfeeble Treasure Card this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 1,915
+| crecla = Train Boss
+| school = Myth
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+55%;
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Ms. Felicity (Tier 1);
+Daniel McCoil (Tier 1);
+Kenny Rooster (Tier 1);
+
+| world = Housing Instance
+| location = Great Sky Train Robbery Gauntlet
+| subloc1 = Great Sky Train Robbery Gauntlet (Tier 1)
+| descrip =
+For the purpose of drops, N. Bison (Tier 1) is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+{{Icon|Myth}} '''N. Bison'''
+*{{Icon|Late}} ''"Not enough on your own? Then fall!"'' - If a Wizard joins the duel after the first Round, N. Bison (Tier 1) will cast a Myth Spell that confuses the Wizard for two Rounds.
+**This confusion takes effect the Round after it is cast.
+*{{Icon|Manipulation}} ''"Bow before my Psycho Power!"'' - At the beginning of the first Round and every 7 Rounds thereafter, N. Bison (Tier 1) will cast a Myth Spell that confuses each Wizard for 2 Rounds.
+**This confusion takes effect the Round after it is cast.
+*{{Icon|Damage}} ''"PSYCHO DEFLECTION!"'' - If N. Bison (Tier 1) is attacked, he will retaliate by casting his Natural Attack, taking 20% of the Wizard's max Health.
+
+{{Icon|Balance}} '''Ms. Felicity'''
+*{{Icon|Blade}} ''"Blades off the table!"'' - If a Wizard casts a Blade, Ms. Felicity (Tier 1) will cheat-cast {{Link|Spell|Disarm}} on the Wizard who received the Blade.
+**Multi-target Blades do not trigger this cheat.
+*{{Icon|Health}} ''"Your invitation has been rescinded"'' - If Kenny Rooster (Tier 1)'s Health falls below ~20%, Ms. Felicity (Tier 1) will cast a Shadow Spell that instantly defeats him.
+
+{{Icon|Death}} '''Daniel McCoil'''
+*{{Icon|Spell}} ''"Here, have a free sample"'' - At the beginning of the first Round and every five Rounds thereafter, Daniel McCoil (Tier 1) will cast a Death Spell that gives each Wizard a {{Link|Spell|Free Sample}} Spell.
+*{{Icon|Health}} ''"I'm afraid you're of no further use"'' - If Ms. Felicity (Tier 1)'s Health falls below ~20%, Daniel McCoil (Tier 1) will cast a Shadow Spell that instantly defeats her.
+
+{{Icon|Fire}} '''Kenny Rooster'''
+*{{Icon|Aura}} ''"The chickens come home to roast!"'' - If a Wizard casts an Aura, Kenny Rooster (Tier 1) will cast a Natural Attack dealing ??? Damage, which destroys the Aura for ??? Damage.
+*{{Icon|Health}} ''"Time to fold 'em, partner"'' - If Daniel McCoil (Tier 1)'s Health falls below ~20%, Kenny Rooster (Tier 1) will cast a Shadow Spell that instantly defeats him.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Myth Damage.
+
+| casts =
+Storm Shield (-85%);
+Mythblade;
+Myth Prism;
+Pierce;
+Cyclops (310-370);
+Humongofrog;
+Minotaur (50+520);
+
+| quests =
+
+| gold =
+1,300;
+
+| hats =
+Cool Rancher's Hat (Level 10+)*CR*F2;
+Cool Rancher's Hat (Level 20+)*CR;
+Desert Wrangler's Hat (Any Level)*CR*F2;
+Desert Wrangler's Hat (Level 10+)*CR;
+Prairie Rambler's Hat (Level 20+)*CR;
+
+| robes =
+Cool Rancher's Duster (Level 10+)*CR;
+Desert Wrangler's Duster (Level 20+)*CR;
+Prairie Rambler's Duster (Level 20+)*CR;
+
+| boots =
+Cool Rancher's Boots (Level 10+)*CR;
+Desert Wrangler's Boots (Level 10+)*CR;
+Prairie Rambler's Boots (Any Level)*CR;
+Prairie Rambler's Boots (Level 20+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Rancher's Frontier Knife (Level 10+)*CR;
+Wrangler's Frontier Knife (Any Level)*CR;
+Wrangler's Frontier Knife (Level 20+)*CR;
+
+| decks =
+
+| items =
+Bottle Collection*F2;
+Cactus*F2;
+Card Table*F3;
+Cloth Covered Country Table*F2;
+Decorative Skull*F3;
+Fish Drying Stand*F3;
+Grand Steamer Trunk*F2;
+Hanging Keyring*F2;
+Horse Shoes;
+Novice's Socket Wrench*F2;
+Ranch Gate*F3;
+Red Brick Fireplace*F4;
+Rugged Bunk;
+Tribal Woven Rug*F4;
+Wooden Outhouse;
+
+| cards =
+Bad Juju*F2;
+Blademaster*F3;
+Darkwind*F3;
+Earthquake*F6;
+Enfeeble;
+Furnace*F2;
+Fuel*F3;
+Hex*F3;
+Judgement*F2;
+Magma Man*F2;
+Scald*F2;
+
+| reagents =
+Amber Dust*F4;
+Bone*F4;
+Elemental Retriever;
+Leather Straps*F2;
+Sandstone*F2;
+Scales*F2;
+Smoke Screen Token*F4;
+Sunstone;
+
+| spellements =
+
+| snacks =
+7 Layer Taco;
+Arrow Root;
+Bell Pepper Steak*F2;
+Breakfast Tacos;
+Buttered Bread;
+Chili Peppers*F3;
+Cow Pie*F3;
+Drumstick*F2;
+Funnel Cake*F2;
+Large Pretzel;
+Lemon Daisy*F3;
+Medium Fish*F5;
+Potato Chips*F4;
+Stuffed Bell Pepper*F2;
+
+| jewels =
+
+| pins =
+
+| pets =
+Rambler's Runner*CR;
+Rancher's Runner*CR;
+Wrangler's Runner*CR;
+
+| seeds =
+
+| mounts =
+Moseyin' Armadillo*CR;
+Moseyin' Armadillo*7*CR;
+Ramblin' Armadillo*CR;
+Ramblin' Armadillo*7*CR*F2;
+Trusty Armadillo*7*CR*F2;
+
+| spells =
+
+| elixirs =
+Purreau's Potion*CR;
+
+}}

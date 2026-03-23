@@ -1,0 +1,100 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 16,105
+| crecla = 
+| school = Myth
+| startpips = 6
+| powerpips = Yes
+| critical =
+69 Any;
+
+| criticalblock =
+543 Any;
+
+| outpierce =
+21%;
+
+| outboost =
+94%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+45% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+75% Myth;
+
+| outhealing =
+43%;
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Curator;
+
+| world = Darkmoor
+| location = Graveholm
+| subloc1 = Hall of Records
+| descrip =
+
+| speech =
+*"No mortals in the Hall of Records. Please submit yourself to the Great House of your choice for consumption. *Sigh* Come on now, be reasonable, I can't just have mortals browsing the history of Darkmoor and the Gray Man, now can I? Don't make my job harder. Right then. Guess I'll just have to do this myself, like always. Have at you then."
+
+| spellnotes =
+
+| casts =
+Ether Shield;
+Mythblade;
+Mass Myth Trap;
+Myth Trap;
+Ether Golem (Tier 2b);
+Orthrus (Tier 2a);
+Phantastic Jinn;
+
+| quests =
+The Emperor Strikes Back;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

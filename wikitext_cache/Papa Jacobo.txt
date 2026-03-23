@@ -1,0 +1,220 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 15,745
+| crecla = Beetle
+| crecla2 = Insect
+| school = Fire
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions = 
+Rattle Catcher;
+
+| world = Khrysalis
+| location = Ruined Alcazar
+| subloc1 = Phoenix Tower
+| descrip =
+
+| speech =
+:''"I'm hungry, feeding on chaos and living in Shadow! Where do I begin? I'll cut your life into pieces!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+He's a Mantis-eater! Though, looking at him, he probably ought to cut back.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Glacial Shield;
+Smoke Screen (-45%);
+Fireblade;
+Fire Trap;
+Fuel (+35%);
+Natural Attack (Fire 175-285-400);
+Meteor Strike (355-395);
+Phoenix (600-680);
+Efreet;
+Sun Serpent;
+
+| quests =
+The Rarest Egg;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*5 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+| gold =
+122 - 156;
+
+| hats =
+Beleaguered Mouse Cowl*F3*WMV;
+Flame Legs Captain's Helm*F5*WMV;
+Helmet of Excavation;
+Mantis Shroud of Secrecy*F2;
+Mouse Helm of the Besieged;
+
+| robes =
+Dragonfly Rider's Garment*F2*WMV;
+
+| boots =
+Last Wood Defender's Boots*F3*WMV;
+Mantis Guard Stonesteppers*F3;
+Mantis Hunter's Footwraps;
+Mouse Knight's Footguards*F2;
+
+| athames =
+Corrupted Queen's Barb;
+Revenant's Edge of Strife*F5*WMV;
+
+| amulets =
+Mouse Revenant's Talisman;
+Stinger's Carcanet;
+ToeBiter's Cursed Relic*F2*WMV;
+
+| rings =
+
+| wands =
+Pepper Grass Blade;
+Razor of the Felled Forest*F2;
+Sword of Bastion's Revival;
+
+| decks =
+Gallery of the Woebegone*F2;
+Spiked Set*F2;
+
+| items =
+Khrysalis Boris Theme*F2;
+
+| cards =
+Choke;
+Death Scarab;
+Disarm;
+Frost Beetle;
+Mass Infection;
+Pierce;
+Sanctuary;
+Scorpion;
+Sun Serpent;
+
+| reagents =
+Astral Shard*F10*WMV;
+Black Lotus*F4*WMV;
+Bone*F5*WMV;
+Bronze Gear*F4*WMV;
+Copper*F2;
+Deep Mushroom*F5*WMV;
+Fire Blossom*F6*WMV;
+Fossil;
+Iron;
+Lava Lily*F3*WMV;
+Mist Wood*F4*WMV;
+Mithril*F2*WMV;
+Nightshade*F2*WMV;
+Ore*F6*WMV;
+Orichalcum;
+Pyrite*F2;
+Red Mandrake*F3*WMV;
+Stone Block*F5*WMV;
+Sunstone;
+Tungsten;
+Turquoise*F3;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR*F2;
+Celestial Calendar*BR;
+Chimera*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR*F3;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR;
+Lord of Winter*BR*F3;
+Medusa*BR*F2;
+Orthrus*BR*F2;
+Power Nova*BR*F3;
+Ra*BR*F3;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR*F2;
+Skeletal Dragon*BR*F3;
+Snow Angel*BR;
+Spinysaur*BR*F2;
+Storm Lord*BR;
+Storm Owl*BR*F2;
+Sun Serpent*BR*F2;
+Woolly Mammoth*BR*F2;
+
+| snacks =
+Cauliflowers;
+Glowing Dragon Fruit;
+Goat Cheese*F2*WMV;
+Golden Apple*F2*WMV;
+Shiny Tomato*F3;
+Submarine Sandwich*F2*WMV;
+Uni-Corn;
+
+| jewels =
+Polished Critical Ruby +11;
+Polished Defense Amethyst +44;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+Fish on a Vine;
+Red Bell Pepper;
+Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,142 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 13,095
+| crecla = Luphilim
+| school = Fire
+| school2 = Death
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+
+| criticalblock =
+182;
+
+| outpierce =
+36%;
+
+| outboost =
+114%;
+
+| incboost =
+30% Ice;
+
+| incresist =
+25% Storm, Myth, Life, Death, Balance, Shadow;
+55% Fire;
+
+| outhealing =
+17%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Fallen Luphilim (Ice-Myth);
+Fallen Luphilim (Ice-Myth);
+
+| world = Krokotopia
+| location = Tomb of the Forgotten (Krokotopia)
+| subloc1 = Tomb of Light
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the battle in {{Link|Location|Chamber of Phoebe}}, see {{Link|Creature|The Prophet (Chamber of Phoebe)}}.
+
+| speech =
+:'''Enki the Heretic:''' ''"You weathered the shadow-spawn's trap, I see. No matter. Her master's power always paled before the Light of Raven. That is why Spider spent so long buried beneath Khrysalis while Raven soared between worlds. That is why she would have vanquished him in Empyrea... ...Had you not intervened."''
+:'''[[NPC:Pork|Captain Pork]]:''' ''"But I did intervene. You might say that protecting the Spiral is my prime-"''
+:'''Enki the Heretic:''' ''"Shh!"''
+:'''Captain Pork:''' ''"Why do people keep shushing me?"''
+:'''Enki the Heretic:''' ''"Because the time for discourse has passed! You have followed the wolf to his den and Khonsu has granted me the power of his light. I am order. I am the Moon. I am the Claws of Vengeance!"''
+
+| cheatnotes =
+*{{Icon|Damage}}{{Icon|Late}} ''"Feel the bite of Raven!"'' - After Enki attacks, or if a Wizard joins the duel late, Enki will cheat-cast {{Link|Spell|Scald}}.
+{{Icon|Round}} '''Cycle''':
+*''"To face the wolf, bare the claws."'' - At the beginning of every second Round, Enki the Heretic will cheat-cast a +25% {{Link|Spell|Fireblade}} or +25% {{Link|Spell|Deathblade}} on each Wizard.
+*''"The Light burns!"'' - At the beginning of the every fifth Round, Enki will cheat-cast {{Link|Spell|Incindiate}}.
+*''"The Light blesses you."'' - If a Wizard casts a positive Charm, Enki will cheat-cast an all enemies version of {{Link|Spell|Sprite}}, restoring 500 Health over 4 Rounds on each Wizard.
+| spellnotes =
+
+| casts =
+Glacial Shield;
+Weakness;
+Fireblade;
+Fire Trap;
+Curse;
+Helephant (Tier 3a);
+Inferno Salamander (Tier 3a);
+Monk of Mourning (Tier 3a);
+Headless Horseman (Tier 3a);
+
+| quests =
+Light and Night Fight;
+
+| gold =
+14 - 51;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Selenopolis Combat Theme;
+Selenopolis Forgotten Theme;
+Selenopolis Garden Theme;
+Selenopolis Theme;
+Selenopolis Zigazag Market Theme;
+Selenopolis Zigazag Market Com Theme;
+
+| cards =
+Dr. Von's Monster;
+Elemental Blade;
+Feint;
+Storm Owl;
+Storm Trap;
+
+| reagents =
+Bone;
+Draconium;
+Tungsten;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Baby Carrot;
+Bread;
+Cherry Pie;
+Green Banana;
+Killer Kumquat;
+Taco;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

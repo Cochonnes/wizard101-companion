@@ -1,0 +1,179 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 4,800
+| crecla = Undead
+| school = Death
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| summons =
+Stomper;
+Stomper;
+Stomper;
+
+| world = Wizard City
+| location = Colossus Boulevard
+| subloc1 = Briskbreeze Tower
+| descrip =
+Orrick Nightglider is a Wraith on the last floor of the Briskbreeze Tower who was the first major cheating Boss introduced in the game.
+
+| speech =
+:''"Your paltry magic cannot stop what is to come! You will share the fate of this meddlesome guard!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+This death cheater led the Undead attack on Briskbreeze Tower. No word on his current standing with Sekmet...
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+:''"Interrupt!"'' - This will appear during most of Orrick's cheats.
+*{{Icon|Ward}} If a Trap is placed on Orrick, he will use {{Link|Spell|Cleanse Ward}} on himself to remove one Trap on himself.
+**Prisms and mass Traps, such as {{Link|Spell|Windstorm}}, do not trigger this cheat.
+**This cheat can be [[Spell:Vaporize|Dispelled]] or prevented with {{Link|Spell|Indemnity}}.
+*{{Icon|Round}} Every 3 Rounds, while Orrick's health is above 4,000, he will interrupt-cast a {{Link|Spell|Heck Hound}} on the Wizard dealing '''1,820''' Fire Damage over 3 Rounds. This is the greatest threat in this battle. This cheat can be [[Spell:Quench|Dispelled]].
+**This Heck Hound will still be cast on a Wizard even if Orrick is Beguiled.
+*{{Icon|Round}} Starting on Round 4, Orrick will interrupt with {{Link|Spell|Meteor Strike}} dealing '''750''' Fire Damage.
+**This cheat can be [[Spell:Quench|Dispelled]].
+**{{Link|Spell|Beguile}} can delay this cheat by one round when he has no allies.
+'''Under 4,000 Health:'''
+*{{Icon|Minion}} When Orrick's health drops below 4,000 during a round, then three Stompers join the duel at the end of the round and become active 2 rounds later.
+**If Wizards flee and return, the Stompers will still remain.
+*{{Icon|Damage}} When Orrick's health drops below 4,000, he will use Meteor Strike (750) at the start of every 3 Rounds once the current four round cycle completes.
+*{{Icon|Ward}} When Orrick's health is between 4,000 and 2,000, he will interrupt to use a '''-65%''' {{Link|Spell|Tower Shield}} on himself whenever he is damaged.
+**[[:Category:Steal Spells|Drain Spells]] do not trigger this cheat.
+**{{Icon|Damage}} If Orrick is hit with a multi-hit spell, he will use Tower Shield (-65%) on himself for every hit.
+***This also includes Damage over Times, which will be cast after his turn ends.
+'''Under 2,000 Health:'''
+*{{Icon|Damage}} At the start of the round Orrick's health drops below 2,000, Orrick will interrupt with an {{Link|Spell|Earthquake}} that only deals '''750''' Myth Damage. Spell doesn't remove charms or wards. This cheat can be [[Spell:Vaporize|Dispelled]].
+**{{Icon|Round}} In addition every 3 Rounds, while Orrick's health is below 2,000, he will interrupt-cast a Heck Hound on the Wizard dealing '''1,820''' Fire Damage over 3 Rounds.
+
+:Orrick will not reactivate any of his previous health threshold cheats if Orrick heals himself via Life Drain spells.
+
+| spellnotes =
+
+| casts =
+Weakness;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Vampire;
+Skeletal Pirate;
+Scarecrow;
+Natural Attack (Wraith);
+Fire Elf (50+210);
+Lightning Bats;
+Ice Wyvern;
+
+| quests =
+
+| gold =
+87 - 218;
+
+| hats =
+Cowl of Morbidity;
+Mantle of the Icicle;
+Triton's Topper;
+
+| robes =
+Verdant Vestment;
+
+| boots =
+Boots of Equivalence;
+Footgear of the North Wind;
+Sandals of Neutrality;
+Shoes of the Whispering Dark;
+
+| athames =
+Dauntless Dirk;
+
+| amulets =
+
+| rings =
+Jewel of Nullification*F8*WMV;
+Nightglider's Band*F3*WMV;
+Philosopher's Stone*F3*WMV;
+Ring of Winterbite*F3*WMV;
+Seal of Salvation*F7*WMV;
+Signet of the Sepulcher*F5*WMV;
+Simmering Sigil*F3;
+Stormtossed Band*F3*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Small Corner Wall Ruins;
+Wizard City Pet Derby Theme*F5*WMV;
+
+| cards =
+Colossus;
+Dragonflies;
+Strong;
+
+| reagents =
+Brass;
+Bronze Gear*F4;
+
+| spellements =
+
+| snacks =
+Goat Cheese;
+Golden Grapes;
+King Banana*F2;
+
+| jewels =
+Blemished Damage Onyx +12;
+Dull Blocking Citrine +3;
+
+| pins =
+
+| pets =
+
+| seeds =
+Pink Dandelion*CR;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

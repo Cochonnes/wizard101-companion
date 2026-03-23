@@ -1,0 +1,386 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,895
+| crecla = Celestian
+| school = Sun
+| masteries = Fire
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm;
+
+| incresist =
+35% Fire, Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Stellar Protector (Boss);
+
+| world = Celestia
+| location = Trial of the Spheres
+| subloc1 = Sanctum of the Sun
+| lootchest = Mithraya's Chest
+| descrip =
+Sealed away in the Solar Sanctum, Mithraya is the final Boss of Celestia.
+*Two additional Stellar Protector (Boss) Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Someone has disturbed my sanctum! Enter and welcome your fiery doom!"''
+:''"The clouds shall part only when Blades and Traps are present."''
+
+| cheatnotes =
+*{{Icon|Round}} During the first Round, Mithraya will use her turn to cast a '''-50%''' version of Smoke Screen on all Wizards.
+*{{Icon|Spell}} If a Wizard successfully casts a Spell, then Mithraya will interrupt-cast a '''-50%''' version of {{Link|Spell|Smoke Mantle}} on the caster.
+**Pet Maycasts will trigger this cheat.
+*{{Icon|Blade}}{{Icon|Trap}} ''"The cards align! Now's your chance!"'' - If a Wizard has at least one [[:Category:Blade Spells|Blade]] placed on them and Mithraya has at least one [[:Category:Trap Spells|Trap]] placed on her, then Mithraya will no longer interrupt-cast Smoke Mantle upon successful casts.
+
+| casts =
+Guiding Light;
+Smoke Screen (-50%);
+Regenerate;
+Rebirth;
+Dryad;
+Solar Blade;
+Solar Trap;
+Darkwind;
+Wild Bolt;
+Kraken;
+Stormzilla;
+Triton;
+Tempest;
+Natural Attack (Fire 100x);
+
+| quests =
+Trial of the Spheres;
+
+| dropnotes = 
+When a Wizard has unlocked the '''[[Basic:Dragonspyre Badges|Savior of the Spiral]]''' {{Icon|Savior of the Spiral}} Badge and has not unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge, the following drops will be available:
+*23 Spellements will drop each time for their respective rank 3-7 Spells.
+
+If a Wizard has already unlocked the Hero of Avalon badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of Trial of the Spheres to acquire a [[Item:Level Scaling Elixir - 60|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+79 - 98;
+
+| hats =
+Atavistic Balance Helm;
+Atavistic Death Helm;
+Atavistic Fire Helm;
+Atavistic Ice Helm;
+Atavistic Life Helm;
+Atavistic Myth Helm*F2*WMV;
+Atavistic Storm Helm;
+Bygone Balance Helm;
+Bygone Death Helm;
+Bygone Fire Helm;
+Bygone Ice Helm;
+Bygone Life Helm;
+Bygone Myth Helm;
+Bygone Storm Helm;
+Celestian Snow Cover*F4*WMV;
+Forgotten Facade*F2*WMV;
+Illusive Headdress*F8*WMV;
+Insightful Topper*F2*WMV;
+Nereus's Hoarfrost Helm;
+Shroud of Solitude;
+Storyteller's Cap;
+Thundercloud Coif;
+
+| robes =
+Atavistic Balance Garb;
+Atavistic Death Garb;
+Atavistic Fire Garb;
+Atavistic Ice Garb;
+Atavistic Life Garb;
+Atavistic Myth Garb;
+Atavistic Storm Garb;
+Bygone Balance Garb;
+Bygone Death Garb*F3*WMV;
+Bygone Fire Garb;
+Bygone Ice Garb;
+Bygone Life Garb;
+Bygone Myth Garb;
+Bygone Storm Garb;
+Celestian Snow Smock*F3*WMV;
+Devoted Vestment;
+Frost Giant's Armor*F2;
+Illusive Longcoat*F2*WMV;
+Principle Jerkin*F7*WMV;
+Robe of Rapture;
+Salgio's Tinder Cloak;
+Tragic Tunic;
+United Longcoat*F2*WMV;
+Whimsical Surcoat;
+
+| boots =
+Atavistic Balance Boots;
+Atavistic Death Boots;
+Atavistic Fire Boots;
+Atavistic Ice Boots;
+Atavistic Life Boots;
+Atavistic Myth Boots;
+Atavistic Storm Boots;
+Boots of Celestian Totality*F3;
+Brimstone Boots;
+Bygone Balance Boots;
+Bygone Death Boots;
+Bygone Fire Boots;
+Bygone Ice Boots;
+Bygone Life Boots;
+Bygone Myth Boots;
+Bygone Storm Boots;
+Dragonstalkers*F3*WMV;
+Frostbit Footguards;
+Ice Rangers*F3*WMV;
+Icestar Stalkers*F2*WMV;
+Illusive Shoes*F2*WMV;
+Natural Boots;
+Polar Boots;
+Rime Runners;
+Storied Celestian Sabatons;
+Virtue Shoes;
+Wraps of Rapport;
+
+| athames =
+Kris of the Piscean Guard*F2*WMV;
+Moon Dagger;
+Star Blade*F3*WMV;
+Sun Kris*F2*WMV;
+
+| amulets =
+Star Amulet*F3*WMV;
+Vial of the Sun*F4*WMV;
+
+| rings =
+Combustible Band*F2*WMV;
+Majestic Signet;
+Moon Ring;
+Ring of Rare Origins;
+Star Signet*F3*WMV;
+Sun Circle*F5*WMV;
+
+| wands =
+Baby Bird Wand*CR*HOL;
+Guardian's Wand*CR*HOL;
+Hard Candy Spellcaster*CR*HOL;
+Shillelagh of Reformation*CR*HOL;
+Staff of Enchantment*CR*HOL;
+Staff of the Cherub Archer*CR*HOL;
+Wand of the Beguiler*CR*HOL; 
+
+| decks =
+
+| items =
+Celestia Main Theme*F4*WMV;
+Krokopatra Master Duel*CR;
+Meowiarty Archmage Duel*CR;
+Meowiarty Exalted Duel*CR*F2*WMV;
+Rattlebones Exalted Duel*CR;
+Rattlebones Master Duel*CR;
+Snowglobe*HOL;
+Sun Icon*F4*WMV;
+Yuletide Tall Small Fry Aquarium*CR*HOL;
+Zeus Exalted Duel*CR;
+
+| cards =
+Accurate;
+Empower*F6*WMV;
+Gargantuan*F4*WMV;
+Unstoppable*F5*WMV;
+
+| reagents =
+Cobalt*F6*WMV;
+Fish Fin*F8*WMV;
+Nickel*F5*WMV;
+Sandstone*F15*WMV;
+Shark Tooth @ 5 Shark Tooth;
+Shark Tooth @ 6 Shark Tooth;
+Steel;
+Sunstone*F5*WMV;
+Tin;
+
+| spellements =
+Banshee*BR;
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops*BR;
+Cyclops Minion*BR;
+Earth Walker*BR;
+Evil Snowman*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*BR;
+Ice Wyvern*BR;
+Immolate*BR;
+Kraken*BR;
+Locust Swarm*BR;
+Minotaur*BR;
+Nature's Wrath*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Scarecrow*BR;
+Seraph*BR;
+Skeletal Pirate*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Storm Shark*BR;
+Stormzilla*BR;
+Sunbird*BR;
+Triton*BR;
+Vampire*BR;
+Wraith*BR;
+
+| snacks =
+Cauliflowers*F3;
+Delicious Cookie*F3*WMV;
+Glowing Star Fruit*F3*WMV;
+Glowing Taffy*F3;
+Spicy Drumstick*F3*WMV;
+Strawberry Cupcake*F3*WMV;
+Submarine Sandwich*F6*WMV;
+
+| jewels =
+Blade of Life Jade;
+Blazing Oak Ruby;
+Blemished Mana Opal +20;
+Blemished PIP Opal +4%;
+Darkwind Amethyst;
+Dissipate Amethyst*F4*WMV;
+Dull Accurate Ruby +6%;
+Dull Health Opal +53;
+Dull Mana Opal +21;
+Dull PIP Opal +5%;
+Entangle Jade*F2;
+Feinting Spell Onyx;
+Keen Eyes Opal;
+Mass Death Prism Onyx;
+Mass Ice Prism Sapphire;
+Mass Life Prism Jade;
+Mass Myth Prism Peridot;
+Mass Storm Prism Amethyst*F2;
+Melt Sapphire;
+Mend Talent Opal;
+Plain Blocking Opal +3;
+Plain Damage Sapphire +15;
+Plain Defense Citrine +29;
+Plain Defense Onyx +29;
+Plain Defense Opal +16;
+Plain Defense Ruby +29;
+Plain Defense Sapphire +29*F2;
+Strangle Onyx;
+Strong Opal*F3*WMV;
+
+| pins =
+Balance Blocking Pin (60, Death);
+Balance Blocking Pin (60, Fire);
+Balance Blocking Pin (60, Ice);
+Balance Blocking Pin (60, Life);
+Balance Blocking Pin (60, Myth)*F2*WMV;
+Balance Blocking Pin (60, Storm);
+Balance Mending Pin (50);
+Balance Mending Pin (60);
+Balance Resist Pin (50, Death);
+Balance Resist Pin (50, Fire);
+Balance Resist Pin (50, Ice);
+Balance Resist Pin (50, Life);
+Balance Resist Pin (50, Myth);
+Balance Resist Pin (50, Storm);
+Balance Resist Pin (60, Death);
+Balance Resist Pin (60, Fire);
+Balance Resist Pin (60, Ice);
+Balance Resist Pin (60, Life);
+Balance Resist Pin (60, Myth);
+Balance Resist Pin (60, Storm);
+Death Blocking Pin (60, Balance);
+Death Blocking Pin (60, Ice);
+Death Blocking Pin (60, Myth);
+Death Resist Pin (50, Balance);
+Death Resist Pin (50, Ice);
+Death Resist Pin (50, Myth);
+Death Resist Pin (60, Balance);
+Death Resist Pin (60, Ice);
+Death Resist Pin (60, Myth);
+Fire Blocking Pin (60, Balance);
+Fire Blocking Pin (60, Life);
+Fire Blocking Pin (60, Storm);
+Fire Mending Pin (50);
+Fire Mending Pin (60);
+Fire Resist Pin (50, Balance);
+Fire Resist Pin (50, Life);
+Fire Resist Pin (50, Storm);
+Ice Blocking Pin (60, Balance);
+Ice Blocking Pin (60, Fire);
+Ice Blocking Pin (60, Myth);
+Ice Resist Pin (50, Balance);
+Ice Resist Pin (50, Fire);
+Ice Resist Pin (50, Myth);
+Life Blocking Pin (60, Balance);
+Life Blocking Pin (60, Death);
+Life Blocking Pin (60, Storm);
+Life Mending Pin (40);
+Life Mending Pin (60);
+Life Resist Pin (50, Balance);
+Life Resist Pin (50, Death);
+Life Resist Pin (50, Storm);
+Myth Blocking Pin (60, Balance);
+Myth Blocking Pin (60, Fire);
+Myth Blocking Pin (60, Life);
+Myth Resist Pin (50, Balance);
+Myth Resist Pin (50, Fire);
+Myth Resist Pin (50, Life);
+Storm Blocking Pin (60, Balance);
+Storm Blocking Pin (60, Death);
+Storm Blocking Pin (60, Ice);
+Storm Mending Pin (50);
+Storm Mending Pin (60);
+Storm Resist Pin (50, Balance);
+Storm Resist Pin (50, Death);
+Storm Resist Pin (50, Ice);
+Storm Resist Pin (60, Balance);
+Storm Resist Pin (60, Death);
+Storm Resist Pin (60, Ice);
+
+| pets =
+Christmas Elf*CR*HOL;
+Frostman*CR*HOL;
+Lovely Leopard*CR*HOL;
+Lucky Leprechaun*CR*HOL;
+Rescue Rover*CR*HOL;
+Sea Dragon*CR;
+
+| seeds =
+Boon Tree*CR*HOL;
+Deadly Fly Trap*F7*WMV;
+Maelstrom Snap Dragon*F5*WMV;
+Pink Dandelion*CR*F4*WMV;
+Silver Trumpet Vine*CR*F2*WMV;
+
+| mounts =
+Stormrider Hare*PERM*CR*HOL;
+
+| spells =
+
+}}

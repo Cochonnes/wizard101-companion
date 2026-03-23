@@ -1,0 +1,132 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 5,440
+| crecla = Grendel
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Grizzleheim
+| location = Winterdeep Warren
+| descrip = Huldur is special because there are '''two''' of him within Winterdeep Warren, in separate chambers. He can be found patrolling the large rectangle in the middle of the map, and the small octagon at the far right.
+
+His minion(s) will be drawn from among the four mob types that spawn in his areas, per standard street duel rules: {{Link|Creature|Grendel Sapscar}}, {{Link|Creature|Grendel Spikeroot}}, {{Link|Creature|Grendel Weirdling}}, or {{Link|Creature|Grendel Witch Doctor}}.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Weakness;
+Black Mantle;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Vampire;
+Poison;
+Skeletal Pirate;
+Scarecrow;
+Fire Elf (50+210);
+Ice Wyvern;
+Lightning Bats;
+Natural Attack (Storm 125x, 70%);
+
+| quests =
+
+| gold =
+65 - 97;
+
+| hats =
+Cap of the Stratosphere;
+Circlet of the Unavoidable;
+Firebloom Cowl;
+Hat of Elan*F3*WMV;
+Hood of the Invariable;
+Mantle of Ingenuity;
+Wildblaze Hat;
+
+| robes =
+Gelid Garments;
+Gloomhound's Wrap;
+Harbinger's Smock;
+
+| boots =
+Boots of the Warlord;
+Broghans of the Wanderer;
+Footgear of the Undertow;
+Footwraps of the Efreet;
+Iceclaw Boots;
+Tidal Striders*F2*WMV;
+
+| athames =
+Adamantine Dirk*F2*WMV;
+Forgebright Blade*F4*WMV;
+
+| amulets =
+
+| rings =
+Band of the Bygone;
+
+| wands =
+
+| decks =
+
+| items =
+Decorative Basket;
+Heavy Dining Table;
+Runestone Spiral;
+
+| cards =
+Time of Legend;
+
+| reagents =
+Bone;
+Cobalt*F2*WMV;
+Iron;
+Leather Straps*F8*WMV;
+
+| spellements =
+
+| snacks =
+Glowing Rock Candy*F2;
+Moon Pie;
+Tasty Biscuit*F2*WMV;
+
+| jewels =
+Dull Defense Ruby +25;
+
+| pins =
+
+| pets =
+
+| seeds =
+Rye Bread Fruit Bush;
+
+| mounts =
+
+| spells =
+
+}}

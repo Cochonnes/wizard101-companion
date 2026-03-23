@@ -1,0 +1,221 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 6,140
+| crecla = Undead
+| school = Life
+| cheats = Yes
+| masteries =
+Fire;
+Balance;
+
+| startpips = 4
+| powerpips = Yes
+| critical = 
+
+| criticalblock = 
+
+| outpierce =
+8%;
+
+| outboost =
+40%;
+
+| incboost =
+25% Death;
+
+| incresist =
+45% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sunken Sam (Tier 2);
+Sunken Sam (Tier 2);
+Sunken Sam (Tier 2);
+
+| world = Celestia
+| location = Science Center
+| subloc1 = Drowned Dan's Chamber
+| badge = Undead Pirate's Scourge
+| descrip =
+Drowned Dan (Tier 2) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Celestian Spellemental Pack}}.
+*This Tier is for level 51-65 Wizards.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+Swimming is hard.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Aura}} ''"Ye must sink the sams to learn me code"'' - Drowned Dan will cast an ''Invulnerability'' -300% Brace Aura making him Immune to Damage.
+*{{Icon|Round}} ''"The code is #-#-#-#"'' - At the start of the second Round, Drowned Dan will reveal the first number of the code. Each time a Minion is defeated, the next number of the code is revealed at the start of the following Round. The code represents four different Spell pip costs that Drowned Dan must be targeted with in order to deactivate the Invulnerability Aura.
+'''List of Codes:'''
+*Drowned Dan will use one of the following nine codes:
+**"1-5-2-7"
+**"1-5-7-6"
+**"1-5-7-7"
+**"3-4-0-6"
+**"3-4-7-5"
+**"3-4-7-6"
+**"4-7-0-1"
+**"4-7-3-2"
+**"4-7-3-6"
+'''Correct Responses:'''
+*''"Blast! Ye be correct!"'' - is his response if answered correctly the first time.
+*''"Yar! A lucky guess!"'' - is his response if answered correctly the second time.
+*''"Blimey! They've figured it out!"'' - is his response if answered correctly the third time.
+*''"Nooo! My protection!"''' - is his response if answered correctly the fourth time, and casts a version of Supernova on himself that deals no Damage.
+'''Incorrect Responses:'''
+*''"Incorrect! Back to the start with ye!"'' - is his response if answered incorrectly, starting over the original sequence.
+
+| spellnotes =
+
+| casts =
+Lifespear (+10%);
+Lifeblade (+40%);
+Mass Life Trap;
+Nature's Wrath (Tier 3b);
+Seraph (Tier 3a);
+Earth Walker (Tier 3b);
+Forest Lord;
+Rebirth;
+Spiritual Tribunal (Tier 3a);
+Nautilus Unleashed (Tier 4a);
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+
+| hats =
+Celestian Neon Mask (Level 50+)*CR;
+Celestian Neon Mask (Level 60+)*CR*F2;
+Celestian Photon Mask (Level 50+)*CR*F4;
+Celestian Xenon Mask (Level 50+)*CR*F8;
+Celestian Xenon Mask (Level 60+)*CR*F2;
+
+| robes =
+Celestian Neon Cape (Level 60+)*CR;
+Celestian Photon Cape (Level 50+)*CR*F4;
+Celestian Xenon Cape (Level 50+)*CR;
+Celestian Xenon Cape (Level 60+)*CR*F4;
+
+| boots =
+Celestian Neon Striders (Level 50+)*CR*F2;
+Celestian Photon Striders (Level 50+)*CR;
+Celestian Photon Striders (Level 60+)*CR*F2;
+Celestian Xenon Striders (Level 50+)*CR*F2;
+Celestian Xenon Striders (Level 60+)*CR*F3;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Celestian Neon Axe (Level 50+)*CR*F5;
+Celestian Neon Axe (Level 60+)*CR;
+Celestian Photon Axe (Level 50+)*CR*F2;
+Celestian Photon Axe (Level 60+)*CR*F2;
+Celestian Xenon Axe (Level 50+)*CR;
+Celestian Xenon Axe (Level 60+)*CR*F3;
+
+| decks =
+
+| items =
+Branching Coral*F3;
+Celestia Main Theme;
+Celestian Bookshelf;
+Celestian Cube Sculpture*CR*F3;
+Celestian Device*CR;
+Chariot Painting*CR*F2;
+Crab Painting*CR;
+Expert's Socket Wrench;
+Fan Coral*F5;
+Fountain Painting*CR*F2;
+Galactic Water Spout*CR;
+Galleon Painting*CR;
+Gold Skeleton Key*CR*F3;
+Hound Painting*CR;
+Island Gazebo;
+Kraken Painting*CR;
+Lantern;
+Messenger Painting*CR*F2;
+Orrery*CR*F2;
+Phoenix Painting*CR;
+Serpent Painting*CR;
+Stag Painting*CR*F2;
+Star Chalice*F3;
+Stone Skeleton Key*CR*F4;
+Warden Painting*CR;
+Water Mole Supplies;
+Wheelbarrow*F2;
+Wooden Skeleton Key*CR*F2;
+
+| cards =
+Azoth*F43;
+Celestial Intervention*F11;
+Nautilus Unleashed*F12;
+Ship of Fools*F9;
+Spiritual Tribunal*F7;
+
+| reagents =
+Brass;
+Cobalt*F2;
+Kelp;
+Participation Trophy;
+Steel*F4;
+Tin;
+
+| spellements =
+Celestial Intervention*F32;
+Nautilus Unleashed*F34;
+Ship of Fools*F33;
+Spiritual Tribunal*F37;
+
+| snacks =
+
+| jewels =
+Big Sparky Amethyst;
+Plain Blocking Amethyst +6;
+Plain Blocking Ruby +6;
+Plain Damage Citrine +15;
+Plain Damage Sapphire +15;
+Plain Defense Opal +16;
+
+| pins = 
+
+| pets =
+Feral Zorphie*CR*F4;
+Vicious Zorphie*CR*F3;
+
+| seeds =
+
+| mounts =
+Celestian Mech;
+
+| spells =
+
+}}

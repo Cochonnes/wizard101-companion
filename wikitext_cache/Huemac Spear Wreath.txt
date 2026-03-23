@@ -1,0 +1,150 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 12,680
+| crecla = Tritop
+| crecla2 = Undead
+| school = Balance
+| startpips = 6
+| powerpips = Yes
+| critical =
+86 Any;
+
+| criticalblock =
+69 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+Thunder Horn Zombie;
+Thunder Horn Zombie;
+
+| world = Azteca
+| location = Mangrove Marsh
+| subloc1 = Actun Caban
+| descrip =
+Sorcerors fight this Undead Tritop in order to collect a Sabertooth Fang during their Level 88 Spell Quest. This Boss is not repeatable.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Balance Damage.
+
+| casts =
+Infallible;
+Vengeance;
+Weakness;
+Black Mantle;
+Availing Hands;
+Balanceblade;
+Hex;
+Mana Burn;
+Samoorai;
+Sandstorm;
+Power Nova;
+Ra;
+Sabertooth;
+Judgement;
+
+| quests =
+Hold That Tiger;
+
+| gold =
+167 - 184;
+
+| hats =
+Glorious Feathered Mantle;
+Helm of the Broken Spear;
+Mask of the Calavera;
+
+| robes =
+Black Sun Chac's Armor;
+Keeper of the Codex Vest*F2*WMV;
+Philososaur's Robes;
+
+| boots =
+Elite Jura Guard Stalkers;
+Five Fangs of Fury Boots;
+
+| athames =
+Moon Skull's Blessed Edge;
+Thunder Horn's Rough Cutter;
+
+| amulets =
+Home Hearth Relic;
+Horizon of Underworld Charm;
+Speaking Water Ornament;
+
+| rings =
+
+| wands =
+Talon of the Storm Owl;
+
+| decks =
+Calendar of the Spiral King;
+Lords of Night Pyramid Deck;
+
+| items =
+Clothesline;
+Starburst Frond;
+
+| cards =
+Colossal;
+Gnomes!;
+Potent Trap;
+Primordial; 
+Rain of Fire;
+Sirens;
+
+| reagents =
+Black Lotus*F2;
+Blood Moss;
+Bone;
+Bronze Gear*F2;
+Deep Mushroom*F2;
+Fire Blossom;
+Lava Lily*F2;
+Mist Wood*F2;
+Ore*F2*WMV;
+Red Mandrake;
+Stone Block*F4*WMV;
+Titanium;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Apatotatoes;
+Avocado Milkshake*F2*WMV;
+Dr. Jalapeno;
+Guava;
+
+| jewels =
+Sap Power Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

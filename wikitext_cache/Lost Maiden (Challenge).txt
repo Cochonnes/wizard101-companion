@@ -1,0 +1,111 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,325
+| crecla = Undead
+| school = Balance
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Boatswain McGee (Challenge);
+Chief Mate McGurk (Challenge);
+
+| world = Wizard City
+| location = Atlantea (Challenge)
+| subloc1 = Watery Graves (Challenge)
+| descrip =
+*For the Standard version of this Creature, see {{Link|Creature|Lost Maiden}}.
+
+| speech =
+:''"Some days I feel wrong, no matter what I do... it will all be over soon, drowned with our past... don't listen to a word I say..."''
+
+| cheatnotes =
+*''"You dare raise arms to me?"'' - At the end of each Round, if a Wizard has a helpful Charm or helpful Aura Spell, Lost Maiden will cast Ra (Tier 2b) on all Wizards.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Balanceblade;
+Bladestorm;
+Hex;
+Natural Attack (Balance 175-360-545);
+Ra (Tier 2b);
+Chimera (Tier 2b);
+
+| quests =
+Under the Sea;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic: Aquila Badges|Swole Like Sisyphus]]''' {{Icon|Swole Like Sisyphus}} Badge, the following drops will be available:
+*{{Icon|Spellement}} 3-4 Aquila Spellements will drop each time from '''any''' School
+
+| gold =
+7 - 29;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Lost Maiden
+}}

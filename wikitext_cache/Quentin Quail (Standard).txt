@@ -1,0 +1,103 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 17,795
+| crecla = Duck
+| school = Balance
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+27%;
+
+| outboost =
+125%;
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+40% Fire, Ice, Storm, Shadow;
+70% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Selenopolis
+| subloc1 = Celestial Pyramid (Standard)
+| descrip =
+Quentin Quail is considered a Minion to {{Link|Creature|Drake Lockley (Standard)}}. All drops are recorded on those pages.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Balanceblade;
+Bladestorm;
+Dark Surge;
+Loremaster;
+Locust Swarm (Tier 4a);
+Sandstorm;
+Gearhead Destroyer;
+Mockenspiel;
+Nested Fury;
+Judgement;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Quentin Quail
+}}

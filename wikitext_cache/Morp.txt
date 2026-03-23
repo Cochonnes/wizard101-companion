@@ -1,0 +1,129 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 19,815
+| crecla = Koala
+| school = Life
+| masteries =
+Ice;
+Balance;
+
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Life;
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+18%;
+
+| outboost =
+94%;
+
+| incboost =
+30% Death;
+
+| incresist =
+40% Fire, Ice, Storm, Myth, Balance, Shadow;
+70% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+Kanga-Ranger (Life);
+
+| world = Wallaru
+| location = Eucalyptus Forest
+| subloc1 = Great Barrier Gatehouse
+| descrip =
+
+| speech =
+:'''Joan Locke:''' ''"Morp, please, we can sort this out. I don't know what happened in the past or why you did what you did, but-"''
+:'''Morp:''' ''"Not me. My ancestors. They built the Great Barrier because strangers came here, right up to the Dreamer itself, and made something horrible. An engine of evil, it was, that could reshape the Spiral. Even the Great Tree could not perceive it. We could not allow another such creation. I thought you understood, Joan Locke, but your business partner steals our dreams even now. He will make another grand evil. And I won't let him!"''
+
+| cheatnotes =
+*{{Icon|Round}} ''"You shall not, you know, pass.''" - At the beginning of Round 1, Morp will cast {{Link|Spell|Shadow Sentinel}}, lasting three Rounds.
+*{{Icon|Stun}} ''"It seems like you're still trying to pass."'' - If Morp is hit for the first time, she will {{Link|Spell|Stun}} the caster.
+*{{Icon|Stun}} ''"I thought we discussed this passing business."'' - If Morp is hit for the second time, she will {{Link|Spell|Stun}} the caster.
+*{{Icon|Manipulation}} ''"And now you're gone! I did warn you."'' - If Morp is hit for a third time, she will force all Wizards to pass, then use {{Link|TreasureCard|Exit Combat}} on each Wizard, which ends the fight.
+
+| spellnotes =
+
+| casts =
+Brace;
+Legend Shield;
+Life Shield;
+Mega Taunt;
+Power Current;
+Potboiler;
+Sacred Charge (Tier 3a);
+Samoorai (Tier 3b);
+
+| quests =
+Morp and Memories;
+
+| gold =
+10 - 38;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Scenery Tree*CR*F4;
+Wallaru Doom Moon Combat Theme;
+Wallaru Eucalyptus Forest Theme;
+
+| cards =
+Celestial Calendar;
+Myth Trap;
+Rain of Fire;
+
+| reagents =
+Draconium;
+Leather Straps;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Bell Pepper Steak;
+Dr. Jalapeno;
+Golden Biscuit;
+Lava Guava;
+Venison Chili;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,314 @@
+{{Stub|which version of the '''''Mutate''''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,000
+| crecla = Penguin
+| shadowslots = 2
+| school = Fire
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Inspector General;
+
+| world = Polaris
+| location = Walruskberg
+| subloc1 = Feasting Hall
+| location2 = Walruskberg Harbor
+| subloc2 = Inspectors Brigade Headquarters
+| descrip =
+
+| speech =
+:'''(in the Feasting Hall)'''
+
+::''"But what is this? Some kind of intruder? This is a crime scene, intruder! By order of the Inspectors Brigade, I am putting you underneath arrest!"'' 
+:'''(in the Inspectors Brigade Headquarters)'''
+
+::''"Aha! The intruder intrudes again. And not this time am I not surprised. Wait, did I say that right? Never you mind, fiend! To arms, Inspectors! The intruder is at the top of our game! None can know that the Brigade is up to fishy business!"''
+
+| spellnotes =
+
+| casts =
+Dark Nova;
+Fortify;
+Glacial Shield (-50%);
+Tower Shield;
+Smoke Mantle;
+Smoke Screen;
+Choke;
+Natural Attack (Detolli);
+Fire from Above;
+Grand Phoenix;
+Efreet;
+Shift Grendel;
+
+| quests =
+Scene of the Crime;
+Fishy Business;
+
+| gold =
+212 - 525;
+
+| hats =
+Hailstorm Tundra Ushanka*F2*WMV;
+Sweltery Tundra Ushanka;
+The Goat Horns*CR;
+The Enchanter*CR;
+The Ice Horns*CR;
+The Manticore*CR;
+The Stardust*CR;
+The Warlock*CR*F2;
+Tundra Ushanka of Loyalty;
+Tundra Ushanka of Mayhem;
+Tundra Ushanka of Survival*F2;
+Urville Cherkesska of Guile*F2;
+Urville Chokha of Elation;
+Urville Fur Hat of Elation;
+Urville Fur Hat of Snowgusts;
+Urville Papakh of Anguish;
+Urville Papakh of Flames;
+Urville Papakh of Guile;
+Urville Papakh of Wintertide*F2;
+
+| robes =
+Hailstorm Tundra Suit*F2*WMV;
+Tundra Coat of Sagacity;
+Tundra Garment of Loyalty;
+Tundra Jacket of Survival;
+Tundra Raiment of Mayhem*F2;
+Urville Cherkesska of Guile*F2;
+Urville Longcoat of Honor;
+Urville Snowgusts Coat;
+
+| boots =
+Blizzardy Tundra Snowshoes;
+Hailstorm Tundra Boots;
+Sweltery Tundra Boots;
+Tundra Boots of Mayhem*F2;
+Tundra Footwear of Loyalty;
+Tundra Trekkers of Sagacity;
+Tundra Walkers of Survival*F3;
+Urville Footgear of Anguish*F2;
+Urville Station Snowboots;
+
+| athames =
+Mage's Hardy Edge*F2;
+Urville Edge of Snowgusts;
+Urville Knife of Elation*F2;
+Urville Kris of Wintertide;
+Urville Lancet of Anguish; 
+Urville Spike of Honor; 
+
+| amulets =
+Ampul of the Polarian Mage;
+Mage's Blustery Pendant;
+Mage's Hardy Carcanet;
+Mage's Torc of Guile;
+Mage's Wintry Chaplet*F2*WMV;
+Urville Chaplet of Anguish*F3;
+Urville Charm of Snowgusts*F2*WMV;
+Urville Necklace of Honor;
+Urville Pendant of Elation*F2;
+Urville Talisman of Guile*F3*WMV;
+
+| rings =
+Inspector's Band of Theories;
+Inspector's Ring of Grief*F2;
+Inspector's Seal of Pluck;
+Iron Paw's Band of Clangor;
+Mage's Blustery Seal;
+Mage's Hardy Band;
+Mage's Signet of Justice;
+
+| wands =
+Axe of Tundra Blizzards*F2;
+Mage's Blustery Stave*F2*WMV;
+Mage's Wand of Guile*F2*WMV;
+Polarian Mage's Wand;
+Polarian Tundra Bardiche;
+Tundra Axe of Hailstorms;
+Tundra Axe of Loyalty*F2;
+Tundra Bardiche of Ferocity;
+Tundra Bardiche Sagacity*F2*WMV;
+Tundra Survival Hatchet*F2;
+
+| decks =
+Hand of Tundra Blizzards*F2;
+Mage's Blustery Stack;
+Mage's Cards of Aplomb;
+Mage's Case of Guile;
+Mage's Smoldering Parcel;
+Polarian Mage's Gallery;
+Polarian Tundra Spelldeck;
+Tundra Cards of Disarray*F2;
+Tundra Gallery of Hailstorms;
+Tundra Hand of Loyalty;
+Tundra Survivor's Pack*F2*WMV;
+
+| items =
+Arcanum Theme*F3;
+Medium Enchanted Pot*F3;
+Medium Pot*F3*WMV;
+Polaris Baba Yaga Theme;
+Polaris Frozen Combat Theme;
+Polaris Frozen Forest Theme*F2;
+Polaris Gulag Combat Theme;
+Polaris Ice Block Theme*F3;
+Polaris Mine Combat Theme*F2;
+Polaris Mine Theme;
+Polaris Opera Theme*F3;
+Polaris Rasputin Combat Theme;
+Small Enchanted Pot*F2*WMV;
+Small Pot*F2;
+Walruskberg Combat Theme*F2;
+Walruskberg Liberated Theme*F2;
+Walruskberg Theme*F2;
+
+| cards =
+Ashen Bones*F3*WMV;
+Astraphobia;
+Combustion*F3;
+Counterforce*F3*WMV;
+Frostfang;
+Katabatic Wind;
+Mutate Banshee (Sun);
+Mutate Bats;
+Mutate Beetle;
+Mutate Bird (Storm)*F2;
+Mutate Cat (Ice)*F2*WMV;
+Mutate Colossus;
+Mutate Elf (Ice)*F2;
+Mutate Helephant (Ice);
+Mutate Hound (Ice)*F2*WMV;
+Mutate Hound (Storm)*F2;
+Mutate Kraken (Fire);
+Mutate Kraken (Ice);
+Mutate Monster (Fire);
+Mutate Monster (Ice)*F2*WMV;
+Mutate Phoenix (Ice)*F2*WMV;
+Mutate Phoenix (Storm);
+Mutate Serpent (Storm);
+Mutate Shark (Fire)*F3*WMV;
+Mutate Shark (Ice);
+Mutate Snake (Fire)*F2;
+Mutate Snake (Ice)*F4*WMV;
+Mutate Snowman (Fire);
+Mutate Snowman (Storm)*F2*WMV;
+Mutate Sprite (Death);
+Mutate Swarm (Ice);
+Mutate Wyvern (Fire);
+Mutate Wyvern (Storm)*F2*WMV;
+Namaste*F2;
+Saga of Heroes*F4*WMV;
+
+| reagents =
+Aether*F3;
+Agave Leaves*F4*WMV;
+Amber Dust*F5*WMV;
+Aquamarine*F6*WMV;
+Astral Shard*F5*WMV;
+Fish Fin*F4*WMV;
+Golden Pearl*F4*WMV;
+Mithril*F4*WMV;
+Scales*F7*WMV;
+Silver*F4*WMV;
+Steel*F6*WMV;
+Sunstone*F5*WMV;
+Tungsten*F8*WMV;
+Turquoise*F4*WMV;
+Vine*F4*WMV;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate;
+Beast Wellington*F4*WMV;
+Chalupacabra*F3*WMV;
+Cornbread Fruit;
+Deepwater Toffee;
+Eye Candy*F3*WMV;
+Frosty Sugar Cubes;
+Frozen Snails*F3*WMV;
+Granny Snow Apple*F3*WMV;
+Green Tomato*F2*WMV;
+High Road Haggis*F3;
+Hot Cross Buns*F4*WMV;
+Jolly Rancher;
+Mustachios*F6*WMV;
+Penne Dreadful*F3*WMV;
+Polaris Fries*F5*WMV;
+Rhubarbed Wire*F2;
+Satyr Chow*F3*WMV;
+Ships 'n' Queso*F4*WMV;
+Snow Apple Cider*F3;
+Snow Apple Pie*F2;
+Veggie Juice*F5*WMV;
+
+| jewels =
+Polished Defense Citrine +41;
+Polished Defense Peridot +41;
+Polished Defense Ruby +41;
+Polished Defense Sapphire +41;
+
+| pins =
+
+| pets =
+Arctic Ninja Pig*CR*F2;
+Ice Bird;
+Intrepid Seal Pup;
+Mountain Yeti*CR;
+Nodori Winged Ram*CR;
+Polar Bear Cub*CR;
+Snowball*CR;
+White Winter Owl;
+
+| seeds =
+Angel Oak*F4*WMV;
+Angora Bunny Ears;
+Bell Pepper;
+Cornbread Fruit Bush*F4;
+Evil Snow Peas*F5*WMV;
+Fish on a Vine*F4*WMV;
+Frozen Fly Trap*F3*WMV;
+Golden Couch Potatoes;
+Goose Tree*F2*WMV;
+Green Snow Apples*F6*WMV;
+King Parsley*CR*F5*WMV;
+Moon Flower*F3*WMV;
+Ninja Fig*CR*F3*WMV;
+Pink Huckleberries;
+Purple Snow Apples*F3*WMV;
+Queen Crape Myrtle*F2*WMV;
+Red Huckleberries;
+Snow Apples*F3*WMV;
+Ultra Ninja Fig*F2*WMV;
+Ultra Snow Apples*F3*WMV;
+White Desparagus*F3*WMV;
+White Laugh-O-Dil*F2*WMV;
+White Tiger Lily*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

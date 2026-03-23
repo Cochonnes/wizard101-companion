@@ -1,0 +1,152 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 600
+| crecla = Giant
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Storm;
+
+| incresist =
+50% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Lumbering Troll;
+
+| world = Wizard City
+| location = Colossus Boulevard
+| subloc1 = Seravin's Tower
+| descrip =
+*Two additional {{Link|Creature|Lumbering Troll}} Minions will appear if more than two Wizards are present.
+
+| speech =
+:''"Troll smash! Troll crash! You no smash Troll!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 200 Myth Damage for 2 Pips.
+
+| casts =
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Natural Attack (Myth 100x, 75%);
+Dark Sprite;
+Ghoul;
+Snow Serpent;
+Leprechaun;
+
+| quests =
+Trolling for a Tunic;
+
+| gold =
+11 - 21;
+
+| hats =
+Adventurer's Helm*F2*WMV;
+Antique Helm*F3*WMV;
+Charged Cover;
+Cowl of the Discreet*F6*WMV;
+Crown of Seasons;
+Helm of the Great Troll*F2*WMV;
+Novice's Hat;
+Soft Hood;
+The Great Troll's Cap*F3*WMV;
+The Great Troll's Hood;
+Veil of Sparks*CR;
+
+| robes =
+Cloak of Calamity;
+Cloak of Vigilance*F5*WMV;
+Great Troll's Mantle*F2*WMV;
+Howling Raiment*CR;
+Novice's Robe*F2*WMV;
+Robes of the Great Troll*F2*WMV;
+Sturdy Coat;
+
+| boots =
+Boots of the Great Troll;
+Fireguard Slippers*F6*WMV;
+Footgear of Malediction*CR;
+Plated Boots;
+Roughspun Shoes*F2*WMV;
+Soft Boots*F2*WMV;
+Soldiers Wraps;
+Stormcaller's Boots*F4*WMV;
+The Great Troll's Shoes;
+
+| athames =
+Knife of Winter*F6*WMV;
+Novice's Athame*F2*WMV;
+
+| amulets =
+Flash Frozen Choker*F5*WMV;
+Troll Ear Pendant*F2*WMV;
+
+| rings =
+Simple Opal Ring*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Ornate Stone Tower*F6*WMV;
+Snowy Pine*F3*WMV;
+Stitched Rug*F3*WMV;
+Wizard City Dance Theme*F2;
+Wizard City Theme 1*F4*WMV;
+
+| cards =
+Frost Beetle*F2*WMV;
+Ghoul;
+Lightning Bats;
+Pixie;
+Siphon Health;
+Snow Serpent;
+Snow Shield;
+Time of Legend;
+Troll*F2*WMV;
+
+| reagents =
+Leather Straps*F5*WMV;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry*F3*WMV;
+Cheese Broccoli*F4*WMV;
+Chocolate Strawberry;
+Gummy Firecat*F3*WMV;
+Sugar Donut*F3*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

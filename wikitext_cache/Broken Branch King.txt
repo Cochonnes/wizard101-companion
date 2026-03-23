@@ -1,0 +1,101 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 17,635
+| crecla = Wizard
+| school = Ice
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Ice;
+
+| critical =
+119 Any;
+
+| criticalblock =
+654 Any;
+
+| outpierce =
+10%;
+
+| outboost =
+80%;
+
+| incboost =
+30% Fire;
+
+| incresist = 
+46% Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+76% Ice;
+
+| outhealing =
+34%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Arcanum
+| location = Lower Decks
+| subloc1 = Windgine Room
+| descrip =
+The Broken Branch King is considered a minion to the {{Link|Creature|Broken Branch Queen}}.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Tower Shield;
+Ice Trap;
+Ice Fuel;
+Ice Elemental (Tier 2a);
+Volcanic Golem (Tier 2b);
+Abominable Weaver;
+Woolly Mammoth (Tier 2b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

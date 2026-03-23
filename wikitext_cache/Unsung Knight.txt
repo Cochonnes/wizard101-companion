@@ -1,0 +1,219 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 12,160
+| crecla = Crab
+| school = Ice
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Dog Knight;
+Dog Knight;
+Dog Knight;
+
+| world = Avalon
+| location = Ghost Avalon
+| descrip =
+Wizards duel the Unsung Knight in place of {{Link|NPC|King Artorius}}, as his champion. He later is known as Sir Pike Del Lago.
+
+| speech =
+:''"King Artorius, I will defeat you and prove that I am worthy of joining your Knights of the Silver Rose as your greatest knight! Wait, you are not King Artorius. What kind of knight are you? You are the King's champion? I did not plan to pull feathers from my claws today."''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Vengeance;
+Tower Shield;
+Iceblade;
+Ice Trap;
+Freeze;
+Balefrost;
+Natural Attack (Ice 175-350-510);
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Icezilla (650-730);
+Colossus;
+Frost Giant;
+Snow Angel;
+Woolly Mammoth;
+
+| quests =
+Take Me to the Other Side;
+
+| gold =
+206 - 235;
+
+| hats =
+Bad Storm Shroud;
+Chaos Lord's Helm*F4;
+Thunderstruck Shroud*F6*WMV;
+
+| robes =
+Brave One's Plate;
+Courageous Armiger's Vestment;
+High Court Robes*F2;
+Honor Bound Surcoat;
+Horned One's Tunic*F4;
+Just Armiger's Armor;
+Robes of the Silent Hunter;
+
+| boots =
+Deep Is The Well Waders*F3;
+Guardian's Shoes*CR;
+Hundred Year Bridge Walkers*F6*WMV;
+Ponycorn Hoofers*F3;
+Splashing Stream Waders;
+
+| athames =
+Grim Guardian's Dirk*F3*WMV;
+Queen's Ever Sharp Wit*F2;
+
+| amulets =
+Knight of the Wyrd's Pendant*F3;
+Seely Wizard's Torc*F2;
+
+| rings =
+Bad Host Band;
+Band of the Lost Abbey*F2;
+Circle of High Order;
+Crystal Cave Rose*F3*WMV;
+Knight Errant's Seal*F3*WMV;
+
+| wands =
+Staff of the Wildgrave*F4*WMV;
+Stag-Horned Staff;
+
+| decks =
+Argent Rose Deck*F4*WMV;
+Woodlocke Deck*F2*WMV;
+
+| items =
+Avalon Glorious Theme;
+Avalon Haunting Theme;
+Jousting Rack*F2;
+Meowiarty Archmage Duel*CR;
+Rattlebones Exalted Duel*CR;
+Rattlebones Master Duel*CR;
+Small Arms Weapons Rack*F2;
+Zeus Exalted Duel*CR;
+
+| cards =
+Amplify*F4*WMV;
+Berserk;
+Colossal*F3*WMV;
+Empowerment*F5*WMV;
+Extraordinary*F3;
+Fire Dragon;
+Fortify;
+Frost Giant;
+Frostbite*F6*WMV;
+Frozen Armor*F3*WMV;
+Gargantuan*F5*WMV;
+Infallible*F3*WMV;
+Legion Shield*F4*WMV;
+Leviathan;
+Mend*F3*WMV;
+Orthrus*F2*WMV;
+Power Nova;
+Rebirth;
+Scarecrow*F2;
+Snow Angel;
+Steal Ward*F6*WMV;
+Storm Lord;
+Unstoppable*F3;
+Vengeance*F2;
+
+| reagents =
+Amber Dust;
+Black Lotus*F5*WMV;
+Brass*F2;
+Cat Tail*F4;
+Cobalt*F2;
+Deep Mushroom*F3*WMV;
+Frost Flower*F4*WMV;
+Lava Lily*F3*WMV;
+Merle's Whisker*F3*WMV;
+Mist Wood*F3;
+Nickel;
+Ore*F3*WMV;
+Parchment*F4;
+Pearl*F5*WMV;
+Red Mandrake*F3;
+Shell*F3*WMV;
+Steel*F2;
+Stone Block*F3*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Bogwich;
+Buttered Bread*F2;
+Delicious Cookie;
+Flaming Soup;
+Flapjacks;
+Glowing Taffy;
+Goat Cheese;
+Golden Apple;
+Golden Grapes;
+Gummy Humongofrog;
+Jelly Baby;
+Kola Nuts;
+Pigeon Pie;
+Shiny Tomato;
+Spicy Drumstick;
+Strawberry Cupcake*F2;
+Submarine Sandwich;
+Treant Bark;
+
+| jewels =
+Clear Damage Onyx +19;
+Clear Health Opal +77;
+Fire-Shot Ruby;
+Opaque Blocking Opal +4*F2;
+Opaque Mending Opal +4%;
+Storm-Giver Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Blue Huckleberries;
+Pink Dandelion*CR;
+Pink Huckleberries;
+Red Huckleberries*F2;
+Trumpet Vine;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

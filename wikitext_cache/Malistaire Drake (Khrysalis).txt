@@ -1,0 +1,133 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 4,800
+| crecla = Wizard
+| school = Death
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+10% Life;
+
+| incresist =
+40% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Khrysalis
+| location = Radiance Reborn
+| subloc1 = Second Chamber of the Mind
+| descrip =
+Wizards face off against Malistaire once again as a [[Polymorph:Young Morganthe (Tier 2)|Polymorph of Young Morganthe]] while observing a memory of Morganthe's time at Ravenwood.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Manipulation}} ''"Curious... a vulnerability"'' - At the beginning of every fourth Round, Malistaire will cheat-cast a Death Prism.
+*{{Icon|Round}} At the end of Round 11 the duel ends automatically.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 175 Death Damage for 1 Pip.
+*Deals 285 Death Damage for 2 Pips.
+*Deals 400 Death Damage for 3 Pips.
+
+| casts =
+Deathblade;
+Death Prism;
+Curse;
+Dark Sprite;
+Ghoul;
+Banshee;
+Lord of Night;
+Vampire;
+Skeletal Pirate;
+Lightning Bats;
+Ice Wyvern;
+
+| quests =
+A Dream of Wizard City;
+
+| gold =
+0;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Astral Shard*F3*WMV;
+Black Lotus;
+Black Pearl;
+Blood Moss;
+Bone;
+Bronze Gear*F2*WMV;
+Copper*F2*WMV;
+Fire Blossom;
+Fossil*F2*WMV;
+Golden Pearl;
+Lava Lily*F3*WMV;
+Nickel;
+Nightshade;
+Ore*F3*WMV;
+Red Mandrake*F2;
+Stone Block;
+Sunstone;
+Turquoise*F2;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Flapjacks;
+Shiny Tomato;
+Submarine Sandwich*F3*WMV;
+Uni-Corn;
+
+| jewels =
+Cracked Defense Citrine +11;
+Cracked Defense Peridot +12;
+Forceful Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

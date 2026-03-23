@@ -1,0 +1,180 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 6,400
+| crecla = Wizard
+| crecla2 = Undead
+| school = Death
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Dragonspyre
+| location = The Labyrinth
+| lootchest = Vladimir's Chest
+| descrip =
+Vladimir Darkflame is the final Boss in {{Link|Location|The Labyrinth}}. You need to defeat him so that you can get the Portal Stone to go through the {{Link|Location|Dragonspyre Academy}} portal.
+
+| speech =
+:''"You've done it! With my cloak, staff, and Battle Crystal, I feel like the Dean of Admissions once more. Mine is the power to decide who becomes a student. And with that, I am afraid that I will have to deny your application into Dragonspyre Academy. My condolences, young Wizard. Unfortunately, you won't be getting that Portal Stone either. It's only appropriate to end your application with your defeat!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+The light inside him will never be bright. It can only be darkened.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Weakness;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Vampire;
+Skeletal Pirate;
+Scarecrow;
+Natural Attack (Death 85x);
+Fire Elf (50+210);
+Lightning Bats;
+Ice Wyvern;
+
+| quests =
+The Lesser Evil?;
+
+| dropnotes =
+When a Wizard has unlocked the '''Oni Slayer''' {{Icon|Oni Slayer}} Badge and has not unlocked the '''Astrologist''' {{Icon|Astrologist}} Badge, the following drops will be available:
+*14 Spellements will drop each time from the '''Spiritual''' (Myth, Life, Death, Balance) Schools for their respective rank 2-6 Spells.
+
+| gold =
+70 - 107;
+
+| hats =
+Dean Darkflame's Fiery Mantle*F2;
+Hat of the Endless*F3;
+Herbalist's Hood;
+Mantle of Order;
+Mantle of the Undying;
+
+| robes =
+Chilling Cloak*F3*WMV;
+Coat of Impartiality;
+Dean Darkflame's Robe of Ruin;
+Tunic of Tradition;
+Vestment of the Chill*CR;
+Vestment of the Inferno*F3*WMV;
+
+| boots =
+Dean Darkflame's Stormstriders*F3*WMV;
+Shoes of Equilibrium;
+
+| athames =
+Claw of Conciliation*F4*WMV;
+Darkflame's Thunderblade*F3*WMV;
+Poniard of Vitality;
+Scaled Smallsword*F2*WMV;
+
+| amulets =
+
+| rings =
+Dean Darkflame's Legacy Signet*F2;
+Ring of Equilibrium;
+Seal of the Gallium Paladin*F2*WMV;
+Signet of the Chimera*F3*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Dragonmoon Marker;
+Dragonspyre Theme 4*F4*WMV;
+Pilloried Skeleton;
+
+| cards =
+
+| reagents =
+Cobalt;
+Spider Silk*F4*WMV;
+Tin*F2*WMV;
+
+| spellements =
+Banshee*BR*F2;
+Centaur*BR*F2;
+Cyclops*BR;
+Cyclops Minion*BR;
+Earth Walker*BR;
+Gearhead Destroyer*BR;
+Ghoul*BR*F2;
+Hydra*BR;
+Leprechaun*BR;
+Locust Swarm*BR*F2;
+Minotaur*BR*F2;
+Nature's Wrath*BR;
+Scorpion*BR;
+Seraph*BR*F2;
+Skeletal Pirate*BR;
+Spectral Blast*BR*F2;
+Stone Colossus*BR*F2;
+Troll*BR*F2;
+Vampire*BR;
+Wraith*BR*F2;
+
+| snacks =
+
+| jewels =
+Adroit Opal;
+Dull Blocking Citrine +4;
+Dull Blocking Jade +4;
+Dull Blocking Onyx +4;
+Dull Damage Ruby +13;
+Healer Opal;
+Helephant Ruby;
+Unbalancer Citrine;
+
+| pins =
+
+| pets =
+Boss Banshee*F3*WMV;
+Death Leprechaun*CR*F2*WMV;
+Pale Maiden*CR*F2;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

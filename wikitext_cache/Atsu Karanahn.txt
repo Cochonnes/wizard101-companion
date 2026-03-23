@@ -1,0 +1,156 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,600
+| crecla = Krokotopian
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Nirini Inhibitor;
+Nirini Inhibitor;
+
+| world = Krokotopia
+| location = Tomb of the Beguiler
+| descrip =
+*An additional Nirini Inhibitor will appear if more than two Wizards are present.
+
+| speech =
+:''"So, you are the one who bested Ata!?! Your luck is about to run out with me. And afterwards this Mander will still be taken to Ngozi the Beguiler. Ha!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip.
+
+| casts =
+Fireblade;
+Fire Trap;
+Fire Cat;
+Ash Bats;
+Fire Elf;
+Sunbird;
+Fire Wyvern (335-395, 4 Pip);
+Ghoul;
+Cyclops;
+
+| quests =
+Running Free;
+
+| gold =
+39 - 55;
+
+| hats =
+Bitter Cap;
+Cryptkeeper's Circlet;
+Destructive Cowl;
+Helm of the Citadel;
+Rough-Hewn Hood;
+Smooth Spun Hat;
+Sturdy Hood;
+Theurge's Hat;
+Threadbare Hood;
+
+| robes =
+Dusty Robe;
+Powerful Vestment;
+Robe of the Mirage*F2*WMV;
+Sphinx's Vestment*F2;
+Sturdy Robe;
+Theurge's Brown Cloak;
+Vest of the Desert;
+Vestment of Darkness;
+
+| boots =
+Biti Nirini's Torrid Boots;
+Boots of Talent*F3*WMV;
+Boots of the Citadel;
+Flowering Shoes*F2*WMV;
+Sandals of Energy*F3;
+Sandals of Refuge;
+Sandals of Tall Tales;
+
+| athames =
+Dirk of Harmony;
+Parched Kris;
+Whirlwind Dagger;
+
+| amulets =
+
+| rings =
+Band of Equilibrium;
+Jewel of Obliteration;
+Loop of Quietude;
+Loop of the Defender*F2*WMV;
+Ring of the Badlands*F2;
+Sparkling Band;
+
+| wands =
+
+| decks =
+
+| items =
+Raised Storm Sarcophagus;
+
+| cards =
+Banshee;
+Evil Snowman;
+Krokotillian*F2*WMV;
+Mutate Beetle (Fire);
+Pacify;
+Tempest;
+
+| reagents =
+Bone;
+Brass;
+Iron;
+Leather Straps*F2;
+Nickel;
+Pyrite;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Cracker*F3*WMV;
+Green Grapes*F4*WMV;
+Nettle Root*F4*WMV;
+Redskin Peanut;
+Tiny Fish*F3*WMV;
+Wheat Cracker;
+
+| jewels =
+Chipped Accurate Onyx +3%;
+Chipped Mana Opal +12;
+Cracked Defense Opal +5;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Pink Dandelion*CR*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

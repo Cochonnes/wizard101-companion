@@ -1,0 +1,130 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,640
+| crecla = Giant
+| school = Balance
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Myth, Life, Death;
+
+| incresist =
+40% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Night Shadow (Fire) (Tier 4);
+Night Shadow (Ice) (Tier 4);
+
+| world = Housing Instance
+| location = Baddle of the Bands
+| subloc1 = Baddle of the Bands (Tier 4)
+| descrip =
+For the purpose of drops, Patt Minotaur (Tier 4) is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+:''"Wizard! You and King Thermidor think you're tough cookies with a long history, but offstage, things are falling apart. I can hear your heartbeat. I hear the way it sounds. The way it pounds. Get nervous! Why don't you hit me with your best shot."''
+
+| spellnotes =
+
+| casts =
+Empowerment;
+Black Mantle;
+Weakness;
+Balanceblade;
+Bladestorm;
+Natural Attack (Balance 110-215-320);
+Spirit Blast;
+Power Nova;
+Ra;
+Chimera;
+
+| quests =
+Baddle of the Bands;
+
+| gold =
+96 - 109;
+
+| hats =
+Rockstar High Hat (Level 60+);
+Rockstar High Hat (Level 70+)*F2;
+
+| robes =
+Headbanger's Getup (Level 60+);
+Headbanger's Getup (Level 70+);
+
+| boots =
+Headbanger's Spiked Boots (Level 70+);
+Rocker's Stompers (Level 70+);
+Rockstar Kicks (Level 60+);
+Rockstar Kicks (Level 70+);
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Headbanger's Hit Rig (Level 60+);
+Headbanger's Hit Rig (Level 70+);
+Rocker's Beat Set (Level 70+);
+
+| decks =
+
+| items =
+Dark Sun Plaque;
+Dragonmoon Plaque;
+Indigo Urn;
+Inferno Plaque*F2;
+Looped Wall Chain;
+Playable Moody Groovers;
+
+| cards =
+Gargantuan*F2;
+Sniper;
+Unstoppable;
+
+| reagents =
+Acorn;
+Diamond;
+Lava Lily;
+Mist Wood;
+Nickel;
+Nightshade;
+
+| spellements =
+
+| snacks =
+Goat Cheese;
+King Banana;
+
+| jewels =
+Plain Blocking Onyx +6;
+
+| pins =
+
+| pets =
+Rockin' Roller;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

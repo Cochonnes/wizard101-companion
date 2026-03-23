@@ -1,0 +1,169 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 15
+| crecla = Dog
+| school = Shadow
+| masteries =
+Fire;
+Ice;
+
+| cheats = Yes
+| startpips = 5
+| shadowslots = 3
+| powerpips = Yes
+| critical = 
+
+| criticalblock = 
+
+| outpierce =
+25%;
+
+| outboost =
+150%;
+
+| incboost =
+None;
+
+| incresist =
+Immune;
+
+| outhealing =
+
+| inchealing =
+50%;
+
+| stunable = No 
+| beguilable = No
+| minions =
+
+| summons = 
+Hired Hoof (Balance);
+Hired Hoof (Fire);
+Hired Hoof (Death);
+Hired Hoof (Ice);
+Hired Hoof (Life);
+Hired Hoof (Myth);
+Hired Hoof (Storm);
+
+| world = Wizard City
+| location = The Drains
+| subloc1 = Shedder's Lair
+| descrip =
+The Shedder is immune to all Damage before his Polymorph stage.
+
+| speech =
+:''"Well, hello there, Wizard. Jolly good show that, you tracking me and rousting my lackeys. Top marks, if I do say so. I’m sorry? Why, yes, of course, I am the one you call the Shedder. Right clever name, that. I always have been a bit on the shaggy side. Makes a dreadful mess. Now, if it’s quite alright, I’m going to destroy you forthwith. Nothing personal, old bean... ...It’s just, well, I can’t establish a dastardly criminal enterprise with wizards and ninjas mucking about, now can I? So glad you understand. So, what say you? Fetchbury rules of magical combat? Splendid. Have at you then!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''”Your tardiness is disgusting!”'' - If a Wizard is late to join the duel, the Shedder will cast his Natural Attack on the late Wizard, then cast Stun (Shadow) on the Wizard, which lasts for two Rounds.
+*{{Icon|Damage}} When the Shedder is hit with a Damage Spell, he will take 0 Damage due to his immunity. Then, he will damage himself for 1 Damage.
+**Multi-hitting Spells, such as {{Link|Spell|Minotaur}} and {{Link|Spell|Hydra}}, will trigger this cheat multiple times.
+**Damage over Time will not trigger this cheat.
+**This cheat also affects the Boss when he is Polymorphed as well removing 6% of his total Health (This may be a Bug).
+*{{Icon|Polymorph}} When the Shedder is reduced to 1 Health, he '''[[Polymorph:The Shedder|Polymorphs]]''' into an enlarged version of himself, giving him 56,000 Health as well as removing his Damage immunity and the rest of his stats.  He will also clear all Charms from himself.
+**Using Multi-hitting Spells such as Hydra can be used to skip the Polymorph stage and defeat the Shedder if cast when his Health is low enough.
+*{{Icon|Spell}} After casting his Natural Attack, the Boss will cast {{Link|Spell|Stun (Shadow)}} on the target that lasts for two Rounds.
+*{{Icon|Minion}} On the 1st Round and every 6 Rounds after they've been defeated, The Shedder summons any combination of the following three Minions, with the following cheats:
+**{{Icon|Aura}} Hired Hoof (Balance) - If a Wizard casts an Aura spell, Hired Hoof (Balance) will cast {{Link|Spell|Supernova (535, 75%)}}.
+***Pet May Casts will trigger this cheat.
+**{{Icon|Heal}} Hired Hoof (Death) - If a Healing spell is cast, Hired Hoof (Death) will cast {{Link|Spell|Infection}} on the caster.
+***Pet May Casts will trigger this cheat.
+**{{Icon|Blade}} Hired Hoof (Fire) - If a Wizard casts a Blade spell, Hired Hoof (Fire) will cast Steal Charm.
+**{{Icon|Shield}} Hired Hoof (Ice) - If a Wizard casts a Ward spell, Hired Hoof (Ice) will cast Steal Ward. If Legion Shield or Rebirth is cast, it will Steal Ward from the caster.
+***Pet May Casts will trigger this cheat.
+**{{Icon|Damage over Time}} Hired Hoof (Life)  - If a Wizard casts a Damage Over Time (DOT) spell, Hired Hoof (Life) will cast Mass Triage.
+**{{Icon|Trap}} Hired Hoof (Myth) - If a Wizard casts a Trap spell, Hired Hoof (Myth) will cast Cleanse Ward.
+**{{Icon|Weakness}} Hired Hoof (Storm) - If a Wizard casts a Weakness spell, Hired Hoof (Storm) will cast Cleanse Charm.
+*His Natural Attack? can stun for 2 rounds. (needs confirmation)
+
+| spellnotes =
+*Casts a protected Guiding Light
+'''Natural Attack:'''
+*Deals 105 Shadow Damage per Pip despite the Spell description
+
+| casts =
+Mass Tower Shield (Ice);
+Black Mantle;
+Guiding Light;
+Lightning Strike;
+Weakness;
+Shadowblade;
+Bladestorm;
+Feint (All Enemies);
+Choke (85%);
+Death Scarab (Shadow);
+Wild Bolt (Shadow);
+Orthrus (Shadow);
+Iron Sultan (Shadow);
+Athena Battle Sight (Shadow);
+Glowbug Squall (Shadow, 1,120);
+Death Ninja Pig (Shadow);
+Power Nova (Shadow);
+Natural Attack (Shadow 105-210-315-420);
+Vengeful Seraph (Shadow);
+
+| quests =
+Go Ninja, Go Ninja, Go!;
+
+| gold =
+1,132 - 2,229;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Crab Alley Chaise;
+WC Catacombs Theme;
+
+| cards =
+
+| reagents =
+Alchemical Crystals;
+Alchemical Extract*F16*WMV;
+Alchemical Salts*F5*WMV;
+Nickel;
+Scales;
+Tin;
+
+| spellements =
+Daybreaker;
+Nightbringer*F5*WMV;
+
+| snacks =
+BBQ Drumstick;
+Beast Wellington;
+Cherry Pie;
+Discord Grape Jelly;
+Glowing Taffy;
+Hot Cross Buns;
+Satyr Chow;
+Sprinkle Cupcake*F2;
+Wheat Cracker;
+
+| jewels =
+
+| pins = 
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

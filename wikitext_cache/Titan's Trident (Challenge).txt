@@ -1,0 +1,347 @@
+{{Stub|which version of the '''Mutate''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 1,000,000
+| crecla = Titan
+| crecla2 = Triton
+| crecla3 = Elemental
+| school = Shadow
+| school2 = Storm
+| masteries =
+
+| cheats = Yes
+| shadowslots = 5
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+20%;
+
+| outboost =
+120%;
+
+| incboost =
+25% Ice, Death;
+
+| incresist =
+50% Storm, Myth, Balance, Shadow;
+100% Fire, Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Deadly Ice Refraction;
+Mythic Fire Refraction;
+Stormy Life Refraction;
+
+| world = Empyrea
+| location = Husk
+| subloc1 = Storm Titan's Wake (Challenge)
+| lootchest = Storm Titan Chest
+| descrip =
+Titan's Trident is the Storm Titan's weapon and the penultimate Boss of Empyrea. In order to defeat it, Wizards must deal 20,000 Damage to it three times.
+*For the Standard version of this battle, see {{Link|Creature|Titan's Trident (Standard)}}.
+
+'''Advanced Combat Rules:'''
+*Spell Decks cannot be changed while in this instance. (Make sure to set the spells in a deck before entering this instance).
+*No-PvP spells are disallowed in this fight.
+*PvP-Only Spells are allowed in this fight.
+*Wizards cannot re-join combat after fleeing mid-combat.
+
+'''Second Chance Chest:'''
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Global}} On the first Round, Titan's Trident will interrupt-cast an Equalize Global which sets the Damage cap to '''949,999'''. The Trident will recast the Global when it is replaced.
+*{{Icon|Late}} Joining the battle late (after Round 1) will cause the Storm Titan to interrupt-cast Glowbug Squall (Shadow, 2,250) on the Wizard, and summons a random Refraction of the following.
+**{{Link|Creature|Deadly Ice Refraction}}
+**{{Link|Creature|Mythic Fire Refraction}}
+**{{Link|Creature|Stormy Life Refraction}}
+*{{Icon|Random}} The Storm Titan will pull up the Trident and slam it down randomly, removing all unprotected Wards and Charms from itself.
+*{{Icon|Random}} The Storm Titan will randomly laugh at the end of a Round, and at the end of the following Round he will shoot lasers from his eyes, dealing '''1,375''' Shadow Damage to all and removing a Shadow Pip from all Wizards.
+*{{Icon|Shadow Pip}} The Storm Titan will pull up the Trident at the end of the Round that it gets its fifth Shadow Pip, which will render the Trident untargetable. While in this state, the Boss can only pass or cast Glowbug Squall (Shadow, 2,250). At the end of the third Round after it was pulled up, the Storm Titan will swing the Trident, dealing '''5,500''' Shadow Damage to all Wizards, and return it to the battle.
+**While the Trident is gone from the battle, the Storm Titan can still laugh, and subsequently use his laser eye attack the following Round.
+
+{{Icon|Health}}{{Icon|Damage}} '''Cheats:'''
+*'''{{Link|NPC|Mellori}}''' - ''"Aww, you gotta be kidding me! The Paradox Chain just keeps charging him back up! Look out!"'' - After taking 20,000 Damage, the Storm Titan will emerge at the end of the Round and completely restore the Trident's health by grasping the Paradox Chain.
+**When the Trident is healed, it summons Refractions depending on the number of Wizards present. (Confirmation needed)
+
+*'''Mellori''' - ''"The Paradox Chain just keeps recharging him. This is hopeless!"''
+*'''{{Link|NPC|Bat}}''' - ''"No it's not! I know what we have to do now! Wizard, just keep attacking!"'' - After taking another 20,000 Damage, the Storm Titan will again completely restore the Trident's health by grasping the Paradox Chain.
+**The Trident's healing will summon more Refractions.
+*After the Trident takes 20,000 Damage for a third time, a cutscene will occur where Mellori breaks the Paradox Chain, destroying the Trident, and defeating the Boss.
+
+| spellnotes =
+*Casts a protected Stormspear and Reaperblade (Storm-Shadow).
+*Glowbug Squall (Shadow, 2,250) is not a Glowbug Squall, but rather the Trident's special move. When cast, the Storm Titan appears behind a Wizard and squeezes them, dealing massive Damage. Despite what the Spell text indicates, this is a single-target Spell.
+
+| casts =
+Brace;
+Magnify;
+Quicken;
+Fire Shield (-85%);
+Life Shield (-85%);
+Stormspear;
+Mass Infection (Shadow);
+Reaperblade (Storm-Shadow);
+Queen Calypso (Shadow);
+Glowbug Squall (Shadow, 2,250);
+Tempest (Shadow);
+Storm Owl (Shadow);
+Hammer of Thor (Tier 5b);
+Stormzilla (Tier 5b);
+Tempest (6 Pip);
+Thundering Jinn;
+
+| quests =
+
+| gold =
+0 - 460;
+
+| hats =
+Balanced Paradox Conical;
+Fiery Paradox Conical*F2;
+Icy Paradox Conical;
+Mythic Paradox Conical;
+Stormy Paradox Conical;
+
+| robes =
+Balanced Paradox Vestment;
+Deathly Paradox Vestment*F2*WMV;
+Divine Paradox Vestment*F3;
+Fiery Paradox Vestment;
+Icy Paradox Vestment;
+Lively Paradox Vestment*F3;
+Mythic Paradox Vestment;
+Stormy Paradox Vestment;
+
+| boots =
+Balanced Paradox Boots;
+Deathly Paradox Boots*F2;
+Fiery Paradox Boots*F2;
+Icy Paradox Boots;
+Lively Paradox Boots;
+Mythic Paradox Boots*F2;
+Stormy Paradox Boots;
+
+| athames =
+Icy Paradox Dagger;
+Mythic Paradox Dagger;
+
+| amulets =
+Balanced Paradox Amulet;
+Deathly Paradox Amulet*F2;
+Fiery Paradox Amulet*F2;
+Icy Paradox Amulet*F3*WMV;
+Lively Paradox Amulet*F2;
+Mythic Paradox Amulet;
+Stormy Paradox Amulet;
+
+| rings =
+Icy Paradox Ring;
+Lively Paradox Ring;
+Stormy Paradox Ring;
+
+| wands =
+Balanced Paradox Defenders*F4;
+Deathly Paradox Defenders*F2;
+Divine Paradox Defenders*F4;
+Fiery Paradox Defenders*F4;
+Icy Paradox Defenders;
+Lively Paradox Defenders*F3;
+Mythic Paradox Defenders*F3*WMV;
+Stormy Paradox Defenders*F2*WMV;
+
+| decks =
+Balanced Paradox Deck;
+Deathly Paradox Deck*F2;
+Lively Paradox Deck;
+Stormy Paradox Deck*F2;
+
+| items =
+Aero Dwarf Blue Vase*F3*WMV;
+Aero Dwarf Chair*F3;
+Aero Dwarf Potted Plant*F3*WMV;
+Empyrea Brain Theme 2;
+Empyrea Husk Aethyr Combat;
+Empyrea Husk Combat*F2;
+Empyrea Husk Storm Combat;
+Empyrea Mandalla Combat;
+Empyrea Nimbus Combat;
+Empyrea Reverie Dream Shrine Theme;
+Kalamar Side Table*F2;
+Ornate Nimbari Vase;
+Nimbari Chair*F5;
+Nimbari Sword Rack*F2*WMV;
+Tall Kalamar Vase*F3;
+
+| cards =
+Chinook Genie;
+Cyclops*F2;
+Diablo Qarin;
+Fable Lord*F6*WMV;
+Harmattan Maxios;
+Humongofrog*F3;
+Kraken*F3;
+Lord of Atonement*F2;
+Lord of Blazes;
+Lord of the Squall;
+Maelstrom Marid;
+Mass Ice Prism;
+Mass Infection;
+Mass Life Prism;
+Mass Myth Prism;
+Mass Storm Prism;
+Mega Soothe*F2;
+Mega Subdue;
+Mutate Cat (Ice);
+Mutate Colossus;
+Mutate Kraken;
+Mutate Phoenix (Storm);
+Mutate Sprite (Death)*F2*WMV;
+Oni No Jade*F2;
+Oni No Plague*F2;
+Sirocco Djinni;
+Tundra Lord*F2*WMV;
+
+| reagents =
+Aether*F3;
+Agave Leaves*F2;
+Agave Nectar*F2;
+Amber*F2;
+Amber Dust*F2;
+Aquamarine;
+Astral Shard*F4*WMV;
+Braided Vine*F2;
+Draconium*F2;
+Fire Blossom*F3;
+Flying Squid Ink*F4*WMV;
+Golden Pearl*F3*WMV;
+Merle's Whisker;
+Mithril;
+Orichalcum*F3*WMV;
+Pure Aethyr*F4*WMV;
+Scales*F2;
+Silver*F3*WMV;
+Stardust;
+Steel*F2;
+Sunstone*F4*WMV;
+Titanium*F2;
+Tungsten;
+Turmeric;
+Turquoise*F2;
+Vine*F2;
+
+| spellements =
+
+| snacks =
+Berry Poundcake;
+Boiled Spider Legs*F4*WMV;
+Dastardly Radish;
+Dr. Jalapeno;
+Flaming Jalapeno;
+Gator Tots*F2*WMV;
+Ginger Mint Tea*F3;
+Golden Squash*F2;
+Hero Sandwich;
+Killer Tomato;
+Minotarts;
+Oyster Shooter*F6*WMV;
+Pineapple Spears*F2;
+Pyramints*F5*WMV;
+Radioactive Pizza*F2;
+Salmon Joy*F3*WMV;
+Spicy Drumstick;
+Super Cold Popsicle;
+Taco*F2;
+Taco Town Special*F4*WMV;
+
+| jewels =
+Sparkling Blocking Amethyst +18;
+Sparkling Blocking Citrine +18*F3*WMV;
+Sparkling Blocking Onyx +18*F3;
+Sparkling Blocking Peridot +18;
+Sparkling Blocking Sapphire +18*F3;
+Sparkling Critical Amethyst +18*F2;
+Sparkling Critical Onyx +18;
+Sparkling Critical Peridot +18;
+Sparkling Critical Ruby +18*F2;
+Sparkling Critical Sapphire +18*F2*WMV;
+Sparkling Damage Amethyst +28;
+Sparkling Damage Jade +28*F2*WMV;
+Sparkling Damage Onyx +28;
+Sparkling Defense Amethyst +55*F2*WMV;
+Sparkling Defense Amethyst +56*F2;
+Sparkling Defense Hematite +55;
+Sparkling Defense Hematite +56;
+Sparkling Defense Jade +56;
+Sparkling Defense Onyx +56*F2;
+Sparkling Defense Opal +28*F2;
+Sparkling Defense Peridot +55;
+Sparkling Defense Ruby +55*F2;
+Sparkling Defense Ruby +56;
+Sparkling Defense Sapphire +56;
+Sparkling Health Opal +122*F2*WMV;
+Sparkling Health Opal +124;
+Sparkling Health Opal +125*F4;
+Sparkling Mana Opal +52;
+
+
+| pins =
+
+| pets =
+
+| seeds =
+Bamboo Shoots;
+Boiled Peanuts;
+Boom Shroom*F2*WMV;
+Burning Snap Dragon*F2;
+Clockwork Flower*F3;
+Dandelion;
+Deadly Helephant Ears*CR;
+Evil Magma Peas*CR;
+Fiery Boom Shroom;
+Fish on a Vine*F2;
+Green Snow Apples;
+Helephant Ears;
+Honey Sickle;
+Laugh-O-Dil;
+Moon Flower;
+Orange Bell Pepper*CR;
+Purple Bell Pepper;
+Red Couch Potatoes;
+Red Huckleberries;
+Silver Trumpet Vine*CR;
+Sunion*CR;
+Tiger Lily (Seed);
+Ultra Alligator Pear Tree*F4*WMV;
+Ultra Boom Shroom*F2;
+Ultra Dandelion;
+Ultra Fly Trap*F2*WMV;
+Ultra Huckleberries;
+Ultra King Parsley*F3*WMV;
+Ultra Ninja Fig*F2;
+Ultra Snap Dragon;
+Ultra Snow Apples;
+Ultra Trumpet Vine;
+Venus Fly Trap;
+White Desparagus;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+| altimage = Titan's Trident
+}}

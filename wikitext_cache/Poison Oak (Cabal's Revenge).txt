@@ -1,0 +1,131 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 84,750
+| crecla = Plant
+| school = Life
+| school2 = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+630 Any;
+
+| criticalblock =
+968 Any;
+
+| outpierce =
+28%;
+
+| outboost =
+126%;
+
+| incboost =
+None;
+
+| incresist =
+14% Death;
+34% Ice, Storm;
+54% Balance, Sun, Moon, Star, Shadow;
+74% Myth, Life;
+94% Fire;
+
+| outhealing =
+47%;
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Raid
+| location = Cabal's Revenge
+| badge = Lean, Mean, De-Green Machine
+| descrip =
+Poison Oak is an optional boss in the {{Link|Location|Cabal's Revenge}} Raid. Accessed by defeating the Dead Branch, Corrupted Trunk, Root Colonel, and Random Seedling Elite enemies.
+*Poison Oak lacks Storm Mastery.
+*Summoning Poison Oak (Cabal's Revenge) grants the "[[Basic:Badges|Mean Green Thumb]]" Badge.
+
+| speech =
+:''"Nature always avenges!"''
+| cheatnotes =
+*''"Nature adapts. Can you?"'' - If a Wizard damages Poison Oak, he'll cast a triple -999% Shield on himself based on the school's Damage.
+
+| spellnotes =
+*Casts a version of Ratatoskr's Spin that deals 365 Life Damage.
+
+| casts =
+Lifeblade (+40%);
+Raindrop Blade;
+Stormblade (+30%);
+Balanceblade;
+Lord of the Jungle (Tier 3b);
+Tempest (4 Pip);
+Glowbug Squall (Tier 2);
+
+| quests =
+
+| dropnotes =
+All 12 Wizards in the Raid receive the drops, not just the ones within the battle.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Polaris Raid Theme;
+
+| cards =
+Moon Shield;
+Star Shield;
+Sun Shield;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+Enlightened Revolution*7;
+Enlightened Revolution*PERM;
+Eternal Revolutionaries*7;
+Eternal Revolutionaries*PERM;
+Flames of Revolution*7;
+Flames of Revolution*PERM;
+Legendary Revolution*7;
+Legendary Revolution*PERM;
+Spirit of Revolution*7;
+Spirit of Revolution*PERM;
+Revolutionary Storm*7;
+Revolutionary Storm*PERM;
+Vive La Revolution*7;
+Vive La Revolution*PERM;
+
+| spells =
+
+}}

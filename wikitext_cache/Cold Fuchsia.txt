@@ -1,0 +1,154 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 15,350
+| crecla = Cow
+| school = Ice
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Ice;
+
+| critical = 
+
+| criticalblock = 
+
+| outpierce =
+23%;
+
+| outboost =
+125%;
+
+| incboost =
+5% Fire;
+
+| incresist =
+73% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions = 
+
+| world = Lemuria
+| location = Heap
+| subloc1 = Tamarin House
+| descrip =
+Cold Fuscia is encountered when a Wizard enters the Lounge in the Tamarin House during the Quest, {{Link|Quest|Detective Mission}}.
+
+| speech = 
+
+| spellnotes =
+*Casts an Aegis-protected Iceblade (+40%).
+
+| casts =
+Brace (6 Rounds);
+Sleet Storm (6 Rounds);
+Iceblade (+40%);
+Cooldown;
+Steal Ward;
+Snow Drift;
+Balefrost;
+Reindeer Knight;
+Frozen Kraken;
+Climaclysm;
+Natural Attack (Ice 100-200-300-400);
+Shatterhorn (Tier 3a);
+Abominable Weaver;
+Freeze Ray (Tier 3a);
+Snow Angel;
+Snowball Barrage;
+
+| quests =
+
+| gold =
+212 - 231;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Supreme Eruption Staff;
+Supreme Firewall Staff;
+Supreme Science Staff;
+Supreme Stability Staff;
+Supreme Undead Staff;
+
+| decks =
+
+| items =
+Cargo;
+Lemuria Forest Theme;
+Lemuria Jungle Theme;
+Lemuria Noir Combat Theme;
+Lemuria Telos Theme 4;
+
+| cards =
+Berserk;
+Ether Shield*F2;
+Frostbite;
+Galvanic Field;
+Supreme Sunburst;
+
+| reagents =
+Synthonium;
+
+| spellements =
+Blast Off!;
+Grim Reader;
+
+| snacks =
+Beast Wellington;
+Fire Cracker;
+Moon Pie;
+
+| jewels =
+Dazzling Accurate Jade +14%;
+Dazzling Blocking Amethyst +19;
+Dazzling Damage Hematite +60;
+Death Striker Onyx;
+Death-Giver Onyx;
+Death-Shot Onyx;
+Ice-Dealer Sapphire;
+Ice-Shot Sapphire;
+Life-Boon Jade;
+Life-Giver Jade;
+Myth-Giver Peridot;
+Storm Assailant Amethyst;
+Stun Resistant Opal;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Boon Tree*CR;
+Burning Snap Dragon;
+Clockwork Flower;
+Desparagus (Seed);
+Moon Flower;
+Orange Bell Pepper*CR;
+Purple Snow Apples;
+Red Couch Potatoes;
+Snow Apples;
+Sour Fickle Pickle;
+
+| mounts =
+
+| spells =
+
+}}

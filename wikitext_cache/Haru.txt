@@ -1,0 +1,182 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,480
+| crecla = Pig
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Ronin Blademaster;
+
+| world = MooShu
+| location = Shirataki Temple
+| descrip =
+Haru holds the gate key to Shirataki Temple.  Wizards must defeat him in order to get inside.
+
+Haru will always take the right-most {{Target|Spiral}} slot in battle, even with only one Minion.
+
+| speech =
+:''"So you need a key to get through the gate? You'll never take mine!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+A keymaster extraordinaire. If you hear the jingling of his keychain, prepare for battle.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Balance Damage per Pip.
+
+| casts =
+Storm Shield;
+Weakness;
+Black Mantle;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Humongofrog;
+Snow Serpent;
+Sunbird;
+Storm Shark;
+
+| quests =
+River Temple;
+
+| gold =
+68 - 84;
+
+| hats =
+Concordant Headwraps;
+Cowl of Discord*F2;
+Haru's Cowl of the Chorus*F3*WMV;
+Hat of the Lotus*F2*WMV;
+Hat of the Triad*F3*WMV;
+Headwraps of Much Ado*F2*WMV;
+Light-As-Air Hat;
+Profound Hat*F3*WMV;
+Tormented Mask;
+
+| robes =
+Blended Wool Tunic;
+Haru's Strong-Willed Robe*F2;
+Heedful Robe;
+Robes of Struggling;
+
+| boots =
+Boots of Commotion*F3;
+Boots of Cooperation;
+Boots of Niceties;
+Entranced Slippers*F5*WMV;
+Footwraps of Sandcastles*F3*WMV;
+Haru's Shoes of Nourishment;
+Profound Slippers;
+Sandals of Soul-Searching;
+Sandals of the Quick-Witted;
+Shoes of Preoccupation*F2*WMV;
+Shoes of the Observant;
+Shoes of Woe;
+Slippers of the Opus*F3;
+
+| athames =
+Athame of Attention;
+Dirk of Sandcastles*F3;
+Haru's Dirk of Regard*F4;
+
+| amulets =
+
+| rings =
+Discerning Ring;
+Haru's Speculative Ring*F2*WMV;
+
+| wands =
+
+| decks =
+Haru's Rational Deck*F2;
+
+| items =
+Dark Tori Gates;
+Monk Bust;
+Stone Bowl*F2*WMV;
+Tree Obelisk;
+
+| cards =
+Dragonflies;
+Minotaur;
+Mutate Snowman (Storm);
+Ninja Pigs;
+Sanctuary;
+Satyr;
+Wyldfire;
+
+| reagents =
+Leather Straps*F5;
+Nickel;
+Pyrite;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Crunch Apple*F2;
+Large Fish*F2*WMV;
+Large Watermelon;
+
+| jewels =
+Blemished Defense Amethyst +21;
+Blemished Defense Jade +21*F2;
+Blemished Defense Onyx +21*F3;
+Blemished Defense Opal +12;
+Blemished Defense Sapphire +21;
+Fire-Away Ruby;
+Flawed Accurate Amethyst +4%;
+Flawed Damage Opal +5*F2*WMV;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig*F2;
+Fiery Boom Shroom*F3*WMV;
+Maelstrom Snap Dragon*F3*WMV;
+Pink Dandelion*CR*F4*WMV;
+White Laugh-O-Dil*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

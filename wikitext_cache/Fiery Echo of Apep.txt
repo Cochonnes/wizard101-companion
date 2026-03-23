@@ -1,0 +1,98 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 1,150
+| crecla = Snake
+| crecla2 = Undead
+| school = Fire
+| startpips = 3
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Upper Zigazag
+| subloc1 = House of Scales
+| descrip =
+Summoned by {{Link|Creature|Apep the Snaky One}}
+*These creatures cast spells for two rounds before Apep uses {{Link|Spell|Take Power}} on each of them.
+*Once destroyed, Apep replaces them with {{Link|Creature|Frosty Echo of Apep}}.
+
+| speech =
+
+*'''Monstrology Description:'''
+:Created when Apep channels all his rage and regret into a single being. It's actually very therapeutic.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Smoke Mantle;
+Fireblade;
+Fire Trap;
+Natural Attack (Fire 120-235-350);
+Meteor Strike;
+Fire Serpent (525);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

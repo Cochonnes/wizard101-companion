@@ -1,0 +1,92 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 5
+| crecla = Parrot
+| school = Life
+| cheats = Yes
+| shadowslots = 2
+| startpips = 1
+| powerpips = Yes
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Raid
+| location = Crying Sky
+| subloc1 = Xibalba Wastes (South)
+| descrip =
+Guardian of Life may appear in the Xibalba Wastes (South) when {{Link|Creature|High Priestess Cameca}} is summoned.
+
+| speech =
+
+| cheatnotes =
+*''"Life will persevere."'' - At the beginning of Round 1, Guardian of Life will cast a Life Spell that restores 10 Health over 10 Rounds to self, and then casts an Equalize Global which sets the Damage cap to '''1'''.
+*''"I survive!"'' - If Guardian of Life is defeated while the Equalize Global is active, Guardian of Life will cast a version of Blessing, restoring 1 Health, and then restores 10 Health over 10 Rounds to self.
+
+| spellnotes =
+*Casts a version of Major Vibrato that deals 5% max Health.
+*Casts a version of Leprechaun that deals 20% max Health.
+*Casts a version of Nature's Wrath that deals 30% max Health.
+
+| casts =
+Imp (10% Health);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins = 
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

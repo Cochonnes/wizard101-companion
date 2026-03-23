@@ -1,0 +1,186 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 5,200
+| crecla = Wizard
+| school = Death
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Faceted Spikespinner;
+
+| world = Dragonspyre
+| location = The Crystal Grove
+| subloc1 = Yeva Spiderkeeper's Tower
+| descrip =
+Yeva Spiderkeeper is one of the Dragonspyre Bosses who drops Grandmaster items.
+
+| speech =
+:''"My spiders... rally to my aid! Together we will drive out all those who brought this ruin upon Dragonspyre! This place will soon be enveloped in your crystal webs, safe for all of eternity!"''
+
+| spellnotes =
+
+| casts =
+Weakness;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Vampire;
+Skeletal Pirate;
+Scarecrow;
+Fire Elf;
+Ice Wyvern;
+Lightning Bats;
+Natural Attack (Storm 125x, 70%);
+
+| quests =
+Corrupted Crawlers;
+
+| gold =
+108 - 123;
+
+| hats =
+Blazing Bonnet*F2*WMV;
+Cowl of Morbidity;
+Equalizer's Coif;
+Halcyon Hood;
+Hood of the Ranger*F3*WMV;
+Hood of the Vigilant;
+Mantle of the Icicle;
+Mythological Mantle;
+Promethean Hood*F2*WMV;
+The Restless Titan*CR;
+Triton's Topper;
+Veil of Leaves;
+Veil of Passage*F2*WMV;
+
+| robes =
+Arbiter's Raiment*F3*WMV;
+Arboreal Robes*F2*WMV;
+Blizzard Cloak;
+Fiery Tunic;
+Final Curtain*F2;
+Librarian's Robes;
+Robe of the Greatest Saga*F2*WMV;
+Shibboleth Smock;
+Smock of the Frost Giant;
+Snowflower Cloak*F2*WMV;
+Terminus Wrap;
+Tunic of the Sphinx;
+Verdant Vestment;
+Whirlwind Wrap;
+
+| boots =
+Ashen Footwraps;
+Dragonclaw Boots*F2;
+Earthrangers;
+Footgear of the North Wind;
+Frost Giant's Boots*F2*WMV;
+Legend Walkers;
+Mocassins of Mortality*F2*WMV;
+Sandals of Lost Aeons;
+Sandals of Neutrality;
+Sandals of Zest*F3*WMV;
+Shoes of the Whispering Dark;
+Slippers of the Slipstream*F2*WMV;
+
+| athames =
+Dragon's Eye Dagger;
+Dragonblood Dirk;
+Infinity's Edge*F2*WMV;
+Spiderkeeper's Flamestinger;
+Spiderkeeper's Windblade*F3*WMV;
+Talon of the Wyrmkin*F2*WMV;
+
+| amulets =
+
+| rings =
+Dragonscale Ring;
+Heartwood Band*F2*WMV;
+Ring of Dominance;
+Ring of the Forefathers;
+Signet of the Chimera*F2;
+Spiderkeeper's Blizzardband*F4*WMV;
+
+| wands =
+Wings of the Cherubim*CR*HOL;
+
+| decks =
+
+| items =
+Long Corner Wall Ruins*F2*WMV;
+Professor Falmea*CR;
+Rock Chunk*F2*WMV;
+Singed Magic Book*F2*WMV;
+Small Corner Wall Ruins;
+Wood Plank Piece*F3*WMV;
+
+| cards =
+
+| reagents =
+Brass*F2;
+Nickel;
+Spider Silk*F5*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Flaming Soup;
+Goat Cheese*F3*WMV;
+Golden Grapes*F2*WMV;
+Gummy Humongofrog*F2*WMV;
+King Banana*F2*WMV;
+
+| jewels =
+Dull Accurate Opal +3%;
+Dull Blocking Amethyst +4;
+Dull Blocking Citrine +3*F2;
+Dull Blocking Peridot +4;
+Dull Health Opal +47;
+Dull Piercing Amethyst +2%;
+Energy Opal;
+Fire-Proof Ruby;
+Healer Opal;
+Helephant Ruby;
+Sanctuary Jade*F2;
+
+| pins =
+
+| pets =
+Queen Spider*F4*WMV;
+
+| seeds =
+Deadly Fly Trap*F2;
+Fiery Boom Shroom*F2*WMV;
+King Parsley*CR*F2*WMV;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F2*WMV;
+White Laugh-O-Dil*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

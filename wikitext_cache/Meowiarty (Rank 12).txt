@@ -1,0 +1,285 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 7,990
+| crecla = Cat
+| school = Myth
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+45%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Midnighter (Rank 9);
+O'Leary Thug (Rank 10);
+
+| randomminions =
+Jacques the Scratcher (Rank 11);
+Dr. Von Katzenstein (Rank 11);
+Gibson O'Leary (Rank 11);
+
+| totalminions = 1
+
+| world = Housing Instance
+| location = Meowiarty Archmage Challenge
+| subloc1 = 
+| descrip =
+*An O'Leary Thug (Rank 10) will always occupy one of the duel circle slots.
+:*A Midnighter (Rank 9) will also occupy a duel circle slot.
+
+
+| speech =
+:''"Ah, little Wizard. So dashing, so brave ... and so woefully predictable. I was secretly hoping you had acquired a little more sophistication since we last met, and alas, not everyone can be cut from the cloth of genius. Your previous fluke success left a sour taste in my mouth. Bleh! Worse than curdled milk! The time has come for me to wash that taste away!''
+
+| cheatnotes =
+{{Icon|Myth}} '''Meowiarty'''
+*{{Icon|Curse}} Meowiarty will remove any negative Charms off of him and his allies.
+:*Dr. Von Katzenstein will use this cheat to clear off any negative Charms.
+*{{Icon|Round}} ''"Let's start this party off with a bang!"'' - At the start of Round 1, he will attack a random Wizard, leaving a DoT around them for five Rounds. On the fifth Round, the DoT will detonate and deal '''~2,500''' Myth Damage to the affected Wizard, then place '''+10%''' "lock" Traps on him and his allies.
+:*{{Icon|Manipulation}} ''"Tisk, tisk!"'' - Using {{Link|Spell|Triage}} or {{Link|Spell|Mass Triage}} will trigger a '''2,000''' Shadow Damage {{Link|Spell|Insane Bolt}} on the receiver.
+:**Gibson O'Leary who cast {{Link|Spell|Detonate}} on a Wizard with a DoT will not trigger this cheat.
+:**{{Link|Spell|Shift}} and {{Link|Spell|Cooldown}} do not trigger this cheat. Shift works.  Cooldown is trickier. It must be cast between the 4th and the 5th tick. The turn Meowiarty casts it is turn 1. To remove the last tick from a Wizard before removing it from your Wizard, cast Cooldown on turn 4, because the 4th tick has already happened. If the receiver of the cheat follows you in the battle circle, cast Cooldown on turn 5 (the 4th tick happened last turn), and the 5th tick is about to happen. This does not change even if Cooldown is cast more than once during that cycle. The last large tick will be removed if Cooldown is cast between the 4th and 5th tick.
+*{{Icon|Manipulation}} ''"Blast! You foiled my ingenious plan!"'' - If all the "locks" are removed, he will cheat-cast {{Link|Spell|Mass Triage}} on himself and proceed to throw the Myth DoT again on a Wizard (identical to the one thrown in the cheat "''Let's start this party off with a bang!''").
+*{{Icon|Spell}} ''"Poor Wizard, you can't win for losing."'' - If the last "lock" is removed by an AoE spell, he will cheat-cast his Shadow {{Link|Spell|Insane Bolt}} on the Wizard who cast the AoE.
+:***{{Link|Spell|Scald}} does not trigger this cheat.
+*{{Icon|Round}} ''"Tick... Tock... Boom! Too late!"'' - If any of the "locks" remain after five Rounds, he will remove all negative and positive Wards on him and his allies, and replace the "locks".
+
+{{Icon|Balance}} '''O'Leary Thug'''
+*{{Icon|Aura}} ''"Every star fears the Supernova!"'' - If a Wizard casts an [[:Category:Aura Spells|Aura]] Spell, the O'Leary Thug will cheat-cast {{Link|Spell|Supernova}} on the Wizard.
+:*He will also say this if a Wizard casts {{Link|Spell|Shadow Shrike}}, but will not actually perform the cheat.
+*{{Icon|Pip}} ''"A thug's job is to balance the fight!"'' - If a Wizard has five or more Pips after casting a Spell, he will cheat-cast {{Link|Spell|Mana Burn}} on the Wizard.
+
+{{Icon|Death}} '''Midnighter'''
+*{{Icon|Damage}} ''"Keep up the good work!"'' - If an enemy successfully casts an attack, the Midnighter will cheat-cast {{Link|Spell|Empower}} on the ally.
+*{{Icon|Accuracy}} ''"Bad luck abounds!"'' - If an enemy Spell fizzles, he will cheat-cast {{Link|Spell|Black Cat (100-140)}} on the fizzled Spell's target (or a random Wizard if the Spell was intended for an ally).
+*{{Icon|Blade}} ''"Sharp move, my friend!"'' - If an enemy casts a [[:Category:Blade Spells|Blade]] Spell, he will cheat-cast {{Link|Spell|Dark Tribute}} on the receiver of the Blade.
+
+{{Icon|Storm}}'''Dr. Von Katzenstein'''
+*{{Icon|Death}}{{Icon|Spell}} '''Interrupt Cycle:'''
+:*''"Tis a good time for my monster to come out to play!"'' - At the end of every third Round, Dr. Von Katzenstein will cheat-cast {{Link|Spell|Dr. Von's Monster}} on a random Wizard.
+:*''"Don't worry, there's time for everyone to play!"'' - At the start of every fourth Round, he will cheat-cast {{Link|Spell|Monster Mash (1,170)}} on a random Wizard.
+*{{Icon|Blade}} ''"It's not safe to run with Blades!"'' - If a Wizard casts a Blade, he will cheat-cast {{Link|Spell|Enfeeble}} on the receiver of the Blade.
+*{{Icon|Curse}} ''"One must keep a sanitary work environment!"'' - If a Wizard casts a negative Charm, he will use {{Link|Spell|Cleanse Charm}} on the receiver of a negative Charm.
+
+{{Icon|Fire}} '''Gibson O'Leary'''
+*{{Icon|Blade}} '''Blade Cheats:'''
+:*''"Uh oh, you dropped your little Blade!"'' - If a Wizard casts a Blade, Gibson O'Leary will cheat-cast {{Link|Spell|Steal Charm}} on the receiver of the Blade, then he will proceed to destroy it.
+:*''"I think that Blade would look better on me!"'' - If a universal Blade, {{Link|Spell|Elemental Blade}}, or {{Link|Spell|Fireblade}} is cast, he will cheat-cast {{Link|Spell|Steal Charm}} on the receiver of the Blade.
+
+*{{Icon|Trap}} '''Trap Cheats:'''
+:*''"You can't mess with us!"'' - If any type of universal [[:Category:Trap Spells|Trap]] is placed on an enemy, he will cheat-cast {{Link|Spell|Backdraft}} on the Wizard who cast the Trap.
+:*''"Allow me to lower the boom!"'' - When a single [[:Category:Trap Spells|Trap]] or DoT is placed on a Wizard, he will cheat-cast {{Link|Spell|Detonate}} on the Wizard.
+
+{{Icon|Ice}} '''Jacques the Scratcher'''
+*{{Icon|Shield}} '''Shield Cheats:'''
+:*''"For me? You shouldn't have!"'' - If any type of universal Shield Ward is cast, Jacques the Scratcher will cheat-cast {{Link|Spell|Steal Ward}} on the receiver of the Shield.
+:**{{Link|Spell|Legion Shield}} only affects the caster.
+:*''"No need for such things here!"'' - If any type of School-specific Shield Ward is cast, he will cheat-cast {{Link|Spell|Steal Ward}} on the receiver of the Shield, and then proceed to destroy it.
+*{{Icon|Heal over Time}} ''"You can't have nice things when there are cats around!"'' - If any type of Heal over Time spell is cast, he will cheat-cast {{Link|Spell|Snow Drift}} on the receiver of the heal.
+:*Pet heals will trigger this cheat.
+*{{Icon|Damage over Time}} ''"Allow me to scratch some of that dirt off you, friend."'' - If an enemy takes Damage from a DoT Spell, he will cheat-cast {{Link|Spell|Cooldown}} on the ally.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Myth Damage.
+
+| casts =
+Vengeance;
+Mythblade;
+Minotaur;
+Noble Humongofrog;
+Orthrus;
+Basilisk;
+
+| quests =
+
+| gold =
+304 - 495;
+
+| hats =
+Knave's Blazing Cap;
+Knave's Enduring Cap;
+Knave's Equalizing Cap;
+Knave's Menacing Cap;
+Knave's Piercing Cap;
+Knave's Puzzling Cap;
+Knave's Rushing Cap;
+Lucky Knave's Cap*F3*WMV;
+The Yaxche*CR*F2*WMV;
+
+| robes =
+Knave's Blazing Tunic;
+Knave's Enduring Tunic;
+Knave's Equalizing Tunic;
+Knave's Menacing Tunic;
+Knave's Piercing Tunic;
+Knave's Puzzling Tunic;
+Knave's Rushing Tunic;
+Lucky Knave's Tunic*F4;
+
+| boots =
+Knave's Blazing Striders;
+Knave's Enduring Striders*F2;
+Knave's Equalizing Striders;
+Knave's Menacing Striders;
+Knave's Piercing Striders;
+Knave's Puzzling Striders;
+Knave's Rushing Striders;
+Lucky Knave's Striders*F4;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Knave's Blazing Baton;
+Knave's Enduring Baton*F2;
+Knave's Equalizing Baton;
+Knave's Menacing Baton;
+Knave's Puzzling Baton;
+Knave's Rushing Baton;
+Lucky Knave's Baton;
+
+| decks =
+
+| items =
+Adept's Socket Wrench*F2;
+Barkingham Crowned Bed;
+Barkingham Nightstand;
+Expert's Socket Wrench*F2;
+Gong of the Oni;
+Newgate Buffet Table;
+Newgate Dining Chair*F2;
+Regent's Ornate Parlor Chair;
+Stone Skeleton Key*CR;
+
+| cards =
+Avenging Fossil*F2;
+Brimstone Revenant;
+Cat Thug*F3;
+Catalan;
+Celestial Calendar;
+Choke;
+Clanker*F2;
+Deer Knight;
+Gearhead;
+Gearhead Destroyer*F2;
+Goat Monk;
+Handsome Fomori;
+Hooligan;
+Jacques*F2;
+Keeper of the Flame*F2;
+Kettlehead*F4;
+Lord of Night;
+Lord of Winter;
+Lucius McTavish;
+Luminous Weaver*F2;
+Meowiarty (Attack);
+Midnighter;
+Sabertooth*F2;
+Samoorai;
+Savage Paw*F5;
+Spinysaur*F3;
+Storm Owl*F2;
+Sun Serpent*F3;
+Winter Moon*F2;
+
+| reagents =
+Acorn;
+Aether;
+Black Lotus;
+Bone;
+Deep Mushroom;
+Fire Blossom;
+Fish Fin;
+Golden Pearl;
+Kelp;
+Mist Wood;
+Mote of Beauty*F2;
+Mote of Transport*F3;
+Mote of Wisdom*F2;
+Ore*F3;
+Parchment;
+Pearl*F2;
+Red Mandrake*F2;
+Sandstone;
+Scales;
+Shell;
+Stone Block;
+Sunstone;
+
+| spellements =
+
+| snacks =
+Alligator Pear;
+Baby Carrot;
+Crab Apples;
+Cubby Broccoli;
+Dead Beet Risotto;
+Dragonhorned Melon*F2;
+Evil Magma Soup*F2*WMV;
+Fancy Yogurt;
+Flowering Pineapple*F2;
+Granny Snow Apple*F2;
+Green Tomato;
+Hambrosia;
+Honey Bombs;
+King Parsley Soup*F3;
+Mystic Dragon Fruit;
+Peanut Butterflies*F2;
+Snow Apple Pie;
+Spicy Stingers;
+Sun Fruit;
+Yellow Corn*F3;
+
+| jewels =
+
+| pins =
+
+| pets =
+Meowiarty's Ghoul;
+Meowiarty's Krok;
+
+| seeds =
+Ultra Alligator Pear Tree*F3;
+Ultra Boom Shroom;
+Ultra Dandelion;
+Ultra Fly Trap*F2;
+Ultra Helephant Ears*F2;
+Ultra Huckleberries*F3*WMV;
+Ultra King Parsley*F2;
+Ultra Ninja Fig*F2;
+Ultra Snap Dragon*F2;
+Ultra Snow Apples*F2;
+Ultra Tiger Lily*F2;
+Ultra Trumpet Vine*F3;
+
+| mounts =
+Balance Whirlwind*7;
+Balance Whirlwind*PERM*F2;
+Ice Whirlwind*7*F2;
+Ice Whirlwind*PERM;
+
+| spells =
+
+}}

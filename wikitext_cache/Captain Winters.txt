@@ -1,0 +1,288 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 12,960
+| crecla = Seal
+| school = Ice
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Field Specialist Frost;
+Lieutenant Snow;
+Sergeant Sleet;
+
+| world = Polaris
+| location = Walruskberg
+| subloc1 = Imperial Palace
+| descrip =
+
+| speech =
+:"''They're here, all right. Just as you said, Chief Advisor. Now, what do you want us to do with them? I'm waiting for your orders, Your Majesty. What would you have us do?''"
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Tower Shield;
+Iceblade;
+Iceblade*TC;
+Balefrost;
+Frost Snake (80);
+Icebird (270);
+Natural Attack (Captain Winters);
+Handsome Fomori;
+Blizzard;
+Abominable Weaver;
+Snow Angel (6 Pip);
+
+| quests =
+The Imperial Palace;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge and has not unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge, the following drops will be available:
+*12 Spellements will drop each time from '''any''' School for their respective ??? Spells.
+
+| gold =
+554 - 732;
+
+| hats =
+Blizzardy Tundra Ushanka;
+Hailstorm Tundra Ushanka;
+The Enchanter*CR;
+The Goat Horns*CR;
+The Ice Horns*CR;
+The Manticore*CR;
+The Stardust*CR;
+Tundra Ushanka of Mayhem*F3*WMV;
+Tundra Ushanka of Sagacity;
+Tundra Ushanka of Survival*F3;
+Urville Papakh of Flames;
+
+| robes =
+Hailstorm Tundra Suit;
+Tundra Jacket of Survival*F2;
+Tundra Raiment of Mayhem;
+Urville Station Cherkesska;
+
+| boots =
+Blizzardy Tundra Snowshoes*F2*WMV;
+Sweltery Tundra Boots;
+
+| athames =
+Urville Edge of Snowgusts;
+Urville Knife of Elation;
+Urville Kris of Wintertide;
+
+| amulets =
+Mage's Hardy Carcanet;
+Mage's Wintry Chaplet;
+Urville Bauble of Flames;
+Urville Relic of Wintertide*F3*WMV;
+
+| rings =
+Band of the Polarian Mage;
+Inspector's Band of Shivers;
+Inspector's Band of Theories;
+Inspector's Ring of Grief;
+Inspector's Seal of Pluck;
+Iron Paw's Band of Clangor;
+Mage's Smoldering Loop;
+
+| wands =
+Axe of Tundra Blizzards;
+Mage's Wand of Guile*F2*WMV;
+Polarian Mage's Wand;
+Polarian Tundra Bardiche*F2*WMV;
+Tundra Axe of Hailstorms;
+Tundra Axe of Loyalty;
+Tundra Bardiche Sagacity;
+Tundra Survival Hatchet;
+
+| decks =
+Deck of the Tundra Sage;
+Hand of Tundra Blizzards;
+Mage's Smoldering Parcel;
+Polarian Tundra Spelldeck;
+Tundra Cards of Disarray*F2*WMV;
+Tundra Deck of Swelters;
+Tundra Gallery of Hailstorms;
+Tundra Hand of Loyalty;
+
+| items =
+Arcanum Theme*F2;
+Medium Enchanted Pot*F2;
+Medium Pot;
+Polaris Baba Yaga Theme*F5*WMV;
+Polaris Frozen Combat Theme*F4;
+Polaris Frozen Forest Theme*F3;
+Polaris Gulag Combat Theme*F2*WMV;
+Polaris Gulag Theme*F2;
+Polaris Ice Block Theme*F2*WMV;
+Polaris Mine Combat Theme;
+Polaris Mine Theme*F2;
+Polaris Opera Theme*F3;
+Polaris Rasputin Combat Theme*F3;
+Small Enchanted Pot*F4*WMV;
+Small Pot;
+Walruskberg Combat Theme;
+Walruskberg Liberated Theme*F2;
+Walruskberg Theme*F5*WMV;
+
+| cards =
+Age of Reckoning;
+Azoth;
+Balefrost;
+Combustion;
+Counterforce*F2;
+Crystal Spider;
+Death Troll*F2*WMV;
+Deathspear;
+Dragonspear;
+Elemental Spear;
+Fiery Colossus;
+Firespear;
+Frostfang;
+Icebird;
+Katabatic Wind;
+Magma Colossus;
+Namaste;
+Obsidian Colossus (420);
+Shift;
+Shock Colossus*F2*WMV;
+Spirit Spear;
+Stone Colossus;
+Witch's House Call;
+Yellow Troll;
+
+| reagents =
+Aether*F6*WMV;
+Agave Leaves*F7*WMV;
+Amber;
+Amber Dust*F2;
+Aquamarine*F8*WMV;
+Astral Shard*F4*WMV;
+Braided Vine*F2*WMV;
+Draconium;
+Fire Blossom*F2;
+Fish Fin*F5*WMV;
+Golden Pearl*F3*WMV;
+Mithril*F5*WMV;
+Orichalcum*F2;
+Palladium;
+Scales*F3*WMV;
+Silver*F7*WMV;
+Stardust*F4*WMV;
+Steel*F3*WMV;
+Sunstone*F6*WMV;
+Titanium*F3*WMV;
+Tungsten*F6*WMV;
+Turquoise*F5*WMV;
+Vine*F4*WMV;
+
+| spellements =
+Chimera*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Nested Fury*BR;
+Rain of Fire*BR;
+Sabertooth*BR;
+Skeletal Dragon*BR;
+Winged Sorrow*BR;
+Witch's House Call*BR;
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate;
+Beast Wellington*F5*WMV;
+Chalupacabra*F3*WMV;
+Deepwater Toffee;
+Eye Candy*F5*WMV;
+Frosty Sugar Cubes;
+Granny Snow Apple;
+Green Tomato*F2*WMV;
+High Road Haggis;
+Hot Cross Buns*F5*WMV;
+Mustachios*F2*WMV;
+Penne Dreadful*F5*WMV;
+Polaris Fries*F3*WMV;
+Rhubarbed Wire*F2;
+Satyr Chow*F5*WMV;
+Ships 'n' Queso*F4*WMV;
+Snow Apple Cider*F2;
+Veggie Juice*F5*WMV;
+
+| jewels =
+Lustrous Critical Ruby +13;
+Polished Blocking Amethyst +11;
+Polished Damage Ruby +21;
+Polished Defense Peridot +41;
+Polished Health Opal +91;
+
+| pins =
+
+| pets =
+Glacier Dragon;
+Ice Bird*F2*WMV;
+Intrepid Seal Pup;
+Polar Bear Cub*CR*F2*WMV;
+Snowball*CR*F2*WMV;
+White Winter Owl*F2*WMV;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Baby Carrots;
+Bell Pepper;
+Boiled Peanuts;
+Bread Fruit Bush*F2*WMV;
+Cornbread Fruit Bush*F2*WMV;
+Couch Potatoes*CR;
+Evil Snow Peas*F2;
+Fish on a Vine*F4*WMV;
+Frozen Fly Trap*F2*WMV;
+Goose Tree*F2;
+Grapes of Wrath*CR;
+Green Snow Apples*F2*WMV;
+King Parsley*CR;
+Moon Flower;
+Ninja Fig*CR;
+Purple Snow Apples*F3;
+Queen Crape Myrtle*F2*WMV;
+Snow Apples*F3*WMV;
+Ultra Ninja Fig*F2;
+Ultra Snow Apples*F3*WMV;
+White Desparagus*F2*WMV;
+White Laugh-O-Dil;
+White Tiger Lily*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

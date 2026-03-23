@@ -1,0 +1,150 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,155
+| crecla = Shadow Trickster
+| school = Shadow
+| school2 = Myth
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical = 
+120 Any;
+
+| criticalblock =
+117 Any;
+
+| outpierce =
+15%;
+
+| outboost =
+65%;
+
+| incboost =
+15% Storm;
+
+| incresist =
+30% Myth;
+
+| stunable = No
+| beguilable = No 
+| minions = 
+
+| world = Empyrea
+| location = Zanadu
+| subloc1 = Shadow House
+| descrip =
+
+| speech =
+:"''This house is beyond our feeble mortal understanding...  it... uh... oh... forget it. Jig's up, huh? But this is MY house. It's always been MY house. Ever since we took over it's been mine. And you're not taking it back!''"
+
+| spellnotes =
+
+| casts =
+Dark Nova;
+Dark Fiend;
+Mythblade;
+Mythic Fuel;
+Pierce;
+Shatter;
+Time of Legend;
+Natural Attack (Shadow 165-305-465);
+Yellow Troll;
+White Rat Magician;
+Keeper of the Flame;
+Orthrus;
+
+| quests =
+House Oddity;
+House Oddity (Instance);
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge and has not unlocked the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge, the following drops will be available:
+*10 Spellements will drop each time from '''any''' School for their respective rank 10, 11, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+74 - 133;
+
+| hats =
+
+| robes =
+Interstellar Officer's Uniform;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Empyrea Aeriel Theme;
+Empyrea Inner Athanor Theme;
+Empyrea Jungle Theme;
+
+| cards =
+Mass Fire Prism;
+
+| reagents =
+Ancient Scroll;
+Antique Coins*F2;
+Black Pearl;
+Blood Moss;
+Cobalt;
+Scales;
+Spring*F2;
+Tin;
+
+| spellements =
+Celestial Calendar*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Lord of Winter*BR;
+Qismah's Curse*BR;
+Sand Wurm*BR;
+Scion of Balance*BR;
+Scion of Death*BR;
+Scion of Ice*BR;
+Scion of Storm*BR;
+Snowball Barrage*BR;
+Sun Serpent*BR;
+
+| snacks =
+Eye Candy;
+Fern Jelly;
+Satyr Chow;
+
+| jewels =
+Ally Stun Block Sapphire;
+Fire Assailant Ruby;
+Fire-Sniper Ruby;
+Lustrous Critical Amethyst +13;
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Bell Pepper;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Fish on a Vine*F2;
+Grapes of Wrath*CR;
+Honey Bee Plant;
+Purple Bell Pepper;
+Red Huckleberries;
+
+| mounts =
+
+| spells =
+
+}}

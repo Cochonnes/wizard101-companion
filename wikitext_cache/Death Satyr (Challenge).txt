@@ -1,0 +1,122 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 7,050
+| crecla = Giant
+| school = Death
+| school2 = Life
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+20%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Anguished Woodman (Challenge);
+Lamenting Sprite (Challenge);
+Night Imp (Challenge);
+
+| world = Wizard City
+| location = Tartarus (Challenge)
+| subloc1 = House of Faun (Challenge)
+| descrip =
+*For the Standard version of this Creature, see {{Link|Creature|Death Satyr}}.
+
+| speech =
+:''"A warm-blood trespassing down here, in tortured Pompeii? Great Hades will reward me for bringing your spirit to him."''
+
+| cheatnotes =
+*{{Icon|Blade}}{{Icon|Aura}} ''"There is no strength, only weakness"'' - If a Wizard casts a helpful Charm or helpful Aura, Death Satyr will cast {{Link|Spell|Weakness}} on the recipient.
+*{{Icon|Harmful Aura}} ''"Reduce me? I'm so sad!"'' - If a Wizard casts a harmful Aura, Death Satyr will cast {{Link|Spell|Monk of Mourning (Tier 2a)}} on the recipient.
+*{{Icon|Healing}} ''"With recovery comes reduction"'' - If a Wizard casts a Healing Spell, Death Satyr will cast {{Link|Spell|Attenuate}} on the recipient, or on the caster if it was an All Allies Spell.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Starfall;
+Guiding Light;
+Regenerate (Tier 2b);
+Weakness (-30%);
+Deathblade;
+Curse (+25%);
+Kiiii-Yaaaa!;
+Natural Attack (Death 205-315-435);
+Wraith (575);
+
+| quests =
+Fall of Pompeii;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic: Aquila Badges|Swole Like Sisyphus]]''' {{Icon|Swole Like Sisyphus}} Badge, the following drops will be available:
+*{{Icon|Spellement}} 2 Aquila Spellements will drop each time from '''any''' School
+
+| gold =
+18 - 35;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Death Satyr
+}}

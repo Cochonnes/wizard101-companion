@@ -1,0 +1,115 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 5,325
+| crecla = Shark
+| school = Myth
+| school2 = Balance
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Storm Shark (Challenge);
+Storm Shark (Challenge);
+Storm Shark (Challenge);
+
+| world = Wizard City
+| location = Atlantea (Challenge)
+| subloc1 = Hall of the Contriver (Challenge)
+| descrip =
+*For the Standard version of this Creature, see {{Link|Creature|Akheilos the Contriver}}.
+
+| speech =
+:''"Hissss!  I will paint the world with your blood!  Aphrodite charged me to slaughter any who darkened the door of this temple."''
+
+| cheatnotes =
+*{{Icon|Curse}} "Your weakness is wasted!"- If a harmful Charm is cast on Akheilos the Contriver, he will cast his Natural Attack on the caster.
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Mythblade;
+Balanceblade;
+Myth Trap;
+Hex;
+Fable Trap;
+Natural Attack (Myth 180-290-400);
+Medusa (Tier 2b);
+
+| quests =
+Under the Sea;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic: Aquila Badges|Swole Like Sisyphus]]''' {{Icon|Swole Like Sisyphus}} Badge, the following drops will be available:
+*{{Icon|Spellement}} 3-4 Aquila Spellements will drop each time from '''any''' School
+
+| gold =
+8 - 29;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Akheilos the Contriver
+}}

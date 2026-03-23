@@ -1,0 +1,147 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 350
+| crecla = Unicorn
+| crecla2 = Equine
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+-20%;
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Wizard City
+| location = Olde Town
+| subloc1 = Roberto's Sanctum
+| badge = Roberto Combato
+| descrip =
+The evil twin brother of {{Link|NPC|Diego the Duelmaster}}, Roberto is hiding out in Olde Town after stealing a lucky family heirloom from Diego, and is hoping to goad his brother into facing him.  Wizards face Roberto as Diego's proxy so that Diego may retain his family honor.
+
+| speech =
+:''"Bwaha!  You've loped right into my trap, my foolish broth- wait, you are not my brother.  Does that coward, Diego, send a child to fight his battles?  So be it!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+Diego the Duelmaster's nefarious twin brother. They've been competing since they were colts.
+
+| extract class =
+Equine;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 1,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fire Cat;
+Flamesnake;
+Dark Sprite;
+Scarab;
+Blood Bat;
+
+| quests =
+Unlocking the Truth;
+
+| gold =
+25 - 98;
+
+| hats =
+Cap of the Teacher's Pet*F3;
+Gold-Flecked Hood*F2;
+Goldleaf Hood*F2;
+Student's Helm*F9;
+Twice Stitched Hat*F3;
+Valedictorian's Cowl;
+Verdant Helm*F2;
+
+| robes =
+Amethyst Studded Cloak*F5;
+Citrine Studded Cloak*F2;
+Jade Studded Cloak*F6;
+Onyx Studded Cloak*F2*WMV;
+Peridot Studded Cloak;
+Ruby Studded Cloak;
+Sapphire Studded Cloak*F4*WMV;
+
+| boots =
+Amethyst Studded Boots*F10;
+Citrine Studded Boots*F2;
+Jade Studded Boots*F2;
+Onyx Studded Boots*F4;
+Peridot Studded Boots*F4;
+Ruby Studded Boots;
+Sapphire Studded Boots*F3;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Roberto's Rapier*F24*WMV;
+
+| decks =
+Antique Deck*F20*WMV;
+
+| items =
+Adept's Socket Wrench*F5;
+Novice's Socket Wrench*F5;
+Wooden Skeleton Key*CR*F2;
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Blonde Strawberry*F27*WMV;
+Cheese Broccoli*F28*WMV;
+Chocolate Strawberry*F23*WMV;
+Gummy Firecat*F15*WMV;
+Sugar Donut*F17*WMV;
+
+| jewels =
+
+| pins = 
+
+| pets =
+
+| seeds =
+
+| mounts =
+Enchanted Broom*7*F12*WMV;
+Horned Sweeper*7*F31*WMV;
+Purple Glider*7*F16*WMV;
+
+| spells =
+
+}}

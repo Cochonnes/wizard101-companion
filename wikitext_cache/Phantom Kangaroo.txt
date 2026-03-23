@@ -1,0 +1,272 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 16,810
+| crecla = Kangaroo
+| crecla2 = Undead
+| school = Death
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+21%;
+
+| outboost =
+104%;
+
+| incboost =
+30% Life;
+
+| incresist =
+42% Fire, Ice, Storm, Myth, Balance, Shadow;
+72% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| world = Wallaru
+| location = Wobbegong Territory
+| subloc1 = Phantom Trail
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"Last chance for that lift. My pouch leads to a realm of delicious torment. Come, join us. No? Then be kicked!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wallaru
+| tome description =
+Used to have a healthy stream of new ""clients"" to drag into torment dimensions. But now everyone just takes Kangaroo-bers.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Virulence;
+Deathblade (+40%);
+Spirit Blade;
+Feint;
+Banshee (Tier 3b);
+Gravestorm (Tier 3a);
+Crimson Phantom (Tier 3);
+Wraith (Tier 3b);
+Shift Ancient;
+Wrath of Hades (Death);
+
+| quests =
+More Like Kanga-Boo!;
+Trail Razer;
+
+| gold = 
+3 - 32
+
+| hats =
+Dynamic Enforcer's Helmet;
+Dynamic Protector's Helmet*F2*WMV;
+Furious Enforcer's Helmet;
+Furious Protector's Helmet;
+Just Enforcer's Helmet;
+Just Protector's Helmet;
+Legendary Enforcer's Helmet;
+Legendary Protector's Helmet;
+Morbid Enforcer's Helmet;
+Morbid Protector's Helmet;
+Steely Enforcer's Helmet;
+Steely Protector's Helmet;
+Thunderous Enforcer's Helmet*F2;
+Thunderous Protector's Helmet; 
+
+| robes =
+
+| boots =
+
+| athames =
+Dynamic Enforcer's Athame*F2;
+Dynamic Protector's Athame;
+Furious Enforcer's Athame;
+Furious Protector's Athame;
+Just Enforcer's Athame;
+Just Protector's Athame;
+Legendary Enforcer's Athame;
+Legendary Protector's Athame;
+Morbid Enforcer's Athame;
+Morbid Protector's Athame;
+Steely Enforcer's Athame;
+Steely Protector's Athame*F2;
+Thunderous Enforcer's Athame;
+Thunderous Protector's Athame;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Ashen Bones;
+Banshee (Tier 2b)*F2;
+Blood Bat (Tier 2b);
+Boreas Ifrit;
+Cyclops (Tier 2b);
+Dark Sprite (Tier 2b);
+Deadly Minotaur;
+Evil Snowman (Tier 2b);
+Fire Cat (Tier 2b);
+Fire Elf (Tier 2b);
+Frost Beetle (Tier 2b);
+Ghoul (Tier 2b);
+Harmattan Maxios;
+Leprechaun (Tier 2b);
+Lightning Bats (Tier 2b);
+Locust Swarm (Tier 2b)*F2;
+Lord of the Squall;
+Nature's Wrath (Tier 2b);
+Nested Fury;
+Raging Bull;
+Rusalka's Wrath;
+Scorpion (Tier 2b);
+Sirocco Djinni;
+Snowball Barrage;
+Storm Shark (Tier 2b);
+Sunbird (Tier 2b)*F2;
+Thunder Snake (Tier 2b);
+Troll (Tier 2b);
+Winged Sorrow;
+Wings of Fate;
+Witch's House Call;
+
+| reagents =
+
+| spellements =
+Barbarian's Saga*F2;
+Blast Off!;
+Bunyip's Rage;
+Count Croakula;
+Dark & Stormy;
+Deathly Depths;
+Drop Bear Fury;
+Freeze Ray*F2;
+Glimpse of Infinity;
+Gravestorm;
+Grim Reader*F2;
+Grrnadier;
+Improbable Gaze*F2*WMV;
+Lord of the Jungle;
+Mockenspiel;
+Old One's Endgame;
+Phantasmania!;
+Rainbow Serpent;
+S'more Machine*F2;
+Scales of Destiny*F2*WMV;
+Scion of Fire;
+Shatterhorn;
+Snack Attack*F2;
+Sound of Musicology;
+Starspawn;
+Tatzlewurm Terror;
+Tree of Strife;
+Wobbegong Frenzy;
+Zand the Bandit*F2*WMV;
+
+| snacks =
+
+| jewels =
+Amazing Archmastery Opal +14 (Square);
+Amazing Blocking Amethyst +21;
+Amazing Blocking Amethyst +22;
+Amazing Blocking Citrine +21;
+Amazing Blocking Onyx +21;
+Amazing Blocking Onyx +22;
+Amazing Blocking Opal +11;
+Amazing Blocking Peridot +22;
+Amazing Blocking Ruby +22;
+Amazing Defense Amethyst +63;
+Amazing Defense Citrine +64;
+Amazing Defense Jade +63;
+Amazing Defense Onyx +63;
+Amazing Defense Onyx +64;
+Amazing Defense Opal +31;
+Amazing Defense Peridot +64;
+Amazing Defense Ruby +64;
+Amazing Defense Sapphire +64;
+Flawless Archmastery Opal +15 (Square);
+Flawless Blocking Amethyst +24;
+Flawless Blocking Citrine +24;
+Flawless Blocking Jade +23;
+Flawless Blocking Onyx +23;
+Flawless Blocking Onyx +24;
+Flawless Blocking Peridot +23;
+Flawless Blocking Peridot +24*F2;
+Flawless Blocking Ruby +23;
+Flawless Blocking Ruby +24;
+Flawless Blocking Sapphire +23*F2*WMV;
+Flawless Blocking Sapphire +24;
+Flawless Defense Jade +67;
+Flawless Defense Jade +68;
+Flawless Defense Onyx +67;
+Flawless Defense Onyx +68;
+Flawless Defense Opal +34;
+Flawless Defense Peridot +68;
+Flawless Defense Ruby +67;
+Flawless Defense Ruby +68;
+Flawless Defense Sapphire +67;
+Flawless Defense Sapphire +68;
+
+| pins =
+Balance Blocking Pin (150, Myth);
+Balance Blocking Pin (150, Storm);
+Balance Blocking Pin (160, Myth);
+Balance Blocking Pin (160, Storm);
+Balance Resist Pin (140, Life);
+Balance Resist Pin (140, Storm);
+Death Blocking Pin (150, Myth);
+Death Blocking Pin (160, Myth);
+Fire Blocking Pin (150, Storm);
+Fire Blocking Pin (160, Storm);
+Fire Resist Pin (140, Life);
+Fire Resist Pin (140, Storm);
+Ice Blocking Pin (150, Myth);
+Life Blocking Pin (150, Storm);
+Life Blocking Pin (160, Storm);
+Life Mending Pin (140);
+Life Resist Pin (140, Death);
+Life Resist Pin (140, Storm);
+Myth Blocking Pin (140, Life);
+Storm Mending Pin (140);
+Storm Mending Pin (160);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

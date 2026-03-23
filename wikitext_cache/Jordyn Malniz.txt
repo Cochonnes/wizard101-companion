@@ -1,0 +1,107 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 960
+| crecla = Pig
+| school = Death
+| cheats = Yes
+| startpips = 2
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+10%;
+
+| incboost =
+30% Life;
+
+| incresist =
+60% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Cold Confusion;
+
+| world = Marleybone
+| location = Knight's Court
+| subloc1 = Jordyn's Lab
+| descrip =
+Jordyn Malniz is an associate of [[NPC:Aegon Statz|Aegon Statz's]].  He has lost contact with her and fears the worst.<br/>She is a ''non-repeatable'', solo fight.
+
+| speech =
+:''"Hmm. A phenomenon. A being enters, or is it a doing? Whatever IT is, it cannot be seeing. That would be impossible. The being must be destroyed."''
+
+| cheatnotes =
+*{{Icon|Minion}} Jordyn will interrupt cast a Star Spell that summons one Cold Confusion Minion. A Round or two after the minion is defeated she will summon another Minion.
+
+| dropnotes =
+A small amount of Gold and the ''Arcanum Topiary'' appear to be her only drops.
+
+| casts =
+Dream Shield;
+Infection;
+Deathblade (+40%);
+Curse;
+Dark Sprite;
+Natural Attack (Death 130);
+Ghoul;
+Banshee;
+Vampire;
+
+| quests =
+Pekuliar Matters;
+
+| gold =
+11 - 21;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Arcanum Topiary*F6*WMV;
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

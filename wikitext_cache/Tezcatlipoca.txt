@@ -1,0 +1,99 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 9,225
+| crecla = Parasaur
+| school = Balance
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| petname = Yolyamanitzin
+| petbreed = Opossum
+| world = Azteca
+| location = The Zocalo
+| subloc1 = Tezcatlipoca's Cave
+| descrip =
+*Balance Wizards must defeat this Boss during their Level 118 Pet Quest, "Oh! ...Possum".
+*This Creature's name is misspelled as "Tezcatilipoca" in some instances.
+
+| speech =
+:''"Who's a handsome Opossum? That's right! Yolyamanitzin is a handsome Opos- Hey! You can't just barge in here. Who do you think you are? Wait. I know you. From the Arcanum. You're one of the clean ones. Did Jackalope send you here to do the dirty work? Typical. Sorry, but the Opossums are mine now. Yolyamanitzin and I have bonded! I've even trained him. In combat. Come see for yourself!"''
+
+| spellnotes =
+*The Pet Opossum casts Dragonspear, Balanceblade, and Bladestorm.
+
+| casts =
+Dragonspear;
+Balanceblade;
+Bladestorm;
+Scorpion;
+Loremaster;
+Locust Swarm;
+Sandstorm;
+Spectral Blast;
+Ra;
+
+| quests =
+Oh! ...Possum;
+
+| gold =
+1,401 - 2,404;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Fortify Opal;
+Infector Onyx;
+Medic Opal;
+Tower Shield Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

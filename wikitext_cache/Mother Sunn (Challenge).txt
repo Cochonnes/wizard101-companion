@@ -1,0 +1,429 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 21,000
+| crecla = Mander
+| crecla2 = Undead
+| school = Sun
+| school2 = Fire
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Fire;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+51%;
+
+| outboost =
+163%;
+
+| incboost =
+None;
+
+| incresist =
+13% Storm;
+33% Fire, Myth, Life, Death, Balance, Shadow;
+53% Ice;
+
+| outhealing =
+23%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Ghost Mander (Challenge);
+
+| world = Krokotopia
+| location = Tomb of the Forgotten (Krokotopia)
+| subloc1 = Crypt of Ra (Challenge)
+| badge = Sunn Razer
+| lootchest = Mother Sunn Chest (Challenge)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the Standard version of this battle, see {{Link|Creature|Mother Sunn (Standard)}}.
+*Two additional Ghost Mander Minions will appear if more than two Wizards are present.
+'''Advanced Combat Rules:'''
+*Wizards stats and spells are scaled to Level 170.
+*Spell Decks cannot be changed while in this instance.
+*No-PvP spells are disallowed in this fight.
+*PvP-Only Spells are allowed in this fight.
+*Snake Turn Order Combat.
+*Wizards cannot re-join combat after fleeing mid-combat.
+
+'''Additional Notes:'''
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Round}} ''"... You can die!"'' - If either Mother Sunn or Ghost Mander is not attacked during the Round, Mother Sunn will cheat-cast a Sun version of {{Link|Spell|Ra (Tier 5a)}} that deals '''460-540''' Sun Damage to and applies a -65% Accuracy Charm on all enemies at the end of the Round.
+**Damage over Time effects will not prevent this cheat.
+{{Icon|Round}} '''Cycle''':
+*''"Don't stay out in the sun too long."'' - At the beginning of every second Round, Mother Sunn will cheat-cast a Sun version of {{Link|Spell|Scald}} that deals '''375''' Sun Damage over 3 Rounds to all enemies.
+*''"In star's birth, you die."'' - At the beginning of every fourth Round, Mother Sunn will cheat-cast a Sun version of {{Link|Spell|Power Nova}} that deals '''665''' Sun Damage to and applies a -40% Damage Charm on all enemies.
+
+| spellnotes =
+
+| casts =
+Fireblade;
+Balanceblade;
+Meteor Strike (Sun);
+Ra (Sun);
+Brimstone Revenant (Tier 5a);
+Whitehart Fire (Tier 5a);
+Glacial Golem (Tier 5b);
+Phoenix (Tier 5a);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Avatar's Blade of Bad Blood;
+Avatar's Blade of Payback;
+Avatar's Blade of Reprisal;
+Avatar's Blade of Retribution;
+Avatar's Blade of Revenge;
+Avatar's Blade of Vengeance;
+Avatar's Blade of Wrath;
+Manifest Blade of Bad Blood;
+Manifest Blade of Payback;
+Manifest Blade of Reprisal;
+Manifest Blade of Retribution;
+Manifest Blade of Revenge;
+Manifest Blade of Vengeance;
+Manifest Blade of Wrath;
+
+| amulets =
+
+| rings =
+Avatar's Seal of Bad Blood;
+Avatar's Seal of Payback;
+Avatar's Seal of Reprisal;
+Avatar's Seal of Retribution;
+Avatar's Seal of Revenge;
+Avatar's Seal of Vengeance;
+Avatar's Seal of Wrath;
+Manifest Seal of Bad Blood;
+Manifest Seal of Payback;
+Manifest Seal of Reprisal;
+Manifest Seal of Retribution;
+Manifest Seal of Revenge;
+Manifest Seal of Vengeance;
+Manifest Seal of Wrath;
+
+| wands =
+
+| decks =
+
+| items =
+Legendary Socket Wrench;
+
+| cards =
+
+| reagents =
+Moon Dust;
+
+| spellements =
+Ammut;
+Anubis;
+Barbarian's Saga;
+Blast Off!;
+Bunyip's Rage;
+Chameleon Clash;
+Count Croakula;
+Dark & Stormy;
+Deathly Depths;
+Drop Bear Fury;
+Freeze Ray;
+Glimpse of Infinity;
+Gravestorm;
+Grim Reader;
+Grrnadier;
+Heqet;
+Improbable Gaze;
+Lord of the Jungle;
+Mockenspiel;
+Old One's Endgame;
+Phantasmania!;
+Rainbow Serpent;
+S'more Machine;
+Scales of Destiny;
+Shatterhorn;
+Shu;
+Snack Attack;
+Sound of Musicology;
+Starspawn;
+Tatzlewurm Terror;
+Taweret;
+Thoth;
+Tree of Strife;
+Wobbegong Frenzy;
+Zand the Bandit;
+
+| snacks =
+
+| jewels =
+
+| pins =
+Balance Crushing Pin (160, Death);
+Balance Crushing Pin (160, Fire);
+Balance Crushing Pin (160, Ice);
+Balance Crushing Pin (160, Life);
+Balance Crushing Pin (160, Myth);
+Balance Crushing Pin (160, Storm);
+Balance Crushing Pin (170, Death);
+Balance Crushing Pin (170, Fire);
+Balance Crushing Pin (170, Ice);
+Balance Crushing Pin (170, Life);
+Balance Crushing Pin (170, Myth);
+Balance Crushing Pin (170, Storm);
+Balance Disabling Pin (160, Death);
+Balance Disabling Pin (160, Fire);
+Balance Disabling Pin (160, Ice);
+Balance Disabling Pin (160, Life);
+Balance Disabling Pin (160, Myth);
+Balance Disabling Pin (160, Storm);
+Balance Disabling Pin (170, Death);
+Balance Disabling Pin (170, Fire);
+Balance Disabling Pin (170, Ice);
+Balance Disabling Pin (170, Life);
+Balance Disabling Pin (170, Myth);
+Balance Disabling Pin (170, Storm);
+Balance Punishing Pin (160, Death);
+Balance Punishing Pin (160, Fire);
+Balance Punishing Pin (160, Ice);
+Balance Punishing Pin (160, Life);
+Balance Punishing Pin (160, Myth);
+Balance Punishing Pin (160, Storm);
+Balance Punishing Pin (170, Death);
+Balance Punishing Pin (170, Fire);
+Balance Punishing Pin (170, Myth);
+Balance Punishing Pin (170, Storm);
+Death Crushing Pin (160, Balance);
+Death Crushing Pin (160, Fire);
+Death Crushing Pin (160, Ice);
+Death Crushing Pin (160, Life);
+Death Crushing Pin (160, Myth);
+Death Crushing Pin (160, Storm);
+Death Crushing Pin (170, Balance);
+Death Crushing Pin (170, Fire);
+Death Crushing Pin (170, Ice);
+Death Crushing Pin (170, Life);
+Death Crushing Pin (170, Myth);
+Death Crushing Pin (170, Storm);
+Death Disabling Pin (160, Balance);
+Death Disabling Pin (160, Fire);
+Death Disabling Pin (160, Ice);
+Death Disabling Pin (160, Life);
+Death Disabling Pin (160, Myth);
+Death Disabling Pin (160, Storm);
+Death Disabling Pin (170, Balance);
+Death Disabling Pin (170, Fire);
+Death Disabling Pin (170, Ice);
+Death Disabling Pin (170, Life);
+Death Disabling Pin (170, Myth);
+Death Disabling Pin (170, Storm);
+Death Punishing Pin (160, Balance);
+Death Punishing Pin (160, Fire);
+Death Punishing Pin (160, Ice);
+Death Punishing Pin (160, Life);
+Death Punishing Pin (160, Myth);
+Death Punishing Pin (160, Storm);
+Death Punishing Pin (170, Balance);
+Death Punishing Pin (170, Fire);
+Death Punishing Pin (170, Myth);
+Death Punishing Pin (170, Storm);
+Fire Crushing Pin (160, Balance);
+Fire Crushing Pin (160, Death);
+Fire Crushing Pin (160, Ice);
+Fire Crushing Pin (160, Life);
+Fire Crushing Pin (160, Myth);
+Fire Crushing Pin (160, Storm);
+Fire Crushing Pin (170, Balance);
+Fire Crushing Pin (170, Death);
+Fire Crushing Pin (170, Ice);
+Fire Crushing Pin (170, Life);
+Fire Crushing Pin (170, Myth);
+Fire Crushing Pin (170, Storm);
+Fire Disabling Pin (160, Balance);
+Fire Disabling Pin (160, Death);
+Fire Disabling Pin (160, Ice);
+Fire Disabling Pin (160, Life);
+Fire Disabling Pin (160, Myth);
+Fire Disabling Pin (160, Storm);
+Fire Disabling Pin (170, Balance);
+Fire Disabling Pin (170, Death);
+Fire Disabling Pin (170, Ice);
+Fire Disabling Pin (170, Life);
+Fire Disabling Pin (170, Myth);
+Fire Disabling Pin (170, Storm);
+Fire Punishing Pin (160, Balance);
+Fire Punishing Pin (160, Death);
+Fire Punishing Pin (160, Ice);
+Fire Punishing Pin (160, Life);
+Fire Punishing Pin (160, Myth);
+Fire Punishing Pin (160, Storm);
+Fire Punishing Pin (170, Balance);
+Fire Punishing Pin (170, Death);
+Fire Punishing Pin (170, Myth);
+Fire Punishing Pin (170, Storm);
+Ice Crushing Pin (160, Balance);
+Ice Crushing Pin (160, Death);
+Ice Crushing Pin (160, Fire);
+Ice Crushing Pin (160, Life);
+Ice Crushing Pin (160, Myth);
+Ice Crushing Pin (160, Storm);
+Ice Crushing Pin (170, Balance);
+Ice Crushing Pin (170, Death);
+Ice Crushing Pin (170, Fire);
+Ice Crushing Pin (170, Life);
+Ice Crushing Pin (170, Myth);
+Ice Crushing Pin (170, Storm);
+Ice Disabling Pin (160, Balance);
+Ice Disabling Pin (160, Death);
+Ice Disabling Pin (160, Fire);
+Ice Disabling Pin (160, Life);
+Ice Disabling Pin (160, Myth);
+Ice Disabling Pin (160, Storm);
+Ice Disabling Pin (170, Balance);
+Ice Disabling Pin (170, Death);
+Ice Disabling Pin (170, Fire);
+Ice Disabling Pin (170, Life);
+Ice Disabling Pin (170, Myth);
+Ice Disabling Pin (170, Storm);
+Ice Punishing Pin (160, Balance);
+Ice Punishing Pin (160, Death);
+Ice Punishing Pin (160, Fire);
+Ice Punishing Pin (160, Life);
+Ice Punishing Pin (160, Myth);
+Ice Punishing Pin (160, Storm);
+Ice Punishing Pin (170, Balance);
+Ice Punishing Pin (170, Death);
+Ice Punishing Pin (170, Fire);
+Ice Punishing Pin (170, Myth);
+Ice Punishing Pin (170, Storm);
+Life Crushing Pin (160, Balance);
+Life Crushing Pin (160, Death);
+Life Crushing Pin (160, Fire);
+Life Crushing Pin (160, Ice);
+Life Crushing Pin (160, Myth);
+Life Crushing Pin (160, Storm);
+Life Crushing Pin (170, Balance);
+Life Crushing Pin (170, Death);
+Life Crushing Pin (170, Fire);
+Life Crushing Pin (170, Ice);
+Life Crushing Pin (170, Myth);
+Life Crushing Pin (170, Storm);
+Life Disabling Pin (160, Balance);
+Life Disabling Pin (160, Death);
+Life Disabling Pin (160, Fire);
+Life Disabling Pin (160, Ice);
+Life Disabling Pin (160, Myth);
+Life Disabling Pin (160, Storm);
+Life Disabling Pin (170, Balance);
+Life Disabling Pin (170, Death);
+Life Disabling Pin (170, Fire);
+Life Disabling Pin (170, Ice);
+Life Disabling Pin (170, Myth);
+Life Disabling Pin (170, Storm);
+Life Punishing Pin (160, Balance);
+Life Punishing Pin (160, Death);
+Life Punishing Pin (160, Fire);
+Life Punishing Pin (160, Ice);
+Life Punishing Pin (160, Myth);
+Life Punishing Pin (160, Storm);
+Life Punishing Pin (170, Balance);
+Life Punishing Pin (170, Death);
+Life Punishing Pin (170, Fire);
+Life Punishing Pin (170, Myth);
+Life Punishing Pin (170, Storm);
+Myth Crushing Pin (160, Balance);
+Myth Crushing Pin (160, Death);
+Myth Crushing Pin (160, Fire);
+Myth Crushing Pin (160, Ice);
+Myth Crushing Pin (160, Life);
+Myth Crushing Pin (160, Storm);
+Myth Crushing Pin (170, Balance);
+Myth Crushing Pin (170, Death);
+Myth Crushing Pin (170, Fire);
+Myth Crushing Pin (170, Ice);
+Myth Crushing Pin (170, Life);
+Myth Crushing Pin (170, Storm);
+Myth Disabling Pin (160, Balance);
+Myth Disabling Pin (160, Death);
+Myth Disabling Pin (160, Fire);
+Myth Disabling Pin (160, Ice);
+Myth Disabling Pin (160, Life);
+Myth Disabling Pin (160, Storm);
+Myth Disabling Pin (170, Balance);
+Myth Disabling Pin (170, Death);
+Myth Disabling Pin (170, Fire);
+Myth Disabling Pin (170, Ice);
+Myth Disabling Pin (170, Life);
+Myth Disabling Pin (170, Storm);
+Myth Punishing Pin (160, Balance);
+Myth Punishing Pin (160, Death);
+Myth Punishing Pin (160, Fire);
+Myth Punishing Pin (160, Ice);
+Myth Punishing Pin (160, Life);
+Myth Punishing Pin (160, Storm);
+Myth Punishing Pin (170, Balance);
+Myth Punishing Pin (170, Death);
+Myth Punishing Pin (170, Fire);
+Myth Punishing Pin (170, Storm);
+Storm Crushing Pin (160, Balance);
+Storm Crushing Pin (160, Death);
+Storm Crushing Pin (160, Fire);
+Storm Crushing Pin (160, Ice);
+Storm Crushing Pin (160, Life);
+Storm Crushing Pin (160, Myth);
+Storm Crushing Pin (170, Balance);
+Storm Crushing Pin (170, Death);
+Storm Crushing Pin (170, Fire);
+Storm Crushing Pin (170, Ice);
+Storm Crushing Pin (170, Life);
+Storm Crushing Pin (170, Myth);
+Storm Disabling Pin (160, Balance);
+Storm Disabling Pin (160, Death);
+Storm Disabling Pin (160, Fire);
+Storm Disabling Pin (160, Ice);
+Storm Disabling Pin (160, Life);
+Storm Disabling Pin (160, Myth);
+Storm Disabling Pin (170, Balance);
+Storm Disabling Pin (170, Death);
+Storm Disabling Pin (170, Fire);
+Storm Disabling Pin (170, Ice);
+Storm Disabling Pin (170, Life);
+Storm Disabling Pin (170, Myth);
+Storm Punishing Pin (160, Balance);
+Storm Punishing Pin (160, Death);
+Storm Punishing Pin (160, Fire);
+Storm Punishing Pin (160, Ice);
+Storm Punishing Pin (160, Life);
+Storm Punishing Pin (160, Myth);
+Storm Punishing Pin (170, Balance);
+Storm Punishing Pin (170, Death);
+Storm Punishing Pin (170, Fire);
+Storm Punishing Pin (170, Myth);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

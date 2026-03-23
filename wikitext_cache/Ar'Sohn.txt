@@ -1,0 +1,142 @@
+{{Stub|Spells, and drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,550
+| crecla = Beastmoon Creature
+| school = Fire
+| startpips = 3
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Celestia Battlegrounds
+| descrip =
+Ar'Sohn is one of the Boss monsters that can be encountered during the third Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events. He will have 1 random, Rank 3 Elite, Stage 3 monster and 2 random, Rank 2, Stage 3 monsters present to assist them.
+
+'''Potential Rank 3 Elite Minions:'''
+*{{Link|Creature|Boiled Crab}}
+*{{Link|Creature|Ice Floe Spriggan}}
+
+'''Potential Rank 2 Minions:'''
+*{{Link|Creature|Lightning Squid}}
+*{{Link|Creature|Stasis Eel}}
+
+| speech =
+
+| spellnotes =
+*Casts a 0-Pip, 75 Damage version of Dive-Bomber Beetle.
+*Casts a 250 Damage version of Blazing Construct.
+**It is currently unknown whether the Charm effect occurs.
+*Casts a 4-Pip Sunbird version of Surtr's Rage that deals 375 Damage over 3 Rounds.
+*It is currently unknown where the DoT effect of Fiery Doom occurs.
+
+| casts =
+Dive-Bomber Beetle;
+Blazing Construct;
+Fiery Doom;
+Surtr's Rage;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 19 - 29 Lunari.
+
+| gold =
+93;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone;
+Colossus Idol (Storm)*F2;
+Cyclops Idol (Storm);
+Draconian Idol (Storm);
+Elemental Moonstone*F4*WMV;
+Elf Idol (Ice);
+Fairy Idol (Balance);
+Fairy Idol (Fire);
+Fairy Idol (Ice);
+Fire Moonstone;
+Fire Thread*F2*WMV;
+Harmonious Moonstone*F2;
+Harmonious Thread;
+Ice Moonstone*F3*WMV;
+Ice Thread*F2*WMV;
+Storm Moonstone;
+Storm Thread;
+Wolf Warrior Idol (Fire);
+Wolf Warrior Idol (Ice);
+Wolf Warrior Idol (Storm)*F2*WMV;
+
+| spellements =
+Blizzard;
+Frostbite;
+Frostfeather*F2;
+Glacial Golem;
+Heck Hound;
+Inferno Salamander;
+Iron Curse*F3*WMV;
+Judgement;
+Obsidian Colossus*F4;
+Naphtha Scarab*F2;
+Sandstorm*F2*WMV;
+Stormwing;
+Thermic Golem*F2;
+Thunderman*F2*WMV;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| recipes =
+
+}}

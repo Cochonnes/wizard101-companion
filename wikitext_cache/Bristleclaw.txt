@@ -1,0 +1,219 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,900
+| crecla = Wolverine
+| school = Death
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Life;
+
+| incresist =
+35% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Jungle Wildclaw;
+
+| world = Celestia
+| location = The Floating Land
+| subloc1 = Bristleclaw's Cave
+| descrip =
+Wizards confront Bristleclaw and {{Link|Creature|Wildcrag}} in order to pacify the wild Jungletooth of The Floating Land.
+*Two additional Jungle Wildclaw Minions appear if more than two Wizards are present.
+
+| speech =
+
+| spellnotes =
+ 
+| casts =
+Deathblade;
+Curse;
+Vampire;
+Skeletal Pirate;
+Wraith;
+Monster Mash;
+Scarecrow;
+Natural Attack (Death 85x);
+
+| quests =
+Claw of the Jungle;
+
+| gold =
+51 - 66;
+
+| hats =
+Collective Costume;
+Corrupt Cover;
+Frostbit Mantle;
+Fuming Hat;
+Headdress of the Heart;
+Helm of Ordeal;
+Natural Cap*F6*WMV;
+Persistent Helmet;
+Shroud of Cinders*F2;
+Star Wisher's Shroud*F3;
+Thundercracked Cover;
+Tinder Topper*F2;
+Turbulent Topper*F3;
+Wintergale Headwrap;
+
+| robes =
+Armor of Celestian Totality*F3*WMV;
+Brimstone Tunic*F2;
+Celestian Abyss Armor; 
+Celestian Cinder Armor; 
+Celestian Frostbit Armor;
+Celestian Tempest Armor;
+Chilled Clothing;
+Collective Costume*F3*WMV;
+Corrupt Jerkin;
+Drape of Dissonance*F2;
+Everlasting Celestian Armor;
+Iced Outfit; 
+Raiment of Resolution;
+Storied Celestian Armor;
+Versatile Celestian Armor;
+Virtue Jerkin*F3*WMV;
+Vital Vestment;
+Whispering Raiment;
+
+| boots =
+Chilled Clogs;
+Iced Boots;
+Medley Mukluks;
+Menacing Stalkers;
+Merry Mukluks; 
+Runners of Resolution;
+Spirit Striders*F3*WMV;
+Wraps of Rapport;
+
+| athames =
+Archaeologist's Athame*F4*WMV;
+Blade of Bloom*F4;
+Dagger of Redemption;
+Engineer's Knife*F3*WMV;
+Examiner's Shortblade*F6*WMV;
+
+| amulets =
+
+| rings =
+Piscean Ring;
+Ring of Reasoning;
+Seal of the Steadfast*F3*WMV;
+Survivor's Signet*F6*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Celestian Sundial*F2;
+
+| cards =
+Dryad;
+Empower*F6*WMV;
+Fire Trap;
+Fortify;
+Gargantuan*F7*WMV;
+Humongofrog;
+Ice Trap;
+Keen Eyes;
+Mutate Cat (Ice);
+Pacify;
+Sandstorm;
+Skeletal Pirate;
+Strong;
+Unstoppable*F5*WMV;
+Vengeance;
+Weakness;
+
+| reagents =
+Brass*F3*WMV;
+Bronze;
+Cobalt*F2;
+Lead;
+Nickel*F2;
+Steel*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2;
+Delicious Cookie;
+Glowing Star Fruit*F2;
+Glowing Taffy;
+Spicy Drumstick*F2*WMV;
+Strawberry Cupcake*F2;
+Submarine Sandwich*F2;
+
+| jewels =
+Balanceblade Talent Citrine;
+Clock Spider Citrine;
+Curse Giver Onyx;
+Death-Eye Onyx;
+Disarmament Amethyst;
+Dull Critical Citrine +3;
+Dull Critical Ruby +3;
+Dull Defense Amethyst +26;
+Dull Defense Ruby +26;
+Dull Healing Opal +3%;
+Dull Health Opal +51;
+Dull Mana Opal +23;
+Great Learner Opal;
+Infallible Talent Opal;
+Life-Giver Jade;
+Mander Opal;
+Mass Death Prism Onyx;
+Mass Fire Prism Ruby;
+Mass Myth Prism Peridot;
+Mass Storm Prism Amethyst;
+Myth-Boon Peridot;
+Myth-Sniper Peridot;
+Ninja Pig Opal;
+Plain Blocking Onyx +6;
+Plain Blocking Opal +3;
+Plain Blocking Peridot +6;
+Plain Blocking Ruby +6;
+Plain Damage Amethyst +15;
+Plain Damage Citrine +15;
+Plain Damage Jade +15;
+Plain Damage Peridot +15;
+Plain Damage Ruby +15;
+Plain Damage Sapphire +15*F2;
+Plain Defense Opal +16;
+Reshuffle Citrine;
+Storm Elemental Opal;
+Tower Shield Sapphire;
+Ultra Boost Opal; 
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2*WMV;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F5*WMV;
+Silver Trumpet Vine*CR*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,132 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 15,500
+| crecla = Unicorn
+| school = Life
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Arcanum
+| location = The Arcanum
+| subloc1 = Arbiter's Arena
+| descrip =
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Attacks of 205 Life Damage for 2 Pips, and 305 Life Damage for 3 Pips have been observed.
+
+| casts =
+Guidance;
+Life Scarab;
+Giant Spider;
+Goat Monk;
+Life Banshee (250);
+Forest Lord;
+Spinysaur;
+
+| quests =
+Wings of Fate;
+
+| gold =
+56 - 100;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Polaris Baba Yaga Theme;
+Polaris Gulag Combat Theme;
+Polaris Gulag Theme;
+Polaris Mine Combat Theme;
+Polaris Rasputin Combat Theme;
+Small Enchanted Pot;
+
+| cards =
+Ashen Bones;
+Rusalka's Wrath;
+Saga of Heroes;
+
+| reagents =
+Aether;
+Agave Nectar;
+Amber;
+Amber Dust;
+Aquamarine;
+Astral Shard;
+Braided Vine;
+Golden Pearl*F2*WMV;
+Scales*F2;
+Silver*F2*WMV;
+Sunstone;
+Titanium*F2;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F2;
+Chalupacabra;
+Hot Cross Buns;
+Penne Dreadful;
+Veggie Juice;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Cornbread Fruit Bush*F2*WMV;
+Frozen Fly Trap;
+Green Snow Apples;
+King Parsley*CR;
+Moon Flower;
+Ninja Fig*CR;
+Purple Snow Apples;
+Queen Crape Myrtle;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

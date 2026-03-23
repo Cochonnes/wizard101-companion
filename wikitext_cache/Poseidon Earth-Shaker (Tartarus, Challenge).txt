@@ -1,0 +1,96 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 9,300
+| crecla = Eagle
+| school = Storm
+| school2 = Ice
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = Tartarus (Challenge)
+| subloc1 = Hall of Hades (Challenge)
+| descrip =
+*For the Standard version of this Creature, see {{Link|Creature|Poseidon Earth-Shaker (Tartarus)}}.
+
+For the purpose of drops, Poseidon Earth-Shaker (Tartarus, Challenge) is considered a Minion to {{Link|Creature|Hades the Unseen (Tartarus, Challenge)}}. All drops, cheats, and speech are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Galvanic Field;
+Tower Shield;
+Stormblade (+30%);
+Iceblade (+40%);
+Storm Trap;
+Hail Trap;
+Darkwind;
+Leviathan (Tier 2b);
+Frost Giant (650);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Poseidon Earth-Shaker (Tartarus)
+}}

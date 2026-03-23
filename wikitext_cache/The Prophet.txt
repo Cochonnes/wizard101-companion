@@ -1,0 +1,132 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 15,315
+| crecla = Shadow Seraph
+| school = Shadow
+| school2 = Death
+| cheats = Yes
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+12%;
+
+| outboost =
+91%;
+
+| incboost =
+30% Life;
+
+| incresist =
+41% Fire, Ice, Storm, Myth, Balance, Shadow;
+71% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Shadow Guardian (Rank 21);
+Shadow Guardian (Rank 21);
+
+| world = Krokotopia
+| location = Tomb of the Forgotten (Krokotopia)
+| subloc1 = Tomb of Night
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the fight in the Chamber of Phoebe, see {{Link|Creature|The Prophet (Chamber of Phoebe)}}
+
+| speech =
+:'''The Prophet:''' ''"Now, Wizard, let us make a deal. You seek to retrieve Ozzy from the Field of Reeds. We seek to bury him there for helping you thwart Spider."''
+:'''[[NPC:Pork|Captain Pork]]:''' ''"We had to thwart Spider for the good of everyone. The needs of the many outweigh the needs of the... you."''
+:'''The Prophet:''' ''"Shh! All we need is a path to the afterlife..."''
+:'''Captain Pork:''' ''"If you want to go to the afterlife, I will happily assist you. Let me set my dropkick to-."''
+:'''The Prophet:''' ''"Very kind of you, but no. I would much rather borrow the Wizard's method. It must be tied to those jars you're collecting. Give them to me! Of course you won't. Which is why we're here. This is the real trap. this room, built by Khonsu himself to enhance my dark powers. This is my arena of Shadow, overflowing with the power from which I am wrought; it feeds me, fuels me, frenzies me. I can feel the chaos of creation. I am the brilliant spontaneity of destruction. I am at last Vengeance for Grandfather Spider!"''
+
+| cheatnotes = 
+'''The Prophet'''
+*''"No Sanctuary in the Night."'' - At the beginning of the first Round and if a Wizard joins the duel late, The Prophet casts a negative version of {{Link|Spell|Acrimony}} on all Wizards that turns all incoming Healing into Damage for 99 Rounds. The Aura is applied twice, but the effects do not stack.
+**If a Wizard casts an Aura Spell on the first Round, one of the negative Auras will be replaced, and the Wizard will receive the effects of the remaining one, as well the one they cast, at the same time. This will change the 99 Round Aura timer to 4 Rounds to match the Wizard's Aura Spell, and all Aura effects will end once the timer expires.
+**Casting any Aura on any other turn will cause The Prophet to cast a no-Damage version of {{Link|Spell|Supernova}}, removing the Wizard's Aura, and then will recast this cheat on all  wizards.
+**The Aura does not convert healing received from drain spells
+'''Shadow Guardian'''
+*At the beginning of the first Round, both Shadow Guardians will cast a permanent version of {{Link|Spell|Shadow Sentinel}} which provides '''Intercept 90%''', '''+80''' Critical Block, and '''-30%''' incoming Damage.
+ 
+| spellnotes =
+
+| casts =
+Virulence;
+Weakness;
+Balanceblade;
+Vampire (Shadow);
+Lord of Night (Shadow);
+Scald (Shadow);
+Leviathan (Shadow);
+Poison;
+Winged Sorrow;
+Monster Mash (Tier 4a);
+
+| quests =
+Light and Night Fight;
+
+| gold =
+3 - 34;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Krok Chalkboard;
+Krok Tree Plaque;
+
+| cards =
+Gnomes!;
+Sabertooth;
+Skeletal Dragon;
+Sun Serpent;
+
+| reagents =
+Amber Dust;
+Iron;
+Merle's Whisker;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Cubby Broccoli;
+Kroklava;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

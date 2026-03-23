@@ -1,0 +1,319 @@
+{{Stub|which version of the '''''Mutate''''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 11,800
+| crecla = Plant
+| crecla2 = Treant
+| school = Life
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Snow Treant;
+
+| world = Polaris
+| location = Forlorn Tayg
+| subloc1 = Cold Clearing
+| descrip =
+
+| speech =
+:''"Isn't there anywhere an old Treant can go to rest on his roots? Who dares disturb the serenity of Snowbeard... you will suffer for it!"''
+
+| monstrotomedescrip =
+A frost-tinged beard is a symbol of pride for this treant.
+
+| summon_animus = 20
+| summon_gold = 1,000
+| guest_animus = 30
+| guest_gold = 2,500
+| can_expel = No
+
+| cheatnotes =
+*{{Icon|Blade}} Every fifth Round, he will use the Lifeblade Spell, then the Round after use the Lifeblade Treasure Card.
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Guidance;
+Lifeblade;
+Lifeblade*TC;
+Life Scarab;
+Luminous Weaver;
+Giant Spider;
+Natural Attack (Life 105-205-305);
+Goat Monk;
+Life Banshee (250);
+Hungry Caterpillar;
+Forest Lord;
+Spinysaur;
+
+| quests =
+Snowbeard;
+
+| gold =
+301 - 615;
+
+| hats =
+Bleaks Ushanka of Despair;
+Bleaks Ushanka of Pyres;
+Blizzardy Tundra Ushanka;
+Hailstorm Tundra Ushanka;
+Polarian Bleaks Ushanka;
+Sweltery Tundra Ushanka;
+The Enchanter*CR;
+The Goat Horns*CR;
+The Kroktop*CR;
+The Manticore*CR;
+The Stalwart Guardian*CR;
+The Stardust*CR;
+The Warlock*CR*F2;
+Tundra Ushanka of Loyalty;
+Tundra Ushanka of Survival;
+
+| robes =
+Blizzardy Tundra Pelage;
+Hailstorm Tundra Suit*F2*WMV;
+Tundra Coat of Sagacity;
+Tundra Garment of Loyalty;
+Tundra Jacket of Survival;
+Tundra Raiment of Mayhem;
+
+| boots =
+Bleaks Footgear of Pyres;
+Bleaks Mukluks of Frost;
+Bleaks Runners of Mischief*F2*WMV;
+Bleaks Trekkers of Vigor;
+Hailstorm Tundra Boots;
+Noble Bleaks Trackers;
+Sweltery Tundra Boots;
+Tundra Footwear of Loyalty;
+Tundra Walkers of Survival;
+
+| athames =
+Kossack Knife of Radiance;
+Urville Athame of Guile*F2*WMV;
+Urville Dagger of Flames*F2*WMV;
+Urville Edge of Snowgusts;
+Urville Knife of Elation*F3;
+Urville Kris of Wintertide;
+Urville Lancet of Anguish;
+Urville Spike of Honor;
+
+| amulets =
+Kossack Ampul of Purpose;
+Memento of the Frigid Maw;
+Urville Bauble of Flames*F2;
+Urville Charm of Snowgusts*F2*WMV;
+Urville Necklace of Honor;
+Urville Pendant of Elation*F3;
+Urville Relic of Wintertide;
+Urville Talisman of Guile;
+
+| rings =
+Chief Inspector's Signet;
+Inspector's Band of Shivers*F2*WMV;
+Inspector's Ring of Grief;
+Inspector's Scorched Ring;
+Inspector's Seal of Pluck;
+Iron Paw's Band of Clangor;
+Kossack Loop of Tempests;
+Kossack Ring of Counsel;
+Kossack Ringlet of Travail;
+Polarian Kossack Signet;
+
+| wands =
+Axe of Tundra Blizzards;
+Evoker's Baton of Acuity;
+Evoker's Ember Bodkin;
+Evoker's Gelid Wand;
+Evoker's Stalwart Stave;
+Polarian Tundra Bardiche;
+Tundra Axe of Hailstorms;
+Tundra Bardiche of Ferocity;
+Tundra Bardiche Sagacity*F2;
+Tundra Survival Hatchet;
+
+| decks =
+Deck of the Tundra Sage*F2;
+Evoker's Gelid Pasteboards;
+Hand of Tundra Blizzards;
+Polarian Tundra Spelldeck;
+Tundra Cards of Disarray;
+Tundra Deck of Swelters*F3*WMV;
+Tundra Gallery of Hailstorms*F3*WMV;
+Tundra Hand of Loyalty;
+Tundra Survivor's Pack*F4*WMV;
+
+| items =
+Arcanum Theme*F2;
+Medium Enchanted Pot*F2;
+Medium Pot*F2*WMV;
+Polaris Baba Yaga Theme;
+Polaris Frozen Combat Theme;
+Polaris Frozen Forest Theme;
+Polaris Gulag Combat Theme*F2;
+Polaris Gulag Theme;
+Polaris Ice Block Theme;
+Polaris Mine Combat Theme;
+Polaris Rasputin Combat Theme*F2;
+Small Enchanted Pot*F2*WMV;
+Small Pot;
+Walruskberg Liberated Theme*F2;
+Walruskberg Theme;
+
+| cards =
+Astraphobia*F2;
+Combustion;
+Counterforce;
+Fiery Colossus*F2;
+Frostfang;
+Katabatic Wind*F2;
+Magma Colossus;
+Mass Storm Prism;
+Mutate Colossus;
+Mutate Helephant;
+Namaste;
+Nested Fury;
+Raging Bull;
+Rusalka's Wrath*F2;
+Saga of Heroes*F2*WMV;
+War Helephant;
+Winged Sorrow;
+Witch's House Call*F2*WMV;
+
+| reagents =
+Aether*F4*WMV;
+Agave Leaves*F3*WMV;
+Agave Nectar*F2;
+Amber*F2;
+Amber Dust*F5*WMV;
+Ancient Scroll*F2*WMV;
+Aquamarine*F2;
+Astral Shard*F2*WMV;
+Black Pearl*F3*WMV;
+Braided Vine;
+Brass;
+Cobalt*F3*WMV;
+Draconium*F4*WMV;
+Ectoplasm*F3*WMV;
+Fire Blossom*F4;
+Golden Pearl*F9*WMV;
+Grendelweed*F5*WMV;
+Merle's Whisker*F3*WMV;
+Mithril*F3*WMV;
+Nickel;
+Ore*F2;
+Orichalcum*F2*WMV;
+Scales*F4;
+Silver*F2;
+Spider Silk*F4*WMV;
+Spring*F3*WMV;
+Stardust*F3;
+Steel*F6*WMV;
+Sunstone*F5*WMV;
+Tin*F3;
+Titanium*F2*WMV;
+Tungsten*F3;
+Turquoise*F6*WMV;
+Vine*F5*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F4*WMV;
+Chalupacabra*F2;
+Chili Cheese Fries*F2*WMV;
+Chili Peppers*F2;
+Delicious Cookie*F2;
+Eye Candy*F3*WMV;
+French Fries*F2;
+Gourmet Yogurt*F2;
+Hot Cross Buns;
+Huge Ice Cream*F2;
+Large Ice Cream*F2;
+Mustachios;
+Penne Dreadful*F2;
+Polaris Fries;
+Satyr Chow;
+Ships 'n' Queso*F4*WMV;
+Sprinkle Cupcake*F2*WMV;
+Submarine Sandwich*F2*WMV;
+Super Cold Popsicle;
+Veggie Juice*F3*WMV;
+
+| jewels =
+Lustrous Accurate Sapphire +11%;
+Lustrous Critical Opal +7;
+Lustrous Critical Sapphire +14;
+Lustrous Defense Onyx +48;
+Lustrous PIP Hematite +1;
+Polished Blocking Amethyst +11;
+Polished Defense Amethyst +41;
+Polished Defense Citrine +41;
+Polished Defense Peridot +42;
+Polished Health Opal +88;
+
+| pins =
+
+| pets =
+Arctic Ninja Pig*CR;
+Ice Bird*F2;
+Intrepid Seal Pup;
+Mountain Yeti*CR;
+Polar Bear Cub*CR;
+Snowball*CR;
+White Winter Owl;
+
+| seeds =
+Angel Oak*F3;
+Angora Bunny Ears;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Evil Snow Peas*F5;
+Fish on a Vine*F3;
+Frozen Fly Trap*F4*WMV;
+Golden Couch Potatoes;
+Goose Tree*F3*WMV;
+Green Snow Apples*F6*WMV;
+King Parsley*CR*F3*WMV;
+Moon Flower*F2*WMV;
+Ninja Fig*CR*F2*WMV;
+Purple Snow Apples*F3*WMV;
+Queen Crape Myrtle*F4*WMV;
+Red Huckleberries;
+Snow Apples*F5*WMV;
+Ultra Ninja Fig;
+Ultra Snow Apples*F3*WMV;
+White Desparagus;
+White Laugh-O-Dil;
+White Tiger Lily*F2;
+
+| mounts =
+
+| spells =
+
+}}

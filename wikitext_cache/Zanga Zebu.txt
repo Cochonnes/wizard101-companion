@@ -1,0 +1,159 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,015
+| crecla = Undead
+| crecla2 = Zebra
+| crecla3 = Equine 
+| school = Ice
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Zafaria
+| location = Zamunda
+| subloc1 = King's Tomb
+| descrip =
+Zanga Zebu is one of the oldest kings of Zamunda. His grave was robbed by {{Link|NPC|Tse-Tse Snaketail}}, whose actions corrupt the Zebra King, forcing Zebu's spirit to attack the Wizard.
+
+| speech =
+:''"You trespass in the halls of the Zebra Kings of old. You treacherous jackal, I will destroy you!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Zafaria
+| tome description =
+One of the oldest kings of Zamunda, his spirit can not rest until his grave has been restored.
+
+| extract class =
+Equine;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals ~90 Ice Damage per Pip.
+
+| casts =
+Stun Block;
+Iceblade;
+Ice Prism;
+Ice Trap;
+Freeze;
+Thieving Dragon;
+Blizzard;
+Ice Wyvern;
+Frostbite;
+Colossus;
+Tundra Lord;
+
+| quests =
+Tomb of the Zebra Kings;
+
+| gold =
+44 - 55;
+
+| hats =
+Cold At Night Cover*F2;
+Elephant Graveyard Shroud*F3;
+
+| robes =
+Big Sky Outfit*F3;
+Jacket of No Worries*F2*WMV;
+
+| boots =
+Ananse's Dark Rangers*F3*WMV;
+Shaman's Cold River Wraps*F2*WMV;
+
+| athames =
+Savannah Spike*F6*WMV;
+
+| amulets =
+Pendant of Baobab's Light*F6*WMV;
+
+| rings =
+Shaka's Lightning Loop*F3*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Empower*F5*WMV;
+Frozen Armor*F5*WMV;
+Gargantuan*F5*WMV;
+Legion Shield*F7*WMV;
+Unstoppable*F7*WMV;
+
+| reagents =
+Bronze*F2;
+Cobalt;
+Ectoplasm*F4*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2;
+Glowing Star Fruit*F2;
+Glowing Taffy;
+Jelly Baby;
+Spicy Drumstick;
+Strawberry Cupcake*F2*WMV;
+Submarine Sandwich;
+
+| jewels =
+Baffle Opal;
+Life-Eye Jade;
+Opaque Accurate Peridot +8%;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Burning Snap Dragon;
+Evil Snow Peas;
+Helephant Ears;
+Orange Bell Pepper*CR*F2;
+Red Bell Pepper;
+Rye Bread Fruit Bush;
+Snap Dragon;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

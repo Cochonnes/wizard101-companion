@@ -1,0 +1,214 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 4,620
+| crecla = Krokotopian
+| school = Storm
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Myth;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Ravenous Tooth (Life);
+Ravenous Tooth (Life);
+Ravenous Tooth (Life);
+
+| world = Krokotopia
+| location = Lower Zigazag
+| subloc1 = Tent of Moh'Lharz
+| descrip =
+The three Minions for this Boss are random. They include any combination of {{Link|Creature|Ravenous Tooth (Death)}} and {{Link|Creature|Ravenous Tooth (Life)}}.
+
+| speech =
+:''"You heard Master Apep!  Ravenous Teeth, gnaw the Wizard to pieces!  Just make sure you save the last bite for Apep!"''
+
+| cheatnotes =
+{{Icon|Round}} '''Cycle''':
+*''"The greater the tooth, the greater the bite!"'' - At the end of every Round (except every fourth Round), Moh'Lharz will cast {{Link|TreasureCard|Leviathan}} dealing 1,135 Storm Damage on a random Wizard.
+*''"This will chew you down to size!"'' - At the end of every second Round, Moh'Lharz will cast {{Link|TreasureCard|Stormzilla}} dealing 775-835 Storm Damage on a random Wizard.
+
+| spellnotes =
+
+| casts =
+Infallible;
+Lightning Strike;
+Stormblade;
+Supercharge;
+Storm Prism;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 125-245-365);
+Triton;
+Storm Lord;
+
+| quests =
+Take A Bite Out Of Crime;
+
+| gold =
+60 - 217;
+
+| hats =
+Anubis' Crown of Guidance;
+Anubis' Crown of Judgment;
+Anubis' Crown of Rebirth;
+Cold Bones Headdress;
+Crown of the Ancient Sage;
+Crown of the Fire Sands;
+Hands of Anubis Mantle*F2*WMV;
+Headdress of Sandsqualls*F2*WMV;
+Headgear of Dune Storms;
+Soul Devourer's Greathelm*F2;
+
+| robes =
+Ancient Rebus Vestment;
+Anubis' Tunic of Judgment;
+Dune Storm Armor*F2;
+Hands of Anubis Uniform*F4*WMV;
+Robes of the Frozen Desert;
+Soul Devourer's Tunic;
+
+| boots =
+Ancient Rebus Sandals;
+Boots of the Burning Scales*F3;
+Boots of the Frozen Desert;
+Cold Bones Footwraps;
+Desert Rain Mukluks*F2;
+Hands of Anubis Boots*F2;
+Shoes of Anubis' Judgment*F2;
+Soul Devourer's Footwraps;
+
+| athames =
+
+| amulets =
+Ancient Hieroglyph Relic;
+Hands of Anubis Pendant;
+Izft's Vial of Restoration*F2*WMV;
+Jewel of Anubis' Judgment;
+Medallion of Lower Zigazag;
+Memento of Ammit's Revolt;
+Necklace of Upper Zigazag*F2*WMV;
+Phylactery of the Wicked;
+Pit Viper's Carcanet;
+Relic of the Brisk Breeze;
+Scales of Justice Charm*F2;
+
+| rings =
+Hands of Anubis Ring;
+Rebus Seal;
+Ring of the Simmering Evil;
+
+| wands =
+Stave of the Devoured;
+
+| decks =
+Case of the Virtuous Soul;
+Upper Zigazag Arcana;
+
+| items =
+Stone Skeleton Key*CR*F2*WMV;
+
+| cards =
+Efreet*F3*WMV;
+Fire Serpent*F4*WMV;
+Krokotillian*F3*WMV;
+Locust Swarm*F3*WMV;
+Ra*F5*WMV;
+Scarab*F3*WMV;
+Scorpion*F5*WMV;
+Stone Colossus*F6*WMV;
+Sunbird*F4*WMV;
+
+| reagents =
+Amber Dust;
+Bone;
+Brass*F2*WMV;
+Bronze Gear*F3*WMV;
+Cobalt*F2*WMV;
+Copper;
+Ectoplasm*F5*WMV;
+Leather Straps*F2*WMV;
+Merle's Whisker;
+Nickel;
+Spider Silk*F5;
+Tin*F3;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Cheese Broccoli*F2*WMV;
+Chocolate Strawberry*F2;
+Cracker*F2;
+Glowing Star Fruit*F2;
+Green Grapes*F4*WMV;
+Gummy Firecat*F3*WMV;
+Kola Nuts;
+Nettle Root;
+Sugar Donut*F3*WMV;
+Tiny Fish*F6*WMV;
+
+| jewels =
+Blemished Damage Citrine +12;
+Blemished Damage Jade +12;
+Blemished Damage Peridot +12;
+Blemished Damage Sapphire +12;
+Blemished Defense Citrine +24;
+Dull Blocking Jade +4;
+Dull Blocking Onyx +4;
+Dull Blocking Sapphire +3;
+Dull Blocking Sapphire +4;
+Dull Critical Citrine +4;
+Dull Damage Amethyst +13;
+Dull Damage Peridot +13;
+Dull Defense Opal +13;
+Dull Defense Opal +14;
+Helephant Ruby;
+Stormzilla Amethyst;
+Ultra Mute Opal;
+Wraith Onyx;
+
+| pins = 
+
+| pets =
+Firestorm Quetzal*F3*WMV;
+Whirlwind Grimoire*F5*WMV;
+
+| seeds =
+Baby Carrots;
+Burning Snap Dragon;
+Deadly Fly Trap;
+Fickle Pickle;
+Helephant Ears;
+Orange Bell Pepper*CR*F2;
+Red Bell Pepper;
+Rye Bread Fruit Bush;
+Venus Fly Trap;
+White Laugh-O-Dil*F2*WMV;
+White Tiger Lily*F2;
+
+| mounts =
+
+| spells =
+
+}}

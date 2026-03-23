@@ -1,0 +1,114 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 770
+| crecla = Giant
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Ice;
+
+| incresist =
+50% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Twisted Kin (Tier 1);
+Twisted Kin (Tier 1);
+Twisted Kin (Tier 1);
+
+| world = Housing Instance
+| location = Baddle of the Bands
+| subloc1 = Baddle of the Bands (Tier 1)
+| descrip =
+
+| speech =
+:''"A challenger for the crown of rock? Meet the bad boys of rock'n'roll. You're so condescending, and your gall is never ending. If that's your best, Wizard, your best won't do. We're not gonna take it! Are you listening to me, Wizard? What do you want to do with your life!?"''
+
+| spellnotes =
+
+| casts =
+Fireblade;
+Fire Trap;
+Fire Cat;
+Fire Bats (190-230);
+Natural Attack (Fire 120-235-350);
+
+| quests =
+Baddle of the Bands;
+
+| gold =
+10 - 49;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Battle Standard*CR;
+Broken Plank Pieces*F2;
+Dragonspyre Platform;
+Rock Chunk;
+Stone Fragment;
+Stone Plinth*F2;
+
+| cards =
+
+| reagents =
+Acorn;
+Deep Mushroom;
+Mist Wood*F3;
+Nightshade*F2;
+Pyrite*F2;
+Stone Block*F2;
+
+| spellements =
+
+| snacks =
+Cracker;
+Green Grapes;
+Nettle Root*F2;
+
+| jewels =
+Cracked Defense Citrine +6;
+Cracked Defense Ruby +5;
+Cracked Defense Sapphire +4;
+
+| pins =
+
+| pets =
+
+| seeds =
+Dandelion;
+
+| mounts =
+
+| spells =
+
+}}

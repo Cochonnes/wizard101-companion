@@ -1,0 +1,157 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,680
+| crecla = Raven
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Coven Initiate;
+
+| world = Grizzleheim
+| location = Ravenscar
+| subloc1 = Coven House
+| descrip =
+Two additional Coven Initiate Minions appear if more than two Wizards are present.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Myth Shield;
+Sprite;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Shark;
+Kraken;
+Stormzilla;
+Tempest;
+Vampire;
+Heck Hound;
+
+| quests =
+Blood Brother;
+
+| gold =
+62 - 110;
+
+| hats =
+Cap of Cessation*F2*WMV;
+Coif of the Antithesis;
+Conflagrant Hat*F4*WMV;
+Frost-Peaked Cap;
+Insulated Helm;
+Tranquil Topper*F7*WMV;
+Vigorous Hood;
+
+| robes =
+Jerkin of the Seer;
+Lifeweave Robe*F2*WMV;
+Longcoat of the Ice Floes;
+Raiment of Lamentation;
+Robe of the Raging Fire;
+Savant's Robe*F6*WMV;
+
+| boots =
+Boots of the Vortex;
+Sandals of the Shibboleth;
+Sapient Walkers;
+Winterweave Footgear;
+Wraps of the Wolverine*F6*WMV;
+
+| athames =
+Bear's Claw of Ice*F4;
+Blade of Symmetry*F3*WMV;
+Bodkin of Battlefrenzy;
+
+| amulets =
+Tricksy Dragon Charm*F4*WMV;
+
+| rings =
+Band of the Snow Owl*F3*WMV;
+Seal of Wholeness*F8*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Jar of Bat Wings*F5*WMV;
+Raven Brazier;
+
+| cards =
+Cloak;
+Colossus;
+Helephant;
+Hydra;
+Ice Wyvern*F2*WMV;
+Monstrous;
+Scarecrow;
+Tough;
+
+| reagents =
+Bone*F7*WMV;
+Bronze Gear*F6*WMV;
+Cobalt;
+Iron*F2*WMV;
+Lead;
+Nickel*F2*WMV;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Crunch Apple*F3*WMV;
+Fire Cracker;
+Glowing Rock Candy*F6*WMV;
+Golden Apple*F2;
+Moon Pie*F3*WMV;
+Swirled Lollipop;
+
+| jewels =
+Chipped Accurate Jade +3%;
+Cracked Damage Onyx +5;
+Chipped Damage Opal +4;
+Cracked Damage Sapphire +5;
+Cracked Defense Peridot +11;
+Darkwind Amethyst;
+Minotaur Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Evil Snow Peas;
+Orange Dandelion*F3*WMV;
+Pink Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

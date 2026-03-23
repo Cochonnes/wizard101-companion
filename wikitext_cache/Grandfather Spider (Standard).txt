@@ -1,0 +1,88 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 50,000
+| crecla = Spider
+| school = Shadow
+| shadowpips = 7
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Bort Shadowmane (Standard);
+Shadowbones (Standard);
+Shadowwock (Standard);
+
+| world = Housing Instance
+| location = Grandfather Spider Rematch
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

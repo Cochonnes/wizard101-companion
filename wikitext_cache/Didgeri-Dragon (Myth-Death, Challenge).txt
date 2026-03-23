@@ -1,0 +1,112 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 48,935
+| crecla = Wyrm
+| school = Myth
+| school2 = Death
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Myth;
+
+| critical =
+857;
+
+| criticalblock =
+691;
+
+| outpierce =
+47%;
+
+| outboost =
+184%;
+
+| incboost =
+None
+
+| incresist =
+28% Myth;
+48% Fire, Ice, Storm, Life, Balance, Sun, Moon, Star, Shadow;
+68% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Wallaru
+| location = The Dreaming
+| subloc1 = Nightmare (Challenge)
+| descrip =
+Didgeri-Dragon is one of the second-stage bosses Wizards face in the Nightmare dungeon. Once Wizards defeat the Didgeri-Dragon, they must collect the token it drops, remember the animal that appears on the token, and turn the wheel at the start of the maze to match the animal. The other wheel must also be turned to match this Creature's secondary school. When both of the wheels are in the correct position, the pumps may be turned on to start the next phase of the maze. If a Wizard attempts to turn on the pumps before the two wheels are in the correct positions, Didgeri-Dragon will respawn. Besides the token, this Creature has no drops.
+
+There are five challenge variations of this boss, and all of them are Myth with a different secondary school:
+*{{Link|Creature|Didgeri-Dragon (Myth-Death, Challenge)}}
+*{{Link|Creature|Didgeri-Dragon (Myth-Fire, Challenge)}}
+*{{Link|Creature|Didgeri-Dragon (Myth-Ice, Challenge)}}
+*{{Link|Creature|Didgeri-Dragon (Myth-Life, Challenge)}}
+*{{Link|Creature|Didgeri-Dragon (Myth-Storm, Challenge)}}
+*For [[Location:Nightmare (Standard)|Standard mode]] versions of this Creature, see {{Link|Creature|Didgeri-Dragon}}.
+
+| speech =
+
+| cheatnotes =
+{{Icon|Shield}}'''Cheat Cycle''' (Resets every 3{{Icon|Round}})
+*''"ROAR!"'' - At the start of the first Round and every three Rounds after, Didgeri-Dragon casts a -25% Tower Shield.
+*''"ROOOOAAAAR!"'' - At the start of the second Round and every three Rounds after, Didgeri-Dragon casts a -50% Tower Shield.
+*''"ROOOOAAARRRRR!"'' - At the start of the third Round and every three Rounds after, Didgeri-Dragon casts a -90% Tower Shield.
+
+| spellnotes =
+
+| casts =
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Didgeri-Dragon
+}}

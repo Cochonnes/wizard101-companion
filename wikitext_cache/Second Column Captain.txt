@@ -1,0 +1,183 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 16,450
+| crecla = Mantis
+| crecla2 = Insect
+| school = Life
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+First Scythe;
+First Scythe;
+
+| world = Khrysalis
+| location = Sardonyx
+| subloc1 = Diabolica Garrison
+| descrip =
+
+| speech =
+:''":Krrrk: Fifth Column rebels in the Diabolica Garrsion? That just makes it easier to cross you off my list!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+She has a rather grim to-do list. And her grocery list isn't much better.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Mend;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Natural Attack (Life 108-200-295);
+Goat Monk;
+Centaur (610-670);
+Bronze Helephant;
+Gnomes!;
+Spinysaur;
+
+| quests =
+Garrison;
+
+| gold =
+197 - 229;
+
+| hats =
+Burrower's Barbed Helmet;
+Mantis Cover of Frostfall;
+
+| robes =
+Mantis Robe of Secrecy*F2;
+
+| boots =
+Burrower Scout's Hoppers*F3*WMV;
+CloudDancer's Footwraps;
+Flame Legs Captain's Boots*F4*WMV;
+Mantis Boots of Patience;
+
+| athames =
+Blue Razor Hailstone Blade*F2;
+Hisser's Burning Cleaver*F3*WMV;
+
+| amulets =
+Benzzi's Campaign Memento;
+Collar of the Besieged*F2*WMV;
+Mantis Prophet's Ornament*F2*WMV;
+
+| rings =
+
+| wands =
+Dirk of Burrower Harmony;
+Halberd of Fulmination;
+Spear of Cold Truth;
+Stave of Duststorms*F2;
+Umbra Spear of Suppression;
+
+| decks =
+Bumbler's Sleetfall Pack;
+Case of Engulfing Flames;
+
+| items =
+Khrysalis Combat Theme 2*F3*WMV;
+Khrysalis Desert Shadows Theme*F2;
+Khrysalis Hive Combat Theme*F2;
+
+| cards =
+Avenging Fossil*F2;
+Chastisement;
+Cycle of Life;
+O'Leary Swindler;
+Polar Swarm;
+Reliquary;
+Spinysaur;
+Sprite Swarm (40+360)*F3;
+Virulence;
+
+| reagents =
+Astral Shard*F3*WMV;
+Black Lotus;
+Black Pearl*F3*WMV;
+Blood Moss;
+Bone*F2*WMV;
+Bronze Gear*F3*WMV;
+Copper;
+Deep Mushroom*F6*WMV;
+Fire Blossom;
+Golden Pearl*F2;
+Lava Lily*F4*WMV;
+Mist Wood*F4*WMV;
+Ore*F4*WMV;
+Orichalcum;
+Red Mandrake*F3*WMV;
+Stone Block*F4*WMV;
+Sunstone;
+Titanium;
+Turquoise*F2*WMV;
+
+| spellements =
+
+| snacks =
+Dr. Jalapeno*F3*WMV;
+Flapjacks*F3;
+Glowing Dragon Fruit*F2*WMV;
+Golden Apple;
+Gummy Humongofrog;
+Honeycrisp Apples;
+HoneyDon't Melon;
+King Banana;
+
+| jewels =
+Clear Blocking Opal +5;
+Cracked Defense Citrine +12;
+Polished Defense Ruby +42;
+Polished PIP Opal +9%;
+Scarab Citrine;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Queen Crape Myrtle;
+
+| mounts =
+
+| spells =
+
+}}

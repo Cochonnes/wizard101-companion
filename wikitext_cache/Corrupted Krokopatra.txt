@@ -1,0 +1,109 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 4,940
+| crecla = Krokotopian
+| school = Storm
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Ice, Death;
+
+| incresist =
+30% Fire, Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Halls of Taweret
+| subloc1 = Memory of Galkoth
+| descrip =
+*Defeating Corrupted Krokopatra is part of the Adept Balance Weaving quest, ''"Friends of the Fang"''. Wizards can also defeat Corrupted Krokopatra twice as one of their Balance Weaving lessons, which awards the badge, [[Basic:Balance Weaving Badges|Hero of Past and Present]].
+
+| speech =
+:'''Corrupted Krokopatra''': ''"IIIIIIII... muuuuuuuuusssssssssssttttttttttt... beeeeeeeee... freeeeee..."''
+:'''{{Link|NPC|Galkoth}}''': ''"What has happened to you..."''
+:'''Corrupted Krokopatra''': ''"I MUST BE FREE!"''
+
+| spellnotes =
+
+| casts =
+Weakness;
+Sprite;
+Balanceblade;
+Lightning Bats (Tier 2b);
+Beary Surprise (Tier 2b);
+Catch of the Day (Tier 5b);
+Catalan (Tier 5a);
+Thermic Golem (Tier 5b);
+Triton (Tier 2b);
+
+| quests =
+Not-Yo-Patra;
+Friends of the Fang;
+
+| gold = 
+1 - 32;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Minotaur Gold Idol (Balance)*F3*WMV;
+Weft Yarn @ 10 Weft Yarn;
+Weft Yarn @ 55 Weft Yarn;
+Weft Yarn @ 60 Weft Yarn*F2*WMV; 
+Weft Yarn @ 65 Weft Yarn*F2*WMV; 
+Weft Yarn @ 100 Weft Yarn*F2*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

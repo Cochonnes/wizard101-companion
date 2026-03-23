@@ -1,0 +1,102 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 4,800
+| crecla = Fairy
+| school = Life
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+6%;
+
+| outboost =
+50%;
+
+| incboost =
+10% Myth, Balance;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Rattlebones Master Challenge
+| subloc1 = 
+| descrip =
+*This Boss is considered a Minion to {{Link|Creature|Rattlebones (Rank 7)}}. All drops and cheats should be recorded on that page.
+*Has an unknown Outgoing Healing boost.
+
+| speech =
+
+| spellnotes =
+*Casts a Satyr which restores 1,075 Health.
+*Casts a version of Sprite Trap which places a {{Link|Spell|Death Trap}} on all Wizards, despite the Spell card's description.
+
+| casts =
+Cycle of Life;
+Brilliant Light;
+Satyr (990);
+Rebirth;
+Feyblade (Death);
+Sharpened Feyblade;
+Curse;
+Natural Attack (Life 300);
+Sprite Trap (300);
+Centaur;
+Poison (45+450);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Fairy Queen (Duel)
+}}

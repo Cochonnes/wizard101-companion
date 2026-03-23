@@ -1,0 +1,181 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,700
+| crecla = Beastmoon Creature
+| school = Death
+| startpips = 3
+| powerpips = 
+| critical =
+
+| criticalblock = 
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Avalon Battlegrounds
+| location2 = Arena
+| subloc2 = Mirage Battlegrounds
+| descrip =
+Hurling Durvish is one of the Boss monsters that can be encountered during the third Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events. They will have 1 random Rank 3 Elite Stage 3 monster and 2 random Rank 2 Stage 3 monsters present to assist them.
+
+
+'''Potential Rank 2 Elemental Avalon Minions:'''
+*{{Link|Creature|Arctic Warrior}}
+
+'''Potential Rank 2 Spirit Mirage Minions:'''
+*{{Link|Creature|Baboon Goon}}
+*{{Link|Creature|Desert Beetle}}
+*{{Link|Creature|Mongu Gasher}}
+*{{Link|Creature|Stasis Eel}}
+
+'''Potential Rank 3 Balance Elite Minions:'''
+*{{Link|Creature|Scrutinizer}}
+
+'''Potential Rank 3 Elemental Elite Avalon Minions:'''
+*{{Link|Creature|Whirlwind Seraph}}
+
+'''Potential Rank 3 Spirit Elite Mirage Minions:'''
+*{{Link|Creature|Carrion Craver}}
+*{{Link|Creature|Silt Elemental}}
+*{{Link|Creature|Trengil Burrower}}
+
+
+| speech =
+
+| spellnotes =
+*Casts a version of Grasping Ghost that applies a +150 Damage Trap.
+*It is currently unknown whether the steal effect of Pluto occurs.
+*Casts a 225 Steal version of Moongloam Wraith.
+*Casts a 4-Pip version of Confounding Fiend.
+**It is currently unknown whether the clear Charm effect occurs.
+
+| casts =
+Siphon Strength;
+Grasping Ghost;
+Pluto;
+Festering Wound;
+Moongloam Wraith;
+Confounding Fiend;
+
+| quests = 
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 9 - 30 Lunari.
+
+| gold =
+93 - 102;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone*F2;
+Balance Rune*F4*WMV;
+Balance Thread;
+Colossus Idol (Life);
+Cyclops Idol (Balance);
+Cyclops Idol (Death);
+Cyclops Idol (Life);
+Cyclops Idol (Myth);
+Death Moonstone;
+Eldritch Thread@ 2 Eldritch Thread;
+Elf Idol (Balance);
+Elf Idol (Life);
+Enhanced Balance Rune;
+Fairy Idol (Balance)*F2;
+Fairy Idol (Death);
+Fire Moonstone*F2*WMV;
+Fire Thread;
+Hunter's Moonstone*F6;
+Hunter's Moonstone @ 2 Hunter's Moonstone*F5;
+Krokomummy Idol (Death);
+Krokomummy Idol (Life);
+Life Moonstone;
+Life Rune*F2*WMV;
+Life Thread*F3*WMV;
+Myth Moonstone*F2*WMV;
+Myth Rune*F2*WMV;
+Myth Thread*F3;
+Rat Thief Idol (Death);
+Rat Thief Idol (Life);
+Rat Thief Idol (Storm);
+Spirit Moonstone*F6*WMV;
+Storm Moonstone;
+Storm Thread;
+Wolf Warrior Idol (Balance)*F2;
+Wolf Warrior Idol (Death);
+
+| spellements =
+Crimson Phantom*F6;
+Golem\: Taunt*F3;
+Inferno Salamander;
+Infestation;
+Iron Curse*F3;
+Judgement;
+Legend Golem*F5;
+Monster Mash*F2;
+Obsidian Colossus;
+Poison;
+Regenerate*F2;
+Sprite Swarm*F3;
+Thermic Golem;
+Thieving Dragon;
+Vermin Virtuoso;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Beastmoon Seed;
+
+| mounts =
+
+| spells =
+
+| recipes =
+7 Golem\: Taunt Spellements;
+7 Humongofrog Spellements;
+7 Legend Golem Spellements;
+7 Mutate Golem Spellements;
+7 Poison Spellements;
+
+}}

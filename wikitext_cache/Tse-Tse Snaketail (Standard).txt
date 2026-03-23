@@ -1,0 +1,145 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 10,000
+| crecla = Zebra
+| school = Storm
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+27%;
+
+| incboost = 
+
+| incresist = 
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+Starburst Spider (Standard);
+Goliath Bruiser (Standard);
+
+| world = Housing Instance
+| location = Tse Tse Rematch
+| descrip =
+*As the primary boss in this battle, all drops should be recorded on this page.
+*For the Challenge version of this battle, see {{Link|Creature|Tse-Tse Snaketail (Challenge)}}.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Polymorph}} ''"I am the master of disguise!"'' - At the end of the 1st round, Snaketail will Polymorph into one of the following listed below:
+
+{{Icon|Polymorph}}'''{{Link|Polymorph|Tim-tim Snakeeye (Standard)}}''' - Elephant Polymorph Transformation
+* After Polymorphing, he will cast an Aura that limits incoming damage on himself to a max of 100 for 99 Rounds.
+** This aura will be cast again if a wizard attempts to replace it with a negative aura. However, if he removes it by using another aura such as {{Link|Spell|Galvanic Field}}, the effects of the aura will be removed and will not be recast.
+*''"An elephant never forgets, do you?"'' - At the beginning of the 2nd round, and every 2 rounds after, Snakeeye will cast 3 Blades of different Schools on himself. This indicates the order of which schools attacks he will need to be hit by.
+**The progress made into finishing the 3 hits will not be reset when Snakeeye recasts the Blades every 2 rounds.
+*''"You Remembered!"'' - Snakeeye will say this after each successful hit in the code.
+*''"Your memory is perfect!"'' - After getting the code correct, Snakeeye will replace his damage limit aura with a {{Link|Spell|Frenzy}}.
+
+{{Icon|Polymorph}} '''{{Link|Polymorph|Tom-tom Snakeskin (Standard)}}''' - Rhino Polymorph Transformation
+*''"This is gonna hurt!"'' - At the beginning of the round after Snaketail revived, he will cast a '''+15%''' version of {{Link|Spell|Supercharge}}, a {{Link|Spell|Supercharge}} and '''+35%''' {{Link|Spell|Stormblade}} on himself.
+**''"Charge!"'' - At the end of the round where the above cheat is used, Snaketail will cast No Dispel version of {{Link|Spell|Storm Owl (Tier 5a)}}
+
+{{Icon|Polymorph}} '''{{Link|Polymorph|Tik-tik Snaketongue (Standard)}}''' - Lion Polymorph Transformation
+*''"Just a little catnap..."'' - Casts a version of {{Link|ItemCard|Cat Nap}} that restores 100% max health. ''Needs confirmation of triggers.''
+
+{{Icon|Polymorph}} '''{{Link|Polymorph|Tse-Tse Snaketail (Standard)}}''' - Spider Polymorph Transformation
+*This Polymorph only lasts 3 rounds, and each round Snaketail will cast a {{Link|Spell|Shadowblade}} which stacks.
+*''"The Shadow Queen sends her regards!"'' - At the end of the third round after the Spider Polymorph was activated, Snaketail will cast {{Link|Spell|Dark Fiend}} and will use a 100% Max Health version of {{Link|Spell|Sacrifice}} on himself.
+
+| spellnotes =
+
+| casts =
+Stormspear;
+Stormblade (+30%);
+Elemental Blade;
+Catch of the Day (Tier 5b);
+Morganthe's Angst;
+Stormwing (Tier 5a);
+Stormzilla (Tier 5b);
+Sirens (Tier 5b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Umbra Queen's Chill Dirk (Level 170+);
+Umbra Queen's Dusty Dirk (Level 170+);
+Umbra Queen's Furious Dirk (Level 170+);
+Umbra Queen's Grim Dirk (Level 170+);
+Umbra Queen's Scorched Dirk (Level 170+);
+Umbra Queen's Shocked Dirk (Level 170+);
+Umbra Queen's Wild Dirk (Level 170+);
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Umbra Queen's Chill Cards (Level 170+);
+Umbra Queen's Dusty Cards (Level 170+);
+Umbra Queen's Furious Cards (Level 170+);
+Umbra Queen's Grim Cards (Level 170+);
+Umbra Queen's Scorched Cards (Level 170+);
+Umbra Queen's Shocked Cards (Level 170+);
+Umbra Queen's Wild Cards (Level 170+);
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Shadow Webbing @ 10 Shadow Webbing;
+
+| spellements =
+Efreet;
+Forest Lord;
+Leviathan;
+Medusa;
+Ra;
+Rebirth;
+Skeletal Dragon;
+Snow Angel;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Tse-Tse Snaketail
+}}

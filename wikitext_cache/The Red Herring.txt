@@ -1,0 +1,125 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 24,140
+| crecla = Golem
+| school = Storm
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+35%;
+
+| outboost =
+209%;
+
+| incboost =
+None;
+
+| incresist =
+16% Ice, Death;
+36% Storm, Myth, Balance;
+56% Fire, Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Raid
+| location = Ghastly Conspiracy
+| badge = Solved the Case, Despite Red Herring
+| descrip =
+The Red Herring is the optional Boss of the {{Link|Location|Ghastly Conspiracy}} Raid, accessed by using Photomancy on all 5 pieces of Red Herring Graffiti found throughout the Raid.
+*Summoning The Red Herring grants the "[[Basic:Badges|Found the Red Herring]]" Badge.
+
+| speech =
+:''"Seems you were led astray by... The Red Herring!"''
+
+| cheatnotes =
+* The inspired cast spells obtained from the 4 bosses surrounding Mr. Ghastly are also sent to The Red Herring's fight.
+* ''"Only one school can hurt me. But which one? And why?"'' - At the beginning of the first Round, The Red Herring will cast a Quasi-Invulnerability Aura, making him immune to six of the seven main Schools. The School he is vulnerable to is random.
+** At the end of each of the first 6 turns after he casts his Quasi-Invulnerability Aura, The Red Herring will shout out one of the following phrases, each phrase informing Wizards of which Schools of Damage he is immune to. The phrase he does not shout out is the School he is vulnerable to:
+*** {{Icon|Fire}} ''“I’m steaming mad right now!”'' - The Red Herring is immune to Fire Damage.
+*** {{Icon|Ice}} ''“Play it cool. You’ll figure it out.”'' - The Red Herring is immune to Ice Damage.
+*** {{Icon|Storm}} ''“Even the fish of the seas fear the tempest.”'' - The Red Herring is immune to Storm Damage.
+*** {{Icon|Myth}} ''“I sure hope you don’t CONJURE the solution…”'' - The Red Herring is immune to Myth Damage.
+*** {{Icon|Life}} ''“What is the secret of Life?”'' - The Red Herring is immune to Life Damage.
+*** {{Icon|Death}} ''“I have a sudden fear of my own mortality!”'' - The Red Herring is immune to Death Damage.
+*** {{Icon|Balance}} ''“I hate sand. Too dry."'' - The Red Herring is immune to Balance Damage.
+* ''"Wrong! Oh, were you misled by a... Red Herring?"'' - If The Red Herring is hit by Damage from a School he is immune to, he will say this and cheat cast a Shadow-Enhanced AOE based on the School he was hit with on all Wizards.
+* ''"Really? Of course I thought of that. Reset!"'' - If a Dispel is cast on The Red Herring or The Red Herring's Quasi-Invulnerability Aura is removed, The Red Herring will remove all negative Charms from himself, cast a new Quasi-Invulnerability Aura, and cheat-cast a version of Glowbug Squall that deals Damage equivalent to 50% of all Wizards' maximum Health.
+* ''"You are late. How embarrassing. "'' - If a Wizard joins after the first turn, The Red Herring will cheat cast a version of Storm Shark that deals Damage equivalent to 25% of that Wizard's maximum Health.
+
+| spellnotes =
+*This boss casts a version of Tempest that costs 4 Pips.
+*This boss casts a version of Storm Lord that doesn't Stun.
+
+| casts =
+Attenuate;
+Stormblade;
+Elemental Blade;
+Tempest (4 Pip);
+Storm Lord;
+
+| quests =
+
+| dropnotes =
+All 8 Wizards in the Raid receive the drops, not just the ones within the battle.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Pip Gift;
+Pop Pip;
+School Supplies;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| elixirs =
+Crafting Elixir;
+Energy Elixir;
+Hatching Elixir;
+Triple Animus Elixir;
+
+}}

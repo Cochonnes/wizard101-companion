@@ -1,0 +1,290 @@
+{{Stub|which versions of the ''{{Link|TreasureCard|Shatter}}'' and ''{{Link|TreasureCard|Enfeeble}} Treasure Cards'' this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 18,920
+| crecla = Spider
+| crecla2 = Undead
+| school = Ice
+| masteries =
+Death;
+
+| cheats = Yes
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Crypt Spider
+
+| summons =
+Crypt Spider;
+
+| world = Khrysalis
+| location = Tyrian Gorge
+| subloc1 = Abyssal Cave
+| descrip =
+If Wizards go to the location Atlach-Leng spawns at before freeing the Mantis remains, the Duel Circle will pull you in, and you have to log out to get out. (This is likely a bug)
+
+| speech =
+:''"A dream of Light comes here, to these plumbless depths. A Light in the dark. A child under an endless, starless sky. I was here before the First World was broken. Ever since Grandmother Raven locked the shadows away. I am named Atlach-Leng: Web Maker, Light Drinker, Ghost Spider. Is it time to shake off the chains of sleep, to stretch my web to the world above, to drink deep of the hot, salty blood?"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+Ancient, undead and super creepy. Their name roughly translates to: "Nightmare Fuel".
+
+| extract class =
+Spider;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Minion}} ''"Fear the Children of Leng!"'' -  After two rounds, he will begin summoning one Crypt Spider every other Round.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Ice Damage.
+
+| casts =
+Shadow Sentinel MOB;
+Fortify;
+Infallible;
+Tower Shield;
+Volcanic Shield;
+Legion Shield (-35%);
+Plague (-25%);
+Death Trap (+35%);
+Doom and Gloom;
+
+| quests =
+Abyssal Cave;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*12 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+| gold =
+254 - 911;
+
+| hats =
+Burrower's Barbed Helmet*F2;
+Burrower's Rainstorm Cap*F3;
+Gloom Dancer's Shroud*F5*WMV;
+Kermes Fire Miner's Helmet*F2;
+The Alchemist*CR*F2*WMV;
+
+| robes =
+Digger's Mining Vestment*F4*WMV;
+
+| boots =
+Besieged Burrower Footgear*F6*WMV;
+CloudDancer's Footwraps*F2*WMV;
+Flame Legs Coalwalkers*F2*WMV;
+Mantis Boots of Patience*F2;
+
+| athames =
+Talon of the Flame Legs*F2*WMV;
+
+| amulets =
+Memento of the Moon Cliffs*F3*WMV;
+
+| rings =
+First Scythe's Ringlet*F7*WMV;
+Gloom Dancer's Band*F2*WMV;
+Seal of the Lost King;
+
+| wands =
+Royal Guard's Stinger*F2*WMV;
+Smoking Ichor Spike*F4*WMV;
+
+| decks =
+House of Harmonic Buzzing*F4*WMV;
+House of the Old Times*F3*WMV;
+Spiked Set*F4*WMV;
+
+| items =
+Khrysalis Arachna Theme*F3*WMV;
+Khrysalis Fort Rachias Theme*F2*WMV;
+
+| cards =
+Black Widow*F2;
+Choke*F2;
+Clockwork Spider*F3*WMV;
+Crystal Spider*F2*WMV;
+Disarm*F3*WMV;
+Doom and Gloom*F2;
+Enfeeble*F3;
+Gibson O'Leary;
+Hooligan*F3;
+Legendary Treant (445)*F2*WMV;
+Life Scarab;
+Locust Swarm*F3;
+Luminous Weaver;
+O'Leary Charlatan (Storm)*F2*WMV;
+O'Leary Swindler*F2;
+Patches O'Leary*F3;
+Pierce*F2*WMV;
+Polar Swarm*F2*WMV;
+Sanctuary;
+Scorpion*F2;
+Scrounger;
+Shatter*F3*WMV;
+Sprite Swarm (40+360)*F2*WMV;
+Storm Beetle;
+Wildfire Treant*F3*WMV;
+
+| reagents =
+Amber Dust*F2*WMV;
+Astral Shard;
+Black Lotus*F3*WMV;
+Black Pearl;
+Blood Moss;
+Bone*F7*WMV;
+Bronze Gear*F4*WMV;
+Copper;
+Deep Mushroom*F6*WMV;
+Draconium;
+Fire Blossom*F2*WMV;
+Fossil*F2;
+Golden Pearl*F2;
+Lava Lily*F6*WMV;
+Merle's Whisker*F3*WMV;
+Mist Wood*F8*WMV;
+Mithril*F3*WMV;
+Nightshade;
+Ore*F6*WMV;
+Orichalcum;
+Pyrite;
+Red Mandrake*F12*WMV;
+Silver*F2;
+Stone Block*F3*WMV;
+Sunstone*F3*WMV;
+Titanium;
+Tungsten;
+Turquoise*F3;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Chimera*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR*F2;
+Frost Giant*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR*F2;
+Ra*BR;
+Rain of Fire*BR*F2;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR*F2*WMV;
+Snow Angel*BR;
+Spinysaur*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Flaming Soup*F4*WMV;
+Goat Cheese*F2*WMV;
+Golden Apple*F2*WMV;
+Golden Grapes*F2*WMV;
+Gummy Bees*F2*WMV;
+Gummy Humongofrog*F3*WMV;
+Hive Rinds*F2*WMV;
+Honey Bombs*F2*WMV;
+Honeycombs*F2*WMV;
+Honeycrisp Apples*F6;
+HoneyDon't Melon*F4*WMV;
+King Banana*F2*WMV;
+Peanut Butterflies;
+Punk Rock Candy*F3*WMV;
+Spicy Stingers;
+Sugar Khrystals*F2*WMV;
+
+| jewels =
+Adroit Opal;
+Big Recovery Opal;
+Canny Opal;
+Chastisement Opal*F3;
+Chipped Mana Opal +10;
+Cracked Defense Jade +12;
+Cracked Defense Sapphire +12;
+Dependable Opal;
+Energy Opal;
+Fire-Giver Ruby;
+Galvanic Field Opal*F3;
+Ice-Giver Sapphire;
+Polished Blocking Peridot +12;
+Polished Defense Citrine +42;
+Polished Defense Ruby +42;
+Punishment Opal*F3*WMV;
+Restore Opal;
+Thunder Snake Amethyst;
+Tower Shield Sapphire;
+Ultra Exhaustion Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Blue Huckleberries*F2;
+Burning Snap Dragon;
+Face Palm*F2*WMV;
+Maelstrom Snap Dragon;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Sugar Khrystal*CR;
+Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+}}

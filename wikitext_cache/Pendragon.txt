@@ -1,0 +1,329 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 12,780
+| crecla = Wyrm
+| crecla2 = Undead
+| school = Death
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Hart Lancer;
+
+| world = Avalon
+| location = Keep of Ganelon
+| lootchest = Pendragon's Chest
+| descrip =
+The Pendragon is the [[:File:(Quest) Throw Down the Gauntlet Dialogue 8.png|Lord of the Wild Hunt]], and the penultimate Boss in the Avalon quest line.  Upon defeat, he reveals his true identity and how he came to be.
+*If Pendragon is defeated before the Minion, it will respawn at the end of the duel.
+
+| speech =
+:''"So this is the little Wizard that has been running through my realm, causing havoc? You have the stink of Merle Ambrose upon you. What is that you have? The Sword of Kings? I did not think it possible for it to be raised again. Let us test your mettle against my razor fangs!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Avalon
+| tome description =
+In primary school, they made a flawless transition from pencils to pens. Globs of white out could never be found on their school work!
+
+| extract class =
+Undead;
+Wyrm;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Dispel}} At the start of the duel, the Pendragon will interrupt-cast an '''Entangle''' Treasure Card on all Wizards.
+*{{Icon|Damage over Time}} During Round 1, he will use his turn to cast '''Fire Dragon (650+20,000)''' which deals 100 Damage Over Time per Round lasting 200 Rounds. This can 'Critical' for double Damage.
+:*{{Link|Spell|Triage}} and {{Link|Spell|Shift}} can be used to safely remove the DoT.
+:*{{Link|Spell|Shift}} and {{Link|Spell|Detonate|}} can be used as a counter attack to this cheat.
+:*{{Link|Spell|Quench}} can be used to dispel the Fire Dragon if Wizard has the initial cast.
+:**On the fifth Round, Pendragon will use his turn to recast this Spell if initially dispelled.
+*{{Icon|Ice}} If a Wizard attacks the Pendragon, he will cast an Ice Wand attack that doesn't deal Ice Damage dealing 500 Damage on himself.
+:*If a Wizard attacks the Pendragon with the Sword of Kings Wand hits, he will re-cast the Wand hit as a Natural Attack on himself, and sometimes take the 500 Damage from the Ice Wand attack that doesn't deal Ice Damage.
+:*The Sword of Kings Wand attacks will always trigger this cheat.
+*{{Icon|Steal}} If a Wizard casts a Rank 6 or higher single-target Spell (including X-Pip), he will interrupt-cast an Ominous Scarecrow dealing 550 Damage.
+
+| spellnotes =
+
+| casts =
+Fortify;
+Deathblade;
+Death Trap;
+Feint;
+Natural Attack (Death 180-360-530);
+Vampire;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+Skeletal Dragon;
+Dr. Von's Monster;
+Fire Dragon (650+20,000);
+
+| quests =
+The Guns of Avalon;
+The Head of the Dragon;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge and has not unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge, the following drops will be available:
+*11 Spellements will drop each time for their respective rank 5-9 Spells.
+
+| gold =
+70 - 343;
+
+| hats =
+Hallowe'en Hat*CR*HOL;
+Last Knight's Guard;
+Lightning Lizard Rider's Helm;
+Mask of the Ponycorn's Friend*F10*WMV;
+Santa Hat*CR*HOL*F3;
+Shroud of the One*F7*WMV;
+
+| robes =
+Guardian's Vestment*CR*F4*WMV;
+Loyal Banner's Coat*F12*WMV;
+Royal Jouster's Armor*F14*WMV;
+
+| boots =
+Other Side Striders*F13*WMV;
+Owl Friend Talons*F8*WMV;
+Santa Boots*CR*HOL*F2;
+
+| athames =
+Gwendolyn's True Friend;
+Sir Malory's Bloody Oath*F7*WMV;
+
+| amulets =
+Knight's Noble Amulet*F7*WMV;
+Numinous Torc*F2;
+
+| rings =
+Stone of the Other Side*F12;
+
+| wands =
+Baton of Instigation*CR*HOL;
+Confectioner's Staff*CR*HOL*F3;
+First Bird of Spring Wand*CR*HOL;
+Hollypop Wand*CR*HOL*F3;
+Staff of the Wildgrave*F3;
+Stag-Horned Staff*F6;
+Torch of Noel Wand*CR*HOL;
+Wimpering Pumpking Stave*HOL;
+
+| decks =
+Druid's Knot Deck*F7*WMV;
+Silvershield Cards*F22*WMV;
+
+| items =
+Avalon Glorious Theme*F4;
+Avalon Haunting Theme*F7*WMV;
+Avalon Owl Stained Glass;
+Blue Holiday Ornament*HOL*F2;
+Carol of the Bells Theme*HOL;
+Dragonspyre Pet Derby Theme;
+Deck the Halls Theme*HOL;
+Gingerbread House*HOL;
+Green Holiday Ornament*HOL*F2;
+Holiday Wreath*CR*HOL;
+Jingle Bells Theme*HOL;
+Large Snowflake*CR*HOL;
+Master's Socket Wrench*F4;
+Meowiarty Archmage Duel*CR*F2;
+Meowiarty Exalted Duel*CR;
+Milk and Cookies*CR*HOL;
+Nutcracker*HOL;
+Rattlebones Master Duel*CR*F2;
+Red Holiday Ornament*HOL;
+Snowglobe*HOL*F2;
+Snowman*CR*HOL;
+Star Wrapped Gift*HOL;
+Stone Skeleton Key*CR*F5*WMV;
+Yuletide Lg. Keeper Aquarium*CR*HOL;
+Yuletide Reg. Small Fry Aquarium*CR*HOL;
+Yuletide Tall Keeper Aquarium*CR*HOL*F4;
+Yuletide Tall Small Fry Aquarium*CR*HOL*F3;
+Zeus Exalted Duel*CR;
+
+| cards =
+Amplify*F17*WMV;
+Beguile*F15*WMV;
+Berserk*F9;
+Colossal*F16*WMV;
+Dark Tribute*F19;
+Empowerment*F6*WMV;
+Extraordinary*F8*WMV;
+Fire Dragon*F4;
+Fortify*F11*WMV;
+Frost Giant*F4;
+Gargantuan*F4*WMV;
+Infallible*F7*WMV;
+Mend*F8*WMV;
+Orthrus*F9*WMV;
+Plague*F10*WMV;
+Poison*F19*WMV;
+Power Nova*F6;
+Rebirth*F6;
+Sacrifice*F16*WMV;
+Scarecrow;
+Storm Lord*F3;
+Unstoppable;
+Vengeance*F14*WMV;
+Virulent Plague*F13*WMV;
+
+| reagents =
+Amber Dust*F6;
+Black Lotus*F11*WMV;
+Brass*F2;
+Bronze*F5;
+Cat Tail*F10*WMV;
+Cobalt*F3*WMV;
+Deep Mushroom*F13*WMV;
+Frost Flower*F8*WMV;
+Lava Lily*F13*WMV;
+Merle's Whisker*F8*WMV;
+Mist Wood*F9*WMV;
+Nickel;
+Ore*F8;
+Parchment*F10;
+Pearl*F9;
+Red Mandrake*F13*WMV;
+Shell*F7;
+Steel*F6*WMV;
+Stone Block*F11*WMV;
+Tin;
+
+| spellements =
+Basilisk*BR;
+Blight Hound*BR;
+Centaur*BR;
+Chimera*BR;
+Colossus*BR;
+Dr. Von's Monster*BR;
+Earth Walker*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+Helephant*BR;
+Hydra*BR;
+Leviathan*BR;
+Medusa*BR;
+Minotaur*F2*BR*WMV;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Skeletal Pirate*BR;
+Snow Angel*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Stormzilla*BR;
+Triton*BR;
+Woolly Mammoth*BR;
+Wraith*BR;
+
+| snacks =
+Bogwich*F6;
+Buttered Bread*F3;
+Cauliflowers;
+Delicious Cookie;
+Deviled Eggs;
+Flapjacks;
+Glowing Star Fruit;
+Goat Cheese*F2;
+Golden Apple*F5;
+Golden Grapes*F4*WMV;
+Gummy Humongofrog;
+Gummy Wyrms*F3*WMV;
+King Banana;
+Kola Nuts;
+Pigeon Pie*F4;
+Roasted Chickpeas;
+Salmonberry*F5;
+Shiny Tomato*F4*WMV;
+Spicy Drumstick;
+Strawberry Cupcake;
+Treant Bark*F4;
+Uni-Corn*F4;
+
+| jewels =
+Aura Crush Citrine;
+Black Widow Onyx;
+Clear Blocking Onyx +10;
+Clear Blocking Opal +5;
+Clear Blocking Peridot +10;
+Clear Critical Amethyst +10;
+Clear Critical Citrine +10;
+Clear Damage Onyx +19;
+Clear Damage Peridot +19;
+Enfeeble Amethyst;
+Opaque Blocking Opal +4*F2;
+Plaguebringer Onyx;
+Screen Ruby;
+Storm-Tooth Amethyst;
+
+| pins =
+
+| pets =
+Christmas Elf*CR*HOL;
+Cupig*CR*HOL;
+Golden Goose*CR*HOL*F2;
+Lump of Coal*CR*HOL;
+Maple Moose*CR*HOL*F2;
+Nutcracker*CR*HOL*F2;
+Snowball*CR*HOL;
+Valentine Pig*HOL;
+Wolfhound*CR*F3;
+Yuletide Spirit*CR*HOL*F2;
+
+| seeds =
+Angel Oak*F4*WMV;
+Angora Bunny Ears*F25*WMV;
+Blue Huckleberries*F20*WMV;
+Happy Holidaisy*CR*HOL;
+Pink Huckleberries*F19*WMV;
+Red Huckleberries*F16*WMV;
+
+| mounts =
+Stormrider Hare*PERM*CR*HOL;
+
+| spells =
+
+}}

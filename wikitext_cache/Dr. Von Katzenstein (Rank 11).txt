@@ -1,0 +1,101 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,300
+| crecla = Cat
+| school = Storm
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+30% Storm;
+
+| incboost =
+50% Myth;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Meowiarty Archmage Challenge
+| subloc1 = 
+| descrip =
+Dr. Von Katzenstein (Rank 11) is a possible Minion to {{Link|Creature|Meowiarty (Rank 12)}}.  All drops are recorded on that page.
+
+| speech =
+
+| cheatnotes =
+*''"Tis a good time for my monster to come out to play!"'' - At the end of every third Round, Dr. Von Katzenstein will cheat-cast {{Link|Spell|Dr. Von's Monster (1,005)}} on a random Wizard, which acts as his Natural Attack.
+*''"Don't worry, there's time for everyone to play!"'' - At the start of every fourth Round, he will cheat-cast {{Link|Spell|Monster Mash (1,170)}} on a random Wizard.
+**Cheat does not activate with only two Wizards in the duel.
+*''"It's not safe to run with Blades!"'' - If a Wizard casts a [[:Category:Blade Spells|Blade]], he will cheat-cast {{Link|Spell|Enfeeble}} on the receiver of the Blade.
+*''"One must keep a sanitary work environment!"'' - If a Wizard casts a negative Damage [[:Category:Charm Spells|Charm]], he will cast an AoE version of {{Link|Spell|Cleanse Charm}}.
+
+| spellnotes =
+
+| casts =
+Galvanic Field;
+Stormblade;
+Balanceblade (+35%);
+Stormzilla;
+Storm Lord;
+Leviathan;
+Sirens;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

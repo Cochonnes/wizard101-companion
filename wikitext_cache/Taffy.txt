@@ -1,0 +1,322 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 8,400
+| crecla = Mongu
+| school = Ice
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+5%;
+
+| outboost =
+50%;
+
+| incboost =
+10% Fire;
+
+| incresist =
+35% Ice;
+
+| stunable = Yes
+| beguilable = Yes
+| minion = Ricky
+| minion2 = Tiki
+| minion3 = 
+| world = Mirage
+| location = Rubal Wastes
+| subloc1 = Mongu Refuge
+| descrip =
+Taffy is one of three Mongu warrior brothers encountered in the Rubal Wastes - the others being Ricky and Tiki. Taffy is the eldest of the three brothers.
+
+| speech =
+:''"Oh yes! How delightful! A new, tasty morsel to slice up with my blades. I would take you myself, but my brothers clearly need more practice. You will find this battle considerably more complex than the last two. Approach and take a bite of Taffy!"''
+
+| cheatnotes =
+'''Taffy'''
+*{{Icon|Late}} ''"The more the merrier!"'' - If a Wizard joins the duel after it has already begun, Taffy will place an {{Link|Spell|Aegis}} version of Tower Shield (-55%) on Ricky and Tiki, and an Aegis version of Frozen Armor (185) on himself.
+*{{Icon|Trap}} ''"One dirty trick deserves another!"'' - If a Wizard places a [[:Category:Trap Spells|Trap]] on any of the brothers, he will cast an Ice version of {{Link|Spell|Cleanse Ward}} to remove 1 Trap from the target.
+:*{{Link|Spell|Indemnity}} can be used to prevent the removal of a particular Trap.
+:*Spells that leave Traps behind, such as {{Link|Spell|Fire from Above}}, will trigger this cheat.
+:*Using {{Link|Spell|Mass Feint (+75%)}} will cause Taffy to remove the Trap placed on the caster. This will not remove any of the Traps on the Bosses.
+:*Spells like {{Link|Spell|Windstorm}} will not trigger this cheat.
+
+'''Ricky'''
+*{{Icon|Late}} ''"Cheater!"'' - If a Wizard joins the duel after it has already begun, Ricky will triple-cast {{Link|Spell|Healing Current}} on himself, giving 100, 400, then 1,000 health.
+*{{Icon|Blade}} ''"Nice try!"'' - If a Wizard casts a [[:Category:Blade Spells|Blade]] Spell, then Ricky will cast {{Link|Spell|Steal Charm}} on the Wizard that received the Blade.
+:*{{Link|Spell|Quench}} can be used to dispel this cheat.
+:*Aegis can be used to prevent removal.
+:*If a tri-Blade Spell is used, then only the last part of the Blade will be removed (Fire for {{Link|Spell|Elemental Blade}}s and Life for {{Link|Spell|Spirit Blade}}s).
+:*If a multi-target Blade Spell is used (e.g. {{Link|Spell|Bladestorm}}), only the Wizard who cast the Spell will be affected.
+:*Steal Charm can be used to steal back the Blade without a penalty.
+:*{{Link|Spell|Supercharge}} does not trigger this cheat.
+
+'''Tiki'''
+*{{Icon|Late}} ''"You should be ashamed!"'' - If a Wizard joins the duel after it has already begun, Tiki will cast {{Link|Spell|Guiding Light}} on himself and Ricky and an Aegis-Protected {{Link|Spell|Spirit Armor}} on Taffy.
+*{{Icon|Damage over Time}} ''"Let's spice things up!"'' - If a DoT is cast on anyone in the duel, he will remove it.
+:*Pet Spells will trigger this cheat.
+
+| spellnotes =
+*Casts an Aegis-Protected Frozen Armor (185).
+
+| casts =
+Brace;
+Tower Shield (-55%);
+Volcanic Shield (-75%);
+Legion Shield (-35%);
+Frozen Armor (185);
+Icespear (+10%);
+Iceblade (+40%);
+Freeze (80%);
+Steal Ward;
+Ice Bats (215);
+Natural Attack (Ice 105-210-315, 75%);
+Blizzard (290-330, 80%);
+Winter Moon;
+Frost Giant (530);
+Woolly Mammoth (880-1,000);
+
+| quests =
+Mission Impossible (Mirage);
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' Badge and has not unlocked the '''[[Basic:Empyrea Badges|Hero of Light and Shadow]]''' Badge, the following drops will be available:
+*10 Spellements will drop each time from '''any''' School for their respective rank 9, 10, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+905 - 1,165;
+
+| hats =
+Sand Sea Cowl of Ashes;
+Sand Sea Cowl of Hardiness*F2*WMV;
+Sand Sea Cowl of Havoc;
+Zruvan Helmet of Acumen;
+Zruvan Helmet of Mettle;
+Zruvan Helmet of Rigor;
+
+| robes =
+Sand Sea Outfit of Ashes*F2*WMV;
+Sand Sea Outfit of Decorum;
+Sand Sea Outfit of Hardiness;
+Sand Sea Outfit of Havoc;
+Sand Sea Outfit of Mischief;
+
+| boots =
+Vizier's Shoes of Apathy;
+Vizier's Windswept Shoes;
+Zruvan Galesh of Acumen;
+Zruvan Galesh of Amity;
+Zruvan Galesh of Flashfloods*F3*WMV;
+Zruvan Galesh of Fury;
+
+| athames =
+Sand Sea Dagger of Accord;
+Sand Sea Dagger of Ashes;
+Sand Sea Dagger of Blusters;
+Sand Sea Dagger of Emptiness*F3*WMV;
+Sand Sea Dagger of Explosion*F2*WMV;
+
+| amulets =
+Kobra Choker of Acumen;
+Kobra Choker of Amity*F2;
+Kobra Choker of Demise;
+Kobra Choker of Fury;
+Kobra Choker of Mettle;
+Kobra Choker of Rigor;
+
+| rings =
+Sand Sea Ring of Ardor;
+Sand Sea Ring of Blight;
+Sand Sea Ring of Decorum;
+Sand Sea Ring of Emptiness*F2;
+
+| wands =
+Hardy Rubal Bow;
+Rubal Bow of Conflagration;
+Rubal Sleetfall Bow*F2;
+Thundering Rubal Bow;
+Voltaic Durvish Armaments;
+
+| decks =
+Kobra Hand of Mettle;
+Kobra Hand of Rigor*F2*WMV;
+Sand Sea Hand of Decorum;
+Sand Sea Hand of Hardiness;
+Sand Sea Hand of Shivers*F2*WMV;
+
+| items =
+Mirage Canyon Combat Theme;
+Mirage Caravan Theme;
+Mirage Chronoverge Theme*F3*WMV;
+Mirage Den of Thieves Theme;
+Mirage Desert Canyons Theme;
+Mirage Desert Combat Theme;
+Mirage Jungle Combat Theme;
+Mirage Jungle Theme;
+Mirage Serpent Theme*F2*WMV;
+
+| cards =
+Age of Reckoning*F2*WMV;
+Ashen Bones;
+Astraphobia;
+Combustion;
+Frostfang;
+Namaste*F2*WMV;
+Nested Fury;
+Raging Bull;
+Rusalka's Wrath*F2*WMV;
+Saga of Heroes;
+Snowball Barrage;
+Winged Sorrow;
+Wings of Fate;
+
+| reagents =
+Aether*F11*WMV;
+Agave Leaves*F9*WMV;
+Agave Nectar*F2;
+Amber*F6*WMV;
+Amber Dust*F7*WMV;
+Aquamarine*F9*WMV;
+Astral Shard*F14*WMV;
+Braided Vine*F2*WMV;
+Draconium*F2*WMV;
+Fire Blossom*F5*WMV;
+Golden Pearl*F13*WMV;
+Iridium;
+Merle's Whisker;
+Mithril*F7*WMV;
+Orichalcum;
+Scales*F5*WMV;
+Silver*F8*WMV;
+Stardust;
+Steel*F9*WMV;
+Sunstone*F12*WMV;
+Titanium*F4*WMV;
+Tungsten*F9*WMV;
+Turmeric;
+Turquoise*F10*WMV;
+Vine*F10*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Dr. Von's Monster*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Sabertooth*BR;
+Spinysaur*BR;
+Sun Serpent*BR;
+Witch's House Call*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Beast Wellington*F3*WMV;
+Beetle Cream Soda*F2*WMV;
+Chalupacabra*F3;
+Eye Candy;
+Hard Boiled Beetle Eggs*F3*WMV;
+Hot Cross Buns;
+Mustachios*F2*WMV;
+Satyr Chow*F3*WMV;
+Ships 'n' Queso*F2;
+Veggie Juice*F3*WMV;
+
+| jewels =
+Cycle of Life Opal;
+Epic Opal*F3;
+Magnify Opal*F3;
+Reliquary Opal;
+Renew Opal;
+Shiny Blocking Citrine +16;
+Shiny Blocking Ruby +16;
+Shiny Critical Hematite +16;
+Shiny Critical Jade +16;
+Shiny Critical Onyx +16;
+Shiny Critical Ruby +16*F2*WMV;
+Shiny Critical Sapphire +16*F2*WMV;
+Shiny Damage Citrine +26;
+Shiny Damage Hematite +52;
+Shiny Damage Onyx +26;
+Shiny Damage Sapphire +26;
+Shiny Defense Amethyst +51;
+Shiny Defense Hematite +51;
+Shiny Defense Jade +51;
+Shiny Defense Jade +52;
+Shiny Defense Peridot +52;
+Shiny Defense Sapphire +51*F2;
+Shiny Defense Sapphire +52;
+Shiny Health Opal +111;
+Shiny Health Opal +112*F5*WMV;
+Shiny Health Opal +113;
+Shiny Mana Opal +45*F2;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47*F4*WMV;
+Shiny PIP Hematite +2*F2*WMV;
+
+| pets =
+MaCaw*CR*F2*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears*F4*WMV;
+Baby Carrots*F3*WMV;
+Bamboo Shoots;
+Bell Pepper*F2*WMV;
+Blue Huckleberries*F3*WMV;
+Boiled Peanuts*F3;
+Boom Shroom*F3*WMV;
+Boon Tree*CR*F1;
+Bread Fruit Bush*F7*WMV;
+Clockwork Flower*F2;
+Couch Potatoes*CR;
+Dandelion;
+Deadly Helephant Ears*CR*F2*WMV;
+Deadly Ninja Fig*F2;
+Desparagus (Seed);
+Evil Magma Peas*CR*F2*WMV;
+Evil Snow Peas;
+Face Palm;
+Fickle Pickle;
+Fiery Boom Shroom;
+Fish on a Vine*F2;
+Frozen Fly Trap;
+Golden Couch Potatoes*F2;
+Grapes of Wrath*CR*F2*WMV;
+Green Snow Apples;
+Honey Sickle;
+Ivy League*CR*F3;
+King Parsley*CR*F2*WMV;
+Laugh-O-Dil;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Missile Toe*F2*WMV;
+Ninja Fig*CR;
+Pink Huckleberries*F5*WMV;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus;
+Purple Bell Pepper*F2;
+Purple Grapes of Wrath;
+Queen Crape Myrtle*F2*WMV;
+Red Bell Pepper;
+Red Couch Potatoes*F2;
+Red Huckleberries*F5*WMV;
+Saw Palmetto;
+Silver Trumpet Vine*CR;
+Sugar Khrystal*CR;
+Sunion*CR*F3*WMV;
+Sword Fern*CR;
+Trumpet Vine;
+White Tiger Lily*F2*WMV;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

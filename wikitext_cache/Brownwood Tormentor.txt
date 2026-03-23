@@ -1,0 +1,178 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 3,320
+| crecla = Elemental
+| crecla2 = Plant
+| crecla3 = Treant
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Woodland Watcher;
+Woodland Watcher;
+
+| world = Grizzleheim
+| location = Helgrind Warren
+| descrip =
+
+| speech =
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+On lazy days, it continues its tormenting ways by poking random people with a stick.
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guestanimus = 30
+| guest gold = 2,000
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Sprite;
+Lifeblade;
+Life Trap;
+Leprechaun;
+Seraph;
+Natural Attack (Life 85x);
+Troll;
+Fire Elf;
+Kraken;
+
+| quests =
+
+| gold =
+86 - 122;
+
+| hats =
+Curative Coif;
+Hat of the Gale;
+Headgear of Revival;
+Hood of the Invariable;
+Igneous Cover;
+Mantle of Ingenuity*F2*WMV;
+
+| robes =
+Chronicler's Robe*F4*WMV;
+Gelid Garments;
+Gloomhound's Wrap;
+Raiment of Rainfall;
+Thermic Longcoat;
+Tunic of Regularity;
+Tunic of Termination*F4*WMV;
+
+| boots =
+Boots of Consequence*F2*WMV;
+Broghans of the Wanderer;
+Broghans of the Warlord;
+Erudite Footwear*F2;
+Firewalking Sandals;
+Footgear of Garm;
+Footwraps of Discernment*F3*WMV;
+Footwraps of Patience;
+Footwraps of the Efreet;
+Frigid Footwear;
+Iceclaw Boots;
+Slippers of the Seer;
+Treads of Tribulation;
+
+| athames =
+Snow-Forged Steel*F6*WMV;
+
+| amulets =
+
+| rings =
+Stabilizing Ring*F5*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Heavy Dining Table*F2;
+
+| cards =
+Cloak;
+Doom and Gloom*F2;
+Ice Wyvern;
+Minotaur;
+Monstrous;
+Sanctuary;
+Tough;
+Woodwalker;
+
+| reagents =
+Brass;
+Iron*F2;
+Pyrite;
+Spider Silk*F8*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Glowing Rock Candy*F5;
+Meat Soup;
+Medium Fish*F2;
+Moon Pie*F3*WMV;
+Redskin Peanut*F2;
+Square Watermelon;
+Stinky Cheese*F2;
+Tasty Biscuit*F3*WMV;
+
+| jewels =
+Chipped Damage Opal +4;
+Chipped Defense Onyx +13;
+Cracked Accurate Peridot +2%;
+Cracked Damage Peridot +4;
+Cracked Defense Peridot +10;
+Cracked Defense Ruby +9;
+Energy Opal;
+Snow Serpent Sapphire;
+Storm-Away Amethyst;
+Storm-Giver Amethyst;
+
+| pins =
+
+| pets =
+Life Minotaur*F2*WMV;
+
+| seeds =
+Couch Potatoes*CR;
+Rye Bread Fruit Bush*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

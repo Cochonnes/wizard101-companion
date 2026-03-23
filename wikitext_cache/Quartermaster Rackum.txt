@@ -1,0 +1,214 @@
+{{Stub|which versions of the ''{{Link|TreasureCard|Enfeeble}} Treasure Card'' this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 18,495
+| crecla = Shadow Weaver
+| school = Storm
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+| incboost =
+35% Myth, Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Corrupted Rhino (Elite);
+
+| world = Khrysalis
+| location = Fort Rachias
+| subloc1 = Horned Barracks
+| descrip =
+Wizards must face Quartermaster Rackum to obtain the third piece of the Trine key that opens the great doors of the {{Link|Location|Rachias Gateway}}.
+
+| speech =
+:''"Of course it's a trap, you fools! Die in the name of the Shadow!"''
+
+Warning: it is reported that questing players could be confronted with the boss plus three minions - that the Corrupted Rhinos from the first duel may respawn with Rackum and his 'official' minion. This might be a glitch.
+
+| cheatnotes =
+*{{Icon|Minion}}{{Icon|Health}} When his minion has less than ~50% Health, the minion will cheat-cast {{Link|Spell|Sacrifice (Death)}} to heal Quartermaster Rackum.
+**Using Strangle on the minion will dispel this cheat. Hitting again will re-trigger this cheat.
+*{{Icon|Minion}}{{Icon|Heal}} Whenever the minion takes damage, it will cheat-cast a {{Link|Spell|Regenerate}} on itself.
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Lightning Strike;
+Stormblade;
+Storm Trap;
+Windstorm;
+Enfeeble;
+Natural Attack (Storm 195-335-475);
+Storm Dragon;
+Sirens;
+Tempest (85);
+
+| quests =
+Twelve Toes;
+
+| gold =
+150 - 337;
+
+| hats =
+Dragonfly Keeper's Cap*F2*WMV;
+Helmet of Excavation*F6*WMV;
+The Wyrmrider*CR;
+
+| robes =
+Gorge Excavator's Outfit*F8*WMV;
+Kermes Fire Miner's Tunic;
+Mantis Plate of Frostfall;
+
+| boots =
+CloudDancer's Footwraps*F2*WMV;
+Flame Legs Coalwalkers*F2*WMV;
+Mantis Boots of Patience;
+Mouse Knight's Footguards*F4*WMV;
+
+| athames =
+Roze's Hunting Knife*F5*WMV;
+
+| amulets =
+
+| rings =
+Gloom Dancer's Band*F3*WMV;
+Mouse Knight's Loop*F3;
+Seal of the Lost King*F6*WMV;
+Seal of the WoodWard;
+
+| wands =
+Siege Captain's Staff*F3*WMV;
+
+| decks =
+Box of Indomitable Spirit*F3*WMV;
+House of the Old Times*F5*WMV;
+
+| items =
+Khrysalis Combat Theme*F4*WMV;
+Khrysalis Last Wood Theme*F3;
+Umbra Trophy Display Plinth;
+
+| cards =
+Black Widow*F2*WMV;
+Choke;
+Clockwork Spider*F3*WMV;
+Death Scarab;
+Doom and Gloom*F2*WMV;
+Enfeeble*F3*WMV;
+Fire Beetle;
+Hooligan*F2;
+Legendary Treant (445)*F3*WMV;
+Life Scarab;
+Locust Swarm*F2*WMV;
+Luminous Weaver;
+O'Leary Charlatan (Storm);
+O'Leary Swindler;
+Patches O'Leary*F4*WMV;
+Pierce;
+Sanctuary*F2*WMV;
+Scrounger;
+Shatter (3 Pip);
+Sprite Swarm (40+360)*F2;
+Wildfire Treant;
+
+| reagents =
+Black Lotus*F2;
+Black Pearl;
+Blood Moss;
+Bone*F5*WMV;
+Bronze Gear*F2*WMV;
+Copper;
+Deep Mushroom*F7*WMV;
+Draconium;
+Fire Blossom*F3*WMV;
+Fossil*F4*WMV;
+Golden Pearl*F3*WMV;
+Iron;
+Lava Lily*F5*WMV;
+Mist Wood*F4*WMV;
+Nickel;
+Nightshade;
+Ore*F8*WMV;
+Orichalcum;
+Red Mandrake*F4*WMV;
+Silver;
+Stone Block*F3;
+Sunstone*F2;
+Tungsten*F2*WMV;
+Turquoise*F4*WMV;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Flaming Soup*F2;
+Goat Cheese*F3*WMV;
+Golden Apple*F3*WMV;
+Golden Grapes;
+Gummy Bees*F2*WMV;
+Gummy Humongofrog*F2*WMV;
+Hive Rinds;
+Honey Bombs*F2*WMV;
+Honeycombs*F4;
+Honeycrisp Apples*F2*WMV;
+HoneyDon't Melon*F2*WMV;
+King Banana*F2;
+Peanut Butterflies;
+Punk Rock Candy;
+Shiny Tomato*F2;
+Spicy Stingers*F2*WMV;
+Sugar Khrystals*F2;
+
+| jewels =
+Baffle Opal;
+Cracked Defense Amethyst +12;
+Dark Sprite Onyx;
+Fire Cat Ruby;
+Ice Guardian Sapphire;
+Imp Jade;
+Polished Critical Citrine +11;
+Polished Critical Jade +11;
+Polished Defense Amethyst +43;
+Polished Piercing Citrine +6%;
+Reliquary Opal*F2;
+Scarab Citrine;
+Thunder Snake Amethyst;
+Virulence Opal*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Burning Snap Dragon*F2;
+Face Palm;
+Pink Huckleberries;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Red Huckleberries*F2*WMV;
+Sugar Khrystal*CR;
+
+| mounts =
+
+| spells =
+
+}}

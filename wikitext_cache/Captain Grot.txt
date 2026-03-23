@@ -1,0 +1,294 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,640
+| crecla = Qhat
+| school = Death
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+4%;
+
+| outboost =
+65%;
+
+| incboost =
+15% Life;
+
+| incresist =
+30% Death;
+
+| inchealing =
+
+| outhealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Bumbai Rebel Warrior
+
+| world = Mirage
+| location = Yakhal Mountain
+| subloc1 = Rebel HQ
+| descrip =
+*All Wizards will be forced into the battle when the duel begins.
+*Uses Pip Conversion.
+
+| speech =
+:''"It's about time. I knew they would eventually send someone to try to stop us. You are a lackey to the Sayameez, and you will pay for it!"''
+
+| casts =
+Brace;
+Sacrifice (Death);
+Deathblade;
+Dark Pact (+30%);
+Feint (+75%);
+Ghoul (180);
+Natural Attack (Death 110-220-330, 80%);
+Vampire (375);
+Wraith (575);
+Dr. Von's Monster (900);
+
+| quests =
+Rebels with a Cause;
+
+| gold =
+611 - 1,416;
+
+| hats =
+Sand Sea Cowl of Decorum;
+Sand Sea Cowl of Havoc;
+Zruvan Helmet of Fury;
+
+| robes =
+Sand Sea Outfit of Hardiness;
+Sand Sea Outfit of Havoc;
+Sand Sea Outfit of Mischief;
+Sand Sea Outfit of Shivers;
+Zruvan Raiment of Fury;
+
+| boots =
+Vizier's Shoes of Dignity;
+Zruvan Galesh of Demise;
+Zruvan Galesh of Flashfloods;
+Zruvan Galesh of Mettle*F2;
+
+| athames =
+Kobra Janbiya of Amity*F2*WMV;
+Kobra Janbiya of Mettle;
+Sand Sea Dagger of Blusters;
+Sand Sea Dagger of Emptiness*F2;
+Zruvan Galesh of Amity;
+
+| amulets =
+Kobra Choker of Flashfloods*F2;
+Sand Sea Charm of Emptiness;
+
+| rings =
+Sand Sea Ring of Curiosity;
+Sand Sea Ring of Explosion;
+
+| wands =
+Durvish Armaments of Ire;
+Dutiful Durvish's Armaments;
+Kobra Sceptor of Rigor;
+Sceptor of Kobra Mettle;
+Voltaic Durvish Armaments;
+
+| decks =
+Hand of Kobra Acumen;
+Kobra Hand of Fury;
+Kobra Hand of Rigor;
+Sand Sea Deck of Curiosity;
+Sand Sea Hand of Havoc;
+Sand Sea Hand of Mischief; 
+
+| items =
+Mirage Canyon Combat Theme;
+Mirage Caravan Theme;
+Mirage Chronoverge Theme;
+Mirage Chronoverge Com Theme;
+Mirage City Tense Theme;
+Mirage City Theme 2;
+Mirage Den of Thieves Theme*F2*WMV;
+Mirage Jungle Combat Theme;
+Mirage Jungle Theme;
+Mirage Magic Carpet Theme;
+Mirage Palace Theme;
+
+| cards =
+Combustion*F2*WMV;
+Counterforce;
+Frostfang;
+Helephant;
+Magma Colossus;
+Mass Fire Prism;
+Mass Triage;
+Raging Bull;
+Steel Colossus;
+Steel Giant;
+Stone Colossus;
+Winged Sorrow;
+
+| reagents =
+Aether*F3*WMV;
+Agave Leaves*F3*WMV;
+Agave Nectar*F2;
+Amber;
+Amber Dust*F3*WMV;
+Ancient Scroll*F2*WMV;
+Antique Coins*F4*WMV;
+Aquamarine*F3;
+Astral Shard*F4*WMV;
+Black Pearl*F5*WMV;
+Blood Moss*F3;
+Braided Vine;
+Brass*F4*WMV;
+Bronze Gear*F6*WMV;
+Cobalt*F4*WMV;
+Draconium*F2;
+Ectoplasm*F3*WMV;
+Fire Blossom*F3*WMV;
+Golden Pearl*F5*WMV;
+Iridium;
+Merle's Whisker;
+Mithril*F3*WMV;
+Nickel*F2*WMV;
+Orichalcum;
+Scales*F6*WMV;
+Silver*F4*WMV;
+Spider Silk*F3*WMV;
+Stardust*F3*WMV;
+Steel*F2;
+Sunstone*F3*WMV;
+Tin*F2*WMV;
+Titanium*F2;
+Tungsten*F4;
+Turquoise*F3;
+Vine;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F4*WMV;
+Beetle Cream Soda;
+Chalupacabra*F2;
+Chili Cheese Fries*F3*WMV;
+Chili Peppers*F2;
+Delicious Cookie;
+Eye Candy;
+French Fries*F2*WMV;
+Gourmet Yogurt*F2;
+Hard Boiled Beetle Eggs*F2*WMV;
+Hot Cross Buns*F2;
+Huge Ice Cream;
+Large Ice Cream*F2;
+Mustachios*F2;
+Satyr Chow*F2;
+Ships 'n' Queso*F2*WMV;
+Submarine Sandwich;
+Super Cold Popsicle;
+Veggie Juice;
+
+| jewels =
+Brace Opal;
+Epic Opal;
+Lustrous Blocking Onyx +13*F2*WMV;
+Lustrous PIP Opal +10%;
+Magnify Opal;
+Polished Accurate Hematite +10%;
+Polished Blocking Amethyst +12;
+Polished Blocking Jade +12;
+Polished Blocking Onyx +12;
+Polished Critical Hematite +11;
+Polished Critical Jade +11;
+Polished Damage Onyx +21;
+Polished Damage Ruby +21;
+Polished Defense Hematite +41;
+Polished Defense Jade +43;
+Polished Defense Onyx +44;
+Polished Defense Peridot +43*F2;
+Polished Defense Peridot +44*F2*WMV;
+Polished Defense Sapphire +43;
+Polished Defense Sapphire +44;
+Polished Piercing Citrine +6%;
+Polished Piercing Hematite +5%;
+Polished Piercing Onyx +6%*F2;
+Polished Piercing Ruby +6%;
+Renew Opal;
+Shiny Blocking Jade +16;
+Shiny Critical Jade +16;
+Shiny Critical Ruby +16;
+Shiny Critical Sapphire +16;
+Shiny Damage Amethyst +26*F2;
+Shiny Damage Hematite +52;
+Shiny Damage Peridot +26;
+Shiny Defense Citrine +50;
+Shiny Defense Peridot +51;
+Shiny Defense Peridot +52*F2;
+Shiny Defense Sapphire +52;
+Shiny Health Opal +113*F2;
+Shiny Health Opal +114;
+Shiny PIP Hematite +2;
+
+| pins =
+
+| pets =
+MaCaw*CR*F2;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears*F2;
+Baby Carrots*F2;
+Bell Pepper*F3*WMV;
+Blue Huckleberries*F3*WMV;
+Boiled Peanuts*F2*WMV;
+Boom Shroom;
+Bread Fruit Bush*F7*WMV;
+Clockwork Flower;
+Couch Potatoes*CR*F2;
+Deadly Fly Trap;
+Evil Magma Peas*CR*F2;
+Face Palm;
+Fickle Pickle*F2*WMV;
+Fiery Boom Shroom;
+Fish on a Vine*F4*WMV;
+Golden Couch Potatoes*F2;
+Goose Tree;
+Grapes of Wrath*CR*F4*WMV;
+Green Snow Apples;
+Helephant Ears;
+Honey Bee Plant;
+Honey Sickle;
+Ivy League*CR*F3*WMV;
+Laugh-O-Dil;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily*F2;
+Melting Cheese Tree;
+Moon Flower*F2;
+Pink Huckleberries*F3;
+Pink Laugh-O-Dil*F2;
+Prickly Bear Cactus;
+Purple Bell Pepper*F2;
+Purple Snow Apples;
+Queen Crape Myrtle;
+Red Couch Potatoes*F4*WMV;
+Red Huckleberries*F3*WMV;
+Saw Palmetto;
+Snow Apples;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Tiger Lily (Seed)*F2;
+Trumpet Vine*F2;
+White Desparagus;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

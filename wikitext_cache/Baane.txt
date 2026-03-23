@@ -1,0 +1,234 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 13,600
+| crecla = Sheep
+| school = Ice
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+160 Any;
+
+| criticalblock =
+98 Any;
+
+| outpierce =
+20%;
+
+| outboost =
+200%;
+
+| incboost =
+5% Fire;
+
+| incresist =
+50% Ice, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Cabal Prawn;
+
+| petbreed = Frost Hound
+| world = Empyrea
+| location = Zanadu
+| subloc1 = Bat Cave
+| descrip =
+*Uses Pip Conversion.
+
+| cheatnotes =
+{{Icon|Late}} ''"[???]"'' - If a Wizard joins after the first Round, Baane will cast a Natural Attack. He will then follow up with {{Link|Spell|Freeze}}, and cast an Aura to increase his Damage by +10%.
+ 
+{{Icon|Round}} ''"I will [???] down before I strike!"'' - At the end of every third Round, he will switch the turn order.
+**This cheat continues even if Baane is defeated before his Minion.
+
+{{Icon|Damage}} ''"Ah! Well played."'' - He will say this when attacked.
+
+{{Icon|Shadow}}''"Shadow Magic! I was born in it!"'' - Baane will say this when he casts Dark Nova.
+
+| spellnotes =
+*Frost Hound Pet will cast Blizzard (290-330, 100%).
+
+| casts =
+Dark Nova;
+Vengeance (+30%);
+Volcanic Shield (-75%);
+Iceblade (+40%);
+Blizzard (290-330, 100%);
+Winter Moon;
+Frost Giant (530);
+Woolly Mammoth (880-1,000);
+Lord of Winter (1,045-1,155);
+Snowball Barrage;
+
+| quests =
+To the Bat's Cave;
+Meeting of the Minds;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge and has not unlocked the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge, the following drops will be available:
+*10 Spellements will drop each time from '''any''' School for their respective rank 10, 11, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+285 - 332;
+
+| hats =
+
+| robes =
+
+| boots =
+Interstellar Hero's Trekkers;
+Interstellar Navigator's Boots;
+
+| athames =
+Interstellar Hero's Knife;
+
+| amulets =
+Interstellar Medic's Charm;
+Interstellar Navigator's Charm;
+
+| rings =
+Interstellar Delegate's Band;
+Interstellar Engineer's Band;
+Interstellar Warrior's Band;
+
+| wands =
+Delegate's Hexacorder;
+Hero's Hexacorder*F3*WMV;
+Medic's Hexacorder;
+Officer's Hexacorder;
+
+| decks =
+Interstellar Delegate's Deck;
+Interstellar Engineer's Deck;
+
+| items =
+Empyrea Finale Combat Theme*F2*WMV;
+Empyrea Flotsam Combat Theme;
+Empyrea Inner Athanor Theme*F2*WMV;
+Empyrea Jungle Theme;
+Empyrea Outer Athanor Theme;
+
+| cards =
+Mass Death Prism;
+Mass Fire Prism;
+Mass Life Prism;
+Mass Storm Prism;
+Mass Triage*F2*WMV;
+Time of Legend;
+
+| reagents =
+Ancient Scroll*F3*WMV;
+Antique Coins;
+Black Pearl*F3;
+Blood Moss*F2*WMV;
+Brass*F3*WMV;
+Bronze Gear*F2;
+Cobalt*F4*WMV;
+Ectoplasm*F3*WMV;
+Nickel;
+Scales*F4*WMV;
+Spring*F3;
+Tin;
+
+| spellements =
+Avenging Fossil*BR;
+Iron Sultan*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Qismah's Curse*BR;
+Sabertooth*BR;
+Sand Wurm*BR;
+Scion of Balance*BR;
+Scion of Life*BR;
+Scion of Storm*BR;
+Scorching Scimitars*BR;
+Spinysaur*BR;
+Sun Serpent*BR;
+Winged Sorrow*BR;
+Wings of Fate*BR;
+Witch's House Call*BR;
+
+| snacks =
+Beast Wellington;
+Cherry Pie;
+Decimatoes;
+Discord Grape Jelly*F3*WMV;
+Eye Candy;
+Fern Jelly;
+Rock and Roll Candy*F3*WMV;
+Satyr Chow*F4*WMV;
+Sprinkle Cupcake;
+Veggie Juice;
+Wheat Cracker;
+
+| jewels =
+Ally Spirit Shield Citrine;
+Death Striker Onyx;
+Fire-Away Ruby;
+Fire-Sniper Ruby;
+Ice Striker Sapphire;
+Ice-Boon Sapphire;
+Ice-Shot Sapphire;
+Ice-Ward Sapphire;
+Life-Sniper Jade;
+Lustrous Accurate Amethyst +11%;
+Lustrous Accurate Onyx +11%;
+Lustrous Blocking Amethyst +13;
+Lustrous Blocking Onyx +13;
+Lustrous Blocking Sapphire +13;
+Lustrous Damage Amethyst +23*F2*WMV;
+Lustrous Damage Citrine +23;
+Lustrous Defense Ruby +45;
+Lustrous Defense Sapphire +45;
+Lustrous Health Opal +100;
+Lustrous PIP Opal +10%;
+Myth-Boon Peridot;
+Myth-Dealer Peridot;
+Myth-Giver Peridot;
+Myth-Proof Peridot;
+Myth-Shot Peridot;
+Steal Health Talent Onyx;
+Storm-Ward Amethyst;
+Unbalancer Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots*F2;
+Bell Pepper;
+Boiled Peanuts*F2;
+Blue Huckleberries;
+Bread Fruit Bush*F2*WMV;
+Cornbread Fruit Bush;
+Evil Magma Peas*CR;
+Fish on a Vine*F2;
+Grapes of Wrath*CR;
+Ivy League*CR*F3*WMV;
+Pink Huckleberries;
+Purple Grapes of Wrath;
+Red Couch Potatoes*F3*WMV;
+Red Huckleberries*F2*WMV;
+Snow Apples;
+Sour Fickle Pickle;
+Venus Fly Trap;
+White Laugh-O-Dil*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

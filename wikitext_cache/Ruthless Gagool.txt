@@ -1,0 +1,125 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 5,200
+| crecla = Gorilla
+| school = Death
+| startpips = 4
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Zafaria
+| location = Stone Town
+| subloc1 = Kasbah of Zanj
+| descrip =
+
+| speech =
+:''"I can smell you, Wizard, and the stink of your fear.  Soon, you'll serve me, now and forever!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown amount of Death Damage.
+
+| casts =
+Fortify;
+Deathblade;
+Feint;
+Vampire;
+Skeletal Pirate;
+Wraith;
+Scarecrow;
+Skeletal Dragon;
+Dr. Von's Monster;
+
+| quests =
+No Ordinary Badger;
+
+| gold =
+51 - 73;
+
+| hats =
+
+| robes =
+Bad Storm Armor*F2*WMV;
+Brave One's Plate;
+Fire Spirits' Toasty Tunic;
+Honor Bound Surcoat;
+Irontrunk Cloak of Dreams;
+Jambo Jacket;
+Outsider's Symmetrical Jacket;
+Shaman's Storm Sky Cloak;
+Tunic of Nature's Wrath;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Colossus;
+Earthquake;
+Hydra;
+Phoenix*F2*WMV;
+Spectral Blast*F2*WMV;
+Stormzilla;
+Wraith;
+
+| reagents =
+Bronze;
+Cat Tail*F3;
+Deep Mushroom;
+Frost Flower;
+Lava Lily;
+Ore;
+Parchment*F2*WMV;
+Stone Block;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Opaque Damage Onyx +17;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,161 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 10,730
+| crecla = Beastman
+| school = Balance
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+5% Myth, Life, Death;
+
+| incresist =
+30% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No 
+| minions =
+Beastman Guard (Ice);
+
+| world = Empyrea
+| location = Aeriel Jungle
+| subloc1 = Hidden Clearing
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Elemental Defuse;
+Spirit Defuse;
+Donate Power;
+Mana Burn;
+Power Play;
+Loremaster;
+Supernova;
+Natural Attack (Balance 110-205-300, 85%);
+
+| quests =
+The Terrible Trio;
+
+| gold =
+324 - 349;
+
+| hats =
+
+| robes =
+Interstellar Officer's Uniform;
+
+| boots =
+
+| athames =
+Interstellar Warrior's Knife;
+
+| amulets =
+Interstellar Hero's Charm;
+Interstellar Navigator's Charm*F2*WMV;
+
+| rings =
+Interstellar Medic's Band;
+
+| wands =
+
+| decks =
+
+| items =
+Empyrea Athanor Combat Theme;
+Empyrea Flotsam Combat Theme;
+Empyrea Outer Athanor Theme;
+
+| cards =
+Mass Ice Prism*F2*WMV;
+Mass Myth Prism;
+
+| reagents =
+Ancient Scroll*F3*WMV;
+Antique Coins*F3*WMV;
+Black Pearl;
+Blood Moss;
+Brass*F3*WMV;
+Bronze Gear*F2*WMV;
+Ectoplasm;
+Nickel;
+Scales;
+Spider Silk*F2*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate;
+Cherry Pie;
+Discord Grape Jelly;
+Eye Candy;
+Glowing Taffy;
+Hot Cross Buns;
+Pizza*F2*WMV;
+Rock and Roll Candy*F2*WMV;
+Wheat Cracker;
+
+| jewels =
+Ally Volcanic Shield Sapphire;
+Balance-Eye Citrine;
+Balance-Ward Citrine;
+Greensleeves Jade;
+Life-Sniper Jade;
+Lustrous Accurate Amethyst +11%;
+Lustrous Accurate Ruby +11%;
+Lustrous Damage Onyx +23;
+Lustrous Defense Amethyst +45;
+Lustrous Defense Onyx +45;
+Lustrous Health Opal +96;
+Lustrous Mana Opal +42;
+Myth-Giver Peridot;
+Myth-Proof Peridot;
+Spell-Proof Opal;
+Unbalancer Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Baby Carrots;
+Bell Pepper*F3*WMV;
+Blue Huckleberries;
+Boom Shroom;
+Bread Fruit Bush;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Fish on a Vine;
+Golden Couch Potatoes;
+Grapes of Wrath*CR;
+Honey Bee Plant;
+Ivy League*CR;
+Pink Huckleberries;
+Red Couch Potatoes;
+Red Huckleberries;
+Sugar Khrystal*CR;
+Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+}}

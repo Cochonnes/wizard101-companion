@@ -1,0 +1,221 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 11,000
+| crecla = 
+| school = Storm
+| masteries =
+Ice;
+Life;
+
+| shadowslots = 2
+| startpips = 6
+| cheats = Yes
+| powerpips = Yes
+| critical = 500
+| criticalblock = 450
+
+| outpierce =
+40%;
+
+| outboost =
+150%;
+
+| incboost =
+None;
+
+| incresist =
+40% Ice, Death;
+70% Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+100% Fire, Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+
+| randomminions =
+Djinn Bandit;
+Forest Demon;
+Grimtusk Bandit;
+Moosetaur Bandit;
+Stingtail Bandit;
+Stormasaur Bandit;
+Yeti Bandit;
+
+| totalminions = 1
+
+| world = Raid
+| location = Voracious Void
+| subloc1 = 
+| descrip =
+
+| speech =
+
+| cheatnotes =
+The Wizard can cast {{Link|Spell|Brush Fire}}, {{Link|Spell|Dismal Seraph}}, {{Link|Spell|Fabled Revenant}}, {{Link|Spell|Levin Bruin}}, {{Link|Spell|Rotting Fomori}}, and {{Link|Spell|War Oracle}} as inspired Casts during this battle.
+*At the end of every Round, Gobblorian Bandit will cast {{Link|Spell|Power Current}} on itself.
+*Boss sometimes uses Sprite on himself to set up a Gambit.
+This battle uses snake turn order (Beastmoon).
+
+| spellnotes =
+*Casts a 6 Pip version of Blizzard that deals 555 Ice Damage and removes 3 positive Charms from all enemies.
+*Casts a 6 Pip version of Ratatoskr's Spin that deals 555 Life Damage, and removes 3 negative Wards from all allies.
+
+| casts =
+Galvanic Field (6 Rounds);
+Sprite;
+Elemental Blade;
+Wild Bolt;
+Glowbug Squall;
+Sound of Musicology;
+Storm Lord;
+Rain of Torrence;
+
+| quests =
+
+| dropnotes =
+All 12 Wizards in the Raid receive the drops, not just the ones within the battle.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Nullity's Balanced Athame (Level 150+);
+Nullity's Deadly Athame (Level 150+);
+Nullity's Fiery Athame (Level 150+);
+Nullity's Frigid Athame (Level 150+);
+Nullity's Lively Athame (Level 150+);
+Nullity's Mythic Athame (Level 150+);
+Nullity's Stormy Athame (Level 150+);
+
+| amulets =
+Nullity's Balanced Totem (Level 150+);
+Nullity's Deadly Totem (Level 150+);
+Nullity's Fiery Totem (Level 150+);
+Nullity's Frigid Totem (Level 150+);
+Nullity's Lively Totem (Level 150+);
+Nullity's Mythic Totem (Level 150+);
+Nullity's Stormy Totem (Level 150+);
+
+| rings =
+Nullity's Balanced Ring (Level 150+);
+Nullity's Deadly Ring (Level 150+);
+Nullity's Fiery Ring (Level 150+);
+Nullity's Frigid Ring (Level 150+);
+Nullity's Lively Ring (Level 150+);
+Nullity's Mythic Ring (Level 150+);
+Nullity's Stormy Ring (Level 150+);
+
+| wands =
+
+| decks =
+Nullity's Balanced Cards (Level 150+);
+Nullity's Deadly Cards (Level 150+);
+Nullity's Fiery Cards (Level 150+);
+Nullity's Frigid Cards (Level 150+);
+Nullity's Lively Cards (Level 150+);
+Nullity's Mythic Cards (Level 150+);
+Nullity's Stormy Cards (Level 150+);
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Ancient Scroll;
+Black Pearl;
+Karamelle Chunk;
+Mote of Beauty;
+Mote of Transport;
+Mote of Wisdom;
+Nightshade;
+Spring;
+Toffee Bean;
+
+| spellements =
+Angry Snowpig;
+Banshee;
+Beary Surprise;
+Blight Hound;
+Blood Bat;
+Camp Bandit;
+Centaur;
+Colossus;
+Cyclops;
+Cyclops Minion;
+Dark Sprite;
+Earth Walker;
+Evil Snowman;
+Fire Cat;
+Fire Elf;
+Frost Beetle;
+Gearhead Destroyer;
+Ghoul;
+Goat Monk;
+Grendel's Amends;
+Hammer of Thor;
+Helephant;
+Hydra;
+Ice Wyvern;
+Immolate;
+Imp;
+Keeper of the Flame;
+Kraken;
+Leprechaun;
+Lightning Bats;
+Locust Swarm;
+Loremaster;
+Luminous Weaver;
+Minotaur;
+Nature's Wrath;
+Ninja Piglets;
+Ninja Pigs;
+Phoenix;
+Pigsie;
+Ratatoskr's Spin;
+Samoorai;
+Scarab;
+Scorpion;
+Seraph;
+Skeletal Pirate;
+Snow Serpent;
+Spectral Blast;
+Splashsquatch;
+Stone Colossus;
+Storm Shark;
+Stormzilla;
+Sunbird;
+Triton;
+Troll;
+Vampire;
+Wraith;
+
+| snacks =
+
+| jewels =
+Amazing Blocking Jade +22;
+Amazing Defense Jade +64;
+Amazing Defense Peridot +64;
+Amazing Health Opal +140;
+Amazing Health Opal +142;
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

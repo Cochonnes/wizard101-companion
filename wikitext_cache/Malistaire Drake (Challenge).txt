@@ -1,0 +1,143 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 24,300
+| crecla = Wizard
+| school = Death
+| school2 = Fire
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+60%;
+
+| incboost =
+None;
+
+| incresist =
+36% Any;
+
+| outhealing =
+
+| inchealing =
+45%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Sylvia Drake (Challenge);
+
+| world = Housing Instance
+| location = Malistaire Rematch
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the Standard version of this battle, see {{Link|Creature|Malistaire Drake (Standard)}}.
+
+'''Advanced Combat Rules:'''
+*Wizards' stats and spells are scaled to Level 50.
+*Spell Decks cannot be changed while in this instance. (Make sure to set the spells in a deck before entering this instance).
+*No-PvP spells are disallowed in this fight.
+*PvP-Only Spells are allowed in this fight.
+*Wizards cannot re-join combat after fleeing mid-combat.
+
+| speech =
+
+| cheatnotes =
+{{Icon|Death}}{{Icon|Fire}} '''Malistaire Drake:'''
+*{{Icon|Late}} ''"Late? Have a taste of the Dragon Titan's power!"'' - If a Wizard is late, Malistaire will cast {{Link|Spell|Fire Dragon}}.
+*{{Icon|Round}} ''"As long as Sylvia and I are together- Nothing can stop us!"'' - If Sylvia is alive, at the beginning of every Round Malistaire will cast {{Link|Spell|Virulent Plague (Shadow, -100%)}}.
+*{{Icon|Minion}}{{Icon|Afterlife}} ''"NOOOOO!!!!!"'' - When Sylvia Drake is defeated, all harmful Charms will be removed from all Wizards.
+*{{Icon|Charm}} ''"Charms? I'll take those"'' - If Syvlia is alive, if a Wizard casts a helpful Charm, Malistaire will cast {{Link|Spell|Jinn's Larceny}} on the receiver of the Charm.
+**For multi-target Spells like {{Link|Spell|Bladestorm}}, Jinn's Larceny is only cast on the caster of the Spell.
+*{{Icon|Random}} ''"Can you fathom the pain of our parting?"'' - Randomly, if Sylvia isn't present, at the beginning of the Round Malistaire will deal 25% of his maximum Health to himself and cast a version of {{Link|Spell|Mana Burn (Shadow)}} on all enemies that also removes a Shadow Pip.
+
+{{Icon|Life}}{{Icon|Ice}} '''Sylvia Drake:'''
+*{{Icon|Round}} ''"My love...I can't hold on...any longer"'' - After a few Rounds, Sylvia will cast a version of Dark Tribute that removes 100% of her max Health and provides a '''+100%''' Balanceblade on Malistaire Drake. (''needs verification'')
+
+| spellnotes =
+
+| casts =
+Deathblade (+40%);
+Dark Tribute;
+Fireblade;
+Feyblade (Fire);
+Poison;
+Natural Attack (Malistaire);
+Fire Cat (Tier 4a);
+Sunbird;
+
+| quests =
+
+| dropnotes =
+This Boss will always drop the following:
+*{{Icon|Hat}} 1-2 Malistaire Hats
+*{{Icon|Reagent}} 12 Malistaire's Whisker
+*{{Icon|Spellement}} 16-17 groups of 2 Rank 6 Spellements
+*{{Icon|Treasure Card}} 7-8 Azoth Treasure Cards
+
+| gold =
+
+| hats =
+Malistaire's Chilly Locks (Level 100+);
+Malistaire's Chilly Locks (Level 160+);
+Malistaire's Ghostly Locks (Level 160+);
+Malistaire's Harmonic Locks (Level 160+);
+Malistaire's Infamous Locks (Level 160+);
+Malistaire's Squall Locks (Level 100+);
+Malistaire's Squall Locks (Level 160+);
+Malistaire's Thorny Locks (Level 160+);
+Malistaire's Vengeance Locks (Level 160+);
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Malistaire's Whisker @ 12 Malistaire's Whisker;
+
+| spellements =
+Centaur @ 2 Centaur;
+Colossus @ 2 Colossus;
+Helephant @ 2 Helephant;
+Hydra @ 2 Hydra;
+Stone Colossus @ 2 Stone Colossus;
+Triton @ 2 Triton;
+Wraith @ 2 Wraith;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Malistaire Drake (Rematch)
+}}

@@ -1,0 +1,136 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,580
+| crecla = Boar
+| school = Life
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Minion of Grisletusk;
+
+| world = Grizzleheim
+| location = Vigrid Roughland
+| subloc1 = Grisletusk's Quarterage
+| descrip =
+Life Wizards must defeat Grisletusk during the Level 48 Spell Quest "Norwegian Wood".
+*This Boss is not repeatable, but will respawn five minutes after each battle.  It is also possible to set and leave a Mark inside Grisletusk's Quarterage.
+
+'''Retired Monstrology Description:'''
+:Honey, honey, honey, he's got honey in his tummy and he's not sharing with you.
+
+| speech =
+:''"What you come here for, Outlander! You no steal my honey! I take your honey!"''
+
+| cheatnotes =
+*''"A Charm! Let's even the playing field!"'' - If a Wizard casts a [[:Category:Charm Spells|Charm Spell]], then Grisletusk will interrupt-cast a '''+35%''' version of [[Spell:Hex (+35%)|Hex]] on them.
+**[[:Category:Global Spells|Global Spells]] will trigger this cheat.
+**Pet Maycast Spells will not trigger this cheat.
+*''"A Ward! Let's even the playing field!"'' - If a Wizard casts a [[:Category:Ward Spells|Ward Spell]], then Grisletusk will interrupt-cast a '''+35%''' version of Hex on them.
+**Pet Maycast Spells will not trigger this cheat.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Life Damage per Pip
+
+| casts =
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Lifeclops;
+Nature's Wrath;
+Life Banshee (250);
+Seraph;
+Centaur;
+
+| quests =
+Norwegian Wood;
+
+| gold =
+69 - 81;
+
+| hats =
+Forgotten Facade;
+Synthesis Cover;
+Thundercloud Coif*F2;
+
+| robes =
+Devoted Vestment;
+Turbulent Tunic;
+
+| boots =
+Boots of Celestian Totality*F4*WMV;
+Brimstone Boots;
+Celestian Abyss Boots;
+Celestian Tempest Trekkers;
+Icestar Stalkers;
+Natural Boots;
+Polar Boots;
+
+| athames =
+
+| amulets =
+
+| rings =
+Typhoon Band;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Empower*F2;
+Gargantuan*F3;
+Heck Hound;
+Precision*F2;
+Unstoppable*F2*WMV;
+
+| reagents =
+Cobalt*F2;
+Nickel;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Plain Piercing Ruby +3%;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

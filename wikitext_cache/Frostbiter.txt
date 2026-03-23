@@ -1,0 +1,139 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 15,200
+| crecla = Elemental
+| school = Ice
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| outpierce =
+15%;
+
+| outboost =
+65%;
+
+| incboost =
+15% Fire;
+
+| incresist =
+30% Ice;
+
+| stunable = No
+| beguilable = No
+| minion = Frost Spawn
+| petbreed = Ice Wartle
+| minion2 = 
+| world = Empyrea
+| location = Outer Athanor
+| subloc1 = 
+| descrip =
+This is a wandering Boss.<br/>Frostbiter's Ice Wartle Pet casts Tower Shield every few Rounds.
+
+| spellnotes = 
+
+| casts =
+Dark Nova;
+Sleet Storm;
+Tower Shield;
+Elemental Blade;
+Balefrost;
+Katabatic Wind;
+Icebird (270);
+Natural Attack (Ice 158-250-345);
+Handsome Fomori;
+Blizzard;
+Frost Demon;
+
+| quests =
+
+| gold =
+172 - 309;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Interstellar Warrior's Knife;
+
+| amulets =
+Interstellar Explorer's Charm;
+
+| rings =
+Interstellar Warrior's Band;
+
+| wands =
+Medic's Hexacorder;
+
+| decks =
+Interstellar Navigator's Deck;
+
+| items =
+Empyrea Athanor Combat Theme;
+Empyrea Flotsam Combat Theme;
+Empyrea Inner Athanor Theme;
+
+| cards =
+Mass Fire Prism;
+Power Play;
+
+| reagents =
+Black Pearl;
+Blood Moss;
+Brass*F3;
+Bronze Gear*F2;
+Cobalt;
+Ectoplasm;
+Nickel;
+Spider Silk;
+Spring;
+
+| snacks =
+Aztecan Hot Chocolate;
+Beast Wellington;
+Bread Fruit Fruit;
+Cherry Pie;
+Discord Grape Jelly;
+Eye Candy;
+Glowing Taffy;
+Hot Cross Buns;
+
+| jewels =
+Balance Striker Citrine;
+Death-Sniper Onyx;
+Fire Striker Ruby;
+Ice-Boon Sapphire;
+Life-Sniper Jade;
+Lustrous Blocking Citrine +13;
+Lustrous Blocking Ruby +13;
+Lustrous Critical Jade +13;
+Myth-Shot Peridot;
+
+| pets =
+Ice Wartle;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Baby Carrots;
+Blue Huckleberries;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Deadly Ninja Fig*F2;
+Frozen Fly Trap;
+Golden Couch Potatoes;
+Green Snow Apples;
+Honey Sickle;
+Ivy League*CR;
+Pink Huckleberries;
+Red Couch Potatoes;
+Red Huckleberries;
+
+| mounts =
+
+| spells =
+
+}}

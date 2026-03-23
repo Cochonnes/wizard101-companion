@@ -1,0 +1,113 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,930
+| crecla = Grendel
+| school = Storm
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Grendel Madling;
+
+| world = Grizzleheim
+| location = Nordrilund
+| subloc1 = Thawlk's Cave
+| descrip =
+Diviners must defeat Thawlk in the Level 58 Storm Quest, ''Krakin' Eggs'', to obtain their {{Link|Pet|Kraken}} Pet.
+*This Boss is not repeatable.
+
+| speech =
+:''"This is really too much! Did anyone think to put a guard at the door? Anyone?!?"''
+
+| spellnotes =
+
+| casts =
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Tempest;
+Natural Attack (Storm 125x, 70%)
+
+| quests =
+Krakin' Eggs;
+
+| gold =
+66 - 75;
+
+| hats =
+Hearty Bear Hat;
+Horned Helm of Valor;
+
+| robes =
+
+| boots =
+Slashing Bear Boots;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Supercharge;
+
+| reagents =
+Bone;
+Cobalt;
+Ectoplasm;
+
+| spellements =
+
+| snacks =
+Glowing Dragon Fruit;
+Salmonberry;
+Spicy Drumstick;
+
+| jewels =
+Mass Fire Prism Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

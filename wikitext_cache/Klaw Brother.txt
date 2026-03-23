@@ -1,0 +1,96 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 800
+| crecla = Cat
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Storm;
+
+| incresist =
+30% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Marleybone
+| location = Chelsea Court
+| subloc1 = Kenedy's Hideout
+| descrip =
+Minion to {{Link|Creature|Kenedy the Klaw}} who you fight for the Level 28 Myth Spell Quest.  All drops are recorded on that page.
+
+'''Note:''' despite his Boss rank, this creature only has mob rank boost and resist values.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Storm Shield;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Natural Attack (Death 90);
+Ghoul;
+Fire Elf (50+210);
+Storm Shark;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

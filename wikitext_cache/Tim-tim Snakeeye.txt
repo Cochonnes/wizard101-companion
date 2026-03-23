@@ -1,0 +1,282 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 5,675
+| crecla = Zebra
+| crecla2 = Equine 
+| school = Storm
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+72;
+
+| criticalblock =
+38;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Zafaria
+| location = Waterfront
+| subloc1 = Black Palace
+| lootchest = Tse-Tse Snaketail's Chest
+| descrip =
+*Two additional {{Link|Creature|Black Tusk Cultist}}s appear if more than two Wizards are present.
+
+| speech =
+:''"Have you not realized you are but a firefly against the full eclipse of the Umbra Queen?"''
+:''"I hate to take advantage of you in your weakened state!"''
+
+| cheatnotes =
+*{{Icon|Shield}} Tim-tim Snakeeye will interrupt-cast a '''{{Link|Spell|Tower Shield (-90%)}}''' at the start of the duel.
+**Tim-tim recasts his Shield every time he takes Damage.
+***{{Link|Spell|Melt}} can be used to prevent casting his Tower Shield.
+**{{Link|Spell|Pierce}}, {{Link|Spell|Shatter}}, and {{Link|Spell|Steal Ward}} can be used to safely remove the Tower Shield.
+***Fire or Myth-based Roshambo counter spells, such as {{Link|Spell|Helephant (Tier 2b)}} and {{Link|Spell|Betrayal}} can also be used to remove the Tower Shields.
+**Tim-tim will not replace the Shield until after the end of a multi-hit attack, like {{Link|Spell|Hydra}}.
+
+'''Healing Interrupt Cycle:'''
+
+This cycle can only activate when a Wizard casts a healing spell.
+*{{Icon|Healing}} ''"Feel better? Now I'll show you my stuff!"'' - If a Wizard casts a [[:Category:Healing Spells|Healing]] Spell, he will use '''{{Link|Spell|Pierce}}''' to remove one Tower Shield.
+**Pet Spells, Pet Talent Cards (e.g. {{Link|PetAbility|Heart o'Pixie}}), and subsequent Rounds of Heal over Time Spells (e.g. {{Link|Spell|Sprite}}) will not affect this cheat.
+**Although Pierce is not cast, it can be Dispelled.
+*{{Icon|Damage}} On the first round after healing (including healing within the round), he will not cast his Tower Shield when hit by a damage spell.
+*{{Icon|Shield}} At the beginning of the second round after the Wizard casts a healing spell, he will recast his Tower Shield.
+
+| monstrology =
+{{Monstrology Info
+| tome world = Zafaria
+| tome description =
+Truly, he is a master of disguise.
+
+| extract class =
+Equine;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,000
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 125-265-405, 70%);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Tempest;
+
+| quests =
+The Black Palace;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Celestia Badges|Astrologist]]''' {{Icon|Astrologist}} Badge and has not unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge, the following drops will be available:
+*15 Spellements will drop each time for their respective rank 4-8 Spells.
+
+| gold =
+79 - 162;
+
+| hats =
+Absolute Zero Brim*CR;
+Decorous Brim*CR;
+Face of Baobab*F4*WMV;
+Fire Valley Headdress*F2*WMV;
+Ghostgrass Hood*F3*WMV;
+Hat of the Old Kings*F3*WMV;
+Hood of the Hepheloomp*F2*WMV;
+Stone Town Topper*F2*WMV;
+
+| robes =
+Baxby's Noble Outfit;
+Cold River Cloak;
+Fire Valley Outfit;
+Hunter Prey Jacket*F2*WMV;
+Lost Outsider Gear;
+Outsider's Symmetrical Jacket*F2*WMV;
+Scintillating Tunic*CR;
+Shaman's Storm Sky Cloak;
+Sinister Juju Robes*F2*WMV;
+Splendid Tunic*CR;
+Storm Chaser's Outfit*F2*WMV;
+Sun's Circle Cloak*F2*WMV;
+Tunic of Sudden Grief*CR;
+Unbroken Spiral Robe*F2*WMV;
+Zafaria Tour Jacket*F2*WMV;
+
+| boots =
+Big Five Trackers;
+Charging Bull's Footguards;
+Finely Balanced Boots;
+Sky Walking Boots*CR;
+
+| athames =
+Great Ape's Tooth*F2;
+Kimba's Fang*F2*WMV;
+The Old Tusk-Tusk-Trunk;
+Zanga's Blade;
+
+| amulets =
+Berserker's Rage Pendant*F3*WMV;
+Nganga's Strong Muti Pendant;
+Witch Doctor's Juju Pendant*F2*WMV;
+
+| rings =
+Aryanah's Golden Loop;
+Council of Light's Band*F2*WMV;
+Hannibal's Bronze Ring;
+Kakenya's Broken Band;
+Mago's River Stone;
+Spider Shadow's Stone*F3*WMV;
+
+| wands =
+Quagga Blade*F2*WMV;
+Spear of the Trade Winds;
+Staff of Shadow and Light*F2*WMV;
+Staff of Solomon*F2*WMV;
+Sun's Light Spear*F2;
+
+| decks =
+Bundle of Eternal Flame;
+Hand-Chased Box of Destiny*F2*WMV;
+
+| items =
+Zafaria Main Theme*F2*WMV;
+
+| cards =
+Efreet*F2*WMV;
+Enfeeble (-3)*F3*WMV;
+Forest Lord*F2*WMV;
+Insane Bolt*F4*WMV;
+Leviathan*F2*WMV;
+Medusa*F2*WMV;
+Precision;
+Ra*F2*WMV;
+Skeletal Dragon*F3*WMV;
+Sniper*F2*WMV;
+Snow Angel*F2*WMV;
+Supercharge*F3*WMV;
+
+| reagents =
+Brass;
+Cobalt;
+Spider Silk*F4*WMV;
+
+| spellements =
+Blight Hound*BR*F2;
+Centaur*BR*F2;
+Colossus*BR;
+Cyclops Minion*BR*F2;
+Earth Walker*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*BR;
+Ice Wyvern*BR;
+Immolate*BR;
+Kraken*BR;
+Leviathan*BR;
+Medusa*BR;
+Minotaur*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Ra*BR*F2*WMV;
+Rebirth*BR;
+Scarecrow*BR;
+Seraph*BR;
+Skeletal Dragon*BR;
+Skeletal Pirate*BR;
+Snow Angel*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Stormzilla*BR*F2;
+Triton*BR;
+Vampire*BR*F2;
+Wraith*BR;
+
+| snacks =
+Buttered Bread*F2*WMV;
+Cauliflowers;
+Delicious Cookie*F2*WMV;
+Dr. Jalapeno;
+Flapjacks;
+Glowing Dragon Fruit*F3*WMV;
+Glowing Star Fruit;
+Glowing Taffy;
+Golden Grapes;
+Gummy Humongofrog;
+Jelly Baby*F2*WMV;
+Kola Nuts*F2*WMV;
+Salmonberry;
+Shiny Tomato;
+Spicy Drumstick*F2;
+Submarine Sandwich;
+Uni-Corn;
+
+| jewels =
+Catch Opal;
+Hearty Opal;
+Opaque Blocking Amethyst +7;
+Opaque Defense Amethyst +33;
+Opaque Defense Onyx +33*F2*WMV;
+Plain Accurate Peridot +7%;
+Plain Defense Sapphire +31;
+Pyrosaurus Rex Ruby;
+Stormclaw Amethyst;
+
+| pins =
+
+| pets =
+Leopard*CR*F2*WMV;
+Skink*CR*F2*WMV;
+
+| seeds =
+Burning Snap Dragon;
+Cornbread Fruit Bush;
+Deadly Fly Trap;
+Fickle Pickle;
+Helephant Ears;
+Key Limes*CR;
+Orange Bell Pepper*CR;
+Red Bell Pepper*F2*WMV;
+Trumpet Vine;
+White Desparagus;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

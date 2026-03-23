@@ -1,0 +1,100 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 1,150
+| crecla = Snake
+| crecla2 = Undead
+| school = Ice
+| startpips = 3
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Upper Zigazag
+| subloc1 = House of Scales
+| descrip =
+Frosty Echo of Apep is a Minion summoned by {{Link|Creature|Apep the Snaky One}}.
+
+'''Notes:'''
+*This Minion cast spells for two Rounds before Apep the Snaky One uses {{Link|Spell|Draw Health}} on it.
+*When this Minion is defeated, Apep the Snaky One will replace it with {{Link|Creature|False Echo of Apep}}.
+
+| speech =
+
+*'''Monstrology Description:'''
+:A manifestation of Apep's sense of justice. It's usually brutal, but arguably fair.
+
+| spellnotes =
+
+| casts =
+Fortify;
+Tower Shield;
+Iceblade;
+Ice Trap;
+Natural Attack (Ice 115-225-335);
+Blizzard;
+Ice Wyvern;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

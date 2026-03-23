@@ -1,0 +1,134 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 6,960
+| crecla = Draconian
+| school = Life
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+Life;
+
+| criticalblock =
+
+| outpierce =
+5% Life;
+
+| outboost =
+
+| incboost =
+30% Storm, Death;
+
+| incresist =
+15% Ice, Life, Balance;
+45% Fire, Myth;
+Sun;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Celestia
+| location = Stormriven Hall
+| subloc1 = Storm Surge Cavern
+| descrip =
+*Defeating Nethellnax is part of the Initiate Death Weaving quest, ''"Diving for Death"''. Wizards can also defeat Nethellnax 6 times as one of their Death Weaving lessons, which awards the badge, [[Basic:Death Weaving Badges|Battled the Icon of Death and Lived]].
+
+| speech = 
+:'''Nethellnax''': ''"Oh, you. You... who... allowed this to happen to me. I... tried... I tried what I read in that text back in Dragonspyre. But it didn't... it didn't..."''
+:'''Nethellnax (speaking as [[:File:(Quest) The Three Little Wolves Dialogue 8.png|Timber Wolf (Ice)]]):''' ''"This land is ours. Its fields are ours. Its trees ours, all of it is ours. You dare to stand in our way?"'' 
+:'''Nethellnax''': ''"That wasn't me. That was the... the..."''
+:'''Nethellnax (speaking as [[:File:(Quest) The Three Little Wolves Dialogue 11.png|Daring Daisuke]])''': ''"But I buried them in sand, sharpened the blades of our ninja and Samoorai, weakened their attacks..."''
+:'''Nethellnax''': ''"...The corruption... the Schools mixed and altered. They mutated... me... I had hoped the energy of the stars or moon could help me stabilize myself... but... no... I'll just have to settle for what I do best... spread Death and destruction to the Spiral!"''
+
+| cheatnotes =
+*{{Icon|Heal over Time}} ''"The Life Energy won't stop!"'' - At the beginning of every Round, Nethellnax will interrupt-cast {{Link|Spell|Ha-ha! A 1-Up!}} on himself.
+*{{Icon|Healing}} If Nethellnax is defeated while his Heal over Time cheat is still active, he will revive with full Health.
+*{{Icon|Spell}} ''"I am not this, I am Death!"'' - At the beginning of the fourth Round, and when Nethellnax revives, he gives Wizards the following Spell:
+**{{GivesSpell|cards=1|size=x150px|Skeletal Pirate (Tier 2b)}}
+*{{Icon|Death}} ''"Is that one of my tricks?"'' - If a Wizard casts {{Link|Spell|Skeletal Pirate (Tier 2b)}} on Nethellnax, he removes all Heal over Time effects on himself and stops his Heal over Time cheat.
+**''"What... what just happened?"'' - Other Spells that remove Heal over Time effects for Weaknesses or Shields, such as {{Link|Spell|Dr. Von's Monster (Tier 2b)}} or {{Link|Spell|Primal Stampede}}, will trigger Nethellnax to remove all Heal over Time effects on himself and stop his Heal over Time cheat.
+
+| spellnotes =
+
+| casts =
+Mend;
+Empowerment;
+Regenerate;
+Lifeblade;
+Life Trap;
+Lifeclops;
+Nature's Wrath;
+Life Banshee (250);
+Seraph;
+Centaur;
+Forest Lord;
+
+| quests =
+Diving for Death;
+
+| dropnotes =
+Wizards will receive Jewels that are appropriate for their Level.
+
+| gold =
+4 - 37;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Banshee (Tier 2b);
+Dark Sprite (Tier 2b);
+Death Trap;
+Deathblade;
+Ghoul (Tier 2b);
+Scarecrow (Tier 2b);
+Skeletal Dragon (Tier 2b);
+Vampire (Tier 2b);
+Wraith (Tier 2b);
+
+| reagents =
+Weft Yarn @ 10 Weft Yarn;
+Weft Yarn @ 12 Weft Yarn;
+Weft Yarn @ 15 Weft Yarn;
+Weft Yarn @ 50 Weft Yarn;
+Weft Yarn @ 100 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Flawless Accurate Onyx +16%;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

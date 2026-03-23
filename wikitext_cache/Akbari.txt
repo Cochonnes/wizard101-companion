@@ -1,0 +1,181 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 11,760
+| crecla = Rat
+| school = Myth
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+120 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+3%;
+
+| outboost =
+70%;
+
+| incboost =
+15% Storm;
+
+| incresist =
+30% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Kur;
+
+| world = Mirage
+| location = Caterwaul Canyons
+| subloc1 = Traitor's Cave
+| descrip =
+Two additional {{Link|Creature|Desert Swirler|}}s will appear if more than two Wizards are present.
+
+| speech =
+
+| cheatnotes =
+'''Kur'''
+*{{Icon|Late}} ''"Tardiness will not be tolerated"'' - If a Wizard joins the duel after it has already begun, Kur will place a protected {{Link|Spell|Myth Trap (+35%)}} on the Wizard.
+
+| spellnotes =
+
+| casts =
+Apologue;
+Reliquary;
+Ether Shield (-75%);
+Mythspear (+10%);
+Mythblade;
+Blinding Light (85%);
+Yellow Troll;
+Natural Attack (Myth 115-230-345, 75%);
+Humongofrog (310-370);
+Minotaur (50+520);
+Orthrus (785);
+Medusa (865);
+
+| quests =
+To the Chimera!;
+
+| gold =
+257 - 422;
+
+| hats =
+Sand Sea Cowl of Hardiness;
+Sand Sea Cowl of Mischief;
+
+| robes =
+Sand Sea Outfit of Shivers;
+
+| boots =
+Vizier's Shoes of Smolders;
+Zruvan Galesh of Demise;
+
+| athames =
+Sand Sea Dagger of Emptiness;
+
+| amulets =
+
+| rings =
+
+| wands =
+Durvish Armaments of Unrest;
+Voltaic Durvish Armaments;
+
+| decks =
+Kobra Hand of Rigor;
+
+| items =
+
+| cards =
+Combustion;
+Counterforce;
+Rusalka's Wrath*F2;
+Saga of Heroes;
+Witch's House Call;
+
+| reagents =
+Aether*F2;
+Amber Dust*F3;
+Aquamarine*F2;
+Astral Shard*F2;
+Fire Blossom*F3;
+Fish Fin;
+Golden Pearl;
+Iridium;
+Mithril;
+Orichalcum;
+Scales;
+Silver;
+Stardust*F2;
+Steel*F3;
+Sunstone;
+Tungsten*F4;
+Turquoise*F2;
+Vine;
+
+| spellements =
+
+| snacks =
+Antheneum Delight; 
+Beast Wellington;
+Beetle Cream Soda*F4;
+Chalupacabra*F3;
+Hard Boiled Beetle Eggs*F4;
+Hot Cross Buns;
+Mustachios;
+Satyr Chow;
+Ships 'n' Queso;
+Veggie Juice;
+
+| jewels =
+Lustrous Accurate Jade +11%;
+Lustrous Blocking Onyx +13;
+Lustrous Blocking Sapphire +13;
+Lustrous Critical Ruby +13;
+Renew Opal;
+Radical Opal;
+Shiny Blocking Jade +16;
+Shiny Blocking Ruby +16;
+Shiny Critical Hematite +16;
+Shiny Critical Onyx +16;
+Shiny Mana Opal +45;
+Shiny Mana Opal +47;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Baby Carrots;
+Boon Tree*CR;
+Bread Fruit Bush;
+Couch Potatoes*CR;
+Deadly Ninja Fig;
+Fickle Pickle;
+Fish on a Vine;
+Helephant Ears;
+Laugh-O-Dil;
+Moon Flower;
+Purple Grapes of Wrath*F2;
+Purple Snow Apples;
+Queen Crape Myrtle;
+Red Huckleberries;
+Rye Bread Fruit Bush;
+Snap Dragon;
+Sour Fickle Pickle;
+
+| mounts =
+
+| spells =
+
+}}

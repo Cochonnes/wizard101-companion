@@ -1,0 +1,173 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 44,000
+| crecla = Draconian
+| crecla2 = Undead
+| school = Shadow
+| masteries =
+Death;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+10%;
+
+| outboost =
+90%;
+
+| incboost =
+15% Life;
+
+| incresist =
+20% Fire, Ice, Storm, Myth, Balance;
+35% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Nodnarb;
+
+| world = Dragonspyre
+| location = Dragon's Roost
+| subloc1 = Dragonsage Hall
+| descrip =
+Neberyx is a Boss that was designed by a player named Brandon, who visited Kingsisle through the Make-a-Wish Foundation.  Wizards encounter this Draconian in Dragonsage Hall, in order to recover the Dragonhorn Order's Firebrand Orb.
+
+| speech =
+:''"Ha! When I first planned to break into Dragonsage Hall and steal the Firebrand Orb, I genuinely expected the Dragonhorns to muster a great defense. Instead, they send you. Mua-ha-ha-ha! Hopefully, deciphering the Orb will be a challenge at least. Well, let's get on with it then. I've got code cracking to do!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+Neberyx had such perfect wings before he succumbed to death. Now they are little more than threads.
+
+| extract class =
+Draconians;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tardiness will not be tolerated!"'' - If a Wizard joins the duel after the second Round, Neberyx will cast a Moon School version of {{Link|Spell|Insane Bolt}} on the Wizard, dealing 1,500 Moon Damage.
+*{{Icon|Blade}}{{Icon|Global}} ''"Enough of this!"'' - Sometimes, if a Wizard casts a Damage Blade or Global Spell, Neberyx will cast a version of Earthquake that deals '''600''' Myth Damage.
+**Pet casts may trigger this cheat.
+*{{Icon|Spell}} ''"How do you like this?"'' - Neberyx will say this when he casts his Natural Attack.
+
+| spellnotes =
+*Natural Attack deals 100 Shadow Damage per Pip and applies a -40% Damage Charm on all Wizards.
+
+| casts =
+Dream Shield;
+Weakness (-30%);
+Deathblade (+40%);
+Feint (+75%);
+Natural Attack (Shadow 100-X Pips);
+Death Scarab (Death);
+Death Cyclops;
+Call of Khrulhu;
+Deer Knight (330+300);
+Winged Sorrow;
+Avenging Fossil;
+
+| quests =
+Trial by Dragon's Fire;
+
+| dropnotes =
+Neberyx will always drop one random Brandon Treasure Card upon defeat.
+
+| gold =
+1,337;
+
+| hats =
+Dragonhorn Disciple's Helm*F3*WMV;
+Dragonhorn Helm of Balance*F2;
+Dragonhorn Helm of Death*F2*WMV;
+Dragonhorn Helm of Fire*F2*WMV;
+Dragonhorn Helm of Ice;
+Dragonhorn Helm of Life*F3*WMV;
+Dragonhorn Helm of Myth*F2*WMV;
+Dragonhorn Helm of Storm*F2*WMV;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Dragon Bust;
+Dragon Cauldron;
+Dragon Claw;
+Dragon Wall Bust*F2*WMV;
+Dragonclaw Pedestal;
+Dragonspyre Ruins;
+Dragonwing Bust;
+Great Dragon Bust*F2*WMV;
+Regal Dragon Statue*F2;
+
+| cards =
+Balance Brandon*F6*WMV;
+Death Brandon*F4*WMV;
+Fire Brandon*F9*WMV;
+Ice Brandon*F6*WMV;
+Life Brandon*F3*WMV;
+Myth Brandon*F7*WMV;
+Storm Brandon*F7*WMV;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Balance Brandon Citrine*F3*WMV;
+Death Brandon Onyx*F3;
+Fire Brandon Ruby*F2*WMV;
+Ice Brandon Sapphire;
+Life Brandon Jade*F4*WMV;
+Myth Brandon Peridot*F2*WMV;
+Storm Brandon Amethyst*F5*WMV;
+
+| pins =
+
+| pets =
+
+| seeds =
+Burning Snap Dragon;
+Maelstrom Snap Dragon*F2;
+Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

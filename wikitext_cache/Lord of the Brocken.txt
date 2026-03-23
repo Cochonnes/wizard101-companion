@@ -1,0 +1,239 @@
+{{Stub|which version of the Enfeeble Treasure Card this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 10,480
+| crecla = Undead
+| school = Storm
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Spectre of the Brocken;
+
+| world = Avalon
+| location = The Wyrd
+| subloc1 = The Lost Abbey
+| descrip =
+Two additional {{Link|Creature|Tormented Treant}}s appear if more than two Wizards are present.
+
+| speech =
+:''"By the Horned Crown! Who disturbs my melancholy? I shall feed on your mana, and leave your body a husk for the beetles!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Avalon
+| tome description =
+Beetle's husk and full of mana, Lord of the Brocken masks his arcana.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 190-290-450);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Tempest;
+
+| quests =
+Speed of Darkness;
+
+| gold =
+85 - 112;
+
+| hats =
+Bad Storm Shroud*F3*WMV;
+Brisk Helmet of Nodor;
+Catacombs Helm*F4*WMV;
+Helm of Nature's Wrath;
+Hunter's Helm of Mercy*F6*WMV;
+Mask of the Silent Hunter;
+Paladin's Frosty Helmet;
+The Spellslinger*CR*F4*WMV;
+Wrath of the Wild;
+
+| robes =
+Bad Storm Armor;
+Bane Wyrm's Tartan*F4*WMV;
+Brave One's Plate;
+Fire Spirits' Toasty Tunic;
+Honor Bound Surcoat;
+Robes of the Silent Hunter;
+Three Color Serpent's Robes*F4;
+Tunic of Nature's Wrath;
+Windbreaker of Nodor;
+
+| boots =
+Hospitable Knight's Boots*F6*WMV;
+Loyal Knight's Boots*F6*WMV;
+Luck Smithed Boots*F2*WMV;
+Ponycorn Hoofers;
+Splashing Stream Waders*F2;
+
+| athames =
+Dryad's Burning Nettle*F4;
+Owl's Talon*F2;
+
+| amulets =
+Mystery of the Druids*F4;
+Proven Armiger's Pendant*F2*WMV;
+
+| rings =
+Bad Host Band;
+Band of the Lost Abbey;
+Black Annie's Band;
+Circle of Caliburn;
+Deep Water Rising Ring*F5;
+Lake Spiral Ring;
+
+| wands =
+Chivalric Mallet*F3*WMV;
+Rosewood Persuader;
+
+| decks =
+Antikythera Deck*F9*WMV;
+
+| items =
+Avalon Abbey Road Theme*F3*WMV;
+Avalon Combat Theme*F4;
+Small Arms Weapons Rack;
+Square Pedestal;
+
+| cards =
+Cleanse Charm*F5*WMV;
+Disarm*F6*WMV;
+Enfeeble;
+Fire Dragon;
+Frost Giant;
+Gargantuan*F4*WMV;
+Insane Bolt*F8*WMV;
+Orthrus*F2*WMV;
+Power Nova*F2;
+Rebirth;
+Scarecrow;
+Storm Lord*F3;
+Supercharge*F6*WMV;
+Unstoppable;
+Wild Bolt*F6*WMV;
+
+| reagents =
+Black Lotus*F3*WMV;
+Brass*F3;
+Bronze;
+Cat Tail*F2*WMV;
+Cobalt;
+Deep Mushroom*F5*WMV;
+Frost Flower*F3*WMV;
+Lava Lily*F5;
+Mist Wood*F7*WMV;
+Nickel*F2;
+Ore*F2;
+Parchment*F4*WMV;
+Pearl*F4;
+Red Mandrake*F4*WMV;
+Shell*F6*WMV;
+Stone Block*F5*WMV;
+
+| spellements =
+
+| snacks =
+Bogwich;
+Cauliflowers*F2*WMV;
+Cheese Broccoli;
+Chocolate Strawberry;
+Cracker*F2;
+Deviled Eggs*F3*WMV;
+Glowing Star Fruit*F2;
+Glowing Taffy;
+Goat Cheese;
+Golden Grapes;
+Green Grapes;
+Gummy Firecat;
+Gummy Humongofrog;
+Gummy Wyrms*F2;
+Jelly Baby;
+King Banana*F2;
+Kola Nuts*F2;
+Nettle Root*F2;
+Pigeon Pie*F2*WMV;
+Roasted Chickpeas;
+Strawberry Cupcake;
+Submarine Sandwich;
+Sugar Donut;
+Tiny Fish;
+Treant Bark;
+
+| jewels =
+Clear Blocking Hematite +9;
+Halt Leader Opal;
+Lock Opal;
+Mega-Upset Opal;
+Opaque Accurate Onyx +8%;
+Opaque Critical Citrine +7*F2;
+Opaque Defense Onyx +36;
+Opaque Mana Opal +30;
+Super Hurry Opal;
+
+| pins =
+
+| pets =
+Spectre Lord*F5*WMV;
+
+| seeds =
+Blue Huckleberries;
+Deadly Fly Trap;
+Evil Magma Peas*CR;
+Frozen Fly Trap;
+Key Limes*CR;
+Pink Dandelion*CR;
+Pink Huckleberries;
+Red Huckleberries;
+Silver Trumpet Vine*CR;
+Trumpet Vine;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

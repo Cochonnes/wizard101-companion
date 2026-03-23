@@ -1,0 +1,96 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 16,315
+| crecla = Wolf-Man
+| school = Sun
+| school2 = Moon
+| startpips = 6
+| powerpips = Yes
+| critical =
+160 Any;
+
+| criticalblock =
+581 Any;
+
+| outpierce =
+17%;
+
+| outboost =
+90%;
+
+| incboost =
+30% Ice;
+
+| incresist =
+34% Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+64% Fire;
+
+| outhealing =
+23%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Howling Lands
+| subloc1 = Kingdom of Were-a-Lot
+| descrip =
+Sunburn Bear is considered a minion to {{Link|Creature|Moonbeam Bear}}. All drops and cheats should be recorded on that page.
+
+| speech =
+
+| spellnotes =
+Casts sun version of the three global spells listed below. They still give damage toward their original school. Also casts sun spells that makes their ally, corresponding to the global spell Sunburn Bear put up, cheat cast their natural attack.
+
+| casts =
+Time of Legend;
+Circle of Thorns;
+Balance of Power;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

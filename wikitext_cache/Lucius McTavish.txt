@@ -1,0 +1,118 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,520
+| crecla = Rat
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+McTavish Brother;
+
+| world = Marleybone
+| location = Chelsea Court
+| subloc1 = McTavish Hideout
+| descrip =
+Balance Wizards must defeat this Boss during their Level 28 Questline to obtain the {{Link|Spell|Judgement}} Spell.
+*Lucius McTavish is not repeatable after completing the Quest, Takin' the Omnibus.
+
+| speech =
+:''"What? You say yer looking for a book? I think you know where the professors treasure is hidden. You're gonna have to go through us to get it."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 105 Life Damage per Pip.
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Black Mantle;
+Sprite;
+Lifeblade;
+Life Trap;
+Imp;
+Leprechaun;
+Nature's Wrath;
+Seraph;
+Troll;
+Evil Snowman;
+Fire Elf;
+Sunbird;
+Storm Shark;
+
+| quests =
+Takin' the Omnibus;
+
+| gold =
+22 - 34;
+
+| hats =
+Jinxed Hat;
+
+| robes =
+Affable Cloak;
+Fancy Garments;
+Robe of the Exceptional;
+
+| boots =
+
+| athames =
+Informant's Dirk;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Angled Gravemarker;
+
+| cards =
+Fire Trap;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Stinky Cheese;
+Wheat Cracker;
+
+| jewels =
+Evil Snowman Sapphire;
+Flawed Accurate Opal +2%;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

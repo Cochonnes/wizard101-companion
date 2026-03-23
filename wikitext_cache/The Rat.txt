@@ -1,0 +1,515 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 28,000
+| crecla = Rat
+| school = Shadow
+| masteries =
+Fire;
+Ice;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+5%;
+
+| outboost =
+65%;
+
+| incboost =
+None;
+
+| incresist =
+15% Storm, Myth, Life, Death, Balance, Moon, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Titan Experiment 07;
+Titan Experiment 34;
+Titan Experiment 291;
+
+| world = Polaris
+| location = Borealis Peaks
+| subloc1 = Horizon Hold
+| lootchest = Ratsputin's Chest
+| descrip =
+The Rat, also known as {{Link|NPC|Rasputin}}, is the final Boss of {{Link|Location|Polaris}}. He is the firstborn Child of [[NPC:Old Cob|Grandfather Spider]].
+*The strategy of this battle is to defeat The Rat in less than 30 rounds.
+
+| speech =
+:'''{{Link|NPC|Rasputin}}:''' ''"Oh, what a pleasant surprise! You decided to attend the ceremony after all. The final moments of this twisted experiment called the Spiral. For centuries, we lay in the darkness and torment, but we dreamed of this day, when shadows would rise and pure Chaos would be properly restored. Now that we've reached this fateful moment, I can finally shed this silly skin..."''
+:'''The Rat:''' ''"Behold my true form, you insignificant mortal. It is much more comfortable... and immensely more powerful. Come on and challenge me. I welcome the amusement. With my Titan, I will destroy you and your world at the same time."''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tardiness will not be tolerated!"'' - Wizards who join the duel after the battle has started, will be punished with a '''+60%''' Fire, Ice, and Global [[:Category:Trap Spells|Trap]], as well as a Shadow version of {{Link|Spell|Dimension Shift}} that transfers all negative hanging effects on The Rat to the late Wizard.
+*{{Icon|Feint}} ''"Fool me once?"'' - If a {{Link|Spell|Feint}} is placed on The Rat, he will shout this as a warning. 
+**''"Can't get fooled again!"'' - If a {{Link|Spell|Feint}} has already been placed on The Rat, any subsequent attempts to Feint him will trigger a Shadow version of {{Link|Spell|Dimension Shift}} that removes all negative hanging effects on him, and places them onto the Wizard who cast the {{Link|Spell|Feint}}.
+***{{Link|Spell|Mass Feint}} will not trigger this cheat.
+*** The Balance version of {{Link|ItemCard|Feint}} will not be removed, but will instead summon a {{Link|Creature|Titan Experiment 07}} minion as per The Rat's ''"The Spiral is a disease, we have the cure!"'' cheat.
+
+'''Minions'''
+
+As long as there are Minions occupying all three enemy spots, the Rat will be unable to summon additional Minions in response to a trigger cast until a spot opens up.
+:{{Icon|Trap}} '''{{Link|Creature|Titan Experiment 07}}'''
+:*''"The Spiral is a disease, we have the cure!"'' - If a Wizard casts a [[:Category:Trap Spells|Trap]] spell, The Rat will cast a Death Spell to summon a {{Link|Creature|Titan Experiment 07}} Minion with 1 Health 103% Resist to Fire, Ice, Storm, Myth, Life, Death, and Balance, and 3% Resist to Shadow and Astral school Damage Spells.
+::*This can be dispelled with {{Link|Spell|Strangle}}, preventing the Minion from being summoned.
+::*On its first turn, the Minion will cast a {{Link|Spell|Plague (-25%)}}, then polymorph to have 10 Health and 105% Resist to Fire, Ice, Storm, Myth, Life, Death, and Balance, and 5% Resist to Shadow and Astral school Damage Spells.
+::*On its second turn, the Minion will cast a {{Link|Spell|Mass Infection}}, and polymorph to have 100 Health and 107% Resist to Fire, Ice, Storm, Myth, Life,  Death, and Balance, and 7% Resist to Shadow and Astral school Damage Spells.
+::*On its third turn, the Minion will cast a multi-target all enemies {{Link|Spell|Bad Juju (2 Pip)}}, then self-destruct.
+::*{{Link|Spell|Mass Feint}} will trigger these cheats.
+::*{{Link|Spell|Mockenspiel}} will trigger these cheats.
+::*Spells that place negative charms will also trigger these cheats.
+
+:{{Icon|Heal}} '''{{Link|Creature|Titan Experiment 34}}'''
+:*''"You call that healing? Behold my creation!"'' - If a Wizard casts a [[:Category:Healing Spells|Healing]] Spell, The Rat will summon a {{Link|Creature|Titan Experiment 34}} Minion with 1 Health and 103% Resist to Fire, Ice, Storm, Myth, Life, Death, and Balance, and 3% Resist to Shadow and Astral school Damage Spells.
+::*On its first turn, the Minion will cast {{Link|Spell|Guiding Light}} and {{Link|Spell|Sanctuary}}, then polymorph to have 10 Health and 105% Resist to Fire, Ice, Storm, Myth, Life, Death, and Balance, and 5% Resist to Shadow and Astral school Damage Spells.
+::*On its second turn, the Minion will either cast {{Link|Spell|Regenerate (225+1,100)}}, if The Rat has been injured, or pass if he is uninjured or fully defeated. It will then polymorph to have 100 Health 107% Resist to Fire, Ice, Storm, Myth, Life, Death, and Balance, and 7% Resist to Shadow and Astral school Damage Spells.
+::*On its third turn, the Minion will either cast {{Link|Spell|Rebirth (730, 100%)}} (if The Rat has been injured), or {{Link|Spell|Spinysaur}} on a random Wizard (if The Rat is uninjured or fully defeated), then self-destruct.
+:::*''"Say bye-bye to my friend, and hello to your doom!"'' - If the Minion used {{Link|Spell|Rebirth}}, The Rat will also cast a {{Link|Spell|Doom and Gloom (-75%)}}.
+:::*When a defeated Minion is affected by {{Link|Spell|Rebirth}}, it will be revived for an additional Round. The revived Minion will always cast the same spell it used previous to its defeat.
+::*Pet Spells will trigger this cheat.
+::*Spells such as {{Link|Spell|Link}} and {{Link|Spell|Power Link}} will not trigger this cheat.
+
+:{{Icon|Blade}}{{Icon|Global}} '''{{Link|Creature|Titan Experiment 291}}'''
+:*''"You have blades, but I have Borealis!"'' - If a Wizard casts a [[:Category:Blade Spells|Blade]] or [[:Category:Global Spells|Global]] spell, The Rat will cast a Storm Spell to summon a {{Link|Creature|Titan Experiment 291}} Minion with 1 Health and 103% Resist to Fire, Ice, Storm, Myth, Life, Death, and Balance, and 3% Resist to Shadow and Astral school Damage Spells.
+::*This can be dispelled with {{Link|Spell|Dissipate}}, preventing the Minion from being summoned.
+::*On its first turn, the Minion will cast {{Link|Spell|Windstorm (+25%)}}, and polymorph to have 10 Health and 105% Resist to Fire, Ice, Storm, Myth, Life, Death, and Balance, and 5% Resist to Shadow and Astral school Damage Spells.
+::*On its second turn, the Minion will cast {{Link|Spell|Wild Bolt (15-150-1,150)}} on a random Wizard, and polymorph to have 100 Health and 107% Resist to Fire, Ice, Storm, Myth, Life, Death, and Balance, and 7% Resist to Shadow and Astral school Damage Spells.
+::*On its third turn, the Minion will cast a multi-target all enemies {{Link|Spell|Insane Bolt (1,125)}}, then self-destruct.
+:::*''"Borealis is hard to pierce, eh?"'' - The Rat will shout this whenever a Titan Experiment 291 self-destructs.
+::*Pet Spells will trigger this cheat.
+
+{{Icon|Round}} '''Titan Timer'''
+*''"Down comes the Sky Anchor, and the Spiral with it!"'' - At the beginning of Rounds 2, 10, and 20, the Titan will attack the Sky Anchor, causing 1,043 Shadow Damage to all Wizards. The Damage will increase for Rounds 10 and 20.
+*''"My Titan will see you disintegrated!"'' - At the beginning of Rounds 5, 15, and 25, the Titan will deal 1,043 Shadow Damage to all Wizards. The Damage will increase for Rounds 15 and 25.
+*''"And alas, the Anchor falls, the Spiral unravels..."'' - At the start of Round 30 (and every Round thereafter), the Titan will deal 1,000,000 Shadow Damage with a higher Armor Piercing to all Wizards, thus ending the fight.
+:*If The Rat is defeated by a Damage Over Time on the 30th round, and a Wizard using {{Link|Spell|Guardian Spirit}}, the timer will stop, and the Wizard will survive.
+
+| spellnotes =
+*Uses {{Link|Spell|Brainfreeze}} that also stuns all enemies.
+
+| casts =
+Tower Shield (-55%);
+Legion Shield (-35%);
+Temperedblade (+35%);
+Temperedblade (+45%);
+Fuel;
+Steal Charm;
+Steal Ward;
+Dimension Shift;
+Natural Attack (The Rat);
+Fire Wyvern (3 Pip);
+Raging Bull;
+Lava Giant;
+Blue Phoenix;
+Brainfreeze;
+Snowball Barrage;
+
+| quests =
+Saving the Sky Anchor;
+Horizon Hold;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge and has not unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge, the following drops will be available:
+*12 Spellements will drop each time from '''any''' School for their respective rank 8, 9, 10, King Artorius and Polaris 6 Pip Spells.
+
+If a Wizard already has the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of Horizon Hold to acquire a [[Item:Level Scaling Elixir - 110|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+102 - 200;
+
+| hats =
+Majoris Cover of Impulse;
+Majoris Cowl of Insight*F2*WMV;
+Majoris Helm of Diligence;
+Majoris Helm of Fortitude*F2;
+Shimmering Majoris Cowl;
+The Enchanter*CR;
+The Goat Horns*CR;
+The Ice Horns*CR*F2*WMV;
+The Kroktop*CR;
+The Manticore*CR;
+The Stalwart Guardian*CR;
+The Stardust*CR;
+The Warlock*CR;
+
+| robes =
+Armor of the Titan Warrior;
+Borealis Armor of Schisms*F3;
+Borealis Gear of Resolution*F2;
+Borealis Gear of Windswirls*F4*WMV;
+Borealis Icecrystal Plate;
+Borealis Majoris Armor;
+Borealis Raiment of Vision;
+Majoris Armor of Diligence;
+Majoris Armor of Impulse*F3*WMV;
+Majoris Gear of Cohesion*F3*WMV;
+Majoris Plate of Umbrage*F3;
+Majoris Raiment of Insight;
+Majoris Robe of Fortitude;
+Polarian Borealis Raiment;
+Shimmering Majoris Armor;
+Timeless Borealis Vestment*F2*WMV;
+Titan Warrior Garb of Logic*F2*WMV;
+Titan Warrior Gear of Torpor*F2*WMV;
+Titan Warrior Gear of Waves*F3*WMV;
+Titan Warrior Honesty Drape*F2*WMV;
+Titan Warrior Plate of Bite;
+Titan Warrior Skyfire Robe*F2*WMV;
+Titan Warrior Wrap of Mettle*F2*WMV;
+Volatile Borealis Armor*F3*WMV;
+
+| boots =
+Boots of the Titan Warrior;
+Borealis Boots of Schisms*F3*WMV;
+Borealis Boots of Windswirls*F4*WMV;
+Borealis Footgear of Vision;
+Borealis Icecrystal Shoes*F3*WMV;
+Borealis Majoris Sabatons;
+Borealis Shoes of Resolution*F2;
+Majoris Boots of Diligence;
+Majoris Footgear of Insight*F2*WMV;
+Majoris Runners of Cohesion;
+Majoris Shoes of Fortitude*F2*WMV;
+Majoris Stalkers of Umbrage;
+Majoris Trekkers of Impulse*F4*WMV;
+Polarian Borealis Footgear;
+Shimmering Majoris Footgear;
+Timeless Borealis Trekkers*F3*WMV;
+Titan Warrior Boots of Bite;
+Titan Warrior Boots of Logic;
+Titan Warrior Honesty Boots;
+Titan Warrior Shoes of Waves;
+Titan Warrior Skyfire Riders*F2*WMV;
+Titan Warrior Torpor Riders*F3*WMV;
+Titan Warrior's Mettle Boots*F2*WMV;
+Volatile Borealis Boots*F2*WMV;
+
+| athames =
+
+| amulets =
+Amulet of the Arcanum Exile*F2*WMV;
+Arcanum Exile Amulet of Vim*F3*WMV;
+Arcanum Exile Burning Charm*F3*WMV;
+Arcanum Exile Idea Bauble*F2;
+Arcanum Exile Relic of Gales*F2*WMV;
+Arcanum Exile Snowflake Torc*F2*WMV;
+Arcanum Exile Torc of Strife*F2*WMV;
+Auroracle's Charm of Equity;
+Auroracle's Torc of Intent;
+Bitter Relic of Horizon Hold*F2;
+Chillvenom's Maelstrom Charm;
+Horizon Hold Amulet of Zest*F3*WMV;
+Horizon Hold Choker of Fog*F4*WMV;
+Horizon Hold Scorched Charm;
+Jarilo's Talisman of Decorum;
+Jawniak's Torc of Deceit*F2;
+Jeweled Slopes Ornament*F3*WMV;
+Lt. Snow's Incendiary Amulet*F2*WMV;
+Orlov's Icesheet Charm*F3;
+Rasputin's Charm of Exertion*F3*WMV;
+Steady Arcanum Exile Ampul*F4*WMV;
+Warlord Minak's Medallion;
+Watch Lion's Collar of Angst*F3*WMV;
+Yolok's Ampul of Observation;
+
+| rings =
+
+| wands =
+Borealis Artifact of Vision;
+Borealis Icecrystal Artifact;
+Borealis Majoris Artifact;
+Borealis Relic of Resolution*F2*WMV;
+Borealis Relic of Windswirls*F2*WMV;
+Borealis Remnant of Schisms*F3;
+Keepsake of Titan Equity*F2;
+Majoris Curio of Fortitude*F2*WMV;
+Majoris Fragment of Insight*F2;
+Majoris Portion of Impulse;
+Majoris Relic of Cohesion;
+Majoris Relic of Diligence*F2*WMV;
+Majoris Remnant of Umbrage*F2;
+Polarian Borealis Relic;
+Portion of Titanic Mettle*F6*WMV;
+Relic of the Titan Warrior;
+Shimmering Majoris Artifact*F4*WMV;
+Timeless Borealis Fragment*F5*WMV;
+Titan Warrior Curio of Bite;
+Titan Warrior Focus of Waves*F2*WMV;
+Titan Warrior Kernel of Logic;
+Titan Warrior Skyfire Relic*F2*WMV;
+Titanic Fragment of Torpor*F3*WMV;
+Volatile Borealis Remnant*F2*WMV;
+
+| decks =
+Ancient Deck of Horizon Hold*F2*WMV;
+Arcanum Exile Bevy of Strife*F4*WMV;
+Arcanum Exile Evergreen Set*F2*WMV;
+Arcanum Exile Galeforce Set*F2*WMV;
+Arcanum Exile Pack of Fever;
+Arcanum Exile Snowflake Set*F2;
+Case of Arcanum Exile Ideas;
+Chief Advisor's Pack of Lies*F2*WMV;
+Gallant Hand of Horizon Hold;
+Horizon Hold Array of Gloom;
+Horizon Hold Cards of Intent;
+Horizon Hold Deck of Furor*F2;
+Horizon Hold Deck of Icefog*F3*WMV;
+Horizon Hold Set of Efficacy*F2*WMV;
+Horizon Hold Set of Verglas*F2;
+Parcel of the Arcanum Exile*F2*WMV;
+Rasputin's Bevy of Answers*F4*WMV;
+Rasputin's Cards of Numbing;
+Rasputin's Deck of Gall*F3*WMV;
+Rasputin's Hand of Tumult*F4*WMV;
+Rasputin's Hypnotic Hand;
+Rasputin's Set of Fortitude*F2;
+Rasputin's Wicked Hand;
+Steady Arcanum Exile Hand*F3*WMV;
+
+| items =
+Arcanum Theme;
+Medium Enchanted Planter*CR*F6*WMV;
+Medium Normal Planter*CR*F8*WMV;
+Polaris Baba Yaga Theme*F2*WMV;
+Polaris Frozen Combat Theme*F3;
+Polaris Frozen Forest Theme;
+Polaris Gulag Combat Theme;
+Polaris Gulag Theme;
+Polaris Ice Block Theme*F2;
+Polaris Mine Theme;
+Polaris Mine Combat Theme*F2;
+Polaris Opera Theme*F3*WMV;
+Polaris Rasputin Combat Theme;
+Small Enchanted Planter*CR*F4*WMV;
+Small Normal Planter*CR*F3*WMV;
+Walruskberg Theme;
+Walruskberg Combat Theme*F2;
+Walruskberg Liberated Theme;
+
+| cards =
+Age of Reckoning;
+Ashen Bones*F3*WMV;
+Astraphobia*F2*WMV;
+Combustion*F2*WMV;
+Counterforce;
+Frostfang;
+Katabatic Wind;
+Namaste*F3*WMV;
+Nested Fury*F2;
+Raging Bull*F5*WMV;
+Rusalka's Wrath;
+Saga of Heroes*F3*WMV;
+Snowball Barrage;
+Winged Sorrow*F3*WMV;
+Wings of Fate;
+Witch's House Call;
+
+| reagents =
+Aether*F12*WMV;
+Agave Leaves*F6*WMV;
+Agave Nectar*F2;
+Amber;
+Amber Dust*F3*WMV;
+Aquamarine*F7*WMV;
+Astral Shard*F5*WMV;
+Braided Vine*F3*WMV;
+Draconium*F4*WMV;
+Fire Blossom*F7*WMV;
+Golden Pearl*F17*WMV;
+Merle's Whisker;
+Mithril*F7*WMV;
+Orichalcum*F4*WMV;
+Palladium*F2;
+Scales*F5*WMV;
+Silver*F5*WMV;
+Stardust*F4*WMV;
+Steel*F8*WMV;
+Sunstone*F6*WMV;
+Titanium*F4*WMV;
+Tungsten*F10*WMV;
+Turquoise*F11*WMV;
+Vine*F11*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Chimera*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Nested Fury*BR;
+Ra*BR;
+Raging Bull*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Rusalka's Wrath*BR;
+Sabertooth*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Snowball Barrage*BR;
+Spinysaur*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Winged Sorrow*BR;
+Wings of Fate*BR;
+Witch's House Call*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Beast Wellington*F4*WMV;
+Chalupacabra;
+Eye Candy*F2*WMV;
+Hot Cross Buns*F3*WMV;
+Mustachios*F4*WMV;
+Penne Dreadful*F5*WMV;
+Polaris Fries*F6*WMV;
+Satyr Chow*F5*WMV;
+Ships 'n' Queso*F3*WMV;
+Veggie Juice*F4*WMV;
+
+| jewels =
+Erratic Acrimony Opal;
+Erratic Eruption Opal;
+Erratic Icewind Opal;
+Erratic Intensify Opal;
+Erratic Outpouring Opal;
+Erratic Recompense Opal;
+Lustrous Accurate Amethyst +11%;
+Lustrous Accurate Citrine +11%;
+Lustrous Accurate Hematite +11%;
+Lustrous Accurate Jade +11%;
+Lustrous Accurate Onyx +11%;
+Lustrous Accurate Peridot +11%*F2*WMV;
+Lustrous Accurate Ruby +11%;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Amethyst +14;
+Lustrous Blocking Citrine +14;
+Lustrous Blocking Hematite +14;
+Lustrous Blocking Jade +14;
+Lustrous Blocking Onyx +14;
+Lustrous Blocking Peridot +14;
+Lustrous Blocking Ruby +14;
+Lustrous Blocking Sapphire +14;
+Lustrous Critical Amethyst +14;
+Lustrous Critical Citrine +14;
+Lustrous Critical Hematite +14;
+Lustrous Critical Jade +14;
+Lustrous Critical Onyx +14;
+Lustrous Critical Opal +7;
+Lustrous Critical Peridot +14;
+Lustrous Critical Ruby +14;
+Lustrous Critical Sapphire +14;
+Lustrous Damage Amethyst +24;
+Lustrous Damage Citrine +24;
+Lustrous Damage Hematite +48;
+Lustrous Damage Jade +24;
+Lustrous Damage Onyx +24;
+Lustrous Damage Opal +12;
+Lustrous Damage Peridot +24;
+Lustrous Damage Ruby +24;
+Lustrous Damage Sapphire +24;
+Lustrous Defense Amethyst +47;
+Lustrous Defense Amethyst +48;
+Lustrous Defense Citrine +47;
+Lustrous Defense Citrine +48;
+Lustrous Defense Hematite +47;
+Lustrous Defense Hematite +48;
+Lustrous Defense Jade +47;
+Lustrous Defense Jade +48;
+Lustrous Defense Onyx +47;
+Lustrous Defense Onyx +48;
+Lustrous Defense Peridot +47;
+Lustrous Defense Peridot +48;
+Lustrous Defense Ruby +47;
+Lustrous Defense Ruby +48;
+Lustrous Defense Sapphire +47;
+Lustrous Defense Sapphire +48;
+Lustrous PIP Hematite +1;
+Lustrous PIP Opal +10%;
+Primordial Opal;
+
+| pins =
+
+| pets =
+Arctic Ninja Pig*CR;
+Glacier Dragon*F2*WMV;
+Ice Bird*F2*WMV;
+Intrepid Seal Pup*F2;
+Mountain Yeti*CR;
+Nodori Winged Ram*CR*F3*WMV;
+Polar Bear Cub*CR*F2*WMV;
+Snowball*CR*F2;
+White Winter Owl*F3*WMV;
+
+| seeds =
+Alligator Pear Tree*F2;
+Blue Huckleberries*F3*WMV;
+Boom Shroom*F4*WMV;
+Burning Snap Dragon*F3*WMV;
+Dandelion*F3*WMV;
+Deadly Fly Trap*F8*WMV;
+Deadly Helephant Ears*CR*F3*WMV;
+Deadly Ninja Fig*F3*WMV;
+Evil Snow Peas*F3*WMV;
+Fiery Boom Shroom*F5*WMV;
+Frozen Fly Trap*F3*WMV;
+Green Snow Apples*F8*WMV;
+Helephant Ears;
+King Parsley*CR*F4*WMV;
+Maelstrom Snap Dragon*F2*WMV;
+Maltese Tiger Lily*F2*WMV;
+Ninja Fig*CR*F2*WMV;
+Orange Dandelion*F3*WMV;
+Pink Dandelion*CR*F6*WMV;
+Pink Huckleberries*F3;
+Purple Snow Apples*F2*WMV;
+Red Huckleberries*F3*WMV;
+Silver Trumpet Vine*CR*F4*WMV;
+Snap Dragon*F6*WMV;
+Snow Apples*F3*WMV;
+Tiger Lily (Seed)*F2*WMV;
+Trumpet Vine*F2*WMV;
+Ultra Alligator Pear Tree;
+Ultra Boom Shroom;
+Ultra Dandelion*F2*WMV;
+Ultra Fly Trap;
+Ultra Helephant Ears;
+Ultra Huckleberries*F3*WMV;
+Ultra King Parsley;
+Ultra Ninja Fig;
+Ultra Snap Dragon;
+Ultra Snow Apples;
+Ultra Tiger Lily;
+Ultra Trumpet Vine*F2;
+Venus Fly Trap*F4*WMV;
+White Tiger Lily*F6*WMV;
+
+| mounts =
+
+| spells =
+
+}}

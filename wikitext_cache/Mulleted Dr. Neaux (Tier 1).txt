@@ -1,0 +1,144 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 4,800
+| crecla = Gator
+| school = Life
+| school2 = Fire
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+55%;
+
+| incboost =
+None;
+
+| incresist =
+15% Fire, Ice, Myth, Life, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+20%;
+
+| inchealing =
+
+| stunable = 
+| beguilable = No
+| minions =
+Hairball (Tier 1);
+Hairball (Elite) (Tier 1);
+
+| world = Housing Instance
+| location = Night Mire Gauntlet
+| subloc1 = Night Mire Gauntlet (Tier 1)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"Behold! My Reptili-Hair Elixir has transformed me into the peak of perfection! Like my leading-edge luxuriant locks, my power only grows! *Bwahaha!* There's no limit to what I can do with hair! Toss it refreshingly from side to side in a delicate breeze... Tousle it to give myself roguish charm... Mayhap twirl it between my claws in an absentminded but totally endearing way as I ponder my next visionary feat of science. I'll have a comb for every day of the week! A scented shampoo to suit to suit my every mood! But first, this troublesome human must be put in their place."''
+
+| cheatnotes =
+*{{Icon|Late}} ''"You're just in time to bask in my full, lustrous glory!"'' - If a Wizard joins after the first Round, Mulleted Neaux will cast a Moon version of Blessing, restoring 100% of his Health.
+*{{Icon|Health}} ''"Argghh... I didn't ask for a trim"'' - If Mulleted Neaux takes more than 50% of his max Health, he will cast {{Link|Spell|Choke}}.
+**{{Icon|Healing}} ''"No matter, hair grows back!"'' - Mulleted Neaux will cast a version of {{Link|ItemCard|Heartbeat}} that restores 1,500 Health every Round until he is fully healed.
+**''"Glory be! My mullet is safe!"'' -  Mulleted Neaux will respond with this when he's fully healed, restarting the cheat cycle.
+*{{Icon|Afterlife}} ''"Fool! You must trim before you shave!"'' - If Mulleted Neaux is defeated before his trim cheat is triggered, he will cast a Moon version of Blessing, restoring 100% of his Health.
+
+| spellnotes =
+
+| casts =
+Empowerment;
+Dragonblade;
+Sun Blade (+35%);
+Venom;
+Hunting Wyrm;
+Earth Walker;
+Link;
+Power Link;
+Fire Dragon;
+
+| quests =
+They Came From Night Mire!;
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+
+| hats =
+Balanced Night Mire Top Hat (Level 50+)*CR;
+Fiery Night Mire Top Hat (Level 50+)*CR*;
+Mythic Night Mire Top Hat (Level 50+)*CR*;
+
+| robes =
+Deadly Night Mire Coat (Level 50+)*CR;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Beastman Hut;
+Broken Palm Tree*TEST;
+Bundle of Wood;
+Cord of Wood;
+Glowing Seashrooms;
+Living Log*TEST;
+Minuteman;
+Night Mire Swamp Combat Theme;
+Night Mire Swamp Jamboree Theme;
+Open Campfire;
+Seaweed Plant;
+Small Cypress Tree;
+Spider Egg Sac;
+Tanglebrush*F2;
+Wild Brush;
+
+| cards =
+
+| reagents =
+Participation Trophy;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Armor Breaker Opal;
+Armor Piercer Opal;
+Big Energy Opal;
+Blade of Life Jade;
+Death-Dealer Onyx;
+Ice-Dealer Sapphire;
+Mulligan's Shuffle Citrine;
+Tower Shield Sapphire;
+Ultra Energy Opal*TEST;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

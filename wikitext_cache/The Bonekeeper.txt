@@ -1,0 +1,202 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 660
+| crecla = Undead
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Storm;
+
+| incresist =
+50% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Shambling Ahnic;
+
+| world = Krokotopia
+| location = Ahnic Family Tomb
+| subloc1 = The Bonekeeper's Crypt
+| descrip =
+*Two additional Shambling Ahnics will appear if more than two Wizards are present.
+
+| speech =
+:''"So you brought me some bones? Not good enough! I challenge you to a duel!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+Keeper of the bones of the Ahnic Family Tomb. Is always searching for a better toothpick.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Death Damage per Pip.
+
+| casts =
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Snow Serpent;
+Leprechaun;
+Fire Elf (50+210);
+
+| quests =
+The Bonekeeper;
+Dem Bones;
+
+| gold =
+14 - 24;
+
+| hats =
+Bonekeeper's Cowl;
+Cap of the Oasis;
+Durable Hood*F2;
+Hat of Figments*F2*WMV;
+Helm of the Bastion*F2*WMV;
+Helm of the Cyclone;
+Hood of the Stronghold*F3*WMV;
+Mask of Proportions;
+
+| robes =
+Bonekeeper's Robe*F4*WMV;
+Glacial Tunic;
+Necromancer's Ivory Cloak*F3;
+Pyromancer's Lambent Robe*F6*WMV;
+Raiment of the Badlands;
+Robe of Ingenuity*F2;
+Robe of Talent;
+Runed Vestment;
+
+| boots =
+Ancient Sandals;
+Boots of the Citadel*F2*WMV;
+Cryptkeeper's Shoes;
+Crystalline Footwraps*F2;
+Durable Boots*F4;
+Krokotopian Death Striders;
+Krokotopian Striders*F4;
+Quartermaster's Boots;
+Shoes of Adaptation;
+Shoes of Annihilation;
+Shoes of the Fortress*F4*WMV;
+The Bonekeeper's Shoes*F4;
+
+| athames =
+Ancient Kris*F2*WMV;
+Parched Kris;
+Powerful Stiletto;
+
+| amulets =
+
+| rings =
+Band of the Mirage;
+Ring of Mortality*F2;
+Ring of the Badlands;
+Sparkling Band;
+The Bonekeeper's Band*F3*WMV;
+Victor's Signet*F2*WMV;
+
+| wands =
+The Bonekeeper's Wand;
+
+| decks =
+
+| items =
+Bone Hand*F4;
+
+| cards =
+Cyclops;
+Fire Trap;
+Ghost Touch;
+Ice Trap;
+Krokomummy*F2*WMV;
+Mutate Beetle (Fire);
+Spirit Armor*F2;
+Sprite;
+Storm Shark;
+The Bonekeeper;
+Vampire;
+
+| reagents =
+Bone;
+Brass*F3*WMV;
+Copper;
+Iron*F2;
+Lead;
+Nickel;
+Pyrite;
+
+| spellements =
+
+| snacks =
+Cracker;
+Green Grapes;
+Nettle Root;
+Tiny Fish;
+
+| jewels =
+Chipped Defense Amethyst +13;
+Chipped Defense Jade +13;
+Chipped Defense Onyx +13;
+Chipped Defense Peridot +13;
+Chipped Health Opal +17;
+Chipped Mana Opal +9;
+Cracked Accurate Citrine +2%;
+Cracked Damage Citrine +6;
+Cracked Damage Jade +6;
+Cracked Damage Ruby +6;
+Cracked Defense Citrine +10;
+Cracked Defense Ruby +10;
+Cracked Defense Sapphire +10;
+Effective Opal;
+Ice-Boon Sapphire;
+Legend Shield Jade;
+Leprechaun Jade;
+Life-Eye Jade;
+Siphon Opal;
+Thermic Shield Amethyst;
+Volcanic Shield Sapphire;
+Weakness Citrine;
+
+| pins =
+
+| pets =
+Furious Krokomummy*F3;
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

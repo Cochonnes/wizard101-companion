@@ -1,0 +1,133 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,520
+| crecla = Shark
+| school = Life
+| startpips = 4
+| powerpips = Yes
+| critical =
+25 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Death;
+
+| incresist =
+35% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Celestia
+| location = The Chancel
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Lifeclops;
+Nature's Wrath;
+Life Banshee (250);
+Seraph;
+Centaur;
+Natural Attack (Life 85x);
+
+| quests =
+The Big Guy;
+
+| gold =
+46;
+
+| hats =
+Diamond Dust Cover;
+Fire-Forged Flame Helm;
+
+| robes =
+Firestar Surcoat*F3*WMV;
+Neelus's Inspired Surcoat*F3;
+
+| boots =
+Mutual Mukluks*F2*WMV;
+Sinister Stalkers*F2*WMV;
+
+| athames =
+Dirk of the Dragon;
+Marinos's Lancet*F4*WMV;
+
+| amulets =
+Amulet of Agony*F2*WMV;
+Jewel of the Dragons*F3*WMV;
+
+| rings =
+Ring of the Maelstrom*F2*WMV;
+Signet of Shivers;
+
+| wands =
+
+| decks =
+
+| items =
+Celestian Noble Chair*F3*WMV;
+
+| cards =
+Empower*F4*WMV;
+Gargantuan;
+Unstoppable*F5*WMV;
+
+| reagents =
+Cobalt;
+Fish Fin*F5*WMV;
+Sandstone*F4*WMV;
+Scales;
+Sunstone*F3*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2*WMV;
+Delicious Cookie;
+Glowing Star Fruit*F2*WMV;
+Spicy Drumstick;
+Strawberry Cupcake;
+Submarine Sandwich;
+
+| jewels =
+Boss Toad Peridot;
+Bullheaded Peridot;
+Plain Blocking Citrine +6;
+Plain Blocking Jade +6;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fish on a Vine;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F2*WMV;
+Silver Trumpet Vine*CR*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

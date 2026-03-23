@@ -1,0 +1,176 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,350
+| crecla = Shadow Weaver
+| crecla2 = Undead
+| school = Fire
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice;
+
+| incresist =
+35% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Shadow-Web Conscript;
+Shadow-Web Conscript;
+
+| world = Celestia
+| location = Stormriven
+| subloc1 = Sorcerer's Sanctum
+| descrip =
+
+| speech =
+:''"You have restored my Shadowseeker medallion, and with it, my power is restored! You think you seek the missing portal pieces... but you are wrong! If you came to this sunken place... it must be in search of your doom! Did you really think I would put aside centuries of hate to help you!?!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+Spinning up an airy skirt to pair with their armor, their fashion sense is very chic. They always make it work!
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fireblade;
+Fire Trap;
+Sunbird;
+Meteor Strike;
+Scald;
+Phoenix;
+Magma Man;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Natural Attack (Fire 100x);
+
+| quests =
+Inevitable Betrayal;
+
+| gold =
+35 - 73;
+
+| hats =
+Arcane Cowl*F4*WMV;
+Headwrap of Rapport;
+Ice Helm*F6*WMV;
+Storied Helm;
+
+| robes =
+Armor of Celestian Totality*F2;
+Cloak of Shadows;
+Gale Force Gear*F4*WMV;
+Grim Gear*F2*WMV;
+Longcoat of Long Life;
+Romantic Robe;
+Thundercloud Cloak*F2;
+
+| boots =
+Ember Boots;
+Insulated Greaves*F2;
+Jolted Jumpers*F2;
+Mercurial Mukluks;
+Romantic Runners;
+Wintertide Walkers*F2*WMV;
+
+| athames =
+Flaming Dagger*F5*WMV;
+Mystic Blade*F3*WMV;
+Tenacious Blade;
+
+| amulets =
+
+| rings =
+Band of the Briny Deep;
+Mystic Ring*F2*WMV;
+Ring of Exploration;
+Sublime Band*F4*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Sledgehammer (Celestia)*F5*WMV;
+
+| cards =
+Giant;
+Monstrous*F3*WMV;
+Pest Zapper;
+Spirit Armor;
+Strong*F2;
+Vampire;
+Vengeance*F7*WMV;
+
+| reagents =
+Brass;
+Bronze;
+Cobalt*F2;
+Copper;
+Lead;
+Nickel;
+Steel;
+Tin*F2*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2;
+Delicious Cookie;
+Glowing Star Fruit;
+Glowing Taffy*F2;
+Spicy Drumstick*F2;
+Strawberry Cupcake;
+Submarine Sandwich*F3;
+
+| jewels =
+Delay Opal;
+Mass Ice Prism Sapphire;
+Mass Myth Prism Peridot;
+Plain Blocking Sapphire +6;
+Plain Damage Amethyst +15;
+Power Player Citrine;
+The Deer Knight Rises Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2*WMV;
+Maelstrom Snap Dragon*F2*WMV;
+Pink Dandelion*CR*F4*WMV;
+Silver Trumpet Vine*CR*F6*WMV;
+
+| mounts =
+
+| spells =
+
+}}

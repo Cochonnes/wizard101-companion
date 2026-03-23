@@ -1,0 +1,131 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 21,745
+| crecla = Khrulhu
+| crecla2 = Undead
+| school = Ice
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Ice;
+
+| critical =
+
+| criticalblock =
+778;
+
+| outpierce =
+14%;
+
+| outboost =
+88%;
+
+| incboost =
+30% Fire;
+
+| incresist = 
+53% Storm, Myth, Death, Sun, Moon, Star, Shadow;
+83% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Scholomance
+| subloc1 = Heretical Academy (Standard)
+| descrip =
+
+| speech =
+:''"I will carve my will into stone and beat you into submission with it."''
+
+| cheatnotes =
+*{{Icon|Blade}} ''"Be Unyielding!"'' - If a wizard casts any blade, Preceptor of Order will cheat-cast {{Link|Spell|Ice Wyvern (Tier 2b)}} on the recipient of the blade.
+*{{Icon|Trap}} ''"Catch them unawares!"'' - If you target the Perceptor of Deviousness with a trap, if you have any DOT on you, it will cheat cast {{Link|Spell|Incindiate}}.
+*{{Icon|Shield}} ''"Be Thorough!"'' - After casting {{Link|Spell|Tower Shield}} or any spell with a Shield secondary effect, Preceptor of Order will cheat-cast {{Link|Spell|Frozen Armor}}.
+
+| monstrology =
+{{Monstrology Info
+| tome world = Darkmoor
+| tome description =
+An Eldritch spirit who believed the role of the powerful was to subjugate the weak.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1000
+| guest animus = 30
+| guest gold = 2,500
+}}
+| spellnotes =
+
+| casts = 
+Stabilize;
+Tower Shield;
+Steal Pip;
+Volcanic Golem (Tier 2b);
+Blizzard;
+Winter Moon (Tier 2c);
+Lord of Winter (Tier 2b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Chimera;
+
+| reagents =
+
+| spellements =
+Deathly Depths;
+Gravestorm;
+Lord of the Jungle;
+Phantasmania!;
+The Tower;
+The World;
+
+| snacks =
+
+| jewels =
+Bright Critical Onyx +57 (Fire);
+Bright Critical Peridot +48 (Life);
+Polished Piercing Sapphire +6%;
+Unearthly Damage Onyx +11% (Storm);
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,393 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 12,275
+| crecla = Draconian
+| school = Fire
+| school2 = Life
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| outpierce =
+28%;
+
+| outboost =
+150%;
+
+| incboost =
+5% Ice;
+
+| incresist =
+73% Fire;
+
+| outhealing =
+45%;
+
+| inchealing =
+50%;
+
+| stunable = No
+| beguilable = No
+| minion = White Tiger
+| minion2 = 
+| world = Lemuria
+| location = Heap
+| subloc1 = Command Center
+| descrip =
+For the purpose of drops, Power Draconian is considered a Boss. All drops are recorded on this page.
+
+| speech =
+:''"Shhh. There's someone here. A chance to prove myself. Go, go, Power Grazers!"
+
+| monstrology =
+{{Monstrology Info
+| tome world = Lemuria
+| tome description =
+A newcomer to the gang, he earned his place with his mad fluting skills. He can even play through a helmet.
+
+| extract class =
+Draconians;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+'''Power Draconian'''
+*{{Icon|Late}} ''"Oh look, a wizard with attitude!"'' - If a Wizard joins the battle after the second Round, Power Draconian casts {{Link|Spell|Impede}} on the Wizard.
+*{{Icon|Round}} ''"Power Equalize!"'' - At the beginning of the first Round, Power Draconian will cast a Sun Global Spell called Equalize, which sets the Damage limit to '''3,000'''.
+:*{{Icon|Global}} ''"Bubble Morph!"'' - If a Wizard tries to replace the Equalize Spell with another type of Global Spell, he will recast Equalize.
+*{{Icon|Stun}}{{Icon|Curse}} ''"Power Stunner!"'' - At the beginning of every third Round, Power Draconian casts {{Link|Spell|Power Stunner}}, which Stuns for 1 Round and applies a -40% Accuracy Charm on all enemies.
+*{{Icon|All Enemies}}{{Icon|Damage}} ''"Power Recharge!"'' - If Power Draconian is damaged by an [[:Category:All Enemies Spells|All Enemies]] Spell, Power Draconian casts a Shadow version of Blessing restoring 100% max Health on all allies.
+**All Enemies Spells that deal Drain Damage, like {{Link|Spell|Scarecrow}}, do not trigger this cheat.
+
+'''White Tiger'''
+*{{Icon|Late}} ''"*GROWL*"'' - If a Wizard joins the battle after the first Round, White Tiger casts {{Link|Spell|Sabertooth}} on the Wizard.
+*{{Icon|Round}} ''"*WARNING ROAR*"'' - White Tiger will say this the turn before their *ROAR* cheat.
+*{{Icon|All Friends}}{{Icon|Damage}} ''"*ROAR*"'' - At the end of every two Rounds, White Tiger casts a Moon version of {{Link|Spell|Insane Bolt}} to all enemies dealing '''550''', '''1,050''' or '''1,550''' Moon Damage.
+*{{Icon|Damage}} ''"*WHIMPER*"'' - If White Tiger is hit by an attack, their *ROAR* cheat is delayed, and the two Round cycle is reset.
+*{{Icon|Manipulation}} ''"*SNARL*"'' - White Tiger will cast {{Link|Spell|Empower (Moon)}} on itself after these following triggers.
+**If a negative Charm is cast on White Tiger.
+**After White Tiger casts Grim Reader or Power Draconian casts Lord of the Jungle.
+
+| spellnotes =
+
+| casts =
+Vengeance (6 Rounds);
+Fireblade Lifeblade;
+Double Steal Charm;
+Regenerate;
+Rebirth;
+Incindiate;
+Mass Triage;
+Scorching Scimitars;
+Power Link (75+375);
+Raging Bull;
+Fire Dragon;
+Efreet (1,000);
+Camp Bandit (Tier 5b);
+Hungry Caterpillar;
+Grrnadier (Tier 3a);
+Lord of the Jungle (Tier 3a);
+Brulee Sucre;
+
+| quests =
+Colors of the Windbags;
+Go, Go Power Grazers;
+
+| gold =
+163 - 217;
+
+| hats =
+Supreme Founder's Hat;
+
+| robes =
+Supreme Barbarian Robe;
+Supreme Stability Robe;
+
+| boots =
+Magician's Balance Boots;
+Magician's Death Boots;
+Magician's Fire Boots*F2;
+Magician's Ice Boots*F2;
+Magician's Life Boots*F5*WMV;
+Magician's Myth Boots*F2*WMV;
+Magician's Power Boots*F5*WMV;
+Magician's Storm Boots*F3*WMV;
+Malevolent Balance Boots;
+Malevolent Death Boots*F3*WMV;
+Malevolent Fire Boots;
+Malevolent Ice Boots;
+Malevolent Life Boots*F2;
+Malevolent Myth Boots*F2*WMV;
+Malevolent Power Boots;
+Malevolent Storm Boots*F2;
+Supreme Stability Shoes;
+
+| athames =
+Magician's Balance Athame*F6*WMV;
+Magician's Death Athame*F2;
+Magician's Fire Athame*F4*WMV;
+Magician's Ice Athame*F3*WMV;
+Magician's Life Athame*F3*WMV;
+Magician's Myth Athame*F5*WMV;
+Magician's Storm Athame*F5*WMV;
+Malevolent Balance Athame;
+Malevolent Death Athame;
+Malevolent Fire Athame;
+Malevolent Ice Athame*F2;
+Malevolent Life Athame*F2;
+Malevolent Myth Athame*F3*WMV;
+Malevolent Storm Athame*F3*WMV;
+Merciless Balance Athame*F3*WMV;
+Merciless Death Athame*F3*WMV;
+Merciless Fire Athame;
+Merciless Ice Athame*F2;
+Merciless Life Athame*F7*WMV;
+Merciless Myth Athame*F6*WMV;
+Merciless Storm Athame*F3*WMV;
+Supreme Lifeforce Athame;
+
+| amulets =
+Magician's Balance Talisman*F4*WMV;
+Magician's Death Talisman*F2;
+Magician's Fire Talisman*F3*WMV;
+Magician's Ice Talisman*F2;
+Magician's Life Talisman*F5*WMV;
+Magician's Myth Talisman*F3*WMV;
+Magician's Storm Talisman;
+Malevolent Balance Talisman*F3*WMV;
+Malevolent Death Talisman*F5*WMV;
+Malevolent Fire Talisman;
+Malevolent Ice Talisman*F7*WMV;
+Malevolent Life Talisman*F3*WMV;
+Malevolent Myth Talisman*F3*WMV;
+Malevolent Storm Talisman*F5*WMV;
+Merciless Balance Talisman*F2*WMV;
+Merciless Death Talisman*F3*WMV;
+Merciless Fire Talisman*F3*WMV;
+Merciless Ice Talisman*F3*WMV;
+Merciless Life Talisman*F5*WMV;
+Merciless Myth Talisman*F3*WMV;
+Merciless Storm Talisman*F2*WMV;
+Supreme Barbarian Talisman;
+
+| rings =
+
+| wands =
+Supreme Founder's Staff;
+Supreme Hex Staff;
+Supreme Lifeforce Staff;
+
+| decks =
+Supreme Horror Deck;
+
+| items =
+Cargo*F5*WMV;
+Lemuria Forest Combat Theme;
+Lemuria Jungle Combat Theme*F2*WMV;
+Lemuria Lab Combat Theme;
+Lemuria Mandoria Combat Theme*F2*WMV;
+Lemuria Mandoria Theme;
+Lemuria Noir Combat Theme;
+Lemuria Sky City Combat Theme;
+Lemuria Telos Theme 2;
+Lemuria Telos Theme 3;
+Lemuria Telos Theme 4;
+Lemuria Telos Theme 5;
+Lemuria Telos Theme 6;
+Lemuria Telos Theme 7;
+Lemuria Ursai Village Theme;
+Periodic Table Poster*F4*WMV;
+Puzzle Cube*F2*WMV;
+
+| cards =
+Berserk;
+Dream Shield;
+Frostbite;
+Link*F2*WMV;
+Nested Fury;
+Raging Bull;
+Rusalka's Wrath;
+Sirens*F2*WMV;
+Snowball Barrage;
+Winged Sorrow*F2;
+Wings of Fate*F2*WMV;
+
+| reagents =
+Aether*F2;
+Agave Leaves*F3*WMV;
+Agave Nectar;
+Amber*F3*WMV;
+Amber Dust;
+Aquamarine*F4;
+Astral Shard*F2*WMV;
+Braided Vine*F3;
+Draconium;
+Fire Blossom*F5*WMV;
+Golden Pearl;
+Mithril*F3*WMV;
+Orichalcum*F2*WMV;
+Scales;
+Silver*F2*WMV;
+Stardust;
+Steel*F2;
+Sunstone*F3*WMV;
+Synthonium;
+Titanium*F4*WMV;
+Tungsten*F5*WMV;
+Turmeric;
+Turquoise*F5*WMV;
+Vine;
+
+| spellements =
+Barbarian's Saga*F4*WMV;
+Blast Off!;
+Dark & Stormy;
+Grim Reader;
+Lord of the Jungle*F2;
+
+| snacks =
+Crystal Custard*F3*WMV;
+Crystalweb Candy;
+Dr. Jalapeno*F2*WMV;
+Fin Flan*F2*WMV;
+Fish Egg Pancakes;
+Fizzing Fertilizer*F2*WMV;
+Flapjacks*F3*WMV;
+Fried Ice Cream;
+Fried Worms*F3*WMV;
+Frozen Perogies*F2*WMV;
+
+| jewels =
+Ally Glacial Shield Ruby*F2*WMV;
+Ally Thermic Shield Amethyst*F2*WMV;
+Balance-Dealer Citrine;
+Balance-Giver Citrine;
+Balance-It Citrine;
+Balance-Off Citrine;
+Dazzling Accurate Citrine +14%*F2;
+Dazzling Accurate Hematite +14%*F2;
+Dazzling Accurate Jade +14%*F3*WMV;
+Dazzling Accurate Ruby +14%;
+Dazzling Accurate Sapphire +14%;
+Dazzling Blocking Amethyst +19;
+Dazzling Blocking Jade +19*F2*WMV;
+Dazzling Blocking Opal +10;
+Dazzling Blocking Ruby +19;
+Dazzling Blocking Sapphire +19;
+Dazzling Critical Citrine +19;
+Dazzling Critical Jade +19;
+Dazzling Damage Amethyst +29*F2*WMV;
+Dazzling Damage Opal +15;
+Dazzling Defense Amethyst +60;
+Dazzling Defense Citrine +58;
+Dazzling Defense Citrine +60;
+Dazzling Defense Hematite +60*F3*WMV;
+Dazzling Defense Jade +58*F2;
+Dazzling Defense Jade +60*F2;
+Dazzling Defense Onyx +60;
+Dazzling Defense Peridot +58;
+Dazzling Defense Peridot +60*F2*WMV;
+Dazzling Defense Ruby +58;
+Dazzling Defense Ruby +60;
+Dazzling Defense Sapphire +58;
+Death-Away Onyx;
+Death-Boon Onyx;
+Fire Striker Ruby*F2*WMV;
+Fire-Boon Ruby*F2*WMV;
+Fire-Eye Ruby;
+Fire-Shot Ruby*F2*WMV;
+Fire-Sniper Ruby;
+Greensleeves Jade;
+Healer Opal;
+Ice Assailant Sapphire*F2*WMV;
+Ice Striker Sapphire;
+Ice-Away Sapphire*F2*WMV;
+Ice-Boon Sapphire;
+Ice-Shot Sapphire;
+Life-Boon Jade;
+Life-Proof Jade*F2*WMV;
+Life-Shot Jade;
+Life-Sniper Jade;
+Life-Ward Jade;
+Lively Opal;
+Myth-Away Peridot;
+Myth-Boon Peridot;
+Myth-Dealer Peridot;
+Myth-Eye Peridot;
+Myth-Proof Peridot;
+Myth-Ward Peridot;
+Sparkling Health Opal +119;
+Spell-Defying Opal;
+Storm Striker Amethyst;
+Storm-Boon Amethyst;
+Storm-Eye Amethyst;
+Storm-Sniper Amethyst;
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears*F3*WMV;
+Baby Carrots*F3*WMV;
+Bamboo Shoots;
+Blue Huckleberries*F2;
+Boiled Peanuts;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Clockwork Flower*F2*WMV;
+Cornbread Fruit Bush;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Evil Magma Peas*CR;
+Fiery Boom Shroom;
+Fish on a Vine;
+Frozen Fly Trap;
+Grapes of Wrath*CR;
+Honey Bee Plant*F2*WMV;
+Honey Sickle;
+Ivy League*CR;
+Melting Cheese Tree;
+Moon Flower;
+Orange Bell Pepper*CR;
+Pink Huckleberries*F3*WMV;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus*F2;
+Purple Grapes of Wrath*F4*WMV;
+Red Bell Pepper*F2;
+Red Couch Potatoes*F5*WMV;
+Red Huckleberries*F2*WMV;
+Rotten Beets*F2*WMV;
+Rye Bread Fruit Bush*F2;
+Saw Palmetto*F4*WMV;
+Silver Trumpet Vine*CR;
+Snap Dragon;
+Snow Apples*F2;
+Sunion*CR;
+Sword Fern*CR;
+Tiger Lily (Seed);
+Trumpet Vine*F3*WMV;
+Ultra Alligator Pear Tree;
+Ultra Snap Dragon;
+Ultra Tiger Lily;
+Ultra Trumpet Vine;
+Vampire Carrots;
+Venus Fly Trap;
+White Tiger Lily;
+Yellow Bell Pepper*F2;
+
+| mounts =
+
+| spells =
+
+}}

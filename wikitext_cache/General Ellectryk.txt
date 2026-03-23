@@ -1,0 +1,180 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 8,000
+| crecla = Alphoi
+| school = Storm
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+15%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Myth;
+
+| incresist =
+30% Storm;
+
+| stunable = No
+| beguilable = No
+| minion = Major Tom
+| minion2 = 
+| world = Empyrea
+| location = Zanadu
+| subloc1 = Gatehouse (Empyrea)
+| descrip =
+Uses Pip Conversion.
+
+| spellnotes =
+
+| casts =
+Dark Shepherd;
+Berserk;
+Healing Current;
+Stormblade;
+Supercharge;
+Disarm;
+Enfeeble;
+Storm Elf (30+273);
+Natural Attack (Storm 150-290-430);
+Catalan;
+Storm Dragon;
+Leviathan;
+Tempest;
+
+| quests =
+Out of His Comfort Zone;
+
+| gold =
+355 - 512;
+
+| hats =
+
+| robes =
+Interstellar Officer's Uniform;
+
+| boots =
+Interstellar Delegate Trekkers;
+Interstellar Engineer Trekkers;
+Interstellar Explorer's Trekkers;
+
+| athames =
+
+| amulets =
+Interstellar Engineer's Charm*F2*WMV;
+
+| rings =
+Interstellar Explorer's Band;
+
+| wands =
+
+| decks =
+Interstellar Delegate's Deck;
+Interstellar Medic's Deck*F2*WMV;
+Interstellar Navigator's Deck;
+Interstellar Warrior's Deck;
+
+| items =
+Empyrea Aeriel Theme;
+Empyrea Finale Combat Theme;
+Empyrea Flotsam Combat Theme;
+Empyrea Jungle Theme;
+
+| cards =
+Doom and Gloom;
+Mass Death Prism;
+Mass Life Prism;
+Mass Myth Prism;
+Mass Storm Prism;
+
+| reagents =
+Ancient Scroll;
+Antique Coins*F4*WMV;
+Black Pearl*F2;
+Blood Moss*F3*WMV;
+Brass*F3*WMV;
+Cobalt*F4*WMV;
+Ectoplasm*F7*WMV;
+Nickel*F4*WMV;
+Scales*F4*WMV;
+Spider Silk;
+Spring*F4*WMV;
+Tin*F3*WMV;
+
+| snacks =
+Aztecan Hot Chocolate;
+BBQ Drumstick;
+Beast Wellington;
+Bread Fruit Fruit;
+Cherry Pie;
+Decimatoes;
+Discord Grape Jelly*F3*WMV;
+Drumstick;
+Eye Candy*F3*WMV;
+Glowing Taffy*F2;
+Pizza;
+Rock and Roll Candy*F3*WMV;
+Satyr Chow*F5*WMV;
+Sprinkle Cupcake*F4*WMV;
+Veggie Juice;
+
+| jewels =
+Ally Tower Shield Sapphire;
+Ally Volcanic Shield Sapphire;
+Death Striker Onyx;
+Death-Away Onyx;
+Death-Dealer Onyx;
+Death-Sniper Onyx;
+Fire-Away Ruby;
+Fire-Dealer Ruby;
+Healthy Opal;
+Ice-Boon Sapphire;
+Ice-Proof Sapphire;
+Ice-Ward Sapphire;
+Lustrous Accurate Jade +11%;
+Lustrous Blocking Peridot +13;
+Lustrous Blocking Sapphire +13;
+Lustrous Damage Onyx +23;
+Lustrous Damage Sapphire +23;
+Lustrous PIP Opal +10%;
+Storm-Dealer Amethyst;
+Storm-Eye Amethyst;
+Stun Recalcitrant Opal;
+Stun Resistant Opal*F2*WMV;
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears*F3*WMV;
+Baby Carrots*F2;
+Bell Pepper*F2;
+Blue Huckleberries*F2*WMV;
+Boiled Peanuts*F3*WMV;
+Boom Shroom;
+Bread Fruit Bush;
+Cornbread Fruit Bush*F2;
+Couch Potatoes*CR*F2*WMV;
+Deadly Ninja Fig;
+Evil Magma Peas*CR;
+Fish on a Vine*F4*WMV;
+Golden Couch Potatoes*F2*WMV;
+Grapes of Wrath*CR;
+Honey Bee Plant;
+Pink Huckleberries;
+Pink Laugh-O-Dil;
+Red Couch Potatoes;
+Red Huckleberries*F4*WMV;
+Saw Palmetto;
+Snap Dragon;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

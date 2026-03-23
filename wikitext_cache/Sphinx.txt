@@ -1,0 +1,263 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 20,240
+| crecla = Meowl
+| school = Sun
+| masteries =
+Myth;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+173 Any;
+
+| criticalblock =
+237 Any;
+
+| outpierce =
+20%;
+
+| outboost =
+150%;
+
+| incboost =
+5% Ice;
+
+| incresist =
+70% Fire;
+
+| outhealing =
+75%;
+
+| inchealing =
+75%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Meowl (Storm);
+
+| world = Empyrea
+| location = Northeast Aero Plains
+| subloc1 = Sphinx Cavern
+| descrip =
+An additional {{Link|Creature|Meowl (Fire)}} and {{Link|Creature|Meowl (Sphinx)}} appear if more than two Wizards are present.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"For those of you arriving late, TAKE THIS!"'' - If a Wizard joins the Duel late, then the Sphinx will interrupt-cast Desert Hound (Sun).
+*{{Icon|Round}} Every second Round, the Sphinx will ask a riddle. The answer to the riddle will be a type of Spell. Casting a Spell of the correct type to answer the riddle will not cause any response from the Sphinx. However, giving the incorrect answer will cause the Sphinx to cheat cast a Spell in response. Once all riddles have been asked, they will then be asked in random order. Players must wait until the next riddle before casting a different type of Spell.
+**Pet "May Cast" talents can activate this cheat.
+**Passing will not activate this cheat.
+*{{Icon|Blade}} ''"What do swords and grass have in common?"''
+**The correct answer is Blade.
+**''"*Buzzer* Awwwwwww!"'' - If answered incorrectly, then the Sphinx will cast {{Link|Spell|Orthrus (Sun)}}.
+*{{Icon|Damage}} ''"Sticks and stones will never break my bones but names will never..."''
+**The correct answer is "hurt me", given by casting a Damage Spell.
+**''"*Buzzer* Awwwwwww!"'' - If answered incorrectly, then the Sphinx will cast a single-target version of {{Link|Spell|Power Nova (Shadow)}} on the Wizard that answered incorrectly.
+*{{Icon|Trap}} ''"Mice fear them, villains spring them!"''
+**The correct answer is Trap.
+**''"*Buzzer* Awwwwwww!"'' - If answered incorrectly, then the Sphinx will cast a '''+200%''' Shadow version of Feint with no self Trap.
+*{{Icon|Weakness}} ''"The opposite of strength"''
+**The correct answer is Weakness.
+**''"*Buzzer* Awwwwwww!"'' - If answered incorrectly, then the Sphinx will cast an Indemnity-protected {{Link|Spell|Weakness (Shadow)}}.
+*{{Icon|Heal}} ''"If your health they steal, you must..."''
+**The correct answer is Heal.
+**''"*Buzzer* Awwwwwww!"'' - If answered incorrectly, then the Sphinx will cast a version of {{Link|Spell|Blessing}} that heals 10% of his total Health.
+
+| spellnotes =
+*Cast a protected Sun Blade (+35%).
+*Cast Mass Hex.
+
+| casts =
+Tower Shield (-55%);
+Virulent Plague;
+Sun Blade (+35%);
+Hex;
+Meteor Strike (Sun);
+Scorching Scimitars (Sun);
+Athena Battle Sight (Sun, 5 Pip);
+Mystic Colossus (Sun);
+Helephant (Sun);
+Sirocco Djinni (Sun);
+Wrath of Ares (Sun);
+Desert Hound (Sun);
+Earthquake (585);
+
+| quests =
+This Insubstantial Pageant;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge and has not unlocked the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge, the following drops will be available:
+*10 Spellements will drop each time from '''any''' School for their respective rank 10, 11, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+73 - 121;
+
+| hats =
+Crackling Zanadu Helm;
+Verdant Zanadu Helm;
+
+| robes =
+
+| boots =
+Blazing Zanadu Boots;
+Grim Zanadu Boots;
+Hopeful Zanadu Boots;
+Rad Kalamar Kicks;
+
+| athames =
+Bodacious Kalamar Knife;
+Chill Kalamar Knife;
+Gnarly Kalamar Knife;
+Mondo Kalamar Knife;
+
+| amulets =
+
+| rings =
+Choice Kalamar Ring;
+
+| wands =
+
+| decks =
+
+| items =
+Aero Dwarf Blue Vase;
+Aero Dwarf Chair;
+Empyrea Aero Plains Combat;
+Empyrea Chaos Jungle Theme;
+Empyrea Husk Storm Combat;
+Nimbari Sword Rack;
+Ornate Nimbari Vase;
+
+| cards =
+Colossafrog;
+Cyclops;
+Elemental Spear;
+Elemental Trap;
+Fable Lord;
+Fire Prism;
+Heck Hound;
+Humongofrog;
+Ice Prism;
+Kraken;
+Myth Prism;
+Mutate Beetle (Fire);
+Mutate Cat (Storm);
+Oni No Jade*F2;
+Spirit Spear;
+Tough;
+
+| reagents =
+Aether;
+Agave Nectar;
+Amber;
+Amber Dust;
+Ancient Scroll;
+Aquamarine;
+Astral Shard;
+Braided Vine;
+Brass;
+Cobalt;
+Fire Blossom;
+Fish Fin;
+Flying Squid Ink;
+Golden Pearl*F2;
+Mithril*F3;
+Scales;
+Silver*F3;
+Spider Silk*F2*WMV;
+Spring;
+Stardust;
+Steel*F2;
+Sunstone;
+Tin*F2*WMV;
+Titanium;
+Tungsten*F4;
+Turquoise;
+
+| spellements =
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Sand Wurm*BR;
+Scion of Balance*BR;
+Scion of Fire*BR;
+Scion of Life*BR;
+Snake Charmer*BR;
+Winged Sorrow*BR;
+Witch's House Call*BR;
+
+| snacks =
+Athame Pop;
+BBQ Drumstick;
+Beast Wellington;
+Dastardly Radish*F2;
+Discord Grape Jelly;
+Dragon Fruit;
+Eye Candy;
+Fetid Legumes;
+Golden Squash;
+Gummy Humongofrog;
+Hero Sandwich;
+Hot Cross Buns*F2;
+Minotarts;
+Oyster Shooter;
+Pyramints;
+Satyr Chow*F2;
+Spicy Drumstick;
+Sprinkle Cupcake;
+
+| jewels =
+Luminous Weaver Jade;
+Shiny Accurate Ruby +12%;
+Shiny Blocking Amethyst +15;
+Shiny Damage Citrine +25;
+Sparkling Blocking Amethyst +18;
+Sparkling Blocking Jade +18;
+Sparkling Critical Citrine +18;
+Sparkling Critical Ruby +18;
+Sparkling Defense Opal +28;
+Sparkling Mana Opal +52;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Bell Pepper;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Dandelion;
+Desparagus (Seed);
+Face Palm;
+Goose Tree;
+Ivy League*CR;
+Orange Bell Pepper*CR;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Queen Crape Myrtle;
+Red Huckleberries;
+Snap Dragon;
+Snow Apples;
+Sugar Khrystal*CR;
+Sword Fern*CR;
+Ultra Boom Shroom;
+Ultra Tiger Lily;
+Ultra Trumpet Vine;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

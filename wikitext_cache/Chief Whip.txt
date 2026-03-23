@@ -1,0 +1,226 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 4,060
+| crecla = Dog
+| school = Life
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Death;
+
+| incresist =
+70% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Bulldog Sergeant Major;
+
+| world = Marleybone
+| location = Barkingham Palace
+| subloc1 = Main Hall
+| descrip =
+Chief Whip has been hypnotized by the [[Creature:Noxious Gas Golem|hostile forces]] in Barkingham Palace.
+
+| speech =
+:''"Who d'you think you are? Doctor Jackall ordered me to keep this area clear of disturbances. Sherlock sent you? I never much cared for that busy-beagle! I'll give you what for to take back to him!"''
+
+| cheatnotes =
+*{{Icon|Friend}}{{Icon|Damage}} ''"Chip up!"'' - Whenever a Wizard casts a [[:Category:Damage Spells|Damage Spell]], there is a chance that the Chief Whip will interrupt-cast Spirit Armor on the target of the attack.
+**If a multi-target Damage Spell triggers this cheat, then the Spirit Armor will be cast on whoever is in the first spot.
+**If a multi-target Damage Spell that hits all enemies at the same time triggers this cheat, such as {{Link|Spell|Climaclysm}}, then the Spirit Armor will be cast on the Chief Whip.
+*{{Icon|Minion}}{{Icon|Afterlife}} ''"Hold the line!"'' - The first time that the Bulldog Sergeant Major is defeated, the Chief Whip will interrupt-cast {{Link|Spell|Rebirth}} to revive him.
+**If a multi-target Damage Spell triggers this cheat, then Rebirth is cast for each enemy hit.
+*{{Icon|Heal}}''"I'll catch you up!"'' - If a Wizard casts a [[:Category:Healing Spells|Healing]] Spell, then the Chief Whip will interrupt-cast {{Link|Spell|Entangle}} on the Wizard.
+**Pet Spells will trigger this cheat.
+*{{Icon|Pip}} ''"Let me help you, Chief!"'' - Randomly, whenever the Bulldog Sergeant Major has enough Pips, he will say this and use his turn to cast {{Link|Spell|Donate Power}} on Chief Whip.
+
+| spellnotes =
+
+| casts =
+Legend Shield;
+Spirit Armor;
+Guiding Light;
+Unicorn;
+Lifeblade;
+Life Prism;
+Life Trap;
+Sanctuary;
+Luminous Weaver;
+Giant Spider;
+Natural Attack (Life 105-205-305);
+Earth Walker;
+Centaur;
+
+| quests =
+The Dog with the Twisted Lip;
+
+| gold =
+78 - 184;
+
+| hats =
+Barkingham Bombin of Brio;
+Barkingham Derby of Cinders*F3*WMV;
+Barkingham Derby of Repose*F2;
+Barkingham Fog Bowler*F2*WMV;
+Barkingham Frost Cover;
+Royal Cap of Alliance;
+Topper of Royal Wit;
+
+| robes =
+Barkingham Cinder Smock*F2;
+Barkingham Fog Coat*F3*WMV;
+Barkingham Robe of Repose;
+Royal Coat of Wit;
+Smock of Barkingham Brio*F4*WMV;
+
+| boots =
+Barkingham Boots of Brio*F2*WMV;
+Barkingham Cinder Shoes;
+Barkingham Clogs of Repose;
+Barkingham Fog Walkers*F3*WMV;
+Barkingham Frostbreaker;
+Barkingham Shoes of Wit*F2;
+Royal Boots of Alliance;
+
+| athames =
+
+| amulets =
+Barkingham Vial of Numbing;
+Empire's Torc of Calamity;
+Grenadier's Vial of Tumult*F3*WMV;
+Hound's Choker of Squalls*F2*WMV;
+Sherlock's Lens of Hegemony;
+Vial of the Palace Menace;
+Watson's Amulet of Purpose*F2;
+Yeoman's Ampul of Winter;
+
+| rings =
+Antique Barkingham Ring;
+Fallen Palace Guard's Ring;
+Mr. Hound's Ferocious Loop*F3*WMV;
+Ringlet of Mesmerization;
+Warder's Band of Recovery*F2;
+
+| wands =
+
+| decks =
+Arcana of Noble Praxis;
+Barkingham Case of Splendor;
+Barkingham Pack of Malaise*F2*WMV;
+Deck of the Roiling Court*F2*WMV;
+Frosted Deck of Barkingham;
+Haze Over Barkingham Cards;
+Her Majesty's Regal Array;
+Rains of Barkingham Set*F2;
+Set of the Thriving Monarch;
+
+| items =
+Wooden Skeleton Key*CR*F2;
+
+| cards =
+Blizzard*F6*WMV;
+Cat Thug*F2;
+Clockwork*F5*WMV;
+Clockwork Spider*F4*WMV;
+Curse*F4*WMV;
+Deadly Scratcher*F2*WMV;
+Donate Power*F7*WMV;
+Empower*F6*WMV;
+Feint*F10*WMV;
+Guidance;
+Ice Armor*F4*WMV;
+Iron Golem*F6*WMV;
+Pest Zapper*F2*WMV;
+Satyr*F7*WMV;
+Seraph*F7*WMV;
+Spectral Blast*F5*WMV;
+Spirit Armor*F3*WMV;
+Street Sweeper;
+Tower Shield*F5*WMV;
+
+| reagents =
+Bone*F22*WMV;
+Copper*F5*WMV;
+Ectoplasm*F21*WMV;
+Iron*F7*WMV;
+Leather Straps*F15*WMV;
+Nickel;
+Pyrite*F2*WMV;
+Spider Silk*F12*WMV;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F2;
+Cauliflowers*F3;
+Delicious Cookie*F3*WMV;
+Dr. Jalapeno*F2;
+Flaming Soup*F3*WMV;
+Flapjacks*F2*WMV;
+Glowing Star Fruit*F3*WMV;
+Glowing Taffy;
+Goat Cheese*F2*WMV;
+Golden Grapes*F3;
+Gummy Humongofrog*F3;
+Jelly Baby;
+King Banana;
+Kola Nuts*F2;
+Salmonberry*F2*WMV;
+Shiny Tomato*F3*WMV;
+Spicy Drumstick;
+Strawberry Cupcake;
+Submarine Sandwich*F3;
+Uni-Corn*F3*WMV;
+
+| jewels =
+Chipped Damage Jade +7;
+Chipped Defense Opal +8*F2;
+Chipped Health Opal +21;
+Chipped Health Opal +22;
+Chipped Health Opal +24;
+Cyclops Peridot;
+Determined Opal;
+Evil Snowman Sapphire*F2*WMV;
+Flawed Healing Opal +2%;
+Flawed Health Opal +30;
+Sprite Jade;
+Storm Shark Amethyst;
+Sunbird Ruby;
+
+| pins =
+
+| pets =
+Black Spider;
+Blue Ghost;
+Crabling*CR;
+Dark Sprite*F2;
+Seraph*CR;
+
+| seeds =
+Deadly Fly Trap;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR;
+Pink Laugh-O-Dil;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

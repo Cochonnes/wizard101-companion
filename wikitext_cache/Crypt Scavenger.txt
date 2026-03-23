@@ -1,0 +1,235 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 680
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Life;
+
+| incresist =
+50% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Forgotten Djeserit Soul;
+
+| world = Krokotopia
+| location = Djeserit Family Tomb
+| subloc1 = Scavenged Tomb
+| descrip =
+The Crypt Scavenger is a wraith trying to take control of the entire Tomb of Storms.
+*Two additional Forgotten Djeserit Souls will appear if more than two Wizards are present.
+
+| speech =
+:''"If you have no offering for me, I shall take my reward in your defeat!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+Hungry for more than life, the Crypt Scavenger seeks to control all of the Djeserit Family and all in their tomb.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Weakness;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Natural Attack (Wraith);
+Lightning Bats;
+Evil Snowman;
+Cyclops;
+
+| quests =
+Tomb Town;
+Scavenge the Scavenger;
+
+| gold =
+21 - 44;
+
+| hats =
+Cap of the Oasis;
+Conjurer's Hat;
+Cowl of Prediction*F2;
+Crypt Scavenger's Cowl;
+Headwrap of Originality;
+Helm of the Bastion;
+Helm of the Cyclone;
+Mask of Proportions*F2;
+Necromancer's Ivory Hat;
+
+| robes =
+Ceremonial Vest*F2*WMV;
+Cloak of Refuge;
+Garments of Repose*F2;
+Garments of the Augur*F3;
+Necromancer's Ivory Cloak;
+Raiment of the Badlands;
+Robe of Reason*F4;
+Robe of Talent;
+Rugged Robe*F2;
+Scavenger's Radiant Robe;
+Sorcerer's Maroon Cloak*F3;
+Sphinx's Vestment*F3*WMV;
+Swindler Coat*CR*F2;
+Tunic of Energy;
+Tunic of Mortality;
+Vestment of the Arctic;
+
+| boots =
+Ancient Sandals;
+Boots of Imagination;
+Boots of the Citadel;
+Boots of the Cyclone*F4*WMV;
+Cryptkeeper's Shoes;
+Crystalline Footwraps*F2;
+Diviner's Boots*F4;
+Krokotopian Balance Striders;
+Krokotopian Death Striders;
+Krokotopian Myth Striders;
+Krokotopian Striders*F3*WMV;
+Quartermaster's Boots*F2;
+Rough-Hewn Boots*F3*WMV;
+Shoes of Adaptation;
+Shoes of Annihilation;
+Shoes of Figments*F5*WMV;
+Slippers of Sensibility*F2;
+Threadbare Boots*F5*WMV;
+
+| athames =
+Blade of Proportions*F3*WMV;
+Cryptkeeper's Shortblade;
+Cryptkeeper's Shortsword*F3*WMV;
+Dagger of Solitude*F2;
+Dirk of the Wasteland;
+Flamedancer's Athame;
+Parched Kris*F2;
+Powerful Stiletto;
+Scavenger's Shortblade*F2;
+Whirlwind Dagger*F2;
+
+| amulets =
+
+| rings =
+Band of Energy*F3;
+Band of the Mirage;
+Crypt Scavenger's Circle*F3;
+Loop of Talent*F3;
+Ring of the Badlands;
+Sparkling Band;
+
+| wands =
+
+| decks =
+Mummified Deck*F4;
+
+| items =
+Floor Torch;
+Krok Skull Tablet*F3;
+Krok Sun Plaque;
+Krokotopia Theme 3*F5;
+Open Ice Sarcophagus*F3*WMV;
+Purple Painted Column;
+Sand Celebration Rug*F3;
+
+| cards =
+Blizzard;
+Cyclops;
+Dryad;
+Fire Trap*F2;
+Ghost Touch;
+Ice Trap;
+Pacify;
+Sandstorm;
+Sniper;
+Sunbird;
+Tempest;
+Vampire;
+Weakness;
+
+| reagents =
+Brass;
+Copper;
+Ectoplasm*F3;
+Iron*F2;
+Lead;
+Nickel*F2*WMV;
+Pyrite*F3;
+Tin;
+
+| spellements =
+
+| snacks =
+Cracker*F4;
+Green Grapes*F3;
+Gummy Humongofrog;
+Nettle Root*F4;
+Tiny Fish*F2*WMV;
+
+| jewels =
+Big Boost Opal;
+Chipped Defense Citrine +13;
+Chipped Defense Peridot +13;
+Chipped Health Opal +18;
+Chipped Health Opal +20*F2*WMV;
+Chipped Mana Opal +12;
+Clay Post Opal;
+Cracked Accurate Amethyst +2%;
+Cracked Accurate Citrine +2%;
+Cracked Accurate Sapphire +2%;
+Cracked Damage Jade +6;
+Cracked Damage Onyx +4;
+Cracked Damage Peridot +6;
+Cracked Defense Onyx +9;
+Cracked Defense Ruby +10;
+Fire Elf Ruby;
+Ghoul Onyx;
+Life-Boon Jade;
+Myth Trap Peridot (Triangle);
+Myth-Away Peridot;
+Snow Serpent Sapphire;
+Troll Peridot;
+
+| pins =
+
+| pets =
+Fang Bat*F4*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

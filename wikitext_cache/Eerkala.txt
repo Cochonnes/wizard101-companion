@@ -1,0 +1,261 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 19,600
+| crecla = Djinn
+| school = Shadow
+| masteries = Myth;
+| cheats = Yes
+
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+120 Any;
+
+| criticalblock =
+77 Any;
+
+| outboost =
+70% Any;
+
+| outpierce =
+3% Any;
+
+| incboost = 
+10% Storm;
+
+| incresist =
+35% Myth;
+
+| stunable = Yes
+| beguilable = Yes
+| minion = 
+
+| world = Mirage
+| location = Eerem Palace
+| subloc1 = Eerem Gardens
+| descrip =
+*Uses Pip Conversion.
+
+| speech =
+*'''Eerkala:''' ''"Now what? You? Both of You? I was told you'd be in the Shadow Realm by now, Wizard... and you Istar, I imagined you conjuring bananas somewhere."''
+*'''{{Link|NPC|Istar}}''' - ''"Wait you actually know my name? I thought you didn't care about us junior Djinn, that we didn't even merit your attention...?"''
+*'''Eerkala:''' - ''"Oh, don't be mistaken, you most certainly don't. But now that you're here, I suppose I shall have to deal with you. Come on then. Don't delay!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"You're late! Centuries late!"'' - If a Wizard joins the duel after it has already begun, Eerkala will cast {{Link|Spell|Mana Burn (Shadow)}} at the Wizard.
+*{{Icon|Damage}} ''"Now this is Djinni magic!"'' - Every five Rounds, she will cast a version of {{Link|Spell|Diablo Qarin (Shadow)}} that deals '''500''' Death Damage to all Wizards.
+:*She will cheat-cast this Spell one-four times, depending on how many Wizards are present in the duel.
+*{{Icon|Blade}}{{Icon|Global}} ''"A little curse, I think"'' - If a Wizard casts a Damage-type Blade Spell or Global Spell, she will place a protected {{Link|Spell|Curse (Shadow)}} on the Wizard who cast the Spell, and a protected {{Link|Spell|Weakness (Shadow)}} on the Wizard who received the Blade.
+:*Secondary Spell effects from Spells that give the caster a Blade or activate a Global effect result in Eerkala receiving a the Weakness (Shadow), while the caster receives a Shadow Trap.
+:*Multi-target Blades like {{Link|Spell|Bladestorm}} will put the Weakness and Curse on the caster.
+*{{Icon|Trap}}''"How amusing!"'' - If a Wizard casts a negative Ward Trap Spell, she will cast a '''+10%''' {{Link|Spell|Amplify}}, lasting '''99''' Rounds, and this Aura increases by '''10%''' resetting to 99 Rounds each time a Trap is placed.
+:*{{Link|Spell|Mass Feint (+75%)}} does not trigger this cheat.
+**This Aura has the appearance of {{Link|Spell|Berserk}}.
+*{{Icon|Manipulation}} ''"No more games!"'' - Attempting to remove Eerkala's Aura will result in Eekala cheat-casting a '''+50%''' Amplify. Further attempts to remove the Aura will result in Eerkala cheat-casting a '''+100%''' Amplify.
+
+| spellnotes =
+*Casts a protected Mythblade, Shadowblade and Shadow Trap.
+
+| casts =
+Shadowblade;
+Mythblade;
+Shadow Trap;
+Blinding Light (85%);
+Death Troll (Shadow);
+Natural Attack (Shadow 110-220-330);
+Crow (Shadow);
+Deer Knight (Shadow);
+Medusa (Shadow);
+Athena Battle Sight;
+Humongofrog (310-370);
+Orthrus (785);
+Celestial Calendar;
+
+| quests =
+Eerkala's Secret;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' Badge and has not unlocked the '''[[Basic:Empyrea Badges|Hero of Light and Shadow]]''' Badge, the following drops will be available:
+*16 Spellements will drop each time from '''any''' School for their respective rank 9, 10, King Artorius, Polaris, and Mirage Spells.
+
+| gold =
+452 - 539;
+
+| hats =
+Charred Eerem Headwrap;
+Eerem Headwrap of Clangor;
+Eerem Headwrap of Pulse;
+
+| robes =
+Alkali Armor of Fiction;
+Alkali Armor of Vibrancy;
+Alkali Burning Sands Armor;
+Alkali Monsoon Armor;
+Eerem Raiment of Hail;
+Eerem Raiment of Menace;
+
+| boots =
+Alkali Monsoon Walkers;
+Alkali Walkers of Fiction;
+Alkali Walkers of Withering;
+
+| athames =
+Istanboa Khanjar of Icefall;
+Istanboa Khanjar of Ruin;
+
+| amulets =
+Eerem Hailstone Talisman;
+Eerem Talisman of Char;
+Eerem Talisman of Pulse;
+Istanboa Pendant of Ruin;
+
+| rings =
+Eerem Band of Harmony;
+
+| wands =
+Myriarch Tabarzin of Rime;
+Scorpion Bow of Fervor;
+
+| decks =
+Eerem Spread of Pulse*F2*WMV;
+Gallant Istanboa Array;
+
+| items =
+Mirage Canyon Theme 2;
+Mirage Chronoverge Com Theme;
+Mirage Chronoverge Theme*F2*WMV;
+Mirage City Combat Theme*F2*WMV;
+Mirage City Theme*F2*WMV;
+Mirage City Theme 2;
+Mirage Desert Canyons Theme*F2;
+Mirage Desert Combat Theme*F2;
+Mirage Jungle Theme;
+Mirage Magic Carpet Theme;
+Mirage Serpent Theme;
+Mirage Spider Speaks Theme;
+
+| cards =
+Age of Reckoning*F2*WMV;
+Astraphobia*F2*WMV;
+Combustion;
+Nested Fury*F2*WMV;
+Winged Sorrow;
+Wings of Fate;
+Witch's House Call;
+
+| reagents =
+Aether*F5*WMV;
+Agave Leaves*F3*WMV;
+Agave Nectar;
+Amber Dust*F4*WMV;
+Aquamarine*F3*WMV;
+Astral Shard*F2*WMV;
+Draconium;
+Fire Blossom*F2*WMV;
+Golden Pearl*F6*WMV;
+Iridium;
+Merle's Whisker*F2*WMV;
+Mithril*F2*WMV;
+Scales*F3*WMV;
+Silver*F3*WMV;
+Stardust*F2*WMV;
+Steel*F3*WMV;
+Sunstone*F5*WMV;
+Titanium*F5;
+Tungsten*F2*WMV;
+Turmeric;
+Turquoise*F2*WMV;
+Vine*F2;
+
+| spellements =
+Basilisk*BR;
+Celestial Calendar*BR;
+Chimera*BR;
+Climaclysm*BR;
+Dr. Von's Monster*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Rain of Fire*BR;
+Sirens*BR;
+Snowball Barrage*BR;
+Spinysaur*BR;
+Sun Serpent*BR;
+Witch's House Call*BR;
+
+| snacks =
+Beetle Cream Soda*F2*WMV;
+Chalupacabra*F3*WMV;
+Eye Candy*F2;
+Hard Boiled Beetle Eggs;
+Hot Cross Buns;
+Mustachios*F2;
+Satyr Chow*F3*WMV;
+Ships 'n' Queso*F4*WMV;
+Veggie Juice*F2;
+
+| jewels =
+Epic Opal;
+Renew Opal;
+Shiny Blocking Onyx +16;
+Shiny Blocking Peridot +16;
+Shiny Critical Jade +16;
+Shiny Critical Peridot +16;
+Shiny Critical Sapphire +16;
+Shiny Damage Sapphire +26;
+Shiny Defense Hematite +52;
+Shiny Defense Peridot +51;
+Shiny Defense Peridot +52;
+Shiny Health Opal +111;
+Shiny Health Opal +112*F2*WMV;
+Shiny Health Opal +113*F2*WMV;
+Shiny Health Opal +114;
+Shiny Mana Opal +46*F2*WMV;
+Shiny Mana Opal +47;
+
+| pins =
+
+| pets =
+MaCaw*CR*F3*WMV;
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Angel Oak;
+Bell Pepper;
+Blue Huckleberries*F2;
+Burning Snap Dragon;
+Clockwork Flower;
+Cornbread Fruit Bush*F2*WMV;
+Deadly Helephant Ears*CR;
+Evil Magma Peas*CR*F2;
+Evil Snow Peas;
+Fiery Boom Shroom;
+Honey Bee Plant;
+Honey Sickle;
+Key Limes*CR;
+King Parsley*CR;
+Moon Flower;
+Ninja Fig*CR;
+Pink Huckleberries;
+Pink Laugh-O-Dil;
+Purple Snow Apples;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Red Couch Potatoes;
+Red Grapes of Wrath;
+Rye Bread Fruit Bush;
+Sunion*CR*F2;
+White Desparagus*F2*WMV;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,97 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 1,150
+| crecla = Snake
+| crecla2 = Undead
+| school = Storm
+| startpips = 3
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Upper Zigazag
+| subloc1 = House of Scales
+| descrip =
+A possible Minion to {{Link|Creature|Apep the Snaky One}}. All Drops should be recorded on that page.
+*These Creatures stay in combat for two Rounds before Apep uses {{Link|Spell|Sap Power}} on each of them.  Once destroyed, Apep replaces them with [[Creature:Fiery Echo of Apep|Fiery Echos of Apep]].
+
+| speech =
+
+*'''Monstrology Description:'''
+:This echo is nothing fancy. It's pretty much just what Apep thinks he'd be like with electro-zappy powers.
+
+| spellnotes =
+
+| casts =
+Infallible;
+Storm Shield;
+Stormblade;
+Storm Trap;
+Natural Attack (Storm 125-245-365);
+Tempest (6 Pip);
+Leviathan;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

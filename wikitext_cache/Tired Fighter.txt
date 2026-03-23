@@ -1,0 +1,99 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 1,115
+| crecla = Undead
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Myth;
+
+| incresist =
+40% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minion = 
+| world = Marleybone
+| location = Regent's Square
+| subloc1 = Warehouse (Spiral Geographic)
+| descrip =
+Tired Fighter is a Minion to {{Link|Creature|General Stormclaw}}. All drops, cheats, and speech are recorded on that page.
+
+'''Monstrology Description:'''
+*They've almost given up on the good fight completely.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Myth Shield;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Shark;
+Kraken;
+Stormzilla;
+Storm Lord;
+Tempest;
+Natural Attack (Death 90);
+Heck Hound;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

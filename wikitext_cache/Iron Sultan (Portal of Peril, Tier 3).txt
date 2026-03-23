@@ -1,0 +1,181 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 10,675
+| crecla = Sultan
+| crecla2 = Golem
+| school = Storm
+| school2 = Balance
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| schoolpips = 
+Storm;
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+14%;
+
+| outboost =
+96%;
+
+| incboost =
+30% Myth;
+
+| incresist =
+21% Fire, Ice, Life, Death, Balance, Shadow;
+51% Storm;
+
+| outhealing =
+7%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gold Dragon (Portal of Peril, Tier 3);
+Steeleton (Portal of Peril, Tier 3);
+
+| world = Portal of Peril
+| location = Sinbad & the Iron Sultan Gauntlet (Portal of Peril)
+| subloc1 = Metallos Summit (Portal of Peril)
+| descrip =
+Having finally been cornered by {{Link|NPC|Sinbad}} and companion Wizards on the summit of Metallos, {{Link|NPC|Hari Houssen}} has used the transmutative power of the Iommi Stone to transform himself the Iron Sultan, set on using its powers to restore Ferros to its place of power in the Spiral.
+*An additional Steeleton will appear if more than two Wizards are present.
+
+| speech =
+:''"I. Am. IRON SULTAN! Once I have taken Ferros I will return her to her former glory by resurrecting what first made her strong: METAL! But before I rule with an iron fist, I should practice wielding one. I think I'll start with your meaty faces!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+Used to be the center of a massive theatrical universe; things went downhill after he left.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| altlink = Iron Sultan
+
+| cheatnotes =
+*''"You are late!"'' - If a Wizard is late to join the duel, the Iron Sultan will cheat-cast {{Link|Spell|Iron Sultan (Shadow)}} on the late Wizard.
+*''"Clever, but that is why I have a Golden Dragon!"'' - At the beginning of the first Round, the Gold Dragon will cheat-cast a version of {{Link|Spell|Shadow Sentinel}} on itself that provides '''75%''' Intercept, '''100''' Critical Block, and '''-30%''' incoming Damage.
+*''"Time to strike while the Iron Sultan is hot!"'' - If Wizards cast an all-enemies or targeted enemies Spell, the Iron Sultan will cheat-cast {{Link|Spell|Hamadryad (7 Pip)}}, restoring '''800''' Health (856 after outgoing Healing) to and removing a Damage over Time effect from all enemies.
+**This cheat will not be triggered if Iron Sultan is defeated.
+*''"I am METAL!"'' - If a {{Link|Spell|Feint}} or {{Link|ItemCard|Mass Feint}} is cast on the Iron Sultan, he will cheat-cast {{Link|Spell|Cleanse Ward (Shadow, -All)}} twice on himself to remove all harmful Wards.
+*''"This one goes up to eleven!"'' - At the end of every fifth Round, the Iron Sultan will cheat-cast a [[Spell:Darkwind (+35%)|+35% version of Darkwind]].
+**''"Heavy fists of lead, fill my victims full of dread!"'' - Immediately after Darkwind is cast, the Iron Sultan will cast {{Link|Spell|Iron Sultan}} on the Wizard with the lowest Health.
+
+| spellnotes =
+
+| casts =
+Dark Surge;
+Dark Fiend;
+Galvanic Field (6 Rounds);
+Availing Hands;
+Stormblade (+30%);
+Balanceblade (+35%);
+Beary Surprise (Tier 5b);
+Storm Shark (Tier 5b);
+Catch of the Day (Tier 5b);
+Hammer of Thor (Tier 5b);
+Revolutionary Strike (Tier 5a);
+Stormwing (Tier 5a);
+Glowbug Squall (1,120);
+Rusalka's Wrath;
+Triton (Tier 5b);
+Savage Paw (Tier 5a);
+Gearhead Destroyer (Tier 5b);
+
+| quests =
+The Umpteenth Voyage of Sinbad;
+
+| dropnotes =
+This Boss will always drop 10 Fortune Coins and 2 random Treasure Cards.
+
+| gold =
+24 - 58;
+
+| hats =
+Fleet Kapudan's Turban (Level 130+)*CR;
+Sky Captain's Turban (Level 130+)*CR;
+
+| robes =
+Grand Admiral's Armor (Level 130+)*CR;
+
+| boots =
+Fleet Kapudan's Boots (Level 130+)*CR;
+Sky Captain's Boots (Level 130+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Admiral's Boarding Hook (Level 130+)*CR;
+Sky Captain's Boarding Hook (Level 130+)*CR;
+
+| decks =
+
+| items =
+
+| cards =
+Blood Bat (Tier 2b);
+Cyclops (Tier 2b)*F2;
+Dark Sprite (Tier 2b)*F2*WMV;
+Evil Snowman (Tier 2b);
+Fire Cat (Tier 2b);
+Fire Elf (Tier 2b)*F2*WMV;
+Ghoul (Tier 2b);
+Imp (Tier 2b);
+Leprechaun (Tier 2b);
+Lightning Bats (Tier 2b)*TEST;
+Locust Swarm (Tier 2b);
+Moon Blade*F2;
+Scarab (Tier 2b);
+Scorpion (Tier 2b);
+Sinbad;
+Star Blade*F2;
+Storm Shark (Tier 2b);
+Sun Blade;
+Sunbird (Tier 2b)*F2*WMV;
+Thunder Snake (Tier 2b)*F4*WMV;
+Troll (Tier 2b);
+
+| reagents =
+Fortune Coin @ 10 Fortune Coins*F9*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Iron Sultan
+}}

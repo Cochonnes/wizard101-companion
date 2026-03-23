@@ -1,0 +1,201 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,040
+| crecla = Golem
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Kettlehead;
+
+| world = Marleybone
+| location = Katzenstein's Lab
+| descrip =
+Two additional Kettlehead Minions appear if more than two Wizards are present.
+
+| speech =
+:''"The flames will consume you in defeat, little one!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Marleybone
+| tome description =
+He has a passion in his heart, a fire in his soul. Also his stomach. And chest. The whole abdominal area really.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip.
+
+| casts =
+Snow Shield;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Ash Bats;
+Fire Elf;
+Sunbird;
+Fire Shark;
+Fire Wyvern (335-395, 4 Pip);
+Heck Hound;
+Leprechaun;
+Banshee;
+
+| quests =
+The Right Combination (Marleybone);
+
+| gold =
+29 - 53;
+
+| hats =
+Animated Canine Cowl*F3*WMV;
+Cap of the Inventor;
+Cap of the Unicorn;
+Cat Burglar's Cap;
+Exclusive Cap;
+Feline's Charged Hat;
+Flowering Canine Cowl*F2*WMV;
+Genteel Cap*F3*WMV;
+Glowing Canine Cowl*F2*WMV;
+Glowing Canine Hat;
+Precious Cap*F2*WMV;
+Victorian Hat*F2;
+Winter Canine Cowl*F2;
+
+| robes =
+Artificial Robe;
+Cloak of Clarity*F2*WMV;
+Dexterous Vest;
+Fancy Garments;
+Feline's Fiery Robe*F2*WMV;
+Feline's Whimsical Robe;
+Flowering Canine Cloak*F3*WMV;
+Mugsy's Robe of Equity;
+Polished Garments*F2;
+Robe of Superiority;
+Robe of the Bubble*F2;
+Smooth Spun Cloak*F2*WMV;
+Tunic of Chivalry;
+Tunic of Symmetry;
+Tunic of the Clever*F2;
+Uniform of the Inventor*F3;
+Uniform of the Proficient*F2;
+Vestment of the Sun;
+
+| boots =
+Alluring Boots*F2*WMV;
+Delicate Slippers;
+Exquisite Slippers;
+Fancy Slippers*F2*WMV;
+Magnificent Boots;
+Opportunists' Sandals;
+Pleasing Sandals*F4*WMV;
+Premium Footwraps;
+Puddle Stompers;
+Remarkable Sandals*F2*WMV;
+Sandals of Delusion;
+Shoes of the Windless;
+Slippers of Gusto;
+Slippers of Predominance;
+Slippers of the Worrier;
+
+| athames =
+Aristocrat's Dagger;
+
+| amulets =
+Amulet of Chilled Creatures*F2*WMV;
+
+| rings =
+Mechanical Ring;
+Mysterious Band;
+Ring of Effect;
+
+| wands =
+Staff of the Ice Wyvern*F2;
+
+| decks =
+Deck of Intensity*F3;
+Deck of the Aurora*F3*WMV;
+
+| items =
+Angled Gravemarker;
+Blue Knotted Rug;
+Closed Furnace*F2;
+Crossbone Gravestone;
+Small Smoke Stack*F2;
+
+| cards =
+Dryad;
+Fire Trap;
+Giant;
+Kraken;
+Skeletal Pirate;
+Sniper;
+
+| reagents =
+Bronze Gear*F7*WMV;
+Iron;
+Lead*F2;
+Nickel;
+Pyrite;
+Tin;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn*F2;
+Gummy Bloodbat*F6*WMV;
+Medium Fish*F2*WMV;
+Redskin Peanut*F3*WMV;
+Square Watermelon*F2*WMV;
+Stinky Cheese*F2;
+Wheat Cracker*F3*WMV;
+
+| jewels =
+Flawed Accurate Opal +2%*F2;
+Flawed Damage Opal +5;
+Flawed Resilient Opal +2%;
+Storm Shark Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

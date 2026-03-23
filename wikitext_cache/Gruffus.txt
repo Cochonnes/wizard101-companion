@@ -1,0 +1,114 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 15,970
+| crecla = Wolf-Man
+| school = Myth
+| school2 = Moon
+| startpips = 6
+| powerpips = Yes
+| scholpips =
+Myth;
+
+| critical =
+69 Any;
+
+| criticalblock =
+540 Any;
+
+| outpierce =
+21%;
+
+| outboost =
+94%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+43% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+73% Myth;
+
+| outhealing =
+43%;
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Wolf-Man (Fire-Moon);
+
+| world = Darkmoor
+| location = Graveholm
+| subloc1 = Room at the Inn
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Mass Myth Trap;
+Myth Trap;
+Mythblade;
+Mythic Sting;
+Hero of Khrysalis (Tier 2a);
+Noble Humongofrog;
+Trickster Oni;
+Shift Ogre;
+
+| quests =
+Dog Days;
+
+| gold =
+7 - 35;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Small Howling Lands Tree;
+
+| cards =
+Leviathan;
+Rebirth;
+Woolly Mammoth;
+
+| reagents =
+Orichalcum;
+Steel;
+
+| spellements =
+
+| snacks =
+Chocolate Crickets;
+Fiddleheads;
+Shepherd's Crook Pie;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,304 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 16,150
+| crecla = Frog
+| crecla2 = Undead
+| school = Death
+| school2 = Fire
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Fire;
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+27%;
+
+| outboost =
+119%;
+
+| incboost =
+30% Life;
+
+| incresist =
+37% Fire, Ice, Storm, Myth, Balance, Shadow;
+67% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| summons =
+Wally (Fake);
+Wally (Fake);
+Wally (Real);
+
+| world = Wallaru
+| location = Wobbegong Territory
+| subloc1 = Yara-Ma-Yha Cave
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*The strategy to defeat Wally is to find the difference between the summoned Wally Minions:
+**Fake Wally can gain only Death Pips, while Real Wally can gain both Death and Fire Pips.
+**Fake Wally casts different Spells than the original and Real Wallys.
+Note: The Real Wally '''can never''' be the original.
+
+| speech =
+:'''{{Link|NPC|Mrs. Toadslington}}:''' ''"Help! Help! There's no one to complain to!"''
+:'''{{Link|NPC|Riley}}:''' ''"Never fear ma'am, Walker Riley and his Wizard friend are on the case."''
+:'''Wally:''' ''"Yes, come join us! Come feed me with your life, with your thoughts, with your soul! Welcome, one and all, to the real Wallyru. ...My hunting ground."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wallaru
+| tome description =
+If you hear anyone yell: "Where is Wally?", run. He hunts in crowds.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Minion}} ''"Where oh where is Wally?"'' - At the beginning of Round 1, Wally will summon two Wally (Fake)s and one Wally (Real).  Then, he will cast a '''-300%''' Invulnerability Brace Aura on himself.  Summoned Minions have their Health concealed.
+*{{Icon|Damage}} ''"You didn't find Wally!"'' - If a Wally (Fake) takes Damage, Wally will cast {{Link|Spell|Colossafrog}}.
+*{{Icon|Damage}} ''"You found me!"'' - If Wally (Real) takes Damage, Wally will cast a Star version of Supernova, removing his Aura and dealing no Damage to himself, and then cast a Shadow Spell to expel all Minions one by one.
+**All Enemy Spells will not trigger this cheat.
+
+| spellnotes =
+
+| casts =
+Sabotage;
+Smoke Mantle;
+Smoke Screen;
+Banshee (Tier 3b);
+Headless Horseman (Tier 3b);
+Vampire (Tier 3b);
+Krampus (Tier 3a);
+Lava Lord;
+
+| quests =
+Yara-Ma-Yha-Who-Dunnit;
+
+| gold =
+3 - 57;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Crisp City Dweller Athame;
+Crisp Townie Athame;
+Elegant City Dweller Athame;
+Elegant Townie Athame;
+Flashy City Dweller Athame;
+Flashy Townie Athame;
+Gothic City Dweller Athame;
+Gothic Townie Athame;
+Iconic City Dweller Athame;
+Iconic Townie Athame;
+Striking City Dweller Athame;
+Striking Townie Athame;
+Vibrant City Dweller Athame;
+Vibrant Townie Athame;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Crisp City Dweller Deck;
+Crisp Townie Deck;
+Elegant City Dweller Deck;
+Elegant Townie Deck;
+Flashy City Dweller Deck;
+Flashy Townie Deck;
+Gothic City Dweller Deck*F2*WMV;
+Gothic Townie Deck;
+Iconic City Dweller Deck;
+Iconic Townie Deck;
+Striking City Dweller Deck;
+Striking Townie Deck;
+Vibrant City Dweller Deck;
+Vibrant Townie Deck;
+
+| items =
+
+| cards =
+Arcticzilla;
+Ashen Bones;
+Banshee (Tier 2b);
+Blood Bat (Tier 2b);
+Cyclops (Tier 2b);
+Dark Sprite (Tier 2b);
+Deadly Minotaur;
+Fire Cat (Tier 2b);
+Fire Elf (Tier 2b);
+Frost Beetle (Tier 2b);
+Ghoul (Tier 2b);
+Harmattan Maxios;
+Imp (Tier 2b)*F2*WMV;
+Leprechaun (Tier 2b);
+Lightning Bats (Tier 2b);
+Locust Swarm (Tier 2b);
+Lord of the Squall;
+Nature's Wrath (Tier 2b);
+Nested Fury;
+Raging Bull;
+Rusalka's Wrath;
+Scarab (Tier 2b);
+Scorpion (Tier 2b);
+Sirocco Djinni;
+Snow Serpent (Tier 2b);
+Snowball Barrage;
+Storm Shark (Tier 2b);
+Sunbird (Tier 2b);
+Thunder Snake (Tier 2b);
+Troll (Tier 2b);
+Winged Sorrow;
+Wings of Fate;
+Witch's House Call;
+
+| reagents =
+
+| spellements =
+Barbarian's Saga;
+Blast Off!;
+Bunyip's Rage;
+Count Croakula;
+Dark & Stormy;
+Deathly Depths;
+Drop Bear Fury;
+Freeze Ray;
+Glimpse of Infinity;
+Gravestorm;
+Grim Reader;
+Grrnadier;
+Improbable Gaze;
+Lord of the Jungle;
+Mockenspiel;
+Old One's Endgame;
+Phantasmania!;
+Rainbow Serpent;
+S'more Machine;
+Scales of Destiny;
+Scion of Balance;
+Scion of Life;
+Scion of Storm;
+Shatterhorn;
+Snack Attack;
+Sound of Musicology;
+Starspawn;
+Tatzlewurm Terror*F2*WMV;
+Tree of Strife;
+Wobbegong Frenzy;
+Zand the Bandit;
+
+| snacks =
+
+| jewels =
+Amazing Accurate Citrine +15%;
+Amazing Accurate Jade +15%;
+Amazing Accurate Onyx +15%;
+Amazing Accurate Sapphire +15%;
+Amazing Health Opal +136;
+Amazing Health Opal +138;
+Amazing Health Opal +139;
+Amazing Health Opal +140;
+Amazing Health Opal +141;
+Amazing Health Opal +142;
+Amazing Health Opal +143;
+Amazing Health Opal +144;
+Amazing Mana Opal +58;
+Duck Savage Sapphire;
+Flawless Accurate Citrine +16%;
+Flawless Accurate Jade +16%;
+Flawless Accurate Onyx +16%;
+Flawless Archmastery Opal +15 (Tear);
+Flawless Health Opal +146;
+Flawless Health Opal +147;
+Flawless Health Opal +148;
+Flawless Health Opal +149;
+Flawless Health Opal +150;
+Flawless Health Opal +151;
+Flawless Health Opal +152;
+Flawless Health Opal +155;
+Flawless Mana Opal +63;
+Gravestorm Onyx;
+Improbable Gaze Peridot;
+Lustrous PIP Opal +10%;
+Mandar Peridot;
+Quartermane Citrine;
+Scales of Destiny Citrine;
+The Bantam Jade;
+Tree of Strife Amethyst;
+
+| pins =
+Balance Crushing Pin (150, Storm);
+Balance Crushing Pin (160, Storm);
+Balance Disabling Pin (150, Storm);
+Balance Disabling Pin (160, Storm);
+Balance Punishing Pin (150, Life);
+Balance Punishing Pin (150, Storm);
+Balance Punishing Pin (160, Fire);
+Balance Punishing Pin (160, Storm);
+Death Crushing Pin (150, Storm);
+Death Crushing Pin (160, Storm);
+Death Disabling Pin (150, Storm);
+Death Disabling Pin (160, Storm);
+Death Punishing Pin (160, Storm);
+Fire Crushing Pin (160, Myth);
+Fire Crushing Pin (160, Storm);
+Fire Disabling Pin (160, Storm);
+Fire Punishing Pin (150, Myth);
+Fire Punishing Pin (150, Storm);
+Ice Crushing Pin (150, Storm);
+Ice Crushing Pin (160, Storm);
+Ice Disabling Pin (150, Fire);
+Ice Disabling Pin (150, Storm);
+Ice Punishing Pin (150, Storm);
+Ice Punishing Pin (160, Storm);
+Life Crushing Pin (150, Storm);
+Life Crushing Pin (160, Storm);
+Life Disabling Pin (160, Storm);
+Life Punishing Pin (150, Storm);
+Life Punishing Pin (160, Myth);
+Life Punishing Pin (160, Storm);
+Myth Crushing Pin (150, Storm);
+Myth Disabling Pin (150, Storm);
+Myth Disabling Pin (160, Storm);
+Myth Punishing Pin (150, Death);
+Myth Punishing Pin (150, Storm);
+Myth Punishing Pin (160, Storm);
+Storm Punishing Pin (160, Myth);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

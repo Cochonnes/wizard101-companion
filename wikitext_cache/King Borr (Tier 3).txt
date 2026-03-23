@@ -1,0 +1,236 @@
+{{Stub|information on the ''"Avenge Me!"'' cheat|which version of the '''Mutate''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 5,570
+| crecla = Boar
+| crecla2 = Pig
+| school = Myth
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+75%;
+
+| incboost =
+10% Storm;
+
+| incresist =
+60% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Grendelynn (Tier 3);
+
+| world = Grizzleheim
+| location = Savarstaad Pass
+| subloc1 = Savarstaad Pass Gold Key Room
+| badge = Borr, What Was He Good For?
+| descrip =
+King Borr (Tier 3) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Grizzleheim Lore Pack}}.
+*This Tier is for level 51-109 Wizards.
+
+| speech =
+:''"Who is this? You wretch, you wastrel, you petty, mortal thing. Do you know who I am? I AM BORR, KING OF... boars!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+He is the mighty ruler of Grizzleheim! As long as you don't ask literally anyone else.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Round}} ''"You are my shield!"'' - At the start of the first Round, Grendelynn (Tier 3) will cast {{Link|Spell|Shadow Sentinel}} that provides 75% Intercept on King Borr.
+*{{Icon|Feint}} ''"I call Your Feint!"'' - If a {{Link|Spell|Feint}} is cast on  King Borr, he will cast {{Link|Spell|Cleanse Ward (Shadow, -1)}} that removes all traps.
+*{{Icon|Minion}}{{Icon|Afterlife}} ''"You won't fall until I command it!"'' - If Grendelynn (Tier 3) is defeated before the Boss, King Borr (Tier 3) will use a Moon version of {{Link|Spell|Blessing}} on Grendelynn (Tier 3), restoring 100% Health, and Grendelynn will recast Shadow Sentinel on King Borr.
+*{{Icon|Late}} ''"If you're late, you must wait!"'' - If a Wizard joins the battle late, King Borr (Tier 3) will cast {{Link|Spell|Medusa (865)}} on the Wizard.
+*{{Icon|Afterlife}} ''"Avenge me!"'' - After King Borr (Tier 3) is defeated, Grendelynn (Tier 3) will be defeated. This cheat may be bugged though, because the ''You Won't Fall Until I Command It'' cheat will activate, restoring the Minion's Health again.  ''Needs verification.''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 460 Myth Damage for 4 Pips maximum.
+
+| casts =
+Berserk;
+Balanceblade (+30%);
+Cleanse Ward;
+Pierce;
+Shatter;
+Cleanse Charm;
+Keeper of the Flame;
+Athena Battle Sight;
+Humongofrog (310-370);
+Earthquake (425);
+Orthrus;
+Medusa;
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+860 - 1,000;
+
+| hats =
+Allfather's Helm (Level 90+)*CR;
+Conjurer's Timeless Brim;
+Diviner's Timeless Brim;
+Necromancer's Timeless Brim;
+Pyromancer's Timeless Brim;
+Thaumaturge's Timeless Brim*F2;
+Timeless Arboreal Brim;
+Wizard's Timeless Brim;
+Wotan's Helm (Level 100+)*CR;
+
+| robes =
+Allfather's Raiment (Level 100+)*CR;
+Necromancer's Timeless Tunic;
+Odin's Raiment (Level 90+)*CR;
+Theurge's Timeless Tunic*F2;
+Timeless Astral Tunic*F2;
+
+| boots =
+Allfather's Boots (Level 100+)*CR;
+Necromancer's Timeless Shoes;
+Pyromancer's Timeless Shoes;
+Sorcerer's Timeless Shoes;
+Theurge's Timeless Shoes;
+Wizard's Timeless Shoes;
+Wotan's Boots (Level 90+)*CR*F2;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Allfather's Gungnir (Level 90+)*CR*F2;
+Allfather's Gungnir (Level 100+)*CR*F2;
+Odin's Gungnir (Level 80+)*CR;
+Odin's Gungnir (Level 90+)*CR;
+Odin's Gungnir (Level 100+)*CR;
+Wotan's Gungnir (Level 100+)*CR;
+
+| decks =
+
+| items =
+Adept's Socket Wrench;
+Artisan's Socket Wrench*F3;
+Gold Skeleton Key*CR;
+Grizzleheim Carved Wallpaper;
+Grizzleheim Main Theme;
+Grizzleheim Theme 1;
+Hrundle Fjord Shield*F2;
+Kitchen Ware Pots;
+Kitchen Ware Rack;
+Medium Fir Tree*F2;
+Novice's Socket Wrench;
+Stone Skeleton Key*F5*CR;
+Tall Wooden Shelf;
+Viking Axe Statue;
+Viking Sword Statue;
+Wild Fern;
+Wooden Skeleton Key*F3*CR;
+
+| cards =
+Azoth*F10;
+Deathblade;
+Dragonblade (Balance);
+Grendel's Amends*F6;
+Hammer of Thor*F11;
+Mutate Bats (Ice);
+Mutate Banshee;
+Mutate Kraken (Ice);
+Mutate Phoenix (Ice);
+Mutate Snake (Ice);
+Mutate Sprite (Death);
+Ratatoskr's Spin*F3;
+Stormblade;
+
+| reagents =
+Aether;
+Ancient Scroll;
+Bone;
+Brass;
+Bronze Gear;
+Cobalt;
+Draconium;
+Ectoplasm;
+Fossil;
+Nickel;
+Ore;
+Orichalcum;
+Participation Trophy;
+Spring;
+Stone Block;
+Sunstone;
+Turquoise;
+Water Lily;
+
+| spellements =
+Grendel's Amends*F9;
+Grendel's Amends @ 2 Grendel's Amends;
+Hammer of Thor*F10;
+Hammer of Thor @ 2 Hammer of Thor;
+Ratatoskr's Spin*F10;
+Ratatoskr's Spin @ 2 Ratatoskr's Spin;
+
+| snacks =
+Bogwich;
+Bread Fruit Fruit;
+Caramel Corn;
+Cheese Cake;
+Fortified Cheese;
+Kiwi Fruit;
+Swirled Lollipop;
+Tower Shield Tarts;
+Wampyrnickel Bread;
+Wormy Apple;
+Eye Candy;
+
+| jewels =
+Empowerment Talent Opal;
+
+| pins =
+
+| pets =
+Fenric*CR*F2;
+Fenris*CR;
+Harpy;
+
+| seeds =
+Angora Bunny Ears;
+Blue Huckleberries;
+Pink Huckleberries;
+Red Huckleberries;
+
+| mounts =
+Snow Ram*PERM;
+
+| spells =
+
+}}

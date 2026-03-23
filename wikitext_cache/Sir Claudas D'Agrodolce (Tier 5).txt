@@ -1,0 +1,198 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 5,160
+| crecla = Crab
+| school = Death
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Brulee Sucre (Tier 5);
+
+| world = Housing Instance
+| location = Grand Tourney Arena
+| subloc1 = Grand Tourney Arena (Tier 5)
+| descrip =
+
+| speech =
+:'''Sir Claudas D'Agrodolce:''' ''"My companion is the deadly wyrm, Brulee Sucre, Wizard. We will steam you and crisp you and broil you and deglaze what remains! And then the Duchess Blackthorn will fall under my power, and all will fear to break the bread with me!"''
+:'''Brulee Sucre:''' ''"I smell the heady spices of fear, anxiety, bitterness, and discontent. Delicious."''
+
+| cheatnotes =
+'''Sir Claudas D'Agrodolce:'''
+*{{Icon|Damage}} ''"We are in this together, yes? Give me your health!"'' - Upon being hit, Sir Claudas D'Agrodolce will use {{Link|Spell|Steal Health}} on Brulee Sucre (Tier 5).
+*{{Icon|Blade}} ''"I'll give a little to sharpen my blade!"'' - Every 3 Rounds, Sir Claudas D'Agrodolce will cast Dark Tribute.
+
+'''Brulee Sucre:'''
+*{{Icon|Absorb}} ''"Hiss! I encase myself in armor!"'' - Upon being hit, Brulee Sucre casts {{Link|Spell|Spirit Armor}}.
+*{{Icon|Charm}} ''"My wyrm sight will guide you!"'' - Every 3 Rounds, Brulee Sucre will cast {{Link|Spell|Guidance}}.
+*{{Icon|Blade}} ''"Give me whatever you've got, I'll return it in kind!"'' - When a blade is used Sir Claudas D'Agrodolce will cast Berserk. 
+
+| spellnotes =
+
+| casts =
+Berserk;
+Virulence;
+Deathspear;
+Virulent Plague;
+Steal Health;
+Deathblade;
+Dark Tribute;
+Curse;
+Empower;
+Age of Reckoning;
+Deer Knight;
+Poison;
+Skeletal Dragon;
+Avenging Fossil;
+
+| quests =
+Hedging Bets;
+
+| gold =
+63 - 74;
+
+| hats =
+Mask of the Faerie Court (Level 100+)*CR*F3*WMV;
+Pixie's Mask of Encanta (Level 100+)*CR*F2*WMV;
+World's Fool Mask (Level 100+)*CR*F3*WMV;
+
+| robes =
+Faerie Court Steel Leaf (Level 100+)*CR;
+Pixie's Armor of Encanta (Level 100+)*CR;
+World's Fool Armor (Level 100+)*CR;
+
+| boots =
+Faerie Court Boots (Level 100+)*CR*F4*WMV;
+Pixie's Enchanted Boots (Level 90+)*CR;
+Pixie's Enchanted Boots (Level 100+)*CR*F3*WMV;
+World's Fool Boots (Level 100+)*CR*F2*WMV;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Levee Breaking Lute (Level 100+)*CR;
+Mandolin of Evermore (Level 100+)*CR;
+Misty Mountain Mandolin (Level 100+)*CR;
+
+| decks =
+
+| items =
+Ceara Ashbury Bobblehead;
+Crystal Ball;
+Grandfather Clock*F3*WMV;
+Great Spiral Glyph;
+King Artorius Bobblehead;
+Lady's Favor;
+Large Willow Tree*F2*WMV;
+Lectern;
+Sir Pike Del Lago Bobblehead*F2*WMV;
+Spiral Shield*F2*WMV;
+
+| cards =
+Basilisk*F4*WMV;
+Chimera*F6*WMV;
+Dark Sprite*F6*WMV;
+Dryad*F7*WMV;
+Efreet;
+Fire Dragon*F3*WMV;
+Fire Elf*F3*WMV;
+Frost Giant*F3*WMV;
+
+| reagents =
+Acorn*F7*WMV;
+Aether*F5*WMV;
+Aquamarine*F10*WMV;
+Brass*F2*WMV;
+Bronze;
+Cobalt*F3*WMV;
+Fire Blossom*F7*WMV;
+Grendelweed*F7*WMV;
+Spring*F2*WMV;
+Steel*F2*WMV;
+
+| spellements =
+
+| snacks =
+Asparagus Spears*F7*WMV;
+Bearberry*F4*WMV;
+Black Cap Crisps*F3*WMV;
+Bog Witch Beetroot*F2*WMV;
+Caliburnt Toast*F5*WMV;
+Chocolate Comet*F2*WMV;
+Crab Knight Cakes*F3*WMV;
+Crystal Custard*F2*WMV;
+Deepwater Toffee*F5*WMV;
+High Road Haggis*F4*WMV;
+Lemon Harts*F4*WMV;
+Muscle Sprouts*F2*WMV;
+Ogre Meanies*F5*WMV;
+Pixie Parsnips*F9*WMV;
+Pomegranite*F7*WMV;
+Seraph Food Cake*F3*WMV;
+Shepherd's Crook Pie*F4*WMV;
+Toad in the Hole*F2*WMV;
+Weirwood Cake*F4*WMV;
+Wyrmy Apple*F4*WMV;
+
+| jewels =
+Accurate Talent Opal;
+Clear Critical Amethyst +10;
+Clear Critical Peridot +10*F2*WMV;
+Clear Damage Ruby +19;
+Dimension Shift Peridot;
+Enfeeble Amethyst;
+Giant Talent Opal;
+Mass Infection Onyx;
+Mass Triage Jade;
+Monstrous Talent Opal;
+Spirit Trap Citrine (Triangle);
+
+| pins =
+
+| pets =
+Black Spider;
+Blaze Beast*CR*F2*WMV;
+Blue Ghost;
+Forest Beast*CR;
+Mythic Beast*CR;
+Shadow Beast*CR*F3*WMV;
+Snow Beast*CR;
+Spark Beast*CR;
+
+| seeds =
+Cornbread Fruit Bush*F7*WMV;
+Helephant Ears*F6*WMV;
+Red Bell Pepper*F6*WMV;
+Rye Bread Fruit Bush*F6*WMV;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,324 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 3,500
+| crecla = Golem
+| school = Fire
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Chief Whip;
+
+| world = Marleybone
+| location = Barkingham Palace
+| subloc1 = Main Hall
+| descrip =
+The Noxious Gas Golem is the final Boss in the Main Hall of Barkingham Palace.  This Creature is responsible for beguiling the Chief Whip and the rest of the Barkingham yeomen, and must be stopped to save the [[NPC:Queen Vicorgia|Queen]].  Two additional {{Link|Creature|Gas Elemental}}s appear if there are more than two Wizards present.
+
+| speech =
+:'''Chief Whip:''' ''"You're too late, Wizard! Doctor Jackall has kidnapped the Queen, and you'll never catch them before they reach the Royal Airship."''
+:'''Noxious Gas Golem:''' ''"I have been instructed to Mesmerize you, Wizard.  Prepare to be Mesmerized.  Mesmerizing commencing in 3-2-1."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Marleybone
+| tome description =
+Emits a hypnotic aerosol compound to gaslight its foes... whether it wants to or not. It's rather irregular like that.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Round}} ''"Alert: Noxious Gas Release Imminent"'' - At the beginning of the second Round, two Gas Elementals will join the duel, and will become active during the third Round.
+*{{Icon|Round}}{{Icon|Minion}}{{Icon|Health}} ''"Initiate: Support Maintenance"'' - At the beginning of the Round after one of the Gas Elementals reaches 50% Health or lower, the Noxious Gas Golem will interrupt-cast {{Link|Spell|Take Power}} on each of the Gas Elementals individually.  Two Rounds after the Elementals are sacrificed, additional Elementals will join the duel, and become active on the third Round after this cheat occurs.  This cheat will repeat endlessly until the Noxious Gas Golem is defeated.
+**If the Chief Whip is defeated before the Noxious Gas Golem, then a third Gas Elemental can join the duel when the Elementals are recycled.
+**If Wizards flee and then return to this area so that Gas Elementals are present from the beginning of the Duel, then Gas Elementals will not be recycled once defeated.
+*{{Icon|Round}} ''"Initiate: Defensive Screen"'' - At the beginning of every fourth Round, the Noxious Gas Golem will interrupt-cast {{Link|Spell|Smoke Screen (-45%)}}.<br/>
+
+'''Chief Whip'''
+*{{Icon|Damage}} ''"Chip up!"'' - Whenever a Wizard casts a [[:Category:Damage Spells|Damage Spell]], there is a chance that the Chief Whip will interrupt-cast Spirit Armor on the target of the attack. 
+**If a multi-target Damage Spell triggers this cheat, then the {{Link|Spell|Spirit Armor}} will be cast on whoever is in the first spot.
+**"Hold the line!" - Chief Whip can interrupt-cast Rebirth and revive fallen companions.
+*{{Icon|Heal}} ''"I'll catch you up!"'' - If a Wizard casts a [[:Category:Healing Spells|Healing]] Spell, then the Chief Whip will interrupt-cast {{Link|Spell|Entangle}} on the Wizard.
+**Pet Spells will trigger this cheat.
+
+| spellnotes =
+
+| casts =
+Glacial Shield;
+Smoke Screen (-45%);
+Fireblade;
+Fire Trap;
+Fuel;
+Wyldfire;
+Brimstone Revenant;
+Natural Attack (Fire 120-235-350);
+Meteor Strike;
+Scald;
+Phoenix;
+Magma Man;
+
+| quests =
+The Dog with the Twisted Lip;
+
+| gold =
+183 - 570;
+
+| hats =
+Barkingham Bombin of Brio*F3*WMV;
+Barkingham Derby of Cinders*F3*WMV;
+Barkingham Derby of Repose*F3*WMV;
+Barkingham Fog Bowler*F3*WMV;
+Barkingham Frost Cover*F2;
+Royal Cap of Alliance;
+Topper of Royal Wit*F2*WMV;
+
+| robes =
+Barkingham Cinder Smock*F2;
+Barkingham Fog Coat*F4*WMV;
+Barkingham Frostbreaker*F3*WMV;
+Barkingham Robe of Repose*F3*WMV;
+Outfit of the Forlorn Watch;
+Palace Guard's Firebreaker;
+Palace Guard's Rain Gear*F2*WMV;
+Royal Coat of Alliance;
+Royal Coat of Wit*F3*WMV;
+Yeoman's Cloak of Reverie;
+Yeoman's Robe of Bounty;
+Yeoman's Vestment of Unity;
+
+| boots =
+Barkingham Boots of Brio*F4*WMV;
+Barkingham Cinder Shoes*F2*WMV;
+Barkingham Clogs of Repose*F2;
+Barkingham Fog Walkers*F3*WMV;
+Barkingham Frost Striders*F2*WMV;
+Barkingham Shoes of Wit*F2*WMV;
+Royal Boots of Alliance*F2*WMV;
+
+| athames =
+Barkingham Blade of Blight;
+Barkingham Claw of Insight*F3*WMV;
+Barkingham Dagger of Nerve*F2;
+Barkingham Dirk of Thunder;
+Barkingham Firepoker*F2*WMV;
+Barkingham Knife of Floods*F3*WMV;
+Barkingham Palace Icepick;
+Barkingham Steel Splinter*F3*WMV;
+Claw of the Vicious Hound;
+Royal Athame of Duality;
+Royal Bodkin of Awareness;
+Royal Cutlass of Efficacy;
+Royal Dagger of Allegiance;
+Royal Point of No Return;
+Yeoman's Athame of Decay;
+Yeoman's Dagger of Sparks;
+
+| amulets =
+Barkingham Hearthfire Relic;
+Crown Jewel Necklace;
+Empire's Torc of Calamity;
+Enfield Trickster's Ampul;
+Grenadier's Vial of Tumult;
+Hound's Choker of Squalls*F2*WMV;
+Lanyon Scratcher's Bauble;
+Locket of the Opera Nova;
+Mycroft's Medallion;
+Ornament of Mesmerization;
+Sherlock's Lens of Hegemony;
+Torc of the Woman;
+Vial of the Palace Menace;
+Watson's Amulet of Purpose;
+
+| rings =
+Antique Barkingham Ring*F2*WMV;
+Band of Royal Infallibility;
+Duke's Rosy Signet;
+Enfield Circle of Trickery;
+Fallen Palace Guard's Ring;
+Mr. Hound's Ferocious Loop*F2;
+Official Seal of Barkingham;
+Warder's Band of Recovery*F2;
+
+| wands =
+Barkingham's Mace of Sleet;
+Dread Mace of Barkingham;
+Mace of Noble Conquest;
+Regent's Baton of Ethos;
+Scepter of Royal Triumph*F2*WMV;
+Wand of the Royal Paragon*F2*WMV;
+
+| decks =
+Arcana of Noble Praxis;
+Barkingham Case of Splendor;
+Barkingham Pack of Malaise*F3;
+Deck of The Ferocious Hound (Square)*F2;
+Deck of The Ferocious Hound (Tear);
+Deck of the Ferocious Hound (Triangle)*F2;
+Deck of the Roiling Court*F3*WMV;
+Her Majesty's Regal Array;
+Jackall's Mystifying Cards (Square);
+Jackall's Mystifying Cards (Tear);
+Jackall's Mystifying Cards (Triangle);
+Queen's Case of Resilience (Square)*F4*WMV;
+Queen's Case of Resilience (Tear);
+Queen's Case of Resilience (Triangle)*F2;
+Regal Gallery of Dignity (Square);
+Regal Gallery of Dignity (Tear);
+Regal Gallery of Dignity (Triangle);
+Set of the Thriving Monarch*F2*WMV;
+Sherlock's Brilliant Hand (Square);
+Sherlock's Brilliant Hand (Tear);
+Sherlock's Brilliant Hand (Triangle);
+Trickster's Pack of Lies (Square);
+Trickster's Pack of Lies (Tear);
+Trickster's Pack of Lies (Triangle);
+Watson's Cold Case (Square);
+Watson's Cold Case (Tear);
+Watson's Cold Case (Triangle);
+
+| items =
+Wooden Skeleton Key*CR*F3*WMV;
+
+| cards =
+Balefrost;
+Black Mantle*F5*WMV;
+Bladestorm*F4*WMV;
+Blizzard*F5*WMV;
+Cat Thug*F5*WMV;
+Cleanse Ward*F3;
+Clockwork*F4*WMV;
+Clockwork Spider*F8*WMV;
+Curse*F2*WMV;
+Deadly Scratcher*F3*WMV;
+Donate Power*F4*WMV;
+Dragonflies;
+Dryad*F3*WMV;
+Empower*F5*WMV;
+Feint*F9*WMV;
+Guidance*F3*WMV;
+Hex*F3*WMV;
+Ice Armor*F5*WMV;
+Iron Golem*F2*WMV;
+Minotaur*F5*WMV;
+Phoenix*F2*WMV;
+Pierce*F2*WMV;
+Plague*F3*WMV;
+Regenerate*F3*WMV;
+Satyr*F2*WMV;
+Seraph*F3*WMV;
+Smoke Screen*F5*WMV;
+Spectral Blast*F3*WMV;
+Spirit Armor*F6*WMV;
+Stormzilla*F4*WMV;
+Street Sweeper*F4*WMV;
+Tower Shield*F10*WMV;
+Triage*F3*WMV;
+
+| reagents =
+Bone*F26*WMV;
+Copper*F3*WMV;
+Ectoplasm*F24*WMV;
+Iron*F2;
+Lead*F2;
+Leather Straps*F24*WMV;
+Nickel*F4*WMV;
+Pyrite;
+Spider Silk*F20*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F2;
+Cauliflowers*F4*WMV;
+Delicious Cookie*F2*WMV;
+Dr. Jalapeno*F4*WMV;
+Flaming Soup*F2;
+Flapjacks;
+Glowing Star Fruit*F3*WMV;
+Glowing Taffy*F4;
+Goat Cheese*F3*WMV;
+Golden Grapes*F2*WMV;
+Gummy Humongofrog*F4*WMV;
+Jelly Baby*F4*WMV;
+King Banana*F2*WMV;
+Kola Nuts*F3*WMV;
+Salmonberry*F3*WMV;
+Shiny Tomato*F2*WMV;
+Spicy Drumstick*F3*WMV;
+Strawberry Cupcake*F3*WMV;
+Submarine Sandwich*F3*WMV;
+Uni-Corn*F2*WMV;
+
+| jewels =
+Banshee Onyx*F3*WMV;
+Chipped Damage Jade +7;
+Chipped Defense Opal +7;
+Chipped Defense Opal +8;
+Chipped Defense Sapphire +14;
+Chipped Mana Opal +9*F2*WMV;
+Chipped PIP Opal +2%;
+Cyclops Peridot;
+Flawed Accurate Opal +2%;
+Flawed Damage Opal +5;
+Flawed Healing Opal +2%;
+Locust Swarm Citrine;
+Oil Slick Opal;
+Siphon Opal;
+Sprite Jade;
+Storm Shark Amethyst;
+Sunbird Ruby;
+Ultra Energy Opal;
+
+| pins = 
+
+| pets =
+Black Spider;
+Blue Ghost;
+Clockwork Paladin*F4*WMV;
+Crabling*CR;
+Red Ghost*F3*WMV;
+Seraph*CR;
+
+| seeds =
+Deadly Fly Trap;
+Fiery Boom Shroom;
+Maelstrom Snap Dragon;
+Ninja Fig*CR;
+Orange Dandelion;
+Pink Laugh-O-Dil;
+White Laugh-O-Dil*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,172 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 2,710
+| crecla = Demon
+| crecla2 = Elephant
+| crecla3 = Undead
+| school = Balance
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+10% Fire, Ice, Storm;
+
+| incresist =
+60% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Kembaalung Village
+| subloc1 = Hollow Mountain
+| descrip =
+
+| speech =
+:''"Spirit, Mind, and Body must be in tune and in proper syncopation for Harmony to be attained. You have failed the test. Prepare to fight!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+The Temple Guardian would like a vacation from this Temple.
+
+| extract class =
+Elephant;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Weakness;
+Balanceblade;
+Hex;
+Stun;
+Locust Swarm;
+Natural Attack (Balance 110-215-320);
+Spirit Blast;
+Spectral Blast;
+
+| quests =
+
+| gold =
+50 - 60;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Asura's Steel of Malcontent;
+Hoof's Bewildering Dagger*F2*WMV;
+Kris of the Calamitous Hoof*F2*WMV;
+Monk's Steel of Combustion;
+Monk's Thorn of Fortitude*F3;
+Pagoda of Harmony Razor;
+
+| amulets =
+Path of Harmony Amulet;
+
+| rings =
+Band of Harmony;
+
+| wands =
+Fingers of Fire Dramyin*F3;
+Himoolayan Harmony Maker;
+Himoolayan Lute of Snowfall;
+Lute of the Hale & Hearty*F3;
+Monk's Instrument of Death;
+Song of Shangri-Baa;
+
+| decks =
+
+| items =
+Wooden Skeleton Key*CR;
+
+| cards =
+Monk of Mourning*F7*WMV;
+
+| reagents =
+Bone*F6*WMV;
+Brass;
+Cobalt;
+Copper*F3;
+Diamond;
+Ectoplasm*F10*WMV;
+Leather Straps*F8*WMV;
+Nickel*F2*WMV;
+Ore;
+Spider Silk*F7*WMV;
+Stone Block;
+Tin;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F4*WMV;
+Crunch Apple*F3*WMV;
+Eggplant*F6*WMV;
+Fire Cracker*F4;
+Fire Passion Fruit*F5*WMV;
+Goat Cheese;
+Golden Peanut*F2;
+Golden Squash*F4*WMV;
+Large Fish*F2*WMV;
+Large Watermelon*F2*WMV;
+MooShu Cheddar*F9*WMV;
+Square Root*F3*WMV;
+
+| jewels =
+Blemished Damage Jade +11;
+Blemished Damage Onyx +11;
+Blemished Damage Peridot +11;
+Blemished Damage Ruby +11;
+Blemished Defense Citrine +21;
+Blemished Defense Opal +11;
+Blemished Health Opal +40;
+Death-Boon Onyx;
+Drain Opal;
+Intrepid Opal;
+Move It! Opal;
+Power Play Citrine;
+Quick Learner Opal;
+Seraph Jade;
+Silence Opal;
+
+| pins =
+
+| pets =
+Cloud Colossus;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

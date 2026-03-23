@@ -1,0 +1,182 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,440
+| crecla = Spider
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Karanahn Harbinger;
+Karanahn Keeper;
+
+| world = Krokotopia
+| location = Tomb of the Beguiler
+| descrip =
+Serket is the favored Pet of {{Link|Creature|Ngozi the Beguiler}}.
+
+| speech =
+:'''Narrator:''' ''"You hear the blood curdling noise of a giant spider growing in the distance."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+The pet of Ngozi the Beguiler. It's actually pretty lucky. Most Kroks flush their pet spiders down the drain.
+
+| extract class =
+Spider;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Spirit Armor;
+Death Shield;
+Lifeblade;
+Life Trap;
+Imp;
+Leprechaun;
+Nature's Wrath;
+Seraph;
+Cyclops;
+Storm Shark;
+Sandstorm;
+
+| quests =
+In the Doghouse;
+
+| gold =
+31 - 47;
+
+| hats =
+Bitter Cap*F2*WMV;
+Cowl of the Fortress;
+Destructive Cowl;
+Diviner's Hat of Squalls;
+Sphinx's Circlet*F2;
+Stout Hood;
+Sturdy Hood;
+Theurge's Hat;
+Threadbare Hood;
+
+| robes =
+Dusty Robe;
+Powerful Vestment;
+Robe of the Mirage;
+Rugged Robe;
+Runed Vestment;
+Sturdy Robe*F3*WMV;
+Theurge's Brown Cloak*F2;
+Vest of the Desert;
+Vest of the Oasis;
+Vestment of Ignition*F2;
+
+| boots =
+Biti Nirini's Torrid Boots;
+Boots of Talent;
+Boots of the Bastion;
+Boots of the Citadel;
+Boots of the Whirlwind*F2;
+Flowering Shoes;
+Powerful Boots;
+Sandals of Energy;
+Sandals of Refuge;
+Sandals of Tall Tales;
+Shoes of the Desert*F2*WMV;
+
+| athames =
+Dirk of Harmony;
+Dirk of the Wasteland;
+Whirlwind Dagger;
+
+| amulets =
+
+| rings =
+Band of Equilibrium;
+Band of the Skies;
+Jewel of Obliteration;
+Loop of Quietude;
+
+| wands =
+
+| decks =
+
+| items =
+Krok Moon Plaque;
+Potted Palm;
+Raised Storm Sarcophagus;
+Tall Palm Tree*CR;
+Wrapped Long Bench;
+
+| cards =
+Evil Snowman;
+Giant;
+Spirit Armor;
+
+| reagents =
+Bronze Gear*F2*WMV;
+Iron;
+Nickel;
+Spider Silk*F3*WMV;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Cracker*F2*WMV;
+Green Grapes*F4*WMV;
+Nettle Root*F2*WMV;
+Redskin Peanut;
+Stinky Cheese;
+Tiny Fish*F4*WMV;
+Wheat Cracker;
+
+| jewels =
+Chipped Accurate Amethyst +3%;
+Chipped Defense Onyx +13*F2;
+Cracked Damage Peridot +5;
+Cracked Defense Opal +5;
+Fire-Boon Ruby;
+Quick-Witted Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Pink Dandelion*CR*F3;
+
+| mounts =
+
+| spells =
+
+}}

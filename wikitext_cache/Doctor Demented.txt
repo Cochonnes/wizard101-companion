@@ -1,0 +1,254 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 8,720
+| crecla = 
+| school = Fire
+| school2 = Death
+| shadowslots = 2
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+25%;
+
+| outboost =
+120%;
+
+| incboost =
+5% Ice, Life;
+
+| incresist =
+70% Fire, Death;
+
+| outhealing =
+45%;
+
+| inchealing =
+50%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Fear of Being Surpassed;
+Fear of the Future;
+Fear of Gremlins;
+
+| world = Empyrea
+| location = Southwest Aero Plains
+| subloc1 = Dark Cloud Base
+| descrip =
+If all Wizards are defeated and return to battle, Doctor Demented spawns with only the Fear of Gremlins Minion present, if all of the other Minions were previously defeated.
+
+| speech =
+:''"Well, well, it seems the little Piggle has escaped his pen. How delightful. And the Wizard, ah, we knew you would come. But you are, alas, too late. Yes, the Admiral's grand scheme. I do hope it's working for him. Truth be told, I just wanted this chance to study the Myth and Storm Chain. Raw creativity entwined with the chaos of destruction, what marvelous horrors it can make. Now I wonder, Captain Pork, what are your fears?"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Time burns away all things, especially when you are late!"'' - If a Wizard joins the duel after the second Round, then Doctor Demented will interrupt-cast Burning Rampage on the Wizard.
+*{{Icon|Aura}} ''"Your fears protect me!" - ''At the beginning of Round 1, she will cheat-cast a permanent version of {{Link|Spell|Fortify}} that resists '''-60%''', and it will increase by '''20%''' for each additional Wizard in the duel for up to a maximum of '''-120%'''.
+**The Aura cannot be removed.
+**''"Fear still remains"'' - If a Wizard joins or flees the duel after it has already begun, she will update her aura accordingly. This also occurs if a Minion is Beguiled with 3 or less Wizards in the duel, treating the Minion as an additional Wizard. 
+***The aura will reset back to its original percentage after the Beguile effect ends.
+*{{Icon|Afterlife}} ''"You have overcome your fears!? No! Never!"'' - The turn after all Minions are defeated, she will cheat-cast Frenzy and immediately after cast {{Link|Spell|Supernova}} on herself. 
+**Universal Traps can amplify the damage of the Supernova.
+*{{Icon|Manipulation}} ''"Aren't we all having a BLAST!?"'' - Boss will cheat-cast {{Link|Spell|Incindiate}}.
+
+| spellnotes =
+*Casts an Aegis-protected Bladestorm.
+*Casts a Mass Fuel.
+*Casts a protected Feint (All Enemies).
+*Casts a version of Poison (45+450) that attacks all enemies.
+'''Natural Attack:'''
+*Deals 420 Death Damage for 4 Pips maximum.
+
+| casts =
+Frenzy;
+Smoke Screen;
+Virulent Plague;
+Bladestorm;
+Fuel;
+Feint (All Enemies);
+Double Steal Charm;
+Natural Attack (Fire 120-240-360, 75%);
+Burning Rampage;
+Scorching Scimitars;
+Scald;
+Fire Dragon;
+Rain of Fire;
+Heck Hound;
+Natural Attack (Death 105-210-315, 80%);
+Poison (45+450);
+Call of Khrulhu;
+
+| quests =
+Where the Blue-ffalo Roam...;
+...And the Skies Are Dark Cloudy All Day;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge and has not unlocked the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge, the following drops will be available:
+*9 Spellements will drop each time from '''any''' School for their respective rank 10, 11, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+337 - 476;
+
+| hats =
+
+| robes =
+
+| boots =
+Choice Kalamar Kicks;
+
+| athames =
+Bodacious Kalamar Knife;
+Choice Kalamar Knife;
+Gnarly Kalamar Knife;
+Rad Kalamar Knife;
+
+| amulets =
+
+| rings =
+Bodacious Kalamar Ring*F2*WMV;
+Chill Kalamar Ring*F4;
+Choice Kalamar Ring*F2;
+Gnarly Kalamar Ring;
+Mondo Kalamar Ring*F2;
+Rad Kalamar Ring;
+Righteous Kalamar Ring;
+
+| wands =
+
+| decks =
+Heavy Kalamar Deck;
+Rad Kalamar Deck*F3;
+Righteous Kalamar Deck;
+
+| items =
+Empyrea Aero Plains Combat;
+
+| cards =
+Doom and Gloom;
+Elemental Shield;
+Elemental Spear*F3*WMV;
+Elemental Trap;
+Fire Prism;
+Icespear*F2;
+Life Prism;
+Lifespear;
+Mass Death Prism;
+Mass Fire Prism;
+Mass Ice Prism;
+Mass Life Prism;
+Mass Myth Prism;
+Mass Triage*F3;
+Myth Prism*F2;
+Mythspear;
+Sanctuary;
+Spirit Spear;
+Storm Prism*F3;
+
+| reagents =
+Agave Leaves*F2;
+Amber Dust*F2;
+Ancient Scroll*F4*WMV;
+Antique Coins*F2;
+Aquamarine*F2;
+Astral Shard*F2;
+Black Pearl;
+Blood Moss*F3;
+Brass*F4*WMV;
+Bronze Gear;
+Cobalt*F6;
+Ectoplasm*F4;
+Fish Fin*F7*WMV;
+Glass Sliver;
+Mithril*F7;
+Nickel*F2;
+Scales*F5*WMV;
+Silver*F5*WMV;
+Spider Silk*F4;
+Spring;
+Stardust;
+Steel*F6;
+Sunstone*F6*WMV;
+Tin;
+Tungsten*F5;
+
+| spellements =
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Lamassu*BR;
+Qismah's Curse*BR;
+Scion of Death*BR;
+Scion of Ice*BR;
+Scion of Myth*BR;
+Witch's House Call*BR;
+
+| snacks =
+BBQ Drumstick;
+Beast Wellington*F2;
+Discord Grape Jelly*F6*WMV;
+Dragon Fruit;
+Drumstick;
+Eye Candy*F2;
+Fire Passion Fruit;
+Glowing Taffy*F4;
+Green Tomato;
+Hot Cross Buns*F10;
+Pizza*F5;
+Rhubarbed Wire;
+Rock and Roll Candy*F8*WMV;
+Roly Poly Fishheads;
+Satyr Chow*F3*WMV;
+Ships 'n' Queso;
+Sprinkle Cupcake*F3;
+Squash;
+Tasty Rainbow;
+Waterworks Wonton;
+Wheat Cracker*F2;
+
+| jewels =
+Lustrous PIP Opal +10%;
+Shiny Accurate Onyx +12%;
+Shiny Blocking Amethyst +15;
+Shiny Critical Amethyst +15;
+Shiny Critical Citrine +15;
+Shiny Damage Amethyst +25;
+Shiny Damage Jade +25*F2;
+Shiny Damage Ruby +25;
+Shiny Defense Amethyst +50;
+Shiny Defense Peridot +50;
+Shiny Defense Ruby +50;
+Shiny Defense Sapphire +50;
+Shiny Health Opal +107;
+Shiny Mana Opal +45;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears;
+Burning Snap Dragon;
+Evil Snow Peas;
+Honey Sickle;
+Maltese Tiger Lily;
+Red Couch Potatoes;
+Queen Crape Myrtle;
+Venus Fly Trap;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

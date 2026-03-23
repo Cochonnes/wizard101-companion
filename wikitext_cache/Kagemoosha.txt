@@ -1,0 +1,225 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,560
+| crecla = Pig
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Kakeda Spirit Slave
+
+| world = MooShu
+| location = Tree of Life
+| descrip =
+Kagemoosha is confronted in the Tree of Life's Spirit World. He reincarnates into the {{Link|Creature|Death Oni}} after being defeated.
+*Two additional Kakeda Spirit Slave Minions appear if more than two Wizards are present.
+
+| speech =
+:''"I see through all. You are but a child, full of fear. Here in the Spirit World, your paltry magic has no power!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+Living in the spirit world, Kagemoosha forgets to be courteous to new guests.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Weakness;
+Black Mantle;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Banshee;
+Vampire;
+Skeletal Pirate;
+Scarecrow;
+Natural Attack (Death 85x);
+Fire Elf (50+210);
+Lightning Bats;
+Ice Wyvern;
+
+| quests =
+Seed of Death;
+Tree of Life;
+
+| gold =
+71 - 109;
+
+| hats =
+Cap of Consideration*F2;
+Cap of Song;
+Cap of the Verse;
+Cowl of Cooperation;
+Cowl of Tact;
+Engrossed Hat;
+Hat of Discontent;
+Hat of Niceties;
+Headwraps of Generations;
+Kagemoosha's Cowl;
+Kagemoosha's Shroud*F2*WMV;
+Nunu's Mask of the Twisted;
+Problematic Headwraps;
+Shroud of Conceit;
+Shroud of Music;
+Shroud of the Opus;
+Stressed Mask;
+
+| robes =
+Cloak of Charity;
+Cloak of Concentration*F3*WMV;
+Dashing Cloak;
+Ecstatic Garments;
+Garment of Dilemma;
+Indulgent Vestment*F3*WMV;
+Industrial Uniform;
+Kagemoosha's Robe*F3*WMV;
+Lyrical Garments*F2;
+Painful Vestment;
+Quick-Witted Vestment;
+Robe of the Verse*F2*WMV;
+Tormented Cloak*F3*WMV;
+Tunic of Impression*F3*WMV;
+Vestment of Arias;
+Vestment of Dreaming*F4*WMV;
+Vestment of Hymns;
+Vestment of the Eager*F2*WMV;
+
+| boots =
+Engrossed Shoes;
+Footwraps of Predicament;
+Haskarr's Barbarish Boots;
+Indulgent Boots*F3*WMV;
+Kagemoosha's Boots;
+Kagemoosha's Sandals*F2;
+Lyrical Footwraps*F3;
+Proficient Shoes;
+Sandals of the Determined*F2*WMV;
+Sandals of the Universe;
+Shoes of Hinderance;
+Shoes of Scruples;
+Vigilant Sandals;
+
+| athames =
+Dream Tanto of Ages*F3*WMV;
+
+| amulets =
+
+| rings =
+Ring of Regard;
+
+| wands =
+Kagemoosha's Citrine Blade*F2*WMV;
+
+| decks =
+Deck of the Lotus;
+
+| items =
+Bell Pagoda*F2*WMV;
+Frost Obelisk;
+Gold Tori Gates*F2*WMV;
+MooShu Battle Theme;
+MooShu Mystical Theme;
+MooShu War Theme;
+Silver Lantern;
+Solar Obelisk;
+Statue of Hyottoko;
+Wooden Skeleton Key*CR*F4*WMV;
+
+| cards =
+Accurate;
+Black Mantle;
+Monstrous*F2*WMV;
+Ninja Pigs*F2;
+Pest Zapper*F2;
+Satyr;
+Wyldfire;
+
+| reagents =
+Bone*F3*WMV;
+Brass*F2;
+Cobalt;
+Copper*F2;
+Lead;
+Spider Silk*F5*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F2*WMV;
+Crunch Apple*F3*WMV;
+Fire Cracker;
+Golden Peanut*F2*WMV;
+Golden Squash;
+Large Fish;
+Large Watermelon*F2*WMV;
+Square Root*F2*WMV;
+
+| jewels =
+Add Health Opal;
+Balance-It Citrine;
+Blemished Damage Amethyst +11;
+Blemished Damage Onyx +11;
+Blemished Damage Sapphire +11;
+Blemished Health Opal +40;
+Death-Shot Onyx;
+Determined Opal;
+Exhaust Opal;
+Flawed Defense Amethyst +18;
+Flawed Defense Sapphire +18;
+Ice Wyvern Sapphire;
+Ice-Shot Sapphire;
+Kraken Amethyst;
+Life-Proof Jade;
+Meteor Strike Ruby;
+Storm-Eye Amethyst;
+
+| pins =
+
+| pets =
+Deathbat*F2*WMV;
+
+| seeds =
+Deadly Ninja Fig;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

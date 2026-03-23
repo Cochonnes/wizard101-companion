@@ -1,0 +1,136 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 7,000
+| crecla = Lion
+| school = Fire
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Fire Lion Ravager;
+
+| world = Zafaria
+| location = Savannah
+| subloc1 = Wakanda Blightspear's Cave
+| descrip =
+*Sorcerers must defeat Wakanda Blightspear to obtain their Level 78 Balance Pet, {{Link|Pet|Chimera}}.
+*This Boss is not repeatable.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Infallible;
+Fireblade;
+Fire Shark;
+Meteor Strike;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+
+| quests =
+It!;
+
+| gold =
+78 - 90;
+
+| hats =
+Champion of Order's Icy Helm;
+Mask of the Catalan;
+
+| robes =
+Fire-Spitter Robes*F2;
+Winter Wyrm's Cloak;
+
+| boots =
+Noble Knight's Boots;
+
+| athames =
+Wild Tangle Blade;
+
+| amulets =
+Armiger's Bravura Necklace;
+Wise Wood Amulet;
+
+| rings =
+Lady of the Lake's Signet;
+
+| wands =
+Bow of the Wildgrave;
+Truesight Bow;
+
+| decks =
+Tanglewood Cards*F4*WMV;
+
+| items =
+Avalon Haunting Theme;
+Avalon Tense Theme;
+
+| cards =
+Choke*F2;
+Forest Lord;
+Fuel;
+Handsome Fomori;
+Immolate;
+Medusa;
+Power Link*F4*WMV;
+Power Nova;
+Scald;
+Steal Charm;
+
+| reagents =
+Black Lotus*F2*WMV;
+Bronze Gear*F2;
+Cat Tail;
+Cobalt;
+Deep Mushroom;
+Frost Flower*F2;
+Ore;
+Pearl;
+Red Mandrake*F2;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Glowing Star Fruit;
+Green Grapes;
+Jelly Baby;
+Nettle Root;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Orange Bell Pepper*CR;
+Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

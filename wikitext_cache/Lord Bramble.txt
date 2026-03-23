@@ -1,0 +1,249 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,080
+| crecla = Plant
+| crecla2 = Treant
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Green Man;
+
+| world = Wysteria
+| location = Tanglewood Way
+| subloc1 = Lord Bramble's Tower
+| descrip =
+Lord Bramble is the culprit behind the theft of the Spiral Cup. He enthralled Chester Droors to frame the Wizard and wishes to return Wysteria to the overgrown state it once was.
+*Two additional Green Men will appear if more than two Wizards are present.
+
+| speech =
+:''"I knew that Droors was weak, and would fail me... but I did not expect him to fall to a mere child! Come and face your doom!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wysteria
+| tome description =
+Believes very firmly that Wysteria should go green. Literally green. Whether it wants to or not.
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Sprite;
+Lifeblade;
+Life Trap;
+Imp;
+Leprechaun;
+Nature's Wrath;
+Seraph;
+Natural Attack (Life 85x);
+Evil Snowman;
+Sunbird;
+Storm Shark;
+
+| quests =
+Bramble On;
+
+| gold =
+19 - 39;
+
+| hats =
+Affable Cowl;
+Cap of Expertise*F2*WMV;
+Cap of the Kraken*F2*WMV;
+Conventional Cap*F2*WMV;
+Cowl of Diplomacy;
+Cowl of the Exceptional;
+Delicate Hat;
+Elegant Helm*F2*WMV;
+Exquisite Cowl;
+Hat of Equation*F2*WMV;
+Headwrap of Incineration;
+Helm of Horrors*F5*WMV;
+Helm of Intolerance*F2*WMV;
+Obligatory Shroud;
+Remarkable Cowl;
+Savvy Cap;
+Shroud of Paramount;
+Smooth Spun Hat*F2*WMV;
+
+| robes =
+Animated Canine Cloak*F3*WMV;
+Distressing Garment;
+Doctor's Uniform;
+Finely Finished Cloak*F2*WMV;
+Frosty Vestment*F3*WMV;
+Icy Tunic;
+Masterful Canine Cloak*F2*WMV;
+Mechanical Tunic*F3*WMV;
+Robe of Extinction*F3*WMV;
+Robe of Politeness*F2*WMV;
+Robe of the Unicorn*F3*WMV;
+Skillful Cloak*F2;
+
+| boots =
+Bandit's Footwraps*F2*WMV;
+Cat Burglar's Shoes;
+Flickering Boots;
+Flowering Canine Shoes*F2*WMV;
+Footwraps of Dreamland;
+Frozen Canine Shoes*F3*WMV;
+Graceful Slippers*F2*WMV;
+Pompous Footwraps*F2*WMV;
+Sandals of Civility*F2*WMV;
+Shoes of Anxiety;
+Shoes of the Breakneck*F2*WMV;
+Slippers of Definition*F2*WMV;
+
+| athames =
+Athame of Chivalry*F2*WMV;
+Conventional Dagger*F2*WMV;
+Graceful Stiletto;
+Librarian's Stylet*F2*WMV;
+Vernal Shears*F2*WMV;
+
+| amulets =
+
+| rings =
+Ring of Rejuvenation*F3*WMV;
+Tournament Ring;
+Watchman's Decoder Ring*F5*WMV;
+Wysteria Stone*F2*WMV;
+
+| wands =
+Staff of Rejuvenation*F4*WMV;
+
+| decks =
+Deck of the Cyclops*F2;
+Enigmatic Deck*F3*WMV;
+
+| items =
+Wysteria Main Theme*F4*WMV;
+Wysteria Theme 2*F3*WMV;
+
+| cards =
+Balefrost*F2*WMV;
+Banshee;
+Blizzard;
+Donate Power;
+Doom and Gloom;
+Evil Snowman*F2*WMV;
+Humongofrog*F2*WMV;
+Minotaur*F2*WMV;
+Pest Zapper*F3*WMV;
+Storm Shark;
+Sunbird;
+Tempest;
+Wyldfire;
+
+| reagents =
+Brass*F3*WMV;
+Copper*F2;
+Iron*F2*WMV;
+Lead;
+Nickel*F2*WMV;
+Pyrite*F2*WMV;
+Spider Silk*F7*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F4*WMV;
+Caramel Popcorn*F4*WMV;
+Cheese Broccoli*F4*WMV;
+Chocolate Strawberry*F3*WMV;
+Cracker*F2*WMV;
+Crunch Apple*F2*WMV;
+Fire Cracker*F3*WMV;
+Flapjacks*F3*WMV;
+Glowing Rock Candy*F3*WMV;
+Golden Peanut*F2*WMV;
+Golden Squash*F2*WMV;
+Green Grapes;
+Gummy Bloodbat*F4*WMV;
+Gummy Firecat*F2*WMV;
+Large Fish*F3*WMV;
+Large Watermelon*F2*WMV;
+Meat Soup*F2*WMV;
+Medium Fish;
+Moon Pie*F2*WMV;
+Nettle Root;
+Redskin Peanut*F2*WMV;
+Square Root*F3*WMV;
+Square Watermelon*F2*WMV;
+Stinky Cheese*F3*WMV;
+Sugar Donut*F2*WMV;
+Tasty Biscuit*F2*WMV;
+Tiny Fish*F5*WMV;
+
+| jewels =
+Big Energy Opal;
+Chipped Damage Opal +4;
+Chipped Health Opal +17;
+Chipped Health Opal +19;
+Chipped Mana Opal +11*F2;
+Cracked Accurate Amethyst +2%;
+Cracked Damage Peridot +4;
+Cracked Damage Sapphire +4*F2;
+Cracked Defense Opal +6;
+Cracked Defense Ruby +9;
+Fire Elf Ruby;
+Fire-Shot Ruby;
+Ghoul Onyx;
+Leprechaun Jade;
+Lightning Bats Amethyst;
+Scorpion Citrine*F2;
+Volcanic Shield Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Bell Pepper*F3*WMV;
+Dandelion*F2*WMV;
+Desparagus (Seed)*F2*WMV;
+Honey Sickle*F5*WMV;
+Laugh-O-Dil*F3*WMV;
+Orange Bell Pepper*CR*F4*WMV;
+Red Bell Pepper*F2*WMV;
+Tiger Lily (Seed)*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

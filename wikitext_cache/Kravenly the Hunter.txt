@@ -1,0 +1,266 @@
+{{Stub|which version of the ''{{Link|TreasureCard|Shatter}} Treasure Card'' is dropped.}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 15,040
+| crecla = Lion
+| school = Life
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Khrysalis
+| location = Tyrian Gorge
+| subloc1 = Banyan Tower
+| descrip =
+Originally from Zafaria, Kravenly rose to become a Warlord in Morganthe's Shadow Army, overseeing operations in Tyrian Gorge from the top of Banyan Tower. He is a parody of General Zaroff, the antagonist of the short story "''The Most Dangerous Game''."
+
+:''For the version of this Boss encountered in the [[Location:The Galleries|Shadow Palace]], see {{Link|Creature|Kravenly the Hunter (Gallery)}}.''
+
+| speech =
+'''Kravenly the Hunter''': ''"A Wizard...! The Shadow Queen warned me that a pet from Wizard City might come sniffing around my lair.
+:'''Morganthe's Eye''': ''"Do my eyes deceive me? Or is that a familiar ratty face I see skulking about the Banyan Tower? Kravenly, gut and skin the Wizard. Then bring me the pelt!
+:'''Kravenly the Hunter''': ''"When I first arrived, I said I wanted an ideal animal to hunt. It must have courage, cunning, and above all, it must be able to reason. But the Burrowers are no match for me. Nor the Umbra Legion. The Shadow Queen promised me the greatest of challenges. The Spiral makes some people poets. Some kings. Some beggars. Me, the Spiral made a hunter. You, a Wizard. Let's see how you fare! RAWR!"''
+
+| cheatnotes =
+*{{Icon|Round}} At the beginning of every round, Kravenly will cast {{Link|Spell|Natural Attack (Kravenly)}} at a random Wizard.
+**This cheat can be [[Spell:Entangle|dispelled]].
+*{{Icon|Health}} When reaching the following Health thresholds, Kravenly the Hunter will cast the following spells.
+**{{Link|Spell|Spirit Blast}} dealing '''1,120''' Death Damage, '''1,095''' Life Damage, or '''1,190''' Myth Damage to all enemies.
+**{{Link|Spell|Spectral Blast}} dealing '''1,320''' Fire Damage, '''1,095''' Ice Damage, or '''1,650''' Storm Damage to all enemies.
+***''"Health at 75%"'' - Once his health reaches 75% (11,280 remaining), he will interrupt cast his Spirit Blast.
+***''"Health at 50%"'' - When his health reaches 50% (7,520 remaining), he will interrupt cast his Spirit Blast.
+****His {{Link|Spell|Spectral Blast}} may trigger from this instead.
+***''"Health at 25%"'' - When his health reaches 25% (3,760 remaining), he will interrupt cast his Spirit Blast.
+****If multiple health cheats are triggered at once, the Spirit Blasts may not occur immediately together. One will trigger the same round and the others on following rounds.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 153 Life Damage for 1 Pip, 245 Life Damage for 2 Pips, or 340 Life Damage for 3 Pips + 630 Life Damage over 3 Rounds.
+
+| casts =
+Fortify;
+Mend;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Empower;
+Nature's Wrath;
+Natural Attack (Kravenly);
+Life Banshee (250);
+Seraph;
+Centaur;
+Forest Lord;
+Gnomes!;
+Spinysaur;
+
+| quests =
+Blind Eye;
+Take Me In;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*11 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+| gold =
+80 - 100;
+
+| hats =
+Last Wood Defender's Cap*F10*WMV;
+
+| robes =
+Last Wood Defender's Cloak*F5*WMV;
+
+| boots =
+Mantis Stalkers of Secrecy*F3*WMV;
+Vampire Costume Boots*CR*HOL;
+
+| athames =
+Gloom Dancer's Talon*F6*WMV;
+Spike of the WoodWard*F6*WMV;
+
+| amulets =
+
+| rings =
+Gloom Dancer's Band*F4*WMV;
+Mantis Prophet's Ringlet*F3*WMV;
+
+| wands =
+Black Cloud Carnage*F4*WMV;
+Holiday Cookie Wand*CR*HOL;
+Long-Eared Bunny Scepter*CR*HOL;
+Sprig of Change*CR*HOL;
+
+| decks =
+Melting Beeswax Case*F7*WMV;
+Spiked Set*F7*WMV;
+
+| items =
+Holiday Wreath*CR*HOL;
+Khrysalis Combat Theme*F3*WMV;
+Khrysalis Last Wood Theme*F4*WMV;
+Krokopatra Exalted Duel*CR*F2*WMV;
+Meowiarty Archmage Duel*CR*F2*WMV;
+Rattlebones Exalted Duel*CR;
+Yuletide Lg. Keeper Aquarium*CR*HOL;
+Yuletide Lg. Small Fry Aquarium*CR*HOL;
+Zeus Exalted Duel*CR*F2*WMV;
+
+| cards =
+Black Widow*F3*WMV;
+Choke;
+Clockwork Spider*F2*WMV;
+Crystal Spider;
+Disarm;
+Doom and Gloom*F2;
+Enfeeble (-All)*F2*WMV;
+Gibson O'Leary;
+Hooligan*F2*WMV;
+Legendary Treant (445);
+Locust Swarm;
+Lucius McTavish;
+Luminous Weaver*F2*WMV;
+O'Leary Charlatan (Storm)*F2;
+O'Leary Swindler;
+Patches O'Leary*F2*WMV;
+Polar Swarm*F2;
+Sanctuary*F2*WMV;
+Scorpion*F2;
+Scrounger;
+Shatter*F2;
+Sprite Swarm (40+360)*F2*WMV;
+Wildfire Treant*F2;
+
+| reagents =
+Black Lotus*F4*WMV;
+Black Pearl*F2*WMV;
+Blood Moss;
+Bone*F2;
+Bronze Gear*F3*WMV;
+Copper;
+Deep Mushroom*F2;
+Fire Blossom*F3*WMV;
+Fossil;
+Golden Pearl;
+Iron;
+Lava Lily;
+Mist Wood*F3*WMV;
+Nickel;
+Nightshade*F2;
+Ore*F5*WMV;
+Orichalcum;
+Pyrite*F4;
+Red Mandrake*F6*WMV;
+Stone Block*F3*WMV;
+Sunstone*F2*WMV;
+Turquoise*F4*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR*F2;
+Celestial Calendar*BR;
+Chimera*BR;
+Dr. Von's Monster*BR;
+Efreet*BR*F2;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR*F2*WMV;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR*F2;
+Spinysaur*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Gummy Bees*F3*WMV;
+Hive Rinds;
+Honey Bombs;
+Honeycrisp Apples*F4;
+Honeycombs*F2;
+HoneyDon't Melon*F3*WMV;
+Punk Rock Candy;
+Spicy Stingers;
+Sugar Khrystals*F3*WMV;
+
+| jewels =
+Accelerated Learner Opal;
+Big Energy Opal;
+Chipped Mana Opal +11;
+Cracked Defense Amethyst +12;
+Cracked Defense Onyx +12;
+Cracked Defense Peridot +12;
+Cracked Defense Ruby +12;
+Dark Sprite Onyx;
+Fire Elemental Ruby;
+Life-Shot Jade;
+Polished Defense Peridot +44;
+Scarab Citrine;
+Scoot Opal;
+Screen Ruby;
+Thunder Snake Amethyst;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+Black Cat*CR*HOL;
+Cupig*CR*HOL;
+Flying Squirrel*CR*F2*WMV;
+Lovely Ladybug*CR*HOL;
+Nutcracker*CR*HOL;
+Snowball*CR*F3*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Burning Snap Dragon*F2*WMV;
+Face Palm;
+Queen Crape Myrtle;
+
+| mounts =
+
+| spells =
+
+}}

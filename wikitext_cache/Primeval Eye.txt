@@ -1,0 +1,261 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 12,580
+| crecla = Golem
+| school = Sun
+| masteries =
+Fire;
+Life;
+
+| startpips = 5
+| shadowslots = 1
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| outpierce =
+28%;
+
+| outboost =
+135%;
+
+| incboost =
+2% Life, Death;
+5% Ice, Myth;
+
+| incresist =
+73% Fire, Storm;
+
+| outhealing =
+68%;
+
+| inchealing =
+68%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Evil Eye (Balance);
+Evil Eye (Ice);
+
+| world = Lemuria
+| location = Ursai Village
+| subloc1 = Killawahoo
+| descrip =
+For the purpose of drops, Primeval Eye is considered a Boss.  All drops are recorded on this page.
+
+| monstrology =
+{{Monstrology Info
+| tome world = Lemuria
+| tome description =
+Has seen things the modern world forgot. It's got several hundred terrabytes of memory though, so it's good.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Magnify (6 Rounds);
+Renew (+30%);
+Pigsie;
+Regenerate;
+Fireblade;
+Balanceblade;
+Bladestorm;
+Meteor Strike (Sun);
+Natural Attack (Sun 130-260-390-520);
+Centaur (Sun);
+Wings of Fate;
+Lord of the Jungle (Tier 3a);
+Gaze of Fate;
+Mockenspiel (Tier 3a);
+Scorching Scimitars;
+Efreet;
+
+| quests =
+Killawhat Now?;
+The Chicken's Coup;
+
+| gold =
+132 - 324;
+
+| hats =
+Lemurian Preservation Hat;
+Lemurian Teleological Hat;
+
+| robes =
+Lemurian Ancient One Robe;
+Lemurian Horror Robe;
+Lemurian Teleological Robe;
+
+| boots =
+Lemurian Barbarian Shoes;
+Lemurian Electric Shoes;
+
+| athames =
+
+| amulets =
+Lemurian Freezer Talisman;
+Lemurian Horror Talisman;
+Lemurian Undaunting Talisman;
+
+| rings =
+Lemurian Hex Ring;
+Lemurian Horror Ring;
+Lemurian Teleological Ring;
+
+| wands =
+Lemurian Detective Staff;
+Lemurian Old Judge Staff;
+Lemurian Undaunting Staff;
+
+| decks =
+
+| items =
+Arcanum Combat Theme;
+Cargo;
+Lemuria Boss Combat Theme;
+Lemuria Forest Combat Theme;
+Lemuria Minds Theme;
+Lemuria Telos Theme 4;
+Periodic Table Poster;
+Puzzle Cube;
+
+| cards =
+Berserk;
+Brilliant Light;
+Death Prism;
+Dream Shield;
+Elemental Blade;
+Flute Symphony;
+Link;
+Myth Prism;
+Sirens;
+
+| reagents =
+Brass;
+Bronze Gear;
+Cobalt;
+Ectoplasm*F2*WMV;
+Nickel*F3;
+Scales;
+Spider Silk;
+Synthonium*F2;
+Tin;
+
+| spellements =
+Barbarian's Saga;
+Dark & Stormy;
+Freeze Ray;
+
+| snacks =
+Black Sun Seeds;
+Chilly Con Queso;
+Cracker;
+Decimatoes;
+Fetid Legumes;
+Golden Candy Bar;
+Golden Peanut;
+Golden Squash;
+Huge Ice Cream;
+Large Fish;
+Large Watermelon;
+Pineapple Spears;
+Potato Chips;
+Sliced Watermelon;
+Square Root;
+Squash;
+Sugar Donut;
+Super Cold Popsicle;
+Taco;
+Taco Town Special;
+Tiny Fish;
+
+| jewels =
+Ally Stun Block Sapphire;
+Balance-Eye Citrine;
+Balance-Sniper Citrine;
+Dazzling Accurate Amethyst +14%;
+Dazzling Accurate Hematite +14%;
+Dazzling Accurate Peridot +14%;
+Dazzling Blocking Hematite +19;
+Dazzling Blocking Onyx +19;
+Dazzling Blocking Ruby +19;
+Dazzling Critical Citrine +19;
+Dazzling Critical Onyx +19;
+Dazzling Damage Hematite +60;
+Dazzling Damage Peridot +29;
+Death-Away Onyx;
+Fire-Away Ruby;
+Life-Boon Jade;
+Life-Sniper Jade;
+Myth-Eye Peridot;
+No Pain, No Gain Onyx;
+Pyrosaurus Rex Ruby;
+Sap Health Talent Citrine;
+Sparkling Accurate Peridot +13%;
+Sparkling Blocking Amethyst +17;
+Sparkling Blocking Sapphire +17;
+Sparkling Critical Citrine +17;
+Sparkling Critical Jade +17;
+Sparkling Critical Ruby +17;
+Sparkling Damage Amethyst +27;
+Sparkling Damage Citrine +27;
+Sparkling Defense Ruby +54;
+Storm Striker Amethyst;
+Storm-Shot Amethyst;
+Storm-Sniper Amethyst;
+Unbalancer Citrine;
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears*F3;
+Baby Carrots;
+Bell Pepper;
+Blue Huckleberries;
+Bread Fruit Bush;
+Clockwork Flower;
+Cornbread Fruit Bush;
+Dandelion;
+Deadly Fly Trap;
+Desparagus (Seed);
+Face Palm;
+Fiery Boom Shroom;
+Fish on a Vine;
+Honey Bee Plant;
+Ivy League*CR;
+Laugh-O-Dil;
+Melting Cheese Tree;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus;
+Purple Grapes of Wrath;
+Red Couch Potatoes*F2*WMV;
+Red Huckleberries;
+Rotten Beets;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Snap Dragon;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Ultra Snap Dragon;
+Vampire Carrots;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

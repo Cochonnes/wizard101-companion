@@ -1,0 +1,153 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 5,600
+| crecla = Demon
+| crecla2 = Elephant
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Grizzleheim
+| location = Ravenscar
+| subloc1 = Underground Cave
+| descrip =
+
+| speech =
+:''"You impress me. I must admit that it will be a pleasure to silence you. The secrets of banishing my kind can go no farther!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+This fiery behemoth just wants to go home. And a hamburger.
+
+| extract class =
+Elephant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Spirit Armor;
+Smoke Screen;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Sunbird;
+Fire Shark;
+Meteor Strike;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Natural Attack (Fire 100x);
+Heck Hound;
+Minotaur;
+
+| quests =
+Blood Brother;
+
+| gold =
+46 - 78;
+
+| hats =
+Cap of Subsistence*F3*WMV;
+Headdress of Expiry*F2*WMV;
+Skystorm Cowl*F4*WMV;
+
+| robes =
+Cloak of Divination*F2*WMV;
+Smock of the Haruspex*F3*WMV;
+Tunic of the Everlasting*F4*WMV;
+
+| boots =
+Fuming Striders*F2*WMV;
+Shoes of Serenity*F3*WMV;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Small Toy Train*F7*WMV;
+Small Wheelbarrow*F2*WMV;
+
+| cards =
+Helephant;
+Hydra;
+Scarecrow;
+
+| reagents =
+Cobalt*F4;
+Ectoplasm*F4*WMV;
+Nickel;
+
+| spellements =
+
+| snacks =
+Fairy Cake*F3*WMV;
+Golden Biscuit*F4*WMV;
+Golden Candy Bar;
+Huge Ice Cream*F2;
+Poncherello Chips*F2*WMV;
+Spicy Popcorn;
+
+| jewels =
+Centaur Jade;
+Doom and Gloom Onyx;
+Dull Defense Amethyst +25;
+Dull Defense Ruby +25;
+Flummox Opal;
+Halt Leader Opal;
+
+| pins =
+
+| pets =
+Firebat*F3*WMV;
+
+| seeds =
+Evil Snow Peas;
+Orange Dandelion;
+Pink Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

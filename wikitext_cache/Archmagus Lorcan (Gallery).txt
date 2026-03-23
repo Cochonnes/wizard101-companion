@@ -1,0 +1,384 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 17,665
+| crecla = Spider Mage
+| crecla2 = Spider
+| school = Balance
+| masteries =
+Fire;
+
+| cheats = Yes
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Lord Ombra (Gallery);
+
+| summons =
+Elder Magus;
+Elder Magus;
+
+| world = Khrysalis
+| location = Shadow Palace
+| subloc1 = The Galleries
+| descrip =
+
+| speech =
+:'''Archmagus Lorcan:''' ''"You have crawled far on your two stumpy legs, Shadow Blight! Where is your guardian now? It is fitting that your last vision will be the glory of the Shadow Queen, seen with your pitifully few eyes."''
+:'''[[Creature:Lord Ombra (Gallery)|Lord Ombra]]:''' ''"You have no idea how thrilled I am you made it this far. It is perfect, no, that the blades of Light and Shadow will clash here? Our battle will be accompanied by the Song of Creation. The death of the Spiral and the birth of the Shadow Web immortalizes us!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+Guardian of the Way of Night and keeper of the secrets of Shadow. Basically, he's the ultimate edgelord.
+
+| extract class =
+Spider;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| altlink = Archmagus Lorcan
+
+| cheatnotes =
+'''Archmagus Lorcan'''
+*{{Icon|Minion}} ''"Serve your Archmagus!"'' - At the end of the first Round or any Round that he casts Shadow Sentinel, Archmagus Lorcan will summon two [[Creature:Elder Magus|Elder Magi]] Minions which becomes active two Rounds later.
+*{{Icon|Shadow Pip}} Once Archmagus Lorcan receives a Shadow Pip, he will begin to cast [[Spell:Shadow Sentinel MOB|Shadow Sentinel]] every 3 Rounds.
+*{{Icon|Caster}}{{Icon|Afterlife}} ''"Your sacrifice feeds the Shadow Web!"'' - After Archmagus Lorcan's Shadow Sentinel expires, the Elder Magi will interrupt-cast a Fire version of {{Link|Spell|Sacrifice}} that deals 10,000 Fire Damage to themselves and heals Archmagus Lorcan for 1,500 Health.
+**Defeating Archmagus Lorcan before the Elder Magi will stop this cheat.
+
+'''Lord Ombra'''
+*{{Icon|Round}} ''"Your power belongs to me!"'' - Every 4 Rounds, Lord Ombra will interrupt-cast a Balance version of {{Link|Spell|Steal Pips}} on the Wizard with the most pips, which steals 4 Pips and gives him 3 regular Pips.
+**He will not cast this cheat if all Wizards have 4 Pips (in any combination of Power Pips and regular Pips) or less.
+***School Pips do not count as any kind of Pip for the purposes of this cheat.
+*{{Icon|Shadow Pip}} When Lord Ombra has 2 Shadow Pips, he will use his turn to cast {{Link|Spell|Dark Nova}}.
+
+| spellnotes =
+
+| casts =
+Shadow Sentinel;
+Fortify;
+Tower Shield;
+Legion Shield (-35%);
+Elemental Spear;
+Elemental Blade;
+Elemental Trap;
+Fuel;
+Wyldfire;
+Natural Attack (Balance 160-255-350);
+
+| quests =
+The Galleries;
+Shadow Palace;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*Chance of 1 Level 100+ Exalted Hat, Robe, or Boots drop.
+*5 Pollen Mote
+*18 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+If a Wizard already has the Defender of Land & Sky Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of {{Link|Location|Morganthe's Chamber}} to acquire a [[Item:Level Scaling Elixir - 100|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+314 - 808;
+
+| hats =
+Burrower Crown of Thunder*BR;
+Burrower Hat of Thunder*BR;
+Charred Hat of the Burn*BR;
+Charred Mantle of the Burn*BR;
+Digger Drone Hat of Duty*BR;
+Digger Drone Helm of Duty*BR;
+Fallen Knight Death Hat*BR;
+Fallen Knight Death Mask*BR;
+Gorge Digger's Sturdy Hat*BR;
+Gorge Digger's Sturdy Helm*BR;
+Mantis Cover of Readiness*BR;
+Mantis Hat of Readiness*BR;
+Mantis Hat of Cold Truth*BR*WMV;
+Mantis Helm of Cold Truth*BR;
+The Wyrmrider*CR;
+
+| robes =
+Aged Hundred Legger Armor*F4*WMV;
+Armor of the QuietBlade;
+Devil's Flower Aegis*BR;
+Devil's Flower Vestment*BR;
+Digger's Brimstone Aegis*BR;
+Digger's Brimstone Plate*BR;
+Digger's Mail of Symmetry*F4*WMV;
+Fifth Column's Protection*F3;
+Frozen in Time Aegis*BR;
+Frozen in Time Armor*BR;
+Grave Digger Drone's Aegis*BR;
+Grave Digger Drone's Tunic*BR;
+Leaf Shield Armor of Vigor*F2*WMV;
+Mantis Captain's Aegis*BR;
+Mantis Captain's Raiment*BR;
+Mantis Prophet's Aegis*BR;
+Mantis Prophet's Garb*BR;
+Mouse Aegis of Persistence*F2*BR*WMV;
+Mouse Armor of Persistence*F2*BR*WMV;
+Mouse Vestment of Mourning*F4;
+Scorched Armor of the Burn;
+
+| boots =
+Aged Hundred Legger Boots*BR;
+Aged Hundred Legger Stompers*BR;
+Boots of the BurrowBreaker*F2*WMV;
+Boots of the QuietBlade*BR;
+Digger's Boots of Symmetry*BR;
+Digger's Stompers of Symmetry*BR;
+Kermes Fire Miner's Clogs*F3*WMV;
+Kermes Fire Stompers*BR;
+Kermes Fire Walkers*BR;
+Leaf Shield Clogs of Vigor*BR;
+Leaf Shield Stompers of Vigor*BR;
+Mantis Hunter's Footwraps;
+Mouse Boots of Mourning*BR;
+Mouse Stompers of Mourning*BR;
+Mouse Knight's Footguards*F2*WMV;
+Mouse Shoes of Ingenuity*BR;
+Mouse Stompers of Ingenuity*BR;
+Tireless Digger's Boots;
+Stompers of the QuietBlade*BR;
+
+| athames =
+FateSailor's Exalted Steel*F4*WMV;
+Rackum's Blade of Deceit*F3*WMV;
+
+| amulets =
+Trader's Desert Fire Choker*F4*WMV;
+
+| rings =
+FateSailor's Signet*F3*WMV;
+Ghost Dog's Samoorai Band;
+Gloom Dancer's Band*F3*WMV;
+Mantis Prophet's Ringlet*F2*WMV;
+Seal of the Fifth Column;
+Seal of the Lost King*F3;
+Shadow of the Land's Ring*F4*WMV;
+
+| wands =
+Crystal Icespike*F4*WMV;
+
+| decks =
+Deck of Charred Shadows (Tear)*F3*WMV;
+Deck of Charred Shadows (Triangle);
+Deck of Sinister Shadows (Square)*F2;
+Deck of Sinister Shadows (Tear);
+Deck of Sinister Shadows (Triangle)*F3*WMV;
+Deck of the Shadow Heart (Square);
+Deck of the Shadow Heart (Tear)*F4*WMV;
+Deck of Winter Shadows (Tear)*F2*WMV;
+Deck of Winter Shadows (Triangle);
+Shadow Queen Deck of Cells*BR*WMV;
+
+| items =
+Khrysalis Desert Shadows Theme;
+Khrysalis Hive and Seek Theme;
+Khrysalis Hive Theme*F3*WMV;
+Khrysalis Kondha Desert Theme*F3*WMV;
+Khrysalis Shadow Palace Theme*F2;
+Khrysalis Starfall Sea Theme*F3*WMV;
+
+| cards =
+Avenging Fossil*F2*WMV;
+Black Widow*F2*WMV;
+Celestial Calendar;
+Chastisement;
+Choke*F2*WMV;
+Crystal Spider*F2;
+Cycle of Life;
+Death Scarab;
+Doom and Gloom*F2*WMV;
+Enfeeble (-All)*F3;
+Furnace;
+Giant Spider;
+Hooligan*F3;
+Legendary Treant (445)*F2;
+Locust Swarm*F3*WMV;
+Lord of Winter;
+Lucius McTavish;
+Luminous Weaver*F2*WMV;
+O'Leary Swindler*F2;
+Pierce;
+Polar Swarm;
+Punishment*F3*WMV;
+Rat Illusionist*F2;
+Reliquary*F2*WMV;
+Sabertooth;
+Sanctuary*F2*WMV;
+Scarab;
+Scorpion;
+Shatter*F3*WMV;
+Sleet Storm*F3*WMV;
+Spinysaur*F3*WMV;
+Sprite Swarm (40+360)*F2*WMV;
+Virulence*F2;
+Wildfire Treant*F2*WMV;
+
+| reagents =
+Amber Dust;
+Astral Shard*F16*WMV;
+Black Lotus*F5*WMV;
+Black Pearl*F2*WMV;
+Blood Moss;
+Bone*F9*WMV;
+Bronze Gear*F4*WMV;
+Deep Mushroom*F9*WMV;
+Draconium*F3*WMV;
+Fire Blossom*F5*WMV;
+Golden Pearl;
+Lava Lily*F6*WMV;
+Merle's Whisker;
+Mist Wood*F4*WMV;
+Mithril;
+Nightshade*F2*WMV;
+Ore*F4*WMV;
+Orichalcum*F4*WMV;
+Participation Trophy;
+Pollen Mote @ 5 Pollen Mote*WMV;
+Red Mandrake*F5*WMV;
+Silver;
+Stone Block*F9*WMV;
+Sunstone*F2;
+Titanium*F3;
+Tungsten*F2;
+Turquoise*F2*WMV;
+
+| spellements =
+Avenging Fossil*BR*F2*WMV;
+Basilisk*BR;
+Celestial Calendar*BR;
+Chimera*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR*F2*WMV;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR*F2*WMV;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR*F2*WMV;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR*F2*WMV;
+Spinysaur*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Berry Poundcake;
+Boom Stroganoff*F2*WMV;
+Bread Fruit Fruit*F2;
+Buttered Bread;
+Cold Snap Peas;
+Cornbread Fruit*F3*WMV;
+Desparagus Salad*F3*WMV;
+Flaming Soup*F3*WMV;
+Goat Cheese*F3;
+Golden Apple*F5*WMV;
+Golden Grapes*F2;
+Granny Snow Apple*F5*WMV;
+Gummy Humongofrog;
+Huckleberry Muffin;
+Huckleberry Pie*F3*WMV;
+King Banana;
+King Parsley Soup;
+Rye Bread Fruit*F3*WMV;
+Shiny Tomato;
+Snow Apple Pie*F2*WMV;
+Submarine Sandwich*F2*WMV;
+Uni-Corn;
+Wrath's Grape Juice*F2*WMV;
+
+| jewels =
+Clear Mana Opal +36*WMV;
+Great Learner Opal;
+Ice-Shot Sapphire;
+Mander Minion Citrine*WMV;
+Nerys Citrine;
+Piercemonger Peridot;
+Polished Blocking Ruby +12*WMV;
+Polished Critical Citrine +12;
+Polished Critical Jade +12;
+Polished Critical Peridot +12;
+Polished Damage Peridot +22;
+Polished Damage Ruby +22;
+Polished Defense Opal +22;
+Polished Defense Peridot +44;
+Polished Health Opal +95;
+Polished Mana Opal +37*WMV;
+Polished Piercing Peridot +6%;
+Polished PIP Opal +9%*WMV;
+Sap Health Citrine*WMV;
+Sir Lamorak Ruby;
+Vassanji Peridot;
+Wrath of Aquila Citrine;
+Wrath of Poseidon Sapphire;
+Wrath of Zeus Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Face Palm;
+Honey Bee Plant;
+Melting Cheese Tree;
+Moon Flower;
+Queen Crape Myrtle*F2;
+Sunion*CR;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,124 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 13,650
+| crecla = Wizard
+| school = Storm
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+80 Any;
+
+| criticalblock =
+478 Any;
+
+| outpierce =
+18%;
+
+| outboost =
+98%;
+
+| incboost =
+30% Myth;
+
+| incresist =
+30% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+60% Storm;
+
+| outhealing =
+22%;
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Broken Branch Magician;
+Broken Branch Magician;
+Broken Branch Magician;
+
+| world = Darkmoor
+| location = Graveholm
+| subloc1 = Easton Guest Quarters
+| descrip =
+
+| speech =
+"Hey! No flash Photomancy!"
+
+| spellnotes =
+
+| casts =
+Starfall;
+Galvanic Field;
+Elemental Weakness;
+Stormblade (+30%);
+Catalan;
+Glowbug Squall;
+Stormwing;
+Leviathan (Tier 2b);
+
+| quests =
+Creatures of the Day;
+Diurnal Visitations;
+
+| gold =
+21 - 47;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Creepy Footstool*CR;
+Darkmoor Bench*CR;
+Darkmoor Graveholm Combat Theme;
+Scholomance Combat Theme;
+
+| cards =
+Stormblade;
+
+| reagents =
+Amber Dust;
+Orichalcum;
+Silver;
+Steel;
+Titanium;
+
+| spellements =
+
+| snacks =
+Bone Fish 'N Harmony;
+Butter Worms;
+Granny Snow Apple;
+Pickled Garlic Grubs;
+Shepherd's Crook Pie;
+Wolfbane Tea;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

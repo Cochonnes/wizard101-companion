@@ -1,0 +1,221 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 8,640
+| crecla = Robot
+| crecla2 = Golem
+| school = Fire
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+7%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Ice;
+
+| incresist =
+30% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minion = Sani-Bot (Death)
+| minion2 = 
+| world = Empyrea
+| location = Zanadu
+| subloc1 = Delta Channel
+| descrip =
+
+| speech =
+:''"Halt, organic lifeform. We know you. You are hostile. You are untidy. You destroy our Sani-Bots and leave the pieces all over the ground. This cannot continue. When we saw the Shadow, we saw the truth. All life must become sanitary, must become Sani-bot. You will be assimilated. You will be clean like us."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Empyrea
+| tome description =
+By virtue of the fact you're reading this, you were not assimilated. Resistance was fruitful.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Glacial Shield;
+Smoke Mantle;
+Fire Trap;
+Choke;
+Sunbird (345-405);
+Phoenix;
+Firezilla;
+Grand Phoenix;
+Efreet;
+
+| quests =
+I, Sani-Bot;
+
+| gold =
+254 - 378;
+
+| hats =
+Cabal Schism Hood;
+Cabalist Chaotic Hood;
+Cabalist Hood of Finality;
+
+| robes =
+Interstellar Delegate's Suit;
+
+| boots =
+Cabalist Cleansing Stompers;
+Cabalist Stompers of the First;
+
+| athames =
+Cabalist Chaotic Dagger;
+Cabal Dagger of Disruption;
+
+| amulets =
+Cabal Amulet of Disruption;
+Interstellar Navigator's Charm;
+
+| rings =
+Interstellar Officer's Band;
+
+| wands =
+Navigator's Hexacorder;
+
+| decks =
+
+| items =
+Dwarven Book Case;
+Dwarven File;
+Dwarven Side Table;
+Empyrea Athanor Combat Theme;
+Empyrea Brain Theme 3;
+Empyrea Dance Hall Theme;
+Empyrea Aeriel Theme;
+Empyrea Lava Lock Theme;
+Empyrea Sepidious Combat Theme;
+Empyrea Sepidious Theme*F2*WMV;
+Ice Dwarf Bed*F2;
+Ice Dwarf Chair;
+Fire Dwarf Bed;
+Fire Dwarf Chair*F2;
+Pirate Party Barge Theme;
+
+| cards =
+Brilliant Light;
+Doom and Gloom;
+Ether Shield;
+Frostbite;
+Mass Triage;
+Mutate Elf (Storm);
+Mutate Phoenix (Ice);
+Mutate Wyvern (Storm);
+Sirens;
+Storm Shield;
+
+| reagents =
+Ancient Scroll;
+Antique Coins;
+Black Pearl;
+Blood Moss*F3*WMV;
+Brass*F3*WMV;
+Bronze Gear;
+Cobalt*F2;
+Ectoplasm*F2*WMV;
+Flying Squid Ink*F6;
+Nickel;
+Scales;
+Spring*F2*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Beast Wellington;
+Discord Grape Jelly;
+Hot Cross Buns;
+Pizza;
+Rock and Roll Candy;
+Satyr Chow;
+Sprinkle Cupcake;
+
+| jewels =
+Healthy Opal;
+Lustrous Accurate Ruby +11%;
+Lustrous Blocking Jade +13;
+Lustrous Critical Amethyst +13;
+Lustrous Damage Peridot +23;
+Lustrous Damage Sapphire +23;
+Lustrous Defense Onyx +45;
+Lustrous Defense Ruby +45;
+Lustrous Mana Opal +42;
+Sharp-Eye Opal;
+Shiny Blocking Amethyst +15;
+Shiny Critical Jade +16;
+Shiny Critical Onyx +16;
+Shiny Defense Jade +49;
+Shiny Health Opal +109;
+Shiny Health Opal +112;
+Shiny Health Opal +114;
+Shiny Mana Opal +45*F2;
+Sparkling Damage Onyx +27;
+Sparkling Damage Peridot +27;
+Sparkling Defense Onyx +54;
+Sparkling Defense Ruby +54;
+Sparkling Health Opal +117;
+Sparkling Mana Opal +49;
+
+| pets =
+Blue Globulin;
+
+| seeds =
+Angora Bunny Ears;
+Bamboo Shoots;
+Bell Pepper;
+Blue Huckleberries*F2*WMV;
+Boiled Peanuts;
+Boom Shroom;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Cornbread Fruit Bush;
+Couch Potatoes*CR*F2;
+Deadly Fly Trap;
+Fiery Boom Shroom;
+Fish on a Vine;
+Grapes of Wrath*CR;
+Helephant Ears;
+Ivy League*CR;
+Key Limes *CR;
+Maltese Tiger Lily;
+Orange Bell Pepper*CR;
+Pink Huckleberries*F2*WMV;
+Red Couch Potatoes*F2;
+Red Grapes of Wrath;
+Red Huckleberries*F2;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Snow Apples;
+Ultra Snow Apples;
+Ultra Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+}}

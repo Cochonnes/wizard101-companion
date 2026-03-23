@@ -1,0 +1,231 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 9,240
+| crecla = Plant
+| school = Life
+| masteries =
+Death;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+71 Any;
+
+| criticalblock =
+116 Any;
+
+| outpierce =
+5%;
+
+| outboost =
+60%;
+
+| incboost =
+5% Death;
+
+| incresist =
+50% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Globulin;
+Globulin;
+
+| world = Empyrea
+| location = Sepidious
+| subloc1 = Left Eye
+| descrip =
+
+| speech =
+:'''Poison Oak:''' "''Intruders! Invaders! Infectors! Oh my! Globulins, we must remove these parasites before they spread their pestilence and rot!''"
+:'''{{Link|NPC|Bat}}:''' "''You and the other Cabal leaders are parasites here. I mean, like the literal dictionary definition of parasite, look it up.''"
+:'''Poison Oak:''' "''Pshaw! I'm an all-natural toxin remover. And I've been teaching the Globulins more potent ways to cleanse Sepidious. Come, let us demonstrate!''"
+
+| cheatnotes =
+*{{Icon|Late}} ''"Plants grow slow... but not THIS slow"'' - If a Wizard joins the duel after the first Round, Poison Oak will cast a Sun version of Lamassu that deals '''984''' Sun Damage and '''20,000''' Life Damage over 100 Rounds.
+*{{Icon|Round}} ''"Nature! Protect me! Harm those who are against me!"'' - At the beginning of the first Round, Poison Oak will cast a version of Wings of Fate that deals '''20,000''' Life Damage to all enemies and '''20,000''' Healing for all allies over 100 Rounds.
+**{{Link|Spell|Triage}} or {{Link|Spell|Mass Triage}} '''can''' be used to remove the Damage over Time effect.
+**{{Link|Spell|Shift}} and {{Link|Spell|Detonate}} '''can''' be used to counter this cheat.
+*{{Icon|Feint}} ''"Can't distract me!"'' - If a {{Link|Spell|Feint}} is cast on Poison Oak, he will cast an Ice version of {{Link|Spell|Swap Ward}} to switch the Traps with the caster.
+**{{Link|ItemCard|Mass Feint}} '''will not''' trigger this cheat.
+**{{Link|Spell|Indemnity}} '''can''' be used to prevent this switch.
+**{{Link|Spell|Melt}} '''can''' be used to Dispel this cheat.
+*{{Icon|Round}} ''"You Lose! Good day sir!"'' - At the end of the 30th Round, Poison Oak will cast {{Link|Spell|Incindiate}}, detonating the entire Damage over Time effect.
+*{{Icon|Trap}} After casting his Natural Attack, Poison Oak will follow up with {{Link|Spell|Life Trap (+35%)}}.
+
+| spellnotes =
+*Casts a -45% version of Mass Infection.
+'''Natural Attack:'''
+*Deals 105 Life Damage per Pip, 3 Pip maximum.
+
+| casts =
+Dark Shepherd;
+Brace;
+Legend Shield (-75%);
+Spirit Armor (500);
+Virulent Plague;
+Unicorn (315);
+Rebirth (730, 90%);
+Lifeblade (+40%);
+Life Feint;
+Namaste;
+Luminous Weaver;
+Leafstorm;
+Delphic Lamassu;
+Sacred Charge;
+Spirited Minotaur (Life);
+Moody Caterpillar;
+Earth Walker;
+Centaur (610-670);
+Wings of Night;
+Enraged Forest Lord;
+Spinysaur;
+Natural Attack (Life 105-);
+
+| quests =
+The Eyes Have It;
+Oaky-Doke;
+
+| gold =
+384 - 530;
+
+| hats =
+
+| robes =
+Interstellar Engineer Suit;
+
+| boots =
+Interstellar Officer's Boots;
+
+| athames =
+Interstellar Explorer's Knife;
+
+| amulets =
+Interstellar Warrior's Charm;
+
+| rings =
+Interstellar Explorer's Band;
+Interstellar Hero's Band*F2*WMV;
+Interstellar Medic's Band;
+Interstellar Officer's Band;
+Interstellar Warrior's Band;
+
+| wands =
+
+| decks =
+
+| items =
+Empyrea Aeriel Theme;
+Empyrea Athanor Combat Theme;
+Empyrea Finale Combat Theme*F3*WMV;
+Empyrea Flotsam Combat Theme*F3*WMV;
+Empyrea Jungle Theme*F2*WMV;
+Empyrea Outer Athanor Theme;
+
+| cards =
+Balefrost*F2;
+Combustion;
+Mass Fire Prism*F2*WMV;
+
+| reagents =
+Ancient Scroll*F2*WMV;
+Antique Coins*F5*WMV;
+Black Pearl*F2;
+Blood Moss*F2*WMV;
+Brass*F5*WMV;
+Bronze Gear*F3*WMV;
+Cobalt*F3*WMV;
+Ectoplasm*F5*WMV;
+Nickel*F6*WMV;
+Scales*F5*WMV;
+Spider Silk*F2;
+Spring*F3;
+Tin*F9*WMV;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Beast Wellington;
+Discord Grape Jelly;
+Eye Candy;
+Glowing Taffy*F4*WMV;
+Hot Cross Buns*F2*WMV;
+Pizza*F2*WMV;
+Rock and Roll Candy*F2*WMV;
+Satyr Chow*F2*WMV;
+Sprinkle Cupcake*F2*WMV;
+Squash*F3;
+Wheat Cracker*F2*WMV;
+
+| jewels =
+Ally Precision Citrine;
+Animate Skeleton Onyx;
+Armor Piercer Opal;
+Balance Assailant Citrine;
+Balance-Boon Citrine;
+Death Striker Onyx;
+Fire-Away Ruby;
+Fire-Giver Ruby*F2*WMV;
+Fire-Shot Ruby;
+Ice-Away Sapphire;
+Infector Onyx;
+Life Assailant Jade;
+Life-Giver Jade;
+Life-Shot Jade;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Onyx +13;
+Lustrous Blocking Peridot +13;
+Lustrous Critical Amethyst +13;
+Lustrous Critical Peridot +13;
+Lustrous Critical Sapphire +13;
+Lustrous Defense Amethyst +45;
+Lustrous Defense Jade +45;
+Lustrous Health Opal +96;
+Myth-Boon Peridot;
+Myth-Ward Peridot;
+Storm-Dealer Amethyst;
+Storm-Shot Amethyst;
+Stun Recalcitrant Opal;
+
+| pins =
+
+| pets =
+Green Globulin*F3*WMV;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears*F2*WMV;
+Baby Carrots*F2;
+Bell Pepper;
+Blue Huckleberries*F3*WMV;
+Boiled Peanuts*F4*WMV;
+Bread Fruit Bush*F3*WMV;
+Cornbread Fruit Bush*F5*WMV;
+Couch Potatoes*CR*F3;
+Desparagus (Seed);
+Evil Magma Peas*CR*F2;
+Fish on a Vine*F3*WMV;
+Golden Couch Potatoes*F3*WMV;
+Grapes of Wrath*CR*F3*WMV;
+Helephant Ears;
+Honey Sickle;
+Ivy League*CR*F3*WMV;
+Pink Huckleberries*F2*WMV;
+Red Couch Potatoes*F2*WMV;
+Red Huckleberries;
+Sour Fickle Pickle*F2;
+
+| mounts =
+
+| spells =
+
+}}

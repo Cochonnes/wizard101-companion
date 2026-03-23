@@ -1,0 +1,189 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 780
+| crecla = Pig
+| school = Myth
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+40% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Kyoukontei Treant (Tier 1);
+Kasuka Monk (Tier 1);
+Zoraimei Wildclaw (Tier 1);
+
+| world = Housing Instance
+| location = Midnight Sun Pagoda
+| subloc1 = 
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Kurokage is a master of shields. Make sure you have yours ready when you visit.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Damage}} ''"You won't last long without shields!"'' - If a Wizard casts a Damage Spell on Kurokage and does not have a Shield, then Kurokage will interrupt-cast a version of {{Link|Spell|Vampire}} that deals '''350''' Damage on the Wizard that damaged him.
+*{{Icon|Manipulation}} Every other Round, Kurokage will interrupt-cast a Myth Spell that removes all Wards from a random Wizard.
+
+| spellnotes =
+
+| casts =
+Storm Shield;
+Weakness;
+Mythblade;
+Blood Bat;
+Troll;
+Cyclops;
+Fire Elf (50+210);
+Evil Snowman;
+
+| quests =
+
+| gold =
+11 - 30;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Bamboo Barrier;
+Crossed Naginata Spears*F3*WMV;
+Green Sword Display*F2*WMV;
+Iron Tea Pot*F2*WMV;
+Low Purple Vase*F2;
+Moodha Bust*F3*WMV;
+MooShu Combat Theme*F3*WMV;
+Pearl Orchid*F3;
+Small Wooden Table;
+Tatami Floor Mat*F3;
+Wooden Memorial*F2;
+
+| cards =
+Aiuchi*F2;
+Do-Daga;
+Goat Monk;
+Kakeda Painbringer;
+Koto*F2;
+Ninja Pigs;
+Otomo Fury*F3*WMV;
+Tamauji;
+Yochimo;
+
+| reagents =
+Amethyst;
+Citrine;
+Crystal Vial;
+Ghost Fire;
+Jade;
+Leather Straps*F3*WMV;
+Onyx;
+Peridot;
+Pyrite;
+Ruby*F2;
+Sapphire*F3;
+Shadow Oil;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F3*WMV;
+Basil Poodle Noodles;
+Chow Chow Chow;
+Crunch Apple*F3*WMV;
+Eggplant*F2;
+Fire Cracker;
+Flaming Soup*F3;
+Goat Cheese*F2;
+Golden Peanut;
+Golden Pizza;
+Golden Squash*F2;
+Jar of Jelly Beans*F2;
+Kapow Pug Poppers;
+Killer Tomato;
+King Banana;
+Large Fish*F2*WMV;
+Large Watermelon;
+MooShu Broccoli*F2;
+MooShu Cheddar;
+Square Root;
+Sweet and Sour Chow;
+Sweet Pineapple*F3*WMV;
+Taco Town Special;
+
+| jewels =
+Cracked Accurate Amethyst +1%;
+Cracked Accurate Citrine +1%;
+Cracked Accurate Ruby +1%;
+Cracked Damage Jade +3;
+Cracked Defense Onyx +4;
+Cracked Defense Peridot +4;
+Cracked Defense Sapphire +4;
+Cracked Health Opal +6;
+Cracked Health Opal +7;
+
+| pins =
+
+| pets =
+Brown Spider*F3*WMV;
+Goat Monk*F2;
+Jade Oni*CR;
+Ninja Pig*F2*WMV;
+Yellow Ghost;
+
+| seeds =
+Deadly Ninja Fig;
+Orange Dandelion;
+Pink Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

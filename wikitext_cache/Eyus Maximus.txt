@@ -1,0 +1,197 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 350
+| crecla = Giant
+| crecla2 = Cyclops
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+10% Storm;
+
+| incresist =
+40% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Warhorn;
+
+| world = Wizard City
+| location = Cyclops Lane
+| subloc1 = Lair of Eyus Maximus
+| descrip =
+Eyus Maximus is a Cyclops criminal who has stolen the Thunder Hammer from the famous artist Pablo C. Thunder. Wizards are sent by {{Link|NPC|Private Emerson}} to recover the hammer from the rogue.
+
+Two additional Warhorn Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Stupid hammer. Throw thunder. Yah! Yah! Strike! I think it's broken. Hey, who are you? Can you make this Thunder Hammer to thunder? No. Then you're of no use to me."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+Eyus Maximus: seen here with minimum eyes.
+
+| extract class =
+Cyclops;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Myth Trap;
+Blood Bat;
+Natural Attack (Myth 200);
+Troll;
+Natural Attack (Myth 300);
+Natural Attack (Myth 100x, 75%);
+Frost Beetle;
+Fire Cat;
+Thunder Snake;
+Lightning Bats;
+
+| quests =
+Mad Maximus;
+
+| gold =
+6 - 27;
+
+| hats =
+Antique Helm*F2;
+Blooming Hat*F4*WMV;
+Bloomshroud;
+Cap of Advantages;
+Charbane's Helm;
+Charged Cover;
+Cowl of Wisdom;
+Double Sided Hat;
+Flametouched Hat*F12*WMV;
+Frostshroud*F2*WMV;
+Fur-Lined Hood*F2*WMV;
+Hat of Eradication*F7*WMV;
+Helm of Audacity;
+Helm of Supremacy*F5*WMV;
+Hood of Storms*F2*WMV;
+Hood of Tension;
+Imp Lord's Helm*F3*WMV;
+Novitiate Hat;
+Troubled Helm*F5*WMV;
+Wondershroud;
+
+| robes =
+Armored Tunic*F2;
+Chillcloak;
+Firestorm Vestment;
+Raiment of Storms;
+Robe of All Trades*F2*WMV;
+Robe of the Blizzard*F2*WMV;
+Senior Novice's Robe*F2*WMV;
+Shimmering Cloak*F10*WMV;
+Vestment of Eyus*F4*WMV;
+Vestment of Panic*F3*WMV;
+Vrixx's Verdant Robes*F3;
+
+| boots =
+Cold Forged Boots*F3*WMV;
+Footwraps of Seasons;
+Hardened Boots*F3*WMV;
+Novitiate Boots;
+Sapphyra's Studded Boots*F4*WMV;
+Senior Novice's Shoes;
+Slippers of Excitement*F10*WMV;
+
+| athames =
+Chipped Knife;
+Citrine Studded Athame;
+Onyx Studded Athame*F12*WMV;
+Sapphire Studded Athame*F8*WMV;
+Studded Knife;
+
+| amulets =
+Choker of Swarms*F3;
+
+| rings =
+Engraved Jade Ring;
+Engraved Peridot Ring;
+Engraved Ruby Ring;
+Engraved Sapphire Ring;
+Lord's Signet;
+
+| wands =
+Fairy's Wand;
+Insulated Wand;
+
+| decks =
+
+| items =
+Dark Stone Tower*F2;
+Eye Jar*F5*WMV;
+Myth Stone Pedestal*F7*WMV;
+Prop House 1*F2;
+Sun Banner*F3*WMV;
+
+| cards =
+Blood Bat;
+Cyclops*F13*WMV;
+Dark Sprite;
+Fire Cat*F2;
+Fire Elf;
+Fire Shield;
+Imp*F2;
+Keen Eyes;
+Locust Swarm;
+Myth Shield;
+Pixie*F4*WMV;
+Scarab;
+Snow Serpent;
+Storm Shield*F2;
+Tough*F2*WMV;
+Troll;
+
+| reagents =
+Leather Straps*F5*WMV;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry*F2*WMV;
+Cheese Broccoli*F2;
+Chocolate Strawberry*F2;
+Gummy Firecat*F6*WMV;
+Sugar Donut*F5*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

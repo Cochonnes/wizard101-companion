@@ -1,0 +1,202 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 8,960
+| crecla = Owl
+| school = Ice
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Foul Skirker;
+
+| world = Avalon
+| location = The Wild
+| subloc1 = White Owl Tower
+| lootchest = Kiva White Talon's Chest
+| descrip =
+
+| speech =
+:''"Whooo? By the Horned Crown! How did you make it this far? It matters not. Your quest ends here, Wizard!"''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Vengeance;
+Tower Shield;
+Iceblade;
+Ice Trap;
+Freeze;
+Balefrost;
+Natural Attack (Ice 150-250-445);
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Frostbite;
+Icezilla (650-730);
+Colossus;
+Frost Giant;
+Snow Angel;
+
+| quests =
+Into the Nest;
+
+| gold =
+117 - 199;
+
+| hats =
+Champion of Order's Icy Helm*F5*WMV;
+Chaos Knight's Blazing Helm*F4*WMV;
+Great Faerie Knight Helm;
+Paladin's Frosty Helmet;
+
+| robes =
+Hanging Stones Armor*F4;
+Just Armiger's Armor;
+Kin Bound Robes;
+Knight of the Wyrd Armor*F3*WMV;
+Pixie Dusted Tunic;
+
+| boots =
+Courageous Knight's Boots*F2*WMV;
+Courtly Armored Boots;
+Froudling Creepers;
+Jouster's Footguards;
+Noble Knight's Boots*F4*WMV;
+Whitehaven Boots;
+
+| athames =
+Savage Hunter's Edge*F2*WMV;
+Weirwood's Thorn*F4*WMV;
+
+| amulets =
+Druid's Amulet of Courage*F3*WMV;
+Pendant of Armiger's Tenacity*F4*WMV;
+
+| rings =
+Toasty Band of the Fire Elves*F3*WMV;
+
+| wands =
+Balanced Longbow*F3*WMV;
+
+| decks =
+Argent Rose Deck*F5*WMV;
+
+| items =
+Avalon Main Theme*F2;
+Avalon Owl Stained Glass;
+Avalon Wyrd Theme*F3*WMV;
+Dread Keep Throne;
+Fox Head Statue;
+Grizzleheim Pet Derby Theme;
+Krokotopia Pet Derby Theme;
+Stone Skeleton Key*CR*F4;
+Wise Owl Painting;
+
+| cards =
+Bladestorm*F2*WMV;
+Fire Dragon*F2;
+Frostbite*F3*WMV;
+Frozen Armor*F4*WMV;
+Legion Shield*F4*WMV;
+Medusa;
+Orthrus;
+Power Nova;
+Rebirth;
+Scarecrow*F2*WMV;
+Skeletal Dragon*F2*WMV;
+Snow Angel;
+Steal Ward*F8*WMV;
+Storm Lord;
+Unstoppable*F2*WMV;
+
+| reagents =
+Black Lotus*F4*WMV;
+Bronze;
+Cat Tail*F4*WMV;
+Cobalt*F2*WMV;
+Deep Mushroom*F4*WMV;
+Frost Flower*F3*WMV;
+Lava Lily*F3*WMV;
+Mist Wood*F4*WMV;
+Ore*F3*WMV;
+Parchment*F5*WMV;
+Pearl*F3*WMV;
+Red Mandrake*F5*WMV;
+Shell*F2*WMV;
+Stone Block*F2*WMV;
+
+| spellements =
+
+| snacks =
+Bogwich*F2;
+Cauliflowers*F3*WMV;
+Delicious Cookie*F2;
+Deviled Eggs;
+Glowing Star Fruit;
+Glowing Taffy;
+Golden Apple;
+Golden Grapes*F3;
+Gummy Humongofrog*F3*WMV;
+Gummy Wyrms*F3*WMV;
+King Banana;
+Pigeon Pie;
+Roasted Chickpeas;
+Strawberry Cupcake;
+Submarine Sandwich*F2*WMV;
+Treant Bark*F2;
+Uni-Corn;
+
+| jewels =
+Clear Blocking Jade +10;
+Clear Defense Peridot +37;
+Clear Piercing Onyx +5%;
+Ice Trap Sapphire (Triangle);
+Opaque Damage Citrine +18;
+Opaque Defense Citrine +36;
+Shift Peridot;
+Storm-Giver Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Evil Magma Peas*CR*F3*WMV;
+Pink Huckleberries;
+Red Huckleberries;
+Trumpet Vine;
+Venus Fly Trap;
+White Laugh-O-Dil;
+White Tiger Lily*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

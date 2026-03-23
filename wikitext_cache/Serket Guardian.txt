@@ -1,0 +1,182 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 2,240
+| crecla = Krokotopian
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Karanahn Keeper;
+Karanahn Keeper;
+
+| world = Krokotopia
+| location = Tomb of the Beguiler
+| descrip =
+Like several Creatures in the Tomb of the Beguiler, Serket Guardian can drop Krokotopia and Marleybone Items.
+
+| speech =
+:''"Who dares to slay Serket! That spider was the favored pet of Ngozi the Beguiler! You will pay dearly for such insolence!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 125 Storm Damage per Pip.
+
+| casts =
+Weakness;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Elf (30+273);
+Evil Snowman (Storm);
+Storm Shark;
+Squall Wyvern;
+Leprechaun;
+Cyclops;
+
+| quests =
+In the Doghouse;
+
+| gold =
+17 - 29;
+
+| hats =
+Affable Cowl;
+Conventional Cap;
+Cowl of Diplomacy*F2*WMV;
+Cowl of Respect;
+Cowl of the Consummate;
+Debonair Cap;
+Finely Finished Mask;
+Headwrap of the Affected*F5*WMV;
+Helm of Intolerance*F2*WMV;
+Helm of the Citadel*F2*WMV;
+Masterful Canine Cowl*F2;
+Smooth Spun Hat;
+Sphinx's Circlet;
+Stout Hood;
+Sturdy Hood;
+Stylish Hat;
+Theurge's Hat*F2*WMV;
+Threadbare Hood*F2*WMV;
+
+| robes =
+Distressing Garment;
+Dusty Robe;
+Powerful Vestment;
+Robe of Paramount;
+Robe of the Mirage;
+Skillful Cloak;
+Sturdy Robe;
+Theurge's Brown Cloak;
+Vest of the Desert;
+Vestment of Ignition*F2;
+
+| boots =
+Biti Nirini's Torrid Boots;
+Boots of Sparking Energy*F2;
+Boots of Talent;
+Boots of the Citadel*F2*WMV;
+Cat Burglar's Shoes;
+Footwraps of Dreamland*F2;
+Pastoral Boots*F2*WMV;
+Sandals of Tall Tales;
+Shoes of Anxiety;
+Shoes of Bottled Anger*F3*WMV;
+Shoes of Humanity;
+Shoes of Mortality;
+Shoes of the Breakneck*F2*WMV;
+Shoes of the Desert;
+Slippers of Definition*F2*WMV;
+
+| athames =
+Athame of Chivalry*F3*WMV;
+Conventional Dagger;
+Dirk of Harmony*F2*WMV;
+Dirk of Nobles;
+Graceful Stiletto;
+
+| amulets =
+
+| rings =
+Band of Equilibrium;
+Ring of Rejuvenation;
+Ring of the Badlands;
+
+| wands =
+
+| decks =
+
+| items =
+Hieroglyphic Ice Tablet;
+Hieroglyphic Storm Tablet;
+Krok Insect Tablet*F2*WMV;
+Krok Moon Tablet;
+Krokotopia Pet Derby Theme*F3*WMV;
+Raised Storm Sarcophagus;
+Tall Palm Tree*CR*F2;
+
+| cards =
+Krokotillian*F4*WMV;
+Mutate Beetle (Fire);
+Sunbird;
+
+| reagents =
+Bronze Gear;
+Iron*F2;
+Nickel;
+Spider Silk;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Cracker*F2*WMV;
+Green Grapes*F2;
+Medium Fish;
+Nettle Root;
+Redskin Peanut*F2;
+Square Watermelon;
+Stinky Cheese;
+Tiny Fish*F2*WMV;
+
+| jewels =
+Chipped Accurate Citrine +3%;
+Chipped Accurate Jade +3%;
+Cracked Damage Amethyst +5;
+Cracked Damage Sapphire +5;
+Thermic Shield Amethyst;
+
+| pins =
+
+| pets =
+Green Cat Thug*CR;
+
+| seeds =
+Alligator Pear Tree;
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

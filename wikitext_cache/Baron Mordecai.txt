@@ -1,0 +1,331 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,600
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Life;
+
+| incresist =
+50% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Loathsome Creeper;
+
+| world = Wizard City
+| location = Triton Avenue
+| subloc1 = Mordecai's Tower
+| descrip =
+During {{Link|Basic|Hallowe'en}}, Baron Mordecai can be found in Mordecai's Tower.  The Baron is accompanied by a single Loathsome Creeper when one or two Wizards enter the tower, but adds a pair of {{Link|Creature|Crypt Walker}}s when  more than two Wizards are present.
+
+| speech =
+:''"Living one. . . never should you have come to this place.  When I defeat you, you will live in a nightmare from which there is no end. . . no escape!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+Ere once he reigned, the Baron of Nightmare fright; he's ne'r to rest without The Amulet of Night... Because you gave it to Jack Hallow.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Vampire;
+Thunder Snake;
+Snowsnake;
+Snow Serpent;
+Sunbird;
+Natural Attack (Fire 100x);
+Heck Hound;
+
+| quests =
+Baron of Nightmares;
+
+| gold =
+19 - 50;
+
+| hats =
+Boo Pumpkin Mask*CR*HOL;
+Cap of the Archivist*F2*WMV;
+Cap of the Oasis*F5*WMV;
+Conjurer's Hat*F3*WMV;
+Cool Pumpkin Mask*CR*HOL;
+Cowl of the Necromancer*F2;
+Cyclone Coif*F2;
+Cyclops Pumpkin Mask*CR*HOL;
+Durable Hood*F6*WMV;
+Frostflower Cap;
+Goofy Pumpkin Mask*CR*HOL;
+Hallowe'en Hat*CR*HOL;
+Happy Pumpkin Mask*CR*HOL*F2;
+Hat of the Ever Watchful*F3*WMV;
+Headdress of the Grove*F2;
+Headdress of the Phoenix*F2*WMV;
+Headgear of the Absolute*F2*WMV;
+Helm of the Bastion*F4*WMV;
+Helm of the Cyclone*F2*WMV;
+Hood of Ashes;
+Hood of the Tempest*F2*WMV;
+Icefire Hood;
+Kitty Pumpkin Mask*CR*HOL;
+Librarian's Mantle;
+Mantle of Growth*F3*WMV;
+Mask of Proportions*F3;
+Scary Pumpkin Mask*CR*HOL;
+Veil of the Guardian;
+
+| robes =
+Cloak of Mortality*F2*WMV;
+Cloak of Refuge*F6*WMV;
+Gardener's Smock*F3*WMV;
+Glacial Tunic*F6*WMV;
+Hallowe'en Robe*CR*HOL;
+Mummy Costume Bodywraps*CR*HOL;
+Ninja Pig Robe*CR*HOL;
+Raiment of the Badlands*F4*WMV;
+Robe of Talent*F2*WMV;
+Robe of the Conflagration;
+Robes of the Ice Queen;
+Runed Vestment*F8*WMV;
+Sorcerer's Robe;
+Sphinx's Vestment*F4*WMV;
+Tunic of Energy*F5*WMV;
+Tunic of Mortality*F6*WMV;
+Tunic of the Whirlwind*F3*WMV;
+Vampire Costume Coat*CR*HOL*F2;
+Vestment of Fable;
+Vestment of the Arctic*F2*WMV;
+Vestment of the Howling Wind*F2*WMV;
+
+| boots =
+Ancient Sandals*F8*WMV;
+Blackhope's Ice Shoes;
+Boots of Imagination*F3*WMV;
+Boots of the Citadel*F2*WMV;
+Boots of the Cyclone*F6*WMV;
+Boots of the Hurricane;
+Boots of the Nucleus;
+Cryptkeeper's Shoes*F5*WMV;
+Crystalline Footwraps*F3*WMV;
+Footgear of the Forgotten;
+Footwraps of the Whirlwind;
+Hallowe'en Shoes*CR*HOL;
+Mocassins of the Embers*F3*WMV;
+Mocassins of the Healer;
+Mocassins of the Polar Ice*F2;
+Mummy Costume Footwraps*CR*HOL;
+Mythmaker Boots;
+Ninja Pig Shoes*CR*HOL;
+Sandals of Sleet*F3*WMV;
+Sandals of the Remortal;
+Sandals of the Shaman;
+Shoes of Adaptation*F6*WMV;
+Shoes of Annihilation*F3*WMV;
+Slippers of Deftness;
+Slippers of the Quiet*F2;
+Sunwalkers*F2*WMV;
+Talespinner's Footgear*F2*WMV;
+Vampire Costume Boots *CR*HOL;
+Vestment of Fable;
+
+| athames =
+Ancient Kris;
+Dagger of Solitude*F4*WMV;
+Dirk of the Daring;
+Dirk of the Wasteland*F6*WMV;
+Indomitable Knife*F2*WMV;
+Parched Kris;
+Powerful Stiletto*F4*WMV;
+Whirlwind Dagger*F3*WMV;
+
+| amulets =
+
+| rings =
+Band of the Mirage*F2*WMV;
+Dragontooth Ring;
+Glimmering Band*F2;
+Lavastone Ring;
+Ring of the Badlands*F8*WMV;
+Sparkling Band*F5*WMV;
+
+| wands =
+Lollipop Wand*HOL;
+Mean Pumpkin Staff*CR*HOL*F3;
+Sad Pumpkin Staff*CR*HOL;
+Silly Pumpkin Staff*CR*HOL*F3;
+Witch's Broom*CR*HOL*F2;
+
+| decks =
+
+| items =
+Dead Briar Tree*F3*WMV;
+Dead Tree*F6*WMV;
+Dragonspyre Ruins*F2*WMV;
+Spooky Bob*CR*HOL;
+Wraith Statue*F3*WMV;
+
+| cards =
+Dragonflies*F2;
+Pest Zapper;
+
+| reagents =
+Bone*F9*WMV;
+Brass;
+Copper*F8*WMV;
+Iron*F8*WMV;
+Lead*F5*WMV;
+Nickel*F5*WMV;
+Pyrite;
+Tin*F5;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry*F5*WMV;
+Cheese Broccoli*F2;
+Chocolate Strawberry*F5*WMV;
+Cracker*F5*WMV;
+Flaming Soup*F4*WMV;
+Goat Cheese*F4*WMV;
+Golden Grapes*F6*WMV;
+Green Grapes;
+Gummy Firecat*F5*WMV;
+Gummy Humongofrog*F4*WMV;
+King Banana*F6*WMV;
+Nettle Root*F3*WMV;
+Sugar Donut*F4*WMV;
+Tiny Fish*F3*WMV;
+
+| jewels =
+Adroit Opal;
+Balance-Boon Citrine;
+Banana Peel Opal;
+Blemished Defense Amethyst +22;
+Blemished Defense Jade +22;
+Blemished Defense Onyx +22;
+Blemished Defense Peridot +22*F2*WMV;
+Blemished Defense Ruby +22;
+Blemished Defense Sapphire +22;
+Blemished Health Opal +42;
+Blemished Mana Opal +20;
+Blemished PIP Opal +4%;
+Boost Opal;
+Chipped Damage Opal +4;
+Chipped Defense Jade +13;
+Chipped Defense Onyx +13;
+Chipped Defense Ruby +13;
+Chipped Defense Sapphire +13*F2;
+Chipped Health Opal +17;
+Chipped Health Opal +18;
+Chipped Health Opal +19;
+Chipped Mana Opal +10;
+Chipped Mana Opal +11;
+Chipped Mana Opal +12;
+Chipped PIP Opal +1%;
+Clay Post Opal;
+Clear Path Opal;
+Cracked Damage Amethyst +6;
+Cracked Damage Citrine +6;
+Cracked Damage Jade +6*F2*WMV;
+Cracked Damage Onyx +6;
+Cracked Damage Ruby +6;
+Cracked Damage Sapphire +6;
+Cracked Defense Opal +5;
+Cracked Defense Opal +6;
+Dawdle Opal;
+Death-Away Onyx;
+Death-Boon Onyx;
+Dream Shield Onyx;
+Dull Critical Citrine +2;
+Dull Critical Jade +2;
+Dull Critical Opal +1;
+Dull Critical Ruby +2;
+Dull Critical Sapphire +2;
+Exhaust Opal;
+Fire Elf Ruby;
+Fire-Away Ruby;
+Fire-Eye Ruby;
+Fire-Giver Ruby;
+Flawed Healing Opal +2%*F2;
+Flawed Resilient Opal +2%;
+Freeze Frame Opal;
+Ghoul Onyx;
+Glacial Shield Ruby;
+Gold Miner Opal;
+Huge Energy Opal;
+Ice-Giver Sapphire;
+Intrepid Opal;
+Legend Shield Jade;
+Life-Eye Jade;
+Lightning Bats Amethyst;
+Myth Trap Peridot (Triangle);
+Myth-Giver Peridot;
+Myth-Proof Peridot;
+Pip O'Plenty Opal;
+Recovery Opal;
+Restore Opal;
+Rugged Opal;
+Scoot Opal;
+Scorpion Citrine;
+Silence Opal;
+Snow Serpent Sapphire;
+Super-Stall Opal*F2;
+Troll Peridot;
+Weakness Citrine;
+Wisp Bonus Opal;
+
+| pins =
+
+| pets =
+Black Cat*CR*HOL;
+Blue Cat Thug*F4*WMV;
+Ghost Dragon*CR*HOL;
+Greater Imp*F5*WMV;
+Nightmare *CR*HOL;
+
+| seeds =
+Deadly Fly Trap;
+Fiery Boom Shroom;
+King Parsley*CR*F2*WMV;
+Maelstrom Snap Dragon*F2;
+Pink Dandelion*CR*F3;
+White Laugh-O-Dil*F2;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,126 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,280
+| crecla = Lion
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Myth;
+
+| incresist =
+70% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Savage Pride Lion;
+
+| world = Zafaria
+| location = Stone Town
+| subloc1 = Kasbah of Zanj
+| descrip =
+This Darkmane Lion is being controlled by {{Link|Creature|Zola Witch Eye}}, and Diviners will need to free him from her will during their Level 75 Minion Quest, Heavy With Rain.
+
+| speech =
+:''"Monkey, you stand before the fury of the sky!  I call the thunder and lightning to prey upon you!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown amount of Storm Damage
+
+| casts =
+Myth Shield;
+Sprite;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Shark;
+Kraken;
+Tempest;
+Vampire;
+Heck Hound;
+
+| quests =
+Heavy With Rain;
+
+| gold =
+40 - 48;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Centaur*F2*WMV;
+Colossus;
+Helephant;
+Hydra;
+Ice Wyvern;
+Triton;
+Wraith*F2*WMV;
+
+| reagents =
+Black Lotus;
+Cat Tail;
+Deep Mushroom;
+Mist Wood;
+Parchment;
+Red Mandrake;
+Shell;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F2*WMV;
+Flaming Soup;
+Golden Grapes*F2*WMV;
+Gummy Humongofrog;
+King Banana;
+Salmonberry;
+Shiny Tomato;
+Uni-Corn;
+
+| jewels =
+Colossus Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,208 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 26,260
+| crecla = Golem
+| school = Death
+| school2 = Balance
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+71 Death, Balance;
+
+| criticalblock =
+658 Any;
+
+| outpierce =
+19% Balance, Death;
+
+| outboost =
+100% Balance, Death;
+
+| incboost =
+30% Life;
+
+| incresist =
+49% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+79% Death;
+
+| outhealing =
+40%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+
+| world = Darkmoor
+| location = Graveholm
+| subloc1 = Secret Lab (Standard)
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Darkmoor
+| tome description =
+A crude assemblage of necrotic body parts. Like a monster made by some sort of doctor, possibly named Frank.
+
+Monsters made from monsters by a monster. It's a living monster mash!
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| can expel = No
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Manipulation}} ''"You cannot kill the undying"'' - At the beginning of the first Round, each Gray Man Golem will receive a {{Link|Spell|Guardian Spirit}} effect.
+*{{Icon|Round}} ''"Magic mine... your power... mine!"'' - At the end of each Round, if there is at least one Wizard with a Positive Charm, a Gray Man Golem will target a random Wizard and receive a number of Power Pips depending on the amount of Positive Charms.
+** 1 or 2 Charms = 1 Power Pip
+** 3 Charms = 3 Power Pips
+** 4+ Charms = 4 Power Pips
+*{{Icon|Round}} ''"Pain... makes... power!"'' - At the beginning of each Round, if a Gray Man Golem is not at full health, it will cast a special version of {{Link|Spell|Bladestorm}} that increases in value the lower his Health is.
+** The minimum Blade value is 20% and the maximum Blade value is 100%. If the Blade is 100%, it will also be Protected.
+** If there are multiple Gray Man Golems under full Health, the value of the Blade will be based on the first one in the duel circle. This cheat will only activate one per Round, regardless of how many Gray Man Golems are in the battle.
+** Further testing is required to determine Blade values between the minimum and maximum and their corresponding HP thresholds.
+
+| spellnotes =
+If a Wizard reaches six or more Blades, Gray Man Golem will target them with Scarecrow (Tier 2b), transforming six Blades into negative Damage Charms.
+
+| casts =
+Threefold Fever;
+Weakness;
+Deathblade (+40%);
+Balanceblade;
+Tomb Blade;
+Empower;
+Dream Golem (Tier 2b);
+Grim Reader;
+Sorrow's Shadow;
+Scarecrow (Tier 2b);
+Desert Banshee;
+Skeletal Raider;
+Power Nova;
+Tribunal Oni;
+Judgement;
+
+| quests =
+Parliament Parler;
+Gray Robber;
+
+| gold =
+0 - 20;
+
+| hats =
+
+| robes =
+Chilling Abomination Suit;
+Doomed Abomination Suit;
+Mythic Abomination Suit;
+Sanguine Abomination Suit;
+Scary Abomination Suit;
+Scholomantic Death Raiment;
+Scholomantic Destructive Armor;
+Scholomantic Devilish Raiment;
+Scholomantic Fortune Raiment;
+Scholomantic Justice Raiment;
+Scholomantic Strength Raiment;
+Scholomantic Worldly Raiment;
+Shocking Abomination Suit;
+Tense Abomination Suit;
+
+| boots =
+
+| athames =
+Chilling Abomination Athame;
+Doomed Abomination Athame;
+Mythic Abomination Athame;
+Sanguine Abomination Athame;
+Scary Abomination Athame;
+Scholomantic Death Knife;
+Scholomantic Destructive Knife;
+Scholomantic Devilish Knife;
+Scholomantic Fortune Knife;
+Scholomantic Justice Knife;
+Scholomantic Strength Knife;
+Scholomantic Worldly Knife;
+Shocking Abomination Athame;
+Tense Abomination Athame;
+
+| amulets =
+
+| rings =
+ 
+| wands =
+
+| decks =
+Chilling Abomination Box;
+Doomed Abomination Box;
+Mythic Abomination Box;
+Sanguine Abomination Box;
+Scary Abomination Box;
+Scholomantic Death Deck;
+Scholomantic Destructive Deck;
+Scholomantic Devilish Deck;
+Scholomantic Fortune Deck;
+Scholomantic Justice Deck;
+Scholomantic Strength Deck;
+Scholomantic Worldly Deck;
+Shocking Abomination Box;
+Tense Abomination Box;
+
+| items =
+
+| cards =
+
+| reagents =
+Outsider Relic @ 5 Outsider Relic;
+Outsider Relic @ 6 Outsider Relic;
+
+| spellements =
+Anubis;
+Barbarian's Saga;
+Blast Off!;
+Chameleon Clash;
+Dark & Stormy;
+Deathly Depths;
+Gravestorm;
+Old One's Endgame;
+Phantasmania!;
+Rainbow Serpent;
+Shu;
+The Chariot;
+The Emperor;
+The Tower;
+The World;
+Wheel of Fortune;
+
+| snacks =
+
+| jewels =
+Bright Health Amethyst +560;
+Flawless Mending Opal +8%;
+Unearthly Blocking Peridot +49;
+Unearthly Blocking Ruby +52;
+
+| pins =
+Balance Crushing Pin (180, Death);
+Storm Punishing Pin (180, Death);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

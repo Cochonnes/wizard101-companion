@@ -1,0 +1,206 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,360
+| crecla = Samoorai
+| school = Balance
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+17% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Imitsu Retainer;
+
+| world = MooShu
+| location = Shirataki Temple
+| descrip =
+'''Note''': KI developers have confirmed that the ''Samoorai'' Spell no longer drops here after the Summer 2022 Update.
+*Wizards will have to defeat Shoji for the key to the gate leading to {{Link|NPC|Din Ho}} during the Quest, River Temple.
+
+| speech =
+:''"You seek a way through that gate? Forget your quest, Wizard! Here you will only feel the sting of a Ronin blade!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Life Damage per Pip.
+
+| casts =
+Elemental Shield;
+Weakness;
+Black Mantle;
+Balanceblade;
+Hex;
+Scarab;
+Scorpion;
+Locust Swarm;
+Sandstorm;
+Evil Snowman;
+Vampire;
+Minotaur;
+
+| quests =
+River Temple;
+
+| gold =
+59 - 82;
+
+| hats =
+Cap of Exertion*F3*WMV;
+Cap of Song;
+Cap of the Verse;
+Cap of Tribulations*F2;
+Cowl of Cooperation;
+Enlivened Cowl;
+Engrossed Hat;
+Euphonic Cap*F3*WMV;
+Gogi Berry Stained Cap*F6*WMV;
+Hat of the Lotus;
+Heedful Headwraps*F4*WMV;
+Industrial Helm;
+Mask of the Chipper*F4*WMV;
+Shoji's Shroud of Disorder*F4*WMV;
+Shroud of Chants;
+Shroud of Music;
+Shroud of the Opus;
+
+| robes =
+Cloak of Charity*F2;
+Cloak of Pictures*F3*WMV;
+Concordant Robes;
+Gallant Tunic*F2*WMV;
+Garments of Unrest;
+Industrial Uniform*F2;
+Nunu's Twisted Uniform;
+Problematic Tunic;
+Quick-Witted Vestment*F2;
+Robe of the Lithe;
+Robe of the Verse*F2;
+Shoji's Precautionary Robe*F3*WMV;
+Vestment of Arias*F2;
+Vestment of Hymns*F5*WMV;
+Vestment of Niceties*F2;
+
+| boots =
+Boots of the Verse*F4*WMV;
+Druidic Sandals*F2;
+Footwraps of Charity;
+Footwraps of Generations;
+Footwraps of Predicament*F2*WMV;
+Immersive Sandals*F2*WMV;
+Proficient Shoes;
+Sandals of the Universe;
+Shoes of Deliberation*F3*WMV;
+Shoes of Dreaming*F3*WMV;
+Shoes of Hinderance*F2*WMV;
+Shoji's Shoes of Pondering*F2*WMV;
+Slippers of the Lotus;
+
+| athames =
+Dagger of Detachment*F2*WMV;
+Dagger of Soul-Searching*F2*WMV;
+Knife of Preoccupation*F2*WMV;
+Shoji's Athame*F3*WMV;
+Shortsword of Scrutiny*F2;
+
+| amulets =
+
+| rings =
+Band of Sandcastles*F4*WMV;
+Ring of Regard;
+Shoji's Ring of Pondering*F3*WMV;
+
+| wands =
+Kagemoosha's Citrine Blade*F3*WMV;
+
+| decks =
+Shoji's Deck of Aspirations*F3*WMV;
+
+| items =
+Crane Tablet*F3*WMV;
+Decorative Stone Pagoda*F3*WMV;
+Dirt Pile;
+Solar Obelisk;
+Tall Boulder;
+Tan Samoorai Armor*F6*WMV;
+
+| cards =
+Balefrost*F2*WMV;
+Cloak*F2;
+Ice Wyvern;
+Monstrous;
+Pest Zapper;
+Sanctuary;
+Satyr*F2*WMV;
+
+| reagents =
+Bronze Gear*F4*WMV;
+Copper*F3*WMV;
+Lead;
+Leather Straps*F8*WMV;
+Mist Wood;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F4*WMV;
+Crunch Apple;
+Fire Cracker*F2*WMV;
+Golden Peanut*F2;
+Golden Squash;
+Large Fish*F2;
+Large Watermelon*F2;
+Square Root*F3*WMV;
+
+| jewels =
+Blemished Defense Amethyst +21;
+Blemished Defense Jade +21;
+Blemished Defense Onyx +21;
+Blemished Defense Peridot +21*F2;
+Blemished Defense Ruby +21;
+Blemished Health Opal +36;
+Flawed Accurate Amethyst +4%;
+Flawed Accurate Sapphire +4%;
+Flawed Damage Opal +5*F2;
+Flawed Mending Opal +2%;
+Forceful Opal;
+Intrepid Opal;
+Move It! Opal;
+Myth-Away Peridot;
+Pip O'Plenty Opal;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig*F2*WMV;
+Fiery Boom Shroom*F3*WMV;
+Maelstrom Snap Dragon*F4*WMV;
+Ninja Fig*CR;
+Pink Dandelion*CR*F5*WMV;
+White Laugh-O-Dil*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

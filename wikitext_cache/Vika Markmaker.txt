@@ -1,0 +1,161 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 3,600
+| crecla = Undead
+| school = Myth
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Ancient Crystalweaver;
+
+| world = Dragonspyre
+| location = The Crystal Grove
+| descrip =
+Vika Markmaker is a spirit that resides in The Crystal Grove.  She kidnapped {{Link|NPC|Zarek Pickmaster}}'s pet spider, {{Link|NPC|Cinder}}.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+She enjoys stealing pets and hanging out in pet cemeteries.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Storm Shield;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Cyclops;
+Humongofrog;
+Minotaur;
+Earthquake;
+Scorpion;
+Sunbird;
+Storm Shark;
+
+| quests =
+Piper of Dragonspyre;
+
+| gold =
+107 - 123;
+
+| hats =
+Bonfire Headdress;
+Cap of Chronicles;
+Cowl of Morbidity;
+Hat of the Endless*F3*WMV;
+Headdress of Refutation*F3;
+Hood of Hibernation*F2*WMV;
+Ivy-Wrapped Cap;
+Markmaker's Cyclonic Coif;
+Markmaker's Veil;
+Triton's Topper;
+
+| robes =
+Markmaker's Drape of the Fount*F3*WMV;
+Markmaker's Tall Tale Tunic*F2*WMV;
+Terminus Wrap;
+Tunic of the Sphinx*F2*WMV;
+Vestment of the Spring*F2;
+Wrap of the Monsoon*F2;
+
+| boots =
+Boots of the Bountiful;
+Markmaker's Inferno Striders*F2;
+Markmaker's Windwalkers*F2;
+Rainstorm Waders;
+Sandals of Lost Aeons;
+Stormbreaker Sandals;
+Vineyard Shoes*F2;
+
+| athames =
+Dragon's Claw Blade*F3*WMV;
+
+| amulets =
+
+| rings =
+Band of the Hearth;
+Oroboros Band;
+Ring of Dominance;
+Seal of the Saga;
+
+| wands =
+
+| decks =
+
+| items =
+Hydra Statue*F3;
+Plundered Crystal Rack*F4*WMV;
+
+| cards =
+
+| reagents =
+Brass*F2;
+Cobalt;
+Leather Straps*F6*WMV;
+Spider Silk*F3*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Goat Cheese*F2;
+Golden Grapes;
+Gummy Humongofrog*F3;
+King Banana;
+
+| jewels =
+Blemished Damage Citrine +12;
+Dull Critical Amethyst +4;
+Dull Damage Amethyst +13;
+Dull Defense Opal +14;
+Effervescent Opal;
+Sanctuary Jade;
+
+| pins =
+
+| pets =
+
+| seeds =
+White Laugh-O-Dil
+
+| mounts =
+
+| spells =
+
+}}

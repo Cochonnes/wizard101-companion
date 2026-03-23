@@ -1,0 +1,99 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 17,000
+| crecla = 
+| school = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical = 450
+| criticalblock = 400
+
+| outpierce =
+35%;
+
+| outboost =
+145%;
+
+| incboost =
+None;
+
+| incresist =
+55% Ice, Death;
+85% Fire, Storm, Myth, Life, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions = 
+
+| world = Raid
+| location = Voracious Void
+| subloc1 = Health Haven
+| descrip =
+This Boss is hidden behind a set of 4 ritual objects that resemble green crystals. Using {{Link|Spell|Magic Touch}} on the crystals will reveal this Boss. It guards the {{Link|Spell|Retribution}} inspired cast for the Vanguard Team for the fight with {{Link|Creature|The Nullity}}.
+
+| speech =
+
+| cheatnotes =
+*At the end of every Round, Thundering Elf will cast {{Link|Spell|Power Current}} on itself.
+
+| spellnotes =
+
+| casts =
+Galvanic Field;
+Supercharge;
+Elemental Blade;
+Sound of Musicology;
+Dark & Stormy;
+Thundering Jinn;
+Rain of Torrence;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins = 
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

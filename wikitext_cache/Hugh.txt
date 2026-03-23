@@ -1,0 +1,137 @@
+{{Stub|trigger for the last cheat}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 22,005
+| crecla = Kangaroo
+| school = Life
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+19%;
+
+| outboost =
+98%;
+
+| incboost =
+30% Death;
+
+| incresist =
+41% Fire, Ice, Storm, Myth, Balance, Shadow;
+71% Life;
+
+| outhealing =
+31%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Jack;
+Mann;
+
+| world = Wallaru
+| location = Eucalyptus Forest
+| subloc1 = Hex-Mangrove
+| descrip =
+For the purpose of drops, Hugh is considered a Boss. All drops are recorded on this page.
+
+| speech =
+:'''{{Link|NPC|Todd}}:''' ''"But we didn't drink from the Lake, we swear!"''
+:'''{{Link|NPC|Professor Hex}}:''' ''"You did worse! And you will pay... but oh, what vagrant thoughts intrude upon my own? Such a strange. Impenetrable. Noisy, but indecipherable. I don't care for it. To me, my Hex-Men! Destroy them!"''
+
+| cheatnotes =
+'''Hugh''':
+*{{Icon|All Friends (Squared)}}{{Icon|Heal}} ''"Play for them their swan song!"'' - If a Wizard casts an all allies Healing Spell, Hugh will cast {{Link|Spell|Sirens}} on the casting Wizard.
+*{{Icon|Manipulation}} ''"You want to surrender your pips!"'' - At the end of the 3rd Round, Hugh will cast a Balance version of {{Link|Spell|Steal Pips}}, stealing 3 Pips from and dealing 80 Damage per Pip to a random Wizard.
+
+'''Jack''':
+*{{Icon|Spell}} ''"Time to bear the claws!"'' - If a Wizard casts a Rank 7 Spell or higher, Jack will cast {{Link|Spell|Shift Chaney}} on the casting Wizard.
+*{{Icon|Health}} ''"Quickly, use your accelerated healing."'' - When Jack reaches below 80% Health, he will cast a Life Spell that restores protected '''10,000''' Health over 10 Rounds on himself.
+
+'''Mann''':
+*{{Icon|Blade}} {{Icon|Global}} ''"I am the Master of Mentalism."'' - If a Wizard casts a Blade or Global, Mann will cast a {{Link|Spell|Fireblade}} on himself.
+*{{Icon|Heal}} ''"Behold, the power of illusion!"'' - Unknown Trigger: Mann will cast {{Link|Spell|Pigsie}}.
+
+| spellnotes =
+*Casts a Mass version of Hex.
+
+| casts =
+Conviction;
+Minor Blessing;
+Rebirth;
+Life Feint;
+Hex;
+Sacred Charge;
+Spirited Minotaur (Life);
+Eternal Leviathan;
+King Artorius (Life);
+
+| quests =
+The Uncanny Rally;
+
+| gold =
+1 - 13;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Ornate Desk;
+
+| cards =
+Dr. Von's Monster*F2;
+Sirens;
+Skeletal Dragon;
+Storm Owl;
+Woolly Mammoth;
+
+| reagents =
+Amber Dust;
+Platinum;
+Steel;
+Titanium;
+
+| spellements =
+
+| snacks =
+Atomic Fireball;
+Cowboy Chili;
+Kiwi Fruit;
+Mince Pie;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

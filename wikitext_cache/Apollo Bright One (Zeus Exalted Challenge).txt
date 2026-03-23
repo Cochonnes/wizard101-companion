@@ -1,0 +1,110 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 19,200
+| crecla = Eagle
+| school = Life
+| masteries =
+Fire;
+
+| cheats = Yes
+| shadowslots = 1
+| startpips = 7
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+25%;
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Zeus Exalted Challenge
+| subloc1 = 
+| descrip =
+This Boss is considered a Minion to {{Link|Creature|Zeus Sky Father (Zeus Exalted Challenge)}}.  All drops should be recorded on that page.<br/>*Either Apollo or Hades the Unseen (Zeus Exalted Challenge) will spawn to occupy the duel circle's third spot.
+
+| cheatnotes =
+*''"Wither under the Sun's rage!"'' / ''"The Seas boil beneath the angry Sun!"'' At the beginning of the first Round, Apollo will cast his Natural Attack that deals Damage to all Wizards, then gives DoT to all Wizards, and healing over time to all Bosses.
+*''"The light shines upon those who share it."'' - If any type of AoE [[:Category:Healing Spells|Healing]] Spell is used, Apollo will give the Wizard who cast the spell a Guiding Light (+40%).
+**Pet heals will also trigger this cheat.
+*''"You try to smite an Immortal?”'' - If a Boss is either defeated or reduced to very low health, Apollo will cheat-cast {{Link|Spell|Eternal Leviathan (777)}} on the Wizard that cast the attack, reviving any defeated Bosses.
+
+| spellnotes =
+
+'''Natural Attack:'''
+*Deals 30 then 780 Fire Damage over 3 Rounds to all Wizards and 525 Heal to all Bosses over 3 Rounds.
+
+| casts =
+Cycle of Life;
+Guiding Light;
+Lifespear (+10%);
+Brilliant Light;
+Rebirth;
+Lifeblade (+40%);
+Life Trap;
+Fuel;
+Steal Charm;
+Hungry Caterpillar;
+Forest Lord;
+Gnomes!;
+Natural Attack (Apollo);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

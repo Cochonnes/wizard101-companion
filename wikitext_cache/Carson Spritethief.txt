@@ -1,0 +1,216 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 7,927
+| crecla = Wizard
+| school = Life
+| startpips = 2
+| powerpips = Yes
+| critical =
+80 Ice;
+90 Life;
+
+| criticalblock =
+20 Any;
+87 Life;
+100 Ice;
+
+| outpierce =
+
+| outboost =
+55% Life;
+60% Ice;
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+37%;
+
+| inchealing =
+39%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Rubble Rouser;
+
+| world = Celestia
+| location = The Floating Land
+| subloc1 = Mysterious Cave (Celestia)
+| descrip =
+Carson Spritethief is one of the members of the Carpe Diem Society who has been possessed by "''The Book of Lost Pages''".  Wizards must rescue him during the [[Basic:The Lost Pages|Lost Pages Event]].
+
+*Carson Spritethief has the following Items equipped:
+**{{Link|Item|Helm of Pure Ice}}
+**{{Link|Item|Armor of Pure Ice}}
+**{{Link|Item|Footguards of Pure Ice}}
+**{{Link|Item|Mako's Pure Blade}}
+
+*Carson Spritethief has the following stats.
+**Carson Spritethief starts combat with a Base Health of 7,805 and an additional 122 {{Icon|Health}} making his max Health 7,927.
+**+15% {{Icon|Life}} +13% {{Icon|Ice}} {{Icon|Accuracy}}
+
+*Additional Minions:
+**Two additional Rubble Rouser Minions appear if more than two Wizards are present.
+
+| speech =
+:''"All the flowers of spring will not be strong enough to cloak the smell of your grave! Come, Wizard, let me return you to the earth!"''
+
+| spellnotes =
+
+| casts =
+Satyr;
+Regenerate;
+Lifeblade;
+Life Trap;
+Rage:0;
+Luminous Weaver;
+Nature's Wrath;
+Goat Monk;
+Life Banshee (250);
+Spirited Minotaur (Life);
+Centaur;
+
+| quests =
+Semi-Charmed Life;
+Vanitas Vanitatum;
+
+| dropnotes =
+[[Item:Dragon's Hoard Pack|Dragon's Hoard Equipment]] and the [[Mount:Bone Dragon|Bone Dragon Mount]] will only drop for Wizards under Level 60.
+
+| gold =
+47 - 113;
+
+| hats =
+Cap of Catastrophe*F2*WMV;
+Headdress of the Heart*F2*WMV;
+Helm of Ordeal;
+Innate Cap;
+Riddled Hood;
+Shroud of Cinders;
+Thundercracked Cover;
+Tinder Topper;
+Turbulent Topper;
+Wintergale Headwrap;
+
+| robes =
+Brimstone Tunic*F2*WMV;
+Celestian Frostbit Armor;
+Chilled Clothing;
+Corrupt Jerkin;
+Drape of Dissonance;
+Festive Costume*F4*WMV;
+Iced Outfit*F2;
+Stormy Surcoat*F2*WMV;
+Vital Vestment;
+Whispering Raiment;
+
+| boots =
+Chilled Clogs;
+Corrupt Deathstriders;
+Dragonrider's Utility Boots (Level 10+)*CR;
+Medley Mukluks;
+Merry Mukluks;
+Runners of Resolution;
+Stormy Shoes*F4*WMV;
+Whispering Runners;
+
+| athames =
+Curing Claw*F2*WMV;
+Dagger of Redemption;
+Engineer's Knife;
+Sliver of Regret*F3*WMV;
+Storied Stiletto*F2*WMV;
+
+| amulets =
+
+| rings =
+Piscean Ring;
+Ring of Reasoning;
+Ring of Redemption*F2*WMV;
+Seal of Ordeal*F5*WMV;
+Storied Signet*F3*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Celestian Shield*F3*WMV;
+Dragon Claw;
+Dragon Shield;
+Dragonfire Brazier*F2*WMV;
+Dragonmoon Plaque;
+Tall Dragon Vase*F2*WMV;
+
+| cards =
+Accurate*F2*WMV;
+Amplify*F6*WMV;
+Dragonblade (Balance)*F2*WMV;
+Dragonflies*F2*WMV;
+Fire Dragon*F2;
+Fire Elf;
+Giant*F3*WMV;
+Pest Zapper;
+Precision;
+Sniper;
+Sprite*F2*WMV;
+Squall Wyvern;
+Time of Legend;
+Troll;
+
+| reagents =
+Brass;
+Cobalt;
+Copper;
+Lead;
+Nickel*F2*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Delicious Cookie*F2*WMV;
+Flaming Soup*F3*WMV;
+Frosted Drakes Cereal*F3*WMV;
+Glowing Star Fruit*F2*WMV;
+Glowing Taffy*F2;
+Goat Cheese*F5*WMV;
+Golden Apple*F3*WMV;
+Golden Grapes*F2;
+Spicy Drumstick;
+Strawberry Cupcake*F3*WMV;
+Submarine Sandwich*F2*WMV;
+
+| jewels =
+Dull Accurate Peridot +6%;
+Dull Defense Citrine +27;
+Dull Defense Onyx +27;
+Dull Mending Opal +3%;
+Dull Piercing Citrine +2%;
+Plain Critical Amethyst +5;
+Think Fast! Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F4*WMV;
+Fish on a Vine;
+Maelstrom Snap Dragon*F2*WMV;
+Pink Dandelion*CR;
+Silver Trumpet Vine*CR*F2*WMV;
+
+| mounts =
+Blue Dragon*PERM;
+Bone Dragon*PERM;
+
+| spells =
+
+}}

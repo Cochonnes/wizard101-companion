@@ -1,0 +1,133 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 8,400
+| crecla = Mongu
+| school = Ice
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+3%;
+
+| outboost =
+70%;
+
+| incboost =
+15% Fire;
+
+| incresist =
+50% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minion = 
+| world = Mirage
+| location = Caravan
+| subloc1 = Mottoman Treasure Cave
+| descrip =
+Ice Wizards must defeat Zuliman Mongu during their level 118 spell quest.
+
+| speech =
+:''"Ach! Yet another archaeologist?! This treasure is too valuable for a museum! Besides, it was my ancestors who left it... at least, I think. Either way, I am a pirate and I am taking it, all of it."''
+
+| spellnotes =
+
+| casts =
+Brace;
+Icewind;
+Volcanic Shield (-75%);
+Iceblade;
+Steal Ward;
+Ice Bats (215);
+Natural Attack (Ice 105-210-315, 75%);
+Blizzard (290-330, 80%);
+Winter Moon;
+Frostbite (80+549);
+Frost Giant (530);
+
+| quests =
+Climaclysm;
+
+| gold =
+260 - 407;
+
+| hats =
+Sand Sea Cowl of Ashes;
+Sand Sea Cowl of Emptiness;
+Zruvan Helmet of Rigor;
+
+| robes =
+
+| boots =
+Zruvan Galesh of Amity;
+
+| athames =
+
+| amulets =
+Kobra Choker of Amity;
+Sand Sea Amulet of Blusters;
+
+| rings =
+Sand Sea Ring of Blusters;
+Sand Sea Ring of Explosion;
+
+| wands =
+
+| decks =
+
+| items =
+Mirage Nomad Theme;
+
+| cards =
+Age of Reckoning;
+Namaste;
+Saga of Heroes;
+Winged Sorrow;
+
+| reagents =
+Aether;
+Agave Leaves;
+Amber;
+Amber Dust*F2*WMV;
+Astral Shard;
+Brass;
+Golden Pearl*F2*WMV;
+Silver;
+Stardust;
+Steel;
+Sunstone;
+Titanium*F2*WMV;
+Tungsten;
+Vine;
+
+| spellements =
+
+| snacks =
+Beetle Cream Soda*F2*WMV;
+Hot Cross Buns;
+Mustachios;
+
+| jewels =
+Shiny Defense Amethyst +52;
+Shiny Defense Jade +51;
+
+| pets =
+
+| seeds =
+Boiled Peanuts;
+Couch Potatoes*CR;
+Fish on a Vine;
+Grapes of Wrath*CR;
+Sour Fickle Pickle;
+Sword Fern*CR;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

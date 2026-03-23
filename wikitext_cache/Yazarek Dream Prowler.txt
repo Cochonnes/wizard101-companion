@@ -1,0 +1,245 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 15,440
+| crecla = Shadow Weaver
+| school = Balance
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Night Weaver;
+
+| world = Azteca
+| location = Zultun Dock
+| subloc1 = Charred Tower
+| descrip =
+
+| speech =
+:''"The Shadow Queen said to keep an eye out for you. She said that whomever defeats you can keep one of your eyes for good luck!"''
+
+| spellnotes =
+
+| casts =
+Infallible;
+Vengeance;
+Black Mantle;
+Weakness;
+Availing Hands;
+Balanceblade;
+Hex;
+Mana Burn (-4 Pips);
+Natural Attack (Balance 165-330-495);
+Samoorai;
+Sandstorm;
+Power Nova;
+Ra;
+Sabertooth;
+Judgement;
+
+| quests =
+Lemon Scented;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge and has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge, the following drops will be available:
+*6 Spellements will drop each time from '''any''' School for their respective rank 6-10 Spells.
+
+| gold =
+117 - 146;
+
+| hats =
+Dawn Hour Mantle*F2*WMV;
+Elite Jura Guard Helm*F2;
+Five Fangs of Fury Headdress*F2*WMV;
+Indigo Wing Crown;
+Thirteen Death Mask;
+Tree of Secrets Chac Mask;
+Twisted Fang Mask;
+
+| robes =
+Coatl Lord's Robes*F2;
+High Chac's Guarded Armor*F2*WMV;
+Song of the Lizard Coat;
+Tunic of the Broken Spear;
+Vestment of the Calavera*F2;
+
+| boots =
+
+| athames =
+Bleeding Sun Dagger;
+Burning Water Talon;
+Fang of the Night Sky;
+Tears of Mother Moon Blade;
+
+| amulets =
+Charm of the Gold Aztecosaur;
+House of Plague Greenstone*F2;
+Pitch Black Lake Plague Shell*F2*WMV;
+Rising Sun Head Relic*F2*WMV;
+Shining Cold House Amulet;
+Smoking Fang Talisman;
+Stone of the Green Skycarrier;
+
+| rings =
+Acampi Reedfist's Lost Seal*F4*WMV;
+Bleeding Sun Warrior's Loop*F4;
+Falling Star's End Time Band;
+Mother Moon's Count Ring;
+
+| wands =
+Eclipse Spear of Azteca*F3;
+Lance of Night Fire;
+Winter Lord's Obsidian Shard*F3;
+
+| decks =
+Codex of the Lost Fire;
+Deck of the Jaguar Spirit;
+Storm Sun Gallery*F2*WMV;
+Winter's Pyramid Deck*F2;
+
+| items =
+Azteca Apocalypse Theme;
+Star Clothesline;
+Starburst Frond;
+
+| cards =
+Basilisk;
+Chimera;
+Colossal;
+Extraordinary;
+Fire Dragon;
+Gnomes!;
+Potent Trap*F2;
+Primordial*F4*WMV;
+Rain of Fire;
+Scarecrow;
+Sharpened Blade*F3;
+Sirens*F2;
+Storm Lord;
+Woolly Mammoth*F2;
+
+| reagents =
+Black Lotus*F3*WMV;
+Black Pearl;
+Blood Moss*F3*WMV;
+Bone*F2*WMV;
+Bronze;
+Bronze Gear*F3*WMV;
+Cobalt*F2;
+Deep Mushroom*F4;
+Fire Blossom*F6*WMV;
+Fossil*F2*WMV;
+Golden Pearl;
+Lava Lily*F3*WMV;
+Mist Wood*F3*WMV;
+Nightshade;
+Ore*F4*WMV;
+Red Mandrake*F6*WMV;
+Steel*F2;
+Stone Block;
+Sunstone*F2*WMV;
+Titanium;
+Tungsten*F3;
+Turquoise*F4*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Centaur*BR*F2;
+Chimera*BR;
+Colossus*BR*F2;
+Dr. Von's Monster*BR*F2;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR*F2;
+Frost Giant*BR;
+Gnomes!*BR;
+Helephant*BR;
+Hydra*BR*F2;
+Leviathan*BR*F2;
+Lord of Winter*F2*BR*WMV;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR*F2;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR*F2;
+Skeletal Dragon*BR*F2;
+Snow Angel*BR;
+Spinysaur*BR;
+Stone Colossus*BR*F2;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR*F2;
+Triton*BR;
+Woolly Mammoth*BR*F2;
+Wraith*BR;
+
+| snacks =
+Apatotatoes;
+Aztecan Hot Chocolate;
+Buttered Bread*F2*WMV;
+Chapulines;
+Dr. Jalapeno*F2*WMV;
+Guava;
+Marzipan Maize;
+Maize*F2;
+Pterotomatoes*F2*WMV;
+Quetzal Pretzel*F2;
+Rex Tea;
+Stego Waffles;
+Yucca;
+Zocalo Wings*F3*WMV;
+
+| jewels =
+Clear Health Opal +83;
+Clear Piercing Citrine +5%;
+Gobbler Opal;
+Great Learner Opal;
+Polished Critical Citrine +11;
+Polished Health Opal +90;
+Polished Mending Opal +5%;
+Sap Power Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Fiery Boom Shroom;
+Fish on a Vine;
+Maelstrom Snap Dragon*F2;
+Pink Huckleberries;
+Red Huckleberries;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

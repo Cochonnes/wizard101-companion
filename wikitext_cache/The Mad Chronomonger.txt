@@ -1,0 +1,262 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 13,135
+| crecla = Unicorn
+| crecla2 = Equine
+| school = Balance
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+18%;
+
+| outboost =
+113%;
+
+| incboost =
+5% Myth, Life, Death;
+
+| incresist =
+45% Fire, Ice, Storm, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Valencian Guard;
+
+| world = Novus
+| location = Puerto Nuovo
+| subloc1 = Chronomonger's Workshop
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*Two additional Valencian Guard Minions will appear if more than two Wizards are present.	
+
+| speech =
+:''"Why, oh why, do you melt, my pretties? Is it heat? No. Is it decay? No. Is it that time is an illusion constructed by memory? What was I saying? Ah, yes, I see the cause, the warp in the wheels. Time here is simply as off-kilter as I am, so measurements are skewed. Ha-ha! Just a little calibration and you should be right as rain... YOU! YOU'VE COME TO STEAL MY INVENTIONS! NOW YOU FACE THE MAD CHRONOMONGER!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Novus
+| tome description =
+He went mad watching the ticking of a clock so long, they started winding backward. And singing. That's probably weirder.
+
+| extract class =
+Equine;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold =
+}}
+
+| cheatnotes =
+'''Cheat Cycle''' (Resets every 3{{Icon|Round}})
+*{{Icon|Round}} ''"Start the clock!"'' - Start of the cheat cycle.
+*{{Icon|Damage}} ''"Reset the clock"'' - The Mad Chronomonger will reset the cheat cycle when hit.
+*{{Icon|Feint}} ''"Tick, Tock"'' - Every Round The Mad Chronomonger is not hit, a Mass Feint (+70%/+30%) is placed on all Wizards. Hits must come from Spells cast each Round, subsequent ticks of a Damage Over Time won't count.
+*{{Icon|Damage}} ''"The clock punches you"'' - The Round after the Tick Tock cheat, The Mad Chronomonger will use a version of Mockenspiel that hits all Wizards.
+
+| spellnotes =
+*Casts a Mass Hex (+30%).
+
+| casts =
+Brace (6 Rounds);
+Dragonblade;
+Hex;
+Mana Burn;
+Loremaster (Tier 3c);
+Savage Paw (Tier 3a);
+Mockenspiel;
+Old One's Endgame (Tier 2b);
+Lernaean Hydra;
+Ra;
+
+| quests =
+Cuckoo Clocks;
+
+| gold =
+9 - 16;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+Artillery Officer Band;
+Cavalry Officer Band;
+Infantry Officer Band;
+Medic Officer Band;
+Messenger Officer Band*F2;
+Regulation Artillery Band*F2;
+Regulation Cavalry Band*F2*WMV;
+Regulation Infantry Band;
+Regulation Medic Band;
+Regulation Messenger Band;
+Regulation Scout Band;
+Regulation Trooper Band*F2*WMV;
+Scout Officer Band;
+Trooper Officer Band*F2*WMV;
+
+| wands =
+
+| decks =
+Artillery Officer Cards;
+Cavalry Officer Cards;
+Infantry Officer Cards*F2;
+Medic Officer Cards;
+Messenger Officer Cards*F2;
+Regulation Artillery Cards*F3*WMV;
+Regulation Cavalry Cards;
+Regulation Infantry Cards*F3;
+Regulation Medic Cards*F2*WMV;
+Regulation Messenger Cards;
+Regulation Scout Cards;
+Regulation Trooper Cards*F2;
+Scout Officer Cards;
+Trooper Officer Cards;
+
+| items =
+
+| cards =
+Azoth;
+Banshee (Tier 2b)*F2;
+Blood Bat (Tier 2b);
+Cyclops (Tier 2b);
+Dark Sprite (Tier 2b);
+Fire Cat (Tier 2b);
+Fire Elf (Tier 2b);
+Fortify;
+Frost Beetle (Tier 2b);
+Ghoul (Tier 2b);
+Imp (Tier 2b);
+Leprechaun (Tier 2b)*F2*WMV;
+Lightning Bats (Tier 2b);
+Locust Swarm (Tier 2b);
+Nature's Wrath (Tier 2b);
+Nested Fury;
+Scarab (Tier 2b);
+Scorpion (Tier 2b);
+Snow Serpent (Tier 2b);
+Storm Shark (Tier 2b)*F2;
+Sunbird (Tier 2b);
+Thunder Snake (Tier 2b)*F2;
+Troll (Tier 2b)*F2*WMV;
+Winged Sorrow;
+Witch's House Call;
+
+| reagents =
+Bone;
+Bronze Gear;
+Pixels;
+Tin;
+
+| spellements =
+Barbarian's Saga;
+Blast Off!*F2*WMV;
+Dark & Stormy;
+Deathly Depths*F2;
+Freeze Ray;
+Glimpse of Infinity*F2;
+Gravestorm;
+Grim Reader*F3*WMV;
+Grrnadier;
+Improbable Gaze;
+Lord of the Jungle;
+Mockenspiel*F2;
+Old One's Endgame*F2*WMV;
+S'more Machine*F2;
+Scales of Destiny;
+Shatterhorn*F4*WMV;
+Sound of Musicology;
+Snack Attack;
+Starspawn;
+Tatzlewurm Terror*F2*WMV;
+Tree of Strife;
+
+| snacks =
+
+| jewels =
+Amazing Critical Amethyst +21;
+Amazing Critical Citrine +21;
+Amazing Critical Jade +21;
+Amazing Critical Onyx +21;
+Amazing Critical Peridot +21;
+Amazing Critical Ruby +22;
+Amazing Critical Sapphire +21;
+Amazing Critical Sapphire +22;
+Amazing Damage Amethyst +31;
+Amazing Damage Citrine +31;
+Amazing Damage Citrine +32;
+Amazing Damage Jade +31;
+Amazing Damage Jade +32;
+Amazing Damage Peridot +32;
+Amazing Damage Ruby +31;
+Dazzling Critical Amethyst +19;
+Dazzling Critical Amethyst +20;
+Dazzling Critical Citrine +19;
+Dazzling Critical Citrine +20;
+Dazzling Critical Jade +19;
+Dazzling Critical Jade +20;
+Dazzling Critical Onyx +20;
+Dazzling Critical Peridot +19;
+Dazzling Critical Peridot +20;
+Dazzling Critical Ruby +19;
+Dazzling Critical Ruby +20;
+Dazzling Critical Sapphire +20;
+Dazzling Damage Citrine +29;
+Dazzling Damage Jade +29;
+Dazzling Damage Jade +30;
+Dazzling Damage Onyx +29;
+Dazzling Damage Onyx +30;
+Dazzling Damage Peridot +30;
+Dazzling Damage Sapphire +29;
+Polished Piercing Amethyst +6%*F2*WMV;
+Polished Piercing Citrine +6%;
+Polished Piercing Onyx +6%;
+Polished Piercing Peridot +6%;
+Polished Piercing Ruby +6%;
+Polished Piercing Sapphire +6%;
+
+| pins =
+Balance Blocking Pin (140, Storm);
+Balance Blocking Pin (150, Storm);
+Balance Resist Pin (140, Myth);
+Balance Resist Pin (140, Storm);
+Fire Blocking Pin (140, Storm);
+Fire Resist Pin (140, Storm);
+Life Blocking Pin (140, Storm);
+Life Blocking Pin (150, Storm);
+Life Resist Pin (140, Storm);
+Myth Blocking Pin (140, Life)*F2;
+Storm Mending Pin (140);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

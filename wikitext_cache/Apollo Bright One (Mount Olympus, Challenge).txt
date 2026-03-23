@@ -1,0 +1,125 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 2,170
+| crecla = Eagle 
+| school = Life
+| school2 = Fire
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+3%;
+
+| outboost =
+25%;
+
+| incboost =
+13% Storm, Death;
+
+| incresist =
+7% Ice, Life, Balance, Shadow;
+27% Fire, Myth;
+
+| outhealing =
+10%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Elite Cyclops Guard (Challenge);
+Elite Cyclops Guard (Challenge);
+Elite Cyclops Guard (Challenge);
+
+| world = Wizard City
+| location = Mount Olympus (Challenge)
+| subloc1 = Sun Chamber (Challenge)
+| descrip =
+This is the first Boss Wizards must defeat for the first Legion Token in the quest to reach [[Creature:Zeus Sky Father (Mount Olympus, Challenge)| Zeus]] for the first stage of the Immortal Games. 
+*For the Standard version of this battle, see {{Link|Creature|Apollo Bright One (Mount Olympus)}}.
+
+| speech =
+:''"You stand before the radiant sun lord, Apollo Bright One! Let me show you the light!"''
+
+| cheatnotes =
+*{{Icon|Jinx}} ''"I am too bright for that"'' - Whenever a Wizard casts a harmful Ward on Apollo, Apollo will cast {{Link|Spell|Lifeblade}} on himself.
+*{{Icon|Damage}} ''"Interesting Idea, But I can do better"'' - Whenever a Wizard casts a DoT on Apollo, Apollo will cast {{Link|Spell|Link}} on the Caster.
+
+| spellnotes =
+*Casts a Spell version of {{Link|TreasureCard|Cleansing Blade}}.
+*Casts a version of Natural Attack (Apollo) that doesn't apply an accuracy debuff.
+
+| casts =
+Cleansing Blade*TC;
+Lifeblade (+40%);
+Fireblade;
+Life Trap (+35%);
+Nature's Wrath;
+Seraph (390-450);
+Natural Attack (Apollo);
+Meteor Strike;
+Power Link;
+
+| quests =
+Wisdom and Grace;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic: Aquila Badges|Swole Like Sisyphus]]''' {{Icon|Swole Like Sisyphus}} Badge, the following drops will be available:
+*{{Icon|Spellement}} 0-2 Aquila Spellements will drop each time from '''any''' School
+
+| gold =
+29;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Apollo Bright One (Mount Olympus)
+}}

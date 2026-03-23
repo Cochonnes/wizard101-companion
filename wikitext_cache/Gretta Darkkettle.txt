@@ -1,0 +1,233 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 9,800
+| crecla = Witch
+| school = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+96 Any;
+
+| criticalblock =
+87 Any;
+
+| outpierce =
+5%;
+
+| outboost =
+50%;
+
+| incboost =
+10% Life;
+
+| incresist =
+40% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| petbreed = Black Cat
+| world = Wizard City
+| location = Firecat Alley
+| subloc1 = Cabal Safehouse
+| descrip =
+Gretta Darkkettle is revealed to be an agent of the Cabal in the Quest, ''Darkkettle's Dark Business''.<br/>Multiple Wizards may come in if brought into the area through a multi-player Mount, and if the other Wizard(s) are on the same Quest.
+*Uses Pip Conversion.
+
+| speech =
+:''"Look here - it's the curse-breaker, the Banshee's Bane! I had a feeling you'd eventually catch on... and now you've found our safehouse too! You know, I actually had my eye on you at one point. I thought you'd be a good recruit for the Cabal, better than that dingbat Grimwater. But of course, you were loyal to Ambrose, and then you had to go and join the Arcanum. Yeck! Oh yes, we know all about the Arcanum. Just as the Arcanum knows all about the Cabal... but they haven't been honest about that, have they? Now, you'll never know the truth!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"You too? What a treat!"'' - If a Wizard joins after the battle has started, she will cast both a {{Link|Spell|Curse (+25%)}} and a {{Link|Spell|Hex (+35%)}}, on the Wizard who joined late.
+*{{Icon|Round}} ''"You could have been one of us!"'' - In the first Round (and every third Round thereafter), she will cast {{Link|Spell|Beguile}} on a random target (also includes Minions). This cheat only activates when two or more positions are filled in the duel.
+:*If three or more Wizards are present, this cheat will trigger every Round.
+*{{Icon|Feint}} ''"What is this, amateur hour?"'' - If a Wizard places a {{Link|Spell|Feint}} on Gretta Darkkettle, she will cast {{Link|Spell|Sacrifice (Death)}} to remove it.
+:*{{Link|Spell|Mass Feint (+75%)}} will trigger this cheat.
+*{{Icon|Round}} ''"Feel the power of the Cabal!"'' - At the end of every fifth Round, she will cast a {{Link|Spell|Mass Infection}}.
+
+| spellnotes =
+*Her Black Cat Pet may cast either Black Cat (80-120) or Black Cat (660-700).
+
+| casts =
+Brace;
+Magnify;
+Dream Shield (-75%);
+Deathspear (+10%);
+Virulent Plague;
+Deathblade;
+Age of Reckoning;
+Black Cat (80-120);
+Natural Attack (Death 110-220-330, 80%);
+Headless Horseman;
+Poison (45+450);
+Call of Khrulhu;
+Winged Sorrow;
+Wraith (575);
+Black Cat (660-700);
+Scarecrow;
+Avenging Fossil;
+
+| quests =
+Darkkettle's Dark Business;
+
+| gold =
+458 - 546;
+
+| hats =
+Alkali Burning Sands Kalpak;
+Alkali Kalpak of Fiction;
+Alkali Monsoon Kalpak;
+Eerem Headwrap of Pulse*F2;
+
+| robes =
+Alkali Armor of Fiction;
+
+| boots =
+Alkali Monsoon Walkers;
+Alkali Walkers of Fiction;
+Alkali Walkers of Vibrancy;
+Alkali Walkers of Withering;
+Eerem Givehs of Menace;
+
+| athames =
+Eerem Razor of Discovery;
+Eerem Razor of Menace;
+Istanboa Khanjar of Icefall;
+Istanboa Khanjar of Ruin;
+Istanboa Khanjar of Scruples;
+
+| amulets =
+Eerem Hailstone Talisman;
+Eerem Talisman of Char;
+
+| rings =
+Eerem Band of Harmony;
+
+| wands =
+Myriarch Tabarzin of Fevers;
+Myriarch Tabarzin of Renewal;
+Scorpion Bow of Desolation;
+
+| decks =
+Istanboa Heatwave Array;
+
+| items =
+Mirage Canyon Theme 1;
+Mirage Canyon Theme 2;
+Mirage Caravan Theme;
+Mirage Chronoverge Com Theme*F2*WMV;
+Mirage Chronoverge Theme;
+Mirage City Combat Theme;
+Mirage City Theme;
+Mirage City Theme 2;
+Mirage Den of Thieves Theme;
+Mirage Nomad Theme;
+Mirage Serpent Theme;
+Mirage Spider Speaks Theme;
+
+| cards =
+Age of Reckoning;
+Combustion;
+Counterforce;
+Namaste;
+Nested Fury;
+
+| reagents =
+Aether*F8*WMV;
+Agave Leaves*F2;
+Agave Nectar;
+Amber;
+Amber Dust*F3*WMV;
+Aquamarine;
+Astral Shard*F3*WMV;
+Braided Vine;
+Fire Blossom*F2;
+Golden Pearl*F5*WMV;
+Iridium;
+Mithril*F3;
+Orichalcum;
+Scales;
+Silver*F3*WMV;
+Steel*F2;
+Sunstone;
+Titanium*F2;
+Tungsten*F4*WMV;
+Turmeric*F2;
+Turquoise*F7*WMV;
+Vine;
+
+| spellements =
+
+| snacks =
+Beetle Cream Soda;
+Eye Candy;
+Hot Cross Buns;
+Ships 'n' Queso;
+Veggie Juice;
+
+| jewels =
+Epic Opal;
+Flawless Opal;
+Magnify Opal;
+Shiny Critical Peridot +16;
+Shiny Critical Sapphire +16;
+Shiny Damage Ruby +26;
+Shiny Defense Amethyst +52;
+Shiny Defense Onyx +52;
+Shiny Health Opal +112;
+Shiny Health Opal +113;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+
+| pins =
+
+| pets =
+MaCaw*CR*F2*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Baby Carrots;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts;
+Boon Tree*CR;
+Bread Fruit Bush;
+Clockwork Flower;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Evil Magma Peas*CR;
+Fiery Boom Shroom;
+Frozen Fly Trap;
+Golden Couch Potatoes;
+Helephant Ears;
+Honey Bee Plant;
+Honey Sickle*F2*WMV;
+Maelstrom Snap Dragon;
+Moon Flower;
+Orange Bell Pepper*CR;
+Orange Dandelion;
+Pink Huckleberries;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Red Grapes of Wrath;
+Rye Bread Fruit Bush;
+Silver Trumpet Vine*CR;
+Sugar Khrystal*CR;
+Sunion*CR;
+Sword Fern*CR;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

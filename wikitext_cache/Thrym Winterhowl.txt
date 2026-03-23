@@ -1,0 +1,136 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 3,870
+| cheats = Yes
+| crecla = Wolf
+| school = Storm
+| startpips = 4
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+3%;
+
+| outboost =
+28%;
+
+| incboost =
+35% Ice, Death;
+
+| incresist =
+6% Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+41% Fire, Life;
+
+| outhealing =
+1%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Grizzleheim
+| location = Ravenscar
+| subloc1 = Secluded Cave
+| descrip =
+*Defeating Thrym Winterhowl is part of the Initiate Ice Weaving quest, ''"The Bad Blend"''. Wizards can also defeat Thrym Winterhowl 6 times as one of their Ice Weaving lessons, which awards the badge, [[Basic:Ice Weaving Badges|Feller of Wolf and Winter]].
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Charm}} ''"If I be Storm, then may I be unrelenting!"'' - At the beginning of every Round, Thrym Winterhowl will interrupt-cast a version of {{Link|Spell|Catch of the Day (Tier 2b)}} that gives him 2 +15% chromatic Blades on the Wizard in the first position. This increases by 5% each Round, up to a maximum of 40%.
+*{{Icon|Healing}} If Thrym Winterhowl is defeated while his Catch of the Day cheat is still active, he will revive with full Health.
+*{{Icon|Spell}} ''"Use this... stop my onslaught... for the sake of us both"'' - At the end of the 3rd Round, and after Thrym revives, he will give each Wizard the following Spell:
+**{{GivesSpell|cards=1|size=x150px|Ice Wyvern (Tier 2b)}}
+*{{Icon|Ice}} ''"Sweet Ice, soothe mine fury"'' - If Ice Wyvern (Tier 2b) is used, Thrym Winterhowl will remove all Charms from himself and stop his Catch of the Day cheat.
+**''"Nullified my new powers be"'' - Other Ice Damage Spells that remove Charms, such as {{Link|Spell|Frost Giant (Tier 2b)}}, will trigger Thrym Winterhowl to remove all Charms from himself and stop his Catch of the Day cheat.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Tempest;
+
+| quests =
+The Bad Blend;
+
+| dropnotes =
+*Wizards will receive Jewels that are appropriate for their Level.
+
+| gold =
+6 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Blight Hound (Tier 2b);
+Colossus (Tier 2b);
+Evil Snowman (Tier 2b);
+Frost Beetle (Tier 2b);
+Frost Giant (Tier 2b);
+Ice Trap*F2;
+Ice Wyvern (Tier 2b);
+Iceblade;
+Snow Angel (Tier 2b);
+Snow Serpent (Tier 2b);
+
+| reagents =
+Weft Yarn @ 10 Weft Yarn;
+Weft Yarn @ 12 Weft Yarn;
+Weft Yarn @ 15 Weft Yarn*F2;
+Weft Yarn @ 50 Weft Yarn;
+Weft Yarn @ 100 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Flawless Accurate Sapphire +16%;
+Lustrous Accurate Sapphire +11%;
+Opaque Accurate Sapphire +8%;
+Polished Piercing Sapphire +6%;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

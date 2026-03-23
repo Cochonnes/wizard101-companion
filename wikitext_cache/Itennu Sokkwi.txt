@@ -1,0 +1,222 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 590
+| crecla = Krokotopian
+| crecla2 = Undead
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Death;
+
+| incresist =
+50% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sand Stalker;
+
+| world = Krokotopia
+| location = Grand Arena
+| subloc1 = Moon Gate
+| descrip =
+*Two additional Sand Stalkers will appear if more than two Wizards are present.
+
+| speech =
+:''"Begone, little Wizard! You do not belong here; I only fight real warriors. I am a Krok Champion, not a babysitter..."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+One of the greatest of the Krok Champions. Challenge at your own risk!
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Spirit Armor;
+Death Shield;
+Lifeblade;
+Imp;
+Leprechaun;
+Nature's Wrath;
+Troll;
+Sunbird;
+Natural Attack (Ice 85x, 85%);
+
+| quests =
+Who's More Amazing?;
+
+| gold =
+27 - 43;
+
+| hats =
+Bitter Cap*F3*WMV;
+Blazing Helm;
+Cowl of the Fortress*F2;
+Cryptkeeper's Circlet*F4*WMV;
+Destructive Cowl;
+Diviner's Hat of Squalls;
+Hat of the Mirage;
+Headwrap of Annihilation;
+Helm of the Citadel;
+Rough-Hewn Hood*F3*WMV;
+Rugged Hood*F2*WMV;
+Sphinx's Circlet*F2*WMV;
+Stout Hood*F2*WMV;
+Sturdy Hood*F2*WMV;
+Thaumaturge's Cowl of Awe;
+Theurge's Hat*F2*WMV;
+
+| robes =
+Diviner's Tunic of Squalls*F2*WMV;
+Dusty Robe*F2;
+Krokotopian Balance Kaftan;
+Krokotopian Fire Kaftan;
+Krokotopian Kaftan;
+Krokotopian Life Kaftan;
+Robe of the Bastion;
+Robe of the Mirage*F2;
+Robe of the Oracle*F2;
+Rough-Hewn Robe*F3;
+Sphinx's Vestment*F4*WMV;
+Stout Robe;
+Sturdy Robe*F2*WMV;
+Theurge's Brown Cloak;
+Vest of the Desert*F2*WMV;
+Vestment of Darkness*F2*WMV;
+Vestment of Ignition;
+Vestment of the Arctic;
+
+| boots =
+Biti Nirini's Torrid Boots*F3*WMV;
+Boots of Talent;
+Boots of the Bastion;
+Boots of the Citadel*F2*WMV;
+Boots of the Whirlwind;
+Flowering Shoes*F3*WMV;
+Footwraps of the Arctic*F2*WMV;
+Hardy Boots;
+Overseer's Shoes;
+Powerful Boots;
+Runed Boots;
+Sandals of Darkness;
+Sandals of Energy;
+Sandals of Ignition;
+Sandals of Refuge;
+Sandals of Tall Tales*F2*WMV;
+Shoes of Mortality*F2;
+Shoes of the Desert;
+Slippers of the Oasis;
+
+| athames =
+Dirk of Harmony*F2;
+Parched Kris;
+Whirlwind Dagger*F2;
+
+| amulets =
+
+| rings =
+Band of the Skies;
+Flowering Band;
+Jewel of Obliteration;
+Loop of Quietude*F2*WMV;
+Loop of the Defender;
+Ring of the Badlands*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Bushy Palm Tree;
+Hieroglyphic Ice Tablet;
+Krok Moon Plaque*F3*WMV;
+Krok Skull Plaque;
+Potted Palm*F2*WMV;
+Raised Storm Sarcophagus*F2;
+Tall Palm Tree*CR;
+Wrapped Long Bench;
+
+| cards =
+Banshee;
+Blizzard;
+Cyclops;
+Evil Snowman;
+Humongofrog;
+Krokomummy*F3*WMV;
+Myth Trap;
+Sprite;
+Storm Shark;
+Sunbird;
+
+| reagents =
+Bone;
+Bronze Gear*F2*WMV;
+Copper*F2*WMV;
+Iron*F5*WMV;
+Nickel*F2*WMV;
+Pyrite*F5*WMV;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Cracker*F11*WMV;
+Green Grapes*F4*WMV;
+Medium Fish;
+Nettle Root*F5*WMV;
+Tiny Fish*F8*WMV;
+
+| jewels =
+Big Downer Opal;
+Chipped Mana Opal +11;
+Cracked Accurate Jade +2%;
+Cracked Accurate Sapphire +2%;
+Cracked Defense Citrine +12;
+Cracked Defense Jade +12;
+Cracked Defense Onyx +12*F2;
+Cracked Defense Peridot +12;
+Cracked Defense Sapphire +10;
+Cracked Defense Sapphire +12;
+Dark Sprite Onyx;
+
+| pins =
+
+| pets =
+Frosty Krokomummy*F4*WMV;
+
+| seeds =
+Alligator Pear Tree*F7*WMV;
+Pink Dandelion*CR*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

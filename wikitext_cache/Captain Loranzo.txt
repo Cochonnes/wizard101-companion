@@ -1,0 +1,296 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 12,720
+| crecla = Monquistan
+| school = Balance
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sea Chicken Pirate;
+Sea Chicken Pirate;
+Sea Chicken Pirate;
+
+| world = Polaris
+| location = Walruskberg Harbor
+| subloc1 = Sea Chicken
+| descrip =
+Captain Loranzo is the captain of the "Sea Chicken" in Walruskberg Harbor.
+
+| speech =
+:''"Aha! So you are the cause of the ruckus? On whose authority do you dare to board my ship? Chief Advisor Rasputin himself ordered this shipment. So you have no authority at all then? Very well. Then it's time for you to learn that the Sea Chicken will not be so easily plucked!"''
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Elemental Defuse;
+Spirit Defuse;
+Donate Power;
+Power Play;
+Counterforce;
+Mana Burn;
+Loremaster;
+Supernova;
+Natural Attack (Balance 110-215-320);
+Savage Paw;
+Gaze of Fate;
+Mighty Judgement;
+Sabertooth;
+
+| quests =
+Sea Chicken;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge and has not unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge, the following drops will be available:
+*10 Spellements will drop each time from '''any''' School for their respective rank 8, 9, 10, and 6 & 1 Shadow Pip Spells.
+
+If a Wizard already has the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of Horizon Hold to acquire a [[Item:Level Scaling Elixir - 110|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+378 - 564;
+
+| hats =
+Hailstorm Tundra Ushanka;
+Sweltery Tundra Ushanka;
+The Enchanter*CR;
+The Ice Horns*CR;
+Tundra Ushanka of Mayhem*F2;
+Tundra Ushanka of Survival;
+
+| robes =
+Blizzardy Tundra Pelage;
+Hailstorm Tundra Suit*F2*WMV;
+Urville Cherkesska of Guile;
+Urville Snowgusts Coat;
+
+| boots =
+Tundra Walkers of Survival*WMV;
+Urville Boots of Flames;
+Urville Footgear of Anguish;
+Urville Shoes of Wintertide;
+
+| athames =
+Mage's Dolorous Edge;
+Mage's Wintry Blade;
+Urville Athame of Guile;
+Urville Knife of Elation*F2*WMV;
+
+| amulets =
+Ampul of the Polarian Mage;
+Mage's Collar of Aplomb;
+Mage's Roughhewn Dagger;
+Mage's Torc of Guile*F2;
+Urville Chaplet of Anguish*F2;
+Urville Charm of Snowgusts;
+Urville Relic of Wintertide*F2;
+
+| rings =
+Inspector's Seal of Pluck;
+Iron Paw's Steadfast Band;
+Mage's Hardy Band;
+Mage's Signet of Justice;
+Mage's Smoldering Loop;
+Mage's Wintry Ringlet;
+
+| wands =
+Axe of Tundra Blizzards;
+Polarian Mage's Wand;
+Polarian Tundra Bardiche*F3*WMV;
+Tundra Axe of Hailstorms*F3*WMV;
+Tundra Axe of Loyalty;
+Tundra Bardiche Sagacity;
+Tundra Bardiche of Mayhem*F2;
+Tundra Survival Hatchet;
+
+| decks =
+Mage's Case of Guile;
+Hand of Tundra Blizzards;
+Tundra Cards of Disarray;
+Tundra Deck of Swelters;
+Tundra Gallery of Hailstorms*F2*WMV;
+Tundra Hand of Loyalty*F2*WMV;
+Tundra Survivor's Pack*F2*WMV;
+
+| items =
+Arcanum Theme*F5*WMV;
+Medium Enchanted Pot*F2*WMV;
+Medium Pot*F2*WMV;
+Polaris Baba Yaga Theme;
+Polaris Frozen Forest Theme*F3;
+Polaris Gulag Combat Theme;
+Polaris Gulag Theme;
+Polaris Ice Block Theme*F2*WMV;
+Polaris Rasputin Combat Theme;
+Small Enchanted Pot*F2;
+Small Pot*F3;
+Walruskberg Liberated Theme;
+
+| cards =
+Ashen Bones;
+Counterforce;
+Fiery Colossus;
+Helephant;
+Katabatic Wind;
+Mass Death Prism;
+Mass Fire Prism;
+Mass Life Prism;
+Mutate Banshee (Sun);
+Mutate Beetle (Fire);
+Mutate Cat (Ice);
+Mutate Colossus (Fire);
+Mutate Helephant (Ice)*F2*WMV;
+Mutate Helephant (Storm);
+Mutate Kraken (Sun);
+Mutate Phoenix (Storm)*F2*WMV;
+Mutate Snake (Ice);
+Mutate Snowman (Fire);
+Mutate Swarm (Ice);
+Punklops;
+
+| reagents =
+Aether*F2;
+Agave Leaves;
+Amber Dust*F2;
+Ancient Scroll*F3*WMV;
+Aquamarine;
+Black Pearl*F4*WMV;
+Blood Moss*F2*WMV;
+Brass*F2*WMV;
+Bronze Gear*F5*WMV;
+Cobalt*F3*WMV;
+Ectoplasm*F2;
+Fish Fin*F4*WMV;
+Grendelweed*F6*WMV;
+Mithril*F2;
+Nickel*F3*WMV;
+Scales*F2*WMV;
+Silver*F3*WMV;
+Spider Silk*F4*WMV;
+Spring*F3*WMV;
+Steel*F3*WMV;
+Sunstone*F5*WMV;
+Tin*F4*WMV;
+Tungsten*F2*WMV;
+Turquoise;
+Vine*F3*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Chimera*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Nested Fury*BR;
+Ra*BR;
+Raging Bull*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Rusalka's Wrath*BR;
+Sabertooth*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Snowball Barrage*BR;
+Spinysaur*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Winged Sorrow*BR;
+Wings of Fate*BR;
+Witch's House Call*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Beast Wellington*F2*WMV;
+Chili Cheese Fries*F3*WMV;
+Chili Peppers*F3*WMV;
+Deepwater Toffee;
+Delicious Cookie;
+Eye Candy*F2;
+French Fries*F2*WMV;
+Gourmet Yogurt;
+High Road Haggis;
+Hot Cross Buns;
+Huge Ice Cream;
+Jolly Rancher;
+Large Ice Cream*F3*WMV;
+Penne Dreadful*F2*WMV;
+Polaris Fries*F2;
+Ships 'n' Queso*F2*WMV;
+Sprinkle Cupcake*F2*WMV;
+Submarine Sandwich*F2*WMV;
+Super Cold Popsicle*F4*WMV;
+Veggie Juice*F2*WMV;
+
+| jewels =
+Polished Health Opal +93;
+
+| pins =
+
+| pets =
+Arctic Ninja Pig*CR*F2*WMV;
+Glacier Dragon;
+Intrepid Seal Pup;
+Mountain Yeti*CR*F2*WMV;
+Snowball*CR;
+
+| seeds =
+Angel Oak*F4*WMV;
+Angora Bunny Ears;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Evil Snow Peas*F2*WMV;
+Fish on a Vine*F2*WMV;
+Frozen Fly Trap;
+Golden Couch Potatoes;
+Goose Tree;
+Green Snow Apples*F2*WMV;
+King Parsley*CR*F2*WMV;
+Moon Flower*F2;
+Ninja Fig*CR*F2;
+Purple Snow Apples*F2;
+Queen Crape Myrtle*F4*WMV;
+Red Couch Potatoes;
+Snow Apples*F2;
+White Desparagus*F3;
+White Laugh-O-Dil*F3*WMV;
+White Tiger Lily*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

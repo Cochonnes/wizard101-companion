@@ -1,0 +1,285 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 7,000
+| crecla = Qhat
+| school = Fire
+| school2 = Ice
+| cheats = Yes
+| shadowslots = 1
+| startpips = 3
+| powerpips = Yes
+| critical =
+71;
+
+| criticalblock =
+195;
+
+| outpierce =
+5%;
+
+| outboost =
+35%;
+
+| incboost =
+None;
+
+| incresist =
+15% Fire, Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Sayameez Hardliner (Balance);
+
+| world = Mirage
+| location = Yakhal Mountain
+| subloc1 = Goofang's Lab
+| descrip =
+*Goofang uses Pip Conversion.
+
+| speech =
+:''"I can't believe this - the nerve of you people to just storm into my Laboratory. Have you no respect for Sayameez tradition? Of course not! You are outsiders, unworthy in every aspect. We shouldn't even let people like you inside the walls. You only bring discord and violence. In fact, I suspect it's your influence that's encouraged the Rebels. And it's just as well. When I bring you down, the Rebellion will fall too."''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Lateness is beneath us."'' - If a Wizard joins the duel after the second round, Goofang will cast a Balance version of {{Link|Spell|Steal Pips}} dealing Balance Damage at the Wizard.
+*{{Icon|Blade}} ''"I... do not please"'' - Sometimes, when Goofang casts Fireblade or Iceblade, he will cheat-cast the opposite School version of that Blade.
+:*This cheat will sometimes chain multiple times in a row.
+*{{Icon|Damage}} ''"How dare you strike a Sayamaeez!"'' - Sometimes, when Goofang casts one of the following Attack Spells, he will cheat-cast the opposite School version of the same Attack:
+::Blizzard
+::Colossus
+::Colossus (Fire)
+::King Artorius (Fire)
+::King Artorius (Ice)
+:*This cheat will sometimes chain multiple times in a row.
+*{{Icon|Spell}} ''"An experimental effect!"'' - Sometimes, when Goofang casts one of his Spells, he will cheat-cast the opposite School version of that Attack.
+::Fire Cat
+::Ice Cat
+:*This cheat will sometimes chain multiple times in a row.
+:*He may also steal Blades.
+
+| spellnotes =
+
+| casts =
+Brace;
+Fireblade;
+Iceblade (+40%);
+Fuel (+35%);
+Ice Fuel;
+Steal Ward;
+Fire Cat (95-135);
+Natural Attack (Fire 120-240-360, 70%);
+Meteor Strike (355-395);
+Raging Bull;
+Colossus (Fire);
+King Artorius (Fire);
+Ice Cat (80%);
+Natural Attack (Ice 105-210-315, 75%);
+Blizzard (290-330, 80%);
+Colossus (525-605);
+King Artorius (Ice);
+Snowball Barrage;
+
+| quests =
+Breaking the Hardline;
+
+| gold =
+588 - 1,086;
+
+| hats =
+Sand Sea Cowl of Ashes;
+Sand Sea Cowl of Havoc;
+Sand Sea Cowl of Mischief*F2*WMV;
+Sand Sea Cowl of Shivers;
+Vizier's Mantle of Sagacity;
+
+| robes =
+
+| boots =
+Sand Sea Striders of Shivers;
+Zruvan Galesh of Acumen;
+Zruvan Galesh of Amity;
+Zruvan Galesh of Rigor;
+
+| athames =
+Kobra Janbiya of Fury;
+Sand Sea Dagger of Ardor;
+
+| amulets =
+Kobra Choker of Acumen;
+Kobra Choker of Amity;
+Sand Sea Amulet of Ardor;
+
+| rings =
+Sand Sea Ring of Ardor;
+Sand Sea Ring of Decorum;
+Sand Sea Ring of Emptiness;
+
+| wands =
+Algid Durvish Armaments;
+Voltaic Durvish Armaments;
+
+| decks =
+Kobra Hand of Fury;
+Sand Sea Deck of Blight;
+Sand Sea Hand of Decorum*F3;
+Sand Sea Hand of Havoc;
+
+| items =
+Mirage Canyon Theme 1;
+Mirage Canyon Theme 2;
+Mirage Chronoverge Theme;
+Mirage City Combat Theme;
+Mirage City Tense Theme;
+Mirage City Theme;
+Mirage Den of Thieves Theme*F2;
+Mirage Desert Canyons Theme*F2*WMV;
+Mirage Desert Combat Theme;
+Mirage Jungle Combat Theme;
+Mirage Jungle Theme*F3;
+Mirage Magic Carpet Theme;
+Mirage Palace Theme;
+
+| cards =
+Ashen Bones;
+Astraphobia;
+Balefrost;
+Combustion;
+Counterforce;
+Dragonspear;
+Fiery Colossus;
+Icebird;
+Lifespear;
+Namaste*F2*WMV;
+Obsidian Colossus (420);
+Saga of Heroes;
+Shift*F2;
+Shock Colossus*F2;
+Snowball Barrage;
+Steel Colossus;
+Witch's House Call;
+
+| reagents =
+Aether*F4*WMV;
+Agave Leaves*F4*WMV;
+Amber Dust*F2*WMV;
+Aquamarine*F9*WMV;
+Astral Shard*F4*WMV;
+Draconium*F2;
+Fish Fin*F4*WMV;
+Glass Sliver;
+Golden Pearl*F7*WMV;
+Iridium*F2;
+Mithril*F7*WMV;
+Scales*F6*WMV;
+Silver*F5*WMV;
+Stardust;
+Steel*F5*WMV;
+Sunstone*F8*WMV;
+Titanium*F5*WMV;
+Tungsten*F7*WMV;
+Turmeric;
+Turquoise*F5*WMV;
+Vine*F4*WMV;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate;
+Beast Wellington*F3*WMV;
+Beetle Cream Soda*F2*WMV;
+Chalupacabra*F6*WMV;
+Decimatoes;
+Eye Candy*F4*WMV;
+Fire Passion Fruit;
+Frosty Sugar Cubes;
+Hard Boiled Beetle Eggs*F3*WMV;
+Hot Cross Buns*F3*WMV;
+Mustachios*F3*WMV;
+Satyr Chow*F2;
+Ships 'n' Queso*F3*WMV;
+Veggie Juice*F3*WMV;
+Wheat Cracker;
+
+| jewels =
+Chastisement Opal;
+Lustrous Accurate Amethyst +11%;
+Lustrous Accurate Peridot +11%;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Ruby +13;
+Lustrous Critical Amethyst +13;
+Lustrous Critical Ruby +13;
+Lustrous Damage Amethyst +23;
+Lustrous Defense Jade +45;
+Lustrous Defense Peridot +45;
+Lustrous Health Opal +96;
+Lustrous Mana Opal +42;
+Shiny Critical Peridot +16;
+Shiny Damage Hematite +52;
+Shiny Defense Amethyst +51;
+Shiny Defense Hematite +51;
+Shiny Defense Hematite +52;
+Shiny Defense Onyx +52;
+Shiny Defense Peridot +52;
+Shiny Defense Ruby +51;
+Shiny Health Opal +111*F2;
+Shiny Health Opal +112;
+Shiny Health Opal +113;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47;
+
+| pins =
+
+| pets =
+MaCaw*CR*F2*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears;
+Baby Carrots*F4*WMV;
+Bell Pepper*F2*WMV;
+Blue Huckleberries*F4*WMV;
+Boiled Peanuts;
+Boom Shroom*F2*WMV;
+Boon Tree*CR;
+Bread Fruit Bush*F3*WMV;
+Cornbread Fruit Bush*F2*WMV;
+Couch Potatoes*CR*F2*WMV;
+Deadly Fly Trap*F2;
+Deadly Helephant Ears*CR;
+Evil Snow Peas;
+Face Palm;
+Fish on a Vine*F3*WMV;
+Fortune Cookie Tree;
+Golden Couch Potatoes*F2;
+Grapes of Wrath*CR*F2;
+Ivy League*CR*F6*WMV;
+Key Limes*CR;
+Maelstrom Snap Dragon*F2*WMV;
+Moon Flower;
+Pink Huckleberries*F3;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Queen Crape Myrtle;
+Red Bell Pepper*F2*WMV;
+Red Couch Potatoes;
+Red Huckleberries*F2;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Snap Dragon;
+Sour Fickle Pickle;
+Sugar Khrystal*CR*F2;
+Sunion*CR;
+Venus Fly Trap;
+White Desparagus;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

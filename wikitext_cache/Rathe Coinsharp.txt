@@ -1,0 +1,149 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,400
+| crecla = Bear
+| school = Balance
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+25% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Grizzleheim
+| location = Sudrilund
+| subloc1 = Barrow
+| descrip =
+*Rathe Coinsharp is encountered as a Boss during the Quest ''Going Underground''.  When encountered alone, all drops are recorded on this page.
+*If a Wizard present in the instance has already completed the Quest ''Going Underground'', Rathe Coinsharp will spawn as a Minion to Gothric Honorbound. If this occurs, all drops for the duel should be recorded on the {{Link|Creature|Gothric Honorbound}} page.
+
+| speech =
+:''"What's that? Are you calling me a thief? You see through me, but you will not live to spill my secret!"''
+
+| spellnotes =
+
+| casts =
+Precision;
+Balanceblade;
+Elemental Blade;
+Iron Curse;
+Sandstorm;
+Spirit Blast;
+Spectral Blast;
+Spinning Scythe;
+Hydra;
+Judgement;
+Natural Attack (Balance 85x, 85%);
+
+| quests =
+Going Underground;
+
+| gold =
+42 - 61;
+
+| hats =
+Cold-Kissed Cowl;
+Cowl of Crackling;
+Cowl of Esprit;
+Cowl of the Dark Waters*F2;
+Cowl of the One Eyed Crow*F2;
+
+| robes =
+Mocking Raiment;
+Raiment of the Sun*F2;
+Raven's Eye Raiment;
+
+| boots =
+Barbarian's Bold Boots;
+Barbarian's Brave Boots;
+Barbarian's Courage Boots;
+Barbarian's Daring Boots;
+Barbarian's Fearless Boots*F2;
+Barbarian's Fierce Boots*F2;
+Barbarian's Valorous Boots*F3*WMV;
+
+| athames =
+Wolf's Emerald Talon;
+Wolf's Tanzanite Talon*F3*WMV;
+
+| amulets =
+Burning Ties Amulet;
+Valkyrie's Pearl Pendant*F5;
+
+| rings =
+Ring of the Hunting Wolf;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Availing Hands;
+Cyclops;
+Dark Tribute;
+Elemental Defuse*F6*WMV;
+Pacify;
+Spirit Armor;
+Spirit Defuse*F4*WMV;
+Virulent Plague;
+
+| reagents =
+Bronze;
+Bronze Gear*F2;
+Cobalt*F2;
+Nickel;
+Steel*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Cauliflowers*F2;
+Salmonberry;
+Shiny Tomato;
+Uni-Corn;
+
+| jewels =
+Mend Talent Opal;
+Plain Blocking Opal +3;
+Reshuffle Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Cornbread Fruit Bush;
+Evil Snow Peas;
+Orange Dandelion*F2*WMV;
+Snap Dragon*F2;
+
+| mounts =
+
+| spells =
+
+}}

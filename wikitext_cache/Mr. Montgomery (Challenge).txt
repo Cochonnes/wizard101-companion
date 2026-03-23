@@ -1,0 +1,185 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 100,000
+| crecla = Dog
+| school = Shadow
+| school2 = Storm
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+982 Any;
+
+| criticalblock =
+510 Any;
+
+| outpierce =
+60%;
+
+| outboost =
+192%;
+
+| incboost =
+None;
+
+| incresist =
+99% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Mr. Montgomery's Shadow;
+
+| world = Novus
+| location = Doom Moon
+| subloc1 = Engineering (Challenge)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*Mr. Montgomery will instantly defeat himself at the end of Round 7.
+*For the Standard version of this battle, see {{Link|Creature|Mr. Montgomery (Standard)}}.
+*{{Link|NPC|Rusti}} will appear after the duel.
+
+'''Advanced Combat Rules:'''
+*Spell Decks cannot be changed while in this instance. (Make sure to set the spells in a deck before entering this instance).
+*PvP-Only Spells are allowed in this fight.
+*Wizards cannot re-join combat after fleeing mid-combat.
+*Armor Piercing is ineffective at lowering this Boss' resist.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Blade}}{{Icon|Global}}{{Icon|Armor Piercing}}{{Icon|Damage}} ''"You do not have that power!"'' - At the beginning of each Round, Mr. Montgomery will cast the following Spells:
+**On Round 1: {{Link|Spell|Stormblade}}
+**On Round 2: Two {{Link|Spell|Stormblade}}s that stack
+**On Round 3: Two {{Link|Spell|Stormblade}}s that stack, {{Link|Spell|Darkwind}}
+**On Round 4: Two {{Link|Spell|Stormblade}}s that stack, {{Link|Spell|Darkwind}}, {{Link|Spell|Balanceblade}}
+**On Round 5: Two {{Link|Spell|Stormblade}}s that stack, {{Link|Spell|Darkwind}}, {{Link|Spell|Balanceblade}}, {{Link|Spell|Balanceblade (+35%)}}
+**On Round 6: Two {{Link|Spell|Stormblade}}s that stack, {{Link|Spell|Darkwind}}, {{Link|Spell|Balanceblade}}, {{Link|Spell|Balanceblade (+35%)}}, {{Link|Spell|Dragonlance}}
+**On Round 7: Two {{Link|Spell|Stormblade}}s that stack, {{Link|Spell|Darkwind}}, {{Link|Spell|Balanceblade}}, {{Link|Spell|Balanceblade (+35%)}}, {{Link|Spell|Dragonlance}}, {{Link|Spell|Stormspear}}, {{Link|Spell|Storm Lord (965)}} without the Stun.
+***After this cheat, Mr. Montgomery will cast a 100% max Health Damage version of {{Link|Spell|Sacrifice}} on himself, defeating him.
+*{{Icon|Damage}} ''"You cannot take it from me! You do not have the power!"'' - At the end of each Round, Mr. Montgomery will cast a version of {{Link|Spell|Storm Lord (965)}} without the Stun that cannot be [[Spell:Dissipate|Dispelled]].
+*{{Icon|Minion}} ''"Send in more disposables!"'' - At the beginning of Round 6, Mr. Montgomery will summon {{Link|Creature|Mr. Montgomery's Shadow}}, who becomes active on the following Round.
+
+| spellnotes =
+*Casts an all enemies version of Shadow Trap.
+
+| casts =
+Magnify;
+Shadowblade;
+Bladestorm;
+Shadow Trap;
+Wild Bolt (Shadow);
+Queen Calypso (Shadow);
+Triton (Shadow);
+Sirens (Shadow);
+Leviathan (Shadow);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Bold Dream Reaver Deck;
+Cruel Dream Reaver Deck;
+Cruel Dream Warper Deck;
+Deft Dream Warper Deck;
+Fell Dream Reaver Deck;
+Fell Dream Warper Deck;
+Fervid Dream Warper Deck;
+Fierce Dream Reaver Deck;
+Fierce Dream Warper Deck;
+
+| items =
+
+| cards =
+Banshee (Tier 2b);
+Cyclops (Tier 2b);
+Locust Swarm (Tier 2b);
+Nature's Wrath (Tier 2b);
+Storm Shark (Tier 2b);
+
+| reagents =
+Dream Water @ 5 Dream Water*F4;
+
+| spellements =
+Barbarian's Saga;
+Blast Off!;
+Bunyip's Rage;
+Count Croakula;
+Dark & Stormy;
+Deathly Depths;
+Drop Bear Fury;
+Freeze Ray;
+Glimpse of Infinity;
+Gravestorm;
+Grim Reader;
+Improbable Gaze;
+Lord of the Jungle;
+Mockenspiel;
+Old One's Endgame;
+Phantasmania!;
+Rainbow Serpent;
+S'more Machine;
+Scales of Destiny;
+Shatterhorn;
+Sound of Musicology;
+Snack Attack;
+Starspawn;
+Tree of Strife;
+Wobbegong Frenzy;
+Zand the Bandit;
+
+| snacks =
+
+| jewels =
+Flawless Blocking Citrine +23;
+Flawless Blocking Citrine +24;
+Flawless Blocking Onyx +24;
+Flawless Blocking Peridot +23;
+Flawless Blocking Peridot +24;
+Flawless Blocking Sapphire +24;
+Unearthly Health Citrine +670;
+Unearthly Health Onyx +650;
+Unearthly Health Sapphire +735;
+
+| pins =
+Balance Accurate Pin (100);
+Fire Accurate Pin (100);
+Fire Conversion Pin (160);
+Fire Conversion Pin (170);
+Death Accurate Pin (100);
+Death Conversion Pin (160);
+Storm Accurate Pin (80);
+Storm Conversion Pin (170);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Mr. Montgomery
+}}

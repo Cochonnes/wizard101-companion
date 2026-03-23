@@ -1,0 +1,191 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 15,000
+| crecla = Monquistan
+| school = Fire
+| masteries =
+Balance;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Primo Ortiz;
+Segundo Ortiz;
+
+| world = Azteca
+| location = Mangrove Marsh
+| subloc1 = Glade of the Poison Dart Frog
+| descrip =
+Level 86+ Wizards must defeat Clemente Moraga to reactivate the {{Link|NPC|Sun School Trainer}} in {{Link|Location|Three Points}}.
+*This is a non-repeatable, solo duel.
+
+| speech =
+:''"Did Ponce de Gibbon send you to challenge me for leadership of our band? A rich jest! Hah! Men, let us send this one packing!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Availing Hands;
+Fireblade;
+Bladestorm;
+Fire Trap;
+Brimstone Revenant;
+Natural Attack (Fire 170-340-510);
+Meteor Strike (355-395);
+Fire Serpent (525);
+Fire Dragon (495+395);
+Sun Serpent;
+Obsidian Colossus (460);
+
+| quests =
+Turn Up the Sun;
+
+| gold =
+173 - 207;
+
+| hats =
+Dawn Hour Mantle*F2*WMV;
+Elite Jura Guard Helm;
+Five Fangs of Fury Headdress;
+Indigo Wing Crown*F2*WMV;
+Thirteen Death Mask*F2;
+Tree of Secrets Chac Mask*F3*WMV;
+Twisted Fang Mask*F2;
+
+| robes =
+Cloak of the Tyrant of Beasts;
+Glorious Xicolli Vest*F2;
+High Chac's Guarded Armor*F2*WMV;
+Tunic of the Broken Spear;
+Vestment of the Calavera;
+
+| boots =
+
+| athames =
+Bleeding Sun Dagger;
+Burning Water Talon;
+
+| amulets =
+Charm of the Gold Aztecosaur*F3*WMV;
+House of Plague Greenstone;
+Pitch Black Lake Plague Shell;
+Rising Sun Head Relic*F2;
+Shining Cold House Amulet;
+Smoking Fang Talisman;
+Stone of the Green Skycarrier;
+
+| rings =
+Acampi Reedfist's Lost Seal*F2*WMV;
+Bleeding Sun Warrior's Loop;
+Falling Star's End Time Band*F2;
+Mother Moon's Count Ring*F6*WMV;
+
+| wands =
+Eclipse Spear of Azteca;
+Lance of Night Fire;
+Winter Lord's Obsidian Shard;
+
+| decks =
+Codex of the Lost Fire*F2*WMV;
+Deck of the Jaguar Spirit;
+Storm Sun Gallery;
+Winter's Pyramid Deck*F3*WMV;
+
+| items =
+Azteca Apocalypse Theme;
+Broadhead;
+Hollow Log;
+
+| cards =
+Azoth;
+Chimera;
+Colossal*F3;
+Extraordinary;
+Gnomes!;
+Potent Trap;
+Primordial*F3;
+Sharpened Blade;
+Sirens*F2;
+
+| reagents =
+Black Lotus*F3*WMV;
+Black Pearl;
+Blood Moss*F2;
+Bone*F5*WMV;
+Brass*F2;
+Bronze;
+Bronze Gear*F3*WMV;
+Deep Mushroom*F3;
+Fire Blossom*F4*WMV;
+Fossil*F2*WMV;
+Lava Lily*F6*WMV;
+Mist Wood*F3*WMV;
+Ore*F3;
+Red Mandrake*F4*WMV;
+Silver;
+Stone Block*F6*WMV;
+Sunstone;
+Turquoise*F3;
+
+| spellements =
+
+| snacks =
+Apatotatoes;
+Avocado Milkshake*F2*WMV;
+Buttered Bread;
+Fern Jelly;
+Guava;
+Maize;
+Pterotomatoes;
+Stego Waffles;
+Quetzal Pretzel;
+Yucca;
+
+| jewels =
+Cyclops Minion Peridot;
+Polished Blocking Hematite +12;
+Polished Critical Amethyst +11;
+Polished Critical Onyx +11;
+Polished Damage Ruby +21;
+Pyrosaurus Rex Ruby;
+Sap Power Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Pink Dandelion*CR*F2;
+Red Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

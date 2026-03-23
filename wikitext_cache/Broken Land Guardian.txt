@@ -1,0 +1,269 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 9,600
+| crecla = Undead
+| school = Fire
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Broken Land Spirit;
+
+| world = Polaris
+| location = Forlorn Tayg
+| subloc1 = Cave of the Broken Land
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Polaris
+| tome description =
+This guardian smells of dried bones and sad memories. It's depressing just to be in its presence.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Blade}} Every fifth Round, Broken Land Guardian will cast the Spell Fireblade.
+*{{Icon|Blade}} Every sixth Round, Broken Land Guardian will cast a Treasure Card Fireblade.
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Furnace;
+Fireblade;
+Fireblade*TC;
+Fuel;
+Backdraft;
+Wyldfire;
+Fire Beetle;
+Brimstone Revenant;
+Natural Attack (Fire 120-235-350);
+Meteor Strike;
+Fire from Above;
+Scald;
+Fire Dragon;
+Rain of Fire;
+
+| quests =
+Sundering of Land and Sky;
+
+| gold =
+1,582 - 2,844;
+
+| hats =
+Imperial Walrusk Papakh;
+Kataba Iceblock Furcap;
+The Goat Horns*CR*F3;
+Walrusk Fur Hat of Dignity;
+Walrusk Fur Hat of Wit;
+Walrusk Papakh of Calamity*F2;
+Walrusk Papakh of Frenzy;
+Walrusk Papakh of Graupel*F2;
+
+| robes =
+Imperial Walrusk Cherkesska;
+Walrusk Chokha of Dignity;
+
+| boots =
+Arcanum Conjurer's Boots;
+Arcanum Necromancer's Soles;
+Arcanum Theurgist's Waders;
+Imperial Walrusk Footguards*F2*WMV;
+Kataba Iceblock Runners*F2;
+Kataba Walkers of Destiny;
+Walrusk Footgear of Rime*F2*WMV;
+Walrusk Waders of Calamity*F2;
+
+| athames =
+Imperial Walrusk Dagger*F3;
+Kataba Icepick of Glaciers;
+Kataba Lancet of Havoc;
+Kataba Skewer of Toil;
+Kataba Stiletto of Destiny;
+Walrusk Sliver of Calamity*F2;
+
+| amulets =
+Arcanum Conjurer's Amulet;
+Imperial Walrusk Medallion; 
+Kataba Iceblock Talisman;
+Kataba Necklace of Toil;
+Kataba Stone of Cinders*F2;
+Kataba Talisman of Havoc;
+
+| rings =
+Arcanum Conjurer's Band;
+Blazing Walrusk Loop;
+Imperial Walrusk Seal*F3;
+Kataba Band of Misery;
+Kataba Ring of Destiny*F2*WMV;
+Kataba Ringlet of Zeal;
+
+| wands =
+Kataba Bardiche of Zeal*F2;
+Walrusk Saber of Dignity;
+Walrusk Saber of Intensity;
+Walrusk Saber of Rime;
+
+| decks =
+Hand of the Kataba Iceblock;
+Kataba Pasteboards of Zeal;
+Walrusk Array of Graupel;
+Walrusk Cards of Intensity;
+
+| items =
+Arcanum Theme;
+Blue Teleporter*CR*F3*WMV;
+Cyan Teleporter*CR*F2;
+Orange Teleporter*CR*F2;
+Polaris Baba Yaga Theme*F4;
+Polaris Frozen Combat Theme*F2;
+Polaris Frozen Forest Theme;
+Polaris Gulag Combat Theme;
+Polaris Gulag Theme;
+Polaris Ice Block Theme*F3;
+Polaris Mine Combat Theme;
+Polaris Mine Theme*F2;
+Polaris Opera Theme*F2;
+Polaris Rasputin Combat Theme;
+Purple Teleporter*CR*F3*WMV;
+Red Teleporter*CR;
+Walruskberg Combat Theme*F2;
+Walruskberg Liberated Theme*F3;
+Walruskberg Theme*F4;
+White Teleporter*CR;
+Yellow Teleporter*CR*F2;
+
+| cards =
+Coldiron;
+Combustion;
+Elemental Spear;
+Fiery Colossus;
+Frostfang;
+Katabatic Wind;
+Lifespear;
+Magma Colossus;
+Mutate Bats (Fire)*F2*WMV;
+Mutate Beetle (Fire);
+Mutate Cat (Storm);
+Mutate Helephant (Storm);
+Mutate Monster (Ice);
+Mutate Phoenix (Storm);
+Mutate Snake (Fire);
+Mutate Wyvern (Fire);
+Namaste;
+Sandstone Colossus*F2;
+Shift;
+Steel Colossus;
+Yellow Troll;
+
+| reagents =
+Aether*F3;
+Agave Leaves;
+Amber Dust*F2;
+Aquamarine*F6*WMV;
+Astral Shard*F2;
+Fish Fin*F3*WMV;
+Golden Pearl*F2;
+Mithril*F6*WMV;
+Palladium;
+Scales*F3*WMV;
+Silver*F4*WMV;
+Steel*F2*WMV;
+Sunstone*F4*WMV;
+Tungsten*F6*WMV;
+Turquoise*F3;
+Vine;
+
+| spellements =
+
+| snacks =
+Antheneum Delight*F2;
+Aztecan Hot Chocolate;
+Beast Wellington*F3*WMV;
+Chalupacabra*F3*WMV;
+Deepwater Toffee;
+Eye Candy*F2*WMV;
+Frosty Sugar Cubes;
+Frozen Snails;
+Granny Snow Apple;
+High Road Haggis*F2*WMV;
+Hot Cross Buns*F4*WMV;
+Jolly Rancher;
+Mustachios*F3*WMV;
+Penne Dreadful*F4*WMV;
+Polaris Fries*F2*WMV;
+Satyr Chow*F7*WMV;
+Ships 'n' Queso*F2*WMV;
+Snow Apple Cider;
+Veggie Juice*F3*WMV;
+
+| jewels =
+Polished Accurate Ruby +10%;
+Polished Piercing Onyx +6%;
+
+| pins =
+
+| pets =
+Arctic Ninja Pig*CR*F2;
+Glacier Dragon*F2;
+Ice Bird;
+Nodori Winged Ram*CR*F2;
+
+| seeds =
+Angora Bunny Ears;
+Bread Fruit Bush;
+Deadly Helephant Ears*CR*F3*WMV;
+Evil Snow Peas*F2;
+Fish on a Vine*F3*WMV;
+Frozen Fly Trap*F3;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Helephant Ears*F5*WMV;
+Purple Snow Apples;
+Queen Crape Myrtle*F2*WMV;
+Red Couch Potatoes;
+Snow Apples;
+Ultra Helephant Ears*F2*WMV;
+White Desparagus*F2;
+White Laugh-O-Dil*F4*WMV;
+White Tiger Lily*F7*WMV;
+
+| mounts =
+
+| spells =
+
+}}

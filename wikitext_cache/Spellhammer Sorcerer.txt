@@ -1,0 +1,101 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,250
+| crecla = Shark
+| school = Death
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = Crab Alley
+| subloc1 = Waterworks
+| descrip = 
+The Spellhammer Sorcerer is a Minion to {{Link|Creature|Sylster Glowstorm}} in {{Link|Location|Waterworks}}. All drops and cheats should be recorded on Sylster's page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Deathblade;
+Death Trap;
+Feint;
+Cleanse Ward;
+Enfeeble;
+Doom and Gloom;
+Black Widow;
+Vampire;
+Poison;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+Natural Attack (Death 85x);
+
+| quests = 
+ 
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

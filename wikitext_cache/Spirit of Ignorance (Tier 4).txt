@@ -1,0 +1,215 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 12,425
+| crecla = Undead
+| school = Myth
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+35%;
+
+| outboost =
+150%;
+
+| incboost =
+5% Storm;
+
+| incresist =
+73% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+Benighted Revenant (Tier 4);
+Burned Out Soul (Tier 4);
+Feckless Soul (Tier 4);
+
+| world = Wizard City
+| location = Crab Alley
+| subloc1 = Crab Alley Gold Key Room
+| badge = Dispeller of Ignorance
+| descrip =
+Spirit of Ignorance (Tier 4) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Ravenwood Rangers Lore Pack}}.
+*This Tier is for level 110-{{MaxLevel}} Wizards.
+
+| speech =
+:''"UGH! Who- what are you? You're so... odd. You literally make me sick. Come at me so I can smash your scary weird face!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+You know what they say... it doesn't know what they say.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Round}} ''"I... Am... INVINCIBLE!!!"'' - At the start of the Round, a '''-300%''' version of {{Link|Spell|Brace}}, lasting 99 Rounds, will be placed on Spirit of Ignorance (Tier 4).
+**The Aura will be recast if it runs out.
+**''"YIKES! What was that?!"'' - Spirit of Ignorance will say this if his Aura is removed, but will not recast it.
+***Negative auras will trigger this cheat however the boss will retain his invulnerability.
+*{{Icon|Blade}} ''"You can't Charm your way out of this!"'' - If a Wizard casts a Blade, he'll use {{Link|Spell|Enfeeble (Shadow)}} on the target of the Blade.
+**Multi-target Blade Spells, like {{Link|Spell|Bladestorm}}, will trigger this cheat for the caster only, and not the other Wizards.
+**Global spells like {{Link|Spell|Darkwind}} will target the user with this cheat.
+**Blades that are created as a secondary effect of a spell (such as {{Link|Spell|Catch of the Day (Tier 2b)}}) will not trigger this cheat.
+*{{Icon|Feint}} ''"Feint? There's no time to pass out. I'm calling backup!"'' - If a Wizard casts a Feint on Spirit of Ignorance, he'll use a version of {{Link|Spell|Sacrifice}} with '''+500%''' Armor Piercing on himself.
+**{{Link|ItemCard|Mass Feint}} will not trigger this cheat.
+*{{Icon|Trap}} ''"I won't fall into your Traps!"'' - If a Wizard casts a single target Trap on Spirit of Ignorance, he'll use {{Link|Spell|Cleanse Ward (Star, -All)}} on himself.
+**''"What? Why didn't that work?!"'' - Boss will react if a Wizard has a protected Charm that didn't get removed by Enfeeble, or if a protected Trap didn't get removed by Cleanse Ward.
+**Using AoE Trap Spells will cause the Spirit of Ignorance to remove all Traps from the caster, instead of himself.
+*{{Icon|Round}} ''"I cannot be defeated! I know your schools!"'' - The Round after his Aura is removed, Boss will use a '''-100%''' protected Shield of the Wizard's School, not including Balance.
+**Each time after a Damage spell is used on the Boss, he'll recast all Shields based on the Wizard's School.
+*{{Icon|Manipulation}} ''"No you don't!"'' - If a Wizard uses {{Link|Spell|Steal Ward}} on his Shield, he'll recast all Shields based on the Wizard's School.
+*{{Icon|Round}} ''"Muhahaha! Two rounds 'till you go DOWN!"'' - Every 5 Rounds, he will place a Shadow Deferred Overtime dealing 100,000 Shadow Damage after two Rounds on the Wizard.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 90 Myth Damage per Pip.
+
+| casts =
+Storm Shield;
+Weakness;
+Mythblade;
+Myth Trap;
+Splashsquatch;
+Snake Charmer;
+Basilisk (645-685);
+Vermin Virtuoso;
+Mystic Colossus;
+Tatzlewurm Terror (Tier 3a);
+Earthquake;
+Barbarian's Saga (Tier 3a);
+Witch's House Call (No Minion);
+Orthrus;
+Medusa;
+Basilisk;
+
+| quests =
+
+| dropnotes =
+This Boss will always drop the following:
+*{{Icon|Treasure Card}} 3-4 Azoth
+*{{Icon|Spellement}} 13-14 Spellements
+
+| gold =
+
+| hats =
+Bardic Cap;
+Gleeman's Cap;
+Rhapsodist's Cap;
+Songster's Cap;
+Sonneteer's Cap*F3;
+Troubador's Cap*F2*WMV;
+Trouper's Cap*F4*WMV;
+
+| robes =
+Novitiate Robe;
+Rhapsodist's Tunic*F2;
+Songster's Tunic*F2*WMV;
+Sonneteer's Tunic;
+Troubador's Tunic*F2*WMV;
+Trouper's Tunic*F3*WMV;
+
+| boots =
+Bardic Shoes*F2*WMV;
+Gleeman's Shoes*F2;
+Novitiate Boots;
+Songster's Shoes*F2;
+Sonneteer's Shoes;
+Troubador's Shoes*F2*WMV;
+Trouper's Shoes;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Black Checker*F4*WMV;
+Brain Jar*F3*WMV;
+Candle and Holder*F5*WMV;
+Chessboard*F2*WMV;
+Dragon Skull;
+Empty Jar;
+Floor Brazier;
+Gold Skeleton Key*CR*F3*WMV;
+Large Candle Holder;
+Legendary Socket Wrench;
+Red Checker;
+Stone Skeleton Key*CR;
+Wooden Skeleton Key*CR*F2*WMV;
+
+| cards =
+Azoth*F27*WMV;
+
+| reagents =
+Blood Moss*F6*WMV;
+Blood Moss @ 3 Blood Moss;
+Red Mandrake*F10*WMV;
+Red Mandrake @ 3 Red Mandrake;
+
+| spellements =
+Beary Surprise*F27*WMV;
+Beary Surprise @ 2 Beary Surprise;
+Beary Surprise @ 4 Beary Surprise;
+Camp Bandit*F27*WMV;
+Camp Bandit @ 2 Camp Bandit;
+Camp Bandit @ 4 Camp Bandit;
+Splashsquatch*F27*WMV;
+Splashsquatch @ 2 Splashsquatch;
+
+| snacks =
+
+| jewels =
+Dazzling Accurate Amethyst +14%;
+Dazzling Blocking Hematite +20;
+Dazzling Blocking Jade +19;
+Dazzling Critical Amethyst +20;
+Dazzling Critical Citrine +19;
+Dazzling Damage Amethyst +30;
+Dazzling Damage Jade +29;
+Dazzling Damage Onyx +29;
+Dazzling Damage Ruby +30;
+Dazzling Health Opal +127;
+Sparkling PIP Hematite +2;
+
+| pins =
+
+| pets =
+Green Ghost*F3*WMV;
+Red Ghost*F4*WMV;
+
+| seeds =
+
+| mounts =
+Snappy Lobster*PERM;
+Sea Turtle*PERM;
+
+| spells =
+
+}}

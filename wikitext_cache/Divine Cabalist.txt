@@ -1,0 +1,140 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 96,000
+| crecla = Wizard
+| school = Balance
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical = 706
+
+| criticalblock = 897
+
+| outpierce = 
+31%;
+
+| outboost =
+185%;
+
+| incboost = 
+None;
+
+| incresist =
+36% Myth, Life, Death;
+56% Fire, Ice, Storm, Sun, Moon, Star, Shadow;
+76% Balance;
+
+| outhealing =
+38%;
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Raid
+| location = Cabal's Revenge
+| subloc1 = Fort Revanche
+| badge = Beat the Gamer
+| descrip =
+Divine Cabalist is one of the two Bosses on the top of Fort Revanche in the Cabal's Revenge Raid.
+
+| cheatnotes =
+*''"L337-HAX9"'' - Divine Cabalist will cast a Blade, Absorb, and Heal over Time effect on himself, and a Damage Charm, Healing Trap, and Balance Damage over Time on all Wizards. The effect is called "Super Cheat".
+*''"All effects are Permanent"'' - Whenever any of the hanging effects from the cheat above are removed, he will recast those individual effects.
+*''"Enter: 'Balance is all Things' Weird."'' - If a hanging effect is applied that was not the result of a "clear" spell, he will remove them from the target.
+
+| speech =
+:''"Let us clash one last time, PC vs. Last Boss, Prestidigitation Champion vs. Last Leader of the Cabal. This time, I. WILL. BEAT. YOU!''"
+
+| spellnotes =
+*Casts a version of Old One's Endgame that deals 940 Balance Damage for 5 Pips and 2 Shadow Pips.
+*Casts a version of Sandstorm that deals 375 Balance Damage.
+*Casts a version of Clockwork Spider.
+
+| casts =
+Balanceblade;
+Mass Hex;
+Clockwork Spider (355);
+
+| quests =
+
+| dropnotes =
+All 12 Wizards in the Raid receive the drops, not just the ones within the battle.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Unreal Dirk of Surging;
+
+| amulets =
+Unreal Ampul of Overwriting;
+
+| rings =
+Unreal Ring of Freezing;
+Unreal Ring of Health;
+Unreal Ring of Impossibility;
+Unreal Ring of Infamy;
+Unreal Ring of Overheating;
+Unreal Ring of Overwriting;
+Unreal Ring of Surging;
+
+| wands =
+Unreal Staff of Health;
+
+| decks =
+Unreal Deck of Freezing;
+Unreal Deck of Health;
+Unreal Deck of Impossibility;
+Unreal Deck of Infamy;
+Unreal Deck of Overheating;
+Unreal Deck of Overwriting;
+Unreal Deck of Surging;
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Elemental Blade Citrine;
+Flawless Mana Opal +61;
+Polished Piercing Ruby +6%;
+Sun Trap Opal;
+Unearthly Critical Peridot +50 (Fire);
+Unearthly Critical Ruby +50 (Fire);
+Unearthly Damage Onyx +11% (Death);
+Unearthly Shadow Hematite +10;
+
+| pins =
+Ice Blocking Pin (160, Fire);
+Life Disabling Pin (160, Fire);
+Life Punishing Pin (170, Fire);
+Myth Blocking Pin (150, Fire);
+Myth Disabling Pin (170, Fire);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

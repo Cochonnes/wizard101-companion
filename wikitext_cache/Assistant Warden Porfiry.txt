@@ -1,0 +1,265 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 12,400
+| crecla = Polar Bear
+| school = Balance
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Walrusk Mercenary;
+Walrusk Mercenary;
+Walrusk Mercenary;
+
+| world = Polaris
+| location = The Basstille
+| subloc1 = Cell Block A
+| descrip =
+
+| speech =
+:''"I knew this day would come. The Pingouins would find champion. You're too late, though. We have already shipped most of them away. Shocking, yes? When Chief Advisor Rasputin gave the order, I was shocked too. But he reminded me--everyone is guilty of something. Everyone. The last ship leaves any moment. You might be able to stop it... but you will have to go through me first."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Polaris
+| tome description =
+Years of working in the Bastille Prison has given him much to feel guilty about. Especially, his inability to say no to chocolate.
+
+| extract class =
+Polar Bear;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Aura}} If a Wizard casts an Aura, Assistant Warden Porfiry will use his turn during the next Round to cast Supernova if he has sufficient Pips.
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Elemental Defuse;
+Spirit Defuse;
+Donate Power;
+Mana Burn;
+Balance of Power;
+Loremaster;
+Supernova;
+Natural Attack (Balance 110-215-320);
+Savage Paw;
+Mighty Judgement;
+Sabertooth;
+
+| quests =
+The Basstille;
+
+| gold =
+495 - 648;
+
+| hats =
+Hailstorm Tundra Ushanka*F3*WMV;
+The Kroktop*CR;
+Urville Fur Hat of Elation*F2;
+Urville Papakh of Guile;
+Urville Station Papakh;
+
+| robes =
+Blizzardy Tundra Pelage;
+Hailstorm Tundra Suit*F2;
+Tundra Garment of Loyalty;
+Tundra Jacket of Survival;
+Tundra Raiment of Mayhem;
+Urville Snowgusts Coat;
+
+| boots =
+Hailstorm Tundra Boots;
+Tundra Trekkers of Sagacity;
+Tundra Walkers of Survival;
+Urville Boots of Snowgusts;
+Urville Footgear of Anguish;
+Urville Shoes of Wintertide;
+Urville Walkers of Guile;
+
+| athames =
+Frigid Maw Shortblade;
+Mage's Hardy Edge*F2;
+Mage's Roughhewn Dagger*F2;
+Mage's Smoldering Spike;
+Urville Athame of Guile;
+Urville Edge of Snowgusts;
+Urville Kris of Wintertide;
+Urville Spike of Honor;
+
+| amulets =
+Mage's Hardy Carcanet;
+Urville Charm of Snowgusts;
+Urville Necklace of Honor;
+Urville Pendant of Elation;
+
+| rings =
+Band of the Polarian Mage;
+Inspector's Ring of Grief*F3;
+Iron Paw's Band of Clangor;
+
+| wands =
+Mage's Hardy Stave;
+Polarian Mage's Wand;
+Tundra Axe of Loyalty;
+Tundra Bardiche of Ferocity;
+Tundra Bardiche Sagacity;
+Tundra Survival Hatchet;
+
+| decks =
+Deck of the Tundra Sage;
+Polarian Tundra Spelldeck;
+Tundra Cards of Disarray;
+Tundra Deck of Swelters;
+Tundra Gallery of Hailstorms;
+Tundra Survivor's Pack*F2;
+
+| items =
+Medium Enchanted Pot;
+Medium Pot*F2*WMV;
+Polaris Baba Yaga Theme*F3;
+Polaris Gulag Combat Theme*F2;
+Polaris Ice Block Theme*F2;
+Polaris Mine Combat Theme*F3;
+Polaris Opera Theme;
+Polaris Rasputin Combat Theme;
+Small Enchanted Pot*F2;
+Walruskberg Liberated Theme*F2;
+
+| cards =
+Combustion;
+Frostfang;
+Katabatic Wind;
+Magma Colossus*F2;
+Mass Ice Prism;
+Raging Bull;
+Steel Colossus;
+Steel Giant;
+Stone Colossus;
+War Helephant*F2;
+Winged Sorrow;
+Wings of Fate;
+Witch's House Call;
+Yellow Troll*F2*WMV;
+
+| reagents =
+Aether*F5*WMV;
+Agave Leaves*F2;
+Agave Nectar*F2*WMV;
+Amber;
+Amber Dust*F3;
+Ancient Scroll*F7*WMV;
+Aquamarine*F3;
+Astral Shard*F4*WMV;
+Black Pearl*F5;
+Blood Moss*F5*WMV;
+Braided Vine;
+Brass*F4*WMV;
+Bronze Gear*F2*WMV;
+Cobalt*F6*WMV;
+Draconium*F2;
+Ectoplasm*F4*WMV;
+Fire Blossom*F4*WMV;
+Golden Pearl*F3*WMV;
+Grendelweed;
+Mithril*F2*WMV;
+Nickel*F4*WMV;
+Orichalcum*F2*WMV;
+Palladium;
+Scales*F2*WMV;
+Silver;
+Spider Silk*F5*WMV;
+Spring*F4*WMV;
+Stardust;
+Steel*F4*WMV;
+Sunstone*F5*WMV;
+Tin*F2*WMV;
+Titanium;
+Tungsten*F6*WMV;
+Turquoise*F6*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington;
+Chili Cheese Fries;
+Chili Peppers;
+Delicious Cookie*F2;
+French Fries;
+Gourmet Yogurt*F3*WMV;
+Huge Ice Cream*F2;
+Large Ice Cream*F2*WMV;
+Polaris Fries*F2;
+Satyr Chow*F2;
+Ships 'n' Queso*F3*WMV;
+Sprinkle Cupcake*F5;
+Submarine Sandwich*F3*WMV;
+Super Cold Popsicle*F2*WMV;
+Veggie Juice*F2*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+Intrepid Seal Pup;
+Nodori Winged Ram*CR;
+Polar Bear Cub*CR*F2;
+Snowball*CR;
+
+| seeds =
+Angel Oak;
+Baby Carrots;
+Cornbread Fruit Bush;
+Evil Snow Peas*F2*WMV;
+Fish on a Vine*F3*WMV;
+Frozen Fly Trap*F2;
+Goose Tree*F2;
+Green Snow Apples*F4;
+King Parsley*CR*F4*WMV;
+Moon Flower*F4*WMV;
+Ninja Fig*CR*F3*WMV;
+Purple Snow Apples;
+Queen Crape Myrtle;
+Red Huckleberries;
+Snow Apples*F2;
+Ultra Ninja Fig*F2;
+Ultra Snow Apples*F2;
+White Desparagus*F3;
+White Tiger Lily*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

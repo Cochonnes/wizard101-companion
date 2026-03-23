@@ -1,0 +1,99 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 3,360
+| crecla = Raven
+| school = Life
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Grizzleheim
+| location = Ravenscar
+| subloc1 = Raven Fortress
+| descrip = Mord Runechanter is a member of {{Link|Creature|The Coven}}. This is the second fight with him, and takes place at {{Link|Location|Raven Fortress}} with the other members of The Coven. All drops should be recorded on {{Link|Creature|Othin Stormfather}}'s page.
+:''For the version of this Boss encountered in {{Link|Location|Mord's Abode}}, see {{Link|Creature|Mord Runechanter (Ravenscar Boss)}}.''
+:''For the NPC version of this Boss, see {{Link|NPC|Mord Runechanter}}.''
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Death Damage per Pip.
+
+| casts =
+Death Shield;
+Weakness;
+Sprite;
+Lifeblade;
+Life Trap;
+Leprechaun;
+Seraph;
+Centaur;
+Locust Swarm;
+Cyclops;
+Storm Shark;
+Heck Hound;
+
+| quests =
+Blood Brother;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

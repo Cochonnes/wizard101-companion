@@ -1,0 +1,149 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 750
+| crecla = Grendel
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Grendel Urchin;
+
+| world = Grizzleheim
+| location = Savarstaad Pass
+| subloc1 = Thulinn's Cave
+| descrip =
+Thulinn is a Grendel shaman that is responsible for magically sealing the doors to the main fort in [[Location:Draugarth Fort|Draugarth]].  After forging a blade that can slay Grendels, obtaining a talisman from him to gain entrance to the fort is the last thing that Wizards require before challenging the [[Creature:Skellek|leader]] of Savarstaad Pass's Grendels.
+
+Two additional Grendel Urchins will appear if more than two Wizards are present.
+
+| speech =
+:''"You've come a long way to find me, Outlander... a pity you'll never see your homeland again!"''
+
+| spellnotes =
+
+| casts =
+Storm Shield;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Ghoul;
+Fire Elf (50+210);
+Storm Shark;
+Natural Attack (Storm 125x, 70%);
+
+| quests =
+The Gates of Draugarth;
+
+| gold =
+38 - 62;
+
+| hats =
+Circlet of the Fallen;
+Cowl of Retribution*F3*WMV;
+Cowl of the Flamesinger;
+Frostweaver's Hood*F2*WMV;
+Ice Raider's Hat*F2;;
+
+| robes =
+Fireshroud Tunic*F5*WMV;
+Garments of Zeal;
+Glacial Longcoat;
+Igneous Robe;
+Mystifying Raiment;
+Robe of the Life Aria*F7*WMV;
+Runeweave Clothing*F2;
+Vestment of Yesteryear;
+
+| boots =
+Doomstriders*F2*WMV;
+Footgear of the Firehaze;
+Slippers of Diligence;
+Smoke Jumpers*F3*WMV;
+Striders of Strife;
+Thane's Boots;
+
+| athames =
+Bodkin of Fury;
+Iceshadow's Athame;
+Wyrdrazor*F5*WMV;
+
+| amulets =
+
+| rings =
+Jewel of Liveliness*F4*WMV;
+Seal of the Tundra;
+Shimmerstone;
+Stone of Confidence;
+
+| wands =
+
+| decks =
+
+| items =
+Wood-Carven Stool;
+
+| cards =
+Snow Serpent;
+Troll;
+
+| reagents =
+Copper;
+Leather Straps*F2*WMV;
+Nickel*F2;
+Pyrite;
+
+| spellements =
+
+| snacks =
+Dragon Fruit;
+Frosted Cupcake*F2;
+Meat Soup*F3*WMV;
+Moon Pie*F2;
+Spicy Bubblegum;
+Taffy;
+Tasty Biscuit;
+Tiny Pretzel;
+Wild Strawberry;
+
+| jewels =
+Cracked Accurate Ruby +2%;
+Cracked Defense Opal +4;
+Cracked Defense Sapphire +8;
+Imp Jade;
+Thunder Snake Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Couch Potatoes*CR;
+Desparagus (Seed)*F2*WMV;
+Honey Sickle;
+Stinkweed*F2;
+
+| mounts =
+
+| spells =
+
+}}

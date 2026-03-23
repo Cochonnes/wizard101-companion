@@ -1,0 +1,197 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 6,335
+| crecla = Bear
+| crecla2 = Undead
+| school = Ice
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Grendel Snaggleclaw;
+
+| world = Grizzleheim
+| location = Hrundle Fjord
+| subloc1 = Well of Urd
+| descrip =
+
+| speech =
+:''"Who trespasses in my well?! I'll send you to the coldest corner of the afterlife!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+Winter is the bane of their existence. They'd rather be hibernating.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Stun Block;
+Iceblade;
+Ice Prism;
+Ice Trap;
+Thieving Dragon;
+Blizzard;
+Ice Wyvern;
+Blight Hound;
+Colossus;
+Tundra Lord;
+Natural Attack (Ice 85x, 80%);
+
+| quests =
+Board to Death;
+
+| gold =
+40 - 90;
+
+| hats =
+Hearty Bear Hat*F3*WMV;
+Hopping Bear Hat;
+Horned Helm of Bravery*F5;
+Horned Helm of Courage;
+Horned Helm of Valor;
+
+| robes =
+Bear's Heart Jerkin;
+Blustering Coat*F4*WMV;
+Coat of Ages*F3;
+Hardy Coat*F4*WMV;
+Jerkin of the Great Bear;
+
+| boots =
+Barbarian's Bold Boots*F2;
+Barbarian's Valorous Boots;
+Biting Bear Boots*F4;
+Growling Bear Boots*F5*WMV;
+Slashing Bear Boots*F2;
+Snarling Bear Boots*F4*WMV;
+
+| athames =
+Wolf's Bronze Claw*F4*WMV;
+
+| amulets =
+Dragon's Shield Amulet*F7*WMV;
+Wyrm's Blessing Charm;
+
+| rings =
+Ring of Brother Wolf*F3*WMV;
+Ring of Sister Wolf*F2;
+Ring of the Ravenous Wolf;
+Ring of the Wolf Warrior*F3;
+Ring of the Wolf's Song;
+
+| wands =
+Cloudberry Staff*F7;
+Staff of the Boreal Bear*F4*WMV;
+
+| decks =
+
+| items =
+
+| cards =
+Amplify;
+Blizzard;
+Dryad;
+Empower*F7*WMV;
+Gargantuan*F7*WMV;
+Precision*F2;
+Sniper*F3*WMV;
+Spirit Armor;
+Sprite;
+Storm Trap;
+Sunbird;
+Unstoppable*F8*WMV;
+Vampire;
+
+| reagents =
+Bone;
+Brass*F2;
+Bronze Gear*F4*WMV;
+Cobalt;
+Ectoplasm*F10;
+Nickel;
+Tin*F3;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F4*WMV;
+Cauliflowers;
+Delicious Cookie;
+Flaming Soup*F3*WMV;
+Glowing Star Fruit;
+Goat Cheese*F2;
+Golden Apple*F4*WMV;
+Golden Grapes*F2;
+King Banana;
+Salmonberry;
+Shiny Tomato;
+Spicy Drumstick;
+Uni-Corn;
+
+| jewels =
+Blade Flurry Amethyst;
+Dull Critical Peridot +3;
+Dull Defense Peridot +26;
+Great Learner Opal;
+Hexster Citrine;
+Ice-Boon Sapphire;
+Mass Storm Prism Amethyst;
+Monstrous Talent Opal;
+Plain Damage Onyx +15;
+Plain Damage Ruby +15;
+Plain Damage Sapphire +15;
+Plain Defense Opal +16;
+Rage of Winter Sapphire;
+SnowBorn Sapphire;
+Storm-Tooth Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots*F2;
+Cornbread Fruit Bush;
+Orange Dandelion;
+Venus Fly Trap*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,181 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 2,595
+| crecla = Train Boss
+| school = Myth
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+65%;
+
+| incboost =
+20% Storm;
+
+| incresist =
+60% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Ms. Felicity (Tier 2);
+Daniel McCoil (Tier 2);
+Kenny Rooster (Tier 2);
+
+| world = Housing Instance
+| location = Great Sky Train Robbery Gauntlet
+| subloc1 = Great Sky Train Robbery Gauntlet (Tier 2)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+{{Icon|Myth}} '''N. Bison'''
+*{{Icon|Late}} ''"Not enough on your own? Then fall!"'' - If a Wizard joins the duel after the first Round, N. Bison (Tier 2) will cast a Myth Spell that confuses the Wizard for two Rounds.
+**This confusion takes effect the Round after it is cast.
+*{{Icon|Manipulation}} ''"Bow before my Psycho Power!"'' - At the beginning of the first Round and every 7 Rounds thereafter, N. Bison (Tier 2) will cast a Myth Spell that confuses each Wizard for 2 Rounds.
+**This confusion takes effect the Round after it is cast.
+*{{Icon|Damage}} ''"PSYCHO DEFLECTION!"'' - If N. Bison (Tier 2) is attacked, he will retaliate by casting his Natural Attack, taking 20% of the Wizard's max Health.
+
+{{Icon|Balance}} '''Ms. Felicity'''
+*{{Icon|Blade}} ''"Blades off the table!"'' - If a Wizard casts a Blade on another Wizard, Ms. Felicity (Tier 2) will cheat-cast {{Link|Spell|Disarm}} on the Wizard who received the Blade.
+*{{Icon|Trap}} ''"Nobody likes a cluttered battle"''' - If a Wizard casts a Trap, Ms. Felicity (Tier 2) will cheat-cast {{Link|Spell|Cleanse Ward}} on the target of the trap.
+**All Enemies Traps (e.g. {{Link|Spell|Mass Feint}}) will not trigger this cheat.
+*{{Icon|Health}}''"Your invitation has been rescinded"'' - If Kenny Rooster (Tier 2)'s Health falls below ~20%, Ms. Felicity (Tier 2) will cast a Shadow Spell that instantly defeats him.
+
+{{Icon|Death}} '''Daniel McCoil'''
+*{{Icon|Spell}} ''"DRINK THIS MILKSHAKE!"'' - Daniel McCoil will interrupt-cast a Death Spell giving all Wizards one of the following spells:
+**{{GivesSpell|spells = 2|size = x150px|Free Sample|Snake Oil}}
+*{{Icon|Health}} ''"I'm afraid you're of no further use"'' - If Ms. Felicity (Tier 2)'s Health falls below ~20%, Daniel McCoil (Tier 2) will cast a Shadow Spell that instantly defeats her.
+
+{{Icon|Fire}} '''Kenny Rooster'''
+*{{Icon|Aura}} ''"The chickens come home to roast!"'' - If a Wizard casts an Aura, Kenny Rooster (Tier 1) will cast a Natural Attack dealing 300 Fire Damage, which destroys the Aura. A graphic bug during this spell shows inflicted Damage twice.
+*{{Icon|Health}} ''"Time to fold 'em, partner"'' - If Daniel McCoil (Tier 2)'s Health falls below ~20%, Kenny Rooster (Tier 1) will cast a Shadow Spell that instantly defeats him.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Myth Damage.
+
+| casts =
+Storm Shield (-85%);
+Mythblade;
+Myth Prism;
+Pierce;
+Athena Battle Sight;
+Minotaur (50+520);
+Earthquake (425);
+
+| quests =
+
+| gold =
+1,300;
+
+| hats =
+Cool Rancher's Hat (Level 20+)*CR;
+
+| robes =
+Cool Rancher's Duster (Level 20+)*CR*WMV;
+Desert Wrangler's Duster (Level 40+)*CR;
+
+| boots =
+Prairie Rambler's Boots (Level 20+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Bottle Collection*CR;
+Cactus*CR;
+Card Table;
+Cloth Covered Country Table*CR*WMV;
+Decorative Skull*CR*F2*WMV;
+Fish Drying Stand*CR*WMV;
+Grand Steamer Trunk*CR*WMV;
+Hanging Keyring*CR*WMV;
+Horse Shoes*CR;
+Novice's Socket Wrench*F2;
+Ranch Fence*CR;
+Ranch Gate*CR*WMV;
+Red Brick Fireplace*CR*WMV;
+Rugged Bunk*CR;
+Tribal Woven Rug*CR;
+Wooden Outhouse*CR*WMV;
+
+| cards =
+Bad Juju*F2*WMV;
+Blademaster;
+Darkwind;
+Earthquake*F2*WMV;
+Enfeeble (-3);
+Fuel*WMV;
+Furnace*F2*WMV;
+Hex;
+Judgement*WMV;
+Magma Man;
+Scald*F2*WMV;
+
+| reagents =
+Amber Dust;
+Elemental Retriever;
+Leather Straps;
+Sandstone;
+Scales;
+Smoke Screen Token;
+Sunstone*F2;
+
+| spellements =
+
+| snacks =
+7 Layer Taco*F2*WMV;
+Arrow Root*F2*WMV;
+Bell Pepper Steak*WMV;
+Breakfast Tacos*WMV;
+Buttered Bread*F2*WMV;
+Chili Peppers;
+Cow Pie;
+Drumstick*WMV;
+Funnel Cake;
+Harvest Corn*F2*WMV;
+Lemon Daisy*WMV;
+Medium Fish;
+Stuffed Bell Pepper*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+Rancher's Runner*F2*CR;
+
+| seeds =
+
+| mounts =
+Moseyin' Armadillo*7*CR;
+Ramblin' Armadillo*7*CR;
+Trusty Armadillo*1*CR*WMV;
+
+| spells =
+
+| elixirs =
+Purreau's Potion;
+
+}}

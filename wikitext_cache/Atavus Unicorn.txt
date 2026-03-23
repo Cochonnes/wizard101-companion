@@ -1,0 +1,100 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 14,175
+| crecla = Unicorn
+| school = Storm
+| school2 = Life
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Storm;
+Life;
+
+| outpierce =
+14%;
+
+| outboost =
+91%;
+
+| incboost =
+50% Ice, Death;
+
+| incresist =
+50% Fire, Myth;
+
+| outhealing =
+100%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Novus
+| location = Nucleus Gallery
+| subloc1 = Manticore's Madness
+| descrip =
+Atavus Unicorn is considered a Minion to {{Link|Creature|Atavus Monquistan}}. All drops and cheats are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Chaos to Perfection;
+Ha-ha! A 1-Up!;
+Sprite;
+A Perfect Blade!;
+Star Blade;
+Storm Beetle (125);
+Beary Surprise (Tier 5b);
+Catch of the Day (Tier 5b);
+Tempest;
+Luminous Weaver (Tier 5b);
+Goat Monk (Tier 5b);
+Forest Lord;
+Gnomes!;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

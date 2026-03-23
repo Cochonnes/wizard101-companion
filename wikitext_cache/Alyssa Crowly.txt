@@ -1,0 +1,97 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 14,990
+| crecla = Raven
+| school = Myth
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Myth;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Ancient Spirit;
+
+| world = Wizard City
+| location = Castle Darkmoor (Location)
+| subloc1 = Castle Darkmoor Dungeon
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Round}} ''"Behold! The Mighty Magic of Beyond!"'' - At the beginning of the first Round, Alyssa Crowly will cast a Dispel Charm of the Wizard's School on each Wizard.
+**It has the visual appearance of a +100% Damage Charm of the Wizard's School.
+*''"Why... isn't this working?"'' - Alyssa Crowly will say this if one of her Dispels are triggered.
+
+| spellnotes =
+
+| casts =
+Myth Trap;
+Ether Golem;
+Keeper of the Flame;
+Minotaur;
+Orthrus;
+
+| quests =
+The Faux and the Hound;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

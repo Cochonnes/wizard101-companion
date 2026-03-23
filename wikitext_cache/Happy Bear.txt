@@ -1,0 +1,102 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 20,330
+| crecla = Were-Bear
+| school = Balance
+| school2 = Moon
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Balance;
+
+| critical =
+565 Any;
+
+| criticalblock =
+561 Any;
+
+| outpierce =
+24%;
+
+| outboost =
+115%;
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+39% Fire, Ice, Storm, Sun, Moon, Star, Shadow;
+69% Balance;
+
+| outhealing =
+2%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Howling Lands
+| subloc1 = Kingdom of Were-a-Lot
+| descrip =
+Happy Bear is considered a minion to {{Link|Creature|Moonbeam Bear}}. All drops and cheats should be recorded on that page.
+
+| speech =
+
+| casts =
+Weakness;
+Balanceblade;
+Scarab (Tier 2b);
+Savage Paw;
+Obsidian Colossus;
+Hydra;
+Chimera;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells = 
+
+
+
+}}

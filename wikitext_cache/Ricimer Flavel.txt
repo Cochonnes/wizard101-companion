@@ -1,0 +1,179 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 9,520
+| crecla = Froudling
+| school = Death
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Black Cap;
+
+| world = Avalon
+| location = The Wild
+| subloc1 = Ricimer Flavel's Cave
+| descrip =
+
+| speech =
+:''"You want Shane's magic Hammer back? I'll smash you flat and fry you up with some hot peppers and garlic!"''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Deathblade;
+Feint;
+Empower;
+Natural Attack (Death 140-280-435);
+Vampire;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+
+| quests =
+Six to Go;
+
+| gold =
+51 - 139;
+
+| hats =
+Bad Storm Shroud;
+Brisk Helmet of Nodor;
+Fire Spirits' Toasty Helm;
+Hood of the Sacred Lake*F2;
+Hunter's Helm of Mercy;
+
+| robes =
+Brave One's Plate;
+Catalan's Scales*F3*WMV;
+Fire Spirits' Toasty Tunic;
+Jabberwock's Plate*F2*WMV;
+
+| boots =
+Catalan's Scales;
+Friend of the Fire Elf Boots;
+Knight's Boots of Justice;
+Loyal Knight's Boots*F2*WMV;
+Ponycorn Hoofers;
+
+| athames =
+Loyal Steel*F3*WMV;
+Noble Hunter's Dagger;
+
+| amulets =
+Circlet of the Hardy Squire;
+Unknowable Torc*F2;
+
+| rings =
+Bad Host Band;
+Dun Dara's Triskelion;
+Ganelon's Lost Ring;
+Sir Malory's Seal*F3*WMV;
+
+| wands =
+Gallant Longbow;
+Longbow of Integrity*F2*WMV;
+
+| decks =
+Silvershield Cards*F3*WMV;
+
+| items =
+Avalon Tense Theme;
+Avalon Wooden Table;
+Avalon Wyrd Theme*F3*WMV;
+Tree Fountain;
+
+| cards =
+Beguile*F2*WMV;
+Dark Tribute*F4*WMV;
+Efreet;
+Forest Lord;
+Frost Giant*F2*WMV;
+Gargantuan;
+Leviathan;
+Orthrus;
+Plague*F2*WMV;
+Poison*F5*WMV;
+Power Nova;
+Sacrifice*F3*WMV;
+Scarecrow;
+Skeletal Dragon;
+Unstoppable*F2;
+Virulent Plague;
+
+| reagents =
+Black Lotus*F4*WMV;
+Bronze;
+Cat Tail*F2*WMV;
+Cobalt;
+Deep Mushroom*F2;
+Frost Flower*F4*WMV;
+Lava Lily*F3;
+Mist Wood*F3*WMV;
+Ore*F2*WMV;
+Parchment*F3*WMV;
+Pearl*F2*WMV;
+Red Mandrake*F2*WMV;
+Shell*F2*WMV;
+Stone Block*F2*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Bogwich;
+Cauliflowers;
+Cheese Broccoli;
+Chocolate Strawberry;
+Deviled Eggs*F2;
+Glowing Star Fruit;
+Green Grapes*F2;
+Gummy Humongofrog;
+Gummy Wyrms;
+Kola Nuts;
+Roasted Chickpeas;
+Sugar Donut;
+Treant Bark*F2*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+Evil Magma Peas*CR;
+Frozen Fly Trap;
+Key Limes*CR;
+Silver Trumpet Vine*CR;
+White Tiger Lily*F2;
+
+| mounts =
+
+| spells =
+
+}}

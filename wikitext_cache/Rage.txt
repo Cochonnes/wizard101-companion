@@ -1,0 +1,138 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 14,295
+| crecla = Irk
+| school = Fire
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Fire;
+
+| critical =
+503 Any;
+
+| criticalblock =
+460 Any;
+
+| outpierce =
+32%;
+
+| outboost =
+113%;
+
+| incboost =
+30% Ice;
+
+| incresist =
+27% Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+57% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wallaru
+| location = Outback
+| subloc1 = Rage Dream
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+*''"AAAAAAAHHHHHHHH!!!!"'':
+**{{Icon|Global}} At the beginning of the first Round, or if a Wizard casts a Global, Rage will cast {{Link|Spell|Combustion}}.
+***Two {{Link|Spell|Quench}} are required to Dispel this cheat.
+**{{Icon|Pip}} At the start of every Round, if a Wizard has six or more Pips, Rage will cast {{Link|Spell|Scald}}.
+**{{Icon|Pip}} At the start of every Round, if a Wizard has less than six Pips and has a Damage over Time effect, Rage will cast {{Link|Spell|Triage}} on the Wizard.
+**{{Icon|Spell}} If a Wizard casts a Spell that costs seven or more Pips, Rage will cast {{Link|Spell|Detonate}}.
+**{{Icon|Blade}}{{Icon|Trap}}{{Icon|Aura}} Sometimes, when a Blade, Trap, or Aura is cast, Rage will cast Firecharm, giving it one of the following Charms:
+***Fireblade: 20%, 25%, 30%, 35%, 40%, 45%
+***Firespear: 5%, 10%, 15%
+**{{Icon|Pacify}} If a Wizard [[Spell:Pacify|Pacifies]] Rage, it will cast {{Link|Spell|Pacify}}, and then cast three {{Link|Spell|Quench}}s on itself.
+***Any additional Pacify effects will only produce 1 Quench.
+**{{Icon|Threat}} If a Wizard {{Link|Spell|Taunt}}s Rage, it will cast {{Link|Spell|Taunt}}, and then cast {{Link|Spell|Fuel (+35%)}} on the caster.
+
+| spellnotes =
+
+| casts =
+Furnace;
+Fire Wall;
+Firespear;
+Fire Trap (+35%);
+Krampus (Tier 3a);
+Fire Kraken;
+Magma Man;
+Raging Bull;
+Wildfire Treant;
+Lava Lord;
+Lord of Blazes;
+Ashen Bones;
+
+| quests =
+I Dream of Meanie;
+
+| gold =
+1 - 15;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Wallaru Billabong Resort Theme;
+Wallaru Outback Combat Theme*F2*WMV;
+
+| cards =
+Cleanse Charm;
+Elemental Blade;
+Lifeblade;
+Pierce;
+Spirit Blade;
+
+| reagents =
+Brass;
+Leather Straps;
+
+| spellements =
+
+| snacks =
+Heavenly Bubblegum;
+Misfortune Cookie;
+PB Cookie;
+Salty Fish;
+Spicy Chips;
+Tamales;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

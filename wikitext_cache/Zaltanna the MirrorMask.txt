@@ -1,0 +1,176 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 13,120
+| crecla = Mantis
+| school = Balance
+| startpips = 3
+| powerpips = Yes
+| critical =
+97;
+
+| criticalblock =
+57;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+60% Myth, Life, Death;
+
+| incresist =
+150% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Painted Spider;
+
+| world = Khrysalis
+| location = Bastion
+| subloc1 = Tower of Silence
+| descrip =
+Wizards must face Zaltanna the MirrorMask during the Quest, Silent Meditation.
+
+| speech =
+:''"Most peculiar...  Spellbinder, do not hold back!"''
+
+| spellnotes =
+
+| casts =
+Conviction;
+Vengeance;
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Natural Attack (Balance 155-250-345);
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Ra;
+Chimera;
+Judgement;
+
+| quests =
+Silent Meditation;
+
+| gold =
+128 - 225;
+
+| hats =
+Burrower's Barbed Helmet*F3*WMV;
+Burrower's Rainstorm Cap;
+Digger Drone Tactical Helm*F5*WMV;
+Kermes Fire Miner's Helmet;
+Mantis Cowl of Purpose;
+
+| robes =
+
+| boots =
+CloudDancer's Footwraps;
+Digger Drone Boots of Duty*F5*WMV;
+Flame Legs Coalwalkers*F2*WMV;
+Leaf Shield Brisk Walkers*F3*WMV;
+Mantis Boots of Patience;
+
+| athames =
+SkyScreamer's Cutter;
+
+| amulets =
+Night Flame Choker;
+Relic of Thriving Bastion*F2;
+
+| rings =
+
+| wands =
+Blade of CinderHart;
+SnowFur's Longblade*F2;
+
+| decks =
+Gallery of the Woebegone;
+LimeBlight's Gallery*F2;
+
+| items =
+Khrysalis Bastion Theme;
+Khrysalis Thrives Theme*F2;
+
+| cards =
+Choke;
+Crystal Spider;
+Frost Beetle;
+Giant Spider;
+Life Scarab;
+Pierce*F2;
+Rat Illusionist;
+Sanctuary;
+Scarab;
+
+| reagents =
+Black Lotus*F3*WMV;
+Black Pearl;
+Blood Moss;
+Bone*F4*WMV;
+Bronze Gear;
+Deep Mushroom*F3*WMV;
+Draconium*F2;
+Fire Blossom*F3*WMV;
+Golden Pearl;
+Lava Lily*F4*WMV;
+Mist Wood*F2;
+Nickel;
+Nightshade; 
+Ore*F3*WMV;
+Orichalcum;
+Red Mandrake*F2;
+Stone Block;
+Sunstone;
+Titanium;
+Turquoise*F4;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2;
+Dr. Jalapeno;
+Flaming Soup;
+Flapjacks;
+Golden Apple*F2*WMV;
+Golden Grapes;
+Gummy Humongofrog;
+King Banana*F3;
+Shiny Tomato*F2*WMV;
+Uni-Corn*F4;
+
+| jewels =
+Chipped Mana Opal +10;
+Chipped PIP Opal +1%;
+Clear Blocking Opal +5;
+Cracked Defense Peridot +12;
+Death-Eye Onyx;
+Fire Elemental Ruby;
+Imp Jade;
+Minotaur Minion Peridot;
+Polished Defense Jade +42;
+Polished Defense Sapphire +42;
+Polished Health Opal +93;
+Scarab Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig*F2*WMV;
+Saw Palmetto;
+
+| mounts =
+
+| spells =
+
+}}

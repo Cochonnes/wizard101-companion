@@ -1,0 +1,251 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 6,530
+| crecla = Elephant
+| school = Balance
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+25% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Condemned Mander;
+Pit Viper;
+Ravenous Tooth (Life);
+
+| world = Krokotopia
+| location = Upper Zigazag
+| subloc1 = House of Scales Stone Key Room
+| badge = Caged the Elephant
+| descrip =
+*Bellosh is a "Secret Boss" found in the House of Scales dungeon. A {{Link|House|Stone Skeleton Key}} is required to access him.
+*His three Minions are random. They include any combination of Condemned Mander, Pit Viper, or Ravenous Tooth (Life).
+*Bellosh is very similar to {{Link|Creature|Belloq}} as he looks the same, and has the same cheat. He is also the cousin of Belloq.
+*He drops unique Decks.
+
+| speech =
+:''"What strange curiosity is this? A Wizard in the House of Scales? The Mander spirits could of warned you, if only you spoke ancient Mander! Alive, you are worthless. But once you are no longer a threat, well... your trappings will fetch a pretty penny at the Bazaar! My cousin often says he dislikes dueling Wizards, but I can't see much before my tusks to worry me."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+This cousin of another infamous pachyderm also has a penchant for looting and price gouging. And cheating.
+
+| extract class =
+Elephant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Damage}} ''"I thought you came here to hurt me!"'' - If Bellosh is not attacked once per Round, then next round he will cheat-cast {{Link|Spell|Ra (635-715)}}.
+
+| spellnotes =
+
+| casts =
+Vengeance;
+Conviction;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Natural Attack (Balance 110-215-320);
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Ra;
+Chimera;
+Judgement;
+
+| quests =
+
+| gold =
+967 - 1,143;
+
+| hats =
+Ancient Rebus Headgear;
+
+| robes =
+Ancient Rebus Vestment;
+Burning Scales Raiment;
+Dune Storm Armor;
+Hands of Anubis Uniform;
+Soul Devourer's Tunic;
+
+| boots =
+Desert Rain Mukluks;
+Soul Devourer's Footwraps;
+
+| athames =
+Blade of Anubis' Verdict*F3;
+Blade of the Fire River*F3*WMV;
+Dagger of the Cold Bones*F3;
+Dagger of the Devourer;
+Dagger of the Hidden Words*F3;
+Izft's Dirk of Incarnation*F4*WMV;
+Kris of Thunderous Resolve*F3*WMV;
+
+| amulets =
+Ampul of Desert Squalls*F3*WMV;
+Hands of Anubis Pendant*F2*WMV;
+Jewel of Anubis' Judgment;
+Medallion of the Condemned*F2*WMV;
+Necklace of Upper Zigazag;
+Rebus Medallion*F3*WMV;
+Relic of the Brisk Breeze*F2;
+Zigazag Desert Relic;
+
+| rings =
+Band of the Sistrum*F2*WMV;
+Hands of Anubis Ring;
+Rebus Seal*F2*WMV;
+Ring of the Ravenous Teeth*F4*WMV;
+Ring of the Simmering Evil*F3;
+Scales of Justice Band*F4*WMV;
+Stone of the Longest Hall*F3;
+
+| wands =
+Wrath of Anubis Staff*F2*WMV;
+
+| decks =
+Anubis' Cards of Veracity*F4*WMV;
+Array of the Archaic Rebus;
+Brisk Breeze Pasteboards;
+Case of the Hall of Echoes (Square);
+Case of the Hall of Echoes (Tear);
+Case of the Hall of Echoes (Triangle);
+Case of the Virtuous Soul;
+Condemned Soldier's Arcana;
+Deck of Sand Squalls;
+Deck of the Simmering Evil*F3;
+Duat Traveler's Gallery (Square)*F2*WMV;
+Duat Traveler's Gallery (Tear)*F2;
+Duat Traveler's Gallery (Triangle)*F2*WMV;
+House of Scales Array (Square)*F2;
+House of Scales Array (Tear);
+House of Scales Array (Triangle);
+Pit Viper's Array of Venom (Square);
+Pit Viper's Array of Venom (Tear);
+Pit Viper's Array of Venom (Triangle);
+Resolute Hand of Anubis (Square);
+Resolute Hand of Anubis (Tear);
+Resolute Hand of Anubis (Triangle);
+Set of the Ravenous Teeth (Square);
+Set of the Ravenous Teeth (Tear);
+Set of the Ravenous Teeth (Triangle);
+Soul Devourer's Arcana (Square);
+Soul Devourer's Arcana (Tear);
+Soul Devourer's Arcana (Triangle)*F2*WMV;
+
+| items =
+Orange Waves Wallpaper*F3*WMV;
+Pink Waves Wallpaper*F2*WMV;
+Red Waves Floor*F3*WMV;
+Salmon Waves Floor*F3*WMV;
+Stone Skeleton Key*CR*F2;
+
+| cards =
+Efreet*F3*WMV;
+Fire Serpent*F2*WMV;
+Krokotillian*F2*WMV;
+Locust Swarm*F5*WMV;
+Ra*F2*WMV;
+Scarab*F3*WMV;
+Scorpion*F5*WMV;
+Stone Colossus*F4*WMV;
+Sunbird*F4*WMV;
+
+| reagents =
+Amber Dust*F6*WMV;
+Bone*F3;
+Brass*F4*WMV;
+Bronze;
+Bronze Gear*F4*WMV;
+Ectoplasm*F4*WMV;
+Leather Straps*F3*WMV;
+Merle's Whisker*F5*WMV;
+Mote of Severity*F4*WMV;
+Nickel;
+Spider Silk*F4*WMV;
+Steel;
+Tin;
+
+| spellements =
+
+| snacks =
+Cheese Broccoli;
+Glowing Star Fruit;
+Green Grapes;
+Gummy Firecat*F2;
+Jelly Baby;
+Kola Nuts;
+Nettle Root;
+Tiny Fish*F4*WMV;
+
+| jewels =
+Blemished Defense Jade +24;
+Blemished Defense Onyx +24;
+Blemished Defense Sapphire +24;
+Dull Blocking Citrine +3;
+Dull Blocking Sapphire +3;
+Dull Critical Amethyst +4;
+Dull Critical Jade +4;
+Dull Critical Opal +1;
+Dull Piercing Amethyst +2%;
+Dull Piercing Jade +2%;
+Feinting Spell Onyx;
+Mass Storm Prism Amethyst;
+Plain Blocking Amethyst +6;
+Plain Blocking Onyx +5;
+Plain Blocking Onyx +6;
+Plain Blocking Opal +3;
+Plain Blocking Sapphire +6;
+Plain Damage Onyx +15;
+Plain Damage Sapphire +15;
+Plain Defense Opal +16;
+Reshuffle Citrine;
+Storm Elemental Opal;
+Storm-Boon Amethyst;
+Time Skip Sapphire;
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Cornbread Fruit Bush;
+Orange Dandelion;
+Snap Dragon;
+
+| mounts =
+Mander Palanquin*PERM*CR*F4*WMV;
+
+| spells =
+
+}}

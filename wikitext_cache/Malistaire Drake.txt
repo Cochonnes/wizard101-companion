@@ -1,0 +1,401 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 8,000
+| crecla = Wizard
+| school = Death
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Soul Servant;
+Soul Servant;
+Soul Servant;
+
+| world = Dragonspyre
+| location = The Great Spyre
+| subloc1 = The Crown of Fire
+| lootchest = Malistaire's Chest
+| descrip =
+Malistaire Drake is the final Boss of Dragonspyre as well as the final Boss of the First Arc. He aims to summon the Dragon Titan to resurrect his fallen wife, {{Link|NPC|Sylvia Drake}}, by stealing the Krokonomicon from the {{Link|Location|Royal Museum}} without realizing that the Dragon Titan could destroy the Spiral.
+
+| speech =
+:'''Cyrus Drake:''' ''"Malistaire, this is Cyrus, your brother. Stop this madness at once! The Dragon Titan will no more serve you than he did the lords of Dragonspyre. Sylvia ... your wife... She is gone. There is no power in the Spiral that can bring her back... certainly not this."''
+:'''Malistaire:''' ''"My brother Cyrus ... you have apparently lost faith in my abilities. How unfortunate... and how blind of you. The lords of Dragonspyre lacked the will to command the Dragon Titan... I am far stronger than they were. I am the Master of Death. The Dragon Titan will do as I command. I will order it to return my wife Sylvia to life, so that she might rule at my side..."''
+:'''Narrator:''' ''"Cyrus holds up the Knowledge Crystal storing Sylvia Drake's memories."''
+:'''Cyrus Drake:''' ''"I can see that in your madness, there is no listening to reason. But perhaps you'll listen to the sound of your own heart."''
+:'''Sylvia Drake:''' ''"Malistaire, please... it's me, Sylvia. Listen to me. You must stop this madness. The man I loved would never risk the lives of so many for his own desire. I love you... please release me... be happy and move on."''
+:'''Malistaire:''' ''"I expected better of you, brother! You thought you could trick me with a mere illusion? You'll pay for evoking my beloved Sylvia! Now for my great work... the summoning of the Dragon Titan. Stand aside, young Wizard... you cannot hope to stop me."''
+
+| spellnotes =
+
+| casts =
+Weakness;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Vampire;
+Lord of Night;
+Skeletal Pirate;
+Wraith;
+Scarecrow;
+Natural Attack (Malistaire);
+Fire Elf;
+Meteor Strike;
+Ice Wyvern;
+Lightning Bats;
+Storm Shark;
+Kraken;
+
+| quests =
+The Final Countdown;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:MooShu Badges|Oni Slayer]]''' {{Icon|Oni Slayer}} Badge and has not unlocked the '''[[Basic:Celestia Badges|Astrologist]]''' {{Icon|Astrologist}} Badge, the following drops will be available:
+*Chance of 1-3 Level 50+ Hat, Robe, Boots, or Wand {{Icon|Hat}}{{Icon|Robe}}{{Icon|Boots}}{{Icon|Wand}}
+*6-7 Claw {{Icon|Reagent}}
+*35 Spellements for Rank 2-6 Spells {{Icon|Spellement}}
+If a Wizard already has the Astrologist Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of The Great Spyre to acquire a [[Item:Level Scaling Elixir - 50|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+163 - 229;
+
+| hats =
+Bonfire Headdress*F2*WMV;
+Cap of Chronicles;
+Cap of Constitution*F2*WMV;
+Equalizer's Coif;
+Hood of the Vigilant*F6*WMV;
+Ivy-Wrapped Cap*F2;
+Kraysys' Hat of the Hidden*BR;
+Kraysys' Hood of the Hidden*BR;
+Kraysys' Unfaithful Cowl*BR;
+Kraysys' Unfaithful Hat*BR*WMV;
+Mantle of the Icicle*F2;
+Mythological Mantle*F3;
+Promethean Hood;
+Reinforced Helmet*CR;
+Shroud of the Equinox;
+Snowcrusher's Galvanic Hat*BR*F2*WMV;
+Snowcrusher's Galvanic Shroud*BR;
+Snowcrusher's Hat of Embers*BR*WMV;
+Snowcrusher's Mantle of Embers*BR*F2;
+Spiderkeeper's Dark Hat*BR*WMV;
+Spiderkeeper's Darkshroud*BR;
+Spiderkeeper's Ice Hat*BR;
+Spiderkeeper's Icemantle*BR;
+Spiderkeeper's Story Hat*BR;
+Spiderkeeper's Storyveil*BR;
+Veil of Leaves*F2*WMV;
+Wolverine's Helm*CR;
+
+| robes =
+Arbiter's Raiment*F4*WMV;
+Arboreal Robes*F3*WMV;
+Blizzard Cloak;
+Fiery Tunic*WMV;
+Final Curtain*F2*WMV;
+Malistaire Drake's Ebon Robe*BR;
+Malistaire Drake's Ebon Suit*BR;
+Malistaire's Dragonfire Cloak*BR*F2;
+Malistaire's Dragonfire Suit*BR*WMV;
+Malistaire's Iceflame Suit*BR;
+Malistaire's Iceflame Tunic*BR;
+Malistaire's Purgatory Coat*BR;
+Malistaire's Purgatory Suit*BR;
+Malistaire's Suit of Torment*BR;
+Malistaire's Tunic of Torment*BR;
+Malistaire's Unhallowed Suit*BR*WMV;
+Malistaire's Unhallowed Tunic*BR*F2*WMV;
+Malistaire's Wrathful Suit*BR*WMV;
+Malistaire's Wrathful Wrap*BR*F2;
+Robe of Radiance*F2*WMV;
+Robe of the Greatest Saga*F2*WMV;
+Shibboleth Smock;
+Smock of the Frost Giant*F2*WMV;
+Terminus Wrap*F4*WMV;
+Tunic of the Sphinx;
+Verdant Vestment;
+Whirlwind Wrap*F2;
+Wrap of the Monsoon*F2*WMV;
+
+| boots =
+Ashen Footwraps;
+Boots of Equivalence;
+Boots of the Bountiful;
+Boots of the Comet*CR;
+Boots of the Slipstream*CR;
+Boots of the Titan*CR;
+Dragonclaw Boots*F2;
+Footgear of the North Wind;
+Kraysys' Boots of Retreat*BR;
+Kraysys' Subterfuge Slippers*BR;
+Kraysys' Subterfuge Walkers*BR*F2*WMV;
+Kraysys' Walkers of Retreat*BR*F2*WMV;
+Rainstorm Waders*F2;
+Salamander-Hide Shoes*F3*WMV;
+Sandals of Lost Aeons;
+Sandals of Neutrality;
+Sandals of the Squall*F5*WMV;
+Shoes of the Whispering Dark*F2;
+Snowcrusher Shelter Walkers*BR;
+Snowcrusher Tension Walkers*BR*WMV;
+Snowcrusher's Shoes of Shelter*BR;
+Snowcrusher's Snowstompers*BR;
+Snowcrusher's Snowwalkers*BR*WMV;
+Snowcrusher's Tread of Tension*BR;
+Spiderkeeper's Charstriders*BR*F4*WMV;
+Spiderkeeper's Charwalkers*BR;
+Spiderkeeper's Thundershoes*BR;
+Spiderkeeper's Thunderwalkers*BR*F2*WMV;
+Vineyard Shoes;
+
+| athames =
+Benevolent Knife*CR;
+Dragon's Eye Dagger*F4*WMV;
+Dragonblood Dirk;
+Malistaire Drake's Deathedge*F3*WMV;
+
+| amulets =
+
+| rings =
+Band of the Hearth*F2;
+Dragonscale Ring*F3*WMV;
+Malistaire Drake's Ruby Signet*F7*WMV;
+Ring of Dominance*F3*WMV;
+Ring of the Forefathers*F3;
+
+| wands =
+Allegiance Staff*WMV;
+Amoretto's Staff*CR*HOL;
+Avalanche Legendary Spellsword*BR;
+Avalanche's Legendary Cutlass*BR;
+Cerulean Edge*CR;
+Dean Darkflame's Cleaver*BR*F2*WMV;
+Dean Darkflame's Spellsword*BR*WMV;
+Enchanted Nutcracker Wand*CR*HOL;
+Longblade of the Homunculus*BR;
+Rainbow's Reward*CR*HOL;
+Redwind's Viridian Blade*BR*F2;
+Redwind's Viridian Spellsword*BR;
+Scepter of the Red Hart*CR*HOL;
+Shockblade of the Hoarder*BR;
+Soulsinger's Soulsword*BR*F2;
+Soulsinger's Spellsword*BR*WMV;
+Spellsword of the Hoarder*BR;
+Spellsword of the Homunculus*BR*WMV;
+Spellsword of the Steward*BR;
+Staff of the Equinox*CR*HOL;
+Staff of the Hopper*CR*HOL;
+Sword of the Steward*BR;
+
+| decks =
+
+| items =
+Adept's Socket Wrench*F5*WMV;
+Crate of Chickens*F3*WMV;
+Dragonspyre Main Theme*F6*WMV;
+Green Holiday Ornament*HOL;
+Krokopatra Exalted Duel*CR*F2;
+Large Snowflake*HOL;
+Long Corner Wall Ruins;
+Meowiarty Archmage Duel*CR*F2*WMV;
+Meowiarty Exalted Duel*CR*F2*WMV;
+Professor Drake*CR;
+Rattlebones Master Duel*CR;
+Ruined Painting*CR*F3*WMV;
+Short Corner Wall Ruins*F3*WMV;
+Singed Magic Book*F4*WMV;
+Small Corner Wall Ruins;
+Snowman Wrapped Gift*CR*HOL;
+Zeus Exalted Duel*CR;
+
+| cards =
+Scarecrow;
+To The Basilica;
+Tough;
+Wraith;
+
+| reagents =
+Brass*F2;
+Claw*BR*F3*WMV;
+Claw @ 6 Claw*BR*F2;
+Claw @ 7 Claw*BR*F2;
+Cobalt*F3*WMV;
+Ectoplasm*F10*WMV;
+Lead;
+Nickel*F2*WMV;
+Spider Silk*F7*WMV;
+Tin*F4;
+
+| spellements =
+Banshee*BR*F2;
+Blight Hound*BR;
+Centaur*BR*F4;
+Colossus*BR*F2;
+Cyclops*BR;
+Cyclops Minion*BR*F4;
+Earth Walker*BR*F2;
+Evil Snowman*BR*F2;
+Fire Elf*BR;
+Gearhead Destroyer*BR*F2;
+Ghoul*BR*F2;
+Helephant*BR*F2;
+Hydra*BR*F2;
+Ice Wyvern*BR*F2;
+Immolate*BR*F2;
+Kraken*BR;
+Leprechaun*BR*F3;
+Lightning Bats*BR*F2;
+Locust Swarm*BR*F2;
+Minotaur*BR*F2;
+Nature's Wrath*BR*F3;
+Phoenix*BR*F2;
+Scorpion*BR;
+Seraph*BR*F2;
+Skeletal Pirate*BR*F3;
+Snow Serpent*BR*F2;
+Spectral Blast*BR*F2;
+Stone Colossus*BR*F2;
+Storm Shark*BR*F2;
+Stormzilla*BR;
+Sunbird*BR;
+Triton*BR*F2;
+Troll*BR*F3;
+Vampire*BR*F2;
+Wraith*BR*F2;
+
+| snacks =
+Flaming Soup*F3*WMV;
+Goat Cheese*F9*WMV;
+Golden Grapes*F5*WMV;
+Gummy Humongofrog*F8*WMV;
+King Banana*F5*WMV;
+
+| jewels =
+Add Health Opal;
+Attentive Opal;
+Balefrost Sapphire*WMV;
+Blemished Accurate Amethyst +5%;
+Blemished Accurate Citrine +5%*F2;
+Blemished Accurate Jade +5%*F3*WMV;
+Blemished Accurate Onyx +5%;
+Blemished Accurate Peridot +5%;
+Blemished Accurate Ruby +5%;
+Blemished Accurate Sapphire +5%*WMV;
+Blemished Damage Citrine +12;
+Blemished Damage Jade +12;
+Blemished Defense Peridot +24;
+Blemished Health Opal +36;
+Blemished Health Opal +37;
+Blemished Health Opal +38*WMV;
+Blemished Health Opal +39*F2*WMV;
+Blemished Health Opal +40;
+Blemished Health Opal +41;
+Blemished Health Opal +42;
+Blemished Health Opal +43;
+Blemished Health Opal +44*F2*WMV;
+Blemished Health Opal +45*F2*WMV;
+Blemished Mana Opal +17;
+Blemished Mana Opal +18*WMV;
+Blemished Mana Opal +19*WMV;
+Blemished Mana Opal +20;
+Blemished PIP Opal +4%;
+Centaur Jade;
+Colossus Sapphire*WMV;
+Darkwind Amethyst*WMV;
+Donate Power Citrine*WMV;
+Doom and Gloom Onyx;
+Dull Accurate Sapphire +6%;
+Dull Critical Sapphire +4*WMV;
+Dull Damage Citrine +13;
+Dull Damage Jade +13;
+Dull Damage Opal +7;
+Dull Health Opal +46;
+Dull Piercing Amethyst +2%;
+Earthquake Peridot;
+Flawed Accurate Amethyst +4%;
+Flawed Accurate Citrine +4%;
+Flawed Accurate Jade +4%*WMV;
+Flawed Accurate Onyx +4%;
+Flawed Accurate Opal +2%*F2*WMV;
+Flawed Accurate Peridot +4%*F2;
+Flawed Accurate Ruby +4%;
+Flawed Accurate Sapphire +4%;
+Flawed Health Opal +26;
+Flawed Health Opal +27*F2*WMV;
+Flawed Health Opal +28*WMV;
+Flawed Health Opal +29;
+Flawed Health Opal +30;
+Flawed Health Opal +31;
+Flawed Health Opal +32*F2;
+Flawed Health Opal +33*WMV;
+Flawed Health Opal +34;
+Flawed Health Opal +35;
+Flawed Mana Opal +13*F3*WMV;
+Flawed Mana Opal +14;
+Flawed Mana Opal +15;
+Flawed Mana Opal +16;
+Flawed PIP Opal +3%*F2*WMV;
+Helephant Ruby;
+Humongofrog Peridot*WMV;
+Hydra Citrine*F2*WMV;
+Ice Wyvern Sapphire;
+Kraken Amethyst;
+Mega-Upset Opal;
+Meteor Strike Ruby*F2*WMV;
+Minotaur Peridot*F2*WMV;
+Phoenix Ruby;
+Power Play Citrine*F3*WMV;
+Sanctuary Jade;
+Seraph Jade*WMV;
+Skeletal Pirate Onyx;
+Stormzilla Amethyst;
+Ultra Mute Opal;
+Wraith Onyx*WMV;
+
+| pins =
+
+| pets =
+Earth Walker*CR;
+Jade Oni*CR;
+Lump of Coal*HOL;
+Maple Moose*CR*HOL*F2;
+Nutcracker*CR*HOL;
+Rescue Rover*CR*HOL;
+Storm Hound*CR;
+Yuletide Spirit*CR*HOL;
+
+| seeds =
+Fiery Boom Shroom*WMV;
+King Parsley*CR;
+White Laugh-O-Dil;
+
+| mounts =
+Bat Wings;
+Seraph Wings;
+
+| spells =
+To The Basilica*F2*WMV;
+
+}}

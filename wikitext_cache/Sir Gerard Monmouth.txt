@@ -1,0 +1,209 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 9,840
+| crecla = Fox
+| school = Balance
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+25% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Storm Elemental;
+
+| world = Avalon
+| location = The Wild
+| subloc1 = Tower of the Blue Dahlia
+| descrip =
+
+:| speech =
+:''"Alas, it pains me to greet you, good Knight Errant. I am compelled by the Lady of the Blue Dahlia to fight all who enter. Either I will kill you, and prolong my curse, or you will defeat me. In that unlikely occurrence, you will take up my curse."''
+
+| spellnotes =
+
+| casts =
+Conviction;
+Vengeance;
+Elemental Shield;
+Spirit Shield;
+Balanceblade;
+Elemental Blade;
+Spirit Blade;
+Elemental Trap;
+Natural Attack (Balance 150-250-445);
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Ra;
+Judgement;
+
+| quests =
+Guest Right;
+
+| gold =
+49 - 116;
+
+| hats =
+Brave One's Mantle;
+Honor Bound Helm;
+Hood of the Sacred Lake*F2*WMV;
+Mask of the Catalan*F3*WMV;
+Mask of the Silent Hunter;
+Wrath of the Wild*F2;
+
+| robes =
+Bad Storm Shroud;
+Fire-Spitter Robes*F3*WMV;
+Winter Wyrm's Cloak*F2*WMV;
+
+| boots =
+Boots of the Lake Shore;
+Deep Water Splashers;
+Hanging Stones Striders;
+Knight's Boots of Justice*F3*WMV;
+Long as Night Walkers;
+Luck Smithed Boots;
+Merciful Knight's Boots*F3*WMV;
+Ponycorn Hoofers;
+Splashing Stream Waders;
+
+| athames =
+Badger's Claw*F2*WMV;
+Horn Handled Knife*F3*WMV;
+
+| amulets =
+Dependable Squire's Torc*F2*WMV;
+Torc of Pluck*F2*WMV;
+
+| rings =
+Band of the Lost Abbey;
+Black Annie's Band;
+Brisk Circle of Nodor*F3*WMV;
+Ganelon's Lost Ring;
+
+| wands =
+Balanced Longbow*F2*WMV;
+Fellbringer's Bow*F3;
+
+| decks =
+Clockwork Deck*F6*WMV;
+
+| items =
+Avalon Abbey Road Theme*F2*WMV;
+Avalon Main Theme;
+Avalon Shield*F3;
+Small Arms Weapons Rack;
+Square Pedestal;
+
+| cards =
+Availing Hands*F4*WMV;
+Black Mantle*F4*WMV;
+Bladestorm*F4*WMV;
+Colossal;
+Efreet;
+Elemental Defuse*F2*WMV;
+Fire Dragon;
+Frost Giant;
+Gargantuan;
+Helping Hands;
+Hex*F4*WMV;
+Leviathan;
+Orthrus;
+Power Nova;
+Ra;
+Rebirth;
+Scarecrow;
+Skeletal Dragon;
+Snow Angel;
+Spirit Defuse*F3*WMV;
+Spirit Shield*F3*WMV;
+Storm Lord;
+Unstoppable;
+
+| reagents =
+Black Lotus*F4*WMV;
+Cat Tail*F4*WMV;
+Cobalt;
+Deep Mushroom*F4*WMV;
+Frost Flower*F4*WMV;
+Lava Lily*F3*WMV;
+Mist Wood*F3;
+Nickel;
+Ore*F3*WMV;
+Parchment*F5*WMV;
+Pearl*F2;
+Red Mandrake;
+Shell*F4*WMV;
+Stone Block*F3*WMV;
+
+| spellements =
+
+| snacks =
+Bogwich*F2*WMV;
+Cauliflowers;
+Cheese Broccoli;
+Cracker*F2;
+Deviled Eggs*F3*WMV;
+Flaming Soup;
+Flapjacks*F2*WMV;
+Glowing Taffy*F2*WMV;
+Goat Cheese*F3*WMV;
+Golden Apple;
+Green Grapes;
+Gummy Humongofrog*F2;
+Gummy Wyrms*F2;
+King Banana*F2;
+Pigeon Pie;
+Roasted Chickpeas;
+Spicy Drumstick;
+Strawberry Cupcake*F2;
+Submarine Sandwich;
+Tiny Fish;
+
+| jewels =
+Dogged Opal;
+Opaque Defense Onyx +36;
+Piercemonger Peridot;
+Unbalancer Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak*F4*WMV;
+Blue Huckleberries;
+Deadly Fly Trap*F3;
+Evil Magma Peas*CR;
+Pink Huckleberries*F2*WMV;
+Red Huckleberries;
+Silver Trumpet Vine*CR;
+White Desparagus;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

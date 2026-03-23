@@ -1,0 +1,129 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 11,705
+| crecla = Gator
+| school = Ice
+| school2 = Death
+| masteries =
+Balance;
+
+| cheats = Yes
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Ice;
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+7%;
+
+| outboost =
+80%;
+
+| incboost =
+5% Fire, Myth;
+
+| incresist =
+20% Ice, Storm, Life, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gussied-Up Gator (Storm-Life) (Tier 2);
+Gussied-Up Gator (Death-Storm) (Tier 2);
+
+| world = Housing Instance
+| location = Night Mire Gauntlet
+| subloc1 = Night Mire Gauntlet (Tier 2)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"Ah, a human. I see my Glowbugs failed to secure you as a specimen for my research, as they have so many others... yet you press on through the Mire. You have come, predictably, to protect your scaleless kind's great secret, a gatekeeper at the threshold of magnificence... Too late! Through meticulous calculations and shadowy alchemical mysteries, I have transplanted the greatest traits of humanity into reptiles... Now we, too, HAVE HAIR! For too long reptiles have been brushed aside, cruelly denied the thrill, the invincibility of a Good Hair Day! But no more! No longer shackled to a life of scaly subservience at the heel of humans, now reptiles shall be as my creations... impeccably coiffed! Seize them, my pretties! Hair as remarkable as theirs will usher in a new era of reptile style!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tardiness makes me snippy!"'' - If a Wizard joins after the first Round, Dr. Neaux will cast a Moon Spell to remove 90% max Health on the Wizard.
+*{{Icon|Global}}{{Icon|Health}} ''"Let's see if this grows on you.."'' - On the first Round, Dr. Neaux will cast {{Link|Spell|Doom and Gloom (Moon)}}, and use his turn to cast a 5 Pip Moon Spell, which removes 70% max Health from all Wizards.
+*{{Icon|Health}}{{Icon|Curse}} ''"I do declare: you need more!"'' - At the start of every three Rounds, Dr. Neaux will use a Moon Spell to remove 5% max Health on all Wizards and {{Link|Spell|Mass Infection (Shadow)}}.
+
+| spellnotes =
+
+| casts =
+Empowerment;
+Celestial Intervention (Tier 3b);
+Moon Blade;
+Dragonlance;
+Evil Snowman (Tier 3b);
+Reindeer Knight (Tier 3b);
+Deathly Depths;
+Abominable Weaver;
+Colossus (Tier 3b);
+Deer Knight (Tier 3b);
+Vampire (Tier 3b);
+
+| quests =
+They Came From Night Mire!;
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Beetle Plant;
+Broken Palm Tree*TEST;
+Night Mire Swamp Eerie Theme;
+Sea Cucumber*TEST;
+
+| cards =
+
+| reagents =
+Participation Trophy*TEST;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Balance-Dealer Citrine*TEST;
+Big Energy Opal;
+Energy Opal*TEST;
+Storm-Dealer Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

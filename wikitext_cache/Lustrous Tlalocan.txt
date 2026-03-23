@@ -1,0 +1,220 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 14,840
+| crecla = Parrot
+| school = Life
+| startpips = 6
+| powerpips = Yes
+| critical =
+110 Any;
+
+| criticalblock =
+50 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Venomous Quetzal;
+
+| world = Azteca
+| location = Tierra de Brea
+| subloc1 = Zemeckis Cave
+| descrip =
+
+| speech =
+:''"El Yollotl? That is but a legend. I am the real jewel of Tierra de Brea. And my luster will charm you to your doom!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Is it safe to say the Lustrous Tlalocan is vain? Yes. Yes, Tlalocan say that.
+
+| extract class =
+Parrot;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Mend;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Natural Attack (Life 145-290-435);
+Goat Monk;
+Centaur;
+Bronze Helephant;
+Gnomes!;
+Spinysaur;
+
+| quests =
+Going for Broke;
+
+| gold =
+123 - 157;
+
+| hats =
+Dawn Hour Mantle*F2*WMV;
+Elite Jura Guard Helm*F2;
+Five Fangs of Fury Headdress*F4;
+Indigo Wing Crown;
+Thirteen Death Mask;
+Tree of Secrets Chac Mask*F2;
+Twisted Fang Mask*F3;
+
+| robes =
+
+| boots =
+Black Butterfly Guard's Wraps;
+Black Tears of Night Wraps;
+Fiery Chac's Great Boots*F2*WMV;
+Ice Age Tyrant's Walkers;
+Indigo Wing Striders;
+Jaguar Prince's Leapers;
+
+| athames =
+Burning Water Talon;
+Tears of Mother Moon Blade;
+
+| amulets =
+Charm of the Gold Aztecosaur;
+Pitch Black Lake Plague Shell;
+Shining Cold House Amulet;
+Smoking Fang Talisman;
+Stone of the Green Skycarrier*F2*WMV;
+
+| rings =
+Acampi Reedfist's Lost Seal;
+Bleeding Sun Warrior's Loop;
+Chac's Challenge Loop;
+Falling Star's End Time Band*F2;
+Mother Moon's Count Ring*F3;
+Seal of Thunder Horn's Glory;
+Storm Quetzal's Signet;
+Twin Giants Fashioned Stone;
+
+| wands =
+Eclipse Spear of Azteca;
+Lance of Night Fire*F2;
+Tears of Night Lance*F3;
+Winter Lord's Obsidian Shard;
+
+| decks =
+Codex of the Lost Fire;
+Deck of the Jaguar Spirit*F2;
+Storm Sun Gallery*F2*WMV;
+Winter's Pyramid Deck*F2;
+
+| items =
+Azteca Apocalypse Theme*F2;
+Azteca Main Theme*F2*WMV;
+Hollow Log;
+Star Clothesline*F3;
+Starburst Frond*F2;
+
+| cards =
+Basilisk;
+Colossal*F2;
+Dr. Von's Monster;
+Efreet;
+Extraordinary;
+Frost Demon;
+Gnomes!;
+Leviathan;
+Potent Trap*F3;
+Primordial;
+Sharpened Blade*F2;
+Sirens*F2;
+
+| reagents =
+Black Lotus*F3;
+Black Pearl;
+Blood Moss*F2;
+Bone;
+Bronze;
+Bronze Gear*F2;
+Deep Mushroom*F3*WMV;
+Fire Blossom*F2;
+Fossil;
+Lava Lily*F5*WMV;
+Mist Wood*F3;
+Mithril;
+Nickel;
+Nightshade;
+Ore*F3*WMV;
+Red Mandrake*F2*WMV;
+Silver;
+Stone Block*F5;
+Sunstone;
+Tungsten;
+Turquoise*F4*WMV;
+
+| spellements =
+
+| snacks =
+Apatotatoes*F2;
+Aztecan Hot Chocolate;
+Caramel Apple;
+Dr. Jalapeno;
+Glowing Star Fruit;
+Guava*F2*WMV;
+Jelly Baby*F2;
+Maize*F3;
+Papaya;
+Pterotomatoes;
+Quetzal Pretzel;
+Rex Tea;
+Stego Waffles;
+Tamales*F2;
+Zocalo Wings;
+
+| jewels =
+Add Health Opal;
+Clear Critical Opal +5;
+Empowerment Talent Opal;
+Polished Defense Opal +22;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Fiery Boom Shroom;
+Fish on a Vine;
+Maelstrom Snap Dragon;
+Red Bell Pepper;
+Venus Fly Trap;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

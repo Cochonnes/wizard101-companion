@@ -1,0 +1,115 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 6,025
+| crecla = Siren
+| school = Fire
+| school2 = Storm
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+13%;
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Siren (Challenge);
+Siren (Challenge);
+
+| world = Wizard City
+| location = Atlantea (Challenge)
+| subloc1 = Temple of Sea Songs (Challenge)
+| badge = Tele-Feller
+| descrip =
+*For the Standard version of this Creature, see {{Link|Creature|Teles}}.
+
+| speech =
+:''"Your song is discordant and full of strife, Wizard!  Now listen to the final countdown!"''
+
+| cheatnotes =
+*{{Icon|Jinx}} ''"Fire burns Myth."'' - Whenever a harmful Ward is placed on Teles, Teles will cast Brimstone Revenant on the caster.
+**Spells that place harmful Wards on all enemies will trigger this cheat.
+*{{Icon|Ward}} ''"You cannot shelter from the flame!"'' - Whenever a helpful Ward is cast, Teles will cast Helephant on the recipient.
+**Spells that place Shields on all allies will trigger this cheat, and Teles will cast Helephant on the caster.
+
+| spellnotes =
+
+| casts =
+Fireblade;
+Stormblade (+30%);
+Inferno Blade;
+Natural Attack (Fire 195-305-435);
+Leviathan (Tier 2b);
+
+| quests =
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic: Aquila Badges|Swole Like Sisyphus]]''' {{Icon|Swole Like Sisyphus}} Badge, the following drops will be available:
+*{{Icon|Spellement}} 9-10 Aquila Spellements will drop each time from '''any''' School
+
+| gold =
+3 - 17;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Eternal Skeleturion*CR;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Teles
+}}

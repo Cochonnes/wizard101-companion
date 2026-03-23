@@ -1,0 +1,235 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 15,180
+| crecla = Dwarf
+| school = Myth
+| school2 = Life
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+182 Any;
+
+| criticalblock =
+237 Any;
+
+| outpierce =
+35%;
+
+| outboost =
+200%;
+
+| incboost =
+5% Storm, Death;
+
+| incresist =
+70% Myth, Life;
+
+| outhealing =
+75%;
+
+| inchealing =
+75%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Justicar Poacher;
+
+| world = Empyrea
+| location = Southwest Aero Plains
+| subloc1 = Cretan Bull Field
+| descrip =
+This sheriff of Port Aero is more than meets the eye.
+
+| speech =
+:''"Nice and easy there, you stupid bull. These fine ladies ain't gonna hurt you, least not 'til they get you back to Nimbus. What? Wizard? Ah, you figured it out, didn't you? Ya I programmed Ebenezer to attack the Cretan Bull. Well, capture it, really. You see the Nimbs love to test themselves against Myth Monsters, bigger the better. Cretan Bull was special order. But we got that blasted treaty, so I sent the robot, figuring if it failed, it'd still make a good scapegoat. And it worked like a charm. The robot gets the blame. And I can still sell this bull and look like a hero for doing it. Once I get rid of you."''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Late! Feel the power of my mythical strength!"'' - If a Wizard joins the duel after the second Round, he will '''Athena Battlesight''', '''{{Link|Spell|Witch's House Call (No Minion)}}''', and '''Orthrus''' on the Wizard.
+*{{Icon|Blade}} ''"I feel great!"'' If at full Health at the end of a Round, he casts a protected '''{{Link|Spell|Balanceblade (+100%)}}'''.
+*{{Icon|Heal}} ''"This will not do..."'' If not at full Health, he casts a version of Blessing that restores '''10%''' of his total Health ('''1,518''').
+**This cheat is unaffected by any modifiers, such as Sanctuary or Infection, and it is not dispelled by Entangle.
+
+| spellnotes =
+*Casts a protected Balanceblade and Feint (All Enemies).
+'''Natural Attack:'''
+*Deals 460 Myth Damage for 4 Pips.
+*Deals 420 Life Damage for 4 Pips.
+
+| casts =
+Adapt;
+Magnify;
+Frenzy;
+Spirit Armor;
+Rebirth;
+Balanceblade;
+Feint (All Enemies);
+Blinding Light;
+Cyclops;
+Natural Attack (Myth 115-230-345, 75%);
+Athena Battle Sight;
+Minotaur;
+Earthquake;
+Noble Humongofrog;
+Orthrus;
+Natural Attack (Life 105-210-315, 85%);
+Life Banshee (250);
+Spirited Minotaur (Life);
+
+| quests =
+I Sought the Sheriff;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge and has not unlocked the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge, the following drops will be available:
+*5 Spellements will drop each time from '''any''' School for their respective rank 10, 11, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+97 - 353;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Hopeful Zanadu Dagger;
+
+| amulets =
+Blazing Zanadu Pendant;
+Grim Zanadu Pendant;
+
+| rings =
+
+| wands =
+
+| decks =
+Bodacious Kalamar Deck;
+Chill Kalamar Deck;
+Choice Kalamar Deck*F2;
+Gnarly Kalamar Deck;
+Mondo Kalamar Deck;
+Righteous Kalamar Deck*F2;
+
+| items =
+Aero Dwarf Blue Vase;
+Empyrea Aero Plains Theme;
+Empyrea Husk Combat;
+Kalamar Chair;
+Kalamar Side Table;
+Wide Kalamar Vase;
+
+| cards =
+Cyclops;
+Elemental Blade;
+Elemental Spear;
+Fable Lord;
+Fire Prism;
+Humongofrog;
+Ice Prism*F2;
+Lifespear;
+Lord of the Squall*F2;
+Mass Myth Prism;
+Mutate Banshee (Life);
+Mutate Snowman (Storm);
+Oni No Jade;
+Oni No Plague;
+Stormspear;
+
+| reagents =
+Aether;
+Amber Dust;
+Ancient Scroll*F4*WMV;
+Aquamarine*F2;
+Astral Shard;
+Black Pearl;
+Blood Moss*F2;
+Brass;
+Cobalt;
+Fire Blossom*F2;
+Fish Fin;
+Flying Squid Ink;
+Glass Sliver;
+Golden Pearl*F4;
+Mithril*F3;
+Nickel*F2*WMV;
+Orichalcum;
+Scales*F2;
+Silver;
+Spider Silk*F2;
+Spring*F4*WMV;
+Steel*F6*WMV;
+Sunstone;
+Tungsten*F5*WMV;
+Turquoise;
+Vine;
+
+| spellements =
+Celestial Calendar*BR;
+Climaclysm*BR;
+Nested Fury*BR;
+Sabertooth*BR;
+Wings of Fate*BR;
+
+| snacks =
+Beast Wellington*F2;
+Berry Poundcake;
+Cherry Pie;
+Discord Grape Jelly*F2;
+Eye Candy*F3*WMV;
+Fire Passion Fruit;
+Glowing Taffy;
+Golden Squash;
+Gummy Humongofrog;
+Hero Sandwich;
+Hot Cross Buns*F2;
+Killer Tomato;
+Lollipop;
+Meat Soup;
+Oyster Shooter;
+Pizza*F2*WMV;
+Pyramints;
+Rock and Roll Candy*F2;
+Salmon Joy;
+Satyr Chow;
+Sprinkle Cupcake;
+
+| jewels =
+Shiny Accurate Ruby +12%;
+Shiny Blocking Citrine +15;
+Shiny Blocking Peridot +15;
+Shiny Defense Peridot +50;
+Sparkling Critical Citrine +18;
+Sparkling Damage Amethyst +28;
+Sparkling Damage Citrine +28*F2;
+Sparkling Health Opal +124;
+Sparkling Mana Opal +52*F3;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Bamboo Shoots;
+Blue Huckleberries;
+Honey Bee Plant;
+Maelstrom Snap Dragon;
+Pink Huckleberries;
+Red Couch Potatoes;
+Red Grapes of Wrath;
+Snap Dragon;
+Sunion*CR;
+Sword Fern*CR;
+Ultra Alligator Pear Tree;
+Ultra Dandelion;
+Ultra Huckleberries;
+Ultra Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,158 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 1,550
+| crecla = Beastmoon Creature
+| school = Balance
+| startpips = 1
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Avalon Battlegrounds
+| location2 = Arena
+| subloc2 = Celestia Battlegrounds
+| location3 = Arena
+| subloc3 = Mirage Battlegrounds
+| descrip =
+Stout Spawn are one of the Boss monsters that can be encountered during the first Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events.  They will have 1 random, Rank 1 Elite, Stage 1 monster present to assist them.
+
+'''Potential Avalon Minions:'''
+*{{Link|Creature|Paragonmaton}}
+
+'''Potential Celestia Minions:'''
+*{{Link|Creature|Monsoon Lagoony}}
+*{{Link|Creature|Steamed Crab}}
+
+'''Potential Mirage Minions:'''
+*{{Link|Creature|Desert Scavenger}}
+*{{Link|Creature|Muck Elemental}}
+*{{Link|Creature|Paragonmaton}}
+*{{Link|Creature|Trengil Scrounger}}
+
+| speech =
+
+| spellnotes =
+*Casts a 2-Pip version of Power Conversion that gives the target 1 regular Pip upon casting and grants the target 1 Pip from incoming Spells ranked 2+.
+*Casts a version of Spiked Buckler that applies a +75 Damage Blade and an unprotected 75 Damage Absorb Ward.
+*Casts a version of Thieving Beetle that deals 100 Balance Damage.
+
+| casts =
+Power Conversion;
+Spiked Buckler;
+Thieving Beetle;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 5 - 10 Lunari.
+
+| gold =
+20 - 30;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone*F3*WMV;
+Balance Rune*F6*WMV;
+Balance Thread*F6*WMV;
+Death Rune;
+Eldritch Thread*F13*WMV;
+Eldritch Thread @ 2 Eldritch Thread*F12*WMV;
+Elemental Moonstone*F4*WMV;
+Elemental Thread*F4;
+Enhanced Myth Rune;
+Fire Rune;
+Hunter's Moonstone*F19*WMV;
+Life Rune*F2*WMV;
+Myth Rune*F2*WMV;
+Spirit Moonstone*F4*WMV;
+Spirit Thread*F6;
+Storm Rune*F3*WMV;
+
+| spellements =
+Blizzard;
+Crimson Phantom*F2*WMV;
+Dream Golem*F4*WMV;
+Elemental Golem*F2;
+Ether Golem*F4*WMV;
+Frostbite;
+Frostfeather*F2;
+Humongofrog*F2;
+Inferno Salamander*F2;
+Infestation;
+Iron Curse;
+Judgement*F2;
+Legend Golem*F2;
+Meteor Strike;
+Monster Mash*F3;
+Naphtha Scarab*F2;
+Obsidian Colossus*F2;
+Poison*F4;
+Regenerate*F3;
+Sandstorm*F2;
+Sprite Swarm*F2;
+Thermic Golem*F2;
+Thieving Dragon;
+Vermin Virtuoso*F2;
+Volcanic Golem;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Beastmoon Seed*F29*WMV;
+
+| mounts =
+
+| spells =
+
+| recipes =
+7 Infestation Spellements;
+7 Volcanic Golem Spellements @ Volcanic Golem;
+7 Glacial Golem Spellements @ Glacial Golem;
+
+}}

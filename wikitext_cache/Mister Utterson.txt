@@ -1,0 +1,224 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 4,340
+| crecla = Cat
+| school = Ice
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Mister Poole;
+
+| world = Marleybone
+| location = Barkingham Palace
+| subloc1 = Royal Airship
+| descrip =
+For the purpose of drops, Mister Utterson is considered the primary Boss of this encounter.  All drops and cheats are recorded on this page.
+*A {{Link|Creature|Lanyon Scratcher}} and an {{Link|Creature|Enfield Trickster}} Minion appear if more than two Wizards are present.
+
+| speech =
+:'''Mister Utterson:''' ''"Mister Poole, did you order up any extra cargo?"''
+:'''Mister Poole:''' ''"Such as what, Mister Utterson?"''
+:'''Mister Utterson:''' ''"Say a young whelp, about so-high, and so-smart. Dressed more or less like a Wizard."''
+:'''Mister Poole:''' ''"What rot! I'd never order up such a thing. Whatever would I do with a Wizard, Mister Utterson?"''
+:'''Mister Utterson:''' ''"Perhaps when we got high enough in the sky, you wanted to see if a Wizard could fly."''
+:'''Mister Poole:''' ''"What a clever idea, Mister Utterson. What a clever idea indeed."''
+
+| cheatnotes =
+{{Icon|Spell}} '''Mister Utterson'''
+*''"Time to burn it to the ground."'' - If Mister Poole regularly casts {{Link|Spell|Fuel}} on a Wizard, then Mister Utterson will interrupt-cast a -35% version of Legion Shield.
+*''"I'll follow your lead"'' - If Mister Poole regularly casts {{Link|Spell|Fire Trap}} on a Wizard, then Mister Utterson will interrupt-cast a +35% version of Ice Trap on the same Wizard.
+*''"We'll have hard words indeed!"'' - If Mister Poole regularly casts his Natural Attack on a Wizard, then Mister Utterson will interrupt-cast his {{Link|Spell|Natural Attack}} on the same Wizard.
+**If this cheat triggers while Mister Utterson has no Pips, then his Natural Attack will act as though he has one Pip.
+
+{{Icon|Spell}} '''Mister Poole'''
+*''"I'll match you, sir."'' - If Mister Utterson casts Iceblade, then Mister Poole will interrupt-cast a '''+40%''' {{Link|Spell|Fireblade}} on himself.
+*''"I'll follow your lead"'' - If Mister Utterson regularly casts Ice Trap on a Wizard, then Mister Poole will interrupt-cast a {{Link|Spell|Fire Trap (+35%)}} on the same Wizard.
+*''"Time to armor up!"'' - If Mister Utterson regularly casts Legion Shield, then Mister Utterson will interrupt-cast a {{Link|Spell|Fuel (+35%)}} on a random Wizard.
+*''"Let's have some hard words!"'' - If Mister Utterson regularly casts his Natural Attack on a Wizard, then Mister Poole will interrupt-cast his Natural Attack on the same Wizard.
+**If this cheat triggers while Mister Poole has no Pips, then his Natural Attack will act as though he has one Pip.
+
+| spellnotes =
+
+| casts =
+Tower Shield;
+Legion Shield;
+Iceblade;
+Ice Trap;
+Freeze;
+Ice Prism;
+Steal Ward;
+Balefrost;
+Natural Attack (Ice 115-225-335);
+Ice Wyvern;
+Winter Moon;
+Frostbite;
+Colossus;
+
+| quests =
+The Adventure of the Queen's Jewels;
+
+| gold =
+101 - 170;
+
+| hats =
+Barkingham Bombin of Brio;
+Hat of the Forlorn Watch*F2;
+Palace Guard's Rain Topper*F3*WMV;
+Palace Guard's Stovepipe;
+Royal Cap of Alliance;
+Topper of Royal Wit;
+Yeoman's Cap of Bounty*F2*WMV;
+Yeoman's Top Hat of Reverie;
+Yeoman's Topper of Unity*F2*WMV;
+Yeoman's Winter Top;
+
+| robes =
+
+| boots =
+Barkingham Clogs of Repose*F2*WMV;
+Barkingham Shoes of Wit;
+Boots of the Forlorn Watch;
+Palace Guard's Firewalkers*F2*WMV;
+Palace Guard's Rain Waders*F3*WMV;
+Yeoman's Boots of Reverie*F2*WMV;
+Yeoman's Shoes of Bounty*F3*WMV;
+Yeoman's Walkers of Unity;
+Yeoman's Winter Boots;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Noble Trophy of Equality;
+Regal Token of Luminosity;
+Relic of Imperial Perpetuum*F2;
+Relic of the Reign of Ice*F2;
+Royal Bequest of Eidolon;
+Solemn Kingdom Heirloom*F2;
+Trophy of the Raucous Court*F3*WMV;
+
+| decks =
+
+| items =
+Wooden Skeleton Key*CR*F6*WMV;
+
+| cards =
+Azoth*F2;
+Balefrost*F8*WMV;
+Cat Thug*F6*WMV;
+Clockwork*F6*WMV;
+Clockwork Spider*F3*WMV;
+Darkwind*F3*WMV;
+Deadly Scratcher*F3*WMV;
+Doom and Gloom*F9*WMV;
+Humongofrog*F6*WMV;
+Ice Wyvern*F6*WMV;
+Iron Golem*F4*WMV;
+Kraken*F5*WMV;
+Meteor Strike*F8*WMV;
+Power Play*F3*WMV;
+Sanctuary*F7*WMV;
+Sandstorm*F5*WMV;
+Seraph;
+Street Sweeper*F5*WMV;
+Time of Legend*F5*WMV;
+Vampire*F4*WMV;
+Wyldfire*F6*WMV;
+
+| reagents =
+Bone*F32*WMV;
+Copper*F4*WMV;
+Ectoplasm*F29*WMV;
+Iron*F4*WMV;
+Leather Straps*F31*WMV;
+Nickel*F2*WMV;
+Spider Silk*F31*WMV;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F3*WMV;
+Cauliflowers*F5*WMV;
+Delicious Cookie*F3*WMV;
+Dr. Jalapeno*F2*WMV;
+Flaming Soup;
+Flapjacks*F3*WMV;
+Glowing Star Fruit*F6*WMV;
+Glowing Taffy*F3*WMV;
+Golden Grapes*F2;
+Jelly Baby*F4*WMV;
+Kola Nuts*F3*WMV;
+Salmonberry*F3*WMV;
+Shiny Tomato*F4*WMV;
+Spicy Drumstick*F4*WMV;
+Strawberry Cupcake*F2*WMV;
+Submarine Sandwich*F4*WMV;
+Uni-Corn*F4*WMV;
+
+| jewels =
+Banshee Onyx*F3;
+Bomber Opal;
+Chipped Defense Opal +8*F2*WMV;
+Cracked Damage Opal +3;
+Cyclops Peridot;
+Dependable Opal;
+Evil Snowman Sapphire;
+Fire-Giver Ruby;
+Flawed Accurate Opal +2%;
+Flawed Damage Opal +5;
+Flawed Health Opal +29*F2*WMV;
+Flawed Resilient Opal +2%;
+Ice-Eye Sapphire;
+Locust Swarm Citrine*F2*WMV;
+Myth-Away Peridot;
+Myth-Boon Peridot;
+Recovery Opal;
+Storm-Boon Amethyst;
+Storm Shark Amethyst*F2*WMV;
+Super-Stall Opal;
+Sunbird Ruby;
+
+| pins =
+
+| pets =
+Black Spider;
+Blue Ghost;
+Blustering Scamp*F2*WMV;
+Crabling*CR*F2*WMV;
+Dark Sprite*F2*WMV;
+Leprechaun*F2;
+Red Ghost*F2*WMV;
+Seraph;
+
+| seeds =
+Maelstrom Snap Dragon;
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

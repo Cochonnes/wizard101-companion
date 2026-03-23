@@ -1,0 +1,126 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 100
+| crecla = Elemental
+| school = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+607;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+69% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Raid
+| location = Crying Sky
+| subloc1 = Xibalba Wastes (North)
+| badge = Crusher of the Cometborn
+| descrip =
+Xibalba Elemental is an optional Boss in the Crying Sky Raid. It is summoned on the top of the pyramid in Xibalba Wastes (North) by defeating a {{Link|Creature|Xibalba Sprite}}.
+*Summoning Xibalba Elemental grants the "[[Basic:Badges|Foe of the Cometborn]]" Badge.
+
+| speech =
+:''"Face the inevitable. Face Xibalba."''
+
+| cheatnotes =
+*''"What is death can never die!"'' - At the beginning of Round 1, Xibalba Elemental casts an Equalize Global, setting the Damage cap to '''1'''.
+*After the first cheat, Xibalba Elemental casts one of the following Invunerability Auras:
+**{{Icon|Balance}} - ''"Xibalba brings balance!"'' - Immune to all schools except '''Balance''' for 99 Rounds.
+**{{Icon|Fire}} - ''"Xibalba burns!"'' - Immune to all schools except '''Storm''' for 99 Rounds.
+**{{Icon|Ice}} - ''"Xibalba freezes!"'' - Immune to all schools except '''Fire''' and for 99 Rounds.
+**{{Icon|Storm}} - ''"Xibalba crackles!"'' - Immune to all schools except '''Ice''' for 99 Rounds.
+**{{Icon|Death}} - ''"Xibalba is death!"'' - Immune to all schools except '''Myth''' for 99 Rounds.
+**{{Icon|Life}} - ''"Xibalba is life!"'' - Immune to all schools except '''Death''' for 99 Rounds.
+**{{Icon|Myth}} - ''"Xibalba is legend!"'' - Immune to all schools except '''Life''' for 99 Rounds.
+
+*''"No!"'' - If a Wizard removes Xibalba Elemental's Aura, it will deal 1 Damage. Xibalba Elemental will then use Blessing on himself, healing for 100% of his max Health.
+**Because this cheat deals Damage, the next cheat will be activated.
+*"''Aaaahhhhhh!"'' - If Xibalba Elemental takes any Damage, he will use a no-Damage version of Supernova on himself, then use {{Link|TreasureCard|Exit Combat}} on the caster, and change to a new Immunity Aura.
+*''"Death comes for you all!"'' - At the end of every Round, Xibalba Elemental casts a version of Deer Knight that deals 20% max Health Damage on all Wizards.
+*''"I feel... MORTALITY."'' - After 7 Aura cycles, Xibalba Elemental will cast {{Link|Spell|Doom and Gloom}}, removing the Damage cap.
+**(Needs confirmation on Doom and Gloom version).
+
+| spellnotes =
+
+| casts =
+Infection;
+Mass Infection;
+Strangle;
+Quench;
+Melt;
+Dissipate;
+Vaporize;
+Entangle;
+Unbalance;
+
+| quests =
+
+| dropnotes =
+All 12 Wizards in the Raid receive the drops, not just the ones within the battle.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Azteca Raid Theme;
+
+| cards =
+Cleansing Blade;
+Fatal Volt Blade;
+Grave Blade;
+Raindrop Blade;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

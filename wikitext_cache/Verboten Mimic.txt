@@ -1,0 +1,180 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 32,000
+| crecla = Mimic
+| school = Moon
+| cheats = Yes
+| shadowslots = 3
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Mirage
+| location = Aggrobah
+| subloc1 = Vault of the Verboten
+| badge = Mimic Muter
+| descrip =
+Verboten Mimic is a Stone Skeleton Key Boss located in the River District of Aggrobah.
+*This Creature is named Mimic, but his speech calls him Verboten Mimic.
+
+| speech =
+:''"Ohhh! Somebody clearly didn't get the memo! Or perhaps you just can't read. This is the Vault of the Verboten. No one, and I mean no one allowed! First rule in Vault of the Verboten is don't talk about Vault of the Verboten. The second, slightly less well known - don't enter the Vault. You just broke the second rule, thereby forcing me to break the first! What did you expect in here? Treasure? Hah! I've got your treasure right here!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"A surprise for you too!"'' - If a Wizard is late, he will cheat-cast {{Link|Spell|Steal Pips (Moon)}} to steal 1 Pip from the Wizard.
+*{{Icon|Polymorph}} ''"A treasure of tricks!"'' & ''"I can change forms all day long!"'' & ''"Perhaps this form's too easy?"'' - Every three Rounds, the Verboten Mimic will Polymorph into one of the forms listed below.
+
+:{{Icon|Myth}}  '''{{Link|Polymorph|Cyrus Drake}}'''
+::*''"You can't trick a Mimic!"'' - He will remove all [[:Category:Trap Spells|Traps]] from himself the first time trapped.
+::*''"Oh! I've got an idea!"'' - He will cast Mystic Colossus.
+
+:{{Icon|Moon}}  '''{{Link|Polymorph|Prince Gobblestone}}'''
+::'''Cheat Cycle:'''
+::*During this Cycle, the Boss will pass since all these Spells are interrupt.
+::*Round 1 - He will cast a triple Tower Shield on himself, Legion Shield, and Brace.
+::*Round 2 - He will cheat-cast Wings of Fate.
+::*Round 3 - He will cast {{Link|Spell|Blinding Freeze}}.
+
+:{{Icon|Balance}}  '''{{Link|Polymorph|Luska Charmbeak}}'''
+::*''"Only attack if you have been inked!"'' - At the beginning of each Round, he will "Ink" the Wizard in the first spot (Sun spot), which applies a {{Link|Spell|Smoke Mantle}}.
+::*''"Still fighting? Have some more ink!"'' - After losing 25% of his health, he will begin to ink the Wizard in the second spot (eye).
+::*''"If you can still see, don't look at me!"'' - If a non-inked Wizard uses a single target attack Spell on him, he will cast one of the following Spells.
+::**{{Link|Spell|Poison}} - '''800''' + '''2,000''' Death Damage over 3 Rounds
+::**{{Link|Spell|Power Link}} - '''400''' + '''1,500''' Fire Damage over 3 Rounds & '''200''' + '''800''' Heal over Time on itself.
+::*He will remove traps which are used on him.
+:::*Indemnity can be used to to avoid this cheat.
+:::*If a multi-trap Spell is used, such as {{Link|Spell|Elemental Trap}}, he will only remove the last trap applied (Storm/Life Trap).
+
+:{{Icon|Sun}}  '''{{Link|Polymorph|Mithraya}}'''
+::*''"Protector!"'' - At the beginning of the first Round, she will summon a [[Creature:Stellar Protector (Rank 17)|Stellar Protector]].
+::*She will cast Smoke Screen (-50%) on her first turn and every round when a Wizard successfully casts a Spell.
+:::*''"The cards align! Now's your chance!"'' When both [[:Category:Blade Spells|Blades]] and [[:Category:Trap Spells|Traps]] are present in the battle, the cheat will end until they are no longer present.
+
+:{{Icon|Shadow}}  '''{{Link|Polymorph|Ghost Dog}}'''
+::*''"Your body and soul are mine once more."'' - At the end of the first Round, he will summon a [[Creature:Hagakure Blade (Rank 17)|Hagakure Blade]] and a [[Creature:Seijun Killer (Rank 16)|Seijun Killer]].
+::*''"Again face the poetry of war!"'' - On any given turn, he will cast a Death Damage over Time Spell that deals '''4,000''' Death Damage over 10 Rounds.
+:::*This can be countered with Triage or Mass Triage.
+::*''"The way of the Samoorai is found in death!"'' - Casts a {{Link|Spell|Detonate (Death)}} on the target. 
+::*''"I retain my resolve!"'' - If a Wizard casts any Ward, he will cast {{Link|Spell|Shatter}}.
+
+| spellnotes =
+See the respective pages for the spell casts and stats of each of this Boss's Polymorph Forms.
+*{{Link|Polymorph|Cyrus Drake}}
+*{{Link|Polymorph|Ghost Dog}}
+*{{Link|Polymorph|Luska Charmbeak}}
+*{{Link|Polymorph|Mithraya}}
+*{{Link|Polymorph|Prince Gobblestone}}
+
+| casts =
+
+| quests =
+
+| gold =
+1,322 - 4,919;
+
+| hats =
+Eerem Courtier's Headwrap*F2;
+
+| robes =
+Eerem Courtier's Raiment*F5*WMV;
+
+| boots =
+Eerem Courtier's Givehs;
+
+| athames =
+Eerem Courtier's Razor*F2;
+Khanjar of Mighty Istanboa*F6*WMV;
+Razor of Eerem Palace*F3;
+
+| amulets =
+Eerem Courtier's Talisman*F4*WMV;
+Istanboa Pendant of Might*F3*WMV;
+Necklace of Eerem Palace*F2*WMV;
+
+| rings =
+Charmbeak's Karma Band*F2;
+Drake Ancestral Signet*F3;
+Ghost Dog's Dire Loop;
+Hagakure's Monsoon Ring*F2;
+Mithraya Vivid Seal*F4*WMV;
+Mithraya's Blazing Loop*F2;
+Prince's Glacial Band*F3*WMV;
+Stellar Protector's Ring*F2;
+
+| wands =
+
+| decks =
+Array of Mighty Istanboa;
+Eerem Courtier's Spread*F2;
+Eerem Palace Gallery*F8*WMV;
+
+| items =
+Adept's Socket Wrench;
+Cactus Pods*F6*WMV;
+Dusty Rug*F6*WMV;
+Expert's Socket Wrench*F3;
+Folded Blankets*F4*WMV;
+Green Basket*F7*WMV;
+Lined Cabinet*F4*WMV;
+Novice's Socket Wrench*F2*WMV;
+Red Basket*F3*WMV;
+Stone Skeleton Key*CR;
+Wicker Box*F3*WMV;
+Wicker Chair*F4*WMV;
+Wooden Skeleton Key*CR;
+
+| cards =
+Banshee*F2*WMV;
+Black Cat*F6*WMV;
+Dark Tribute*F3*WMV;
+Dragonblade (Balance)*F3;
+Dryad*F2;
+Elemental Blade*F6*WMV;
+Fortify*F3*WMV;
+Imp*F3*WMV;
+Leprechaun;
+Minotaur*F4*WMV;
+Sandstorm*F2;
+Snow Serpent*F5*WMV;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Mini Mimic*F6*WMV;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

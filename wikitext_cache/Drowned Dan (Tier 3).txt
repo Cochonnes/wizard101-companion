@@ -1,0 +1,183 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 10,235
+| crecla = Undead
+| school = Life
+| masteries =
+Balance;
+Fire;
+
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Fire;
+Balance;
+
+| critical =
+195;
+
+| criticalblock =
+280;
+
+| outpierce =
+15%;
+
+| outboost =
+100%;
+
+| incboost =
+15% Death;
+
+| incresist =
+60% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+Sunken Sam (Tier 3);
+Sunken Sam (Tier 3);
+Sunken Sam (Tier 3);
+
+| world = Celestia
+| location = Science Center
+| subloc1 = Drowned Dan's Chamber
+| badge = Undead Pirate's Scourge
+| descrip =
+Drowned Dan (Tier 3) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Celestian Spellemental Pack}}.
+*This Tier is for level 66-109 Wizards.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+Actually his name is Dave. Why does everyone call him Dan?
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Aura}} ''"Ye must sink the sams to learn me code"'' - Drowned Dan will cast an ''Invulnerability'' -300% Brace Aura making him Immune to Damage.
+*{{Icon|Round}} ''"The code is #-#-#-#"'' - At the start of the second Round, Drowned Dan will reveal the first number of the code. Each time a Minion is defeated, the next number of the code is revealed at the start of the following Round. The code represents four different Spell pip costs that Drowned Dan must be targeted with in order to deactivate the Invulnerability Aura.
+'''List of Codes:'''
+*Drowned Dan will use one of the following nine codes:
+**"1-5-2-7"
+**"1-5-7-9"
+**"1-5-7-10"
+**"3-8-0-6"
+**"3-8-10-6"
+**"3-8-10-9"
+**"4-7-0-10"
+**"4-7-3-2"
+**"4-7-3-10"
+'''Correct Responses:'''
+*''"Blast! Ye be correct!"'' - is his response if answered correctly the first time.
+*''"Yar! A lucky guess!"'' - is his response if answered correctly the second time.
+*''"Blimey! They've figured it out!"'' - is his response if answered correctly the third time.
+*''"Nooo! My protection!"''' - is his response if answered correctly the fourth time, and casts a version of Supernova on himself that deals no Damage.
+'''Incorrect Responses:'''
+*''"Incorrect! Back to the start with ye!"'' - is his response if answered incorrectly, starting over the original sequence.
+
+| spellnotes =
+
+| casts =
+Lifespear (+10%);
+Lifeblade (+40%);
+Mass Life Trap;
+Nature's Wrath (Tier 4b);
+Centaur (Tier 4a);
+Forest Lord;
+Rebirth;
+Spinysaur;
+Spiritual Tribunal (Tier 4a);
+Nautilus Unleashed (Tier 4a);
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+
+| hats =
+
+| robes =
+Celestian Neon Cape (Level 100+)*CR;
+Celestian Photon Cape (Level 90+)*CR;
+Celestian Xenon Cape (Level 90+)*CR;
+
+| boots =
+Celestian Photon Striders (Level 90+)*CR;
+Celestian Photon Striders (Level 100+)*CR*F2;
+Celestian Xenon Striders (Level 90+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Celestian Xenon Axe (Level 90+)*CR;
+
+| decks =
+
+| items =
+Artisan's Socket Wrench*F2;
+Celestian Hut;
+Celestian Lamp;
+Chariot Painting*CR;
+Fan Coral;
+Wheelbarrow;
+Wooden Skeleton Key*CR;
+
+| cards =
+Azoth;
+Celestial Intervention;
+Nautilus Unleashed;
+Ship of Fools*F4;
+Spiritual Tribunal;
+
+| reagents =
+Draconium;
+Participation Trophy;
+
+| spellements =
+Celestial Intervention;
+Nautilus Unleashed;
+Ship of Fools;
+Spiritual Tribunal;
+
+| snacks =
+
+| jewels =
+Polished Piercing Hematite +5%
+
+| pins =
+
+| pets =
+Feral Zorphie;
+
+| seeds =
+
+| mounts =
+Celestian Mech*PERM*CR;
+
+| spells =
+
+}}

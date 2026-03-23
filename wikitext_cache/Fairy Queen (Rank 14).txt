@@ -1,0 +1,106 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 18,000
+| crecla = Fairy
+| school = Life
+| masteries =
+Death;
+
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+14%;
+
+| outboost =
+200%;
+
+| incboost =
+10% Myth, Balance;
+
+| incresist =
+30% Shadow;
+
+| outhealing =
+50%;
+
+| inchealing =
+50%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Rattlebones Exalted Challenge
+| descrip =
+*Fairy Queen (Rank 14) is considered a Minion to {{Link|Creature|Rattlebones (Rank 14)}}. All drops should be recorded on that page.
+
+| speech =
+
+| spellnotes =
+*Casts a version of Sprite Trap which places a {{Link|Spell|Death Trap}} on all Wizards, despite the Spell card's description.
+
+| casts =
+Dark Shepherd;
+Cycle of Life;
+Satyr;
+Rebirth;
+Sacrifice (Death);
+Reaperblade (Death);
+Sharp Reaperblade;
+Curse;
+Natural Attack (Life 540);
+Sprite Trap (450);
+Hungry Caterpillar;
+King Artorius (Life);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Fairy Queen (Duel)
+}}

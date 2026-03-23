@@ -1,0 +1,112 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 14,485
+| crecla = 
+| school = Fire
+| school2 = Death
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+529 Any;
+
+| criticalblock =
+171 Any;
+
+| outpierce =
+21%;
+
+| outboost =
+106%;
+
+| incboost =
+30% Ice;
+
+| incresist =
+27% Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+57% Fire;
+
+| outhealing =
+8%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Darkmoor
+| location = Outsiders Camp
+| subloc1 = Zone of Fortune
+| descrip =
+The second Tarot card of the Wizard's reading, Reversed Strength represents "the influences upon the Magician from the world around them."
+
+| speech =
+
+| cheatnotes = 
+*{{Icon|Protected Damage over Time}} ''"Embrace Your Truth, Use It."'' - At the beginning of the First Round, Reversed Strength Card will cast a Protected Damage over Time spell that deals 206,000 Damage over 100 Rounds to each Wizard, then give each Wizard a copy of {{Link|Spell|Triage (Reversed Strength Card)}}.
+**{{GivesSpell|Triage (Reversed Strength Card)|size = x150px}}
+** This spell is not required to be cast in order to defeat Reversed Strength Card.
+
+| spellnotes =
+
+| casts =
+Magnify;
+Dark Tribute;
+Fireblade;
+Scald;
+Heat Mander;
+Inferno Salamander (Tier 3a);
+Fire Dragon;
+Fires of Mars (Tier 3a);
+Kiiii-Yaaaa! (Tier 3a)
+
+| quests =
+The You You Are;
+
+| gold =
+0;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

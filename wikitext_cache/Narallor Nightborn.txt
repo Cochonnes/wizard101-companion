@@ -1,0 +1,173 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 7,595
+| crecla = Celestian
+| crecla2 = Undead
+| school = Moon
+| masteries =
+Storm;
+Death;
+
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire;
+
+| incresist =
+35% Ice, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+
+| world = Celestia
+| location = Stormriven
+| subloc1 = Summoning Pylons
+| descrip =
+*Narallor Nightborn is summoned from the Summoning Pylons in Stormriven using the second Pylon to the left.
+
+'''Speech:'''
+:''"My last challenger could not keep me entertained. Give me variety or I will get bored... and then I will become angry."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+Though they are born of the night, they still can't get to sleep without a nightlight.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Damage}} If Narallor Nightborn is damaged by any of the seven primary Schools of Magic, he will interrupt-cast a [[:Category:Blade Spells|Blade]] of the opposite School used to attack him on himself.
+**{{Icon|Fire}} - {{Link|Spell|Fireblade}} & {{Link|Spell|Helephant}}
+**{{Icon|Ice}} - {{Link|Spell|Iceblade}} & a version of {{Link|Spell|Colossus}} that deals 460-540 Ice Damage
+**{{Icon|Storm}} - {{Link|Spell|Stormblade}} & a version of {{Link|Spell|Stormzilla}} that deals 650-730 Storm Damage
+**{{Icon|Life}} - {{Link|Spell|Lifeblade}} & {{Link|Spell|Centaur}}
+**{{Icon|Myth}} - {{Link|Spell|Mythblade}} & {{Link|Spell|Orthrus}}
+**{{Icon|Death}} - {{Link|Spell|Deathblade}} & {{Link|Spell|Wraith}}
+
+**Balance attacks will result in Narallor Nightborn receiving a Deathblade.
+**Each tick from Damage over Time (DoT) Spells can trigger this cheat, although he will apply the Blade after his regular turn as opposed to before if he goes second.
+**Dispels can prevent this cheat.
+*{{Icon|Damage}} If Narallor Nightborn is damaged by the same primary School twice in a row, he will interrupt-cast a 0 Pip Damage Spell of the opposite School used to attack him on the caster.
+**Balance Damage attacks that are used twice in a row will trigger Narallor Nightborn to use {{Link|Spell|Wraith}} on the caster.
+**Each tick from Damage over Time (DoT) Spells can trigger this cheat, although he will use the attack after his regular turn as opposed to before if he goes second.
+**Dispels can be used to prevent this cheat.
+
+| spellnotes =
+
+| casts =
+Deathblade;
+Curse;
+Skeletal Pirate;
+Wraith;
+Monster Mash;
+Scarecrow;
+Natural Attack (Storm 125x, 70%);
+
+| quests =
+
+| gold =
+0 - 48;
+
+| hats =
+Molten Mantle*F2*WMV;
+Sub Zero Shroud*F2*WMV;
+
+| robes =
+Costume of Cold Intent*F2*WMV;
+Synthesis Smock*F2*WMV;
+
+| boots =
+Reckless Runners*F3*WMV;
+Wraps of Reverie*F2*WMV;
+
+| athames =
+Forsaken Dagger*F2*WMV;
+Stellar Shortblade*F3*WMV;
+
+| amulets =
+Frost Giant's Talisman*F2*WMV;
+Scorched Talisman;
+
+| rings =
+Loop of Legends*F2*WMV;
+Volatile Ring;
+
+| wands =
+Cursed Staff*F2*WMV;
+Insightful Spyglass*F2*WMV;
+Staff of Legends*F3*WMV;
+
+| decks =
+
+| items =
+Celestia Mysterious Theme 1*F2;
+Flowering Celestian Tree*F2*WMV;
+
+| cards =
+Accurate;
+Monstrous*F2*WMV;
+Vengeance*F4*WMV;
+
+| reagents =
+Cobalt;
+Nickel*F2;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F4*WMV;
+Delicious Cookie;
+Glowing Star Fruit*F2*WMV;
+Glowing Taffy*F2*WMV;
+Spicy Drumstick*F2*WMV;
+Strawberry Cupcake*F3*WMV;
+Submarine Sandwich;
+
+| jewels =
+Entangle Jade;
+Plain Defense Amethyst +29;
+Quench Ruby;
+Screen Ruby;
+Unbalance Citrine;
+Vaporize Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Maelstrom Snap Dragon*F2*WMV;
+Pink Dandelion*CR*F3*WMV;
+Silver Trumpet Vine*CR;
+
+| mounts =
+
+| spells =
+
+}}

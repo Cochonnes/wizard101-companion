@@ -1,0 +1,128 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 11,300
+| crecla = Cat
+| school = Myth
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Myth;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+47%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+6% Fire, Ice, Life, Death, Balance;
+36% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Protection Pox (Standard);
+
+| world = Housing Instance
+| location = Meowiarty Rematch
+| descrip =
+*For the Challenge version of this battle, see {{Link|Creature|Meowiarty (Challenge)}}.
+
+| cheatnotes =
+*At the beginning of the first Round, Meowiarty will interrupt-cast {{Link|Spell|Blinding Light}}.
+*{{Icon|Afterlife}} ''"Settle in. We've much to catch up on."'' - At the beginning of the second Round, Meowiarty will interrupt-cast a Star version of {{Link|Spell|Guardian Spirit}} that restores 100% Health after defeat on all allies.
+*{{Icon|Shield}} ''"Shields up!"'' - Starting at the beginning of the second Round, and every three Rounds afterward, Meowiarty will interrupt-cast {{Link|Spell|Legion Shield}}.
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Mass Myth Trap;
+Mythic Fuel;
+Time of Legend;
+Splashsquatch (Tier 2b);
+Cyclops (Tier 2b);
+Minotaur (Tier 2b);
+Earthquake;
+Natural Attack (Meowiarty);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Malistaire's Chilly Blade (Level 160+);
+Malistaire's Ghostly Blade (Level 160+);
+Malistaire's Harmonic Blade (Level 100+);
+Malistaire's Harmonic Blade (Level 160+);
+Malistaire's Infamous Blade (Level 160+);
+Malistaire's Squall Blade (Level 160+);
+Malistaire's Thorny Blade (Level 160+);
+Malistaire's Vengeance Blade (Level 160+);
+
+| amulets =
+
+| rings =
+Malistaire's Chilly Band (Level 160+);
+Malistaire's Ghostly Band (Level 160+);
+Malistaire's Harmonic Band (Level 100+);
+Malistaire's Harmonic Band (Level 160+);
+Malistaire's Infamous Band (Level 160+);
+Malistaire's Squall Band (Level 160+);
+Malistaire's Thorny Band (Level 160+);
+Malistaire's Vengeance Band (Level 160+);
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Malistaire's Whisker @ 10 Malistaire's Whisker;
+
+| spellements =
+Cyclops Minion @ 2 Cyclops Minion; 
+Gearhead Destroyer @ 2 Gearhead Destroyer;
+Ice Wyvern @ 2 Ice Wyvern;
+Immolate @ 2 Immolate;
+Kraken @ 2 Kraken;
+Seraph @ 2 Seraph;
+Vampire @ 2 Vampire;
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Meowiarty (Rematch)
+
+}}

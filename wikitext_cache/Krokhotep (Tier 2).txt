@@ -1,0 +1,120 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 2,900
+| crecla = Krokotopian
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+55%;
+
+| incboost =
+15% Fire;
+
+| incresist =
+60% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Doomsday Krok Gauntlet
+| subloc1 = Doomsday Krok Gauntlet (Tier 2)
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Fortify;
+Tower Shield (-55%);
+Black Mantle;
+Weakness;
+Iceblade (+40%);
+Ice Trap (+35%);
+Ice Elf (50+210);
+Evil Snowman (280-340);
+Blizzard;
+Krokhotep;
+Frost Giant;
+
+| quests =
+Doomsday Krok;
+
+| gold =
+1,000;
+
+| hats =
+
+| robes =
+
+| boots =
+Sokar's Boots (Level 30+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Apophis' Javelin (Level 40+)*CR;
+Sokar's Javelin (Level 40+)*CR;
+
+| decks =
+
+| items =
+Doohickey*F2;
+Krok Statue Flex;
+Krok Statue Thumbs Up*F2;
+Krokotopian Bridge;
+Krokotopian Obelisk;
+Krokotopian Pillar;
+Novice's Socket Wrench;
+
+| cards =
+
+| reagents =
+Amber Dust*F3;
+Bone*F3;
+Elemental Retriever;
+Leather Straps;
+Scales;
+Smoke Screen Token*F3;
+Spiritual Retriever*F3;
+
+| spellements =
+
+| snacks =
+Black Sun Seeds*F2;
+Gator Tots*F3;
+Medium Fish*F2;
+
+| jewels =
+
+| pins =
+
+| pets =
+Apophis' Scarab*F2;
+
+| seeds =
+
+| mounts =
+Apophis' Krokosphinx*7*CR*F2;
+Setesh's Krokosphinx*7*CR;
+
+| spells =
+}}

@@ -1,0 +1,278 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,480
+| crecla = Polar Bear
+| school = Myth
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Walrusk Berserker;
+Walrusk Berserker;
+
+| world = Polaris
+| location = Walruskberg
+| subloc1 = Imperial Palace
+| descrip =
+*Imperial Justice Payne uses a version of the {{Link|Spell|Troll Minion}} Spell that summons a Rank 5 "Troll Enforcer" with 820 Health.
+
+| speech =
+:''"Why? Why do you fight on behalf of Pingouins? You owe them nothing. You especially, Ivan. You should be with us. Surprised that I know your name? Of Course. I remember your act... and I remember how it ended. Yes. You are a strongman no more. A weakman might be a better term. Come, prove me wrong! I dare you!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Polaris
+| tome description =
+Dutiful officer of the Imperial Walrusk regime. Not a fan of Pingouins or circus acts.
+
+| extract class =
+Polar Bear;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+*The Troll Minion casts {{Link|Spell|Spirit Blade}}, and both '''+35%''' and '''+40%''' versions of {{Link|Spell|Mythblade}}.
+
+| casts =
+Dark Fiend;
+Mend Minion;
+Mythic Fuel;
+Pierce;
+Shatter;
+Time of Legend;
+Troll Minion;
+Yellow Troll;
+White Rat Magician;
+Keeper of the Flame;
+Natural Attack (Myth 115-225-335);
+Mystic Colossus;
+Orthrus;
+
+| quests =
+The Imperial Palace;
+
+| gold =
+377 - 578;
+
+| hats =
+Blizzardy Tundra Ushanka;
+Hailstorm Tundra Ushanka*F2*WMV;
+The Goat Horns*CR;
+The Ice Horns*CR;
+The Manticore*CR;
+The Warlock*CR*F2;
+Tundra Ushanka of Mayhem;
+Urville Fur Hat of Honor;
+
+| robes =
+Hailstorm Tundra Suit*F2;
+Polarian Tundra Apparel;
+Tundra Coat of Sagacity;
+Tundra Garment of Loyalty;
+Tundra Jacket of Survival;
+Tundra Raiment of Mayhem;
+
+| boots =
+Blizzardy Tundra Snowshoes;
+Sweltery Tundra Boots;
+Tundra Walkers of Survival;
+Urville Boots of Snowgusts;
+Urville Station Snowboots;
+Urville Trekkers of Elation;
+Urville Walkers of Guile;
+
+| athames =
+Mage's Blade of Aplomb;
+Mage's Blustery Razor;
+Mage's Roughhewn Dagger;
+Urville Knife of Elation;
+Urville Kris of Wintertide;
+Urville Lancet of Anguish;
+
+| amulets =
+Mage's Collar of Aplomb;
+Mage's Dolorous Amulet;
+Urville Chaplet of Anguish;
+Urville Charm of Snowgusts;
+Urville Pendant of Elation*F2;
+Urville Talisman of Guile;
+
+| rings =
+Inspector's Band of Shivers;
+Inspector's Scorched Ring;
+Inspector's Seal of Pluck*F3*WMV;
+Mage's Smoldering Loop;
+
+| wands =
+Polarian Tundra Bardiche;
+Tundra Bardiche of Ferocity;
+Tundra Bardiche of Mayhem;
+Tundra Survival Hatchet;
+
+| decks =
+Hand of Tundra Blizzards;
+Mage's Blustery Stack;
+Mage's Hardy Spread;
+Tundra Gallery of Hailstorms;
+Tundra Survivor's Pack*F2*WMV;
+
+| items =
+Arcanum Theme*F3;
+Medium Enchanted Pot*F2;
+Medium Pot;
+Polaris Baba Yaga Theme;
+Polaris Frozen Combat Theme*F3;
+Polaris Frozen Forest Theme*F4;
+Polaris Gulag Combat Theme*F5;
+Polaris Gulag Theme*F2*WMV;
+Polaris Ice Block Theme;
+Polaris Mine Combat Theme;
+Polaris Mine Theme*F3;
+Polaris Opera Theme*F2;
+Polaris Rasputin Combat Theme*F2;
+Small Enchanted Pot*F2;
+Small Pot*F3*WMV;
+Walruskberg Combat Theme*F2;
+Walruskberg Liberated Theme*F2;
+Walruskberg Theme;
+
+| cards =
+Arcticzilla;
+Balefrost;
+Coldiron;
+Combustion;
+Counterforce;
+Deathspear;
+Death Troll;
+Dragonspear;
+Elemental Spear*F2*WMV;
+Fiery Colossus;
+Firespear;
+Frostfang*F3*WMV;
+Icebird*F3;
+Icespear;
+Katabatic Wind*F2*WMV;
+Lifespear;
+Magma Colossus*F2*WMV;
+Mythspear*F2;
+Nested Fury;
+Shift*F2*WMV;
+Spirit Spear;
+Stone Colossus;
+Winged Sorrow;
+Wings of Fate;
+
+| reagents =
+Aether*F7*WMV;
+Agave Leaves*F3*WMV;
+Agave Nectar;
+Amber;
+Amber Dust*F2*WMV;
+Aquamarine*F5*WMV;
+Astral Shard*F3*WMV;
+Braided Vine;
+Draconium*F3*WMV;
+Fire Blossom*F5*WMV;
+Fish Fin*F4*WMV;
+Golden Pearl*F5*WMV;
+Merle's Whisker;
+Mithril*F4*WMV;
+Scales*F2*WMV;
+Silver*F5*WMV;
+Stardust*F3*WMV;
+Steel*F4*WMV;
+Sunstone*F4*WMV;
+Titanium;
+Tungsten*F6*WMV;
+Turquoise*F4*WMV;
+Vine*F3*WMV;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate;
+Beast Wellington*F4*WMV;
+Chalupacabra*F4*WMV;
+Eye Candy*F4*WMV;
+Frosty Sugar Cubes*F2*WMV;
+Hot Cross Buns*F4*WMV;
+Jolly Rancher;
+Mustachios*F3*WMV;
+Penne Dreadful*F2*WMV;
+Polaris Fries*F3*WMV;
+Satyr Chow*F3;
+Ships 'n' Queso*F4*WMV;
+Veggie Juice*F5*WMV;
+
+| jewels =
+Lustrous Accurate Sapphire +11%*F2;
+Lustrous Critical Hematite +13;
+Lustrous Critical Sapphire +13;
+Lustrous Defense Jade +46;
+Lustrous Health Opal +98;
+Lustrous Health Opal +99;
+Lustrous Health Opal +100;
+Polished Defense Amethyst +42;
+
+| pins =
+
+| pets =
+Intrepid Seal Pup;
+Mountain Yeti*CR;
+White Winter Owl;
+
+| seeds =
+Angel Oak*F2*WMV;
+Angora Bunny Ears;
+Boiled Peanuts;
+Cornbread Fruit Bush;
+Couch Potatoes*CR;
+Evil Snow Peas;
+Fish on a Vine*F2*WMV;
+Frozen Fly Trap*F4*WMV;
+Goose Tree*F3*WMV;
+Grapes of Wrath*CR;
+Green Snow Apples*F2;
+King Parsley*CR*F2;
+Moon Flower*F2;
+Ninja Fig*CR;
+Purple Snow Apples*F2*WMV;
+Snow Apples*F3*WMV;
+Ultra Ninja Fig;
+Ultra Snow Apples*F4*WMV;
+White Desparagus*F2*WMV;
+White Laugh-O-Dil*F3*WMV;
+White Tiger Lily*F4*WMV;
+
+| mounts =
+
+| spells =
+
+}}

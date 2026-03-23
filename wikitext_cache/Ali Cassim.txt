@@ -1,0 +1,212 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 7,560
+| crecla = Thuggie
+| school = Life
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+3%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Death;
+
+| incresist =
+30% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Thuggie Goon;
+
+| world = Mirage
+| location = Aggrobah
+| subloc1 = The Roost
+| descrip =
+
+| speech =
+:''"Well now, isn't this a treat? A Wizard with a bounty on his head, and a talking skull with a gemstone for an eye. I'm going to be rich! Haha!"''
+
+| spellnotes =
+
+| casts =
+Renew;
+Spirit Armor (500);
+Lifeblade;
+Life Scarab;
+Luminous Weaver;
+Giant Spider;
+Natural Attack (Life 105-210-315, 85%);
+Goat Monk;
+Life Banshee (275);
+Centaur (610-670);
+Enraged Forest Lord;
+
+| quests =
+Shock the Monkey;
+
+| gold =
+322 - 452;
+
+| hats =
+Aridian Helm of Thriving;
+Rubal Kufiya of Carnage;
+Wayfarer's Fez of Grit;
+Wayfarer's Fez of Intent;
+
+| robes =
+Parched Wayfarer's Khalat;
+
+| boots =
+Aridian Shoes of Numbing;
+Rubal Babouches of Carnage;
+Rubal Babouches of Illusions;
+Rubal Babouches of Renewal;
+Rubal Thunder Babouches;
+Wayfarer's Galesh of Poise;
+
+| athames =
+Rubal Janbiya of Formation;
+Viper Edge of Thriving;
+
+| amulets =
+Rubal Locket of Cessation;
+Rubal Necklace of Carnage;
+
+| rings =
+Rubal Seal of Carnage;
+
+| wands =
+Conscript Tabar of Havoc;
+Restrictor Wand of Vitality;
+
+| decks =
+Rubal Cards of Competence;
+
+| items =
+
+| cards =
+Age of Reckoning;
+Katabatic Wind;
+Magma Colossus;
+Mass Storm Prism;
+Mutate Bats (Fire);
+Mutate Hound (Ice);
+Mutate Phoenix (Storm);
+Mutate Snowman (Fire);
+Rocklops;
+
+| reagents =
+Ancient Scroll;
+Antique Coins*F2*WMV;
+Black Pearl*F2*WMV;
+Blood Moss*F3*WMV;
+Brass*F3*WMV;
+Bronze Gear;
+Cobalt*F2*WMV;
+Ectoplasm*F4*WMV;
+Nickel*F3*WMV;
+Scales;
+Spider Silk*F6*WMV;
+Spring;
+Tin*F2*WMV;
+Turmeric*F4;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Beast Wellington;
+Chalupacabra*F2;
+Chili Peppers*F6*WMV;
+Delicious Cookie;
+High Road Haggis;
+Hot Cross Buns;
+Mustachios*F3;
+Satyr Chow*F3*WMV;
+Ships 'n' Queso;
+Super Cold Popsicle;
+Veggie Juice;
+
+| jewels =
+Brace Opal;
+Lustrous Accurate Jade +11%;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Jade +13;
+Lustrous Blocking Peridot +13;
+Lustrous Blocking Ruby +13;
+Lustrous Critical Amethyst +13;
+Lustrous Critical Sapphire +13*F2*WMV;
+Lustrous Damage Peridot +23*F3*WMV;
+Lustrous Defense Amethyst +45;
+Lustrous Defense Citrine +45;
+Lustrous Defense Onyx +45;
+Lustrous Defense Ruby +45;
+Lustrous Defense Sapphire +45;
+Lustrous Health Opal +100;
+Radical Opal*F2*WMV;
+Reliquary Opal;
+Shiny Blocking Jade +16;
+Shiny Critical Amethyst +16;
+Shiny Critical Jade +16;
+Shiny Damage Hematite +52*F2*WMV;
+Shiny Damage Jade +26;
+Shiny Damage Sapphire +26;
+Shiny Health Opal +112*F2;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Baby Carrots;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts*F2*WMV;
+Boon Tree*CR;
+Bread Fruit Bush;
+Clockwork Flower;
+Cornbread Fruit Bush*F3;
+Couch Potatoes*CR*F4*WMV;
+Deadly Fly Trap*F2;
+Fickle Pickle;
+Fish on a Vine*F2*WMV;
+Frozen Fly Trap;
+Golden Couch Potatoes;
+Grapes of Wrath*CR*F2*WMV;
+Helephant Ears*F2*WMV;
+Ivy League*CR*F3;
+Maltese Tiger Lily;
+Ninja Fig*CR;
+Pink Huckleberries*F3*WMV;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Red Couch Potatoes*F4*WMV;
+Red Huckleberries*F2*WMV;
+Silver Trumpet Vine*CR;
+Sour Fickle Pickle;
+Tiger Lily (Seed);
+Trumpet Vine*F3*WMV;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

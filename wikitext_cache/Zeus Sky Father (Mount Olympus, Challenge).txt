@@ -1,0 +1,147 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 2,750
+| crecla = Eagle
+| school = Myth
+| masteries =
+Storm;
+
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| schoolpips =
+Myth;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Minotaur Warrior (Challenge);
+Minotaur Warrior (Challenge);
+Minotaur Warrior (Challenge);
+
+| world = Wizard City
+| location = Mount Olympus (Challenge)
+| subloc1 = Throne Room (Mount Olympus, Challenge)
+| descrip =
+*For the Standard version of this Creature, see {{Link|Creature|Zeus Sky Father (Mount Olympus)}}.
+
+| speech =
+:''"Child of Ravenwood, welcome to Olympus. This is the apex of the Spiral, and you must be honored to stand before us. Do not fear failure. We will be merciful if you fail. But now, come show us what you have mastered in that school of Merle Ambrose."''
+
+| cheatnotes =
+*{{Icon|Curse}} ''"Did you think you could silence an Immortal?"'' - Whenever a Wizard casts a harmful Charm on Zeus, Zeus will cast {{Link|Spell|Athena Battle Sight}} on the caster.
+*{{Icon|Ward}} ''"Your punishment shall be swift"'' - Whenever a Wizard casts a helpful Ward, Zeus will cast {{Link|Spell|Minotaur}} on the recipient.
+*{{Icon|Spell}} ''"You hesitate too much"'' - Whenever a Wizard ???, Zeus will Natural Attack on the caster.
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Myth Trap;
+Mythic Fuel (+25%);
+Keeper of the Flame;
+Cyclops;
+Minotaur;
+Natural Attack (Zeus);
+
+| quests =
+Wisdom and Grace;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic: Aquila Badges|Swole Like Sisyphus]]''' {{Icon|Swole Like Sisyphus}} Badge, the following drops will be available:
+*{{Icon|Spellement}} 7-10 Aquila Spellements will drop each time from '''any''' School
+
+| gold =
+1 - 39;
+
+| hats =
+Cowl of Zeus' Ire;
+Helmet of Heavenly Gaze;
+Helmet of Zeus' Will;
+Senator's Judicial Laurel;
+Senator's Laurel of Truth;
+Senator's Mantle of Winter;
+Senator's Poetic Laurel;
+Zeus' Veil of Snowfall;
+
+| robes =
+Zeus' Thunderclap Drape;
+
+| boots =
+Boots of Zeus' Alacrity;
+Senator's Judicial Shoes;
+Senator's Poetic Boots;
+Senator's Radiant Sandals;
+Senator's Raincloud Shoes;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Ares' Spear of Fortitude;
+Ares' Spear of Havoc;
+Ares' Spear of Valor;
+Staff of Zeus' Immortality;
+Zeus' Bolt of Arbitration;
+Zeus' Falling Skies Staff;
+Zeus' Lightning Striker;
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Olympian Dust @ 18 Olympian Dust;
+Olympian Dust @ 19 Olympian Dust;
+Olympian Dust @ 20 Olympian Dust;
+Olympian Dust @ 22 Olympian Dust;
+Olympian Dust @ 30 Olympian Dust;
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Mythic Skeleturion*CR;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Zeus Sky Father (Mount Olympus)
+}}

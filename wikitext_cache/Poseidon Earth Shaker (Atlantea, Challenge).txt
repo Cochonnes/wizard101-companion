@@ -1,0 +1,152 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 7,345
+| crecla = Eagle
+| school = Storm
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| schoolpips = 
+Storm;
+
+| critical =
+
+| criticalblock =
+215;
+
+| outpierce =
+12%;
+
+| outboost =
+71%;
+
+| incboost =
+20% Ice, Death;
+
+| incresist =
+20% Fire, Storm, Life;
+
+| outhealing =
+20%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Atlantean Trierarch (Challenge);
+Atlantean Trierarch (Challenge);
+Atlantean Trierarch (Challenge);
+
+| world = Wizard City
+| location = Atlantea (Challenge)
+| subloc1 = Palace of Atlantea (Challenge)
+| badge = Poseidon Earth Shaker Breaker
+| descrip =
+*For the Standard version of this Creature, see {{Link|Creature|Poseidon Earth Shaker (Atlantea)}}.
+
+| speech = 
+:''"Hail, Transcendent Wizard, and welcome to the center of Atlantea, the light in the depths.  Well, unlike my brother, I will not hold back...much.  The challenge must be fair, no?"''
+
+| cheatnotes =
+*{{Icon|Aura}} ''"We immortals are infallible!"'' - At the beginning of the first Round, Poseidon will cast Infallible.
+
+| spellnotes =
+
+| casts =
+Infallible;
+Attenuate;
+Stormblade (+30%);
+Balanceblade;
+Storm Trap;
+Queen Calypso (Tier 2b);
+Leviathan (Tier 2b);
+
+| quests =
+Under the Sea;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic: Aquila Badges|Swole Like Sisyphus]]''' {{Icon|Swole Like Sisyphus}} Badge, the following drops will be available:
+*{{Icon|Spellement}} 16 Aquila Spellements will drop each time from '''any''' School
+
+| gold =
+15 - 36;
+
+| hats =
+Helm of Poseidon's Acumen;
+Poseidon's Raging Sea Helm;
+Poseidon's Wave Crest Helm;
+Senator's Downpour Laurel;
+Senator's Forlorn Laurel;
+Senator's Laurel of Vigor;
+Senator's Stately Laurel;
+
+| robes =
+Poseidon's Calm Seas Cloak;
+Poseidon's Icy Seas Armor;
+Poseidon's Sizzling Garb;
+Senator's Downpour Toga;
+Senator's Scholarly Toga;
+Senator's Stately Toga;
+Senator's Toga of Embers;
+Tunic of Poseidon's Mercy;
+
+| boots =
+Poseidon's Maritime Boots;
+Poseidon's Steamwalkers;
+Poseidon's Wave Walkers;
+Senator's Downpour Shoes;
+Senator's Shoes of Embers;
+Senator's Stately Sandals;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Ares' Spear of Honor;
+Ares' Spear of Insight;
+Ares' Sunflare Spear;
+Poseidon's Polar Trident;
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Olympian Dust @ 32 Olympian Dust;
+Olympian Dust @ 38 Olympian Dust;
+Olympian Dust @ 40 Olympian Dust;
+Olympian Dust @ 50 Olympian Dust;
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Stormy Skeleturion*CR;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Poseidon Earth Shaker (Atlantea)
+}}

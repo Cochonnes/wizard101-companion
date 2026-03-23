@@ -1,0 +1,147 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 14,590
+| crecla = 
+| school = Moon
+| school2 = Death
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+371 Any;
+
+| criticalblock =
+119 Any;
+
+| outpierce =
+13%;
+
+| outboost =
+87%;
+
+| incboost =
+30% Fire;
+
+| incresist =
+29% Storm, Myth, Life, Shadow, Sun, Star, Moon;
+59% Ice, Death;
+
+| outhealing =
+9%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Novus
+| location = Puerto Nuovo
+| subloc1 = Strange Room
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:'''Ponce de Gibbon:''' ''"Ah, so one of the doors was different than the others, either odd or even! Yes, of course I knew that."''
+:''"*CAVITY NOISE*"''
+:'''Ponce de Gibbon:''' ''"Pious Papayas! Que Monstroso!"''
+
+| cheatnotes =
+*{{Icon|Dispel}} ''"Foosshhhh"'' - At the end of the first Round, Puzzle Piece Monster casts one of the following spells:
+**{{Link|Spell|Elemental Defuse}}, {{Link|Spell|Spirit Defuse}}, {{Link|Spell|Unbalance}}
+
+'''Cheat Cycle''' - On Round 2, Puzzle Piece Monster will begin to cycle cheats (repeats every 2 {{Icon|Round}}):
+*{{Icon|Blade}} ''"Bzzzzzt"'' - At the end of first Round in the cycle, Puzzle Piece Monster casts {{Link|Spell|Moon Blade}}.
+*{{Icon|Trap}} ''"Whrrrrrr"'' - At the end of second Round in the cycle, Puzzle Piece Monster casts {{Link|Spell|Moon Trap}}.
+
+| spellnotes =
+
+| casts =
+Magnify;
+Moon Shield;
+Plague;
+Dark Tribute;
+Balanceblade;
+Feint;
+Doom and Gloom (Moon);
+Shift Thornpaw;
+Shift Piscean;
+Shift Rattlebones;
+Orthrus (Moon, 700);
+Shift Chaney;
+Gravestorm;
+
+| quests =
+Strange Things Indeed;
+Puzzles & Mazes;
+
+| gold =
+1 - 35;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Novus Conatus Alternate Theme;
+Novus Conatus Theme;
+Novus Dasein Theme 1;
+Novus La Ville Rose Theme;
+Novus Puerto Nuovo Theme;
+Novus War Combat Theme;
+Sketchy Stairs;
+Sketchy Window;
+Valencia Kane Theme;
+
+| cards =
+Azoth;
+Elemental Spear*F2*WMV;
+Mass Death Prism*F2;
+Triage;
+
+| reagents =
+Draconium;
+Platinum;
+Silver;
+Titanium;
+Toffee Bean;
+
+| spellements =
+
+| snacks =
+Colossal Rutabaga;
+Fuzzy Peach Fizz;
+Gobbler Stoppers;
+Kalua Kebab;
+Mustachios;
+Peppercorn;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

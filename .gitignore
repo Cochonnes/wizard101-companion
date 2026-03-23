@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment (each user creates their own via install.bat)
+venv/
+
+# User data - never overwrite on git pull
+#boss_wiki.db
+hud_settings.json
+keybinds.json
+#world_order.json
+
+# Logs
+*.log
+
+# EasyOCR model cache
+.EasyOCR/
+
+# PyInstaller (if you ever try again)
+build/
+dist/
+*.spec
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Temp files
+*.tmp
+*.bak

@@ -1,0 +1,147 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 15,935
+| crecla = Wizard
+| school = Balance
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Balance;
+
+| critical =
+139 Any;
+
+| criticalblock =
+554 Any;
+
+| outpierce =
+13%;
+
+| outboost =
+85%;
+
+| incboost =
+30% Myth, Life, Death; 
+
+| incresist =
+40% Fire, Ice, Storm, Sun, Moon, Star, Shadow;
+70% Balance;
+
+| outhealing =
+31%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Broken Branch Knave;
+
+| world = Arcanum
+| location = Lower Decks
+| subloc1 = Lumi Hostage Room
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Round}} ''"I am the master of all!"'' - At the beginning of every Third Round, Jack of Knaves:
+** casts a Balance Spell that applies one of the following effects at random: 
+*** Damage over Time effect that deals 462 Fire Damage over 5 Rounds
+*** -80% Storm Shield
+*** {{Link|Spell|Stormblade}}
+*** +30% Myth Trap
+*** Heal Over Time effect for 327 Health over 5 Rounds 
+*** -50% Healing Charm
+**And then casts one of the following Spells at random:
+*** {{Link|Spell|Krampus (Tier 3b)}}
+*** {{Link|Spell|Reindeer Knight (Tier 2c)}}
+*** {{Link|Spell|Catch of the Day (Tier 5c)}}
+*** {{Link|Spell|Keeper of the Flame (Tier 5a)}}
+*** {{Link|Spell|Goat Monk (Tier 5a)}}
+*** {{Link|Spell|Headless Horseman (Tier 3b)}}
+
+| spellnotes =
+
+| casts =
+Balanceblade;
+Hex;
+Dyvim's Resurgence;
+Loremaster;
+Spiritual Tribunal (Tier 2a);
+Savage Paw (Tier 2a);
+Spirit Blast;
+Spectral Blast (Tier 2a);
+Gaze of Fate;
+Hydra (Tier 2a);
+Nested Fury (Tier 2a);
+Chimera (Tier 2a);
+
+| quests =
+Life & Lumies;
+
+| gold =
+1 - 5;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Creepy Bed*CR*F3;
+Creepy Bookshelf*CR*F5;
+Creepy Chair*CR*F6;
+Creepy Couch*CR*F4;
+Creepy Footstool*CR*F2;
+Creepy Stool*CR*F3;
+Darkmoor Bench*CR*F7;
+Darkmoor Graveholm Theme;
+Darkmoor Roses*CR*F2;
+Darkmoor Vanity*CR*F4;
+Darkmoor Wagon*CR*F6;
+Large Howling Lands Tree*CR*F6;
+Mortal Plains Hay*CR*F3;
+Outsiders Abode*CR*F4;
+Outsiders Wagon*CR*F2;
+Small Howling Lands Tree*CR*F2;
+Vampire Lord Casket*CR*F6;
+
+| cards =
+Celestial Calendar;
+Reshuffle;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Buttered Popcorn;
+Evil Carrot;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

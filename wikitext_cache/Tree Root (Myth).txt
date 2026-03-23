@@ -1,0 +1,113 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 12,695
+| crecla = Plant
+| crecla2 = Treant
+| school = Myth
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Khrysalis
+| location = Shadow Palace
+| subloc1 = Spirit Plane
+| descrip =
+This is one of {{Link|NPC|Moros}}'s four main tree roots.  All drops should be recorded on the {{Link|Creature|Tree Root (Death)}} page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+A root of the Doom Tree, allowing Moros to seed his name through history and take credit for inventing hats.
+
+| extract class =
+Treant;
+
+| summon animus = 10
+| summon gold = 500
+| guest animus = 20
+| guest gold = 1,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Mythblade;
+Myth Trap;
+Time of Legend;
+Keeper of the Flame;
+Natural Attack (Myth 165-265-370, 85%);
+Ninja Pigs;
+Earthquake;
+Humongofrog (400-500);
+Medusa (865);
+Basilisk;
+Celestial Calendar;
+
+| quests =
+Doom Tree;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Tree Root (Death)
+}}

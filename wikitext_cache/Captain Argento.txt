@@ -1,0 +1,150 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 15,320
+| crecla = Unicorn
+| crecla2 = Equine
+| school = Ice
+| cheats = Yes
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+14%;
+
+| outboost =
+90%;
+
+| incboost =
+None;
+
+| incresist =
+4% Fire;
+54% Ice, Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Valencian Guard;
+
+| world = Novus
+| location = Puerto Nuovo
+| subloc1 = Holding Tent
+| descrip =
+
+| speech =
+:''"Free Don Manzana? The real Principe would never release an enemy without full unconditional surrender! Soldati!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Novus
+| tome description =
+He's good as gold. GOLD. Doesn't matter what his name means.
+
+| extract class =
+Equine
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Damage}} ''"Shields up!"'' - When a Wizard attacks Captain Argento, he will cast a '''-75%''' Shield of the matching school of that Wizard.
+**If the Wizard is of the Balance School, Argento will cast a {{Link|TreasureCard|Tower Shield}}.
+**Damage from DoTs will not trigger this cheat.
+**Spells that hit multiple times, such as {{Link|Spell|Minotaur}}, will only trigger this cheat once.
+*{{Icon|Random}} Randomly cheat casts the following Spells:
+**{{Link|Spell|Abominable Weaver}}
+
+| spellnotes =
+*Casts a Mass version of Hex.
+
+| casts =
+Brace (6 Rounds);
+Tower Shield;
+Legion Shield;
+Iceblade (+40%);
+Hex;
+Reindeer Knight;
+Ice Wyvern (Tier 2b);
+Winter Moon (Tier 3a);
+Freeze Ray (Tier 2b);
+Frost Giant;
+
+| quests =
+On the Brink!;
+
+| gold =
+8 - 16;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Giant Cheese Wheel;
+Monquistan Banner;
+Novus Conatus Combat Theme;
+Novus New Vicorgia Combat Theme;
+Novus Puerto Nuovo Combat Theme;
+Novus Puerto Nuovo Theme;
+Snow Walrus;
+Valencia Espionage Theme;
+
+| cards =
+Elemental Spear*F2;
+Mass Ice Prism;
+Mass Fire Prism;
+
+| reagents =
+Astral Shard;
+Iron;
+Steel;
+Titanium;
+
+| spellements =
+
+| snacks =
+Bearberry;
+Gobbler Stoppers;
+Mustachios;
+Street Pizza;
+Zeus Newton;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

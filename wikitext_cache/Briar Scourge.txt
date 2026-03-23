@@ -1,0 +1,232 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 11,600
+| crecla = Treant
+| school = Ice
+| school2 = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+20%;
+
+| outboost =
+95%;
+
+| incboost =
+5% Fire, Life;
+
+| incresist =
+70% Ice, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Vine Thrasher;
+Mutant Briar;
+
+| petbreed = Ice-ish Frog
+| world = Empyrea
+| location = Chaos Jungle
+| descrip =
+Briar Scourge wanders among the Mutant Vine.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Empyrea
+| tome description =
+The darkest of the death-infused thickets absorbed even more death energy, becoming this shambling horror!
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+{{Icon|Pet}}{{Icon|Shield}} Briar Scourge's Pet casts a Tower Shield on the fourth Round, which stacks with his regular Tower Shield Spell.
+
+| spellnotes =
+
+| casts =
+Sleet Storm;
+Tower Shield;
+Iceblade;
+Elemental Blade;
+Balefrost;
+Katabatic Wind;
+Icebird (270);
+Natural Attack (Ice 158-250-345);
+Handsome Fomori;
+Climaclysm;
+Blizzard;
+Frost Demon;
+
+| quests =
+
+| gold =
+76 - 126;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Mondo Kalamar Knife;
+Rad Kalamar Knife*F2;
+
+| amulets =
+Choice Kalamar Amulet;
+Heavy Kalamar Amulet;
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Kalamar Side Table;
+Nimbari Sword Rack;
+Tall Kalamar Vase;
+Wide Kalamar Vase;
+
+| cards =
+Balefrost;
+Elemental Shield;
+Elemental Spear;
+Firespear;
+Ice Prism;
+Icespear;
+Kraken*F3*WMV;
+Lord of Atonement;
+Mass Ice Prism;
+Mega Subdue;
+Mutate Banshee (Life);
+Mutate Beetle (Fire);
+Mutate Beetle (Storm);
+Mutate Phoenix (Ice);
+Mutate Sprite (Death);
+Mutate Wyvern (Sun);
+Mythspear*F2*WMV;
+Sanctuary;
+
+| reagents =
+Aether;
+Agave Leaves;
+Amber Dust;
+Ancient Scroll*F4*WMV;
+Antique Coins;
+Aquamarine;
+Astral Shard*F4*WMV;
+Black Pearl*F3*WMV;
+Blood Moss;
+Brass*F2;
+Bronze Gear;
+Cobalt;
+Deep Mushroom;
+Ectoplasm*F3*WMV;
+Fire Blossom*F2;
+Fish Fin*F3*WMV;
+Flying Squid Ink;
+Golden Pearl*F4*WMV;
+Mithril*F6*WMV;
+Orichalcum;
+Scales*F4*WMV;
+Silver*F3;
+Spider Silk*F2*WMV;
+Spring;
+Stardust;
+Steel*F3*WMV;
+Sunstone*F7*WMV;
+Tin;
+Titanium;
+Tungsten*F4*WMV;
+Vine;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F3*WMV;
+Berry Poundcake;
+Boiled Spider Legs*F2;
+Dastardly Radish;
+Discord Grape Jelly*F2;
+Eye Candy*F2*WMV;
+Glowing Taffy*F2*WMV;
+Hero Sandwich;
+High Road Haggis;
+Hot Cross Buns*F4*WMV;
+Minotarts;
+Oyster Shooter;
+Pizza*F4*WMV;
+Redskin Peanut;
+Rock and Roll Candy*F4*WMV;
+Ships 'n' Queso;
+Sprinkle Cupcake*F4*WMV;
+Taco;
+Taco Town Special;
+Wheat Cracker;
+
+| jewels =
+Shiny Critical Peridot +15;
+Shiny Damage Onyx +25*F2;
+Shiny Defense Citrine +50;
+Shiny Defense Ruby +50;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+Sparkling Critical Hematite +18;
+Sparkling Critical Onyx +18;
+Sparkling Defense Citrine +56;
+Sparkling Defense Onyx +56;
+Sparkling Health Opal +125;
+
+| pins =
+
+| pets =
+Death-ish Frog*F3;
+Ice-ish Frog*F3;
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears;
+Bamboo Shoots;
+Bread Fruit Bush;
+Evil Magma Peas*CR;
+Face Palm;
+Frozen Fly Trap;
+Helephant Ears;
+Moon Flower;
+Pink Huckleberries;
+Purple Grapes of Wrath;
+Red Couch Potatoes;
+Sour Fickle Pickle;
+Ultra Alligator Pear Tree;
+Ultra Dandelion;
+Ultra Ninja Fig;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

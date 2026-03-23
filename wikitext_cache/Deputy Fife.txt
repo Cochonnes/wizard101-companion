@@ -1,0 +1,223 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 10,000
+| crecla = Dwarf
+| school = Fire
+| school2 = Balance
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+173 Any;
+
+| criticalblock =
+198 Any;
+
+| outpierce =
+22%;
+
+| outboost =
+100%;
+
+| incboost =
+None;
+
+| incresist =
+65% Ice;
+70% Fire, Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+45%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Velo City Sheriff's Deputy;
+
+| petbreed = Fire-ish Frog
+| world = Empyrea
+| location = Velo City
+| descrip =
+The Deputy Fife wanders among the Velo City Sheriff's Deputies.
+
+| speech =
+
+| spellnotes =
+*Fire-ish Frog casts an Elemental Shield and a Fireblade.
+**Fireblade cast from the Pet stacks with the normal cast Fireblade.
+
+| casts =
+Furnace;
+Elemental Shield;
+Fireblade;
+Dragonblade (+30%);
+Backdraft;
+Wyldfire;
+Brimstone Revenant;
+Natural Attack (Fire 120-240-360, 75%);
+Scorching Scimitars;
+Meteor Strike;
+Scald;
+Helephant (710-790);
+Fire Dragon;
+Sun Serpent;
+
+| quests =
+
+| gold =
+103 - 118;
+
+| hats =
+Bodacious Kalamar Lid*F2*WMV;
+Chill Kalamar Lid*F2;
+Gnarly Kalamar Lid*F2*WMV;
+Rad Kalamar Lid*F2*WMV;
+Righteous Kalamar Lid;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Aero Dwarf Blue Vase;
+Empyrea Husk Storm Combat;
+Empyrea Husk Theme;
+Kalamar Side Table*F3*WMV;
+Wide Kalamar Vase;
+
+| cards =
+Darkwind;
+Doom and Gloom;
+Elemental Blade;
+Ice Prism;
+Kraken;
+Life Prism;
+Lord of Blazes;
+Mass Fire Prism;
+Mega Soothe;
+Mega Subdue;
+Mutate Phoenix (Sun);
+Mutate Shark (Ice);
+Oni No Jade;
+Oni No Plague;
+Spirit Spear;
+
+| reagents =
+Aether*F2*WMV;
+Amber Dust;
+Ancient Scroll*F2*WMV;
+Aquamarine*F2;
+Black Pearl*F2*WMV;
+Brass;
+Bronze Gear;
+Cobalt*F2;
+Draconium;
+Ectoplasm*F2*WMV;
+Fire Blossom;
+Fish Fin*F3*WMV;
+Flying Squid Ink*F2*WMV;
+Golden Pearl;
+Mithril*F2*WMV;
+Nickel;
+Orichalcum;
+Scales*F6*WMV;
+Silver*F2*WMV;
+Spider Silk;
+Spring*F2*WMV;
+Stardust*F2;
+Steel;
+Sunstone*F2;
+Tin*F3*WMV;
+Titanium;
+Tungsten*F2;
+Turmeric;
+Turquoise;
+Vine*F2*WMV;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate;
+Beast Wellington*F2*WMV;
+Boiled Spider Legs;
+Bread Fruit Fruit;
+Discord Grape Jelly;
+Eye Candy;
+Fetid Legumes;
+Glowing Taffy*F2;
+Gummy Humongofrog;
+Hive Rinds;
+Hot Cross Buns*F2;
+Killer Tomato*F2*WMV;
+Meat Soup;
+Pizza*F2;
+Pyramints;
+Redskin Peanut;
+Rhubarbed Wire;
+Rock and Roll Candy*F2;
+Salmon Joy;
+Satyr Chow*F3*WMV;
+Spicy Drumstick;
+Sprinkle Cupcake*F3*WMV;
+Veggie Juice;
+Wheat Cracker;
+
+| jewels =
+Lustrous PIP Opal +10%;
+Shiny Accurate Sapphire +12%;
+Shiny Blocking Peridot +15;
+Shiny Critical Amethyst +15;
+Shiny Critical Sapphire +15;
+Shiny Damage Peridot +25;
+Shiny Defense Citrine +50;
+Shiny Defense Jade +50*F2*WMV;
+Shiny Defense Sapphire +50;
+Sparkling Blocking Jade +18;
+Sparkling Critical Hematite +18;
+Sparkling Damage Ruby +28;
+Sparkling Defense Onyx +55;
+Sparkling Health Opal +124;
+Sparkling Mana Opal +52;
+
+| pins =
+
+| pets =
+Balance-ish Frog;
+Fire-ish Frog*F2*WMV;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Bell Pepper;
+Boom Shroom;
+Face Palm;
+Fickle Pickle;
+Golden Couch Potatoes;
+Green Snow Apples;
+Orange Dandelion;
+Pink Huckleberries;
+Rye Bread Fruit Bush;
+Silver Trumpet Vine*CR;
+Trumpet Vine;
+Ultra Alligator Pear Tree;
+Venus Fly Trap;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

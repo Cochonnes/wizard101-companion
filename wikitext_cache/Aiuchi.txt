@@ -1,0 +1,197 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,280
+| crecla = Pig
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Ice;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Imitsu Hireling;
+
+| world = MooShu
+| location = Kishibe Village
+| subloc1 = Aiuchi's Hideout
+| descrip =
+*Two additional Imitsu Hirelings will appear if more than two Wizards are present.
+
+| speech =
+:''"Wizard, you will know the meaning of the word pain after we battle!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+A disciple in the study of pain. This is probably due to having 3 older brothers while growing up.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold =
+}}
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Weakness;
+Black Mantle;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Sunbird;
+Meteor Strike;
+Heck Hound;
+Leprechaun;
+Cyclops;
+Vampire;
+Natural Attack (Balance 85x, 90%);
+
+| quests =
+Monknapping!;
+
+| gold =
+61 - 121;
+
+| hats =
+Cap of Exertion;
+Cap of Song*F2*WMV;
+Cowl of Sympathy;
+Euphonic Cap*F4*WMV;
+Gogi Berry Stained Cap*F3*WMV;
+Hat of Niceties;
+Hat of Nuisance;
+Heedful Headwraps*F2;
+Mask of the Chipper*F2*WMV;
+Nunu's Mask of the Twisted;
+Shroud of the Opus;
+
+| robes =
+Aiuchi's Tunic of Misfortune*F2;
+Cloak of Charity;
+Cloak of Deliberation;
+Cloak of Pictures*F2;
+Ecstatic Garments;
+Gallant Tunic*F3*WMV;
+Garments of the Opus;
+Garments of Unrest;
+Impulsive Vestment;
+Industrial Uniform;
+Problematic Tunic;
+Quick-Witted Vestment;
+Robe of Song;
+Robe of the Lithe;
+Vestment of Hymns;
+Warbled Cloak;
+
+| boots =
+Aiuchi's Dazed Slippers;
+Aiuchi's Effortless Footwraps*F2*WMV;
+Aiuchi's Enlivened Footwraps;
+Boots of the Verse*F2*WMV;
+Ecstatic Boots;
+Immersive Sandals;
+Proficient Shoes*F2;
+Shoes of Deliberation*F6;
+Shoes of Dreaming*F2;
+Shoes of Scruples;
+Slippers of the Lotus;
+
+| athames =
+Aiuchi's Shortblade;
+Dagger of Deliberation;
+Dagger of Detachment*F3;
+Knife of Preoccupation;
+
+| amulets =
+
+| rings =
+Aiuchi's Soul-Searching Ring;
+Band of Sandcastles*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Bright Red Banner*F4;
+Dirt Pile;
+Large Ornate Rug*F2;
+Tall Boulder;
+
+| cards =
+Balefrost;
+Minotaur;
+Satyr;
+
+| reagents =
+Black Lotus;
+Bone*F3*WMV;
+Brass;
+Bronze Gear*F5*WMV;
+Copper;
+Deep Mushroom*F2;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Fire Cracker*F3;
+Golden Peanut*F3*WMV;
+Golden Squash;
+Large Fish;
+Large Watermelon*F2;
+Square Root*F2*WMV;
+
+| jewels =
+Blemished Defense Jade +21*F2*WMV;
+Blemished Defense Opal +12;
+Blemished Defense Peridot +21;
+Blemished Defense Ruby +21;
+Blemished Defense Sapphire +21*F2;
+Blemished Health Opal +36;
+Blemished Mana Opal +18;
+Flawed Accurate Amethyst +4%;
+Flawed Damage Opal +5;
+Life-Shot Jade;
+
+| pins =
+
+| pets =
+
+| seeds =
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F2;
+
+| mounts =
+
+| spells =
+
+}}

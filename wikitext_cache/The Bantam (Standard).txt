@@ -1,0 +1,122 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 4,890
+| crecla = Chicken
+| school = Life
+| shadowslots = 
+| startpips = 1
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+8%;
+
+| outboost =
+
+| incboost =
+15% Death;
+
+| incresist =
+24% Life;
+
+| outhealing =
+79%;
+
+| inchealing =
+79%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| petname = Angel
+| petbreed = Wildlands Wolf
+| world = Lemuria
+| location = Telos
+| subloc1 = Hall of Heroes (Standard)
+| descrip =
+The Bantam is a considered a Minion to [[Creature:Stallion Quartermane (Standard)|Stallion Quartermane]].  All drops are recorded on that page.
+
+'''The First Team'''
+*{{Target|Dagger}} [[Creature:Solomon Crane (Standard)|Solomon Crane]]
+*{{Target|Key}} [[Creature:Buck Gordon (Standard)|Buck Gordon]]
+*{{Target|Gem}} [[Creature:The Shadoe (Standard)|The Shadoe]]
+*{{Target|Spiral}} [[Creature:Dog Tracy (Standard)|Dog Tracy]]
+
+'''The Second Team'''
+*{{Target|Book}} [[Creature:Mandar the Barbarian (Standard)|Mandar the Barbarian]]
+*{{Target|Chalice}} [[Creature:Duck Savage (Standard)|Duck Savage]]
+*{{Target|Wand}} [[Creature:Stallion Quartermane (Standard)|Stallion Quartermane]]
+*{{Target|Potion}} [[Creature:The Bantam (Standard)|The Bantam]]
+
+| speech =
+
+| spellnotes =
+*Casts a protected Lifeblade (+40%)
+
+| casts =
+Legend Shield;
+Guiding Light;
+Entangle;
+Pigsie;
+Regenerate;
+Rebirth;
+Dryad;
+Lifeblade (+40%);
+Life Feint;
+Triage;
+Ratatoskr's Spin;
+Sacred Charge;
+Forest Lord;
+Spinysaur;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = The Bantam (Hall of Heroes)
+}}

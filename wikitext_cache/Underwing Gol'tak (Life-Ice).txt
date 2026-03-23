@@ -1,0 +1,91 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 2,000
+| crecla = Gargoyle
+| school = Life
+| school2 = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Darkmoor
+| location = Graveholm
+| subloc1 = Arena of Cups
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Knight of Coins;
+King of Coins;
+King of Swords;
+Ace of Swords;
+
+| quests =
+House of Cups;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Underwing Gol'tak (Death-Fire)
+}}

@@ -1,0 +1,214 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 17,635
+| crecla = Gargoyle
+| crecla2 = Golem
+| school = Ice
+| school2 = Myth
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Ice;
+
+| critical =
+119 Any;
+
+| criticalblock =
+654 Any;
+
+| outpierce =
+10%;
+
+| outboost =
+80%;
+
+| incboost =
+30% Fire;
+
+| incresist =
+46% Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+76% Ice;
+
+| outhealing =
+34%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Demimortal Gargoyle (3,785);
+
+| world = Arcanum
+| location = The Arcanum
+| subloc1 = Cursed Repository
+| descrip =
+*When Mr. Stone is in his statue Polymorph, he is immune to all damage and casts no spells.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Darkmoor
+| tome description =
+Krin'Toth, Lord of Swords. After an existential crisis, he attacked a library. Darkmoor needs therapists.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Polymorph}} ''"By sun's light, I am as stone"'' - At the end of the first and fourth Round, and every fifth Round after (1, 4, 9, 14, etc.), Mr. Stone will cast {{Link|Spell|Power Nova}} on himself. This deals no damage and Polymorphs him into his Statue form for 2 Rounds.
+**When in this Statue form, Mr. Stone is '''immune to all damage.'''
+*{{Icon|Damage}} ''"*Low unhappy growl*"'' - If Mr. Stone is attacked while in his statue Polymorph, he will unpolymorph himself, making him vulnerable to damage again.
+*{{Icon|Polymorph}} ''"You sat idle like stones, so stones you shall become!"'' - If Mr. Stone’s Statue Polymorph expires naturally (meaning he was not attacked during the Statue phase), he will cast {{Link|Spell|Medusa}} on the Wizard. This deals no damage but Polymorphs the Wizard into a {{Link|Polymorph|Statue}} for 99 Rounds.
+**Polymorph has a deck of 77 Cards, all being {{Link|Spell|Pass}} Cards, except for one {{Link|Spell|Break Free (Myth)}} Card. The Pass Spells can be discarded and the Wizard may Pass normally to avoid a spell casting animation. The Wizard can be healed while polymorphed.
+**If all Wizards are already a {{Link|Polymorph|Statue}}, Mr. Stone will not cast {{Link|Spell|Medusa}} after his Statue Polymorph expires naturally.
+**This cheat can be dispelled with {{Link|Spell|Vaporize}}.
+
+| spellnotes =
+
+| casts =
+Mass Ice Trap;
+Mass Myth Trap;
+Winter Trap;
+Deermouse Trap (Tier 2a);
+Colossus;
+Frost Giant (650);
+Yellow Troll;
+Saturn's Reaping;
+
+| quests =
+Sticks and Stone;
+
+| gold =
+5 - 58;
+
+| hats =
+Broken Branch Loss Mask;
+Broken Branch Luckless Mask;
+Broken Branch Neglect Mask;
+Broken Branch Panic Mask;
+Broken Branch Rage Mask;
+Broken Branch Sorrow Mask;
+Broken Branch Terror Mask;
+Mask of False Promises;
+Mask of the Burnt Forest;
+Mask of the Changing Tide;
+Mask of the Coldhearted;
+Mask of the Doomed;
+Mask of the Living Lie;
+Mask of the Turning Wheel;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Broken Branch Loss Cards;
+Broken Branch Luckless Cards;
+Broken Branch Neglect Cards*F3;
+Broken Branch Panic Cards*F3;
+Broken Branch Rage Cards;
+Broken Branch Sorrow Cards;
+Broken Branch Terror Cards;
+Cards of False Promises;
+Cards of the Burnt Forest;
+Cards of the Changing Tide;
+Cards of the Coldhearted;
+Cards of the Doomed;
+Cards of the Living Lie*F2;
+Cards of the Turning Wheel;
+
+| items =
+Darkmoor Castle Theme;
+Darkmoor Tragedy Theme;
+
+| cards =
+Arcticzilla;
+Harmattan Maxios;
+Raging Bull;
+Rusalka's Wrath;
+
+
+| reagents =
+Cobalt;
+Ectoplasm;
+
+| spellements =
+Barbarian's Saga;
+Blast Off!;
+Bunyip's Rage;
+Chameleon Clash;
+Count Croakula*F2;
+Dark & Stormy;
+Deathly Depths;
+Drop Bear Fury;
+Gravestorm*F3;
+Heqet*F3;
+Improbable Gaze;
+Mortality;
+Old One's Endgame;
+Phantasmania!;
+Shu*F3;
+Starspawn;
+Taweret;
+The Chariot*F2;
+The Hierophant;
+The Tower;
+The World;
+Thoth;
+Zand the Bandit*F2;
+
+| snacks =
+
+| jewels =
+Flawless Blocking Jade +24;
+Flawless Blocking Peridot +24;
+Flawless Critical Citrine +23;
+Flawless Critical Onyx +24;
+Flawless Critical Peridot +24;
+Flawless Critical Sapphire +23;
+Flawless Critical Sapphire +24;
+Polished Piercing Jade +6%;
+Polished Piercing Onyx +6%;
+Polished Piercing Ruby +6%;
+Unearthly Critical Onyx +44 (Life);
+Unearthly Critical Sapphire +48 (Balance);
+Unearthly Damage Citrine +11% (Storm);
+Unearthly Damage Peridot +10% (Fire);
+
+| pins =
+Balance Accurate Pin (100);
+Death Accurate Pin (100);
+Death Conversion Pin (160);
+Fire Accurate Pin (100);
+Myth Accurate Pin (100);
+Storm Accurate Pin (80);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

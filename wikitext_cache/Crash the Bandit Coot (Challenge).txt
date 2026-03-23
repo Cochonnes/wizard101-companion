@@ -1,0 +1,204 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 15,000
+| crecla = Dingo
+| school = Fire
+| school2 = Storm
+| masteries =
+Ice;
+Death;
+Balance;
+
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Ice;
+Storm;
+Myth;
+Life;
+Death;
+Balance;
+
+| critical =
+135 Any;
+
+| criticalblock =
+759 Any;
+
+| outpierce =
+30%;
+
+| outboost =
+130%;
+
+| incboost =
+None;
+
+| incresist =
+24% Ice, Life;
+44% Fire, Storm, Myth, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wallaru
+| location = Wobbegong Territory
+| subloc1 = Crash's Cave (Challenge)
+| badge = Crashed the Bandit Coot
+| lootchest = Crash's Chest (Challenge)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the Standard version of this battle, see {{Link|Creature|Crash the Bandit Coot (Standard)}}.
+
+'''Advanced Combat Rules:'''
+*Wizards stats and spells are scaled to Level 170.
+*Spell Decks cannot be changed while in this instance.
+*No-PvP spells are disallowed in this fight.
+*PvP-Only Spells are allowed in this fight.
+*Wizards cannot re-join combat after fleeing mid-combat.
+
+'''Additional Notes:'''
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Manipulation}} ''"Crickey, too many power-ups!"'' - At the end of each Round, Crash the Bandit Coot casts a 0 Damage Shadow version of {{Link|Spell|Empower}} that gives him a random School Pip.
+*{{Icon|Pip}} ''"Crash Attack!"'' - After the previous cheat, if Crash the Bandit Coot has 2 or more of the same School Pip, he will cast the following Spells:
+**{{Icon|Fire School Pip}} 2 Fire Pips: {{Link|Spell|Sun Serpent}} and a version of {{Link|Spell|Backfire}} that removes all harmful Wards.
+**{{Icon|Ice School Pip}} 2 Ice Pips: {{Link|Spell|Lord of Winter}} and a version of {{Link|Spell|Glacial Fortress}} that removes all harmful Charms.
+**{{Icon|Storm School Pip}} 2 Storm Pips: {{Link|Spell|Storm Owl}} and {{Link|Spell|Disarm (Shadow, All Enemies)}} that removes one helpful Charm from all enemies.
+**{{Icon|Myth School Pip}} 2 Myth Pips: {{Link|Spell|Celestial Calendar}} and {{Link|Spell|Cleanse Ward (Shadow, All Allies)}} that removes one harmful Ward.
+**{{Icon|Life School Pip}} 2 Life Pips: {{Link|Spell|Spinysaur}} and a version of {{Link|Spell|Oni's Naturalism}} that removes all harmful Wards.
+**{{Icon|Death School Pip}} 2 Death Pips: {{Link|Spell|Avenging Fossil}} and a version of {{Link|Spell|Putrefaction}} that removes all helpful Charms from all enemies.
+**{{Icon|Balance School Pip}} 2 Balance Pips: {{Link|Spell|Sabertooth}} and casts a 0 Damage Shadow version of Empower that gives him a random School Pip.
+**This cheat can repeat multiple times during the same Round.
+*{{Icon|Afterlife}} ''"Crash Lives Again!"'' - After Crash the Bandit Coot is defeated once, he will cast a Moon version of Blessing, restoring himself to 100% max Health, then cast an Equalize Global, setting the Damage cap to '''4,000'''
+**This Global will be recast if replaced.
+
+| spellnotes =
+
+| casts =
+Frenzy;
+Pigsie (Tier 3b);
+Blade Dance (0 Pip);
+Phantasmania! (Tier 2a);
+Glimpse of Infinity (Tier 3b);
+Immolate (Tier 3a);
+Insane Bolt;
+Hammer of Thor (Tier 3b);
+Angry Snowpig (Tier 3b);
+Ship of Fools (Tier 3b);
+Ninja Piglets (Tier 3b);
+
+| quests =
+
+| dropnotes =
+This Boss will always drop the following:
+*{{Icon|Amulet}} 2 Amulets or Socket Wrenches
+*{{Icon|Reagent}} 2-3 Dream Water
+*{{Icon|Spellement}} 12-13 Spellements
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Bold Dream Reaver Amulet;
+Bold Dream Warper Amulet;
+Cruel Dream Reaver Amulet;
+Cruel Dream Warper Amulet*F2*WMV;
+Deft Dream Reaver Amulet;
+Deft Dream Warper Amulet;
+Fabled Dream Reaver Amulet;
+Fabled Dream Warper Amulet;
+Fell Dream Reaver Amulet;
+Fell Dream Warper Amulet;
+Fervid Dream Reaver Amulet;
+Fervid Dream Warper Amulet;
+Fierce Dream Reaver Amulet;
+Fierce Dream Warper Amulet;
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Legendary Socket Wrench;
+
+| cards =
+
+| reagents =
+Dream Water @ 2 Dream Water*F2*WMV;
+Dream Water @ 3 Dream Water*F2*WMV;
+
+| spellements =
+Barbarian's Saga*F2*WMV;
+Bunyip's Rage*F3*WMV;
+Count Croakula*F2*WMV;
+Dark & Stormy;
+Deathly Depths*F2*WMV;
+Drop Bear Fury;
+Freeze Ray*F2*WMV;
+Glimpse of Infinity*F2*WMV;
+Gravestorm*F2*WMV;
+Grim Reader*F2*WMV;
+Grrnadier*F3*WMV;
+Improbable Gaze*F2*WMV;
+Lord of the Jungle;
+Mockenspiel*F2*WMV;
+Old One's Endgame*F2*WMV;
+Phantasmania!*F2*WMV;
+Rainbow Serpent*F2*WMV;
+S'more Machine;
+Scales of Destiny;
+Scion of Balance;
+Scion of Death;
+Scion of Fire;
+Scion of Ice;
+Scion of Life;
+Scion of Myth;
+Scion of Storm;
+Shatterhorn*F2*WMV;
+Snack Attack*F3*WMV;
+Sound of Musicology;
+Starspawn*F2*WMV;
+Tatzlewurm Terror;
+Tree of Strife*F3*WMV;
+Wobbegong Frenzy;
+Zand the Bandit*F2*WMV;
+
+| snacks =
+
+| jewels =
+
+| pins =
+Balance Blocking Pin (150, Fire);
+Fire Mending Pin (140);
+Ice Blocking Pin (160, Fire);
+Myth Resist Pin (140, Fire);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Crash the Bandit Coot
+}}

@@ -1,0 +1,270 @@
+{{Admin|Should this page be split based on varying health values?}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 2,160 / 2,960
+| crecla = Golem
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Creeper;
+
+| world = Marleybone
+| location = Kensington Park
+| badge = Machine Master
+| lootchest = Stoker's Chest
+| descrip =
+The main Boss in the Kensington Park instance, Stoker is a creation of {{Link|NPC|H.G. Waggs}} that malfunctions and plans to use the other Clockworks as an army to take over Marleybone.
+*Two additional Creepers will appear (in both fights) if more than two Wizards are present.
+
+| speech =
+:'''First Fight:'''
+::''"Ha! You come to rescue this worthless inventor? Your foolishness will be your own undoing!"''
+:'''Second Fight:'''
+::''"Ha, you will tremble when the Clockworks rise and become the masters of Marleybone! Wizardling, prepare for defeat against my Science! Come and feel the burn!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Marleybone
+| tome description =
+'''First Fight''':
+*A man-made creature that turned on its creator. There's a literary reference in there somewhere.
+
+'''Second Fight''':
+*Dreamed big dreams of ruling the world with an army of the unliving. Robots or vampires, didn't matter which.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 125 Storm Damage per Pip.
+
+| casts =
+Myth Shield;
+Weakness;
+Black Mantle;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Storm Elf (30+273);
+Evil Snowman (Storm);
+Storm Shark;
+Squall Wyvern;
+Kraken;
+Leprechaun;
+Cyclops;
+Sunbird;
+
+| quests =
+The Invincible Man;
+The Crime Machine;
+
+| gold =
+47 - 121;
+
+| hats =
+Brisk Cap;
+Cap of Song;
+Cap of the Inventor;
+Cap of the Kraken*F6*WMV;
+Cap of the Unicorn;
+Cat Burglar's Cap*F2;
+Cowl of Cooperation;
+Cowl of Rhyming*F2*WMV;
+Cowl of Sympathy;
+Cowl of Tact;
+Enlivened Cowl;
+Exclusive Cap;
+Feline's Charged Hat;
+Glowing Canine Hat;
+Gogi Berry Stained Cap;
+Hat of Discontent;
+Hat of Equation;
+Headwraps of Generations*F2*WMV;
+Helm of Horrors*F2*WMV;
+Jinxed Hat;
+Mask of the Chipper;
+Nunu's Mask of the Twisted;
+Shaman's Hat*F2*WMV;
+Silent Canine Cowl;
+Winter Canine Cowl*F3;
+
+| robes =
+Alluring Robes;
+Artificial Robe*F2;
+Clanker's Robe;
+Cloak of Clarity;
+Cloak of Deliberation;
+Ecstatic Garments;
+Fancy Garments;
+Feline's Somber Robe;
+Feline's Whimsical Robe;
+Frosty Vestment;
+Garments of Generations*F2;
+Garments of the Opus;
+Garments of Unrest;
+High Quality Cloak;
+Icy Tunic;
+Mechanical Tunic*F3*WMV;
+Nunu's Twisted Uniform;
+Polished Garments*F2*WMV;
+Quick-Witted Vestment*F2;
+Robe of Extinction*F4*WMV;
+Robe of Ideals*F2*WMV;
+Robe of Song;
+Robe of the Bubble;
+Robe of the Unicorn;
+Stylish Garments;
+Tunic of Symmetry*F2*WMV;
+Vestment of Arias;
+Vestment of Expertise;
+Vestment of the Sun;
+
+| boots =
+Admirable Shoes;
+Bewitching Shoes;
+Boots of the Nucleus;
+Boots of the Verse;
+Clanker's Irritating Shoes;
+Druidic Sandals;
+Ecstatic Boots*F2*WMV;
+Engrossed Shoes;
+Exacting Boots;
+Flowering Canine Shoes*F4*WMV;
+Footwraps of Charity;
+Frozen Canine Shoes*F6*WMV;
+Graceful Slippers;
+Haskarr's Barbarish Boots*F2;
+Immersive Sandals;
+Magnificent Boots;
+Pompous Footwraps*F2*WMV;
+Premium Footwraps;
+Proficient Shoes;
+Puddle Stompers;
+Sandals of Civility;
+Sandals of Delusion;
+Sandals of Nuisance*F2;
+Shoes of Hinderance;
+Shoes of Scruples*F2;
+Shoes of Sentiments;
+Shoes of the Chimera;
+Shoes of the Devoted;
+Shoes of the Windless*F2*WMV;
+Slippers of the Worrier*F2*WMV;
+Vigilant Sandals;
+
+| athames =
+Agent's Kris;
+Dagger of Soul-Searching;
+Charged Knife*CR;
+Informant's Dirk;
+Watchman's Athame;
+
+| amulets =
+
+| rings =
+Band of the Primitives;
+Watchman's Decoder Ring*F2*WMV;
+
+| wands =
+Staff of Rejuvenation*F3*WMV;
+
+| decks =
+Deck of the Cyclops;
+Enigmatic Deck*F2*WMV;
+
+| items =
+Angled Gravemarker;
+Antique Cello;
+Boiler Door;
+Cameo of Sherlock Bones;
+Engraved Pedestal*F3*WMV;
+Krokotopia Camping Tent;
+Overstuff Postbox;
+Short Cement Post*F3*WMV;
+Silver Chest;
+Solar Obelisk;
+Square Metal Platform;
+Statue of St. Bernard*CR;
+Tin Can;
+
+| cards =
+Ice Wyvern;
+Kraken;
+Monstrous;
+
+| reagents =
+Iron*F2;
+Spider Silk*F6*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F3*WMV;
+Caramel Popcorn*F2*WMV;
+Crunch Apple;
+Fire Cracker;
+Golden Peanut;
+Golden Squash*F2*WMV;
+Gummy Bloodbat*F4*WMV;
+Large Watermelon;
+Medium Fish*F3*WMV;
+Redskin Peanut*F2*WMV;
+Square Watermelon*F5*WMV;
+Stinky Cheese*F2*WMV;
+Wheat Cracker*F3*WMV;
+
+| jewels =
+Chipped Defense Jade +15;
+Chipped Defense Sapphire +15;
+Chipped Health Opal +25;
+Cyclops Peridot;
+Flawed Damage Opal +5;
+Flawed Resilient Opal +2%;
+Locust Swarm Citrine;
+Storm Shark Amethyst;
+
+| pins =
+
+| pets =
+Seraph*CR;
+Spider Golem;
+
+| seeds =
+Maelstrom Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

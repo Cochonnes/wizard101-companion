@@ -1,0 +1,180 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 18,145
+| crecla = Deer
+| school = Fire
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Fire Elf;
+
+| world = Khrysalis
+| location = Kondha Desert
+| subloc1 = Chamber of Sun Fire
+| descrip =
+
+| speech =
+:''"The Sun's Fire has too long been shackled and dimmed by Shadow!  But if you are to be a champion of Sun, I must test your mettle!  Defend yourself, Wizard, or be reduced to ash!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Glacial Shield;
+Smoke Screen (-45%);
+Fireblade;
+Fire Trap;
+Fuel (+35%);
+Natural Attack (Fire 175-285-400);
+Meteor Strike (355-395);
+Phoenix (600-680);
+Efreet;
+Sun Serpent;
+
+| quests =
+Sun Fire;
+
+| gold =
+123 - 144;
+
+| hats =
+
+| robes =
+Besieged Burrower Armor;
+Gorge Excavator's Outfit;
+Mantis Chitin Armor;
+Mantis Robe of Secrecy*F2*WMV;
+
+| boots =
+Burrower Scout's Hoppers*F3*WMV;
+Flame Legs Captain's Boots*F6*WMV;
+
+| athames =
+Blue Razor Hailstone Blade;
+Hisser's Burning Cleaver*F3*WMV;
+
+| amulets =
+Benzzi's Campaign Memento;
+Collar of the Besieged*F2;
+Mantis Prophet's Ornament*F2;
+
+| rings =
+
+| wands =
+Dirk of Burrower Harmony;
+Halberd of Fulmination;
+Spear of Cold Truth;
+Stave of Duststorms*F2*WMV;
+
+| decks =
+Case of Engulfing Flames*F2*WMV;
+House of the Old Times*F2*WMV;
+
+| items =
+Khrysalis Desert Shadows Theme*F3*WMV;
+Khrysalis Hive Combat Theme;
+
+| cards =
+Black Widow;
+Chastisement;
+Choke;
+Disarm;
+Frost Beetle;
+Furnace;
+Mass Infection;
+Reliquary;
+Scarab;
+Scorpion;
+Sun Serpent;
+Virulence;
+
+| reagents =
+Astral Shard*F9*WMV;
+Black Lotus*F4*WMV;
+Black Pearl*F2*WMV;
+Blood Moss*F2;
+Bone*F4*WMV;
+Bronze Gear*F4*WMV;
+Deep Mushroom*F3*WMV;
+Draconium*F2;
+Fire Blossom*F3*WMV;
+Fossil*F2*WMV;
+Golden Pearl;
+Lava Lily*F2*WMV;
+Mist Wood*F2*WMV;
+Nightshade;
+Ore;
+Orichalcum*F2;
+Red Mandrake*F3*WMV;
+Silver;
+Stone Block*F5*WMV;
+Sunstone;
+Tungsten*F2;
+Turquoise*F2*WMV;
+
+| spellements =
+
+| snacks =
+Bell Pepper Steak;
+Dead Beet Risotto;
+Discord Grape Jelly*F2;
+Evil Magma Soup*F2*WMV;
+Goat Cheese;
+Golden Grapes;
+Gummy Humongofrog*F2*WMV;
+Key Lime Pie*F2*WMV;
+King Banana*F2*WMV;
+King Parsley Soup*F3*WMV;
+Ninja Fig Bars;
+Stuffed Bell Pepper;
+Uni-Corn;
+
+| jewels =
+Blade of Fire Ruby;
+Myth-Eye Peridot;
+Nerys Citrine;
+Polished Accurate Sapphire +10%;
+Polished Critical Jade +12;
+Polished Damage Hematite +44;
+Polished Damage Onyx +22;
+Polished Damage Peridot +21;
+Polished Health Opal +94;
+Storm-Giver Amethyst;
+Storm-Proof Amethyst;
+Vassanji Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+Pink Dandelion*CR;
+Red Huckleberries;
+
+| mounts =
+
+| spells =
+
+}}

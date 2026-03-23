@@ -1,0 +1,166 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 800
+| crecla = Wolf
+| school = Balance
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Moonstrider Scout;
+
+| world = Grizzleheim
+| location = Mirkholm Keep
+| subloc1 = Otto's Cave
+| descrip =
+*Two additional Moonstrider Scouts will appear if more than two Wizards are present.
+
+| speech =
+:''"What manner of beast are you!? No matter... you're no match for me!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Death Damage per Pip.
+
+| casts =
+Elemental Shield;
+Weakness;
+Balanceblade;
+Hex;
+Scarab;
+Scorpion;
+Locust Swarm;
+Sandstorm;
+Fire Cat;
+Lightning Bats;
+Evil Snowman;
+
+| quests =
+Leaders of the Pack;
+
+| gold =
+50 - 88;
+
+| hats =
+Cap of the Cyclone*F2;
+Crown of Hardiness;
+Penumbra Cowl;
+Polar Ice Cap*F6*WMV;
+
+| robes =
+Arctic Robe;
+Cloak of Nephele*F2*WMV;
+Flamefollower's Tunic;
+Jerkin of the Just*F2*WMV;
+Maelstrom Vestment;
+Mythologist's Raiment;
+Smock of Cinders;
+Survivalist's Tunic*F2;
+
+| boots =
+Conservator's Footgear;
+Firetalon Boots*F2;
+Glacier Walkers;
+Scorched Footwraps;
+Striders of Abundance*F3*WMV;
+Wild Rover's Boots;
+
+| athames =
+Poniard of the Last Rune;
+Shortblade of Valor;
+Vibrant Dagger*F3*WMV;
+
+| amulets =
+
+| rings =
+Ice Crystal Loop;
+Wavecrasher's Stone*F4*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Tanglebrush;
+Trowel;
+
+| cards =
+Heck Hound;
+Pacify;
+
+| reagents =
+Bone*F4*WMV;
+Brass;
+Bronze Gear*F3*WMV;
+Copper;
+Iron*F2;
+Nickel;
+Pyrite*F4;
+Tin;
+
+| spellements =
+
+| snacks =
+Cherry Pie*F2;
+Cracker;
+Funnel Cake;
+Glowing Rock Candy*F2;
+Green Grapes*F2;
+Ice Cream;
+Meat Soup;
+Moon Pie;
+PBJ Sandwich;
+Tasty Biscuit;
+
+| jewels =
+Chipped Defense Peridot +13;
+Chipped Health Opal +16*F2;
+Chipped Health Opal +18;
+Cracked Damage Sapphire +6;
+Cracked Defense Amethyst +7;
+Cracked Defense Peridot +7;
+Cracked Health Opal +13;
+Cracked Health Opal +15;
+Cracked Mana Opal +5;
+Ghoul Onyx;
+Leprechaun Jade;
+Snow Serpent Sapphire;
+Steadfast Opal;
+Thermic Shield Amethyst;
+Troll Peridot;
+Weakness Citrine;
+Wise Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots*F2*WMV;
+Bread Fruit Bush;
+Couch Potatoes*CR;
+Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

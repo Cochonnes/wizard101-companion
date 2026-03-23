@@ -1,0 +1,120 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 5,200
+| crecla = Rhino
+| school = Life
+| startpips = 4
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Zafaria
+| location = Stone Town
+| subloc1 = Kasbah of Zanj
+| descrip =
+Thaumaturges must defeat Horned Nimon during their Level 75 Minion Spell Quest.
+
+| speech =
+:''"How did you get by Freddo the Ice Fish?  No matter!  Weak and sniveling wretch, I will trample you into the floor of my chamber!"''
+
+| spellnotes =
+
+| casts =
+Mend;
+Lifeblade;
+Life Trap;
+Nature's Wrath;
+Life Banshee (250);
+Seraph;
+Centaur;
+Forest Lord;
+Gnomes!;
+
+| quests =
+Line in the Water;
+
+| gold =
+69 - 73;
+
+| hats =
+
+| robes =
+Brave One's Plate;
+Fire Spirits' Toasty Tunic;
+Irontrunk Cloak of Dreams;
+Jambo Jacket;
+Outsider's Grim Garb;
+Tunic of Nature's Wrath;
+Witch Doctor's Fiery Garb;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Centaur;
+Colossus;
+Earthquake*F2*WMV;
+Ice Wyvern;
+Phoenix;
+Skeletal Pirate;
+Stormzilla;
+
+| reagents =
+Deep Mushroom;
+Frost Flower;
+Lava Lily;
+Mist Wood;
+Ore;
+Parchment;
+Stone Block;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

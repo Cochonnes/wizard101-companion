@@ -1,0 +1,237 @@
+{{CreatureInfobox
+| cretype = Boss 
+| rank = 20
+| heal = 13,275
+| crecla = Mander
+| school = Life
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+23%;
+
+| outboost =
+119%;
+
+| incboost =
+5% Death;
+
+| incresist =
+73% Life;
+
+| outhealing =
+71%;
+
+| inchealing =
+71%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Dungeon Keeper;
+Dungeon Keeper;
+
+| world = Lemuria
+| location = Mandoria
+| subloc1 = Jailor's Office
+| descrip =
+For the purpose of drops, Jailor is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Lemuria
+| tome description =
+Based his career on his favorite Capture the Flag position. He doesn't have to move at all.
+
+| extract class =
+Mander;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+*Casts an Aegis-protected Lifeblade (+40%).
+*Casts an unprotected Lifeblade (+40%).
+
+| casts =
+Vengeance (6 Rounds);
+Pigsie (Tier 5b);
+Lifeblade (+40%);
+Bladestorm (+25%);
+Mass Hex;
+Luminous Weaver;
+Ratatoskr's Spin (Tier 5a);
+Camp Bandit (Tier 5b);
+Rocklops (Life);
+Lamassu;
+Natural Attack (Life 100-200-300-400);
+Grrnadier (Tier 3a);
+Wings of Fate;
+Lord of the Jungle (Tier 3a);
+Centaur (610-670);
+Harmattan Maxios (735);
+
+| quests =
+Mothly Hospitality;
+The Dungeons of Moth-Amon;
+
+| gold =
+235 - 394;
+
+| hats =
+
+| robes =
+
+| boots =
+Hierarch's Undaunting Shoes;
+Hierarch's Undead Shoes;
+
+| athames =
+Hierarch's Undaunting Athame;
+Hierarch's Undead Athame;
+
+| amulets =
+Hierarch's Barbarian Talisman;
+
+| rings =
+Hierarch's Cold Steel Ring;
+Hierarch's Horror Ring;
+Hierarch's Preservation Ring;
+
+| wands =
+Hierarch's Ferocious Staff;
+Hierarch's Horror Staff;
+
+| decks =
+
+| items =
+Lemuria Telos Theme 4;
+Puzzle Cube;
+
+| cards =
+Brilliant Light;
+Elemental Blade;
+Elemental Shield;
+Elemental Spear;
+Elemental Trap;
+Feint;
+Link;
+Pacify;
+Pungent Bug Spray;
+
+| reagents =
+Aquamarine*F2*WMV;
+Fish Fin;
+Glass Sliver;
+Golden Pearl;
+Mithril*F2;
+Scales;
+Silver*F2;
+Steel*F2;
+Sunstone;
+Synthonium*F3;
+Tungsten*F4;
+
+| spellements =
+Barbarian's Saga;
+Old One's Endgame;
+
+| snacks =
+Bell Pepper Steak*F2;
+Boiled Spider Legs;
+Boom Stroganoff;
+Bread Fruit Fruit;
+Candlenut*F2;
+Cauliflowers*F2;
+Chalupacabra;
+Chapulines*F2; 
+Chili Peppers;
+Desparagus Salad*F2*WMV;
+Eggplant*F2*WMV;
+Fried Ice Cream;
+Frozen Perogies;
+Fuzzy Peach Fizz;
+Ginger Mint Tea;
+Golden Biscuit;
+Golden Candy Bar;
+Golden Peanut;
+Hive Rinds;
+Huge Ice Cream;
+Super Cold Popsicle;
+Taco Town Special;
+
+| jewels =
+Balance-It Citrine;
+Dazzling Accurate Peridot +14%;
+Dazzling Critical Ruby +19;
+Dazzling Damage Amethyst +29;
+Death-Boon Onyx;
+Death-Giver Onyx;
+Death-Shot Onyx;
+Fire-Away Ruby;
+Fire-Boon Ruby;
+Fire-Proof Ruby;
+Fire-Shot Ruby;
+Ice Assailant Sapphire;
+Ice-Boon Sapphire;
+Ice-Shot Sapphire;
+Life-Away Jade;
+Life-Boon Jade;
+Myth Assailant Peridot;
+Myth-Dealer Peridot;
+Myth-Shot Peridot;
+Pain-Bringer Opal;
+Sparkling Health Opal +116*F2*WMV;
+Storm Striker Amethyst*F2;
+Storm-Away Amethyst;
+Stun Recalcitrant Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears*F2;
+Bell Pepper;
+Blue Huckleberries*F3*WMV;
+Boiled Peanuts;
+Boon Tree;
+Bread Fruit Bush;
+Evil Snow Peas;
+Goose Tree;
+Honey Bee Plant;
+Key Limes*CR;
+Laugh-O-Dil;
+Melting Cheese Tree;
+Pink Huckleberries*F2;
+Prickly Bear Cactus*F3*WMV;
+Purple Grapes of Wrath;
+Queen Crape Myrtle;
+Red Couch Potatoes;
+Red Huckleberries;
+Rotten Beets;
+Rye Bread Fruit Bush;
+Saw Palmetto*F2;
+Sunion*CR;
+Ultra Snow Apples;
+Yellow Bell Pepper*F3;
+
+| mounts =
+
+| spells =
+
+}}

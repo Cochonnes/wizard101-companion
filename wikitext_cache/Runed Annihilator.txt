@@ -1,0 +1,196 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 3,200
+| crecla = Elemental
+| crecla2 = Colossus
+| crecla3 = Golem
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Ice;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Rubble Reaver;
+Rubble Reaver;
+
+| world = Grizzleheim
+| location = Helgrind Warren
+| descrip =
+The Runed Annihilator is the first Boss in Helgrind Warren.  Upon its defeat, all other doors open to the remaining Bosses, except for the one leading to {{Link|Creature|Ullik}}.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+It has dedicated its life to the art of annihilation. Creative destruction, if you will.
+
+| extract class =
+Colossus;
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Myth Damage.
+
+| casts =
+Snow Shield;
+Spirit Armor;
+Smoke Screen;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Sunbird;
+Fire Shark;
+Meteor Strike;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Heck Hound;
+
+| quests =
+
+| gold =
+62 - 128;
+
+| hats =
+Cap of Equilibrium;
+Cap of the Evenhanded*F5*WMV;
+Cap of the Stratosphere;
+Cryptid Hood;
+Curative Coif*F2*WMV;
+Firebloom Cowl;
+Headgear of Revival;
+Hood of Delusion*F7*WMV;
+Hood of the Invariable;
+Mantle of Ingenuity*F2;
+Mortal Veil*F2;
+
+| robes =
+Curative Garments*F7*WMV;
+Gelid Garments;
+Gloomhound's Wrap;
+Raiment of Rainfall*F2;
+Thermic Longcoat;
+Tunic of Regularity;
+
+| boots =
+Boots of the Inferno*F6;
+Broghans of the Wanderer;
+Contradictory Boots*F2;
+Erudite Footwear;
+Firewalking Sandals;
+Footgear of Garm;
+Footgear of the Undertow*F2;
+Footwraps of the Efreet;
+Ranger's Boots;
+Slippers of the Seer;
+Telluric Striders*F2;
+
+| athames =
+Edge of Veracity*F7*WMV;
+
+| amulets =
+
+| rings =
+Windtossed Band*F5*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Heavy Dining Table*F4*WMV;
+Minor Runestone;
+
+| cards =
+Cloak;
+Donate Power;
+Kraken*F2;
+Wyldfire;
+
+| reagents =
+Brass*F3;
+Bronze Gear*F3*WMV;
+Ectoplasm*F9*WMV;
+Iron*F2;
+Nickel*F4;
+Pyrite*F2;
+
+| spellements =
+
+| snacks =
+7 Layer Taco;
+Chili Cheese Fries*F3;
+Chocolate Cake*F3;
+Chocolate Donut*F3;
+Glowing Rock Candy*F7*WMV;
+Large Ice Cream*F2*WMV;
+Meat Soup*F3;
+Moon Pie;
+Tasty Biscuit*F3*WMV;
+
+| jewels =
+Chipped Health Opal +16;
+Colossus Sapphire;
+Cracked Damage Onyx +4;
+Cracked Defense Onyx +9;
+Dull Blocking Jade +4;
+Dull Blocking Opal +2;
+Dull Blocking Peridot +4;
+Dull Damage Citrine +13;
+Dull Defense Opal +14;
+Earthquake Peridot;
+Energy Opal;
+Enfeeble Opal;
+Helephant Ruby;
+Stormzilla Amethyst; 
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots*F2;
+Bread Fruit Bush;
+Couch Potatoes*CR;
+Pink Dandelion*CR*F3*WMV;
+Rye Bread Fruit Bush;
+Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

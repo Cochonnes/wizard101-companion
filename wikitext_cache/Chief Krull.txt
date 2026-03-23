@@ -1,0 +1,204 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 10,490
+| crecla = Boar
+| crecla2 = Pig
+| school = Storm
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+29%;
+
+| outboost =
+133%;
+
+| incboost =
+5% Myth;
+
+| incresist =
+73% Storm;
+
+| outhealing =
+43%;
+
+| inchealing =
+48%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Boarrior;
+Boarrior;
+ 
+| world = Lemuria
+| location = Mandoria
+| subloc1 = Krull's Tent
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Lemuria
+| tome description =
+They say he once discovered an underwater kingdom. Well, he says that. But he never says where it is.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+*Casts a protected Stormblade (+30%).
+*Casts a protected Supercharge (+12%).
+
+| casts =
+Galvanic Field (6 Rounds);
+Stormblade (+30%);
+Supercharge (+12%);
+Power Current;
+Darkwind;
+Beary Surprise (Tier 5b);
+Natural Attack (Storm 130-260-390-520);
+Iron Sultan;
+Sound of Musicology (Tier 3a);
+Glowbug Squall;
+Dark & Stormy (Tier 3a);
+Rusalka's Wrath;
+Storm Lord (775);
+Leviathan (1,150);
+Sirens;
+
+| quests =
+Boarish Hospitality;
+
+| gold =
+312 - 483;
+
+| hats =
+Hierarch's Cold Steel Hat;
+Hierarch's Firewall Hat;
+
+| robes =
+Hierarch's Freezer Robe;
+
+| boots =
+Hierarch's Jungle Shoes*F2;
+
+| athames =
+Hierarch's Stability Athame;
+
+| amulets =
+
+| rings =
+
+| wands =
+Hierarch's Detective Staff;
+
+| decks =
+Hierarch's Barbarian Deck;
+
+| items =
+Lemuria Lab Combat Theme;
+Lemuria Sky City Theme;
+Puzzle Cube;
+
+| cards =
+Berserk;
+Death Prism;
+Dream Shield;
+Ice Prism;
+Life Prism;
+Link;
+Storm Shield;
+
+| reagents =
+Brass;
+Bronze Gear*F3;
+Cobalt*F2*WMV;
+Dark & Stormy*F2;
+Scales;
+Spider Silk*F2;
+Synthonium*F2;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Beast Wellington;
+Black Sun Seeds;
+Cracker;
+Golden Squash;
+Huge Ice Cream;
+Large Fish;
+Large Watermelon;
+Pineapple Spears;
+Potato Chips;
+Sliced Watermelon;
+Squash;
+Taco;
+Tiny Fish;
+Tomato Soup;
+
+| jewels =
+Blade of Fire Ruby;
+Dazzling Accurate Hematite +14%;
+Dazzling Critical Amethyst +19;
+Dazzling Damage Citrine +29;
+Dazzling Defense Opal +29;
+Death-Away Onyx;
+Death-Boon Onyx;
+Myth-Shot Peridot;
+Sparkling Accurate Citrine +13%;
+Sparkling Blocking Jade +17;
+Sparkling Critical Ruby +17;
+Sparkling Defense Peridot +53;
+Sparkling Defense Ruby +53;
+Sparkling Mana Opal +49;
+Storm-Proof Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Blue Huckleberries*F3*WMV;
+Deadly Fly Trap;
+Face Palm;
+Ivy League*CR;
+Maelstrom Snap Dragon;
+Missile Toe;
+Ninja Fig*CR;
+Pink Huckleberries*F2;
+Prickly Bear Cactus;
+Purple Grapes of Wrath;
+Red Huckleberries;
+Rye Bread Fruit Bush*F2;
+Saw Palmetto;
+Silver Trumpet Vine;
+Sour Fickle Pickle;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

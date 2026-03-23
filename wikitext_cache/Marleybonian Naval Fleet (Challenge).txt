@@ -1,0 +1,111 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 16,530
+| crecla = 
+| school = Shadow
+| school2 = Balance
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Ice;
+Life;
+Death;
+
+| critical =
+Balance, Shadow;
+
+| criticalblock =
+Any;
+
+| outpierce =
+35%;
+
+| outboost =
+179% Balance, Shadow;
+
+| incboost =
+None;
+
+| incresist =
+0% Moon;
+49% Fire, Ice, Storm, Myth, Life, Death, Balance, Sun, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Novus
+| location = Doom Moon
+| subloc1 = Invading Fleets (Challenge)
+| descrip =
+Marleybonian Naval Fleet is considered a Minion to [[Creature:Valencian Naval Fleet (Challenge)|Valencian Naval Fleet]]. All drops and cheats are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Frenzy;
+Shadowblade;
+Balanceblade;
+Justiceblade (Balance);
+Oni's Shadow;
+Power Nova (Shadow);
+Ominous Scarecrow (Shadow);
+Scarab (Tier 5a);
+Scales of Destiny (Tier 4b);
+Scorpion (Tier 5b);
+Rainbow Serpent (Tier 3a);
+Gearhead Destroyer (Tier 5b);
+Hydra (Tier 5b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Marleybonian Naval Fleet
+
+}}

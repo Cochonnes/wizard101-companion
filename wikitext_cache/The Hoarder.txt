@@ -1,0 +1,170 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 6,970
+| crecla = Shadow Weaver
+| school = Death
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Blackrock Guardian;
+
+| world = Dragonspyre
+| location = Plaza of Conquests
+| subloc1 = The Hoarder's Tower
+| descrip =
+Hoping to please the Umbra Queen, {{Link|NPC|Morganthe}}, The Hoarder has been stealing and collecting Spells and magical knowledge. Wizards must confront The Hoarder in order to learn their Level 68 School-specific Spell.
+*The Hoarder is not repeatable after completing the School-specific Quest.
+
+| speech =
+:The Hoarder's speech varies, based on the Wizard's school.  Click on the ''Quest Appearances'' links below to see the speech as part of each ''Quest Dialogue''.
+
+| spellnotes =
+
+| casts =
+Fortify;
+Deathblade;
+Curse;
+Death Trap;
+Feint;
+Vampire;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+Skeletal Dragon;
+Dr. Von's Monster;
+Natural Attack (Death 85-X Pips);
+
+| quests =
+All Your Basilisk...;
+Book Collectors;
+Code of Sirens;
+Cold Storage;
+Gnome, Sweet Gnome;
+Three Heads Are Better...;
+Under the Volcano;
+
+| gold =
+40 - 102;
+
+| hats =
+Bonfire Headdress;
+Cold At Night Cover;
+Cold Chieftain's Mask;
+Courageous Grower's Hat;
+Halcyon Hood;
+Hood of the Forgotten;
+River Captain's Hood;
+Shroud of the Equinox;
+
+| robes =
+Arbiter's Raiment;
+Baxby's Noble Outfit;
+Darajani Havoc Robes;
+Fiery Tunic;
+Final Curtain;
+Fire Valley Outfit;
+Robe of Radiance;
+Robe of the Greatest Saga;
+Robes of the Cold Night;
+Shaman's Mythic Armor*F2*WMV;
+Shibboleth Smock;
+Storm Caller's Outfit;
+Verdant Vestment;
+Whirlwind Wrap*F2;
+
+| boots =
+Baxby's Noble Trackers;
+Dancing Queen Dancers;
+Sandals of Lost Aeons;
+Shoes of the Whispering Dark;
+
+| athames =
+Dauntless Dirk;
+Dragonblood Dirk;
+
+| amulets =
+
+| rings =
+Amahle's Striped Band;
+Dragonscale Ring;
+Elissa's Chill Band;
+Mandisa's Star Stone;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Dark Tribute*F4;
+Pest Zapper;
+Polymorph Elemental (Storm);
+Polymorph Treant;
+Virulent Plague*F4;
+
+| reagents =
+Bronze;
+Bronze Gear*F2*WMV;
+Nickel;
+Spider Silk*F2;
+Stone Block;
+Tin;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Delicious Cookie;
+Flaming Soup*F2;
+Flapjacks;
+Glowing Taffy;
+Goat Cheese;
+Golden Grapes*F3*WMV;
+King Banana*F2;
+Spicy Drumstick;
+Submarine Sandwich;
+
+| jewels =
+Bummer Opal;
+Dull Critical Jade +4;
+Dull Critical Sapphire +4;
+Plain Damage Jade +16;
+
+| pins =
+
+| pets =
+
+| seeds =
+Trumpet Vine;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,218 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 845
+| crecla = Wizard
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
++8 Storm;
+
+| incboost =
+None;
+
+| incresist =
+2% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Rotted Fodder (Storm);
+
+| world = Wizard City
+| location = Triton Avenue
+| subloc1 = Mysterious Tower
+| descrip =
+Kestrel Blackstorm is one of the members of the Carpe Diem Society that have been possessed by ''The Book of Lost Pages'' during the [[Basic:The Lost Pages|Lost Pages Event]].
+*Two additional {{Link|Creature|Rotted Fodder (Storm)}} will appear if more than two Wizards are present.
+
+*Kestrel Blackstorm has the following Items Equipped.
+**{{Link|Item|Stormweave Shoes}}
+**{{Link|Item|Rotunda's Torc}}
+**{{Link|Item|Charged Wand}}
+
+| speech =
+:''"Have you read The Book of Lost Pages? Come with me through the Spiral, and I'll show you the great truths. No? Then prepare to be storm-blasted, intruder!"''
+
+| spellnotes =
+*Kestrel can cast 1-Pip off-School attacks, which are Item Cards from her Charged Wand.
+*All Damage dealt by Kestrel's Rotting Fodder Minions is reduced by 50%.
+
+| casts =
+Storm Shield:0;
+Myth Shield;
+Stormblade;
+Storm Trap;
+Rain Beetle;
+Thunder Snake;
+Lightning Bats;
+Storman (265);
+Storm Shark;
+Wood Construct;
+Frost Beetle:0;
+Imp:0;
+Dark Sprite:0;
+Scarab:0;
+Blood Bat:0;
+Fire Cat:0;
+
+| quests =
+Right As Rain;
+A Line-Storm Song;
+
+| dropnotes =
+[[Item:Dragon's Hoard Pack|Dragon's Hoard Equipment]] and the [[Mount:Bone Dragon|Bone Dragon Mount]] will only drop for Wizards under Level 20.
+
+| gold =
+9 - 32;
+
+| hats =
+Blooming Hat*F3*WMV;
+Dragonrider's Assailing Helm (Any Level)*CR;
+Dragonrider's Assailing Helm (Level 10+)*CR*F3;
+Dragonrider's Utility Helm (Any Level)*CR;
+Dragonrider's Utility Helm (Level 10+)*CR;
+Dragonrider's Vigilant Helm (Level 10+)*CR*F3;
+Flametouched Hat*F7*WMV;
+Hat of Eradication*F4*WMV;
+Helm of Supremacy*F3*WMV;
+Hood of Storms;
+Imp Lord's Helm;
+Novice's Hat;
+Soft Hood;
+Troubled Helm*F2*WMV;
+
+| robes =
+Cloak of Calamity;
+Cloak of Foresight;
+Dragonrider's Assailing Robe (Any Level)*CR;
+Dragonrider's Assailing Robe (Level 10+)*CR;
+Dragonrider's Utility Robe (Any Level)*CR;
+Dragonrider's Vigilant Robe (Level 10+)*CR;
+Fairy Cloak*F2*WMV;
+Novice's Robe;
+Raiment of Storms;
+Roughspun Robe;
+Shimmering Cloak*F8*WMV;
+Sturdy Coat*F2;
+Vestment of Eyus*F2*WMV;
+
+| boots =
+Adventurer's Boots;
+Boots of the Adverse;
+Cold Forged Boots*F3*WMV;
+Dragonrider's Assailing Shoes (Any Level)*CR;
+Dragonrider's Assailing Shoes (Level 10+)*CR*F2;
+Dragonrider's Utility Boots (Level 10+)*CR;
+Dragonrider's Vigilant Boots (Any Level)*CR;
+Dragonrider's Vigilant Boots (Level 10+)*CR;
+Fairy Shoes;
+Firestorm Wraps;
+Martyr's Wraps*F2*WMV;
+Novice's Shoes;
+Plated Boots*F3;
+Slippers of Excitement*F9*WMV;
+Slippers of Rites*F2*WMV;
+Soft Boots;
+Sturdy Boots;
+Twice Stitched Boots;
+
+| athames =
+Onyx Studded Athame*F7*WMV;
+Sapphire Studded Athame*F8*WMV;
+
+| amulets =
+Choker of Swarms*F3*WMV;
+
+| rings =
+Flawed Pearl Ring;
+
+| wands =
+Dragonrider's Fire Blade*CR;
+Dragonrider's Storm Blade*CR*F3;
+Symmetrical Wand*F2*WMV;
+
+| decks =
+
+| items =
+Broken Dragon Bust;
+Dragonflame Torch*F3*WMV;
+Dragonmoon Marker*F2*WMV;
+Dragonskull Marker*F4*WMV;
+Eye Jar*F2*WMV;
+Myth Stone Pedestal*F2*WMV;
+Prop Mountains 1;
+Singed Dragon Handbook*F4*WMV;
+Sun Banner*F4*WMV;
+
+| cards =
+Blood Bat;
+Dark Sprite*F2*WMV;
+Fire Cat;
+Fire Shield*F3*WMV;
+Fire Wyvern (335-395);
+Ghoul*F6*WMV;
+Ice Wyvern*F2*WMV;
+Imp*F2;
+Keen Eyes*F3*WMV;
+Locust Swarm;
+Pixie;
+Scarab;
+Squall Wyvern*F3*WMV;
+Storm Shield;
+Thunder Snake;
+Time of Legend;
+Tough*F3;
+
+| reagents =
+Bone;
+Ectoplasm;
+Leather Straps*F2;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry*F3;
+Buttered Popcorn*F10*WMV;
+Candy Bar*F7*WMV;
+Cheese*F3*WMV;
+Cheese Broccoli*F7*WMV;
+Chocolate Strawberry*F3*WMV;
+Dragon Fruit*F9*WMV;
+Frosted Cupcake*F4*WMV;
+Gummy Firecat*F3*WMV;
+Mystic Dragon Fruit*F2;
+Sugar Donut*F3*WMV;
+Taffy*F7*WMV;
+Tiny Pretzel*F8*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+Sea Dragon*CR;
+
+| seeds =
+Honey Sickle*F2;
+
+| mounts =
+Blue Dragon;
+Bone Dragon*PERM;
+Dark Redwing;
+Faithful Dragoness;
+
+| spells =
+
+}}

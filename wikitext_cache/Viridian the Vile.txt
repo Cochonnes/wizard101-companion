@@ -1,0 +1,178 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 8,480
+| crecla = Froudling
+| school = Storm
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Black Cap;
+
+| world = Avalon
+| location = High Road
+| subloc1 = Forlorn Tower (Avalon)
+| descrip =
+Viridian is the keeper of the ''third Sacred Word''.
+*Two additional {{Link|Creature|Red Cap}} Minions appear if more than two Wizards are present.
+
+| speech =
+:''"What's this? That wretched Myrella Windspar lied to me! She told me I'd be undisturbed in this tower! Oh well... I'll eat her next!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 145-280-445);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Tempest;
+
+| quests =
+Knight of the Sacred Words;
+
+| gold =
+89 - 173;
+
+| hats =
+Brave One's Mantle;
+Fire Spirits' Toasty Helm;
+Hood of the Sacred Lake*F3*WMV;
+Hunter's Helm of Mercy;
+Mask of the Silent Hunter;
+
+| robes =
+Bad Storm Armor;
+Catalan's Scales*F5*WMV;
+Jabberwock's Plate*F2;
+
+| boots =
+Friend of the Fire Elf Boots;
+Knight's Boots of Justice*F3*WMV;
+Long as Night Walkers;
+Loyal Knight's Boots;
+
+| athames =
+Loyal Steel*F2;
+Noble Hunter's Dagger*F3*WMV;
+
+| amulets =
+Circlet of the Hardy Squire;
+Unknowable Torc;
+
+| rings =
+Knight Errant's Seal;
+Sir Malory's Seal;
+
+| wands =
+Gallant Longbow*F3;
+Longbow of Integrity;
+
+| decks =
+Antikythera Deck*F5;
+
+| items =
+Avalon Tense Theme*F2;
+Avalon Wyrd Theme;
+Square Pedestal;
+Tree Fountain;
+
+| cards =
+Cleanse Charm*F5*WMV;
+Disarm*F3;
+Enfeeble (-3);
+Gargantuan*F2;
+Insane Bolt*F2*WMV;
+Rebirth;
+Skeletal Dragon;
+Storm Lord;
+Supercharge*F3*WMV;
+Wild Bolt*F3;
+
+| reagents =
+Black Lotus*F6*WMV;
+Brass;
+Bronze;
+Cat Tail*F3;
+Cobalt*F2;
+Deep Mushroom*F2;
+Frost Flower*F3;
+Lava Lily*F2;
+Mist Wood*F3*WMV;
+Nickel*F2;
+Ore*F3*WMV;
+Parchment*F2;
+Pearl;
+Red Mandrake;
+Shell;
+Stone Block*F4*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Chocolate Strawberry;
+Cracker;
+Glowing Star Fruit;
+Golden Grapes;
+Gummy Humongofrog;
+Roasted Chickpeas;
+Treant Bark;
+
+| jewels =
+Clear Defense Citrine +37;
+Death-Boon Onyx;
+Opaque Critical Amethyst +7;
+Opaque Defense Ruby +34;
+Unbreakable Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2;
+Evil Magma Peas*CR;
+Key Limes*CR;
+Pink Dandelion*CR;
+Pink Huckleberries;
+Red Huckleberries;
+Trumpet Vine;
+White Desparagus;
+White Tiger Lily*F2;
+
+| mounts =
+
+| spells =
+
+}}

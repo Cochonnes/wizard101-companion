@@ -1,0 +1,212 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 725
+| crecla = Boar
+| crecla2 = Pig
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Splithoof Rager;
+Splithoof Rager;
+
+| world = Grizzleheim
+| location = Savarstaad Pass
+| descrip =
+Bloodseeker is a particularly ferocious member of the Splithoof Barbarians.  After Wizards help the blacksmith {{Link|NPC|Einar Thunderhammer}} escape from {{Link|Location|Shattertusk's Hut}}, he needs Wizards' help in returning to the camp and recovering his tools from Bloodseeker.
+
+Two Splithoof Ragers circle around Bloodseeker in his cave.  While lone Wizards will only have to worry about one Splithoof Rager Minion, groups of Wizards will encounter Bloodseeker accompanied by both Splithoof Ragers in combat.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+Some pigs sniff out truffles; he has a more individual specialization.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Storm Shield;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Fire Elf (50+210);
+Storm Shark;
+Ghoul;
+Natural Attack (Death 85x);
+
+| quests =
+Hammer and Tongs;
+
+| gold =
+34 - 66;
+
+| hats =
+Circlet of Fortune;
+Cloud Cover;
+Hat of Stormy Havoc*F11*WMV;
+Headcloth of the Fray;
+Snowthorn Hat*F2*WMV;
+
+| robes =
+Drape of the White Squall*F2*WMV;
+Garments of the Accord*F5*WMV;
+Garments of Zeal;
+Glacial Longcoat*F2*WMV;
+Igneous Robe;
+Jerkin of the Ice Floes*F7*WMV;
+Mystifying Raiment*F2;
+Raiment of the Lifespring*F3*WMV;
+Robe of Elegies*F2*WMV;
+Robe of the Firebloom;
+Runeweave Clothing;
+Tunic of Ataraxia*F3*WMV;
+Vestment of Serenity*F2*WMV;
+Vestment of Yesteryear;
+
+| boots =
+Boots of Precipitation*F2;
+Boots of Reflexive Might*F2*WMV;
+Doomstriders*F3*WMV;
+Footguards of the Disciple*F2;
+Footgear of the Firehaze;
+Indefatigable Striders;
+Marchers of the Inevitable*F7*WMV;
+Slippers of Diligence;
+Striders of Strife;
+
+| athames =
+Bane Steel*F8*WMV;
+Bodkin of Fury;
+Iceshadow's Athame*F2;
+
+| amulets =
+
+| rings =
+Circlet of Fortune;
+Ice Raider's Ring;
+Seal of the Tundra;
+Stone of Confidence;
+Stone of Superstition*F7*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Horn-leg Stool*F2*WMV;
+Mantle Clock*F21*WMV;
+
+| cards =
+Blizzard;
+Cyclops*F2*WMV;
+Dryad;
+Giant;
+Ice Trap;
+Meteor Strike;
+Pacify;
+Storm Shark*F2*WMV;
+Storm Trap;
+Vampire;
+
+| reagents =
+Bone*F4*WMV;
+Copper*F7*WMV;
+Iron*F4*WMV;
+Nickel*F2*WMV;
+Pyrite*F7*WMV;
+
+| spellements =
+
+| snacks =
+Dragon Fruit*F2;
+Flaming Carrot*F2;
+Frosted Cupcake;
+Meat Soup*F6*WMV;
+Moon Pie*F7*WMV;
+MooShu Broccoli*F2*WMV;
+Orange Jalapeno*F4*WMV;
+Spicy Bubblegum*F3*WMV;
+Taffy;
+Tasty Biscuit*F8*WMV;
+Tiny Pretzel*F2*WMV;
+Wild Strawberry*F2;
+
+| jewels =
+Blood Bat Peridot;
+Chipped Mana Opal +9*F3;
+Chipped Mana Opal +11;
+Cracked Accurate Amethyst +2%;
+Cracked Damage Peridot +4;
+Cracked Damage Sapphire +4;
+Cracked Defense Amethyst +9;
+Cracked Defense Amethyst +10;
+Cracked Defense Amethyst +12;
+Cracked Defense Citrine +12;
+Cracked Defense Onyx +4;
+Cracked Defense Onyx +9;
+Cracked Defense Onyx +10*F2*WMV;
+Cracked Defense Onyx +12;
+Cracked Defense Peridot +9;
+Cracked Defense Ruby +9;
+Cracked Defense Ruby +12;
+Cracked Defense Sapphire +12;
+Dark Sprite Onyx;
+Death-Giver Onyx;
+Distract Opal;
+Energy Opal;
+Frost Beetle Sapphire;
+Life-Giver Jade;
+Life-Shot Jade;
+Scarab Citrine*F2*WMV;
+Slow Motion Opal;
+Thunder Snake Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Boom Shroom*F2*WMV;
+Couch Potatoes*CR;
+Desparagus (Seed)*F3*WMV;
+Honey Sickle*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

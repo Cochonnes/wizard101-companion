@@ -1,0 +1,194 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 15,445
+| crecla = Mantis
+| crecla2 = Insect
+| school = Ice
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions = 
+Black Shield
+
+| world = Khrysalis
+| location = Crescent Beach
+| subloc1 = Spinster's Tent
+| descrip =
+
+| speech =
+:''"You are the Spellbinder that caused so much chaos in Fort Rachias. I will weave a tapestry of your tragic tale so that all will remember your doom."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+Uses an enchanted loom to weave her enemies' grim fates into festive tapestries.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Volcanic Shield;
+Legion Shield (-35%);
+Iceblade;
+Ice Trap;
+Balefrost;
+Natural Attack (Ice 158-250-345);
+Blizzard;
+Frostbite (80+549);
+Frost Demon;
+Frost Giant (530);
+Lord of Winter;
+
+| quests =
+He Shone Bright!;
+
+| gold =
+127 - 156;
+
+| hats =
+
+| robes =
+Battle-Worn Burrower Armor;
+Mantis Plate of Frostfall;
+Mantis Robe of Secrecy*F4*WMV;
+
+| boots =
+Burrower Scout's Hoppers*F3*WMV;
+Flame Legs Captain's Boots*F5*WMV;
+Mantis Warrior's Footwraps*F2*WMV;
+
+| athames =
+Blue Razor Hailstone Blade;
+Hisser's Burning Cleaver*F4*WMV;
+
+| amulets =
+Benzzi's Campaign Memento*F3;
+Collar of the Besieged*F2*WMV;
+Mantis Prophet's Ornament*F3*WMV;
+
+| rings =
+
+| wands =
+Dirk of Burrower Harmony*F2*WMV;
+Spear of Cold Truth;
+Stave of Duststorms*F3;
+Umbra Spear of Suppression;
+
+| decks =
+Bumbler's Sleetfall Pack*F4*WMV;
+Case of Engulfing Flames*F2;
+House of the Old Times;
+
+| items =
+Khrysalis Combat Theme 2;
+Khrysalis Desert Shadows Theme*F2*WMV;
+Khrysalis Hive Combat Theme*F2;
+
+| cards =
+Choke;
+Crystal Spider;
+Disarm;
+O'Leary Charlatan (Storm);
+Sun Serpent*F2;
+
+| reagents =
+Astral Shard*F7*WMV;
+Black Lotus*F3*WMV;
+Blood Moss;
+Bone*F2*WMV;
+Bronze Gear*F5*WMV;
+Deep Mushroom*F2;
+Fire Blossom*F3;
+Fossil*F2*WMV;
+Golden Pearl*F2*WMV;
+Lava Lily*F4*WMV;
+Mist Wood*F5*WMV;
+Mithril;
+Nickel;
+Nightshade;
+Ore*F2*WMV;
+Orichalcum;
+Red Mandrake*F5*WMV;
+Silver*F2;
+Stone Block*F3*WMV;
+Sunstone*F2;
+Titanium;
+Turquoise*F4*WMV;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Cauliflowers*F2;
+Dr. Jalapeno*F2*WMV;
+Flaming Soup*F3*WMV;
+Flapjacks;
+Glowing Dragon Fruit;
+Glowing Star Fruit;
+Goat Cheese;
+Golden Grapes*F2;
+Gummy Humongofrog;
+King Banana*F2*WMV;
+Salmonberry;
+Shiny Tomato;
+Submarine Sandwich*F2;
+Uni-Corn*F2*WMV;
+
+| jewels = 
+Chipped PIP Opal +1%;
+Cracked Defense Citrine +12;
+Cracked Defense Opal +4;
+Cracked Defense Ruby +12;
+Fire-Boon Ruby;
+Fortify Talent Opal;
+Polished Critical Jade +11;
+Polished Piercing Amethyst +6%;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+Fish on a Vine;
+Queen Crape Myrtle;
+Saw Palmetto;
+White Laugh-O-Dil
+
+| mounts =
+
+| spells =
+
+}}

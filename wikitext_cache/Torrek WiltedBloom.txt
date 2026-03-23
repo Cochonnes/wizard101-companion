@@ -1,0 +1,161 @@
+{{Stub|which version of the ''{{Link|TreasureCard|Shatter}} Treasure Card'' this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 16,000
+| crecla = Shadow Weaver
+| school = Myth
+| startpips = 7
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Night Feeder;
+
+| world = Khrysalis
+| location = Sardonyx
+| subloc1 = Torrek's House
+| descrip =
+
+| speech =
+:''"How dare you barge in here and interrupt my reading? And look, you've made me lose my place! You'll pay for your rudeness!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Mythblade;
+Myth Trap;
+Time of Legend;
+Keeper of the Flame;
+Natural Attack (Myth 165-265-370, 80%);
+Ninja Pigs;
+Earthquake (425);
+Humongofrog (400-500);
+Medusa (865);
+Basilisk;
+Celestial Calendar;
+
+| quests =
+The Legendary History;
+
+| gold =
+143 - 148;
+
+| hats =
+
+| robes =
+Mantis Robe of Secrecy*F2*WMV;
+
+| boots =
+Burrower Scout's Hoppers*F2*WMV;
+Flame Legs Captain's Boots;
+Mantis Hunter's Footwraps;
+
+| athames =
+Blue Razor Hailstone Blade;
+Hisser's Burning Cleaver*F2*WMV;
+
+| amulets =
+Benzzi's Campaign Memento;
+Collar of the Besieged;
+Mantis Prophet's Ornament;
+
+| rings =
+
+| wands =
+Dirk of Burrower Harmony;
+Halberd of Fulmination;
+Spear of Cold Truth;
+
+| decks =
+Bumbler's Sleetfall Pack;
+Case of Engulfing Flames*F2;
+House of the Old Times;
+
+| items =
+Khrysalis Desert Shadows Theme;
+Khrysalis Hive Combat Theme*F2*WMV;
+
+| cards =
+Avenging Fossil;
+Chastisement;
+Doom and Gloom;
+Galvanic Field;
+Legendary Treant (445);
+Locust Swarm;
+Luminous Weaver;
+Reliquary;
+Shatter;
+Sleet Storm*F2*WMV;
+Spinysaur;
+Sprite Swarm (40+360);
+Storm Owl;
+
+| reagents =
+Astral Shard*F2*WMV;
+Black Lotus*F2*WMV;
+Black Pearl;
+Bone*F2;
+Bronze Gear;
+Deep Mushroom;
+Fire Blossom;
+Fossil;
+Golden Pearl;
+Lava Lily;
+Mist Wood*F2*WMV;
+Ore;
+Red Mandrake*F2*WMV;
+Stone Block*F2;
+Sunstone;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F2;
+Flapjacks;
+Goat Cheese;
+Gummy Humongofrog;
+Salmonberry;
+Shiny Tomato;
+Uni-Corn*F2;
+
+| jewels =
+Chipped PIP Opal +1%;
+Cracked Defense Jade +12;
+Gobbler Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Saw Palmetto;
+
+| mounts =
+
+| spells =
+
+}}

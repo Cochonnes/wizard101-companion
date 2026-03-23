@@ -1,0 +1,107 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 13
+| heal = 10,640
+| crecla = Demon
+| crecla2 = Elephant
+| school = Balance
+| school2 = Fire
+| masteries =
+Death;
+
+| shadowslots = 1
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+15%;
+
+| outboost =
+70%;
+
+| incboost =
+None;
+
+| incresist =
+15% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Jade Oni Rematch
+| subloc1 = Jade Oni Challenge (Tier 2)
+| descrip =
+Plague Oni (Tier 2) is considered a Minion to {{Link|Creature|Jade Oni (Tier 2)}}.  All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Punishment;
+Spirit Blade;
+Scorpion (Tier 3b);
+Loremaster;
+Spectral Blast (Tier 3b);
+Gaze of Fate;
+Hydra (Tier 3a);
+Fire Elf (Tier 3b);
+Phoenix (Tier 3b);
+Fire from Above;
+Dark Sprite (Tier 3b);
+Banshee (Tier 3b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Plague Oni (Rematch)
+}}

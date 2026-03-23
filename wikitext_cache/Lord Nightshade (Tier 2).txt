@@ -1,0 +1,97 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 14
+| heal = 10,640
+| crecla = Undead
+| school = Death
+| cheats = Yes
+| shadowslots = 1
+| startpips = 4
+| powerpips = Yes
+| outpierce =
+15%;
+
+| outboost =
+100%;
+
+| incboost =
+None;
+
+| incresist =
+40% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minion = 
+| minion2 = 
+| world = Housing Instance
+| location = Lord Nightshade Rematch
+| subloc1 = Lord Nightshade Challenge (Tier 2)
+| descrip =
+
+| cheatnotes =
+*''"Tardiness is unacceptable"'' - If a Wizard is late after the second Round, Boss will cast a Moon version of Ship of Fools dealing '''100,000''' Moon Damage.
+**Damage will be limited by the Equalize Global until the Equalize is changed.
+*''"Your doom approaches"'' - At the beginning of the first Round, Boss will cast a Death version Equalize, which sets the Damage cap to 500.
+*''"You wish to hasten your doom?"'' - If a Wizard changes the Global, Boss will cast {{Link|Spell|Tower Shield (Moon)}}.
+**This does not change the Global, and the Deer Knight will deal it's full damage amplified by the Damage Outboost.
+*''"Kneel! For I am the harbinger of your demise!"'' - At the end of every Round, Lord Nightshade will interrupt with a Moon version of '''Deer Knight''' dealing '''100,000''' Moon Damage.
+**Damage will be limited by the Equalize Global until the Equalize is changed.
+*''"Closer"'' - At the beginning of the third Round, Boss will cast a Death version Equalize, which sets the Damage cap to 1,000.
+*''"and closer..."'' - At the beginning of the fifth Round, Boss will cast a Death version Equalize, which sets the Damage cap to 2,000.
+*''"It's almost here"'' - At the beginning of the seventh Round, Boss will cast a Death version Equalize, which sets the Damage cap to 4,000.
+
+| spellnotes =
+
+| casts =
+Adapt;
+Mass Infection;
+Deathblade (+40%);
+Wraith (Tier 3b);
+Winged Sorrow;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Lord Nightshade (Rematch)
+}}

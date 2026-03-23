@@ -1,0 +1,173 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 6,070
+| crecla = Yeti
+| school = Ice
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Frost Bones;
+
+| world = Grizzleheim
+| location = Austrilund
+| subloc1 = Grimaldi's Cave
+| descrip =
+Aurekk the Mighty is the final Boss of the {{Link|Location|Austrilund}} storyline quests.
+
+| speech =
+:''"The Coven sends its regards... Outlander!"''
+
+| spellnotes =
+
+| casts =
+Stun Block;
+Iceblade;
+Ice Trap;
+Ice Prism;
+Thieving Dragon;
+Blizzard;
+Ice Wyvern;
+Blight Hound;
+Frostbite;
+Colossus;
+Tundra Lord;
+Natural Attack (Ice 85x, 80%);
+
+| quests =
+Enemy at the Gate;
+
+| gold =
+50 - 77;
+
+| hats =
+Bitter Cold Bear Hat;
+Blasted Bear Hat*F2;
+Grizzled Helm*F2;
+Horned Helm of the Mighty;
+Horned Helm of the North*F4*WMV;
+
+| robes =
+Coat of Justice*F3*WMV;
+Coat of the Crypt*F4*WMV;
+Jerkin of the Bear's Shadow;
+Jerkin of the Bleak Bear;
+Jerkin of the Iron Bear;
+Jerkin of the Roaring Bear;
+
+| boots =
+Angry Bear Boots;
+Biting Bear Boots;
+Growling Bear Boots*F2*WMV;
+Slashing Bear Boots*F2;
+Snarling Bear Boots*F4*WMV;
+
+| athames =
+Wolf's Garnet Claw*F5*WMV;
+
+| amulets =
+Wyrm's Curse Charm*F3*WMV;
+
+| rings =
+Ring of Brother Wolf*F3*WMV;
+Ring of Claw;
+Ring of Fang;
+Ring of Sister Wolf*F3*WMV;
+Ring of the Hungry Wolf;
+Ring of the Wolf's Howl;
+Ring of the Wolf's Song*F3;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Fortify*F2;
+Frozen Armor*F6*WMV;
+Guiding Light;
+Keen Eyes;
+Legion Shield*F5*WMV;
+Lightning Bats;
+Pixie;
+Strong;
+Sunbird;
+Weakness;
+
+| reagents =
+Bone*F4*WMV;
+Brass*F2;
+Cobalt;
+Fossil;
+Lead;
+Leather Straps*F5*WMV;
+Nickel*F2;
+Stone Block*F3;
+
+| spellements =
+
+| snacks =
+Delicious Cookie;
+Glowing Star Fruit*F2;
+Glowing Taffy;
+Goat Cheese;
+Golden Apple*F2*WMV;
+Golden Grapes;
+Gummy Humongofrog*F3;
+King Banana;
+Spicy Drumstick;
+Submarine Sandwich*F2*WMV;
+
+| jewels =
+Big Rally Opal;
+Blade of Fire Ruby;
+Blade of Life Jade;
+Blazing Oak Ruby;
+Fire Elemental Opal;
+Mass Storm Prism Amethyst;
+Plain Damage Peridot +15;
+Plain Damage Ruby +15*F2*WMV;
+Plain Damage Sapphire +15;
+Wisp Bonus Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Burning Snap Dragon;
+Evil Snow Peas;
+Helephant Ears;
+Rye Bread Fruit Bush*F2;
+Snap Dragon;
+Venus Fly Trap*F2;
+
+| mounts =
+
+| spells =
+
+}}

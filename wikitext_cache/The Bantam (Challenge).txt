@@ -1,0 +1,121 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 14,675
+| crecla = Chicken
+| school = Life
+| shadowslots = 2
+| startpips = 2
+| powerpips = Yes
+| outpierce =
+25%;
+
+| outboost =
+131%;
+
+| incboost =
+5% Death;
+
+| incresist =
+73% Life;
+
+| outhealing =
+79%;
+
+| inchealing =
+79%;
+
+| stunable = No
+| beguilable = No
+| minion = 
+| petname = Angel
+| petbreed = Wildlands Wolf
+| world = Lemuria
+| location = Telos
+| subloc1 = Hall of Heroes (Challenge)
+| descrip =
+The Bantam is a considered a Minion to [[Creature:Stallion Quartermane (Challenge)|Stallion Quartermane]]. All drops are recorded on that page.
+
+'''The First Team'''
+*{{Target|Dagger}} [[Creature:Solomon Crane (Challenge)|Solomon Crane]]
+*{{Target|Key}} [[Creature:Buck Gordon (Challenge)|Buck Gordon]]
+*{{Target|Gem}} [[Creature:The Shadoe (Challenge)|The Shadoe]]
+*{{Target|Spiral}} [[Creature:Dog Tracy (Challenge)|Dog Tracy]]
+
+'''The Second Team'''
+*{{Target|Book}} [[Creature:Mandar the Barbarian (Challenge)|Mandar the Barbarian]]
+*{{Target|Chalice}} [[Creature:Duck Savage (Challenge)|Duck Savage]]
+*{{Target|Wand}} [[Creature:Stallion Quartermane (Challenge)|Stallion Quartermane]]
+*{{Target|Potion}} [[Creature:The Bantam (Challenge)|The Bantam]]
+
+| speech =
+
+| spellnotes =
+*Casts a protected Lifeblade (+40%).
+*The Bantam's Pet Angel casts Empower (Life), giving a Power Pip to all allies.
+'''Natural Attack:'''
+*Deals an unknown quantity of Life Damage.
+
+| casts =
+Legend Shield;
+Guiding Light;
+Entangle;
+Pigsie;
+Regenerate;
+Rebirth;
+Dryad;
+Lifeblade (+40%);
+Life Feint;
+Empower (Life);
+Triage;
+Ratatoskr's Spin;
+Camp Bandit (Tier 3b);
+Lamassu;
+Sacred Charge;
+Wings of Fate;
+Lord of the Jungle (Tier 3a);
+Forest Lord;
+Sacred Charge (840);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = The Bantam (Hall of Heroes)
+}}

@@ -1,0 +1,147 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 22,060
+| crecla = 
+| school = Myth
+| school2 = Moon
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Myth;
+
+| critical =
+429 Any;
+
+| criticalblock =
+760 Any;
+
+| outpierce =
+19%;
+
+| outboost =
+101%;
+
+| incboost =
+30% Death;
+
+| incresist =
+42% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+72% Life;
+
+| outhealing =
+36%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+John Seward;
+
+| world = Darkmoor
+| location = Howling Lands
+| subloc1 = Were-Hollow
+| descrip =
+
+| speech =
+
+| cheatnotes = 
+'''Quincy Morris'''
+*{{Icon|Polymorph}} ''"*Rrrrroooooaaaarrrrr!*"'' - At the beginning of the first round, Quincy Morris will polymorph into werewolf form.
+**This cheat is re-triggered at the beginning of the fifth round after unpolymorphing.
+*{{Icon|Aura}} ''"No buffs can pierce this hide!"'' - After polymorphing into werewolf form, Quincy Morris will cast an aura limiting incoming damage to 1000.
+**After Quincy Morris takes six turns, he will revert back to his human form at the end of the round, and then cast {{Link|Spell|Amplify}} on himself.
+***{{Icon|Trap}} ''"Gah! Snagged! I will recover!"'' Casting a {{Icon|Trap}} on Quincy Morris will decrease the time it takes for him to unpolymorph by a single round.
+****Mass {{Icon|Trap}} spells, such as {{Link|Spell|Mass Feint}} or {{Link|Spell|Windstorm}}, will not trigger this cheat.
+****Spells that put multiple {{Icon|Trap}} on a target, such as {{Link|Spell|Elemental Trap}}, counts as a single trap, and only decreases the time of unpolymorphing by a single round.
+**{{Icon|Harmful Aura}} ''"The wilds make us stronger, we endure."'' Attempting to replace this aura, such as with {{Link|Spell|Starfall}}, will cause him to heal himself to full health, recast his damage cap aura, and then cheat cast {{Link|Spell|Orthrus}}.
+
+'''{{Link|Creature|John Seward}}'''
+*{{Icon|Polymorph}} ''"*Hoooowwwwllllll!*"'' - At the beginning of the first round, {{Link|Creature|John Seward}} will polymorph into werewolf form.
+**''"My power will return..."'' - At the end of the 6th round, {{Link|Creature|John Seward}} will unpolymorph.
+***This line will also play when an aura replacement spell, such as {{Link|Spell|Starfall}}, is used on him when in Werewolf form. It will not unpolymorph him early, however.
+*{{Icon|Damage}} ''"The wilds make us stronger, we endure."'' Using a damage spell on {{Link|Creature|John Seward}}, when in werewolf form, will cause him to heal for 780 health.
+
+| spellnotes =
+Casts a version of Lifeclops that summons a {{Link|Creature|Life Cyclops}} minion when there are two or more wizards present. This fails when there is only one wizard in battle or if a Life Cyclops is already in the battle.
+
+| casts =
+Creation Amplify;
+Spirit Shield;
+Mythblade;
+Lifeblade;
+Creation Blade;
+Splashsquatch (Tier 2c);
+Cyclops;
+Stone Colossus;
+Shift Ogre;
+Shift White Fur;
+Lifeclops;
+Earth Walker;
+
+| quests =
+The Beasts Within;
+
+| gold =
+30 - 69;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Darkmoor Roses*CR;
+Darkmoor Vanity*CR;
+Darkmoor Wagon*CR*F2;
+
+| cards =
+Basilisk;
+Celestial Calendar;
+Chimera;
+Dr. Von's Monster;
+Sun Serpent;
+
+| reagents =
+Astral Shard;
+Iron;
+Merle's Whisker;
+Mithril;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Bone Fish 'N Harmony;
+Butter Worms;
+Fiddleheads;
+Granny Snow Apple;
+Shepherd's Crook Pie;
+Wolfbane Tea;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

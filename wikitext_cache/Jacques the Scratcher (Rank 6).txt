@@ -1,0 +1,292 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,440
+| crecla = Cat
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Deadly Scratcher;
+
+| world = Marleybone
+| location = Knight's Court
+| subloc1 = Knight's Tower
+| descrip =
+*Wizards must battle Jacques the Scratcher twice in Knight's Court: once in the quest ''Wildcat Woes'', and later in ''Doctor of Deception'' (after learning his real name to be Xavier Xandros). This is the second encounter with him.
+*Two additional Deadly Scratchers will join the battle when more than two Wizards are present.
+
+| speech =
+:''"You, again?  Can't believe you found me.  Doesn't matter, you'll soon be my next victim!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Tower Shield;
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Evil Snowman;
+Snow Shark;
+Blizzard;
+Ice Wyvern;
+Sunbird;
+
+| quests =
+Doctor of Deception;
+
+| dropnotes =
+When a Wizard has unlocked the '''Hero of Krokotopia''' {{Icon|Hero of Krokotopia}} Badge and has not unlocked the '''Oni Slayer''' {{Icon|Oni Slayer}} Badge, the following drops will be available:
+*9-14 Spellements and Treasure Card Spellements will drop each time from the '''Elemental''' (Fire, Ice, Storm, Balance) Schools for their respective rank 1-4 Spells.
+
+| gold =
+55 - 92;
+
+| hats =
+Brisk Cap;
+Cap of the Inventor;
+Cap of the Kraken;
+Cap of the Unicorn;
+Cat Burglar's Cap;
+Doctor's Cap;
+Exclusive Cap;
+Feline's Fiery Hat;
+Feline's Somber Hat;
+Jacques' Hat of Winter;
+Jacques' Helm of the Mender*F2*WMV;
+Scratcher's Invigorated Cowl*F2*WMV;
+Visor of Invention*F2;
+Winter Canine Cowl;
+
+| robes =
+Alluring Robes;
+Cloak of Clarity;
+Cloak of Fascination;
+Dexterous Vest;
+Fancy Garments;
+Garment of the Supreme;
+High Quality Cloak;
+Jacques' Restorative Robe*F2;
+Jacques' Robe of Numbness*F3*WMV;
+Jacques' Soothing Robe*F3*WMV;
+Mechanical Tunic;
+Polished Garments*F2*WMV;
+Robe of Excellence;
+Robe of Extinction;
+Robe of Ideals;
+Robe of the Bubble*F2;
+Savvy Vestment*F2;
+Scratcher's Black Mantle*F5*WMV;
+Stylish Garments*F2*WMV;
+Thinker's Robe;
+Vestment of Expertise;
+Vestment of Fright;
+Vestment of Stability;
+Vestment of the Beacon;
+Vestment of the Enigma;
+
+| boots =
+Boots of the Nucleus;
+Distinguished Slippers*F2*WMV;
+Exacting Boots;
+Exclusive Boots;
+Famous Footwraps;
+Footwraps of Anguish;
+Frozen Canine Shoes;
+Grandiose Sandals;
+Jacques' Artificial Sandals*F2*WMV;
+Jacques' Boots of Courtesy*F3;
+Jacques' Intolerant Shoes;
+Noteworthy Slippers;
+Sandals of Delusion;
+Scratcher's Confined Boots*F2*WMV;
+Scratcher's Elegant Shoes*F2;
+Shoes of Sentiments*F2;
+Shoes of the Chimera;
+Shoes of the Devoted;
+Shoes of the Windless;
+Slippers of Gusto*F2*WMV;
+Slippers of the Worrier;
+
+| athames =
+Blade of Frost*F2;
+Informant's Dirk;
+Jacques's Polished Athame;
+Shortblade of Flowers;
+Watchman's Athame;
+
+| amulets =
+Scratcher's Black Amulet*F2*WMV;
+
+| rings =
+Comedian's Ring;
+Jacques's Band of Tragedy*F2*WMV;
+Ring of Effect;
+Scratcher's Ring of Chivalry*F3;
+Thinker's Ring;
+
+| wands =
+Staff of Rejuvenation;
+
+| decks =
+Enigmatic Deck*F2*WMV;
+
+| items =
+Altar with Candles;
+Crossbone Gravestone;
+Jacques' Saw*F2*WMV;
+Large Stone Fountain*F3*WMV;
+Marleybone Theme 2*F4*WMV;
+Medium Magenta Rug;
+Ornate Wall Clock*CR*F4*WMV;
+Professor Balestrom*CR*F2*WMV;
+Short Metal Fence;
+Stack of 4 Books*F2*WMV;
+Stein;
+Tin Can*F2;
+
+| cards =
+Black Mantle;
+Cloak;
+Cyclops;
+Dryad;
+Evil Snowman (Tier 2b)*BR*F4;
+Fire Cat (Tier 2b)*BR*F3;
+Fire Elf (Tier 2b)*BR*F2;
+Frost Beetle (Tier 2b)*BR;
+Giant;
+Heck Hound;
+Ice Wyvern;
+Kraken;
+Lightning Bats (Tier 2b)*BR*F3;
+Locust Swarm (Tier 2b)*BR*F2;
+Monstrous;
+Mutate Beetle (Storm);
+Pacify;
+Sandstorm;
+Satyr;
+Scarab (Tier 2b)*BR*F2;
+Skeletal Pirate;
+Snow Serpent (Tier 2b)*BR;
+Storm Shark (Tier 2b)*BR;
+Storm Trap;
+Sunbird (Tier 2b)*BR;
+Thunder Snake (Tier 2b)*BR*F2;
+Tough;
+Vampire;
+
+| reagents =
+Copper;
+Ectoplasm*F5*WMV;
+Iron*F2;
+Lead*F3;
+Leather Straps;
+Nickel*F3;
+Pyrite*F3;
+Tin;
+
+| spellements =
+Evil Snowman*BR*F2;
+Fire Cat*BR*F2;
+Fire Elf*BR*F2;
+Frost Beetle*BR*F3;
+Gearhead Destroyer*BR;
+Ice Wyvern*BR*F2;
+Immolate*BR*F2;
+Kraken*BR*F2;
+Lightning Bats*BR*F2;
+Locust Swarm*BR*F3;
+Scarab*BR;
+Scorpion*BR;
+Snow Serpent*BR*F2;
+Storm Shark*BR;
+Sunbird*BR*F3;
+Thunder Snake*BR*F3;
+
+| snacks =
+Caramel Popcorn*F3*WMV;
+Gummy Bloodbat*F2;
+Medium Fish*F2;
+Redskin Peanut*F3*WMV;
+Square Watermelon;
+Stinky Cheese*F4*WMV;
+Wheat Cracker*F2;
+
+| jewels =
+Blizzard Sapphire;
+Bomber Opal;
+Chipped Damage Peridot +7;
+Chipped Defense Amethyst +14;
+Chipped Defense Citrine +14;
+Chipped Defense Jade +14;
+Chipped Defense Onyx +14;
+Chipped Defense Ruby +14;
+Chipped Health Opal +22*F2;
+Cracked Damage Opal +3;
+Chipped Mana Opal +9;
+Death-Proof Onyx;
+Deer Knight Onyx*F2;
+Eager Opal;
+Fire-Away Ruby;
+Flawed Damage Amethyst +10;
+Flawed Damage Opal +5;
+Flawed Damage Peridot +10;
+Flawed Damage Ruby +10;
+Flawed Damage Sapphire +10;
+Flawed Defense Amethyst +17;
+Flawed Defense Onyx +17;
+Flawed Defense Opal +9;
+Flawed Defense Peridot +17;
+Flawed Defense Sapphire +17;
+Flawed Healing Opal +2%;
+Flawed Mending Opal +2%;
+Healer Opal;
+Huge Energy Opal;
+Ice-Away Sapphire;
+Mute Opal;
+Myth-Boon Peridot;
+Perplex Opal;
+Recovery Opal;
+Slowpoke Opal;
+Spectral Blast Citrine;
+Storm-Boon Amethyst;
+Storm-Giver Amethyst;
+Sturdy Opal;
+Time of Legend Peridot;
+Windstorm Amethyst;
+Wyldfire Ruby;
+
+| pins =
+
+| pets =
+Frog*F2;
+Grumpy Snowman*F5*WMV;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,477 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 9,520
+| crecla = Chicken
+| school = Myth
+| school2 = Balance
+| cheats = Yes
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+24%;
+
+| outboost =
+110%;
+
+| incboost =
+5% Storm, Life, Death;
+
+| incresist =
+65% Myth;
+70% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Cabal Soldier (Balance);
+
+| world = Karamelle
+| location = Sweetzburg
+| subloc1 = Les Bon-Bon Mots
+| lootchest = Quake Charmer's Chest
+| descrip =
+
+| speech =
+:''"Why'd you do it, Wizard? Why'd you snooker us like that? Is it 'cause all those times the Cabal betrayed you? If'n so, that's petty. You're petty. The Old One woulda ushered in a Golden Age of not trying to peck each other's eyes out. But you went and rejected him... So, fine, partner, have it your way. Let's get back to basics."''
+
+|cheatnotes =
+*{{Icon|Late}} ''"Better quake than never!"'' - The Quake Charmer will cast his Shadow Natural Attack on a Wizard who joins the battle after the first Round.
+**This cheat is followed up by the ''"Boom Chick-a-Boom"'' cheat.
+*{{Icon|Round}} ''"Let's shake things up!"'' - At the end of the first Round and once again at the end of the fifth Round, The Quake Charmer will cast an Earthquake.
+*{{Icon|Round}} ''"Makin' with the quakin'"'' - At the end of the third Round and every three Rounds after that, The Quake Charmer will cast a Balance Spell that deals '''1,000''' Balance Damage after three rounds. No damage is taken during the first two rounds and activates on the third round.
+*{{Icon|Damage}} ''"What's shakin'?"'' - Casts an Earthquake dealing '''145''' Myth Damage removing one positive Charm and one positive Ward.
+*{{Icon|Damage}} ''"BOOM-CHICKA-BOOM!"'' - The Quake Charmer will say this after casting his Natural Attacks, but only his Shadow Natural Attack will trigger an Immolate spell that removes one positive Charm and one positive Ward.
+
+| spellnotes =
+*Casts a +30% version of Mass Hex.
+
+| casts =
+Brace;
+Magnify;
+Vengeance;
+Balanceblade;
+Bladestorm;
+Hex;
+Cleanse Ward;
+Pierce;
+Mana Burn;
+Athena Battle Sight;
+Natural Attack (Myth 115-230-345-460);
+Mystic Colossus;
+Minotaur;
+Earthquake;
+Orthrus;
+Medusa;
+Basilisk;
+Sandstorm;
+Sand Wurm;
+Natural Attack (Balance 105-210-315-420);
+Hydra;
+Nested Fury;
+Chimera;
+Natural Attack (Shadow 105-210-315-420);
+
+| quests =
+Quaky-Quaky;
+Sweet Words;
+
+| gold =
+316 - 646;
+
+| hats =
+Contractor Hazmat Hood;
+Contractor Thermal Hood;
+Director Survival Hood;
+Executive Pressure Hood;
+Producer's Biohazard Hood;
+Specialist Insulated Hood;
+
+| robes =
+Consultant Insulated Suit;
+Contractor Hazmat Suit;
+Executive Biohazard Suit;
+Specialist Thermal Suit;
+
+| boots =
+Contractor Biohazard Boots;
+Contractor Cryo Boots;
+Director Thermal Boots;
+Producer's Pressure Boots;
+Producer's Thermal Boots;
+Specialist Thermal Boots;
+
+| athames =
+Contractor Hazmat Knife;
+Executive Cryo Knife;
+Executive Insulated Knife;
+
+| amulets =
+Consultant Biohazard Rope;
+Director Biohazard Rope;
+Director Cryo Rope;
+Director Hazmat Rope;
+Director Insulated Rope;
+Director Pressure Rope;
+Director Protective Rope;
+Executive Cryo Rope;
+Executive Hazmat Rope;
+Executive Insulated Rope;
+Executive Pressure Rope;
+Executive Protective Rope;
+Executive Survival Rope*F2;
+Executive Thermal Rope;
+Guten Artisan Rope;
+Guten Candymancer Rope;
+Guten Dreamsearcher Rope*F3*WMV;
+Guten Freshbaker Rope*F2;
+Guten Sciencer Rope;
+Guten Sentamentalist Rope;
+Guten Sweetsmith Rope*F2;
+Guten Wonderneer Rope;
+Producer's Biohazard Rope;
+Producer's Cryo Rope;
+Producer's Hazmat Rope;
+Producer's Insulated Rope;
+Producer's Pressure Rope;
+Producer's Protective Rope;
+Producer's Thermal Rope;
+Specialist Survival Rope;
+Uber Artisan Rope*F3*WMV;
+Uber Candymancer Rope*F2;
+Uber Dreamsearcher Rope;
+Uber Freshbaker Rope;
+Uber Sciencer Rope;
+Uber Sentamentalist Rope*F2;
+Uber Sweetsmith Rope*F4*WMV;
+Uber Wonderneer Rope*F3;
+Wunderbar Artisan Rope;
+Wunderbar Candymancer Rope;
+Wunderbar Dreamsearcher Rope*F2;
+Wunderbar Freshbaker Rope;
+Wunderbar Sciencer Rope;
+Wunderbar Sentamentalist Rope*F3;
+Wunderbar Sweetsmith Rope;
+Wunderbar Wonderneer Rope*F3;
+
+| rings =
+Consultant Protective Ring;
+Executive Cryo Ring;
+Executive Pressure Ring;
+Producer's Pressure Ring;
+Producer's Protective Ring;
+Producer's Thermal Ring;
+
+| wands =
+Consultant Insulated Meter;
+Contractor Protective Meter;
+Director Survival Meter;
+Executive Cryo Meter;
+Executive Pressure Meter;
+Executive Survival Meter;
+Specialist Cryo Meter;
+Specialist Survival Meter;
+
+| decks =
+Consultant Hazmat Box;
+Contractor Biohazard Box;
+Contractor Protective Box;
+Contractor Thermal Box;
+Director Cryo Box;
+Director Hazmat Box;
+Director Insulated Box;
+Director Pressure Box;
+Director Protective Box;
+Director Survival Box;
+Director Thermal Box;
+Executive Biohazard Box;
+Executive Cryo Box;
+Executive Insulated Box;
+Executive Pressure Box;
+Executive Protective Box;
+Executive Survival Box;
+Guten Artisan Box*F2;
+Guten Candymancer Box;
+Guten Dreamsearcher Box;
+Guten Freshbaker Box;
+Guten Sciencer Box*F3*WMV;
+Guten Sentamentalist Box;
+Guten Sweetsmith Box;
+Guten Wonderneer Box*F2*WMV;
+Producer's Biohazard Box;
+Producer's Hazmat Box;
+Producer's Insulated Box;
+Producer's Pressure Box;
+Producer's Survival Box;
+Specialist Hazmat Box;
+Specialist Survival Box;
+Uber Artisan Box*F2;
+Uber Candymancer Box;
+Uber Dreamsearcher Box;
+Uber Freshbaker Box;
+Uber Sciencer Box;
+Uber Sentamentalist Box;
+Uber Sweetsmith Box;
+Uber Wonderneer Box;
+Wunderbar Artisan Box;
+Wunderbar Candymancer Box;
+Wunderbar Dreamsearcher Box;
+Wunderbar Freshbaker Box;
+Wunderbar Sciencer Box;
+Wunderbar Sentamentalist Box*F2*WMV;
+Wunderbar Sweetsmith Box;
+Wunderbar Wonderneer Box;
+
+| items =
+Gumdrop Forest Poster;
+Karamelle Barrel*F2*WMV;
+Karamelle Cavity Combat Theme;
+Karamelle City Combat Theme;
+Karamelle City Theme;
+Karamelle Crate;
+Karamelle Forest Combat Theme;
+Karamelle Forest Theme;
+Karamelle Jingle Theme;
+Karamelle Neglected Com Theme;
+Karamelle Rural Combat Theme*F2;
+Karamelle Rural Theme;
+Karamelle Worker Combat Theme;
+Karamelle Worker Theme;
+Licorice Tree;
+Oil Drum;
+Rock Candy Mountains Poster;
+Trash Pile (Outdoor);
+Von Trap Estate Poster;
+
+| cards =
+Baby Sunbird;
+Berserk;
+Brilliant Light*F2;
+Combustion;
+Darkwind*F2;
+Dream Shield;
+Elemental Defuse;
+Elemental Shield;
+Elemental Spear;
+Ether Shield;
+Flood;
+Flute Symphony;
+Frostbite;
+Galvanic Field;
+Link;
+Mass Ice Prism;
+Mass Life Prism;
+Mass Triage*F2*WMV;
+Mass Storm Prism*F2;
+Pest Zapper;
+Putrid Bug Spray;
+Sirens*F2;
+Storm Shield;
+Supreme Sunburst;
+Uncanny Magic;
+Zounds...Bees!;
+
+| reagents =
+Aether*F2*WMV; 
+Agave Leaves;
+Agave Nectar;
+Amber*F2;
+Amber Dust*F2;
+Aquamarine;
+Braided Vine*F2;
+Brass;
+Bronze Gear*F3*WMV;
+Cobalt*F5*WMV;
+Draconium;
+Ectoplasm*F6*WMV;
+Fire Blossom;
+Golden Pearl;
+Karamelle Chunk*F2;
+Merle's Whisker;
+Mithril*F2;
+Nickel*F4*WMV;
+Orichalcum;
+Scales*F5*WMV;
+Silver*F2;
+Spider Silk;
+Stardust;
+Steel*F3;
+Sunstone*F2;
+Tin*F4*WMV;
+Titanium;
+Toffee Bean*F4*WMV;
+Tungsten*F3*WMV;
+Turmeric;
+Turquoise*F2;
+Vine*F2;
+
+| spellements =
+Grrnadier*F4*WMV;
+S'more Machine;
+Snack Attack*F2*WMV;
+Sound of Musicology;
+Tatzlewurm Terror;
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate;
+BBQ Drumstick;
+Beast Wellington;
+Crackle Jacks Cereal;
+Decimatoes*F2;
+Discord Grape Jelly*F4*WMV;
+Dragon Fruit;
+Eye Candy;
+Fern Jelly;
+Glowing Star Fruit*F2*WMV;
+Glowing Taffy*F3;
+Hot Cross Buns*F2*WMV;
+Krakamari;
+Pizza*F3*WMV;
+Rock and Roll Candy*F2;
+Roly Poly Fishheads*F2;
+Satyr Chow*F2;
+Ships 'n' Queso;
+Sprinkle Cupcake;
+Squash;
+Tasty Rainbow;
+Veggie Juice;
+Waterworks Wonton*F2;
+Wheat Cracker;
+
+| jewels =
+Adapt Opal;
+Dazzling Critical Ruby +20;
+Epic Opal;
+Renew Opal;
+Shiny Accurate Sapphire +12%;
+Shiny Blocking Citrine +15;
+Shiny Blocking Citrine +16;
+Shiny Blocking Jade +15;
+Shiny Blocking Jade +16;
+Shiny Blocking Onyx +15;
+Shiny Blocking Opal +8;
+Shiny Critical Amethyst +15;
+Shiny Critical Hematite +16;
+Shiny Damage Ruby +25;
+Shiny Defense Citrine +49;
+Shiny Defense Hematite +49;
+Shiny Defense Hematite +51;
+Shiny Defense Hematite +52;
+Shiny Defense Jade +50;
+Shiny Defense Jade +51;
+Shiny Defense Onyx +51;
+Shiny Defense Peridot +52;
+Shiny Defense Ruby +50;
+Shiny Health Opal +106;
+Shiny Health Opal +111*F2;
+Shiny Health Opal +113*F2;
+Shiny Health Opal +114;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47;
+Shiny Mending Opal +6%;
+Shiny Healing Opal +6%;
+Sparkling Accurate Amethyst +13%;
+Sparkling Accurate Jade +13%;
+Sparkling Accurate Onyx +13%;
+Sparkling Accurate Peridot +13%;
+Sparkling Accurate Ruby +13%;
+Sparkling Accurate Sapphire +13%;
+Sparkling Blocking Amethyst +17;
+Sparkling Blocking Citrine +17;
+Sparkling Blocking Peridot +17;
+Sparkling Blocking Ruby +17;
+Sparkling Critical Citrine +17;
+Sparkling Critical Jade +17;
+Sparkling Critical Ruby +17;
+Sparkling Critical Sapphire +17;
+Sparkling Damage Amethyst +27;
+Sparkling Damage Onyx +27;
+Sparkling Damage Peridot +27;
+Sparkling Damage Ruby +27;
+Sparkling Defense Amethyst +54;
+Sparkling Defense Citrine +53;
+Sparkling Defense Citrine +54;
+Sparkling Defense Hematite +53;
+Sparkling Defense Hematite +54;
+Sparkling Defense Sapphire +53;
+Sparkling Defense Jade +53;
+Sparkling Defense Onyx +54;
+Sparkling Defense Opal +27;
+Sparkling Defense Peridot +54;
+Sparkling Defense Ruby +54;
+Sparkling Defense Sapphire +53;
+Sparkling Health Opal +116;
+Sparkling Health Opal +117;
+Sparkling Health Opal +118;
+Sparkling Health Opal +119*F2;
+Sparkling Mana Opal +49*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears*F4*WMV;
+Baby Carrots*F3;
+Bamboo Shoots;
+Bell Pepper*F2;
+Blue Huckleberries*F3*WMV;
+Boiled Peanuts*F2*WMV;
+Boon Tree*CR;
+Bread Fruit Bush*F3*WMV;
+Cornbread Fruit Bush*F3*WMV;
+Dandelion;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Fickle Pickle;
+Fiery Boom Shroom*F2;
+Fish on a Vine;
+Goose Tree*F2*WMV;
+Grapes of Wrath*CR*F2*WMV;
+Green Snow Apples;
+Helephant Ears;
+Honey Sickle;
+Ivy League*CR*F4*WMV;
+Key Limes*CR*F3;
+King Parsley*CR;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily;
+Missile Toe;
+Pink Huckleberries*F4*WMV;
+Purple Bell Pepper;  
+Purple Grapes of Wrath;
+Red Bell Pepper;
+Red Huckleberries;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Sugar Khrystal*CR;
+Tiger Lily (Seed);
+Ultra Dandelion;
+Ultra Fly Trap;
+Ultra Helephant Ears*F2;
+Ultra King Parsley;
+Ultra Ninja Fig;
+Ultra Snap Dragon;
+Ultra Snow Apples;
+Ultra Tiger Lily;
+Venus Fly Trap;
+White Laugh-O-Dil;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,150 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 3,000,000
+| crecla = Undead
+| school = Moon
+| masteries =
+Fire;
+Ice;
+Myth;
+Death;
+
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+19%;
+
+| outboost =
+102%;
+
+| incboost =
+30% Fire;
+
+| incresist =
+43% Storm, Myth, Life, Death, Balance, Shadow;
+73% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Halls of Taweret
+| subloc1 = The Great One
+| badge = Greatest One
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"Ah, at last we meet again. Don't you remember me? After all this time, I thought I'd at least made an impression. I was summoned by Malistaire in Cyclops Lane. I rallied Myth Monsters and Cyclopses against you, but ultimately chose to let you live. One student, I thought, how far could they go? Imagine my surprise to see you now. But I think you're ready, truly, to fight me at last. Face me, Wizard, surrender your soul to the Great One!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+A former prince cursed to be a vampire bunny; and, like all rich kids intruding in places they don't belong, VERY popular.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+*Casts an all enemies version of Hex.
+
+| casts =
+Flawless;
+Tower Shield (-55%);
+Virulent Plague;
+Moon Blade;
+Dark Tribute;
+Balanceblade (+30%);
+Balanceblade (+35%);
+Dragonblade;
+Bladestorm (+25%);
+Mass Feint (+75%);
+Hex;
+Blinding Light;
+Power Current;
+Dark Surge;
+Blizzard (Tier 5a);
+Tundra Lord;
+Colossafrog;
+Bonetree Lord;
+Humongofrog (Tier 5a);
+Fable Lord;
+Sun Serpent (Tier 5b);
+
+| quests =
+
+| gold =
+2 - 29;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Selenopolis Forgotten Combat Theme;
+Selenopolis Theme;
+Selenopolis Zigazag Market Com Theme;
+
+| cards =
+Dr. Von's Monster;
+
+| reagents =
+Astral Shard;
+Merle's Whisker;
+Orichalcum;
+Platinum*F2;
+Titanium;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Dr. Jalapeno;
+Kroklava;
+
+| jewels =
+
+| pins =
+
+| pets =
+Hippo*F2;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

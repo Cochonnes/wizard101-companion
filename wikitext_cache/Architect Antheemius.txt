@@ -1,0 +1,214 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 9,520
+| crecla = Snake
+| school = Fire
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+2%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Ice;
+
+| incresist =
+30% Fire;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Street Viper
+
+| world = Mirage
+| location = Istanboa
+| subloc1 = Architect's Studio
+| descrip =
+
+| spellnotes =
+
+| casts =
+Eruption;
+Furnace;
+Glacial Shield (-75%);
+Backdraft (+20%);
+Choke;
+Fire Beetle;
+Natural Attack (Fire 120-240-360, 70%);
+Meteor Strike (355-395);
+Scald (567);
+Fire Dragon (495+395);
+Rain of Fire;
+
+| quests =
+Atrocious Architect;
+
+| gold =
+549 - 981;
+
+| hats =
+Sand Sea Cowl of Mischief;
+Zruvan Helmet of Demise;
+Zruvan Helmet of Mettle;
+
+| robes =
+Zruvan Raiment of Fury*F2*WMV;
+
+| boots =
+Vizier's Shoes of Sagacity;
+
+| athames =
+Sand Sea Dagger of Bolts;
+Sand Sea Dagger of Emptiness;
+
+| amulets =
+Sand Sea Amulet of Ardor;
+
+| rings =
+Sand Sea Ring of Ardor;
+Sand Sea Ring of Bolts;
+
+| wands =
+Durvish Armaments of Ire;
+Durvish Armaments of Unrest;
+Kobra Sceptor of Fury;
+Rubal Bow of Illusions;
+
+| decks =
+Sand Sea Deck of Blusters;
+
+| items =
+
+| cards =
+Age of Reckoning;
+Arcticzilla;
+Crystal Spider;
+Elemental Spear;
+Frostfang*F2;
+Icebird;
+Mutate Colossus (Fire);
+Mythspear;
+Namaste;
+Raging Bull;
+Rusalka's Wrath;
+Saga of Heroes;
+Shift*F2*WMV;
+Stone Colossus;
+Yellow Troll;
+
+| reagents =
+Aether*F5*WMV;
+Agave Leaves*F4*WMV;
+Amber Dust;
+Aquamarine*F7*WMV;
+Astral Shard*F4*WMV;
+Draconium;
+Fire Blossom*F3*WMV;
+Fish Fin*F3*WMV;
+Golden Pearl*F5*WMV;
+Merle's Whisker;
+Mithril*F5*WMV;
+Scales*F6*WMV;
+Stardust*F2;
+Steel*F7*WMV;
+Sunstone*F5*WMV;
+Titanium*F2;
+Tungsten*F8*WMV;
+Turquoise;
+Vine*F3*WMV;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Beast Wellington*F3*WMV;
+Beetle Cream Soda*F6*WMV;
+Chalupacabra*F3*WMV;
+Eye Candy*F4*WMV;
+Hard Boiled Beetle Eggs*F5*WMV;
+High Road Haggis*F2*WMV;
+Hot Cross Buns*F5*WMV;
+Mustachios;
+Rhubarbed Wire*F2*WMV;
+Satyr Chow*F2*WMV;
+Ships 'n' Queso*F7*WMV;
+Veggie Juice*F2*WMV;
+
+| jewels =
+Epic Opal;
+Lustrous Accurate Peridot +11%;
+Polished Accurate Onyx +10%;
+Polished Blocking Onyx +11;
+Polished Damage Sapphire +21;
+Polished Defense Amethyst +42;
+Polished Defense Citrine +41;
+Polished Defense Citrine +42*F2;
+Polished Defense Jade +41;
+Polished Defense Jade +42;
+Polished Defense Peridot +42;
+Polished Health Opal +87*F2;
+Polished Health Opal +88;
+Polished Health Opal +90;
+Polished Health Opal +91;
+Polished Health Opal +95;
+Polished Mana Opal +37*F4*WMV;
+Shiny Blocking Peridot +16*F2*WMV;
+Shiny Blocking Onyx +16;
+Shiny Critical Peridot +16;
+Shiny Critical Sapphire +16;
+Shiny Damage Jade +26;
+Shiny Damage Ruby +26;
+Shiny Defense Citrine +52;
+Shiny Defense Onyx +50;
+Shiny Health Opal +111;
+Shiny Health Opal +113;
+Shiny Mana Opal +45;
+Shiny Mana Opal +46;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Baby Carrots;
+Blue Huckleberries*F2;
+Boiled Peanuts*F3*WMV;
+Bread Fruit Bush*F2*WMV;
+Clockwork Flower;
+Cornbread Fruit Bush*F2*WMV;
+Couch Potatoes*CR;
+Deadly Fly Trap;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Fish on a Vine;
+Fortune Cookie Tree*F2*WMV;
+Frozen Fly Trap;
+Golden Couch Potatoes;
+Grapes of Wrath*CR;
+Honey Bee Plant;
+Ivy League*CR;
+Key Limes*CR;
+Maltese Tiger Lily;
+Moon Flower;
+Ninja Fig*CR;
+Orange Dandelion;
+Pink Huckleberries*F4*WMV;
+Red Couch Potatoes;
+Silver Trumpet Vine*CR;
+Snap Dragon;
+Sugar Khrystal*CR;
+Sunion*CR;
+
+| mounts =
+
+| spells =
+
+}}

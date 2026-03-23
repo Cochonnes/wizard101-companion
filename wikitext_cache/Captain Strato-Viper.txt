@@ -1,0 +1,248 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 11,760
+| crecla = Viper
+| crecla2 = Snake
+| school = Death
+| shadowslots = 
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+4%;
+
+| outboost =
+65%;
+
+| incboost =
+15% Life;
+
+| incresist =
+30% Death;
+
+| inchealing =
+
+| outhealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Viper Soldier
+
+| world = Mirage
+| location = Istanboa
+| subloc1 = Gatehouse
+| descrip =
+
+| speech =
+:''"What's this? Makes no sense! How did you sneak into Captain Strato-Viper's Gatehouse?"''
+
+| spellnotes =
+
+| casts =
+Brace;
+Deathblade;
+Dark Pact (+30%);
+Sacrifice;
+Feint (+75%);
+Ghoul (180);
+Natural Attack (Death 110-220-330, 80%);
+Vampire (375);
+Wraith (575);
+Dr. Von's Monster (900);
+
+| quests =
+Into Istanboa;
+
+| gold =
+594 - 773;
+
+| hats =
+Sand Sea Cowl of Ashes;
+Sand Sea Cowl of Hardiness;
+Vizier's Mantle of Smolders;
+Vizier's Windswept Mantle;
+
+| robes =
+Sand Sea Outfit of Ashes;
+Vizier's Desert Snow Raiment;
+Zruvan Flashflood Raiment;
+
+| boots =
+Sand Sea Striders of Ashes;
+Zruvan Galesh of Mettle;
+
+| athames =
+Sand Sea Dagger of Ardor;
+
+| amulets =
+Kobra Choker of Demise;
+Kobra Choker of Rigor;
+Sand Sea Amulet of Ardor;
+Sand Sea Amulet of Blight;
+
+| rings =
+Kobra Ringlet of Amity;
+Kobra Ringlet of Flashfloods;
+Sand Sea Ring of Accord; 
+
+| wands =
+Durvish Armaments of Ire;
+Kobra Sceptor of Flooding;
+Rubal Bow of Justice;
+
+| decks =
+Sand Sea Hand of Decorum;
+
+| items =
+Mirage Canyon Theme 1;
+Mirage Caravan Theme;
+Mirage City Theme 2;
+Mirage Jungle Combat Theme;
+Mirage Magic Carpet Theme;
+Mirage Nomad Theme;
+Mirage Palace Theme;
+Mirage Serpent Theme;
+Mirage Spider Speaks Theme*F2;
+
+| cards =
+Age of Reckoning*F2*WMV;
+Arcticzilla;
+Astraphobia;
+Death Troll;
+Icespear*F2*WMV;
+Katabatic Wind;
+Magma Colossus;
+Namaste;
+Raging Bull;
+Saga of Heroes;
+Shift;
+Snowball Barrage;
+Wings of Fate;
+Witch's House Call;
+Yellow Troll;
+
+| reagents =
+Aether*F4*WMV;
+Agave Leaves*F3*WMV;
+Agave Nectar*F2*WMV;
+Amber;
+Amber Dust*F6*WMV;
+Aquamarine*F7*WMV;
+Astral Shard;
+Braided Vine;
+Draconium;
+Fire Blossom*F2*WMV;
+Fish Fin*F3*WMV;
+Glass Sliver*F2;
+Golden Pearl*F4*WMV;
+Merle's Whisker;
+Mithril*F8*WMV;
+Orichalcum;
+Scales*F7*WMV;
+Silver*F7*WMV;
+Stardust;
+Steel*F7*WMV;
+Sunstone*F4*WMV;
+Titanium;
+Tungsten*F7*WMV;
+Turquoise*F2;
+Vine*F3*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F3*WMV;
+Beetle Cream Soda*F3*WMV;
+Chalupacabra*F3*WMV;
+Eye Candy*F7*WMV;
+Frosty Sugar Cubes;
+Hard Boiled Beetle Eggs*F4*WMV;
+High Road Haggis;
+Hot Cross Buns*F2;
+Mustachios*F3*WMV;
+Rhubarbed Wire;
+Satyr Chow;
+Ships 'n' Queso*F4*WMV;
+Veggie Juice;
+
+| jewels =
+Chastisement Opal;
+Lustrous Blocking Peridot +13;
+Lustrous Damage Citrine +23;
+Lustrous Defense Onyx +45;
+Lustrous Defense Ruby +45;
+Lustrous Defense Sapphire +45;
+Polished Accurate Ruby +10%;
+Polished Blocking Amethyst +11;
+Polished Blocking Jade +11*F2;
+Polished Damage Amethyst +21;
+Polished Damage Citrine +21;
+Polished Defense Citrine +41*F2;
+Polished Defense Peridot +41;
+Polished Health Opal +88;
+Polished Health Opal +90;
+Polished Mana Opal +37;
+Polished Mana Opal +38;
+Polished Mana Opal +39;
+Polished Mana Opal +40;
+Radical Opal;
+Shiny Blocking Jade +16;
+Shiny Blocking Onyx +16;
+Shiny Damage Hematite +52;
+Shiny Damage Peridot +26;
+Shiny Defense Onyx +52;
+Shiny Defense Sapphire +52;
+
+| pins =
+
+| pets =
+MaCaw*CR*F4*WMV;
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears*F6*WMV;
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper*F2*WMV;
+Boiled Peanuts;
+Blue Huckleberries*F2;
+Bread Fruit Bush;
+Cornbread Fruit Bush*F5*WMV;
+Couch Potatoes*CR*F2;
+Deadly Fly Trap;
+Deadly Ninja Fig;
+Desparagus (Seed)*F2;
+Evil Magma Peas*CR;
+Fish on a Vine;
+Golden Couch Potatoes*F4*WMV;
+Grapes of Wrath*CR*F2;
+Green Snow Apples;
+Ivy League*CR*F4*WMV;
+Laugh-O-Dil;
+Orange Dandelion;
+Prickly Bear Cactus;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Red Couch Potatoes;
+Red Grapes of Wrath;
+Red Huckleberries;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Silver Trumpet Vine*CR;
+Snow Apples*F2*WMV;
+Sugar Khrystal*CR*F2;
+Sword Fern*CR;
+Venus Fly Trap;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

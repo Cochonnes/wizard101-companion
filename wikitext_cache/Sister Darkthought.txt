@@ -1,0 +1,105 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 10,945
+| crecla = Scholomari
+| school = Storm
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Scholomari Student (Death);
+Scholomari Student (Death);
+
+| world = Darkmoor
+| location = Black Lagoon
+| subloc1 = Bog of Swords
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Damage}} ''"Suffering is instructive!"'' - Says this while casting {{Link|Spell|Chain Lightning}}.
+
+| spellnotes =
+*Casts a version of Storm Owl that attacks all enemies for 1400 damage.
+
+| casts =
+Empowerment;
+Storm Shield;
+Stormblade (+30%);
+Dark Tribute;
+Mass Storm Trap;
+Storm Fuel;
+Empower;
+Stormwing;
+Tempest (6 Pip);
+Chain Lightning;
+Storm Owl;
+
+| quests =
+Dreadtime Story;
+
+| gold =
+28;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Sun Serpent;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Chocolate Crickets;
+Granny Snow Apple;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,274 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,520
+| crecla = Shark
+| school = Life
+| startpips = 4
+| powerpips = Yes
+| critical =
+25 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Death;
+
+| incresist = 
+35% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Piscean Centurion;
+
+| world = Celestia
+| location = Crustacean Empire
+| subloc1 = The Barbican
+| lootchest = Praetor Mako's Chest
+| descrip =
+Praetor Mako is the leader of the Pisceans in the Crustacean Empire. Wizards must defeat him during the Quest, "Let's Mako Deal", to obtain the final piece of the  [[Location:The Chancel|Solarium]] Portal Stone.
+*Two additional Piscean Centurions will appear if more than two Wizards are present.
+
+| speech =
+:''"The scent of wizardry is on the current... soon there will be blood in the water!"''
+
+| spellnotes =
+
+| casts =
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Lifeclops;
+Nature's Wrath;
+Life Banshee (250);
+Seraph;
+Centaur;
+Forest Lord;
+Natural Attack (Life 85x);
+
+| quests = 
+Let's Mako Deal;
+
+| dropnotes = 
+When a Wizard has unlocked the '''[[Basic:Dragonspyre Badges|Savior of the Spiral]]''' {{Icon|Savior of the Spiral}} Badge and has not unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge, the following drops will be available:
+*4 Spellements will drop each time for their respective rank 3-7 Spells.
+
+| gold =
+71 - 103;
+
+| hats =
+Forgotten Facade;
+Forsaken Headgear*F2;
+Helm of Burning Ambition*F2;
+Insightful Topper;
+Nereus's Hoarfrost Helm;
+Rising Tide Topper;
+Shroud of Snowfall;
+Storyteller's Cap;
+Synthesis Cover;
+Thundercloud Coif;
+Vital Headdress*F2*WMV;
+
+| robes =
+Devoted Vestment;
+Mako's Wanderlust Raiment*F3;
+Reckless Raiment;
+Salgio's Tinder Cloak;
+Storyteller's Tunic;
+Tragic Tunic*F2;
+Turbulent Tunic;
+Vile Outfit;
+Whimsical Surcoat;
+
+| boots =
+Boots of Accord*F4*WMV;
+Boots of Catastrophe;
+Boots of Celestian Totality*F2;
+Celestian Abyss Boots;
+Celestian Cinder Shoes;
+Celestian Frostbit Footgear;
+Celestian Tempest Trekkers;
+Everlasting Celestian Boots;
+Ice Rangers;
+Icestar Stalkers;
+Mako's Timeless Trekkers*F3;
+Polar Boots;
+Rime Runners;
+Storied Celestian Sabatons;
+Tolerant Boots;
+Versatile Celestian Boots;
+Virtue Shoes;
+
+| athames =
+Atavistic Balance Dirk;
+Atavistic Death Dirk;
+Atavistic Fire Dirk;
+Atavistic Ice Dirk;
+Atavistic Life Dirk;
+Atavistic Myth Dirk;
+Atavistic Storm Dirk;
+Bygone Balance Dirk;
+Bygone Death Dirk;
+Bygone Fire Dirk;
+Bygone Ice Dirk;
+Bygone Life Dirk;
+Bygone Myth Dirk;
+Bygone Storm Dirk;
+Dagger of Typhoons;
+Dirk of Delusion;
+Hexfin's Frostbit Bodkin*F2*WMV;
+Kris of the Piscean Guard;
+Versatile Steel*F2*WMV;
+
+| amulets =
+Legendary Vial*F3*WMV;
+
+| rings =
+Combustible Band;
+Hexfin's Flurry Band*F3*WMV;
+Majestic Signet*F2*WMV;
+Ring of Rapport;
+Ring of Rare Origins*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Large Willow Tree*F4*WMV;
+
+| cards =
+Accurate;
+Darkwind;
+Dragonflies;
+Evil Snowman;
+Monstrous*F3*WMV;
+Precision*F2*WMV;
+Sniper;
+Sprite*F2;
+Vengeance*F5*WMV;
+Wyldfire;
+
+| reagents =
+Brass;
+Bronze;
+Cobalt;
+Fish Fin*F8*WMV;
+Lead;
+Nickel;
+Sandstone*F6*WMV;
+Scales*F2*WMV;
+Shark Tooth;
+Steel;
+Sunstone*F2;
+Tin;
+
+| spellements =
+Banshee*BR;
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops*BR;
+Cyclops Minion*BR;
+Earth Walker*BR;
+Evil Snowman*BR;
+Fire Dragon*BR;
+Forest Lord*BR*F2;
+Frost Giant*BR;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*F2*BR*WMV;
+Ice Wyvern*F2*BR*WMV;
+Immolate*BR;
+Kraken*BR;
+Locust Swarm*BR;
+Minotaur*BR;
+Nature's Wrath*BR;
+Orthrus*BR;
+Phoenix*BR*F2;
+Power Nova*F2*BR*WMV;
+Scarecrow*BR;
+Seraph*BR;
+Skeletal Pirate*BR*F2;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Storm Shark*BR;
+Stormzilla*BR;
+Sunbird*BR;
+Triton*BR;
+Vampire*BR;
+Wraith*BR*F2;
+
+| snacks =
+Cauliflowers*F2*WMV;
+Delicious Cookie;
+Glowing Star Fruit*F2*WMV;
+Glowing Taffy*F2*WMV;
+Spicy Drumstick*F3*WMV;
+Strawberry Cupcake;
+Submarine Sandwich;
+
+| jewels =
+Blade of Life Jade;
+Blizzard Lizard Sapphire;
+Cat Bandit Opal;
+Dull Critical Opal +2;
+Dull Defense Sapphire +26;
+Dull Health Opal +51;
+Dull Health Opal +52;
+Dull Health Opal +53;
+Fire-Eye Ruby;
+Mass Ice Prism Sapphire;
+Mass Life Prism Jade;
+Mass Myth Prism Peridot;
+Plain Blocking Onyx +6;
+Plain Blocking Peridot +6;
+Plain Damage Ruby +15;
+Plain Damage Sapphire +15;
+Plain Defense Opal +16;
+Slick-N-Slide Opal;
+Sniper Talent Opal;
+Storm-Tooth Amethyst;
+Sturdy Opal;
+Wisp Bonus Opal;
+
+| pins =
+Balance Accurate Pin (30);
+Balance Accurate Pin (60);
+Death Accurate Pin (30);
+Death Accurate Pin (60);
+Fire Accurate Pin (50);
+Ice Accurate Pin (30);
+Ice Accurate Pin (60);
+Life Accurate Pin (20);
+Life Accurate Pin (60);
+Myth Accurate Pin (50);
+Myth Accurate Pin (60);
+Storm Accurate Pin (50);
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2*WMV;
+Fish on a Vine*F3*WMV;
+Maelstrom Snap Dragon*F3*WMV;
+Pink Dandelion*CR;
+Silver Trumpet Vine*CR*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

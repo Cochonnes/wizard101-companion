@@ -1,0 +1,286 @@
+{{Stub|which version of the Enfeeble Treasure Card this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 17,365
+| crecla = Unicorn
+| crecla2 = Equine 
+| school = Balance
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Arachna Gladiator;
+Arachna Gladiator;
+Arachna Gladiator;
+
+| world = Khrysalis
+| location = The Hive
+| subloc1 = Night Orb Chamber
+| descrip =
+
+| speech =
+:''"Not so fast, little Duelist. I've heard many stories of you. Trained by the pompous Diego, student of Merle Ambrose, adept of Shadow magic, conqueror of Warlords... Let's put it to the test, shall we? If you win, you get the Night Orb. If I win... I'll take your head."''
+
+| cheatnotes =
+*''"Your power belongs to me!"'' - At the start of every fourth Round, Lord Ombra will interrupt-cast a Balance version of {{Link|Spell|Steal Pips}} at the Wizard with the most Pips, which steals three Pips.
+**He will not cast this cheat if all Wizards have 4 Pips (in any combination of Power Pips and regular Pips) or less.
+***School Pips do not count as any kind of Pip for the purposes of this cheat.
+**Sometimes this cheat will not damage the Wizard.
+**He does cast the normal version of Mana Burn, though not as the cheat.
+*When Lord Ombra has 2 Shadow Pips, he will use his turn to cast {{Link|Spell|Dark Nova}}.
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+Lord of Shadow, which is subservient to Queen of Shadows, who of course is lesser than the Primal Creator of Shadow. But still impressive.
+
+| extract class =
+Equine;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,000
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Dark Nova;
+Infallible;
+Vengeance;
+Black Mantle;
+Availing Hands (85+870);
+Balanceblade;
+Hex;
+Mana Burn;
+Natural Attack (Balance 160-255-350);
+Samoorai;
+Power Nova;
+Sabertooth;
+
+| quests = 
+Night Orb;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*12 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+| gold =
+304 - 336;
+
+| hats =
+The Wyrmrider*CR;
+
+| robes =
+Aged Hundred Legger Armor*F4*WMV;
+Leaf Shield Armor of Vigor*F3*WMV;
+
+| boots =
+Kermes Fire Miner's Clogs*F2;
+Mantis Hunter's Footwraps;
+Mouse Knight's Footguards*F2*WMV;
+Tireless Digger's Boots;
+
+| athames =
+FateSailor's Exalted Steel*F2*WMV;
+
+| amulets =
+
+| rings =
+Gloom Dancer's Band*F2*WMV;
+Mantis Prophet's Ringlet;
+Seal of the Fifth Column;
+Seal of the Lost King;
+Shadow of the Land's Ring*F3*WMV;
+
+| wands =
+
+| decks =
+Deck of Charred Shadows (Square)*F3*WMV;
+Deck of Charred Shadows (Tear)*F2;
+Deck of Charred Shadows (Triangle);
+Deck of the Shadow Heart (Square)*F2*WMV;
+Deck of Winter Shadows (Square);
+
+| items =
+Khrysalis Desert Shadows Theme*F2*WMV;
+Khrysalis Kondha Desert Theme*F3*WMV;
+Khrysalis Shadow Palace Theme*F2*WMV;
+
+| cards =
+Chastisement*F2*WMV;
+Clockwork Spider;
+Crystal Spider*F2*WMV;
+Cycle of Life;
+Doom and Gloom*F2*WMV;
+Enfeeble;
+Furnace*F3*WMV;
+Galvanic Field;
+Legendary Treant (445)*F2*WMV;
+Locust Swarm*F2*WMV;
+Lucius McTavish;
+Mass Infection;
+O'Leary Swindler*F2*WMV;
+Polar Swarm*F2*WMV;
+Punishment;
+Rat Illusionist;
+Reliquary;
+Sanctuary*F2*WMV;
+Scorpion;
+Shatter;
+Sleet Storm;
+Spinysaur;
+Sprite Swarm (40+360);
+Sun Serpent;
+Virulence;
+Wildfire Treant;
+
+| reagents =
+Astral Shard*F6*WMV;
+Black Lotus*F4*WMV;
+Black Pearl;
+Blood Moss*F2*WMV;
+Bone*F5*WMV;
+Bronze Gear*F4*WMV;
+Copper;
+Deep Mushroom*F4*WMV;
+Draconium;
+Fire Blossom*F4*WMV;
+Fossil;
+Golden Pearl;
+Iron;
+Lava Lily*F3*WMV;
+Mist Wood*F4*WMV;
+Mithril;
+Nickel;
+Nightshade*F2*WMV;
+Ore*F3*WMV;
+Orichalcum*F2*WMV;
+Pyrite;
+Red Mandrake*F2*WMV;
+Stone Block*F4*WMV;
+Sunstone;
+Titanium;
+Tungsten;
+Turquoise;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Chimera*BR;
+Dr. Von's Monster*BR;
+Efreet*BR*F2*WMV;
+Fire Dragon*BR;
+Forest Lord*BR*F2*WMV;
+Frost Giant*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Flaming Soup*F3*WMV;
+Goat Cheese;
+Golden Apple*F2;
+Golden Grapes*F2;
+Gummy Bees;
+Gummy Humongofrog;
+Hive Rinds*F3;
+Honey Bombs*F2*WMV;
+Honeycombs*F2*WMV;
+Honeycrisp Apples*F2*WMV;
+HoneyDon't Melon*F2;
+King Banana;
+Punk Rock Candy;
+Shiny Tomato;
+Submarine Sandwich*F2*WMV;
+Sugar Khrystals;
+Uni-Corn;
+
+| jewels =
+Adroit Opal;
+Balance-Giver Citrine;
+Balance-It Citrine;
+Clear Blocking Opal +5;
+Cracked Defense Amethyst +12;
+Cracked Defense Opal +4;
+Cracked Defense Sapphire +12;
+Fire Elemental Ruby;
+Halt Leader Opal;
+Life-Eye Jade;
+Life-Proof Jade;
+Polished Accurate Amethyst +10%;
+Polished Blocking Peridot +12;
+Polished Blocking Ruby +12;
+Polished Blocking Sapphire +12;
+Polished Damage Citrine +21;
+Polished Damage Jade +21;
+Polished Defense Amethyst +44;
+Polished Defense Onyx +44;
+Polished Health Opal +94;
+Storm-Giver Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Burning Snap Dragon;
+Honey Bee Plant;
+Moon Flower;
+Queen Crape Myrtle;
+
+| mounts =
+
+| spells =
+
+}}

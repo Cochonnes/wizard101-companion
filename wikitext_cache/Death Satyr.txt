@@ -1,0 +1,118 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 12,400
+| crecla = Giant
+| school = Death
+| masteries =
+Life;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Life, Ice;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Anguished Woodman;
+Lamenting Sprite;
+Night Imp;
+
+| world = Wizard City
+| location = Tartarus
+| subloc1 = House of Faun
+| descrip =
+
+| speech =
+:''"A warm-blood trespassing down here, in tortured Pompeii? Great Hades will reward me for bringing your spirit to him."''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Amplify;
+Guiding Light;
+Weakness (-30%);
+Satyr;
+Deathblade;
+Curse (+25%);
+Red Banshee;
+Natural Attack (Death 205-315-435);
+Wraith (575);
+Scarecrow;
+Skeletal Dragon;
+
+| quests =
+Fall of Pompeii;
+
+| dropnotes =
+When a Wizard has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge and has completed the '''{{Link|Quest|Sisyphus is Unhappy}}''' {{Icon|Swole Like Sisyphus}} Quest, the following drops will be guaranteed:
+*{{Icon|Spellement}} 1-2 Aquila Spellements of '''any''' School
+
+If a Wizard already has the Child of Light and Shadow Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} inside Tartarus to acquire a [[Item:Level Scaling Elixir - 90|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+1 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

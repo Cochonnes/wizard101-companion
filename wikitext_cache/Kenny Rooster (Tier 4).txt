@@ -1,0 +1,102 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 8,570
+| crecla = Train Boss
+| school = Fire
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+12%;
+
+| outboost =
+100%;
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Great Sky Train Robbery Gauntlet
+| subloc1 = Great Sky Train Robbery Gauntlet (Tier 4)
+| descrip =
+Kenny Rooster (Tier 4) is considered a Minion to {{Link|Creature|N. Bison (Tier 4)}}.  All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Fire Damage.
+
+| casts =
+Brace;
+Furnace;
+Tower Shield (-55%);
+Smoke Screen (-45%);
+Mass Fire Prism;
+Fuel (+35%);
+Choke (85%);
+Meteor Strike (355-395);
+Immolate (690);
+Fire Dragon (495+395);
+Efreet (1,000);
+
+| quests =
+Insane In The Gem Train;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| elixirs =
+
+}}

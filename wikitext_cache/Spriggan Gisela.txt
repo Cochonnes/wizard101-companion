@@ -1,0 +1,131 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,920
+| crecla = Spriggan
+| school = Life
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Death;
+
+| incresist =
+70% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions = 
+
+| world = Khrysalis
+| location = Radiance Reborn
+| subloc1 = First Chamber of the Mind
+| descrip = Wizards face Spriggan Gisela as [[Polymorph:Young Morganthe (Tier 1)|Young Morganthe]], during a dream of Morganthe's past. It is a solo encounter, and not repeatable.
+
+| speech =
+:''"I have brought the Horned Crown that Lady Morganthe requested. It is potent magic of darkness and Shadow. You have my reward?"''
+
+| cheatnotes =
+*{{Icon|Damage}} ''"I sense in you... a weakness"'' - At the start of every fifth Round she casts a 0-Pip Meteor Strike that deals 215-245 Fire Damage.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 115 Life Damage per Pip.
+
+| casts =
+Weakness;
+Sprite;
+Lifeblade;
+Life Trap;
+Imp;
+Leprechaun;
+Luminous Weaver;
+Seraph;
+Centaur;
+
+| quests =
+A Dream of Avalon;
+
+| gold =
+0
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Choke;
+Mass Infection;
+Pierce;
+Sanctuary;
+
+| reagents =
+Astral Shard*F7*WMV;
+Black Lotus*F3*WMV;
+Black Pearl;
+Bone*F4*WMV;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F2;
+Fire Blossom;
+Golden Pearl;
+Iron;
+Lava Lily;
+Mist Wood*F2*WMV;
+Nickel*F2;
+Ore*F3*WMV;
+Orichalcum;
+Red Mandrake;
+Stone Block*F2*WMV;
+Turquoise*F2*WMV;
+
+| spellements =
+
+| snacks =
+Dr. Jalapeno*F2*WMV;
+Flapjacks*F2*WMV;
+Glowing Dragon Fruit*F3*WMV;
+Honeycrisp Apples;
+
+| jewels =
+Cracked Defense Sapphire +12;
+Fire Cat Ruby;
+Thunder Snake Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Sugar Khrystal*CR;
+
+| mounts =
+
+| spells =
+
+}}

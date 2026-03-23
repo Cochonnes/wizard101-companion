@@ -1,0 +1,328 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 6,775
+| crecla = Feral
+| crecla2 = Qhat
+| school = Storm
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+7%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Myth;
+
+| incresist =
+30% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Feral Felon;
+
+| world = Mirage
+| location = Aggrobah
+| subloc1 = River District Alleyway
+| descrip =
+
+| speech =
+:''"Are you joking? Not only do the Fangs have it in for me, but now the Sultana sends her enforcers as well? Well, I won't go down without a fight!"''
+
+| spellnotes = 
+
+| casts =
+Brace;
+Flawless;
+Outpouring;
+Thermic Shield (-75%);
+Healing Current;
+Stormblade (+30%);
+Storm Trap (+35%);
+Storm Serpent (230);
+Natural Attack (Storm 125-250-375, 65%);
+Catalan;
+Morganthe's Angst;
+Leviathan (1,150);
+Sirens (965);
+
+| quests =
+Feral's Alleyway;
+
+| gold =
+170 - 456;
+
+| hats =
+Aridian Helm of Dunestorms;
+Aridian Helm of Reflection;
+Aridian Helm of Strife;
+Aridian Helm of Thriving;
+Helm of the Aridian Sun;
+Parched Wayfarer's Fez;
+Wayfarer's Fez of Intent;
+
+| robes =
+Aridian Armor of Dunestorms;
+Aridian Armor of Numbing;
+Aridian Armor of Splendor;
+Aridian Armor of Thriving;
+Parched Wayfarer's Khalat;
+Rubal Khalat of Carnage;
+
+| boots =
+Parched Wayfarer's Galesh;
+Rubal Babouches of Carnage;
+Rubal Thunder Babouches; 
+Shoes of the Aridian Sun;
+Wayfarer's Galesh of Grit;
+Wayfarer's Galesh of Poise;
+Wayfarer's Galesh of Repine;
+
+| athames =
+Rubal Janbiya of Competence;
+Rubal Janbiya of Illusions;
+Viper Edge of Numbing;
+Viper Edge of Reflection;
+Viper Edge of Splendor;
+Viper Edge of Strife;
+
+| amulets =
+Rubal Locket of Action;
+Rubal Locket of Cessation;
+Rubal Locket of Competence;
+Rubal Necklace of Carnage*F2*WMV;
+Rubal Necklace of Illusions;
+Rubal Necklace of Renewal;
+Rubal Thunder Necklace;
+Viper Talisman of Reflection;
+
+| rings =
+Rubal Seal of Bitterness;
+Rubal Seal of Illusions;
+Seal of Rubal Thunder;
+Viper Ring of Strife;
+Viper Ring of Thriving;
+
+| wands =
+Alkali Bow of Withering;
+Conscript Tabar of Delusion;
+Conscript Tabar of Zeal;
+Restrictor Wand of Embers;
+Restrictor Wand of Vitality;
+Restrictor Wand of Wisdom;
+
+| decks =
+Rubal Cards of Action;
+Rubal Deck of Carnage;
+Rubal Deck of Loyalty;
+Viper Cards of Dunestorms;
+Viper Cards of Numbing;
+Viper Cards of Reflection;
+
+| items =
+
+| cards =
+Ashen Bones*F2;
+Combustion;
+Counterforce;
+Death Troll;
+Fiery Colossus;
+Frostfang;
+Helephant;
+Mass Fire Prism;
+Mass Myth Prism;
+Metalops;
+Mutate Banshee (Life);
+Mutate Banshee (Sun);
+Mutate Bird (Ice);
+Mutate Colossus (Storm);
+Mutate Elf (Ice);
+Mutate Elf (Storm);
+Mutate Helephant (Storm);
+Mutate Hound (Ice);
+Mutate Monster (Ice);
+Mutate Phoenix (Ice);
+Mutate Serpent (Fire);
+Mutate Serpent (Storm);
+Mutate Shark (Ice);
+Mutate Snowman (Fire);
+Namaste;
+Punklops;
+Yellow Troll;
+
+| reagents =
+Ancient Scroll*F2;
+Black Pearl*F4*WMV;
+Blood Moss*F3*WMV;
+Brass*F2;
+Bronze Gear*F5*WMV;
+Cobalt;
+Ectoplasm;
+Nickel*F4*WMV;
+Scales*F4*WMV;
+Spider Silk*F5*WMV;
+Spring*F2*WMV;
+Tin*F2*WMV;
+Turmeric*F2;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Beast Wellington;
+Beetle Cream Soda*F3*WMV;
+Bread Fruit Fruit;
+Chalupacabra;
+Chili Peppers;
+Decimatoes;
+Delicious Cookie*F4*WMV;
+Eye Candy*F2*WMV;
+French Fries;
+Gourmet Yogurt*F2*WMV;
+Hard Boiled Beetle Eggs;
+High Road Haggis;
+Hot Cross Buns;
+Huge Ice Cream*F2*WMV;
+Large Ice Cream;
+Mustachios*F2*WMV;
+Rhubarbed Wire;
+Satyr Chow;
+Ships 'n' Queso;
+Sprinkle Cupcake;
+Submarine Sandwich;
+Super Cold Popsicle*F2*WMV;
+Veggie Juice;
+Wheat Cracker;
+
+| jewels =
+Flawless Opal;
+Lustrous Accurate Amethyst +11%;
+Lustrous Accurate Onyx +11%;
+Lustrous Accurate Peridot +11%*F2*WMV;
+Lustrous Accurate Ruby +11%;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Amethyst +13;
+Lustrous Blocking Jade +13;
+Lustrous Blocking Onyx +13;
+Lustrous Blocking Peridot +13;
+Lustrous Blocking Ruby +13;
+Lustrous Critical Amethyst +13;
+Lustrous Critical Citrine +13*F2;
+Lustrous Critical Jade +13;
+Lustrous Critical Onyx +13;
+Lustrous Critical Ruby +13;
+Lustrous Damage Citrine +23;
+Lustrous Damage Jade +23*F2*WMV;
+Lustrous Damage Onyx +23;
+Lustrous Damage Peridot +23;
+Lustrous Damage Ruby +23;
+Lustrous Defense Amethyst +45;
+Lustrous Defense Jade +45;
+Lustrous Defense Peridot +45;
+Lustrous Defense Sapphire +45*F2*WMV;
+Lustrous Health Opal +96;
+Lustrous Mana Opal +42;
+Magnify Opal;
+Radical Opal*F2;
+Shiny Blocking Hematite +16;
+Shiny Blocking Jade +16;
+Shiny Blocking Onyx +16;
+Shiny Blocking Peridot +16;
+Shiny Critical Amethyst +16;
+Shiny Critical Ruby +16;
+Shiny Damage Amethyst +26;
+Shiny Damage Onyx +26;
+Shiny Defense Amethyst +51;
+Shiny Defense Citrine +50;
+Shiny Defense Onyx +50;
+Shiny Defense Onyx +52;
+Shiny Defense Ruby +51;
+Shiny Defense Ruby +52;
+Shiny Health Opal +111;
+Shiny Health Opal +112;
+Shiny Health Opal +113;
+Shiny Health Opal +114;
+Shiny Mana Opal +45;
+Shiny Mana Opal +47;
+Shiny PIP Hematite +2;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Angora Bunny Ears;
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper*F6*WMV;
+Blue Huckleberries*F2*WMV;
+Boiled Peanuts*F5*WMV;
+Boom Shroom;
+Boon Tree*CR;
+Bread Fruit Bush*F2*WMV;
+Burning Snap Dragon;
+Clockwork Flower*F2*WMV;
+Cornbread Fruit Bush*F4*WMV;
+Couch Potatoes*CR*F3*WMV;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR*F3*WMV;
+Desparagus (Seed)*F2;
+Evil Magma Peas*CR*F2*WMV;
+Face Palm;
+Fish on a Vine;
+Frozen Fly Trap;
+Golden Couch Potatoes*F4*WMV;
+Goose Tree;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Helephant Ears;
+Honey Bee Plant;
+Honey Sickle;
+Ivy League*CR*F3*WMV;
+Key Limes*CR;
+King Parsley*CR;
+Laugh-O-Dil;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily*F2*WMV;
+Melting Cheese Tree;
+Missile Toe;
+Ninja Fig*CR;
+Orange Dandelion;
+Pink Huckleberries*F2;
+Pink Laugh-O-Dil;
+Prickly Bear Cactus;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Queen Crape Myrtle*F2;
+Red Bell Pepper;
+Red Couch Potatoes*F2;
+Red Grapes of Wrath;
+Red Huckleberries*F2;
+Saw Palmetto;
+Silver Trumpet Vine*CR;
+Snap Dragon;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Sunion*CR;
+Sword Fern*CR;
+Tiger Lily (Seed);
+Venus Fly Trap;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,214 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 16,900
+| crecla = Mantis
+| crecla2 = Insect
+| school = Myth
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Balor's Behemoth;
+
+| world = Khrysalis
+| location = Sardonyx
+| subloc1 = Vazivika's House
+| descrip =
+
+| speech =
+:''"What are you doing in my home?  What?  Who told you... Well, so what if I am stealing?  What are you going to do about it?"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+She breaks spirits and then robs them blind, leaving a trail of broken, blinded ghosts in her wake.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Mythblade;
+Myth Trap;
+Keeper of the Flame;
+Natural Attack (Myth 165-265-370, 80%);
+Ninja Pigs;
+Earthquake (425);
+Humongofrog (400-500);
+Medusa (865);
+Basilisk;
+Celestial Calendar;
+
+| quests =
+An Honest Umbra?;
+
+| gold =
+131 - 160;
+
+| hats =
+Digger's Mining Helmet;
+Gloom Dancer's Shroud;
+Kermes Fire-Hardened Mask*F6*WMV;
+Mantis Guard's Headgear*F4*WMV;
+Scarred Burrower Greathelm*F4*WMV;
+
+| robes =
+Beleaguered Mouse Gear*F2*WMV;
+
+| boots =
+Gorge Excavator's Trekkers;
+
+| athames =
+Ghostmane's Fabled Cutter*F3*WMV;
+
+| amulets =
+CurdWright Medallion*F2*WMV;
+Death's Head Talisman*F2*WMV;
+Jewel of the Apiary*F2*WMV;
+
+| rings =
+
+| wands =
+Halberd of Extermination;
+Halberd of Mesmerizing*F3*WMV;
+Poleaxe of Mantis Dominion;
+Spear of Mantis Voracity;
+Sword of Burrower Vengeance;
+
+| decks =
+Barbed Case of Stratagem*F3*WMV;
+Box of Indomitable Spirit*F2*WMV;
+Lightning Rider's Deck*F3*WMV;
+
+| items =
+Khrysalis Combat Theme 2*F2*WMV;
+Khrysalis Hive and Seek Theme*F2*WMV;
+Khrysalis Hive Combat Theme;
+
+| cards =
+Avenging Fossil;
+Celestial Calendar;
+Clockwork Spider;
+Death Scarab;
+Doom and Gloom*F2*WMV;
+Enfeeble;
+Fire Beetle;
+Furnace;
+Hooligan;
+Locust Swarm*F2*WMV;
+Lucius McTavish;
+Luminous Weaver;
+O'Leary Swindler*F2*WMV;
+Polar Swarm;
+Punishment*F2*WMV;
+Reliquary;
+Scarab;
+Sleet Storm*F2*WMV;
+Spinysaur;
+Sprite Swarm (40+360)*F2*WMV;
+Storm Owl*F2*WMV;
+Wildfire Treant;
+
+| reagents =
+Astral Shard*F4*WMV;
+Black Lotus*F2*WMV;
+Black Pearl*F2*WMV;
+Blood Moss*F3*WMV;
+Bone*F3*WMV;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F2*WMV;
+Draconium;
+Fire Blossom*F2*WMV;
+Fossil*F2*WMV;
+Golden Pearl;
+Lava Lily*F3*WMV;
+Mist Wood*F3*WMV;
+Mithril;
+Nightshade*F2*WMV;
+Ore*F2*WMV;
+Orichalcum*F2*WMV;
+Red Mandrake*F3*WMV;
+Stone Block*F6*WMV;
+Sunstone;
+Titanium;
+Turquoise*F4*WMV;
+
+| spellements =
+
+| snacks =
+Flaming Soup;
+Goat Cheese;
+Golden Apple;
+Gummy Bees*F2*WMV;
+Gummy Humongofrog;
+Hive Rinds*F3*WMV;
+Honeycombs*F2*WMV;
+Honeycrisp Apples;
+HoneyDon't Melon*F2*WMV;
+Peanut Butterflies;
+Punk Rock Candy;
+Spicy Stingers;
+Sugar Khrystals*F2*WMV;
+
+| jewels =
+Buff Minion Talent Peridot;
+Gargantuan Talent Opal;
+Healthy Opal;
+Ice-Proof Sapphire;
+Polished Damage Jade +22;
+Polished Defense Hematite +42;
+Polished Defense Hematite +44;
+Polished Piercing Hematite +5%;
+Polished Piercing Ruby +6%;
+Restorative Opal;
+Rugged Opal;
+Stonewall Opal;
+Ultra Energy Opal;
+Unstoppable Talent Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+Fish on a Vine;
+Saw Palmetto;
+
+| mounts =
+
+| spells =
+
+}}

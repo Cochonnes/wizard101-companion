@@ -1,0 +1,169 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 5,070
+| crecla = Lion
+| crecla2 = Undead
+| school = Fire
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Darkmane Raider;
+
+| world = Zafaria
+| location = Savannah
+| subloc1 = Shadowriver's Cave
+| descrip =
+Bwana receives two extra {{Link|Creature|Spearfang Slasher (Female)}} Minions if more than two Wizards are present.
+
+| speech =
+:"''Wonderful! A tasty magic snack!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Zafaria
+| tome description =
+Using Spearfang Slashers as a shield, beware this ghost as he is as likely to attempt to devour you as he is to just attack.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Infallible;
+Amplify;
+Fireblade;
+Fire Trap;
+Fire Shark;
+Meteor Strike;
+Scald;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Efreet;
+Natural Attack (Fire 100-X Pips);
+
+| quests =
+Spirit and Shadow;
+
+| gold =
+41 - 94;
+
+| hats =
+Cold Chieftain's Mask;
+Crocogator's Ambush Hood;
+Hood of the Forgotten;
+Mask of Mirror Lake;
+
+| robes =
+Cloak of Conformity;
+Darajani Havoc Robes;
+Fire-Feather Robes;
+Irontrunk Cloak of Dreams*F2;
+
+| boots =
+Big Sky Striders;
+Cold Storm Trackers;
+Stone Town Storm Trackers;
+Witch Doctor's Juju Rangers;
+
+| athames =
+
+| amulets =
+
+| rings =
+Amahle's Striped Band;
+Aryanah's Golden Loop;
+Hathi's Victory Band;
+Koko's Smoky Circle;
+Unathi's Nighttime Circle;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Fuel*F7*WMV;
+Infallible;
+Polymorph Elemental (Fire);
+Polymorph Elemental (Storm);
+Power Link*F4;
+Strong;
+
+| reagents =
+Bronze Gear;
+Cobalt;
+Leather Straps;
+Nickel*F2;
+Spider Silk*F3;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2;
+Chocolate Strawberry;
+Delicious Cookie;
+Flaming Soup;
+Glowing Star Fruit;
+Glowing Taffy;
+Golden Grapes;
+Gummy Humongofrog*F2;
+King Banana;
+Kola Nuts;
+Sugar Donut*F2;
+Tiny Fish;
+
+| jewels =
+Fire-Away Ruby;
+Myth-Shot Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Evil Snow Peas;
+Orange Dandelion;
+Venus Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,229 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 9,830
+| crecla = Wyrm
+| school = Death
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Scurvy Skirker;
+
+| world = Avalon
+| location = Caliburn
+| subloc1 = Lair of the Bane Wyrm
+| descrip =
+Two additional {{Link|Creature|Hobgoblin Plunderer}} Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Enter, Wizard... my teeth like swords! My claws, spears! And my breath... death!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Avalon
+| tome description =
+My teeth are like swords! My claws, spears! And my breath... death!
+
+| extract class =
+Wyrm;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+| retired expel = Yes
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Deathblade;
+Empower;
+Feint;
+Natural Attack (Death 135-275-425);
+Vampire;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+
+| quests =
+Smog and Stone;
+
+| gold =
+88 - 171;
+
+| hats =
+Brisk Helmet of Nodor*F2;
+Champion of Order's Icy Helm*F3*WMV;
+Chaos Knight's Blazing Helm*F5;
+Fire Spirits' Toasty Helm;
+Mask of the Silent Hunter*F2;
+Wrath of the Wild;
+
+| robes =
+Bad Storm Armor;
+Fire-Spitter Robes*F5*WMV;
+Windbreaker of Nodor;
+Winter Wyrm's Cloak*F6*WMV;
+
+| boots =
+Courageous Knight's Boots*F6;
+Noble Knight's Boots*F5*WMV;
+Splashing Stream Waders;
+
+| athames =
+Badger's Claw*F2;
+Weirwood's Thorn*F3*WMV;
+
+| amulets =
+Druid's Amulet of Courage*F2*WMV;
+Pendant of Armiger's Tenacity*F2;
+
+| rings =
+Band of the Lost Abbey*F2;
+Circle of Caliburn*F2;
+Dun Dara's Triskelion;
+Lake Spiral Ring;
+Toasty Band of the Fire Elves*F8*WMV;
+
+| wands =
+Bludgeon of Confidence*F5*WMV;
+Highland Shillelagh*F3;
+
+| decks =
+Silvershield Cards*F20*WMV;
+
+| items =
+Avalon Abbey Road Theme*F2*WMV;
+Avalon Main Theme*F2;
+Avalon Spear Rack;
+Avalon Wooden Table*F2;
+Square Pedestal;
+Stone Skeleton Key*CR*F5*WMV;
+
+| cards =
+Beguile*F5*WMV;
+Catalan*F2;
+Dark Tribute*F5;
+Efreet*F2;
+Fire Dragon*F2;
+Frost Giant*F2;
+Gargantuan;
+Orthrus*F2;
+Plague*F6*WMV;
+Poison*F7*WMV;
+Power Nova*F2;
+Sacrifice*F5*WMV;
+Skeletal Dragon;
+Snow Angel;
+Storm Lord*F2;
+Unstoppable*F2;
+Virulent Plague*F10*WMV;
+
+| reagents =
+Black Lotus*F3*WMV;
+Bronze*F2*WMV;
+Cat Tail*F7*WMV;
+Cobalt;
+Deep Mushroom*F5*WMV;
+Frost Flower*F7*WMV;
+Lava Lily*F4*WMV;
+Mist Wood*F5*WMV;
+Nickel;
+Ore*F4;
+Parchment*F4*WMV;
+Pearl*F4*WMV;
+Red Mandrake*F5*WMV;
+Shell*F7*WMV;
+Stone Block*F8*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Bogwich*F2;
+Cauliflowers*F3*WMV;
+Cheese Broccoli;
+Chocolate Strawberry*F2*WMV;
+Cracker*F2;
+Deviled Eggs;
+Glowing Star Fruit;
+Green Grapes;
+Gummy Firecat*F2;
+Gummy Humongofrog;
+Gummy Wyrms*F4*WMV;
+Jelly Baby;
+Kola Nuts;
+Nettle Root;
+Pigeon Pie*F2;
+Roasted Chickpeas*F2;
+Sugar Donut*F2;
+Tiny Fish*F2;
+Treant Bark*F2;
+
+| jewels =
+Big Rally Opal;
+Clear Blocking Ruby +9;
+Death Trap Onyx (Triangle);
+Death-Giver Onyx;
+Determined Opal;
+Dull Mending Opal +3%;
+Enfeeble Opal;
+Gold Miner Opal;
+Ice-Giver Sapphire;
+Opaque Critical Citrine +7;
+Opaque Critical Onyx +7;
+Opaque Damage Amethyst +18*F2;
+Opaque Damage Onyx +18;
+Opaque Defense Sapphire +34;
+Opaque Health Opal +72;
+Opaque Health Opal +74;
+Opaque Mana Opal +30*F2;
+Opaque PIP Opal +7%;
+Ultra Mute Opal;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+Evil Magma Peas*CR;
+Frozen Fly Trap;
+Key Limes*CR;
+Pink Dandelion*CR;
+Trumpet Vine;
+White Desparagus;
+White Tiger Lily*F2;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,193 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 3,680
+| crecla = Undead
+| crecla2 = Wolf
+| school = Life
+| startpips = 3
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Fire, Death;
+
+| incresist =
+80% Life;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Bristlehide Raider;
+
+| world = Grizzleheim
+| location = Vestrilund
+| subloc1 = Osvud's Cave
+| descrip =
+Two additional Bristlehide Raider Minions appear if more than two Wizards are present.
+
+| speech =
+:''"If you've come to dishonor me, you're too late. I met my end long ago. Now I only know the torment of battle!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+Osvud won every footrace he ever competed in. Except the one where he ran off the cliff and died, in which he came in third.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Death Shield;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Giant Spider;
+Lifeclops;
+Seraph;
+Earth Walker;
+Centaur;
+Natural Attack (Life 85x);
+
+| quests =
+Warriors Three;
+
+| gold =
+66 - 137;
+
+| hats =
+Grizzled Helm;
+Hopping Bear Hat;
+Horned Helm of Courage;
+Horned Helm of the Mighty;
+Horned Helm of Valor;
+
+| robes =
+Bear's Heart Jerkin*F2;
+Coat of Ages;
+Hardy Coat;
+Jerkin of the Howling Bear;
+Raiment of Sharp Talons*F3*WMV;
+Raiment of the Evil Eye*F2*WMV;
+
+| boots =
+Barbarian's Bold Boots*F3*WMV;
+Barbarian's Brave Boots*F3*WMV;
+Barbarian's Courage Boots;
+Barbarian's Daring Boots*F3*WMV;
+Barbarian's Fearless Boots*F2;
+Barbarian's Fierce Boots*F2*WMV;
+Barbarian's Valorous Boots*F2*WMV;
+Biting Bear Boots;
+Growling Bear Boots;
+Slashing Bear Boots*F2;
+Snarling Bear Boots;
+
+| athames =
+Wolf's Tanzanite Talon*F3*WMV;
+
+| amulets =
+Spirit Defuse Amulet*F5*WMV;
+
+| rings =
+Ring of Sister Wolf*F2*WMV;
+Ring of the Hungry Wolf*F2*WMV;
+Ring of the Wolf's Song*F3*WMV;
+
+| wands =
+Horns of Winter Dreams*F2*WMV;
+Staff of Absolution*F3*WMV;
+Staff of the Rushing Bear;
+
+| decks =
+
+| items =
+
+| cards =
+Evil Snowman;
+Fire Trap;
+Monstrous*F3*WMV;
+Precision*F2*WMV;
+Sandstorm;
+Sniper;
+Vampire;
+Vengeance*F5*WMV;
+
+| reagents =
+Bronze Gear*F3*WMV;
+Cobalt*F3*WMV;
+Leather Straps*F2*WMV;
+Nickel*F4*WMV;
+Tin*F2*WMV;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Cauliflowers;
+Glowing Star Fruit;
+Glowing Taffy*F2*WMV;
+Goat Cheese;
+Golden Apple;
+Golden Grapes;
+Gummy Humongofrog;
+King Banana*F2;
+Salmonberry;
+Shiny Tomato*F2*WMV;
+Submarine Sandwich;
+Uni-Corn*F3*WMV;
+
+| jewels =
+Dull Defense Amethyst +26;
+Dull Health Opal +51;
+Entangle Jade;
+Feinting Spell Onyx;
+Immunity Opal;
+Melt Sapphire;
+Pip O'Plenty Opal;
+Plain Defense Jade +29;
+Plain Defense Opal +15;
+Plain Defense Ruby +29;
+Plain Health Opal +59;
+Quench Ruby;
+Strangle Onyx;
+The Deer Knight Rises Onyx;
+Unbalance Citrine;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Cornbread Fruit Bush*F2*WMV;
+Evil Snow Peas;
+Orange Dandelion*F2*WMV;
+Snap Dragon;
+Venus Fly Trap*F3*WMV;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

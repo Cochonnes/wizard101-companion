@@ -1,0 +1,348 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 11,650
+| crecla = Hamster
+| school = Life
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+163 Any;
+
+| criticalblock =
+237 Any;
+
+| outpierce =
+22%;
+
+| outboost =
+110%;
+
+| incboost =
+5% Death;
+
+| incresist =
+70% Life;
+
+| outhealing =
+75%;
+
+| inchealing =
+75%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Whatchamagolem (Life);
+
+| world = Karamelle
+| location = Karamelle City
+| subloc1 = Ratings Board
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:'''Good Will Abassador''': ''"Hallo. I expect you have questions. So do we. Like why do you keep balking at our surveys? They are so important. How else would we know Gustaf here is not doing his job?"''
+:'''{{Link|NPC|Gustaf}}''': ''"Help!"''
+:'''Good Will Abassador''': ''"Shh, talking. You see the thing about the Ratings Board is we don't care about the details. Who is in charge, what they are making - trivialities. All that we care about is that the Customer likes everything. And if they do not, we will do anything, to anybody, until they do. You have strong opinions, unusual opinions. We wish to understand them, appeal to them, dissect them. I assure you, when we are done, we will build a better Karamelle from your preferences. And you will most definitely be seeing stars."''
+
+| spellnotes =
+
+| casts =
+Legend Shield;
+Spirit Armor;
+Guidance;
+Sprite;
+Pigsie;
+Unicorn;
+Regenerate;
+Lifeblade;
+Life Trap;
+Namaste;
+Lamassu;
+Seraph;
+Hungry Caterpillar;
+Grrnadier (Tier 3a);
+Wings of Fate;
+Spinysaur;
+
+| quests =
+Sturm und Ratings;
+Surveyval of the Pickiest;
+
+| gold =
+437 - 482;
+
+| hats =
+Consultant Survival Hood;
+Director Biohazard Hood;
+Director Hazmat Hood*F3;
+Director Insulated Hood;
+Director Pressure Hood*F2;
+Director Protective Hood*F2;
+Executive Biohazard Hood*F3;
+Executive Hazmat Hood;
+Executive Insulated Hood*F3;
+Executive Pressure Hood;
+Executive Protective Hood;
+Executive Survival Hood;
+Producer's Cryo Hood;
+Producer's Hazmat Hood*F2;
+Producer's Survival Hood;
+Producer's Thermal Hood;
+
+| robes =
+Consultant Hazmat Suit;
+Contractor Thermal Suit;
+Director Cryo Suit*F3;
+Director Hazmat Suit;
+Director Pressure Suit*F2;
+Director Protective Suit*F2;
+Director Survival Suit;
+Executive Biohazard Suit*F2;
+Executive Hazmat Suit;
+Executive Survival Suit*F2;
+Executive Thermal Suit;
+Producer's Biohazard Suit;
+Producer's Cryo Suit*F3;
+Producer's Insulated Suit*F2;
+Producer's Protective Suit;
+Producer's Survival Suit;
+Producer's Thermal Suit*F3;
+
+| boots =
+Consultant Pressure Boots;
+Contractor Cryo Boots;
+Producer's Pressure Boots;
+Producer's Survival Boots;
+Specialist Cryo Boots;
+
+| athames =
+
+| amulets =
+Director Survival Rope;
+Executive Survival Rope;
+
+| rings =
+Contractor Protective Ring;
+Executive Hazmat Ring;
+Executive Thermal Ring;
+
+| wands =
+Director Biohazard Meter;
+Executive Protective Meter;
+
+| decks =
+Contractor Insulated Box;
+Director Pressure Box;
+Director Protective Box;
+Executive Protective Box;
+
+| items =
+Gumdrop Tree;
+Karamelle Cavity Combat Theme;
+Karamelle City Combat Theme;
+Karamelle City Theme;
+Karamelle Crate*F2;
+Karamelle Forest Combat Theme;
+Karamelle Forest Theme;
+Karamelle Jingle Theme*F2;
+Karamelle Neglected Com Theme;
+Karamelle Neglected Theme;
+Karamelle Rural Combat Theme*F2;
+Karamelle Worker Combat Theme*F2;
+Licorice Tree;
+Oil Drum;
+Trash Pile (Outdoor);
+Von Trap Estate Poster;
+
+| cards =
+Berserk*F2;
+Brilliant Light;
+Doom and Gloom;
+Galvanic Field;
+Mass Death Prism*F2;
+Mass Myth Prism*F2;
+Mass Storm Prism;
+Nested Fury*F2;
+Power Play;
+Rusalka's Wrath*F2;
+Snowball Barrage*F2;
+Winged Sorrow;
+Witch's House Call*F2;
+
+| reagents =
+Aether*F2;
+Agave Leaves*F2;
+Agave Nectar;
+Amber*F2;
+Amber Dust*F2;
+Aquamarine;
+Astral Shard*F3;
+Braided Vine*F2;
+Brass*F3*WMV;
+Bronze Gear*F2;
+Cobalt*F2;
+Draconium*F2;
+Ectoplasm*F2;
+Fire Blossom*F2;
+Golden Pearl*F2*WMV;
+Karamelle Chunk*F3;
+Merle's Whisker*F2;
+Mithril*F2;
+Nickel*F2;
+Orichalcum*F2;
+Scales*F2;
+Silver;
+Spider Silk*F2;
+Stardust*F2;
+Steel;
+Sunstone;
+Tin*F2;
+Titanium*F2;
+Toffee Bean*F3*WMV;
+Tungsten;
+Turmeric*F2;
+Turquoise;
+
+| spellements =
+Mockenspiel;
+Sound of Musicology*F3;
+
+| snacks =
+Antheneum Delight;
+BBQ Drumstick*F2;
+Beast Wellington*F2;
+Bread Fruit Fruit*F2;
+Cherry Pie*F2;
+Decimatoes;
+Discord Grape Jelly*F2;
+Dragon Fruit;
+Drumstick;
+Eye Candy*F2;
+Fern Jelly*F2;
+Glowing Star Fruit;
+Glowing Taffy*F2;
+Hot Cross Buns*F2;
+Krakamari*F2;
+Pizza;
+Rock and Roll Candy*F2;
+Roly Poly Fishheads*F2;
+Satyr Chow*F2;
+Ships 'n' Queso*F2;
+Sprinkle Cupcake*F2;
+Tasty Rainbow*F2;
+Veggie Juice*F2;
+Waterworks Wonton*F2;
+
+| jewels =
+Catalan Amethyst*F2;
+Dazzling Accurate Onyx +14%;
+Dazzling Accurate Ruby +14%;
+Dazzling Blocking Amethyst +19;
+Dazzling Critical Citrine +20;
+Dazzling Critical Hematite +19;
+Dazzling Critical Onyx +19;
+Dazzling Critical Onyx +20;
+Dazzling Damage Amethyst +30;
+Dazzling Damage Citrine +30;
+Dazzling Damage Hematite +60;
+Dazzling Damage Onyx +29;
+Dazzling Damage Opal +15;
+Dazzling Damage Ruby +29;
+Dazzling Damage Sapphire +29;
+Dazzling Defense Amethyst +57;
+Dazzling Defense Jade +60*F2;
+Dazzling Defense Ruby +58;
+Dazzling Health Opal +126;
+Dazzling Health Opal +127;
+Dazzling Health Opal +129;
+Dazzling Health Opal +130;
+Flawless Opal;
+Ninja Pigs Peridot;
+Shiny Accurate Jade +12%;
+Shiny Accurate Peridot +12%;
+Shiny Blocking Citrine +15;
+Shiny Blocking Opal +8;
+Shiny Blocking Peridot +15;
+Shiny Critical Citrine +16;
+Shiny Critical Hematite +16;
+Shiny Damage Onyx +25;
+Shiny Damage Onyx +26;
+Shiny Damage Peridot +25;
+Shiny Damage Peridot +26;
+Shiny Defense Amethyst +51;
+Shiny Defense Citrine +50;
+Shiny Defense Jade +49;
+Shiny Defense Jade +50;
+Shiny Defense Onyx +49;
+Shiny Defense Peridot +52;
+Shiny Defense Ruby +51;
+Shiny Health Opal +107;
+Shiny Health Opal +111*F2;
+Shiny Health Opal +112;
+Shiny Health Opal +113*F2;
+Shiny Health Opal +114*F2;
+Shiny Mana Opal +45*F2;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak*F2;
+Angora Bunny Ears*F2;
+Baby Carrots*F2*WMV;
+Bamboo Shoots*F2;
+Bell Pepper*F2;
+Blue Huckleberries*F2;
+Boiled Peanuts*F2;
+Boom Shroom;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Clockwork Flower;
+Cornbread Fruit Bush*F2;
+Deadly Fly Trap;
+Deadly Ninja Fig;
+Fickle Pickle;
+Fiery Boom Shroom;
+Fish on a Vine;
+Grapes of Wrath*CR*F3*WMV;
+Green Snow Apples;
+Honey Sickle;
+Ivy League*CR*F2;
+Laugh-O-Dil;
+Maelstrom Snap Dragon;
+Melting Cheese Tree*F2;
+Missile Toe;
+Moon Flower;
+Ninja Fig*CR;
+Orange Bell Pepper*CR;
+Orange Dandelion;
+Pink Huckleberries*F2;
+Purple Bell Pepper*F2;
+Purple Snow Apples;
+Red Bell Pepper*F2;
+Red Grapes of Wrath;
+Red Huckleberries;
+Rye Bread Fruit Bush;
+Snap Dragon;
+Sugar Khrystal*CR*F2;
+Sword Fern*CR*F2;
+Tiger Lily (Seed) @ Tiger Lily;
+Trumpet Vine;
+Ultra Dandelion;
+Ultra Fly Trap;
+Ultra King Parsley;
+Ultra Snap Dragon;
+White Desparagus*F2;
+
+| mounts =
+
+| spells =
+
+}}

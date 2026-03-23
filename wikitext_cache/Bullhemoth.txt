@@ -1,0 +1,275 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 11,400
+| crecla = Mammoth
+| crecla2 = Elephant
+| school = Death
+| startpips = 5
+| shadowslots = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+10%;
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Bully Mammoth;
+
+| world = Polaris
+| location = Forlorn Tayg
+| subloc1 = Bullhemoth Cave
+| descrip =
+
+| speech =
+:'''Chilly Lilly:''' ''"Oh dear. Be careful. You might not want to come in here. This Bullhemoth is not very nice. No, not very nice at all. It's cold in here, so very cold. I asked politely, but this Bullhemoth won't let me leave. I wouldn't want that to happen to you."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Polaris
+| tome description =
+Leave it to the biggest bully of them all to kidnap a tiny little sweetheart like Chilly Chilly.
+
+| extract class =
+Elephant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Deathblade;
+Deathblade*TC;
+Dark Pact (+30%);
+Curse;
+Feint;
+Age of Reckoning;
+Death Scarab (Death);
+Red Banshee;
+Natural Attack (Bullhemoth);
+Death Cyclops;
+Call of Khrulhu;
+Skeletal Dragon;
+Avenging Fossil;
+
+| quests =
+A Hand for a Handmaiden;
+
+| gold =
+422 - 709;
+
+| hats =
+Bleaks Ushanka of Mischief;
+Evoker's Brim of Acuity;
+Evoker's Brim of Squalls*F2*WMV;
+Evoker's Forlorn Brim;
+Evoker's Gallant Brim*F2;
+Evoker's Gelid Brim;
+Evoker's Stalwart Brim*F3;
+The Ice Horns*CR;
+The Kroktop*CR;
+The Manticore*CR;
+
+| robes =
+Evoker's Gelid Robes;
+Evoker's Stalwart Cloak;
+
+| boots =
+Bleaks Runners of Mischief;
+Evoker's Boots of Squalls;
+Evoker's Ember Walkers;
+Evoker's Gallant Footwear;
+Evoker's Runners of Acuity;
+Evoker's Stalwart Footgear;
+
+| athames =
+Bleaks Dagger of Frost;
+Bleaks Knife of Snowstorms;
+Kossack Knife of Radiance;
+Noble Bleaks Lancet;
+Polarian Kossack Shortblade;
+
+| amulets =
+Bleaks Ampul of Pyres;
+Bleaks Torc of Snowstorms;
+Memento of the Bleaks*F2;
+Noble Strand of the Bleaks*F2;
+
+| rings =
+Bleaks Band of Snowstorms;
+Bleaks Loop of Vigor*F2;
+Bleaks Seal of Despair*F2;
+Bleaks Signet of Mischief;
+Kossack Ringlet of Travail;
+Polarian Kossack Signet;
+
+| wands =
+Kossack Cutlass of Redress*F2;
+Kossack Cutlass of Tempests*F3*WMV;
+Kossack Saber of Chills;
+Kossack Saber of Purpose*F4;
+Kossack Sword of Travail;
+
+| decks =
+Kossack Array of Travail*F3;
+Kossack Hand of Tempests;
+Kossack Set of Radiance;
+Kossack Spread of Chills*F2;
+Kossack Stack of Purpose*F4;
+
+| items =
+Arcanum Theme;
+Large Keeper Aquarium;
+Large Whopper Aquarium*F3*WMV;
+Polaris Frozen Combat Theme*F3;
+Polaris Frozen Forest Theme;
+Polaris Gulag Combat Theme*F3;
+Polaris Gulag Theme;
+Polaris Ice Block Theme*F2;
+Polaris Mine Combat Theme*F2;
+Polaris Mine Theme*F4;
+Polaris Opera Theme*F3;
+Polaris Rasputin Combat Theme;
+Regular Whopper Aquarium;
+Tall Keeper Aquarium;
+Tall Small Fry Aquarium;
+Tall Whopper Aquarium*F2;
+Walruskberg Combat Theme*F2;
+Walruskberg Liberated Theme*F4*WMV;
+Walruskberg Theme*F3;
+
+| cards =
+Ashen Bones*F2;
+Astraphobia;
+Combustion;
+Death Helephant (345-405);
+Fiery Giant;
+Frostfang;
+Magma Colossus;
+Mass Fire Prism;
+Mutate Helephant (Storm);
+Mutate Hound (Storm);
+Mutate Minotaur (Sun);
+Mutate Phoenix (Ice);
+Mutate Phoenix (Storm);
+Mutate Serpent (Fire);
+Mutate Serpent (Storm)*F2;
+Mutate Snowman (Fire);
+Mutate Sprite (Death);
+Mutate Shark (Fire);
+Mutate Snowman (Fire);
+Mutate Wyvern (Fire)*F2;
+Namaste;
+War Helephant;
+
+| reagents =
+Aether;
+Agave Leaves*F2;
+Amber Dust*F2*WMV;
+Ancient Scroll*F3;
+Aquamarine*F3*WMV;
+Astral Shard*F2;
+Blood Moss*F4*WMV;
+Brass*F2;
+Bronze Gear;
+Ectoplasm*F5*WMV;
+Fish Fin*F5*WMV;
+Grendelweed*F2*WMV;
+Mithril*F3;
+Nickel*F5*WMV;
+Scales*F8*WMV;
+Silver*F6*WMV;
+Spider Silk;
+Spring*F3;
+Steel*F3;
+Sunstone*F2;
+Tin*F3;
+Tungsten*F3*WMV;
+Turquoise*F3;
+Vine*F3*WMV;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate;
+Beast Wellington;
+Chalupacabra;
+Chili Cheese Fries*F2;
+Chili Peppers*F3*WMV;
+Delicious Cookie;
+French Fries*F3*WMV;
+Gourmet Yogurt;
+High Road Haggis;
+Huge Ice Cream*F3;
+Jolly Rancher;
+Large Ice Cream;
+Mustachios;
+Polaris Fries*F4*WMV;
+Ships 'n' Queso*F6;
+Snow Apple Cider*F2;
+Submarine Sandwich*F2;
+Super Cold Popsicle;
+Veggie Juice;
+
+| jewels =
+Polished Defense Citrine +41;
+Polished Mana Opal +37;
+Polished Mana Opal +39;
+
+| pins =
+
+| pets =
+Glacier Dragon*F2*WMV;
+Mountain Yeti*CR*F2;
+Snowball*CR*F2;
+White Winter Owl*F2*WMV;
+
+| seeds =
+Angel Oak*F4*WMV;
+Boiled Peanuts;
+Burning Snap Dragon*F3;
+Cornbread Fruit Bush*F4*WMV;
+Evil Snow Peas*F4;
+Face Palm*F2;
+Fish on a Vine*F5;
+Frozen Fly Trap*F2;
+Goose Tree*F2;
+Green Snow Apples*F3;
+Ivy League*CR;
+King Parsley*CR*F3*WMV;
+Maelstrom Snap Dragon*F4*WMV;
+Moon Flower*F2*WMV;
+Purple Snow Apples*F3*WMV;
+Queen Crape Myrtle*F2;
+Snap Dragon*F5*WMV;
+Snow Apples*F2;
+Ultra Snap Dragon;
+Ultra Snow Apples;
+
+| mounts =
+
+| spells =
+
+}}

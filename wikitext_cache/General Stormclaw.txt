@@ -1,0 +1,179 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 2,400
+| crecla = Crab
+| school = Myth
+| cheats = Yes
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Storm;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| summons =
+Half-Witted Skeleton;
+Lazy Henchman;
+Tired Fighter;
+
+| world = Marleybone
+| location = Regent's Square
+| subloc1 = Warehouse (Spiral Geographic)
+| descrip =
+
+| speech =
+:''"Hey! The fight is on!... Where are those guys?! No good, half-blind skeletons! I told them to keep their good eye on the door!"''
+
+| cheatnotes =
+*At the beginning of the first Round, General Stormclaw will cast a '''-65%''' {{Link|Spell|Tower Shield}} on himself, and replace it whenever he is hit.
+**He will place another Tower Shield on himself every three to four Rounds.
+**Using {{Link|Spell|Steal Ward}} will bypass this cheat.
+*At the end of the first Round, he will cheat-cast Earthquake and summon his Minions.
+*He will cast a version of {{Link|Spell|Cleanse Ward}} that removes two negative Wards if a Trap is placed on him or his Minions, and removes {{Link|Spell|Weakness}} from himself and his Minions, and even sometimes from Wizards, but stops removing them after his Minions have been defeated.
+::Casting {{Link|Spell|Indemnity}} will cause him to use Cleanse Ward again, effectively making Indemnity useless.
+*''"I saw that!!"'' - If a Wizard attacks Tired Fighter then the following cheats will occur by interrupt.
+**Lazy Henchmen will cheat-cast {{Link|Spell|Rebirth}} healing '''750''' without absorbs.
+**Half-Witted Skeleton cheat-casts {{Link|Spell|Colossus}} after Rebirth cheat.
+***All Enemy Spells from the Wizard's team don't trigger this cheat.
+***Whenever Half-Witted Skeleton casts Blizzard, or Tired Fighter casts Tempest, only the Rebirth cheat will trigger.
+*''"Help me!"'' - If General Stormclaw is attacked, his Minions will cast the following spells:
+::*Lazy Henchman will cheat-cast {{Link|Spell|Rebirth}} (without absorbs). It will also cheat-cast this Spell if the Half-Witted Skeleton or Tired Fighter is attacked.
+::*Tired Fighter will cheat-cast {{Link|Spell|Storm Lord}}.
+:*For Spells that hit more than once (e.g. {{Link|Spell|Chimera}}, {{Link|Spell|Hydra}}, {{Link|Spell|Orthrus}}, {{Link|Spell|Minotaur}}, Damage over Times etc.), the Minions will cheat-cast their Spells for each time the Boss was hit.
+*The Round after all three Minions have been defeated, he will cheat-cast Frost Giant dealing '''475''' Damage.
+:*If all Minions are defeated in the same Round going first, he will activate this on the same turn, not the one after.
+
+| spellnotes =
+
+| casts =
+Storm Shield;
+Mythblade;
+Myth Trap;
+Natural Attack (Myth 105, 75%);
+Blood Bat;
+Cyclops;
+Humongofrog;
+Minotaur;
+Earthquake;
+Scorpion;
+Sunbird;
+Storm Shark;
+
+| quests =
+
+| gold =
+182 - 209;
+
+| hats =
+Cowl of Morbidity;
+Equalizer's Coif; 
+Halcyon Hood*F2;
+Mantle of the Icicle;
+Mythological Mantle;
+Promethean Hood;
+Storyteller's Cap;
+Veil of Passage;
+
+| robes =
+Blizzard Cloak;
+Fiery Tunic;
+Shibboleth Smock;
+Storm Giant's Surcoat;
+Verdant Vestment*F2;
+
+| boots =
+Ashen Footwraps;
+Boots of the Bountiful*F3; 
+Burning Boots;
+Frost Giant's Boots*F2*WMV;
+Rainstorm Waders*F2;
+Salamander-Hide Shoes*F3;
+Sandals of Neutrality*F2;
+Sandals of the Squall*F2;
+Shoes of the Whispering Dark;
+Wayfinder Boots*F15*WMV;
+
+| athames =
+Dauntless Dirk*F2;
+
+| amulets =
+
+| rings =
+Band of the Hearth;
+Ring of the Forefathers;
+
+| wands =
+
+| decks =
+
+| items =
+Small Corner Wall Ruins;
+
+| cards =
+Pest Zapper*F2; 
+Rebirth;
+
+| reagents =
+Copper*F3;
+Iron;
+Lead*F2; 
+Nickel*F2;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F4;
+Golden Grapes*F2; 
+Gummy Humongofrog*F3;
+King Banana*F3;
+
+| jewels =
+Blizzard Sapphire;
+Deer Knight Onyx;
+Drain Opal;
+Flawed Damage Amethyst +10;
+Flawed Damage Citrine +10;
+Flawed Damage Ruby +10; 
+Flawed Defense Amethyst +17;
+Flawed Defense Onyx +17;
+Flawed Defense Opal +9;
+Flawed Defense Peridot +17;
+Huge Energy Opal;
+Satyr Jade;
+Silence Opal;
+Siphon Opal;
+Storm-Proof Amethyst;
+Super-Stall Opal;
+Time of Legend Peridot;
+Wyldfire Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+Fiery Boom Shroom;
+Maelstrom Snap Dragon;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

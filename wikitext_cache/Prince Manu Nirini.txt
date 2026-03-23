@@ -1,0 +1,195 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 550
+| crecla = Krokotopian
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Ice;
+
+| incresist =
+60% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Krokomummy;
+
+| world = Krokotopia
+| location = Throne Room of Fire
+| descrip =
+Prince Manu Nirini is a Nirini Prince located in the [[Location:Pyramid of the Sun|Pyramid of the Sun's]] Throne Room of Fire.  He had an encounter with {{Link|NPC|Professor Winthrop}} upon the reawakening of the Kroks, whom he attacked with his Serpent Staff.  The Professor got away, and upon the Marleybonian team fighting their way back into the Pyramid with Wizards' help, realized that Manu's staff is essential to activating the Throne Room's {{Link|Location|Map Room}} and locating the hidden Order of the Fang.
+
+| speech =
+:''"Who goes there? You shall pay for disturbing me, young Wizard!"''
+
+| spellnotes =
+
+| casts =
+Fireblade;
+Fire Trap;
+Fire Cat;
+Fire Elf (50+210);
+Ash Bats;
+Sunbird;
+Fire Wyvern (335-395, 4 Pip);
+Natural Attack (Fire 100x);
+Ghoul;
+Cyclops;
+
+| quests =
+Serpent Staff;
+
+| gold =
+22 - 50;
+
+| hats =
+Bitter Cap*F3*WMV;
+Blazing Helm*F2;
+Cap of Burning Sands*F6*WMV;
+Cowl of Alacrity*F4*WMV;
+Cowl of Sensibility*F3;
+Cowl of Summertime*F3*WMV;
+Diviner's Hat of Squalls;
+Hat of the Mirage*F2;
+Headwrap of Annihilation;
+Manu's Hood of Power*F3*WMV;
+Rough-Hewn Hood;
+Rugged Hood;
+Runed Hood*F3;
+Thaumaturge's Cowl of Awe;
+Threadbare Hood;
+
+| robes =
+Cloak of Harmony;
+Cloak of Humility;
+Cloak of the Skies*F4;
+Maker's Vestment*F3*WMV;
+Manu's Vestment;
+Necromancer's Ivory Cloak*F2*WMV;
+Quixotic Robes*F2*WMV;
+Robe of the Oracle;
+Rough-Hewn Robe;
+Sphinx's Vestment*F2*WMV;
+Stout Robe;
+Sturdy Robe*F2;
+Vest of the Desert;
+Vest of the Oasis*F2;
+Vestment of Darkness;
+Vestment of the Arctic;
+
+| boots =
+Boots of the Citadel*F2;
+Boots of the Whirlwind;
+Charged Sandals*F3*WMV;
+Footwraps of the Arctic;
+Manu's Scorching Shoes*F2*WMV;
+Parched Sandals*F3*WMV;
+Polar Shoes;
+Sandals of Energy;
+Sandals of Refuge;
+Sandals of Tall Tales;
+Shoes of the Desert;
+Slippers of the Oasis;
+
+| athames =
+Dagger of Silence*F2*WMV;
+Dirk of Harmony;
+Glacial Dagger;
+Parched Kris*F2*WMV;
+Stiletto of Ignition*F5*WMV;
+Whirlwind Dagger;
+
+| amulets =
+
+| rings =
+Band of the Oasis*F3*WMV;
+Ring of the Badlands;
+Signet of Ancients*F3*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Bushy Palm Tree;
+Krok Insect Plaque;
+Prince Manu Nirini Statue*F3*WMV;
+Raised Fire Sarcophagus*F2*WMV;
+Red Floor Torch;
+Red Painted Column*F4*WMV;
+Serpent Seat*F3*WMV;
+
+| cards =
+Banshee*F2*WMV;
+Blizzard;
+Evil Snowman*F2*WMV;
+Giant;
+Krokomummy*F5*WMV;
+Pacify;
+Sandstorm;
+Sniper;
+Storm Trap;
+
+| reagents =
+Bone*F2;
+Copper*F2;
+Iron;
+Nickel*F4;
+Pyrite*F3*WMV;
+Spider Silk*F2;
+
+| spellements =
+
+| snacks =
+Cracker*F2;
+Green Grapes;
+Nettle Root*F2*WMV;
+Tiny Fish*F5*WMV;
+
+| jewels =
+Blood Bat Peridot;
+Cracked Accurate Peridot +2%;
+Cracked Accurate Ruby +2%;
+Cracked Accurate Sapphire +2%;
+Cracked Damage Citrine +4;
+Cracked Damage Sapphire +4;
+Cracked Defense Citrine +11*F2;
+Cracked Defense Opal +4;
+Cracked Defense Peridot +12;
+Dead End Opal;
+Ice-Giver Sapphire;
+Imp Jade;
+Life-Eye Jade;
+Myth-Eye Peridot;
+Scarab Citrine;
+Stumble Opal;
+
+| pins =
+
+| pets =
+Fire Salamander*F4*WMV;
+
+| seeds =
+Alligator Pear Tree*F4;
+Pink Dandelion*CR*F8*WMV;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,100 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 1,300
+| crecla = Undead 
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
++25 Ice, Myth;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = No
+| minions =
+Lichling;
+
+| world = Housing Instance
+| location = Liches & Legends Gauntlet
+| subloc1 = 
+| descrip =
+Defeating the Earl of Lichenten in this fight will cause him to not be present in the fight against King Avernus.
+
+| speech =
+
+| spellnotes =
+*Casts a 0-Pip Natural Attack that deals 100 Death Damage.
+*Casts a 1-Pip version of Banshee that deals 200 Death Damage.
+*Casts a 2-Pip version of Headless Horseman that deals 300 Death Damage and applies a -100 Damage Charm.
+
+| casts =
+
+| quests =
+Liches & Legends;
+
+| gold =
+9 - 34;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Gorilla Tree Throne;
+Raven Claw Totem;
+
+| cards =
+
+| reagents =
+Graph Paper @ 2 Graph Paper;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Archmastery Boost Opal;
+Death-Giver Onyx;
+Fire-Giver Ruby;
+Mighty Opal;
+Myth-Giver Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Earl of Lichenten
+}}

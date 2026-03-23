@@ -1,0 +1,136 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 12,090
+| crecla = Mander
+| school = Balance
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+45%;
+
+| stunable = No
+| beguilable = No
+| minions =
+Fire Cybermander (Tier 5);
+Myth Cybermander (Tier 5);
+
+| world = Housing Instance
+| location = Doomsday Krok Gauntlet
+| subloc1 = Doomsday Krok Gauntlet (Tier 5)
+| descrip =
+For the purpose of drops, Balance Cybermander (Tier 5) is considered a Boss.  All drops are recorded on this page.
+*An {{Link|Creature|Ice Cybermander (Tier 5)}} appears if more than two Wizards are present.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Basically, an ordinary Mander with machiny bits tacked on. Also, ruthless, devoid of sentiment and armed to the tail.
+
+| extract class =
+Mander;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| altlink = Balance Cybermander
+
+| spellnotes =
+'''Natural Attack:'''
+*Four Pip maximum, despite what the Spell description indicates.
+
+| casts =
+Elemental Defuse;
+Spirit Defuse;
+Donate Power;
+Mana Burn;
+Balance of Power;
+Supernova;
+Natural Attack (Balance 105-210-315, 80%);
+Mighty Judgement;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Krok Balance Plaque;
+Krok Doomsday Combat Theme;
+Krok Ice Plaque;
+Krok Insect Plaque;
+Krok Moon Plaque;
+Krok Skull Plaque;
+Krok Snake Plaque;
+Krok Storm Plaque*F2;
+
+| cards =
+Locust Swarm;
+Mander*F2;
+Namaste;
+Nekhbet;
+Phoenix;
+Plague;
+Scarab;
+Wormguts;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Black Sun Seeds;
+Buttered Popcorn;
+Cracker;
+Gator Tots;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

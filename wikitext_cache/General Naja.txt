@@ -1,0 +1,183 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 11,760
+| crecla = Viper
+| crecla2 = Snake
+| school = Death
+| shadowslots = 
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+4%;
+
+| outboost =
+65%;
+
+| incboost =
+15% Life;
+
+| incresist =
+30% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minion = Viper Soldier
+| minion2 = 
+| world = Mirage
+| location = Istanboa
+| subloc1 = Officer's Club
+| descrip =
+
+| spellnotes =
+
+| casts =
+Brace;
+Sacrifice (Death);
+Deathblade;
+Dark Pact (+30%);
+Feint (+75%);
+Ghoul (180);
+Natural Attack (Death 110-220-330, 80%);
+Vampire (375);
+Wraith (575);
+
+| quests =
+Serpentine Love Story;
+
+| gold =
+322 - 737;
+
+| hats =
+Vizier's Desert Snow Mantle;
+
+| robes =
+Sand Sea Outfit of Decorum;
+Zruvan Flashflood Raiment*F2;
+Zruvan Galesh of Amity;
+
+| boots =
+Vizier's Shoes of Sagacity;
+Vizier's Shoes of Smolders;
+Zruvan Galesh of Mettle;
+
+| athames =
+Sand Sea Dagger of Ashes;
+
+| amulets =
+Kobra Choker of Demise;
+Sand Sea Amulet of Ardor;
+
+| rings =
+
+| wands =
+Durvish Armaments of Impulse;
+Thundering Rubal Bow;
+
+| decks =
+Sand Sea Hand of Havoc;
+
+| items =
+Mirage Canyon Combat Theme;
+Mirage Caravan Theme;
+Mirage Chronoverge Com Theme;
+Mirage Desert Canyons Theme;
+Mirage Magic Carpet Theme;
+Mirage Palace Theme;
+
+| cards =
+Arcticzilla;
+Astraphobia;
+Balefrost;
+Fiery Colossus;
+Katabatic Wind;
+Mutate Colossus (Fire);
+Namaste;
+Shock Colossus;
+
+| reagents =
+Aether*F3;
+Agave Leaves;
+Amber*F2;
+Amber Dust*F2;
+Aquamarine*F3;
+Braided Vine;
+Fire Blossom*F2;
+Fish Fin*F2;
+Golden Pearl;
+Iridium;
+Mithril*F2;
+Scales;
+Silver;
+Sunstone*F2;
+Titanium*F2;
+Tungsten*F2;
+Turquoise*F2;
+Vine;
+
+| snacks =
+Aztecan Hot Chocolate;
+Beast Wellington*F2;
+Beetle Cream Soda;
+Chalupacabra;
+Eye Candy;
+Fern Jelly;
+Green Tomato;
+Hard Boiled Beetle Eggs;
+Hot Cross Buns*F2;
+Mustachios;
+Satyr Chow*F2;
+Ships 'n' Queso*F2;
+Veggie Juice*F3;
+
+| jewels =
+Lustrous Blocking Ruby +13;
+Lustrous Damage Peridot +23;
+Lustrous Damage Ruby +23;
+Polished Damage Jade +21;
+Polished Health Opal +91;
+Polished Health Opal +94;
+Polished Mana Opal +39*F2;
+Radical Opal;
+Shiny Critical Hematite +16;
+Shiny Damage Hematite +52;
+Shiny Health Opal +113;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47;
+
+| pets =
+MaCaw*CR;
+
+| seeds =
+Alligator Pear Tree;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts;
+Boon Tree*CR;
+Clockwork Flower;
+Evil Snow Peas;
+Face Palm;
+Fish on a Vine;
+Golden Couch Potatoes*F2;
+Grapes of Wrath*CR;
+Laugh-O-Dil;
+Pink Huckleberries;
+Red Bell Pepper;
+Red Couch Potatoes;
+Red Grapes of Wrath;
+Red Huckleberries*F2;
+Saw Palmetto;
+Snow Apples;
+Venus Fly Trap;
+White Desparagus;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

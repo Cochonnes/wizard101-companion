@@ -1,0 +1,130 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,600
+| crecla = Elephant
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Storm;
+
+| incresist =
+70% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Simoom Shaman;
+
+| world = Zafaria
+| location = Stone Town
+| subloc1 = Kasbah of Zanj
+| descrip =
+This Elephant Soldier is being controlled by Warlord Varos, and Conjurers will need to free him from his will during the Level 75 Minion Quest, The Magic of Vassanji.
+
+| speech =
+:''"Not this, not that, but we stand in the in-between Wizard.  We will both be changed by this duel forever.  Who will we be after?"''
+
+| spellnotes =
+
+| casts =
+Storm Shield;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Cyclops;
+Humongofrog;
+Scorpion;
+Storm Shark;
+
+| quests =
+The Magic of Vassanji;
+
+| gold =
+43 - 44;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Centaur;
+Colossus;
+Earthquake*F2;
+Helephant;
+Ice Wyvern;
+Minotaur;
+Satyr;
+Skeletal Pirate;
+Spectral Blast*F2;
+Stormzilla;
+Wraith;
+
+| reagents =
+Cat Tail*F2;
+Black Lotus;
+Deep Mushroom*F2;
+Nickel;
+Ore;
+Parchment*F2;
+Pearl*F2;
+Red Mandrake;
+Shell;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F2;
+Flaming Soup;
+Glowing Dragon Fruit;
+Goat Cheese;
+Golden Apple;
+Golden Grapes*F2;
+Gummy Humongofrog;
+King Banana;
+Salmonberry;
+Shiny Tomato;
+Uni-Corn;
+
+| jewels =
+Dull Damage Sapphire +13;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

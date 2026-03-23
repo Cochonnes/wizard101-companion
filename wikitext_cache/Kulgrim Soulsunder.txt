@@ -1,0 +1,223 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 6,650
+| crecla = Undead
+| school = Ice
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| randomminions =
+Snow Skull;
+Winter Skull;
+
+| totalminions =
+1
+
+| world = Grizzleheim
+| location = Nastrond
+| subloc1 = Kulgrim's Lair
+| descrip =
+An additional Snow Skull or Winter Skull will appear if more than two Wizards are present.
+
+| speech =
+:''"The Coven has promised me a world of ice should I keep this rune from you! You cannot prevail!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+With a rather grim sense of humor, their desire to be sidesplitting comedians is far-fetched. Their use of threats doesn't help.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Stun Block;
+Iceblade;
+Ice Trap;
+Ice Prism;
+Blizzard;
+Ice Wyvern;
+Blight Hound;
+Colossus;
+Tundra Lord;
+Natural Attack (Ice 85x, 80%);
+
+| quests = 
+Hammer Don't Hurt 'Em;
+
+| gold =
+85 - 137;
+
+| hats =
+Cold-Kissed Cowl;
+Cowl of Crackling;
+Grizzled Helm;
+Horned Helm of Bravery*F2;
+Horned Helm of the Mighty;
+Horned Helm of the North;
+Horns of Absolution;
+Horns of Calamity;
+
+| robes =
+Armor of Elan*F2;
+Black Ice Armor;
+Blustering Coat*F2*WMV;
+Chill-Kissed Coat;
+Hardy Coat;
+Jerkin of the Great Bear;
+Mocking Raiment;
+
+| boots =
+Barbarian's Brave Boots;
+Barbarian's Courage Boots;
+Barbarian's Daring Boots;
+Barbarian's Fearless Boots;
+Barbarian's Valorous Boots;
+Boots of Anguish;
+Boots of Honor*F2;
+Firewalker Boots;
+Raven's Alert Boots;
+Raven's Boots of Balance*F2;
+Raven's Covered Boots*F2;
+Raven's Guarded Boots*F2*WMV;
+Raven's Protected Boots*F3*WMV;
+Raven's Shielded Boots;
+Raven's Tricksy Boots*F2*WMV;
+White Frost Boots*F3;
+
+| athames =
+Bear's Claw of Balance;
+
+| amulets =
+Dragon Smoke Amulet;
+
+| rings =
+Amethyst Ring of Battle*F3;
+Black Spinel of Battle*F2*WMV;
+Golden Ring of Battle*F2;
+Jade Ring of Battle*F3*WMV;
+Peridot Ring of Battle;
+Ring of Brother Wolf;
+Ring of the Hungry Wolf;
+Ring of the Wolf Warrior;
+Ring of Wolf Blood;
+Ring of Wolf Lore*F2;
+Ruby Ring of Battle;
+Sapphire Ring of Battle*F3*WMV;
+
+| wands =
+Cloudberry Staff*F2;
+Spear of Bear's Wrath*F3*WMV;
+Staff of Absolution*F3;
+
+| decks =
+
+| items =
+Grizzleheim Pet Derby Theme*F8*WMV;
+
+| cards =
+Balefrost;
+Banshee;
+Donate Power;
+Frozen Armor*F12*WMV;
+Legion Shield*F6*WMV;
+Minotaur;
+Precision;
+Satyr;
+Sniper;
+Storm Shark;
+Tough;
+
+| reagents =
+Bone*F12*WMV;
+Brass;
+Cobalt*F2;
+Nickel;
+Steel*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Cauliflowers*F2;
+Flaming Soup;
+Glowing Dragon Fruit*F2;
+Glowing Star Fruit;
+Glowing Taffy*F2*WMV;
+Golden Apple*F2;
+Golden Grapes;
+King Banana;
+Salmonberry*F2*WMV;
+Shiny Tomato*F3*WMV;
+Spicy Drumstick*F3;
+Strawberry Cupcake*F2*WMV;
+Uni-Corn*F3*WMV;
+
+| jewels =
+Aura Crush Citrine;
+Buff Minion Talent Peridot;
+Draconian Opal;
+Mass Fire Prism Ruby;
+Mass Ice Prism Sapphire;
+Mass Life Prism Jade;
+Plain Blocking Sapphire +6;
+Plain Damage Sapphire +15;
+Reshuffle Citrine;
+Sap Health Talent Citrine;
+Storm Elemental Opal;
+Storm-Tooth Amethyst;
+Ultra Mute Opal;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2;
+Fickle Pickle;
+Helephant Ears;
+Orange Dandelion;
+White Desparagus;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,129 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 5,570
+| crecla = Train Boss
+| school = Myth
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+75%;
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Ms. Felicity (Tier 3);
+Daniel McCoil (Tier 3);
+Kenny Rooster (Tier 3);
+
+| world = Housing Instance
+| location = Great Sky Train Robbery Gauntlet
+| subloc1 = Great Sky Train Robbery Gauntlet (Tier 3)
+| descrip =
+For the purpose of drops, N. Bison (Tier 3) is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+{{Icon|Myth}} '''N. Bison'''
+*{{Icon|Late}} ''"Not enough on your own? Then fall!"'' - If a Wizard joins the duel after the first Round, N. Bison will cast a Myth Spell that confuses the Wizard for two Rounds.
+*{{Icon|Manipulation}} ''"Bow before my Psycho Power!"'' - At the beginning of the first Round and every ?? Rounds thereafter, N. Bison will cast a Myth Spell that confuses each Wizard for two Rounds.
+*{{Icon|Damage}} ''"PSYCHO DEFLECTION!"'' - If N. Bison is attacked, he will retaliate by casting his Natural Attack, taking 20% of the Wizard's max Health.
+
+{{Icon|Balance}} '''Ms. Felicity'''
+*{{Icon|Blade}} ''"Blades off the table!"'' - If a Wizard casts a Blade on another Wizard, Ms. Felicity (Tier 3) will cheat-cast {{Link|Spell|Disarm}} on the Wizard who received the Blade.
+*{{Icon|Trap}} ''"Nobody likes a cluttered battle"''' - If a Wizard casts a Trap, Ms. Felicity will cheat-cast {{Link|Spell|Cleanse Ward}} on the target of the trap.
+*{{Icon|Health}} ''"Your invitation has been rescinded"'' - If Kenny Rooster (Tier 3)'s Health falls below ~20%, Ms. Felicity (Tier 3) will cast a Shadow Spell that instantly expels him from the duel.
+
+{{Icon|Death}} '''Daniel McCoil'''
+*{{Icon|Spell}} ''"DRINK THIS MILKSHAKE!"'' - Daniel McCoil will interrupt-cast a Death Spell giving all Wizards one of the following spells:
+**{{Link|Spell|Free Sample}}
+**{{Link|Spell|Snake Oil}}
+*{{Icon|Health}} ''"I'm afraid you're of no further use"'' - If Ms. Felicity (Tier 3)'s Health falls below ~20%, Daniel McCoil (Tier 3) will cast a Shadow Spell that instantly expels her from the duel.
+
+{{Icon|Fire}} '''Kenny Rooster'''
+*{{Icon|Aura}} ''"The chickens come home to roast!"'' - If a Wizard casts an Aura, Kenny Rooster (Tier 3) will cast a Natural Attack dealing 300 Fire Damage, which destroys the Aura. A graphic bug during this spell shows inflicted Damage twice.
+*{{Icon|Health}} ''"Time to fold 'em, partner"'' - If Daniel McCoil (Tier 3)'s Health falls below ~20%, Kenny Rooster (Tier 3) will cast a Shadow Spell that instantly expels him from the duel.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Myth Damage.
+
+| casts =
+Quicken;
+Storm Shield (-85%);
+Mythblade;
+Myth Prism;
+Mass Myth Prism;
+Athena Battle Sight;
+Minotaur (50+520);
+Earthquake (425);
+Orthrus (785);
+
+| quests =
+Insane In The Gem Train;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+Prairie Rambler's Boots (Level 70+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Bad Juju;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+7 Layer Taco;
+Chili Peppers;
+Potato Chips;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| elixirs =
+
+}}

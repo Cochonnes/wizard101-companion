@@ -1,0 +1,166 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 3,200
+| crecla = Wizard
+| crecla2 = Undead
+| school = Myth
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Dragonspyre
+| location = The Crucible
+| subloc1 = 
+| descrip =
+Iona Pyrelance is one of the summoned crystal bosses, the first one on the right hand side. Defeating her 7 times rewards the Wizard weaving into Life magic with the Pyrelance Extinguisher badge.
+
+| speech =
+:''"I am Iona Pyrelance. I battled my way past the guards of King Betrin and won the Knowledge Crystals that saved my world. Because of me, many have learned the knowledge once reserved for kings! Show me, student, whether you will fight for knowledge!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+Protector of the Knowledge Crystals, Iona Pyrelance serves dutifully even in death.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Storm Shield;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Cyclops;
+Humongofrog;
+Minotaur;
+Earthquake;
+Scorpion;
+Sunbird;
+Storm Shark;
+
+| quests =
+Justice Hurts;
+Pigswick and the Sorcerous Stone;
+
+| gold =
+60 - 70;
+
+| hats =
+Blazing Bonnet*F5*WMV;
+Herbalist's Hood*F6*WMV;
+Mantle of the Undying*F3*WMV;
+Pyrelance's Downpouring Hood*F3*WMV;
+
+| robes =
+Chilling Cloak*F3*WMV;
+Coat of Impartiality*F4*WMV;
+Ice-Drake's Tunic*F4*WMV;
+Librarian's Robes*F3*WMV;
+
+| boots =
+Blizzard Boots*F4;
+Footgear of Corporeality*F2*WMV;
+Mocassins of the Gale*F3*WMV;
+Pyrelance's Glacial Striders;
+Shoes of Equilibrium*F4*WMV;
+Vineyard Shoes*F3*WMV;
+
+| athames =
+Blade of Ashes*F2*WMV;
+Scaled Smallsword*F4*WMV;
+
+| amulets =
+
+| rings =
+Ring of Equilibrium*F3;
+Ring of Truthiness*F3*WMV;
+
+| wands =
+
+| decks =
+Deck of the Devouring Flame*F2*WMV;
+
+| items =
+Arboreal Marker*F2*WMV;
+Draconic Street Light*F2*WMV;
+
+| cards =
+
+| reagents =
+Brass*F2;
+Cobalt*F2;
+Leather Straps*F7*WMV;
+Nickel*F2*WMV;
+Tin*F4*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Dull Blocking Jade +4;
+Dull Blocking Opal +2;
+Dull Blocking Peridot +4;
+Dull Blocking Ruby +4;
+Dull Blocking Sapphire +4;
+Dull Damage Amethyst +13*F2*WMV;
+Dull Damage Citrine +13;
+Dull Damage Peridot +13;
+Dull Damage Sapphire +13;
+Dull Defense Opal +14;
+Effervescent Opal;
+Fire-Giver Ruby;
+Fire-Shot Ruby;
+Hydra Citrine;
+Life-Away Jade;
+Life-Boon Jade;
+Mega-Upset Opal;
+Plain Blocking Opal +3;
+Sanctuary Jade*F2*WMV;
+Storm-Boon Amethyst;
+Stormzilla Amethyst;
+Super-Sap Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

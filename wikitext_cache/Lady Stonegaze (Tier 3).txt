@@ -1,0 +1,119 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 10,080
+| crecla = Gorgon
+| school = Myth
+| shadowslots = 2
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+23%;
+
+| outboost =
+150%;
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Garden of Hesperides
+| subloc1 = Stonegaze's Chamber
+| badge = Gorgon Grappler
+| descrip =
+Lady Stonegaze (Tier 3) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Immortal's Spellemental Pack}}.
+*This Tier is for level 51-109 Wizards.
+
+| speech =
+
+| cheatnotes =
+*''"Mind your gaze, lest ye be turned to stone!"'' - Lady Stonegaze (Tier 3) gives a warning at the beginning of the first Round. 
+*{{Icon|Polymorph}} ''"Haha! Another statue for my garden!"'' - If a Wizard casts any Spell on Lady Stonegaze (Tier 3), including AoE Spells, she will Polymorph the Wizard into {{Link|Polymorph|Statue}} for 99 Rounds.
+**Polymorph has a deck of 77 Cards, all being {{Link|Spell|Pass}} Cards, except for one {{Link|Spell|Break Free (Myth)}} Card.
+**If Lady Stonegaze (Tier 3) was defeated by a Spell that is not from the Blindfolded Hits, she will use a Moon version of {{Link|Spell|Blessing}} to restore 100% max Health on herself.
+
+*{{Icon|Round}} At the beginning of every other Round, one of the following Spells is given to all Wizards who aren't Polymorphed:
+**{{GivesSpell|spells = 7|size = x150px|Blindfolded Hit (Balance, Tier 3)|Blindfolded Hit (Death, Tier 3)|Blindfolded Hit (Fire, Tier 3)|Blindfolded Hit (Ice, Tier 3)|Blindfolded Hit (Life, Tier 3)|Blindfolded Hit (Myth, Tier 3)|Blindfolded Hit (Storm, Tier 3)}}
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Mass Myth Trap;
+Mythic Fuel;
+Athena Battle Sight (Tier 4a);
+Mystic Colossus;
+Witch's House Call (No Minion);
+Orthrus;
+Medusa;
+Hephaestus (Tier 4);
+Queen Calypso (Tier 4b);
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Participation Trophy*F2;
+
+| spellements =
+Athena Battle Sight;
+Hephaestus;
+Queen Calypso;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Enchanted Armament*CR;
+Mechanical Owl;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

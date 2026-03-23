@@ -1,0 +1,176 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 3,510
+| crecla = Goliath
+| crecla2 = Insect
+| school = Storm
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life;
+
+| incresist =
+40% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Shadow-Web Haunt (Zafaria);
+
+| world = Zafaria
+| location = Zamunda
+| subloc1 = Magician's Hut
+| descrip =
+Despite being a Boss, the Goliath Chon'darr'hna has the Boost and Resist values of a non-Boss.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Zafaria
+| tome description =
+One of several agents working for the master of disguise, Tse-Tse Snaketail.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 125-265-405, 70%);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Tempest;
+
+| quests =
+The Snake's Footprints;
+
+| gold =
+45 - 109;
+
+| hats =
+Bushfire Hat;
+Hood of the Forgotten;
+Mask of Mirror Lake*F3;
+Mask of the Great Patapon*F3;
+
+| robes =
+Graveyard Shift*F5*WMV;
+Jacket of No Worries;
+
+| boots =
+Ananse's Dark Rangers;
+Dancing Queen Dancers*F4*WMV;
+Fire Lion's Storm Wraps;
+Hunter Prey Rangers;
+Nemean Rock Climbers;
+
+| athames =
+Zebra's Hoof*F4*WMV;
+
+| amulets =
+Shango's Shield Pendant;
+Storied Amber Shield Pendant*F3*WMV;
+
+| rings =
+Mandisa's Star Stone;
+Nergal's Burning Brand*F3*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Empower*F4*WMV;
+Gargantuan*F3;
+Infallible;
+Insane Bolt*F4*WMV;
+Monstrous;
+Polymorph Colossus*F2*WMV;
+Polymorph Elemental (Fire);
+Polymorph Treant;
+Stun Block;
+Supercharge*F4*WMV;
+Unstoppable*F3*WMV;
+Vengeance;
+
+| reagents =
+Brass;
+Bronze;
+Cobalt;
+Ectoplasm*F4*WMV;
+Leather Straps*F4*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F3;
+Flaming Soup;
+Flapjacks*F2;
+Glowing Taffy;
+Goat Cheese;
+Golden Apple;
+Golden Grapes;
+Gummy Humongofrog*F3*WMV;
+Jelly Baby*F2*WMV;
+King Banana*F2;
+Kola Nuts;
+Submarine Sandwich*F2;
+
+| jewels =
+Exhausted Opal;
+Opaque Critical Ruby +7;
+Opaque Damage Opal +9;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Deadly Fly Trap;
+Fickle Pickle*F2*WMV;
+Helephant Ears;
+Orange Bell Pepper*CR;
+Red Bell Pepper;
+Rye Bread Fruit Bush*F2;
+Snap Dragon;
+Venus Fly Trap;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

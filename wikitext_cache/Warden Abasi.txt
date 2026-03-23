@@ -1,0 +1,164 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,840
+| crecla = Krokotopian
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sokkwi Oppressor;
+Sokkwi Oppressor;
+
+| world = Krokotopia
+| location = Tomb of the Beguiler
+| descrip =
+Like several Creatures in the Tomb of the Beguiler, Warden Abasi can drop Krokotopia and Marleybone Items.
+
+| speech =
+:''"Halt! None shall pass! No one but Krok royalty is allowed beyond this point. Especially not any Wizard peasants!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Tower Shield;
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Ice Elf (30+210);
+Evil Snowman;
+Snow Shark;
+Ice Wyvern;
+Banshee;
+
+| quests =
+Prison Break (Krokotopia);
+
+| gold =
+16 - 27;
+
+| hats =
+Affable Cowl;
+Bitter Cap;
+Cowl of Respect;
+Cowl of the Consummate;
+Cowl of the Fortress;
+Cryptkeeper's Circlet*F2*WMV;
+Debonair Cap*F2*WMV;
+Exquisite Cowl;
+Finely Finished Mask*F2;
+Helm of Intolerance*F2;
+Helm of the Citadel;
+Savvy Cap;
+Smooth Spun Hat*F2*WMV;
+Threadbare Hood;
+Watchman's Hat;
+
+| robes =
+Distressing Garment*F2;
+Finely Finished Cloak;
+Sphinx's Vestment;
+
+| boots =
+Boots of Sparking Energy*F3;
+Boots of the Whirlwind;
+Cat Burglar's Shoes;
+Flowering Shoes;
+Footwraps of Dreamland*F3;
+Pastoral Boots;
+Sandals of Refuge*F2*WMV;
+Sandals of Tall Tales;
+Shoes of Anxiety*F2*WMV;
+Shoes of Bottled Anger;
+Shoes of Humanity;
+Shoes of Mortality;
+Shoes of the Breakneck*F2*WMV;
+Shoes of the Desert;
+Slippers of Definition;
+
+| athames =
+Athame of Chivalry;
+Conventional Dagger;
+Detective's Dagger;
+Dirk of Harmony;
+Dirk of Nobles*F2*WMV;
+Graceful Stiletto*F2;
+Parched Kris*F3*WMV;
+Whirlwind Dagger;
+
+| amulets =
+
+| rings =
+Band of Equilibrium;
+
+| wands =
+
+| decks =
+
+| items =
+Hieroglyphic Storm Tablet;
+Krok Insect Tablet*F2;
+Krok Moon Tablet;
+Tall Palm Tree*CR;
+
+| cards =
+Accurate;
+Blizzard;
+Krokotillian*F3*WMV;
+
+| reagents =
+Bronze Gear;
+Iron;
+Lead;
+Pyrite;
+Tin;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Cracker;
+Green Grapes*F3*WMV;
+Nettle Root*F2*WMV;
+Square Watermelon;
+Tiny Fish;
+
+| jewels =
+Balance-Eye Citrine;
+Scorpion Citrine;
+Thermic Shield Amethyst;
+Weakness Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

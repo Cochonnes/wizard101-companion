@@ -1,0 +1,252 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 10,935
+| crecla = Lemur
+| crecla2 = Koolakamba
+| school = Myth
+| startpips = 5
+| shadowslots = 1
+| powerpips = Yes
+| schoolpips =
+Myth;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+25%;
+
+| outboost =
+119%;
+
+| incboost =
+5% Storm;
+
+| incresist =
+73% Myth;
+
+| outhealing =
+40%;
+
+| inchealing =
+44%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions = Trained Carnosaur;
+
+| world = Lemuria
+| location = Telos
+| subloc1 = Sanctum of Purpose
+| descrip =
+For the purpose of drops, Koolakamba Beastmaster is considered a Boss. All drops are recorded on this page.
+*Two {{Link|Creature|Koolakamba Warrior}}s will appear if more than two Wizards are present.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Reliquary;
+Grendel's Amends (Tier 5a);
+Mythblade;
+Myth Trap;
+Mythic Fuel;
+Keeper of the Flame;
+Splashsquatch (235-295);
+Serpent Beguiler;
+Natural Attack (Myth 115-230-345-460);
+Basilisk (645-685);
+Mystic Colossus;
+Barbarian's Saga (Tier 3a);
+Witch's House Call (No Minion);
+Boreas Ifrit (800);
+
+| quests =
+Sancless Job;
+
+| gold =
+0 - 247;
+
+| hats =
+
+| robes =
+
+| boots =
+Lemurian Barbarian Shoes;
+Lemurian Firewall Shoes;
+
+| athames =
+Lemurian Teleological Athame;
+Lemurian Undaunting Athame;
+Lemurian Undead Athame;
+
+| amulets =
+Lemurian Ferocious Talisman;
+Lemurian Hex Talisman;
+
+| rings =
+Lemurian Ancient One Ring;
+Lemurian Deflector Ring;
+
+| wands =
+Lemurian Stability Staff;
+
+| decks =
+Lemurian Deflector Deck;
+Lemurian Ferocious Deck;
+
+| items =
+Cargo;
+Lemuria Forest Theme;
+Lemuria Jungle Combat Theme;
+Lemuria Lab Combat Theme;
+Lemuria Minds Theme;
+Lemuria Mystery Theme;
+Lemuria Telos Theme 1;
+Lemuria Telos Theme 4;
+Periodic Table Poster;
+
+| cards =
+Berserk;
+Centaur;
+Dream Shield;
+Elemental Blade;
+Elemental Spear;
+Ether Shield;
+Feint;
+Fire Prism;
+Flute Symphony;
+Frostbite;
+Gargantuan;
+Link;
+Mass Fire Prism;
+Mass Ice Prism;
+Mass Life Prism;
+Mass Myth Prism;
+Pacify;
+Uncanny Magic;
+Zounds...Bees!;
+
+| reagents =
+Amber Dust;
+Aquamarine;
+Ectoplasm;
+Mithril;
+Nickel;
+Scales*F2*WMV;
+Silver;
+Stardust;
+Steel;
+Sunstone*F2;
+Synthonium;
+Tin;
+Tungsten;
+Turquoise;
+
+| spellements =
+Barbarian's Saga;
+Dark & Stormy;
+Freeze Ray;
+
+| snacks =
+Beast Wellington;
+Bell Pepper Steak;
+Boiled Spider Legs;
+Catfish Stevens;
+Cauliflowers;
+Chapulines;
+Desparagus Salad;
+Eggplant;
+Fuzzy Peach Fizz;
+Golden Biscuit;
+Golden Candy Bar;
+Golden Peanut;
+Golden Squash;
+Huge Ice Cream;
+Large Fish;
+Large Watermelon;
+Marzipan Maize;
+Moon Pie;
+Poncherello Chips;
+Rock and Roll Candy;
+Taco;
+
+| jewels =
+Balance Assailant Citrine;
+Balance Striker Citrine;
+Balance-Boon Citrine;
+Balance-Dealer Citrine;
+Dazzling Accurate Peridot +14%;
+Dazzling Critical Jade +19;
+Dazzling Defense Hematite +58;
+Dazzling Defense Jade +58;
+Dazzling Defense Onyx +58;
+Death-Giver Onyx;
+Fire-Proof Ruby;
+Healer Opal;
+Ice-Eye Sapphire;
+Life-Boon Jade;
+Life-Proof Jade;
+Myth Assailant Peridot;
+Myth Striker Peridot;
+Myth-Shot Peridot;
+Sparkling Accurate Jade +13%;
+Sparkling Defense Opal +27;
+Sparkling Mana Opal +49;
+Storm-Boon Amethyst;
+Storm-Dealer Amethyst;
+Unbalancer Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Baby Carrots;
+Bamboo Shoots;
+Bell Pepper;
+Blue Huckleberries;
+Boon Tree*CR;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Dandelion;
+Deadly Fly Trap;
+Fickle Pickle;
+Fiery Boom Shroom;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Helephant Ears;
+Honey Bee Plant;
+Ivy League*CR;
+King Parsley*CR;
+Laugh-O-Dil;
+Ninja Fig*CR;
+Orange Bell Pepper*CR;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Red Couch Potatoes*F3*WMV;
+Red Huckleberries*F2;
+Rotten Beets;
+Rye Bread Fruit Bush*F2;
+Saw Palmetto;
+Snap Dragon;
+Sword Fern*CR;
+Tiger Lily (Seed);
+Ultra Boom Shroom;
+Ultra Helephant Ears;
+Vampire Carrots*F2*WMV;
+Venus Fly Trap;
+White Tiger Lily;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

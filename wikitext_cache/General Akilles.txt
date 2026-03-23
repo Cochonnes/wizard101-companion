@@ -1,0 +1,252 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 470
+| crecla = Giant
+| crecla2 = Cyclops
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+10% Storm;
+
+| incresist =
+40% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Cyclops Legionnaire;
+
+| world = Wizard City
+| location = Cyclops Lane
+| subloc1 = Akilles' Tower
+| lootchest = General Akilles's Chest
+| descrip =
+General Akilles is the excessively honorable, yet not especially bright, leader of the rebellious Cyclops forces occupying Cyclops Lane.
+
+*Two additional Cyclops Legionnaires will appear if more than two Wizards are present.
+
+| speech =
+:''"One of you comes to face me at last. Know this: I seized Cyclops Lane, but it was not my choice."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+He's honor-bound to be bound by honor to honorably bind captured Wizards.
+
+| extract class =
+Cyclops;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Myth Trap;
+Blood Bat;
+Natural Attack (Myth 200);
+Troll;
+Natural Attack (Myth 300);
+Cyclops;
+Natural Attack (Myth 100x, 75%);
+Frost Beetle;
+Fire Cat;
+Thunder Snake;
+
+| quests =
+Akilles' Deal;
+
+| gold =
+9 - 21;
+
+| hats =
+Akilles' Blazing Helm*F4*WMV;
+Cloudburst Helm*F10*WMV;
+Firestorm Cap*F2;
+Healer's Cowl*F2;
+Helm of Stability*F2;
+Hood of Storms;
+Hood of Tension;
+Imp Lord's Helm*F2;
+Novice's Hat*F2*WMV;
+Novitiate Hat*F3*WMV;
+Roughspun Hat*F2;
+Soft Hood*F2;
+Stormweave Hood*F3;
+Trollskin Hat*F9*WMV;
+
+| robes =
+Barkskin Tunic*F4*WMV;
+Canvas Cloak*F8*WMV;
+Chillcloak*F2;
+Cloak of Calamity*F2;
+Cloak of Foresight;
+Fairy Cloak*F2;
+Novice's Robe*F2;
+Novitiate Robe*F3*WMV;
+Robe of Antiquities*F2;
+Roughspun Robe;
+Scholarly Robes;
+Stormcaller's Robe;
+Sturdy Coat*F2;
+Trollskin Cloak;
+Tunic of Disturbance*F9*WMV;
+Twice Stitched Robe*F3*WMV;
+Vestment of the Adverse*F2;
+
+| boots =
+Adventurer's Boots;
+Canvas Wraps*F2;
+Cloudburst Wraps*F9*WMV;
+Explorer Boots*F2;
+Fairy Shoes;
+Goldleaf Shoes*F10*WMV;
+Hardened Boots;
+Martyr's Wraps;
+Northland Footwraps*F3*WMV;
+Novice's Shoes*F2;
+Novitiate Boots*F4*WMV;
+Plated Boots*F2;
+Roughspun Shoes*F3*WMV;
+Slippers of Rites;
+Soft Boots*F2*WMV;
+Soldiers Wraps;
+Storm Wraps;
+Sturdy Boots;
+Twice Stitched Boots;
+
+| athames =
+Jade Studded Athame*F7*WMV;
+Jeweled Dagger*F2;
+Ritual Athame;
+Simple Dirk;
+
+| amulets =
+Amulet of the Fay*F3;
+
+| rings =
+Flawed Pearl Ring*F2;
+Hallowed Band*F2;
+
+| wands =
+Bolt Blade*CR*F3;
+Resplendent Rod*CR*F2;
+Scepter of Tribute*CR;
+Symmetrical Wand*F2;
+Wand of Repose*F2;
+
+| decks =
+
+| items =
+Cyclops Statue*F3;
+Dark Wall Shelf*F4*WMV;
+Elm Tree;
+Prop House 2*F3*WMV;
+Prop Mountains 1*F2;
+Wooden Skeleton Key*CR*F4;
+
+| cards =
+Blood Bat;
+Cyclops*F8*WMV;
+Dark Sprite*F4*WMV;
+Death Trap;
+Fire Cat*F2*WMV;
+Fire Elf;
+Ghoul;
+Guiding Light*F2*WMV;
+Imp*F2;
+Keen Eyes*F3*WMV;
+Lightning Bats;
+Locust Swarm*F2;
+Myth Shield*F2;
+Pixie*F3*WMV;
+Scarab*F2;
+Snow Serpent*F2;
+Snow Shield*F2;
+Storm Shield*F2;
+Thunder Snake*F2*WMV;
+Time of Legend;
+Tough*F2;
+Troll*F2;
+
+| reagents =
+Leather Straps*F4*WMV;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry*F4*WMV;
+Cheese Broccoli*F4*WMV;
+Chocolate Strawberry*F5*WMV;
+Gummy Firecat*F6*WMV;
+Sugar Donut*F2*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+Blue Ghost*F6*WMV;
+
+| seeds =
+Honey Sickle*F2;
+
+| mounts =
+Alphyn;
+Auroch*F2;
+Bat Wings;
+Bengal Tiger*F2;
+Black Stallion;
+Blue Dragon;
+Blue Fairy Wings;
+Bruin Ram;
+Chestnut Pony;
+Enchanted Broom;
+Faithful Dragoness;
+Grey Warg*F2;
+Horned Sweeper*F2;
+Manta Ray;
+Moonlight Pony*F3*WMV;
+Nightflame Pegasus;
+Orange Fairy Wings;
+Ostrich;
+Owl;
+Panther*F2;
+Purple Glider*F2;
+Renaissance Wings*F2;
+Rugged Seahorse;
+Sea Turtle;
+Seraph Wings;
+Skyracer Pegasus;
+Snappy Lobster;
+Spritely Seahorse;
+Starlight Pony;
+Starshine Pony*F2;
+Swift Gryphon;
+Swiftshadow Wings*F2*WMV;
+Triceratops;
+White Mare;
+
+| spells =
+
+}}

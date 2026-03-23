@@ -1,0 +1,304 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 16,715
+| crecla = Qhat
+| school = Ice
+| school2 = Myth
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+15%;
+
+| incboost =
+21% Fire;
+
+| incresist =
+29% Ice, Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Quake Charmer;
+
+| world = Novus
+| location = La Ville Rose
+| subloc1 = Cabal Base
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+{{Icon|Ice}}{{Icon|Myth}} '''Copy Qhat:'''
+*{{Icon|Minion}} ''"A yarn copied is a yarn retained"'' - Copy Qhat will cast a Moon spell to summon one of the following Minions.
+**{{Link|Creature|Elemental Copy Qhat}}
+**{{Link|Creature|Spiritual Copy Qhat}}
+*{{Icon|Spell}} ''"Feel the curse of Dasein"'' - After she casts one of the following Spells, she will follow up with another:
+**Snow Serpent (Tier 3b) - {{Link|Spell|Troll (Tier 3a)}}
+**Blizzard - {{Link|Spell|Humongofrog}}
+**Colossus (Tier 3b) - {{Link|Spell|Stone Colossus (Tier 3b)}}
+**Frost Giant - {{Link|Spell|Orthrus}}
+**Snow Angel - {{Link|Spell|Medusa}}
+**Abominable Weaver - {{Link|Spell|Mystic Colossus}}
+**Freeze Ray - {{Link|Spell|Barbarian's Saga}} on all Wizards.
+
+{{Icon|Fire}}{{Icon|Myth}} '''Quake Charmer:'''
+*''"Back to the Basics!"'' - At the end of every third round Quake Charmer will cast {{Link|Spell|Earthquake}}.
+*Vaporize can be used to dispel this cheat.
+*{{Icon|Spell}} ''"This ain't natural"'' - After he casts one of the following Spells, he will follow up with another:
+**Troll (Tier 3a) - {{Link|Spell|Fire Elf (Tier 3b)}}
+**Humongofrog - {{Link|Spell|Meteor Strike}}
+**Stone Colossus (Tier 3b) - {{Link|Spell|Helephant (Tier 3b)}}
+**Mystic Colossus - {{Link|Spell|Fire from Above}}
+**Orthrus - {{Link|Spell|Fire Dragon}}
+**Medusa - {{Link|Spell|Efreet}}
+
+| spellnotes =
+
+| casts =
+Snow Serpent (Tier 3b);
+Blizzard;
+Abominable Weaver;
+Freeze Ray;
+Colossus (Tier 3b);
+Frost Giant;
+Snow Angel;
+
+| quests =
+Thanks for All the Fish;
+Dupli-Qhat;
+
+| gold =
+204 - 651;
+
+| hats =
+
+| robes =
+
+| boots =
+Glistening Balance Boots;
+Glistening Death Boots;
+Glistening Fire Boots;
+Glistening Ice Boots*F2;
+Glistening Life Boots*F2*WMV;
+Glistening Myth Boots;
+Glistening Storm Boots;
+Golden Balance Boots;
+Golden Death Boots*F2;
+Golden Fire Boots*F2;
+Golden Ice Boots;
+Golden Life Boots;
+Golden Myth Boots*F3;
+Golden Storm Boots;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Glistening Balance Saber;
+Glistening Death Saber;
+Glistening Fire Saber*F3;
+Glistening Ice Saber;
+Glistening Life Saber;
+Glistening Myth Saber;
+Glistening Storm Saber*F2;
+Golden Balance Saber*F3;
+Golden Death Saber;
+Golden Fire Saber;
+Golden Ice Saber*F2;
+Golden Life Saber*F2;
+Golden Myth Saber;
+Golden Storm Saber;
+
+| decks =
+
+| items =
+
+| cards =
+Azoth*F2;
+Banshee (Tier 2b);
+Blood Bat (Tier 2b)*F2;
+Cyclops (Tier 2b);
+Dark Sprite (Tier 2b)*F2;
+Elemental Defuse;
+Evil Snowman (Tier 2b);
+Feint;
+Fire Cat (Tier 2b);
+Fire Elf (Tier 2b)*F2;
+Fortify;
+Frost Beetle (Tier 2b);
+Frostbite;
+Ghoul (Tier 2b);
+Imp (Tier 2b)*F2;
+Infallible;
+Leprechaun (Tier 2b)*F2;
+Lightning Bats (Tier 2b);
+Locust Swarm (Tier 2b);
+Nature's Wrath (Tier 2b);
+Raging Bull*F2;
+Scarab (Tier 2b)*F2;
+Scorpion (Tier 2b)*F2;
+Snow Serpent (Tier 2b);
+Storm Shark (Tier 2b);
+Sunbird (Tier 2b)*F3;
+Thunder Snake (Tier 2b);
+Troll (Tier 2b)*F2;
+Wings of Fate;
+
+| reagents =
+Agave Leaves;
+Amber Dust;
+Astral Shard;
+Bone;
+Bronze Gear;
+Glass Sliver*F2;
+Pixels*F3*WMV;
+Tin;
+
+| spellements =
+Barbarian's Saga*F2;
+Blast Off!*F2;
+Dark & Stormy;
+Deathly Depths*F2;
+Freeze Ray;
+Glimpse of Infinity*F2;
+Gravestorm*F2;
+Grim Reader*F2;
+Grrnadier*F2;
+Improbable Gaze*F3;
+Lord of the Jungle;
+Mockenspiel*F2;
+Old One's Endgame*F2;
+S'more Machine*F2;
+Scales of Destiny*F3;
+Shatterhorn*F3*WMV;
+Snack Attack*F2;
+Sound of Musicology*F2;
+Starspawn*F2*WMV;
+Tatzlewurm Terror*F2;
+Tree of Strife*F3*WMV;
+
+| snacks =
+Decimatoes;
+Fern Jelly*F2;
+Fire Passion Fruit;
+Roly Poly Fishheads;
+
+| jewels =
+Amazing Accurate Jade +15%;
+Amazing Accurate Onyx +15%*F2;
+Amazing Accurate Peridot +15%*F2;
+Amazing Accurate Sapphire +15%;
+Amazing Archmastery Opal +14 (Tear);
+Amazing Health Opal +136;
+Amazing Health Opal +137;
+Amazing Health Opal +139;
+Amazing Health Opal +142;
+Amazing Health Opal +144;
+Amazing Mana Opal +57;
+Amazing Mana Opal +58;
+Amazing Mana Opal +59;
+Amazing Mana Opal +60*F2;
+Amazing PIP Hematite +3;
+Dazzling Accurate Amethyst +14%;
+Dazzling Accurate Onyx +14%;
+Dazzling Accurate Peridot +14%;
+Dazzling Accurate Ruby +14%;
+Dazzling Health Opal +126;
+Dazzling Health Opal +127;
+Dazzling Health Opal +128;
+Dazzling Health Opal +129;
+Dazzling Health Opal +132;
+Dazzling Health Opal +133;
+Dazzling Health Opal +134;
+Dazzling Health Opal +135;
+Dazzling Mana Opal +53;
+Dazzling Mana Opal +54;
+Dazzling Mana Opal +55;
+Dazzling Mana Opal +56;
+Duck Savage Sapphire;
+Handsome Fomori Sapphire;
+Goat Monk Jade;
+Krampus Revenant Ruby;
+Lustrous PIP Opal +10%*F2;
+Mandar Peridot;
+Ninja Pigs Peridot;
+Quartermane Citrine;
+Savage Paw Citrine;
+
+| pins =
+Balance Crushing Pin (140, Ice);
+Balance Crushing Pin (140, Storm);
+Balance Crushing Pin (150, Storm);
+Balance Disabling Pin (140, Myth);
+Balance Disabling Pin (150, Myth);
+Balance Disabling Pin (140, Storm);
+Balance Disabling Pin (150, Storm);
+Balance Punishing Pin (140, Storm);
+Death Crushing Pin (140, Storm);
+Death Crushing Pin (150, Storm);
+Death Disabling Pin (140, Storm);
+Death Disabling Pin (150, Fire);
+Death Disabling Pin (150, Storm);
+Death Punishing Pin (140, Fire);
+Death Punishing Pin (140, Life);
+Death Punishing Pin (140, Storm);
+Death Punishing Pin (150, Ice);
+Death Punishing Pin (150, Storm);
+Fire Crushing Pin (140, Storm);
+Fire Crushing Pin (150, Life);
+Fire Disabling Pin (150, Life);
+Fire Disabling Pin (150, Storm);
+Fire Punishing Pin (140, Life);
+Fire Punishing Pin (150, Storm);
+Ice Crushing Pin (140, Myth);
+Ice Crushing Pin (140, Storm);
+Ice Crushing Pin (150, Death);
+Ice Disabling Pin (140, Life);
+Ice Disabling Pin (140, Storm);
+Ice Disabling Pin (150, Storm);
+Ice Punishing Pin (150, Myth);
+Ice Punishing Pin (150, Storm);
+Life Crushing Pin (150, Storm);
+Life Disabling Pin (140, Storm);
+Life Punishing Pin (150, Storm);
+Myth Crushing Pin (140, Fire);
+Myth Crushing Pin (140, Storm);
+Myth Crushing Pin (150, Fire);
+Myth Crushing Pin (150, Storm);
+Myth Disabling Pin (140, Balance);
+Myth Disabling Pin (140, Life);
+Myth Disabling Pin (140, Storm);
+Myth Punishing Pin (140, Life);
+Myth Punishing Pin (140, Storm);
+Storm Crushing Pin (140, Death);
+Storm Crushing Pin (140, Fire);
+Storm Crushing Pin (150, Balance);
+Storm Disabling Pin (140, Life);
+Storm Disabling Pin (140, Myth);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

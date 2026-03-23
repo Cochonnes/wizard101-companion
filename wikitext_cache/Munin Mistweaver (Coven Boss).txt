@@ -1,0 +1,101 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 3,360
+| crecla = Raven
+| school = Death
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Grizzleheim
+| location = Ravenscar
+| subloc1 = Raven Fortress
+| descrip =
+Munin Mistweaver is a member of {{Link|Creature|The Coven}}. This is the third fight encounter with him, and takes place at {{Link|Location|Raven Fortress}}, along with the rest of {{Link|Creature|The Coven}}. All drops should be recorded on {{Link|Creature|Othin Stormfather}}'s page.
+:''For the Rank 5 version of this Boss encountered in {{Link|Location|Wolf Palace}} , see {{Link|Creature|Munin Mistweaver (Mirkholm Keep)}}.''
+:''For the Rank 7 version of this Boss encountered in {{Link|Location|Munin's House}}, see {{Link|Creature|Munin Mistweaver (Ravenscar Boss)}}.''
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Death Damage per Pip.
+
+| casts =
+Weakness;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Vampire;
+Skeletal Pirate;
+Scarecrow;
+Fire Elf (50+210);
+Lightning Bats;
+Ice Wyvern;
+
+| quests =
+Blood Brother;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

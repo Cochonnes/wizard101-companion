@@ -1,0 +1,115 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 6,800
+| crecla = Undead
+| school = Fire
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+20%;
+
+| outboost =
+40%;
+
+| incboost =
+None;
+
+| incresist =
+200% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Mirage
+| location = Caterwaul Canyons
+| subloc1 = Ghost Maze
+| descrip =
+For the purpose of drops, Achey is considered a Minion to {{Link|Creature|Chilly}}. All drops, cheats, and speech are recorded on that page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Mirage
+| tome description =
+Known in other dimensions as "Shadow" or even "Blinky", this ghost is the bane of all PackMen.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Fire Damage for 3 Pips maximum.
+
+| casts =
+Magnify;
+Fireblade;
+Ice Trap (+35%);
+Choke (85%);
+Fire Beetle;
+Morganthe's Venom;
+Helephant (710-790);
+Efreet (1,000);
+Natural Attack (Achey);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,156 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 5,600
+| crecla = Elemental
+| crecla2 = Colossus
+| school = Life
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Dragonspyre
+| location = Plaza of Conquests
+| descrip =
+The Earth Elemental was the Great Champion of Gharok Shaleheart. He was the greatest warrior among Gharok's army of Earth Elementals, who fought the army of Dragonspyre to a standstill on the Plain of Shattered Shields. His spirit resides in a Dragonspyre Knowledge Crystal to be remembered as one of the greatest warriors who fought against Dragonspyre. You can summon him by activating the crystal in front of the Colossus statue in the Plaza of Conquests.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+As an Earth Elemental, it possesses the noble power of dirt. But it can be a real clod.
+
+| extract class =
+Colossus;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Sprite;
+Fairy;
+Lifeblade;
+Life Trap;
+Leprechaun;
+Seraph;
+Centaur;
+Locust Swarm;
+Cyclops;
+Storm Shark;
+Fire Elf;
+Meteor Strike;
+Heck Hound;
+
+| quests =
+No Weaklings Allowed;
+
+| gold =
+61 - 70;
+
+| hats =
+Cowl of the Earthlord*F2*WMV;
+Headdress of Allegory*F3*WMV;
+Hood of Fulmination;
+Stormwatcher's Hood;
+Veil of Activity*F3*WMV;
+
+| robes =
+Cloak of Forgotten Lore*F3*WMV;
+Coat of Autumn*F4*WMV;
+Robe of Equivalence;
+Surcoat of the Sasquatch*F2*WMV;
+Tunic of Readiness*F3*WMV;
+
+| boots =
+Blasting Boots*F2*WMV;
+Sandals of Judgement*F2*WMV;
+Sandals of the Earthlord*F3;
+Shoes of the Searing Flame*F2*WMV;
+
+| athames =
+Soulwoven Stylet*F2*WMV;
+
+| amulets =
+
+| rings =
+Wood-Carven Ring*F3*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Broken Wood Plank;
+Tall Pillar*F3*WMV;
+
+| cards =
+
+| reagents =
+Cobalt*F2;
+Nickel*F3;
+Spider Silk*F2*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Centaur Jade;
+Donate Power Citrine;
+Doom and Gloom Onyx*F3;
+Dull Blocking Opal +1;
+Dull Defense Onyx +25;
+Dull Defense Ruby +25;
+Dull Defense Sapphire +25;
+Dull Health Opal +50;
+Halt Leader Opal;
+Myth-Boon Peridot;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2;
+Fiery Boom Shroom*F2*WMV;
+King Parsley*CR;
+Maelstrom Snap Dragon*F2*WMV;
+Pink Dandelion*CR*F2*WMV;
+White Laugh-O-Dil*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

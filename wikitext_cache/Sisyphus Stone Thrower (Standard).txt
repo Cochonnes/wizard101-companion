@@ -1,0 +1,172 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 16,100
+| crecla = Eagle
+| school = Myth
+| school2 = Balance
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Myth;
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+14%;
+
+| outboost =
+44%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+17% Fire, Ice, Life, Death, Balance;
+47% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Wizard City
+| location = Garden of Hesperides
+| subloc1 = Temple of Sisyphus (Standard)
+| badge = Swole Like Sisyphus
+| descrip =
+*For the Challenge version of this battle, see {{Link|Creature|Sisyphus Stone Thrower (Challenge)}}.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Global}} ''"This isn't a sprint. It's a test of endurance!"'' - At the beginning of the first Round, and repeating each time he casts his Natural Attack, Sisyphus will interrupt-cast a version of {{Link|Spell|Equalize}} that sets the Damage cap to one of the following values based on the number of times Sisyphus casts his Natural Attack:
+**Beginning of 1st Round: '''500'''
+**One Natural Attack: '''1,000'''
+**Two Natural Attacks: '''3,000'''
+**Three Natural Attacks and onward: '''9,999'''
+**The Equalize will be recast if replaced, and the Damage cap will not increase.
+*** (needs confirmation) Attempting to bypass this by using an attack enchanted by {{Link|Spell|Nightbringer}} will result in Sisyphus getting a full heal, even if the attack defeats him.
+*{{Icon|Damage}} ''"Boulder you than me!"'' - At the end of every third Round, occurring one Round earlier per Wizard present if there are 2 or more Wizards present, Sisyphus will cast his Natural Attack on a random Wizard, dealing 5% max Health Damage. If the Wizard has a  Charm, this Damage increases by 5%, and by 15% for each additional Charm after the first.
+*{{Icon|Spell}} ''"Who will cast the first stone?"'' - After casting his Natural Attack, Sisyphus will give the targeted Wizard one Rock Put:
+**{{GivesSpell|spells = 1|size = x150px|Rock Put}}
+*{{Icon|Curse}}{{Icon|Jinx}} ''"Hya! Pushed Away!"'' - If a harmful Charm or Ward is placed on Sisyphus, he will push the effects to the caster.
+**Dispels will not trigger this cheat.
+**Harmful Aura effects that decrease outgoing Damage, such as {{Link|Spell|Starfall}}, will trigger this cheat.
+**Secondary effects from Spells will trigger this cheat, but the effect will be pushed to a random Wizard.
+**{{Link|Spell|Indemnity}} can be used to prevent this cheat.
+
+| spellnotes =
+
+| casts =
+Magnify;
+Mythblade;
+Spirit Blade;
+Scarab (Tier 5b);
+Savage Paw (Tier 5a);
+Power Nova (Tier 5a);
+
+| quests =
+Sisyphus is Unhappy;
+
+| dropnotes =
+When a Wizard has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge and has unlocked the '''[[Basic: Aquila Badges|Swole Like Sisyphus]]''' {{Icon|Swole Like Sisyphus}} Badge, the following drops will be available:
+*{{Icon|Spellement}} 3 Aquila Spellements will drop each time from '''any''' School
+
+If a Wizard has already unlocked the Child of Light and Shadow Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} in the Temple of Sisyphus to acquire a [[Item:Level Scaling Elixir - 90|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+1 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Dagger of Gorgon Imprisonment (Level 90+);
+Dagger of Gorgon Infamy (Level 90+)*F3;
+Dagger of Gorgon Petrification (Level 90+);
+Dagger of Gorgon Suffering (Level 90+)*F3;
+Dagger of Gorgon Venom (Level 90+)*F2;
+Dagger of Gorgon Volatility (Level 90+)*F2;
+Dagger of Gorgon's Gaze (Level 90+)*F2;
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Balanceblade;
+Cleanse Charm;
+Death Trap;
+Deathblade;
+Feint;
+Hex;
+Ice Trap;
+Iceblade;
+Lifeblade;
+Pierce*F2;
+Spirit Blade;
+Spirit Trap;
+Storm Owl;
+Sun Serpent;
+
+| reagents =
+Olympian Dust @ 5 Olympian Dust*F5;
+Olympian Dust @ 6 Olympian Dust*F4;
+Olympian Dust @ 7 Olympian Dust*F6;
+Olympian Dust @ 8 Olympian Dust*F5;
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+Balance-It Citrine;
+Calculating Opal;
+Death-Away Onyx;
+Death-Boon Onyx;
+Death-Giver Onyx;
+Death-Shot Onyx;
+Eager Opal;
+Fire-Boon Ruby;
+Huge Energy Opal;
+Life-Proof Jade;
+Myth-Shot Peridot;
+Unbalancer Citrine;
+Wisp Bonus Opal;
+
+| pins =
+
+| pets =
+Sandy Skeleturion*CR;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

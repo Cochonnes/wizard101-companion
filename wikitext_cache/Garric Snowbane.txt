@@ -1,0 +1,102 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,515
+| crecla = Wizard
+| crecla2 = Undead
+| school = Death
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Myth;
+
+| incresist =
+35% Storm, Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Terrorwing Enforcer;
+
+| world = Dragonspyre 
+| location = The Necropolis
+| subloc1 = The Snowless Hall
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Deathblade;
+Vampire (Tier 2b);
+Skeletal Pirate (Tier 2b);
+Wraith (Tier 2a);
+Scarecrow (Tier 2a);
+
+| quests =
+Snow Way Out;
+
+| gold =
+43;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Blight Hound;
+Colossus (Tier 2b);
+Ice Trap;
+Ice Wyvern;
+
+| reagents =
+Leather Straps;
+Weft Yarn*F2;
+Weft Yarn @15 Weft Yarn;
+Weft Yarn @20 Weft Yarn;
+
+| spellements =
+
+| snacks =
+Goat Cheese;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

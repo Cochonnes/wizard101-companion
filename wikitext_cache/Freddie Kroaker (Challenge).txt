@@ -1,0 +1,150 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 17,140
+| crecla = Frog
+| school = Moon
+| school2 = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+44%;
+
+| outboost =
+157%;
+
+| incboost =
+None;
+
+| incresist =
+37% Myth, Life;
+57% Fire, Ice, Storm, Death, Balance, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Arcane Toad (Star-Storm, Challenge);
+Arcane Toad (Moon-Storm, Challenge);
+
+| world = Wallaru
+| location = The Dreaming
+| subloc1 = Freddie's Domain (Challenge)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the Standard version of this battle, see {{Link|Creature|Freddie Kroaker (Standard)}}.
+'''Advanced Combat Rules:'''
+*No Inventory Access
+*No Potions
+*No Mark & Recall Teleports
+*Advanced Spells Only
+*No Enchant Spells
+*No Henchmen
+*Snake Turn Order Combat
+*Additional Puzzles, Tricks, and Cheats
+
+| speech =
+
+| cheatnotes =
+'''Freddie Kroaker''':
+*{{Icon|Dispel}}{{Icon|Ward}} ''"One, two, I'm coming for you!"'' - At the beginning of the the first Round, Freddie Kroaker will cast a Shadow Spell that applies a Dispel Charm of the Wizard's School on each Wizard, and then place a 'Nightmare Prone' Stun Shield on a random Wizard.
+*{{Icon|Charm}}{{Icon|Dispel}} ''"Let the malus grow! Let it feed my beast!"'' - At the beginning of every Round after the second Round, Freddie Kroaker casts a Moon version of Balanceblade that says "GROWTH," and then a Dispel Charm of the Wizard's School on each Wizard.
+**The above cheat will not activate if a "GROWTH" Charm was cleared by his cheats the previous turn.
+*{{Icon|Damage}} ''"It lives! My Juggernaut Crab of Malus lives! The Great Barrier will fall!"'' - At the end of each Round, if Freddie Kroaker has 3 "GROWTH" Charms, he will cast a Moon version of Call of Khrulhu that deals 1,000,000 Damage on all Wizards.
+*{{Icon|Healing|25px}} - ''"This better not be love conquering all!"'' - If a Wizard casts a Healing Spell, a positive Healing Charm, a Healing Global, or an outgoing Healing Aura, then Freddie Kroaker will cast a version of Enfeeble that removes all Charms from himself, and a version of Cleanse Ward that removes all Wards (including the 'Nightmare Prone' mark) from the receiver.
+*{{Icon|All Friends (Squared)|25px}} - ''"You're spread too thin! Three, four, we've only started our war!"'' - If a Wizard casts an All Allies Spell, Freddie Kroaker will cast an Equalize Global, setting the Damage cap to 3,000.
+*{{Icon|Charm|25px}} - ''"Blades are the forte of Storm, Death and Life!"'' - If a Wizard casts a Helpful Charm and is not Storm, Death, or Life, Freddie Kroaker will cast {{Link|Spell|Ice Wyvern (Tier 5b)}} on the receiver.
+*{{Icon|Curse|25px}} - ''"Negative Charms are the forte of Death, Storm and Ice!"'' - If a Wizard casts a Harmful Charm and is not Death, Storm, or Ice, Freddie Kroaker will cast {{Link|Spell|Stone Colossus (Tier 5b)}} on the caster.
+*{{Icon|Ward|25px}} - ''"Shields are the forte of Ice, Myth and Death!"'' - If a Wizard casts a Helpful Ward and is not Ice, Myth, or Death, Freddie Kroaker will cast {{Link|Spell|Helephant (Tier 5b)}} on the receiver.
+*{{Icon|Jinx|25px}} - ''"Traps are the forte of Myth, Fire and Ice!"'' - If a Wizard casts a Harmful Ward and is not Myth, Fire, or Ice, Freddie Kroaker will cast {{Link|Spell|Centaur (Tier 5b)}} on the caster.
+*{{Icon|Damage over Time|25px}} - ''"DoT's are the forte of Fire, Myth and Life!"'' - If a Wizard casts a Damage over Time and is not Fire, Myth, or Life, Freddie Kroaker will cast {{Link|Spell|Stormzilla (Tier 5b)}} on the caster.
+*{{Icon|Heal over Time|25px}} - ''"Heals are the forte of Life, Storm and Fire!"'' - If a Wizard casts a Heal over Time and is not Life, Storm, or Fire, Freddie Kroaker will cast {{Link|Spell|Skeletal Pirate (Tier 5b)}} on the receiver.
+*{{Icon|Pip|25px}} - ''"Pips are the forte of Balance!"'' - If a Wizard casts a Pip manipulation Spell, such as {{Link|Spell|Empower}} or {{Link|Spell|Dark Surge}}, and is not Balance, Freddie Kroaker will cast {{Link|Spell|Mana Burn}} on the receiver.  
+
+
+'''Arcane Toad (Star-Storm, Challenge)''':
+*{{Icon|Blade}} ''"Too many blades!"'' - If a Wizard has three or more Helpful Charms, Arcane Toad (Star-Storm) will cast {{Link|Spell|Banshee (Tier 5b)}} on the receiver of the Charm.
+*{{Icon|Trap}} ''"Too many traps!"'' - If an enemy has three or more Harmful Wards, Arcane Toad (Star-Storm) will cast {{Link|Spell|Immolate (Tier 5b)}} on the caster of the Ward.
+*{{Icon|Damage}} ''"One, two, Freddie's not done with you!"'' - If Freddie Kroaker is targeted or an All Enemies Spell is used, Arcane Toad (Star-Storm) will give all Wizards a Living Nightmare card:
+**{{GivesSpell|size = x150px|Living Nightmare}}
+
+
+'''Arcane Toad (Moon-Storm, Challenge)'''
+*{{Icon|Curse}}{{Icon|Ward}} ''"Sweet dreams, wizard."'' - At the beginning of the first Round, and at the end of every fourth Round, Arcane Toad (Moon-Storm) casts {{Link|Spell|Smoke Screen (Shadow)}}, and then places a 'Nightmare Prone' Stun Shield on a random Wizard.
+**{{Link|Spell|Cleanse Ward}} can be used to remove the mark.
+*{{Icon|Round}} ''"One, two, here's a nightmare for you!"'' - At the end of each Round, if a Wizard has the 'Nightmare Prone' mark, Arcane Toad (Moon-Storm) casts one of the following Spells on the marked Wizard:
+**{{Link|Spell|Call of Khrulhu}}
+**{{Link|Spell|Monster Mash (Tier 5a)}}
+**{{Link|Spell|Shift Grey Wolf}}
+**{{Link|Spell|Winged Sorrow}}
+
+
+| spellnotes =
+
+| casts =
+Brace;
+Virulent Plague;
+Deathblade (+40%);
+Doom and Gloom;
+Banshee (Tier 3b);
+Deer Knight (Tier 3b);
+Lord of Night (Tier 3a);
+Vampire (Tier 3b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Freddie Kroaker
+
+}}

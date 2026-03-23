@@ -1,0 +1,160 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 840
+| crecla = Giant
+| school = Myth
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+10% Storm;
+
+| incresist =
+40% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Edacious Ogre (Tier 1);
+Rude Goblin (Tier 1);
+
+| world = Housing Instance
+| location = Spiral Cup Gauntlet
+| subloc1 = Spiral Cup Gauntlet (Tier 1)
+| descrip =
+
+| speech =
+:''"Last time the Goblins were in Wysteria, they brought back all of these colorful pamphlets. I've read a lot of good things about Pigswick Academy in these brochures. How fancy the program is. How expensive. How liberal-minded the course work is, and how restful the exam period. Pigswick sounds like a wonderful place! So wonderful that I wanted to start my own franchise. What better way than to seed my faculty with their plum staff? I've already headhunted a headmistress and a master of arms for my new school. Let's find out what position you should fill."''
+
+| cheatnotes =
+*{{Icon|Minion}} ''"Time for physical education!"'' - On the second Round, he spawns his Minions.
+*{{Icon|Round}} ''"Extra credit time!"'' - On every Round that Minions are in the duel, each Creature will cheat cast a {{Link|Spell|Dragonblade}} to the Creature on ''their'' left, and every Minion will continue this pattern until the last Creature in the sequence will cast {{Link|Spell|Tempest}} dealing '''80''', '''160''', '''240''', or '''320''' Storm Damage.
+**"We're going to drown you in extra study!" After '''Barbarous''' starts the Blade sequence, he says this remarking on the Tempest cheat.
+
+| spellnotes =
+
+| casts =
+Blood Bat;
+Natural Attack (Myth 140-X Pips);
+Frost Beetle;
+Thunder Snake;
+
+| quests =
+Master of Arms;
+
+| gold =
+50 - 60;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Greenwarden's Peaceful Staff (Level 10+)*CR;
+
+| decks =
+
+| items =
+Avalon Abbey Road Theme*F2*WMV;
+Avalon Combat Theme;
+Avalon Glorious Theme;
+Avalon Haunting Theme;
+Avalon Shield;
+Avalon Wyrd Theme;
+Blue Vine Wallpaper;
+Bowl of Tomatoes;
+Broken Stump;
+Bushy Palm Tree*F2*WMV;
+Celestian Tree Sapling;
+Cobblestone Flooring;
+Fire Bush;
+Great Pine Tree;
+Green Foodcart;
+Hedge Row;
+Large Cypress Tree;
+Large Willow Tree;
+Marble Diner Floor Tile;
+Marble Wallpaper;
+Medium Evergreen Tree;
+Medium Pine Tree;
+Red Brick Floor Tile;
+Red Leaf Tree*CR;
+Small Bush;
+Small Cypress Tree;
+Square Hedge;
+Stone Block Wallpaper;
+Stucco Wallpaper;
+Summer Tree;
+Sunflower;
+Tall Palm Tree*CR;
+Tall Pumpkin;
+Tree Fountain;
+Wavy Stalk Wallpaper;
+Wheel of Cheese;
+Wooden Well*CR;
+Yellow Flowers Wallpaper;
+
+| cards =
+Sprite;
+
+| reagents =
+Black Lotus;
+Cat Tail;
+Mist Wood;
+Pyrite;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Cheese Broccoli*F2*WMV;
+Cracker*F3*WMV;
+Green Grapes*F2*WMV;
+Gummy Firecat;
+Nettle Root*F2*WMV;
+Sugar Donut*F4*WMV;
+
+| jewels =
+Cracked Health Opal +9;
+Cracked Mana Opal +5;
+
+| pins =
+
+| pets =
+Rude Goblin*F2*WMV;
+
+| seeds =
+Bell Pepper;
+Dandelion;
+Honey Sickle;
+Pink Dandelion*CR;
+Tiger Lily (Seed);
+
+| mounts =
+
+| spells =
+
+}}

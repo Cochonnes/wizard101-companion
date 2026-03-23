@@ -1,0 +1,103 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 1
+| crecla = Undead
+| school = Shadow
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+28%;
+
+| outboost =
+100%;
+
+| incboost =
+None;
+
+| incresist =
+5% Life, Balance;
+70% Fire, Ice, Storm, Myth, Death, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = The Catacombs
+| subloc1 = Crannoc Dorcha
+| descrip =
+The Renegade Druid (Shadow) is a Minion to the {{Link|Creature|Renegade Druid}}.
+
+| speech =
+
+| spellnotes =
+*Casts a protected Shadowblade.
+
+| casts =
+Brace;
+Virulent Plague (Shadow);
+Infection;
+Shadowblade;
+Bladestorm  (+25%);
+Mass Feint (Shadow);
+Death Prism;
+Curse (+25%);
+Death Scarab (Shadow);
+Natural Attack (Shadow 105-210-315-420);
+Brimstone Revenant (Shadow);
+Minotaur (Shadow);
+Call of Khrulhu (Shadow);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

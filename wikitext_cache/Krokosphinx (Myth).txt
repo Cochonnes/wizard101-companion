@@ -1,0 +1,145 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 999
+| heal = 150,000
+| crecla = Krokotopian 
+| school = Myth
+| masteries =
+Balance;
+
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+25%;
+
+| outboost =
+107%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+42% Fire, Ice, Life, Death, Balance, Shadow;
+72% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia 
+| location = Grand Exposition
+| subloc1 = 
+| badge = Mark of the Krokosphinx
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| spellnotes =
+*Casts protected and unprotected Mythblade.
+*Casts protected Bronze Armor.
+*Casts all enemies versions of Hex and Moon Trap.
+
+| casts =
+Brace (6 Rounds);
+Magnify (6 Rounds);
+Reliquary (6 Rounds);
+Starfall;
+Ether Shield;
+Bronze Armor;
+Elemental Shield;
+Spirit Shield;
+Tower Shield (-90%);
+Mythspear (+10%);
+Mass Weakness;
+Mythblade;
+Mythblade (+75%);
+Mythblade (+75%, x3);
+Balanceblade (+35%);
+Bladestorm (+40%);
+Dark Tribute;
+Mass Myth Trap;
+Myth Trap (x2);
+Mythic Fuel;
+Hex;
+Moon Trap;
+Dimension Shift (0 Pip);
+Empower;
+Swap Ward;
+Troll (Tier 5b);
+Legendary Treant (290-340);
+Vermin Virtuoso (Tier 5);
+Humongofrog (Tier 5a);
+Ether Golem (Tier 5b);
+War Helephant;
+Chivalrous Centaur;
+Mystic Colossus;
+Tatzlewurm Terror;
+Minotaur (Tier 5b);
+Stone Colossus (Tier 5b);
+Witch's House Call (No Minion);
+Orthrus (Tier 5a);
+Medusa (Tier 5b);
+King Artorius (Myth) (Tier 5a);
+Basilisk (Tier 5b);
+Celestial Calendar (Tier 5b);
+
+| quests =
+
+| gold =
+27 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Selenopolis Combat Theme;
+
+| cards =
+Dr. Von's Monster;
+Feint;
+Gnomes!;
+
+| reagents =
+Fish Fin;
+
+| spellements =
+
+| snacks =
+Spicy Stingers;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

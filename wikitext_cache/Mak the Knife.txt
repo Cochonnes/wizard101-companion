@@ -1,0 +1,195 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 17,400
+| crecla = Fish
+| school = Ice
+| startpips = 6
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Pira'Nya Scissor Teeth;
+
+| world = Azteca
+| location = Pitch Black Lake
+| subloc1 = Cave of Mak the Knife
+| descrip =
+Two additional Pira'Nya Scissor Teeth Minions appear if more than two Wizards are present.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Tower Shield;
+Volcanic Shield;
+Legion Shield (-35%);
+Iceblade;
+Ice Trap;
+Balefrost;
+Natural Attack (Ice 175-350-525);
+Frostbite (80+549);
+Frost Demon;
+Frost Giant (530);
+Lord of Winter;
+
+| quests =
+Pretty Teeth Dear;
+
+| gold =
+137 - 283;
+
+| hats =
+
+| robes =
+Black Butterfly Guard's Armor*F2*WMV;
+
+| boots =
+Black Butterfly Guard's Wraps;
+Fiery Chac's Great Boots;
+Grinning Death Stompers*F3*WMV;
+Philosoraptor's Abstract Feet*F5*WMV;
+Smoking Obsidian Rangers;
+
+| athames =
+Kronosaur's Grim Cutter*F2*WMV;
+Sacred Sunblade of Alto Alto*F2;
+
+| amulets =
+
+| rings =
+Chac's Challenge Loop;
+Mother Moon's Count Ring*F3*WMV;
+Seal of Thunder Horn's Glory;
+Smoking Mirror's War Ring;
+Underworld Stone;
+
+| wands =
+Rod of Icy Tears;
+
+| decks =
+Cold Codex*F4*WMV;
+Winter's Pyramid Deck*F2*WMV;
+
+| items =
+Azteca Dungeon Theme;
+Parasaur Skirt*F2*WMV;
+
+| cards =
+Chastisement;
+Chimera;
+Colossal;
+Cycle of Life;
+Dr. Von's Monster;
+Fortify;
+Furnace*F4*WMV;
+Galvanic Field;
+Gnomes!;
+Mend;
+Polymorph Icehorn;
+Polymorph Jaguar;
+Polymorph Pteranodon*F2;
+Potent Trap;
+Primordial;
+Punishment;
+Rain of Fire;
+Reliquary;
+Sharpened Blade;
+Sirens;
+Sleet Storm;
+Virulence;
+
+| reagents =
+Black Lotus*F2*WMV;
+Black Pearl;
+Blood Moss*F2;
+Bone;
+Brass;
+Bronze;
+Bronze Gear*F2;
+Cobalt;
+Deep Mushroom*F3*WMV;
+Fire Blossom*F2*WMV;
+Fossil*F2*WMV;
+Golden Pearl;
+Lava Lily*F3;
+Mist Wood*F3*WMV;
+Ore*F2*WMV;
+Red Mandrake*F2;
+Steel;
+Stone Block*F3;
+Titanium;
+Tungsten*F2;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Allocados*F2;
+Bedrock Bonbons;
+Cacao Beans;
+Cactus Fruit;
+Caramel Apple;
+Chili Peppers;
+Fried Ice Cream;
+Guava;
+Jelly Baby;
+Papaya;
+Quetzal Pretzel;
+Saber-Tooth Cider*F2*WMV;
+Saursa;
+Tamales;
+Tenochti-Flan;
+Tortilla Chips;
+Zocalo Wings*F2;
+
+| jewels =
+Balance-It Citrine;
+Big Energy Opal;
+Buff Minion Peridot;
+Eat My Dirt Opal;
+Elf on Fire Ruby;
+Mega-Leech Opal;
+Polished Blocking Hematite +12;
+Polished Critical Citrine +11;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+King Parsley*CR;
+Maelstrom Snap Dragon*F2;
+Ninja Fig*CR;
+Trumpet Vine;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

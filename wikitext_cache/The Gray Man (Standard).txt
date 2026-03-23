@@ -1,0 +1,135 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 26,260
+| crecla = Golem
+| school = Death
+| school2 = Balance
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical =
+71 Death, Balance;
+
+| criticalblock =
+658 Any;
+
+| outpierce =
+19% Balance, Death;
+
+| outboost =
+100% Balance, Death;
+
+| incboost =
+30% Life;
+
+| incresist =
+49% Any;
+79% Death;
+
+| outhealing =
+40%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+Demimortal Gargoyle (3,785);
+Demimortal Vampire (5,010);
+
+| world = Darkmoor
+| location = Graveholm
+| subloc1 = Secret Lab (Standard)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Manipulation}} ''"You cannot kill the undying"'' - At the beginning of the first round, The Gray Man will receive a {{Link|Spell|Guardian Spirit}} effect
+*{{Icon|Round}} ''"Magic is mine to wield, your power strengthens me!"'' - At the end of each round, if there is at least one wizard with a Positive Charm, The Gray Man will target a random wizard and receive a number of Power Pips depending on the amount of Positive Charms.
+** 1 charm = 1 Power Pip
+** 2 charm = 2 Power Pip
+** 3 charms = 3 Power Pips
+** 4+ charms = 4 Power Pips
+*{{Icon|Health}} ''"Pain is my strength"'' - At the beginning of each round, if The Gray Man is not at full health, he will cast a special version of {{Link|Spell|Bladestorm}} that increases in value the lower his health is.
+** The minimum blade value is 20% and the maximum blade value is 100%. If the blade is 100%, it will also be Protected.
+** Further testing is required to determine blade values between the minimum and maximum and their corresponding HP thresholds.
+
+| monstrology =
+{{Monstrology Info
+| tome world = Darkmoor
+| tome description =
+The real mystery of the Gray Man is how he hides wings and things under his robe. It must take forever to squeeze into it.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+}}
+| spellnotes =
+
+| casts =
+Threefold Fever;
+Weakness;
+Deathblade (+40%);
+Tomb Blade;
+Empower;
+Dream Golem (Tier 2b);
+Sorrow's Shadow;
+Scarecrow (Tier 2b);
+Desert Banshee;
+Skeletal Raider;
+Tribunal Oni;
+Judgement;
+Grim Reader;
+
+| quests =
+Gray Robber;
+
+| gold =
+0 - 11;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,168 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,800
+| crecla = Plant
+| crecla2 = Treant
+| school = Fire
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Forest Nymph (Tier 4);
+Forest Nymph (Tier 4);
+Forest Nymph (Tier 4);
+
+| world = Housing Instance
+| location = Tanglewood Terror
+| subloc1 = Tanglewood Terror (Tier 4)
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+It doesn't have a temper. WHY DOES EVERYONE SAY IT HAS A TEMPER?
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Furnace;
+Glacial Shield;
+Fireblade;
+Fire Trap;
+Fuel;
+Natural Attack (Fire 120-235-350);
+Scald;
+Fire Dragon;
+Rain of Fire;
+
+| quests =
+Tanglewood Terror;
+
+| dropnotes =
+Wizards level 70+ will only receive level 70+ versions of Items.
+
+| gold =
+114 - 134;
+
+| hats =
+Cap of the Plant Punisher (Level 70+);
+Cap of the Tanglewood Hero (Level 60+);
+Cap of the Tanglewood Hero (Level 70+);
+Tanglewood Terror Coif (Level 60+);
+Tanglewood Terror Coif (Level 70+)*F2;
+
+| robes =
+Plant Punisher's Garb (Level 60+);
+Tanglewood Terror Robes (Level 70+);
+
+| boots =
+Tanglewood Hero's Footgear (Level 70+);
+Terror of Tanglewood Shoes (Level 60+);
+Terror of Tanglewood Shoes (Level 70+);
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Plant Punisher's Spike (Level 70+);
+Tanglewood Hero's Nettle (Level 60+);
+Tanglewood Terror Spear (Level 60+);
+Tanglewood Terror Spear (Level 70+);
+
+| decks =
+
+| items =
+Blue Ancient Statue;
+Krokotopia Grand Tent;
+Open Fire Sarcophagus;
+Open Ice Sarcophagus;
+Pigswick Student's Desk;
+Red Ancient Statue;
+Stack of Scrolls;
+
+| cards =
+Empower;
+Gargantuan*F2;
+Sniper;
+Unstoppable;
+
+| reagents =
+Ancient Scroll;
+Blood Moss;
+Cobalt*F2;
+Copper*F2;
+Deep Mushroom;
+Fossil;
+Frost Flower;
+Grendelweed;
+Mist Wood;
+Nightshade;
+Red Mandrake;
+Stone Block;
+Water Lily;
+
+| spellements =
+
+| snacks =
+Flaming Soup;
+Goat Cheese;
+Golden Grapes;
+Gummy Humongofrog;
+King Banana;
+
+| jewels =
+Dull Piercing Peridot +2%;
+Plain Damage Sapphire +15;
+Plain Health Opal +56;
+
+| pins =
+
+| pets =
+Stained Glass Roller;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

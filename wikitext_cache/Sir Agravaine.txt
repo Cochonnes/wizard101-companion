@@ -1,0 +1,181 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 9,520
+| crecla = Fox
+| school = Storm
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Red Thorn Knight;
+
+| world = Avalon
+| location = High Road
+| subloc1 = Lonely Tower
+| descrip =
+Wizards must defeat Sir Agravaine in the Lonely Tower to regain {{Link|NPC|Friar Nolan}}'s Spell Deck as part of the Level 72 Spell Quest, ''No Pain, No Agravaine''.
+
+| speech =
+:''"Who trespasses? A meddling Wizard? No matter, I'll box your ears and send you whimpering back to Caliburn."''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 180-280-430);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Tempest;
+
+| quests =
+No Pain, No Agravaine;
+
+| gold =
+92 - 115;
+
+| hats =
+Bad Storm Shroud;
+Fire Elf Champion's Helm*F2*WMV;
+Hood of the Sacred Lake*F2;
+Mask of the Catalan*F2;
+Mask of the Crystal Caves;
+
+| robes =
+Courageous Armiger's Vestment;
+Fire-Spitter Robes*F3*WMV;
+Just Armiger's Armor;
+Winter Wyrm's Cloak*F3*WMV;
+
+| boots =
+Knight's Boots of Justice*F2*WMV;
+Long as Night Walkers;
+Luck Smithed Boots;
+Merciful Knight's Boots*F5*WMV;
+
+| athames =
+Badger's Claw*F3;
+Horn Handled Knife;
+
+| amulets =
+Dependable Squire's Torc;
+Torc of Pluck;
+
+| rings =
+Band of the Lost Abbey;
+Brisk Circle of Nodor*F2;
+
+| wands =
+Balanced Longbow;
+Fellbringer's Bow;
+
+| decks =
+Antikythera Deck*F5;
+
+| items =
+Avalon Abbey Road Theme;
+Avalon Main Theme;
+Avalon Shield;
+
+| cards =
+Cleanse Charm*F2*WMV;
+Disarm*F6*WMV;
+Enfeeble (-3);
+Frost Giant;
+Hex;
+Insane Bolt*F5*WMV;
+Orthrus*F2;
+Rebirth;
+Scarecrow*F2*WMV;
+Snow Angel;
+Spirit Shield;
+Storm Lord;
+Supercharge*F2;
+Wild Bolt*F3;
+
+| reagents =
+Black Lotus;
+Brass;
+Cat Tail;
+Deep Mushroom*F4;
+Frost Flower;
+Lava Lily*F3;
+Mist Wood*F5;
+Ore*F3*WMV;
+Parchment*F3*WMV;
+Pearl*F2;
+Red Mandrake*F2;
+Shell*F3*WMV;
+Steel;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Delicious Cookie;
+Glowing Star Fruit;
+Goat Cheese;
+Golden Apple;
+Gummy Humongofrog*F2*WMV;
+Gummy Wyrms;
+Jelly Baby;
+King Banana;
+Kola Nuts*F2;
+Pigeon Pie;
+Roasted Chickpeas;
+Spicy Drumstick*F2;
+Strawberry Cupcake;
+Submarine Sandwich;
+Treant Bark;
+
+| jewels =
+Restorative Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Deadly Fly Trap;
+Evil Magma Peas*CR*F2;
+Key Limes*CR*F2;
+Silver Trumpet Vine*CR;
+Trumpet Vine;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,223 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 20,360
+| crecla = Dino
+| crecla2 = Undead
+| crecla3 = Calaca
+| school = Death
+| masteries =
+Ice;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+110 Any;
+
+| criticalblock =
+50 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Grim Calaca;
+
+| world = Azteca
+| location = Twin Giants
+| subloc1 = Cave of the Dawn
+| descrip =
+*Two additional {{Link|Creature|Grim Calaca}}s appear if more than two Wizards are present.
+
+| speech =
+:''"Raaaaaaaaaaaaaaa!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+El Marrow! El Marrow! They love you, El Marrow!
+
+| extract class =
+Dinos;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Tower Shield;
+Virulent Plague;
+Deathblade;
+Curse (+25%);
+Feint;
+Natural Attack (El Marrow);
+Dr. Von's Monster;
+Avenging Fossil;
+Ice Wyvern (390-450);
+Frost Demon;
+
+| quests =
+The Sun Will Light the Way;
+
+| gold =
+77 - 157;
+
+| hats =
+Glorious Feathered Mantle;
+Grinning Death Mask*F4*WMV;
+Helm of the Broken Spear;
+High Chac's Guarded Helm;
+Hood of the Hungry Lizard*F3*WMV;
+Song of the Lizard Hood*F2*WMV;
+Tyrant of Beasts Mask;
+
+| robes =
+Cloak of the Tyrant of Beasts;
+Lord of Night Robes*F3*WMV;
+Vestment of the Calavera;
+
+| boots =
+
+| athames =
+
+| amulets =
+Memento of the Sun Caiman*F2;
+Necklace of Lost Ancestors*F2;
+Pitch Black Lake Plague Shell;
+
+| rings =
+
+| wands =
+Caiman's Storm Arrow Wand;
+Fire Quetzal Wand*F2*WMV;
+
+| decks =
+Cipactli's Lost Cards*F2*WMV;
+Deck of the Jaguar Spirit;
+Lords of Night Pyramid Deck*F3*WMV;
+
+| items =
+Azteca Combat Theme;
+Azteca Mountain Theme;
+Colorful Rug;
+Palma Dino*F2;
+
+| cards =
+Amplify;
+Chastisement;
+Chimera;
+Colossal;
+Cycle of Life*F2;
+Efreet;
+Extraordinary;
+Furnace;
+Galvanic Field;
+Gnomes!;
+Lord of Night*F2*WMV;
+Polymorph Icehorn;
+Polymorph Jaguar*F2;
+Polymorph Pteranodon;
+Potent Trap*F2;
+Punishment*F2*WMV;
+Rain of Fire;
+Reliquary;
+Sleet Storm*F2*WMV;
+Virulence;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F3*WMV;
+Black Pearl;
+Blood Moss;
+Bone*F2*WMV;
+Bronze;
+Bronze Gear*F4*WMV;
+Cobalt;
+Deep Mushroom*F4*WMV;
+Fire Blossom*F3*WMV;
+Fossil*F2;
+Golden Pearl*F3*WMV;
+Lava Lily*F2;
+Mist Wood*F3*WMV;
+Ore;
+Red Mandrake*F3*WMV;
+Silver;
+Steel;
+Stone Block*F4*WMV;
+Sunstone;
+Titanium;
+Tungsten;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Allocados;
+Bedrock Bonbons*F2;
+Cactus Fruit;
+Caramel Apple;
+Chili Peppers;
+Deviled Eggs;
+Flapjacks;
+Fried Ice Cream*F2*WMV;
+Gummy Wyrms*F2*WMV;
+Jelly Baby;
+Quetzal Pretzel*F2*WMV;
+Saber-Tooth Cider*F2*WMV;
+Saursa;
+Shiny Tomato;
+Tamales*F2*WMV;
+Tenochti-Flan;
+Zocalo Wings*F3*WMV;
+
+| jewels =
+Clear Blocking Opal +5;
+Clear Defense Ruby +40;
+Gargantuan Talent Opal;
+Polished Blocking Jade +11;
+Polished Critical Peridot +11;
+Polished Damage Jade +21;
+Polished Damage Ruby +21;
+Polished Damage Sapphire +21;
+Polished Piercing Amethyst +6%;
+Polished Piercing Peridot +6%;
+SnowBorn Sapphire;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Frozen Fly Trap;
+Maelstrom Snap Dragon;
+Ninja Fig*CR;
+
+| mounts =
+
+| spells =
+
+}}

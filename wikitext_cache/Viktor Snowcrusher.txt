@@ -1,0 +1,249 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 4,160
+| crecla = Wizard
+| crecla2 = Undead
+| school = Fire
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Gallium Juggernaut;
+
+| world = Dragonspyre
+| location = The Drake Hatchery
+| descrip =
+Viktor Snowcrusher is a Dragonspyrian Boss who must be defeated before Wizards can hatch their [[NPC:Drakeling|baby Drake]].
+He is located in The Drake Hatchery, on the small island in the south area of the map.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+Poor Viktor was never able to realize his dream of leaving the family business of stomping snow into drinking water.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Spirit Armor;
+Smoke Screen;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Sunbird;
+Fire Shark;
+Meteor Strike;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Heck Hound;
+Minotaur;
+Natural Attack (Balance 85x, 90%);
+
+| quests =
+Break an Egg;
+
+| dropnotes =
+When a Wizard has unlocked the '''Oni Slayer''' {{Icon|Oni Slayer}} Badge and has not unlocked the '''Astrologist''' {{Icon|Astrologist}} Badge, the following drops will be available:
+*Chance of 1 Level 50+ Grandmaster Deck drop.
+*1 Claw Reagent drop.
+*8 Spellements will drop each time from the '''Elemental''' (Fire, Ice, Storm, Balance) Schools for their respective rank 2-6 Spells.
+
+| gold =
+70 - 115;
+
+| hats =
+Cowl of the Necromancer*WMV;
+Cyclone Coif*F2;
+Frostflower Cap*WMV;
+Hat of the Endless*F5*WMV;
+Headdress of Refutation*F7*WMV;
+Hood of Hibernation*F3*WMV;
+Hood of the Tempest;
+Librarian's Mantle*F2*WMV;
+Mantle of Growth;
+
+| robes =
+Cloak of Mortality;
+Robes of the Ice Queen*F2;
+Sorcerer's Robe*F2;
+Vestment of Fable;
+Vestment of the Spring*F3*WMV;
+Wrap of Equity;
+Wrap of the Monsoon*F4;
+
+| boots =
+Footgear of Corporeality*F3;
+Footwraps of the Whirlwind;
+Mocassins of the Healer*F3*WMV;
+Sandals of Sleet;
+Sandals of the Shaman;
+Sandals of the Remortal;
+Slippers of Deftness*F2*WMV;
+Stormbreaker Sandals*F2*WMV;
+Sunwalkers;
+Vineyard Shoes;
+
+| athames =
+Dirk of the Daring;
+Dragon's Claw Blade*F3*WMV;
+Indomitable Knife*F2;
+Snowcrusher's Sliver of Frost*F4*WMV;
+
+| amulets =
+
+| rings =
+Dragontooth Ring;
+Lavastone Ring;
+Oroboros Band*F3;
+Seal of the Saga*F4*WMV;
+Snowcrusher's Bombastic Band*F2;
+
+| wands =
+
+| decks =
+Snowcrusher Iceblock Box*BR*WMV;
+Snowcrusher Iceblock Deck*BR*WMV;
+Snowcrusher Melted Box*BR*WMV;
+Snowcrusher Melted Deck*BR*WMV;
+Snowcrusher Mortalis Box*BR*WMV;
+Snowcrusher Mortalis Deck*BR*WMV;
+Snowcrusher Scales Box*BR*WMV;
+Snowcrusher Scales Deck*BR*WMV;
+Snowcrusher Seasons Box*BR*WMV;
+Snowcrusher Seasons Deck*BR*WMV;
+Snowcrusher Springbloom Box*BR*WMV;
+Snowcrusher Springbloom Deck*BR*WMV;
+Snowcrusher Windstorm Box*BR*WMV;
+Snowcrusher Windstorm Deck*BR*WMV;
+
+| items =
+Dragonspyre Gate*F3*WMV;
+Medium Column*F2;
+
+| cards =
+
+| reagents =
+Brass*F3*WMV;
+Claw*BR*F4*WMV;
+Cobalt*F3*WMV;
+Copper;
+Lead;
+Leather Straps*F19*WMV;
+Nickel*F4*WMV;
+Tin*F6*WMV;
+
+| spellements =
+Blight Hound*BR*F5;
+Colossus*BR*F5;
+Evil Snowman*BR*F8;
+Fire Elf*BR*F6;
+Gearhead Destroyer*BR*F4;
+Helephant*BR*F6;
+Hydra*BR*F6;
+Ice Wyvern*BR*F7;
+Immolate*BR*F11;
+Kraken*BR*F13;
+Lightning Bats*BR*F4;
+Locust Swarm*BR*F4;
+Phoenix*BR*F8;
+Scorpion*BR*F3;
+Snow Serpent*BR*F4;
+Spectral Blast*BR*F4;
+Storm Shark*BR*F6;
+Stormzilla*BR*F3;
+Sunbird*BR*F5;
+Triton*BR*F12;
+
+| snacks =
+Flaming Soup*F4*WMV;
+Goat Cheese*F2;
+Golden Grapes*F3*WMV;
+Gummy Humongofrog;
+King Banana*F3*WMV;
+
+| jewels =
+Attentive Opal;
+Blemished Accurate Citrine +5%;
+Blemished Damage Amethyst +11*WMV;
+Blemished Damage Citrine +11*WMV;
+Blemished Damage Citrine +12;
+Blemished Damage Jade +11;
+Blemished Damage Onyx +11*WMV;
+Blemished Damage Peridot +11*WMV;
+Blemished Damage Ruby +11*F2*WMV;
+Blemished Damage Ruby +12*F2;
+Blemished Defense Amethyst +23*WMV;
+Blemished Defense Citrine +23;
+Blemished Defense Sapphire +23;
+Colossus Sapphire;
+Dull Blocking Amethyst +2*WMV;
+Dull Blocking Jade +4;
+Dull Blocking Sapphire +4;
+Dull Critical Amethyst +3;
+Dull Critical Jade +3;
+Dull Damage Ruby +13;
+Dull Defense Opal +14;
+Dull Mending Opal +3%;
+Dull Piercing Onyx +1%;
+Dull Piercing Sapphire +1%;
+Flawed Damage Amethyst +9*WMV;
+Flawed Damage Amethyst +10;
+Flawed Damage Jade +10;
+Flawed Damage Peridot +10;
+Flawed Damage Ruby +10;
+Immunity Opal;
+Myth-Giver Peridot;
+Sanctuary Jade;
+Wraith Onyx;
+
+| pins =
+
+| pets =
+Skeletal Warrior*F3;
+
+| seeds =
+Deadly Fly Trap;
+Pink Dandelion*CR;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

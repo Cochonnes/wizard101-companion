@@ -1,0 +1,207 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 4,435
+| crecla = Elemental
+| crecla2 = Plant
+| crecla3 = Treant
+| school = Ice
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+22 Any;
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Razortusk Warrior;
+
+| world = Grizzleheim
+| location = Austrilund
+| subloc1 = Frostbranch's Cave
+| descrip =
+*Two additional Razortusk Warriors will appear if more than two Wizards are present.
+
+| speech =
+:''"Are you the one trapping in my land? I will send you back to your village with your tail between your legs!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+This treant hates traps and all things with tails.
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+'''Interrupt Cycle''' (Resets every 5 {{Icon|Round}})
+:*''"You have little time to hurt me!"'' - At the start of the duel (and every five Rounds thereafter), Frostbranch will cheat-cast two Smoke Screens ('''-50%''') at each Wizard.
+::*The first Smoke Screen cheat-cast has a casting animation; however, the second one does not.
+::*{{Link|Spell|Quench}} can be used to Dispel the Smoke Screen.
+:*''"Who doesn't have a Mark of Courage?"'' - At the start of every fifth Round, Frostbranch will cheat-cast Efreet dealing '''895''' Fire Damage applying a '''-90%''' Weakness at any Wizard who does not have a ''"Mark of Courage"''. On the same Round, Frostbranch will use its turn to cast '''Earthquake (310)''' without using Pips, regardless of if any Wizard in the battle has a ''"Mark of Courage"''.
+::*{{Link|Spell|Vaporize}} can be used to Dispel the Earthquake.
+::*{{Link|Spell|Quench}} can be used to Dispel Efreet, even though it has no casting animation.
+:::*One Quench is required for every Efreet Dispelled.
+:*''"A true warrior!"'' - If a Wizard attacks Frostbranch with a single-target Spell, he will remove all Smoke Screens from the Wizard, and place a ''"Mark of Courage"'' on the Wizard in the form of a Stun Shield.
+::*Pet Maycast Talents will not activate this cheat.
+::*Select Target spells such as {{Link|Spell|Frost Giant (Tier 2b)}} that target more than one enemy '''will''' activate this cheat.
+::*If Frostbranch has reached the ''"Who doesn't have a Mark of Courage?"'' phase of his cycle most recently (he has not recast his Smoke Screens yet), direct attacks will not yield any Stun Shields.
+::*Since the Marks of Courage are Stun Shields, they are not removed by Earthquake nor stolen by Thieving Dragon. This means that wizards need only attack directly once to avoid Frostbranch's Efreet cheat.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Stun Block;
+Smoke Screen (-50%);
+Iceblade;
+Ice Trap;
+Thieving Dragon;
+Blizzard;
+Ice Wyvern;
+Blight Hound;
+Frostbite;
+Colossus;
+Earthquake (310);
+Efreet;
+
+| quests =
+Trapper Gone;
+
+| gold =
+45 - 106;
+
+| hats =
+Barbaric Helm*F2;
+Bitter Cold Bear Hat;
+Blasted Bear Hat*F2;
+Burning Bear Hat*F2;
+Cowl of Crackling*F2*WMV;
+Cowl of Esprit;
+Cowl of Justice;
+Cowl of Spirit Calling*F2;
+Cowl of the Dark Waters;
+Cowl of the One Eyed Crow*F2;
+Horned Helm of the Mighty*F4;
+
+| robes =
+Blustering Coat*F3*WMV;
+Coat of Ages;
+Hardy Coat*F3*WMV;
+Jerkin of the Bear's Shadow;
+Jerkin of the Bleak Bear;
+Jerkin of the Roaring Bear*F3;
+
+| boots =
+Angry Bear Boots;
+Barbarian's Brave Boots;
+Barbarian's Courage Boots*F2;
+Biting Bear Boots*F2;
+Growling Bear Boots*F2;
+Howling Bear Boots;
+Novitiate Boots;
+Roaring Bear Boots;
+Slashing Bear Boots*F2;
+Snarling Bear Boots*F2*WMV;
+
+| athames =
+Wolf's Amethyst Claw*F5*WMV;
+
+| amulets =
+Wyrm's Curse Charm*F8*WMV;
+
+| rings =
+Ring of the Wolf Warrior*F2;
+Ring of the Wolf's Howl;
+
+| wands =
+
+| decks =
+
+| items =
+Nastrond Main Theme*F2;
+Nordrilund Main Theme*F3;
+
+| cards =
+Blizzard;
+Fire Elf;
+Monstrous*F10*WMV;
+Sprite*F2;
+Storm Shark;
+Strong*F3;
+Vengeance*F5*WMV;
+Weakness*F2;
+
+| reagents =
+Brass;
+Bronze Gear*F5*WMV;
+Cobalt*F5*WMV;
+Nickel*F3;
+Spider Silk*F4;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Delicious Cookie*F3;
+Glowing Star Fruit*F3;
+Glowing Taffy;
+Goat Cheese;
+Golden Grapes;
+Gummy Humongofrog;
+King Banana*F2;
+Strawberry Cupcake;
+Submarine Sandwich;
+
+| jewels =
+Dull Critical Ruby +3;
+Fortify Talent Opal;
+Hearty Opal;
+Plain Defense Amethyst +29;
+Plain Defense Peridot +29;
+Strangle Onyx;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Baby Carrots*F2;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Evil Snow Peas*F2*WMV;
+Helephant Ears*F2;
+Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

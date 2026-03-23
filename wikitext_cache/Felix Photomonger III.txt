@@ -1,0 +1,152 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 40,940
+| crecla = Undead
+| school = Fire
+| startpips = 5
+| powerpips = Yes
+| critical =
+197 Any;
+
+| criticalblock =
+139 Any;
+
+| outpierce =
+25%;
+
+| outboost =
+120%;
+
+| incboost =
+5% Ice;
+
+| incresist =
+70% Fire;
+
+| outhealing =
+
+| inchealing =
+45%
+
+| stunable = No
+| beguilable = No
+| minions =
+Ritual Spider;
+
+| world = Dragonspyre
+| location = The Crystal Grove
+| subloc1 = Hall of Inevitable Betrayal
+| descrip =
+
+| speech =
+:''"Those are indeed fine crystals, one finer than the other. I'll throw them on my crystal pile. They are no longer relevant to the process. You have completed every ritual I have given. So, now, of course, I must destroy you. This is the Ritual of Inevitable Betrayal, symbolizing the pain and discord brought by the ubiquity of personal Photomancy. Now you will see all your effort, all your work, everything you have built, come crashing down in a flurry of flashing bulbs and mean comments!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+The photomonger is essentially a living filter for toxic social interaction. It's no wonder they all go insane.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Furnace (6 Rounds);
+Vengeance;
+Balanceblade (+30%);
+Backdraft (+20%);
+Mass Hex;
+Incindiate;
+Fire Beetle;
+Brimstone Revenant;
+Meteor Strike;
+Natural Attack (Fire 120-240-360-480);
+Fire Dragon;
+
+| quests =
+Better Halls & Crystals;
+
+| gold =
+0;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Brain Jar;
+Crab Alley Chaise;
+Fish;
+Mystic Pizza;
+Roasted Drumstick;
+Watermelon Slice;
+WC Catacombs Theme*F3;
+WC Drains Combat Theme;
+WC Drains Theme;
+WC Elsewhere Combat Theme;
+
+| cards =
+
+| reagents =
+Ancient Scroll*F3;
+Antique Coins*F2;
+Black Pearl*F2;
+Blood Moss;
+Brass*F2;
+Bronze Gear;
+Cobalt*F3;
+Ectoplasm;
+Nickel;
+Scales*F2;
+Spring;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Beast Wellington;
+Eye Candy*F2;
+Fern Jelly;
+Glowing Taffy;
+Hot Cross Buns*F2;
+Rock and Roll Candy;
+Sprinkle Cupcake;
+Squash;
+Veggie Juice;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

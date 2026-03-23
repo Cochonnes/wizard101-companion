@@ -1,0 +1,234 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 10,240
+| crecla = Ogre
+| school = Life
+| masteries =
+Death;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+5%;
+
+| outboost =
+40%;
+
+| incboost =
+15% Death;
+
+| incresist =
+50% Life;
+
+| outhealing =
+75%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Numbskull Ogre;
+
+| petbreed = Chieftain's Owl
+| world = Polaris
+| location = River of Frozen Tears
+| descrip =
+The Numbskull Chieftain roams with the Numbskull Ogres near the {{Link|Location|Sunless Shrine}} in the River of Frozen Tears.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"Tardiness will not be tolerated!"'' - If a Wizard joins after the duel has started, the Numbskull Chieftain will interrupt to place a {{Link|Spell|Spirit Trap}} on the Wizard.
+*{{Icon|Charm}} ''"Don't do that!" / "I'm warning you." / "I warned you!"'' - If a Wizard casts a Charm Spell (e.g. Blades), he will shout a warning. After the third Charm is cast, he will cheat-cast {{Link|Spell|Chivalrous Centaur}} dealing '''600-800''' Myth Damage on the Wizard who cast the Spell, also removing three Charms on the Wizard.
+**Pet Blades will trigger this cheat.
+*{{Icon|Trap}} ''"Do your worst!"'' - If a Trap is placed on the Numbskull Chieftain, he will cheat-cast {{Link|Spell|Legend Shield}} and {{Link|Spell|Dream Shield}} on himself. 
+*{{Icon|Heal}} ''"Heals? I can play that game too!"'' - If a Healing Spell is used, his Pet will cheat-cast {{Link|Spell|Guiding Light}} on him.
+**Pet Heals will trigger this cheat.
+*{{Icon|Spell}} ''"I hunger for your pain!"'' - He will cast Hungry Caterpillar.
+
+| spellnotes =
+
+| casts =
+Guidance;
+Brilliant Light;
+Unicorn;
+Beguile;
+Life Scarab;
+Giant Spider;
+Life Banshee (250);
+Hungry Caterpillar;
+Enraged Forest Lord;
+Deer Knight;
+Crow;
+Natural Attack (Myth 90-190-295);
+
+| quests =
+
+| gold =
+883 - 1,498;
+
+| hats =
+Fancy Tundarian Papakh;
+Noble Bleaks Ushanka;
+Tundarian Bear's Papakh;
+Tundarian Fur Hat of Dread;
+Tundarian Papakh of Fusion;
+Tundarian Papakh of Resolve;
+
+| robes =
+Bleaks Pelage of Vigor;
+Tundarian Chokha of Flux;
+Tundarian Cloak of Dread*F3;
+Tundarian Uniform of Rage;
+
+| boots =
+Tundarian Mukluks of Fusion;
+
+| athames =
+Enchanter's Dirk of Lightning;
+Enchanter's Ice Floe Dagger;
+Enchanter's Knife of Poise*F2;
+Enchanter's Reverie Pendant;
+
+| amulets =
+Enchanter's Fervid Carcanet;
+Enchanter's Ice Floe Charm;
+Enchanter's Pendant of Poise;
+Kossack Collar of Misery;
+
+| rings =
+Enchanter's Ring of Lightning;
+Enchanter's Seal of Poise;
+Kossack Band of Chills;
+Polarian Kossack Signet;
+
+| wands =
+Axe of the Snowbound Tayg;
+Evoker's Gelid Wand;
+Forlorn Tayg Curved Axe;
+Tayg Bardiche of Wrath*F2;
+Tayg Handaxe of Leveling;
+Tayg Hatchet of Sleetfall;
+Tayg Hatchet of Vitality*F2;
+
+| decks =
+Evoker's Deck of Squalls;
+Hand of the Forlorn Tayg;
+Polarian Evoker's Bevy;
+Tayg Deck of Wrath*F2;
+Tayg Hand of Folklore;
+Tayg Pasteboards of Steam;
+Tayg Set of Leveling;
+
+| items =
+Arcanum Theme*F3;
+Md Wood Wall Block;
+Polaris Baba Yaga Theme*F2;
+Polaris Frozen Combat Theme;
+Polaris Frozen Forest Theme*F2;
+Polaris Gulag Combat Theme;
+Polaris Gulag Theme*F3;
+Polaris Ice Block Theme;
+Polaris Mine Combat Theme;
+Polaris Mine Theme*F3;
+Polaris Opera Theme;
+Polaris Rasputin Combat Theme*F2;
+Walruskberg Combat Theme;
+Walruskberg Liberated Theme*F3;
+Wood Post Block;
+Wood Window Block;
+
+| cards =
+Age of Reckoning;
+Arcticzilla;
+Coldiron;
+Combustion;
+Crystal Spider;
+Firespear;
+Icebird*F2;
+Icespear;
+Mutate Shark (Ice);
+Mythspear;
+Namaste;
+Obsidian Colossus (420);
+Spirit Spear*F2;
+
+| reagents =
+Aether*F2;
+Agave Leaves*F2;
+Amber Dust;
+Aquamarine*F2;
+Astral Shard*F3;
+Fish Fin*F3*WMV;
+Golden Pearl*F2*WMV;
+Mithril;
+Scales*F5;
+Silver*F2;
+Stardust*F2;
+Steel*F4;
+Sunstone*F3;
+Tungsten*F3;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Aztecan Hot Chocolate*F2;
+Beast Wellington*F2*WMV;
+Chalupacabra*F3;
+Eye Candy*F3;
+Frosty Sugar Cubes;
+Frozen Snails;
+High Road Haggis;
+Hot Cross Buns;
+Mustachios*F3;
+Penne Dreadful*F3;
+Polaris Fries*F2;
+Satyr Chow*F2;
+Ships 'n' Queso*F4;
+Snow Apple Cider;
+Snow Apple Pie;
+Veggie Juice*F3;
+
+| jewels =
+Lustrous Blocking Hematite +13;
+Polished Defense Citrine +42;
+
+| pins =
+
+| pets =
+Arctic Ninja Pig*CR;
+Chieftain's Owl*F2*WMV;
+Glacier Dragon;
+Polar Bear Cub*CR;
+White Winter Owl;
+
+| seeds =
+Angel Oak*F2;
+Blue Huckleberries;
+Deadly Fly Trap*F2*WMV;
+Evil Snow Peas;
+Fish on a Vine*F4;
+Frozen Fly Trap*F3;
+Green Snow Apples*F2;
+Moon Flower*F2;
+Purple Snow Apples*F2;
+Queen Crape Myrtle*F2;
+Snow Apples*F2;
+Ultra Fly Trap;
+Venus Fly Trap*F3;
+
+| mounts =
+
+| spells =
+
+}}

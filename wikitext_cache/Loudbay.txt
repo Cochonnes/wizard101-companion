@@ -1,0 +1,110 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 15,780
+| crecla = Werewolf
+| school = Myth
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Myth;
+
+| critical =
+653 Any;
+
+| criticalblock =
+440 Any;
+
+| outpierce =
+35%;
+
+| outboost =
+135%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+42% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+72% Myth;
+
+| outhealing =
+14%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Were-Bear Buddy;
+
+| world = Darkmoor
+| location = Howling Lands
+| subloc1 = Loudbay's Den
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Reliquary;
+Mythblade;
+Ninja Pigs;
+Orthrus;
+Celestial Calendar;
+
+| quests =
+Doll of the Wild;
+
+| gold =
+25 - 42;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Creepy Stool*CR;
+Darkmoor Bench*CR;
+Darkmoor Roses*CR;
+Darkmoor Vanity*CR;
+
+| cards =
+Avenging Fossil;
+Leviathan;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Cubby Broccoli;
+Granny Snow Apple;
+Shepherd's Crook Pie;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

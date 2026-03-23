@@ -1,0 +1,221 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 3,025
+| crecla = Ant
+| crecla2 = Insect
+| school = Life
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Crying Spirit;
+
+| world = MooShu
+| location = Jade Palace
+| subloc1 = Telegraph Box (MooShu)
+| descrip =
+*During the [[Basic:Five B.O.X.E.S.|Five B.O.X.E.S. Event]], Aunt Eunice can be found in the Telegraph Box (MooShu) instance.
+*Two additional {{Link|Creature|Rotten Scallywag}} Minions appear if more than two Wizards are present at the first fight with her.
+*Drops from the first fight should be recorded on this page.
+*Drops from the Aunt Millicent fight should be recorded on the {{Link|Creature|Aunt Millicent}} page.
+
+| speech =
+: ''"I lied. I won't summon him for you. I don't know who you think you are, that you can just come and take our thrall away from us! He tends the fungi farms, milks the aphids, gathers honeydew, swabs the shells, and sweeps the cinders. Maybe you can join him!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+Dworgyn's loving aunt. Or at least she loves all the free labor she gets out of him.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Sprite;
+Lifeblade;
+Life Trap;
+Leprechaun;
+Natural Attack (Life 105-195-300);
+Seraph;
+Centaur;
+Harmattan Maxios (735);
+Locust Swarm;
+Cyclops;
+Storm Shark;
+Meteor Strike;
+Heck Hound;
+
+| quests =
+Carnival of Monsters;
+
+| gold =
+87 - 217;
+
+| hats =
+Cap of Constitution;
+Greenwarden's Brilliant Mask (Level 40+)*CR;
+Greenwarden's Energetic Mask (Level 40+)*CR;
+Greenwarden's Peaceful Mask (Level 40+)*CR;
+Greenwarden's Peaceful Mask (Level 50+)*CR;
+Halcyon Hood;
+Hood of the Vigilant;
+Ivy-Wrapped Cap;
+Mythological Mantle;
+Promethean Hood*F2;
+Shroud of the Equinox;
+
+| robes =
+Arbiter's Raiment*F2;
+Arboreal Robes;
+Blizzard Cloak;
+Fiery Tunic*F2;
+Final Curtain*F3;
+Greenwarden's Brilliant Shroud (Level 40+)*CR;
+Greenwarden's Peaceful Shroud (Level 40+)*CR;
+Robe of Radiance;
+Robe of the Greatest Saga*F2;
+Smock of the Frost Giant;
+Triton's Topper;
+Tunic of the Sphinx*F2;
+Verdant Vestment;
+
+| boots =
+Ashen Footwraps;
+Boots of Equivalence;
+Boots of the Bountiful;
+Burning Boots;
+Dragonclaw Boots;
+Footgear of the North Wind;
+Frost Giant's Boots;
+Greenwarden's Brilliant Boots (Level 40+)*CR;
+Greenwarden's Brilliant Boots (Level 50+)*CR;
+Greenwarden's Energetic Boots (Level 40+)*CR;
+Greenwarden's Energetic Boots (Level 50+)*CR;
+Greenwarden's Peaceful Boots (Level 40+)*CR;
+Greenwarden's Peaceful Boots (Level 50+)*CR;
+Legend Walkers;
+Rainstorm Waders;
+Sandals of Lost Aeons;
+Sandals of the Squall;
+
+| athames =
+Dragon's Eye Dagger;
+Dragonblood Dirk*F2*WMV;
+
+| amulets =
+
+| rings =
+Dragonscale Ring;
+Ring of Dominance; 
+Ring of the Forefathers;
+
+| wands =
+Greenwarden's Brilliant Staff (Level 40+)*CR;
+Greenwarden's Energetic Staff (Level 50+)*CR;
+Greenwarden's Peaceful Staff (Level 40+)*CR;
+
+| decks =
+
+| items =
+Cobblestone Flooring;
+Fish Fountain;
+Long Corner Wall Ruins*F2;
+Marble Diner Floor Tile;
+Singed Magic Book*F2;
+Stucco Wallpaper;
+Wavy Stalk Wallpaper*F2;
+
+| cards =
+Black Mantle;
+Clockwork Spider*F2;
+Dragonflies*F2*WMV;
+Leprechaun; 
+Ninja Pigs*F3*WMV;
+Potboiler*F10*WMV;
+Skeletal Pirate;
+
+| reagents =
+Black Lotus;
+Bone*F3;
+Cobalt*F3;
+Deep Mushroom;
+Ectoplasm*F2;
+Iron*F2;
+Lava Lily;
+Nickel*F3;
+Sonic Spring*F2*WMV;
+Tin*F3;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F4*WMV;
+Goat Cheese*F4*WMV;
+Golden Grapes*F2*WMV;
+Gummy Humongofrog*F4*WMV;
+King Banana*F4;
+
+| jewels =
+Blemished Defense Jade +23;
+Donate Power Citrine;
+Dull Blocking Onyx +2;
+Dull Blocking Opal +1;
+Dull Critical Peridot +3;
+Dull Defense Amethyst +25;
+Dull Health Opal +49;
+Dull Piercing Citrine +1%;
+Fire-Away Ruby;
+Mega-Upset Opal;
+Phoenix Ruby;
+Quick-Witted Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Evil Snow Peas;
+Helephant Ears;
+Pink Dandelion*CR;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,174 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 9,005
+| crecla = Fish
+| crecla2 = Undead
+| school = Ice
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+28 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire;
+
+| incresist =
+35% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Celestia
+| location = Stormriven
+| subloc1 = Summoning Pylons
+| descrip =
+Marcio is summoned from the Summoning Pylons in Stormriven by using the Pylon farthest to the left.
+
+| speech =
+:''"The healthier my foe, the stronger I become!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+He dreams constantly of vengeance. Luckily, revenge is a dish best served frozen and many years too late.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Round}} During the first Round, Marcio will use his turn to cast a '''-5%''' version of Doom and Gloom.
+**If a Wizard casts a [[:Category:Global Spells|Global]] Spell, then Marcio will interupt-cast the -5% version of Doom and Gloom.
+*{{Icon|Trap}} If a [[:Category:Trap Spells|Trap]] Spell is placed on Marcio, he will interrupt-cast Cleanse Ward to remove it.
+**If a multi-Trap Spell such as {{Link|Spell|Elemental Trap}} is cast, then Marcio will remove only the last Trap cast.
+**Multi-target Trap Spells such as {{Link|Spell|Windstorm}} will not trigger this cheat.
+**Pet Spells will not trigger this cheat.
+*{{Icon|Damage}}{{Icon|Health}} ''"Your desperation pains me!"'' - If a Wizard attacks Marcio when they have 1/3 health, then he will interrupt to damage himself for the following amount based on the number of spots filled by the Wizard team:
+**'''800''' Ice Damage (1 Wizard present)
+**'''500''' Random Damage (2 Wizards present)
+***This attack is currently bugged and does not deal Ice Damage, nor does it deal damage of any of the seven primary Schools of Magic.
+**'''400''' Ice Damage (3 Wizards present)
+**'''300''' Ice Damage (4 Wizards present)
+**Even though the Spells that deal Ice Damage are not cast by Marcio, they can still be [[Spell:Melt|dispelled]].
+
+| spellnotes =
+
+| casts =
+Stun Block;
+Iceblade;
+Ice Trap;
+Ice Prism;
+Blizzard;
+Ice Wyvern;
+Blight Hound;
+Frostbite;
+Colossus;
+Tundra Lord;
+Natural Attack (Ice 85x, 80%);
+
+| quests =
+
+| gold =
+0 - 48;
+
+| hats =
+Everlasting Helm*F3*WMV;
+Harmony Helm*F3*WMV;
+
+| robes =
+Equilibrium Armor*F2*WMV;
+Maelstrom Costume*F2*WMV;
+
+| boots =
+Maelstrom Mukluks*F2*WMV;
+Wicked Walkers*F3*WMV;
+
+| athames =
+Marcio's Icy Edge*F3*WMV;
+Seraph's Shortblade*F3*WMV;
+
+| amulets =
+Orthrus's Choker*F2*WMV;
+Storm Lord's Pendant*F2*WMV;
+
+| rings =
+Loop of the Lawful*F2*WMV;
+Marcio's Snowfall Band*F2*WMV;
+
+| wands =
+Blistering Baton*F2*WMV;
+Jolting Jellywand*F3*WMV;
+Shivering Spear*F2*WMV;
+
+| decks =
+
+| items =
+Celestia Tribal Theme;
+Cephalopod Statue*F4*WMV;
+
+| cards =
+Darkwind;
+Empower*F5*WMV;
+Gargantuan*F2*WMV;
+Unstoppable*F3*WMV;
+
+| reagents =
+Cobalt;
+Fish Fin*F3*WMV;
+Sandstone*F6*WMV;
+Scales*F3*WMV;
+Sunstone*F3*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2*WMV;
+Delicious Cookie*F2*WMV;
+Glowing Star Fruit;
+Glowing Taffy*F3*WMV;
+Spicy Drumstick*F3*WMV;
+Strawberry Cupcake*F2*WMV;
+Submarine Sandwich*F3*WMV;
+
+| jewels =
+Disarmament Amethyst;
+Plain Health Opal +59;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2*WMV;
+Fish on a Vine*F2*WMV;
+Maelstrom Snap Dragon*F3*WMV;
+Pink Dandelion*CR*F2*WMV;
+Silver Trumpet Vine*CR*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

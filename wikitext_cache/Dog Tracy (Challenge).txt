@@ -1,0 +1,113 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 11,590
+| crecla = Dog
+| school = Storm
+| shadowslots = 2
+| startpips = 2
+| powerpips = Yes
+| outpierce =
+33%;
+
+| outboost =
+147%;
+
+| incboost =
+5% Myth;
+
+| incresist =
+73% Storm;
+
+| outhealing =
+47%;
+
+| inchealing =
+52%;
+
+| stunable = No
+| beguilable = No
+| minion = 
+| world = Lemuria
+| location = Telos
+| subloc1 = Hall of Heroes (Challenge)
+| descrip =
+Dog Tracy is considered a Minion to [[Creature:Stallion Quartermane (Challenge)|Stallion Quartermane]]. All drops are recorded on that page.
+
+'''The First Team'''
+*{{Target|Dagger}} [[Creature:Solomon Crane (Challenge)|Solomon Crane]]
+*{{Target|Key}} [[Creature:Buck Gordon (Challenge)|Buck Gordon]]
+*{{Target|Gem}} [[Creature:The Shadoe (Challenge)|The Shadoe]]
+*{{Target|Spiral}} [[Creature:Dog Tracy (Challenge)|Dog Tracy]]
+
+'''The Second Team'''
+*{{Target|Book}} [[Creature:Mandar the Barbarian (Challenge)|Mandar the Barbarian]]
+*{{Target|Chalice}} [[Creature:Duck Savage (Challenge)|Duck Savage]]
+*{{Target|Wand}} [[Creature:Stallion Quartermane (Challenge)|Stallion Quartermane]]
+*{{Target|Potion}} [[Creature:The Bantam (Challenge)|The Bantam]]
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Dark Shepherd;
+Thermic Shield;
+Stormblade;
+Windstorm;
+Disarm;
+Enfeeble;
+Insane Bolt;
+Queen Calypso;
+Wild Bolt;
+Iron Sultan;
+Natural Attack (Storm 130-260-390-520);
+Sound of Musicology (Tier 3a);
+Glowbug Squall;
+Dark & Stormy (Tier 3a);
+Rusalka's Wrath;
+Storm Lord;
+Tempest;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Dog Tracy
+}}

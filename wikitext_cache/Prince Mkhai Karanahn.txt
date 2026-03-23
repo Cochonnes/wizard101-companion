@@ -1,0 +1,154 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 510
+| crecla = Krokotopian
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Myth;
+
+| incresist =
+50% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Crazed Slave;
+
+| world = Krokotopia
+| location = Karanahn Palace
+| descrip =
+*An additional Crazed Slave will appear if more than two Wizards are present.
+
+| speech =
+:''"You will test your might against me, and you will fail. Why even try, weakling?"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 125 Storm Damage per Pip.
+
+| casts =
+Storm Trap;
+Thunder Snake;
+Lightning Bats;
+Evil Snowman (Storm);
+Storm Shark;
+Dark Sprite;
+Scorpion;
+Sunbird;
+
+| quests =
+The Key to the Temple;
+The Four Princes;
+
+| gold =
+14 - 27;
+
+| hats =
+Helm of the Bastion;
+Helm of the Cyclone*F2;
+Krokotopian Modius*F3*WMV;
+Mkhai's Cap*F2*WMV;
+Sweltering Helm*F2*WMV;
+
+| robes =
+Cloak of Refuge;
+Conjurer's Cloak;
+Durable Robe*F2*WMV;
+Glacial Tunic;
+Karanahn's Robe;
+Necromancer's Ivory Cloak;
+Raiment of the Badlands;
+Sphinx's Vestment;
+Threadbare Robe*F3*WMV;
+
+| boots =
+Ancient Sandals;
+Boots of the Citadel;
+Cryptkeeper's Shoes;
+Quartermaster's Boots*F2;
+Shoes of Adaptation;
+Shoes of Annihilation*F2;
+
+| athames =
+Athame of Mortality*F4*WMV;
+Dagger of Solitude*F2;
+Whirlwind Dagger;
+
+| amulets =
+
+| rings =
+Advocate's Ring*F2;
+Loop of Tall Tales*F4*WMV;
+Partisan's Ring*F3*WMV;
+Prince Karanahn's Loop*F2*WMV;
+Ring of the Badlands;
+
+| wands =
+Prince's Dissolving Wand*F3;
+
+| decks =
+Pharaoh's Deck*F6*WMV;
+
+| items =
+Floor Torch;
+Pile of Dirt*F2;
+Purple Painted Column;
+Wide Purple Pedestal;
+
+| cards =
+Dryad;
+Fire Trap*F2*WMV;
+Pacify;
+Sandstorm;
+Spirit Armor*F2;
+
+| reagents =
+Copper;
+Leather Straps*F3;
+Nickel;
+Pyrite*F5*WMV;
+Spider Silk;
+
+| spellements =
+
+| snacks =
+Cracker*F2*WMV;
+Green Grapes;
+Nettle Root*F3*WMV;
+Tiny Fish;
+
+| jewels =
+Cracked Accurate Sapphire +2%;
+Cracked Damage Citrine +2;
+Cracked Defense Citrine +12;
+Cracked Defense Jade +12;
+Fire Cat Ruby;
+Slow Motion Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

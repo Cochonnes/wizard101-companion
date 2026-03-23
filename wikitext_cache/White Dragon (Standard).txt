@@ -1,0 +1,96 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 27,565
+| crecla = Wyrm
+| school = Ice
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Ice;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+61%;
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Pendragon Rematch
+| descrip =
+Minion to {{Link|Creature|Pendragon (Standard)}}.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 350 Ice Damage for 0 Pips.
+
+| casts =
+Iceblade (+40%);
+Ice Trap;
+Deermouse Trap (Tier 5a);
+Woolly Mammoth;
+Lord of Winter;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = White Dragon
+
+}}

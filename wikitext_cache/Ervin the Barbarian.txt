@@ -1,0 +1,270 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 12,905
+| crecla = Boar
+| crecla2 = Pig
+| school = Death
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Taurus the Clever;
+Tonkatsu Thug;
+Tonkatsu Thug;
+
+| world = Wysteria
+| location = Pegasus Place
+| subloc1 = Tower of the Helephant
+| descrip =
+Ervin the Barbarian is one of the four Bosses on the first floor of the Tower of the Helephant.
+
+| speech =
+:'''Ervin the Barbarian:''' ''"Taurus! Someone has found our rope! No matter! We'll make short work of them!"''
+:'''Taurus the Clever:''' ''"Indeed my barbaric friend. The Heart of the Helephant shall be ours and ours alone. Destroy them!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+With a name like Ervin, his mother hoped he'd be something like an accountant. But he chose barbarian.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+'''Ervin the Barbarian'''
+*{{Icon|Shield}} At the start of the battle, Ervin cheat-casts a '''{{Link|Spell|Tower Shield (-90%)}}''' on himself. If removed by Damage, he cheat-casts it again as long as at least one Minion is alive.
+**Spells such as {{Link|Spell|Steal Ward}} or {{Link|Spell|Pierce}} can be used to safely remove the shield, but he will still replace it when he takes Damage.
+**Ervin will still cast the shield on the first Round even if all of the Minions are missing due to being defeated in a prior attempt.
+*{{Icon|Death}} ''"Hah! Your miss leaves you open!"'' - Whenever a Wizard fizzles, Ervin cheat-casts a 0-Pip Skeletal Dragon on the Wizard who fizzled, dealing '''800 + 1,998''' Death Damage over 3 Rounds.
+*{{Icon|Storm}} ''"I needed those thieves!"'' - After all of the Minions are defeated and repeating every second round, Ervin cheat-casts a 0-Pip Leviathan at the start of the round that deals '''2,030''' Storm Damage to the highest threat Wizard.
+**Although this cheat is not cast, it may still be dispelled with {{Link|Spell|Dissipate}}.
+**If all of the Minions were defeated in a prior attempt, this cheat will first trigger on the third Round (although the line is still spoken without any associated spellcast on the first Round).
+*{{Icon|Manipulation}} If a Trap is placed on Ervin while any of the Minions are alive, then he will cast Cleanse Ward on himself.
+**{{Link|Spell|Vaporize}} can be used to dispel this cheat.
+**For {{Link|Spell|Elemental Trap}} and {{Link|Spell|Spirit Trap}}, only the last Trap of the three (Storm, Life) is removed.
+**Multi-Trap Spells (such as {{Link|Spell|Windstorm}} or {{Link|Spell|Mass Death Prism}}) do not trigger this cheat.
+**{{Link|Spell|Indemnity}} can be used to avoid this cheat.
+
+'''Taurus the Clever'''
+*{{Icon|Curse}} At the start of every third round, Taurus cheat-casts '''{{Link|Spell|Smoke Screen (-50%)}}''', making it easier for Ervin to use Skeletal Dragon.
+**{{Link|Spell|Quench}} can be used to dispel this cheat.
+*{{Icon|Manipulation}} ''"This would look better on Ervin."'' - If a Wizard casts any Charm, Taurus will cheat-cast {{Link|Spell|Disarm}} on the recipient and give a Deathblade to Ervin the Barbarian. If Ervin the Barbarian is defeated, Taurus will still cast Disarm without casting Deathblade.
+**Dissipate can be used to prevent this cheat. If Disarm is dispelled, Taurus will not give Ervin a Deathblade.
+**For {{Link|Spell|Elemental Blade}} and {{Link|Spell|Spirit Blade}}, only the first Blade of the three (Fire, Life) is removed.
+**For multi-Charms like {{Link|Spell|Bladestorm}}, only the caster's Charm is removed.
+**Spells such as {{Link|Spell|Plague}} and {{Link|Spell|Smoke Screen}} activate this cheat and Taurus will cast Disarm on the caster.
+**{{Link|Spell|Aegis}} can be used to avoid this cheat.
+**Pet spells do not trigger this cheat.
+
+| spellnotes =
+
+| casts =
+Deathblade;
+Death Trap;
+Feint;
+Black Widow;
+Vampire;
+Poison;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Monster Mash;
+Wraith;
+Natural Attack (Death 85x);
+
+| quests =
+The Helephant's Heart;
+
+| gold =
+36 - 144;
+
+| hats =
+Diamond Dust Cover*F2;
+Fire-Forged Flame Helm*F5;
+Helm of Higher Learning;
+Hood of Dissonance;
+Inspired Mask*F2;
+Mistral Mantle;
+Rumbling Cover;
+Wintertide Topper;
+
+| robes =
+Compatible Clothing;
+Firestar Surcoat;
+Insightful Cloak;
+Neelus's Inspired Surcoat*F2;
+Secret Surcoat*F2;
+Timeless Tunic*F3*WMV;
+
+| boots =
+Cinder Striders;
+Equilibrium Striders*F4;
+Everlasting Footguards*F2;
+Innate Striders;
+Mutual Mukluks;
+Rising Tide Trekkers;
+Sinister Stalkers*F2;
+Tolerant Boots;
+
+| athames =
+Dirk of the Dragon;
+Lexicon Blade*F2;
+Longevity Twin Blades;
+Marinos's Lancet*F5*WMV;
+Shivering Shortblade*F2;
+Supreme Stiletto;
+
+| amulets =
+Amulet of Agony*F7;
+Balance Mastery Amulet*CR;
+Death Mastery Amulet*CR;
+Fire Mastery Amulet*CR;
+Ice Mastery Amulet*CR;
+Jewel of the Dragons*F2;
+Life Mastery Amulet*CR;
+Myth Mastery Amulet*CR;
+Scarecrow's Sinister Vial*F2;
+Storm Mastery Amulet*CR;
+
+| rings =
+Ring of Memories*F2;
+Ring of Rime*F3*WMV;
+Ring of the Maelstrom*F3;
+Signet of Shivers;
+Swirling Signet;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Balefrost;
+Blizzard;
+Darkwind*F5;
+Donate Power*F2;
+Doom and Gloom*F2;
+Evil Snowman;
+Humongofrog;
+Meteor Strike*F2;
+Minotaur;
+Mutate Snowman (Fire)*F2;
+Mutate Snowman (Storm)*F2;
+Pest Zapper;
+Precision;
+Sanctuary*F3*WMV;
+Sniper*F2;
+Strong;
+Weakness;
+Wyldfire*F6*WMV;
+
+| reagents =
+Brass;
+Bronze*F4;
+Cobalt*F8*WMV;
+Mithril*F2;
+Nickel;
+Silver*F2*WMV;
+Steel*F2;
+Titanium;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2;
+Delicious Cookie*F2;
+Flapjacks*F2*WMV;
+Glowing Star Fruit*F4;
+Glowing Taffy*F4*WMV;
+Spicy Drumstick*F2;
+Strawberry Cupcake*F2;
+Submarine Sandwich*F2;
+
+| jewels =
+Aura Crush Citrine;
+Big Sparky Amethyst;
+Blade of Fire Ruby;
+Blazing Oak Ruby;
+Boss Toad Peridot;
+Clear Blocking Hematite +10;
+Clear Blocking Opal +5;
+Clear Critical Citrine +10;
+Clear Critical Onyx +10;
+Clear Damage Amethyst +19;
+Clear Damage Jade +19;
+Clear Damage Ruby +19;
+Clear Defense Opal +20;
+Drain Health Jade;
+Draw Health Sapphire;
+Enfeeble Amethyst;
+Entangle Jade;
+Frost Giant Sapphire;
+Greensleeves Jade;
+Mander Minion Citrine;
+Melt Sapphire;
+Mend Talent Opal;
+Mulligan's Shuffle Citrine;
+Plain Defense Onyx +29;
+Plain Defense Peridot +29;
+Plain Defense Sapphire +29;
+Plain Health Opal +59;
+Plain Health Opal +60;
+Polished Blocking Opal +6;
+Polished Critical Citrine +11;
+Polished Critical Jade +11;
+Polished Critical Ruby +11;
+Polished Damage Sapphire +21;
+Polished Health Opal +86;
+Snow Drift Sapphire;
+Sprite Time Jade;
+The Deer Knight Rises Onyx;
+Virulent Plague Onyx;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F4*WMV;
+Maelstrom Snap Dragon*F3*WMV;
+Pink Dandelion*CR;
+Silver Trumpet Vine*CR*F3*WMV;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

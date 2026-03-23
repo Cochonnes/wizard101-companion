@@ -1,0 +1,204 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 13,200
+| crecla = Undead
+| school = Death
+| cheats =  Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+26%
+
+| outboost =
+130%;
+
+| incboost =
+5% Life;
+
+| incresist =
+73% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+Unforgiven Dead (Balance) (Tier 3);
+Unforgiven Dead (Shadow) (Tier 3);
+Unforgiven Dead (Star) (Tier 3);
+
+| world = Housing Instance
+| location = Unforgiven Dead Gauntlet
+| subloc1 = Unforgiven Dead Gauntlet (Tier 3)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+What she's felt, what she's known, never shined through in what she's shown. Never free. Always mean. So dub she unforgiven.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Late to Doomsday, yer still doomed!"'' - If a Wizard is late to combat, Banrigh Sluagh will cast a Curse +100% on all Wizards.
+*{{Icon|Spell}} ''"That Zombie just slipped the Wizard a card!"'' - At the start of the first Round, Unforgiven Dead (Shadow) (Tier 3) will cast a Shadow Spell giving all Wizards the following spell. 
+**{{GivesSpell|spells = 1|size = x150px|Donate Shadow (0 Shadow Pip, Self)}}
+'''Cheat Cycle:'''
+*{{Icon|Trap}} ''"The Dead are arming the Wizard! What a twist!"'' - Starting on Round 2, Unforgiven Dead (Balance) (Tier 3) will cast an AoE Hex '''+30%''' on the Boss' team
+*{{Icon|Curse}} ''"The Banrigh Sluagh brings the curse of blight"'' - Banrigh Sluagh (Tier 3) will cast either {{Link|Spell|Mass Infection}} or {{Link|Spell|Plague}}.
+*{{Icon|Aura}} ''"The Dead escape their bonds and bless the living"'' - Starting on Round 3, Unforgiven Dead (Star) (Tier 3) will cast an AoE Magnify on the Wizard's team.
+**{{Icon|Blade}} ''"All blades are made to rot."'' - Banrigh Sluagh (Tier 3) will cast {{Link|Spell|Putrefaction}}.
+*{{Icon|Manipulation}} ''"Ach, That's gotta hurt, am I right?"'' - Starting on Round 4, Banrigh Sluagh (Tier 3) will cast {{Link|ItemCard|Mass Supernova}}.
+
+| spellnotes =
+*Casts an Aegis-Protected Deathblade (+40%).
+
+| casts =
+Brace (6 Rounds);
+Virulent Plague;
+Deathblade (+40%);
+Dark Tribute;
+Feint;
+Ship of Fools;
+Vampire;
+Call of Khrulhu;
+Winged Sorrow;
+Grim Reader (Tier 3a);
+Wraith;
+Scarecrow;
+Dr. Von's Monster (Tier 3a);
+
+| quests =
+
+| gold =
+0 - 1,415;
+
+| hats =
+Highlands Fighter's Balmoral (Level 150+)*CR;
+Highlands Hero's Balmoral (Level 150+)*CR;
+Highlands Raider's Balmoral (Level 140+)*CR;
+Highlands Soldier's Balmoral (Level 150+)*CR;
+Highlands Warrior's Balmoral (Level 150+)*CR;
+
+| robes =
+Highlands Champion's Kit (Level 130+)*CR;
+Highlands Champion's Kit (Level 150+)*CR*F3;
+Highlands Fighter's Kit (Level 150+)*CR*F2;
+Highlands Hero's Kit (Level 150+)*CR;
+Highlands Raider's Kit (Level 150+)*CR;
+Highlands Soldier's Kit (Level 150+)*CR;
+Highlands Warrior's Kit (Level 150+)*CR;
+
+| boots =
+Highlands Fighter's Boots (Level 150+)*CR;
+Highlands Hero's Boots (Level 150+)*CR;
+Highlands Militia Boots (Level 150+)*CR;
+Highlands Raider's Boots (Level 150+)*CR;
+Highlands Soldier's Boots (Level 140+)*CR;
+Highlands Warrior's Boots (Level 150+)*CR
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Adult Birch Tree;
+Black Dragon Bobblehead;
+Dead Briar Tree;
+Dreadkeep Stone;
+Ettin Fan*CR;
+Ettin Fanatic*CR;
+Farmer's Equipment;
+Large Swirl Tree;
+Medium Berry Bush;
+Mushroom Cottage;
+Nameless Stone;
+Pendragon Bobblehead;
+Short Autumnal Tree;
+Small Autumnal Bush*F2*WMV;
+Tall Autumnal Tree*F2;
+Tower Bell*CR;
+White Dragon Bobblehead;
+Wooden Mirror;
+Wraith Statue;
+
+| cards =
+Animate;
+Brimstone Revenant;
+Catalan;
+Deer Knight*F2;
+Frozen Armor;
+Handsome Fomori*F2*WMV;
+Harvest Lord*F3*WMV;
+Judgement;
+Keeper of the Flame;
+Pierce*F5*WMV;
+Plague;
+Steal Ward;
+Tempest;
+Triage*F2*WMV;
+Weakness*F3*WMV;
+Wild Bolt;
+
+| reagents =
+Antique Chalice*F2*WMV;
+Blood Moss*F2*WMV;
+Bone*F5*WMV;
+Cat Tail;
+Fish Fin*F3*WMV;
+Fossil;
+Nightshade*F2;
+Sandstone;
+Stone Block;
+Water Lily*F2*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Pain-Bringer Opal;
+Pain-Giver Opal;
+Spell-Defying Opal;
+Spell-Proof Opal;
+
+| pins =
+
+| pets =
+Loyal Terrier*CR;
+Trusty Terrier*CR;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

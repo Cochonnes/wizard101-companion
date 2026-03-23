@@ -1,0 +1,237 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 2,400
+| crecla = Fox
+| crecla2 = Undead
+| school = Death
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Life;
+
+| incresist =
+50% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| summons =
+MacDeath Understudy (Tier 1);
+MacLife Understudy (Tier 1);
+MacStorm Understudy (Tier 1);
+
+| world = Housing Instance
+| location = Playhouse
+| subloc1 = Playhouse (Tier 1)
+| descrip =
+MacDeath (Tier 1) is considered a Boss for the purpose of drops.  All drops from this duel are recorded on this page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+The cursed spirit of cursed play, cursed to perform the same cursed scenes over and over. He's prone to cursing.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Minion}} ''"May a choir of understudies sing thee to my rest"'' - MacDeath will cast a Moon Spell to summon a MacDeath Understudy. MacLife Understudy, or MacStorm Understudy.
+**A second Minion will be summoned after the first one arrives, if 3 Wizards are present.
+**MacDeath will summon a replacement for any Minion that is defeated.
+*{{Icon|Damage over Time}} ''"Wizards die a thousand times before their death!"'' - If a Damage over Time Spell is cast on MacDeath, then he will immediately {{Link|Spell|Shift}} it back on the casting Wizard.
+
+| spellnotes =
+
+| casts =
+Ether Shield (-75%);
+Deathblade;
+Curse (+25%);
+Death Trap (+35%);
+Dark Sprite (80-120);
+Ghoul (180);
+Deer Knight;
+Vampire (375);
+
+| quests =
+The Play's the Thing;
+
+| gold =
+75 - 118;
+
+| hats =
+Dragonrider's Assailing Helm (Any Level)*CR;
+Dragonrider's Utility Helm (Any Level)*CR;
+
+| robes =
+Dragonrider's Assailing Robe (Any Level)*CR;
+Dragonrider's Vigilant Robe (Any Level)*CR;
+
+| boots =
+Dragonrider's Vigilant Boots (Any Level)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Broken Dragon Bust;
+Dragon Bust;
+Dragon Claw;
+Dragon Pedestal;
+Dragon Shield;
+Dragon Skull;
+Dragonclaw Pedestal;
+Dragonflame Torch;
+Dragonhorn Trophy;
+Dragonmoon Marker;
+Dragonmoon Obelisk*F2;
+Dragonskull Marker;
+Dragonskull Obelisk;
+Dragonskull Plaque;
+Dramaturgy MacDeath Theme*F2;
+Dramaturgy Main Theme;
+Dramaturgy Stagehand Theme;
+Dramaturgy Student Theme;
+Great Dragon Bust;
+Snapdragon Flowerbed;
+Snapdragons;
+Tall Dragon Vase;
+
+| cards =
+Accurate*F2*WMV;
+Blizzard;
+Blue Phoenix;
+Crow;
+Dr. Von's Monster;
+Evil Snowman;
+Freeze;
+Frost Beetle;
+Frostbite;
+Ghoul;
+Harvest Lord*F4*WMV;
+Ice Wyvern;
+Icebird;
+Imp;
+Krokomummy;
+Phoenix;
+Pigsie;
+Polymorph Draconian;
+Punishment;
+Scarab;
+Scarecrow;
+Skeletal Dragon;
+Snow Bird*F2;
+Snow Serpent*F3*WMV;
+Squall Wyvern;
+Storm Bird*F3*WMV;
+Stormbird;
+Sunbird;
+Thunderbird (515-595);
+Yellow Troll;
+
+| reagents =
+Amethyst;
+Brass;
+Bronze;
+Bronze Gear;
+Citrine;
+Copper*F2;
+Iron;
+Lead;
+Nickel*F2;
+Onyx;
+Perfect Amethyst;
+Perfect Citrine;
+Perfect Jade*F2;
+Perfect Onyx;
+Perfect Peridot*F2;
+Perfect Ruby;
+Perfect Sapphire;
+Peridot;
+Platinum*F4*WMV;
+Pyrite;
+Ruby;
+Sapphire;
+Scrap Iron;
+Silver;
+Spring*F2*WMV;
+Steel*F2*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Bunch of Figs;
+Cranberry Frog;
+Dragon Fruit;
+Dragonhorned Melon;
+Drumstick;
+Hard Boiled Beetle Eggs;
+Lemon Daisy;
+Mystic Dragon Fruit;
+Salmon Joy;
+Sweet Mango;
+Tiny Fish;
+Wheat Cracker;
+Wormy Apple;
+
+| jewels =
+Cracked Healing Opal +1%;
+Cracked Health Opal +6;
+Cracked Mana Opal +4*F2*WMV;
+Cracked Mending Opal +1%;
+Cracked Resilient Opal +1%;
+
+| pins =
+
+| pets =
+Crimson Spectre*F2;
+Skeletal Gladiator;
+
+| seeds =
+Evil Snow Peas;
+Frozen Fly Trap;
+Snap Dragon;
+Sunion*CR*WMV;
+White Desparagus;
+
+| mounts =
+Dark Redwing*1;
+Dragon Wings*PERM;
+Faithful Dragoness*1;
+
+| spells =
+
+}}

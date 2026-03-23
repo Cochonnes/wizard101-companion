@@ -1,0 +1,109 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 12,275
+| crecla = Cyclops
+| school = Myth
+| startpips = 4
+| schoolpips =
+Myth;
+
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Fire, Life;
+
+| incresist =
+30% Ice, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Krokotopia
+| location = Marketplace of Ideas
+| subloc1 = Legend of Sutekh
+| descrip =
+*Defeating Maximus Voltus is part of the Initiate Storm Weaving quest, ''"Sutekh Rebooted"''. Wizards can also defeat Maximus Voltus as one of their Storm Weaving lessons, which awards the badge, [[Basic:Storm Weaving Badges|Maximus Effort]].
+| speech =
+
+:'''{{Link|NPC|Sutekh Thunderscales}}''': ''"Are you valor?"''
+:'''Maximus Voltus''': ''"I am, but not yours."''
+:'''Sutekh Thunderscales''': ''"I know you though, don't I? We fought. Who won?"''
+:'''Maximus Voltus''': ''"I think that is still being decided."''
+:'''Sutekh Thunderscales''': ''"You don't smell right. You don't smell of Storm."''
+:'''Maximus Voltus''': ''"Nothing here is what it should be. Let us correct that."''
+
+| spellnotes =
+
+| casts =
+Tower Shield;
+Myth Trap;
+Mythic Fuel (+25%);
+Keeper of the Flame (Tier 5a);
+Mythic Sting;
+Ether Golem (Tier 2b);
+Stone Colossus (Tier 2b);
+
+| quests =
+A Boy Called Sutekh;
+Sutekh Rebooted;
+
+| gold =
+22 - 33;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Krok Gold Idol (Storm);
+Weft Yarn @ 60 Weft Yarn*F2*WMV;
+Weft Yarn @ 65 Weft Yarn;
+Weft Yarn @ 70 Weft Yarn;
+Weft Yarn @ 100 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

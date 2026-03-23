@@ -1,0 +1,164 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 410
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Life;
+
+| incresist =
+50% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Haunted Minion;
+
+| world = Wizard City
+| location = Firecat Alley
+| subloc1 = Forlorn Tower
+| descrip =
+An undead singer who's desperate for a role, Melweena aggressively accosted {{Link|NPC|Lizzo FireSpitter}} to be included in the upcoming production of ''Firecats!: The Musical'', leading the latter to quickly give her a made-up role. Lizzo sends Wizards to Melweena to deliver the news that her role in the play is not meant to be.
+
+| speech =
+:''"Focus, Melweena! Be the Juicicle. From the top! Juicicles do and Juicicles can! Juicicles can and Juicicles D'OOH! Intruder! How dare you! I'll have you know I've recently been cast as a major role in a very prestigious local theater production. Why are you interrupting rehearsals? There's no role for me? But, Lizzo said- She made up the character so I'd stop harassing her? And she sent you here so I couldn't get violent? I see. I see that Lizzo was wrong for lying to me. Just as I see that she was also wrong about me not getting violent. COME HERE!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+Even in death, this former public school teacher can't keep from trying to teach Wizard students lessons in the Forlorn Tower.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Death Trap;
+Dark Sprite;
+Natural Attack (Death 180);
+Natural Attack (Death 270);
+Natural Attack (Death 85x);
+Frost Beetle;
+Snow Serpent;
+Fire Elf (50+210);
+
+| quests =
+Problematic Casting;
+
+| gold =
+5 - 15;
+
+| hats =
+Antique Helm;
+Charged Cover*F3*WMV;
+Cowl of Comparison*F2*WMV;
+Cowl of Wisdom*F5*WMV;
+Helm of Audacity*F7*WMV;
+Hood of Tension*F5*WMV;
+Martyr's Hat*F2;
+Novice's Hat;
+Sapphyra's Studded Helm*F3*WMV;
+Soft Hood;
+Sturdy Hat;
+
+| robes =
+Ashen Cloak*F6*WMV;
+Cloak of Calamity;
+Cloak of the Watchful*F2*WMV;
+Splendiferous Robe*F2;
+Sturdy Coat;
+
+| boots =
+Kraken's Charged Boots*F5*WMV;
+Plated Boots*F3*WMV;
+Roughspun Shoes;
+Senior Novice's Shoes*F8*WMV;
+Slippers of Repose;
+Soft Boots;
+Soldiers Wraps;
+
+| athames =
+Citrine Studded Athame*F7*WMV;
+
+| amulets =
+Choker of Ferocity;
+Swiftarrow's Necklace*F2*WMV;
+
+| rings =
+Lord's Signet*F3*WMV;
+Simple Opal Ring*F2;
+
+| wands =
+
+| decks =
+
+| items =
+Padded Chair;
+Storm Stone Tower*F3*WMV;
+
+| cards =
+Banshee*F2*WMV;
+Blood Bat;
+Dark Sprite;
+Fire Elf;
+Frost Beetle;
+Ghost Touch*F4*WMV;
+Imp*F2;
+Keen Eyes*F4*WMV;
+Locust Swarm;
+Snow Serpent;
+Thunder Snake*F2;
+Time of Legend*F2;
+Tough;
+Troll;
+
+| reagents =
+Ectoplasm*F2;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry;
+Cheese Broccoli*F5*WMV;
+Chocolate Strawberry*F2*WMV;
+Gummy Firecat*F3*WMV;
+Sugar Donut;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

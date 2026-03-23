@@ -1,0 +1,227 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,150
+| crecla = Celestian
+| school = Moon
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+47;
+
+| criticalblock =
+18;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire;
+
+| incresist =
+35% Ice, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Stellar Protector (Boss);
+
+| world = Celestia
+| location = Trial of the Spheres
+| subloc1 = Lunar Sanctum
+| descrip =
+
+| speech =
+:''"You are not as charming as you imagine yourself. Consider that."''
+
+| cheatnotes =
+*''"Your charm has worn thin!"'' - During the first Round, and after each direct attack against him, Ptolemos will cast a {{Link|Spell|Tower Shield (-90%)}} on himself.
+**{{Link|Spell|Melt}} can be used to prevent this cheat.
+**{{Link|Spell|Pierce}} or {{Link|Spell|Steal Ward}} can be used to safely remove the Tower Shield.
+**All Enemy Spells and Steal Spells will not trigger this cheat.
+*''"You have charmed your way into my heart!"'' - If a Wizard casts a [[:Category:Charm Spells|Charm]] Spell, Ptolemos will remove all Wards from himself.
+**Global Spells, such as {{Link|Spell|Sanctuary}}, will trigger this cheat.
+**Pet Spells will not trigger this cheat.
+*Ptolemos will remove harmful [[:Category:Ward Spells|Wards]] that are placed on him (e.g. [[:Category:Trap Spells|Traps]], Prisms, etc.).
+**{{Link|Spell|Vaporize}} can be used to prevent this cheat.
+**Multi-target Trap Spells, such as {{Link|ItemCard|Mass Feint}}, will not trigger this cheat.
+**Only the first Ward is removed from a multi-Trap Spell, such as {{Link|Spell|Spirit Trap}}.
+**{{Link|Spell|Indemnity}} will prevent Trap removal once.
+
+| spellnotes =
+
+| casts =
+Moon Blade;
+Moon Trap;
+Ice Prism;
+Hex;
+Ice Wyvern;
+Thieving Dragon;
+Frostbite;
+Blight Hound;
+Colossus;
+Tundra Lord;
+Black Widow;
+Vampire;
+Poison;
+Wraith;
+Scarecrow;
+Natural Attack (Storm 125x, 70%);
+
+| quests =
+Trial of the Spheres;
+
+| gold =
+79 - 117;
+
+| hats =
+Cover of Rapture*F4*WMV;
+Forgotten Facade*F2*WMV;
+Hallowe'en Hat*CR*HOL;
+Helm of Burning Ambition;
+Moon Cover*F3;
+Storyteller's Cap;
+Vital Headdress;
+
+| robes =
+Devoted Vestment*F2;
+Eclipse Cloak*F3*WMV;
+Euphoric Outfit*F3*WMV;
+Eureka Raiment*F4*WMV;
+Mysterious Costume;
+Reckless Raiment;
+Tragic Tunic;
+Turbulent Tunic;
+Volatile Vestment*F2*WMV;
+Whimsical Surcoat;
+
+| boots =
+Boots of Celestian Totality*F5;
+Celestian Tempest Trekkers*F2;
+Eclipse Clogs;
+Everlasting Celestian Boots;
+Frostbit Footguards;
+Icestar Stalkers;
+Natural Boots;
+Tolerant Boots;
+United Footwear*F3*WMV;
+Virtue Shoes;
+Wraps of Rapport*F2;
+Wraps of Rapture*F5*WMV;
+
+| athames =
+Dagger of Typhoons;
+Diamond Dust Dagger*F4*WMV;
+Dirk of Delusion;
+Kris of the Piscean Guard*F2;
+Moon Dagger*F5*WMV;
+Star Blade;
+
+| amulets =
+Jewel of the Feint*F3*WMV;
+Moon Pendant*F2*WMV;
+Vial of Frozen Fury*F3;
+
+| rings =
+Combustible Band;
+Majestic Signet*F3;
+Moon Ring*F4*WMV;
+Star Signet;
+Sub Zero Signet*F3*WMV;
+
+| wands =
+Guardian's Wand*CR*HOL;
+Stave of Tweets*CR*HOL;
+Wand of the Third Season*CR*HOL;
+
+| decks =
+
+| items =
+Celestia Finale Theme*F5*WMV;
+Expert's Socket Wrench;
+Krokopatra Exalted Duel*CR;
+Krokopatra Master Duel*CR;
+Meowiarty Exalted Duel*CR;
+Moon Icon*F4*WMV;
+Rattlebones Exalted Duel*CR*F3*WMV;
+Rattlebones Master Duel*CR;
+Snowflake Wrapped Gift*CR*HOL;
+
+| cards =
+Accurate;
+Minotaur;
+Wyldfire;
+
+| reagents =
+Brass;
+Bronze*F2;
+Cobalt*F6*WMV;
+Nickel*F6*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F2*WMV;
+Delicious Cookie*F4*WMV;
+Glowing Star Fruit*F3*WMV;
+Glowing Taffy*F3*WMV;
+Spicy Drumstick*F3*WMV;
+Strawberry Cupcake*F4*WMV;
+Submarine Sandwich;
+
+| jewels =
+Balanceblade Talent Citrine;
+Brown Recluse Jade;
+Bullheaded Peridot;
+Draconian Opal;
+Fortify Talent Opal;
+Mass Storm Prism Amethyst;
+Melt Sapphire;
+Ninja Pig Opal;
+Plain Blocking Citrine +6;
+Plain Blocking Onyx +6;
+Plain Damage Onyx +15;
+Plain Damage Peridot +15;
+Plain Defense Citrine +29;
+Plain Defense Opal +15;
+Plain Defense Opal +16*F2;
+Plain Health Opal +59;
+Power-Taker Ruby;
+Quench Ruby;
+Reshuffle Citrine;
+Strangle Onyx;
+The Deer Knight Rises Onyx;
+Unbalance Citrine;
+Vaporize Peridot*F2;
+
+| pins =
+
+| pets =
+Cupig*CR*HOL;
+Lovely Ladybug*CR*HOL;
+Lump of Coal*CR*HOL;
+Nutcracker*CR*HOL;
+Pet Egg*CR*HOL;
+Rescue Rover*CR*HOL;
+Sea Dragon*CR;
+Valentine Pig*CR*HOL*F2;
+Yuletide Spirit*CR*HOL;
+
+| seeds =
+Deadly Fly Trap*F4*WMV;
+Maelstrom Snap Dragon*F4*WMV;
+Pink Dandelion*CR*F4*WMV;
+Silver Trumpet Vine*CR*F5*WMV;
+
+| mounts =
+Stormrider Hare*PERM*CR*HOL;
+
+| spells =
+
+}}

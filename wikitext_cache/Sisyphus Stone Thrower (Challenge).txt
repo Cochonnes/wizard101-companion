@@ -1,0 +1,221 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 8,690
+| crecla = Eagle
+| school = Myth
+| school2 = Balance
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+29%;
+
+| outboost =
+92%;
+
+| incboost =
+None
+| incresist =
+13% Fire, Life; 
+33% Storm, Myth, Balance, Shadow;
+53% Ice, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = Garden of Hesperides
+| subloc1 = Temple of Sisyphus (Challenge)
+| badge = Never Skipped Rock Day
+| descrip =
+*For the Standard version of this battle, see {{Link|Creature|Sisyphus Stone Thrower (Standard)}}.
+
+'''Advanced Combat Rules:'''
+*Wizards stats and spells are scaled to Level 90.
+*Spell Decks cannot be changed while in this instance.
+*No-PvP spells are disallowed in this fight.
+*PvP-Only Spells are allowed in this fight.
+*Snake Turn Order Combat.
+*Wizards cannot re-join combat after fleeing mid-combat.
+
+'''Additional Notes:'''
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Global}} ''"This isn't a sprint. It's a test of endurance!"'' - At the beginning of the first Round, and repeating each time he casts his Natural Attack, Sisyphus will interrupt-cast a version of {{Link|Spell|Equalize}} that sets the Damage cap to one of the following values based on the number of times Sisyphus casts his Natural Attack:
+**Beginning of 1st Round: '''500'''
+**One Natural Attack: '''1,000'''
+**Two Natural Attacks: '''3,000'''
+**Three Natural Attacks and onward: '''9,999'''
+**The Equalize will be recast if replaced, and the Damage cap will not increase.
+*{{Icon|Damage}} ''"Boulder you than me!"'' - At the end of every third Round, occurring one Round earlier per Wizard present if there are 2 or more Wizards present, Sisyphus will cast his Natural Attack on a random Wizard, dealing 5% max Health Damage. If the Wizard has a helpful Charm, this Damage increases by 5%, and by 15% for each additional Charm after the first.
+*{{Icon|Spell}} ''"Who will cast the first stone?"'' - After casting his Natural Attack, Sisyphus will give a random Wizard one Rock Put:
+**{{GivesSpell|spells = 1|size = x150px|Rock Put}}
+*{{Icon|Curse}}{{Icon|Jinx}} ''"Hya! Pushed away!"'' - If a harmful Charm or Ward is placed on Sisyphus, he will push the effects to the caster.
+**Dispels will not trigger this cheat.
+**Harmful Aura effects that decrease outgoing Damage, such as {{Link|Spell|Starfall}}, will trigger this cheat.
+**Secondary effects from Spells will trigger this cheat.
+
+| spellnotes =
+
+| casts =
+Attenuate;
+Moon Shield;
+Star Shield;
+Myth Trap;
+Mass Myth Trap;
+King Artorius (Myth) (Tier 5b);
+Basilisk (Tier 5b);
+Spiritual Golem (Tier 5b);
+Ra (Tier 5b);
+
+| quests =
+
+| dropnotes =
+Defeating Sisyphus Stone Thrower will always drop the following:
+*{{Icon|Reagent}} 6-9 Olympian Dust
+*{{Icon|Spellement}} 3-4 Aquila Spellements from '''any''' School
+*{{Icon|Athame}}/{{Icon|Jewel}}/{{Icon|Treasure Card}} Mix of 2 Athames, Jewels, and Treasure Cards
+
+| gold =
+5 - 31;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Dagger of Gorgon Imprisonment (Level 90+);
+Dagger of Gorgon Infamy (Level 90+);
+Dagger of Gorgon Petrification (Level 90+);
+Dagger of Gorgon Suffering (Level 90+);
+Dagger of Gorgon Venom (Level 90+);
+Dagger of Gorgon Volatility (Level 90+);
+Dagger of Gorgon's Gaze (Level 90+);
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Avenging Fossil (Tier 2b);
+Athena Battle Sight;
+Balanceblade;
+Celestial Calendar (Tier 2b);
+Cleanse Charm;
+Elemental Blade;
+Elemental Trap;
+Feint;
+Fire Trap;
+Fireblade;
+Hephaestus;
+Hex;
+Ice Trap;
+Iceblade;
+Life Trap;
+Lifeblade;
+Lord of Winter (Tier 2b);
+Myth Trap;
+Mythblade;
+Pierce;
+Queen Calypso;
+Reshuffle;
+Sabertooth;
+Sabertooth (Tier 2b);
+Spinysaur;
+Spirit Blade;
+Spirit Trap;
+Storm Owl (Tier 2b);
+Storm Trap;
+Stormblade;
+Sun Serpent;
+Sun Serpent (Tier 2b);
+
+| reagents =
+Olympian Dust @ 6 Olympian Dust;
+Olympian Dust @ 7 Olympian Dust;
+Olympian Dust @ 8 Olympian Dust;
+Olympian Dust @ 9 Olympian Dust;
+
+| spellements =
+Fires of Mars;
+Jupiter's Might;
+Neptune's Fury;
+Phoebus' Will;
+Pluto's Peril;
+Saturn's Reaping;
+Terminus' Strike;
+
+| snacks =
+
+| jewels =
+Add Health Opal;
+Balance-Boon Citrine;
+Balance-Giver Citrine;
+Balance-It Citrine;
+Balance-Off Citrine;
+Big Energy Opal;
+Canny Opal;
+Cheeky Opal;
+Death-Eye Onyx;
+Death-Giver Onyx;
+Death-Proof Onyx;
+Death-Shot Onyx;
+Dogged Opal;
+Eager Opal;
+Energy Opal;
+Extra Mana Opal;
+Fire-Boon Ruby;
+Fire-Proof Ruby;
+Health Boost Opal;
+Healer Opal;
+Hearty Opal;
+Huge Energy Opal;
+Ice-Boon Sapphire;
+Ice-Eye Sapphire;
+Ice-Proof Sapphire;
+Ice-Shot Sapphire;
+Life-Boon Jade;
+Life-Eye Jade;
+Life-Giver Jade;
+Mana Boost Opal;
+Myth-Eye Peridot;
+Myth-Giver Peridot;
+Myth-Proof Peridot;
+Sharp Opal;
+Storm-Boon Amethyst;
+Storm-Eye Amethyst;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+Sandy Skeleturion*CR;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Sisyphus Stone Thrower (Standard)
+}}

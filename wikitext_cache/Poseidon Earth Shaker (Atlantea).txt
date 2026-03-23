@@ -1,0 +1,188 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 16,000
+| crecla = Eagle
+| school = Storm
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Atlantean Trierarch;
+Atlantean Trierarch;
+Atlantean Trierarch;
+
+| world = Wizard City
+| location = Atlantea
+| subloc1 = Palace of Atlantea
+| descrip =
+Poseidon Earth Shaker is the final Boss of Atlantea. Defeating him is the final step in completing the second trial of the Immortal Games, and becoming the [[Basic:Aquila Badges| Valorous Silver Archon]].
+*For the Challenge version of this battle, see {{Link|Creature|Poseidon Earth Shaker (Atlantea, Challenge)}}.
+
+| speech =
+:''"Hail, Transcendent Wizard, and welcome to the center of Atlantea, the light in the depths.  Well, unlike my brother, I will not hold back...much.  The challenge must be fair, no?"''
+
+| cheatnotes =
+*{{Icon|Aura}}''"We immortals are infallible!"'' - During the first Round, and any other Round when he does not have an Aura, Poseidon will use his turn to cast Infallible.
+*{{Icon|Curse}}/{{Icon|Jinx}}''"You seek to weaken me? Drink from the depths!"'' - If any single-target Negative Charm, Traps, or Prism is cast on Poseidon, he will use his Natural Attack, which removes all Traps that were placed on him.
+**Multi-target Spells, such as {{Link|Spell|Windstorm}}, {{Link|Spell|Mass Storm Prism}}, or others, do not trigger this cheat.
+**Spells with single-target secondary effects will trigger this cheat.
+
+| spellnotes =
+
+| casts =
+Infallible;
+Vengeance;
+Thermic Shield;
+Stormblade;
+Storm Trap;
+Windstorm;
+Natural Attack (Poseidon);
+Triton;
+Storm Lord;
+Leviathan;
+Storm Hound;
+
+| quests =
+Into the Sea;
+Under the Sea;
+
+| dropnotes =
+When a Wizard has not unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge and has completed the '''{{Link|Quest|Sisyphus is Unhappy}}''' {{Icon|Swole Like Sisyphus}} Quest, the following drops will be guaranteed:
+*{{Icon|Spellement}} 13-14 Aquila Spellements of '''any''' School
+
+If a Wizard already has the Hero of Avalon Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of Atlantea to acquire a [[Item:Level Scaling Elixir - 70|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+1 - 39;
+
+| hats =
+Helm of Poseidon's Acumen;
+Poseidon's Backdraft Helm*F2*WMV;
+Poseidon's Cover of Vim;
+Poseidon's Iceberg Helm*F2;
+Poseidon's Raging Sea Helm;
+Poseidon's Typhoon Helmet;
+Poseidon's Wave Crest Helm;
+Senator's Downpour Laurel;
+Senator's Embering Laurel*F2*WMV;
+Senator's Forlorn Laurel;
+Senator's Frigid Laurel;
+Senator's Laurel of Vigor*F2*WMV;
+Senator's Scholarly Laurel*F3;
+Senator's Stately Laurel;
+
+| robes =
+Poseidon's Calm Seas Cloak;
+Poseidon's Fabled Raiment;
+Poseidon's Icy Seas Armor;
+Poseidon's Sizzling Garb;
+Poseidon's Tsunami Garb*F2*WMV;
+Poseidon's Undertow Robe;
+Senator's Downpour Toga;
+Senator's Forlorn Toga*F3;
+Senator's Frigid Toga;
+Senator's Scholarly Toga;
+Senator's Stately Toga;
+Senator's Toga of Embers*F2;
+Senator's Toga of Vigor;
+Tunic of Poseidon's Mercy*F2*WMV;
+
+| boots =
+Poseidon's Floodskimmers*F2*WMV;
+Poseidon's Frost Runners;
+Poseidon's Maritime Boots;
+Poseidon's Steamwalkers*F2*WMV;
+Poseidon's Waterwalkers*F2*WMV;
+Poseidon's Wave Walkers;
+Poseidon's Whirlpool Boots;
+Senator's Downpour Shoes*F3*WMV;
+Senator's Forlorn Sandals*F2;
+Senator's Frigid Sandals;
+Senator's Sandals of Vigor;
+Senator's Shoes of Embers;
+Senator's Scholarly Shoes;
+Senator's Stately Sandals;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Ares' Cold Heart Spear*F2*WMV;
+Ares' Spear of Elation;
+Ares' Spear of Furor*F2*WMV;
+Ares' Spear of Honor*F3*WMV;
+Ares' Spear of Insight*F2;
+Ares' Sunflare Spear;
+Ares' Waterspout Spear*F2;
+Poseidon's Polar Trident;
+Poseidon's Squalls Trident;
+Poseidon's Staff of Tides;
+Poseidon's Trident of Lore;
+Poseidon's Waterbane*F2;
+Poseidon's Wavemaker Staff*F2;
+Trident of Poseidon's Fury;
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Olympian Dust @ 25 Olympian Dust;
+Olympian Dust @ 28 Olympian Dust;
+Olympian Dust @ 30 Olympian Dust;
+Olympian Dust @ 35 Olympian Dust;
+Olympian Dust @ 45 Olympian Dust;
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Stormy Skeleturion;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

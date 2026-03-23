@@ -1,0 +1,147 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 20,345
+| crecla = Dino
+| crecla2 = Pterodactyl
+| school = Fire
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+483;
+
+| criticalblock =
+113;
+
+| outpierce =
+35%;
+
+| outboost =
+96%;
+
+| incboost =
+55% Life;
+8% Storm;
+
+| incresist =
+32% Ice;
+12% Fire, Myth, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Skurkis Screaming Moon (Challenge);
+Yacate Farwalker (Challenge);
+
+| world = Housing Instance
+| location = Huac Cries Blood Rematch
+| descrip =
+As the primary Boss in this battle, all drops are recorded on this page.
+*For the Standard version of this battle, see {{Link|Creature|Huac Cries Blood (Standard)}}.
+
+'''Advanced Combat Rules:'''
+*Wizards stats and spells are scaled to Level 100.
+*Spell Decks cannot be changed while in this instance.
+*No-PvP spells are disallowed in this fight.
+*PvP-Only Spells are allowed in this fight.
+*Wizards cannot re-join combat after fleeing mid-combat.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Afterlife}} ''"Let the Old Day Die!"'' - If anyone on the Wizard's team is defeated, the Boss that defeated them will cast a version of {{Link|Spell|Meteor Strike}} that deals 100% max Health Damage to all Wizards.
+
+*{{Icon|All Enemies (Squared)}} ''"Together, we return!"'' - If more than one enemy is defeated on the same turn, including if all enemies are defeated at the same time, all enemies will cast a version of Blessing, restoring themselves to 100% max Health.
+
+*{{Icon|Ward}} ''"No defense against the inevitable"'' - If a Wizard casts a Shield, Huac Cries Blood will cast {{Link|Spell|Helephant (Tier 5b)}} on the Wizard with the lowest Health.
+
+*{{Icon|Heal over Time}} ''"All succumb to decay"'' - If a Wizard casts a Heal over Time, Skurkis Screaming Moon will cast {{Link|Spell|Skeletal Pirate (Tier 5b)}} on the Wizard with the lowest Health.
+
+*{{Icon|Curse}} ''"No curse can snare me!"'' - If a Wizard casts a harmful Charm on Yacate Farwalker, Yacate Farwalker will cast {{Link|Spell|Stone Colossus (Tier 5b)}} on the Wizard with the lowest Health.
+:*Dispels and harmful Accuracy Charms do not trigger this cheat.
+
+*{{Icon|Curse}} ''"No curse can snare me!"'' - If a Wizard casts a harmful Charm on Huac Cries Blood or Skurkis Screaming Moon, Yacate Farwalker will cast {{Link|Spell|Glacial Fortress}} on the Boss who receives the harmful Charm. 
+:*{{Icon|Dispel}} Dispels will trigger this cheat. If the harmful Charm is a Dispel cast on Huac Cries Blood, he will cast a protected +35% Fireblade on himself. If the harmful Charm is a Dispel cast on Skurkis Screaming Moon, she will cast a protected {{Link|Spell|Deathblade (+40%)}} on herself.
+:*Harmful Accuracy Charms do not trigger this cheat.
+:*If a Spell is cast that applies harmful Charms on multiple enemies, such as {{Link|Spell|Plague}}, Yacate Farwalker will only cast Stone Colossus and will not cast Glacial Fortress.
+:*Yacate Farwalker's Glacial Fortress can be dispelled with {{Link|Spell|Melt}}.
+
+| spellnotes =
+
+| casts =
+Fireblade;
+Balanceblade (+35%);
+Helephant (Tier 5a);
+
+| quests =
+
+| dropnotes =
+This Boss will always drop the following:
+*{{Icon|Wand}} 2 Morganthe Wands
+*{{Icon|Reagent}} 12 Shadow Webbing
+*{{Icon|Spellement}} 16-17 groups of 2 Rank 10 Spellements
+*{{Icon|Treasure Card}} 6-7 Azoth Treasure Cards
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Umbra Queen's Chill Staff (Level 170+);
+Umbra Queen's Dusty Staff (Level 170+);
+Umbra Queen's Furious Staff (Level 170+);
+Umbra Queen's Grim Staff (Level 170+);
+Umbra Queen's Scorched Staff (Level 170+);
+Umbra Queen's Shocked Staff (Level 170+);
+Umbra Queen's Wild Staff (Level 170+);
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Shadow Webbing @ 12 Shadow Webbing;
+
+| spellements =
+Avenging Fossil @ 2 Avenging Fossil;
+Celestial Calendar @ 2 Celestial Calendar;
+Lord of Winter @ 2 Lord of Winter;
+Sabertooth @ 2 Sabertooth;
+Spinysaur @ 2 Spinysaur;
+Storm Owl @ 2 Storm Owl;
+Sun Serpent @ 2 Sun Serpent;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Huac Cries Blood (Rematch)
+}}

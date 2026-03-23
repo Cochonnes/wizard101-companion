@@ -1,0 +1,114 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 10,500
+| crecla = Dog
+| school = Balance
+| startpips = 2
+| powerpips = Yes
+| cheats = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Cerberus (Fire, Challenge);
+Cerberus (Myth, Challenge);
+
+| world = Wizard City
+| location = Tartarus (Challenge)
+| subloc1 = Courtyard of Tartarus (Challenge)
+| descrip =
+*For the Standard version of this Creature, see {{Link|Creature|Cerberus (Balance)}}.
+
+| cheatnotes =
+*{{Icon|Round}} ''"*GROWL*"'' - At the beginning of the first Round and every fourth Round afterward, the Balance and Myth heads will remove all harmful Wards on themself, and each head will do the following:
+**The Balance head will cast {{Link|Spell|Donate Power}} on itself.
+**The Fire head will cast {{Link|Spell|Ha-ha! A 1-Up!}} on itself that restores 250 Health over 5 Rounds (''307 Health'' with its outgoing Healing boost).
+**The Myth head will cast three -40% Damage Wards on itself.
+*{{Icon|Shield}} ''"*SNARL*"'' - If a Wizard casts a helpful Ward, the Fire and Myth heads will cast their Natural Attacks on the recipient.
+*{{Icon|Trap}} ''"*HAPPY BARK!*"'' - If a harmful Ward is cast on the Fire head, it will cast a Spell to remove all Traps from itself.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Balanceblade;
+Bladestorm;
+Weakness;
+Natural Attack (Balance 115-240-365);
+Chimera;
+
+| quests =
+Fall of Pompeii;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic: Aquila Badges|Swole Like Sisyphus]]''' {{Icon|Swole Like Sisyphus}} Badge, the following drops will be available:
+*{{Icon|Spellement}} 7 Aquila Spellements will drop each time from '''any''' School
+
+| gold =
+22 - 35;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Cerberus (Balance)
+}}

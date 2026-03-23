@@ -1,0 +1,211 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 17,520
+| crecla = Water-Lurker
+| school = Ice
+| masteries =
+Storm;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+110 Any;
+
+| criticalblock =
+50 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Tempest Eel;
+
+| world = Azteca
+| location = Cloudburst Forest
+| subloc1 = Whirlpool Cave
+| descrip =
+
+| speech =
+:''" If you don't leave right now, the roaring of the waters will be the last thing you hear!  I will make your head into a canoe!"''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Tower Shield;
+Lightning Strike;
+Iceblade;
+Elemental Blade;
+Natural Attack (Ice 175-350-525);
+Colossus (525-605);
+Lord of Winter;
+Wild Bolt;
+Storman (290);
+Storm Lord;
+Leviathan;
+
+| quests =
+Red Paint;
+
+| gold =
+127 - 215;
+
+| hats =
+Dawn Hour Mantle;
+Elite Jura Guard Helm;
+Five Fangs of Fury Headdress*F2*WMV;
+Indigo Wing Crown*F2*WMV;
+Thirteen Death Mask*F3;
+Tree of Secrets Chac Mask*F2;
+Twisted Fang Mask;
+
+| robes =
+
+| boots =
+Death Moon's Chosen Gliders;
+Fiery Chac's Great Boots;
+Ice Age Tyrant's Walkers;
+
+| athames =
+Bleeding Sun Dagger;
+Burning Water Talon;
+
+| amulets =
+Charm of the Gold Aztecosaur;
+House of Plague Greenstone*F2*WMV;
+Pitch Black Lake Plague Shell*F3*WMV;
+Rising Sun Head Relic;
+Shining Cold House Amulet;
+Smoking Fang Talisman;
+Stone of the Green Skycarrier;
+
+| rings =
+Acampi Reedfist's Lost Seal*F2;
+Bleeding Sun Warrior's Loop*F3;
+Falling Star's End Time Band*F2*WMV;
+Mother Moon's Count Ring*F3*WMV;
+Storm Quetzal's Signet;
+Twin Giants Fashioned Stone;
+Twisting Season Ring;
+
+| wands =
+Lance of Night Fire;
+Winter Lord's Obsidian Shard;
+
+| decks =
+Codex of the Lost Fire*F2*WMV;
+Deck of the Jaguar Spirit*F4;
+Storm Sun Gallery*F2;
+Winter's Pyramid Deck*F2;
+
+| items =
+Azteca Apocalypse Theme;
+Azteca Main Theme;
+Azteca Pot;
+Hollow Log*F2;
+Star Clothesline;
+Starburst Frond;
+
+| cards =
+Basilisk;
+Berserk;
+Colossal*F3;
+Dr. Von's Monster;
+Extraordinary;
+Gnomes!;
+Infallible;
+Leviathan;
+Medusa;
+Potent Trap*F2*WMV;
+Primordial;
+Rain of Fire;
+Sharpened Blade;
+Sirens;
+Skeletal Dragon;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F3;
+Black Pearl;
+Blood Moss;
+Bone*F5*WMV;
+Bronze*F2;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F5*WMV;
+Fire Blossom*F3;
+Fossil;
+Golden Pearl*F2*WMV;
+Lava Lily;
+Mist Wood*F2*WMV;
+Mithril*F2;
+Nightshade;
+Ore*F2*WMV;
+Red Mandrake*F4*WMV;
+Silver;
+Stone Block*F3;
+Sunstone;
+Turquoise*F3;
+
+| spellements =
+
+| snacks =
+Apatotatoes*F2*WMV;
+Aztecan Hot Chocolate*F2*WMV;
+Caramel Apple;
+Guava*F2;
+Gummy Wyrms;
+Jelly Baby;
+Maize*F2;
+Papaya;
+Pterotomatoes;
+Quetzal Pretzel;
+Rex Tea;
+Shiny Tomato;
+Tamales*F2*WMV;
+Zocalo Wings;
+
+| jewels =
+Balanceblade Talent Citrine;
+Clear Defense Hematite +39;
+Cyclops Minion Peridot;
+Disarmament Amethyst;
+Hearty Opal;
+Polished Blocking Onyx +11;
+Polished Blocking Sapphire +11;
+Polished Critical Hematite +11;
+Polished Health Opal +86;
+Sap Health Citrine;
+Spartan Jade;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Blue Huckleberries;
+Fiery Boom Shroom;
+Maelstrom Snap Dragon;
+Red Huckleberries*F2*WMV;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

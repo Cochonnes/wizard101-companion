@@ -1,0 +1,190 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,200
+| crecla = Cat
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+O'Leary Prowler;
+
+| world = Marleybone
+| location = Knight's Court
+| subloc1 = Brick's Warehouse
+| descrip =
+Two additional O'Leary Prowlers appear if more than two Wizards are present.
+
+| speech =
+:''"Hey! How'd you get in here?"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Storm Shield;
+Weakness;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Troll;
+Cyclops;
+Fire Elf;
+Evil Snowman;
+
+| quests =
+Damsel in Distress;
+Thermite Makes Right;
+
+| gold =
+25 - 50;
+
+| hats =
+Cap of Symmetry;
+Cap of the Kraken*F6;
+Cap of the Phoenix*F2*WMV;
+Comedian's Hat;
+Dandy Hat;
+Exquisite Cowl;
+Hat of Equation*F2;
+Headwrap of Incineration*F2;
+Helm of Horrors*F7;
+Grandiose Headwraps;
+Opportunists' Cap*F2;
+
+| robes =
+Cloak of Civility*F2;
+Debonair Garments*F2;
+Delicate Garments*F2;
+Enticing Robe;
+Frosty Vestment;
+Icy Tunic;
+Mechanical Tunic*F5;
+Obligatory Cloak;
+Robe of Extinction*F6*WMV;
+Robe of Paramount*F2;
+Robe of the Exceptional*F3;
+Robe of the Unicorn;
+Sophisticated Tunic;
+Urbane Robe*F2;
+
+| boots =
+Boots of Fabrication;
+Boots of Heartache;
+Clanker's Irritating Shoes;
+Crackling Boots;
+Distinct Slippers;
+Flowering Canine Shoes*F8;
+Frozen Canine Shoes*F4;
+Graceful Slippers*F3;
+Jolting Boots;
+Pompous Footwraps*F3;
+Sandals of Civility;
+Sensitive Slippers;
+Shoes of Inclination;
+Slippers of Tranquility;
+
+| athames =
+Dirk of Nobles*F2;
+
+| amulets =
+
+| rings =
+Watchman's Decoder Ring*F4;
+
+| wands =
+Staff of Rejuvenation*F4*WMV;
+
+| decks =
+Deck of the Cyclops*F2*WMV;
+Enigmatic Deck*F6*WMV;
+
+| items =
+Ball of Blue Yarn;
+Empty Tin Cans;
+Engraved Pedestal;
+Short Cement Post*F3;
+Silver Chest*F2;
+Square Metal Platform*F2;
+
+| cards =
+Dryad;
+Ice Wyvern;
+Sandstorm;
+Satyr;
+Sniper;
+Spirit Armor;
+Storm Trap*F2;
+Vampire;
+
+| reagents =
+Copper*F4*WMV;
+Iron*F5*WMV;
+Lead*F4;
+Leather Straps*F4;
+Nickel*F3;
+Pyrite;
+Spider Silk*F5*WMV;
+Tin*F3;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Medium Fish;
+Redskin Peanut*F2*WMV;
+Square Watermelon;
+Stinky Cheese*F2;
+Wheat Cracker*F3;
+
+| jewels =
+Banshee Onyx;
+Big-Check Opal;
+Calculating Opal;
+Chipped Damage Ruby +7;
+Chipped Defense Amethyst +14;
+Chipped Defense Citrine +14;
+Chipped Defense Peridot +14;
+Chipped Health Opal +21;
+Chipped Mana Opal +9;
+Evil Snowman Sapphire;
+Flawed Accurate Opal +2%*F2;
+Flawed Damage Opal +5;
+Flawed Health Opal +30;
+Flawed Mending Opal +2%;
+Locust Swarm Citrine*F2;
+Sprite Jade*F2;
+Storm-Giver Amethyst;
+Sunbird Ruby*F2;
+
+| pins =
+
+| pets =
+Frog*F2;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

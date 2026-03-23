@@ -1,0 +1,426 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 28,000
+| crecla = Rat
+| school = Shadow
+| masteries = 
+Fire;
+Ice;
+
+| cheats = Yes
+| shadowslots = 3
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+5%;
+
+| outboost =
+65%;
+
+| incboost =
+None;
+
+| incresist =
+15% Storm, Myth, Life, Death, Balance, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+The Scorpion (Husk);
+
+| world = Empyrea
+| location = Husk
+| subloc1 = Spiritual Grove
+| descrip =
+
+| speech =
+
+| cheatnotes =
+{{Icon|Late}} '''Tardiness Cheats:'''
+*'''The Rat'''
+*''"Tardiness will not be tolerated!"'' - If a Wizard joins a Round late, The Rat will cast a '''+60%''' Fire, Ice, and Universal [[:Category:Trap Spells|Trap]], and a Shadow-version of {{Link|Spell|Dimension Shift}} transfering all negative hanging effects on The Rat to the late Wizard.
+*'''The Scorpion'''
+*''"Oh Yes! You will fall too!"'' - If a Wizard joins the duel after it has already begun, The Scorpion will cast {{Link|Spell|Bad Juju (Shadow)}} on the Wizard.
+
+{{Icon|Round}} '''Round 1 Cheats:'''
+*Starting Round 1, The Scorpion casts a version of {{Link|Spell|Donate Shadow}} that gives himself 2 Shadow pips.
+*''"Thank you, dear brother"'' - The Rat then will cast a Shadow spell that steals one Shadow pip from The Scorpion.
+*''"I'll take that, weakling"'' - The Scorpion will retaliate back casting {{Link|Spell|Steal Pips}} at The Rat, stealing 2 Pips.
+
+'''The Rat:'''
+*{{Icon|Feint}} ''"Fool me once?"'' - If a {{Link|Spell|Feint}} is placed on The Rat, he will shout this as a warning. 
+**''"Can't get fooled again!"'' - If a {{Link|Spell|Feint}} has already been placed on The Rat, any subsequent attempts to Feint him will trigger a Shadow version of {{Link|Spell|Dimension Shift}} that removes all negative hanging effects on him, and places them onto the Wizard who cast the {{Link|Spell|Feint}}.
+:*{{Link|ItemCard|Mass Feint}} does not trigger this cheat.
+:* The Balance version of {{Link|ItemCard|Feint}} does not trigger this cheat.
+:*Pet Spells do not trigger this cheat.
+
+'''The Scorpion:'''
+*{{Icon|Damage}} ''"I invoke the power of Shadow!"'' - At the end of every three rounds, he will cheat-cast {{Link|Spell|Poison (Shadow)}} to all Wizards.
+*{{Icon|Manipulation}} ''"Now... your doom!"'' - At the end of every Round, he will cheat-cast a Shadow version of {{Link|Spell|Detonate}} to all Wizards, as long as one Wizard has a DoT.
+:*The HoT portion of healing spells, such as from {{Link|PetAbility|Spritely}}, can prevent a DoT from detonating when the HoT is positioned before the DoT. The HoT is removed by the Detonate.
+*{{Icon|Feint}} ''"The Rat warned me of that!"'' - If a Wizard places a {{Link|Spell|Feint}} on The Scorpion, he will cast {{Link|Spell|Cleanse Ward (Shadow, -All)}} to remove all unprotected traps from himself.
+:*{{Link|ItemCard|Mass Feint}} does not trigger this cheat.
+*The Balance version of {{Link|ItemCard|Feint}} does not trigger this cheat.
+*{{Icon|Heal}} ''"I planned this special for you!"'' - If a Wizard uses a healing spell, he will cast his [[:Spell:Natural Attack (The Scorpion)|Natural Attack]] at the Wizard.
+:*Pet heals will not trigger this cheat with the exception of {{Link|PetAbility|Fairy Friend}} and {{Link|PetAbility|Happy Accident}}.
+:*The HoT portion of healing spells, such as from {{Link|PetAbility|Spritely}}, will not trigger this cheat.
+
+{{Icon|Random}}'''Retaliation Cheats:'''
+*If either The Rat or The Scorpion casts a spell that upsets the other, they'll retaliate and cast the following cheats on each other.
+
+*'''The Rat'''
+**{{Icon|Manipulation}} ''"Fool! Stay out of my way!"'' - If The Scorpion casts {{Link|Spell|Enfeeble (2 Pip)}} or {{Link|Spell|Glowbug Squall (Shadow, 1,120)}}, The Rat will cast {{Link|Spell|Scorching Scimitars}} at The Scorpion.
+**{{Icon|Damage}}{{Icon|Aura}} ''"You DOLT! I have had enough of you!"'' - Sometimes after The Scorpion's {{Link|Spell|Iron Sultan (Shadow)}} cheat aimed at The Rat, he will retaliate by casting {{Link|Spell|Grand Blue Phoenix}} at The Scorpion, and casting {{Link|Spell|Impede}} at The Scorpion.
+
+*'''The Scorpion'''
+**{{Icon|Manipulation}} ''"No! That spell was mine!"'' - If The Rat casts {{Link|Spell|Steal Charm}} or {{Link|Spell|Steal Ward}}, The Scorpion will cast {{Link|Spell|Iron Sultan (Shadow)}} at The Rat.
+**{{Icon|Aura}}{{Icon|Manipulation}} ''"Enough! I'm telling father!"'' - Sometimes after The Rat's {{Link|Spell|Scorching Scimitars}} cheat, The Scorpion will cast {{Link|Spell|Impede}} and {{Link|Spell|Supernova (Shadow)}} at The Rat.
+
+| spellnotes =
+*Uses Brainfreeze that also stuns all enemies.
+
+| casts =
+Tower Shield (-55%);
+Legion Shield (-35%);
+Temperedblade (+35%);
+Temperedblade (+45%);
+Fuel;
+Steal Charm;
+Steal Ward;
+Natural Attack (The Rat);
+Fire Wyvern (3 Pip);
+Raging Bull;
+Lava Giant;
+Blue Phoenix;
+Brainfreeze;
+Snowball Barrage;
+
+| quests =
+Spirit of the Grove;
+Smells Like Tree Spirit;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge and has not unlocked the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge, the following drops will be available:
+*11 Spellements will drop each time from '''any''' School for their respective rank 10, 11, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+0 - 685;
+
+| hats =
+Blazing Zanadu Helm;
+Crackling Zanadu Helm;
+Freezing Zanadu Helm*F3*WMV;
+Illuminated Zanadu Helm*F4*WMV;
+Immutable Zanadu Helm*F2;
+Verdant Zanadu Helm*F2;
+
+| robes =
+Blazing Zanadu Armor*F2;
+Freezing Zanadu Armor;
+Hopeful Zanadu Armor;
+Verdant Zanadu Armor;
+
+| boots =
+Freezing Zanadu Boots;
+Grim Zanadu Boots;
+Illuminated Zanadu Boots;
+Immutable Zanadu Boots*F2*WMV;
+Verdant Zanadu Boots*F2;
+
+| athames =
+
+| amulets =
+Balanced Paradox Amulet*F8*WMV;
+Deathly Paradox Amulet;
+Divine Paradox Amulet*F7*WMV;
+Fiery Paradox Amulet*F2;
+Lively Paradox Amulet*F4;
+Mythic Paradox Amulet*F2*WMV;
+Stormy Paradox Amulet;
+
+| rings =
+Balanced Paradox Ring*F10*WMV;
+Deathly Paradox Ring;
+Divine Paradox Ring*F10*WMV;
+Fiery Paradox Ring*F3;
+Icy Paradox Ring*F3;
+Lively Paradox Ring*F5*WMV;
+Mythic Paradox Ring*F5;
+Stormy Paradox Ring*F5;
+
+| wands =
+Hopeful Zanadu Lance;
+
+| decks =
+Blazing Zanadu Deck;
+Crackling Zanadu Deck;
+Grim Zanadu Deck;
+Immutable Zanadu Deck*F2;
+Verdant Zanadu Deck*F2;
+
+| items =
+Aero Dwarf Blue Vase*F4*WMV;
+Aero Dwarf Chair*F3*WMV;
+Aero Dwarf Potted Plant*F2;
+Empyrea Husk Aethyr Combat*F4*WMV;
+Empyrea Husk Combat*F2*WMV;
+Empyrea Husk Storm Combat;
+Empyrea Husk Theme;
+Empyrea Medulla Theme;
+Empyrea Nexus Theme;
+Empyrea Reverie Combat*F3*WMV;
+Empyrea Reverie Hive Theme;
+Kalamar Chair*F3*WMV;
+Kalamar Side Table*F6*WMV;
+Nimbari Chair*F3*WMV;
+Nimbari Sword Rack;
+Ornate Nimbari Vase*F5*WMV;
+Tall Kalamar Vase*F4*WMV;
+Wide Kalamar Vase*F2;
+
+| cards =
+Bonetree Lord;
+Chinook Genie*F2*WMV;
+Colossafrog*F3*WMV;
+Cyclops*F6*WMV;
+Diablo Qarin*F2;
+Fable Lord*F5*WMV;
+Harmattan Maxios;
+Humongofrog*F3*WMV;
+Kraken;
+Lord of the Squall*F3*WMV;
+Maelstrom Marid;
+Mass Fire Prism;
+Mass Ice Prism*F2*WMV;
+Mass Storm Prism;
+Mega Soothe*F3*WMV;
+Mega Subdue*F3*WMV;
+Mutate Banshee (Life);
+Mutate Bats (Ice);
+Mutate Bird (Ice);
+Mutate Cat (Ice);
+Mutate Cat (Storm);
+Mutate Colossus (Storm);
+Mutate Elf (Storm)*F2;
+Mutate Helephant (Storm);
+Mutate Kraken (Fire);
+Mutate Phoenix (Storm);
+Mutate Phoenix (Sun);
+Mutate Serpent (Fire);
+Mutate Snake (Fire);
+Mutate Snake (Ice);
+Mutate Snowman (Storm);
+Mutate Sprite (Death)*F2*WMV;
+Mutate Swarm (Ice);
+Oni No Jade*F5*WMV;
+Oni No Plague*F2;
+Sirocco Djinni*F2;
+Tundra Lord;
+
+| reagents =
+Aether*F12*WMV;
+Agave Leaves*F2;
+Agave Nectar*F8*WMV;
+Amber*F3*WMV;
+Amber Dust*F4*WMV;
+Aquamarine*F2*WMV;
+Astral Shard*F5*WMV;
+Braided Vine*F3*WMV;
+Draconium*F3*WMV;
+Fire Blossom*F2;
+Flying Squid Ink*F15*WMV;
+Golden Pearl*F7*WMV;
+Merle's Whisker*F3*WMV;
+Mithril*F13*WMV;
+Orichalcum*F5*WMV;
+Pure Aethyr*F17*WMV;
+Scales*F8*WMV;
+Silver*F11*WMV;
+Stardust*F5*WMV;
+Steel*F11*WMV;
+Sunstone*F4*WMV;
+Titanium*F12*WMV;
+Tungsten*F4*WMV;
+Turmeric*F5*WMV;
+Turquoise*F9*WMV;
+Vine*F10;
+
+| spellements =
+Climaclysm*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Raging Bull*BR;
+Sabertooth*BR;
+Scion of Life*BR;
+Scion of Storm*BR;
+Witch's House Call*BR;
+
+| snacks =
+Athame Pop*F2*WMV;
+Berry Poundcake*F2*WMV;
+Boiled Spider Legs*F6*WMV;
+Cow Pie;
+Dastardly Radish*F3*WMV;
+Fetid Legumes*F5*WMV;
+Flaming Jalapeno;
+Gator Tots*F8*WMV;
+Ginger Mint Tea*F2;
+Golden Squash*F2*WMV;
+Gummy Humongofrog*F3*WMV;
+Hero Sandwich*F2*WMV;
+Hive Rinds*F2;
+Killer Tomato*F3*WMV;
+Lemon Daisy*F2;
+Lollipop*F2*WMV;
+Meat Soup*F4*WMV;
+Minotarts*F6*WMV;
+Oyster Shooter;
+Pineapple Spears*F3*WMV;
+Pyramints*F3*WMV;
+Radioactive Pizza;
+Redskin Peanut*F5*WMV;
+Salmon Joy*F6*WMV;
+Spicy Drumstick*F2*WMV;
+Super Cold Popsicle;
+Taco*F2*WMV;
+
+| jewels =
+Headless Horseman Onyx;
+Ninja Piglets Citrine;
+Queen Calypso Amethyst;
+Shiny Accurate Peridot +12%*F2*WMV;
+Shiny Blocking Jade +15;
+Shiny Blocking Opal +8;
+Shiny Damage Amethyst +25;
+Shiny Damage Jade +25;
+Shiny Defense Ruby +49;
+Shiny Mending Opal +6%;
+Sparkling Blocking Peridot +17;
+Sparkling Blocking Sapphire +18;
+Sparkling Critical Citrine +18;
+Sparkling Critical Hematite +17;
+Sparkling Critical Hematite +18;
+Sparkling Critical Jade +18;
+Sparkling Critical Onyx +18*F3;
+Sparkling Critical Ruby +18;
+Sparkling Damage Amethyst +27*F2*WMV;
+Sparkling Damage Hematite +56*F3*WMV;
+Sparkling Damage Jade +28;
+Sparkling Damage Onyx +28;
+Sparkling Damage Ruby +28*F3;
+Sparkling Damage Sapphire +28;
+Sparkling Defense Amethyst +53;
+Sparkling Defense Amethyst +55;
+Sparkling Defense Amethyst +56;
+Sparkling Defense Citrine +54;
+Sparkling Defense Citrine +55*F4*WMV;
+Sparkling Defense Citrine +56;
+Sparkling Defense Hematite +55;
+Sparkling Defense Jade +55;
+Sparkling Defense Jade +56;
+Sparkling Defense Onyx +55*F2*WMV;
+Sparkling Defense Opal +28;
+Sparkling Defense Ruby +55*F2*WMV;
+Sparkling Defense Ruby +56*F3*WMV;
+Sparkling Defense Sapphire +56*F2*WMV;
+Sparkling Health Opal +116*F2;
+Sparkling Health Opal +117*F3;
+Sparkling Health Opal +118*F3*WMV;
+Sparkling Health Opal +119*F3*WMV;
+Sparkling Health Opal +122*F5*WMV;
+Sparkling Health Opal +123*F7*WMV;
+Sparkling Health Opal +124*F9*WMV;
+Sparkling Health Opal +125*F3;
+Sparkling Mana Opal +51*F5*WMV;
+Sparkling Mana Opal +52*F2*WMV;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F3*WMV;
+Angel Oak;
+Angora Bunny Ears*F2*WMV;
+Baby Carrots*F3;
+Bell Pepper*F7*WMV;
+Blue Huckleberries*F3*WMV;
+Boiled Peanuts*F5*WMV;
+Boom Shroom;
+Boon Tree*CR;
+Bread Fruit Bush*F2*WMV;
+Clockwork Flower;
+Cornbread Fruit Bush;
+Couch Potatoes*CR*F4;
+Dandelion;
+Deadly Fly Trap*F2*WMV;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Face Palm;
+Fiery Boom Shroom;
+Fickle Pickle*F2*WMV;
+Fish on a Vine*F2;
+Fortune Cookie Tree*F2;
+Frozen Fly Trap*F2;
+Golden Couch Potatoes*F3*WMV;
+Goose Tree;
+Grapes of Wrath*CR*F4*WMV;
+Green Snow Apples*F3*WMV;
+Honey Sickle*F4*WMV;
+Ivy League*CR*F3;
+King Parsley*CR;
+Laugh-O-Dil;
+Maelstrom Snap Dragon*F2;
+Maltese Tiger Lily;
+Melting Cheese Tree*F3*WMV;
+Moon Flower;
+Ninja Fig*CR*F2*WMV;
+Orange Bell Pepper*CR*F4*WMV;
+Pink Huckleberries*F8*WMV;
+Pink Laugh-O-Dil*F2;
+Prickly Bear Cactus*F2;
+Purple Bell Pepper;
+Red Couch Potatoes*F5*WMV;
+Red Huckleberries*F5*WMV;
+Rye Bread Fruit Bush*F2;
+Saw Palmetto;
+Snow Apples*F2;
+Sour Fickle Pickle*F3;
+Sugar Khrystal*CR*F2;
+Sunion*CR*F2*WMV;
+Sword Fern*CR*F2;
+Trumpet Vine*F3*WMV;
+Ultra Alligator Pear Tree;
+Ultra Boom Shroom;
+Ultra Dandelion;
+Ultra Helephant Ears;
+Ultra King Parsley;
+Ultra Ninja Fig;
+Ultra Snow Apples;
+Ultra Tiger Lily;
+Venus Fly Trap*F2;
+White Desparagus*F2*WMV;
+White Laugh-O-Dil;
+White Tiger Lily*F2;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

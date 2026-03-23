@@ -1,0 +1,189 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 17,035
+| crecla = Gator
+| school = Life
+| school2 = Fire
+| masteries =
+Balance;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Fire;
+Life;
+
+| critical =
+225 Any;
+
+| criticalblock =
+275 Any;
+
+| outpierce =
+15%;
+
+| outboost =
+101%;
+
+| incboost =
+6% Storm, Death;
+
+| incresist =
+44% Fire, Ice, Myth, Life, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+100%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Hairball (Tier 3);
+Hairball (Elite) (Tier 3);
+
+| world = Housing Instance
+| location = Night Mire Gauntlet
+| subloc1 = Night Mire Gauntlet (Tier 3)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"Behold! My Reptili-Hair Elixir has transformed me into the peak of perfection! Like my leading-edge luxuriant locks, my power only grows! *Bwahaha!* There's no limit to what I can do with hair! Toss it refreshingly from side to side in a delicate breeze... Tousle it to give myself roguish charm... Mayhap twirl it between my claws in an absentminded but totally endearing way as I ponder my next visionary feat of science. I'll have a comb for every day of the week! A scented shampoo to suit to suit my every mood! But first, this troublesome human must be put in their place."''
+
+| cheatnotes =
+*{{Icon|Late}} ''"You're just in time to bask in my full, lustrous glory!"'' - If a Wizard joins after the first Round, Mulleted Neaux will cast a Moon Blessing restoring 100% of his Health.
+*{{Icon|Health}} ''"Argghh... I didn't ask for a trim"'' - If Mulleted Neaux takes more than 50% of his max Health, he will cast {{Link|Spell|Choke}}.
+**This cheat can be prevented by dispelling it with {{Link|Spell|Quench}}.
+**{{Icon|Health}} ''"No matter, hair grows back!"'' - Mulleted Neaux will cast a version of {{Link|ItemCard|Heartbeat}} that restores 1,500 Health every Round; ('''3,000''' with Outgoing Healing) until he's fully healed.
+***{{Link|Spell|Doom and Gloom}} will reduce the healed amount.
+***{{Link|Spell|Entangle}} will prevent this cheat.
+**''"Glory be! My mullet is safe!"'' -  Mulleted Neaux will respond with this when he's fully healed, restarting the cheat cycle.
+*{{Icon|Afterlife}} ''"Fool! You must trim before you shave!"'' - If Mulleted Neaux is defeated before his trim cheat is triggered, he will cast a Moon version of Blessing, restoring 100% of his Health.
+
+| spellnotes =
+
+| casts =
+Empowerment;
+Pigsie;
+Dragonblade;
+Dragonlance;
+Venom;
+Starspawn;
+Earth Walker (Tier 2b);
+Hungry Caterpillar;
+Link;
+Power Link;
+Fire Dragon;
+
+| quests =
+They Came From Night Mire!;
+
+| gold =
+
+| hats =
+Balanced Night Mire Top Hat (Level 160+);
+Deadly Night Mire Top Hat (Level 160+);
+Fiery Night Mire Top Hat (Level 160+)*F2;
+Icy Night Mire Top Hat (Level 160+)*F2;
+Lively Night Mire Top Hat (Level 160+)*F2;
+Mythic Night Mire Top Hat (Level 160+);
+Stormy Night Mire Top Hat (Level 160+);
+
+| robes =
+Balanced Night Mire Coat (Level 160+);
+Deadly Night Mire Coat (Level 160+);
+Fiery Night Mire Coat (Level 160+);
+Icy Night Mire Coat (Level 160+)*F2;
+Lively Night Mire Coat (Level 160+);
+Mythic Night Mire Coat (Level 160+);
+Stormy Night Mire Coat (Level 160+)*F2;
+
+| boots =
+Balanced Night Mire Boots (Level 160+);
+Deadly Night Mire Boots (Level 160+);
+Fiery Night Mire Boots (Level 160+)*F2;
+Icy Night Mire Boots (Level 160+);
+Lively Night Mire Boots (Level 160+);
+Mythic Night Mire Boots (Level 160+);
+Stormy Night Mire Boots (Level 160+)*F2;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Balanced Night Mire Staff (Level 160+)*F2;
+Deadly Night Mire Staff (Level 160+);
+Fiery Night Mire Staff (Level 160+);
+Icy Night Mire Staff (Level 160+);
+Lively Night Mire Staff (Level 160+);
+Mythic Night Mire Staff (Level 160+);
+Stormy Night Mire Staff (Level 160+);
+
+| decks =
+
+| items =
+Beastman Hut;
+Broken Palm Tree*F2;
+Bundle of Wood*F3;
+Cord of Wood*F2*WMV;
+Koi Pond;
+Large Cypress Tree;
+Living Log;
+Minuteman*F3;
+Night Mire Swamp Combat Theme;
+Night Mire Swamp Eerie Theme;
+Night Mire Swamp Jamboree Theme;
+Open Campfire*F3;
+Potted Flower Arrangement;
+Sail Fern;
+Seaweed Plant;
+Small Cypress Tree*F3;
+Tanglebrush;
+Water-Mole Tribal Shield;
+Wild Brush*F2;
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Armor Breaker Opal*F2*WMV;
+Armor Piercer Opal*F6;
+Balance-Dealer Citrine;
+Big Energy Opal*F2;
+Blade Flurry Amethyst;
+Blade of Life Jade;
+Death-Dealer Onyx;
+Energy Opal;
+Fire-Dealer Ruby;
+Huge Energy Opal*F2;
+Ice-Dealer Sapphire;
+Life-Bringer Jade;
+Myth-Dealer Peridot;
+No Pain, No Gain Onyx;
+Storm-Dealer Amethyst;
+Tower Shield Sapphire;
+Ultra Energy Opal*F2;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

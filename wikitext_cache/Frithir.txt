@@ -1,0 +1,149 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 680
+| crecla = Fairy
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Forest Pest;
+
+| world = Grizzleheim
+| location = Savarstaad Pass
+| descrip =
+Frithir is a Dark Sprite that resides in a fairy circle outside of the [[Location:Boar's Camp|Splithoof Barbarian camp]].  When assisting {{Link|NPC|Hugin Fateseer}} in gathering ingredients for a potion, Wizards are sent by the old Raven to bring him Frithir's wings.<br/><br/>
+
+Frithir is flanked by two Forest Pests.  While lone Wizards will only have to worry about one Forest Pest Minion, groups of Wizards will encounter Frithir accompanied by both Forest Pests in combat.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Deathblade;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Thunder Snake;
+Natural Attack (Life 180);
+Snow Serpent;
+Sunbird;
+
+| quests =
+Frither-wing;
+
+| gold =
+27 - 56;
+
+| hats =
+Cowl of the Flamesinger;
+Hacking Coif*F2*WMV;
+Headcloth of the Fray;
+Headgear of Winterdusk*F7*WMV;
+Snowthorn Hat;
+
+| robes =
+Archivist's Robe*F4*WMV;
+Coat of Pouring Rain;
+Igneous Robe;
+Runeweave Clothing;
+Tunic of Ataraxia;
+
+| boots =
+Boots of Precipitation;
+Doomstriders;
+Footgear of the Firehaze;
+Footwear of the Flame*F2;
+Forest Striders*F3;
+Hibernal Footwraps;
+Striders of Strife;
+Thane's Boots;
+
+| athames =
+Bodkin of Fury;
+Smallblade of Deftness*F2*WMV;
+
+| amulets =
+
+| rings =
+Ice Raider's Ring;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Dark Sprite*F2;
+Guiding Light;
+Imp*F2;
+Mutate Cat (Ice);
+Pacify;
+Sandstorm;
+Snow Serpent;
+Time of Legend;
+Vampire;
+
+| reagents =
+Bronze Gear*F3;
+Copper;
+Iron*F2;
+Pyrite;
+
+| spellements =
+
+| snacks =
+Dragon Fruit;
+Flaming Carrot;
+Frosted Cupcake;
+Meat Soup*F2*WMV;
+Moon Pie*F2*WMV;
+MooShu Broccoli;
+Taffy;
+Tasty Biscuit*F2;
+Tiny Pretzel*F2;
+Wild Strawberry;
+
+| jewels =
+Cracked Accurate Jade +2%;
+Cracked Defense Amethyst +12;
+Cracked Mana Opal +8;
+Fire Cat Ruby;
+Imp Jade;
+Thunder Snake Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Boom Shroom*F2;
+Couch Potatoes*CR;
+Desparagus (Seed);
+Honey Sickle*F2;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,211 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 2,960
+| crecla = Elemental
+| crecla2 = Colossus
+| school = Life
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Erratic Servator;
+
+| world = Dragonspyre
+| location = The Labyrinth
+| descrip =
+The Silver Sentinel is the first Boss encountered in the Labyrinth. Wizards must defeat him for the key to unlock the path across Lava Lake.
+*Two additional Erratic Servators will appear if more than two Wizards are present.
+
+| speech =
+:''"This key is my duty. To guard it I was made. The key must not be taken. I guard it with all my being."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+He takes his job very seriously. Maybe one day he'll be promoted to Platinum Sentinel.
+
+| extract class =
+Colossus;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Sprite;
+Lifeblade;
+Life Trap;
+Leprechaun;
+Seraph;
+Centaur;
+Locust Swarm;
+Storm Shark;
+Cyclops;
+Natural Attack (Myth 95x);
+Meteor Strike;
+Heck Hound;
+
+| quests = 
+Bridge to Over There;
+ 
+| gold =
+60 - 187;
+
+| hats =
+Bonfire Headdress*F2;
+Cap of Chronicles;
+Cap of Constitution*F2;
+Equalizer's Coif*F2*WMV;
+Frostbitten Cap*F4;
+Hood of Hibernation*F4*WMV;
+Hood of the Vigilant*F2;
+Ivy-Wrapped Cap*F2;
+Lightning-Charged Mantle*F3*WMV;
+Mantle of Thunder*F2*WMV;
+Reaper's Hood*F2*WMV;
+Triton's Topper;
+
+| robes =
+Arbiter's Raiment*F2;
+Arboreal Robes*F2*WMV;
+Blizzard Cloak;
+Fiery Tunic;
+Final Curtain;
+Raiment of the Raven*F3*WMV;
+Robe of Radiance;
+Robe of the Greatest Saga*F3;
+Smock of the Frost Giant*F2*WMV;
+Storm Giant's Surcoat;
+Surcoat of Glory*F3;
+Verdant Vestment;
+Vestment of the Spring*F2*WMV;
+Whirlwind Wrap;
+Wrap of Equity;
+
+| boots =
+Ashen Footwraps*F2*WMV;
+Dragonclaw Boots;
+Frost Giant's Boots;
+Mocassins of the Oracle*F3*WMV;
+Rainstorm Waders;
+Reaper's Boots*F2;
+Sandals of Lost Aeons;
+Sandals of Neutrality;
+Shoes of the Greatest Saga*F2;
+Shoes of the Phoenix*F3;
+Shoes of the Whispering Dark;
+Striders of the Thicket*F3*WMV;
+
+| athames =
+Dragon's Claw Blade*F2*WMV;
+Dragon's Eye Dagger;
+Dragonblood Dirk;
+Poniard of Vitality;
+Searing Knife*F2*WMV;
+
+| amulets =
+
+| rings =
+Band of the Hearth;
+Burning Ring of Fire*F2*WMV;
+Dragonscale Ring;
+Rime-Edged Ring*F2;
+Ring of Dominance*F2*WMV;
+Ring of the Forefathers*F2;
+Seal of the Saga*F2*WMV;
+
+| wands =
+Blade of the Silver Sentinel*F2*WMV;
+
+| decks =
+Deck of the Silver Sentinel*F3*WMV;
+
+| items =
+Dragonclaw Pedestal*F3*WMV;
+Dragonspyre Dance Theme*F3;
+Kraken Statue*F3*WMV;
+Long Corner Wall Ruins*F2*WMV;
+Short Corner Wall Ruins*F2*WMV;
+Singed Magic Book;
+Small Corner Wall Ruins;
+
+| cards =
+Dragonflies;
+
+| reagents =
+Brass;
+Bronze Gear*F6*WMV;
+Cobalt*F3;
+Copper*F2*WMV;
+Lead;
+Nickel*F3*WMV;
+Tin*F5;
+
+| spellements =
+
+| snacks =
+Flaming Soup*F4;
+Goat Cheese*F4*WMV;
+Golden Grapes*F3*WMV;
+Green Grapes;
+Gummy Humongofrog*F3*WMV;
+King Banana;
+
+| jewels =
+Blemished Accurate Onyx +5%;
+Blemished Accurate Sapphire +5%;
+Blemished Defense Peridot +23;
+Delay Opal;
+Dull Blocking Citrine +2;
+Dull Blocking Jade +2;
+Dull Blocking Opal +2;
+Dull Critical Citrine +3;
+Dull Critical Opal +2;
+Hydra Citrine;
+Pip O'Plenty Opal;
+Sanctuary Jade;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2;
+Fiery Boom Shroom;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

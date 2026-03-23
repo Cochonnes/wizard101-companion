@@ -1,0 +1,176 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 16,945
+| crecla = 
+| school = Death
+| school2 = Fire
+| cheats = Yes
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+22%;
+
+| outboost =
+118%;
+
+| incboost =
+30% Life;
+
+| incresist =
+39% Fire, Ice, Storm, Myth, Balance, Shadow;
+69% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Forgotten Soul;
+
+| world = Krokotopia
+| location = Tomb of the Forgotten (Krokotopia)
+| subloc1 = Field of Reeds
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*Two additional Forgotten Soul Minions will appear if more than two Wizards are present.
+
+| speech =
+:'''Luminous Prophet''': ''"WE ARE DEATH!"''
+:'''{{Link|NPC|Drake Lockley}}''': ''"No you're not. You're some kind of dog angel smoke mon- actually what ARE you?"''
+:'''Luminous Prophet''': ''"We are failure."''
+:'''Drake Lockley''': ''"Slightly less scary now."''
+:'''Luminous Prophet''': ''"We are the Shadow that did not smother, the Light that did not burn, the lives that did not perform. So he changed us, combined us, ended and renewed us, improved us, rebirthed us... He made us neither dead, nor alive, imperceptible to magicks that depend on a stark division between them. We are now a Paradox, as you were, Earthborn, when you robbed us of purpose. And with this power, we will bury you in this field."''
+
+| cheatnotes =
+*{{Icon|Round}} ''"Death rules here. I doubt even Taweret could shield you."'' - At the beginning of the first Round, Luminous Prophet casts a negative version of {{Link|Spell|Acrimony}} on all Wizards that turns all incoming Healing into Damage for 99 Rounds.
+**Luminous Prophet '''will not''' recast the Aura if replaced.
+*{{Icon|Late}} ''"Late to the battle, but on time for your funeral."'' - If a Wizard joins the combat late, Luminous Prophet will recast the negative version of {{Link|Spell|Acrimony}} on all Wizards and then cast {{Link|Spell|Scarecrow (Tier 5a)}}.
+*{{Icon|Round}} ''"WE ARE DEATH!"'' - At the beginning of the first Round and every 6th Round afterwards, Luminous Prophet will cast a version of Anubis that deals '''666''' Death Damage to all Wizards.
+*{{Icon|Charm}} ''"Allow us to help you..."'' -  If a Wizard casts a positive Charm, Luminous Prophet will cast a Shadow version of Blessing that restores '''666''' Health to all Wizards.
+*{{Icon|Minion}}{{Icon|Afterlife}} ''"You will destroy yourself."'' - If Forgotten Soul is defeated, it will cast {{Link|Spell|Regenerate (Tier 5a)}} on Luminous Prophet.
+
+| spellnotes =
+*Casts a +35% Fireblade Deathblade.
+*Casts an all enemies version of Shadow Trap.
+
+| casts =
+Virulence;
+Tower Shield;
+Weakness;
+Mass Weakness;
+Balanceblade;
+Justiceblade (Balance);
+Curse;
+Shadow Trap;
+Deadzone;
+Ghoul (Tier 5b);
+Dream Golem (Tier 3b);
+Scarecrow (Tier 5a);
+Raging Bull;
+Helephant (Tier 3a);
+Inferno Salamander (Tier 3a);
+Ammut (Tier 3a);
+Fire Dragon (Tier 5a);
+Storm Shark (Shadow);
+Vampire (Shadow);
+Brimstone Revenant (Shadow);
+Queen Calypso (Shadow);
+Orthrus (Shadow);
+Qismah's Curse (Shadow);
+Lord of Night (Shadow);
+Scald (Shadow);
+Call of Khrulhu (Shadow);
+
+| quests =
+Behold His Works and Despair;
+
+| gold =
+1 - 55;
+
+| hats =
+
+| robes =
+Manifest Armor of Payback;
+Manifest Armor of Reprisal;
+Manifest Armor of Revenge;
+Manifest Armor of Vengeance;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Age of Reckoning;
+Ashen Bones;
+Lord of the Squall;
+Nested Fury;
+Winged Sorrow;
+
+| reagents =
+
+| spellements =
+Ammut;
+Anubis;
+Barbarian's Saga;
+Count Croakula;
+Freeze Ray;
+Grim Reader;
+Grrnadier;
+Improbable Gaze*F2*WMV;
+Mockenspiel;
+Old One's Endgame;
+Rainbow Serpent;
+Scales of Destiny;
+Shatterhorn;
+Shu;
+Taweret;
+Thoth*F2*WMV;
+Tree of Strife*F2;
+Wobbegong Frenzy*F2;
+
+| snacks =
+
+| jewels =
+Amazing Critical Jade +21;
+Amazing Damage Peridot +32;
+Flawless Critical Peridot +23;
+Flawless Critical Peridot +24;
+Flawless Damage Ruby +33;
+Polished Piercing Amethyst +6%;
+
+| pins =
+Balance Accurate Pin (100);
+Balance Conversion Pin (160);
+Fire Conversion Pin (150);
+Fire Conversion Pin (160);
+Myth Conversion Pin (150);
+Life Accurate Pin (100);
+Storm Accurate Pin (80);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

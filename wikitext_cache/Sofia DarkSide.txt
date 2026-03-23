@@ -1,0 +1,242 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 14,840
+| crecla = Mouse
+| school = Life
+| cheats = Yes
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Arkyn MoonBlade;
+Dread Paladin;
+
+| world = Khrysalis
+| location = Moon Cliffs
+| subloc1 = Eclipse Tower (Left)
+| descrip =
+
+| speech =
+:''"Shadow magic enhances your skills and strategies.  It flows with your repertoire of spells, and builds to new effects.  But every Shadow spell carries the risk of Backlash.  You could very well be the instrument of your own defeat.  Now, show me how well your know your magic.  Prove that you are a true Promethean Wizard before I let you touch the other side of reality."''
+
+| cheatnotes =
+:'''Sofia DarkSide'''
+*{{Icon|Minion}} ''"Join me, valiant servant!"'' - At the end of the first Round, Sofia will summon Arkyn MoonBlade. He becomes active on the third Round.
+*{{Icon|Minion}}{{Icon|Afterlife}} ''"Rise, Arkyn Moonblade. Be my sword!"'' - If Arkyn MoonBlade is defeated, Sofia will resummon him after two Rounds.
+
+:'''Arkyn MoonBlade'''
+*{{Icon|Minion}} ''"Bring your sword to my cause!"'' - At the end of each Round, Arkyn MoonBlade will summon a Dread Paladin until all duel slots are filled up. If Sofia Darkside is defeated before the second Dread Paladin joins combat, a third Dread Paladin will be spawned in.
+
+| spellnotes =
+
+| casts =
+Shadow Seraph;
+Fortify;
+Mend;
+Spirit Armor;
+Guiding Light;
+Unicorn (315);
+Satyr (990);
+Regenerate;
+Rebirth;
+Spirit Blade;
+Sanctuary (+65%);
+
+| quests =
+Shadow Dancer;
+Touching Shadow;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*13 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+| gold =
+275 - 600;
+
+| hats =
+Burrower's Barbed Helmet;
+Kermes Fire Miner's Helmet;
+Mantis Cover of Frostfall;
+Mouse Knight's Helmet*F6*WMV;
+The Dreamweaver*CR*F4*WMV;
+The Raven Eye*CR;
+
+| robes =
+Armor of the Mouse Knight*F7*WMV;
+
+| boots =
+CloudDancer's Footwraps*F2*WMV;
+Flame Legs Coalwalkers;
+Leaf Shield Brisk Walkers;
+Mantis Boots of Patience;
+Mantis Warrior's Footwraps*F4*WMV;
+
+| athames =
+
+| amulets =
+CurdWright Medallion*F3*WMV;
+Mantis Huntress' Pendant*F3;
+
+| rings =
+Mantis Prophet's Ringlet;
+Mouse Knight's Loop*F2;
+Seal of the WoodWard;
+
+| wands =
+Defender of the Last Wood*F3;
+
+| decks =
+Bumbler's Sleetfall Pack*F8*WMV;
+
+| items =
+Khrysalis Arachna Theme;
+Khrysalis Combat Theme*F2;
+
+| cards =
+Black Widow;
+Choke;
+Disarm*F2*WMV;
+Doom and Gloom;
+Fire Beetle;
+Frost Beetle;
+Giant Spider;
+Life Scarab;
+Mass Infection*F2*WMV;
+Rat Illusionist; 
+Sanctuary;
+Scarab;
+Scorpion;
+Storm Beetle;
+
+| reagents =
+Black Lotus*F2;
+Black Pearl*F2;
+Blood Moss*F2*WMV;
+Bone*F9*WMV;
+Bronze Gear*F3;
+Deep Mushroom*F7*WMV;
+Fire Blossom*F2*WMV;
+Fossil*F3*WMV;
+Golden Pearl*F2;
+Lava Lily*F10*WMV;
+Mist Wood*F6*WMV;
+Mithril*F2;
+Nickel;
+Nightshade;
+Ore*F7*WMV;
+Orichalcum;
+Pyrite;
+Red Mandrake*F6*WMV;
+Stone Block*F2*WMV;
+Sunstone;
+Turquoise*F3*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Chimera*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR;
+Lord of Winter*BR*F2*WMV;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Storm Lord*BR;
+Storm Owl*BR*F2*WMV;
+Sun Serpent*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Buttered Bread*F2;
+Dr. Jalapeno;
+Flaming Soup*F3;
+Flapjacks*F2*WMV;
+Glowing Dragon Fruit;
+Glowing Star Fruit*F2;
+Goat Cheese*F4*WMV;
+Golden Apple*F2*WMV;
+Golden Grapes*F3*WMV;
+Gummy Humongofrog*F2*WMV;
+King Banana;
+Salmonberry;
+Shiny Tomato;
+Submarine Sandwich*F2;
+Uni-Corn;
+
+| jewels =
+Big Hurry Opal;
+Cracked Defense Onyx +12;
+Eat My Dirt Opal;
+Fire Cat Ruby*F2;
+Life-Away Jade;
+Myth-Eye Peridot;
+Opaque Mending Opal +4%;
+Polished Blocking Onyx +12;
+Polished Critical Hematite +11;
+Polished Defense Sapphire +42;
+Polished Healing Opal +5%;
+Stupefy Opal;
+Wipeout Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Pink Dandelion*CR;
+Pink Huckleberries*F2*WMV;
+Queen Crape Myrtle;
+Red Huckleberries;
+Sugar Khrystal*CR;
+Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+}}

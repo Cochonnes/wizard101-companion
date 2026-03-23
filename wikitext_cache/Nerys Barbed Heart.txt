@@ -1,0 +1,134 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,360
+| crecla = Spriggan
+| school = Balance
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost  =
+14% Myth, Life, Death;
+
+| incresist =
+70 Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Scaled Spriggan;
+
+| world = Zafaria
+| location = Stone Town
+| subloc1 = Kasbah of Zanj
+| descrip =
+This Spiny Spriggan is being controlled by {{Link|Creature|Keeper Yartek}}, and Sorcerers will need to free her from his will during their Level 75 Minion Quest {{Link|Quest|The Barbed Heart}}.
+
+| speech =
+:''"Alas, valiant Wizard, I have been compelled to slay any who enter here by the mad raider Keeper Yartek.  I'll not spare you!"''
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Weakness;
+Balanceblade;
+Hex;
+Scarab;
+Scorpion;
+Locust Swarm;
+Sandstorm;
+Judgement;
+Evil Snowman;
+
+| quests =
+The Barbed Heart;
+
+| gold =
+42 - 54;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Centaur;
+Colossus;
+Earthquake;
+Helephant;
+Ice Wyvern*F2;
+Phoenix*F3;
+Satyr;
+Skeletal Pirate;
+Stormzilla;
+Triton;
+Wraith;
+
+| reagents =
+Black Lotus;
+Cat Tail*F2;
+Cobalt;
+Deep Mushroom;
+Frost Flower;
+Lava Lily;
+Mist Wood;
+Nickel;
+Ore *F2;
+Pearl;
+Red Mandrake;
+Shell*F2;
+Stone Block*F2;
+
+| spellements =
+
+| snacks =
+Buttered Bread*F2;
+Flaming Soup*F2;
+Glowing Dragon Fruit;
+Goat Cheese;
+Golden Apple*F2;
+Golden Grapes*F2;
+Gummy Humongofrog;
+Salmonberry;
+Shiny Tomato*F2;
+Uni-Corn;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

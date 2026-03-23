@@ -1,0 +1,216 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 16,120
+| crecla = Dino
+| crecla2 = Undead
+| crecla3 = Tritop
+| school = Death
+| startpips = 6
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Thunder Horn Zombie;
+
+| world = Azteca
+| location = Pitch Black Lake
+| subloc1 = Nauyotol Down in the Hole
+| descrip =
+
+| speech =
+:''"I have the fire and the fury at my command!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Guards a giant shell with all the fierceness of a creature trapped in a hole.
+
+| extract class =
+Dinos;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Mass Infection;
+Deathblade;
+Death Trap;
+Feint;
+Death Scarab (Death);
+Natural Attack (Death 175-350-525);
+Wraith;
+Scarecrow;
+Dr. Von's Monster;
+Avenging Fossil;
+
+| quests =
+Six Days at the Bottom;
+
+| gold =
+119 - 139;
+
+| hats =
+Dawn Hour Mantle*F3;
+Elite Jura Guard Helm*F3*WMV;
+Five Fangs of Fury Headdress*F3*WMV;
+High Chac's Guarded Helm;
+Indigo Wing Crown;
+Thirteen Death Mask;
+Tree of Secrets Chac Mask*F3*WMV;
+Twisted Fang Mask;
+Tyrant of Beasts Mask;
+
+| robes =
+
+| boots =
+Black Butterfly Guard's Wraps;
+Jaguar Prince's Leapers;
+Storm Owl's Favored Trackers;
+
+| athames =
+Bleeding Sun Dagger;
+Burning Water Talon;
+
+| amulets =
+Charm of the Gold Aztecosaur;
+House of Plague Greenstone;
+Pitch Black Lake Plague Shell;
+Rising Sun Head Relic;
+Shining Cold House Amulet*F2;
+Smoking Fang Talisman*F2;
+Stone of the Green Skycarrier;
+
+| rings =
+Acampi Reedfist's Lost Seal*F2;
+Bleeding Sun Warrior's Loop*F2;
+Falling Star's End Time Band*F2*WMV;
+Mother Moon's Count Ring;
+
+| wands =
+Eclipse Spear of Azteca;
+Lance of Night Fire*F4*WMV;
+Tears of Night Lance*F2;
+Winter Lord's Obsidian Shard;
+
+| decks =
+Codex of the Lost Fire;
+Deck of the Jaguar Spirit*F2;
+Storm Sun Gallery;
+Winter's Pyramid Deck*F2;
+
+| items =
+Azteca Apocalypse Theme;
+Azteca Main Theme;
+Hollow Log*F2*WMV;
+Star Clothesline*F2*WMV;
+Starburst Frond;
+
+| cards =
+Colossal*F3*WMV;
+Dr. Von's Monster;
+Extraordinary;
+Fire Dragon;
+Gnomes!;
+Lord of Night*F2*WMV;
+Orthrus;
+Potent Trap*F2*WMV;
+Primordial*F3*WMV;
+Rain of Fire;
+Sharpened Blade*F2;
+Storm Lord;
+
+| reagents =
+Black Lotus*F2*WMV;
+Black Pearl;
+Blood Moss;
+Bone*F3;
+Brass;
+Bronze*F2;
+Bronze Gear*F4*WMV;
+Cobalt*F2;
+Deep Mushroom*F3;
+Fire Blossom*F3*WMV;
+Fossil*F2;
+Golden Pearl*F2;
+Lava Lily*F4*WMV;
+Mist Wood*F4*WMV;
+Nightshade;
+Ore;
+Red Mandrake*F4*WMV;
+Silver;
+Steel;
+Stone Block*F4*WMV;
+Titanium;
+Tungsten;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Apatotatoes;
+Avocado Milkshake;
+Aztecan Hot Chocolate;
+Buttered Bread;
+Chapulines;
+Dr. Jalapeno;
+Maize*F2;
+Marzipan Maize;
+Pterotomatoes;
+Rex Tea;
+Stego Waffles;
+Zocalo Wings;
+
+| jewels =
+Accurate Talent Opal;
+Buff Minion Peridot;
+Clear Blocking Opal +5;
+Clear Health Opal +83;
+Mend Talent Opal;
+Polished Critical Jade +11;
+Power-Taker Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

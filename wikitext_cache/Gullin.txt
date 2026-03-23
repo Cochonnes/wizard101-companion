@@ -1,0 +1,121 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,810
+| crecla = Boar
+| school = Death
+| startpips = 4
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Bristlehide Raider;
+
+| world = Grizzleheim
+| location = Austrilund
+| subloc1 = Gullin's Cave
+| descrip =
+Necromancers must defeat Gullin in order to obtain their Level 58 Pet {{Link|Pet|Scarecrow}}.<br/>This boss is not repeatable.
+
+| speech =
+:''"Did those wolves send you? I'm gonna rattle your gourd!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Death Damage.
+
+| casts =
+Deathblade;
+Curse;
+Death Trap;
+Feint;
+Vampire;
+Poison;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+
+| quests =
+Death's Egg;
+
+| gold =
+53 - 68;
+
+| hats =
+Hopping Bear Hat;
+
+| robes =
+Jerkin of the Great Bear;
+Jerkin of the Howling Bear;
+
+| boots =
+Barbarian's Bold Boots;
+Snarling Bear Boots;
+
+| athames =
+
+| amulets =
+
+| rings =
+Black Spinel of Battle;
+Ring of Sister Wolf;
+Ring of the Ravenous Wolf;
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Dark Tribute*F2;
+Ice Wyvern;
+Meteor Strike;
+Sunbird;
+Virulent Plague*F2;
+
+| reagents =
+Bronze;
+Bronze Gear;
+Leather Straps;
+
+| spellements =
+
+| snacks =
+Buttered Bread;
+Delicious Cookie*F2;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

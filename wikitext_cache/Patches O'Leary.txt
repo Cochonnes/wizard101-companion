@@ -1,0 +1,169 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 725
+| crecla = Rat
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Fire;
+
+| incresist =
+60% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+O'Leary Burglar;
+
+| world = Marleybone
+| location = Hyde Park
+| subloc1 = Warehouse (Hyde Park)
+| descrip =
+Patches is guarding a warehouse full of stolen goods. He is most likely a goon with a bit of power, a step up from the creatures lining the streets. This is evident by the fact that he's left guarding a warehouse, with Meowiarty trusting him with a little authority but probably also guessing that no one would ever enter the place, giving him a job basically as a security guard.
+*Two additional O'Leary Burglars will appear if more than two Wizards are present.
+
+| speech =
+:''"Is that a glimmer of hope I see in your eyes? So delightfully unaware are you of your fate..."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip.
+
+| casts =
+Tower Shield;
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Ice Elf (30+210);
+Evil Snowman;
+Snow Shark;
+Banshee;
+
+| quests =
+It Pours;
+
+| gold =
+25 - 46;
+
+| hats =
+Affable Cowl*F2*WMV;
+Cap of the Ice Wyvern*F2*WMV;
+Conventional Cap*F2*WMV;
+Cowl of Respect;
+Debonair Cap;
+Distinguished Cap;
+Exquisite Cowl;
+Finely Finished Mask;
+Hat of Numbness*F2*WMV;
+Hat of the Enigma;
+Headwraps of Restoration*F2;
+Helm of Chivalry*F3;
+Helm of Intolerance*F2*WMV;
+Smooth Spun Hat;
+Stylish Hat;
+
+| robes =
+Brisk Robe*F3*WMV;
+Medic's Robe*F2*WMV;
+
+| boots =
+Animated Canine Shoes*F2;
+Boots of Sparking Energy*F2*WMV;
+Cat Burglar's Shoes*F2;
+Footwraps of Dreamland;
+Glowing Canine Shoes*F2*WMV;
+Masterful Canine Shoes*F3*WMV;
+Pastoral Boots;
+Shoes of Anxiety;
+Shoes of Humanity;
+Silent Canine Shoes*F2*WMV;
+Slippers of Definition;
+Superstitious Canine Shoes*F5*WMV;
+
+| athames =
+Athame of Chivalry*F2;
+Conventional Dagger;
+
+| amulets =
+
+| rings =
+Animated Ring*F4*WMV;
+Commoner's Ring*F2;
+Ring of Rejuvenation;
+
+| wands =
+
+| decks =
+Deck of the Banshee*F2*WMV;
+Deck of the Phoenix*F4*WMV;
+
+| items =
+Blue Street Light*F2*WMV;
+Fish Bones;
+Gas Can*F3*WMV;
+Thick Roof Vent*F2*WMV;
+
+| cards =
+Black Mantle;
+Cloak;
+Fire Trap;
+Ice Trap;
+Mutate Beetle (Fire);
+Sandstorm;
+Sniper;
+Storm Trap;
+
+| reagents =
+Bone*F3*WMV;
+Ectoplasm*F5*WMV;
+Iron*F2;
+Nickel;
+Tin;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn*F2*WMV;
+Gummy Bloodbat;
+Medium Fish;
+Redskin Peanut;
+Square Watermelon*F2*WMV;
+Stinky Cheese*F2*WMV;
+Wheat Cracker*F2*WMV;
+
+| jewels =
+Banshee Onyx;
+Chipped Health Opal +24;
+Flawed Accurate Opal +2%;
+Flawed Damage Opal +5;
+Flawed Health Opal +29;
+Flawed Health Opal +30;
+Locust Swarm Citrine;
+Sprite Jade;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,147 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 16,170
+| crecla = Vampire
+| crecla2 = Undead
+| school = Death
+| school2 = Life
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Life;
+Death;
+
+| critical =
+504 Any;
+
+| criticalblock =
+191 Any;
+
+| outpierce =
+17%;
+
+| outboost =
+113%;
+
+| incboost =
+30% Life;
+
+| incresist =
+37% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+67% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Demimortal Vassal;
+
+| world = Darkmoor
+| location = Mortal Plain
+| subloc1 = Mayor House
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Darkmoor
+| tome description =
+Dragon Lord of the House of Cups, or so he calls himself. Truthfully, he's never met a dragon in his unlife.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Steal}} ''"You don't drain us, we drain you!"'' - If Sir Dracus or Demimortal Vassal is hit with a Drain spell, the enemy that was hit will cheat-cast one of the following spells on himself:
+** If he is not defeated by the attack, he will cast an {{Link|Spell|Aegis}}-protected +100% {{Link|Spell|Balanceblade}}.
+** If he is defeated by the attack, he will cast a version of {{Link|Spell|Minor Blessing}} on himself that heals for 100% of his max health.
+*{{Icon|Dispel}} ''"Not the sun!"'' - If Sir Dracus or Demimortal Vassal is hit with a Spell that has a sun in it, such as {{Link|Spell|Power Nova}}, the enemies that were hit will cheat-cast a Protected Universal Dispel on themselves.
+
+| spellnotes =
+
+| casts =
+Magnify;
+Rebirth (Tier 2b);
+Star Blade;
+Bonetree Lord;
+Luminous Weaver (Tier 2b);
+Primal Oni;
+
+| quests = 
+The Recent Victim;
+
+| gold =
+15 - 33;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Creepy Bookshelf;
+Darkmoor Wagon*F2;
+Mortal Plains Hay;
+
+| cards =
+Leviathan;
+Rain of Fire;
+Rebirth;
+Skeletal Dragon;
+Spinysaur;
+Sun Serpent;
+
+| reagents =
+Amber Dust;
+Astral Shard;
+Iron;
+Merle's Whisker;
+Mithril;
+Steel*F2;
+Titanium;
+Toffee Bean;
+
+| spellements =
+
+| snacks =
+Fiddleheads;
+Pickled Garlic Grubs;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

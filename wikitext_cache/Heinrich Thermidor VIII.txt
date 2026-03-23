@@ -1,0 +1,100 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 2
+| heal = 320
+| crecla = Crab
+| school = Myth
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+10% Storm;
+
+| incresist =
+30% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Thomas Cromshell;
+
+| world = Wizard City
+| location = Crab Alley
+| subloc1 = Royal Tower
+| descrip =
+Note that this is a low rank boss that can get Power Pips, though without any rank 2 spells, they don't really serve any purpose.  With the return of {{Link|NPC|Selena Gomez}} to her proper home, this creature is no longer encountered in {{Link|Location|Crab Alley}}.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Myth Trap;
+Blood Bat;
+Frost Beetle;
+Fire Cat;
+Thunder Snake;
+
+| quests =
+Disappear;
+
+| gold =
+4 - 6;
+
+| hats =
+
+| robes =
+Barkskin Tunic;
+Firestorm Vestment;
+Robe of the Lifeblood;
+Soot Stained Tunic;
+
+| boots =
+Northland Footwraps;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Chocolate Strawberry;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

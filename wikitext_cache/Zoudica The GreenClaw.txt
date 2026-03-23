@@ -1,0 +1,220 @@
+{{Stub|which version of the ''{{Link|TreasureCard|Shatter}} Treasure Card'' this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 17,050
+| crecla = Mantis
+| crecla2 = Insect
+| school = Life
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+GreenClaw Rebel;
+
+| world = Khrysalis
+| location = Sardonyx
+| subloc1 = Zoudica's House
+| descrip =
+
+| speech =
+:''"Greetings, Spellbinder. Come to join my ranks? No? You don't think I'm a better leader than that Umbra reject Zelda? :Hsssk: I guess I'll just have to show you how powerful I am. To me, warrior daughters! Break the Spellbinder!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+She once aspired to conquer Morganthe herself. That probably wouldn't have ended well.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fortify;
+Mend;
+Regenerate;
+Rebirth;
+Lifeblade;
+Life Trap;
+Natural Attack (Life 158-250-345);
+Goat Monk;
+Centaur (610-670);
+Bronze Helephant;
+Gnomes!;
+Spinysaur;
+
+| quests =
+Delusions Of Grandeur;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*8 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+| gold =
+142 - 231;
+
+| hats =
+Kermes Fire-Hardened Mask;
+Mantis Guard's Headgear*F2*WMV;
+Scarred Burrower Greathelm*F3;
+
+| robes =
+Beleaguered Mouse Gear*F2;
+Besieged Burrower Armor;
+Gorge Excavator's Outfit*F2;
+
+| boots =
+
+| athames =
+Ghostmane's Fabled Cutter;
+
+| amulets =
+CurdWright Medallion;
+Death's Head Talisman*F2;
+Jewel of the Apiary;
+
+| rings =
+Moon's Tear Band;
+
+| wands =
+Halberd of Mesmerizing;
+Poleaxe of Mantis Dominion;
+
+| decks =
+Barbed Case of Stratagem*F2*WMV;
+Box of Indomitable Spirit;
+Lightning Rider's Deck;
+
+| items =
+Khrysalis Combat Theme 2;
+Khrysalis Hive Combat Theme;
+
+| cards =
+Chastisement;
+Crystal Spider;
+Cycle of Life;
+Disarm;
+Doom and Gloom;
+Furnace*F2;
+Giant Spider;
+Hooligan;
+Locust Swarm;
+Luminous Weaver;
+Polar Swarm;
+Punishment;
+Reliquary;
+Shatter;
+Sleet Storm;
+Storm Owl;
+Virulence;
+Wildfire Treant;
+
+| reagents =
+Astral Shard*F2*WMV;
+Black Lotus;
+Bone;
+Bronze Gear;
+Deep Mushroom*F2;
+Draconium*F2;
+Fire Blossom*F2;
+Golden Pearl;
+Lava Lily*F3*WMV;
+Mist Wood*F2;
+Nightshade*F2*WMV;
+Ore;
+Orichalcum*F2;
+Red Mandrake*F2;
+Stone Block*F3;
+Sunstone;
+Turquoise;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR
+Celestial Calendar*BR;
+Chimera*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Cauliflowers;
+Dr. Jalapeno;
+Glowing Star Fruit;
+Goat Cheese;
+Gummy Humongofrog;
+Salmonberry*F2;
+Shiny Tomato;
+Submarine Sandwich;
+
+| jewels =
+Malduit Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,277 @@
+{{Stub|which versions of the ''{{Link|TreasureCard|Enfeeble}}'' and ''{{Link|TreasureCard|Shatter}} Treasure Cards'' this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 21,760
+| crecla = Dog
+| school = Death
+| cheats = Yes
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Hagakure Blade;
+Hagakure Blade;
+Seijun Killer;
+
+| world = Khrysalis
+| location = Fort Rachias
+| subloc1 = Central Keep
+| descrip =
+This is the second form of the {{Link|Creature|Ghost Dog}} Boss encountered in the Central Keep of Fort Rachias. All drops from this particular fight should be recorded on this page.
+
+| speech =
+:''(After Ghost Dog is defeated)''
+:'''Ghost Dog:''' ''"If a warrior's head were to be suddenly cut off, he should be able to perform one more action with certainty."''
+:'''Magalia SpiritCaller:''' ''"That sounds ominous."''
+:'''Morganthe's Shadow:''' ''"Ghost Dog, I did not give you permission to lie down. Rise, cur! Your Queen commands it! You see, little Wizard, reality is what I make of it. I raise Ghost Dog from the edge of defeat, and imbue him with the power of Shadow! Cry havoc, as they say, and savage the little fool!"''
+
+| cheatnotes =
+*{{Icon|Minion}} ''"Devote your body and soul to your master!"'' - At the end of the first Round, Ghost Dog will summon two Hagakure Blades Minions and one Seijun Killer Minion.  They become active during the second Round.
+*{{Icon|Damage over Time}} ''"Feel the poetry of war!"'' - At the end of the second Round, and every five Rounds thereafter, Ghost Dog will interrupt-cast a Damage over Time Spell that deals 400 Death Damage per Round for ten Rounds, or 575 Death Damage per Round in Shadow form.
+**When this cheat is triggered, Ghost Dog will target the Wizard with the most generated threat, or the Wizard in the first position (Sun spot) of the Duel by default.
+**{{Icon|Manipulation}} ''"The way of the Samoorai is found in death!"'' - At the end of the fifth Round, and every five Rounds thereafter, Ghost Dog will interrupt-cast a Death version of [[Spell:Detonate (Death)|Detonate]] on the Wizard who received the Damage over Time effect, dealing 2,800 Death Damage.
+***If this cheat is Dispelled, then Ghost Dog will interrupt-cast Detonate again to hit his target.
+*{{Icon|Ward}} ''"Be resolved from the beginning!"'' - If a Wizard casts a helpful [[:Category:Ward Spells|Ward]], then Ghost Dog will interrupt-cast {{Link|Spell|Shatter}} on the Wizard that cast the Ward.
+** Pet spells do not trigger this cheat.
+| spellnotes =
+
+| casts =
+Shadow Shrike MOB;
+Amplify;
+Fortify;
+Mass Infection;
+Deathblade;
+Death Trap;
+Feint;
+Death Scarab (Death);
+Natural Attack (Ghost Dog);
+Vampire;
+Wraith (575);
+Scarecrow;
+Skeletal Dragon;
+Dr. Von's Monster;
+
+| quests =
+Dying Star Stuff;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*18 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+| gold =
+290 - 337;
+
+| hats =
+Burrower's Barbed Helmet*F2*WMV;
+Last Wood Defender's Cap*F4*WMV;
+Santa Hat*CR*HOL;
+
+| robes =
+Armor of the MouseHunter*F6*WMV;
+Armor of the QuietBlade;
+
+| boots =
+CloudDancer's Footwraps*F2;
+Flame Legs Coalwalkers*F2*WMV;
+Gorge Excavator's Trekkers*F5*WMV;
+Mantis Boots of Patience*F2*WMV;
+
+| athames =
+Apidae Defender's Dagger*F2*WMV;
+Gloom Dancer's Talon*F2*WMV;
+
+| amulets =
+Last Wood Defender's Jewel*F4*WMV;
+
+| rings =
+Ghost Dog's Samoorai Band;
+Gloom Dancer's Band*F3*WMV;
+Mantis Prophet's Ringlet*F3;
+Moon's Tear Band*F4*WMV;
+Mouse Knight's Loop;
+Seal of the WoodWard;
+Stone of the Huntress;
+
+| wands =
+Baton of Entanglements*CR*HOL;
+Cold Pits Stabber*F2;
+
+| decks =
+Mago's Death's Head Set*F2*WMV;
+Melting Beeswax Case*F2*WMV;
+Pack of Frozen Souls*F2*WMV;
+
+| items =
+Khrysalis Fort Rachias Theme*F4*WMV;
+Khrysalis Moon Cliffs Theme*F2;
+Krokopatra Exalted Duel*CR;
+Meowiarty Archmage Duel*CR;
+Nutcracker*HOL;
+Rattlebones Exalted Duel*CR;
+Rattlebones Master Duel*CR;
+Zeus Exalted Duel*CR;
+
+| cards =
+Black Widow;
+Choke;
+Clockwork Spider;
+Crystal Spider;
+Death Scarab;
+Disarm*F2;
+Doom and Gloom;
+Enfeeble;
+Giant Spider;
+Gibson O'Leary;
+Hooligan;
+Legendary Treant (445)*F2;
+Lucius McTavish;
+Luminous Weaver*F2*WMV;
+O'Leary Charlatan (Storm)*F2*WMV;
+O'Leary Swindler;
+Polar Swarm;
+Rat Illusionist;
+Sanctuary*F3*WMV;
+Scorpion;
+Shatter;
+Sprite Swarm (40+360)*F4*WMV;
+White Rat Magician;
+Wildfire Treant*F2;
+
+| reagents =
+Black Lotus*F2*WMV;
+Black Pearl;
+Blood Moss;
+Bone*F6*WMV;
+Bronze Gear*F3*WMV;
+Copper;
+Deep Mushroom*F6*WMV;
+Fire Blossom*F2;
+Golden Pearl;
+Lava Lily*F8*WMV;
+Mist Wood*F4*WMV;
+Nightshade*F2*WMV;
+Ore*F5*WMV;
+Orichalcum;
+Pyrite;
+Red Mandrake*F8*WMV;
+Silver;
+Stone Block*F2*WMV;
+Sunstone*F2;
+Titanium;
+Tungsten;
+Turquoise*F2*WMV;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Chimera*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR;
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR*F2*WMV;
+Sirens*BR;
+Skeletal Dragon*BR*F2*WMV;
+Snow Angel*BR;
+Spinysaur*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Flaming Soup*F3*WMV;
+Goat Cheese;
+Golden Apple*F3*WMV;
+Golden Grapes*F2*WMV;
+Gummy Bees;
+Gummy Humongofrog*F3*WMV;
+Hive Rinds*F3*WMV;
+Honey Bombs*F4*WMV;
+Honeycombs;
+Honeycrisp Apples;
+King Banana;
+Peanut Butterflies;
+Punk Rock Candy;
+Salmonberry;
+Shiny Tomato;
+Spicy Stingers;
+Sugar Khrystals*F2;
+Uni-corn;
+
+| jewels =
+Blood Bat Peridot;
+Chipped Mana Opal +11;
+Clear Critical Opal +5*F2*WMV;
+Disconcert Opal;
+Intrepid Opal;
+Polished Critical Onyx +11;
+Polished Defense Hematite +43;
+Polished Defense Onyx +44;
+Polished Healing Opal +5%;
+Polished Mending Opal +5%;
+Power Player Citrine;
+Slow Leader Opal;
+
+| pins =
+
+| pets =
+Lovely Leopard*CR*HOL;
+Snowball*CR*F5*WMV;
+Valentine Pig*CR*HOL;
+
+| seeds =
+Alligator Pear Tree*F2*WMV;
+Angora Bunny Ears;
+Face Palm*F2;
+Fiery Boom Shroom;
+Queen Crape Myrtle;
+Red Huckleberries*F2;
+Sword Fern*CR;
+Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,168 @@
+{{Stub|confirmation of which Deer Knight version is cheat-cast from defeating Minions}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 12,000
+| crecla = Grendel
+| school = Myth
+| masteries =
+Death;
+
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Storm, Life;
+
+| incresist =
+35% Death;
+70% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Grendel Cracknail (Tier 4);
+Grendel Ransacker (Tier 4);
+Grendel Scavenger (Tier 4);
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 4)
+| descrip =
+
+| speech =
+:''"Has the weak-kneed Jarl sent you here, into the bowels of the earth?  I have turned the thane's longhall into a house of hatred!  Taste sorrow and shame!  Long will be the season of your suffering!"''
+
+| cheatnotes =
+*Upon Defeating each of Tyrfing's Minions, an interrupt Spell will trigger.
+**{{Icon|Damage}} Upon Defeating the Grendel Ransacker (Tier 4), Tyrfing will cast '''325 + 351''' version of Deer Knight.
+**{{Icon|Damage}} Upon Defeating the Grendel Cracknail (Tier 4), Tyrfing will cast a '''300 + 300''' version of Deer Knight.
+**{{Icon|Stun}} Upon Defeating the Grendel Scavenger (Tier 4), Tyrfing will cast Blinding Light.
+***Defeating all three of Tyrfing's Minions in one Round will trigger all three of these Spells to interrupt in succession.
+
+{{Icon|Minion}} '''Minion Cheat Cycle''' (Resets every 3 {{Icon|Round}})
+*{{Icon|Shield}} His Grendel Ransacker (Tier 4) casts a {{Link|Spell|Tower Shield (Sun -70%)}}, starting on Round 1.
+*{{Icon|Blade}} His Grendel Cracknail (Tier 4) casts a {{Link|TreasureCard|Dragonblade (Sun +45%)}}, starting on Round 2.
+*{{Icon|Healing}} His Grendel Scavenger (Tier 4) casts a {{Link|Spell|Regenerate (60+1,130)}}, starting on Round 3.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Mythblade;
+Spirit Blade (+25%);
+Curse (+25%);
+Blinding Light;
+Earthquake (425);
+Orthrus;
+Natural Attack (Myth 140-1835);
+Deer Knight;
+Wraith (575);
+
+| quests =
+Hall of the Bear;
+
+| gold =
+209 - 250;
+
+| hats =
+Thought and Memory Helm (Level 60+)*CR;
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Great Axe of the Storyteller (Level 60+)*CR;
+
+| decks =
+
+| items =
+Bloodvine Shield;
+Fish Pot;
+Lantern Post;
+Minor Runestone;
+Standing Sconce;
+Weapons Cache;
+Wood-Carven Stool;
+
+| cards =
+Colossus;
+Crow;
+Freeze;
+Frost Beetle;
+Frostbite;
+Ice Wyvern;
+Orthrus;
+Regenerate;
+Satyr;
+Snow Bird;
+Sunbird;
+
+| reagents =
+Acorn;
+Brass;
+Fossil;
+Mist Wood;
+Nickel;
+Ore;
+Red Mandrake;
+Spider Silk;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Beetle Cream Soda;
+Drumstick;
+Fried Worms;
+Frozen Snails;
+Fuzzy Peach Fizz;
+Lemon Daisy;
+Peppercorn;
+Pickled Garlic Grubs;
+Pollen Bombs;
+Salmon Joy;
+Salmonberry;
+Simple Sugar Pop;
+Spicy Drumstick;
+Sweet Mango;
+Wormy Apple;
+
+| jewels =
+Dull Accurate Opal +3%;
+
+| pins =
+
+| pets =
+Icebat;
+
+| seeds =
+Evil Snow Peas;
+Frozen Fly Trap;
+White Desparagus;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

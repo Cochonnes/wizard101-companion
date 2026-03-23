@@ -1,0 +1,176 @@
+{{Stub|Boost and Resist values.}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 19,465
+| crecla = Demon
+| school = Life
+| school2 = Storm
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+45%;
+
+| incboost =
+Death;
+
+| incresist =
+Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+War Oni (Standard);
+Plague Oni (Standard);
+Death Oni (Standard);
+
+| world = Housing Instance
+| location = Jade Oni Rematch
+| descrip =
+*As the Boss in this battle, all drops are recorded on this page.
+*For the Challenge version of this battle, see {{Link|Creature|Jade Oni (Challenge)}}.
+
+| speech =
+
+| cheatnotes =
+{{Icon|Life}}{{Icon|Storm}} '''Jade Oni'''
+*{{Icon|Ward|22px}} ''"Jade ancestors, protect me!"'' - On the fifth Round, Jade Oni will cast a {{Link|Spell|Spirit Armor}} on himself.
+*{{Icon|Trap|20px}} ''"Your Tricks become my Treasure"'' - If a Trap is placed on Jade Oni, he will cast {{Link|Spell|Oni's Naturalism}}.
+**Multi-Target Spells, such as {{Link|Spell|Windstorm}}, will trigger this cheat.
+*{{Icon|Damage over Time|20px}} ''"Sharing is Caring. Bwahaha!"'' - If a Wizard casts a Damage over Time on Jade Oni, he will cast {{Link|Spell|Camp Bandit (Tier 4b)}}.
+*''"Your Doom is Imminent"'' - Jade Oni casts a {{Link|Spell|Spirit Blade}} on self, warning of the impending Gambit.
+*'''x4''' {{Icon|Blade|20px}} '''Gambit:'''
+**''"You were warned. Bwahaha!"'' - If Jade Oni reaches a Gambit of having four Blades, he will cast {{Link|Spell|Primal Oni}}. All Blades will be removed from all enemies after this Gambit has been used.
+
+{{Icon|Death}}{{Icon|Ice}} '''Death Oni'''
+*{{Icon|Blade|20px}} ''"You dare mock Death?"'' - If a Wizard casts a Blade, Death Oni will cast {{Link|Spell|Putrefaction}} on the receiver.
+**{{Link|Spell|Aegis}} will not protect Blades from removal.
+**Spells with secondary effects will trigger this cheat.
+**Multi-Target Blade Spells will trigger an AoE version of Putrefaction.
+*{{Icon|Heal over Time|20px}} ''"You must play by the Death Oni's Rules!"'' - If a Wizard casts a Heal over Time, Death Oni will cast {{Link|Spell|Oni's Morbidity}}.
+*{{Icon|Ward|22px}} ''"Spirits of the Dead Protect Me!"'' - Death Oni casts a {{Link|Spell|Spirit Shield}} on himself after casting a Shield, warning of the impending Gambit.
+*'''x4''' {{Icon|Ward|22px}} '''Gambit:'''
+**''"Think you're tough?"'' - If Death Oni reaches a Gambit of having four Shields, he will cast {{Link|Spell|Doom Oni}}. All Wards will be removed from all enemies after this Gambit has been used.
+
+{{Icon|Balance}}{{Icon|Death}} '''Plague Oni'''
+*{{Icon|Curse|20px}} ''"A pox upon your house!"'' - On the third Round, Plague Oni casts {{Link|Spell|Plague}}.
+*{{Icon|Blade|20px}} ''"Those with the Most have the Most to lose."'' - If a Wizard casts a Blade, Plague Oni will cast {{Link|Spell|Oni's Shadow}}.
+**Spells with secondary effects will trigger this cheat.
+*{{Icon|Trap|20px}} ''"Time for the tables to turn"'' - If a Wizard casts a Trap, Plague Oni will cast {{Link|Spell|Righting the Scales}} on the caster.
+**Multi-Target Spells will trigger this cheat.
+*''"Your Doom is Imminent"'' - Plague Oni casts a {{Link|Spell|Balanceblade}} on itself and {{Link|Spell|Mass Infection}}, when it has a Blade, and a Wizard has a negative Charm, warning of the impending Gambit.
+**This Balanceblade can stack with the Balanceblade he casts from his hand.
+*'''x2''' {{Icon|Blade|20px}} '''& x2''' {{Icon|Curse|20px}} '''Gambit:'''
+**''"Greed will be your downfall!"'' - If Plague Oni reaches a Gambit of having two Blades on itself, and 2 harmful Charms on the Wizard, he will cast {{Link|Spell|Tribunal Oni}}. All Charms will be removed from all enemies and allies after this Gambit has been used.
+
+{{Icon|Fire}}{{Icon|Life}} '''War Oni'''
+*{{Icon|Ward|22px}} ''"Your armaments are no match for the Heat of the Forge"'' - If a Wizard casts a Shield, War Oni will cast {{Link|Spell|Oni's Forge}} on the receiver.
+*''"Let the war rage on!"'': 
+**{{Icon|All Enemies|40px}} If War Oni is damaged with an AoE Spell, he will cast {{Link|Spell|Pigsie (Tier 5b)}}. 
+***If War Oni is defeated with an AoE Spell, he will instead cast a version of {{Link|Spell|Pigsie}} that restores 100% Health.
+**{{Icon|Heal over Time|20px}} If War Oni has a HoT, he casts {{Link|Spell|Sprite}} on himself, warning of the impending Gambit.
+*'''x2''' {{Icon|Heal over Time|20px}} '''Gambit:'''
+**''"Survival is the dominion of the fittest!"'' - If War Oni reaches a Gambit of having two HoTs, he will cast {{Link|Spell|Infernal Oni}}. All HoTs will be removed from all enemies after this Gambit has been used.
+
+| spellnotes =
+
+| casts =
+Lifeblade (+40%);
+Stormblade (+30%);
+Mass Life Trap;
+Ratatoskr's Spin (Tier 4a);
+Luminous Weaver (Tier 4b);
+Nature's Wrath (Tier 4b);
+Centaur (Tier 4b);
+Thunder Snake (Tier 4b);
+Hammer of Thor (Tier 4b);
+Catch of the Day (Tier 5b);
+
+| quests =
+
+| gold =
+
+|dropnotes = 
+Wizards will always recieve the following drops:
+*{{Icon|Spellement}} 28 Rank 5 Spellements for Any School
+*{{Icon|Treasure Card}} 5 Azoth Treasure Cards
+*{{Icon|Reagent}} 10 Malistaire's Whisker Reagents
+*{{Icon|Boots}} 3+ Malistaire Boots or Deck drops for Any School
+
+| hats =
+
+| robes =
+
+| boots =
+Malistaire's Chilly Boots (Level 160+);
+Malistaire's Ghostly Boots (Level 160+);
+Malistaire's Harmonic Boots (Level 160+);
+Malistaire's Infamous Boots (Level 160+);
+Malistaire's Squall Boots (Level 160+);
+Malistaire's Thorny Boots (Level 160+);
+Malistaire's Vengeance Boots (Level 160+);
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Malistaire's Chilly Deck (Level 160+);
+Malistaire's Ghostly Deck (Level 160+);
+Malistaire's Harmonic Deck (Level 160+);
+Malistaire's Infamous Deck (Level 160+);
+Malistaire's Squall Deck (Level 160+);
+Malistaire's Thorny Deck (Level 160+);
+Malistaire's Vengeance Deck (Level 160+);
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Malistaire's Whisker @ 10 Malistaire's Whisker;
+
+| spellements =
+Blight Hound;
+Earth Walker;
+Minotaur;
+Phoenix;
+Skeletal Pirate;
+Spectral Blast;
+Stormzilla;
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Jade Oni (Rematch)
+
+}}

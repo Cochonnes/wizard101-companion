@@ -1,0 +1,204 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,080
+| crecla = Pig
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Fire;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Otomo Supply Runner;
+
+| world = MooShu
+| location = Tatakai Outpost
+| subloc1 = Hingen's Hideout
+| descrip =
+*Two additional Otomo Supply Runners will appear if more than two Wizards are present.
+
+| speech =
+:''"Lili Ma did really well in setting up this ambush. You will not survive this."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+Good at being quiet, but not that great at fighting, at least Hingen knows how to stay hidden.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Tower Shield;
+Ice Armor;
+Black Mantle;
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Evil Snowman;
+Snow Shark;
+Blizzard;
+Ice Wyvern;
+Sunbird;
+Natural Attack (Myth 100x, 75%);
+
+| quests =
+Et Tu, Lili?;
+
+| gold =
+50 - 79;
+
+| hats =
+Abstract Shroud*F2;
+Blended Wool Cap*F2;
+Cap of Dilemma*F2*WMV;
+Cap of Preoccupation*F2;
+Cowl of Watchfulness;
+Hat of the Eager;
+Headwraps of Anthems;
+Headwraps of the Whim;
+Helm of Struggling;
+Hingen's Helm of Pictures*F2*WMV;
+Shroud of Deliberation*F4;
+Shroud of Woe*F2*WMV;
+
+| robes =
+Abstract Vestment;
+Druidic Tunic;
+Garments of Predicament;
+Haskarr's Barbarish Tunic;
+Hingen's Cloak of the Nimble;
+Proficient Cloak;
+Pupil's Uniform;
+Robe of Hinderance;
+Robe of the Universe;
+Shroud of Deliberation;
+Vestment of Fiction;
+
+| boots =
+Benign Slippers;
+Boots of Awareness;
+Boots of Consideration;
+Hingen's Steadfast Shoes;
+Painful Slippers;
+Prospective Boots;
+Shoes of Watchfulness*F3*WMV;
+Tormented Sandals*F3*WMV;
+Warbled Shoes;
+
+| athames =
+Hingen's Dirk of Prudence;
+Kris of the Pensive Ones*F2;
+Shortblade of a Daydreamer*F3*WMV;
+
+| amulets =
+
+| rings =
+Band of Hope;
+Logical Band;
+Ring of Detachment*F3;
+
+| wands =
+Hingen's Staff of Egoism;
+
+| decks =
+
+| items =
+Fancy Bench;
+Green Futon Bed*F2*WMV;
+Low Wooden Fence*F2*WMV;
+Marble Bench*F3*WMV;
+Night Painting*F3*WMV;
+Small Woodpile*F2;
+Stone Base;
+
+| cards =
+Black Mantle;
+Donate Power;
+Doom and Gloom;
+Ice Wyvern;
+Kraken;
+Minotaur;
+Monstrous;
+Ninja Pigs*F2*WMV;
+Sanctuary;
+Skeletal Pirate;
+
+| reagents =
+Bone*F3*WMV;
+Brass;
+Bronze Gear*F2*WMV;
+Copper;
+Nickel;
+
+| spellements =
+
+| snacks =
+Crunch Apple;
+Fire Cracker*F2;
+Golden Squash*F2;
+Large Fish;
+Large Watermelon*F2*WMV;
+Square Root;
+
+| jewels =
+Balance-Boon Citrine;
+Big Exhaust Opal;
+Blemished Damage Opal +6;
+Blemished Defense Amethyst +21;
+Blemished Defense Onyx +21;
+Blemished Defense Opal +12;
+Blemished Defense Peridot +21;
+Blemished Defense Sapphire +21;
+Flawed Damage Opal +5;
+Flawed Defense Amethyst +18;
+Flawed Defense Peridot +18;
+Flawed Defense Ruby +18;
+Ice-Giver Sapphire;
+Mana Boost Opal;
+Slow Motion Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Fiery Boom Shroom*F2;
+Pink Dandelion*CR;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,210 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 560
+| crecla = Krokotopian
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Fire;
+
+| incresist =
+50% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sokkwi Protector;
+
+| world = Krokotopia
+| location = Hall of Champions
+| subloc1 = Nekhbet's Chamber
+| descrip =
+Nekhbet is one of the reawakened Tuts, residing in one of the chambers found in the [[Location:Krokosphinx|Krokosphinx's]] Hall of Champions. When Wizards arrive in the hall in search of {{Link|NPC|General Khaba}}, the Mander {{Link|NPC|Rami}} informs them that the missing general will only work with those bearing the Seal of the Fang, which marks one as an ally of the Order of the Fang.  Unfortunately, Nekhbet was able to steal one prior to the completion of the Great Sleep's casting.  Wizards face Nekhbet to recover the seal, both to gain an audience with General Khaba and to prevent the Tuts from luring him into a trap.
+
+*Two additional Sokkwi Protectors will appear if more than two Wizards are present.
+
+| speech =
+:''"Kiss that confidence goodbye as you see how little you are..."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip
+
+| casts =
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Ice Bats (245-285);
+Evil Snowman;
+Ghoul;
+Leprechaun;
+Sandstorm;
+
+| quests =
+Search for the Seal;
+
+| gold =
+14 - 29;
+
+| hats =
+Ancient Circlet;
+Bitter Cap*F3;
+Cap of the Oasis;
+Charred Cowl*F2*WMV;
+Cowl of Summertime*F3*WMV;
+Crystalline Helm;
+Diviner's Hat of Squalls*F4*WMV;
+Durable Hood;
+Helm of Ingenuity*F2*WMV;
+Helm of Refuge;
+Helm of the Cyclone;
+Krokotopian Balance Modius;
+Krokotopian Ice Modius;
+Krokotopian Modius*F8;
+Nekhbet's Shrewd Cowl;
+Rough-Hewn Hood*F4*WMV;
+Snowflake Cowl;
+Stout Hood;
+Tempest Cowl;
+Threadbare Hood*F2;
+
+| robes =
+Ancient Cloak;
+Blazing Vest;
+Cryptkeeper's Cloak;
+Crystalline Vest*F2*WMV;
+Flowering Mantle;
+Initiate's Uniform;
+Nekhbet's Robe*F3*WMV;
+Sphinx's Vestment*F4*WMV;
+Sturdy Robe*F4*WMV;
+Tunic of Tall Tales;
+Vest of the Cyclone*F2;
+Vest of the Desert*F5*WMV;
+Vest of the Oasis*F4*WMV;
+Vestment of Darkness*F5*WMV;
+Vestment of the Arctic*F4*WMV;
+
+| boots =
+Blazing Boots;
+Boots of Imagination;
+Boots of the Citadel*F2*WMV;
+Cryptkeeper's Shoes;
+Glacial Slippers;
+Nekhbet's Boots*F2;
+Shoes of Adaptation;
+Slippers of the Badlands;
+Sphinx's Footwraps;
+
+| athames =
+Dagger of Talent*F2;
+Dirk of Harmony*F2;
+Glittering Dagger*F2;
+Parched Kris;
+Whirlwind Dagger;
+
+| amulets =
+
+| rings =
+Cryptkeeper's Band;
+Ring of the Badlands*F2;
+Sparkling Band*F5*WMV;
+Superstitious Band*F2*WMV;
+
+| wands =
+Nekhbet's Arctic Wand*F2*WMV;
+
+| decks =
+Nekhbet's Ruby Deck*F4;
+
+| items =
+Blue Urn *F4*WMV;
+Krok Bird Tablet*F3*WMV;
+
+| cards =
+Banshee;
+Blizzard;
+Cyclops;
+Dryad;
+Fire Trap;
+Giant;
+Ice Trap;
+Krokotillian*F3;
+Mutate Beetle (Fire);
+Myth Trap;
+Sandstorm;
+Spirit Armor;
+Sprite;
+Storm Shark*F2*WMV;
+Strong;
+Vampire;
+Weakness;
+
+| reagents =
+Copper*F4*WMV;
+Iron*F5*WMV;
+Leather Straps*F4;
+Nickel;
+Pyrite*F7*WMV;
+
+| spellements =
+
+| snacks =
+Cracker*F3*WMV;
+Green Grapes;
+Nettle Root*F3;
+Tiny Fish;
+
+| jewels =
+Blood Bat Peridot;
+Chipped Mana Opal +10*F2*WMV;
+Chipped Mana Opal +11;
+Chipped PIP Opal +1%;
+Cracked Damage Peridot +2;
+Cracked Defense Citrine +7;
+Cracked Defense Citrine +11;
+Cracked Defense Onyx +7;
+Cracked Defense Onyx +11;
+Cracked Defense Onyx +12;
+Cracked Defense Peridot +7*F2;
+Cracked Defense Peridot +8;
+Cracked Defense Peridot +11;
+Cracked Defense Ruby +7*F2*WMV;
+Cracked Defense Ruby +12;
+Cracked Defense Sapphire +7;
+Cracked Defense Sapphire +12;
+Death-Away Onyx;
+Effective Opal;
+Fire Cat Ruby;
+Life-Shot Jade;
+Myth-Proof Peridot;
+Scarab Citrine;
+Wise Opal;
+Wisp Bonus Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Pink Dandelion*CR*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

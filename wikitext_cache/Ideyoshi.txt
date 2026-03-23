@@ -1,0 +1,193 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,440
+| crecla = Pig
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Fire;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Diseased Water Spirit;
+
+| world = MooShu
+| location = Shirataki Temple
+| subloc1 = River Temple
+| descrip =
+*Two additional Diseased Water Spirits will appear if more than two Wizards are present.
+
+| speech =
+:''"Breaking your spirit will give me more pleasure than breaking your wand!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = MooShu
+| tome description =
+Don't fret over breaking wands. Just watch out for breaking wind.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Stun Block;
+Weakness;
+Black Mantle;
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Ice Elf (30+210);
+Evil Snowman;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Arcticzilla;
+Colossus;
+Troll;
+Vampire;
+Natural Attack (Balance 85x, 90%);
+
+| quests =
+
+| gold =
+65 - 83;
+
+| hats =
+Cowl of Discord*F3*WMV;
+Cowl of Sympathy;
+Cowl of Tact;
+Engrossed Hat;
+Hat of the Lotus*F3*WMV;
+Hat of the Triad;
+Headwraps of Much Ado*F2*WMV;
+Ideyoshi's Adroit Cowl*F2;
+Problematic Headwraps;
+Profound Hat;
+Shroud of Chants;
+Shroud of Music;
+Shroud of the Opus;
+Stressed Mask;
+
+| robes =
+Garments of the Opus;
+Ideyoshi's Resonant Cloak*F2*WMV;
+Vestment of Niceties;
+
+| boots =
+Boots of Commotion*F2*WMV;
+Druidic Sandals;
+Entranced Slippers*F4;
+Footwraps of Sandcastles*F3*WMV;
+Haskarr's Barbarish Boots;
+Ideyoshi's Zealous Sandals*F3*WMV;
+Proficient Shoes;
+Sandals of Nuisance;
+Sandals of Soul-Searching*F2*WMV;
+Shoes of Hinderance;
+Shoes of Preoccupation*F3;
+Shoes of Scruples;
+Shoes of Woe*F2*WMV;
+Slippers of the Opus;
+
+| athames =
+Athame of Attention*F2*WMV;
+Dagger of Soul-Searching;
+Dirk of Sandcastles*F3;
+Ideyoshi's Analytical Athame*F3*WMV;
+Ideyoshi's Idealistic Athame;
+Shortsword of Scrutiny;
+
+| amulets =
+
+| rings =
+Band of the Primitives;
+Discerning Ring*F2;
+Ideyoshi's Contemplative Ring*F4*WMV;
+
+| wands =
+
+| decks =
+Ideyoshi's Deck of Purpose;
+
+| items =
+MooShu Plague Theme*F2;
+Stone Case;
+Wood Saw*F3*WMV;
+
+| cards =
+Balefrost;
+Donate Power;
+Dragonflies*F2*WMV;
+Minotaur;
+Monstrous;
+
+| reagents =
+Brass*F2;
+Cobalt*F3;
+Copper;
+Ectoplasm*F3*WMV;
+Lead;
+Nickel;
+Spider Silk*F6*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F3*WMV;
+Fire Cracker*F2*WMV;
+Golden Peanut;
+Golden Squash*F2;
+Large Fish*F2*WMV;
+Large Watermelon*F2*WMV;
+
+| jewels =
+Blemished Damage Amethyst +11;
+Blemished Defense Citrine +21;
+Flawed Accurate Amethyst +4%;
+Flawed Accurate Onyx +4%;
+Flawed Defense Amethyst +19;
+Forceful Opal;
+Seraph Jade;
+
+| pins =
+
+| pets =
+
+| seeds =
+Fiery Boom Shroom;
+
+| mounts =
+
+| spells =
+
+}}

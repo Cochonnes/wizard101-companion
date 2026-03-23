@@ -1,0 +1,162 @@
+{{Stub|Spells and drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 1,550
+| crecla = Beastmoon Creature
+| school = Death
+| startpips = 2
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions = 
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Mirage Battlegrounds
+| descrip =
+Twirling Durvish is one of the Boss monsters that can be encountered during the second Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events. They will have 1 random, Rank 2 Elite, Stage 2 Minion and 1 random, Rank 1, Stage 2 Minion present to assist them.
+
+'''Potential Rank 2 Elite Minions:'''
+*{{Link|Creature|Dune Raider}}
+*{{Link|Creature|Mire Elemental}}
+*{{Link|Creature|Responsi-Bot}}
+*{{Link|Creature|Trengil Gouger}}
+
+'''Potential Rank 1 Minions:'''
+*{{Link|Creature|Baboon Bandit}}
+*{{Link|Creature|Harmony Eel}}
+*{{Link|Creature|Mongu Slicer}}
+*{{Link|Creature|Sand Scarab}}
+
+| speech =
+
+| spellnotes =
+*Casts a version of Grasping Ghost that applies a +150 Damage Trap.
+*It is currently unknown whether the steal effect of Pluto occurs.
+*Casts a 225 Steal version of Moongloam Wraith.
+*It is currently unknown whether the Blade effect of Death's Champion occurs.
+
+| casts =
+Grasping Ghost;
+Pluto;
+Festering Wound;
+Moongloam Wraith;
+Consume Life;
+Death's Champion;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 10 - 15 Lunari.
+
+| gold =
+51 - 63;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone*F2*WMV;
+Balance Rune*F4*WMV;
+Balance Thread*F6*WMV;
+Colossus Idol (Myth)*F2*WMV;
+Cyclops Idol (Balance)*F2*WMV;
+Death Moonstone*F3*WMV;
+Death Rune*F2*WMV;
+Death Thread;
+Draconian Idol (Death);
+Draconian Idol (Life);
+Draconian Idol (Myth);
+Eldritch Thread*F4*WMV;
+Eldritch Thread @ 2 Eldritch Thread;
+Elemental Thread*F2*WMV;
+Elf Idol (Death);
+Enhanced Death Rune;
+Enhanced Life Rune;
+Enhanced Myth Rune;
+Fairy Idol (Life);
+Fire Thread;
+Harmonious Moonstone*F2*WMV;
+Hunter's Moonstone*F4*WMV;
+Hunter's Moonstone @ 2 Hunter's Moonstone*F2;
+Ice Moonstone;
+Krokomummy Idol (Death);
+Life Rune*F4*WMV;
+Life Thread;
+Minotaur Idol (Life);
+Myth Rune*F8*WMV;
+Myth Thread*F2;
+Ninja Pig Idol (Death)*F2*WMV;
+Rat Thief Idol (Death); 
+Spirit Moonstone*F2*WMV;
+Spirit Thread*F4*WMV;
+Storm Moonstone;
+
+| spellements =
+Dream Golem;
+Elemental Golem;
+Ether Golem;
+Glacial Golem;
+Infestation;
+Judgement;
+Monster Mash*F2;
+Obsidian Colossus;
+Regenerate;
+Sprite Swarm*F2;
+Vermin Virtuoso*F2*WMV;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| elixirs =
+
+| recipes =
+7 Dream Golem Spellements;
+
+}}

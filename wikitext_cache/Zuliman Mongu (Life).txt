@@ -1,0 +1,138 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 8,400
+| crecla = Mongu
+| school = Life
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+5% Storm;
+15% Death;
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Mirage
+| location = Caravan
+| subloc1 = Mottoman Treasure Cave
+| descrip =
+Life Wizards must defeat Zuliman Mongu during their Level 118 Spell Quest.
+
+| speech =
+:''"Ach! Yet another archaeologist?! This treasure is too valuable for a museum! Besides, it was my ancestors who left it... at least, I think. Either way, I am a pirate and I am taking it, all of it."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Life damage.
+
+| casts =
+Renew;
+Legend Shield (-75%);
+Satyr;
+Lifeblade;
+Life Scarab;
+Luminous Weaver;
+Life Banshee (275);
+Centaur;
+Enraged Forest Lord;
+
+| quests =
+Lamassu;
+
+| gold =
+251 - 514;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+Sand Sea Ring of Curiosity;
+
+| wands =
+
+| decks =
+
+| items =
+Mirage Canyon Theme 2;
+Mirage Caravan Theme;
+
+| cards =
+Rusalka's Wrath;
+Snowball Barrage;
+Winged Sorrow;
+
+| reagents =
+Aether*F2;
+Agave Leaves;
+Aquamarine*F2;
+Astral Shard;
+Black Pearl;
+Brass;
+Ectoplasm;
+Golden Pearl;
+Mithril;
+Scales*F3*WMV;
+Steel*F2;
+Sunstone;
+Tungsten;
+Turquoise*F2;
+Vine;
+
+| spellements =
+
+| snacks =
+Chili Cheese Fries;
+Ships 'n' Queso;
+Veggie Juice;
+
+| jewels =
+Lustrous Blocking Jade +13;
+Lustrous Defense Onyx +45;
+Shiny Critical Sapphire +16;
+Shiny Damage Sapphire +26;
+Shiny Health Opal +111;
+Shiny Health Opal +112;
+
+| pins =
+
+| pets =
+MaCaw*CR*F3*WMV;
+
+| seeds =
+Bread Fruit Bush*F2*WMV;
+Deadly Helephant Ears*CR;
+Evil Snow Peas;
+Ivy League*CR;
+Key Limes*CR;
+Maelstrom Snap Dragon;
+Pink Huckleberries; 
+Red Couch Potatoes;
+
+| mounts =
+
+| spells =
+
+}}

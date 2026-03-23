@@ -1,0 +1,134 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 56,330
+| crecla = Dino
+| crecla2 = Pterodactyl
+| school = Fire
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+68%;
+
+| incboost =
+30% Ice;
+
+| incresist =
+9% Storm, Myth, Life, Death, Balance, Shadow;
+39% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Skurkis Screaming Moon (Standard);
+Yacate Farwalker (Standard);
+
+| world = Housing Instance
+| location = Huac Cries Blood Rematch
+| descrip =
+As the primary Boss in this battle, all drops are recorded on this page.
+*For the Challenge version of this battle, see {{Link|Creature|Huac Cries Blood (Challenge)}}.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|All Friends (Squared)}} ''"Let the Old Day Die!"'' - If anyone on the Wizard's team is defeated, the Boss that defeated them will cast a version of {{Link|Spell|Meteor Strike}} that deals 100% max Health Damage to all Wizards.
+*{{Icon|All Enemies (Squared)}} ''"Together, we return!"'' - If more than one enemy is defeated on the same turn, including if all enemies are defeated at the same time, all enemies will cast a version of {{Link|Spell|Blessing}}, restoring themselves to 100% max Health.
+
+{{Icon|Fire}} '''Huac Cries Blood'''
+:{{Icon|Shield}} ''"No defense against the inevitable"'' - If a Wizard casts a Shield, Huac Cries Blood will cheat-cast {{Link|Spell|Helephant (Tier 5b)}} on the Wizard with the lowest Health.
+
+{{Icon|Death}} '''Skurkis Screaming Moon'''
+:{{Icon|Heal over Time}} ''"All succumb to decay"'' - If a Wizard casts a Heal over Time effect, Skurkis Screaming Moon will cheat-cast {{Link|Spell|Skeletal Pirate (Tier 5b)}} on the Wizard with the lowest Health.
+:{{Icon|Healing}} ''"Death comes for us all"'' - If a Wizard casts a Healing Spell, Skurkis Screaming Moon will cheat-cast {{Link|Spell|Wraith}} on the Wizard with the lowest Health.
+::*Pet Maycasts '''will''' trigger this cheat.
+
+{{Icon|Myth}} '''Yacate Farwalker'''
+:{{Icon|Curse}} ''"No curse can snare me!"'' - If a Wizard casts a harmful Charm, one of the following will happen depending on the target:
+::*Harmful Accuracy Charms '''will not''' trigger this cheat.
+::*If cast on Yacate Farwalker or all enemies, he will cheat-cast {{Link|Spell|Stone Colossus (Tier 5b)}} on the Wizard with the lowest Health.
+::**Dispel Charms '''will not''' trigger this cheat.
+::*If cast on Huac Cries Blood or Skurkis Screaming Moon, Yacate Farwalker will cheat-cast {{Link|Spell|Glacial Fortress}} on the Boss who receives the harmful Charm.
+::**If the harmful Charm is a Dispel, Huac will also receive a protected Fireblade, or Skurkis will also receive a protected {{Link|Spell|Deathblade (+40%)}}.
+
+| spellnotes =
+*Casts a version of {{Link|Spell|Efreet}}.
+
+| casts =
+Fireblade;
+Balanceblade;
+Balanceblade (+35%);
+Helephant (Tier 5a);
+Sun Serpent;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Umbra Queen's Chill Staff (Level 170+);
+Umbra Queen's Dusty Staff (Level 170+);
+Umbra Queen's Furious Staff (Level 170+);
+Umbra Queen's Grim Staff (Level 170+);
+Umbra Queen's Scorched Staff (Level 170+);
+Umbra Queen's Shocked Staff (Level 170+);
+Umbra Queen's Wild Staff (Level 170+);
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Shadow Webbing @ 10 Shadow Webbing;
+
+| spellements =
+Avenging Fossil;
+Celestial Calendar;
+Lord of Winter;
+Sabertooth;
+Spinysaur;
+Storm Owl;
+Sun Serpent;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Huac Cries Blood (Rematch)
+}}

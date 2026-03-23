@@ -1,0 +1,260 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 24,115
+| crecla = Goat
+| school = Fire
+| school2 = Death
+| cheats = Yes
+| shadowslots = 3
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+7%;
+
+| outboost =
+113%;
+
+| incboost =
+15% Ice, Life;
+
+| incresist =
+30% Storm, Myth, Balance;
+50% Fire, Death;
+
+| outhealing =
+25%;
+
+| inchealing =
+25%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| randomminions =
+Chilling Helper (Tier 3);
+Stormy Helper (Tier 3);
+
+| totalminions = 3
+| petbreed = Lump of Coal
+| world = Wizard City
+| location = Ravenwood
+| subloc1 = Krampusgarten
+| location2 = Colossus Boulevard
+| subloc2 = Krampusgarten
+| world2 = Celestia
+| location2-1 = Celestia Base Camp
+| subloc2-1 = Krampusgarten
+| world3 = Polaris
+| location3-1 = Walruskberg Harbor
+| subloc3-1 = Krampusgarten
+| badge = Had a Holly, Jolly Yuletide
+| descrip =
+Krampus is a Boss that appears during the Yuletide event.  He is located in Krampusgarten, which requires a {{Link|House|Gold Skeleton Key}} to enter.
+*Minions can be any combination of {{Link|Creature|Chilling Helper (Tier 3)}} and {{Link|Creature|Stormy Helper (Tier 3)}}.
+*This Tier is for level 110-{{MaxLevel}} Wizards.
+
+| speech =
+:''"Naughty, naughty. Krampus sees all!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Naughty, naughty! Punctuality is a virtue!"'' - If a Wizard joins after the duel has started, Krampus will cheat-cast a Shadow version of Scald dealing '''750''' Fire Damage over three Rounds and a '''-75%''' version of {{Link|Spell|Smoke Mantle}} on the Wizard.
+*{{Icon|Blade}} ''"A gift for Krampus? You shouldn't have!"'' - If a Wizard casts a [[:Category:Blade Spells|Blade]] Spell, he may cast Steal Charm (Shadow -All) that steals all Charms from the Wizard who cast the Blade.
+:*He will occasionally cast this throughout the duel.
+:*Pet Spells can trigger this cheat.
+*{{Icon|Feint}} ''"Naughty, naughty! Krampus sees all!"'' - If a Wizard casts a {{Link|Spell|Feint}} Spell, he will cast {{Link|Spell|Cleanse Ward (Shadow, -1)}} two times (which makes {{Link|Spell|Indemnity}} ineffective).
+**{{Link|Spell|Mass Feint}} does not trigger this cheat.
+**Balance {{Link|ItemCard|Feint}} does not trigger this cheat.
+*{{Icon|Trap}} ''"Krampus is everywhere!""'' - After Krampus has summoned his Minions and has Traps, Krampus will cast a Shadow version of {{Link|Spell|Dimension Shift}} that transfers all negative hanging effects that are on him (e.g. [[:Category:Trap Spells|Traps]]) to a random ally.
+*{{Icon|Round}} ''"'Tis the season of Krampus!"'' - At the beginning of Round 5, and randomly thereafter, when he has no Minions, he will cast a Shadow Spell to summon 3 random minions.
+**{{Link|Creature|Chilling Helper (Tier 3)}}
+**{{Link|Creature|Stormy Helper (Tier 3)}}
+:*Whenever a Minion is defeated, he will resummon another after one Round.
+
+| spellnotes =
+*The Damage portion of Sacrifice (1,500) can be used on any ally.
+*The Lump of Coal Pet casts the Krampus Spell, which acts like a Natural Attack.
+
+| casts =
+Magnify;
+Bad Juju;
+Sacrifice (1,500);
+Fireblade;
+Feyblade (Fire);
+Deathblade (+40%);
+Choke;
+Beguile;
+Fire Elf (55+240);
+Krampus (305-345);
+Meteor Strike (355-395);
+Raging Bull;
+Rain of Fire (330+880);
+Deer Knight;
+Scarecrow;
+Avenging Fossil;
+
+| quests =
+
+| gold =
+0;
+
+| hats =
+Bird of the Yuletide Helm (Any Level)*CR;
+Crown of Winter's Reign (Any Level)*CR;
+Crown of Winter's Reign (Level 10+)*CR;
+Helm of the Furious Winter (Any Level)*CR;
+Helm of the Furious Winter (Level 10+)*CR;
+Mantle of the Frozen Sun (Any Level)*CR*F2;
+Mantle of the Frozen Sun (Level 10+)*CR;
+Queen's Color Guard Shako (Any Level)*CR;
+Queen's Color Guard Shako (Level 10+)*CR;
+Royal Fusilier's Shako (Any Level)*CR;
+Santa Hat*CR*HOL;
+
+| robes =
+Raiment of Winter's Reign (Any Level)*CR*F2;
+Robe of the Furious Winter (Any Level)*CR;
+Robes of the Frozen Sun (Any Level)*CR;
+Robes of the Frozen Sun (Level 10+)*CR;
+Royal Fusilier's Dress Coat (Any Level)*CR;
+Royal Fusilier's Dress Coat (Level 10+)*CR;
+Queen's Color Guard Jacket (Any Level)*CR;
+Queen's Color Guard Jacket (Level 10+)*CR;
+Santa Robe*CR*HOL;
+Timeless Yuletide Armor (Any Level)*CR;
+Winter Palace Full Dress Coat (Any Level)*CR;
+Winter Palace Full Dress Coat (Level 10+)*CR;
+
+| boots =
+Furious Winter Mukluks (Any Level)*CR
+Mukluks of the Frozen Sun (Any Level)*CR;
+Mukluks of the Frozen Sun (Level 10+)*CR;
+Mukluks of Winter's Reign (Any Level)*CR;
+Mukluks of Winter's Reign (Level 10+)*CR;
+Queen's Color Guard Boots (Any Level)*CR;
+Queen's Color Guard Boots (Level 10+)*CR;
+Royal Fusilier's Boots (Any Level)*CR;
+Santa Boots*CR*HOL;
+Winter Palace Cavalry Boots (Any Level);
+Yuletide Ceremonial Boots (Any Level)*CR;
+Yuletide Ceremonial Boots (Level 10+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Ancient Ceremonial Yuleaxe (Any Level)*CR;
+Ancient Ceremonial Yuleaxe (Level 10+)*CR;
+Bird of the Yuletide Bow (Any Level)*CR;
+Candle Wand;
+Color Guard Wintergreen Blade (Any Level)*CR;
+Fusilier's Fireberry Saber (Any Level)*CR;
+Fusilier's Fireberry Saber (Level 10+)*CR;
+Krampus' Hitstick;
+Krampus Standard;
+Krampus' Tolltaker*F2;
+Staff of the Long Winter (Any Level)*CR*F2;
+Staff of Wintertime (Any Level)*CR;
+Star Staff*CR*HOL;
+Sleigh Bells Ringing (Any Level)*CR;
+Sleigh Bells Ringing (Level 10+)*CR;
+Sweet Staff*CR*HOL;
+Winter Palace Spikeleaf Sword (Any Level)*CR;
+Winter Palace Spikeleaf Sword (Level 10+)*CR;
+Winter's Radiant Staff (Any Level)*CR;
+Yuletide Morning Mandolin (Any Level)*CR;
+
+| decks =
+
+| items =
+Big Holiday Tree*CR;
+Blue Holiday Ornament;
+Carol of the Bells Theme;
+Dashing Reindeer Floor;
+Deck the Halls Theme;
+Festive Yuletree;
+Gingerbread Wall Icing;
+Gold Skeleton Key*CR*F2;
+Grandmaster Socket Wrench*F3;
+Holiday Striped Wallpaper;
+Holiday Wreath*CR*HOL*F2;
+Icicle Wallpaper;
+Jingle Bells Theme;
+Jubilant Yuletree;
+Krampus Banner;
+Legendary Socket Wrench;
+Majestic Reindeer Decoration*CR*HOL;
+Night Snow Wallpaper;
+Red String Lights*CR*HOL;
+Small Fir Tree;
+Snowman*CR*HOL;
+Stone Skeleton Key*CR*F4;
+Tree Wrapped Gift*CR*HOL;
+Wooden Skeleton Key*CR*F3;
+Yellow Holiday Ornament*F2;
+Yule Lights*CR*F2;
+Yuletide Jingle;
+Yuletide Wood Paneling*CR;
+
+| cards =
+Azoth*F3;
+Evil Snowman*F2;
+Fire Elf;
+Ice Elf*F2;
+Jolted Snowman;
+Lightning Elf;
+Magma Man*F2*WMV;
+Reindeer Knight;
+
+| reagents =
+Black Coal*F12*WMV;
+
+| spellements =
+Krampus*F6;
+Krampus @ 2 Krampus;
+Krampus @ 4 Krampus;
+Reindeer Knight*F6;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+Fire Beetle;
+Fire Elf;
+Frost Beetle;
+Grumpy Snowman;
+Ice Elf;
+Lump of Coal;
+Maple Moose*CR*F2;
+Snowball*CR;
+Storm Elf;
+Storm Snowman;
+
+| seeds =
+Happy Holidaisy*CR*HOL;
+Missile Toe*HOL*F2;
+Point Setta*HOL;
+Purple Snow Apples;
+Snow Apples*F4;
+
+| mounts =
+Blue Candy-Cane*HOL;
+Blue Candy-Cane*PERM*HOL;
+Green Candy-Cane*HOL;
+Green Candy-Cane*PERM*HOL;
+Red Candy-Cane*HOL;
+
+| spells =
+
+}}

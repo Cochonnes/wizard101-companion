@@ -1,0 +1,293 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 795
+| crecla = Pig
+| school = Fire
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Ice;
+
+| incresist =
+40% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Hanadzura (Tier 1);
+Hebitoho Wyrmling (Tier 1);
+Kuchisaki (Tier 1);
+
+| world = Housing Instance
+| location = Midnight Sun Pagoda
+| subloc1 = 
+| descrip =
+
+| speech =
+:''"I see you liberated Yoshinobu and his students. If you can't stop my halberd, you will find that we are not pushovers... like those "honorable" samoorai."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+Kaizoku is used to being protected by his friends. Without them his resolve fails.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Shield}} At the beginning of the first Round, Kaizoku will interrupt-cast a '''-70%''' version of Tower Shield on himself.
+**{{Icon|Damage}} If Kaizoku is damaged by any Spell, then he will interrupt-cast to replace the Tower Shield.
+**{{Icon|Manipulation}} Manipulation Spells that remove helpful Wards can be used to remove Kaizoku's Tower Shield without causing him to replace it.
+**This cheat will stop occurring after all of Kaizoku's Minions have been defeated.
+*{{Icon|Damage}} If Kaizoku is damaged by an all-enemies Damage Spell, then he will interrupt-cast a '''-60%''' version of {{Link|Spell|Black Mantle}} on the caster.
+*{{Icon|Damage}} At the beginning of every second Round, Kaizoku will interrupt-cast a Star Spell that deals '''75''' Star Damage to all Wizards.
+**The first time this cheat occurs, Wizards will be damaged in the normal order from right to left.  The second time this cheat occurs, Wizards will be damaged from left to right.  The order in which Wizards are damaged alternates every time this cheat occurs.
+**Sometimes, the Spell will deal '''600''' Star Damage instead of the usual '''75''' Star Damage.
+**{{Icon|Minion}}{{Icon|Afterlife}} After all of Kaizoku's Minions have been defeated, Kaizoku will begin interrupt-casting this Spell ''every'' Round, and twice in a row every fourth Round.
+**{{Icon|Ward}} ''"You stopped my Halberd?"'' - If a Wizard that is damaged by this cheat had any Wards, not including Damage Absorption Wards, then the Spell will not damage any other Wizards, and Kaizoku will interrupt-cast a Spell to remove all Wards from that Wizard and himself.  This will not trigger if the Wizard that has a Ward is the last Wizard to be damaged.
+*{{Icon|Minion}}{{Icon|Afterlife}} ''"Time to turn things up!"''  - After all of Kaizoku's Minions have been defeated, he will remove all Wards from himself.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip
+
+| casts =
+Snow Shield;
+Weakness;
+Fireblade;
+Fire Cat;
+Link;
+Ash Bats;
+Fire Elf (50+210);
+Fire Shark;
+Fire Wyvern (335-395, 4 Pip);
+Heck Hound;
+Leprechaun;
+Banshee;
+
+| quests =
+Journey Into Midnight;
+
+| gold =
+39 - 70;
+
+| hats =
+Kozane Helm (Any Level)*CR;
+Kozane Helm (Level 50+)*CR;
+Kozane Helm (Level 60+)*CR;
+Oyoroi Helmet (Level 10+)*CR;
+Oyoroi Helmet (Level 70+)*CR;
+Oyoroi Helmet (Level 80+)*CR;
+Rokugo Helmet (Level 10+)*CR*F2;
+Rokugo Helmet (Level 70+)*CR;
+Rokugo Helmet (Level 80+)*CR;
+
+| robes =
+Kozane Armor (Level 10+)*CR;
+Kozane Armor (Level 80+)*CR;
+Oyoroi Breastplate (Level 10+)*CR*F2;
+Oyoroi Breastplate (Level 50+)*CR;
+Oyoroi Breastplate (Level 60+)*CR;
+Oyoroi Breastplate (Level 80+)*CR*F2*WMV;
+Rokugo Armor (Level 50+)*CR;
+Rokugo Armor (Level 60+)*CR;
+
+| boots =
+Kozane Boots (Level 10+)*CR;
+Kozane Boots (Level 30+)*CR;
+Kozane Boots (Level 60+)*CR;
+Oyoroi Sandals (Any Level)*CR;
+Oyoroi Sandals (Level 10+)*CR;
+Oyoroi Sandals (Level 50+)*CR;
+Oyoroi Sandals (Level 60+)*CR;
+Oyoroi Sandals (Level 80+)*CR;
+Rokugo Footwear (Level 10+)*CR;
+Rokugo Footwear (Level 50+)*CR;
+Rokugo Footwear (Level 80+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Chiming Blade (Level 10+)*CR*F2;
+Chiming Blade (Level 80+)*CR;
+Four Bells Ringing (Level 10+)*CR*F2;
+Four Bells Ringing (Level 40+)*CR;
+Four Bells Ringing (Level 50+)*CR;
+Four Bells Ringing (Level 60+)*CR;
+Ringed Broadsword (Any Level)*CR;
+Ringed Broadsword (Level 10+)*CR;
+Ringed Broadsword (Level 50+)*CR;
+
+| decks =
+
+| items =
+Bamboo Barrier;
+Bottle Burner;
+Crossed Naginata Spears;
+Goat Monk Bobblehead;
+Green Sword Display*F3*WMV;
+Iron Tea Pot*F2;
+Low Purple Vase;
+Moodha Bust;
+MooShu Combat Theme;
+Oni Bobblehead;
+Pearl Orchid;
+Small Wooden Table;
+Tatami Floor Mat;
+Treant Bobblehead;
+Wooden Memorial*F2;
+
+| cards =
+Aiuchi*F3*WMV;
+Balefrost;
+Darkwind;
+Do-Daga;
+Donate Power;
+Kakeda Painbringer*F5*WMV;
+Koto*F7;
+Minotaur;
+Ninja Pigs*F2;
+Otomo Fury*F3*WMV;
+Tamauji*F4*WMV;
+Yochimo;
+
+| reagents =
+Amethyst*F2;
+Citrine;
+Copper;
+Crystal Vial*F2;
+Ghost Fire;
+Jade;
+Lead;
+Leather Straps*F6*WMV;
+Nickel;
+Onyx*F2;
+Peridot;
+Pyrite*F3;
+Ruby*F2;
+Sapphire*F2;
+Shadow Oil*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F2;
+Basil Poodle Noodles;
+Chow Chow Chow*F5*WMV;
+Crunch Apple;
+Eggplant*F2;
+Fido's Fortune Puffs*F2;
+Fire Cracker;
+Fire Passion Fruit*F2;
+Flaming Soup*F2;
+Goat Cheese;
+Golden Peanut;
+Golden Pizza*F2*WMV;
+Golden Squash*F2;
+Hot and Sour Bits*F2;
+Hot Ginger Snaps;
+Jade Palace Tempura;
+Jar of Jelly Beans*F4*WMV;
+Kapow Pug Poppers*F3*WMV;
+Killer Tomato*F2;
+King Banana;
+Large Fish*F2;
+Large Watermelon;
+MooShu Broccoli;
+MooShu Cheddar;
+MooShu Tofu*F4;
+Square Root*F2*WMV;
+Sweet and Sour Chow*F2;
+Sweet Pineapple;
+Taco Town Special;
+Zen Poppers*F2*WMV;
+
+| jewels =
+Chipped Defense Amethyst +13;
+Chipped Defense Citrine +13;
+Chipped Defense Onyx +13;
+Chipped Defense Ruby +13;
+Chipped Mana Opal +12;
+Cracked Accurate Amethyst +1%;
+Cracked Accurate Citrine +1%;
+Cracked Accurate Jade +1%;
+Cracked Accurate Peridot +1%;
+Cracked Accurate Ruby +1%;
+Cracked Accurate Sapphire +1%;
+Cracked Damage Jade +6;
+Cracked Damage Onyx +3;
+Cracked Damage Peridot +3;
+Cracked Damage Sapphire +6;
+Cracked Defense Amethyst +4;
+Cracked Defense Opal +6;
+Cracked Defense Ruby +6;
+Cracked Healing Opal +1%;
+Cracked Health Opal +7;
+Cracked Health Opal +9;
+Cracked Health Opal +10;
+Cracked Mana Opal +4;
+Cracked Mana Opal +5;
+Cracked Mending Opal +1%;
+Cracked Resilient Opal +1%;
+Energy Opal;
+Ice-Giver Sapphire;
+Lightning Bats Amethyst;
+Myth Trap Peridot (Triangle);
+Stall Opal;
+Thermic Shield Amethyst;
+Weakness Citrine;
+
+| pins =
+
+| pets =
+Brown Spider;
+Dream Ghoul*CR;
+Fiendish Foo Dog;
+Goat Monk;
+Jade Oni*CR;
+Life Ghoul*F2;
+Ninja Pig;
+Plague Ninja;
+Ruby Shenlong Dragon;
+Stone Colossus;
+Yellow Ghost*F2*WMV;
+
+| seeds =
+Deadly Ninja Fig*F2;
+Orange Dandelion;
+Pink Laugh-O-Dil;
+Venus Fly Trap*F2;
+
+| mounts =
+
+| spells =
+
+}}

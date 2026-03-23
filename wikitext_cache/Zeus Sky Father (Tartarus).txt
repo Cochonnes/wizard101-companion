@@ -1,0 +1,105 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 22,000
+| crecla = Eagle
+| school = Myth
+| masteries =
+Storm;
+
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm, Death;
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Wizard City
+| location = Tartarus
+| subloc1 = Hall of Hades
+| descrip =
+For the purpose of drops, Zeus Sky Father (Tartarus) is considered a Minion to {{Link|Creature|Hades the Unseen (Tartarus)}}. All drops, cheats, and speech are recorded on that page.
+*Zeus always joins third in the battle, even if the second battle spot is empty.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Amplify;
+Mythblade;
+Stormblade;
+Windstorm;
+Windstorm (+25%);
+Minotaur;
+Earthquake (525);
+Medusa;
+Basilisk;
+Celestial Calendar;
+Natural Attack (Tartarus Zeus);
+Tempest;
+Storm Hound;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

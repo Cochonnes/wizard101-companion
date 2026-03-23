@@ -1,0 +1,106 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 6,670
+| crecla = Giant
+| crecla2 = Cyclops
+| school = Myth
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+80% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| petname = Blinky
+| petbreed = Wandering Eye
+| world = Wizard City
+| location = Garden of Hesperides
+| subloc1 = Panoptes' Lair
+| descrip =
+Conjurers must defeat Panoptes during their level 118 Pet Quest, Robbed Blind!.
+
+| speech =
+:''"Who are you?  A servant of Baba Yaga, eh?  Guess she really is lost without her precious Seeing Eyes?  Ha!  Don't worry, they're fine.  And, you're just in time to see what I used them for.  My first Wandering Eye pet has just hatched!  I call him Blinky!  Quite the looker, don't you think?  The second Egg will hatch any moment now!  Eventually, I'll hatch a vast network of Wandering Eyes, capable of spying on the entire Spiral!  Oh, and they can fight too.  Just watch!"''
+
+| spellnotes =
+*Panoptes's Pet can cast Mythblade on his turn.
+
+| casts =
+Myth Shield (-85%);
+Mythblade;
+Blinding Light;
+Blood Bat;
+White Rat Magician;
+Cyclops;
+Athena Battle Sight;
+Humongofrog;
+Legendary Treant (445);
+Orthrus;
+Medusa;
+
+| quests = Robbed Blind!
+
+| gold =
+2,122 - 4,706;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Extra Mana Opal;
+Infector Onyx;
+Medic Opal;
+Sap Health Talent Citrine;
+Wisp Bonus Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

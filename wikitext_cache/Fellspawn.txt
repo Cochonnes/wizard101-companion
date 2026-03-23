@@ -1,0 +1,361 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 46,000
+| crecla = Insect
+| school = Shadow
+| school2 = Storm
+| cheats = Yes
+| shadowslots = 5
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+27%;
+
+| outboost =
+130%;
+
+| incboost =
+5% Myth, Life;
+
+| incresist =
+25% Fire, Ice, Death, Balance;
+50% Shadow;
+70% Storm;
+
+| outhealing =
+45%;
+
+| inchealing =
+50%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Balance Tentacular Horror;
+Death Tentacular Horror;
+Fire Tentacular Horror;
+Ice Tentacular Horror;
+Life Tentacular Horror;
+Myth Tentacular Horror;
+Shadow Tentacular Horror;
+Storm Tentacular Horror;
+
+| world = Wizard City
+| location = The Catacombs
+| subloc1 = Fathomless Tomb
+| badge = Felled the Fellspawn
+| descrip =
+Fellspawn is a {{Link|House|Stone Skeleton Key}} Boss found in the Wizard City Catacombs.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+The lice nibbling at the invisible roots of the World Tree. Immune to all known shampoos.
+
+| extract class =
+Insects;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} If a Wizard joins the battle after the second Round, Fellspawn casts Call of Khrulhu (Shadow).
+*{{Icon|Minion}} At the start of the first Round, Fellspawn summons any 3 of the following Minions:
+**{{Link|Creature|Balance Tentacular Horror}}
+**{{Link|Creature|Death Tentacular Horror}}
+**{{Link|Creature|Fire Tentacular Horror}}
+**{{Link|Creature|Ice Tentacular Horror}}
+**{{Link|Creature|Life Tentacular Horror}}
+**{{Link|Creature|Myth Tentacular Horror}}
+**{{Link|Creature|Shadow Tentacular Horror}}
+**{{Link|Creature|Storm Tentacular Horror}}
+*{{Icon|Minion}} At the end of the third Round, after a Minion is killed, a random school Minion is summoned. After this, another Minion will be summoned at the end of every fourth Round.
+*{{Icon|Global}} At the start of the first Round, Fellspawn casts an {{Link|Spell|Equalize}}, which sets the Damage cap to '''9,999'''. Damage cannot go above this limit while Global is present. If the Global is replaced, it will be recast.
+*{{Icon|Minion}} At the start of the fifth Round, Fellspawn summons an {{Link|Minion|Unhelpful Spawn}} on the Wizard's team if all duel slots are not filled.
+**Sacrificial Spells, such as {{Link|Spell|Sap Power}}, will not remove the Minion from the duel slot.
+**If the Wizard in the first duel slot flees, this summon will disappear.
+**Fellspawn will resummon the Minion soon after it is defeated.
+*{{Icon|Round}} At the end of every fifth Round, Fellspawn will cheat-cast a {{Link|Spell|Black Mantle}}, {{Link|Spell|Hex}}, and {{Link|Spell|Weakness}}, each on a random Wizard, and cast {{Link|Spell|Bladestorm}} and {{Link|Spell|Mass Tower Shield (Ice)}}.
+
+*{{Icon|Polymorph}} Every six Rounds, Fellspawn will Polymorph into a Moon form lasting for three Rounds, starting on Round 3, with different cheats.
+
+'''{{Link|Creature|Fellspawn}}''': {{Icon|Shadow}}{{Icon|Storm}}
+*{{Icon|Blade}} If a Wizard casts a Blade, Fellspawn will {{Link|Spell|Mana Burn (Shadow)}} the caster, dealing 600 Shadow Damage per Pip, and {{Link|Spell|Enfeeble (Shadow)}} the receiver of the Blade.
+**If an all-allies Spell such as Bladestorm is cast, only the caster's Blade will be removed.
+**Non-Blade Charms such as {{Link|Spell|Guiding Light}} will not activate this cheat.
+*If a Wizard casts a Dispel Charm on Fellspawn, he will cast a Sun version of Cleanse Charm, removing all harmful Charms from himself.
+
+'''[[:Polymorph:Fellspawn|Moon Polymorph Form]]''': {{Icon|Moon}}
+*While in Polymorph form, Fellspawn loses all stats and cannot gain Power Pips or Shadow Pips.
+*{{Icon|Trap}} If a Wizard casts a Trap, he will cast {{Link|Spell|Cleanse Ward (Shadow, -All)}} to remove all Traps from the target of the Trap, and cast {{Link|Spell|Stun (Shadow)}} that Stuns the caster for two Rounds.
+**Spells with a Trap after effect, such as {{Link|Spell|Brimstone Revenant}}, will trigger this cheat.
+**Prisms will not trigger this cheat.
+
+| spellnotes =
+*Backlash from Dark Fiend can exceed the Damage cap.
+*Casts a protected Reaperblade (Storm-Shadow).
+
+| casts =
+Dark Fiend;
+Vengeance (+30%);
+Impede;
+Reaperblade (Storm-Shadow);
+Supercharge (Shadow);
+Supercharge (+12%);
+Disarm (Shadow);
+Queen Calypso (Shadow);
+Scorching Scimitars (Shadow);
+Iron Sultan (Shadow);
+Catch of the Day (Shadow);
+Call of Khrulhu (Shadow);
+Glowbug Squall (Shadow, 1,120);
+Storm Lord (Shadow);
+Leviathan (Shadow);
+Wild Bolt (15-150-1,150);
+Kraken (605-665);
+Stormzilla (755-835);
+Sirens (965);
+Tempest (85);
+Raging Bull;
+
+| quests =
+
+| gold =
+100 - 995;
+
+| hats =
+Dragonspyre Vanguard's Helm;
+Dragoon's Deadly Helm;
+Dragoon's Fiery Helm;
+Dragoon's Icy Helm;
+Dragoon's Mythic Helm;
+Dragoon's Shocking Helm;
+Dragoon's Vibrant Helm;
+Vanguard's Balanced Helm;
+Vanguard's Deadly Helm;
+Vanguard's Fiery Helm;
+Vanguard's Icy Helm;
+Vanguard's Mythic Helm*F2;
+Vanguard's Shocking Helm;
+Vanguard's Vibrant Helm;
+
+| robes =
+Dragonspyre Vanguard's Armor;
+Dragoon's Balanced Armor;
+Dragoon's Deadly Armor;
+Dragoon's Fiery Armor;
+Dragoon's Icy Armor;
+Dragoon's Shocking Armor;
+Dragoon's Vibrant Armor;
+Vanguard's Balanced Armor;
+Vanguard's Deadly Armor*F2;
+Vanguard's Fiery Armor;
+Vanguard's Icy Armor;
+Vanguard's Mythic Armor;
+Vanguard's Vibrant Armor;
+
+| boots =
+Dragonspyre Dragoon's Boots;
+Dragoon's Deadly Boots;
+Dragoon's Fiery Boots;
+Dragoon's Icy Boots;
+Dragoon's Mythic Boots;
+Dragoon's Shocking Boots;
+Dragoon's Vibrant Boots;
+Vanguard's Balanced Boots;
+Vanguard's Deadly Boots;
+Vanguard's Fiery Boots;
+Vanguard's Icy Boots;
+Vanguard's Shocking Boots*F2;
+Vanguard's Vibrant Boots;
+
+| athames =
+Dragoon's Balanced Dagger;
+Dragoon's Deadly Dagger;
+Dragoon's Fiery Dagger;
+Dragoon's Icy Dagger;
+Dragoon's Mythic Dagger;
+Dragoon's Shocking Dagger*F2;
+Dragoon's Vibrant Dagger;
+Vanguard's Deadly Dagger;
+Vanguard's Fiery Dagger;
+Vanguard's Icy Dagger;
+Vanguard's Mythic Dagger;
+Vanguard's Shocking Dagger;
+Vanguard's Vibrant Dagger;
+
+| amulets =
+Dragonspyre Vanguard's Charm;
+Dragoon's Balanced Charm;
+Dragoon's Deadly Charm;
+Dragoon's Fiery Charm;
+Dragoon's Mythic Charm;
+Dragoon's Shocking Charm;
+Vanguard's Deadly Charm;
+Vanguard's Fiery Charm;
+Vanguard's Icy Charm;
+Vanguard's Mythic Charm;
+Vanguard's Shocking Charm;
+Vanguard's Vibrant Charm;
+
+| rings =
+Dragonspyre Dragoon's Ring;
+Dragoon's Deadly Ring;
+Dragoon's Icy Ring;
+Dragoon's Fiery Ring;
+Vanguard's Balanced Ring;
+Vanguard's Fiery Ring;
+Vanguard's Mythic Ring;
+
+| wands =
+Dragonspyre Dragoon Sword;
+Dragonspyre Vanguard Sword;
+Dragoon's Deadly Sword;
+Dragoon's Fiery Sword;
+Dragoon's Icy Sword;
+Dragoon's Vibrant Sword;
+Vanguard's Deadly Sword;
+Vanguard's Fiery Sword;
+Vanguard's Icy Sword;
+Vanguard's Mythic Sword;
+Vanguard's Vibrant Sword;
+
+| decks =
+
+| items =
+Adept's Socket Wrench;
+Brain Jar;
+Crab Alley Chaise;
+Expert's Socket Wrench;
+Fish;
+Ginormous Apple;
+Grandmaster Socket Wrench;
+Mystic Pizza;
+Novice's Socket Wrench;
+Roasted Drumstick;
+Stone Skeleton Key*CR*F2;
+Watermelon Slice;
+WC Catacombs Combat Theme;
+WC Drains Combat Theme;
+WC Drains Theme;
+WC Elsewhere Combat Theme;
+Wooden Skeleton Key*CR*F2;
+
+| cards =
+Berserk;
+Brilliant Light;
+Dream Shield;
+Ether Shield;
+Frostbite;
+Galvanic Field;
+Mutate Beetle (Storm);
+Mutate Bird (Ice);
+Mutate Colossus (Fire);
+Mutate Kraken (Fire);
+Mutate Minotaur (Sun);
+Mutate Phoenix (Sun);
+Mutate Shark (Ice);
+Mutate Wyvern (Storm);
+Sirens;
+Storm Shield;
+
+| reagents =
+Ancient Scroll;
+Antique Coins;
+Black Pearl;
+Blood Moss;
+Bone;
+Brass;
+Bronze Gear*F2;
+Cobalt;
+Ectoplasm;
+Nickel*F2;
+Scales;
+Spring;
+Tin;
+
+| spellements =
+
+| snacks =
+BBQ Drumstick;
+Beast Wellington*F2;
+Decimatoes;
+Drumstick;
+Eye Candy*F2;
+Fern Jelly;
+Glowing Taffy;
+Hot Cross Buns*F3;
+Pizza;
+Rock and Roll Candy;
+Satyr Chow;
+Veggie Juice;
+Wheat Cracker;
+
+| jewels =
+Sparkling Blocking Amethyst +17;
+Sparkling Blocking Citrine +17;
+Sparkling Blocking Hematite +17;
+Sparkling Blocking Ruby +17;
+Sparkling Critical Citrine +17;
+Sparkling Critical Sapphire +17;
+Sparkling Damage Amethyst +27;
+Sparkling Damage Jade +27;
+Sparkling Damage Ruby +27;
+Sparkling Defense Amethyst +53;
+Sparkling Defense Citrine +53;
+Sparkling Defense Hematite +54;
+Sparkling Defense Peridot +53;
+Sparkling Defense Ruby +54;
+Sparkling Defense Sapphire +54;
+Sparkling Health Opal +116;
+Sparkling Health Opal +117;
+Sparkling Health Opal +118;
+Sparkling Health Opal +119;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak*F2;
+Angora Bunny Ears;
+Boiled Peanuts;
+Bread Fruit Bush;
+Burning Snap Dragon*F3;
+Deadly Ninja Fig*F2;
+Evil Magma Peas*CR;
+Face Palm;
+Golden Couch Potatoes;
+Green Snow Apples;
+Maelstrom Snap Dragon*F3;
+Purple Grapes of Wrath;
+Queen Crape Myrtle;
+Red Couch Potatoes;
+Rye Bread Fruit Bush*F2;
+Saw Palmetto;
+Snap Dragon;
+Venus Fly Trap;
+White Laugh-O-Dil;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

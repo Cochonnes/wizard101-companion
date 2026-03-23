@@ -1,0 +1,193 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 11,240
+| crecla = Dino
+| crecla2 = Undead
+| crecla3 = Parasaur
+| school = Death
+| masteries =
+Life;
+
+| startpips = 5
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Thunder Horn Ghoul;
+
+| world = Azteca
+| location = Mangrove Marsh
+| subloc1 = Blood Eye's Lair
+| descrip =
+Two additional Thunder Horn Ghouls appear if more than two Wizards are present.
+
+| speech =
+:''"You want my...  head?  Only if you defeat me...  Otherwise, I will take yours, haugh, haugh, haugh."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Suffering from pink eye, they may be contagious.
+
+| extract class =
+Dinos;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Guiding Light;
+Weakness (-30%);
+Satyr;
+Deathblade;
+Curse (+25%);
+Red Banshee;
+Natural Attack (Death 160-320-480);
+Wraith;
+Scarecrow;
+Skeletal Dragon;
+
+| quests =
+Into the Marsh;
+
+| gold =
+110 - 126;
+
+| hats =
+Dawn Hour Mantle*F2;
+Elite Jura Guard Helm;
+Five Fangs of Fury Headdress*F2*WMV;
+Indigo Wing Crown;
+Thirteen Death Mask*F3;
+Tree of Secrets Chac Mask*F2;
+Twisted Fang Mask;
+
+| robes =
+Cloak of the Tyrant of Beasts;
+High Chac's Guarded Armor*F2*WMV;
+
+| boots =
+Black Tears of Night Wraps;
+Elite Jura Guard Stalkers;
+Five Fangs of Fury Boots*F2*WMV;
+Heart of Sky Boots;
+Indigo Wing Striders;
+Tree of Secrets Chac Runners*F2;
+
+| athames =
+Cut Rock Dagger;
+Sky Flower Sliver;
+Smoking Frog Cutter;
+Snake Ink Fang*F2*WMV;
+
+| amulets =
+Sun's Death Smiling Pendant;
+
+| rings =
+
+| wands =
+Staff of the Storm Quetzals*F2*WMV;
+
+| decks =
+Calendar of the Spiral King;
+Deck of the Jaguar Spirit;
+King's Royal Portraits*F2*WMV;
+
+| items =
+Azteca Apocalypse Theme;
+Clothesline;
+Hollow Log;
+
+| cards =
+Amplify;
+Colossal;
+Empowerment*F2;
+Forest Lord;
+Fortify;
+Frost Demon;
+Vengeance;
+
+| reagents =
+Black Lotus*F3*WMV;
+Black Pearl;
+Bone*F2*WMV;
+Brass;
+Bronze;
+Bronze Gear*F3;
+Deep Mushroom*F4*WMV;
+Fire Blossom*F4;
+Fossil;
+Golden Pearl;
+Lava Lily*F2*WMV;
+Mist Wood*F3*WMV;
+Nightshade;
+Ore*F2*WMV;
+Red Mandrake*F2*WMV;
+Stone Block*F3*WMV;
+Tungsten;
+Turquoise*F3*WMV;
+
+| spellements =
+
+| snacks =
+Avocado Milkshake;
+Chapulines;
+Fern Jelly;
+Kola Nuts;
+Maize*F2;
+Roasted Chickpeas*F2;
+Treant Bark*F2;
+Tricera-Pops;
+
+| jewels =
+Baffle Opal;
+Clear Defense Citrine +39;
+Health Boost Opal;
+Lock Opal;
+Polished Blocking Citrine +12;
+Polished Defense Onyx +41;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+
+| mounts =
+
+| spells =
+
+}}

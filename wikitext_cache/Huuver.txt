@@ -1,0 +1,284 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 8,800
+| crecla = Robot
+| crecla2 = Golem
+| school = Fire
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+120 Any;
+
+| criticalblock =
+105 Any;
+
+| outpierce =
+7%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Ice;
+
+| incresist =
+30% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sani-Bot (Ice);
+
+| world = Empyrea
+| location = Zanadu
+| subloc1 = Charging Station
+| descrip =
+
+| speech =
+:''"Darkness! Everywhere Darkness! How can we clean over so much Darkness?"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Empyrea
+| tome description =
+An early model Sani-Bot. It needs to stay plugged in or it loses charge rapidly.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Glacial Shield;
+Tower Shield;
+Smoke Mantle;
+Smoke Screen;
+Fire Trap;
+Choke;
+Natural Attack (Fire 120-240-360, 75%);
+Sunbird (345-405);
+Firezilla;
+Grand Phoenix;
+Efreet;
+
+| quests =
+Sparck in Charge;
+
+| gold =
+267 - 471;
+
+| hats =
+Cabalist Cleansing Hood;
+Cabalist Hood of the First;
+Interstellar Engineer Helm;
+Interstellar Explorer's Helm;
+Interstellar Officer's Helm;
+Medic's Interstellar Helm;
+
+| robes =
+Cabal Schism Cloak*F2;
+Interstellar Warrior Uniform;
+
+| boots =
+Cabal Schism Stompers;
+Cabal Stompers of Disruption;
+Cabalist Stomps of Vengeance;
+Interstellar Navigator's Boots;
+
+| athames =
+
+| amulets =
+Cabalist Amulet of the First;
+Interstellar Medic's Charm;
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Dwarven Book Case*F4*WMV;
+Dwarven Dinner Table;
+Dwarven File;
+Dwarven Side Table;
+Empyrea Aeriel Theme;
+Empyrea Brain Theme 1;
+Empyrea Dance Hall Theme*F2;
+Empyrea Khan Theme*F2;
+Empyrea Lava Lock Theme;
+Empyrea Leisure Dome Theme;
+Empyrea Outer Athanor Theme;
+Empyrea Sepidious Combat Theme;
+Empyrea Sepidious Theme;
+Empyrea Sewer Theme;
+Empyrea Zanadu Combat Theme;
+Empyrea Zanadu Theme;
+Fire Dwarf Bed;
+Fire Dwarf Chair*F4*WMV;
+Ice Dwarf Bed;
+Ice Dwarf Chair;
+Pirate Party Barge Theme*F4;
+
+| cards =
+Berserk;
+Brilliant Light;
+Dream Shield;
+Ether Shield;
+Frostbite*F2;
+Galvanic Field;
+Link;
+Mass Death Prism;
+Mass Ice Prism;
+Mutate Banshee (Sun);
+Mutate Helephant (Storm);
+Mutate Hound (Storm);
+Mutate Monster (Ice);
+Mutate Shark (Fire);
+Mutate Snowman (Fire)*F2*WMV;
+Sirens;
+
+| reagents =
+Ancient Scroll*F2*WMV;
+Antique Coins*F4*WMV;
+Black Pearl*F2;
+Blood Moss*F2*WMV;
+Brass*F3*WMV;
+Bronze Gear*F2*WMV;
+Cobalt*F5*WMV;
+Ectoplasm*F5*WMV;
+Flying Squid Ink*F12*WMV;
+Nickel;
+Scales*F2*WMV;
+Spider Silk*F5*WMV;
+Spring*F4*WMV;
+Tin*F6*WMV;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate;
+BBQ Drumstick;
+Beast Wellington*F2;
+Discord Grape Jelly*F2;
+Eye Candy;
+Glowing Taffy;
+Hot Cross Buns;
+Pizza;
+Rock and Roll Candy;
+Sugar Khrystals;
+
+| jewels =
+Balance-It Citrine;
+Button Tom Peridot;
+Death Striker Onyx;
+Death-Boon Onyx;
+Ice-Giver Sapphire;
+Life-Boon Jade;
+Life-Ward Jade;
+Lustrous Damage Citrine +23;
+Lustrous Defense Jade +45;
+Lustrous Defense Sapphire +45;
+Lustrous Health Opal +97;
+Myth-Eye Peridot;
+Myth-Proof Peridot;
+Radical Opal;
+Shiny Accurate Ruby +12%;
+Shiny Blocking Amethyst +15;
+Shiny Blocking Citrine +15;
+Shiny Critical Opal +8;
+Shiny Damage Onyx +25*F2*WMV;
+Shiny Damage Opal +13;
+Shiny Damage Peridot +25;
+Shiny Damage Peridot +26;
+Shiny Defense Citrine +52;
+Shiny Defense Onyx +50;
+Shiny Defense Peridot +49;
+Shiny Healing Opal +6%;
+Shiny Health Opal +110;
+Shiny Health Opal +111;
+Shiny Health Opal +113*F2*WMV;
+Shiny Mana Opal +45;
+Sparkling Accurate Amethyst +13%;
+Sparkling Critical Ruby +17;
+Sparkling Critical Sapphire +17;
+Sparkling Damage Citrine +27;
+Sparkling Damage Hematite +54;
+Sparkling Damage Peridot +27;
+Sparkling Damage Ruby +27;
+Sparkling Defense Citrine +53;
+Sparkling Defense Hematite +54;
+Sparkling Defense Jade +53;
+Sparkling Defense Onyx +53;
+Sparkling Defense Opal +27;
+Sparkling Defense Peridot +53;
+Sparkling Defense Ruby +53;
+Sparkling Health Opal +116;
+Sparkling Health Opal +117*F2;
+Sparkling Health Opal +118*F3;
+Sparkling Mana Opal +49;
+Storm-Ward Amethyst;
+
+| pins =
+
+| pets =
+Blue Globulin;
+
+| seeds =
+Angora Bunny Ears*F2*WMV;
+Baby Carrots;
+Bell Pepper*F3*WMV;
+Blue Huckleberries;
+Bread Fruit Bush*F3*WMV;
+Clockwork Flower;
+Cornbread Fruit Bush*F5;
+Couch Potatoes*CR;
+Face Palm;
+Fiery Boom Shroom;
+Fish on a Vine*F3*WMV;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Golden Couch Potatoes*F2*WMV;
+Grapes of Wrath*CR*F2;
+Green Snow Apples;
+Honey Bee Plant;
+Ivy League*CR*F3;
+Key Limes*CR;
+King Parsley*CR;
+Maltese Tiger Lily;
+Moon Flower;
+Orange Dandelion;
+Pink Huckleberries*F2;
+Purple Snow Apples;
+Red Couch Potatoes*F2;
+Red Huckleberries*F2*WMV;
+Rye Bread Fruit Bush;
+Queen Crape Myrtle;
+Snap Dragon;
+Sugar Khrystal*CR;
+Trumpet Vine;
+Ultra Helephant Ears*F2;
+Ultra Snap Dragon;
+Venus Fly Trap;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,161 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 3,280
+| crecla = Elemental
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Ice;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Scaldling;
+Scaldling;
+
+| world = Grizzleheim
+| location = Helgrind Warren
+| descrip =
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip.
+
+| casts =
+Snow Shield;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf;
+Sunbird;
+Meteor Strike;
+Raging Kraken (Fire);
+Heck Hound;
+Leprechaun;
+Cyclops;
+
+| quests =
+
+| gold =
+88 - 124;
+
+| hats =
+Cap of Equilibrium;
+Cowl of the Torrent*F3;
+Cryptid Hood*F2*WMV;
+Curative Coif;
+Firebloom Cowl;
+Frostwoven Hood*F2*WMV;
+Hat of the Gale*F2;
+Headgear of Revival;
+Hoarfrost Hat;
+Hood of the Invariable;
+Igneous Cover*F3;
+Veil of Vitae*F2*WMV;
+
+| robes =
+Burning Vestment*F3;
+Gelid Garments;
+Gloomhound's Wrap;
+Harbinger's Smock;
+
+| boots =
+Boots of the Warlord;
+Broghans of the Wanderer;
+Contradictory Boots*F2;
+Erudite Footwear;
+Firewalking Sandals;
+Footwraps of Patience;
+Footwraps of the Efreet*F3*WMV;
+Iceclaw Boots*F2;
+Slippers of the Seer;
+Telluric Striders;
+Vault Keeper's Boots*F4*WMV;
+Wave Walkers*F6*WMV;
+
+| athames =
+
+| amulets =
+
+| rings =
+Inflammatory Seal*F6*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Broken Stump;
+Heavy Dining Table*F5*WMV;
+
+| cards =
+Black Mantle;
+Ice Wyvern;
+Monstrous;
+Satyr*F2;
+
+| reagents =
+Brass;
+Bronze Gear*F9*WMV;
+Copper;
+Ectoplasm*F5*WMV;
+Iron*F3;
+Lead;
+Nickel*F2;
+Pyrite*F3*WMV;
+
+| spellements =
+
+| snacks =
+Glowing Rock Candy*F4*WMV;
+Meat Soup*F2;
+Moon Pie*F2;
+Spicy Chips;
+Star Lollipop;
+Tasty Biscuit*F5*WMV;
+Wheat Cracker;
+
+| jewels =
+Big Downer Opal;
+Cracked Accurate Ruby +2%;
+Cracked Accurate Sapphire +2%;
+Cracked Damage Ruby +6;
+Cracked Defense Sapphire +9;
+Legend Shield Jade;
+Stumble Opal;
+Troll Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Pink Dandelion*CR;
+Rye Bread Fruit Bush*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

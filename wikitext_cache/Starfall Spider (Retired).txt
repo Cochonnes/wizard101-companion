@@ -1,0 +1,87 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 11
+| heal = 6,470
+| crecla = Spider
+| school = Balance
+| startpips = 
+| powerpips = 
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minion = 
+| world = Zafaria
+| location = Mirror Lake
+| subloc1 = 
+| descrip =
+These creatures were briefly part of the Mirror Lake instance where they were teamed up with the {{Link|Creature|Starburst Spider}}s. They were removed from the instance and are now considered "retired". They did not cheat, but started with a large number of pips.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown amount of Balance Damage
+
+| casts =
+Balanceblade;
+Elemental Blade;
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Ra;
+Judgement;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

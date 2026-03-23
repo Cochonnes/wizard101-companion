@@ -1,0 +1,259 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 19,305
+| crecla = Wizard
+| school = Fire
+| startpips = 2
+| powerpips = Yes
+| critical =
+52 Ice, Storm, Myth, Life, Death, Sun, Moon, Star, Shadow;
+112 Balance;
+263 Fire;
+
+| criticalblock =
+57 Ice, Storm, Myth, Death, Sun, Moon, Star, Shadow;
+112 Balance;
+172 Life;
+175 Fire;
+
+| outpierce =
+2%;
+
+| outboost =
+6% Ice, Storm, Myth, Death, Sun, Moon, Star, Shadow;
+19% Life;
+26% Balance;
+48% Fire;
+
+| incboost =
+None;
+
+| incresist =
+11% Ice;
+21% Storm;
+28% Life;
+
+| outhealing =
+None;
+
+| inchealing =
+50%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Jaguar Shaman;
+
+| world = Azteca
+| location = Twin Giants
+| subloc1 = Mysterious Tower (Twin Giants)
+| descrip =
+Bentley Daysong is the leader of the Carpe Diem Society, who have been possessed by "''The Book of Lost Pages''". Wizards must rescue him during the [[Basic:The Lost Pages|Lost Pages Event]].
+*Two additional Jaguar Shaman Minions appear if more than two Wizards are present.
+
+Bentley Daysong has the following Items equipped:
+*[[Item:Guard of the Sun Fire Hat|Guard of the Sun Fire Hat]]
+*[[Item:New Fire Chac's Armor|New Fire Chac's Armor]]
+*[[Item:New Fire Chac's Footguards|New Fire Chac's Footguards]]
+*[[Item:New Fire Serpent Fang|New Fire Serpent Fang]]
+*[[Item:Zero Cat's Passionate Blade|Zero Cat's Passionate Blade]]
+*[[Item:Terrible Sun Amulet|Terrible Sun Amulet]]
+*[[Item:Coatl Earth Mother's Ring|Coatl Earth Mother's Ring]]
+
+These Items give him the following extra bonuses that normally could not be known on Creatures (note that this Creature could have more stats on top of these):
+*+29% {{Icon|Power Pip}} Chance
+*+17% {{Icon|Fire}} +3% {{Icon|Life}} +3% {{Icon|Balance}} {{Icon|Accuracy}}
+
+| speech =
+:''"You have but a faint hope, Wizard! You are playing a game of worlds, but you have no understanding of the Spiral.  I'll break your spells and snatch the pale fire of your spirit!"''
+
+| spellnotes =
+
+| casts =
+Vengeance;
+Glacial Shield;
+Smoke Screen (-45%);
+Elemental Spear:0;
+Fireblade;
+Dragonblade:1;
+Fire Trap;
+Fuel (+35%);
+Detonate:0;
+Wyldfire;
+Mega Blaze:0;
+Brimstone Revenant;
+Meteor Strike (355-395);
+Phoenix (600-680);
+Efreet;
+Sun Serpent;
+
+| quests =
+Fire Fly;
+Pale Fire;
+
+| dropnotes =
+[[Item:Dragon's Hoard Pack|Dragon's Hoard Equipment]] and the [[Mount:Bone Dragon|Bone Dragon Mount]] will drop for Wizards at any Level.
+
+| gold =
+127 - 213;
+
+| hats =
+Dragonrider's Assailing Helm (Level 80+)*CR;
+Dragonrider's Utility Helm (Level 80+)*CR;
+Dragonrider's Vigilant Helm (Level 80+)*CR;
+Five Flowers Crown*F3*WMV;
+Grinning Death Mask*F4*WMV;
+
+| robes =
+Black Butterfly Guard's Armor*F7*WMV;
+Cloak of the Tyrant of Beasts*F2*WMV;
+Coatl Lord's Robes;
+Dragonrider's Assailing Robe (Level 80+)*CR;
+Dragonrider's Utility Robe (Level 80+)*CR;
+Dragonrider's Vigilant Robe (Level 80+)*CR;
+Fiery Chac's Great Armor*F4*WMV;
+Glorious Xicolli Vest;
+Tunic of the Broken Spear;
+Vestment of the Calavera*F3*WMV;
+
+| boots =
+Dragonrider's Assailing Shoes (Level 80+)*CR;
+Dragonrider's Utility Boots (Level 80+)*CR;
+Dragonrider's Vigilant Boots (Level 80+)*CR;
+
+| athames =
+
+| amulets =
+Home Hearth Relic*F2*WMV;
+Stone of the Green Skycarrier*F4*WMV;
+
+| rings =
+
+| wands =
+Dragonrider's Balance Blade (Level 80+)*CR;
+Rod of Icy Tears*F3*WMV;
+Serpent King's Turquoise Arrow*F2*WMV;
+
+| decks =
+Codex of the Lost Fire*F3*WMV;
+White Fire Case*F3*WMV;
+
+| items =
+Azteca Combat Theme*F2*WMV;
+Azteca Mountain Theme;
+Azteca Zultun Theme*F2*WMV;
+Dragon Wall Bust*F2*WMV;
+Dragonwing Bust;
+Moon Dino Shield*F2*WMV;
+Parasaur Skirt*F2*WMV;
+Quetzal Root Nest*F2*WMV;
+Regal Dragon Statue*F4*WMV;
+
+| cards =
+Basilisk*F2;
+Berserk;
+Chastisement*F4*WMV;
+Chimera;
+Colossal*F3*WMV;
+Cycle of Life*F2;
+Dragonflies*F3*WMV;
+Extraordinary*F2*WMV;
+Furnace;
+Galvanic Field*F3*WMV;
+Gnomes!;
+Hydra*F3*WMV;
+Polymorph Draconian;
+Polymorph Icehorn*F2*WMV;
+Polymorph Jaguar;
+Polymorph Pteranodon*F3*WMV;
+Potent Trap*F3;
+Primordial*F5*WMV;
+Punishment*F2*WMV;
+Rain of Fire;
+Rebirth*F2;
+Reliquary*F2*WMV;
+Sharpened Blade*F3*WMV;
+Sirens;
+Skeletal Dragon*F3*WMV;
+Sleet Storm*F2*WMV;
+Virulence*F3*WMV;
+
+| reagents =
+Black Lotus*F4*WMV;
+Black Pearl*F2*WMV;
+Blood Moss*F2*WMV;
+Bone*F4*WMV;
+Brass;
+Bronze Gear*F3*WMV;
+Deep Mushroom*F6*WMV;
+Fire Blossom*F3*WMV;
+Fossil*F2;
+Golden Pearl*F4*WMV;
+Lava Lily*F3*WMV;
+Mist Wood*F4*WMV;
+Nickel;
+Nightshade;
+Ore*F3*WMV;
+Red Mandrake*F3*WMV;
+Steel;
+Stone Block*F4*WMV;
+Sunstone;
+Turquoise*F4*WMV;
+
+| spellements =
+
+| snacks =
+Allocados;
+Bedrock Bonbons*F2*WMV;
+Buttered Bread*F2*WMV;
+Cacao Beans*F2*WMV;
+Cactus Fruit*F2;
+Chapulines;
+Dragonhorned Melon*F2*WMV;
+Fern Jelly;
+Fried Ice Cream*F3*WMV;
+Maize*F3;
+Papaya*F3*WMV;
+Pyramints*F3*WMV;
+Quetzal Pretzel*F3*WMV;
+Rex Tea*F2*WMV;
+Saber-Tooth Cider*F2*WMV;
+Saursa;
+Stego Waffles*F5*WMV;
+Tenochti-Flan*F2*WMV;
+Tortilla Chips;
+Tricera-Pops*F3*WMV;
+Yucca;
+Zocalo Wings*F5*WMV;
+
+| jewels =
+Clear Critical Amethyst +9;
+Clear Critical Citrine +9;
+Clear Critical Sapphire +9;
+Clear Health Opal +81;
+Fire-Away Ruby;
+Storm-Shot Amethyst;
+
+| pins =
+
+| pets =
+Sea Dragon*CR;
+
+| seeds =
+Key Limes*CR;
+King Parsley*CR;
+Maelstrom Snap Dragon;
+Ninja Fig*CR*F2;
+Red Bell Pepper;
+White Laugh-O-Dil;
+
+| mounts =
+Blue Dragon;
+Bone Dragon*PERM;
+Dark Redwing;
+Faithful Dragoness;
+
+| spells =
+
+}}

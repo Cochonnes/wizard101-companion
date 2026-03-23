@@ -1,0 +1,169 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 3,825
+| crecla = Crab
+| school = Balance
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+32%;
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+30% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Crustacean Waverunner;
+
+| world = Celestia
+| location = Survey Camp
+| subloc1 = Optio Agenor's Camp
+| descrip =
+Optio Agenor is the leader of the Crabs in the Survey Camp in Celestia.
+
+| speech =
+:''"Who's this? An intruder! Let me get my claws around you!"''
+
+| spellnotes =
+
+| casts =
+Precision;
+Balanceblade;
+Elemental Blade;
+Donate Power;
+Sandstorm;
+Iron Curse;
+Spirit Blast;
+Spectral Blast;
+Spinning Scythe;
+Natural Attack (Balance 85x, 85%);
+
+| quests = 
+Off the Map;
+ 
+| gold =
+34 - 49;
+
+| hats =
+Curious Mask;
+Ember Helm;
+Everlasting Celestian Helm;
+Examiner's Hat;
+Frozen Hat;
+Gravedigger's Helm*F2*WMV;
+Helm of Celestian Totality*F2;
+Insulated Helmet;
+Mythical Mantle;
+Tangleroot's Spirit Mask*F4*WMV;
+Wintery Veil*F2;
+
+| robes =
+Brimstone Tunic;
+Examiner's Outfit;
+Innocent Outfit;
+Insulated Armor;
+Longcoat of Long Life*F4;
+Speculator's Outfit;
+Tunic of Tolerance*F4*WMV;
+
+| boots =
+Ashen Boots;
+Cinder Striders*F5*WMV;
+Drafty Boots;
+Festive Footwear*F2;
+Frozen Frostwalkers*F2;
+Striders of Ordeal;
+Vital Footwear;
+
+| athames =
+Dirk of Delusion*F6*WMV;
+Explorer's Edge;
+Living Claw;
+Majestic Dagger*F3*WMV;
+
+| amulets =
+
+| rings =
+Combustible Band*F3*WMV;
+Imbued Ring*F2*WMV;
+Ring of Fallacy*F4;
+
+| wands =
+
+| decks =
+
+| items =
+Celestian Fern*F4*WMV;
+
+| cards =
+Accurate*F8;
+Amplify*F4*WMV;
+Blizzard;
+Fortify;
+Ghoul;
+Giant*F3*WMV;
+Guiding Light;
+Keen Eyes*F2;
+Snow Serpent;
+Sprite;
+Strong;
+Weakness*F2;
+
+| reagents =
+Brass*F2;
+Cobalt;
+Nickel*F4*WMV;
+Scales*F3*WMV;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Glowing Star Fruit*F2;
+Glowing Taffy*F2;
+Spicy Drumstick*F2*WMV;
+Strawberry Cupcake;
+Submarine Sandwich*F2;
+
+| jewels =
+Entangle Jade;
+Melt Sapphire;
+Plain Defense Amethyst +29;
+Plain Defense Onyx +29;
+Plain Defense Peridot +29;
+Plain Health Opal +59;
+Plain Piercing Peridot +3%;
+Quench Ruby;
+Strangle Onyx;
+Super-Dizzy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F3*WMV;
+Maelstrom Snap Dragon*F3;
+Pink Dandelion*CR*F3*WMV;
+Silver Trumpet Vine*CR;
+
+| mounts =
+
+| spells =
+
+}}

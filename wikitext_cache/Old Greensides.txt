@@ -1,0 +1,137 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,400
+| crecla = Water-Lurker
+| school = Life
+| startpips = 4
+| powerpips = Yes
+| critical =
+72;
+
+| criticalblock =
+38;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Wizard City
+| location = Deep Warrens
+| subloc1 = Tower of Peladon
+| descrip =
+Necromancers must defeat Old Greensides during the Quest, ''The Second Professor''.
+*This Boss is not repeatable.
+*This Boss is located in a solo dungeon. Other Wizards will not be able to port into the dungeon.
+
+| speech =
+:''"Who are you that does infect mine eyes? So wise so young, they say, do never live long!"''
+
+| spellnotes =
+
+| casts =
+Empowerment;
+Mend;
+Regenerate;
+Lifeblade;
+Life Trap;
+Nature's Wrath;
+Life Banshee (250);
+Seraph;
+Centaur;
+Forest Lord;
+
+| quests =
+The Second Professor;
+ 
+| gold =
+41 - 56;
+
+| hats =
+
+| robes =
+
+| boots =
+Big Five Trackers;
+Charging Bull's Footguards;
+Cold Storm Trackers;
+Friend of the Fire Elf Boots*F2;
+Hanging Stones Striders;
+Ironhide Boots;
+Luck Smithed Boots*F2;
+Slick Road Grippers;
+Splashing Stream Waders;
+Steppers of Ice and Fire;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Centaur*F2;
+Colossus;
+Earthquake;
+Hydra;
+Ice Wyvern;
+Phoenix;
+Satyr;
+Spectral Blast;
+Stormzilla;
+Triton;
+
+| reagents =
+Black Lotus*F2;
+Cat Tail*F2;
+Cobalt; 
+Lava Lily;
+Mist Wood;
+Ore*F2;
+Parchment;
+Pearl;
+Red Mandrake;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Aura Crush Citrine;
+Boss Toad Peridot;
+Colossus Opal;
+Sniper Talent Opal;
+Storm-Tooth Amethyst;
+Unstoppable Talent Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

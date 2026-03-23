@@ -1,0 +1,187 @@
+{{Stub|which version of the '''Mutate''' ''Treasure Card'' is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 11,200
+| crecla = Snake
+| school = Death
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+4%;
+
+| outboost =
+65%;
+
+| incboost =
+15% Death;
+
+| incresist =
+30% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minion = Disciple J'Onni
+| world = Mirage
+| location = Istanboa
+| subloc1 = Kobra Kai Dojo
+| descrip =
+Two additional {{Link|Creature|Kobra Kai Disciple}}s will appear if more than two Wizards are present.
+
+| spellnotes =
+
+| casts =
+Brace;
+Sacrifice (Death);
+Deathblade (+40%);
+Dark Pact (+30%);
+Feint (+75%);
+Age of Reckoning;
+Ghoul (180);
+Natural Attack (Death 110-220-330, 80%);
+Vampire (375);
+Wraith (575);
+Dr. Von's Monster (900);
+
+| quests =
+Sweep the Tail;
+
+| gold =
+540 - 735;
+
+| hats =
+Zruvan Helmet of Rigor;
+
+| robes =
+Sand Sea Outfit of Ashes;
+
+| boots =
+
+| athames =
+Sand Sea Dagger of Shivers;
+
+| amulets =
+Sand Sea Amulet of Blight;
+Sand Sea Amulet of Blusters;
+Sand Sea Charm of Ashes;
+Sand Sea Charm of Mischief;
+
+| rings =
+Kobra Ringlet of Mettle;
+Sand Sea Ring of Shivers;
+
+| wands =
+
+| decks =
+Kobra Hand of Mettle;
+Kobra Hand of Rigor;
+Sand Sea Deck of Ardor;
+Sand Sea Hand of Havoc;
+
+| items =
+
+| cards =
+Arcticzilla;
+Fiery Colossus;
+Frostfang;
+Icebird;
+Mutate Colossus;
+Rusalka's Wrath;
+Saga of Heroes;
+Shift;
+
+| reagents =
+Aether*F2;
+Agave Leaves*F2;
+Agave Nectar;
+Amber;
+Amber Dust*F3;
+Aquamarine;
+Astral Shard*F2;
+Draconium;
+Fire Blossom;
+Fish Fin;
+Glass Sliver;
+Golden Pearl;
+Merle's Whisker;
+Mithril;
+Scales;
+Silver*F3;
+Stardust;
+Steel;
+Sunstone;
+Titanium;
+Turquoise*F2;
+Vine;
+
+| snacks =
+Beast Wellington;
+Beetle Cream Soda*F2;
+Chalupacabra;
+Eye Candy;
+Green Tomato;
+Hot Cross Buns;
+Mustachios;
+Rhubarbed Wire;
+Satyr Chow;
+Ships 'n' Queso;
+Veggie Juice;
+Wheat Cracker;
+
+| jewels =
+Lustrous Accurate Citrine +11%;
+Lustrous Accurate Sapphire +11%;
+Lustrous Damage Ruby +23; 
+Lustrous Blocking Amethyst +13;
+Lustrous Blocking Ruby +13;
+Lustrous PIP Opal +10%;
+Polished Mana Opal +37;
+Shiny Blocking Peridot +16;
+Shiny Health Opal +113;
+Shiny Health Opal +114;
+Shiny Mana Opal +45;
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears*F2;
+Baby Carrots;
+Bell Pepper;
+Blue Huckleberries*F2;
+Boiled Peanuts;
+Cornbread Fruit Bush*F2;
+Dandelion;
+Deadly Helephant Ears*CR;
+Desparagus (Seed);
+Evil Snow Peas;
+Fish on a Vine;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Golden Couch Potatoes;
+Grapes of Wrath*CR;
+Green Snow Apples;
+King Parsley*CR;
+Laugh-O-Dil*F2;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily*F2;
+Missile Toe;
+Pink Huckleberries;
+Pink Laugh-O-Dil;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Red Couch Potatoes;
+Red Huckleberries;
+Saw Palmetto;
+Sword Fern*CR;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

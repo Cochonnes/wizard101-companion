@@ -1,0 +1,155 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 12,935
+| crecla = Penguin
+| school = Ice
+| cheats = Yes
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+10%;
+
+| outboost =
+80%;
+
+| incboost =
+10% Ice, Myth;
+
+| incresist =
+45% Storm;
+50% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Empyrea
+| location = Sepidious
+| subloc1 = Right Eye
+| descrip =
+'''Note:''' Despite being an Ice Boss, Le Pingouin ''resists'' Fire, and Storm.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"Le whu! Whu!"'' - If a Wizard joins the battle after the first Round, Le Pingouin will cast {{Link|Spell|Winter Moon}} on the Wizard.
+*{{Icon|Minion}} ''"Seek and destroy, mes petites!"'' - At the end of each Round, if Le Pingouin does not have an equal number of Minions to the number of Wizards, he will cast a Moon Spell to summon one of the following Minions:
+**{{Link|Creature|Clockwork Spanner (Death)}}
+**{{Link|Creature|Clockwork Spanner (Fire)}}
+**{{Link|Creature|Clockwork Spanner (Storm)}}
+*{{Icon|Round}} ''"Whu! Whu!"'' - At the end of the 3rd Round after the Minion becomes active, the Minion will do the following:
+**Clockwork Spanner (Death) - casts a version of '''Poison''' that sacrifices itself, then deals '''700''' Death Damage to all Wizards.
+**Clockwork Spanner (Fire) - casts a Sun version of '''Immolate''' that sacrifices itself, then deals '''700''' Fire Damage to all Wizards.
+**Clockwork Spanner (Storm) - casts a Star version of '''Insane Bolt''' that sacrifices itself, then deals '''700''' Storm Damage to all Wizards.
+**This cheat will not progress if Le Pengouin is not in battle.
+
+| spellnotes =
+
+| casts =
+Brace;
+Iceblade (+45%);
+Cooldown;
+Steal Ward;
+Snow Drift;
+Angry Snowpig;
+Handsome Fomori;
+Blizzard (290-330, 80%);
+Snow Angel (6 Pip);
+Frost Giant;
+
+| quests =
+Eye-Eye, Captain;
+Right in the Eye;
+
+| gold =
+165 - 1,790;
+
+| hats =
+Interstellar Delegate's Helm;
+Medic's Interstellar Helm;
+
+| robes =
+Interstellar Hero's Uniform;
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Medic's Hexacorder;
+Navigator's Hexacorder;
+Officer's Hexacorder;
+
+| decks =
+
+| items =
+Empyrea Flotsam Combat Theme*F2;
+Empyrea Inner Athanor Theme;
+Empyrea Khan Theme;
+Empyrea Outer Athanor Theme;
+
+| cards =
+
+| reagents =
+Ancient Scroll*F3*WMV;
+Antique Coins;
+Black Pearl;
+Bronze Gear;
+Cobalt;
+Ectoplasm;
+Nickel;
+Spring*F2*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Beast Wellington;
+Bread Fruit Fruit;
+Decimatoes;
+Discord Grape Jelly;
+Glowing Taffy;
+Satyr Chow*F2*WMV;
+
+| jewels =
+Armor Piercer Opal;
+Balance Assailant Citrine;
+Fire-Dealer Ruby;
+Lustrous Mana Opal +41;
+Myth-Dealer Peridot;
+Storm-Away Amethyst;
+Storm-Proof Amethyst;
+Storm-Shot Amethyst;
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Baby Carrots*F2;
+Bell Pepper*F2*WMV;
+Cornbread Fruit Bush;
+Couch Potatoes*CR*F2*WMV;
+Fish on a Vine;
+Grapes of Wrath*CR;
+Maelstrom Snap Dragon;
+Pink Huckleberries;
+Purple Bell Pepper;
+Red Couch Potatoes;
+Saw Palmetto;
+Tiger Lily (Seed);
+
+| mounts =
+
+| spells =
+
+}}

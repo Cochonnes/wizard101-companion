@@ -1,0 +1,99 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 15,315
+| crecla = Elemental
+| school = Sun
+| school2 = Fire
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Fire;
+
+| critical =
+557;
+
+| criticalblock =
+511;
+
+| outpierce =
+26%;
+
+| outboost =
+114%;
+
+| incboost =
+30% Ice;
+
+| incresist =
+30% Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+60% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sunfire Elemental (Rank 21);
+Sunfire Elemental (Rank 21);
+
+| world = Krokotopia
+| location = Halls of Taweret
+| subloc1 = Bright's Lab
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Magnify;
+Wyldfire;
+Wrath of Ares (Sun);
+Scald;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

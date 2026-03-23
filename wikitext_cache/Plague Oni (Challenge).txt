@@ -1,0 +1,101 @@
+{{Stub|updates to its spell casts and stats after Summer 2024}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 6,000
+| crecla = Demon
+| school = Balance
+| school2 = Death
+
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+60%;
+
+| incboost =
+None;
+
+| incresist =
+10% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Jade Oni Rematch
+| descrip =
+Plague Oni (Challenge) is considered a Minion to {{Link|Creature|Jade Oni (Challenge)}}.  All drops are recorded on that page.
+
+| speech =
+
+| cheatnotes =
+
+| spellnotes =
+
+| casts =
+Spirit Blade;
+Spectral Blast (Tier 3b);
+Scorpion (Tier 3b);
+Loremaster;
+Hydra (Tier 3a);
+Dark Sprite (Tier 3b);
+Banshee (Tier 3b);
+Fire Elf (Tier 3b);
+Phoenix (Tier 3b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Plague Oni (Rematch)
+
+}}

@@ -1,0 +1,107 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 20,000
+| crecla = Shadow Seraph
+| school = Shadow
+| masteries =
+Life;
+
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+47 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+5%;
+
+| outboost =
+30% Life;
+
+| incboost =
+20% Life;
+40% Balance;
+
+| incresist =
+5% Fire, Ice, Storm, Myth, Shadow;
+25% Death;
+
+| outhealing =
+75%;
+
+| inchealing =
+75%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Polaris
+| location = River of Frozen Tears
+| subloc1 = Omen's Hideout
+| descrip =
+Dark Seraph is a Minion to {{Link|Creature|Omen Stribog}}.  All cheats and drops should be listed on that page.
+
+| speech =
+
+| spellnotes =
+*The Dark Seraph has the natural effects of a [[Spell:Shadow Seraph|Shadow Seraph]], and will apply an Absorb on all allies after healing.
+
+| casts =
+Cycle of Life;
+Legend Shield;
+Guiding Light;
+Unicorn;
+Regenerate;
+Rebirth;
+Dryad;
+Morganthe's Ardor;
+Wings of Fate;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

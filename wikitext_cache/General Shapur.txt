@@ -1,0 +1,213 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 5,545
+| crecla = Qhat
+| school = Ice
+| startpips = 3
+| powerpips = Yes
+| outpierce =
+10%;
+
+| outboost =
+30%;
+
+| incboost =
+15% Fire; 
+
+| incresist =
+30% Ice;
+
+| stunable = Yes
+| beguilable = Yes
+| minion = House Purrzian Guard
+| minion2 = 
+| world = Mirage
+| location = Caterwaul Canyons
+| subloc1 = Vassal Manse
+| descrip =
+
+| spellnotes =
+*This Boss uses pip conversion.
+
+| casts =
+Brace;
+Icewind;
+Volcanic Shield (-75%);
+Frozen Armor (185);
+Iceblade (+40%);
+Ice Bats (215);
+Natural Attack (Ice 105-210-315, 75%);
+Blizzard (290-330, 80%);
+Winter Moon;
+Frostbite (80+549);
+Frost Giant (530);
+
+| quests =
+The Purrzian Vassals;
+
+| gold =
+178 - 438;
+
+| hats =
+Aridian Helm of Numbing;
+Rubal Kufiya of Loyalty;
+Wayfarer's Fez of Grit;
+
+| robes =
+Aridian Armor of Numbing;
+Aridian Armor of Strife;
+
+| boots =
+Aridian Shoes of Numbing;
+
+| athames =
+Rubal Janbiya of Bitterness;
+Rubal Janbiya of Loyalty*F2;
+Rubal Janbiya of Renewal;
+Viper Edge of Dunestorms;
+Viper Edge of Thriving*F2;
+
+| amulets =
+Rubal Locket of Lightning;
+Rubal Necklace of Illusions;
+Viper Talisman of Reflection;
+
+| rings =
+Flameforged Rubal Band*F2;
+Rubal Band of Action;
+Rubal Seal of Bitterness;
+Rubal Seal of Carnage;
+Rubal Seal of Illusions;
+Viper Ring of Dunestorms;
+Viper Ring of Numbing;
+
+| wands =
+Conscript Tabar of Delusion;
+Conscript Tabar of Identity;
+
+| decks =
+Rubal Deck of Acerbity;
+Viper Cards of Strife;
+
+| items =
+
+| cards =
+Age of Reckoning;
+Mass Ice Prism;
+Mutate Bats (Fire);
+Mutate Kraken (Ice);
+Mutate Kraken (Sun);
+Mutate Serpent (Storm);
+Punklops;
+Saga of Heroes;
+Yellow Troll;
+
+| reagents =
+Ancient Scroll*F4*WMV;
+Antique Coins*F2;
+Black Pearl*F3*WMV;
+Blood Moss*F4*WMV;
+Brass;
+Bronze Gear;
+Cobalt*F2*WMV;
+Ectoplasm;
+Nickel*F2*WMV;
+Scales;
+Spider Silk*F4*WMV;
+Spring*F3*WMV;
+Tin*F2;
+Turmeric*F4*WMV;
+
+| snacks =
+Beast Wellington;
+Bread Fruit Fruit;
+Chalupacabra*F2*WMV;
+Chili Cheese Fries;
+Eye Candy;
+Frosty Sugar Cubes;
+Hard Boiled Beetle Eggs*F2;
+Hot Cross Buns*F2*WMV;
+Large Ice Cream;
+Mustachios;
+Rhubarbed Wire;
+Satyr Chow*F4*WMV;
+Ships 'n' Queso;
+Submarine Sandwich; 
+Super Cold Popsicle;
+Veggie Juice*F2;
+
+| jewels =
+Chastisement Opal;
+Lustrous Accurate Amethyst +11%;
+Lustrous Accurate Citrine +11%;
+Lustrous Accurate Onyx +11%;
+Lustrous Accurate Ruby +11%;
+Lustrous Blocking Jade +13;
+Lustrous Blocking Peridot +13;
+Lustrous Blocking Ruby +13;
+Lustrous Critical Amethyst +13;
+Lustrous Damage Sapphire +23;
+Lustrous Defense Ruby +45*F2*WMV;
+Lustrous Defense Sapphire +45;
+Lustrous Health Opal +96;
+Lustrous PIP Opal +10%;
+Shiny Blocking Amethyst +16;
+Shiny Blocking Onyx +16;
+Shiny Critical Citrine +16;
+Shiny Damage Citrine +26;
+Shiny Damage Ruby +26;
+Shiny Damage Sapphire +26;
+Shiny Defense Amethyst +51;
+Shiny Defense Amethyst +52;
+Shiny Defense Hematite +51;
+Shiny Health Opal +112;
+Shiny Mana Opal +46;
+Shiny Mana Opal +47;
+Shiny PIP Hematite +2;
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Baby Carrots*F2;
+Bamboo Shoots;
+Blue Huckleberries*F2*WMV;
+Boiled Peanuts;
+Boon Tree*CR;
+Bread Fruit Bush*F3*WMV;
+Cornbread Fruit Bush*F3;
+Couch Potatoes*CR*F4*WMV;
+Dandelion;
+Deadly Fly Trap;
+Desparagus (Seed);
+Fickle Pickle*F2*WMV;
+Fiery Boom Shroom*F2;
+Fortune Cookie Tree*F3;
+Golden Couch Potatoes*F5*WMV;
+Goose Tree;
+Grapes of Wrath*CR*F2;
+Green Snow Apples*F2;
+Ivy League*CR*F2*WMV;
+King Parsley*CR;
+Laugh-O-Dil;
+Maelstrom Snap Dragon;
+Ninja Fig*CR;
+Pink Huckleberries*F3;
+Pink Laugh-O-Dil;
+Queen Crape Myrtle*F2;
+Red Couch Potatoes*F2;
+Saw Palmetto;
+Snap Dragon*F2;
+Sugar Khrystal*CR*F2*WMV;
+Sunion*CR;
+Trumpet Vine;
+White Laugh-O-Dil;
+White Desparagus;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

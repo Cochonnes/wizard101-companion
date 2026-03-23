@@ -1,0 +1,191 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 1,600
+| crecla = Grendel
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Grendel Mossback;
+
+| world = Grizzleheim
+| location = Mirkholm Keep
+| subloc1 = Herkir's Cave
+| descrip =
+
+| speech =
+:''"I warned you to leave... now you'll pay the price!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 120 Storm Damage per Pip.
+
+| casts =
+Myth Shield;
+Weakness;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Storm Serpent (155-195);
+Lightning Bats;
+Storm Shark;
+Squall Wyvern;
+Kraken;
+Banshee;
+Sunbird;
+
+| quests =
+On Second Thought...;
+
+| gold =
+44 - 85;
+
+| hats =
+Crown of Hardiness;
+Equanimous Headdress*F11*WMV;
+Mythic Mantle*F15*WMV;
+Penumbra Cowl*F2*WMV;
+
+| robes =
+Algid Longcoat*F16*WMV;
+Arctic Robe*F2;
+Cloak of Nephele*F2;
+Cloak of the Museum*F9*WMV;
+Coldgrave Garments;
+Drape of Magnitude;
+Jerkin of the Just;
+Jerkin of the Rime;
+Longcoat of the Librarian*F2;
+Maelstrom Vestment*F3;
+Mythologist's Raiment;
+Ordered Drape*F7*WMV;
+Osseous Drape;
+Robe of Mourning*F2*WMV;
+Robe of Subsistence*F3;
+Smock of Cinders;
+Survivalist's Tunic*F2*WMV;
+Topiary Tunic*F10*WMV;
+Vestment of Poise;
+Wrap of the Woods;
+
+| boots =
+Conservator's Footgear*F3*WMV;
+Footwraps of the Tide;
+Fountain Waders;
+Glacier Walkers;
+Slippers of the Shadow*F4*WMV;
+Wild Rover's Boots;
+
+| athames =
+Poniard of the Last Rune;
+Shortblade of Valor*F2;
+
+| amulets =
+
+| rings =
+Burnished Band;
+Ice Crystal Loop;
+
+| wands =
+
+| decks =
+
+| items =
+Trowel;
+
+| cards =
+Cyclops*F2;
+Fire Trap;
+Giant;
+Heck Hound;
+Mutate Cat (Storm)*F2*WMV;
+Mutate Elf (Ice);
+Mutate Elf (Storm);
+Sandstorm;
+Satyr*F2;
+Spirit Armor;
+Time of Legend;
+Tough;
+Vampire;
+
+| reagents =
+Brass*F2;
+Copper;
+Iron*F3;
+Lead;
+Leather Straps*F10*WMV;
+Nickel*F3;
+Pyrite*F5;
+
+| spellements =
+
+| snacks =
+Cherry Pie*F4;
+Cracker;
+Funnel Cake*F2*WMV;
+Glowing Rock Candy*F4*WMV;
+Green Grapes*F4*WMV;
+Ice Cream*F4*WMV;
+Meat Soup*F3;
+Moon Pie*F8*WMV;
+PBJ Sandwich*F6;
+Tasty Biscuit*F5;
+
+| jewels =
+Charge Opal;
+Chipped Damage Opal +4;
+Chipped Defense Ruby +13*F2;
+Chipped Health Opal +16;
+Chipped Health Opal +19;
+Chipped Mana Opal +10;
+Chipped PIP Opal +1%;
+Cracked Accurate Jade +2%;
+Cracked Damage Opal +1;
+Cracked Defense Jade +9;
+Cracked Defense Opal +5;
+Death-Giver Onyx;
+Fire Elf Ruby;
+Fire-Boon Ruby;
+Huge Energy Opal;
+Legend Shield Jade;
+Leprechaun Jade;
+Lightning Bats Amethyst;
+Snow Serpent Sapphire;
+Thermic Shield Amethyst;
+
+| pins =
+
+| pets =
+Storm Cat*F2;
+
+| seeds =
+Baby Carrots*F3*WMV;
+Bread Fruit Bush*F3*WMV;
+Couch Potatoes*CR;
+Helephant Ears*F5*WMV;
+Snap Dragon*F4;
+
+| mounts =
+
+| spells =
+
+}}

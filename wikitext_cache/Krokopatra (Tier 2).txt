@@ -1,0 +1,118 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 14
+| heal = 8,899
+| crecla = Krokotopian
+| school = Storm
+| cheats = Yes
+| shadowslots = 1
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+30%;
+
+| outboost =
+142.35%
+
+| incboost =
+None;
+
+| incresist =
+20% Any;
+
+| outhealing =
+40%;
+
+| inchealing =
+45%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Krokopatra Rematch
+| subloc1 = Krokopatra Challenge (Tier 2)
+| descrip =
+For the purpose of drops, Krokopatra (Tier 2) is a Boss. All drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+*''"Your Queen has no patience for tardiness!"''' - If a Wizard is late to combat, Krokopatra (Tier 2) casts a Moon version of '''Insane Bolt''' to all enemies dealing '''550''', '''1,050''' or '''1,550''' Moon Damage.
+*''"I feel alive!"'' - At the end of every Round Krokopatra (Tier 2) has a Heal over Time, she casts {{Link|Spell|Thundering Jinn}}.
+*''"Your dare strike your queen?!"''' - If a Wizard Damages her, she casts a Moon version of '''Insane Bolt''' to all enemies dealing '''550''', '''1,050''' or '''1,550''' Moon Damage.
+*''"I shrug off such paltry magic"''' - If a Wizard casts a DoT on Krokopatra (Tier 2), she casts {{Link|Spell|Kraken (Tier 5b)}}.
+*''"You can't charm me!"'' - If a Wizard casts a Blade or Global, she casts either an AoE Moon version of Enfeeble, or Healing Current on herself.
+*''"You can't weaken the queen!"'' - If a Wizard casts a Damage Debuff on Krokopatra (Tier 2), she casts {{Link|Spell|Hammer of Thor (Tier 5b)}}.
+*''"Your clumsy feints are no match for my grace"'' - If a Wizard casts a Feint, she casts {{Link|Spell|Insane Bolt}}, then casts a Moon version of Insane Bolt to all enemies dealing '''550''', '''1,050''' or '''1,550''' Moon Damage.
+*''"I will not be triumphed over!"'' - If a Wizard casts {{Link|Spell|Dissipate}}, she casts a Moon version of Insane Bolt to all enemies dealing '''550''', '''1,050''' or '''1,550''' Moon Damage.
+
+| spellnotes =
+
+'''Natural Attack:'''
+*Deals 125 Storm Damage per Pip
+
+| casts =
+Galvanic Field;
+Stormblade (+30%);
+Disarm;
+Darkwind (+35%);
+Storm Shark (Tier 3b);
+Catch of the Day;
+Kraken (Tier 3a);
+Stormzilla (Tier 3b);
+Glowbug Squall (1,120);
+Rusalka's Wrath;
+Sirens (685);
+Leviathan;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Krokopatra (Rematch)
+}}

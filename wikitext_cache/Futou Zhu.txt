@@ -1,0 +1,128 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 6
+| heal = 1,040
+| crecla = Pig
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Otomo Soldier;
+Otomo Soldier;
+
+| world = MooShu
+| location = Tatakai Outpost
+| descrip =
+*Futou Zhu has been collecting Fire Feathers, and Pyromancers must fight him in order to get the Smoke Screen Spell at Level 38. He appears out in the street, so multiple Wizards can fight him simultaneously.
+*Two additional Otomo Soldiers will join in the battle.
+
+| speech =
+:''"A little squab from the city of wizards has come here to take my precious feathers? I'd like to see the little wizard try."''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Death Damage per Pip.
+
+| casts =
+Snow Shield;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf;
+Sunbird;
+Meteor Strike;
+Heck Hound;
+Leprechaun;
+Cyclops;
+Vampire;
+
+| quests =
+Bird of a Feather;
+
+| gold =
+53 - 69;
+
+| hats =
+Cap of Tribulations;
+Cowl of Cooperation;
+Hat of the Triad;
+Painful Cowl;
+Shroud of Music;
+
+| robes =
+Industrial Uniform;
+
+| boots =
+Druidic Sandals;
+Footwraps of Chants;
+Sandals of Sympathy;
+Shoes of Scruples;
+Sprightly Slippers;
+Vigilant Sandals;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Moodha Bust;
+
+| cards =
+
+| reagents =
+Bronze Gear*F3*WMV;
+Pyrite;
+
+| spellements =
+
+| snacks =
+Crunch Apple;
+Fire Cracker;
+Golden Peanut;
+Large Watermelon*F2;
+Square Root;
+
+| jewels =
+Blemished Defense Opal +12;
+Flawed Accurate Jade +4%;
+Flawed Accurate Ruby +4%;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+Fiery Boom Shroom;
+
+| mounts =
+
+| spells =
+
+}}

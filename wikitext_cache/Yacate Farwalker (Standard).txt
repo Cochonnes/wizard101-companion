@@ -1,0 +1,94 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 40,265
+| crecla = Dino
+| crecla2 = Raptor
+| school = Myth
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+33%;
+
+| outboost =
+67%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+13% Fire, Ice, Life, Death, Balance, Shadow;
+43% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Huac Cries Blood Rematch
+| descrip =
+Yacate Farwalker is considered a Minion to {{Link|Creature|Huac Cries Blood (Standard)}}. All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Balanceblade (+35%);
+Stone Colossus (Tier 5a);
+Medusa (Tier 5b);
+Celestial Calendar (Tier 5b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Yacate Farwalker (Rematch)
+}}

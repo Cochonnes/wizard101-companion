@@ -1,0 +1,165 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 22,950
+| crecla = Scholomari
+| school = Death
+| school2 = Storm
+| cheats = Yes
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+71 Storm, Death;
+
+| criticalblock =
+658 Any;
+
+| outpierce =
+19% Storm, Death;
+
+| outboost =
+100% Storm, Death;
+
+| incboost =
+30% Life;
+
+| incresist =
+49% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+79% Death;
+
+| outhealing =
+40%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+Sister Morbidmary (Standard);
+Sister Scara (Standard);
+
+| world = Darkmoor
+| location = Graveholm
+| subloc1 = Sanderson House (Standard)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+'''Sister Sanderson'''
+*{{Icon|Damage}} ''"Absumo Mortalis"'' - At the end of the second round, and every two rounds thereafter, Sister Sanderson will cast Gravestorm on the marked wizard.
+** If she is at max health, she will also cast a -100% incoming damage aura on herself.
+
+'''Sister Morbidmary'''
+*{{Icon|Round}} ''"Sisters, this one is weakest, take them!"'' - At the end of the first round, and every two rounds thereafter, Sister Morbidmary will mark a random wizard, then cast one of the following:
+**A version of {{Link|Spell|Mana Burn}} that removes all the wizard's pips
+**A version of {{Link|Spell|Leprechaun}} that deals 20% of the wizard's max health
+**A version of {{Link|Spell|Hungry Caterpillar}} that only deals damage
+***Occasionally this cheat will happen multiple times in a row.
+
+'''Sister Scara'''
+*{{Icon|Threat}} ''"Dear child... over here"'' - At the end of the first round, and every two rounds thereafter, Sister Scara will cast {{Link|Spell|Taunt}} on a random sister.
+
+| spellnotes =
+
+| casts =
+Drowned Amplify;
+Attenuate;
+Deathblade (+40%);
+Drowned Blade;
+Lord of Night;
+Dr. Von's Monster;
+Bunyip's Rage;
+Headless Horseman;
+Stormzilla;
+Empower;
+
+| quests =
+Bogus Pocus;
+
+| gold =
+45;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+Chilling Abomination Ring;
+Doomed Abomination Ring;
+Mythic Abomination Ring;
+Sanguine Abomination Ring;
+Scary Abomination Ring;
+Scholomantic Death Ring;
+Scholomantic Destructive Ring;
+Scholomantic Devilish Ring;
+Scholomantic Fortune Ring;
+Scholomantic Justice Ring;
+Scholomantic Strength Ring;
+Scholomantic Worldly Ring;
+Shocking Abomination Ring;
+Tense Abomination Ring;
+
+| wands =
+
+| decks =
+
+| items =
+Legendary Socket Wrench*F2;
+
+| cards =
+
+| reagents =
+Outsider Relic;
+Outsider Relic @ 2 Outsider Relic;
+
+| spellements =
+Ammut;
+Anubis;
+Barbarian's Saga;
+Bunyip's Rage;
+Count Croakula;
+Dark & Stormy;
+Deathly Depths;
+Freeze Ray;
+Gravestorm;
+Heqet;
+Lord of the Jungle;
+Mortality;
+Old One's Endgame;
+Phantasmania!;
+Scales of Destiny;
+Shu;
+Starspawn;
+The Chariot;
+Tree of Strife;
+Wheel of Fortune;
+Wobbegong Frenzy;
+
+| snacks =
+
+| jewels =
+
+| pins =
+Balance Mending Pin (180);
+Balance Resist Pin (140, Myth);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

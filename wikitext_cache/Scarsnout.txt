@@ -1,0 +1,174 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,080
+| crecla = Boar
+| crecla2 = Pig
+| school = Myth
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Splithoof Bloodguard;
+
+| world = Grizzleheim
+| location = Frostholm
+| subloc1 = 
+| descrip =
+Scarsnout is the dim and short-tempered leader of a group of Boars that has allied with Red Claw.  While working to be allowed to see Ivar Andersson, Wizards are sent by {{Link|NPC|Gunnar Quickaxe}} to present to Scarsnout a set of golden arm bands, meant to symbolize that the Red Claw views Scarsnout and his boars as equals.  {{Link|NPC|Ulric Oathbreaker}}, an inside-Bear who is helping Wizards sabotage the Red Claw, devises a plan to instead give Scarsnout a flask of blueberry juice, knowing that he will take it as a serious insult.  Ulric's plan is successful, prompting Scarsnout to attack Wizards in protest.
+
+Two additional Splithoof Bloodguards will appear if more than two Wizards are present.  These additional Splithoof Bloodguards will already be wandering the area prior to talking to {{Link|NPC|Scarsnout}} and can be defeated before having to duel him.
+
+| speech =
+:''"Hruh... Scarsnout happy to join Red Claw... ... Gunnar say he give us gift to show respect. You bring gift? What this? Blue juice for cranky tummy?!? This drink for cub, not warrior! Gunnar insult us?! He think boars are cranky cubs?! Scarsnout send message back to Gunnar... he start by smashing you!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+Dislikes blueberry juice. Will take gifts of said juice as a grievous insult.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Storm Shield;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Fire Elf (50+210);
+Ash Bats;
+Sunbird;
+Storm Shark;
+Ghoul;
+Natural Attack (Death 85x);
+
+| quests =
+Acting Boarish;
+
+| gold =
+49 - 99;
+
+| hats =
+Circlet of Fortune*F2*WMV;
+Crown of Achievement;
+Firekeeper's Mantle;
+Hat of Consequence;
+Headgear of the Haze*F2*WMV;
+Helm of Determination;
+Lifewarden's Veil;
+Smoldering Hood*F14*WMV;
+
+| robes =
+Coat of Forethought;
+Glacial Longcoat*F2*WMV;
+Igneous Robe;
+Jerkin of Brio;
+Raiment of the Lifespring*F2*WMV;
+Robe of the Eradicator*F10*WMV;
+Tunic of Quietus;
+Vestment of Serenity*F2*WMV;
+Vestment of Yesteryear;
+Winterwear Wrap;
+
+| boots =
+Boots of the Cascade*F14*WMV;
+Footguards of Consideration;
+
+| athames =
+Icicle Blade*F10*WMV;
+
+| amulets =
+
+| rings =
+Band of the Winterhawk*F9*WMV;
+Rejuvenating Circlet;
+Seal of the Tundra;
+Signet of Brio*F15*WMV;
+Stone of Confidence*F2*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Barbaric Throne;
+Log;
+
+| cards =
+Fire Trap*F2*WMV;
+Ice Wyvern;
+Sandstorm;
+Sniper;
+
+| reagents =
+Bone*F7*WMV;
+Copper*F4*WMV;
+Iron*F7*WMV;
+Nickel*F3*WMV;
+Pyrite*F5*WMV;
+
+| spellements =
+
+| snacks =
+Cherry Pie*F2*WMV;
+Cracker*F4*WMV;
+Funnel Cake*F4*WMV;
+Glowing Rock Candy*F4*WMV;
+Green Grapes*F3*WMV;
+Ice Cream;
+Meat Soup*F7*WMV;
+PBJ Sandwich*F4*WMV;
+Tasty Biscuit*F3*WMV;
+
+| jewels =
+Blood Bat Peridot;
+Chipped Health Opal +18;
+Chipped PIP Opal +1%;
+Cracked Defense Amethyst +12;
+Cracked Defense Jade +9;
+Cracked Defense Jade +12*F2*WMV;
+Cracked Defense Ruby +12;
+
+| pins = 
+
+| pets =
+
+| seeds =
+Couch Potatoes*CR*F2*WMV;
+Dandelion*F4*WMV;
+Laugh-O-Dil*F5*WMV;
+Stinkweed*F5*WMV;
+
+| mounts =
+
+| spells =
+
+}}

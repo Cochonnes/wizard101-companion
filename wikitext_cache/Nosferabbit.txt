@@ -1,0 +1,192 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 590
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| randomminions =
+Veggie Revanant (Balance);
+Veggie Revanant (Death);
+Veggie Revanant (Fire);
+Veggie Revanant (Ice);
+Veggie Revanant (Life);
+
+| totalminions = 3
+| world = Wizard City
+| location = Haunted Cave
+| subloc1 = Mysterious Cave (Wizard City)
+| descrip =
+During {{Link|Basic|Hallowe'en}}, this evil Vampire Hare is the root of all the problems in the Mysterious Cave.   Each poor vegetable he bites turns into a terrifying undead monster.<br/>His Minions will always be a random combination of the Veggie Revanants.
+
+| speech =
+:''"Blaah! I'm normally a strict vegetarian, but I suddenly feel the need to broaden my palette. Blaah!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+Sinister and calculating, Hallowe'en conjures him. Watch out for his bite!
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Death Trap;
+Dark Sprite;
+Natural Attack (Death 85-180);
+Frost Beetle;
+Snow Serpent;
+Fire Cat;
+Fire Elf (50+210);
+
+| quests =
+Down the Rabbit Hole;
+
+| gold =
+21 - 32;
+
+| hats =
+Hallowe'en Hat*CR*HOL*F2;
+Vampire Costume Wig*CR*HOL;
+
+| robes =
+Hallowe'en Robe*CR*HOL;
+Novitiate Robe;
+
+| boots =
+Hallowe'en Shoes*CR*HOL;
+Mummy Costume Footwraps*CR*HOL;
+Ninja Pig Shoes*CR*HOL;
+Vampire Costume Boots*CR*HOL;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Baby Sunbird*F2;
+Dragonflies;
+Fire Elf;
+Flood*F3;
+Flute Symphony;
+Ghoul;
+Guiding Light*F2;
+Massive Pest Zapper*F4*WMV;
+Miniature Bloodbats*F3*WMV;
+Pest Zapper*F2;
+Pixie;
+Pungent Bug Spray*F2*WMV;
+Putrid Bug Spray*F2;
+Snow Serpent;
+Supreme Sunburst;
+Time of Legend;
+Uncanny Magic;
+Zounds...Bees!*F5*WMV;
+
+| reagents =
+Ectoplasm*F9*WMV;
+Leather Straps*F6;
+Pyrite*F5;
+Spider Silk*F3;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry;
+Carrot*F2;
+Cheese Broccoli*F2;
+Evil Carrot*F2*WMV;
+Flaming Carrot;
+Green Banana*F2;
+Harvest Corn*F3*WMV;
+Squash;
+Wild Strawberry;
+
+| jewels =
+Cracked Accurate Amethyst +1%;
+Cracked Accurate Jade +1%;
+Cracked Accurate Onyx +1%;
+Cracked Defense Citrine +4;
+Cracked Defense Jade +4;
+Cracked Defense Onyx +4;
+Cracked Defense Peridot +5;
+Cracked Defense Sapphire +4;
+Cracked Healing Opal +1%;
+Cracked Health Opal +6*F2;
+Cracked Health Opal +9;
+Cracked Mana Opal +4;
+Cracked Mana Opal +5;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots*F12*WMV;
+Dead Beets (Seed)*F8*WMV;
+Desparagus (Seed)*F5*WMV;
+Evil Snow Peas*F8*WMV;
+Venus Fly Trap*F11*WMV;
+
+| mounts =
+Ancient Koi;
+Ankylosaurus;
+Bat Wings;
+Chestnut Pony;
+Dark Redwing;
+Enchanted Broom;
+Grey Warg;
+Hippogriff;
+Jaguar;
+Manta Ray;
+Seraph Wings;
+Skyracer Pegasus;
+Snow Ram;
+Swift Gryphon;
+Triceratops;
+
+| spells =
+
+}}

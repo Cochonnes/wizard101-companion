@@ -1,0 +1,177 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 19,660
+| crecla = Krokotopian
+| school = Ice
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical =
+465;
+
+| criticalblock =
+654 Any;
+
+| outpierce =
+22%;
+
+| outboost =
+115%;
+
+| incboost =
+30% Fire;
+
+| incresist =
+42% Storm, Myth, Life, Death, Balance, Sun, Shadow;
+72% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Mander Adherent;
+
+| world = Krokotopia
+| location = Underground Market
+| subloc1 = Shrine of Marcus
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:'''Mander Adherent''': ''"You dare enter this sanctum and besmirch the name of the one true Sky Thing! Let Marcus hurl his wrath upon you!"''
+:'''Marcus''': ''"*Gurgle*"''
+:'''Bit Player''': ''"I've told you a thousand times, it is not the one true Sky Thing. I mean, LOOK at it!"''
+:'''Marcus''': ''"*Gurgle*"''
+:'''Bit Player''': ''"It's just a misfire of Myth and Moon magic, a crossed signal. You shouldn't follow it. You should release it."''
+:'''Mander Adherent''': ''"Nay! We shall release you in the name of the Comet that Prances!"''
+
+| cheatnotes = 
+*{{Icon|Round}} ''"WOOF! Let's play!"'' - Marcus will say this at the beginning of the first Round.
+*{{Icon|Blade}}{{Icon|Global}}{{Icon|Trap}} ''"Fetchy-Fetchy!''" - If a Wizard casts a Blade, Global, or Trap, Marcus will cast a version of {{Link|Spell|Frozen Armor}} on himself that absorbs 800 Damage.
+**''"Zoomies!"'' - If there are 3 or more helpful Wards on Marcus at the end of a Round, he will cast a protected Iceblade (+40%) on himself.
+*{{Icon|Damage}} ''"SQUIRREL!"'' - If Marcus is damaged by {{Link|Spell|Ratatoskr's Spin}}, he will cast {{Link|Spell|Freeze}} on himself.
+
+| spellnotes =
+
+| casts =
+Volcanic Shield;
+Iceblade (+40%);
+Balefrost;
+Icebird (270);
+Frostfeather;
+Raging Kraken (Ice);
+Ice Helephant;
+Tundra Lord;
+
+| quests =
+Marcus the One True Sky Thing;
+
+| gold =
+24 - 28;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Manifest Blade of Bad Blood;
+Manifest Blade of Payback;
+Manifest Blade of Reprisal;
+Manifest Blade of Revenge;
+Manifest Blade of Vengeance;
+
+| amulets =
+
+| rings =
+Manifest Seal of Bad Blood;
+Manifest Seal of Reprisal;
+Manifest Seal of Vengeance;
+Manifest Seal of Wrath;
+
+| wands =
+
+| decks =
+
+| items =
+Selenopolis Combat Theme;
+Selenopolis Forgotten Combat Theme;
+Selenopolis Forgotten Theme;
+Selenopolis Garden Theme;
+Selenopolis Zig Zag Market Theme;
+
+| cards =
+Elemental Blade;
+Fire Trap;
+Harmattan Maxios;
+Hex;
+Lifeblade;
+Raging Bull;
+Reshuffle;
+Snowball Barrage;
+
+| reagents =
+Brass;
+Cobalt;
+
+| spellements =
+Ammut;
+Anubis;
+Barbarian's Saga;
+Blast Off!;
+Bunyip's Rage;
+Chameleon Clash;
+Count Croakula;
+Dark & Stormy;
+Drop Bear Fury;
+Glimpse of Infinity;
+Gravestorm;
+Grim Reader;
+Freeze Ray*F2;
+Lord of the Jungle;
+Mockenspiel;
+Phantasmania!;
+Rainbow Serpent;
+Snack Attack;
+Shatterhorn*F2;
+Shu;
+Starspawn*F2;
+Taweret;
+Thoth*F2;
+Wobbegong Frenzy;
+Zand the Bandit*F2;
+
+| snacks =
+Kountry-Krok Butter;
+Krokodill Pickles;
+Spicy Bubblegum;
+
+| jewels =
+Amazing Defense Ruby +63;
+Flawless Blocking Onyx +23;
+Flawless Defense Peridot +68;
+Life Accurate Pin (100);
+
+| pins =
+Balance Accurate Pin (100);
+Balance Conversion Pin (150);
+Death Conversion Pin (150);
+Fire Conversion Pin (160);
+Myth Conversion Pin (150)*F2;
+Storm Conversion Pin (150);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

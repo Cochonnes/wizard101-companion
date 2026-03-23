@@ -1,0 +1,156 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 2,140
+| crecla = Krokotopian 
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+45%;
+
+| incboost =
+15% Fire;
+
+| incresist =
+50% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Doomsday Krok Gauntlet
+| subloc1 = Doomsday Krok Gauntlet (Tier 1)
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Tower Shield;
+Weakness;
+Black Mantle;
+Iceblade;
+Ice Trap (+35%);
+Ice Elf (50+210);
+Evil Snowman;
+Snow Shark;
+Blizzard;
+Krokhotep;
+
+| quests =
+Doomsday Krok;
+
+| gold =
+1,000;
+
+| hats =
+Apophis' Khepresh (Any Level)*CR;
+Apophis' Khepresh (Level 10+)*CR;
+Apophis' Khepresh (Level 20+)*CR;
+Setesh's Khepresh (Any Level)*CR;
+Setesh's Khepresh (Level 10+)*CR;
+Setesh's Khepresh (Level 20+)*CR;
+Sokar's Khepresh (Level 20+)*CR;
+
+| robes =
+Apophis' Raiment (Any Level)*CR;
+Apophis' Raiment (Level 10+)*CR;
+Sokar's Raiment (Any Level)*CR;
+
+| boots =
+Apophis' Boots (Any Level)*CR;
+Apophis' Boots (Level 10+)*CR;
+Setesh's Boots (Any Level)*CR;
+Setesh's Boots (Level 10+)*CR;
+Setesh's Boots (Level 20+)*CR;
+Sokar's Boots (Level 10+)*CR;
+Sokar's Boots (Level 20+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Apophis' Javelin (Level 20+)*CR;
+Sokar's Javelin (Any Level)*CR;
+
+| decks =
+
+| items =
+Doohickey;
+Krok Statue Flex;
+Krok Statue Thumbs Up*F2;
+Krokotopian Bridge;
+Krokotopian Obelisk;
+Krokotopian Pillar;
+Mini Pyramid;
+Novice's Socket Wrench*F2;
+
+| cards =
+
+| reagents =
+Amber Dust*F5;
+Bone*F3;
+Diamond*F2*WMV;
+Elemental Retriever;
+Leather Straps*F3;
+Scales;
+Smoke Screen Token*F3;
+Spiritual Retriever*F4;
+Sunstone;
+
+| spellements =
+
+| snacks =
+Ancient Date;
+Black Sun Seeds;
+Cactus Fruit;
+Gator Tots;
+Loco Nut;
+Medium Fish;
+Prickly Bear Punch*F2;
+Raising Bran Cereal*F2*WMV;
+Sandy Corn*F2;
+Square Root;
+
+| jewels =
+Cracked Damage Opal +2*F2;
+Cracked Health Opal +7;
+Cracked Mana Opal +5;
+
+| pins =
+
+| pets =
+Apophis' Scarab;
+Setesh's Scarab;
+Sokar's Scarab;
+
+| seeds =
+
+| mounts =
+Apophis' Krokosphinx*7*CR*F2;
+Roc*CR*F2;
+Setesh's Krokosphinx*7*CR;
+Sokar's Krokosphinx*7*CR;
+
+| spells =
+
+| elixirs =
+Major Gold Elixir;
+
+}}

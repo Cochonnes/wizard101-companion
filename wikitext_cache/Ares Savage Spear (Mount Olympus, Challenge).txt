@@ -1,0 +1,125 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 2,680
+| crecla = Eagle
+| school = Fire
+| school2 = Death
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+3%;
+
+| outboost =
+40%;
+
+| incboost =
+14% Storm, Life;
+
+| incresist =
+6% Fire, Death, Balance, Shadow;
+26% Ice, Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Ophidian Archer (Challenge);
+Ophidian Archer (Challenge);
+Ophidian Archer (Challenge);
+
+| world = Wizard City
+| location = Mount Olympus (Challenge)
+| subloc1 = Hall of Battle (Challenge)
+| descrip =
+Ares must be defeated in order to obtain a weapon powerful enough to fight the last Boss on Mount Olympus, [[Creature:Zeus Sky Father (Mount Olympus, Challenge)|Zeus Sky Father]].
+*The {{Link|Item|Sky Iron Hasta}} is obtained after defeating Ares, as explained by Hephaesteus Coppersmith, ''"[[:File:(Quest) Wisdom and Grace Dialogue 36.png|Duel Ares Savage Spear and take the Sky Iron Hasta from him.  Good luck, Wizard.]]"''
+*For the Standard version of this Creature, see {{Link|Creature|Ares Savage Spear (Mount Olympus)}}.
+
+| speech =
+:''"Little barbarian Wizard, you do not have the heart of a warrior. Your spells will do you no good. Come, taste iron and blood! Do no waste your puny spells on me, for I will trade you strike for strike!"''
+
+| cheatnotes =
+*{{Icon|Round}} At the beginning of the first Round, and any Round that he does not have an Aura, Ares will cast {{Link|Spell|Amplify}} on himself.
+*{{Icon|Jinx}} ''"Your underhanded tactics are unbefitting"'' - Whenever a Wizard casts a harmful Ward on Ares, Ares will cast {{Link|Spell|Immolate}} on the caster.
+*{{Icon|Ward}} ''"Breach their wards!"'' - Whenever a Wizard casts a helpful Ward, Ares will cast {{Link|Spell|Fire Elf}} on the recipient.
+*{{Icon|Damage}} ''"You Dare Strike Me Directly?"'' - If a Wizard attacks Ares with a single-target Damage Spell, he will cast a 0-Pip version of his Natural Attack.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Plague;
+Fireblade;
+Dark Tribute;
+Fire Trap;
+Death Trap; 
+Wyldfire;
+Natural Attack (Ares);
+Immolate; 
+Ghoul;
+
+| quests =
+Wisdom and Grace;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic: Aquila Badges|Swole Like Sisyphus]]''' {{Icon|Swole Like Sisyphus}} Badge, the following drops will be available:
+*{{Icon|Spellement}} 4 Aquila Spellements will drop each time from '''any''' School
+
+| gold =
+38;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

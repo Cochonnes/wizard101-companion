@@ -1,0 +1,228 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 13,600
+| crecla = Elemental
+| school = Ice
+| startpips = 5
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Fierce Quetzal;
+
+| world = Azteca
+| location = Saltmeadow Swamp
+| subloc1 = Home of the Hielo Spirit
+| descrip =
+
+| speech =
+:''"I'll reach into your lungs and freeze your breath away!"''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Vengeance;
+Tower Shield;
+Iceblade;
+Ice Trap;
+Freeze;
+Balefrost;
+Natural Attack (Ice 165-330-495);
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Frostbite;
+Icezilla (650-730);
+Colossus;
+Frost Giant;
+Snow Angel;
+Woolly Mammoth;
+
+| quests =
+Secret of the Winds;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge and has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge, the following drops will be available:
+*6 Spellements will drop each time from '''any''' School for their respective rank 6-10 Spells.
+
+| gold =
+109 - 185;
+
+| hats =
+
+| robes =
+Black Tears of the Sky Drape*F2;
+Dawn Hour Xicolli Vest;
+Elite Jura Guard Garb*F4*WMV;
+Five Fangs of Fury Scales;
+Glorious Xicolli Vest;
+High Chac's Guarded Armor;
+Indigo Wing Raiment;
+Song of the Lizard Coat;
+Thirteen Death Robe;
+Tree of Secrets Chac Armor;
+Vestment of the Calavera;
+
+| boots =
+
+| athames =
+Stone Quetzal's Tooth*F2*WMV;
+Zero Hour Eagle Talon;
+
+| amulets =
+Amulet of the Third Sun*F2;
+Children of the Sea Medallion*F2;
+Tears of the Sky Jade Charm;
+
+| rings =
+Chac's Challenge Loop*F3*WMV;
+Seal of Thunder Horn's Glory*F2*WMV;
+Smoking Mirror's War Ring*F3*WMV;
+Storm Quetzal's Signet;
+Twin Giants Fashioned Stone;
+Twisting Season Ring*F3*WMV;
+Underworld Stone;
+
+| wands =
+Green Standard of Mother Moon;
+Twin Kings' Serpent Standard;
+
+| decks =
+Codex of the Lost Fire*F2*WMV;
+Storm Sun Gallery*F2*WMV;
+Winter's Pyramid Deck;
+
+| items =
+Azteca Apocalypse Theme*F2;
+Azteca Main Theme;
+Hollow Log*F2;
+Sparse Frond*F3*WMV;
+Starburst Frond;
+
+| cards =
+Amplify;
+Fire Dragon;
+Fortify;
+Mend;
+Ra;
+Rebirth;
+Vengeance;
+
+| reagents =
+Black Lotus*F2;
+Blood Moss;
+Bone*F3*WMV;
+Bronze;
+Bronze Gear*F2*WMV;
+Deep Mushroom;
+Fire Blossom*F2*WMV;
+Fossil;
+Golden Pearl;
+Lava Lily*F3*WMV;
+Mist Wood*F3*WMV;
+Nightshade*F3*WMV;
+Ore*F3;
+Red Mandrake*F5*WMV;
+Stone Block*F2;
+Sunstone*F2;
+Tungsten*F2;
+Turquoise*F3;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Centaur*BR;
+Chimera*BR;
+Colossus*BR;
+Dr. Von's Monster*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+Helephant*BR;
+Hydra*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*BR*F2;
+Orthrus*BR*F2;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR*F2;
+Skeletal Dragon*BR;
+Snow Angel*BR*F2;
+Spinysaur*BR;
+Stone Colossus*BR;
+Storm Lord*BR*F2;
+Storm Owl*BR;
+Sun Serpent*BR;
+Triton*BR;
+Woolly Mammoth*BR*F2;
+Wraith*BR;
+
+| snacks =
+Avocado Milkshake;
+Buttered Bread;
+Cactus Fruit*F2;
+Caramel Apple;
+Chapulines;
+Fern Jelly;
+Kola Nuts*F2*WMV;
+Pyramints;
+Roasted Chickpeas;
+Tamales*F2;
+Treant Bark;
+
+| jewels =
+Clear Accurate Onyx +9%;
+Clear Damage Amethyst +20;
+Ice-Shot Sapphire;
+Mega-Upset Opal;
+Opaque Accurate Opal +4%;
+Polished Blocking Jade +12;
+Polished Blocking Sapphire +12;
+Polished Defense Amethyst +41;
+Polished Defense Sapphire +41;
+Ultra Boost Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Fiery Boom Shroom*F3*WMV;
+Fish on a Vine;
+
+| mounts =
+
+| spells =
+
+}}

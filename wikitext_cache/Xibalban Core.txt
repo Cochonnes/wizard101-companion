@@ -1,0 +1,100 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 7,450
+| crecla = Elemental
+| school = Ice
+| startpips = 4
+| powerpips = Yes
+| schoolpips =
+Balance;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+36%;
+
+| incboost =
+None;
+
+| incresist =
+30% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Aztecan Conscript (Ice);
+
+| world = Azteca
+| location = Twin Giants
+| subloc1 = Xibalban Nightmare
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Amplify;
+Tower Shield;
+Balanceblade;
+Feral Pounce;
+Ninja Piglets (Tier 2b);
+Samoorai (Tier 2c);
+Savage Paw (Tier 2c);
+Chimera (Tier 2a);
+Sabertooth (Tier 2a);
+
+| quests =
+Smoked Wing-Tooth;
+It Eats Your Mind;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

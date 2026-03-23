@@ -1,0 +1,234 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 25
+| heal = 20,000
+| crecla = Vampire
+| crecla2 = Undead
+| school = Death
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+510 Any;
+
+| criticalblock =
+191 Any;
+
+| outpierce =
+17%;
+
+| outboost =
+113%;
+
+| incboost =
+30% Life;
+
+| incresist =
+37% Fire, Ice, Storm, Myth, Balance, Sun, Moon, Star, Shadow;
+67% Death;
+
+| outhealing =
+11%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Ascended Guard;
+Ascended Guard;
+Ascended Guard;
+
+| world = Darkmoor
+| location = Mortal Plain
+| subloc1 = Castle Strigoi (Standard)
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Darkmoor
+| tome description =
+Some say he is still chained in his coffin, buried under a ruined castle, screaming to be freed. Those people are real downers.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| can expel = No
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes = 
+*{{Icon|Minion}} ''"They... ascended"'' - At the beginning of Round 1, Strigoi will summon 3 Ascended Guards.
+*{{Icon|Manipulation}} ''"I told you child... I protect you from the dangers beyond"'' - At the beginning of the round, Count Strigoi will cast Confusion on on a random wizard and heal himself for 6600 HP.
+*{{Icon|Afterlife}} ''"And now my hunger returns!"'' - When {{Link|Creature|Ascended Guard}} dies, Strigoi will cast {{Link|Spell|Sacrifice}} to revive them with 20% of their max HP at the cost of 2000 of his HP. If multiple Ascended Guards are defeated in 1 spell, he will cast Sacrifice multiple times. 
+*{{Icon|Damage}} ''"We turn our pain into the master's boon!"'' - When {{Link|Creature|Ascended Guard}} is hit with an attack, if they are not defeated, they will heal Count Strigoi for 5000 HP.
+*{{Icon|Health}} ''"Eh, I'm feeling a little overstuffed"'' - Count Strigoi will say this when he is at full HP at the start of a turn, allowing the Wizards to defeat him.
+*{{Icon|Health}} ''"The only thing I feel is hunger pangs!"'' - Count Strigoi will say this when he is not at full HP at the start of a turn. Defeating him in this state will result in him casting Scarecrow and reviving.
+*{{Icon|Steal}} ''"Are you alone? Let me fix that!"'' - If Count Strigoi is not defeated from full HP in a single attack, he will cast Scarecrow and revive himself.
+*{{Icon|Steal}} ''"You don't drain us, we drain you!"'' - If either Count Strigoi or an Ascended Guard is hit with a Drain spell, the enemy that was hit will cheat-cast one of the following spells on himself:
+** If he is not defeated by the attack, he will cast an {{Link|Spell|Aegis}}-protected +100% {{Link|Spell|Balanceblade}} on himself.
+** If he is defeated by the attack, he will cast a version of {{Link|Spell|Minor Blessing}} on himself that heals for 100% of his max health.
+*{{Icon|Spell}} ''"Is that the sun?!"'' - If either Count Strigoi or an Ascended Guard is hit by a spell with a sun in it (such as {{Link|Spell|Sun Serpent}}, {{Link|Spell|Ra}}, or {{Link|Spell|Climaclysm}}) and are not defeated by it, they will cast a protected universal dispel on themself.
+
+| spellnotes =
+
+| casts =
+Frenzy;
+Dragonblade;
+Steal Pip;
+Dark Tribute;
+Wraith;
+Scarecrow;
+Dr. Von's Monster;
+Scion of Death;
+
+| quests =
+The Quarrel Plain;
+Task of the Red Death;
+
+| gold =
+21-50;
+
+| hats =
+
+| robes =
+
+| boots =
+Broken Branch Loss Walkers;
+Broken Branch Luckless Walkers;
+Broken Branch Neglect Walkers;
+Broken Branch Panic Walkers;
+Broken Branch Rage Walkers;
+Broken Branch Sorrow Walkers;
+Broken Branch Terror Walkers;
+Walkers of False Promises;
+Walkers of the Burnt Forest;
+Walkers of the Changing Tide;
+Walkers of the Coldhearted;
+Walkers of the Doomed;
+Walkers of the Living Lie;
+Walkers of the Turning Wheel;
+
+| athames =
+
+| amulets =
+Amulet of False Promises;
+Amulet of the Burnt Forest;
+Amulet of the Changing Tide;
+Amulet of the Coldhearted;
+Amulet of the Doomed;
+Amulet of the Living Lie;
+Amulet of the Turning Wheel;
+Broken Branch Loss Amulet;
+Broken Branch Luckless Amulet;
+Broken Branch Neglect Amulet;
+Broken Branch Panic Amulet;
+Broken Branch Rage Amulet;
+Broken Branch Sorrow Amulet;
+Broken Branch Terror Amulet;
+
+| rings =
+
+| wands =
+Broken Branch Loss Scepter;
+Broken Branch Luckless Scepter;
+Broken Branch Neglect Scepter;
+Broken Branch Panic Scepter;
+Broken Branch Rage Scepter;
+Broken Branch Sorrow Scepter;
+Broken Branch Terror Scepter;
+Scepter of False Promises;
+Scepter of the Burnt Forest;
+Scepter of the Changing Tide;
+Scepter of the Coldhearted;
+Scepter of the Doomed;
+Scepter of the Living Lie;
+Scepter of the Turning Wheel;
+
+| decks =
+
+| items =
+
+| cards =
+Arcticzilla;
+Ashen Bones;
+Boreas Ifrit;
+Deadly Minotaur;
+Lord of the Squall;
+Rusalka's Wrath;
+Sirocco Djinni;
+Snowball Barrage;
+Winged Sorrow;
+
+| reagents =
+
+| spellements =
+Ammut;
+Anubis;
+Barbarian's Saga;
+Blast Off!;
+Bunyip's Rage;
+Chameleon Clash;
+Count Croakula;
+Dark & Stormy;
+Deathly Depths;
+Drop Bear Fury;
+Freeze Ray;
+Grim Reader;
+Heqet;
+Improbable Gaze;
+Lord of the Jungle;
+Old One's Endgame;
+Phantasmania!;
+Rainbow Serpent;
+Scales of Destiny;
+Shu;
+Starspawn;
+Taweret;
+The Chariot;
+The Emperor;
+The Tower;
+The World;
+Thoth;
+Tree of Strife;
+Zand the Bandit;
+
+| snacks =
+
+| jewels =
+Death Trap Onyx (Tear);
+Fire Trap Ruby;
+Flawless Accurate Peridot +16%;
+Flawless Accurate Ruby +16%;
+Flawless Mana Opal +63;
+Lustrous PIP Opal +10%;
+Storm Trap Amethyst;
+Unearthly Archmastery Opal +45;
+Unearthly Conversion Jade +62;
+
+| pins =
+Balance Blocking Pin (150, Ice);
+Balance Resist Pin (140, Ice);
+Ice Resist Pin (140, Fire);
+Life Blocking Pin (150, Death);
+Storm Mending Pin (150);
+Storm Resist Pin (130, Death);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

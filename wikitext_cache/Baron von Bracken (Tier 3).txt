@@ -1,0 +1,170 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 1,000,000
+| crecla = Plant
+| school = Death
+| masteries =
+Ice;
+Balance;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+19%;
+
+| outboost =
+150%;
+
+| incboost =
+15% Life;
+
+| incresist =
+65% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Nettle Soldier (Tier 3);
+Nettle Soldier (Tier 3);
+Nettle Soldier (Tier 3);
+
+| world = Wysteria
+| location = Tanglewood Way
+| subloc1 = Von Bracken's Grove
+| badge = Bracken Clearer
+| descrip =
+Baron von Bracken (Tier 3) is a unique Boss who drops Gear and Spellements from the {{Link|Item|Wysteria Spellemental Pack}}.
+*This Tier is for level 51-109 Wizards.
+
+| speech =
+:''"Who dares venture encroach upon the domain of Baron von Bracken, Lord Protector of the Underbrush? A Wizard? Hrmph. Step forth and be overtaken."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wysteria
+| tome description =
+He's a Thing with the power of Swamps, like some sort of... Thing-Swamp.
+
+| extract class =
+Treant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Death}} ''"Feel the sting of my nettles!"'' - If a Feint is cast on Baron von Bracken, he'll cast a Natural Attack dealing 420 Death Damage on the Wizard.
+*{{Icon|Heal}} ''"Nature Will Always Find a Way!"'' - If a Wizard casts a Damage or Steal Spell on Baron von Bracken that deals less than 50% of the Boss's Max Health (< 500,000), he will cast a Moon version of Blessing, restoring 100% of his max Health, and use a Shadow version of Triage on himself.
+**Casting a Damage over Time Spell without the initial hit, such as {{Link|Spell|Scald}}, will trigger this cheat.
+**''"Curses!"'' - This cheat will not trigger if the Damage Spell deals more than 50% of the Boss's Max Health (> 500,000).
+
+| spellnotes =
+
+| casts =
+Deathspear (+10%);
+Deathblade (+40%);
+Spirit Blade;
+Dragonlance;
+Feint (All Enemies);
+Donate Shadow (0 Shadow Pip);
+Call of Khrulhu;
+Scarecrow;
+Dr. Von's Monster;
+Angry Snowpig (Tier 3a);
+
+| quests =
+
+| dropnotes =
+When the Wizard is outside of the Level requirements, a single Participation Trophy is the only drop given.
+
+| gold =
+
+| hats =
+Wysteria Warrior's Helmet (Level 100+)*CR;
+Wysteria Warrior's Warhelm (Level 90+)*CR;
+Wysteria Warrior's Warhelm (Level 100+)*CR;
+
+| robes =
+Wysteria Warrior's Armor (Level 100+)*CR;
+Wysteria Warrior's Plate (Level 100+)*CR;
+
+| boots =
+Wysteria Warrior's Boots (Level 100+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Wysteria Warrior's Claymore (Level 100+)*CR;
+
+| decks =
+
+| items =
+Elephantine Ottoman;
+Estate Painting;
+Pigswick Student's Seat;
+Short Wysterian Potted Fern;
+Spiral Tree;
+Stately Wysterian Wooden Desk;
+Stone Skeleton Key;
+Wysteria Cupboard;
+Wysteria Main Theme;
+Wysteria Throw Rug;
+Wysteria Towel Rack;
+Wysterian Artist's Easel;
+
+| cards =
+Angry Snowpig;
+Azoth;
+Ninja Piglets;
+Pigsie;
+
+
+| reagents =
+Draconium;
+Orichalcum;
+Participation Trophy;
+
+| spellements =
+Angry Snowpig;
+Ninja Piglets;
+Pigsie;
+
+| snacks =
+
+| jewels =
+Polished Critical Amethyst +12;
+Polished Damage Citrine +22;
+Polished Damage Ruby +22;
+
+| pins =
+
+| pets =
+Greenman Sapling;
+Ninja Piggle;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

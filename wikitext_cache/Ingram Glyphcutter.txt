@@ -1,0 +1,145 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,600
+| crecla = Raven
+| school = Balance
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+17% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Winterwing Darktalon;
+
+| world = Grizzleheim
+| location = Ravenscar
+| subloc1 = Ingram's Abode
+| descrip =
+*An additional Winterwing Darktalon and {{Link|Creature|Winterwing Battler}} will appear if more than two Wizards are present.
+
+| speech =
+:''"What are you doing? Get out of here!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Weakness;
+Balanceblade;
+Hex;
+Scarab;
+Scorpion;
+Locust Swarm;
+Sandstorm;
+Judgement;
+Evil Snowman;
+Vampire;
+Minotaur;
+
+| quests =
+Bustin' Loose;
+
+| gold =
+77 - 104;
+
+| hats =
+Coif of the Antithesis;
+Crown of the Floes*F3*WMV;
+Crypt Shroud*F4;
+Frost-peaked Cap;
+Insulated Helm;
+Vigorous Hood;
+
+| robes =
+Drape of the Deep Blue Sea;
+Jerkin of the Seer*F2*WMV;
+Longcoat of the Ice Floes;
+Winterweave Coat;
+
+| boots =
+Footguards of the Thicket*F5*WMV;
+Long Walkers*F2;
+Refulgent Footwear*F2;
+Sandals of the Shibboleth;
+
+| athames =
+Bodkin of Battlefrenzy;
+Cloud Cutter*F3*WMV;
+
+| amulets =
+
+| rings =
+Band of Equanimity*F6*WMV;
+Band of the Snow Owl;
+
+| wands =
+
+| decks =
+
+| items =
+Jar of Bat Wings*F4;
+
+| cards =
+Earthquake;
+Reshuffle;
+
+| reagents =
+Cobalt*F2;
+Copper;
+Leather Straps*F3*WMV;
+Pyrite;
+Spider Silk*F2;
+
+| spellements =
+
+| snacks =
+Fairy Cake*F2;
+Glowing Rock Candy;
+Golden Apple*F3*WMV;
+Golden Biscuit;
+Huge Ice Cream;
+Moon Pie*F3;
+Rock Candy;
+
+| jewels =
+Chipped Accurate Citrine +3%;
+Chipped Accurate Ruby +3%;
+Cracked Damage Amethyst +5;
+Cracked Defense Ruby +11;
+Doom and Gloom Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+Evil Snow Peas*F2*WMV;
+Orange Dandelion;
+Pink Laugh-O-Dil*F2;
+
+| mounts =
+
+| spells =
+
+}}

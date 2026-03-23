@@ -1,0 +1,106 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 18,725
+| crecla = Golden Horde Soldier
+| crecla2 = Horse
+| school = Balance
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Ice;
+Life;
+
+| critical =
+68 Any;
+
+| criticalblock =
+602 Any;
+
+| outpierce =
+19%;
+
+| outboost =
+91%;
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+42% Fire, Ice, Storm, Sun, Moon, Star, Shadow;
+72% Balance;
+
+| outhealing =
+43%;
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Tyrant's Ego;
+
+| world = MooShu
+| location = Catmandu
+| subloc1 = Yurt of Oppression
+| descrip =
+
+| speech =
+Have you come to worship me, little flesh thing? You should, for I am glory, I am greatness, I am golden, and all exist to bask in my glimmer. Tung-Ak, was I once Tung-Ak? Perhaps. But he was a mortal thing, a squishy thing, I am everything he wished to achieve, his great aspiration. I am the living soul on conquest and hall shall be crushed 'neath my golden iron fist.
+
+| spellnotes =
+
+| casts =
+Magnify;
+Balanceblade;
+Mass Hex;
+Scales of Destiny (Tier 2b);
+Sandstorm (Tier 2a);
+Spinning Scythe;
+Nested Fury (Tier 2a);
+Chimera (Tier 2a);
+
+| quests =
+The Emperor Strikes Back;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

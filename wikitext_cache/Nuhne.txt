@@ -1,0 +1,148 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 11,600
+| crecla = Alphoi
+| school = Fire
+| shadowslots = 2
+| startpips = 3 
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+7%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Ice;
+
+| incresist =
+30% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Empyrea
+| location = Zanadu
+| subloc1 = Nuhne's House
+| descrip =
+
+| speech =
+:''"BILLS?  I'm trapped in this dank pit, surrounded by Shadow monsters, terrified every day will be my last.  And you bring me bills? And there's a 200-gold Shadow Creature surcharge! That does it. I'm knocking you back to sender. Air mail."''
+
+| spellnotes =
+
+| casts =
+Dark Fiend;
+Eruption;
+Furnace;
+Fireblade;
+Fireblade*TC;
+Fuel;
+Backdraft;
+Brimstone Revenant;
+Meteor Strike;
+Scald;
+Helephant (710-790);
+Fire Dragon;
+
+| quests =
+A Reasonable Reaction;
+
+| gold =
+168 - 247;
+
+| hats =
+
+| robes =
+
+| boots =
+Interstellar Navigator's Boots;
+
+| athames =
+
+| amulets =
+Interstellar Hero's Charm;
+Interstellar Medic's Charm;
+Interstellar Navigator's Charm;
+
+| rings =
+
+| wands =
+
+| decks =
+Interstellar Delegate's Deck;
+Interstellar Warrior's Deck;
+
+| items =
+Empyrea Athanor Combat Theme;
+Empyrea Inner Athanor Theme;
+Empyrea Outer Athanor Theme;
+
+| cards =
+Sanctuary;
+
+| reagents =
+Antique Coins*F3*WMV;
+Black Pearl;
+Brass;
+Bronze Gear*F3*WMV;
+Cobalt;
+Ectoplasm*F3*WMV;
+Nickel;
+Scales;
+Spring*F2*WMV;
+Tin;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Beast Wellington;
+Cherry Pie;
+Eye Candy;
+Hot Cross Buns;
+Pizza;
+Satyr Chow*F2;
+
+| jewels =
+Balance Striker Citrine;
+Balance-Ward Citrine;
+Fire-Proof Ruby;
+Ice Striker Sapphire;
+Lively Opal;
+Lustrous Accurate Sapphire +11%;
+Lustrous Damage Amethyst +23;
+Lustrous Defense Jade +45;
+Myth-Boon Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Baby Carrots;
+Boiled Peanuts;
+Bread Fruit Bush;
+Deadly Ninja Fig;
+Fish on a Vine*F2;
+Grapes of Wrath*CR;
+Ivy League*CR*F3*WMV;
+Pink Huckleberries;
+Red Couch Potatoes;
+Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

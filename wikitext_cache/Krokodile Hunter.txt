@@ -1,0 +1,392 @@
+{{Stub|further investigation into this creature's cheats: how they work and their triggers.}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 14,185
+| crecla = Koala
+| school = Myth
+| school2 = Life
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Ice;
+Storm;
+Myth;
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+31%;
+
+| outboost =
+114%;
+
+| incboost =
+30% Storm;
+
+| incresist =
+34% Fire, Ice, Life, Death, Balance, Sun, Moon, Star, Shadow;
+64% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Kangaroo Bushwhacker (Balance);
+
+| world = Wallaru
+| location = Kingsland
+| subloc1 = Lost King's Mine
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+Two additional {{Link|Creature|Wallaby Raider}} Minions will appear if more than two Wizards are present.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Round}} ''"Let the show begin!"'' - At the end of Round 1, Krokodile Hunter will cast a protected {{Link|Spell|Balanceblade (+100%)}} on himself, a {{Link|Spell|Feint (Shadow)}}, a '''+200%''' outgoing Damage Berserk and a 0 Damage Tempest to all enemies. Damage modifiers such as Weakness and Tower Shield sometimes do not affect this cheat.
+**{{Icon|Manipulation}} ''"That's right- showed you!"'' - After the Tempest, Krokodile Hunter will cast a Star version of Supernova, removing his Aura and dealing no Damage to himself.
+*{{Icon|Damage}} ''"You're caught in the jaws of the Krok mate!"'' - At the beginning of every Round, Krokodile Hunter will cast a version of {{Link|Spell|Spinysaur}} that deals '''100''' Life Damage to a random enemy. (214 with Outgoing Damage)
+**Sometimes it's cast every two or three rounds.
+
+| spellnotes =
+
+| casts =
+Magnify;
+Satyr;
+Frozen Armor;
+Balanceblade;
+Hex;
+Mass Myth Trap;
+Keeper of the Flame (Tier 3a);
+Improbable Gaze (Tier 3b);
+Minotaur (Tier 3b);
+Orthrus;
+Camp Bandit;
+Gnomes!;
+
+| quests =
+The Outback Steps In;
+Two Rivals, One Mine;
+
+| gold =
+1 - 19;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Crisp City Dweller Amulet;
+Crisp Townie Amulet;
+Elegant City Dweller Amulet;
+Elegant Townie Amulet;
+Flashy City Dweller Amulet;
+Flashy Townie Amulet;
+Gothic City Dweller Amulet;
+Gothic Townie Amulet;
+Iconic City Dweller Amulet*F2*WMV;
+Iconic Townie Amulet;
+Striking City Dweller Amulet;
+Striking Townie Amulet;
+Vibrant City Dweller Amulet;
+Vibrant Townie Amulet;
+
+| rings =
+
+| wands =
+Crisp City Dweller Cane;
+Crisp Townie Cane;
+Elegant City Dweller Cane*F2*WMV;
+Elegant Townie Cane;
+Flashy City Dweller Cane;
+Flashy Townie Cane;
+Gotchic City Dweller Cane;
+Gothic Townie Cane;
+Iconic City Dweller Cane;
+Iconic Townie Cane;
+Striking City Dweller Cane;
+Striking Townie Cane;
+Vibrant City Dweller Cane;
+Vibrant Townie Cane;
+
+| decks =
+
+| items =
+Wallaru Billabong Resort Com Theme;
+Wallaru Billabong Resort Theme*F2;
+Wallaru Doom Moon Theme;
+Wallaru Eucalyptus Forest Com Theme;
+Wallaru Eucalyptus Forest Theme;
+Wallaru Hope Springs Theme;
+Wallaru Outback Combat Theme;
+Wallaru Outback Theme;
+Wallaru The Dreaming Combat Theme;
+Wallaru The Dreaming Theme;
+Wallaru Wobbegong Combat Theme;
+Wallaru Wobbegong Theme;
+
+| cards =
+Arcticzilla;
+Ashen Bones;
+Balanceblade;
+Banshee (Tier 2b);
+Blood Bat (Tier 2b);
+Boreas Ifrit;
+Cleanse Charm;
+Cyclops (Tier 2b);
+Dark Sprite (Tier 2b);
+Deadly Minotaur;
+Death Trap;
+Deathblade;
+Elemental Blade;
+Elemental Trap;
+Empower;
+Evil Snowman (Tier 2b);
+Feint;
+Fire Cat (Tier 2b);
+Fire Elf (Tier 2b);
+Fire Trap;
+Fireblade;
+Frost Beetle (Tier 2b);
+Ghoul (Tier 2b);
+Harmattan Maxios;
+Hex;
+Ice Trap;
+Iceblade;
+Imp (Tier 2b);
+Leprechaun (Tier 2b);
+Life Trap;
+Lightning Bats (Tier 2b);
+Locust Swarm (Tier 2b);
+Lord of the Squall;
+Myth Trap;
+Mythblade;
+Nature's Wrath (Tier 2b);
+Nested Fury;
+Pierce;
+Raging Bull;
+Reshuffle;
+Rusalka's Wrath;
+Scarab (Tier 2b);
+Scorpion (Tier 2b);
+Sirocco Djinni;
+Snow Serpent (Tier 2b);
+Snowball Barrage;
+Spirit Blade;
+Spirit Trap;
+Storm Shark (Tier 2b);
+Storm Trap;
+Stormblade;
+Sunbird (Tier 2b);
+Thunder Snake (Tier 2b);
+Troll (Tier 2b);
+Winged Sorrow*F2*WMV;
+Wings of Fate;
+Witch's House Call*F2;
+
+| reagents =
+Bone;
+Brass;
+Bronze Gear;
+Cobalt;
+Copper;
+Ectoplasm;
+Fish Fin;
+Lead;
+Leather Straps;
+Nickel;
+Pyrite;
+Scales;
+Spider Silk*F3*WMV;
+Tin;
+Tungsten;
+Turmeric;
+
+| spellements =
+Barbarian's Saga*F2*WMV;
+Blast Off!;
+Bunyip's Rage;
+Count Croakula;
+Dark & Stormy;
+Deathly Depths*F2*WMV;
+Drop Bear Fury;
+Freeze Ray;
+Glimpse of Infinity;
+Gravestorm;
+Grim Reader;
+Grrnadier;
+Improbable Gaze;
+Lord of the Jungle;
+Mockenspiel*F2*WMV;
+Old One's Endgame;
+Phantasmania!;
+Rainbow Serpent*F2*WMV;
+S'more Machine*F2*WMV;
+Scales of Destiny*F2;
+Scion of Death;
+Shatterhorn*F2;
+Sound of Musicology;
+Starspawn*F2*WMV;
+Tatzlewurm Terror*F2*WMV;
+Tree of Strife;
+Wobbegong Frenzy;
+Zand the Bandit;
+
+| snacks =
+Bell Pepper Steak;
+Black Sun Seeds;
+Carrot;
+Cracker;
+Dragon Fruit;
+Evil Carrot;
+Fern Jelly;
+Flaming Carrot;
+Flaming Jalapeno;
+Flaming Pineapple;
+Frosted Cupcake;
+Glowing Dragon Fruit;
+Golden Biscuit;
+Heavenly Bubblegum;
+Lava Guava;
+Marzipan Maize;
+Mini Pumpkin;
+Misfortune Cookie;
+Nana's Pumpkin Spice Milkshake;
+Nutty Truffle;
+Orange Jalapeno;
+PB Cookie;
+Popsicle;
+Salty Fish;
+Spicy Drumstick;
+Tamales;
+Tasty Biscuit;
+Wild Strawberry;
+Wrath's Grape Juice;
+
+| jewels =
+Amazing Archmastery Opal +14;
+Amazing Blocking Amethyst +22;
+Amazing Blocking Citrine +21;
+Amazing Blocking Citrine +22;
+Amazing Blocking Jade +21;
+Amazing Blocking Jade +22;
+Amazing Blocking Onyx +22;
+Amazing Blocking Opal +11;
+Amazing Blocking Peridot +21;
+Amazing Blocking Peridot +22;
+Amazing Blocking Ruby +21;
+Amazing Blocking Ruby +22;
+Amazing Blocking Sapphire +22;
+Amazing Defense Amethyst +63;
+Amazing Defense Amethyst +64;
+Amazing Defense Citrine +63;
+Amazing Defense Citrine +64;
+Amazing Defense Jade +63;
+Amazing Defense Jade +64;
+Amazing Defense Onyx +63;
+Amazing Defense Opal +31;
+Amazing Defense Opal +32;
+Amazing Defense Peridot +63;
+Amazing Defense Peridot +64;
+Amazing Defense Ruby +63;
+Amazing Defense Ruby +64;
+Amazing Defense Sapphire +63;
+Flawless Blocking Amethyst +23;
+Flawless Blocking Amethyst +24;
+Flawless Blocking Citrine +23;
+Flawless Blocking Citrine +24;
+Flawless Blocking Jade +23;
+Flawless Blocking Jade +24;
+Flawless Blocking Onyx +23;
+Flawless Blocking Onyx +24;
+Flawless Blocking Opal +12;
+Flawless Blocking Peridot +23;
+Flawless Blocking Peridot +24*F2*WMV;
+Flawless Blocking Ruby +23;
+Flawless Blocking Sapphire +23;
+Flawless Blocking Sapphire +24;
+Flawless Defense Amethyst +67;
+Flawless Defense Amethyst +68;
+Flawless Defense Citrine +68;
+Flawless Defense Jade +67;
+Flawless Defense Jade +68;
+Flawless Defense Onyx +67;
+Flawless Defense Onyx +68;
+Flawless Defense Opal +33;
+Flawless Defense Opal +34;
+Flawless Defense Peridot +67;
+Flawless Defense Ruby +67;
+Flawless Defense Ruby +68;
+Flawless Defense Sapphire +67;
+Flawless Defense Sapphire +68;
+
+| pins =
+Balance Crushing Pin (160, Storm);
+Balance Disabling Pin (150, Death);
+Balance Disabling Pin (150, Storm);
+Balance Disabling Pin (160, Storm);
+Balance Punishing Pin (150, Storm);
+Balance Punishing Pin (160, Storm);
+Death Crushing Pin (150, Myth);
+Death Crushing Pin (150, Storm);
+Death Crushing Pin (160, Fire);
+Death Crushing Pin (160, Storm);
+Death Disabling Pin (150, Fire);
+Death Disabling Pin (150, Storm);
+Death Disabling Pin (160, Storm);
+Death Punishing Pin (150, Myth);
+Death Punishing Pin (150, Storm);
+Death Punishing Pin (160, Storm);
+Fire Crushing Pin (150, Storm);
+Fire Crushing Pin (160, Storm);
+Fire Disabling Pin (150, Myth);
+Fire Disabling Pin (150, Storm);
+Fire Disabling Pin (160, Storm);
+Fire Punishing Pin (150, Storm);
+Fire Punishing Pin (160, Storm);
+Ice Crushing Pin (150, Storm);
+Ice Crushing Pin (160, Storm);
+Ice Disabling Pin (150, Storm);
+Ice Disabling Pin (160, Storm);
+Ice Punishing Pin (150, Storm);
+Ice Punishing Pin (160, Storm);
+Life Crushing Pin (150, Storm);
+Life Crushing Pin (160, Storm);
+Life Disabling Pin (150, Storm);
+Life Disabling Pin (160, Storm);
+Life Punishing Pin (150, Storm);
+Life Punishing Pin (160, Storm);
+Myth Crushing Pin (150, Fire);
+Myth Crushing Pin (150, Storm);
+Myth Crushing Pin (160, Storm);
+Myth Disabling Pin (150, Storm);
+Myth Disabling Pin (160, Storm);
+Myth Punishing Pin (150, Storm);
+Myth Punishing Pin (160, Storm);
+Storm Disabling Pin (150, Fire);
+Storm Disabling Pin (150, Life);
+Storm Disabling Pin (150, Myth);
+Storm Punishing Pin (150, Fire);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

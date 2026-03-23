@@ -1,0 +1,398 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 13,200
+| crecla = 
+| school = Death
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+26%;
+
+| outboost =
+130%;
+
+| incboost =
+5% Life;
+
+| incresist =
+73% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sugar Cube;
+Sugar Cube;
+
+| world = Lemuria
+| location = Sky City
+| subloc1 = Lucy's House
+| descrip =
+For the purpose of drops, Sugarr Eater of Souls is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"More souls for Sugarr"'' - If a Wizard is late to combat, Sugarr Eater of Souls will cast a Shadow version of S'more Machine which deals 1,020 Shadow Damage, removes all Pips and places an {{Link|Spell|Impede}} on the Wizard.
+*{{Icon|Afterlife}} ''"Sugarr still has some bite left!"'' - If a Wizard defeats Sugarr Eater of Souls while a Sugar Cube minion is still alive, he'll be revived with 75% of his total health, and cast a Shadow {{Link|Spell|S'more Machine}} that removes 100% of the Wizard's Health defeating the Wizard who defeated the boss.
+*{{Icon|Afterlife}} ''"Beware the aftertaste!"'' - If a Wizard defeats a Sugar Cube, the defeated Sugar Cube will cast the 1,020 Damage Shadow S'more Machine on the Wizard that defeated them, removing their pips, and placing an {{Link|Spell|Impede}} on them.
+*{{Icon|Damage}} ''"Sugarr Rush!"'' - If Sugarr Eater of Souls takes damage, the Boss will cast a version of {{Link|Spell|Sugar Rush}} that gives all allies 5 Pips, first giving 2 Power Pips then 1 Pip without an Impede aura, then places {{Link|Spell|Quicken}} on all allies.
+
+| spellnotes =
+*Casts an Aegis-Protected Deathblade (+40%).
+*Casts an unprotected Deathblade (+40%).
+'''Natural Attack:'''
+*Deals an unknown quantity of Death Damage.
+
+| casts =
+Sugar Rush;
+Virulence (6 Rounds);
+Deathblade (+40%);
+Dark Tribute;
+Mass Feint (+75%);
+Dark Empower;
+Age of Reckoning;
+Ship of Fools (Tier 5a);
+Lord of Night;
+Qismah's Curse;
+Vampire (375);
+Call of Khrulhu;
+Snack Attack (Tier 3a);
+Winged Sorrow;
+Grim Reader (Tier 3a);
+Wraith (575);
+Scarecrow;
+
+| quests =
+Sugar is Bad for You;
+
+| gold =
+291 - 443;
+
+| hats =
+Magician's Balance Cap;
+Magician's Death Cap;
+Magician's Fire Cap*F2;
+Magician's Life Cap*F2*WMV;
+Magician's Myth Cap;
+Magician's Power Cap;
+Magician's Storm Cap;
+Malevolent Balance Cap;
+Malevolent Death Cap*F2;
+Malevolent Fire Cap;
+Malevolent Ice Cap;
+Malevolent Life Cap;
+Supreme Deadly Hat;
+Supreme Ferocious Hat;
+Supreme Founder's Hat;
+Supreme Teleological Hat;
+Supreme Undaunting Hat;
+
+| robes =
+Supreme Detective Robe;
+Supreme Electric Robe;
+Supreme Ferocious Robe;
+Supreme Old Judge Robe;
+
+| boots =
+Supreme Preservation Shoes;
+
+| athames =
+Supreme Deflector Athame;
+Supreme Ferocious Athame;
+Supreme Firewall Athame;
+Supreme Freezer Athame;
+Supreme Volcanic Athame;
+
+| amulets =
+Supreme Ancient One Talisman;
+Supreme Old Judge Talisman;
+Supreme Science Talisman;
+Supreme Teleological Talisman;
+
+| rings =
+Supreme Eruption Ring;
+
+| wands =
+Supreme Hex Staff;
+Supreme Science Staff;
+
+| decks =
+Supreme Deadly Deck;
+Supreme Firewall Deck;
+Supreme Lifeforce Deck;
+Supreme Old Judge Deck;
+Supreme Science Deck;
+Supreme Undaunting Deck;
+Supreme Undead Deck;
+
+| items =
+Cargo;
+Lemuria Forest Theme;
+Lemuria Jungle Theme;
+Lemuria Lab Combat Theme;
+Lemuria Minds Theme;
+Lemuria Noir Combat Theme;
+Lemuria Noir Theme;
+Lemuria Sky City Theme;
+Lemuria Telos Theme 4;
+Lemuria Telos Theme 6;
+Periodic Table Poster;
+Puzzle Cube;
+
+| cards =
+Dream Shield;
+Elemental Blade;
+Elemental Shield;
+Elemental Spear;
+Elemental Trap;
+Feint;
+Fortify;
+Frostbite;
+Gargantuan*F2;
+Guidance;
+Infallible;
+Link;
+Mass Death Prism;
+Mass Fire Prism;
+Mass Ice Prism;
+Mass Life Prism;
+Mass Myth Prism;
+Mass Storm Prism;
+Mass Triage*F2;
+Pacify*F2*WMV;
+Raging Bull;
+Sirens;
+Snowball Barrage;
+Storm Shield;
+Wings of Fate;
+Witch's House Call;
+
+| reagents =
+Aether;
+Agave Leaves;
+Agave Nectar;
+Aquamarine*F2;
+Amber;
+Amber Dust;
+Astral Shard*F3*WMV;
+Braided Vine;
+Fire Blossom;
+Fish Fin;
+Glass Sliver*F2;
+Golden Pearl*F2;
+Mithril*F2;
+Scales*F3*WMV;
+Silver*F2;
+Stardust;
+Steel*F2;
+Sunstone*F4*WMV;
+Synthonium;
+Titanium;
+Tungsten*F3;
+Turmeric;
+Turquoise;
+Vine*F3;
+
+| spellements =
+Blast Off!;
+Dark & Stormy;
+Grim Reader;
+Lord of the Jungle;
+
+| snacks =
+Bell Pepper Steak;
+Boiled Spider Legs;
+Boom Stroganoff;
+Bread Fruit Fruit*F2;
+Candlenut;
+Catfish Stevens;
+Cauliflowers*F3;
+Chalupacabra;
+Chapulines;
+Chili Peppers;
+Crystal Custard;
+Crystalweb Candy;
+Desparagus Salad;
+Dr. Jalapeno;
+Eggplant;
+Fin Flan;
+Fish Egg Pancakes;
+Fizzing Fertilizer;
+Flapjacks;
+French Fries;
+Fried Ice Cream;
+Fried Worms;
+Frozen Perogies;
+Fuzzy Peach Fizz;
+Ginger Mint Tea;
+Golden Apple;
+Hespermint;
+Hickory Chicory;
+Hive Rinds;
+Kraken Jacks;
+Shanta Pudding;
+
+| jewels =
+Ally Tower Shield Sapphire;
+Balance Assailant Citrine;
+Balance-Boon Citrine;
+Balance-Eye Citrine;
+Balance-Giver Citrine;
+Balance-Off Citrine;
+Balance-Ward Citrine;
+Blade of Fire Ruby;
+Critical Striker Opal;
+Curse Giver Onyx;
+Dazzling Accurate Amethyst +14%;
+Dazzling Accurate Citrine +14%;
+Dazzling Accurate Hematite +14%;
+Dazzling Accurate Peridot +14%;
+Dazzling Accurate Ruby +14%;
+Dazzling Blocking Amethyst +19;
+Dazzling Blocking Hematite +19;
+Dazzling Blocking Opal +10;
+Dazzling Blocking Peridot +19*F2;
+Dazzling Critical Amethyst +19;
+Dazzling Critical Citrine +19;
+Dazzling Critical Jade +19;
+Dazzling Critical Onyx +19;
+Dazzling Critical Peridot +19;
+Dazzling Damage Citrine +29;
+Dazzling Damage Jade +29;
+Dazzling Damage Onyx +29;
+Dazzling Damage Peridot +29;
+Dazzling Defense Amethyst +60;
+Dazzling Defense Citrine +60;
+Dazzling Defense Hematite +60;
+Dazzling Defense Peridot +60;
+Dazzling Defense Ruby +58;
+Dazzling Defense Sapphire +58;
+Death-Boon Onyx;
+Death-Eye Onyx;
+Death-Proof Onyx*F2;
+Death-Shot Onyx;
+Death-Ward Onyx;
+Fire Assailant Ruby;
+Fire-Away Ruby;
+Fire-Boon Ruby;
+Fire-Dealer Ruby;
+Fire-Giver Ruby;
+Fire-Shot Ruby;
+Fire-Sniper Ruby;
+Fire-Ward Ruby;
+Get Sunbird Ruby;
+Healer Opal;
+Healthy Opal;
+Ice Striker Sapphire;
+Ice-Away Sapphire;
+Ice-Boon Sapphire;
+Ice-Dealer Sapphire;
+Ice-Eye Sapphire;
+Ice-Proof Sapphire;
+Ice-Ward Sapphire;
+Life-Proof Jade*F2;
+Life-Shot Jade;
+Life-Sniper Jade;
+Life-Ward Jade;
+Lively Opal;
+Medic Opal;
+Myth Assailant Peridot*F2;
+Myth Striker Peridot;
+Myth-Away Peridot;
+Myth-Eye Peridot;
+Myth-Shot Peridot;
+Myth-Sniper Peridot;
+No Pain, No Gain Onyx;
+Pain-Bringer Opal;
+Sparkling Health Opal +116;
+Sparkling Health Opal +117*F2;
+Sparkling Health Opal +118;
+Sparkling Mana Opal +49;
+Spell-Defying Opal;
+Storm Striker Amethyst;
+Storm-Away Amethyst;
+Storm-Eye Amethyst;
+Storm-Proof Amethyst;
+Storm-Shot Amethyst;
+Storm-Sniper Amethyst;
+Storm-Ward Amethyst;
+Stun Recalcitrant Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears*F4*WMV;
+Blue Huckleberries;
+Boiled Peanuts;
+Boom Shroom;
+Burning Snap Dragon;
+Clockwork Flower*F2;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Fickle Pickle;
+Fiery Boom Shroom;
+Frozen Fly Trap;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Helephant Ears;
+Honey Bee Plant;
+Ivy League*CR*F2;
+Laugh-O-Dil;
+Maelstrom Snap Dragon;
+Maltese Tiger Lily;
+Melting Cheese Tree;
+Moon Flower;
+Ninja Fig*CR;
+Orange Bell Pepper*CR;
+Orange Dandelion;
+Pink Huckleberries*F2;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Red Bell Pepper;
+Red Huckleberries;
+Prickly Bear Cactus;
+Purple Grapes of Wrath;
+Red Couch Potatoes;
+Red Grapes of Wrath;
+Red Huckleberries*F2;
+Rotten Beets;
+Rye Bread Fruit Bush*F2;
+Saw Palmetto*F2;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Sword Fern*CR;
+Tiger Lily (Seed);
+Trumpet Vine;
+Ultra Ninja Fig;
+Ultra Snow Apples;
+Ultra Tiger Lily;
+Vampire Carrots;
+Venus Fly Trap;
+White Desparagus;
+White Laugh-O-Dil;
+White Tiger Lily;
+Yellow Bell Pepper*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,91 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 13
+| heal = 10,640
+| crecla = Demon
+| crecla2 = Elephant
+| school = Death
+| school2 = Ice
+| shadowslots = 1
+| startpips = 4
+| powerpips = Yes
+| outpierce =
+15%;
+
+| outboost =
+70%;
+
+| incboost =
+None;
+
+| incresist =
+10% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minion = 
+| world = Housing Instance
+| location = Jade Oni Rematch
+| subloc1 = Jade Oni Challenge (Tier 2)
+| descrip =
+Death Oni (Tier 2) is considered a Minion to {{Link|Creature|Jade Oni (Tier 2)}}. All drops are recorded on that page.
+
+| spellnotes =
+
+| casts =
+Brace;
+Legion Shield;
+Deathblade (+40%);
+Ship of Fools (Tier 3a);
+Vampire (Tier 3a);
+Call of Khrulhu;
+Evil Snowman (Tier 3b);
+Reindeer Knight (Tier 2b);
+Abominable Weaver;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Death Oni (Rematch)
+
+}}

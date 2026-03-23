@@ -1,0 +1,209 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 9,920
+| crecla = Goat
+| school = Life
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+20%;
+
+| outboost =
+95%;
+
+| incboost =
+5% Death;
+
+| incresist =
+70% Life;
+
+| outhealing =
+
+| inchealing =
+75%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Snipe (Life);
+
+| world = Empyrea
+| location = Northeast Aero Plains
+| subloc1 = Troll Den
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+
+| speech =
+:''"I had it all wrong. I had thought us brothers lost travelers thrown astray by Spiral tides and stranded in this tormented land. But now the veil has been lifted and I see. I am not a victim of the Myth Monsters. I AM a Myth Monster. I am Capricorn, the celestial goat who chews on the heavens as though they were an old tin can. I have bested the ancient enemy, stolen his Bridge. And now I will trample you."''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Ambush me? Oh no you don't!"'' - If a Wizard joins after Round 1, Capricorn the Gruff Goat will cheat-cast {{Link|Spell|Goat Monk}} on the late Wizard.
+*{{Icon|Critical}} ''"*bleat*"'' - At the end of every third Round, Capricorn the Gruff Goat will cheat-cast a protected {{Link|Spell|Ion Wind (Life)}}.
+
+| spellnotes =
+*Casts a protected Lifeblade (+40%) and Lifespear (+10%).
+
+| casts =
+Dark Shepherd;
+Devotion (6 Rounds);
+Spirit Armor;
+Lifespear (+10%);
+Black Mantle;
+Blessing;
+Lifeblade (+40%);
+Life Trap (+25%);
+Natural Attack (Life 105-210-315, 85%);
+Life Banshee (250);
+Lamassu;
+Sacred Charge;
+Spirited Minotaur (Life);
+Wings of Fate;
+Enraged Forest Lord;
+
+| quests =
+I Ain't Afraid of No Goats;
+Three Goats Gruff;
+
+| gold =
+92 - 118;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Heavy Kalakrys;
+Rad Kalakrys;
+Righteous Kalakrys;
+
+| decks =
+
+| items =
+Empyrea Husk Theme;
+Kalamar Chair;
+Nimbari Chair;
+Ornate Nimbari Vase;
+Tall Kalamar Vase;
+
+| cards =
+Elemental Defuse;
+Fable Lord*F2*WMV;
+Humongofrog;
+Icespear;
+Kraken;
+Mass Life Prism;
+Mutate Cat (Ice);
+Mythspear;
+Oni No Jade;
+
+| reagents =
+Ancient Scroll*F2;
+Antique Coins*F2*WMV;
+Astral Shard;
+Aquamarine*F2;
+Blood Moss;
+Brass;
+Ectoplasm*F2;
+Fire Blossom;
+Fish Fin;
+Flying Squid Ink;
+Glass Sliver;
+Golden Pearl*F2;
+Merle's Whisker;
+Mithril;
+Nickel;
+Orichalcum*F2;
+Scales*F5*WMV;
+Silver*F2;
+Spider Silk;
+Spring;
+Steel*F2;
+Sunstone;
+Titanium;
+Tungsten*F3;
+Turquoise*F3*WMV;
+Vine;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+BBQ Drumstick;
+Beast Wellington;
+Boiled Spider Legs;
+Dastardly Radish;
+Discord Grape Jelly*F2;
+Ginger Mint Tea;
+Glowing Taffy;
+Golden Squash;
+Hive Rinds;
+Killer Tomato*F2*WMV;
+Pineapple Spears;
+Pizza*F2*WMV;
+Rock and Roll Candy*F2*WMV;
+Salmon Joy;
+Satyr Chow*F3*WMV;
+Sprinkle Cupcake;
+Super Cold Popsicle;
+Taco;
+Veggie Juice*F2;
+
+| jewels =
+Ninja Piglets Citrine;
+Shiny Accurate Citrine +12%;
+Shiny Accurate Jade +12%;
+Shiny Accurate Onyx +12%;
+Shiny Accurate Ruby +12%;
+Shiny Blocking Amethyst +15;
+Shiny Blocking Jade +15;
+Shiny Defense Onyx +50;
+Sparkling Defense Citrine +56;
+Sparkling Health Opal +123;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Bell Pepper;
+Blue Huckleberries;
+Boiled Peanuts;
+Couch Potatoes*CR;
+Fiery Boom Shroom*F2*WMV;
+Fish on a Vine;
+Goose Tree;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Honey Bee Plant;
+Ivy League*CR;
+Maelstrom Snap Dragon;
+Pink Huckleberries;
+Purple Snow Apples;
+Red Bell Pepper;
+Red Couch Potatoes*F3;
+Red Grapes of Wrath;
+Silver Trumpet Vine*CR;
+Sugar Khrystal*CR;
+White Desparagus;
+
+| mounts =
+
+| spells =
+
+}}

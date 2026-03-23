@@ -1,0 +1,113 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 99,999
+| crecla = Titan
+| school = Shadow
+| school2 = Storm
+| shadowslots = 5
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Storm Titan Rematch
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Animated Deity Totem (Level 170+);
+Classical Deity Totem (Level 170+);
+Cool Deity Totem (Level 170+);
+Grimdark Deity Totem (Level 170+);
+Infamous Deity Totem (Level 170+);
+Inflammatory Deity Totem (Level 170+);
+Snappy Deity Totem (Level 170+);
+
+| rings =
+Animated Deity Ring (Level 170+);
+Classical Deity Ring (Level 170+);
+Cool Deity Ring (Level 170+);
+Grimdark Deity Ring (Level 170+);
+Infamous Deity Ring (Level 170+);
+Inflammatory Deity Ring (Level 170+);
+Snappy Deity Ring (Level 170+);
+
+| wands =
+Animated Deity Staff (Level 170+);
+Classical Deity Staff (Level 170+);
+Cool Deity Staff (Level 170+);
+Grimdark Deity Staff (Level 170+);
+Infamous Deity Staff (Level 170+);
+Inflammatory Deity Staff (Level 170+);
+Snappy Deity Staff (Level 170+);
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Aethyr Crystal @ 12 Aethyr Crystal;
+
+| spellements =
+Scion of Balance;
+Scion of Death;
+Scion of Fire;
+Scion of Ice;
+Scion of Life;
+Scion of Myth;
+Scion of Storm;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,144 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 7,760
+| crecla = Elephant
+| school = Death
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Greyhorn Mercenary;
+Greyhorn Mercenary;
+
+| world = Zafaria
+| location = Stone Town
+| subloc1 = Poacher's Home
+| descrip =
+Conjurers must defeat this boss in the quest {{Link|Quest|Eyes of the Dragon}} to receive their [[Pet:Mythical Basilisk|Basilisk]] pet.
+
+| speech =
+:''"Who dares!  You won't take this last Basilisk egg.  I'm going to sell it and make a fortune!"''
+
+'''Note:''' The boss is repeatable but only while Wizards still have the {{Link|Quest|Eyes of the Dragon}} Quest. Multiple conjurers can apparently fight this boss together if they both have the quest.
+
+| spellnotes =
+
+| casts =
+Fortify;
+Deathblade;
+Feint;
+Vampire;
+Poison;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+
+| quests =
+Eyes of the Dragon;
+
+| gold =
+56 - 129;
+
+| hats =
+Blackback Safari Brim;
+Champion of Order's Icy Helm;
+Chaos Knight's Blazing Helm*F3*WMV;
+Fire Valley Headdress;
+Hood of the Grasslands;
+
+| robes =
+
+| boots =
+Big Five Trackers;
+Fire-Spitter Robes;
+Noble Knight's Boots;
+
+| athames =
+Badger's Claw;
+
+| amulets =
+
+| rings =
+Toasty Band of the Fire Elves;
+
+| wands =
+Bludgeon of Confidence;
+
+| decks =
+Silvershield Cards;
+
+| items =
+Avalon Abbey Road Theme;
+Avalon Main Theme;
+Stone Skeleton Key*CR;
+
+| cards =
+Dark Tribute;
+Plague;
+Poison;
+Precision;
+Sacrifice*F2;
+Sniper;
+Virulent Plague*F2*WMV;
+
+| reagents =
+Bone;
+Deep Mushroom;
+Frost Flower;
+Lava Lily;
+Mist Wood;
+Ore;
+Parchment;
+Pearl;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Goat Cheese;
+Golden Grapes;
+Jelly Baby;
+Spicy Drumstick;
+Strawberry Cupcake;
+Submarine Sandwich;
+Treant Bark;
+
+| jewels =
+Plain Critical Jade +5;
+
+| pins =
+
+| pets =
+
+| seeds =
+Cornbread Fruit Bush;
+Deadly Fly Trap;
+
+| mounts =
+
+| spells =
+
+}}

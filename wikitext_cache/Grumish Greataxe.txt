@@ -1,0 +1,237 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 1,600
+| crecla = Giant
+| crecla2 = Undead
+| school = Myth
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Storm;
+
+| incresist =
+60% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Ahnic Strider;
+Djeserit Dweller;
+
+| world = Krokotopia
+| location = Entrance Hall
+| descrip =
+Grumish Greataxe is a Minotaur that you can fight in the Entrance Hall, via the Quest, King of the Pit.  Unlike other Rank 4 Creatures, Grumish Greataxe uses Power Pips.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+Guarding the Entry Hall, and protecting the King of the Pit.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+| retired expel = Yes
+}}
+
+| spellnotes =
+
+| casts =
+Storm Shield;
+Black Mantle;
+Mythblade;
+Myth Trap;
+Blood Bat;
+Natural Attack (Myth 100x, 75%);
+Ghoul;
+Fire Elf (50+210);
+Storm Shark;
+
+| quests =
+King of the Pit;
+Life is Good;
+
+| gold =
+23 - 43;
+
+| hats =
+Cap of the Oasis*F2;
+Conjurer's Hat;
+Cowl of the Fortress*F2;
+Destructive Cowl*F4*WMV;
+Durable Hood*F3;
+Helm of the Bastion;
+Helm of the Cyclone;
+Keymaster's Visor*F2*WMV;
+Mask of Proportions*F3;
+Sturdy Hood*F2;
+Theurge's Hat*F3;
+
+| robes =
+Cloak of Prediction*F4*WMV;
+Cloak of Refuge*F2;
+Dusty Robe*F4;
+Glacial Tunic;
+Necromancer's Ivory Cloak*F3;
+Powerful Vestment*F3*WMV;
+Raiment of the Badlands*F4*WMV;
+Robe of Talent;
+Robe of the Bastion*F2;
+Robe of the Mirage*F3;
+Runed Vestment;
+Sphinx's Vestment;
+Theurge's Brown Cloak*F2*WMV;
+Tunic of Energy*F3*WMV;
+Tunic of Mortality*F2*WMV;
+Tunic of the Whirlwind*F4;
+Vestment of Ignition*F3;
+Vestment of the Arctic;
+
+| boots =
+Ancient Sandals;
+Boots of Imagination*F2;
+Boots of Talent*F2;
+Boots of the Bastion*F3;
+Boots of the Citadel*F3;
+Boots of the Cyclone;
+Crystalline Footwraps*F2;
+Flowering Shoes*F3*WMV;
+Hardy Boots*F2;
+Keymaster's Languid Boots*F3*WMV;
+Krokotopian Death Striders*F2;
+Krokotopian Fire Striders*F2;
+Krokotopian Ice Striders;
+Krokotopian Life Striders;
+Krokotopian Storm Striders;
+Krokotopian Striders*F3;
+Powerful Boots*F3;
+Quartermaster's Boots;
+Runed Boots*F3;
+Sandals of Darkness*F2;
+Sandals of Ignition*F3;
+Shoes of Adaptation*F2;
+Shoes of Annihilation*F2;
+Slippers of the Oasis*F3;
+
+| athames =
+Dagger of Solitude;
+Dirk of the Wasteland;
+Parched Kris;
+Powerful Stiletto;
+Whirlwind Dagger;
+
+| amulets =
+
+| rings =
+Band of Equilibrium*F5*WMV;
+Band of the Mirage*F2;
+Band of the Skies;
+Flowering Band*F4*WMV;
+Jewel of Obliteration*F2*WMV;
+Loop of Quietude*F2;
+Loop of the Defender*F2*WMV;
+Ring of the Badlands*F4;
+Sparkling Band*F5;
+
+| wands =
+Sokkwi Keymaster's Wand*F3;
+
+| decks =
+Keymaster's Amethyst Deck*F5*WMV;
+
+| items =
+Floor Torch*F3*WMV;
+Ice Sarcophagus*F5;
+Krok Sun Plaque*F2;
+Purple Painted Column*F3;
+Wide Blue Pedestal*F6*WMV;
+
+| cards =
+Blizzard;
+Cyclops;
+Dryad;
+Fire Trap;
+Humongofrog;
+Krokotillian*F6*WMV;
+Meteor Strike;
+Sandstorm;
+Sniper;
+Storm Shark;
+Strong;
+Sunbird;
+Tempest;
+Vampire;
+Weakness*F2;
+
+| reagents =
+Bone*F2;
+Copper*F2;
+Iron*F5;
+Leather Straps*F2;
+Nickel;
+Pyrite*F8;
+Tin*F4;
+
+| spellements =
+
+| snacks =
+Cracker*F6;
+Green Grapes*F5*WMV;
+Nettle Root*F7*WMV;
+Tiny Fish*F3;
+
+| jewels =
+Chipped Damage Opal +4;
+Chipped Defense Peridot +13;
+Chipped Defense Sapphire +13;
+Chipped Health Opal +18;
+Chipped Mana Opal +11;
+Cracked Accurate Ruby +2%;
+Cracked Accurate Sapphire +2%;
+Cracked Damage Jade +4;
+Cracked Damage Sapphire +6*F2;
+Cracked Defense Onyx +7;
+Cracked Defense Sapphire +10;
+Fire Elf Ruby;
+Glacial Shield Ruby;
+Health Boost Opal;
+Myth Trap Peridot (Triangle);
+Scorpion Citrine;
+Siphon Opal;
+Thermic Shield Amethyst;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F3;
+Pink Dandelion*CR*F5;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,94 @@
+{{Test|feb26}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 24
+| heal = 34,000
+| crecla = Elephant
+| school = Balance
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Hidden Temple Gauntlet
+| subloc1 = 
+| descrip =
+
+| speech =
+:''"Ha! Did you think you were done? Did you think this long trial at last over and it was now time to pursue your rewards? Well, say hello to Belloq! I have been watching your progress. Impressive, most impressive. You have gathered all the blessings of U,Bah. And... thank you... now I have gathered them. Thank you so kindly for your generosity. Sadly, I can only repay it with treachery. So long, Wizard!"''
+
+| cheatnotes =
+*{{Icon|Global}} ''"This is Belloq's game now!"'' - At the start of the battle, Belloq will cast Power Play.
+*{{Icon|Trap}} ''"Traps? My specialty! - If a Wizard uses a Trap, Belloq will cast Elemental Trap on the Wizard that cast the Trap.
+*{{Icon|Blade}} ''"Building up your attack? I did already."'' - If a Wizard uses a Blade. Belloq will use Balanceblade on himself.
+*{{Icon|Damage over Time}} ''"I fear... all things must burn."'' - Belloq will cast Scald. '''Unknow Trigger'''
+
+| spellnotes =
+
+| casts =
+Punishment;
+Balanceblade;
+Ra;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,188 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 3,200
+| crecla = Elemental
+| crecla2 = Colossus
+| school = Balance
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+17% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Sand Spider;
+Sand Spider;
+
+| world = Grizzleheim
+| location = Helgrind Warren
+| descrip =
+If the Sand Behemoth is defeated while his Minions are still in the battle, he returns and circles the battle. He re-enters the battle in as few as one Round.  He is slower to re-enter when only one Minion remains.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Grizzleheim
+| tome description =
+Surprisingly resilient. If you knock him down, he just builds himself back up.
+
+| extract class =
+Colossus;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 90 Balance Damage for 1 Pip
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Weakness;
+Balanceblade;
+Hex;
+Scarab;
+Scorpion;
+Locust Swarm;
+Sandstorm;
+Judgement;
+Evil Snowman;
+Vampire;
+
+| quests =
+
+| gold =
+92 - 121;
+
+| hats =
+Cap of Equilibrium;
+Cap of the Stratosphere*F2;
+Circlet of the Unavoidable;
+Curative Coif;
+Firebloom Cowl;
+Frostwoven Hood;
+Hat of the Gale;
+Hoarfrost Hat*F4*WMV;
+Hood of the Invariable*F2;
+Igneous Cover;
+Mantle of Ingenuity;
+
+| robes =
+Gelid Garments*F2;
+Gloomhound's Wrap;
+Harbinger's Smock;
+Postulant's Smock;
+Raiment of Rainfall;
+Robe of the Nereid;
+Thermic Longcoat;
+
+| boots =
+Broghans of the Wanderer;
+Contradictory Boots*F2*WMV;
+Erudite Footwear*F3*WMV;
+Firewalking Sandals;
+Footgear of Garm;
+Footgear of the Undertow;
+Footwraps of Patience*F2;
+Footwraps of the Icedrake*F5*WMV;
+Frigid Footwear;
+Iceclaw Boots;
+Treads of Tribulation*F2;
+
+| athames =
+Mending Athame*F3;
+
+| amulets =
+
+| rings =
+Frostbright Loop*F5*WMV;
+Living Loop*F4;
+
+| wands =
+
+| decks =
+
+| items =
+Fish Pot;
+Heavy Dining Table*F3*WMV;
+Wooden Rake;
+
+| cards =
+
+| reagents =
+Cobalt*F2;
+Ectoplasm*F3*WMV;
+Iron;
+Nickel;
+Pyrite*F4;
+Spider Silk*F5;
+
+| spellements =
+
+| snacks =
+Chocolate Peanut;
+Cracker;
+Glowing Rock Candy*F5;
+Lollipop*F2*WMV;
+Meat Soup*F2*WMV;
+Moon Pie;
+Potato Chips;
+Squash;
+Tasty Biscuit*F2*WMV;
+Wafer Biscuit;
+
+| jewels =
+Balefrost Sapphire;
+Chipped Damage Opal +4;
+Chipped Mana Opal +9;
+Cracked Accurate Citrine +2%;
+Cracked Accurate Jade +2%;
+Cracked Damage Opal +1;
+Cracked Damage Peridot +4;
+Cracked Defense Peridot +9;
+Cracked Defense Peridot +10;
+Donate Power Citrine;
+Doom and Gloom Onyx*F2*WMV;
+Dull Defense Onyx +25;
+
+| pins =
+
+| pets =
+
+| seeds =
+Bread Fruit Bush;
+Couch Potatoes*CR*F2;
+Helephant Ears*F3;
+Pink Dandelion*CR;
+Rye Bread Fruit Bush*F3;
+Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

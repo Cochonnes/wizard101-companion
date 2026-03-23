@@ -1,0 +1,160 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 795
+| crecla = Crab
+| school = Death
+| startpips = 2
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+15% Life;
+
+| incresist =
+30% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Luminous Troglodyte (Tier 1);
+Luminous Troglodyte (Tier 1);
+
+| world = Housing Instance
+| location = Fantastic Voyage Expedition
+| subloc1 = Fantastic Voyage Expedition (Tier 1)
+| descrip =
+
+| spellnotes =
+
+| casts =
+Dream Shield;
+Deathblade;
+Dark Sprite;
+Ghoul;
+Natural Attack (Death 110-220-330, 80%)
+
+| quests =
+Fantastic Voyage of Discovery;
+
+| gold =
+139 - 222;
+
+| hats =
+Tiki Crown of Sacred Songs (Any Level)*CR;
+
+| robes =
+Tiki Armor of Purity (Any Level)*CR;
+Tiki Armor of Sacred Songs (Any Level)*CR;
+
+| boots =
+Tiki Boots of Riptides (Any Level)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Shocking Truth Tiki Torch (Level 20+)*CR;
+
+| decks =
+
+| items =
+Azteca Palm Tree;
+Broken Palm Tree;
+Bushy Palm Tree;
+Cephalopod Obelisk;
+Clam Chair*F2;
+Coconut Drink;
+Coral Crab Lamp;
+Crab Chimney*F2;
+Crab Claw Statue;
+Crab Lean-To;
+Diving Gear Rack;
+Diving Helmet;
+Fish Drying Rack*F2;
+Fish Pot;
+Fishbones;
+Lava Bulb*F2;
+Leaning Palm Tree;
+Outrigger Paddles*F2;
+Palm Shrub*CR;
+Pile of Sand;
+Potted Palm*F2;
+Lesser Totem*F2;
+Shovel;
+Spiral Crab Table*F2;
+Tiki Statue;
+Wall Starfish*F2;
+Water-Mole Bowl;
+Water-Mole Plate;
+Water-Mole Spear*F2;
+Water-Mole Table*F2;
+Water-Mole Torch*F2;
+Water-Mole Tribal Shield*F2;
+
+| cards =
+Accurate;
+Dream Shield;
+Ether Shield;
+Giant;
+Glacial Shield;
+Legend Shield;
+Strong;
+Thermic Shield*F2;
+Volcanic Shield;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+Big Papa Paya;
+Crab Apples;
+Crab Knight Cakes;
+Flowering Pineapple*F2;
+Guava*F2;
+Kahuna Tuna;
+Kalua Kebab*F2;
+Lava Guava*F2;
+Medium Fish;
+Papaya;
+Pineapple Spears;
+Poi Pudding;
+Salty Fish*F2;
+Sandy Corn;
+Sweet Pineapple;
+Tiki Tea;
+Wiki Peas*F2;
+
+| jewels =
+
+| pins =
+
+| pets =
+Frosty Fish*CR;
+Sun Bird;
+Tiki Kahuna*CR;
+
+| seeds =
+Boiled Peanuts;
+Fish on a Vine*F2;
+Key Limes*CR;
+
+| mounts =
+
+| spells =
+
+}}

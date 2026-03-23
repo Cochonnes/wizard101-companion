@@ -1,0 +1,164 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 9,935
+| crecla = Dino
+| school = Storm
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+28%;
+
+| outboost =
+126%;
+
+| incboost =
+5% Myth;
+
+| incresist =
+73% Storm;
+
+| outhealing =
+41%;
+
+| inchealing =
+45%;
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Carnosaur (Myth);
+
+| world = Lemuria
+| location = Ursai Village
+| subloc1 = Volcano Path
+| descrip =
+For the purpose of drops, Thundersaurus Hex is considered a Boss.  All drops are recorded on this page.
+*An additional {{Link|Creature|Carnosaur (Ice)}} appears if more than two Wizards are present.
+
+| speech =
+
+| monstrotomedescrip =
+Earned its name from its thunderous footfalls. Also it shoots lightning from its teeth.
+
+| summon_animus = 20
+| summon_gold = 1,000
+| guest_animus = 30
+| guest_gold = 2,500
+| can_expel = No
+
+| spellnotes =
+*Casts a protected and unprotected Stormblade (+30%).
+
+| casts =
+Frenzy;
+Stormblade (+30%);
+Balanceblade;
+Mass Storm Prism;
+Darkwind;
+Beary Surprise (Tier 5b);
+Natural Attack (Storm 130-260-390-520);
+Squall Wyvern (715-755);
+Sound of Musicology (Tier 3a);
+Glowbug Squall;
+Dark & Stormy (Tier 3a);
+Rusalka's Wrath;
+Storm Lord (775);
+Storm Dragon;
+Sirens;
+
+| quests =
+Gotta Go Up to Get Down;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+Lemurian Founder's Ring;
+
+| wands =
+
+| decks =
+
+| items =
+Lemuria Sky City Combat Theme;
+Lemuria Telos Theme 5;
+
+| cards =
+Berserk;
+Cat Thug;
+Sirens;
+
+| reagents =
+Bronze Gear;
+Nickel;
+Scales;
+Spider Silk;
+Synthonium;
+Tin;
+
+| spellements =
+Blast Off!;
+
+| snacks =
+Breakfast Tacos;
+Decimatoes;
+Eggplant;
+Golden Squash;
+Large Fish;
+Large Watermelon;
+Potato Chips;
+Sprinkle Cupcake;
+Square Root;
+Tomato Soup;
+
+| jewels =
+Balance-Off Citrine;
+Dazzling Critical Citrine +19;
+Dazzling Damage Onyx +29;
+Fire-Eye Ruby;
+Life Striker Jade;
+Sparkling Defense Hematite +53;
+Sparkling Defense Opal +27;
+Sparkling Health Opal +116;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Blue Huckleberries;
+Dandelion;
+Goose Tree;
+Grapes of Wrath*CR;
+Honey Bee Plant;
+Ivy League*CR;
+Pink Huckleberries;
+Rotten Beets;
+Saw Palmetto;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

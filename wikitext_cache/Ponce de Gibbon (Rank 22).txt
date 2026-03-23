@@ -1,0 +1,133 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 11,940
+| crecla = Monquistan
+| school = Myth
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+19%;
+
+| outboost =
+113%;
+
+| incboost =
+5% Storm;
+
+| incresist =
+45% Fire, Ice, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+50%;
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+Monquistan Guardian (Rank 21);
+
+| world = Novus
+| location = Puerto Nuovo
+| subloc1 = Monquistan Fortress
+| descrip =
+For the purpose of drops, Ponce de Gibbon (Rank 22) is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+:''"Ah, Wizard! I knew you would come - you are a meddler, seeking to rob me of my triumph. But you are too late! The buzzing... it became a voice, whispering to me. The dreams of Valencians came to life here - why not MY dream? I hoped against hope - and I was right! The bananas here: they walk because they were nurtured on the Water of Life! It is here! And I have found it! Finally, the Water of Life is mine! I drank of it, and it has made me strong, stronger than I have been in years! Now I will best you at last!"''
+
+| cheatnotes =
+'''Interrupt Cycle''' (Resets every 6{{Icon|Round}}
+This battle revolves around a cheat cycle that spans the length of five Rounds. This cheat repeats itself every five Rounds.
+*{{Icon|Round}} At the beginning of the first Round in this cycle (starting in Round 6), Ponce will remove marks he placed during the second Round in this cycle (see below). This is considered a normal Round.
+*{{Icon|Ward}} ''"First, Let's cloud the mind!"'' / ''"Mind Weakened"'' - At the beginning of the second Round in this cycle, Ponce will place a "mark" on a random Wizard, in the form of a Stun Shield.
+**The Stun Shield marker does not block Stuns.
+**{{Link|Spell|Earthquake}} can remove this marker and will prevent the rest of this cycle.
+*{{Icon|Round}} The third Round in this cycle is considered a normal Round. However, it is the last Round for a marked Wizard to damage Ponce, in order to get rid of the mark. Failure to do so results in the worst part of his cheat to take place in the fourth and fifth Rounds of this cycle.
+*{{Icon|Damage}} ''"Bah! You are as strong-willed as I remember"'' - If the marked Wizard attacks him, he will remove the Stun Shield mark and any other Wards from the Wizard. Stun Shields aren't removed from this Spell.
+*{{Icon|Manipulation}} ''"I can't control you, but I can confuse you!"'' - In Round 4, if a marked Wizard did not attack Ponce by the end of the third Round in this cycle, he will Confuse the Wizard for 2 Rounds.
+*{{Icon|Manipulation}} ''"If you aren't with us, you're against us!"'' - At the beginning of the fifth Round in this cycle, he will interrupt-cast a version of Sacrifice dealing 650 Death Steal Damage on the marked / Confused Wizard, stealing Health from the Wizard and [[:Category:Healing Spells|Healing]] himself for 1,820 Health. (Boss likely has Outgoing Healing to boost the heal)
+**Universal and Death [[:Category:Blade Spells|Blades]] that are active on him will increase the amount of Damage dealt by the Sacrifice.
+**Universal and Death Shields that are active on the Wizard will decrease the amount of Damage dealt by the Sacrifice.
+
+| spellnotes =
+
+| casts =
+Reliquary;
+Grendel's Amends;
+Mythblade;
+Bladestorm;
+Spirit Blade;
+Blinding Light;
+Disjunction;
+Ninja Pigs (Tier 3a);
+Earthquake;
+Orthrus;
+Medusa;
+
+| quests =
+Ponce Upon A Time;
+
+| gold =
+23 - 33;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Giant Cherry*CR;
+Novus Conatus Combat Theme;
+Novus La Ville Rose Combat Theme;
+Novus New Vicorgia Theme;
+Novus Puerto Nuovo Theme;
+Novus Stone of Heaven Theme;
+Novus War Combat Theme;
+Novus War Theme;
+Valencia Kane Theme;
+
+| cards =
+Azoth;
+Green Widow;
+Mass Storm Prism;
+Triage;
+
+| reagents =
+Amber Dust*F2;
+Steel*TEST;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

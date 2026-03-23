@@ -1,0 +1,100 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 1
+| crecla = Frog
+| school = Death
+| school2 = Fire
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+38%;
+
+| outboost =
+104%;
+
+| incboost =
+None;
+
+| incresist =
+300% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| world = Wallaru
+| location = Wobbegong Territory
+| subloc1 = Yara-Ma-Yha Cave
+| descrip =
+Wally (Fake) is summoned in the battle with {{Link|Creature|Wally}}
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Fireblade;
+Lightkeeper's Beam;
+Wyldfire;
+Ship of Fools (Tier 3a);
+Colossafrog;
+Meteor Strike;
+Scald;
+Fiery Giant;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Wally
+}}

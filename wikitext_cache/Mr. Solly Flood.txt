@@ -1,0 +1,134 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 4,800
+| crecla = Frog
+| school = Storm
+| startpips = 4
+| powerpips = Yes
+| critical =
+72;
+
+| criticalblock =
+38;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Wizard City
+| location = Deep Warrens
+| subloc1 = Tower of Peladon
+| descrip =
+Sorcerers must defeat Mr. Solly Flood during the Quest, ''The First Professor''.
+*This Boss is not repeatable.
+*This Boss is located in a solo dungeon. Other Wizards will not be able to port into the dungeon.
+
+| speech =
+:''"Oi, how did you find me down here?  I'll bet that rotten tatterdemalion, the Professor, put you on my trail.  He wants a globe?  I'll smash your head in and send it back to him, that's what!"''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+
+| quests =
+The First Professor;
+
+| gold =
+51 - 56;
+
+| hats =
+
+| robes =
+
+| boots =
+Charging Bull's Footguards;
+Cold Storm Trackers;
+Long as Night Walkers;
+Luck Smithed Boots;
+Slick Road Grippers;
+Splashing Stream Waders;
+Steppers of Ice and Fire;
+Ponycorn Hoofers;
+Witch Doctor's Juju Rangers;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Centaur;
+Colossus;
+Hydra;
+Ice Wyvern*F2;
+Satyr;
+Skeletal Pirate;
+Spectral Blast;
+Triton;
+
+| reagents =
+Brass;
+Cat Tail;
+Deep Mushroom*F2;
+Frost Flower;
+Lava Lily;
+Ore;
+Red Mandrake;
+Shell*F2;
+Stone Block;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Brilliant Light Jade;
+Opaque Blocking Onyx +8;
+Opaque Damage Jade +17;
+Opaque Defense Opal +18;
+Power Link Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

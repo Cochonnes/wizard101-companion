@@ -1,0 +1,302 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 62,125
+| crecla = Wizard
+| school = Myth
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+28%;
+
+| outboost =
+135%;
+
+| incboost =
+5% Storm;
+
+| incresist =
+73% Myth;
+
+| outhealing =
+45%;
+
+| inchealing =
+50%;
+
+| stunable = No
+| beguilable = 
+| minions =
+
+| summons =
+Blank Pages;
+Unhelpful Blank Pages;
+
+| world = Lemuria
+| location = Night Forest
+| subloc1 = Third Story Tomb
+| descrip =
+
+| speech =
+:''"Exposition! Exposition! It's time to explain! All the crazy dark things that come out of my brain! My thoughts twist and they turn what used to be pure into hideous monstrosities that you must endure. I thought it was meta, I thought it was clever. But it's just a pile of nonsense I'll build up forever. It can never be over, nor I ever be stopped. Now come see what terrible futures for you I have wrought."''
+
+| cheatnotes =
+*{{Icon|Late}} ''"How can you follow the plot if you're late?"'' - The Writer will cast a Star Spell to confuse the late Wizard for three Rounds.
+*{{Icon|Minion}} ''"Look upon my works and despair"'' - The Writer will cast a Star Spell to summon three Minions at random.
+**{{Link|Creature|Blank Pages}}, which target the Wizard's team.
+**{{Link|Creature|Unhelpful Blank Pages}}, which target The Writer's team.
+**The Writer will say this line to re-summon Minions if a Minion is defeated.
+*{{Icon|Aura}} ''"At least my work will live on!"'' - The Writer will cast a '''-200%''' Brace which states ''Invulnerability'' on each of his minions.
+**If a Minion is defeated and revived on the same turn, it will lose its ''Invulnerability'' aura.
+*{{Icon|Random}}{{Icon|Minion}} ''"This script makes no sense"'' - The Writer will Confuse one of his Minions for two Rounds.
+*{{Icon|Steal}} ''"Time for a rewrite"'' - The Writer will Sacrifice one of his Minions and heal himself for 2,000 Health.
+*{{Icon|Manipulation}} ''"Ugh, Fans!"'' - The Writer will cast {{Link|Spell|Beguile}} on a Wizard.
+{{Icon|Charm}}{{Icon|Curse}}{{Icon|Pip}} '''Cheat Cycle:'''
+*''"Listen to my story. What do you feel?"'' - At the end of every turn, The Writer will cast a Shadow Spell that applies two of the following random AoE affects, one to each team:
+**'''Buffs:'''
+***+100% Damage Charm
+***+100% Accuracy Charm
+***4 Pip Gain
+*** (Boss' Allies Only) Restore 10% of target's Health
+****Due to this being a percentage heal, all charms, wards, and stats do not affect this.
+**'''Debuffs:'''
+***-100% Damage Charm
+***-100% Accuracy Charm
+***4 Pip Loss
+***(Wizards Only) Remove 10% of target's Health
+****Due to this being percentage damage, all charms, wards, and stats do not affect this.
+{{Icon|Aura}} '''Invulnerability End:'''
+*''"No, this isn't ready for feedback!"'' - If The Writer is defeated, on the next round, the Minions will each use their turn to cast {{Link|Spell|Furnace (6 Rounds)}}, replacing their Brace Auras.
+**If a Minion fails to cast Furnace (6 Rounds), it will continue to re-cast it the following rounds until it succeeds.
+
+| spellnotes =
+*Casts a protected and unprotected Mythblade.
+
+| casts =
+Reliquary (6 Rounds);
+Mythblade;
+Mass Myth Trap;
+Mythic Fuel;
+Shockwave;
+Keeper of the Flame;
+Snake Charmer;
+Natural Attack (Myth 115-230-345-460);
+Basilisk (645-685);
+Ninja Pigs;
+Mystic Colossus;
+Tatzlewurm Horror (Tier 3a);
+Stone Colossus (630-730);
+Witch's House Call (No Minion);
+Bale Barbarian (Tier 3a);
+Orthrus;
+Medusa;
+Basilisk;
+
+| quests =
+The Vault of Lorer;
+The Unforgiving Tree;
+
+| gold =
+532 - 810;
+
+| hats =
+Supreme Ferocious Hat;
+
+| robes =
+Supreme Volcanic Robe;
+
+| boots =
+Supreme Barbarian Shoes;
+Supreme Detective Shoes;
+Supreme Ferocious Shoes;
+Supreme Science Shoes;
+
+| athames =
+Supreme Lifeforce Athame;
+
+| amulets =
+Magician's Balance Talisman;
+Magician's Storm Talisman;
+Malevolent Balance Talisman;
+Malevolent Life Talisman;
+
+| rings =
+
+| wands =
+Supreme Founder's Staff;
+
+| decks =
+Supreme Eruption Deck;
+Supreme Jungle Deck;
+
+| items =
+Lemuria Jungle Theme;
+Lemuria Lab Combat Theme;
+Lemuria Ursai Village Theme;
+Puzzle Cube;
+
+| cards =
+Berserk;
+Brilliant Light;
+Dragonflies;
+Dream Shield;
+Elemental Blade*F2*WMV;
+Elemental Defuse;
+Elemental Shield;
+Ether Shield;
+Frostbite;
+Nested Fury;
+Pest Zapper;
+Putrid Bug Spray;
+Rusalka's Wrath;
+Sirens*F2;
+Storm Shield;
+Uncanny Magic;
+Zounds...Bees!;
+
+| reagents =
+Aether;
+Amber Dust;
+Astral Shard;
+Braided Vine;
+Golden Pearl*F2*WMV;
+Mithril; 
+Orichalcum;
+Scales;
+Silver;
+Sunstone;
+Synthonium*F4;
+Tungsten;
+
+| spellements =
+
+| snacks =
+Crystal Custard;
+Fin Flan;
+Frozen Perogies;
+Golden Biscuit;
+Golden Candy Bar;
+Golden Squash;
+Marzipan Maize;
+Moon Pie*F2*WMV;
+Pineapple Spears;
+Rock and Roll Candy;
+Sprinkle Cupcake;
+Super Cold Popsicle;
+
+| jewels =
+Balance Assailant Citrine;
+Balance-Dealer Citrine;
+Dazzling Accurate Citrine +14%;
+Dazzling Accurate Hematite +14%;
+Dazzling Accurate Jade +14%;
+Dazzling Accurate Ruby +14%;
+Dazzling Blocking Hematite +19;
+Dazzling Blocking Ruby +19*F2;
+Dazzling Critical Amethyst +19;
+Dazzling Critical Citrine +19;
+Dazzling Critical Onyx +19;
+Dazzling Damage Amethyst +29;
+Dazzling Damage Ruby +29;
+Dazzling Damage Sapphire +29;
+Dazzling Defense Amethyst +58;
+Dazzling Defense Amethyst +60;
+Dazzling Defense Hematite +60;
+Dazzling Defense Jade +60;
+Dazzling Defense Onyx +58;
+Death Assailant Onyx;
+Death Striker Onyx;
+Death-Away Onyx;
+Fire Striker Ruby;
+Fire-Away Ruby;
+Fire-Eye Ruby;
+Fire-Proof Ruby;
+Fire-Shot Ruby;
+Healthy Opal;
+Ice-Away Sapphire;
+Ice-Boon Sapphire;
+Ice-Eye Sapphire;
+Ice-Giver Sapphire;
+Life-Boon Jade;
+Life-Giver Jade;
+Life-Shot Jade;
+Medic Opal;
+Myth-Dealer Peridot;
+Myth-Proof Peridot;
+Myth-Ward Peridot;
+Sparkling Health Opal +116;
+Sparkling Health Opal +118;
+Sparkling Mana Opal +49;
+Steal Health Talent Onyx;
+Stun Recalcitrant Opal*F2;
+Stun Resistant Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears;
+Blue Huckleberries*F3;
+Boiled Peanuts*F2;
+Boom Shroom;
+Bread Fruit Bush;
+Burning Snap Dragon;
+Clockwork Flower;
+Cornbread Fruit Bush;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Desparagus (Seed);
+Evil Snow Peas;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Helephant Ears*F2;
+Honey Bee Plant*F2;
+Ivy League*F2*WMV;
+Key Limes*CR;
+Laugh-O-Dil;
+Melting Cheese Tree;
+Missile Toe;
+Moon Flower;
+Ninja Fig*CR;
+Orange Bell Pepper;
+Pink Huckleberries*F2;
+Pink Laugh-O-Dil*F2;
+Prickly Bear Cactus;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Purple Snow Apples;
+Red Bell Pepper*F2;
+Red Couch Potatoes;
+Red Grapes of Wrath;
+Red Huckleberries;
+Rotten Beets*F3*WMV;
+Rye Bread Fruit Bush*F3*WMV;
+Saw Palmetto;
+Silver Trumpet Vine*CR;
+Snap Dragon;
+Snow Apples;
+Sour Fickle Pickle;
+Sword Fern*CR;
+Ultra Boom Shroom*F2;
+Ultra Fly Trap;
+Ultra Helephant Ears;
+Ultra Snow Apples;
+Ultra Trumpet Vine;
+Vampire Carrots;
+Venus Fly Trap*F2;
+White Desparagus; 
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

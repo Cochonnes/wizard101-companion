@@ -1,0 +1,263 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 16,095
+| crecla = Plant
+| school = Death
+| cheats = Yes
+| shadowslots = 1
+| startpips = 7
+| powerpips = Yes
+| schoolpips =
+Death;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+35%;
+
+| outboost =
+20%;
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| randomminions =
+Death Tendril;
+Life Tendril;
+Myth Tendril;
+
+| totalminions = 3
+| world = Wizard City
+| location = Castle Darkmoor (Location)
+| subloc1 = Graveyard Stone Key Room
+| badge = Flower Power
+| descrip =
+*The drops from this Boss are obtained from a "[[House:Golden Chest|Golden Chest]]" that appears after the duel.
+
+| speech =
+:''"Oh yeah? Do I look like a gardening plant to you, punk? If I can move and I can talk, who's to say I can't do anything I want? Feed me, Wizard! Cause if you feed me, Wizard, I can grow up big and strong! You know I don't come from no Fetid Lagoon! I'm from past the stars and beyond the moon. Feed me. Feed me. Feeeeeed me!"''
+
+| cheatnotes =
+'''{{Link|Creature|Aphrodite II}}:'''
+*The following duel circle spots are considered to be across from each other, in regards to the Boss cheats:
+::{{Target|Sun}} <---> {{Target|Dagger}}
+::{{Target|Eye}} <---> {{Target|Key}}
+::{{Target|Star}} <---> {{Target|Gem}}
+::{{Target|Moon}} <---> {{Target|Spiral}}
+*{{Icon|Blade}} {{Icon|Global}} If a [[:Category:Blade Spells|Blade]] Damage Charm or Damage-Increasing [[:Category:Global Spells|Global]] Spell is cast (e.g. {{Link|Spell|Darkwind}}), the Tendril across from the Wizard will cheat-cast the following Spells:
+**''"Terrify the vermin!"'' and ''"Find their weak points!"'' - The Death Tendril will cheat-cast Scarecrow and Feint (+75%) on a random Wizard.
+**''"Tear down the Blades!"'' and ''"Seek out the cracks in their foundation!"'' - The Life Tendril will cheat-cast {{Link|Spell|Forest Lord}} and {{Link|Spell|Guidance}}.
+**''"Shake the earth!"'' and ''"Stun the strongest!"'' - The Myth Tendril will cheat-cast {{Link|Spell|Earthquake}}, then {{Link|Spell|Stun}} a random Wizard.
+**When the Tendril across from the Wizard has been defeated, that Wizard may safely cast Blades without triggering this cheat.
+*{{Icon|Damage over Time}} If a Wizard casts a Damage over Time Spell, the Tendril across from the Wizard will cheat-cast the following Spell:
+**''"Summon the deadly hunt!"'' - The Death Tendril will cheat-cast Deer Knight.
+**''"Shake it off!"'' - The Life Tendril will cheat-cast {{Link|Spell|Mass Triage}}, which remains active for 3 Rounds.
+**''"Steal the strength!"'' - The Myth Tendril will cheat-cast {{Link|Spell|Shift}} at the Wizard.
+*{{Icon|Afterlife}} When a Wizard is defeated, the Tendril across from the Wizard will cheat-cast the following Spell:
+**''"Find their weak points!"'' - The Death Tendril will cheat-cast Feint (+75%).
+**''"Seek out the cracks in their foundation!"'' - The Life Tendril will cheat-cast Guidance.
+**''"Stun the strongest!"'' - The Myth Tendril will cheat-cast Stun on a random Wizard.
+
+'''Interrupt Cycle:'''
+*{{Icon|Round}} ''"I am untouched! My spores will spread over everyone!"'' - Any Round that a Tendril is not attacked, Aphrodite II will cast a unique Spell on all Wizards, which deals 333 Shadow Damage and 666 Shadow Damage over 3 Rounds, and applies a '''-30%''' Damage Charm, a '''-40%''' Accuracy Charm, and a '''-50%''' Healing Charm.
+**A Wizard fleeing will trigger this cheat.
+**A Wizard joining late will not trigger this cheat.
+**''"No! That stings!"'' - Attacking any of the Tendrils will interrupt this cheat.
+
+| spellnotes =
+
+| casts =
+Dream Shield;
+Deathspear;
+Plague;
+Mass Infection;
+Strangle;
+Deathblade;
+Dark Tribute;
+Death Prism;
+Curse;
+Feint;
+Feint (+75%);
+Natural Attack (Death Tendril);
+Deer Knight;
+Call of Khrulhu;
+Scarecrow;
+Bonetree Lord;
+Skeletal Dragon;
+
+| quests =
+
+| gold =
+251 - 376;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Aphrodite's Barb of Veracity;
+Aphrodite's Barb of Vexing;
+Aphrodite's Burning Thistle;
+Aphrodite's Poisonthorn*F2;
+Aphrodite's Storm of Thorns*F4*WMV;
+Aphrodite's Wildroot Spike*F7;
+Aphrodite's Winterspine;
+Aphrodite’s Stinging Nettle*F7*WMV;
+
+| amulets =
+
+| rings =
+Aphrodite's Bedlam Band*F3*WMV;
+Aphrodite's Blistering Loop;
+Aphrodite's Evergreen Band*F4*WMV;
+Aphrodite's Greenbrier Band*F9*WMV;
+Aphrodite's Hardfreeze Seal;
+Aphrodite's Poisonvine Ring;
+Aphrodite's Ring of Cunning;
+Aphrodite's Ring of Reaction;
+Band of the Chilling Light;
+Law of Kan Davasi Band;
+Lord of Death's Coil*F2;
+Ring of the Chaotic Heart;
+Ring of the Usurper*F3;
+Signet of Carpathes;
+Signet of the Fire King*F2;
+
+| wands =
+Aphrodite's Deadwood Stave;
+Aphrodite's Flamebranch;
+Aphrodite's Frostbite Staff;
+Aphrodite's Rainstick;
+Aphrodite's Stave of Guile;
+Aphrodite's Stoutroot Staff‎;
+Aphrodite's Tanglevine Staff*F3;
+Staff of Aphrodite's Song*F7;
+
+| decks =
+
+| items =
+
+| cards =
+Baby Sunbird;
+Bee Swarm*F7*WMV;
+Brilliant Beams*F4;
+Downpour*F7*WMV;
+Flood*F2;
+Flute Symphony*F3;
+Massive Pest Zapper*F8*WMV;
+Miniature Bloodbats*F2;
+Pest Bomb*F7;
+Supreme Sunburst*F2;
+Uncanny Magic*F2;
+Zounds...Bees!*F2;
+
+| reagents =
+Aether*F6*WMV;
+Amber Dust*F2;
+Black Pearl*F4;
+Blood Moss*F5;
+Draconium*F13*WMV;
+Fire Blossom*F2;
+Grendelweed*F8;
+Kelp;
+Lava Lily*F11*WMV;
+Mote of Eternity;
+Orichalcum*F7*WMV;
+Vine*F3*WMV;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Amplify Talent Opal;
+Blazing Oak Ruby;
+Bullheaded Peridot;
+Clock Spider Citrine;
+Cracked Energy Opal +1*F2;
+Enfeeblement Opal;
+Freddo Sapphire*F2;
+Giant Talent Opal;
+Infector Onyx*F2;
+Malduit Onyx;
+Mend Minion Talent Peridot;
+Mokompo Amethyst;
+Polished Accurate Hematite +10%;
+Polished Blocking Opal +6;
+Polished Critical Amethyst +12;
+Polished Critical Citrine +12*F2;
+Polished Critical Hematite +11*F2;
+Polished Critical Jade +12;
+Polished Critical Onyx +12*F2;
+Polished Critical Peridot +12;
+Polished Critical Ruby +12;
+Polished Damage Amethyst +22;
+Polished Damage Citrine +22;
+Polished Damage Jade +22*F2;
+Polished Damage Onyx +22;
+Polished Damage Peridot +22*F2;
+Polished Damage Ruby +22;
+Polished Damage Sapphire +22;
+Polished Defense Opal +22;
+Polished Health Opal +94;
+Polished Health Opal +95;
+Polished Piercing Hematite +5%;
+Polished Piercing Hematite +6%*F2;
+Sir Bedevere Jade;
+Sir Lamorak Ruby*F2;
+Spartan Jade;
+Spirit Armor Jade;
+Vassanji Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Deadly Fly Trap*F5;
+Deadly Ninja Fig*F6;
+Face Palm*F3;
+Maelstrom Snap Dragon*F4*WMV;
+Ninja Fig*CR*F5;
+Pink Dandelion*CR*F8*WMV;
+Red Huckleberries*F3*WMV;
+Saw Palmetto;
+Silver Trumpet Vine*CR;
+Sugar Khrystal*CR*F2;
+Sunion*CR*F5;
+Ultra Alligator Pear Tree*F3*WMV;
+Ultra Boom Shroom*F2;
+Ultra Dandelion*F6;
+Ultra Fly Trap*F2*WMV;
+Ultra Helephant Ears*F3;
+Ultra Huckleberries*F5;
+Ultra King Parsley*F3;
+Ultra Ninja Fig*F8;
+Ultra Snap Dragon*F3*WMV;
+Ultra Snow Apples*F2;
+Ultra Tiger Lily*F5*WMV;
+Ultra Trumpet Vine*F4;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

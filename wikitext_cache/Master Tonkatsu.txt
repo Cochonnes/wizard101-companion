@@ -1,0 +1,311 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 2,320
+| crecla = Boar
+| crecla2 = Pig
+| school = Storm
+| cheats = Yes
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Spirit Bowl;
+Mind Bowl;
+Body Bowl;
+
+| world = Krokotopia
+| location = Kembaalung Village
+| subloc1 = Hamakala's Mausoleum
+| lootchest = Tonkatsu Chest
+| descrip =
+Master Tonkatsu is the final Boss in the Hollow Mountain instance.
+
+| speech =
+:'''Master Tonkatsu:''' ''"Oh great and terrible Hamakala: the scourge of Khotan, the sorrow of Hamamitsu, hear my Song of Discord! I have brought you a living vessel so that you may take your rightful place as ruler of the mortal world!"''
+:'''Hamakala:''' ''"On a mountain of skulls, in a castle of pain, I sat on a throne of blood! What was will be! What is will be no more! Now is the season of Disharmony!"''
+:'''{{Link|NPC|George Beagle}}:''' ''"Oh bother. Excuse me! I really haven't the time for this! I'm terribly late for an appointment in Krokot... oh, hello there. Say young Wizard, you look the helpful sort. Mind giving me a hand here?"''
+:'''Master Tonkatsu:''' ''"No! The summoning is not complete! Mighty Hamakala, help me silence this fool, so we may finish the Song of Discord!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+Follower of Hamakala and singer of the Song of Discord, he was destined to either lead a cult or a heavy metal band.
+
+| extract class =
+Pig;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Round}} At the end of each Round, Master Tonkatsu will interrupt and beckon {{Link|NPC|Hamakala}} to deal 100 Balance Damage to all Wizards.
+**Although this Spell is not cast, it can be dispelled with {{Link|Spell|Strangle}}.
+
+| spellnotes =
+
+| casts =
+Lightning Strike;
+Stormblade (+30%);
+Storm Prism;
+Storm Trap;
+Windstorm;
+Storm Beetle (125);
+Storm Serpent (230);
+Storman (265);
+Natural Attack (Storm 125-245-365);
+Catalan;
+Storm Cat;
+
+| quests =
+Harmony v. Discord;
+
+| gold =
+60 - 70;
+
+| hats =
+Battlehelm of Harmony*F2*WMV;
+Helm of Ardent Purpose;
+Helm of Fabled Shangri-Baa*F3;
+Helm of the Harmonious;
+Helm of the Smoking Ember;
+Himoolayan Avalanche Helm;
+Himoolayan Blizzard Helmet*F2*WMV;
+Himoolayan Snow Cap;
+Himoolayan Warrior's Mantle;
+Mind Monk's Headgear*F4;
+Monk's Warhelm of Focus;
+Spirit Monk's Helmet;
+Tonkatsu's Helm of Discord*F2;
+Vanquished Asura's Mantle;
+
+| robes =
+Armor of the Mind Monk*F7*WMV;
+Armor of the Smoking Ember*F5*WMV;
+Battlegear of Harmony;
+Discordant One's Plate;
+Fabled Shangri-Baa Armor*F7*WMV;
+Harmonious One's Vestment;
+Himoolayan Avalanche Gear;
+Himoolayan Blizzard Gear*F2*WMV;
+Himoolayan Snow Cover;
+Himoolayan Warrior's Armor;
+Laminar of Ardent Purpose;
+Monk's Laminar of Focus;
+Spirit Monk's Warplate*F5*WMV;
+Tonkatsu's Plate of Discord;
+Vanquished Asura's Raiment*F2;
+
+| boots =
+Fabled Shangri-Baa Trekkers*F3*WMV;
+Footgear of Harmony;
+Harmonious One's Striders*F2;
+Himoolayan Avalanche Boots*F2*WMV;
+Himoolayan Blizzard Boots*F5*WMV;
+Himoolayan Snowshoes;
+Himoolayan Warrior's Boots;
+Hollow Mountain Trekkers;
+Mind Monk's Footgear*F5*WMV;
+Monk's Runners of Focus;
+Smoking Ember Walkers;
+Spirit Monk's Footwraps*F3;
+Striders of Ardent Purpose;
+Tonkatsu's Boots of Discord;
+Vanquished Asura's Shoes;
+
+| athames =
+Blizzard of Ninja's Steel;
+Claw of Monastic Devotion;
+Path of Harmony Hook;
+Temple Guardian's Flametusk;
+
+| amulets =
+Amulet of the Mind Monk;
+Dalai Lamba's Harmony Vial;
+Hamakala's Amulet of Havoc*F2*WMV;
+Hoof Choker of Eradication*F2;
+Monk's Bauble of Constancy;
+Monk's Choker of Asperity*F2;
+Vial of Fabled Shangri-Baa;
+
+| rings =
+Body Monk's Band of Vigor;
+Hamakala's Signet of Pain;
+Seal of the Roaring Heart*F2;
+Signet of the Harmonious;
+Tonkatsu's Ring of Havoc;
+
+| wands =
+Blade of Himoolayan Ice*F2;
+Dark Asura's Poleaxe;
+Halberd of Himoolayan Frost;
+Himoolayan Hailstone Ji;
+Himoolayan Ji of Sunbursts*F2;
+Himoolayan Ji of Valiance*F4;
+Ji of the Harmonious Path;
+Kembaalung Sword of Guile*F3;
+Longblade of the Asura*F3;
+Polearm of the Summoned*F3;
+Scimitar of the Harmonious*F2*WMV;
+Snows of Kembaalung Saber*F2*WMV;
+Stout Himoolayan Sword*F4;
+Sword of Fervent Resolve*F2*WMV;
+
+| decks =
+Arcana of Cacophony*F2*WMV;
+Deck of the Beguiling Song*F3;
+Ensemble of the Harmonious (Square);
+Ensemble of the Harmonious (Tear);
+Ensemble of the Harmonious (Triangle);
+Gallery of Kembaalung (Square);
+Gallery of Kembaalung (Triangle);
+Pack of the Tuned Mind (Square);
+Pack of the Tuned Mind (Triangle);
+Tonkatsu's Deck of Discord;
+Tsutsui's Mighty Hand (Tear);
+
+| items =
+Wooden Skeleton Key*CR*F12*WMV;
+
+| cards =
+Banshee*F4*WMV;
+Cyclops*F6*WMV;
+Death Prism*F2*WMV;
+Dream Shield*F5*WMV;
+Ether Shield*F2*WMV;
+Evil Snowman*F4*WMV;
+Fire Prism*F5*WMV;
+Fire Wyvern (335-395)*F3*WMV;
+Glacial Shield*F4*WMV;
+Goat Monk*F13*WMV;
+Ice Prism*F3*WMV;
+Ice Wyvern*F5;
+Legend Shield*F3;
+Life Prism*F2;
+Locust Swarm*F5*WMV;
+Monk of Mourning*F13*WMV;
+Myth Prism;
+Nature's Wrath*F5*WMV;
+Ninja Pigs*F5*WMV;
+Samoorai*F10*WMV;
+Storm Prism*F4*WMV;
+Storm Shark*F3*WMV;
+Sunbird*F3*WMV;
+Thermic Shield*F4*WMV;
+Volcanic Shield*F5*WMV;
+
+| reagents =
+Bone*F20*WMV;
+Brass*F5;
+Cobalt*F4;
+Copper*F2;
+Ectoplasm*F14*WMV;
+Iron*F2*WMV;
+Lead;
+Leather Straps*F13*WMV;
+Mote of Wisdom*F5*WMV;
+Nickel*F2;
+Spider Silk*F19*WMV;
+Tin*F6;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F4*WMV;
+Crunch Apple*F5*WMV;
+Eggplant*F2;
+Fire Cracker*F4*WMV;
+Fire Passion Fruit*F4*WMV;
+Golden Peanut*F7*WMV;
+Golden Squash*F3*WMV;
+Hot and Sour Bits*F2*WMV;
+Hot Ginger Snaps*F5*WMV;
+Large Fish*F3*WMV;
+Large Watermelon*F8*WMV;
+MooShu Cheddar*F2*WMV;
+Square Root*F6*WMV;
+
+| jewels =
+Balance-Boon Citrine;
+Blemished Accurate Amethyst +5%*F2;
+Blemished Accurate Jade +5%;
+Blemished Accurate Peridot +5%;
+Blemished Damage Amethyst +11;
+Blemished Damage Jade +11*F2;
+Blemished Damage Peridot +11;
+Blemished Damage Sapphire +11;
+Blemished Defense Citrine +21;
+Blemished Defense Opal +11;
+Blemished Mana Opal +19*F2;
+Death-Giver Onyx;
+Eager Opal;
+Effective Opal;
+Fire-Shot Ruby;
+Flawed Damage Citrine +10;
+Flawed Damage Jade +10;
+Flawed Damage Onyx +10;
+Flawed Damage Peridot +10;
+Flawed Defense Amethyst +20;
+Flawed Defense Jade +20*F2;
+Flawed Defense Peridot +20*F3*WMV;
+Flawed Defense Ruby +20;
+Flawed Defense Sapphire +20;
+Humongofrog Peridot;
+Ice Wyvern Sapphire;
+Ice-Proof Sapphire;
+Meteor Strike Ruby;
+Overtake Opal;
+Power Play Citrine;
+Seraph Jade;
+Silence Opal;
+Super-Pass Opal;
+Super-Stall Opal;
+
+| pins =
+
+| pets =
+Cloud Colossus;
+Death Ninja;
+Deathbat*F2;
+Firewing;
+Green Ghost;
+Jade Oni*CR*F2;
+Life Scarab;
+Minotaur;
+Ninja Piggle*F6*WMV;
+Red Banshee;
+Sun Bird*F2;
+Tough Troll;
+Treant;
+Troll;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

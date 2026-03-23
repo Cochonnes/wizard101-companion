@@ -1,0 +1,136 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 5,325
+| crecla = Squid
+| school = Myth
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| schoolpips =
+Myth;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+14%;
+
+| outboost =
+64%;
+
+| incboost =
+None;
+
+| incresist =
+8% Fire, Life;
+28% Storm, Myth, Balance, Shadow;
+48% Ice, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Sand Squid Tentacle (Elite, Challenge);
+Sand Squid Tentacle (Elite, Challenge);
+Sand Squid Tentacle (Boss, Challenge);
+
+| world = Wizard City
+| location = Atlantea (Challenge)
+| subloc1 = The Poseidon Adventure (Challenge)
+| descrip =
+*For the Standard version of this battle, see {{Link|Creature|Sand Squid Tentacle}}.
+
+| speech =
+:'''Traveler:''' ''"Oh no, another victim for the Sand Squid! You are a Wizard? Quickly then, defeat the many tentacles and you might have a chance!"''
+
+| cheatnotes =
+*{{Icon|Shield}} ''"Here, take this too!"'' - Whenever a Wizard casts a Shield Spell, a Boss will cast {{Link|Spell|Myth Trap (+35%)}} on the caster.
+**All Allies Shield Spells such as {{Link|Spell|Legion Shield}} will still only result in a Myth Trap on the caster.
+*{{Icon|Curse}} ''"Here, take this too!"'' - Whenever a Wizard casts a harmful Charm Spell, a Boss will cast {{Link|Spell|Tower Shield}} on the recipient of the Charm.
+**All Enemies harmful Charm Spells such as {{Link|Spell|Plague}} will cause the Boss to cast Legion Shield instead.
+*{{Icon|Minion}} "My tendrils are endless!" - At the beginning of the Round after a Sand Squid Tentacle Minion is defeated, any Bosses still present will say this as a warning. Any Minions defeated will be resummoned during the next Round.
+
+| spellnotes =
+
+| casts =
+Attenuate;
+Mythblade;
+Myth Trap;
+Time of Legend;
+Yellow Troll;
+Keeper of the Flame;
+Natural Attack (Myth 180-290-400);
+Ninja Pigs;
+Noble Humongofrog;
+
+| quests =
+Diver Down;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic: Aquila Badges|Swole Like Sisyphus]]''' {{Icon|Swole Like Sisyphus}} Badge, the following drops will be available:
+*{{Icon|Spellement}} 3-4 Aquila Spellements will drop each time from '''any''' School
+
+| gold =
+1 - 34;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Charm of Gorgon Imprisonment (Level 70+);
+Charm of Gorgon Infamy (Level 70+);
+Charm of Gorgon Petrification (Level 70+);
+Charm of Gorgon Suffering (Level 70+);
+Charm of Gorgon Venom (Level 70+);
+Charm of Gorgon Volatility (Level 70+);
+Charm of Gorgon's Gaze (Level 70+);
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Aquila Tartarus Theme;
+
+| cards =
+
+| reagents =
+Amber;
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Sand Squid Tentacle
+}}

@@ -1,0 +1,288 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 14,165
+| crecla = Dog
+| school = Storm
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+22%;
+
+| outboost =
+112%;
+
+| incboost =
+None;
+
+| incresist =
+Immune;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Doom Trooper;
+
+| world = Novus
+| location = Doom Moon
+| subloc1 = Engineering (Standard)
+| lootchest = Mr. Montgomery's Chest (Standard)
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*Mr. Montgomery will instantly defeat himself at the end of Round 5.
+*Two additional Doom Troopers will appear if more than two Wizards are present.
+*For the Challenge version of this battle, see {{Link|Creature|Mr. Montgomery (Challenge)}}.
+*{{Link|NPC|Rusti}} will appear after the duel.
+
+| speech =
+:'''{{Link|NPC|Dog Tracy}}:''' ''"So, take it you're the engineer?"''
+:'''Mr. Montgomery:''' ''"Aye, that's right I am, you trespassing tuft of tangle fur. This is my engine room and I won't have you muckin' about."''
+:'''Dog Tracy:''' ''"Hate to break it to you, pal, but you're more outmatched than a blob fish at a beauty contest. This is our engine room now."''
+:'''Mr. Montgomery:''' ''"Ye cannae take it from me. Ye donnae have the power!"''
+
+| cheatnotes =
+*{{Icon|Damage}} ''"You cannot take it from me! You do not have the power!"'' - At the end of each of the first four Rounds, Mr. Montgomery will cast {{Link|Spell|Tempest (6 Pip)}}.
+*{{Icon|Blade}}{{Icon|Global}}{{Icon|Damage}} ''"You do not have that power!"'' - At the beginning of each Round, Mr. Montgomery will cast the following Spells:
+**On Round 1: {{Link|Spell|Stormblade}}
+**On Round 2: Two {{Link|Spell|Stormblade}}s that stack
+**On Round 3 and 4: Two {{Link|Spell|Stormblade}}s that stack and Darkwind
+**On Round 5: Two {{Link|Spell|Stormblade}}s that stack, Darkwind, and Tempest (6 Pip)
+*{{Icon|Round}} ''"Aargh- You do have that power!"'' - At the end of the fifth Round, Mr. Montgomery will cast a 100% max Health Damage version of {{Link|Spell|Sacrifice}} on himself.
+
+| spellnotes =
+
+| casts =
+Galvanic Field;
+Stormblade (+30%);
+Darkwind;
+Windstorm;
+Insane Bolt;
+Queen Calypso (Tier 3a);
+Stormwing;
+Stormzilla;
+Lord of the Squall (Storm);
+Storm Owl;
+
+| quests =
+Bam, Zoom, to the Doom;
+The Man on the Moon is the Engineer;
+
+| dropnotes =
+Mr. Montgomery (Standard) is guaranteed to drop:
+*1-2 Dream Water Reagents
+*6 Spellements from Karamelle, Lemuria, Novus, or Wallaru.
+
+| gold =
+24 - 61;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+Bold Dream Reaver Deck*F2;
+Bold Dream Warper Deck*F2*WMV;
+Cruel Dream Reaver Deck*F3*WMV;
+Cruel Dream Warper Deck*F2*WMV;
+Deft Dream Reaver Deck*F3*WMV;
+Deft Dream Warper Deck*F3*WMV;
+Fabled Dream Reaver Deck*F3*WMV;
+Fabled Dream Warper Deck*F3*WMV;
+Fell Dream Reaver Deck*F4*WMV;
+Fell Dream Warper Deck;
+Fervid Dream Reaver Deck;
+Fervid Dream Warper Deck*F3*WMV;
+Fierce Dream Reaver Deck*F5*WMV;
+Fierce Dream Warper Deck*F3*WMV;
+
+| items =
+Marleybone Picture*CR*F2;
+Wallaru Billabong Resort Com Theme*F2*WMV;
+Wallaru Billabong Resort Theme;
+Wallaru Doom Moon Combat Theme*F2*WMV;
+Wallaru Doom Moon Theme;
+Wallaru Eucalyptus Forest Com Theme*F2*WMV;
+Wallaru Eucalyptus Forest Theme;
+Wallaru Outback Combat Theme;
+Wallaru Outback Theme;
+Wallaru Ranch Combat Theme*F2*WMV;
+Wallaru Wobbegong Combat Theme*F2*WMV;
+Wallaru The Dreaming Theme*F5*WMV;
+
+| cards =
+Balanceblade;
+Banshee (Tier 2b)*F5*WMV;
+Blood Bat (Tier 2b)*F2*WMV;
+Cleanse Charm;
+Cyclops (Tier 2b)*F9*WMV;
+Dark Sprite (Tier 2b)*F3*WMV;
+Death Trap;
+Deathblade;
+Elemental Blade;
+Elemental Trap;
+Empower*F2*WMV;
+Evil Snowman (Tier 2b)*F6*WMV;
+Fire Cat (Tier 2b)*F2*WMV;
+Fire Elf (Tier 2b)*F3*WMV;
+Feint*F2*WMV;
+Frost Beetle (Tier 2b)*F4*WMV;
+Ghoul (Tier 2b);
+Hex;
+Iceblade;
+Imp (Tier 2b)*F4*WMV;
+Leprechaun (Tier 2b)*F2*WMV;
+Life Trap;
+Lifeblade;
+Lightning Bats (Tier 2b)*F3*WMV;
+Locust Swarm (Tier 2b)*F7*WMV;
+Mythblade;
+Nature's Wrath (Tier 2b)*F2*WMV;
+Pierce;
+Scarab (Tier 2b)*F3*WMV;
+Scorpion (Tier 2b)*F5*WMV;
+Snow Serpent (Tier 2b)*F3*WMV;
+Spirit Blade;
+Storm Shark (Tier 2b)*F6*WMV;
+Storm Trap;
+Sunbird (Tier 2b)*F6*WMV;
+Thunder Snake (Tier 2b)*F2*WMV;
+Troll (Tier 2b)*F2*WMV;
+
+| reagents =
+Brass;
+Bronze Gear;
+Bone*F3*WMV;
+Copper;
+Dream Water @ 1 Dream Water*F10*WMV;
+Dream Water @ 2 Dream Water*F12*WMV;
+Ectoplasm*F2*WMV;
+Fish Fin;
+Lead*F2*WMV;
+Leather Straps;
+Pyrite*F3*WMV;
+Tin*F2*WMV;
+Tungsten;
+Turmeric*F2*WMV;
+
+| spellements =
+Barbarian's Saga*F6*WMV;
+Blast Off!*F6*WMV;
+Bunyip's Rage;
+Count Croakula*F3;
+Dark & Stormy*F8*WMV;
+Deathly Depths*F9*WMV;
+Drop Bear Fury*F2;
+Freeze Ray*F6*WMV;
+Glimpse of Infinity*F3*WMV;
+Gravestorm*F7*WMV;
+Grim Reader*F5*WMV;
+Grrnadier*F6*WMV;
+Improbable Gaze*F11*WMV;
+Lord of the Jungle*F7*WMV;
+Mockenspiel*F7*WMV;
+Old One's Endgame*F12*WMV;
+Phantasmania!;
+S'more Machine*F4*WMV;
+Scales of Destiny*F2*WMV;
+Shatterhorn*F6*WMV;
+Snack Attack*F6*WMV;
+Sound of Musicology*F4*WMV;
+Starspawn*F7*WMV;
+Tatzlewurm Terror*F5*WMV;
+Tree of Strife*F7*WMV;
+Wobbegong Frenzy*F2;
+Zand the Bandit*F2;
+
+| snacks =
+Bell Pepper Steak;
+Dragon Fruit;
+Evil Carrot;
+Fern Jelly*F2*WMV;
+Flaming Carrot*F2;
+Flaming Pineapple;
+Glowing Dragon Fruit;
+Golden Biscuit*F3*WMV;
+Heavenly Bubblegum*F2;
+Marzipan Maize*F2;
+PB Cookie;
+Popsicle;
+Spicy Drumstick;
+Tamales;
+
+| jewels =
+Flawless Blocking Amethyst +23*F3*WMV;
+Flawless Blocking Amethyst +24*F2;
+Flawless Blocking Citrine +23;
+Flawless Blocking Jade +23*F4*WMV;
+Flawless Blocking Onyx +24;
+Flawless Blocking Peridot +23;
+Flawless Blocking Peridot +24;
+Flawless Blocking Ruby +24;
+Flawless Blocking Sapphire +23;
+Flawless Blocking Sapphire +24*F3*WMV;
+Unearthly Blocking Amethyst +44;
+Unearthly Blocking Citrine +53;
+Unearthly Blocking Jade +57;
+Unearthly Blocking Onyx +56*F2*WMV;
+Unearthly Blocking Peridot +49;
+Unearthly Blocking Ruby +52;
+Unearthly Health Amethyst +525;
+Unearthly Health Jade +775;
+Unearthly Health Peridot +595*F3*WMV;
+Unearthly Health Ruby +595;
+Unearthly Health Sapphire +735*F2*WMV;
+Unearthly Mending Opal +8%;
+
+| pins =
+Balance Accurate Pin (100)*F4*WMV;
+Balance Conversion Pin (160)*F2*WMV;
+Balance Conversion Pin (170)*F2*WMV;
+Death Accurate Pin (100)*F2;
+Death Conversion Pin (160);
+Death Conversion Pin (170);
+Fire Accurate Pin (100)*F2;
+Fire Conversion Pin (160);
+Fire Conversion Pin (170);
+Ice Accurate Pin (110)*F4*WMV;
+Ice Conversion Pin (160)*F2*WMV;
+Ice Conversion Pin (170);
+Life Accurate Pin (100)*F2*WMV;
+Myth Accurate Pin (100);
+Myth Conversion Pin (160)*F2*WMV;
+Myth Conversion Pin (170);
+Storm Accurate Pin (80)*F4*WMV;
+Storm Conversion Pin (160)*F2;
+Storm Conversion Pin (170);
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Mr. Montgomery
+}}

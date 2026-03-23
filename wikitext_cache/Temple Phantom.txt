@@ -1,0 +1,237 @@
+{{Stub|which variation(s) of the ''{{Link|Item|Pack of the Tuned Mind}}'' Deck is dropped}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 2,280
+| crecla = Demon
+| crecla2 = Elephant
+| crecla3 = Undead
+| school = Balance
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Enthralled Body Monk (Hollow Mountain);
+Enthralled Mind Monk (Hollow Mountain);
+Enthralled Spirit Monk (Hollow Mountain);
+
+| world = Krokotopia
+| location = Kembaalung Village
+| subloc1 = Hollow Mountain Wooden Key Room
+| badge = Phantom's Menace
+| descrip =
+*The Temple Phantom is a Boss located in the Hollow Mountain Wooden Key Room, which requires a {{Link|House|Wooden Skeleton Key}} to access.
+
+| speech =
+:''"The song of Hamakala must not be interrupted! We must do as Tonkatsu commands! The tri-stats of Mind and Body and Spirit shall work as one to silence the intruder!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+As a phantom it thinks that it has super powers, but really it doesn't.
+
+| extract class =
+Elephant;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Weakness;
+Black Mantle;
+Balanceblade;
+Hex;
+Freeze;
+Locust Swarm;
+Natural Attack (Balance 110-215-320);
+Spirit Blast;
+Spectral Blast;
+
+| quests =
+
+| gold =
+401 - 500;
+
+| hats =
+Helm of the Harmonious*F3;
+Helm of the Smoking Ember*F4*WMV;
+Himoolayan Blizzard Helmet*F5*WMV;
+Himoolayan Snow Cap*F2;
+Mind Monk's Headgear*F2*WMV;
+Spirit Monk's Helmet*F4*WMV;
+Vanquished Asura's Mantle*F3;
+
+| robes =
+Armor of the Mind Monk;
+Armor of the Smoking Ember*F4;
+Harmonious One's Vestment*F3;
+Himoolayan Blizzard Gear*F3*WMV;
+Himoolayan Snow Cover*F5*WMV;
+Spirit Monk's Warplate*F9*WMV;
+Vanquished Asura's Raiment*F2;
+
+| boots =
+Harmonious One's Striders*F2*WMV;
+Himoolayan Blizzard Boots*F4*WMV;
+Himoolayan Snowshoes*F4;
+Mind Monk's Footgear*F6;
+Smoking Ember Walkers*F4*WMV;
+Spirit Monk's Footwraps*F5;
+Vanquished Asura's Shoes*F3;
+
+| athames =
+Hoof's Bewildering Dagger;
+Kris of the Calamitous Hoof*F2;
+Monk's Steel of Combustion;
+Monk's Thorn of Fortitude;
+Pagoda of Harmony Razor;
+Point of the Icy Himoolayas;
+
+| amulets =
+Amulet of the Mind Monk*F2;
+Himoolayan Avalanche Charm;
+Monk's Necklace of Purity*F2;
+Path of Harmony Amulet;
+Torc of the Icy Himoolayas*F2;
+Tsutsui's Rampage Choker*F2;
+
+| rings =
+Asura's Ring of Strife;
+Band of Harmony;
+Himoolayan Hailstorm Loop;
+Himoolayan Sleetfall Band;
+Iceband of the Himoolayas;
+Loop of the Dauntless Soul*F3;
+Monk's Band of Insight;
+Ring of Kembaalung Thunder*F2*WMV;
+Seal of the Mind Monk;
+Spirit Monk's Signet*F2;
+Stone of Discord*F2;
+Temple Guardian's Circle;
+
+| wands =
+Blade of Himoolayan Ice*F4;
+Fingers of Fire Dramyin;
+Frosty Himoolayan Dranyen;
+Himoolayan Harmony Maker*F2*WMV;
+Himoolayan Lute of Snowfall*F2*WMV;
+Kembaalung Sword of Guile*F2;
+Longblade of the Asura*F3*WMV;
+Lute of the Hale & Hearty;
+Monk's Instrument of Death*F2;
+Scimitar of the Harmonious*F6;
+Snows of Kembaalung Saber*F5*WMV;
+Song of Shangri-Baa;
+Stout Himoolayan Sword*F4;
+Sword of Fervent Resolve*F5;
+
+| decks =
+Arcana of the Dark Asura;
+Body Monk's Set;
+Hand of the Himoolayas*F2*WMV;
+Pack of the Tuned Mind;
+Temple Guardian's Cards*F2*WMV;
+
+| items =
+Black Waves Wallpaper*F7*WMV;
+Blue Waves Wallpaper*F4*WMV;
+Wooden Skeleton Key*CR*F8*WMV;
+
+| cards =
+Dragonflies;
+Pest Zapper;
+
+| reagents =
+Bone*F4*WMV;
+Brass*F3*WMV;
+Cobalt;
+Copper*F4;
+Ectoplasm*F4;
+Iron;
+Lead*F2;
+Leather Straps*F7*WMV;
+Mote of Transport;
+Mote of Wisdom*F3*WMV;
+Nickel*F3;
+Spider Silk*F2*WMV;
+Tin*F2;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F6*WMV;
+Crunch Apple*F8*WMV;
+Eggplant*F8*WMV;
+Fire Cracker*F4*WMV;
+Fire Passion Fruit*F11*WMV;
+Golden Peanut*F4*WMV;
+Golden Squash*F5*WMV;
+Large Fish*F3*WMV;
+Large Watermelon*F5;
+MooShu Cheddar*F14*WMV;
+Square Root*F4*WMV;
+
+| jewels =
+Blemished Accurate Onyx +5%;
+Blemished Damage Amethyst +11;
+Blemished Damage Onyx +11;
+Blemished Damage Peridot +11;
+Blemished Damage Ruby +11;
+Blemished Defense Citrine +21;
+Blemished Health Opal +39;
+Blemished Mana Opal +19;
+Fire-Eye Ruby;
+Flawed Damage Amethyst +10;
+Flawed Damage Citrine +10*F2;
+Flawed Damage Jade +10;
+Flawed Damage Ruby +10;
+Humongofrog Peridot;
+Kraken Amethyst;
+
+| pins =
+
+| pets =
+Cloud Colossus*F6;
+
+| seeds =
+Fiery Boom Shroom*F4*WMV;
+Maelstrom Snap Dragon;
+Pink Laugh-O-Dil;
+Venus Fly Trap;
+
+| mounts =
+Blue Kirin*PERM*CR;
+Gold Kirin*PERM*CR*F3;
+Silver Kirin*PERM*CR*F3*WMV;
+
+| spells =
+
+}}

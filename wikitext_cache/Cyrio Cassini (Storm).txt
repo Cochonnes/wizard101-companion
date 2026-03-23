@@ -1,0 +1,138 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 9,200
+| crecla = Unicorn
+| school = Storm
+| startpips = 5
+| powerpips = Yes
+
+| critical =
+
+| criticalblock =
+
+| outpierce = 10%
+
+| outboost =
+
+| incboost =
+35% Myth;
+
+| incresist =
+80% Storm;
+
+| inchealing =
+
+| outhealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Arcanum
+| location = The Arcanum
+| subloc1 = Arbiter's Arena
+| descrip =
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Storm Damage.
+
+| casts =
+Galvanic Field;
+Stormblade;
+Supercharge;
+Elemental Blade;
+Darkwind;
+Astraphobia;
+Storm Beetle (125);
+Storm Serpent (230);
+Storm Cat;
+Storm Owl;
+Tempest;
+
+| quests =
+Rusalka's Wrath;
+
+| gold =
+51 - 93;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Medium Enchanted Pot;
+Medium Pot;
+Polaris Ice Block Theme;
+Polaris Rasputin Combat Theme;
+Small Enchanted Pot;
+Small Pot;
+
+| cards =
+Frostfang;
+Saga of Heroes;
+Snowball Barrage;
+Witch's House Call;
+
+| reagents =
+Aether;
+Agave Leaves;
+Amber Dust;
+Aquamarine*F2*WMV;
+Draconium;
+Golden Pearl*F2*WMV;
+Orichalcum;
+Scales;
+Steel;
+Sunstone;
+Titanium;
+Tungsten;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Beast Wellington;
+Hot Cross Buns;
+Penne Dreadful;
+Ships 'n' Queso;
+
+| jewels =
+Lustrous PIP Hematite +1;
+
+| pins =
+
+| pets =
+
+| seeds =
+Cornbread Fruit Bush;
+Evil Snow Peas;
+Fish on a Vine;
+Frozen Fly Trap;
+Goose Tree;
+King Parsley*CR;
+Ninja Fig;
+Snow Apples;
+Ultra Snow Apples;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

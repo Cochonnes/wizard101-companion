@@ -1,0 +1,134 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 1,360
+| crecla = Badger
+| school = Life
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost = 
+40% Death;
+
+| incresist = 
+70% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Crimson Barb Knight;
+
+| world = Zafaria
+| location = Stone Town
+| subloc1 = Kasbah of Zanj
+| descrip = 
+This Badger Knight is being controlled by {{Link|Creature|Ruthless Gagool}}, and Theurgists will need to free him from her will during their Level 75 Minion Quest {{Link|Quest|No Ordinary Badger}}.
+
+| speech =
+:''"Good day to you, Wizard.  I did not expect to see a kind face again.  Tragically, Ruthless Gagool controls my fate, and thus we must duel!"''
+
+| spellnotes =
+
+| casts =
+Death Shield;
+Weakness;
+Sprite;
+Lifeblade;
+Life Trap;
+Leprechaun;
+Seraph;
+Centaur;
+Locust Swarm;
+Cyclops;
+Meteor Strike;
+Heck Hound;
+
+| quests = 
+No Ordinary Badger;
+
+| gold =
+43 - 47;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Colossus;
+Earthquake;
+Helephant;
+Hydra;
+Ice Wyvern;
+Minotaur;
+Satyr*F2;
+Skeletal Pirate*F2*WMV;
+Spectral Blast;
+Stormzilla*F2;
+Triton;
+Wraith;
+
+| reagents =
+Black Lotus;
+Brass;
+Cat Tail*F2;
+Deep Mushroom;
+Frost Flower;
+Mist Wood;
+Ore;
+Parchment;
+Pearl;
+Red Mandrake;
+Stone Block;
+
+| spellements =
+
+| snacks =
+Flaming Soup;
+Glowing Dragon Fruit;
+Goat Cheese*F2;
+Golden Grapes;
+Gummy Humongofrog;
+King Banana;
+Salmonberry*F2;
+Shiny Tomato*F3*WMV;
+Uni-Corn;
+
+| jewels =
+Sanctuary Jade;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,462 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 17
+| heal = 10,560
+| crecla = 
+| school = Shadow
+| school2 = Fire
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+25%;
+
+| outboost =
+120%;
+
+| incboost =
+5% Ice, Life, Balance;
+
+| incresist =
+70% Fire, Storm, Myth, Death, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Empyrea
+| location = Nimbus Citadel
+| subloc1 = Control Room (Nimbus Citadel)
+| lootchest = Dynt's Chest
+| descrip =
+
+| speech =
+:''"Surprised? Aye, I swallowed a bit o' Aethyr after ol' Sepidious. It changed me. Showed me such ... truth ... such RAGE. The rage of Raven and Spider themselves courses through me veins. I am the Aethyr. I am their war. I am the end of the Spiral itself!"''
+
+| cheatnotes =
+*{{Icon|Late}} ''"Yar! What in the Seventy Skies Do You Scallywags Think You're Doing?!"'' - Boss will cast Grand Phoenix on Wizards who are late to join the duel.
+*{{Icon|Round}} ''"Good heads!"'' - At the end of each Round, Boss will say this and he casts one of the following Spells on the Wizard(s):
+**Bladestorm, Legion Shield (-30%), Precision, Rebirth, Spirit Armor (1,000), Sprite Swarm, Stunblock, Unicorn.
+*{{Icon|Damage}}''"Ye Barnacle-Brained Buffoons, Look at What Ye've Done!''"  At the end of the fifth Round, he will cast {{Link|Spell|Wild Bolt}} on a random Wizard.
+**After casting Wild Bolt, Admiral Dynt uses {{Link|Spell|Cleanse Ward (Shadow, -All)}} to remove all Traps placed upon him.
+*{{Icon|Blade}} After casting his Natural Attack, Admiral Dynt will receive a Blade based on which Natural Attack he used:
+**Admiral Dynt receives a '''+40%''' version of {{Link|Spell|Fireblade}} after using his Fire Natural Attack.
+**Admiral Dynt receives a '''+30%''' version of {{Link|Spell|Shadowblade}} after using his Shadow Natural Attack.
+
+| spellnotes =
+*Casts an all-enemies version of Hex
+
+'''Natural Attack:'''
+*Deals 120 Fire Damage per Pip for a maximum of 4 Pips
+*Deals 105 Shadow Damage per Pip for a maximum of 4 Pips
+
+| casts =
+Dark Nova;
+Frenzy;
+Conviction;
+Glacial Shield (-75%);
+Firespear (+10%);
+Fiery Shadowblade;
+Backdraft (6 Pip);
+Hex;
+Double Steal Charm;
+Krampus (Shadow);
+Death Helephant (Shadow);
+Brimstone Revenant (Shadow);
+Natural Attack (Shadow 105-210-315, 80%);
+Diablo Qarin (Shadow);
+Hephaestus;
+Burning Rampage;
+Scorching Scimitars;
+Meteor Strike (355-395);
+Natural Attack (Fire 120-240-360, 70%);
+Night Raid;
+Raging Bull;
+Grand Phoenix;
+Fire Dragon (495+395);
+Rain of Fire (330+880);
+
+| quests =
+The Celestial Loophole;
+A Less Than Admirable Admiral;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Mirage Badges|Savior of the Sands]]''' Badge and has not unlocked the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge, the following drops will be available:
+*4 Spellements will drop each time from '''any''' School for their respective rank 10, 11, 4 & 1, and 6 & 1 Shadow Pip Spells.
+
+| gold =
+0;
+
+| hats =
+Blazing Zanadu Helm;
+Crackling Zanadu Helm;
+Grim Zanadu Helm;
+Hopeful Zanadu Helm;
+Immutable Zanadu Helm;
+Verdant Zanadu Helm;
+
+| robes =
+Blazing Zanadu Armor;
+Crackling Zanadu Armor;
+Freezing Zanadu Armor;
+Grim Zanadu Armor;
+Hopeful Zanadu Armor;
+Illuminated Zanadu Armor;
+Immutable Zanadu Armor;
+Verdant Zanadu Armor;
+
+| boots =
+Grim Zanadu Boots;
+Immutable Zanadu Boots;
+Verdant Zanadu Boots;
+
+| athames =
+Blazing Zanadu Dagger;
+Crackling Zanadu Dagger;
+Freezing Zanadu Dagger;
+Grim Zanadu Dagger*F2;
+Hopeful Zanadu Dagger;
+Illuminated Zanadu Dagger;
+Immutable Zanadu Dagger*F2;
+Verdant Zanadu Dagger*F2;
+
+| amulets =
+Blazing Zanadu Pendant*F3;
+Crackling Zanadu Pendant*F4*WMV;
+Freezing Zanadu Pendant*F2;
+Grim Zanadu Pendant*F2;
+Hopeful Zanadu Pendant*F3;
+Immutable Zanadu Pendant*F2;
+Verdant Zanadu Pendant*F2;
+
+| rings =
+Crackling Zanadu Band;
+Freezing Zanadu Band;
+Grim Zanadu Band;
+Illuminated Zanadu Band;
+Immutable Zanadu Band;
+
+| wands =
+Blazing Zanadu Lance;
+Crackling Zanadu Lance;
+Freezing Zanadu Lance;
+Grim Zanadu Lance;
+
+| decks =
+Blazing Zanadu Deck;
+Crackling Zanadu Deck;
+Freezing Zanadu Deck;
+Grim Zanadu Deck;
+Illuminated Zanadu Deck;
+Immutable Zanadu Deck;
+Verdant Zanadu Deck;
+
+| items =
+Aero Dwarf Blue Vase*F3;
+Aero Dwarf Chair*F2;
+Aero Dwarf Potted Plant*F5;
+Empyrea Husk Aethyr Combat;
+Empyrea Husk Combat;
+Empyrea Husk Storm Combat*F2;
+Kalamar Chair;
+Kalamar Side Table*F3;
+Nimbari Chair*F3;
+Nimbari Sword Rack*F2*WMV;
+Ornate Nimbari Vase*F4;
+Tall Kalamar Vase*F6*WMV;
+Wide Kalamar Vase;
+
+| cards =
+Bonetree Lord;
+Chinook Genie;
+Cyclops*F2;
+Diablo Qarin;
+Fable Lord*F3;
+Forest Lord;
+Harmattan Maxios;
+Humongofrog;
+Kraken*F6*WMV;
+Lord of Atonement;
+Lord of the Squall;
+Mass Fire Prism;
+Mass Myth Prism*F2;
+Mega Soothe*F2;
+Mega Subdue*F3;
+Mutate Banshee (Sun);
+Mutate Bats (Fire);
+Mutate Bats (Ice);
+Mutate Beetle (Storm);
+Mutate Cat (Storm)*F2;
+Mutate Colossus (Fire);
+Mutate Colossus (Storm);
+Mutate Elf (Ice)*F2*WMV;
+Mutate Elf (Storm);
+Mutate Kraken (Ice);
+Mutate Monster (Fire)*F2;
+Mutate Monster (Ice);
+Mutate Phoenix (Storm);
+Mutate Snake (Ice);
+Mutate Snowman (Fire);
+Mutate Snowman (Storm);
+Mutate Wyvern (Fire);
+Oni No Jade;
+Oni No Plague;
+Sirocco Djinni;
+Tundra Lord;
+
+| reagents =
+Aether*F6;
+Agave Leaves;
+Agave Nectar*F2;
+Amber*F2*WMV;
+Amber Dust;
+Aquamarine*F5;
+Astral Shard;
+Braided Vine*F3*WMV;
+Draconium*F2;
+Fire Blossom*F2;
+Flying Squid Ink*F11*WMV;
+Golden Pearl*F7*WMV;
+Merle's Whisker;
+Mithril*F4*WMV;
+Orichalcum*F2;
+Scales*F5;
+Silver*F2;
+Stardust*F3*WMV;
+Steel*F4*WMV;
+Sunstone;
+Titanium*F3*WMV;
+Tungsten*F3;
+Turmeric;
+Turquoise*F3;
+Vine*F3;
+
+| spellements =
+Avenging Fossil*BR;
+Celestial Calendar*BR;
+Climaclysm*BR;
+Iron Sultan*BR;
+King Artorius (Balance)*BR;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Lamassu*BR;
+Lord of Winter*BR;
+Nested Fury*BR;
+Qismah's Curse*BR;
+Raging Bull*BR;
+Rusalka's Wrath*BR;
+Sabertooth*BR;
+Sand Wurm*BR;
+Scion of Balance*BR;
+Scion of Death*BR;
+Scion of Fire*BR;
+Scion of Ice*BR;
+Scion of Life*BR;
+Scion of Myth*BR;
+Scion of Storm*BR;
+Scorching Scimitars*BR;
+Snake Charmer*BR;
+Snowball Barrage*BR;
+Spinysaur*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Winged Sorrow*BR;
+Wings of Fate*BR;
+Witch's House Call*BR;
+
+| snacks =
+Berry Poundcake;
+Boiled Spider Legs*F3;
+Cow Pie;
+Dastardly Radish*F2;
+Dr. Jalapeno;
+Fetid Legumes*F5;
+Gator Tots*F2;
+Ginger Mint Tea;
+Golden Squash*F2;
+Gummy Humongofrog*F2;
+Hero Sandwich*F3;
+Hive Rinds;
+Killer Tomato*F5*WMV;
+Lemon Daisy;
+Meat Soup*F3;
+Minotarts;
+Oyster Shooter;
+Pineapple Spears;
+Pyramints;
+Radioactive Pizza;
+Redskin Peanut;
+Salmon Joy*F2;
+Spicy Drumstick*F3*WMV;
+Super Cold Popsicle;
+Taco Town Special;
+
+| jewels =
+Angry Snowpig Sapphire;
+Brimstone Revenant Ruby;
+Headless Horseman Onyx;
+Keeper of the Flame Peridot;
+Luminous Weaver Jade;
+Magnify Opal;
+Queen Calypso Amethyst*F2*WMV;
+Radical Opal;
+Renew Opal*F2;
+Shiny Blocking Amethyst +15;
+Shiny Blocking Jade +15*F2;
+Shiny Critical Amethyst +15;
+Shiny Critical Citrine +15;
+Shiny Critical Hematite +15;
+Shiny Critical Jade +15;
+Shiny Critical Onyx +15;
+Shiny Critical Ruby +15*F2;
+Shiny Damage Citrine +25;
+Shiny Damage Opal +13;
+Shiny Damage Sapphire +25*F2;
+Shiny Defense Citrine +51*F2;
+Shiny Defense Hematite +49;
+Shiny Defense Jade +49;
+Shiny Defense Onyx +49*F2;
+Shiny Defense Peridot +49;
+Shiny Mending Opal +6%*F2;
+Sparkling Blocking Amethyst +18;
+Sparkling Blocking Citrine +18;
+Sparkling Blocking Hematite +18;
+Sparkling Blocking Onyx +17;
+Sparkling Blocking Onyx +18;
+Sparkling Blocking Ruby +17;
+Sparkling Blocking Peridot +18*F2;
+Sparkling Critical Amethyst +18;
+Sparkling Critical Jade +18*F3;
+Sparkling Critical Onyx +18;
+Sparkling Critical Ruby +18;
+Sparkling Critical Sapphire +17;
+Sparkling Critical Sapphire +18;
+Sparkling Damage Amethyst +27;
+Sparkling Damage Hematite +56;
+Sparkling Damage Jade +28;
+Sparkling Damage Onyx +28;
+Sparkling Damage Peridot +28;
+Sparkling Defense Amethyst +53;
+Sparkling Defense Amethyst +56;
+Sparkling Defense Citrine +56;
+Sparkling Defense Hematite +53;
+Sparkling Defense Hematite +55;
+Sparkling Defense Jade +55;
+Sparkling Defense Jade +56;
+Sparkling Defense Onyx +55;
+Sparkling Defense Opal +28;
+Sparkling Defense Peridot +54;
+Sparkling Defense Ruby +53;
+Sparkling Defense Ruby +54;
+Sparkling Defense Ruby +55;
+Sparkling Defense Ruby +56;
+Sparkling Defense Sapphire +53;
+Sparkling Defense Sapphire +55;
+Sparkling Defense Sapphire +56;
+Sparkling Health Opal +116*F3;
+Sparkling Health Opal +117*F2;
+Sparkling Health Opal +118;
+Sparkling Health Opal +122;
+Sparkling Health Opal +123;
+Sparkling Health Opal +124*F4;
+Sparkling Health Opal +125*F2;
+Sparkling Mana Opal +49;
+Sparkling Mana Opal +50*F5;
+Sparkling Mana Opal +51*F4;
+Sparkling Mana Opal +52;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angel Oak;
+Angora Bunny Ears*F6;
+Baby Carrots*F2;
+Bamboo Shoots;
+Bell Pepper*F7;
+Blue Huckleberries*F2;
+Boiled Peanuts*F3;
+Boom Shroom*F2;
+Boon Tree*CR*F2;
+Bread Fruit Bush*F5;
+Burning Snap Dragon;
+Clockwork Flower;
+Cornbread Fruit Bush*F3*WMV;
+Couch Potatoes*CR*F5;
+Dandelion*F2*WMV;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Evil Magma Peas*CR;
+Fish on a Vine*F4*WMV;
+Fortune Cookie Tree*F2;
+Frozen Fly Trap;
+Golden Couch Potatoes*F2;
+Grapes of Wrath*CR*F2;
+Green Snow Apples;
+Helephant Ears;
+Ivy League*CR*F6*WMV;
+Key Limes*CR;
+King Parsley*CR;
+Laugh-O-Dil*F2;
+Maelstrom Snap Dragon;
+Missile Toe;
+Moon Flower;
+Ninja Fig*CR;
+Orange Bell Pepper*CR;
+Orange Dandelion;
+Pink Huckleberries*F2*WMV;
+Pink Laugh-O-Dil*F2;
+Prickly Bear Cactus;
+Purple Bell Pepper*F2;
+Purple Grapes of Wrath*F2*WMV;
+Purple Snow Apples;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Red Couch Potatoes*F6;
+Red Grapes of Wrath;
+Red Huckleberries*F4;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Snap Dragon;
+Snow Apples*F2;
+Sour Fickle Pickle;
+Sugar Khrystal*CR;
+Sword Fern*CR;
+Ultra Alligator Pear Tree*F6;
+Ultra Boom Shroom*F5;
+Ultra Dandelion*F3;
+Ultra Fly Trap*F3;
+Ultra Helephant Ears*F3;
+Ultra Huckleberries;
+Ultra King Parsley*F4;
+Ultra Ninja Fig*F4;
+Ultra Snap Dragon*F5;
+Ultra Snow Apples*F4;
+Ultra Tiger Lily*F4;
+Ultra Trumpet Vine;
+Venus Fly Trap;
+White Laugh-O-Dil;
+White Tiger Lily;
+Yellow Bell Pepper*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

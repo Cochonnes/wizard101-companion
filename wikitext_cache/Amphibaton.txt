@@ -1,0 +1,176 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,495
+| crecla = Golem
+| school = Ice
+| startpips = 4
+| powerpips = Yes
+| critical =
+25 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire;
+
+| incresist =
+35% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Hydro-Mech;
+
+| world = Celestia
+| location = Science Center
+| subloc1 = Amphibaton's Asylum
+| lootchest = Amphibaton's Chest
+| descrip =
+*Two additional Hydro-Mech Minions appear if more than two Wizards are present.
+
+| speech =
+:''"Detect: Incoming aggression.<br/>Assessment: Considerable Threat.<br/>Reaction: Destroy!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+An autonomous robot, complete with the eco-friendly power of fish!
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Stun Block;
+Iceblade;
+Ice Trap;
+Ice Prism;
+Blizzard;
+Ice Wyvern;
+Thieving Dragon;
+Frostbite;
+Blight Hound;
+Colossus;
+Tundra Lord;
+Natural Attack (Ice 85x, 80%);
+
+| quests =
+Fish Tricks;
+
+| gold =
+62 - 79;
+
+| hats =
+Celestian Frostbit Helm;
+Hood of Dissonance;
+Secret Mask;
+Sinister Shroud*F3;
+Veil of Principles*F4*WMV;
+
+| robes =
+Frostbit Jerkin*F2*WMV;
+Insightful Cloak;
+Longcoat of Long Life;
+Spirit Armor*F2;
+
+| boots =
+Boots of Celestian Totality;
+Congruent Clogs;
+Grim Greaves*F2*WMV;
+Scorched Footguards*F2;
+Storied Stalkers;
+Tolerant Boots;
+Wanderlust Runners*F3*WMV;
+
+| athames =
+Edge of Shadows*F3*WMV;
+Longevity Twin Blades;
+Sliver of Insight*F2*WMV;
+
+| amulets =
+
+| rings =
+Band of Principles*F2;
+Crustacean Band*F3*WMV;
+Loop of Illusions*F3*WMV;
+Ring of Memories;
+Swirling Signet;
+
+| wands =
+
+| decks =
+
+| items =
+Celestian Forge*F4*WMV;
+
+| cards =
+Giant;
+Kraken;
+Monstrous*F5;
+Precision;
+Sniper;
+Spirit Armor*F4;
+Vengeance*F6*WMV;
+
+| reagents =
+Cobalt*F2;
+Fish Fin*F6*WMV;
+Sandstone*F8*WMV;
+Scales*F4*WMV;
+Sunstone*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Delicious Cookie*F2*WMV;
+Glowing Star Fruit*F4;
+Glowing Taffy*F2*WMV;
+Spicy Drumstick*F2;
+Strawberry Cupcake*F2;
+Submarine Sandwich*F3*WMV;
+
+| jewels =
+Dissipate Amethyst;
+Dull Critical Peridot +3;
+Plain Defense Onyx +29;
+Plain Health Opal +60;
+Strangle Onyx;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fish on a Vine*F2*WMV;
+Maelstrom Snap Dragon*F3*WMV;
+Pink Dandelion*CR*F2;
+Silver Trumpet Vine*CR*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

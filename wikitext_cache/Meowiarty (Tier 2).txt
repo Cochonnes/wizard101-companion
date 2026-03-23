@@ -1,0 +1,115 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 14
+| heal = 10,080
+| crecla = Cat
+| school = Myth
+| cheats = Yes
+| shadowslots = 1
+| startpips = 4
+| powerpips = Yes
+| outpierce =
+15%;
+
+| outboost =
+100%;
+
+| incboost =
+None;
+
+| incresist =
+30% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Numbskull Ogre;
+
+| world = Housing Instance
+| location = Meowiarty Rematch
+| subloc1 = Meowiarty Challenge (Tier 2)
+| descrip =
+
+| speech =
+
+| cheatnotes =
+*''"Late? I'm quaking in my boots"'' - After his Minions are defeated, if a Wizard is late to combat, Meowiarty (Tier 2) will cast Earthquake.
+*''"I've taken the liberty of inviting some of your old friends"'' - At the start of the duel, he casts a Star Spell to summon three {{Link|Creature|Numbskull Ogre}} Minions, and uses {{Link|Spell|Blinding Light}} on all Wizards.
+*''"Settle in. We've much to catch up on."'' - At the start of the second Round, he casts an AoE Star version of {{Link|Spell|Guardian Spirit}} that restores 100% Health after defeat.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Myth Damage per Pip.
+
+| casts =
+Reliquary;
+Mythblade;
+Mass Myth Trap;
+Mythic Fuel;
+Time of Legend;
+Cyclops (Tier 3b);
+Minotaur (Tier 3b);
+Mystic Colossus;
+Earthquake;
+Stone Colossus (Tier 3b);
+Witch's House Call (No Minion);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+Scarab (Tier 2b);
+
+| reagents =
+Scrap Iron;
+
+| spellements =
+Cyclops Minion;
+Gearhead Destroyer;
+Ice Wyvern;
+Kraken;
+Immolate;
+Seraph;
+Vampire;
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Meowiarty (Rematch)
+}}

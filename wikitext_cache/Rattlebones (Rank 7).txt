@@ -1,0 +1,285 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 6,400
+| crecla = Undead
+| school = Death
+| masteries =
+Ice;
+
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+6%;
+
+| outboost =
+50%;
+
+| incboost =
+10% Fire, Life;
+
+| incresist =
+80% Ice, Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Fairy Queen (Rank 7);
+
+| world = Housing Instance
+| location = Rattlebones Master Challenge
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+His dark thirst for power could not be caged, so Malistaire helped him bone up on his Fairy lore.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+| altlink = Rattlebones (Duel)
+}}
+
+| cheatnotes =
+{{Icon|Death}} '''Rattlebones'''
+*{{Icon|Late}} ''"Tardiness will not be tolerated!"'' - If a Wizard joins the duel after it has already begun, Rattlebones will cast a Mana Burn at the Wizard.
+:*{{Link|Spell|Unbalance}} can be used to dispel this cheat.
+:*The Fairy Queen will cast this cheat if Rattlebones has been defeated.
+*{{Icon|Healing}} ''"Lets dampen the Heals!"'' - If a Wizard casts a [[:Category:Healing Spells|Healing]] Spell, he will cheat-cast Doom and Gloom.
+:*{{Link|Spell|Strangle}} can be used to dispel this cheat.
+:*Pet heals will trigger this cheat.
+*{{Icon|Feint}} ''"Why don't we trade?"'' - When a {{Link|Spell|Feint}} is placed on Rattlebones, he will cast Swap Ward to switch the Traps so that the higher percentage is on the Wizard.
+:*{{Link|Spell|Melt}} can be used to dispel this cheat.
+:*{{Link|Spell|Indemnity}} can be used to prevent this cheat.
+
+{{Icon|Life}} '''Fairy Queen (Rank 7)'''
+*{{Icon|Minion}} ''"Fairies! Protect your Queen!"'' - At the beginning of the first Round (and every four Rounds after a Minion is defeated), the Fairy Queen will summon two [[Creature:Fairy|Fairies (Rank 7)]] of random Schools, which become active the following Round, and have 1,750 Health.
+:*{{Link|Spell|Entangle}} will not dispel this cheat, but instead will cause the Minions to become active two Rounds later.
+*{{Icon|Blade}}{{Icon|Global}} ''"You'll never be as charming as Rattlebones!"'' - If a [[:Category:Blade Spells|Blade]] or [[:Category:Global Spells|Global]] Spell is cast, there is a random chance that the Fairy Queen will cast {{Link|Spell|Enfeeble}} on the Wizard who received the Blade or cast the Global Spell.
+:*{{Link|Spell|Dissipate}} can be used to dispel this cheat.
+:*If a multi-target Blade spell is cast (e.g. {{Link|Spell|Bladestorm}}), then she will only remove the Blade from the Wizard who cast the Spell.
+*{{Icon|Feint}}''"Why don't we trade?"'' - When a Feint is placed on the Fairy Queen, she will cast Swap Ward to switch the Traps so that the higher percentage is on the Wizard.
+:*Melt can be used to dispel this cheat.
+:*Indemnity can be used to prevent this cheat.
+
+| spellnotes =
+*The Gold Skeleton, which resembles his single-hit Natural Attack, has been observed to deal 470 damage.
+
+| casts =
+Fortify;
+Legion Shield;
+Plague;
+Graveblade;
+Sharp Graveblade;
+Feint (All Enemies);
+Steal Ward;
+Mana Burn;
+Doom and Gloom (-75%);
+Dark Sprite (195-315);
+Natural Attack (Rattlebones Rank 7);
+Gold Skeleton;
+Wraith;
+Frostbite (80+549);
+
+| quests =
+
+| gold =
+53 - 98;
+
+| hats =
+Bonebreaker Cowl of Cold*F2;
+Bonebreaker Cowl of Dreams;
+Bonebreaker Cowl of Flame*F2;
+Bonebreaker Cowl of Poise;
+Bonebreaker Cowl of Sparks*F3;
+Bonebreaker Cowl of Zeal*F3*WMV;
+Bonebreaker Rattled Cowl*F3*WMV;
+The Manticore*CR*F2*WMV;
+
+| robes =
+Bonebreaker Rattled Robe*F2;
+Bonebreaker Robe of Cold;
+Bonebreaker Robe of Dreams;
+Bonebreaker Robe of Flame;
+Bonebreaker Robe of Poise*F2*WMV;
+Bonebreaker Robe of Sparks*F2*WMV;
+Bonebreaker Robe of Strife;
+Bonebreaker Robe of Zeal*F2;
+
+| boots =
+Bonebreaker Rattled Shoes*F2;
+Bonebreaker Shoes of Cold;
+Bonebreaker Shoes of Dreams;
+Bonebreaker Shoes of Flame*F2;
+Bonebreaker Shoes of Poise;
+Bonebreaker Shoes of Sparks;
+Bonebreaker Shoes of Strife*F3;
+Bonebreaker Shoes of Zeal*F5*WMV;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Bonebreaker Rattled Rod*F4*WMV;
+Bonebreaker Rod of Dreams;
+Bonebreaker Rod of Flame;
+Bonebreaker Rod of Poise*F2*WMV;
+Bonebreaker Rod of Sparks*F2*WMV;
+Bonebreaker Rod of Strife;
+Bonebreaker Rod of Zeal*F3*WMV;
+
+| decks =
+
+| items =
+Adept's Socket Wrench;
+Enchanted Dining Table*F3*WMV;
+Enchanted Wizard's Bed*F2;
+Expert's Socket Wrench*F4*WMV;
+Novice's Socket Wrench*F3*WMV;
+Ravenwood Dining Chair*F2*WMV;
+Ravenwood End Table;
+Ravenwood Lounge Chair*F4*WMV;
+Wooden Skeleton Key*CR*F3*WMV;
+
+| cards =
+Animate*F3;
+Bad Juju;
+Banshee;
+Brimstone Revenant*F2;
+Catalan*F3*WMV;
+Clockwork Spider*F4*WMV;
+Dark Sprite*F4*WMV;
+Death Soldier;
+Deer Knight*F3*WMV;
+Fairy*F2;
+Ghoul*F8*WMV;
+Goat Monk;
+Gold Skeleton*F3*WMV;
+Handsome Fomori;
+Hex;
+Keeper of the Flame*F3*WMV;
+Lord of Night;
+Luminous Weaver*F2*WMV;
+Ninja Pigs*F3*WMV;
+Samoorai*F2*WMV;
+Savage Paw*F3;
+Scarecrow*F3*WMV;
+Skeletal Dragon*F4*WMV;
+Skeletal Pirate*F5*WMV;
+Sprite;
+Steal Charm*F2*WMV;
+Strangle*F2;
+Tower Shield*F2;
+Winter Moon*F3*WMV;
+
+| reagents =
+Acorn;
+Aether;
+Ancient Scroll*F2;
+Black Lotus;
+Bronze Gear;
+Cat Tail;
+Deep Mushroom;
+Ectoplasm;
+Fire Blossom;
+Fish Fin*F3*WMV;
+Fossil;
+Golden Pearl;
+Kelp;
+Lava Lily;
+Leather Straps;
+Mist Wood;
+Mote of Beauty*F3*WMV;
+Mote of Transport*F6*WMV;
+Mote of Wisdom*F6;
+Nightshade;
+Ore;
+Sandstone*F2*WMV;
+Scales;
+Scrap Iron;
+Shell*F3*WMV;
+Spider Silk*F2*WMV;
+Spring;
+Stone Block;
+Sunstone;
+Water Lily;
+
+| spellements =
+
+| snacks =
+Alligator Pear*F2;
+Baby Carrot*F2*WMV;
+Captain Canteloupe*F2;
+Cherry Tomato*F2;
+Crab Apples;
+Dead Beet Risotto*F5*WMV;
+Dragonhorned Melon;
+Evil Magma Soup*F4*WMV;
+Fancy Yogurt;
+Flowering Pineapple;
+Golden Wheat Bread;
+Granny Snow Apple*F5*WMV;
+Green Tomato;
+Hambrosia;
+Honey Bombs;
+King Parsley Soup*F2*WMV;
+Mystic Dragon Fruit;
+Peanut Butterflies*F2;
+Snow Apple Pie*F4*WMV;
+Spicy Stingers*F5*WMV;
+Sun Fruit;
+Yellow Corn*F2;
+
+| jewels =
+
+| pins =
+
+| pets =
+Rattlebones's Sprite*F4*WMV;
+
+| seeds =
+Ultra Alligator Pear Tree*F6*WMV;
+Ultra Boom Shroom*F6*WMV;
+Ultra Dandelion*F4*WMV;
+Ultra Fly Trap*F3*WMV;
+Ultra Helephant Ears*F4*WMV;
+Ultra Huckleberries*F3*WMV;
+Ultra King Parsley*F2*WMV;
+Ultra Ninja Fig*F4*WMV;
+Ultra Snap Dragon*F3*WMV;
+Ultra Snow Apples*F4*WMV;
+Ultra Tiger Lily*F4*WMV;
+Ultra Trumpet Vine*F3*WMV;
+
+| mounts =
+Death Whirlwind*7*F3;
+Death Whirlwind*PERM*F2;
+Life Whirlwind*7*F2*WMV;
+Life Whirlwind*PERM*F4*WMV;
+
+| spells =
+
+| altimage = Rattlebones (Duel)
+}}

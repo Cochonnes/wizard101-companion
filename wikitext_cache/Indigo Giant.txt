@@ -1,0 +1,271 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 12
+| heal = 11,320
+| crecla = Giant
+| school = Storm
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Death Seraph;
+
+| world = Avalon
+| location = The Wyrd
+| subloc1 = Dun Scaith
+| descrip =
+Two additional {{Link|Creature|Fomori Giant}}s appear if more than two Wizards are present.
+
+| speech =
+:''"By the skin of my teeth, a lil' Wizard! I just put the pot on the fire, but I don't mind breaking my fast with something raw."''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Fortify;
+Stormblade;
+Storm Trap;
+Windstorm;
+Darkwind;
+Wild Bolt;
+Natural Attack (Storm 160-320-480);
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Leviathan;
+Sirens;
+Tempest;
+
+| quests =
+Where The Demons Dwell;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge and has not unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge, the following drops will be available:
+*6 Spellements will drop each time for their respective rank 5-9 Spells.
+
+| gold =
+142 - 173;
+
+| hats =
+Chaos Knight's Blazing Helm;
+Great Horned Helm*F4*WMV;
+Last Knight's Guard;
+Mask of the Ponycorn's Friend*F4*WMV;
+Mother Oak's Guard;
+Order's Princely Guard;
+Paladin's Frosty Helmet;
+
+| robes =
+Hospitable Armiger's Tartan;
+Jouster's Plate;
+Just Armiger's Armor;
+Kin Bound Robes;
+Knight of Flame Armor*F4*WMV;
+Sunken Giant's Tartan*F6*WMV;
+
+| boots =
+Boots of Giant Dancing;
+Courageous Knight's Boots;
+Courtly Armored Boots;
+Fire-Spitter Dancers*F2*WMV;
+Friend of the Fire Elf Boots;
+Winter Wyrm Cleats*F3*WMV;
+
+| athames =
+Catalan's Bite*F4*WMV;
+Nodor's Brisk Blade*F3*WMV;
+
+| amulets =
+Numinous Torc*F3*WMV;
+Strength of the Oak Pendant*F4*WMV;
+
+| rings =
+Crystal Cave Rose*F4*WMV;
+Deep Water Rising Ring;
+
+| wands =
+Staff of the Wold*F4*WMV;
+Wyrd-Oak Staff;
+
+| decks =
+Antikythera Deck*F5*WMV;
+Beleno's Chivalric Gallery*F5*WMV;
+
+| items =
+Avalon Haunting Theme*F3*WMV;
+Avalon Owl Stained Glass;
+Avalon Shield;
+Avalon Tense Theme*F2*WMV;
+Bat Banner;
+Dragonspyre Pet Derby Theme;
+Fox Head Statue*F2;
+King Artorius Grave;
+Krokotopia Pet Derby Theme*F2;
+Marleybone Pet Derby Theme*F2*WMV;
+
+| cards =
+Amplify*F6*WMV;
+Berserk*F5*WMV;
+Cleanse Charm*F4*WMV;
+Colossal*F5*WMV;
+Disarm*F6*WMV;
+Empowerment*F3*WMV;
+Extraordinary*F5*WMV;
+Fire Dragon*F2*WMV;
+Forest Lord;
+Fortify*F3*WMV;
+Frost Giant*F4*WMV;
+Gargantuan*F2*WMV;
+Handsome Fomori*F3*WMV;
+Infallible*F6*WMV;
+Insane Bolt*F6*WMV;
+Mend*F3*WMV;
+Orthrus*F3*WMV;
+Power Nova*F3*WMV;
+Ra;
+Rebirth*F4*WMV;
+Scarecrow*F4*WMV;
+Storm Lord*F2*WMV;
+Supercharge*F7*WMV;
+Unstoppable*F3*WMV;
+Vengeance*F4*WMV;
+Wild Bolt*F10*WMV;
+
+| reagents =
+Black Lotus*F4*WMV;
+Brass;
+Bronze*F2*WMV;
+Cat Tail*F3*WMV;
+Cobalt;
+Deep Mushroom*F5*WMV;
+Frost Flower*F4*WMV;
+Lava Lily*F6*WMV;
+Mist Wood*F5*WMV;
+Nickel;
+Ore*F3*WMV;
+Parchment*F6*WMV;
+Pearl*F10*WMV;
+Red Mandrake*F5*WMV;
+Shell*F6*WMV;
+Steel*F3;
+Stone Block*F5*WMV;
+Tin;
+
+| spellements =
+Basilisk*BR;
+Blight Hound*BR;
+Centaur*BR;
+Chimera*BR;
+Colossus*BR;
+Dr. Von's Monster*BR;
+Earth Walker*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+Helephant*BR;
+Hydra*BR;
+Leviathan*BR;
+Medusa*BR;
+Minotaur*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Skeletal Pirate*BR;
+Snow Angel*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Stormzilla*BR;
+Triton*BR;
+Woolly Mammoth*BR;
+Wraith*BR;
+
+| snacks =
+Buttered Bread*F2*WMV;
+Cauliflowers*F2*WMV;
+Delicious Cookie;
+Deviled Eggs*F2*WMV;
+Flaming Soup;
+Glowing Taffy*F2;
+Goat Cheese;
+Golden Apple*F2;
+Golden Grapes*F3*WMV;
+Gummy Firecat*F2*WMV;
+Gummy Wyrms;
+Jelly Baby*F3*WMV;
+King Banana;
+Kola Nuts;
+Pigeon Pie;
+Salmonberry*F2*WMV;
+Shiny Tomato*F2*WMV;
+Spicy Drumstick*F3*WMV;
+Strawberry Cupcake;
+Submarine Sandwich;
+Treant Bark;
+Uni-Corn;
+
+| jewels =
+Clear Accurate Onyx +9%;
+Clear Blocking Jade +9;
+Clear Blocking Onyx +9;
+Clear Damage Onyx +19;
+Clear Damage Sapphire +19;
+Clear Defense Opal +20;
+Dimension Shift Peridot;
+Mass Triage Jade;
+Snow Drift Sapphire;
+Storm-Eye Amethyst;
+Vassanji Peridot;
+
+| pins =
+
+| pets =
+Dreamsong Seraph*F3;
+
+| seeds =
+Angel Oak*F3*WMV;
+Angora Bunny Ears;
+Blue Huckleberries*F2;
+Pink Dandelion*CR;
+Pink Huckleberries*F2*WMV;
+Red Huckleberries;
+Trumpet Vine;
+Venus Fly Trap;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

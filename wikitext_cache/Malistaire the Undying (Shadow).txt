@@ -1,0 +1,440 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 24,000
+| crecla = Undead
+| school = Death
+| cheats = Yes
+| shadowslots = 4
+| startpips = 4
+| powerpips = Yes
+| critical =
+61 Any;
+
+| criticalblock =
+89 Any;
+
+| outpierce =
+40%;
+
+| outboost =
+25% Death;
+
+| incboost =
+20% Ice, Myth, Balance;
+40% Life;
+
+| incresist =
+20% Storm;
+60% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| randomminions =
+Draconian Conjurer;
+Draconian Diviner;
+Draconian Necromancer;
+Draconian Pyro;
+Draconian Pyromancer;
+Draconian Sorcerer;
+Draconian Thaumaturge;
+Draconian Theurgist;
+
+| totalminions = 3
+| world = Wizard City
+| location = Castle Darkmoor (Location)
+| subloc1 = Graveyard
+| lootchest = Malistaire's Chest
+| descrip =
+This is the first form of this Boss. When Malistaire the Undying (Shadow) is defeated or reaches below 1,000 health, he will respawn as {{Link|Creature|Haunted Malistaire}}†. Use the Haunted Malistaire page to list Spells and stats, but record all drops and cheats on this page.
+
+| speech =
+:''"And so it comes to this. You, shaking in your too-large robes. A flimsy wand trembling in your grasp. The sour scent of fear sweat in the air. And me. EXULTANT in my mastery of magic. In a small way, I should thank you. If you had not sent me spinning off into the void, had not destroyed Morganthe, I might not have been able to achieve this. At my moment of greatest pain and confusion and despair, the locked gates of the Spiral opened before me, and I was able to master Shadow. Once you are but a memory and a pinch of dust upon the wind, I will have the power to restore my Sylvia to her vibrant form. Then we can live out our lives as we planned. Quietly and in peace. And Shadow take any who get in our way. I challenged you under the ancient Law of Kan Davasi. It is just between us now, Wizard. Prepare your spells and face my cold fury!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+The most powerful and deadly incarnation of Malistaire the Spiral has ever witnessed. So far.
+
+| extract class =
+Undead;
+
+| summon animus = 30
+| summon gold = 1,000
+| guest animus = 50
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Manipulation}} ''"I cannot be stopped"'' - At the beginning of the first Round, Malistaire will cheat-cast a Shadow {{Link|Spell|Mega Taunt}} on the first Wizard.
+**This cheat restores Malistaire the Undying (Shadow) to 100 health and spawns as Haunted Malistaire after being defeated for the first time.
+*{{Icon|Blade}} {{Icon|Trap}} ''"What was yours is mine"'' - If a Wizard casts a universal Damage [[:Category:Blade Spells|Blade]] (e.g. {{Link|Spell|Balanceblade}}) or universal positive Damage [[:Category:Ward Spells|Ward]], he will cast Steal Charm or Steal Ward on the Wizard that received the effect.
+**Pet Spells will trigger this cheat.
+**If a multi-target Blade or Ward Spell, such as {{Link|Spell|Bladestorm}} or {{Link|Spell|Legion Shield}} is used, only the caster will be affected.
+**Secondary Spell effects, such as the Ward from {{Link|Spell|Abominable Weaver}}, will not trigger this cheat.
+*{{Icon|Curse}} {{Icon|Jinx}} ''"I cast off your spells!"''
+**If a universal Trap (e.g. Feint) is placed on Malistaire, he will cast {{Link|Spell|Cleanse Ward}} on himself.
+**If a universal negative Charm (e.g. Black Mantle) is placed on Malistaire, he will cast {{Link|Spell|Cleanse Charm}} on himself.
+***Pet Spells, {{Link|ItemCard|Life Feint}}, and secondary Spells other than negative Damage Charms will trigger this cheat.
+***All Enemy Charms and Wards, (e.g. {{Link|ItemCard|Mass Feint}}), and negative Health Charms (e.g Infection) will not trigger this cheat.
+**If {{Link|Spell|Elemental Defuse}} or {{Link|Spell|Spirit Defuse}} is used, Malistaire the Undying will use a version of Cleanse Charm to remove all three Dispel Charms.
+*{{Icon|Weakness}} ''"I grow stronger every moment"'' - If any {{Link|Spell|Weakness}} is placed on Malistaire, he will cast a version of Empower that deals 300 Death Damage on himself and gains 3 pips.
+**Weakness-based pet spells, roshambo spells (even if no Weakness is placed on Malistaire), and secondary Spell effects (e.g. {{Link|Spell|Efreet}}) will trigger this cheat.
+*{{Icon|Damage}} ''"Can you face my stare?"'' - If a Wizard uses a single target Damage Spell against Malistaire, he will cast {{Link|Spell|Black Mantle (-55%, 0 Pip)}} on the Wizard after the attack.
+**Pet Spells will trigger this cheat.
+**The Secondary Interrupt Cycle after attacking Malistaire before the last round can remove the Mantle from the Wizard.
+
+'''Interrupt Cycles'''
+Malistaire's first form revolves around two cheat cycles; a "Primary Interrupt Cycle" and a "Secondary Interrupt Cycle." Both cycles overlap each other throughout the battle.
+
+:'''Primary Interrupt Cycle:'''
+:The primary interrupt cycle repeats every 5 Rounds.
+:*{{Icon|Moon}} ''"Fear the power of Dragonspyre"'' - At the end of the third Round in this cycle, Malistaire will polymorph into a Black Dragon and attack a random Wizard, dealing 535 Moon Damage and destroying any Aura effects.
+:*{{Icon|Sun}} ''"A gift from Tartarus"'' - At the end of the fourth Round, he will cast a Sun version of Deadly Minotaur on a random Wizard.
+:*{{Icon|Star}} ''"My curse upon you!"'' - At the end of the fifth Round, he will cast an [[:Category:Aura Spells|Aura]] that grants him '''+20%''', '''+15%''', and '''+10%''' outgoing Death Damage and three '''+15%''' Power Pip Chance for five Rounds.
+
+:'''Secondary Interrupt Cycle:'''
+:The secondary interrupt cycle activates at the beginning of the fifth Round, repeating itself every four Rounds.
+:*''"Its power shakes your spells apart!"'' -  At the beginning of the fifth Round, Malistaire's Skeletal Dragon will remove all Charms and Wards from each Wizard.
+:**Wizards using {{Link|Spell|Empowerment}} or {{Link|Spell|Adapt}} will gain one Pip or Power Pip, respectively.
+
+===Haunted Malistaire (second form) {{Icon|Polymorph}}===
+*''"I touch Shadow!"'' - Haunted Malistaire, a Shadow Boss, will spawn within the battle after Malistaire the Undying (Shadow) has been defeated or reaches below 1,000 health. The Boss interrupts a Shadow Spell at the beginning of the round that sets its max health to 48,000 and restores 99,999 Health, followed by a Secondary Interrupt Cycle.
+**This cheat occurs once, even if Malistaire the Undying (Shadow) is not defeated.
+***If Malistaire the Undying (Shadow) is not defeated and only Haunted Malistaire is defeated first, he will revive himself with 100 Health, retain his stats from Haunted Malistaire, and delay his Shadow version of Primary Interrupt Cycle by one round.
+**Malistaire's Health after healing can be decreased to 25,050 if a Treasure Card {{Link|TreasureCard|Doom and Gloom}} is present when Malistaire the Undying (Shadow) is defeated. 
+***A regular {{Link|Spell|Doom and Gloom}} will not reduce his health below 48,000.
+***If Malistaire the Undying (Shadow) is not defeated, the health can be reduced further using negative Healing Charms, such as Mass Infection.
+Haunted Malistaire retains all the above cheats except his Primary Interrupt Cycle, along with the one cheat below.
+*''"Curse you beast! Do not defy me!"'' - Malistaire's Skeletal Dragon will randomly place a '''+100%''' universal Trap on Malistaire and his allies.
+
+'''Interrupt Cycles'''
+The "Primary Interrupt Cycle" is replaced with a Shadow version. The "Secondary Interrupt Cycle" stays the same.
+
+:'''Primary Interrupt Cycle (Shadow version):'''
+:This cycle repeats every 4 Rounds.
+:*''"I call upon Shadow"'' - At the end of the first Round, he will cast {{Link|Spell|Shadowblade}} on himself.
+:*''"I call upon Shadow"'' - At the end of the second Round, he will cast {{Link|Spell|Shadowspear}} on himself.
+:*''"I call upon Shadow"'' - At the end of the third Round, he will cast an All Enemies version of {{Link|Spell|Shadow Trap}}.
+:*''"I will show you the Shadow"'' - At the end of the fourth Round, he will cast Shadow Steal, which deals 1,600 Shadow Damage, and converts 100% of the Damage to Health.
+
+:'''Secondary Interrupt Cycle:'''
+:Same as with his first form (repeats every four Rounds).
+:*''"Its power shakes your spells apart!"'' -  At the beginning of the fourth Round, Malistaire's Skeletal Dragon will remove all Charms and Wards from each Wizard.
+:**Wizards using Empowerment or Adapt will gain one Pip or Power Pip, respectively.
+
+| spellnotes =
+*Even though the Spell text does not indicate this, it has been observed that Skeletal Dragon (666+333) does ''Damage to All Enemies''.
+*Lord of Night (625) applies a -40% Healing Ward to the target.
+
+| casts =
+Deathspear;
+Infection;
+Mass Infection;
+Virulent Plague;
+Deathblade (+50%);
+Curse;
+Feint (+80%);
+Age of Reckoning;
+Call of Khrulhu;
+Lord of Night (625);
+Deer Knight (440+410);
+Scarecrow (585);
+Skeletal Dragon (666+333);
+Dr. Von's Monster (1,005);
+Natural Attack (Shadow 110-215-425);
+
+| quests =
+House of Mystery and Suspense;
+The Sound of His Wings;
+
+| gold =
+223 - 847;
+
+| hats =
+Battle Mage's Helm of Furor;
+Brimstone Helm of Darkmoor*F3*WMV;
+Carpathesian Helm of Fury;
+Cowl of Undying Malistaire*F2*WMV;
+Darkmoor Barbut of Delusion*F3*WMV;
+Darkmoor Helmet of Shivers;
+Darkmoor Herald's Mantle*F3*WMV;
+Death Lord's Veil of Woe*F3;
+Death Mask of the Usurped;
+Depths of Darkmoor Cover*F3;
+Helm of Castle Darkmoor;
+Helm of the Living Dead*F6*WMV;
+Helmet of Kan Davasi Law;
+Hood of the Cold Hearted;
+Kan Davasi Victor's Hood;
+Malistaire's Cowl of Flux*F6*WMV;
+Mantle of the Bitter Ghost;
+Masque of the Exalted One*F2;
+Raging Blackwater's Helm*F5*WMV;
+Shroud of Malistaire's Ire;
+Spirit of Darkmoor's Helm;
+
+| robes =
+Armor of Carpathesian Fury;
+Armor of the Cold Hearted;
+Battle Mage's Gear of Furor;
+Boneplate of the Usurped;
+Brimstone Gear of Darkmoor*F2;
+Darkmoor Armor of Delusion*F2;
+Darkmoor Armor of Shivers*F2;
+Darkmoor Herald's Gear*F6*WMV;
+Death Lord's Cloak of Woe*F3;
+Depths of Darkmoor Raiment*F4*WMV;
+Drape of the Exalted One*F4;
+Kan Davasi Victor's Gear;
+Law of Kan Davasi Vestment;
+Malistaire's Cloak of Flux*F5*WMV;
+Plate of the Bitter Ghost;
+Plate of the Living Dead*F6*WMV;
+Raging Blackwater's Plate*F8*WMV;
+Raiment of Castle Darkmoor;
+Robes of Malistaire's Ire;
+Spirit of Darkmoor's Gear;
+Undying Malistaire's Tunic*F3*WMV;
+
+| boots =
+Battlemage's Boots of Furor;
+Bitter Ghost's Stalkers;
+Boots of Carpathesian Fury;
+Boots of Malistaire's Ire*F2*WMV;
+Brimstone Boots of Darkmoor;
+Castle Darkmoor Footwraps;
+Darkmoor Boots of Delusion;
+Death Lord's Greaves of Woe*F3;
+Depths of Darkmoor Stalkers;
+Herald of Darkmoor's Shoes*F2*WMV;
+Kan Davasi Victor's Greaves*F2*WMV;
+Law of Kan Davasi Sabatons;
+Malistaire's Boots of Flux*F2*WMV;
+Raging Blackwater's Boots*F4*WMV;
+Sabatons of Frozen Furor;
+Sabatons of the Exalted One;
+Sabatons of the Living Dead*F4*WMV;
+Shoes of the Cold Hearted;
+Sollerets of the Usurped;
+Spirit of Darkmoor's Shoes;
+Undying Malistaire's Boots*F2;
+
+| athames =
+Blade of Kan Davasi;
+Dirk of Unnatural Life*F4*WMV;
+Dragon's Tooth of Darkmoor*F3*WMV;
+Herald of Darkmoor's Knife*F3*WMV;
+Kris of Cold Fury;
+Sharp Edge of the Void*F2*WMV;
+Thunderclap Spike*F6*WMV;
+
+| amulets =
+Brimstone Torc of Darkmoor*F2*WMV;
+Darkmoor Frost Collar;
+Embodiment of Death Charm*F4*WMV;
+Kan Davasi Medallion;
+Pendant of Love's Grace*F2*WMV;
+Relic of the Fetid Lagoon*F7*WMV;
+Vial From the Fetid Lagoon*F2;
+
+| rings =
+Blackwater's Band*F2*WMV;
+Gargoyle's Circle;
+Herald of Darkmoor's Seal*F3;
+Ring of Mortis*F5*WMV;
+Signet of the Howling Wolf;
+Von Shane Family Signet*F4*WMV;
+Wolfbane Loop;
+
+| wands =
+Armament of the Grotesque;
+Arms of the Ceaseless Watch;
+Bludgeon of the Dark Skies*F5*WMV;
+Brace of Annihilation;
+Brace of the Burning Gaze;
+Dyad of the Icy Stare;
+Eye of the Storm Pair;
+Lord of Death's Dragonstaff*F2;
+Mace of the Dark Flame*F2*WMV;
+Mace of the Outer Void;
+Mace of the Undying*F6*WMV;
+Morning Star of Kan Davasi;
+Morning Star of Misery*F4;
+Quarterstaff of Cold Fury;
+Set of the Malicious Spirit;
+Staff of Malistaire's Frenzy;
+Staff of the Dragon's Maw*F4*WMV;
+Staff of the Twisted Mind;
+Staff of the Undying Heart*F5*WMV;
+Staff of the Void Stalker*F4*WMV;
+Virge of the Bitter Ghost;
+
+| decks =
+Arcana of Kan Davasi;
+Cards of the Blue Ague;
+Darkmoor's Brimstone Deck*F2*WMV;
+Darkmoor's Case of Scrutiny;
+Deck of Unchecked Passion*F2*WMV;
+Thunderous Darkmoor Hand*F3;
+Von Shane's Hand of Doom*F5*WMV;
+
+| items =
+Stone Skeleton Key*CR;
+Wooden Skeleton Key*CR;
+
+| cards =
+Avenging Fossil*F9*WMV;
+Banshee*F5*WMV;
+Black Cat*F5;
+Brimstone Revenant*F6*WMV;
+Catalan*F8*WMV;
+Celestial Calendar*F3;
+Chastisement*F5*WMV;
+Cycle of Life*F4*WMV;
+Dark Tribute*F4*WMV;
+Deer Knight*F2;
+Dr. Von's Monster*F5;
+Furnace*F5*WMV;
+Galvanic Field*F7*WMV;
+Goat Monk*F8*WMV;
+Handsome Fomori*F2;
+Hex*F4*WMV;
+Keeper of the Flame*F6*WMV;
+Lady Blackhope*F3*WMV;
+Lord of Night*F6*WMV;
+Lord of Winter*F6*WMV;
+Luminous Weaver*F7*WMV;
+Ninja Pigs*F7*WMV;
+Plague*F2*WMV;
+Poison*F5*WMV;
+Punishment*F6*WMV;
+Reliquary*F7*WMV;
+Sabertooth*F2;
+Samoorai*F12*WMV;
+Savage Paw*F7*WMV;
+Skeletal Dragon*F2*WMV;
+Sleet Storm*F7*WMV;
+Spinysaur*F5*WMV;
+Storm Owl*F4*WMV;
+Sun Serpent*F3;
+The Bonekeeper*F4*WMV;
+Vampire*F6*WMV;
+Virulence*F4*WMV;
+Winter Moon*F5*WMV;
+
+| reagents =
+Amber*F3;
+Amber Dust;
+Astral Shard*F9*WMV;
+Black Lotus*F14*WMV;
+Black Pearl*F3*WMV;
+Blood Moss*F7*WMV;
+Bone*F16*WMV;
+Braided Vine*F4*WMV;
+Bronze Gear*F16*WMV;
+Deep Mushroom*F18*WMV;
+Draconium*F4*WMV;
+Fire Blossom*F14*WMV;
+Fossil*F8*WMV;
+Golden Pearl*F5*WMV;
+Lava Lily*F13*WMV;
+Merle's Whisker*F3*WMV;
+Mist Wood*F11*WMV;
+Mithril;
+Mote of Eternity*F10*WMV;
+Nightshade*F8*WMV;
+Ore*F14*WMV;
+Orichalcum*F9*WMV;
+Red Mandrake*F11*WMV;
+Silver;
+Stone Block*F8*WMV;
+Sunstone*F6*WMV;
+Titanium*F4*WMV;
+Tungsten;
+Turquoise*F11*WMV;
+Vine;
+
+| spellements =
+
+| snacks =
+Alligator Pear*F3;
+Bell Pepper Steak*F3;
+Berry Poundcake*F13*WMV;
+Bread Fruit Fruit*F16*WMV;
+Desparagus Quiche;
+Desparagus Salad*F20*WMV;
+Discord Grape Jelly*F2;
+Evil Magma Soup*F2*WMV;
+Huckleberry Muffin*F16*WMV;
+Huckleberry Pie*F14*WMV;
+King Parsley Soup;
+Ninja Fig Bars*F2;
+Snow Apple Pie*F24*WMV;
+Stuffed Bell Pepper*F2*WMV;
+
+| jewels =
+Balanceblade Talent Citrine*F2*WMV;
+Big Energy Opal;
+Big Rally Opal;
+Blade Flurry Amethyst;
+Dogged Opal;
+Huge Energy Opal;
+Mokompo Amethyst;
+Nerys Citrine;
+Polished Accurate Hematite +10%;
+Polished Accurate Jade +10%;
+Polished Accurate Opal +5%;
+Polished Accurate Ruby +10%;
+Polished Accurate Sapphire +10%;
+Polished Blocking Jade +12;
+Polished Blocking Opal +6;
+Polished Critical Citrine +12;
+Polished Critical Peridot +12;
+Polished Damage Hematite +42;
+Polished Damage Ruby +22*F2;
+Polished Defense Amethyst +44;
+Polished Defense Hematite +44;
+Polished Defense Opal +22*F2*WMV;
+Polished Defense Ruby +44;
+Polished Defense Sapphire +44;
+Polished Piercing Hematite +5%;
+Polished Piercing Opal +3%;
+Pyrosaurus Rex Ruby;
+Power-Taker Ruby;
+Sir Lamorak Ruby;
+Steal Health Talent Onyx;
+Unbreakable Opal;
+Weakenizer Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries*F4;
+Fiery Boom Shroom;
+Frozen Fly Trap*F5*WMV;
+Honey Bee Plant*F2;
+Key Limes*CR;
+Melting Cheese Tree;
+Moon Flower;
+Pink Dandelion*CR*F2;
+Pink Huckleberries;
+Red Huckleberries;
+Saw Palmetto;
+
+| mounts =
+
+| spells =
+
+}}

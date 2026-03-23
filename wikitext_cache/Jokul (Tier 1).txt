@@ -1,0 +1,181 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 2,400
+| crecla = Yeti
+| school = Ice
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Rabid Wildclaw (Tier 1);
+Untamed Wildclaw (Tier 1);
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 1)
+| descrip =
+
+| speech =
+:''"You smell like wet bear.  You are the one who defeated Wretched Elexorien and her spawn, Tyrfing?  My master, Eirikur Axebreaker, is not pleased.  I'll rain blows of fury upon you, and snatch your spirit for the great wyrm!"''
+
+| cheatnotes =
+*{{Icon|Jinx}} If a Prism is cast on Jokul, he will remove the Prism, along with any Traps placed on him at the end of the Round.
+*{{Icon|Fire}} If a Fire Damage Spell is cast on Jokul, he will cast an Ice Trap on all Wizards, followed by Blizzard.
+:*This cheat doesn't apply during the second Round of the duel.
+*{{Icon|Afterlife}} If both Wildclaws are defeated, he will cast a '''+40%''' version of Ice Trap on all Wizards, followed by Blizzard. 
+
+| spellnotes =
+
+| casts =
+Iceblade (+40%);
+Ice Trap;
+Freeze;
+Ice Bats (175);
+Snow Serpent;
+Ice Elf (45+180);
+Evil Snowman;
+Blizzard;
+Natural Attack (Ice 233-1,810);
+
+| quests =
+Hall of the Bear;
+
+| gold =
+45 - 99;
+
+| hats =
+Raven Helm of Unkindness (Level 10+)*CR*F2;
+Thought and Memory Helm (Any Level);
+Thought and Memory Helm (Level 10+)*CR;
+
+| robes =
+Armor of Many Winters (Any Level);
+Ravenking's Battle Story Armor (Any Level)*CR;
+Ravenking's Battle Story Armor (Level 10+)*CR;
+
+| boots =
+Unkind Winter Boots (Level 10+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Raven's Claw of Unkindness (Level 10+)*CR;
+Raven's Storied Razor (Level 10+)*CR;
+
+| decks =
+
+| items =
+Dewberries;
+Felled Birch Tree;
+Felled Evergreen*F2;
+Leaf-Bare Tree;
+Purple Dewberries;
+Stumpworm Stump*F2;
+Tanglebrush;
+Wild Brush;
+
+| cards =
+Colossus;
+Frost Giant*F2;
+Leviathan*F2;
+Orthrus;
+Ra;
+Rebirth;
+Regenerate*F2;
+Satyr*F3;
+Skeletal Dragon;
+Snow Angel;
+Woolly Mammoth;
+
+| reagents =
+Acorn;
+Blood Moss;
+Deep Mushroom;
+Diamond;
+Fossil;
+Frost Flower;
+Grendelweed;
+Mist Wood;
+Nightshade;
+Ore*F2;
+Pyrite*F3;
+Red Mandrake*F3;
+Sandstone*F3;
+Spider Silk*F2;
+Stone Block*F2;
+
+| spellements =
+
+| snacks =
+Bad Honeyed Dates;
+Caramel Corn;
+Fried Worms*F2;
+Frosty Sugar Cubes;
+Frozen Snails;
+Fruit and Nut Bar;
+Fuzzy Peach Fizz;
+Lime Peel Rickey*F4*WMV;
+Peppercorn*F3*WMV;
+Pickled Garlic Grubs;
+Pollen Bombs*F2;
+Salmonberry;
+Simple Sugar Pop;
+Spicy Drumstick*F2;
+Sunflower Hearts;
+
+| jewels =
+Cracked Accurate Citrine +1%;
+Cracked Accurate Jade +1%;
+Cracked Defense Citrine +4;
+Cracked Defense Citrine +5;
+Cracked Defense Onyx +6;
+Cracked Defense Peridot +4;
+Cracked Defense Ruby +4;
+Cracked Health Opal +7;
+Cracked Resilient Opal +1%;
+
+| pins =
+
+| pets =
+Diseased Wildclaw*CR;
+Grumpy Snowman;
+Primal Wildclaw*CR;
+Silverback Wildclaw*CR;
+
+| seeds =
+Evil Snow Peas*F2;
+Frozen Fly Trap*F2;
+Moon Flower*F3;
+Snow Apples;
+White Desparagus;
+White Laugh-O-Dil;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

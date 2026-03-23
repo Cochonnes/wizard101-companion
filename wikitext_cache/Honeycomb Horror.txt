@@ -1,0 +1,117 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 21
+| heal = 9,500
+| crecla = 
+| school = Death
+| masteries =
+Life;
+
+| cheats = Yes
+| shadowslots = 2
+| startpips = 6
+| powerpips = Yes
+| critical = 350
+| criticalblock = 350
+
+| outpierce =
+40%;
+
+| outboost =
+130%;
+
+| incboost =
+None;
+
+| incresist =
+40% Ice, Myth;
+70% Fire, Death, Balance, Sun, Moon, Star, Shadow;
+100% Storm, Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| randomminions =
+Djinn Bandit;
+Forest Demon;
+Grimtusk Bandit;
+Moosetaur Bandit;
+Stingtail Bandit;
+Stormasaur Bandit;
+Yeti Bandit;
+
+| totalminions = 1 
+
+| world = Raid
+| location = Voracious Void
+| subloc1 = 
+| descrip =
+This boss drops a Token required to unlock the Puzzle Gate in Mana Ranch.
+
+| speech =
+
+| cheatnotes =
+The Wizard can cast {{Link|Spell|Brush Fire}}, {{Link|Spell|Levin Bruin}}, {{Link|Spell|Rotting Fomori}}, and {{Link|Spell|War Oracle}} as inspired Casts during this battle.
+*At the end of every Round, Honeycomb Horror will cast {{Link|Spell|Power Current}} on itself.
+*After casting Doom Oni, Honeycomb Horror will cast {{Link|ItemCard|Energy Wall}} on itself.
+This battle uses snake turn order (Beastmoon).
+
+| spellnotes =
+*Casts a Death version of [[:File:(Item Card) Sabertooth Variation4.png|Sabertooth]].
+
+| casts =
+Deathblade (+40%);
+Deadzone;
+Banshee (Tier 5b);
+Call of Khrulhu;
+Death Seraph;
+Dr. Von's Monster;
+Doom Oni;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

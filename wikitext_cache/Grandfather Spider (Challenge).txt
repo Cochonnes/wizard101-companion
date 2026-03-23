@@ -1,0 +1,111 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 25,000
+| crecla = Spider
+| school = Shadow
+| shadowslots = 7
+| startpips = 3
+| powerpips = Yes
+| schoolpips =
+Storm;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Bort Shadowmane (Challenge);
+Shadowbones (Challenge);
+Shadowwock (Challenge);
+
+| world = Housing Instance
+| location = Grandfather Spider Rematch
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+
+| quests =
+
+| gold =
+
+| hats =
+Animated Deity Cap (Level 170+);
+Classical Deity Cap (Level 170+);
+Cool Deity Cap (Level 170+);
+Grimdark Deity Cap (Level 170+);
+Infamous Deity Cap (Level 170+);
+Inflammatory Deity Cap (Level 170+);
+Snappy Deity Cap (Level 170+);
+
+| robes =
+Animated Deity Tunic (Level 170+);
+Classical Deity Tunic (Level 170+);
+Cool Deity Tunic (Level 170+);
+Grimdark Deity Tunic (Level 170+);
+Infamous Deity Tunic (Level 170+);
+Inflammatory Deity Tunic (Level 170+);
+Snappy Deity Cap (Level 170+);
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Aethyr Crystal @ 12 Aethyr Crystal;
+
+| spellements =
+Climaclysm;
+Iron Sultan;
+Lamassu;
+Qismah's Curse;
+Sand Wurm;
+Scorching Scimitars;
+Snake Charmer;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

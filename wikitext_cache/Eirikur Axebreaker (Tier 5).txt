@@ -1,0 +1,200 @@
+{{Bug|This Creature's Frozen Armor cheat doesn't visually display even though it is applied to the Boss.}}
+{{Stub|cheat clarifications}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 24,000
+| crecla = Wyrm
+| school = Fire
+| masteries =
+Ice;
+
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Life, Balance;
+
+| incresist =
+60% Death;
+70% Fire;
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Thundersnow Troll (Tier 5);
+
+| world = Housing Instance
+| location = Winterbane Hall
+| subloc1 = Winterbane Hall (Tier 5)
+| descrip =
+For the purpose of drops, Eirikur Axebreaker (Tier 5) is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+:''"Ssss...  I see you there, vermin.  Through luck or courage, you have made it this far, Wizard.  May your bones split, your guts burst, and your tower burn to ash!  Come closer and let me vomit coldfire upon you!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+This guardian of Winterbane Hall has terrible stomach issues. Beware their coldfire vomit!
+
+| extract class =
+Wyrm;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Absorb}} Receives a {{Link|Spell|Frozen Armor}} on self on the first Round that absorbs 1,500 Damage.
+**Receives a second Frozen Armor when two of his Minions are defeated that absorbs 3,000 Damage.
+**Receives a third Frozen Armor when his final Minion is defeated that absorbs 6,000 Damage.
+***Bug: Frozen Armor doesn't visually display on the Boss.
+***{{Link|Spell|Beguile}} may trigger this final Frozen Armor.
+*{{Icon|Manipulation}} Casts {{Link|Spell|Steal Ward}} any time that a Wizard casts a Ward Spell. This also triggers a version of {{Link|Spell|Brimstone Revenant}} that deals 1,500 Damage.
+
+| spellnotes =
+
+| casts =
+Infallible (+20%);
+Fireblade;
+Elemental Blade (Ice-Fire);
+Choke (100%);
+Grand Phoenix;
+Fire Dragon (495+395);
+Efreet (1,000);
+Rain of Fire (330+880);
+Natural Attack (Eirikur Fire);
+Icebird (297);
+Natural Attack (Eirikur Ice);
+Woolly Mammoth;
+
+| quests =
+Hall of the Bear;
+
+| gold =
+171 - 311;
+
+| hats =
+Steel Raven Helmet (Level 90+)*CR;
+
+| robes =
+Everwinter Plate (Level 90+)*CR;
+
+| boots =
+Boots of Steel Wings (Level 90+)*CR;
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Unkind Axe of Winter (Level 90+)*CR;
+
+| decks =
+
+| items =
+Barbaric Throne*F3*WMV;
+Clawed Runestone*F2*WMV;
+Heroic Runestone*F2;
+Raven Tree Statue*F2;
+Runestone Spiral*F2;
+Sigiled Runestone*F2;
+
+| cards =
+Colossus*F3;
+Cycle of Life;
+Frost Giant*F2*WMV;
+Furnace;
+Leviathan*F3*WMV;
+Orthrus*F3*WMV;
+Primordial;
+Punishment*F2*WMV;
+Ra*F3;
+Rebirth;
+Regenerate*F3*WMV;
+Reliquary;
+Satyr*F2*WMV;
+Sharpened Blade*F2*WMV;
+Skeletal Dragon*F3*WMV;
+Snow Angel*F2*WMV;
+Woolly Mammoth*F3*WMV;
+
+| reagents =
+Acorn*F2*WMV;
+Blood Moss*F2*WMV;
+Cobalt*F3;
+Deep Mushroom;
+Diamond;
+Fossil;
+Frost Flower*F2;
+Grendelweed;
+Mist Wood*F3*WMV;
+Nickel;
+Nightshade;
+Ore;
+Red Mandrake;
+Spider Silk;
+Steel;
+Stone Block*F3*WMV;
+
+| spellements =
+
+| snacks =
+Bunch of Figs*F2;
+Cranberry Frog;
+Fried Worms*F3*WMV;
+Fuzzy Peach Fizz*F3;
+Lime Peel Rickey;
+Peppercorn*F2*WMV;
+Salmon Joy;
+Salmonberry;
+Simple Sugar Pop;
+Spicy Drumstick*F3;
+Sunflower Hearts;
+Sweet Mango;
+Wheat Cracker;
+Wormy Apple;
+
+| jewels =
+Myth-Shot Peridot;
+Plaguebringer Onyx;
+Ultra Boost Opal;
+
+| pins =
+
+| pets =
+Coldfire Dragon;
+
+| seeds =
+Evil Snow Peas;
+Frozen Fly Trap*F2*WMV;
+White Desparagus*F2;
+White Laugh-O-Dil;
+White Tiger Lily*F2;
+
+| mounts =
+
+| spells =
+
+}}

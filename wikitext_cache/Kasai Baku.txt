@@ -1,0 +1,240 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 745
+| crecla = Demon
+| crecla2 = Elephant
+| school = Fire
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Ice;
+
+| incresist =
+50% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Yin Fire Snake;
+
+| world = Wizard City
+| location = Olde Town
+| subloc1 = Telegraph Box (Wizard City)
+| descrip =
+During the [[Basic:Five B.O.X.E.S.|Five B.O.X.E.S. Event]], Kasai Baku can be found in the Telegraph Box (Wizard City) instance.  After {{Link|NPC|Dalia Falmea}} is moved from the School of Ice to the School of Fire per the Book of Secrets, Professor {{Link|NPC|Memphis}} summons this Helephant in the {{Link|Location|Fire Tower}} to serve as an entrance exam for the new student.
+
+| speech =
+:''"Face the heat, little Wizards, and try not to burn up into ashes!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+An ancient spire of fire, he once served as the entrance exam for the Ravenwood School of Fire Magic.
+
+| extract class =
+Elephant;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Snow Shield;
+Natural Attack (Fire 105);
+Fire Cat;
+Flamesnake;
+Firegut;
+Imp;
+Blood Bat;
+
+| quests =
+The Ordeal;
+
+| gold =
+19 - 134;
+
+| hats =
+Cap of Dread;
+Cap of Subsistence*F2*WMV;
+Circlet of Fortune*F3*WMV;
+Circlet of the Fallen;
+Cloud Cover;
+Cowl of the Flamesinger*F2*WMV;
+Greenwarden's Peaceful Mask (Level 10+)*CR;
+Greenwarden's Peaceful Mask (Level 20+)*CR;
+Headcloth of the Fray;
+Headdress of Expiry*F2*WMV;
+Ice Raider's Hat;
+Skystorm Cowl*F2*WMV;
+Snowthorn Hat;
+
+| robes =
+Cloak of Divination;
+Coat of Pouring Rain;
+Drape of the White Squall;
+Garments of Zeal*F3*WMV;
+Glacial Longcoat;
+Greenwarden's Brilliant Shroud (Level 10+)*CR;
+Greenwarden's Peaceful Shroud (Level 10+)*CR*F2;
+Greenwarden's Peaceful Shroud (Level 20+)*CR;
+Igneous Robe*F2;
+Mystifying Raiment;
+Raiment of the Lifespring*F2*WMV;
+Robe of Elegies;
+Robe of the Firebloom*F2*WMV;
+Runeweave Clothing;
+Smock of the Haruspex*F2*WMV;
+Thanatoid Vestment*F2*WMV;
+Tunic of Ataraxia;
+Tunic of the Everlasting*F2*WMV;
+Vestment of Serenity*F2*WMV;
+Vestment of Yesteryear*F2*WMV;
+
+| boots =
+Boots of Precipitation*F2*WMV;
+Boots of Reflexive Might*F3*WMV;
+Doomstriders;
+Footgear of the Firehaze;
+Fuming Striders;
+Greenwarden's Brilliant Boots (Level 20+)*CR*F2;
+Greenwarden's Energetic Boots (Level 10+)*CR*F2;
+Greenwarden's Peaceful Boots (Level 10+)*CR;
+Hibernal Footwraps;
+Shoes of Serenity;
+Slippers of Diligence*F2*WMV;
+Striders of Strife;
+
+| athames =
+Bodkin of Fury*F2*WMV;
+Iceshadow's Athame;
+
+| amulets =
+
+| rings =
+Ice Raider's Ring;
+Seal of the Tundra;
+Stone of Confidence*F2;
+
+| wands =
+Greenwarden's Brilliant Staff (Level 10+)*CR;
+Greenwarden's Energetic Staff (Level 10+)*CR;
+Greenwarden's Peaceful Staff (Level 10+)*CR;
+
+| decks =
+
+| items =
+Cherry Blossom Tree*F2;
+Elm Tree;
+Fire Bush*F2*WMV;
+Hedge Row*F2*WMV;
+Large Cypress Tree*F2*WMV;
+Maple Tree*F3*WMV;
+Red Leaf Tree*CR*F2*WMV;
+Small Bush*F2;
+Small Cypress Tree*F3*WMV;
+Small Maple Tree*F4*WMV;
+Small Toy Train*F2*WMV;
+Square Hedge*F2*WMV;
+Summer Tree;
+Tall Palm Tree*CR;
+
+| cards =
+Clockwork Spider*F12*WMV;
+Earthquake;
+Fire Elf;
+Firegut (380-418)*F11*WMV;
+Ghoul*F2;
+Guiding Light;
+Helephant*F2*WMV;
+Hydra;
+Leprechaun*F2;
+Lightning Bats;
+Locust Swarm*F2*WMV;
+Pixie;
+Reshuffle;
+Scarecrow;
+Snow Serpent*F2;
+Sprite;
+Stormzilla;
+
+| reagents =
+Copper*F7*WMV;
+Iron*F4*WMV;
+Lead*F2*WMV;
+Nickel*F3*WMV;
+Pyrite*F4*WMV;
+Sonic Spring*F4*WMV;
+
+| spellements =
+
+| snacks =
+Fairy Cake;
+Glowing Rock Candy;
+Golden Biscuit;
+Golden Candy Bar;
+Huge Ice Cream;
+Meat Soup*F5*WMV;
+Moon Pie*F3*WMV;
+Poncherello Chips;
+Spicy Popcorn;
+Tasty Biscuit*F6*WMV;
+
+| jewels =
+Chipped Accurate Amethyst +3%;
+Chipped Accurate Jade +3%;
+Chipped Accurate Peridot +3%;
+Chipped Mana Opal +11;
+Cracked Damage Amethyst +5;
+Cracked Damage Opal +3;
+Cracked Defense Citrine +12*F2*WMV;
+Cracked Defense Onyx +12;
+Cracked Defense Opal +4;
+Cracked Defense Ruby +12;
+Dark Sprite Onyx;
+Fire Cat Ruby*F2;
+Frost Beetle Sapphire;
+Gold Miner Opal;
+Imp Jade;
+Oil Slick Opal;
+Storm-Away Amethyst;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+Firebat;
+
+| seeds =
+Boom Shroom*F2*WMV;
+Couch Potatoes*CR*F3*WMV;
+Desparagus (Seed);
+Evil Snow Peas;
+Honey Sickle*F2*WMV;
+Orange Dandelion;
+Pink Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

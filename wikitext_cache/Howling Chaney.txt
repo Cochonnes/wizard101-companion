@@ -1,0 +1,258 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 20,000
+| crecla = Wolf
+| school = Life
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+25%;
+
+| outboost =
+
+| incboost =
+30% Fire, Death;
+
+| incresist =
+80% Life;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Hound of Heck;
+Hound of Heck;
+Hound of Heck;
+
+| world = Wizard City
+| location = Castle Darkmoor (Location)
+| subloc1 = Castle Darkmoor (Dungeon)
+| descrip =
+
+| speech =
+:''"Even a Wizard who is pure in heart both day and night may become a wolf when the wolfbane blooms and Darkmoor's moon is bright!"''
+
+| cheatnotes =
+*{{Icon|Heal}} ''"You like the taste of Life?"'' - If a Wizard casts a [[:Category:Healing Spells|Healing]] Spell, Howling Chaney will cheat-cast {{Link|Spell|Gnomes! (860-960)}} on the Wizard.
+**Pet and Wand may-cast Spells will trigger this cheat.
+
+:{{Icon|Life}} '''Life Interrupt Cycle:'''
+:*''"I sharpen my claws!"'' - At the beginning of the second Round (and every other Round thereafter), Howling Chaney will interrupt cast a '''+12%''' version of {{Link|Spell|Lifespear}} on himself.
+:*''"Tremble under the power of life!"'' - At the beginning of the third Round (and every three Rounds thereafter), he will interrupt cast a {{Link|Spell|Life Fuel (+35%)}} on a random Wizard.
+
+| spellnotes =
+
+| casts =
+Lifespear;
+Guiding Light;
+Rebirth;
+Dryad;
+Lifeblade (+40%);
+Life Trap;
+Life Fuel (+35%);
+Curse;
+Triage;
+Mass Triage;
+Guardian Spirit;
+Natural Attack (Life 105-205-405);
+Hungry Caterpillar;
+Spirited Minotaur (Life);
+Forest Lord;
+Gnomes!;
+Spinysaur;
+
+| quests =
+The Dark Powers;
+
+| gold =
+335 - 418;
+
+| hats =
+Brimstone Helm of Darkmoor;
+Darkmoor Barbut of Delusion;
+Darkmoor Helmet of Shivers;
+Depths of Darkmoor Cover;
+Helm of the Living Dead*F3*WMV;
+Raging Blackwater's Helm*F2*WMV;
+
+| robes =
+
+| boots =
+Brimstone Boots of Darkmoor;
+Darkmoor Boots of Delusion*F2;
+Depths of Darkmoor Stalkers*F3;
+Herald of Darkmoor's Shoes;
+Raging Blackwater's Boots*F2*WMV;
+Sabatons of Frozen Furor*F2;
+Sabatons of the Living Dead*F2*WMV;
+
+| athames =
+
+| amulets =
+Brimstone Torc of Darkmoor;
+Darkmoor Frost Collar;
+Embodiment of Death Charm;
+Kan Davasi Medallion;
+Pendant of Love's Grace;
+Relic of the Fetid Lagoon;
+Vial From the Fetid Lagoon*F2*WMV;
+
+| rings =
+Blackwater's Band;
+
+| wands =
+Bludgeon of the Dark Skies;
+Mace of the Outer Void*F2*WMV;
+Mace of the Undying*F2*WMV;
+Morning Star of Misery;
+
+| decks =
+Array of the Daystar;
+Cards of the Walking Dead;
+Duplicitous Squire's Deck;
+Spirit of Darkmoor's Hand*F2;
+
+| items =
+
+| cards =
+Avenging Fossil*F2*WMV;
+Banshee*F3*WMV;
+Black Cat*F5*WMV;
+Catalan*F2;
+Celestial Calendar*F2*WMV;
+Chastisement*F3*WMV;
+Cycle of Life;
+Dark Tribute*F2*WMV;
+Dr. Von's Monster*F6*WMV;
+Furnace*F3;
+Galvanic Field*F2*WMV;
+Goat Monk;
+Handsome Fomori*F2;
+Hex*F6*WMV;
+Lady Blackhope*F2;
+Lord of Night;
+Lord of Winter*F2*WMV;
+Luminous Weaver;
+Ninja Pigs;
+Plague*F3*WMV;
+Poison*F2*WMV;
+Punishment*F2*WMV;
+Reliquary*F3*WMV;
+Sabertooth*F5*WMV;
+Samoorai*F2*WMV;
+Savage Paw*F2;
+Skeletal Dragon;
+Sleet Storm*F3*WMV;
+Spinysaur*F3;
+Storm Owl*F3;
+Sun Serpent*F2;
+The Bonekeeper*F5*WMV;
+Vampire*F2;
+Virulence*F2*WMV;
+Winter Moon;
+
+| reagents =
+Astral Shard*F4;
+Black Lotus*F5*WMV;
+Black Pearl*F5*WMV;
+Blood Moss*F5*WMV;
+Bone*F8*WMV;
+Bronze;
+Bronze Gear*F4*WMV;
+Cobalt;
+Deep Mushroom*F3*WMV;
+Fire Blossom*F13*WMV;
+Fossil*F5*WMV;
+Golden Pearl*F4*WMV;
+Lava Lily*F7*WMV;
+Mist Wood*F8*WMV;
+Mithril*F2;
+Nickel;
+Nightshade*F2*WMV;
+Ore*F6*WMV;
+Parchment;
+Red Mandrake*F4*WMV;
+Scrap Iron;
+Silver;
+Steel;
+Stone Block*F9*WMV;
+Sunstone*F4*WMV;
+Tin;
+Titanium;
+Tungsten;
+Turquoise*F4*WMV;
+
+| spellements =
+
+| snacks =
+Alligator Pear*F3*WMV;
+Bell Pepper Steak*F4*WMV;
+Dead Beet Risotto*F3;
+Desparagus Quiche*F4*WMV;
+Discord Grape Jelly*F3*WMV;
+Evil Magma Soup*F6*WMV;
+Gummy Bees*F3*WMV;
+Honeycombs;
+Honeycrisp Apples;
+HoneyDon't Melon*F2*WMV;
+King Parsley Soup*F6*WMV;
+Ninja Fig Bars*F2*WMV;
+Prickly Bear Punch*F2*WMV;
+Punk Rock Candy;
+Stuffed Bell Pepper*F3*WMV;
+Sugar Khrystals;
+
+| jewels =
+Bombardier Opal;
+Clear Blocking Citrine +9;
+Clear Mana Opal +33;
+Clear Piercing Amethyst +5%;
+Dependable Opal;
+Determined Opal;
+Drain Health Jade;
+Ice-Away Sapphire;
+Opaque Damage Jade +18;
+Opaque Piercing Opal +2%;
+Polished Critical Amethyst +11;
+Polished Damage Jade +21;
+Polished Damage Sapphire +21;
+Quick-Witted Opal;
+Steal Health Onyx;
+Storm-Giver Amethyst;
+Ultra Mute Opal;
+Wisp Bonus Opal;
+
+| pins =
+
+| pets =
+Hunter's Hound*CR*F3*WMV;
+
+| seeds =
+Angel Oak*F5*WMV;
+Angora Bunny Ears*F3*WMV;
+Blue Huckleberries*F7*WMV;
+Fiery Boom Shroom*F2*WMV;
+Frozen Fly Trap*F3;
+Honey Bee Plant*F4;
+Key Limes*CR*F4*WMV;
+Melting Cheese Tree*F2*WMV;
+Moon Flower*F2*WMV;
+Pink Dandelion*CR*F6*WMV;
+Pink Huckleberries*F5*WMV;
+Red Huckleberries*F3*WMV;
+Saw Palmetto;
+
+| mounts =
+
+| spells =
+
+}}

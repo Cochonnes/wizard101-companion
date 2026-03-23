@@ -1,0 +1,148 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 10,080
+| crecla = Undead
+| school = Myth
+| cheats = Yes
+| shadowslots = 1
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+110%;
+
+| incboost =
+None;
+
+| incresist =
+Immune;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Unforgiven Dead Gauntlet
+| subloc1 = Unforgiven Dead Gauntlet (Tier 2)
+| descrip =
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Housing Instance
+| tome description =
+He ain't much, but he works for haggis. So ye get what ye pay for.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Late}} ''"Oh no, ye found me one weakness: showing up late."'' If a Wizard is late to combat, Grounds-Creeper Willie will cast a Shadow Spell giving all Wizards ''Banish! (1 Shadow Pip)''.
+**{{GivesSpell|Banish! (1 Shadow Pip)|size = x150px}}
+*{{Icon|Spell}} ''"Ach! I cannae be beaten, only banished! - "'' After the end of the first Round, Grounds-Creeper Willie (Tier 2) will give Wizards ''Banish! (1 Shadow Pip)''.
+*{{Icon|Damage}} ''"Ach! Get 'Em, Bitey!"'' - If Grounds-Creeper Willie (Tier 2) is attacked, he will interrupt-cast Orthrus.
+*{{Icon|Healing}} ''"Oh, Wizard need a heal? Maybe a blankie too?"'' - If a Wizard heals, Grounds-Creeper Willie (Tier 2) will cast a Shadow Spell giving Wizards ''Donate Shadow (3 Pip)''.
+**{{GivesSpell|Donate Shadow (3 Pip, Given)|size = x150px}}
+*{{Icon|Manipulation}} ''"Time for a controlled Mana Burn"'' - Grounds-Creeper Willie will cast an all enemies version of {{Link|Spell|Mana Burn (Shadow)}} that also removes 1 Shadow Pip.
+**''"Think ye can banish me? Try!"'' - Grounds-Creeper Willie will say this line after he uses Mana Burn.
+
+| spellnotes =
+
+| casts =
+Berserk;
+Ninja Pigs;
+Witch's House Call (No Minion);
+Medusa;
+Celestial Calendar;
+
+| quests =
+
+| gold =
+310 - 426;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Highlands Hero's Staff (Level 100+)*CR;
+Highlands Militia Staff (Level 100+)*CR;
+Highlands Raider's Staff (Level 100+)*CR;
+Highlands Soldier's Staff (Level 100+)*CR;
+
+| decks =
+
+| items =
+
+| cards =
+Brimstone Revenant;
+Deer Knight;
+Harvest Lord;
+Luminous Weaver;
+Plague;
+Steal Ward;
+Triage;
+Weakness;
+Wild Bolt;
+
+| reagents =
+Amber Dust;
+Elemental Retriever;
+Golden Pearl;
+Merle's Whisker;
+Potboiler Token;
+Spiritual Retriever;
+Sunstone;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+Dire Loch Monster*CR;
+Dire Loch Monster*7*CR;
+Dire Loch Monster*PERM*CR;
+Dread Loch Monster*CR;
+Dread Loch Monster*7*CR;
+Grim Loch Monster*CR;
+Grim Loch Monster*7*CR;
+Grim Loch Monster*PERM*CR;
+
+| spells =
+
+}}

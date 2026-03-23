@@ -1,0 +1,134 @@
+{{Stub|Spell Casts|Stats}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 15,355
+| crecla = Parasaur
+| school = Balance
+| cheats = Yes
+| shadowslots = 2
+| startpips = 4
+| powerpips = Yes
+| critical =
+1049 Balance;
+
+| criticalblock =
+968;
+
+| outpierce =
+56% Balance;
+
+| outboost =
+203% Balance;
+
+| incboost =
+None;
+
+| incresist =
+75% Any;
+
+| outhealing =
+88%;
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| randomminions =
+Crying Sky Bomber;
+Crying Sky Diver;
+Crying Sky Stampeder;
+Sky Crower;
+Sky Shrieker;
+Sky Squawker;
+
+| totalminions = 1
+| world = Raid
+| location = Crying Sky
+| subloc1 = Central Pyramid
+| lootchest = High Priestess Autloc's Chest
+| descrip =
+High Priestess Autloc is the Boss summoned on the Western portion of the Central Pyramid, after filling up the ''Fish Head Collector'' with one of each fish head school, the ''Cocao Pod Collector'' using cocao pods found in the {{Link|Location|Xibalba Wastes (West)}}, and the ''Crystal Skull Collector'' by defeating the two non-Cantrip Creatures in the Xibalba Wastes (West).
+*When Autloc is defeated, the ''Shrine of Autloc'' spawns in the middle of the sigil, allowing the player who defeated Autloc to polymorph into {{Link|Polymorph|High Priestess Autloc}}.
+
+| speech =
+:''"The wheel of fate has not spun in your favor."''
+
+| cheatnotes =
+*''"Life is random..."'' - At the start of every Round, Autloc randomly casts one of the following:
+**Applies a +15% Damage Trap on all enemies and a -25% Damage Ward on all allies.
+**Applies a -15% Damage Charm on all enemies and a +15% Damage Blade on all allies.
+**Deals 228 Balance Damage over 3 Rounds to all enemies, and restores 113 Health over 3 Rounds to all allies.
+*''"...but it always leads to death."'' - When any of the below conditions are met, Autloc will cast a Damage-Only version of {{Link|Spell|Sabertooth}} on all enemies.
+**Two Negative Wards on any one Wizard and two Positive Wards on Autloc
+**Two Negative Charms on any one Wizard and two Positive Charms on Autloc
+**Two Damage over Time effects on any one Wizard and two Heal over Time effects on Autloc
+*''"Balance is all things."'' - Once per Round:
+**If a Wizard casts a Positive Ward, Autloc will cast a -??% version of {{Link|Spell|Mass Tower Shield (Ice)}} that applies two Shields.
+**If a Wizard casts a Negative Ward, Autloc will cast a +50% version of {{Link|Spell|Mass Hex}} that applies two Traps.
+**If a Wizard casts a Positive Charm, Autloc will cast {{Link|Spell|Bladestorm (+40%)}}.
+**If a Wizard casts a Negative Charm, Autloc will cast a -40% version of {{Link|Spell|Virulent Plague}} that applies two Weaknesses.
+**If a Wizard casts a Heal over Time, Autloc will cast a Balance spell that gives ~??? Health over 3 Rounds on herself.
+**If a Wizard casts a Damage over Time, Autloc will cast a Balance spell that deals ~280 Balance Damage over 3 Rounds on all Wizards.
+
+| spellnotes =
+
+| casts =
+
+| quests =
+
+| dropnotes =
+All 12 Wizards in the Raid receive the drops, not just the ones within the battle.
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+Hunhau's Comet Ring (Level 160+);
+Hunhau's Crying Sky Ring (Level 160+);
+Hunhau's Heavenly Ring (Level 160+);
+Hunhau's Meteoric Ring (Level 160+);
+Hunhau's Singularity Ring (Level 160+);
+Hunhau's Vacuum Ring (Level 160+);
+Hunhau's Xenoform Ring (Level 160+);
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Glimpse of Infinity Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

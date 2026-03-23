@@ -1,0 +1,166 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 7,690
+| crecla = Celestian Protector
+| crecla2 = Undead
+| crecla3 = Golem
+| school = Myth
+| cheats = Yes
+| startpips = 4
+| powerpips = Yes
+| critical =
+28 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Storm;
+
+| incresist =
+35% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Celestia
+| location = Stormriven
+| subloc1 = Summoning Pylons
+| descrip =
+Procyon is summoned from the Summoning Pylons in Stormriven by using the second Pylon to the right.  
+
+| speech =
+:''"I do not tolerate healing magic. You would be wise not to use such spells."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Celestia
+| tome description =
+As a Celestian Protector, he had one job: do not call down meteors on Celestians who use healing spells. And he just couldn't do it.
+
+| extract class =
+Golems;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Damage}} ''"Here's to your health!"'' - If a Wizard casts a [[:Category:Healing Spells|Healing]] Spell, then Procyon will use a version of {{Link|Spell|Meteor Strike}} that deals damage for the following amount based on the number of spots filled by the Wizard team:
+::'''500''' Fire Damage (1 Wizard present)
+::'''600''' Fire Damage (2 Wizards present)
+::'''750''' Fire Damage (3-4 Wizards present)
+:*Pet Heals will not trigger this cheat.
+:*Even though these Spells are not cast by Procyon, they can still be [[Spell:Quench|dispelled]].
+
+| spellnotes =
+
+| casts =
+Mythblade;
+Myth Trap;
+Gobbler;
+Humongofrog;
+Humongofrog (400-500);
+Orthrus;
+Natural Attack (Myth 100x, 80%);
+
+| quests =
+
+| gold =
+0 - 48;
+
+| hats =
+Euphoric Cover;
+Shroud of Resolution*F3*WMV;
+
+| robes =
+Everlasting Armor;
+Molten Jerkin*F2*WMV;
+Thunderstruck Tunic;
+
+| boots =
+Principle Striders*F2*WMV;
+Willow Walkers*F2*WMV;
+
+| athames =
+Abyss Bodkin;
+Marcio's Icy Edge*F5*WMV;
+
+| amulets =
+Nova Necklace;
+Storm Lord's Pendant;
+
+| rings =
+Loop of the Lawful;
+
+| wands =
+Insightful Spyglass*F3*WMV;
+Jolting Jellywand*F2;
+Rod of Rapture*F2*WMV;
+
+| decks =
+
+| items =
+Celestia Mysterious Theme 2;
+Crane*F2;
+
+| cards =
+Monstrous*F3*WMV;
+Vengeance*F4*WMV;
+
+| reagents =
+Brass;
+Bronze;
+Cobalt;
+Steel;
+Tin;
+
+| spellements =
+
+| snacks =
+Cauliflowers*F3*WMV;
+Delicious Cookie;
+Glowing Star Fruit*F3*WMV;
+Glowing Taffy;
+Spicy Drumstick;
+Strawberry Cupcake*F2*WMV;
+Submarine Sandwich;
+
+| jewels =
+Blade Flurry Amethyst;
+Mass Fire Prism Ruby;
+Mass Life Prism Jade;
+Ninja Pig Opal;
+Plain Blocking Ruby +6*F2*WMV;
+Plain Damage Citrine +15;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Maelstrom Snap Dragon;
+Pink Dandelion*CR*F3*WMV;
+Silver Trumpet Vine*CR*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

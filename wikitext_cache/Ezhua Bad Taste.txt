@@ -1,0 +1,220 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 18,120
+| crecla = Dino
+| crecla2 = Undead
+| crecla3 = Tritop
+| school = Death
+| masteries =
+Ice;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Thunder Horn Ghoul;
+
+| world = Azteca
+| location = Tierra de Brea
+| subloc1 = Cave of Bad Taste
+| descrip =
+*Two additional Thunder Horn Ghoul Minions appear if more than two Wizards are present.
+
+| speech =
+: ''"Fifty years of death leaves a bitter taste that's hard to get rid of.  Let me try to wash my mouth with your blood!"'' 
+
+| monstrology =
+{{Monstrology Info
+| tome world = Azteca
+| tome description =
+Offensive comedians, their jokes are often in bad taste.
+
+| extract class =
+Dinos;
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Amplify;
+Vengeance;
+Tower Shield;
+Virulent Plague;
+Deathblade;
+Curse (+25%);
+Feint;
+Natural Attack (Death 175-350-525);
+Dr. Von's Monster;
+Avenging Fossil;
+Ice Wyvern (390-450);
+Frost Demon;
+
+| quests =
+Tarnished Gold;
+
+| gold =
+122 - 140;
+
+| hats =
+Dawn Hour Mantle*F2;
+Elite Jura Guard Helm;
+Five Fangs of Fury Headdress*F2*WMV;
+Indigo Wing Crown*F2;
+Thirteen Death Mask*F2;
+Tree of Secrets Chac Mask*F2;
+Twisted Fang Mask;
+
+| robes =
+Cloak of the Tyrant of Beasts;
+Glorious Xicolli Vest;
+Song of the Lizard Coat*F2;
+
+| boots =
+
+| athames =
+Fang of the Night Sky*F2;
+Tears of Mother Moon Blade*F2;
+
+| amulets =
+House of Plague Greenstone;
+Pitch Black Lake Plague Shell;
+Rising Sun Head Relic;
+Shining Cold House Amulet;
+Stone of the Green Skycarrier;
+
+| rings =
+Acampi Reedfist's Lost Seal*F2*WMV;
+Bleeding Sun Warrior's Loop*F2;
+Falling Star's End Time Band;
+Mother Moon's Count Ring*F2*WMV;
+Stone of the Green Skycarrier;
+
+| wands =
+Eclipse Spear of Azteca;
+Tears of Night Lance;
+Winter Lord's Obsidian Shard*F2*WMV;
+
+| decks =
+Codex of the Lost Fire;
+Deck of the Jaguar Spirit;
+Storm Sun Gallery*F2*WMV;
+Winter's Pyramid Deck*F3*WMV;
+
+| items =
+Azteca Apocalypse Theme;
+Hollow Log;
+Starburst Frond;
+Star Clothesline*F2*WMV;
+
+| cards =
+Basilisk;
+Colossal*F3*WMV;
+Dr. Von's Monster;
+Extraordinary*F2*WMV;
+Lord of Night;
+Potent Trap;
+Primordial;
+Sharpened Blade;
+Sirens;
+Woolly Mammoth;
+
+| reagents =
+Black Lotus*F2*WMV;
+Blood Moss*F2;
+Bone*F3*WMV;
+Brass*F2;
+Bronze Gear*F2;
+Cobalt;
+Deep Mushroom*F2*WMV;
+Fire Blossom*F4*WMV;
+Fossil;
+Golden Pearl;
+Lava Lily*F3*WMV;
+Mist Wood*F3*WMV;
+Mithril;
+Nightshade*F2;
+Ore*F2;
+Red Mandrake*F2;
+Silver;
+Steel;
+Stone Block*F2*WMV;
+Sunstone;
+Titanium;
+Tungsten;
+Turquoise*F2*WMV;
+
+| spellements =
+
+| snacks =
+Apatotatoes*F2*WMV;
+Avocado Milkshake;
+Aztecan Hot Chocolate;
+Buttered Bread;
+Chapulines*F2;
+Dr. Jalapeno;
+Maize;
+Marzipan Maize;
+Pterotomatoes*F2;
+Quetzal Pretzel*F3*WMV;
+Stego Waffles;
+Yucca;
+Zocalo Wings;
+
+| jewels =
+Buff Minion Peridot;
+Clear Defense Hematite +40;
+Draw Health Sapphire;
+Greensleeves Jade;
+Polished Critical Citrine +11*F2*WMV;
+Polished Critical Onyx +11;
+Sap Power Amethyst;
+Sprite Time Jade;
+Steal Health Onyx;
+Take Power Ruby;
+Troll Minion Peridot;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+Fiery Boom Shroom;
+Fish on a Vine;
+Pink Dandelion*CR;
+
+| mounts =
+
+| spells =
+
+}}

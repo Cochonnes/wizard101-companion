@@ -1,0 +1,184 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 13,320
+| crecla = Cow
+| crecla2 = Cow Gangster
+| school = Shadow
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+26%;
+
+| outboost =
+130%;
+
+| incboost =
+None;
+
+| incresist =
+68% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Doctor Prune's Irregular (Storm);
+
+| world = Lemuria
+| location = Heap
+| subloc1 = Honeybee Diner
+| descrip =
+
+| speech =
+
+| spellnotes =
+*Casts a protected Shadowblade.
+*Casts an unprotected Shadowblade.
+*Casts a protected Mass Shadow Trap.
+*Casts a version of Cleanse Ward (Shadow, - All) that affects all allies.
+
+| casts =
+Impede;
+Virulent Plague (Shadow);
+Shadowblade;
+Shadow Trap;
+Cleanse Ward (Shadow, -All);
+Dark Empower;
+Enfeeble (Shadow);
+Natural Attack (Shadow 105-210-315-420);
+Climaclysm (Shadow);
+Athena Battle Sight (Shadow);
+Glowbug Squall (Shadow, 1,120);
+Rusalka's Wrath (Shadow);
+Storm Owl (Shadow);
+
+| quests =
+Prune's Day;
+
+| gold =
+307 - 511;
+
+| hats =
+
+| robes =
+Supreme Hex Robe;
+
+| boots =
+
+| athames =
+Supreme Horror Athame;
+Supreme Old Judge Athame;
+Supreme Undead Athame;
+
+| amulets =
+Supreme Cold Steel Talisman;
+
+| rings =
+Supreme Deadly Ring;
+
+| wands =
+
+| decks =
+
+| items =
+Cargo;
+Lemuria Boss Combat Theme;
+Lemuria Minds Theme;
+Lemuria Noir Combat Theme;
+Lemuria Telos Theme 5;
+Lemuria Ursai Village Theme;
+Periodic Table Poster;
+
+| cards =
+Berserk;
+Dragonflies*F2;
+Ether Shield;
+Flute Symphony;
+Frostbite;
+Miniature Bloodbats;
+
+| reagents =
+Brass*F3;
+Bronze Gear;
+Cobalt;
+Ectoplasm*F2;
+Nickel*F4*WMV;
+Spider Silk;
+Synthonium;
+Tin*F2;
+
+| spellements =
+Blast Off!;
+
+| snacks =
+Fire Cracker*F2*WMV;
+Golden Biscuit;
+Golden Candy Bar*F2*WMV;
+Golden Squash;
+Star Cookie;
+Tiny Fish;
+
+| jewels =
+Balance Striker Citrine;
+Balance-Eye Citrine;
+Dazzling Accurate Jade +14%;
+Dazzling Accurate Onyx +14%;
+Dazzling Blocking Sapphire +19*F2*WMV;
+Dazzling Defense Opal +29;
+Dazzling Defense Ruby +58;
+Death-Boon Onyx;
+Death-Eye Onyx;
+Death-Shot Onyx;
+Dog Tracy Amethyst*F4*WMV;
+Fire-Eye Ruby;
+Life-Away Jade;
+Life-Boon Jade;
+Life-Shot Jade;
+Sparkling Blocking Onyx +17;
+Sparkling Critical Amethyst +17;
+Sparkling Critical Opal +9;
+Sparkling Damage Peridot +27;
+Sparkling Defense Amethyst +53;
+Sparkling Health Opal +117;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears*F2;
+Baby Carrots;
+Blue Huckleberries;
+Clockwork Flower;
+Cornbread Fruit Bush;
+Deadly Helephant Ears*CR;
+Ivy League*CR;
+Pink Huckleberries*F2*WMV;
+Prickly Bear Cactus;
+Red Couch Potatoes*F2;
+Red Huckleberries*F2;
+Rotten Beets;
+Rye Bread Fruit Bush;
+Saw Palmetto*F3*WMV;
+Snow Apples;
+Sunion*CR;
+Vampire Carrots;
+Venus Fly Trap;
+White Desparagus;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

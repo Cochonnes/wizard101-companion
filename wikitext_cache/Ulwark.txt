@@ -1,0 +1,159 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 3,110
+| crecla = Fish
+| school = Fire
+| startpips = 4
+| powerpips = Yes
+| critical =
+25 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice;
+
+| incresist =
+35% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Crustacean Waverunner;
+
+| world = Celestia
+| location = The Grotto
+| descrip =
+Ulwark is one of the three ancient spirits that Wizards help put to rest as part of the Quest "The Grotto".
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 100 Fire Damage per Pip.
+
+| casts =
+Fireblade;
+Fire Trap;
+Sunbird;
+Meteor Strike;
+Phoenix;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+
+| quests =
+The Grotto;
+
+| gold =
+51 - 103;
+
+| hats =
+Curious Mask;
+Examiner's Hat;
+Helmet of the Hero*F4*WMV;
+Mask of Cold Intent*F5*WMV;
+Pure Helm*F2;
+Rain Dance Mask;
+Wintery Veil;
+
+| robes =
+Attuned Uniform*F7*WMV;
+Innocent Outfit;
+Life Armor*F2;
+Rime Raiment;
+
+| boots =
+Diamond Dust Runners*F3*WMV;
+Pure Greaves;
+Wretched Runners;
+
+| athames =
+Dancing Dirk*F2*WMV;
+Dirk of Discovery*F5*WMV;
+Edge of Shadows*F2;
+Explorer's Edge;
+
+| amulets =
+
+| rings =
+Bizarre Band*F2;
+Imbued Ring*F2;
+Loop of Illusions*F4;
+Tobiko's Scorched Signet*F4;
+
+| wands =
+
+| decks =
+
+| items =
+Grand Astrolabe*F5;
+
+| cards =
+Blizzard;
+Cyclops;
+Evil Snowman;
+Fortify*F2;
+Ice Trap;
+Keen Eyes*F2;
+Meteor Strike;
+Monstrous*F7*WMV;
+Pest Zapper;
+Storm Trap;
+Strong*F2;
+Vengeance*F7*WMV;
+
+| reagents =
+Brass*F2;
+Cobalt*F3;
+Fish Fin*F6*WMV;
+Nickel*F2;
+Sandstone*F14*WMV;
+Scales*F5*WMV;
+Sunstone*F2;
+Tin;
+
+| spellements =
+
+| snacks =
+Cauliflowers;
+Delicious Cookie;
+Glowing Star Fruit;
+Glowing Taffy;
+Spicy Drumstick*F3*WMV;
+Strawberry Cupcake*F3*WMV;
+Submarine Sandwich*F3;
+
+| jewels =
+Entangle Jade;
+Mander Opal;
+Plain Defense Jade +29*F2;
+Rage of Winter Sapphire;
+Super-Dizzy Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fish on a Vine*F2;
+Maelstrom Snap Dragon*F3;
+Pink Dandelion*F2*CR;
+Silver Trumpet Vine*F2*CR;
+
+| mounts =
+
+| spells =
+
+}}

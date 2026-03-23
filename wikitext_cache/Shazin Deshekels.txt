@@ -1,0 +1,243 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 15
+| heal = 11,760
+| crecla = Thuggie
+| school = Ice
+| startpips = 3
+| powerpips = Yes
+| critical =
+97;
+
+| criticalblock =
+97;
+
+| outpierce =
+10%;
+
+| outboost =
+30%;
+
+| incboost =
+15% Fire;
+
+| incresist =
+30% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Thuggie Guard;
+
+| world = Mirage
+| location = Aggrobah
+| subloc1 = Palace Treasure Vault
+| descrip =
+
+| spellnotes =
+
+| casts =
+Icewind;
+Sleet Storm;
+Balefrost;
+Frost Snake (80);
+Ice Bats (215);
+Icebird (270);
+Natural Attack (Ice 105-210-315, 75%);
+Blizzard (290-330, 80%);
+Winter Moon;
+Frostbite (80+549);
+Frost Giant (530);
+
+| quests =
+Thuggie Surprise;
+
+| gold =
+450 - 687;
+
+| hats =
+Parched Wayfarer's Fez;
+Rubal Kufiya of Bitterness;
+Wayfarer's Fez of Poise;
+Zruvan Helmet of Fury;
+
+| robes =
+
+| boots =
+Aridian Shoes of Numbing;
+Sand Sea Outfit of Ashes;
+Shoes of the Aridian Sun;
+Vizier's Shoes of Apathy;
+
+| athames =
+Sand Sea Dagger of Ashes;
+Sand Sea Dagger of Blight;
+
+| amulets =
+Kobra Choker of Demise;
+Rubal Necklace of Acerbity*F2*WMV;
+Rubal Necklace of Bitterness;
+Rubal Necklace of Loyalty;
+Viper Talisman of Thriving;
+
+| rings =
+Rubal Band of Frostbite;
+Sand Sea Ring of Blight;
+
+| wands =
+Alkali Bow of Fiction;
+Dutiful Durvish's Armaments;
+Restrictor Wand of Embers;
+Rubal Bow of Illusions;
+Wiley Durvish Armaments;
+
+| decks =
+Kobra Hand of Rigor;
+Rubal Cards of Frostbite;
+Rubal Deck of Bitterness;
+
+| items =
+
+| cards =
+Combustion;
+Counterforce*F2*WMV;
+Death Troll;
+Katabatic Wind;
+Mass Life Prism;
+Mass Storm Prism;
+Mutate Helephant (Storm);
+Punklops;
+Saga of Heroes;
+Sandstone Colossus;
+Witch's House Call;
+
+| reagents =
+Aether*F5*WMV;
+Agave Leaves*F3*WMV;
+Agave Nectar;
+Amber;
+Amber Dust*F2*WMV;
+Ancient Scroll;
+Antique Coins;
+Aquamarine*F3*WMV;
+Astral Shard*F4;
+Black Pearl*F3*WMV;
+Blood Moss;
+Braided Vine;
+Brass*F4*WMV;
+Bronze Gear;
+Cobalt*F4*WMV;
+Fire Blossom*F3;
+Golden Pearl*F6*WMV;
+Mithril*F2;
+Nickel*F6*WMV;
+Orichalcum;
+Scales*F5*WMV;
+Silver*F4*WMV;
+Spider Silk*F4*WMV;
+Spring*F5*WMV;
+Stardust*F2*WMV;
+Steel*F4*WMV;
+Sunstone*F3;
+Tin*F4*WMV;
+Titanium*F4*WMV;
+Tungsten*F2*WMV;
+Turmeric;
+Turquoise*F2;
+Vine*F3*WMV;
+
+| spellements =
+
+| snacks =
+Beast Wellington*F3*WMV;
+Beetle Cream Soda;
+Chalupacabra;
+Delicious Cookie*F2;
+Eye Candy*F4*WMV;
+French Fries*F2*WMV;
+Gourmet Yogurt;
+Hard Boiled Beetle Eggs*F2*WMV;
+Hot Cross Buns*F3*WMV;
+Mustachios*F3*WMV;
+Ships 'n' Queso*F2;
+Sprinkle Cupcake;
+Submarine Sandwich*F2*WMV;
+Super Cold Popsicle*F2;
+
+| jewels =
+Chastisement Opal;
+Epic Opal;
+Lustrous Accurate Amethyst +11%;
+Lustrous Accurate Citrine +11%;
+Lustrous Accurate Jade +11%;
+Lustrous Accurate Onyx +11%;
+Lustrous Blocking Onyx +13;
+Lustrous Blocking Ruby +13;
+Lustrous Damage Amethyst +23;
+Lustrous Damage Citrine +23;
+Lustrous Damage Ruby +23;
+Lustrous Defense Citrine +45;
+Lustrous Defense Ruby +45;
+Lustrous Health Opal +96;
+Lustrous Mana Opal +41;
+Lustrous PIP Opal +10%;
+Magnify Opal;
+Shiny Blocking Amethyst +16;
+Shiny Blocking Hematite +16;
+Shiny Blocking Ruby +16;
+Shiny Critical Sapphire +16;
+Shiny Damage Jade +26;
+Shiny Defense Hematite +52;
+Shiny Defense Onyx +52;
+Shiny Defense Peridot +51;
+Shiny Defense Ruby +51;
+Shiny Health Opal +113;
+Shiny Mana Opal +46;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears*F2;
+Baby Carrots*F3;
+Bell Pepper;
+Blue Huckleberries*F2*WMV;
+Boom Shroom;
+Bread Fruit Bush*F4*WMV;
+Burning Snap Dragon;
+Cornbread Fruit Bush*F2*WMV;
+Couch Potatoes*CR;
+Deadly Fly Trap;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Fickle Pickle;
+Golden Couch Potatoes*F3*WMV;
+Grapes of Wrath*CR*F5*WMV;
+Honey Bee Plant;
+Honey Sickle;
+Ivy League*CR*F2;
+Moon Flower;
+Ninja Fig*CR;
+Orange Bell Pepper*CR;
+Pink Huckleberries*F5*WMV;
+Purple Bell Pepper*F2*WMV;
+Red Bell Pepper;
+Red Couch Potatoes;
+Red Huckleberries*F4*WMV;
+Saw Palmetto;
+Snap Dragon*F2;
+Snow Apples;
+
+| mounts =
+
+| spells =
+
+}}

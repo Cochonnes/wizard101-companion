@@ -1,0 +1,239 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 10,870
+| crecla = Hamster
+| school = Myth
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+27%;
+
+| outboost =
+125%;
+
+| incboost =
+5% Storm;
+
+| incresist =
+70% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Whatchamadrone;
+
+| world = Karamelle
+| location = Karamelle City
+| subloc1 = Production Junction
+| descrip =
+*Uses Pip Conversion.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Adapt;
+Impede;
+Spirit Shield;
+Mythblade;
+Balanceblade;
+Myth Trap;
+Hex;
+Stun;
+Blinding Light;
+Blood Bat;
+Gobbler;
+Snake Charmer;
+Natural Attack (Myth 115x, 4 Pip max);
+Ninja Pigs;
+Mystic Colossus;
+Minotaur;
+Witch's House Call (No Minion);
+
+| quests =
+What is your Function?;
+Sweetened with Splendorphins;
+
+| gold =
+308 - 697;
+
+| hats =
+Producer's Cryo Hood;
+Specialist Thermal Hood;
+
+| robes =
+Contractor Biohazard Suit;
+
+| boots =
+Contractor Biohazard Boots;
+Contractor Thermal Boots;
+Director Survival Boots;
+Specialist Survival Boots;
+
+| athames =
+Executive Pressure Knife;
+Producer's Cryo Knife;
+
+| amulets =
+Contractor Biohazard Rope;
+Director Pressure Rope;
+Director Survival Rope;
+Executive Cryo Rope;
+Executive Survival Rope;
+Executive Thermal Rope;
+Producer's Pressure Rope*F3*WMV;
+
+| rings =
+Executive Biohazard Ring;
+
+| wands =
+Director Biohazard Meter;
+Director Cryo Meter;
+Director Pressure Meter;
+Executive Biohazard Meter;
+Executive Hazmat Meter;
+Executive Pressure Meter;
+Executive Survival Meter;
+Producer's Cryo Meter;
+Producer's Hazmat Meter;
+Producer's Survival Meter;
+
+| decks =
+Consultant Biohazard Box;
+Executive Pressure Box;
+
+| items =
+Gum Drop Container;
+Karamelle Cavity Combat Theme;
+Karamelle City Theme;
+Karamelle Neglected Theme;
+Karamelle Rural Combat Theme;
+Licorice Tree;
+Oil Drum;
+Trash Pile (Outdoor);
+
+| cards =
+Raging Bull;
+Rusalka's Wrath; 
+Snowball Barrage;
+
+| reagents =
+Aether*F2;
+Agave Leaves;
+Agave Nectar;
+Amber Dust*F2;
+Aquamarine;
+Astral Shard*F2*WMV;
+Braided Vine;
+Bronze Gear;
+Cobalt*F4*WMV;
+Draconium;
+Ectoplasm*F3*WMV;
+Fire Blossom*F2;
+Karamelle Chunk;
+Mithril;
+Nickel*F2*WMV;
+Golden Pearl*F2;
+Scales*F3;
+Silver;
+Spider Silk*F2;
+Stardust;
+Steel;
+Sunstone;
+Tin*F3*WMV;
+Titanium;
+Toffee Bean;
+Turquoise; 
+Vine;
+
+| spellements =
+S'more Machine;
+Snack Attack;
+Sound of Musicology;
+
+| snacks =
+Antheneum Delight;
+Beast Wellington;
+Crackle Jacks Cereal;
+Discord Grape Jelly*F3*WMV;
+Dragon Fruit;
+Eye Candy*F2;
+Fern Jelly;
+Glowing Star Fruit;
+Glowing Taffy;
+Hot Cross Buns*F2;
+Pizza*F2;
+Rock and Roll Candy;
+Roly Poly Fishheads;
+Ships 'n' Queso;
+Sprinkle Cupcake;
+Tasty Rainbow*F2;
+Veggie Juice*F2;
+Waterworks Wonton;
+Wheat Cracker;
+
+| jewels =
+Adapt Opal;
+Dazzling Accurate Onyx +14%;
+Dazzling Critical Amethyst +19;
+Dazzling Critical Amethyst +20;
+Dazzling Damage Hematite +58;
+Dazzling Damage Sapphire +30;
+Dazzling Health Opal +128;
+Dazzling Health Opal +130;
+Dazzling Mana Opal +54;
+Epic Opal;
+Shiny Blocking Hematite +16;
+Shiny Critical Sapphire +16;
+Shiny Defense Amethyst +50;
+Shiny Defense Hematite +51;
+Shiny Defense Peridot +49;
+Shiny Defense Sapphire +51;
+Shiny Defense Sapphire +52;
+Shiny Health Opal +114;
+Shiny Mana Opal +45;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angora Bunny Ears;
+Baby Carrots;
+Bell Pepper*F2*WMV;
+Blue Huckleberries*F2;
+Boiled Peanuts*F2;
+Boom Shroom;
+Bread Fruit Bush;
+Cornbread Fruit Bush*F3*WMV;
+Evil Magma Peas*CR;
+Fish on a Vine*F2;
+Frozen Fly Trap;
+Grapes of Wrath*CR;
+Maltese Tiger Lily;
+Orange Dandelion;
+Pink Huckleberries*F2;
+Purple Bell Pepper;
+Purple Grapes of Wrath;
+Queen Crape Myrtle;
+Red Huckleberries*F2;
+Saw Palmetto;
+Ultra Huckleberries*F2;
+Ultra Snap Dragon;
+
+| mounts =
+
+| spells =
+
+}}

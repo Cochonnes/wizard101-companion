@@ -1,0 +1,163 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 880
+| crecla = Cat
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+O'Leary Brute;
+
+| world = Marleybone
+| location = Knight's Court
+| subloc1 = Jacques' Hideout
+| descrip =
+*One additional O'Leary Brute will appear if more than two Wizards are present.
+
+| speech =
+:''"Prepare to be scratched out of existence, Wizard!"''
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Tower Shield;
+Weakness;
+Iceblade;
+Ice Trap;
+Frost Beetle;
+Snow Serpent;
+Evil Snowman;
+Snow Shark;
+Ice Wyvern;
+Banshee;
+
+| quests =
+Wildcat Woes
+
+| gold =
+32 - 71;
+
+| hats =
+Cap of Ideals;
+Cap of the Kraken*F2*WMV;
+Cap of the Phoenix;
+Dandy Hat;
+Exquisite Cowl;
+Grandiose Headwraps;
+Hat of Equation;
+Hat of Excellence;
+Headwrap of Incineration;
+Helm of Horrors*F2;
+
+| robes =
+Charming Garment;
+Cloak of Civility;
+Distinguished Robe;
+Frosty Vestment;
+Icy Tunic*F2;
+Mechanical Tunic*F5;
+Robe of Extinction*F4;
+Robe of the Aristocrat;
+Robe of the Unicorn;
+
+| boots =
+Boots of Fabrication;
+Boots of the Undisturbed*F2;
+Cat Burglar's Shoes;
+Clanker's Irritating Shoes*F2*WMV;
+Crackling Boots;
+Flowering Canine Shoes*F2;
+Frozen Canine Shoes*F3;
+Halcyon's Shoes;
+Pompous Footwraps;
+Sandals of Civility;
+Sandals of Dedication;
+Sensitive Slippers;
+
+| athames =
+Fink's Stiletto;
+Informant's Dirk;
+
+| amulets =
+
+| rings =
+Ring of Rejuvenation;
+Scratcher's Ring of Chivalry;
+Watchman's Decoder Ring;
+
+| wands =
+Staff of Rejuvenation*F3;
+
+| decks =
+Enigmatic Deck*F2;
+
+| items =
+Ball of Blue Yarn;
+Engraved Pedestal*F2;
+Short Cement Post;
+Silver Chest;
+Square Metal Platform;
+
+| cards =
+Cyclops;
+Fire Trap;
+Tough;
+Vampire;
+
+| reagents =
+Copper*F2;
+Ectoplasm*F5;
+Iron;
+Lead;
+Leather Straps*F5*WMV;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn;
+Medium Fish*F4;
+Redskin Peanut*F2*WMV;
+Stinky Cheese*F2;
+Wheat Cracker;
+
+| jewels =
+Chipped Health Opal +24;
+Evil Snowman Sapphire;
+Locust Swarm Citrine;
+Overtake Opal;
+Storm-Proof Amethyst;
+Sturdy Opal;
+
+| pins =
+
+| pets =
+Frog;
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

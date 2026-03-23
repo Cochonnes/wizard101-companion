@@ -1,0 +1,125 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 4,755
+| crecla = Ant
+| crela2 = Insect 
+| school = Myth
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+Fire, Life;
+
+| incresist =
+Ice, Storm, Myth, Death, Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Thermite Termite;
+
+| world = MooShu
+| location = Cave of Solitude
+| subloc1 = Termite Lair
+| descrip =
+*Defeating Termonarch is part of the Apprentice Life Weaving Quest, ''"Thermite Makes Right"''. Wizards can also defeat Termonarch 6 times as one of their Life Weaving lessons, which awards the badge, [[Basic:Life Weaving Badges|Terminated Termonarch]].
+
+| speech =
+:'''{{Link|NPC|The Chosen One}}''': ''"There it is, Wizard, the Termonarch!"''
+:'''Termonarch''': ''"SCREEEEEEEEEEEEEE!!!!!!!"''
+
+| spellnotes =
+
+| cheatnotes =
+*{{Icon|Jinx}} ''"SCREE!"'' - At the beginning of every Round, Termonarch will cast a version of {{Link|Spell|Keeper of the Flame}} that gives a +15% chromatic Trap on the Wizard with the highest Health. This increases by 5% each Round, up to a maximum of 40%.
+*{{Icon|Healing}} If Termonarch is defeated while their Keeper of the Flame cheat is still active, they will revive with full Health.
+*{{Icon|Spell}} ''"Oh, oh, I have something for this. Here!"'' - At the end of the fourth Round and whenever Termonarch revives, The Chosen One will give Wizards the following Spell:
+**{{GivesSpell|cards=1|size=x150px|Centaur (Tier 2b)}}
+*{{Icon|Life}} ''"Scree?"'' - If a Wizard casts a Life Damage Spell that removes Traps from Wizards on any opponent, such as {{Link|Spell|Leprechaun (Tier 2b)}}, they will remove all Traps on Wizards and end their Keeper of the Flame cheat.
+
+| casts =
+Mythblade;
+Myth Trap;
+Keeper of the Flame;
+Humongofrog;
+Minotaur;
+Earthquake;
+Orthrus;
+
+| quests =
+Thermite Makes Right;
+
+| dropnotes =
+Wizards will receive Jewels that are appropriate for their Level.
+
+| gold =
+1 - 32;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Centaur (Tier 2b)*F2;
+Earth Walker (Tier 2b);
+Forest Lord (Tier 2b)*F2;
+Imp (Tier 2b);
+Leprechaun (Tier 2b)*F3;
+Life Trap;
+Lifeblade*F2;
+Nature's Wrath (Tier 2b)*F2;
+Seraph (Tier 2b)*F2;
+
+| reagents =
+Weft Yarn @ 10 Weft Yarn*F5;
+Weft Yarn @ 12 Weft Yarn*F5;
+Weft Yarn @ 15 Weft Yarn*F2;
+Weft Yarn @ 50 Weft Yarn*F2;
+Weft Yarn @ 100 Weft Yarn;
+
+| spellements =
+
+| snacks =
+
+| jewels =
+Dazzling Accurate Jade +14%*F3;
+Flawless Accurate Jade +16%*F3;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

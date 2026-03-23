@@ -1,0 +1,132 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 21,200
+| crecla = Undead
+| school = Life
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+163 Any;
+
+| criticalblock =
+237 Any;
+
+| outpierce =
+50%;
+
+| outboost =
+95%;
+
+| incboost =
+5% Death;
+
+| incresist =
+70% Life;
+
+| outhealing =
+75%;
+
+| inchealing =
+75%;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = The Catacombs
+| subloc1 = Foetid Crypt
+| descrip =
+Squire Greggor is considered a Minion to {{Link|Creature|Sir Greggor}}.  All drops and cheats are recorded on that page.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+A young squire eager to see combat firsthand. Songs will be sung about his valor.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+| altlink = Young Greggor
+}}
+
+| spellnotes =
+*Casts a protected Lifespear.
+
+| casts =
+Quicken;
+Legend Shield (-75%);
+Lifespear;
+Brilliant Light (+40%);
+Black Mantle (-55%, 0 Pip);
+Minor Blessing;
+Regenerate (225+1,100);
+Balanceblade (+30%);
+Triage;
+Cleanse Charm (Myth);
+Life Scarab;
+Ratatoskr's Spin;
+Natural Attack (Life 105-210-315-420);
+Sacred Charge;
+Delphic Lamassu;
+Moody Caterpillar;
+Wings of Night;
+Forest Lord (715-775);
+King Artorius (Life);
+
+| quests =
+Ancient War, What Is It Good For?;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

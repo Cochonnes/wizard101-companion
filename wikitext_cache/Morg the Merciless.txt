@@ -1,0 +1,308 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 11,905
+| crecla = Water-Mole
+| school = Fire
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+230 Any;
+
+| criticalblock =
+169 Any;
+
+| outpierce =
+27%;
+
+| outboost =
+146%;
+
+| incboost =
+5% Ice;
+
+| incresist =
+73% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| randomminions =
+Eye Robot (Balance);
+Eye Robot (Ice);
+Eye Robot (Storm);
+Buster Bot (Death);
+Buster Bot (Life);
+Buster Bot (Myth);
+
+| totalminions = 3
+| summons =
+Eye Robot (Balance);
+Eye Robot (Ice);
+Eye Robot (Storm);
+Buster Bot (Death);
+Buster Bot (Life);
+Buster Bot (Myth);
+
+| world = Lemuria
+| location = Sky City
+| subloc1 = Morg Fortress
+| descrip =
+*Defeated Minions do not respawn if all Wizards flee or are defeated and return to the dungeon via Dungeon Recall.
+
+| speech =
+:''"Ah, Wizard! You are here at last. I have made the most startling discovery - there are worlds beyond Lemuria! I owe you so much, Wizard. If I hadn't met you, I never would have discovered the... Spiral, is it? Now I have dozens of new worlds to conquer! I shall be Emperor of the Universe! And everyone shall live in mutual peace, harmony, and contentment. Under my rule."''
+
+| cheatnotes =
+*{{Icon|Late}} ''"I will not abide tardiness!"'' - If a Wizard is late and a Minion is defeated, Morg the Merciless will cast a Shadow spell to summon another random Minion.
+*{{Icon|Afterlife}} ''"You will serve me forever!"'' - At the beginning of the first Round, Morg will cheat-cast {{Link|Spell|Guardian Spirit}} on a random enemy Minion.
+*{{Icon|Shield}} ''"Morg will protect you!"'' - Every round, Morg will cheat-cast a {{Link|Spell|Tower Shield}} on a random enemy Minion, favoring Minions with the least amount of Shields.
+**If a Wizard beguiles one of the Minions before this cheat begins and Morg has no allies, this will be cast on said Wizard.
+*{{Icon|Damage}} ''"The stars burn for Morg!"'' - At the start of every third Round, a random enemy Minion will cheat-cast a Shadow {{Link|Spell|Power Nova}} that deals 500 Shadow Damage, steals 1 pip from each target, and grants each enemy in combat 1 pip.
+**The outgoing Damage boost of the Creature casting it impacts the Damage it does.
+**If all Wizards are beguiled, all enemies will still gain 1 pip despite no damage being dealt.
+**If a Wizard beguiles one of the Minions before this cheat begins and Morg has no allies, said Wizard will cast this cheat.
+*{{Icon|Damage over Time}} ''"Be as merciless as Morg!"'' - If a Damage over Time effect is placed on a Wizard, a random enemy Minion will cheat-cast a Shadow version of {{Link|Spell|Detonate}} that affects all enemies. This cheat does not trigger if the target was previously beguiled in the same Round.
+**Shadow Detonates cheat-cast by his Minions can use Fireblades and Fire Traps.
+*{{Icon|Minion}}{{Icon|Afterlife}} ''"Now you will see my true power!"'' - When all enemy Minions are defeated, Morg will cheat-cast a Shadow version of {{Link|Spell|Regenerate}} on himself that removes 99% of his total Health. He will have 120 Health remaining.
+
+| spellnotes =
+*Casts a protected and unprotected Fireblade.
+
+| casts =
+Furnace (6 Rounds);
+Fireblade;
+Incindiate;
+Empower;
+Scorching Scimitars;
+Natural Attack (Fire 120-240-360-480);
+Fire Wyvern (95+600);
+Fire from Above;
+S'more Machine (Tier 3a);
+Scald (567);
+Raging Bull;
+Blast Off! (Tier 3a);
+Inferno Salamander (Tier 5a);
+Fire Dragon;
+Rain of Fire (330+880);
+
+| quests =
+Morg Showdown!;
+
+| dropnotes =
+If a Wizard has obtained the '''[[Basic:Karamelle Badges|Most Valuable Customer]]''' Badge and has not obtained the '''[[Basic:Novus Badges|Ender of an Aeon]]''' Badge, the following drops will be available:
+*{{Icon|Spellement}} 7 Spellements will drop each time from '''any''' School for their respective Polaris, Mirage, Empyrea, Karamelle and Lemuria Spells.
+If a Wizard has obtained the ''Ender of an Aeon'' badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of the Hall of Heroes to acquire a [[Item:Level Scaling Elixir - 150|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+394 - 444;
+
+| hats =
+Hierarch's Science Hat;
+
+| robes =
+
+| boots =
+
+| athames =
+Hierarch's Barbarian Athame;
+Hierarch's Firewall Athame;
+Hierarch's Volcanic Athame;
+
+| amulets =
+Supreme Eruption Talisman;
+Supreme Undead Talisman;
+
+| rings =
+
+| wands =
+Hierarch's Hex Staff;
+
+| decks =
+Hierarch's Founder's Deck;
+
+| items =
+Lemuria Sky City Theme;
+Puzzle Cube;
+
+| cards =
+Crystal Spider;
+Feint;
+Galvanic Field;
+Gargantuan;
+Guidance;
+Link;
+Mass Death Prism;
+Mass Fire Prism;
+Wings of Fate*F2;
+Sirens*F2;
+Winged Sorrow;
+Witch's House Call;
+
+| reagents =
+Amber*F2;
+Amber Dust;
+Aquamarine*F2*WMV;
+Astral Shard*F2*WMV;
+Blood Moss;
+Bronze Gear*F4*WMV;
+Cobalt*F3;
+Ectoplasm*F2;
+Fish Fin;
+Golden Pearl*F3;
+Mithril*F3*WMV;
+Nickel;
+Orichalcum;
+Scales*F2;
+Silver*F6*WMV;
+Spider Silk*F2*WMV;
+Stardust;
+Steel*F3*WMV;
+Sunstone*F4;
+Synthonium;
+Titanium*F2;
+Tungsten;
+Turquoise;
+Vine;
+
+| spellements =
+Barbarian's Saga*BR;
+Blast Off!*BR;
+Climaclysm*BR;
+Dark & Stormy*BR;
+Freeze Ray*BR;
+Grrnadier*BR;
+Grim Reader*BR;
+Iron Sultan*BR;
+Lamassu*BR;
+Lord of the Jungle*BR;
+Mockenspiel*BR;
+Nested Fury*BR;
+Old One's Endgame*BR;
+Qismah's Curse*BR;
+Raging Bull*BR;
+Rusalka's Wrath*BR;
+Sand Wurm*BR;
+Scion of Balance*BR;
+Scion of Death*BR;
+Scion of Fire*BR;
+Scion of Ice*BR;
+Scion of Life*BR;
+Scion of Myth*BR;
+Scion of Storm*BR;
+Scorching Scimitars*BR;
+Shatterhorn*BR;
+S'more Machine*BR;
+Snack Attack*BR;
+Snake Charmer*BR;
+Snowball Barrage*BR;
+Sound of Musicology*BR;
+Tatzlewurm Terror*BR;
+Winged Sorrow*BR;
+Wings of Fate*BR;
+Witch's House Call*BR;
+
+| snacks =
+Bell Pepper Steak*F2*WMV;
+Boom Stroganoff;
+Bread Fruit Fruit;
+Candlenut;
+Chili Peppers*F2;
+Chilly Con Queso;
+Cracker;
+Desparagus Salad*F4*WMV;
+Dr. Jalapeno*F2;
+Eggplant;
+Fetid Legumes;
+Fin Flan;
+Fish Egg Pancakes;
+Fried Worms*F2;
+Poncherello Chips*F2;
+Potato Chips;
+Sliced Watermelon;
+Sugar Donut;
+Taco;
+Tomato Soup;
+
+| jewels =
+Balance-It Citrine;
+Balance-Off Citrine;
+Balance-Ward Citrine;
+Buck Gordon Ruby*F2*WMV;
+Dazzling Blocking Hematite +19;
+Dazzling Critical Jade +19;
+Dazzling Critical Ruby +19;
+Dazzling Damage Citrine +29;
+Dazzling Defense Onyx +60;
+Death-Dealer Onyx;
+Fire Striker Ruby;
+Fire-Away Ruby;
+Fire-Proof Ruby;
+Life Striker Jade;
+Life-Giver Jade;
+Life-Proof Jade;
+Lively Opal;
+Sparkling Accurate Jade +13%;
+Sparkling Damage Peridot +27;
+Sparkling Damage Ruby +27;
+Sparkling Defense Citrine +54;
+Sparkling Defense Hematite +53;
+Sparkling Defense Onyx +54;
+Storm-Eye Amethyst;
+Stun Recalcitrant Opal;
+Unbalancer Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears;
+Blue Huckleberries;
+Burning Snap Dragon;
+Clockwork Flower*F2;
+Cornbread Fruit Bush;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Green Snow Apples;
+Fickle Pickle;
+Fortune Cookie Tree;
+Frozen Fly Trap;
+Honey Bee Plant;
+Ivy League*CR;
+Key Limes;
+Laugh-O-Dil*F2;
+Melting Cheese Tree;
+Missile Toe;
+Pink Huckleberries*F2;
+Prickly Bear Cactus*F5*WMV;
+Purple Bell Pepper;
+Queen Crape Myrtle;
+Red Bell Pepper;
+Red Couch Potatoes*F2*WMV;
+Red Grapes of Wrath;
+Red Huckleberries;
+Rotten Beets*F2*WMV;
+Rye Bread Fruit Bush;
+Saw Palmetto*F3*WMV;
+Snow Apples;
+Sour Fickle Pickle;
+Trumpet Vine;
+Ultra Helephant Ears;
+Vampire Carrots*F3*WMV;
+White Laugh-O-Dil;
+Yellow Bell Pepper;
+
+| mounts =
+
+| spells =
+
+}}

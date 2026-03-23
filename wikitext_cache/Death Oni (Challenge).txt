@@ -1,0 +1,94 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 5,750
+| crecla = Demon
+| school = Death
+| school2 = Ice
+| startpips = 3
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+75 Any;
+
+| outpierce =
+
+| outboost =
+60%;
+
+| incboost =
+None;
+
+| incresist =
+10% Any;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Housing Instance
+| location = Jade Oni Rematch
+| descrip =
+Death Oni (Challenge) is considered a Minion to {{Link|Creature|Jade Oni (Challenge)}}.  All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Legion Shield;
+Deathblade;
+Iceblade;
+Mass Death Trap;
+Skeletal Pirate (Tier 4b);
+Evil Snowman (Tier 4b);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Death Oni (Rematch)
+}}

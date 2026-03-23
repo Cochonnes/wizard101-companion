@@ -1,0 +1,237 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 900
+| crecla = Sheep
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Enthralled Body Monk;
+
+| world = Krokotopia
+| location = Kembaalung Village
+| subloc1 = Pagoda of Harmony
+| descrip =
+Two additional Body Monks appear if more than two Wizards are present.
+
+| speech =
+:''"All that was done, Hamakala shall undo. Long live the Hoof and Master Tonkatsu! Tsutsui smash!"
+
+| spellnotes =
+
+| casts =
+Lightning Strike;
+Stormblade;
+Storm Trap;
+Storm Beetle (125);
+Storm Serpent (230);
+Lightning Bats;
+Storman (265);
+Natural Attack (Storm 120-235-350);
+Storm Shark;
+Kraken;
+
+| quests =
+The Path of Harmony;
+
+| gold =
+50 - 60;
+
+| hats =
+Helm of the Harmonious*F2;
+Helm of the Smoking Ember*F2;
+Helm of the Willing Spirit*F2;
+Helmet of the Discordant;
+Helmet of the Tuned Mind*F2;
+Himoolayan Blizzard Helmet;
+Himoolayan Snow Cap;
+Hoof Warrior's Headgear;
+Mind Monk's Headgear*F2;
+Path of Harmony Headgear;
+Spirit Monk's Helmet*F2;
+Top of the Hollow Mountain;
+Vanquished Asura's Mantle*F2;
+
+| robes =
+Armor of the Hoof Warrior*F2*WMV;
+Armor of the Mind Monk;
+Armor of the Smoking Ember*F2;
+Discordant One's Plate;
+Gear of the Willing Spirit;
+Harmonious One's Vestment;
+Himoolayan Blizzard Gear;
+Himoolayan Snow Cover;
+Hollow Mountain Laminar;
+Kembaalung Field Armor;
+Path of Harmony Raiment;
+Spirit Monk's Warplate;
+Vanquished Asura's Raiment;
+Vestment of the Tuned Mind*F2;
+
+| boots =
+Discordant One's Footwraps;
+Footgear of the Tuned Mind;
+Harmonious One's Striders*F4*WMV;
+Himoolayan Blizzard Boots*F4*WMV;
+Himoolayan Snowshoes;
+Hollow Mountain Trekkers;
+Hoof Warrior's Footgear*F2*WMV;
+Kembaalung Combat Boots;
+Mind Monk's Footgear*F2;
+Path of Harmony Walkers*F3;
+Shoes of the Willing Spirit;
+Smoking Ember Walkers*F2;
+Spirit Monk's Footwraps*F2*WMV;
+Vanquished Asura's Shoes;
+
+| athames =
+Asura's Steel of Malcontent;
+Monk's Steel of Combustion;
+
+| amulets =
+Hoof Choker of Eradication;
+
+| rings =
+Asura's Ring of Strife;
+Himoolayan Hailstorm Loop;
+Monk's Ring of Dedication;
+Pagoda of Harmony Signet;
+Spirit Monk's Signet*F2*WMV;
+
+| wands =
+
+| decks =
+Hand of the Himoolayas;
+Hoof Ninja's Pasteboards;
+Mind Monk's Cards;
+Spirit Monk's Deck;
+
+| items =
+Wooden Skeleton Key*CR*F4*WMV;
+
+| cards =
+Balanceblade*F3*WMV;
+Death Shield*F5*WMV;
+Death Trap*F2*WMV;
+Deathblade*F5*WMV;
+Dragonflies;
+Elemental Shield*F3;
+Elemental Trap*F2*WMV;
+Fire Shield*F6*WMV;
+Fire Trap*F3*WMV;
+Fire Wyvern (335-395)*F4;
+Fireblade*F2*WMV;
+Goat Monk*F4*WMV;
+Ice Trap*F3*WMV;
+Ice Wyvern*F4*WMV;
+Iceblade*F4*WMV;
+Life Shield*F2*WMV;
+Life Trap*F3*WMV;
+Lifeblade*F2*WMV;
+Monk of Mourning*F5*WMV;
+Myth Shield*F4;
+Myth Trap*F6*WMV;
+Mythblade*F2*WMV;
+Pest Zapper;
+Samoorai*F3*WMV;
+Snow Shield*F2*WMV;
+Storm Shield*F2;
+Storm Trap*F2*WMV;
+Stormblade;
+
+| reagents =
+Bone*F15*WMV;
+Brass*F2;
+Cobalt;
+Copper*F3*WMV;
+Ectoplasm*F5*WMV;
+Lead*F2;
+Leather Straps*F8*WMV;
+Nickel*F2*WMV;
+Pyrite;
+Spider Silk*F10*WMV;
+
+| spellements =
+
+| snacks =
+Ape Grapes*F3*WMV;
+Crunch Apple;
+Eggplant*F5;
+Fire Cracker*F3;
+Fire Passion Fruit*F4*WMV;
+Golden Peanut*F2;
+Golden Squash*F2*WMV;
+Large Fish*F3*WMV;
+Large Watermelon;
+MooShu Cheddar*F3*WMV;
+Square Root*F4;
+
+| jewels =
+Blemished Damage Amethyst +11;
+Blemished Damage Onyx +11;
+Blemished Mana Opal +18;
+Charge Up Opal;
+Clear Path Opal;
+Downer Opal;
+Flawed Accurate Citrine +4%;
+Flawed Accurate Peridot +4%*F2;
+Flawed Defense Onyx +19;
+Flawed Health Opal +35;
+Humongofrog Peridot*F2;
+Kraken Amethyst;
+Myth-Eye Peridot;
+Power Play Citrine;
+Seraph Jade;
+Slow Leader Opal;
+Super-Stall Opal;
+Ultra Energy Opal;
+
+| pins =
+
+| pets =
+Blazezilla*F9*WMV;
+Deathbat;
+Green Ghost;
+Jade Oni*CR*F2;
+Life Scarab*F2;
+Minotaur;
+Myth Leprechaun*F2;
+Red Banshee;
+Sun Bird;
+Tough Troll;
+Treant;
+Troll*F2;
+
+| seeds =
+Deadly Ninja Fig*F2*WMV;
+Fiery Boom Shroom;
+Maelstrom Snap Dragon*F2;
+Orange Dandelion*F2*WMV;
+Pink Dandelion*CR;
+Pink Laugh-O-Dil;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

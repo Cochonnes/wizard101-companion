@@ -1,0 +1,227 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 600
+| crecla = Gobbler
+| school = Balance
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+7% Myth, Life, Death;
+
+| incresist =
+50% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gobbler Gorger;
+
+| world = Wizard City
+| location = Colossus Boulevard
+| subloc1 = Gobblestone Castle
+| lootchest = Prince Gobblestone's Chest
+| descrip =
+Prince Gobblestone is the [[NPC:Gobbler King|Gobbler King's]] guard. Wizards face him upon entering Gobblestone Castle to meet the King, unable to do so without first defeating the prince.
+
+An additional Gobbler Gorger Minion and a {{Link|Creature|Gobbler Scouter}} Minion will appear if more than two Wizards are present.
+
+| speech =
+:''"You'll have to get past me if you want to see the king!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+So refined is his hunger, he can eat the intangible. Ate the last two days of last year as a snack.
+
+| extract class =
+Gobbler;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Balanceblade;
+Scarab;
+Scorpion;
+Locust Swarm;
+Blood Bat;
+Thunder Snake;
+Snow Serpent;
+Ice Elf (30+210);
+Natural Attack (Ice 85x, 85%);
+
+| quests =
+
+| gold =
+8 - 26;
+
+| hats =
+Antique Helm*F2*WMV;
+Bloomshroud*F3*WMV;
+Cap of Advantages*F2*WMV;
+Charbane's Helm;
+Charged Cover*F2*WMV;
+Cowl of Wisdom;
+Double Sided Hat*F2*WMV;
+Fairy Cap*F3*WMV;
+Flametouched Hat*F3*WMV;
+Frostshroud;
+Fur-Lined Hood*F2*WMV;
+Gobblestone's Frost Cap*F4*WMV;
+Gobblestone's Storm Cap*F7*WMV;
+Hat of Eradication*F3*WMV;
+Helm of Audacity*F2*WMV;
+Hood of Storms*F2*WMV;
+Hood of Tension;
+Imp Lord's Helm *F2*WMV;
+Novitiate Hat*F3;
+Stormweave Hood*F10*WMV;
+Wondershroud*F2*WMV;
+
+| robes =
+Angelic Drape*F6*WMV;
+Antique Overshirt*F3*WMV;
+Armored Tunic*F2;
+Ashen Cloak*F3*WMV;
+Barkskin Tunic*F9*WMV;
+Chillcloak*F2*WMV;
+Firestorm Vestment;
+Gobblestone's Bib*F4*WMV;
+Gobblestone's Robes*F5*WMV;
+Novitiate Robe*F6*WMV;
+Raiment of Storms*F2*WMV;
+Robe of All Trades;
+Robe of the Blizzard;
+Roughspun Robe*F3*WMV;
+Senior Novice's Robe*F3*WMV;
+Shimmering Cloak*F2*WMV;
+Stormcaller's Robe*F2*WMV;
+Stormforged Mantle;
+Vestment of Panic;
+Vrixx's Verdant Robes;
+
+| boots =
+Footwraps of Seasons*F2*WMV;
+Gobblestone's Boots*F4*WMV;
+Gobblestone's Fur Boots*F3*WMV;
+Hardened Boots*F2*WMV;
+Northland Footwraps*F5*WMV;
+Novitiate Boots*F3*WMV;
+Princely Slippers*F4*WMV;
+Sapphyra's Studded Boots;
+Senior Novice's Shoes;
+Slippers of Excitement*F2;
+Venomous Footwraps*F2*WMV;
+
+| athames =
+Chipped Knife*F2;
+Heartsteel*CR*F3*WMV;
+Jeweled Dagger*F11*WMV;
+Studded Knife*F2*WMV;
+
+| amulets =
+Amulet of the Fay*F11*WMV;
+Gobblestone's Pendant*F6*WMV;
+
+| rings =
+Band of Purpose*CR*F3*WMV;
+Engraved Amethyst Ring*F2*WMV;
+Engraved Citrine Ring;
+Engraved Jade Ring;
+Engraved Onyx Ring*F2;
+Engraved Peridot Ring;
+Engraved Sapphire Ring;
+Hallowed Band*F9*WMV;
+Lord's Signet*F2*WMV;
+
+| wands =
+Fairy's Wand*F2;
+Insulated Wand;
+
+| decks =
+Pinewood Deck*F2*WMV;
+
+| items =
+Colossus Statue*F6*WMV;
+Grumpy Gobblers Theme*F7*WMV;
+Munched Lamppost*F4*WMV;
+Pile of Jellybeans*F5*WMV;
+Prop House 1;
+Spotted Half Rug*F4*WMV;
+Wizard City Theme 2*F6*WMV;
+Wooden Skeleton Key*CR*F5*WMV;
+
+| cards =
+Blood Bat;
+Dark Sprite*F2*WMV;
+Death Trap;
+Fire Cat*F2*WMV;
+Fire Elf*F3*WMV;
+Fire Shield;
+Frost Beetle*F4*WMV;
+Ghoul;
+Gobbler*F7*WMV;
+Guiding Light;
+Imp*F2*WMV;
+Keen Eyes;
+Lightning Bats;
+Locust Swarm*F4*WMV;
+Myth Shield*F2;
+Pixie*F2;
+Scarab;
+Snow Serpent;
+Snow Shield;
+Storm Shield*F2;
+Thunder Snake*F2;
+Time of Legend*F2;
+Tough;
+Troll*F2*WMV;
+
+| reagents =
+Bone*F4*WMV;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry*F2*WMV;
+Cheese Broccoli*F6*WMV;
+Chocolate Strawberry*F4*WMV;
+Gummy Firecat*F5*WMV;
+Sugar Donut*F6*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+Snow Serpent*F9*WMV;
+
+| seeds =
+Honey Sickle*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

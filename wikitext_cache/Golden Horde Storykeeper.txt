@@ -1,0 +1,151 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 13,135
+| crecla = Golden Horde Soldier
+| crecla2 = Horse
+| crecla3 = Equine 
+| school = Fire
+| cheats = Yes
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+225;
+
+| outpierce =
+18%;
+
+| outboost =
+124%;
+
+| incboost =
+10% Ice;
+
+| incresist =
+40% Fire, Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Golden Horde Soldier (Myth);
+
+| world = MooShu
+| location = Catmandu
+| subloc1 = Temple of Purrfect Harmony
+| descrip =
+For the purpose of drops, Golden Horde Storykeeper is considered a Boss.  All drops are recorded on this page.
+*An additional Golden Horde Soldier (Myth) and {{Link|Creature|Golden Horde Soldier (Fire)}} will appear if more than two Wizards are present.
+
+| speech =
+:''"Books, my ancient foe. The slaughter of the oral history, the vehicle of our collective amnesia, the end to all that we know. No longer are stories remembered, only read. Unstimulated, our brains atrophy and our memories stagnate instead. Left unchecked, these books will doom us all to a dependent defect, to seeking words in text, not core. A terror I say, our minds can no longer store. Also, if you read them backwards, you hear the words of Hades. Got to stop that."''
+
+| monstrology = 
+{{Monstrology Info
+| tome world = Novus
+| tome description =
+Carries the unembellished history of the Golden Horde. Especially the story about a general who arm wrestled a giant.
+
+| extract class =
+Equine;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,000
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Round}} ''"I can't read and now neither can you!"'' - At the beginning of the first Round, Golden Horde Storykeeper will cast a Shadow Spell to give all Wizards three of a random assortment of cards.
+**If a Wizard joins the battle late, they will receive these three cards at the beginning of the next Round.
+***{{GivesSpell|spells = 3|size = x150px|uioweajdsfamdsa|reqpivunadhfjkw|vzpoaiejfandvjha}}
+*{{Icon|Round}} ''"Burn, books, burn!"'' - At the start of every fifth Round, Golden Horde Storykeeper will cast {{Link|Spell|Scald}}.
+
+| spellnotes =
+
+| casts =
+Furnace (6 Rounds);
+Smoke Screen;
+Firespear (+10%);
+Fireblade;
+Choke;
+Wyldfire;
+S'more Machine (Tier 2b);
+Fire Dragon;
+Efreet;
+Rain of Fire;
+
+| quests =
+A Yarn As Old as Time;
+
+| gold =
+31;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Novus Conatus Alternate Theme;
+Novus Dasein Theme 2;
+Novus La Ville Rose Combat Theme;
+Novus Manticore Madness Theme 2;
+Novus New Vicorgia Theme;
+Novus War Theme;
+Valencia Danger Theme;
+Valencia Espionage Theme;
+
+| cards =
+Mass Ice Prism;
+Sanctuary;
+
+| reagents =
+Draconium;
+Orichalcum;
+Silver;
+Titanium;
+Toffee Bean;
+Turquoise;
+
+| spellements =
+
+| snacks =
+Colossal Rutabaga;
+Jolly Rancher;
+Kalua Kebab;
+Peppercorn;
+Street Pizza;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,117 @@
+{{Stub|Spells and drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 1,250
+| crecla = Beastmoon Creature
+| school = Storm
+| startpips = 2
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Celestia Battlegrounds
+| descrip =
+Khnum RainMaker is one of the Boss monsters that can be encountered during the first Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events.  He will have 1 random, Rank 1 Elite, Stage 1 monster present to assist him.
+
+'''Potential Minions:'''
+*{{Link|Creature|Ice Spriggan}}
+*{{Link|Creature|Monsoon Lagoony}}
+*{{Link|Creature|Paragonmaton}}
+*{{Link|Creature|Steamed Crab}}
+
+| speech =
+
+| spellnotes =
+*Casts a version of Sheet Lightning that deals 125 Damage.
+
+| casts =
+Jolting Bolt;
+Sheet Lightning;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 5 - 10 Lunari.
+
+| gold =
+21 - 30;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone;
+Balance Rune*F2*WMV;
+Eldritch Thread*F4*WMV;
+Elemental Moonstone;
+Elemental Thread*F2*WMV;
+Enhanced Balance Rune*F2*WMV;
+Fire Rune;
+Hunter's Moonstone*F5*WMV;
+Ice Rune;
+
+| spellements =
+Frostbite;
+Glacial Golem;
+Iron Curse*F3*WMV;
+Sandstorm;
+Thieving Dragon*F2;
+Thunderman;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Beastmoon Seed*F9*WMV;
+
+| mounts =
+
+| spells =
+
+| recipes =
+7 Iron Curse Spellements;
+
+}}

@@ -1,0 +1,236 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 2,640
+| crecla = Wizard
+| crecla2 = Undead
+| school = Balance
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Kyanite Valkyrie;
+Molten Hunter;
+
+| world = Dragonspyre
+| location = The Drake Hatchery
+| descrip =
+The Collector is a street Boss in The Drake Hatchery that roams the area between the two [[Location:Dragonspyre Teleport Stones|Teleporters]] in the northwest area of the map populated by Molten Hunters and Kyanite Valkyries.
+
+This Boss used to be called "The Hoarder" until another Boss of the same name was created for the Level 68 Spell quests.  However, all of her unique Items still reference her original name, The Hoarder.
+
+| speech =
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+The Collector is a prime candidate for one of the Spiral's reality shows about hoarding.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 85 Ice Damage per Pip.
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Weakness;
+Balanceblade;
+Hex;
+Scarab;
+Scorpion;
+Locust Swarm;
+Sandstorm;
+Judgement;
+Evil Snowman;
+Vampire;
+Minotaur;
+
+| quests =
+Rein It In;
+The Rota of Reading;
+
+| dropnotes =
+When a Wizard has unlocked the '''Oni Slayer''' {{Icon|Oni Slayer}} Badge and has not unlocked the '''Astrologist''' {{Icon|Astrologist}} Badge, the following drops will be available:
+*8 Spellements will drop each time from '''any''' School for their respective rank 2-6 Spells.
+
+| gold =
+106 - 123;
+
+| hats =
+Bonfire Headdress;
+Cap of Chronicles;
+Cap of Constitution;
+Cowl of Morbidity;
+Equalizer's Coif;
+Halcyon Hood;
+Headgear of the Ice Pilot*F2;
+Hood of the Vigilant;
+Ivy-Wrapped Cap*F2;
+Loremantle of the Hoarder*F3*WMV;
+Mantle of Order*F4*WMV;
+Mantle of the Icicle;
+Mantle of Thunder*F4*WMV;
+Mythological Mantle;
+Shroud of the Equinox;
+Veil of Leaves;
+
+| robes =
+Arbiter's Raiment;
+Fiery Tunic;
+Final Curtain;
+Frostcloak of the Hoarder*F3*WMV;
+Robe of Radiance;
+Shibboleth Smock*F2*WMV;
+Smock of the Frost Giant;
+Terminus Wrap;
+Tunic of Effervescence*F3*WMV;
+Tunic of the Sphinx;
+Whirlwind Wrap;
+Wrap of Equity*F3*WMV;
+
+| boots =
+Ashen Footwraps*F2;
+Boots of the Bountiful*F2;
+Deathwalkers of the Hoarder*F2*WMV;
+Dragonclaw Boots;
+Footgear of Craftsmanship*F3*WMV;
+Footgear of the North Wind;
+Frost Giant's Boots;
+Legend Walkers;
+Rainstorm Waders*F2*WMV;
+Sandals of the Squall*F2;
+Shoes of the Phoenix*F3*WMV;
+Shoes of the Whispering Dark;
+
+| athames =
+Athame of Awakening*F3*WMV;
+Dragon's Eye Dagger*F2;
+Lancet of Equality*F3*WMV;
+Thornblade of the Hoarder*F6;
+
+| amulets =
+
+| rings =
+Band of Balance*F2;
+Band of the Hearth*F2*WMV;
+Dragonscale Ring;
+Everband of the Hoarder*F2;
+Ring of the Forefathers;
+Ring of the Harpy*F4*WMV;
+
+| wands =
+
+| decks =
+
+| items =
+Indigo Urn*F3*WMV;
+Long Corner Wall Ruins;
+Phoenix Obelisk*F4*WMV;
+Short Corner Wall Ruins;
+Singed Magic Book;
+Small Corner Wall Ruins;
+
+| cards =
+Pest Zapper;
+
+| reagents =
+Cobalt*F4;
+Copper;
+Ectoplasm*F4*WMV;
+Lead;
+Leather Straps*F3*WMV;
+Nickel;
+Tin*F2;
+
+| spellements =
+Blight Hound*BR;
+Centaur*BR;
+Cyclops*BR;
+Cyclops Minion*BR;
+Evil Snowman*BR;
+Fire Elf*BR;
+Hydra*BR;
+Kraken*BR;
+Locust Swarm*BR;
+Minotaur*BR*F2;
+Nature's Wrath*BR;
+Scorpion*BR;
+Skeletal Pirate*BR*F2;
+Snow Serpent*BR;
+Spectral Blast*BR*F2;
+Stone Colossus*BR;
+Stormzilla*BR;
+Triton*BR;
+
+| snacks =
+Flaming Soup*F2*WMV;
+Goat Cheese*F2*WMV;
+Golden Grapes*F2*WMV;
+Gummy Humongofrog*F2;
+King Banana*F2;
+
+| jewels =
+Blemished Accurate Jade +5%;
+Blemished Accurate Onyx +5%;
+Blemished Defense Ruby +23;
+Darkwind Amethyst;
+Doom and Gloom Onyx*F2;
+Dull Defense Amethyst +25;
+Dull Defense Citrine +25;
+Dull Defense Onyx +25;
+Dull Defense Peridot +25;
+Dull Defense Ruby +25;
+Dull Defense Sapphire +25;
+Dull Health Opal +50;
+Dull Mana Opal +22;
+Dull Piercing Peridot +1%;
+Ice-Away Sapphire;
+Mega Hurry Opal*F2;
+Unbreakable Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Fiery Boom Shroom*F7*WMV;
+King Parsley*CR;
+Maelstrom Snap Dragon*F2*WMV;
+Pink Dandelion*CR*F6*WMV;
+White Laugh-O-Dil*F3*WMV;
+
+| mounts =
+
+| spells =
+
+}}

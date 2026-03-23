@@ -1,0 +1,197 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 3
+| heal = 550
+| crecla = Gobbler
+| school = Ice
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Fire;
+
+| incresist =
+50% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Gobbler Glutton;
+
+| world = Wizard City
+| location = Colossus Boulevard
+| subloc1 = Rotunda Chateau
+| descrip =
+One of the [[NPC:Gobbler King|Gobbler King's]] two closest advisors, Wizards take on Baron Rotunda in an effort to force the Gobblers' surrender on Colossus Boulevard.
+
+Two additional Gobbler Gluttons will appear if more than two Wizards are present.
+
+| speech =
+:''"You've come to take away my treats? I can't allow that. To battle!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Wizard City
+| tome description =
+Earned his title in the Swallowing of Candy Mountain.
+
+| extract class =
+Gobbler;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Fire Shield;
+Frost Beetle;
+Snow Serpent;
+Ice Elf (30+210);
+Evil Snowman;
+Natural Attack (Ice 85x, 85%);
+Blood Bat;
+Troll;
+
+| quests =
+Seal the Deal;
+
+| gold =
+9 - 33;
+
+| hats =
+Carbonshroud*F2;
+Charged Cover;
+Cloudburst Helm;
+Cold Forged Helm*F13*WMV;
+Embershroud*F2*WMV;
+Fur-Lined Hood*F2;
+Helm of Tales;
+Hood of Storms;
+Imp Lord's Helm*F2;
+Rotunda's Hood*F2*WMV;
+Vrixx's Verdant Cowl;
+
+| robes =
+Angelic Drape*F7*WMV;
+Chillcloak;
+Cloak of the Watchful*F4*WMV;
+Fireguard Robe;
+Frost Wolf Cloak*F2;
+Hallowed Robes;
+Martyr's Raiment*F3*WMV;
+Robe of Savvy*F2*WMV;
+Rotunda's Frost Robe*F3*WMV;
+Roughspun Robe*F2;
+Sapphyra's Vestment;
+Scholarly Robes;
+Senior Novice's Robe;
+Splendiferous Robe*F8*WMV;
+Stormcaller's Robe;
+Stormforged Mantle;
+Trollskin Cloak;
+Vestment of Essence;
+Vestment of Tremors;
+
+| boots =
+Antique Footguards;
+Cold Forged Boots*F8*WMV;
+Elven Ice Walkers*CR*F3*WMV;
+Goldleaf Shoes;
+Rotunda's Ancient Boots*F2*WMV;
+Stormforged Boots;
+Shoes of the Troll King;
+
+| athames =
+Fairy's Athame;
+Fine Dagger*F2*WMV;
+Honed Athame;
+Insulated Dirk; 
+Rotunda's Meal Blade*F4*WMV;
+Sturdy Blade;
+Symmetrical Dirk;
+
+| amulets =
+Bogeyman's Pendant*F12*WMV;
+Rotunda's Torc*F5*WMV;
+
+| rings =
+Baron's Shiny Ring*F5*WMV;
+Rotunda's Regal Signet*F3*WMV;
+
+| wands =
+Baron's Staff of Command;
+Baron's Staff of Tension*F3*WMV;
+Branded Wand;
+Charged Wand;
+
+| decks =
+Antique Deck;
+
+| items =
+Frozen Pedestal;
+Golem Tower Theme*F6*WMV;
+Grumpy Gobblers Theme*F5*WMV;
+Prop Mountains 1;
+Prop Mountains 2*F2;
+Small Snowy Pine;
+Wizard City Dance Theme*F3*WMV;
+
+| cards =
+Dark Sprite;
+Fire Cat*F2;
+Fire Shield*F2*WMV;
+Frost Beetle;
+Gobbler*F7*WMV;
+Guiding Light;
+Keen Eyes*F2;
+Pixie*F2*WMV;
+Scarab*F2;
+Snow Serpent;
+Snow Shield;
+Storm Shield;
+Time of Legend;
+Troll;
+
+| reagents =
+Bone*F2;
+
+| spellements =
+
+| snacks =
+Blonde Strawberry*F6*WMV;
+Cheese Broccoli;
+Chocolate Strawberry*F3;
+Gummy Firecat;
+Sugar Donut*F5*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Honey Sickle*F2;
+
+| mounts =
+
+| spells =
+
+}}

@@ -1,0 +1,204 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 20
+| heal = 11,040
+| crecla = Shark
+| school = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+31%;
+
+| outboost =
+140%;
+
+| incboost =
+5% Myth;
+
+| incresist =
+73% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Shark Student;
+
+| world = Lemuria
+| location = Night Forest
+| subloc1 = Second Story Tomb
+| descrip =
+For the purpose of drops, the Shark Principal is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}} ''"Look at you, flailing around!"'' - If a Wizard is late, Shark Principal will cheat-cast his Storm Shark which devours the Wizard for three turns.
+*{{Icon|Manipulation}} ''"Mine!"'' - At the end of every Round, Shark Principal uses {{Link|Spell|Steal Pip}}.
+*{{Icon|Shadow}}{{Icon|Spell}} ''"Nom-Nom"'' - Boss will cast a Shadow version of Storm Shark which devours the Wizard.
+*{{Icon|Feint}} ''"Safe At Last"'' - If Feint is cast on Shark Principal, Shark Student will cast a Shadow Spell moving the Feint onto himself.
+**{{Link|Spell|Indemnity}} can be used to prevent this cheat.
+** The Balance version of {{Link|ItemCard|Feint}} does not trigger this cheat.
+*{{Icon|Round}} ''"Combat is Hungry Work!"'' - Every 5 turns, Shark Principal casts a Shadow version of Storm Shark, which first removes all Charms, Wards and Auras then devours a Wizard, dealing no immediate Damage.
+**While Wizards are devoured, they gain no Pips, lose no Pips, and do not get to see their cards. They do not benefit from group heals, or suffer damage from group attacks.
+**Devoured Wizards are skipped. Shark Principal still steals a Pip every turn, but Wizards do not lose a Pip when devoured.
+**At the conclusion of the third Round of being devoured, Shark Principal casts a Shadow version of Tempest, dealing 3,000 Damage.
+*{{Icon|Afterlife}} ''"Dinner... is cancelled"'' - After the Boss is defeated, a Tempest (Shadow) will be cast on the Wizards.
+*{{Icon|Afterlife}} After any combatant in the battle ring is defeated, a Tempest (Shadow) will be cast on the Wizards, using none of his pips.
+**This cheat may trigger multiple times.
+**'''This cheat will cause damage even to Devoured Wizards.'''
+
+| spellnotes =
+*Casts an Aegis-Protected Stormblade (+30%).
+*Casts an unprotected Stormblade (+30%).
+
+| casts =
+Vengeance;
+Frenzy;
+Stormblade (+30%);
+Storm Trap;
+Windstorm;
+Disarm;
+Enfeeble;
+Queen Calypso;
+Natural Attack (Storm 130-260-390-520);
+Shadow Sultan;
+Sound of Musicology (Tier 3a);
+Glowbug Squall;
+Rusalka's Wrath;
+Fear of the Dark (Tier 3a);
+Tempest;
+
+| quests =
+Jaws Well that Ends Well;
+
+| gold =
+89 - 438;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+Magician's Balance Ring*F2;
+Magician's Death Ring;
+Magician's Ice Ring*F2;
+Magician's Life Ring*F2;
+Magician's Power Ring;
+Malevolent Balance Ring;
+Malevolent Storm Ring;
+
+| wands =
+
+| decks =
+
+| items =
+Cargo;
+Periodic Table Poster*F2;
+Puzzle Cube;
+
+| cards =
+Feint;
+Winged Sorrow;
+
+| reagents =
+Agave Leaves;
+Agave Nectar;
+Aquamarine*F2;
+Braided Vine;
+Draconium;
+Fire Blossom;
+Fish Fin;
+Mithril;
+Orichalcum;
+Scales*F2;
+Silver;
+Sunstone;
+Titanium*F2;
+Turmeric;
+Turquoise;
+
+| spellements =
+Lord of the Jungle;
+
+| snacks =
+Boom Stroganoff;
+Bread Fruit Fruit;
+Chapulines;
+Chili Peppers;
+Crystalweb Candy*F2;
+Eggplant;
+Fizzing Fertilizer;
+Fried Ice Cream;
+Fried Worms;
+Shanta Pudding;
+
+| jewels =
+Armor Piercer Opal;
+Balance-It Citrine;
+Dazzling Accurate Sapphire +14%*F2;
+Dazzling Critical Sapphire +19;
+Dazzling Damage Hematite +60;
+Death-Shot Onyx;
+Fire Assailant Ruby;
+Fire-Giver Ruby;
+Fire-Shot Ruby;
+Ice Striker Sapphire;
+Ice-Away Sapphire;
+Myth-Boon Peridot;
+Power-Taker Ruby;
+Sparkling Health Opal +117;
+Sparkling Mana Opal +49;
+Storm-Boon Amethyst;
+Stun Recalcitrant Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears;
+Blue Huckleberries;
+Boom Shroom;
+Burning Snap Dragon;
+Deadly Helephant Ears*CR;
+Deadly Ninja Fig;
+Evil Magma Peas*CR;
+Grapes of Wrath;
+Green Snow Apples;
+Helephant Ears;
+Ivy League*CR;
+Maltese Tiger Lily;
+Pink Huckleberries*F2;
+Prickly Bear Cactus;
+Red Bell Pepper;
+Red Couch Potatoes;
+Red Huckleberries;
+Rotten Beets;
+Saw Palmetto*F2;
+Ultra Snow Apples;
+Vampire Carrots;
+Venus Fly Trap;
+Yellow Bell Pepper*F2;
+
+| mounts =
+
+| spells =
+
+}}

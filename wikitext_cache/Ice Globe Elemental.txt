@@ -1,0 +1,110 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 19,450
+| crecla = Elemental
+| school = Ice
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Ice;
+Death;
+
+| critical =
+433;
+
+| criticalblock =
+606;
+
+| outpierce = 
+19%;
+
+| outboost =
+102%;
+
+| incboost =
+30% Fire;
+
+| incresist =
+43% Storm, Myth, Life, Death, Balance, Sun, Moon, Star, Shadow;
+73% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Empyrea
+| location = Outer Athanor
+| subloc1 = Ice Globe Elemental Cave
+| descrip =
+Thaumaturges must defeat the Ice Globe Elemental during their Selenopolis spell quest to obtain the {{Link|Spell|Shu}} spell.
+*This Boss is not repeatable.
+
+| speech =
+:''*ROOOOOOAAAARRR!*''
+
+| spellnotes =
+
+| casts =
+Brace;
+Weakness;
+Bad Juju;
+Iceblade;
+Angry Snowpig (Tier 5b);
+Ice Elemental (Tier 5a);
+Deathly Depths (Tier 5a);
+Banshee (Tier 5b);
+
+| quests =
+Shu-Bi-Dooby-Doo;
+
+| gold =
+19;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Curving Palm Tree;
+Selenopolis Field of Reeds Theme;
+
+| cards =
+
+| reagents =
+Steel;
+
+| spellements =
+
+| snacks =
+Zen Poppers;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

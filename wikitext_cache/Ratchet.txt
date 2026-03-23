@@ -1,0 +1,219 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 2,400
+| crecla = Golem
+| school = Storm
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Marleybone
+| location = Kensington Park
+| descrip =
+Ratchet is the fourth Boss encountered in Kensington Park, and he must be defeated before the Clockwork assistant of the kidnapped {{Link|NPC|H.G. Waggs}} can be repaired.
+
+| speech =
+:''"You shall not reactivate the clockwork Gyro.  Not as long as I animate..."''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Marleybone
+| tome description =
+There's a mechanical spider named Clanker this guy really needs to meet. Seems like they'd make a good team.
+
+| extract class =
+Golems;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Myth Shield;
+Weakness;
+Black Mantle;
+Stormblade;
+Storm Trap;
+Thunder Snake;
+Storm Serpent (155-195);
+Lightning Bats;
+Storm Shark;
+Squall Wyvern;
+Kraken;
+Banshee;
+Sunbird;
+
+| quests =
+The Invincible Man;
+
+| gold =
+11 - 157;
+
+| hats =
+Brisk Cap;
+Cap of Hinderance*F3;
+Cap of Preoccupation;
+Cap of the Banshee;
+Cap of the Kraken*F2*WMV;
+Cowl of Arias;
+Cowl of Fiction;
+Druidic Cowl;
+Feline's Charged Hat;
+Haskarr's Barbarish Cap;
+Headwrap of Incineration;
+Headwraps of the Whim;
+Helm of Horrors*F2;
+Helm of Struggling;
+Immersive Cowl;
+Shaman's Hat;
+Shroud of Predicament;
+Shroud of Scruples;
+Silent Canine Cowl;
+Sprightly Hood;
+Superstitious Canine Cowl;
+
+| robes =
+Abstract Vestment;
+Alluring Robes*F2*WMV;
+Benign Robe;
+Cloak of Fascination;
+Cosmopolitan Robe;
+Dexterous Vest;
+Engrossed Robes;
+Feline's Somber Robe;
+Frosty Vestment;
+Garment of the Supreme;
+Garments of Predicament;
+Icy Tunic;
+Light-As-Air Cloak*F2;
+Mechanical Tunic*F3*WMV;
+Polished Garments*F2*WMV;
+Robe of Excellence;
+Robe of Extinction*F3*WMV;
+Robe of Hinderance;
+Robe of Ideals;
+Robe of Superiority*F2*WMV;
+Robe of the Bubble*F2*WMV;
+Robe of the Universe;
+Tunic of Scruples;
+Tunic of the Clever;
+Vestment of Arias;
+Vestment of Fiction;
+
+| boots =
+Abstract Footwraps;
+Admirable Shoes;
+Boots of Awareness;
+Boots of Disillusion*F2*WMV;
+Benign Slippers;
+Clanker's Irritating Shoes;
+Exquisite Slippers;
+Flowering Canine Shoes*F3*WMV;
+Frozen Canine Shoes*F5*WMV;
+Graceful Slippers*F2;
+Gripping Boots*F2*WMV;
+Light-As-Air Slippers;
+Painful Slippers;
+Pompous Footwraps*F2;
+Prospective Boots;
+Puddle Stompers;
+Sandals of Civility*F2*WMV;
+Shoes of Sentiments;
+Shoes of the Chimera;
+Shoes of the Windless;
+Slippers of the Worrier;
+Systematic Boots;
+Warbled Shoes;
+
+| athames =
+Watchman's Athame;
+
+| amulets =
+
+| rings =
+Mechanical Ring;
+Watchman's Decoder Ring*F4*WMV;
+
+| wands =
+Staff of Rejuvenation*F3*WMV;
+
+| decks =
+Enigmatic Deck*F4*WMV;
+
+| items =
+Brick Fireplace;
+Crossbone Gravestone;
+Engraved Pedestal*F2*WMV;
+Fire Hydrant;
+Short Cement Post*F2*WMV;
+Square Metal Platform;
+Yellow Foodcart;
+
+| cards =
+Heck Hound;
+Tough;
+
+| reagents =
+Bronze Gear*F3*WMV;
+Copper;
+Lead;
+Nickel;
+Tin;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Caramel Popcorn*F2*WMV;
+Golden Squash;
+Gummy Bloodbat;
+Medium Fish*F2;
+Redskin Peanut*F2;
+Square Watermelon*F3*WMV;
+Stinky Cheese*F2;
+Wheat Cracker*F2;
+
+| jewels =
+Chipped Defense Citrine +15;
+Chipped Defense Opal +8;
+Death-Proof Onyx;
+Eager Opal;
+Flawed Accurate Opal +2%;
+Locust Swarm Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

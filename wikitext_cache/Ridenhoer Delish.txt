@@ -1,0 +1,208 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 9,840
+| crecla = Froudling
+| school = Ice
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| randomminions =
+Black Cap;
+Green Cap;
+Red Cap;
+
+| totalminions = 3
+| world = Avalon
+| location = Outer Yard
+| subloc1 = Mysterious Well
+| descrip =
+Ridenhoer Delish is one of the two possible bosses found in the {{Link|Location|Mysterious Well}}, the other being {{Link|Creature|Flevur Flave}}.
+The three Minions for this Boss can be any combination of {{Link|Creature|Black Cap}}s, {{Link|Creature|Green Cap}}s, and {{Link|Creature|Red Cap}}s.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Round}} At the beginning of Round 1, Ridenhoer Delish will interrupt-cast Dr. Von's Monster.
+*{{Icon|Healing}} If a Wizard casts a [[:Category:Healing Spells|Healing]] Spell, he will interrupt-cast {{Link|TreasureCard|Link}} at the target that was healed.
+**Pet heals will not trigger this cheat.
+
+| spellnotes =
+
+| casts =
+Fortify;
+Vengeance;
+Tower Shield;
+Iceblade;
+Freeze;
+Balefrost;
+Natural Attack (Ice 180-280-430);
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Frostbite;
+Icezilla (650-730);
+Colossus;
+Frost Giant;
+Snow Angel;
+
+| quests =
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge and has not unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge, the following drops will be available:
+*6 Spellements will drop each time for their respective rank 5-9 Spells.
+
+| gold =
+168 - 263;
+
+| hats =
+Bad Storm Shroud;
+Fire Spirits' Toasty Helm;
+Great Faerie Knight Helm;
+Hood of the Sacred Lake*F2;
+Hunter's Helm of Mercy;
+
+| robes =
+Catalan's Scales*F2;
+Jabberwock's Plate*F3;
+
+| boots =
+Knight's Boots of Justice*F2;
+Loyal Knight's Boots*F2;
+
+| athames =
+Loyal Steel*F2;
+
+| amulets =
+Unknowable Torc;
+
+| rings =
+Sir Malory's Seal;
+
+| wands =
+Gallant Longbow;
+
+| decks =
+Argent Rose Deck*F5*WMV;
+
+| items =
+Avalon Wyrd Theme;
+Dread Keep Throne;
+Fox Head Statue;
+Square Pedestal;
+
+| cards =
+Frostbite*F2;
+Frozen Armor;
+Legion Shield*F5*WMV;
+Snow Angel;
+Steal Ward*F4;
+Storm Lord;
+Unstoppable;
+
+| reagents =
+Black Lotus*F3;
+Cat Tail*F3;
+Deep Mushroom;
+Frost Flower;
+Lava Lily*F2;
+Mist Wood*F2*WMV;
+Ore*F3;
+Pearl;
+Red Mandrake*F4;
+Shell*F5;
+Stone Block*F5*WMV;
+
+| spellements =
+Basilisk*BR;
+Blight Hound*BR;
+Centaur*BR;
+Chimera*BR;
+Colossus*BR;
+Dr. Von's Monster*BR;
+Earth Walker*BR;
+Efreet*BR*F2;
+Fire Dragon*BR;
+Forest Lord*BR*F2;
+Frost Giant*BR;
+Gnomes!*BR*F2;
+Helephant*BR;
+Hydra*BR;
+Leviathan*BR*F2;
+Medusa*BR;
+Minotaur*BR;
+Orthrus*BR*F2;
+Phoenix*BR;
+Power Nova*BR;
+Ra*BR*F2;
+Rain of Fire*BR;
+Rebirth*BR*F2;
+Scarecrow*BR;
+Sirens*BR*F2;
+Skeletal Dragon*BR;
+Skeletal Pirate*BR*F2;
+Snow Angel*BR*F2;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Stormzilla*BR;
+Triton*BR;
+Woolly Mammoth*BR;
+Wraith*BR*F2;
+
+| snacks =
+Cauliflowers*F2*WMV;
+Chocolate Strawberry*F3;
+Cracker;
+Flapjacks;
+Glowing Star Fruit;
+Green Grapes;
+Gummy Firecat;
+Gummy Humongofrog;
+King Banana;
+Kola Nuts;
+Nettle Root;
+Sugar Donut;
+
+| jewels =
+Opaque PIP Opal +7%;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap;
+Evil Magma Peas*CR;
+Pink Huckleberries;
+Trumpet Vine;
+
+| mounts =
+
+| spells =
+
+}}

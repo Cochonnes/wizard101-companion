@@ -1,0 +1,101 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 2,110
+| crecla = Giant
+| school = Ice
+| cheats = Yes
+| startpips = 2
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Grizzleheim
+| location = Nastrond
+| subloc1 = Jotengard
+| descrip =
+For the purpose of drops, Austri is considered a Minion to {{Link|Creature|Nordri}}.  All drops, cheats, and speech are recorded on that page.
+
+| speech =
+
+| cheatnotes =
+*"Wrong brother! I'm it!" - Casting Spells at a Boss without the Stun Shield will trigger Austri casting {{Link|Spell|Colossus}}, dealing 460-540 Ice Damage.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Ice Damage.
+
+| casts =
+Tower Shield;
+Iceblade;
+Ice Trap;
+Freeze;
+Blizzard;
+Ice Wyvern;
+Raging Kraken (Ice);
+Icezilla (650-730);
+Colossus;
+
+| quests =
+Rune With a View;
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

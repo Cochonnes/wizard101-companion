@@ -1,0 +1,210 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 14,600
+| crecla = Witch
+| school = Ice
+| masteries =
+Storm;
+
+| startpips = 6
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Fire, Myth;
+
+| incresist =
+80% Ice;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Night Weaver;
+Night Weaver;
+Night Weaver;
+
+| world = Azteca
+| location = Saltmeadow Swamp
+| subloc1 = Pyramid of Storm Eye
+| descrip =
+
+| speech =
+:''"What!? I'm trying to summon the Storm Caiman and chain him as my servant. I didn't want a stupid wet-nosed Wizard. Still, maybe I can feed you to the Storm Caiman. Come to Blue Agnes!"''
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Tower Shield;
+Lightning Strike;
+Iceblade;
+Elemental Blade;
+Natural Attack (Ice 190-380-570);
+Colossus (525-605);
+Lord of Winter;
+Wild Bolt;
+Storman (290);
+Storm Lord;
+
+| quests =
+This Corrosion;
+
+| gold =
+238 - 275;
+
+| hats =
+Black Sun Chac's Helmet*F2;
+Hood of the Hungry Lizard*F3*WMV;
+
+| robes =
+Cloak of the Tyrant of Beasts;
+Coatl Lord's Robes;
+Death Moon's Chosen Robes*F3*WMV;
+Grinning Death Xicolli Vest*F5*WMV;
+High Chac's Guarded Armor*F2;
+Song of the Lizard Coat;
+Tunic of the Broken Spear*F2*WMV;
+Vestment of the Calavera*F2;
+
+| boots =
+Storm Caiman's Sly Boots*F2*WMV;
+
+| athames =
+
+| amulets =
+Smoking Fang Talisman*F2*WMV;
+Thunder Horn's Coral Charm;
+
+| rings =
+
+| wands =
+Brutal Ice Arrow Rod;
+Heart of the Sky Scepter*F4*WMV;
+
+| decks =
+Cipactli's Lost Cards*F3*WMV;
+King's Royal Portraits;
+Winter's Pyramid Deck;
+
+| items =
+Azteca Combat Theme;
+Colorful Rug*F3;
+Jaguar Pillar;
+Ornate Mask;
+
+| cards =
+Basilisk;
+Chastisement;
+Chimera;
+Colossal;
+Cycle of Life;
+Extraordinary;
+Fire Dragon;
+Frost Giant;
+Furnace;
+Galvanic Field*F2*WMV;
+Gnomes!;
+Mend;
+Orthrus;
+Polymorph Icehorn;
+Polymorph Jaguar*F3*WMV;
+Polymorph Pteranodon;
+Potent Trap*F2*WMV;
+Primordial;
+Punishment;
+Rain of Fire;
+Reliquary;
+Sharpened Blade*F2;
+Sleet Storm*F2;
+Storm Lord;
+Vengeance;
+Virulence;
+
+| reagents =
+Black Lotus*F4*WMV;
+Black Pearl;
+Blood Moss*F3*WMV;
+Bone*F4*WMV;
+Brass*F2*WMV;
+Bronze Gear*F6*WMV;
+Cobalt;
+Deep Mushroom;
+Fire Blossom*F6*WMV;
+Fossil;
+Golden Pearl;
+Lava Lily*F4*WMV;
+Mist Wood*F3*WMV;
+Nightshade;
+Ore*F3;
+Red Mandrake*F7*WMV;
+Steel*F2;
+Stone Block*F2*WMV;
+Sunstone;
+Titanium;
+Tungsten;
+Turquoise*F2;
+
+| spellements =
+
+| snacks =
+Allocados;
+Avocado Milkshake;
+Bedrock Bonbons*F3*WMV;
+Cactus Fruit*F3*WMV;
+Chapulines;
+Fern Jelly;
+Fried Ice Cream;
+Maize*F2*WMV;
+Marzipan Maize*F2*WMV;
+Quetzal Pretzel*F3*WMV;
+Saber-Tooth Cider*F2*WMV;
+Tenochti-Flan;
+Tortilla Chips;
+Yucca*F2;
+Zocalo Wings*F2*WMV;
+
+| jewels =
+Animate Skeleton Onyx;
+Balance-Off Citrine;
+Button Tom Peridot;
+Clear Piercing Citrine +5%;
+Go Humongo Peridot;
+Polished Critical Citrine +11;
+Polished Critical Peridot +11;
+Polished Critical Ruby +11;
+Polished Damage Sapphire +21;
+Rage of Winter Sapphire;
+Stormclaw Amethyst;
+Take Power Ruby;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Ninja Fig;
+Fiery Boom Shroom*F2*WMV;
+King Parsley*CR;
+Ninja Fig*CR;
+Red Huckleberries;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

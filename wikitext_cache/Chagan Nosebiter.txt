@@ -1,0 +1,251 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 8,080
+| crecla = Froudling
+| school = Fire
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Storm;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Whiptail Pantera;
+
+| world = Avalon
+| location = Caer Lyon
+| subloc1 = Nosebiter's Hideout
+| descrip =
+Two additional Whiptail Panteras appear if more than two Wizards are present.
+
+| speech =
+:''"Good of you to stick your nose in... I was feeling a little peckish."''
+
+| spellnotes =
+
+| casts =
+Amplify;
+Infallible;
+Fireblade;
+Fire Trap;
+Natural Attack (Fire 135-275-430);
+Fire Shark;
+Meteor Strike;
+Scald;
+Magma Man;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Fire Dragon;
+Efreet;
+
+| quests =
+Great Wild Wood;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge and has not unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge, the following drops will be available:
+*5 Spellements will drop each time for their respective rank 5-9 Spells.
+
+| gold =
+86 - 107;
+
+| hats =
+Bad Storm Shroud;
+Brave One's Mantle;
+Hood of the Sacred Lake*F5;
+Hunter's Helm of Mercy*F2*WMV;
+Mask of the Silent Hunter;
+
+| robes =
+Catalan's Scales*F6*WMV;
+Fire Spirits' Toasty Tunic;
+Jabberwock's Plate*F4;
+Windbreaker of Nodor;
+
+| boots =
+Friend of the Fire Elf Boots;
+Knight's Boots of Justice*F5*WMV;
+Long as Night Walkers;
+Loyal Knight's Boots*F2;
+Ponycorn Hoofers;
+Slick Road Grippers*F2*WMV;
+
+| athames =
+Loyal Steel*F3*WMV;
+Noble Hunter's Dagger*F2;
+
+| amulets =
+Circlet of the Hardy Squire*F2*WMV;
+Unknowable Torc*F2;
+
+| rings =
+Bad Host Band;
+Band of the Lost Abbey;
+Circle of Caliburn;
+Dun Dara's Triskelion;
+Ganelon's Lost Ring;
+Knight Errant's Seal;
+Lake Spiral Ring;
+Sir Malory's Seal*F4*WMV;
+
+| wands =
+Gallant Longbow*F3*WMV;
+Longbow of Integrity*F3;
+
+| decks =
+Tanglewood Cards*F10*WMV;
+
+| items =
+Avalon Tense Theme;
+Avalon Wyrd Theme*F2*WMV;
+Hay with Pitchfork;
+Red Thorn Dagger on Pedestal;
+Square Pedestal;
+Tree Fountain*F2;
+
+| cards =
+Choke*F6*WMV;
+Fuel*F5*WMV;
+Gargantuan;
+Immolate*F4*WMV;
+Medusa;
+Orthrus;
+Power Link*F8*WMV;
+Power Nova*F3*WMV;
+Ra;
+Rebirth*F2;
+Scald*F5*WMV;
+Scarecrow*F2;
+Skeletal Dragon;
+Snow Angel;
+Steal Charm*F6*WMV;
+Storm Lord;
+
+| reagents =
+Black Lotus*F5*WMV;
+Brass;
+Bronze;
+Cat Tail*F6*WMV;
+Cobalt;
+Deep Mushroom*F4*WMV;
+Frost Flower*F4*WMV;
+Lava Lily*F5;
+Mist Wood*F6*WMV;
+Nickel*F2;
+Ore*F6;
+Parchment*F4;
+Pearl*F5;
+Red Mandrake*F2*WMV;
+Shell*F3*WMV;
+Stone Block*F2*WMV;
+Tin;
+
+| spellements =
+Basilisk*BR;
+Blight Hound*BR;
+Centaur*BR;
+Chimera*BR;
+Colossus*BR;
+Dr. Von's Monster*BR;
+Earth Walker*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+Helephant*BR;
+Hydra*BR;
+Leviathan*BR;
+Medusa*BR;
+Minotaur*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*BR;
+Rebirth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Skeletal Pirate*BR;
+Snow Angel*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Stormzilla*BR;
+Triton*BR;
+Woolly Mammoth*BR;
+Wraith*BR;
+
+| snacks =
+Bogwich;
+Cauliflowers;
+Cheese Broccoli;
+Chocolate Strawberry;
+Cracker*F2*WMV;
+Deviled Eggs;
+Glowing Star Fruit;
+Gummy Firecat;
+Gummy Humongofrog;
+Gummy Wyrms*F2;
+Jelly Baby;
+King Banana;
+Kola Nuts;
+Nettle Root;
+Pigeon Pie*F2*WMV;
+Roasted Chickpeas*F3*WMV;
+Sugar Donut*F2*WMV;
+Tiny Fish;
+Treant Bark*F2;
+
+| jewels =
+Balance-Eye Citrine;
+Clear Blocking Jade +10;
+Clear Defense Amethyst +37;
+Clear Defense Sapphire +37;
+Dependable Opal;
+Opaque Defense Sapphire +34;
+Opaque Health Opal +73;
+Opaque Mana Opal +30;
+Super-Lock Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Blue Huckleberries;
+Deadly Fly Trap;
+Evil Magma Peas*CR*F3*WMV;
+Key Limes*CR;
+Pink Dandelion*CR;
+Pink Huckleberries*F2;
+Red Huckleberries*F2;
+Trumpet Vine;
+White Desparagus;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

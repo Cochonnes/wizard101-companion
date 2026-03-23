@@ -1,0 +1,232 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 14,000
+| crecla = Globulin
+| school = Death
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+120 Any;
+
+| criticalblock =
+107 Any;
+
+| outpierce =
+15%;
+
+| outboost =
+75%;
+
+| incboost =
+15% Life;
+
+| incresist =
+30% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Globulin;
+
+| petname = 
+| petbreed = Death Wartle
+| world = Empyrea
+| location = Sepidious
+| descrip =
+The Hobglobulin is a roaming Boss in Sepidious.<br/>The Death Wartle Pet will occasionally cast Dream Shield.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Dark Shepherd;
+Dream Shield;
+Dark Pact (+30%);
+Curse;
+Feint;
+Age of Reckoning;
+Death Scarab (Death);
+Red Banshee;
+Natural Attack (Death 135-230-325);
+Death Cyclops;
+Death Ninja Pig (Death);
+Avenging Fossil;
+
+| quests =
+
+| gold =
+366 - 568;
+
+| hats =
+Interstellar Delegate's Helm;
+Interstellar Hero's Helm;
+
+| robes =
+Interstellar Delegate's Suit;
+
+| boots =
+
+| athames =
+Interstellar Delegate's Knife*F3*WMV;
+Interstellar Hero's Knife;
+Interstellar Officer's Knife;
+
+| amulets =
+Interstellar Hero's Charm*F2*WMV;
+Interstellar Navigator's Charm*F2*WMV;
+Interstellar Warrior's Charm;
+
+| rings =
+Interstellar Delegate's Band*F2*WMV;
+Interstellar Engineer's Band*F3*WMV;
+Interstellar Explorer's Band*F4*WMV;
+Interstellar Hero's Band*F2*WMV;
+Interstellar Medic's Band*F2*WMV;
+Interstellar Navigator's Band*F4*WMV;
+Interstellar Officer's Band;
+Interstellar Warrior's Band*F5*WMV;
+
+| wands =
+
+| decks =
+Interstellar Hero's Deck;
+Interstellar Warrior's Deck;
+
+| items =
+Empyrea Aeriel Theme*F2*WMV;
+Empyrea Finale Combat Theme*F3*WMV;
+Empyrea Flotsam Combat Theme*F2*WMV;
+Empyrea Inner Athanor Theme*F2*WMV;
+Empyrea Jungle Theme*F3*WMV;
+Empyrea Outer Athanor Theme*F3*WMV;
+
+| cards =
+Mass Death Prism;
+Mass Fire Prism*F2*WMV;
+Mass Ice Prism;
+Mass Triage;
+Sanctuary*F2*WMV;
+
+| reagents =
+Ancient Scroll*F7*WMV;
+Antique Coins*F8*WMV;
+Black Pearl*F4*WMV;
+Blood Moss*F5*WMV;
+Brass*F9*WMV;
+Bronze Gear*F8*WMV;
+Cobalt*F6*WMV;
+Ectoplasm*F4*WMV;
+Nickel*F7*WMV;
+Scales*F7*WMV;
+Spider Silk*F5*WMV;
+Spring*F3*WMV;
+Tin*F6*WMV;
+
+| spellements =
+
+| snacks =
+Aztecan Hot Chocolate;
+BBQ Drumstick;
+Beast Wellington*F4*WMV;
+Bread Fruit Fruit*F2*WMV;
+Discord Grape Jelly*F7*WMV;
+Drumstick*F3*WMV;
+Eye Candy*F10*WMV;
+Glowing Taffy*F3*WMV;
+Hot Cross Buns*F10*WMV;
+Pizza*F10*WMV;
+Rock and Roll Candy*F3*WMV;
+Satyr Chow*F4*WMV;
+Sprinkle Cupcake*F4*WMV;
+
+| jewels =
+Ally Dream Shield Onyx;
+Ally Precision Citrine;
+Animate Skeleton Onyx;
+Balance-Boon Citrine;
+Balance-Eye Citrine*F2*WMV;
+Death-Boon Onyx;
+Death-Eye Onyx;
+Death-Giver Onyx;
+Death-Proof Onyx;
+Fire Striker Ruby;
+Fire-Giver Ruby;
+Fire-Sniper Ruby;
+Greensleeves Jade;
+Ice-Boon Sapphire;
+Life Assailant Jade;
+Life-Boon Jade;
+Life-Bringer Jade;
+Life-Eye Jade;
+Lustrous Accurate Amethyst +11%*F2*WMV;
+Lustrous Accurate Citrine +11%;
+Lustrous Accurate Ruby +11%;
+Lustrous Accurate Sapphire +11%;
+Lustrous Blocking Amethyst +13;
+Lustrous Blocking Citrine +13;
+Lustrous Blocking Jade +13;
+Lustrous Blocking Sapphire +13;
+Lustrous Damage Citrine +23*F2*WMV;
+Lustrous Defense Citrine +45*F2;
+Lustrous Defense Jade +45*F2*WMV;
+Lustrous Defense Sapphire +45;
+Lustrous Mana Opal +41;
+Lustrous Mana Opal +42;
+Lustrous PIP Opal +10%;
+Myth Striker Peridot;
+Myth-Sniper Peridot;
+Steal Health Talent Onyx;
+Storm Striker Amethyst;
+Storm-Giver Amethyst;
+Storm-Proof Amethyst;
+
+| pins =
+
+| pets =
+Death Wartle*F2;
+Green Globulin*F4*WMV;
+
+| seeds =
+Alligator Pear Tree;
+Angora Bunny Ears*F3*WMV;
+Baby Carrots*F5*WMV;
+Bell Pepper*F8*WMV;
+Blue Huckleberries*F6*WMV;
+Boiled Peanuts*F3*WMV;
+Boom Shroom;
+Bread Fruit Bush*F5*WMV;
+Cornbread Fruit Bush*F3*WMV;
+Couch Potatoes*CR*F4*WMV;
+Desparagus (Seed);
+Evil Magma Peas*CR;
+Fickle Pickle;
+Fish on a Vine*F8*WMV;
+Golden Couch Potatoes*F2*WMV;
+Grapes of Wrath*CR*F3*WMV;
+Helephant Ears*F2*WMV;
+Honey Bee Plant;
+Ivy League*CR*F2*WMV;
+Maelstrom Snap Dragon;
+Pink Huckleberries*F4*WMV;
+Pink Laugh-O-Dil*F3*WMV;
+Purple Grapes of Wrath;
+Red Couch Potatoes*F4*WMV;
+Red Huckleberries*F6*WMV;
+Sugar Khrystal*CR;
+Venus Fly Trap;
+White Desparagus;
+White Laugh-O-Dil;
+White Tiger Lily;
+
+| mounts =
+
+| spells =
+
+}}

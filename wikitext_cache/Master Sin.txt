@@ -1,0 +1,159 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 11
+| heal = 7,600
+| crecla = Goat
+| school = Death
+| startpips = 5
+| powerpips = Yes
+| critical =
+72 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Ice, Life;
+
+| incresist =
+80% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Otomo Scout;
+
+| world = MooShu
+| location = Shoshun Village
+| subloc1 = Shoshun Village Pagoda
+| descrip =
+*Sorcerers must defeat Master Sin in order to obtain their Level 78 Balance Pet, {{Link|Pet|Chimera}}.
+*This Boss is repeatable, but only while the Wizard has the Quest, It!.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 95 Death Damage per Pip.
+
+| casts =
+Fortify;
+Deathblade;
+Feint;
+Vampire;
+Skeletal Pirate;
+Death Ninja Pig (Death);
+Wraith;
+Scarecrow;
+
+| quests =
+It!;
+
+| gold =
+65 - 79;
+
+| hats =
+Cap of Song;
+Champion of Order's Icy Helm*F3*WMV;
+Chaos Knight's Blazing Helm;
+Engrossed Hat;
+Nunu's Mask of the Twisted;
+
+| robes =
+Fire-Spitter Robes*F2*WMV;
+Winter Wyrm's Cloak*F2*WMV;
+
+| boots =
+Courageous Knight's Boots;
+Noble Knight's Boots;
+Vigilant Sandals;
+
+| athames =
+Weirwood's Thorn;
+
+| amulets =
+Druid's Amulet of Courage;
+Pendant of Armiger's Tenacity;
+
+| rings =
+Toasty Band of the Fire Elves;
+
+| wands =
+Bludgeon of Confidence;
+Highland Shillelagh*F2;
+
+| decks =
+Silvershield Cards*F2*WMV;
+
+| items =
+Avalon Abbey Road Theme;
+
+| cards =
+Beguile*F2;
+Catalan*F2*WMV;
+Cloak;
+Dark Tribute*F3*WMV;
+Efreet;
+Frost Giant;
+Gargantuan;
+Orthrus;
+Plague*F2*WMV;
+Poison;
+Ra;
+Rebirth;
+Sacrifice;
+Scarecrow;
+Tough*F2*WMV;
+Unstoppable;
+Virulent Plague;
+
+| reagents =
+Black Lotus;
+Bronze;
+Cat Tail;
+Deep Mushroom;
+Frost Flower*F3*WMV;
+Lava Lily;
+Nickel;
+Ore*F2*WMV;
+Pearl;
+Red Mandrake;
+Stone Block*F3*WMV;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Cauliflowers;
+Deviled Eggs;
+Golden Grapes;
+Gummy Wyrms;
+Pigeon Pie;
+Treant Bark;
+
+| jewels =
+Bad Snowman Sapphire;
+Flawed Accurate Amethyst +4%;
+
+| pins =
+
+| pets =
+
+| seeds =
+Pink Huckleberries;
+Red Huckleberries;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

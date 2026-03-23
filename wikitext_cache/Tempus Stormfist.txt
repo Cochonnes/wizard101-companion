@@ -1,0 +1,194 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 2,810
+| crecla = Triton
+| school = Storm
+| startpips = 4
+| powerpips = Yes
+| critical =
+25 Any;
+
+| criticalblock =
+18 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth;
+
+| incresist =
+35% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Water Lurker;
+
+| world = Celestia
+| location = Stormriven Hall
+| subloc1 = Stormriven Temple
+| descrip =
+
+| speech =
+:''"Who dares summon the Avatar of the Storm Lord? I will destroy you for this insult!"''
+
+| spellnotes =
+
+| casts =
+Stormblade;
+Storm Trap;
+Darkwind;
+Lightning Bats;
+Kraken;
+Stormzilla;
+Tempest (6 Pip);
+Triton;
+Tempest;
+Natural Attack (Storm 125x, 70%);
+
+| quests =
+Kraken Up;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Dragonspyre Badges|Savior of the Spiral]]''' {{Icon|Savior of the Spiral}} Badge and has not unlocked the '''[[Basic:Zafaria Badges|Hero of Zafaria]]''' {{Icon|Hero of Zafaria}} Badge, the following drops will be available:
+*8 random Spellements will drop each time for rank 3-7 Spells.
+
+| gold =
+62 - 77;
+
+| hats =
+Congruent Cover;
+Headwrap of Rapport;
+Mask of Wonder*F2*WMV;
+Romantic Headdress;
+Stormfist's Gale Force Helm*F3*WMV;
+Surging Storm Helm;
+
+| robes =
+Armor of Celestian Totality*F3*WMV;
+Blistering Jerkin*F2*WMV;
+
+| boots =
+Boots of Bewilderment;
+Clogs of Creation*F2*WMV;
+Insulated Greaves;
+Proportional Shoes;
+Thundercloud Walkers;
+Thundercracked Clogs;
+Wintery Waders;
+
+| athames =
+Crab Claw;
+Edge of Equality*F7*WMV;
+Frozen Claw*F2*WMV;
+Senator's Claw;
+
+| amulets =
+Protective Pendant*F6*WMV;
+Spectral Choker;
+
+| rings =
+Band of the Briny Deep;
+Forsaken Signet*F5*WMV;
+Imbued Ring*F3*WMV;
+Remedy Ring;
+Ring of Regret;
+
+| wands =
+
+| decks =
+
+| items =
+Footlocker*F3;
+
+| cards =
+Minotaur;
+Monstrous*F7*WMV;
+Vengeance*F5*WMV;
+
+| reagents =
+Brass;
+Bronze;
+Cobalt*F2;
+Nickel*F2;
+Scales*F2;
+Tin*F2;
+
+| spellements =
+Banshee*BR*F2;
+Blight Hound*BR;
+Centaur*BR*F2;
+Colossus*BR;
+Cyclops*BR*F2*WMV;
+Cyclops Minion*BR;
+Earth Walker*BR*F4*WMV;
+Evil Snowman*BR*F2*WMV;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR*F2*WMV;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*BR;
+Ice Wyvern*BR*F2*WMV;
+Immolate*BR*F2*WMV;
+Kraken*BR;
+Locust Swarm*BR*F2*WMV;
+Minotaur*BR;
+Nature's Wrath*BR;
+Orthrus*BR;
+Phoenix*BR*F2;
+Power Nova*BR*F2;
+Scarecrow*BR;
+Seraph*BR;
+Skeletal Pirate*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Storm Shark*BR*F2;
+Stormzilla*BR;
+Sunbird*BR;
+Triton*BR;
+Vampire*BR;
+Wraith*BR;
+
+| snacks =
+Cauliflowers*F2*WMV;
+Delicious Cookie*F4*WMV;
+Glowing Star Fruit*F3*WMV;
+Glowing Taffy*F2*WMV;
+Spicy Drumstick*F3*WMV;
+Strawberry Cupcake;
+Submarine Sandwich*F2*WMV;
+
+| jewels =
+Blazing Oak Ruby;
+Plain Blocking Citrine +6;
+Plain Blocking Sapphire +6;
+Plain Damage Peridot +15;
+Reshuffle Citrine;
+Storm-Eye Amethyst;
+Super-Dizzy Opal;
+
+| pins =
+
+| pets =
+Sea Turtle*CR*F2*WMV;
+
+| seeds =
+Deadly Fly Trap*F3*WMV;
+Maelstrom Snap Dragon*F2;
+Pink Dandelion*CR*F2*WMV;
+Silver Trumpet Vine*CR*F3;
+
+| mounts =
+
+| spells =
+
+}}

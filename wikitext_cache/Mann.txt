@@ -1,0 +1,100 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 23
+| heal = 15,485
+| crecla = Kangaroo
+| school = Fire
+| startpips = 6
+| powerpips = Yes
+| schoolpips =
+Fire;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+35%;
+
+| outboost =
+128%;
+
+| incboost =
+30% Ice;
+
+| incresist =
+29% Storm, Myth, Life, Death, Balance, Shadow;
+59% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wallaru
+| location = Eucalyptus Forest
+| subloc1 = Hex-Mangrove
+| descrip =
+Mann is considered a Minion to {{Link|Creature|Hugh}}. All drops are recorded on that page.
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Flawless;
+Smoke Screen;
+Fireblade;
+Fuel;
+Fire Cat (Tier 4a);
+Fire Elf (Tier 4b);
+Whitehart Fire;
+Nautilus Unleashed;
+Helephant (Tier 4a);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

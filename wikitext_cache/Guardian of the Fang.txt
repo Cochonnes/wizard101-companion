@@ -1,0 +1,200 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 4
+| heal = 600
+| crecla = Undead
+| school = Death
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+20% Life;
+
+| incresist =
+20% Death;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Vault Haunter;
+
+| world = Krokotopia
+| location = The Vault of Ice
+| descrip =
+*Two additional Vault Haunters will appear if more than two Wizards are present.
+
+| speech =
+:''"Show your eyes, and grieve with your heart. Come to the shadows, and prepare to depart!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Krokotopia
+| tome description =
+The Guardian of the Fang has been known to console the Defender of the Fang when it gets too warm out.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Weakness;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Natural Attack (Death 85x);
+Lightning Bats;
+Evil Snowman;
+Cyclops;
+
+| quests =
+Breaking the Vault;
+Need Some Soul;
+
+| gold =
+20 - 41;
+
+| hats =
+Bitter Cap;
+Cowl of the Fortress*F2*WMV;
+Cryptkeeper's Circlet;
+Destructive Cowl;
+Diviner's Hat of Squalls;
+Hat of the Mirage;
+Helm of the Citadel;
+Rugged Hood*F2*WMV;
+Sphinx's Circlet;
+Stout Hood;
+Thaumaturge's Cowl of Awe;
+Theurge's Hat*F2;
+Threadbare Hood*F2;
+
+| robes =
+Dusty Robe*F2;
+Krokotopian Fire Kaftan;
+Krokotopian Kaftan;
+Krokotopian Storm Kaftan;
+Necromancer's Ivory Cloak;
+Robe of the Bastion;
+Robe of the Oracle;
+Rough-Hewn Robe;
+Sphinx's Vestment;
+Stout Robe*F2;
+Sturdy Robe*F2*WMV;
+Vest of the Desert*F2;
+Vest of the Oasis*F2*WMV;
+Vestment of Ignition;
+Vestment of the Arctic;
+
+| boots =
+Boots of Talent;
+Boots of the Bastion;
+Boots of the Citadel;
+Boots of the Whirlwind*F2*WMV;
+Flowering Shoes*F2*WMV;
+Footwraps of the Arctic;
+Hardy Boots;
+Overseer's Shoes;
+Runed Boots;
+Sandals of Energy;
+Sandals of Tall Tales;
+Shoes of Mortality;
+Shoes of the Desert*F2;
+
+| athames =
+Dirk of Harmony*F2;
+Parched Kris*F2;
+Whirlwind Dagger*F2*WMV;
+
+| amulets =
+
+| rings =
+Band of the Skies*F2;
+Flowering Band;
+Loop of Quietude;
+Loop of the Defender;
+Ring of the Badlands*F2;
+Sparkling Band;
+
+| wands =
+
+| decks =
+
+| items =
+Bushy Palm Tree;
+Hieroglyphic Ice Tablet;
+Krok Insect Plaque;
+Krok Moon Plaque;
+Krok Skull Plaque*F2*WMV;
+Raised Storm Sarcophagus;
+Tall Palm Tree*CR*F2;
+Wrapped Long Bench;
+
+| cards =
+Blizzard;
+Ghost Touch*F3*WMV;
+Meteor Strike;
+Sprite;
+Strong;
+Tempest;
+
+| reagents =
+Copper;
+Ectoplasm*F2;
+Lead;
+Ore*F3*WMV;
+Pyrite;
+Stone Block;
+Tin;
+
+| spellements =
+
+| snacks =
+Caramel Popcorn*F2*WMV;
+Cracker*F3*WMV;
+Green Grapes*F4*WMV;
+Gummy Bloodbat;
+Medium Fish;
+Nettle Root*F5*WMV;
+Tiny Fish*F7*WMV;
+
+| jewels =
+Chipped Health Opal +16;
+Dawdle Opal;
+Dirt Post Opal;
+Ghoul Onyx;
+Grass Post Opal;
+Life-Proof Jade;
+
+| pins =
+
+| pets =
+
+| seeds =
+Alligator Pear Tree*F2;
+Pink Dandelion*CR*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

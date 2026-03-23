@@ -1,0 +1,214 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 16
+| heal = 13,560
+| crecla = Elemental
+| school = Myth
+| shadowslots = 2
+| startpips = 3
+| powerpips = Yes
+| critical =
+120 Any;
+
+| criticalblock =
+117 Any;
+
+| outpierce =
+15%;
+
+| outboost =
+65%;
+
+| incboost =
+15% Storm;
+
+| incresist =
+30% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Steam Fury (Rank 15);
+
+| world = Empyrea
+| location = Outer Athanor
+| subloc1 = Melting House
+| descrip =
+The Steam Horror appears after defeating the [[Creature:Flame Fury (Rank 15)|Flame Furies]] and pulling the [[:File:(Quest) Mean Steam Goal 3.png|Lever]] in the Quest, ''Main Stream''.<br/>This Creature uses Pip Conversion.
+
+| speech =
+
+| spellnotes =
+
+| casts = 
+Dark Fiend;
+Mythblade;
+Mythic Fuel;
+Pierce;
+Shatter;
+Time of Legend;
+Yellow Troll;
+White Rat Magician;
+Keeper of the Flame;
+Natural Attack (Myth 115-230-345, 80%);
+Orthrus;
+
+| quests =
+A Hot Mess;
+Mean Steam;
+
+| gold =
+118 - 372;
+
+| hats =
+
+| robes =
+
+| boots =
+Interstellar Navigator's Boots;
+
+| athames =
+Interstellar Explorer's Knife;
+Interstellar Hero's Knife;
+Interstellar Navigator's Knife*F3;
+Interstellar Medic's Scalpel;
+
+| amulets =
+Interstellar Hero's Charm;
+Interstellar Medic's Charm*F2*WMV;
+Interstellar Officer's Charm;
+
+| rings =
+
+| wands =
+Hero's Hexacorder;
+Medic's Hexacorder*F2*WMV;
+
+| decks =
+Interstellar Navigator's Deck;
+
+| items =
+Empyrea Aeriel Theme*F2*WMV;
+Empyrea Athanor Combat Theme;
+Empyrea Flotsam Combat Theme*F2*WMV;
+Empyrea Inner Athanor Theme;
+Empyrea Jungle Theme;
+Empyrea Outer Athanor Theme*F3*WMV;
+
+| cards =
+Combustion*F2*WMV;
+Darkwind;
+Mass Ice Prism;
+Mass Life Prism;
+Mass Storm Prism;
+Mass Triage;
+
+| reagents =
+Ancient Scroll*F3*WMV;
+Antique Coins*F4*WMV;
+Black Pearl*F6*WMV;
+Blood Moss*F5*WMV;
+Brass*F3*WMV;
+Bronze Gear*F3;
+Cobalt*F4*WMV;
+Ectoplasm*F6*WMV;
+Nickel*F3*WMV;
+Scales*F5*WMV;
+Spider Silk*F5*WMV;
+Spring*F4*WMV;
+Tin*F5*WMV;
+
+| spellements =
+
+| snacks =
+Antheneum Delight;
+Beast Wellington;
+Cherry Pie;
+Discord Grape Jelly*F3;
+Drumstick;
+Eye Candy*F2*WMV;
+Glowing Taffy*F5*WMV;
+Pizza*F6*WMV;
+Rock and Roll Candy*F3*WMV;
+Satyr Chow*F3*WMV;
+Sprinkle Cupcake*F3*WMV;
+Squash*F2*WMV;
+
+| jewels =
+Ally Ether Shield Peridot;
+Balance-Off Citrine;
+Death-Away Onyx;
+Death-Eye Onyx*F2*WMV;
+Death-Sniper Onyx;
+Death-Ward Onyx;
+Fire-Giver Ruby*F2;
+Fire-Proof Ruby*F2*WMV;
+Fire-Shot Ruby;
+Healthy Opal;
+Ice-Boon Sapphire;
+Ice-Proof Sapphire;
+Ice-Sniper Sapphire;
+Life-Bringer Jade;
+Life-Shot Jade;
+Life-Ward Jade;
+Lustrous Accurate Citrine +11%;
+Lustrous Accurate Onyx +11%;
+Lustrous Blocking Ruby +13;
+Lustrous Blocking Sapphire +13;
+Lustrous Critical Sapphire +13;
+Lustrous Damage Jade +23;
+Lustrous Damage Sapphire +23;
+Lustrous Defense Onyx +45;
+Lustrous PIP Opal +10%*F2;
+Medic Opal;
+Myth Assailant Peridot*F2*WMV;
+Myth-Boon Peridot;
+Myth-Dealer Peridot;
+Myth-Shot Peridot;
+Sharp-Eye Opal;
+Storm Striker Amethyst;
+Storm-Boon Amethyst;
+Storm-Giver Amethyst;
+Storm-Shot Amethyst;
+Storm-Ward Amethyst;
+The Deer Knight Rises Onyx;
+Unbalancer Citrine;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Angora Bunny Ears;
+Baby Carrots;
+Bell Pepper*F4*WMV;
+Blue Huckleberries*F3*WMV;
+Boiled Peanuts*F4*WMV;
+Bread Fruit Bush*F6*WMV;
+Cornbread Fruit Bush*F3*WMV;
+Couch Potatoes*CR*F2;
+Fish on a Vine*F4*WMV;
+Golden Couch Potatoes*F4*WMV;
+Grapes of Wrath*CR;
+Green Snow Apples;
+Ivy League*CR;
+Laugh-O-Dil;
+Orange Dandelion;
+Pink Huckleberries*F5*WMV;
+Red Couch Potatoes*F3*WMV;
+Red Huckleberries*F2*WMV;
+Rye Bread Fruit Bush;
+Saw Palmetto;
+Snap Dragon;
+Tiger Lily (Seed);
+
+| mounts =
+
+| spells =
+
+}}

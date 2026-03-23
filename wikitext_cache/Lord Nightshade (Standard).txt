@@ -1,0 +1,144 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 9
+| heal = 13,800
+| crecla = Undead
+| school = Death
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = 
+| minions =
+
+| world = Housing Instance
+| location = Lord Nightshade Rematch
+| descrip =
+As the Boss in this battle, all drops are recorded on this page.
+*For the Challenge version of this battle, see {{Link|Creature|Lord Nightshade (Challenge)}}.
+
+| speech =
+
+| cheatnotes =
+*{{Icon|Late}}''"Tardiness is unacceptable"'' - If a Wizard is late after the second Round, Boss will cast a Moon version of Ship of Fools dealing '''100,000''' Moon Damage.
+
+{{Icon|Global}} '''Equalize Cycle:'''
+*''"Your doom approaches"'' - At the beginning of the first round, Boss will cast a Death version {{Link|Spell|Equalize}}, which sets the Damage cap to 250.
+*''"Closer"'' - At the beginning of the third round, Boss will cast a Death version Equalize, which sets the Damage cap to 500.
+*''"and closer..."'' - At the beginning of the fifth round, Boss will cast a Death version Equalize, which sets the Damage cap to 1,000.
+*''"It's almost here"'' - At the beginning of the seventh round, Boss will cast a Death version Equalize, which sets the Damage cap to 2,000.
+*''"Your doom is NOW!"'' - At the beginning of the tenth round, Boss will cast {{Link|Spell|Doom and Gloom (Moon)}}.
+*''"You wish to hasten your doom?"'' - If a Wizard changes the Global, Boss will recast Equalize.
+
+{{Icon|Round}} '''End of Round Cheat'''
+*''"Kneel! For I am the harbinger of your demise!"'' - At the end of every Round, Lord Nightshade will interrupt with a Moon version of '''Deer Knight''' dealing '''100,000''' Moon Damage.
+
+| spellnotes =
+
+| casts =
+Mass Infection;
+Deathblade (+40%);
+Dark Tribute;
+Mass Death Trap;
+Vampire (Tier 3b);
+Skeletal Pirate (Tier 3b);
+Wraith (Tier 3b);
+King Artorius (Death);
+
+| quests =
+
+| dropnotes =
+This Boss will always drop the following:
+*{{Icon|Robe}} 2-3 Malistaire Wands or Amulets
+*{{Icon|Reagent}} 10 Malistaire's Whisker
+*{{Icon|Spellement}} 28 groups of Rank 1-2 Spellements
+*{{Icon|Treasure Card}} 4 Azoth Treasure Cards
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+Malistaire's Chilly Charm (Level 160+);
+Malistaire's Ghostly Charm (Level 160+);
+Malistaire's Harmonic Charm (Level 160+);
+Malistaire's Infamous Charm (Level 160+);
+Malistaire's Squall Charm (Level 160+);
+Malistaire's Thorny Charm (Level 160+);
+Malistaire's Vengeance Charm (Level 160+);
+
+| rings =
+
+| wands =
+Malistaire's Chilly Staff (Level 160+);
+Malistaire's Ghostly Staff (Level 160+);
+Malistaire's Harmonic Staff (Level 160+);
+Malistaire's Infamous Staff (Level 160+);
+Malistaire's Squall Staff (Level 160+);
+Malistaire's Thorny Staff (Level 160+);
+Malistaire's Vengeance Staff (Level 160+);
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Malistaire's Whisker @ 10 Malistaire's Whisker;
+
+| spellements =
+Blood Bat;
+Dark Sprite;
+Fire Cat;
+Fire Elf;
+Frost Beetle;
+Ghoul;
+Imp;
+Leprechaun;
+Lightning Bats;
+Scarab;
+Scorpion;
+Snow Serpent;
+Thunder Snake;
+Troll;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Lord Nightshade (Rematch)
+
+}}

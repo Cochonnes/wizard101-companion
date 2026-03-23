@@ -1,0 +1,89 @@
+{{CreatureInfobox
+| retired = Yes
+| cretype = Boss
+| rank = 11
+| heal = 4,390
+| crecla = Goliath
+| school = Storm
+| startpips = 
+| powerpips = Yes
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Zafaria
+| location = Mirror Lake
+| subloc1 = 
+| descrip =
+These creatures were briefly part of the {{Link|Location|Mirror Lake}} instance where they were teamed up with the {{Link|Creature|Goliath Bruiser}}s. They were removed from the instance and are now considered "retired".
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals ~135 Storm Damage per Pip
+
+| casts =
+Stormblade;
+Storm Trap;
+Darkwind;
+Wild Bolt;
+Kraken;
+Stormzilla;
+Triton;
+Storm Lord;
+Tempest;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

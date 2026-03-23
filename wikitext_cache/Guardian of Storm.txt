@@ -1,0 +1,91 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 22
+| heal = 100
+| crecla = 
+| school = Storm
+| cheats = Yes
+| shadowslots = 2
+| startpips = 1
+| powerpips = Yes
+| outpierce =
+
+| outboost =
+
+| incboost =
+None;
+
+| incresist =
+None;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Raid
+| location = Crying Sky
+| subloc1 = Xibalba Wastes (North)
+| descrip =
+Guardian of Storm may appear in the Xibalba Wastes (North) when {{Link|Creature|High Priest Yetaxa}} is summoned.
+
+| speech =
+
+| cheatnotes =
+*''"I Am The Forever Storm!"'' - At the beginning of Round 1, Guardian of Storm will cast 8 {{Link|Spell|Guiding Light}} blades on self, and then casts an Invulnerability Aura.
+*''"Curse The Harsh Light Of Day!"'' - When Guardian of Storm has no Charms, it will remove the Invulnerability Aura.
+
+| spellnotes = 
+*Casts a version of Major Flux that deals 5% max Health.
+
+| casts =
+Thunder Snake (10% Health);
+Lightning Bats (20% Health);
+Storm Shark (30% Health);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

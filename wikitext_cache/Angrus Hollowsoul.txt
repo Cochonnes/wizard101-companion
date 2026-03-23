@@ -1,0 +1,169 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 8
+| heal = 4,800
+| crecla = Undead
+| school = Fire
+| cheats = Yes
+| startpips = 1
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+50% Ice;
+
+| incresist =
+80% Fire;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+
+| world = Wizard City
+| location = Colossus Boulevard
+| subloc1 = Briskbreeze Tower
+| descrip =
+Angrus Hollowsoul is on floor 5 and is the first Boss of Briskbreeze Tower.
+
+| speech = 
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dungeons
+| tome description =
+A general of sorts in the army of undead that attacked Briskbreeze Tower. There's a rumor he may have even stolen Lt. Culpepper's wallet!
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Charm}} At the start of Round 2, Angrus will interrupt to use Weakness on a random Wizard.
+**Although this Weakness is not cast, it can be dispelled.
+*{{Icon|Minion}} At the end of every fourth Round, an {{Link|Creature|Exploding Ember}} will join the duel and become active two Rounds later.
+**If Wizards flee and return, then the Exploding Ember(s) will remain.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Fire Damage per Pip.
+
+| casts =
+Snow Shield;
+Spirit Armor;
+Smoke Screen;
+Weakness;
+Fireblade;
+Fire Trap;
+Fire Cat;
+Link;
+Fire Elf (50+210);
+Sunbird;
+Fire Shark;
+Meteor Strike;
+Firezilla;
+Colossus (Fire);
+Helephant;
+Heck Hound;
+
+| quests =
+
+| gold =
+72 - 195;
+
+| hats =
+Bonfire Headdress;
+Cap of Chronicles;
+Cap of Constitution;
+Storyteller's Cap;
+Triton's Topper;
+
+| robes =
+Blizzard Cloak*F3;
+Fiery Tunic;
+Storm Giant's Surcoat;
+Terminus Wrap;
+Tunic of the Sphinx;
+Verdant Vestment;
+
+| boots =
+Ashen Footwraps;
+Boots of the Bountiful;
+Burning Boots;
+Footgear of the North Wind;
+Sandals of Lost Aeons*F2;
+Sandals of Neutrality*F2;
+Sandals of the Squall;
+
+| athames =
+
+| amulets =
+
+| rings =
+Band of the Hearth;
+Ring of Dominance;
+Ring of the Forefathers;
+
+| wands =
+
+| decks =
+Deck of Last Departure*F5*WMV;
+Deck of Nature's Bounty*F6;
+Deck of Perfect Harmony*F4*WMV;
+Deck of the Devouring Flame*F4*WMV;
+Deck of the Ice Wyrm*F4*WMV;
+Karuvian Deck of Eternity*F2;
+Sea Lord's Deck of Thunder*F6;
+
+| items =
+Short Corner Wall Ruins;
+Small Corner Wall Ruins;
+
+| cards =
+
+| reagents =
+Cobalt;
+Ectoplasm*F4;
+Lead;
+
+| spellements =
+
+| snacks =
+Flaming Soup;
+Goat Cheese;
+Golden Grapes*F3;
+Gummy Humongofrog*F4*WMV;
+King Banana*F2;
+
+| jewels =
+Blemished Defense Amethyst +24;
+
+| pins =
+
+| pets =
+
+| seeds =
+Fiery Boom Shroom;
+Pink Dandelion*CR*F2;
+
+| mounts =
+
+| spells =
+
+}}

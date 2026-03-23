@@ -1,0 +1,188 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 13
+| heal = 24,000
+| crecla = Eagle
+| school = Sun
+| masteries =
+Fire;
+Ice;
+Storm;
+Myth;
+Life;
+Death;
+Balance;
+
+| cheats = Yes
+| startpips = 7
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+38 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Lost Shade (Fire);
+Lost Shade (Life);
+Lost Shade (Myth);
+
+| world = Wizard City
+| location = Tartarus
+| subloc1 = Cave of Nyx
+| descrip =
+Cronus is the father of [[Creature:Zeus Sky Father (Mount Olympus)|Zeus Sky Father]], [[Creature:Poseidon Earth Shaker (Atlantea)|Poseidon Earth Shaker]], and [[Creature:Hades the Unseen (Tartarus)|Hades the Unseen]]. He is the secret hidden Boss in Tartarus, the Level 90+ final dungeon in [[Location:Garden of Hesperides|Aquila]], a challenge for the mightiest of Wizards.<br/>This Boss will always occupy the duel circle's final spot.<br/>This Boss is typically known for dropping the {{Link|Item|Blade of the Felled Titan}} and the Exalted Amulets.
+
+| speech =
+:''"I am Cronus.  I am the father of Demeter and Hestia, Hades and Hera, Poseidon, and even little Zeus.  You are a speck of dust.  Less than dust.  You are a drop of sweat on my foot.  I will consume you now."''
+
+| cheatnotes =
+*{{Icon|Round}} Every Round, Cronus will cast a Sun Spell that places a '''+40%''' Trap of the following Schools.
+**Balance, Death, Fire, Ice, Myth, Life, Storm.
+***Sometimes Cronus casts an invisible trap, probably due to being a Balance trap, that seems to act like a universal trap. This trap is not listed in effects.
+
+*{{Icon|Round}} Every four Rounds, he will interrupt cast {{Link|Spell|Lord of Night}} on a random Wizard.
+*{{Icon|Trap}} When a Wizard places a trap on him, he will place a '''Marked''' {{Link|Spell|Stun Block}} on himself.
+**Cronus will only place up to one marked stun block on himself, regardless of how many traps are placed on him, until he is attacked with a non-DoT spell.
+**When attacked by a single-targeting spell, a Cleanse Ward will be cast on him removing all Traps, and the '''Marked''' {{Link|Spell|Stun Block}}.
+***{{Link|Spell|Vaporize}} can dispel this cheat.
+***Spells that only place a DoT on Cronus will not remove the mark.
+*{{Icon|Damage}} ''"Attacks alone will never hurt me!"'' - If any Wizards attack without placing a trap on him, Cronus will interrupt cast his Natural Attack of the opposite School that a Wizard cast (Example: Storm damage spell = Myth [[Spell:Natural Attack (Cronus Myth)|Myth Natural Attack]] '''+40%''' to the next Myth damage ward spell).
+**Casting a Balance damage spell will result in Cronus using {{Link|Spell|Natural Attack (Cronus Storm)}}.
+**Multiple damage spells such as {{Link|Spell|Minotaur}} will trigger him casting his natural twice.
+**All enemies damage spells will trigger this cheat.
+**DoT spells will trigger this cheat only on initial hit.
+**Any Astral spells trigger an unknown damage school.
+**Shadow spells trigger an unknown damage school.
+
+| spellnotes =
+The trap left behind on the Natural Attack (Cronus Balance) visually looks like {{Link|Spell|Hex}}, but it is only a Balance Damage Trap.
+
+| casts =
+Balanceblade;
+Fireblade;
+Mythblade;
+Lifeblade (+40%);
+Natural Attack (Cronus Ice);
+Lord of Night;
+Natural Attack (Cronus Death);
+Natural Attack (Cronus Balance);
+Natural Attack (Cronus Storm);
+Earthquake;
+Natural Attack (Cronus Myth);
+Basilisk;
+Celestial Calendar;
+Luminous Weaver;
+Natural Attack (Cronus Life);
+Spinysaur;
+Phoenix;
+Fire Dragon;
+Natural Attack (Cronus Fire);
+Sun Serpent;
+
+| quests =
+Revenge of the Immortals;
+
+| dropnotes =
+When a Wizard has not unlocked the '''[[Basic:Khrysalis Badges|Child of Light and Shadow]]''' {{Icon|Child of Light and Shadow}} Badge and has completed the '''{{Link|Quest|Sisyphus is Unhappy}}''' {{Icon|Swole Like Sisyphus}} Quest, the following drops will be guaranteed:
+*{{Icon|Spellement}} 2 Aquila Spellements of '''any''' School
+
+If a Wizard already has the Child of Light and Shadow Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} inside the Cave of Nyx to acquire a [[Item:Level Scaling Elixir - 90|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+1 - 39;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+Blade of the Felled Titan*F9*WMV;
+
+| amulets =
+Exalted Balance Amulet*F4;
+Exalted Death Amulet*F3;
+Exalted Fire Amulet*F4;
+Exalted Ice Amulet*F4;
+Exalted Life Amulet*F3;
+Exalted Myth Amulet*F4;
+Exalted Storm Amulet*F4;
+
+| rings =
+Ring of Gorgon Imprisonment (Level 90+);
+Ring of Gorgon Infamy (Level 90+);
+Ring of Gorgon Petrification (Level 90+);
+Ring of Gorgon Suffering (Level 90+);
+Ring of Gorgon Venom (Level 90+);
+Ring of Gorgon Volatility (Level 90+);
+Ring of Gorgon's Gaze (Level 90+);
+
+| wands =
+
+| decks =
+
+| items =
+Aquila Atlantea Theme;
+Aquila Boss Combat Theme;
+Aquila Combat Theme;
+Aquila Epic Combat Theme*F5*WMV;
+Aquila Olympus Theme;
+Aquila Tartarus Theme;
+
+| cards =
+
+| reagents =
+Amber*F18*WMV;
+Brass;
+Bronze;
+Silver;
+Steel;
+Tungsten;
+
+| spellements =
+Fires of Mars*BR;
+Jupiter's Might*BR;
+Neptune's Fury*BR;
+Phoebus' Will*BR;
+Pluto's Peril*BR;
+Saturn's Reaping*BR;
+Terminus' Strike*BR;
+
+| snacks =
+
+| jewels =
+Death-Boon Onyx;
+Forceful Opal;
+Polished Blocking Peridot +11;
+Polished Blocking Ruby +11;
+Stonewall Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

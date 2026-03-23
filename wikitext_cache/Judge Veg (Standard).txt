@@ -1,0 +1,90 @@
+{{Test|Feb26}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 13,510
+| crecla = Kangaroo
+| school = Life
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| schoolpips =
+Life;
+
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+
+| world = Karamelle
+| location = Karamelle City
+| subloc1 = Rosina's House (Standard)
+| descrip =
+
+| speech =
+
+| spellnotes =
+
+| casts =
+Mass Life Trap;
+Hungry Caterpillar;
+King Artorius (Life);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

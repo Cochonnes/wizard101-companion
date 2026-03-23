@@ -1,0 +1,126 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 2
+| heal = 1,400
+| crecla = Beastmoon Creature
+| school = Life
+| startpips = 2
+| powerpips = 
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = 
+| minions =
+
+| world = Wizard City
+| location = Arena
+| subloc1 = Avalon Battlegrounds
+| location2 = Arena
+| subloc2 = Mirage Battlegrounds
+| descrip =
+Haya Rayiys is one of the Boss monsters that can be encountered during the first Stage of {{Link|Basic|Beastmoon}} [[Basic:Beastmoon Monster Mayhem|Monster Mayhem]] events. He will have 1 random, Rank 1 Elite, Stage 1 monster present to assist them.
+
+'''Potential Avalon Minions:'''
+*{{Link|Creature|Desert Scavenger}}
+*{{Link|Creature|Paragonmaton}}
+
+'''Potential Mirage Minions:'''
+*{{Link|Creature|Desert Scavenger}}
+*{{Link|Creature|Muck Elemental}}
+
+| speech =
+
+| spellnotes =
+*Casts a 1-Pip Fairy Spell that restores 200 Health over 4 Rounds.
+*Casts a 2-Pip version of Clever Imp that deals 200 Life Damage.
+**It is currently unknown whether the clear Ward effect occurs.
+
+| casts =
+The Worm Turns;
+Clever Imp;
+
+| quests =
+
+| dropnotes =
+All Wizards in the battlegrounds receive the drops, not just the ones within the battle.
+*Drops 5 - 8 Lunari.
+
+| gold =
+21 - 30;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+Balance Moonstone*F3;
+Balance Rune*F2*WMV;
+Balance Thread*F2;
+Death Rune*F2*WMV;
+Eldritch Thread*F5;
+Eldritch Thread @ 2 Eldritch Thread*F4;
+Hunter's Moonstone*F11*WMV;
+Spirit Moonstone;
+Spirit Thread*F6*WMV;
+
+| spellements =
+Crimson Phantom*F;
+Elemental Golem*F2;
+Golem\: Taunt*F2;
+Infestation;
+Legend Golem*F3;
+Monster Mash;
+Naptha Scarab;
+Obsidian Colossus;
+Poison;
+Regenerate;
+Sandstorm*F2;
+Sprite Swarm;
+Thermic Golem;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+Beastmoon Seed*F11*WMV;
+
+| mounts =
+
+| spells =
+
+}}

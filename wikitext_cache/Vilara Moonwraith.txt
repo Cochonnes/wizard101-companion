@@ -1,0 +1,174 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 2,400
+| crecla = Wizard
+| crecla2 = Undead
+| school = Death
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Rock Reaver;
+
+| world = Dragonspyre
+| location = The Tower Archives
+| subloc1 = Moonwraith's Tower
+| descrip =
+
+| speech =
+:''"We can see into your mind, little Wizard! Mere flesh cannot hide your intent from us! You seek the key this one possesses? Come and take it from us!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Dragonspyre
+| tome description =
+Loves to dance under the full moon to shoegaze music. She describes herself as 'a tortured soul'. Everyone else calls her 'whiny'.
+
+| extract class =
+Undead;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus = 
+| expel gold = 
+}}
+
+| spellnotes =
+
+| casts =
+Weakness;
+Deathblade;
+Curse;
+Death Trap;
+Dark Sprite;
+Ghoul;
+Banshee;
+Vampire;
+Skeletal Pirate;
+Scarecrow;
+Fire Elf (50+210);
+Lightning Bats;
+Ice Wyvern;
+Natural Attack (Ice 85x, 85%);
+
+| quests =
+Wish I Was a Locksmith...;
+
+| gold =
+99 - 114;
+
+| hats =
+Bonfire Headdress;
+Cap of Eternal Cold*F2;
+Cowl of Alignment;
+Cowl of Morbidity;
+Equalizer's Coif;
+Headwrap of the Victorious*F3;
+Ivy-Wrapped Cap;
+Moonwraith's Hurricane Hood;
+Shroud of the Equinox;
+Soot-Streaked Veil;
+Terminus Mantle;
+Triton's Topper;
+Veil of Leaves;
+Veil of Passage;
+
+| robes =
+Blizzard Cloak;
+Fiery Tunic;
+Sea-King's Surcoat*F2;
+Sepulchral Drape*F2;
+Tunic of the Sphinx;
+Verdant Vestment*F2;
+Vigorous Vestment*F3*WMV;
+
+| boots =
+Ashen Footwraps;
+Boots of Passage*F4*WMV;
+Boots of the Bountiful;
+Boots of the Broken Sky*F2;
+Boots of the Endless Chill*F2;
+Earthrangers;
+Footgear of the North Wind;
+Moonwraith's Gloomstriders*F2*WMV;
+Salamander-Hide Shoes;
+Sandals of Lost Aeons;
+Sandals of the Squall;
+
+| athames =
+
+| amulets =
+
+| rings =
+Band of the Basilisk*F3*WMV;
+Ring of the Forefathers;
+
+| wands =
+
+| decks =
+Deck of the Sage;
+
+| items =
+Dragonmoon Plaque;
+Pointed Rock Shard*F2;
+Short Corner Wall Ruins;
+
+| cards =
+Dragonflies;
+
+| reagents =
+Bone*F5;
+Cobalt;
+Iron;
+Leather Straps*F3*WMV;
+Nickel*F4;
+
+| spellements =
+
+| snacks =
+Flaming Soup;
+Goat Cheese;
+Gummy Humongofrog*F2;
+
+| jewels =
+Balefrost Sapphire;
+Dull Defense Citrine +25;
+Dull Defense Jade +25*F2;
+Dull Defense Onyx +25;
+Dull Defense Sapphire +25;
+
+| pins =
+
+| pets =
+
+| seeds =
+Deadly Fly Trap*F2;
+Fiery Boom Shroom*F4*WMV;
+Pink Dandelion*CR*F2;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

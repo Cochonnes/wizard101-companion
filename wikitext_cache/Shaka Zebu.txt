@@ -1,0 +1,216 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 10
+| heal = 5,015
+| crecla = Zebra
+| school = Balance
+| cheats = Yes
+| startpips = 3
+| powerpips = Yes
+| critical =
+47;
+
+| criticalblock =
+18;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+25% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Carrion Flower Man;
+
+| world = Zafaria
+| location = Zamunda
+| subloc1 = King's Court
+| descrip =
+*Shaka Zebu is the King of Zamunda, and the son of {{Link|NPC|Zanga Zebu}}. He and the court Baobab Tree have fallen under the shadow of some evil spirit.
+*Two additional Carrion Flower Man Minions will appear if more than two Wizards are present.
+*This Boss is not repeatable unless teaming up with a Wizard who has the quest to defeat him.
+
+'''Retired Monstrology Description:'''
+:He’s a real Shaka, brah.
+
+| speech =
+:''"Prepare to have your staff splintered by Shaka Zebu! The greatest living zebra warrior!"''
+
+| cheatnotes =
+*''"Nature Spirit protect me!"'' - If Shaka Zebu is not at full Health, a {{Link|Spell|Satyr}} will heal him by interrupt at the beginning of the Round.
+**Placing an {{Link|Spell|Entangle}} on Shaka Zebu will dispel the Satyr for the next Round.
+**This cheat will stop if Shaka or all of his Minions are defeated.
+*''"Where did everyone go?"'' - If all of his Minions are defeated, Shaka will say this line. The Meteor Strike cheat will follow a few rounds later.
+**''"Feel Shaka Zebu's Might!"'' - Every 2-3 rounds, Shaka will interrupt-cast a '''600-750''' Damage version of {{Link|Spell|Meteor Strike}}. This cast can be prevented with {{Link|Spell|Quench}}.
+**This cheat will also begin if all of his Minions are Beguiled.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 275 Balance Damage for 3 Pips maximum, despite the Spell card's description.
+
+| casts =
+Elemental Shield;
+Spirit Shield;
+Elemental Defuse;
+Balanceblade;
+Elemental Blade;
+Elemental Trap;
+Natural Attack (Balance 85-X Pips);
+Sandstorm;
+Spectral Blast;
+Hydra;
+Power Nova;
+Judgement;
+
+| quests =
+Lust for Life;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Celestia Badges|Astrologist]]''' {{Icon|Astrologist}} Badge and has not unlocked the '''[[Basic:Avalon Badges|Hero of Avalon]]''' {{Icon|Hero of Avalon}} Badge, the following drops will be available:
+*4 Spellements will drop each time for their respective rank 4-8 Spells.
+
+| gold =
+45 - 108;
+
+| hats =
+Bushfire Hat*F2*WMV;
+Courageous Grower's Hat;
+Fire Valley Headdress;
+Hood of the Grasslands;
+Hood of the Hepheloomp;
+Mantle of the Grasslands;
+
+| robes =
+Baxby's Noble Outfit;
+Outsider's Symmetrical Jacket*F2*WMV;
+Robes of the Cold Night*F4*WMV;
+Tunic of Long Memory*F3*WMV;
+
+| boots =
+Ananse's Dark Rangers*F5*WMV;
+Charging Bull's Footguards;
+Finely Balanced Boots;
+Hot and Cold Crushers*F2*WMV;
+
+| athames =
+Razor Thorn*F3*WMV;
+
+| amulets =
+Collar of the Firezilla*F3*WMV;
+
+| rings =
+Aryanah's Golden Loop;
+Elissa's Chill Band*F3*WMV;
+Kakenya's Broken Band;
+
+| wands =
+
+| decks =
+
+| items =
+Zafaria Graveyard Theme*F5*WMV;
+
+| cards =
+Availing Hands*F2;
+Elemental Defuse*F4*WMV;
+Empower*F3*WMV;
+Gargantuan*F4*WMV;
+Precision*F2*WMV;
+Sniper;
+Spirit Defuse*F4*WMV;
+Unstoppable*F4*WMV;
+
+| reagents =
+Cobalt;
+Ectoplasm*F2*WMV;
+
+| spellements =
+Blight Hound*BR;
+Centaur*BR;
+Colossus*BR;
+Cyclops Minion*BR;
+Earth Walker*BR;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gearhead Destroyer*BR;
+Helephant*BR;
+Hydra*BR;
+Ice Wyvern*BR;
+Immolate*BR;
+Kraken*BR;
+Leviathan*BR;
+Medusa*BR;
+Minotaur*BR;
+Orthrus*BR;
+Phoenix*BR;
+Power Nova*BR;
+Ra*BR;
+Rebirth*BR;
+Scarecrow*BR;
+Seraph*BR;
+Skeletal Dragon*BR;
+Skeletal Pirate*BR;
+Snow Angel*BR;
+Spectral Blast*BR;
+Stone Colossus*BR;
+Storm Lord*BR;
+Stormzilla*BR;
+Triton*BR;
+Vampire*BR;
+Wraith*BR;
+
+| snacks =
+Cauliflowers*F2*WMV;
+Flaming Soup*F2*WMV;
+Glowing Star Fruit;
+Glowing Taffy;
+Goat Cheese;
+Golden Apple*F2*WMV;
+Golden Grapes*F3;
+Gummy Humongofrog*F2*WMV;
+Jelly Baby;
+Kola Nuts;
+Strawberry Cupcake*F2*WMV;
+Submarine Sandwich;
+
+| jewels =
+Big Energy Opal;
+Opaque Critical Citrine +7;
+Pipe Down! Opal;
+Storm-Boon Amethyst;
+Storm Lord Amethyst;
+
+| pins =
+
+| pets =
+Leopard*CR*F2*WMV;
+Skink*CR*F3*WMV;
+
+| seeds =
+Baby Carrots;
+Burning Snap Dragon;
+Cornbread Fruit Bush;
+Evil Snow Peas;
+Helephant Ears;
+Key Limes*CR;
+Orange Dandelion;
+Snap Dragon*F2;
+White Laugh-O-Dil;
+
+| mounts =
+
+| spells =
+
+}}

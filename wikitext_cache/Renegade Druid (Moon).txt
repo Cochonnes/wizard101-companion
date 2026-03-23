@@ -1,0 +1,102 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 18
+| heal = 1
+| crecla = Undead
+| school = Moon
+| masteries =
+Ice;
+Storm;
+Death;
+
+| shadowslots = 1
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+27%;
+
+| outboost =
+110%;
+
+| incboost =
+5% Fire, Myth, Life;
+
+| incresist =
+70% Ice, Storm, Death;
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| world = Wizard City
+| location = The Catacombs
+| subloc1 = Crannoc Dorcha
+| descrip =
+The Renegade Druid (Moon) is a Minion to {{Link|Creature|Renegade Druid}}.
+
+| speech =
+
+| spellnotes =
+*Tempest deals 80 Moon Damage per Pip.
+
+| casts =
+Bad Juju;
+Balanceblade (+30%);
+Ice Prism;
+Storm Prism;
+Freeze;
+Disarm (Ice);
+Wild Bolt (Moon);
+Natural Attack (Moon 105-210-315-420);
+Tempest (Moon);
+Angry Snowpig;
+Queen Calypso;
+Gloambugs!;
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+
+| reagents =
+
+| spellements =
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+}}

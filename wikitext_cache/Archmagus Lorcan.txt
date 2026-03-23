@@ -1,0 +1,311 @@
+{{Stub|which version of the ''{{Link|TreasureCard|Shatter}} Treasure Card'' this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 17,665
+| crecla = Spider Mage
+| crecla2 = Spider
+| school = Balance
+| masteries =
+Fire;
+
+| cheats = Yes
+| shadowslots = 1
+| startpips = 6
+| powerpips = Yes
+| critical =
+97 Any;
+
+| criticalblock =
+57 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+30% Myth, Life, Death;
+
+| incresist =
+80% Balance;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+
+| summons =
+Elder Magus;
+Elder Magus;
+Elder Magus;
+
+| world = Khrysalis
+| location = The Hive
+| subloc1 = Chamber of the Orb Weavers
+| descrip =
+
+| speech =
+:'''Archmagus Lorcan:''' ''"So now I see with my own eyes the last, final hope of the Fifth Column, You - this - are what the Burrowers have rallied around? You, tiny, weak, pitiful wretch - you are what has been a burr to the great and terrible Shadow Queen? We have groomed her to be the deadliest Wizard in the Spiral. Every card she casts can shatter mountains and burn seas. Even should you somehow defeat us, you must face the Dark Woman in her place of absolute power: the Shadow Palace!
+
+:'''Old Cob:''' ''"So it shall be. The Children of Light and Shadow, the Children of Prophecy, shall duel and decide the fate of the Spiral."''
+
+:'''Archmagus Lorcan:''' ''"Who is this that accompanies you? No... it cannot be! Destroy the Wizard! Destroy them both for the honor of the Shadow Queen!"''
+
+| monstrology =
+{{Monstrology Info
+| tome world = Khrysalis
+| tome description =
+Morganthe's chief lieutenant, because behind every great woman is a creepy spider thing.
+
+| extract class =
+Spider;
+
+| summon animus = 20
+| summon gold = 1,000
+| guest animus = 30
+| guest gold = 2,500
+| expel animus =
+| expel gold = 
+}}
+
+| cheatnotes =
+*{{Icon|Minion}} ''"Serve your Archmagus!"'' - At the end of Round 1 (or any Round where he casts Shadow Sentinel), Archmagus Lorcan will interrupt to summon two Elder Magus Minions. They become active in Round 2.
+**This cheat cannot be dispelled.
+**He will summon three Elder Magus Minions if more than two Wizards are present in the duel.
+*{{Icon|Shadow Pip}} Once he receives a Shadow Pip, he will begin to cast Shadow Sentinel every three Rounds.
+*{{Icon|Caster}}{{Icon|Afterlife}} ''"Your sacrifice feeds the Shadow Web!"'' - Three Rounds after being summoned (or after Lorcan's Shadow Sentinel Spell has ended), the Elder Magus Minions will cheat-cast a 0-Pip Fire version of {{Link|Spell|Sacrifice}}, that deals 6,000 Fire Damage to themselves and restores 1,500 Health for Archmagus Lorcan.
+**Defeating Lorcan will stop this cheat.
+
+| spellnotes =
+*Uses a version of Shadow Sentinel with '''+15''' Backlash.
+
+| casts =
+Shadow Sentinel MOB;
+Fortify;
+Tower Shield;
+Legion Shield (-35%);
+Elemental Spear;
+Elemental Blade;
+Elemental Trap;
+Fuel;
+Wyldfire;
+Natural Attack (Balance 160-255-350);
+
+| quests =
+Way of Night;
+
+| dropnotes =
+When a Wizard has unlocked the '''[[Basic:Azteca Badges|Master of the Jungle]]''' {{Icon|Master of the Jungle}} Badge and has not unlocked the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, the following drops will be available:
+*7 Spellements will drop each time from '''any''' School for their respective rank 7-10 & King Artorius Spells.
+
+If a Wizard already has the '''[[Basic:Polaris Badges|Defender of Land & Sky]]''' {{Icon|Defender of Land & Sky}} Badge, then they may interact with the {{Link|NPC|Scales of Knowledge}} {{Icon|Scales of Knowledge|25px}} at the beginning of Morganthe's Chamber to acquire a [[Item:Level Scaling Elixir - 100|Level Scaling Elixir]] which enables them to receive these rewards.
+
+| gold =
+223 - 823;
+
+| hats =
+
+| robes =
+Digger's Mail of Symmetry*F2*WMV;
+Fifth Column's Protection*F2*WMV;
+Mouse Vestment of Mourning*F2*WMV;
+
+| boots =
+Boots of the BurrowBreaker*F3*WMV;
+Burrower Scout's Hoppers;
+Kermes Fire Miner's Clogs*F3*WMV;
+Mantis Hunter's Footwraps*F2*WMV;
+Mouse Knight's Footguards*F2*WMV;
+
+| athames =
+Rackum's Blade of Deceit*F3*WMV;
+
+| amulets =
+Trader's Desert Fire Choker*F4*WMV;
+
+| rings =
+FateSailor's Signet*F4*WMV;
+Gloom Dancer's Band*F2*WMV;
+Mantis Prophet's Ringlet*F3*WMV;
+Seal of the Lost King*F2*WMV;
+
+| wands =
+Crystal Icespike*F2*WMV;
+
+| decks =
+Deck of Sinister Shadows (Square);
+Deck of Sinister Shadows (Tear)*F3*WMV;
+Deck of Sinister Shadows (Triangle)*F3;
+Deck of Winter Shadows (Square)*F3*WMV;
+Deck of Winter Shadows (Triangle)*F3;
+
+| items =
+Khrysalis Hive and Seek Theme*F2;
+Khrysalis Hive Theme;
+Khrysalis Starfall Sea Theme*F2*WMV;
+
+| cards =
+Black Widow;
+Celestial Calendar*F2*WMV;
+Chastisement;
+Choke*F2;
+Crystal Spider;
+Cycle of Life;
+Death Scarab;
+Disarm;
+Doom and Gloom*F2*WMV;
+Enfeeble (-All);
+Furnace*F2;
+Galvanic Field;
+Giant Spider;
+Hooligan;
+Legendary Treant (445);
+Locust Swarm;
+Lord of Winter;
+Luminous Weaver;
+O'Leary Swindler;
+Pierce;
+Polar Swarm;
+Punishment*F2;
+Rat Illusionist;
+Reliquary;
+Sabertooth;
+Sanctuary*F2*WMV;
+Scarab;
+Scrounger;
+Shatter*F2*WMV;
+Sleet Storm;
+Spinysaur;
+Sprite Swarm (40+360)*F2;
+Sun Serpent;
+Virulence;
+Wildfire Treant;
+
+| reagents =
+Amber Dust;
+Astral Shard*F9*WMV;
+Black Lotus*F4*WMV;
+Black Pearl;
+Blood Moss;
+Bone*F7*WMV;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F2*WMV;
+Draconium*F2;
+Fire Blossom*F5*WMV;
+Fossil*F2;
+Golden Pearl*F2;
+Lava Lily*F3*WMV;
+Merle's Whisker;
+Mist Wood*F2*WMV;
+Mithril;
+Nightshade*F2*WMV;
+Ore*F4*WMV;
+Orichalcum*F2*WMV;
+Red Mandrake*F5*WMV;
+Stone Block*F3*WMV;
+Sunstone*F3*WMV;
+Titanium*F2;
+Turquoise*F3;
+
+| spellements =
+Avenging Fossil*BR;
+Basilisk*BR;
+Celestial Calendar*BR;
+Chimera*BR;
+Dr. Von's Monster*F3*BR*WMV;
+Efreet*BR;
+Fire Dragon*BR;
+Forest Lord*BR;
+Frost Giant*BR;
+Gnomes!*BR;
+King Artorius (Balance)*F2*BR*WMV;
+King Artorius (Death)*BR;
+King Artorius (Fire)*BR;
+King Artorius (Ice)*BR;
+King Artorius (Life)*BR;
+King Artorius (Myth)*BR;
+King Artorius (Storm)*BR;
+Leviathan*BR;
+Lord of Winter*BR;
+Medusa*F2*BR*WMV
+Orthrus*BR;
+Power Nova*BR;
+Ra*BR;
+Rain of Fire*F2*BR*WMV;
+Rebirth*BR;
+Sabertooth*BR;
+Scarecrow*BR;
+Sirens*BR;
+Skeletal Dragon*BR;
+Snow Angel*BR;
+Spinysaur*BR;
+Storm Lord*BR;
+Storm Owl*BR;
+Sun Serpent*BR;
+Woolly Mammoth*BR;
+
+| snacks =
+Buttered Bread;
+Cauliflowers;
+Flaming Soup*F2;
+Glowing Star Fruit;
+Goat Cheese;
+Golden Apple*F3*WMV;
+Golden Grapes*F3*WMV;
+Gummy Bees*F2*WMV;
+Gummy Humongofrog;
+Hive Rinds*F2*WMV;
+Honey Bombs;
+Honeycombs*F2*WMV;
+Honeycrisp Apples*F3;
+HoneyDon't Melon*F2;
+King Banana*F3*WMV;
+Peanut Butterflies;
+Punk Rock Candy*F2*WMV;
+Salmonberry;
+Shiny Tomato;
+Spicy Stingers;
+Submarine Sandwich;
+Sugar Khrystals*F2*WMV;
+Uni-Corn;
+
+| jewels =
+Devotion Opal;
+Mokompo Amethyst;
+Polished Accurate Hematite +10%;
+Polished Accurate Peridot +10%;
+Polished Accurate Ruby +10%;
+Polished Accurate Sapphire +10%;
+Polished Blocking Opal +6*F2*WMV;
+Polished Blocking Peridot +12;
+Polished Critical Hematite +11;
+Polished Critical Peridot +12;
+Polished Damage Amethyst +21;
+Polished Defense Hematite +44;
+Polished Defense Ruby +44;
+Polished Health Opal +95;
+Sir Bedevere Jade;
+Slick-N-Slide Opal;
+
+| pins =
+
+| pets =
+
+| seeds =
+Angel Oak;
+Blue Huckleberries;
+Burning Snap Dragon;
+Face Palm*F2;
+Honey Bee Plant;
+Moon Flower;
+Queen Crape Myrtle;
+Sunion*CR;
+
+| mounts =
+
+| spells =
+
+}}

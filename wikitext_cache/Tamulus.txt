@@ -1,0 +1,233 @@
+{{Stub|which version of the ''{{Link|TreasureCard|Shatter}} Treasure Card'' this Creature drops}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 17,965
+| crecla = Scorpion
+| school = Storm
+| masteries =
+Death;
+
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+122 Any;
+
+| criticalblock =
+77 Any;
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+35% Myth, Life;
+
+| incresist =
+80% Storm;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Poison Tip Thrasher;
+
+| world = Khrysalis
+| location = The Hive
+| subloc1 = Palace of Fangs Chamber
+| descrip =
+*Two {{Link|Creature|Albino Lasher}} Minions appear if more than two Wizards are present.
+
+| speech =
+:''"You should have not have returned here, Wizard! I am Tamulus, the greatest of Scorpion Champions. My Venom will blister your skin and blind your eyes. Prepare for your death!"''
+
+| cheatnotes =
+*{{Icon|Trap}} ''"I am the greatest of Scorpion Champions"'' - Every 4 Rounds, Tamulus will use his turn to cheat-cast {{Link|Spell|Death Fuel (+35%)}} on a random Wizard.
+*{{Icon|Damage over Time}} ''"Feel my blistering sting!"'' - Every 5 Rounds, he will cheat-cast his Natural Attack Death damage over time spell at a random Wizard.
+
+| spellnotes =
+
+| casts =
+Fortify;
+Infallible;
+Plague;
+Virulent Plague;
+Stormblade;
+Storm Trap;
+Curse;
+Death Trap;
+Feint;
+Death Fuel (+35%);
+Natural Attack (Storm 200-340-480);
+Catalan;
+Leviathan;
+Sirens;
+Storm Owl;
+Tempest (85);
+Wraith (575);
+
+| quests =
+Unweaving Shadow;
+
+| gold =
+141 - 176;
+
+| hats =
+The Dragon Wisp*CR*F2*WMV;
+
+| robes =
+Dusty Digger Drone Duds*F5*WMV;
+
+| boots =
+Flame Legs Captain's Boots*F2*WMV;
+Kermes Fire Miner's Clogs;
+Mantis Chitin Runners*F3*WMV;
+Mantis Hunter's Footwraps;
+Mouse Knight's Footguards;
+
+| athames =
+
+| amulets =
+BurrowBuilder's Medallion;
+Mantis Huntress' Pendant*F2*WMV;
+Trader's Jewel of Prudence*F3*WMV;
+
+| rings =
+Atlach-Leng's Wintery Band*F3*WMV;
+
+| wands =
+Cudgel of Concentration*F3*WMV;
+Smoking Ichor Spike*F2*WMV;
+
+| decks =
+Deck of Charred Shadows (Square);
+Deck of Charred Shadows (Tear)*F4*WMV;
+Deck of Charred Shadows (Triangle);
+Deck of the Shadow Heart (Square)*F2*WMV;
+Deck of the Shadow Heart (Tear)*F2;
+Deck of the Shadow Heart (Triangle)*F2;
+Deck of Winter Shadows (Square)*F3*WMV;
+Deck of Winter Shadows (Triangle)*F2;
+
+| items =
+Hive Magi Hall Miniature;
+Khrysalis Boris Theme;
+Khrysalis Kondha Desert Theme*F2*WMV;
+Khrysalis Shadow Combat Theme*F2*WMV;
+
+| cards =
+Avenging Fossil*F2*WMV;
+Black Widow;
+Chastisement;
+Clockwork Spider;
+Crystal Spider;
+Cycle of Life*F2*WMV;
+Death Scarab;
+Doom and Gloom*F2*WMV;
+Enfeeble;
+Frost Beetle;
+Galvanic Field*F3*WMV;
+Hooligan;
+Legendary Treant (445)*F2*WMV;
+Locust Swarm*F2*WMV;
+Lucius McTavish;
+Mass Infection;
+O'Leary Swindler*F3;
+Polar Swarm;
+Punishment;
+Reliquary*F3;
+Scrounger;
+Shatter;
+Sleet Storm*F2*WMV;
+Sprite Swarm (40+360);
+Storm Owl*F2*WMV;
+Virulence;
+Wildfire Treant;
+
+| reagents =
+Astral Shard*F7*WMV;
+Black Lotus*F4*WMV;
+Black Pearl;
+Blood Moss*F2*WMV;
+Bone*F3*WMV;
+Bronze Gear*F2*WMV;
+Deep Mushroom*F3*WMV;
+Draconium*F2;
+Fire Blossom*F5*WMV;
+Fossil;
+Golden Pearl*F3;
+Lava Lily*F3*WMV;
+Mist Wood*F2*WMV;
+Nightshade*F2*WMV;
+Ore*F2*WMV;
+Orichalcum*F2*WMV;
+Red Mandrake*F2*WMV;
+Silver;
+Stone Block*F2*WMV;
+Turquoise*F5*WMV;
+
+| spellements =
+
+| snacks =
+Berry Poundcake*F2;
+Boom Stroganoff*F2*WMV;
+Bread Fruit Fruit*F2*WMV;
+Cold Snap Peas*F2*WMV;
+Cornbread Fruit*F2*WMV;
+Desparagus Salad;
+Flaming Soup*F2;
+Glowing Star Fruit;
+Goat Cheese;
+Golden Apple;
+Golden Grapes*F2*WMV;
+Granny Snow Apple*F3*WMV;
+Gummy Humongofrog*F3*WMV;
+Huckleberry Muffin;
+Huckleberry Pie*F2*WMV;
+King Banana;
+Rye Bread Fruit*F2*WMV;
+Salmonberry;
+Snow Apple Pie*F3*WMV;
+Submarine Sandwich;
+Sugar Khrystals;
+Wrath's Grape Juice*F2*WMV;
+
+| jewels =
+Amplify Talent Opal;
+Big Recovery Opal;
+Black Widow Onyx;
+Blade of Ice Sapphire;
+Feeling Weak Citrine;
+Mend Talent Opal;
+Polished Accurate Jade +10%;
+Polished Accurate Onyx +10%;
+Polished Blocking Jade +12;
+Polished Critical Hematite +11;
+Polished Damage Jade +22;
+Polished Damage Peridot +22;
+Polished Damage Ruby +22;
+Polished Damage Sapphire +21;
+Polished Health Opal +94;
+Polished PIP Hematite +1;
+SnowBorn Sapphire;
+Spartan Jade;
+
+| pins =
+
+| pets =
+
+| seeds =
+Maelstrom Snap Dragon;
+Queen Crape Myrtle*F2*WMV;
+Saw Palmetto*F2*WMV;
+Sugar Khrystal*CR*F2*WMV;
+
+| mounts =
+
+| spells =
+
+}}

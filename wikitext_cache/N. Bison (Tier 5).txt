@@ -1,0 +1,142 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 19
+| heal = 10,350
+| crecla = Train Boss
+| school = Myth
+| cheats = Yes
+| startpips = 5
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+26%;
+
+| outboost =
+120%;
+
+| incboost =
+5% Storm;
+
+| incresist =
+70% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = Yes
+| beguilable = Yes
+| minions =
+Ms. Felicity (Tier 5);
+Daniel McCoil (Tier 5);
+Kenny Rooster (Tier 5);
+
+| world = Housing Instance
+| location = Great Sky Train Robbery Gauntlet
+| subloc1 = Great Sky Train Robbery Gauntlet (Tier 5)
+| descrip =
+For the purpose of drops, N. Bison (Tier 5) is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+
+| cheatnotes =
+{{Icon|Myth}} '''N. Bison'''
+*{{Icon|Late}} ''"Not enough on your own? Then fall!"'' - If a Wizard joins the duel after the first Round, N. Bison will cast a Myth Spell that confuses the Wizard for two Rounds.
+*{{Icon|Manipulation}} ''"Bow before my Psycho Power!"'' - At the beginning of the first Round and every ?? Rounds thereafter, N. Bison will cast a Myth Spell that confuses each Wizard for two Rounds.
+*{{Icon|Damage}} ''"PSYCHO DEFLECTION!"'' - If N. Bison is attacked, he will retaliate by casting his Natural Attack, taking 20% of the Wizard's max Health.
+
+{{Icon|Balance}} '''Ms. Felicity'''
+*{{Icon|Blade}} ''"Blades off the table!"'' - If a Wizard casts a Blade on another Wizard, Ms. Felicity will cheat-cast {{Link|Spell|Disarm}} on the Wizard who received the Blade.
+**Multi-target Blades do not trigger this cheat.
+*{{Icon|Trap}} ''"Nobody likes a cluttered battle"''' - If a Wizard casts a Trap on another enemy, Ms. Felicity will cast {{Link|Spell|Cleanse Ward}} on him to remove it.
+**Multi-Trap spells will only cause one of them to be removed.
+*{{Icon|Health}} ''"Your invitation has been rescinded"'' - If Kenny Rooster's Health falls below ~20%, Ms. Felicity will cast a Shadow Spell that instantly defeats him.
+
+{{Icon|Death}} '''Daniel McCoil'''
+*{{Icon|Spell}} ''"Essential Snake Oil, for when life is too much"'' - At the beginning of the first Round, and every fifth Round thereafter, Daniel McCoil will cast a Death Spell that gives each Wizard one of the following Spells:
+**{{GivesSpell|spells = 3|size = x150px|Essential Snake Oil|Free Sample|Snake Oil}}
+*{{Icon|Health}} ''"I'm afraid you're of no further use"'' - If Ms. Felicity's Health falls below ~20%, Daniel McCoil will cast a Shadow Spell that instantly defeats her.
+
+{{Icon|Fire}} '''Kenny Rooster'''
+*{{Icon|Aura}} ''"The chickens come home to roast!"'' - If a Wizard casts an Aura, Kenny Rooster will cast a Natural Attack dealing 705 Damage, which destroys the Aura for 705 Damage.
+*{{Icon|Health}} ''"Time to fold 'em, partner"'' - If Daniel McCoil's Health falls below ~20%, Kenny Rooster will cast a Shadow Spell that instantly defeats him.
+
+| spellnotes =
+
+| casts =
+Frenzy;
+Storm Shield (-85%);
+Myth Prism;
+Athena Battle Sight;
+Ninja Pigs;
+Minotaur;
+Earthquake;
+Orthrus;
+
+| quests =
+Insane In The Gem Train;
+
+| gold =
+1300;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+Bottle Collection*CR*WMV;
+Decorative Skull*CR*WMV;
+Fish Drying Stand*CR*WMV;
+
+| cards =
+Blademaster*F2*WMV;
+Darkwind*WMV;
+Fuel*WMV;
+
+| reagents =
+Amber Dust;
+Bone*WMV;
+Elemental Retriever*WMV;
+Sandstone;
+
+| spellements =
+
+| snacks =
+7 Layer Taco;
+Breakfast Tacos*WMV;
+Drumstick;
+Large Pretzel;
+Lemon Daisy*WMV;
+Medium Fish*WMV;
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| elixirs =
+Purreau's Potion;
+
+}}

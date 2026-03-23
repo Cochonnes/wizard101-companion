@@ -1,0 +1,153 @@
+{{Stub}}
+{{CreatureInfobox
+| cretype = Boss
+| rank = 14
+| heal = 27,395
+| crecla = Wyrm
+| crecla2 = Undead
+| school = Death
+| cheats = Yes
+| startpips = 6
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+70%;
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = 
+| minions =
+Black Dragon (Standard);
+White Dragon (Standard);
+
+| world = Housing Instance
+| location = Pendragon Rematch
+| descrip =
+*As the primary boss in this battle, all drops should be recorded on this page.
+*For the Challenge version of this battle, see {{Link|Creature|Pendragon (Challenge)}}.
+
+| speech =
+
+| cheatnotes =
+{{Icon|Death}} '''Pendragon''' - Pendragon punishes Wizards who Damage him with Spells that cost more than 3 Pips.
+*''"Your power only feeds me"'' - If Pendragon takes Damage from a Spell that costs more than 3 Pips, it will cast a version of Scarecrow that deals '''1,000''' Death Drain Damage and restores half the Damage dealt.
+** If defeated with a spell that costs more than 3 pips, he will heal himself and then use the previously mentioned Scarecrow.
+*''"Even stragglers will be devoured!"'' - If a wizard joins late, Pendragon will attack the late player with Medusa (unknown version).
+
+{{Icon|Myth}} '''Black Dragon''' - Black Dragon punishes '''Single Target''' spells as followed.
+*''"You are myopic, too focused on one and not the whole"''' - If a Wizard casts one of the following single target effects, Black Dragon will cast one of the following Shadow removal Spells based upon the amounts of effects the spell placed. These will ignore protection.
+**If a Damage Spell places an effect, the target and caster will be hit by whichever effect the spell had. (Example:Volcanic Golem will trigger single Pierce on target, and a double Pierce on caster)
+**Damage Spells that apply a Healing effect to the target (Example:{{Link|Spell|Link}}), won't have the HOT removed but will trigger the single-target damage cheat on the Wizard.
+**{{Icon|Blade|20px}} - {{Link|Spell|Disarm}} removes 1, 2, or 3 Blades depending on how many Blades were cast.
+***Globals will trigger a single Disarm removal.
+**{{Icon|Ward|20px}} - {{Link|Spell|Pierce}} removes 1, 2, or 3 Wards depending on how many Wards were cast.
+**{{Icon|Heal over Time|20px}} - {{Link|Spell|Remove HOT}} removes 1, 2, or 3 HOTs depending on how many Heal over Time effects were cast.
+**{{Icon|Healing|20px}} - If a Wizard casts a Heal, Black Dragon will cast, {{Link|Spell|Celestial Calendar}} on the Wizard.
+***Heal over Times included.
+*'''Single Target Cheats:'''
+**{{Icon|Damage over Time|20px}} - If a single target DOTs is placed on on Black Dragon, {{Link|Spell|Triage}} will remove 1, 2, or 3 DOTs depending on how many Damage over Time Effects were cast.
+***This also triggers single target Damage the cheat below.
+**{{Icon|Damage|20px}} - If a Wizard casts a single target Damage spell on Black Dragon, a Moon version of Blessing will restore 100% max Heath on itself.
+**{{Icon|Trap|20px}} - If Traps are placed on Black Dragon, {{Link|Spell|Cleanse Ward}} will remove 1, 2, or 3 negative Traps depending on how many Traps were cast.
+***Prisms are uneffected.
+**{{Icon|Curse|20px}} - If negative Charms are placed on Black Dragon, {{Link|Spell|Cleanse Charm}} will remove 1, 2, or 3 negative Charms depending on how many Charms were cast.
+**{{Link|Spell|Aegis}} and {{Link|Spell|Indemnity}} cannot be used to avoid any effect removals.
+
+{{Icon|Ice}} '''White Dragon''' - White Dragon punishes '''Multi-Targeting''' spells as followed.
+*''"You are weak and unfocused"''' - If a Wizard casts one of the following multi-targeting effects, White Dragon will cast one of the following Shadow removal Spells based upon the amounts of effects the spell placed. These will ignore protection.
+**{{Icon|Blade|20px}} - Casting a multi-target Blade, an AoE {{Link|Spell|Disarm}} will remove 1 or 2 Blades depending on how many Blades were cast on all Wizards.
+**{{Icon|Ward|20px}} - Casting a multi-target Shield, an AoE {{Link|Spell|Pierce}} will remove 1 or 2 Wards depending on how many Wards were cast on all Wizards.
+**{{Icon|Heal over Time|20px}} - Casting a multi-target HOT, an AoE {{Link|Spell|Remove HOT}} will remove 1 or 2 HOTs depending on how many Heal over Time effects were cast on all Wizards.
+**{{Icon|Healing|20px}} - If a Wizard casts a multi-target Heal, White Dragon will cast, {{Link|Spell|Frost Giant (530)}}.
+***Heal over Times included.
+*'''Multi-Target Cheats:'''
+**{{Icon|Damage over Time|20px}} - If a multi-target DOTs is placed on on White Dragon, {{Link|Spell|Triage}} will remove 1, 2, or 3 DOTs depending on how many Damage over Time Effects were cast on White Dragon.
+***This also triggers multi-target Damage the cheat below.
+**{{Icon|Damage|20px}} - If a Wizard casts a multi-target Damage spell on White Dragon, a Moon version of Blessing will restore 100% max Heath on itself.
+**{{Icon|Trap|20px}} - If a multi-target Trap is placed on White Dragon, {{Link|Spell|Cleanse Ward}} will remove 1, 2, or 3 negative Traps depending on how many Traps were cast on White Dragon.
+***Prisms are uneffected.
+**{{Icon|Curse|20px}} - If a Wizard casts a multi-target negative Charm on White Dragon, {{Link|Spell|Cleanse Charm}} will remove 1, 2, or 3 negative Charms depending on how many Charms were cast on White Dragon.
+**{{Link|Spell|Aegis}} and {{Link|Spell|Indemnity}} cannot be used to avoid any effect removals.
+
+| spellnotes =
+
+| casts =
+Amplify;
+Deathblade (+40%);
+Mass Death Trap;
+Vampire (Tier 5a);
+Wraith (Tier 5a);
+
+| quests =
+
+| gold =
+
+| hats =
+
+| robes =
+
+| boots =
+Umbra Queen's Chill Heels (Level 170+);
+Umbra Queen's Dusty Heels (Level 170+);
+Umbra Queen's Furious Heels (Level 170+);
+Umbra Queen's Grim Heels (Level 170+);
+Umbra Queen's Scorched Heels (Level 170+);
+Umbra Queen's Shocked Heels (Level 170+);
+Umbra Queen's Wild Heels (Level 170+);
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+
+| decks =
+
+| items =
+
+| cards =
+Azoth;
+
+| reagents =
+Shadow Webbing;
+
+| spellements =
+Basilisk;
+Chimera;
+Dr. Von's Monster;
+Gnomes!;
+Rain of Fire;
+Sirens;
+Woolly Mammoth;
+
+| snacks =
+
+| jewels =
+
+| pins =
+
+| pets =
+
+| seeds =
+
+| mounts =
+
+| spells =
+
+| altimage = Pendragon (Rematch)
+
+}}

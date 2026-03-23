@@ -1,0 +1,157 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 5
+| heal = 2,035
+| crecla = Giant
+| school = Myth
+| cheats = Yes
+| startpips = 1
+| powerpips = No
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+40% Storm;
+
+| incresist =
+70% Myth;
+
+| outhealing =
+
+| inchealing =
+
+| stunable = 
+| beguilable = No
+| minions =
+
+| summons =
+Edacious Ogre (Tier 3);
+Rude Goblin (Tier 3);
+
+| world = Housing Instance
+| location = Spiral Cup Gauntlet
+| subloc1 = Spiral Cup Gauntlet (Tier 3)
+| descrip =
+For the purpose of drops, Barbarous Van Der Borst (Tier 3) is considered a Boss.  All drops are recorded on this page.
+
+| speech =
+:''"Last time the Goblins were in Wysteria, they brought back all of these colorful pamphlets. I've read a lot of good things about Pigswick Academy in these brochures. How fancy the program is. How expensive. How liberal-minded the course work is, and how restful the exam period. Pigswick sounds like a wonderful place! So wonderful that I wanted to start my own franchise. What better way than to seed my faculty with their plum staff? I've already headhunted a headmistress and a master of arms for my new school. Let's find out what position you should fill."''
+
+| cheatnotes =
+*{{Icon|Minion}} ''"Time for physical education!"'' - At the end of the first Round, this Boss says  and spawns his Minions.
+**The Minions have higher Health than in the last (Level 2) battle: the two Edacious Ogre (Tier 3) Minions have 785 Health, and the Rude Goblin (Tier 3) has 750.
+*{{Icon|Round}} ''"Extra credit time!"'' - Boss will only say this at the start when he has full minions. On every Round after the second Round, each Creature will use a {{Link|Spell|Dragonblade}} to the right Creature until the last Creature cheat-casts {{Link|Spell|Tempest}} dealing '''240''', '''320''', '''400''', or '''480''' Storm Damage.
+**This cheat will occur even if the boss isn't in combat.
+**Barbarous Van Der Borst will not cast Dragonblade if he's not in the first duel slot.
+**If three Minions have their turn before the Boss, they'll cast in order second, third, and first.
+**Barbarous Van Der Borst doesn't cast Tempest when in the last duel slot.
+*{{Icon|Afterlife}} ''"Time for extra credit!"'' - If the Minions are defeated before the Boss, he will summon one Rude Goblin (Tier 3) at a time.
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals 250 Myth Damage for 2 Pips.
+
+| casts =
+Storm Shield;
+Weakness;
+Mythblade;
+Blood Bat;
+Troll;
+Cyclops;
+Ghoul;
+Fire Elf (50+210);
+Evil Snowman;
+
+| quests =
+Master of Arms;
+
+| gold =
+62 - 70;
+
+| hats =
+
+| robes =
+
+| boots =
+
+| athames =
+
+| amulets =
+
+| rings =
+
+| wands =
+Greenwarden's Brilliant Staff (Level 50+)*CR;
+
+| decks =
+
+| items =
+Avalon Abbey Road Theme;
+Avalon Wyrd Theme;
+Broken Palm Tree;
+Broken Stump;
+Celestian Tree Sapling;
+Cherry Blossom Tree;
+Coniferous Tree;
+Great Pine Tree;
+Large Cypress Tree;
+Large Evergreen Tree;
+Small Bush;
+Small Cypress Tree;
+Small Fir Tree;
+Tall Palm Tree*CR;
+
+| cards =
+Leprechaun;
+
+| reagents =
+Black Lotus;
+Copper;
+Frost Flower;
+Lead;
+Mist Wood;
+
+| spellements =
+
+| snacks =
+Ape Grapes;
+Caramel Popcorn;
+Delicious Cookie;
+Glowing Rock Candy;
+Meat Soup*F2*WMV;
+Spicy Drumstick*F2*WMV;
+Square Root;
+Square Watermelon;
+Stinky Cheese;
+Strawberry Cupcake;
+Submarine Sandwich*F2*WMV;
+Tasty Biscuit;
+Wheat Cracker;
+
+| jewels =
+Blemished Damage Onyx +11;
+Cracked Damage Ruby +5;
+Cracked Damage Sapphire +5;
+Flawed Defense Onyx +20;
+Flawed Defense Ruby +20;
+Fortify Talent Opal;
+Life-Shot Jade;
+
+| pins =
+
+| pets =
+Rude Goblin;
+
+| seeds =
+Angora Bunny Ears;
+
+| mounts =
+
+| spells =
+
+}}

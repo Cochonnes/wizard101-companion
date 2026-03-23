@@ -1,0 +1,151 @@
+{{CreatureInfobox
+| cretype = Boss
+| rank = 7
+| heal = 6,400
+| crecla = Grendel
+| school = Life
+| startpips = 1
+| powerpips = Yes
+| critical =
+
+| criticalblock =
+
+| outpierce =
+
+| outboost =
+
+| incboost =
+
+| incresist =
+
+| outhealing =
+
+| inchealing =
+
+| stunable = No
+| beguilable = No
+| minions =
+Grendel Sapscar;
+Grendel Sapscar;
+Grendel Spikeroot;
+
+| world = Grizzleheim
+| location = Winterdeep Warren
+| location2 = Hall of Valor
+| lootchest = Grettir's Chest
+| descrip =
+Grettir is one of {{Link|Creature|Jotun}}'s two brothers. Once he is defeated in Winterdeep Warren, he is not with {{Link|Creature|Jotun}} in the Hall of Valor.
+
+| speech =
+
+| spellnotes =
+'''Natural Attack:'''
+*Deals an unknown quantity of Balance Damage.
+
+| casts =
+Spirit Armor;
+Death Shield;
+Weakness;
+Sprite;
+Lifeblade;
+Life Trap;
+Leprechaun;
+Seraph;
+Centaur;
+Locust Swarm;
+Cyclops;
+Storm Shark;
+Meteor Strike;
+Heck Hound;
+
+| quests =
+
+| gold =
+127 - 149;
+
+| hats =
+Cap of the Finale;
+Circlet of the Unavoidable;
+Cryptid Hood;
+Curative Coif;
+Firebloom Cowl;
+Hood of Hardiness*F4;
+Hood of the Invariable;
+Iceblight Hood*F2;
+Igneous Cover;
+Mortal Veil;
+
+| robes =
+Coat of the Prophet*F3;
+Harbinger's Smock;
+Jerkin of the Firestar*F2;
+Robe of the Nereid;
+
+| boots =
+Broghans of the Wanderer*F2;
+Contradictory Boots*F2;
+Erudite Footwear*F2;
+Ranger's Boots;
+Shadow Stalkers;
+Treaders of Tranquility;
+Treads of Tribulation;
+
+| athames =
+
+| amulets =
+
+| rings =
+Hailstone Ring;
+Seal of the Rime King;
+
+| wands =
+
+| decks =
+
+| items =
+Heavy Dining Table*F5;
+Wooden Wagon (Grizzleheim);
+
+| cards =
+Satyr*F2;
+
+| reagents =
+Bone*F3;
+Brass;
+Cobalt;
+Lead;
+Leather Straps*F3;
+Nickel*F2;
+Pyrite;
+
+| spellements =
+
+| snacks =
+Chili Cheese Fries*F3;
+Chocolate Cake;
+Glowing Rock Candy*F3;
+Moon Pie*F4;
+Tasty Biscuit;
+
+| jewels =
+Balance-It Citrine;
+Cracked Defense Amethyst +9;
+Cracked Defense Citrine +9;
+Helephant Ruby;
+Ice-Shot Sapphire;
+
+| pins =
+
+| pets =
+Lifebat;
+
+| seeds =
+Couch Potatoes*CR*F2;
+Pink Dandelion*CR*F3;
+Rye Bread Fruit Bush;
+
+| mounts =
+
+| spells =
+
+}}
