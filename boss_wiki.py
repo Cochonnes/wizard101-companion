@@ -2021,6 +2021,45 @@ class WorldSettingsManager(QDialog):
         self.accept()
 
 # ═══════════════════════════════════════════════════════════════
+# FIRST-RUN TEMPLATE SEEDING
+# ═══════════════════════════════════════════════════════════════
+
+_APP_DIR = os.path.dirname(os.path.abspath(__file__))
+_TEMPLATE_DIR = os.path.join(_APP_DIR, "templates")
+
+# Files that ship as templates and get copied on first run
+_SEED_FILES = [
+    "boss_wiki.db",
+    "hud_settings.json",
+    "keybinds.json",
+    "world_order.json",
+]
+
+
+def _seed_from_templates():
+    """
+    Copy template files into the app directory if the real ones don't exist yet.
+    Called once at startup — never overwrites existing user data.
+    """
+    if not os.path.isdir(_TEMPLATE_DIR):
+        return  # no templates folder shipped — nothing to seed
+
+    for filename in _SEED_FILES:
+        dest = os.path.join(_APP_DIR, filename)
+        src = os.path.join(_TEMPLATE_DIR, filename)
+        if not os.path.exists(dest) and os.path.isfile(src):
+            try:
+                import shutil
+                shutil.copy2(src, dest)
+                logger.info(f"Seeded {filename} from templates/")
+            except Exception as e:
+                logger.warning(f"Could not seed {filename}: {e}")
+
+
+_seed_from_templates()
+
+
+# ═══════════════════════════════════════════════════════════════
 # MAIN WINDOW
 # ═══════════════════════════════════════════════════════════════
 
@@ -3020,20 +3059,68 @@ class BossWikiApp(QMainWindow):
 
     # ── GitHub Update ─────────────────────────────────────────────────────────
 
+    # User data files that must NEVER be touched by git.
+    # Written to .gitignore before any git reset/pull operation.
+    _USER_DATA_PATTERNS = [
+        "boss_wiki.db", "boss_wiki.db-shm", "boss_wiki.db-wal",
+        "hud_settings.json", "keybinds.json", "world_order.json",
+        "boss_wiki.log", "db_builder.log",
+        "quest_debug/", "wikitext_cache/", "__pycache__/",
+        "venv/", "mingit/",
+    ]
+
+    def _find_git(self) -> str:
+        """
+        Return the path to a working git executable.
+        Tries system PATH first, then the local mingit/ folder
+        that install.bat may have downloaded.
+        """
+        import shutil
+        if shutil.which("git"):
+            return "git"
+        app_dir = os.path.dirname(os.path.abspath(__file__))
+        local_git = os.path.join(app_dir, "mingit", "cmd", "git.exe")
+        if os.path.isfile(local_git):
+            return local_git
+        return ""
+
+    def _ensure_gitignore(self):
+        """
+        Create or update .gitignore in the app directory so that user data
+        files are never staged, committed, or overwritten by git operations.
+        """
+        repo_dir = os.path.dirname(os.path.abspath(__file__))
+        gi_path = os.path.join(repo_dir, ".gitignore")
+        existing = set()
+        if os.path.isfile(gi_path):
+            with open(gi_path, "r", encoding="utf-8") as f:
+                existing = {line.strip() for line in f if line.strip() and not line.startswith("#")}
+        added = []
+        for pat in self._USER_DATA_PATTERNS:
+            if pat not in existing:
+                added.append(pat)
+        if added:
+            with open(gi_path, "a", encoding="utf-8") as f:
+                if existing:
+                    f.write("\n")
+                f.write("# Wizard101 Companion - user data (auto-generated)\n")
+                for pat in added:
+                    f.write(pat + "\n")
+
     def _check_for_updates(self):
         """
         Check the GitHub repo for updates via git and, if one exists, pull it.
 
         If the folder is not yet a git repo (user downloaded a ZIP), the updater
-        automatically runs git init + git remote add + git fetch + git reset
+        automatically runs git init + git remote add + git fetch + git checkout
         to bootstrap it into a working repo without losing any user data files.
-
-        Button text changes: "Check for Update" → "⬇ Update" when available.
+        Uses git checkout instead of git reset to avoid unlinking locked files.
         """
         import subprocess
 
         repo_dir = os.path.dirname(os.path.abspath(__file__))
         remote_url = f"https://github.com/{GITHUB_REPO}.git" if GITHUB_REPO else ""
+        git_exe = self._find_git()
 
         def _set_status(msg: str, color: str = "#888"):
             self._update_status_lbl.setStyleSheet(
@@ -3064,23 +3151,43 @@ class BossWikiApp(QMainWindow):
             )
             return
 
+        if not git_exe:
+            _set_status(
+                "❌ git is not installed. Run install.bat to set up MinGit,\n"
+                "or install Git from https://git-scm.com.",
+                "#e94560",
+            )
+            return
+
         self._update_btn.setEnabled(False)
 
-        # If button says "Update", user already confirmed — go straight to pull
+        # Ensure .gitignore protects user data before ANY git operation
+        try:
+            self._ensure_gitignore()
+        except Exception:
+            pass
+
+        # If button says "Update", user already confirmed — apply it
         if getattr(self, '_update_ready', False):
             _set_status("⏳ Downloading update…", "#888")
-            rc, out, err = _run(["git", "pull", "--ff-only", "origin"], timeout=60)
+
+            # First try clean pull
+            rc, out, err = _run([git_exe, "pull", "--ff-only", "origin"], timeout=60)
             if rc != 0:
-                # If ff-only fails (local changes), try reset approach
-                _set_status("⏳ Applying update (resetting to remote)…", "#888")
-                rc2, _, err2 = _run(["git", "reset", "--hard", "origin/HEAD"], timeout=60)
-                if rc2 != 0:
-                    _set_status(
-                        f"❌ Update failed.\n{err2 or err}",
-                        "#e94560",
-                    )
-                    self._update_btn.setEnabled(True)
-                    return
+                # Stash any local changes, then pull
+                _set_status("⏳ Stashing local changes and retrying…", "#888")
+                _run([git_exe, "stash", "--include-untracked"])
+                rc, out, err = _run([git_exe, "pull", "--ff-only", "origin"], timeout=60)
+                if rc != 0:
+                    # Last resort: fetch + checkout
+                    _set_status("⏳ Fetching and checking out latest…", "#888")
+                    _run([git_exe, "fetch", "origin"], timeout=60)
+                    rc, _, err = _run([git_exe, "checkout", "FETCH_HEAD", "--", "."], timeout=60)
+                    if rc != 0:
+                        _set_status(f"❌ Update failed.\n{err}", "#e94560")
+                        self._update_btn.setEnabled(True)
+                        return
+
             _set_status(
                 "✅ Update applied!  Please restart the app to use the new version.",
                 "#27ae60",
@@ -3098,42 +3205,38 @@ class BossWikiApp(QMainWindow):
 
         _set_status("⏳ Checking for updates…", "#888")
 
-        # 1. Verify git is installed
-        rc, out, err = _run(["git", "--version"])
-        if rc != 0:
-            _set_status(
-                "❌ git is not installed or not on PATH.\n"
-                "Install Git from https://git-scm.com and try again.",
-                "#e94560",
-            )
-            self._update_btn.setEnabled(True)
-            return
-
-        # 2. Check if this is a git repo — if not, bootstrap it
-        rc, out, err = _run(["git", "rev-parse", "--is-inside-work-tree"])
+        # 1. Check if this is a git repo — if not, bootstrap it
+        rc, out, err = _run([git_exe, "rev-parse", "--is-inside-work-tree"])
         is_fresh = (rc != 0 or out != "true")
 
         if is_fresh:
             _set_status("⏳ First-time setup — connecting to GitHub…", "#4d96ff")
 
             # git init
-            rc, _, err = _run(["git", "init"])
+            rc, _, err = _run([git_exe, "init"])
             if rc != 0:
                 _set_status(f"❌ git init failed:\n{err}", "#e94560")
                 self._update_btn.setEnabled(True)
                 return
 
-            # git remote add origin (remove first in case partial setup)
-            _run(["git", "remote", "remove", "origin"])
-            rc, _, err = _run(["git", "remote", "add", "origin", remote_url])
+            # Re-ensure .gitignore is tracked right away
+            try:
+                self._ensure_gitignore()
+                _run([git_exe, "add", ".gitignore"])
+            except Exception:
+                pass
+
+            # git remote add origin
+            _run([git_exe, "remote", "remove", "origin"])
+            rc, _, err = _run([git_exe, "remote", "add", "origin", remote_url])
             if rc != 0:
                 _set_status(f"❌ Could not set remote origin:\n{err}", "#e94560")
                 self._update_btn.setEnabled(True)
                 return
 
-            # Fetch all branches
+            # Fetch
             _set_status("⏳ Downloading repository info…", "#4d96ff")
-            rc, _, err = _run(["git", "fetch", "--quiet", "origin"], timeout=60)
+            rc, _, err = _run([git_exe, "fetch", "--quiet", "origin"], timeout=120)
             if rc != 0:
                 _set_status(
                     f"❌ Could not reach GitHub — check your internet.\n{err}",
@@ -3142,26 +3245,34 @@ class BossWikiApp(QMainWindow):
                 self._update_btn.setEnabled(True)
                 return
 
-            # Detect default branch (main or master)
-            rc, branches, _ = _run(["git", "branch", "-r"])
+            # Detect default branch
+            rc, branches, _ = _run([git_exe, "branch", "-r"])
             default_branch = "main"
             if "origin/main" in branches:
                 default_branch = "main"
             elif "origin/master" in branches:
                 default_branch = "master"
 
-            # Reset to remote HEAD — overlays repo files on top of what's here.
-            # User data files (*.db, *.json configs) won't exist in the repo
-            # so they are preserved automatically.
+            # Use checkout instead of reset --hard to avoid unlinking locked files.
+            # .gitignore ensures user data files are never touched.
             _set_status("⏳ Syncing files…", "#4d96ff")
-            rc, _, err = _run(["git", "reset", "--hard", f"origin/{default_branch}"])
-            if rc != 0:
-                _set_status(f"❌ Could not sync to remote:\n{err}", "#e94560")
-                self._update_btn.setEnabled(True)
-                return
 
-            # Set tracking branch
-            _run(["git", "branch", f"--set-upstream-to=origin/{default_branch}"])
+            rc, _, err = _run([git_exe, "checkout", "-B", default_branch,
+                               f"origin/{default_branch}"])
+            if rc != 0:
+                # If checkout fails (locked files), try file-by-file approach
+                _run([git_exe, "branch", "-M", default_branch])
+                _run([git_exe, "branch", f"--set-upstream-to=origin/{default_branch}"])
+                rc2, _, err2 = _run([git_exe, "checkout", f"origin/{default_branch}",
+                                     "--", "."], timeout=60)
+                if rc2 != 0:
+                    _set_status(
+                        f"❌ Could not sync files:\n{err2 or err}\n\n"
+                        "Try closing the app, deleting boss_wiki.db, and retrying.",
+                        "#e94560",
+                    )
+                    self._update_btn.setEnabled(True)
+                    return
 
             _set_status(
                 "✅ Repository connected!  You are now on the latest version.\n"
@@ -3172,12 +3283,10 @@ class BossWikiApp(QMainWindow):
             return
 
         # ── Existing repo: normal fetch + compare ──────────────────
-        # Make sure origin points to the right URL
-        _run(["git", "remote", "set-url", "origin", remote_url])
+        _run([git_exe, "remote", "set-url", "origin", remote_url])
 
-        # 3. Fetch from remote
         _set_status("⏳ Contacting GitHub…", "#888")
-        rc, out, err = _run(["git", "fetch", "--quiet", "origin"])
+        rc, out, err = _run([git_exe, "fetch", "--quiet", "origin"])
         if rc != 0:
             _set_status(
                 f"❌ Could not reach GitHub — check your internet.\n{err}",
@@ -3186,9 +3295,8 @@ class BossWikiApp(QMainWindow):
             self._update_btn.setEnabled(True)
             return
 
-        # 4. Compare local HEAD with remote
-        rc_l, local_sha, _ = _run(["git", "rev-parse", "HEAD"])
-        rc_r, remote_sha, _ = _run(["git", "rev-parse", "FETCH_HEAD"])
+        rc_l, local_sha, _ = _run([git_exe, "rev-parse", "HEAD"])
+        rc_r, remote_sha, _ = _run([git_exe, "rev-parse", "FETCH_HEAD"])
         if rc_l != 0 or rc_r != 0:
             _set_status("❌ Could not read git revision info.", "#e94560")
             self._update_btn.setEnabled(True)
@@ -3199,7 +3307,7 @@ class BossWikiApp(QMainWindow):
             self._update_btn.setEnabled(True)
             return
 
-        # 5. Update available — change button to "⬇ Update"
+        # Update available
         self._update_ready = True
         self._update_btn.setText("⬇ Update")
         self._update_btn.setStyleSheet(
@@ -3209,7 +3317,7 @@ class BossWikiApp(QMainWindow):
             "QPushButton:disabled{background:#1a1a2e;color:#555;}"
         )
         _set_status(
-            f"🆕 A new version is available!  Click 'Update' to download it.\n"
+            f"🆕 A new version is available!  Click \'Update\' to download it.\n"
             f"    Local: {local_sha[:8]}  →  Remote: {remote_sha[:8]}",
             "#ffd93d",
         )
