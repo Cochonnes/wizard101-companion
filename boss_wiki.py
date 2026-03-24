@@ -108,7 +108,7 @@ logger = logging.getLogger(__name__)
 # ── App Version & GitHub ──────────────────────────────────────
 APP_VERSION = "1.0.0"
 # Set this to your GitHub repo, e.g. "YourUsername/Wizard101Companion"
-GITHUB_REPO = "Cochonnes/wizard101-companion/"
+GITHUB_REPO = "Cochonnes/wizard101-companion"
 
 
 def confirm_delete(parent, title: str, item_name: str, extra_detail: str = "") -> bool:
