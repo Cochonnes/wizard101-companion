@@ -143,7 +143,7 @@ echo  (Pinned to 2.6.0 - newer builds have a DLL init bug on Windows)
 echo(
 set "TORCH_INDEX=https://download.pytorch.org/whl/cpu"
 
-%PIP% install "torch==2.6.0" "torchvision==0.21.0" --index-url "%TORCH_INDEX%" --quiet
+%PIP% install "torch==2.6.0" "torchvision==0.21.0" --index-url "%TORCH_INDEX%"
 if %errorlevel% neq 0 goto :torch_fallback
 echo  [OK] PyTorch 2.6.0 installed.
 goto :torch_done
@@ -151,7 +151,7 @@ goto :torch_done
 :torch_fallback
 echo  [WARN] torch 2.6.0 not found for this Python version.
 echo  Trying latest CPU build...
-%PIP% install torch torchvision --index-url "%TORCH_INDEX%" --quiet
+%PIP% install torch torchvision --index-url "%TORCH_INDEX%"
 if %errorlevel% neq 0 goto :torch_fail
 echo  [OK] PyTorch installed (latest CPU build).
 goto :torch_done
@@ -164,7 +164,7 @@ echo(
 
 :: ---- 8. EasyOCR ---------------------------------------------
 echo  Installing easyocr...
-%PIP% install easyocr --quiet
+%PIP% install easyocr
 if %errorlevel% neq 0 goto :easyocr_warn
 echo  [OK] easyocr installed.
 echo(
@@ -181,7 +181,7 @@ echo  Installing python-Levenshtein (optional)...
 if %errorlevel% neq 0 goto :levenshtein_skip
 echo  [OK] python-Levenshtein installed.
 echo(
-goto :verify
+goto :install_git
 
 :levenshtein_skip
 echo  [OK] Levenshtein skipped (optional).
