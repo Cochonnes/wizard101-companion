@@ -187,7 +187,67 @@ goto :verify
 echo  [OK] Levenshtein skipped (optional).
 echo(
 
-:: ---- 10. Verify ---------------------------------------------
+:: ---- 10. MinGit (portable git for updates) ------------------
+:install_git
+echo  Checking for git...
+
+:: Check system git first
+where git >nul 2>&1
+if %errorlevel%==0 (
+    echo  [OK] git already installed on system PATH.
+    echo(
+    goto :verify
+)
+
+:: Check if we already have local mingit
+if exist "%APP_DIR%\mingit\cmd\git.exe" (
+    echo  [OK] MinGit already installed locally.
+    echo(
+    goto :verify
+)
+
+echo  git not found — downloading MinGit (portable, ~30 MB)...
+echo(
+
+:: Use PowerShell to download MinGit
+set "MINGIT_URL=https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.2/MinGit-2.47.1.2-64-bit.zip"
+set "MINGIT_ZIP=%TEMP%\mingit.zip"
+set "MINGIT_DIR=%APP_DIR%\mingit"
+
+powershell -NoProfile -ExecutionPolicy Bypass -Command ^
+    "[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; " ^
+    "try { " ^
+    "  $ProgressPreference = 'SilentlyContinue'; " ^
+    "  Invoke-WebRequest -Uri '%MINGIT_URL%' -OutFile '%MINGIT_ZIP%' -UseBasicParsing; " ^
+    "  Write-Host '  Download complete.'; " ^
+    "} catch { " ^
+    "  Write-Host '  Download failed:' $_.Exception.Message; " ^
+    "  exit 1; " ^
+    "}"
+if %errorlevel% neq 0 goto :git_fail
+
+echo  Extracting MinGit...
+powershell -NoProfile -ExecutionPolicy Bypass -Command ^
+    "Expand-Archive -Path '%MINGIT_ZIP%' -DestinationPath '%MINGIT_DIR%' -Force"
+if %errorlevel% neq 0 goto :git_fail
+
+:: Clean up zip
+del "%MINGIT_ZIP%" >nul 2>&1
+
+:: Verify it works
+"%MINGIT_DIR%\cmd\git.exe" --version >nul 2>&1
+if %errorlevel%==0 (
+    echo  [OK] MinGit installed to mingit\ folder.
+    echo(
+    goto :verify
+)
+
+:git_fail
+echo  [WARN] MinGit download failed. In-app updates will require
+echo         manual git installation from https://git-scm.com
+echo(
+
+:: ---- 11. Verify ---------------------------------------------
 :verify
 echo  Verifying installation...
 echo(
@@ -220,6 +280,14 @@ if %errorlevel%==0 ( echo    easyocr         [OK] ) else ( echo    easyocr      
 
 "%VPYTHON%" -c "import Levenshtein" >nul 2>&1
 if %errorlevel%==0 ( echo    Levenshtein     [OK] ) else ( echo    Levenshtein     [optional, skipped] )
+
+:: Check git (system or local)
+set "GIT_STATUS=[NOT FOUND]"
+where git >nul 2>&1
+if %errorlevel%==0 ( set "GIT_STATUS=[OK]" ) else (
+    if exist "%APP_DIR%\mingit\cmd\git.exe" ( set "GIT_STATUS=[OK - MinGit]" )
+)
+echo    git             %GIT_STATUS%
 
 echo(
 
