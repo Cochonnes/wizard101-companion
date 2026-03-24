@@ -30,3 +30,10 @@ desktop.ini
 # Temp files
 *.tmp
 *.bak
+
+# Allow
+!templates/
+!templates/boss_wiki.db
+!templates/hud_settings.json
+!templates/keybinds.json
+!templates/world_order.json

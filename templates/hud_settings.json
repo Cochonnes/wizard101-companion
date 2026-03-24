@@ -1,0 +1,41 @@
+{
+  "boss": {
+    "enabled": false,
+    "clickthrough": false,
+    "x": 33,
+    "y": 347,
+    "w": 664,
+    "h": 414,
+    "alpha": -1
+  },
+  "quest": {
+    "enabled": false,
+    "clickthrough": false,
+    "x": 2684,
+    "y": 42,
+    "w": 474,
+    "h": 402,
+    "alpha": 50
+  },
+  "counter": {
+    "enabled": false,
+    "clickthrough": false,
+    "x": 2212,
+    "y": 749,
+    "w": 280,
+    "h": 220,
+    "alpha": -1
+  },
+  "guide": {
+    "enabled": false,
+    "clickthrough": false,
+    "x": 1241,
+    "y": 789,
+    "w": 680,
+    "h": 377,
+    "alpha": -1
+  },
+  "_global": {
+    "alpha": 50
+  }
+}
