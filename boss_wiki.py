@@ -2816,10 +2816,13 @@ class BossWikiApp(QMainWindow):
         update_group.layout().addLayout(btn_row)
 
         update_note = QLabel(
-            "Updates are pulled from GitHub via <code>git pull</code>. "
-            "This folder must be a cloned git repository (not a downloaded ZIP). "
-            "Your settings, databases, and user data are never overwritten."
+            "Updates are pulled from GitHub via <code>git</code>. "
+            "On first use the app will automatically connect your folder to the repo — "
+            "even if you downloaded a ZIP. Git must be installed "
+            "(<a style='color:#4d96ff' href='https://git-scm.com'>git-scm.com</a>). "
+            "Your databases, settings and user data are never overwritten."
         )
+        update_note.setOpenExternalLinks(True)
         update_note.setStyleSheet("color:#555; font-size:11px; background:transparent;")
         update_note.setWordWrap(True)
         update_group.layout().addWidget(update_note)
@@ -2964,11 +2967,17 @@ class BossWikiApp(QMainWindow):
     def _check_for_updates(self):
         """
         Check the GitHub repo for updates via git and, if one exists, pull it.
-        Button text changes: "Check for Update" → "Update" when an update is found.
+
+        If the folder is not yet a git repo (user downloaded a ZIP), the updater
+        automatically runs git init + git remote add + git fetch + git reset
+        to bootstrap it into a working repo without losing any user data files.
+
+        Button text changes: "Check for Update" → "⬇ Update" when available.
         """
         import subprocess
 
         repo_dir = os.path.dirname(os.path.abspath(__file__))
+        remote_url = f"https://github.com/{GITHUB_REPO}.git" if GITHUB_REPO else ""
 
         def _set_status(msg: str, color: str = "#888"):
             self._update_status_lbl.setStyleSheet(
@@ -2977,11 +2986,11 @@ class BossWikiApp(QMainWindow):
             self._update_status_lbl.setText(msg)
             QApplication.processEvents()
 
-        def _run(args: list) -> tuple:
+        def _run(args: list, timeout: int = 30) -> tuple:
             try:
                 result = subprocess.run(
                     args, cwd=repo_dir, capture_output=True,
-                    text=True, timeout=30,
+                    text=True, timeout=timeout,
                 )
                 return result.returncode, result.stdout.strip(), result.stderr.strip()
             except FileNotFoundError:
@@ -2991,51 +3000,124 @@ class BossWikiApp(QMainWindow):
             except Exception as exc:
                 return -1, "", str(exc)
 
+        # ── Pre-checks ─────────────────────────────────────────────
+        if not GITHUB_REPO:
+            _set_status(
+                "❌ No GitHub repo configured. Set GITHUB_REPO at the top of boss_wiki.py.",
+                "#e94560",
+            )
+            return
+
         self._update_btn.setEnabled(False)
 
         # If button says "Update", user already confirmed — go straight to pull
         if getattr(self, '_update_ready', False):
             _set_status("⏳ Downloading update…", "#888")
-            rc, out, err = _run(["git", "pull", "--ff-only", "origin"])
+            rc, out, err = _run(["git", "pull", "--ff-only", "origin"], timeout=60)
             if rc != 0:
-                _set_status(
-                    f"❌ Update failed — you may have local changes that conflict.\n{err}",
-                    "#e94560",
-                )
-                self._update_btn.setEnabled(True)
-                return
+                # If ff-only fails (local changes), try reset approach
+                _set_status("⏳ Applying update (resetting to remote)…", "#888")
+                rc2, _, err2 = _run(["git", "reset", "--hard", "origin/HEAD"], timeout=60)
+                if rc2 != 0:
+                    _set_status(
+                        f"❌ Update failed.\n{err2 or err}",
+                        "#e94560",
+                    )
+                    self._update_btn.setEnabled(True)
+                    return
             _set_status(
                 "✅ Update applied!  Please restart the app to use the new version.",
                 "#27ae60",
             )
             self._update_ready = False
             self._update_btn.setText("Check for Update")
+            self._update_btn.setStyleSheet(
+                "QPushButton{background:#0f3460;color:#e0e0e0;border:none;"
+                "border-radius:6px;padding:8px 18px;font-size:12px;font-weight:bold;}"
+                "QPushButton:hover{background:#e94560;}"
+                "QPushButton:disabled{background:#1a1a2e;color:#555;}"
+            )
             self._update_btn.setEnabled(True)
             return
 
         _set_status("⏳ Checking for updates…", "#888")
 
-        # 1. Verify git
+        # 1. Verify git is installed
         rc, out, err = _run(["git", "--version"])
         if rc != 0:
             _set_status(
-                "❌ git is not installed or not on PATH. "
+                "❌ git is not installed or not on PATH.\n"
                 "Install Git from https://git-scm.com and try again.",
                 "#e94560",
             )
             self._update_btn.setEnabled(True)
             return
 
-        # 2. Verify git repo
+        # 2. Check if this is a git repo — if not, bootstrap it
         rc, out, err = _run(["git", "rev-parse", "--is-inside-work-tree"])
-        if rc != 0 or out != "true":
+        is_fresh = (rc != 0 or out != "true")
+
+        if is_fresh:
+            _set_status("⏳ First-time setup — connecting to GitHub…", "#4d96ff")
+
+            # git init
+            rc, _, err = _run(["git", "init"])
+            if rc != 0:
+                _set_status(f"❌ git init failed:\n{err}", "#e94560")
+                self._update_btn.setEnabled(True)
+                return
+
+            # git remote add origin (remove first in case partial setup)
+            _run(["git", "remote", "remove", "origin"])
+            rc, _, err = _run(["git", "remote", "add", "origin", remote_url])
+            if rc != 0:
+                _set_status(f"❌ Could not set remote origin:\n{err}", "#e94560")
+                self._update_btn.setEnabled(True)
+                return
+
+            # Fetch all branches
+            _set_status("⏳ Downloading repository info…", "#4d96ff")
+            rc, _, err = _run(["git", "fetch", "--quiet", "origin"], timeout=60)
+            if rc != 0:
+                _set_status(
+                    f"❌ Could not reach GitHub — check your internet.\n{err}",
+                    "#e94560",
+                )
+                self._update_btn.setEnabled(True)
+                return
+
+            # Detect default branch (main or master)
+            rc, branches, _ = _run(["git", "branch", "-r"])
+            default_branch = "main"
+            if "origin/main" in branches:
+                default_branch = "main"
+            elif "origin/master" in branches:
+                default_branch = "master"
+
+            # Reset to remote HEAD — overlays repo files on top of what's here.
+            # User data files (*.db, *.json configs) won't exist in the repo
+            # so they are preserved automatically.
+            _set_status("⏳ Syncing files…", "#4d96ff")
+            rc, _, err = _run(["git", "reset", "--hard", f"origin/{default_branch}"])
+            if rc != 0:
+                _set_status(f"❌ Could not sync to remote:\n{err}", "#e94560")
+                self._update_btn.setEnabled(True)
+                return
+
+            # Set tracking branch
+            _run(["git", "branch", f"--set-upstream-to=origin/{default_branch}"])
+
             _set_status(
-                "❌ This folder is not a git repository. "
-                "Clone the project from GitHub instead of downloading a ZIP.",
-                "#e94560",
+                "✅ Repository connected!  You are now on the latest version.\n"
+                "    Future updates will be incremental.",
+                "#27ae60",
             )
             self._update_btn.setEnabled(True)
             return
+
+        # ── Existing repo: normal fetch + compare ──────────────────
+        # Make sure origin points to the right URL
+        _run(["git", "remote", "set-url", "origin", remote_url])
 
         # 3. Fetch from remote
         _set_status("⏳ Contacting GitHub…", "#888")
@@ -3061,7 +3143,7 @@ class BossWikiApp(QMainWindow):
             self._update_btn.setEnabled(True)
             return
 
-        # 5. Update available — change button to "Update"
+        # 5. Update available — change button to "⬇ Update"
         self._update_ready = True
         self._update_btn.setText("⬇ Update")
         self._update_btn.setStyleSheet(
