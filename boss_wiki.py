@@ -28,6 +28,38 @@ from PyQt5.QtWidgets import (
 from PyQt5.QtCore import Qt, QProcess, QTimer, QStringListModel
 from PyQt5.QtGui import QFont, QColor, QBrush
 
+# ═══════════════════════════════════════════════════════════════
+# FIRST-RUN TEMPLATE SEEDING  (must run BEFORE database imports
+# because importing database.py creates an empty boss_wiki.db)
+# ═══════════════════════════════════════════════════════════════
+
+_APP_DIR = os.path.dirname(os.path.abspath(__file__))
+_TEMPLATE_DIR = os.path.join(_APP_DIR, "templates")
+_SEED_FILES = [
+    "boss_wiki.db",
+    "hud_settings.json",
+    "keybinds.json",
+    "world_order.json",
+]
+
+def _seed_from_templates():
+    """Copy template files into the app directory if the real ones don't exist."""
+    if not os.path.isdir(_TEMPLATE_DIR):
+        return
+    import shutil
+    for filename in _SEED_FILES:
+        dest = os.path.join(_APP_DIR, filename)
+        src = os.path.join(_TEMPLATE_DIR, filename)
+        if not os.path.exists(dest) and os.path.isfile(src):
+            try:
+                shutil.copy2(src, dest)
+                print(f"  [SEED] Copied templates/{filename} → {filename}")
+            except Exception as e:
+                print(f"  [SEED] Could not copy {filename}: {e}")
+
+_seed_from_templates()
+
+# ── Project imports (these may create files if they don't exist) ──
 import database as db
 import database_quests as dq
 import database_gear as dg
@@ -2023,41 +2055,6 @@ class WorldSettingsManager(QDialog):
 # ═══════════════════════════════════════════════════════════════
 # FIRST-RUN TEMPLATE SEEDING
 # ═══════════════════════════════════════════════════════════════
-
-_APP_DIR = os.path.dirname(os.path.abspath(__file__))
-_TEMPLATE_DIR = os.path.join(_APP_DIR, "templates")
-
-# Files that ship as templates and get copied on first run
-_SEED_FILES = [
-    "boss_wiki.db",
-    "hud_settings.json",
-    "keybinds.json",
-    "world_order.json",
-]
-
-
-def _seed_from_templates():
-    """
-    Copy template files into the app directory if the real ones don't exist yet.
-    Called once at startup — never overwrites existing user data.
-    """
-    if not os.path.isdir(_TEMPLATE_DIR):
-        return  # no templates folder shipped — nothing to seed
-
-    for filename in _SEED_FILES:
-        dest = os.path.join(_APP_DIR, filename)
-        src = os.path.join(_TEMPLATE_DIR, filename)
-        if not os.path.exists(dest) and os.path.isfile(src):
-            try:
-                import shutil
-                shutil.copy2(src, dest)
-                logger.info(f"Seeded {filename} from templates/")
-            except Exception as e:
-                logger.warning(f"Could not seed {filename}: {e}")
-
-
-_seed_from_templates()
-
 
 # ═══════════════════════════════════════════════════════════════
 # MAIN WINDOW

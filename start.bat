@@ -92,3 +92,4 @@ if %errorlevel% neq 0 (
 )
 
 endlocal
+exit
