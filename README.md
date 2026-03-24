@@ -5,6 +5,7 @@ This companion app is brought to you by Claude and my sanity. I did not write a 
 
 ## Installation
 - Install Python 3.12
+  - Make sure you add it to PATH during install
 - Download the main ZIP file from: https://codeload.github.com/Cochonnes/wizard101-companion/zip/refs/heads/main
   - Extract the ZIP (obviously)  
 - Run "install.bat" once
