@@ -1,0 +1,67 @@
+PARSE LOG — Wintertusk
+============================================================
+
+AREA    : Wizard101
+AREA    : W101 Quest Guides
+AREA    : Wintertusk has
+AREA    : D&C quests. Sounds easy, right?
+AREA    : Northguard
+QUEST#  1: Cold News                                [talk]
+QUEST#  2: Times are Tough                          [talk]
+QUEST#  3: News of the North                        [talk]
+QUEST#  4: A Bigger Boat                            [talk]
+AREA    : Hrundle Fjord
+QUEST#  5: Cold Day in Hrundle                      [explore + talk]
+QUEST#  6: The Cold Gates                           [explore + talk]
+QUEST#  7: And on Drums…                            [d&c + talk]
+QUEST#  8: Hready to Hrundle                        [explore + talk]
+QUEST#  9: Springtime for Hrundle                   [explore + boss + interact + talk]
+QUEST# 10: Big Grandma’s House                      [talk]
+QUEST# 11: That’s So Raven                          [talk]
+QUEST# 12: Norn Time                                [explore + interact + talk + mob]
+QUEST# 13: Turn a New Leif                          [talk + interact]
+QUEST# 14: Tooth and Leaf                           [talk + collect + d&c]
+QUEST# 15: Root of the Loom                         [interact + talk]
+AREA    : Austrilund
+QUEST# 16: Austrilund Weekend                       [talk]
+QUEST# 17: Four Challenges                          [talk]
+QUEST# 18: Board to Death                           [explore + boss + talk + interact]
+QUEST# 19: Pieces of You                            [d&c + talk + interact]
+QUEST# 20: Riddle Me This                           [talk]
+QUEST# 21: Spear Carrier                            [talk + mob]
+QUEST# 22: Out Clubbing                             [explore + boss + talk]
+QUEST# 23: Enemy at the Gate                        [explore + interact + talk + boss]
+AREA    : Vestrilund
+QUEST# 24: Into the Vestrilund                      [talk]
+QUEST# 25: Fishes & Loaves                          [collect + talk]
+QUEST# 26: Monster Mash                             [mob + talk]
+QUEST# 27: Golden Axe                               [explore + boss + talk]
+QUEST# 28: Trees for the Forest                     [collect + talk]
+QUEST# 29: The Walls Have Ice                       [collect + talk]
+QUEST# 30: Key to the Kingdom                       [explore + talk]
+QUEST# 31: That Was Easy…                           [talk + boss]
+QUEST# 32: Sing a Warsong                           [talk]
+QUEST# 33: Warriors Three                           [explore + boss + talk]
+AREA    : Sudrilund
+QUEST# 34: Su Su Sudrilund                          [talk + boss]
+QUEST# 35: Calling Ketil Black                      [explore + boss + talk + interact]
+QUEST# 36: Use Your Illusion                        [d&c + collect + talk]
+QUEST# 37: The Dragon Gate                          [interact + talk]
+QUEST# 38: Golden Delicious                         [explore + boss + interact + talk]
+QUEST# 39: Weight of the Word                       [interact + talk]
+AREA    : Nordrilund
+QUEST# 40: Nordilund Exposure                       [talk]
+QUEST# 41: A Bridge Too Far                         [collect + interact + talk]
+QUEST# 42: The Riddle of the Road                   [explore + talk]
+QUEST# 43: …A Serpent’s Tooth                       [interact + talk + d&c]
+QUEST# 44: Bones of the Earth                       [explore]
+QUEST# 45: Take the Low Road                        [instance + talk + d&c]
+QUEST# 46: Hammer Don’t Hurt ‘Em                    [instance + talk + interact + explore + boss]
+QUEST# 47: Bridge to Nowhere                        [instance + talk + boss + explore]
+QUEST# 48: A Hello to Arms                          [instance + talk + mob]
+QUEST# 49: The Magic Flute                          [instance + talk + interact + explore + boss]
+QUEST# 50: Rune With a View                         [instance + talk + interact + explore + boss]
+QUEST# 51: Winter News (talk + talk) Instance name: [talk + instance]
+
+SUMMARY: 51 quests in 6 areas
+Stats: {'total_quests': 51, 'mob_fights': None, 'dc_quests': None, 'boss_fights': None, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}

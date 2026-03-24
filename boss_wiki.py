@@ -106,7 +106,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ── App Version & GitHub ──────────────────────────────────────
-APP_VERSION = "1.0.0"
+APP_VERSION = "1.0.1"
 # Set this to your GitHub repo, e.g. "YourUsername/Wizard101Companion"
 GITHUB_REPO = "Cochonnes/wizard101-companion"
 
@@ -1616,6 +1616,8 @@ class WorldSettingsManager(QDialog):
         self.conn = conn
         # world_data: dict keyed by name → {source_url, level_min, level_max, id}
         self._world_data: dict = {}
+        self._removed_worlds: list = []   # (name, db_id) pairs for worlds removed from the list
+        self._prev_selected_name: str = None  # tracks which world's detail panel was last shown
         self.setWindowTitle("World Settings")
         self.setMinimumSize(700, 600)
         self.resize(760, 660)
@@ -1668,13 +1670,22 @@ class WorldSettingsManager(QDialog):
         dn_btn.clicked.connect(self._move_down)
         mv.addWidget(dn_btn)
         mv.addStretch()
+        ll.addLayout(mv)
 
+        # Sort buttons (own row so they're readable)
+        sort_row = QHBoxLayout()
         sort_btn = QPushButton("↕ Default Order")
         sort_btn.setObjectName("btnSort")
         sort_btn.setToolTip("Reset to built-in canonical story order")
         sort_btn.clicked.connect(self._sort_default)
-        mv.addWidget(sort_btn)
-        ll.addLayout(mv)
+        sort_row.addWidget(sort_btn)
+
+        sort_lvl_btn = QPushButton("↕ Sort by Level")
+        sort_lvl_btn.setObjectName("btnSort")
+        sort_lvl_btn.setToolTip("Sort worlds by their level range (lowest first)")
+        sort_lvl_btn.clicked.connect(self._sort_by_level)
+        sort_row.addWidget(sort_lvl_btn)
+        ll.addLayout(sort_row)
 
         # Add / Remove
         ar = QHBoxLayout()
@@ -1818,8 +1829,19 @@ class WorldSettingsManager(QDialog):
     # ── Detail panel ─────────────────────────────────────────────
 
     def _on_selection_changed(self, row: int):
+        # Auto-save the previously selected world's detail edits
+        # (the spinboxes still hold the OLD world's values at this point)
+        if hasattr(self, '_prev_selected_name') and self._prev_selected_name:
+            prev = self._prev_selected_name
+            if prev in self._world_data:
+                self._world_data[prev]["source_url"] = self.url_input.text().strip()
+                self._world_data[prev]["level_min"]  = self.lvl_min_spin.value()
+                self._world_data[prev]["level_max"]  = self.lvl_max_spin.value()
+                self._refresh_item_text(prev)
+
         if row < 0:
             self.detail_panel.setVisible(False)
+            self._prev_selected_name = None
             return
         item = self.list_widget.item(row)
         if not item:
@@ -1831,6 +1853,7 @@ class WorldSettingsManager(QDialog):
         self.lvl_min_spin.setValue(d.get("level_min") or 0)
         self.lvl_max_spin.setValue(d.get("level_max") or 0)
         self.detail_panel.setVisible(True)
+        self._prev_selected_name = name
 
     def _apply_detail(self):
         row = self.list_widget.currentRow()
@@ -1840,8 +1863,8 @@ class WorldSettingsManager(QDialog):
         if name not in self._world_data:
             self._world_data[name] = {}
         self._world_data[name]["source_url"] = self.url_input.text().strip()
-        self._world_data[name]["level_min"]  = self.lvl_min_spin.value() or None
-        self._world_data[name]["level_max"]  = self.lvl_max_spin.value() or None
+        self._world_data[name]["level_min"]  = self.lvl_min_spin.value()
+        self._world_data[name]["level_max"]  = self.lvl_max_spin.value()
         self._refresh_item_text(name)
 
     # ── List management ───────────────────────────────────────────
@@ -1911,9 +1934,13 @@ class WorldSettingsManager(QDialog):
             return
         name = self.list_widget.item(row).data(Qt.UserRole)
         if confirm_delete(self, "Remove World", name,
-                          "This removes it from the world order list only. Boss and quest data are NOT deleted."):
+                          "This removes the world and all its quest data from the Quest Tracker."):
+            # Track for deletion from quest DB on save
+            d = self._world_data.pop(name, {})
+            db_id = d.get("id")
+            if db_id:
+                self._removed_worlds.append((name, db_id))
             self.list_widget.takeItem(row)
-            self._world_data.pop(name, None)
             self.detail_panel.setVisible(False)
 
     def _sort_default(self):
@@ -1924,6 +1951,28 @@ class WorldSettingsManager(QDialog):
                 return _WORLD_ORDER_DEFAULT.index(n)
             except ValueError:
                 return 9999
+        names.sort(key=key)
+        self.list_widget.clear()
+        for name in names:
+            item = QListWidgetItem(self._item_text(name))
+            item.setData(Qt.UserRole, name)
+            self.list_widget.addItem(item)
+
+    def _sort_by_level(self):
+        """Sort worlds by level_min ascending; worlds without levels go to the bottom."""
+        # Auto-save current selection first
+        self._apply_detail()
+        names = [self.list_widget.item(i).data(Qt.UserRole)
+                 for i in range(self.list_widget.count())]
+        def key(n):
+            d = self._world_data.get(n, {})
+            lv_min = d.get("level_min") or 0
+            lv_max = d.get("level_max") or 0
+            has_level = bool(lv_min or lv_max)
+            # Worlds with no level set sort to the bottom
+            # Among leveled worlds: sort by min first, then by max descending
+            # (higher max = further in that tier → lower priority)
+            return (0 if has_level else 1, lv_min or 9999, lv_max or 9999)
         names.sort(key=key)
         self.list_widget.clear()
         for name in names:
@@ -1947,7 +1996,14 @@ class WorldSettingsManager(QDialog):
         save_world_order(new_order)
         WORLD_ORDER = new_order
 
-        # 2. Sync to quest DB: upsert every world with its settings + display_order
+        # 2. Delete removed worlds from quest DB
+        for name, db_id in self._removed_worlds:
+            try:
+                dq.delete_world_data(self.conn, db_id)
+            except Exception:
+                logger.warning(f"Failed to delete world '{name}' (id={db_id}) from quest DB")
+
+        # 3. Sync to quest DB: upsert every world with its settings + display_order
         for i, name in enumerate(new_order):
             d = self._world_data.get(name, {})
             existing = dq.get_world_by_name(self.conn, name)
@@ -4373,6 +4429,10 @@ class BossWikiApp(QMainWindow):
         if dlg.exec_() == QDialog.Accepted:
             # Rebuild the boss tree with the new ordering
             self._refresh_tree()
+            # Refresh the quest tracker if it's open so it picks up
+            # world deletions, level changes, and reordering
+            if self._quest_tracker_window is not None and self._quest_tracker_window.isVisible():
+                self._quest_tracker_window.landing.refresh()
             self.status_bar.showMessage("World order updated and applied.", 4000)
 
     def _open_quest_tracker(self):
@@ -4386,6 +4446,8 @@ class BossWikiApp(QMainWindow):
             )
             return
         if self._quest_tracker_window is not None and self._quest_tracker_window.isVisible():
+            # Refresh landing page to pick up any world changes made outside the tracker
+            self._quest_tracker_window.landing.refresh()
             self._quest_tracker_window.raise_()
             self._quest_tracker_window.activateWindow()
             return

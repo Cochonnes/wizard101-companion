@@ -7,11 +7,11 @@ AREA    : Arcanum / Bastion
 QUEST#  1: Better Recognize                         [talk + explore]
 QUEST#  2: The Cabal Strikes Back                   [explore + talk]
 QUEST#  3: Prawn To King’s Fourth                   [explore]
-SKIP#  4: empty name
+QUEST#  4: How Shellfish                            [instance + mob + explore + boss]
 QUEST#  5: Mole Problems                            [explore + solo + elite + talk]
 QUEST#  6: Wilkommen!                               [explore + interact]
 AREA    : Karamelle City
-SKIP#  7: empty name
+QUEST#  7: GlockenSpoiled                           [instance + mob + explore + elite]
 AREA    : Von Trap Estate / Rock Candy Mountains
 QUEST#  8: Monsters Cabal                           [talk + interact + explore]
 QUEST#  9: Candy Crushing                           [mob + explore + talk]
@@ -20,95 +20,95 @@ QUEST# 10: Nana Nana Nana Nana Pet Man!             [explore + talk + interact]
 AREA    : Gumdrop Forest
 QUEST# 11: Sweets-N-Stuff                           [explore + talk + d&c]
 QUEST# 12: A Job for the Gnome Ranger               [explore]
-SKIP# 13: empty name
+QUEST# 13: The Gobbler Job                          [instance + elite + explore + boss]
 AREA    : Sweetzburg Gummy Plant
 QUEST# 14: Sweetzburg Right Ahead!                  [explore + talk + mob]
 QUEST# 15: Fizzling, Right?                         [interact + talk]
-SKIP# 16: empty name
+QUEST# 16: Pow-Pow-Power Room                       [instance + explore + mob + elite]
 QUEST# 17: The Witching Scour                       [talk + explore + elite]
 QUEST# 18: Quaky-Quaky                              [explore + talk]
-SKIP# 19: empty name
+QUEST# 19: Sweet Words                              [instance + mob + explore + cheat]
 QUEST# 20: Holey Factory Floor!                     [explore + mob + talk]
 AREA    : Gumdrop Forest
 QUEST# 21: The Face Eaters                          [talk + collect + d&c]
 QUEST# 22: Time To Nibbleheim                       [explore]
-SKIP# 23: empty name
+QUEST# 23: Candy Critter Party Bag                  [instance + explore + mob]
 AREA    : Nibbleheim
 QUEST# 24: Nibbleheim Stinks!                       [mob + talk]
 QUEST# 25: Trouble with Nibbles                     [explore + mob + talk]
 QUEST# 26: A Foundry Most Foul                      [explore + mob + talk]
 QUEST# 27: Forever Mines                            [talk + explore]
 AREA    : Nibbleheim Mine
-SKIP# 28: empty name
+QUEST# 28: Shaking Hans                             [instance + mob + explore + cheat]
 QUEST# 29: There’s a Hole In Your Mine              [interact + talk]
-SKIP# 30: empty name
+QUEST# 30: Rigamatroll                              [instance + explore + mob + elite]
 QUEST# 31: Better Choco-Late Than Never             [talk]
 QUEST# 32: Overtasking                              [explore + talk + d&c]
 QUEST# 33: Cursed-Case Scenario                     [explore + elite + talk]
 QUEST# 34: The Proofing is in the Pudding           [explore]
-SKIP# 35: empty name
+QUEST# 35: The Truth is in the Treacle              [instance + mob]
 QUEST# 36: Oh Me, Oh Mine                           [talk + explore + interact]
 QUEST# 37: Under The Candy Coating                  [talk + explore + mob]
 QUEST# 38: Copy Waste-Ya!                           [explore + talk]
 AREA    : Gutenstadt
-SKIP# 39: empty name
+QUEST# 39: Can Haz Qhats!                           [instance + explore + elite + boss]
 QUEST# 40: Candy Barred                             [explore + mob + talk]
 QUEST# 41: High- Fructose Action                    [explore + solo + elite + talk]
 QUEST# 42: The Guten Escape                         [talk + d&c]
 QUEST# 43: Mage Against The Machine                 [talk + interact + explore]
-SKIP# 44: empty name
+QUEST# 44: Nana Goes Nanners                        [instance + mob + explore + elite]
 AREA    : Black Licorice Forest
 QUEST# 45: Forest Stumps                            [talk + explore + d&c]
 QUEST# 46: Witch Way                                [explore + talk + mob + interact]
 QUEST# 47: Sugar Plum Rotten                        [interact + talk]
-SKIP# 48: empty name
+QUEST# 48: Gum Runner                               [instance + explore + boss]
 QUEST# 49: The Power of Sour- Talk + D&C + Talk Can [talk + d&c]
 AREA    : Double
 QUEST# 50: What’s The Farm?                         [interact + talk + explore]
 AREA    : Candy Corn Farm
-SKIP# 51: empty name
+QUEST# 51: Brudel Legend                            [instance + explore + mob + double boss]
 QUEST# 52: Moose Spit- D&C + Interact + Talk        [d&c + interact + talk]
 QUEST# 53: Corporate Espiomancy                     [talk]
-SKIP# 54: empty name
+QUEST# 54: Secret Dross                             [instance + mob + explore + interact + elite]
 QUEST# 55: Words of Power                           [explore]
-SKIP# 56: empty name
+QUEST# 56: You Don’t Know Gumberjack                [instance + mob + explore + elite]
 QUEST# 57: Something Wonky This Way Comes           [explore + boss + talk]
 AREA    : Black Licorice Forest
 QUEST# 58: The Witch in The Woods                   [explore + talk]
 QUEST# 59: Screams In the Witch-House               [interact + explore + talk]
-SKIP# 60: empty name
+QUEST# 60: Kangaroo’s Court                         [instance + explore + mob + interact + cheat]
 QUEST# 61: Down, Down To Gobbler Town               [explore + mob + talk]
 AREA    : Gobblerton
 QUEST# 62: Get To Gobblering                        [mob + talk]
 QUEST# 63: You Are What You Gobble                  [talk]
 QUEST# 64: King Sized Conundrum                     [talk + explore + solo + elite]
 QUEST# 65: Hit The Gym                              [explore + talk]
-SKIP# 66: empty name
+QUEST# 66: One Snotty Gym                           [instance + explore + mob + boss]
 QUEST# 67: Work Witch                               [d&c + talk]
 QUEST# 68: Mmmmm, Knowledge                         [explore + elite + interact + talk]
 QUEST# 69: GobbSmacked!                             [explore + talk]
-SKIP# 70: empty name
+QUEST# 70: The King is in the Building              [instance + explore + major cheat]
 QUEST# 71: Nothingburger Extra cheese               [interact + talk]
 QUEST# 72: The Good Kind of Crop Dusting            [interact + explore]
-SKIP# 73: empty name
+QUEST# 73: Please Pass the Jelly                    [instance + mob]
 QUEST# 74: Just What They Kneaded                   [talk + explore + mob + interact]
 QUEST# 75: Gobb-U-Ler Mechanics                     [talk + interact + explore]
 AREA    : Karamelle City
 QUEST# 76: World of Spycraft                        [talk + explore]
 QUEST# 77: What is Your Function?                   [explore]
-SKIP# 78: empty name
+QUEST# 78: Sweetened With Splendorphins             [instance + explore + mob + interact + elite + boss]
 QUEST# 79: Familiar Ground                          [explore]
-SKIP# 80: empty name
+QUEST# 80: Ninja-Bread House                        [instance + mob + explore + boss]
 QUEST# 81: Worm Notice                              [explore]
-SKIP# 82: empty name
+QUEST# 82: Lair of The Spirit Eater                 [instance + interact + explore + mob + elite]
 QUEST# 83: Supervillain Team-Up                     [explore]
 QUEST# 84: Into The Unknown- Explore                [explore]
-SKIP# 85: empty name
+QUEST# 85: We Have Met The Enemy                    [instance + mob + explore]
 QUEST# 86: The Ultimate Mystery- Explore, Instance  [explore + instance]
 AREA    : The Ultimate Mystery-
 AREA    : Explore,
-SKIP# 87: empty name
+QUEST# 87: And They is Us!                          [instance + explore + major cheat]
 QUEST# 88: Everything And Nothing- Talk + Talk      [talk]
 
-SUMMARY: 64 quests in 16 areas
+SUMMARY: 88 quests in 17 areas
 Stats: {'total_quests': 80, 'mob_fights': None, 'dc_quests': None, 'boss_fights': None, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}

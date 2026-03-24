@@ -1,0 +1,93 @@
+PARSE LOG — Darkmoor
+============================================================
+
+AREA    : Wizard101 Updates
+AREA    : Darkmoor Main Quest Line
+AREA    : Dakota TitanHeart
+AREA    : Darkmoor Quest Line
+AREA    : The Arcanum
+AREA    : Broken Things (Instance)-, Explore, Mob, Explore, Mob, Explore, Boss
+AREA    : Plan B-
+AREA    : Sticks and Stones (Instance in Quest 8)- Cheat, Boss
+AREA    : Into Darkness-
+AREA    : Outsiders’ Camp
+AREA    : Graveholm
+QUEST# 11: The More you Tarot- Talk ,               [talk]
+QUEST# 13: Inn and Out- Explore, Talk , Mob         [explore + talk + mob]
+QUEST# 14: Dog Days- Talk, Talk , Boss              [talk + boss]
+QUEST# 15: Catching Strays- Explore, Talk , Mob     [explore + talk + mob]
+QUEST# 16: The Sword and The Stone- Cheat (Challeng [cheat]
+QUEST# 17: Cantrip Attitude- Explore, Interact, Can [explore + interact + talk]
+QUEST# 18: Creatures of The Day- Interact, Instance [interact + instance]
+QUEST# 19: Diurnal Visitations                      [instance + mob + boss]
+QUEST# 20: Scholomari Parley- Talk , Talk , Talk ,  [talk + boss]
+QUEST# 21: Stakes and Stones- Talk , Collect, Talk  [talk + collect + boss]
+QUEST# 22: I Loathe Lucy- Mob, Explore, Talk        [mob + explore + talk]
+QUEST# 23: Glam Rock- Explore, Instance             [explore + instance]
+QUEST# 25: Breaking Branch                          [instance + mob + cheat]
+QUEST# 26: Glam Rock- Talk , Talk                   [talk]
+QUEST# 27: To the Mortal Plain!- Interact, Talk Mor [interact + talk]
+AREA    : Mortal Plain
+QUEST# 28: To the Mortal Plain!                     [talk + mob]
+QUEST# 29: Angry Mobs- Mob                          [mob]
+QUEST# 30: Village Sheeple- Talk , Talk , Talk , mo [talk + mob + explore]
+QUEST# 31: Missing List of Missing- Talk , D&C      [talk + d&c]
+QUEST# 32: The Recent Victim- Explore, Photomancy,  [explore + boss]
+QUEST# 33: The Future Victim- Talk , Explore, Explo [talk + explore + mob]
+QUEST# 34: The Survivors- Talk , Mob, Talk          [talk + mob]
+QUEST# 35: Truth and Fights- Mob, Talk              [mob + talk]
+QUEST# 36: These Mobs are Revolting- Interact, Inte [interact + instance]
+QUEST# 37: Mayoral Dejection                        [instance + mob + cheat]
+QUEST# 38: Seeds of Revolution- Talk , Talk , Talk  [talk + interact + d&c]
+QUEST# 39: Interlude with a Vampire- Talk , Talk ,  [talk + instance]
+QUEST# 40: Descent                                  [instance + talk + mob + boss]
+QUEST# 41: The Quarrel Plain- Explore, Instance     [explore + instance]
+QUEST# 42: Task of the Red Death- Explore, Talk , M [explore + talk + mob + cheat + interact]
+AREA    : Graveholm
+QUEST# 43: Night of the Wolves- Talk Graveholm      [talk]
+QUEST# 44: Blades of Gray- Mob, Explore, Talk Outsi [mob + explore + talk]
+AREA    : Outsiders’ Camp
+AREA    : Howling Lands
+QUEST# 45: Into The Howling Lands- Interact Howling [interact]
+QUEST# 46: Talking about Bruno- Talk Special Note f [talk + explore + boss]
+QUEST# 47: Were-Bear Picnic                         [instance + mob + boss + talk]
+AREA    : Special Note from Dakota- “no, no no”
+QUEST# 49: Seeking Glory- Collect                   [collect + talk]
+QUEST# 50: Dog Fighting- Explore, Talk , Mob, Talk  [explore + talk + mob]
+QUEST# 51: The Beasts Within- Explore, Double Boss, [explore + double boss + talk]
+QUEST# 52: Branching Dialogue- Collect, Collect, D& [collect + d&c + talk]
+QUEST# 53: The Fourth Man- Explore, Double Boss, Ta [explore + double boss + talk]
+AREA    : OUTSIDERS CAMP
+QUEST# 54: Wolfman Has Cards- Explore, Instance     [explore + instance]
+QUEST# 55: Were-Dunnit                              [instance + collect + cheat + interact + talk]
+QUEST# 56: To the Black Lagoon!- Talk Black Lagoon  [talk]
+AREA    : Black Lagoon
+QUEST# 57: To the Black Lagoon!- Interact, Talk     [interact + talk]
+QUEST# 58: We Don’t Need No Inculcation- Talk , Mob [talk + mob]
+QUEST# 59: Scho No Mo’                              [mob + talk]
+QUEST# 60: Substance of Shadow- Talk , Talk , D&C,  [talk + d&c]
+QUEST# 61: First, It Knocks- Explore, Interact, Bos [explore + interact + boss + talk]
+QUEST# 62: Second, It Lies- Explore, Interact, Cant [explore + interact + talk]
+QUEST# 63: Third, It Devours- Explore, Interact, Ma [explore + interact + major cheat + talk]
+QUEST# 64: Icks From The Pit: Explore, Instance     [explore + instance]
+QUEST# 65: Dreadtime Story                          [instance + mob + interact + explore + boss]
+QUEST# 66: The Vile Cup- Explore, Interact, Mob, In [explore + interact + mob + talk]
+QUEST# 67: Student Protest- Explore, Talk           [explore + talk]
+QUEST# 68: Velma’s Vengeance- Explore, Major Cheat, [explore + major cheat + talk]
+AREA    : OUTSIDERS CAMP
+QUEST# 69: What We Did In the Shadows- Collects, Ex [explore + talk + collect + minor cheat]
+AREA    : GRAVEHOLM
+QUEST# 70: To the Grave!- Talk , Interact, GRAVEHOL [talk + interact]
+AREA    : OUTSIDERS CAMP
+QUEST# 71: Parliament Parler- Cantrip, Explore      [explore]
+QUEST# 72: Gray Robber                              [instance + mob + interact + minor cheat + major cheat + talk + collect]
+AREA    : Black Lagoon
+QUEST# 73: One Last Trip… Talk                      [talk]
+QUEST# 74: Paved With Good Intentions- Talk , Explo [talk + explore + interact]
+QUEST# 75: Scholduggery- Explore, Talk              [explore + talk]
+QUEST# 76: The Delusion of Choice- Interact, Boss,  [interact + boss + talk]
+QUEST# 77: The Databrain that Wouldn’t Die- Explore [explore + talk]
+QUEST# 78: Schoolhouse Rock                         [instance + mob + interact + puzzle + boss + major cheat]
+
+SUMMARY: 65 quests in 11 areas
+Stats: {'total_quests': None, 'mob_fights': None, 'dc_quests': None, 'boss_fights': None, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}

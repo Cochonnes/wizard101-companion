@@ -138,7 +138,8 @@ def upsert_world(conn: sqlite3.Connection, data: dict) -> int:
                 source_url=?, total_quests=?, mob_fights=?, dc_quests=?,
                 boss_fights=?, cheater_bosses=?, solo_quests=?,
                 description=?, intro_text=?, scraped_at=?,
-                level_min=?, level_max=?,
+                level_min=COALESCE(?, level_min),
+                level_max=COALESCE(?, level_max),
                 display_order=COALESCE(?, display_order)
             WHERE id=?
         """, (

@@ -484,9 +484,18 @@ def _extract_name(block_text: str, number: int) -> str:
       "15. Free Mouse ( Instance ) – Talk + Mob + Explore"
       "68. Eggs on the Side ( Instance ) – Mob + boss + Interact"
       "4. Proof of Life – Mob ( Solo ) + Talk"
+      "17. (instance) Return to Avalon (mob + explore + elite + major cheat)"
     """
     # Remove leading number
     text = re.sub(r'^\d+[.)]\s*', '', block_text.strip())
+
+    # Strip leading parenthetical if it contains ONLY type keywords.
+    # Handles: "(instance) Return to Avalon ..." or "( Instance ) The Mind Thief ..."
+    _TYPE_PATTERN_LEAD = re.compile(
+        r'^\(\s*(?:' + '|'.join(re.escape(kw) for kw in QUEST_KEYWORDS) + r')\s*\)\s*',
+        re.I
+    )
+    text = _TYPE_PATTERN_LEAD.sub('', text)
 
     # Split on em-dash / en-dash first — everything before it is the name
     if " – " in text or " — " in text:

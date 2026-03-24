@@ -1,0 +1,51 @@
+PARSE LOG — Selenopolis
+============================================================
+
+AREA    : Shadow
+AREA    : Selenopolis Main Quest Line
+AREA    : Selenopolis Quest Line
+AREA    : The Arcanum
+QUEST#  1: Arcanum101                               [explore + talk]
+QUEST#  2: Dark Gripe Of The Moon                   [talk + explore + mob]
+AREA    : Garden of Khonsu
+QUEST#  3: Save Ceren and Istar                     [explore + talk]
+AREA    : Vivarium
+QUEST#  4: Tick, Tick, Lune                         [talk + mob]
+QUEST#  5: Need For Seeds                           [collect + interact]
+QUEST#  6: Come on Chameleons!                      [d&c + talk + collect]
+QUEST#  7: Tut-Tut, Now                             [mob + talk]
+QUEST#  8: The Mean Tree                            [boss]
+QUEST#  9: Life From Death                          [d&c + collect + interact]
+AREA    : Garden of Khonsu
+QUEST# 10: Nightchant and the Moon                  [boss + talk]
+QUEST# 11: Save Ozzy, Pork, and Quartermane         [explore + talk]
+QUEST# 12: Chamele-off!                             [mob + talk]
+QUEST# 13: Are You My Mummy?                        [boss + interact + talk]
+QUEST# 14: The Ghost Eaters                         [elite + interact + talk]
+QUEST# 15: Prophet Motive                           [elite + talk]
+QUEST# 16: You and Mimas                            [elite + interact + talk]
+QUEST# 17: Stuck On Khonsu                          [elite + interact + talk]
+QUEST# 18: Light and Night Fight                    [boss + talk]
+QUEST# 19: Friends Like These                       [boss + interact + talk]
+QUEST# 20: Puzzles & Pathways                       [mob + talk]
+QUEST# 21: Wherever Yous Are                        [elite + interact + talk]
+QUEST# 22: This Anubites                            [mob + talk]
+QUEST# 23: Behold His Works And Dispair             [interact + boss + talk]
+QUEST# 24: Save Ivan and Dyvim                      [talk]
+AREA    : Marketplace of Ideas
+QUEST# 25: A Tale of Two Captives                   [instance + talk + mob + elite]
+AREA    : Underground Market Place
+QUEST# 26: Tawarest In Peace                        [collect + mob + talk + instance + boss]
+AREA    : Grand Exposition
+QUEST# 27: Thothic Horror                           [mob + collect + instance + boss + talk]
+AREA    : Marketplace of Ideas
+QUEST# 28: Anubus, Anu-That                         [collect + instance + mob + boss + talk]
+AREA    : Grand Exposition
+QUEST# 29: Ra Is War                                [explore + mob + instance + boss + talk]
+AREA    : Marketplace of Ideas
+QUEST# 30: The Final Act                            [solo + boss + talk]
+QUEST# 31: Weremander By Night                      [instance + talk + boss]
+QUEST# 32: From Moon to the Earth                   [boss + talk]
+
+SUMMARY: 32 quests in 10 areas
+Stats: {'total_quests': None, 'mob_fights': None, 'dc_quests': None, 'boss_fights': None, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}

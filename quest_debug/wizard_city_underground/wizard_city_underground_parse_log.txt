@@ -1,0 +1,31 @@
+PARSE LOG — Wizard City Underground
+============================================================
+
+AREA    : Wizard101
+AREA    : W101 Quest Guides
+AREA    : Wizard City Underground Quest Line
+AREA    : Golem Court / The Drains
+QUEST#  1: Subterranean Sanitation                  [talk + mob]
+QUEST#  2: These Monsters are Trash                 [explore + talk]
+QUEST#  3: Take Out the Trash                       [instance + mob + talk + cheat]
+QUEST#  4: Incan’t Take No More                     [interact + explore + talk]
+QUEST#  5: No Place Like Catacomb                   [interact + explore + talk]
+AREA    : The Catacombs
+QUEST#  6: Ancient War, What is it Good For?        [instance + explore + elite + interact + major cheat]
+QUEST#  7: Bear With Me                             [explore + talk]
+QUEST#  8: Blather, Prince, Repeat                  [instance + mob + explore + elite]
+QUEST#  9: Veni Vidi Viggor                         [explore + interact + talk]
+QUEST# 10: The More He Knows                        [instance + explore + mob + cheat]
+AREA    : Dragonspyre Academy
+QUEST# 11: Ashback                                  [talk]
+QUEST# 12: Deeper Mysteries                         [explore + mob + talk]
+QUEST# 13: Druid Legacies                           [talk]
+QUEST# 14: A Prison Out of Time                     [explore + talk]
+QUEST# 15: Be Kind, Re-Bind                         [interact + talk]
+QUEST# 16: Tempus Fugitives                         [explore + talk]
+QUEST# 17: Return to Avalon                         [instance + mob + explore + elite + major cheat]
+QUEST# 18: The Mind Thief                           [instance + mob + explore + elite + major cheat]
+QUEST# 19: To Face the Devourer                     [instance + major cheat]
+
+SUMMARY: 19 quests in 3 areas
+Stats: {'total_quests': None, 'mob_fights': None, 'dc_quests': None, 'boss_fights': None, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}

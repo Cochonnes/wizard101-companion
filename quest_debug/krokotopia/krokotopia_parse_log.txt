@@ -1,51 +1,82 @@
 PARSE LOG — Krokotopia
 ============================================================
 
-AREA    : Shadow
-AREA    : Selenopolis Main Quest Line
-AREA    : Selenopolis Quest Line
-AREA    : The Arcanum
-QUEST#  1: Arcanum101                               [explore + talk]
-QUEST#  2: Dark Gripe Of The Moon                   [talk + explore + mob]
-AREA    : Garden of Khonsu
-QUEST#  3: Save Ceren and Istar                     [explore + talk]
-AREA    : Vivarium
-QUEST#  4: Tick, Tick, Lune                         [talk + mob]
-QUEST#  5: Need For Seeds                           [collect + interact]
-QUEST#  6: Come on Chameleons!                      [d&c + talk + collect]
-QUEST#  7: Tut-Tut, Now                             [mob + talk]
-QUEST#  8: The Mean Tree                            [boss]
-QUEST#  9: Life From Death                          [d&c + collect + interact]
-AREA    : Garden of Khonsu
-QUEST# 10: Nightchant and the Moon                  [boss + talk]
-QUEST# 11: Save Ozzy, Pork, and Quartermane         [explore + talk]
-QUEST# 12: Chamele-off!                             [mob + talk]
-QUEST# 13: Are You My Mummy?                        [boss + interact + talk]
-QUEST# 14: The Ghost Eaters                         [elite + interact + talk]
-QUEST# 15: Prophet Motive                           [elite + talk]
-QUEST# 16: You and Mimas                            [elite + interact + talk]
-QUEST# 17: Stuck On Khonsu                          [elite + interact + talk]
-QUEST# 18: Light and Night Fight                    [boss + talk]
-QUEST# 19: Friends Like These                       [boss + interact + talk]
-QUEST# 20: Puzzles & Pathways                       [mob + talk]
-QUEST# 21: Wherever Yous Are                        [elite + interact + talk]
-QUEST# 22: This Anubites                            [mob + talk]
-QUEST# 23: Behold His Works And Dispair             [interact + boss + talk]
-QUEST# 24: Save Ivan and Dyvim                      [talk]
-AREA    : Marketplace of Ideas
-QUEST# 25: A Tale of Two Captives                   [instance + talk + mob + elite]
-AREA    : Underground Market Place
-QUEST# 26: Tawarest In Peace                        [collect + mob + talk + instance + boss]
-AREA    : Grand Exposition
-QUEST# 27: Thothic Horror                           [mob + collect + instance + boss + talk]
-AREA    : Marketplace of Ideas
-QUEST# 28: Anubus, Anu-That                         [collect + instance + mob + boss + talk]
-AREA    : Grand Exposition
-QUEST# 29: Ra Is War                                [explore + mob + instance + boss + talk]
-AREA    : Marketplace of Ideas
-QUEST# 30: The Final Act                            [solo + boss + talk]
-QUEST# 31: Weremander By Night                      [instance + talk + boss]
-QUEST# 32: From Moon to the Earth                   [boss + talk]
+AREA    : Krokotopia Main Quest Line
+AREA    : Krokopatra
+AREA    : Royal Hall
+QUEST#  1: Krokotopia                               [explore + talk]
+QUEST#  2: Digging in the Dirt                      [talk]
+QUEST#  3: Make Some Rubbings                       [explore + talk]
+QUEST#  4: Fragments of a Key                       [d&c + talk]
+QUEST#  5: The Final Rubbing                        [boss + talk]
+QUEST#  6: Speak to the Assistant                   [talk]
+AREA    : Chamber of Fire
+QUEST#  7: Find My Colleague                        [talk]
+QUEST#  8: New Digs                                 [interact + talk]
+QUEST#  9: Quarter Master                           [boss + talk]
+QUEST# 10: Back to the Archeologist                 [talk]
+AREA    : Palace of Fire
+QUEST# 11: Assault on the Palace                    [talk]
+QUEST# 12: Gather the Troops                        [talk]
+QUEST# 13: Payback                                  [mob + talk]
+QUEST# 14: Give ‘Em Another Round                   [boss + talk]
+QUEST# 15: Back to Winthrop                         [talk]
+QUEST# 16: Into the Map Room                        [talk]
+QUEST# 17: Serpent Staff                            [instance + talk + boss]
+QUEST# 18: Eye of Krok                              [instance + talk + boss]
+QUEST# 19: Use the Map Room                         [instance + talk + interact]
+QUEST# 20: Permission to Enter                      [talk]
+QUEST# 21: Fangdango (talk) Instance name : Throne  [talk + instance]
+AREA    : Instance name
+AREA    : Hall of Champions
+QUEST# 22: Order at Last                            [talk]
+QUEST# 23: The Great General                        [talk]
+QUEST# 24: Minion Massacre                          [mob + talk]
+QUEST# 25: Search for the Seal                      [boss + talk]
+QUEST# 26: General Admission                        [talk]
+QUEST# 27: Coin of Destiny                          [boss + talk]
+QUEST# 28: Lay of the Land                          [talk]
+QUEST# 29: Blades of Ice                            [d&c + talk]
+QUEST# 30: Armor Handle                             [d&c + talk]
+QUEST# 31: Get Some Bling                           [collect + talk]
+QUEST# 32: Grip It!                                 [d&c + talk]
+QUEST# 33: Forge Key                                [d&c + talk]
+QUEST# 34: Taking It to the Tuts                    [boss + interact + talk]
+QUEST# 35: Back Among the Fold                      [talk]
+AREA    : Grand Arena
+QUEST# 36: Quest for the Warrior                    [talk]
+QUEST# 37: Mark of the Gladiator                    [d&c + talk]
+QUEST# 38: Gladiator Games                          [talk]
+QUEST# 39: Are You Experienced?                     [mob + talk]
+QUEST# 40: Battle of the Sunbird                    [boss + talk]
+QUEST# 41: Along Came a Spider                      [d&c + talk]
+QUEST# 42: Stonechin                                [boss + talk]
+QUEST# 43: Enter Sandman                            [mob + talk]
+QUEST# 44: Malletmane                               [boss + talk]
+QUEST# 45: Krokotopian Idol                         [mob + talk]
+QUEST# 46: Who’s More Amazing?                      [boss + talk]
+QUEST# 47: The Ultimate Battle                      [boss + talk]
+AREA    : Entrance Hall
+QUEST# 48: Return to Shalek                         [talk]
+QUEST# 49: Find the Fang                            [boss + talk]
+QUEST# 50: Breaking the Vault                       [instance + boss + puzzle + talk]
+QUEST# 51: Retribution                              [boss + talk]
+QUEST# 52: Guardians at the Gate                    [instance + talk + boss + explore]
+QUEST# 53: New Allies                               [instance + talk + interact]
+QUEST# 54: Overpower the Overseer                   [instance + talk + boss]
+QUEST# 55: The Right Combination                    [instance + talk + boss]
+QUEST# 56: Back to Balance (talk + talk) Instance n [talk + instance]
+AREA    : Instance names
+AREA    : Tomb of Storms
+QUEST# 57: Tomb of Storms                           [talk]
+QUEST# 58: De-Cipher the Ahnics                     [boss + talk]
+QUEST# 59: De-Cipher the Djeserits                  [boss + talk]
+QUEST# 60: The Key to the Temple                    [boss + talk]
+QUEST# 61: Temple Dweller                           [instance + boss + talk]
+QUEST# 62: Test of Strength                         [instance + talk + boss]
+QUEST# 63: Get Smart                                [instance + talk + puzzle]
+QUEST# 64: Triumphant Return                        [talk]
+QUEST# 65: Missing Souls (talk + talk) Instance nam [talk + instance]
 
-SUMMARY: 32 quests in 10 areas
-Stats: {'total_quests': None, 'mob_fights': None, 'dc_quests': None, 'boss_fights': None, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}
+SUMMARY: 65 quests in 7 areas
+Stats: {'total_quests': 65, 'mob_fights': 6, 'dc_quests': 7, 'boss_fights': None, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}
