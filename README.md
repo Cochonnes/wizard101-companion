@@ -5,7 +5,10 @@ This companion app is brought to you by Claude and my sanity. I did not write a 
 
 ## Installation
 - Install Python 3.12
+  <img width="917" height="504" alt="Screenshot 2026-03-24 124033" src="https://github.com/user-attachments/assets/f28afcaa-0706-4ae9-b9bf-bcda64dbcf1a" />
   - Make sure you add it to PATH during install
+ <img width="690" height="445" alt="Screenshot 2026-03-24 124225" src="https://github.com/user-attachments/assets/1d8bfd81-7a89-4907-ab8e-f5d654d0c059" />
+
 - Download the main ZIP file from: https://codeload.github.com/Cochonnes/wizard101-companion/zip/refs/heads/main
   - Extract the ZIP (obviously)  
 - Run "install.bat" once
@@ -15,5 +18,34 @@ This companion app is brought to you by Claude and my sanity. I did not write a 
 ## ToDo
 - [ ] Bugfixes (a lot of them)
 - [ ] Linux support?
+- [ ] Event tracker
+- [ ] Pet calculator
+
+## Features
+- Maybe I should put them higher up
+- More than 1850 bosses for easy look up of stats and cheats
+  - OCR integration, so you no longer need to manually look up the boss (granted OCR detects 'em)   
+- Quest tracker
+- On-Screen overlay
+- Round tracker
+  - For bosses that have cheats based on round count
+- Strategy planer
+  - For the really tough ones
+- Gear planner
+  - Save the best loadouts for each level and school, viewable with just a click  
 
 ## Pictures? Pictures!
+
+This is what you'll see first (IF it works :P)
+<img width="1285" height="887" alt="image" src="https://github.com/user-attachments/assets/17a47a5d-5095-4e45-a784-7d1b39a6e7dc" />
+
+Boss infos at a glance :O
+<img width="1277" height="894" alt="image" src="https://github.com/user-attachments/assets/713633dd-10fd-4982-8a94-f6626d9112b7" />
+<img width="1288" height="897" alt="image" src="https://github.com/user-attachments/assets/d87b7231-293d-4c3b-a2e0-f47b0f727d57" />
+
+Gear planner, for if you need it
+<img width="1282" height="891" alt="image" src="https://github.com/user-attachments/assets/d05baeec-ad9a-4e39-b2fa-200b8b677b69" />
+
+On-Screen HUD with OCR enabled
+<img width="2639" height="1252" alt="image" src="https://github.com/user-attachments/assets/a2ef29f8-804a-4fcd-8edf-45db618f3b2e" />
+
