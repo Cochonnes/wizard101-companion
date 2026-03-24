@@ -31,6 +31,7 @@ This companion app is brought to you by Claude and my sanity. I did not write a 
   - For bosses that have cheats based on round count
 - Strategy planer
   - For the really tough ones
+- Easy linking of round trackers and guides to specific bosses
 - Gear planner
   - Save the best loadouts for each level and school, viewable with just a click  
 
@@ -48,4 +49,17 @@ Gear planner, for if you need it
 
 On-Screen HUD with OCR enabled
 <img width="2639" height="1252" alt="image" src="https://github.com/user-attachments/assets/a2ef29f8-804a-4fcd-8edf-45db618f3b2e" />
+
+In app quest tracker
+<img width="1208" height="809" alt="image" src="https://github.com/user-attachments/assets/e265fed3-54c6-428a-92d8-d58ebaf6c709" />
+never forget where you left off
+<img width="1502" height="753" alt="image" src="https://github.com/user-attachments/assets/c3c0bcac-14c9-40ec-a527-b5519a8d420c" />
+
+always know what round you're on
+<img width="686" height="676" alt="image" src="https://github.com/user-attachments/assets/577f8fcc-e2fd-49f7-af19-6726407ce5b3" />
+
+and for when you really need to know who does what
+<img width="834" height="719" alt="image" src="https://github.com/user-attachments/assets/bd42458c-718b-4101-afdc-1b222d21f5c7" />
+
+
 
