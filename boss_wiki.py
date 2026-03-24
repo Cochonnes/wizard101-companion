@@ -3294,8 +3294,47 @@ class BossWikiApp(QMainWindow):
 
         rc_l, local_sha, _ = _run([git_exe, "rev-parse", "HEAD"])
         rc_r, remote_sha, _ = _run([git_exe, "rev-parse", "FETCH_HEAD"])
-        if rc_l != 0 or rc_r != 0:
-            _set_status("❌ Could not read git revision info.", "#e94560")
+
+        # If HEAD doesn't exist, this repo was partially initialized
+        # (e.g. git init + fetch ran but checkout failed on a previous attempt).
+        # Fix it by checking out the remote branch now.
+        if rc_l != 0:
+            _set_status("⏳ Completing first-time setup…", "#4d96ff")
+            # Detect default branch
+            rc_b, branches, _ = _run([git_exe, "branch", "-r"])
+            default_branch = "main"
+            if "origin/main" in branches:
+                default_branch = "main"
+            elif "origin/master" in branches:
+                default_branch = "master"
+
+            rc_co, _, err_co = _run([git_exe, "checkout", "-B", default_branch,
+                                     f"origin/{default_branch}"])
+            if rc_co != 0:
+                # Fallback: file-by-file checkout
+                _run([git_exe, "branch", "-M", default_branch])
+                _run([git_exe, "branch", f"--set-upstream-to=origin/{default_branch}"])
+                rc_co2, _, err_co2 = _run([git_exe, "checkout",
+                                           f"origin/{default_branch}", "--", "."],
+                                          timeout=60)
+                if rc_co2 != 0:
+                    _set_status(
+                        f"❌ Could not complete setup:\n{err_co2 or err_co}",
+                        "#e94560",
+                    )
+                    self._update_btn.setEnabled(True)
+                    return
+
+            _set_status(
+                "✅ Repository connected!  You are now on the latest version.\n"
+                "    Future updates will be incremental.",
+                "#27ae60",
+            )
+            self._update_btn.setEnabled(True)
+            return
+
+        if rc_r != 0:
+            _set_status("❌ Could not read remote revision info.", "#e94560")
             self._update_btn.setEnabled(True)
             return
 
