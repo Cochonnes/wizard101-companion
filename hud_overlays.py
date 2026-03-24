@@ -763,6 +763,9 @@ class BossHUDOverlay(BaseHUDOverlay):
     def _clear_search(self):
         self._search_input.clear()
         self._results_list.setVisible(False)
+        # Also clear the currently loaded boss results
+        self._current_boss_name = ""
+        self.refresh({})  # resets all tabs to empty state
 
     # ── Public ───────────────────────────────────────────────────
 

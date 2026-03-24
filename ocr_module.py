@@ -87,6 +87,10 @@ MIN_NAME_LENGTH  = 3
 MATCH_THRESHOLD  = 0.60
 RESET_AFTER_EMPTY = 3   # consecutive empty scans before resetting last_detected
 
+# OCR matching modes
+OCR_MODE_DYNAMIC = "dynamic"   # fuzzy / Levenshtein matching (original)
+OCR_MODE_STRICT  = "strict"    # exact 1:1 case-insensitive match only
+
 
 # ─── HELPERS ───────────────────────────────────────────────────
 
@@ -310,6 +314,39 @@ def fuzzy_match_boss(
     return best_match if best_score >= threshold else None
 
 
+def strict_match_boss(
+    detected: str,
+    index: BossNameIndex,
+) -> Optional[str]:
+    """
+    Strict 1:1 case-insensitive match.
+    Returns a boss name ONLY if the OCR text exactly matches a known boss name
+    (after lowercasing both sides), or if a contiguous word-window from the OCR
+    text exactly matches.  No fuzzy scoring at all.
+    """
+    detected_clean = detected.strip()
+    if not detected_clean or len(detected_clean) < MIN_NAME_LENGTH:
+        return None
+
+    detected_lower = detected_clean.lower()
+
+    # Build a lowercase → original-case lookup from the index
+    for name in index.all_names:
+        if detected_lower == name.lower():
+            return name
+
+    # Also try word-windows (e.g. "Defeat Malistaire" → "Malistaire")
+    for window in _word_windows(detected_clean):
+        window_lower = window.lower()
+        if len(window_lower) < MIN_NAME_LENGTH:
+            continue
+        for name in index.all_names:
+            if window_lower == name.lower():
+                return name
+
+    return None
+
+
 # ═══════════════════════════════════════════════════════════════
 # OCR SCANNER THREAD
 # ═══════════════════════════════════════════════════════════════
@@ -341,6 +378,7 @@ class OCRScanner(QThread):
         self._empty_scan_count: int = 0
         self.scan_interval = 3    # seconds between scans
         self.scan_region   = None # None = full screen
+        self.ocr_mode      = OCR_MODE_DYNAMIC  # "dynamic" or "strict"
 
     def set_known_names(self, names: List[str]):
         """Build the boss-first index from the provided name list."""
@@ -353,6 +391,14 @@ class OCRScanner(QThread):
             self.scan_region = None
         else:
             self.scan_region = (x, y, x + w, y + h)
+
+    def set_mode(self, mode: str):
+        """Switch between 'dynamic' (fuzzy) and 'strict' (exact) matching."""
+        if mode in (OCR_MODE_DYNAMIC, OCR_MODE_STRICT):
+            self.ocr_mode = mode
+            logger.info(f"Boss OCR mode set to: {mode}")
+        else:
+            logger.warning(f"Unknown OCR mode '{mode}', keeping '{self.ocr_mode}'")
 
     def init_reader(self) -> bool:
         if not OCR_AVAILABLE:
@@ -433,7 +479,10 @@ class OCRScanner(QThread):
             matched_set:    set       = set()
 
             for ocr_text, _conf in raw_candidates:
-                matched = fuzzy_match_boss(ocr_text, self._index)
+                if self.ocr_mode == OCR_MODE_STRICT:
+                    matched = strict_match_boss(ocr_text, self._index)
+                else:
+                    matched = fuzzy_match_boss(ocr_text, self._index)
                 if matched and matched not in matched_set:
                     matched_set.add(matched)
                     matched_bosses.append(matched)

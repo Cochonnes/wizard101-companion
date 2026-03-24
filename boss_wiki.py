@@ -76,19 +76,24 @@ except ImportError:
 
 # Optional OCR
 try:
-    from ocr_module import OCRScanner, OCR_AVAILABLE
+    from ocr_module import OCRScanner, OCR_AVAILABLE, OCR_MODE_DYNAMIC, OCR_MODE_STRICT
 except ImportError:
     OCR_AVAILABLE = False
     OCRScanner = None
+    OCR_MODE_DYNAMIC = "dynamic"
+    OCR_MODE_STRICT = "strict"
 except OSError as _ocr_err:
-    # PyTorch DLL initialisation failure (Python 3.13 / broken PyInstaller build)
     print(f"[WARN] OCR disabled — DLL load error: {_ocr_err}")
     OCR_AVAILABLE = False
     OCRScanner = None
+    OCR_MODE_DYNAMIC = "dynamic"
+    OCR_MODE_STRICT = "strict"
 except Exception as _ocr_err:
     print(f"[WARN] OCR disabled — unexpected error: {_ocr_err}")
     OCR_AVAILABLE = False
     OCRScanner = None
+    OCR_MODE_DYNAMIC = "dynamic"
+    OCR_MODE_STRICT = "strict"
 
 logging.basicConfig(
     level=logging.INFO,
@@ -99,6 +104,11 @@ logging.basicConfig(
     ]
 )
 logger = logging.getLogger(__name__)
+
+# ── App Version & GitHub ──────────────────────────────────────
+APP_VERSION = "1.0.0"
+# Set this to your GitHub repo, e.g. "YourUsername/Wizard101Companion"
+GITHUB_REPO = "Cochonnes/wizard101-companion/"
 
 
 def confirm_delete(parent, title: str, item_name: str, extra_detail: str = "") -> bool:
@@ -2557,11 +2567,40 @@ class BossWikiApp(QMainWindow):
             }
             QSlider::sub-page:horizontal { background:#e94560; border-radius:3px; }
         """)
-        self._opacity_value_lbl = QLabel(f"{current_pct}% transparent")
-        self._opacity_value_lbl.setStyleSheet("color:#888; font-size:12px; background:transparent; min-width:130px;")
+        self._opacity_value_spin = QSpinBox()
+        self._opacity_value_spin.setRange(10, 95)
+        self._opacity_value_spin.setValue(current_pct)
+        self._opacity_value_spin.setSuffix("% transparent")
+        self._opacity_value_spin.setFixedWidth(130)
+        self._opacity_value_spin.setStyleSheet("""
+            QSpinBox {
+                background:#0a1628; color:#ccc; border:1px solid #0f3460;
+                border-radius:4px; font-size:12px; padding:2px 4px;
+            }
+            QSpinBox:focus { border-color:#e94560; }
+            QSpinBox::up-button, QSpinBox::down-button { width:0; height:0; border:none; }
+        """)
+        self._opacity_value_spin.setAlignment(Qt.AlignCenter)
+        # Slider → SpinBox sync
+        self._opacity_slider.valueChanged.connect(
+            lambda v: (
+                self._opacity_value_spin.blockSignals(True),
+                self._opacity_value_spin.setValue(v),
+                self._opacity_value_spin.blockSignals(False),
+            )
+        )
         self._opacity_slider.valueChanged.connect(self._on_opacity_changed)
+        # SpinBox → Slider sync
+        self._opacity_value_spin.valueChanged.connect(
+            lambda v: (
+                self._opacity_slider.blockSignals(True),
+                self._opacity_slider.setValue(v),
+                self._opacity_slider.blockSignals(False),
+            )
+        )
+        self._opacity_value_spin.valueChanged.connect(self._on_opacity_changed)
         opacity_row.addWidget(self._opacity_slider, stretch=1)
-        opacity_row.addWidget(self._opacity_value_lbl)
+        opacity_row.addWidget(self._opacity_value_spin)
         appear_group.layout().addLayout(opacity_row)
 
         appear_note = QLabel(
@@ -2571,6 +2610,47 @@ class BossWikiApp(QMainWindow):
         appear_note.setStyleSheet("color:#555; font-size:11px; background:transparent;")
         appear_note.setWordWrap(True)
         appear_group.layout().addWidget(appear_note)
+
+        # ══ OCR SETTINGS SECTION ═══════════════════════════════════
+        if OCR_AVAILABLE:
+            ocr_group = self._make_settings_group("👾 OCR Settings")
+            body_layout.addWidget(ocr_group)
+
+            ocr_mode_row = QHBoxLayout()
+            ocr_mode_lbl = QLabel("Matching mode:")
+            ocr_mode_lbl.setStyleSheet("color:#ccc; font-size:13px; background:transparent;")
+            ocr_mode_row.addWidget(ocr_mode_lbl)
+
+            self._ocr_mode_combo = QComboBox()
+            self._ocr_mode_combo.addItem("Dynamic  (fuzzy — may show near-matches)", OCR_MODE_DYNAMIC)
+            self._ocr_mode_combo.addItem("Strict  (exact name match only)", OCR_MODE_STRICT)
+            # Restore saved mode
+            current_mode = getattr(self.ocr_scanner, 'ocr_mode', OCR_MODE_DYNAMIC) if self.ocr_scanner else OCR_MODE_DYNAMIC
+            idx = self._ocr_mode_combo.findData(current_mode)
+            if idx >= 0:
+                self._ocr_mode_combo.setCurrentIndex(idx)
+            self._ocr_mode_combo.setStyleSheet(
+                "QComboBox{background:#0f3460;color:#e0e0e0;border:1px solid #1f3460;"
+                "border-radius:6px;padding:6px 12px;font-size:12px;min-width:260px;}"
+                "QComboBox:hover{border-color:#e94560;}"
+                "QComboBox::drop-down{border:none;}"
+                "QComboBox QAbstractItemView{background:#0f3460;color:#e0e0e0;"
+                "selection-background-color:#e94560;border:1px solid #1f3460;}"
+            )
+            self._ocr_mode_combo.currentIndexChanged.connect(self._on_ocr_mode_changed)
+            ocr_mode_row.addWidget(self._ocr_mode_combo)
+            ocr_mode_row.addStretch()
+            ocr_group.layout().addLayout(ocr_mode_row)
+
+            ocr_mode_note = QLabel(
+                "<b>Dynamic</b>: Uses fuzzy matching (Levenshtein distance) to detect bosses even "
+                "when OCR misreads a character. May produce false positives.<br>"
+                "<b>Strict</b>: Only shows a boss when the OCR text exactly matches a boss name "
+                "(case-insensitive). Fewer false positives but may miss OCR typos."
+            )
+            ocr_mode_note.setStyleSheet("color:#666; font-size:11px; background:transparent;")
+            ocr_mode_note.setWordWrap(True)
+            ocr_group.layout().addWidget(ocr_mode_note)
 
         # ══ KEYBINDS SECTION ══════════════════════════════════════
         if KEYBINDS_AVAILABLE and self.keybind_manager:
@@ -2704,6 +2784,55 @@ class BossWikiApp(QMainWindow):
 
         maint_group.layout().addLayout(maint_grid)
 
+        # ══ UPDATES SECTION ══════════════════════════════════════
+        update_group = self._make_settings_group("🔄 Updates")
+        body_layout.addWidget(update_group)
+
+        # Current version label
+        ver_row = QHBoxLayout()
+        ver_lbl = QLabel(f"Current version:  <b>{APP_VERSION}</b>")
+        ver_lbl.setStyleSheet("color:#ccc; font-size:13px; background:transparent;")
+        ver_row.addWidget(ver_lbl)
+        ver_row.addStretch()
+        update_group.layout().addLayout(ver_row)
+
+        # Check / Update button + status label
+        btn_row = QHBoxLayout()
+        btn_row.setSpacing(12)
+        self._update_btn = QPushButton("Check for Update")
+        self._update_btn.setStyleSheet(
+            "QPushButton{background:#0f3460;color:#e0e0e0;border:none;"
+            "border-radius:6px;padding:8px 18px;font-size:12px;font-weight:bold;}"
+            "QPushButton:hover{background:#e94560;}"
+            "QPushButton:disabled{background:#1a1a2e;color:#555;}"
+        )
+        self._update_btn.clicked.connect(self._check_for_updates)
+        btn_row.addWidget(self._update_btn)
+
+        self._update_status_lbl = QLabel("")
+        self._update_status_lbl.setStyleSheet("color:#888; font-size:12px; background:transparent;")
+        self._update_status_lbl.setWordWrap(True)
+        btn_row.addWidget(self._update_status_lbl, stretch=1)
+        update_group.layout().addLayout(btn_row)
+
+        update_note = QLabel(
+            "Updates are pulled from GitHub via <code>git pull</code>. "
+            "This folder must be a cloned git repository (not a downloaded ZIP). "
+            "Your settings, databases, and user data are never overwritten."
+        )
+        update_note.setStyleSheet("color:#555; font-size:11px; background:transparent;")
+        update_note.setWordWrap(True)
+        update_group.layout().addWidget(update_note)
+
+        if not GITHUB_REPO:
+            no_repo_lbl = QLabel(
+                "⚠  No GitHub repository configured. Set <code>GITHUB_REPO</code> "
+                "at the top of boss_wiki.py (e.g. <code>\"YourUser/Wizard101Companion\"</code>)."
+            )
+            no_repo_lbl.setStyleSheet("color:#e94560; font-size:11px; background:transparent;")
+            no_repo_lbl.setWordWrap(True)
+            update_group.layout().addWidget(no_repo_lbl)
+
         body_layout.addStretch()
         return page
 
@@ -2830,6 +2959,136 @@ class BossWikiApp(QMainWindow):
         QMessageBox.information(self, "Boss Data Cache",
                                 f"Deleted {count} boss{'es' if count != 1 else ''}.")
 
+    # ── GitHub Update ─────────────────────────────────────────────────────────
+
+    def _check_for_updates(self):
+        """
+        Check the GitHub repo for updates via git and, if one exists, pull it.
+        Button text changes: "Check for Update" → "Update" when an update is found.
+        """
+        import subprocess
+
+        repo_dir = os.path.dirname(os.path.abspath(__file__))
+
+        def _set_status(msg: str, color: str = "#888"):
+            self._update_status_lbl.setStyleSheet(
+                f"color:{color}; font-size:12px; background:transparent;"
+            )
+            self._update_status_lbl.setText(msg)
+            QApplication.processEvents()
+
+        def _run(args: list) -> tuple:
+            try:
+                result = subprocess.run(
+                    args, cwd=repo_dir, capture_output=True,
+                    text=True, timeout=30,
+                )
+                return result.returncode, result.stdout.strip(), result.stderr.strip()
+            except FileNotFoundError:
+                return -1, "", "git not found"
+            except subprocess.TimeoutExpired:
+                return -1, "", "Timed out"
+            except Exception as exc:
+                return -1, "", str(exc)
+
+        self._update_btn.setEnabled(False)
+
+        # If button says "Update", user already confirmed — go straight to pull
+        if getattr(self, '_update_ready', False):
+            _set_status("⏳ Downloading update…", "#888")
+            rc, out, err = _run(["git", "pull", "--ff-only", "origin"])
+            if rc != 0:
+                _set_status(
+                    f"❌ Update failed — you may have local changes that conflict.\n{err}",
+                    "#e94560",
+                )
+                self._update_btn.setEnabled(True)
+                return
+            _set_status(
+                "✅ Update applied!  Please restart the app to use the new version.",
+                "#27ae60",
+            )
+            self._update_ready = False
+            self._update_btn.setText("Check for Update")
+            self._update_btn.setEnabled(True)
+            return
+
+        _set_status("⏳ Checking for updates…", "#888")
+
+        # 1. Verify git
+        rc, out, err = _run(["git", "--version"])
+        if rc != 0:
+            _set_status(
+                "❌ git is not installed or not on PATH. "
+                "Install Git from https://git-scm.com and try again.",
+                "#e94560",
+            )
+            self._update_btn.setEnabled(True)
+            return
+
+        # 2. Verify git repo
+        rc, out, err = _run(["git", "rev-parse", "--is-inside-work-tree"])
+        if rc != 0 or out != "true":
+            _set_status(
+                "❌ This folder is not a git repository. "
+                "Clone the project from GitHub instead of downloading a ZIP.",
+                "#e94560",
+            )
+            self._update_btn.setEnabled(True)
+            return
+
+        # 3. Fetch from remote
+        _set_status("⏳ Contacting GitHub…", "#888")
+        rc, out, err = _run(["git", "fetch", "--quiet", "origin"])
+        if rc != 0:
+            _set_status(
+                f"❌ Could not reach GitHub — check your internet.\n{err}",
+                "#e94560",
+            )
+            self._update_btn.setEnabled(True)
+            return
+
+        # 4. Compare local HEAD with remote
+        rc_l, local_sha, _ = _run(["git", "rev-parse", "HEAD"])
+        rc_r, remote_sha, _ = _run(["git", "rev-parse", "FETCH_HEAD"])
+        if rc_l != 0 or rc_r != 0:
+            _set_status("❌ Could not read git revision info.", "#e94560")
+            self._update_btn.setEnabled(True)
+            return
+
+        if local_sha == remote_sha:
+            _set_status("✅ You are already on the latest version.", "#27ae60")
+            self._update_btn.setEnabled(True)
+            return
+
+        # 5. Update available — change button to "Update"
+        self._update_ready = True
+        self._update_btn.setText("⬇ Update")
+        self._update_btn.setStyleSheet(
+            "QPushButton{background:#27ae60;color:#fff;border:none;"
+            "border-radius:6px;padding:8px 18px;font-size:12px;font-weight:bold;}"
+            "QPushButton:hover{background:#2ecc71;}"
+            "QPushButton:disabled{background:#1a1a2e;color:#555;}"
+        )
+        _set_status(
+            f"🆕 A new version is available!  Click 'Update' to download it.\n"
+            f"    Local: {local_sha[:8]}  →  Remote: {remote_sha[:8]}",
+            "#ffd93d",
+        )
+        self._update_btn.setEnabled(True)
+
+    # ── OCR mode ──────────────────────────────────────────────────────────────
+
+    def _on_ocr_mode_changed(self, _index: int):
+        """User changed OCR matching mode in settings."""
+        if not hasattr(self, '_ocr_mode_combo'):
+            return
+        mode = self._ocr_mode_combo.currentData()
+        if self.ocr_scanner:
+            self.ocr_scanner.set_mode(mode)
+        label = "Dynamic (fuzzy)" if mode == OCR_MODE_DYNAMIC else "Strict (exact)"
+        self.status_bar.showMessage(f"OCR mode changed to: {label}", 4000)
+
     def _make_settings_group(self, title: str, subtitle: str = "") -> QGroupBox:
         """Styled settings section group box."""
         box = QGroupBox(title)
@@ -2936,13 +3195,36 @@ class BossWikiApp(QMainWindow):
             QSlider::sub-page:horizontal {{ background:{color}; border-radius:2px; }}
         """)
 
-        opa_val_lbl = QLabel(f"{cur_pct}%")
-        opa_val_lbl.setStyleSheet("color:#888; font-size:11px; background:transparent; min-width:34px;")
+        opa_val_spin = QSpinBox()
+        opa_val_spin.setRange(10, 95)
+        opa_val_spin.setValue(cur_pct)
+        opa_val_spin.setSuffix("%")
+        opa_val_spin.setFixedWidth(58)
+        opa_val_spin.setStyleSheet(f"""
+            QSpinBox {{
+                background:#0a1628; color:#ccc; border:1px solid #0f3460;
+                border-radius:4px; font-size:11px; padding:1px 2px;
+            }}
+            QSpinBox:focus {{ border-color:{color}; }}
+            QSpinBox::up-button, QSpinBox::down-button {{ width:0; height:0; border:none; }}
+        """)
+        opa_val_spin.setAlignment(Qt.AlignCenter)
+        # Slider → SpinBox sync
         opa_slider.valueChanged.connect(
-            lambda v, k=key, l=opa_val_lbl: self._on_overlay_opacity_changed(k, v, l)
+            lambda v, k=key, s=opa_val_spin: (
+                s.blockSignals(True), s.setValue(v), s.blockSignals(False),
+                self._on_overlay_opacity_changed(k, v, s)
+            )
+        )
+        # SpinBox → Slider sync
+        opa_val_spin.valueChanged.connect(
+            lambda v, sl=opa_slider: (sl.blockSignals(True), sl.setValue(v), sl.blockSignals(False))
+        )
+        opa_val_spin.valueChanged.connect(
+            lambda v, k=key, s=opa_val_spin: self._on_overlay_opacity_changed(k, v, s)
         )
         opacity_row.addWidget(opa_slider, stretch=1)
-        opacity_row.addWidget(opa_val_lbl)
+        opacity_row.addWidget(opa_val_spin)
         layout.addLayout(opacity_row)
 
         # "Show now" link
@@ -2995,14 +3277,15 @@ class BossWikiApp(QMainWindow):
 
     def _on_opacity_changed(self, value: int):
         """Global transparency slider changed."""
-        self._opacity_value_lbl.setText(f"{value}% transparent")
         if HUD_AVAILABLE:
             new_alpha = int((1 - value / 100) * 255)
             overlay_settings.set_alpha(max(10, min(245, new_alpha)))
 
-    def _on_overlay_opacity_changed(self, key: str, value: int, lbl: QLabel):
-        """Per-overlay transparency slider changed."""
-        lbl.setText(f"{value}%")
+    def _on_overlay_opacity_changed(self, key: str, value: int, widget=None):
+        """Per-overlay transparency slider/spinbox changed."""
+        # widget may be a QLabel (legacy) or QSpinBox — only QLabel needs setText
+        if widget is not None and hasattr(widget, 'setText') and not hasattr(widget, 'setValue'):
+            widget.setText(f"{value}%")
         if HUD_AVAILABLE:
             if value == -1:
                 overlay_settings.set_overlay_alpha(key, -1)
@@ -3405,12 +3688,40 @@ class BossWikiApp(QMainWindow):
             self._refresh_tree()
 
     def _clear_search(self):
-        """Clear the search field and restore the full boss tree."""
+        """Clear the search field, loaded boss results, and restore the full boss tree."""
         self.search_input.blockSignals(True)
         self.search_input.clear()
         self.search_input.blockSignals(False)
         self.clear_search_btn.setVisible(False)
         self._in_search_mode = False
+
+        # Clear all right-panel boss info tabs
+        self.info_display.setHtml(
+            '<p style="color:#555;font-style:italic">Select a boss from the tree or search.</p>'
+        )
+        self.cheats_display.setHtml('')
+        self.spells_display.setHtml('')
+        self.minions_display.setHtml('')
+        self.drops_display.setHtml('')
+
+        # Clear round-counter and guide tabs
+        while self.round_tab_layout.count() > 1:
+            item = self.round_tab_layout.takeAt(0)
+            w = item.widget()
+            if w:
+                w.deleteLater()
+        while self.guide_tab_layout.count() > 1:
+            item = self.guide_tab_layout.takeAt(0)
+            w = item.widget()
+            if w:
+                w.deleteLater()
+
+        # Reset HUD overlay boss data
+        if self.overlay_manager:
+            boss_ov = self.overlay_manager.get_boss_overlay()
+            if boss_ov:
+                boss_ov.refresh({})
+
         self._refresh_tree()
 
     def _do_search(self):
