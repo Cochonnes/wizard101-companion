@@ -7,10 +7,10 @@ __pycache__/
 venv/
 
 # User data - never overwrite on git pull
-#boss_wiki.db
+boss_wiki.db
 hud_settings.json
 keybinds.json
-#world_order.json
+world_order.json
 
 # Logs
 *.log
