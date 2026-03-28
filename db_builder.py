@@ -423,64 +423,102 @@ class WikitextParser:
     @staticmethod
     def _parse_cheatnotes(cheatnotes_text):
         """
-        Parse the |cheatnotes= field.  Handles three wiki markup patterns:
+        Parse the |cheatnotes= field.  Handles ALL wiki markup patterns:
 
         1. Standard bullets  (*  / **)  — regular cheats & sub-points
-        2. Colon-indented headers  (:{{Icon|...}} '''Cycle Name''':)
-           and colon-indented bullets  (:* / :**)  — interrupt-cycle entries
-        3. Plain bold text lines  ('''Interrupt Cycles:''')  — cycle intro/info
-
-        Cycle headers become  type='cycle_header'.
-        Cycle intro text becomes  type='cycle_info'.
-        Items inside a cycle keep their normal detected type but are grouped
-        under the preceding cycle header for display purposes.
+        2. Single-colon bullets  (:*)   — sub-points of previous cheat
+        3. Double-colon bullets  (::*)  — cycle cheat entries
+        4. Colon-only headers   (:'''Cycle Name''')  — cycle section titles
+        5. Double-colon text    (::text) — cycle descriptive info
+        6. Plain bold text      ('''Interrupt Cycles:''') — cycle intro
+        7. Bare template lines  ({{Icon|X}} "quote" - text) — top-level cheats
+           with no bullet prefix (e.g. Yevgeny NightCreeper)
         """
         cheats = []
         current = None
+        in_cycle = False  # True once we enter a cycle section
 
         for line in cheatnotes_text.split('\n'):
             line = line.strip()
             if not line:
                 continue
 
-            # ── Colon-indented cycle header ──────────────────────────
-            # e.g.  :{{Icon|Death}} '''Death Interrupt Cycle''' (First Cycle):
-            # These lines start with ':' but are NOT bullets (':*')
-            if re.match(r"^:(?!\*)", line):
-                text = re.sub(r'^:+\s*', '', line)
-                text = WikitextParser._clean(text)
-                if not text:
-                    continue
-                # If this looks like a cycle title (contains "Cycle" or bold
-                # markup was present, or it's a short label), treat as header
-                if 'cycle' in text.lower() or len(text) < 80:
-                    current = {'text': text, 'type': 'cycle_header', 'sub_points': []}
-                    cheats.append(current)
-                else:
-                    # Longer colon-indented text that isn't a header — treat
-                    # as a regular cheat entry under the current context
+            # ── Strip leading colons to determine indent depth ───────
+            colon_depth = 0
+            tmp = line
+            while tmp.startswith(':'):
+                colon_depth += 1
+                tmp = tmp[1:]
+            # tmp is now the line without leading colons
+
+            # ── Double-colon bullet  (::*) — cycle cheat entry ──────
+            # e.g.  ::*''"I wrap you in armor!"'' - At the beginning ...
+            if colon_depth >= 2 and tmp.startswith('*'):
+                stripped = re.sub(r'^\*+\s*', '', tmp)
+                text = WikitextParser._clean(stripped)
+                if text:
                     current = {'text': text, 'type': WikitextParser._ctype(text), 'sub_points': []}
                     cheats.append(current)
                 continue
 
-            # ── Colon-indented bullet  (:* or :**) ───────────────────
-            # e.g.  :*''"I sharpen my claws!"'' - At the beginning ...
-            #        :**Some sub-point under a cycle cheat
-            if re.match(r'^:\*', line):
-                stripped = re.sub(r'^:+\*+\s*', '', line)
+            # ── Single-colon bullet  (:*) — context-dependent ─────
+            # Inside a cycle section → standalone cycle cheat entry
+            # Outside a cycle section → sub-point of previous cheat
+            if colon_depth == 1 and tmp.startswith('*'):
+                stripped = re.sub(r'^\*+\s*', '', tmp)
                 text = WikitextParser._clean(stripped)
                 if not text:
                     continue
-                # Single colon-star (:*) = top-level cycle cheat
-                if re.match(r'^:\*(?!\*)', line):
+                if in_cycle:
+                    # Inside a cycle: :* is always a standalone cheat
                     current = {'text': text, 'type': WikitextParser._ctype(text), 'sub_points': []}
                     cheats.append(current)
-                # Double colon-star (:**) = sub-point of current cheat
                 elif current:
+                    # Outside a cycle: :* is a sub-point of the previous cheat
                     current['sub_points'].append(text)
+                else:
+                    # No parent at all — promote to top-level
+                    current = {'text': text, 'type': WikitextParser._ctype(text), 'sub_points': []}
+                    cheats.append(current)
                 continue
 
-            # ── Standard top-level bullet (* but not **) ─────────────
+            # ── Double-colon text (::text, no bullet) — cycle info ───
+            # e.g.  ::The primary interrupt cycle consists of ...
+            if colon_depth >= 2 and not tmp.startswith('*'):
+                text = WikitextParser._clean(tmp)
+                if text:
+                    in_cycle = True
+                    current = {'text': text, 'type': 'cycle_info', 'sub_points': []}
+                    cheats.append(current)
+                continue
+
+            # ── Single-colon text (:text, no bullet) — cycle header ──
+            # e.g.  :{{Icon|Death}} '''Death Interrupt Cycle''' (First Cycle):
+            #       :'''Primary Interrupt Cycle:'''
+            #       :This battle revolves around ...
+            if colon_depth == 1:
+                text = WikitextParser._clean(tmp)
+                if not text:
+                    continue
+                # Determine if this is a TITLE header or descriptive info.
+                # Headers are short, have bold markup ('''), school icons, or
+                # end with a colon — they name a cycle, not describe it.
+                has_bold = bool(re.search(r"'''", tmp))
+                has_school_icon = bool(re.match(r'\[(?:Ice|Fire|Storm|Myth|Life|Death|Balance|Star|Sun|Moon|Shadow)\]', text))
+                is_short_cycle_label = ('cycle' in text.lower() and len(text) < 60)
+                is_header = has_bold or has_school_icon or is_short_cycle_label
+                if is_header:
+                    in_cycle = True
+                    current = {'text': text, 'type': 'cycle_header', 'sub_points': []}
+                else:
+                    in_cycle = True
+                    current = {'text': text, 'type': 'cycle_info', 'sub_points': []}
+                cheats.append(current)
+                continue
+
+            # ── No colons: standard wiki bullet patterns ─────────────
+
+            # Standard top-level bullet (* but not **)
             if re.match(r'^\*(?!\*)', line):
                 text = re.sub(r'^\*\s*', '', line)
                 text = WikitextParser._clean(text)
@@ -489,7 +527,7 @@ class WikitextParser:
                     cheats.append(current)
                 continue
 
-            # ── Standard sub-bullet (** or ***) ──────────────────────
+            # Standard sub-bullet (** or ***)
             if re.match(r'^\*{2,}', line) and current:
                 sub = re.sub(r'^\*+\s*', '', line)
                 sub = WikitextParser._clean(sub)
@@ -498,11 +536,24 @@ class WikitextParser:
                 continue
 
             # ── Plain text (no bullet, no colon) ─────────────────────
-            # e.g.  '''Interrupt Cycles:'''
-            #       All cycles are 5 Rounds each, and repeat until ...
-            text = WikitextParser._clean(line)
-            if text and len(text) > 3:
-                current = {'text': text, 'type': 'cycle_info', 'sub_points': []}
+            # Could be:
+            #   a) '''Interrupt Cycles:''' — bold section heading → cycle_info
+            #   b) {{Icon|Blade}} "quote" - cheat text → bare top-level cheat
+            #   c) Other descriptive text → cycle_info
+            text_cleaned = WikitextParser._clean(line)
+            if not text_cleaned or len(text_cleaned) <= 3:
+                continue
+
+            # Check if this looks like a conditional/cheat line (has a
+            # quote + dash pattern, or starts with an Icon reference)
+            has_icon = re.match(r'\{\{Icon\|', line)
+            has_quote_dash = re.search(r"''\"[^\"]+\"''\s*-", line)
+            if has_icon or has_quote_dash:
+                current = {'text': text_cleaned, 'type': WikitextParser._ctype(text_cleaned), 'sub_points': []}
+                cheats.append(current)
+            else:
+                in_cycle = True
+                current = {'text': text_cleaned, 'type': 'cycle_info', 'sub_points': []}
                 cheats.append(current)
 
         return cheats
