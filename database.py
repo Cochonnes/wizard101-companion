@@ -297,6 +297,33 @@ def delete_boss(conn: sqlite3.Connection, boss_name: str):
     conn.commit()
 
 
+def get_boss_raw_wikitext(conn: sqlite3.Connection, name: str) -> Optional[str]:
+    """Get the raw wikitext (stored in raw_html column) for a single boss."""
+    row = conn.execute(
+        "SELECT raw_html FROM bosses WHERE name = ? COLLATE NOCASE AND is_active = 1",
+        (name,)
+    ).fetchone()
+    return row['raw_html'] if row and row['raw_html'] else None
+
+
+def get_all_boss_raw_wikitext(conn: sqlite3.Connection) -> List[Tuple[str, str]]:
+    """Get (name, raw_html) for all active bosses that have stored wikitext."""
+    rows = conn.execute(
+        "SELECT name, raw_html FROM bosses WHERE is_active = 1 AND raw_html != '' ORDER BY name"
+    ).fetchall()
+    return [(r['name'], r['raw_html']) for r in rows]
+
+
+def get_boss_raw_wikitext_by_location(conn: sqlite3.Connection, prefix: str) -> List[Tuple[str, str]]:
+    """Get (name, raw_html) for bosses matching a location prefix."""
+    rows = conn.execute(
+        "SELECT name, raw_html FROM bosses WHERE is_active = 1 AND raw_html != '' "
+        "AND (location = ? OR location LIKE ?) ORDER BY name",
+        (prefix, prefix + " >%")
+    ).fetchall()
+    return [(r['name'], r['raw_html']) for r in rows]
+
+
 def delete_bosses_by_location_prefix(conn: sqlite3.Connection, prefix: str) -> int:
     """
     Delete all bosses whose location starts with `prefix`.

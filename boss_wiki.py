@@ -14,10 +14,11 @@ import json
 import logging
 import time
 from typing import Dict, List, Optional
+from pathlib import Path
 
 from PyQt5.QtWidgets import (
     QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout,
-    QLabel, QPushButton, QLineEdit, QTabWidget, QTextEdit,
+    QLabel, QPushButton, QLineEdit, QTabWidget, QTextEdit, QTextBrowser,
     QCheckBox, QProgressBar, QTreeWidget, QTreeWidgetItem,
     QSplitter, QGroupBox, QMessageBox, QStatusBar,
     QCompleter, QComboBox, QDialog, QScrollArea, QFrame,
@@ -138,7 +139,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ── App Version & GitHub ──────────────────────────────────────
-APP_VERSION = "1.0.2"
+APP_VERSION = "1.0.3"
 # Set this to your GitHub repo, e.g. "YourUsername/Wizard101Companion"
 GITHUB_REPO = "Cochonnes/wizard101-companion"
 
@@ -2349,6 +2350,23 @@ class BossWikiApp(QMainWindow):
         self.remove_btn.setObjectName("dangerBtn")
         self.remove_btn.clicked.connect(self._remove_boss)
 
+        from PyQt5.QtWidgets import QMenu as _QMenu
+        self.reparse_btn = QPushButton("♻ Reparse ▾")
+        self.reparse_btn.setToolTip("Re-parse cached wikitext without re-downloading")
+        reparse_menu = _QMenu(self)
+        reparse_menu.setStyleSheet("""
+            QMenu { background:#16213e; color:#e0e0e0; border:1px solid #0f3460;
+                    border-radius:4px; padding:4px; }
+            QMenu::item { padding:6px 20px 6px 12px; border-radius:3px; }
+            QMenu::item:selected { background:#e94560; color:#fff; }
+            QMenu::separator { height:1px; background:#0f3460; margin:3px 6px; }
+        """)
+        act_rp_sel = reparse_menu.addAction("♻ Reparse Selected Boss")
+        act_rp_sel.triggered.connect(self._reparse_selected_boss)
+        act_rp_all = reparse_menu.addAction("♻ Reparse ALL Bosses")
+        act_rp_all.triggered.connect(self._reparse_all_bosses)
+        self.reparse_btn.setMenu(reparse_menu)
+
         self.counter_panel_btn = QPushButton("⏱ Round Counters")
         self.counter_panel_btn.setCheckable(True)
         self.counter_panel_btn.toggled.connect(self._toggle_counter_panel)
@@ -2371,6 +2389,7 @@ class BossWikiApp(QMainWindow):
 
         action_row.addWidget(fetch_all_btn)
         action_row.addWidget(self.remove_btn)
+        action_row.addWidget(self.reparse_btn)
         action_row.addWidget(self.counter_panel_btn)
         action_row.addWidget(self.guide_panel_btn)
         action_row.addWidget(self.hud_boss_btn)
@@ -2441,7 +2460,8 @@ class BossWikiApp(QMainWindow):
 
         # Right: tabs
         self.tabs = QTabWidget()
-        self.info_display = QTextEdit(); self.info_display.setReadOnly(True)
+        self.info_display = QTextBrowser(); self.info_display.setReadOnly(True)
+        self.info_display.setOpenExternalLinks(True)
         self.tabs.addTab(self.info_display, "📋 Boss Info")
         self.cheats_display = QTextEdit(); self.cheats_display.setReadOnly(True)
         self.tabs.addTab(self.cheats_display, "⚔ Cheats")
@@ -3828,6 +3848,11 @@ class BossWikiApp(QMainWindow):
                 menu.addSeparator()
             act_del = menu.addAction(f"🗑 Delete Boss: {boss_name}")
             act_del.triggered.connect(lambda: self._remove_boss_by_name(boss_name))
+            menu.addSeparator()
+            act_rp = menu.addAction(f"♻ Reparse: {boss_name}")
+            act_rp.triggered.connect(
+                lambda checked=False, bn=boss_name: self._reparse_boss_by_name(bn)
+            )
 
         elif node_data:
             node_type, location_key = node_data
@@ -3858,6 +3883,13 @@ class BossWikiApp(QMainWindow):
                     lambda checked=False, lk=location_key, lb=label, n=count:
                         self._delete_location_subtree(lk, lb, n)
                 )
+                menu.addSeparator()
+                act_rp_loc = menu.addAction(
+                    f"♻ Reparse all {count} boss{'es' if count != 1 else ''} in this {label}"
+                )
+                act_rp_loc.triggered.connect(
+                    lambda checked=False, lk=location_key: self._reparse_location(lk)
+                )
             else:
                 no_act = menu.addAction(f"(No bosses in this {label})")
                 no_act.setEnabled(False)
@@ -3871,6 +3903,7 @@ class BossWikiApp(QMainWindow):
         if not confirm_delete(self, "Remove Boss", boss_name,
                               "This will remove the boss and all its data from the local database."):
             return
+        self._delete_cache_file(boss_name)
         db.delete_boss(self.conn, boss_name)
         self.boss_names = db.get_boss_names(self.conn)
         if self.ocr_scanner:
@@ -3888,6 +3921,10 @@ class BossWikiApp(QMainWindow):
             f"in this {label.lower()} and all sub-areas."
         ):
             return
+        # Delete cache files for each boss in this subtree
+        names = db.get_boss_names_by_location_prefix(self.conn, location_prefix)
+        for name in names:
+            self._delete_cache_file(name)
         deleted = db.delete_bosses_by_location_prefix(self.conn, location_prefix)
         self.boss_names = db.get_boss_names(self.conn)
         if self.ocr_scanner:
@@ -4077,6 +4114,8 @@ class BossWikiApp(QMainWindow):
                 'interrupt':       {'label': 'Interrupt',        'color': '#ffd93d', 'bg': '#1a1500'},
                 'conditional':     {'label': 'Conditional',      'color': '#6bcb77', 'bg': '#071a0d'},
                 'passive':         {'label': 'Passive',          'color': '#4d96ff', 'bg': '#050f1f'},
+                'cycle_header':    {'label': 'Cycle',            'color': '#e0a0ff', 'bg': '#1a0a2a'},
+                'cycle_info':      {'label': 'Info',             'color': '#aaaaaa', 'bg': '#111111'},
                 'unknown':         {'label': 'Unknown',          'color': '#888888', 'bg': '#111111'},
             }
 
@@ -4094,6 +4133,32 @@ class BossWikiApp(QMainWindow):
                 ctype    = cheat.get('type', 'unknown')
                 meta     = TYPE_META.get(ctype, TYPE_META['unknown'])
                 sub_pts  = cheat.get('sub_points', [])
+
+                # ── Cycle header: rendered as a section divider, NOT a card ──
+                if ctype == 'cycle_header':
+                    html += (
+                        f'<table width="100%" cellspacing="0" cellpadding="0">'
+                        f'<tr><td height="16"></td></tr></table>'  # extra spacing before header
+                        f'<table width="98%" cellspacing="0" cellpadding="0" align="center">'
+                        f'<tr>'
+                        f'<td style="border-bottom:2px solid {meta["color"]}44;'
+                        f'padding:6px 14px 6px 14px">'
+                        f'<span style="color:{meta["color"]};font-weight:bold;font-size:14px;'
+                        f'letter-spacing:0.5px">{raw_text}</span>'
+                        f'</td></tr></table>'
+                    )
+                    html += SPACER
+                    continue
+
+                # ── Cycle info: plain text line (e.g. "All cycles are 5 Rounds...") ──
+                if ctype == 'cycle_info':
+                    html += (
+                        f'<table width="98%" cellspacing="0" cellpadding="0" align="center">'
+                        f'<tr><td style="padding:4px 14px;color:#999999;font-size:12px;'
+                        f'font-style:italic">{raw_text}</td></tr></table>'
+                    )
+                    html += SPACER
+                    continue
 
                 speech_parts = _re.findall(r'"([^"]{3,})"', raw_text)
                 body_text    = _re.sub(r'"[^"]{3,}"', '', raw_text)
@@ -4627,6 +4692,12 @@ class BossWikiApp(QMainWindow):
         if not name:
             self.status_bar.showMessage("Enter a boss name first", 3000)
             return
+        # Delete existing boss + cache so db_builder does a fresh download
+        existing = db.get_boss(self.conn, name)
+        if existing:
+            self._delete_cache_file(name)
+            db.delete_boss(self.conn, name)
+            logger.info(f"Cleared existing data for '{name}' before re-fetch")
         self._run_db_builder(['--test', name], f"Fetching {name}...")
 
     # ─── FETCH ALL BOSSES ───────────────────────────────────────
@@ -4716,6 +4787,24 @@ class BossWikiApp(QMainWindow):
             self.fetch_process.kill()
             self.progress_label.setText("Cancelled")
 
+    # ─── CACHE FILE HELPERS ────────────────────────────────────
+
+    def _cache_dir(self) -> Path:
+        """Return the wikitext_cache directory path."""
+        return Path(os.path.dirname(os.path.abspath(__file__))) / "wikitext_cache"
+
+    def _delete_cache_file(self, boss_name: str):
+        """Delete the wikitext_cache .txt file for a boss, if it exists."""
+        import re as _re
+        safe_name = _re.sub(r'[<>:"/\\|?*]', '_', boss_name)
+        cache_file = self._cache_dir() / f"{safe_name}.txt"
+        if cache_file.exists():
+            try:
+                cache_file.unlink()
+                logger.info(f"Deleted cache file: {cache_file}")
+            except Exception as e:
+                logger.warning(f"Could not delete cache file {cache_file}: {e}")
+
     # ─── REMOVE BOSS ────────────────────────────────────────────
 
     def _remove_boss(self):
@@ -4733,12 +4822,164 @@ class BossWikiApp(QMainWindow):
                               "This will remove the boss and all its data from the local database."):
             return
 
+        self._delete_cache_file(boss_name)
         db.delete_boss(self.conn, boss_name)
         self.boss_names = db.get_boss_names(self.conn)
         if self.ocr_scanner:
             self.ocr_scanner.set_known_names(self.boss_names)
         self._refresh_tree()
         self.status_bar.showMessage(f"Removed '{boss_name}'", 5000)
+
+    # ─── REPARSE BOSSES ──────────────────────────────────────────
+
+    def _import_wikitext_parser(self):
+        """Lazily import WikitextParser from db_builder."""
+        try:
+            from db_builder import WikitextParser
+            return WikitextParser
+        except ImportError:
+            self.status_bar.showMessage(
+                "Cannot import WikitextParser — db_builder.py not found", 5000
+            )
+            return None
+
+    def _reparse_single(self, boss_name: str) -> bool:
+        """
+        Re-parse a single boss from its stored raw wikitext.
+        Returns True on success, False on failure.
+        """
+        Parser = self._import_wikitext_parser()
+        if not Parser:
+            return False
+        wikitext = db.get_boss_raw_wikitext(self.conn, boss_name)
+        if not wikitext:
+            logger.warning(f"No stored wikitext for '{boss_name}' — cannot reparse")
+            return False
+        try:
+            data = Parser.parse_boss(wikitext, boss_name)
+            # Preserve the existing wiki_path / url from the DB
+            existing = db.get_boss(self.conn, boss_name)
+            if existing:
+                data['wiki_path'] = existing.get('wiki_path', data.get('wiki_path', ''))
+                data['url'] = existing.get('url', data.get('url', ''))
+            data['raw_html'] = wikitext  # keep the wikitext stored
+            db.upsert_boss(self.conn, data)
+            return True
+        except Exception as e:
+            logger.error(f"Reparse failed for '{boss_name}': {e}")
+            return False
+
+    def _reparse_selected_boss(self):
+        """Reparse the currently selected boss from its stored wikitext."""
+        current = self.boss_tree.currentItem()
+        if not current:
+            self.status_bar.showMessage("Select a boss first", 3000)
+            return
+        boss_name = current.data(0, Qt.UserRole)
+        if not boss_name:
+            self.status_bar.showMessage("Select a boss (not a world/area)", 3000)
+            return
+        self._reparse_boss_by_name(boss_name)
+
+    def _reparse_boss_by_name(self, boss_name: str):
+        """Reparse a single boss by name (used by context menu and toolbar)."""
+        if self._reparse_single(boss_name):
+            self._display_boss(boss_name)
+            self.status_bar.showMessage(f"♻ Reparsed '{boss_name}'", 5000)
+        else:
+            self.status_bar.showMessage(
+                f"Could not reparse '{boss_name}' — no stored wikitext", 5000
+            )
+
+    def _reparse_all_bosses(self):
+        """Reparse ALL bosses from their stored wikitext."""
+        all_wt = db.get_all_boss_raw_wikitext(self.conn)
+        if not all_wt:
+            self.status_bar.showMessage("No bosses with stored wikitext to reparse", 5000)
+            return
+
+        reply = QMessageBox.question(
+            self, "Reparse ALL Bosses",
+            f"Re-parse all {len(all_wt)} bosses from cached wikitext?\n\n"
+            "This does NOT re-download anything — it just re-runs the parser\n"
+            "on the stored data (useful after parser improvements).",
+            QMessageBox.Yes | QMessageBox.No
+        )
+        if reply != QMessageBox.Yes:
+            return
+
+        Parser = self._import_wikitext_parser()
+        if not Parser:
+            return
+
+        ok = errors = 0
+        for boss_name, wikitext in all_wt:
+            try:
+                data = Parser.parse_boss(wikitext, boss_name)
+                data['raw_html'] = wikitext
+                db.upsert_boss(self.conn, data)
+                ok += 1
+            except Exception as e:
+                errors += 1
+                logger.error(f"Reparse error for '{boss_name}': {e}")
+
+        self.conn.commit()
+        self.boss_names = db.get_boss_names(self.conn)
+        if self.ocr_scanner:
+            self.ocr_scanner.set_known_names(self.boss_names)
+        self._refresh_tree()
+
+        # Re-display current boss if one is selected
+        current = self.boss_tree.currentItem()
+        if current:
+            bn = current.data(0, Qt.UserRole)
+            if bn:
+                self._display_boss(bn)
+
+        msg = f"♻ Reparsed {ok} boss{'es' if ok != 1 else ''}"
+        if errors:
+            msg += f" ({errors} error{'s' if errors != 1 else ''})"
+        self.status_bar.showMessage(msg, 8000)
+        QMessageBox.information(self, "Reparse Complete", msg)
+
+    def _reparse_location(self, location_prefix: str):
+        """Reparse all bosses under a location prefix (world/area context menu)."""
+        all_wt = db.get_boss_raw_wikitext_by_location(self.conn, location_prefix)
+        if not all_wt:
+            self.status_bar.showMessage(
+                f"No bosses with stored wikitext in '{location_prefix}'", 5000
+            )
+            return
+
+        Parser = self._import_wikitext_parser()
+        if not Parser:
+            return
+
+        ok = errors = 0
+        for boss_name, wikitext in all_wt:
+            try:
+                data = Parser.parse_boss(wikitext, boss_name)
+                data['raw_html'] = wikitext
+                db.upsert_boss(self.conn, data)
+                ok += 1
+            except Exception as e:
+                errors += 1
+                logger.error(f"Reparse error for '{boss_name}': {e}")
+
+        self.conn.commit()
+        self._refresh_tree()
+
+        # Re-display current boss if one is selected
+        current = self.boss_tree.currentItem()
+        if current:
+            bn = current.data(0, Qt.UserRole)
+            if bn:
+                self._display_boss(bn)
+
+        msg = f"♻ Reparsed {ok} boss{'es' if ok != 1 else ''} in '{location_prefix}'"
+        if errors:
+            msg += f" ({errors} error{'s' if errors != 1 else ''})"
+        self.status_bar.showMessage(msg, 8000)
 
     # ─── BOSS OCR ────────────────────────────────────────────────
 

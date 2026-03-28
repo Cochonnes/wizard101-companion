@@ -100,6 +100,8 @@ CHEAT_TYPE_META = {
     "interrupt":       {"label": "Interrupt",        "color": "#ffd93d", "bg": "30,25,5"},
     "conditional":     {"label": "Conditional",      "color": "#6bcb77", "bg": "7,26,13"},
     "passive":         {"label": "Passive",           "color": "#4d96ff", "bg": "5,15,31"},
+    "cycle_header":    {"label": "Cycle",             "color": "#e0a0ff", "bg": "26,10,42"},
+    "cycle_info":      {"label": "Info",              "color": "#aaaaaa", "bg": "17,17,17"},
     "unknown":         {"label": "Unknown",           "color": "#888888", "bg": "17,17,17"},
 }
 
@@ -950,13 +952,40 @@ class BossHUDOverlay(BaseHUDOverlay):
         meta  = CHEAT_TYPE_META.get(ctype, CHEAT_TYPE_META["unknown"])
         text  = cheat.get("text", "")
         subs  = cheat.get("sub_points", [])
-        bg_hex = meta["bg"].lstrip("#")
-        try:
-            br, bg_, bb_ = int(bg_hex[0:2],16), int(bg_hex[2:4],16), int(bg_hex[4:6],16)
-            bg_rgba = f"rgba({br},{bg_},{bb_},180)"
-            bg_solid = f"rgb({br},{bg_},{bb_})"
-        except Exception:
-            bg_rgba, bg_solid = "rgba(10,10,30,180)", "rgb(10,10,30)"
+        # bg is comma-separated RGB e.g. "30,10,10"
+        bg_rgb = meta["bg"]
+        alpha = overlay_settings.get_overlay_alpha("boss")
+        bg_rgba = f"rgba({bg_rgb},{alpha})"
+        bg_solid = f"rgb({bg_rgb})"
+
+        # ── Cycle header: section divider, not a regular card ──
+        if ctype == 'cycle_header':
+            card = QFrame(); card.setObjectName("cheatCycleHeader")
+            card.setStyleSheet(
+                f"QFrame#cheatCycleHeader{{background:transparent;"
+                f"border:none;border-bottom:2px solid {meta['color']}66;"
+                f"border-radius:0;margin-top:6px;}}"
+            )
+            lo = QVBoxLayout(card)
+            lo.setContentsMargins(4, 8, 4, 4); lo.setSpacing(2)
+            lo.addWidget(_lbl(text, meta["color"], bold=True, size=14, wrap=True))
+            return card
+
+        # ── Cycle info: plain italic text, no card ──
+        if ctype == 'cycle_info':
+            card = QFrame(); card.setObjectName("cheatCycleInfo")
+            card.setStyleSheet(
+                "QFrame#cheatCycleInfo{background:transparent;"
+                "border:none;border-radius:0;}"
+            )
+            lo = QVBoxLayout(card)
+            lo.setContentsMargins(4, 2, 4, 2); lo.setSpacing(0)
+            info_lbl = _lbl(text, "#999999", size=13, wrap=True)
+            info_lbl.setStyleSheet(info_lbl.styleSheet() + "font-style:italic;")
+            lo.addWidget(info_lbl)
+            return card
+
+        # ── Standard cheat card ──
         card = QFrame(); card.setObjectName("cheatCard")
         card.setStyleSheet(
             f"QFrame#cheatCard{{background:{bg_rgba};"
