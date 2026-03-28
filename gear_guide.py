@@ -745,6 +745,15 @@ class GearBrowsePanel(QWidget):
         new_btn.clicked.connect(self.create_new.emit)
         title_row.addWidget(new_btn)
 
+        del_all_btn = QPushButton("🗑 Delete All Gear")
+        del_all_btn.setStyleSheet(
+            "QPushButton{background:#3a0a0a;color:#e94560;border:1px solid #5a1a1a;"
+            "border-radius:6px;padding:7px 16px;font-size:12px;font-weight:bold;}"
+            "QPushButton:hover{background:#5a1a1a;}"
+        )
+        del_all_btn.clicked.connect(self._delete_all_gear)
+        title_row.addWidget(del_all_btn)
+
         layout.addLayout(title_row)
 
         # ── Filters ──
@@ -763,15 +772,15 @@ class GearBrowsePanel(QWidget):
 
         filter_row.addWidget(QLabel("Level from:"))
         self.lvl_min = QSpinBox()
-        self.lvl_min.setRange(1, 170)
+        self.lvl_min.setRange(1, 999)
         self.lvl_min.setValue(1)
         self.lvl_min.valueChanged.connect(self._refresh)
         filter_row.addWidget(self.lvl_min)
 
         filter_row.addWidget(QLabel("to:"))
         self.lvl_max = QSpinBox()
-        self.lvl_max.setRange(1, 170)
-        self.lvl_max.setValue(170)
+        self.lvl_max.setRange(1, 999)
+        self.lvl_max.setValue(999)
         self.lvl_max.valueChanged.connect(self._refresh)
         filter_row.addWidget(self.lvl_max)
 
@@ -842,6 +851,24 @@ class GearBrowsePanel(QWidget):
     def refresh(self):
         self.cat_filter_btn.refresh_categories(self.conn)
         self._refresh()
+
+    def _delete_all_gear(self):
+        """Delete all gear loadouts after user confirmation."""
+        from PyQt5.QtWidgets import QMessageBox as _MB
+        box = _MB(self)
+        box.setWindowTitle("Delete All Gear")
+        box.setText("Delete <b>all</b> gear loadouts?")
+        box.setInformativeText(
+            "This will permanently remove every loadout, including all gear slots, "
+            "options, and pet stats. This cannot be undone."
+        )
+        box.setStandardButtons(_MB.Yes | _MB.No)
+        box.setDefaultButton(_MB.No)
+        box.setIcon(_MB.Warning)
+        if box.exec_() == _MB.Yes:
+            count = dg.delete_all_gear(self.conn)
+            self._refresh()
+            _MB.information(self, "Deleted", f"Removed {count} loadout(s).")
 
 
 # ═══════════════════════════════════════════════════════════════
@@ -961,7 +988,7 @@ class GearEditorPanel(QWidget):
 
         meta_layout.addWidget(field_lbl("Level Min"), 1, 2)
         self.lvl_min = QSpinBox()
-        self.lvl_min.setRange(1, 170)
+        self.lvl_min.setRange(1, 999)
         self.lvl_min.setValue(1)
         meta_layout.addWidget(self.lvl_min, 1, 3)
 
@@ -972,8 +999,8 @@ class GearEditorPanel(QWidget):
 
         meta_layout.addWidget(field_lbl("Level Max"), 2, 2)
         self.lvl_max = QSpinBox()
-        self.lvl_max.setRange(1, 170)
-        self.lvl_max.setValue(170)
+        self.lvl_max.setRange(1, 999)
+        self.lvl_max.setValue(999)
         meta_layout.addWidget(self.lvl_max, 2, 3)
 
         meta_layout.addWidget(field_lbl("Notes"), 3, 0)

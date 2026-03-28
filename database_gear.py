@@ -208,3 +208,12 @@ def upsert_loadout(conn, data: dict) -> int:
 def delete_loadout(conn, loadout_id: int):
     conn.execute("DELETE FROM gear_loadouts WHERE id=?", (loadout_id,))
     conn.commit()
+
+
+def delete_all_gear(conn) -> int:
+    """Delete every loadout (cascades to slots, options, pet stats).
+    Returns the number of loadouts removed."""
+    count = conn.execute("SELECT COUNT(*) FROM gear_loadouts").fetchone()[0]
+    conn.execute("DELETE FROM gear_loadouts")
+    conn.commit()
+    return count

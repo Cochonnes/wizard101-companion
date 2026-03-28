@@ -138,7 +138,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ── App Version & GitHub ──────────────────────────────────────
-APP_VERSION = "1.0.1"
+APP_VERSION = "1.0.2"
 # Set this to your GitHub repo, e.g. "YourUsername/Wizard101Companion"
 GITHUB_REPO = "Cochonnes/wizard101-companion"
 
@@ -4513,6 +4513,10 @@ class BossWikiApp(QMainWindow):
             boss_ov.ocr_toggled.connect(self._on_hud_boss_ocr)
             boss_ov.set_ocr_available(OCR_AVAILABLE and self.ocr_scanner is not None)
             boss_ov.set_boss_names(self.boss_names)
+            # Sync current OCR running state to the overlay checkbox
+            ocr_running = (self.ocr_scanner is not None
+                           and self.ocr_scanner.isRunning())
+            boss_ov.set_ocr_checked(ocr_running)
             self._boss_overlay_wired = True
 
     def _on_overlay_enabled_changed(self, key: str, enabled: bool):
