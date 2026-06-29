@@ -43,7 +43,7 @@ _KEYBINDS_FILE = os.path.join(
     os.path.dirname(os.path.abspath(__file__)), "keybinds.json"
 )
 
-OVERLAY_KEYS  = ["boss", "quest", "counter", "guide"]
+OVERLAY_KEYS  = ["boss", "quest", "counter", "guide", "calc"]
 ALL_BIND_KEYS = OVERLAY_KEYS + ["ocr"]
 
 BIND_LABELS = {
@@ -51,6 +51,7 @@ BIND_LABELS = {
     "quest":   "🗺 Quest Tracker Overlay",
     "counter": "⏱ Round Counter Overlay",
     "guide":   "📖 Strategy Guide Overlay",
+    "calc":    "🧮 Damage Calc Overlay",
     "ocr":     "👾 Boss OCR Toggle",
 }
 
@@ -59,6 +60,7 @@ BIND_COLORS = {
     "quest":   "#4d96ff",
     "counter": "#ffd93d",
     "guide":   "#c39bd3",
+    "calc":    "#6bcb77",
     "ocr":     "#66ff99",
 }
 

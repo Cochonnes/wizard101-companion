@@ -99,9 +99,9 @@ echo(
 
 :: ---- 4. Core GUI + scraping ----------------------------------
 echo  Installing core dependencies...
-%PIP% install PyQt5 requests beautifulsoup4 lxml cloudscraper --quiet
+%PIP% install PyQt5 requests beautifulsoup4 lxml cloudscraper nodriver --quiet
 if %errorlevel% neq 0 goto :core_fail
-echo  [OK] PyQt5, requests, beautifulsoup4, lxml, cloudscraper installed.
+echo  [OK] PyQt5, requests, beautifulsoup4, lxml, cloudscraper, nodriver installed.
 echo(
 goto :install_keyboard
 

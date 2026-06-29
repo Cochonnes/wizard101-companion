@@ -107,6 +107,17 @@ except ImportError:
     GEAR_GUIDE_AVAILABLE = False
     GearGuideWidget = None
 
+# Damage Calculator + Characters
+try:
+    from damage_calc import DamageCalcWidget, CharacterManagerWidget
+    import database_calc as dccalc
+    DAMAGE_CALC_AVAILABLE = True
+except ImportError:
+    DAMAGE_CALC_AVAILABLE = False
+    DamageCalcWidget = None
+    CharacterManagerWidget = None
+    dccalc = None
+
 # Optional OCR
 try:
     from ocr_module import OCRScanner, OCR_AVAILABLE, OCR_MODE_DYNAMIC, OCR_MODE_STRICT
@@ -2073,6 +2084,8 @@ class BossWikiApp(QMainWindow):
         db.init_db(self.conn)
         dq.init_quest_tables(self.conn)
         dg.init_gear_tables(self.conn)
+        if DAMAGE_CALC_AVAILABLE and dccalc:
+            dccalc.init_calc_tables(self.conn)
         self.boss_names = db.get_boss_names(self.conn)
 
         # Subprocess handles for fetch operations
@@ -2089,6 +2102,12 @@ class BossWikiApp(QMainWindow):
             self.ocr_scanner.bosses_detected.connect(self._on_bosses_detected)
             self.ocr_scanner.debug_text.connect(self._update_ocr_debug)
             self.ocr_scanner.set_known_names(self.boss_names)
+            # Restore the saved OCR matching mode
+            if overlay_settings is not None:
+                try:
+                    self.ocr_scanner.set_mode(overlay_settings.get_ocr_mode())
+                except Exception:
+                    pass
 
         # ── HUD Overlay Manager ──
         self.overlay_manager = OverlayManager() if HUD_AVAILABLE else None
@@ -2114,6 +2133,9 @@ class BossWikiApp(QMainWindow):
             # _wire_boss_overlay() is called from _on_overlay_enabled_changed.
             self._boss_overlay_wired = False
             self._wire_boss_overlay()
+
+            self._calc_overlay_wired = False
+            self._wire_calc_overlay()
 
             # Register callback so settings page buttons stay in sync
             # when overlays are closed via their own X button
@@ -2165,6 +2187,20 @@ class BossWikiApp(QMainWindow):
                 "desc": "Build and browse gear loadouts for every school and level range",
                 "title_color": "#4db8ff",
                 "action": lambda: self._nav_to("gear_guide"),
+            },
+            {
+                "icon": "🧮",
+                "title": "Damage Calculator",
+                "desc": "Quick damage maths with blades, traps, enchants and boss resists",
+                "title_color": "#6bcb77",
+                "action": lambda: self._nav_to("damage_calc"),
+            },
+            {
+                "icon": "🧙",
+                "title": "Characters",
+                "desc": "Create and manage your wizards and their stats for the calculator",
+                "title_color": "#ffd93d",
+                "action": lambda: self._nav_to("characters"),
             },
             {
                 "icon": "🗺",
@@ -2553,7 +2589,32 @@ class BossWikiApp(QMainWindow):
             placeholder.setStyleSheet("color:#555;font-size:14px;background:#1a1a2e;")
             self.stack.addWidget(placeholder)
 
-        # Page 3: Settings / HUD
+        # Page 3: Damage Calculator
+        if DAMAGE_CALC_AVAILABLE and DamageCalcWidget:
+            self._calc_page = DamageCalcWidget(self.conn, self)
+            self._calc_page.nav_hub.connect(lambda: self._nav_to("hub"))
+            self._calc_page.calc_panel.boss_selected.connect(self._on_calc_boss_selected)
+            self.stack.addWidget(self._calc_page)
+        else:
+            self._calc_page = None
+            ph_calc = QLabel("Damage Calculator not available.\nEnsure damage_calc.py is present.")
+            ph_calc.setAlignment(Qt.AlignCenter)
+            ph_calc.setStyleSheet("color:#555;font-size:14px;background:#1a1a2e;")
+            self.stack.addWidget(ph_calc)
+
+        # Page 4: Characters
+        if DAMAGE_CALC_AVAILABLE and CharacterManagerWidget:
+            self._char_page = CharacterManagerWidget(self.conn, self)
+            self._char_page.nav_hub.connect(lambda: self._nav_to("hub"))
+            self.stack.addWidget(self._char_page)
+        else:
+            self._char_page = None
+            ph_char = QLabel("Characters not available.\nEnsure damage_calc.py is present.")
+            ph_char.setAlignment(Qt.AlignCenter)
+            ph_char.setStyleSheet("color:#555;font-size:14px;background:#1a1a2e;")
+            self.stack.addWidget(ph_char)
+
+        # Page 5: Settings / HUD
         self._settings_page = self._build_settings_page()
         self.stack.addWidget(self._settings_page)
 
@@ -2562,9 +2623,19 @@ class BossWikiApp(QMainWindow):
 
     def _nav_to(self, section: str, tab: str = None):
         """Navigate to a named section, optionally jumping to a specific tab."""
-        PAGE = {"hub": 0, "boss_wiki": 1, "gear_guide": 2, "settings": 3}
+        PAGE = {"hub": 0, "boss_wiki": 1, "gear_guide": 2,
+                "damage_calc": 3, "characters": 4, "settings": 5}
         idx = PAGE.get(section, 0)
         self.stack.setCurrentIndex(idx)
+
+        # Refresh calc surfaces whenever the calculator is opened so newly
+        # added wizards / presets / bosses appear in its dropdowns.
+        if section == "damage_calc" and getattr(self, "_calc_page", None):
+            self._calc_page.refresh()
+            if self.overlay_manager:
+                self.overlay_manager.refresh_calc_data()
+        if section == "characters" and getattr(self, "_char_page", None):
+            self._char_page._refresh_list()
 
         if section == "boss_wiki" and tab:
             TAB_MAP = {
@@ -2641,6 +2712,7 @@ class BossWikiApp(QMainWindow):
             ("quest",   "🗺 Quest Tracker",   "#4d96ff"),
             ("counter", "⏱ Round Counter",   "#ffd93d"),
             ("guide",   "📖 Strategy Guide", "#c39bd3"),
+            ("calc",    "🧮 Damage Calc",    "#6bcb77"),
         ]
 
         self._hud_toggle_btns = {}
@@ -2648,7 +2720,7 @@ class BossWikiApp(QMainWindow):
 
         for col, (key, label, color) in enumerate(overlay_defs):
             card = self._make_hud_overlay_card(key, label, color)
-            hud_grid.addWidget(card, 0, col)
+            hud_grid.addWidget(card, col // 4, col % 4)
 
         # ══ APPEARANCE SECTION ════════════════════════════════════
         appear_group = self._make_settings_group("🎨 Appearance")
@@ -2737,7 +2809,8 @@ class BossWikiApp(QMainWindow):
             self._ocr_mode_combo.addItem("Dynamic  (fuzzy — may show near-matches)", OCR_MODE_DYNAMIC)
             self._ocr_mode_combo.addItem("Strict  (exact name match only)", OCR_MODE_STRICT)
             # Restore saved mode
-            current_mode = getattr(self.ocr_scanner, 'ocr_mode', OCR_MODE_DYNAMIC) if self.ocr_scanner else OCR_MODE_DYNAMIC
+            current_mode = (overlay_settings.get_ocr_mode()
+                            if overlay_settings is not None else OCR_MODE_DYNAMIC)
             idx = self._ocr_mode_combo.findData(current_mode)
             if idx >= 0:
                 self._ocr_mode_combo.setCurrentIndex(idx)
@@ -2813,6 +2886,12 @@ class BossWikiApp(QMainWindow):
                 ("📤 All Gear Loadouts",  lambda: exp.export_all_gear_loadouts(self.conn, self)),
                 ("📤 All Quest Worlds",   lambda: exp.export_all_quest_worlds(self.conn, self)),
             ]
+            if DAMAGE_CALC_AVAILABLE and hasattr(exp, "export_calc_presets"):
+                regular_buttons.append(
+                    ("📤 Calc Presets", lambda: exp.export_calc_presets(self.conn, self)))
+            if DAMAGE_CALC_AVAILABLE and hasattr(exp, "export_characters"):
+                regular_buttons.append(
+                    ("📤 Characters", lambda: exp.export_characters(self.conn, self)))
             for i, (lbl, cb) in enumerate(regular_buttons):
                 btn = _exp_btn(lbl, "", cb, False)
                 exp_grid.addWidget(btn, i // 3, i % 3)
@@ -3388,6 +3467,8 @@ class BossWikiApp(QMainWindow):
         mode = self._ocr_mode_combo.currentData()
         if self.ocr_scanner:
             self.ocr_scanner.set_mode(mode)
+        if overlay_settings is not None:
+            overlay_settings.set_ocr_mode(mode)
         label = "Dynamic (fuzzy)" if mode == OCR_MODE_DYNAMIC else "Strict (exact)"
         self.status_bar.showMessage(f"OCR mode changed to: {label}", 4000)
 
@@ -4103,6 +4184,11 @@ class BossWikiApp(QMainWindow):
             self.overlay_manager.update_boss(data)
             self._push_counter_hud(boss_name)
             self._push_guide_hud(boss_name)
+            self.overlay_manager.update_calc_boss(boss_name)
+
+        # ── Keep the damage calculator boss in sync ──
+        if getattr(self, "_calc_page", None):
+            self._calc_page.calc_panel.set_boss_external(boss_name)
 
         # ── Cheats ──
         cheats = data.get('cheats', [])
@@ -4584,20 +4670,56 @@ class BossWikiApp(QMainWindow):
             boss_ov.set_ocr_checked(ocr_running)
             self._boss_overlay_wired = True
 
+    def _wire_calc_overlay(self):
+        """Wire the Damage Calc HUD overlay's boss selection back into the app.
+        Safe to call multiple times — wires only once per overlay instance."""
+        if not (self.overlay_manager and HUD_AVAILABLE):
+            return
+        calc_ov = self.overlay_manager.get_calc_overlay()
+        if calc_ov and not self._calc_overlay_wired:
+            calc_ov.boss_selected.connect(self._on_calc_boss_selected)
+            calc_ov.refresh_data()
+            self._calc_overlay_wired = True
+
+    def _on_calc_boss_selected(self, name: str):
+        """A calculator (hub page or HUD) picked a boss — sync it everywhere."""
+        self._broadcast_boss(name)
+
+    def _broadcast_boss(self, name: str):
+        """A calculator picked a boss — open it everywhere (boss wiki card, tree,
+        overlays, counters and both calculator surfaces) so all the boss fields
+        stay in lock-step.  set_boss_external()/update_calc_boss() don't re-emit,
+        so this cannot loop."""
+        if not name:
+            return
+        if hasattr(self, 'search_input') and self.search_input is not None:
+            self.search_input.blockSignals(True)
+            self.search_input.setText(name)
+            self.search_input.blockSignals(False)
+        # _display_boss centralises: boss card, tree, boss/counter/guide HUD and
+        # the calculator surfaces.  Only call it for bosses we actually have.
+        if db.get_boss(self.conn, name):
+            self._display_boss(name)
+        elif self.overlay_manager:
+            self.overlay_manager.update_calc_boss(name)
+
     def _on_overlay_enabled_changed(self, key: str, enabled: bool):
         """
         Called by overlay_settings when any overlay's enabled state changes
         (including when closed via its own X button).  Syncs all UI indicators.
         """
-        # Lazy-wire the boss overlay on first enable (it's created on demand)
+        # Lazy-wire overlays on first enable (they're created on demand)
         if key == "boss" and enabled:
             self._wire_boss_overlay()
+        if key == "calc" and enabled:
+            self._wire_calc_overlay()
 
         color_map = {
             "boss":    "#e94560",
             "quest":   "#4d96ff",
             "counter": "#ffd93d",
             "guide":   "#c39bd3",
+            "calc":    "#6bcb77",
         }
         color = color_map.get(key, "#e0e0e0")
 
@@ -5074,6 +5196,12 @@ class BossWikiApp(QMainWindow):
             # Open the card directly
             self._display_boss(first_in_db)
 
+            # Keep the calculator (hub page + HUD overlay) in sync with OCR
+            if getattr(self, "_calc_page", None):
+                self._calc_page.calc_panel.set_boss_external(first_in_db)
+            if self.overlay_manager:
+                self.overlay_manager.update_calc_boss(first_in_db)
+
             if len(boss_names) > 1:
                 others = ", ".join(b for b in boss_names if b != first_in_db)
                 self.status_bar.showMessage(
@@ -5126,6 +5254,11 @@ class BossWikiApp(QMainWindow):
             self.counter_panel.refresh()
         if hasattr(self, 'guide_panel') and self.guide_panel.isVisible():
             self.guide_panel.refresh()
+        # Refresh calculator dropdowns (new bosses / presets / wizards may exist)
+        if getattr(self, "_calc_page", None):
+            self._calc_page.refresh()
+        if self.overlay_manager:
+            self.overlay_manager.refresh_calc_data()
 
     def closeEvent(self, event):
         if self.ocr_scanner:

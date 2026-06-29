@@ -140,6 +140,22 @@ def _dispatch(conn, export_type: str, data) -> int:
             n += _import_quest_world(conn, w)
         return n
 
+    # ── Damage Calculator presets ───────────────────────────────
+    if export_type == "calc_presets_all":
+        presets = data.get("presets", []) if isinstance(data, dict) else data
+        n = 0
+        for p in presets:
+            n += _import_calc_preset(conn, p)
+        return n
+
+    # ── Characters / wizards ─────────────────────────────────────
+    if export_type == "characters_all":
+        wizards = data.get("wizards", []) if isinstance(data, dict) else data
+        n = 0
+        for w in wizards:
+            n += _import_wizard(conn, w)
+        return n
+
     # ── Full Export ─────────────────────────────────────────────
     if export_type == "full_export":
         total = 0
@@ -153,6 +169,10 @@ def _dispatch(conn, export_type: str, data) -> int:
             total += _import_loadout(conn, lo)
         for w in data.get("quest_worlds", []):
             total += _import_quest_world(conn, w)
+        for p in data.get("calc_presets", []):
+            total += _import_calc_preset(conn, p)
+        for wz in data.get("characters", []):
+            total += _import_wizard(conn, wz)
         return total
 
     raise ValueError(
@@ -411,3 +431,61 @@ def _import_quest_world(conn, data: dict) -> int:
 
     conn.commit()
     return total
+
+
+# ═══════════════════════════════════════════════════════════════
+# DAMAGE CALCULATOR IMPORTERS
+# ═══════════════════════════════════════════════════════════════
+
+def _import_calc_preset(conn, data: dict) -> int:
+    """Upsert a calculator modifier preset (matched by category + label)."""
+    if not data or not data.get("label"):
+        return 0
+    import database_calc as dcalc
+    existing = conn.execute(
+        "SELECT id FROM calc_presets WHERE category = ? AND label = ? COLLATE NOCASE",
+        (data.get("category", "Blade"), data["label"])
+    ).fetchone()
+    record = {
+        "category":   data.get("category", "Blade"),
+        "label":      data["label"],
+        "value":      data.get("value", 0),
+        "sort_order": data.get("sort_order", 0),
+    }
+    if existing:
+        record["id"] = existing["id"]
+    dcalc.upsert_preset(conn, record)
+    return 1
+
+
+def _import_wizard(conn, data: dict) -> int:
+    """Upsert a saved wizard / character (matched by name)."""
+    if not data or not data.get("name"):
+        return 0
+    import database_calc as dcalc
+    existing = conn.execute(
+        "SELECT id FROM wizards WHERE name = ? COLLATE NOCASE",
+        (data["name"],)
+    ).fetchone()
+    record = {
+        "name":        data["name"],
+        "school":      data.get("school", "Storm"),
+        "school2":     data.get("school2", ""),
+        "level":       data.get("level", 1),
+        "health":      data.get("health", 0),
+        "mana":        data.get("mana", 0),
+        "damage":      data.get("damage", {}),
+        "damage_flat": data.get("damage_flat", {}),
+        "resist":      data.get("resist", {}),
+        "accuracy":    data.get("accuracy", {}),
+        "critical":    data.get("critical", {}),
+        "block":       data.get("block", {}),
+        "pierce":      data.get("pierce", {}),
+        "stun_resist": data.get("stun_resist", 0),
+        "heal_in":     data.get("heal_in", 0),
+        "heal_out":    data.get("heal_out", 0),
+    }
+    if existing:
+        record["id"] = existing["id"]
+    dcalc.upsert_wizard(conn, record)
+    return 1

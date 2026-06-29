@@ -68,8 +68,13 @@ timeout /t 3 >nul
 
 :version_ok
 :: ── Optional: activate a virtual environment if present ──────
+:: When a venv exists we must point %PYTHON% at the venv interpreter, not
+:: the system one.  boss_wiki.py launches scraper subprocesses via QProcess
+:: using sys.executable, so the parent must already be the venv Python or
+:: those subprocesses won't find nodriver / EasyOCR / etc.
 if exist "%APP_DIR%\venv\Scripts\activate.bat" (
     call "%APP_DIR%\venv\Scripts\activate.bat"
+    set "PYTHON=%APP_DIR%\venv\Scripts\python.exe"
 )
 
 :: ── Launch the app ───────────────────────────────────────────

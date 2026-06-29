@@ -67,6 +67,7 @@ HUD_PALETTE = {
     "quest":   {"accent": "#4d96ff", "title": "🗺 Quest Tracker"},
     "counter": {"accent": "#ffd93d", "title": "⏱ Round Counters"},
     "guide":   {"accent": "#c39bd3", "title": "📖 Strategy Guides"},
+    "calc":    {"accent": "#6bcb77", "title": "🧮 Damage Calc"},
 }
 
 QUEST_TYPE_COLORS = {
@@ -116,7 +117,8 @@ class OverlaySettings:
         "quest":   {"enabled": False, "clickthrough": False, "x": 40,  "y": 420, "w": 360, "h": 440, "alpha": -1},
         "counter": {"enabled": False, "clickthrough": False, "x": 420, "y": 40,  "w": 300, "h": 340, "alpha": -1},
         "guide":   {"enabled": False, "clickthrough": False, "x": 420, "y": 400, "w": 320, "h": 340, "alpha": -1},
-        "_global": {"alpha": 51},
+        "calc":    {"enabled": False, "clickthrough": False, "x": 760, "y": 40,  "w": 360, "h": 560, "alpha": -1},
+        "_global": {"alpha": 51, "ocr_mode": "dynamic"},
     }
 
     def __init__(self):
@@ -195,6 +197,13 @@ class OverlaySettings:
 
     def add_enabled_changed_callback(self, cb):
         self._enabled_callbacks.append(cb)
+
+    def get_ocr_mode(self) -> str:
+        return str(self._data.get("_global", {}).get("ocr_mode", "dynamic"))
+
+    def set_ocr_mode(self, mode: str):
+        self._data.setdefault("_global", {})["ocr_mode"] = mode
+        self.save()
 
 
 overlay_settings = OverlaySettings()
@@ -283,6 +292,10 @@ def _clear_layout(lo):
 
 class BaseHUDOverlay(QWidget):
     closed = pyqtSignal(str)
+
+    # Minimum size for this overlay window (overridable per subclass).
+    _min_w = 200
+    _min_h = 140
 
     def __init__(self, key: str, parent=None):
         super().__init__(parent, Qt.Window | Qt.FramelessWindowHint |
@@ -396,7 +409,7 @@ class BaseHUDOverlay(QWidget):
             self._saved_h = self.height()
             self.setFixedHeight(28)
         else:
-            self.setMinimumSize(200, 140)
+            self.setMinimumSize(self._min_w, self._min_h)
             self.setMaximumSize(16777215, 16777215)
             self.resize(self.width(), self._saved_h)
 
@@ -424,8 +437,10 @@ class BaseHUDOverlay(QWidget):
 
     def _restore_geometry(self):
         s = overlay_settings.get(self._key)
-        self.setGeometry(s["x"], s["y"], s["w"], s["h"])
-        self.setMinimumSize(200, 140)
+        w = max(s["w"], self._min_w)
+        h = max(s["h"], self._min_h)
+        self.setGeometry(s["x"], s["y"], w, h)
+        self.setMinimumSize(self._min_w, self._min_h)
 
     def _on_ct(self, checked: bool):
         overlay_settings.set_clickthrough(self._key, checked)
@@ -1611,6 +1626,71 @@ class StrategyGuideHUDOverlay(BaseHUDOverlay):
 # OVERLAY MANAGER
 # ════════════════════════════════════════════════════════════════════════════
 
+class CalcHUDOverlay(BaseHUDOverlay):
+    """On-screen damage calculator. Embeds the shared CalcPanel (compact mode).
+
+    The boss field is kept in sync with the rest of the app: picking a boss
+    here emits boss_selected; the app forwards OCR / main-search picks in via
+    set_boss_external().
+    """
+    boss_selected = pyqtSignal(str)
+
+    # The calculator has more controls than the other overlays — give it a
+    # floor that fits its compact layout so nothing clips.
+    _min_w = 460
+    _min_h = 340
+
+    def __init__(self, parent=None):
+        self._conn = None
+        self._panel = None
+        super().__init__("calc", parent)
+
+    def _build_content(self, host: QWidget):
+        self._host_layout = QVBoxLayout(host)
+        self._host_layout.setContentsMargins(6, 4, 6, 6)
+        self._host_layout.setSpacing(0)
+        self._placeholder = QLabel("Loading calculator…")
+        self._placeholder.setStyleSheet("color:#888;font-size:12px;background:transparent;")
+        self._placeholder.setAlignment(Qt.AlignCenter)
+        self._host_layout.addWidget(self._placeholder)
+
+    def set_conn(self, conn):
+        self._conn = conn
+        if self._panel is None and conn is not None:
+            self._build_panel()
+
+    def _build_panel(self):
+        try:
+            from damage_calc import CalcPanel
+        except Exception:
+            return
+        if self._placeholder is not None:
+            self._placeholder.setParent(None)
+            self._placeholder.deleteLater()
+            self._placeholder = None
+        self._panel = CalcPanel(self._conn, compact=True)
+        self._panel.boss_selected.connect(self.boss_selected.emit)
+        self._host_layout.addWidget(self._panel)
+        # Safety net: if the window is ever narrower than the content, scroll
+        # horizontally instead of clipping the right-hand controls.
+        try:
+            self._scroll.setHorizontalScrollBarPolicy(Qt.ScrollBarAsNeeded)
+        except Exception:
+            pass
+
+    def set_boss_external(self, name: str):
+        if self._panel:
+            self._panel.set_boss_external(name)
+
+    def refresh_data(self):
+        if self._panel:
+            self._panel.refresh_lists()
+
+    def refresh(self, data: dict):
+        # called by OverlayManager.update_*; nothing pushed for calc
+        pass
+
+
 class OverlayManager:
     def __init__(self):
         self._overlays: Dict[str, BaseHUDOverlay] = {}
@@ -1626,7 +1706,8 @@ class OverlayManager:
     def _get_or_create(self, key: str) -> BaseHUDOverlay:
         if key not in self._overlays:
             cls = {"boss": BossHUDOverlay, "quest": QuestHUDOverlay,
-                   "counter": RoundCounterHUDOverlay, "guide": StrategyGuideHUDOverlay}[key]
+                   "counter": RoundCounterHUDOverlay, "guide": StrategyGuideHUDOverlay,
+                   "calc": CalcHUDOverlay}[key]
             ov = cls()
             ov.closed.connect(lambda k: self._on_closed(k))
             if self._conn and hasattr(ov, "set_conn"):
@@ -1635,7 +1716,7 @@ class OverlayManager:
         return self._overlays[key]
 
     def _restore_enabled(self):
-        for key in ("boss", "quest", "counter", "guide"):
+        for key in ("boss", "quest", "counter", "guide", "calc"):
             if overlay_settings.is_enabled(key):
                 self.toggle(key, True)
 
@@ -1687,6 +1768,19 @@ class OverlayManager:
 
     def get_boss_overlay(self) -> Optional[BossHUDOverlay]:
         return self._overlays.get("boss")
+
+    def get_calc_overlay(self) -> Optional["CalcHUDOverlay"]:
+        return self._overlays.get("calc")
+
+    def update_calc_boss(self, boss_name: str):
+        ov = self._overlays.get("calc")
+        if ov:
+            ov.set_boss_external(boss_name)
+
+    def refresh_calc_data(self):
+        ov = self._overlays.get("calc")
+        if ov:
+            ov.refresh_data()
 
     def close_all(self):
         for ov in self._overlays.values():

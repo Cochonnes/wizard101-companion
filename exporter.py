@@ -413,6 +413,46 @@ def export_all_quest_worlds(conn, parent=None) -> bool:
 
 
 # ═══════════════════════════════════════════════════════════════
+# DAMAGE CALCULATOR EXPORTS (presets + characters)
+# ═══════════════════════════════════════════════════════════════
+
+def _all_calc_presets(conn) -> list:
+    import database_calc as dcalc
+    return dcalc.list_presets(conn)
+
+
+def _all_wizards(conn) -> list:
+    import database_calc as dcalc
+    return dcalc.list_wizards(conn)
+
+
+def export_calc_presets(conn, parent=None) -> bool:
+    """Export all damage-calculator modifier presets."""
+    presets = _all_calc_presets(conn)
+    if not presets:
+        QMessageBox.warning(parent, "Export", "No calculator presets to export.")
+        return False
+    payload = _envelope("calc_presets_all", {
+        "preset_count": len(presets),
+        "presets": presets,
+    })
+    return _save_json(payload, "calc_presets_all.json", parent)
+
+
+def export_characters(conn, parent=None) -> bool:
+    """Export all saved wizards / characters."""
+    wizards = _all_wizards(conn)
+    if not wizards:
+        QMessageBox.warning(parent, "Export", "No characters to export.")
+        return False
+    payload = _envelope("characters_all", {
+        "wizard_count": len(wizards),
+        "wizards": wizards,
+    })
+    return _save_json(payload, "characters_all.json", parent)
+
+
+# ═══════════════════════════════════════════════════════════════
 # FULL EXPORT (everything in one file)
 # ═══════════════════════════════════════════════════════════════
 
@@ -429,7 +469,7 @@ def export_everything(conn, parent=None) -> bool:
     counters = db_mod.list_round_counters(conn)
     guides = db_mod.list_guides(conn)
 
-    payload = _envelope("full_export", {
+    data = {
         "bosses": _get_all_bosses(conn),
         "round_counters": [_enrich_counter(conn, c) for c in counters],
         "strategy_guides": [_enrich_guide(conn, g) for g in guides],
@@ -440,5 +480,13 @@ def export_everything(conn, parent=None) -> bool:
         "quest_worlds": [
             _world_full(conn, r["id"]) for r in world_rows
         ],
-    })
+    }
+    # Calc presets + characters (optional module)
+    try:
+        data["calc_presets"] = _all_calc_presets(conn)
+        data["characters"] = _all_wizards(conn)
+    except Exception:
+        pass
+
+    payload = _envelope("full_export", data)
     return _save_json(payload, "wizard101_companion_full_export.json", parent)
