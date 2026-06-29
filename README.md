@@ -15,6 +15,9 @@ This companion app is brought to you by Claude and my sanity. I did not write a 
   - This will download the required features like OCR and stuff into the "venv" folder
 - To start the app, run "start.bat"
 
+
+- Optional: Install Google Chrome browser to fetch new content
+
 ## ToDo
 - [ ] Bugfixes (a lot of them)
 - [ ] Linux support?
