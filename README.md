@@ -1,7 +1,7 @@
 # Wizard101 Companion
 
 ## Foreword
-This companion app is brought to you by Claude and my sanity. I did not write a single line of code, but lost a lot of tears and hair in the process of creating this ("Vibe" Coding they call this, I didn't feel the vibe).
+This companion app is brought to you by Claude and my sanity. I can't code for the love of my live, so I used a tool to create this. This has been created and updated over the course of weeks and months.
 
 ## Installation
 - Install Python 3.12
@@ -25,7 +25,6 @@ This companion app is brought to you by Claude and my sanity. I did not write a 
 - [ ] Pet calculator
 
 ## Features
-- Maybe I should put them higher up
 - More than 1850 bosses for easy look up of stats and cheats
   - OCR integration, so you no longer need to manually look up the boss (granted OCR detects 'em)   
 - Quest tracker
