@@ -745,6 +745,16 @@ class GearBrowsePanel(QWidget):
         new_btn.clicked.connect(self.create_new.emit)
         title_row.addWidget(new_btn)
 
+        imp_btn = QPushButton("📥 Import Code")
+        imp_btn.setToolTip("Create a loadout from a base64 share code")
+        imp_btn.setStyleSheet(
+            "QPushButton{background:#0f3460;color:#e0e0e0;border:none;"
+            "border-radius:6px;padding:7px 16px;font-size:12px;font-weight:bold;}"
+            "QPushButton:hover{background:#4d96ff;}"
+        )
+        imp_btn.clicked.connect(self._import_code)
+        title_row.addWidget(imp_btn)
+
         del_all_btn = QPushButton("🗑 Delete All Gear")
         del_all_btn.setStyleSheet(
             "QPushButton{background:#3a0a0a;color:#e94560;border:1px solid #5a1a1a;"
@@ -852,6 +862,30 @@ class GearBrowsePanel(QWidget):
         self.cat_filter_btn.refresh_categories(self.conn)
         self._refresh()
 
+    def _import_code(self):
+        """Create a loadout from a pasted base64 share code."""
+        import share_codes
+        from PyQt5.QtWidgets import QMessageBox as _MB
+        code = share_codes.prompt_import_code(self, "Import Gear Loadout")
+        if not code:
+            return
+        data = dg.import_loadout_code(code)
+        if not data:
+            _MB.warning(self, "Invalid Code",
+                        "Could not decode that code. Check you copied it correctly.")
+            return
+        # Merge by name: update if a loadout with this name exists, else insert.
+        existing = self.conn.execute(
+            "SELECT id FROM gear_loadouts WHERE name = ? COLLATE NOCASE",
+            (data["name"],)
+        ).fetchone()
+        if existing:
+            data["id"] = existing["id"]
+        dg.upsert_loadout(self.conn, data)
+        self.refresh()
+        _MB.information(self, "Loadout Imported",
+                        f"Imported loadout '{data.get('name','')}'.")
+
     def _delete_all_gear(self):
         """Delete all gear loadouts after user confirmation."""
         from PyQt5.QtWidgets import QMessageBox as _MB
@@ -914,15 +948,16 @@ class GearEditorPanel(QWidget):
         bar_layout.addWidget(back_btn)
         bar_layout.addStretch()
 
-        # Export (only for existing loadouts — shown/hidden after build)
-        self._bar_exp_btn = QPushButton("📤 Export")
+        # Share code (only for existing loadouts — shown/hidden after build)
+        self._bar_exp_btn = QPushButton("🔗 Share Code")
+        self._bar_exp_btn.setToolTip("Copy a base64 share code for this loadout")
         self._bar_exp_btn.setStyleSheet(
             "QPushButton{background:#0f3460;color:#e0e0e0;border:none;"
             "border-radius:5px;padding:6px 14px;font-size:12px;font-weight:bold;}"
             "QPushButton:hover{background:#4d96ff;}"
         )
-        self._bar_exp_btn.setVisible(_EXPORTER_AVAILABLE and bool(self.loadout_id))
-        self._bar_exp_btn.clicked.connect(self._export)
+        self._bar_exp_btn.setVisible(bool(self.loadout_id))
+        self._bar_exp_btn.clicked.connect(self._share_code)
         bar_layout.addWidget(self._bar_exp_btn)
 
         # Delete (only for existing loadouts)
@@ -1145,10 +1180,16 @@ class GearEditorPanel(QWidget):
         dg.upsert_loadout(self.conn, data)
         self.saved.emit()
 
-    def _export(self):
-        """Export this loadout via the top-bar button."""
-        if _EXPORTER_AVAILABLE and self.loadout_id:
-            _exp.export_gear_loadout(self.conn, self.loadout_id, self)
+    def _share_code(self):
+        """Show a base64 share code for this loadout via the top-bar button."""
+        if not self.loadout_id:
+            return
+        import share_codes
+        full = dg.get_loadout_full(self.conn, self.loadout_id)
+        if not full:
+            return
+        code = dg.export_loadout_code(full)
+        share_codes.show_share_dialog(self, "Gear Loadout Share Code", code)
 
     def _delete(self):
         name = self.name_input.text().strip() or "this loadout"

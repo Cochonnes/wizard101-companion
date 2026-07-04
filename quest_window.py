@@ -480,15 +480,8 @@ class WorldManagementDialog(QDialog):
         self.del_btn.clicked.connect(self._delete_world)
         btn_row.addWidget(self.del_btn)
 
-        if _EXPORTER_AVAILABLE:
-            self.exp_world_btn = QPushButton("📤 Export Selected")
-            self.exp_world_btn.setObjectName("btnUpdate")
-            self.exp_world_btn.setEnabled(False)
-            self.exp_world_btn.setToolTip("Export this world's quests to JSON")
-            self.exp_world_btn.clicked.connect(self._export_world)
-            btn_row.addWidget(self.exp_world_btn)
-        else:
-            self.exp_world_btn = None
+        # Quest exports removed — full data lives in Backup (HUD & Settings).
+        self.exp_world_btn = None
 
         sort_btn = QPushButton("↕ Sort Chronologically")
         sort_btn.setObjectName("btnUpdate")
@@ -627,12 +620,6 @@ class WorldManagementDialog(QDialog):
             self._load()
             self.url_frame.hide()
             self.del_btn.setEnabled(False)
-
-    def _export_world(self):
-        """Export the selected quest world to JSON."""
-        world = self._current_world()
-        if world and _EXPORTER_AVAILABLE:
-            _exp.export_quest_world(self.conn, world["id"], self)
 
     def _sort_chronologically(self):
         """Re-sort the list by the canonical world order from world_order.json."""

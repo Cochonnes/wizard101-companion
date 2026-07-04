@@ -1,26 +1,48 @@
-# W101 Boss Wiki - Local Edition
+# Wizard101 Companion — dependencies
 # Install: pip install -r requirements.txt
+#
+# Cross-platform: works on Windows, Linux and macOS.
+# The only external non-pip requirement is Google Chrome / Chromium
+# (used by nodriver to bypass Cloudflare). On Linux install e.g.
+#   sudo apt install chromium-browser        (Debian/Ubuntu)
+#   sudo dnf install chromium                 (Fedora)
 
-# Core GUI
+# ── Core GUI ──────────────────────────────────────────────────
 PyQt5>=5.15.0
 
-# Database builder — nodriver opens real Chrome to bypass Cloudflare,
-# then we use the cookies with requests to hit the MediaWiki API
+# ── Database builder / scrapers ───────────────────────────────
+# nodriver opens a real Chrome/Chromium to bypass Cloudflare, then
+# makes all MediaWiki API calls via XHR from inside that session.
 nodriver>=0.38
 requests>=2.28.0
 beautifulsoup4>=4.12.0
 
-# Fallback scraper (used by boss_wiki.py GUI "Fetch from Wiki" button)
+# Fallback scraper (boss_wiki.py "Fetch from Wiki" button)
 cloudscraper>=1.2.60
 
-# Optional: OCR auto-detect (full screen scanning)
-# Uncomment to enable:
-# easyocr>=1.7.0
-# numpy>=1.24.0
-# Pillow>=10.0.0
+# ── OCR auto-detect (optional, full-screen boss scanning) ─────
+# Omit these if you don't need OCR — the app still runs without them.
+# torch: on Windows the installer pins torch==2.6.0 (a DLL init bug
+#   affects 2.7+ with PyQt5). On Linux/macOS any CPU build works.
+easyocr>=1.7.0
+numpy>=1.24.0
+Pillow>=10.0.0
 
-# Optional: OCR auto-detect (full screen scanning)
-# Uncomment to enable:
-# easyocr>=1.7.0
-# numpy>=1.24.0
-# Pillow>=10.0.0
+# Cross-platform screen capture for OCR. Preferred over PIL.ImageGrab
+# because it works on Linux (X11 + Wayland/XWayland) and macOS as well
+# as Windows; Pillow.ImageGrab is kept only as a fallback.
+mss>=9.0.0
+
+# Optional: faster OCR fuzzy matching
+python-Levenshtein>=0.21.0
+
+# ── Spell card icon recognition (icon_detector.py) ────────────
+# Real OpenCV template matching against reference icon images.
+opencv-python-headless>=4.8.0
+
+# ── Global hotkeys ────────────────────────────────────────────
+# 'keyboard' gives OS-wide hotkeys that fire even when the game has
+# focus. On Windows it works out of the box. On Linux it requires
+# running as root (it reads /dev/input); without root the app falls
+# back automatically to Qt shortcuts that fire only when focused.
+keyboard>=0.13.5

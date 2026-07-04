@@ -27,6 +27,17 @@ from PyQt5.QtCore import Qt, pyqtSignal, QStringListModel
 from PyQt5.QtGui import QFont, QDoubleValidator, QIntValidator
 
 import database_calc as dc
+# Optional: spell/deck linking for character profiles
+try:
+    import database_spells as _ds
+    import database_gear as _dg
+    _CHAR_LINKING = True
+except ImportError:
+    _CHAR_LINKING = False
+    _ds = None
+    _dg = None
+
+
 
 try:
     import exporter as _exp
@@ -1305,6 +1316,398 @@ class WizardEditorPanel(QWidget):
         self.saved.emit()
 
 
+
+
+
+
+
+
+# ─── CHARACTER LINKING HELPER (Decks + Gear) — v3 ────────────────────
+# Round-counter-style cards, click-to-navigate, larger deck card-image
+# previews (64x88), and a custom dark-themed picker dialog replacing
+# the default unstyled QInputDialog.getItem().
+
+class _ClickableLinkCard(QFrame):
+    """
+    QFrame that emits 'clicked' on left-click, matching the round
+    counter / guide card visual style. Uses a proper signal (never a
+    direct mousePressEvent lambda assignment — that pattern previously
+    crashed the app with sipBadCatcherResult when a handler's lambda
+    body evaluated to a non-None return value).
+    """
+    clicked = pyqtSignal()
+
+    def mousePressEvent(self, event):
+        if event.button() == Qt.LeftButton:
+            self.clicked.emit()
+        super().mousePressEvent(event)
+
+
+class _StyledPickDialog(QDialog):
+    """
+    Dark-themed replacement for QInputDialog.getItem(), used to pick a
+    deck or gear loadout to link. QInputDialog.getItem() renders with
+    default light/unstyled OS chrome that clashes badly with the rest
+    of the app's dark theme.
+    """
+    def __init__(self, title, label, items, parent=None):
+        super().__init__(parent)
+        self.setWindowTitle(title)
+        self.setStyleSheet(
+            "QDialog{background:#1a1a2e;}"
+            "QLabel{color:#e0e0e0;background:transparent;font-size:12px;}"
+            "QComboBox{background:#0d1b2a;color:#e0e0e0;border:1px solid #1f3460;"
+            "border-radius:5px;padding:6px 8px;font-size:12px;}"
+            "QComboBox::drop-down{border:none;}"
+            "QComboBox QAbstractItemView{background:#0d1b2a;color:#e0e0e0;"
+            "selection-background-color:#1f4a80;border:1px solid #1f3460;}"
+            "QPushButton{background:#0f3460;color:#e0e0e0;border:none;"
+            "border-radius:5px;padding:6px 16px;font-size:12px;}"
+            "QPushButton:hover{background:#4d96ff;}"
+        )
+        self.resize(340, 130)
+        v = QVBoxLayout(self)
+        v.setContentsMargins(16, 16, 16, 12)
+        v.setSpacing(10)
+
+        lbl = QLabel(label)
+        v.addWidget(lbl)
+
+        self._combo = QComboBox()
+        self._combo.addItems(items)
+        v.addWidget(self._combo)
+
+        v.addStretch()
+        btn_row = QHBoxLayout()
+        btn_row.addStretch()
+        ok_btn = QPushButton("OK")
+        ok_btn.clicked.connect(self.accept)
+        cancel_btn = QPushButton("Cancel")
+        cancel_btn.setStyleSheet(
+            "QPushButton{background:#3a1f2e;color:#e0e0e0;border:none;"
+            "border-radius:5px;padding:6px 16px;font-size:12px;}"
+            "QPushButton:hover{background:#5c1b1b;}"
+        )
+        cancel_btn.clicked.connect(self.reject)
+        btn_row.addWidget(cancel_btn)
+        btn_row.addWidget(ok_btn)
+        v.addLayout(btn_row)
+
+    def selected_index(self) -> int:
+        return self._combo.currentIndex()
+
+    @staticmethod
+    def get_item(parent, title, label, items):
+        """Drop-in style replacement for QInputDialog.getItem() ->
+        returns (selected_text, ok_bool)."""
+        dlg = _StyledPickDialog(title, label, items, parent)
+        result = dlg.exec_()
+        if result == QDialog.Accepted and items:
+            return items[dlg.selected_index()], True
+        return None, False
+
+
+def _build_character_links_widget(conn, wizard_id):
+    """
+    Returns a QWidget showing linked Decks and Gear Loadouts for a
+    wizard, styled to match the round-counter/guide cards, with
+    click-to-navigate and Add-link / Unlink controls.
+    """
+    import os as _os_local
+    from PyQt5.QtGui import QColor, QPixmap
+    import database_spells as _ds_local
+    try:
+        import database_gear as _dg_local
+    except ImportError:
+        _dg_local = None
+
+    SCHOOL_COLORS_LOCAL = {
+        "Fire": "#e05a00", "Ice": "#4db8ff", "Storm": "#9b59b6",
+        "Myth": "#d4ac0d", "Life": "#27ae60", "Death": "#8e44ad",
+        "Balance": "#c8a000", "Star": "#f0c040", "Moon": "#a0a0d0",
+        "Sun": "#ffaa00", "Shadow": "#5d6d9e",
+    }
+
+    outer = QWidget()
+    outer.setStyleSheet("background:transparent;")
+    ov = QVBoxLayout(outer)
+    ov.setContentsMargins(0, 8, 0, 0)
+    ov.setSpacing(10)
+
+    def _section_header(text, color):
+        lbl = QLabel(text)
+        lbl.setStyleSheet(
+            f"color:{color};font-size:10px;font-weight:bold;"
+            "letter-spacing:1px;background:transparent;"
+        )
+        return lbl
+
+    def _go_to_section(section, select_id=None):
+        """Walk up to the main BossWikiApp window and navigate, then
+        try to auto-select the matching deck/gear item on that page."""
+        win = outer.window()
+        if not hasattr(win, "_nav_to"):
+            return
+        win._nav_to(section)
+        if section == "decks" and select_id is not None:
+            dbp = getattr(win, "_deck_builder_page", None)
+            if dbp is not None and hasattr(dbp, "_deck_list"):
+                for i in range(dbp._deck_list.count()):
+                    it = dbp._deck_list.item(i)
+                    if it.data(Qt.UserRole) == select_id:
+                        dbp._deck_list.setCurrentRow(i)
+                        break
+
+    # ════════════════════════════════════════════════════════════════
+    # LINKED DECKS
+    # ════════════════════════════════════════════════════════════════
+    ov.addWidget(_section_header("🃏 LINKED DECKS", "#4d96ff"))
+
+    decks_holder = QWidget()
+    decks_holder.setStyleSheet("background:transparent;")
+    decks_v = QVBoxLayout(decks_holder)
+    decks_v.setContentsMargins(0, 0, 0, 0)
+    decks_v.setSpacing(8)
+    ov.addWidget(decks_holder)
+
+    def _build_deck_card(dk):
+        card = _ClickableLinkCard()
+        card.setCursor(Qt.PointingHandCursor)
+        card.setStyleSheet(
+            "QFrame{background:#16213e;border:1px solid #0f3460;border-radius:8px;}"
+            "QFrame:hover{border:1px solid #4d96ff;}"
+        )
+        cv = QVBoxLayout(card)
+        cv.setContentsMargins(12, 10, 12, 10)
+        cv.setSpacing(6)
+
+        # Header: name (school-colored) + school badge + tag badge + unlink
+        hdr_row = QHBoxLayout()
+        hdr_row.setSpacing(6)
+        school = dk.get("school", "")
+        school_color = SCHOOL_COLORS_LOCAL.get(school, "#888888")
+
+        name_lbl = QLabel(f"<b style='color:{school_color}'>{dk.get('name','Unnamed')}</b>")
+        name_lbl.setStyleSheet("font-size:13px;background:transparent;")
+        hdr_row.addWidget(name_lbl)
+
+        if school:
+            sb = QLabel(school)
+            sb.setStyleSheet(
+                f"background:{school_color}22;color:{school_color};"
+                f"border:1px solid {school_color}55;border-radius:4px;"
+                "padding:1px 8px;font-size:10px;font-weight:bold;"
+            )
+            hdr_row.addWidget(sb)
+
+        tag = dk.get("tag", "")
+        if tag:
+            tb = QLabel(tag)
+            tb.setStyleSheet(
+                "background:#2a1a00;color:#ffd93d;border:1px solid #ffd93d55;"
+                "border-radius:4px;padding:1px 8px;font-size:10px;"
+            )
+            hdr_row.addWidget(tb)
+
+        hdr_row.addStretch()
+
+        unlink_btn = QPushButton("Unlink")
+        unlink_btn.setFixedWidth(54)
+        unlink_btn.setStyleSheet(
+            "QPushButton{background:#5c1b1b;color:#e0e0e0;border:none;"
+            "border-radius:3px;padding:3px 6px;font-size:10px;}"
+            "QPushButton:hover{background:#e94560;}"
+        )
+        _did = dk["id"]
+        unlink_btn.clicked.connect(
+            lambda _, did=_did: (
+                _ds_local.unlink_deck_from_wizard(conn, wizard_id, did),
+                _refresh_decks(),
+            )
+        )
+        hdr_row.addWidget(unlink_btn)
+        cv.addLayout(hdr_row)
+
+        # Card image previews (main deck only) — enlarged to 64x88
+        cards = [c for c in dk.get("cards", []) if not c.get("is_side_deck")]
+        if cards:
+            img_scroll = QScrollArea()
+            img_scroll.setWidgetResizable(True)
+            img_scroll.setFixedHeight(96)
+            img_scroll.setHorizontalScrollBarPolicy(Qt.ScrollBarAsNeeded)
+            img_scroll.setVerticalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
+            img_scroll.setStyleSheet("QScrollArea{border:none;background:transparent;}")
+            img_row_w = QWidget()
+            img_row_w.setStyleSheet("background:transparent;")
+            img_row = QHBoxLayout(img_row_w)
+            img_row.setContentsMargins(0, 0, 0, 0)
+            img_row.setSpacing(6)
+            for card_entry in cards[:40]:
+                sp_name = card_entry.get("spell_name", "")
+                qty = card_entry.get("quantity", 1)
+                sp_data = _ds_local.get_spell(conn, sp_name)
+                thumb = QLabel()
+                thumb.setFixedSize(64, 88)
+                thumb.setAlignment(Qt.AlignCenter)
+                img_path = sp_data.get("image_path") if sp_data else None
+                if img_path and _os_local.path.exists(img_path):
+                    pix = QPixmap(img_path).scaled(
+                        62, 86, Qt.KeepAspectRatio, Qt.SmoothTransformation
+                    )
+                else:
+                    pix = QPixmap(62, 86)
+                    pix.fill(QColor(school_color))
+                thumb.setPixmap(pix)
+                qty_txt = f" ×{qty}" if qty > 1 else ""
+                thumb.setToolTip(f"{sp_name}{qty_txt}")
+                thumb.setStyleSheet(
+                    f"background:transparent;border:1px solid {school_color}33;"
+                    "border-radius:4px;"
+                )
+                img_row.addWidget(thumb)
+            img_row.addStretch()
+            img_scroll.setWidget(img_row_w)
+            cv.addWidget(img_scroll)
+        else:
+            empty_lbl = QLabel("(no cards in this deck yet)")
+            empty_lbl.setStyleSheet("color:#555;font-size:10px;background:transparent;")
+            cv.addWidget(empty_lbl)
+
+        card.clicked.connect(lambda did=_did: _go_to_section("decks", did))
+        return card
+
+    def _refresh_decks():
+        while decks_v.count():
+            it = decks_v.takeAt(0)
+            if it.widget():
+                it.widget().deleteLater()
+        ld = _ds_local.get_decks_for_wizard(conn, wizard_id)
+        if not ld:
+            empty = QLabel("No decks linked yet.")
+            empty.setStyleSheet("color:#555;font-size:11px;background:transparent;")
+            decks_v.addWidget(empty)
+        for dk in ld:
+            decks_v.addWidget(_build_deck_card(dk))
+        add_deck_btn = QPushButton("＋ Link a Deck")
+        add_deck_btn.setStyleSheet(
+            "QPushButton{background:transparent;color:#4d96ff;"
+            "border:1px dashed #1f3a6e;border-radius:4px;padding:6px;font-size:10px;}"
+            "QPushButton:hover{background:#1a3060;}"
+        )
+        add_deck_btn.clicked.connect(_on_link_deck)
+        decks_v.addWidget(add_deck_btn)
+
+    def _on_link_deck():
+        all_decks = _ds_local.list_decks(conn)
+        if not all_decks:
+            QMessageBox.information(
+                None, "No Decks",
+                "No decks exist yet. Create one in the Deck Builder first."
+            )
+            return
+        names = [f"{d['name']} ({d['school']})" for d in all_decks]
+        choice, ok = _StyledPickDialog.get_item(
+            None, "Link Deck", "Select a deck to link:", names
+        )
+        if ok and choice:
+            idx = names.index(choice)
+            _ds_local.link_deck_to_wizard(conn, wizard_id, all_decks[idx]["id"])
+            _refresh_decks()
+
+    _refresh_decks()
+
+    # ════════════════════════════════════════════════════════════════
+    # LINKED GEAR LOADOUTS
+    # ════════════════════════════════════════════════════════════════
+    ov.addWidget(_section_header("🎒 LINKED GEAR SETS", "#4db8ff"))
+
+    gear_holder = QWidget()
+    gear_holder.setStyleSheet("background:transparent;")
+    gear_v = QVBoxLayout(gear_holder)
+    gear_v.setContentsMargins(0, 0, 0, 0)
+    gear_v.setSpacing(8)
+    ov.addWidget(gear_holder)
+
+    def _build_gear_card(g):
+        card = _ClickableLinkCard()
+        card.setCursor(Qt.PointingHandCursor)
+        card.setStyleSheet(
+            "QFrame{background:#16213e;border:1px solid #0f3460;border-radius:8px;}"
+            "QFrame:hover{border:1px solid #4db8ff;}"
+        )
+        cv = QHBoxLayout(card)
+        cv.setContentsMargins(12, 10, 12, 10)
+        cv.setSpacing(8)
+
+        name_lbl = QLabel(f"<b style='color:#4db8ff'>{g.get('name','Unnamed Loadout')}</b>")
+        name_lbl.setStyleSheet("font-size:13px;background:transparent;")
+        cv.addWidget(name_lbl, stretch=1)
+
+        unlink_btn = QPushButton("Unlink")
+        unlink_btn.setFixedWidth(54)
+        unlink_btn.setStyleSheet(
+            "QPushButton{background:#5c1b1b;color:#e0e0e0;border:none;"
+            "border-radius:3px;padding:3px 6px;font-size:10px;}"
+            "QPushButton:hover{background:#e94560;}"
+        )
+        _gid = g["id"]
+        unlink_btn.clicked.connect(
+            lambda _, gid=_gid: (
+                _ds_local.unlink_gear_from_wizard(conn, wizard_id, gid),
+                _refresh_gear(),
+            )
+        )
+        cv.addWidget(unlink_btn)
+
+        card.clicked.connect(lambda gid=_gid: _go_to_section("gear_guide"))
+        return card
+
+    def _refresh_gear():
+        while gear_v.count():
+            it = gear_v.takeAt(0)
+            if it.widget():
+                it.widget().deleteLater()
+        lg = _ds_local.get_gear_for_wizard(conn, wizard_id)
+        if not lg:
+            empty = QLabel("No gear sets linked yet.")
+            empty.setStyleSheet("color:#555;font-size:11px;background:transparent;")
+            gear_v.addWidget(empty)
+        for g in lg:
+            gear_v.addWidget(_build_gear_card(g))
+        add_gear_btn = QPushButton("＋ Link a Gear Set")
+        add_gear_btn.setStyleSheet(
+            "QPushButton{background:transparent;color:#4db8ff;"
+            "border:1px dashed #1f3a6e;border-radius:4px;padding:6px;font-size:10px;}"
+            "QPushButton:hover{background:#1a3060;}"
+        )
+        add_gear_btn.clicked.connect(_on_link_gear)
+        gear_v.addWidget(add_gear_btn)
+
+    def _on_link_gear():
+        if _dg_local is None:
+            QMessageBox.information(None, "Unavailable", "database_gear.py not found.")
+            return
+        loadouts = _dg_local.list_loadouts(conn)
+        if not loadouts:
+            QMessageBox.information(
+                None, "No Gear Sets",
+                "No gear loadouts exist. Create one in Gear Guide first."
+            )
+            return
+        names = [g["name"] for g in loadouts]
+        choice, ok = _StyledPickDialog.get_item(
+            None, "Link Gear Set", "Select a gear set to link:", names
+        )
+        if ok and choice:
+            idx = names.index(choice)
+            _ds_local.link_gear_to_wizard(conn, wizard_id, loadouts[idx]["id"])
+            _refresh_gear()
+
+    _refresh_gear()
+    ov.addStretch()
+    return outer
+
+
 class CharacterManagerWidget(QWidget):
     nav_hub = pyqtSignal()
 
@@ -1472,6 +1875,11 @@ class CharacterManagerWidget(QWidget):
         editor = WizardEditorPanel(self.conn, wid)
         editor.saved.connect(self._after_save)
         editor.cancelled.connect(lambda: self.stack.setCurrentIndex(0))
+        # Linked Decks + Gear sections
+        if _CHAR_LINKING and wid is not None:
+            _lnk = _build_character_links_widget(self.conn, wid)
+            il.addWidget(_lnk)
+        il.addStretch()
         il.addWidget(editor)
         scroll.setWidget(inner)
         v.addWidget(scroll, stretch=1)

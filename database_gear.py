@@ -217,3 +217,75 @@ def delete_all_gear(conn) -> int:
     conn.execute("DELETE FROM gear_loadouts")
     conn.commit()
     return count
+
+
+# ═══════════════════════════════════════════════════════════════
+# SHARE CODE  (base64 encode/decode)  — mirrors deck share codes
+# ═══════════════════════════════════════════════════════════════
+
+def export_loadout_code(loadout: dict) -> str:
+    """Encode a full loadout (from get_loadout_full) as a compact base64 code."""
+    import base64
+    payload = json.dumps({
+        "n":    loadout.get("name", ""),
+        "s":    loadout.get("school", "Universal"),
+        "lmin": loadout.get("level_min", 1),
+        "lmax": loadout.get("level_max", 170),
+        "w":    loadout.get("world", ""),
+        "cat":  loadout.get("category", ""),
+        "no":   loadout.get("notes", ""),
+        "sl": [
+            {
+                "n": s.get("slot_name", ""),
+                "o": [
+                    [o.get("label", "optimal"),
+                     o.get("item_name", ""),
+                     o.get("stats_notes", "")]
+                    for o in s.get("options", [])
+                ],
+            }
+            for s in loadout.get("slots", [])
+        ],
+        "p": [
+            [p.get("stat_name", ""), p.get("stat_value", "")]
+            for p in loadout.get("pet_stats", [])
+        ],
+    }, separators=(",", ":"), ensure_ascii=False)
+    return base64.b64encode(payload.encode("utf-8")).decode("ascii")
+
+
+def import_loadout_code(code: str) -> Optional[dict]:
+    """Decode a base64 loadout code into an upsert-ready dict. None on error."""
+    import base64
+    try:
+        p = json.loads(base64.b64decode(code.strip().encode("ascii")).decode("utf-8"))
+        return {
+            "name":      p.get("n", "Imported Loadout"),
+            "school":    p.get("s", "Universal"),
+            "level_min": p.get("lmin", 1),
+            "level_max": p.get("lmax", 170),
+            "world":     p.get("w", ""),
+            "category":  p.get("cat", ""),
+            "notes":     p.get("no", ""),
+            "slots": [
+                {
+                    "slot_name": s.get("n", ""),
+                    "options": [
+                        {
+                            "label":       (o[0] if len(o) > 0 else "optimal"),
+                            "item_name":   (o[1] if len(o) > 1 else ""),
+                            "stats_notes": (o[2] if len(o) > 2 else ""),
+                        }
+                        for o in s.get("o", [])
+                    ],
+                }
+                for s in p.get("sl", [])
+            ],
+            "pet_stats": [
+                {"stat_name": (ps[0] if len(ps) > 0 else ""),
+                 "stat_value": (ps[1] if len(ps) > 1 else "")}
+                for ps in p.get("p", [])
+            ],
+        }
+    except Exception:
+        return None

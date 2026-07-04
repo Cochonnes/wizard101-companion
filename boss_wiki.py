@@ -26,8 +26,8 @@ from PyQt5.QtWidgets import (
     QSizePolicy, QTableWidget, QTableWidgetItem, QHeaderView,
     QStackedWidget, QGridLayout, QAbstractItemView
 )
-from PyQt5.QtCore import Qt, QProcess, QTimer, QStringListModel
-from PyQt5.QtGui import QFont, QColor, QBrush
+from PyQt5.QtCore import Qt, QProcess, QTimer, QStringListModel, QThread, pyqtSignal
+from PyQt5.QtGui import QFont, QColor, QBrush, QPixmap, QIcon
 
 # ═══════════════════════════════════════════════════════════════
 # FIRST-RUN TEMPLATE SEEDING  (must run BEFORE database imports
@@ -91,6 +91,12 @@ except ImportError:
     OverlayManager = None
     overlay_settings = None
 
+# Cloudflare-challenge alert (shared marker + GUI sound player)
+try:
+    import cf_alert
+except Exception:
+    cf_alert = None
+
 # Optional Quest Tracker
 try:
     from quest_window import QuestTrackerWindow
@@ -106,6 +112,22 @@ try:
 except ImportError:
     GEAR_GUIDE_AVAILABLE = False
     GearGuideWidget = None
+
+# Spell Browser
+try:
+    from spell_browser import SpellBrowserWidget
+    SPELL_BROWSER_AVAILABLE = True
+except ImportError:
+    SPELL_BROWSER_AVAILABLE = False
+    SpellBrowserWidget = None
+
+# Deck Builder
+try:
+    from deck_builder import DeckBuilderWidget
+    DECK_BUILDER_AVAILABLE = True
+except ImportError:
+    DECK_BUILDER_AVAILABLE = False
+    DeckBuilderWidget = None
 
 # Damage Calculator + Characters
 try:
@@ -153,6 +175,93 @@ logger = logging.getLogger(__name__)
 APP_VERSION = "1.3.0"
 # Set this to your GitHub repo, e.g. "YourUsername/Wizard101Companion"
 GITHUB_REPO = "Cochonnes/wizard101-companion"
+
+
+# [hub_settings_patcher v1]
+# ── Hub order / visibility / favorites persistence ───────────────────
+_HUB_ORDER_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                "hub_order.json")
+
+_HUB_DEFAULTS = [
+    {"id": "boss_wiki",      "icon": "👾",  "title": "Boss Wiki",
+     "desc": "Browse bosses, cheats, spells and drops by world",
+     "title_color": "#e94560", "action_key": "boss_wiki",
+     "favorite": False, "hidden": False},
+    {"id": "gear_guide",     "icon": "🎒",  "title": "Gear Guide",
+     "desc": "Build and browse gear loadouts for every school and level range",
+     "title_color": "#4db8ff", "action_key": "gear_guide",
+     "favorite": False, "hidden": False},
+    {"id": "damage_calc",    "icon": "🧮",  "title": "Damage Calculator",
+     "desc": "Quick damage maths with blades, traps, enchants and boss resists",
+     "title_color": "#6bcb77", "action_key": "damage_calc",
+     "favorite": False, "hidden": False},
+    {"id": "characters",     "icon": "🧙",  "title": "Characters",
+     "desc": "Create and manage your wizards and their stats for the calculator",
+     "title_color": "#ffd93d", "action_key": "characters",
+     "favorite": False, "hidden": False},
+    {"id": "quest_tracker",  "icon": "🗺",  "title": "Quest Tracker",
+     "desc": "Track active quests and monitor objectives",
+     "title_color": "#4d96ff", "action_key": "quest_tracker",
+     "favorite": False, "hidden": False},
+    {"id": "round_counters", "icon": "⏱",  "title": "Round Counters",
+     "desc": "Manage cheat-tracking round counters linked to bosses",
+     "title_color": "#ffd93d", "action_key": "boss_wiki_counters",
+     "favorite": False, "hidden": False},
+    {"id": "strategy_guides","icon": "📖",  "title": "Strategy Guides",
+     "desc": "Create and browse boss-linked strategy guides with tables",
+     "title_color": "#c39bd3", "action_key": "boss_wiki_guides",
+     "favorite": False, "hidden": False},
+    {"id": "spell_browser",  "icon": "✨",  "title": "Spell Browser",
+     "desc": "Browse, search and fetch spell cards by school with OCR data",
+     "title_color": "#c39bd3", "action_key": "spells",
+     "favorite": False, "hidden": False},
+    {"id": "deck_builder",   "icon": "🃏",  "title": "Deck Builder",
+     "desc": "Create, edit and share deck presets with base64 codes",
+     "title_color": "#6bcb77", "action_key": "deck_builder",
+     "favorite": False, "hidden": False},
+    {"id": "hud_settings",   "icon": "⚙",   "title": "HUD & Settings",
+     "desc": "Configure overlay windows, icon presets, world order and display preferences",
+     "title_color": "#aaaaaa", "action_key": "settings",
+     "favorite": False, "hidden": False},
+]
+
+
+def _load_hub_order() -> list:
+    """Load hub button order from hub_order.json, merging with defaults."""
+    saved = []
+    if os.path.exists(_HUB_ORDER_FILE):
+        try:
+            with open(_HUB_ORDER_FILE, "r", encoding="utf-8") as f:
+                saved = json.load(f)
+        except Exception:
+            saved = []
+
+    defaults_by_id = {d["id"]: d for d in _HUB_DEFAULTS}
+    if not saved:
+        return list(_HUB_DEFAULTS)
+
+    # Merge: preserve saved order/favorite/hidden, add any new defaults
+    saved_ids = {s["id"] for s in saved}
+    result = []
+    for s in saved:
+        if s["id"] in defaults_by_id:
+            merged = dict(defaults_by_id[s["id"]])
+            merged["favorite"] = s.get("favorite", False)
+            merged["hidden"]   = s.get("hidden", False)
+            result.append(merged)
+    for d in _HUB_DEFAULTS:
+        if d["id"] not in saved_ids:
+            result.append(dict(d))
+    return result
+
+
+def _save_hub_order(order: list):
+    """Persist hub order to hub_order.json."""
+    payload = [{"id": b["id"], "favorite": b.get("favorite", False),
+                "hidden": b.get("hidden", False)} for b in order]
+    with open(_HUB_ORDER_FILE, "w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2)
+
 
 
 def confirm_delete(parent, title: str, item_name: str, extra_detail: str = "") -> bool:
@@ -740,6 +849,13 @@ class RoundCounterPanel(QWidget):
         self._hud_btn.toggled.connect(self._on_hud_toggled)
         hdr.addWidget(self._hud_btn)
 
+        imp_btn = QPushButton("📥 Import Code")
+        imp_btn.setToolTip("Create a counter from a base64 share code")
+        imp_btn.setStyleSheet("background:#0f3460;color:#e0e0e0;border:none;border-radius:5px;"
+                              "padding:6px 14px;font-weight:bold;")
+        imp_btn.clicked.connect(self._import_counter_code)
+        hdr.addWidget(imp_btn)
+
         new_btn = QPushButton("＋ New Counter")
         new_btn.setStyleSheet("background:#1b5c38;color:#e0e0e0;border:none;border-radius:5px;"
                               "padding:6px 14px;font-weight:bold;")
@@ -818,18 +934,16 @@ class RoundCounterPanel(QWidget):
         info_col.addWidget(info)
         layout.addLayout(info_col, stretch=1)
 
-        # Right: Export + Edit + Delete
-        if EXPORTER_AVAILABLE:
-            exp_btn = QPushButton("📤")
-            exp_btn.setStyleSheet("background:#0f3460;color:#e0e0e0;border:none;border-radius:4px;"
-                                  "padding:5px 10px;font-size:13px;")
-            exp_btn.setFixedWidth(36)
-            exp_btn.setToolTip(f"Export '{counter['name']}'")
-            exp_btn.clicked.connect(
-                lambda checked=False, c=counter:
-                    exp.export_round_counter(self.conn, c['id'], self)
-            )
-            layout.addWidget(exp_btn)
+        # Right: Share + Edit + Delete
+        share_btn = QPushButton("🔗")
+        share_btn.setStyleSheet("background:#0f3460;color:#e0e0e0;border:none;border-radius:4px;"
+                                "padding:5px 10px;font-size:13px;")
+        share_btn.setFixedWidth(36)
+        share_btn.setToolTip(f"Share '{counter['name']}' as a code")
+        share_btn.clicked.connect(
+            lambda checked=False, c=counter: self._share_counter(c)
+        )
+        layout.addWidget(share_btn)
 
         edit_btn = QPushButton("✏ Edit")
         edit_btn.setStyleSheet("background:#0f3460;color:#e0e0e0;border:none;border-radius:4px;"
@@ -876,6 +990,30 @@ class RoundCounterPanel(QWidget):
                           "This will also unlink it from all bosses."):
             db.delete_round_counter(self.conn, counter['id'])
             self.refresh()
+
+    def _share_counter(self, counter: dict):
+        import share_codes
+        full = db.get_round_counter(self.conn, counter['id'])
+        if not full:
+            return
+        code = db.export_counter_code(full)
+        share_codes.show_share_dialog(self, "Round Counter Share Code", code)
+
+    def _import_counter_code(self):
+        import share_codes, importer
+        code = share_codes.prompt_import_code(self, "Import Round Counter")
+        if not code:
+            return
+        data = db.import_counter_code(code)
+        if not data:
+            QMessageBox.warning(self, "Invalid Code",
+                                "Could not decode that code. Check you copied it correctly.")
+            return
+        importer._import_counter(self.conn, data)
+        self.conn.commit()
+        self.refresh()
+        QMessageBox.information(self, "Counter Imported",
+                                f"Imported counter '{data.get('name','')}'.")
 
     def update_boss_names(self, boss_names: list):
         self.boss_names = boss_names
@@ -1385,6 +1523,13 @@ class GuidePanel(QWidget):
         self._hud_btn.toggled.connect(self._on_hud_toggled)
         hdr.addWidget(self._hud_btn)
 
+        imp_btn = QPushButton("📥 Import Code")
+        imp_btn.setToolTip("Create a guide from a base64 share code")
+        imp_btn.setStyleSheet("background:#0f3460;color:#e0e0e0;border:none;border-radius:5px;"
+                              "padding:6px 14px;font-weight:bold;")
+        imp_btn.clicked.connect(self._import_guide_code)
+        hdr.addWidget(imp_btn)
+
         new_btn = QPushButton("＋ New Guide")
         new_btn.setStyleSheet("background:#1b3a6e;color:#e0e0e0;border:none;border-radius:5px;"
                               "padding:6px 14px;font-weight:bold;")
@@ -1464,17 +1609,15 @@ class GuidePanel(QWidget):
         info_col.addWidget(info)
         layout.addLayout(info_col, stretch=1)
 
-        if EXPORTER_AVAILABLE:
-            exp_btn_g = QPushButton("📤")
-            exp_btn_g.setStyleSheet("background:#1f3a6e;color:#e0e0e0;border:none;border-radius:4px;"
-                                    "padding:5px 10px;font-size:13px;")
-            exp_btn_g.setFixedWidth(36)
-            exp_btn_g.setToolTip(f"Export '{guide['name']}'")
-            exp_btn_g.clicked.connect(
-                lambda checked=False, g=guide:
-                    exp.export_guide(self.conn, g['id'], self)
-            )
-            layout.addWidget(exp_btn_g)
+        share_btn_g = QPushButton("🔗")
+        share_btn_g.setStyleSheet("background:#1f3a6e;color:#e0e0e0;border:none;border-radius:4px;"
+                                  "padding:5px 10px;font-size:13px;")
+        share_btn_g.setFixedWidth(36)
+        share_btn_g.setToolTip(f"Share '{guide['name']}' as a code")
+        share_btn_g.clicked.connect(
+            lambda checked=False, g=guide: self._share_guide(g)
+        )
+        layout.addWidget(share_btn_g)
 
         edit_btn = QPushButton("✏ Edit")
         edit_btn.setStyleSheet("background:#1f3a6e;color:#e0e0e0;border:none;border-radius:4px;"
@@ -1519,6 +1662,30 @@ class GuidePanel(QWidget):
         if confirm_delete(self, "Delete Guide", guide['name']):
             db.delete_guide(self.conn, guide['id'])
             self.refresh()
+
+    def _share_guide(self, guide: dict):
+        import share_codes
+        full = db.get_guide(self.conn, guide['id'])
+        if not full:
+            return
+        code = db.export_guide_code(full)
+        share_codes.show_share_dialog(self, "Strategy Guide Share Code", code)
+
+    def _import_guide_code(self):
+        import share_codes, importer
+        code = share_codes.prompt_import_code(self, "Import Strategy Guide")
+        if not code:
+            return
+        data = db.import_guide_code(code)
+        if not data:
+            QMessageBox.warning(self, "Invalid Code",
+                                "Could not decode that code. Check you copied it correctly.")
+            return
+        importer._import_guide(self.conn, data)
+        self.conn.commit()
+        self.refresh()
+        QMessageBox.information(self, "Guide Imported",
+                                f"Imported guide '{data.get('name','')}'.")
 
     def update_boss_names(self, boss_names: list):
         self.boss_names = boss_names
@@ -2072,6 +2239,391 @@ class WorldSettingsManager(QDialog):
 # MAIN WINDOW
 # ═══════════════════════════════════════════════════════════════
 
+
+from PyQt5.QtCore import pyqtSignal as _pyqtSignal
+
+class IconPresetManagerWidget(QWidget):
+    """
+    Full CRUD panel for icon presets — create, rename, change description,
+    change/add image, reorder, delete. Lives as a sub-page inside
+    HUD & Settings. Follows the PresetEditorPanel pattern from damage_calc.py.
+    """
+    changed = _pyqtSignal()
+
+    def __init__(self, conn, parent=None):
+        super().__init__(parent)
+        self.conn = conn
+        self._build()
+        self._refresh()
+
+    def _build(self):
+        root = QVBoxLayout(self)
+        root.setContentsMargins(12, 12, 12, 12)
+        root.setSpacing(10)
+
+        hdr = QHBoxLayout()
+        title = QLabel("🔍 Icon Preset Library")
+        title.setStyleSheet("color:#c39bd3;font-size:14px;font-weight:bold;background:transparent;")
+        hdr.addWidget(title)
+        hdr.addStretch()
+        add_btn = QPushButton("＋ New Preset")
+        add_btn.setStyleSheet(
+            "QPushButton{background:#3a1f60;color:#c39bd3;border:none;"
+            "border-radius:5px;padding:5px 12px;font-size:11px;}"
+            "QPushButton:hover{background:#6a3fa0;}"
+        )
+        add_btn.clicked.connect(self._on_add)
+        hdr.addWidget(add_btn)
+        root.addLayout(hdr)
+
+        note = QLabel(
+            "These presets appear in the Spell Browser's 'Detected Icons' legend, "
+            "and their image is what the visual detector matches against spell cards. "
+            "Use a small, tightly-cropped PNG. Drag rows to reorder (manual sort only). "
+            "Right-click to edit or delete."
+        )
+        note.setWordWrap(True)
+        note.setStyleSheet("color:#555;font-size:10px;background:transparent;")
+        root.addWidget(note)
+
+        # ── Search + sort controls ───────────────────────────────────
+        self._sort_mode = "manual"   # "manual" | "az" | "za"
+        tools = QHBoxLayout()
+        tools.setSpacing(6)
+        self._search = QLineEdit()
+        self._search.setPlaceholderText("🔍 Search presets…")
+        self._search.setClearButtonEnabled(True)
+        self._search.setStyleSheet(
+            "QLineEdit{background:#0d1b2a;color:#e0e0e0;border:1px solid #1f3460;"
+            "border-radius:4px;padding:5px 8px;font-size:11px;}"
+            "QLineEdit:focus{border-color:#c39bd3;}"
+        )
+        self._search.textChanged.connect(self._refresh)
+        tools.addWidget(self._search, stretch=1)
+
+        def _sort_btn(text):
+            b = QPushButton(text)
+            b.setCheckable(True)
+            b.setStyleSheet(
+                "QPushButton{background:#16213e;color:#e0e0e0;border:1px solid #0f3460;"
+                "border-radius:4px;padding:5px 10px;font-size:11px;}"
+                "QPushButton:hover{background:#1f4a80;}"
+                "QPushButton:checked{background:#3a1f60;color:#c39bd3;border-color:#6a3fa0;}"
+            )
+            return b
+        self._az_btn = _sort_btn("A→Z")
+        self._za_btn = _sort_btn("Z→A")
+        self._az_btn.clicked.connect(lambda: self._set_sort("az"))
+        self._za_btn.clicked.connect(lambda: self._set_sort("za"))
+        tools.addWidget(self._az_btn)
+        tools.addWidget(self._za_btn)
+        root.addLayout(tools)
+
+        self._list = QListWidget()
+        self._list.setDragDropMode(QAbstractItemView.InternalMove)
+        self._list.setStyleSheet(
+            "QListWidget{background:#0d1b2a;border:1px solid #1f3460;border-radius:6px;"
+            "color:#e0e0e0;font-size:12px;}"
+            "QListWidget::item{padding:8px 10px;border-bottom:1px solid #16213e;}"
+            "QListWidget::item:selected{background:#3a1f60;}"
+        )
+        self._list.itemDoubleClicked.connect(lambda it: self._on_edit(it.data(Qt.UserRole)))
+        self._list.setContextMenuPolicy(Qt.CustomContextMenu)
+        self._list.customContextMenuRequested.connect(self._on_context)
+        self._list.model().rowsMoved.connect(self._on_reorder)
+        root.addWidget(self._list, stretch=1)
+
+        btn_row = QHBoxLayout()
+        edit_btn = QPushButton("✎ Edit")
+        edit_btn.clicked.connect(lambda: self._on_edit(self._selected_id()))
+        del_btn = QPushButton("🗑 Delete")
+        del_btn.clicked.connect(self._on_delete)
+        for b in (edit_btn, del_btn):
+            b.setStyleSheet(
+                "QPushButton{background:#16213e;color:#e0e0e0;border:1px solid #0f3460;"
+                "border-radius:4px;padding:5px 12px;font-size:11px;}"
+                "QPushButton:hover{background:#1f4a80;}"
+            )
+            btn_row.addWidget(b)
+        btn_row.addStretch()
+        root.addLayout(btn_row)
+
+    def _set_sort(self, mode):
+        # Clicking the active sort button toggles back to manual order.
+        if self._sort_mode == mode:
+            self._sort_mode = "manual"
+        else:
+            self._sort_mode = mode
+        self._az_btn.setChecked(self._sort_mode == "az")
+        self._za_btn.setChecked(self._sort_mode == "za")
+        self._refresh()
+
+    def _refresh(self):
+        self._list.clear()
+        import database_spells as _ds
+        presets = _ds.list_icon_presets(self.conn)   # DB order = manual (sort_order)
+
+        query = self._search.text().strip().lower() if hasattr(self, "_search") else ""
+        if query:
+            presets = [p for p in presets
+                       if query in (p.get("name", "") or "").lower()
+                       or query in (p.get("description", "") or "").lower()]
+
+        mode = getattr(self, "_sort_mode", "manual")
+        if mode == "az":
+            presets = sorted(presets, key=lambda p: (p.get("name", "") or "").lower())
+        elif mode == "za":
+            presets = sorted(presets, key=lambda p: (p.get("name", "") or "").lower(),
+                             reverse=True)
+
+        # Drag-to-reorder only makes sense in manual, unfiltered view —
+        # otherwise dropped positions wouldn't map back to sort_order.
+        allow_drag = (mode == "manual" and not query)
+        self._list.setDragDropMode(
+            QAbstractItemView.InternalMove if allow_drag else QAbstractItemView.NoDragDrop
+        )
+
+        for p in presets:
+            item = QListWidgetItem()
+            item.setData(Qt.UserRole, p["id"])
+            img_p = p.get("image_path", "")
+            if img_p and os.path.exists(img_p):
+                item.setIcon(QIcon(QPixmap(img_p).scaled(24, 24, Qt.KeepAspectRatio, Qt.SmoothTransformation)))
+            item.setText(f"  {p['name']}  —  {p['description'][:70]}")
+            self._list.addItem(item)
+
+    def _selected_id(self):
+        it = self._list.currentItem()
+        return it.data(Qt.UserRole) if it else None
+
+    def _on_context(self, pos):
+        from PyQt5.QtWidgets import QMenu
+        item = self._list.itemAt(pos)
+        if not item:
+            return
+        pid = item.data(Qt.UserRole)
+        menu = QMenu(self)
+        menu.setStyleSheet(
+            "QMenu{background:#16213e;color:#e0e0e0;border:1px solid #0f3460;}"
+            "QMenu::item:selected{background:#1f4a80;}"
+        )
+        act_edit = menu.addAction("✎ Edit")
+        act_del  = menu.addAction("🗑 Delete")
+        chosen = menu.exec_(self._list.mapToGlobal(pos))
+        if chosen == act_edit:
+            self._on_edit(pid)
+        elif chosen == act_del:
+            self._delete_id(pid)
+
+    def _on_reorder(self):
+        ids = [self._list.item(i).data(Qt.UserRole) for i in range(self._list.count())]
+        import database_spells as _ds
+        _ds.reorder_icon_presets(self.conn, ids)
+        self.changed.emit()
+
+    def _on_add(self):
+        self._on_edit(None)
+
+    def _on_edit(self, pid):
+        import database_spells as _ds
+        existing = _ds.get_icon_preset(self.conn, pid) if pid is not None else None
+        dlg = _IconPresetDialog(existing, self)
+        if dlg.exec_() == QDialog.Accepted:
+            data = dlg.result_data()
+            if pid is not None:
+                data["id"] = pid
+            _ds.upsert_icon_preset(self.conn, data)
+            self._refresh()
+            self.changed.emit()
+
+    def _on_delete(self):
+        self._delete_id(self._selected_id())
+
+    def _delete_id(self, pid):
+        if pid is None:
+            return
+        if QMessageBox.question(
+            self, "Delete Preset",
+            "Delete this icon preset?\nThis will also remove it from all spell icon legends.",
+            QMessageBox.Yes | QMessageBox.No
+        ) != QMessageBox.Yes:
+            return
+        import database_spells as _ds
+        _ds.delete_icon_preset(self.conn, pid)
+        self._refresh()
+        self.changed.emit()
+
+
+class _IconPresetDialog(QDialog):
+    def __init__(self, existing, parent=None):
+        super().__init__(parent)
+        self.setWindowTitle("Edit Icon Preset" if existing else "New Icon Preset")
+        self.setStyleSheet(
+            "QDialog{background:#1a1a2e;}"
+            "QLabel{color:#e0e0e0;background:transparent;font-size:12px;}"
+            "QLineEdit,QTextEdit{background:#0d1b2a;color:#e0e0e0;border:1px solid #1f3460;"
+            "border-radius:4px;padding:5px 8px;font-size:12px;}"
+            "QLineEdit:focus,QTextEdit:focus{border-color:#c39bd3;}"
+            "QPushButton{background:#0f3460;color:#e0e0e0;border:none;"
+            "border-radius:5px;padding:6px 16px;font-size:12px;}"
+            "QPushButton:hover{background:#4d96ff;}"
+        )
+        self.resize(420, 320)
+
+        v = QVBoxLayout(self)
+        v.setContentsMargins(16, 16, 16, 12)
+        v.setSpacing(10)
+
+        from PyQt5.QtWidgets import QFormLayout
+        form = QFormLayout()
+        form.setSpacing(8)
+
+        self._name_fld = QLineEdit(existing["name"] if existing else "")
+        self._name_fld.setPlaceholderText("e.g. Damage Over Time")
+        form.addRow("Name:", self._name_fld)
+
+        self._desc_fld = QTextEdit()
+        self._desc_fld.setFixedHeight(80)
+        self._desc_fld.setPlainText(existing.get("description", "") if existing else "")
+        self._desc_fld.setPlaceholderText("Description shown in the spell's icon legend")
+        form.addRow("Description:", self._desc_fld)
+
+        self._img_path = existing.get("image_path", "") if existing else ""
+        self._img_row = QHBoxLayout()
+        self._img_preview = QLabel()
+        self._img_preview.setFixedSize(40, 40)
+        self._img_preview.setStyleSheet(
+            "background:#0d1b2a;border:1px solid #1f3460;border-radius:4px;"
+        )
+        self._refresh_img_preview()
+        self._img_row.addWidget(self._img_preview)
+        pick_btn = QPushButton("📂 Choose Image…")
+        pick_btn.clicked.connect(self._pick_image)
+        clear_btn = QPushButton("✕ Clear")
+        clear_btn.clicked.connect(self._clear_image)
+        self._img_row.addWidget(pick_btn)
+        self._img_row.addWidget(clear_btn)
+        self._img_row.addStretch()
+        form.addRow("Image (PNG):", self._img_row)
+        v.addLayout(form)
+
+        v.addStretch()
+        btns = QHBoxLayout()
+        btns.addStretch()
+        cancel = QPushButton("Cancel")
+        cancel.setStyleSheet(
+            "QPushButton{background:#2a1a2e;color:#e0e0e0;border:none;"
+            "border-radius:5px;padding:6px 16px;font-size:12px;}"
+            "QPushButton:hover{background:#5c1b1b;}"
+        )
+        cancel.clicked.connect(self.reject)
+        ok = QPushButton("Save")
+        ok.clicked.connect(self.accept)
+        btns.addWidget(cancel)
+        btns.addWidget(ok)
+        v.addLayout(btns)
+
+    def _refresh_img_preview(self):
+        if self._img_path and os.path.exists(self._img_path):
+            pix = QPixmap(self._img_path).scaled(
+                38, 38, Qt.KeepAspectRatio, Qt.SmoothTransformation
+            )
+            self._img_preview.setPixmap(pix)
+        else:
+            self._img_preview.setPixmap(QPixmap())
+            self._img_preview.setText("—")
+
+    def _pick_image(self):
+        from PyQt5.QtWidgets import QFileDialog
+        path, _ = QFileDialog.getOpenFileName(
+            self, "Select Icon Image", "", "Images (*.png *.jpg *.jpeg *.bmp)"
+        )
+        if path:
+            self._img_path = path
+            self._refresh_img_preview()
+
+    def _clear_image(self):
+        self._img_path = ""
+        self._refresh_img_preview()
+
+    def result_data(self) -> dict:
+        return {
+            "name": self._name_fld.text().strip(),
+            "description": self._desc_fld.toPlainText().strip(),
+            "image_path": self._img_path,
+        }
+
+class _GitUpdateWorker(QThread):
+    """
+    Runs git operations off the UI thread.
+
+    mode="check": fetch + compare local vs remote HEAD, emit checked(...).
+    mode="pull" : pull the latest (stash-on-conflict fallback), emit pulled(...).
+
+    Only ever touches an existing repo — it never bootstraps a fresh checkout
+    (that stays a deliberate, user-initiated action in the Settings page).
+    """
+    checked = pyqtSignal(bool, str, str, str)   # available, local_sha, remote_sha, error
+    pulled  = pyqtSignal(bool, str)             # success, error
+
+    def __init__(self, git_exe: str, repo_dir: str, remote_url: str,
+                 mode: str = "check", parent=None):
+        super().__init__(parent)
+        self.git_exe = git_exe
+        self.repo_dir = repo_dir
+        self.remote_url = remote_url
+        self.mode = mode
+
+    def _run(self, args, timeout=60):
+        import subprocess
+        kwargs = dict(cwd=self.repo_dir, capture_output=True, text=True, timeout=timeout)
+        if os.name == "nt":
+            # Suppress the console window flash on Windows for silent background runs.
+            kwargs["creationflags"] = 0x08000000  # CREATE_NO_WINDOW
+        try:
+            r = subprocess.run([self.git_exe] + args, **kwargs)
+            return r.returncode, (r.stdout or "").strip(), (r.stderr or "").strip()
+        except Exception as exc:
+            return -1, "", str(exc)
+
+    def run(self):
+        if self.mode == "pull":
+            ok, err = self._do_pull()
+            self.pulled.emit(ok, err)
+        else:
+            avail, loc, rem, err = self._do_check()
+            self.checked.emit(avail, loc, rem, err)
+
+    def _do_check(self):
+        rc, out, _ = self._run(["rev-parse", "--is-inside-work-tree"], timeout=15)
+        if rc != 0 or out != "true":
+            return False, "", "", "not-a-repo"
+        if self.remote_url:
+            self._run(["remote", "set-url", "origin", self.remote_url], timeout=15)
+        rc, _, err = self._run(["fetch", "--quiet", "origin"], timeout=90)
+        if rc != 0:
+            return False, "", "", err or "fetch failed"
+        rc_l, local_sha, _ = self._run(["rev-parse", "HEAD"], timeout=15)
+        rc_r, remote_sha, _ = self._run(["rev-parse", "FETCH_HEAD"], timeout=15)
+        if rc_l != 0 or rc_r != 0:
+            return False, "", "", "could not read revisions"
+        return (local_sha != remote_sha), local_sha, remote_sha, ""
+
+    def _do_pull(self):
+        rc, _, err = self._run(["pull", "--ff-only", "origin"], timeout=120)
+        if rc == 0:
+            return True, ""
+        # Stash local changes, retry
+        self._run(["stash", "--include-untracked"], timeout=60)
+        rc, _, err = self._run(["pull", "--ff-only", "origin"], timeout=120)
+        if rc == 0:
+            return True, ""
+        # Last resort: fetch + checkout
+        self._run(["fetch", "origin"], timeout=120)
+        rc, _, err = self._run(["checkout", "FETCH_HEAD", "--", "."], timeout=120)
+        return (rc == 0), (err if rc != 0 else "")
+
+
 class BossWikiApp(QMainWindow):
 
     def __init__(self):
@@ -2086,6 +2638,13 @@ class BossWikiApp(QMainWindow):
         dg.init_gear_tables(self.conn)
         if DAMAGE_CALC_AVAILABLE and dccalc:
             dccalc.init_calc_tables(self.conn)
+        # Spell + Deck tables
+        if SPELL_BROWSER_AVAILABLE or DECK_BUILDER_AVAILABLE:
+            try:
+                import database_spells as _dspells
+                _dspells.init_spell_tables(self.conn)
+            except Exception as _e:
+                print(f"  [WARN] Could not init spell tables: {_e}")
         self.boss_names = db.get_boss_names(self.conn)
 
         # Subprocess handles for fetch operations
@@ -2152,108 +2711,104 @@ class BossWikiApp(QMainWindow):
     # ═══════════════════════════════════════════════════════════════
 
     def _build_hub(self) -> QWidget:
-        """StreamDeck-style landing page with feature tiles."""
+        """StreamDeck-style landing page with draggable, favouritable feature tiles."""
+        self._hub_buttons = _load_hub_order()
+
         page = QWidget()
         page.setStyleSheet("QWidget { background:#1a1a2e; }")
         outer = QVBoxLayout(page)
         outer.setContentsMargins(50, 40, 50, 40)
         outer.setSpacing(32)
 
-        # ── Title ──
         title = QLabel("🧙 Wizard101 Companion")
         title.setFont(QFont("Segoe UI", 26, QFont.Bold))
         title.setStyleSheet("color:#e0e0e0; background:transparent;")
         title.setAlignment(Qt.AlignCenter)
         outer.addWidget(title)
 
-        # ── Card grid ──
-        grid_widget = QWidget()
-        grid_widget.setStyleSheet("background:transparent;")
-        grid = QGridLayout(grid_widget)
+        scroll = QScrollArea()
+        scroll.setWidgetResizable(True)
+        scroll.setStyleSheet("QScrollArea{border:none;background:transparent;}")
+        self._hub_grid_container = QWidget()
+        self._hub_grid_container.setStyleSheet("background:transparent;")
+        scroll.setWidget(self._hub_grid_container)
+        outer.addWidget(scroll, stretch=1)
+
+        self._rebuild_hub_grid()
+        return page
+
+    def _action_for_key(self, key: str):
+        """Return the callable for a hub button's action_key."""
+        return {
+            "boss_wiki":         lambda: self._nav_to("boss_wiki"),
+            "gear_guide":        lambda: self._nav_to("gear_guide"),
+            "damage_calc":       lambda: self._nav_to("damage_calc"),
+            "characters":        lambda: self._nav_to("characters"),
+            "quest_tracker":     self._open_quest_tracker,
+            "boss_wiki_counters":lambda: self._nav_to("boss_wiki", tab="counters"),
+            "boss_wiki_guides":  lambda: self._nav_to("boss_wiki", tab="guides"),
+            "spells":            lambda: self._nav_to("spells"),
+            "deck_builder":      lambda: self._nav_to("decks"),
+            "settings":          lambda: self._nav_to("settings"),
+        }.get(key, lambda: None)
+
+    def _rebuild_hub_grid(self):
+        """Rebuild the hub grid in-place after order/visibility changes."""
+        # Remove all existing children
+        old_layout = self._hub_grid_container.layout()
+        if old_layout:
+            while old_layout.count():
+                it = old_layout.takeAt(0)
+                if it.widget():
+                    it.widget().deleteLater()
+            QWidget().setLayout(old_layout)  # orphan the old layout
+
+        grid = QGridLayout(self._hub_grid_container)
         grid.setSpacing(16)
         grid.setContentsMargins(0, 0, 0, 0)
 
-        features = [
-            {
-                "icon": "👾",
-                "title": "Boss Wiki",
-                "desc": "Browse bosses, cheats, spells and drops by world",
-                "title_color": "#e94560",
-                "action": lambda: self._nav_to("boss_wiki"),
-            },
-            {
-                "icon": "🎒",
-                "title": "Gear Guide",
-                "desc": "Build and browse gear loadouts for every school and level range",
-                "title_color": "#4db8ff",
-                "action": lambda: self._nav_to("gear_guide"),
-            },
-            {
-                "icon": "🧮",
-                "title": "Damage Calculator",
-                "desc": "Quick damage maths with blades, traps, enchants and boss resists",
-                "title_color": "#6bcb77",
-                "action": lambda: self._nav_to("damage_calc"),
-            },
-            {
-                "icon": "🧙",
-                "title": "Characters",
-                "desc": "Create and manage your wizards and their stats for the calculator",
-                "title_color": "#ffd93d",
-                "action": lambda: self._nav_to("characters"),
-            },
-            {
-                "icon": "🗺",
-                "title": "Quest Tracker",
-                "desc": "Track active quests and monitor objectives",
-                "title_color": "#4d96ff",
-                "action": self._open_quest_tracker,
-            },
-            {
-                "icon": "⏱",
-                "title": "Round Counters",
-                "desc": "Manage cheat-tracking round counters linked to bosses",
-                "title_color": "#ffd93d",
-                "action": lambda: self._nav_to("boss_wiki", tab="counters"),
-            },
-            {
-                "icon": "📖",
-                "title": "Strategy Guides",
-                "desc": "Create and browse boss-linked strategy guides with tables",
-                "title_color": "#c39bd3",
-                "action": lambda: self._nav_to("boss_wiki", tab="guides"),
-            },
-            {
-                "icon": "🌍",
-                "title": "World Settings",
-                "desc": "Add, remove, rename and reorder worlds used across the app",
-                "title_color": "#66ccff",
-                "action": self._open_world_settings,
-            },
-            {
-                "icon": "⚙",
-                "title": "HUD & Settings",
-                "desc": "Configure overlay windows, click-through mode and display preferences",
-                "title_color": "#aaaaaa",
-                "action": lambda: self._nav_to("settings"),
-            },
-        ]
+        visible = [b for b in self._hub_buttons if not b.get("hidden")]
+        favorites    = [b for b in visible if b.get("favorite")]
+        non_favorites = [b for b in visible if not b.get("favorite")]
 
-        cols = 3
-        for i, feat in enumerate(features):
-            card = self._make_hub_card(feat)
-            grid.addWidget(card, i // cols, i % cols)
+        COLS = 3
+        row = col = 0
+        for btn in favorites:
+            card = self._make_hub_card_v2(btn, is_favorite=True)
+            grid.addWidget(card, row, col)
+            col += 1
+            if col >= COLS:
+                col = 0; row += 1
 
-        grid.setRowStretch((len(features) - 1) // cols + 1, 1)
-        outer.addWidget(grid_widget, stretch=1)
+        if favorites and non_favorites:
+            # Advance to next full row for the separator, then skip a row
+            if col != 0:
+                row += 1; col = 0
+            sep = QFrame()
+            sep.setFrameShape(QFrame.HLine)
+            sep.setStyleSheet("QFrame{border:none;border-top:1px solid #1f3460;}")
+            sep.setFixedHeight(4)
+            grid.addWidget(sep, row, 0, 1, COLS)
+            row += 1
 
-        return page
+        for btn in non_favorites:
+            card = self._make_hub_card_v2(btn, is_favorite=False)
+            grid.addWidget(card, row, col)
+            col += 1
+            if col >= COLS:
+                col = 0; row += 1
 
-    def _make_hub_card(self, feat: dict) -> QFrame:
-        """Create a single StreamDeck-style feature tile — unified dark style."""
-        title_color = feat.get("title_color", "#e0e0e0")
+        grid.setRowStretch(row + 1, 1)
+
+    def _make_hub_card_v2(self, btn: dict, is_favorite: bool) -> QFrame:
+        """Hub card v2: favourites star + right-click context menu + drag (via mouse)."""
+        title_color = btn.get("title_color", "#e0e0e0")
 
         card = QFrame()
+        card.setObjectName("hubCard")
+        card.setCursor(Qt.PointingHandCursor)
+        card.setMinimumSize(240, 155)
+        card.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Expanding)
         card.setStyleSheet("""
             QFrame#hubCard {
                 background-color: #16213e;
@@ -2265,43 +2820,146 @@ class BossWikiApp(QMainWindow):
                 background-color: #1c2a50;
             }
         """)
-        card.setObjectName("hubCard")
-        card.setCursor(Qt.PointingHandCursor)
-        card.setMinimumSize(240, 155)
-        card.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Expanding)
+        card.setContextMenuPolicy(Qt.CustomContextMenu)
 
         layout = QVBoxLayout(card)
-        layout.setContentsMargins(22, 20, 22, 20)
-        layout.setSpacing(8)
+        layout.setContentsMargins(22, 16, 22, 20)
+        layout.setSpacing(6)
 
-        icon_lbl = QLabel(feat["icon"])
-        icon_lbl.setStyleSheet("font-size:30px; background:transparent; color:#e0e0e0;")
-        icon_lbl.setAlignment(Qt.AlignLeft)
-        layout.addWidget(icon_lbl)
+        # Top row: icon (left) + drag handle text (right) + favourite star
+        top_row = QHBoxLayout()
+        icon_lbl = QLabel(btn["icon"])
+        icon_lbl.setStyleSheet("font-size:28px; background:transparent; color:#e0e0e0;")
+        top_row.addWidget(icon_lbl)
 
-        title_lbl = QLabel(feat["title"])
+        # Update-available indicator on the HUD & Settings card.
+        if btn.get("id") == "hud_settings" and getattr(self, "_update_available", False):
+            dot = QLabel("●")
+            dot.setStyleSheet("color:#e94560; font-size:16px; background:transparent;")
+            dot.setToolTip("A new version is available — open HUD & Settings to update")
+            top_row.addWidget(dot)
+
+        top_row.addStretch()
+
+        drag_hint = QLabel("⠿")
+        drag_hint.setStyleSheet("color:#333;font-size:14px;background:transparent;")
+        drag_hint.setToolTip("Drag to reorder")
+        top_row.addWidget(drag_hint)
+
+        fav_lbl = QLabel("⭐" if is_favorite else "☆")
+        fav_lbl.setStyleSheet(
+            ("font-size:16px;color:#ffd93d;background:transparent;"
+             if is_favorite else
+             "font-size:16px;color:#333;background:transparent;")
+        )
+        fav_lbl.setToolTip("Remove from favorites" if is_favorite else "Add to favorites")
+        fav_lbl.setCursor(Qt.PointingHandCursor)
+        _bid = btn["id"]
+        fav_lbl.mousePressEvent = lambda e, bid=_bid: self._toggle_hub_favorite(bid)
+        top_row.addWidget(fav_lbl)
+        layout.addLayout(top_row)
+
+        title_lbl = QLabel(btn["title"])
         title_lbl.setStyleSheet(
             f"color:{title_color}; font-size:15px; font-weight:bold; background:transparent;"
         )
         layout.addWidget(title_lbl)
 
-        desc_lbl = QLabel(feat["desc"])
+        desc_lbl = QLabel(btn["desc"])
         desc_lbl.setStyleSheet("color:#555; font-size:11px; background:transparent;")
         desc_lbl.setWordWrap(True)
         layout.addWidget(desc_lbl)
 
         layout.addStretch()
 
-        action = feat["action"]
+        action = self._action_for_key(btn.get("action_key", ""))
         for child in [icon_lbl, title_lbl, desc_lbl]:
-            child.mousePressEvent = lambda e, a=action: a()
-        card.mousePressEvent = lambda e, a=action: a()
+            child.mousePressEvent = lambda e, a=action, fl=fav_lbl, dh=drag_hint: (
+                None if e.button() != Qt.LeftButton else
+                (None if e.pos() in [fl.rect(), dh.rect()] else (a() if a else None))
+            )
+        card.mousePressEvent = lambda e, a=action: (
+            a() if e.button() == Qt.LeftButton else None
+        )
+
+        # Right-click context menu
+        card.customContextMenuRequested.connect(
+            lambda pos, bid=btn["id"]: self._hub_card_context_menu(bid, card, pos)
+        )
+
+        # Mouse-drag for reordering
+        card._drag_start_pos = None
+        card._btn_id = btn["id"]
+        card._is_favorite = is_favorite
+
+        original_press = card.mousePressEvent
+        def _on_press(event, c=card, orig=original_press):
+            c._drag_start_pos = event.globalPos()
+            orig(event)
+        card.mousePressEvent = _on_press
 
         return card
 
-    # ═══════════════════════════════════════════════════════════════
-    # BOSS WIKI PANEL (wrapped in its own widget for the stack)
-    # ═══════════════════════════════════════════════════════════════
+    def _hub_card_context_menu(self, btn_id: str, card: QFrame, pos):
+        from PyQt5.QtWidgets import QMenu
+        menu = QMenu(self)
+        menu.setStyleSheet(
+            "QMenu{background:#16213e;color:#e0e0e0;border:1px solid #0f3460;}"
+            "QMenu::item:selected{background:#1f4a80;}"
+        )
+        btn = next((b for b in self._hub_buttons if b["id"] == btn_id), None)
+        if btn is None:
+            return
+
+        if btn.get("favorite"):
+            act_fav = menu.addAction("☆ Remove from Favorites")
+        else:
+            act_fav = menu.addAction("⭐ Mark as Favorite")
+
+        menu.addSeparator()
+        # Never allow hiding the Settings button — it's the only path
+        # back to settings if all other navigation is misconfigured.
+        ALWAYS_VISIBLE = {"hud_settings"}
+        if btn_id not in ALWAYS_VISIBLE:
+            act_hide = menu.addAction("🙈 Hide this button")
+        else:
+            act_hide = None
+        act_move_up = menu.addAction("↑ Move Up")
+        act_move_dn = menu.addAction("↓ Move Down")
+
+        chosen = menu.exec_(card.mapToGlobal(pos))
+        if chosen == act_fav:
+            self._toggle_hub_favorite(btn_id)
+        elif act_hide and chosen == act_hide:
+            btn["hidden"] = True
+            _save_hub_order(self._hub_buttons)
+            self._rebuild_hub_grid()
+        elif chosen == act_move_up:
+            self._move_hub_btn(btn_id, -1)
+        elif chosen == act_move_dn:
+            self._move_hub_btn(btn_id, +1)
+
+    def _toggle_hub_favorite(self, btn_id: str):
+        btn = next((b for b in self._hub_buttons if b["id"] == btn_id), None)
+        if btn is None:
+            return
+        btn["favorite"] = not btn["favorite"]
+        # Move favorites to the front, non-favorites to the back
+        self._hub_buttons.sort(key=lambda b: (0 if b.get("favorite") else 1))
+        _save_hub_order(self._hub_buttons)
+        self._rebuild_hub_grid()
+
+    def _move_hub_btn(self, btn_id: str, delta: int):
+        ids = [b["id"] for b in self._hub_buttons]
+        idx = next((i for i, b in enumerate(self._hub_buttons) if b["id"] == btn_id), None)
+        if idx is None:
+            return
+        new_idx = max(0, min(len(self._hub_buttons) - 1, idx + delta))
+        btn = self._hub_buttons.pop(idx)
+        self._hub_buttons.insert(new_idx, btn)
+        _save_hub_order(self._hub_buttons)
+        self._rebuild_hub_grid()
+
 
     def _build_boss_wiki_panel(self) -> QWidget:
         """Build the full original boss wiki UI as a self-contained widget."""
@@ -2382,6 +3040,23 @@ class BossWikiApp(QMainWindow):
         fetch_all_btn.setObjectName("fetchAllBtn")
         fetch_all_btn.clicked.connect(self._fetch_all)
 
+        # Resume: when ticked, "Fetch ALL Bosses" skips bosses already in the DB,
+        # so an interrupted fetch continues where it left off (and a routine
+        # re-fetch grabs only newly-added bosses).
+        self.boss_resume_chk = QCheckBox("Resume")
+        self.boss_resume_chk.setToolTip(
+            "Skip bosses already fetched — resume an interrupted fetch, or grab "
+            "only new bosses, without re-processing the ones you already have.")
+        self.boss_resume_chk.setStyleSheet(
+            "QCheckBox{color:#9fd0b0;font-size:12px;font-weight:bold;spacing:5px;}"
+            "QCheckBox::indicator{width:14px;height:14px;}"
+        )
+
+        self.boss_del_all_btn = QPushButton("🗑 Delete All Bosses")
+        self.boss_del_all_btn.setObjectName("dangerBtn")
+        self.boss_del_all_btn.setToolTip("Delete ALL bosses from the database")
+        self.boss_del_all_btn.clicked.connect(self._delete_all_bosses)
+
         self.remove_btn = QPushButton("🗑 Remove Selected")
         self.remove_btn.setObjectName("dangerBtn")
         self.remove_btn.clicked.connect(self._remove_boss)
@@ -2424,6 +3099,8 @@ class BossWikiApp(QMainWindow):
         self.hud_boss_btn.toggled.connect(lambda checked: self._on_page_hud_toggle("boss", checked, self.hud_boss_btn))
 
         action_row.addWidget(fetch_all_btn)
+        action_row.addWidget(self.boss_resume_chk)
+        action_row.addWidget(self.boss_del_all_btn)
         action_row.addWidget(self.remove_btn)
         action_row.addWidget(self.reparse_btn)
         action_row.addWidget(self.counter_panel_btn)
@@ -2442,7 +3119,8 @@ class BossWikiApp(QMainWindow):
         self.progress_output.setStyleSheet(
             "font-family:Consolas;font-size:11px;color:#66ff66;background:#0a0a15;"
         )
-        self.stop_btn = QPushButton("⏹ Cancel")
+        self.stop_btn = QPushButton("⏹ Stop")
+        self.stop_btn.setToolTip("Stop the current fetch — bosses already fetched are kept")
         self.stop_btn.clicked.connect(self._cancel_fetch)
         prog_layout.addWidget(self.progress_label)
         prog_layout.addWidget(self.progress_output)
@@ -2614,6 +3292,30 @@ class BossWikiApp(QMainWindow):
             ph_char.setStyleSheet("color:#555;font-size:14px;background:#1a1a2e;")
             self.stack.addWidget(ph_char)
 
+        # Page 6: Spell Browser
+        if SPELL_BROWSER_AVAILABLE and SpellBrowserWidget:
+            self._spell_browser_page = SpellBrowserWidget(self.conn, self)
+            self._spell_browser_page.nav_hub.connect(lambda: self._nav_to("hub"))
+            self.stack.addWidget(self._spell_browser_page)
+        else:
+            self._spell_browser_page = None
+            _ph_sp = QLabel("Spell Browser not available.\nEnsure spell_browser.py is present.")
+            _ph_sp.setAlignment(Qt.AlignCenter)
+            _ph_sp.setStyleSheet("color:#555;font-size:14px;background:#1a1a2e;")
+            self.stack.addWidget(_ph_sp)
+
+        # Page 7: Deck Builder
+        if DECK_BUILDER_AVAILABLE and DeckBuilderWidget:
+            self._deck_builder_page = DeckBuilderWidget(self.conn, self)
+            self._deck_builder_page.nav_hub.connect(lambda: self._nav_to("hub"))
+            self.stack.addWidget(self._deck_builder_page)
+        else:
+            self._deck_builder_page = None
+            _ph_dk = QLabel("Deck Builder not available.\nEnsure deck_builder.py is present.")
+            _ph_dk.setAlignment(Qt.AlignCenter)
+            _ph_dk.setStyleSheet("color:#555;font-size:14px;background:#1a1a2e;")
+            self.stack.addWidget(_ph_dk)
+
         # Page 5: Settings / HUD
         self._settings_page = self._build_settings_page()
         self.stack.addWidget(self._settings_page)
@@ -2621,10 +3323,29 @@ class BossWikiApp(QMainWindow):
         # Start on hub
         self.stack.setCurrentIndex(0)
 
+        # ── Update-check state ────────────────────────────────────
+        self._update_available = False
+        self._update_check_worker = None
+        self._update_pull_worker = None
+        self._auto_update = (overlay_settings.get_auto_update()
+                             if overlay_settings is not None else False)
+        # Run a silent, background check for updates shortly after startup so it
+        # never blocks the window appearing. A dot on the HUD & Settings card
+        # lights up if a new version is available.
+        QTimer.singleShot(1500, self._startup_update_check)
+
+    def _switch_settings_subpage(self, page_key: str):
+        idx_map = {'main': 0, 'icon_presets': 1, 'world_settings': 2}
+        if hasattr(self, '_settings_substack'):
+            self._settings_substack.setCurrentIndex(idx_map.get(page_key, 0))
+        for k, btn in getattr(self, '_settings_tab_btns', {}).items():
+            btn.setChecked(k == page_key)
+
     def _nav_to(self, section: str, tab: str = None):
         """Navigate to a named section, optionally jumping to a specific tab."""
         PAGE = {"hub": 0, "boss_wiki": 1, "gear_guide": 2,
-                "damage_calc": 3, "characters": 4, "settings": 5}
+                "damage_calc": 3, "characters": 4,
+                "spells": 5, "decks": 6, "settings": 7}
         idx = PAGE.get(section, 0)
         self.stack.setCurrentIndex(idx)
 
@@ -2636,6 +3357,10 @@ class BossWikiApp(QMainWindow):
                 self.overlay_manager.refresh_calc_data()
         if section == "characters" and getattr(self, "_char_page", None):
             self._char_page._refresh_list()
+        if section == "spells" and getattr(self, "_spell_browser_page", None):
+            self._spell_browser_page.refresh()
+        if section == "decks" and getattr(self, "_deck_builder_page", None):
+            self._deck_builder_page.refresh()
 
         if section == "boss_wiki" and tab:
             TAB_MAP = {
@@ -2679,13 +3404,40 @@ class BossWikiApp(QMainWindow):
         header_row.addWidget(back_btn)
         header_row.addStretch()
 
-        title_lbl = QLabel("⚙ Settings & HUD Overlays")
+        title_lbl = QLabel("⚙ HUD & Settings")
         title_lbl.setFont(QFont("Segoe UI", 18, QFont.Bold))
         title_lbl.setStyleSheet("color:#e0e0e0; background:transparent;")
         title_lbl.setAlignment(Qt.AlignCenter)
         header_row.addWidget(title_lbl)
         header_row.addStretch()
+
+        # Sub-page tabs
+        for label, page_key in [("Main Settings", "main"),
+                                 ("🔍 Icon Presets", "icon_presets"),
+                                 ("🌍 World Settings", "world_settings")]:
+            tab_btn = QPushButton(label)
+            tab_btn.setCheckable(True)
+            tab_btn.setStyleSheet(
+                "QPushButton{background:#0f3460;color:#e0e0e0;border:none;"
+                "border-radius:5px;padding:5px 12px;font-size:11px;margin-left:4px;}"
+                "QPushButton:checked{background:#e94560;}"
+                "QPushButton:hover:!checked{background:#1f4a80;}"
+            )
+            _pk = page_key
+            tab_btn.clicked.connect(lambda checked, pk=_pk: self._switch_settings_subpage(pk))
+            header_row.addWidget(tab_btn)
+            if not hasattr(self, "_settings_tab_btns"):
+                self._settings_tab_btns = {}
+            self._settings_tab_btns[page_key] = tab_btn
+
         outer.addWidget(header_bar)
+
+        # Sub-page stack — main settings scroll | icon presets | world settings
+        self._settings_substack = QStackedWidget()
+        self._settings_substack.setStyleSheet("background:#1a1a2e;")
+        outer.addWidget(self._settings_substack, stretch=1)
+
+        # ── Sub-page 0: main settings (the existing scroll body) ────────
 
         # ── Scroll body ──
         scroll = QScrollArea()
@@ -2697,7 +3449,42 @@ class BossWikiApp(QMainWindow):
         body_layout.setContentsMargins(40, 24, 40, 40)
         body_layout.setSpacing(24)
         scroll.setWidget(body)
-        outer.addWidget(scroll, stretch=1)
+        self._settings_substack.addWidget(scroll)  # index 0: main
+
+
+        # ══ HUB BUTTON VISIBILITY SECTION ════════════════════════════
+        vis_group = self._make_settings_group("🧩 Hub Button Visibility",
+            "Show or hide buttons on the main hub. Use ⭐ on any hub card to favourite it.")
+        body_layout.addWidget(vis_group)
+
+        self._vis_checks = {}
+        vis_grid = QGridLayout()
+        vis_grid.setSpacing(10)
+        vis_group.layout().addLayout(vis_grid)
+
+        # "hud_settings" is always visible — it's the only way to reach
+        # this settings page. Never give the user a way to hide it.
+        ALWAYS_VISIBLE = {"hud_settings"}
+
+        buttons = getattr(self, "_hub_buttons", _load_hub_order())
+        checkbox_i = 0
+        for btn in buttons:
+            if btn["id"] in ALWAYS_VISIBLE:
+                continue
+            chk = QCheckBox(f"{btn['icon']}  {btn['title']}")
+            chk.setChecked(not btn.get("hidden", False))
+            chk.setStyleSheet("color:#ccc; font-size:12px; background:transparent;")
+            _bid = btn["id"]
+            def _on_vis(state, bid=_bid):
+                b = next((x for x in self._hub_buttons if x["id"] == bid), None)
+                if b:
+                    b["hidden"] = (state == 0)
+                    _save_hub_order(self._hub_buttons)
+                    self._rebuild_hub_grid()
+            chk.stateChanged.connect(_on_vis)
+            vis_grid.addWidget(chk, checkbox_i // 3, checkbox_i % 3)
+            self._vis_checks[btn["id"]] = chk
+            checkbox_i += 1
 
         # ══ HUD OVERLAYS SECTION ══════════════════════════════════
         hud_group = self._make_settings_group("🖥 HUD Overlays")
@@ -2795,6 +3582,10 @@ class BossWikiApp(QMainWindow):
         appear_note.setWordWrap(True)
         appear_group.layout().addWidget(appear_note)
 
+        # ══ CLOUDFLARE ALERT SOUND SECTION ═════════════════════════
+        if HUD_AVAILABLE and overlay_settings is not None:
+            body_layout.addWidget(self._build_cf_sound_section())
+
         # ══ OCR SETTINGS SECTION ═══════════════════════════════════
         if OCR_AVAILABLE:
             ocr_group = self._make_settings_group("👾 OCR Settings")
@@ -2844,88 +3635,47 @@ class BossWikiApp(QMainWindow):
             kb_widget = KeybindSettingsWidget(self.keybind_manager)
             kb_group.layout().addWidget(kb_widget)
 
-        # ══ EXPORT / IMPORT SECTION ═══════════════════════════════
+        # ══ BACKUP & RESTORE SECTION ══════════════════════════════
         if EXPORTER_AVAILABLE:
-            export_group = self._make_settings_group("📤 Export & Import")
-            body_layout.addWidget(export_group)
+            backup_group = self._make_settings_group("💾 Backup & Restore")
+            body_layout.addWidget(backup_group)
 
-            export_note = QLabel(
-                "Individual item exports are available via 📤 buttons throughout the app. "
-                "Use bulk exports below, or import a previously exported JSON file — "
-                "the app automatically detects which category it belongs to."
+            backup_note = QLabel(
+                "Save a full backup of your data — bosses, round counters, strategy guides, "
+                "gear loadouts, quest progress, decks, calculator presets and characters — "
+                "in a single file. When restoring, you can choose exactly which parts to bring back.<br>"
+                "To share a single loadout, guide, counter or deck, use its 🔗 button instead."
             )
-            export_note.setStyleSheet("color:#666; font-size:11px; background:transparent;")
-            export_note.setWordWrap(True)
-            export_group.layout().addWidget(export_note)
+            backup_note.setStyleSheet("color:#666; font-size:11px; background:transparent;")
+            backup_note.setWordWrap(True)
+            backup_group.layout().addWidget(backup_note)
 
-            def _exp_btn(label, tip, callback, green=False):
-                btn = QPushButton(label)
-                btn.setToolTip(tip)
-                if green:
-                    btn.setStyleSheet(
-                        "QPushButton{background:#1b5c38;color:#e0e0e0;border:none;"
-                        "border-radius:6px;padding:8px 14px;font-size:12px;font-weight:bold;}"
-                        "QPushButton:hover{background:#27ae60;}")
-                else:
-                    btn.setStyleSheet(
-                        "QPushButton{background:#0f3460;color:#e0e0e0;border:none;"
-                        "border-radius:6px;padding:8px 14px;font-size:12px;font-weight:bold;}"
-                        "QPushButton:hover{background:#e94560;}")
-                btn.clicked.connect(callback)
-                return btn
+            bk_row = QHBoxLayout()
+            bk_row.setSpacing(10)
 
-            # Row 0: All Bosses | All Round Counters | All Guides
-            # Row 1: All Gear Loadouts | All Quest Worlds | (empty)
-            # Row 2: Full Export (spans all 3 columns)
-            exp_grid = QGridLayout()
-            exp_grid.setSpacing(10)
-            regular_buttons = [
-                ("📤 All Bosses",         lambda: exp.export_all_bosses(self.conn, self)),
-                ("📤 All Round Counters", lambda: exp.export_all_round_counters(self.conn, self)),
-                ("📤 All Guides",         lambda: exp.export_all_guides(self.conn, self)),
-                ("📤 All Gear Loadouts",  lambda: exp.export_all_gear_loadouts(self.conn, self)),
-                ("📤 All Quest Worlds",   lambda: exp.export_all_quest_worlds(self.conn, self)),
-            ]
-            if DAMAGE_CALC_AVAILABLE and hasattr(exp, "export_calc_presets"):
-                regular_buttons.append(
-                    ("📤 Calc Presets", lambda: exp.export_calc_presets(self.conn, self)))
-            if DAMAGE_CALC_AVAILABLE and hasattr(exp, "export_characters"):
-                regular_buttons.append(
-                    ("📤 Characters", lambda: exp.export_characters(self.conn, self)))
-            for i, (lbl, cb) in enumerate(regular_buttons):
-                btn = _exp_btn(lbl, "", cb, False)
-                exp_grid.addWidget(btn, i // 3, i % 3)
-
-            # Full Export on its own dedicated row below all regular buttons
-            full_btn = _exp_btn("📦 Full Export",
-                                "Export everything — bosses, counters, guides, gear and quests — in one file",
-                                lambda: exp.export_everything(self.conn, self),
-                                True)
-            next_row = (len(regular_buttons) + 2) // 3   # row after last regular button
-            exp_grid.addWidget(full_btn, next_row, 0, 1, 3)
-            export_group.layout().addLayout(exp_grid)
-
-            # Import row
-            from PyQt5.QtWidgets import QFrame as _QF
-            div = _QF(); div.setFrameShape(_QF.HLine)
-            div.setStyleSheet("color:#0f3460;background:#0f3460;max-height:1px;margin:6px 0;")
-            export_group.layout().addWidget(div)
-
-            import_btn = QPushButton("📥 Import JSON File…")
-            import_btn.setToolTip(
-                "Import a previously exported JSON file. "
-                "The app automatically detects the data type."
+            backup_btn = QPushButton("💾 Backup…")
+            backup_btn.setToolTip("Save a full backup of all your data to a file")
+            backup_btn.setStyleSheet(
+                "QPushButton{background:#1b5c38;color:#e0e0e0;border:none;"
+                "border-radius:6px;padding:8px 18px;font-size:12px;font-weight:bold;}"
+                "QPushButton:hover{background:#27ae60;}"
             )
-            import_btn.setStyleSheet(
+            backup_btn.clicked.connect(self._run_backup)
+            bk_row.addWidget(backup_btn)
+
+            restore_btn = QPushButton("📥 Import from Backup…")
+            restore_btn.setToolTip(
+                "Open a backup file and choose which parts to restore"
+            )
+            restore_btn.setStyleSheet(
                 "QPushButton{background:#1a3a1a;color:#66ff99;border:1px solid #27ae60;"
                 "border-radius:6px;padding:8px 18px;font-size:12px;font-weight:bold;}"
                 "QPushButton:hover{background:#27ae60;color:#fff;}"
             )
-            import_btn.clicked.connect(self._run_import)
-            imp_row = QHBoxLayout()
-            imp_row.addWidget(import_btn)
-            imp_row.addStretch()
-            export_group.layout().addLayout(imp_row)
+            restore_btn.clicked.connect(self._run_import)
+            bk_row.addWidget(restore_btn)
+            bk_row.addStretch()
+            backup_group.layout().addLayout(bk_row)
 
         # ══ MAINTENANCE SECTION ══════════════════════════════════
         maint_group = self._make_settings_group("🛠 Maintenance")
@@ -2943,12 +3693,19 @@ class BossWikiApp(QMainWindow):
         maint_grid = QGridLayout()
         maint_grid.setSpacing(10)
 
+        def _maint_btn_rgba(hex_color: str, alpha_hex: str) -> str:
+            h = hex_color.lstrip("#")
+            if len(h) == 3:
+                h = "".join(c * 2 for c in h)
+            r, g, b = int(h[0:2], 16), int(h[2:4], 16), int(h[4:6], 16)
+            return f"rgba({r},{g},{b},{int(alpha_hex, 16)})"
+
         def _maint_btn(label: str, tip: str, color: str, callback) -> QPushButton:
             btn = QPushButton(label)
             btn.setToolTip(tip)
             btn.setStyleSheet(
                 f"QPushButton{{background:#1a1a2e;color:{color};"
-                f"border:1px solid {color}55;border-radius:6px;"
+                f"border:1px solid {_maint_btn_rgba(color, '55')};border-radius:6px;"
                 f"padding:8px 14px;font-size:12px;font-weight:bold;}}"
                 f"QPushButton:hover{{background:{color};color:#fff;}}"
             )
@@ -2968,10 +3725,14 @@ class BossWikiApp(QMainWindow):
              "Remove all scraped boss entries from the local database. Round counters, guides and gear loadouts are preserved.",
              "#e94560",
              self._clear_boss_cache),
+            ("✨ Delete Spell Cache",
+             "Delete everything downloaded for spells — wikitext, rendered-HTML and card images (spell_cache, spell_html_cache, spell_images, spell_images_fusion) — forcing a clean re-download on next fetch. Fixes wrong card art. Your spell database rows are kept.",
+             "#c39bd3",
+             self._clear_spell_cache),
         ]
 
         for i, (lbl, tip, color, cb) in enumerate(maint_buttons):
-            maint_grid.addWidget(_maint_btn(lbl, tip, color, cb), 0, i)
+            maint_grid.addWidget(_maint_btn(lbl, tip, color, cb), i // 3, i % 3)
 
         maint_group.layout().addLayout(maint_grid)
 
@@ -3006,6 +3767,15 @@ class BossWikiApp(QMainWindow):
         btn_row.addWidget(self._update_status_lbl, stretch=1)
         update_group.layout().addLayout(btn_row)
 
+        # Auto-update toggle (off by default): when on, an available update is
+        # downloaded automatically in the background at startup.
+        self._auto_update_chk = QCheckBox("Auto update — download new versions automatically on startup")
+        self._auto_update_chk.setChecked(
+            overlay_settings.get_auto_update() if overlay_settings is not None else False)
+        self._auto_update_chk.setStyleSheet("color:#ccc; font-size:12px; background:transparent;")
+        self._auto_update_chk.toggled.connect(self._on_auto_update_toggled)
+        update_group.layout().addWidget(self._auto_update_chk)
+
         update_note = QLabel(
             "Updates are pulled from GitHub via <code>git</code>. "
             "On first use the app will automatically connect your folder to the repo — "
@@ -3028,6 +3798,39 @@ class BossWikiApp(QMainWindow):
             update_group.layout().addWidget(no_repo_lbl)
 
         body_layout.addStretch()
+
+        # ── Sub-page 1: Icon Preset Manager ─────────────────────
+        self._icon_preset_mgr = IconPresetManagerWidget(self.conn, self)
+        self._settings_substack.addWidget(self._icon_preset_mgr)  # index 1
+
+        # ── Sub-page 2: World Settings (embedded) ────────────────
+        from PyQt5.QtWidgets import QSplitter
+        ws_container = QWidget()
+        ws_container.setStyleSheet('background:#1a1a2e;')
+        ws_layout = QVBoxLayout(ws_container)
+        ws_layout.setContentsMargins(20, 16, 20, 16)
+        ws_info = QLabel(
+            '🌍  World Settings manage the world list used across the app.\n'
+            'Click Open World Settings to manage worlds.'
+        )
+        ws_info.setStyleSheet('color:#aaa;font-size:12px;background:transparent;')
+        ws_info.setWordWrap(True)
+        ws_layout.addWidget(ws_info)
+        ws_open_btn = QPushButton('🌍 Open World Settings')
+        ws_open_btn.setStyleSheet(
+            'QPushButton{background:#0f3460;color:#e0e0e0;border:none;'
+            'border-radius:6px;padding:8px 18px;font-size:12px;}'
+            'QPushButton:hover{background:#4d96ff;}'
+        )
+        ws_open_btn.clicked.connect(self._open_world_settings)
+        ws_layout.addWidget(ws_open_btn, 0, Qt.AlignLeft)
+        ws_layout.addStretch()
+        self._settings_substack.addWidget(ws_container)  # index 2
+
+        # Select main settings tab by default
+        if hasattr(self, '_settings_tab_btns'):
+            self._settings_tab_btns.get('main', QPushButton()).setChecked(True)
+
         return page
 
     def _clear_log_files(self):
@@ -3153,6 +3956,160 @@ class BossWikiApp(QMainWindow):
         QMessageBox.information(self, "Boss Data Cache",
                                 f"Deleted {count} boss{'es' if count != 1 else ''}.")
 
+    def _clear_spell_cache(self):
+        """
+        Delete everything downloaded for spells — cached wikitext, rendered
+        HTML, and the card images (spell_cache, spell_html_cache, spell_images,
+        spell_images_fusion) — so the next fetch re-pulls it all cleanly. This
+        is the way to replace card images the wiki previously linked wrong: a
+        normal fetch reuses an existing image file, so the images must be
+        removed here to force a fresh download. Spell database rows are kept;
+        their image will simply re-download on the next Fetch / Download Images.
+        """
+        from pathlib import Path as _Path
+        app_dir = _Path(__file__).parent
+        cache_dirs = [
+            app_dir / "spell_cache",         # raw wikitext
+            app_dir / "spell_html_cache",    # rendered HTML (training/fusion)
+            app_dir / "spell_images",        # downloaded card images
+            app_dir / "spell_images_fusion", # fusion reagent image fallbacks
+        ]
+        files = []
+        for d in cache_dirs:
+            if d.exists():
+                files.extend(p for p in d.iterdir() if p.is_file())
+        if not files:
+            QMessageBox.information(self, "Spell Cache",
+                                    "No cached spell files — nothing to clear.")
+            return
+
+        n_img = sum(1 for f in files if f.suffix.lower() == ".png"
+                    and f.parent.name in ("spell_images", "spell_images_fusion"))
+        box = QMessageBox(self)
+        box.setWindowTitle("Delete Spell Cache")
+        box.setText(f"Delete all <b>{len(files)}</b> cached spell file(s)?")
+        box.setInformativeText(
+            f"This removes cached wikitext, rendered-HTML and {n_img} card "
+            "image(s) — everything downloaded for spells.\n\n"
+            "Spell database entries are kept; images and text re-download on "
+            "the next Fetch / Download Images (which fixes any wrong card art)."
+        )
+        box.setStandardButtons(QMessageBox.Yes | QMessageBox.No)
+        box.setDefaultButton(QMessageBox.No)
+        box.setIcon(QMessageBox.NoIcon)
+        if box.exec_() != QMessageBox.Yes:
+            return
+
+        removed = 0
+        for f in files:
+            try:
+                f.unlink()
+                removed += 1
+            except OSError:
+                pass
+
+        self.status_bar.showMessage(
+            f"Deleted {removed} cached spell file(s).", 5000
+        )
+        QMessageBox.information(self, "Spell Cache",
+                                f"Deleted {removed} cached spell file(s).\n\n"
+                                "Run a Fetch or Download Images to re-pull them.")
+
+    # ── Startup / background update check ──────────────────────────────────
+
+    def _startup_update_check(self):
+        """Kick off a silent background update check (existing repos only)."""
+        if not GITHUB_REPO:
+            return
+        git_exe = self._find_git()
+        if not git_exe:
+            return
+        if self._update_check_worker is not None and self._update_check_worker.isRunning():
+            return
+        repo_dir = os.path.dirname(os.path.abspath(__file__))
+        remote_url = f"https://github.com/{GITHUB_REPO}.git"
+        self._update_check_worker = _GitUpdateWorker(
+            git_exe, repo_dir, remote_url, mode="check", parent=self)
+        self._update_check_worker.checked.connect(self._on_startup_check_done)
+        self._update_check_worker.start()
+
+    def _on_startup_check_done(self, available, local_sha, remote_sha, error):
+        if error or not available:
+            # Silent on error (offline, not-a-repo, etc.) — nothing to show.
+            return
+        self._update_available = True
+        self._refresh_hub_update_dot()
+        # Reflect it on the Settings page if that button exists yet.
+        if hasattr(self, "_update_status_lbl"):
+            self._update_ready = True
+            self._update_btn.setText("⬇ Update")
+            self._update_btn.setStyleSheet(
+                "QPushButton{background:#27ae60;color:#fff;border:none;"
+                "border-radius:6px;padding:8px 18px;font-size:12px;font-weight:bold;}"
+                "QPushButton:hover{background:#2ecc71;}"
+                "QPushButton:disabled{background:#1a1a2e;color:#555;}"
+            )
+            self._update_status_lbl.setStyleSheet(
+                "color:#ffd93d; font-size:12px; background:transparent;")
+            self._update_status_lbl.setText(
+                f"🆕 A new version is available!  Local {local_sha[:8]} → "
+                f"Remote {remote_sha[:8]}")
+
+        if self._auto_update:
+            self._start_auto_pull()
+
+    def _start_auto_pull(self):
+        """Auto-download an available update in the background."""
+        if self._update_pull_worker is not None and self._update_pull_worker.isRunning():
+            return
+        git_exe = self._find_git()
+        if not git_exe:
+            return
+        try:
+            self._ensure_gitignore()
+        except Exception:
+            pass
+        repo_dir = os.path.dirname(os.path.abspath(__file__))
+        remote_url = f"https://github.com/{GITHUB_REPO}.git" if GITHUB_REPO else ""
+        self.status_bar.showMessage("⏳ Auto-update: downloading new version…", 8000)
+        self._update_pull_worker = _GitUpdateWorker(
+            git_exe, repo_dir, remote_url, mode="pull", parent=self)
+        self._update_pull_worker.pulled.connect(self._on_auto_pull_done)
+        self._update_pull_worker.start()
+
+    def _on_auto_pull_done(self, ok, error):
+        if ok:
+            self.status_bar.showMessage(
+                "✅ Update downloaded — restart the app to use the new version.", 0)
+            if hasattr(self, "_update_status_lbl"):
+                self._update_status_lbl.setStyleSheet(
+                    "color:#27ae60; font-size:12px; background:transparent;")
+                self._update_status_lbl.setText(
+                    "✅ Auto-update applied. Please restart the app.")
+                self._update_ready = False
+                self._update_btn.setText("Check for Update")
+        else:
+            self.status_bar.showMessage(
+                f"⚠ Auto-update failed: {error or 'unknown error'}", 10000)
+
+    def _on_auto_update_toggled(self, checked: bool):
+        """Persist the auto-update preference."""
+        self._auto_update = bool(checked)
+        if overlay_settings is not None:
+            overlay_settings.set_auto_update(bool(checked))
+        # If they just turned it on and we already know an update is waiting,
+        # start downloading it now.
+        if checked and getattr(self, "_update_available", False):
+            self._start_auto_pull()
+
+    def _refresh_hub_update_dot(self):
+        """Rebuild the hub grid so the update dot on HUD & Settings appears/clears."""
+        if hasattr(self, "_hub_grid_container"):
+            try:
+                self._rebuild_hub_grid()
+            except Exception:
+                pass
+
     # ── GitHub Update ─────────────────────────────────────────────────────────
 
     # User data files that must NEVER be touched by git.
@@ -3162,6 +4119,8 @@ class BossWikiApp(QMainWindow):
         "hud_settings.json", "keybinds.json", "world_order.json",
         "boss_wiki.log", "db_builder.log",
         "quest_debug/", "wikitext_cache/", "__pycache__/",
+        "spell_cache/", "spell_html_cache/",
+        "spell_images/", "spell_images_fusion/",
         "venv/", "mingit/",
     ]
 
@@ -3289,6 +4248,8 @@ class BossWikiApp(QMainWindow):
                 "#27ae60",
             )
             self._update_ready = False
+            self._update_available = False
+            self._refresh_hub_update_dot()
             self._update_btn.setText("Check for Update")
             self._update_btn.setStyleSheet(
                 "QPushButton{background:#0f3460;color:#e0e0e0;border:none;"
@@ -3439,11 +4400,15 @@ class BossWikiApp(QMainWindow):
 
         if local_sha == remote_sha:
             _set_status("✅ You are already on the latest version.", "#27ae60")
+            self._update_available = False
+            self._refresh_hub_update_dot()
             self._update_btn.setEnabled(True)
             return
 
         # Update available
         self._update_ready = True
+        self._update_available = True
+        self._refresh_hub_update_dot()
         self._update_btn.setText("⬇ Update")
         self._update_btn.setStyleSheet(
             "QPushButton{background:#27ae60;color:#fff;border:none;"
@@ -3471,6 +4436,173 @@ class BossWikiApp(QMainWindow):
             overlay_settings.set_ocr_mode(mode)
         label = "Dynamic (fuzzy)" if mode == OCR_MODE_DYNAMIC else "Strict (exact)"
         self.status_bar.showMessage(f"OCR mode changed to: {label}", 4000)
+
+    # ── Cloudflare alert sound settings ───────────────────────────────────
+    def _build_cf_sound_section(self) -> QGroupBox:
+        """
+        Build the 🔔 Cloudflare Alert Sound settings group: enable/disable,
+        choose a custom sound file, volume slider, and a test button. Plays
+        during any wiki fetch when the "verify you are human" checkbox appears.
+        """
+        from PyQt5.QtWidgets import QSlider
+
+        group = self._make_settings_group(
+            "🔔 Cloudflare Alert Sound",
+            "Plays a sound during any wiki fetch (bosses or spells) the moment "
+            "Cloudflare's \u201cverify you are human\u201d checkbox appears, so you "
+            "know to click it in the Chrome window. Detected from the page itself, "
+            "not the screen.",
+        )
+
+        # Enable / disable
+        self._cf_sound_chk = QCheckBox("Play alert sound when the checkbox appears")
+        self._cf_sound_chk.setChecked(overlay_settings.get_cf_sound_enabled())
+        self._cf_sound_chk.setStyleSheet("color:#ccc; font-size:13px; background:transparent;")
+        self._cf_sound_chk.stateChanged.connect(self._on_cf_sound_toggle)
+        group.layout().addWidget(self._cf_sound_chk)
+
+        # Sound file row
+        file_row = QHBoxLayout()
+        file_lbl = QLabel("Sound file:")
+        file_lbl.setStyleSheet("color:#ccc; font-size:13px; background:transparent;")
+        file_row.addWidget(file_lbl)
+
+        self._cf_sound_path_lbl = QLabel()
+        self._cf_sound_path_lbl.setStyleSheet(
+            "color:#8fb7ff; font-size:12px; background:#0a1628; border:1px solid #0f3460;"
+            "border-radius:4px; padding:4px 8px;"
+        )
+        self._cf_sound_path_lbl.setWordWrap(False)
+        self._cf_sound_path_lbl.setMinimumWidth(220)
+        self._refresh_cf_sound_path_label()
+        file_row.addWidget(self._cf_sound_path_lbl, stretch=1)
+
+        choose_btn = QPushButton("📂 Choose…")
+        choose_btn.setStyleSheet(
+            "QPushButton{background:#0f3460;color:#e0e0e0;border:none;border-radius:5px;"
+            "padding:5px 12px;font-size:12px;}QPushButton:hover{background:#1f4a80;}"
+        )
+        choose_btn.clicked.connect(self._choose_cf_sound)
+        file_row.addWidget(choose_btn)
+
+        reset_btn = QPushButton("↺ Default")
+        reset_btn.setToolTip("Use the built-in default chime")
+        reset_btn.setStyleSheet(
+            "QPushButton{background:#1a1a2e;color:#8a8a9a;border:1px solid #0f3460;"
+            "border-radius:5px;padding:5px 10px;font-size:12px;}"
+            "QPushButton:hover{background:#0f3460;color:#e0e0e0;}"
+        )
+        reset_btn.clicked.connect(self._reset_cf_sound)
+        file_row.addWidget(reset_btn)
+        group.layout().addLayout(file_row)
+
+        # Volume row
+        vol_row = QHBoxLayout()
+        vol_lbl = QLabel("Volume:")
+        vol_lbl.setStyleSheet("color:#ccc; font-size:13px; background:transparent;")
+        vol_row.addWidget(vol_lbl)
+
+        self._cf_vol_slider = QSlider(Qt.Horizontal)
+        self._cf_vol_slider.setRange(0, 100)
+        self._cf_vol_slider.setValue(overlay_settings.get_cf_sound_volume())
+        self._cf_vol_slider.setStyleSheet("""
+            QSlider::groove:horizontal { background:#0f3460; height:6px; border-radius:3px; }
+            QSlider::handle:horizontal { background:#e94560; width:16px; height:16px;
+                margin:-5px 0; border-radius:8px; }
+            QSlider::sub-page:horizontal { background:#e94560; border-radius:3px; }
+        """)
+        vol_row.addWidget(self._cf_vol_slider, stretch=1)
+
+        self._cf_vol_spin = QSpinBox()
+        self._cf_vol_spin.setRange(0, 100)
+        self._cf_vol_spin.setValue(overlay_settings.get_cf_sound_volume())
+        self._cf_vol_spin.setSuffix("%")
+        self._cf_vol_spin.setFixedWidth(70)
+        self._cf_vol_spin.setAlignment(Qt.AlignCenter)
+        self._cf_vol_spin.setStyleSheet("""
+            QSpinBox { background:#0a1628; color:#ccc; border:1px solid #0f3460;
+                border-radius:4px; font-size:12px; padding:2px 4px; }
+            QSpinBox:focus { border-color:#e94560; }
+            QSpinBox::up-button, QSpinBox::down-button { width:0; height:0; border:none; }
+        """)
+        vol_row.addWidget(self._cf_vol_spin)
+
+        # Two-way sync + persist
+        self._cf_vol_slider.valueChanged.connect(
+            lambda v: (self._cf_vol_spin.blockSignals(True),
+                       self._cf_vol_spin.setValue(v),
+                       self._cf_vol_spin.blockSignals(False))
+        )
+        self._cf_vol_slider.valueChanged.connect(self._on_cf_volume_changed)
+        self._cf_vol_spin.valueChanged.connect(
+            lambda v: (self._cf_vol_slider.blockSignals(True),
+                       self._cf_vol_slider.setValue(v),
+                       self._cf_vol_slider.blockSignals(False))
+        )
+        self._cf_vol_spin.valueChanged.connect(self._on_cf_volume_changed)
+
+        test_btn = QPushButton("▶ Test")
+        test_btn.setStyleSheet(
+            "QPushButton{background:#6bcb77;color:#0a1628;border:none;border-radius:5px;"
+            "padding:5px 14px;font-size:12px;font-weight:bold;}"
+            "QPushButton:hover{background:#8ee69a;}"
+        )
+        test_btn.clicked.connect(self._test_cf_sound)
+        vol_row.addWidget(test_btn)
+        group.layout().addLayout(vol_row)
+
+        note = QLabel(
+            "Tip: <b>.wav</b> files are the most reliable. MP3/OGG also work if your "
+            "system has the codecs. Volume applies to the sound file; the fallback "
+            "system beep ignores it."
+        )
+        note.setStyleSheet("color:#666; font-size:11px; background:transparent;")
+        note.setWordWrap(True)
+        group.layout().addWidget(note)
+        return group
+
+    def _refresh_cf_sound_path_label(self):
+        if not hasattr(self, "_cf_sound_path_lbl"):
+            return
+        path = overlay_settings.get_cf_sound_path()
+        if path and os.path.exists(path):
+            self._cf_sound_path_lbl.setText(os.path.basename(path))
+            self._cf_sound_path_lbl.setToolTip(path)
+        elif path:
+            self._cf_sound_path_lbl.setText(f"⚠ missing: {os.path.basename(path)}")
+            self._cf_sound_path_lbl.setToolTip(path)
+        else:
+            self._cf_sound_path_lbl.setText("Default chime (built-in)")
+            self._cf_sound_path_lbl.setToolTip("Using the generated default alert sound")
+
+    def _on_cf_sound_toggle(self, state):
+        overlay_settings.set_cf_sound_enabled(state != 0)
+
+    def _choose_cf_sound(self):
+        from PyQt5.QtWidgets import QFileDialog
+        path, _ = QFileDialog.getOpenFileName(
+            self, "Choose Cloudflare alert sound", "",
+            "Audio (*.wav *.mp3 *.ogg *.flac);;All files (*)"
+        )
+        if not path:
+            return
+        overlay_settings.set_cf_sound_path(path)
+        self._refresh_cf_sound_path_label()
+        self._test_cf_sound()
+
+    def _reset_cf_sound(self):
+        overlay_settings.set_cf_sound_path("")
+        self._refresh_cf_sound_path_label()
+
+    def _on_cf_volume_changed(self, value):
+        overlay_settings.set_cf_sound_volume(int(value))
+
+    def _test_cf_sound(self):
+        try:
+            from hud_overlays import cf_alert_player
+            cf_alert_player.play(force=True)
+        except Exception:
+            self.status_bar.showMessage("Could not play sound (audio backend unavailable)", 4000)
 
     def _make_settings_group(self, title: str, subtitle: str = "") -> QGroupBox:
         """Styled settings section group box."""
@@ -3920,13 +5052,6 @@ class BossWikiApp(QMainWindow):
             act_view = menu.addAction(f"📋 View: {boss_name}")
             act_view.triggered.connect(lambda: self._display_boss(boss_name))
             menu.addSeparator()
-            if EXPORTER_AVAILABLE:
-                act_exp_boss = menu.addAction(f"📤 Export Boss: {boss_name}")
-                act_exp_boss.triggered.connect(
-                    lambda checked=False, bn=boss_name:
-                        exp.export_boss(self.conn, bn, self)
-                )
-                menu.addSeparator()
             act_del = menu.addAction(f"🗑 Delete Boss: {boss_name}")
             act_del.triggered.connect(lambda: self._remove_boss_by_name(boss_name))
             menu.addSeparator()
@@ -3947,15 +5072,6 @@ class BossWikiApp(QMainWindow):
             act_col = menu.addAction("⊖ Collapse")
             act_col.triggered.connect(lambda: item.setExpanded(False))
             menu.addSeparator()
-            if EXPORTER_AVAILABLE and count > 0:
-                act_exp_loc = menu.addAction(
-                    f"📤 Export all {count} boss{'es' if count != 1 else ''} in this {label}"
-                )
-                act_exp_loc.triggered.connect(
-                    lambda checked=False, lk=location_key, nt=node_type:
-                        exp.export_bosses_by_location(self.conn, lk, nt, self)
-                )
-                menu.addSeparator()
             if count > 0:
                 act_del = menu.addAction(
                     f"🗑 Delete all {count} boss{'es' if count != 1 else ''} in this {label}"
@@ -4825,17 +5941,61 @@ class BossWikiApp(QMainWindow):
     # ─── FETCH ALL BOSSES ───────────────────────────────────────
 
     def _fetch_all(self):
+        resume = self.boss_resume_chk.isChecked()
+        extra = ("\n\nResume is on: bosses already in your database will be skipped."
+                 if resume else "")
         reply = QMessageBox.question(
             self, "Fetch ALL Bosses",
             "This will open Chrome to bypass Cloudflare,\n"
             "then fetch all bosses via the wiki API.\n\n"
-            "This takes ~10-15 minutes. Chrome stays open during this.\n"
-            "Continue?",
+            "This takes ~10-15 minutes. Chrome stays open during this."
+            + extra + "\n\nContinue?",
             QMessageBox.Yes | QMessageBox.No
         )
         if reply != QMessageBox.Yes:
             return
-        self._run_db_builder([], "Fetching all bosses...")
+        args = ["--resume"] if resume else []
+        label = ("Fetching all bosses (resume — skipping already-fetched)..."
+                 if resume else "Fetching all bosses...")
+        self._run_db_builder(args, label)
+
+    def _delete_all_bosses(self):
+        """Delete every boss from the database after confirmation."""
+        count = len(db.get_boss_names(self.conn))
+        if count == 0:
+            QMessageBox.information(self, "Delete All Bosses", "There are no bosses to delete.")
+            return
+        box = QMessageBox(self)
+        box.setWindowTitle("Delete All Bosses")
+        box.setText(f"Delete <b>all {count}</b> bosses?")
+        box.setInformativeText(
+            "This permanently removes every boss from the database. Round counters, "
+            "guides, quests and your other data are not affected. You can re-fetch "
+            "bosses any time with 'Fetch ALL Bosses'."
+        )
+        box.setStandardButtons(QMessageBox.Yes | QMessageBox.No)
+        box.setDefaultButton(QMessageBox.No)
+        box.setIcon(QMessageBox.Warning)
+        if box.exec_() != QMessageBox.Yes:
+            return
+        deleted = db.delete_all_bosses(self.conn)
+        # Refresh all boss-dependent surfaces
+        self.boss_names = db.get_boss_names(self.conn)
+        if self.ocr_scanner:
+            self.ocr_scanner.set_known_names(self.boss_names)
+        self.counter_panel.update_boss_names(self.boss_names)
+        self.guide_panel.update_boss_names(self.boss_names)
+        if self.overlay_manager:
+            boss_ov = self.overlay_manager.get_boss_overlay()
+            if boss_ov:
+                boss_ov.set_boss_names(self.boss_names)
+        self._refresh_tree()
+        self._update_status_bar()
+        completer = QCompleter(self.boss_names)
+        completer.setCaseSensitivity(Qt.CaseInsensitive)
+        completer.setFilterMode(Qt.MatchContains)
+        self.search_input.setCompleter(completer)
+        QMessageBox.information(self, "Deleted", f"Removed {deleted} boss(es).")
 
     # ─── SUBPROCESS RUNNER ──────────────────────────────────────
 
@@ -4849,6 +6009,8 @@ class BossWikiApp(QMainWindow):
         self.progress_label.setText(label)
         self.progress_output.clear()
         self.scrape_btn.setEnabled(False)
+        if hasattr(self, "boss_del_all_btn"):
+            self.boss_del_all_btn.setEnabled(False)
 
         self.fetch_process = QProcess(self)
         self.fetch_process.setProcessChannelMode(QProcess.MergedChannels)
@@ -4861,6 +6023,11 @@ class BossWikiApp(QMainWindow):
 
     def _on_fetch_output(self):
         data = self.fetch_process.readAllStandardOutput().data().decode('utf-8', errors='replace')
+        # Cloudflare "verify you are human" checkbox appeared in the scraper's
+        # Chrome window → play the alert sound so the user knows to click it.
+        if cf_alert is not None and cf_alert.MARKER in data:
+            self._play_cf_alert()
+            data = cf_alert.strip_marker(data)
         self.progress_output.append(data.rstrip())
         # Auto-scroll
         sb = self.progress_output.verticalScrollBar()
@@ -4872,8 +6039,18 @@ class BossWikiApp(QMainWindow):
                 self.progress_label.setText(line[:100])
                 break
 
+    def _play_cf_alert(self):
+        """Play the Cloudflare-challenge alert sound (best-effort, never raises)."""
+        try:
+            from hud_overlays import cf_alert_player
+            cf_alert_player.play()
+        except Exception:
+            pass
+
     def _on_fetch_finished(self, exit_code, exit_status):
         self.scrape_btn.setEnabled(True)
+        if hasattr(self, "boss_del_all_btn"):
+            self.boss_del_all_btn.setEnabled(True)
         self.progress_label.setText(f"Done (exit code: {exit_code})")
 
         # Refresh DB
@@ -4907,7 +6084,9 @@ class BossWikiApp(QMainWindow):
     def _cancel_fetch(self):
         if self.fetch_process and self.fetch_process.state() != QProcess.NotRunning:
             self.fetch_process.kill()
-            self.progress_label.setText("Cancelled")
+            self.progress_label.setText(
+                "Stopped — bosses already fetched are saved. "
+                "Tick Resume and Fetch again to continue.")
 
     # ─── CACHE FILE HELPERS ────────────────────────────────────
 
@@ -5234,8 +6413,18 @@ class BossWikiApp(QMainWindow):
             f"Fetch uses db_builder.py"
         )
 
+    def _run_backup(self):
+        """Save a full backup of all data to a file."""
+        if not EXPORTER_AVAILABLE:
+            return
+        try:
+            exp.create_backup(self.conn, self)
+        except Exception as e:
+            from PyQt5.QtWidgets import QMessageBox as _MB
+            _MB.critical(self, "Backup failed", str(e))
+
     def _run_import(self):
-        """Open a JSON file, detect its export_type, and dispatch to the right importer."""
+        """Open a backup file and selectively restore chosen categories."""
         if not EXPORTER_AVAILABLE:
             return
         try:
@@ -5244,7 +6433,7 @@ class BossWikiApp(QMainWindow):
             from PyQt5.QtWidgets import QMessageBox as _MB
             _MB.warning(self, "Import unavailable", "importer.py not found.")
             return
-        imp_mod.import_file(self.conn, self)
+        imp_mod.import_backup(self.conn, self)
         # Refresh all panels after import
         self._refresh_tree()
         self.boss_names = db.get_boss_names(self.conn)
@@ -5265,6 +6454,10 @@ class BossWikiApp(QMainWindow):
             self.ocr_scanner.stop()
         if self.fetch_process and self.fetch_process.state() != QProcess.NotRunning:
             self.fetch_process.kill()
+        for w in (getattr(self, "_update_check_worker", None),
+                  getattr(self, "_update_pull_worker", None)):
+            if w is not None and w.isRunning():
+                w.wait(3000)
         if self.overlay_manager:
             self.overlay_manager.close_all()
         if self.keybind_manager:

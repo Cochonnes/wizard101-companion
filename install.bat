@@ -130,11 +130,27 @@ echo  Installing Pillow...
 if %errorlevel% neq 0 goto :pillow_warn
 echo  [OK] Pillow installed.
 echo(
-goto :install_torch
+goto :install_opencv
 
 :pillow_warn
 echo  [WARN] Pillow failed.
 echo(
+goto :install_opencv
+
+:: ---- 6b. OpenCV (spell card icon recognition) ----------------
+:install_opencv
+echo  Installing opencv-python-headless...
+%PIP% install opencv-python-headless --quiet
+if %errorlevel% neq 0 goto :opencv_warn
+echo  [OK] opencv-python-headless installed.
+echo(
+goto :install_torch
+
+:opencv_warn
+echo  [WARN] opencv-python-headless failed. Spell icon recognition
+echo         (icon_detector.py) will be disabled; text OCR is unaffected.
+echo(
+goto :install_torch
 
 :: ---- 7. PyTorch 2.6.0 CPU -----------------------------------
 :install_torch
@@ -271,6 +287,9 @@ if %errorlevel%==0 ( echo    keyboard        [OK] ) else ( echo    keyboard     
 
 "%VPYTHON%" -c "import PIL" >nul 2>&1
 if %errorlevel%==0 ( echo    Pillow          [OK] ) else ( echo    Pillow          [WARN] )
+
+"%VPYTHON%" -c "import cv2" >nul 2>&1
+if %errorlevel%==0 ( echo    opencv          [OK] ) else ( echo    opencv          [WARN - spell icon detection disabled] )
 
 "%VPYTHON%" -c "import torch; torch.zeros(1)" >nul 2>&1
 if %errorlevel%==0 ( echo    torch           [OK] ) else ( echo    torch           [WARN - OCR disabled] )

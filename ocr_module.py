@@ -33,7 +33,6 @@ OCR_AVAILABLE = False
 _OCR_LOAD_ERROR: str = ""
 try:
     import numpy as np
-    from PIL import ImageGrab
     import easyocr
     OCR_AVAILABLE = True
 except ImportError as _e:
@@ -46,6 +45,80 @@ except OSError as _e:
 except Exception as _e:
     _OCR_LOAD_ERROR = f"Unexpected import error: {_e}"
     logger.warning("OCR disabled — unexpected error during import: %s", _e)
+
+# ─── SCREEN-CAPTURE BACKENDS ───────────────────────────────────
+# Cross-platform screen grabbing. `mss` is pure-Python and works on
+# Windows, macOS and Linux (X11 + Wayland-via-XWayland), so it is the
+# preferred backend. PIL.ImageGrab is kept as a fallback — it works on
+# Windows/macOS natively but on Linux needs an external screenshot tool
+# (scrot / gnome-screenshot) and does not work under pure Wayland.
+# At least one backend must be importable for OCR scanning to run.
+_MSS_AVAILABLE = False
+_mss_ctor = None
+try:
+    import mss  # noqa: E402
+    # Newer mss renamed the class mss.mss → mss.MSS; support both.
+    _mss_ctor = getattr(mss, "MSS", None) or getattr(mss, "mss", None)
+    _MSS_AVAILABLE = _mss_ctor is not None
+except Exception:  # pragma: no cover
+    mss = None
+
+_IMAGEGRAB_AVAILABLE = False
+try:
+    from PIL import ImageGrab  # noqa: E402
+    _IMAGEGRAB_AVAILABLE = True
+except Exception:  # pragma: no cover
+    ImageGrab = None
+
+_CAPTURE_AVAILABLE = _MSS_AVAILABLE or _IMAGEGRAB_AVAILABLE
+if OCR_AVAILABLE and not _CAPTURE_AVAILABLE:
+    OCR_AVAILABLE = False
+    _OCR_LOAD_ERROR = (
+        "No screen-capture backend available. Install 'mss' "
+        "(pip install mss) or Pillow with a screenshot tool."
+    )
+    logger.warning("OCR disabled — %s", _OCR_LOAD_ERROR)
+
+
+def _grab_screen_rgb(bbox: Optional[Tuple[int, int, int, int]] = None):
+    """
+    Capture the screen (or a region) and return an RGB numpy array.
+
+    `bbox` is (left, top, right, bottom) in screen coordinates, or None
+    for the full virtual desktop (all monitors). Both backends are
+    normalised to return the same HxWx3 RGB array that EasyOCR expects.
+
+    A fresh mss instance is created per call because mss objects are not
+    thread-safe and must be used on the thread that created them; the OCR
+    scan interval makes this overhead negligible.
+    """
+    if _MSS_AVAILABLE:
+        with _mss_ctor() as sct:
+            if bbox:
+                left, top, right, bottom = bbox
+                region = {
+                    "left": int(left),
+                    "top": int(top),
+                    "width": int(right - left),
+                    "height": int(bottom - top),
+                }
+            else:
+                # monitors[0] is the combined virtual screen (all displays)
+                region = sct.monitors[0]
+            raw = sct.grab(region)
+            # mss returns BGRA; drop alpha and reorder to RGB
+            arr = np.asarray(raw)
+            return arr[:, :, [2, 1, 0]]
+
+    if _IMAGEGRAB_AVAILABLE:
+        shot = ImageGrab.grab(bbox=bbox) if bbox else ImageGrab.grab()
+        arr = np.asarray(shot)
+        # ImageGrab may return RGBA on some platforms — trim to 3 channels
+        if arr.ndim == 3 and arr.shape[2] == 4:
+            arr = arr[:, :, :3]
+        return arr
+
+    raise RuntimeError("No screen-capture backend available (mss or Pillow).")
 
 # Levenshtein is optional — fall back to the legacy scorer if not installed
 _LEV_AVAILABLE = False
@@ -432,13 +505,8 @@ class OCRScanner(QThread):
             return
 
         try:
-            # ── Screen capture ───────────────────────────────────
-            if self.scan_region:
-                screenshot = ImageGrab.grab(bbox=self.scan_region)
-            else:
-                screenshot = ImageGrab.grab()
-
-            img_array = np.array(screenshot)
+            # ── Screen capture (cross-platform: mss → ImageGrab) ──
+            img_array = _grab_screen_rgb(self.scan_region if self.scan_region else None)
             results   = self.reader.readtext(img_array, detail=1)
 
             debug_lines: List[str] = []

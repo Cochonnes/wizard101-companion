@@ -29,7 +29,11 @@ import json
 import time
 from typing import Optional
 
-from PyQt5.QtWidgets import QFileDialog, QMessageBox
+from PyQt5.QtWidgets import (
+    QFileDialog, QMessageBox, QDialog, QVBoxLayout, QHBoxLayout,
+    QLabel, QCheckBox, QPushButton, QGridLayout, QFrame,
+)
+from PyQt5.QtCore import Qt
 
 
 # ═══════════════════════════════════════════════════════════════
@@ -458,6 +462,39 @@ def _import_calc_preset(conn, data: dict) -> int:
     return 1
 
 
+def _import_spell(conn, data: dict) -> int:
+    """Upsert a single spell (matched by name via upsert_spell)."""
+    if not data or not data.get("name"):
+        return 0
+    import database_spells as ds
+    try:
+        ds.upsert_spell(conn, data)
+        return 1
+    except Exception:
+        return 0
+
+
+def _import_deck(conn, data: dict) -> int:
+    """Upsert a saved deck (matched by name)."""
+    if not data or not data.get("name"):
+        return 0
+    import database_spells as ds
+    existing = conn.execute(
+        "SELECT id FROM decks WHERE name = ? COLLATE NOCASE", (data["name"],)
+    ).fetchone()
+    record = {
+        "name":        data["name"],
+        "school":      data.get("school", "Fire"),
+        "tag":         data.get("tag", ""),
+        "description": data.get("description", ""),
+        "cards":       data.get("cards", []),
+    }
+    if existing:
+        record["id"] = existing["id"]
+    ds.upsert_deck(conn, record)
+    return 1
+
+
 def _import_wizard(conn, data: dict) -> int:
     """Upsert a saved wizard / character (matched by name)."""
     if not data or not data.get("name"):
@@ -489,3 +526,107 @@ def _import_wizard(conn, data: dict) -> int:
         record["id"] = existing["id"]
     dcalc.upsert_wizard(conn, record)
     return 1
+
+
+# ═══════════════════════════════════════════════════════════════
+# BACKUP IMPORT  (selective restore with GUI category picker)
+# ═══════════════════════════════════════════════════════════════
+
+# category key → (nice label, per-item importer)
+_BACKUP_CATEGORIES = [
+    ("bosses",          "Bosses",             _import_boss),
+    ("round_counters",  "Round Counters",     _import_counter),
+    ("strategy_guides", "Strategy Guides",    _import_guide),
+    ("gear_loadouts",   "Gear Loadouts",      _import_loadout),
+    ("quest_worlds",    "Quest Worlds",       _import_quest_world),
+    ("decks",           "Decks",              _import_deck),
+    ("spells",          "Spells",             _import_spell),
+    ("calc_presets",    "Calculator Presets", _import_calc_preset),
+    ("characters",      "Characters",         _import_wizard),
+]
+
+
+def import_backup(conn, parent=None) -> bool:
+    """Open a backup file, let the user pick categories, and restore them."""
+    path, _ = QFileDialog.getOpenFileName(
+        parent, "Import from Backup — choose a backup file",
+        "", "JSON Files (*.json);;All Files (*)"
+    )
+    if not path:
+        return False
+
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            payload = json.load(f)
+    except Exception as e:
+        QMessageBox.critical(parent, "Import failed", f"Could not read file:\n{e}")
+        return False
+
+    if not isinstance(payload, dict) or payload.get("app") != "Wizard101 Companion":
+        QMessageBox.warning(
+            parent, "Import failed",
+            "This does not look like a Wizard101 Companion backup file."
+        )
+        return False
+
+    # Accept the new backup format and the legacy full_export format.
+    if payload.get("format") == "backup" or payload.get("export_type") == "full_export":
+        data = payload.get("data", {}) or {}
+    else:
+        QMessageBox.warning(
+            parent, "Not a backup",
+            "This file isn't a full backup. Use the Backup button to create one, "
+            "or share individual items with their base64 codes."
+        )
+        return False
+
+    if not isinstance(data, dict):
+        QMessageBox.warning(parent, "Import failed", "Backup data is malformed.")
+        return False
+
+    counts = payload.get("counts") or {k: len(data.get(k, []) or [])
+                                        for k, _l, _f in _BACKUP_CATEGORIES}
+    meta_iso = payload.get("created_iso", "")
+
+    import share_codes
+    categories = [(key, label, counts.get(key, 0))
+                  for key, label, _fn in _BACKUP_CATEGORIES]
+    dlg = share_codes.CategorySelectDialog(
+        "Import from Backup",
+        "Choose what to restore from this backup.",
+        categories,
+        action_label="📥 Import Selected",
+        note="Items are merged into your data — matching names are updated, "
+             "nothing existing is deleted.",
+        meta_line=f"📅 Backup created: {meta_iso or 'unknown'}",
+        parent=parent,
+    )
+    if dlg.exec_() != QDialog.Accepted or not dlg.selected:
+        return False
+
+    total = 0
+    per_cat = []
+    for key, label, fn in _BACKUP_CATEGORIES:
+        if key not in dlg.selected:
+            continue
+        n = 0
+        for item in data.get(key, []) or []:
+            try:
+                n += fn(conn, item)
+            except Exception:
+                pass
+        if n:
+            per_cat.append(f"{label}: {n}")
+        total += n
+
+    try:
+        conn.commit()
+    except Exception:
+        pass
+
+    summary = "<br>".join(per_cat) if per_cat else "No items imported."
+    QMessageBox.information(
+        parent, "Import complete",
+        f"Restored <b>{total}</b> item(s):<br>{summary}"
+    )
+    return True

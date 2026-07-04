@@ -118,7 +118,16 @@ class OverlaySettings:
         "counter": {"enabled": False, "clickthrough": False, "x": 420, "y": 40,  "w": 300, "h": 340, "alpha": -1},
         "guide":   {"enabled": False, "clickthrough": False, "x": 420, "y": 400, "w": 320, "h": 340, "alpha": -1},
         "calc":    {"enabled": False, "clickthrough": False, "x": 760, "y": 40,  "w": 360, "h": 560, "alpha": -1},
-        "_global": {"alpha": 51, "ocr_mode": "dynamic"},
+        "_global": {
+            "alpha": 51,
+            "ocr_mode": "dynamic",
+            # ── Cloudflare-challenge alert sound ──────────────────────────
+            # Plays when a fetch subprocess reports the "verify you are human"
+            # checkbox has appeared, so the user knows to click it.
+            "cf_sound_enabled": True,
+            "cf_sound_path": "",        # "" → use the generated default chime
+            "cf_sound_volume": 70,      # 0–100
+        },
     }
 
     def __init__(self):
@@ -205,8 +214,188 @@ class OverlaySettings:
         self._data.setdefault("_global", {})["ocr_mode"] = mode
         self.save()
 
+    # ── Auto-update ───────────────────────────────────────────────────────
+    def get_auto_update(self) -> bool:
+        return bool(self._data.get("_global", {}).get("auto_update", False))
+
+    def set_auto_update(self, v: bool):
+        self._data.setdefault("_global", {})["auto_update"] = bool(v)
+        self.save()
+
+    # ── Cloudflare-challenge alert sound ──────────────────────────────────
+    def get_cf_sound_enabled(self) -> bool:
+        return bool(self._data.get("_global", {}).get("cf_sound_enabled", True))
+
+    def set_cf_sound_enabled(self, v: bool):
+        self._data.setdefault("_global", {})["cf_sound_enabled"] = bool(v)
+        self.save()
+
+    def get_cf_sound_path(self) -> str:
+        return str(self._data.get("_global", {}).get("cf_sound_path", "") or "")
+
+    def set_cf_sound_path(self, p: str):
+        self._data.setdefault("_global", {})["cf_sound_path"] = str(p or "")
+        self.save()
+
+    def get_cf_sound_volume(self) -> int:
+        """Volume as an int 0–100."""
+        try:
+            v = int(self._data.get("_global", {}).get("cf_sound_volume", 70))
+        except (TypeError, ValueError):
+            v = 70
+        return max(0, min(100, v))
+
+    def set_cf_sound_volume(self, v: int):
+        self._data.setdefault("_global", {})["cf_sound_volume"] = max(0, min(100, int(v)))
+        self.save()
+
 
 overlay_settings = OverlaySettings()
+
+
+# ════════════════════════════════════════════════════════════════════════════
+# CLOUDFLARE ALERT SOUND (GUI side)
+# ════════════════════════════════════════════════════════════════════════════
+# Plays when a fetch subprocess prints cf_alert.MARKER (the "verify you are
+# human" checkbox is up in the scraper's Chrome window). QtMultimedia is used
+# when available; everything is guarded so a missing multimedia backend or a
+# bad sound file never breaks the fetch.
+
+_SOUNDS_DIR = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)), "sounds"
+)
+_DEFAULT_SOUND = os.path.join(_SOUNDS_DIR, "cf_alert_default.wav")
+
+
+def ensure_default_sound() -> str:
+    """
+    Return the path to the bundled default alert chime, synthesising it once
+    (16-bit mono WAV, two short tones) if it doesn't exist yet. Pure stdlib —
+    no binary shipped in git. Returns "" if generation fails.
+    """
+    try:
+        if os.path.exists(_DEFAULT_SOUND):
+            return _DEFAULT_SOUND
+        import math
+        import struct
+        import wave
+
+        os.makedirs(_SOUNDS_DIR, exist_ok=True)
+        rate = 44100
+        frames = bytearray()
+
+        def _tone(freq, ms, amp=0.5):
+            n = int(rate * ms / 1000.0)
+            for i in range(n):
+                # Short attack/decay envelope to avoid clicks.
+                env = min(1.0, i / (rate * 0.01)) * min(1.0, (n - i) / (rate * 0.03))
+                s = amp * env * math.sin(2 * math.pi * freq * (i / rate))
+                # .extend (not +=) so the enclosing `frames` isn't shadowed as
+                # a local of this nested function.
+                frames.extend(struct.pack("<h", int(max(-1.0, min(1.0, s)) * 32767)))
+
+        _tone(880.0, 140)     # A5
+        _tone(1174.7, 200)    # D6  → a friendly two-note "ding-dong"
+
+        with wave.open(_DEFAULT_SOUND, "wb") as w:
+            w.setnchannels(1)
+            w.setsampwidth(2)
+            w.setframerate(rate)
+            w.writeframes(bytes(frames))
+        return _DEFAULT_SOUND
+    except Exception:
+        return ""
+
+
+class CloudflareAlertPlayer:
+    """
+    Lazily-initialised sound player. ``play()`` respects the enabled toggle and
+    volume from overlay_settings; ``play(force=True)`` (used by the Test button)
+    ignores the enabled toggle so the user can preview.
+    """
+
+    def __init__(self):
+        self._effect = None      # QSoundEffect (best for .wav)
+        self._player = None      # QMediaPlayer (other formats)
+        self._mm_ok = None       # None = not yet probed
+
+    def _probe_multimedia(self) -> bool:
+        if self._mm_ok is not None:
+            return self._mm_ok
+        try:
+            from PyQt5.QtMultimedia import QSoundEffect  # noqa: F401
+            self._mm_ok = True
+        except Exception:
+            self._mm_ok = False
+        return self._mm_ok
+
+    def _resolve_path(self) -> str:
+        path = overlay_settings.get_cf_sound_path()
+        if path and os.path.exists(path):
+            return path
+        # Fall back to the generated default chime.
+        return ensure_default_sound()
+
+    def play(self, force: bool = False):
+        if not force and not overlay_settings.get_cf_sound_enabled():
+            return
+        vol = overlay_settings.get_cf_sound_volume()  # 0–100
+        path = self._resolve_path()
+
+        if path and self._probe_multimedia():
+            try:
+                if self._play_file(path, vol):
+                    return
+            except Exception:
+                pass
+        # Last-resort fallback so *something* is heard even without a file /
+        # QtMultimedia: a system beep (volume not controllable here).
+        self._system_beep()
+
+    # ── Backends ──────────────────────────────────────────────────────────
+    def _play_file(self, path: str, vol: int) -> bool:
+        from PyQt5.QtCore import QUrl
+        ext = os.path.splitext(path)[1].lower()
+        if ext == ".wav":
+            from PyQt5.QtMultimedia import QSoundEffect
+            if self._effect is None:
+                self._effect = QSoundEffect()
+            self._effect.setSource(QUrl.fromLocalFile(os.path.abspath(path)))
+            self._effect.setVolume(max(0.0, min(1.0, vol / 100.0)))
+            self._effect.play()
+            return True
+        # mp3 / ogg / etc. → QMediaPlayer (needs platform codecs for mp3).
+        try:
+            from PyQt5.QtMultimedia import QMediaPlayer, QMediaContent
+            if self._player is None:
+                self._player = QMediaPlayer()
+            self._player.setMedia(QMediaContent(QUrl.fromLocalFile(os.path.abspath(path))))
+            self._player.setVolume(max(0, min(100, vol)))
+            self._player.play()
+            return True
+        except Exception:
+            return False
+
+    @staticmethod
+    def _system_beep():
+        try:
+            import sys as _sys
+            if _sys.platform == "win32":
+                import winsound
+                winsound.MessageBeep(winsound.MB_ICONEXCLAMATION)
+                return
+        except Exception:
+            pass
+        try:
+            from PyQt5.QtWidgets import QApplication
+            app = QApplication.instance()
+            if app is not None:
+                app.beep()
+        except Exception:
+            pass
+
+
+cf_alert_player = CloudflareAlertPlayer()
 
 
 # ════════════════════════════════════════════════════════════════════════════

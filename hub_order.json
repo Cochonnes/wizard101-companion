@@ -1,0 +1,52 @@
+[
+  {
+    "id": "boss_wiki",
+    "favorite": false,
+    "hidden": false
+  },
+  {
+    "id": "damage_calc",
+    "favorite": false,
+    "hidden": false
+  },
+  {
+    "id": "quest_tracker",
+    "favorite": false,
+    "hidden": false
+  },
+  {
+    "id": "round_counters",
+    "favorite": false,
+    "hidden": false
+  },
+  {
+    "id": "strategy_guides",
+    "favorite": false,
+    "hidden": false
+  },
+  {
+    "id": "gear_guide",
+    "favorite": false,
+    "hidden": false
+  },
+  {
+    "id": "characters",
+    "favorite": false,
+    "hidden": false
+  },
+  {
+    "id": "spell_browser",
+    "favorite": false,
+    "hidden": false
+  },
+  {
+    "id": "deck_builder",
+    "favorite": false,
+    "hidden": false
+  },
+  {
+    "id": "hud_settings",
+    "favorite": false,
+    "hidden": false
+  }
+]

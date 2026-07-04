@@ -54,6 +54,7 @@ except ImportError:
     NODRIVER_AVAILABLE = False
 
 import database as db
+import cf_alert
 
 logging.basicConfig(
     level=logging.INFO,
@@ -85,6 +86,9 @@ class BrowserAPIClient:
         self.browser = None
         self.page = None
         self._request_count = 0
+        # Alerts the parent GUI (via a stdout marker) when the Cloudflare
+        # "verify you are human" checkbox appears and needs a manual click.
+        self._cf_notifier = cf_alert.ChallengeNotifier()
 
     async def start(self):
         """Launch Chrome and pass Cloudflare."""
@@ -102,7 +106,11 @@ class BrowserAPIClient:
                 title = await self.page.evaluate("document.title")
                 if "wizard101" in title.lower() or "wiki" in title.lower():
                     print(f"  [OK] Cloudflare passed! Page: {title[:60]}")
+                    self._cf_notifier.reset()
                     break
+                # Still on the challenge → alert the GUI (throttled).
+                # Title-only: do NOT probe the page or Turnstile loops forever.
+                self._cf_notifier.note(cf_alert.title_indicates_challenge(title))
                 if i > 0 and i % 5 == 0:
                     print(f"  ... still waiting ({i}s)")
             except Exception:
@@ -198,8 +206,11 @@ class BrowserAPIClient:
                     title = await self.page.evaluate("document.title")
                     if "wizard101" in title.lower() or "wiki" in title.lower():
                         print(f"  [OK] Session refreshed!")
+                        self._cf_notifier.reset()
                         await asyncio.sleep(2)
                         return
+                    # Challenge re-appeared mid-run → alert the GUI (throttled).
+                    self._cf_notifier.note(cf_alert.title_indicates_challenge(title))
                 except Exception:
                     pass
             print("  [WARN] Session refresh timed out")
@@ -683,7 +694,7 @@ def _safe_print(*args, **kwargs):
         print(safe, **{k: v for k, v in kwargs.items() if k != "end"})
 
 
-async def async_build(conn, test_boss=None):
+async def async_build(conn, test_boss=None, resume=False):
     client = BrowserAPIClient()
 
     try:
@@ -740,6 +751,15 @@ async def async_build(conn, test_boss=None):
         cache_dir = Path("wikitext_cache")
         cache_dir.mkdir(exist_ok=True)
 
+        # Resume: preload existing boss names (lowercased) so we can skip in O(1)
+        # everything already fetched, letting an interrupted build continue from
+        # where it stopped instead of grinding back through the whole list.
+        existing_names = set()
+        if resume:
+            existing_names = {n.lower() for n in db.get_boss_names(conn)}
+            print(f"  Resume ON — {len(existing_names)} bosses already in DB "
+                  f"will be skipped.\n")
+
         success = errors = skipped = 0
         start_time = time.time()
 
@@ -747,7 +767,12 @@ async def async_build(conn, test_boss=None):
             name = info['name']
             wiki_path = info['wiki_path']
 
-            # Skip if already recent in DB
+            # Resume skip: already in DB (any age)
+            if resume and name.lower() in existing_names:
+                skipped += 1
+                continue
+
+            # Skip if already recent in DB (non-resume freshness guard)
             existing = db.get_boss(conn, name)
             if existing and existing.get('last_updated_at', 0) > time.time() - 86400:
                 skipped += 1
@@ -790,7 +815,7 @@ async def async_build(conn, test_boss=None):
         await client.stop()
 
 
-def build_via_browser(conn, test_boss=None):
+def build_via_browser(conn, test_boss=None, resume=False):
     """Sync wrapper for the async build."""
     if not NODRIVER_AVAILABLE:
         print("\n  nodriver NOT INSTALLED")
@@ -799,7 +824,7 @@ def build_via_browser(conn, test_boss=None):
         print("\n  Alternative: python db_builder.py --offline ./saved_pages")
         return
     # nodriver needs its own event loop management
-    uc.loop().run_until_complete(async_build(conn, test_boss))
+    uc.loop().run_until_complete(async_build(conn, test_boss, resume=resume))
 
 
 def main():
@@ -816,6 +841,8 @@ Examples:
     )
     parser.add_argument('--offline', type=str, help='Path to folder with saved HTML files')
     parser.add_argument('--test', type=str, help='Test fetch a single boss by name')
+    parser.add_argument('--resume', action='store_true',
+                        help='Skip bosses already in the database (resume an interrupted build)')
     args = parser.parse_args()
 
     conn = db.get_connection()
@@ -824,7 +851,7 @@ Examples:
     if args.offline:
         build_offline(args.offline, conn)
     else:
-        build_via_browser(conn, test_boss=args.test)
+        build_via_browser(conn, test_boss=args.test, resume=args.resume)
 
     conn.close()
 

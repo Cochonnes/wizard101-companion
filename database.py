@@ -324,6 +324,18 @@ def get_boss_raw_wikitext_by_location(conn: sqlite3.Connection, prefix: str) -> 
     return [(r['name'], r['raw_html']) for r in rows]
 
 
+def delete_all_bosses(conn: sqlite3.Connection) -> int:
+    """Permanently delete every boss. Returns count deleted.
+
+    The bosses_fts index stays in sync via the delete trigger from init_db().
+    Round counters, guides, quests and all other user data are untouched.
+    """
+    count = conn.execute("SELECT COUNT(*) FROM bosses").fetchone()[0]
+    conn.execute("DELETE FROM bosses")
+    conn.commit()
+    return int(count)
+
+
 def delete_bosses_by_location_prefix(conn: sqlite3.Connection, prefix: str) -> int:
     """
     Delete all bosses whose location starts with `prefix`.
@@ -626,3 +638,65 @@ def _row_to_dict(row) -> Dict:
         d['has_raw_html'] = bool(d['raw_html'])
         del d['raw_html']
     return d
+
+
+# ═══════════════════════════════════════════════════════════════
+# SHARE CODES  (base64 encode/decode) — round counters & guides
+# ═══════════════════════════════════════════════════════════════
+
+def export_counter_code(counter: Dict) -> str:
+    """Encode a round counter (from get_round_counter) as a base64 share code."""
+    import base64
+    payload = json.dumps({
+        "n": counter.get("name", ""),
+        "d": counter.get("description", ""),
+        "r": counter.get("rounds", []),
+        "b": counter.get("linked_bosses", []),
+    }, separators=(",", ":"), ensure_ascii=False)
+    return base64.b64encode(payload.encode("utf-8")).decode("ascii")
+
+
+def import_counter_code(code: str) -> Optional[Dict]:
+    """Decode a base64 round-counter code into an upsert-ready dict. None on error."""
+    import base64
+    try:
+        p = json.loads(base64.b64decode(code.strip().encode("ascii")).decode("utf-8"))
+        return {
+            "name":          p.get("n", "Imported Counter"),
+            "description":   p.get("d", ""),
+            "rounds":        p.get("r", []),
+            "linked_bosses": p.get("b", []),
+        }
+    except Exception:
+        return None
+
+
+def export_guide_code(guide: Dict) -> str:
+    """Encode a strategy guide (from get_guide) as a base64 share code."""
+    import base64
+    payload = json.dumps({
+        "n":  guide.get("name", ""),
+        "f":  guide.get("free_text", ""),
+        "s":  guide.get("schools", ["Fire", "Ice", "Storm", "Myth"]),
+        "t":  guide.get("table_data", {}),
+        "nr": guide.get("num_rounds", 3),
+        "b":  guide.get("linked_bosses", []),
+    }, separators=(",", ":"), ensure_ascii=False)
+    return base64.b64encode(payload.encode("utf-8")).decode("ascii")
+
+
+def import_guide_code(code: str) -> Optional[Dict]:
+    """Decode a base64 strategy-guide code into an upsert-ready dict. None on error."""
+    import base64
+    try:
+        p = json.loads(base64.b64decode(code.strip().encode("ascii")).decode("utf-8"))
+        return {
+            "name":          p.get("n", "Imported Guide"),
+            "free_text":     p.get("f", ""),
+            "schools":       p.get("s", ["Fire", "Ice", "Storm", "Myth"]),
+            "table_data":    p.get("t", {}),
+            "num_rounds":    p.get("nr", 3),
+            "linked_bosses": p.get("b", []),
+        }
+    except Exception:
+        return None

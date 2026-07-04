@@ -18,6 +18,16 @@ world_order.json
 # EasyOCR model cache
 .EasyOCR/
 
+# Generated Cloudflare-alert default chime (regenerated on demand)
+#sounds/
+
+# Scraped spell caches + images (re-downloadable from the wiki)
+spell_cache/
+spell_html_cache/
+spell_images/
+spell_images_fusion/
+wikitext_cache/
+
 # PyInstaller (if you ever try again)
 build/
 dist/
