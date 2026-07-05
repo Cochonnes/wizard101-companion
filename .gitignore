@@ -41,6 +41,9 @@ desktop.ini
 *.tmp
 *.bak
 
+# everything else
+*.zip
+
 # Allow
 !templates/
 !templates/boss_wiki.db

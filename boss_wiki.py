@@ -161,6 +161,15 @@ except Exception as _ocr_err:
     OCR_MODE_DYNAMIC = "dynamic"
     OCR_MODE_STRICT = "strict"
 
+# Global UI scaling (main window + boxes + text + HUD overlays)
+try:
+    import ui_scale
+    UI_SCALE_AVAILABLE = True
+except Exception as _uiscale_err:
+    print(f"[WARN] UI scaling disabled: {_uiscale_err}")
+    UI_SCALE_AVAILABLE = False
+    ui_scale = None
+
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s [%(levelname)s] %(name)s: %(message)s',
@@ -172,7 +181,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ── App Version & GitHub ──────────────────────────────────────
-APP_VERSION = "2.0.0"
+APP_VERSION = "2.1.0"
 # Set this to your GitHub repo, e.g. "YourUsername/Wizard101Companion"
 GITHUB_REPO = "Cochonnes/wizard101-companion"
 
@@ -3582,6 +3591,10 @@ class BossWikiApp(QMainWindow):
         appear_note.setWordWrap(True)
         appear_group.layout().addWidget(appear_note)
 
+        # ══ DISPLAY SCALE SECTION ══════════════════════════════════
+        if UI_SCALE_AVAILABLE and ui_scale is not None:
+            body_layout.addWidget(self._build_display_scale_section())
+
         # ══ CLOUDFLARE ALERT SOUND SECTION ═════════════════════════
         if HUD_AVAILABLE and overlay_settings is not None:
             body_layout.addWidget(self._build_cf_sound_section())
@@ -4789,6 +4802,269 @@ class BossWikiApp(QMainWindow):
             btn.setChecked(True)  # triggers _on_hud_toggle
         else:
             self.overlay_manager.toggle(key, True)
+
+    # ─── DISPLAY SCALE ───────────────────────────────────────────
+    def _build_display_scale_section(self) -> QWidget:
+        """Whole-app scaling: main window, boxes, text and every HUD overlay.
+
+        Scales UP only (100%–200%) via Qt's global QT_SCALE_FACTOR, because
+        Qt renders broken below 1.0. Auto-adjust sizes the app to the screen
+        automatically; a manual value overrides it. Takes effect on restart.
+        """
+        from PyQt5.QtWidgets import QSlider
+
+        cfg = ui_scale.load_config()
+        auto_scale = ui_scale.compute_auto_scale(ui_scale.get_detected_height())
+        shown_scale = cfg["scale"] if cfg["manual"] else auto_scale
+
+        group = self._make_settings_group(
+            "🔍 Display Scale",
+            "Make the whole app — main window, boxes, text and the HUD "
+            "overlays — larger. Leave “Auto-adjust” on to size the app to "
+            "your screen automatically, or turn it off to pick your own "
+            "value. Changes take effect after you restart the app."
+        )
+
+        min_pct = int(round(ui_scale.MIN_SCALE * 100))
+        max_pct = int(round(ui_scale.MAX_SCALE * 100))
+        step_pct = int(round(ui_scale.STEP * 100))
+
+        note = QLabel(
+            f"100% is the normal size; the scale goes from {min_pct}% up to "
+            f"{max_pct}%. (Values below 100% aren't available — Qt renders "
+            "them incorrectly, which is what caused the giant empty boxes.)"
+        )
+        note.setStyleSheet("color:#8ea6c8; font-size:12px; background:transparent;")
+        note.setWordWrap(True)
+        group.layout().addWidget(note)
+
+        suggest_lbl = QLabel(
+            f"Suggested for your screen: <b>{int(round(auto_scale * 100))}%</b>")
+        suggest_lbl.setStyleSheet("color:#8ea6c8; font-size:12px; background:transparent;")
+        suggest_lbl.setWordWrap(True)
+        group.layout().addWidget(suggest_lbl)
+
+        # Auto-adjust toggle
+        self._scale_auto_check = QCheckBox("Auto-adjust to my screen")
+        self._scale_auto_check.setChecked(not cfg["manual"])
+        self._scale_auto_check.setStyleSheet(
+            "color:#ccc; font-size:13px; background:transparent;")
+        self._scale_auto_check.stateChanged.connect(self._on_scale_auto_toggled)
+        group.layout().addWidget(self._scale_auto_check)
+
+        # Slider + spinbox row
+        scale_row = QHBoxLayout()
+        scale_lbl = QLabel("Scale:")
+        scale_lbl.setStyleSheet("color:#ccc; font-size:13px; background:transparent;")
+        scale_row.addWidget(scale_lbl)
+
+        self._scale_slider = QSlider(Qt.Horizontal)
+        self._scale_slider.setRange(min_pct, max_pct)
+        self._scale_slider.setSingleStep(step_pct)
+        self._scale_slider.setPageStep(step_pct * 2)
+        self._scale_slider.setValue(int(round(shown_scale * 100)))
+        self._scale_slider.setStyleSheet("""
+            QSlider::groove:horizontal {
+                background:#0f3460; height:6px; border-radius:3px;
+            }
+            QSlider::handle:horizontal {
+                background:#4d96ff; width:16px; height:16px;
+                margin:-5px 0; border-radius:8px;
+            }
+            QSlider::sub-page:horizontal { background:#4d96ff; border-radius:3px; }
+            QSlider::groove:horizontal:disabled { background:#152238; }
+            QSlider::handle:horizontal:disabled { background:#2a3a52; }
+            QSlider::sub-page:horizontal:disabled { background:#2a3a52; }
+        """)
+
+        self._scale_spin = QSpinBox()
+        self._scale_spin.setRange(min_pct, max_pct)
+        self._scale_spin.setSingleStep(step_pct)
+        self._scale_spin.setValue(int(round(shown_scale * 100)))
+        self._scale_spin.setSuffix("%")
+        self._scale_spin.setFixedWidth(90)
+        self._scale_spin.setAlignment(Qt.AlignCenter)
+        self._scale_spin.setStyleSheet("""
+            QSpinBox {
+                background:#0a1628; color:#ccc; border:1px solid #0f3460;
+                border-radius:4px; font-size:12px; padding:2px 4px;
+            }
+            QSpinBox:focus { border-color:#4d96ff; }
+            QSpinBox:disabled { color:#556; border-color:#152238; }
+            QSpinBox::up-button, QSpinBox::down-button { width:0; height:0; border:none; }
+        """)
+
+        # Two-way sync (guarded so they don't fight each other)
+        self._scale_slider.valueChanged.connect(
+            lambda v: (
+                self._scale_spin.blockSignals(True),
+                self._scale_spin.setValue(v),
+                self._scale_spin.blockSignals(False),
+                self._on_scale_value_changed(v),
+            )
+        )
+        self._scale_spin.valueChanged.connect(
+            lambda v: (
+                self._scale_slider.blockSignals(True),
+                self._scale_slider.setValue(v),
+                self._scale_slider.blockSignals(False),
+                self._on_scale_value_changed(v),
+            )
+        )
+        scale_row.addWidget(self._scale_slider, stretch=1)
+        scale_row.addWidget(self._scale_spin)
+        group.layout().addLayout(scale_row)
+
+        # Reset button + pending-restart status
+        btn_row = QHBoxLayout()
+        btn_row.setSpacing(10)
+
+        reset_btn = QPushButton("↺ Reset to auto")
+        reset_btn.setToolTip("Turn auto-adjust back on and use the size detected for your screen")
+        reset_btn.setStyleSheet(
+            "QPushButton{background:#0f3460;color:#e0e0e0;border:none;"
+            "border-radius:6px;padding:8px 16px;font-size:12px;font-weight:bold;}"
+            "QPushButton:hover{background:#4d96ff;color:#fff;}"
+        )
+        reset_btn.clicked.connect(self._on_scale_reset)
+        btn_row.addWidget(reset_btn)
+
+        self._scale_restart_btn = QPushButton("↻ Restart to apply")
+        self._scale_restart_btn.setToolTip("Close and relaunch the app now to apply the new scale")
+        self._scale_restart_btn.setStyleSheet(
+            "QPushButton{background:#1b5c38;color:#e0e0e0;border:none;"
+            "border-radius:6px;padding:8px 16px;font-size:12px;font-weight:bold;}"
+            "QPushButton:hover{background:#27ae60;color:#fff;}"
+            "QPushButton:disabled{background:#1a1a2e;color:#555;}"
+        )
+        self._scale_restart_btn.clicked.connect(self._on_scale_restart)
+        btn_row.addWidget(self._scale_restart_btn)
+        btn_row.addStretch()
+        group.layout().addLayout(btn_row)
+
+        self._scale_status_lbl = QLabel("")
+        self._scale_status_lbl.setStyleSheet("font-size:12px; background:transparent;")
+        self._scale_status_lbl.setWordWrap(True)
+        group.layout().addWidget(self._scale_status_lbl)
+
+        # Auto mode disables the manual controls
+        self._scale_slider.setEnabled(cfg["manual"])
+        self._scale_spin.setEnabled(cfg["manual"])
+        self._refresh_scale_status()
+        return group
+
+    def _current_scale_choice(self) -> float:
+        """The scale currently selected in the settings controls."""
+        if getattr(self, "_scale_auto_check", None) and self._scale_auto_check.isChecked():
+            return ui_scale.compute_auto_scale(ui_scale.get_detected_height())
+        val = self._scale_spin.value() if getattr(self, "_scale_spin", None) else 100
+        return ui_scale.clamp_scale(val / 100.0)
+
+    def _refresh_scale_status(self):
+        """Show whether the chosen scale matches what's running (restart hint)."""
+        if not getattr(self, "_scale_status_lbl", None):
+            return
+        chosen = self._current_scale_choice()
+        active = ui_scale.get_applied_scale()
+        chosen_pct = int(round(chosen * 100))
+        active_pct = int(round(active * 100))
+        pending = abs(chosen - active) > 1e-3
+        if getattr(self, "_scale_restart_btn", None):
+            self._scale_restart_btn.setEnabled(pending)
+        if pending:
+            self._scale_status_lbl.setText(
+                f"⚠  Pending: <b>{chosen_pct}%</b> — currently running at "
+                f"{active_pct}%. Restart the app to apply."
+            )
+            self._scale_status_lbl.setStyleSheet(
+                "color:#ffd93d; font-size:12px; background:transparent;")
+        else:
+            self._scale_status_lbl.setText(
+                f"✓  Active at <b>{active_pct}%</b>.")
+            self._scale_status_lbl.setStyleSheet(
+                "color:#6bcb77; font-size:12px; background:transparent;")
+
+    def _save_scale_choice(self):
+        """Persist the current controls to ui_scale.json."""
+        manual = not (getattr(self, "_scale_auto_check", None)
+                      and self._scale_auto_check.isChecked())
+        if manual:
+            scale = ui_scale.clamp_scale(self._scale_spin.value() / 100.0)
+        else:
+            scale = ui_scale.compute_auto_scale(ui_scale.get_detected_height())
+        ui_scale.save_config(scale, manual)
+
+    def _on_scale_auto_toggled(self, state):
+        auto_on = (state != 0)
+        if getattr(self, "_scale_slider", None):
+            self._scale_slider.setEnabled(not auto_on)
+        if getattr(self, "_scale_spin", None):
+            self._scale_spin.setEnabled(not auto_on)
+        if auto_on:
+            auto_pct = int(round(
+                ui_scale.compute_auto_scale(ui_scale.get_detected_height()) * 100))
+            for w in (self._scale_slider, self._scale_spin):
+                w.blockSignals(True)
+                w.setValue(auto_pct)
+                w.blockSignals(False)
+        self._save_scale_choice()
+        self._refresh_scale_status()
+
+    def _on_scale_value_changed(self, value: int):
+        self._save_scale_choice()
+        self._refresh_scale_status()
+
+    def _on_scale_reset(self):
+        """Reset → auto-adjust on, snap to the detected-screen scale."""
+        if getattr(self, "_scale_auto_check", None):
+            self._scale_auto_check.blockSignals(True)
+            self._scale_auto_check.setChecked(True)
+            self._scale_auto_check.blockSignals(False)
+        auto_pct = int(round(
+            ui_scale.compute_auto_scale(ui_scale.get_detected_height()) * 100))
+        for w in (self._scale_slider, self._scale_spin):
+            w.setEnabled(False)
+            w.blockSignals(True)
+            w.setValue(auto_pct)
+            w.blockSignals(False)
+        self._save_scale_choice()
+        self._refresh_scale_status()
+
+    def _on_scale_restart(self):
+        """Save the chosen scale and relaunch the app so it takes effect."""
+        self._save_scale_choice()
+        chosen_pct = int(round(self._current_scale_choice() * 100))
+
+        box = QMessageBox(self)
+        box.setWindowTitle("Restart to apply scale")
+        box.setIcon(QMessageBox.Question)
+        box.setText(f"Restart Wizard101 Companion now to apply {chosen_pct}% scaling?")
+        box.setInformativeText("Any unsaved fetches will be stopped.")
+        box.setStandardButtons(QMessageBox.Yes | QMessageBox.No)
+        box.setDefaultButton(QMessageBox.Yes)
+        if box.exec_() != QMessageBox.Yes:
+            return
+
+        # Relaunch a fresh process, then close this one. The new process
+        # re-reads ui_scale.json and sets QT_SCALE_FACTOR at startup.
+        relaunched = False
+        try:
+            script = os.path.abspath(__file__)
+            py = sys.executable
+            if py and os.path.exists(script):
+                relaunched = QProcess.startDetached(py, [script])
+        except Exception as e:
+            logger.warning(f"UI-scale relaunch failed: {e}")
+            relaunched = False
+
+        if relaunched:
+            QApplication.quit()
+        else:
+            QMessageBox.information(
+                self, "Restart needed",
+                "Couldn't relaunch automatically. Please close the app and "
+                "open it again to apply the new scale."
+            )
 
     def _on_opacity_changed(self, value: int):
         """Global transparency slider changed."""
@@ -6471,11 +6747,22 @@ class BossWikiApp(QMainWindow):
 # ═══════════════════════════════════════════════════════════════
 
 def main():
+    # ── Global UI scale — MUST run before QApplication is created,
+    #    because Qt reads QT_SCALE_FACTOR at QApplication construction. ──
+    _ui_scale_applied = 1.0
+    if UI_SCALE_AVAILABLE and ui_scale is not None:
+        try:
+            _ui_scale_applied = ui_scale.apply_to_environment()
+        except Exception as _e:
+            print(f"[WARN] Could not apply UI scale: {_e}")
+
     print("=" * 60)
     print("  Wizard101 Companion - Local Edition")
     print("  Boss Wiki  •  Gear Guide  •  Quest Tracker  •  OCR")
     print("=" * 60)
     print()
+    if UI_SCALE_AVAILABLE and ui_scale is not None:
+        print(f"  UI scale:      {int(round(_ui_scale_applied * 100))}%")
     print(f"  PyQt5:         [OK] loaded")
     print(f"  db_builder:    {'[OK] found' if os.path.exists(DB_BUILDER_SCRIPT) else '[FAIL] NOT FOUND'}")
     if OCR_AVAILABLE:
