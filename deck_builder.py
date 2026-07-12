@@ -561,7 +561,14 @@ class SpellPickerPanel(QWidget):
         school_filter = self._school_combo.currentText()
         if school_filter == "All Schools":
             school_filter = None
-        spells = ds.list_spells(self.conn, school=school_filter, search=text or None)
+        # Deck picker shows only spells obtainable through normal play —
+        # trainable, craftable or quest rewards. Non-trainable and fusion-only
+        # spells are hidden by design (see database_spells.is_deck_eligible_spell).
+        # Results arrive already sorted by pip cost, then name.
+        spells = ds.list_spells(
+            self.conn, school=school_filter, search=text or None,
+            deck_eligible_only=True,
+        )
 
         cols = 2
         for idx, sp in enumerate(spells):

@@ -406,12 +406,73 @@ def get_spell(conn: sqlite3.Connection, name: str) -> Optional[dict]:
     return d
 
 
+# ── Acquisition-type classification ──────────────────────────────────
+# Acquisition keys that make a spell obtainable through normal play and
+# therefore eligible for the Deck Builder's spell picker.
+DECK_ELIGIBLE_ACQUISITION = {"trainable", "craftable", "quest"}
+
+
+def spell_acquisition_flags(sp: dict) -> set:
+    """
+    Derive acquisition-type keys for a spell from its rendered-HTML
+    training info (and fusion data). Mirrors the Spell Browser's training
+    filter classification (see spell_browser._derive_training_flags),
+    minus the spellement/tier logic which isn't relevant to acquisition.
+
+    Possible keys: 'trainable', 'nontrainable', 'craftable', 'quest',
+    'fusion'. Returns an empty set when the spell has no acquisition data.
+
+    Note: the spell dict must already have `training_info`/`fusion_formulae`
+    decoded (as list_spells / get_spell do).
+    """
+    flags: set = set()
+    ti = sp.get("training_info") or {}
+    for sec in ti.get("sections", []):
+        for cat in sec.get("categories", []):
+            h = (cat.get("heading", "") or "").lower()
+            has_lines = bool(cat.get("lines"))
+            if "cannot be trained" in h:
+                flags.add("nontrainable")
+            if "trainer" in h and has_lines:
+                flags.add("trainable")
+            if "can purchase this spell" in h:
+                flags.add("trainable")
+            if "crafted" in h:
+                flags.add("craftable")
+            if "rewarded" in h or "quest" in h:
+                flags.add("quest")
+    if sp.get("fusion_formulae"):
+        flags.add("fusion")
+    return flags
+
+
+def is_deck_eligible_spell(sp: dict) -> bool:
+    """
+    True when a spell can be obtained through normal play — trainable,
+    craftable or a quest reward — and should therefore appear in the Deck
+    Builder's spell picker.
+
+    Non-trainable spells, fusion-only spells, and spells with no acquisition
+    data are excluded. A spell that is (e.g.) both trainable and a fusion
+    result still qualifies, because it carries the 'trainable' flag.
+    """
+    return bool(spell_acquisition_flags(sp) & DECK_ELIGIBLE_ACQUISITION)
+
+
 def list_spells(
     conn: sqlite3.Connection,
     school: str = None,
     search: str = None,
+    deck_eligible_only: bool = False,
 ) -> List[dict]:
-    """Return spells ordered by pip_cost (0,X,1,2…) then name."""
+    """Return spells ordered by pip_cost (0,X,1,2…) then name.
+
+    When ``deck_eligible_only`` is True, only spells that are trainable,
+    craftable or quest rewards are returned; non-trainable spells,
+    fusion-only spells and spells with no acquisition data are hidden.
+    Used by the Deck Builder picker. Defaults to False so every other
+    caller (Spell Browser via list_spells_base_only, etc.) is unaffected.
+    """
     q = "SELECT * FROM spells WHERE 1=1"
     params: list = []
     if school and school != "All":
@@ -430,6 +491,9 @@ def list_spells(
         # can filter on training type / fusion without a per-row DB round-trip.
         d["training_info"]   = _load_json(d.pop("training_info_json", "") or "", {"sections": []})
         d["fusion_formulae"] = _load_json(d.pop("fusion_json", "") or "", [])
+    # Deck-builder eligibility: keep only trainable / craftable / quest spells.
+    if deck_eligible_only:
+        result = [d for d in result if is_deck_eligible_spell(d)]
     # Sort by pip_cost
     result.sort(key=lambda s: (pip_sort_key(s.get("pip_cost", "0")), s["name"].lower()))
     return result

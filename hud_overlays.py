@@ -121,6 +121,29 @@ class OverlaySettings:
         "_global": {
             "alpha": 51,
             "ocr_mode": "dynamic",
+            # ── Spell card image-scan strength ────────────────────────────
+            # Controls how aggressively EasyOCR reads spell-card images during
+            # a fetch / reparse (see spell_scraper.OCR_STRENGTH_PRESETS).
+            # "standard" reproduces EasyOCR's default behaviour; stronger
+            # levels upscale the image and lower the detection thresholds so
+            # small/faint badges are read, at the cost of speed. Read by the
+            # scraper subprocess straight from this file at scan time.
+            "spell_ocr_strength": "standard",
+            # ── Icon assignment: use the wiki description text? ────────────
+            # When True (default) the Detected Icons legend is filled from the
+            # description/structured fields AND the card image scan. When
+            # False, only true card-image scan results (text OCR + visual
+            # icon matching) assign icons — so words like "caster" in the
+            # description no longer add an icon that isn't on the card.
+            # Read by the scraper subprocess and the detail view at link time.
+            "spell_ocr_icons_from_description": True,
+            # ── Visual icon detection sensitivity ─────────────────────────
+            # Match-confidence threshold for template-matching icon graphics
+            # on the card (icon_detector.detect_icons). Lower = detects MORE
+            # icons but more false matches; higher = stricter. Default mirrors
+            # icon_detector.DEFAULT_CONFIDENCE. Read by the scraper at scan
+            # time; matters most in card-image-only icon mode.
+            "spell_icon_visual_confidence": 0.85,
             # ── Cloudflare-challenge alert sound ──────────────────────────
             # Plays when a fetch subprocess reports the "verify you are human"
             # checkbox has appeared, so the user knows to click it.
@@ -212,6 +235,54 @@ class OverlaySettings:
 
     def set_ocr_mode(self, mode: str):
         self._data.setdefault("_global", {})["ocr_mode"] = mode
+        self.save()
+
+    # ── Spell card image-scan strength ────────────────────────────────────
+    # Allowed levels, weakest → strongest. Kept here (not imported from the
+    # scraper) so the GUI has no dependency on the subprocess module; the
+    # scraper owns the actual EasyOCR parameter mapping.
+    SPELL_OCR_STRENGTHS = ("standard", "enhanced", "high", "maximum")
+
+    def get_spell_ocr_strength(self) -> str:
+        v = str(self._data.get("_global", {}).get("spell_ocr_strength", "standard"))
+        return v if v in self.SPELL_OCR_STRENGTHS else "standard"
+
+    def set_spell_ocr_strength(self, level: str):
+        if level not in self.SPELL_OCR_STRENGTHS:
+            level = "standard"
+        self._data.setdefault("_global", {})["spell_ocr_strength"] = level
+        self.save()
+
+    # ── Icon assignment from description text ─────────────────────────────
+    def get_spell_ocr_icons_from_description(self) -> bool:
+        return bool(self._data.get("_global", {}).get(
+            "spell_ocr_icons_from_description", True))
+
+    def set_spell_ocr_icons_from_description(self, enabled: bool):
+        self._data.setdefault("_global", {})["spell_ocr_icons_from_description"] = bool(enabled)
+        self.save()
+
+    # ── Visual icon detection sensitivity (match-confidence threshold) ────
+    # Bounds chosen so the slider can't be pushed into all-noise (<0.60) or
+    # so strict it matches nothing (>0.95).
+    SPELL_ICON_CONF_MIN = 0.60
+    SPELL_ICON_CONF_MAX = 0.95
+
+    def get_spell_icon_visual_confidence(self) -> float:
+        try:
+            v = float(self._data.get("_global", {}).get(
+                "spell_icon_visual_confidence", 0.85))
+        except (TypeError, ValueError):
+            v = 0.85
+        return max(self.SPELL_ICON_CONF_MIN, min(self.SPELL_ICON_CONF_MAX, v))
+
+    def set_spell_icon_visual_confidence(self, value: float):
+        try:
+            v = float(value)
+        except (TypeError, ValueError):
+            v = 0.85
+        v = max(self.SPELL_ICON_CONF_MIN, min(self.SPELL_ICON_CONF_MAX, v))
+        self._data.setdefault("_global", {})["spell_icon_visual_confidence"] = round(v, 2)
         self.save()
 
     # ── Auto-update ───────────────────────────────────────────────────────
@@ -316,7 +387,9 @@ class CloudflareAlertPlayer:
 
     def __init__(self):
         self._effect = None      # QSoundEffect (best for .wav)
+        self._effect_path = None # abspath currently loaded into _effect
         self._player = None      # QMediaPlayer (other formats)
+        self._player_path = None # abspath currently loaded into _player
         self._mm_ok = None       # None = not yet probed
 
     def _probe_multimedia(self) -> bool:
@@ -354,27 +427,61 @@ class CloudflareAlertPlayer:
 
     # ── Backends ──────────────────────────────────────────────────────────
     def _play_file(self, path: str, vol: int) -> bool:
-        from PyQt5.QtCore import QUrl
         ext = os.path.splitext(path)[1].lower()
         if ext == ".wav":
-            from PyQt5.QtMultimedia import QSoundEffect
-            if self._effect is None:
-                self._effect = QSoundEffect()
-            self._effect.setSource(QUrl.fromLocalFile(os.path.abspath(path)))
-            self._effect.setVolume(max(0.0, min(1.0, vol / 100.0)))
-            self._effect.play()
-            return True
-        # mp3 / ogg / etc. → QMediaPlayer (needs platform codecs for mp3).
+            return self._play_wav(path, vol)
+        return self._play_media(path, vol)
+
+    def _play_wav(self, path: str, vol: int) -> bool:
+        """
+        Play a .wav via QSoundEffect.
+
+        IMPORTANT: setSource() is called ONLY when the file actually changes.
+        Calling setSource() on every play (as this used to) makes QSoundEffect
+        reload its sample asynchronously each time and, after a few plays, wedge
+        in a Loading/Error state where play() silently does nothing forever —
+        i.e. "the sound stops after 2–3 alerts". We load once and reuse, and
+        rebuild the effect if it has fallen into an error/stuck state.
+        """
+        from PyQt5.QtCore import QUrl
+        from PyQt5.QtMultimedia import QSoundEffect
+        apath = os.path.abspath(path)
+
+        stuck = False
+        if self._effect is not None:
+            try:
+                stuck = self._effect.status() == QSoundEffect.Error
+            except Exception:
+                stuck = True
+
+        if self._effect is None or self._effect_path != apath or stuck:
+            self._effect = QSoundEffect()
+            self._effect.setSource(QUrl.fromLocalFile(apath))
+            self._effect_path = apath
+
+        self._effect.setVolume(max(0.0, min(1.0, vol / 100.0)))
+        self._effect.play()
+        return True
+
+    def _play_media(self, path: str, vol: int) -> bool:
+        """mp3 / ogg / etc. via QMediaPlayer (needs platform codecs for mp3)."""
+        from PyQt5.QtCore import QUrl
+        from PyQt5.QtMultimedia import QMediaPlayer, QMediaContent
+        apath = os.path.abspath(path)
+        if self._player is None:
+            self._player = QMediaPlayer()
+        if self._player_path != apath:
+            self._player.setMedia(QMediaContent(QUrl.fromLocalFile(apath)))
+            self._player_path = apath
+        self._player.setVolume(max(0, min(100, vol)))
+        # Rewind so a repeat play of the same clip actually restarts.
         try:
-            from PyQt5.QtMultimedia import QMediaPlayer, QMediaContent
-            if self._player is None:
-                self._player = QMediaPlayer()
-            self._player.setMedia(QMediaContent(QUrl.fromLocalFile(os.path.abspath(path))))
-            self._player.setVolume(max(0, min(100, vol)))
-            self._player.play()
-            return True
+            self._player.stop()
+            self._player.setPosition(0)
         except Exception:
-            return False
+            pass
+        self._player.play()
+        return True
 
     @staticmethod
     def _system_beep():

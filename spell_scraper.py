@@ -7,7 +7,8 @@ Usage:
     python spell_scraper.py --spell "Vengeance"
     python spell_scraper.py --school "Fire"
     python spell_scraper.py --all
-    python spell_scraper.py --reparse            # reparse from cached wikitext
+    python spell_scraper.py --reparse            # reparse ALL from cached wikitext
+    python spell_scraper.py --reparse-spell "Vengeance"   # reparse one spell (offline)
     python spell_scraper.py --list-category      # list available spells in DB
 
 Uses the same BrowserAPIClient approach as db_builder.py:
@@ -1314,6 +1315,123 @@ def _reconstruct_lines_from_boxes(detections) -> str:
     return "\n".join(lines)
 
 
+# ═══════════════════════════════════════════════════════════════════════
+# OCR SCAN STRENGTH
+# ═══════════════════════════════════════════════════════════════════════
+# User-tunable via HUD & Settings → OCR Settings. The chosen level is saved
+# to hud_settings.json (_global.spell_ocr_strength) by the GUI, and read
+# here — this scraper runs as its own subprocess and cannot see the GUI's
+# in-memory settings object, so it reads the value straight from the file.
+#
+# Each level maps to a bundle of EasyOCR readtext() parameters:
+#   • mag_ratio       — image magnification before detection. Higher upscales
+#                       the card so small badges (pip cost, %, damage) are
+#                       resolved, at a speed cost.
+#   • text_threshold  — detector confidence to accept a character region.
+#                       Lower accepts fainter text.
+#   • low_text        — low-bound score used to grow text boxes. Lower grows
+#                       regions more aggressively.
+#   • contrast_ths /  — boxes below contrast_ths are re-read after boosting
+#     adjust_contrast   contrast by adjust_contrast; higher helps faint text.
+#
+# "standard" is exactly EasyOCR's own defaults, so leaving the setting alone
+# reproduces the original scan behaviour byte-for-byte.
+OCR_STRENGTH_PRESETS = {
+    "standard": {"mag_ratio": 1.0, "text_threshold": 0.7, "low_text": 0.4,
+                 "contrast_ths": 0.1, "adjust_contrast": 0.5},
+    "enhanced": {"mag_ratio": 1.5, "text_threshold": 0.6, "low_text": 0.35,
+                 "contrast_ths": 0.1, "adjust_contrast": 0.5},
+    "high":     {"mag_ratio": 2.0, "text_threshold": 0.5, "low_text": 0.3,
+                 "contrast_ths": 0.2, "adjust_contrast": 0.7},
+    "maximum":  {"mag_ratio": 2.5, "text_threshold": 0.4, "low_text": 0.25,
+                 "contrast_ths": 0.3, "adjust_contrast": 0.8},
+}
+_DEFAULT_OCR_STRENGTH = "standard"
+_SETTINGS_FILE = APP_DIR / "hud_settings.json"
+
+# Resolved once per process run and cached: a fetch subprocess is launched
+# fresh for each user action, so it always picks up the latest saved value,
+# while bulk runs (--all / --reparse) read the file only once.
+_ocr_strength_kwargs = None
+
+
+def _get_ocr_strength_kwargs() -> dict:
+    """Return the EasyOCR readtext kwargs for the user's saved scan strength."""
+    global _ocr_strength_kwargs
+    if _ocr_strength_kwargs is not None:
+        return _ocr_strength_kwargs
+
+    level = _DEFAULT_OCR_STRENGTH
+    try:
+        if _SETTINGS_FILE.exists():
+            with open(_SETTINGS_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            saved = str(data.get("_global", {}).get("spell_ocr_strength", ""))
+            if saved in OCR_STRENGTH_PRESETS:
+                level = saved
+    except Exception as e:
+        logger.debug(f"Could not read OCR strength from settings: {e}")
+
+    _ocr_strength_kwargs = dict(OCR_STRENGTH_PRESETS[level])
+    logger.info(f"Spell OCR scan strength: {level} ({_ocr_strength_kwargs})")
+    return _ocr_strength_kwargs
+
+
+# Whether the wiki description / structured fields may assign icons, or only
+# true card-image scan results (text OCR + visual matching) may. Read once per
+# process from hud_settings.json; each fetch/reparse is a fresh subprocess so
+# it always reflects the latest saved value.
+_icons_from_desc = None
+
+
+def _icons_from_description() -> bool:
+    global _icons_from_desc
+    if _icons_from_desc is not None:
+        return _icons_from_desc
+    val = True
+    try:
+        if _SETTINGS_FILE.exists():
+            with open(_SETTINGS_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            val = bool(data.get("_global", {}).get(
+                "spell_ocr_icons_from_description", True))
+    except Exception as e:
+        logger.debug(f"Could not read icons-from-description setting: {e}")
+    _icons_from_desc = val
+    logger.info(f"Icons from description: {val}")
+    return val
+
+
+# Match-confidence threshold for visual icon template matching. Read once per
+# process from hud_settings.json; falls back to icon_detector.DEFAULT_CONFIDENCE.
+_visual_conf = None
+
+
+def _visual_confidence():
+    global _visual_conf
+    if _visual_conf is not None:
+        return _visual_conf
+    val = None
+    try:
+        if _SETTINGS_FILE.exists():
+            with open(_SETTINGS_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            raw = data.get("_global", {}).get("spell_icon_visual_confidence")
+            if raw is not None:
+                val = max(0.60, min(0.95, float(raw)))
+    except Exception as e:
+        logger.debug(f"Could not read visual confidence setting: {e}")
+    if val is None:
+        try:
+            from icon_detector import DEFAULT_CONFIDENCE
+            val = DEFAULT_CONFIDENCE
+        except Exception:
+            val = 0.85
+    _visual_conf = val
+    logger.info(f"Visual icon confidence threshold: {val}")
+    return val
+
+
 def _run_ocr_on_image(image_path: Path, spell_type: str = "", accuracy=None,
                       enable_visual_icons: bool = True, preset_images=None) -> dict:
     """
@@ -1354,7 +1472,8 @@ def _run_ocr_on_image(image_path: Path, spell_type: str = "", accuracy=None,
     try:
         import easyocr
         reader = easyocr.Reader(["en"], gpu=False, verbose=False)
-        detections = reader.readtext(str(image_path), detail=1)
+        detections = reader.readtext(str(image_path), detail=1,
+                                     **_get_ocr_strength_kwargs())
         result["raw"] = _reconstruct_lines_from_boxes(detections)
 
         structured = _structure_ocr_text(result["raw"], spell_type, accuracy=accuracy)
@@ -1375,12 +1494,14 @@ def _run_ocr_on_image(image_path: Path, spell_type: str = "", accuracy=None,
 
     # Visual icon-graphic recognition — see icon_detector.py. Matches each
     # icon PRESET's own image (Choose Image…) against the card, at the
-    # module's DEFAULT_CONFIDENCE. Skipped when no presets carry an image.
+    # user-tuned confidence threshold (falls back to DEFAULT_CONFIDENCE).
+    # Skipped when no presets carry an image.
     if enable_visual_icons and preset_images:
         try:
             from icon_detector import detect_icons, is_available
             if is_available():
-                icon_matches = detect_icons(str(image_path), preset_images)
+                icon_matches = detect_icons(str(image_path), preset_images,
+                                            confidence_threshold=_visual_confidence())
                 for m in icon_matches:
                     label = f"{m['icon']} (visual, {m['confidence']:.0%})"
                     if label not in all_keywords:
@@ -1496,6 +1617,7 @@ async def fetch_spell(client: BrowserAPIClient, conn: sqlite3.Connection,
                                 accuracy=data.get("accuracy", 0),
                                 preset_images=ds.list_icon_presets(conn))
         data["ocr_raw"]     = ocr["raw"]
+        _img_scan_kw = ocr["keywords"]  # true card-image scan (text OCR + visual)
         data["ocr_keywords"] = ", ".join(
             list(dict.fromkeys(desc_parsed["keywords"] + ocr["keywords"].split(", ")))
         ).strip(", ")
@@ -1543,6 +1665,7 @@ async def fetch_spell(client: BrowserAPIClient, conn: sqlite3.Connection,
         data["ocr_effect"]       = desc_parsed["accuracy_buff"]
         data["ocr_keywords"]     = ", ".join(desc_parsed["keywords"])
         data["ocr_uncertain"]    = False
+        _img_scan_kw = ""  # no card image → no true image-scan icons
 
     # Merge structured-field icon labels (name / Type / school / pip
     # costs / PvP flag) into the keyword string so the icon legend fills
@@ -1553,6 +1676,15 @@ async def fetch_spell(client: BrowserAPIClient, conn: sqlite3.Connection,
     _field_labels = ds.derive_all_icon_labels(data)
     _existing_kw = [k for k in (data.get("ocr_keywords", "") or "").split(", ") if k.strip()]
     data["ocr_keywords"] = ", ".join(dict.fromkeys(_existing_kw + _field_labels)).strip(", ")
+
+    # If the user disabled description→icon assignment, discard everything
+    # except the true card-image scan results (text OCR + visual matching),
+    # so descriptions/structured fields no longer add icons that aren't on
+    # the card.
+    if not _icons_from_description():
+        data["ocr_keywords"] = ", ".join(
+            dict.fromkeys(k for k in _img_scan_kw.split(", ") if k.strip())
+        ).strip(", ")
 
     # ── Save ──────────────────────────────────────────────────────────
     spell_id = ds.upsert_spell(conn, data)
@@ -1569,6 +1701,111 @@ async def fetch_spell(client: BrowserAPIClient, conn: sqlite3.Connection,
     return True
 
 
+def _reparse_row(conn: sqlite3.Connection, row) -> bool:
+    """
+    Re-parse ONE spell from its cached wikitext / rendered HTML and re-run
+    OCR on its existing card image — no network needed. `row` must expose
+    the columns: name, raw_wikitext, wiki_path, image_path.
+
+    Returns True if the spell was reparsed and upserted, False if it was
+    skipped because no cached wikitext exists for it.
+
+    Shared by both the bulk `--reparse` pass and the single-spell
+    `--reparse-spell` path so their behaviour can never drift apart.
+    """
+    name = row["name"]
+    wikitext = row["raw_wikitext"] or ""
+    # Also try disk cache
+    if not wikitext:
+        safe_name = re.sub(r'[<>:"/\\|?*]', "_", name)
+        cache_file = CACHE_DIR / f"{safe_name}.txt"
+        if cache_file.exists():
+            wikitext = cache_file.read_text(encoding="utf-8", errors="replace")
+    if not wikitext:
+        print(f"  [SKIP] No cached data for {name}")
+        return False
+    data = SpellParser.parse(wikitext, name, row["wiki_path"] or "")
+    data["image_path"] = row["image_path"] or data["image_path"]
+
+    # Rebuild training status + fusion from cached rendered HTML if present.
+    # Only set the keys when HTML is available — upsert_spell COALESCEs
+    # these, so a spell whose HTML was never cached keeps whatever it had
+    # rather than being wiped to empty.
+    safe_name = re.sub(r'[<>:"/\\|?*]', "_", name)
+    html_cache_file = HTML_CACHE / f"{safe_name}.txt"
+    if html_cache_file.exists():
+        rendered_html = html_cache_file.read_text(encoding="utf-8", errors="replace")
+        data["training_info"]   = parse_training_html(rendered_html)
+        data["fusion_formulae"] = parse_fusion_html(rendered_html)
+
+    # Description text (preferred source) — re-parsed fresh each
+    # time so improvements to _structure_description_text apply
+    # retroactively without needing to re-fetch from the wiki.
+    desc_parsed = _structure_description_text(data.get("description", ""), data.get("spell_type", ""))
+
+    img_path = Path(data["image_path"]) if data["image_path"] else Path("")
+    if img_path.exists():
+        ocr = _run_ocr_on_image(img_path, data.get("spell_type", ""),
+                                accuracy=data.get("accuracy", 0),
+                                preset_images=ds.list_icon_presets(conn))
+        data["ocr_raw"] = ocr["raw"]
+        _img_scan_kw = ocr["keywords"]  # true card-image scan (text OCR + visual)
+        data["ocr_keywords"] = ", ".join(
+            list(dict.fromkeys(desc_parsed["keywords"] + ocr["keywords"].split(", ")))
+        ).strip(", ")
+        data["ocr_damage"]       = desc_parsed["damage"]       or ocr["damage"]
+        data["ocr_dot_damage"]   = desc_parsed["dot_damage"]   or ocr["dot_damage"]
+        data["ocr_dot_rounds"]   = desc_parsed["dot_rounds"]   or ocr["dot_rounds"]
+        data["ocr_heal"]         = desc_parsed["heal"]         or ocr["heal"]
+        data["ocr_heal_rounds"]  = desc_parsed["heal_rounds"]  or ocr["heal_rounds"]
+        data["ocr_gambit"]       = desc_parsed["gambit"]       or ocr["gambit"]
+        data["ocr_divided"]      = desc_parsed["divided"]      or ocr["divided"]
+        data["ocr_conditional"]  = desc_parsed["conditional"]  or ocr["conditional"]
+        data["ocr_clear_effect"] = desc_parsed["clear_effect"] or ocr["clear_effect"]
+        data["ocr_effect"]       = desc_parsed["accuracy_buff"] or ocr["effect"]
+        data["ocr_uncertain"] = ocr["uncertain"] and not (
+            desc_parsed["damage"] or desc_parsed["heal"] or desc_parsed["dot_damage"]
+        )
+    else:
+        data["ocr_damage"]       = desc_parsed["damage"]
+        data["ocr_dot_damage"]   = desc_parsed["dot_damage"]
+        data["ocr_dot_rounds"]   = desc_parsed["dot_rounds"]
+        data["ocr_heal"]         = desc_parsed["heal"]
+        data["ocr_heal_rounds"]  = desc_parsed["heal_rounds"]
+        data["ocr_gambit"]       = desc_parsed["gambit"]
+        data["ocr_divided"]      = desc_parsed["divided"]
+        data["ocr_conditional"]  = desc_parsed["conditional"]
+        data["ocr_clear_effect"] = desc_parsed["clear_effect"]
+        data["ocr_effect"]       = desc_parsed["accuracy_buff"]
+        data["ocr_keywords"]     = ", ".join(desc_parsed["keywords"])
+        data["ocr_uncertain"]    = False
+        _img_scan_kw = ""  # no card image → no true image-scan icons
+
+    # Same structured-field icon-label enrichment as fetch_spell, so
+    # Reparse retroactively fills icon legends for spells scraped
+    # before this logic existed.
+    _field_labels = ds.derive_all_icon_labels(data)
+    _existing_kw = [k for k in (data.get("ocr_keywords", "") or "").split(", ") if k.strip()]
+    data["ocr_keywords"] = ", ".join(dict.fromkeys(_existing_kw + _field_labels)).strip(", ")
+
+    # Description→icon assignment disabled → keep only true card-image scan
+    # results (text OCR + visual matching).
+    if not _icons_from_description():
+        data["ocr_keywords"] = ", ".join(
+            dict.fromkeys(k for k in _img_scan_kw.split(", ") if k.strip())
+        ).strip(", ")
+
+    spell_id = ds.upsert_spell(conn, data)
+    # Reparse REBUILDS the auto-detected icon set: clears the previous
+    # auto links then re-adds the freshly detected ones (manual "+ Add"
+    # picks are preserved). This is how re-running Reparse corrects
+    # icons an older, looser detection pass mis-linked.
+    ds.auto_link_ocr_icons(conn, spell_id, data.get("ocr_keywords", ""),
+                           replace_auto=True)
+    print(f"  [OK] {name}")
+    return True
+
+
 async def reparse_from_cache(conn: sqlite3.Connection):
     """Re-parse all spells that have cached wikitext (no network needed)."""
     rows = conn.execute(
@@ -1576,90 +1813,32 @@ async def reparse_from_cache(conn: sqlite3.Connection):
     ).fetchall()
     ok = fail = 0
     for row in rows:
-        name = row["name"]
-        wikitext = row["raw_wikitext"] or ""
-        # Also try disk cache
-        if not wikitext:
-            safe_name = re.sub(r'[<>:"/\\|?*]', "_", name)
-            cache_file = CACHE_DIR / f"{safe_name}.txt"
-            if cache_file.exists():
-                wikitext = cache_file.read_text(encoding="utf-8", errors="replace")
-        if not wikitext:
-            print(f"  [SKIP] No cached data for {name}")
-            fail += 1
-            continue
-        data = SpellParser.parse(wikitext, name, row["wiki_path"] or "")
-        data["image_path"] = row["image_path"] or data["image_path"]
-
-        # Rebuild training status + fusion from cached rendered HTML if present.
-        # Only set the keys when HTML is available — upsert_spell COALESCEs
-        # these, so a spell whose HTML was never cached keeps whatever it had
-        # rather than being wiped to empty.
-        safe_name = re.sub(r'[<>:"/\\|?*]', "_", name)
-        html_cache_file = HTML_CACHE / f"{safe_name}.txt"
-        if html_cache_file.exists():
-            rendered_html = html_cache_file.read_text(encoding="utf-8", errors="replace")
-            data["training_info"]   = parse_training_html(rendered_html)
-            data["fusion_formulae"] = parse_fusion_html(rendered_html)
-
-        # Description text (preferred source) — re-parsed fresh each
-        # time so improvements to _structure_description_text apply
-        # retroactively without needing to re-fetch from the wiki.
-        desc_parsed = _structure_description_text(data.get("description", ""), data.get("spell_type", ""))
-
-        img_path = Path(data["image_path"]) if data["image_path"] else Path("")
-        if img_path.exists():
-            ocr = _run_ocr_on_image(img_path, data.get("spell_type", ""),
-                                    accuracy=data.get("accuracy", 0),
-                                    preset_images=ds.list_icon_presets(conn))
-            data["ocr_raw"] = ocr["raw"]
-            data["ocr_keywords"] = ", ".join(
-                list(dict.fromkeys(desc_parsed["keywords"] + ocr["keywords"].split(", ")))
-            ).strip(", ")
-            data["ocr_damage"]       = desc_parsed["damage"]       or ocr["damage"]
-            data["ocr_dot_damage"]   = desc_parsed["dot_damage"]   or ocr["dot_damage"]
-            data["ocr_dot_rounds"]   = desc_parsed["dot_rounds"]   or ocr["dot_rounds"]
-            data["ocr_heal"]         = desc_parsed["heal"]         or ocr["heal"]
-            data["ocr_heal_rounds"]  = desc_parsed["heal_rounds"]  or ocr["heal_rounds"]
-            data["ocr_gambit"]       = desc_parsed["gambit"]       or ocr["gambit"]
-            data["ocr_divided"]      = desc_parsed["divided"]      or ocr["divided"]
-            data["ocr_conditional"]  = desc_parsed["conditional"]  or ocr["conditional"]
-            data["ocr_clear_effect"] = desc_parsed["clear_effect"] or ocr["clear_effect"]
-            data["ocr_effect"]       = desc_parsed["accuracy_buff"] or ocr["effect"]
-            data["ocr_uncertain"] = ocr["uncertain"] and not (
-                desc_parsed["damage"] or desc_parsed["heal"] or desc_parsed["dot_damage"]
-            )
+        if _reparse_row(conn, row):
+            ok += 1
         else:
-            data["ocr_damage"]       = desc_parsed["damage"]
-            data["ocr_dot_damage"]   = desc_parsed["dot_damage"]
-            data["ocr_dot_rounds"]   = desc_parsed["dot_rounds"]
-            data["ocr_heal"]         = desc_parsed["heal"]
-            data["ocr_heal_rounds"]  = desc_parsed["heal_rounds"]
-            data["ocr_gambit"]       = desc_parsed["gambit"]
-            data["ocr_divided"]      = desc_parsed["divided"]
-            data["ocr_conditional"]  = desc_parsed["conditional"]
-            data["ocr_clear_effect"] = desc_parsed["clear_effect"]
-            data["ocr_effect"]       = desc_parsed["accuracy_buff"]
-            data["ocr_keywords"]     = ", ".join(desc_parsed["keywords"])
-            data["ocr_uncertain"]    = False
-
-        # Same structured-field icon-label enrichment as fetch_spell, so
-        # Reparse retroactively fills icon legends for spells scraped
-        # before this logic existed.
-        _field_labels = ds.derive_all_icon_labels(data)
-        _existing_kw = [k for k in (data.get("ocr_keywords", "") or "").split(", ") if k.strip()]
-        data["ocr_keywords"] = ", ".join(dict.fromkeys(_existing_kw + _field_labels)).strip(", ")
-
-        spell_id = ds.upsert_spell(conn, data)
-        # Reparse REBUILDS the auto-detected icon set: clears the previous
-        # auto links then re-adds the freshly detected ones (manual "+ Add"
-        # picks are preserved). This is how re-running Reparse corrects
-        # icons an older, looser detection pass mis-linked.
-        ds.auto_link_ocr_icons(conn, spell_id, data.get("ocr_keywords", ""),
-                               replace_auto=True)
-        print(f"  [OK] {name}")
-        ok += 1
+            fail += 1
     print(f"\n  Reparsed {ok} spells, {fail} skipped (no cache)")
+
+
+def reparse_single_spell(conn: sqlite3.Connection, name: str) -> bool:
+    """
+    Re-parse a single spell by name from cached data (no network) — the
+    offline counterpart to `--spell NAME --force`. Returns True on success.
+
+    Looks the spell up case-insensitively so the name passed from the
+    detail view (which the user is already viewing) always resolves.
+    """
+    row = conn.execute(
+        "SELECT name, raw_wikitext, wiki_path, image_path FROM spells "
+        "WHERE name = ? COLLATE NOCASE",
+        (name,),
+    ).fetchone()
+    if row is None:
+        print(f"  [FAIL] '{name}' is not in the database — fetch it first.")
+        return False
+    ok = _reparse_row(conn, row)
+    print(f"\n  {'[OK]' if ok else '[SKIP]'} {name}")
+    return ok
 
 
 async def download_missing_images(conn: sqlite3.Connection, client: "BrowserAPIClient"):
@@ -1707,7 +1886,9 @@ async def main():
     parser.add_argument("--spell",    metavar="NAME",   help="Fetch a single spell by name")
     parser.add_argument("--school",   metavar="SCHOOL", help="Fetch all spells for a school")
     parser.add_argument("--all",      action="store_true", help="Fetch all spells (all schools)")
-    parser.add_argument("--reparse",  action="store_true", help="Reparse cached data (no network)")
+    parser.add_argument("--reparse",  action="store_true", help="Reparse ALL cached data (no network)")
+    parser.add_argument("--reparse-spell", metavar="NAME",
+                        help="Reparse a single spell by name from cached data (no network)")
     parser.add_argument("--images",   action="store_true",
                         help="Download missing images for already-scraped spells")
     parser.add_argument("--force",    action="store_true",
@@ -1718,7 +1899,10 @@ async def main():
                              "everything. Ignored when --force is set.")
     args = parser.parse_args()
 
-    if not NODRIVER_OK and not args.reparse:
+    # Reparse modes are fully offline — they never open a browser, so the
+    # nodriver requirement doesn't apply to them.
+    offline_reparse = args.reparse or args.reparse_spell
+    if not NODRIVER_OK and not offline_reparse:
         sys.exit("[FAIL] nodriver not installed. Run: pip install nodriver")
     if not BS4_OK:
         print("[WARN] beautifulsoup4 not installed — HTML image fallback disabled")
@@ -1728,6 +1912,10 @@ async def main():
 
     if args.reparse:
         await reparse_from_cache(conn)
+        return
+
+    if args.reparse_spell:
+        reparse_single_spell(conn, args.reparse_spell)
         return
 
     client = BrowserAPIClient()

@@ -3641,6 +3641,122 @@ class BossWikiApp(QMainWindow):
             ocr_mode_note.setWordWrap(True)
             ocr_group.layout().addWidget(ocr_mode_note)
 
+            # ── Spell card image-scan strength ─────────────────────────
+            # Separate from the boss matching-mode above: this controls how
+            # hard EasyOCR works when reading spell-card images during a
+            # fetch / reparse. Saved immediately; the scraper subprocess
+            # reads it from hud_settings.json on its next run.
+            if overlay_settings is not None:
+                strength_row = QHBoxLayout()
+                strength_lbl = QLabel("Spell scan strength:")
+                strength_lbl.setStyleSheet("color:#ccc; font-size:13px; background:transparent;")
+                strength_row.addWidget(strength_lbl)
+
+                self._spell_ocr_strength_combo = QComboBox()
+                self._spell_ocr_strength_combo.addItem("Standard  (fastest — default)", "standard")
+                self._spell_ocr_strength_combo.addItem("Enhanced  (upscales small text)", "enhanced")
+                self._spell_ocr_strength_combo.addItem("High  (slower — catches faint text)", "high")
+                self._spell_ocr_strength_combo.addItem("Maximum  (slowest — most thorough)", "maximum")
+                cur_strength = overlay_settings.get_spell_ocr_strength()
+                s_idx = self._spell_ocr_strength_combo.findData(cur_strength)
+                if s_idx >= 0:
+                    self._spell_ocr_strength_combo.setCurrentIndex(s_idx)
+                self._spell_ocr_strength_combo.setStyleSheet(
+                    "QComboBox{background:#0f3460;color:#e0e0e0;border:1px solid #1f3460;"
+                    "border-radius:6px;padding:6px 12px;font-size:12px;min-width:260px;}"
+                    "QComboBox:hover{border-color:#e94560;}"
+                    "QComboBox::drop-down{border:none;}"
+                    "QComboBox QAbstractItemView{background:#0f3460;color:#e0e0e0;"
+                    "selection-background-color:#e94560;border:1px solid #1f3460;}"
+                )
+                self._spell_ocr_strength_combo.currentIndexChanged.connect(
+                    self._on_spell_ocr_strength_changed
+                )
+                strength_row.addWidget(self._spell_ocr_strength_combo)
+                strength_row.addStretch()
+                ocr_group.layout().addLayout(strength_row)
+
+                strength_note = QLabel(
+                    "How hard the scanner works when reading spell-card images while "
+                    "fetching or reparsing spells. Stronger levels enlarge the card and "
+                    "lower the detection thresholds so tiny or faint badges (pip cost, "
+                    "damage numbers, %) are read more reliably — but each scan takes longer. "
+                    "Takes effect on the next fetch / reparse."
+                )
+                strength_note.setStyleSheet("color:#666; font-size:11px; background:transparent;")
+                strength_note.setWordWrap(True)
+                ocr_group.layout().addWidget(strength_note)
+
+                # ── Toggle: use description text to assign icons ───────────
+                self._spell_icons_from_desc_cb = QCheckBox(
+                    "Assign icons from description text (not just the card image)"
+                )
+                self._spell_icons_from_desc_cb.setChecked(
+                    overlay_settings.get_spell_ocr_icons_from_description()
+                )
+                self._spell_icons_from_desc_cb.setStyleSheet("background:transparent;")
+                self._spell_icons_from_desc_cb.toggled.connect(
+                    self._on_spell_icons_from_desc_changed
+                )
+                ocr_group.layout().addWidget(self._spell_icons_from_desc_cb)
+
+                icons_note = QLabel(
+                    "When on, the Detected Icons legend is filled from the wiki "
+                    "description and card fields as well as the image scan — so a word "
+                    "like \"caster\" in the description adds a Caster icon even if it "
+                    "isn't drawn on the card. Turn this off to assign icons from the "
+                    "true card-image scan only (text OCR + visual matching). "
+                    "Takes effect on the next fetch / reparse."
+                )
+                icons_note.setStyleSheet("color:#666; font-size:11px; background:transparent;")
+                icons_note.setWordWrap(True)
+                ocr_group.layout().addWidget(icons_note)
+
+                # ── Visual icon sensitivity (match-confidence threshold) ───
+                from PyQt5.QtWidgets import QSlider
+                conf_row = QHBoxLayout()
+                conf_lbl = QLabel("Visual icon sensitivity:")
+                conf_lbl.setStyleSheet("color:#ccc; font-size:13px; background:transparent;")
+                conf_row.addWidget(conf_lbl)
+
+                cur_conf = overlay_settings.get_spell_icon_visual_confidence()
+                self._spell_icon_conf_slider = QSlider(Qt.Horizontal)
+                # Slider is the match-confidence % (60–95). Higher threshold =
+                # stricter = fewer icons, so a higher slider value = LESS
+                # sensitive. We label the ends to make that direction clear.
+                self._spell_icon_conf_slider.setRange(60, 95)
+                self._spell_icon_conf_slider.setValue(int(round(cur_conf * 100)))
+                self._spell_icon_conf_slider.setFixedWidth(200)
+                self._spell_icon_conf_slider.setStyleSheet("""
+                    QSlider::groove:horizontal { background:#0f3460; height:6px; border-radius:3px; }
+                    QSlider::handle:horizontal { background:#e94560; width:16px; height:16px;
+                        margin:-5px 0; border-radius:8px; }
+                    QSlider::sub-page:horizontal { background:#e94560; border-radius:3px; }
+                """)
+                conf_row.addWidget(self._spell_icon_conf_slider)
+
+                self._spell_icon_conf_value = QLabel(f"{int(round(cur_conf * 100))}% confidence")
+                self._spell_icon_conf_value.setStyleSheet(
+                    "color:#e0e0e0; font-size:12px; background:transparent; min-width:110px;")
+                conf_row.addWidget(self._spell_icon_conf_value)
+                conf_row.addStretch()
+                ocr_group.layout().addLayout(conf_row)
+
+                self._spell_icon_conf_slider.valueChanged.connect(
+                    self._on_spell_icon_conf_changed
+                )
+
+                conf_note = QLabel(
+                    "How confident a template match must be to count as a detected icon "
+                    "on the card. Lower = detects MORE icons (and more wrong ones); higher "
+                    "= stricter, fewer icons. This is the main dial for card-image-only "
+                    "detection (it doesn't use OCR strength). Default 85%. "
+                    "Takes effect on the next fetch / reparse."
+                )
+                conf_note.setStyleSheet("color:#666; font-size:11px; background:transparent;")
+                conf_note.setWordWrap(True)
+                ocr_group.layout().addWidget(conf_note)
+
         # ══ KEYBINDS SECTION ══════════════════════════════════════
         if KEYBINDS_AVAILABLE and self.keybind_manager:
             kb_group = self._make_settings_group("⌨ Overlay Keybinds")
@@ -4449,6 +4565,45 @@ class BossWikiApp(QMainWindow):
             overlay_settings.set_ocr_mode(mode)
         label = "Dynamic (fuzzy)" if mode == OCR_MODE_DYNAMIC else "Strict (exact)"
         self.status_bar.showMessage(f"OCR mode changed to: {label}", 4000)
+
+    def _on_spell_ocr_strength_changed(self, _index: int):
+        """User changed the spell card image-scan strength in settings.
+
+        Saved immediately to hud_settings.json; the scraper subprocess reads
+        it on its next fetch / reparse run.
+        """
+        if not hasattr(self, '_spell_ocr_strength_combo'):
+            return
+        level = self._spell_ocr_strength_combo.currentData()
+        if overlay_settings is not None:
+            overlay_settings.set_spell_ocr_strength(level)
+        label = self._spell_ocr_strength_combo.currentText().split("  ")[0]
+        self.status_bar.showMessage(
+            f"Spell scan strength set to: {label} (applies on next fetch/reparse)", 5000
+        )
+
+    def _on_spell_icons_from_desc_changed(self, checked: bool):
+        """User toggled whether the description may assign icons. Saved
+        immediately; applies on the next fetch / reparse."""
+        if overlay_settings is not None:
+            overlay_settings.set_spell_ocr_icons_from_description(bool(checked))
+        msg = ("Icons will use description + image scan"
+               if checked else
+               "Icons will use the card-image scan only")
+        self.status_bar.showMessage(f"{msg} (applies on next fetch/reparse)", 5000)
+
+    def _on_spell_icon_conf_changed(self, value: int):
+        """User dragged the visual icon sensitivity slider. `value` is the
+        match-confidence percent (60–95). Saved immediately; applies on the
+        next fetch / reparse."""
+        if hasattr(self, "_spell_icon_conf_value"):
+            self._spell_icon_conf_value.setText(f"{value}% confidence")
+        if overlay_settings is not None:
+            overlay_settings.set_spell_icon_visual_confidence(value / 100.0)
+        self.status_bar.showMessage(
+            f"Visual icon sensitivity set to {value}% confidence "
+            "(applies on next fetch/reparse)", 4000
+        )
 
     # ── Cloudflare alert sound settings ───────────────────────────────────
     def _build_cf_sound_section(self) -> QGroupBox:

@@ -57,6 +57,26 @@ CACHE_DIR    = APP_DIR / "spell_cache"
 # spell (downloaded by spell_scraper into this folder).
 FUSION_IMG_DIR = APP_DIR / "spell_images_fusion"
 SPELL_SCRAPER = str(APP_DIR / "spell_scraper.py")
+_SETTINGS_FILE = APP_DIR / "hud_settings.json"
+
+
+def _icons_from_description() -> bool:
+    """Read the 'assign icons from description text' toggle from settings.
+
+    Matches how the scraper reads it, so the detail view's auto-link falls
+    back to card-image-scan-only icons when the user turns it off. Read fresh
+    each call so a change in HUD & Settings applies without a restart.
+    """
+    try:
+        import json
+        if _SETTINGS_FILE.exists():
+            with open(_SETTINGS_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            return bool(data.get("_global", {}).get(
+                "spell_ocr_icons_from_description", True))
+    except Exception:
+        pass
+    return True
 
 SCHOOL_COLORS = ds.SCHOOL_COLORS
 SCHOOL_ORDER  = ["All"] + ds.SPELL_SCHOOLS
@@ -586,6 +606,7 @@ class SpellDetailDialog(QDialog):
         self._conn  = conn
         self._nav_stack = []  # list of spell dicts, for "← Back" navigation
         self._refetch_process = None
+        self._reparse_process = None
         self.setWindowTitle(spell["name"])
         self.setMinimumSize(600, 700)
         self.resize(660, 740)
@@ -660,6 +681,23 @@ class SpellDetailDialog(QDialog):
         )
         self._refetch_btn.clicked.connect(self._refetch_spell)
         brow.addWidget(self._refetch_btn)
+
+        # Re-parse this one spell from its cached data (no re-download):
+        # re-runs OCR on the existing image and rebuilds every derived field
+        # using the current OCR strength, icon presets and parser logic.
+        self._reparse_btn = QPushButton("♻ Reparse")
+        self._reparse_btn.setToolTip(
+            "Re-parse this spell from cached data (no re-download). Re-runs the "
+            "image scan and rebuilds its fields using your current OCR strength, "
+            "icon presets and parser — useful after changing OCR settings."
+        )
+        self._reparse_btn.setStyleSheet(
+            "QPushButton{background:#1a1a2e;color:#4dd0e1;border:1px solid #245560;"
+            "border-radius:5px;padding:5px 12px;font-size:11px;}"
+            "QPushButton:hover{background:#13323a;}"
+        )
+        self._reparse_btn.clicked.connect(self._reparse_spell)
+        brow.addWidget(self._reparse_btn)
 
         close_btn = QPushButton("✕ Close")
         close_btn.clicked.connect(self.accept)
@@ -736,6 +774,8 @@ class SpellDetailDialog(QDialog):
 
         self._refetch_btn.setEnabled(False)
         self._img_btn.setEnabled(False)
+        if hasattr(self, "_reparse_btn"):
+            self._reparse_btn.setEnabled(False)
         self._refetch_btn.setText("⏳ Re-fetching…")
 
         self._refetch_buf = ""
@@ -763,6 +803,8 @@ class SpellDetailDialog(QDialog):
         out = cf_alert.strip_marker(out) if cf_alert is not None else out
         self._refetch_btn.setEnabled(True)
         self._img_btn.setEnabled(True)
+        if hasattr(self, "_reparse_btn"):
+            self._reparse_btn.setEnabled(True)
         self._refetch_btn.setText("🔄 Re-fetch")
         self._refetch_process = None
         if code == 0:
@@ -771,6 +813,77 @@ class SpellDetailDialog(QDialog):
             QMessageBox.warning(
                 self, "Re-fetch Failed",
                 "The re-fetch did not complete successfully.\n\n"
+                + (out[-800:] if out.strip() else f"Exit code {code}.")
+            )
+
+    # ── Reparse this spell (offline — re-runs OCR on the cached image) ─────
+
+    def _reparse_spell(self):
+        # Guard against overlapping runs with either a reparse or a re-fetch.
+        if self._reparse_process and self._reparse_process.state() != QProcess.NotRunning:
+            return
+        if self._refetch_process and self._refetch_process.state() != QProcess.NotRunning:
+            return
+        name = self._spell.get("name", "")
+        if not name:
+            return
+        if QMessageBox.question(
+            self, "Reparse Spell",
+            f"Reparse <b>{name}</b> from its cached data?<br><br>"
+            "This does <b>not</b> re-download anything — it re-runs the card image "
+            "scan and rebuilds this spell's fields using your current OCR strength, "
+            "icon presets and parser. Your manual icon picks are preserved.",
+            QMessageBox.Yes | QMessageBox.No, QMessageBox.Yes,
+        ) != QMessageBox.Yes:
+            return
+
+        self._reparse_btn.setEnabled(False)
+        self._refetch_btn.setEnabled(False)
+        self._img_btn.setEnabled(False)
+        self._reparse_btn.setText("⏳ Reparsing…")
+
+        self._reparse_buf = ""
+        self._reparse_process = QProcess(self)
+        self._reparse_process.setProcessChannelMode(QProcess.MergedChannels)
+        self._reparse_process.readyReadStandardOutput.connect(self._on_reparse_out)
+        self._reparse_process.finished.connect(self._on_reparse_done)
+        self._reparse_process.start(sys.executable, [SPELL_SCRAPER, "--reparse-spell", name])
+
+    def _on_reparse_out(self):
+        """Accumulate reparse stdout so _on_reparse_done has the full output.
+        Reparse is offline (no browser), so there's no Cloudflare marker to
+        watch for here — unlike re-fetch."""
+        if not self._reparse_process:
+            return
+        self._reparse_buf += bytes(
+            self._reparse_process.readAllStandardOutput()
+        ).decode("utf-8", "replace")
+
+    def _on_reparse_done(self, code, _status=None):
+        out = getattr(self, "_reparse_buf", "")
+        if self._reparse_process:
+            out += bytes(self._reparse_process.readAllStandardOutput()).decode("utf-8", "replace")
+        self._reparse_btn.setEnabled(True)
+        self._refetch_btn.setEnabled(True)
+        self._img_btn.setEnabled(True)
+        self._reparse_btn.setText("♻ Reparse")
+        self._reparse_process = None
+        # A missing cache prints "[SKIP]"/"[FAIL]" but still exits 0, so treat
+        # those as a soft failure and tell the user to re-fetch instead.
+        soft_fail = ("[FAIL]" in out) or ("[SKIP] No cached data" in out)
+        if code == 0 and not soft_fail:
+            self._reload_current_spell()
+        elif code == 0 and soft_fail:
+            QMessageBox.information(
+                self, "Nothing to Reparse",
+                f"There's no cached data for <b>{self._spell.get('name','')}</b> yet.\n\n"
+                "Use 🔄 Re-fetch first to download it from the wiki, then Reparse "
+                "will work offline."
+            )
+        else:
+            QMessageBox.warning(
+                self, "Reparse Failed",
+                "The reparse did not complete successfully.\n\n"
                 + (out[-800:] if out.strip() else f"Exit code {code}.")
             )
 
@@ -1059,6 +1172,44 @@ class SpellDetailDialog(QDialog):
         add_row.addWidget(add_icon_btn)
         icon_layout.addLayout(add_row)
         v.addWidget(icon_box)
+
+        # ── Raw OCR Debug — the actual text read off the card image ────
+        # Shows exactly what the image scan produced, so you can tell what
+        # OCR strength changed and which icons came from the card vs the
+        # description. Read-only + selectable for copying.
+        ocr_raw = (sp.get("ocr_raw", "") or "").strip()
+        ocr_kw  = (sp.get("ocr_keywords", "") or "").strip()
+        dbg_box = QFrame()
+        dbg_box.setStyleSheet(
+            "QFrame{background:#0d1b2a;border:1px solid #1f3460;border-radius:6px;}"
+        )
+        dbg_v = QVBoxLayout(dbg_box)
+        dbg_v.setContentsMargins(10, 8, 10, 8)
+        dbg_v.setSpacing(6)
+        dbg_hdr = QLabel("🔎 Raw OCR Debug (text read from the card image)")
+        dbg_hdr.setStyleSheet(
+            "color:#7f8c9a;font-size:11px;font-weight:bold;background:transparent;border:none;"
+        )
+        dbg_v.addWidget(dbg_hdr)
+
+        dbg_text = QTextEdit()
+        dbg_text.setReadOnly(True)
+        dbg_text.setPlainText(ocr_raw if ocr_raw else "(no text read from the card image)")
+        dbg_text.setFixedHeight(90)
+        dbg_text.setStyleSheet(
+            "QTextEdit{background:#0a1420;color:#9fb3c8;border:1px solid #16283c;"
+            "border-radius:4px;font-family:Consolas,'Courier New',monospace;font-size:11px;}"
+        )
+        dbg_v.addWidget(dbg_text)
+
+        if ocr_kw:
+            kw_lbl = QLabel(f"Detected keywords → icons: {ocr_kw}")
+            kw_lbl.setStyleSheet(
+                "color:#5f7488;font-size:10px;background:transparent;border:none;"
+            )
+            kw_lbl.setWordWrap(True)
+            dbg_v.addWidget(kw_lbl)
+        v.addWidget(dbg_box)
 
         # ── Training Status (from rendered-HTML acquisition data) ──────
         self._build_training_section(v, sp)
@@ -1447,7 +1598,10 @@ class SpellDetailDialog(QDialog):
         # extract_icon_keyword_labels(description + ocr_raw) in. Together
         # these are what make a single spell resolve to SEVERAL icons
         # instead of one/none.
-        kw_raw += ds.derive_all_icon_labels(self._spell)
+        # Skipped when the user has turned off description→icon assignment,
+        # so only the card-image scan results already in ocr_keywords link.
+        if _icons_from_description():
+            kw_raw += ds.derive_all_icon_labels(self._spell)
 
         if not kw_raw:
             return
