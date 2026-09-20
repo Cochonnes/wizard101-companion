@@ -1361,7 +1361,9 @@ class _QuestRowWidget(QWidget):
             else:
                 label = str(t); col = QUEST_TYPE_COLORS.get(label.lower(), "#888")
             if label:
-                parts.append(f"<b style='color:{col}'>{_h.escape(label.title())}</b>")
+                count = (t.get("count") or 1) if isinstance(t, dict) else 1
+                mult = f"<span style='color:#aaa'> ×{count}</span>" if count > 1 else ""
+                parts.append(f"<b style='color:{col}'>{_h.escape(label.title())}</b>{mult}")
         sep  = "<span style='color:#aaa'> + </span>"
         dash = "<span style='color:#aaa'> – </span>" if parts else ""
         return dash + sep.join(parts)

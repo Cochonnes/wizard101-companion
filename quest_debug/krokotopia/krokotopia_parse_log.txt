@@ -1,33 +1,32 @@
-PARSE LOG — Krokotopia
+PARSE LOG (html) — Krokotopia
 ============================================================
 
-AREA    : Krokotopia Main Quest Line
-AREA    : Krokopatra
+AREA    : I have divided the quests in the Spiral into the following groups
 AREA    : Royal Hall
-QUEST#  1: Krokotopia                               [explore + talk]
+QUEST#  1: Krokotopia                               [explore + talk x3]
 QUEST#  2: Digging in the Dirt                      [talk]
 QUEST#  3: Make Some Rubbings                       [explore + talk]
 QUEST#  4: Fragments of a Key                       [d&c + talk]
 QUEST#  5: The Final Rubbing                        [boss + talk]
 QUEST#  6: Speak to the Assistant                   [talk]
 AREA    : Chamber of Fire
-QUEST#  7: Find My Colleague                        [talk]
+QUEST#  7: Find My Colleague                        [talk + talk]
 QUEST#  8: New Digs                                 [interact + talk]
 QUEST#  9: Quarter Master                           [boss + talk]
 QUEST# 10: Back to the Archeologist                 [talk]
 AREA    : Palace of Fire
 QUEST# 11: Assault on the Palace                    [talk]
-QUEST# 12: Gather the Troops                        [talk]
-QUEST# 13: Payback                                  [mob + talk]
-QUEST# 14: Give ‘Em Another Round                   [boss + talk]
+QUEST# 12: Gather the Troops                        [talk x5]
+QUEST# 13: Payback                                  [mob + mob + talk]
+QUEST# 14: Give ‘Em Another Round                   [boss x4 + talk]
 QUEST# 15: Back to Winthrop                         [talk]
 QUEST# 16: Into the Map Room                        [talk]
-QUEST# 17: Serpent Staff                            [instance + talk + boss]
-QUEST# 18: Eye of Krok                              [instance + talk + boss]
-QUEST# 19: Use the Map Room                         [instance + talk + interact]
+QUEST# 17: Serpent Staff                            [instance + talk + boss + talk]
+QUEST# 18: Eye of Krok                              [instance + talk + boss + talk]
+QUEST# 19: Use the Map Room                         [instance + talk + interact + talk]
+DUP# 16: identical line skipped
 QUEST# 20: Permission to Enter                      [talk]
-QUEST# 21: Fangdango (talk) Instance name : Throne  [talk + instance]
-AREA    : Instance name
+QUEST# 21: Fangdango                                [talk]
 AREA    : Hall of Champions
 QUEST# 22: Order at Last                            [talk]
 QUEST# 23: The Great General                        [talk]
@@ -35,7 +34,7 @@ QUEST# 24: Minion Massacre                          [mob + talk]
 QUEST# 25: Search for the Seal                      [boss + talk]
 QUEST# 26: General Admission                        [talk]
 QUEST# 27: Coin of Destiny                          [boss + talk]
-QUEST# 28: Lay of the Land                          [talk]
+QUEST# 28: Lay of the Land                          [talk + talk]
 QUEST# 29: Blades of Ice                            [d&c + talk]
 QUEST# 30: Armor Handle                             [d&c + talk]
 QUEST# 31: Get Some Bling                           [collect + talk]
@@ -58,25 +57,47 @@ QUEST# 46: Who’s More Amazing?                      [boss + talk]
 QUEST# 47: The Ultimate Battle                      [boss + talk]
 AREA    : Entrance Hall
 QUEST# 48: Return to Shalek                         [talk]
+QUEST# 49: Find the Fang                            [talk]
+QUEST# 50: Breaking the Vault                       [instance + boss x3 + puzzle x3 + boss + talk]
 QUEST# 49: Find the Fang                            [boss + talk]
-QUEST# 50: Breaking the Vault                       [instance + boss + puzzle + talk]
-QUEST# 51: Retribution                              [boss + talk]
-QUEST# 52: Guardians at the Gate                    [instance + talk + boss + explore]
-QUEST# 53: New Allies                               [instance + talk + interact]
-QUEST# 54: Overpower the Overseer                   [instance + talk + boss]
+QUEST# 51: Retribution                              [talk]
+QUEST# 52: Guardians at the Gate                    [instance + talk + boss x2 + talk + explore + talk]
+QUEST# 53: New Allies                               [instance + talk + interact + talk]
+QUEST# 54: Overpower the Overseer                   [instance + talk + boss + talk]
 QUEST# 55: The Right Combination                    [instance + talk + boss]
-QUEST# 56: Back to Balance (talk + talk) Instance n [talk + instance]
-AREA    : Instance names
+QUEST# 51: Retribution                              [boss + talk]
+QUEST# 56: Back to Balance                          [talk + talk]
 AREA    : Tomb of Storms
-QUEST# 57: Tomb of Storms                           [talk]
+QUEST# 57: Tomb of Storms                           [talk + talk]
 QUEST# 58: De-Cipher the Ahnics                     [boss + talk]
 QUEST# 59: De-Cipher the Djeserits                  [boss + talk]
-QUEST# 60: The Key to the Temple                    [boss + talk]
+QUEST# 60: The Key to the Temple                    [boss x4 + talk]
+QUEST# 61: Temple Dweller                           [instance + explore]
+QUEST# 62: Test of Strength                         [instance + talk + boss x3 + talk]
+QUEST# 63: Get Smart                                [instance + talk + puzzle x3 + talk]
 QUEST# 61: Temple Dweller                           [instance + boss + talk]
-QUEST# 62: Test of Strength                         [instance + talk + boss]
-QUEST# 63: Get Smart                                [instance + talk + puzzle]
 QUEST# 64: Triumphant Return                        [talk]
-QUEST# 65: Missing Souls (talk + talk) Instance nam [talk + instance]
+QUEST# 65: Missing Souls                            [talk + talk]
+AREA    : Wizard City
+AREA    : Marleybone
+AREA    : Mooshu
+AREA    : Dragonspyre
+AREA    : Celestia
+AREA    : Zafaria
+AREA    : Avalon
+AREA    : Azteca
+AREA    : Khrysalis
+AREA    : Polaris
+AREA    : Mirage
+AREA    : Empyrea
+AREA    : Karamelle
+AREA    : Lemuria
+AREA    : Novus
+AREA    : Wallaru
+AREA    : Grizzleheim
+AREA    : Wysteria
+AREA    : Catacombs
+AREA    : Happy Questing!
 
-SUMMARY: 65 quests in 7 areas
+SUMMARY: 68 quest rows (65 unique numbers) in 7 areas
 Stats: {'total_quests': 65, 'mob_fights': 6, 'dc_quests': 7, 'boss_fights': None, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}

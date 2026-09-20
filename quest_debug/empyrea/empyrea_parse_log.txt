@@ -1,96 +1,235 @@
-PARSE LOG — Empyrea
+PARSE LOG (html) — Empyrea
 ============================================================
 
-QUEST#  1: Baba Boohooie                            [talk + explore]
-QUEST#  2: Sparck’s Ark                             [explore + talk]
+AREA    : I have divided the quests in the Spiral into the following groups
+AREA    : World Info
+AREA    : Arcanum
+QUEST#  1: Baba Boohooie                            [talk + talk + explore + talk + talk]
+QUEST#  2: Sparck’s Ark                             [explore + talk + explore x4 + talk]
 AREA    : Polaris, Walruskberg
 QUEST#  3: Captain No Captain                       [explore + boss + talk]
 AREA    : Azteca, Zocalo
-QUEST#  4: Swine of the Ancient Mariner             [explore + talk + mob + interact]
+QUEST#  4: Swine of the Ancient Mariner             [explore + talk + explore + mob + interact + talk]
+AREA    : Arcanum
 QUEST#  5: Unstuck Pig                              [explore + talk]
-QUEST#  6: Shadow Tricks                            [talk + explore + solo minor cheat]
+QUEST#  6: Shadow Tricks                            [talk + explore + solo minor cheat + talk]
 QUEST#  7: Almost Time to Go                        [talk]
 QUEST#  8: Go Time                                  [explore + interact + talk]
 AREA    : Aeriel Shores/Jungle
-QUEST#  9: To Boldly Crash…                         [talk + explore]
-QUEST# 10: Spell-Castaway                           [talk]
+QUEST#  9: To Boldly Crash…                         [talk + talk + explore + explore + talk]
+QUEST# 10: Spell-Castaway                           [talk x4]
 QUEST# 11: Crusher? We Barely Know Her!             [explore + boss + talk]
-QUEST# 12: May the Beastman Win                     [explore + talk + mob + collect]
-QUEST# 13: The Raiders Raided                       [d&c + instance + explore + elite + boss + talk + interact]
-QUEST# 14: Beasty Mountain High                     [talk + explore + mob + interact + instance + elite + boss + cheat]
-QUEST# 15: Khan Found it!                           [talk + explore]
+QUEST# 12: May the Beastman Win                     [explore + talk + mob + collect + talk]
+QUEST# 13: The Raiders Raided                       [d&c + instance + explore + elite + elite + boss + talk + interact + talk]
+QUEST# 14: Beasty Mountain High                     [talk + explore + explore + mob + mob + interact + mob + interact + instance + elite + elite + boss + interact + instance + elite + elite + cheat + explore + talk]
+QUEST# 15: Khan Found it!                           [talk + explore + talk]
 QUEST# 16: Whaeriel?                                [explore + talk]
 QUEST# 17: Eyes Are the Prize                       [d&c + talk]
-QUEST# 18: Web Head                                 [d&c + talk + interact]
-QUEST# 19: Incantation Investigation                [explore + solo + boss + interact + talk]
+QUEST# 18: Web Head                                 [d&c + talk + interact + talk]
+QUEST# 19: Incantation Investigation                [explore + solo boss + interact + talk]
 QUEST# 20: Khan Games                               [explore + talk]
-QUEST# 21: The Path of Khan                         [instance + mob + cheat]
-QUEST# 22: From A to Z                              [talk + interact]
+QUEST# 21: The Path of Khan                         [instance + mob + mob + cheat]
+DUP# 20: identical line skipped
+QUEST# 22: From A to Z                              [talk + interact + interact + talk + interact + talk]
 AREA    : Zanadu + Zanadu Sewers
-QUEST# 23: Zanadus and Don’ts                       [explore + talk + mob]
-QUEST# 24: Out of His Comfort Zone                  [explore + boss + interact + talk]
+QUEST# 23: Zanadus and Don’ts                       [explore + talk + mob + talk + talk]
+QUEST# 24: Out of His Comfort Zone                  [explore + boss + explore + interact + talk + talk]
 QUEST# 25: Welcome to the Leisure Dome              [explore]
 QUEST# 26: A Little Khan and Dance                  [puzzle]
-QUEST# 27: Ruumbaya                                 [explore + mob + talk + solo + interact]
+QUEST# 25: Welcome to the Leisure Dome              [talk + talk]
+QUEST# 26: King Khan                                [talk + talk]
+QUEST# 27: Ruumbaya                                 [explore + mob + talk + explore + solo + mob + interact + talk]
 QUEST# 28: Waiting in the Sky                       [explore]
-QUEST# 29: It Really is a Silly name                [instance + elite + cheat]
-QUEST# 30: A Hazy Cosmic Jive                       [interact + talk + explore + elite + mob]
-QUEST# 31: Negative Reinforcement                   [explore + interact + talk]
+QUEST# 29: It Really is a Silly name                [instance + elite + elite + cheat]
+QUEST# 28: Waiting in the Sky                       [talk]
+QUEST# 30: A Hazy Cosmic Jive                       [interact + talk + explore + elite + interact + explore + mob + talk + explore + talk]
+QUEST# 31: Negative Reinforcement                   [talk + explore]
 QUEST# 32: Sparck in Charge                         [instance + explore + boss + elite + interact]
-QUEST# 33: Rebel Rebel                              [talk + collect + d&c + interact]
+QUEST# 31: Negative Reinforcement                   [explore + interact + talk]
+QUEST# 33: Rebel Rebel                              [talk + collect + d&c + interact + talk]
 QUEST# 34: The Return of the King                   [explore]
-QUEST# 35: Such a Krok                              [instance + elite + minor cheat + talk]
-QUEST# 36: To the Bat’s Cave!                       [explore + d&c + interact]
-QUEST# 37: Meeting of the Minds                     [instance + elite + interact + minor cheat]
+QUEST# 35: Such a Krok                              [instance + elite + elite + minor cheat + talk]
+QUEST# 34: The Return of the King                   [talk]
+QUEST# 36: To the Bat’s Cave!                       [explore + d&c + interact + d&c]
+QUEST# 37: Meeting of the Minds                     [instance + elite + interact + elite + elite + minor cheat]
+QUEST# 36: To the Bat’s Cave!                       [talk]
 QUEST# 38: A Chain of Ice and Fire                  [explore + interact + talk]
 AREA    : Outer Athanor
 QUEST# 39: Avalanche!                               [mob + talk]
 QUEST# 40: Dread Shed                               [explore]
-QUEST# 41: Steam Wrath                              [instance + interact + boss + mob + explore]
+QUEST# 41: Steam Wrath                              [instance + interact + boss + interact x4 + mob + interact + explore]
+QUEST# 40: Dread Shed                               [talk]
 QUEST# 42: Real Politics                            [talk + explore]
 QUEST# 43: Afraid of the Dark                       [talk + elite]
+QUEST# 42: Real Politics                            [talk + talk]
 QUEST# 44: Lava Trouble                             [talk]
 QUEST# 45: A Hot Mess                               [instance + mob + interact + boss + talk]
-QUEST# 46: Tunnel Visions                           [talk + explore]
+QUEST# 46: Tunnel Visions                           [talk + talk + explore + talk]
 QUEST# 47: Snowballistic!                           [mob + talk]
-QUEST# 48: Cold Storage                             [instance + talk + elite + boss + interact + explore]
+QUEST# 48: Cold Storage                             [instance + talk + elite + boss + interact + explore + talk]
 QUEST# 49: Ice, Meet Fire                           [explore]
-AREA    : Ice, Meet Fire (explore).
-QUEST# 50: Tunnel of Terror                         [instance + mob + interact + minor cheat]
+QUEST# 50: Tunnel of Terror                         [instance + mob + interact + minor cheat + interact + mob]
+QUEST# 49: Ice, Meet Fire                           [talk]
 AREA    : Inner Athanor
 QUEST# 51: Simmering Tensions                       [interact + mob + talk]
-QUEST# 52: Inside Voices                            [talk]
+QUEST# 52: Inside Voices                            [talk + talk]
 QUEST# 53: Too Hot to Handle                        [elite + talk]
-QUEST# 54: Peace Pipe                               [explore + puzzle + talk]
+QUEST# 54: Peace Pipe                               [explore + explore + puzzle + talk]
 QUEST# 55: Lava at First Sight                      [explore]
 QUEST# 56: Cistern, Turn, Turn                      [boss + interact]
+QUEST# 55: Lava at First Sight                      [talk]
 QUEST# 57: Getting Warmer                           [talk]
 AREA    : Outer Athanor
 QUEST# 58: Cold War                                 [interact + talk]
-QUEST# 59: Bunker Busters                           [explore + mob + talk]
-QUEST# 60: Re-Councilliation                        [explore + talk]
-QUEST# 61: Insulation Insurrection                  [explore]
+QUEST# 59: Bunker Busters                           [explore + mob + talk + talk]
+QUEST# 60: Re-Councilliation                        [explore + talk + explore + talk]
 AREA    : Inner Athanor
-QUEST# 62: Great Scott, Bat Bots                    [elite + interact]
+QUEST# 61: Insulation Insurrection                  [explore]
+QUEST# 62: Great Scott, Bat Bots                    [elite + interact + interact]
+QUEST# 61: Insulation Insurrection                  [talk]
 QUEST# 63: Full Steam Ahead                         [talk]
-QUEST# 64: Athano-More                              [talk + interact + explore]
+QUEST# 64: Athano-More                              [explore]
 QUEST# 65: Bat-tlefield                             [explore + interact + cheat + elite]
-QUEST# 66: The Deadliest Catch                      [talk + collect + d&c + interact]
+QUEST# 64: Athano-More                              [talk + interact + talk + explore + talk + explore]
+QUEST# 66: The Deadliest Catch                      [talk + talk + collect + d&c + interact + talk]
 QUEST# 67: Eat or Be Eaten                          [interact + talk]
 AREA    : Sepidious
-QUEST# 68: Gut Bomb                                 [explore + collect + interact + talk]
+QUEST# 68: Gut Bomb                                 [explore + collect + collect + interact + collect + talk + interact + talk]
 QUEST# 69: Belly Aching                             [d&c + collect + talk]
+QUEST# 70: He’s Good for the Heart                  [explore]
+QUEST# 71: Qhatastrophe                             [instance + elite + elite + minor cheat]
 QUEST# 70: He’s Good for the Heart                  [interact + explore]
-QUEST# 71: Qhatastrophe                             [instance + elite + minor cheat]
 QUEST# 72: The Eyes Have it                         [explore]
-QUEST# 73: Oaky-Doke                                [instance + elite + minor cheat]
-QUEST# 74: Disappearing Ink                         [talk + interact + explore]
+QUEST# 73: Oaky-Doke                                [instance + elite + elite + minor cheat]
+QUEST# 72: The Eyes Have it                         [talk + talk]
+QUEST# 74: Disappearing Ink                         [talk]
 QUEST# 75: The Other Side of the Coin               [instance + elite + minor cheat]
+QUEST# 74: Disappearing Ink                         [talk + interact + explore + talk]
+QUEST# 76: Eye-Eye, Captain                         [explore]
+QUEST# 77: Right in the Eye                         [instance + talk + elite + elite + minor cheat]
 QUEST# 76: Eye-Eye, Captain                         [interact + talk]
-QUEST# 77: Right in the Eye                         [instance + talk + elite + minor cheat]
-QUEST# 78: Brain Drain                              [talk + interact]
+QUEST# 78: Brain Drain                              [explore]
 QUEST# 79: Massive Headache                         [instance + elite + boss]
-QUEST# 80: Only Mostly Dead                         [talk + explore + interact]
+QUEST# 78: Brain Drain                              [talk + interact + interact + interact + talk]
+QUEST# 80: Only Mostly Dead                         [talk + explore + interact + talk + interact + talk]
+AREA    : The Arcanum / Ravenwood
+QUEST#  1: Of Note                                  [explore + talk + talk + explore + talk]
+QUEST#  2: With all the Dying Trees I Scream        [talk x7 + talk]
+QUEST#  3: Finally Growing Into It                  [explore + solo + explore + mob + interact + talk + explore + mob + interact + mob + boss + interact + talk]
+QUEST#  4: Make Like a Tree and Go                  [talk]
+AREA    : Aeriel Shore & Jungle
+QUEST#  5: Empyre-B                                 [explore + talk]
+QUEST#  6: Communications Officer                   [talk + d&c + talk]
+QUEST#  7: Go Full Circle                           [explore + interact + talk]
+QUEST#  8: Into the Jungle                          [instance + mob x3 + talk]
+AREA    : Samsara
+QUEST#  9: To Samsara                               [interact + talk]
+QUEST# 10: Wheel in the Sky                         [talk x3]
+QUEST# 11: Purify Me                                [interact x3 + talk]
+QUEST# 12: Further to Fly                           [talk + interact + talk]
+AREA    : Mandalla / Samsara Village
+QUEST# 13: The Quest Bears Fruit                    [instance + mob + mob + boss + interact + talk]
+QUEST# 14: Fungus Humungous                         [explore]
+QUEST# 15: The Spore the Merrier                    [instance + mob + mob + minor cheat]
+QUEST# 14: Fungus Humungous                         [talk + talk]
+QUEST# 16: Pretty Darn Quickening                   [explore + talk + interact + talk]
+AREA    : Nexus (Reverie)
+QUEST# 17: Into the Great Beyond                    [instance + explore + explore + major cheat + talk]
+QUEST# 18: Dream Deeper                             [explore]
+QUEST# 19: Dreams and Nightmares                    [instance + explore + explore + d&c + cheat + puzzle + cheat + talk + explore]
+QUEST# 18: Dream Deeper                             [talk]
+QUEST# 20: ‘Till Wizard Voices Wake Us              [explore + talk]
+QUEST# 21: Zana-Redo                                [talk]
+AREA    : Zanadu
+QUEST# 22: Pretty Standard Procedure                [talk x4 + d&c + d&c + d&c + talk]
+QUEST# 23: This Little Light Net of Mine…           [talk + explore]
+QUEST# 24: At the End of His Hope                   [instance + elite + major cheat + elite + explore]
+QUEST# 23: This Little Light Net of Mine…           [talk + talk]
+QUEST# 25: The Voyage Home                          [explore + interact + talk]
+AREA    : Nimbus Citadel
+QUEST# 26: Sparck Seconds that Emotion              [explore + explore + talk + talk + explore]
+QUEST# 27: A Light Fight                            [instance + mob + elite + minor cheat]
+QUEST# 26: Sparck Seconds that Emotion              [talk + talk]
+QUEST# 28: Raven is the Word                        [explore + explore + explore]
+QUEST# 29: The Ultimate Price of Peace              [instance + explore + mob + elite + minor cheat]
+QUEST# 28: Raven is the Word                        [talk]
+QUEST# 30: More Like Scare-o Plains                 [talk]
+QUEST# 31: Welcome to the Grand Contusion           [elite]
+QUEST# 30: More Like Scare-o Plains                 [explore + talk]
+AREA    : Port Aero / Southwest Aeroplains / Velo City / Northeast Plains
+QUEST# 32: Stream On                                [talk + talk + d&c + talk + interact + talk]
+QUEST# 33: Dude Looks Like a Lion                   [explore + cheat + talk]
+QUEST# 34: Take Me Down to Velo City                [explore + mob + talk + talk]
+QUEST# 35: Newts Hate Frogs                         [explore]
+QUEST# 36: Lord Humongish                           [instance + mob + minor cheat]
+QUEST# 35: Newts Hate Frogs                         [talk]
+QUEST# 37: A for Real Snipe Hunt                    [talk + d&c + talk]
+QUEST# 38: When the Whirlyburly’s Done              [talk + talk + mob + talk + talk x3 + interact + talk]
+QUEST# 39: Where the Blue-FFalo Roam…               [mob + explore]
+QUEST# 40: … and the Skies are Dark Cloudy All Day  [instance + mob + talk + elite + cheat]
+QUEST# 39: Where the Blue-FFalo Roam…               [talk]
+QUEST# 41: The Truth Hurts                          [explore + explore + elite + cheat + talk]
+QUEST# 42: Ain’t No Citadel High Enough             [explore + explore + mob + elite + elite + talk + explore + interact]
+AREA    : Nimbus Citadel
+QUEST# 43: The Search for Sparck                    [explore]
+QUEST# 44: Fair-Weather Friends                     [instance + mob + elite + boss]
+QUEST# 43: The Search for Sparck                    [talk]
+QUEST# 45: Vanitus Veritas                          [explore]
+QUEST# 46: The Only Thing to Fear…                  [instance + mob + mob + cheat]
+QUEST# 45: Vanitus Veritas                          [talk]
+QUEST# 47: The Celestial Loophole                   [explore]
+QUEST# 48: A Less than Admirable Admiral            [minor cheat]
+QUEST# 47: The Celestial Loophole                   [interact + talk]
+QUEST# 49: We got a Mandalla Down!                  [talk]
+AREA    : Samsara Village
+QUEST# 50: The Shattered Wheel                      [interact + talk]
+QUEST# 51: Swarming Skies                           [mob + talk]
+QUEST# 52: Maizes and Monsters                      [mob + talk]
+QUEST# 53: The Shadow of Death                      [explore + elite + talk + talk]
+QUEST# 54: Save Our Scrolls                         [d&c + collect + talk + talk]
+QUEST# 55: A Cry for Help                           [talk + talk + interact + talk]
+AREA    : Chaos Jungle
+QUEST# 56: Search and Rescue                        [collect + talk + explore + mob + interact + talk + talk]
+QUEST# 57: Jungle Chaos!                            [explore + mob + explore]
+QUEST# 58: Fallout                                  [instance + elite + interact + talk + mob + talk + explore]
+QUEST# 57: Jungle Chaos!                            [talk]
+QUEST# 59: Signal to Noise                          [explore + explore]
+QUEST# 60: Rescue Mission                           [instance + mob + mob]
+QUEST# 59: Signal to Noise                          [explore + talk + talk]
+QUEST# 61: Rebuilding the Bat                       [explore + interact + talk + cheat + talk]
+QUEST# 62: Gathering Shadows                        [d&c + talk + talk]
+QUEST# 63: Extra Life                               [explore + d&c + interact + explore + explore + talk + explore + interact + talk]
+AREA    : Husk
+QUEST# 64: Timber Timbre                            [explore]
+QUEST# 65: Astral Project Your Voice!               [instance + mob + elite + minor cheat]
+QUEST# 64: Timber Timbre                            [explore + interact + talk]
+QUEST# 66: Battling the Elementals                  [explore]
+QUEST# 67: In the Elemental Groove                  [instance + elite + elite + boss]
+QUEST# 66: Battling the Elementals                  [interact + talk]
+QUEST# 68: Spirit of the Grove                      [explore]
+QUEST# 69: Smells Like Tree Spirit                  [instance + explore + double cheat]
+QUEST# 68: Spirit of the Grove                      [explore + interact + talk]
+QUEST# 70: Braving the Storm                        [boss]
+AREA    : Wizard City
+AREA    : Krokotopia
+AREA    : Marleybone
+AREA    : Mooshu
+AREA    : Dragonspyre
+AREA    : Celestia
+AREA    : Zafaria
+AREA    : Avalon
+AREA    : Azteca
+AREA    : Khrysalis
+AREA    : Polaris
+AREA    : Mirage
+AREA    : Karamelle
+AREA    : Lemuria
+AREA    : Novus
+AREA    : Wallaru
+AREA    : Grizzleheim
+AREA    : Wysteria
+AREA    : Catacombs
+AREA    : Happy Questing!
 
-SUMMARY: 80 quests in 11 areas
+SUMMARY: 183 quest rows (80 unique numbers) in 23 areas
 Stats: {'total_quests': 80, 'mob_fights': 20, 'dc_quests': 8, 'boss_fights': 24, 'cheater_bosses': None, 'solo_quests': 3, 'description': ''}

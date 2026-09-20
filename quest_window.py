@@ -187,16 +187,16 @@ class ScrapeWorker(QThread):
                 self.progress.emit(f"⏳ Scraping {world_name}…")
                 try:
                     data = qs.scrape_world_guide(url, world_name)
-                    dq.import_world_data(thread_conn, data)
                     total = sum(len(a["quests"]) for a in data.get("areas", []))
                     debug = data.get("debug_info", "")
-                    if total == 0:
-                        self.progress.emit(
-                            f"⚠ {world_name}: scraped OK but 0 quests found — "
-                            "check URL or page structure"
-                        )
-                        self.world_done.emit(world_name, False, debug)
+                    # Checked BEFORE importing: the import replaces the
+                    # world's quests, so a bad scrape must not reach it.
+                    ok, why = dq.check_import_sanity(thread_conn, data)
+                    if not ok:
+                        self.progress.emit(f"⚠ {world_name}: {why} — check URL or page structure")
+                        self.world_done.emit(world_name, False, f"{why}\n\n{debug}")
                     else:
+                        dq.import_world_data(thread_conn, data)
                         self.progress.emit(f"✅ {world_name}: {total} quests imported")
                         self.world_done.emit(world_name, True, debug)
 
@@ -258,6 +258,11 @@ class ReparseWorker(QThread):
                     existing = dq.get_world_by_name(thread_conn, world_name)
                     if existing and existing.get("source_url"):
                         data["source_url"] = existing["source_url"]
+                    ok, why = dq.check_import_sanity(thread_conn, data)
+                    if not ok:
+                        self.progress.emit(f"⚠ {world_name}: {why}")
+                        self.world_done.emit(world_name, False, why)
+                        continue
                     dq.import_world_data(thread_conn, data)
                     total = sum(len(a["quests"]) for a in data.get("areas", []))
                     self.progress.emit(f"✅ {world_name}: {total} quests re-imported")
@@ -623,14 +628,7 @@ class WorldManagementDialog(QDialog):
 
     def _sort_chronologically(self):
         """Re-sort the list by the canonical world order from world_order.json."""
-        import json as _json, os as _os
-        _order_file = _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), "world_order.json")
-        canonical = dq.WORLD_DISPLAY_ORDER  # fallback
-        if _os.path.exists(_order_file):
-            try:
-                canonical = _json.loads(open(_order_file, encoding="utf-8").read())
-            except Exception:
-                pass
+        canonical = dq.get_world_order()
         
         # Pull all items
         items_data = []
@@ -777,7 +775,9 @@ def _quest_line_html(number: Optional[int], name: str, types: list,
         raw_label = t.get("label", "")
         label = _format_type_label(raw_label)
         color = t.get("color") or QUEST_TYPE_COLORS.get(raw_label.lower(), "#c8c8c8")
-        type_parts.append(f"<b style='color:{color}'>{label}</b>")
+        count = t.get("count") or 1
+        mult  = f"<span style='color:#999'> ×{count}</span>" if count > 1 else ""
+        type_parts.append(f"<b style='color:{color}'>{label}</b>{mult}")
 
     type_str = " + ".join(type_parts) if type_parts else ""
     pin      = " 📌" if has_note else ""
@@ -1470,7 +1470,7 @@ class LandingPage(QWidget):
 
         # If no worlds in DB at all, seed with defaults
         if not worlds:
-            for i, wname in enumerate(DEFAULT_WORLD_ORDER):
+            for i, wname in enumerate(dq.get_world_order()):
                 known_url = ""
                 if qs:
                     known_url = qs.KNOWN_WORLD_URLS.get(wname, "")

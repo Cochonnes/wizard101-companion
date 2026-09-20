@@ -1,7 +1,15 @@
 """
 Quest Scraper — FinalBastion Quest Guide Parser
 ════════════════════════════════════════════════
-Core algorithm (your suggestion, exactly right):
+Primary parser: parse_html() reads the page DOM (areas from <h3>/<h4>, one
+quest per <br>-line or <ol><li>, type colours from the spans). It keeps every
+step in order — "Mob + Mob + Boss" is three entries — and turns multipliers
+("Talk x6") into one entry with a count.
+
+parse_plain_text() below is the old text-heuristic parser. It is only used
+as a fallback when no cached HTML exists for a world.
+
+Legacy algorithm (text fallback):
   Every quest starts with a number N followed by a dot/paren.
   Everything from that number until the NEXT number is part of that quest.
   No format detection needed — just collect lines per number block.
@@ -78,6 +86,13 @@ QUEST_TYPE_COLORS = {
     "collect":          "#c8c8c8",
     "explore":          "#c8c8c8",
     "solo":             "#ffcc00",
+    "solo elite":       "#ffcc00",
+    "solo boss":        "#ff99cc",
+    "minor boss":       "#ff99cc",
+    "triple cheat":     "#ff0000",
+    "photomancy":       "#993300",
+    "play as your pet": "#333399",
+    "investigate":      "#800080",
 }
 
 # Ordered longest-first for matching
@@ -1002,6 +1017,381 @@ def parse_plain_text(plain_text: str, world_name: str,
     return stats, areas, log_text, intro_text
 
 
+# ══════════════════════════════════════════════════════════════════════════════
+# HTML parser (primary)
+# ══════════════════════════════════════════════════════════════════════════════
+#
+# The FinalBastion pages are already structured, so this reads the DOM instead
+# of guessing from flattened text:
+#   <h3>/<h4>                      → area headers
+#   <p> … <br/> … <br/>            → one quest per line ("12. Name – Mob + Talk")
+#   <ol><li>                       → quests whose number is the list position
+#                                    (older guides; invisible to the text parser)
+#   <span style="color:#99cc00">   → the type's colour, straight from the page
+#
+# Every step is kept in page order — "Mob + Mob + Boss" stays three entries —
+# and multipliers ("Talk x6", "talk 3x") become a single entry with count=6.
+#
+# Four line formats occur and are all handled here:
+#   "6. Gold Meddlers (Instance) – Mob + Mob + Minor Cheat"       (new pages)
+#   "39. Into the Nest (instance: explore + boss + … + talk)"     (old pages)
+#   "4. (Instance) How Shellfish – Mob + Explore + Boss"          (leading flag)
+#   "Broken Things (Instance)-, Explore, Mob, Explore, Boss"      (Darkmoor)
+
+_KW_ALIASES = {
+    "mobs": "mob", "bosses": "boss", "elites": "elite", "talks": "talk",
+    "cheats": "cheat", "puzzles": "puzzle", "instances": "instance",
+}
+
+_HTML_KEYWORDS = [
+    "solo minor cheat", "solo major cheat", "quadruple cheat", "triple cheat",
+    "double cheat", "triple boss", "double boss", "solo elite", "solo boss",
+    "major cheat", "minor cheat", "minor boss", "play as your pet",
+    "d&c", "c&d", "instance", "instances", "puzzle", "puzzles", "solo",
+    "elite", "elites", "mob", "mobs", "boss", "bosses", "cheat", "cheats",
+    "talk", "talks", "explore", "interact", "collect",
+    "photomancy", "investigate",
+]
+
+_RE_HTML_KW = re.compile(
+    r"(?<![a-z&])(" + "|".join(re.escape(k) for k in _HTML_KEYWORDS) + r")(?![a-z])"
+    r"(?:\s*(?:[x×]\s*(\d+)|(\d+)\s*[x×])(?![a-z]))?",
+    re.I,
+)
+_RE_LINE_NUM = re.compile(r"^\s*(\d{1,3})\s*[.)]\s*(.*)$", re.S)
+# Separator between name and steps: en/em dash, or a hyphen that touches
+# whitespace / a comma / a closing paren ("Name- Talk", "(Instance)-, Mob").
+# A hyphen inside a word ("Ba-Zheng-A") is NOT a separator.
+_RE_SEP = re.compile(r"\s*[–—]\s*|\s+-+\s*|-+(?=[\s,])|(?<=\))\s*-+")
+_RE_TITLE_COLOR = re.compile(r"#?(008080)", re.I)   # FinalBastion area headers
+
+# Colours on the page that are layout, not quest-type colours.
+_IGNORED_COLORS = {"#000", "#000000", "#333", "#333333", "#008080", "#fff", "#ffffff"}
+
+
+def _norm_color(c: Optional[str]) -> Optional[str]:
+    if not c:
+        return None
+    c = c.lower()
+    if len(c) == 4:
+        c = "#" + "".join(ch * 2 for ch in c[1:])
+    return None if c in _IGNORED_COLORS else c
+
+
+_BLOCK_TAGS = {"p", "ol", "ul", "li", "div", "table", "h1", "h2", "h3", "h4", "h5", "h6"}
+
+
+def _flatten_node(node, skip_nested_blocks: bool = False) -> tuple:
+    """Text of a node with <br> → '\\n' at ANY depth (some pages put the <br>
+    inside the <strong>), plus a parallel list with each character's colour.
+
+    skip_nested_blocks: leave out block elements nested inside (a <p> that a
+    lenient parser wrapped around a following <ol> must not swallow it —
+    parse_html visits those blocks on their own)."""
+    from bs4 import NavigableString, Tag, Comment
+    text_parts, colors = [], []
+
+    def walk(n, color):
+        if isinstance(n, Comment):
+            return
+        if isinstance(n, NavigableString):
+            s = str(n).replace("\xa0", " ")
+            text_parts.append(s)
+            colors.extend([color] * len(s))
+            return
+        if not isinstance(n, Tag):
+            return
+        if n.name == "br":
+            text_parts.append("\n")
+            colors.append(None)
+            return
+        if n.name in ("script", "style", "img"):
+            return
+        if skip_nested_blocks and n is not node and n.name in _BLOCK_TAGS:
+            return
+        m = re.search(r"color:\s*(#[0-9a-fA-F]{3,6})", n.get("style") or "")
+        c = _norm_color(m.group(1)) if m else color
+        for ch in n.children:
+            walk(ch, c)
+
+    walk(node, None)
+    return "".join(text_parts), colors
+
+
+def _find_types(text: str, colors: list, start: int = 0, end: Optional[int] = None) -> list:
+    """All quest-type keywords in text[start:end], in order, with repeats kept."""
+    end = len(text) if end is None else end
+    out = []
+    for m in _RE_HTML_KW.finditer(text, start, end):
+        label = m.group(1).lower()
+        label = _KW_ALIASES.get(label, label)
+        if label == "c&d":
+            label = "d&c"
+        count = int(m.group(2) or m.group(3) or 1)
+        color = None
+        if colors:
+            color = colors[m.start()] if m.start() < len(colors) else None
+        entry = {"label": label,
+                 "color": color or QUEST_TYPE_COLORS.get(label, "#c8c8c8")}
+        if 1 < count <= 50:
+            entry["count"] = count
+        out.append(entry)
+    return out
+
+
+def _matching_paren(text: str, open_idx: int) -> int:
+    depth = 0
+    for i in range(open_idx, len(text)):
+        if text[i] == "(":
+            depth += 1
+        elif text[i] == ")":
+            depth -= 1
+            if depth == 0:
+                return i
+    return len(text) - 1
+
+
+def _parse_quest_line(text: str, colors: list, number: Optional[int] = None) -> Optional[dict]:
+    """Parse one quest line. `number` is used when the line has none (<ol>)."""
+    m = _RE_LINE_NUM.match(text)
+    if m:
+        number = int(m.group(1))
+        off = m.start(2)
+    elif number is None:
+        return None
+    else:
+        off = len(text) - len(text.lstrip())
+    body_end = len(text.rstrip())
+    body = text[:body_end]
+
+    flags: list = []            # "(Instance)"-style markers attached to the name
+
+    # 1. Leading flag parens: "(Instance) How Shellfish – …"
+    while off < body_end and body[off] == "(":
+        close = _matching_paren(body, off)
+        inner_types = _find_types(body, colors, off + 1, close)
+        if not inner_types:
+            break
+        flags.extend(inner_types)
+        off = close + 1
+        while off < body_end and body[off] in " \t":
+            off += 1
+
+    # 2. Split name / steps.
+    first_type_paren = None
+    for pm in re.finditer(r"\(", body[off:]):
+        p = off + pm.start()
+        if _find_types(body, colors, p + 1, _matching_paren(body, p)):
+            first_type_paren = p
+            break
+    sep = _RE_SEP.search(body, off)
+    while sep and sep.start() <= off:            # a separator can't be the name
+        sep = _RE_SEP.search(body, sep.end())
+
+    if sep and (first_type_paren is None or sep.start() < first_type_paren):
+        # "Name – steps" (a later "(Instance)" is then a step).
+        name_end, steps_start = sep.start(), sep.end()
+    elif first_type_paren is not None:
+        close = _matching_paren(body, first_type_paren)
+        after = _RE_SEP.search(body, close + 1)
+        if after:
+            # "Name (Instance) – steps": the paren is a flag on the name.
+            name_end, steps_start = after.start(), after.end()
+        else:
+            # Old style "Name (steps)".
+            name_end, steps_start = first_type_paren, first_type_paren
+    else:
+        name_end, steps_start = body_end, body_end
+
+    # 3. Name: strip parens that only carry type flags ("(Instance #1 in Quest 3)").
+    name_chars = []
+    i = off
+    while i < name_end:
+        if body[i] == "(":
+            close = min(_matching_paren(body, i), name_end - 1)
+            inner = _find_types(body, colors, i + 1, close)
+            if inner:
+                flags.extend(inner)
+                i = close + 1
+                continue
+        name_chars.append(body[i])
+        i += 1
+    name = _clean("".join(name_chars)).strip(" -–—,:+(")
+    if not name:
+        return None
+
+    steps = _find_types(body, colors, steps_start, body_end)
+    step_labels = {s["label"] for s in steps}
+    lead = [f for f in flags if f["label"] not in step_labels]
+    # One instance flag is enough even if the name mentions it twice.
+    seen_flag = set()
+    lead = [f for f in lead if not (f["label"] in seen_flag or seen_flag.add(f["label"]))]
+
+    return {
+        "number": number,
+        "name": name,
+        "types": lead + steps,
+        "raw_html": _clean(body[len(text) - len(text.lstrip()):]),
+    }
+
+
+def _is_title_line(line: str) -> bool:
+    """A non-numbered line inside a quest block that is really an area name
+    (e.g. "Outsiders' Camp" after a <br> in Darkmoor's list)."""
+    s = line.strip()
+    if not s or len(s) > 60 or _RE_LINE_NUM.match(s):
+        return False
+    if _RE_HTML_KW.search(s) or re.search(r"[+–—:,()]", s):
+        return False
+    words = s.split()
+    return 1 <= len(words) <= 6 and s[0].isupper()
+
+
+def _heading_area_name(el, world_name: str) -> Optional[str]:
+    t = _clean(el.get_text(" ", strip=True)).strip(" :")
+    if not t or len(t) > 90:
+        return None
+    lower = t.lower()
+    if "quest line" in lower or "main quest" in lower or ":" in t:
+        return None
+    if lower == world_name.lower():
+        return None
+    if el.name in ("h1", "h2") and not el.find(style=_RE_TITLE_COLOR):
+        return None
+    for junk in ("leave a reply", "comments", "share your vote", "latest posts",
+                 "related", "about the author", "my favorite", "fun fact"):
+        if junk in lower:
+            return None
+    return t
+
+
+def parse_html(raw_html: str, world_name: str,
+               log_path: Optional[Path] = None) -> tuple:
+    """Parse a FinalBastion guide page → (stats, areas, log_text, intro_text).
+
+    Same return shape as parse_plain_text(), so callers can use either."""
+    # lxml closes an open <p> when a list/heading starts, like a browser does;
+    # html.parser instead nests everything after an unclosed <p> inside it.
+    try:
+        soup = BeautifulSoup(raw_html, "lxml")
+    except Exception:
+        soup = BeautifulSoup(raw_html, "html.parser")
+    body = (soup.find("div", id="post_body")
+            or soup.find("div", class_="entry-content")
+            or soup.find("div", class_="post-content")
+            or soup.find("article") or soup.body)
+    plain = body.get_text(separator="\n", strip=True) if body else ""
+    stats = _parse_stats(plain)
+    intro_text = _extract_intro_text(plain, world_name)
+
+    log = [f"PARSE LOG (html) — {world_name}\n{'=' * 60}\n\n"]
+    areas: list = []
+    cur = {"area": None}
+    last_num = {"n": 0}
+    seen_rows: set = set()
+
+    def open_area(name: str):
+        if name.isupper():
+            name = name.title()          # "OUTSIDERS CAMP" → "Outsiders Camp"
+        cur["area"] = {"name": name, "quests": []}
+        areas.append(cur["area"])
+        log.append(f"AREA    : {name}\n")
+
+    def add_quest(q: dict):
+        if cur["area"] is None:
+            open_area(world_name)
+        # The same line printed twice in a row (some pages repeat whole
+        # blocks) is noise; the same NUMBER with different steps is a real
+        # "come back to this quest later" entry and is kept.
+        sig = (q["number"], q["name"].lower(),
+               tuple((t["label"], t.get("count", 1)) for t in q["types"]))
+        if sig in seen_rows:
+            log.append(f"DUP#{q['number']:>3}: identical line skipped\n")
+            return
+        seen_rows.add(sig)
+        q["area"] = cur["area"]["name"]
+        q["world"] = world_name
+        cur["area"]["quests"].append(q)
+        last_num["n"] = max(last_num["n"], q["number"] or 0)
+        tl = " + ".join(t["label"] + (f" x{t['count']}" if t.get("count") else "")
+                        for t in q["types"]) or "(none)"
+        log.append(f"QUEST#{q['number']:>3}: {q['name'][:40]:<40} [{tl}]\n")
+
+    def handle_lines(text: str, colors: list, fallback_number: Optional[int] = None):
+        """Handle the <br>-separated lines of one block."""
+        pos = 0
+        first = True
+        for line in text.split("\n"):
+            lc = colors[pos:pos + len(line)]
+            pos += len(line) + 1
+            stripped = line.strip()
+            if not stripped:
+                continue
+            num = fallback_number if first else None
+            if num is None and not _RE_LINE_NUM.match(line):
+                # "70 Galvanic Company" (dot forgotten on the page): accept a
+                # bare number only when it is exactly the next quest number.
+                lm = re.match(r"^\s*(\d{1,3})\s+(?=[A-Z(])", line)
+                if lm and int(lm.group(1)) == last_num["n"] + 1:
+                    num = int(lm.group(1))
+                    line = line[:lm.end(1)] + "." + line[lm.end(1):]
+                    lc = lc[:lm.end(1)] + [None] + lc[lm.end(1):]
+            q = (_parse_quest_line(line, lc, num)
+                 if (first or num is not None or _RE_LINE_NUM.match(line)) else None)
+            first = False
+            if q:
+                add_quest(q)
+                continue
+            if _is_title_line(stripped):
+                open_area(stripped)
+                continue
+            # Continuation of the previous quest's steps across a <br>.
+            extra = _find_types(line, lc)
+            if extra and cur["area"] and cur["area"]["quests"]:
+                cur["area"]["quests"][-1]["types"].extend(extra)
+
+    if body is not None:
+        for el in body.find_all(["h1", "h2", "h3", "h4", "h5", "p", "ol"]):
+            if el.find_parent(["li"]) or (el.name != "ol" and el.find_parent("ol")):
+                continue
+            if el.name.startswith("h"):
+                name = _heading_area_name(el, world_name)
+                if name:
+                    open_area(name)
+                continue
+            if el.name == "ol":
+                if el.find_parent("ol"):
+                    continue          # nested list — handled by the outer one
+                items = [li for li in el.find_all("li") if not li.find(["ol", "ul"])]
+                if not items:
+                    continue
+                t0 = _clean(items[0].get_text(" ", strip=True))
+                if not (_RE_HTML_KW.search(t0) and re.search(r"[(–—+,-]", t0)):
+                    continue          # an ordinary list (legend, notes …)
+                start = el.get("start")
+                base = (int(start) - 1) if start and str(start).isdigit() else last_num["n"]
+                for i, li in enumerate(items, 1):
+                    text, colors = _flatten_node(li)
+                    handle_lines(text, colors, fallback_number=base + i)
+                continue
+            # <p>
+            text, colors = _flatten_node(el, skip_nested_blocks=True)
+            if not re.search(r"(?m)^\s*\d{1,3}\s*[.)]\s*\S", text):
+                continue
+            handle_lines(text, colors)
+
+    areas = [a for a in areas if a["quests"]]
+    total = sum(len(a["quests"]) for a in areas)
+    unique = len({q["number"] for a in areas for q in a["quests"]})
+    log.append(f"\nSUMMARY: {total} quest rows ({unique} unique numbers) "
+               f"in {len(areas)} areas\nStats: {stats}\n")
+    log_text = "".join(log)
+    if log_path:
+        log_path.write_text(log_text, encoding="utf-8")
+    logger.info(f"  Parsed {total} quest rows in {len(areas)} areas for {world_name} (html)")
+    return stats, areas, log_text, intro_text
+
+
 # ── Fetch and save ─────────────────────────────────────────────────────────────
 
 def fetch_and_save(url: str, world_name: str) -> tuple:
@@ -1037,14 +1427,9 @@ def scrape_world_guide(url: str, world_name: str = "") -> dict:
     raw_html, plain_text = fetch_and_save(url, world_name)
     d        = _world_debug_dir(world_name)
     log_path = d / f"{_slug(world_name)}_parse_log.txt"
-    stats, areas, log_text, intro_text = parse_plain_text(plain_text, world_name, log_path)
+    stats, areas, log_text, intro_text = parse_html(raw_html, world_name, log_path)
     total = sum(len(a["quests"]) for a in areas)
-    if total == 0:
-        warn = d / f"{_slug(world_name)}_ZERO_QUESTS.txt"
-        warn.write_text(
-            f"Zero quests for {world_name}.\nURL: {url}\n\n{log_text}",
-            encoding="utf-8"
-        )
+    _update_zero_quest_marker(d, world_name, total, url, log_text)
     debug_info = (
         f"URL: {url}\nQuests: {total}  Areas: {len(areas)}\nDebug: {d}\n\n"
         + "\n".join(log_text.splitlines()[:50])
@@ -1056,23 +1441,54 @@ def scrape_world_guide(url: str, world_name: str = "") -> dict:
     }
 
 
+def _update_zero_quest_marker(d: Path, world_name: str, total: int,
+                              url: str, log_text: str):
+    """Write <world>_ZERO_QUESTS.txt when a parse finds nothing, and remove a
+    stale one as soon as a parse succeeds again."""
+    warn = d / f"{_slug(world_name)}_ZERO_QUESTS.txt"
+    if total == 0:
+        warn.write_text(f"Zero quests for {world_name}.\nURL: {url}\n\n{log_text}",
+                        encoding="utf-8")
+    elif warn.exists():
+        try:
+            warn.unlink()
+        except OSError:
+            pass
+
+
 def reparse_from_cache(world_name: str) -> Optional[dict]:
+    """Re-parse a world from its cached page (no network). Uses the cached
+    HTML when available, else falls back to the legacy plain-text parser."""
     d          = _world_debug_dir(world_name)
     slug       = _slug(world_name)
+    html_path  = d / f"{slug}_raw.html"
     plain_path = d / f"{slug}_plain.txt"
-    if not plain_path.exists():
-        logger.warning(f"No cached plain text for {world_name}: {plain_path}")
-        return None
-    plain_text = plain_path.read_text(encoding="utf-8", errors="replace")
     log_path   = d / f"{slug}_parse_log.txt"
-    stats, areas, log_text, intro_text = parse_plain_text(plain_text, world_name, log_path)
+    source_url = ""
+    if plain_path.exists():
+        for line in plain_path.read_text(encoding="utf-8", errors="replace").splitlines()[:4]:
+            if line.startswith("URL:"):
+                source_url = line[4:].strip()
+                break
+    if html_path.exists() and SCRAPER_AVAILABLE:
+        src = html_path
+        stats, areas, log_text, intro_text = parse_html(
+            html_path.read_text(encoding="utf-8", errors="replace"), world_name, log_path)
+    elif plain_path.exists():
+        src = plain_path
+        stats, areas, log_text, intro_text = parse_plain_text(
+            plain_path.read_text(encoding="utf-8", errors="replace"), world_name, log_path)
+    else:
+        logger.warning(f"No cached page for {world_name} in {d}")
+        return None
     total = sum(len(a["quests"]) for a in areas)
-    logger.info(f"Re-parsed {world_name} from cache: {total} quests")
+    _update_zero_quest_marker(d, world_name, total, source_url, log_text)
+    logger.info(f"Re-parsed {world_name} from cache ({src.name}): {total} quests")
     return {
-        "world": world_name, "source_url": "",
+        "world": world_name, "source_url": source_url,
         "stats": stats, "intro_text": intro_text, "areas": areas,
-        "scraped_at": plain_path.stat().st_mtime,
-        "debug_info": f"Re-parsed from cache: {total} quests in {len(areas)} areas.",
+        "scraped_at": src.stat().st_mtime,
+        "debug_info": f"Re-parsed from cache ({src.name}): {total} quests in {len(areas)} areas.",
         "debug_dir": str(d),
     }
 
@@ -1101,7 +1517,12 @@ def get_cached_worlds() -> list:
 
 # ── World name / URL helpers ───────────────────────────────────────────────────
 
+# Order matters: more specific slugs first ("wizard-city-underground" must be
+# tested before "wizard-city").
 WORLD_SLUG_MAP = {
+    "wizard-city-underground": "Wizard City Underground",
+    "wizard_city_underground": "Wizard City Underground",
+    "wintertusk":  "Wintertusk",
     "wizard-city": "Wizard City",  "wizard_city": "Wizard City",
     "krokotopia":  "Krokotopia",   "grizzleheim": "Grizzleheim",
     "marleybone":  "Marleybone",   "mooshu":      "MooShu",
@@ -1162,11 +1583,11 @@ KNOWN_WORLD_URLS = {
     "Marleybone":   "https://finalbastion.com/wizard101-guides/w101-quest-guides/marleybone-main-quest-line-guide/",
     "MooShu":       "https://finalbastion.com/wizard101-guides/w101-quest-guides/mooshu-main-quest-line-guide/",
     "Dragonspyre":  "https://finalbastion.com/wizard101-guides/w101-quest-guides/dragonspyre-main-quest-line-guide/",
-    "Celestia":     "https://finalbastion.com/wizard101-guides/w101-quest-guides/celestia-main-quest-line-guide/",
+    "Celestia":     "https://finalbastion.com/wizard101-guides/w101-quest-guides/celestia-main-quest-line/",
     "Zafaria":      "https://finalbastion.com/wizard101-guides/w101-quest-guides/zafaria-main-quest-line-guide/",
     "Wysteria":     "https://finalbastion.com/wizard101-guides/w101-quest-guides/wysteria-main-quest-line-guide/",
     "Avalon":       "https://finalbastion.com/wizard101-guides/w101-quest-guides/avalon-main-quest-line-guide/",
-    "Azteca":       "https://finalbastion.com/wizard101-guides/w101-quest-guides/azteca-main-quest-line-guide/",
+    "Azteca":       "https://finalbastion.com/wizard101-guides/w101-quest-guides/azteca-main-quest-line/",
     "Khrysalis":    "https://finalbastion.com/wizard101-guides/w101-quest-guides/khrysalis-main-quest-line-guide/",
     "Polaris":      "https://finalbastion.com/wizard101-guides/w101-quest-guides/polaris-main-quest-line-guide/",
     "Mirage":       "https://finalbastion.com/wizard101-guides/w101-quest-guides/mirage-main-quest-line/",
@@ -1175,6 +1596,12 @@ KNOWN_WORLD_URLS = {
     "Lemuria":      "https://finalbastion.com/wizard101-guides/w101-quest-guides/lemuria-main-quest-line-guide/",
     "Novus":        "https://finalbastion.com/wizard101-guides/w101-quest-guides/novus-main-quest-line-guide/",
     "Wallaru":      "https://finalbastion.com/wizard101-guides/w101-quest-guides/wallaru-main-quest-line-guide/",
+    # Previously missing — these could only be scraped via a hand-entered URL.
+    "Wintertusk":   "https://finalbastion.com/wizard101-guides/w101-quest-guides/wintertusk-main-quest-line-guide/",
+    "Wizard City Underground":
+                    "https://finalbastion.com/wizard101-guides/w101-quest-guides/wizard-city-underground-quest-line/",
+    "Selenopolis":  "https://finalbastion.com/wizard101-worlds/krokotopia/selenopolis/selenopolis-main-quest-line-guide/",
+    "Darkmoor":     "https://finalbastion.com/updates/darkmoor-main-quest-line/",
 }
 
 

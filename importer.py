@@ -376,14 +376,22 @@ def _import_quest_world(conn, data: dict) -> int:
     world_id = dq.upsert_world(conn, world_base)
 
     total = 1
+    touched: set = set()   # rows already matched in this import
 
     def _upsert_quest(qdata: dict, area_id: Optional[int]):
         types_json = json.dumps(qdata.get("types", []), ensure_ascii=False)
-        existing_q = conn.execute(
+        # A quest can legitimately be listed twice ("come back later" rows
+        # with the same name and number), so each imported entry claims the
+        # first matching row that this import hasn't used yet — otherwise the
+        # second entry would overwrite the first.
+        candidates = conn.execute(
             "SELECT id FROM quests WHERE world_id=? AND name=? COLLATE NOCASE AND "
-            "(area_id IS ? OR area_id=?)",
-            (world_id, qdata.get("name", ""), area_id, area_id)
-        ).fetchone()
+            "(area_id IS ? OR area_id=?) AND (quest_number IS ? OR quest_number=?) "
+            "ORDER BY sort_order, id",
+            (world_id, qdata.get("name", ""), area_id, area_id,
+             qdata.get("quest_number"), qdata.get("quest_number"))
+        ).fetchall()
+        existing_q = next((r for r in candidates if r["id"] not in touched), None)
         if existing_q:
             conn.execute("""
                 UPDATE quests SET quest_number=?, types_json=?, sort_order=? WHERE id=?
@@ -398,6 +406,7 @@ def _import_quest_world(conn, data: dict) -> int:
                   qdata.get("name", "Unnamed Quest"), types_json,
                   qdata.get("sort_order", 0)))
             qid = cur.lastrowid
+        touched.add(qid)
         # Restore marker if present
         marker = qdata.get("marker")
         if marker:
@@ -410,14 +419,26 @@ def _import_quest_world(conn, data: dict) -> int:
             """, (qid, marker.get("note", ""), int(marker.get("completed", 0)),
                   now, now))
 
-    # Import areas + their quests
-    for area in data.get("areas", []):
-        existing_a = conn.execute(
-            "SELECT id FROM quest_areas WHERE world_id=? AND name=? COLLATE NOCASE",
-            (world_id, area["name"])
-        ).fetchone()
-        if existing_a:
-            area_id = existing_a["id"]
+    # Import areas + their quests.
+    # An area name can occur several times in one world (Novus visits
+    # "Conatus" three times), so the k-th imported "Conatus" must map to the
+    # k-th stored one. Matching only the first one sent every later visit's
+    # quests into the first area as NEW rows — re-importing a backup
+    # duplicated quests.
+    stored_areas: dict = {}
+    for r in conn.execute(
+        "SELECT id, name FROM quest_areas WHERE world_id=? ORDER BY sort_order, id",
+        (world_id,)
+    ).fetchall():
+        stored_areas.setdefault(r["name"].lower(), []).append(r["id"])
+    area_seen: dict = {}
+    for area in sorted(data.get("areas", []), key=lambda a: a.get("sort_order", 0)):
+        key = area["name"].lower()
+        k = area_seen.get(key, 0)
+        area_seen[key] = k + 1
+        matches = stored_areas.get(key, [])
+        if k < len(matches):
+            area_id = matches[k]
         else:
             cur = conn.execute(
                 "INSERT INTO quest_areas (world_id, name, sort_order) VALUES (?,?,?)",

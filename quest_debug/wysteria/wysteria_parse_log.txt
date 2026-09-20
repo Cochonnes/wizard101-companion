@@ -1,20 +1,16 @@
-PARSE LOG — Wysteria
+PARSE LOG (html) — Wysteria
 ============================================================
 
-AREA    : Wizard101
-AREA    : W101 Quest Guides
-AREA    : Wysteria begins at
-AREA    : “To The Registrar”
 AREA    : Practical matters
-AREA    : Cheats
-AREA    : About Wysteria
+AREA    : I have divided the quests in the Spiral into the following groups
+AREA    : Wizard City
 QUEST#  1: To The Registrar                         [talk]
 QUEST#  2: Exchange Student                         [talk]
 AREA    : Pigswick Academy
-QUEST#  3: The Spiral Cup                           [explore + talk + solo + mob]
-QUEST#  4: Bunking With the Enemy                   [talk + interact]
-QUEST#  5: Meet the New Boss                        [boss + talk]
-QUEST#  6: Teacher Teacher                          [talk]
+QUEST#  3: The Spiral Cup                           [explore + talk + explore + solo + mob + talk + talk]
+QUEST#  4: Bunking With the Enemy                   [talk x4 + interact + talk]
+QUEST#  5: Meet the New Boss                        [talk]
+QUEST#  6: Teacher Teacher                          [talk x8]
 QUEST#  7: Seek Out the Source                      [explore + talk]
 QUEST#  8: O’Hare-y Situation                       [talk]
 AREA    : Pegasus Place
@@ -24,35 +20,55 @@ QUEST# 11: Of Unknown Origin                        [collect + talk]
 QUEST# 12: Lapin It Up                              [talk]
 QUEST# 13: In-Flight Meals                          [collect + talk]
 QUEST# 14: Hobble Gobble                            [d&c + talk]
-QUEST# 15: Peg-A-Portal                             [explore + talk]
+QUEST# 15: Peg-A-Portal                             [explore + talk + talk]
 AREA    : Pigswick Academy
-QUEST# 16: Shopping List                            [talk]
-QUEST# 17: Check This Out                           [talk]
+QUEST# 16: Shopping List                            [talk x6]
+QUEST# 17: Check This Out                           [talk x4]
 AREA    : Pegasus Place
 QUEST# 18: Return To Verne                          [talk]
-QUEST# 19: Portal Remains                           [explore + boss + interact + talk]
+QUEST# 19: Portal Remains                           [explore + boss + interact + talk + talk]
 AREA    : Pigswick Academy
 QUEST# 20: The Starting Bell                        [talk]
-QUEST# 21: One Good Tournament                      [talk]
-QUEST# 22: It Was Just Here…                        [explore + talk]
-QUEST# 23: Show Must Go On                          [talk + explore + solo + mob]
+QUEST# 21: One Good Tournament                      [talk x5]
+QUEST# 22: It Was Just Here…                        [explore + talk + talk]
+QUEST# 23: Show Must Go On                          [talk + explore + solo + mob + talk + talk]
 QUEST# 24: The Principal’s Office                   [talk]
 QUEST# 25: Housing Bureau                           [interact + talk]
-QUEST# 26: All Signs Point To…                      [talk + explore + solo + mob]
+QUEST# 26: All Signs Point To…                      [talk + explore + solo + mob + talk + talk]
 QUEST# 27: Get a Clue                               [explore + talk]
-QUEST# 28: Tree and Leaf                            [talk]
-QUEST# 29: Second Chants                            [talk]
-QUEST# 30: For Want of a Wand                       [talk + explore]
-QUEST# 31: Let’s Dance                              [talk + explore + solo + mob]
+QUEST# 28: Tree and Leaf                            [talk x3]
+QUEST# 29: Second Chants                            [talk x4]
+QUEST# 30: For Want of a Wand                       [talk + talk + explore + talk + talk]
+QUEST# 31: Let’s Dance                              [talk + explore + solo + mob + talk + talk]
 QUEST# 32: Take Your Leave                          [talk]
 AREA    : Tanglewood Way
 QUEST# 33: Green Thumb                              [explore + d&c + talk]
 AREA    : Pigswick Academy
-QUEST# 34: Tree Top                                 [talk]
-QUEST# 35: Step Into My Parlor                      [talk + cheat]
-QUEST# 36: Bramble On                               [explore + boss + interact + talk]
-QUEST# 37: Last Round                               [explore + talk + solo + mob]
+QUEST# 34: Tree Top                                 [talk + talk]
+QUEST# 35: Step Into My Parlor                      [talk + cheat + talk]
+QUEST# 36: Bramble On                               [explore + boss + interact + talk + talk]
+QUEST# 37: Last Round                               [explore + talk + explore + solo + mob + talk + talk]
 QUEST# 38: We Are the Champions                     [talk]
+AREA    : Wizard City
+AREA    : Krokotopia
+AREA    : Marleybone
+AREA    : Mooshu
+AREA    : Dragonspyre
+AREA    : Celestia
+AREA    : Zafaria
+AREA    : Avalon
+AREA    : Azteca
+AREA    : Khrysalis
+AREA    : Polaris
+AREA    : Mirage
+AREA    : Empyrea
+AREA    : Karamelle
+AREA    : Lemuria
+AREA    : Novus
+AREA    : Wallaru
+AREA    : Grizzleheim
+AREA    : Catacombs
+AREA    : Happy Questing!
 
-SUMMARY: 38 quests in 8 areas
+SUMMARY: 38 quest rows (38 unique numbers) in 8 areas
 Stats: {'total_quests': 38, 'mob_fights': 6, 'dc_quests': 2, 'boss_fights': 2, 'cheater_bosses': 2, 'solo_quests': None, 'description': ''}

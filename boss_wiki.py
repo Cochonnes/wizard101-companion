@@ -181,7 +181,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ── App Version & GitHub ──────────────────────────────────────
-APP_VERSION = "2.1.1"
+APP_VERSION = "2.1.2"
 # Set this to your GitHub repo, e.g. "YourUsername/Wizard101Companion"
 GITHUB_REPO = "Cochonnes/wizard101-companion"
 
@@ -290,13 +290,18 @@ def confirm_delete(parent, title: str, item_name: str, extra_detail: str = "") -
 DB_BUILDER_SCRIPT = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'db_builder.py')
 _WORLD_ORDER_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'world_order.json')
 
-# Canonical fallback (used when world_order.json does not exist yet)
-_WORLD_ORDER_DEFAULT = [
-    'Wizard City', 'Krokotopia', 'Grizzleheim', 'Marleybone', 'MooShu',
-    'Dragonspyre', 'Celestia', 'Zafaria', 'Wysteria', 'Avalon', 'Azteca',
-    'Aquila', 'Khrysalis', 'Polaris', 'Arcanum', 'Mirage', 'Empyrea',
-    'Karamelle', 'Lemuria', 'Novus', 'Wallaru', 'Selenopolis', 'Darkmoor',
-]
+# Canonical fallback (used when world_order.json does not exist yet) — shared
+# with the quest tracker so both use the same default order.
+try:
+    from database_quests import WORLD_DISPLAY_ORDER as _WORLD_ORDER_DEFAULT
+except Exception:
+    _WORLD_ORDER_DEFAULT = [
+        'Wizard City', 'Krokotopia', 'Marleybone', 'Grizzleheim', 'Wysteria',
+        'MooShu', 'Dragonspyre', 'Wintertusk', 'Celestia', 'Selenopolis',
+        'Zafaria', 'Avalon', 'Azteca', 'Aquila', 'Khrysalis', 'Polaris',
+        'Arcanum', 'Mirage', 'Empyrea', 'Wizard City Underground', 'Karamelle',
+        'Lemuria', 'Novus', 'Wallaru', 'Darkmoor',
+    ]
 
 
 def get_world_order() -> list:
@@ -3367,7 +3372,8 @@ class BossWikiApp(QMainWindow):
         if section == "characters" and getattr(self, "_char_page", None):
             self._char_page._refresh_list()
         if section == "spells" and getattr(self, "_spell_browser_page", None):
-            self._spell_browser_page.refresh()
+            # Rebuilds only if the spell DB changed since the grid was last built.
+            self._spell_browser_page.refresh_if_changed()
         if section == "decks" and getattr(self, "_deck_builder_page", None):
             self._deck_builder_page.refresh()
 

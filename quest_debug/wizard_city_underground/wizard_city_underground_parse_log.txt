@@ -1,31 +1,56 @@
-PARSE LOG — Wizard City Underground
+PARSE LOG (html) — Wizard City Underground
 ============================================================
 
-AREA    : Wizard101
-AREA    : W101 Quest Guides
-AREA    : Wizard City Underground Quest Line
+AREA    : I have divided the quests in the Spiral into the following groups
 AREA    : Golem Court / The Drains
-QUEST#  1: Subterranean Sanitation                  [talk + mob]
-QUEST#  2: These Monsters are Trash                 [explore + talk]
-QUEST#  3: Take Out the Trash                       [instance + mob + talk + cheat]
-QUEST#  4: Incan’t Take No More                     [interact + explore + talk]
-QUEST#  5: No Place Like Catacomb                   [interact + explore + talk]
+QUEST#  1: Subterranean Sanitation                  [talk + talk + mob + talk]
+QUEST#  2: These Monsters are Trash                 [explore]
+QUEST#  3: Take Out the Trash                       [instance + mob + mob + talk + cheat]
+QUEST#  2: These Monsters are Trash                 [explore + talk + talk]
+QUEST#  4: Incan’t Take No More                     [interact + interact + explore + talk]
 AREA    : The Catacombs
-QUEST#  6: Ancient War, What is it Good For?        [instance + explore + elite + interact + major cheat]
+QUEST#  5: No Place Like Catacomb                   [explore + mob + explore]
+QUEST#  6: Ancient War, What is it Good For?        [instance + explore + elite + interact + interact + explore + elite + interact + explore + major cheat]
+QUEST#  5: No Place Like Catacomb                   [interact + explore + talk]
+QUEST#  7: Bear With Me                             [explore]
+QUEST#  8: Blather, Prince, Repeat                  [instance + mob + explore + mob + explore + elite]
 QUEST#  7: Bear With Me                             [explore + talk]
-QUEST#  8: Blather, Prince, Repeat                  [instance + mob + explore + elite]
-QUEST#  9: Veni Vidi Viggor                         [explore + interact + talk]
-QUEST# 10: The More He Knows                        [instance + explore + mob + cheat]
+QUEST#  9: Veni Vidi Viggor                         [explore]
+QUEST# 10: The More He Knows                        [instance + explore + mob + explore + cheat]
+QUEST#  9: Veni Vidi Viggor                         [explore + interact + talk + interact + talk]
 AREA    : Dragonspyre Academy
 QUEST# 11: Ashback                                  [talk]
+AREA    : The Catacombs – Lower Level
 QUEST# 12: Deeper Mysteries                         [explore + mob + talk]
-QUEST# 13: Druid Legacies                           [talk]
+QUEST# 13: Druid Legacies                           [talk + talk]
 QUEST# 14: A Prison Out of Time                     [explore + talk]
-QUEST# 15: Be Kind, Re-Bind                         [interact + talk]
-QUEST# 16: Tempus Fugitives                         [explore + talk]
-QUEST# 17: Return to Avalon                         [instance + mob + explore + elite + major cheat]
-QUEST# 18: The Mind Thief                           [instance + mob + explore + elite + major cheat]
+QUEST# 15: Be Kind, Re-Bind                         [interact + interact + talk]
+QUEST# 16: Tempus Fugitives                         [interact]
+QUEST# 17: Return to Avalon                         [instance + mob + explore + elite + explore + major cheat]
+QUEST# 18: The Mind Thief                           [instance + mob + explore + elite + explore + major cheat]
 QUEST# 19: To Face the Devourer                     [instance + major cheat]
+QUEST# 16: Tempus Fugitives                         [explore + talk]
+AREA    : Wizard City
+AREA    : Krokotopia
+AREA    : Marleybone
+AREA    : Mooshu
+AREA    : Dragonspyre
+AREA    : Celestia
+AREA    : Zafaria
+AREA    : Avalon
+AREA    : Azteca
+AREA    : Khrysalis
+AREA    : Polaris
+AREA    : Mirage
+AREA    : Empyrea
+AREA    : Karamelle
+AREA    : Lemuria
+AREA    : Novus
+AREA    : Wallaru
+AREA    : Grizzleheim
+AREA    : Wysteria
+AREA    : Catacombs
+AREA    : Happy Questing!
 
-SUMMARY: 19 quests in 3 areas
+SUMMARY: 24 quest rows (19 unique numbers) in 4 areas
 Stats: {'total_quests': None, 'mob_fights': None, 'dc_quests': None, 'boss_fights': None, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}

@@ -17,6 +17,7 @@ v3 additions:
 import os
 import sys
 import re
+import time
 from pathlib import Path
 from typing import Optional, List, Dict
 
@@ -25,10 +26,12 @@ from PyQt5.QtWidgets import (
     QLineEdit, QScrollArea, QFrame, QGridLayout, QDialog,
     QTextBrowser, QComboBox, QProgressBar, QTextEdit,
     QSizePolicy, QApplication, QMessageBox, QMenu, QSplitter,
-    QSpinBox, QCheckBox, QCompleter, QFileDialog
+    QSpinBox, QCheckBox, QCompleter, QFileDialog,
+    QListView, QStyledItemDelegate, QStyle,
 )
-from PyQt5.QtCore import Qt, QProcess, QTimer, pyqtSignal, QSize
-from PyQt5.QtGui import QFont, QPixmap, QColor, QPainter, QIcon, QPixmapCache
+from PyQt5.QtCore import (Qt, QProcess, QTimer, pyqtSignal, QSize, QRect, QRectF,
+                          QAbstractListModel, QModelIndex)
+from PyQt5.QtGui import QFont, QPixmap, QColor, QPainter, QIcon, QPixmapCache, QPen
 
 import database_spells as ds
 import logging
@@ -131,7 +134,48 @@ def _rgba(hex_color: str, alpha_hex: str) -> str:
     return f"rgba({r},{g},{b},{int(alpha_hex, 16)})"
 
 
+# ── Tile image caches ──────────────────────────────────────────────
+# Decoding ~3.7k card PNGs was ~4 of the ~6 s a grid rebuild took, and it
+# happened on every open / filter change. Scaled pixmaps are now kept in
+# memory keyed by (path, mtime, size) so an overwritten image file is picked
+# up automatically, and placeholders are shared per (school, pip, size).
+_THUMB_CACHE: Dict[tuple, QPixmap] = {}
+_THUMB_CACHE_MAX = 12000
+_PLACEHOLDER_CACHE: Dict[tuple, QPixmap] = {}
+
+
+def _scaled_card_pixmap(path: str, w: int, h: int) -> Optional[QPixmap]:
+    """Return the card image scaled to (w, h), or None if missing/unreadable."""
+    if not path:
+        return None
+    try:
+        mtime = os.stat(path).st_mtime_ns
+    except OSError:
+        return None
+    key = (path, mtime, w, h)
+    pix = _THUMB_CACHE.get(key)
+    if pix is None:
+        raw = QPixmap(path)
+        if raw.isNull():
+            return None
+        pix = raw.scaled(w, h, Qt.KeepAspectRatio, Qt.SmoothTransformation)
+        if len(_THUMB_CACHE) >= _THUMB_CACHE_MAX:
+            _THUMB_CACHE.clear()
+        _THUMB_CACHE[key] = pix
+    return pix
+
+
 def _placeholder(school: str, pip: str, w: int, h: int) -> QPixmap:
+    key = (school, pip, w, h)
+    cached = _PLACEHOLDER_CACHE.get(key)
+    if cached is not None:
+        return cached
+    pix = _make_placeholder(school, pip, w, h)
+    _PLACEHOLDER_CACHE[key] = pix
+    return pix
+
+
+def _make_placeholder(school: str, pip: str, w: int, h: int) -> QPixmap:
     pix = QPixmap(w, h)
     col = QColor(_sc(school))
     col.setAlpha(130)
@@ -493,104 +537,131 @@ class ImageZoomDialog(QDialog):
 # SPELL CARD TILE
 # ═══════════════════════════════════════════════════════════════════════
 
-class SpellTile(QFrame):
-    clicked    = pyqtSignal(str)          # spell name
-    delete_req = pyqtSignal(str, str)     # (name_or_school, mode)
+class SpellGridModel(QAbstractListModel):
+    """The spells currently shown in the grid (already filtered + sorted)."""
+    SpellRole = Qt.UserRole + 1
 
-    def __init__(self, spell: dict, card_w: int, card_h: int,
-                 img_w: int, img_h: int, parent=None):
+    def __init__(self, parent=None):
         super().__init__(parent)
-        self._name   = spell["name"]
-        self._school = spell.get("school", "Unknown")
-        self._pip    = str(spell.get("pip_cost", "?"))
-        self._img    = spell.get("image_path", "")
-        self._card_w = card_w
-        self._card_h = card_h
-        self._img_w  = img_w
-        self._img_h  = img_h
+        self._spells: List[dict] = []
 
-        self.setFixedSize(card_w, card_h)
-        self.setCursor(Qt.PointingHandCursor)
-        self.setObjectName("spellTile")
-        self.setContextMenuPolicy(Qt.CustomContextMenu)
-        self.customContextMenuRequested.connect(self._on_context_menu)
+    def set_spells(self, spells: List[dict]):
+        self.beginResetModel()
+        self._spells = spells
+        self.endResetModel()
 
-        accent = _sc(self._school)
-        self.setStyleSheet(
-            f"QFrame#spellTile{{background:#16213e;border:1px solid {_rgba(accent,'55')};border-radius:6px;}}"
-            f"QFrame#spellTile:hover{{border:1px solid {accent};background:#1f2d50;}}"
-        )
+    def rowCount(self, parent=QModelIndex()):
+        return 0 if parent.isValid() else len(self._spells)
 
-        v = QVBoxLayout(self)
-        v.setContentsMargins(3, 3, 3, 2)
-        v.setSpacing(2)
+    def data(self, index, role=Qt.DisplayRole):
+        if not index.isValid():
+            return None
+        sp = self._spells[index.row()]
+        if role == Qt.DisplayRole:
+            return sp["name"]
+        if role == self.SpellRole:
+            return sp
+        if role == Qt.ToolTipRole and sp.get("ocr_uncertain"):
+            return "OCR text looks garbled for this card — verify in detail view"
+        return None
 
-        self._img_lbl = QLabel()
-        self._img_lbl.setFixedSize(img_w, img_h)
-        self._img_lbl.setAlignment(Qt.AlignCenter)
-        self._img_lbl.setStyleSheet("background:transparent;border:none;")
-        self._load_image()
-        v.addWidget(self._img_lbl, 0, Qt.AlignHCenter)
 
-        nm = QLabel(self._name + ("  ⚠️" if spell.get("ocr_uncertain") else ""))
-        nm.setAlignment(Qt.AlignCenter)
-        nm.setWordWrap(True)
-        if spell.get("ocr_uncertain"):
-            nm.setToolTip("OCR text looks garbled for this card — verify in detail view")
-            nm.setStyleSheet("color:#ffb84d;font-size:9px;background:transparent;border:none;")
-        else:
-            nm.setStyleSheet("color:#d0d0d0;font-size:9px;background:transparent;border:none;")
-        nm.setFixedHeight(max(16, card_h - img_h - 6))
-        v.addWidget(nm)
+class SpellTileDelegate(QStyledItemDelegate):
+    """Paints one spell card (image + name) straight onto the list viewport.
 
-    def _load_image(self):
+    Replaces the old one-QFrame-per-spell grid: building, polishing and laying
+    out ~3.7k widgets took seconds on every open/filter change, while a
+    delegate only ever paints the ~30 cards that are on screen. Card images
+    are decoded lazily — only for cards that actually get painted — a few per
+    event-loop turn, so the grid appears immediately and fills in."""
+
+    def __init__(self, view, sizes_fn, parent=None):
+        super().__init__(parent)
+        self._view = view
+        self._sizes = sizes_fn          # -> (card_w, card_h, img_w, img_h)
+        self._pending: List[tuple] = []  # (path, w, h) waiting to be decoded
+        self._pending_set = set()
+        self._timer = QTimer(self)
+        self._timer.setSingleShot(True)
+        self._timer.timeout.connect(self._decode_some)
+        self._name_font = QFont()
+        self._name_font.setPixelSize(9)
+
+    def sizeHint(self, option, index):
+        cw, ch, _, _ = self._sizes()
+        return QSize(cw, ch)
+
+    def clear_pending(self):
+        self._pending.clear()
+        self._pending_set.clear()
+
+    def _decode_some(self):
+        deadline = time.perf_counter() + 0.015
+        while self._pending and time.perf_counter() < deadline:
+            key = self._pending.pop()
+            self._pending_set.discard(key)
+            _scaled_card_pixmap(*key)
+        self._view.viewport().update()
+        if self._pending:
+            self._timer.start(0)
+
+    def paint(self, painter, option, index):
+        sp = index.data(SpellGridModel.SpellRole)
+        if not sp:
+            return
+        cw, ch, iw, ih = self._sizes()
+        school = sp.get("school") or "Unknown"
+        pip = str(sp.get("pip_cost", "?"))
+        accent = QColor(_sc(school))
+        hover = bool(option.state & QStyle.State_MouseOver)
+
+        # Centre the card inside the item rect (the rect can be slightly
+        # larger than the card when the view adds spacing).
+        r = option.rect
+        card = QRect(r.x() + (r.width() - cw) // 2, r.y() + (r.height() - ch) // 2, cw, ch)
+
+        painter.save()
+        painter.setRenderHint(QPainter.Antialiasing, True)
+        border = QColor(accent)
+        if not hover:
+            border.setAlpha(0x55)
+        painter.setPen(QPen(border, 1))
+        painter.setBrush(QColor("#1f2d50" if hover else "#16213e"))
+        painter.drawRoundedRect(QRectF(card).adjusted(0.5, 0.5, -0.5, -0.5), 6, 6)
+
+        # Image: cached scaled pixmap if ready, else the placeholder + a
+        # decode request for the next event-loop turn.
+        path = sp.get("image_path") or ""
         pix = None
-        if self._img and Path(self._img).exists():
-            raw = QPixmap(self._img)
-            if not raw.isNull():
-                pix = raw.scaled(self._img_w, self._img_h,
-                                 Qt.KeepAspectRatio, Qt.SmoothTransformation)
+        if path:
+            try:
+                key = (path, os.stat(path).st_mtime_ns, iw, ih)
+            except OSError:
+                key = None
+            if key is not None:
+                pix = _THUMB_CACHE.get(key)
+                if pix is None:
+                    req = (path, iw, ih)
+                    if req not in self._pending_set:
+                        self._pending_set.add(req)
+                        self._pending.append(req)
+                        if not self._timer.isActive():
+                            self._timer.start(0)
         if pix is None:
-            pix = _placeholder(self._school, self._pip, self._img_w, self._img_h)
-        self._img_lbl.setPixmap(pix)
+            pix = _placeholder(school, pip, iw, ih)
+        img_box = QRect(card.x() + (cw - iw) // 2, card.y() + 3, iw, ih)
+        painter.drawPixmap(img_box.x() + (iw - pix.width()) // 2,
+                           img_box.y() + (ih - pix.height()) // 2, pix)
 
-    def refresh_image(self):
-        self._load_image()
-
-    def mousePressEvent(self, event):
-        # Call the base implementation FIRST, while this tile's C++ object
-        # is guaranteed alive. The click is emitted through a queued
-        # connection (see refresh()), so emit() only *posts* the slot and
-        # returns immediately — the detail dialog opens on a later event
-        # loop turn, after this handler has fully unwound. That is what
-        # prevents "RuntimeError: wrapped C/C++ object of type SpellTile
-        # has been deleted": a synchronous (direct) connection would open
-        # the modal dialog here, and a save inside it could delete this
-        # very tile via refresh() before super().mousePressEvent() runs.
-        super().mousePressEvent(event)
-        if event.button() == Qt.LeftButton:
-            self.clicked.emit(self._name)
-
-    def _on_context_menu(self, pos):
-        menu = QMenu(self)
-        menu.setStyleSheet(
-            "QMenu{background:#16213e;color:#e0e0e0;border:1px solid #0f3460;"
-            "border-radius:4px;padding:4px;}"
-            "QMenu::item{padding:6px 16px;}"
-            "QMenu::item:selected{background:#e94560;}"
-        )
-        act_single = menu.addAction(f"🗑 Delete  '{self._name}'")
-        menu.addSeparator()
-        act_school = menu.addAction(f"🗑 Delete all  {self._school}  spells")
-        menu.addSeparator()
-        act_all = menu.addAction("🗑 Delete ALL spells")
-        chosen = menu.exec_(self.mapToGlobal(pos))
-        if chosen == act_single:
-            self.delete_req.emit(self._name, "single")
-        elif chosen == act_school:
-            self.delete_req.emit(self._school, "school")
-        elif chosen == act_all:
-            self.delete_req.emit("", "all")
+        # Name (word-wrapped, like the old QLabel).
+        uncertain = bool(sp.get("ocr_uncertain"))
+        painter.setFont(self._name_font)
+        painter.setPen(QColor("#ffb84d" if uncertain else "#d0d0d0"))
+        name_top = img_box.bottom() + 3
+        name_rect = QRect(card.x() + 3, name_top, cw - 6, card.bottom() - name_top - 1)
+        painter.drawText(name_rect, Qt.AlignHCenter | Qt.AlignTop | Qt.TextWordWrap,
+                         sp["name"] + ("  ⚠️" if uncertain else ""))
+        painter.restore()
 
 
 # ═══════════════════════════════════════════════════════════════════════
@@ -1915,7 +1986,12 @@ class SpellBrowserWidget(QWidget):
         self._current_school = "All"
         self._search_text    = ""
         self._zoom           = 1.75  # equivalent to pressing ⊕ three times from 1.0
-        self._tiles: List[SpellTile] = []
+        self._data_sig = None                       # DB signature of the last refresh
+        # One restartable timer, so typing "fire" triggers ONE refresh, not four.
+        self._search_timer = QTimer(self)
+        self._search_timer.setSingleShot(True)
+        self._search_timer.setInterval(280)
+        self._search_timer.timeout.connect(self.refresh)
         self._fetch_process  = None
         self._show_tiers     = False   # tier variants excluded by default
 
@@ -2271,25 +2347,51 @@ class SpellBrowserWidget(QWidget):
         sidebar_scroll.setWidget(sidebar)
         body_row.addWidget(sidebar_scroll)
 
-        # Grid area
-        scroll = QScrollArea()
-        scroll.setWidgetResizable(True)
-        scroll.setStyleSheet(
-            "QScrollArea{border:none;background:#1a1a2e;}"
+        # Grid area — a virtualized list view: only visible cards are painted.
+        grid_area = QWidget()
+        grid_area.setStyleSheet("background:#1a1a2e;")
+        ga = QVBoxLayout(grid_area)
+        ga.setContentsMargins(0, 0, 0, 0)
+        ga.setSpacing(0)
+        self._grid_model = SpellGridModel(self)
+        self._grid_view = QListView()
+        self._grid_view.setViewMode(QListView.IconMode)
+        self._grid_view.setFlow(QListView.LeftToRight)
+        self._grid_view.setWrapping(True)
+        self._grid_view.setResizeMode(QListView.Adjust)
+        self._grid_view.setMovement(QListView.Static)
+        self._grid_view.setUniformItemSizes(True)
+        self._grid_view.setLayoutMode(QListView.Batched)
+        self._grid_view.setBatchSize(400)
+        self._grid_view.setSelectionMode(QListView.NoSelection)
+        self._grid_view.setEditTriggers(QListView.NoEditTriggers)
+        self._grid_view.setMouseTracking(True)
+        self._grid_view.setVerticalScrollMode(QListView.ScrollPerPixel)
+        self._grid_view.verticalScrollBar().setSingleStep(24)
+        self._grid_view.setCursor(Qt.PointingHandCursor)
+        self._grid_view.setContextMenuPolicy(Qt.CustomContextMenu)
+        self._grid_view.setStyleSheet(
+            "QListView{border:none;background:#1a1a2e;padding:10px;}"
             "QScrollBar:vertical{background:#16213e;width:8px;}"
             "QScrollBar::handle:vertical{background:#0f3460;border-radius:4px;}"
         )
-        self._grid_container = QWidget()
-        self._grid_container.setStyleSheet("background:#1a1a2e;")
-        self._grid_layout = QGridLayout(self._grid_container)
-        self._grid_layout.setSpacing(6)
-        self._grid_layout.setContentsMargins(10, 10, 10, 10)
-        scroll.setWidget(self._grid_container)
-        body_row.addWidget(scroll, stretch=1)
+        self._tile_delegate = SpellTileDelegate(self._grid_view, self._tile_sizes, self)
+        self._grid_view.setItemDelegate(self._tile_delegate)
+        self._grid_view.setModel(self._grid_model)
+        self._grid_view.clicked.connect(self._on_grid_clicked, Qt.QueuedConnection)
+        self._grid_view.customContextMenuRequested.connect(self._on_grid_context_menu)
+        self._empty_lbl = QLabel()
+        self._empty_lbl.setAlignment(Qt.AlignCenter)
+        self._empty_lbl.setStyleSheet("color:#555;font-size:13px;")
+        self._empty_lbl.hide()
+        ga.addWidget(self._grid_view)
+        ga.addWidget(self._empty_lbl)
+        body_row.addWidget(grid_area, stretch=1)
 
         root.addWidget(body, stretch=1)
-
-        QTimer.singleShot(50, self.refresh)
+        # The grid is built lazily on first show (see showEvent) instead of
+        # 50 ms after construction - that used to block app startup for
+        # several seconds even when the Spell Browser was never opened.
 
     # ── SCHOOL / SEARCH / ZOOM ───────────────────────────────────────
 
@@ -2301,7 +2403,7 @@ class SpellBrowserWidget(QWidget):
 
     def _on_search(self, text: str):
         self._search_text = text.strip()
-        QTimer.singleShot(280, self.refresh)
+        self._search_timer.start()
 
     def _change_zoom(self, delta: float):
         self._zoom = max(ZOOM_MIN, min(ZOOM_MAX, self._zoom + delta))
@@ -2464,12 +2566,35 @@ class SpellBrowserWidget(QWidget):
 
     # ── GRID REFRESH ─────────────────────────────────────────────────
 
+    def showEvent(self, event):
+        super().showEvent(event)
+        self.refresh_if_changed()
+
+    def _db_signature(self) -> tuple:
+        """Cheap fingerprint of everything the grid shows. If it hasn't
+        changed since the last refresh, re-opening the page skips the
+        rebuild entirely."""
+        try:
+            sp = self.conn.execute(
+                "SELECT COUNT(*), MAX(id), MAX(last_updated_at), "
+                "TOTAL(LENGTH(image_path)), TOTAL(LENGTH(spell_type)) FROM spells"
+            ).fetchone()
+            links = self.conn.execute("SELECT COUNT(*) FROM spell_icon_links").fetchone()
+            presets = self.conn.execute(
+                "SELECT COUNT(*), TOTAL(LENGTH(name)) FROM icon_presets").fetchone()
+            return tuple(sp) + tuple(links) + tuple(presets)
+        except Exception:
+            return (time.time(),)   # unknown -> always refresh
+
+    def refresh_if_changed(self):
+        """Refresh only when the DB changed since the last build (used when
+        navigating to the page). Filter/search/zoom changes call refresh()."""
+        if self._data_sig is None or self._db_signature() != self._data_sig:
+            self.refresh()
+
     def refresh(self):
-        self._tiles.clear()
-        while self._grid_layout.count():
-            it = self._grid_layout.takeAt(0)
-            if it.widget():
-                it.widget().deleteLater()
+        self._search_timer.stop()
+        self._data_sig = self._db_signature()
 
         # One query for everything: all base spells (across schools), so the
         # per-school counts and the dynamic filter option lists are stable.
@@ -2510,32 +2635,63 @@ class SpellBrowserWidget(QWidget):
 
         self._count_lbl.setText(f"{len(spells)} shown")
 
+        self._tile_delegate.clear_pending()
+        self._grid_model.set_spells(spells)
+        self._apply_grid_sizes()
+
         if not spells:
-            msg = ("No spells found.\nUse ⬇ Fetch to download from the wiki."
-                   if not (self._search_text or self._any_filter_active())
-                   else "No spells match the current search / filters.")
-            lbl = QLabel(msg)
-            lbl.setAlignment(Qt.AlignCenter)
-            lbl.setStyleSheet("color:#555;font-size:13px;")
-            self._grid_layout.addWidget(lbl, 0, 0, 1, GRID_COLS)
+            self._empty_lbl.setText(
+                "No spells found.\nUse ⬇ Fetch to download from the wiki."
+                if not (self._search_text or self._any_filter_active())
+                else "No spells match the current search / filters.")
+            self._empty_lbl.show()
+            self._grid_view.hide()
+        else:
+            self._empty_lbl.hide()
+            self._grid_view.show()
+            self._grid_view.viewport().update()
+
+    def _tile_sizes(self) -> tuple:
+        return (self._cw, self._ch, self._iw, self._ih)
+
+    def _apply_grid_sizes(self):
+        # A fixed grid cell (card + 6 px gap) keeps every row aligned, and
+        # lets the view compute the layout without asking about each item.
+        self._grid_view.setGridSize(QSize(self._cw + 6, self._ch + 6))
+        self._grid_view.doItemsLayout()
+
+    def _on_grid_clicked(self, index):
+        # Queued (see _build): the modal detail dialog opens on a later
+        # event-loop turn, after the view's mouse handling has unwound.
+        if index.isValid():
+            self._on_spell_clicked(index.data(Qt.DisplayRole))
+
+    def _on_grid_context_menu(self, pos):
+        index = self._grid_view.indexAt(pos)
+        if not index.isValid():
             return
-
-        for idx, spell in enumerate(spells):
-            tile = SpellTile(spell, self._cw, self._ch, self._iw, self._ih)
-            # Queued connection: the click handler (which opens a modal
-            # dialog) must run AFTER SpellTile.mousePressEvent has fully
-            # returned. Otherwise a Save inside the dialog can trigger a
-            # refresh() that deletes this tile while its mousePressEvent
-            # is still on the call stack → "wrapped C/C++ object ...
-            # has been deleted" crash.
-            tile.clicked.connect(self._on_spell_clicked, Qt.QueuedConnection)
-            tile.delete_req.connect(self._on_delete_request)
-            row, col = divmod(idx, GRID_COLS)
-            self._grid_layout.addWidget(tile, row, col)
-            self._tiles.append(tile)
-
-        last_row = (len(spells) - 1) // GRID_COLS + 1
-        self._grid_layout.setRowStretch(last_row, 1)
+        sp = index.data(SpellGridModel.SpellRole) or {}
+        name = sp.get("name", "")
+        school = sp.get("school", "Unknown")
+        menu = QMenu(self)
+        menu.setStyleSheet(
+            "QMenu{background:#16213e;color:#e0e0e0;border:1px solid #0f3460;"
+            "border-radius:4px;padding:4px;}"
+            "QMenu::item{padding:6px 16px;}"
+            "QMenu::item:selected{background:#e94560;}"
+        )
+        act_single = menu.addAction(f"🗑 Delete  '{name}'")
+        menu.addSeparator()
+        act_school = menu.addAction(f"🗑 Delete all  {school}  spells")
+        menu.addSeparator()
+        act_all = menu.addAction("🗑 Delete ALL spells")
+        chosen = menu.exec_(self._grid_view.viewport().mapToGlobal(pos))
+        if chosen == act_single:
+            self._on_delete_request(name, "single")
+        elif chosen == act_school:
+            self._on_delete_request(school, "school")
+        elif chosen == act_all:
+            self._on_delete_request("", "all")
 
     def _any_filter_active(self) -> bool:
         return bool(
@@ -2549,7 +2705,7 @@ class SpellBrowserWidget(QWidget):
 
     def _on_spell_clicked(self, name: str):
         # Runs as a QUEUED slot (see refresh()), i.e. on a clean event-loop
-        # turn *after* the originating SpellTile.mousePressEvent has fully
+        # turn *after* the grid view's mouse handling has fully
         # returned. That means it is safe to delete/recreate tiles here (or
         # from a Save inside the dialog) without invalidating an event that
         # is still being processed. A single refresh once the dialog closes

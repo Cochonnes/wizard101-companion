@@ -5,6 +5,7 @@ Quest tracker tables and CRUD operations.
 Designed to be imported alongside database.py without conflicts.
 """
 
+import os
 import sqlite3
 import json
 import time
@@ -352,12 +353,72 @@ def get_world_completion_stats(conn: sqlite3.Connection, world_id: int) -> Dict:
 
 # ── Bulk import from scraper result ───────────────────────────────────────────
 
+# Default chronological world order. The user's own order lives in
+# world_order.json (edited in the app); everything reads it via
+# get_world_order() so there is ONE source of truth. This default matches
+# templates/world_order.json.
 WORLD_DISPLAY_ORDER = [
-    "Wizard City", "Krokotopia", "Grizzleheim", "Marleybone", "MooShu",
-    "Dragonspyre", "Celestia", "Zafaria", "Wysteria", "Avalon", "Azteca",
-    "Aquila", "Khrysalis", "Polaris", "Arcanum", "Mirage", "Empyrea",
-    "Karamelle", "Lemuria", "Novus", "Wallaru", "Selenopolis", "Darkmoor",
+    "Wizard City", "Krokotopia", "Marleybone", "Grizzleheim", "Wysteria",
+    "MooShu", "Dragonspyre", "Wintertusk", "Celestia", "Selenopolis",
+    "Zafaria", "Avalon", "Azteca", "Aquila", "Khrysalis", "Polaris",
+    "Arcanum", "Mirage", "Empyrea", "Wizard City Underground", "Karamelle",
+    "Lemuria", "Novus", "Wallaru", "Darkmoor",
 ]
+
+WORLD_ORDER_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                "world_order.json")
+
+
+def get_world_order() -> List[str]:
+    """The user's world order (world_order.json), else the default."""
+    try:
+        with open(WORLD_ORDER_FILE, encoding="utf-8") as f:
+            data = json.load(f)
+        if isinstance(data, list) and data:
+            return [str(x) for x in data]
+    except Exception:
+        pass
+    return list(WORLD_DISPLAY_ORDER)
+
+
+def world_display_order(world_name: str) -> int:
+    order = get_world_order()
+    return order.index(world_name) if world_name in order else 999
+
+
+# ── Import safety ─────────────────────────────────────────────────────────────
+
+def check_import_sanity(conn: sqlite3.Connection, scraped: dict,
+                        min_ratio: float = 0.7) -> tuple:
+    """Decide whether a scrape result may replace what is stored.
+
+    import_world_data() wipes the world's quests first, so a broken result
+    (FinalBastion layout change, Cloudflare page, soft 404) would silently
+    delete a good quest list. Returns (ok, reason)."""
+    new_total = sum(len(a.get("quests", [])) for a in scraped.get("areas", []))
+    if new_total == 0:
+        return False, "0 quests found — kept the existing data"
+    existing = get_world_by_name(conn, scraped.get("world", ""))
+    if existing:
+        # Distinct quests, not rows: older databases can hold exact duplicate
+        # rows, which would make a correct new parse look like a big drop.
+        old_total = conn.execute(
+            "SELECT COUNT(*) FROM (SELECT DISTINCT quest_number, LOWER(name) "
+            "FROM quests WHERE world_id=?)", (existing["id"],)
+        ).fetchone()[0]
+        new_total = len({(q.get("number"), (q.get("name") or "").lower())
+                         for a in scraped.get("areas", []) for q in a.get("quests", [])})
+        if old_total and new_total < old_total * min_ratio:
+            return False, (f"only {new_total} quests found vs {old_total} stored — "
+                           f"kept the existing data (page may have changed)")
+    return True, ""
+
+
+def _norm_quest_name(name: str) -> str:
+    s = (name or "").lower()
+    s = s.replace("\u2019", "'").replace("\u2018", "'").replace("`", "'")
+    s = s.replace("\u201c", '"').replace("\u201d", '"')
+    return " ".join(s.split())
 
 
 def import_world_data(conn: sqlite3.Connection, scraped: dict) -> int:
@@ -371,9 +432,7 @@ def import_world_data(conn: sqlite3.Connection, scraped: dict) -> int:
     world_name = scraped["world"]
     stats = scraped.get("stats", {})
 
-    display_order = 999
-    if world_name in WORLD_DISPLAY_ORDER:
-        display_order = WORLD_DISPLAY_ORDER.index(world_name)
+    display_order = world_display_order(world_name)
 
     world_data = {
         "name": world_name,
@@ -395,21 +454,32 @@ def import_world_data(conn: sqlite3.Connection, scraped: dict) -> int:
     # ── Save markers keyed by quest name BEFORE clearing quests ──────────────
     # quest_markers rows will be cascade-deleted when quests are deleted, so we
     # snapshot them here and restore them after the new quests are inserted.
-    saved_markers: dict = {}   # {quest_name_lower: marker_dict}
+    # Each marker remembers (quest_number, occurrence, name) — occurrence is
+    # 0 for the first row with that number, 1 for the "come back later" row …
+    # Matching on the number first means a re-parse that changes a quest's
+    # spelling (curly apostrophe, stripped "(Instance)") keeps the progress.
+    saved_markers: list = []
     try:
         rows = conn.execute("""
-            SELECT q.name, qm.note, qm.completed, qm.created_at, qm.updated_at
+            SELECT q.id, q.quest_number, q.name, q.sort_order,
+                   qm.note, qm.completed, qm.created_at, qm.updated_at
             FROM quest_markers qm
             JOIN quests q ON qm.quest_id = q.id
             WHERE q.world_id = ?
         """, (world_id,)).fetchall()
+        occ_of = _occurrence_index(conn.execute(
+            "SELECT id, quest_number, sort_order FROM quests WHERE world_id=?",
+            (world_id,)).fetchall())
         for row in rows:
-            saved_markers[row[0].lower()] = {
-                "note":       row[1] or "",
-                "completed":  row[2],
-                "created_at": row[3],
-                "updated_at": row[4],
-            }
+            saved_markers.append({
+                "number":     row[1],
+                "occ":        occ_of.get(row[0], 0),
+                "name":       _norm_quest_name(row[2]),
+                "note":       row[4] or "",
+                "completed":  row[5],
+                "created_at": row[6],
+                "updated_at": row[7],
+            })
     except Exception:
         pass   # no markers yet — no problem
 
@@ -438,29 +508,62 @@ def import_world_data(conn: sqlite3.Connection, scraped: dict) -> int:
 
     conn.commit()
 
-    # ── Re-attach saved markers to new quest rows by name ────────────────────
+    # ── Re-attach saved markers to the new quest rows ────────────────────────
     if saved_markers:
         try:
-            new_quests = conn.execute(
-                "SELECT id, name FROM quests WHERE world_id = ?", (world_id,)
-            ).fetchall()
-            now = time.time()
-            for qrow in new_quests:
-                key = qrow[1].lower()
-                if key in saved_markers:
-                    m = saved_markers[key]
-                    conn.execute("""
-                        INSERT OR REPLACE INTO quest_markers
-                            (quest_id, note, completed, created_at, updated_at)
-                        VALUES (?, ?, ?, ?, ?)
-                    """, (qrow[0], m["note"], m["completed"],
-                          m["created_at"] or now, m["updated_at"] or now))
-            conn.commit()
+            _restore_markers(conn, world_id, saved_markers)
         except Exception as e:
             import logging as _log
             _log.getLogger(__name__).warning(f"Marker restore failed: {e}")
 
     return world_id
+
+
+def _occurrence_index(rows) -> Dict[int, int]:
+    """{quest_id: n} where n counts earlier rows (by sort_order) with the
+    same quest number."""
+    seen: Dict = {}
+    out: Dict[int, int] = {}
+    for qid, num, _so in sorted(rows, key=lambda r: (r[2] or 0, r[0])):
+        out[qid] = seen.get(num, 0)
+        seen[num] = seen.get(num, 0) + 1
+    return out
+
+
+def _restore_markers(conn: sqlite3.Connection, world_id: int, saved: list):
+    """Match saved markers to new rows: (number, occurrence) with the same
+    name → same name → (number, occurrence) alone. Each row gets one marker."""
+    new_rows = conn.execute(
+        "SELECT id, quest_number, name, sort_order FROM quests WHERE world_id=?",
+        (world_id,)).fetchall()
+    occ_of = _occurrence_index([(r[0], r[1], r[3]) for r in new_rows])
+    rows = [{"id": r[0], "number": r[1], "occ": occ_of[r[0]],
+             "name": _norm_quest_name(r[2])} for r in new_rows]
+    used: set = set()
+
+    def pick(pred):
+        for r in rows:
+            if r["id"] not in used and pred(r):
+                return r
+        return None
+
+    now = time.time()
+    for m in saved:
+        r = (pick(lambda r: r["number"] == m["number"] and r["occ"] == m["occ"]
+                  and r["name"] == m["name"])
+             or pick(lambda r: r["name"] == m["name"])
+             or (pick(lambda r: r["number"] == m["number"] and r["occ"] == m["occ"])
+                 if m["number"] is not None else None))
+        if r is None:
+            continue
+        used.add(r["id"])
+        conn.execute("""
+            INSERT OR REPLACE INTO quest_markers
+                (quest_id, note, completed, created_at, updated_at)
+            VALUES (?, ?, ?, ?, ?)
+        """, (r["id"], m["note"], m["completed"],
+              m["created_at"] or now, m["updated_at"] or now))
+    conn.commit()
 
 
 def search_quests(conn: sqlite3.Connection, query: str, limit: int = 10) -> List[Dict]:
@@ -530,7 +633,9 @@ def get_all_quest_names(conn: sqlite3.Connection) -> List[str]:
 
 def get_world_encounter_counts(conn: sqlite3.Connection, world_id: int) -> dict:
     """
-    Count every encounter type for a world by reading types_json from the quests table.
+    Count every encounter for a world by reading types_json from the quests table.
+    Every step counts: "Mob + Mob + Boss" is 2 mobs and 1 boss, and
+    "Talk x6" (count=6) is 6 talks.
     Returns a dict like:
       {
         "total": 148,
@@ -558,13 +663,15 @@ def get_world_encounter_counts(conn: sqlite3.Connection, world_id: int) -> dict:
             types = json.loads(types_json or "[]")
         except Exception:
             types = []
-        seen_in_quest: set = set()
         for t in types:
             if isinstance(t, dict):
                 label = t.get("label", "").lower().strip()
-                if label and label not in seen_in_quest:
-                    counts[label] = counts.get(label, 0) + 1
-                    seen_in_quest.add(label)
+                if label:
+                    try:
+                        n = max(1, int(t.get("count") or 1))
+                    except (TypeError, ValueError):
+                        n = 1
+                    counts[label] = counts.get(label, 0) + n
 
     counts["total"] = total
     return counts

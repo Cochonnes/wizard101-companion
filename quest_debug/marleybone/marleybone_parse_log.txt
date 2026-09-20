@@ -1,20 +1,17 @@
-PARSE LOG — Marleybone
+PARSE LOG (html) — Marleybone
 ============================================================
 
-AREA    : Marleybone Main Quest Line
-AREA    : Meowiarty
-AREA    : My favorite quest
-AREA    : Big Ben
+AREA    : I have divided the quests in the Spiral into the following groups
 QUEST#  1: Sacrophagus Search                       [talk]
 QUEST#  2: Not So Fast…                             [talk]
 QUEST#  3: A Cat-tastrophy                          [talk]
 AREA    : Hyde Park
 QUEST#  4: Back Up for Bones                        [talk]
 QUEST#  5: Garden Secret                            [mob + talk]
-QUEST#  6: House Hunt                               [explore + mob + talk]
-QUEST#  7: Springing the Snitch                     [boss + talk]
+QUEST#  6: House Hunt                               [explore x3 + mob x3 + talk]
+QUEST#  7: Springing the Snitch                     [boss + talk + talk]
 QUEST#  8: The Right Tools                          [d&c + talk]
-QUEST#  9: Open Says Me                             [talk + boss]
+QUEST#  9: Open Says Me                             [talk + boss + talk + talk]
 AREA    : Chelsea Court
 QUEST# 10: Out of Control                           [talk]
 QUEST# 11: For Whom the Bell Tolls                  [explore + talk]
@@ -22,47 +19,72 @@ QUEST# 12: A Guide…                                 [talk]
 QUEST# 13: Keeper of Secrets                        [boss + talk]
 QUEST# 14: The Only One Left                        [boss + talk]
 QUEST# 15: Sweet Success                            [talk]
-QUEST# 16: Password, Please!                        [explore + mob + talk]
+QUEST# 16: Password, Please!                        [explore + mob + talk + talk]
 QUEST# 17: Collar Me Impressed                      [talk]
-QUEST# 18: A Private Meeting                        [explore + talk]
+QUEST# 18: A Private Meeting                        [explore + talk x4]
 AREA    : Ironworks
 QUEST# 19: Ticket to the Ironworks                  [explore]
+QUEST# 20: Internal Investigation                   [talk]
+QUEST# 21: No Entry                                 [instance + talk + d&c + talk + explore]
+QUEST# 22: Gate Crashers                            [instance + talk + boss + talk]
+QUEST# 23: Purloin the Plans                        [instance + talk + interact + talk]
+QUEST# 24: Bully the Boss                           [instance + talk + explore + talk]
+QUEST# 25: Knock on Wood                            [instance + talk + boss + explore + boss + talk]
 QUEST# 20: Internal Investigation                   [boss + talk]
-QUEST# 21: No Entry                                 [instance + talk + d&c + explore]
-QUEST# 22: Gate Crashers                            [instance + talk + boss]
-QUEST# 23: Purloin the Plans                        [instance + talk + interact]
-QUEST# 24: Bully the Boss                           [boss + instance + talk + explore]
-QUEST# 25: Knock on Wood                            [instance + talk + boss + explore]
 AREA    : Newgate Prison
 QUEST# 26: Ring the Alarm                           [talk]
 QUEST# 27: Prison Break                             [talk]
-QUEST# 28: Stop that Cat!                           [explore + talk + boss]
+QUEST# 28: Stop that Cat!                           [explore + talk + boss + boss + talk]
 AREA    : Knight’s Court
 QUEST# 29: Scratching Post                          [talk]
-QUEST# 30: Wildcat Woes                             [talk + boss]
+QUEST# 30: Wildcat Woes                             [talk + boss + talk]
 QUEST# 31: Cat Scratch Fever                        [mob + talk]
-QUEST# 32: Investigation…                           [talk]
-QUEST# 33: Location, Location…                      [talk]
+QUEST# 32: Investigation…                           [talk + talk]
+QUEST# 33: Location, Location…                      [talk + talk]
 QUEST# 34: Gimme a Hand                             [explore + mob + talk]
-QUEST# 35: Cross Examination                        [talk]
+QUEST# 35: Cross Examination                        [talk + talk]
 QUEST# 36: Doctor of Deception                      [explore + boss + talk]
 QUEST# 37: Case Closed!                             [talk]
 AREA    : Katzenstein’s Lab
 QUEST# 38: Weird Science                            [talk]
 QUEST# 39: The Right Combination                    [talk + boss]
 QUEST# 40: Locked Door                              [interact]
-QUEST# 41: Gate Is Enough                           [instance + talk + boss]
+QUEST# 41: Gate Is Enough                           [instance + talk + boss + talk]
 QUEST# 42: The Second Door                          [instance + interact]
 QUEST# 43: Weird Science                            [instance + boss]
-AREA    : Katzenstein’s Lab
+QUEST# 44: If You Build It…                         [instance + talk + interact + talk]
+QUEST# 45: It’s Alive!                              [instance + interact x3 + talk]
+QUEST# 43: Weird Science                            [talk]
 AREA    : Royal Museum
-QUEST# 44: If You Build It…                         [instance + talk + interact]
-QUEST# 45: It’s Alive!                              [instance + interact + talk]
-QUEST# 46: Metal Madness                            [instance + talk + mob + interact]
+QUEST# 44: Fetch Bones!                             [talk]
+QUEST# 45: Stolen Away                              [talk]
+QUEST# 46: Metal Madness                            [instance + talk + mob x4 + interact x4]
 QUEST# 47: Stolen Away                              [instance + boss + talk]
+QUEST# 48: Weights and Measures                     [talk]
+QUEST# 49: More Metal Madness                       [instance + talk + mob x4 + interact x4]
 QUEST# 48: Weights and Measures                     [instance + boss + talk]
-QUEST# 49: The Last Meow                            [instance + mob + talk + boss + puzzle]
-QUEST# 50: Stealthy Stuff ( instance : boss + talk) [instance + boss + talk]
+QUEST# 49: The Last Meow                            [instance + mob + talk + mob x3 + boss + mob + puzzle + mob x4 + boss]
+QUEST# 50: Stealthy Stuff                           [instance + boss + talk]
+AREA    : Wizard City
+AREA    : Krokotopia
+AREA    : Mooshu
+AREA    : Dragonspyre
+AREA    : Celestia
+AREA    : Zafaria
+AREA    : Avalon
+AREA    : Azteca
+AREA    : Khrysalis
+AREA    : Polaris
+AREA    : Mirage
+AREA    : Empyrea
+AREA    : Karamelle
+AREA    : Lemuria
+AREA    : Novus
+AREA    : Wallaru
+AREA    : Grizzleheim
+AREA    : Wysteria
+AREA    : Catacombs
+AREA    : Happy Questing!
 
-SUMMARY: 50 quests in 8 areas
+SUMMARY: 56 quest rows (50 unique numbers) in 8 areas
 Stats: {'total_quests': 50, 'mob_fights': 24, 'dc_quests': 2, 'boss_fights': None, 'cheater_bosses': None, 'solo_quests': None, 'description': ''}
