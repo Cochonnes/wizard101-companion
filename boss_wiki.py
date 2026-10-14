@@ -187,7 +187,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ── App Version & GitHub ──────────────────────────────────────
-APP_VERSION = "2.1.2"
+APP_VERSION = "2.1.3"
 # Set this to your GitHub repo, e.g. "YourUsername/Wizard101Companion"
 GITHUB_REPO = "Cochonnes/wizard101-companion"
 
