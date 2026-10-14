@@ -55,6 +55,16 @@ This companion app is brought to you by Claude and my sanity. I can't code for t
 - Easily share deck and gear setups  
 - Damage calculator that takes your wizards stats, and the bosses ones into account
 
+## Fetching from the wiki
+Boss and spell fetches run in a real Chrome window; click Cloudflare's checkbox there when the alert sound plays.
+Settings → **Wiki Fetch Source** picks where they read from:
+- **MediaWiki API**: the original fast path. The wiki's `api.php` currently answers HTTP 444 "Access Blocked".
+- **Page fetch**: reads normal wiki pages, one request every 4–6 s (max 600/hour), respecting robots.txt. Any block stops the fetch for good. The wiki challenges raw wikitext (`action=raw`), so spell and boss infoboxes (cheats included) are rebuilt from the page itself; those cache files start with a `w101c: rebuilt from page HTML` comment.
+
+**Run connection check** (or `python wiki_client.py --probe`) tests robots.txt, a spell page, its raw wikitext, a category page and `api.php`, then prints a verdict.
+
+A fetch that stops exits with a code the app explains (see `wiki_errors.py`): 0 OK, 1 some items failed, 10 checkbox not clicked, 11 blocked, 12 rate-limited, 13 no response, 14 robots.txt, 15 API unavailable, 16 unexpected page, 17 challenged on every request.
+
 ## Pictures? Pictures!
 
 This is what you'll see first (IF it works :P)

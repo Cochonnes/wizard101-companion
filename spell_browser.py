@@ -42,6 +42,12 @@ try:
 except Exception:
     cf_alert = None
 
+# Scraper exit codes → human messages (stdlib-only)
+try:
+    import wiki_errors
+except Exception:
+    wiki_errors = None
+
 
 def _play_cf_alert():
     """Play the Cloudflare-challenge alert sound (best-effort, never raises)."""
@@ -884,6 +890,7 @@ class SpellDetailDialog(QDialog):
             QMessageBox.warning(
                 self, "Re-fetch Failed",
                 "The re-fetch did not complete successfully.\n\n"
+                + (wiki_errors.describe_exit(code) + "\n\n" if wiki_errors is not None else "")
                 + (out[-800:] if out.strip() else f"Exit code {code}.")
             )
 
@@ -2826,7 +2833,15 @@ class SpellBrowserWidget(QWidget):
             self._progress_out.append(
                 "\n⏹ Stopped. Spells finished before stopping are saved. "
                 "Tick “Resume” and Fetch again to continue where you left off.")
+        elif code == 0:
+            self._progress_out.append(f"\n[OK] Done (exit {code}).")
         else:
-            self._progress_out.append(f"\n{'[OK]' if code == 0 else '[FAIL]'} Done (exit {code}).")
-        QTimer.singleShot(6000, lambda: self._progress_out.setVisible(False))
+            msg = wiki_errors.describe_exit(code) if wiki_errors is not None else ""
+            self._progress_out.append(f"\n[FAIL] Done (exit {code}). {msg}")
+            if wiki_errors is not None and wiki_errors.is_stop_exit(code):
+                QMessageBox.warning(self, "Wiki Fetch Stopped",
+                                    f"{msg}\n\nSpells fetched before the stop are saved.")
+        # Only a clean finish auto-hides the log; errors stay readable.
+        if code == 0 and not stopped:
+            QTimer.singleShot(6000, lambda: self._progress_out.setVisible(False))
         self.refresh()

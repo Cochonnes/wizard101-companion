@@ -150,6 +150,11 @@ class OverlaySettings:
             "cf_sound_enabled": True,
             "cf_sound_path": "",        # "" → use the generated default chime
             "cf_sound_volume": 70,      # 0–100
+            # ── Wiki fetch source (Settings → Wiki Fetch Source) ──────────
+            # "api"   = MediaWiki api.php (fast; currently 444-blocked)
+            # "pages" = slow page fetch through the same Chrome session
+            # Read by the scraper subprocesses via wiki_client.load_fetch_mode().
+            "wiki_fetch_mode": "api",
         },
     }
 
@@ -291,6 +296,21 @@ class OverlaySettings:
 
     def set_auto_update(self, v: bool):
         self._data.setdefault("_global", {})["auto_update"] = bool(v)
+        self.save()
+
+    # ── Wiki fetch source ─────────────────────────────────────────────────
+    # Kept in sync with wiki_client.MODES (not imported: no GUI → scraper
+    # dependency, same as SPELL_OCR_STRENGTHS above).
+    WIKI_FETCH_MODES = ("api", "pages")
+
+    def get_wiki_fetch_mode(self) -> str:
+        v = str(self._data.get("_global", {}).get("wiki_fetch_mode", "api"))
+        return v if v in self.WIKI_FETCH_MODES else "api"
+
+    def set_wiki_fetch_mode(self, mode: str):
+        if mode not in self.WIKI_FETCH_MODES:
+            mode = "api"
+        self._data.setdefault("_global", {})["wiki_fetch_mode"] = mode
         self.save()
 
     # ── Cloudflare-challenge alert sound ──────────────────────────────────

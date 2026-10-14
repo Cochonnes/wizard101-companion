@@ -64,6 +64,76 @@ def title_indicates_challenge(title) -> bool:
     return any(p in t for p in _CHALLENGE_TITLE_PHRASES)
 
 
+# ── "Did we actually reach the wiki?" ───────────────────────────────────────
+# The old pass check was ``"wizard101" in title or "wiki" in title``, which
+# also passes Chrome's own error page (its title is the bare host,
+# "wiki.wizard101central.com") and block pages that mention the site. These
+# helpers split the possible titles into challenge / block / error / wiki.
+WIKI_HOST = "wiki.wizard101central.com"
+WIKI_SITE_NAME = "wizard101 wiki"    # MediaWiki $wgSitename, in every page title
+
+_BLOCK_TITLE_PHRASES = (
+    "access blocked",
+    "access denied",
+    "403 forbidden",
+    "forbidden",
+    "you have been blocked",
+    "error 1020",
+    "error 1010",
+    "error 1012",
+)
+_RATE_LIMIT_TITLE_PHRASES = (
+    "429 too many requests",
+    "too many requests",
+    "error 1015",
+    "you are being rate limited",
+)
+
+
+def title_indicates_block(title):
+    """
+    "RATE_LIMITED" / "BLOCKED" when ``document.title`` is a block page, else
+    None. Pure string check, same rules as title_indicates_challenge.
+    """
+    if not title:
+        return None
+    t = str(title).lower()
+    if WIKI_SITE_NAME in t:
+        return None
+    if any(p in t for p in _RATE_LIMIT_TITLE_PHRASES):
+        return "RATE_LIMITED"
+    if any(p in t for p in _BLOCK_TITLE_PHRASES):
+        return "BLOCKED"
+    return None
+
+
+def title_looks_like_error_page(title) -> bool:
+    """
+    True for Chrome's network-error page (ERR_EMPTY_RESPONSE etc.), whose
+    title is just the host name. That's what an HTTP 444 looks like after a
+    navigation: nginx closes the socket and Chrome shows its own error.
+    """
+    if not title:
+        return False
+    t = str(title).strip().lower()
+    return t == WIKI_HOST or t.startswith(("http://", "https://")) or (
+        " " not in t and t.endswith(".com")
+    )
+
+
+def title_is_wiki_page(title) -> bool:
+    """
+    True only when the title is a real wiki page ("Spell:Fire Cat - Wizard101
+    Wiki"). Safe to read the page's DOM after this returns True.
+    """
+    if not title:
+        return False
+    t = str(title).lower()
+    return (WIKI_SITE_NAME in t
+            and not title_indicates_challenge(title)
+            and not title_looks_like_error_page(title))
+
+
 def strip_marker(text: str) -> str:
     """
     Remove the raw MARKER token from a stdout chunk so the progress log the

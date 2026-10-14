@@ -97,6 +97,12 @@ try:
 except Exception:
     cf_alert = None
 
+# Scraper exit codes / stop marker (stdlib-only)
+try:
+    import wiki_errors
+except Exception:
+    wiki_errors = None
+
 # Optional Quest Tracker
 try:
     from quest_window import QuestTrackerWindow
@@ -3605,6 +3611,10 @@ class BossWikiApp(QMainWindow):
         if HUD_AVAILABLE and overlay_settings is not None:
             body_layout.addWidget(self._build_cf_sound_section())
 
+        # ══ WIKI FETCH SOURCE SECTION ══════════════════════════════
+        if HUD_AVAILABLE and overlay_settings is not None:
+            body_layout.addWidget(self._build_wiki_source_section())
+
         # ══ OCR SETTINGS SECTION ═══════════════════════════════════
         if OCR_AVAILABLE:
             ocr_group = self._make_settings_group("👾 OCR Settings")
@@ -4612,6 +4622,118 @@ class BossWikiApp(QMainWindow):
         )
 
     # ── Cloudflare alert sound settings ───────────────────────────────────
+    def _build_wiki_source_section(self) -> QGroupBox:
+        """
+        Build the 🌐 Wiki Fetch Source group: toggle between the MediaWiki
+        API and the slow page fetch (both in wiki_client.py), plus a button
+        that runs the Step 0 connection check (wiki_client.py --probe).
+        """
+        group = self._make_settings_group(
+            "🌐 Wiki Fetch Source",
+            "Where boss and spell fetches read the wiki from. Applies to the next fetch.",
+        )
+
+        row = QHBoxLayout()
+        lbl = QLabel("Source:")
+        lbl.setStyleSheet("color:#ccc; font-size:13px; background:transparent;")
+        row.addWidget(lbl)
+
+        self._wiki_source_combo = QComboBox()
+        self._wiki_source_combo.addItem("MediaWiki API  (fast — currently blocked, HTTP 444)", "api")
+        self._wiki_source_combo.addItem("Page fetch  (slow — ~5 s per request)", "pages")
+        idx = self._wiki_source_combo.findData(overlay_settings.get_wiki_fetch_mode())
+        if idx >= 0:
+            self._wiki_source_combo.setCurrentIndex(idx)
+        self._wiki_source_combo.setStyleSheet(
+            "QComboBox{background:#0f3460;color:#e0e0e0;border:1px solid #1f3460;"
+            "border-radius:6px;padding:6px 12px;font-size:12px;min-width:260px;}"
+            "QComboBox:hover{border-color:#e94560;}"
+            "QComboBox::drop-down{border:none;}"
+            "QComboBox QAbstractItemView{background:#0f3460;color:#e0e0e0;"
+            "selection-background-color:#e94560;border:1px solid #1f3460;}"
+        )
+        self._wiki_source_combo.currentIndexChanged.connect(self._on_wiki_source_changed)
+        row.addWidget(self._wiki_source_combo)
+        row.addStretch()
+        group.layout().addLayout(row)
+
+        note = QLabel(
+            "<b>API</b>: the original fast path through api.php.<br>"
+            "<b>Page fetch</b>: reads normal wiki pages in the same Chrome window, one "
+            "request every 4–6 s (max 600/hour), respecting robots.txt. A full spell "
+            "fetch takes hours — use Resume. Any block stops the fetch for good."
+        )
+        note.setStyleSheet("color:#666; font-size:11px; background:transparent;")
+        note.setWordWrap(True)
+        group.layout().addWidget(note)
+
+        probe_row = QHBoxLayout()
+        probe_btn = QPushButton("🔎 Run connection check")
+        probe_btn.setToolTip("Opens Chrome and checks robots.txt, a spell page, its raw "
+                             "wikitext, a category page and api.php (about 9 requests)")
+        probe_btn.setStyleSheet(
+            "QPushButton{background:#0f3460;color:#e0e0e0;border:none;border-radius:5px;"
+            "padding:5px 12px;font-size:12px;}QPushButton:hover{background:#1f4a80;}"
+        )
+        probe_btn.clicked.connect(self._run_wiki_probe)
+        probe_row.addWidget(probe_btn)
+        probe_row.addStretch()
+        group.layout().addLayout(probe_row)
+        return group
+
+    def _on_wiki_source_changed(self, _index: int):
+        mode = self._wiki_source_combo.currentData()
+        overlay_settings.set_wiki_fetch_mode(mode)
+        label = "Page fetch (slow)" if mode == "pages" else "MediaWiki API"
+        self.status_bar.showMessage(f"Wiki fetch source: {label} (applies on next fetch)", 5000)
+
+    def _run_wiki_probe(self):
+        """Run wiki_client.py --probe in a small live-log dialog."""
+        if getattr(self, "_probe_process", None) and \
+                self._probe_process.state() != QProcess.NotRunning:
+            return
+        dlg = QDialog(self)
+        dlg.setWindowTitle("Wiki Connection Check")
+        dlg.resize(760, 520)
+        dlg.setStyleSheet("background:#1a1a2e; color:#e0e0e0;")
+        lay = QVBoxLayout(dlg)
+        info = QLabel("A Chrome window opens. If Cloudflare shows a checkbox, click it there.")
+        info.setStyleSheet("color:#8fb7ff; font-size:12px;")
+        lay.addWidget(info)
+        log = QTextEdit()
+        log.setReadOnly(True)
+        log.setStyleSheet("background:#0a1628; color:#ccc; font-family:Consolas,monospace;"
+                          "font-size:11px; border:1px solid #0f3460;")
+        lay.addWidget(log, stretch=1)
+        close_btn = QPushButton("Close")
+        close_btn.clicked.connect(dlg.close)
+        lay.addWidget(close_btn, alignment=Qt.AlignRight)
+
+        proc = QProcess(dlg)
+        proc.setProcessChannelMode(QProcess.MergedChannels)
+        proc.setWorkingDirectory(_APP_DIR)
+        self._probe_process = proc
+
+        def on_out():
+            data = bytes(proc.readAllStandardOutput()).decode("utf-8", "replace")
+            if cf_alert is not None and cf_alert.MARKER in data:
+                self._play_cf_alert()
+                data = cf_alert.strip_marker(data)
+            log.append(data.rstrip())
+            sb = log.verticalScrollBar()
+            sb.setValue(sb.maximum())
+
+        def on_done(code, _status):
+            msg = wiki_errors.describe_exit(code) if wiki_errors is not None else ""
+            log.append(f"\n— finished (exit {code}) {msg if code not in (0, 1) else ''}")
+            log.append("Full report: wiki_probe_report.txt")
+
+        proc.readyReadStandardOutput.connect(on_out)
+        proc.finished.connect(on_done)
+        dlg.finished.connect(lambda *_: proc.kill() if proc.state() != QProcess.NotRunning else None)
+        proc.start(sys.executable, [os.path.join(_APP_DIR, "wiki_client.py"), "--probe"])
+        dlg.show()
+
     def _build_cf_sound_section(self) -> QGroupBox:
         """
         Build the 🔔 Cloudflare Alert Sound settings group: enable/disable,
@@ -6488,7 +6610,12 @@ class BossWikiApp(QMainWindow):
         self.scrape_btn.setEnabled(True)
         if hasattr(self, "boss_del_all_btn"):
             self.boss_del_all_btn.setEnabled(True)
-        self.progress_label.setText(f"Done (exit code: {exit_code})")
+        stopped_by_user = exit_status == QProcess.CrashExit
+        msg = (wiki_errors.describe_exit(exit_code) if wiki_errors is not None
+               else f"exit code {exit_code}")
+        if stopped_by_user:
+            msg = "Stopped."
+        self.progress_label.setText(f"Done (exit {exit_code}): {msg}"[:160])
 
         # Refresh DB
         self.boss_names = db.get_boss_names(self.conn)
@@ -6512,11 +6639,16 @@ class BossWikiApp(QMainWindow):
 
         if exit_code == 0:
             self.status_bar.showMessage(f"[OK] Fetch complete! {len(self.boss_names)} bosses in DB", 10000)
+            # Auto-hide progress after 3 seconds — only on success; on errors
+            # the log stays open so the reason can be read.
+            QTimer.singleShot(3000, lambda: self.progress_group.setVisible(False))
         else:
-            self.status_bar.showMessage(f"[FAIL] Fetch failed (exit code {exit_code})", 10000)
-
-        # Auto-hide progress after 3 seconds
-        QTimer.singleShot(3000, lambda: self.progress_group.setVisible(False))
+            self.status_bar.showMessage(f"[FAIL] {msg}"[:200], 15000)
+            self.progress_output.append(f"\n[FAIL] {msg} (exit {exit_code})")
+            if (not stopped_by_user and wiki_errors is not None
+                    and wiki_errors.is_stop_exit(exit_code)):
+                QMessageBox.warning(self, "Wiki Fetch Stopped",
+                                    f"{msg}\n\nBosses fetched before the stop are saved.")
 
     def _cancel_fetch(self):
         if self.fetch_process and self.fetch_process.state() != QProcess.NotRunning:

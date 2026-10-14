@@ -50,3 +50,5 @@ desktop.ini
 !templates/hud_settings.json
 !templates/keybinds.json
 !templates/world_order.json
+# Wiki Step 0 probe output (python wiki_client.py --probe)
+wiki_probe_report.txt

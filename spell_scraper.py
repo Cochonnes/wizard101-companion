@@ -11,8 +11,10 @@ Usage:
     python spell_scraper.py --reparse-spell "Vengeance"   # reparse one spell (offline)
     python spell_scraper.py --list-category      # list available spells in DB
 
-Uses the same BrowserAPIClient approach as db_builder.py:
-  Chrome opens once → Cloudflare bypass → all API calls via XHR from inside browser.
+Uses the shared wiki_client.py (same as db_builder.py): Chrome opens once,
+the user passes Cloudflare, then every request runs inside that browser.
+Source is the Settings toggle or --source (api | pages). Exit codes: see
+wiki_errors.py (0 OK, 1 some failed, 11 blocked, 12 rate-limited, ...).
 
 Images are saved to:  spell_images/{SpellName}.png
 Wikitext cached in:   spell_cache/{SpellName}.txt
@@ -55,7 +57,9 @@ except ImportError:
     NODRIVER_OK = False
 
 import database_spells as ds
-import cf_alert
+import wiki_client
+import wiki_errors as we
+from wiki_errors import WikiFetchError, WikiStop
 
 logging.basicConfig(
     level=logging.INFO,
@@ -68,9 +72,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 APP_DIR   = Path(__file__).parent
-API_URL   = "https://wiki.wizard101central.com/wiki/api.php"
-WIKI_BASE = "https://wiki.wizard101central.com/wiki/"
-WIKI_ROOT = "https://wiki.wizard101central.com"
+WIKI_BASE = wiki_client.WIKI_BASE
+WIKI_ROOT = wiki_client.WIKI_ROOT
 IMG_DIR   = APP_DIR / "spell_images"
 CACHE_DIR = APP_DIR / "spell_cache"
 # Rendered-HTML cache (its own subfolder, .txt files, mirroring the wikitext
@@ -104,134 +107,34 @@ SCHOOL_CATEGORY_MAP = {
 
 
 # ═══════════════════════════════════════════════════════════════════════
-# BROWSER API CLIENT  (identical pattern to db_builder.py)
+# WIKI CLIENT  (shared with db_builder.py — see wiki_client.py)
+# Source (API vs slow page fetch) comes from the Settings toggle or
+# --source. Blocks raise WikiStop → the run stops with an exit code.
 # ═══════════════════════════════════════════════════════════════════════
 
-class BrowserAPIClient:
-    def __init__(self):
-        self.browser = None
-        self.page = None
-        self._req_count = 0
-        # Alerts the parent GUI (via a stdout marker) when the Cloudflare
-        # "verify you are human" checkbox appears and needs a manual click.
-        self._cf_notifier = cf_alert.ChallengeNotifier()
+class SpellWikiClient(wiki_client.WikiClient):
+    """Spell-page helpers on top of the shared client."""
 
-    async def start(self):
-        print("\n  Opening Chrome to solve Cloudflare challenge...")
-        self.browser = await uc.start(headless=False)
-        self.page = await self.browser.get(WIKI_BASE + "Wizard101_Wiki")
-        print("  Waiting for Cloudflare…")
-        for i in range(60):
-            await asyncio.sleep(1)
-            try:
-                title = await self.page.evaluate("document.title")
-                if "wizard101" in title.lower() or "wiki" in title.lower():
-                    print(f"  [OK] Cloudflare passed! ({title[:60]})")
-                    self._cf_notifier.reset()
-                    break
-                # Still on the challenge → alert the GUI (throttled).
-                # Title-only: do NOT probe the page or Turnstile loops forever.
-                self._cf_notifier.note(cf_alert.title_indicates_challenge(title))
-                if i > 0 and i % 10 == 0:
-                    print(f"  … still waiting ({i}s)")
-            except Exception:
-                pass
-        await asyncio.sleep(2)
-        print("  [OK] Browser ready\n")
-
-    async def stop(self):
-        if self.browser:
-            self.browser.stop()
-            self.browser = None
-            self.page = None
-
-    async def api_get(self, params: dict, _retry: int = 0) -> Optional[dict]:
-        if not self.page:
-            return None
-        self._req_count += 1
-        params["format"] = "json"
-        url = f"{API_URL}?{urlencode(params)}"
-        await asyncio.sleep(0.3)
-        try:
-            result = await self.page.evaluate("""
-                (() => {
-                    try {
-                        const xhr = new XMLHttpRequest();
-                        xhr.open("GET", "%s", false);
-                        xhr.send();
-                        return xhr.status === 200 ? xhr.responseText
-                               : JSON.stringify({error: xhr.status});
-                    } catch(e) { return JSON.stringify({error: e.message}); }
-                })()
-            """ % url.replace('"', '\\"'))
-            if not result:
-                return None
-            data = json.loads(result)
-            if "error" in data:
-                ev = data["error"]
-                if ev == 403 and _retry < 2:
-                    await self._refresh_session()
-                    return await self.api_get(params, _retry=_retry + 1)
-            return data
-        except Exception as e:
-            logger.debug(f"XHR failed ({e})")
-            return None
-
-    async def _refresh_session(self):
-        try:
-            await self.page.get(WIKI_BASE + "Wizard101_Wiki")
-            for _ in range(30):
-                await asyncio.sleep(1)
-                try:
-                    t = await self.page.evaluate("document.title")
-                    if "wizard101" in t.lower():
-                        self._cf_notifier.reset()
-                        return
-                    # Challenge re-appeared mid-run → alert the GUI (throttled).
-                    self._cf_notifier.note(cf_alert.title_indicates_challenge(t))
-                except Exception:
-                    pass
-        except Exception:
-            pass
-
-    async def fetch_wikitext(self, wiki_path: str) -> Optional[str]:
-        result = await self.api_get({
-            "action": "parse",
-            "page": wiki_path,
-            "prop": "wikitext",
-        })
-        if result and "parse" in result:
-            return result["parse"]["wikitext"].get("*", "")
-        return None
-
-    async def fetch_rendered_html(self, wiki_path: str) -> Optional[str]:
-        """
-        Fetch the fully rendered page HTML (action=parse&prop=text).
-
-        Unlike the raw wikitext, this contains the Semantic-MediaWiki-computed
-        Training Sources (Trainer + level, Requirements to Train, Prerequisite,
-        "cannot be trained" notes), Other Acquisition Sources, and Fusion
-        Formulae blocks — none of which exist as literal wikitext parameters.
-        """
-        result = await self.api_get({
-            "action": "parse",
-            "page": wiki_path,
-            "prop": "text",
-            "disablelimitreport": "1",
-        })
-        if result and "parse" in result:
-            return result["parse"]["text"].get("*", "")
-        return None
+    async def fetch_spell_wikitext(self, wiki_path: str, spell_name: str = "") -> Optional[str]:
+        """Spell wikitext; in page fetch, rebuilt from the page if action=raw is challenged."""
+        return await self.fetch_page_wikitext(
+            wiki_path, lambda html: html_to_spell_wikitext(html, spell_name))
 
     async def fetch_image_url(self, wiki_path: str, spell_name: str = "") -> Optional[str]:
         """
         Get the direct URL of the spell card image.
 
-        Strategy (most to least reliable):
+        Page fetch: the infobox <img src> of the loaded page (the same page
+        load also serves fetch_rendered_html, so no extra request).
+
+        API (most to least reliable):
           1. query prop=images  → find the "(Spell) ..." file title
              then  query prop=imageinfo&iiprop=url  → get the real URL
           2. parse  prop=text   → BeautifulSoup td.infobox-images img[src]
         """
+        if self.is_pages:
+            html = await self.fetch_rendered_html(wiki_path)
+            return _pick_card_image_from_html(html or "", spell_name)
 
         # ── Step 1: list images on the page ──────────────────────────
         result = await self.api_get({
@@ -267,14 +170,8 @@ class BrowserAPIClient:
 
         # ── Fallback: parse rendered HTML and grab infobox-images img ──
         logger.debug(f"  imageinfo gave nothing — falling back to HTML parse for {wiki_path}")
-        parse_result = await self.api_get({
-            "action": "parse",
-            "page":   wiki_path,
-            "prop":   "text",
-            "disablelimitreport": "1",
-        })
-        if parse_result and "parse" in parse_result:
-            html = parse_result["parse"]["text"].get("*", "")
+        html = await self.fetch_rendered_html(wiki_path)
+        if html:
             url = _pick_card_image_from_html(html, spell_name)
             if url:
                 return url
@@ -283,100 +180,9 @@ class BrowserAPIClient:
 
     async def list_spells_in_category(self, category: str) -> List[Dict]:
         """List all Spell: pages in a wiki category."""
-        spells: List[Dict] = []
-        seen: set = set()
-        params = {
-            "action": "query",
-            "list": "categorymembers",
-            "cmtitle": f"Category:{category}",
-            "cmlimit": "500",
-            "cmtype": "page",
-            "cmprop": "title|ids",
-        }
-        while True:
-            result = await self.api_get(params)
-            if not result or "query" not in result:
-                break
-            for m in result["query"].get("categorymembers", []):
-                title = m.get("title", "")
-                if title.startswith("Spell:") and title not in seen:
-                    seen.add(title)
-                    name = title.replace("Spell:", "").replace("_", " ").strip()
-                    spells.append({"name": name, "wiki_path": title})
-            print(f"    {category}: {len(spells)} spells so far…")
-            if "continue" in result:
-                params["cmcontinue"] = result["continue"]["cmcontinue"]
-            else:
-                break
-        return spells
-
-    async def download_image(self, url: str, dest: Path) -> bool:
-        """
-        Download an image to `dest` via the browser's fetch() API.
-        Falls back to navigating directly to the URL and capturing the
-        base64 response if the Promise approach times out.
-        """
-        import base64
-
-        # Approach A: fetch() → Blob → FileReader (works for same-origin images)
-        try:
-            js = """
-                (() => {
-                    return new Promise((resolve, reject) => {
-                        const timeout = setTimeout(() => resolve(null), 15000);
-                        fetch("%s", {credentials: "include"})
-                            .then(r => {
-                                if (!r.ok) { clearTimeout(timeout); resolve(null); return; }
-                                return r.blob();
-                            })
-                            .then(blob => {
-                                if (!blob) { clearTimeout(timeout); resolve(null); return; }
-                                const reader = new FileReader();
-                                reader.onload = () => { clearTimeout(timeout); resolve(reader.result); };
-                                reader.onerror = () => { clearTimeout(timeout); resolve(null); };
-                                reader.readAsDataURL(blob);
-                            })
-                            .catch(e => { clearTimeout(timeout); resolve(null); });
-                    });
-                })()
-            """ % url.replace("\\", "\\\\").replace('"', '\\"')
-            data_url = await self.page.evaluate(js)
-            if data_url and isinstance(data_url, str) and data_url.startswith("data:"):
-                _, b64 = data_url.split(",", 1)
-                dest.write_bytes(base64.b64decode(b64))
-                return True
-        except Exception as e:
-            logger.debug(f"fetch() approach failed for {url}: {e}")
-
-        # Approach B: navigate to the image URL directly, read it as data URL
-        try:
-            await self.page.get(url)
-            await asyncio.sleep(1.5)
-            # Try to read the page content as an image
-            data_url = await self.page.evaluate("""
-                (() => {
-                    const img = document.querySelector('img');
-                    if (!img) return null;
-                    const canvas = document.createElement('canvas');
-                    canvas.width  = img.naturalWidth  || img.width  || 1;
-                    canvas.height = img.naturalHeight || img.height || 1;
-                    const ctx = canvas.getContext('2d');
-                    try { ctx.drawImage(img, 0, 0); } catch(e) { return null; }
-                    return canvas.toDataURL('image/png');
-                })()
-            """)
-            if data_url and isinstance(data_url, str) and data_url.startswith("data:"):
-                _, b64 = data_url.split(",", 1)
-                dest.write_bytes(base64.b64decode(b64))
-                # Navigate back to the wiki
-                await self.page.get(WIKI_BASE + "Wizard101_Wiki")
-                await asyncio.sleep(0.5)
-                return True
-        except Exception as e:
-            logger.debug(f"Navigation approach failed for {url}: {e}")
-
-        logger.warning(f"All download approaches failed for {url}")
-        return False
+        titles, _ = await self.list_category(category, "Spell:")
+        return [{"name": t.replace("Spell:", "").replace("_", " ").strip(), "wiki_path": t}
+                for t in titles]
 
 
 # ═══════════════════════════════════════════════════════════════════════
@@ -613,7 +419,7 @@ class SpellParser:
 # ═══════════════════════════════════════════════════════════════════════
 # These blocks are generated by Semantic MediaWiki at render time and do NOT
 # appear in the raw wikitext, so they are parsed from the rendered page HTML
-# (BrowserAPIClient.fetch_rendered_html). Structure verified against real wiki
+# (SpellWikiClient.fetch_rendered_html). Structure verified against real wiki
 # output for the trainable / cannot-train / Beastmoon / spellements-to-learn /
 # Other-Acquisition / fusion cases.
 
@@ -780,6 +586,86 @@ def _select_card_image_title(images: list, spell_name: str) -> Optional[str]:
     return partial
 
 
+# Marks wikitext rebuilt from page HTML (see html_to_spell_wikitext) so a
+# cached file can be told apart from real wikitext.
+FROM_HTML_MARKER = "<!-- w101c: rebuilt from page HTML (action=raw unavailable) -->"
+
+
+def html_to_spell_wikitext(html: str, name: str = "") -> Optional[str]:
+    """
+    Rebuild a ``{{SpellInfobox}}`` block from a spell page's rendered infobox,
+    for page-fetch mode where action=raw is challenged. Only the fields
+    SpellParser reads are rebuilt, so the parser stays unchanged:
+
+      School            → school         (icon alt, e.g. "Fire")
+      Pip Cost          → pipcost        ("4" / "X")
+      Shadow Pip Cost   → shadpipcost
+      School Pip Cost   → schoolpipcost
+      Accuracy          → accuracy       ("75%")
+      Type              → type / type2   (icon alts minus " Spell")
+      PvP / PvP Level   → PvP / PvPlevel
+      Spell Description → descrip        (the row under that header)
+
+    Returns None when the page has no spell infobox.
+    """
+    if not BS4_OK or not html:
+        return None
+    soup = BeautifulSoup(html, "html.parser")
+    box = soup.find("table", class_="infobox")
+    if box is None:
+        return None
+
+    def _alts(td):
+        return [i.get("alt", "").strip() for i in td.find_all("img") if i.get("alt")]
+
+    fields = {"school": "", "pipcost": "", "shadpipcost": "", "schoolpipcost": "",
+              "accuracy": "", "type": "", "type2": "", "PvP": "", "PvPlevel": "",
+              "descrip": ""}
+    header = ""
+    desc_lines = []
+    for tr in box.find_all("tr"):
+        tds = tr.find_all("td", recursive=False)
+        if len(tds) == 1:
+            text = tds[0].get_text(" ", strip=True)
+            if "infobox-header" in (tr.get("class") or []) or tds[0].find("b") and \
+                    tds[0].get_text(strip=True) == tds[0].find("b").get_text(strip=True):
+                header = text.lower()
+            elif header == "spell description" and text:
+                desc_lines.append(text)
+            continue
+        if len(tds) != 2:
+            continue
+        label = tds[0].get_text(" ", strip=True).lower()
+        text = tds[1].get_text(" ", strip=True)
+        alts = _alts(tds[1])
+        if label == "school":
+            fields["school"] = alts[0] if alts else text
+        elif label == "pip cost":
+            fields["pipcost"] = text.split()[0] if text else ""
+        elif label == "shadow pip cost":
+            fields["shadpipcost"] = text.split()[0] if text else ""
+        elif label == "school pip cost":
+            fields["schoolpipcost"] = text.split()[0] if text else ""
+        elif label == "accuracy":
+            fields["accuracy"] = text.split()[0] if text else ""
+        elif label == "type":
+            types = [re.sub(r"\s+Spell$", "", a) for a in alts]
+            fields["type"] = types[0] if types else text
+            fields["type2"] = types[1] if len(types) > 1 else ""
+        elif label == "pvp":
+            fields["PvP"] = text or (alts[0] if alts else "")
+        elif label == "pvp level":
+            fields["PvPlevel"] = text.split()[0] if text else ""
+    # get_text(" ") spaces every inline element: "Headmaster ’s" → "Headmaster’s"
+    desc = re.sub(r"\s+([’'.,;:!?)%])", r"\1", " ".join(desc_lines))
+    fields["descrip"] = re.sub(r"\(\s+", "(", desc)
+
+    if not (fields["school"] or fields["pipcost"] or fields["type"]):
+        return None
+    body = "\n".join(f"| {k} = {v}" for k, v in fields.items())
+    return f"{FROM_HTML_MARKER}\n{{{{SpellInfobox\n{body}\n}}}}\n"
+
+
 def parse_training_html(html: str) -> dict:
     """
     Parse the Training Sources + Other Acquisition Sources blocks from a
@@ -862,7 +748,7 @@ def _safe_spell_name(name: str) -> str:
     return re.sub(r'[<>:"/\\|?*]', "_", name)
 
 
-async def _download_fusion_images(client: "BrowserAPIClient", recipes: list):
+async def _download_fusion_images(client: "SpellWikiClient", recipes: list):
     """
     Best-effort download of each fusion reagent/result card image into
     FUSION_IMG_DIR, so the A + B = C visual renders even when a component
@@ -890,6 +776,8 @@ async def _download_fusion_images(client: "BrowserAPIClient", recipes: list):
             try:
                 if await client.download_image(url, dest):
                     print(f"    [FUSION] Cached image for {nm}")
+            except WikiStop:
+                raise
             except Exception as e:
                 logger.debug(f"Fusion image download failed for {nm}: {e}")
 
@@ -1517,7 +1405,7 @@ def _run_ocr_on_image(image_path: Path, spell_type: str = "", accuracy=None,
 # MAIN FETCH LOGIC
 # ═══════════════════════════════════════════════════════════════════════
 
-async def fetch_spell(client: BrowserAPIClient, conn: sqlite3.Connection,
+async def fetch_spell(client: "SpellWikiClient", conn: sqlite3.Connection,
                       name: str, wiki_path: str = "", force: bool = False) -> bool:
     """
     Fetch, OCR and store one spell. Returns True on success.
@@ -1539,12 +1427,21 @@ async def fetch_spell(client: BrowserAPIClient, conn: sqlite3.Connection,
         wikitext = cache_file.read_text(encoding="utf-8", errors="replace")
         print(f"    [CACHE] Using cached wikitext")
     else:
-        wikitext = await client.fetch_wikitext(wiki_path)
+        try:
+            wikitext = await client.fetch_spell_wikitext(wiki_path, name)
+        except WikiStop:
+            raise
+        except WikiFetchError as e:
+            logger.warning(f"{name}: {e} {e.url}")
+            print(f"    [FAIL:{e.code}] {name}: {e}")
+            return False
         if not wikitext:
+            logger.warning(f"{name}: no wikitext returned")
             print(f"    [FAIL] No wikitext returned for {name}")
             return False
         cache_file.write_text(wikitext, encoding="utf-8")
-        print(f"    [OK] Fetched wikitext ({len(wikitext)} chars)")
+        src = "infobox from page HTML" if wikitext.startswith(FROM_HTML_MARKER) else "wikitext"
+        print(f"    [OK] Fetched {src} ({len(wikitext)} chars)")
 
     # ── Parse ─────────────────────────────────────────────────────────
     data = SpellParser.parse(wikitext, name, wiki_path)
@@ -1556,7 +1453,13 @@ async def fetch_spell(client: BrowserAPIClient, conn: sqlite3.Connection,
         data["image_path"] = str(img_dest)
         print(f"    [CACHE] Image already downloaded")
     else:
-        img_url = await client.fetch_image_url(wiki_path, name)
+        try:
+            img_url = await client.fetch_image_url(wiki_path, name)
+        except WikiStop:
+            raise
+        except WikiFetchError as e:
+            print(f"    [WARN:{e.code}] Image lookup failed: {e}")
+            img_url = None
         if img_url:
             ok = await client.download_image(img_url, img_dest)
             if ok:
@@ -1580,7 +1483,13 @@ async def fetch_spell(client: BrowserAPIClient, conn: sqlite3.Connection,
         rendered_html = html_cache_file.read_text(encoding="utf-8", errors="replace")
         print(f"    [CACHE] Using cached rendered HTML")
     else:
-        rendered_html = await client.fetch_rendered_html(wiki_path)
+        try:
+            rendered_html = await client.fetch_rendered_html(wiki_path)
+        except WikiStop:
+            raise
+        except WikiFetchError as e:
+            print(f"    [WARN:{e.code}] Rendered HTML failed: {e}")
+            rendered_html = None
         if rendered_html:
             html_cache_file.write_text(rendered_html, encoding="utf-8")
             print(f"    [OK] Fetched rendered HTML ({len(rendered_html)} chars)")
@@ -1841,7 +1750,7 @@ def reparse_single_spell(conn: sqlite3.Connection, name: str) -> bool:
     return ok
 
 
-async def download_missing_images(conn: sqlite3.Connection, client: "BrowserAPIClient"):
+async def download_missing_images(conn: sqlite3.Connection, client: "SpellWikiClient") -> int:
     """
     (Re-)download spell card images for all spells that are missing one.
     Requires an active browser session.
@@ -1855,13 +1764,23 @@ async def download_missing_images(conn: sqlite3.Connection, client: "BrowserAPIC
     ]
     print(f"\n  {len(missing)} spells missing images — downloading…\n")
     ok = fail = 0
+    progress = wiki_client.Progress(len(missing))
     for row in missing:
+        if client.is_pages and (ok + fail):
+            print(progress.line())
         name      = row["name"]
         wiki_path = row["wiki_path"] or f"Spell:{name.replace(' ', '_')}"
         safe_name = re.sub(r'[<>:"/\\|?*]', "_", name)
         img_dest  = IMG_DIR / f"{safe_name}.png"
         print(f"  [{ok + fail + 1}/{len(missing)}] {name}")
-        img_url = await client.fetch_image_url(wiki_path, name)
+        try:
+            img_url = await client.fetch_image_url(wiki_path, name)
+        except WikiStop:
+            raise
+        except WikiFetchError as e:
+            print(f"    [FAIL:{e.code}] {e}")
+            fail += 1
+            continue
         if not img_url:
             print(f"    [WARN] No image URL found")
             fail += 1
@@ -1879,9 +1798,33 @@ async def download_missing_images(conn: sqlite3.Connection, client: "BrowserAPIC
             print(f"    [FAIL] Download failed")
             fail += 1
     print(f"\n  Done: {ok} downloaded, {fail} failed")
+    return fail
 
 
-async def main():
+async def _fetch_list(client: "SpellWikiClient", conn: sqlite3.Connection, spells: list,
+                      existing_names: set, resume_skip: bool, force: bool,
+                      progress: "wiki_client.Progress", counts: dict):
+    """Fetch a list of spells, updating counts {ok, fail, skipped}. WikiStop propagates."""
+    for sp in spells:
+        if resume_skip and sp["name"].lower() in existing_names:
+            counts["skipped"] += 1
+            continue
+        try:
+            if await fetch_spell(client, conn, sp["name"], sp["wiki_path"], force=force):
+                counts["ok"] += 1
+            else:
+                counts["fail"] += 1
+        except WikiStop:
+            raise
+        except Exception as e:
+            logger.error(f"Error fetching {sp['name']}: {e}")
+            counts["fail"] += 1
+        if client.is_pages:
+            print(progress.line(counts["skipped"]))
+
+
+async def main() -> int:
+    """Returns a process exit code (wiki_errors.EXIT_*)."""
     parser = argparse.ArgumentParser(description="Wizard101 Spell Scraper")
     parser.add_argument("--spell",    metavar="NAME",   help="Fetch a single spell by name")
     parser.add_argument("--school",   metavar="SCHOOL", help="Fetch all spells for a school")
@@ -1897,13 +1840,15 @@ async def main():
                         help="Skip spells already in the database — resume an interrupted "
                              "fetch (or grab only newly-added spells) without re-processing "
                              "everything. Ignored when --force is set.")
+    wiki_client.add_source_argument(parser)
     args = parser.parse_args()
 
     # Reparse modes are fully offline — they never open a browser, so the
     # nodriver requirement doesn't apply to them.
     offline_reparse = args.reparse or args.reparse_spell
     if not NODRIVER_OK and not offline_reparse:
-        sys.exit("[FAIL] nodriver not installed. Run: pip install nodriver")
+        print("[FAIL] nodriver not installed. Run: pip install nodriver")
+        return we.EXIT_NODRIVER_MISSING
     if not BS4_OK:
         print("[WARN] beautifulsoup4 not installed — HTML image fallback disabled")
 
@@ -1912,13 +1857,23 @@ async def main():
 
     if args.reparse:
         await reparse_from_cache(conn)
-        return
+        conn.close()
+        return we.EXIT_OK
 
     if args.reparse_spell:
+        # Exit 0 even on a missing cache: the GUI reads [SKIP]/[FAIL] from the
+        # output to tell "nothing to reparse" apart from a crash.
         reparse_single_spell(conn, args.reparse_spell)
-        return
+        conn.close()
+        return we.EXIT_OK
 
-    client = BrowserAPIClient()
+    if not (args.images or args.spell or args.school or args.all):
+        parser.print_help()  # before opening Chrome, not after
+        conn.close()
+        return we.EXIT_USAGE
+
+    client = SpellWikiClient(args.source)
+    code = we.EXIT_OK
     try:
         await client.start()
 
@@ -1936,11 +1891,13 @@ async def main():
             print("\n  [RESUME] ignored because --force was given (forcing a full re-fetch).")
 
         if args.images:
-            await download_missing_images(conn, client)
+            failed = await download_missing_images(conn, client)
+            code = wiki_client.run_exit_code(failed)
 
         elif args.spell:
             ok = await fetch_spell(client, conn, args.spell, force=args.force)
             print(f"\n  {'[OK]' if ok else '[FAIL]'} {args.spell}")
+            code = we.EXIT_OK if ok else we.EXIT_PARTIAL
 
         elif args.school:
             school = args.school.strip()
@@ -1948,25 +1905,16 @@ async def main():
             print(f"\n  Listing {school} spells from Category:{cat}…")
             spells = await client.list_spells_in_category(cat)
             print(f"  Found {len(spells)} spells\n")
-            ok = fail = skipped = 0
-            for sp in spells:
-                if resume_skip and sp["name"].lower() in existing_names:
-                    skipped += 1
-                    continue
-                try:
-                    success = await fetch_spell(client, conn, sp["name"], sp["wiki_path"], force=args.force)
-                    if success:
-                        ok += 1
-                    else:
-                        fail += 1
-                except Exception as e:
-                    logger.error(f"Error fetching {sp['name']}: {e}")
-                    fail += 1
-            tail = f", {skipped} skipped" if skipped else ""
-            print(f"\n  Done: {ok} OK, {fail} failed{tail}")
+            counts = {"ok": 0, "fail": 0, "skipped": 0}
+            await _fetch_list(client, conn, spells, existing_names, resume_skip,
+                              args.force, wiki_client.Progress(len(spells)), counts)
+            tail = f", {counts['skipped']} skipped" if counts["skipped"] else ""
+            print(f"\n  Done: {counts['ok']} OK, {counts['fail']} failed{tail}")
+            print(f"  Requests: {client.requests}")
+            code = wiki_client.run_exit_code(counts["fail"])
 
         elif args.all:
-            total_ok = total_fail = total_skipped = 0
+            counts = {"ok": 0, "fail": 0, "skipped": 0}
             for school, cat_name in SCHOOL_CATEGORY_MAP.items():
                 print(f"\n── {school} Spells ───────────────────")
                 spells = await client.list_spells_in_category(cat_name)
@@ -1976,30 +1924,31 @@ async def main():
                 )
                 note = f"  ({school_skipped} already fetched, skipping)" if school_skipped else ""
                 print(f"  {len(spells)} spells found{note}")
-                for sp in spells:
-                    if resume_skip and sp["name"].lower() in existing_names:
-                        total_skipped += 1
-                        continue
-                    try:
-                        ok = await fetch_spell(client, conn, sp["name"], sp["wiki_path"], force=args.force)
-                        if ok:
-                            total_ok += 1
-                        else:
-                            total_fail += 1
-                    except Exception as e:
-                        logger.error(f"Error: {sp['name']}: {e}")
-                        total_fail += 1
+                school_counts = {"ok": 0, "fail": 0, "skipped": 0}
+                await _fetch_list(client, conn, spells, existing_names, resume_skip,
+                                  args.force, wiki_client.Progress(len(spells)), school_counts)
+                for k in counts:
+                    counts[k] += school_counts[k]
             print(f"\n{'='*50}")
-            tail = f", {total_skipped} skipped" if total_skipped else ""
-            print(f"  TOTAL: {total_ok} OK, {total_fail} failed{tail}")
+            tail = f", {counts['skipped']} skipped" if counts["skipped"] else ""
+            print(f"  TOTAL: {counts['ok']} OK, {counts['fail']} failed{tail}")
+            print(f"  Requests: {client.requests}")
+            code = wiki_client.run_exit_code(counts["fail"])
 
         else:
             parser.print_help()
+            code = we.EXIT_USAGE
 
+    except WikiStop as e:
+        code = we.announce_stop(e)
     finally:
         await client.stop()
         conn.close()
+    return code
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    try:
+        sys.exit(asyncio.run(main()))
+    except KeyboardInterrupt:
+        sys.exit(we.EXIT_CANCELLED)

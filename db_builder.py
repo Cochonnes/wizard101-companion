@@ -1,8 +1,10 @@
 """
 W101 Boss Wiki - Database Builder (v3)
 ══════════════════════════════════════
-Opens real Chrome -> passes Cloudflare -> makes ALL API calls
-from INSIDE the browser via fetch(). No cookie extraction needed.
+Opens real Chrome -> user passes Cloudflare -> fetches from INSIDE the
+browser (wiki_client.py). Source is the Settings toggle or --source:
+  api    MediaWiki api.php (fast; currently answers 444 "Access Blocked")
+  pages  normal wiki pages + action=raw, slowly paced (~5 s per request)
 
 Chrome stays open during the entire build, then closes when done.
 This avoids:
@@ -54,7 +56,9 @@ except ImportError:
     NODRIVER_AVAILABLE = False
 
 import database as db
-import cf_alert
+import wiki_client
+import wiki_errors as we
+from wiki_errors import WikiFetchError, WikiStop
 
 logging.basicConfig(
     level=logging.INFO,
@@ -66,225 +70,47 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-API_URL = "https://wiki.wizard101central.com/wiki/api.php"
-WIKI_BASE = "https://wiki.wizard101central.com/wiki/"
+WIKI_BASE = wiki_client.WIKI_BASE
 
 
 # ═══════════════════════════════════════════════════════════════
-# BROWSER-BASED API CLIENT
-# All API calls happen inside Chrome via fetch() - same session,
-# same cookies, same TLS fingerprint. Cloudflare never notices.
+# WIKI CLIENT  (shared with spell_scraper.py — see wiki_client.py)
+# Source (API vs slow page fetch) comes from the Settings toggle or
+# --source. Blocks raise WikiStop → the run stops with an exit code.
 # ═══════════════════════════════════════════════════════════════
 
-class BrowserAPIClient:
-    """
-    Uses a real Chrome browser (via nodriver) to make MediaWiki API calls.
-    The browser passes Cloudflare, then we call fetch() from JS.
-    """
+class BossWikiClient(wiki_client.WikiClient):
+    """Boss-page helpers on top of the shared client."""
 
-    def __init__(self):
-        self.browser = None
-        self.page = None
-        self._request_count = 0
-        # Alerts the parent GUI (via a stdout marker) when the Cloudflare
-        # "verify you are human" checkbox appears and needs a manual click.
-        self._cf_notifier = cf_alert.ChallengeNotifier()
-
-    async def start(self):
-        """Launch Chrome and pass Cloudflare."""
-        print("\n  Opening Chrome to solve Cloudflare challenge...")
-        print("  (a Chrome window will appear - this is normal)\n")
-
-        self.browser = await uc.start(headless=False)
-        self.page = await self.browser.get(WIKI_BASE + "Wizard101_Wiki")
-
-        # Wait for Cloudflare to resolve
-        print("  Waiting for Cloudflare challenge to resolve...")
-        for i in range(60):
-            await asyncio.sleep(1)
-            try:
-                title = await self.page.evaluate("document.title")
-                if "wizard101" in title.lower() or "wiki" in title.lower():
-                    print(f"  [OK] Cloudflare passed! Page: {title[:60]}")
-                    self._cf_notifier.reset()
-                    break
-                # Still on the challenge → alert the GUI (throttled).
-                # Title-only: do NOT probe the page or Turnstile loops forever.
-                self._cf_notifier.note(cf_alert.title_indicates_challenge(title))
-                if i > 0 and i % 5 == 0:
-                    print(f"  ... still waiting ({i}s)")
-            except Exception:
-                pass
-        else:
-            print("  [WARN] Timeout - trying anyway...")
-
-        await asyncio.sleep(2)  # Let cookies settle
-        print("  [OK] Browser ready for API calls\n")
-
-    async def stop(self):
-        """Close browser."""
-        if self.browser:
-            self.browser.stop()
-            self.browser = None
-            self.page = None
-
-    async def api_get(self, params: dict, _retry: int = 0) -> Optional[dict]:
-        """
-        Make an API call using synchronous XMLHttpRequest inside the browser.
-        If we get 403, re-visit the wiki to refresh Cloudflare session, then retry.
-        """
-        if not self.page:
-            return None
-
-        self._request_count += 1
-        params['format'] = 'json'
-        query_string = urlencode(params)
-        url = f"{API_URL}?{query_string}"
-
-        await asyncio.sleep(0.3)
-
-        try:
-            result = await self.page.evaluate("""
-                (() => {
-                    try {
-                        const xhr = new XMLHttpRequest();
-                        xhr.open("GET", "%s", false);
-                        xhr.send();
-                        if (xhr.status === 200) {
-                            return xhr.responseText;
-                        } else {
-                            return JSON.stringify({error: xhr.status});
-                        }
-                    } catch(e) {
-                        return JSON.stringify({error: e.message});
-                    }
-                })()
-            """ % url.replace('"', '\\"'))
-
-            if not result:
-                return None
-
-            data = json.loads(result)
-            if 'error' in data and isinstance(data['error'], (int, str)):
-                error_val = data['error']
-                # 403 = Cloudflare session expired, try to refresh
-                if error_val == 403 and _retry < 2:
-                    logger.warning(f"Got 403 - refreshing Cloudflare session (attempt {_retry + 1})...")
-                    print(f"  [WARN] 403 detected - refreshing session...")
-                    await self._refresh_session()
-                    return await self.api_get(params, _retry=_retry + 1)
-                logger.warning(f"API error: {error_val}")
-                return None
-            return data
-
-        except Exception as e:
-            logger.debug(f"XHR failed ({e}), trying navigation fallback...")
-            try:
-                await self.page.get(url)
-                await asyncio.sleep(0.8)
-                body_text = await self.page.evaluate("""
-                    (() => {
-                        const pre = document.querySelector('pre');
-                        if (pre) return pre.textContent;
-                        return document.body ? document.body.innerText : '';
-                    })()
-                """)
-                if body_text:
-                    return json.loads(body_text.strip())
-            except Exception as e2:
-                logger.error(f"Navigation fallback also failed: {e2}")
-            return None
-
-    async def _refresh_session(self):
-        """Re-visit the wiki to refresh the Cloudflare cf_clearance cookie."""
-        try:
-            await self.page.get(WIKI_BASE + "Wizard101_Wiki")
-            # Wait for Cloudflare to resolve again
-            for i in range(30):
-                await asyncio.sleep(1)
-                try:
-                    title = await self.page.evaluate("document.title")
-                    if "wizard101" in title.lower() or "wiki" in title.lower():
-                        print(f"  [OK] Session refreshed!")
-                        self._cf_notifier.reset()
-                        await asyncio.sleep(2)
-                        return
-                    # Challenge re-appeared mid-run → alert the GUI (throttled).
-                    self._cf_notifier.note(cf_alert.title_indicates_challenge(title))
-                except Exception:
-                    pass
-            print("  [WARN] Session refresh timed out")
-        except Exception as e:
-            logger.error(f"Session refresh failed: {e}")
-
-    async def test_connection(self) -> bool:
-        """Verify the API works from inside the browser."""
-        print("  Testing API call...")
-        result = await self.api_get({'action': 'query', 'meta': 'siteinfo', 'siprop': 'general'})
-        if result and 'query' in result:
-            sitename = result['query']['general'].get('sitename', '?')
-            print(f"  [OK] API accessible! Site: {sitename}")
-            return True
-        if result:
-            print(f"  [FAIL] API returned unexpected data: {str(result)[:200]}")
-        else:
-            print("  [FAIL] API returned nothing")
-        return False
+    async def fetch_boss_wikitext(self, wiki_path: str, name: str = "") -> Optional[str]:
+        """Boss wikitext; in page fetch, rebuilt from the page if action=raw is challenged."""
+        return await self.fetch_page_wikitext(
+            wiki_path, lambda html: html_to_creature_wikitext(html, name))
 
     async def list_all_bosses(self) -> List[Dict]:
-        """List all boss pages from Category:Boss + subcategories."""
-        all_bosses = []
+        """List all boss pages from Category:Boss + its Boss subcategories."""
+        all_bosses: List[Dict] = []
         seen = set()
 
-        # Direct members
-        await self._list_category(all_bosses, seen, 'Category:Boss')
-
-        # Subcategories
-        result = await self.api_get({
-            'action': 'query', 'list': 'categorymembers',
-            'cmtitle': 'Category:Boss', 'cmlimit': '500', 'cmtype': 'subcat',
-        })
-        if result and 'query' in result:
-            for subcat in result['query'].get('categorymembers', []):
-                title = subcat.get('title', '')
-                if 'Boss' in title:
-                    print(f"  Scanning subcategory: {title}")
-                    await self._list_category(all_bosses, seen, title)
-
-        return all_bosses
-
-    async def _list_category(self, results, seen, category):
-        params = {
-            'action': 'query', 'list': 'categorymembers',
-            'cmtitle': category, 'cmlimit': '500',
-            'cmtype': 'page', 'cmprop': 'title|ids',
-        }
-        while True:
-            result = await self.api_get(params)
-            if not result or 'query' not in result:
-                break
-            for m in result['query'].get('categorymembers', []):
-                title = m.get('title', '')
-                if title.startswith('Creature:') and title not in seen:
-                    seen.add(title)
-                    results.append({
-                        'name': title.replace('Creature:', '').replace('_', ' '),
-                        'wiki_path': title,
+        def add(titles):
+            for t in titles:
+                if t not in seen:
+                    seen.add(t)
+                    all_bosses.append({
+                        'name': t.replace('Creature:', '').replace('_', ' '),
+                        'wiki_path': t,
                     })
-            print(f"    {category}: {len(results)} total bosses")
-            if 'continue' in result:
-                params['cmcontinue'] = result['continue']['cmcontinue']
-            else:
-                break
 
-    async def fetch_wikitext(self, wiki_path: str) -> Optional[str]:
-        """Get raw wikitext for a page."""
-        result = await self.api_get({
-            'action': 'parse', 'page': wiki_path, 'prop': 'wikitext',
-        })
-        if result and 'parse' in result:
-            return result['parse']['wikitext'].get('*', '')
-        return None
+        pages, subcats = await self.list_category('Category:Boss', 'Creature:', subcats=True)
+        add(pages)
+        print(f"    Category:Boss: {len(all_bosses)} total bosses")
+        for sub in subcats:
+            if 'Boss' in sub:
+                print(f"  Scanning subcategory: {sub}")
+                pages, _ = await self.list_category(sub, 'Creature:')
+                add(pages)
+                print(f"    {sub}: {len(all_bosses)} total bosses")
+        return all_bosses
 
 
 # ═══════════════════════════════════════════════════════════════
@@ -642,6 +468,260 @@ class WikitextParser:
 
 
 # ═══════════════════════════════════════════════════════════════
+# PAGE HTML → CreatureInfobox  (page-fetch mode)
+# The wiki challenges action=raw on every request, so in page-fetch mode
+# the infobox is rebuilt from the rendered page and handed to the
+# unchanged WikitextParser — including the cheat-notes logic, which works
+# on wiki markup. Rendered lists map back to that markup 1:1:
+#   <ul><li> → *   <dl><dd> → :   <b> → '''   <i> → ''   icon <img> → {{Icon|X}}
+# ═══════════════════════════════════════════════════════════════
+
+FROM_HTML_MARKER = "<!-- w101c: rebuilt from page HTML (action=raw unavailable) -->"
+
+_BLOCK_TAGS = {'p', 'div', 'ul', 'ol', 'dl', 'hr', 'table', 'h2', 'h3', 'h4'}
+
+# Icons that only decorate a stat row ("195 [Any][Critical]" → "195 Any;").
+_DECOR_ICONS = {
+    'resistance', 'damage', 'armor piercing', 'critical', 'critical block',
+    'incoming', 'outgoing', 'healing', 'shadow pip', 'pip', 'power pip',
+    'accuracy', 'stun resist', 'pierce', 'boost',
+}
+
+# Infobox row label → CreatureInfobox field (single-value rows).
+_ROW_FIELDS = {
+    'health': 'heal', 'stunable': 'stunable', 'beguilable': 'beguilable',
+    'cheats': 'cheats', 'stun resist': 'stunresist',
+}
+# Rows written as "<value> <school>;" groups (see _stat_groups).
+_GROUP_FIELDS = {
+    'critical rating': 'critical', 'critical block rating': 'criticalblock',
+    'outgoing pierce': 'outpierce', 'outgoing boost': 'outboost',
+    'incoming boost': 'incboost', 'incoming resist': 'incresist',
+    'outgoing healing': 'outhealing', 'incoming healing': 'inchealing',
+}
+# Drop-category heading → CreatureInfobox field (WikitextParser._collect_drops).
+_DROP_FIELDS = {
+    'hats': 'hats', 'robes': 'robes', 'boots': 'boots', 'athames': 'athames',
+    'amulets': 'amulets', 'rings': 'rings', 'wands': 'wands', 'decks': 'decks',
+    'housing items': 'items', 'items': 'items', 'treasure cards': 'cards',
+    'cards': 'cards', 'reagents': 'reagents', 'spellements': 'spellements',
+    'snacks': 'snacks', 'jewels': 'jewels', 'pins': 'pins', 'pets': 'pets',
+    'seeds': 'seeds', 'mounts': 'mounts', 'spells': 'spells',
+}
+
+
+def _icon_alt(img) -> str:
+    """Icon name from an <img>: "Fire", or "(Icon) Fire.png" → "Fire"."""
+    alt = (img.get('alt') or '').strip()
+    m = re.match(r'^\(Icon\)\s*(.+?)(?:\.png)?$', alt, re.I)
+    return m.group(1).strip() if m else alt
+
+
+def _inline_wikitext(node) -> str:
+    """Inline HTML → wiki markup (text, bold, italic, icons; links → text)."""
+    if isinstance(node, str):          # NavigableString
+        return str(node)
+    name = node.name
+    if name == 'img':
+        # Only "(Icon) X.png" images were {{Icon|X}}; spell cards etc. were
+        # [[File:...]] embeds that WikitextParser._clean drops anyway.
+        alt = _icon_alt(node)
+        src = node.get('src') or ''
+        if alt and ('%28Icon%29' in src or '(Icon)' in src):
+            return f"{{{{Icon|{alt}}}}}"
+        return ''
+    if name == 'br':
+        return ' '
+    if name in ('style', 'script'):
+        return ''
+    inner = ''.join(_inline_wikitext(c) for c in node.children)
+    if name in ('b', 'strong') and inner.strip():
+        return f"'''{inner}'''"
+    if name in ('i', 'em') and inner.strip():
+        return f"''{inner}''"
+    return inner
+
+
+def _html_block_to_wikitext(container, skip_heading: bool = True) -> str:
+    """Rendered block (paragraphs + nested lists) → wikitext lines."""
+    lines: List[str] = []
+    buf: List[str] = []
+
+    def emit(prefix: str, parts: List[str]):
+        text = ''.join(parts)
+        for ln in text.split('\n'):
+            ln = re.sub(r'[ \t]+', ' ', ln).strip()
+            if ln:
+                lines.append(prefix + ln)
+
+    def walk_item(item, prefix: str):
+        parts: List[str] = []
+        for c in item.children:
+            if getattr(c, 'name', None) in ('ul', 'ol', 'dl'):
+                emit(prefix, parts)
+                parts = []
+                walk_list(c, prefix)
+            else:
+                parts.append(_inline_wikitext(c).replace('\n', ' '))
+        emit(prefix, parts)
+
+    def walk_list(lst, prefix: str):
+        mark = {'ul': '*', 'ol': '#', 'dl': ':'}[lst.name]
+        for li in lst.find_all(['li', 'dd', 'dt'], recursive=False):
+            walk_item(li, prefix + (';' if li.name == 'dt' else mark))
+
+    def walk(node):
+        nonlocal buf
+        for c in node.children:
+            name = getattr(c, 'name', None)
+            if name is None or name not in _BLOCK_TAGS:
+                buf.append(_inline_wikitext(c))
+                continue
+            emit('', buf)
+            buf = []
+            if skip_heading and 'infobox-plain-heading' in (c.get('class') or []):
+                continue
+            if name in ('ul', 'ol', 'dl'):
+                walk_list(c, '')
+            elif name == 'p':
+                emit('', [_inline_wikitext(x) for x in c.children])
+            elif name == 'div':
+                walk(c)
+        emit('', buf)
+        buf = []
+
+    walk(container)
+    return '\n'.join(lines)
+
+
+def _stat_groups(td) -> str:
+    """
+    "25% to [Fire][Ice] 75% to [Storm] [Resistance]" →
+    "25% Fire, Ice;\\n75% Storm;" — the CreatureInfobox list format that
+    WikitextParser._parse_pct and the battle-stat display expect.
+    """
+    groups: List[list] = []
+    for c in td.descendants:
+        if isinstance(c, str):
+            for num in re.findall(r'-?\d[\d,]*%?|None', str(c)):
+                groups.append([num, []])
+        elif c.name == 'img':
+            alt = _icon_alt(c)
+            if alt and alt.lower() not in _DECOR_ICONS and groups:
+                groups[-1][1].append(alt)
+    out = []
+    for num, schools in groups:
+        out.append(f"{num} {', '.join(schools)};" if schools else f"{num};")
+    return '\n'.join(out)
+
+
+def _container_by_heading(soup, heading: str):
+    for p in soup.find_all(class_='infobox-plain-heading'):
+        if p.get_text(' ', strip=True).lower() == heading:
+            return p.parent
+    return None
+
+
+def html_to_creature_wikitext(html: str, name: str = '') -> Optional[str]:
+    """
+    Rebuild a ``{{CreatureInfobox}}`` from a rendered Creature: page so
+    WikitextParser.parse_boss can read it unchanged. None when the page
+    has no creature infobox.
+    """
+    if not html:
+        return None
+    soup = BeautifulSoup(html, 'html.parser')
+    box = soup.find('table', class_='infobox')
+    if box is None:
+        return None
+
+    f: Dict[str, str] = {}
+    section = ''
+    for tr in box.find_all('tr'):
+        tds = tr.find_all(['td', 'th'], recursive=False)
+        if len(tds) == 1:
+            if 'infobox-header' in (tr.get('class') or []):
+                section = tds[0].get_text(' ', strip=True).lower()
+            continue
+        if len(tds) != 2:
+            continue
+        label = tds[0].get_text(' ', strip=True)
+        low = label.lower()
+        td = tds[1]
+        text = td.get_text(' ', strip=True)
+        alts = [_icon_alt(i) for i in td.find_all('img')]
+        links = [a.get_text(' ', strip=True) for a in td.find_all('a') if a.get_text(strip=True)]
+
+        if section == 'location':
+            f['world'] = label
+            parts = [p.strip() for p in text.split(' - ') if p.strip()]
+            for key, val in zip(('location', 'subloc1', 'subloc2', 'subloc3'), parts):
+                f[key] = val
+        elif section == 'allies' and low in ('minion', 'minions', 'summon', 'summons'):
+            key = 'minions' if low.startswith('minion') else 'summons'
+            f[key] = ''.join(f"{n};" for n in (links or [text]))
+        elif low == 'rank':
+            m = re.match(r'(\d+)\s*(.*)', text)
+            f['rank'] = m.group(1) if m else text
+            if m and m.group(2):
+                f['cretype'] = m.group(2)
+        elif low == 'classification':
+            for key, val in zip(('crecla', 'crecla2'), [p.strip() for p in text.split('/')]):
+                f[key] = val
+        elif low == 'school':
+            f['school'] = alts[0] if alts else text
+        elif low == 'masteries':
+            f['masteries'] = ''.join(f"{a};" for a in alts)
+        elif low == 'shadow pips':
+            f['shadowslots'] = text.split()[0] if text else ''
+        elif low == 'starting pips':
+            f['startpips'] = text.split()[0] if text else ''
+            f['powerpips'] = 'Yes' if any('power pip' in a.lower() for a in alts) else 'No'
+        elif low == 'school pips':
+            f['schoolpips'] = '\n'.join(f"{re.sub(r' School Pip$', '', a)};" for a in alts)
+        elif low == 'natural attack':
+            f['naturalattack'] = ', '.join(a for a in alts if a) or text
+        elif low in _GROUP_FIELDS:
+            f[_GROUP_FIELDS[low]] = _stat_groups(td)
+        elif low in _ROW_FIELDS:
+            f[_ROW_FIELDS[low]] = text
+
+    # Description (Speech lives in the same box but is its own field)
+    desc = _container_by_heading(soup, 'description')
+    if desc is not None:
+        text = _html_block_to_wikitext(desc)
+        f['descrip'] = re.split(r"^'''Speech:'''", text, flags=re.M)[0].strip()
+    cheats = _container_by_heading(soup, 'cheats')
+    if cheats is not None:
+        f['cheatnotes'] = _html_block_to_wikitext(cheats)
+    notes = _container_by_heading(soup, 'spell notes')
+    if notes is not None:
+        f['spellnotes'] = _html_block_to_wikitext(notes)
+
+    casts = soup.find(class_='cast-list')
+    if casts is not None:
+        names = [a.get('title') or (a.img.get('alt') if a.img else '') for a in casts.find_all('a')]
+        f['casts'] = '\n'.join(f"{n};" for n in names if n)
+
+    for cat in soup.select('div.drop-category'):
+        head = cat.find(class_='infobox-plain-heading')
+        field = _DROP_FIELDS.get(head.get_text(' ', strip=True).lower()) if head else None
+        if not field:
+            continue
+        items = [a.get_text(' ', strip=True) for a in cat.find_all('a')
+                 if a.get_text(strip=True) and not (a.get('href') or '').startswith('/wiki/Category:')]
+        if items:
+            f[field] = '\n'.join(f"{i};" for i in items)
+
+    if not (f.get('rank') or f.get('heal') or f.get('school')):
+        return None
+    # A literal "|" in page text would split the template field; the only
+    # pipes allowed through are the ones inside our own {{Icon|X}}.
+    body = '\n'.join(f"| {k} = {re.sub(r'(?<!{{Icon)[|]', '/', v)}" for k, v in f.items())
+    return f"{FROM_HTML_MARKER}\n{{{{CreatureInfobox\n{body}\n}}}}\n"
+
+
+# ═══════════════════════════════════════════════════════════════
 # OFFLINE MODE
 # ═══════════════════════════════════════════════════════════════
 
@@ -694,46 +774,47 @@ def _safe_print(*args, **kwargs):
         print(safe, **{k: v for k, v in kwargs.items() if k != "end"})
 
 
-async def async_build(conn, test_boss=None, resume=False):
-    client = BrowserAPIClient()
+async def async_build(conn, test_boss=None, resume=False, source=None) -> int:
+    """Returns a process exit code (wiki_errors.EXIT_*)."""
+    client = BossWikiClient(source)
+    cache_dir = Path("wikitext_cache")
+    cache_dir.mkdir(exist_ok=True)
 
     try:
-        # Step 1: Launch browser, pass Cloudflare
+        # Step 1: Launch browser, user passes Cloudflare, check the source
         print("=" * 60)
-        print("  STEP 1: Bypassing Cloudflare")
+        print("  STEP 1: Opening the wiki in Chrome")
         print("=" * 60)
         await client.start()
-
-        # Step 2: Test API
-        print("=" * 60)
-        print("  STEP 2: Testing MediaWiki API (via browser fetch)")
-        print("=" * 60)
-        if not await client.test_connection():
-            print("\n  [FAIL] API not working. Try running again.")
-            return
 
         # Test mode
         if test_boss:
             _safe_print(f"\n  Fetching: {test_boss}")
-            wt = await client.fetch_wikitext(f"Creature:{test_boss.replace(' ', '_')}")
+            try:
+                wt = await client.fetch_boss_wikitext(f"Creature:{test_boss.replace(' ', '_')}",
+                                                      test_boss)
+            except WikiStop:
+                raise
+            except WikiFetchError as e:
+                _safe_print(f"  [FAIL:{e.code}] {test_boss}  ({e})")
+                return we.EXIT_PARTIAL
             if wt:
-                cache_dir = Path("wikitext_cache")
-                cache_dir.mkdir(exist_ok=True)
                 dump_path = cache_dir / f"{test_boss.replace(' ', '_')}.txt"
                 dump_path.write_text(wt, encoding='utf-8')
-                print(f"  (raw wikitext saved to {dump_path})")
+                src = "infobox rebuilt from page HTML" if wt.startswith(FROM_HTML_MARKER)                     else "raw wikitext"
+                print(f"  ({src} saved to {dump_path})")
 
                 data = WikitextParser.parse_boss(wt, test_boss)
                 db.upsert_boss(conn, data)
                 conn.commit()
                 _safe_print(f"  [OK] {test_boss}")
-            else:
-                _safe_print(f"  [FAIL] {test_boss}")
-            return
+                return we.EXIT_OK
+            _safe_print(f"  [FAIL] {test_boss}")
+            return we.EXIT_PARTIAL
 
         # Full build
         print("\n" + "=" * 60)
-        print("  STEP 3: Discovering all boss pages")
+        print("  STEP 2: Discovering all boss pages")
         print("=" * 60)
 
         boss_list = await client.list_all_bosses()
@@ -741,15 +822,12 @@ async def async_build(conn, test_boss=None, resume=False):
 
         if not boss_list:
             print("  No bosses found - something went wrong.")
-            return
+            return we.EXIT_PARTIAL
 
         print("=" * 60)
-        print(f"  STEP 4: Fetching {len(boss_list)} boss pages")
+        print(f"  STEP 3: Fetching {len(boss_list)} boss pages")
         print("=" * 60)
-        print("  (Chrome stays open during this - don't close it!)\n")
-
-        cache_dir = Path("wikitext_cache")
-        cache_dir.mkdir(exist_ok=True)
+        print("  (Chrome stays open during this - do not close it!)\n")
 
         # Resume: preload existing boss names (lowercased) so we can skip in O(1)
         # everything already fetched, letting an interrupted build continue from
@@ -760,8 +838,9 @@ async def async_build(conn, test_boss=None, resume=False):
             print(f"  Resume ON — {len(existing_names)} bosses already in DB "
                   f"will be skipped.\n")
 
-        success = errors = skipped = 0
+        success = errors = skipped = cached = 0
         start_time = time.time()
+        progress = wiki_client.Progress(len(boss_list))
 
         for i, info in enumerate(boss_list):
             name = info['name']
@@ -778,25 +857,41 @@ async def async_build(conn, test_boss=None, resume=False):
                 skipped += 1
                 continue
 
+            safe_name = re.sub(r'[<>:"/\\|?*]', '_', name)
+            cache_file = cache_dir / f"{safe_name}.txt"
             try:
-                wt = await client.fetch_wikitext(wiki_path)
+                # Page fetch is slow, so it is cache-first: anything already in
+                # wikitext_cache/ is parsed from disk, never fetched again.
+                if client.is_pages and cache_file.exists():
+                    wt = cache_file.read_text(encoding='utf-8', errors='replace')
+                    cached += 1
+                else:
+                    wt = await client.fetch_boss_wikitext(wiki_path, name)
                 if wt:
                     data = WikitextParser.parse_boss(wt, name)
                     data['wiki_path'] = wiki_path
                     db.upsert_boss(conn, data)
-                    safe_name = re.sub(r'[<>:"/\\|?*]', '_', name)
-                    (cache_dir / f"{safe_name}.txt").write_text(wt, encoding='utf-8')
+                    cache_file.write_text(wt, encoding='utf-8')
                     success += 1
                     _safe_print(f"  [OK]   {name}")
                 else:
                     errors += 1
                     _safe_print(f"  [FAIL] {name}")
+            except WikiStop:
+                raise
+            except WikiFetchError as e:
+                errors += 1
+                logger.error(f"{e.code}: {name}: {e}")
+                _safe_print(f"  [FAIL:{e.code}] {name}  ({e})")
             except Exception as e:
                 errors += 1
                 logger.error(f"Error: {name}: {e}")
                 _safe_print(f"  [ERR]  {name}  ({e})")
 
-            if (i + 1) % 25 == 0:
+            if client.is_pages:
+                conn.commit()  # each page is expensive — never lose one
+                _safe_print(progress.line(skipped))
+            elif (i + 1) % 25 == 0:
                 conn.commit()
                 elapsed = time.time() - start_time
                 rate = (i + 1) / elapsed if elapsed > 0 else 0
@@ -806,28 +901,34 @@ async def async_build(conn, test_boss=None, resume=False):
         elapsed = time.time() - start_time
 
         print(f"\n  [DONE] Finished in {elapsed/60:.1f} minutes")
-        print(f"    Succeeded : {success}")
+        print(f"    Succeeded : {success}" + (f" ({cached} from wikitext_cache)" if cached else ""))
         print(f"    Failed    : {errors}")
         print(f"    Skipped   : {skipped} (already up to date)")
         print(f"    Total DB  : {len(db.get_boss_names(conn))} bosses")
+        print(f"    Requests  : {client.requests}")
+        return wiki_client.run_exit_code(errors)
 
+    except WikiStop as e:
+        conn.commit()  # keep everything fetched before the stop
+        return we.announce_stop(e)
     finally:
         await client.stop()
 
 
-def build_via_browser(conn, test_boss=None, resume=False):
-    """Sync wrapper for the async build."""
+def build_via_browser(conn, test_boss=None, resume=False, source=None) -> int:
+    """Sync wrapper for the async build. Returns a process exit code."""
     if not NODRIVER_AVAILABLE:
         print("\n  nodriver NOT INSTALLED")
         print("  Install: pip install nodriver")
         print("  You also need Chrome installed.")
         print("\n  Alternative: python db_builder.py --offline ./saved_pages")
-        return
+        return we.EXIT_NODRIVER_MISSING
     # nodriver needs its own event loop management
-    uc.loop().run_until_complete(async_build(conn, test_boss, resume=resume))
+    return uc.loop().run_until_complete(
+        async_build(conn, test_boss, resume=resume, source=source))
 
 
-def main():
+def main() -> int:
     parser = argparse.ArgumentParser(
         description='W101 Boss Wiki - Database Builder',
         formatter_class=argparse.RawDescriptionHelpFormatter,
@@ -836,25 +937,38 @@ Examples:
   python db_builder.py --test Satharilith
   python db_builder.py --test "Lord Nightshade"
   python db_builder.py                      # Full build (~1850 bosses)
+  python db_builder.py --source pages       # Full build via slow page fetch
   python db_builder.py --offline ./pages    # Parse saved files
+
+Exit codes (wiki_errors.py): 0 OK, 1 some items failed, 3 nodriver missing,
+10 checkbox not clicked, 11 blocked, 12 rate-limited, 13 no response,
+14 robots.txt, 15 API unavailable, 16 unexpected page,
+17 challenged on every request, 130 cancelled
         """
     )
     parser.add_argument('--offline', type=str, help='Path to folder with saved HTML files')
     parser.add_argument('--test', type=str, help='Test fetch a single boss by name')
     parser.add_argument('--resume', action='store_true',
                         help='Skip bosses already in the database (resume an interrupted build)')
+    wiki_client.add_source_argument(parser)
     args = parser.parse_args()
 
     conn = db.get_connection()
     db.init_db(conn)
 
-    if args.offline:
-        build_offline(args.offline, conn)
-    else:
-        build_via_browser(conn, test_boss=args.test, resume=args.resume)
-
-    conn.close()
+    code = we.EXIT_OK
+    try:
+        if args.offline:
+            build_offline(args.offline, conn)
+        else:
+            code = build_via_browser(conn, test_boss=args.test, resume=args.resume,
+                                     source=args.source)
+    except KeyboardInterrupt:
+        code = we.EXIT_CANCELLED
+    finally:
+        conn.close()
+    return code
 
 
 if __name__ == '__main__':
-    main()
+    sys.exit(main())
