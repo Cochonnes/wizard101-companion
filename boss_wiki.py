@@ -2573,6 +2573,103 @@ class _IconPresetDialog(QDialog):
             "image_path": self._img_path,
         }
 
+# ── Git update helpers (startup check, Update button and auto-update) ──────
+# Each takes ``run(args, timeout=...) -> (rc, stdout, stderr)`` running git in
+# the app folder, and assumes ``git fetch origin`` has just run.
+#
+# Compares against origin/<branch> by ahead/behind counts — not "HEAD differs
+# from FETCH_HEAD", which reported an update forever once the local history
+# had diverged (the old last-resort update rewrote the files but never moved
+# HEAD), and also flagged a repo that was merely *ahead* of GitHub.
+
+def _git_default_branch(run) -> str:
+    rc, out, _ = run(["symbolic-ref", "--short", "refs/remotes/origin/HEAD"], timeout=15)
+    if rc == 0 and out.startswith("origin/"):
+        return out.split("/", 1)[1]
+    rc, out, _ = run(["branch", "-r"], timeout=15)
+    if "origin/master" in out and "origin/main" not in out:
+        return "master"
+    return "main"
+
+
+def _git_update_state(run, branch: str) -> dict:
+    """
+    Where HEAD stands relative to origin/<branch>:
+    {local, remote, ahead, behind, files_match} or {error}.
+    files_match: the tracked files on disk already equal the remote commit.
+    """
+    remote = f"origin/{branch}"
+    rc_l, local, _ = run(["rev-parse", "HEAD"], timeout=15)
+    rc_r, remote_sha, _ = run(["rev-parse", remote], timeout=15)
+    if rc_l != 0 or rc_r != 0:
+        return {"error": "could not read revisions"}
+    rc, out, _ = run(["rev-list", "--left-right", "--count", f"HEAD...{remote}"], timeout=30)
+    try:
+        ahead, behind = (int(x) for x in out.split())
+    except ValueError:
+        return {"error": f"could not compare revisions: {out}"}
+    files_match = run(["diff", "--quiet", remote, "--"], timeout=60)[0] == 0
+    return {"local": local, "remote": remote_sha, "ahead": ahead,
+            "behind": behind, "files_match": files_match}
+
+
+def _git_backup_branch(run) -> str:
+    """Keep the current HEAD reachable before moving the branch away from it."""
+    name = time.strftime("backup/pre-update-%Y%m%d-%H%M%S")
+    return name if run(["branch", name, "HEAD"], timeout=15)[0] == 0 else ""
+
+
+def _git_repair_stuck(run, branch: str, state: dict) -> bool:
+    """
+    The files already match GitHub but HEAD sits on an old/diverged commit
+    (left behind by the old update fallback): point the branch at
+    origin/<branch> without touching any file. Returns True if repaired.
+    """
+    if not state.get("behind") or not state.get("files_match"):
+        return False
+    if state.get("ahead"):
+        _git_backup_branch(run)
+    return run(["reset", "--mixed", f"origin/{branch}"], timeout=60)[0] == 0
+
+
+def _git_apply_update(run, branch: str):
+    """
+    Bring the app folder to origin/<branch>. Returns (ok, message).
+
+    Fast-forward when possible. Otherwise (diverged history, or a merge
+    blocked by a locked file) write the remote files with ``checkout -- .``
+    — which avoids unlinking locked files — and then move HEAD there with
+    ``reset --mixed`` so the next check sees the update as done. Local
+    commits that GitHub doesn't have are kept on a backup/pre-update-* branch.
+    Only *tracked* edits are stashed: untracked files (exports, backups the
+    user saved in the folder) are never swept into a stash.
+    """
+    remote = f"origin/{branch}"
+    state = _git_update_state(run, branch)
+    if "error" in state:
+        return False, state["error"]
+    if not state["behind"]:
+        return True, "already up to date"
+    notes = []
+    rc, dirty, _ = run(["status", "--porcelain", "--untracked-files=no"], timeout=30)
+    if rc == 0 and dirty:
+        if run(["stash", "push", "-m", "w101c auto-update: local edits"], timeout=60)[0] == 0:
+            notes.append("your edited app files were stashed (git stash list)")
+    if not state["ahead"] and run(["merge", "--ff-only", remote], timeout=120)[0] == 0:
+        return True, "; ".join(notes)
+    if state["ahead"]:
+        backup = _git_backup_branch(run)
+        if backup:
+            notes.append(f"{state['ahead']} local commit(s) kept on branch {backup}")
+    rc, _, err = run(["checkout", remote, "--", "."], timeout=120)
+    if rc != 0:
+        return False, err or "could not write the new files"
+    rc, _, err = run(["reset", "--mixed", remote], timeout=60)
+    if rc != 0:
+        return False, err or "files updated, but the version marker could not be moved"
+    return True, "; ".join(notes)
+
+
 class _GitUpdateWorker(QThread):
     """
     Runs git operations off the UI thread.
@@ -2623,25 +2720,20 @@ class _GitUpdateWorker(QThread):
         rc, _, err = self._run(["fetch", "--quiet", "origin"], timeout=90)
         if rc != 0:
             return False, "", "", err or "fetch failed"
-        rc_l, local_sha, _ = self._run(["rev-parse", "HEAD"], timeout=15)
-        rc_r, remote_sha, _ = self._run(["rev-parse", "FETCH_HEAD"], timeout=15)
-        if rc_l != 0 or rc_r != 0:
-            return False, "", "", "could not read revisions"
-        return (local_sha != remote_sha), local_sha, remote_sha, ""
+        branch = _git_default_branch(self._run)
+        state = _git_update_state(self._run, branch)
+        if "error" in state:
+            return False, "", "", state["error"]
+        if _git_repair_stuck(self._run, branch, state):
+            return False, state["remote"], state["remote"], ""
+        return state["behind"] > 0, state["local"], state["remote"], ""
 
     def _do_pull(self):
-        rc, _, err = self._run(["pull", "--ff-only", "origin"], timeout=120)
-        if rc == 0:
-            return True, ""
-        # Stash local changes, retry
-        self._run(["stash", "--include-untracked"], timeout=60)
-        rc, _, err = self._run(["pull", "--ff-only", "origin"], timeout=120)
-        if rc == 0:
-            return True, ""
-        # Last resort: fetch + checkout
-        self._run(["fetch", "origin"], timeout=120)
-        rc, _, err = self._run(["checkout", "FETCH_HEAD", "--", "."], timeout=120)
-        return (rc == 0), (err if rc != 0 else "")
+        rc, _, err = self._run(["fetch", "--quiet", "origin"], timeout=120)
+        if rc != 0:
+            return False, err or "fetch failed"
+        ok, msg = _git_apply_update(self._run, _git_default_branch(self._run))
+        return ok, ("" if ok else msg)
 
 
 class BossWikiApp(QMainWindow):
@@ -4370,26 +4462,22 @@ class BossWikiApp(QMainWindow):
         # If button says "Update", user already confirmed — apply it
         if getattr(self, '_update_ready', False):
             _set_status("⏳ Downloading update…", "#888")
-
-            # First try clean pull
-            rc, out, err = _run([git_exe, "pull", "--ff-only", "origin"], timeout=60)
+            git = lambda args, timeout=60: _run([git_exe] + args, timeout=timeout)
+            rc, _, err = git(["fetch", "--quiet", "origin"], timeout=120)
             if rc != 0:
-                # Stash any local changes, then pull
-                _set_status("⏳ Stashing local changes and retrying…", "#888")
-                _run([git_exe, "stash", "--include-untracked"])
-                rc, out, err = _run([git_exe, "pull", "--ff-only", "origin"], timeout=60)
-                if rc != 0:
-                    # Last resort: fetch + checkout
-                    _set_status("⏳ Fetching and checking out latest…", "#888")
-                    _run([git_exe, "fetch", "origin"], timeout=60)
-                    rc, _, err = _run([git_exe, "checkout", "FETCH_HEAD", "--", "."], timeout=60)
-                    if rc != 0:
-                        _set_status(f"❌ Update failed.\n{err}", "#e94560")
-                        self._update_btn.setEnabled(True)
-                        return
+                _set_status(f"❌ Could not reach GitHub — check your internet.\n{err}",
+                            "#e94560")
+                self._update_btn.setEnabled(True)
+                return
+            ok, note = _git_apply_update(git, _git_default_branch(git))
+            if not ok:
+                _set_status(f"❌ Update failed.\n{note}", "#e94560")
+                self._update_btn.setEnabled(True)
+                return
 
             _set_status(
-                "✅ Update applied!  Please restart the app to use the new version.",
+                "✅ Update applied!  Please restart the app to use the new version."
+                + (f"\n    Note: {note}." if note else ""),
                 "#27ae60",
             )
             self._update_ready = False
@@ -4467,6 +4555,11 @@ class BossWikiApp(QMainWindow):
                 _run([git_exe, "branch", f"--set-upstream-to=origin/{default_branch}"])
                 rc2, _, err2 = _run([git_exe, "checkout", f"origin/{default_branch}",
                                      "--", "."], timeout=60)
+                if rc2 == 0:
+                    # Point the branch at it too, or every later check would
+                    # see "no HEAD" / "update available" again.
+                    _run([git_exe, "reset", "--mixed", f"origin/{default_branch}"])
+                    _run([git_exe, "branch", f"--set-upstream-to=origin/{default_branch}"])
                 if rc2 != 0:
                     _set_status(
                         f"❌ Could not sync files:\n{err2 or err}\n\n"
@@ -4497,8 +4590,7 @@ class BossWikiApp(QMainWindow):
             self._update_btn.setEnabled(True)
             return
 
-        rc_l, local_sha, _ = _run([git_exe, "rev-parse", "HEAD"])
-        rc_r, remote_sha, _ = _run([git_exe, "rev-parse", "FETCH_HEAD"])
+        rc_l, _, _ = _run([git_exe, "rev-parse", "HEAD"])
 
         # If HEAD doesn't exist, this repo was partially initialized
         # (e.g. git init + fetch ran but checkout failed on a previous attempt).
@@ -4522,6 +4614,9 @@ class BossWikiApp(QMainWindow):
                 rc_co2, _, err_co2 = _run([git_exe, "checkout",
                                            f"origin/{default_branch}", "--", "."],
                                           timeout=60)
+                if rc_co2 == 0:
+                    _run([git_exe, "reset", "--mixed", f"origin/{default_branch}"])
+                    _run([git_exe, "branch", f"--set-upstream-to=origin/{default_branch}"])
                 if rc_co2 != 0:
                     _set_status(
                         f"❌ Could not complete setup:\n{err_co2 or err_co}",
@@ -4538,13 +4633,22 @@ class BossWikiApp(QMainWindow):
             self._update_btn.setEnabled(True)
             return
 
-        if rc_r != 0:
-            _set_status("❌ Could not read remote revision info.", "#e94560")
+        git = lambda args, timeout=60: _run([git_exe] + args, timeout=timeout)
+        branch = _git_default_branch(git)
+        state = _git_update_state(git, branch)
+        if "error" in state:
+            _set_status(f"❌ Could not read remote revision info.\n{state['error']}", "#e94560")
             self._update_btn.setEnabled(True)
             return
+        local_sha, remote_sha = state["local"], state["remote"]
 
-        if local_sha == remote_sha:
-            _set_status("✅ You are already on the latest version.", "#27ae60")
+        if not state["behind"] or _git_repair_stuck(git, branch, state):
+            if state["ahead"] and not state["behind"]:
+                msg = (f"✅ Up to date — this copy also has {state['ahead']} local "
+                       f"commit(s) that aren't on GitHub yet.")
+            else:
+                msg = "✅ You are already on the latest version."
+            _set_status(msg, "#27ae60")
             self._update_available = False
             self._refresh_hub_update_dot()
             self._update_btn.setEnabled(True)
@@ -4561,9 +4665,13 @@ class BossWikiApp(QMainWindow):
             "QPushButton:hover{background:#2ecc71;}"
             "QPushButton:disabled{background:#1a1a2e;color:#555;}"
         )
+        extra = (f"\n    Your copy has {state['ahead']} commit(s) GitHub doesn't — "
+                 f"updating keeps them on a backup/pre-update-* branch."
+                 if state["ahead"] else "")
         _set_status(
-            f"🆕 A new version is available!  Click \'Update\' to download it.\n"
-            f"    Local: {local_sha[:8]}  →  Remote: {remote_sha[:8]}",
+            f"🆕 A new version is available ({state['behind']} new commit(s)).  "
+            f"Click \'Update\' to download it.\n"
+            f"    Local: {local_sha[:8]}  →  Remote: {remote_sha[:8]}{extra}",
             "#ffd93d",
         )
         self._update_btn.setEnabled(True)
