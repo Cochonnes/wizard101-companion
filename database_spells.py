@@ -22,6 +22,58 @@ from typing import Dict, List, Optional
 
 DB_PATH = Path(__file__).parent / "boss_wiki.db"
 
+# ── Image paths ──────────────────────────────────────────────────────
+# Image paths are stored relative to the app folder (e.g.
+# "spell_images/Fire Dragon.png") so the DB and exported backups keep
+# working when the app lives in a different folder or on another PC.
+# Callers always receive absolute paths from the read helpers below.
+APP_DIR = Path(__file__).resolve().parent
+_IMAGE_DIRS = ("spell_images", "spell_images_fusion", "icon_templates")
+
+
+def to_stored_image_path(path) -> str:
+    """Portable DB form of an image path: relative to the app folder when
+    possible. Absolute paths from another install (an imported backup, or
+    a DB from before paths were stored relatively) are mapped by their
+    image-folder + file name. Anything else is kept as-is."""
+    if not path:
+        return ""
+    s = str(path)
+    p = Path(s)
+    # Also catch absolute paths written on another OS ("/home/…" on
+    # Windows, "C:\…" elsewhere), which Path doesn't flag as absolute.
+    if not (p.is_absolute() or s[:1] in "/\\" or re.match(r"[A-Za-z]:", s)):
+        return p.as_posix()
+    if p.is_absolute():
+        try:
+            return p.resolve().relative_to(APP_DIR).as_posix()
+        except (ValueError, OSError):
+            pass
+    # Split on both separators so a Windows path imported elsewhere works.
+    parts = [x for x in re.split(r"[\\/]+", s) if x]
+    if len(parts) >= 2 and parts[-2] in _IMAGE_DIRS:
+        return f"{parts[-2]}/{parts[-1]}"
+    return s
+
+
+def resolve_image_path(stored) -> str:
+    """Absolute on-disk path for a stored image path ("" stays "")."""
+    if not stored:
+        return ""
+    rel = to_stored_image_path(stored)
+    p = Path(rel)
+    return str(p if p.is_absolute() else APP_DIR / p)
+
+
+def _resolve_row_images(d: dict) -> dict:
+    """Resolve image_path on a spell/preset dict and its spellement paths."""
+    if "image_path" in d:
+        d["image_path"] = resolve_image_path(d["image_path"])
+    for sp in d.get("spellement_paths") or []:
+        if isinstance(sp, dict) and "image_path" in sp:
+            sp["image_path"] = resolve_image_path(sp["image_path"])
+    return d
+
 # ── Schools ──────────────────────────────────────────────────────────
 SPELL_SCHOOLS = [
     "Fire", "Ice", "Storm", "Myth", "Life", "Death", "Balance",
@@ -236,6 +288,26 @@ def _migrate_spell_schema(conn: sqlite3.Connection):
         conn.execute("UPDATE spell_icon_links SET auto=1")
         conn.commit()
 
+    # ── Portable image paths ─────────────────────────────────────────
+    # Older rows stored absolute paths tied to the folder the app ran
+    # from. Rewrite them app-relative; once converted, only paths outside
+    # the app folder (e.g. a user-picked icon) still match this filter.
+    changed = False
+    for table in ("spells", "spell_spellement_paths", "icon_presets"):
+        rows = conn.execute(
+            f"SELECT rowid, image_path FROM {table} "
+            "WHERE image_path LIKE '_:%' OR image_path LIKE '/%' "
+            "OR image_path LIKE '\\%'"
+        ).fetchall()
+        for rowid, old in rows:
+            new = to_stored_image_path(old)
+            if new != old:
+                conn.execute(f"UPDATE {table} SET image_path=? WHERE rowid=?",
+                             (new, rowid))
+                changed = True
+    if changed:
+        conn.commit()
+
 
 # ═══════════════════════════════════════════════════════════════════════
 # SPELL CRUD
@@ -244,6 +316,15 @@ def _migrate_spell_schema(conn: sqlite3.Connection):
 def upsert_spell(conn: sqlite3.Connection, data: dict) -> int:
     """Insert or update a spell. Returns the spell id."""
     now = time.time()
+    # Store image paths in portable (app-relative) form; copy so the
+    # caller's dict keeps its absolute paths.
+    data = dict(data)
+    data["image_path"] = to_stored_image_path(data.get("image_path", ""))
+    data["spellement_paths"] = [
+        dict(p, image_path=to_stored_image_path(p.get("image_path", "")))
+        if isinstance(p, dict) else p
+        for p in data.get("spellement_paths") or []
+    ]
     existing = conn.execute(
         "SELECT id, first_scraped_at FROM spells WHERE name=? COLLATE NOCASE",
         (data["name"],),
@@ -403,7 +484,7 @@ def get_spell(conn: sqlite3.Connection, name: str) -> Optional[dict]:
     ).fetchall()
     if path_rows:
         d["spellement_paths"] = [dict(r) for r in path_rows]
-    return d
+    return _resolve_row_images(d)
 
 
 # ── Acquisition-type classification ──────────────────────────────────
@@ -491,6 +572,7 @@ def list_spells(
         # can filter on training type / fusion without a per-row DB round-trip.
         d["training_info"]   = _load_json(d.pop("training_info_json", "") or "", {"sections": []})
         d["fusion_formulae"] = _load_json(d.pop("fusion_json", "") or "", [])
+        _resolve_row_images(d)
     # Deck-builder eligibility: keep only trainable / craftable / quest spells.
     if deck_eligible_only:
         result = [d for d in result if is_deck_eligible_spell(d)]
@@ -825,7 +907,7 @@ def get_tier_variants(conn, base_name: str) -> List[dict]:
         d = dict(row)
         d["training_sources"] = _load_json(d.pop("training_sources_json", "[]"), [])
         d["spellement_paths"] = _load_json(d.pop("spellement_paths_json", "[]"), [])
-        result.append(d)
+        result.append(_resolve_row_images(d))
     return result
 
 
@@ -974,7 +1056,7 @@ def upsert_icon_preset(conn, data: dict) -> int:
             WHERE id=?
         """, (
             data.get("name", ""), data.get("description", ""),
-            data.get("image_path", ""), data.get("sort_order", 0),
+            to_stored_image_path(data.get("image_path", "")), data.get("sort_order", 0),
             existing["id"],
         ))
         pid = existing["id"]
@@ -984,7 +1066,7 @@ def upsert_icon_preset(conn, data: dict) -> int:
             VALUES (?,?,?,?)
         """, (
             data.get("name", ""), data.get("description", ""),
-            data.get("image_path", ""), data.get("sort_order", 0),
+            to_stored_image_path(data.get("image_path", "")), data.get("sort_order", 0),
         ))
         pid = cur.lastrowid
     conn.commit()
@@ -995,12 +1077,12 @@ def list_icon_presets(conn) -> List[dict]:
     rows = conn.execute(
         "SELECT * FROM icon_presets ORDER BY sort_order, name"
     ).fetchall()
-    return [dict(r) for r in rows]
+    return [_resolve_row_images(dict(r)) for r in rows]
 
 
 def get_icon_preset(conn, preset_id: int) -> Optional[dict]:
     row = conn.execute("SELECT * FROM icon_presets WHERE id=?", (preset_id,)).fetchone()
-    return dict(row) if row else None
+    return _resolve_row_images(dict(row)) if row else None
 
 
 def delete_icon_preset(conn, preset_id: int):
@@ -1086,7 +1168,7 @@ def get_icons_for_spell(conn, spell_id: int) -> List[dict]:
         WHERE sil.spell_id = ?
         ORDER BY sil.sort_order
     """, (spell_id,)).fetchall()
-    return [dict(r) for r in rows]
+    return [_resolve_row_images(dict(r)) for r in rows]
 
 
 # ── Text → icon-preset keyword extraction ──────────────────────────────

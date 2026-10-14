@@ -992,7 +992,7 @@ class SpellDetailDialog(QDialog):
         sid = self._spell.get("id")
         if sid is not None:
             self._conn.execute("UPDATE spells SET image_path=? WHERE id=?",
-                               (str(dest), sid))
+                               (ds.to_stored_image_path(dest), sid))
             self._conn.commit()
         self._reload_current_spell()
 

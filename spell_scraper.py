@@ -1634,7 +1634,7 @@ def _reparse_row(conn: sqlite3.Connection, row) -> bool:
         print(f"  [SKIP] No cached data for {name}")
         return False
     data = SpellParser.parse(wikitext, name, row["wiki_path"] or "")
-    data["image_path"] = row["image_path"] or data["image_path"]
+    data["image_path"] = ds.resolve_image_path(row["image_path"]) or data["image_path"]
 
     # Rebuild training status + fusion from cached rendered HTML if present.
     # Only set the keys when HTML is available — upsert_spell COALESCEs
@@ -1760,7 +1760,8 @@ async def download_missing_images(conn: sqlite3.Connection, client: "SpellWikiCl
     ).fetchall()
     missing = [
         r for r in rows
-        if not r["image_path"] or not Path(r["image_path"]).exists()
+        if not r["image_path"]
+        or not Path(ds.resolve_image_path(r["image_path"])).exists()
     ]
     print(f"\n  {len(missing)} spells missing images — downloading…\n")
     ok = fail = 0
@@ -1789,7 +1790,7 @@ async def download_missing_images(conn: sqlite3.Connection, client: "SpellWikiCl
         if success:
             conn.execute(
                 "UPDATE spells SET image_path=? WHERE name=? COLLATE NOCASE",
-                (str(img_dest), name),
+                (ds.to_stored_image_path(img_dest), name),
             )
             conn.commit()
             print(f"    [OK] Saved → {img_dest.name}")

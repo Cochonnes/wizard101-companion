@@ -205,6 +205,11 @@ def _gather_spells(conn) -> list:
         for heavy in ("id", "raw_wikitext", "ocr_raw",
                       "first_scraped_at", "last_updated_at"):
             sp.pop(heavy, None)
+        # App-relative image paths so the backup works on another PC.
+        sp["image_path"] = ds.to_stored_image_path(sp.get("image_path", ""))
+        for path in sp.get("spellement_paths") or []:
+            if isinstance(path, dict) and "image_path" in path:
+                path["image_path"] = ds.to_stored_image_path(path["image_path"])
         out.append(sp)
     return out
 
